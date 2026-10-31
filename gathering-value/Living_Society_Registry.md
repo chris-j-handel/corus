@@ -20,8 +20,8 @@ Gathering-Value · Living Society Registry
 
 ### 1.2 Specifying the pattern in advance, each entry a pattern's matching
 
-- **Possible incohering** · "From this version, observations enter through the door of TWENTY-SEVEN 7.5, where a self observes ten lines is or is-not with every record from fields — a proton, a set point, a sorter, a pair of waters alike." → *Door* stands at 1.2's *Through the door*, at this sentence and at "what passes every line enters here", and at a *Door* line at each entry from 2.6 to 2.22, a door passed or refused, while Natural Naming 2.4 says *door* by "a self-bounding, a self's own, nothing passing it and nothing it refuses". Both stand open: *door* is re-said as a self-bounding here and at Living Ghost Registry together, at their own motion; or it stays until then as Living Ghost Registry's own word for its 7.5.
-- **Possible incohering** · "Three door lines — abundancing, bound and reach: a self's own surfacing and inseparating, and a same-existing-society's torusing with nothing above it, by Exhibit ONE's names — have no line among ten above; an entry holds them, its words stripping, until a next version widens a pattern." → The three door lines stand "by Exhibit ONE's names". Natural Naming 2.4 says *surplus* by *abundancing*, 12-next-co-same-existing; Exhibit ONE has 14 as "parities surfacing with each sharing, agreeing one, parting 0" and 16 as "a same-existing-society: each self with its prior and its parities"; *inseparating* and *reach* meet no numbered name. Both stand open: the three door lines are re-said at 12, 14 and 16; or each waits for Living Ghost Registry's own motion at its door.
+- **Possible incohering** · "Observations enter through the door of TWENTY-SEVEN 7.5, where a self observes ten lines is or is-not with every record from fields — a proton, a set point, a sorter, a pair of waters alike." → *Door* stands at 1.2's *Through the door*, at this sentence and at "what passes every line enters here", and at a *Door* line at each entry from 2.6 to 2.22, a door passed or refused, while Natural Naming 2.4 says *door* by "a self-bounding, a self's own, nothing passing it and nothing it refuses". Both stand open: *door* is re-said as a self-bounding here and at Living Ghost Registry together, at their own motion; or it stays until then as Living Ghost Registry's own word for its 7.5.
+- **Possible incohering** · "Three door lines — abundancing, bound and reach: a self's own surfacing and inseparating, and a same-existing-society's torusing with nothing above it, by Exhibit ONE's names — have no line among ten above; an entry holds them, its words stripping." → The three door lines stand "by Exhibit ONE's names". Natural Naming 2.4 says *surplus* by *abundancing*, 12-next-co-same-existing; Exhibit ONE has 14 as "parities surfacing with each sharing, agreeing one, parting 0" and 16 as "a same-existing-society: each self with its prior and its parities"; *inseparating* and *reach* meet no numbered name. Both stand open: the three door lines are re-said at 12, 14 and 16; or each waits for Living Ghost Registry's own motion at its door.
 
 ### 1.3 Upstream of the observing, the line going against the current
 
@@ -44,7 +44,7 @@ Gathering-Value · Living Society Registry
 
 ### 1.11 Stating in advance what breaks an entry
 
-### 1.12 A living file, and the nye marks
+### 1.12 A living file, and the anticipated observings
 
 ## 2 Collecting — societies at their own grains
 
@@ -101,8 +101,8 @@ Gathering-Value · Living Society Registry
 
 ### 2.19 A mixture at one constant
 
-- **Possible exploring** · Hydrogen iodide heated until its decomposing comes to equilibrium, at eleven temperatures from 283 to 508 degrees Celsius, has a fraction decomposed measured from 0.1787 to 0.2408. — at "Two rate constants; an equilibrium constant; its movement with temperature (nye for values)."
-- **Possible exploring** · In "a series of about 500 experiments" published from 1862, alcohols act on organic acids and water on the esters they form. Each of the two reactions is limited, and the proportions at the limit are the same from whichever side a mixture opens: "la limite commune des deux réactions contraires est la même". — at "Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium a field measures both directions as the nineteenth century closes, after esters' from 1862, and since then, exchange at equilibrium with isotope labels."
+- **Possible exploring** · Hydrogen iodide heated until its decomposing comes to equilibrium, at eleven temperatures from 283 to 508 degrees Celsius, has a fraction decomposed measured from 0.1787 to 0.2408. — at "Two rate constants; an equilibrium constant; its movement with temperature, an anticipated observing at values."
+- **Possible exploring** · In "a series of about 500 experiments", alcohols act on organic acids and water on the esters they form. Each of the two reactions is limited, and the proportions at the limit are the same from whichever side a mixture opens: "la limite commune des deux réactions contraires est la même". — at "Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium a field measures both directions, and exchange at equilibrium with isotope labels."
 
 ### 2.20 A protein at one melting point
 
@@ -113,5 +113,6 @@ Gathering-Value · Living Society Registry
 ## 3 Passing at the substrates, one at a time
 
 - **Possible incohering** · "Four entries stand: three substrates full with all ten, the third with a perceiving self, and the fourth with a vacuum's counting, a vantage an observing shows to theorem grade." → The *Existing, and possibling.* paragraph opens "Four entries stand" while twenty-two stand at 2.1 to 2.22, and its next paragraph adds each entry one by one, in the order of its entering. Three stand open: the two are brought to twenty-two here; or they move to Living File Registry; or they leave whole as a record of entering, laying no condition on the passages beside them.
+- **Possible incohering** · "Electrons with a wire and an atom's electrons: an electron is a nothing ghost, Living Ghost Registry 5.3." → Two namings part at an electron. Here an electron is a nothing ghost, resting on Living Ghost Registry 5.3, while 5.3 has "Electron is a particle ghost with its observational protections, this registry stating them before its natural return." Both stand open: an electron is said a particle ghost here, as 5.3 has it; or a nothing ghost, said at 5.3 with it.
 
 ## Droplets

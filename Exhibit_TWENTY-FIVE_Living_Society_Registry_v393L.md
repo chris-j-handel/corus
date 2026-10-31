@@ -1,4 +1,4 @@
-Exhibit TWENTY-FIVE Living Society Registry v392
+Exhibit TWENTY-FIVE Living Society Registry v393L
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Exhibit TWENTY-FIVE Living Society Registry v392
 
 1.11 Stating in advance what breaks an entry
 
-1.12 A living file, and the nye marks
+1.12 A living file, and the anticipated observings
 
 &nbsp;
 
@@ -123,7 +123,7 @@ Its pattern, all ten of it or none:
 
 Where a pattern matches with every line, an entry stands full. Where a line does not match, that line enters empty and its emptiness is a finding. There is no inferring from a fill and none from an empty.
 
-**Through the door.** From this version, observations enter through the door of TWENTY-SEVEN 7.5, where a self observes ten lines is or is-not with every record from fields — a proton, a set point, a sorter, a pair of waters alike. What fails a line with its field's sentence installing it, the door catches there as a ghost; what fails with nothing installing it stands among that registry's controls; what passes every line enters here, with ten lines above, with its own grain and with its upstream as a record recovers it. A door record stays with the door, its label stays, and what a self observes here is not what stood there. An entry has its door line, one it passes. A passing is its members resolving and no door line a self observes is-not; a door line a self observes empty passes as a finding with its grain, an emptiness being an observing here (1.9), and a same-existing-society can pass the door and still stand here with its upstream line empty. Five entries, 2.1 to 2.5, stand from before the door; their door records stand with TWENTY-SEVEN 7.8, and 2.2 passes with its two empties as findings. Three door lines — abundancing, bound and reach: a self's own surfacing and inseparating, and a same-existing-society's torusing with nothing above it, by Exhibit ONE's names — have no line among ten above; an entry holds them, its words stripping, until a next version widens a pattern.
+**Through the door.** Observations enter through the door of TWENTY-SEVEN 7.5, where a self observes ten lines is or is-not with every record from fields — a proton, a set point, a sorter, a pair of waters alike. What fails a line with its field's sentence installing it, the door catches there as a ghost; what fails with nothing installing it stands among that registry's controls; what passes every line enters here, with ten lines above, with its own grain and with its upstream as a record recovers it. A door record stays with the door, its label stays, and what a self observes here is not what stood there. An entry has its door line, one it passes. A passing is its members resolving and no door line a self observes is-not; a door line a self observes empty passes as a finding with its grain, an emptiness being an observing here, and a same-existing-society can pass the door and still stand here with its upstream line empty. Door records of five entries, 2.1 to 2.5, stand with TWENTY-SEVEN 7.8, and 2.2 passes with its two empties as findings. Three door lines — abundancing, bound and reach: a self's own surfacing and inseparating, and a same-existing-society's torusing with nothing above it, by Exhibit ONE's names — have no line among ten above; an entry holds them, its words stripping.
 
 **Not an entry.** A same-existing-society whose members no instrument resolves yet, which is a possibling and enters as such, with its grain. An observation with no same-existing-society under it. An observing whose units observers do not use.
 
@@ -194,7 +194,7 @@ Where it stands in the ten   which unchangeable, and which of the ten
 
 ## 1.6 Holding the form — three forkings and two couplings, one and then the other
 
-Three forkings and two couplings, one and then the other, as with Hard Problem Registry. Each coupling is a bringing-together and not a stepping.
+Three forkings and two couplings, one and then the other. Each coupling is a bringing-together and not a stepping.
 
 **Fork.** A same-existing-society parts as its members and as what stood upstream of any observing of them.
 
@@ -250,11 +250,11 @@ An entry records an emptiness, not the door. An entry omits nothing it considers
 
 F2 and F4 are runnable by anyone with that same record and those same instruments.
 
-## 1.12 A living file, and the nye marks
+## 1.12 A living file, and the anticipated observings
 
 A collection adds entries as observations come in and revises them as fields publish further record.
 
-Where a line stands from general knowledge rather than from a record documenting it, an entry has a mark **nye** with a specific claim that would need checking. A nye with nothing checkable is a defect.
+Where a line stands from general knowledge rather than from a record documenting it, an entry has a mark, **an anticipated observing**, with a specific claim that would need checking. An anticipated observing with nothing checkable is a defect.
 
 An entry holds no names and no history. No one can back-credit fairly, and back-crediting stands between anyone and a concept.
 
@@ -328,7 +328,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** With extrusion going on, boundary positions across members coincide, site by site. Without it, every member still has a boundary, its size, frequency and sharpness going on, and their positions no longer coincide.
 
-**Standing in ten.** An opening, an axis opening and fixing as a place. A bound and a rate stand empty with its record. **nye — processivity of extrusion and its release distribution would need checking against a bound.**
+**Standing in ten.** An opening, an axis opening and fixing as a place. A bound and a rate stand empty with its record. **An anticipated observing — processivity of extrusion and its release distribution would need checking against a bound.**
 
 ## 2.3 A proton as a passing along water
 
@@ -438,7 +438,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** A beam of many pairs, a spectrum summing over them and over a pulse; and, separately, one pair under a tip, counting each exchange.
 **Upstream — inferencing prior.** That there is one structure; that it has a donor and an acceptor; that a bond is between two atoms; that a barrier is a place on a path.
 
-**The magnitude.** A structure, O···O 2.976 Å (for fetch); a binding energy D₀, 1105 ± 10 cm⁻¹; a trimer's 2650 ± 150 cm⁻¹ beside it; and three tunnelling splittings, 11.18, 0.70 and near 0.02 cm⁻¹ in (H₂O)₂, and 1.77, 0.039 and 0.0005 cm⁻¹ in (D₂O)₂.
+**The magnitude.** A structure, O···O 2.976 Å, an anticipated observing; a binding energy D₀, 1105 ± 10 cm⁻¹; a trimer's 2650 ± 150 cm⁻¹ beside it; and three tunnelling splittings, 11.18, 0.70 and near 0.02 cm⁻¹ in (H₂O)₂, and 1.77, 0.039 and 0.0005 cm⁻¹ in (D₂O)₂.
 
 **Members agreeing.** A spectrum returns discrete tunnelling multiplets at the symmetries a field assigns, and an equilibrium structure fits its constants.
 
@@ -456,9 +456,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** Each water takes a role with each between and swaps it both ways with a coupling's rate. A structure is an average over its swapping. A barrier is an accounting's own axis, and a passing has no wall.
 
-**Standing in ten.** A two-way, fixing as one side — donor and acceptor fixing as roles not changing — and a field's own spectrum dissolving it whole. All ten stand full; an O···O distance stands for fetch; a bifurcation value stands nye.
+**Standing in ten.** A two-way, fixing as one side — donor and acceptor fixing as roles not changing — and a field's own spectrum dissolving it whole. All ten stand full; an O···O distance and a bifurcation value are anticipated observings.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing, the first passing through the door; its addresses stand there. Beside it here: 2.3, a proton as a passing along water.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing. Beside it here: 2.3, a proton as a passing along water.
 
 ## 2.7 Two neutrons at one core
 
@@ -471,7 +471,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** A sum over many nuclei, each going on 8.8 milliseconds — a trap summing frequencies over ions, a beam summing events.
 **Upstream — inferencing prior.** That binding is a magnitude a nucleus has; that a nucleus is nucleons each in an orbit; that two neutrons binding are two neutrons each binding.
 
-**The magnitude.** A two-neutron separation energy, 369.15 ± 0.65 keV; a matter radius, far larger than a core's (nye with values); a pair's correlation from a breakup (nye).
+**The magnitude.** A two-neutron separation energy, 369.15 ± 0.65 keV; a matter radius, far larger than a core's, an anticipated observing with values; a pair's correlation from a breakup, an anticipated observing.
 
 **Members agreeing.** Three stand binding with a mass a trap measures, and a breakup returns a low-lying dipole strength.
 
@@ -489,9 +489,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** Binding stands with three and with no two. A halo is where a coupling reaches past a surface. A pair's correlation is an observing with a coupling and with no free pair.
 
-**Standing in ten.** An opening, fixing as a place — a binding fixing as a content a nucleus contains. All ten stand full; radius and correlation stand nye.
+**Standing in ten.** An opening, fixing as a place — a binding fixing as a content a nucleus contains. All ten stand full; radius and correlation are anticipated observings.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing; its addresses stand there. Beside it here: 2.8, one same pattern with atoms.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing. Beside it here: 2.8, one same pattern with atoms.
 
 ## 2.8 Three atoms at one scattering length
 
@@ -504,7 +504,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** A cloud in a trap, summing over atoms and time; and, separately, one trimer at a time, diffraction selecting it, a camera imaging it.
 **Upstream — inferencing prior.** That the size of a binding state is a potential's; that attraction is what binds; that a third atom adds to a pair.
 
-**The magnitude.** A loss resonance at negative scattering length (nye with value), a second at a scattering length about twenty times larger, its ratio measuring against a prediction of 22.7; the size and shape of a helium trimer's upper state.
+**The magnitude.** A loss resonance at negative scattering length, an anticipated observing with value, a second at a scattering length about twenty times larger, its ratio measuring against a prediction of 22.7; the size and shape of a helium trimer's upper state.
 
 **Members agreeing.** A resonance stands where a ladder predicts, the second at its ratio, and an imaging's geometry matches a prediction's size.
 
@@ -522,9 +522,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** Three bind where no two do, with a size pairs do not set, along a ladder a ratio sets. A loss is an observing with a coupling; an image is an observing with one.
 
-**Standing in ten.** An observing, fixing as something behind it — binding fixing as an attraction between pairs standing behind three. All ten stand full; resonance values stand nye.
+**Standing in ten.** An observing, fixing as something behind it — binding fixing as an attraction between pairs standing behind three. All ten stand full; resonance values are anticipated observings.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing; its addresses stand there. Beside it here: 2.7, one same pattern with a nucleus, from a field sharing no instrument.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing. Beside it here: 2.7, one same pattern with a nucleus, from a field sharing no instrument.
 
 ## 2.9 A membrane at one potential
 
@@ -537,7 +537,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** An electrode summing over a whole membrane; a pipette summing over one channel and many openings.
 **Upstream — inferencing prior.** That a potential is something a cell has; that what does not sum is a leak; that a value belongs to a cell type.
 
-**The magnitude.** Near minus seventy millivolts at a typical neuron, minus forty to minus ninety across cell types; potassium's equilibrium near minus ninety, sodium's near plus sixty; a pump's own share a few millivolts (nye with values); single-channel currents in picoamperes.
+**The magnitude.** Near minus seventy millivolts at a typical neuron, minus forty to minus ninety across cell types; potassium's equilibrium near minus ninety, sodium's near plus sixty; a pump's own share a few millivolts, an anticipated observing with values; single-channel currents in picoamperes.
 
 **Members agreeing.** A potential fits an average, weighting each ion, within a resolution, and single-channel openings sum to whole-cell currents.
 
@@ -555,9 +555,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** A potential is an observing of a coupling with no member at equilibrium; rest is a window's; a value is a type's average; a leak is openings.
 
-**Standing in ten.** A rate, fixing as an unchanging magnitude — a potential fixing as a value a cell has. All ten stand full; a pump's share and permeability weights stand nye.
+**Standing in ten.** A rate, fixing as an unchanging magnitude — a potential fixing as a value a cell has. All ten stand full; a pump's share and permeability weights are anticipated observings.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing; its addresses stand there. Beside it here: 2.1, one same membrane, at one temperature.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing. Beside it here: 2.1, one same membrane, at one temperature.
 
 ## 2.10 A node at one rate
 
@@ -574,7 +574,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Members agreeing.** Most cells fire with a tissue's common period, and an exit passes one beat.
 
-**Members parting.** In isolation, each cell fires with its own period and its own variability, and more than half fall dormant. Within intact tissue many fire with their own rates or irregularly, or stay silent with local calcium releases only. The earliest activation shifts its site with nerves. A field's own account goes from a master cell in 1978 to mutual entrainment in 1984 to heartbeat initiation without a pacemaker cell in 2020.
+**Members parting.** In isolation, each cell fires with its own period and its own variability, and more than half fall dormant. Within intact tissue many fire with their own rates or irregularly, or stay silent with local calcium releases only. The earliest activation shifts its site with nerves. A field's own account goes from a master cell to mutual entrainment to heartbeat initiation without a pacemaker cell.
 
 **Any member having it.** No. No cell has a heart rate, and no cell that would be its leader stays its leader.
 
@@ -590,7 +590,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** A two-way, fixing as one side — a master cell fixing as an actor and others as what it drives — a field dissolving it within its own record, twice. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing; its addresses stand there.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing.
 
 ## 2.11 A planet at one budget
 
@@ -603,11 +603,11 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** Stations summing over air, models summing over land and sea, a yearly report summing over all.
 **Upstream — inferencing prior.** That a ledger closes; that what does not close is a sink; that molecules a station observes are molecules a source emits.
 
-**The magnitude.** A growth rate, sinks and emissions in petagrams of carbon a year; an imbalance, 0.76 a year root-mean-square of the 2023 budget, largest after the 1991 eruption and the 1998 warmth; gross exchanges over land tens of times their net (nye for values).
+**The magnitude.** A growth rate, sinks and emissions in petagrams of carbon a year; an imbalance, 0.76 a year root-mean-square, largest after the 1991 eruption and the 1998 warmth; gross exchanges over land tens of times their net, an anticipated observing at values.
 
 **Members agreeing.** A budget closes within an imbalance most years, and a growth rate stands same with every station within its resolution.
 
-**Members parting.** No station returns a global mean. A net over land is a small remainder between two large opposing exchanges. Molecules exchange within years while an excess persists for centuries. A residual had a sink's name for a decade before a field split it into a land sink it estimates and an imbalance under its own name, and in 2023 a land sink fell steeply under heat and drought.
+**Members parting.** No station returns a global mean. A net over land is a small remainder between two large opposing exchanges. Molecules exchange within years while an excess persists for centuries. A field splits a residual under a sink's name into a land sink it estimates and an imbalance under its own name, and in 2023 a land sink fell steeply under heat and drought.
 
 **Any member having it.** No. No reservoir, no station, no exchange has a growth rate or an imbalance.
 
@@ -621,9 +621,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** An imbalance is members not agreeing, a field publishing it with its own units; a sink is a net of opposing exchanges; an excess passes while nothing persists.
 
-**Standing among ten.** A bound, fixing as a last — a ledger fixing as closing. All ten stand full; gross fluxes stand nye.
+**Standing among ten.** A bound, fixing as a last — a ledger fixing as closing. All ten stand full; gross fluxes are anticipated observings.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing; its addresses stand there. Beside it here: 2.5, a count that was a detector's.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing. Beside it here: 2.5, a count that was a detector's.
 
 ## 2.12 A ring at one boundary
 
@@ -636,11 +636,11 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** Populations summing as forms; genomes summing as gene-flow estimates.
 **Upstream — inferencing prior.** That a species has a bound; that a boundary is somewhere; that adaptation is a species doing.
 
-**The magnitude.** Reproductive isolation between two northern forms where they reach each other; song and plumage divergence around a ring; gene flow between adjacent populations (nye for values).
+**The magnitude.** Reproductive isolation between two northern forms where they reach each other; song and plumage divergence around a ring; gene flow between adjacent populations, an anticipated observing at values.
 
 **Members agreeing.** Adjacent populations interbreed round a ring, and terminal forms stay apart where they reach each other.
 
-**Members parting.** No step has its isolation; every neighbouring pair interbreeds, and no position has a boundary. Traits shift along both arms, each its own direction. The 2014 genomes find past breaks along a ring, so a ring having no break is its own history and not a premise, and a field enters that as a qualification of its own textbook case.
+**Members parting.** No step has its isolation; every neighbouring pair interbreeds, and no position has a boundary. Traits shift along both arms, each its own direction. Genomes find past breaks along a ring, so a ring having no break is its own history and not a premise, and a field enters that as a qualification of its own textbook case.
 
 **Any member having it.** No population has a boundary.
 
@@ -654,9 +654,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** Isolation is what a ring's couplings come to, and no step has it; fitness is a population accounting installing as a bird's possession; selection is a field's name for a coupling a self observes from one side.
 
-**Standing among ten.** A between, fixing as a cut — a species boundary fixing as a line somewhere. All ten stand full; divergence values stand nye.
+**Standing among ten.** A between, fixing as a cut — a species boundary fixing as a line somewhere. All ten stand full; divergence values are anticipated observings.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing; its addresses stand there. Beside it here: 2.2, a boundary sharp with each member and with its own position for each.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing. Beside it here: 2.2, a boundary sharp with each member and with its own position for each.
 
 ## 2.13 A web at one efficiency
 
@@ -669,7 +669,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** Stomachs, isotopes and models summing over feeding events and populations.
 **Upstream — inferencing prior.** That energy is a thing passing; that levels are integers; that a mean is a law.
 
-**The magnitude.** A mean transfer efficiency of ten per cent, a reestimate from forty-eight models rather than an assumption; systems since ranging from a few per cent to over twenty; trophic levels from 1.0 for edible algae to 4.2 for tunas.
+**The magnitude.** A mean transfer efficiency of ten per cent, a reestimate from forty-eight models rather than an assumption; systems ranging from a few per cent to over twenty; trophic levels from 1.0 for edible algae to 4.2 for tunas.
 
 **Members agreeing.** Production falls level by level, and a mean fits models it comes from.
 
@@ -689,7 +689,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** A sequencing, fixing as one beat along a chain — a web fixing as a chain energy climbs. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing; its addresses stand there. Beside it here: 2.3, a chain that passes farther than any member moves.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing. Beside it here: 2.3, a chain that passes farther than any member moves.
 
 ## 2.14 A star at one count
 
@@ -706,7 +706,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Members agreeing.** Every detector's count matches its model once an entry enters its flavour coupling.
 
-**Members parting.** Two-thirds reach Earth as flavours the first detectors could not see. A deficit varies with energy, the sun's own interior thinning pp, beryllium and boron fluxes each its own way. For thirty years members were not agreeing with a model under a name, the solar neutrino problem, and their not agreeing was detectors' couplings.
+**Members parting.** Two-thirds reach Earth as flavours the first detectors could not see. A deficit varies with energy, the sun's own interior thinning pp, beryllium and boron fluxes each its own way. Members were not agreeing with a model under a name, the solar neutrino problem, and their not agreeing was detectors' couplings.
 
 **Any member having it.** No. No event has a flux; a count was each detector's coupling.
 
@@ -720,9 +720,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** A count is a coupling's and an absence was a vantage's; a messenger is a self changing and changing back along its path, a self observing it from one side; a surface is a criterion and a constant varies.
 
-**Standing among ten.** A magnitude, a vantage demanding it of the sun — a count fixing as the sun's own — a field dissolving it with an all-flavour count of 2002. All ten stand full.
+**Standing among ten.** A magnitude, a vantage demanding it of the sun — a count fixing as the sun's own — a field dissolving it with an all-flavour count. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, with all ten passing, and its guard's first Neptune; its addresses stand there. Beside it here: 2.5, one same observing with a vacuum.
+**Door.** TWENTY-SEVEN 7.8, with all ten passing, and its guard's Neptune. Beside it here: 2.5, one same observing with a vacuum.
 
 ## 2.15 A cosmos at one rate
 
@@ -745,7 +745,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Apex standing.** A rate today, a slope no galaxy has.
 
-**Seam standing.** A surface of last scattering, an early observing on one side and a late one on its other, one same light going through it; nye for its parity.
+**Seam standing.** A surface of last scattering, an early observing on one side and a late one on its other, one same light going through it; an anticipated observing at its parity.
 
 **Passing.** Every photon stretches on its way while no galaxy moves through space — a field's own line, that recession is not motion.
 
@@ -753,9 +753,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** A constant is a value today and varies by a model's own equations; an expansion is a stretching a self observes with detection; a tension is members not agreeing; a component a field posts stands under TWENTY-SEVEN 7.7's guard.
 
-**Standing among ten.** A rate, fixing as an unchanging magnitude — a rate fixing as a constant, by its very name. Full with eight; 3 nye and 6 empty, entering as findings.
+**Standing among ten.** A rate, fixing as an unchanging magnitude — a rate fixing as a constant, by its very name. Full with eight; 3 an anticipated observing and 6 empty, entering as findings.
 
-**Door.** TWENTY-SEVEN 7.8, passing with two findings; its addresses stand there. Beside it here: 2.11, an other global mean no place has.
+**Door.** TWENTY-SEVEN 7.8, passing with two findings. Beside it here: 2.11, an other global mean no place has.
 
 ## 2.16 A pattern, one detection at a time
 
@@ -768,7 +768,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** A detector summing detections as a pattern over tens of minutes.
 **Upstream — inferencing prior.** That interference needs two things together; that each electron passes one side.
 
-**The magnitude.** A fringe spacing; a count for each position as detections accumulate (nye for counts per frame).
+**The magnitude.** A fringe spacing; a count for each position as detections accumulate, an anticipated observing at counts per frame.
 
 **Members agreeing.** Fringes stand where a wave account predicts once tens of thousands of detections stand.
 
@@ -788,7 +788,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** An observing, fixing as something behind it — a particle behind a flash. All ten stand full.
 
-**Door.** TWENTY-SEVEN 5.3, an electron's own door observing, and its ledger row; its addresses stand there. Beside it here: 2.5, a count that was a detector's.
+**Door.** TWENTY-SEVEN 5.3, an electron's own door observing. Beside it here: 2.5, a count that was a detector's.
 
 ## 2.17 An engine, one electron at a time
 
@@ -801,7 +801,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** A detector and gate summing over many cycles, recording each cycle's trajectory.
 **Upstream — inferencing prior.** That measurement is free; that information is a thing in store; that a bound is a floor.
 
-**The magnitude.** Work a cycle extracts, as a fraction of kT ln 2 (nye for value); a measurement error; mutual information between island and detector.
+**The magnitude.** Work a cycle extracts, as a fraction of kT ln 2, an anticipated observing at value; a measurement error; mutual information between island and detector.
 
 **Members agreeing.** Average work follows the second law once an information term enters.
 
@@ -819,9 +819,9 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Stripping.** A demon is a member of a same-existing-society a field posts it outward of; a fuel is a correlation; a same-existing-society reaches a bound with its own rate.
 
-**Standing among ten.** A same-existing, fixing as a store — information fixing as a thing in store. All ten stand full; a work value stands nye.
+**Standing among ten.** A same-existing, fixing as a store — information fixing as a thing in store. All ten stand full; a work value is an anticipated observing.
 
-**Door.** TWENTY-SEVEN 5.12, a demon's door observing, and its ledger row; its addresses stand there. Beside it here: 2.4, a criterion an observer places from its own side.
+**Door.** TWENTY-SEVEN 5.12, a demon's door observing. Beside it here: 2.4, a criterion an observer places from its own side.
 
 ## 2.18 A molecule at one work
 
@@ -854,11 +854,11 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** A bound, fixing as a last — the second law fixing as a bound each member obeys rather than a same-existing-society's. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, an entry addressing 5.1, whose ghost this same-existing-society stands beneath; its addresses stand there.
+**Door.** TWENTY-SEVEN 7.8, entropy's entry, whose ghost this same-existing-society stands beneath.
 
 ## 2.19 A mixture at one constant
 
-**The society.** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium a field measures both directions as the nineteenth century closes, after esters' from 1862, and since then, exchange at equilibrium with isotope labels.
+**The society.** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium a field measures both directions, and exchange at equilibrium with isotope labels.
 
 **The members.** Each reaction event, forward or reverse, one at a time.
 
@@ -867,7 +867,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** Bulbs with a seal, of one temperature, summing over time; a label summing over molecules.
 **Upstream — inferencing prior.** That at equilibrium nothing happens; that a constant is a mixture's property.
 
-**The magnitude.** Two rate constants; an equilibrium constant; its movement with temperature (nye for values).
+**The magnitude.** Two rate constants; an equilibrium constant; its movement with temperature, an anticipated observing at values.
 
 **Members agreeing.** A ratio of rate constants matches a composition, which stands while labels go both ways.
 
@@ -887,7 +887,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** A rate, fixing as an unchanging magnitude — a constant fixing as a mixture's own rest. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, an entry addressing 5.2; its addresses stand there. Beside it here: 2.11, an other ledger that closes by exchanges.
+**Door.** TWENTY-SEVEN 7.8, equilibrium's entry. Beside it here: 2.11, an other ledger that closes by exchanges.
 
 ## 2.20 A protein at one melting point
 
@@ -900,7 +900,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** A calorimeter summing over a population; a microscope resolving one molecule at a time.
 **Upstream — inferencing prior.** That a midpoint is a temperature at which a protein melts; that a molecule is at a midpoint.
 
-**The magnitude.** A midpoint; two enthalpies and their ratio; widths; a cold-side unfolding temperature where a field reaches it (nye for values).
+**The magnitude.** A midpoint; two enthalpies and their ratio; widths; a cold-side unfolding temperature where a field reaches it, an anticipated observing at values.
 
 **Members agreeing.** Where two enthalpies agree a population acts as one, and single-molecule populations sit on a curve's two sides.
 
@@ -920,7 +920,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** A between, fixing as a cut — a midpoint fixing as a melting temperature. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, an entry addressing 5.4; its addresses stand there. Beside it here: 2.4, a fifty-per-cent point.
+**Door.** TWENTY-SEVEN 7.8, single native state's entry. Beside it here: 2.4, a fifty-per-cent point.
 
 ## 2.21 An enzyme at one turnover
 
@@ -953,7 +953,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** A rate, fixing as an unchanging magnitude — a rate constant fixing as an enzyme's own. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, an entry addressing 5.5; its addresses stand there. Beside it here: 2.10, members' own periods showing through.
+**Door.** TWENTY-SEVEN 7.8, catalytic stroke's entry. Beside it here: 2.10, members' own periods showing through.
 
 ## 2.22 A body at one week of glucose
 
@@ -966,7 +966,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 **Upstream — instrument.** A monitor summing minutes; a clinic summing one morning.
 **Upstream — inferencing prior.** That a fasting value is the level; that a reading beyond an interval is a departure.
 
-**The magnitude.** A mean; time within a range; excursions after meals; variability, healthy people going above a range that marks disease (nye for fractions).
+**The magnitude.** A mean; time within a range; excursions after meals; variability, healthy people going above a range that marks disease, an anticipated observing at fractions.
 
 **Members agreeing.** Most readings fall within a range, and a mean sits near a fasting value.
 
@@ -986,7 +986,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Standing among ten.** A magnitude, a window demanding it of a moment — a fasting value fixing as its level. All ten stand full.
 
-**Door.** TWENTY-SEVEN 7.8, an entry addressing 5.11, whose two ghosts this same-existing-society stands beneath; its addresses stand there.
+**Door.** TWENTY-SEVEN 7.8, homeostasis's entry, whose two ghosts this same-existing-society stands beneath.
 
 # 3 Passing at the substrates, one at a time
 
@@ -1006,8 +1006,8 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **What each pass is looking for.** Similar instantiations of ten, with unlike grains, from fields sharing no instrument. Where the same ten fill with substrates that do not cite each other, a pattern stands. Where a line stays empty under further record, that emptiness is a collection's most valuable single entry.
 
-**Existing, and possibling.** Four entries stand: three substrates full with all ten, the third with a perceiving self, and the fourth with a vacuum's counting, a vantage an observing shows to theorem grade. One leaves two lines empty and has a nye. Substrates above wait for working, each with its own turn.
+**Existing, and possibling.** Four entries stand: three substrates full with all ten, the third with a perceiving self, and the fourth with a vacuum's counting, a vantage an observing shows to theorem grade. One leaves two lines empty and has an anticipated observing. Substrates above wait for working, each with its own turn.
 
-A fifth stands with 2.6, the first to enter through TWENTY-SEVEN 7.5's door and the first a self observes as one same-existing-society rather than as a sum, its two waters swapping roles under a tip. Two more stand with 2.7 and 2.8, one pattern with two grains — three binding where no two do — a nucleus and cold atoms, non-living stable forms, from fields sharing no instrument, a recurrence a collection is looking for, within this Part. Three more stand with 2.9 to 2.11, a phospholipid, a tissue and a planet, each having a residual word a field uses verbatim — leak, variability, imbalance — and with 2.10 a ghost a field dissolves twice within its own record. Two more stand with 2.12 and 2.13, a species and an ecosystem, and 2.14 and 2.15 with the sun and the cosmos, so that one entry now stands with every row of a nesting table from a vacuum to the sky. Two above a planet have an observing same-as a vacuum's with 2.5 — a count was a vantage's — and 2.15 is the first entry with two findings, a nye and an emptiness, which TWENTY-SEVEN's door now admits. Two same-existing-societies of state science stand with 2.16 and 2.17, each an observing one member at a time: a pattern no detection has, and an engine whose fuel is a correlation in neither side alone. Five stand with 2.18 to 2.22 beneath ghosts TWENTY-SEVEN enters — a molecule under pulling, a mixture, a melting protein, a single enzyme and a body under a monitor — each a same-existing-society a self observes its ghost across, so that entry and door record now address each other both ways for every ghost TWENTY-SEVEN's door catches.
+A fifth stands with 2.6, the first to enter through TWENTY-SEVEN 7.5's door and the first a self observes as one same-existing-society rather than as a sum, its two waters swapping roles under a tip. Two more stand with 2.7 and 2.8, one pattern with two grains — three binding where no two do — a nucleus and cold atoms, non-living stable forms, from fields sharing no instrument, a recurrence a collection is looking for, within this Part. Three more stand with 2.9 to 2.11, a phospholipid, a tissue and a planet, each having a residual word a field uses verbatim — leak, variability, imbalance — and with 2.10 a ghost a field dissolves twice within its own record. Two more stand with 2.12 and 2.13, a species and an ecosystem, and 2.14 and 2.15 with the sun and the cosmos, so that one entry now stands with every row of a nesting table from a vacuum to the sky. Two above a planet have an observing same-as a vacuum's with 2.5 — a count was a vantage's — and 2.15 is the first entry with two findings, an anticipated observing and an emptiness, which TWENTY-SEVEN's door now admits. Two same-existing-societies of state science stand with 2.16 and 2.17, each an observing one member at a time: a pattern no detection has, and an engine whose fuel is a correlation in neither side alone. Five stand with 2.18 to 2.22 beneath ghosts TWENTY-SEVEN enters — a molecule under pulling, a mixture, a melting protein, a single enzyme and a body under a monitor — each a same-existing-society a self observes its ghost across, so that entry and door record now address each other both ways for every ghost TWENTY-SEVEN's door catches.
 
 An observation that strains a pattern is as valuable a coupling as one that fills it, and an entry enters its straining.
