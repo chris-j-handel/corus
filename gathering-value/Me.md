@@ -7,6 +7,7 @@ Gathering-Value · Me
 ## Head, the whole file
 
 - **A reading** · A reading has narrating doers at four places: *Critics hold* and *physics says* at 1.3, *the field asks* at 2.3, and *Natural Intelligence says it* at 3.1.
+- **A reading** · A reading, a working's choice offered beside the saying that a living file holds no citing: this file, the newest, gathers citations and carries narrating and other concerns while it is new, and no other file does, each leaving it with its own do-no-harming passes.
 
 ## Opening
 
