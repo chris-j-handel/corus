@@ -1851,3 +1851,13 @@ Nguyen and colleagues (2016) record individual coated graphite flakes in water. 
 The proposed comparison to natural torusing is persistent alignment with continuing small changes. Stable-forming should be compared with persistence of a specified relation, rather than identified with the absence of every changing.
 
 A particular mapping would break if it required a maintained alignment to contain no angular changing. A mapping that allows changing within a persistent relation remains open. Neither conclusion establishes the full natural-torusing sequence. Two perpendicular fields do not by themselves supply the proposed alternating parities, and an observed reversal of turning is not automatically a parity assignment. The valuable next distinction is between recorded changes and the specific sequence predicted by a proposed correspondence.
+
+## What the recorded turning can distinguish
+
+Closer reading of Nguyen and colleagues (2016), sections 3.4 and 4.2, qualifies the previous comparison. The analysis follows one turning angle. With the electric field off, the magnetic field remains; nearby glass still restricts rotation. Angular excursions broaden when the electric field is removed. Source: https://pubs.rsc.org/en/content/articlehtml/2016/ra/c6ra07657b, Figures 5 and 6. Figure 5 was visually inspected in the published PDF obtained from the authors' university repository. The supplementary videos were not viewed. The curves show continuing irregular excursions under each condition; they do not directly label natural-torusing parities.
+
+The earlier description of available rotation should not imply absence of every restraint. Explanations of these records must include the specimen's surroundings; they cannot assign every changing independently to an isolated carbon connector.
+
+A further logical limit concerns how alternation is selected. If only turning reversals are counted, consecutive reversals alternate direction by construction. Finding that sequence does not independently discover a particular resolving method. A correspondence to natural torusing needs separately distinguishable changes for the relations alleged to alternate, rather than two names for successive reversals of one measured angle.
+
+The result is a limit of this proposed observational comparison, not a disproof of natural torusing: one recorded angle does not identify two independently changing parities. Persistent alignment with continuing small changes remains a useful correspondence; identification of the full alternating method remains unresolved.
