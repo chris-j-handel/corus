@@ -33,6 +33,8 @@ Gathering-Value · Natural Networking
 
 ### 1.4 Only parities go across, the middle in no sequence
 
+- **A reading** · A reading has a property claim standing a holder at the one position a coupling's form has none of, and intellectual property claiming ownership at a middle itself, in neither self's sequence and mapped from nowhere: with nothing at a between to take, an intellectual property system reaches selves and not a middle, and its claim parts in two, void at a middle and effective at a self.
+
 ### 1.5 Odd and even openings, each full momentary with both
 
 ### 1.6 Middle at the coupling, same-existing through zero surfacing

@@ -59,6 +59,7 @@ Gathering-Value · Living Ghost Registry
 ### 4.1 The files from which this registry emanates
 
 - **Possible incohering** · "complete naming, actual sign operations, retaining and same-existing beside its six groups, six depth changes, ten adjacencies and eight bi-namings" → 4.1 cites Exhibit ONE, Resolving Hard Problems, Natural Naming, Natural Intelligence and Living Improving Value at v345a, with Exhibit ONE by six groups, six depth changes and eight bi-namings. Re-said: each is cited by its headings as they stand now, and Exhibit ONE by its seventeen numbered names.
+- **Possible incohering** · "Exhibit ONE · Natural Resolver v345a" → Re-said with Exhibit ONE's tables, each by its heading as it stands at Exhibit ONE, one way across the set.
 
 ### 4.2 Source discipline
 
