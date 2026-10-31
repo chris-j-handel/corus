@@ -18,6 +18,9 @@ Gathering-Value · Natural Health
 
 - **Possible exploring** · A healthy heart's beat-to-beat variation fades with age and before death, and living societies recover ever more slowly before a collapse. — at "A healthy living self is a self whose floating neutrals sway freely, with no landing point."
 - **A reading** · A reading has each as torusing slowing before it is lost.
+- **A reading** · A reading has slow thinning and local giving-way bothboth, and dying, fast or slow, loss of natural torusing.
+- **Possible exploring** · A field's account, said from memory and unchecked: the chance of dying doubles about every eight years of adult life (1825), yet each death has its local moment; and a dead cell's surface lets dye straight through. — at "A healthy living self is a self whose floating neutrals sway freely, with no landing point."
+- **Possible exploring** · A field's account, said from memory and unchecked: lakes and yeast recovering ever more slowly before collapse, "critical slowing down", are of 2011 and 2012, and a healthy heart's beat-to-beat variation fading with age and before death is of 1992. — at "A healthy living self is a self whose floating neutrals sway freely, with no landing point."
 
 ### 2.2 The target is the compaction, and health has its own strongest edging
 
