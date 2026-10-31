@@ -154,6 +154,7 @@ Gathering-Value · Living Ghost Registry
 ### 7.5 The door — one observing at two sides
 
 - **Possible incohering** · "Door lines 3, 4, 6 and 9 go with four within namings, and lines 1, 2, 5, 7, 8 and 10 with membrane namings." → Exhibit ONE has seventeen numbered names and no within or membrane namings. 7.11 seats lines 3, 4, 6 and 9 at 12, 14, 10 and 16, "within", and lines 1, 2, 5, 7, 8 and 10 "at the membrane". Both stand open: 7.5's assignment and 7.11's two faces are re-said at Exhibit ONE's numbered names; or they are carried whole as a record of an earlier code's namings. The next paragraph's "Lines 3, 4, 6 and 9 go with tunneling, inversioning, surfacing and inseparating with four within boundings a self proposes." goes with it.
+- **Possible incohering** · "This registry is the door and TWENTY-FIVE is its entry." → *Door* names 7.5 and each door observing of 7.8, a record passing or caught there, and stands at Living Society Registry's 1.2 and at a *Door* line at each of its entries from 2.6, while Natural Naming 2.4 says *door* by "a self-bounding, a self's own, nothing passing it and nothing it refuses". Both stand open: *door* is re-said as a self-bounding here and at Living Society Registry together, at their own motion; or it stays until then as this registry's own word for its 7.5.
 
 ### 7.6 The kind line — state, flow, or both
 
