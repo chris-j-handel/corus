@@ -17,6 +17,7 @@ Gathering-Value · Natural Resolver
 - **A reading** · A pattern-matching meets the resolver's stable forms six forward, and code run validates no observing.
 - **Possible incohering** · "Each table of Exhibit ONE is an executing." → A saying parting from it: a table of selves is prior to the code, one of the method's stable forms, and the code is checked at it. Each table an executing, and each table prior to the code with the code checked at it, stand beside each other, two sayings parting.
 - **Possible incohering** · "Any self executing a table finds it same." → Beside it: one self at one momentary is one table, its prior, the parities it is observing now, its changing is or is not and its next prior, no function holding a term of its own; an agent executes the table, and a person reads one row by hand, tracing the first function at that row, and says that it did.
+- **Possible incohering** · "A resolver is same each time any self executes it." → Beside it: only Exhibit ONE's naming and its path through its functions is stable form, each other part of Exhibit ONE floating, and a change to the code enters only as `resolver_same_path.py` shows the same resolving.
 
 ### Seventeen names
 
