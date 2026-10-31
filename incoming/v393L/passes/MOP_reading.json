@@ -1,0 +1,55 @@
+{
+ "corrections": [
+  {
+   "from": "- **Keep the observing in the source's own words where they are the field's**: w",
+   "finding": "The source's *what was observed* became *what a field observes*, a doer installed over the observing, Natural Explaining 3.2; said *what is observed*. The slice's two bullets *A field's reading of its own result* and *A measure the source says it did not read itself* have their values in this item and no entry of their own; each is given as a leaving gathered here.",
+   "fixed": [
+    {
+     "file": "Natural Explaining",
+     "section": "1.6 A file is a membrane, and only signs go across it",
+     "kind": "incohering",
+     "sentence": "Incoming, an observing goes across bare: a field's word goes whole, and a ground a self takes it against grounds nothing.",
+     "text": "Beside it, at a gathering: an observing goes across with each of its field's words as its source says it: what is observed, in what, by what means and at what scale. An explaining line is read for observings within it before it leaves, and an observing within it is gathered. A field's reading of its own result, said at all, is marked as the field's reading, and a measure its source says it does not read itself is a field's account.",
+     "from": "- **Keep the observing in the source's own words where they are the field's**: w"
+    },
+    {
+     "from": "- **A field's reading of its own result**, kept at all, is marked as the field's",
+     "why": "gathered at Natural Explaining 1.6, with the item from \"- **Keep the observing in the source's own words where they are the field's**: w\""
+    },
+    {
+     "from": "- **A measure the source says it did not read itself** stands as a field's accou",
+     "why": "gathered at Natural Explaining 1.6, with the item from \"- **Keep the observing in the source's own words where they are the field's**: w\""
+    }
+   ]
+  },
+  {
+   "from": "Exact trace, source address and repair work remain with Living Improving Value.",
+   "finding": "The source address leaving is right: it is a pointer, and no version of Living Improving Value or the Session Record in git holds this test-kit ledger case (git log -S \"test-kit\" over both paths returns nothing; the archived v368 and v372 Living Improving Value name the test kit and not this case), so no run or result stands behind it to gather, and the case's result is said in the sentences before it. But *repair work* is a plan for work, or a record of work done, and a gathering-value has no record, plan or history (gathering-value Geodesic Improving Method 1.6), the reason the re-saying gives for the address leaving; it leaves with the address. For that same reason *next implementation to examine there* re-said *at this file's gathering-value* places a plan at a gathering-value; *there* dissolves with its pointing, adding no place. The trace, a run's return, goes to the gathering-value as where it goes: none of it is gathered there now. The 484 re-saying stands.",
+   "fixed": {
+    "file": "Natural Engineering",
+    "section": "1.8 Network",
+    "kind": "incohering",
+    "sentence": "Exact trace, source address and repair work remain with Living Improving Value.",
+    "text": "Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Exact trace goes to this file's gathering-value, and its source address and its repair work leave, git having each prior version.* With it, *A return belonging to its completing coupling, a ledger retaining it until its consuming, is next implementation to examine there.* is *A return belonging to its completing coupling, a ledger retaining it until its consuming, is next implementation to examine.*, and at this section *Instrument's exact rule and remaining hosting relation go on with Living Improving Value.* is *Instrument's exact rule and remaining hosting relation go to this file's gathering-value.*",
+    "from": "Exact trace, source address and repair work remain with Living Improving Value."
+   }
+  },
+  {
+   "from": "**Addresses.** Living: Living Improving Value v343, gathering directing to Medic",
+   "finding": "*git having it* is untrue: no Living Improving Value at v343 is in git, the earliest being v368 within the v372 commit; and the repository tree at Living Ghost Registry v343's commit holds no such file. The address is a pointer; its gathering's value, residual disease's chosen floors, is at Natural Medicine. The leaving stands, its reason said truly.",
+   "fixed": {
+    "from": "**Addresses.** Living: Living Improving Value v343, gathering directing to Medic",
+    "why": "source: Living Ghost Registry 5.6's address, a pointer naming Living Improving Value v343, a version git has none of; its gathering's value held at Natural Medicine: \"A floor declared and counted from, and a field catching its own word holding a magnitude it could not support.\""
+   }
+  },
+  {
+   "from": "**Addresses.** Living: Natural Naming 7.2; Living Improving Value v343, Health a",
+   "finding": "*git having it* is untrue: no Living Improving Value at v343 is in git. The address is a pointer with nothing reachable behind it; the leaving stands, its reason said truly.",
+   "fixed": {
+    "from": "**Addresses.** Living: Natural Naming 7.2; Living Improving Value v343, Health a",
+    "why": "source: Living Ghost Registry 5.7's address, a pointer naming Living Improving Value v343, a version git has none of"
+   }
+  }
+ ],
+ "checked": 26
+}

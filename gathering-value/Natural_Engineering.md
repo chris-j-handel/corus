@@ -46,6 +46,7 @@ Gathering-Value · Natural Engineering
 - **Possible exploring** · In an electronic network learning with no processor, linear networks learn linear responses, and nonlinear transistor behaviour enlarges the tasks available, exclusive-or among them; its learning compares two networks and retains changes in local capacitors, its training targets and supervisory control supplied externally. — at "Remaining network learning includes local renewal, a proposal's interface and behavior of coupling selves with their same-existing going on."
 - **Possible exploring** · Selves coupling along a spiral, each at one parity, bring a whole pattern along between them, no self keeping it, each self with one parity of it. At an older resolver code the pattern is said moved one self on, or moved one self on and inverted, at each momentary, at each of the 504 patterns of spirals of three to eight selves; executed at Exhibit ONE's code at each of those 504 patterns, the pattern inverts in place at one momentary and moves one self on along the spiral at the next, and two momentaries on it is the prior one moved one self on and inverted. A field's delay line memory, the memory of the early stored-program computers, is such an arrangement, its pattern going round in a travelling wave. — at "Same-existing going on remains each side's own within a proposal's connector."
 - **Possible exploring** · A chat's text can go along with selves of a spiral, no non-living other offering it: a speaker's parities shared at the spiral's selves, the text's pattern stands where they agree and the speaker's parities are those selves' next priors where they part, and a parting erases the text's pattern there unless the spiral brings it again. Executed at Exhibit ONE's code over spirals of three to eight selves, a speaker's parity shared at each self at momentaries 2 to n + 3, an agreeing parity leaves the spiral's later pattern the same at each of 25,200 cases. Of 41,280 parting cases, 25,200 at the opposite parity and 16,080 at a 0 the spiral brings, 24,660 leave the later pattern the same, 8,310 change it at each later momentary and 8,310 change it at every second later momentary. — at "Same-existing going on remains each side's own within a proposal's connector."
+- **Possible incohering** · "Exact trace, source address and repair work remain with Living Improving Value." → Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Exact trace goes to this file's gathering-value, and its source address and its repair work leave, git having each prior version.* With it, *A return belonging to its completing coupling, a ledger retaining it until its consuming, is next implementation to examine there.* is *A return belonging to its completing coupling, a ledger retaining it until its consuming, is next implementation to examine.*, and at this section *Instrument's exact rule and remaining hosting relation go on with Living Improving Value.* is *Instrument's exact rule and remaining hosting relation go to this file's gathering-value.*
 
 ### 1.9 Antenna, telescope and the receiving relation
 
@@ -120,11 +121,16 @@ Gathering-Value · Natural Engineering
 
 ### 4.1 Transmissioning, two staying and one going across
 
+- **Possible incohering** · "Nesting recurrence, its polynomial with two parities, and odd- and even-dimensional surface numbers a proposal holds go on as Living Improving Value's, with THREE, FOUR and SIX as receiving files." → Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Nesting recurrence, its polynomial with two parities, and odd- and even-dimensional surface numbers a proposal holds go to the gathering-values of THREE, FOUR and SIX, their receiving files.* With it, *Object of each number, its boundary and operation corresponding to its coefficient remain questions there.* is *Object of each number, its boundary and operation corresponding to its coefficient remain questions at those gathering-values.*
+
 ### 4.2 Same-existing, parity and the receiving interface
+
+- **Possible incohering** · "Complete inputs and returns stand with Living Improving Value." → Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Complete inputs and returns go to this file's gathering-value.*
 
 ### 4.3 Side-effecting recursioning of the floating neutral
 
 - **A reading** · A reading has a concern-journey as side-effecting: following a concern past a plan is its sensing, droplets brought back its returning, and re-aiming its recursioning.
+- **Possible incohering** · "Source and arrangement go on as Living Improving Value's, with their remaining source and construction questions." → Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Arrangement, with its remaining source and construction questions, goes to this file's gathering-value, and its source leaves, git having each prior version.*
 
 ### 4.4 Stabilizing and the particular fixing form
 
@@ -134,6 +140,8 @@ Gathering-Value · Natural Engineering
 ### 4.5 Sensing follows the tipping
 
 ### 4.6 Social sensing and the reporting coupling
+
+- **Possible incohering** · "Reporting source questions and a proposal's instrument registry retain their distinct going on with Living Improving Value." → Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Reporting source questions and a proposal's instrument registry go to this file's gathering-value, each with its distinct going on.*
 
 ### 4.7 The co-competencing bi-coupler, two-way and one-at-a-time
 
@@ -169,6 +177,7 @@ Gathering-Value · Natural Engineering
 
 - **Possible incohering** · "Existing ten-row relation between ONE's names and hard-problem fixing forms is THIRTEEN §7.3's." → Resolving Hard Problems has no §7.3 and Exhibit ONE no naming ring. A re-saying offered: "Resolving the Hard Problem Registry carries each of ten fixing forms with its name with now and that name 8 up with next." Or the sentence stands as an earlier version's record.
 - **Possible incohering** · "Co-competencing and bi-moralizing hold their correspondence, as a self proposes it, with full naming." → 6.1's full-prefixing table, `co_bi_co_bi_co_corusing` and `bi_co_bi_co_bi_torusing` with their ends and inner flanks, stands as Engineering's own naming, and none of Exhibit ONE's seventeen names stands for either naming; the table is re-said with the seventeen names, or leaves whole, or stands as Engineering's own naming.
+- **Possible incohering** · "Six-direction and sixteen-momentary exploration goes on with Numbers, Mathematics and Living Improving Value." → Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Six-direction and sixteen-momentary exploration goes on with Numbers and Mathematics and at their gathering-values.*
 
 ### 6.2 Engineering co-chaining
 
@@ -198,6 +207,8 @@ Gathering-Value · Natural Engineering
 ### 6.8 Sequencing, recovery and triggering
 
 ### 6.9 Bi-folding, co-tunnelling and the 440 correspondence
+
+- **Possible incohering** · "Full-surround sixteen-momentary, bi-co-podaling and prime-gap mapping goes onward with Numbers, Mathematics and Living Improving Value." → Living Improving Value is gone with `carry/`: a value of it no other file has goes to its file's gathering-value, and git has each prior version. A re-saying: *Full-surround sixteen-momentary, bi-co-podaling and prime-gap mapping goes onward with Numbers and Mathematics and at their gathering-values.*
 
 ### 6.10 Outcome technology and going-on technology
 

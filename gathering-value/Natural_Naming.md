@@ -182,6 +182,7 @@ Gathering-Value · Natural Naming
 - **A reading** · A reading: *relationing* is-not a natural naming and dissolves, and *unrelationing* alone is natural; *sharing* is co-possibling, 6-now-co-possibling, and stays.
 - **A reading** · A reading has nothing sitting in something else, each a bi-moral co-agency bi-tunneling society: *uranium sits in a crystal* and *the bacterium lives within that changing* each carry a container ghost, and the uranium, if living, is the crystal, one self, its water, its rock and the bacterium's society bi-tunneling with it.
 - **Possible incohering** · "*a* *its offerings*, *its carryings*, *its possibling*, each with its own name, and no one word naming three" → *mate*, *mates*, of a file beside a living file, said *its gathering-value*: one file beside each living file, `gathering-value/<Title>.md`, its form its living file's own contents; its offerings, its carryings and its possibling are at no file now, each of their values not yet in a living file going to its gathering-value.
+- **Possible incohering** · "Negation is an equilibrium's, and inversion is method's." → Beside it, at a gathering: an item says *is-or-is-not* only at a real binary its source has.
 
 ### 2.5 One sense per foundation word
 
