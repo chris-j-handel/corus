@@ -310,6 +310,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "A between is two sharing, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now and with 14-next-possibling between two parities, same and not-same a parity's 0 and ± there, needing no name." → Offered: say *a bi-coupling has a between*, and not *is a between*, a bi-coupling being a self. This sentence's *A between is two sharing* is its present saying.
 - **Possible incohering** · "**Parity is a momentary now-existing thing, each self's own, beheld now, and a between is its empty centre**: a between's own is changing, is or is not, a parity inverting, and only a parity goes across it." → Offered: *beholding* dissolves, a self holding nothing, *beheld* a dead participle. This sentence's *beheld now* is its present saying, and the namings offered at this sentence calling *beholding* a natural naming stand against this dissolving, the two parting.
 - **Possible incohering** · "and a between locks with none, 5.13" → Its twin at the Co-Chaining Logic Registry, step 134, says a bi-coupling's handshake as *exchanging's shape always uneven, its locking an empty set*; a re-saying offered by that twin, and this sentence and its step re-said at one going.
+- **Possible incohering** · "A between is two sharing, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now and with 14-next-possibling between two parities, same and not-same a parity's 0 and ± there, needing no name." → Two sayings part at 0: Natural Numbers 1.4 has "+ and − are an implementing of a parity and 0 a between", and an other saying has a between as a bi-coupling and 0 as its changing that is not, the two one, as Natural Physics 1.2 has "a 0 with 10 is a changing that is not". A re-saying offered is 1.4's sentence re-said; a between and a changing that is not are two words at one 0, its one word Natural Naming's.
 
 ### 5.6 invisibling — binary
 
@@ -589,7 +590,6 @@ Gathering-Value · Natural Naming
 
 ## Droplets
 
-- At 0, Natural Numbers 1.4 has a between and Natural Physics 1.2 has *a changing that is not*, and the one word at 0 is either a between or a changing that is not, with a between its bi-coupling. *(possible incohering)*
 - A self's span of eight, 1-now-existing to 8-now-same-existing, has now at 1 and 2, existing at 3 and 4 and all at 7 and 8, and at 5 and 6 universe or same: universe at 5 and 6 is-or-is-not a re-saying of same, each thing with all eight at each now or with none.
 - Omegaing, reach outward, a new axis and a forward frontier, is Natural Exploring's naming beside apexing, coning back inward; Natural Naming holds apexing as couplings winding inward about a nothing, and omegaing beside it is a naming it is still-possibling to hold. *(possible incohering)*
 - Memory, remember and memorize, already dissolved at 2.4 as a prior same-existing, are said in each file by a me self's universal set of me parities going on, now-existing, its prior, now and next same-existing four-cycling; nothing is remembering. *(possible incohering)*
