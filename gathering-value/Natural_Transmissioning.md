@@ -79,6 +79,7 @@ Gathering-Value · Natural Transmissioning
 ### 4.2 Through-node and landing, transmissioning whole or separating
 
 - **Possible incohering** · "So safe and riding-the-carry and off-avalanching are one property, a through-node whole, a node that goes on only while its arms change and change back, having no store to avalanche; and its danger is a separation, a store its collapse leaves." → *store* at 4.2, "having no store to avalanche" and "a store its collapse leaves", parts from Natural Naming 2.4's "nothing is a store, and a middle is a nothing". Two sides: *store* re-said as a carry, a continuing, and nothing is a store, as Natural Naming 2.4's row for *kept* as a store says it; or 4.2's *store* this file's own contrast with a sharing across, parting from nothing.
+- **A reading** · With releasing an uncoupling and a self's next momentarying, a releasing alone is no same-existing-society's ceasing, and 4.2's single crossing and 4.3's same-existing-society of crossings stand each at its own subject.
 
 ### 4.3 Natural network, transmissionings co-chaining, all-edge
 
