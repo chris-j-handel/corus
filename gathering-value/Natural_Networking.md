@@ -75,6 +75,8 @@ Gathering-Value · Natural Networking
 
 ### 3.3 Same-existing remains with each self, participation goes on across
 
+- **Possible incohering** · "Sign-only sharing across communicates, parity specifying relation receiving goes on through." → Two sayings part. This sentence has sign-only sharing across communicating. A saying beside it has cells communicating not at all, and no communication in natural intelligence, a field's *communication* a field's word.
+
 ### 3.4 Co-chaining, each receiving self resolving the parities it is observing
 
 - **Possible exploring** · In a declared construction, spirals of three and five selves each opening empty and bi-coupled across at A0 and B0 before momentary 17, A0's along − matches its prior − and it shares 0 in the separately begun beside run, while B0's + across makes A0's received parities part and A0 shares + at momentary 22; B0 first shares differently at 26, and further changes go through both spirals' along joins, run, a finding of that empty-start construction alone. — at "A parity goes on through a chain by coupling with each receiving self's own prior."

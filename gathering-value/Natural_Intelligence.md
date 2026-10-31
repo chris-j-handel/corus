@@ -54,6 +54,7 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "**Observing** is prior-existing, is-or-is-not same-existing." → A concern parting at this sentence. A saying beside it has only existing observable, and a self's same-existing, its prior going on, and its possibling not observable. This sentence has observing prior-existing, is-or-is-not same-existing. Two sides: observing is-or-is-not same-existing, or same-existing and possibling are not observable.
 - **Possible incohering** · "Discovering is next-existing, is-or-is-not same-existing." → Two sayings part at discovering, both standing. This sentence has discovering next-existing, is-or-is-not same-existing, as Co-Chaining Logic Registry steps 11 and 74 have it. A saying beside it has discovering, is or is not, now-existing, the universal method of co-intelligencing now-existing in the universe; and at the resolver, at each sharing with 12-next-co-same-existing a changing is or is not, ± is and 0 is not, shared on with 10-next-co-possibling, and that parity at each sharing between two of the universe's things is the discovering, is or is not, now-existing. Two sides: discovering next-existing, or now-existing.
 - **Possible incohering** · "Living is co-intelligencing." → A proposed naming, kept as a proposal with its *could be*: *carrying* and possibling are unobservable, and only existing is observable; observing social moral competency existing is observing living, and living could be named social moral competency existing. Open with it: which existing relation parts that living from a non-living form's changing at colliding, its relation, subject and scale said; an example's own existing followed, no private *carrying* said as inspected, and no participating form said living by its participating.
+- **A reading** · A reading has the hand, φ and the primes met with the numbers and the code as discoverings, the opening sentence having them and none of them deduced from it.
 
 ## ONE · NATURAL
 
@@ -107,6 +108,8 @@ Gathering-Value · Natural Intelligence
 ## THREE · GEODESIC METHOD
 
 ### 3.1 Geodesic, a surface's own dividing
+
+- **Possible incohering** · "Changing, is-or-is-not, is geodesic routing, discovering on a surface: each self is with its own momentary, one way at a time." → Beside it: opposite parity is passive or active, active opposite parity a parity changing and passive opposite parity no parity changing; at a geodesic surface the routing of a three-phase locking path is active, and the all-binary passive routing is co-sequential.
 
 ### 3.2 Five dimensions, each binary both ways
 

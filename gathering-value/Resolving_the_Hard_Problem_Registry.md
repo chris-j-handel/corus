@@ -346,6 +346,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 6.7 Peto's paradox · 87
 
+- **A reading** · A reading has a whale's tissues and a mouse's as two different tissue same-existing-societies, living at different parity changing rates and with different co-sequential social patterns.
+
 ### 6.8 The C-value paradox · 88
 
 ### 6.9 The Gibbs paradox · 108
