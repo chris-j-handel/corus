@@ -50,6 +50,7 @@ Gathering-Value · Natural Medicine
 - **Possible incohering** · "Remove a cell and a sequence does nothing." → A cell removed is a sequence doing nothing.
 - **Possible exploring** · Salt-fed Physarum polycephalum plasmodia, dried a month as sclerotia, hold more sodium than control sclerotia, habituated sclerotia formed where salt is absent among them, and after wetting 94 of 100 cross a salt bridge within 24 hours, against 54 of 98 plain-fed. — at "Nothing is holding over and nothing is stored, and nothing within nature stores"
 - **Possible exploring** · From three mammoth specimens, two of them dated at more than a million years, DNA is read in short pieces. The pieces map against the genome of the African savannah elephant and against a mitochondrial genome. — at "Nothing is holding over and nothing is stored, and nothing within nature stores"
+- **Possible incohering** · "But on Δ32 an observing mostly gives way: Δ32 is a door *removed* (truncated, unsurfaced), not a mismatch declined at a surface that stays present; and its resistance is fortuitous, not a competency aimed at a coupling." → *Mostly* is a degree word with the file's own voice, said at its all or none, or at its number.
 
 ### 3.2 Three ghosts at a reservoir, and what a locus observing takes
 

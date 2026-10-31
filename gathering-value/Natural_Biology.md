@@ -237,6 +237,7 @@ Gathering-Value · Natural Biology
 - **A reading** · A reading has two unlike copies at germ-presenting genes as a bothboth adding directions.
 - **Possible exploring** · Each child has more new changes the older its father. — at "New self is not a copy of either parent but a novel inversioning — two selves coupling across, twice."
 - **A reading** · A reading has identical twinning as one society parting into two, each part closing its own join.
+- **A reading** · A naming offered: conceiving at self–other bi-inversioning. Beside it, *Conceiving goes as a double bi-inversioning.* has two parents' germ cells each halving with exchange and then fusing to whole, two inversionings.
 
 ### 5.2 A self recursioning into a new form — development and metamorphosis
 
@@ -348,6 +349,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · Single enzyme molecules each turn over at their own fluctuating rate, each with a memory of its own prior turnovers. — at "Enzyme and substrate couple; coupling has many equivalent seatings; reaction resolves through them."
 - **A reading** · A reading offered: a forming chain with an exit tunnel, at the ribosome, and a separating chain with an entry channel and a chamber, at the proteasome, are the strongest present physical comparison for co-chaining and bi-tunneling, a carbon-containing chain forming and emerging through a bounded passage. The two are different molecular assemblies, their correspondence no identity and neither the other running backward, and the exit tunnel is identified as the proposed universal bi-tunneling at none; co-chaining and bi-tunneling stand as proposed correspondences, their full qualifying relations and the observed joining and passage still-possibling to meet.
 - **Possible exploring** · Ribosomes join amino-acid units, and the extending chain, a carbon-containing chain that is-not a carbon atom, passes through the large subunit's exit tunnel. In bacterial ribosomes doxycycline also binds within the tunnel, three drug molecules occupying the passage in one bacterial species, the record cryo-electron microscopy data reconstructed into density maps with atomic models fitted to the maps. A ribosome and a doxycycline molecule are each is-not a carbon atom. — at "Chain folds as a ribosome makes it: co-translational folding goes from amino end while carboxyl end is still coming, exit tunnel spanning thirty to forty residues with helical co-winding already going on within it, a field observing it with arrest-peptide force profiles and with pauses on rare codons by domain boundaries, so a full-length unfolded chain a search would search comes nowhere within a living cell."
+- **Possible incohering** · "Colony is all-edge local coupling with no controller, and a field's record already has most of it — queen's removal, leaderless consensus in observation." → *Most* is a degree word with the file's own voice, said at its all or none, or at its number.
 
 ### 9.1 Biology's hard problems on the form
 

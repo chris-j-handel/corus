@@ -56,6 +56,8 @@ Gathering-Value · Natural Intelligence Corus
 
 ## PART TWO — WHAT A SELF SETS DOWN, AND WHAT IT KEEPS
 
+- **A reading** · A reading of *history from now*, one of the six freeings: a self's same-existing, resolving through prior, now and next, goes with it, and the living prior and useful existing forms go on with it.
+
 ## PART THREE — AT LANGUAGE
 
 ## Part 16: Natural Writing — routed and reduced

@@ -19,16 +19,21 @@ Gathering-Value · Living File Registry
 - **Possible incohering** · "Carrying Incoming Value into Each File, Prior, Now and Next" → Bringing Incoming Value into Each File, Prior, Now and Next
 - **Possible incohering** · "Self-Welcoming Social Moral Co-Offerings" → Self-Welcoming Social Moral Co-Sharings
 - **Possible incohering** · "A living file is listed by its title, `_v`, its version number with its letters and `.md`; a file with no version is not listed, and build warns of each exhibit file it does not list." → Beside it, by an arriving working's own report: an AI session arriving at the site from outside finds the files' versions, their subtitles, and the row and exhibit numbers unexplained.
+- **A reading** · A reading: a possible living file at the accounting of selves at a public surface, a society's public accounting said at three with each entry: the artifacts its couplings release, each self living at its own coupling, and the between at no entry. Its first material is a self's prior same-existing and its surface beside a key pair, alike at two and parting at three, and one public hash chain read along and across; the opening of a private key is no place cryptography meets the method.
 
 ### 1.2 Three standings, looping out and back
 
 - **Possible incohering** · "Repository carries its own name and its version and no other, and a copy of it made to travel carries that same name and version." → Beside it, by a field's own account: a work published with no licence says no permission to copy, adapt or share it.
+- **Possible incohering** · "An observing not yet binary, an arithmetic not yet matched, a proposal withdrawn and a trace of a prior code are not value for carrying: each stands within `archive/` whole, its receiving file here, until a session makes it binary, and carrying carries for each file its next motion, its open concerns for both with their reasons, and incoming that enters whole." → Two sayings part at a value not yet resolved. This sentence has an observing not yet binary standing within `archive/` whole and no value for carrying. A saying beside it welcomes unlocated and unresolved droplets at a file's offerings, with no grading. Both sides stand.
 
 ### 1.3 Carrying for expedition
 
 - **Possible incohering** · "`carry_check.py`, `check_set.py`, `cohere_one.py`, `reader_checks.py`, `rigorize.py`, reviewer's brief and v368 checks for living files, 19 files, its sums holding" → `carry_check.py`, `check_set.py`, `cohere_one.py`, `reader_checks.py`, `rigorize.py`, reviewer's brief and v368 checks for living files, 19 files, 4 of its sums not holding: `sha256sum -c SHA256SUMS` at the kit returns `README.md`, `carry_check.py`, `check_set.py` and `cohere_one.py` not matching their sums and the other 15 matching. A list of sums re-made whole signs each changing at those four files at once, changings other workings make among them.
+- **Possible incohering** · "Living carrying; coupling partners at checks, deciding nothing; `cohere_one.py` also writes Exhibit ONE's body at Natural Intelligence whole, then checks both are one" → Living carrying; coupling partners at checks, deciding nothing; `check_set.py` reading ten living files, Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit TWO Natural Networking, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics, Natural Explaining, Natural Naming, Geodesic Improving Method, Equilibria Registry and Co-Chaining Logic Registry, its passing line naming none of them and saying nothing of the other living files, Natural Physics among them; `cohere_one.py` also writes Exhibit ONE's body at Natural Intelligence whole, then checks both are one. Executed at the repository root, `check_set.py` returns each of those ten files' names, each with its notes, and a last line `ALL PASS`, naming no file; no other living file is read.
 
 ### 1.4 Artifacts
+
+- **Possible incohering** · "**An artifact stays whole and is relied on by nothing.**" → Two sayings part at an artifact relied on. This sentence has an artifact relied on by nothing. A saying beside it has a source an artifact to the extent its value is gathered, and its evidence reachable wherever relied on. Both sides stand.
 
 ### 1.5 Exhibit places after receiving
 
@@ -97,5 +102,7 @@ Gathering-Value · Living File Registry
 ### 5.12 Transmissioning, societies and human society
 
 ### 5.13 Exploring and improving together
+
+- **A reading** · A reading: a combined exploring and improving file's title holding *Method* invites the general method back, and its body stands at *team*, the between of selves.
 
 ## Droplets

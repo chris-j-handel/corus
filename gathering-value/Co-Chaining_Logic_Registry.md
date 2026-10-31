@@ -50,6 +50,7 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 4 Social moral competency, a natural intelligence network and a living expedition
 
 - **A reading** · No step joins observing social moral competency existing with observing living, step 80's living and step 199's observing, a now-existing thing, proof of existing; their defining concepts entering one co-chaining together are still-possibling.
+- **A reading** · A reading: observing social moral competency existing is observing living, offered as a possible definition, and the existing relation parting it from a non-living form's changing at no prior is still-possibling, a concern.
 
 ### 5 Four binaries, one now, changing and discovering
 

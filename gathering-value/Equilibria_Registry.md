@@ -90,6 +90,7 @@ Gathering-Value · Equilibria Registry
 ### 4.13 Fields at ten, a key for aiming at each field
 
 - **A reading** · A reading has chemistry's exchange observed at constant composition, a half-life as a rate fixing as a value, and a donor and an acceptor as a two-way fixing to one side as candidate observings of chemistry for this table's empty columns.
+- **A reading** · A reading laying the ten unchangeables at each subject's own sayings: at Natural Chemistry *Fixing two to one beat makes an equilibria picture* as a sequencing fixing to one beat; at Natural Biology *And there is no equilibria within living.* beside a population's stationarity; a neuron's two equilibrium potentials as a rate fixing as a value, beside Living Ghost Registry's membrane entry laying each ion at its own equilibrium potential at its 2; at Natural Societies and Natural Human Society a market clearing at one price; and at Natural Engineering a control's set point.
 
 ### 4.14 Leads a self observes without their statements
 
