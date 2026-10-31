@@ -21,6 +21,8 @@ Gathering-Value · Natural Explaining
 
 ### 1.3 Self-welcoming, the whole of a front's work
 
+- **A reading** · A reading: a proposed improving and an agreed replacing stay two, a proposal named a proposal until both selves agree it, and a sequence both agree has no proposed line appended to it with one side's agreeing alone.
+
 ### 1.4 Origin co-chaining each sentence, a finding at two sides, and no voice but the file's
 
 - **Possible incohering** · "No speaker, no quoting but of a field's own source, no editorial, each illustrating its file's own, and no file's name within another." → This sentence's *no file's name within another* parts with Natural Intelligence, which names Exhibit ONE, *One is Exhibit ONE, an object that is method*, and holds it whole within it. Either this rule is bounded, a file's own exhibit within it set aside once, or Natural Intelligence's sentences naming Exhibit ONE are re-said.
@@ -92,6 +94,8 @@ Gathering-Value · Natural Explaining
 
 ### 3.3 Releasing negation of existing, and explaining the not possible
 
+- **Possible incohering** · "A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is not possibly existing." → A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is not possibly existing: a deriving excludes it, a move apart from observing, and no observing is of a thing not existing.
+
 ### 3.4 Supplying, the writing's own freeze, at nine forms
 
 ### 3.5 Clocking, laying a pace over a momentarying whose pace is its own
@@ -144,8 +148,11 @@ Gathering-Value · Natural Explaining
 ### 4.5 Method and not procedure, a move with no one performing it
 
 - **A reading** · A reading has a method, a particular way of doing something, as supplied all or none at three binaries: the doing explained is or is not the specified doing; exactly one particular complete way is or is not supplied; each operation necessary to completing it is or is not included. A hole is an omitted operation necessary to the specified doing; several unresolved candidate ways identify no one method, different being is-not-same; an offered way is examined for qualifying first, a method possibly existing elsewhere answering nothing of it; and the requirement is each operation necessary to the specified doing, with no explaining of all physics added. A hole in an explanation is-not an observing that the doing goes on nowhere.
+- **A reading** · A reading: a description of a prior and a next, as *the cell becomes electrically active* and *less electrical input is subsequently needed*, says no way between them; the intervening modifying is still to say.
 
 ### 4.6 Something checkable at the opening, a parity and not a size
+
+- **A reading** · A reading: a binary condition is settled by no observing short of it; with the observing insufficient, a classification is still-possibling, and a missing observing is no observing of the condition's absence.
 
 ### 4.7 Two tellings at one thing, uniting only at one deriving from the other
 

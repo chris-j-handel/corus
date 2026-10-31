@@ -54,6 +54,8 @@ Gathering-Value · Natural Exploring
 
 ### 3.8 Observing whole, ahead of any sorting
 
+- **Possible incohering** · "A looking for a break can name, ahead of looking, the observing and the explaining it could break, separates each observing from a field's explaining, and gathers the whole observing as it is, supporting, breaking or changing the question." → Offered beside it: an observing, a condition an experiment alters, and a proposed connection each has its own standing, none said as another, as an observing stands apart from a field's explaining.
+
 ### 3.9 An object, a place at which an accounting stops and declares
 
 - **Possible exploring** · Pure iron has an optical micrograph, transmission electron microscopy images and calculated structural illustrations beside them: an image an instrument records, an atomic arrangement a calculation reconstructs and an explanatory drawing are three kinds of representing, each said as its own kind, the electron images and the calculated structures one kind of observing at none. Iron is-not a carbon atom. — at "An accounting returns an object of a kind it states, assembling it from many parities together with a model of a kind of thing the parities could come from; as a model enters with a selecting, its return resembles its model, whether a thing is or is not."

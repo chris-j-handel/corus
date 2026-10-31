@@ -30,6 +30,8 @@ Gathering-Value · Living Ghost Registry
 
 ### 1.5 Confirmation and breaking
 
+- **Possible incohering** · "Dissolving an installation proves none." → Offered beside it: dissolving an installation proves none, and an instrument's recorded response stays whole for examining with an explanatory name leaving it or a self questioning that name. Signals, frequency, one-atom thickness, curvature, measured electron scattering and atomic identity each ask an observing apart from its explaining. Electrons named ghosts and boron named a hole are two proposals, and a name leaving establishes neither. A next observing is a specific recorded response with the exact difference it distinguishes.
+
 ## PART TWO · THREE NUMBERS, NONE A SUBSTITUTE FOR ANOTHER
 
 ### 2.1 Six lines confirm the ghost-form

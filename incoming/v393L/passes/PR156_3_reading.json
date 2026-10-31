@@ -1,0 +1,423 @@
+{
+ "corrections": [
+  {
+   "from": "- **Living Ghost Registry:** Removing an explanatory name leaves the instrument'",
+   "finding": "The source offers this as a droplet for the file, and the item says it as a re-saying already decided, with no mark of its offering. *When*, at a set's own voice, is a released word, said by *with*. The value goes on unchanged, marked as offered.",
+   "fixed": {
+    "file": "Living Ghost Registry",
+    "section": "1.5 Confirmation and breaking",
+    "kind": "incohering",
+    "sentence": "Dissolving an installation proves none.",
+    "text": "Offered beside it: dissolving an installation proves none, and an instrument's recorded response stays whole for examining with an explanatory name leaving it or a self questioning that name. Signals, frequency, one-atom thickness, curvature, measured electron scattering and atomic identity each ask an observing apart from its explaining. Electrons named ghosts and boron named a hole are two proposals, and a name leaving establishes neither. A next observing is a specific recorded response with the exact difference it distinguishes.",
+    "from": "- **Living Ghost Registry:** Removing an explanatory name leaves the instrument'"
+   }
+  },
+  {
+   "from": "The distinction between “of” and “by” matters: possession of a competency does n",
+   "finding": "Something added and a part dropped. *A competency by a self is that self's own doing* is the gathering's own: the source says only that the of-and-by distinction matters and that the dictionary entries do not establish that learning must originate in the same self, which the item drops. The item also drops the dictionary's competency as ability, which supplies no distinguishing test, and the two entries apart settling no qualifying condition of the compound. *Holds no isolating* is said at the source's measure, *does not require*.",
+   "fixed": {
+    "file": "Natural Naming",
+    "section": "5.3 a self — binary",
+    "kind": "reading",
+    "text": "Self-, a dictionary's *of or by itself*, holds two qualifyings: a competency of a self, the self's own, says nothing by that wording of the way the self reaches it, and the dictionary's sayings establish no learning going from the same self. Competency, a dictionary's *the ability to do something well*, said with *ability*, supplies no test distinguishing a competency from the same self; and self- and competency, each with its own entry apart, settle no qualifying condition of self-competency, one naming. Self- asks no isolating from other selves or from a surrounding.",
+    "from": "The distinction between “of” and “by” matters: possession of a competency does n"
+   }
+  },
+  {
+   "from": "The distinction between “of” and “by” matters: possession of a competency does n",
+   "finding": "Unchanged, restated as the sibling of the corrected item from the of-and-by paragraph sharing its from.",
+   "fixed": {
+    "from": "The distinction between “of” and “by” matters: possession of a competency does n",
+    "why": "rest record (a request)"
+   }
+  },
+  {
+   "from": "For assessing observations, “from” requires a connection between learning and do",
+   "finding": "Claims stronger than their source: *change alone does not specify learning*, *succession alone does not specify from* and *a shared name alone does not specify the same continuing self* become *is-not a learning*, *is-not a from* and *is-not one same continuing self*; *does not specify that connection* becomes *hold no connection*. *One after the other* is a clocking. Re-said at the source's measure.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.3 Competency — the competency with no controller",
+    "kind": "reading",
+    "text": "A learning from a doing and a doing from a learning are each a connection, and a learning and a doing recorded in succession specify no connection by their succession. A change alone specifies no learning, a succession alone specifies no *from*, and a shared name alone specifies no one same continuing self. A successful doing alone distinguishes neither connection.",
+    "from": "For assessing observations, “from” requires a connection between learning and do"
+   }
+  },
+  {
+   "from": "| [Barandiaran, Di Paolo and Rohde: agency, 2009](https://xabier.barandiaran.net",
+   "finding": "A meaning changed: the assessment is made against the learning-and-doing formulation the slice itself withdraws at line 674 and keeps under that formulation alone (line 248, droplet line 929). The item says *self-competency* as though that formulation were current. The finding now carries its own formulation in its sentence.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "2.3 Biology already reaching for this — and its stalling",
+    "kind": "reading",
+    "text": "A field's account of agency qualifies a system by three: it establishes its own individuality, it contributes actively to an interaction, and it regulates its activity by its own norms. Its three address a self as source, and a learning from a doing and a doing from a learning are within none of the three: with self-competency said by a proposal's earlier formulation, observing from the same self both a learning from a doing and a doing from a learning, agency and that self-competency are two subjects, neither said for the other.",
+    "from": "| [Barandiaran, Di Paolo and Rohde: agency, 2009](https://xabier.barandiaran.net"
+   }
+  },
+  {
+   "from": "| [Barandiaran, Di Paolo and Rohde: agency, 2009](https://xabier.barandiaran.net",
+   "finding": "Unchanged, restated as the sibling of the corrected item from the agency row sharing its from.",
+   "fixed": {
+    "from": "| [Barandiaran, Di Paolo and Rohde: agency, 2009](https://xabier.barandiaran.net",
+    "why": "source; rest record"
+   }
+  },
+  {
+   "from": "A candidate must state its subject and qualifying conditions. Those conditions m",
+   "finding": "A value lost and a kind wrong. The three tasks, defining, observing that a case qualifies and explaining a method, with a definition standing with no physical mechanism (lines 601, 603, 616, 652) and no dictionary wording replacing the evidence a case asks (line 601), leave as copies of line 246, and the drafts for lines 206-547 let line 246 leave as a copy of lines 9 and 104, which hold only observing against method. No item holds the three. The item also re-says nothing of the head sentence it quotes, so it goes as a reading.",
+   "fixed": {
+    "file": "Co-Chaining Logic Registry",
+    "section": "Head, the whole file",
+    "kind": "reading",
+    "text": "A definition says its subject and its qualifying conditions, each condition with a meaning apart from the term it defines. A defined term within a definition is no circle by its occurring: a circle is a term whose qualifying first asks the qualifying of the very term it defines, and a term still unresolved is a gap in specifying and no circle. A definition's qualifying conditions are identifiable with no classifying of a case first, and while its component terms are unresolved its applying is still-possibling. Defining a subject, observing that a case qualifies and explaining its method are three: a definition specifies its criterion with no whole physical method, a definition omitting a physical mechanism stands as a definition, and no wording takes the place of the observing a particular case's classifying asks. A missing definition, a dependency circling on itself and a contradiction are three findings.",
+    "from": "A candidate must state its subject and qualifying conditions. Those conditions m"
+   }
+  },
+  {
+   "from": "A candidate must state its subject and qualifying conditions. Those conditions m",
+   "finding": "Unchanged, restated as the sibling of the corrected item from the test paragraph sharing its from.",
+   "fixed": {
+    "from": "A candidate must state its subject and qualifying conditions. Those conditions m",
+    "why": "rest history: the withdrawn same-self learning-and-doing definition"
+   }
+  },
+  {
+   "from": "| Section 1, steps 4, 7–8 | Same-existing relates a now-existing thing to a prio",
+   "finding": "A meaning changed: the item gives step 7 *both distinctions*, which the source says of the user's revised observing sentence (lines 700-702, 742), now-existing and same-existing; step 7 has one, is-or-is-not same-existing. And *the first relation still open in the chain* is stronger than the source's *first relevant unresolved relation*, relevant to the exclusivity asked.",
+   "fixed": {
+    "file": "Co-Chaining Logic Registry",
+    "section": "1 Universe, the set of all now-existing things",
+    "kind": "incohering",
+    "sentence": "By observing, the universe is a same-existing set.",
+    "text": "Step 7's observing, prior-existing, is-or-is-not same-existing, names the distinguishing of continuity and selects neither side; a proposal's observing, distinguishing both is or is-not now-existing and is or is-not same-existing, has both sides of each and the affirmative of neither chosen. Step 8 holds the affirmative side, the universe same-existing, and its own observing or deriving is at no step before it, still-possibling. A re-saying offered beside, a repair and no replacing of step 8: *observing distinguishes whether the universe is same-existing from prior-existing*, both sides kept and the affirmative side left to its observing. Step 8's continuity is the first relation still open on the way to the exclusivity this section's question reaches, a dependency apart from step 106's exclusion, the two not one concern.",
+    "from": "| Section 1, steps 4, 7–8 | Same-existing relates a now-existing thing to a prio"
+   }
+  },
+  {
+   "from": "- Is-or-is-not in a sentence does not itself supply definitions for the things b",
+   "finding": "A droplet the source offers, said as decided, and *as at step 6* is the gathering's own pointing, no part of the source. Marked as offered, the pointing gone.",
+   "fixed": {
+    "file": "Co-Chaining Logic Registry",
+    "section": "1 Universe, the set of all now-existing things",
+    "kind": "reading",
+    "text": "Offered: is-or-is-not within a sentence supplies no definition of the things it distinguishes.",
+    "from": "- Is-or-is-not in a sentence does not itself supply definitions for the things b"
+   }
+  },
+  {
+   "from": "| Section 9, steps 105–108 | A second method requires a fixed form from beside; ",
+   "finding": "*Where* is a released word in the item's own wording, said by *with*. The value is unchanged.",
+   "fixed": {
+    "file": "Co-Chaining Logic Registry",
+    "section": "9 One method, no other possible",
+    "kind": "reading",
+    "text": "Excluding an existing thing outside all existing things co-chains from the opening; each second method fixing such an outside thing, step 106, is a further claim, the particular exclusion asking its deriving. The chain names natural intelligence the universal method and claims its exclusivity, and the opening alone derives neither result for an arbitrary second method: two particular ways of self-improving, each wholly within the universe, are one method with one operation showing them one, or the second asks a thing not possibly existing, that thing and the contradiction excluding it named. This reading is of the chain's deriving, and shows neither another natural method existing nor the proposed method not existing.",
+    "from": "| Section 9, steps 105–108 | A second method requires a fixed form from beside; "
+   }
+  },
+  {
+   "from": "| Section 29, steps 428–438 | Method is competency afresh in a coupling; self re",
+   "finding": "*Where* is a released word in the item's own wording. And the source says this passage is the closest one and supplies a place to examine one competency from both sides; the item has the competency *observed* from both, stronger than its source. Re-said at the source's measure.",
+   "fixed": {
+    "file": "Co-Chaining Logic Registry",
+    "section": "29 Fractal method, its own enabling",
+    "kind": "reading",
+    "text": "Steps 428 to 438, a method a competency afresh with each bi-coupling, self resolving its prior same-existing with a now, and one bounding inward and outward, others receiving its sharings, are the closest steps a proposal of self- and other-observability meets: a place to examine one competency from both sides, its own resolving and others receiving its sharing, with no learning added to its definition.",
+    "from": "| Section 29, steps 428–438 | Method is competency afresh in a coupling; self re"
+   }
+  },
+  {
+   "from": "> all things are one and no-other of",
+   "finding": "A droplet whose section is clear: the item itself names steps 3 and 9 of section 1. And the proposal's observable things, now-existing, part from step 7's observing, prior-existing, and the draft leaves the parting unsaid. Placed at section 1, the parting kept with both sides.",
+   "fixed": [
+    {
+     "file": "Co-Chaining Logic Registry",
+     "section": "1 Universe, the set of all now-existing things",
+     "kind": "reading",
+     "text": "A reading, offered beside *possibly* at steps 3 and 9: a proposal has *a thing is either possibly-existing or not-possibly-existing*, kept as a proposal, neither agreed nor appended to an agreed sequence.",
+     "from": "> all things are one and no-other of"
+    },
+    {
+     "file": "Co-Chaining Logic Registry",
+     "section": "1 Universe, the set of all now-existing things",
+     "kind": "incohering",
+     "sentence": "**Observing** is prior-existing, is-or-is-not same-existing.",
+     "text": "A concern parting at this sentence: a proposal, kept as a proposal, has all things one and no-other of unobservable and not-possibly-existing things, observable and now-existing things, and unobservable and possibly-existing things, its observable things now-existing, and beside it a re-saying offered and not taken into the proposal, *observable is distinguishable by observing as now-existing*; this sentence has observing prior-existing. Two sides: observable things now-existing, or observing prior-existing.",
+     "from": "> all things are one and no-other of"
+    }
+   ]
+  },
+  {
+   "from": "> natural intelligence is the universal method of self-improving.",
+   "finding": "A concern decided: the proposal parts from this sentence, self-improving against living as a same-existing self, and the item offers it as a re-saying, the sentence's own cohering, taking the proposal's side. Kept as a concern with both sides whole.",
+   "fixed": {
+    "file": "Natural Intelligence",
+    "section": "Opening",
+    "kind": "incohering",
+    "sentence": "**Natural intelligence** is the method of living as a same-existing self.",
+    "text": "A concern parting at this sentence: a proposal has *natural intelligence is the universal method of self-improving.*, with *the universe is the set of all now-existing things.* its opening and its subject kept whole, a prediction alone, a learning procedure or another defining of intelligence no saying of it; this sentence has natural intelligence the method of living as a same-existing self, under the file's subtitle *The Universal Method of Same-Existing*. Two sides: natural intelligence the universal method of self-improving, or the method of living as a same-existing self.",
+    "from": "> natural intelligence is the universal method of self-improving."
+   }
+  },
+  {
+   "from": "> Recursive self-improvement is a process in which a system improves its own imp",
+   "finding": "A claim stronger than its source: *recursion here need not mean a programming function literally calls itself* becomes *recursion here is no program calling itself*. Parts dropped: the formal model's precise program-comparison relation, its standing as one particular model, and its example asking no progressively better general algorithm design; the broad use's own saying; each relation supplied for the sequence examined. *How far* carries a released *how*. Re-said whole.",
+   "fixed": {
+    "file": "Natural Emanating",
+    "section": "The recursive-self-improving question",
+    "kind": "reading",
+    "text": "Recursive self-improving, a field's expression, holds one shared idea, an improving returning into the system producing further improvings, and parts at that return's extent, at what a self is and at whether it goes on with no end. A stronger saying, a synthesis and no agreed field definition: a system improves its own improving process and uses that improved process to produce further self-improving. Three qualify an observed sequence, each is-or-is-not: the system takes part in changing its own improving process; the changed process is an improving by the criterion its application holds; and the improved process takes part in a next self-improving. Each relation is supplied for the sequence examined. A failed change, retained or renamed, is no improving, and an attempt failing is no recursive improving. Repeating alone, a changed program alone or a better task output alone shows neither relation, and an unchanged optimizer can better its outputs with no improving of the optimizer; recursion here asks no program literally calling itself. Each application holds its own criterion of improving, no one numerical objective for all, and identifies its continuing system and its improving process; a sequence of successor versions a field counts as a self is not by that a same-existing self. Unlimited, exponentially accelerating or universal improving is a further claim, said apart. A field's accounts part along these lines: a broad use, a system improving its capabilities and using the gains in further improving, asks no rewriting of each component or of the whole improving algorithm; improving a performance and improving a capacity for further improving are two, successive software versions bettering at producing later versions, and a self's identity across replaced code stands open there; one formal model has each program generating its successor, each successor improving by one same goal with a precise relation comparing programs, its sequence with no end, a particular model and no agreed definition across science, its example asking no progressively better general algorithm design; and one engineering case applies a code-improving program to its own code and its improved versions to further optimizing, the language model it calls fixed, a bounded system's improving and not the whole system's.",
+    "from": "> Recursive self-improvement is a process in which a system improves its own imp"
+   }
+  },
+  {
+   "from": "> a competency is a method of improving",
+   "finding": "Released words in the item's own wording: *complete*, said by *whole*, and *how*. The value is unchanged.",
+   "fixed": {
+    "file": "Natural Emanating",
+    "section": "The recursive-self-improving question",
+    "kind": "incohering",
+    "sentence": "Improving is re-forming, and with living, its mark is moving.",
+    "text": "Proposed beside it: *a competency is a method of improving*; *a competency is a particular way of improving*, improving naming the doing itself, with no separate doing it improves; and *a self-improving competency is a competency improving its own method*. A next line offered beside, not appended to that sequence: *a recursively self-improving competency is a competency improving its own method and using that improved method to continue improving its own method*, a qualifying relation and no whole physical method of its altering and its reusing. Recursive self-improving is a comparison for the proposed method and no step within it.",
+    "from": "> a competency is a method of improving"
+   }
+  },
+  {
+   "from": "> a competency is a method of improving",
+   "finding": "Unchanged, restated as the sibling of the corrected item from the line *a competency is a method of improving* sharing its from.",
+   "fixed": {
+    "from": "> a competency is a method of improving",
+    "why": "gathered with the item from \"> a competency is a method of improving\" at Natural Emanating The recursive-self-improving question"
+   }
+  },
+  {
+   "from": "**Invisible parity and morality.** Earlier proposals described parity as private",
+   "finding": "A claim stronger than its source: the source says the report does not equate an invisible proposed parity with an observed one, withholding the equating; the item says the two are not the same. Re-said at the source's measure.",
+   "fixed": {
+    "file": "Natural Naming",
+    "section": "5.6 invisibling — binary",
+    "kind": "reading",
+    "text": "A parity private to a self, a proposal, and a self-competency self- and other-observable stand beside each other: their relation is still-possibling for explaining, and an invisible proposed parity and an observed parity are not equated.",
+    "from": "**Invisible parity and morality.** Earlier proposals described parity as private"
+   }
+  },
+  {
+   "from": "**Invisible parity and morality.** Earlier proposals described parity as private",
+   "finding": "Unchanged, restated as the sibling of the corrected item from the invisible-parity paragraph sharing its from.",
+   "fixed": {
+    "from": "**Invisible parity and morality.** Earlier proposals described parity as private",
+    "why": "rest history: morality as preferring within parity, superseded at line 266"
+   }
+  },
+  {
+   "from": "**Impossibling.** The proposal was avoiding all priors that could lead to a spec",
+   "finding": "A droplet whose section is clear: Natural Naming 5.64 has three parting, possibly existing, not possibly existing and not existing, the very three-way distinction the item's next not selected, next no longer possible and next not yet observed meet. Placed there as an offered reading.",
+   "fixed": {
+    "file": "Natural Naming",
+    "section": "5.64 not possibly existing — binary",
+    "kind": "reading",
+    "text": "A reading, offered: *impossibling*, a proposal, is avoiding each prior that could lead to a specified next, a direction for explaining next possibilities excluded. A next not selected, a next no longer possible and a next not yet observed are three, no equivalence among them shown.",
+    "from": "**Impossibling.** The proposal was avoiding all priors that could lead to a spec"
+   }
+  },
+  {
+   "from": "**Impossibling.** The proposal was avoiding all priors that could lead to a spec",
+   "finding": "Unchanged, restated as the sibling of the corrected item from the impossibling paragraph sharing its from.",
+   "fixed": {
+    "from": "**Impossibling.** The proposal was avoiding all priors that could lead to a spec",
+    "why": "rest history; making alternatives impossible apart from prioritizing is copy of this report's line 316"
+   }
+  },
+  {
+   "from": "- **Natural Exploring:** Observations, experimentally altered conditions and pro",
+   "finding": "*Keep* at a set's own voice is a released word, said by *has* or *same-existing*, and the droplet the source offers is said as decided. The value is unchanged, marked as offered.",
+   "fixed": {
+    "file": "Natural Exploring",
+    "section": "3.8 Observing whole, ahead of any sorting",
+    "kind": "incohering",
+    "sentence": "A looking for a break can name, ahead of looking, the observing and the explaining it could break, separates each observing from a field's explaining, and gathers the whole observing as it is, supporting, breaking or changing the question.",
+    "text": "Offered beside it: an observing, a condition an experiment alters, and a proposed connection each has its own standing, none said as another, as an observing stands apart from a field's explaining.",
+    "from": "- **Natural Exploring:** Observations, experimentally altered conditions and pro"
+   }
+  },
+  {
+   "from": "- **Natural Explaining:** A description of before and after leaves the interveni",
+   "finding": "A value lost. The copy's originals, lines 240 and 378 with line 441, left the drafts for lines 206-547 as held at Natural Explaining 3.3, *Replacing a word corrects no concept by itself*, and as gathered with the Natural Biology 4.3 item, which names no description of a prior and a next. No item or living file holds that two descriptions, a cell becoming active and less input needed next, leave the way between them unsaid.",
+   "fixed": {
+    "file": "Natural Explaining",
+    "section": "4.5 Method and not procedure, a move with no one performing it",
+    "kind": "reading",
+    "text": "A reading: a description of a prior and a next, as *the cell becomes electrically active* and *less electrical input is subsequently needed*, says no way between them; the intervening modifying is still to say.",
+    "from": "- **Natural Explaining:** A description of before and after leaves the interveni"
+   }
+  },
+  {
+   "from": "“Self-competence” also has an established use in psychology for a person's sense",
+   "finding": "A value lost. The field's self-competence, a person's sense of efficacy, a perceived competency and a subject apart from the proposal's, leaves as a source and as a copy of line 250; line 250 left the drafts for lines 206-547 as history. The agency row was gathered, and this field's word, the same kind of value, was not. Gathered, with the glossary row's saying.",
+   "fixed": [
+    {
+     "file": "Natural Naming",
+     "section": "2.7 A field's word at a field's own result",
+     "kind": "reading",
+     "text": "*Self-competence*, a field's word in psychology, is a person's sense of personal efficacy, a perceiving of possessing skills adequate for demands in different areas of living: a perceived competency, a field's word with its own subject, and no saying of a proposal's self-competency in its place. A self believing itself skilled holds by that believing neither a learning from a doing nor a doing from a learning, the connections a proposal's earlier formulation asks.",
+     "from": "“Self-competence” also has an established use in psychology for a person's sense"
+    },
+    {
+     "from": "“Self-competence” also has an established use in psychology for a person's sense",
+     "why": "rest record: no claim of a field adopting the proposal's formulation"
+    }
+   ]
+  },
+  {
+   "from": "| [Lancaster developmental glossary: self-competence](https://www.lancaster.ac.u",
+   "finding": "Its value, a perceived competency, a subject apart, is gathered with the item from the psychology paragraph; the row's why pointed to a copy whose original left as history.",
+   "fixed": {
+    "from": "| [Lancaster developmental glossary: self-competence](https://www.lancaster.ac.u",
+    "why": "source; its value gathered with the item from \"“Self-competence” also has an established use in psychology for a person's sense\" at Natural Naming 2.7"
+   }
+  },
+  {
+   "from": "- Self-perceived competency and other-observed competency remain distinct qualif",
+   "finding": "A value lost. The copy's original, line 250, left the drafts for lines 206-547 as history and as a copy of lines 42, 44 and 121, which hold the two observabilities' words and *possibly* staying, and neither the two perspectives kept apart ahead of their joining nor a possible observing kept apart from one occurring.",
+   "fixed": {
+    "file": "Natural Intelligence",
+    "section": "Opening",
+    "kind": "reading",
+    "text": "A reading, offered with the proposed logic of self-competency: a competency self-perceived and a competency other-observed are two qualifyings ahead of their joining in *A self-competency is self-and-other-observable.*, and *A competency is possibly self-observable and other-observable.* says an observing possible from both and no observing from both already occurring.",
+    "from": "- Self-perceived competency and other-observed competency remain distinct qualif"
+   }
+  },
+  {
+   "from": "- Possibly self-and-other-observable does not mean already observed from both.",
+   "finding": "Its original, lines 250 and 346, left the drafts for lines 206-547 only in part (see the correction at the self-perceived droplet); its value is gathered there.",
+   "fixed": {
+    "from": "- Possibly self-and-other-observable does not mean already observed from both.",
+    "why": "gathered with the item from \"- Self-perceived competency and other-observed competency remain distinct qualif\" at Natural Intelligence Opening"
+   }
+  },
+  {
+   "from": "- Recursioning adds no necessary operation to the current sequence merely by nam",
+   "finding": "A value lost. The copy's originals: line 254 left the drafts for lines 206-547 as history and record, and line 344 as a copy of line 106, whose list, harm, improving and morality, has no recursioning. Item 16 holds the research as a comparison and not the proposal's own word adding no operation.",
+   "fixed": {
+    "file": "Natural Naming",
+    "section": "2.4 Released words, each with its saying",
+    "kind": "reading",
+    "text": "A reading: *recursioning*, a proposal's word for improving same-existing by a same-existing method, adds no necessary operation to the proposal's sequence by naming a recurrence, its name going on in the explaining and no inward dependency of the sequence; improving next-existing, improving same-existing and improving a method of improving are three formulations.",
+    "from": "- Recursioning adds no necessary operation to the current sequence merely by nam"
+   }
+  },
+  {
+   "from": "**Recursion and improvement.** Improving next-existing, improving same-existing ",
+   "finding": "Its why rests on line 254, which left the drafts for lines 206-547 as history; its value is now gathered.",
+   "fixed": {
+    "from": "**Recursion and improvement.** Improving next-existing, improving same-existing ",
+    "why": "gathered with the item from \"- Recursioning adds no necessary operation to the current sequence merely by nam\" at Natural Naming 2.4; the research a comparison and no step within the method gathered with the item from \"> a competency is a method of improving\" at Natural Emanating The recursive-self-improving question; the rest history"
+   }
+  },
+  {
+   "from": "- A proposed improvement remains distinguishable from an agreed replacement.",
+   "finding": "A value lost. Its original, line 342's *A proposal is named as a proposal until agreed.*, left the drafts for lines 206-547 as held at Geodesic Improving Method 2.6 and 2.2, which hold concerns one at a time and an other's sharing going whole, and no proposal kept apart from an agreed replacing. Lines 768 and 863 hold it here.",
+   "fixed": {
+    "file": "Natural Explaining",
+    "section": "1.3 Self-welcoming, the whole of a front's work",
+    "kind": "reading",
+    "text": "A reading: a proposed improving and an agreed replacing stay two, a proposal named a proposal until both selves agree it, and a sequence both agree has no proposed line appended to it with one side's agreeing alone.",
+    "from": "- A proposed improvement remains distinguishable from an agreed replacement."
+   }
+  },
+  {
+   "from": "The useful next work is local: settle the positive continuity relation at step 8",
+   "finding": "Its no-appending value is now gathered; the rest stands as plan.",
+   "fixed": {
+    "from": "The useful next work is local: settle the positive continuity relation at step 8",
+    "why": "plan; no proposed definition appended to an agreed sequence with one side's agreeing alone gathered with the item from \"- A proposed improvement remains distinguishable from an agreed replacement.\" at Natural Explaining 1.3"
+   }
+  },
+  {
+   "from": "- Starting every resolver empty does not discover the proposed relation between ",
+   "finding": "Held only in part. Natural Networking 6.5 holds a self with no prior and a self with a prior parting by their priors, and not that a run opening each resolver empty discovers no proposed relation between two sequences already living. Its original, line 300's empty-start trial, left the drafts for lines 206-547 as a record.",
+   "fixed": {
+    "file": "Natural Networking",
+    "section": "6.5 One prior for both, each going on bringing it onward",
+    "kind": "reading",
+    "text": "A reading: a run opening each resolver empty discovers no relation a proposal has between two sequences each already living, each with its prior.",
+    "from": "- Starting every resolver empty does not discover the proposed relation between "
+   }
+  },
+  {
+   "from": "A binary condition does not guarantee that an observation settles the condition.",
+   "finding": "Held only in part. Natural Explaining 4.6's sentence says a condition no observing reaches stands on neither side for resolver's three conditions alone; the source's general value, a binary condition unsettled by an observing short of it, a classification still-possibling and a missing observing no observing of absence, no living file holds whole.",
+   "fixed": {
+    "file": "Natural Explaining",
+    "section": "4.6 Something checkable at the opening, a parity and not a size",
+    "kind": "reading",
+    "text": "A reading: a binary condition is settled by no observing short of it; with the observing insufficient, a classification is still-possibling, and a missing observing is no observing of the condition's absence.",
+    "from": "A binary condition does not guarantee that an observation settles the condition."
+   }
+  },
+  {
+   "from": "Replacing competency with ability did not supply that distinguishing test. For t",
+   "finding": "Its why points to line 246, which left the drafts for lines 206-547 as a copy of lines 9 and 104, holding observing against method only. The value is now gathered.",
+   "fixed": {
+    "from": "Replacing competency with ability did not supply that distinguishing test. For t",
+    "why": "rest gathered with the item from \"A candidate must state its subject and qualifying conditions. Those conditions m\" at Co-Chaining Logic Registry Head, the whole file, and with the item from \"For assessing observations, “from” requires a connection between learning and do\" at Natural Biology 4.3; the continuing self and both connections asked history of the withdrawn formulation"
+   }
+  },
+  {
+   "from": "A non-circular definition can specify the criterion without supplying a complete",
+   "finding": "Its why points to line 246, left in part by the drafts for lines 206-547. The value is now gathered.",
+   "fixed": {
+    "from": "A non-circular definition can specify the criterion without supplying a complete",
+    "why": "gathered with the item from \"A candidate must state its subject and qualifying conditions. Those conditions m\" at Co-Chaining Logic Registry Head, the whole file; the prefix asking no isolating gathered with the item from \"The distinction between “of” and “by” matters: possession of a competency does n\" at Natural Naming 5.3"
+   }
+  },
+  {
+   "from": "A conceptual definition, a procedure for observing its conditions, and an explan",
+   "finding": "Its why points to line 246, left in part by the drafts for lines 206-547. The value is now gathered.",
+   "fixed": {
+    "from": "A conceptual definition, a procedure for observing its conditions, and an explan",
+    "why": "gathered with the item from \"A candidate must state its subject and qualifying conditions. Those conditions m\" at Co-Chaining Logic Registry Head, the whole file; a pass's evaluating is a record"
+   }
+  },
+  {
+   "from": "Separate dictionary entries for self- and competency remain insufficient to sett",
+   "finding": "Its why points to line 597, itself left as source and record. Its value is now gathered.",
+   "fixed": {
+    "from": "Separate dictionary entries for self- and competency remain insufficient to sett",
+    "why": "record of a search; two entries apart settling no qualifying condition of the compound gathered with the item from \"The distinction between “of” and “by” matters: possession of a competency does n\" at Natural Naming 5.3"
+   }
+  },
+  {
+   "from": "- A search using an earlier definition retains that definition when its findings",
+   "finding": "Its why points to line 248, which left the drafts for lines 206-547 as history. The value is held whole at Natural Explaining 3.12: a finding's definition is its domain, within its claim's own sentence.",
+   "fixed": {
+    "from": "- A search using an earlier definition retains that definition when its findings",
+    "why": "held at Natural Explaining 3.12: \"A scope is within its claim's own sentence, its exact domain there.\""
+   }
+  },
+  {
+   "from": "- An unfamiliar name opens into its specified relation rather than another unfam",
+   "finding": "Held only in part at the sentence quoted: 2.6 holds a new naming opening with its first coupling and plain words, and not the other half, no name opened by another unfamiliar name in its place. With 3.3 the value is held whole.",
+   "fixed": {
+    "from": "- An unfamiliar name opens into its specified relation rather than another unfam",
+    "why": "held at Natural Explaining 2.6: \"**A new naming opens with its first coupling, its least plain words beside it**, existing words first and a set's naming resting on them; bare, a self observes it as a coordinate.\" and 3.3: \"Replacing a word corrects no concept by itself.\""
+   }
+  },
+  {
+   "from": "The assessment frameworks matter because they contain more than interchangeable ",
+   "finding": "Held only in part at the sentence quoted: it holds the bounded distinctions going on, and not a task-bound criterion's domain staying its task's, a task rating no general definition. 3.12's scope sentence holds that half.",
+   "fixed": {
+    "from": "The assessment frameworks matter because they contain more than interchangeable ",
+    "why": "held at Natural Explaining 3.12: \"A scope is within its claim's own sentence, its exact domain there.\" and \"A correction removing an overclaiming can lose a positive relation its prior held, its bounding leaving with its overreach, and a fresh observing of a correcting sentence finds both.\""
+   }
+  },
+  {
+   "from": "The earlier statement that no qualifying alternative had been established here r",
+   "finding": "Held only in part at the sentence quoted: it holds the retrieved criteria's positive relation going on, and not the finding's scope staying this inquiry's. 3.12's scope sentence holds that half.",
+   "fixed": {
+    "from": "The earlier statement that no qualifying alternative had been established here r",
+    "why": "held at Natural Explaining 3.12: \"A scope is within its claim's own sentence, its exact domain there.\" and \"A correction removing an overclaiming can lose a positive relation its prior held, its bounding leaving with its overreach, and a fresh observing of a correcting sentence finds both.\""
+   }
+  }
+ ],
+ "checked": 280
+}

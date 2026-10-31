@@ -106,6 +106,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "a between of self and other, a nothing, no location and no existing thing" → Its twin at the Co-Chaining Logic Registry, step 165, says it as *A between is a 0, its location an empty set*; a re-saying offered by that twin, and this row and its step re-said at one going.
 - **Possible incohering** · "*a* observings, and no observers; pattern matchers couple with each observing without filter or selection" → Its twin at the Co-Chaining Logic Registry, step 386, says it alike, *each observing from prior, of the whole, without filter or selection*, each by a denial; the pair is re-said at one going, a re-saying of either ahead of its other parting the two files at it.
 - **Possible incohering** · "Each word dissolves with its file's next improving, with words its files are sharing, and a word of a field's own result holds whole with that result as a field's." → A saying offered beside this sentence: *hold* and *bond* at the set's own voice, parted from a field's quoted *hold* and *bond*, dissolve across the set in one motion.
+- **A reading** · A reading: *recursioning*, a proposal's word for improving same-existing by a same-existing method, adds no necessary operation to the proposal's sequence by naming a recurrence, its name going on in the explaining and no inward dependency of the sequence; improving next-existing, improving same-existing and improving a method of improving are three formulations.
 
 ### 2.5 One sense per foundation word
 
@@ -130,6 +131,7 @@ Gathering-Value · Natural Naming
 ### 2.7 A field's word at a field's own result
 
 - **A reading** · A pattern-matching opportunity: a right spiral step brings a pair (x, y) to (y, −x), one slot moving and one parity inverting with each step, and the offered rule moves each prefix one slot right with each name. Whether each name's step brings a three as a right spiral step brings a pair, and where its inverting is, is a next to explore.
+- **A reading** · *Self-competence*, a field's word in psychology, is a person's sense of personal efficacy, a perceiving of possessing skills adequate for demands in different areas of living: a perceived competency, a field's word with its own subject, and no saying of a proposal's self-competency in its place. A self believing itself skilled holds by that believing neither a learning from a doing nor a doing from a learning, the connections a proposal's earlier formulation asks.
 
 ## THREE · RESOLVER NAMES
 
@@ -277,6 +279,8 @@ Gathering-Value · Natural Naming
 
 ### 5.3 a self — binary
 
+- **A reading** · Self-, a dictionary's *of or by itself*, holds two qualifyings: a competency of a self, the self's own, says nothing by that wording of the way the self reaches it, and the dictionary's sayings establish no learning going from the same self. Competency, a dictionary's *the ability to do something well*, said with *ability*, supplies no test distinguishing a competency from the same self; and self- and competency, each with its own entry apart, settle no qualifying condition of self-competency, one naming. Self- asks no isolating from other selves or from a surrounding.
+
 ### 5.4 parity changing — binary
 
 - **Possible incohering** · "**Along is between momentaries, a self's own going on, and across is between selves within a momentary, sharing now, while geodesic changing is entraining through momentaryings.**" → Offered: momentaryings are odd names, and not a between; each momentarying is named with its first parity, odd and even in order are one momentary, each momentary odd and even with each self, and 1-now-existing, an odd self, shares a parity along to 2-now-possibling, an even other. With resolver's lines *carried on unchanged* with 9 and 17 has no line of its own. A sentence saying along as *between momentaries* is re-said with momentaryings as odd names, or stands.
@@ -299,6 +303,7 @@ Gathering-Value · Natural Naming
 ### 5.6 invisibling — binary
 
 - **Possible incohering** · "Couplings wind about a nothing: bounding-zeroing, tunneling, apexing, corusing, nothing reaching it." → Its twin at the Co-Chaining Logic Registry, step 165, says a between's side, *the observings going inward to it and the magnitudes going through it each an empty set*; a re-saying offered by that twin, and this sentence and its step re-said at one going.
+- **A reading** · A parity private to a self, a proposal, and a self-competency self- and other-observable stand beside each other: their relation is still-possibling for explaining, and an invisible proposed parity and an observed parity are not equated.
 
 ### 5.7 a carrying — binary
 
@@ -508,6 +513,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "with a resolver a none with 14 is no offering arrived to this sharing or an offered 0 passed over, its prior parity inverted with 12, and on no line does an existing thing not exist, a next momentary possibling it" → with a resolver a none with 14 is a sharing with its possibling an empty set, or a 0 a self passes over, its prior parity inverting with 12, and each line has each existing thing existing, a next momentary possibling it
 - **Possible incohering** · "a living carrying resolver's one none being an offering not arrived or an offered 0 passed over and not an offering not existing" → resolver's one none, with a living self, being its possibling an empty set or a 0 it passes over, each an existing sharing
 - **Possible incohering** · "Three part with a resolver: possibly existing, each existing thing with its next, a self discovering it with next momentary; not possibly existing, binary logic excluding it; and not existing, on no line, a living carrying resolver's one none being an offering not arrived or an offered 0 passed over and not an offering not existing, and on registry's front, not possibly existing, all or none at all." → *Carrying* offered as dissolving, said *same-existing*, *going on* or *has* as 2.5 says *carry*; this sentence's *a living carrying resolver's one none* is its present saying.
+- **A reading** · A reading, offered: *impossibling*, a proposal, is avoiding each prior that could lead to a specified next, a direction for explaining next possibilities excluded. A next not selected, a next no longer possible and a next not yet observed are three, no equivalence among them shown.
 
 ## SIX · GATHERINGS AT THE RESOLVER'S NAMES
 

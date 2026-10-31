@@ -68,6 +68,8 @@ Gathering-Value · Natural Mathematics
 
 ### 3.7 Three, a total against its parts, and a tipping no accounting has
 
+- **A reading** · A subset changing within a same-existing set and each thing of that subset changing are two proposed qualifyings. A whole less its not-changing subset names a remainder and says nothing alone of the whole set going on as one same-existing set, and a set's same-existing and its things' sameness are two questions.
+
 ### 3.8 The halfway pairing and the fold, two involutions fixing nothing at each scale
 
 ## FOUR · BOUNDING
