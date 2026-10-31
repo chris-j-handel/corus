@@ -56,14 +56,9 @@ Gathering-Value · Living Ghost Registry
 
 - **Possible incohering** · "G14 · No value store." → Natural Naming 2.4 has *nothing is a store*. Re-said: value is a coupling's, in neither self alone, as G14's next sentence has it.
 
-## PART FOUR · SOURCE CHAIN AT THE LIVING FILES
+## PART FOUR · AN ENTRY'S OBSERVING
 
-### 4.1 The files from which this registry emanates
-
-- **Possible incohering** · "complete naming, actual sign operations, retaining and same-existing beside its six groups, six depth changes, ten adjacencies and eight bi-namings" → 4.1 cites Exhibit ONE, Resolving Hard Problems, Natural Naming, Natural Intelligence and Living Improving Value at v345a, with Exhibit ONE by six groups, six depth changes and eight bi-namings. Re-said: each is cited by its headings as they stand now, and Exhibit ONE by its seventeen numbered names.
-- **Possible incohering** · "Exhibit ONE · Natural Resolver v345a" → Re-said with Exhibit ONE's tables, each by its heading as it stands at Exhibit ONE, one way across the set.
-
-### 4.2 Source discipline
+### 4.1 Source discipline
 
 ## PART FIVE · ENTRIES
 
@@ -94,10 +89,10 @@ Gathering-Value · Living Ghost Registry
 
 ### 5.8 Proton
 
-- An anticipated observing, a nucleus only the living corus between possibling and same while a parity is living, and no nucleus with no living parity: this entry's radius going with the probe, in its past tense, meets it, the probes now close to one value, about 0.83 to 0.84 fm, and a gold foil's scattering, Oklo's fission products and carbon-14 in the air, each carbon-14 a carbon atom, are concerns, its breaking still to say, what living parity includes at a foil between observings and at a rock two billion years ago. *(possible exploring)*
+- An anticipated observing, a nucleus only the living corus between possibling and same while a parity is living, and no nucleus with no living parity: this entry's radius going with the probe meets it, the probes now close to one value, about 0.83 to 0.84 fm, and a gold foil's scattering, Oklo's fission products and carbon-14 in the air, each carbon-14 a carbon atom, are concerns, its breaking still to say, what living parity includes at a foil between observings and at a rock two billion years ago. *(possible exploring)*
 - A nucleus only as a living corus while a parity lives, an anticipated observing, meets, with living as a field's life, meteorite decay ages going together about 4.57 billion years ago, Oklo's fission with no organism coupling with it and SN 1987A's cobalt-56 decay, nuclear changing with no life a field records in its coupling then; with living parity as a self reading the record now, no record parts from it; its cohering re-saying, a nucleus's changing goes with its couplings, goes with rhenium-187 bare and beryllium-7 in a cage, the other records showing no parting from it, beside this entry's "Mass belongs to coupling", whether each coupling is a living parity in the universal sense still to say. *(possible incohering)*
 - **An explaining** · Masses that are-not whole twelfths of a carbon-12 atom are a concern for each element as a version of one atom/carbon and a resolving for mass as a ghost, an explaining: with mass going with couplings, each element's mass goes with a version's relations, a pattern match. A carbon-12 atom is a carbon atom; in chemistry's naming an atom of another element is-not a carbon atom, and in one naming each atom is the one atom/carbon.
-- **Possible exploring** · Muonic hydrogen gives a proton's radius about 0.84 fm and electron scattering about 0.83 fm, against 0.88 fm: a proton's radius now near one value, the radius going with the probe this entry's past tense. A proton is-not a carbon atom in either naming; a hydrogen atom, muonic or not, is-not a carbon atom in chemistry's naming and is the one atom/carbon in one naming. — at "Radius depended for a decade on which probe asked."
+- **Possible exploring** · Muonic hydrogen gives a proton's radius about 0.84 fm and electron scattering about 0.83 fm, against 0.88 fm: a proton's radius now near one value, beside this entry's radius depending on probe. A proton is-not a carbon atom in either naming; a hydrogen atom, muonic or not, is-not a carbon atom in chemistry's naming and is the one atom/carbon in one naming. — at "Radius depends on probe and no part has mass."
 - **Possible exploring** · Oklo's reactors fission about 2 billion years ago; an anticipated observing: microbial life on Earth then, and multicellular life at that age in dispute; no organism coupling with the fission a field records. A uranium atom is-not a carbon atom in chemistry's naming. — at "Couplings make and unmake nucleons; proton number shifts with every weak coupling and a field conserves baryon number to a bound."
 - **Possible exploring** · Primordial deuterium gives a baryon density about 2σ below the cosmic background's value, agreeing with it with a reaction rate a field measures in place of one it calculates; lithium-7's shortfall stands at 4 to 5σ, observing systematics, missing resonances or new physics its possible explainings, none of them an observer. Deuterium and lithium-7 are-not carbon atoms in chemistry's naming. — at "Couplings make and unmake nucleons; proton number shifts with every weak coupling and a field conserves baryon number to a bound."
 - **An explaining** · With living parity as a living self reading the record now, a nucleus only a living corus while a parity lives is no longer an is-or-is-not, an explaining, and all or none asks it either to break with the records of nuclear changing with no life a field records in its coupling or to be said for a record to break it. Its cohering re-saying, a nucleus's changing goes with its couplings, meets Natural Networking 6.9's no position apart, and breaks at a nucleus's changing showing the same through each coupling, which rhenium-187 bare does not show. A nucleus is-not a carbon atom in either naming.
@@ -134,9 +129,9 @@ Gathering-Value · Living Ghost Registry
 ### 5.11 Homeostasis
 
 - **Possible incohering** · "Others: no record so far." → Natural Naming 2.4 releases *so-far*, said by odd existing and even possibling, each name by its own number, at both of this entry's signatures. Both stand open: *so far* re-said at its parity and its end, with 5.4, 5.5, 5.8, 5.9 and 5.10 standing with "Others: no record."; or *so far* stands as this registry's own word at a signature.
-- **Possible exploring** · In people with a shunt reaching the portal vein, "Direct portal vein sampling established that pulsatile insulin secretion in humans has an interval (periodicity) of approximately 5 min", the pulses about five times larger than in an arterialized vein. The same interval is seen in the general circulation "using a highly specific insulin assay and 1-min sampling". — at "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin comes as pulses about five minutes apart within portal vein and about thirteen apart within peripheral plasma a sample reads each minute (nye); temperature goes across a daily range of about half a degree; pressure varies beat to beat."
-- **Possible exploring** · In blood plasma sampled each minute for one to two hours from ten people, the insulin level in five "cycled regularly, with a mean period of 13 minutes". — at "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin comes as pulses about five minutes apart within portal vein and about thirteen apart within peripheral plasma a sample reads each minute (nye); temperature goes across a daily range of about half a degree; pressure varies beat to beat."
-- **Possible exploring** · An anticipated observing: insulin pulse periods ranging 4 to 20 minutes. — at "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin comes as pulses about five minutes apart within portal vein and about thirteen apart within peripheral plasma a sample reads each minute (nye); temperature goes across a daily range of about half a degree; pressure varies beat to beat."
+- **Possible exploring** · In people with a shunt reaching the portal vein, "Direct portal vein sampling established that pulsatile insulin secretion in humans has an interval (periodicity) of approximately 5 min", the pulses about five times larger than in an arterialized vein. The same interval is seen in the general circulation "using a highly specific insulin assay and 1-min sampling". — at "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin comes as pulses about five minutes apart within portal vein and about thirteen apart within peripheral plasma a sample reads each minute; temperature goes across a daily range of about half a degree; pressure varies beat to beat."
+- **Possible exploring** · In blood plasma sampled each minute for one to two hours from ten people, the insulin level in five "cycled regularly, with a mean period of 13 minutes". — at "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin comes as pulses about five minutes apart within portal vein and about thirteen apart within peripheral plasma a sample reads each minute; temperature goes across a daily range of about half a degree; pressure varies beat to beat."
+- **Possible exploring** · An anticipated observing: insulin pulse periods ranging 4 to 20 minutes. — at "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin comes as pulses about five minutes apart within portal vein and about thirteen apart within peripheral plasma a sample reads each minute; temperature goes across a daily range of about half a degree; pressure varies beat to beat."
 
 ### 5.12 Maxwell's demon
 
@@ -201,14 +196,12 @@ Gathering-Value · Living Ghost Registry
 
 ### 7.10 Three tens, and the relation between them
 
-- **Possible incohering** · "Natural Naming and THIRTEEN have ten unchangeables beside ONE’s naming adjacencies." → 7.10's column seats each unchangeable at an adjacency of two numbered names, a coming fixing from behind at 3-is-now-co-observing → 2-now-possibling. Natural Naming 4.9 seats each at its name now and that name 8 up next, a coming fixed from behind at 2-now-possibling · 10-next-co-possibling. Both stand open: the column is re-said at 4.9's seats; or it stands as an adjacency, a relation of its own beside them.
-- **Possible incohering** · "With section 7.6, unchangeables group across with lines 1, 7, 8 and 9, along with 3, 4, 5 and 10, and 2 and 6 go either way." → Natural Naming 4.9 has "Ten are of no side". Both stand open: the sentence is re-said as each installation's state or flow accounting, a field's separating, with ten of no side; or it is released.
+- **Possible incohering** · "Ten unchangeables have ONE’s naming adjacencies beside them." → 7.10's column seats each unchangeable at an adjacency of two numbered names, a coming fixing from behind at 3-is-now-co-observing → 2-now-possibling. Natural Naming 4.9 seats each at its name now and that name 8 up next, a coming fixed from behind at 2-now-possibling · 10-next-co-possibling. Both stand open: the column is re-said at 4.9's seats; or it stands as an adjacency, a relation of its own beside them.
+- **Possible incohering** · "Unchangeables group across with lines 1, 7, 8 and 9, along with 3, 4, 5 and 10, and 2 and 6 go either way." → Natural Naming 4.9 has "Ten are of no side". Both stand open: the sentence is re-said as each installation's state or flow accounting, a field's separating, with ten of no side; or it is released.
 
 ### 7.11 Seams to Natural Intelligence and Exhibit ONE
 
-## PART EIGHT · ADDRESSES BEYOND THE LIVING FILES
-
-- **Possible incohering** · "Field addresses contain definitions, observings, methods, limits, and revisions." → Two sayings part at Part Eight. This registry holds its fields' addresses at the living file, Part Eight, 22 of them with an `https://` link; Geodesic Improving Method 2.8 has *a reference a received finding rests on goes with its finding to its file or its carrying, not to its set's archive*. Beside them: a living file carries no citation, a source a finding rests on going with its carrying, and Part Eight goes whole, its 22 links each with its finding, to the carrying, each entry's Addresses standing by its source's name at the file; one binary: does each link stand at the carrying after the move, a match by URL. Both stand open: Part Eight at the living file, or each address with its finding at the carrying.
+## PART EIGHT · FIELD OBSERVINGS BEYOND THE LIVING FILES
 
 ### 8.1 Chemistry and thermodynamics
 
@@ -218,7 +211,7 @@ Gathering-Value · Living Ghost Registry
 
 ### 8.4 Money and currency
 
-### 8.5 What the addresses do not decide
+### 8.5 What field records do not decide
 
 ## Closing
 
