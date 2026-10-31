@@ -60,6 +60,7 @@ Gathering-Value · Natural Exploring
 ### 3.8 Observing whole, ahead of any sorting
 
 - **Possible incohering** · "A looking for a break can name, ahead of looking, the observing and the explaining it could break, separates each observing from a field's explaining, and gathers the whole observing as it is, supporting, breaking or changing the question." → Offered beside it: an observing, a condition an experiment alters, and a proposed connection each has its own standing, none said as another, as an observing stands apart from a field's explaining.
+- **Possible incohering** · "A looking for a break can name, ahead of looking, the observing and the explaining it could break, separates each observing from a field's explaining, and gathers the whole observing as it is, supporting, breaking or changing the question." → Beside it: an observing is a thing observed, with its procedure, its conditions and its uncertainty, and a field's explaining of that observing is a second thing, an account in the field's own terms, with its sources, assumptions and open questions; each is said whole, and which is which, the observing going into natural intelligence explaining and the field's explaining staying with its field, quoted as the field's.
 
 ### 3.9 An object, a place at which an accounting stops and declares
 

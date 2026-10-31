@@ -107,6 +107,8 @@ Gathering-Value · Natural Emanating
 
 ### Natural intelligence
 
+- **Possible incohering** · "Two moves, and both go together." → A public face offered beside it, for *What is natural intelligence?*: Everything that exists, exists now. Each thing has its own past and its own possible next, and no two things are alike in all three. We can watch things stay themselves by changing, and stay themselves by not changing. We can also watch things finding out which changes, and which non-changes, keep them themselves. That finding out is a method, and it happens at every moment, at every scale: a yes or no at each place a thing meets another, change or don't. There is only one such method. Any other way would need something held still, a fixed measure, a master clock or a store, and nothing in the universe is held still. An equilibrium is exactly that kind of holding, so no equilibrium is how anything changes. Science keeps records, and a record is one moment kept. Comparing records lays two kept moments side by side, while the finding out happens between moments, where no record is. So the hardest problems in science are found exactly there, and scientists, finding out at every moment, are doing the method their records cannot hold. Natural intelligence is that method shared: two selves at one now, each finding out with the other what keeps them both.
+
 ### Social moral competency
 
 - **Possible incohering** · "Social moral competency is changing and changing back with that scale." → Social moral competency as changing and changing back with a same-existing-society's scale names the Co-Chaining Logic Registry's morality across, its competency along, or both, step 255, a reading still-possibling.

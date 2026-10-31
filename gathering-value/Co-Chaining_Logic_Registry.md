@@ -56,6 +56,7 @@ Gathering-Value · Co-Chaining Logic Registry
 
 - **A reading** · A reading has the first logic and the second logic part at four, to be followed first at a working: a common now; a self receiving its own parity, with a momentary or with the between; five given things; and whose prior a self's next is from.
 - **A reading** · A reading follows the first logic, the universe as the set of all now-existing things, to step 78 from steps 73 and 74, and to step 91 from steps 78 and 86, step 77's universe now left out of the following: with that following whole, a common now is part of the first logic at an empty set of its steps, selves stepping together with 17 is the second logic's, and two of five given things leave the chain; step 72 holds now as universal momentary, one and only, and the two part, still-possibling.
+- **Possible incohering** · "A universe is-or-is-not existing, is-or-is-not all, is-or-is-not now, is-or-is-not same: four binaries, each one way and its other, both on that one thing; now and all of one, now one and each thing one of all, and existing and same between two." → Two sayings part at the inception's terms: a saying beside this step has the universe the set of all existing things, three terms, existing, all and set, each binary, nothing apart from or between things of the set; this step has four binaries, existing, all, now and same.
 
 ### 6 Going on from prior, living and non-living
 
@@ -134,6 +135,9 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 20 No proof of the whole, an unchangeable form
 
 ### 21 Hard problem resolving at existing
+
+- **Possible incohering** · "A hard problem is a changing fixing unchangeable: a field's explaining taking one binary's *is* and *is not* as one with records in store, and hard probleming reaches universal method of existing with records in store, its binary fixing unchangeable." → Beside it: a hard problem is a field's explaining at the between of two momentaries where no record stands, a name's now and its next taken as one, at one of ten unchangeables.
+- **Possible incohering** · "A hypothesis explains changing and not-changing between records and a theory is a hypothesis testing with further records: scientific-method explains between records with all else of the universe still, each explanation an equilibrium within its scope, reaching observings in store, a stable-forming they pattern-match outside its reach, and a third observing falsifies an explanation excluding a same thing's discovering." → Beside it: discovering is at the between of two momentaries at one now, where no record stands, and the scientific method reaches the records and not the discovering between them.
 
 ### 22 A machine at observings
 
