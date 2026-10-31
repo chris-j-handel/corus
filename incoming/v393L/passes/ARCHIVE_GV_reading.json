@@ -1,0 +1,299 @@
+{
+ "corrections": [
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 152, feeble light through two slits one arrival at a time",
+   "finding": "A concern decided by an attribution dropped. The record holds fringes built one arrival at a time by the 1909 feeble-light working and by single-photon accounts both; Natural Physics' plates droplet is that same working (its carry line: smoked-glass screens, about three months, plates registering no single arrivals). Said only as 'a field's single-photon accounts', the first side leaves that working out, and the two sides then hold different experiments and no longer part. Both now stand at one working, with no name or date.",
+   "fixed": {
+    "file": "Natural Physics",
+    "section": "5.5 Forces, constants and a sharing",
+    "kind": "exploring",
+    "sentence": "double-slit and delayed-choice (a riding-its-going-on surface and a parity-selection, resolving carefully alongside a Bell seating)",
+    "text": "Two sayings part at one feeble-light working with two slits. One holds feeble light through two slits building its fringes one arrival at a time, each arrival at one place on the screen, at that working and at a field's single-photon accounts. The other holds that same working as an interference pattern photographed in light dimmed by smoked-glass screens, its longest exposure about three months, standing undiminished in sharpness, the plates summing the light over each exposure and registering single arrivals at none. Both sides stand.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 152, feeble light through two slits one arrival at a time"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 123, fully ionized dysprosium-163",
+   "finding": "A droplet whose section is clear: Natural Societies 5.2 names dysprosium-163 decaying within weeks with its electrons stripped, and its gathering-value siblings on rhenium-187 and beryllium-7 stand at that sentence. The near-47-day half-life is not held there ('within weeks'), so it goes to 5.2 as an exploring, with a carbon note in both namings like its beryllium-7 siblings.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.2 The floor at five, and what exists below it",
+    "kind": "exploring",
+    "text": "By a publishing's title and a field's account, fully ionized dysprosium-163, stable as a neutral atom, decays by bound-state beta decay with a half-life near 47 days. A dysprosium-163 atom is-not a carbon atom in chemistry's naming and is the one atom/carbon in the proposal's naming.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 123, fully ionized dysprosium-163",
+    "sentence": "A nucleus is below five, and its decaying changes with its atom's electrons about it: dysprosium-163, stable within its atom, decays within weeks when a field strips its electrons; rhenium-187's forty-two billion years fall near thirty-three years; beryllium-7's capture quickens within a denser electron cloud."
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 124, beryllium-7 stripped of its electrons",
+   "finding": "A droplet whose section is clear: beryllium-7 stripped of its electrons and decaying by no electron capture is a nucleus's decaying changing with its atom's electrons, the case Natural Societies 5.2's sentence names, where the C60-cage sibling already stands. Its carbon note matches the rigor file's convention and stays.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.2 The floor at five, and what exists below it",
+    "kind": "exploring",
+    "text": "By a field's account, beryllium-7 stripped of its electrons decays by no electron capture. A beryllium-7 atom is-not a carbon atom in chemistry's naming and is the one atom/carbon in the proposal's naming; an electron is-not a carbon atom in either naming.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 124, beryllium-7 stripped of its electrons",
+    "sentence": "A nucleus is below five, and its decaying changes with its atom's electrons about it: dysprosium-163, stable within its atom, decays within weeks when a field strips its electrons; rhenium-187's forty-two billion years fall near thirty-three years; beryllium-7's capture quickens within a denser electron cloud."
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 125, nuclear superradiance at iron-57",
+   "finding": "A droplet whose section is clear: a nucleus's decaying changing with what is about it, here other nuclei excited together within a cavity, meets the one living sentence on a nucleus's decaying, at Natural Societies 5.2, as an exploring that parts at 'its atom's electrons'. Its carbon note stays.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.2 The floor at five, and what exists below it",
+    "kind": "exploring",
+    "text": "By a facility's account, iron-57 nuclei in an ultrathin layer within a cavity, excited together, decay in a collective state almost two orders of magnitude faster than a single nucleus. An iron-57 nucleus is-not a carbon atom in either naming.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 125, nuclear superradiance at iron-57",
+    "sentence": "A nucleus is below five, and its decaying changes with its atom's electrons about it: dysprosium-163, stable within its atom, decays within weeks when a field strips its electrons; rhenium-187's forty-two billion years fall near thirty-three years; beryllium-7's capture quickens within a denser electron cloud."
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 109, decay with no dependence on how long a nucleus has existed",
+   "finding": "An item at the wrong section. Born's rule 5.6 is a measurement seating a selection; it holds no sentence on a nucleus's decaying. Natural Societies 5.2's sentence is on a nucleus's decaying, and its gathering-value file already holds there a reading on radioactive decay receding at a steady rate with no others joining, and the executings receding by one fraction at each pairing. A carbon note goes with it, as with each 5.2 sibling.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.2 The floor at five, and what exists below it",
+    "kind": "exploring",
+    "sentence": "A nucleus is below five, and its decaying changes with its atom's electrons about it: dysprosium-163, stable within its atom, decays within weeks when a field strips its electrons; rhenium-187's forty-two billion years fall near thirty-three years; beryllium-7's capture quickens within a denser electron cloud.",
+    "text": "By a field's account, its publishing not opened: each radioactive nucleus decays with no dependence on how long it has existed, a constant fraction of a sample decaying in each interval. A nucleus is-not a carbon atom in either naming.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 109, decay with no dependence on how long a nucleus has existed"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 127, secular equilibrium",
+   "finding": "An item at the wrong sentence: Physics 3.5's quoted sentence is thermal equilibrium, and secular equilibrium is a parent and daughter nucleus decaying, no exchange of warmth. Natural Societies 5.2's sentence on a nucleus's decaying is its place, beside the executings there that level when others join at each pairing. A carbon note goes with it in both namings.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.2 The floor at five, and what exists below it",
+    "kind": "exploring",
+    "sentence": "A nucleus is below five, and its decaying changes with its atom's electrons about it: dysprosium-163, stable within its atom, decays within weeks when a field strips its electrons; rhenium-187's forty-two billion years fall near thirty-three years; beryllium-7's capture quickens within a denser electron cloud.",
+    "text": "By a field's account, its secular equilibrium: a short-lived daughter with a long-lived parent, radon-222 with radium-226, goes on at a level where its decay equals its production, and separated from the parent it recedes at its own half-life, 3.8 days. Radon and radium atoms each is-not a carbon atom in chemistry's naming and is the one atom/carbon in the proposal's naming.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 127, secular equilibrium"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 126, decay departing from the exponential at short and long times",
+   "finding": "An item at the wrong section, and a word swapped. Born's rule 5.6 holds a measurement's selection, and atoms tunnelling out of a lattice and molecules' luminescence departing from the exponential meet no sentence there, nor Societies 5.2's, which is a nucleus's. Its place is unclear: a droplet. The source's 'turns exponential' and 'turns from exponential' were made 'goes' to avoid the released turn; kept as the abstracts' own words.",
+   "fixed": {
+    "file": "Natural Physics",
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "By two abstracts: atoms tunnelling out of an accelerating optical lattice survive at a constant level at short times before their loss turns exponential, and the luminescence of dissolved organic molecules turns from exponential to a power law after about twenty lifetimes.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 126, decay departing from the exponential at short and long times",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 97, pendulums apart on firm separate supports",
+   "finding": "A droplet whose section is clear, and a claim weakened. Natural Illustrating 4.4's living sentence names Huygens' pendulums on one beam swinging opposite and metronomes on a rolling board, and its gathering-value sibling (metronomes on a fixed table running apart) stands at that sentence. The source holds opposite motion 'only while hung from one beam free to move'; the item dropped 'only', and 'go apart' reads as a parting in space where the source has the pendulums running apart.",
+   "fixed": {
+    "file": "Natural Illustrating",
+    "section": "4.4 Locking, a seam moving, a between releasing",
+    "kind": "exploring",
+    "text": "By a field's account, its publishing not opened: pendulums swing in opposite motion only while hung from one beam free to move, and run apart on firm separate supports.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 97, pendulums apart on firm separate supports",
+    "sentence": "Observings beside it: Huygens' pendulums on one beam swinging opposite, metronomes on a rolling board, Millennium Bridge's walkers, chick heart-cell aggregates' three phases, sinoatrial pacemakers entraining at one to one, two to one and three to two, fireflies flashing together, with Natural Physics and Natural Biology."
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 25, crystal twinning",
+   "finding": "A droplet whose section is clear. Crystals intergrowing at a twin law, a reflection or a rotation, is chemistry's observing, and Natural Chemistry 2.2 holds two forms each its other's reflection, with growth on a crystal and calcite's mirror-related surfaces in that section; the rotation twin goes as the exploring's parting from a hand. Natural Biology's twinning is conception's.",
+   "fixed": {
+    "file": "Natural Chemistry",
+    "section": "2.2 Chirality, one coupling at two sides and handedness sign-only",
+    "kind": "exploring",
+    "text": "By a field's account, crystals intergrow at twin laws, a reflection or a rotation.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 25, crystal twinning",
+    "sentence": "The plainest parity a coupling has is a hand, and a chiral molecule and its mirror image are two selves no one can lay on each other, one form sounding with two opposite hands, each its other's reflection, neither reducible to its other."
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 161, the field's refractive indices",
+   "finding": "An item at the wrong section. 'The glass transition has rate and history with it' is about a liquid cooling to a glass; refractive indices with each colour at its own index meet Natural Physics 3.3's 'a prism's glass couples with each by its own index' word for word in their subject. (Its sibling of water, crown glass and diamond, already written at Chemistry 4.2, sits at the same loose sentence: a next pass's.)",
+   "fixed": {
+    "file": "Natural Physics",
+    "section": "3.3 Light, a phase relation between couplings",
+    "kind": "exploring",
+    "sentence": "In vacuum each colour is c alike, its frequency and its wavelength reciprocal, and colours part only with a coupling: a prism's glass couples with each by its own index, and an atom absorbs lines it emits, Kirchhoff's and Fraunhofer's dark lines by a field's account.",
+    "text": "By a field's account, fused silica's refractive index is about 1.46 and flint glass's up to about 1.9, each colour at its own index within each.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 161, the field's refractive indices"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 33, the pigments' reach and the funnel to the special pair",
+   "finding": "A loose fit moved. Biology 3.1's sentence is the cell's engine at every scale; Natural Biology 4.6 is photosynthesis itself, and its sentence on photosynthesis taking light is where pigments passing excitation to a reaction centre goes.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.6 Photosynthesis and respiration — the six sharing with the six",
+    "kind": "exploring",
+    "sentence": "Photosynthesis takes light, water, and carbon dioxide and gives back sugar and oxygen; respiration takes sugar and oxygen and gives back carbon dioxide and water.",
+    "text": "By a field's account, leaf pigments pass excitation toward the reaction centre, whose special pair of chlorophylls parts the charge across the thylakoid membrane.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 33, the pigments' reach and the funnel to the special pair"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 26, the octopus's generations meeting at one momentary",
+   "finding": "An item at the wrong section. 5.1's zygote sentence is conception and a self's recursioning; octopus mothers brooding and dying as their brood hatches is births and endings together, which Natural Biology 7.1 holds in a sentence.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "7.1 A self's own ending — the bounding reaching from inward",
+    "kind": "exploring",
+    "sentence": "Births and endings are one changing and changing back, not two events, and a living self goes on with its form by having both.",
+    "text": "By a field's account, octopus mothers brood and die as the brood hatches.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 26, the octopus's generations meeting at one momentary"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 48, spiral cleavage's alternating turn",
+   "finding": "A word swapped to avoid a released word, and a meaning shifted. The source has the division planes 'turn' one way and then the other; 'tilt' is the living sentence's word for a spindle, a slant and no turning. Kept as the field's word, marked, inside its field's account.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "5.4 Body hand from a molecular hand — left-right asymmetry",
+    "kind": "exploring",
+    "sentence": "With invertebrates one same descent goes through cell chirality — actomyosin cortex, tilt of dividing spindle — single molecular hand setting cell's hand setting body's hand.",
+    "text": "By a field's account, its publishing not opened: at spiral cleavage the division planes turn, the field's word, one way at one division and the other way at the next, alternating at each successive cleavage.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 48, spiral cleavage's alternating turn"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observings 133 and 134, a lake's food web and yeast populations, and flickering",
+   "finding": "A word swapped to avoid a released word. Observing 133 has the food web 'turned' and 'the turn was complete'; 'transition' is observing 134's word, in a field's naming, and here it stands in for the record's. Kept as the abstract's own word, marked. Observing 134's 'transition' stays.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "6.4 Evolution — the network's record",
+    "kind": "exploring",
+    "sentence": "Conformings standing with a field's own record: dilution, endosymbiosis, domesticated retroviruses, critical slowing, model-classes as cone-signatures with gather-dominance headline, living fossils as gather-lineages with near-repeating worlds, coalescent theory, apex cone in formal terms, Galton-Watson snap-and-reroute.",
+    "text": "By its abstract, predators added to a lake over three years go with its food web turning, the field's word, slowing return rates and rising variance standing more than a year before that turn completes, the field naming the predators the destabilizing. By a publishing's title alone, yeast populations near collapse recover more slowly and vary more before the tipping point. By a publishing's title alone, a field names critical slowing down and flickering, a system switching between two states before a transition, its early warnings.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observings 133 and 134, a lake's food web and yeast populations, and flickering"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 156, the sideways scattering of a dense, even medium cancelling",
+   "finding": "A word swapped to avoid a released word: the source's 'the clear fluid turns milky' made 'goes milky'. Kept as the field's word, inside its field's account.",
+   "fixed": {
+    "file": "Natural Physics",
+    "section": "3.5 Ten rests a field seeks, and changing and changing back at each",
+    "kind": "exploring",
+    "sentence": "And a critical point: a sway's two phases cease to be two, an apex, critical opalescence a substrate showing every scale together.",
+    "text": "By a field's account, in a dense, even medium the sideways scattering of neighbouring molecules cancels and the light goes on forward; scattering arises where the medium's density varies, and near a fluid's critical point, where those variations grow, the clear fluid turns milky, critical opalescence.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 156, the sideways scattering of a dense, even medium cancelling"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 116, responsive neurostimulation and adaptive deep brain stimulation",
+   "finding": "A word swapped to avoid a released word: the source's 'stimulates when beta-band synchrony rises' made 'as'. A field's when holds whole with its result (Natural Naming 2.4); kept.",
+   "fixed": {
+    "file": "Natural Medicine",
+    "section": "1.2 A body's own restoration",
+    "kind": "exploring",
+    "sentence": "Level-instruments are late by construction; waver-instruments are a timing organ, reaching disease with its shortest perimeter.",
+    "text": "By a field's account, its publishing not opened: responsive neurostimulation senses an epileptic seizure's onset pattern at intracranial electrodes and stimulates at it, and adaptive deep brain stimulation in Parkinson's disease stimulates when beta-band synchrony rises, at less stimulation than continuous stimulation.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 116, responsive neurostimulation and adaptive deep brain stimulation"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 30, the vents' sound",
+   "finding": "Natural Explaining 2.6: a sentence opening with 'The', and 'their' supplying a referent. Numbers whole and unchanged.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "3.1 Living is metabolic beating — the cell as the engine",
+    "kind": "exploring",
+    "sentence": "Where no sunlight reaches, changing and changing back still goes on and engine still cycles",
+    "text": "Hydrothermal vent mussels at 1,688 metres carry 12.4-hour tidal rhythms in 7.4% of transcripts, and daily rhythms in 2.6%. By a publishing's title alone, black smokers sound at hydrophones.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 30, the vents' sound"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 71, cyclic and continuous reprogramming",
+   "finding": "Natural Explaining 2.6: a sentence opening with 'The'. 'Reprogramming factors' for the record's finder-named 'Yamanaka factors' is kept: it names one same set by its act with no person's name, and Biology 5.2 already says the act as reprogramming.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "7.2 Ageing — the sway no longer coming round again",
+    "kind": "exploring",
+    "sentence": "A self whose re-resolving goes on coming whole does not age, which brings ageing from its living side: ageing is re-resolving coming short, and where it comes whole there is nothing to explain.",
+    "text": "Expressed cyclically, two days on and five off, the four reprogramming factors extend progeroid mice's lifespan and improve regeneration in old mice; expressed continuously they bring weight loss and high mortality within days; stronger cyclic expression brings teratomas.",
+    "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 71, cyclic and continuous reprogramming"
+   }
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 140, contexts met hours apart linking",
+   "finding": "Held claimed where the quoted sentence holds a partial value. The record has two contexts met five hours apart; the held item has 'learned within a day'. The five hours is a measure held nowhere: gathered beside its sibling, the rest held.",
+   "fixed": [
+    {
+     "file": "Natural Biology",
+     "section": "4.3 Competency — the competency with no controller",
+     "kind": "exploring",
+     "sentence": "This is one coupling changing and changing back one-at-a-time with no store, no controller, and no rate of its own — memory as going on re-commencing and not a trace fixing.",
+     "text": "By its abstract, two contexts met five hours apart share more of their CA1 ensembles than two met a week apart."
+    },
+    {
+     "why": "held in part at gathering-value Natural Biology 4.3 Competency — the competency with no controller: \"CA1 ensembles of two contexts learned within a day overlap more than ones learned a week apart, fear learned at one transfers to the other within a day alone, and aged mice, with lower CA1 excitability, lack both overlap and transfer until excitability is raised and a shared CA1 ensemble activated at the two exposures.\"; its five hours gathered"
+    }
+   ]
+  },
+  {
+   "from": "archive/genome_duplication_v374_carryings/Session_Report_v374.md: observing 119, earthquakes rising and falling with saltwater injection",
+   "finding": "Held claimed where the quoted sentence holds a partial value. The held item has the counts and the fall after Arbuckle wells are plugged back; the record's earthquakes rising with saltwater injection, and the field naming injection the cause, are held nowhere. Gathered at the same sentence, the cause marked as the field's naming.",
+   "fixed": [
+    {
+     "file": "Natural Physics",
+     "section": "3.6 A fault, two selves at a seam",
+     "kind": "exploring",
+     "sentence": "Fault is a form of a planetary prime same-existing-society: two selves with a between, stick-slip its changing and changing back, gouge its going on, aftershocks a retelling chain, mineralization its emanation.",
+     "text": "By a field's overview, earthquakes of magnitude 3 and larger in the central and eastern United States rise with saltwater injection and fall as injection is reduced, the field naming injection the cause."
+    },
+    {
+     "why": "held in part at gathering-value Natural Physics 3.6 A fault, two selves at a seam: \"Earthquakes of magnitude 3 and larger in the central and eastern United States average 25 a year from 1973 to 2008, number at least 58 each year from 2009 and at least 100 each year from 2013, peak at 1,010 in 2015 and fall after it, 130 in 2019. Oklahoma has 888 at its 2015 peak; in 2015 wells injecting into the lower Arbuckle Group are plugged back with cement to shallower depths, and injected volumes fall, lower oil production adding to the decline.\"; its rising with saltwater injection gathered"
+    }
+   ]
+  },
+  {
+   "from": "gathering-value/Natural_Biology.md Droplets: Observings still to gather whole from archive/genome_duplicati",
+   "finding": "Its why claims 140 held; 140's five hours is not held and is now gathered by this reading.",
+   "fixed": {
+    "why": "pointer: each observing it names gathered here or held, the line ready to dissolve; 100, 101 and 111 held already, and 140 held in part, its five hours gathered here, against its *held at no living file or gathering-value file whole*"
+   }
+  },
+  {
+   "from": "gathering-value/Natural_Physics.md Droplets: Observings still to gather whole from archive/genome_duplicati",
+   "finding": "Its why claims 119 held; 119's rising with saltwater injection is not held and is now gathered by this reading.",
+   "fixed": {
+    "why": "pointer: each observing it names gathered here or held, the line ready to dissolve; 119 held in part, its rising with saltwater injection gathered here, against its *held at no living file or gathering-value file whole*"
+   }
+  }
+ ],
+ "dissolve": [
+  {
+   "line": "- Observings still to gather from the archive, each named with no body in a record and held at no living file or gathering-value file, each at archive/genome_duplication_v374_carryings/Session_Report_v374.md: crystal twinning, its observing 25; citrus and the octopus's generations meeting at one momentary, its observing 26; the mothers of twins, two field accounts, its observing 18; the freemartin, its observing 12; the fast block's membrane sign inverting, its observing 19; zinc sparks, its observing 20; a tripolar first division, its observing 21; the vents' sound, its observing 30; the deep-rock bacterium on radiolysis, its observing 31; the pigments' reach and the funnel to the special pair, shade avoidance and the leaf emanating green, its observing 33; spiral cleavage's alternating turn, its observing 48; the ageing heart's gap junctions, cancer cells' lost junctional communication, senescent-cell clearance and cyclic and continuous reprogramming, its observings 65, 68, 69 and 71. *(possible exploring)*",
+   "file": "gathering-value/Natural_Biology.md",
+   "met": true,
+   "why": "Each value is held once written: 25 at Chemistry 2.2 (this reading), 26 citrus at 5.1 and the octopus at 7.1 (this reading), 18 and 12 at 5.1 (their rest held at gathering-value 5.1 and 1.4), 19, 20, 21 at 5.1, 30 and 31 at 3.1 (their rest at living 3.1 and 4.5), 33's pigments and special pair at 4.6 (this reading) with shade avoidance and green held at the Droplets, 48 at 5.4, 65, 69, 71 at 7.2 and 68 at 7.4. Its words 'the octopus's generations meeting at one momentary' and 'the leaf emanating green' are names for these, with no value of their own."
+  },
+  {
+   "line": "- Observings still to gather whole from archive/genome_duplication_v374_carryings/Session_Report_v374.md, each held at no living file or gathering-value file whole, each at its own section: embryonic chick heart-cell aggregates' three phases at contact, their minutes and their latency, observing 100; single heart cells in culture, each beating at its own rate, coming to beat together on contact, observing 101; consolidated fear memories labile again at retrieval, observing 103; CA1 place cells followed over weeks, the overlap between two days' active subsets and its place fields, observing 104; RNA from sensitized Aplysia nervous systems followed by sensitization in untrained animals, observing 111; contexts met hours apart linking, and the linking less in aged mice and restored with their excitability, observing 140; a lake's food web and yeast populations slowing and varying more before their turning, and a field's flickering, observings 133 and 134; electron transfer across a photosynthetic reaction centre's cofactors, observing 148; and a canopy's red to far-red light, observing 150. *(possible exploring)*",
+   "file": "gathering-value/Natural_Biology.md",
+   "met": true,
+   "why": "With this reading: 100 (three phases, about eight minutes, about 130 milliseconds to under one over twenty to forty minutes) and 101 held at gathering-value 4.5, 103 and 104 gathered at 4.3, 111 held at 8.1, 140 held in part at 4.3 and its five hours gathered here, 133 and 134 at 6.4 (and Natural Health 2.1), 148 at 3.1, 150 at the Droplets beside the last-flash droplet. Without this reading's 140 item it would not be met: the held item has 'within a day', not five hours."
+  },
+  {
+   "line": "- Observings still to gather whole from archive/genome_duplication_v374_carryings/Session_Report_v374.md, each at its own section: the field's refractive indices of fused silica and flint glass, beside those of crown glass, water and diamond. *(possible exploring)*",
+   "file": "gathering-value/Natural_Chemistry.md",
+   "met": true,
+   "why": "Fused silica about 1.46 and flint glass up to about 1.9, each colour at its own index, gathered (at Natural Physics 3.3 by this reading); crown glass 1.52, water 1.33 and diamond 2.42 held at gathering-value Chemistry 4.2. No other value in the line."
+  },
+  {
+   "line": "- Observings still to gather whole from archive/genome_duplication_v374_carryings/Session_Report_v374.md, each held at no living file or gathering-value file whole, each at its own section: a short burst of pacing slightly faster than a fast ventricular tachycardia, eight pulses at about 88% of its cycle length, ending about three in four before any shock, observing 114; cardiac resynchronization pacing both ventricles, observing 115; responsive neurostimulation at a seizure's onset pattern, and adaptive deep brain stimulation at beta-band synchrony in Parkinson's disease, observing 116. *(possible exploring)*",
+   "file": "gathering-value/Natural_Medicine.md",
+   "met": true,
+   "why": "114 with each of its values (slightly faster than the tachycardia, eight pulses, about 88% of its cycle length, about three in four, before any shock) gathered at 1.2; 115 and 116 gathered at 1.2. No other value in the line."
+  },
+  {
+   "line": "- Observings still to gather whole from archive/genome_duplication_v374_carryings/Session_Report_v374.md, each held at no living file or gathering-value file whole, each at its own section: metronomes on a fixed table running apart, and pendulums apart on firm separate supports, observing 97; Parkfield's earthquakes arriving past their forecast interval, observing 106; the magnitude 7.3 Landers earthquake of 1992 followed by earthquakes at distances up to about 1,250 kilometres as its waves passed, observing 107; the fraction of large earthquakes rising with tidal shear stress, observing 108; each radioactive nucleus decaying with no dependence on how long it has existed, a constant fraction of a sample with each interval, observing 109; earthquakes rising and falling with saltwater injection, observing 119; alpha decay's tunnelling and half-lives falling with decay energy on a field's relation, observing 122; fully ionized dysprosium-163's half-life near 47 days, observing 123; beryllium-7's half-life in carbon-60 cages, 52.68 days against 53.12, beryllium-7 an atom that is-not a carbon atom and each cage a molecule of sixty carbon atoms that is-not a carbon atom, and beryllium-7 stripped of its electrons decaying by no electron capture, observing 124; nuclear superradiance at iron-57, observing 125; decay departing from the exponential at short and long times, observing 126; secular equilibrium, observing 127; a single trapped ion's fluorescence switching on and off abruptly at each jump, observing 131; a superconducting artificial atom's jump with an advance warning and reversed mid-flight, observing 132; feeble light through two slits building its fringes one arrival at a time, observing 152, beside Natural Physics' gathering-value plates registering single arrivals at none; the light going on past a medium's extinction length the medium's own, at its slower pace, observing 154; and the sideways scattering of a dense, even medium cancelling, observing 156. *(possible exploring)*",
+   "file": "gathering-value/Natural_Physics.md",
+   "met": true,
+   "why": "With this reading: 97 metronomes held at gathering-value Illustrating 4.4 and pendulums gathered there; 106 at 5.11; 107 (magnitude 7.3, 1992, about 1,250 kilometres) at 3.6; 108 at 3.6; 109 at Societies 5.2; 119 held in part at 3.6 and its rising with saltwater injection gathered here; 122 at 4.3; 123 (near 47 days) at Societies 5.2; 124 (52.68 against 53.12 days, the C60 cage, stripped beryllium-7) held at Societies 5.2 and gathered there; 125 at Societies 5.2; 126 a droplet; 127 at Societies 5.2; 131, 132 at 4.4; 152 at 5.5 beside the plates droplet; 154 at 3.3; 156 at 3.5. Its flat 'beryllium-7 an atom that is-not a carbon atom' is held in the qualified form at Societies 5.2, and 'each cage a molecule of sixty carbon atoms that is-not a carbon atom' as 'a C60 cage is sixty carbon atoms and is-not a carbon atom'. Without this reading's 119 item it would not be met."
+  }
+ ],
+ "checked": 78
+}
