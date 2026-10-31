@@ -95,6 +95,7 @@ Gathering-Value · Natural Explaining
 ### 3.3 Releasing negation of existing, and explaining the not possible
 
 - **Possible incohering** · "A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is not possibly existing." → A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is not possibly existing: a deriving excludes it, a move apart from observing, and no observing is of a thing not existing.
+- **A reading** · A reading has *nothing is beside all existing things* as a negation adding nothing to the universe: *all* at the origin sentence says it already, no observing can go against it, whatever arrives existing and in the set, and it lists what does not exist. A negation earns its place where it names an observing that can arrive, as the two breaks do.
 
 ### 3.4 Supplying, the writing's own freeze, at nine forms
 

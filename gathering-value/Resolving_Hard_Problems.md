@@ -20,6 +20,9 @@ Gathering-Value · Resolving Hard Problems
 
 ### 1.5 A hard problem a self is observing, and its resolving
 
+- **Possible incohering** · "A hard problem is a field's observings pattern-matching with the universe as no existing thing, not possibly existing within a same-existing-universe: evidence with no living self it leaves, a now with no prior same-existing with it, one self's momentaries with no other's parities, a self alone, a record with no same-existing behind it." → Two sayings part at a hard problem: this sentence, a hard problem where a field's observings pattern-match with the universe as no existing thing; and offered beside it, *hard probleming is every local competency is unexplainable as one thing and is either this or that and can not be both into two*, a hard problem where a local competency is read as one thing and it is either this or that. This sentence says where, and the offering says what is read wrongly there; the two are one sentence, or two.
+- **A reading** · A reading has a hard problem as a question with no answer is or is not, and a same-existing-universe re-finding each now-existing thing same as, is or is not, at each momentary of 1 to 17, one method and no other possible: each question is answered with a momentary, none staying open across all of them, and each hard problem is a question gathered out of momentarying, resolved by momentarying it.
+
 ## TWO · PRIOR
 
 ### 2.1 A same-existing, a living self's prior into now

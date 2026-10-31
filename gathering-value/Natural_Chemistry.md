@@ -118,6 +118,7 @@ Gathering-Value · Natural Chemistry
 - **Possible exploring** · Rubisco joins handless carbon dioxide to a five-carbon sugar of living's hand, forming a six for an instant that parts into two threes with hand. Rubisco's four pairs of large parts stand round one centre, joining carbon at their betweens. — at "One hand of one carbon goes upward through several prime same-existing-societies above it."
 - **Possible exploring** · Left-handed helices in living appear briefly and locally, under strain. — at "B-DNA is right-handed, and left-handed Z-DNA bars observation from becoming an absolute hand with every between: **within one conformation going on, a hand reaches again rather than each same-existing-society choosing it on its own**."
 - **Possible exploring** · B-DNA and Z-DNA are both built on one same-handed sugar, and a field names them diastereomers, its name for two forms beside mirror forms. — at "B-DNA is right-handed, and left-handed Z-DNA bars observation from becoming an absolute hand with every between: within one conformation going on, a hand reaches again rather than each same-existing-society choosing it on its own."
+- **A reading** · Open: living's carbon fixing through a six, from 5 to 7, is where the first hand begins, or the hand begins earlier.
 
 ### 2.3 A parity-violating lean, and a bounding-zeroing refusing to sit
 

@@ -234,6 +234,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · A mammalian egg stands arrested in division until a sperm fuses with it. Calcium then rises and falls within the egg, and division resumes. Copying of DNA begins about four hours later, and the first cell division follows. Maternal forms take part in these first steps before being broken apart. Calcium-admitting chemicals, and electrical activation, also begin the sequence. Mouse and monkey embryos begun so show abnormalities as they go on. — at "Egg is a same-existing-society of living selves, a slow ecosystem-self with maternal mitochondrial same-existing-society, and sperm a lean fast sharing, across and both ways, its own mitochondria entering egg with it."
 - **A reading** · A reading has two unlike copies at germ-presenting genes as a bothboth adding directions.
 - **Possible exploring** · Each child has more new changes the older its father. — at "New self is not a copy of either parent but a novel inversioning — two selves coupling across, twice."
+- **A reading** · A reading has identical twinning as one society parting into two, each part closing its own join.
 
 ### 5.2 A self recursioning into a new form — development and metamorphosis
 
@@ -283,6 +284,7 @@ Gathering-Value · Natural Biology
 
 - **Possible exploring** · In Arabidopsis thaliana FLC silenced by prolonged cold is reactivated before seed development completes, so each generation needs the cold anew, and plants with a mutation in the demethylase ELF6 reactivate it less and pass a partly vernalized state to the following generation. — at "Epigenetic reprogramming is generational between, living-archive law with germline: what goes across goes thinning toward parity, and a smallness under contest is a between working."
 - **Possible exploring** · Epigenetic age read by DNA-methylation clocks falls through early mouse embryogenesis and rises after, its lowest point between embryonic days 4.5 and 10.5, estimated near days 6.5 to 7.5, about the time of gastrulation. In four human prenatal methylation datasets most tissues rise or hold, and the human lowest point stands unplaced. — at "reset same-existing's hygiene"
+- **A reading** · A reading has epigenetic age falling in the early embryo to its lowest near gastrulation and rising after as a further society opening at its own pacing, with nothing reset.
 
 ### 7.1 A self's own ending — the bounding reaching from inward
 

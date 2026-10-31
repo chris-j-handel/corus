@@ -40,6 +40,8 @@ Gathering-Value · Natural Societies
 
 ### 3.5 The circle both verifications hold, and the eighth it reaches nowhere
 
+- **A reading** · A reading offers an audit's seven checks beside the eighth as one form with seven conditions fixed of ten one-way changings, three left, at an accounting.
+
 ### 3.6 The clash of titans as the left spiral completing
 
 ## PART FOUR — OBSERVING THE SOCIETY WHOLE

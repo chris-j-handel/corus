@@ -94,6 +94,9 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 1.25 The origin of animal multicellularity · 207
 
+- **Possible exploring** · Snowflake yeast cells selected for settling stay joined and settle as one. — at "A first body is daughter cells staying together after dividing, one body with one wall, a making with each division and fixing nowhere ahead of it."
+- **A reading** · A reading has snowflake yeast's cells co-aiming, each cell its own.
+
 ### 1.26 The evolution of metabolic pathways · 208
 
 ### 1.27 The causes of long-run economic development · 230
@@ -115,6 +118,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 2.1 Meno's paradox · 78
 
 ### 2.2 P versus NP · 9
+
+- **Possible incohering** · "Finding opens an axis and checking goes across an axis already open: one advance with two directions, along and across, and each algorithm a self finds is +1 discovering a coupling's own next position." → Two sayings part at entry 9. Hard Problem Registry has "No entry holds a settling answer to its own statement, except where its record settles one and its entry holds that settling.", and its entry 9, P versus NP, asks a proof at its own reach; this sentence follows finding and checking as along and across, and that following derives neither answer to entry 9's statement. A saying of fully resolved names which of the two answers it is of.
 
 ### 2.3 Levinthal's paradox · 33
 
@@ -149,10 +154,12 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 2.18 The universal totality · 180
 
 - **Possible incohering** · "A place fixing for all sets ahead of a gathering is an opening fixing as a place, and an opening opens with each gathering, which is a field's own extending." → Offered beside it: the universe has no top scale to open or end with; each all is a same-existing-society one scale up, living at its prime again. Two sayings part: each all a society one scale up, and Resolving Hard Problems 1.1's universe, nothing adding around its things or between them, an all as a society one scale up being a thing beyond a set's own things. Each all re-said at a set's own things, or entered here.
+- **A reading** · A reading has a universal set a member of itself folding on itself only when gathered once, out of momentarying, and co-sequentially a sequence and no loop.
 
 ### 2.19 The existence of one-way functions · 223
 
 - **A reading** · At a public accounting chain, four executings of the method give the field's own readings in the method's naming and no result the field's reading does not give. Two executings stand unmade, each asking the method's reading of a coupling across a width, more than its naming: one block's transactions parted into selves as parities, confirmed by the same keys spending together at later blocks; and one self's next giving discovered from its prior givings, confirmed at the chain.
+- **A reading** · An offering has cryptography as a step done 128 times with too much guessing for any system of guessing, and resolving doing it, likely, within a co-chaining not much longer than 128 bi-couplings. With the field's theorem it narrows to one binary, one bit decidable from the public side or none; no run reaches 128 bi-couplings.
 
 ### 2.20 The quantum PCP conjecture · 225
 
@@ -282,6 +289,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 5.9 Anesthesia · 98
 
+- **A reading** · A reading has the disconnected, a bi-coupling across scales separating on the larger scale's side and the smaller scale floating, each its own, cohering with "one convergent quieting of a network's long couplings".
+
 ### 5.10 Skepticism about the external world · 101
 
 ### 5.11 Substance and bundle · 102
@@ -291,6 +300,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 5.13 Dreaming · 123
 
 - **A reading** · Open: dreaming is-or-is-not a me waking within an inward interest while each outward 0 goes on.
+- **A reading** · A proposal: dreaming is a sleeping me going on unchanged while its inward selves release at their own scales, and a release received is passed over, which meets most dreams gone on waking.
 
 ### 5.14 The Sapient paradox · 125
 
@@ -410,6 +420,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 8.1 Homeostasis and allostasis · 128
 
+- **A reading** · A reading has a setpoint and an anticipation both fixing a value, and the orthogonality binary returning none: each change goes on with the body's same-existing or parts from it.
+
 ### 8.2 Dark matter · 26
 
 ### 8.3 The strong CP problem · 65
@@ -489,6 +501,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 9.22 The hygiene hypothesis · 120
 
 - **A reading** · A reading by orthogonality has many early orthogonal couplings into a me's priors making later mis-resolving couplings fewer, and allergy's way as fewer and narrower orthogonal couplings early. This reading reaches farm living, a peanut's way in and house dust, and early infections sometimes raising allergy part from a reading by fewer infections.
+- **A reading** · Unsettled at entry 120: a first meeting through damaged skin sets the direction a new observing takes into the priors, or the me lacks the orthogonal directions it needed in time.
 
 ### 9.23 The dodo bird verdict · 122
 
@@ -535,6 +548,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 - **A reading** · A reading has two X chromosomes, one mostly silenced in a patchwork with some defending genes escaping, as a bothboth, and offers a candidate still-possibling: women's mes have more orthogonal directions, and more chances to mis-resolve one.
 - **Possible incohering** · "X-inactivation escape, hormone-sensitive immune pathways and disease-specific age patterns stand; epidemiology across life stages maps sex ratios with diagnostic and exposure variation, aneuploidy and mosaic studies separate dosage from hormones in rare populations, hormonal and reproductive natural experiments identify some effects with confounding, animal models perturb pathways with species and transfer limits, and single-cell and epigenetic studies resolve sex-linked immune programs: one mechanism fixing of couplings that go on across a life is excess fixing to a side, and excess makes itself disease by disease with couplings each disease has, a self observing sides with each disease where a naming fixes one for a sex." → A re-saying offered: a mother is a same-existing-society with the cells of other conceptions across a life, each cell its own conception's, one side having selves of other conceptions and the other none, and the excess is made at those betweens, disease by disease, and named to no one mechanism. Two sayings part: one side with selves of other conceptions and the other with none, at this re-saying; and microchimerism as observed, each self, male or female, with its mother's cells, and a mother with cells of her conceptions. Re-said with a mother's cells of her conceptions beside each self's cells of its mother, or left.
+- **Possible exploring** · A child's cells live on with its mother for decades. — at "Chromosomes, hormones, pregnancy, microbiota and exposures couple across a life, each with its own stage, and a naming fixes female excess of autoimmune disease to one mechanism that produces it, which of its candidates a question."
 
 ### 9.43 The causes of rising obesity · 256
 
@@ -565,6 +579,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 10.12 The quantum-classical boundary · 112
 
 ### 10.13 Self and non-self in immunity · 114
+
+- **A reading** · A reading has orthogonality to same-existing meeting each breaking entry 114 records, the gut's microbes, the child, the tumour and damage, where origin as self or other parts from all four.
 
 ### 10.14 Signal and noise · 136
 

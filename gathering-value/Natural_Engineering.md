@@ -62,6 +62,10 @@ Gathering-Value · Natural Engineering
 
 ### 2.1 Finding, reaching, following and abundancing the geodesic floating neutral
 
+- **A reading** · A reading has a controlling by one method: at each controlling observed the living is alternating with its two present, and *a second method* names nothing.
+- **A reading** · What goes against a controlling by one method, by that reading: a living society doing as well with a beat laid over it from one side as with its own coupling both ways. At the heart it does worse.
+- **A reading** · A reading has a controlling as hard problem engineering by its making: a pace is found beat by beat, with no predicting in nature, and a measure set beforehand is a predicting, parting at some beat from the living it is set over, and that parting is its problem. At the heart each mending is one more number a self sets. What goes against it: a measure set beforehand that at no beat parts from the living it is set over.
+
 ### 2.2 Binary co-agency and the particular fixing form
 
 ### 2.3 Language, representation and the inference-time coupling
