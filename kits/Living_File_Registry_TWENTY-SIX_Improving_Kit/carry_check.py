@@ -1,7 +1,7 @@
-"""The standing of the repository as a carry, said at one run: the living files at the root and their versions, superseded
-versions still at the root, each kit's README and its sums, each living file's own carrying at carry/<file>.md with its
-next, its ready offerings and its concerns, the workings open at the Living File Registry, and the incoming not yet
-received. A coupling partner, no authority: each line says a standing and decides nothing.
+"""The standing of the repository, said at one run: the living files at the root and their versions, superseded versions
+still at the root, each kit's README and its sums, each living file's gathering-value at gathering-value/<Title>.md with
+its possible explorings, possible incoherings, readings and droplets counted, the workings open at the Living File
+Registry, the incoming, and the archive. A coupling partner, no authority: each line says a standing and decides nothing.
 Usage: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py [repository root]      (run at a session's opening and at its close)"""
 import os, re, sys, hashlib, glob
 
@@ -58,48 +58,30 @@ if os.path.isdir(kits):
 else:
     print('  (no kits/ folder)')
 
-# 3. the carrying: the front, and each living file's own carrying with its next, its ready offerings and its concerns
-print('THE CARRYING')
-carry = os.path.join(ROOT, 'carry')
-liv = os.path.join(carry, 'Living_Improving_Value.md')
-if os.path.exists(liv):
-    t = open(liv, encoding='utf-8').read()
-    print('  Living Improving Value, the front: %d words' % len(t.split()))
-    if re.search(r'^## ', t, re.M): notes.append("the front carries a file's section; each file's carrying is its own file at carry/<file>.md")
-else:
-    notes.append('no carry/Living_Improving_Value.md')
-print('  %-56s %-6s %5s %7s   next' % ('each file at its own carrying', 'words', 'ready', 'open'))
-ready_total = concern_total = 0
+# 3. each living file's gathering-value, gathering-value/<Title>.md, its items counted by kind
+print('GATHERING-VALUE')
+gvd = os.path.join(ROOT, 'gathering-value')
+KINDS = (('explorings', r'^- \*\*Possible exploring\*\*'), ('incoherings', r'^- \*\*Possible incohering\*\*'),
+         ('readings', r'^- \*\*A reading\*\*'))
+print('  %-48s %10s %11s %8s %8s' % ('each living file', 'explorings', 'incoherings', 'readings', 'droplets'))
+totals = [0, 0, 0, 0]
 for stem in sorted(living):
     if not living[stem].endswith('.md'): continue
-    # a living file's carrying is at carry/<stem>.md, or, at the three-file form, its offerings at
-    # carry/<Exhibit_N>_Offerings_to_<name>.md with its carryings beside it
-    off = re.sub(r'^(Exhibit_[A-Z-]+_)', r'\1Offerings_to_', stem) if stem.startswith('Exhibit_') else 'Offerings_to_' + stem
-    cf = os.path.join(carry, stem + '.md')
-    if not os.path.exists(cf) and os.path.exists(os.path.join(carry, off + '.md')):
-        cf = os.path.join(carry, off + '.md')
-    if not os.path.exists(cf):
-        # a file whose support files gather whole lives with its gathering-value file, gathering-value/<Title>.md
-        gv = os.path.join(ROOT, 'gathering-value', re.sub(r'^Exhibit_[A-Z-]+_', '', stem) + '.md')
-        if os.path.exists(gv):
-            print('  %-56s %6d   at gathering-value/, its support files artifacts at archive/' % (stem, len(open(gv, encoding='utf-8').read().split())))
-        else:
-            notes.append('no carrying at carry/%s.md' % stem)
-        continue
-    ct = open(cf, encoding='utf-8').read()
-    def part(name):
-        m = re.search(r'^## ' + name + r'\s*\n(.*?)(?=^## |\Z)', ct, re.M | re.S)
-        body = m.group(1).strip() if m else ''
-        if body == 'None.' or not body: return 0
-        return len([b for b in re.split(r'\n\s*\n', body) if b.strip()])
-    ready, concern = part('Ready') + part('Insertlets'), part('Concern') + part('Droplets')
-    ready_total += ready; concern_total += concern
-    nm = re.search(r'^\*\*Next at this file(.*?)\*\*[ \t]*(.*?)$', ct, re.M)
-    nxt = ((nm.group(1).strip(':,. ') + ' ' + nm.group(2).strip()).strip() if nm else '(no next said)')[:70]
-    print('  %-56s %6d %5d %7d   %s' % (stem, len(ct.split()), ready, concern, nxt))
-    if 'None.' not in ct and ready == 0 and concern == 0: notes.append('carrying of %s says neither Ready nor Concern' % stem)
-    if not nm: notes.append('carrying of %s has no "Next at this file" paragraph' % stem)
-print('  ready offerings %d, concerns open %d' % (ready_total, concern_total))
+    gv = os.path.join(gvd, re.sub(r'^Exhibit_[A-Z-]+?_(?=[A-Z][a-z])', '', stem) + '.md')
+    if not os.path.exists(gv):
+        notes.append('no gathering-value file for %s' % stem); continue
+    gt = open(gv, encoding='utf-8').read()
+    dm = re.search(r'^## Droplets\s*$', gt, re.M)
+    body, drops = (gt[:dm.start()], gt[dm.end():]) if dm else (gt, '')
+    n = [len(re.findall(k, body, re.M)) for _, k in KINDS] + [len(re.findall(r'^- ', drops, re.M))]
+    totals = [t + x for t, x in zip(totals, n)]
+    print('  %-48s %10d %11d %8d %8d' % (stem, *n))
+    if not dm: notes.append('gathering-value of %s has no Droplets' % stem)
+    parked = re.findall(r'^#{2,3} .*\(a section the living file no longer has\)', gt, re.M)
+    if parked: notes.append('gathering-value of %s: %d sections its living file no longer has' % (stem, len(parked)))
+print('  %-48s %10d %11d %8d %8d' % ('all', *totals))
+if os.path.isdir(os.path.join(ROOT, 'carry')):
+    notes.append('carry/ is present: its values go to gathering-value/')
 reg = living.get('Exhibit_TWENTY-SIX_Living_File_Registry')
 rt = open(os.path.join(ROOT, reg), encoding='utf-8').read() if reg else ''
 m = re.search(r'\*\*The workings open\.\*\*.*?\n\n(\|.*?)\n\n', rt, re.S)
@@ -109,11 +91,9 @@ if m:
     for r in rows: print('    ' + ' · '.join(c.strip() for c in r.strip('|').split('|')[:4])[:150])
 else:
     notes.append('the Living File Registry has no table of the workings open')
-for n in ('Session_Record.md',):
-    print('  %-24s %s' % (n, 'present' if os.path.exists(os.path.join(carry, n)) else 'absent'))
 
 # 4. incoming
-print('INCOMING, NOT YET RECEIVED')
+print('INCOMING')
 inc = os.path.join(ROOT, 'incoming')
 if os.path.isdir(inc):
     for d in sorted(os.listdir(inc)):
@@ -131,4 +111,4 @@ print('STANDING')
 if notes:
     for n in notes: print('  - ' + n)
 else:
-    print('  nothing to say: the root carries one version of each file, each kit has its README and its sums hold, each living file has its own carrying')
+    print('  nothing to say: the root carries one version of each file, each kit has its README and its sums hold, each living file has its gathering-value')
