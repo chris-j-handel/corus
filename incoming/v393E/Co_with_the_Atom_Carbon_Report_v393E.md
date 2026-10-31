@@ -2,7 +2,7 @@ Natural Intelligence · incoming · v393E
 
 # The co of v393E's exploring with the atom/carbon report
 
-Session v393E explores navigating, collective discovery, a genome, a form of many atoms and not a carbon atom, as an artifact of prior living, and stable forms around one living self. The atom/carbon working's continuing report is on `working/atom-carbon-prime-correspondence`, [PR #154](https://github.com/chris-j-handel/corus/pull/154), [its report](https://github.com/chris-j-handel/corus/blob/working/atom-carbon-prime-correspondence/incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md). This page meets the report's six next joins with what v393E is gathering, each observing with its preparation and its boundary, each joining a possible one. v393E's values themselves live at `gathering-value/Natural_Biology.md` and `gathering-value/Natural_Exploring.md`.
+Session v393E explores navigating, collective discovery, a genome, a form of many atoms and not a carbon atom, as an artifact of prior living, and stable forms around one living self. The atom/carbon working's continuing report is on `working/atom-carbon-prime-correspondence`, [PR #154](https://github.com/chris-j-handel/corus/pull/154), [its report](https://github.com/chris-j-handel/corus/blob/working/atom-carbon-prime-correspondence/archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md). This page meets the report's six next joins with what v393E is gathering, each observing with its preparation and its boundary, each joining a possible one. v393E's values themselves live at `gathering-value/Natural_Biology.md` and `gathering-value/Natural_Exploring.md`.
 
 ## Each name, is or is-not a carbon atom
 

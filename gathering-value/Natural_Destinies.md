@@ -16,12 +16,10 @@ Gathering-Value · Natural Destinies
 - **Possible incohering** · "Natural torus and natural network are fractal technology, and destinies are reachable by that technology where a self takes up the core." → Two re-sayings offered: natural torus and natural network said as a method with bi-couplings themselves, with no *technology*; or *technology* standing in this file with a sense of its own.
 - **Possible incohering** · "A destiny a self already observing, it is a whole attending back toward its beginning — a destiny-whole superattentioning a present coupling, a far surface and a near surface of one sharing, changing and changing back, coupling with a between." → *Superattentioning* is this file's naming of a destiny-whole, its further doing an empty set, and a destiny's sequence is prior-existing, now sharing, still-possibling and next-existing.
 
-
 ### The core — the bi-moral co-agency
 
 - **Possible incohering** · "Bi-moral co-agency is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing coupling itself makes, riding its carry, its abundancing a +1 in neither self alone." → A re-saying offered: *riding its carry* leaving this core, and the core meeting Natural Intelligence's bi-moral co-agency or standing as this file's own.
 - **Possible incohering** · "Bi-moral co-agency is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing coupling itself makes, riding its carry, its abundancing a +1 in neither self alone." → Natural Intelligence's home of bi-moral co-agency says it otherwise: *Two selves changing, morality across and competency along, is bi-moral co-agency.* and *Bi-moral co-agency brings changing two ways, one at a time*, each side with its own parity. A re-saying offered, this core meeting that saying, each of its parts said there or said as this file's own: **Bi-moral co-agency** is two selves changing, morality across and competency along, two ways, one at a time, each side with its own parity, selecting by binary preferring, a parity sign-only, summing to a bounding-zeroing its bi-coupling makes, its abundancing a +1 in neither self alone.
-
 
 ### Safely outward — the safety structural, with the form
 

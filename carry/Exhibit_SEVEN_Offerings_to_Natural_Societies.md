@@ -130,7 +130,6 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 ## Incoming · v392chem
 
-
 - **The atom at 5 non-living:** Pattern-matching: an atom cannot be living at 5, a handless stable form that loops alone and whose every changing goes with its couplings, which parts from 5.3's *atom the first self* and the v390 inception resolution and waits its own motion. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **The tendril at each prime scale:** A two-handed coil about a between, twisting in and relaxing out, is observed from the genes' molecule to the biosphere and absent only at 5, a pattern for matching natural torusing society at each scale, population and community still to gather. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

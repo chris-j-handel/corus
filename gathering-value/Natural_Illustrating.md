@@ -135,3 +135,7 @@ Gathering-Value · Natural Illustrating
 ### 9.3 Not yet at files
 
 ## Droplets
+
+- The current diamond has rows 1; 8 and 2; 7, 5 and 3; 6 and 4; and 9, placing 5 at its centre and 1 at its forward point. *(possible exploring)*
+
+- A whole nine-dot diamond, a drawing and is-not a carbon atom, moving with no internal changing needs encounters with other now-existing things for the observing a proposal names, motion alone being no resolving. *(possible exploring)*

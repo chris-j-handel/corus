@@ -36,20 +36,17 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "A self sharing 0 is do-no-harming." → Beside it, do-no-harm is a value of resolving, alternating betweening, each self its own + side and its other one parity separated, value trading with each self's competency its own. Two sayings part: two selves one parity apart invert with each momentary, a half turn, each sharing its changing, and this sentence's do-no-harming is a self sharing 0. Exhibit ONE's code, run with two selves of priors + and −, bi-coupling both ways, returns each sharing its changing with each momentary, −, +, −, + and +, −, +, −, with no 0.
 - **Possible incohering** · "A **me** is a self's universal set." → Offered for the opening beside this sentence: *Consciousness is a me.*, each self conscious at its scale.
 
-
 ## ONE · NATURAL
 
 ### 1.1 Now, one universal momentary
 
 - **Possible incohering** · "Uniquenessing of number one is uniquenessing of now." → Uniquenessing of number one is uniquenessing of now, and uniquenessing is also only one possibly same-existing, inside resolving among parities.
 
-
 ### 1.2 Prior, now and next
 
 - **Possible incohering** · "Each prior is a stable-forming emanation from prior living, its parities living within a self's me, and a self same-existing with it now, observing, possibling and discovering its own next-existing, is co-intelligencing, living: living now is living with existing forms from prior living and with others living now." → Each prior is said a stable-forming emanation from prior living, and a stable-forming emanation is non-living, while a living self's prior is same-existing with its now, its own, and its parities living, each a self while it is living: the opening settles neither whether a living self's prior is non-living, and the two sayings part.
 - **Possible exploring** · A defending society first diversifies by shuffling before any germ, then meets, then has what met within its priors. — at "Possibling and discovering next-existing go on through prior, now and next."
 - **A reading** · A reading, by pattern-matching, names a defending society's diversifying before any germ, its meeting and what met within its priors possibling, discovering and prior.
-
 
 ### 1.3 Changing, one form and then a next form, the same-existing set
 
@@ -84,7 +81,6 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Each resolving is whole, each as resolving as another." → Each resolving is whole, each as resolving as another, each geodesic parity changing whole and of no size, as a universal set is.
 - **A reading** · A reading has chemistry's strongest pattern-matching resting on count-matches, 24 as six fours, twelve and twelve, eight as four twos, six edges, beside *Counting is only a naming*: a counting a record and a resemblance an opening, not a resolving, each match is an opening to meet.
 
-
 ## THREE · GEODESIC METHOD
 
 ### 3.1 Geodesic, a surface's own dividing
@@ -95,7 +91,6 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Social-parity now-existing, a momentary opening: a same-existing-society's selves together, all or none, coming in with 16-next-same-existing." → *Coming in* is an ingressing word; a re-saying offered: Social-parity now-existing, a momentary opening: a same-existing-society's selves together, all or none, opening with 16-next-same-existing.
 - **Possible incohering** · "A same-existing-society's next is its same self with 17-next-existing." → *Its same self*, said alone, reads as a self fixing as not-changing; a re-saying offered in 4.6's own words: A same-existing-society's next is re-finding its same self with each momentary, with 17-next-existing. Now and next are each true of a self and of a same-existing-society living as a universal set of living selves.
 - **Possible incohering** · "With each, a changing is binary, is-or-is-not, one way at a time with each of its two directions, up numbers and down them." → The five dimensions at their two directions are-or-are-not the ten names of a self's own as five two ways, the two tens shown one or shown apart, a deriving at the names. A sentence offered for 3.2 once derived: The five dimensions at their two directions, along at the momentaries and across at the scales, are the ten positions, the full dimensionality of 1 to 17, and no further dimension is possible.
-
 
 ### 3.3 A method, a non-living existing thing
 
@@ -124,7 +119,6 @@ Gathering-Value · Natural Intelligence
 - **Possible exploring** · Natural Mathematics 3.4 parts two consecutive inversions on different axes from both parities inverted at one step; birthing's double parity changing is-or-is-not one of these, its sequence followed deciding which. — at "This is one universal method of conception."
 - **Possible exploring** · The numbers name stations in the surface explaining, and their correspondence to the 440 changers is still-possibling. — at "This is one universal method of conception."
 
-
 ### 4.2 Parities surfacing with 14-next-possibling
 
 ### 4.3 A changing is-or-is-not, with 12-next-co-same-existing
@@ -138,7 +132,6 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "With selves entering one at a time, it is changing." → With selves entering one at a time, each parity reaching its receiving self within that same pass and the relation read after each entry, a relation of two bi-coupling selves is changing; stepping together, each parity reaches its self with the next whole pass and the relation is read after each self enters. Delivering and reading both part between the two, an unchanging alike or opposite relation with stepping together and a changing relation with entering one at a time.
 - **Possible exploring** · A self's next bi-coupling opening through an other both selves are already bi-coupling with is an observing still-possibling. — at "A next bi-coupling is discovering with living, and a next parity with method, with one now."
 - **Possible exploring** · With an instrument's own reading of each self's own pacing, stated so it can be contested, one self entering at a time and its sharing waiting with its receiving self until that self's own next entry, executing with Exhibit ONE's code returns: two selves bi-coupling across both ways, opening opposite, are opposite at each of 12 momentaries stepping together, and taking turns A, B, A, B their pairs after each entry are −−, −−, +−, ++, ++, +−, −−, −−, +−, ++, ++, +−, −−, −−, +−, ++; with each entry drawn, 200 seeds, they are opposite at a share of entries of 0.44 least, 0.44 mean and 0.45 most. A spiral of n selves comes to its parities again at 4n momentaries stepping together, and entering in the spiral's order at 8, 12, 16, 20, 32, 36 and 120 rounds for 3, 5, 7, 9, 15, 17 and 59 selves, and in its reverse order at 2 rounds for each. Spirals of 3 and 5 bi-coupling across, each entry drawn, have a self keeping one parity through the last 4,000 entries at 0 of 100 seeds, and their two bi-coupling selves opposite at a share of 0.41 least, 0.46 mean and 0.49 most, beside 1.00 stepping together. — at "With selves entering one at a time, it is changing."
-
 
 ### 4.7 Six names between selves, possibling across, discovering and existing along
 
@@ -156,7 +149,6 @@ Gathering-Value · Natural Intelligence
 
 - **A reading** · A reading has the bacterium's turn, the bee's run, the heart's mid-wall and the sunflower's centre each as a between where aim is shared or changed.
 - **Possible incohering** · "With code, one momentary reaches one between with three names in sequence: its prior's, its own within and its next's." → A concern at this sentence: the consecutive relation of three betweens stands distinct from one between with three names, its concern open.
-
 
 ### 4.11 One move as three, and forms among names
 
@@ -187,7 +179,6 @@ Gathering-Value · Natural Intelligence
 ### 5.2 Discovering next-possibling-same-existing
 
 - **A reading** · A reading has a resemblance as an opening: species, a particular molecule, an association, a local phase and an assembly each need their own observing, two states are not two parities, and four stages are not four-momentarying.
-
 
 ### 5.3 A living self with 0, its prior same-existing
 
@@ -234,7 +225,6 @@ Gathering-Value · Natural Intelligence
 - **A reading** · A reading has the tendril, the towel and DNA's knotting as one stable form at three scales, a self bi-coupled with its particular other emanating both hands joined by a between where the hand inverts.
 - **A reading** · A reading has a both-handed coil, clasped at two ends or winding about a centre, with a between where the hand inverts, twisting in and relaxing out, as one pattern, its one definition still-possibling.
 - **Possible incohering** · "The universe is the set of all now-existing things, living and non-living things within it." → The opening's clause released: The universe is the set of all now-existing things.
-
 
 ## Droplets
 

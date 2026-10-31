@@ -17,7 +17,6 @@ Gathering-Value · Natural Resolver
 - **A reading** · A pattern-matching meets the resolver's stable forms six forward, and code run validates no observing.
 - **Possible incohering** · "Each table of Exhibit ONE is an executing." → A saying parting from it: a table of selves is prior to the code, one of the method's stable forms, and the code is checked at it. Each table an executing, and each table prior to the code with the code checked at it, stand beside each other, two sayings parting.
 
-
 ### Seventeen names
 
 - **Possible incohering** · "Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing." → Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing; with a number same-existing, the same four-cycle podaling sequencing comes through that number again, with a new still-possibling.
@@ -36,7 +35,6 @@ Gathering-Value · Natural Resolver
 - **Possible exploring** · With names 1 to 16 laid as the round of four parities, each next name one parity inverting, 17 less inverts each name's fourth parity, 9 less within 1 to 8 its third, and 8 up within 1 to 8 its third and fourth, a placing the Co-Chaining Logic Registry holds. That placing's deriving from the seventeen names or from the code's lines, and its one table with Exhibit ONE, each name at its four parities and the parities each of one move's three inverts beside it, are still-possibling. — at "Names 1 to 16 are in order as n − 1 in binary, 0000 to 1111, an ordering of numbers."
 - **Possible exploring** · With 17-next-existing the parities going along with 5-now-co-existing reach their selves whole, and no name discovers which self a parity going along reaches. Its saying with Exhibit ONE's names, 5-now-co-existing read from the selves' priors with 3-is-now-co-observing, a sharing of both its selves with 4-now-co-same-existing, and which tables' stable forms are same with that reading, is still-possibling. — at "5 · bi-couplings: which self each sharing reaches"
 
-
 ### Namings among names
 
 - **Possible incohering** · "A between, 0: one between, three names" → A between, 0: one between, three names, each occurrence of a between at 12-next-co-same-existing, 15-is-next-observing and 16-next-same-existing its own self, momentary and occurrence.
@@ -44,7 +42,6 @@ Gathering-Value · Natural Resolver
 - **A reading** · The bi-folding 4-13-5-12, the one bi-folding with an empty set of names between selves, is-or-is-not carbon's, still-possibling.
 - **Possible incohering** · "1 social-parity now-existing, a same-existing-society coming in with 16-next-same-existing, each self with 13-is-next-discovering." → *Coming in* is an ingressing word; a re-saying offered: 1 social-parity now-existing, a same-existing-society opening with 16-next-same-existing, each self with 13-is-next-discovering.
 - **Possible exploring** · Selves bi-coupling through one shared solution between them, at a slower and at a faster exchanging, the number of selves raised, beside a field's oscillating particles synchronizing by degrees or together at one momentary, which pace with the gradual and which with the sudden being the field's accounting, are still-possibling at the resolver, and no executing has a between with a pace of its own. A thing between selves, with a pace, entering the resolver, whose between is an empty centre, a nothing and no location, is still-possibling. — at "Its empty centre is a between."
-
 
 ### Each name, three scales
 
@@ -59,7 +56,6 @@ Gathering-Value · Natural Resolver
 
 - **Possible incohering** · "A self's four momentaries of exchanging." → A self's four momentaries of exchanging, with self and other one number apart, up or down forward, overlapping by one side's opening of a momentarying: one side's still-possibling betweens, even and unchanging both forward up and forward down, and the other side's prior, now and next changings, odd, either side or both changing two numbers along in its own forward direction, bi-co-sequencing each other.
 - **Possible exploring** · The relation column changes at the other's 4–5, self/other to other/self, and at the other's 8–9, other/self to other/same-existing-society, the two places at which the round of four parities, each next name one parity inverting, inverts its third and its fourth parity. A like table of a same-existing-society's four momentaries, 9 to 17, its relation column at 12–13 and 16–17, at which the round inverts the same two, is still-possibling. Saying the column as the third and the fourth parity inverting, a reading, and releasing that reading are two sides open. — at "A self's four momentaries of exchanging."
-
 
 ### Parities to one sharing, surfacing
 
@@ -78,7 +74,6 @@ Gathering-Value · Natural Resolver
 - **Possible exploring** · Beside each table of two or more selves, the round's place of its same-existing-society's momentary is still-possibling, and with each momentary of a table, its selves' stepping together with 17-next-existing is-or-is-not with a self's outward parity changing, still-possibling. — at "Its selves step together with 17-next-existing."
 - **Possible exploring** · A self's prior slipping at a bi-coupling of two selves of one scale, followed bi-coupling by bi-coupling through its first whole podal passage, the prior along and the parity across together, each self's next from its own prior and the parity with its bi-coupling, with each bi-coupling the slip resolving at that bi-coupling, the prior same-existing again, or the slip going on to a next bi-coupling, the relation it goes on with named, and with the outward self and the wider same-existing-society after that first passage, is still-possibling. At which bi-coupling a slip of one whole momentary forward is had is still-possibling, a case with no table of Exhibit ONE. — at "Each table of selves is its code's executing with its own opening."
 
-
 ### A spiral of selves
 
 - **Possible exploring** · Each self's prior from its third momentary on is the prior of the self it receives from, two momentaries before, inverting, with each of 254 openings; executing with the code returns 254 openings of spirals of 1 to 7 selves, none parting. — at "With a spiral opening with a prior for each self, each self's prior from its third momentary on is a prior of a self it receives from two momentaries before, inverting."
@@ -88,12 +83,10 @@ Gathering-Value · Natural Resolver
 - **Possible exploring** · With a spiral of three, its selves' parities inverting one to the next along, a self's prior is same with its next at 12 of 72 places of self and momentary; executing with the code returns 12 of 72 over two of its twelve-momentary rounds. — at "Each 0 it shares sits between two sharings of + or −."
 - **Possible incohering** · "Number of selves: 1 · a: +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 · b: 4" → Two sayings part, and one stands: a spiral of one shares +, 0, −, 0, what two selves alike, bi-coupling both ways, share; and the living files call a spiral of one no living step.
 
-
 ### Two spirals beside each other, and bi-coupling across
 
 - **Possible exploring** · Two spirals of 2 to 6 selves bi-coupling across, of two unequal numbers, one odd, from each of 7,204 opening patterns but all selves of one parity, come to each self inverting with each momentary, the two bi-coupling selves opposite; executing with the code returns 7,204, none parting. — at "Bi-coupling across: self 1 of each, of like or opposite parity"
 - **Possible exploring** · Two spirals bi-coupling across, m the lesser number of selves, their two bi-coupling selves are opposite from momentary 2m + 2 on. Run with the code: with both numbers odd and unequal, m from 3 to 15 and the greater to 31, each of 77 pairs is opposite from momentary 2m + 2 on; with m 1 and the greater odd from 3 to 31, each of 15 pairs from momentary 5; with one number even, the lesser from 1 to 15 and the greater to 31, each of 176 pairs from momentary 3; and with both numbers even, each of 77 pairs alike with each momentary. — at "Bi-coupling across: self 1 of each, of like or opposite parity"
-
 
 ### A torus of selves
 
@@ -105,16 +98,13 @@ Gathering-Value · Natural Resolver
 - **Possible exploring** · Selves bi-coupling, two and three, each opening, going through the eight forms of three parities, or the sixteen of four, one parity inverting with each momentary, are still-possibling. A spiral of selves, two spirals bi-coupling across and a torus of selves each come to their parities again at numbers other than eight and sixteen. — at "That step is a quarter turn with each momentary, a right spiral."
 - **Possible exploring** · Two selves alike, both opening +, bi-coupling both ways with 10, with 9 or with 6: executing with Exhibit ONE's code, stepping together, they are alike at 400 of 400 momentaries, their first 12 −−, −−, ++, ++, −−, −−, ++, ++, −−, −−, ++, ++; taking turns A, B, A, B, with an instrument's own reading of each self's own pacing, they are alike at 266 of 400 entries and parted at 134; with each entry drawn, 200 seeds, the first to part from + is A at 107, B at 93, and neither within 50 entries at 0. — at "Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn."
 
-
 ### Two selves, three momentaries, five parities
 
 - **A reading** · A saying offered, a reading: a changing along is-or-is-not and a changing across is-or-is-not, and the two together are four forms of right spiraling with each momentary, each self odd along its own side. Its working with this table's three parities along and two across, with each opening and each momentary, each of the four forms at the names it is with, is still-possibling.
 
-
 ### Three selves, one line
 
 - **Possible exploring** · One parity shared with the first momentary alone and going along a line of selves longer than three, each self with its own prior alike or opposite, each self's surfacing with 14-next-possibling, changing with 12-next-co-same-existing, sharing with 6-now-co-possibling and 10-next-co-possibling, going along with 9-next-co-discovering and next prior with 11-next-co-observing, at which selves it is shared on and at which a self inverts by its own, is still-possibling. — at "A's parity, sharing to B with the first momentary only."
-
 
 ### A spiral opening with an empty prior, one parity sharing once
 
@@ -123,7 +113,25 @@ Gathering-Value · Natural Resolver
 - **Possible exploring** · Spirals of 1, 2, 3 and 5 selves, each self with an empty prior and an empty set reaching it, are same at each of 50 momentaries; executing with the code returns 50 of 50 with each. — at "*Empty* is its sharing an empty set."
 - **Possible incohering** · "With a sharing of 0, its next prior is an empty set." → Two sayings part, each standing. The row + and − together, 0 · empty, is a 0 from no prior and to no prior, with no me behind it; it is not possibly existing in the universe, and there the code's executing parts from it. The row is said as such, or it dissolves.
 
-
 ## Droplets
 
 - Two alike selves stepped together going on alike with each step is still-possibling. *(possible exploring)*
+- Six forward recursionings belong within one momentary as three own-forward recursionings at each of two selves, with no identifying yet with six row passages of the nine-dot diamond. *(possible exploring)*
+- Three recursionings at each side, by their number alone, place neither side before the other and give neither side its own one of a momentary's two parts. *(possible exploring)*
+- The nine-dot diamond's paths 9–4–5 and 9–6–5 meet the same place through different intermediate relations, and their meeting place alone does not distinguish those relations. *(possible exploring)*
+- In the proposal of a correspondence from each name to its prime, the four bi-foldings and their going round are by position, the moves and odd and even belong to those positions, and a numerical summing of working parities is-not part of the resolver. *(possible exploring)*
+- In the proposal of a spatial transport, 6, 10, 2, 14, 9 and 17 at +x, −x, +y, −y, +z and −z match the across square's incidence and allow three orientations of a coordinate cycle, while the along triangles as points and the moving of set roles into new positions remain further proposals. *(possible exploring)*
+- The proposal's coordinate cycle of order three lies outside what 8 up and down and 17 less generate on names 1 to 16, two commuting moves, each its own inverse, each moving a name within its own bi-folding of the four, and the resolver operation matching the spatial transport remains to discover. *(possible exploring)*
+- A filling of its convex hull is-not a requirement of the six-point connector construction, and carbon chains, rings and shells a field observes, each of many carbon atoms and each is-not a carbon atom, are further material arrangements to examine, while the six roles, the remaining across bi-couplings and the open along passage ask for one explicit joining. *(possible exploring)*
+- A forward and rear orientation of a unit is-not of its own an exclusion of backward passage, and the proposal's ridge is to bear the actual allowable release and next bi-coupling, the reverse route remaining unavailable. *(possible exploring)*
+- Bi-coupling, is-or-is-not, is one binary relation, and its joining to a surface's parity changing and its asking for another available unit are to be said outright, beyond inferring them from binary naming alone. *(possible exploring)*
+- Approaching a tighter winding and departing into a looser winding can each be forward along one route, while the dynamic folding and the allowable bi-coupling movements ask for their actual succession. *(possible exploring)*
+- A common rigid rotation leaves the internal contact geometry among co-rotating parts the same, and successive internal encounters require relative motion or another changing constraint. *(possible exploring)*
+- In both complete pairings each end can have a partner, while particular co-chainings change from is to is-not, and bi-coupling occupancy alone is-not a distinguishing of which participants co-chain, the correspondence to working parity remaining to bear. *(possible exploring)*
+- If each other bi-coupling and the set of available ends remain the same, one lone disconnection can only restore its original pairing, and an across exchange then requires another available counterpart or another co-chaining co-changing. *(possible exploring)*
+- Under a proposal's joining rule setting a next copy's 9 at a current copy's 17, of the eight proper rotations of order three of the coordinate axes with their directions, four add an across pairing of the resolver's own and four add a mismatch, and one matching chain of rigid copies of the proposal's six-point connector is available, each copy a geometric construction and is-not a carbon atom by its drawing, its correspondence to the proposal's one atom/carbon still open, while the whole body's passage, the other bi-couplings and the correspondence to ONE's executing remain open. *(possible exploring)*
+- In the proposal, the chains of many carbon atoms, each chain is-not a carbon atom, have only along material connections, while across co-chaining remains to specify, and each of ONE's four across roles is-not silently one with a chemical side bond and is-not gone with those bonds absent. *(possible exploring)*
+- A hollow body in place of a solid octahedron is-not that solid body's obstruction, while straight antipodal paths through the centre are still present, and actual along routes winding around the centre are to go with the proposal's hollow form. *(possible exploring)*
+- Three routes, each passing once through a waist without branching, give three approaching portions and three departing portions, and their continuity as routes is-not of necessity an unbroken material connection, if the proposal's along bi-couplings open. *(possible exploring)*
+- In the proposal, a bump disconnects one co-chaining, all or none, for across bi-tunneling within the same now-existing momentary; a resistant intermediate is-not part of it, a separate later along step is-not part of it, and all three folding paths disconnecting together is-not a requirement of it. *(possible exploring)*
+- Within the endpoint construction as given, a possibility for exploring, two along chains, each of many carbon atoms and each is-not a carbon atom, can exchange onward partners, and a permanent sideways branch is-not part of that exchange, while ONE's 6 → 2 and 10 → 14 across and 9 → 17 along are their own roles, each is-not one of those four illustrative endpoints. *(possible exploring)*

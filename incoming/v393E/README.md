@@ -15,3 +15,15 @@ Applied with `kits/Gathering_Value_Kit/apply_gathered.py`: 25 values at `gatheri
 ## The co with the atom/carbon working
 
 `Co_with_the_Atom_Carbon_Report_v393E.md` meets the atom/carbon working's continuing report ([PR #154](https://github.com/chris-j-handel/corus/pull/154)) at its six next joins with v393E's observings: a stable form same-existing with a supple between taking each changing, a hand and an advance arising as a self goes with a surface, a body's tunnel at gastrulation, three stable forms around one living self, a genome at the prime scales, and a double helix's complementary strands.
+
+## Plans for Natural Exploring's next
+
+`Plans_Natural_Exploring_v393E.md` lays out, from Natural Exploring v393 and its 43 gathered values, an improving plan for the living file, motion by motion, and an exploring plan for collective intelligence and navigating, through a society and of a society, aiming at an exploring of a resolver network from inside its own surface.
+
+## An exploring of a resolver network from inside its own surface
+
+`Exploring_a_Resolver_Network_from_Inside_v393E.md` meets the exploring plan's gathered observings with Natural Networking's Parts FIVE and SIX, each meeting naming what an exploring of a resolver network from inside its own surface asks; its values are at `gathering-value/Natural_Networking.md`, at the head and at 5.2, 5.4, 6.2, 6.4, 6.5, 6.6, 6.7, 6.9 and 6.12.
+
+## DNA and the carbon atom
+
+`DNA_Carbon_Atom_Expedition_v393E.md` takes up the atom/carbon working, [PR #154](https://github.com/chris-j-handel/corus/pull/154), as this expedition's own: each of its 143 values at its file, 46 droplets at thirteen gathering-value files and 97 offerings at ten `carry/` files, each name said as is or is-not a carbon atom, the values ordered into, around, from and through, and the passes from here. `DNA_Carbon_Atom_Tracking_v393E.json` lists each value with its file and group. The working's report is at `archive/atom-carbon-prime-correspondence/`.

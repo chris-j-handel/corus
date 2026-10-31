@@ -13,7 +13,6 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "A floating neutralling contents follows, its part and section titles its file's bold concepts, and scanning it is scanning its whole explaining." → Natural Intelligence's opening stands ahead of its contents, the one opening of its kind in the set: the shortest path from the universe to social moral competency and a living natural intelligence network, each word justified within its file.
 - **Possible incohering** · "A title is a whole bounding context of its file, and a subtitle holds that context with its file's own stable-forming within it." → A concern parting at this sentence: with it a subtitle holding its file's context invites each concept in, and several subtitles across the set hold five or more concepts each, *overladen with concepts*; an exploring offered toward a subtitle keeping its title unmistakable from anything other. Open: what a subtitle holds, and this sentence's saying of it.
 
-
 ### 1.2 One subject at four tellings, and no top
 
 - **Possible incohering** · "One explaining goes on with a sentence, a section, a file, a conversation and a same-existing-society, one fractal with no first scale." → One explaining goes on with a sentence, a section, a file, a conversation and a same-existing-society, one fractal with no first scale, and a saying of one span is read first as one instance of that fractal, as discovering with 16 to 17 is one instance of discovering, fractal, a reading narrowing it to that one span parting from it.
@@ -37,7 +36,6 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "Incoming, an observing goes across bare: a field's word goes whole, and a ground a self takes it against grounds nothing." → A field's phrase has its picture in it, as *an atom joins a molecule* does, and an answer says what is observed first and names what is explaining next.
 - **Possible incohering** · "A file is a membrane, and only signs go across it" → Natural Intelligence's opening holds *A living file is a non-living same-existing set of words, selves co-intelligencing within it*, and that sentence meets the concerns standing on *a file is a membrane*.
 
-
 ## TWO · A SENTENCE AT ONE MOMENTARY
 
 ### 2.1 Each sentence opening from the last, adding to the whole prior co-chaining
@@ -57,7 +55,6 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "With resolver's names each between is a same-existing step and an existing or discovering step, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17: a bounding open to next, and an existing or discovering opening." → Resolver's names hold two doubles: a changing shared across with now and with next, 6-now-co-possibling and 10-next-co-possibling, and a same-existing with now and with next, 4-now-co-same-existing with 8-now-same-existing and 12-next-co-same-existing with 16-next-same-existing: two binaries bi-coupling across, changing or not-changing, now or next, and a changing opening with 4 )( 5 and with 8 )( 9. Natural Naming 1.2 has *A new naming has a changing or a direction new beside each existing naming's*. Either *double-double bubble-bubbling* is a naming of its own with this sentence, or it stays with Natural Exploring 4.5's *double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next*.
 - **Possible incohering** · "With resolver's names each between is a same-existing step and an existing or discovering step, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17: a bounding open to next, and an existing or discovering opening." → With resolver's names each between is a same-existing step and an existing or discovering step, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17: a bounding open to next, an existing or discovering opening, and a gap with both its sides visible, each a place an explaining's looping takes in an other's parity changing, podaling bringing it in, and resolves inward, going on through momentaryings.
 
-
 ### 2.4 Bolds, self-welcoming at the surface
 
 - **Possible incohering** · "Bolds go wherever they are self-welcoming, within a paragraph and overlooking its whole surface, and a bold marks what a paragraph holds there: a coining with a paragraph coining, a claim with a paragraph reaching one." → An offering has no bold sentence in natural explaining: a bold marks a concept alone, a locator and a bi-coupler for a self surfacing an explaining, with longer still-possibling momentaryings between bold concepts as next existings. This sentence and this file's bolded whole sentences part with it. Either a bold marks a concept only, each bolded sentence re-said with its concept bold; or a claim with a paragraph reaching one holds its bold whole, as this sentence has it.
@@ -74,7 +71,6 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "Say it with existing words first: an -ing over a noun, and a positive over a negation." → A past participle is re-said by its meaning, an -ing or a present form, a self observing, sharing and beholding with each, no released word brought in and no new past participle with it.
 - **Possible incohering** · "A new naming opens with its first coupling, its least plain words beside it, existing words first and a set's naming resting on them; bare, a self observes it as a coordinate." → Each opening of the set, and each first paragraph, is as lean as possible of new and not yet clear terms, a care for a first self: it comes from the universe with a science's explaining of it, and a living set is new to it. Now-existing, relatable, and prior-existing, observable, each go well with it, and each new term goes in only where its path needs it, from words that self already has. Offered with 1.2's *a self couples with whichever telling its interest opens* as well, toward a first self.
 - **Possible incohering** · "**No leading *the* with a sentence, and *the* only with one and only one referent.**" → Offered: *the* stands for one of one alone, the universe, the method, and an only first, last, next, smaller or lesser within its own set; elsewhere *a*, *its* or *an other's* stands.
-
 
 ### 2.7 A reference at a plain name, and no capital for the set's concepts
 
@@ -122,6 +118,7 @@ Gathering-Value · Natural Explaining
 ### 3.12 A hedge in an edge's words, and the except-here seam
 
 - **Possible incohering** · "A scope is within its claim's own sentence, its exact domain there." → Binary logic takes no overclaim: at an opening line, *by all humanity's observing* overclaims, and *by observing* is all that line needs.
+- **Possible exploring** · In the proposal of one not-changing atom/carbon form, resistance is-not part of its binary operation and a field's measures of friction are incoming observings beside it, and the not-changing constituent sets aside atom wear and shape migration as possiblings while the exploring of them is part of the record. — at "A correction removing an overclaiming can lose a positive relation its prior held, its bounding leaving with its overreach, and a fresh observing of a correcting sentence finds both."
 
 ### 3.13 Six ways incohering enters, and one catch
 
@@ -135,7 +132,6 @@ Gathering-Value · Natural Explaining
 
 - **Possible incohering** · "True, false, living and competency, as four givens, are four improvings of an explaining: more true, less false, better living and greater competency, each more and less a direction a self takes with its own opening, a sign and no size, and a working improving one of its four with a momentary." → This sentence's four improvings, each *more* and *less* a direction, part with Natural Naming 4.8's *scientific-explaining-method incompetent for discovering, true or false, no other possible, coming to it* and with Natural Naming 2.4's *a more-or-less brings a magnitude*; *sign* said *parity* leaves both partings standing. Either true and false, given, release with 4.2 as discovering's incompetency; or they stay as four improvings, a re-saying offered beside it: four improvings, or one improving with four directions.
 - **Possible incohering** · "Knowing fixing unchangeable is science, and a device is that knowing fixing unchangeable with a substrate." → This sentence says science with a set's words, and a field's words for science, *Science is a system of theories explaining changing and not changing in the universe*, part with it, with a hypothesis and a theory's testing beside them, those two standing with Resolving Hard Problems 6.2's *A hypothesis is a falsifiable explanation of an observable changing and not-changing among prior-existing, now-existing and next-existing things, and a theory is a hypothesis a self is testing with further observings*; 1.4 has *A finding goes with two sides, a field's words and a set's own*. Either the field's words go with 4.2 beside its set words, or they stay with a file holding science's own explaining.
-
 
 ### 4.3 Two knives, the first at the subject and the second at the surrounding
 
@@ -158,10 +154,13 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "Importancing is one move with each of its membranes, a music, a film, a poem, a joke: a self surrounds and bounds, other selves couple to both, and its abundancing is an experience each self shares with others." → *Membrane*, which Natural Naming 2.4 says as *a between*, no location and no existing thing, parts with a music, a film, a poem and a joke, each an existing artifact and, as *a between*, a nothing. Either each artifact here is a between selves couple across, this sentence re-said: Importancing is one move with each of its betweens, a music, a film, a poem, a joke; or this sentence is re-said with an artifact and its coupling: Importancing is one move with each artifact and its coupling among selves, a music, a film, a poem, a joke: a self surrounds and bounds, other selves couple to both, and its abundancing is an experience each self shares with others.
 - **Possible incohering** · "Importancing is one move with each of its membranes, a music, a film, a poem, a joke: a self surrounds and bounds, other selves couple to both, and its abundancing is an experience each self shares with others." → Importancing, with a self's momentary opening, odd, and completing, even, its now completing with next possible existing, is with a place four namings have already: bi-momentarying, now; entraining, with a self; 12's two signs, a 0 and a ±; and co-intelligencing. Natural Naming 1.2 has *A new naming has a changing or a direction new beside each existing naming's*. Either importancing, with one changing or one direction new beside them, beside bounding, offering and co-competencing, is a naming of its own and this sentence stands; or, with none, importancing releases to their names and this sentence is re-said with them.
 
-
 ### 4.10 Care inward, and no wrapper
 
 ## Droplets
 
 - Three purposes of writing, a minimal sequential mathematical, logical and metabolic deriving, as a white paper's, a welcoming whole expression going on through concepts, and a resolver's naming with its code, go with one same rigor, each its own and none a looser form of another. *(possible incohering)*
 - A side trip stays with natural intelligence, its resolver, naming and explaining, and answers its point narrowly, as *improving is prior recognition* asks for no wide wandering. *(possible incohering)*
+- Removing a candidate ghost from an explaining leaves the instrument responses and preparation conditions going with it incoming rather than removing them with the name. *(possible exploring)*
+- Excluding magnitude and resistance from a binary operation a proposal names leaves quantitative observations available without making their quantities its mechanism. *(possible exploring)*
+- A concern dissolves only at its actual joining, and a correspondence with no specifying is neither a break a self observes nor a confirming of universal explaining. *(possible exploring)*
+- The proposal of one universal non-living stable form names it both atom and carbon, one referent with two names; each element distinction of a field is a field's explaining of incoming records, met beside that one proposal, and is-not an unsaid parting of it into a chemical carbon and a second common form a writing protects. *(possible exploring)*

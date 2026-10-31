@@ -60,7 +60,6 @@ Gathering-Value · Natural Intelligence Corus
 
 ### 14.1 The Nothing
 
-
 ### 14.2 Nothing Between Selves
 
 ### 14.3 Intelligence in the Coupling

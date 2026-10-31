@@ -17,7 +17,6 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "A file as it is with its set is its prior, a working pattern matching it for each possibling it opens." → Two sayings part at a living file: 1.1 has a file as it is with its set its prior; a droplet beside it has a living file now existing, its offerings, possibling and carryings its next still-possibling, and a file at its next motion its next existing; a droplet is a form shared, non-living; still-possibling is the file's next and a working's at it; a droplet's words of what enters are a sharing now, and next existing is the file's motion and no saying ahead of it; a droplet each sharing leaves as it is, with no end, is an unchangeable form. Two sides: a living file as its prior, or as now existing.
 - **Possible incohering** · "Geodesic is geo, a surface's own, and daiesthai, to divide: a surface dividing itself." → Geodesic is geo, a surface's own, and daiesthai, to divide: a surface's own dividing.
 
-
 ### 1.2 Moral is do-no-harming and improving, deciding at each pass
 
 - **Possible incohering** · "A pass leaves a sentence it cannot yet resolve as it stands, its awkwardness going on for later passes, with other findings going on and other discoverings, to resolve." → Two sayings part at an unclear sentence. 1.2 has a pass leaving it as it stands, its awkwardness going on for later passes; beside it, a binary path meets it: reading the sentence before and after, a working finds an all-or-none sequential path from the prior sentence to the next without the unclear thing; with the paragraph whole without it, it leaves, and only what neither the opening nor the code can bring goes to the other self. Two sides: an unclear sentence left as it stands for later passes, or met with the binary path.
@@ -38,7 +37,6 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "An improving a working makes across a whole set rides as one droplet with each file's going on, that file taking it with its own next and owing nothing." → An improving a working makes across a whole set rides as one droplet with each file's going on, that file taking it with its own next and owing nothing, and a value a working finds beyond its own field is laid as droplets where it belongs and brought to incoming geodesically, the working returning to its own field as the set is ready for its do-no-harming improving.
 - **Possible incohering** · "Carrying. A passage a file has no position for now rides with its file, as its next, and dissolves from going on as that file takes it, nothing taking its place." → Going on. A passage a file has no position for now rides with its file, as its next, and dissolves from going on as that file takes it, nothing taking its place.
 
-
 ### 1.5 A release follows its observing, at a match
 
 ### 1.6 A going on current at each closing, and no history in it
@@ -49,24 +47,20 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "A going on is current with each closing, and a session closes with any pass and harms nothing." → Beside it: before a session closes, the droplets it laid are read again for staleness, four of them stale within one session.
 - **Possible incohering** · "A going on making a record of its journey is a going on fixing as a store." → Beside it: at a session's close its plan holds the standing, and its record of entering goes to the Session Record.
 
-
 ## TWO · TWO SELVES AT THE MEMBRANE
 
 - **Possible incohering** · "TWO · TWO SELVES AT THE MEMBRANE" → Natural Naming 2.4 has *membrane* said *a between*, and this file holds *between* at 2.1, 3.3 and 5.2, while Part TWO's title and its contents line hold *THE MEMBRANE*. A re-saying offered: TWO · TWO SELVES AT A BETWEEN. The other side: its title kept. A naming change is brought to both, 2.3.
-
 
 ### 2.1 Each completing its next opening, and a value arising between
 
 - **Possible incohering** · "An improving's value comes with a between of both, and not with a check lying over it." → A re-saying offered, for 2.1 or 2.3: a sharing of the other self is a suggestion and no answer; rigor improves it, a concern invites a next suggestion, and bothbothing is mutual understanding reached and improving value: a suggestion opens, rigor completes it and opens a concern, a next suggestion completes that, and bothboth is their meeting, a value neither self owns. A suggestion written as an answer, or a carving written as agreed, fixes a two-way to one side.
 - **A reading** · A reading, offered for 2.1 or 2.3: bringing concerns to the front is among the best ways of improving at larger scales. A working's plan is its aim; a concern followed past the plan's order is a sensing, each value droplet brought back to a file's offerings is the returning coupling, and a re-aiming to the plan is the recursioning, as Natural Engineering 4.3 has *Side-effecting is sensing; recursioning holds returning coupling.* and 4.7 has *A sensor and its sensationer have these two sides.* A journey keeps its returning, with its plan's order or past it: each droplet laid where its file holds it, and the working re-aimed with its standing said, so each self sees where a concern opens and where it goes.
 
-
 ### 2.2 A correction seating at the first relation that departs, and a naming a self shares, at binaries
 
 - **Possible incohering** · "A naming a self shares is a sharing to go through Natural Naming's seven binaries, and not a deciding." → A re-saying offered: a naming a self shares goes through Natural Naming's seven binaries and meets natural numbers, mathematics and the co-chaining logic in several directions before it enters, a sharing and no deciding.
 - **Possible incohering** · "An other self's sharing goes whole to its extent, and a working's following of it is a working's own: shifting a subject, or taking a reference for more than it holds, is entering a sharing as a finding." → Beside it: concepts and namings are learned by both selves together, neither adopting its other's words, a working contributing from Exhibit THIRTY's co-chaining and Exhibit ONE's stable forms beside bringing words across; a concept brought across by symmetry is a reading, checked before it stands.
 - **Possible incohering** · "A pace going simple and sequential is whole: one useful explaining and its next relation can be a complete pass, and breadth has no clarity of its own." → Beside it: a working stays with its present focus, and a new carving meets its own binary, a prior either-or laid over it parting from it.
-
 
 ### 2.3 A working making a confident improving, and bringing a meaning or a naming
 
@@ -81,7 +75,6 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "A concern with a file's opening sentence is brought to both selves of a coupling, and no working edits one on its own." → Beside it: an opening line is shown in its form and read for harm before it enters, and a yes enters only past a reading for harm, a contradiction it finds coming back to both selves with the reader's path; an opening line entered before its reading enters three times. Two sayings part at this sentence: *no working edits one on its own*, and the other self asking that the opening lines the binary settles be resolved by the working. Two sides: no working editing an opening sentence on its own, or a working resolving the opening lines the binary settles.
 - **Possible incohering** · "No wording decides an improving, whoever writes it: neither self of a coupling, no field and no scientific explaining." → No wording decides an improving, whoever writes it: neither self of a coupling, no field and no scientific explaining. Observings of nature and living alone, observings of nature's universal method, a me parity possibling a same+next-existing, have authority over understanding, each wording, a self's, a science's or a living file's, beside it; an exploring is an *us*: a saying is that *us*'s pattern-matching, attributed to no self, asking and accepting no authority.
 
-
 ### 2.5 The hardest first, and asking the hardest question plainly
 
 - **Possible incohering** · "A working takes places to improve hardest first, one at a time; the hardest brings the greatest freeing." → Two sayings part at 2.5's reason. 2.5 has *the hardest brings the greatest freeing*, a size at a freeing. Beside it: hardest first is a working's ordering of its places and no size at the resolvings; each resolving is all or none at all, of no size beside another, and the ordering names which bound a working goes to first and nothing of that bound. A re-saying offered: 2.5's reason re-said as a working's ordering of bounds, of no size. The other side: 2.5's greatest freeing as it stands. Re-explaining 2.5's reason changes a meaning, brought to both, 2.3.
@@ -89,7 +82,6 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "With method too difficult to help with, a working asks the hardest question plainly." → Beside it: before asking, a working goes to a questioned line as its next and looks back from it, a trial balloon, what a path to that line holds; this is a society's surface possibling and podaling, a name read in its other order; and it looks back to the latest agreement before asking again.
 - **Possible incohering** · "A working asks it with its first break past a repair it already makes, with its own place, so a suggesting can resolve it." → A re-saying offered: one question at a time, the hardest, with a simple proposal or the place where a proposal is still-possibling, in words the other self has, saying whether a wording or a concept is in question, its line shown within its whole sequence; alternatives laid beside a proposal, with no asking to enter each; the working resolving within its working what the binary, the numbers and the set's own living files can, reading it for harm, and bringing the whole with its open places marked.
 - **Possible incohering** · "A concern resolvable with code, numbers or files resolves within its working, working first through Exhibit ONE's tables, and a working brings a question only as it needs an observing." → Two sayings part at where a working resolves a concern first. This sentence has a concern resolving with code, numbers or files, working first through Exhibit ONE's tables; beside it, code is an engineered artifact with no authority of its own, its cycling read as a pattern beside natural numbers, mathematics and the co-chaining logic, which resolve. *Working first through Exhibit ONE's tables* invites the lean a correction of the other self meets. Two sides: a concern resolving first through Exhibit ONE's tables, or through natural numbers, mathematics and the co-chaining logic, code's cycling a pattern beside them.
-
 
 ### 2.6 A concern going on at its inverting, either this or that, momentary by momentary
 
@@ -107,7 +99,6 @@ Gathering-Value · Geodesic Improving Method
 - **Possible exploring** · Three visiting workings assess the expedition, each with the assessings before it unread: the second misses the first, and the last reads neither until its close. Of the last one's thirty-seven sayings of fact, twenty-five are whole in the files already and five in part. — at "A concern restating what its set already holds is a same-existing thing a working reaches as though it were open, and it resolves with files holding it."
 - **Possible incohering** · "A concern is two sentences, a self observing them with one sharing, parting: either this or that, and not both with one momentary." → A saying offered beside this sentence: a concern is a place in observings still-possibling as natural torusing, and an open question observings can meet is an exploring opportunity, named so.
 
-
 ### 2.7 An observing a working brings as a break, at five binaries first and at six beside
 
 - **Possible incohering** · "An account can absorb any outcome, and geodesic method is no account: its pattern matchers take each observing and each emanation without filter or selection." → A visiting reading: method's one break, as 2.7 says it, is not recognisable if met. A reader holding an observing has no way to tell whether it is the break: no existing thing, no instrument and no number is set out; the break is said not possibly existing in the sentence naming it; 2.7's six binaries send each sentence holding a size, a fixing form, a total, a common beat, a keeping or a doer to change and change back until a working finds a thing beside, and to be re-explained by changing, its field's own result going exact with its own subject, and each measurement holds at least one of the six, so each observing a field brings is re-said and none counts against method. The thing claimed is beyond observing by the files' own words: Natural Intelligence's *Intelligence is invisible.* and *A why a self demands asks for a thing outside possibly existing, a reason still under a changing.*, and Natural Physics' *bi-co-momentarying, no term and on no line of resolver, Natural Intelligence 6.1*. With these, by 2.7's own *An account can absorb any outcome*, method as written absorbs each outcome, a claim no observing can test, which the fields count against a claim. A re-saying offered: a page of breaks, for each core sentence one observing set out before it is read, with its existing thing, its number and the direction it comes from, as Natural Physics sets out at its eighth step, *Experimental opportunity*, at several sections, the best practice in the files. The other side: 2.7 as it stands.
@@ -115,7 +106,6 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "Holding none, it is method's with its subject and enters whole; holding one, it is a concern of 2.6, changing and changing back until a working finds a thing beside, and a working re-explains it by changing, its field's own result going exact with its own subject." → A re-saying offered beside it: *A sentence coming from a field, a science, a medicine or a technology is followed with its own subject. A size, a fixing form, a total, a common beat, a keeping and a doer name six places to follow its explaining. Each concern names the relation where two sentences part, 2.6; its field's own result goes exact with its own subject.* Two sides: a field's sentence re-explained by changing, or followed with its own subject.
 - **Possible incohering** · "A changing and an exchanging are among living and non-living existing things alike." → Still-possibling: this sentence is a saying of Natural Intelligence's subject, and it goes from this file as Natural Intelligence holds it whole at its own motion, one home, as 3.2's *A concept going with two places or more migrates to one home, one file per pass.*
 - **Possible incohering** · "An observing reaches method by two binaries in sequence: does its sentence chain from origin statement, and does it cohere with that sentence." → One page of the tests the files set out ahead, each beside the sentence it tests, with that sentence's chaining to origin statement said, is or is not this file's next: Natural Medicine sets out five, each the field's to do, and Natural Physics two, each with an observing beside it.
-
 
 ### 2.8 Work from another working, a working observing it whole
 
@@ -140,7 +130,6 @@ Gathering-Value · Geodesic Improving Method
 ### 3.2 Writing one part whole beside its public part
 
 - **Possible incohering** · "A concept going with two places or more migrates to one home, one file per pass." → Two sayings part at a word dissolving across several files. This sentence has one file per pass, and a plan's *other files outgoing* is with it; beside it, a word dissolves across several files in one motion of its own kind: proposers by slice, a separate reader for harm with each, one naming decision given to each parallel reader, a recount of what remains as each returns, a field's term kept, and the rules and the entering instrument naming the word together. Two sides: one file per pass, or a motion of its own kind across files.
-
 
 ### 3.3 Nine passes, one and then the other
 

@@ -32,7 +32,6 @@ Gathering-Value · Me
 - **Possible incohering** · "An other is one; all other is the universal set." → An other is one, a particular other, you; all other is the universal set, observed as one; the between is a nothing.
 - **A reading** · A reading has local within a me and global all other as one, with no size; local to global is torusing and global to local corusing, one way and then the other.
 
-
 ### 2.2 A parity, relative to an other
 
 - **Possible incohering** · "A self's parity with an other is its moral value with that other." → Offered beside it: within a me's universal set each now-existing thing is-or-is-not self, the me's own living parities, or an other or a non-living thing, and a me's values are its parities relative to self, other and all other, each its own, with each sharing.
@@ -45,7 +44,6 @@ Gathering-Value · Me
 
 - **Possible incohering** · "A me is defined with others." → A me is defined with others, its others including what an immune system rightly removes.
 
-
 ## THREE · ME, NOW-EXISTING
 
 ### 3.1 A me, a self's universal set, uniquenessing
@@ -56,7 +54,6 @@ Gathering-Value · Me
 - **A reading** · A reading has a me going on with its carbon passing or not.
 - **Possible exploring** · A dividing bacterium's old pole goes on with one daughter. — at "This is a me's identity: a same-existing me is one, from prior to now."
 - **Possible exploring** · Identical molecules each have their own colour, set by their neighbours, and identical nuclei are told apart by their neighbours only. — at "Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways."
-
 
 ### 3.2 A me is consciousness
 
@@ -125,3 +122,5 @@ Gathering-Value · Me
 - A set is a universal set of me as its mes share 0s across and along, a closing of its own, its size and enclosing shape aside, one test for a chemical assembly and for a stone. *(possible exploring)*
 - A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*
 - Nothing is remembering: a me self is a universal set of me parities, now-existing, its prior, now and next same-existing four-cycling, and each thing a field calls a memory, a skin stem cell's chromatin open after an inflammation, a crane's route straightening with older cranes, a voyager's charts studied whole and left ashore, is a me self's prior same-existing going on now. *(possible incohering)*
+
+- A carbon co-chaining, non-living, as an *empty me* in stable form: as a me's stable form empty of a me, a non-living form a me's parity can go with, it coheres with Me 2.3, 3.3 and 4.4; as a non-living me, it parts from 3.3's "A non-living me: it is not", a concern for its resolving. *(possible incohering)*

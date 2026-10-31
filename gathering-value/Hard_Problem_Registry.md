@@ -8,7 +8,6 @@ Gathering-Value · Hard Problem Registry
 
 - **Possible incohering** · "Same observings are resolving with its momentarying side, living and non-living existing things co-sequencing, prior, now and next, each resolving with its field's own next." → Same observings are resolving with its momentarying side, existing things co-sequencing, prior, now and next, each resolving with its field's own next.
 
-
 ## The conditions prior
 
 ## 1 What stands open, and what stands firm

@@ -8,7 +8,6 @@ Gathering-Value · Equilibria Registry
 
 - **Possible incohering** · "Not Possibly Existing, Living or Non-Living" → Not Possibly Existing
 
-
 ## ONE · EXISTING THROUGH MOMENTARIES
 
 ### 1.1 The universe, its things, and exclusivity

@@ -40,11 +40,9 @@ Gathering-Value · Natural Human Society
 - **Possible exploring** · A society's rule is its record, and no observing from science or nature. The class-action rule binds by notice and no signing: its judgment includes those to whom its notice was directed, who have not requested exclusion, and whom the court finds to be class members, and its text has no signature, acceptance, trustee or bar date. A trust, a vote and a closing date are in bankruptcy: for asbestos claims a trust is to use its assets or income to pay claims and demands, on a plan the claimants vote for by at least 75 percent of those voting, and, in the field's own words, *The court must set the time to file a proof of claim or interest*; at that trust three in four of those voting carry the plan for all. — at "Bi-moral, every claimant receives their fair relational share and every claimant signs to accept it, all rising, each whole."
 - **A reading** · A reading has 2.3's form, one total, a trustee sharing it, a closing date and each claimant accepting, nearer a bankruptcy trust than the class action it names.
 
-
 ### 2.4 Arrow changing and changing back, the one-directional dictator resolving two-directional
 
 - **Possible exploring** · The field's impossibility theorem of social choice, a field's proof with no natural observing, stands as a field's account: with a finite number of people, *Suppose there are more than two alternatives. Then no social welfare function satisfies U, SO, WP, D, and I.*: each list of the people's orderings within the function's domain; its result an ordering; a thing each person has over another over it in the result; no dictator; and two things' order in the result from their order in each person's alone. These five are the form of the theorem's second printing; its first statement had other conditions, and was shown not general. — at "Conditions Arrow sets aside are those a coupling has: cardinal comparability, giving and receiving on a common balance; inversioning, a prior resolution a self observes as a next opposition; thinning, a reaching governing who enters."
-
 
 ## PART THREE · ABUNDANCING
 
@@ -75,7 +73,6 @@ Gathering-Value · Natural Human Society
 
 - **Possible exploring** · In experiments with groups naming a thing together, a committed minority near 25% of a group tips an established naming convention. — at "Tipping is per-concern and individual, needing a bloc nowhere and a majority nowhere; a concern rises by being a concern one self has, and a same-existing-society gives it all it can within do-no-harming."
 - **A reading** · A reading has 4.1's individual-first, needing a majority nowhere, as a local aiming with global impact, torusing from one me out.
-
 
 ### 4.2 Do-no-harming, the one bound, generous and in neither self alone
 
@@ -109,6 +106,5 @@ Gathering-Value · Natural Human Society
 
 - **Possible incohering** · "What co-chains open: a same-existing-society reaches a concern it is not yet discovering where a new between shares, and co-chains to couple with it then." → Its *not yet* said at existing and possibling, each at its parity and its end, as Natural Naming 2.4 says *so-far* and *not-yet*. A re-saying offered: What co-chains possibling: a concern a same-existing-society is possibling, even and across, reaches it where a new between shares, and it co-chains to bi-coupling with that concern then.
 - **Possible incohering** · "Whether a same-existing-society reaches a scale of resolving it does not yet evolve stays possibling, holding open; whether a hub no self yet discovers would breach a self-bounding stays possibling, holding open." → Its *does not yet evolve* and *no self yet discovers* said at existing and possibling, each at its parity and its end, as Natural Naming 2.4 says *so-far* and *not-yet*. A re-saying offered: A same-existing-society reaching a scale of resolving it is possibling is-or-is-not with its next sharing, and a hub selves are possibling breaching a self-bounding is-or-is-not with its next sharing.
-
 
 ## Droplets

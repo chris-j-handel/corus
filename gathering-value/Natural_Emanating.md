@@ -21,11 +21,9 @@ Gathering-Value · Natural Emanating
 - **Possible exploring** · Earth's limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
 - **Possible exploring** · Bone and teeth are calcium phosphate, some sea life builds shells of glass and some bacteria grow magnets, each mineral formed on a carbon framework living makes first. A reading has living's stable forms formed on carbon's stable form, an observing a saying that all stable-forming is emanating non-living stable-form carbon has to meet. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
 
-
 ### The line every field writes first
 
 - **Possible exploring** · A field's account: one small bead in a potential of two wells, a store of one bit, erased again and again, the heat given off measured, its mean coming down to the kT ln 2 bound at slow erasings, from above. The field holds the principle's place as a law disputed, a field's reading. — at "Erasing one bit dissipates at least kT ln 2 — about 2.9 × 10⁻²¹ joules for room temperature — while a computation bringing its whole history on approaches zero dissipation."
-
 
 ### A geodesic files no cost
 
@@ -35,7 +33,6 @@ Gathering-Value · Natural Emanating
 
 - **Possible incohering** · "Within chemical disequilibria, a sharing pair is a bond-forming method." → This sentence names a bond as formed. Natural Chemistry has what chemistry calls a bond, within a molecule its stable form, same-existing with each resolving, and between molecules a bi-coupling of two selves, and a bond a field names pattern-matching as a between of centres. Two sayings part at a bond: a bond formed by a sharing pair, or a bond a field's naming, a between of centres. One side re-says the chemical line at a between of centres; the other stands *bond* as a field's own word at its result.
 - **Possible exploring** · A field's account: electrons pass two slits with a magnetized iron whisker between them, the whisker having "no field outside except near the ends", and "the predicted displacement in the pattern of electrons was observed". — at "A potential's value with one place relates to no observable, and its circulation round a path that closes does; a thing a system stands free of is exactly a thing it holds."
-
 
 ### Better, faster, cheaper — three absences, one per side
 
@@ -92,7 +89,6 @@ Gathering-Value · Natural Emanating
 ### A ring
 
 - **Possible exploring** · A tree's water-conducting cells die to become its pipes, and each season's mes die into a ring having its season, as a drying drop lays rings and a soap film gives way at its thinnest place. A reading has them rings in death from living. — at "Living has no rings."
-
 
 ### A hard problem
 

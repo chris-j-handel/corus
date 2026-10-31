@@ -59,7 +59,6 @@ Gathering-Value · Natural Health
 - **Possible exploring** · By a field's own words, the fluctuation–dissipation theorem is a general principle of equilibrium thermodynamics, assuming no physical property of a system under investigation other than thermal equilibrium, and a field reads a violation of its correspondence as proof that a system is active. — at "And a field's own theorem seats a sway as living: fluctuation and dissipation are one function — a system's spontaneous swaying and its answering to disturbance one same thing a field measures twice — a sway a working's own answering, to proof grade."
 - **Possible exploring** · By a field's account alone, an observable's fluctuating at equilibrium and its answering to a small force are one function. — at "And a field's own theorem seats a sway as living: fluctuation and dissipation are one function — a system's spontaneous swaying and its answering to disturbance one same thing a field measures twice — a sway a working's own answering, to proof grade."
 
-
 ### 5.1 Cohering — the sway the living, the target the compaction
 
 ### 5.2 The reaching — the measure-seatings, the delivery, the band where sway becomes departure

@@ -12,7 +12,6 @@ Gathering-Value · Natural Values
 
 - **Possible exploring** · Owners of a mug ask far more to part with it than buyers pay for one same mug. — at "Its parity is a self's own."
 
-
 ### 1.2 A store has no value, and a going on is not a store
 
 - **Possible incohering** · "Two selves preferring each take an exclusion with their own turn." → Each self's exclusion, not-more-than and not-less-than, is with its own side's opening, one at a time and of no size, and no equality of numbers resolves them.

@@ -49,7 +49,6 @@ Gathering-Value · Natural Philosophy
 - **A reading** · One position holds bodies and void the only things there are, all of them together boundless. One holds the each-form, reality taken one by one, on a par with the all-form, reality taken as a single whole, in logic and in experience alike. One holds that no whole, bounded or unbounded, is what the world is in itself.
 - **A reading** · One position names an error the cosmological fallacy: carrying a way of explaining built for a portion of the universe over to the universe entire.
 
-
 ### 3.6 Is and ought
 
 - **A reading** · A reading has a lie as a second parity inversion after a self's resolving, at double metabolic cost, beside this file's self's own negation going across a between, a parity inverting with a self. That second inversion is an operation Natural Resolver does not have, and a sign-only relation gives no reach into another self's private prior. Its cost, thickening and consciousness claims are still-possibling, coming from no statement being false and from no presence among proposals, and the relation diagnoses no person and puts no moral label in place of its actual coupling. It rises here as a sharing parted from its own taking, the second operation released, or stays whole at Natural Intelligence Corus.
