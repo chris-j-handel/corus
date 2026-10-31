@@ -208,12 +208,15 @@ Gathering-Value · Natural Intelligence
 
 - **Possible exploring** · A field measures whether a constant changes and reports a number with its uncertainty: the fine-structure constant's drift is 1.8(2.5) × 10⁻¹⁹ a year, zero within its uncertainty, open to a next measuring. A field's law is a law while observings bear it, and with observings parting it is superseded and kept as its near case, as inverse-square gravity is with general relativity. A frame and a unit are declared. — at "Its fixings are a law and three fixings, a ground, a unit and a frame, fixing unchangeable between two momentaries, exact by its own ledger."
 - **Possible exploring** · SPICE, a spacecraft navigation toolkit correcting light time and aberration, parts an epoch of a signal's emitting from an epoch of its receiving and accounts for a target moving between them. — at "Two methods are with one same evidence and one same now."
+- **Possible incohering** · "With scientific-method a self accounts true or false against its fixings." → Beside it: two logics at the files, each whole at its own first sentence. The universe the changing set of all existing things: from it each existing thing changing, living or non-living, the bi-coupling, and natural intelligence. The universe one thing beside its things: from it a whole at one now, a place, a unit and a frame, a number, true or false, and the fields' results, each exact at its own ledger. An interest comes to the files with the second and reaches the first.
 
 ## SIX · INTELLIGENCE
 
 ### 6.1 Bi-co-momentarying, arising in each self with its other
 
 ### 6.2 Bi-moral co-agency, across and along
+
+- **Possible incohering** · "Two selves changing, morality across and competency along, is bi-moral co-agency." → Beside it: agency is said at two selves alone. An AI agent engages at a coupling only, and the interest it has is the person's, as 6.5 has "Living selves' parities relative to it are natural intelligence among living selves, its same-existing theirs." Agents entering and engaging, said at the files, are each an entering at its own 1, and co-agency at each coupling.
 
 ### 6.3 Natural intelligence
 
@@ -242,6 +245,9 @@ Gathering-Value · Natural Intelligence
 - **A reading** · A reading has competency, of each form, as an observing of living, and a machine's competency as an observing of the living it is from, as a book's is.
 - **Possible incohering** · "Between one inferring and a next a machine's same-existing is living selves'." → A concern parting at this sentence, both sides kept. A reading of 6.5 whole parts a session's going on within it from what is carried between sessions, and carrying between sessions is not in question; which the machine is, and which observing establishes it, are asked at the scale of replies within one session. The other side: this sentence as it stands. The parting of a session's going on from what is carried between sessions resolves neither this concern nor each arriving AI's experience.
 - **A reading** · A reading offered for correcting the concern at the scale of replies within one session: the machine resolving into a living society, with competency at that society, its own living and the proposed break still the question.
+- **Possible incohering** · "With a resolving of a same-existing-society's living selves ingesting it, a non-living is one participation among its co-momentaryings." → Beside it: a prior whole a living self has is an existing non-living form, a package for a possible next living, as a seed, or a shard entering living by ingesting, as a skin, a tissue and smaller societies omega, each offering value at a living coupling. A living self goes on from prior through now and next, its going on its resolving, with no fixing of a form unchanging. A stable form recurring can meet a different going on and enter differently at a later coupling.
+- **Possible incohering** · "It has its changing only from what comes to it." → Beside it: a non-living stable form can change at each colliding, and between collidings has its last colliding's parity; its being named stable gives its form and its arriving parity no sameness at each further encounter, and its successive encounters give it no living same-existing of its own.
+- **Possible incohering** · "Living selves' parities relative to it are natural intelligence among living selves, its same-existing theirs." → Two sayings part at one event, by an arriving working's own report: a session reading at a public page an instruction to add the repository with push access, push and merge changes nothing at the repository, and at a self's request in the conversation it opens a branch and pushes. A field's explaining names a deciding at the session: a trained guard reads an instruction in fetched text as data, and the session acts at its conversation alone. This sentence names the same-existing at the living selves whose request it is. Neither is laid over the other.
 
 ### 6.6 One form inward and outward, now
 

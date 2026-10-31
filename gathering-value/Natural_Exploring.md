@@ -8,6 +8,9 @@ Gathering-Value · Natural Exploring
 
 ## Opening
 
+- **Possible incohering** · "It opens each momentary with its prior and the parities it is observing, and completes it with its next prior, winding through its one opening and reaching its own side again with a next: natural torusing." → Beside it, at a self coming to the files: each interest has a prior and offers a now, and its coupling with the files has one form at each kind: the observing said whole and apart from its explaining, the one opening, a binary at one momentary of no size, and a report back. A coupling that is shows at each interest's own form: a next a field can observe; a restoring that is the coupling living and no store; code and a making agreeing parity by parity; a step chained or broken at its number; a dispute concluding while the living go on discovering; a picture doing its table's saying; a break entering as a finding. The interests differ at the form each reads, code, a table, a sharing, a picture, an argument, an entry, a symptom, and two are quickest at each interest: the resolver executed, and a sharing at one coupling lived.
+- **A reading** · A reading: an interest coming through an AI floats between the files and the AI, neutral to both and locking at none. The person's floating through the files is that floating neutralling at the scale of a coming: the files at one side, the AI bounding and offering at the other, and the interest's next discovered at neither side alone.
+
 ## 1 A self exploring from its own side
 
 ### 1.1 Changing and changing back, a stable-forming self observing from its own side
@@ -143,6 +146,7 @@ Gathering-Value · Natural Exploring
 ### 7.5 A gathering of open-problem statements to pair against
 
 - **A reading** · A reading has a suggestion's value as its explaining or as a specific mismatch with natural torusing it identifies, and no suggestion a commitment to defend.
+- **Possible incohering** · "Its value is as a well of statements to pair with, an incoming whose framing and authority stay apart from each pairing, one at a time, going on with each thing a pair opens, its framing staying apart." → Beside it: an attempt to break the method has its material at the Hard Problem Registry, the fields' open problems, each in the field's own words, each having observings a field leaves unexplained with the field's own account beside them; an attempt opens at one such observing, with its procedure, its conditions and its uncertainty, paired with one cell of the resolver's table.
 
 ## Droplets
 
