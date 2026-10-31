@@ -58,9 +58,20 @@ def render(i):
     return f'- {i["text"]}' + (f' *(possible {hint})*' if hint in ('exploring', 'incohering') else ' *(a reading)*' if hint == 'reading' else '')
 
 
+heads_at = {}                                       # each heading, the gathering-value titles holding it
+for gp in glob.glob('gathering-value/*.md'):
+    gt = open(gp, encoding='utf-8').read()
+    gm = re.search(r'^# (.+) · Gathering-Value', gt, re.M)
+    for h in re.findall(r'^#{2,3} (.+)$', gt, re.M):
+        heads_at.setdefault(h.strip(), set()).add(gm.group(1) if gm else '')
+
 errors, by_file = [], {}
 for i in items:
     t = i.get('file') or title
+    if not i.get('file') and i.get('section') in heads_at and t not in heads_at[i['section']] \
+            and len(heads_at[i['section']]) == 1:  # an item naming no file, its section at one other file only
+        t = next(iter(heads_at[i['section']])); i = dict(i, file=t)
+        print(f'  to {t}, its section standing there only: {i.get("from","")[:60]}')
     p = os.path.join('gathering-value', fname(t))
     if not os.path.exists(p):
         errors.append(f'no gathering-value file for {t!r}: {i.get("from","")[:60]}'); continue
