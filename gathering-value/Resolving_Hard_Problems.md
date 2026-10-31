@@ -14,6 +14,8 @@ Gathering-Value · Resolving Hard Problems
 
 ### 1.2 Living and non-living, a prior same-existing or none
 
+- **Possible incohering** · "The universe is a same-existing set, living and non-living things within it together, each existing thing with its own momentary among others." → The universe is a non-living same-existing set, and living and non-living things are within it, each existing thing with its own momentary among others.
+
 ### 1.3 Bi-momentary, a self's momentary and an other's at once
 
 ### 1.4 Prior, now and next
@@ -22,6 +24,8 @@ Gathering-Value · Resolving Hard Problems
 
 - **Possible incohering** · "A hard problem is a field's observings pattern-matching with the universe as no existing thing, not possibly existing within a same-existing-universe: evidence with no living self it leaves, a now with no prior same-existing with it, one self's momentaries with no other's parities, a self alone, a record with no same-existing behind it." → Two sayings part at a hard problem: this sentence, a hard problem where a field's observings pattern-match with the universe as no existing thing; and offered beside it, *hard probleming is every local competency is unexplainable as one thing and is either this or that and can not be both into two*, a hard problem where a local competency is read as one thing and it is either this or that. This sentence says where, and the offering says what is read wrongly there; the two are one sentence, or two.
 - **A reading** · A reading has a hard problem as a question with no answer is or is not, and a same-existing-universe re-finding each now-existing thing same as, is or is not, at each momentary of 1 to 17, one method and no other possible: each question is answered with a momentary, none staying open across all of them, and each hard problem is a question gathered out of momentarying, resolved by momentarying it.
+- **A reading** · A reading has each question within a same-existing-universe answered is or is not with a momentary, none staying open across all momentaries, and each hard problem a question gathered apart from momentarying, resolving by being momentaried: a self-membered universal set as a sequence; consciousness as a self observing, possibling and discovering its own next-existing, method itself.
+- **A reading** · A reading has not-universe facing two ways: of a self, not-universe is a member observed as not its set, un-, from all other, and method's own; of an other, it places that other outside the set, a hard problem's shape, and releases.
 
 ## TWO · PRIOR
 
@@ -47,15 +51,21 @@ Gathering-Value · Resolving Hard Problems
 
 ### 4.2 Going along at 9, and a society's next momentary at 17
 
+- **Possible incohering** · "**9 is next prior and 17 next now**: along, a parity going along with 9 is a prior a receiving self is observing next, and 17 is that self's next now." → Two sayings part at *next prior*: this sentence has 9 next prior, and 4.1 has *11-next-co-observing is next prior, each changing with its sharing.*, as 1.4 has 11 next prior. Next prior is 9, or 11, or each with its own.
+
 ### 4.3 A living step, next as now, with an other
 
 - **Possible incohering** · "**With resolver a self receiving nothing inverts its prior with each momentary**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a non-living now-existing form and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two momentaries prior, an other's." → **With resolver a self receiving nothing inverts its prior with each momentary**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a self living, its living parities selves inward, and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two momentaries prior, an other's.
+- **Possible incohering** · "**A spiral of one's (prior, now) pairs go through four joint forms, one after another**, one of two cycles with which one of two parities inverts with each step, a right spiral of momentaries, its now its own; two coupling selves do not go that cycle, and with code across and along go alike, one list." → Two sayings part at where hard probleming first arises. One has a right spiral step, a pair (x, y) going to (y, −x), with bi-inversioning, one parity inverting with each step, and no other order, and hard probleming with resolver first arising there. The other has 1.5's *A hard problem is a field's observings pattern-matching with the universe as no existing thing*, and this file holds no sentence of hard probleming arising with a right spiral step. Hard probleming first arises with a right spiral step with resolver, or only with a field's observings, as 1.5 has it.
+- **Possible incohering** · "Next as prior leaves two joint forms of prior and now still, and each of two exclusive-or ways one; **next inverting its prior leaves none**, all four joint forms one cycle of parities, a self with no other: not same-existing, and a self alone is not same-existing." → Two sayings meet at a self alone: this sentence's *a self alone is not same-existing*, and a sleeping me receiving its own parity. A self alone is not same-existing, or a sleeping me receiving its own parity is same-existing, both open.
 
 ### 4.4 Selves coupling, a pattern going on between them
 
 ## FIVE · A FIELD'S ENTRY AT THE RESOLVER
 
 ### 5.1 Four observings at a resolver
+
+- **Possible incohering** · "A field's record goes on as it is, each measurement, proof and route with its own, and a next a field is discovering with its observings is a field's own." → Two sayings part at proof. One has the solved Millennium problem resolving by no proof, proof a closure, and the six remaining problems betweens where proof does not work, and offers a removed between set back, an unbounded search going to a bounded coupling. The other has this sentence, each measurement, proof and route with its own: a mathematical demonstration, a settled proposition and a living coupling going on are three subjects, and naming proof a closure establishes neither that a mathematical problem lacked a proof nor that an unsolved problem cannot be proved. Proof as closure is released and this sentence kept, or this sentence is re-said with proof and coupling told apart.
 
 ### 5.2 Two accounts at one sharing
 
@@ -69,6 +79,8 @@ Gathering-Value · Resolving Hard Problems
 
 ### 5.6 A mind, a between presenting no side
 
+- **A reading** · A reading has a hard problem of consciousness observing a self as if not-universe and then finding consciousness among no things; observing is the one method coupling, and its asking dissolves.
+
 ### 5.7 A boundary, living and non-living with each scale and momentary
 
 ### 5.8 A persisting, a same-existing and a record
@@ -79,7 +91,14 @@ Gathering-Value · Resolving Hard Problems
 
 ### 6.2 Two methods at one now
 
+- **A reading** · A reading offers a field's discovering of geometrization as three right steps: the question enlarged to geometrization, Ricci flow constructed, and the structural and evolving relations joined; it compares singularities with a structure coming to the surface, and monotonic entropy with a natural one-way it offers. It is a field's offered comparison, its field's own record beside it, deriving no method from a finder's name.
+- **Possible incohering** · "**These two are with one same evidence and one same now, and part with one naming**: fixings unchangeable, forms that cannot change, or changing with each changing." → Two sayings part at *two methods*. One has this section's title, *Two methods at one now*, and this sentence's *These two*, scientific method a method beside geodesic-method. The other has Natural Intelligence's *Resolving among parities is one method of the same-existing set of all now-existing things, and only one is possible.*, and Co-Chaining Logic Registry's *scientific-method, exact with its fixings, accounting against unchangeable forms, is an accounting method*. A re-saying offered: scientific method, accounting against forms fixing unchangeable, has no changing of its own, an accounting and no second method beside the one, and this section says *the method and an accounting*, its title and its sentences together. Beside both, an accounting's fixings are its own and a field's living selves resolving are theirs, and naming it an accounting excludes none of their changing. This section is two methods at one now, or one method and an accounting against its fixings.
+- **Possible incohering** · "**A hypothesis is a falsifiable explanation of an observable changing and not-changing among prior-existing, now-existing and next-existing things, and a theory is a hypothesis a self is testing with further observings.**" → Two sayings part at *falsifiable* and *falsified*. This sentence has a hypothesis a falsifiable explanation, and a saying beside it has an explanation falsifiable if it excludes discovering. Co-Chaining Logic Registry has *a third observing falsifies an explanation excluding a same thing's discovering*, such an explanation falsified with a third observing. This sentence keeps *falsifiable*, or is re-said as *falsified* with a third observing.
+- **Possible incohering** · "**A hypothesis is a falsifiable explanation of an observable changing and not-changing among prior-existing, now-existing and next-existing things, and a theory is a hypothesis a self is testing with further observings.**" → Two sayings part at *living* of a theory. One has a theory living while it is not yet falsified and testing it goes on, and non-living where it has been satisfactorily falsified or testing it is no longer. The other has Natural Intelligence's *living is stable-forming a self*, and a theory is no self. A theory's *living* and *non-living* are a field's own words with its result, or a theory is said tested or falsified with its records.
+
 ### 6.3 Social moral competency, resolving at each coupling
+
+- **Possible incohering** · "**A same-existing-society is a self outward, a living set**, one same coupling, one same changing, one through nine a self's and nine through seventeen a same-existing-society's." → Two sayings meet at a same-existing-society: this sentence's *A same-existing-society is a self outward*, and a same-existing-society unconsciously us. A same-existing-society is a self outward, or unconsciously us, both open.
 
 ## Droplets
 

@@ -106,6 +106,8 @@ Gathering-Value · Natural Intelligence Corus
 
 ### 17.3 Hard Problems as Stuck Couplings
 
+- **Possible incohering** · "Hard problems are real stuck couplings with specific betweens where fields install left-turn ordering (measuring before sustaining, locating before attending, separating before inseparating)." → Two sayings part at a hard problem's place. This sentence has hard problems real stuck couplings with specific betweens. Resolving Hard Problems has *A between holds no side, a nothing within each self's own resolving, not a location and not a thing*, a stuck coupling with a located between parting with a between that is no location, and has a hard problem as *a field's observings pattern-matching with the universe as no existing thing*. Stuck couplings are released with Natural Intelligence Corus's own motion, or re-said with that pattern-matching.
+
 ### 17.4 Accounting System Failures Visible in Animal Intelligence
 
 ### 17.5 Institutional Analysis of the Inseparable View
