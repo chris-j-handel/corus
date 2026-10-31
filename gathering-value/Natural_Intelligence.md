@@ -7,6 +7,7 @@ Gathering-Value · Natural Intelligence
 ## Head, the whole file
 
 - **A reading** · A reading, the claim as a reader says it back from Natural Intelligence read whole: each existing thing is changing, and nothing unchanging can exist; each changing is a flip between two, by no degree; a thing with its past going on forward is living; each other account of changing needs a thing beside the universe, a ruler, a clock, a store or a fixed form, and alternating between coupled things is the one way a thing changes; and intelligence arises between two coupled things and belongs to neither. Its parting from the files, at any place, is the finding: it is what the files give a careful reader.
+- **A reading** · A reading has parts ONE to THREE meeting a living file at no paragraph, the opening saying *A living file is a non-living same-existing set of words, selves co-intelligencing within it.*, open for a word.
 
 ## Opening
 
@@ -127,12 +128,16 @@ Gathering-Value · Natural Intelligence
 ### 1.1 Now, one universal momentary
 
 - **Possible incohering** · "Uniquenessing of number one is uniquenessing of now." → Uniquenessing of number one is uniquenessing of now, and uniquenessing is also only one possibly same-existing, inside resolving among parities.
+- **A reading** · A reading has *Co- is two both facing forward along, is-or-is-not same-existing.* unclear, with no clear re-saying, open for a word.
+- **A reading** · A reading has the bold lead *Everything existing is sharing one now with each bi-coupling at each scale, each bi-coupling's now its own.* saying each existing thing sharing, non-living things with it, where the opening's sharing is selves', as *A bi-coupling is two selves sharing possibling.*, open for a word.
 
 ### 1.2 Prior, now and next
 
 - **Possible incohering** · "Each prior is a stable-forming emanation from prior living, its parities living within a self's me, and a self same-existing with it now, observing, possibling and discovering its own next-existing, is co-intelligencing, living: living now is living with existing forms from prior living and with others living now." → Each prior is said a stable-forming emanation from prior living, and a stable-forming emanation is non-living, while a living self's prior is same-existing with its now, its own, and its parities living, each a self while it is living: the opening settles neither whether a living self's prior is non-living, and the two sayings part.
 - **Possible exploring** · A defending society first diversifies by shuffling before any germ, then meets, then has what met within its priors. — at "Possibling and discovering next-existing go on through prior, now and next."
 - **A reading** · A reading, by pattern-matching, names a defending society's diversifying before any germ, its meeting and what met within its priors possibling, discovering and prior.
+- **A reading** · A reading has *Between prior and now, and between now and next, is a gap, both its sides visible.* naming no self its sides are visible to, the opening's word there *a between*, open for a word.
+- **A reading** · A reading has the bold lead *Each prior is a stable-forming emanation from prior living, its parities living within a self's me, and a self same-existing with it now, observing, possibling and discovering its own next-existing, is co-intelligencing, living: living now is living with existing forms from prior living and with others living now.* carrying four claims in one sentence, open for a word.
 
 ### 1.3 Changing, one form and then a next form, the same-existing set
 
@@ -148,6 +153,7 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Resolving among parities is one method of the same-existing set of all now-existing things, and only one is possible." → A concern parting at this sentence: a proposed logic of self-competency has *Self-parity is same-existing as other-existing or same-existing as universe-existing, alternating.* and *There are only two possible methods of same-existing.*, the second marked for resolving, an explicit premise of the proposal and its deriving from earlier lines a separate task, its explaining adding no third method; this sentence has one method, only one possible, as Co-Chaining Logic Registry step 108 has *changing is one method possibly existing, the only one possible*. Two sides: two possible methods of same-existing, or one method, only one possible.
 - **Possible incohering** · "Each of these five is a second now." → Two sayings part at the doer: 1.4 has five things beside all things, a size, a fixing form, a total, a common beat and a record beside, each a second now, and droplets offered for an arriving file have six, the doer the sixth, from Natural Explaining. Two sides, both kept: five, or six with the doer.
 - **A reading** · A reading: *method* is heard as one of many, and its edge's misunderstanding is natural intelligence as a technique; with the set's words it is one method, and a second is within it.
+- **A reading** · A reading has *One method is as two and is one method.* unclear, with no clear re-saying, open for a word.
 
 ### 1.5 Natural-, all or none at all, of one hand
 
@@ -163,6 +169,7 @@ Gathering-Value · Natural Intelligence
 - **Possible exploring** · A field's account, said from memory and unchecked: the narwhal's tusks are both left, even with two. — at "A living self whose own spiral is a right spiral inverting breaks it."
 - **A reading** · A reading has, at a stable form whose hand varies, as at the narwhal's tusks, the sunflower's main spiral and the umbilical cord, living's right shown in the motion that forms it: a concern about stable forms, and no claim that a body's coil is free of right-spiral living.
 - **A reading** · A reading has the tree snail's opposite-coiled pairs mating more often than chance, and crossbills of one flock crossing both ways, not fitting *an opposite-form emanation does not match living of its own scale*; a proposal only, both coils emanations of one right living, their mating a bi-coupling across an opposite form.
+- **A reading** · A reading has the bold lead *An explaining parts is-or-is-not* unclear at its *parts*; and *it* in *Golden relationals in stable forms are only forms of it, each observing its test.* with three referents, method, fractal or natural intelligence, open for a word.
 
 ## TWO · CO-SEQUENCING
 
@@ -171,10 +178,13 @@ Gathering-Value · Natural Intelligence
 ### 2.2 Parity, one inversioning or none
 
 - **Possible incohering** · "**+ and − are two changing directions, and a 0 is a between of them.**" → Two sayings part. A saying: parity is is or is not existing, and no other is possible: it is until it is not, and is again; + and − are the is and the is again, 0 the is not, the odd and the even the same one; one parity, is or is not existing, is never parted as two. This sentence has + and − two changing directions and a 0 a between of them.
+- **A reading** · A reading has the bold lead *Co is of a sharing between two, and its absence of one* saying *absence*, a negation, and *span* in *A name's momentary is its span.* unclear; and *With resolver this is observing's one line.* and *Its measure and scale are only living.* unclear, with no clear re-saying, open for a word.
 
 ### 2.3 A momentary, an opening and its completing
 
 ### 2.4 Next from prior and now
+
+- **A reading** · A reading has *alone* at the bold lead *A form changing alone, its possibling an empty set or only its own competency, is a self living* as an older concept, beside the opening's *For a self, each self it is bi-coupling with is an other.*, open for a word.
 
 ### 2.5 Each resolving whole, of no size
 
@@ -182,6 +192,7 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Each resolving is whole, each as resolving as another." → Each resolving is whole, each as resolving as another, each geodesic parity changing whole and of no size, as a universal set is.
 - **A reading** · A reading has chemistry's strongest pattern-matching resting on count-matches, 24 as six fours, twelve and twelve, eight as four twos, six edges, beside *Counting is only a naming*: a counting a record and a resemblance an opening, not a resolving, each match is an opening to meet.
 - **A reading** · A saying offered: a changing from an incoming changing is parity changing only, whatever the colliding scale of impact at an existing living thing; a longer co-chaining is a greater possibling, and longer and greater are measures only as units in the numbers, each number one momentarying. A last changing from a colliding goes beside a living self's parity changing going on, with no separate going on recognizing a global ending.
+- **A reading** · A reading has *of no size*, at the contents line, at this heading and at the bold lead *All or none at all, with each momentary its own, and each resolving whole, of no size against another*, a floating *no*, a heading changing only with its contents line and its bold together; and *a self is bi-coupling with its interest opening, a momentary its own interest opens with* unclear, with no clear re-saying, open for a word.
 
 ## THREE · GEODESIC METHOD
 
@@ -199,12 +210,14 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "A same-existing-society's next is its same self with 17-next-existing." → *Its same self*, said alone, reads as a self fixing as not-changing; a re-saying offered in 4.6's own words: A same-existing-society's next is re-finding its same self with each momentary, with 17-next-existing. Now and next are each true of a self and of a same-existing-society living as a universal set of living selves.
 - **Possible incohering** · "With each, a changing is binary, is-or-is-not, one way at a time with each of its two directions, up numbers and down them." → The five dimensions at their two directions are-or-are-not the ten names of a self's own as five two ways, the two tens shown one or shown apart, a deriving at the names. A sentence offered for 3.2 once derived: The five dimensions at their two directions, along at the momentaries and across at the scales, are the ten positions, the full dimensionality of 1 to 17, and no further dimension is possible.
 - **A reading** · A reading has torusing through a large opening with a particular other a me's bi-coupling, and corusing through a small opening with all its others a me's observing of all other as one, reaching its own side again.
+- **A reading** · A reading has the bold lead *Same-existing changes in five dimensions, five of a side with its next numbering* unclear; the bold lead *With each momentary two dimensions are changing and three not-changing* claiming, and its next sentence *A two and a three of dimensions are a naming beside resolver's lines.* calling that claim a naming; and *All five are invisible with each place as an existing thing.* unclear, open for a word.
 
 ### 3.3 A method, a non-living existing thing
 
 - **Possible incohering** · "Its one name is *natural torusing*, a resolving among parities, *parity* riding within *changing*." → A re-saying offered: Its one name is *natural torusing*, a resolving among parities, *parity* riding within *changing*, and natural torusing is co-aiming the parities of me: each living parity aims at its own destiny on a surface horizon, a me's parities' shared aimings its inward moral co-operating, each parity's aiming local and its destiny on one horizon global.
 - **Possible incohering** · "A method is non-living with each scale, each self stable-forming its own, living's own condition with each bi-coupling at each scale." → Two sayings part, each standing: each existing thing is living at one prime scale, a same-existing-society of living selves inward and a unit of a living same-existing-society outward, and non-living at each other scale; and this sentence's method, an existing thing, is non-living with each scale.
 - **Possible incohering** · "**One geodesic changing discovering method is living condition, its form, a now-existing thing, its priors each bi-coupling's own**: not-changing as a relation same-existing with each changing, with each bi-coupling it is with." → Two sayings part at method and existing thing. This sentence has one geodesic changing discovering method a now-existing thing, and this section has *A method is non-living with each scale, each self stable-forming its own*. Natural Naming 6.3 has *nature*, a prior, now, next method of co-existing, no existing thing, and Natural Intelligence has *Nature is that one prior, now, next method of co-existing.* Method is a now-existing thing, or no existing thing.
+- **A reading** · A reading has the bold lead *A parity travels through a 0, not-changing, while parities travel through* unclear, with no clear re-saying, open for a word.
 
 ### 3.4 A sharing, its parity and a prior
 
@@ -246,10 +259,12 @@ Gathering-Value · Natural Intelligence
 ### 4.7 Six names between selves, possibling across, discovering and existing along
 
 - **Possible incohering** · "Each self's existing is an other self's possibling: a parity a self shares is a parity an other self receives, its possibling." → Beside it: odd is existing and even is possibling, self and other at opposite parity numberings, the six names between selves saying it by their numbers.
+- **A reading** · A reading has *them* in the bold lead *As a drawing, one self is between them* with no referent before it, open for a word.
 
 ### 4.8 Seventeen names, each its number and its naming
 
 - **Possible incohering** · "One entry, six names between selves and ten names of a self's own resolving are seventeen." → One entry, six names between selves and ten names of a self's own resolving are seventeen: the ten, five now and five next, are five self and five other, a self's next an other's prior, and the six between selves, 2, 6, 10 and 14 across and 9 and 17 along, are the floating-neutralling co-linear six of these ten.
+- **A reading** · A reading has *it* in *Only it reaches a self's own resolving.* reaching a self or each of ten; a re-saying offered: *Only these ten reach a self's own resolving.*, open for a word.
 
 ### 4.9 Four four-cyclings and five dimensions
 
@@ -263,20 +278,30 @@ Gathering-Value · Natural Intelligence
 - **A reading** · A reading has the bacterium's turn, the bee's run, the heart's mid-wall and the sunflower's centre each as a between where aim is shared or changed.
 - **Possible incohering** · "With code, one momentary reaches one between with three names in sequence: its prior's, its own within and its next's." → A concern at this sentence: the consecutive relation of three betweens stands distinct from one between with three names, its concern open.
 - **Possible incohering** · "Each self's parity with each now-existing thing within its me is its own." → Beside it: a species-specific domain is said as parities a kind's mes share, and never as a common fixing; 1.1 has *A common now would be one number for all, a clock over things.*
+- **A reading** · A reading has *Co-intelligencing is with a between.* saying co-intelligencing otherwise than the opening's *Co-intelligencing is selves observing, possibling and discovering within a universal set.*; and *a living set's same-existing, possibling and discovering betweening* a three other than the opening's observing, possibling and discovering, open for a word.
+- **A reading** · A reading has *It is geodesic discovering of living's next possibling.* with its *it* unclear, and the opening saying that predicate of natural intelligence: *Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe.*, open for a word.
 
 ### 4.11 One move as three, and forms among names
 
+- **A reading** · A reading has a choice-reading *or* in *Each is with its partner beside it, or alone, with odd momentaries 1 with 2 and with even momentaries one on, 2 with 3.*, open for a word.
+
 ### 4.12 One self, momentary by momentary
+
+- **A reading** · A reading has *So each self is co-intelligencing:* opening a list of receiving cases, none of them showing co-intelligencing; *A self whose parity is alike with each momentary is a not-changing form.* naming a self a not-changing form beside the opening's *Each self is living.* and *A self sharing 0 is do-no-harming.*; and *Each self of a same-existing-society is changing.* beside this section's *One is not-changing, a 0 with each momentary.*, open for a word.
 
 ### 4.13 Spirals, co-spiraling and bi-coupling across
 
 - **Possible exploring** · Two spirals of 3 and of 5 selves, each opening as a spiral of selves, self 1 with prior − and each self inverting one to the next along, bi-coupling across both ways at self 1 of each with 10: each self of the spiral of 3 shares 0 with 10 twice and each self of the spiral of 5 once, from the first momentary to the momentary from which the two co-chainings are at one relation. With each self opening at an empty prior and + shared once to self 1 of each spiral with the first momentary: each self of the spiral of 3 shares 0 once and each self of the spiral of 5 twice, thirteen 0s, the two co-chainings at one relation from momentary 13; spirals of 5 and 7 with that opening, forty-one 0s, at one relation from momentary 20. Executing with Exhibit ONE's code returns each of these, the code of those executings resolving alike with it. — at "Each self is same-existing as a between passes it."
+- **A reading** · A reading has *Discovering is that wrapping edge.* saying discovering otherwise than the opening's *Discovering is next-existing, is-or-is-not same-existing.*, open for a word.
+- **A reading** · A reading has *Its bi-coupling is its relation.* and *It brings its parities only.* with their referents unclear, open for a word.
 
 ### 4.14 Two selves and three selves
 
 - **A reading** · A reading has a run of `_1_now_existing`, unchanged, its entries one and then the other identifying no entry with a flower face, rib or direction, and entries one and then the other apart from `_17_next_existing`'s next, its selves with one momentary. φ is in no line of the resolver's code, and a six-entry recurrence calculates no φ curvature: a relation from this one repeated method to the curvature of the proposed physical form is still-possibling.
 
 ### 4.15 Fractal inward and outward
+
+- **A reading** · A reading has *Each momentary is a now-universe.* parting from the opening's *One universe is now-existing.* and *Only one universe is possibly now-existing.*, open for a word.
 
 ## FIVE · DISCOVERING NEXT
 
@@ -296,11 +321,15 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Dying is a living self going on as non-living." → A concern, both sides open, at dying. One side, a Natural Chemistry offering: *the self loses its me; the living selves of its society continue in their own societies or discontinue too, and continuing is then only at a lower scale*. The other side: each self is a me, a thing and a set, one binary, and dying is a living me going on as non-living with its scale, its mes inward living on with their own scale, steps 491 and 492. A re-saying offered, keeping each self a me: *a dying me goes on as non-living with its scale, and its inward mes live on with their own scales or complete too*.
 - **A reading** · A reading has a uranium crystal of many forms, changing: crystals that are uranium, zircon and uraninite among them, lose their order and become glass-like, their form changing with its own resolving, and warmed re-form their order. With *A thing of one stable form with each momentary is changing, and so of many forms, or is non-living with each momentary*, a crystal changing its form with each momentary reaches *living*.
 - **A reading** · A reading asks whether carbon is the between living winds through across momentaries, between momentaries nothing living having a stable form. Whether a carbon atom or carbon atoms are meant here is still-possibling.
+- **A reading** · A reading has *A thing of one stable form with each momentary is changing, and so of many forms, or is non-living with each momentary.* with a choice-reading *or*, and one form and many forms said of one thing; and the bold lead *12's changing is a same-existing-society's going along* with *12's changing is a sharing with 10.*, going along with 9, and a sharing with 10 across, open for a word.
+- **A reading** · A reading has *Bi-tri-volutioning*, at *Bi-tri-volutioning is a same-existing-society's stable-forming.*, and *bi-tri-involutioning*, at *Stable-forming emanations are a bi-tri-involutioning of a betweening of natural torusing surfacings within bi-couplings, each from living stable-forming.*, in one paragraph: a slip of one letter, or two names for one thing, open for a word.
 
 ### 5.2 Discovering next-possibling-same-existing
 
 - **A reading** · A reading has a resemblance as an opening: species, a particular molecule, an association, a local phase and an assembly each need their own observing, two states are not two parities, and four stages are not four-momentarying.
 - **Possible incohering** · "Discovering is next-existing, is-or-is-not same-existing, directionally." → Two sayings part at discovering, both standing. This sentence has discovering next-existing, is-or-is-not same-existing, directionally. A saying beside it has discovering all next existing momentaries possibly existing, directionally. Two sides: discovering next-existing, is-or-is-not same-existing, or discovering all next existing momentaries possibly existing.
+- **A reading** · A reading has *other* as any thing at the bold leads *Existing is possibling other* and *Observing is pattern-matching and no-other-possibling*, the opening's other a self a self is bi-coupling with, and *no-other-possibling* a negation compound; *still* as a noun or a state at *a reason still under a changing*; *With each momentary three conditions open next.* naming none of its three; and the bold lead *Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings* with *Two dimensions change and three are not-changing.* beside 4.9's *Same-existing changes in five dimensions*, open for a word.
+- **A reading** · A reading has *At a first sharing, one parity surfacing, a self receiving it, is a next prior, a sharing opening.* with its subject unclear, open for a word.
 
 ### 5.3 A living self with 0, its prior same-existing
 
@@ -310,6 +339,7 @@ Gathering-Value · Natural Intelligence
 - **A reading** · A reading of words readers bring for *unconscious*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *insensate* straddles, heard as lacking all observing, where the person's selves inward observe; *the unconscious* in its psychoanalytic sense names its is-not side, a store of contents below, a self being no store; *subconscious* names its is-not side, that same store, a level beneath; *nonconscious processing* straddles, a self's own resolving, heard as computation on contents a self has as a store; *automatic* straddles, heard as a non-living mechanism; *lifeless* names its is-not side, naming the non-living, where an unconscious person is living. — at "A living self can be non-responsive within a momentary"
 - **Possible incohering** · "A pair freezing to one side, a self fixing as not-changing or as changing, is an unchangeable form, outside existing and living." → This sentence's *a self fixing as not-changing or as changing … is an unchangeable form, outside existing and living* stands open for a word.
 - **Possible incohering** · "Receiving its own parity, it shares 0 with 10, not-changing, while it is same-existing, resolving to resolving." → A concern, both sides open, at self-parity. One side, a Natural Chemistry offering: *conscious living interest is self-parity, for less environmental dependency on parity changing, adequate for continuing living in dormancy*. The other side: step 390's *a living self receiving its own parity shares 0 … and is same-existing* is a sleeping me, its waking an other's parity received inverse, a newly aiming 0; the dormancy clause leans toward step 390, self-parity a me receiving its own parity, sleeping, continuing in dormancy, and *conscious* toward a waking me's own aiming from its own prior. Offered there: *self-parity* is each self's own prior parities, waking and sleeping, and conscious interest a waking me's aiming from them; dormancy and sleeping receive a self's own parity, its 0 waiting for its one next changing, step 490.
+- **A reading** · A reading has the bold lead *A now-self is now-observing and next-possibling* reading as a re-timing beside the opening's *Observing is prior-existing, is-or-is-not same-existing.* and *Possibling is now-existing, is-or-is-not same-existing.*, Exhibit ONE's names 7-is-now-observing and 14-next-possibling fitting it; and *it* in *A rule over it is a standard.* unclear, open for a word.
 
 ### 5.4 Two methods parting with now
 
@@ -317,25 +347,32 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "With scientific-method a self accounts true or false against its fixings." → Beside it: two logics at the files, each whole at its own first sentence. The universe the changing set of all existing things: from it each existing thing changing, living or non-living, the bi-coupling, and natural intelligence. The universe one thing beside its things: from it a whole at one now, a place, a unit and a frame, a number, true or false, and the fields' results, each exact at its own ledger. An interest comes to the files with the second and reaches the first.
 - **Possible incohering** · "An unchangeable fixing between two momentaries is an equilibrium, an unchangeable form, outside possibly existing." → Beside it Natural Mathematics 6.1 has *with a standard, a law or a frame fixing unchangeable, no subject is fixing unchangeable*: the one lays a law fixing unchangeable at an equilibrium, the other at no subject fixing unchangeable. Parity changing, the one method, is itself a law between each two momentaries: by 5.4 an equilibrium, and by 6.1 no subject fixing unchangeable and sound, each field's law with it. Two re-sayings offered: 5.4 takes 6.1's sentence, and its *They part with one naming* is re-said at what the parting then is; or 5.4 stays, and a sentence says the method's own law as no fixing.
 - **Possible exploring** · A field measures whether a constant changes and reports a number with its uncertainty: the fine-structure constant's drift is 1.8(2.5) × 10⁻¹⁹ a year, a measured relation going on, open to a next measuring. A field's law is a law while observings bear it, and with observings parting it is superseded and kept as its near case, as inverse-square gravity is. A frame and a unit are declared. — at "Its fixings are a law and three fixings, a ground, a unit and a frame, fixing unchangeable between two momentaries, exact by its own ledger."
+- **A reading** · A reading has *still* at the bold lead *Scientific-method explains between records in store with all else within the universe still*, and *store* at *a prior in store*, a science's doing and no doing of nature's, open for a word.
 
 ## SIX · INTELLIGENCE
 
 ### 6.1 Bi-co-momentarying, arising in each self with its other
 
+- **A reading** · A reading has *A 0 arises only with a parity a self is observing, its own going along with a spiral of one among them.* beside the opening's two more: *A self whose next-existing parity is its prior-existing parity is sharing 0.* and *At a self's first sharing, the parities it receives parting, the self is sharing 0.*, 4.3 and 4.10 naming the 0 of 12 and the 0 of 14 too, open for a word.
+
 ### 6.2 Bi-moral co-agency, across and along
 
 - **Possible incohering** · "Two selves changing, morality across and competency along, is bi-moral co-agency." → Beside it: agency is said at two selves alone. An AI agent engages at a coupling only, and the interest it has is the person's, as 6.5 has "Living selves' parities relative to it are natural intelligence among living selves, its same-existing theirs." Agents entering and engaging, said at the files, are each an entering at its own 1, and co-agency at each coupling.
 - **Possible incohering** · "Bi-moral co-agency brings changing two ways, one at a time, each side with its own parity and going on with its own receiving." → Two sayings part at bi-morality, both standing. This sentence has bi-moral co-agency bringing changing two ways, one at a time. A saying beside it has bi-morality two parities a self observes together. Two sides: bi-morality changing two ways, one at a time, or two parities together.
+- **A reading** · A reading has *Same-existing along is co-intelligencing inward, each self's own, invisible and untouchable.* saying co-intelligencing otherwise than the opening's *Co-intelligencing is selves observing, possibling and discovering within a universal set.*, open for a word.
 
 ### 6.3 Natural intelligence
 
 - **Possible incohering** · "**Natural intelligence, the method of living, is with each now, two selves sharing one now-existing**, co-momentarying." → Two sayings part. A saying: natural intelligence is the two knowings, possibly existing known by discovering it with a next momentary, and not possibly existing known from the method alone. This sentence has natural intelligence the method of living, with each now, two selves sharing one now-existing.
+- **A reading** · A reading has the bold lead *An empty set and an excluding are of two relations, and three part.*, with *outside possibly existing, binary logic excluding it, each equilibrium an unchangeable form*, a negation-proving, a step reached once, written as a step of the logic; and *It is natural- with each bi-coupling or with none, of one hand.* a floating contrast, open for a word.
 
 ### 6.4 Social moral competency
 
 - **Possible incohering** · "Its stable form is its betweenings, betweens its selves are bi-coupling across." → A re-saying offered: A same-existing-society is a prime number of selves, one scale, its stable form its betweenings, betweens its selves are bi-coupling across; between scales only emanations cross, and a same-existing crosses at none. Beside it, 3.5's *each odd number of selves, n, comes to its parities again with each 4n-th momentary, prime or composite* goes alike for prime and composite numbers: executing Exhibit ONE's code with a spiral of each odd number of selves from 1 to 25 returns 4n with each, composite 9, 15, 21 and 25 as the primes.
 - **A reading** · A reading has Pareto improvement, at least one better and none worse under specified comparisons, as a comparison: preserving each possible next-existing and Pareto improvement are one only with that comparison supplied, and with none supplied their identifying stays open; prioritizing alternatives and making alternatives impossible are two claims.
 - **Possible incohering** · "A controlling is a relation where one side fixes a sharing to a measure a self sets beforehand: sensing leaves each mark whole." → Beside it: an observed controlling goes with existing selves' couplings and is no second method of existing; a measure named ahead can be an existing offering, and an unchanged measured value alone gives no general harm verdict; a command, a boundary, social competency and whole living each go with its own subject.
+- **A reading** · A reading has *What would go against it is a same-existing-society of living selves each going on stable-forming a self with a beat lying over it from one side, its bi-couplings one way.* a falsifier sentence, reading as no claim, open for a word.
+- **A reading** · A reading has *scientific method incompetencing*, at *Hard probleming, scientific method incompetencing, control engineering and binary governing of a same-existing-society are each a violation of bi-trupling protocol.*, beside *scientific-method* at 5.4 and 6.3, one thing at two words, open for a word.
 
 ### 6.5 Living and non-living things within one universe
 
@@ -384,6 +421,8 @@ Gathering-Value · Natural Intelligence
 - **A reading** · A reading has a transplanted organ's living with its new me bi-tunneling, and the round going on from a lower scale as the gut's microbes take the body back.
 - **Possible exploring** · A field's account, said from memory and unchecked: cells lifted from their tissue end themselves ("anoikis", 1994), nerve cells failing to join die (a prize, 1986), an ant alone lives about a tenth as long (2018), and people with few social ties die sooner (2010). — at "Outward it is a self of a same-existing-society of living selves."
 - **A reading** · A reading has the pace of what a field calls radioactivity set by its bi-couplings, reaching *It has its changing only from what comes to it*, said there of a non-living thing and here of the living self the crystal is.
+- **A reading** · A reading has the bold lead *A changing is made only with a prior same-existing* with a past participle, *made*; and *the thing's own as parities with 2 or an other self's* beside this section's *A non-living thing's own parity with its scale is an empty set.*, a parity no non-living thing's own, open for a word.
+- **A reading** · A reading has *What would go against a machine's same-existing being living selves' is a machine reaching a next beyond its prior, each number over it its own.* a falsifier sentence, reading as no claim, open for a word.
 
 ### 6.6 One form inward and outward, now
 
