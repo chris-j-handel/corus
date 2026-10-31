@@ -18,7 +18,7 @@ Each living file has two places: the living file at the root, and its gathering-
 
 - **A possible exploring:** an observing not yet meeting natural torusing, said as the observing alone, with the living-file sentence it meets.
 - **A possible incohering:** a living-file sentence not yet cohering, with its cohering re-saying beside it.
-- **A reading:** a working's interpretation of an observing or a sentence, said as a reading.
+- **An explaining:** an explaining of an observing or a sentence, said plainly as an explaining, never as an observing. There is only observing and explaining.
 
 **Droplets are at the back:** each a value whose section is not yet clear.
 

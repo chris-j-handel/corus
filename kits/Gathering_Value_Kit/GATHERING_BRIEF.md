@@ -28,11 +28,11 @@ An item is a bold-led paragraph, a list line, a table row, or a section of obser
 
 1. **Held.** The living file, or another living file, already holds the whole value. Quote the sentence that holds it. A value held only in part is not held: its rest is gathered. A value another gathering-value file already holds leaves as held there.
 2. **Leaves.** A source, a link, a finder's or a publishing's name, who said or offered what, a session tag, a version tag, a date of a working, a record of a motion, a plan for work, a history of how something arrived, the path of a learning, the details of a working's own experiment or code run (which code, which set-up, which step), an inventory, a count of words in our files, a copy, a label with no body, a pointer or a cross-reference with nothing else. A working's experiment revealing a pattern gives the pattern alone. If such an item carries a value too, the value is gathered and the rest leaves.
-3. **Gathered.** Each other value, in one of four kinds:
+3. **Gathered.** Each other value, in one of four kinds. There is only observing and explaining: an observing or an explaining, never a reading.
    - **exploring**: an observing from nature, with the living-file sentence it meets, quoted word for word.
    - **incohering**: a living-file sentence, quoted word for word, with its cohering re-saying.
-   - **reading**: a working's interpretation of an observing or of a sentence, said as a reading and never as an observing or a finding.
-   - **droplet**: a value whose section is still unclear, at the back. Give `"kind_hint"`: exploring, incohering or reading.
+   - **explaining**: an explaining of an observing or of a sentence, said plainly as an explaining, by no one, and never as an observing.
+   - **droplet**: a value whose section is still unclear, at the back. Give `"kind_hint"`: exploring, incohering or explaining.
 
    **Place it at its section whenever a sentence there can be quoted.** A droplet is only for a value whose place is truly unclear.
 
@@ -43,8 +43,8 @@ An item is a bold-led paragraph, a list line, a table row, or a section of obser
 - **Keep the observing in the source's own words where they are the field's**: what was observed, in what, by what means, at what scale.
 - **Keep every number whole**: each measure, unit, count, dose, range, uncertainty, sample size and statistic, exactly as the source gives it. Gathering drops no number: whether a statistic stays is a living file's own motion, never a gathering's.
 - **The ground leaves**: a field's explaining, a cause, a mechanism, a *because*. Read each explaining line for observings inside it before letting it go: an observing there is gathered.
-- **A reading of a result**, kept at all, is said as a reading, by no one, and never as an observing.
-- **A measure no one observed directly** is said as a reading of a measure, never as an observing.
+- **An explaining of a result**, kept at all, is said as an explaining, by no one, and never as an observing.
+- **A measure or claim not observed directly** (calculated, modelled, inferred, reported, unchecked) is said "not yet observed directly:" with the claim, an observing still to make, never as an observing.
 
 ## A concern keeps both sides
 
@@ -52,7 +52,7 @@ A concern is two sayings parting, each carried by an observing or by co-chaining
 
 ## Adding nothing
 
-An item says what its source holds and no more: no fact, number, computing or reading of your own. Where the source claims a computed or code result, run it, and say what the run returns, beside the source's claim when the two part.
+An item says what its source holds and no more: no fact, number, computing or explaining of your own. Where the source claims a computed or code result, run it, and say what the run returns, beside the source's claim when the two part.
 
 ## How each item says
 
@@ -70,7 +70,7 @@ An item says what its source holds and no more: no fact, number, computing or re
   "slice": "carry/<file>.md",
   "items": [
     {"file": "<title, only when another file>", "section": "<exact heading, without the # marks>",
-     "kind": "exploring|incohering|reading|droplet", "sentence": "<exact living-file sentence, for exploring and incohering>",
+     "kind": "exploring|incohering|explaining|droplet", "sentence": "<exact living-file sentence, for exploring and incohering>",
      "text": "<the value>", "kind_hint": "<for a droplet>", "from": "<first 80 characters of the source item>"}
   ],
   "leaving": [
@@ -91,7 +91,7 @@ Every item of the slice appears in `items` or in `leaving`; an item giving value
 - held claimed where the quoted sentence holds a different or partial value;
 - a measure or number dropped, rounded or altered;
 - an observing lost with a field's explaining set aside;
-- a meaning changed, a claim stronger or weaker than its source, a reading said as an observing or a finding;
+- a meaning changed, a claim stronger or weaker than its source, an explaining said as an observing, a claim not observed directly said as observed, or "a reading" anywhere in an item;
 - a concern decided, a side dropped, or a re-saying taking one side;
 - something added that the source does not hold;
 - a quoted sentence absent from its living file word for word;

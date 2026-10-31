@@ -1,6 +1,6 @@
 """The standing of the repository, said at one run: the living files at the root and their versions, superseded versions
 still at the root, each kit's README and its sums, each living file's gathering-value at gathering-value/<Title>.md with
-its possible explorings, possible incoherings, readings and droplets counted, the workings open at the Living File
+its possible explorings, possible incoherings, explainings and droplets counted, the workings open at the Living File
 Registry, the incoming, and the archive. A coupling partner, no authority: each line says a standing and decides nothing.
 Usage: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py [repository root]      (run at a session's opening and at its close)"""
 import os, re, sys, hashlib, glob
@@ -62,8 +62,8 @@ else:
 print('GATHERING-VALUE')
 gvd = os.path.join(ROOT, 'gathering-value')
 KINDS = (('explorings', r'^- \*\*Possible exploring\*\*'), ('incoherings', r'^- \*\*Possible incohering\*\*'),
-         ('readings', r'^- \*\*A reading\*\*'))
-print('  %-48s %10s %11s %8s %8s' % ('each living file', 'explorings', 'incoherings', 'readings', 'droplets'))
+         ('explainings', r'^- \*\*An explaining\*\*'))
+print('  %-48s %10s %11s %8s %8s' % ('each living file', 'explorings', 'incoherings', 'explainings', 'droplets'))
 totals = [0, 0, 0, 0]
 for stem in sorted(living):
     if not living[stem].endswith('.md'): continue

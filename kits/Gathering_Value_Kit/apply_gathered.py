@@ -52,10 +52,10 @@ def render(i):
         return f'- **Possible incohering** · "{i["sentence"]}" → {i["text"]}'
     if k == 'exploring':
         return f'- **Possible exploring** · {i["text"]} — at "{i["sentence"]}"'
-    if k == 'reading':
-        return f'- **A reading** · {i["text"]}'
+    if k in ('explaining', 'reading'):              # there is only observing and explaining
+        return f'- **An explaining** · {i["text"]}'
     hint = i.get('kind_hint')
-    return f'- {i["text"]}' + (f' *(possible {hint})*' if hint in ('exploring', 'incohering') else ' *(a reading)*' if hint == 'reading' else '')
+    return f'- {i["text"]}' + (f' *(possible {hint})*' if hint in ('exploring', 'incohering') else ' *(an explaining)*' if hint in ('explaining', 'reading') else '')
 
 
 heads_at = {}                                       # each heading, the gathering-value titles holding it
@@ -75,7 +75,7 @@ for i in items:
     p = os.path.join('gathering-value', fname(t))
     if not os.path.exists(p):
         errors.append(f'no gathering-value file for {t!r}: {i.get("from","")[:60]}'); continue
-    if i.get('kind') not in ('incohering', 'exploring', 'reading', 'droplet'):
+    if i.get('kind') not in ('incohering', 'exploring', 'explaining', 'reading', 'droplet'):
         errors.append(f'kind {i.get("kind")!r}: {i.get("from","")[:60]}'); continue
     if i['kind'] in ('incohering', 'exploring'):
         lt = living_text(t)

@@ -14,15 +14,15 @@ Gathering-Value Kit · the sweep each re-sayer and reader follows
 
 ## Keeping the standing while the who leaves
 
-- **The who leaves; the standing stays.** Unchecked, reported, inferred, calculated, modelled or proposed becomes "a reading", with "unchecked" or "not observed directly" where it was so, and never a plain claim or observing.
+- **The who leaves; the standing stays.** Unchecked, reported, inferred, calculated, modelled or proposed is said "not yet observed directly:" with the claim, an observing still to make, and never a plain claim or observing. There is only observing and explaining: an interpretation is said plainly as an explaining, and no item says "a reading".
 - **A condition is no record.** "Resting on…", "given…", "with priors…", "only while…" are conditions a pattern needs; they stay.
-- **Keep scope.** "No file it read" stays limited; a reading never becomes a finite claim about all.
+- **Keep scope.** "No file it read" stays limited; an explaining never becomes a finite claim about all.
 - **A quoted saying in no living file** stays marked as in no living file.
 - **Add nothing.** No concern frame where material was only set beside a sentence; no new word, claim or side.
 - **A line left as only a list of files** says what it opens as still-possibling, or leaves.
 - **Lines sharing a pattern go alike.** Scan the file for the leftover words after re-saying: offer, offering, proposed, proposal, working, session, reader, reported, executing, set-up, step, the person, the field's, a version tag.
 - **A concern removed** has its pointers in other gathering-value files found and re-said.
-- The kind label (`- **A reading** · `, `- **Possible exploring** · `, `- **Possible incohering** · `) stays first; a quoted living sentence stays word for word; every number stays whole; Natural Explaining's craft; no released word added and no word swapped to avoid one. Two namings of an atom, carbon atom or not, stay as two namings, by no one.
+- The kind label (`- **An explaining** · `, `- **Possible exploring** · `, `- **Possible incohering** · `) stays first; a quoted living sentence stays word for word; every number stays whole; Natural Explaining's craft; no released word added and no word swapped to avoid one. Two namings of an atom, carbon atom or not, stay as two namings, by no one.
 
 ## Output
 
