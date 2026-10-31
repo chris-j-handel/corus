@@ -134,6 +134,8 @@ Gathering-Value · Natural Physics
 
 ### 4.12 An object, a magnitude a frame gives a place
 
+- **Possible exploring** · An atom's recorded contrast, a carbon atom's or an atom's of another element, is-not a permanent exterior silhouette: the sample's arrangement, the instrument and the processing each go with the image, and identifying an element is-not recognizing one universal pictured outline. — at "**And identity was not within an image of a coarse resolution.**"
+
 ## FIVE · COHERING
 
 ### 5.1 Cohering, and reaching

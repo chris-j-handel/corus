@@ -50,9 +50,13 @@ Gathering-Value · Natural Exploring
 
 ### 3.7 Resolving
 
+- **A reading** · A reading: an identified contradiction at none is-not a finding of each dependency resolving, and a qualification still unresolved is-not an identified contradiction; the two distinctions stay apart.
+
 ### 3.8 Observing whole, ahead of any sorting
 
 ### 3.9 An object, a place at which an accounting stops and declares
+
+- **Possible exploring** · Pure iron has an optical micrograph, transmission electron microscopy images and calculated structural illustrations beside them: an image an instrument records, an atomic arrangement a calculation reconstructs and an explanatory drawing are three kinds of representing, each said as its own kind, the electron images and the calculated structures one kind of observing at none. Iron is-not a carbon atom. — at "An accounting returns an object of a kind it states, assembling it from many parities together with a model of a kind of thing the parities could come from; as a model enters with a selecting, its return resembles its model, whether a thing is or is not."
 
 ## 4 A method its own subject
 
@@ -117,6 +121,8 @@ Gathering-Value · Natural Exploring
 ## 7 Apexing, gathering whole
 
 ### 7.1 Gathering backward and seating forward to living files
+
+- **A reading** · A reading: a comparing of a record with its source holds the passage the source holds, and gives the source no passage it lacks, an earlier going-on whole among them.
 
 ### 7.2 Two instances, an improving report and a registry
 
