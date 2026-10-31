@@ -329,6 +329,8 @@ Gathering-Value · Hard Problem Registry
 
 - **Possible exploring** · By a field's account, about half of dreams have sound, and under one percent touch, taste or smell; outward sound is mostly not observed in sleep. — at "Dream content analysis — finds thematic regularities consistent with several accounts."
 - **A reading** · A reading has a dream's sound inward, outward sound mostly not observed in sleep.
+- **Possible exploring** · Deaf dreamers are observed dreaming in signing. — at "Dream content analysis — finds thematic regularities consistent with several accounts."
+- **Possible exploring** · A loud sound, or the sleeper's own name, wakes the sleeper or is woven into the dream. — at "In the field's own posing, dreams are a remarkable experiment in psychology and neuroscience, conducted every night in every sleeping person, showing that the brain, disconnected from the environment, can generate an entire world of conscious experiences by itself; the fundamental questions dreams pose are how conscious experiences in sleep relate to underlying brain activity, why the dreamer is largely disconnected from the environment, and whether dreaming is more closely related to mental imagery or to perception."
 
 ### 124 The Cambrian explosion
 

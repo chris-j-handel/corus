@@ -31,6 +31,7 @@ Gathering-Value · Me
 - **Possible incohering** · "The universe is a non-living same-existing set, and living is co-intelligencing within it." → The universe is a non-living same-existing set, all now-existing things within it, its me an empty set, and living is co-intelligencing within it. A parting named: Natural Naming 2.4 releases *within* at the universe and of the universe, said by *the universe is or is not, its things*, and by *nothing is apart from or between things of the universe*; this line says *all now-existing things within it*, and Natural Intelligence's opening holds *Within the universe* plainly.
 - **A reading** · A reading has the universe's things sharing no 0 as one set, and nothing outward of the universe to share with: the universe a non-living same-existing set, its me an empty set, by the test of a set's mes sharing 0s.
 - **A reading** · A reading has *Universal Self* heard as Atman–Brahman, *tat tvam asi*, as one substance and as the Over-Soul, each a universe that is a self: a naming edge beside this file's universe as one self, which a me is-or-is-not: it is not.
+- **Possible incohering** · "A universal set is a set of same-existing things, and each universal set is only one possibly now-existing: a set is its things, so a set of these same-existing things is one set, as set theory's extensionality has it." → A concern, both sides open: a reading has set theory's extensionality not making a set no object beside its things; this sentence has a set its things, so a set of these same-existing things is one set, as set theory's extensionality has it.
 
 ### 1.2 Negation within all that is existing
 
@@ -114,6 +115,7 @@ Gathering-Value · Me
 - **Possible exploring** · In category theory a universal property fixes an object by its relations with all other objects, unique up to unique isomorphism. — at "A self is defined only with an other and all other."
 - **A reading** · A reading has a universal property meeting this file's 2.1 and the Co-Chaining Logic Registry's *uni-*, a mathematics' sameness up to isomorphism a sameness of form, and a me's sameness same-existing from a prior.
 - **A reading** · A reading has *membrane*, *crossing* and *unrelationing* each a naming of the between's empty centre, 0, a nothing.
+- **A reading** · A reading has us as a co-parity, a non-existing thing living as a me and you, same-existing in each, and unconscious, as a same-existing-society is.
 
 ### 2.2 A parity, relative to an other
 
@@ -130,6 +132,8 @@ Gathering-Value · Me
 - **Possible incohering** · "A self's parity is its changing direction relative to an other existing thing. A self's parity with an other is its moral value with that other." → A self's parity is the self's changing direction relative to a now-existing thing within the self's me. A self's parity with a thing is the self's moral value with that thing. Each self's parity with each now-existing thing within its me is its own. Its first two lines are Natural Intelligence's opening's own, word for word, "A self's **parity** is the self's changing direction relative to a now-existing thing within the self's me." and "A self's parity with a thing is the self's **moral value** with that thing.", and these two sentences part from them: a parity relative to an other existing thing, and relative to a now-existing thing within the self's me; a moral value with an other, and with a thing.
 - **Possible incohering** · "A self's parity with an other is its moral value with that other." → Beside it, the rest of a line offered, its first part held at gathering-value Me 2.2: self, the me's own living parities, its inward mes; not self, an other, its within its own, or a non-living thing, 2.1 and 2.3: me and not-me, one binary on each thing, with each momentary.
 - **A reading** · A reading has aiming into an interest as a me's possibling given a direction: a parity is a changing direction, so an aiming is-or-is-not a parity's direction into an interest.
+- **A reading** · A reading has a 0 as a me and its other in one direction, co-linear, and co-linear as co-parity, one name for one thing.
+- **A reading** · A reading has *self +1 and other −1* giving + and −, a parity's two directions, to self and other, one sign for two things: a me one binary parity, self and other its two sides, and the signs still-possibling at their own resolving.
 
 ### 2.3 Non-living others: stable-forming emanations, stand-alone knowledge
 
@@ -202,6 +206,7 @@ Gathering-Value · Me
 - **A reading** · A reading has each stage of self-awareness its own binary, and no graded me.
 - **Possible exploring** · A naming edge: the *I* read as a pattern referring to itself, a strange loop. — at "A me is a self's universal set."
 - **Possible incohering** · "This is a me's identity: a same-existing me is one, from prior to now." → A concern, both sides open: offered, said as *Each parity is a self while it is living.* is, *A self is a me while it is observing all other as one.*, the self same-existing throughout and a me is-or-is-not at each momentary, a line set aside until its all or none stands; and a later reading has a sleeping me same-existing, a dormant me living, the same me waking.
+- **Possible exploring** · A dividing *E. coli*'s old pole goes on in one daughter, and that lineage's growth is steady over 200 generations, its death rate rising with replicative age. — at "This is a me's identity: a same-existing me is one, from prior to now."
 
 ### 3.2 A me is consciousness
 
@@ -258,6 +263,8 @@ Gathering-Value · Me
 - **Possible exploring** · A field's account, said from memory and unchecked: *mirror self-recognition* is observed species by species, in great apes, elephants, dolphins and magpies, and in a cleaner fish. — at "A me is consciousness: one definition."
 - **A reading** · A reading has each kind's *mirror self-recognition*, the field's term, as a me recognising itself as its species meets itself.
 - **Possible exploring** · Each grid cell's place on its module's torus is steady across rooms. — at "A not-conscious me is-or-is-not possibly existing: it is not."
+- **A reading** · A reading has a first parity surfacing with each momentary, sleeping too, and waking as the surfaced parity parting from its prior, and its prior inverting.
+- **A reading** · A reading has self-parity as each self's own prior parities, and conscious interest as a waking me's aiming from them.
 
 ### 3.3 What is-or-is-not possibly existing
 
@@ -323,6 +330,11 @@ Gathering-Value · Me
 - **Possible exploring** · A field's account, said from memory and unchecked: a sneeze is a reflex building and releasing, the eyes closing with it. — at "A me is a same-existing-society inward."
 - **Possible exploring** · A mind read as a society of agents, and a self as a society of positions in dialogue. — at "A me is a same-existing-society inward."
 - **Possible exploring** · A vortex ring goes on as one form while fluid passes through it. — at "**A parity is a me inside a set of me**: a me is a set of mes, and a parity's inverting is a me completing and a next me opening inside the same set, the set's me same-existing through it."
+- **Possible exploring** · As the head turns, the eyes turn against the head's turning, gaze held on one point: the vestibulo-ocular reflex. — at "Each parity is a self while it is living, and a me's living parities are within it."
+- **Possible exploring** · A yeast's juice, its cells broken, goes on fermenting sugar. A sugar is-not a carbon atom. — at "A me is a same-existing-society inward."
+- **A reading** · A reading has a protein doing several doings, and a yeast's juice, its cells broken, going on fermenting sugar, as the doing the macromolecules' with their reactants, a cell's me an empty set there.
+- **A reading** · A reading has a parity received agreeing from outside, eyes open on a still point or a foot on the floor, a 0 shared, as Exhibit ONE's only way to a 0. Exhibit ONE's code, executing, parts from the claim: a self with a prior shares 0 as the parity it receives is alike its prior, its prior going on, and with the parities it receives parting it shares the inverse of its prior; a self with no prior, at a first sharing, receiving + and − together, shares 0 too, its prior an empty set after it. At its next sharing, receiving + alone, it shares + and its prior is +; receiving + and − together again, it shares 0 again, its prior still an empty set.
+- **A reading** · A reading has connected and aware patients under general anaesthesia as a me whose bi-coupling across scales with its inward mes is sharing.
 
 ## FOUR · ME, NEXT-EXISTING
 
@@ -349,6 +361,7 @@ Gathering-Value · Me
 - **Possible incohering** · "A curious me shares its possibling with its others and is discovering next-possibling-same-existing." → Beside it: A sudden attention changing is a newly aiming 0, and a curious me shares its newly aiming 0s with its others.
 - **Possible incohering** · "**Honeybee democracy** (Seeley 2010; Seeley et al. 2012): scouts share possibilities until a quorum discovers a home." → **Honeybee democracy**: scouts share possibilities until a quorum discovers a home. *Agreeing*: scouts sharing possibling, the swarm its bees co-aiming within one interest.
 - **Possible exploring** · Each scout knows one site; stop signals cross-inhibit dancers for rival sites until the swarm chooses one, a new home. — at "**Honeybee democracy** (Seeley 2010; Seeley et al. 2012): scouts share possibilities until a quorum discovers a home."
+- **Possible exploring** · Scouts head-butt dancers for rival sites with stop signals, each side inhibiting the other until one site wins; a field reads it as a swarm deciding as a brain does, neurons inhibiting one another in decision circuits. — at "A curious me shares its possibling with its others and is discovering next-possibling-same-existing."
 
 ### 4.3 A free me
 
@@ -426,6 +439,10 @@ Gathering-Value · Me
 - **Possible exploring** · Normal oesophagus in middle age is mostly clones carrying cancer-gene mutations. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
 - **A reading** · A reading has mutant clones in healthy tissue parting from this sentence's *each self within it, at each scale inward, do-no-harming and improving*, and meeting it with each momentary, the binary per resolving.
 - **Possible exploring** · The healthy heart's filling forms vortex rings, offered by its field as an index of cardiac health. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
+- **Possible exploring** · On rising to standing, 300 to 800 ml of blood pools in the legs, pressure drops and vision greys, until reflexes tighten the vessels and raise the heart rate; bending at the waist gathers blood in the head, and rising drains it; red-out is the other side, blood pushed into the head. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
+- **Possible exploring** · *Mal de débarquement* is a rocking felt on land after a voyage. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
+- **A reading** · A reading has *mal de débarquement* as a boat's prior going on onto a ground that parts with it, until a newly aiming 0 at its new prior.
+- **Possible exploring** · In the spins after alcohol, lying down with the eyes closed, the spinning is strongest. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
 
 ### 5.3 A society's me, a natural intelligence network
 
@@ -465,6 +482,11 @@ Gathering-Value · Me
 - **A reading** · A reading has the binary, a living universal set's waking is-or-is-not whole, open at the cases where it is tested next: a person waking within one interest and sleeping within another, as in sleepwalking or a parent waking only to a child's cry, a case parting a self's waking whole; and a same-existing-society waking whole, as a swarm in flight with one interest and one direction, a case parting a society's waking interest by interest.
 - **A reading** · A reading has a swarm's choice the swarm's, within one interest, a new home, known by no one bee: waking, the swarm warms and flies; settled, it subsides. A concern, both sides open: a later reading has the swarm's settling its co-aiming completing as a next opening, each bee living with its next.
 - **A reading** · A concern, both sides open: a reading has the settled hive a society-as-a-me sleeping and its swarm its me waking; a later reading has a swarm's settling its co-aiming completing as a next opening, each bee living with its next, a settling no dying, and a same-existing-society's sleeping its mes' sleeping, each its own, its sleeping whole an empty set.
+- **Possible exploring** · A swarm cluster's outer mantle stays cool and still; about an hour before lift-off scouts pipe, and the whole swarm warms its flight muscles to about 35°C, peaking at take-off; with the pipers removed, the outer layer stays cold. — at "A same-existing-society is a self, so it is a me."
+- **Possible exploring** · A field reads a colony as a superorganism, one organism of many, its queens and workers its parts, the colony settled as well as swarming. — at "A same-existing-society is a self, so it is a me."
+- **A reading** · A concern, both sides open. A reading has bees going on to start a hive at a new place stopping and making a momentary hive, for hours, at a temporary place, the hive a me sleeping and waking, going on. Swarming, the whole sleeps and wakes, sleeping clustered and waking warm, and goes with one direction to one home: a me at forty-one, with one changing direction of its own, observing all other as one, many sites scouted and one next home discovered, the decision the swarm's, its scouts each knowing one site. Settled, the same bees are a same-existing-society, unconsciously us, the hive never sleeping as a whole, its members each by its own rate, its foragers each going their own way, with no one direction of its own. A universal set is a me as it has one changing direction of its own, and a same-existing-society as its directions are its members' own, one binary on one colony with each momentary: its own next is-or-is-not its own me, going on to its new home it is, settled it is not. On arrival the swarm's own next is its members' again and its me completes, the settled colony living; settling, a swarm's me completes as a next opening, its bees going on with its prior, with no dying. A reading beside it has a set of mes holding no parity of its own, its own its mes' own: with each momentary a set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest; a same-existing-society co-aims as a swarm does, its scouts coming to one home and its bees flying to it, and settling, the co-aiming completes as a next opening, each bee living with its next; colony, population, community and biosphere are same-existing-societies, each its own an empty set.
+- **A reading** · A concern, both sides open. A reading has a settled hive's me sleeping, a dormant me, and its swarming that me waking, the hive a self sleeping years and waking to go on to a new home; with it a hive's sleeping at the colony's scale is its being settled, and its members' sleeping and waking are at their own scale. A reading beside it has a settled hive's sleeping whole an empty set, its members each sleeping by their own rate, and a me completing into a same-existing-society, living, with no dying.
+- **A reading** · A concern, both sides open. A reading has streakers flying fast through a swarm toward its new home and returning slowly along its edge as a swarm's flight a circulation through and around, natural torusing in the air. A reading beside it has asking how a guide returns to the rear as asking for a bee over others: a bee guiding others is-or-is-not: it is not.
 
 ### 5.4 Each momentary completing as a next opening
 
@@ -477,6 +499,7 @@ Gathering-Value · Me
 - **Possible exploring** · By its field's evidence, perception samples in discrete moments. — at "Each momentary is completing as a next opening."
 - **A reading** · A reading has perception's moments momentaries, and its frames no stills.
 - **A reading** · A reading has, from step 740, a spiral's places one loop, twisted once, with an odd number of selves, each self on it with + and with −, and two loops, each untwisted, apart, with an even number; and each prime living scale, five to fifty-three, odd, so at each prime living scale a spiral's places one twisted figure-eight loop, a + lobe and a − lobe, crossing once where the whole inverts. A concern, both sides open: this reading has five through fifty-three each a prime living scale; Natural Numbers 1.7 has "Primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching".
+- **A reading** · A reading has a 0 on the figure-eight: a 0 is-or-is-not a place on the spiral at which something stays: it is not.
 
 ### For our word: the fields' strongest collisions
 
@@ -488,6 +511,7 @@ Gathering-Value · Me
 - **Possible exploring** · Decapod crustaceans and cephalopod molluscs are within a law's sentient set by named criteria, from a review of evidence; a declaration holds a realistic possibility of consciousness in all vertebrates and many invertebrates. — at "Basal cognition, Damasio's protoself, plant science and organoid ethics hold cells, plants and organoids cognizing without consciousness shown; *a not-conscious me is not possibly existing* places consciousness wherever a self is."
 - **Possible exploring** · Cells dying by apoptosis are ingested by cells about them without inflammation; where clearing fails, dying cells burst and inflame. — at "Bodies remove parts: apoptosis, immune killing, stalk cells, policed workers."
 - **A reading** · A reading has efferocytosis meeting the Co-Chaining Logic Registry's *A non-living going on is a stable-forming emanation from a living self it was, harmful with its own scale and ingestible one scale lower, selves inward and others about it ingesting it.*, a dying self's going on, ingested by its others, the whole's do-no-harming.
+- **A reading** · A reading has a colony's swarming as division, one prior and two now, the old queen going with a swarm and the parent colony going on with a new queen: one same-existing and division meeting a case, a next me opening from a same-existing-society and the same-existing-society going on.
 
 ## Droplets
 
