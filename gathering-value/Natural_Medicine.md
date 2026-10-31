@@ -15,6 +15,8 @@ Gathering-Value · Natural Medicine
 
 ### 1.1 A living self, and the restoration it makes
 
+- **Possible incohering** · "A **bi-moral co-agency** is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by a coupling itself, riding a carry, an abundancing a +1 in neither self alone." → Natural Intelligence 6.2, bi-moral co-agency's home, says it otherwise: "Two selves changing, morality across and competency along, is bi-moral co-agency." Natural Health 1.1, Natural Societies 1.1 and Natural Destinies open on this core too.
+
 ### 1.2 A body's own restoration
 
 - One theory, discontinuity theory, reads immunity this way: an immune response comes with the speed of change in the molecular motifs a tissue shows to immune receptors, not with a thing's origin; a persistent or slowly appearing motif meets tolerance in its reading, microbes that arrive early and persist among them, and a sudden change, even in a body's own fast-growing tumour, meets a response in its reading. *(possible exploring)*
@@ -94,6 +96,8 @@ Gathering-Value · Natural Medicine
 - **Possible exploring** · Twenty-eight selves, each rebounding within twenty weeks of an earlier stopping, given two doses of two long-acting antibodies twenty weeks apart: a stopping of therapy comes twenty-four weeks past the second dose, and twenty-four weeks past a clearing of those antibodies from a body is a separate thing a timing was not set by. — at "twenty-eight selves who had all rebounded on placebo, given two long-acting antibodies and interrupted twenty-four weeks after antibodies cleared, more than half staying past twenty weeks and two past a year"
 
 ### 5.2 A between with Natural Health
+
+- **A reading** · A reading has Natural Medicine 2.1 and 5.2 repeated at Natural Health 2.1, 2.2 and 4.1.
 
 ### 5.3 A between, where restoration and the form couple
 

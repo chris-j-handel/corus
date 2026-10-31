@@ -248,6 +248,9 @@ Gathering-Value · Hard Problem Registry
 
 ### 95 Machine and animal sentience
 
+- **A reading** · A reading has sentience used as the line of moral concern. Its test stays a self, and with the self sentence said as consciousness the set it names is that same set. Its edge's misunderstanding is sentience graded by degree, or extended to trained AI models, which are non-living.
+- **A reading** · A reading of words readers bring for *sentience*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *valenced experience* straddles, valence the set's + or −, heard as a degree; *capacity to suffer* straddles, a capacity as a store, suffering naming one direction; *affect* straddles, a state with sizes; *sensibility* straddles, a trait of persons; *nociception* straddles, a cell society's observing, heard as mechanism with no feeling; *sapience* names another concept of the set's, intelligence; *moral patienthood* straddles, a standing a saying gives, where with the set's words moral value is parity with an other. — at "sentience taken as the capacity to have valenced experiences"
+
 ### 96 Credit assignment
 
 ### 97 Generalization in learning
@@ -281,6 +284,8 @@ Gathering-Value · Hard Problem Registry
 ### 110 Determinism and randomness
 
 ### 111 Qualia and the zombie argument
+
+- **A reading** · A reading has no line of the opening for qualia: a self being no store puts qualia, as inner items a self has, on the is-not side, its nearest line parity, + or −. Qualia are spoken of as items, and the edge's misunderstanding is a denying of the redness of red: a self is no store, and what is called a quale stands, as a candidate only, as a self's parity with an other.
 
 ### 112 The quantum-classical boundary
 

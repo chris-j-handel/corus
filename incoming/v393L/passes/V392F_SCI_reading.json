@@ -1,0 +1,148 @@
+{
+ "corrections": [
+  {
+   "from": "Possible project · v386EOD · \"**Possible project · Natural Health and Natural Me",
+   "finding": "a value lost: the source's finding that Natural Health 2.1, 2.2 and 4.1 repeat Natural Medicine 2.1 and 5.2, two living files saying one thing twice, is held nowhere; Natural Health 4.1's seam sentence and Living File Registry 5.3's sentence hold health and medicine as one changing, not the repeating, and the repeating is a value for both files' gathering-values, not an inventory of our files",
+   "fixed": [
+    {
+     "section": "4.1 Health and Medicine are one changing and changing back, two directions, the seam stateable only from both",
+     "kind": "reading",
+     "text": "A reading has Natural Health 2.1, 2.2 and 4.1 repeating Natural Medicine 2.1 and 5.2.",
+     "from": "Possible project · v386EOD · \"**Possible project · Natural Health and Natural Me",
+     "file": "Natural Health"
+    },
+    {
+     "file": "Natural Medicine",
+     "section": "5.2 A between with Natural Health",
+     "kind": "reading",
+     "text": "A reading has Natural Medicine 2.1 and 5.2 repeated at Natural Health 2.1, 2.2 and 4.1.",
+     "from": "Possible project · v386EOD · \"**Possible project · Natural Health and Natural Me"
+    },
+    {
+     "from": "Possible project · v386EOD · \"**Possible project · Natural Health and Natural Me",
+     "why": "plan for work, a combining of two files releasing one number; its value, health and medicine one changing with a seam stateable from both, held at Natural Health 4.1 Health and Medicine are one changing and changing back, two directions, the seam stateable only from both: \"Health has living, Medicine has restoration, and a seam between them is one mechanism, no division of labour\"; and held at Living File Registry 5.3 Combining and separating at carrying: \"Health and Medicine are living continuing and restoring.\"; its finding that Natural Health 2.1, 2.2 and 4.1 repeat Natural Medicine 2.1 and 5.2 gathered as a reading at Natural Health 4.1 and at Natural Medicine 5.2"
+    }
+   ]
+  },
+  {
+   "from": "Possible project · v386EOD · \"**Possible project · Natural Health and Natural Me",
+   "finding": "unchanged; given because another entry sharing this from is corrected",
+   "fixed": {
+    "from": "Possible project · v386EOD · \"**Possible project · Natural Health and Natural Me",
+    "why": "plan for work, a combining of two files, with plans named in it; its value; held at Natural Health 4.1 Health and Medicine are one changing and changing back, two directions, the seam stateable only from both: \"Health has living, Medicine has restoration, and a seam between them is one mechanism, no division of labour\""
+   }
+  },
+  {
+   "from": "**Set-wide, not this file's own:** *membrane* 79, *itself* 24, *couple* 10, *cou",
+   "finding": "a value lost: Natural Medicine 1.1's copy of the bi-moral co-agency core (:87), which Natural Intelligence 6.2 says otherwise, is held only through other files' items: Natural Societies' item meets Natural Societies' own sentence, and Natural Health's meets Natural Health's; Natural Medicine's gathering-value holds nothing at 1.1, so Medicine's sentence goes with no item of its own",
+   "fixed": [
+    {
+     "file": "Natural Medicine",
+     "section": "1.1 A living self, and the restoration it makes",
+     "kind": "incohering",
+     "sentence": "A **bi-moral co-agency** is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by a coupling itself, riding a carry, an abundancing a +1 in neither self alone.",
+     "text": "Natural Intelligence 6.2, bi-moral co-agency's home, says it otherwise: \"Two selves changing, morality across and competency along, is bi-moral co-agency.\" Natural Health 1.1, Natural Societies 1.1 and Natural Destinies open on this core too.",
+     "from": "**Set-wide, not this file's own:** *membrane* 79, *itself* 24, *couple* 10, *cou"
+    },
+    {
+     "from": "**Set-wide, not this file's own:** *membrane* 79, *itself* 24, *couple* 10, *cou",
+     "why": "counts of words in our files, pointers to items laid at several files, and decided items; Natural Medicine 1.1's copy of the core gathered at Natural Medicine 1.1; the placenta held at gathering-value/Natural_Medicine.md Head, the whole file: \"A pregnancy is two selves bi-coupling across a placenta, apart from a self tolerating a non-self\"; and a me's inward society at Me"
+    }
+   ]
+  },
+  {
+   "from": "**The branch `origin/working/chemistry-water-20261022`, its offerings:** 197 lin",
+   "finding": "said untruly: the 61 droplets are not gathered at their own slice nor at the earlier water pass, which gathered only the chemistry-water report; they sit at incoming/v392chem and are gathered at a later pass, so the leaving says that, and what the inventory says of them, each offered as a candidate correspondence with the natural correspondence open and the concern that each same-existing claim identify what carries through, goes with them there and is not lost",
+   "fixed": {
+    "from": "**The branch `origin/working/chemistry-water-20261022`, its offerings:** 197 lin",
+    "why": "inventory and sources of a working branch's offerings: counts of droplets, bytes, words, DOIs and links, themes by section and by publishing, its pointings and its text's differences from `main`; the 61 droplets themselves sit at incoming/v392chem and are gathered at a later pass, each whole there with its standing as a candidate correspondence, the natural correspondence open, and the concern among them that each same-existing claim identify what carries through; none is gathered here or at the earlier water pass, which gathered the chemistry-water report alone; the water pair the droplets name, from that report, held at gathering-value/Natural_Chemistry.md 1.2 Bi-moralizing co-agency, and a bi-coupling its first coupling at the chemical substrate: \"On a copper surface at 6 K, two separate waters form a pair after a 54 mV scan\""
+   }
+  },
+  {
+   "from": "Aimed · v383Op · \"**Aimed at a sentence, Natural Physics, *nothing passes betwee",
+   "finding": "held claimed where the quoted item says the run otherwise: the 4.4 item holding S at 2 at most at 248,832 choices says \"a run at current resolver returning this\", and two_wings.py, which reads the newest Exhibit ONE at the root, stops at Exhibit ONE v391 with KeyError '_1_co_bi_tri_offering'; its return is its code's at Exhibit ONE v380R, where it returns its kept output byte for byte; the run said in a leaving alone is lost, so it goes as an item beside the item it parts from",
+   "fixed": [
+    {
+     "section": "4.4 Measurement and Bell's correlations, one coupling at two faces",
+     "kind": "exploring",
+     "sentence": "Tighter-than-local correlation is exactly a thing one coupling with two sides about a self-stabilizing neutral is, and not possibly existing for two objects with anything between them: a local-hidden-variable account had to fail.",
+     "text": "Run again, two_wings.py, which reads the newest Exhibit ONE at the root, stops at Exhibit ONE v391 with KeyError '_1_co_bi_tri_offering', that function at no line of the current resolver. Run at Exhibit ONE v380R, the Exhibit ONE its kept return names, it returns its kept return byte for byte: \"choices tried: 248832; highest S at any of them: 2\", beside the field's bound of 2 and the field's observing of 2.42 +/- 0.20. S at 2 at most at 248,832 choices is that code's return at Exhibit ONE v380R, and no run at current resolver returns it.",
+     "from": "Aimed · v383Op · \"**Aimed at a sentence, Natural Physics, *nothing passes betwee"
+    },
+    {
+     "from": "Aimed · v383Op · \"**Aimed at a sentence, Natural Physics, *nothing passes betwee",
+     "why": "record of an aimed-at item, a concern and a droplet with line pointers, and a code claim; the values; held at gathering-value/Natural_Physics.md 4.4 Measurement and Bell's correlations, one coupling at two faces: \"are a correspondence at a numeral, 23, which no observing meets, released at an earlier proposal with no reason recorded.\"; held at gathering-value/Natural_Physics.md 4.4 Measurement and Bell's correlations, one coupling at two faces: \"Two sayings part at the clicks' statistics: this sentence takes the field's exclusion as form's proof\"; held at gathering-value/Natural_Physics.md 4.4 Measurement and Bell's correlations, one coupling at two faces: \"give S at 2 at most at each of 248,832 choices\"; the run, said as two_wings.py's own at Exhibit ONE v380R and parting from that item's \"a run at current resolver returning this\", gathered at 4.4"
+    }
+   ]
+  },
+  {
+   "from": "Concerns · v386EOD · the numeral family: \"**Concern · One hundred twenty degrees",
+   "finding": "held claimed where the quoted item holds a different value: the table's last element concern (:207, element 118 beside Natural Numbers' one hundred eighteen at a numeral) is quoted at 3.1's ring-and-spiral item, while 3.1's own item \"Two sayings part at the table's last element\" holds it; and a value lost: the largest-scale concern is pointed at 5.7's title (:555, \"Accounting at the largest scale\"), and the 4.8 item names 4.8's, 4.9's and 4.11's largest scale and not 5.7's title, a largest scale beside no final scale there held in part",
+   "fixed": [
+    {
+     "section": "5.7 Accounting at the largest scale, and a mass band fixing empty",
+     "kind": "incohering",
+     "sentence": "Accounting at the largest scale, and a mass band fixing empty",
+     "text": "Two sayings part at a top, as at 4.8: this title and this section's \"Ledger with a largest scale\" name a largest scale, beside no final scale. Offered, as at 4.8: each largest scale re-said as one scale outward among others; or kept as a field's largest observed scale.",
+     "from": "Concerns · v386EOD · the numeral family: \"**Concern · One hundred twenty degrees"
+    },
+    {
+     "from": "Concerns · v386EOD · the numeral family: \"**Concern · One hundred twenty degrees",
+     "why": "record of seven concerns with line pointers; the values; held at gathering-value/Natural_Physics.md 3.2 Superheavy elements, observing three magic centres as one three-fold: \"Two sayings part at the numeral 120\"; held at gathering-value/Natural_Physics.md 3.4 Light-cone, two cones through one vertex: \"Two sayings part at the identity as a joining\"; held at gathering-value/Natural_Physics.md 3.1 An atom a stable form, and periodic table its catalog: \"Two sayings part at the table's last element\"; held at gathering-value/Natural_Physics.md 3.1 An atom a stable form, and periodic table its catalog: \"Two sayings part at sixty\"; held at gathering-value/Natural_Physics.md 3.6 A fault, two selves at a seam: \"Two sayings part at prime\"; held in part at gathering-value/Natural_Physics.md 4.8 Time, five problems at one fixing: \"Two sayings part at a top\", 5.7's title gathered at 5.7; held at gathering-value/Natural_Physics.md 4.8 Time, five problems at one fixing: \"Two sayings part at three of the four\""
+    }
+   ]
+  },
+  {
+   "from": "**Stale:** the three v374/v376 incomings (offerings:9–23) and the v379 openings ",
+   "finding": "the run said in part and its code's return lost: resolver_crossings.py, which reads the newest Exhibit ONE at the root, stops at Exhibit ONE v391, and run at Exhibit ONE v376, the Exhibit ONE of its exploring, it returns its kept output byte for byte; the Natural Physics droplets on its trace say \"its output at current resolver is its earlier output unchanged\" and \"a run at current resolver returning this unchanged\", which the run parts from, so the run goes as an item beside them",
+   "fixed": [
+    {
+     "file": "Natural Physics",
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "exploring",
+     "text": "Run again, resolver_crossings.py, which reads the newest Exhibit ONE at the root, its links setting connectors 10 and 6 along a chain of selves with 9 unjoined, stops at Exhibit ONE v391 with KeyError '_17_tri_co_offering', that function at no line of the current resolver. Run at Exhibit ONE v376, the Exhibit ONE of its exploring, it returns its kept return byte for byte. Its trace is that code's return at Exhibit ONE v376, and no run at current resolver returns it.",
+     "from": "**Stale:** the three v374/v376 incomings (offerings:9–23) and the v379 openings "
+    },
+    {
+     "from": "**Stale:** the three v374/v376 incomings (offerings:9–23) and the v379 openings ",
+     "why": "history and pointers: an older code's setting, older quotes and section numbers; the run of resolver_crossings.py, said as its code's at Exhibit ONE v376, gathered at Droplets"
+    }
+   ]
+  },
+  {
+   "from": "**Possibling's next:** \"No separate project work gathered here yet.\" · \"Two dist",
+   "finding": "a value lost: the possibling's \"no observing shows the place of that between\", two distant selves at one between still-possibling, is held at no item; the 4.4 observings hold the clicks and not the between's place",
+   "fixed": [
+    {
+     "section": "4.4 Measurement and Bell's correlations, one coupling at two faces",
+     "kind": "reading",
+     "text": "A reading has two distant selves at one between still-possibling: no observing shows the place of that between.",
+     "from": "**Possibling's next:** \"No separate project work gathered here yet.\" · \"Two dist"
+    },
+    {
+     "from": "**Possibling's next:** \"No separate project work gathered here yet.\" · \"Two dist",
+     "why": "plans for work quoted from an older possibling file with line pointers; its observings; held at gathering-value/Natural_Physics.md 4.4 Measurement and Bell's correlations, one coupling at two faces: \"Two electron spins 1.3 kilometres apart click past it with the detection and locality loopholes closed together.\"; held at gathering-value/Natural_Physics.md 4.9 A black hole and a cosmic background, one torus at two faces: \"At an analogue black hole in an atomic Bose–Einstein condensate, spontaneous radiation is observed\"; and the things beside all held at gathering-value/Natural_Physics.md 3.3 Light, a phase relation between couplings: \"*Six's 30°\"; held at gathering-value/Natural_Physics.md 3.7 A ratio holding across units, and drying rings anyone can check: \"A periodicity of every floating co-agency is-or-is-not a fixing from beside, a common beat\"; held at gathering-value/Natural_Physics.md 3.1 An atom a stable form, and periodic table its catalog: \"An octet as an eight its books balance to is-or-is-not a fixing from beside, a total\"; held at gathering-value/Natural_Physics.md 4.2 Gravity, a conservation accounting with no coupling under it: \"A gravitational scale with no coupling under its accounting is-or-is-not a fixing from beside, a scale with no coupling\"; and two distant selves at one between gathered as a reading at 4.4"
+    }
+   ]
+  },
+  {
+   "from": "**Set-wide, not this file's own:** *itself* 37, *couple* 8, *couples* 10, bare *",
+   "finding": "a value lost: 1.1's core (:157) is the core four files share, said in this file's own words, a finding about living files saying one thing at several files and a value for this file's gathering-value; the leaving lets it go as a comparison of our files",
+   "fixed": [
+    {
+     "file": "Natural Philosophy",
+     "section": "1.1 Core, bi-moral co-agency and philosophical dilemma",
+     "kind": "reading",
+     "text": "A reading has 1.1's core, \"Bi-moral co-agency is a coupling.\", the core Natural Health, Natural Medicine, Natural Societies and Natural Destinies open on, said in this file's own words.",
+     "from": "**Set-wide, not this file's own:** *itself* 37, *couple* 8, *couples* 10, bare *"
+    },
+    {
+     "from": "**Set-wide, not this file's own:** *itself* 37, *couple* 8, *couples* 10, bare *",
+     "why": "counts of words in our files, plans of an older version, distribution pointers and a count of a phrase in our files; *surplus*; held at Natural Naming 2.4 Released words, each with its saying: \"*surplus*, *surplusing*\"; *riding its carry* held at gathering-value/Natural_Naming.md 2.4 Released words, each with its saying: \"*substrate*, *a carry*, *riding its carry*\"; and personal identity at Me; and the core said in this file's own words gathered as a reading at 1.1"
+    }
+   ]
+  }
+ ],
+ "checked": 120
+}

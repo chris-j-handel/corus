@@ -12,6 +12,8 @@ Gathering-Value · Natural Philosophy
 
 ### 1.1 Core, bi-moral co-agency and philosophical dilemma
 
+- **A reading** · A reading has 1.1's core, "Bi-moral co-agency is a coupling.", the core Natural Health, Natural Medicine, Natural Societies and Natural Destinies open on, said in this file's own words.
+
 ### 1.2 A position, a dilemma, and the six run one-way
 
 - **Possible incohering** · "Each cycle is six, three phases each two ways, one at a time, a sharing way and a taking way, both sides parting, a surface between them with only a sign, changing and changing back across that surface making both triples one coupling riding-its-going-on." → This sentence's six, three phases each two ways, a sharing way and a taking way, with hard-probleming a six *running one-way*, part from Natural Resolver's six names between selves, 2, 6, 10 and 14 across and 9 and 17 along, a sharing end and an observing end, with hard-probleming as ten unchangeables. One side re-says 1.2's six whole, its contents line, its title and this paragraph, as those six names, *running one-way* as the ten unchangeables, the binary at each of the six one of Natural Resolver's seventeen names or a name of an older resolver; the other releases the six.
@@ -35,9 +37,16 @@ Gathering-Value · Natural Philosophy
 
 ### 3.2 Mind and body
 
+- **A reading** · A reading of words readers bring for *mind*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *psyche* straddles, a store inward; *brain* straddles, an organ, one scale of a self; *intellect* straddles, a capacity; *mental model* names its is-not side, a representation a self has as a store; *soul* straddles, fixing apart; *cognition* straddles, processing; *res cogitans* names its is-not side, a thinking thing apart from the body; *ghost in the machine* names its is-not side, a name for that apartness, and the set's own *ghost* is a separate naming; *extended mind* straddles, near a self as a same-existing-society inward and outward, heard as a store reaching into notebooks; *nous* straddles, intellect, or an order of things. — at "Mind and body are two sides of one self-bounding, inward and outward of one surface, reaching from within and reaching on its bounding."
+
 ### 3.3 Free will and determinism
 
 ### 3.4 Subject and object
+
+- **A reading** · A reading has *phenomenal* splitting the world into appearance and thing, and its edge's misunderstanding is a self meeting appearances while the thing hides behind them: a self observes the other's prior-existing.
+- **A reading** · A reading has *subject* pairing with *object*, the object heard as non-living, and its edge's misunderstanding is subjectivity as an inward set against an outward: an other can be a self, an other self.
+- **A reading** · A reading of words readers bring for *phenomenal*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *phenomenon*, in a philosophical sense, straddles, an appearing to a mind with a thing-in-itself behind, a second thing; *appearance* straddles, heard as a surface hiding a thing; *phenomenal concept* names its is-not side, a concept as a store; *phenomenal* as remarkable names another sense, everyday praise. — at "Appearance and reality are two frames on one form"
+- **A reading** · A reading of words readers bring for *subjectivity*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *first person* names its is side, that self; *I* names its is side, that self, spoken; *point of view* straddles, a place beside; *perspective* straddles, a view from a place; *interiority* names its is-not side, an inward fixing as a store; *the subjective*, as unreliable, straddles, opinion set against fact; *observer* straddles, set apart from what it observes. — at "Subject and object are two sides of one coupling, an observer and what it observes coupling, knowing its coupling itself."
 
 ### 3.5 The one and the many
 
@@ -66,6 +75,8 @@ Gathering-Value · Natural Philosophy
 ### 3.8 Meaning and use
 
 - **Possible incohering** · "Meaning lives with selves having it and fixes on no between." → A re-saying offered beside this sentence: meaning is a bi-coupling's +1, the +1 of phi² = phi + 1, its rate claims left out; the other side stands the claim whole at Natural Intelligence Corus, its numerical, directional and rate assignments still-possibling.
+- **A reading** · A reading has no line of the opening for meaning, its nearest lines parity, a direction with an other, and writing's emanations being non-living. Meaning is heard as lodged in words, or in heads, and its edge's misunderstanding is a text, or a trained model, with meaning in it: a text is a stable-forming emanation of living people's writing.
+- **A reading** · A reading of words readers bring for *meaning*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *sense*, in a philosophy of language, straddles, a mode of presenting, as a store; *reference* straddles, a relation beside; *definition* names its is-not side, a saying; *significance* straddles, a size or a direction; *purpose* straddles, a next fixing beside; *use*, in a philosophy of language, straddles, close, meaning in a society's doing, heard as a rule; *semantics* straddles, a theory of sayings. — at "Meaning lives with selves having it and fixes on no between."
 
 ### 3.9 Cause and effect
 
@@ -129,6 +140,10 @@ Gathering-Value · Natural Philosophy
 
 ### 3.32 The felt and its describing
 
+- **A reading** · A reading has no line of the opening for *phenomenal*, its nearest line experience's candidate, a self's momentary.
+- **A reading** · A reading has no line of the opening for *what-it-is-like*, its nearest line parity, a direction with an other. The phrase sets a fact within each creature that only it reaches, and its edge's misunderstanding is *like* naming an inner item.
+- **A reading** · A reading of words readers bring for *what-it-is-like*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *something it is like to be* straddles, a fact of each creature, heard as hidden inward; *phenomenal character* straddles, a character as a store; *qualitative feel* straddles, an item; *point of view* names another concept, subjectivity; *empathy* straddles, reaching another's, near bi-coupling.
+
 ### 3.33 Self and other
 
 - **Possible incohering** · "Fitness effects arise with couplings, and two bookkeepings both count them." → This sentence's *count* is a counting at this file's own voice, and Natural Naming says a count by the numbers themselves, a field's counting whole with its result. One side re-says it by the numbers themselves; the other stands *both count them* as two accountings' own counting, whole with their result.
@@ -165,6 +180,9 @@ Gathering-Value · Natural Philosophy
 ### 5.3 Epistemology
 
 ### 5.4 Mind
+
+- **A reading** · A reading: consciousness is, in common use, rare, a mark of brains, of mammals, of humans. With the self sentence said as consciousness, each self is conscious at its scale, and panpsychism is heard in it. Its edge's misunderstanding is consciousness, so said, belonging to each thing: it belongs to each self, and a rock, a flame, a running computer, a trained AI model and the universe are each a stable-forming emanation, on the is-not side.
+- **A reading** · A reading of words readers bring for *qualia*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *raw feels* straddles, a self's own, or items as a store; *phenomenal properties* names its is-not side, properties as a store; *sense data* names its is-not side, items between self and world, a record beside; *secondary qualities* straddles, powers in things, heard as items in the mind; *subjective character* straddles, of that self, heard as an item; *mental paint* names its is-not side, a layer as a store; *the redness of red* straddles, an example heard as an item. — at "experience / function (qualia)"
 
 ### 5.5 Ethics
 
