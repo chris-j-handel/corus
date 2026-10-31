@@ -17,6 +17,7 @@ Gathering-Value · Natural Mathematics
 ### 1.4 Three neutrals each self has on itself
 
 - **Possible incohering** · "**A neutral fixing outward of a self is a floor, an other's**: other-bounding, a zero an other installs under a self; other-surfacing, a unit an other imposes on it; other-orienting, a frame an other sets over it." → *Floor* is a word Natural Naming releases, with nothing on anything, and it names a neutral fixing outward of a self at seven places, here and at 3.1, 3.2, 4.5 and 7.2; Natural Naming gives no word for a neutral fixing. Offered beside it: one word Natural Naming gives for a neutral fixing stands in *floor*'s place at each of the seven.
+- **A reading** · A reading has the conjoined union of twins as bi-tunneling, a bounded zeroing through the twins' shared same-existing-society, at the opposing halves' union and at the reversed laterality of side-by-side unions.
 
 ### 1.5 A mathematical form at its prefixing, its ending and its place
 
