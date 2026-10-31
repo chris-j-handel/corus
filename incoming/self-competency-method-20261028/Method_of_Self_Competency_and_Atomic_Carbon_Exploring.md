@@ -1841,3 +1841,13 @@ Fischbach (1961), Table I, reports an approximately elevenfold difference betwee
 Semenenko and Esquinazi (2018), Figure 3, also report reproducible angular variation of the turning force in a fixed-strength field. Source: https://www.mdpi.com/2312-7481/4/4/52.
 
 The useful question for the expedition is whether a measured changing concerns an individual connector, a collective arrangement, or the measuring apparatus. The available graphite findings support an arrangement-dependent physical response. They neither demonstrate living self-competency nor support the absence of magnetic response. Orientation changes the measured response; it does not change the specimen's classification as nonliving.
+
+## Selecting explanatory value: alignment with continuing turnings
+
+Further contributions should retain suggestions for their explanatory value or for identifying a specific mismatch with natural torusing, rather than automatically preserve each suggestion as a commitment. Previous entries remain a record of exploration, not requirements to defend.
+
+Nguyen and colleagues (2016) record individual coated graphite flakes in water. A magnetic field aligns their planes while leaving rotation around its direction available. An additional perpendicular electric field confines that rotation. Small angular fluctuations continue. Source: https://pubs.rsc.org/en/content/articlehtml/2016/ra/c6ra07657b, DOI 10.1039/C6RA07657B, Figures 4 and 5. The article was read; its supplementary videos were not viewed.
+
+The proposed comparison to natural torusing is persistent alignment with continuing small changes. Stable-forming should be compared with persistence of a specified relation, rather than identified with the absence of every changing.
+
+A particular mapping would break if it required a maintained alignment to contain no angular changing. A mapping that allows changing within a persistent relation remains open. Neither conclusion establishes the full natural-torusing sequence. Two perpendicular fields do not by themselves supply the proposed alternating parities, and an observed reversal of turning is not automatically a parity assignment. The valuable next distinction is between recorded changes and the specific sequence predicted by a proposed correspondence.
