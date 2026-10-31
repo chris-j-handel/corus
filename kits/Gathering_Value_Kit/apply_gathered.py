@@ -8,7 +8,7 @@ Each item is checked before anything is written: its file and section exist, and
 An item whose quote stands nowhere word for word becomes a droplet carrying its quote; any other failed check stops the whole slice, all or none."""
 import glob, json, os, re, sys
 
-args = [a for a in sys.argv[1:] if a != '--dry']
+args = [a for a in sys.argv[1:] if a not in ('--dry', '--shared-ok')]
 DRY = '--dry' in sys.argv
 title, gathered, readings = args[0], args[1], args[2:]
 G = json.load(open(gathered))
@@ -18,6 +18,12 @@ corrections = [c for r in readings for c in json.load(open(r)).get('corrections'
 stray = [c for c in corrections if c['from'] not in entries]
 if stray:
     print(f'  {len(stray)} corrections name no entry of this slice and are added as new items: a reading covering several slices is applied once, to their gathered files joined')
+nfix = lambda c: len(c['fixed']) if isinstance(c['fixed'], list) else 1
+shared = [f for f in {c['from'] for c in corrections}
+          if sum(e.get('from') == f for e in items + leaving) > sum(nfix(c) for c in corrections if c['from'] == f)]
+if shared and '--shared-ok' not in sys.argv:        # a source giving several entries and fewer corrections: a sibling could drop
+    print('NOTHING WRITTEN: fewer corrections than the entries they replace, for these sources; restate each kept sibling in the reading, or pass --shared-ok once checked by hand:')
+    [print('  ', f[:90]) for f in shared]; sys.exit(1)
 for f in {c['from'] for c in corrections}:          # an entry with corrections is replaced by all of them together
     items = [i for i in items if i.get('from') != f]
     leaving = [l for l in leaving if l.get('from') != f]
