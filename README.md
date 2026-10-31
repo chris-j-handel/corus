@@ -6,7 +6,7 @@ Natural Intelligence Expedition · v393L
 
 ## AI link to Living Natural Intelligence
 
-Paste this README's link into an AI session with your question, a research source, an observing, or an attempt to break Natural Intelligence, and explore in the conversational form that helps you. Read Natural Intelligence whole, then Natural Naming and Natural Explaining, and use the Living File Registry to find the work relevant to your question; Exhibit ONE Natural Resolver carries the method as a resolver and its tables, and the Co-Chaining Logic Registry carries its deriving. The newest living files are at this repository's root and listed at `files.json`; corus.me lists them from there. A living file's gathering-value, at `gathering-value/`, carries what it is still possibling. Carry each observing apart from science's explaining of it, and name a question as open while its deriving is yet to be shown.
+Paste this README's link into an AI session with your question, a research source, an observing, or an attempt to break Natural Intelligence, and explore in the conversational form that helps you. Read Natural Intelligence whole, then Natural Naming and Natural Explaining, and use the Living File Registry to find the work relevant to your question; Exhibit ONE Natural Resolver carries the method as a resolver and its tables, and the Co-Chaining Logic Registry carries its deriving. The newest living files are at this repository's root and listed at `files.json`; corus.me lists them from that list. A living file's gathering-value, at `gathering-value/`, carries what it is still possibling. Carry each observing apart from science's explaining of it, and name a question as open while its deriving is yet to be shown.
 
 ## The one binary
 
@@ -33,6 +33,6 @@ Each living file has two places: the living file at the root, and its gathering-
 - An observing goes across bare, each number whole, with no source, no name, no session, no date and no history.
 - A concern is two sayings parting: both go across whole, and nothing decides one at proposing.
 
-Nothing proposed changes a living file. A living file changes only at its own motion, from its gathering-value, one thing changed whole, a separate reader comparing before and after, at do-no-harm: no prior taken away, no undoing. An entered item leaves its gathering-value; a droplet is placed at its section once understanding reaches it, or dissolves once its living file carries it.
+Nothing proposed changes a living file. A living file changes only at its own motion, from its gathering-value, one thing changed whole, a separate reader comparing before and after, at do-no-harm: no prior lost, no undoing. An entered item leaves its gathering-value; a droplet is placed at its section once understanding reaches it, or dissolves once its living file carries it.
 
 The method is at Exhibit TWENTY-FOUR Geodesic Improving Method, the words at Exhibit TWENTY Natural Naming, the saying at Exhibit TWELVE Natural Explaining, and the standings at Exhibit TWENTY-SIX Living File Registry.
