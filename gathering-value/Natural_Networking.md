@@ -173,6 +173,7 @@ Gathering-Value · Natural Networking
 
 - **Possible exploring** · Removing the zeros from an indexed record is an inspecting of a representation, and a self observing through its own bi-coupling, its prior going on, its receiving from its other and its sharing onward, is the observing a network study is still to construct. — at "So an observing apart from surface has no position."
 - Two crews digging toward each other through rock orient their last cubits by each other's sharing across the rock: a man's voice through it, in the Siloam inscription's account of Hezekiah's tunnel, and at Eupalinos, in one reading among three, each crew hearing the other's hammering and turning with it (Natural Exploring's gathering at 6.1). A coupling with an other is observing itself, the third observing of no position, and no probe from outside. *(possible exploring)*
+- **A reading** · A reading: an exploring of a resolver network's social moral competency opening as software, a hard problem, code to probe it, and more hard problems from the probe's own record and more code for them, follows the probe's record and no orienting the network has; a geodesic exploring of a parity surface goes from inside its surface, its orienting to parity enough, and code following hard problems to further hard problems reaches none of it.
 
 ### 6.10 Parity at the chain's centre, and two instruments of unlike length two objects
 

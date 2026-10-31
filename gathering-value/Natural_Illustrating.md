@@ -18,6 +18,8 @@ Gathering-Value · Natural Illustrating
 
 ### 1.2 A still and a motion
 
+- **A reading** · A reading of a direction: the navigating observings, each a five-dimensional, two-directional navigating, gather as illustrations like a nature movie, with nature's own intelligence, explaining nature's me.
+
 ### 1.3 Prior, now and next, making better and breaking
 
 ### 1.4 Self-bounding, self-orienting, self-competent
@@ -169,3 +171,5 @@ Gathering-Value · Natural Illustrating
 - The current diamond has rows 1; 8 and 2; 7, 5 and 3; 6 and 4; and 9, placing 5 at its centre and 1 at its forward point. *(possible exploring)*
 
 - A whole nine-dot diamond, a drawing and is-not a carbon atom, moving with no internal changing needs encounters with other now-existing things for the observing a proposal names, motion alone being no resolving. *(possible exploring)*
+- This gathering's squid drawing says *the squid venting some 90 percent at each dawn, the remaining tenth re-forming the society before the next night*; the later saying: at each dawn the squid vents some 90 to 95 percent of its bacteria, and the remaining 5 to 10 percent re-form the society before the next night, the glow matching the light above one parity among the many a squid and its bacteria are co-competencing, a dawn's venting and the bacteria's own density among them. The drawing is-or-is-not re-drawn at these numbers. *(possible incohering)*
+- This gathering's spider drawing says *three binaries drawing eight directions*; the later saying: eight legs are two sides across and four legs along each side, two times four being eight, and is-not three binaries, each leg with its partner across, the spider turning toward the legs a vibration reaches first or reaches with larger amplitude. The drawing is-or-is-not re-drawn as two sides by four along. *(possible incohering)*

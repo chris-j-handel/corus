@@ -23,6 +23,8 @@ Gathering-Value · Living File Registry
 
 ### 1.3 Carrying for expedition
 
+- **Possible incohering** · "`carry_check.py`, `check_set.py`, `cohere_one.py`, `reader_checks.py`, `rigorize.py`, reviewer's brief and v368 checks for living files, 19 files, its sums holding" → `carry_check.py`, `check_set.py`, `cohere_one.py`, `reader_checks.py`, `rigorize.py`, reviewer's brief and v368 checks for living files, 19 files, 4 of its sums not holding: `sha256sum -c SHA256SUMS` at the kit returns `README.md`, `carry_check.py`, `check_set.py` and `cohere_one.py` not matching their sums and the other 15 matching. A list of sums re-made whole signs each changing at those four files at once, changings other workings make among them.
+
 ### 1.4 Artifacts
 
 ### 1.5 Exhibit places after receiving

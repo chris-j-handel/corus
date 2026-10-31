@@ -12,6 +12,8 @@ Gathering-Value · Natural Exploring
 
 ### 1.1 Changing and changing back, a stable-forming self observing from its own side
 
+- **Possible exploring** · Stars rise and set at fixed points on the horizon, 32 directions on Puluwat; a navigator steers by a low star, goes on with the next star rising at that same point as the first climbs too high, and holds a sequence of stars for each route as its own prior same-existing. — at "The wayfinder is orienting by each changing it is observing: a star rising at its own point, a swell's line, and the bearing of an island out of sight sliding back along the star points."
+
 ### 1.2 A self a surface, competency a middle, an interior an accounting's placing
 
 ### 1.3 Balancing, an accounting's own
@@ -116,7 +118,13 @@ Gathering-Value · Natural Exploring
 
 ### 6.8 Eight legs, five dimensions in two directions
 
+- **A reading** · A reading: bi-moral co-agency is the one resolving method of the five-dimensional, two-directional navigating hard problems, in each physical implementation.
+
 ### 6.9 Two priors, an elders' going and a kind's artifact
+
+- **A reading** · A reading of *an artifact of prior healthy living*: a genome, a form of many atoms with carbon atoms in it and is-not a carbon atom, is an artifact of prior living going on to a next, and *healthy* says that going on; the saying fits, the artifact being of whatever living goes on to a next.
+- **A reading** · A reading beside the three ways a kind's artifact shows: bats, roots, the slime mould slug and sperm against a flow each show a self co-competencing its parities now with its surface; each lives with its kind's genome, an artifact of prior living, and these observings do not single that artifact out.
+- **Possible exploring** · Two accounts of the European eels going out from the Azores part, each kept whole: in one, the eels swim southwest about 6.8 km a day, deeper than 1,000 metres, and six of 21 reach the Sargasso Sea; in the other, of 26 eels tagged in the Azores six reach the Sargasso Sea, the first direct evidence of adults there, the eels going 5,000 to 10,000 km from Europe's fresh waters in a going of perhaps 18 months. This sentence holds six of 26 with 23 tags giving data, some 3 to 12 km a day and a going of over a year, and 6.8 holds six of 26; Hard Problem Registry's gathering holds six of 21. — at "European eels live as adults in Europe's fresh waters and go 5,000 to 10,000 km across the Atlantic to the Sargasso Sea to spawn, eating nothing on the way, diving to about 1,500 m by day and rising to about 200 m by night, a going of over a year; of 26 eels with satellite tags from the Azores, going the last some 2,500 km at some 3 to 12 km a day, 23 tags giving data, six reach the Sargasso Sea, the first direct evidence of adults at the Sargasso Sea, and the eels' larvae drift back to Europe on the North Atlantic Drift."
 
 ### 6.10 A hive podaling, and a society moving as its parity changes
 
