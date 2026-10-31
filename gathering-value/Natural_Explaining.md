@@ -146,6 +146,8 @@ Gathering-Value · Natural Explaining
 
 ### 4.7 Two tellings at one thing, uniting only at one deriving from the other
 
+- **A reading** · A reading, offered with a proposed method of self-competency: a reducing binary logical sequence and a natural explaining are two expressions of the one proposed method, the sequence giving the qualifying relations and the explaining opening those same relations, each condition of the sequence going on in the explaining; a shorter sentence is a reduction only with each condition going on with it, and neither expression supplies a missing relation by a renaming.
+
 ### 4.8 Interest self-orienting, a meaning bounding, a clean cut
 
 ### 4.9 Here is mine, now yours, importancing, and receiving as its own competency
