@@ -124,6 +124,7 @@ Gathering-Value · Natural Physics
 - **A reading** · A concern for exploring: helium's lines are known from the Sun's edge, the uranium crystal's emanation and the glowing tube alike; what a line observes, if light owns nothing, is open.
 - **A reading** · A reading has light and helium coupling at both walls, helium first known by the Sun's light at its arches and the Earth's helium seen in the Sun's light given back, and light, helium and the climbing method one method seen at three of its ends, a possible.
 - **A reading** · A reading has a line belonging to the gas with what it couples with, giving or taking, bothboth. By a field's account, from memory and unchecked, a glowing gas gives bright lines, and the same gas, cooler, set before a brighter glow, takes dark lines at exactly the same places (1859).
+- **A reading** · A reading has a light so misunderstood reaching each observing of a line, a star and a plant's aiming.
 
 ### 3.4 Light-cone, two cones through one vertex
 
@@ -224,6 +225,7 @@ Gathering-Value · Natural Physics
 - **Possible incohering** · "And charge-conservation is the deepest of those accountings — one living act (a parity of a going-on sharing, sounding about a floating neutral, sharing forward) with all three of its sides fixing reversed together: a parity a frame takes as a magnitude fixing, a fixing ground replacing a floating neutral, a ground a field measures a charge against, a sharing-forward abundancing a frame takes as fixing-across-time and conserving forever." → *One living act* names a parity inward of an atom living, beside 4.6's "Below an atom no self closes"; it is-or-is-not re-said with nothing living inward of an atom.
 - **Possible incohering** · "Seating from a living side's own strong-force resolving, going on here." → *A living side's own strong-force resolving* names a resolving inward of an atom living, beside 4.6's "Below an atom no self closes"; it is-or-is-not re-said with nothing living inward of an atom.
 - **Possible exploring** · At one pair of quark jets with a gluon jet or a photon beside them, the flow of particles between the two quark jets differs with which one it is. — at "Confinement — a quark cannot be isolated, a coupling goes on, a separation goes on, not coming — is a coupling riding its carry, not a force too strong to break."
+- **A reading** · A reading has *itself*, a dissolved word, and *cancelling*, an accounting's sum, standing at 4.6's *neutron a floating neutral itself* and *cancelling only as a frame apart measures it whole*.
 
 ### 4.7 Relativity and quantum, one coupling and its accounting
 

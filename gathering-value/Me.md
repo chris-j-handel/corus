@@ -163,6 +163,7 @@ Gathering-Value · Me
 - **A reading** · A concern, both sides open: a reading has a day-cycle with no me, three cyanobacterial proteins with ATP keeping a circadian rhythm in a test tube, parting more than it agrees; a reading has it agreeing in part, a day's rhythm, its cell an empty set, the cyanobacterium's me an empty set there, sleeping and waking a me's. A protein is-not a carbon atom.
 - **Possible exploring** · In the extended mind's case, a notebook plays memory's part. A reading has it agreeing in part, a non-living thing within a me's universal set, the me with a parity relative to it, and parting, a non-living thing within a me is-or-is-not a me: it is not. — at "A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not."
 - **A reading** · A reading has a stone with no mes on the atom-floor sayings, that dissolving its hardest place, and a uranium crystal living as one self reopening that answer. A stone and a uranium crystal each is-not a carbon atom.
+- **Possible incohering** · "A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not." → A concern, two sayings parting: this sentence has a stone is-or-is-not a me, it is not; a reading has a stone forming a living society, and a stone whose living has completed a stable form, an emanation, its mes its forming society's while it lives.
 
 ### 2.4 A self by relation, beside a self by exclusion
 
@@ -379,6 +380,7 @@ Gathering-Value · Me
 - **A reading** · A reading has connected and aware patients under general anaesthesia as a me whose bi-coupling across scales with its inward mes is sharing.
 - **A reading** · A reading has, by Exhibit ONE's *One five is all fives*, each 0 a me and all its 0s, observed as one, the me: one and all, with no count between. Open within one self, a person at 37: *each 0 a me* and *all 0 me* are-or-are-not one binary, a 0 observed alone or all its 0s observed as one; or they are two mes at one scale, and then a me of one scale, no other me the same at it, parts.
 - **A reading** · A reading has a gut's microbiota, mes of other kinds, within a waking me.
+- **Possible exploring** · By a field's account, from memory and unchecked, a son's cells are found living in his mother 27 years after his birth. A reading has the son's cells in his mother the me taking in a direction. — at "**Fetal microchimerism** (Boddy, Aktipis et al. 2015): a child's cells living in the mother for decades."
 
 ## FOUR · ME, NEXT-EXISTING
 
