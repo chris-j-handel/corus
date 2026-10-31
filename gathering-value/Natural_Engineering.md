@@ -216,7 +216,7 @@ Gathering-Value · Natural Engineering
 
 ## Droplets
 
-- A fatigue crack grows slowly through a material and then breaks suddenly, a dying bothboth in a material. *(possible exploring)*
+- A fatigue crack grows slowly through a material and then breaks suddenly, an anticipated observing, a dying bothboth in a material. *(possible exploring)*
 - An anticipated observing: a living fractal across materials is a common form. That claim stands apart from making every machine and written object a living self. *(possible incohering)*
 - Natural Engineering's body holds links to its fields' sources beside its observings, and each link either stays with its sentence or goes with its finding to this file's record of sources, Geodesic Improving Method 2.8 holding either place. *(possible incohering)*
 - An anticipated observing: across substrates, decentralizing is a structural necessity and each chip an edge chip. Its one engineering question, which separation preserves the bi-coupling, is still-possibling: physical distance, separate power supplies, separate networks, different operators or another material relation, each its own requirement, none of them selected. *(possible exploring)*

@@ -1,0 +1,37 @@
+{
+ "fix": [
+  {
+   "file": "gathering-value/Natural_Chemistry.md",
+   "old": "- **Possible exploring** · Exchange spectra and single molecules switching follow particular molecules exchanging at constant composition, as marked lead and an electrode's exchange current at no net current do. — at \"What reaches yet with this hinge is a chemical process whose stability has a literal rest rather than opposing changings going on, and record returns none.\"",
+   "new": "- **Possible exploring** · Exchange spectra and single molecules switching follow particular molecules exchanging at constant composition, as marked lead and an electrode's exchange current at no net current do. — at \"What reaches yet with this hinge is a chemical process whose stability has a literal rest rather than opposing changings going on, and record returns none.\"",
+   "finding": "Not from the learning: its words (exchange spectra, single molecules switching, marked lead, an electrode's exchange current, constant composition) are the wide gathering's list of identity-tracking exchange, each item cited to an opened source (radiolead exchange, Gold Book exchange current, EXSY, single-molecule FRET); the learning has only marked salt exchanging in a saturated solution. A checked observing from another source stays bare."
+  },
+  {
+   "file": "gathering-value/Natural_Physics.md",
+   "old": "- For almost every kind of nucleus, chemistry, pressure and warmth on Earth leave the pace of what a field calls radioactivity unchanged, while that pace answers its couplings, and what it bi-couples with, the deep Earth or the solar system, is open. *(possible exploring)*",
+   "new": "- For almost every kind of nucleus, chemistry, pressure and warmth on Earth leave the pace of what a field calls radioactivity unchanged, an anticipated observing, while that pace answers its couplings, and what it bi-couples with, the deep Earth or the solar system, is open. *(possible exploring)*",
+   "finding": "The marker covered the whole sentence, the open question with it: 'what it bi-couples with, the deep Earth or the solar system, is open' is the learning's concern (§19, §20), no observing, and 'that pace answers its couplings' is its explaining. The marker now stands after the unchecked steadiness claim alone; nothing else changed."
+  },
+  {
+   "file": "gathering-value/Natural_Naming.md",
+   "old": "- **Possible exploring** · A nucleus too is observed only as a step and an instrument's reading, and not apart from what surrounds it: *nucleus* is-or-is-not said with the care *atom* has. — at \"A structure a field observes, a field's definition and its actual bounding.\"",
+   "new": "- **Possible exploring** · A nucleus too is observed only as a step and an instrument's reading, and not apart from what surrounds it, an anticipated observing; *nucleus* is-or-is-not said with the care *atom* has. — at \"A structure a field observes, a field's definition and its actual bounding.\"",
+   "finding": "With the marker set before the line's colon, 'an anticipated observing: *nucleus* is-or-is-not said with the care *atom* has' reads as the marker over the naming care, which is no observing (the learning's §2 concern). A semicolon after the marker keeps it over the nucleus claim before it alone; no word changed."
+  },
+  {
+   "file": "gathering-value/Natural_Numbers.md",
+   "old": "- **Possible exploring** · Instruments observe changing in steps, a charge stepping and each element's X-ray colour stepping, and an atomic number names that step. — at \"A counting is a clock, a form fixing still from beside its momentarying, with none of its moves: an accounting naming artifacts still, belonging to a field's instrument and coming on with a field going.\"",
+   "new": "- **Possible exploring** · Instruments observe changing in steps, a charge stepping and each element's X-ray colour stepping, an anticipated observing, and an atomic number names that step. — at \"A counting is a clock, a form fixing still from beside its momentarying, with none of its moves: an accounting naming artifacts still, belonging to a field's instrument and coming on with a field going.\"",
+   "finding": "The marker covered 'an atomic number names that step', a naming the learning says as its own pattern-matching (§1: an element is a step a self discovers, its number the record of that step), no observing. The marker now follows the two unchecked steppings (1909, 1913) alone."
+  },
+  {
+   "file": "gathering-value/Natural_Biology.md",
+   "old": "- **Possible exploring** · Right-handed alpha helices wind about each other as left-handed coiled coils, and the right-handed double helix wraps each protein spool in about 1⅔ left turns. — at \"One fractal: left-chirality with each substrate serving right-chirality with next scale up, two composing as one form.\"",
+   "new": "- **Possible exploring** · An anticipated observing: right-handed alpha helices wind about each other as left-handed coiled coils, and the right-handed double helix wraps each protein spool in about 1⅔ left turns. — at \"One fractal: left-chirality with each substrate serving right-chirality with next scale up, two composing as one form.\"",
+   "finding": "Missed sibling: gathered from the chemistry working's offerings to Natural Biology, section 5.4, beside the three lines this pass marks there (cells leaning, one-handed colonies, cells of different kinds); its claims are the learning's §5 and §20 (right helices as left coiled coils; spools wrapped in about one and two-thirds left turns), said from memory and unchecked. Marked alike, every number whole."
+  }
+ ],
+ "restore": [],
+ "remove": [],
+ "checked": 118
+}

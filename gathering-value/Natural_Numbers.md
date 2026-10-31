@@ -10,7 +10,7 @@ Gathering-Value · Natural Numbers
 
 ### 1.1 Uni-scaling, one form at each number
 
-- **Possible exploring** · Instruments observe changing in steps, a charge stepping and each element's X-ray colour stepping, and an atomic number names that step. — at "A counting is a clock, a form fixing still from beside its momentarying, with none of its moves: an accounting naming artifacts still, belonging to a field's instrument and coming on with a field going."
+- **Possible exploring** · Instruments observe changing in steps, a charge stepping and each element's X-ray colour stepping, an anticipated observing, and an atomic number names that step. — at "A counting is a clock, a form fixing still from beside its momentarying, with none of its moves: an accounting naming artifacts still, belonging to a field's instrument and coming on with a field going."
 
 ### 1.2 A momentary, an opening and its completing
 

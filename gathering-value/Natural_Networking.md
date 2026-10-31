@@ -118,7 +118,7 @@ Gathering-Value · Natural Networking
 
 ### 4.4 Similar aiming, each self with its own same-existing
 
-- **Possible exploring** · A honeybee's straight run between its two turning loops points its colony toward food. — at "Method and aim they share belong to their coupling, while each self goes on with its own prior."
+- **Possible exploring** · An anticipated observing: a honeybee's straight run between its two turning loops points its colony toward food. — at "Method and aim they share belong to their coupling, while each self goes on with its own prior."
 - **An explaining** · The honeybee's straight run between its two turning loops is a between where a society's aim is shared.
 
 ### 4.5 Each self going on through its actual observing

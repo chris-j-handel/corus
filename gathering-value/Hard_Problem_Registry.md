@@ -214,7 +214,7 @@ Gathering-Value · Hard Problem Registry
 ### 63 Homochirality
 
 - **An explaining** · Bennu's near-equal hands are as non-living forming shows them, and living shows one hand, an explaining.
-- **Possible exploring** · The energy difference predicted between mirror molecules is unmeasured, the best measurement finding a difference within its error alone. — at "Parity-violation energy difference — calculated, of order 10⁻¹⁷ in relative terms, its sufficiency being the crux."
+- **Possible exploring** · An anticipated observing: the energy difference predicted between mirror molecules is unmeasured, the best measurement finding a difference within its error alone. — at "Parity-violation energy difference — calculated, of order 10⁻¹⁷ in relative terms, its sufficiency being the crux."
 
 ### 64 Matter and antimatter asymmetry
 
@@ -549,7 +549,7 @@ Gathering-Value · Hard Problem Registry
 - **An explaining** · An exploring opportunity: what the Moon's germinating is, and what environs it waits for, its air gathering and its water from the poles' ice, paced by the Earth and the Sun.
 - **An explaining** · An exploring opportunity: seeds germinate where they land, in a parent society's soil, and where the Moon lands, or whether its going outward is its whole germinating, is open.
 - **An explaining** · An exploring opportunity: with the Moon the Earth's seed, other moons, Titan with its thick air, Europa and Enceladus with their oceans, are possibly seeds further along, and Mars, losing its air, possibly a self dying; the species' stages are to be reached with observings.
-- **Possible exploring** · An anticipated observing: the Earth's day lengthens as the Moon goes outward. Corals about 380 million years old lay about 400 daily growth lines a year. — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
+- **Possible exploring** · The Earth's day lengthens as the Moon goes outward, an anticipated observing. Corals about 380 million years old lay about 400 daily growth lines a year. — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
 - **An explaining** · The Earth and its seed pace each other, living recording the Earth–Moon co-sequencing in its own stable form, an explaining.
 - **An explaining** · These moons co-sequence as a society, three seeds at three stages of germinating, paced together, an explaining.
 - **An explaining** · An explaining, a possible: a moon's germinating is its forming of its own natural torusing surface, Ganymede's field, Titan's thick air, Enceladus's plumes and Europa's ocean each a moon's own surface aiming.
