@@ -139,6 +139,8 @@ Gathering-Value · Natural Mathematics
 
 - **Possible exploring** · A permutation's parity composes by odd and even: an even number of transpositions gives an even permutation and an odd number an odd one, and the parity of two composed is the product of their parities, one inversioning or none. It is mathematics' composing within one ordering, its count taken within one momentary. — at "A parity's inversion is one coupling among two, a transposition of + and −: an inversion of a parity and an inversion among five are one move with two numbers: an involution exchanging one pair and fixing all others."
 - **Possible exploring** · R(5, 5) lies from 43 to 46, both bounds so far, and the circulant threshold 41 is structural. Two-colourings of couplings among forty-two with a one-coloured five of neither colour number 656 by a field's listing, a count unexecuted here, and whether they are all of them is open. — at "**Each two-colouring of couplings among forty-six has a one-coloured five, and a two-colouring of couplings among forty-two has none.**"
+- **Possible exploring** · Two-colourings of couplings among forty-two with no one-coloured five are found as 656, 328 and their complements, several search paths each finding these same 656. — at "Each two-colouring of couplings among forty-six has a one-coloured five, and a two-colouring of couplings among forty-two has none."
+- **A reading** · A reading has a method claiming the fives naming the step making the colouring among forty-one with no one-coloured five, and onward, doubling not that step; the colourings among forty-two followed for their asymmetry; and which step yields forty-three, a colouring among forty-three with no one-coloured five or each holding one.
 
 ### 7.9 Atoms of symmetry
 
