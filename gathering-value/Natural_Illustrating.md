@@ -92,6 +92,7 @@ Gathering-Value · Natural Illustrating
 - **Possible exploring** · Exhibit ONE's code holds no self's inversion as names. — at "A self's inversion is 3, 6, 5, 4, and its podaling 23, 26, 25, 24, that same rotation twenty up."
 - **Possible exploring** · DNA snaps into a loop, and a bee's figure-eight dance joins two turning loops by a straight run sharing the aim. — at "With Natural Intelligence 3.2, a rotation is a gentle twisting of a towel inward to and outward from a corus in a knot, a large outer opening wrapping to a small corus and back, its edges bi-foldings, across with bi-morality and along with co-competency."
 - **A reading** · Two readings part: a point where two hands meet, the tendril's switch, the heart's mid-wall or the bee's run, is torusing, and a centre both hands wind from, a sunflower's or a nucleus's, corusing; or each between is one corus met from either side.
+- **Possible incohering** · "A self's inversion is 3, 6, 5, 4, and its podaling 23, 26, 25, 24, that same rotation twenty up." → Two sayings part: this sentence, a claim of a form of Exhibit ONE, and 1.1's *with a claim of a form of Exhibit ONE, its form executes with code before a drawing shows it*. Run: Exhibit ONE's code blocks, 99 lines, hold *invers*, *podal* and *3, 6, 5, 4* 0 times.
 
 ### 4.2 Spirals coupling across, a torus of selves, a 0 tunneling
 

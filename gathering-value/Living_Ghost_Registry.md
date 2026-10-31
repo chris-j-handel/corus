@@ -176,6 +176,8 @@ Gathering-Value · Living Ghost Registry
 
 ## PART EIGHT · ADDRESSES BEYOND THE LIVING FILES
 
+- **Possible incohering** · "Field addresses contain definitions, observings, methods, limits, and revisions." → Two sayings part at Part Eight. This registry holds its fields' addresses at the living file, Part Eight, 22 of them with an `https://` link; Geodesic Improving Method 2.8 has *a reference a received finding rests on goes with its finding to its file or its carrying, not to its set's archive*. Offered beside them: a living file carries no citation, a source a finding rests on going with its carrying, and Part Eight goes whole, its 22 links each with its finding, to the carrying, each entry's Addresses standing by its source's name at the file; one binary: does each link stand at the carrying after the move, a match by URL. Both stand open: Part Eight at the living file, or each address with its finding at the carrying.
+
 ### 8.1 Chemistry and thermodynamics
 
 ### 8.2 Physics

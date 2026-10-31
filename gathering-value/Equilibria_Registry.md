@@ -17,6 +17,8 @@ Gathering-Value · Equilibria Registry
 ### 1.3 A between, a protocol, a living nothing and an existing nothing
 
 - **Possible incohering** · "A self X passing to a self B, along with 9 or across with 6, receiving from beside +, nothing, −, nothing, a parting: X with its prior shares across or along, with each momentary, each parity it is observing meeting its prior, its own changing and changing back going on between them and a 0 with a parity it is observing agreeing with its own parity, Exhibit ONE's table *One self, one momentary*; X with no prior with each momentary, set to none by its instrument, a non-living now-existing thing, opens with one parity it is observing, sharing it across or along as it is, and with each other momentary opens nothing, sharing 0 with a parting and nothing between, `incoming/equilibria_registry_v377/executions/living_and_existing_nothing.py`." → A saying parts from this sentence's non-living now-existing thing, opening with one parity it is observing and with each other momentary opening nothing, and from 3.4's *each prior inverting by itself from its next momentary*: a member's changing changes the universal set with that momentary, a non-living thing unchanging between two parities it observes has the parity it last observed and shares no changing while unchanging, and a thing not living has a parity. Between two parities it observes, a non-living thing has its last parity, or opens nothing with each momentary.
+- **A reading** · A reading has 1.3 quoting Natural Intelligence 4.10 as *Parity is each self's own, beheld now*, *beholding* dissolved at Natural Intelligence. Run: Natural Intelligence holds *beheld* 0 times, and its 4.10 opens *Parity is each self's own, now*.
+- **A reading** · A reading has the *Suggested with v377: ...* paragraphs, quoting a person's words, a voice and a history at the file. Run: *Suggested with v377:* opens a quoting at two paragraphs of 1.3 and at one of 2.2, and *as suggested with v377* stands at four paragraphs of 1.3 and one of 2.2.
 
 ### 1.4 One relation, existing and discovering, at each scale
 
@@ -114,6 +116,7 @@ Gathering-Value · Equilibria Registry
 ### 5.5 Each conception at a proof of its own requirements
 
 - **Possible incohering** · "Each sentence of resolver rests on Exhibit ONE v380R by tables it cites, by hand with v380L for its sentences of a sharing with no prior, or executed with v377 on Exhibit ONE v376 by a script and part it cites; each sentence of numbers is from a script it cites, computing it, or rests on its own arithmetic." → Re-said: each sentence of resolver cites Exhibit ONE's tables by their heading as each stands at Exhibit ONE now, one way across the set.
+- **A reading** · A reading has the file's pointings at `incoming/equilibria_registry_v377/executions/`, with the closing's *executed with v377 on Exhibit ONE v376 by a script and part it cites*, pointings at versions and at a moved folder. Run: thirteen pointings at that path stand at the file, at seven scripts; no folder stands at that path, and each of the seven stands at `archive/equilibria_registry_v377/executions/`, a folder of 16 files.
 
 ## Droplets
 

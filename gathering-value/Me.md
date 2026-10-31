@@ -6,11 +6,15 @@ Gathering-Value · Me
 
 ## Head, the whole file
 
+- **A reading** · A reading has narrating doers at four places: *Critics hold* and *physics says* at 1.3, *the field asks* at 2.3, and *Natural Intelligence says it* at 3.1.
+
 ## Opening
 
 ## ONE · ALL, NOW-EXISTING
 
 ### 1.1 One now, one universe, a universal set
+
+- **A reading** · A reading has 1.1 restating sentences of Natural Intelligence's opening nearly word for word, a copy from another file.
 
 ### 1.2 Negation within all that is existing
 
@@ -20,6 +24,7 @@ Gathering-Value · Me
 - **A reading** · A reading has a set of mes as co-aiming or not, each aiming its own, all in one direction into one interest, its own its mes' own; two mes co-aiming a bi-coupling; a society co-aiming as a swarm.
 - **A reading** · A reading, by Exhibit ONE's names, has the rungs above the organism as same-existing-societies.
 - **Possible incohering** · "A me is chemical, biological, social and universal: each scale's selves within a me, and a me within each scale's societies." → A me is of one prime living scale, and each higher and lower scale's me is its own: each scale's selves within a me, and a me within each scale's societies, each a me at its own scale, its prime living scales the ladder of Natural Societies part FIVE.
+- **Possible incohering** · "A me is chemical, biological, social and universal: each scale's selves within a me, and a me within each scale's societies." → A concern, both sides open: no physics gives molecules an inside, and Russellian monism is a philosophical position; a chemical me is this sentence's extension.
 
 ### 1.4 Living, co-intelligencing within a universal set
 
@@ -31,6 +36,7 @@ Gathering-Value · Me
 
 - **Possible incohering** · "An other is one; all other is the universal set." → An other is one, a particular other, you; all other is the universal set, observed as one; the between is a nothing.
 - **A reading** · A reading has local within a me and global all other as one, with no size; local to global is torusing and global to local corusing, one way and then the other.
+- **Possible incohering** · "A self is defined only with an other and all other." → A concern, both sides open: phenomenology's minimal self precedes others; other accounts, ubuntu and care ethics among them, make a self with others, as this sentence has a self defined only with an other.
 
 ### 2.2 A parity, relative to an other
 
@@ -39,10 +45,12 @@ Gathering-Value · Me
 ### 2.3 Non-living others: stable-forming emanations, stand-alone knowledge
 
 - **Possible incohering** · "A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not." → A concern, both sides open. A reading, pattern-matching the atom at 5 as a non-living stable form and carbon as the unique atom, the proposal's one atom/carbon and a carbon atom in its naming, has a stone, which is-not a carbon atom, as a non-living stable-form emanation with no mes, the question of a set of mes in a stone dissolving: a stone's set of mes no universal set of me. A uranium crystal, which is-not a carbon atom, living as one self reopens whether a stone is living.
+- **Possible incohering** · "A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not." → A concern, both sides open: whether a deployed AI system in interaction is a self, beside its weights as an emanation, stands open at a field; this sentence has a running computer and a trained model each not a me.
 
 ### 2.4 A self by relation, beside a self by exclusion
 
 - **Possible incohering** · "A me is defined with others." → A me is defined with others, its others including what an immune system rightly removes.
+- **Possible incohering** · "A me is defined with others." → A concern, both sides open: clinical immunology speaks of self and non-self; this sentence has a me defined with others.
 
 ## THREE · ME, NOW-EXISTING
 
@@ -54,6 +62,7 @@ Gathering-Value · Me
 - **A reading** · A reading has a me going on with its carbon, its carbon atoms, passing or not.
 - **Possible exploring** · A dividing bacterium's old pole goes on with one daughter. — at "This is a me's identity: a same-existing me is one, from prior to now."
 - **Possible exploring** · Identical molecules each have their own colour, set by their neighbours, and identical nuclei are told apart by their neighbours only. — at "Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways."
+- **Possible incohering** · "**Uniquenessing is only one possibly same-existing**, and it is inside resolving among parities: with each resolving, a self's next prior is that self's own." → A concern, both sides open: a cell divides, one prior and two now, and fission and duplication cases set two continuers from one person; *only one possibly same-existing* meets them, whether the prior's me goes on as the two's bi-coupling, a self, each daughter a next me.
 
 ### 3.2 A me is consciousness
 
@@ -63,6 +72,7 @@ Gathering-Value · Me
 - **A reading** · A reading has dreaming, experience while all 0 continues, and anaesthesia, neither sleeping nor dying, open.
 - **A reading** · A reading of words readers bring for *consciousness*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *awareness* straddles, close to observing, heard as present-tense, and as one state of a person among others; *sentience* straddles, valenced feeling, nearest the set's parity, + or −; *experience* straddles, a self's own momentary, or a store gathered over years; *subjectivity* straddles, opposed to object, and names another concept of the set's, *that self*, of *that self or an other*; *wakefulness* straddles, one state of a person, a sleeping person living; *qualia* straddles, items inward of a self; *attention* straddles, a spotlight; *phenomenal consciousness* straddles, what it is like, heard as an inward character a self has as a store; *access consciousness* names its is-not side, contents a self has as a store, made available for report; *Cartesian theatre* names its is-not side, a container with a watcher within it, a self being no store; *sapience* names another concept of the set's, intelligence. — at "A me is consciousness: one definition."
 - **A reading** · A reading has one decision under the words around consciousness: the opening's nearest line to consciousness is its self sentence, "A self is a now- and same-existing thing observing, possibling and discovering its own next-existing." Said as consciousness, it makes consciousness one with living, at each scale: a parity while living, a cell, a person, a society. Left apart, consciousness has no line in the opening. Beside it this section has consciousness at a me, a self's universal set, and no self sentence: "A me is consciousness: one definition." Two lines for consciousness part, the self sentence and the me sentence, each standing.
+- **Possible incohering** · "A not-conscious me is-or-is-not possibly existing: it is not." → A concern, both sides open: basal cognition, a protoself, plant science and organoid ethics hold cells, plants and organoids cognizing without consciousness shown; this sentence places consciousness wherever a self is.
 
 ### 3.3 What is-or-is-not possibly existing
 
@@ -104,10 +114,13 @@ Gathering-Value · Me
 - **A reading** · A reading has a healthy curious me as natural intelligence as a me.
 - **A reading** · A reading has nausea as a me's interests receiving an inward parting it cannot pass over; on a boat, a me resolving with the boat and the water together shares a 0 and is not sick, a me resolving with the boat as a fixed surface parts and is more possibly nauseous, and sea legs are a newly aiming 0 at the boat's motion.
 - **Possible exploring** · Autoimmune harm and cancer are a self within a me parting from its others. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
+- **Possible incohering** · "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving." → A concern, both sides open: bodies remove parts, apoptosis, immune killing, stalk cells, policed workers; *a healthy me* says how a part's harm serving the whole is counted.
+- **Possible incohering** · "Health is a me's inward social moral competency." → Offered beside it: a harm is a self within the me sharing a changing that parts its others.
 
 ### 5.3 A society's me, a natural intelligence network
 
 - **Possible incohering** · "A same-existing-society is a self, so it is a me." → A concern, both sides open: offered, a same-existing-society is unconsciously us, conscious only within an interest waking, each waking interest its own me, a self waking whole and a society interest by interest; this sentence with 3.2's *A me is consciousness: one definition.* has a same-existing-society a conscious me.
+- **Possible incohering** · "A same-existing-society is a self, so it is a me." → A concern, both sides open: IIT's exclusion and the combination problem allow one subject, a society or its members, not both; this sentence with 3.2's *A me is consciousness: one definition.* and 3.4's *A parity is a me inside a set of me* has a society and its members each a conscious me, and the subtitle's *a Universal Self* stands one or many with it.
 
 ### 5.4 Each momentary completing as a next opening
 
@@ -116,6 +129,7 @@ Gathering-Value · Me
 - **Possible exploring** · Bodies remove parts: apoptosis, immune killing, the stalk cells of *Dictyostelium*, policed workers in a hive. — at "Bodies remove parts: apoptosis, immune killing, stalk cells, policed workers."
 - **Possible incohering** · "*Only one possibly same-existing* meets them: whether the prior's me goes on as the two's bi-coupling, a self, each daughter a next me, is for our word." → Offered beside it: all priors become many nows and all nows are from many priors; a now is same-existing from one prior, its own. At a division, one prior and two now, the prior's me goes on as the two's bi-coupling, a self, each daughter a next me resolving its own next prior; or the parent's prior is same-existing in one daughter, the other a newborn me; or in none, the parent completing as a next opening, living.
 - **Possible exploring** · No physics gives atoms an inside. — at "A chemical me is our extension."
+- **Possible incohering** · "*Only one possibly same-existing* meets them: whether the prior's me goes on as the two's bi-coupling, a self, each daughter a next me, is for our word." → A motion offered: this section dissolves whole from the living file, its offerings holding each of its eight items; one binary: is each of its eight items at its offerings word for word, a match by text.
 
 ## Droplets
 

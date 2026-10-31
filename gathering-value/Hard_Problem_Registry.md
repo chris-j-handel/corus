@@ -51,6 +51,9 @@ Gathering-Value · Hard Problem Registry
 
 ### The form
 
+- **Possible incohering** · "Five stand in every entry as they stand at its front, a problem being what a field fixes in order for a method to act on it." → A re-saying offered: each entry's *Conditions prior* line dissolving whole, the five standing once at The conditions prior and at the form; one binary: is each entry's line identical to the front's five, a match by text. Claimed: the 255 lines identical, 64,035 bytes. Run: the 255 lines 64,035 bytes, in two wordings: 57 read *The accounts hold their truth value while under test. A procedure repeating returns the same outcome independently of what precedes it.* and 198 read *The accounts hold their truth value while tested. A procedure repeated returns the same outcome independently of what precedes it.*; each closes *Nothing prior enters.*, where the front's fifth goes on *Nothing prior enters: what comes to the statement brings nothing of what it held before.*; no entry's line is the front's five word for word.
+- **A reading** · A reading has each entry's *keyed at (the) next pass* notes and its *Persistence, no settling*, the entries' own history at the living file. Claimed: *keyed at (the) next pass* at 255 entries, *Persistence, no settling* at 228. Run: *keyed at next pass* or *keyed at the next pass* 314 times on 198 lines, each an entry's *Addresses.* line, at 198 entries; *Persistence, no settling* on 228 lines.
+
 ### 1 Sorites
 
 ### 2 The concept of disease
