@@ -118,6 +118,7 @@ Gathering-Value · Natural Intelligence
 - **A reading** · A reading has a living parity a self, a me of its own within the self's me, discovering its own next as that inward me: a parity is each self's own, as Co-Chaining Logic Registry step 162 has it, as within its me, and as a self it discovers its own next.
 - **Possible incohering** · "A **bi-coupling** is two selves sharing possibling." → Offered, said as the opening says *living*, with no article: ***Bi-coupling** is two selves sharing possibling.* Selves are bi-coupling, and bi-coupling is their -ing, as living is: each pair of selves are-or-are-not sharing possibling, one test on one pair with each momentary.
 - **Possible incohering** · "Selves' bi-couplings and co-chainings are a **Natural Network surface**." → Offered, with bi-coupling said as an -ing: Selves bi-coupling and co-chaining are a **Natural Network surface**.
+- **Possible incohering** · "For a self, each self it is bi-coupling with is an **other**." → A concern, both sides open: the Equilibria Registry has *A non-living thing couples with a self as other, sharing its parities, with no prior of its own*; this sentence has an other a self a self is bi-coupling with. Me's 2.3 follows the first, and the re-sayings offered for it the second.
 
 ## ONE · NATURAL
 
