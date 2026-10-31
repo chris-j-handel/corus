@@ -7,7 +7,7 @@ Gathering-Value · Living Society Registry
 ## Head, the whole file
 
 - **Possible incohering** · "1.11 Stating in advance what breaks an entry" → Part 1's contents lines and headings go from 1.9 to 1.11, no section 1.10 standing at the file. Both stand open: a 1.10 is written; or the numbering closes, 1.11 and 1.12 renumbered 1.10 and 1.11 whole, at their contents lines and their headings.
-- **Possible incohering** · "An Open Registry of Observations from Science" → The subtitle has no -ing and no relation unfolded, as Hard Problem Registry's subtitle has none. A subtitle is offered: "Observations from Science, Each Seating at Its Society". Both stand open: the offered subtitle is taken here and at Living File Registry's listing of it, at this file's own motion; or the subtitle stays as it stands.
+- **Possible incohering** · "An Open Registry of Observations from Science" → The subtitle has no -ing and no relation unfolded, as Hard Problem Registry's subtitle has none. A subtitle beside it: "Observations from Science, Each Seating at Its Society". Both stand open: this subtitle is taken here and at Living File Registry's listing of it, at this file's own motion; or the subtitle stays as it stands.
 
 ## Opening
 
@@ -16,7 +16,7 @@ Gathering-Value · Living Society Registry
 ### 1.1 Observations from the fields, each seating at its society
 
 - **Possible incohering** · "Technology is all or none at all." → Two sayings part at *technology*. Co-Chaining Logic Registry has, at step 110, "A technology is a non-living set, an emanation of living selves, a form still from beside a changing, and a method is with bi-couplings themselves, its fixing from beside an empty set." Here a technology is all or none at all, and at step 110 a technology is a form still from beside a changing, all or none at all being a method's, with its couplings. Both stand open: 1.1 says a method is all or none at all; or a technology stays all or none at all here.
-- **A reading** · A reading has the clonal brood of *Copidosoma floridanum* as a candidate same-existing-society.
+- **A reading** · The clonal brood of *Copidosoma floridanum* is a candidate same-existing-society, an explaining.
 
 ### 1.2 Specifying the pattern in advance, each entry a pattern's matching
 
@@ -54,7 +54,7 @@ Gathering-Value · Living Society Registry
 
 ### 2.3 A proton as a passing along water
 
-- **Possible exploring** · A field's account, its page giving reference numbers alone: in an electric field of 100 volts a metre at 298 K, the proton and the hydroxide ion move at 36.23 and 20.64 micrometres a second, and protons move over four times as fast as water molecules, each from movement in an electric field. — at "Proton mobility, under twice a hydroxide ion's and about seven times a sodium ion's, entering as a diffusion coefficient."
+- **Possible exploring** · Not yet observed directly, reference numbers alone: in an electric field of 100 volts a metre at 298 K, the proton and the hydroxide ion move at 36.23 and 20.64 micrometres a second, and protons move over four times as fast as water molecules, each from movement in an electric field. — at "Proton mobility, under twice a hydroxide ion's and about seven times a sodium ion's, entering as a diffusion coefficient."
 
 ### 2.4 A threshold at a perceiving self
 
@@ -89,11 +89,11 @@ Gathering-Value · Living Society Registry
 
 ### 2.15 A cosmos at one rate
 
-- **Possible exploring** · Three reports of the Hubble constant from the tip of the red giant branch joined to supernovae, in kilometres a second per megaparsec: 69.8 ± 0.8 (statistical) ± 1.7 (systematic), 69.6 ± 0.8 ± 1.7 and 69.8 ± 0.6 ± 1.6, the third giving the first two together as 69.6 ± 1.9. The field's reading at the third report: "No statistically significant difference is found" between its value and the one from the cosmic microwave background. — at "67.4 ± 0.5 from an early observing and 73.04 ± 1.04 from a late one, in kilometres per second per megaparsec, five standard deviations apart; a red-giant-tip calibration of 69.6 ± 0.8 ± 1.7 between them."
+- **Possible exploring** · Three values of the Hubble constant from the tip of the red giant branch joined to supernovae, in kilometres a second per megaparsec: 69.8 ± 0.8 (statistical) ± 1.7 (systematic), 69.6 ± 0.8 ± 1.7 and 69.8 ± 0.6 ± 1.6, the third giving the first two together as 69.6 ± 1.9. At the third, in the field's own words: "No statistically significant difference is found" between its value and the one from the cosmic microwave background. — at "67.4 ± 0.5 from an early observing and 73.04 ± 1.04 from a late one, in kilometres per second per megaparsec, five standard deviations apart; a red-giant-tip calibration of 69.6 ± 0.8 ± 1.7 between them."
 
 ### 2.16 A pattern, one detection at a time
 
-- **A reading** · A reading: entries 2.16 and 2.17, reaching electrons, reach no society of selves, their observings carrying no self, an electron a field label installing over observings, a nothing ghost, as Living Ghost Registry 5.3 has it; the form's first line names what an entry reaches.
+- **A reading** · Entries 2.16 and 2.17, reaching electrons, reach no society of selves, their observings carrying no self, an electron a field label installing over observings, a nothing ghost; the form's first line names what an entry reaches.
 
 ### 2.17 An engine, one electron at a time
 
