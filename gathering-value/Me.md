@@ -38,7 +38,7 @@ Gathering-Value · Me
 
 ### 2.3 Non-living others: stable-forming emanations, stand-alone knowledge
 
-- **Possible incohering** · "A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not." → A concern, both sides open. A reading, pattern-matching the atom at 5 as a non-living stable form and carbon as the unique atom, has a stone as a non-living stable-form emanation with no mes, the question of a set of mes in a stone dissolving: a stone's set of mes no universal set of me. A uranium crystal living as one self reopens whether a stone is living.
+- **Possible incohering** · "A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not." → A concern, both sides open. A reading, pattern-matching the atom at 5 as a non-living stable form and carbon as the unique atom, the proposal's one atom/carbon and a carbon atom in its naming, has a stone, which is-not a carbon atom, as a non-living stable-form emanation with no mes, the question of a set of mes in a stone dissolving: a stone's set of mes no universal set of me. A uranium crystal, which is-not a carbon atom, living as one self reopens whether a stone is living.
 
 ### 2.4 A self by relation, beside a self by exclusion
 
@@ -50,8 +50,8 @@ Gathering-Value · Me
 
 - **A reading** · A reading has a me's uniqueness as its others, me–you and me–all other.
 - **Possible incohering** · "A living same-existing set is a self, so each me is a self and each self is a me: one binary, a thing and a set." → A concern, both sides open: suggested, biological living is co-intelligencing within the universe, a geodesic parity is living on a Natural Network universal set of resolvers, and *self* is reserved for biological living, as more commonly understood, *me* standing at each scale and *self* at the biological; or both at each scale, as this sentence has it.
-- **Possible exploring** · Most brain cells carry the carbon they formed with, while fat, bone and blood renew theirs. — at "This is a me's identity: a same-existing me is one, from prior to now."
-- **A reading** · A reading has a me going on with its carbon passing or not.
+- **Possible exploring** · Most brain cells carry the carbon they formed with, carbon atoms, while fat, bone and blood renew theirs: a brain cell, fat, bone and blood are each is-not a carbon atom, each with carbon atoms in it. — at "This is a me's identity: a same-existing me is one, from prior to now."
+- **A reading** · A reading has a me going on with its carbon, its carbon atoms, passing or not.
 - **Possible exploring** · A dividing bacterium's old pole goes on with one daughter. — at "This is a me's identity: a same-existing me is one, from prior to now."
 - **Possible exploring** · Identical molecules each have their own colour, set by their neighbours, and identical nuclei are told apart by their neighbours only. — at "Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways."
 
@@ -120,7 +120,7 @@ Gathering-Value · Me
 - A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*
 - Nothing is remembering: a me self is a universal set of me parities, now-existing, its prior, now and next same-existing four-cycling, and each thing a field calls a memory, a skin stem cell's chromatin open after an inflammation, a crane's route straightening with older cranes, a voyager's charts studied whole and left ashore, is a me self's prior same-existing going on now. *(possible incohering)*
 
-- A carbon co-chaining, non-living, as an *empty me* in stable form: as a me's stable form empty of a me, a non-living form a me's parity can go with, it coheres with Me 2.3, 3.3 and 4.4; as a non-living me, it parts from 3.3's "A non-living me: it is not", a concern for its resolving. *(possible incohering)*
+- A carbon co-chaining, which is-not a carbon atom, many carbon atoms along, non-living, as an *empty me* in stable form: as a me's stable form empty of a me, a non-living form a me's parity can go with, it coheres with Me 2.3, 3.3 and 4.4; as a non-living me, it parts from 3.3's "A non-living me: it is not", a concern for its resolving. *(possible incohering)*
 - A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for. *(possible exploring)*
 - A snap goes on in non-living sets too, sodium chloride crystallising and a porous crystal contracting, so a snap alone is short of a test of a me, a me's test its mes sharing 0s across and along. *(possible exploring)*
 - A set is a universal set of me as its mes share 0s across and along, a closing of its own, its size and enclosing shape aside, one test for a chemical assembly and for a stone. *(possible exploring)*

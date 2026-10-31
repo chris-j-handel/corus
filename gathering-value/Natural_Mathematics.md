@@ -37,13 +37,11 @@ Gathering-Value · Natural Mathematics
 - **Possible exploring** · With + and − exchanged throughout, 300 reported arrangements give their exchanged outputs, a symmetry of that representation. — at "A right spiral step draws it as a right spiral, and −i, its same inversions with an other order, draws an opposite form."
 - **A reading** · A reading has turning a helix, viewing a planar spiral from its other side and a mirror inversion as three operations, sign labels alone settling no biological hand, and which of them, if any, is right resolving's other hand at an observed living subject open.
 
-
 ### 2.4 Two parities at the right spiral step, the step that brings its prior whole
 
 - **Possible incohering** · "**A step has its relation**: two steps apart, (c, t) then (−c, −t), agree or oppose goes on while both parities invert, and one step apart, (t, −c) between them, it inverts: four consecutive pairs are r, 1 − r, r, 1 − r." → c and t are said at no other line of this file and no opening of them is said, while 2.4's opening has t an angle, *signs of cos t and sin t*; and *A relation within a pair is no unchangeable resolver* is unclear. Offered beside it: c and t said as two parities at 2.4, or this sentence re-said at P and Q.
 - **Possible exploring** · Executed by hand at no prior, with one sharing and none after, t is c inverted with each momentary and the relation of c and t is at one value. — at "**A step has its relation**: two steps apart, (c, t) then (−c, −t), agree or oppose goes on while both parities invert, and one step apart, (t, −c) between them, it inverts: four consecutive pairs are r, 1 − r, r, 1 − r."
 - **Possible exploring** · A reported enumeration, a next taken from a prior and a now, alike under each relabelling of forms, keeping the prior and with no still joint form: with two forms one way, next as prior inverted, its four joint forms one cycle; with three, four and five forms none. Under an order round three, ways have no still joint form, and none is one cycle through all nine joint forms. Whether living asks those conditions, or a model asks them, is open, and the count is no numerical replacement for *no other possible*. — at "Only two bring their prior whole, invert one parity and undo none: a right spiral step F(P, Q) = (−Q, P), i with two parities, and G(P, Q) = (Q, −P), an exchange and an inversion with an other order, 3.4."
-
 
 ### 2.5 Each scale the prior scale and its forms in the other order
 
@@ -56,11 +54,9 @@ Gathering-Value · Natural Mathematics
 
 - **Possible exploring** · R, C, H and O are the only normed division algebras, and with each doubling they lose first each element being its own conjugate, then commuting, then associating. — at "Each doubling sheds one: ordering by two, commuting by four, with i j = k and j i = −k, associating by eight."
 
-
 ### 2.8 φ, the unrelationing rate, all ones and the constant √5
 
 - **A reading** · A reading has a sunflower's golden angle pattern-matched as φ, the unrelationing rate.
-
 
 ## THREE · ACCOUNTING
 
@@ -106,7 +102,6 @@ Gathering-Value · Natural Mathematics
 ### 4.4 Double angle, the rotation that removes a coupling
 
 - **Possible exploring** · By a field's account the map x → 4x(1 − x) is offered as a maker of random numbers. A public-key system at Chebyshev polynomials over the reals is broken, its plaintext recovered from a given ciphertext. A public-key system takes Lucas functions in exponentiation's place, and a system is made at a torus, the intersection of the kernels of the norm maps. With a field's own words a doubling is a step, and a security is a group's. — at "On a circle, doubling an angle taken as a fraction of a round shifts its binary digits one place, each doubling surfacing its next digit."
-
 
 ### 4.5 Self-bounding and other-bounding
 

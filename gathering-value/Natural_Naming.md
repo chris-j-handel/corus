@@ -252,7 +252,6 @@ Gathering-Value · Natural Naming
 
 - **Possible exploring** · With two calcium-40 ions in a linear trap, the square's nine two-ion observables are measured in sequence along its three rows and its three columns. The sum of the three row products and two column products, less the last column product, is 5.46(4) at one state and from 5.23(5) to 5.46(4) across ten states, over 4 at most for values each given apart from the others measured with it and under 6, a field's account at any state; the measuring shows no 6. By a field's theorem such values are not possible at dimension three and each larger, first shown at 117 observables. — at "**A Peres–Mermin square is bothbothing with a field**: its nine values, a field's ±1, have even parity along and odd parity across, and a store of all nine reaches none of 512."
 
-
 ### 4.16 All or none at all, and an entering and leaving it has
 
 - **Possible incohering** · "A self's bounding, discovering next self and orienting are its own, nothing reaching them, couplings winding about a nothing: privacy, trust and security are that one nothing with three substrates." → *Substrate* offered as dissolving from the set's naming, each saying re-said by its meaning; this sentence's *three substrates* is its present saying, a re-saying by meaning still-possibling.
@@ -601,7 +600,7 @@ Gathering-Value · Natural Naming
 - A genome is an artifact of prior living, as 2.4 says of each prior in stable form: a field's genome that copies, an element that moves, a virus that enters, each gives an artifact a doing that is a living cell's going on with it. *(possible incohering)*
 - Transcribing, translating, reading, a code and information at a cell are a text-and-machine story over a cell's living: RNA and proteins forming along a genome are the cell's own stable-forming with its artifact, and a cell reads no text and runs no machine. *(possible incohering)*
 - The plural of *me* is *mes*, with no apostrophe, and *me's* is its possessive; where a count does no work, *each me* or a universal set of me says it uncounted. *(a reading)*
-- One referent a proposal names atom and carbon is to go on as one identity throughout exploring, with no smaller invariant nucleus in its place and no second, set-apart kind of carbon. *(possible exploring)*
+- One referent a proposal names atom and carbon, a carbon atom in the proposal's naming, is to go on as one identity throughout exploring, with no smaller invariant nucleus in its place and no second, set-apart kind of carbon. *(possible exploring)*
 - A helix of the right hand can be gone along either way, its hand not changing, while its spatial hand, its direction of going and NI co-sequencing are three subjects, their relation still to join. *(possible exploring)*
 - Rotation 3–6–5–4 has its names from two bi-foldings, and four bi-folding cycles, four joint parity forms, four momentaries of exchanging and four pairs about a centre of a ring of nine are four fours, each of its own subject, a relation among them a next step. *(possible exploring)*
 - Particle zero, unit distance, infinity and infinity-plus-one are a proposal of an origin and scale correspondence whose operation and physical scale are a next step, and their naming is without a zero readable from outward of a resolver. *(possible exploring)*

@@ -26,13 +26,11 @@ Gathering-Value · Natural Engineering
 - **Possible exploring** · Three balanced phase magnitudes meet at nought at each instant. Three selves joined along, at the grid's parities, meet at +1 or −1, and at nought only with one self at a 0. Magnitude and parity are two registers in the one sentence, and the apparent break parts at them. — at "This is balanced phasor sum."
 - **Possible incohering** · "Floating neutralling is a proposal's relation with coupling; electrical quantities retain their own units and conditions." → A grid's three phases read at their parities each 30 degrees, inverted at each momentary, are the resolver's spiral of three selves coupling along. Executed beside that spiral at Exhibit ONE's code, the phases read midway between zero crossings go the same sequence as that spiral; read at the zero crossings, one phase is at 0 at every second reading, and they agree with that spiral at each nonzero parity. At §1.3 this is an identity of grid and spiral or a proposed correspondence, electrical quantities in their own units and conditions either way.
 
-
 ### 1.4 Frequency and the receiving coupling
 
 ### 1.5 Neutral, selection and delivery
 
 - **Possible exploring** · A ground return's connection has inductance as well as resistance. A solid ground plane is the field's standard low-impedance return path, analog and digital circuits each on their own plane and the two planes joined at a single-point star ground; digital currents in an analog return path give errors in the voltage reaching the analog circuits, a transient slewing at 10 mA/ns the field's example. — at "A path coming back has finite impedance, and a varying current through a path two circuits share is a voltage between nominal ground points; a ground symbol is a drawing's reference and a path is its relation, protective and functional grounds each their own."
-
 
 ### 1.6 Sharing device, and the returning coupling
 
@@ -60,7 +58,6 @@ Gathering-Value · Natural Engineering
 
 - **A reading** · A reading has the field's robotics accounts at the ten fixing forms: a keyframe and a drawn position or a position a robot retains an opening fixing as a place; the fixed-timestep loop and the control loop a sequencing fixing to one beat; the world model and the map a robot retains a same-existing fixing as a store. Odometry's drift read as a total and a swarm's four seed robots read as a doer are outside the ten, their fixing form still-possibling. This reading enters at 1.11, or is left for 1.11's own motion.
 - **Possible exploring** · A thousand-robot swarm free of seeds, of an origin and of a retained shape, each member a self only at its actual contacts and with its own parity, is the engineering entry for a society of resolvers at a material. That swarm is unbuilt, its proof §5.1's five properties. — at "A map in store, a local register, a timer and a mechanical configuration name distinct things."
-
 
 ### 1.12 Instrument tuning, beat changing and the remaining interval
 
@@ -94,11 +91,9 @@ Gathering-Value · Natural Engineering
 - **Possible incohering** · "Engineering side’s self-bounding bi-momentarying, as a proposal, still needs to express each side’s taking, changing and resolving." → A re-saying offered: "Engineering side’s bi-momentarying, as a proposal, still needs to express each side’s taking, changing and resolving, its bounding each bi-coupling living self's", an engineered side bounding nothing of its own. The sentence's *self-bounding* parts from Natural Intelligence 6.5's "Its prior is same-existing only with living selves."
 - **Possible exploring** · A resolver conversation is still-possibling as five steps, each one concept, each executed at resolver before it is written: the between answered, with the human's next one-way given at the parting continuations and six one-ways cycling; the text going on with selves, spirals at 17 bringing the characters along, with what a parting erases and whether a spiral gives its pattern again at a next momentary; a sharing at each word of a window as well as at each character, a reply ending where its sentence ends; partial agreement at the scale inward, the agreement at the 1–17s inward, all or none at each finer scale, in place of a count at this one; and a self added at each giving, the network going on with the conversation as selves, so the next reply meets what is said before it. — at "Inference-time between remains an exchange this entry addresses between a person and an engineering sharing."
 
-
 ### 2.4 More substrates, pacing and the receiving relation
 
 - **Possible incohering** · "Its adjacency, with ONE's seventeen names 14-next-possibling → 12-next-co-same-existing, stands with THIRTEEN §7.3 and Natural Naming §2.17, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2." → Its adjacency, with ONE's seventeen names, is 14-next-possibling → 12-next-co-same-existing, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2.
-
 
 ### 2.5 Sharing and construction
 
@@ -107,14 +102,12 @@ Gathering-Value · Natural Engineering
 - **Possible exploring** · A four-phase handshake asks the data visible on all data nets at the receiver before req rises, by a write barrier, the call to sync, and in hardware a delay longer than the nets' skew; with a shared clock, handshake lines steady over n consecutive cycles give n transactions and a rdy line takes the place of ack; with local clocks each line resynchronises at the receiver against metastable failure. — at "A four-phase handshake brings request and acknowledge through 00, 10, 11, 01 and 00 for one datum."
 - **Possible exploring** · A timing analyzer reports a mean time between failures for each synchronizer it identifies that meets its timing requirements and for the whole design, a designer judging by it a need for longer chains, with the worst-case available settling time, that of the synchronizer with the worst mean time between failures, its estimate reaching only the chains it identifies on paths with timing analysis. — at "A signal from a clock domain with no relation reaching a register's settling interval is a residue for this entry: a synchronizer chain, its latency and its failure interval have estimates for a device's conditions, each a field quantity with its unit."
 
-
 ### 2.6 Quantum computing, going on and measurement
 
 ### 2.7 Key pairs, privacy and the receiving operation
 
 - **Possible exploring** · In the Bitcoin chain's blocks up to block 36288, of the year 2010, a nonce's least significant byte, read on a little-endian machine, falls far more often at 0 to 9 and 19 to 58 than at 10 to 18 and 59 to 255; up to block 20000, 312 blocks are at 0, 247 at 9, 2 at 10, 5 at 18, 138 at 19, 201 at 58 and 7 at 59. — at "With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gave an observing of two selves' givings whole, with no key opening."
 - **A reading** · A field's reading has a chain's first-block nonce pattern, with the coinbases split into spent and unspent, one first miner's machine alone. One reading takes it as that miner's 58 machines, each stamping its own id in the nonce's low byte to keep from checking one nonce twice, machines 10 to 18 absent, and sets aside a reading of six computers of ten low-byte values each. As a field's account has it, a later reading has the ranges that first miner's own nonce-stepping software and blocks beyond the pattern other miners'. The two readings part.
-
 
 ## PART THREE — MATERIAL RETURNING AND ENGINEERING RECEIVING
 
@@ -132,12 +125,10 @@ Gathering-Value · Natural Engineering
 
 - **A reading** · A reading has a concern-journey as side-effecting: following a concern past a plan is its sensing, droplets brought back its returning, and re-aiming its recursioning.
 
-
 ### 4.4 Stabilizing and the particular fixing form
 
 - **Possible exploring** · A saturated controller operates in a nonlinear region where a larger control signal leaves the output as it is; back-calculation unwinds the integrator by a feedback loop, clamping is conditional integration, and tracking mode feeds the actuator's output back to the controller's tracking port. — at "A plant under regulation with a saturating actuator has five properties: a command a controller requests, taking it as actuator's applying action, is one side taking both turns; an integrator accumulating past actuator's bound is residue; back-calculation and clamping from actuator's own information, feeding back, are a field's observing; actuator's own bound, going with it as its participation, is arrangement sharing."
 - **Possible exploring** · In a simulation of a PID controller tuned with saturation ignored, a first-order plant with dead time and an actuator saturating at −10 and 10, with anti-windup absent the control signal steadies at about 36.29, outside the actuator's range, and returns within that range after a considerable delay; with back-calculation the control signal returns to the linear region quickly and the loop recovers from saturation fast; with clamping the page gives a figure of setpoint against measured output and states no speed; with tracking mode, its responses with anti-windup absent have long delays. — at "A plant under regulation with a saturating actuator has five properties: a command a controller requests, taking it as actuator's applying action, is one side taking both turns; an integrator accumulating past actuator's bound is residue; back-calculation and clamping from actuator's own information, feeding back, are a field's observing; actuator's own bound, going with it as its participation, is arrangement sharing."
-
 
 ### 4.5 Sensing follows the tipping
 
@@ -171,14 +162,12 @@ Gathering-Value · Natural Engineering
 - **Possible incohering** · "A whole engineering entry goes on with recursioning, attentioning and same-existing." → Resolving the Hard Problem Registry deploys each entry at three lines, at 2-now-possibling, at 12-next-co-same-existing and at 11-next-co-observing; 5.4's resolving table is re-said at those three lines, or leaves whole.
 - **Possible incohering** · "General method and its ten naming relations to ONE are THIRTEEN's, §7.3." → Resolving Hard Problems has no §7.3, and this pointing stands open with 6.1's. A re-saying offered at 6.1: "Resolving the Hard Problem Registry carries each of ten fixing forms with its name with now and that name 8 up with next." Or the pointing stands as an earlier version's record.
 
-
 ## PART SIX — SIGNATURE AND ENGINEERING RECEIVING
 
 ### 6.1 A signature, five marks
 
 - **Possible incohering** · "Existing ten-row relation between ONE's names and hard-problem fixing forms is THIRTEEN §7.3's." → Resolving Hard Problems has no §7.3 and Exhibit ONE no naming ring. A re-saying offered: "Resolving the Hard Problem Registry carries each of ten fixing forms with its name with now and that name 8 up with next." Or the sentence stands as an earlier version's record.
 - **Possible incohering** · "Co-competencing and bi-moralizing hold their correspondence, as a self proposes it, with full naming." → 6.1's full-prefixing table, `co_bi_co_bi_co_corusing` and `bi_co_bi_co_bi_torusing` with their ends and inner flanks, stands as Engineering's own naming, and none of Exhibit ONE's seventeen names stands for either naming; the table is re-said with the seventeen names, or leaves whole, or stands as Engineering's own naming.
-
 
 ### 6.2 Engineering co-chaining
 
@@ -204,7 +193,6 @@ Gathering-Value · Natural Engineering
 - **Possible exploring** · At both chambers' beats ceasing, breath and the return of the device's last beat as the source of the next pace are still-possibling. At all bodily input ceasing, the proposal's source to share from is empty, and whether that comes while a body lives, and whether the device can be built, are still-possibling. — at "Bio-physical, bio-chemical and bio-electrical proposals retain their particular receiving arrangements; neither list supplies a complete connector by its number."
 - **Possible exploring** · Three design proposals stand at these addresses, each at the entry form, its record still-possibling: sensing the dwell before a lock, as a synchronism-check relay does; meeting a harming lock with a train at the society's own sequence at one member; and giving a between its own sway, as a rolling board does. Natural Naming 2.4 releases *lock* at a changing, a locking an equilibrium entering: these proposals enter at 6.7 with each lock a field's own, or stand with their possible project. — at "Charge, molecule, field, mechanical-acoustic and thermal remain five existing addresses for connector work."
 - **Possible exploring** · A slime mould's carried beat, slowing, fading and returning later, stands beside the pacemaker's question of a beat before silence as a comparison. Its slowing, fading and return leave a device's participation at a heart's bi-coupling unestablished. It reinstates a required reserve beater at no point, and the proposal's safety is still-possibling at that comparison. — at "Bio-physical, bio-chemical and bio-electrical proposals retain their particular receiving arrangements; neither list supplies a complete connector by its number."
-
 
 ### 6.8 Sequencing, recovery and triggering
 

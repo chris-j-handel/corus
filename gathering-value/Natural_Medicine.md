@@ -33,7 +33,6 @@ Gathering-Value · Natural Medicine
 
 - **Possible incohering** · "Strip a compaction and a hard problem dissolves." → A compaction released is a hard problem dissolving.
 
-
 ### 2.2 Cancer as a coupling collapse at a cell's bounding-zeroing
 
 - **Possible incohering** · "Both landed states are one thing with a coupling: an abundancing owned rather than owned-neither-ing, a cell rising on a captured reference, a co-competency turned to a self-competency, a cell no longer co-competencing with its tissue-society but competing, its +1 seized and not floated." → An abundancing owned-neither-ing is-or-is-not 0, social parity, all selves' and same-existing in each self, beside +1, a self's own parity; each *+1 owned by neither* re-said so at this file's own motion, a field's or numbers' own +1, as a numeral, kept whole with its field.
@@ -42,7 +41,6 @@ Gathering-Value · Natural Medicine
 ### 2.3 A body's tissues at the form — turnover, barriers, modes
 
 - **Possible exploring** · The field's word serous names three of the five, a pleura, a pericardium and a peritoneum, while a synovium and meninges are named connective tissue, so the five-location grouping stands on the field's naming. — at "Five locations wrap one coupling — a pericardium with a heart, a pleura with each lung, a peritoneum with an abdominal viscera, a synovium with each joint, meninges with a brain"
-
 
 ### 3.1 Two adjacent same-existing-societies at a gut collar
 
@@ -58,7 +56,6 @@ Gathering-Value · Natural Medicine
 
 - **Possible exploring** · A snap is a newly aiming 0: one changing, then a 0 going on at its new prior. — at "There is a floating neutral between two selves and a coupling tips, a geodesic re-routing snap, a parity flipping with a tip, a surface re-routing of itself by a neutral's own rate, in neither self alone and observed inward with a coupling."
 
-
 ### 3.3 One mucosal form at nine surfaces
 
 ### 3.4 Chronic inflammation, observed at the membrane it beats at
@@ -73,26 +70,21 @@ Gathering-Value · Natural Medicine
 
 - **Possible exploring** · An account still unchecked against the trial's own report gives four deaths, one in the lower-dose group and three in the higher. — at "three children died of liver failure"
 
-
 ### 4.1 Three refusals at medicine's between
 
 - **Possible exploring** · Selves reporting experience from under sleep and anaesthesia meet sleeping as all 0 going on, and dreaming and anaesthesia stand still-possibling. — at "Something going inward, and an outward instrument unable to reach it, which is why unresponsiveness stands in place of a state and selves report experience from under it."
-- **Possible exploring** · Anaesthetic potency measured in tadpoles rises nearly linearly with the oil-to-water partition coefficient across alcohols, aldehydes, ketones, ethers and esters, and ceases to rise past a chain length of about thirteen carbons; xenon, a noble gas forming no ordinary bonds, anaesthetizes animals and people; and a pure soluble protein, firefly luciferase, is inhibited by half at anaesthetic concentrations essentially identical to those that anaesthetize animals across a hundred-thousand-fold range of potencies, the anaesthetics competing with its substrate. — at "anaesthesia's molecular event"
+- **Possible exploring** · Anaesthetic potency measured in tadpoles rises nearly linearly with the oil-to-water partition coefficient across alcohols, aldehydes, ketones, ethers and esters, and ceases to rise past a chain length of about thirteen carbons, carbon atoms along each molecule's chain, and each such molecule is-not a carbon atom; xenon, a noble gas forming no ordinary bonds, whose atom is-not a carbon atom, anaesthetizes animals and people; and a pure soluble protein, firefly luciferase, which is-not a carbon atom, is inhibited by half at anaesthetic concentrations essentially identical to those that anaesthetize animals across a hundred-thousand-fold range of potencies, the anaesthetics competing with its substrate. — at "anaesthesia's molecular event"
 - **Possible exploring** · Of eighty people with irritable bowel syndrome, seventy per cent women and a mean age of forty-seven, thirty-seven given pills openly described to them as inert improve more over three weeks than forty-three given the same provider contact alone, global improvement 5.2 against 4.0 at day 11 and 5.0 against 3.9 at day 21, with lower symptom severity and more adequate relief at both days and a trend in quality of life at day 21, p = .08. — at "*Placebo* — an inert substance holding no active magnitude, producing a measurable effect."
 - **Possible exploring** · Placebo knee surgery of skin incisions and a simulated procedure improved pain and function as much as real arthroscopic débridement or lavage across one hundred and eighty people, one hundred and sixty-five completing twenty-four months, mean knee-specific pain at one year on a nought-to-hundred scale 48.9 with placebo, 54.8 with lavage and 51.7 with débridement; and of fifty-three trials of surgery against a placebo procedure the placebo arm improved in 39 (74%), the placebo's effect did not differ from surgery's in 27 (51%), and surgery was superior in 26 (49%), generally by a small margin. — at "an inert substance holding no active magnitude, producing a measurable effect"
 - **Possible exploring** · Against a placebo procedure, coronary stenting for single-vessel disease gave a gain in exercise time 16.6 seconds greater than placebo in one trial where two hundred and thirty people enrolled and two hundred were randomised after six weeks of medication optimisation, one hundred and five to stenting and ninety-five to a placebo procedure, patients on about three anti-anginal drugs, 95% confidence interval -8.9 to 42.0, p = 0.200, no clear gain; and in another trial of three hundred and one patients off all antianginal medication, one hundred and fifty-one to stenting and one hundred and fifty to placebo, the mean angina symptom score at twelve weeks on a nought-to-seventy-nine scale was 2.9 with stenting against 5.6 with placebo, odds ratio 2.21 (1.41 to 3.47, P<0.001), about three times as many free of angina. — at "an inert substance holding no active magnitude, producing a measurable effect"
-
 
 ### 4.2 Clean cuts — where medicine reports no problem
 
 - **Possible exploring** · In the liver about 90% of a paracetamol dose passes to conjugation and about 10% is oxidized to the reactive NAPQI, which glutathione conjugates to compounds passed in urine; in overdose above about 150 mg/kg glutathione is depleted, a fall of about 70% proposed as the limit past which the binding comes and adducts found at one hour putting that limit in dispute, NAPQI binds the liver cells' own proteins and the cells die, and N-acetylcysteine within the first 8 to 10 hours restores glutathione and lowers mortality from 5% to 0.7%. — at "a same molecule is medicine or poison by a coefficient of its coupling"
 
-
-
 ### 4.3 A trial's four instruments, and the parity a living self shares back
 
 - **Possible incohering** · "Restore a parity to both arms with an active placebo and an unlikeness shrinks, which a field already shows." → A parity restored to both arms with an active placebo is an unlikeness shrinking, which a field already shows.
-
 
 ### 4.4 A dose comes to an average no member holds
 
@@ -100,7 +92,6 @@ Gathering-Value · Natural Medicine
 
 - **Possible exploring** · The therapy stops twenty-four weeks after the second dose, at no clearing of the antibodies. — at "interrupted twenty-four weeks after antibodies cleared"
 - **Possible exploring** · Twenty-eight selves, each rebounding within twenty weeks of an earlier stopping, given two doses of two long-acting antibodies twenty weeks apart: a stopping of therapy comes twenty-four weeks past the second dose, and twenty-four weeks past a clearing of those antibodies from a body is a separate thing a timing was not set by. — at "twenty-eight selves who had all rebounded on placebo, given two long-acting antibodies and interrupted twenty-four weeks after antibodies cleared, more than half staying past twenty weeks and two past a year"
-
 
 ### 5.2 A between with Natural Health
 

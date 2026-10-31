@@ -12,7 +12,6 @@ Gathering-Value · Natural Numbers
 
 - **Possible exploring** · Instruments observe changing in steps, a charge stepping and each element's X-ray colour stepping, and an atomic number names that step. — at "A counting is a clock, a form fixing still from beside its momentarying, with none of its moves: an accounting naming artifacts still, belonging to a field's instrument and coming on with a field going."
 
-
 ### 1.2 A momentary, an opening and its completing
 
 - **Possible incohering** · "**One to nine has three-momentary method whole.**" → Two sayings part at *three-momentary method*. One: prior, now and next are three places the universe goes on through, and four-momentarying is the one fractal method's exchanging; a three-momentary method names the places as the method. The other: this sentence has three-momentary method whole with one to nine, a self's three full momentaries, 1–2, 3–4 and 5–6, its three openings with 1, 3 and 5, each five a side's two momentaries and next one's opening, prior, now and next with each side; and this file has one to nine as four momentaries of exchanging and one momentary of a next scale too.
@@ -42,7 +41,6 @@ Gathering-Value · Natural Numbers
 - **Possible exploring** · Of the first seventeen sums of primes from two, seven are a square or one from a square: 2, 5, 10, 17, 100, 197 and 440. — at "Outward, it couples with each place a self observes it same way: four hundred forty as seventeen primes added, as eight fifty-fives, and as twenty-one squared less one."
 - **A reading** · A reading has seven of seventeen sums a square or one from a square about one in fourteen by chance alone at the seventeenth, and more often with each further form a reading allows itself: true numbers coupling by a shared numeral.
 
-
 ## THREE · UNRELATIONING
 
 ### 3.1 φ, unrelationing rate, prior two added and ratios alternating about it
@@ -65,8 +63,7 @@ Gathering-Value · Natural Numbers
 
 ### 4.1 A closed surface at two, and a torus at nought
 
-- **Possible exploring** · Many virus shells close with twelve five-fold corners, as the sixty-carbon cage closes with its twelve five-folds. — at "Twelve five-folds close a surface whose other faces are six-fold."
-
+- **Possible exploring** · Many virus shells, which are-not carbon atoms, close with twelve five-fold corners, as the sixty-carbon cage, a molecule of sixty carbon atoms that is-not a carbon atom, closes with its twelve five-folds. — at "Twelve five-folds close a surface whose other faces are six-fold."
 
 ### 4.2 Torus, a sphere and one handle, +1
 
@@ -87,7 +84,6 @@ Gathering-Value · Natural Numbers
 - **Possible exploring** · Each six-cycle is three pairs making 17 and two halves of three: 1-9-5-12-8-16 is 1 + 16, 9 + 8 and 5 + 12, the second half the first half's others reversed, and from 17 to 32 its pairs make 49 = 17 + 32. A run pairing first with last returns 3-11-7-10-6-14 as 3 + 14, 11 + 6 and 7 + 10, each 17, and 2-15-7-11-6-10 as 2 + 10, 15 + 6 and 7 + 11, 12, 21 and 18. — at "**Forms among 1 to 16 come again with 17 to 32, sixteen on**, each keeping its odd and even, sixteen being even: bi-foldings 2-15-7-10 and 3-11-6-14 as 18-31-23-26 and 19-27-22-30, and six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 as 18-31-23-27-22-26 and 19-27-23-26-22-30."
 - **A reading** · A reading has each pair at one scale as one at the next.
 - **Possible incohering** · "**Forms among 1 to 16 come again with 17 to 32, sixteen on**, each keeping its odd and even, sixteen being even: bi-foldings 2-15-7-10 and 3-11-6-14 as 18-31-23-26 and 19-27-22-30, and six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 as 18-31-23-27-22-26 and 19-27-23-26-22-30." → Two sayings part at a round, sixteen on or six on. Natural Naming 3.4 has "Sixteen up is its same name with a next round", and here forms come again sixteen on; with the six, a name's three comes again six on, twelve on and eighteen on, and not sixteen on: 17 is co-bi-tri, as 1 is, 17 a six's place, 1 + 6 + 6 + 4, 1 given, and the stream's co-bi-tri falls with each 5 + 6k; sixteen on from 17 is 33, tri-bi-co, an inverting place, not co-bi-tri; eighteen on from 17 is 35, co-bi-tri again. With the six, 1 to 17 is one round only with 17 at a six's place, and a next round of sixteen, 17 to 33, opens like 1 and completes as an inverting place. Each saying of rounds and scales, 8n − 7, 17 to 32 sixteen on, 1–65 and 1–257, rests on sixteen; thirty-six is six sixes, its own round six. Either a round is sixteen, 1 to 17, 17 to 33, each next round's 1 given again with its two priors, as 1 is, 33 co-bi-tri given and the stream opening again; or a round is six, or a number six divides, twelve, eighteen, thirty-six, and sixteen-on sayings re-said; or both, sixteen the names' round and six the prefixes' round, two rounds each its own, meeting with 17 as 1 + 16 and 5 + 12. A deciding binary offered: the prefix stream co bi tri bi co bi with 1 co-bi-tri putting 33 at co-bi-tri, a round of sixteen holding alone, or at tri-bi-co, two rounds, each its own.
-
 
 ### 5.3 Each eight one eight, four at two enterings
 
@@ -110,7 +106,6 @@ Gathering-Value · Natural Numbers
 ### 6.3 One twenty-four with each observing
 
 - **A reading** · A reading pattern-matches nought to twenty-four and twenty-four to sixty as a tendril's inward and outward phases and not its counts of turns, a tendril's two hands observed with equal turns; with a tendril's two hands turning equally, no observing places its corus at twenty-four.
-
 
 ### 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
 
@@ -164,7 +159,6 @@ Gathering-Value · Natural Numbers
 ### 9.1 Podal pairing at four hundred forty, two stations pairing with themselves
 
 ### 9.2 Bi-co-podaling, a going each way at one station
-
 
 ### 9.3 A ring's two stations share parity, and odd primes at odd radii
 

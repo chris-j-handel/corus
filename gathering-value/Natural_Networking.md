@@ -53,13 +53,11 @@ Gathering-Value · Natural Networking
 - **A reading** · Three loops of joined selves are 6 to 2 closing at 8, 10 to 14 closing at 16, and 9 to 17 closing at 17.
 - **A reading** · 1.7's "A same-existing-society goes on as a self with its next scale.", with seven further places, is beside a same-existing-society unconsciously us, its mes each a me.
 
-
 ### 1.8 Self, other and society, the fractal inward and outward of itself
 
 ### 1.9 A coupling opens a term arising in each self with its other
 
 - **Possible exploring** · Two selves bi-coupling receive + + − − and + + + − − −, each repeating, each prior forming through its first sharing; at their sixth coupling the second self at prior − receives − from its sequence and + from its other, the two part and it shares +, and with its sequence alone it shares 0, executed at Exhibit ONE's code. The first self's sharings are alike with and without its other: this pair's finding is a consequence at one side, and a competency at both sides is a further claim outside it. — at "Two selves coupling uncover competency between them."
-
 
 ### 1.10 Abundancing in neither self alone, going on at each receiving
 
@@ -70,7 +68,6 @@ Gathering-Value · Natural Networking
 ### 2.1 Omegaing forward, discovering next existing
 
 - **A reading** · Two sayings part at omega. 2.1 has "Omegaing is reach to next existing.", a reach along into next existing, and 2.2 has "Apexing is gather: prior participating with present relation.", a gather of prior into now. A newer saying has omega a width across, gathering parity, a possibling span of momentaryings. A reach into next existing and a span of possibling are one relation or two, each of the next; the gathering is at apexing by the one and at omega by the other, and no sentence says which names it.
-
 
 ### 2.2 Apexing, prior participating in now
 
@@ -96,7 +93,6 @@ Gathering-Value · Natural Networking
 
 - **Possible exploring** · In a declared construction of spirals of three and five selves, each opening empty, a matching parity along gives A0 a 0 sharing at momentary 22 in the construction beside, while an opposed parity from B0 across makes A0's observed parities part and A0 shares +; B0's first changed sharing is at 26, and further changes go through both spirals' along joins, executed at Exhibit ONE's code: a finding of that empty-start construction alone. — at "A parity goes on through a chain by coupling with each receiving self's own prior."
 
-
 ### 3.5 A local break and the society's going on
 
 ### 3.6 Other a self reaches inward at each co- act, the discovering economy
@@ -114,12 +110,10 @@ Gathering-Value · Natural Networking
 - **Possible exploring** · A honeybee's straight run between its two turning loops points its colony toward food. — at "Method and aim they share belong to their coupling, while each self goes on with its own prior."
 - **A reading** · The honeybee's straight run between its two turning loops is a between where a society's aim is shared.
 
-
 ### 4.5 Each self going on through its actual observing
 
 - **Possible incohering** · "An inquiry shows an abundancing or a capture with a coupling going on that holds it; a count of parities, few or many, supplies no conclusion about either." → An inquiry reaches an abundancing or a capture at the bi-coupling going on that has it; a number of parities, few or many, leaves each an open question, its conclusion at that bi-coupling's going on.
 - **A reading** · A proposal: an engineered surface's coupling with a network can open at each place by adding a binary parity-changing sequence at a resolver's 1-now-existing. Testing observes the surface's patterns as that sequence enters at different co-locations, upstream and downstream, right and not right across, at spanning widths, a snaking treadmill of local momentarying, for the surface's parity-changing seam. A smallest arrangement is two machines, each with the resolver, one parity across a wire, each machine at its own pacing. A testing is engineering's own, of the engineered surface.
-
 
 ### 4.6 Podaling the surface selves share, longer and wider together
 
@@ -132,7 +126,6 @@ Gathering-Value · Natural Networking
 - **A reading** · Two sayings part. One has geodesic entraining at an opposite local parity stopping, or the local parity changing and the entraining passing through. Exhibit ONE's table at an opposite parity has the prior changing to the observed parity and no stopping, executed at Exhibit ONE's code. They part as the table is one local sharing and a stopping is a passage's through successive local momentaryings; what parts a stopping from a changing at one bi-coupling is said at neither.
 - **A reading** · Two sayings part at a match. One has geodesic entraining passing through a local self at the same parity. Natural Intelligence has "One self's sharing parity is a next self's receiving" and "Only parities pass", a match sharing 0 and a next self passing over that 0 and inverting: executed at Exhibit ONE's code, a self at prior + observing + shares 0, its prior same-existing, and a next self observing that 0 alone passes over it and inverts its own prior. By the first a parity goes on through a self at that parity; by the second no parity reaches the next self, and that self inverts by its own prior. At an opposite parity the two agree: the local prior inverts and that parity is shared on.
 
-
 ### 4.8 Living same-existing and non-living discovering at society
 
 ## PART FIVE · SECURITIES
@@ -143,7 +136,6 @@ Gathering-Value · Natural Networking
 - **Possible incohering** · "With a self: same-existing aging to its bound and dissolving; parity inverting with a between; selection a parity, sizeless; each self its own time." → A re-saying offered: the security at the self is a sharing going on at its parity until that parity parts, at Exhibit ONE's 11-next-co-observing, which goes on with a sharing at each momentary until a mismatch, a sharing once with a prior not none again, a same-existing aging to a bound and dissolving being the older code's; or its wording stays until 5.1's eight are said at Exhibit ONE's names, a list whole, all or none. Executed at Exhibit ONE's code, a prior + observing + fifty times stays +, and it inverts with a mismatch and with no parity observed, a prior once formed never none again.
 - **A reading** · Six protecting is offered as bothbothing at its two ways: do-no-harming at a self's sharing outward, and only improving at the surface's sharing inward. Four protections beside 5.1's six part from them at a numbers' relation, its deriving the method's next step.
 - **Possible exploring** · An older Exhibit ONE code's executings, a spiral of selves sharing two ways, each self observing its two neighbours' sharings, at spirals of three to six selves each opening alike: each self comes to its parities again each 4 momentaries, −, −, +, +; one way into one self stopping, the other way going on, each self again each 4; both ways into that self stopping, each self inverting with each momentary, and both ways sharing again restoring no four. The three phases are unexecuted there. Executing with Exhibit ONE's code as it stands, at a set-up chosen at this reading, each self opening +, 10 going to its next self and 6 to its prior: coupling whole and one way into one self stopping from momentary 5 on, each self again each 4; both ways into one self stopping, from momentary 5 on or at momentaries 5 to 8 alone, each self again each 2; at spirals of three, four, five and six alike. — at "**Drop one of six and a way or a phase lives with no protection**, and with no protection a reach comes inward or it leaks outward, sharing space in capture, a self stopping."
-
 
 ### 5.2 Six self-boundings at the surface, each inversion stopping its own way
 
@@ -219,7 +211,6 @@ Gathering-Value · Natural Networking
 ### 6.11 Each self joining opens the reach, and the prior centre becomes a ring
 
 - **A reading** · Podaling momentary circumferencing is offered as a surface's form about one podaling: bounding, zeroing, tunneling and spiraling in lines about it, each farther from it than the last, two ways, one way at a time. Each circumferencing is a sharing from an other or from the society reaching the local self, one number on toward that sharing, and a sharing going back from that self. From each way a sharing is a changing at the self or is none: one, the other, both or neither at a momentary. Circumferencings are about one podaling alone, each other self at its own 0, with no one centre and no one outward or inward momentary over the selves. One number on, an odd opening, a + at a sharing and a changing made are four subjects; this file has "And no centre stays a centre."
-
 
 ### 6.12 Discovering through the existing connections
 
