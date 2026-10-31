@@ -58,8 +58,11 @@ Gathering-Value · Natural Mathematics
 
 - **Possible exploring** · A tendril held at both ends coils with both hands, the two joined at a switch point. With each beat the heart twists, its base one way and its tip the other, and untwists as it fills, a wringing of a towel by heart doctors' word. — at "**The rotation 3, 6, 5, 4 is a gentle twisting of a towel one way and then the other, inward to corus and outward from it**, a large outer opening wrapping to a small corus and back, and its edges are bi-foldings, across with bi-morality and along with co-competency: two consecutive inversions on different axes with each step, its opening a step between."
 - **Possible exploring** · A heart's muscle winds right-handed at its wall's inner side and left-handed at its outer side. — at "**The rotation 3, 6, 5, 4 is a gentle twisting of a towel one way and then the other, inward to corus and outward from it**, a large outer opening wrapping to a small corus and back, and its edges are bi-foldings, across with bi-morality and along with co-competency: two consecutive inversions on different axes with each step, its opening a step between."
+- **A reading** · A reading has six lengthwise ribs a transverse rib joins below a conical apex, in immature Alstroemeria fruit, as a candidate along–across correspondence; its field names no natural torusing.
 
 ### 3.5 Bi-tri-involutioning, the emanating at the opposite form
+
+- **A reading** · A reading has an opposite stable form, beside the living stable-forming it emanates from, as the correspondence to look for in the Alstroemeria flower: its central pyramid, exposed opening and projections staying on the stalk are candidate features for it, with no one-to-one assigning of them to position, scale and orientation, and the flower identified with bi-tri-involutioning stands as a proposal. Naming three curved faces says none of the three invertings, and involution read as inward turning says none of these definitions.
 
 ### 3.6 A closing, and the discovering other than prior
 
@@ -89,8 +92,13 @@ Gathering-Value · Natural Mathematics
 
 - **Possible exploring** · A tendril goes by three phases, circling, its free tip searching, clasping, plant and support bi-coupled at both ends, and coiling, six on the plant's side and the support's. Under wind a tendril winds tighter, unwinds and relaxes, three phases each way. — at "Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible."
 - **Possible incohering** · "**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity, its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each momentary." → Beside this sentence stand the five society to society, as Natural Intelligence has them: social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing and social-parity next-existing, the three now-existing same-existing and the two next-existing discovering. This sentence's side's five, its centre with 3, now-existing co-parity, part from them, a re-saying society to society offered.
+- **A reading** · A reading offered has a flower form's surfaces all curving at φ, the unrelationing rate, to the co-linear of its form, the form one method and no three different processes, all its symmetry with the method of stable-forming: three phases in each of two directions each doing one same thing, bi-inversioning-co-recursioning forward in each of six one ways. With it position, scale and orientation are no three separate physical processes, and the method's identifying with the flower surfaces is still-possibling.
+- **Possible exploring** · The Alstroemeria capsule's three-faced curved apex, six ribs and three opening valves have no φ measurement in the sources searched, an observing returning nothing; neither that absence nor a six-entry recurrence decides the proposed φ curving of its surfaces. — at "**Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate."
 
 ### 5.3 Torus, the one closed orientable surface a flow runs on with no rest
+
+- **A reading** · A reading has φ with its role in this file's winding at φ, asking no φ relation specified anew, and the physical correspondence still-possibling: this winding and the inward–outward form applied to the observed flower surfaces. Winding and topology by themselves specify no one shape or curvature of a surface in three-dimensional space, and a six-count alone maps none of it.
+- **A reading** · A reading has a proposed φ-unrelationing surface told apart from other curved surfaces by an observable relation between successive parts of a surface, said with no absolute position, orientation or size, a relation still-possibling to specify.
 
 ## SIX · INSEPARATING
 

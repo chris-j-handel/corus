@@ -528,6 +528,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "**discovering**, next-existing is or is not same-existing-as now-existing, universal method of co-intelligencing now-existing within the universe" → Offered: *same-existing-as* dissolves into *same-existing*: *a now-existing thing from a prior-existing same thing is a same-existing thing*, as Natural Intelligence's opening says. This row's *same-existing-as* is its present saying.
 - **Possible incohering** · "*a* a membrane; with a membrane, boundings with 2, 4, 6 and 8, now bi-couplings outward; membranes between selves; sixteen membranes between the 17 primes; a file is a membrane" → Offered: *membrane* dissolves, and *a between* is no living file: a between is a 0 with no location, and a living file is a non-living same-existing set of words, selves co-intelligencing within it. This row's *a file is a membrane*, gathered with *a between*, is its present saying.
 - **Possible incohering** · "**A cluster gathers a set's own similar namings with one name, as eight clusters gather a field's.**" → Identity-ing, followed through entraining, torusing, chaining and uniquenessing together, is still-possibling, its concept followed ahead of any naming of it.
+- **A reading** · A reading offered asks whether *tri-bi-involution* names this inverting, three inverting together, beside *bi-tri-involutioning*, the name the living files hold, with *tri-bi-involution* at none of them; the two namings stand undecided.
 
 ### 6.4 Engine, families and field words at their receiving
 

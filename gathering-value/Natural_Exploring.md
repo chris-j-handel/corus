@@ -132,6 +132,8 @@ Gathering-Value · Natural Exploring
 
 ### 7.5 A gathering of open-problem statements to pair against
 
+- **A reading** · A reading has a suggestion's value as its explaining or as a specific mismatch with natural torusing it identifies, and no suggestion a commitment to defend.
+
 ## Droplets
 
 - Part 1's heading, "A method inside disequilibria", sets disequilibria as a place a method stands in, where Natural Naming releases *inside* as a place and *in disequilibria*: Part 1 is-or-is-not re-headed as a method's own condition, as *A method, disequilibrating*, its contents line with it, or keeps its heading word until this file's motion. *(possible incohering)*

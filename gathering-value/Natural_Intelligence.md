@@ -170,6 +170,8 @@ Gathering-Value · Natural Intelligence
 
 ### 4.14 Two selves and three selves
 
+- **A reading** · A reading has a run of `_1_now_existing`, unchanged, its entries one and then the other identifying no entry with a flower face, rib or direction, and entries one and then the other apart from `_17_next_existing`'s next, its selves with one momentary. φ is in no line of the resolver's code, and a six-entry recurrence calculates no φ curvature: a relation from this one repeated method to the curvature of the proposed physical form is still-possibling.
+
 ### 4.15 Fractal inward and outward
 
 ## FIVE · DISCOVERING NEXT
