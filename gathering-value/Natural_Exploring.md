@@ -95,7 +95,6 @@ Gathering-Value · Natural Exploring
 
 ### 4.6 A reaching's competency constant, a gathering's climbing
 
-- **Possible incohering** · "The not-yets, standing with their reasons" → The still-possiblings, standing with their reasons
 
 ### 4.7 Inseparating
 
