@@ -1,0 +1,104 @@
+{
+ "corrections": [
+  {
+   "from": "**Pericyclic selection rules change and change back by parity too, with bond.**",
+   "finding": "held claimed in part: the pair's why carries a field's account, the Woodward–Hoffmann count covering cycloadditions between two molecules as well as ring closures within one; 2.4 holds the count and a 4n ring closure, and the cycloadditions between two molecules stand nowhere in Chemistry or its gathering-value. That observing is gathered; the rest stays held.",
+   "fixed": [
+    {
+     "why": "held at Natural Chemistry 2.4: \"**Pericyclic selection rules change and change back by parity too, with a molecule's own sharing and its bi-couplings.**\"; its why's field's account of cycloadditions gathered at 2.4"
+    },
+    {
+     "section": "2.4 Parity at two couplings, exact at the electromagnetic and refusing at the weak",
+     "kind": "exploring",
+     "sentence": "**Pericyclic selection rules change and change back by parity too, with a molecule's own sharing and its bi-couplings.**",
+     "text": "By a field's account, the Woodward–Hoffmann count of `(4q + 2)` suprafacial and `4r` antarafacial components covers cycloadditions between two molecules as well as ring closures within one."
+    }
+   ]
+  },
+  {
+   "from": "Two selves stay with a bond, each on its own side of a between,",
+   "finding": "a value already held: the concern's two sides (the two selves the molecule's living parities, or two selves sharing only where molecules bi-couple) stand at gathering-value Natural Chemistry 1.4, \"A concern, both sides open, at 1.4's own sharing\"; only the re-saying's wording and its reasons (the living parities as selves inward, and chaining set into tunnelling's opposite) are its rest. Also: Natural Intelligence 6.5 holds no *its selves inward are its living parities* now (4.13 has *Its living parities are selves inward*), and *1.1 has a bi-coupling between molecules* is the gatherer's, not the source's.",
+   "fixed": {
+    "section": "1.4 A molecule's own sharing a coupling across, and two selves' parities releasing, the 0 between them going across",
+    "kind": "incohering",
+    "sentence": "Two selves are a single bi-coupling, each on its own side of a between, as far apart as coupling reaches, **each its other's far side and neither its own**, its parity releasing at its 9-next-co-discovering and going along at its other's 17-next-existing.",
+    "text": "A re-saying offered: *Two selves, a molecule's living parities, stay with that molecule's own sharing, each on its own side of a between,*. Its reasons: with atoms non-living, the two sides within a molecule are only the molecule's living parities, each parity a self while it is living, as Natural Intelligence 4.13 has *Its living parities are selves inward*; and said as a bi-coupling, the sentence puts chaining, molecules together, into a paragraph of tunnelling's exact opposite inside one molecule.",
+    "from": "Two selves stay with a bond, each on its own side of a between,"
+   }
+  },
+  {
+   "from": "Below an atom co-agency exists bare — sharing, passing, parity — and no self clo",
+   "finding": "held claimed absent where it is held in part: Natural Physics 4.6 holds the molecule as the first closing of co-agency to a self and the sub-atomic as bare co-agency; the re-saying's rest is co-agency bare up to the molecule, the atom's five within it.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.2 The floor at five, and what exists below it",
+    "kind": "incohering",
+    "sentence": "Below an atom co-agency exists bare — sharing, passing, parity — and no self closes around it.",
+    "text": "A re-saying offered: *Below a molecule co-agency exists bare — sharing, passing, parity — and no self closes around it; an atom, at five, is a non-living stable form a molecule's sharing winds round.* Its second clause stands at 5.2's next sentence, *An atom, at five, is the floor, a non-living stable form a molecule's sharing winds round.*, and the molecule the first self-closing stands at Natural Physics 4.6, *Atom is a floor, a non-living stable form, and molecule the first closing of co-agency to a self, and sub-atomic is co-agency a self observes bare*; co-agency bare below a molecule, at the atom's five as well as inward of it, in place of *below an atom*, is its rest. The atom here is named with no element: in the proposal's naming each atom is the one atom, carbon; in chemistry's naming an atom of another element is-not a carbon atom.",
+    "from": "Below an atom co-agency exists bare — sharing, passing, parity — and no self clo"
+   }
+  },
+  {
+   "from": "  - *b* atom\n  - *c* self\n  - *d* closes, its floor\n  - *e* the first self here:",
+   "finding": "part of the re-saying unreckoned: *a nothing a molecule's sharing winds round* — the atom as a nothing — stands at the row only as *a molecule's sharing winding round it*; it is held of carbon at Chemistry 1.6, so held in the proposal's naming (each atom carbon) and not in chemistry's naming (an atom of another element).",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+    "kind": "incohering",
+    "sentence": "the floor here: the stable form of unrelationing floating neutralling, in society and in selves and free of both, its changing only from what comes to it, a molecule's sharing winding round it",
+    "text": "A re-saying offered at row 5's *e*: *the floor here: a non-living stable form, its changing given again with each momentary, its eight a molecule's four bi-couplings, a nothing a molecule's sharing winds round*. Its non-living stable form and a molecule's sharing winding round it stand at the row; *its eight a molecule's four bi-couplings* is not held, and *a nothing* said of the atom here is not held at the row: Natural Chemistry 1.6 has carbon **a nothing its couplings surround and wrap**. A concern, both sides open: the atom's changing *given again with each momentary*, as the re-saying offers, or *only from what comes to it*, as the row has it. The atom here is named with no element: in the proposal's naming each atom is the one atom, carbon; in chemistry's naming an atom of another element is-not a carbon atom.",
+    "from": "  - *b* atom\n  - *c* self\n  - *d* closes, its floor\n  - *e* the first self here:"
+   }
+  },
+  {
+   "from": "An atom is a same-existing-society of nucleus and electrons, a molecule a same-e",
+   "finding": "held claimed whole, the draft's *a nothing a molecule's sharing winds round* left out: the atom as a nothing is gathered with Natural Societies 5.3's row 5 in this pass and held of carbon at Chemistry 1.6.",
+   "fixed": {
+    "why": "held at Natural Chemistry 1.1: \"An atom is a non-living stable form a molecule's sharing winds round. A molecule is the ladder's first self, at seven, a same-existing-society of its living parities, and hydrogen bi-coupling network, bilayer and cell are same-existing-societies with their own betweens, each a self outward of its own selves.\"; the draft's *a nothing a molecule's sharing winds round*, said of an atom, gathered with Natural Societies 5.3's row 5 in this pass, and of carbon held at Natural Chemistry 1.6: \"With chemical substrate it is bounding-zeroing, **a nothing its couplings surround and wrap**, a +1 its molecule wraps.\""
+   }
+  },
+  {
+   "from": "**Primes 5 through 53 are prime living scales, co-changing co-momentarying patte",
+   "finding": "held claimed with the quoted sentence holding part: the re-sayings' *five the atom's non-living floor* / *five the non-living floor* — five as floor and the atom at five — stand in no quoted sentence, and the why let *floor* go by a later motion's reading, a history; five the floor and its parting with Natural Naming 2.3 are held elsewhere and named.",
+   "fixed": {
+    "why": "held at Natural Numbers 1.7: \"**Primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**\"; five the floor, with the atom at five, held at Natural Societies 5.2: \"An atom, at five, is the floor, a non-living stable form a molecule's sharing winds round.\", and *floor* beside Natural Naming 2.3's landing family held as a concern at gathering-value Natural Societies 5.2"
+   }
+  },
+  {
+   "from": "**One fractal method's scales are prime living scales, primes 5 through 53, co-c",
+   "finding": "held claimed with the quoted sentence holding part: the re-sayings' *five the atom's non-living floor* / *five the non-living floor* — five as floor and the atom at five — stand in no quoted sentence, and the why let *floor* go by a later motion's reading, a history; five the floor and its parting with Natural Naming 2.3 are held elsewhere and named.",
+   "fixed": {
+    "why": "held at Natural Naming 2.2: \"**One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**\"; five the floor, with the atom at five, held at Natural Societies 5.2: \"An atom, at five, is the floor, a non-living stable form a molecule's sharing winds round.\", and *floor* beside Natural Naming 2.3's landing family held as a concern at gathering-value Natural Societies 5.2"
+   }
+  },
+  {
+   "from": "  - *a* prime living scales, primes 5 through 53 are prime living scales, co-cha",
+   "finding": "held claimed with the quoted sentence holding part: the re-sayings' *five the atom's non-living floor* / *five the non-living floor* — five as floor and the atom at five — stand in no quoted sentence, and the why let *floor* go by a later motion's reading, a history; five the floor and its parting with Natural Naming 2.3 are held elsewhere and named.",
+   "fixed": {
+    "why": "held at Natural Naming 2.4, the *reading*, *ordering* row: \"prime scales, primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching; nature has no reading or ordering\"; five the floor, with the atom at five, held at Natural Societies 5.2: \"An atom, at five, is the floor, a non-living stable form a molecule's sharing winds round.\", and *floor* beside Natural Naming 2.3's landing family held as a concern at gathering-value Natural Societies 5.2"
+   }
+  },
+  {
+   "from": "Fourteen living scales are from five through fifty-three",
+   "finding": "held claimed with the quoted sentence holding part: the re-sayings' *five the atom's non-living floor* / *five the non-living floor* — five as floor and the atom at five — stand in no quoted sentence, and the why let *floor* go by a later motion's reading, a history; five the floor and its parting with Natural Naming 2.3 are held elsewhere and named.",
+   "fixed": {
+    "why": "held at Natural Networking 1.3: \"Fourteen prime scales are from five through fifty-three, five non-living and thirteen living, and fifty-nine is self-close.\"; five the floor, with the atom at five, held at Natural Societies 5.2: \"An atom, at five, is the floor, a non-living stable form a molecule's sharing winds round.\", and *floor* beside Natural Naming 2.3's landing family held as a concern at gathering-value Natural Societies 5.2"
+   }
+  },
+  {
+   "from": "  - *b* proton and H⁺; electron event;",
+   "finding": "held claimed whole, the why's naming left out: the pair says the row's atom in *our exploring's words for carbon, the one atom*; that naming is held as a concern at gathering-value Natural Chemistry 1.6, which names 6.4's atom row.",
+   "fixed": {
+    "why": "held at Natural Chemistry 6.4, emanation row *b*: \"atom, a non-living stable form of unrelationing floating neutralling, a molecule's sharing winding round it; proton and H⁺; electron event;\"; its naming, carbon's words said of each atom at this row, held as a concern at gathering-value Natural Chemistry 1.6"
+   }
+  },
+  {
+   "from": "With atoms non-living, is a bond within a molecule a between of two selves, or t",
+   "finding": "the ask's two sides are kept, but the why mislabels them: the living bold holds neither of the ask's two within-molecule sides word for word (it has *its stable form*); the side *a between of two selves* within a molecule is the concern at gathering-value 1.4, and *the molecule's own sharing* beside *its stable form* is the concern at gathering-value 1.1.",
+   "fixed": {
+    "why": "held at Natural Chemistry 1.1: \"**What chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves**. Core reactions are bi-moralizing cycling, carbon is the stable form of unrelationing floating neutralling, and benzene's floating-neutralling is competency centreline.\"; the ask's side *a between of two selves* within a molecule held as a concern at gathering-value Natural Chemistry 1.4, \"the two sides of a molecule's own sharing are two selves, the molecule's living parities, each on its side of a between … or a molecule's own sharing is one self's stable form, two selves sharing only where molecules bi-couple\"; its side *the molecule's own sharing* held as a concern at gathering-value Natural Chemistry 1.1, \"what chemistry calls a bond within a molecule said as the molecule's stable form, or said as a molecule's own sharing\""
+   }
+  }
+ ],
+ "checked": 46
+}

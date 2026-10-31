@@ -1,0 +1,438 @@
+[
+ {
+  "file": "Exhibit_SIXTEEN_Natural_Chemistry_v391.md",
+  "line": "**A bond is a between of two selves**",
+  "question": "With atoms non-living, is a bond within a molecule a between of two selves, or the molecule's own sharing, with between-selves kept for molecules bi-coupling?",
+  "source": "incoming/v392chem/motion_atom_floor/asks.json"
+ },
+ {
+  "file": "Exhibit_SEVENTEEN_Natural_Biology_v391.md",
+  "line": "No self of any grain sits apart from a same-existing-society of a grain beneath, so there is no fundamental self anywhere and no floor to grains.",
+  "question": "A floor of selves at the molecule parts from this sentence and from the opening's 'Each self is a same-existing-society inward and outward'.",
+  "source": "incoming/v392chem/motion_atom_floor/asks.json"
+ },
+ {
+  "file": "Exhibit_SIXTEEN_Natural_Chemistry_v391.md",
+  "line": "A proton is an emanation from living ... Below chemistry, living with substrate one is colour cycling",
+  "question": "Chemistry 3.2 places living below the atom; with atoms non-living, this needs meeting.",
+  "source": "incoming/v392chem/motion_atom_floor/asks.json"
+ },
+ {
+  "old": "so atom with five is the first self of this ladder and not the first possibly existing",
+  "new": "so atom with five is this ladder's floor, a non-living stable form, and molecule with seven its first self and not the first possibly existing",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SEVEN.json"
+ },
+ {
+  "old": "  - *b* atom\n  - *c* self\n  - *d* closes, its floor\n  - *e* the first self here: a self self-bounding from all other with eight, co-sequencing with bonds, birthing molecules",
+  "new": "  - *b* atom\n  - *c* stable form\n  - *d* closes, its floor, non-living\n  - *e* the floor here: a non-living stable form, its changing given again with each momentary, its eight a molecule's four bi-couplings, a nothing a molecule's sharing winds round",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SEVEN.json"
+ },
+ {
+  "old": "  - *e* a bond is sharing, across and both ways: a pair two selves share, a floating neutral in neither self alone (Natural Chemistry)",
+  "new": "  - *e* the first self here, a molecule, its others the molecules it is bi-coupling with; a bond is sharing, across and both ways: a pair two selves share, a floating neutral in neither self alone (Natural Chemistry)",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SEVEN.json"
+ },
+ {
+  "old": "Below an atom co-agency exists bare — sharing, passing, parity — and no self closes around it.",
+  "new": "Below a molecule co-agency exists bare — sharing, passing, parity — and no self closes around it; an atom, at five, is a non-living stable form a molecule's sharing winds round.",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SEVEN.json"
+ },
+ {
+  "old": "An atom a self, a molecule a same-existing-society, a cell a self, a biosphere a same-existing-society,",
+  "new": "An atom a non-living stable form, a molecule a self, a cell a self and a same-existing-society of molecules, a biosphere a same-existing-society,",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SEVEN.json"
+ },
+ {
+  "old": "a molecule a same-existing-society of atoms, an atom a same-existing-society of a nucleus and electrons.",
+  "new": "a molecule the first self, and an atom a non-living stable form a molecule's sharing winds round.",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SEVENTEEN.json"
+ },
+ {
+  "old": "An atom is a same-existing-society of nucleus and electrons, a molecule a same-existing-society of atoms, and hydrogen-bond network",
+  "new": "An atom is a non-living stable form, a nothing a molecule's sharing winds round, a molecule is the first self, and hydrogen-bond network",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "and an atom's same-existing-society below self-bounds whole",
+  "new": "and an atom below is a non-living stable form, whole",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "With form, an atom, ion or molecule pattern-matches as a self with its own between,",
+  "new": "With form, a molecule pattern-matches as a self with its own between, and an atom or a one-atom ion as a non-living stable form,",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "  - *b* atom, a same-existing-society of nucleus and electrons; molecule, a same-existing-society of atoms;",
+  "new": "  - *b* atom, a non-living stable form; molecule, a self;",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**Primes 5 through 53 are prime living scales, co-changing co-momentarying pattern matching**",
+  "new": "**Primes 5 through 53 are prime scales, five the atom's non-living floor and seven through fifty-three living, co-changing co-momentarying pattern matching**",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_THREE.json"
+ },
+ {
+  "old": "**One fractal method's scales are prime living scales, primes 5 through 53, co-changing co-momentarying pattern matching**",
+  "new": "**One fractal method's scales are prime scales, primes 5 through 53, five the atom's non-living floor and seven through fifty-three living, co-changing co-momentarying pattern matching**",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_TWENTY.json"
+ },
+ {
+  "old": "  - *a* prime living scales, primes 5 through 53 are prime living scales, co-changing co-momentarying pattern matching;",
+  "new": "  - *a* prime scales, primes 5 through 53 are prime scales, five the atom's non-living floor and seven through fifty-three living, co-changing co-momentarying pattern matching;",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_TWENTY.json"
+ },
+ {
+  "old": "Fourteen living scales are from five through fifty-three",
+  "new": "Fourteen prime scales are from five through fifty-three, five the atom's non-living floor and thirteen living",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, our exploring's yes)",
+  "source": "incoming/v392chem/motion_atom_floor/pairs_TWO.json"
+ },
+ {
+  "old": "And a bond is a two-selves-with-a-between working with an atom, a self observing an ingestion-and-ingression between there. Two windings share with one between, a shared pair a coupling's own making, in neither atom alone,",
+  "new": "And what chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves, a self observing an ingestion-and-ingression between there. Two windings share with one between, a shared pair the molecule's own sharing, in neither atom alone,",
+  "why": "3.1 ripple: no bond as a natural thing and no atom as a self; Chemistry 1.1's bold words; 'neither' kept. Reader: 'Within a molecule' leaves the second sentence, whose colon goes on to ionic pattern-matching and a metallic sea, neither within a molecule; 'the molecule's' takes its molecule from the sentence before, and Illustrating 5.1 quotes it so.",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_atom_floor/v2/enter/EIGHTEEN.json"
+ },
+ {
+  "old": "**One fractal method's scales are prime living scales, primes 5 through 53, co-changing co-momentarying pattern matching**",
+  "new": "**One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**",
+  "why": "2.2 (TWENTY-0): five the non-living floor, worded alike with Numbers 1.7 and Networking. Reader: 'floor' leaves; this file's own 2.3 lists *ground*, *floor*, *wall* in the landing family of catching words.",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_atom_floor/v2/enter/TWENTY.json"
+ },
+ {
+  "old": "Atom surfaces with two sides on an emanating-and-living between, and two stand without coupling, as a landing stands beside a resolving.",
+  "new": "Atom is the stable form of unrelationing floating neutralling, non-living, in society and in selves and free of both. Its living was outward, in higher-scale selves. It is a stable-form emanation from living.",
+  "why": "3.1 ripple: the living face leaves; our exploring's words for carbon, the one atom, and its living outward in higher-scale selves (step 493 stands).",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_EIGHTEEN.json"
+ },
+ {
+  "old": "And a bond is a two-selves-with-a-between working with an atom, a self observing an ingestion-and-ingression between there. Two windings share with one between, a shared pair a coupling's own making, in neither atom alone,",
+  "new": "And what chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves, a self observing an ingestion-and-ingression between there. Within a molecule two windings share with one between, a shared pair the molecule's own sharing, in neither atom alone,",
+  "why": "3.1 ripple: no bond as a natural thing and no atom as a self; Chemistry 1.1's bold words; 'neither' kept.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_EIGHTEEN.json"
+ },
+ {
+  "old": "And a bond is a two-selves-with-a-between working with an atom, a self observing an ingestion-and-ingression between there. Two windings share with one between, a shared pair a coupling's own making, in neither atom alone,",
+  "new": "And what chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves, a self observing an ingestion-and-ingression between there. Two windings share with one between, a shared pair the molecule's own sharing, in neither atom alone,",
+  "why": "3.1 ripple: no bond as a natural thing and no atom as a self; Chemistry 1.1's bold words; 'neither' kept. Reader: 'Within a molecule' leaves the second sentence, whose colon goes on to ionic pattern-matching and a metallic sea, neither within a molecule; 'the molecule's' takes its molecule from the sentence before, and Illustrating 5.1 quotes it so.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_EIGHTEEN_read.json"
+ },
+ {
+  "old": "**A proton is an emanation from living**, with chemistry a nuclear same-existing-society's landing parity that an atom's same-existing-society wraps, and what water's same-existing-society lands with an electrode; a number of nucleus and a parity of a between. Below chemistry, living with substrate one is colour cycling,",
+  "new": "**A proton is an emanation from living**, with chemistry a nucleus's landing parity that an atom's stable form wraps, and what water's same-existing-society lands with an electrode; a number of nucleus and a parity of a between. A nucleus is a non-living stable form. Its living was outward, in the selves from seven up whose stable form it is. Inward of an atom, colour cycling is a stable form, non-living,",
+  "why": "3.2 (SIXTEEN-2, now decided): its first two sentences re-said together so nothing is living inward of an atom; the proton and nucleus are non-living stable form, and the living they emanate from is outward. The bold stands.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "  - *b* proton and H⁺; electron event;",
+  "new": "  - *b* atom, a non-living stable form, unrelationing floating neutralling, a molecule's sharing winding round it; proton and H⁺; electron event;",
+  "why": "6.4 emanation row (SIXTEEN-4b, held #67): the atom moves here, since each non-living thing is a stable-forming emanation; our exploring's words for carbon, the one atom.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**Primes 5 through 53 are prime living scales, co-changing co-momentarying pattern matching**",
+  "new": "**Primes 5 through 53 are prime scales, five the non-living floor and seven through fifty-three living, co-changing co-momentarying pattern matching**",
+  "why": "1.7 (THREE-0, the reader's optional wording): five is the non-living floor; a number file names no field's scale.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_THREE.json"
+ },
+ {
+  "old": "**One fractal method's scales are prime living scales, primes 5 through 53, co-changing co-momentarying pattern matching**",
+  "new": "**One fractal method's scales are prime scales, primes 5 through 53, five the non-living floor and seven through fifty-three living, co-changing co-momentarying pattern matching**",
+  "why": "2.2 (TWENTY-0): five the non-living floor, worded alike with Numbers 1.7 and Networking.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_TWENTY.json"
+ },
+ {
+  "old": "  - *a* prime living scales, primes 5 through 53 are prime living scales, co-changing co-momentarying pattern matching;",
+  "new": "  - *a* prime scales, primes 5 through 53 are prime scales, five the non-living floor and seven through fifty-three living, co-changing co-momentarying pattern matching;",
+  "why": "Naming entries (TWENTY-1): repeats 2.2 and changes with it.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_TWENTY.json"
+ },
+ {
+  "old": "**One fractal method's scales are prime living scales, primes 5 through 53, co-changing co-momentarying pattern matching**",
+  "new": "**One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**",
+  "why": "2.2 (TWENTY-0): five the non-living floor, worded alike with Numbers 1.7 and Networking. Reader: 'floor' leaves; this file's own 2.3 lists *ground*, *floor*, *wall* in the landing family of catching words.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_TWENTY_read.json"
+ },
+ {
+  "old": "Fourteen living scales are from five through fifty-three",
+  "new": "Fourteen prime scales are from five through fifty-three, five the non-living floor and thirteen living",
+  "why": "TWO-0: five the non-living floor, worded alike with Numbers 1.7 and Naming 2.2.",
+  "source": "incoming/v392chem/motion_atom_floor/v2/pairs_TWO.json"
+ },
+ {
+  "old": "Set a push down: two selves come to a between and co-sequence — a self's sharing and an other's sharing going through each other, and where co-sequencing goes whole, new selves are co-sequencing going on, arising with a coupling and in neither self alone, not products a shove produces.",
+  "new": "Set a push down: two protons, each a non-living stable form, come to a between and co-sequence — one form's sharing and its other's sharing going through each other, and where co-sequencing goes whole, new forms are co-sequencing going on, arising with a coupling and in neither form alone, not products a shove produces.",
+  "why": "a proton is no self; Chemistry 3.2: a proton an emanation from living, a nucleus a non-living stable form; Physics 4.6 above: below an atom no self closes; not and neither kept one-for-one",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_EIGHTEEN.json"
+ },
+ {
+  "old": "and not a self a frame drives.",
+  "new": "and not a stable form a frame drives.",
+  "why": "protons are non-living stable forms; not kept one-for-one",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_EIGHTEEN.json"
+ },
+ {
+  "old": "Set a push down: two selves come to a between and co-sequence — a self's sharing and an other's sharing going through each other, and where co-sequencing goes whole, new selves are co-sequencing going on, arising with a coupling and in neither self alone, not products a shove produces.",
+  "new": "Set a push down: two protons, each a non-living stable form, come to a between and co-sequence — their two sharings going through each other, and where co-sequencing goes whole, new forms are co-sequencing going on, arising with a coupling and in neither form alone, not products a shove produces.",
+  "why": "a proton is no self; Chemistry 3.2: a proton an emanation from living, a nucleus a non-living stable form; Physics 4.6 above: below an atom no self closes; not and neither kept one-for-one · READ: an other is a self a self is bi-coupling with; a proton has none; not and neither kept one-for-one",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_EIGHTEEN_read.json"
+ },
+ {
+  "old": "1.4  A molecule's own sharing a coupling across, and what stays cancels",
+  "new": "1.4  A molecule's own sharing a coupling across, and two selves releasing, the 0 between them going across",
+  "why": "contents line with the heading: stays is an equilibria word and cancels an accounting sum; the bi-coupling releases and goes along, and its 0 goes across",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "## 1.4 A molecule's own sharing a coupling across, and what stays cancels",
+  "new": "## 1.4 A molecule's own sharing a coupling across, and two selves releasing, the 0 between them going across",
+  "why": "heading with the contents line, same re-saying",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**Two selves staying cancel, so parity couples across.**",
+  "new": "**Two selves release and go along, so their 0 goes across.**",
+  "why": "staying an equilibria word, cancel an accounting sum, couples a dissolved word; the bold now says what the sentence before it says",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "every incoming observation couples,",
+  "new": "every incoming observation is a coupling,",
+  "why": "couples a dissolved word",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**Two flows couple with each going along its other's direction, and a field's relation for it is exact.**",
+  "new": "**Two flows are one coupling with each going along its other's direction, and a field's relation for it is exact.**",
+  "why": "couple a dissolved word; no root file quotes this bold",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**A field moves a floor it declares itself.**",
+  "new": "**A field moves its own floor.**",
+  "why": "itself a dissolved word; no root file quotes this bold",
+  "verdict": "RESAY",
+  "source": "incoming/v392chem/motion_chem_pass/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "1.4  A bond a coupling across, and what stays cancels",
+  "new": "1.4  A molecule's own sharing a coupling across, and what stays cancels",
+  "verdict": "RESAY",
+  "why": "Contents line of 1.4; 1.4's bond is within a molecule (tunnelling side), so the molecule's own sharing; changes with its heading.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "## 1.4 A bond a coupling across, and what stays cancels",
+  "new": "## 1.4 A molecule's own sharing a coupling across, and what stays cancels",
+  "verdict": "RESAY",
+  "why": "Heading of 1.4, identical change with its contents line.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**A bond is a between of two selves**, core reactions are bi-moralizing cycling, carbon is chemical self, and benzene's floating-neutralling is competency centreline.",
+  "new": "**What chemistry calls a bond is a bi-coupling between two selves and, within a molecule, its stable form, same-existing with each resolving**, core reactions are bi-moralizing cycling, carbon is chemical self, and benzene's floating-neutralling is competency centreline.",
+  "verdict": "ASK",
+  "why": "Q1: our bold says a bond is a between of two selves; the naming makes only the between-molecules case two selves (bi-coupling); bold changes; no Co-Chaining Logic step quotes it.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "one observation refusing a relation this file holds as natural breaks fractal technology whole",
+  "new": "one observation refusing a relation this file observes as natural breaks fractal technology whole",
+  "verdict": "RESAY",
+  "why": "Our own holding (regarding); the file's verb observes.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "Relation this file holds as natural is one form,",
+  "new": "Relation this file observes as natural is one form,",
+  "verdict": "RESAY",
+  "why": "Our own holding (regarding), same re-saying as 1.1's.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "Two selves stay with a bond, each on its own side of a between,",
+  "new": "Two selves stay with a molecule's own sharing, each on its own side of a between,",
+  "verdict": "ASK",
+  "why": "Q2: within a molecule the two sides were atoms as selves; with the molecule one self and two selves sharing a bi-coupling, the sentence keeps 'two selves' or moves to bi-coupling; waits with the atom-floor motion.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "and covalent bonds have electron density two atomic centres share, same-existing in each centre and in neither alone, so a sharing pair reaches a +1 in neither self alone without making every bond an octet flip.",
+  "new": "and covalent bonds have electron density two atomic centres share, same-existing in each centre and in neither alone, so a sharing pair reaches a +1 in neither self alone without making every molecule's own sharing an octet flip.",
+  "verdict": "RESAY",
+  "why": "Our clause; 'covalent bonds have electron density two atomic centres share' earlier in the sentence stays, a field's record.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "have complementary bonding possibilities, readable with form as self, reacher and other-selves, while oxidation state, protonation, bonding partner and molecular environment",
+  "new": "have complementary bonding possibilities, readable with form as self, reacher and other-selves, while oxidation state, protonation, bonding partner and molecular environment",
+  "verdict": "KEEP",
+  "why": "A field's description of carbon, hydrogen, oxygen and nitrogen and a field's term (bonding partner).",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "self-bounding a coupling that forms and dissolves bonds and closed shell a filled-number pattern-matching.",
+  "new": "self-bounding a coupling that forms and dissolves a molecule's own sharing and its bi-couplings and closed shell a filled-number pattern-matching.",
+  "verdict": "RESAY",
+  "why": "Our claim; both within and between named, as in 1.6.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**addition · elimination** is groups entering across a bond and groups departing while a multiple bond forms.",
+  "new": "**addition · elimination** is groups entering across a bond and groups departing while a multiple bond forms.",
+  "verdict": "KEEP",
+  "why": "Under the sentence's 'by a field's words'; multiple bond is a field's term.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "Bond is a between, and a self observes chirality there.",
+  "new": "A bi-coupling is a between, and a self observes chirality there.",
+  "verdict": "RESAY",
+  "why": "The between is a molecule with an enzyme's pocket, a receptor or a catalyst: between molecules, bi-coupling.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "A living substrate's recurring pattern-matching hand is Natural Biology's to hold;",
+  "new": "A living substrate's recurring pattern-matching hand is Natural Biology's to observe;",
+  "verdict": "RESAY",
+  "why": "Our own holding (keeping as a domain); the file's verb observe.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**Pericyclic selection rules change and change back by parity too, with bond.**",
+  "new": "**Pericyclic selection rules change and change back by parity too, with a molecule's own sharing.**",
+  "verdict": "RESAY",
+  "why": "Bond here is a molecule's own sharing re-forming in a pericyclic reaction; bold quoted by no step.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "so a transition's own parity has flip with bond as electric dipole's parity has it with spectrum,",
+  "new": "so a transition's own parity has flip with a molecule's own sharing as electric dipole's parity has it with spectrum,",
+  "verdict": "RESAY",
+  "why": "Same re-saying as the bold before it.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**by Grotthuss mechanism excess charge goes through water as hydrogen-bond network re-forms bond by bond**, a covalent bond becoming a hydrogen bond and a hydrogen bond covalent,",
+  "new": "**by Grotthuss mechanism excess charge goes through water as hydrogen bi-coupling network re-forms bi-coupling by bi-coupling**, a molecule's own sharing, a field's covalent bond, becoming a bi-coupling, a field's hydrogen bond, and a bi-coupling a molecule's own sharing,",
+  "verdict": "RESAY",
+  "why": "Within a water (covalent) and between waters (hydrogen bond) named by the naming, the field's two terms kept attributed; bold quoted by no step.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "is a cross-scale naming this file shares and holds as no chemical equivalence.",
+  "new": "is a cross-scale naming this file shares and observes as no chemical equivalence.",
+  "verdict": "RESAY",
+  "why": "Our own holding (regarding). Old avoids the atom-floor motion's SIXTEEN-3 clause earlier in the sentence.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "hydrogen-bond network; bilayer; cell; bond as a between of them",
+  "new": "hydrogen bi-coupling network; bilayer; cell; bi-coupling as a between of them",
+  "verdict": "ASK",
+  "why": "Q1 (living row): hydrogen-bond network is between molecules, bi-coupling (RESAY on its own); 'bond as a between of them' narrows to bi-coupling. Same line as the atom-floor motion's SIXTEEN-4; merge together.",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN.json"
+ },
+ {
+  "old": "**A bond is a between of two selves**, core reactions are bi-moralizing cycling, carbon is chemical self, and benzene's floating-neutralling is competency centreline.",
+  "new": "**What chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves**. Core reactions are bi-moralizing cycling, carbon is chemical self, and benzene's floating-neutralling is competency centreline.",
+  "verdict": "RESAY",
+  "why": "Q1: our bold says a bond is a between of two selves; the naming makes only the between-molecules case two selves (bi-coupling); bold changes; no Co-Chaining Logic step quotes it. · Reader: ASK settled: our exploring's naming is this bold's content, in its own order (within, then between). Corrected for reading: the long bold ends its own sentence, so the list after it reads as one claim; the proposed new set the within-molecule case as an afterthought to the bi-coupling. Bold quoted by no Co-Chaining Logic step (checked). 'carbon is chemical self' left here: the atom-floor motion re-says it.",
+  "enter": "now",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_enter_now.json"
+ },
+ {
+  "old": "self-bounding a coupling that forms and dissolves bonds and closed shell a filled-number pattern-matching.",
+  "new": "self-bounding a coupling that forms and dissolves a molecule's own sharing and its bi-couplings, and closed shell a filled-number pattern-matching.",
+  "verdict": "RESAY",
+  "why": "Our claim; both within and between named, as in 1.6. · Reader: flagged for reading: without a comma, 'and closed shell' reads as a third thing the coupling forms and dissolves; the comma keeps the old's two parallel clauses.",
+  "enter": "now",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_enter_now.json"
+ },
+ {
+  "old": "A living substrate's recurring pattern-matching hand is Natural Biology's to hold;",
+  "new": "A living substrate's recurring pattern-matching hand is Natural Biology's;",
+  "verdict": "RESAY",
+  "why": "Our own holding (keeping as a domain); the file's verb observe. · Reader: flagged: 'Natural Biology's to observe' makes a file observe, and observe/observing then repeats in one sentence. The possessive alone carries the claim.",
+  "enter": "now",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_enter_now.json"
+ },
+ {
+  "old": "**Pericyclic selection rules change and change back by parity too, with bond.**",
+  "new": "**Pericyclic selection rules change and change back by parity too, with a molecule's own sharing and its bi-couplings.**",
+  "verdict": "RESAY",
+  "why": "Bond here is a molecule's own sharing re-forming in a pericyclic reaction; bold quoted by no step. · Reader: flagged, claim narrower: the Woodward–Hoffmann count of (4q + 2) suprafacial and 4r antarafacial components covers cycloadditions between two molecules as well as ring closures within one, so 'bond' here meant both; both names, as the proposer did at 1.6, 1.7 and 4.3. Bold quoted by no step.",
+  "enter": "now",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_enter_now.json"
+ },
+ {
+  "old": "**by Grotthuss mechanism excess charge goes through water as hydrogen-bond network re-forms bond by bond**, a covalent bond becoming a hydrogen bond and a hydrogen bond covalent,",
+  "new": "**by Grotthuss mechanism excess charge goes through water as hydrogen bi-coupling network re-forms sharing by sharing**, a molecule's own sharing (a field's covalent bond) becoming a bi-coupling (a field's hydrogen bond) and a bi-coupling a molecule's own sharing,",
+  "verdict": "RESAY",
+  "why": "Within a water (covalent) and between waters (hydrogen bond) named by the naming, the field's two terms kept attributed; bold quoted by no step. · Reader: flagged: 'bi-coupling by bi-coupling' narrowed the old 'bond by bond', which counted both the covalent and the hydrogen bond at each step; 'sharing by sharing' covers both. The field's two words go in parentheses so the clause reads as one change and back, not four appositives. Bold quoted by no step.",
+  "enter": "now",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_enter_now.json"
+ },
+ {
+  "old": "An atom is a same-existing-society of nucleus and electrons, a molecule a same-existing-society of atoms, and hydrogen-bond network, bilayer and cell are same-existing-societies",
+  "new": "A molecule is the ladder's first self, at seven, a same-existing-society of its living parities, an atom a non-living stable form its sharing winds round, and hydrogen bi-coupling network, bilayer and cell are same-existing-societies",
+  "verdict": "RESAY",
+  "why": "MERGED: no-bond pair (hydrogen bond between molecules: bi-coupling) with the atom-floor motion's SIXTEEN-0 as its reader corrected it (molecule the ladder's first self, a same-existing-society of its living parities; atom a non-living stable form).",
+  "enter": "waits",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_read.json"
+ },
+ {
+  "old": "Two selves stay with a bond, each on its own side of a between,",
+  "new": "Two selves, a molecule's living parities, stay with that molecule's own sharing, each on its own side of a between,",
+  "verdict": "ASK",
+  "why": "Q2: within a molecule the two sides were atoms as selves; with the molecule one self and two selves sharing a bi-coupling, the sentence keeps 'two selves' or moves to bi-coupling; waits with the atom-floor motion. · Reader: Q2 not settled by the decision. The proposed 'two selves stay with a molecule's own sharing' leaves the two selves unnamed, and with atoms non-living (the atom-floor yes) they can be only the molecule's living parities (opening: each parity is a self while it is living; Natural Intelligence 6.5: its selves inward are its living parities). Moving the sentence to bi-coupling would put chaining (molecules together) into a paragraph about tunnelling's exact opposite, inside one molecule. Recommended new as here; waits on our exploring and on the atom-floor motion's SIXTEEN-0 wording.",
+  "enter": "waits",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_read.json"
+ },
+ {
+  "old": "  - *b* proton and H⁺; electron event;",
+  "new": "  - *b* atom, a non-living stable form a molecule's sharing winds round; proton and H⁺; electron event;",
+  "verdict": "RESAY",
+  "why": "Atom-floor motion's SIXTEEN-4b, added by its reader, carried here so the merged living row drops no term: the atom moves to the emanation row (opening: each non-living thing is a stable-forming emanation).",
+  "enter": "waits",
+  "source": "incoming/v392chem/motion_no_bond/pairs_SIXTEEN_read.json"
+ }
+]
