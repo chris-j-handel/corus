@@ -46,6 +46,8 @@ Gathering-Value · Resolving Hard Problems
 
 ### 4.3 A living step, next as now, with an other
 
+- **Possible incohering** · "**With resolver a self receiving nothing inverts its prior with each momentary**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a non-living now-existing form and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two momentaries prior, an other's." → **With resolver a self receiving nothing inverts its prior with each momentary**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a self living, its living parities selves inward, and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two momentaries prior, an other's.
+
 ### 4.4 Selves coupling, a pattern going on between them
 
 ## FIVE · A FIELD'S ENTRY AT THE RESOLVER
