@@ -103,6 +103,8 @@ Gathering-Value · Equilibria Registry
 - **A reading** · A reading names basic chemistry by its fixings: melting point and latent heat a between fixing as a cut; thermal equilibrium a completing fixing as a last and a two-way fixing to one side; saturation a rate fixing as a value and a same-existing fixing as a store; completion a completing fixing as a last; pH a parity fixing as a magnitude and an opening fixing as a place; and the energy hill a middle fixing as an end.
 - **A reading** · A reading has a setpoint, the Hard Problem Registry's 128 homeostasis, as a value fixing as a place.
 - **A reading** · A reading has a field's *stored*, said of a heritable change, fixing that change as a store, a same-existing fixing as a store, the change going along with stable-forming.
+- **A reading** · A reading has heat as a fluid the leftover of thermal equilibrium's fixing, a completing fixing as a last.
+- **A reading** · A reading has melting point and latent heat a reading treated as a place.
 
 ## FIVE · RESOLVING FOLLOWING, THE EXCLUSIONS AT THE RESOLVER
 

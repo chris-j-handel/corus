@@ -122,6 +122,7 @@ Gathering-Value · Natural Explaining
 ### 3.7 Gate, and a next at its opening
 
 - **Possible incohering** · "A self marks an open coupling with its reason, as a concern or an opportunity, and a mark holds its reason, a blank holding none; a mark is no grade, a grade needing a scale with two fixing sides." → A self marks an open coupling with its reason, as a concern or an opportunity, and a mark holds its reason, a blank holding none; a mark is no grade, a grade needing a scale with two fixing sides. A reading is marked with its standing and its sureness: an exhibit's own executing, a carving by its offerer, or a working's reading for agreeing.
+- **A reading** · A reading has a concern a place in observings not yet resolvable as natural torusing, and an open question the observings can reach an exploring opportunity, several earlier concerns read as exploring opportunities.
 
 ### 3.8 Asking a momentarying to be one of its sides
 

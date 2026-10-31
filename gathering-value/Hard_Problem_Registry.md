@@ -94,6 +94,19 @@ Gathering-Value · Hard Problem Registry
 
 ### 17 The definition of planet
 
+- **A reading** · A reading has Venus's backward spin and Uranus's roll beside the left-coiling snails: with the planets the Sun's non-living stable forms, a reversed turning is an emanation's and harms no living; with the planets living, these are the snail concern again.
+- **A reading** · A reading has the Sun and Jupiter going round one between treating Jupiter as an other in a bi-coupling, and Venus and Uranus asking whether the planets are selves of the solar system's society or its non-living stable forms.
+- **A reading** · A reading re-says the planets' going in one turning direction, which a field says as each turning about the Sun, as each planet co-sequencing with the solar system's society, all of one hand; whether the planets are selves of that society or its stable forms stays open here.
+- **A reading** · A reading has the planets selves: a same-existing-society is many selves bi-coupling, and the solar system is a society of living selves; whatever co-sequences within its bi-couplings, changing with each momentary, is a self while it is living, and a stable form is what a self goes on as once its living completes, one form with each momentary, its changing only from what comes to it. The reading has an earlier *open* at the planets a hedge, and beside it the planets are-or-are-not selves of the solar system's society, still open, at Natural Physics.
+- **A reading** · A reading has the planets pacing each other, each going answering its others', co-sequencing.
+- **A reading** · A reading has each planet turning with its own surface aiming: its own spin, its own seasons and, for most, its own arches held at two ends.
+- **A reading** · A reading has some of the solar system's bodies stable forms, what a self goes on as once its living completes, asteroids and comets giving dust of molecules of both hands, Bennu's among them, the mark of non-living forming. Each molecule is-not a carbon atom.
+- **A reading** · A reading has Venus's slow backward spin and Uranus's roll, as selves, their own surfaces' aiming within a society whose goings are all of one hand, beside the left-coiling snail concern.
+- **A reading** · A reading has the backward moons, beside the left-coiling snail, Venus and Triton, left-turning goings in a right-spiral society.
+- **Possible exploring** · By a field's account, from memory and unchecked, Earth has its living; Jupiter has a storm seen for centuries, its own aurorae and its own field; Saturn turns over storms every few decades; Mars has seasons, dust storms over the whole planet and polar caps that grow and shrink; and Mercury has a field of its own (1974). — at "Geophysically: planethood is intrinsic, hydrostatic equilibrium and geological character, under which the dwarf bodies and the large satellites classify as planets."
+- **A reading** · A reading has each planet changing with each momentary, none one form with each momentary.
+- **Possible exploring** · By a field's account, from memory and unchecked, Mars had thick air and water long ago and lost its field about four thousand million years ago, and its air is being stripped by the Sun's wind (2015). — at "Geophysically: planethood is intrinsic, hydrostatic equilibrium and geological character, under which the dwarf bodies and the large satellites classify as planets."
+
 ### 18 Biological individuality
 
 - **A reading** · A reading has this problem meeting Natural Societies 5.1 and 5.3, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*.
@@ -516,6 +529,43 @@ Gathering-Value · Hard Problem Registry
 
 ### 205 The origin of the Moon
 
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon's rock is nearly the Earth's own by each measure of its forms (2001 onward); its fires end long ago and its own field is gone; and deep moonquakes still come, in step with the Moon's round with the Earth (Apollo, 1969–1977). — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
+- **A reading** · A concern: the Moon is-or-is-not the Earth's stable-form emanation, its changing only from what comes to it, or a self co-sequencing with the Earth.
+- **A reading** · A reading has the Moon born of the natural torusing Earth, not broken from it, a young self of an Earth-like species, a future mature Earth-like self with an atmosphere. Beside it this entry's accounts have the Moon from a collision, and the two part.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon's rock matches the Earth's by each fine measure of its forms, oxygen (2001), titanium (2012) and others, and the field's leading story, a struck-off chunk mostly of the striker, predicts a Moon unlike the Earth, the match a long-standing trouble for it. — at "A grazing collision with a roughly Mars-mass body produced a disk dominated by impactor material followed by mixing."
+- **Possible exploring** · By a field's account, from memory and unchecked, one account has the young Earth spun out into a great doughnut of hot rock from which the Moon forms (2017–2018), and the oldest account (1879) has the Moon born of a fast-turning Earth. — at "A higher-energy collision produced a substantially vaporized, well-mixed structure from which the Moon condensed."
+- **A reading** · A reading has the field's newer model a torus, the field's words for a birth from the Earth's torusing.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon is younger than the Earth, its oldest grains a little later than the Earth's. — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon goes outward from the Earth by about four centimetres each year, measured by light sent to mirrors left on it since 1969. — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
+- **A reading** · A reading has the Moon's stillness dormancy, not death, its changing paced by the Earth, its deep moonquakes coming in step with its round, as a dormant seed relies on its environs' parity changing entirely.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon is poorer than the Earth in easily-lost forms, water and potassium. — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
+- **A reading** · A concern: a self maturing with an air gathers the easily-lost forms, from its own resolving and from what comes to it, and that is still to reach.
+- **A reading** · Two readings of one observed change, the Moon going outward: a young self leaving its parent's nearness, or a co-sequencing changing its pace.
+- **A reading** · A reading has the Moon a seed, the Earth's, of an Earth-like species, its dormancy said as what it is.
+- **A reading** · A reading has the Moon carrying the Earth's forms as a seed carries its parent's form.
+- **A reading** · A reading has the Moon going outward from the Earth as a seed goes away from its parent.
+- **A reading** · A reading has the Moon oriented as a seed is, aiming one face at the Earth, its two faces formed differently.
+- **A reading** · A reading asks whether the Moon's thick far-side crust reaches a seed's coat.
+- **A reading** · An exploring opportunity: what the Moon's germinating is, and what environs it waits for, its air gathering and its water from the poles' ice, paced by the Earth and the Sun.
+- **A reading** · An exploring opportunity: seeds germinate where they land, in a parent society's soil, and where the Moon lands, or whether its going outward is its whole germinating, is open.
+- **A reading** · An exploring opportunity: with the Moon the Earth's seed, other moons, Titan with its thick air, Europa and Enceladus with their oceans, are possibly seeds further along, and Mars, losing its air, possibly a self dying; the species' stages are to be reached with observings.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Earth's day lengthens as the Moon goes outward. By a field's account checked against current sources, corals about 380 million years old lay about 400 daily growth lines a year (1963). — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
+- **A reading** · A reading has the Earth and its seed pacing each other, living recording the Earth–Moon co-sequencing in its own stable form.
+- **A reading** · A reading has these moons co-sequencing as a society, three seeds at three stages of germinating, paced together.
+- **A reading** · A reading has a moon's germinating its forming of its own natural torusing surface, Ganymede's field, Titan's thick air, Enceladus's plumes and Europa's ocean each a moon's own surface aiming, a possible.
+- **A reading** · A concern not yet resolvable as natural torusing: a seed going inward to its parent, and one going round against the society's hand, as a seed's method.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon has one face, always the same, toward the Earth, and its two faces formed differently, the Earth-facing side with its dark plains, the far side higher and thicker. — at "Impact, disk or synestia, lunar accretion, differentiation and tidal orbital evolution."
+- **A reading** · A reading has the Moon aiming one face at the Earth, as a plant aims at the Sun.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon has a thin air of helium, argon, neon, sodium and potassium (Apollo 17, 1972; 2013–2014), its argon coming up from what a field calls the Moon's own radioactivity and seeping out in pulses; water is in its glassy rock (2008) and as ice at its poles. — at "In the field's own posing, a successful scenario for lunar origin should explain the Moon's chemical composition, its volatile content and stable isotope ratios, its initial thermal state and the system's bulk physical and dynamical properties, the origin of the Moon standing as one of the most fundamental and vexing questions in planetary science."
+- **A reading** · A reading has the Moon's argon from its own superfast resolving.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Moon had its own field, strong long ago, lasting until perhaps one or two thousand million years ago, read from its rocks. — at "Impact, disk or synestia, lunar accretion, differentiation and tidal orbital evolution."
+- **A reading** · A reading has moons a kind with many stages, a moon able to have a thick air.
+- **A reading** · A concern: with Mars dying, losing its surface's torusing, and the Moon a seed, the species has birth, maturing and dying, and the observing must show the Moon's air growing, not only seeping.
+- **A reading** · A reading has the Moon dormant as a seed is, paced by its environs, its deep quakes in step with its round with the Earth and its air seeping faintly from its own resolving.
+- **A reading** · A reading has the Earth feeding its seed: a parent provisioning its seed through a bi-tunneling, as a seed's coat and stores come of the mother plant.
+- **A reading** · A concern: with moons the seeds of Earth-like selves, two of the four rocky planets have none.
+- **A reading** · A concern not yet resolvable: rings a seed's breaking, a society's emanation, or a stable form.
+
 ### 206 The early Solar System impact flux
 
 ### 207 The origin of animal multicellularity
@@ -622,6 +672,28 @@ Gathering-Value · Hard Problem Registry
 ### 253 The origin of viruses
 
 ### 254 The solar dynamo and the sunspot cycle
+
+- **Possible exploring** · By a field's account, from memory and unchecked, the Sun's spots rise and fall about every eleven years, and its magnetic poles reverse at each peak, the whole round about twenty-two years. — at "The sunspot cycle is the magnetic cycle of the Sun — the field's record."
+- **A reading** · A reading has the Sun's round, rising, inverting, falling and inverting back, a four-cycling.
+- **Possible exploring** · By a field's account, from memory and unchecked, the Sun's spots nearly vanish from about 1645 to 1715. — at "The sunspot cycle is the magnetic cycle of the Sun — the field's record."
+- **A reading** · A reading has the Sun resting from about 1645 to 1715, reaching dormancy: living relying on its own environs while its parity changing is low.
+- **Possible exploring** · By a field's account, from memory and unchecked, many prominences show twisted, rope-like threads along their length, and some erupt as they untwist. — at "The Sun's large-scale magnetic field over its cycle."
+- **Possible exploring** · By a field's account, from memory and unchecked, in the Sun's northern half most of these arches and twisted ropes turn one way, and in the southern half most turn the other (1994, 1995), the two hands coupling at the Sun's equator. — at "The Sun's large-scale magnetic field over its cycle."
+- **A reading** · A reading has the Sun's two halves the tendril and the twisting towel: one living self emanating both hands as stable form, joined at a between where the hand inverts.
+- **A reading** · A concern: the Sun's two hemispheres show opposite hands; as the tendril's two hands, both are the living Sun's stable-form emanations, and right spiral is the living's; with the arches read as living, this is the snail concern at the Sun's scale.
+- **A reading** · A reading has the Sun's arches bi-folding, right spiraling into and out of a corus, three edges in and three out, six, in bi-moral co-agency, the twisting towel at the Sun's scale.
+- **A reading** · A reading has the Sun's two halves showing opposite hands one right spiral read from each side of its corus, going in on one side and out on the other, as the towel's three edges in and three out alternate about its knot.
+- **Possible exploring** · By a field's account, from memory and unchecked, each cycle spots first appear at middle latitudes in both halves of the Sun, and their belts close toward the equator as the cycle goes on, charted as a butterfly (1904). — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
+- **A reading** · A reading has two belts spiraling in to one between.
+- **Possible exploring** · By a field's account, from memory and unchecked, the remains of each cycle's spots stream toward the poles and reverse the polar sign at each peak. — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
+- **A reading** · A reading has in at the belts and out to the poles a going into and out of a corus.
+- **Possible exploring** · By a field's account, from memory and unchecked, spots come in pairs of opposite sign; in one half of the Sun the leading spot is of one sign, in the other half the opposite, and both reverse with each eleven years (1919). — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
+- **A reading** · A reading has spot pairs bi-folding, four phases in twenty-two years, the Sun's four-cycling.
+- **A reading** · A concern: *three in and three out, six* is a phase pattern; the observings show in and out, and the pairs and reversals, with no three, and *no counting in nature* asks the six reached as phases, the tendril's circling, clasping and coiling each way.
+- **A reading** · A reading has the Sun's equator the crossings in the co-sequencing in the bi-tunneling, where the in-spiraling of one half and the out-spiraling of the other cross, the spot belts reaching each other at the equator. *Crossing* is a dissolved word in the living files, and its word is reached before any entry.
+- **A reading** · A reading has a field's own model of the cycle a torus, its winding of an arch-wise field into a ring-wise, torus-wise field the field's own words for a torusing, and the layer where the field places that winding a between of two turnings, and one of the turnings of the surface, a self discovering its next self, about the corus.
+- **Possible exploring** · By a field's account, from memory and unchecked, no instrument observes the Sun's centre; the Sun's outer part turns faster at its equator than at its poles, and its inner part turns as one (1990s). — at "The tachocline is a rotational shear layer immediately beneath the convective envelope, uncovered by helioseismology — measured."
+- **A reading** · A reading has the Sun's inner part, turning as one against the outer shearing, a stilling about the centre, its surface turning and aiming outward, the same form as carbon's *a nothing its couplings surround*: a nothing point and its surroundings aiming. Carbon at Natural Chemistry 1.6's *a nothing its couplings surround and wrap* is a carbon atom, and the Sun is-not a carbon atom.
 
 ### 255 The etiology of major depression
 

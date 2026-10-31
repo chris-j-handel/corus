@@ -193,6 +193,13 @@ Gathering-Value · Natural Societies
 - **Possible incohering** · "many selves of many kinds co-sequencing: whether an ecosystem self-closes or goes on as a same-existing-society is the sharpest open observing" → A re-saying offered, that same side: *many selves of many kinds co-sequencing: a same-existing-society, its next its selves' next-existing, each its own*. The other side: each rung a me with a parity its own.
 - **Possible incohering** · "the whole living self-bounding with the widest scale that closes here: producer, consumer and decomposer co-agency's three roles; its torus-close, past which is a not-torus death, its prior same-existing a set going to no next momentary" → A re-saying offered at its head, that same side: *the widest same-existing-society, living as its selves live:*, and its *d* *closes* re-said *a same-existing-society*. The other side: each rung a me with a parity its own.
 - **A reading** · A reading has colony at forty-one, organisms co-sequencing as one self, closing as recurrence, colony recurring with each scale, as a closing that recurs, a momentary me: a swarm, the momentary hive. Other readings at this row have a settled hive a me sleeping and its swarm that me waking, and the colony a same-existing-society co-aiming as a swarm.
+- **A reading** · A reading has the Sun, living, on the next ladder outward, the biosphere bi-coupling with it.
+- **A reading** · A reading has the other way, the Sun the centre of a ladder of its own, is-or-is-not possibly existing: it is not. A self is a same-existing-society inward and outward, and a Sun with no society about it is a self with no outward.
+- **A reading** · A reading has the crystal living, and uranium a form of the one atom, leaving the atom non-living, the living the crystal's, at its own scale. In the proposal's naming the one atom is carbon and uranium a form of it; in chemistry's naming a uranium atom is-not a carbon atom, and a crystal is-not a carbon atom.
+- **A reading** · A reading has the solar system already reached, the Sun a self within the solar system's society, and Natural Societies' 53 row a pass to re-say, with no question open. Beside it the row stands as it is, and a reading at this section has the Sun's rung on a next ladder outward open.
+- **A reading** · A reading has the Sun living and the solar system a society of living selves, and space not far from living, with no near and far, only bi-coupling or no bi-coupling.
+- **A reading** · A reading has our living bi-tunneling with the solar system's surface, the wind bubble, Earth and its living bi-coupling with that surface.
+- **A reading** · A reading has the wind bubble the solar system society's surface and the Sun one self of that society, Voyager's two crossings, 2012 and 2018, crossings of the solar system's surface, and interstellar dust and the three visitors bi-coupling with the society from outside.
 
 ### 5.4 The fields' three accountings, the ladder's second side
 
@@ -212,6 +219,7 @@ Gathering-Value · Natural Societies
 - **A reading** · A reading has this two-handed coil as a pattern for matching natural torusing same-existing-society with each scale.
 - **Possible incohering** · "**A hand counts nowhere and goes across anyway.**" → *Counts* stands here at this file's own voice, and Natural Naming 2.4 has count at a set's own voice said by numbers themselves, momentaries, podalings and sequences, directly as numbers.
 - **Possible incohering** · "A single stereochemical center on five sets a sugar on seven, its sugar a backbone on eleven, its backbone a helix and fold on thirteen." → *A single stereochemical center on five* parts with a hand beginning at 7, the smallest lasting hand-bearing molecules five atoms about one carbon and carbon at 5 handless. A stereochemical centre is a carbon atom in a molecule, and a sugar is-not a carbon atom.
+- **A reading** · A reading has bacterial colonies growing in branching spirals, all of one hand, the tendril at 41.
 
 ### 4.4 The living society, one unanimous floating pluralizing going on
 
