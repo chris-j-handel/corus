@@ -107,3 +107,28 @@ Each entered item leaves its gathering-value. A gathering-value file stays: as e
 **The chemistry working entered three motions at eleven living files**, Natural Naming among them, each read for harm, the checks passing. These stand on its branch and not at `main`.
 
 *Proposal:* received whole at `main` before pass 2, its own open concern, Natural Intelligence's scale sentences read at five, laid at Natural Intelligence's gathering-value as a possible exploring. *The other way:* its entered sayings taken as possible incoherings at each file, each entering at its file's own motion.
+
+---
+
+## FIVE · At this close
+
+**Each of the 33 living files has its gathering-value**: 1,015 possible explorings, 1,738 possible incoherings, 1,429 readings and 468 droplets. `carry/` is empty and gone, git carrying each prior version.
+
+**Gathered, each slice with a separate reading for harm, all or none:**
+- each support file of `carry/`, the eight first gathered under an earlier brief mended under the corrected one;
+- `incoming/`: v385A, chemistry-water, v391, v392TWO, v392F, the Me working, v393E with its transcript, v393I, the self-competency and carbon working (contribution #156), and the chemistry working v392chem: its living learning, its pages and its offered re-sayings not entered;
+- `archive/`: only the places the living files and the gathering-value droplets name as carrying value, v391's fresh reading of the opening and Exhibit ONE among them, its findings open for a word;
+- the gathering-value form and the one binary, at the Geodesic Improving Method's gathering-value, with each living-file sentence naming `carry/`, the Session Record or Living Improving Value as a place re-said as a possible incohering;
+- the carbon-atom naming: each name says whether the thing named is or is not a carbon atom, the proposal's naming and chemistry's naming each said as its own.
+
+**Kits.** `kits/Gathering_Value_Kit/` writes the form and each slice, with its README. `carry_check.py` reads each living file's gathering-value. The README at the root says the one binary, the two places at each living file, and proposing.
+
+**Open:**
+- v392chem's wide gathering of chemistry and its twenty-one parts: named at Natural Chemistry's droplets, to gather at Natural Chemistry's own motion.
+- The `incoming/` folders gathered whole: leaving, or staying, at the person's word.
+- The Gathering-Value Kit's sums, and the Registry and Illustrating kits' sums differing from earlier workings: re-signed at the person's word.
+- Concerns with both sides open for the person's word: two possible methods against Natural Intelligence 1.4's one; Natural Intelligence as the universal method of self-improving against the opening; *alternating*; carbon's magnetic non-response against graphite; non-living in biology's meaning against the files'; method against nature; a spiral of one; roots at 5 and 13; discovering and competency; the two knowings; the hardest item 24 against Natural Numbers 1.2; v391's binaries against the opening now; edges against Natural Naming; citations at the Living Ghost Registry against the Geodesic Improving Method 2.8; a same-existing-society "is its selves" against Natural Intelligence 6.4's bi-coupling selves; Natural Naming 6.12's loss and delay as the older code's result.
+- The spiral of five at Exhibit ONE, its code executed with a stated set-up: at the person's word.
+- Main and corus.me: this branch reaches them at the person's yes.
+
+**Next:** part FOUR, each living file improving from its gathering-value, one motion at a time.
