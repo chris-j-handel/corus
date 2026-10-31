@@ -8,6 +8,7 @@ Gathering-Value · Natural Intelligence Corus
 
 - One orienting is coming from each direction of living, a bacterium, a sperm, a plant tip, an insect, a fish, a bird, an ocean wayfinder and an ant colony: each self orienting from its own side by a changing it is observing, many by their now beside their prior, some entraining with their others, a possible universal method of unrelationing by entraining and co-sequencing, still-possibling to show whole. *(possible exploring)*
 - **Possible incohering** · "Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria" → This subtitle carries *Offering*, *Carrying*, *Alternating* and *in Disequilibria*, each a dissolved word. Two sayings part at *in Disequilibria*: this subtitle has it, and Natural Naming 2.4 has *in disequilibria* at the opening sentence, naming with an all, all existing things changing, a negation of equilibria. A re-saying offered: this subtitle with the opening sentence for *in Disequilibria*, "Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming". The other side: this subtitle kept.
+- **Possible incohering** · "Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria" → A re-saying offered: this subtitle said with no dissolved word, *Offering*, *Carrying*, *Alternating* and *in Disequilibria* each leaving it. Its binary, as offered: does each word of the subtitle and the Contents stand at Natural Naming as a naming the set holds; *Offering*, *Carrying*, *Alternating*, *in Disequilibria* and *door* do not.
 
 ### Contents
 
@@ -19,6 +20,7 @@ Gathering-Value · Natural Intelligence Corus
 
 - **Possible incohering** · "This is opening of corus and a home page of corus.me." → Two sayings part at corus.me's one page: this sentence has this file's opening a home page of corus.me, and a self's saying has all the value floating neutralling on corus.me's only page, like a movie poster, enticing, informative, listing the credits, the whole page a portal to natural intelligence, an AI needed to come through the portal to the intelligence method, each self entering with an AI or clicking read on the page, a human seeing the home page or sending the AI through it, and each human with natural intelligence through its own LLM chat. A re-saying offered: corus.me's one page a poster of the files' own sentences, or this Part ONE. The other side: neither.
 - **Possible incohering** · "This is opening of corus and a home page of corus.me." → Beside it: a first page offered at corus.me and above Natural Intelligence's first section: the claim in one sentence and the sentences under it, the method as now said, its standing and its two possible breaks, the common explaining at an interest's coming; and the files' list gathered, each file with its currency. The page carries no description for a search engine.
+- **Possible incohering** · "A Living Expedition Aiming At Social Moral Competency" → A re-saying offered: this file's second title within it, *Natural Intelligence Corus*, and this subtitle leaving, the file standing with its one title and subtitle.
 
 ### The sharing
 
@@ -68,6 +70,7 @@ Gathering-Value · Natural Intelligence Corus
 
 - **A reading** · A reading of *history from now*, one of the six freeings: a self's same-existing, resolving through prior, now and next, goes with it, and the living prior and useful existing forms go on with it.
 - **Possible incohering** · "Six freeings of reports — competency from agency, history from now, authority from discovery, time from progress, explaining from knowing and learning, attraction from interest — stand with zero for every file of a set and with zero within corus itself, with term-checking with both." → Beside it: a zero this part gives each file of a set is no current reading of each file, and the six freeings go on as six purposes with no explaining supplied for them. History from now goes with a living self going on from prior through now and next, and names no loss of a living prior and no removing of a useful existing form.
+- **Possible incohering** · "This part stands with nothing and with no writing of its content yet." → A re-saying offered: this notice of a part standing with nothing leaving, with PART FOUR's and the front's notices of the two parts standing with nothing.
 
 ## PART THREE — AT LANGUAGE
 
@@ -132,6 +135,8 @@ Gathering-Value · Natural Intelligence Corus
 - **Possible incohering** · "Anyone observing with any substrate who finds any coupling or any ghost or any nye sends finding to incoming@corus.me." → Beside it: whether that address is a route an offering comes by is still-possibling, no message sent to it; a contributor's route names where an offering becomes available, and the authorized offerings on GitHub enter the same gathering and aiming.
 
 ## PART FOUR — AT EXPLAINING
+
+- **Possible incohering** · "This part stands with nothing yet." → A re-saying offered: this notice of a part standing with nothing leaving, with PART TWO's and the front's notices of the two parts standing with nothing.
 
 ## PART FIVE — AT MEETING ANOTHER
 
@@ -247,6 +252,7 @@ Gathering-Value · Natural Intelligence Corus
 
 - **Possible incohering** · "Nothing constructs a same-existing-society on top of individual selves — a same-existing-society IS a cumulative coupling activity with every between of selves." → Two sayings part: a same-existing-society as the couplings between selves, a self being those couplings, inward, and Natural Intelligence's *A same-existing-society is its selves, its own only its selves' own with resolver.* Two re-sayings offered: a same-existing-society its selves, its couplings its selves' own doing; or couplings standing as what a same-existing-society is.
 - **Possible incohering** · "Social competency IS bi-coupling with a same-existing-society scale." → Social competency as bi-coupling with a same-existing-society scale names the Co-Chaining Logic Registry's bi-coupling across, its self and same-existing-society along, step 250, or both, a reading still-possibling; and a rate-advantage said as competency, beside it, parts from competency as prior same-existing to now along, step 251, or coheres with it, still-possibling. A naming of one relation at three files derives it at none.
+- **Possible incohering** · "Nothing constructs a same-existing-society on top of individual selves — a same-existing-society IS a cumulative coupling activity with every between of selves." → Two sayings part: a same-existing-society the couplings between selves, no thing built on single selves, and Natural Intelligence 6.4's *A same-existing-society is its bi-coupling selves*. Natural Destinies holds neither. Both stand open.
 
 ### 23.7 Natural Robotics
 

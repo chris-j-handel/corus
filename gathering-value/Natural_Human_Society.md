@@ -6,6 +6,8 @@ Gathering-Value · Natural Human Society
 
 ## Head, the whole file
 
+- **A reading** · A reading has the notes after PART ONE's and PART FOUR's titles, *one concept not yet apparent* and *and its last three sections have no tipping and stand open*, as notes after a part's title, each leaving and each part title standing bare.
+
 ## Opening
 
 ## PART ONE — THE METHOD'S GROUND, one concept not yet apparent

@@ -6,6 +6,9 @@ Gathering-Value · Natural Emanating
 
 ## Head, the whole file
 
+- **A reading** · A reading has the subtitle's *Co-Sharings* the word of *The six*'s co- row, *co-sharing co-competencing co-intelligencing*, and of *A same-existing-society is co-sharing, co-competencing, co-intelligencing.*, where Natural Naming 5.13 has *Co-offering* dissolving with bi-momentarying, an offering across and both ways: the six's co- row stands that concern's subject under its new word, and the concern reaches the subtitle with it.
+- **A reading** · A reading has *The six*, *The society*, *Social moral competency* and the subtitle each said whole at what a same-existing does by its own parity, bi- and co-, the departing same-existing said as a self or as an emanation and not both.
+
 ## Opening
 
 ## PART ONE — THE EMANATIONS
@@ -88,6 +91,8 @@ Gathering-Value · Natural Emanating
 ### Self-emptying, and other-emptying
 
 ### The advance
+
+- **A reading** · A reading has one passage standing twice: at *Nature — the gap of exactly one*, *Numbers pass through a middle, one step at a time. A coupling of two sides cannot reach it. Reaching it, and riding on, a gap is exactly one with every number, with no bound.*, and at *The advance*, *Numbers pass through a middle. A coupling of two sides cannot reach it. Reaching it, and riding on, a gap is exactly one with every number, with no bound.* Run: the passage stands at both sections, the first with *one step at a time* and the second without it.
 
 ### A ring
 

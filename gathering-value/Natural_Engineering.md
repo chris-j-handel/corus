@@ -39,6 +39,7 @@ Gathering-Value · Natural Engineering
 - **Possible incohering** · "Its silicon realization needs to express together corresponding electrical states, transitions, receiving and co-discovering." → Its silicon realization needs to express together corresponding electrical states, transitions, receiving and co-discovering, and with them a chip's input, its output, the form of its signal and its scale, each still-possibling, one specifying's next step.
 - **Possible incohering** · "Positive, negative or zero sum as a representation, and output's receiving interface" → Positive, negative or zero parity as a representation, 14-next-possibling surfacing one parity at each sharing or 0 where + and − part, and output's receiving interface
 - **Possible incohering** · "Gates and interconnections bringing each sign's changing with its own parity" → Gates and interconnections bringing each sign's changing are re-said at ONE's names, a prior parity same-existing or inverting at 12-next-co-same-existing and each sharing's parity shared across at 10-next-co-possibling, or stand for a chip passage's own motion.
+- **Possible incohering** · "Its silicon realization needs to express together corresponding electrical states, transitions, receiving and co-discovering." → Beside it: the passing from a sensed surrounding to parities, and from parities to a doing, is specified at no file, still-possibling with a chip's input, its output, the form of its signal and its scale.
 
 ### 1.8 Network
 
