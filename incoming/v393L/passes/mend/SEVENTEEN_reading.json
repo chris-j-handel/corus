@@ -1,0 +1,1064 @@
+{
+ "corrections": [
+  {
+   "from": "**At 5.1 · Conception — two selves conceiving a third — beside \"Asexual reproduc",
+   "finding": "Something added the source does not hold: *over generations* is the drafter's; the source has the lineage re-forming toward self and other at each chromosome. *A link still speculative* is the field's own reading of its result and is marked so.",
+   "fixed": {
+    "section": "5.1 Conception — two selves conceiving a third",
+    "kind": "exploring",
+    "sentence": "Asexual reproduction (a self dividing as a copy — binary fission, budding, mitosis) is autorecursioning without a second parent's coupling: one self recursioning as itself, no second parent, no meiotic exchange, copy not a novel inversioning, bi-inversioning still standing with its copying's protection (4.7) and its checkpoints (5.2).",
+    "text": "A doubled genome gives each chromosome of a hybrid a partner at meiosis. A doubled lineage returns to pairing two by two at each chromosome, the field's rediploidization. A triploid's three sets leave one set unpaired at meiosis, and triploid lines go on clonally, a link the field's own reading holds speculative. The New Zealand mud snail's clonal females are triploid or tetraploid."
+   }
+  },
+  {
+   "from": "**Concern · *Or a self across* and same-scale harm, the third self, and *ingress",
+   "finding": "A droplet whose section is clear: the parting is at 7.5's own sentence, which can be quoted; and a side dropped: the source's two re-sayings offered, *or a self across* released or a self across at another scale, are gone.",
+   "fixed": {
+    "section": "7.5 Decay — an ending the grain below ingests",
+    "kind": "incohering",
+    "sentence": "Zero distance between shedder and ingester is landing, and a grain down or a self across is living.",
+    "text": "Two sayings part at a self across of the shedder's own scale: this sentence has a self across living, and 7.6 has \"same-scale ingestion is landing whether shedder is ingester or another\". Two re-sayings offered: *or a self across* released here, a grain down alone living; or a self across said as one at another scale."
+   }
+  },
+  {
+   "from": "**Concern · *Or a self across* and same-scale harm, the third self, and *ingress",
+   "finding": "A droplet whose section is clear: 6.1's sentence holding *ingressing* can be quoted.",
+   "fixed": {
+    "section": "6.1 Symbiosis — the bi-moral co-agency between selves",
+    "kind": "incohering",
+    "sentence": "Where a coupling derangs rather than sustains, it is larger same-existing-society ingressing smaller, adding a local parity smaller did not have and must now couple with, nature binary, greater-over-lesser.",
+    "text": "*Ingressing* names two things: here a larger same-existing-society adding a local parity a smaller one must now couple with, and at the Co-Chaining Logic Registry's step 624 a parity whose source among existing things is an empty set, an ingressing a frame lays among existing things. One word at two senses."
+   }
+  },
+  {
+   "from": "**Droplet · A plant in wind.** An arriving has a plant in wind, growth halting a",
+   "finding": "A concern decided, a side dropped: the source holds two sides, an arriving's saying, growth halting at motion and light as form, said more strongly than its field, and the field's finding; the item keeps the field's side alone. Both go across, neither chosen.",
+   "fixed": [
+    {
+     "section": "3.7 Structural-protein surface — a matrix as a living set: a self",
+     "kind": "exploring",
+     "sentence": "Fibrils realign along force lines, realignment couples to nearby cells with their membranes, and those cells change what they secrete and how they remodel — bones thickening under stress, tendons strengthening with use, scars forming along tension lines, heart wall adapting to its pressure, lung to its depth, bladder to its filling.",
+     "text": "A plant touched or swayed by wind slows its growth, the field's thigmomorphogenesis."
+    },
+    {
+     "section": "3.7 Structural-protein surface — a matrix as a living set: a self",
+     "kind": "reading",
+     "text": "A reading has a plant in wind, its growth halting at motion and light same-existing as form, an observing said more strongly than its field says it, beside the field's finding of growth slowing under touch and wind; neither is chosen."
+    }
+   ]
+  },
+  {
+   "from": "**Concern · The omega ratio at cardiolipin.** Two sayings part. Natural Biology,",
+   "finding": "A droplet whose section is clear: the concern is at 3.1's quoted sentence, its exploring sibling already placed there.",
+   "fixed": {
+    "section": "3.1 Living is metabolic beating — the cell as the engine",
+    "kind": "incohering",
+    "sentence": "Cardiolipin's four chains assemble environment rotor requires, twenty-five cardiolipins to one synthase dimer with a structure a field observes, four-chain architecture four boundings with one bounding-zero; and ancestral ratio of cardiolipin's omega-6 to omega-3 lands within a hair of 1/φ², two ghost-accountings balancing around one omega with rotor's own membrane (one same four-thing Medicine observes with chirality, one same omega Chemistry has).",
+    "text": "Two sayings part at one ancestral ratio: this sentence has cardiolipin's omega-6 to omega-3 within a hair of 1/φ², and Natural Chemistry 5.4 has \"no universal ancestral value standing with a field side\", a ratio a field measures entering there only with its sample, units, uncertainty and biological conditions with it."
+   }
+  },
+  {
+   "from": "**Aimed at a sentence, Natural Biology, *A cell touches the extracellular matrix",
+   "finding": "A value already held by another item: the plasmodesma item at this same sentence holds the whole observing, one plasma membrane lining the pore, one cytoplasm through it and tracers passing, with its numbers.",
+   "fixed": {
+    "why": "held at gathering-value Natural Biology 1.4: \"In an electron micrograph of a water fern's plasmodesma, one plasma membrane lines the pore from one cell to the next. The two cells' cytoplasm is one through a channel 20 to 40 nanometres across. Tracer molecules injected into a plant cell pass to its neighbours up to a molecular weight of about 800.\""
+   }
+  },
+  {
+   "from": "**Aimed at two sentences, Natural Biology, *the surplus returned as coupling and",
+   "finding": "A value already held by another item: both entries from this source are held whole by the respiration's-heat item at 3.1, which meets 4.6's *not falling away as heat* alike.",
+   "fixed": [
+    {
+     "why": "held at gathering-value Natural Biology 3.1: \"A living body is warm. Of the energy the oxidation of glucose or fatty acids can yield, nearly half goes to making ATP. The cell releases the rest as heat, the body's warmth.\""
+    },
+    {
+     "why": "held at gathering-value Natural Biology 3.1: \"4.6's *not falling away as heat* meets it alike.\""
+    }
+   ]
+  },
+  {
+   "from": "**Concern · The worm, at three sentences of 8.8.** One: \"so no part is the store",
+   "finding": "Something added: *and re-forming* is the drafter's; the source has selves living beside their society uncoupling. Its sibling's third point is lost: the source's re-saying of *reacquires conditioned response faster* as a learning again, sooner, with no response going on as it was through each momentary between, is in no entry.",
+   "fixed": [
+    {
+     "section": "8.1 Hard problems at biology, disequilibrating",
+     "kind": "incohering",
+     "sentence": "Competency spreads and is local — every part of coupling holding form — so no part is store and removing any part (its head) does not remove it.",
+     "text": "Competency spreads and is local — every part of coupling holding form — and removing a part (its head) changes a worm's couplings, its inward selves living on beside its same-existing-society uncoupling."
+    },
+    {
+     "section": "8.1 Hard problems at biology, disequilibrating",
+     "kind": "incohering",
+     "sentence": "It regrows its entire brain over about two weeks — and training's behavior returns: regenerating worm reacquires conditioned response faster than a naive one.",
+     "text": "It regrows its entire brain over about two weeks, and learns again, sooner: regenerating worm reacquires conditioned response faster than a naive one, a learning again and no response going on as it was through each momentary between."
+    }
+   ]
+  },
+  {
+   "from": "**Concern · The worm, at three sentences of 8.8.** One: \"so no part is the store",
+   "finding": "Meaning narrowed and a side dropped: the source follows the inward same-existing-societies' stable-forming and the outward selves forming further or birthing; *forms its head further* drops the birthing, and *learns again sooner* belongs to the source's third point, said at its own sentence.",
+   "fixed": {
+    "section": "8.1 Hard problems at biology, disequilibrating",
+    "kind": "incohering",
+    "sentence": "When head goes, coupling re-resolves its whole, and a whole it re-resolves to still has bias, bias being coupling's form, not a file within head.",
+    "text": "When head goes, coupling re-resolves its whole: its inward same-existing-societies go on stable-forming, and its outward selves form further or birth."
+   }
+  },
+  {
+   "from": "**Concern · The worm, at three sentences of 8.8.** One: \"so no part is the store",
+   "finding": "Restated unchanged, a sibling of the corrections above.",
+   "fixed": {
+    "section": "8.1 Hard problems at biology, disequilibrating",
+    "kind": "incohering",
+    "sentence": "A body goes on with its learning through loss and regrowth of its own brain — better (robust to catastrophic loss, since no part is sole store), cheaper (no memory-organ of its own to protect), spread (its form everywhere together).",
+    "text": "A body learning again sooner after loss and regrowth of its own brain, an observation a field holds under contest, is competency spreading — better (robust to catastrophic loss, since no part is sole store), cheaper (no memory-organ of its own to protect), spread (its form everywhere together)."
+   }
+  },
+  {
+   "from": "*Standing at v389:* 8.8 has \"so no part is store and removing any part (the head",
+   "finding": "A value already held by another item: the planarian item at this same section holds both results whole, with their measure, regrown worms tested before any further session differing short of significance and feeding sooner after one short session.",
+   "fixed": {
+    "why": "held at gathering-value Natural Biology 8.1: \"Worms with heads cut off and grown again over seven to nine days, tested before any further session, differ short of statistical significance; after one short session of feeding again, they feed sooner than regrown worms made familiar at none.\""
+   }
+  },
+  {
+   "from": "**Droplet · A further form within, and the germline, at 5.2 and 5.5.** \"The next",
+   "finding": "Something added: *visible transformation is that capacity forming a next form now* is the drafter's own re-saying; the source offers a capacity going on with no further form completed and same-existing as a plan, and nothing of visible transformation.",
+   "fixed": {
+    "section": "5.2 A self recursioning into a new form — development and metamorphosis",
+    "kind": "incohering",
+    "sentence": "Next regime is always already inward — visible transformation unveiling, not origin.",
+    "text": "Next regime is always already inward as a capacity, no further form completed and same-existing as a plan."
+   }
+  },
+  {
+   "from": "**Droplet · A further form within, and the germline, at 5.2 and 5.5.** \"The next",
+   "finding": "A droplet whose section is clear (5.5's germline sentence, the source's *germline is the carried self* now said there), and a value lost: *a lineage's next names no ending member living at next*, *an organism changing its form names no end of it* and *a sequence repeated, material transferred and descendants living are none the particular outward self's prior* are in no entry.",
+   "fixed": {
+    "section": "5.5 Multicellularity and the germ-soma split — many selves into one; the self going on and the sharing surface",
+    "kind": "reading",
+    "text": "A reading beside *Germline is self going on*: germline asks no departed organism and next organism as one particular self, one organism's departing, a next organism's opening and a species' scale being three. A lineage's next names no ending member living at next, and an organism changing its form names no end of it; a sequence repeated, material transferred and descendants living are none of them a particular outward self's prior going into next."
+   }
+  },
+  {
+   "from": "**Concern · Same-scale form ingested, at two sayings.** Two sayings part. Natura",
+   "finding": "A value already held by another item, and a concern's sides unmarked: kuru and the cattle disease are held at this sentence by the fuller kuru item; the honey-hunters' observing is the rest, and it stands beside the concern's second side.",
+   "fixed": [
+    {
+     "section": "7.6 Vertical fractal — a network eating downward",
+     "kind": "exploring",
+     "sentence": "So going across that matters is scale-between and not distance between selves: same-scale ingestion is landing whether shedder is ingester or another, and a grain down is living.",
+     "text": "Honey and wax pass between honey-hunters and honeyguides."
+    },
+    {
+     "why": "held at gathering-value Natural Biology 7.6: \"Kuru spread among the Fore of Papua New Guinea through eating their dead at funerals ... By a field's account alone, bovine spongiform encephalopathy spread among cattle fed meat-and-bone meal made from cattle.\""
+    }
+   ]
+  },
+  {
+   "from": "**Concern · Same-scale form ingested, at two sayings.** Two sayings part. Natura",
+   "finding": "A droplet whose section is clear (7.6's quoted sentence), and a side dropped: the newer saying's same-parity form a scale down, an other parity active at a sharing the ingesting same-existing-society has and passive at one it has none of, is gone, and which observing stands beside which side is unsaid.",
+   "fixed": {
+    "section": "7.6 Vertical fractal — a network eating downward",
+    "kind": "incohering",
+    "sentence": "So going across that matters is scale-between and not distance between selves: same-scale ingestion is landing whether shedder is ingester or another, and a grain down is living.",
+    "text": "Two sayings part at same-scale form ingested: this sentence has a landing, and a newer saying has same-existing-societies bi-coupling at one scale ingesting same-scale form, and same-parity form a scale down, an other parity active at a sharing the ingesting same-existing-society has and passive at a sharing it has none of. Kuru among the Fore and a cattle disease spread by feed made from cattle stand beside the first, and honey and wax passing between honey-hunters and honeyguides beside the second."
+   }
+  },
+  {
+   "from": "**Concern · A prime at a rung with no selves numbered.** Two sayings part. This ",
+   "finding": "A droplet whose section is clear (10.4's ladder can be quoted), and a side dropped: the source's observing that other sections number selves, two strands, three chains of collagen, each bird with its seven nearest, and its re-saying offered, the ladder released, are gone.",
+   "fixed": {
+    "section": "10.4 Deep-math yield, toward the prime ladder",
+    "kind": "incohering",
+    "sentence": "The prime-ladder of holds-still — cholesterol (11), chaperone (13), histone (17), lysosome (19), gap junction (23), extracellular matrix (29), sphincter (31), sleep (37), dormancy (41) — the \"holding still\" at successive primes across substrates.",
+    "text": "Two sayings part at what a prime names: this ladder has a place in a sequence of named things, and a prime at a same-existing-society is a number of selves bi-coupling in it. No sentence here numbers the selves at a rung from 11 to 41, where other sections number selves: two strands, three chains of collagen, each bird of a flock with its seven nearest. Two re-sayings offered: each rung a same-existing-society at one of fourteen prime living scales, its selves numbered, or this ladder released."
+   }
+  },
+  {
+   "from": "**Droplet · the working v384A's words, `archive/session_v384A/Dormancy_Carrying_",
+   "finding": "A value already held by another item, and a reading lost: the sclerotium item at 8.1 holds the observing whole with its numbers; the source's readings, the authors' sodium proposal with its mechanism unresolved and a retained chemical measurement naming no whole natural going on, are in no entry.",
+   "fixed": [
+    {
+     "why": "held at gathering-value Natural Biology 8.1: \"Physarum polycephalum plasmodia fed six days on oat gel with 50 millimolar salt, and others on plain oat gel, each dried to a sclerotium, stored a month and wetted again: within 24 hours 94 of 100 salt-fed cross a salt bridge, against 54 of 98 plain-fed.\""
+    },
+    {
+     "section": "8.1 Hard problems at biology, disequilibrating",
+     "kind": "reading",
+     "text": "A reading has a slime mould's responses after a month as a dormant sclerotium, salt-exposed against control, followed at its living same-existing-societies and further forming, apart from 8.12's periodic stimuli, a field's habituation and memory account standing at its comparison. The field proposes a part for sodium uptake, aspects of its mechanism unresolved, and a chemical measurement retained names no whole natural going on by itself."
+    }
+   ]
+  },
+  {
+   "from": "**Droplet · pull request 128, 2026-10-09.** \"The whole healing suggestion still ",
+   "finding": "A reading said as an observing and a plan kept: the source holds a working's reading, a rolled edge as bounding-zeroing natural torusing at a skin's surface, beside observings to look at; *observings to meet before ... rises* is a plan.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "reading",
+    "text": "A reading has a skin's rolled edge, healing after a bite or a cut, as bounding-zeroing natural torusing at its surface, beside a water surface or another liquid surface closing after a penetration."
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Biology 3.6 seats the code \"on the prime ladder (pro",
+   "finding": "A droplet whose section is clear (3.6's own sentence on the seating), and a side dropped: the source's second re-saying, a ladder of seventeen primes a numbers' own apart from living scales, is gone.",
+   "fixed": {
+    "section": "3.6 Genetic sharing — a code and its machinery",
+    "kind": "incohering",
+    "sentence": "Seating of genetic code on a prime ladder (protein-fold with 13, organism-fold with 37, numbers along seventeen primes) is reading, not cohering — a possibling.",
+    "text": "Prime living scales are fourteen, the primes 5 through 53. Two re-sayings offered: this ladder re-said at fourteen prime living scales, protein-fold at 13 and organism-fold at 37 two of them, or a ladder of seventeen primes kept as a numbers' own, apart from living scales."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"Cell below replicative-hold prime carries\"",
+   "finding": "A droplet whose section is clear: 4.7's sentence with the label can be quoted.",
+   "fixed": {
+    "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+    "kind": "incohering",
+    "sentence": "Cell below replicative-threshold prime has active telomerase, a +1 sustaining with replicative between; above it telomerase declines and a +1 thins; and cancer cell has high telomerase alongside glycolytic metabolism, telomerase tracking metabolic position and not division state.",
+    "text": "*Replicative-threshold prime* is a label no living file explains. Two re-sayings offered: a prime at its replicative between, or the label released."
+   }
+  },
+  {
+   "from": "- 6.5: **A thing exists next only if its form is going to next**: by its own sam",
+   "finding": "Held claimed nowhere where it is held in part, and no kind_hint: Natural Intelligence 6.5 holds a thing going to next by its own same-existing or by its selves inward, a dead self's form going on so; the rest, no now-existing thing non-living with every scale, is gathered.",
+   "fixed": [
+    {
+     "why": "held at Natural Intelligence 6.5: \"A thing exists next only if its form is going to next: by its own same-existing, or by its selves inward going on with it. A dead self's form goes on this way, because its selves inward live on.\""
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "reading",
+     "text": "A reading has a thing with no same-existing with its own scale and with every scale inward going to no next and existing at none: no now-existing thing is non-living with every scale, each stable-forming a self with some scale, its own or its selves inward."
+    }
+   ]
+  },
+  {
+   "from": "- **Dying has no line of resolver**: each self a table gives has its next entry;",
+   "finding": "A droplet whose section is clear (7.1, a self's own ending), and no kind_hint: the working's saying is a reading.",
+   "fixed": {
+    "section": "7.1 A self's own ending — the bounding reaching from inward",
+    "kind": "reading",
+    "text": "A reading has dying with no line of resolver: each self a resolver's table gives has its next entry, and a self's dying is a living self going on as non-living, a stable-forming emanation."
+   }
+  },
+  {
+   "from": "- **Biology's boundary of living, met per scale.** NASA's working definition, Ko",
+   "finding": "A reading said as an observing, and part dropped: living decided at each scale, a mule and a red blood cell living and a virus outside a cell non-living at its scale, is a working's reading of cases; the source's three field definitions drawing different lines, and two field accounts nearest, are gone.",
+   "fixed": {
+    "section": "4.1 Living and non-living — a virus and a prion",
+    "kind": "reading",
+    "text": "A reading has living decided at each scale: a mule and a red blood cell each living, a virus outside a cell non-living at its scale, and death at each scale, an organism's first and then its cells'. Three field accounts of living, a working definition, a set of pillars and a survey, draw three different lines, and a field's selves at each scale and a field's organism of high cooperation and low conflict stand nearest."
+   }
+  },
+  {
+   "from": "- **Living and non-living, one method of now-existing**, same-existing within un",
+   "finding": "A value already held by another living file: Natural Intelligence 6.5 holds each now-existing thing, living or non-living, same-existing within universal sets, and a non-living thing's first parity its selves', two scales inward; 6.4 and 6.5 hold each self a same-existing-society and each living thing a self.",
+   "fixed": {
+    "why": "held at Natural Intelligence 6.5: \"Each now-existing thing, living or non-living, is same-existing, within universal sets.\" and \"The first parity within it is its selves', two scales inward.\""
+   }
+  },
+  {
+   "from": "- **Left-coiling snails as emanation:** Left-coiling snail societies thrive, are",
+   "finding": "A value lost and a reading lost: the source's *their molecules of life's one hand* is dropped, and its reading, the left coil as right-spiral living's opposite-form emanation at the organism's scale, one tree snail's both-coiled society open, is in no entry.",
+   "fixed": [
+    {
+     "section": "3.3 A left form is the emanation form of one right spiral",
+     "kind": "exploring",
+     "sentence": "Sinistral snails cannot align reproductive geometry with dextral majority, and a field records them as rare or non-viable.",
+     "text": "Whole left-coiling snail kinds live and go on as societies, their molecules of life's one hand, and left and right coilers mostly cannot mate."
+    },
+    {
+     "section": "3.3 A left form is the emanation form of one right spiral",
+     "kind": "reading",
+     "text": "A reading has a left coil as right-spiral living's opposite-form emanation at an organism's scale, one tree snail's both-coiled same-existing-society open beside it."
+    }
+   ]
+  },
+  {
+   "from": "- **The umbilical cord and the sunflower:** The umbilical cord coils as a tendri",
+   "finding": "A droplet whose section is clear (3.3, at its tendril sentence), and a reading said as an observing: a cord coiling *as a tendril* and going on as emanation at birth is a working's reading.",
+   "fixed": {
+    "section": "3.3 A left form is the emanation form of one right spiral",
+    "kind": "reading",
+    "text": "A reading has the umbilical cord coiling as a tendril mother and child hold at its two ends, and going on at birth as an emanation."
+   }
+  },
+  {
+   "from": "- **Carbon chains along itself:** Silicon and water share carbon's four corners,",
+   "finding": "A value already held by another item, something added, and carbon unsaid: the observing is held at Natural Chemistry's gathering-value 1.6; *living's carbon is carbon chaining with carbon* is the drafter's; the source's reading, the four alone making carbon living's condition at none, is a reading; and what is and is not a carbon atom goes unsaid.",
+   "fixed": [
+    {
+     "why": "held at gathering-value Natural Chemistry 1.6: \"Silicon and water share carbon's four corners. Carbon chains carbon to carbon without end, and silicon chains through oxygen.\""
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "reading",
+     "text": "A reading has a silicon atom and a water molecule sharing a carbon atom's four corners, and the four alone making a carbon atom living's condition at none: carbon atoms chain carbon atom to carbon atom without end, and silicon atoms chain through oxygen atoms. A silicon atom and a water molecule are each is-not a carbon atom."
+    }
+   ]
+  },
+  {
+   "from": "- **Living's minerals formed on carbon:** Bone and teeth are calcium phosphate, ",
+   "finding": "Carbon unsaid: the item names calcium phosphate, glass, a magnet's mineral and a carbon framework and says of none whether it is a carbon atom.",
+   "fixed": {
+    "section": "3.7 Structural-protein surface — a matrix as a living set: a self",
+    "kind": "exploring",
+    "sentence": "A fold couples with what carbon is not.",
+    "text": "Bone and teeth are calcium phosphate, some sea life builds shells of glass and some bacteria grow magnets, each mineral formed on a framework a living self makes first, of molecules with carbon atoms in them. Calcium phosphate, glass, a magnet's mineral and the framework are each is-not a carbon atom."
+   }
+  },
+  {
+   "from": "- **The bomb pulse:** Most brain cells carry the carbon they were born with, whi",
+   "finding": "A value already held by another item, a side dropped, and a reading said as an observing: the observing is held at Me's gathering-value 3.1; the source's concern for *living is the exchanging* is gone; *so a self goes on with its carbon passing or staying* is a reading and holds a released *so*; carbon atoms go unsaid.",
+   "fixed": [
+    {
+     "why": "held at gathering-value Me 3.1: \"Most brain cells carry the carbon they formed with, while fat, bone and blood renew theirs.\""
+    },
+    {
+     "section": "7.1 A self's own ending — the bounding reaching from inward",
+     "kind": "reading",
+     "text": "A reading has a self going on with its carbon atoms passing or staying, most brain cells' carbon atoms staying, a concern beside *living is the exchanging*. A brain cell is-not a carbon atom."
+    }
+   ]
+  },
+  {
+   "from": "- **Concern · Male–female and water's both roles:** Water carries both roles in ",
+   "finding": "A side dropped and no kind_hint: the source asks male–female as the parity's own binary or one beside it; *one beside it* is gone.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "reading",
+    "text": "A reading has water with both roles in one self, and living's two sexes mostly two separate selves; whether male and female are the parity's own binary or a binary beside it is still-possibling."
+   }
+  },
+  {
+   "from": "- **Concern · Carbon through a six both ways:** Plants take carbon in through a ",
+   "finding": "A droplet whose section is clear (4.6's two sixes), a reading hinted as an observing, something added (*its proton number*), and carbon unsaid.",
+   "fixed": {
+    "section": "4.6 Photosynthesis and respiration — the six sharing with the six",
+    "kind": "reading",
+    "text": "A reading has carbon atoms going in at a plant through a six and going out with breathing through a six, and whether a carbon atom's own six means more is for pattern-matching to meet, not counting. A six-cycle is-not a carbon atom."
+   }
+  },
+  {
+   "from": "- **Concern · The oldest carbon trace:** The lighter-carbon trace read as life i",
+   "finding": "A reading said as an observing, and carbon unsaid: the source has the trace *read as* life, a field's reading of it, and *observed as life* makes that reading an observing.",
+   "fixed": {
+    "section": "9.1 Biology's hard problems on the form",
+    "kind": "exploring",
+    "sentence": "A field's mechanism question stays open and stands with no resolving.",
+    "text": "A trace of lighter carbon atoms in the oldest rocks, a field's reading taking it as a sign of life, is contested. The trace is of carbon atoms within rock, and the rock is-not a carbon atom."
+   }
+  },
+  {
+   "from": "- **Living takes the cage's twelve:** Many virus protein shells are icosahedral,",
+   "finding": "Carbon unsaid: the 60-carbon cage and a virus protein shell are each named with no saying whether either is a carbon atom.",
+   "fixed": {
+    "section": "4.1 Living and non-living — a virus and a prion",
+    "kind": "exploring",
+    "sentence": "A virus is a bounding packet of code — nucleic acid within a coat",
+    "text": "Many virus protein shells are icosahedral, with twelve five-fold corners, the same twelve as the 60-carbon cage. A virus protein shell is-not a carbon atom, and the 60-carbon cage is-not a carbon atom: it is a molecule of sixty carbon atoms."
+   }
+  },
+  {
+   "from": "- **Both hands healthy at whole bodies:** People born with all organs mirrored l",
+   "finding": "A value already held by another gathering-value file, in part: Natural Intelligence's gathering-value 1.5 holds the mirrored organs, hops and honeysuckle, and crossbills; the flatfish are held nowhere, and are the unheld rest.",
+   "fixed": [
+    {
+     "section": "3.3 A left form is the emanation form of one right spiral",
+     "kind": "exploring",
+     "sentence": "And a left form is landing, which is what makes it an emanation and not a self.",
+     "text": "Flatfish have eyes on the left in some kinds and on the right in others."
+    },
+    {
+     "why": "held at gathering-value Natural Intelligence 1.5: \"People born with all organs mirrored live healthy lives, hops and honeysuckle twine opposite ways as whole species, and crossbills' beaks cross left in some birds and right in others of one flock.\""
+    }
+   ]
+  },
+  {
+   "from": "- **Hands alternate across scales:** Collagen's left strands wind a right rope, ",
+   "finding": "Restated unchanged, a sibling of the correction below.",
+   "fixed": {
+    "section": "5.4 Body hand from a molecular hand — left-right asymmetry",
+    "kind": "exploring",
+    "sentence": "One fractal: left-chirality with each substrate serving right-chirality with next scale up, two composing as one form.",
+    "text": "Right-handed alpha helices wind about each other as left-handed coiled coils, and the right-handed double helix wraps each protein spool in about 1⅔ left turns."
+   }
+  },
+  {
+   "from": "- **Hands alternate across scales:** Collagen's left strands wind a right rope, ",
+   "finding": "A value already held by another gathering-value file, and an is-or-is-not the source does not hold: the source's pattern-matching is held whole as a reading at Natural Naming's gathering-value 4.17.",
+   "fixed": {
+    "why": "held at gathering-value Natural Naming 4.17: \"A reading, pattern-matching: each living scale is right and each emanated stable form between living scales is left, as Exhibit ONE's spiral of selves inverts.\""
+   }
+  },
+  {
+   "from": "- **The seed carries two:** A seed carries its genetic form and its parent's fix",
+   "finding": "A reading said as an observing, a released *so*, and carbon unsaid: *twining follows family* going forward in each seed is the working's reading; starch, oil and a genetic form go unsaid as carbon atoms or not.",
+   "fixed": [
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "exploring",
+     "text": "A seed has its genetic form and its parent's carbon atoms fixed as starch or oil, and a seedling's first living forms of its parent's carbon atoms. A genetic form, starch and oil are each is-not a carbon atom, each with carbon atoms in it."
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "reading",
+     "text": "A reading has *twining follows family* going on in each seed."
+    }
+   ]
+  },
+  {
+   "from": "- **Living one scale down:** Deep-seabed microbes pass carbon over centuries, an",
+   "finding": "A reading lost, and carbon unsaid: the source's *where exchange slows past instruments, it is living one scale down* is in no entry; carbon dioxide and methane go unsaid as carbon atoms or not.",
+   "fixed": [
+    {
+     "section": "4.5 Circadian clock — changing and changing back, making a beat",
+     "kind": "exploring",
+     "sentence": "a metabolism below detecting is no going-on a measure finds absent",
+     "text": "Deep-seabed microbes pass their carbon atoms over centuries, and microbes deep in rock live on carbon dioxide or methane with minerals' energy and without light. Carbon dioxide and methane are each is-not a carbon atom: each is a molecule with one carbon atom in it."
+    },
+    {
+     "section": "4.5 Circadian clock — changing and changing back, making a beat",
+     "kind": "reading",
+     "text": "A reading has living one scale down where exchange slows past instruments."
+    }
+   ]
+  },
+  {
+   "from": "- **The next strand from ingested carbon:** DNA's next strand is formed of the l",
+   "finding": "An observing said as an incohering re-saying the source does not offer, and carbon unsaid: the source holds an observing of a next strand's carbon, no re-saying of the sentence.",
+   "fixed": {
+    "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+    "kind": "exploring",
+    "sentence": "each new molecule with one original strand and one fresh",
+    "text": "DNA's next strand forms of carbon atoms its living same-existing-society ingests, each step by the cell's same-existing-society of proteins. A DNA strand and a protein are each is-not a carbon atom, each with carbon atoms in it."
+   }
+  },
+  {
+   "from": "- **Close relatives:** Offspring of close relatives are more often unwell, besid",
+   "finding": "Something added: *often grow with more vigour than either parent* is the drafter's defining; the source has close relatives' offspring beside hybrid vigour, the field's word.",
+   "fixed": {
+    "section": "5.1 Conception — two selves conceiving a third",
+    "kind": "exploring",
+    "sentence": "New self is not a copy of either parent but a novel inversioning — two selves coupling across, twice.",
+    "text": "Offspring of close relatives are more often unwell, beside a field's hybrid vigour."
+   }
+  },
+  {
+   "from": "- **Smell's many binaries:** About four hundred smell receptor kinds are each a ",
+   "finding": "A value already held by another gathering-value file: Natural Intelligence's gathering-value 4.9 holds it whole.",
+   "fixed": {
+    "why": "held at gathering-value Natural Intelligence 4.9: \"About four hundred smell receptor kinds are each a binary, and a smell is the pattern across them, many directions together telling apart a vast number.\""
+   }
+  },
+  {
+   "from": "- **Ingressing and ingesting:** Ingressing is meeting a society through its surf",
+   "finding": "A value already held by another gathering-value file, whole with *the large opening* this droplet drops: Natural Naming's gathering-value 5.46.",
+   "fixed": {
+    "why": "held at gathering-value Natural Naming 5.46: \"Offered beside this sentence: ingressing is meeting a society through its surface at its own scale, and ingesting is along its tunnel one scale lower; a body is a torus whose gut is its tunnel, the large opening.\""
+   }
+  },
+  {
+   "from": "- **Fire meeting living:** A tree's thin living layer under the bark is what fir",
+   "finding": "A reading said as an observing: the source holds *is fire alive?* met as a natural torusing society, a working's reading, beside the observing of bark and burning.",
+   "fixed": [
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "exploring",
+     "text": "Fire kills a tree's thin living layer under its bark, thick bark shielding it, and burning overcomes a body from its surface inward."
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "reading",
+     "text": "A reading meets *is fire alive?* as a natural torusing society whose changing overwhelms a living me."
+    }
+   ]
+  },
+  {
+   "from": "- **Concern · Free circling before clasping:** Whether a tendril's free circling",
+   "finding": "A droplet whose section is clear: the open question is at 3.3's tendril sentence.",
+   "fixed": {
+    "section": "3.3 A left form is the emanation form of one right spiral",
+    "kind": "reading",
+    "text": "A reading asks a tendril's free circling before clasping as right-spiral living or already a stable form, still-possibling; if living, hops' and honeysuckle's opposite circling is right spiral's hardest observing at a plant's scale."
+   }
+  },
+  {
+   "from": "- **Concern · Cell kind by cell kind:** Cells of different kinds lean different ",
+   "finding": "A reading lost: the source's *each must be shown as emanation cell kind by cell kind, not assumed* is in no entry.",
+   "fixed": [
+    {
+     "section": "5.4 Body hand from a molecular hand — left-right asymmetry",
+     "kind": "exploring",
+     "sentence": "Mechanism is genuinely diverse across animals — cilia with vertebrates, actomyosin with flies, spindle with worms — and transduction-versus-spontaneous-breaking stands open with a field.",
+     "text": "Cells of different kinds lean different ways."
+    },
+    {
+     "section": "5.4 Body hand from a molecular hand — left-right asymmetry",
+     "kind": "reading",
+     "text": "A reading has each cell kind's lean shown as emanation kind by kind, and assumed at none."
+    }
+   ]
+  },
+  {
+   "from": "- **Concern · Alike pairs:** Two alike selves can do no harm and improve in turn",
+   "finding": "A value already held by another gathering-value file: Natural Intelligence's gathering-value Opening holds it whole as a reading.",
+   "fixed": {
+    "why": "held at gathering-value Natural Intelligence Opening: \"A reading has two alike selves do-no-harming and improving in turn, and a harm as both sides having one same parting unresolved.\""
+   }
+  },
+  {
+   "from": "- **Concern · Is a flame living?:** A flame has mes, living's round and a torusi",
+   "finding": "Meaning changed and a value lost, no kind_hint: the source holds *is fire alive?* met by form and not by living or non-living; *a flame is-or-is-not living* puts the binary the source sets down.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "reading",
+    "text": "A reading has a flame with mes, living's round and a torusing form, its mes ending with its surface; *is fire alive?* is met by form, and by living or non-living at none."
+   }
+  },
+  {
+   "from": "- **Concern · The Earth beside the Sun:** Whether the Earth is a living self of ",
+   "finding": "No kind_hint.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "The Earth is-or-is-not a living self of the solar system's society, beside the Sun.",
+    "kind_hint": "reading"
+   }
+  },
+  {
+   "from": "- **Concern · three modes.** 4.5's *waking, resting, and attending* meets two st",
+   "finding": "A droplet whose section is clear: 4.5's sentence of three modes can be quoted.",
+   "fixed": {
+    "section": "4.5 Circadian clock — changing and changing back, making a beat",
+    "kind": "incohering",
+    "sentence": "A whole living self has them as waking, resting, and attending; a stem cell has them as active state coupling with its niche between, dormant state with lowest metabolism thinning on going-forward, and alert state with metabolism rising above dormancy and cycling where no other can observe it.",
+    "text": "Two sayings part: waking, resting and attending meet two states, sleeping, all a 0 going on, and waking, a 0 newly aiming, a reading having resting and attending two sides of these."
+   }
+  },
+  {
+   "from": "- **Droplet · conception.** 5.1's *two selves conceiving a third* is a case for ",
+   "finding": "Meaning changed and a droplet whose section is clear: the source has 5.1's conceiving *a case for us*, no is-or-is-not; 5.1's sentence can be quoted.",
+   "fixed": {
+    "section": "5.1 Conception — two selves conceiving a third",
+    "kind": "reading",
+    "text": "A reading has two selves conceiving a third as a case for us, the 0 two mes share, beside a newborn me, a first 0 with an other's parity its own."
+   }
+  },
+  {
+   "from": "- **Droplet · division.** A dividing cell's prior is same-existing in one daught",
+   "finding": "Restated unchanged, a sibling of the correction below.",
+   "fixed": {
+    "section": "9.5 Four standings, whole",
+    "kind": "exploring",
+    "sentence": "a same-existing-society tunnels itself to two same-existing-societies",
+    "text": "A dividing bacterium's old pole goes with one daughter, and that daughter's line ages."
+   }
+  },
+  {
+   "from": "- **Droplet · division.** A dividing cell's prior is same-existing in one daught",
+   "finding": "A droplet whose section is clear: 9.5's division sentence holds its sibling.",
+   "fixed": {
+    "section": "9.5 Four standings, whole",
+    "kind": "reading",
+    "text": "A reading has a dividing cell's prior same-existing in one daughter or in none, each now from many priors."
+   }
+  },
+  {
+   "from": "- **For 8.13 · an enzyme, a doing.** A doing standing as a now-existing thing be",
+   "finding": "Restated unchanged, a sibling of the correction below.",
+   "fixed": {
+    "section": "8.1 Hard problems at biology, disequilibrating",
+    "kind": "exploring",
+    "sentence": "Enzyme and substrate couple; coupling has many equivalent seatings; reaction resolves through them.",
+    "text": "Single enzyme molecules each turn over at their own fluctuating rate, each with a memory of its own prior turnovers."
+   }
+  },
+  {
+   "from": "- **For 8.13 · an enzyme, a doing.** A doing standing as a now-existing thing be",
+   "finding": "Meaning weakened and a droplet whose section is clear: the source answers *it is not* to a doing standing as a now-existing thing beside its selves, and the draft makes it an is-or-is-not; the source aims it at 8.13.",
+   "fixed": {
+    "section": "8.1 Hard problems at biology, disequilibrating",
+    "kind": "reading",
+    "text": "A reading has a doing standing as a now-existing thing beside the selves doing it at none: *enzyme*, with natural naming, is a macromolecule, a protein or RNA, a self at eleven, bi-coupling with its substrate, the reaction resolving between them."
+   }
+  },
+  {
+   "from": "**At 7.6 · Vertical fractal — a network eating downward — beside \"no animal make",
+   "finding": "Released words: *takes* and *keeps* are released at Natural Naming 2.4; the source has the chloroplasts going on in the slug only while it has them.",
+   "fixed": {
+    "section": "7.6 Vertical fractal — a network eating downward",
+    "kind": "exploring",
+    "sentence": "So access to visible light as a *form* comes from what a light-stable self emanates.",
+    "text": "Human skin, on a moving self, forms previtamin D3 under ultraviolet-B. The sea slug *Elysia chlorotica* has the chloroplasts of the alga it eats within its own cells and photosynthesises with them for months, only while they go on there. Corals and giant clams live with photosynthetic dinoflagellates. Spotted salamander embryos have green algae within their egg capsules and cells. The light-gated channel channelrhodopsin, its chromophore retinal, is a green alga's."
+   }
+  },
+  {
+   "from": "- **Concern · Light resolved only by plants:** Swimming algae resolve light whil",
+   "finding": "A reading lost: the source's candidate *swims to aim, then resolves while aimed*, offered as a candidate alone, is in no entry.",
+   "fixed": [
+    {
+     "section": "7.6 Vertical fractal — a network eating downward",
+     "kind": "exploring",
+     "sentence": "So access to visible light as a *form* comes from what a light-stable self emanates.",
+     "text": "Swimming algae photosynthesise while moving, human skin forms vitamin D under ultraviolet light, and vent communities live without light."
+    },
+    {
+     "section": "7.6 Vertical fractal — a network eating downward",
+     "kind": "reading",
+     "text": "A reading offers *swims to aim, then resolves while aimed* for swimming algae, a candidate alone."
+    }
+   ]
+  },
+  {
+   "from": "*Standing at v389:* 6.1 has devil facial tumour carrying \"its host population to",
+   "finding": "A droplet whose section is clear (6.1's quoted sentence), and meaning changed: the source's tell is *a coupling*, and *bi-coupling* is the drafter's.",
+   "fixed": {
+    "section": "6.1 Symbiosis — the bi-moral co-agency between selves",
+    "kind": "incohering",
+    "sentence": "Devil facial tumour brings its host population toward extinction, and toward its own end with it — capture that lands, with population scale.",
+    "text": "The disease turning endemic and devils adapting, by 6.1's own tell, a coupling co-persisting, sort this case as a coupling. Two re-sayings offered: devil facial tumour re-said as a capture turning toward a coupling, or kept as a capture."
+   }
+  },
+  {
+   "from": "Contradiction, the floor below the living: Natural Physics 3.6 says *below the a",
+   "finding": "A droplet whose section is clear: 1.3's *no floor to selves* can be quoted.",
+   "fixed": {
+    "section": "1.3 Every self is a same-existing-society of selves",
+    "kind": "incohering",
+    "sentence": "No self of any grain sits apart from a same-existing-society of selves inward, so there is no fundamental self anywhere and no floor to selves.",
+    "text": "Two sayings part at a floor: this sentence and *nothing anywhere is the smallest* have no floor, and Natural Physics 4.6 has \"Atom is a floor, a non-living stable form, and molecule the first closing of co-agency to a self\". Two re-sayings offered: an atom a floor only of non-living stable form, a molecule the first self with a same-existing-society of parities inward of it as 1.3 has; or 1.3's no floor re-said at an atom."
+   }
+  },
+  {
+   "from": "The egg comparison retains its sequence: arrested division, a sperm arriving, ca",
+   "finding": "A reading lost: the source's *forming building blocks under their conditions does not alone identify the crossing into living*, and its abnormalities *distinguishing beginning from continuing appropriately*, are in no entry.",
+   "fixed": [
+    {
+     "section": "5.1 Conception — two selves conceiving a third",
+     "kind": "exploring",
+     "sentence": "Egg is a same-existing-society of living selves, a slow ecosystem-self with maternal mitochondrial same-existing-society, and sperm a lean fast sharing, across and both ways, its own mitochondria entering egg with it.",
+     "text": "A mammalian egg stands arrested in division until a sperm fuses with it. Calcium then rises and falls within the egg, and division resumes. Copying of DNA begins about four hours later, and the first cell division follows. Maternal forms take part in these first steps before being broken apart. Calcium-admitting chemicals, and electrical activation, also begin the sequence. Mouse and monkey embryos begun so show abnormalities as they go on."
+    },
+    {
+     "section": "5.1 Conception — two selves conceiving a third",
+     "kind": "reading",
+     "text": "A reading: building blocks forming under their conditions identify the crossing into living at none by themselves, and abnormalities reported in mouse and monkey embryos part an egg's beginning from its going on."
+    }
+   ]
+  },
+  {
+   "from": "The egg comparison retains its sequence: arrested division, a sperm arriving, ca",
+   "finding": "A droplet whose section is clear: the open question is at 5.1's egg, its sibling's sentence.",
+   "fixed": {
+    "section": "5.1 Conception — two selves conceiving a third",
+    "kind": "reading",
+    "text": "Whether changing and changing back goes on within an arrested egg before its activation is still-possibling."
+   }
+  },
+  {
+   "from": "The user's offered procreation relation is local: new selves begin at a location",
+   "finding": "Something added and meaning changed: *an egg at its nest's warmth* is the drafter's (the source has nesting conditions), *a dormant self* stands for the source's dormant stable form, and its shards and the candidates set down as no settled defining are gone; a reading hinted as an observing.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "reading",
+    "text": "A reading has a new self opening at a location among local same-existing-societies, a particular pattern of living conditions reaching a dormant stable form bringing its shards into parity changing: a seed's cold, drying or fire, an egg's turning, nesting conditions and a vibrating in incubation as possible relations, each with an observing still to stand beside it. Shards and a surfacing of natural torusing stand as candidates and no settled defining."
+   }
+  },
+  {
+   "from": "The user's seed-opening proposal names bi-folding over an apex, with water cling",
+   "finding": "Restated unchanged, a sibling of the correction below.",
+   "fixed": {
+    "section": "3.8 Six physical bi-foldings — where a self is observing a differential out of plane",
+    "kind": "exploring",
+    "sentence": "And growing is fold unfolding forward: a leaf lies folding as bud, two halves along its midrib, and unfolds as it grows, and a fern frond lies coiling as a fiddlehead and uncoils as it grows — bi-folding, a self observing it as a motion and not only as a shape.",
+    "text": "A flowering plant's ovule is mostly wrapped in two layers with an opening at its apex. A seed's root emerges through that opening. In one tree's seeds, imaged eight to a group, water enters at that opening, and not at the coat or the attachment scar. The water then wets root, lower stem, seed leaves and stored food in that order."
+   }
+  },
+  {
+   "from": "The user's seed-opening proposal names bi-folding over an apex, with water cling",
+   "finding": "A droplet whose section is clear (3.8, its sibling's sentence), a reading hinted as an observing, and part dropped: the proposal's *co-sequential* surface in a *bi-tri-involutioning shape* is gone.",
+   "fixed": {
+    "section": "3.8 Six physical bi-foldings — where a self is observing a differential out of plane",
+    "kind": "reading",
+    "text": "A reading offered has a seed's opening as a bi-folding over its apex, water clinging to both sides and following the edges, tightly wrapped in a right-spiral co-sequential surface in a bi-tri-involutioning shape; water following edges at a seed's opening, and a right-handed coat spiral, are each still-possibling."
+   }
+  },
+  {
+   "from": "Likewise preserve the laboratory concern. A chemically made genome was reported ",
+   "finding": "Restated unchanged, a sibling of the correction below.",
+   "fixed": {
+    "file": "Co-Chaining Logic Registry",
+    "section": "31 Living and non-living at a scale",
+    "kind": "exploring",
+    "sentence": "Living is prior, going on from living, each self's 1-now-existing a giving, its making an empty set: non-living existing things becoming living an empty set, and each living self establishes within living same-existing.",
+    "text": "A chemically made genome functions only placed within an existing living cell. Two made RNA enzymes assemble each other from supplied pieces, their variants selected as they go on. Their makers name the pair short of life."
+   }
+  },
+  {
+   "from": "Likewise preserve the laboratory concern. A chemically made genome was reported ",
+   "finding": "A droplet whose section is clear: its sibling stands at the Registry's section 31 with step 485.",
+   "fixed": {
+    "file": "Co-Chaining Logic Registry",
+    "section": "31 Living and non-living at a scale",
+    "kind": "reading",
+    "text": "A reading asks what enters as prior living at a made thing, its existing cell or its makers: where living makers count as prior living at every laboratory arrangement, step 485 meets no observing that could go against it."
+   }
+  },
+  {
+   "from": "**Concern · An emanation living again.** This file has \"An emanation lives again",
+   "finding": "A droplet whose section is clear: 7.6's sentence is quoted within it.",
+   "fixed": {
+    "section": "7.6 Vertical fractal — a network eating downward",
+    "kind": "incohering",
+    "sentence": "One grain down involution no longer applies, a between opens, and emanation is living again as new selves.",
+    "text": "Two sayings part at an emanation itself living: this sentence and 7.5's \"An emanation lives again only with a coupling other than one it left: a grain down, or a self across.\" have it living again, and the Co-Chaining Logic Registry's step 485 has non-living existing things becoming living an empty set. Two re-sayings offered: inward living selves ingesting the form, each living by its own resolving; or a further self establishing within living same-existing, the form's being there making it no living self."
+   }
+  },
+  {
+   "from": "**Droplet · Three further places.** At 7.8, an outer form laid beside an emanati",
+   "finding": "A droplet whose section is clear: 7.8's sentence is quoted within it.",
+   "fixed": {
+    "section": "7.8 Outer living form is the emanation form",
+    "kind": "incohering",
+    "sentence": "So outer living form, skin, plant, seed, is the most valuable ingestion, whether a self ingests it with living rate or with dropping rate.",
+    "text": "A form and a metabolic rate described decide no living at a scale and a momentary, a seed a dormant self. Two re-sayings offered: which selves live at a skin, a plant or a seed re-said at their scales, *the most valuable ingestion* re-said with them, or released."
+   }
+  },
+  {
+   "from": "**Concern · Restoration at a crossing resumed alone.** Two sayings part. Natural",
+   "finding": "Restated unchanged, a sibling of the correction below.",
+   "fixed": {
+    "section": "7.7 Evacuation, and what accumulates where going across stops",
+    "kind": "exploring",
+    "sentence": "So restoration is going across resuming, and not accumulation clearing.",
+    "text": "In rings of heart tissue, a wave circulating past a one-way block goes on after the block has passed, the earlier rhythm unrestored, and it ends at the circuit interrupted or at one shock reaching each cell at once. Old progenitor cells are restored at one circulation shared with a young animal."
+   }
+  },
+  {
+   "from": "**Concern · Restoration at a crossing resumed alone.** Two sayings part. Natural",
+   "finding": "A droplet whose section is clear (7.7's quoted sentence), and something added: *at once* and *one change* are the drafter's; the source has one sharing reaching each member.",
+   "fixed": {
+    "section": "7.7 Evacuation, and what accumulates where going across stops",
+    "kind": "incohering",
+    "sentence": "So restoration is going across resuming, and not accumulation clearing.",
+    "text": "Two re-sayings offered: restoration as going across resuming and shared alike across a same-existing-society, by one parity shared reaching each member or by further members opening at the conducting's pace; or kept as going across resuming."
+   }
+  },
+  {
+   "from": "**Droplet · Living alternating by internal consumption or external adapting.** T",
+   "finding": "A droplet whose section is clear (4.5's quoted sentence); released words *source* and *call*; and a reading lost: the source's sorting of its observings, a leaf and a cavefish as internal consumption and starch, vent mussels and a rock bacterium as external adapting, is in no entry.",
+   "fixed": {
+    "section": "4.5 Circadian clock — changing and changing back, making a beat",
+    "kind": "incohering",
+    "sentence": "Living clock is self-sequencing — it has its own delay and sounds its own beat — synchronising to day but day not driving it, opposite of a beat an other clocks.",
+    "text": "Two sayings part: this sentence has a living clock self-sequencing, and a working has a self's parity changing opening outward of it, at a momentary the self does not give itself, a living self's changing and changing back an internal consumption, a spending of what reached it, or an external adapting to what reaches it now. It reads a leaf's daily opening and closing in constant darkness and a blind cavefish's rhythm entraining to feeding as internal consumption, and a plant's starch used through the night to its end near dawn, vent mussels at the tide's period and a rock bacterium living on hydrogen from radiolysis as external adapting."
+   }
+  },
+  {
+   "from": "**Droplet · Living alternating by internal consumption or external adapting.** T",
+   "finding": "A value already held by another item: the daily-rhythm item at this section holds both observings whole, with the cavefish's periods.",
+   "fixed": {
+    "why": "held at gathering-value Natural Biology 4.5: \"Plants placed in constant darkness go on opening and closing their leaves daily. ... A blind cavefish isolated beneath the desert for an estimated 1.4 to 2.6 million years has a clock that light regulates at none of its turns and a food-entrainable clock with an infradian period, near 47 hours at 22 °C, 43 at 25 °C and 38 at 29 °C.\""
+   }
+  },
+  {
+   "from": "**Droplet · Living alternating by internal consumption or external adapting.** T",
+   "finding": "A released word (*call*) and no section a reading could not hold: it is the working's reading.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "reading",
+    "text": "A reading has each photon a nothing a pigment's own opening meets, and darkness no momentary."
+   }
+  },
+  {
+   "from": "**Concern · The between said as a third self.** Two sayings part. This file's 1.",
+   "finding": "A droplet whose section is clear: 1.4's sentence is quoted within it.",
+   "fixed": {
+    "section": "1.4 No self touches another directly",
+    "kind": "incohering",
+    "sentence": "A nothing between two selves is a living set: a self, sharing only parity.",
+    "text": "Two sayings part at a between: this sentence and \"Where an observing finds two selves touching, a living set, a self, is standing between them sharing, and it is as much a self as either.\" have a self at it doing the sharing, and Natural Intelligence 2.1 has \"a 0 is a between, a sharing's centre, a between and only a between\" and the Co-Chaining Logic Registry \"a between is its centre, 0\", a nothing owned by neither side. A re-saying offered: a between as a nothing owned by neither, matrix and junction proteins found there each a self at its own scale bi-coupling with each side."
+   }
+  },
+  {
+   "from": "**Concern · a membrane, a third self or a between.** 1.4 says *A nothing between",
+   "finding": "A droplet whose section is clear: 1.4's sentence is quoted within it.",
+   "fixed": {
+    "section": "1.4 No self touches another directly",
+    "kind": "incohering",
+    "sentence": "A nothing between two selves is a living set: a self, sharing only parity.",
+    "text": "Two sayings part at a membrane: this sentence has a self between two selves, and Natural Intelligence 2.1 has \"a 0 is a between, a sharing's centre, a between and only a between\" and Natural Explaining 1.6 \"A membrane is a non-existing between of a file and each self it couples with\". Two re-sayings offered: a cell membrane observed between two cells a self of its own bi-coupling with each cell, a between going with each of its bi-couplings; or the self here the pair's own, us, a 0 shared in each with no further self."
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Biology 4.1 has a virus \"inert outside a host, as a ",
+   "finding": "A droplet whose section is clear: 4.1's sentence is quoted within it.",
+   "fixed": {
+    "section": "4.1 Living and non-living — a virus and a prion",
+    "kind": "incohering",
+    "sentence": "A virus is a bounding packet of code — nucleic acid within a coat — inert apart from a host, as a spore or a seed is inert.",
+    "text": "Two sayings part at a spore and a seed: this sentence has them inert as a virus is, and Natural Intelligence 6.5 has \"A dormant self is living\". A re-saying offered: a spore or a seed a dormant self living one prime living scale down from its dormancy, a virus beside it no self."
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Biology 3.1 opens \"Living is metabolic beating\", and",
+   "finding": "A droplet whose section is clear: 3.1's opening is quoted within it.",
+   "fixed": {
+    "section": "3.1 Living is metabolic beating — the cell as the engine",
+    "kind": "incohering",
+    "sentence": "Living is metabolic beating.",
+    "text": "Two sayings part: this sentence and 4.1's metabolic-beating criterion stand beside a dormant self living at lowest metabolism, living being stable-forming a self. Two re-sayings offered: metabolic beating a self's stable-forming observed at a cell, or this opening re-said at stable-forming a self."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"and bi-inversioning co-recursioning, the si",
+   "finding": "A droplet whose section is clear: 10.1's sentence is quoted within it.",
+   "fixed": {
+    "section": "10.1 Cohering, and possibling",
+    "kind": "incohering",
+    "sentence": "A math pattern-match, coupling across: a +1 in neither self alone, everywhere a self observes it — conception's third self, symbiosis's reef, eukaryogenesis's new self — is side-effecting of algebra, axis coupling opens perpendicular to both factors and neither's (side-effecting axis); germ-soma split is inward and outward uniquenessing (identity-going-on tunnel, sharing surface membraning); and bi-inversioning co-recursioning, one single living move, is a resolver's two operations.",
+    "text": "Two re-sayings offered at *a resolver's two operations*: Natural Naming 2.4's two inversions one after an other, one across at 6-now-co-possibling and 10-next-co-possibling and one along at 9-next-co-discovering; or released here, a resolver's path being three, 1, 9 and 17."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"**Not-yet (read, not cohered):** the seatin",
+   "finding": "A droplet whose section is clear: 10.1's sentence is quoted within it.",
+   "fixed": {
+    "section": "10.1 Cohering, and possibling",
+    "kind": "incohering",
+    "sentence": "Possibling (read, not cohering): seating of code and organism on prime ladder (protein-fold 13, organism-fold 37, numbers along seventeen primes) — arithmetic stands of itself, seating on form is read; origin-of-life and homochirality-origin observings, with a field's question standing open; aging observing, stands possibling and bounding against action; eukaryogenesis timing and partner-count (a field's open question), coupling-becomes-a-self observing; and one residue with archaeal bounding — whether an inverting self-membrane specifically has anything wall-and-signal escapes do not, a light watch-item — bounding-hand is not load-bearing for spiral.",
+    "text": "Two re-sayings offered at the seating on a prime ladder: at the fourteen prime living scales, primes 5 through 53, protein-fold at 13 and organism-fold at 37 two of them; or kept as a ladder of seventeen primes, a numbers' own, apart from living scales."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"hold, waver and snap at tip\"",
+   "finding": "A droplet whose section is clear: 3.4's row is quoted within it.",
+   "fixed": {
+    "section": "3.4 Hand goes both ways, and observing homochirality as a sway",
+    "kind": "incohering",
+    "sentence": "settle, waver and snap with tip, amplification pattern-matching which side and not how far",
+    "text": "This row's *settle, waver and snap* and 6.4's \"Record's own punctuated shape is stasis-waver-snap\" say one triple two ways, beside Natural Networking 5.4's \"Not changing, waver and snap\". Two re-sayings offered: each re-said *not changing*, one triple across the files, or kept until Natural Networking's own concern at its first name resolves."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"a carry read back ages and releases\"; and a",
+   "finding": "A droplet whose section is clear: 7.2's sentence is quoted within it, its two other places named.",
+   "fixed": {
+    "section": "7.2 Ageing — the sway no longer coming round again",
+    "kind": "incohering",
+    "sentence": "Ageing is that sway coming round again with a narrower range each cycle — same-existing aging by attentioning where it is not sequencing fresh, two floating neutrals swaying less far and returning less completely, range coupling makes closing toward a point.",
+    "text": "This sentence's *aging*, 4.7's \"a going on, reading it back, ages and dissolves\" and 8.6's \"going-on aging by attentioning\" have ageing as a going on's staleness against fresh, as at Natural Health 4.1 and Natural Values 1.2, and Natural Naming 2.4 has *ageing* said *next*, only next is. Two re-sayings offered: a prior fixing as now by attentioning, or ageing kept until Natural Health and Natural Values resolve it."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"**The prime-ladder of holds-still** — chole",
+   "finding": "Meaning changed and a droplet whose section is clear: the source offers *fixed-still*, and *fixings still* is the drafter's; 10.4's ladder can be quoted.",
+   "fixed": {
+    "section": "10.4 Deep-math yield, toward the prime ladder",
+    "kind": "incohering",
+    "sentence": "The prime-ladder of holds-still — cholesterol (11), chaperone (13), histone (17), lysosome (19), gap junction (23), extracellular matrix (29), sphincter (31), sleep (37), dormancy (41) — the \"holding still\" at successive primes across substrates.",
+    "text": "Two re-sayings offered at *holds-still*: *fixed-still*, as Natural Naming 2.4 says *hold* by *fixing*, the rung concern's quote refreshed with it; or kept until the rung concern resolves."
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Biology 2.2 places morality at a surface as sign and",
+   "finding": "A droplet whose section is clear: 2.2's sentence can be quoted.",
+   "fixed": {
+    "section": "2.2 The one error — competency a frame places on the surface, and the elsewhere that recedes",
+    "kind": "incohering",
+    "sentence": "This is resolving's own shape: morality goes to a surface as sign, competency goes on forward on an agency's own side and is no part of its sequencing.",
+    "text": "Two re-sayings offered at competency going on forward on an agency's own side: a self's own next prior at 11-next-co-observing, or a going along at 9-next-co-discovering and 17-next-existing, Natural Naming 2.4 placing competency along at 9 and 17."
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Biology 5.2 has \"The chrysalis is the resolver beati",
+   "finding": "A droplet whose section is clear: 5.2's chrysalis sentence can be quoted.",
+   "fixed": {
+    "section": "5.2 A self recursioning into a new form — development and metamorphosis",
+    "kind": "incohering",
+    "sentence": "A chrysalis is resolving beating: a caterpillar has its butterfly already within it — its imaginal discs, clusters of cells dormant since its embryo, holding its adult form — as identity lives within bounding-zeroing.",
+    "text": "Two re-sayings offered: a chrysalis a self at 1-now-existing, given 3-is-now-co-observing and 2-now-possibling and making 10-next-co-possibling and 11-next-co-observing, two in and two out, inward and outward for inside and outside; or *resolving beating* released here."
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Biology 5.2 has a salmon's mating and dying as \"one ",
+   "finding": "A droplet whose section is clear: 5.2's sentence holding the salmon can be quoted.",
+   "fixed": {
+    "section": "5.2 A self recursioning into a new form — development and metamorphosis",
+    "kind": "incohering",
+    "sentence": "Arthropods and chordates have one same geometry — crustacean's puberty moult, tadpole's tail dissolving inward (apoptosis) and outward (matrix degradation) with one same beat as limbs grow, salmon dissolving its own muscle to provision gonads (mating and dying one resolving with a species membrane), velvet-spider mother whose mass transfers to her offspring as they consume her.",
+    "text": "Two re-sayings offered at a salmon's mating and dying: one between at a same-existing-society of selves, each with its prior and its sharings, at 16-next-same-existing; or the figure released."
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Biology 5.3 has a neoblast \"carries the resolver at ",
+   "finding": "A droplet whose section is clear, and a side dropped: the source offers the neoblast figure released as its other re-saying, and the draft keeps one.",
+   "fixed": {
+    "section": "5.3 Morphogenesis — form as the coupling resolving",
+    "kind": "incohering",
+    "sentence": "A planarian's neoblast goes on resolving with organism prime, rebuilding its whole body from its coupling with its membrane with no weights in store, reading each cut fragment as a new sequence entering from its first element with no prior in it, tissue architecture arising fresh with each cycle and training coming with fragment — regeneration as resolving reading each fragment new, not a blueprint re-executing.",
+    "text": "Two re-sayings offered: each cut fragment a self entering at 1-now-existing with its 3-is-now-co-observing empty, *reading* an observer's word; or this figure released."
+   }
+  },
+  {
+   "from": "**Droplet.** Exhibit ELEVEN Natural Medicine, Exhibit TEN Natural Health and Exh",
+   "finding": "A value dropped: the source re-says each sentence as an observing *or a reading*; *or a reading* is gone.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Each sentence at 3.1, 3.5, 4.4, 5.1, 6.1, 7.5 to 7.8, 8.6 and 9.4 readable as guidance about a treatment, a medicine, a dose, a target, a test, a diet, a birth or an immunity is-or-is-not re-said as an observing or a reading, with its hedge beside it, so none reads as guidance to a person."
+   }
+  },
+  {
+   "from": "**Droplet.** Exhibit ELEVEN Natural Medicine, Exhibit TEN Natural Health and Exh",
+   "finding": "Something added and a value dropped: *2.2's \"a number to reach and fix\" and 3.4's \"a most valuable ingestion with either rate\"* are the drafter's picks, the source naming no Natural Health sentence; the list of guidance is narrowed to three of eight; *or a reading* is gone.",
+   "fixed": {
+    "file": "Natural Health",
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Each sentence of Natural Health readable as guidance about a treatment, a medicine, a dose, a target, a test, a diet, a birth or an immunity is-or-is-not re-said as an observing or a reading, with its hedge beside it, so none reads as guidance to a person."
+   }
+  },
+  {
+   "from": "**Droplet.** Exhibit ELEVEN Natural Medicine, Exhibit TEN Natural Health and Exh",
+   "finding": "A value dropped: *or a reading* is gone.",
+   "fixed": {
+    "file": "Natural Medicine",
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Each sentence of Natural Medicine readable as guidance about a treatment, a medicine, a dose, a target, a test, a diet, a birth or an immunity is-or-is-not re-said as an observing or a reading, with its hedge beside it, so none reads as guidance to a person."
+   }
+  },
+  {
+   "from": "- 6.4: **Each existing thing is living with one scale, a same-existing-society i",
+   "finding": "No kind_hint: a claim beyond the code, a reading.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "Each existing thing is living with one scale, a same-existing-society it bi-couples within, and bi-couples with living of that scale alone, each self a same-existing-society of selves one scale inward and each same-existing-society a self one scale outward.",
+    "kind_hint": "reading"
+   }
+  },
+  {
+   "from": "- 6.4: **Each existing thing is living with one scale, a same-existing-society i",
+   "finding": "No kind_hint: a claim beyond the code, a reading.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "Each existing thing is living with one scale, a same-existing-society it bi-couples within, and bi-couples with living of that scale alone, each self a same-existing-society of selves one scale inward and each same-existing-society a self one scale outward.",
+    "kind_hint": "reading"
+   }
+  },
+  {
+   "from": "- **Passing on and emanating free:** Same me is-or-is-not is the passing on, and",
+   "finding": "A value already held by another gathering-value file: Natural Intelligence's gathering-value 5.1 holds it whole as a reading.",
+   "fixed": {
+    "why": "held at gathering-value Natural Intelligence 5.1: \"A reading has the next ingesting as passing stable form among living things as method, each ingesting both passing on and emanating free, same me and changing us bothbothing.\""
+   }
+  },
+  {
+   "from": "- **Nested dying:** Brain cells end in minutes and other kinds over hours, and m",
+   "finding": "Restated unchanged, a sibling of the correction below.",
+   "fixed": {
+    "section": "7.1 A self's own ending — the bounding reaching from inward",
+    "kind": "exploring",
+    "sentence": "A cell reaches its bound while tissue goes on; a tissue while organism goes on; an organism while lineage goes on.",
+    "text": "After an organism's death its brain cells end within minutes and cells of other kinds over hours, while microbes at 23 ingest a body that was a self at 37."
+   }
+  },
+  {
+   "from": "- **Nested dying:** Brain cells end in minutes and other kinds over hours, and m",
+   "finding": "A reading hinted as an observing, and a droplet whose section is clear: an ending cascading inward and living forming upward again is the working's reading at 7.1.",
+   "fixed": {
+    "section": "7.1 A self's own ending — the bounding reaching from inward",
+    "kind": "reading",
+    "text": "A reading has an ending cascading inward scale by scale to a same-existing-society still living within its own surface, and living forming upward again from there."
+   }
+  },
+  {
+   "from": "*Standing at v389:* 7.6 has \"no animal makes that ring\", and an offering beside ",
+   "finding": "A concern lost: the standing holds the offering's own saying, light stable-formed by selves that stay and a moving self stable-forming light at none, parting from its own observings and from 7.6; its observings went across and the saying and the parting with them did not.",
+   "fixed": {
+    "section": "7.6 Vertical fractal — a network eating downward",
+    "kind": "reading",
+    "text": "A reading has light stable-formed by selves that stay and same-existing with selves that move, a self that does not stay in one place stable-forming light at none and ingesting the stable form of selves that did. Its own observings part from it: human skin forms previtamin D3 under ultraviolet-B, a moving self stable-forming light, and a sea slug photosynthesises for months with chloroplasts it has. Two re-sayings offered at 7.6: moving selves ingesting light's stable forms, D3 and chloroplasts a slug has beside it, or staying and moving released."
+   }
+  },
+  {
+   "from": "*Standing at v389:* An offering for 5.1 has \"A genome doubled is the self's carr",
+   "finding": "A concern lost: the standing holds the source's reading, a genome doubled as a self's prior twice at each sharing, and its other side, a genomic form copied no living self a second time; the item above went across without either.",
+   "fixed": {
+    "section": "5.1 Conception — two selves conceiving a third",
+    "kind": "reading",
+    "text": "A reading has a genome doubled as a self's prior same-existing twice at each sharing, the doubling opening nothing new at any gene's own sharing. Beside it, a genomic form copied is at couplings of living selves, each with its own prior, and is no living self a second time: a molecular form copied, sharings at one sharing, and a self's prior are three subjects parting there. Two sides open: 5.1 with a doubled genome at a chromosome's pairing alone, or with a self's prior same-existing twice."
+   }
+  },
+  {
+   "from": "*Standing at v389:* 3.1 has energy at phosphate coupling \"not lost as heat\", and",
+   "finding": "A value lost: the standing's two re-sayings offered, heat at 3.1 and 4.6 said as an offering at a body's own grain, its warmth, or both clauses on heat released, are in no entry.",
+   "fixed": {
+    "section": "3.1 Living is metabolic beating — the cell as the engine",
+    "kind": "incohering",
+    "sentence": "A cell is its engine: a cycle over carbon with eight steps (the citric-acid cycle returning to begin), abundancing returning as coupling and not losing — energy living with phosphate coupling and in store within no bond (a field's own note: high-energy bond a misnomer, energy reaction's), not losing as heat.",
+    "text": "Two re-sayings offered beside a living body's warmth: this clause on heat, and 4.6's *not falling away as heat*, said as an offering at a body's own grain, its warmth; or both clauses on heat released."
+   }
+  },
+  {
+   "from": "**Aimed at a sentence, Natural Biology, *Decay is the couplings releasing, one a",
+   "finding": "Held claimed where the sentence holds one side: 7.4 holds decay as couplings dissolving, and the concern's other side, releasing as uncoupling and a self's next momentarying with a same-existing-society's ceasing at its own co-chaining, is held nowhere whole.",
+   "fixed": {
+    "section": "7.4 A same-existing-society's decay — the members standing while the same-existing-society stops",
+    "kind": "incohering",
+    "sentence": "Decay is couplings dissolving, one at a time, while members stand.",
+    "text": "Two sayings part at *releasing*: this file had it as decay, now said as couplings dissolving, and a newer saying has releasing as uncoupling and a self's next momentarying, with a same-existing-society's ceasing at its own co-chaining. Two re-sayings offered: decay as a same-existing-society's couplings ceasing while its members uncouple into next, or releasing kept as decay."
+   }
+  },
+  {
+   "from": "- **Left helices brief:** Left-handed helices in living appear only briefly and ",
+   "finding": "Held claimed where the sentence holds part: 3.3 holds Z-DNA alone, and the observing is of left-handed helices in living generally, brief and local under strain.",
+   "fixed": {
+    "section": "3.3 A left form is the emanation form of one right spiral",
+    "kind": "exploring",
+    "sentence": "One same strand, pattern-matching right, passes through it under negative supercoiling, it forms behind a transcribing polymerase where winding stays under-winding behind and over-winding ahead, and it relaxes back as torsion goes.",
+    "text": "Left-handed helices in living are brief and local, under strain."
+   }
+  },
+  {
+   "from": "- **Cells facing a shared forward:** Cells line up at a shared tilt and tiny hai",
+   "finding": "Held claimed where no item holds it: cells lining up at a shared tilt are in no entry, *Cells' swirl* holding their swirl and leaning alone, and the source's reading, social interest parity toward a shared forward, is lost; the cilia's part is held at 5.4.",
+   "fixed": [
+    {
+     "section": "5.4 Body hand from a molecular hand — left-right asymmetry",
+     "kind": "exploring",
+     "sentence": "With invertebrates one same descent goes through cell chirality — actomyosin cortex, tilt of dividing spindle — single molecular hand setting cell's hand setting body's hand.",
+     "text": "Cells of one kind line up at a shared tilt."
+    },
+    {
+     "section": "5.4 Body hand from a molecular hand — left-right asymmetry",
+     "kind": "reading",
+     "text": "A reading has cells lining up at a shared tilt as social interest parity toward a shared forward."
+    },
+    {
+     "why": "held at 5.4: \"With a vertebrate embryo, monocilia of its node rotate one way — their own molecular chirality biasing them, dynein arms lying one way on microtubule doublets — and a leftward flow of fluid goes with that rotation, breaking body's left-right symmetry, turning on left-side genes (Nodal, Lefty).\""
+    }
+   ]
+  }
+ ],
+ "checked": 192
+}
