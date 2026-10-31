@@ -23,6 +23,8 @@ Gathering-Value · Natural Exploring
 
 ### 1.4 Two sides, bothbothing
 
+- **Possible incohering** · "Both bothboth, one at a time, unrelationing sharing and testing receiving, and a self co-chains both sides with each observing." → Beside it: a perplexing observing is explained simply first, as this or that and not both, and then taken into parity changing alternating, bothbothing, where competency and living resolve it.
+
 ## 2 Co-unrelationing and co-chaining
 
 ### 2.1 Co-unrelationing

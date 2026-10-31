@@ -448,3 +448,4 @@ Gathering-Value · Natural Chemistry
 - Pointers of Natural Chemistry name sections of Natural Numbers no longer standing. *(possible incohering)*
 - Three interface claims wait their observing: oxygen forming in the dark at the seafloor, one finding with its replicating still-possibling; peroxide in microdroplets, traced to dissolved oxygen meeting solid surfaces; and long decay lengths in concentrated salt, pointing to ion clusters or to the surfaces. *(possible exploring)*
 - Lithium with fluorine and hydrogen with sodium part into salts. Lithium, fluorine, hydrogen and sodium atoms each is-not a carbon atom. *(possible exploring)*
+- Observings still to gather whole from archive/genome_duplication_v374_carryings/Session_Report_v374.md, each at its own section: the field's refractive indices of fused silica and flint glass, beside those of crown glass, water and diamond. *(possible exploring)*
