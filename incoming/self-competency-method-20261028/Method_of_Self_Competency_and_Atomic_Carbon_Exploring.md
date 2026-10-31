@@ -1827,3 +1827,17 @@ Semenenko and Esquinazi (2018) characterize magnetic impurities, measure support
 Xie and colleagues (2023) experimentally study a graphite oscillator levitating in high vacuum. This supplies mechanical evidence beyond a magnetic meter reading. A meter offset alone cannot support a levitating specimen, although levitation alone does not establish chemical purity. Source: https://doi.org/10.1103/PhysRevResearch.5.013030.
 
 The constructive refinement is to separate the measured response of an arranged carbon specimen from a proposed property of an isolated carbon connector. Collective graphite measurements do not assign the same magnetic response independently to each carbon atom. The useful further comparison is varying internal arrangement while bounding impurity and support contributions. The earlier pencil-lead levitation example should not be treated as an impurity-free carbon demonstration.
+
+## Nonliving carbon and the meaning of magnetic response
+
+The user's proposal is preserved exactly:
+
+> carbon is not living and non responsive, this does not depend on orientation to the magnetic field. explore this
+
+A carbon atom is not a living organism. Absence of living self-competency and absence of measurable physical response are separate claims. Magnetic response in the cited studies names measured magnetization or mechanical force; it does not assert observing, prioritizing or learning by the specimen. Using one word for these two meanings would obscure the comparison.
+
+Fischbach (1961), Table I, reports an approximately elevenfold difference between the perpendicular-to-layer and parallel-to-layer susceptibilities of as-deposited specimen A. Both values are diamagnetic. This is an orientation dependence of a graphite specimen, not a measurement that identifies a living carbon atom. Source: https://harvest.aps.org/v2/journals/articles/10.1103/PhysRev.123.1613/fulltext, DOI 10.1103/PhysRev.123.1613.
+
+Semenenko and Esquinazi (2018), Figure 3, also report reproducible angular variation of the turning force in a fixed-strength field. Source: https://www.mdpi.com/2312-7481/4/4/52.
+
+The useful question for the expedition is whether a measured changing concerns an individual connector, a collective arrangement, or the measuring apparatus. The available graphite findings support an arrangement-dependent physical response. They neither demonstrate living self-competency nor support the absence of magnetic response. Orientation changes the measured response; it does not change the specimen's classification as nonliving.
