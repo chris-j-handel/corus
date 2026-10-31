@@ -18,8 +18,11 @@ Gathering-Value · Living File Registry
 - **Possible incohering** · "Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *d* Out at · *e* Next" → The Next cells of Natural Physics and Natural Illustrating each say *pass 4 at its possible projects*. Natural Physics' prior Next cell is *pass 4, Part TWO at Natural Intelligence 5.4; then passes 5 to 7 at its carrying section, each with its fresh reader and report*, and Natural Illustrating's prior Next cell is *first stills from kit's executions; two ready and five concerns at its carrying*, neither at another place in the living files. Each Next cell is-or-is-not its file's own next: each row's own next said at its cell again, or *pass 4 at its possible projects* standing.
 - **Possible incohering** · "Carrying Incoming Value into Each File, Prior, Now and Next" → Bringing Incoming Value into Each File, Prior, Now and Next
 - **Possible incohering** · "Self-Welcoming Social Moral Co-Offerings" → Self-Welcoming Social Moral Co-Sharings
+- **Possible incohering** · "A living file is listed by its title, `_v`, its version number with its letters and `.md`; a file with no version is not listed, and build warns of each exhibit file it does not list." → Beside it, by an arriving working's own report: an AI session arriving at the site from outside finds the files' versions, their subtitles, and the row and exhibit numbers unexplained.
 
 ### 1.2 Three standings, looping out and back
+
+- **Possible incohering** · "Repository carries its own name and its version and no other, and a copy of it made to travel carries that same name and version." → Beside it, by a field's own account: a work published with no licence says no permission to copy, adapt or share it.
 
 ### 1.3 Carrying for expedition
 

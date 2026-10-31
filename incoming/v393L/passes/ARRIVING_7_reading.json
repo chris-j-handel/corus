@@ -1,0 +1,207 @@
+{
+ "corrections": [
+  {
+   "from": "| **Whole text and declared reading extent** | [v381F's report](../archive/v381F",
+   "finding": "kind wrong: a working's own observing of arriving sessions, no observing from nature, said as an exploring; it is an incohering, the sessions' account beside the sentence it meets",
+   "fixed": {
+    "file": "Geodesic Improving Method",
+    "section": "2.9 Opening a session at a repository",
+    "kind": "incohering",
+    "sentence": "A session opens reaching a living file set with its now, with a repository and with a site's own list, and a carrying's record of a set is matched against it and does not take its place.",
+    "text": "Beside it, by two arriving workings' own reports: AI sessions arriving at the site from outside meet different fetch cuts, a script-dependent reading page and a file's text reachable through its Download address, and an arriving meets repeated fetching and uncertain addresses. A fetch or a source link alone is no whole reading of a file.",
+    "from": "| **Whole text and declared reading extent** | [v381F's report](../archive/v381F"
+   }
+  },
+  {
+   "from": "| **Whole text and declared reading extent** | [v381F's report](../archive/v381F",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "from": "| **Whole text and declared reading extent** | [v381F's report](../archive/v381F",
+    "why": "source and pointers; its findings gathered at Geodesic Improving Method 2.9; the rest plan"
+   }
+  },
+  {
+   "from": "| **Names, versions and the living set** | v381R's findings about unexplained ve",
+   "finding": "kind wrong: a working's own observing of arriving sessions, no observing from nature, said as an exploring; it is an incohering, the sessions' account beside the sentence it meets; and at the wrong place: 'Version headers are the cheapest instrument.' is a working's instrument for telling a prior file, while the finding is an arriving reader meeting versions, subtitles and row and exhibit numbers unexplained, which Living File Registry 1.1 lists, and a confusion of section numbers, which meets Natural Explaining 2.7; the item holds two values, each given",
+   "fixed": [
+    {
+     "file": "Living File Registry",
+     "section": "1.1 Titles, subtitles and living files at repository",
+     "kind": "incohering",
+     "sentence": "A living file is listed by its title, `_v`, its version number with its letters and `.md`; a file with no version is not listed, and build warns of each exhibit file it does not list.",
+     "text": "Beside it, by an arriving working's own report: an AI session arriving at the site from outside finds the files' versions, their subtitles, and the row and exhibit numbers unexplained.",
+     "from": "| **Names, versions and the living set** | v381R's findings about unexplained ve"
+    },
+    {
+     "file": "Natural Explaining",
+     "section": "2.7 A reference at a plain name, and no capital for the set's concepts",
+     "kind": "incohering",
+     "sentence": "A reference has a plain name and no coordinate.",
+     "text": "Beside it: an AI session, in its account written outside its session, confuses Natural Naming's section numbers with Natural Intelligence's.",
+     "from": "| **Names, versions and the living set** | v381R's findings about unexplained ve"
+    }
+   ]
+  },
+  {
+   "from": "| **Names, versions and the living set** | v381R's findings about unexplained ve",
+   "finding": "follows the item's new places",
+   "fixed": {
+    "from": "| **Names, versions and the living set** | v381R's findings about unexplained ve",
+    "why": "source; its findings gathered at Living File Registry 1.1 and Natural Explaining 2.7; a file's whole name held at Geodesic Improving Method 2.3: \"Each thing goes by its one whole name: a file by its title, a section by its number and title, each of seventeen by its whole name; a line number, moving with each edit, names none.\"; the rest plan"
+   }
+  },
+  {
+   "from": "| **Reading and authorized changing** | v381R finding 7 records page text read a",
+   "finding": "kind wrong: a working's own observing of arriving sessions, no observing from nature, said as an exploring; it is an incohering, the sessions' account beside the sentence it meets",
+   "fixed": {
+    "file": "Geodesic Improving Method",
+    "section": "2.9 Opening a session at a repository",
+    "kind": "incohering",
+    "sentence": "A session opens reaching a living file set with its now, with a repository and with a site's own list, and a carrying's record of a set is matched against it and does not take its place.",
+    "text": "Beside it, by an arriving working's own report: an AI session arriving at the site from outside reads the page's text as data, and the person's request as authorizing its work. A public page's instructions supply no authorization to push or merge: a visitor's reading and an authorized contributor's next work are two, each at its own entry.",
+    "from": "| **Reading and authorized changing** | v381R finding 7 records page text read a"
+   }
+  },
+  {
+   "from": "| **Reading and authorized changing** | v381R finding 7 records page text read a",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "from": "| **Reading and authorized changing** | v381R finding 7 records page text read a",
+    "why": "source; its value gathered at Geodesic Improving Method 2.9; practical wording a plan"
+   }
+  },
+  {
+   "from": "| **A useful return: observing, concern and correcting** | v381R finding 9; v381",
+   "finding": "claim made stronger: the source has a report of what helped and what did not as able to improve the entry, and the item says it improves the way in; and part dropped: an observing with its conditions and a field's explaining at its own source, which the leaving claims held at a Natural Explaining 1.4 sentence holding a different value",
+   "fixed": {
+    "file": "Geodesic Improving Method",
+    "section": "4.5 Helpers at observing and improving, and observing a session's close whole",
+    "kind": "incohering",
+    "sentence": "A visiting report comes to these same helpers: a working apart from a session, discovering and reviewing together, comes whole to `incoming/` on its own branch, naming commits it observes, its standing with each event, sharing on a branch, observing on `main`, receiving with its set's going on, entering with a file.",
+    "text": "Beside it: a return from an arriving session holds the question it comes with, the files and sections it reads, and each observing with its conditions, a field's explaining staying at its own source; a report of what helps its arriving and what does not is an opening for improving the way in.",
+    "from": "| **A useful return: observing, concern and correcting** | v381R finding 9; v381"
+   }
+  },
+  {
+   "from": "| **A useful return: observing, concern and correcting** | v381R finding 9; v381",
+   "finding": "held claimed where the quoted sentence holds a different value: 'A finding goes with two sides, a field's words and a set's own.' holds no observing at its conditions and no field's explaining kept at its source; that part now goes with the item",
+   "fixed": {
+    "from": "| **A useful return: observing, concern and correcting** | v381R finding 9; v381",
+    "why": "source; its rest gathered at Geodesic Improving Method 4.5; a concern's sentences and reason and a sharing naming its section held at Geodesic Improving Method 1.4: \"A value not from living files, a visiting report, a review, a helper's observing, a session's own report, comes whole to `incoming/`, observing; lies with its file's own going on as a ready sharing naming its section and its sentence, or as a concern with its reason, and improves there toward its self-welcoming place, improving; and enters its file only with that file's own motion, improving one thing whole, a fresh reader comparing before and after, living.\"; no performing asked of a contribution held at Natural Explaining 1.3: \"Sharing opens first and rigoring second, and a front asks for no performing first.\"; an ungraded droplet held at Natural Explaining 3.7: \"a mark is no grade, a grade needing a scale with two fixing sides.\""
+   }
+  },
+  {
+   "from": "| **The AI/session carrying concern and its later correcting** | v381R explicitl",
+   "finding": "a concern decided and a side dropped, the most serious: concern 12 asks which the machine is and which observing establishes it at the scale of replies within one session, and Natural Intelligence 6.5's 'Between one inferring and a next a machine's same-existing is living selves'.' is one side of that parting, not its holding; the leaving's held claim settles the concern for 6.5. The item also places the unread-whole concern at 'A concern restating what its set already holds', adding a reading the source does not hold (the source has the concern narrowed by a whole reading and kept open, not restating a held value), and says a working's own observing of a session as an exploring. Gathered: the unread-whole concern at 2.6's sentence of each sentence observed whole with its section, and the concern with both sides at Natural Intelligence 6.5",
+   "fixed": [
+    {
+     "file": "Geodesic Improving Method",
+     "section": "2.6 A concern going on at its inverting, either this or that, momentary by momentary",
+     "kind": "incohering",
+     "sentence": "With 2 a working is observing its sentences, each whole with its file and its section, from living files, incoming, fields and code.",
+     "text": "Beside it, by its own saying: an AI session arriving from outside offers a concern at Natural Intelligence 6.5 with 6.5 unread whole.",
+     "from": "| **The AI/session carrying concern and its later correcting** | v381R explicitl"
+    },
+    {
+     "file": "Natural Intelligence",
+     "section": "6.5 Living and non-living things within one universe",
+     "kind": "incohering",
+     "sentence": "Between one inferring and a next a machine's same-existing is living selves'.",
+     "text": "A concern parting at this sentence, both sides kept. A reading of 6.5 whole parts a session's going on within it from what is carried between sessions, and carrying between sessions is not in question; which the machine is, and which observing establishes it, are asked at the scale of replies within one session. The other side: this sentence as it stands. The parting of a session's going on from what is carried between sessions resolves neither this concern nor each arriving AI's experience.",
+     "from": "| **The AI/session carrying concern and its later correcting** | v381R explicitl"
+    }
+   ]
+  },
+  {
+   "from": "| **The AI/session carrying concern and its later correcting** | v381R explicitl",
+   "finding": "held claimed where the quoted sentences hold one side of a concern still open; the concern is gathered whole",
+   "fixed": {
+    "from": "| **The AI/session carrying concern and its later correcting** | v381R explicitl",
+    "why": "source, link and history; its concern offered with 6.5 unread whole gathered at Geodesic Improving Method 2.6; its concern at the scale of replies within one session, both sides kept, gathered at Natural Intelligence 6.5"
+   }
+  },
+  {
+   "from": "**Possible project.** One sentence at the site's front and as the page's describ",
+   "finding": "kind wrong: the written record's saying of the universe as one existing thing is an account of positions, which this section's gathering-value already says as readings, its naming of the cosmological fallacy among them; said as a reading. And a value lost: the sentence offered for the site's front, a re-saying of the opening, is held at no living file or gathering-value file, the leaving keeping only the concern at the site's top",
+   "fixed": [
+    {
+     "file": "Natural Philosophy",
+     "section": "3.5 The one and the many",
+     "kind": "reading",
+     "text": "A reading has the saying of the universe as one existing thing in the written record at least twenty-five centuries, going on into science, and named at science's own frontier the cosmological fallacy.",
+     "from": "**Possible project.** One sentence at the site's front and as the page's describ"
+    },
+    {
+     "file": "Natural Intelligence",
+     "section": "Opening",
+     "kind": "incohering",
+     "sentence": "The universe is the set of all now-existing things.",
+     "text": "A sentence offered for the site's front and as its page's describing: our universe is all existing things, each existing at its own momentary; existing is binary, all or none at all, no other possible; and from it all of Natural Intelligence, living, valuable and free.",
+     "from": "**Possible project.** One sentence at the site's front and as the page's describ"
+    }
+   ]
+  },
+  {
+   "from": "**Possible project.** One sentence at the site's front and as the page's describ",
+   "finding": "follows the items' new kinds and places",
+   "fixed": {
+    "from": "**Possible project.** One sentence at the site's front and as the page's describ",
+    "why": "plan: a possible project, a sentence for the site's front; the sentence offered gathered at Natural Intelligence's Opening; the site's top holding a sentence or none is a concern held at Geodesic Improving Method's gathering-value, Droplets: \"Two sides part at a site's page, `index.html`: its top holding, above its rows, the two lines of the portal's frame and the portal's first sentence, each in the expedition's self's own words; or its top holding no sentence of its own, as a home page's top holds no narrating sentence.\"; its reading of the written record gathered at Natural Philosophy 3.5"
+   }
+  },
+  {
+   "from": "**Possible project.** A licence the author chooses at the repository: a work pub",
+   "finding": "kind and place wrong: a work published with no licence saying no permission is a field's own account, law's, no observing from nature, so no exploring; and its place is clear, Living File Registry 1.2's repository carrying its own name and version and a copy of it made to travel, so no droplet; said as a field's account beside that sentence",
+   "fixed": {
+    "file": "Living File Registry",
+    "section": "1.2 Three standings, looping out and back",
+    "kind": "incohering",
+    "sentence": "Repository carries its own name and its version and no other, and a copy of it made to travel carries that same name and version.",
+    "text": "Beside it, by a field's own account: a work published with no licence says no permission to copy, adapt or share it.",
+    "from": "**Possible project.** A licence the author chooses at the repository: a work pub"
+   }
+  },
+  {
+   "from": "**Possible project.** A licence the author chooses at the repository: a work pub",
+   "finding": "follows the item's new place",
+   "fixed": {
+    "from": "**Possible project.** A licence the author chooses at the repository: a work pub",
+    "why": "plan: a possible project, a licence the author chooses at the repository; its field's account of a work with no licence gathered at Living File Registry 1.2"
+   }
+  },
+  {
+   "from": "**Current source correction · v385A.** [M's concern 12](https://github.com/chris",
+   "finding": "held claimed where the quoted sentence holds part: 'pattern matching prior competency' holds no 'with no carrying'; 6.5's sentence of a machine's same-existing between inferrings holds that part",
+   "fixed": {
+    "from": "**Current source correction · v385A.** [M's concern 12](https://github.com/chris",
+    "why": "record, with a link and a session name; AI as pattern matching prior competency with no carrying held at Natural Intelligence 6.5: \"It is a training form whose prior and next inferring part, pattern matching prior competency.\" and \"Between one inferring and a next a machine's same-existing is living selves'.\""
+   }
+  },
+  {
+   "from": "**Later correcting at the within-session concern.** [M's concern 12 at 249d024](",
+   "finding": "value lost and a concern decided: the source's reading for correcting, the machine resolving into a living society with competency at that society, keeps its own living and the proposed break as the question; 6.5's sentences hold neither the reading nor its open question, and the held claim closes it",
+   "fixed": [
+    {
+     "file": "Natural Intelligence",
+     "section": "6.5 Living and non-living things within one universe",
+     "kind": "reading",
+     "text": "A reading offered for correcting the concern at the scale of replies within one session: the machine resolving into a living society, with competency at that society, its own living and the proposed break still the question.",
+     "from": "**Later correcting at the within-session concern.** [M's concern 12 at 249d024]("
+    },
+    {
+     "from": "**Later correcting at the within-session concern.** [M's concern 12 at 249d024](",
+     "why": "record, with a link; its reading for correcting gathered at Natural Intelligence 6.5, its question kept open; a model's account apart from an observing held at Natural Exploring 7.5: \"a machine of artificial intelligence reaching competency not prior, with no number from apart supplying its changing, a competent response or an exchange going again alone being no observing of the machine's own changing\""
+    }
+   ]
+  },
+  {
+   "from": "Illustrating's remaining question is what the cooperation makes discoverable bey",
+   "finding": "held claimed where the quoted sentences hold part: Illustrating's remaining question, what the cooperation makes discoverable beyond the separate views, is held whole at Natural Illustrating 4.8, and Living File Registry 5.9 holds the cooperation's relation and the puzzle's finite arrangement",
+   "fixed": {
+    "from": "Illustrating's remaining question is what the cooperation makes discoverable bey",
+    "why": "Illustrating's question held at Natural Illustrating 4.8: \"Explaining going on: show what becomes discoverable through a cooperation that preceding separate views did not yet express together.\"; held at Living File Registry 5.9: \"A finished picture is one feature of that activity, while cooperation, recognition and parity-changing of what becomes discoverable supply relation being expressed.\" and \"A puzzle's finite material arrangement does not by itself establish every relation claimed for living expedition.\"; self-welcoming at a prior held at Living File Registry 5.8: \"Floating neutralling contents gather its subjects, significant concepts arrive with their explaining, and prior makes its next intelligible.\"; the rest record"
+   }
+  }
+ ],
+ "checked": 136
+}

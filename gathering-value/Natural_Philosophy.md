@@ -48,6 +48,7 @@ Gathering-Value · Natural Philosophy
 - **A reading** · One position holds all things one. One holds being finite and spherical, with nothing lacking anywhere in it. One holds the cosmos a living being, generated and unique, containing every other living being. One holds the cosmos unique and complete, nothing spatial, empty or temporal standing outside it. One holds a single concrete object fundamental, with no second at that level.
 - **A reading** · One position holds bodies and void the only things there are, all of them together boundless. One holds the each-form, reality taken one by one, on a par with the all-form, reality taken as a single whole, in logic and in experience alike. One holds that no whole, bounded or unbounded, is what the world is in itself.
 - **A reading** · One position names an error the cosmological fallacy: carrying a way of explaining built for a portion of the universe over to the universe entire.
+- **A reading** · A reading has the saying of the universe as one existing thing in the written record at least twenty-five centuries, going on into science, and named at science's own frontier the cosmological fallacy.
 
 ### 3.6 Is and ought
 
