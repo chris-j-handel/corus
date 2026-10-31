@@ -1,0 +1,18 @@
+{
+ "fix": [
+  {
+   "old": "Measurement problem, seating with its pair (Hard Problem Registry 9, Resolving the Hard Problem Registry) and going on here.",
+   "new": "Measurement problem, a hard problem seating with its resolving and going on here.",
+   "finding": "With the parenthesis gone, 'seating with its pair' opens no pair: the pair is the hard problem and its resolving (and 'Hard Problem Registry 9' is stale, the measurement problem standing at its 8 now). Its plain meaning goes in place of the coordinate, with no file named."
+  },
+  {
+   "old": "(A k = 1 bound sets down an earlier fit of this centerline to specific numbers 23-and-55 — 23 and 55 differ by 32, k = 16, a size within a neutralling, they are not facing; see Fission and fusion, point 5. One-coupling structure stands; number-fit dissolves.)",
+   "new": "(A k = 1 bound sets down a fit of this centerline to specific numbers 23-and-55 — 23 and 55 differ by 32, k = 16, a size within a neutralling, they are not facing, 4.3. One-coupling structure stands; number-fit dissolves.)",
+   "finding": "'earlier' leaves rightly, and what remains is true now. But the pointer is to this file's own 4.3, point 5, where the k = 1 bound is said ('two numbers are facing across a neutralling only when they differ by two'); 'they are not facing' rests on that rule, so this sentence's co-chaining needs the pointer. It stays, in the file's own form ('Earnshaw's theorem ..., 3.5')."
+  }
+ ],
+ "drop": [],
+ "add": [],
+ "requote_fix": [],
+ "checked": 26
+}

@@ -1,4 +1,4 @@
-Exhibit TWENTY-TWO Resolving the Hard Problem Registry v391
+Exhibit TWENTY-TWO Resolving the Hard Problem Registry v393L
 
 &nbsp;
 
@@ -799,7 +799,7 @@ Nothing stands between these three and no resolving is partial.
 
 **And a settling is real within its own register.** Where each route ends with a proof, an observing settles. A settling is a sequence a field hands whole, and a resolving settles nothing still and has no free term a settling comes to. These two stand side by side and couple by no momentary, an observing of that entry and not a reason to exclude it.
 
-**And four observings stand as settlings beside their resolvings**, a proof a self observes two ways, its route ending with a fixing side and its knowing with its momentary on a momentarying side, with thirteen through sixteen of a co-sequencing closing this exhibit. Three have a location: a proof register with 3.22, a measurement register with 12.1, and one still open with 7.12, where instruments themselves are a live dispute. [nye: its fourth is with its closing, its location with no entry; at this file's v344 momentary each entry of Hard Problem Registry stood in deployment and none of seventy-seven observings had a settling at its Persistence line, so its fourth's location stands with no entry still, locating open toward a next winding.]
+**And four observings stand as settlings beside their resolvings**, a proof a self observes two ways, its route ending with a fixing side and its knowing with its momentary on a momentarying side, with thirteen through sixteen of a co-sequencing closing this exhibit. Three have a location: a proof register with 3.22, a measurement register with 12.1, and one still open with 7.12, where instruments themselves are a live dispute. [nye: its fourth is with its closing, its location with no entry, locating open toward a next winding.]
 
 **And a self observes a settling with an entry's Persistence and not with its Reach.** Where Persistence has *settled*, *proved*, or *nothing within the conditions*, each route ends and an observing settles. Reach parts two kinds of settling, and neither settles by it: one reach holds its two as one same, and a relation is with it; an other holds them apart, and a proof shows a relation not with it; and both settle.
 
@@ -2320,7 +2320,7 @@ Doublings, each with its own shape. **A naming relocating under pressure**: a tw
 
 **With 11-next-co-observing.** Competency floats, a middle no observing enters, and each limit that binds binds a side: computational limits bind computations, a physical thesis of incoming number 168 binds realizings, learning-theoretic results bind seatings fixing ahead. A limit fixing of a middle as one magnitude fixes a floating of no size to a number, and a substrate itself does not state one statement, which is its own showing: components exist with their own observings, and a middle goes on floating between them.
 
-*Released at Hard Problem Registry at v342: no canonical formulation stands and no account is defended, an entry's own record having been its only reference and its formulations plural against a first condition prior; its text stands whole at an appendix of v342 session at Hard Problem Registry, its number retired and not reused. Observing here, that no pair stands to be observed from, pattern-matched its release before Hard Problem Registry made it, and stands.*
+*No canonical formulation stands and no account is defended, its formulations plural against a first condition prior; observing here, that no pair stands to be observed from, stands.*
 
 &nbsp;
 
@@ -3573,7 +3573,7 @@ Doublings, each with its own shape. **A naming relocating under pressure**: a tw
 
 **And a silence three share is a pattern-matching each self can do.** Take three literatures, each with its own life and its own record of measuring, and pattern-match for a citation between them, for a second position a side defends with any of three, and for a twin with any one. Three absences together is three reversals with one observing; one absence is a field early with its own between.
 
-*Released at Hard Problem Registry at v342: no field poses its problem and no account is defended at it, entry's own Statement and Own record having been its only reference; its text stands whole at the appendix of the v342 session at Hard Problem Registry, its number retired and not reused. Pattern-matching here rests on a three-reversal form and on no field, and stands as a method's own observing, with its closing.*
+*No field poses its problem and no account is defended at it. Pattern-matching here rests on a three-reversal form and on no field, and stands as a method's own observing, with its closing.*
 
 &nbsp;
 

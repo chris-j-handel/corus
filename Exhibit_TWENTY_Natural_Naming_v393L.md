@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v392
+Exhibit TWENTY Natural Naming v393L
 
 # Natural Naming
 
@@ -311,7 +311,7 @@ Each entry: **Dissolved** · *a* Said by
 - *sign*, *signs*
   - *a* *parity*: one inversioning or none between a self and an other, now; changing, is or is not, is geodesic routing discovering on a surface; *+* and *−* a sharing's parity, and *0* a between, with 14 parities parting and with 12 prior and now agreeing; *the sign* with two betweens, 0 or ±, same or not same, is that parity's 0 or ± and no name of its own
 - *a sign arriving*, *arriving sign*, *arrivings* at a sharing
-  - *a* *a parity*, a sharing with its parity, a self observing it with 2-now-possibling; *arriving* dissolved at v391: a self *observing*, and each existing thing *discovering* its next existing
+  - *a* *a parity*, a sharing with its parity, a self observing it with 2-now-possibling; *arriving* dissolves: a self *observing*, and each existing thing *discovering* its next existing
 - *surplus*, *surplusing*
   - *a* *abundancing*: 12-next-co-same-existing, each sharing's changing, is or is not
 - *met*, *meet*, *meeting*
@@ -321,7 +321,7 @@ Each entry: **Dissolved** · *a* Said by
   - *a* *a between*: an empty centre of parity, each self's parity its own, a between of along and across; a between of self and other, a nothing, no location and no existing thing; for an instrument, *a ledger*
 - *key* · *a* *sharing*
 - *second sign*, *ages*, *its own bound* and *a bound of three or four* at a prior same-existing; *positive competency* and *competency one* for second sign
-  - *a* dissolved with an old code: prior is sharings, each of one parity, and a changing is or is not
+  - *a* dissolved: prior is sharings, each of one parity, and a changing is or is not
 - *neighbour*
   - *a* *a self sharing to*, *a self it is observing*, with its 2, 6, 10 or 14 across; *a self releasing to*, *a self releasing from*, with its 9 or 17 along
 - *mate*, *mates*, of files beside a living file
@@ -417,7 +417,7 @@ Each entry: Sense of *turn* · *a* Said by
 - **turned into one, a field's root** · *a* a field's etymology, as it is
 - **a plain verb or idiom** · *a* a plain verb a sentence means
 
-**Scale has fractal sense only**, and a measuring scale dissolves with method momentarying. **Rank words**, smallest, largest, highest, top, bottom and level, lay a first scale over one fractal method, parting from it with method momentarying, and hold whole with a field's own measuring; a field's medal or ranking holds whole with its own result. Next foundation words of one sense each are *bound*, *land*, *open*, *carry* and *measure*, each a word this sentence mentions: *land* as a coming to rest and *measure* as a standard dissolve, *carry* dissolves at v391, said *same-existing*, *going on* or *has*, *bound* as a prior same-existing dissolves with an old code and holds as a self-bounding, and each is left one sense by its dissolving.
+**Scale has fractal sense only**, and a measuring scale dissolves with method momentarying. **Rank words**, smallest, largest, highest, top, bottom and level, lay a first scale over one fractal method, parting from it with method momentarying, and hold whole with a field's own measuring; a field's medal or ranking holds whole with its own result. Next foundation words of one sense each are *bound*, *land*, *open*, *carry* and *measure*, each a word this sentence mentions: *land* as a coming to rest and *measure* as a standard dissolve, *carry* dissolves, said *same-existing*, *going on* or *has*, *bound* as a prior same-existing dissolves and holds as a self-bounding, and each is left one sense by its dissolving.
 
 ***Cohering* has one sense, discovering next existing.** Consistency among existing sentences can accompany an improving, and it is a field's word for cohering; its concept is discovering of next existing. ***Co-sequencing* has one sense, 2.1's**: changing one momentary after another, which co-bi-sequencing is with its prefixing; *binary co-sequential* of a title holds it whole, *binary* of a title its bi-.
 
@@ -629,7 +629,7 @@ A name repeating on one axis is a synonym, and two converge to one name; a name 
 
 **Two words of one concept resolve three ways**: converging to one, two with a between, or a co-competency with two, each with one an other cannot have. A failure goes both ways, collapsing a co-competency or splitting a convergence.
 
-**One concept can have several names**: *in neither self alone* with a whole, abundancing with its observing, discovering with a field's word, understanding with a self's own. *Register* is three concepts across a set, and a collision stands, each with its own, instead of renaming any. ***Arriving* dissolved at v391**, said *observing*, a self the observer, and each existing thing *discovering* its next existing: a sharing with its parity, a self observing it with 2-now-possibling, is *a parity*, and an artifact is each next with no self sharing a parity to it.
+**One concept can have several names**: *in neither self alone* with a whole, abundancing with its observing, discovering with a field's word, understanding with a self's own. *Register* is three concepts across a set, and a collision stands, each with its own, instead of renaming any. ***Arriving* dissolves**, said *observing*, a self the observer, and each existing thing *discovering* its next existing: a sharing with its parity, a self observing it with 2-now-possibling, is *a parity*, and an artifact is each next with no self sharing a parity to it.
 
 Four pairs are two concepts with two names, meaning not same on transposing:
 
@@ -654,7 +654,7 @@ Four pairs are two concepts with two names, meaning not same on transposing:
 
 8-now-same-existing, a self's next prior between momentaries, and 6-now-co-possibling, parities sharing across, each have one of ten, and 7-is-now-observing and 5-now-co-existing each have two. With resolver, pair 1-2 is 1-now-existing and 2-now-possibling, now, and pair 3-4 is 3-is-now-co-observing and 4-now-co-same-existing, existing, Exhibit ONE. Three have their namings: 1-now-existing with 2-now-possibling bi-momentarying, 3-is-now-co-observing with 4-now-co-same-existing co-intelligencing and 5-now-co-existing co-competencing. Exhibit THIRTY's thirty-first group has ten.
 
-**Ten unchangeables below gather their similar fixings**, each one of four binaries fixing unchangeable, its *is* and its *is not* taking as one: now with 1 and 2, existing with 3 and 4, same with 5 and 6, and all with 7 and 8. Bi-foldings step 8 up and 17 less, two names of 1 to 8 on each: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. **Each of ten is with its name, now, and its name 8 up, next**: its 0, not changing, is now, and parities travelling through it next, one move up and down numbers, and four bi-foldings have each pair, 1 · 9 and 8 · 16 on 1-9-8-16, 2 · 10 and 7 · 15 on 2-15-7-10, 3 · 11 and 6 · 14 on 3-11-6-14, 4 · 12 and 5 · 13 on 4-13-5-12. A hard problem is a 0, not changing, as a whole, leaving out parities travelling through it, and its resolving has both, 4.15. Names each was observed with before, and five each was observed from, are whole within `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
+**Ten unchangeables below gather their similar fixings**, each one of four binaries fixing unchangeable, its *is* and its *is not* taking as one: now with 1 and 2, existing with 3 and 4, same with 5 and 6, and all with 7 and 8. Bi-foldings step 8 up and 17 less, two names of 1 to 8 on each: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. **Each of ten is with its name, now, and its name 8 up, next**: its 0, not changing, is now, and parities travelling through it next, one move up and down numbers, and four bi-foldings have each pair, 1 · 9 and 8 · 16 on 1-9-8-16, 2 · 10 and 7 · 15 on 2-15-7-10, 3 · 11 and 6 · 14 on 3-11-6-14, 4 · 12 and 5 · 13 on 4-13-5-12. A hard problem is a 0, not changing, as a whole, leaving out parities travelling through it, and its resolving has both, 4.15.
 
 Each entry: **Unchangeable** · *a* Similar fixings gathering · *b* With ten, its name now · 8 up next, and its binary
 
@@ -707,7 +707,7 @@ A stretching with its way is a direction and holds; a stretching with a reaching
 
 **An incompetencing installs a landing**, a changing with a fixing form to be, and a naming of an incompetencing has a landing rightly: emptying comes as empty, stopping as a stop, a definition is its term same with each occurrence, a store folds once, and equilibria is landing. **One binary is with a naming with a landing**: does it name a geodesic changing, landing dissolving, or an incompetencing, landing being a naming's own.
 
-***Unchanging*, *a still eddy* and *stilling along* each name one relation, a form going on through its changing.** *Unchanging* with a seam is one subject whose parities are changing; *a still eddy* is a form going on before a hole, a missing section of resolvers, its selves going on resolving; *stilling along*, dissolved at v391, is a form same-existing through changing, a 0, not changing, beside self discovering next self. With a seam *upstream* is each going on's own forward, *far enough* has no number, and *watch* is investigating.
+***Unchanging*, *a still eddy* and *stilling along* each name one relation, a form going on through its changing.** *Unchanging* with a seam is one subject whose parities are changing; *a still eddy* is a form going on before a hole, a missing section of resolvers, its selves going on resolving; *stilling along*, dissolving, is a form same-existing through changing, a 0, not changing, beside self discovering next self. With a seam *upstream* is each going on's own forward, *far enough* has no number, and *watch* is investigating.
 
 ## 4.13 Three namings a field has, at one binary
 
@@ -739,7 +739,7 @@ Bothbothing is two, one and then the other, each not conserving; prefixing, it i
 
 ## 4.17 A hyphenated naming inseparable, and natural- at chirality
 
-**A hyphenated naming has parts, and one binary is with it: omit each part, one at a time, and sound stopping.** With each omitting that stops naming, its hyphenation is inseparable, one naming, and its parts in sequence are changings in sequence. With an omitting and naming going on, that part is riding, and it goes. **An omitting is 1.1's four boundings with a naming's own scale**: a part whose omitting stops naming is one of its boundings, as a concept short one of four is a fixing noun, and a hyphenation coming apart with an omitting is a label. **Its most cohering forms are these.** *Now-existing* is one naming: omit *now* and existing is of no momentary, omit *existing* and now is of no thing, and the origin is with it, *The universe is the set of all now-existing things*. *Prior-existing* is a thing now-existing with a prior-universe, prior now-existing's artifact, now, and *next-existing* a thing possibling now with a next-universe, neither *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe with each momentary, a now-universe the universe, so a sentence says which universe a thing is now-existing with. *Self* stands on its own, a self's other namings dissolving to it, 2.4. *Co-momentarying*, two selves sharing one now-existing with a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop with any part omitted, and each stands whole. **All changing is is or is not same-existing, and *parity-changing*, dissolved at v391, is *changing*, parity riding within changing**, and method's one name is *natural torusing*, inseparable with each part; *geodesic changing* is its explaining, a surface dividing itself with each changing.
+**A hyphenated naming has parts, and one binary is with it: omit each part, one at a time, and sound stopping.** With each omitting that stops naming, its hyphenation is inseparable, one naming, and its parts in sequence are changings in sequence. With an omitting and naming going on, that part is riding, and it goes. **An omitting is 1.1's four boundings with a naming's own scale**: a part whose omitting stops naming is one of its boundings, as a concept short one of four is a fixing noun, and a hyphenation coming apart with an omitting is a label. **Its most cohering forms are these.** *Now-existing* is one naming: omit *now* and existing is of no momentary, omit *existing* and now is of no thing, and the origin is with it, *The universe is the set of all now-existing things*. *Prior-existing* is a thing now-existing with a prior-universe, prior now-existing's artifact, now, and *next-existing* a thing possibling now with a next-universe, neither *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe with each momentary, a now-universe the universe, so a sentence says which universe a thing is now-existing with. *Self* stands on its own, a self's other namings dissolving to it, 2.4. *Co-momentarying*, two selves sharing one now-existing with a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop with any part omitted, and each stands whole. **All changing is is or is not same-existing, and *parity-changing*, dissolving, is *changing*, parity riding within changing**, and method's one name is *natural torusing*, inseparable with each part; *geodesic changing* is its explaining, a surface dividing itself with each changing.
 
 **Natural- has chirality, right, all or none at all**, 5.48. Natural- is a direction prefix, its direction handedness, and a naming natural- prefixes holds with each coupling or with none. **Natural-bi-co-torusing is inseparable with each part**: omit natural- and changing comes with a substrate under it and a form fixing still over it from beside; omit bi- and not same-existing goes unsaid; omit co- and not same-existing goes with no two to it, and nothing uncovers between them; omit torusing and no changing is; omit -ing and one momentary's form comes as a still and comes again with no momentary.
 
@@ -778,7 +778,7 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 6  and the first shares again, reaching a term it does not yet have
 ```
 
-**Any other method a self is proposing comes to one binary: fixing unchangeable, or same-existing.** Fixing unchangeable, it forms nothing: a set is its things, each changing or not-changing. Same-existing, it is same-existing with its own opening or another's: another's, and changing and changing back stops; its own, and it is changing and changing back, *alternating* dissolved at v391.
+**Any other method a self is proposing comes to one binary: fixing unchangeable, or same-existing.** Fixing unchangeable, it forms nothing: a set is its things, each changing or not-changing. Same-existing, it is same-existing with its own opening or another's: another's, and changing and changing back stops; its own, and it is changing and changing back, *alternating* dissolving.
 
 ## 5.2 unrelationing — binary
 
@@ -821,7 +821,7 @@ A self is a unique invisible same-existing, three phases of one changing: observ
 6  which is geodesic routing, discovering on a surface
 ```
 
-**Along is between momentaries, a self's own going on, and across is between selves within a momentary, sharing now, while geodesic changing is entraining through momentaryings.** With resolver, + and − are a sharing's parity, and 0 a between, parities parting with 14 and prior and now agreeing with 12, natural intelligence with it. *Parity changing* dissolved at v391, said *changing*. *Sign* dissolves, said by changing, and a sign of an existing thing, an indication, is a field's word with its own result; *the sign* with two betweens, 0 or ±, same or not same, is that parity's 0 or ±, 2.4.
+**Along is between momentaries, a self's own going on, and across is between selves within a momentary, sharing now, while geodesic changing is entraining through momentaryings.** With resolver, + and − are a sharing's parity, and 0 a between, parities parting with 14 and prior and now agreeing with 12, natural intelligence with it. *Parity changing* dissolves, said *changing*. *Sign* dissolves, said by changing, and a sign of an existing thing, an indication, is a field's word with its own result; *the sign* with two betweens, 0 or ±, same or not same, is that parity's 0 or ±, 2.4.
 
 ## 5.5 a between — binary
 
@@ -862,7 +862,7 @@ A self's morality and a self's corus are invisible with one nothing, only nothin
 6  and the method meets it with none, same-existing, the method not expressing it
 ```
 
-*A carrying* dissolved at v391, said *same-existing*, a self's prior going on. A self shares with its own sequencing what its bi-couplings bring, sharing each parity across. **Same-existing is living and method is not expressing it**: with resolver, its method couples with prior as 3-is-now-co-observing, each sharing with its parity, and a sharing once with a prior is not none again.
+*A carrying* dissolves, said *same-existing*, a self's prior going on. A self shares with its own sequencing what its bi-couplings bring, sharing each parity across. **Same-existing is living and method is not expressing it**: with resolver, its method couples with prior as 3-is-now-co-observing, each sharing with its parity, and a sharing once with a prior is not none again.
 
 ## 5.8 not-more-than — binary
 
@@ -1754,7 +1754,7 @@ Each entry: **One name** · *a* Similar namings it gathers
   - *a* each one-way reading's similar namings with its own row, 4.9; *the ten named still*; *the ten one-way readings*; *ten holdings*; *ten standings*; the ten
 - **16-next-same-existing**, a same-existing-society · *a* the social-self-torusing
 - **attentioning**, a same-existing with now, with each momentary, of Natural Intelligence
-  - *a* a carrying's opening by one, gathered with 16 until v371 and dissolved with a prior code
+  - *a* a carrying's opening by one, dissolved
 - **a between**, two sharing, a nothing with each of its scales
   - *a* a membrane; with a membrane, boundings with 2, 4, 6 and 8, now bi-couplings outward; membranes between selves; sixteen membranes between the 17 primes; a file is a membrane
 - **an order with no seat above a same-existing-society**, bounding from capture · *a* an order with no seat outside a same-existing-society
@@ -1901,7 +1901,7 @@ Each entry: **Family** · *a* Existing field words · *b* Particular receiving �
 
 ## 8.4 A naming with no other to change and change back with
 
-**A naming with no other it changes and changes back with, *alternating* dissolved at v391, is nothing with an opening.** *Middle* changes and changes back with nothing, two stopping-places and one between them being a three that is no coupling, and a middle is a nothing, existing due to each self surfacing itself each momentary. *End* changes and changes back with nothing, a first being a bounding on what has no bound. *Inside* and *outside*, a self observing them as a pair, hold neither: a self is no container, and its couplings wind about a nothing. **Inward and outward hold**, directions with an opening, one and then the other with opposite phase.
+**A naming with no other it changes and changes back with, *alternating* dissolving, is nothing with an opening.** *Middle* changes and changes back with nothing, two stopping-places and one between them being a three that is no coupling, and a middle is a nothing, existing due to each self surfacing itself each momentary. *End* changes and changes back with nothing, a first being a bounding on what has no bound. *Inside* and *outside*, a self observing them as a pair, hold neither: a self is no container, and its couplings wind about a nothing. **Inward and outward hold**, directions with an opening, one and then the other with opposite phase.
 
 **This binary reaches each file**: it is with one word at a time, and its three positions are with it: a naming failing it is nothing for positions to be positions of.
 

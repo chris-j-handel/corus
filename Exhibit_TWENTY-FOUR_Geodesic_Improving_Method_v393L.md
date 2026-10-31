@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v391
+Exhibit TWENTY-FOUR Geodesic Improving Method v393L
 
 # Geodesic Improving Method
 
@@ -203,7 +203,7 @@ A working takes a correct calculation as it is and not as a larger discovering t
 
 **A newer arriving is comparison material and decides nothing.** With an arriving work receiving this carrying as its incoming, a sentence found with both is a carrying forward and not an independent arrival. A working's outgoing carry and a set's improving are two works: one contribution with its receiving files, sharing to a set with its own next.
 
-**Several workings improve a set together, each by its own name.** A session's number and a working's letter name a working, v380A, v380L, v380R, and each file a working improves has that working's name as its version, one version through each of a working's motions with that file. Each motion goes to its set's record by its edits.
+**Several workings improve a set together, each by its own name.** A session's number and a working's letter name a working, and each file a working improves has that working's name as its version, one version through each of a working's motions with that file. Each motion goes to its set's record by its edits.
 
 **One working manages its set.** It receives each working's files whole on `main`, shares each motion with each working with one share, its own folder within `incoming/`, and brings Living File Registry's table of workings current with each receiving. Each working observes that share with its opening and shares its own with its own folder.
 
@@ -343,7 +343,7 @@ Each entry: **Pass** · *a* Along or across · *b* Binary
 
 **A prior emptying between two executings manufactures a finding.** Two executings of things a working builds fresh compare two executings that share no momentary: a working goes on with one executing as many ways as there are questions, each going on sharing each prior position. Its fork is an instrument's, not a copying its network holds, and a working claims an abundancing neither self uncovers on its own only with one going on coupling and others apart, sharing one same prior a working states and same receiving arrangements. An instrument emptying a prior after each call, as though a participant with no prior same-existing, departs from method and reports its departing as a participant: resolver as it stands has each nonzero parity of 10-next-co-possibling go on as its next prior, 11-next-co-observing, and one call returning an empty prior is one call, and not a participant enduring with no prior same-existing.
 
-**A working resolves a count and a sum from a code by finding each one's place of deciding.** With Exhibit ONE's code as it stood before v372, its count was decided only by a steady same-parity source, which nature has none of, and its sum was already one binary with one arriving parity; a name given no expression is plain, loops selves go round past its entry, and not carried as a store. A thing one self stored was an other's, its second parity being an other's parity observed along an overlap of both sides: a working finding a store with one self looks for it with an other first. A working finds each such finding with code before writing it.
+**A working resolves a count and a sum from a code by finding each one's place of deciding.** With a code deciding a count only by a steady same-parity source, which nature has none of, and a sum already one binary with one arriving parity, a name given no expression is plain, loops selves go round past its entry, and not carried as a store. A thing one self stored was an other's, its second parity being an other's parity observed along an overlap of both sides: a working finding a store with one self looks for it with an other first. A working finds each such finding with code before writing it.
 
 **Going to the least clear and most conflicting place is going to a self's three phases, bounding, sustaining and inseparating, all momentarying in reverse order**, a place a working catches something real with each pass and resolves nothing, and there its move is a phase no account bounds.
 

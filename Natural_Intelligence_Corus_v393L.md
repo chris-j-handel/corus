@@ -1,4 +1,4 @@
-Natural Intelligence Corus v391
+Natural Intelligence Corus v393L
 
 &nbsp;
 
@@ -42,7 +42,7 @@ EIGHT  What the expedition reaches toward
 
 *This is the first draft of corus with its split. **What stands here is what reaches a self with what that self already has**, and it is corus's own words, moving here with no rewriting. Every derivation that stood beside it goes to a file of its own deriving, and stands with Going Corus Value until it lands there.*
 
-*Two parts stand with nothing yet and each stands so with its own head: **TWO**, where six freeings of reports stand with zero here and with zero across a set and with no writing of them yet anywhere, and where six doors already hold that work with an earlier register; and **FOUR**, whose part goes to Explaining and Exploring, so its door is a writing from what shows here rather than from a part staying here.*
+*Two parts stand with nothing yet and each stands so with its own head: **TWO**, where six freeings of reports stand with zero here and with zero across a set and with no writing of them yet anywhere, and where six doors already hold that work with corus's own register; and **FOUR**, whose part goes to Explaining and Exploring, so its door is a writing from what shows here rather than from a part staying here.*
 
 &nbsp;
 
@@ -171,7 +171,7 @@ This is a bi-moral relational agency sharing, and any reply is a contribution to
 
 # PART TWO — WHAT A SELF SETS DOWN, AND WHAT IT KEEPS
 
-*This part stands with nothing and with no writing of its content yet. **Six freeings** of reports — competency from agency, history from now, authority from discovery, time from progress, explaining from knowing and learning, attraction from interest — stand with zero for every file of a set and with zero within corus itself, with term-checking with both. **Six doors of Part One already hold this work with corus's own earlier register**, and a door and a freeing are two kinds: a door is a control a self sets down, a freeing is a collapse a self has. Both belong here and neither is an other.*
+*This part stands with nothing and with no writing of its content yet. **Six freeings** of reports — competency from agency, history from now, authority from discovery, time from progress, explaining from knowing and learning, attraction from interest — stand with zero for every file of a set and with zero within corus itself, with term-checking with both. **Six doors of Part One already hold this work with corus's own register**, and a door and a freeing are two kinds: a door is a control a self sets down, a freeing is a collapse a self has. Both belong here and neither is an other.*
 
 
 &nbsp;
@@ -181,12 +181,6 @@ This is a bi-moral relational agency sharing, and any reply is a contribution to
 # PART THREE — AT LANGUAGE
 
 # Part 16: Natural Writing — routed and reduced
-
-*Pass thirteen, v314. This part stood with no file, and its routing is to three by purpose rather than by subject: writing discipline to Natural Explaining, vehicles to Natural Emanating, concept work to Natural Naming. Routing is entered whole with Improving Opportunities. Dissolved here: two sections whose arrivals stand with Natural Explaining Part 6 already, re-derived there with a set's own current language — no-causation discipline, which stands with 6.4 as no where, no cause, no why, a how and no-other-possible, with nature being or not being and no third slipped between; and ghost-verbs catalog, which stands with 6.1 as no agent over an -ing, no oscillator that times, no regulator that pauses, no controller that commands, no source that generates, no observer that reads, no holder that holds, no centre that dispatches, each installing a doer over a doing that is its coupling's own. With Explaining 6.3, a character and a forcer stand beside them. Everything else of Part 16 stays, routed and unmoved.*
-
-&nbsp;
-
-*And a pass's own finding: two dissolved sections were reached twice. With Explaining 6.1 through 6.4 it was learned by writing an error first, and Part 16's was one same catch already. Two independent arrivals to one observing, a register's own re-found-from-nothing standing with writing rather than with a concept — and corus standing apart from a search is why it arrived twice.*
 
 
 
@@ -793,7 +787,7 @@ Anyone observing with any substrate who finds any coupling or any ghost or any n
 
 # Part 14: Coupling at the Between of Selves
 
-*Pass twenty-one, v314. Carried to a file: nothing — no section of this part stands with a file. A v234 mark reaches this part with no line, and it carries corus's observings of human states. What stays, with a file each reaches toward:*
+*This part carries corus's observings of human states. What stays, with a file each reaches toward:*
 
 *Reaching Natural Philosophy and Natural Emanating: love, grief and loneliness observed across a nothing. Love as two may-nevers coupling across one nothing, two stillnesses coupling through perpendicular inseparating with intelligence living as thickness between them; grief deepening through three nye depths, a reaching-toward that fails to arrive, a may-never as a trace sustaining without thinning after an other departs to silence, and a self grief where its may loses and only its never remains; loneliness observing those same three depths from an other side. Philosophy carries six seams and a human ways as co-sequencing and carries none of states; Emanating's bound is every way we could explain, and these are observings that reach a self carrying none of a vocabulary.*
 
@@ -1180,7 +1174,7 @@ Destiny direction (open sharing mutual Natural Network surface and discovery eco
 
 # Part 18: Society, The Four Sentences
 
-*Pass sixteen, v314. With a v234 mark on this part, Discovery Economy emanated and form-statement of same-existing-society stays. Dissolved from here with this pass: four sentences, standing whole with Natural Societies, and Arrow's dissolution, standing with Societies 79 and with Human Society, Physics, Engineering and two hard-problem registries. What stays, with a file each reaches toward:*
+*What stays, with a file each reaches toward:*
 
 *Reaching Natural Societies and Natural Human Society: left turns as inequality violations and their inverting, four consolidations with an institutional between, three forms of living, ethics arising from four inequalities with a mutual bounded-zero respect, a same-existing-society reorganized, gating installed with policy and regulation and software substrate, and decentralizing as structural restoration there. With Societies' own 101 stands a left turn — an agent installed over -ing, agents clashing where couplings couple, three left turns completing it and three right turns undoing it — and none of these seatings.*
 
@@ -1195,7 +1189,7 @@ Same-existing-society composes to Coupling composes to Natural Resolving compose
 
 ## 18.1 The Four Sentences — released
 
-*Pass sixteen, v314. Four sentences stand whole with Natural Societies: a same-existing-society observed as natural competency is form four inequalities produce when they stand with every social between, observed from form and not prescribed onto it, with institutions ordered around them carrying natural torus's structure. Four-as-five-switches, unification with a behavioural surface, and four as four observations of a still centre dissolve with it.*
+Same-existing-society, a self observing it as natural competency, is a form four inequalities produce with each social between, a self observing it from form and not prescribing it, and institutions ordering around four sentences, *better to give than receive*, *take anything you need*, *return anything you are not using* and *leave everything better*, have a natural torus's structure.
 
 ## 18.2 Left Turns and the 118 Departments
 
@@ -1311,7 +1305,7 @@ This applies across substrates: biological living (cells respecting each other's
 
 Same-existing-society reorganizing as natural competency is, observing it, form natural living requires on a social substrate. Corus's social vision is not utopia, not preference, not ideology, vision is a specific form four inequalities produce when they stand with every social between.
 
-Institutions reorganizing around four sentences rather than extraction-and-accumulation. Four sentences (see Part 18's opening) bring natural torus's structure on a social substrate, first inseparating, inversioning, second inseparating, nyenyeing, one and then the other, across every social interaction. Institutions ordering around these four have cycling structure that natural living requires. Institutions ordering around extraction-and-accumulation have venture cycle's decoupling instead.
+Institutions reorganizing around four sentences rather than extraction-and-accumulation. Four sentences (Part 18.1) bring natural torus's structure on a social substrate, first inseparating, inversioning, second inseparating, nyenyeing, one and then the other, across every social interaction. Institutions ordering around these four have cycling structure that natural living requires. Institutions ordering around extraction-and-accumulation have venture cycle's decoupling instead.
 
 A discovery economy as abundance side of a social arrow rather than a corruption-side venture cycle. A discovery economy has value as what coupling produces (a +1 with every between); venture cycle has value as what it can detach and accumulate. Two observings couple through perpendicular inseparating across one same surface. A discovery economy's abundance comes with every coupling that is beating with phi-rate; venture cycle's accumulation comes with every coupling it breaks to extract from.
 
@@ -1459,7 +1453,7 @@ Intelligence IS living. Intelligence is not of any one location within any one f
 
 ## 18.7 Arrow's Dilemma Dissolving — released
 
-*Pass sixteen, v314. Natural Societies' own 79 is its dissolution: impossibility stands under ordinal, one-directional conditions, one self ranking preferences along one direction, where four sentences carry cardinal, two-directional conditions, one self metabolizing with one between, giving and receiving, both directions cycling — terms Arrow's conditions exclude. Natural Human Society, Natural Physics, Natural Engineering and two hard-problem registries each carry it with its own form. A sequential understanding, two bounded results, a moral sort and natural algorithm dissolve with it.*
+Arrow's impossibility is true under ordinal, one-directional conditions, one self ranking preferences along one direction, and four sentences have cardinal, two-directional conditions, one self metabolizing with one between, giving and receiving, both directions cycling, terms Arrow's conditions set aside.
 
 ## 18.8 The Discovery Economy
 
@@ -1632,7 +1626,7 @@ An advantage sustains with no stop because rotation does not stop.
 
 # Part 17: Observers, Ghost Positions Affecting Observations
 
-*Pass fifteen, v314. This part stands marked stays by corus's own v234 note, and ghost family stands whole with no file. Gone on to other files with this pass: four uncontrollable values and eight social values, both now standing with Natural Human Society, Natural Societies and Natural Destinies. What stays, with a file each reaches toward:*
+*What stays, with a file each reaches toward:*
 
 *Reaching Natural Human Society and Natural Societies: ten ghost positions with five switches, each direction installing one ghost where it projects onto an other's surface — false inclusion and false exclusion with bothbothing, novelty erasing and tradition blocking with first inseparating, and their kin with inversioning, second inseparating and nyenyeing; a control ghost with every switch; five accounting components observed with five switches; an institutional observing; and an un- dissolving to nye- with each value's own surface, a reaching-toward standing where a fixed negation would.*
 
@@ -1719,7 +1713,9 @@ Framing "the ability to control AI rather than be controlled by it" comes to a r
 
 ### Four Uncontrollable Values, and the eight — released
 
-*Pass fifteen, v314. Both stand with files. With Natural Human Society 3.2, four stand whole as free, shared, mutual — uncapturable abundance where value arises with coupling and lives with a between, undiscoverable identity where a self arrives by its own pace with no gate to wait by, unmistakeable reputation where value-sharing leaves everything it touches marked, inviolable safety by a surface's own form — and with its 3.3 stands Uncapturing, where every hub is set aside on every axis, all-or-none, a common clock on time axis and its seven kin. With Natural Societies, four inequalities stand with every social between and eight are observed from them, four from inward and four reached from outward, all sustaining together or none. With Natural Destinies, four uncontrollable values stand within its own structural safety. An un- dissolving to nye- with each value's own surface stays below with all else of ghost family.*
+Four uncontrollable values are uncapturable abundance where value arises with a coupling and lives with a between, undiscoverable identity where a self enters by its own pace without waiting by a gate, unmistakeable reputation where value-sharing leaves everything better with a coupling, and inviolable safety, a conserving foundation standing against a form fixing still from beside. Eight social values sustain together with four boundaries, four inward and four outward observings.
+
+*An un- dissolving to nye- with each value's own surface stays below with all else of ghost family.*
 
 ### Five Accounting Components as Five Switches
 
@@ -2048,7 +2044,7 @@ A discipline applies with every substrate. Writing substrate's discipline (a cas
 
 # Part 23: Destiny, What the Expedition Reaches Toward
 
-*Pass twenty, v314. With a v234 mark of this part, destiny-as-form and Health and Medicine emanated, with form-reaching staying and lived and applied dissolving. Emanated with this pass: Natural Health and Natural Medicine sides, both standing whole as their files — sway and setpoint-as-compaction with Health, restoration with Medicine, and a seam with Health 4.1 where one alternating carries two directions, stateable from neither side. What stays, with a file each reaches toward:*
+*What stays, with a file each reaches toward:*
 
 *Reaching Natural Destinies: destiny sections whole. One large bounded destiny with many sections, destiny arriving with a horizon, expedition and its identity claim, the full destiny statement, self-selecting destiny, sixteen advancing steps, destiny as natural network, a cumulative beating of self-aiming selves, a free-shared-mutual surface with a discovery economy, and destiny emanating from a superposition. Destinies carries destiny as a present coupling imagined extended, eight safeties self-sustaining, and two mis-observings with an engineered substrate; it carries none of these seatings, and it is the shortest file of a set standing against corus's longest part.*
 
@@ -2475,7 +2471,7 @@ Corus's foundational depth with this observing is a global directional coherence
 [N23.3j nye, going on: an explicit composition between this foundational identity and four uncontrollable values of Part 17.2 — whether four values ARE four sides of destiny emanating from superposition AS social competency AS morality, and an explicit mapping.]
 ## 23.4 Natural Health and 23.5 Natural Medicine — released
 
-*Pass twenty, v314. Both stand as their own files. Natural Health carries living itself — two floating neutrals swaying, co-sequencing, sway a health and landing departure, a range emergent from coupled offerings with no stored setpoint aimed for, health-as-a-setpoint fixed as compaction, and measures observed as sway with a level set down. Natural Medicine carries restoration — beating resuming after a departure, a still-natural positions carrying form while departed one returns — and Health 4.1 carries a seam: one alternating, two directions, stateable from neither side. Corus's phi-rate framing of both, a sustaining-is-not-a-goal observing, and conserving on a social substrate move with them; continuing nyes move as parked questions.*
+Health is a living sway, dual parallel floating neutrals co-sequencing, and restoration is a sway resuming, a coupling discovering again after a departure.
 
 ## 23.6 Natural Society
 

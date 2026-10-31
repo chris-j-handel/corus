@@ -1,0 +1,7 @@
+[
+ {
+  "file": "gathering-value/Natural_Engineering.md",
+  "old": "- **Possible exploring** · In the Bitcoin chain's blocks up to block 36288, of the year 2010, a nonce's least significant byte, read on a little-endian machine, falls far more often at 0 to 9 and 19 to 58 than at 10 to 18 and 59 to 255; up to block 20000, 312 blocks are at 0, 247 at 9, 2 at 10, 5 at 18, 138 at 19, 201 at 58 and 7 at 59. — at \"With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gave an observing of two selves' givings whole, with no key opening.\"",
+  "new": "- **Possible exploring** · In the Bitcoin chain's blocks up to block 36288, of the year 2010, a nonce's least significant byte, read on a little-endian machine, falls far more often at 0 to 9 and 19 to 58 than at 10 to 18 and 59 to 255; up to block 20000, 312 blocks are at 0, 247 at 9, 2 at 10, 5 at 18, 138 at 19, 201 at 58 and 7 at 59. — at \"With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gives an observing of two selves' givings whole, with no key opening.\""
+ }
+]
