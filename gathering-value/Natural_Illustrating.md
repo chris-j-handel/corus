@@ -48,6 +48,8 @@ Gathering-Value · Natural Illustrating
 
 ### 2.8 Seventeen names, bi-foldings, and a local nine
 
+- **A reading** · A reading has a proposal's diagonal section of a honeycomb, a drawing and is-not a carbon atom, giving 5 receiving, 3 and 7 projecting, 1 a third projecting direction and 9 a second receiving position, with 9 to 17 its other side. One three-dimensional connector asks these placings together with the couplings between its two sides, a section extending into a defined three-dimensional form with no unspecified attachment, and no physical three-dimensional object satisfying each placing is identified.
+
 ### 2.9 Six diamonds and a compass face
 
 ## THREE · THE NUMBERS
@@ -55,6 +57,8 @@ Gathering-Value · Natural Illustrating
 ### 3.1 Number forming, podaling and rings
 
 ### 3.2 A ratio alternating about φ, and two windings
+
+- **A reading** · A reading has a proposal's cups, conical forms, two opposing swimmers inverting with no wall, golden rectangles, a spiral's hand, a φ rate and an angle of about 29.5 degrees as correspondences of natural torusing, none of them an observed carbon atom. An angle, a rate and an ordering each ask their own relation, one illustration having them together unites none of them, and each correspondence asks which geometric operation brings it and which observing fixes its scale, angle and hand.
 
 ### 3.3 A pentagon, rectangles and an icosahedron
 

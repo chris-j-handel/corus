@@ -25,6 +25,7 @@ Gathering-Value · Co-Chaining Logic Registry
 - **Possible incohering** · "The **universe** is the set of all now-existing things." → Step 1's sentence stands alone, the one inception, and a second *the universe is* is no step.
 - **A reading** · A reading, at a proposed logic of self-competency: its two alternatives of self-parity, same-existing as other-existing and same-existing as universe-existing, have *same-existing as*, and its relation to the proposal's *A same-existing thing is a now-existing thing continuing from its own unique prior-existing.* is still-possibling, said apart.
 - **A reading** · A reading, at a proposed logic of self-competency: the universe is the set of all now-existing things, and a self’s possibility universal set is that self's own, its self-specific scope and its prior, now and next relation a proposal; the proposal has the prior-existing, now-existing and next-existing possibility universal sets free to be different sets while the same-existing self is living, and naming that set asks no listing of each possible thing.
+- **A reading** · A reading, at a proposed logic of self-competency: its possibility universal sets, prior, now and next, ask no same things in each, and describing a set asks no listing of each thing in it; a living method's distinguishing of its next goes on with the method, still-possibling.
 
 ### 2 A self, natural intelligence, living and non-living
 

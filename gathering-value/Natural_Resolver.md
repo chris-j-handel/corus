@@ -60,8 +60,12 @@ Gathering-Value · Natural Resolver
 ### Parities to one sharing, surfacing
 
 - **Possible exploring** · One self's resolving with one sharing, its next prior the parity surfacing with a parity surfacing and its prior inverting with an empty set surfacing or parities parting, sharing its next prior with it parting from its prior and 0 with it same, is same with the code with each of 363 lists of up to four parities from +, − and 0 with each prior +, − and empty, 363 of 363, and with each of 20,000 drawn entries of up to four sharings and up to six parities. Executing with the code returns 363 of 363 and 20,000 of 20,000. — at "With one sharing, resolving is alike for + and −."
+- **A reading** · A reading has the code's 0 internal, a no-sharing passed over at receiving, and no 0 readable from outward a natural signal. Exhibit ONE's code, executing, returns a 0 shared with 10-next-co-possibling by a self agreeing with its prior and by a self with no prior whose incoming parities part, 9-next-co-discovering going on with that 0 to an other's 2-now-possibling, and that other's 14-next-possibling passing over it: the 0 goes across and is passed over, as Exhibit ONE's "Selves share each parity and each 0 across." has it. The reading's *internal* and the code's going across part, each whole.
 
 ### One self, one momentary
+
+- **A reading** · A reading has a proposal's breaking at 12-next-co-same-existing: a prior severing before a next observing, 11-next-co-observing not reached from 12, asking which connection ceases and which prior goes on in a next self, apart from each prior ceasing everywhere at one momentary. Exhibit ONE's code, executing, has each 12 going on into 10-next-co-possibling and to 11-next-co-observing: a 12 of 0 leaves its prior whole at 11; a 12 of + or − is 11's next prior, its prior inverting where a prior is, and with no prior the parity surfacing with 14-next-possibling; and no prior leaves 11. The proposal's severing and the code's going on part, each whole.
+- **A reading** · A reading has a proposal's self-observing, named prior-existing self-discovering, beside the code's own continuation: 11-next-co-observing's next prior goes on as a next momentary's 3-is-now-co-observing, Exhibit ONE's code, executing, returning this momentary's 11 as the next opening's 3, and that continuation is compared with that naming ahead of any further word for it.
 
 ### Eight even names, 8 apart
 

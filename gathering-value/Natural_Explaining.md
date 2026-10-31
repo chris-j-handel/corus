@@ -119,6 +119,7 @@ Gathering-Value · Natural Explaining
 
 - **Possible incohering** · "A scope is within its claim's own sentence, its exact domain there." → Binary logic takes no overclaim: at an opening line, *by all humanity's observing* overclaims, and *by observing* is all that line needs.
 - **Possible exploring** · In the proposal of one not-changing atom/carbon form, resistance is-not part of its binary operation and a field's measures of friction are incoming observings beside it, and the not-changing constituent sets aside atom wear and shape migration as possiblings while the exploring of them is part of the record. — at "A correction removing an overclaiming can lose a positive relation its prior held, its bounding leaving with its overreach, and a fresh observing of a correcting sentence finds both."
+- **A reading** · A reading has a challenge whole: explanations putting a missing method into an assumed law, and then exempting its failure zones. Beside it, each claimed bound is its own, derived, measured or unresolved, each examined apart, and that each law has zones of violation it leaves unexplained is a claim no search here establishes.
 
 ### 3.13 Six ways incohering enters, and one catch
 
@@ -141,6 +142,8 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "A reaching side catches a supplying and a writing side catches a freeze, and neither catches its own." → A writing, written, is reviewed for natural explaining, and its review says what it finds: place words, doers, story words, *the*, *possible*, *held* and *released*, and each sentence co-chaining from one before. This parts with this sentence's *neither catches its own*: either a writing's own review, after writing, catches as a reaching side does, or this sentence stands and a review is a reaching side's.
 
 ### 4.5 Method and not procedure, a move with no one performing it
+
+- **A reading** · A reading has a method, a particular way of doing something, as supplied all or none at three binaries: the doing explained is or is not the specified doing; exactly one particular complete way is or is not supplied; each operation necessary to completing it is or is not included. A hole is an omitted operation necessary to the specified doing; several unresolved candidate ways identify no one method, different being is-not-same; an offered way is examined for qualifying first, a method possibly existing elsewhere answering nothing of it; and the requirement is each operation necessary to the specified doing, with no explaining of all physics added. A hole in an explanation is-not an observing that the doing goes on nowhere.
 
 ### 4.6 Something checkable at the opening, a parity and not a size
 

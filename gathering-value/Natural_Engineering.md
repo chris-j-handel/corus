@@ -34,12 +34,15 @@ Gathering-Value · Natural Engineering
 ### 1.8 Network
 
 - **Possible exploring** · Selves joined along in a ring, each at one parity, take a whole pattern round between them. Run at the current resolver at each of the 504 patterns of rings of three to eight selves, the pattern inverts in place at one momentary and moves one self on along the ring at the next. Two momentaries on, the pattern is the prior one moved one self on and inverted. The pattern is the ring's, each self with one parity of it. A field's delay line memory is such an arrangement, its pattern going round in a travelling wave. — at "Same-existing going on remains each side's own within a proposal's connector."
+- **Possible exploring** · In an electronic network learning with no processor, linear networks learn linear responses, and nonlinear transistor behaviour enlarges the tasks available, exclusive-or among them; its learning compares two networks and retains changes in local capacitors, its training targets and supervisory control supplied externally. — at "Remaining network learning includes local renewal, a proposal's interface and behavior of coupling selves with their same-existing going on."
 
 ### 1.9 Antenna, telescope and the receiving relation
 
 - Closure phase is this file's own observing of a web of co-linears: around a triangle of three stations the product of the visibilities retains none of the stations' own phases, so no particular reference is needed, while additive noise and baseline-specific errors remain; a dish array co-competencing by the sequencing of its betweens, and not by a reference each station keeps, is the sensor-sensationing method still-possibling to build. *(possible exploring)*
 
 ### 1.10 Robotic limb, contact and the receiving coupling
+
+- **Possible exploring** · A physical robot performs movements, measures their results, generates candidate models of its body, chooses movements distinguishing the models and generates locomotion with the resulting model; after damage, that same process generates a compensating gait. Its objective, its available representations and its search operations are designed. — at "Further opportunities remain concrete: sequencing with contact without a trajectory a controller imposes; a gait expressing actual local coordination; stiffness and position with their separate variation; and both sides' receiving with a human interface."
 
 ### 1.11 Physical collective intelligence and local receiving
 
