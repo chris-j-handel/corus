@@ -1811,3 +1811,19 @@ Nair and colleagues (2012) measured a paramagnetic contribution after introducin
 A related study reports reversible changes of defect magnetism with molecular doping. Vacancy magnetism and magnetism associated with added atoms behave differently. Source: Nair and colleagues (2013), https://www.nature.com/articles/ncomms3010, DOI 10.1038/ncomms3010.
 
 For the expedition, the useful comparison is now threefold: arrangement around an opening, passage across the opening, and magnetic response associated with the arrangement. These observations come from different studies and have not been joined here into one measurement of one opening. The magnetic response is a response of the material around a vacancy; an absent atom is not itself a magnetic object. Universal opposite magnetism of iron and carbon is not supported by these findings.
+
+## Checking zero response, impurities and measurement bias
+
+The user's proposal is preserved exactly:
+
+> the carbon more likely has no magnetic response at all, what is weakly repelled is either impurities in carbon or the measurement method bias
+
+These are competing explanations to examine. The consulted observations support a nonzero response of graphite specimens; they do not support ranking zero carbon response plus contamination or instrument bias as the better explanation.
+
+Fischbach (1961) reports calibration against platinum, correction for ferromagnetic impurities, and measurements in different orientations and after heat treatment. The remaining response is diamagnetic. The impurity correction is an analysis, not a claim of chemically perfect specimens. Source: https://harvest.aps.org/v2/journals/articles/10.1103/PhysRev.123.1613/fulltext.
+
+Semenenko and Esquinazi (2018) characterize magnetic impurities, measure support backgrounds, and compare two magnetometers. Their results retain diamagnetism while suggesting that internal boundaries between differently stacked carbon layers account for much of its magnitude. This is a proposed structural explanation, not evidence of zero response. Source: https://www.mdpi.com/2312-7481/4/4/52.
+
+Xie and colleagues (2023) experimentally study a graphite oscillator levitating in high vacuum. This supplies mechanical evidence beyond a magnetic meter reading. A meter offset alone cannot support a levitating specimen, although levitation alone does not establish chemical purity. Source: https://doi.org/10.1103/PhysRevResearch.5.013030.
+
+The constructive refinement is to separate the measured response of an arranged carbon specimen from a proposed property of an isolated carbon connector. Collective graphite measurements do not assign the same magnetic response independently to each carbon atom. The useful further comparison is varying internal arrangement while bounding impurity and support contributions. The earlier pencil-lead levitation example should not be treated as an impurity-free carbon demonstration.
