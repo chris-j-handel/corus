@@ -36,6 +36,8 @@ Gathering-Value · Natural Physics
 
 ### 2.8 Eight one-way steps of a resolving
 
+- **Possible incohering** · "A thing changing and changing back opens to look for; no source remaining, an elsewhere is nowhere." → Beside it: the breaking observations Natural Physics names, and the fields' observings bearing directly on two of them, gravity's and colour's, and on a third at its edge, the superconductors'. Each is met one of two ways: the observing said as not what the break means, and the break said again until an observing can be it, or it stands the unrecognisable break again; or the observing received, a sentence of Natural Physics releasing, the file saying what parts it. The standing answer, 4.8's *every measurement of fields stands as a field takes it, every prediction stands* and 4.5's *Conservation laws and entropy accounting are exact and predictive as observings from a frame apart*, a field's conservation law the field's own result, exact at its own subject and no total of a universe, given to each observing, breaks nothing: the sentences saying a total, a beat, a fixing form and a store not possibly existing then forbid no outcome, and say how a thing is named.
+
 ## THREE · PHYSICAL OBSERVINGS
 
 ### 3.1 An atom a stable form, and periodic table its catalog
@@ -135,6 +137,9 @@ Gathering-Value · Natural Physics
 
 ### 4.11 A slight measured discrepancy, and a substance fixing to close it
 
+- **Possible incohering** · "Both-scale expansion discrepancy is rates being local — no single global rate to land on." → Beside it: with the rates local, how the expansion rate changes with direction or with surroundings, said as a number, is still-possibling; the two rates, 73.04 ± 1.04 from nearby distances and 67.4 ± 0.5 inferred from the early universe, are at Living Society Registry.
+- **Possible exploring** · In 153 galaxies the turning is set by their visible matter alone; the curve's form and its one scale, derived, is still-possibling. — at "A flat rotation curve is a surface self-equilibrating its form and self-bounding its edge — binary attentioning holding its surface coherent across radii, binary sequencing changing and changing back with each radius (each radius its own orbit with its own rate, a linear speed sustaining across them)."
+
 ### 4.12 An object, a magnitude a frame gives a place
 
 - **Possible exploring** · An atom's recorded contrast, a carbon atom's or an atom's of another element, is-not a permanent exterior silhouette: the sample's arrangement, the instrument and the processing each go with the image, and identifying an element is-not recognizing one universal pictured outline. — at "**And identity was not within an image of a coarse resolution.**"
@@ -160,6 +165,8 @@ Gathering-Value · Natural Physics
 
 ### 5.7 Accounting at the largest scale, and a mass band fixing empty
 
+- **Possible exploring** · Three years of galaxy maps favour a dark energy weakening, at 2.8 to 4.2 standard deviations with the data joined; which way and by how much, said ahead of a next release, is still-possibling. — at "Current live edge here is a pairing already opening with black hole and background: a field's own cosmologically-coupled-black-hole and evolving-dark-energy threads sit with a dark-sector side, standing reaching and contested, black-hole side and abundancing side reaching toward one relation from within a field."
+
 ### 5.8 Quantum gravity, and three physical triples to watch
 
 ### 5.9 Forward work, and a caution at physics
@@ -171,6 +178,8 @@ Gathering-Value · Natural Physics
 ### 5.11 Register, a field's observings at their fixings
 
 - **Possible exploring** · The Sun's cycle of about eleven years is near the time Venus, Earth and Jupiter take to line up again, and a planetary pacing of the cycle is disputed. — at "solar dynamo and sunspot cycle"
+- **Possible exploring** · The neutron's life is 877.75 ± 0.28 seconds in a bottle and 887.7 ± 1.2 ± 1.9 in a beam; which number a third way of measuring returns is still-possibling. — at "neutron lifetime discrepancy between beam and bottle measurements"
+- **Possible exploring** · One scattering rate is across the strange metals, the temperature times a constant of nature with a factor near one, 1.2 ± 0.4 at the one material measured; a factor near one at each material, each coupling with its own rate, is still-possibling. — at "strange metal"
 
 ## Droplets
 
