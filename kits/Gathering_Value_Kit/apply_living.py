@@ -39,7 +39,9 @@ heads = lambda t: re.findall(r'^#{1,3} .*$', t, re.M)
 before = heads(s)
 for r in by.values():                                  # a removal takes one blank line with it
     o = r['old']
-    if r['new'] == '' and o + '\n\n' in s:
+    i = s.find(o)
+    whole = i == 0 or s[i - 2:i] == '\n\n'               # only a whole block takes its blank line, so no paragraphs join
+    if r['new'] == '' and whole and s[i + len(o):i + len(o) + 2] == '\n\n':
         o = o + '\n\n'
     s = s.replace(o, r['new'], 1)
 first = s.split('\n', 1)[0]
