@@ -146,6 +146,8 @@ Gathering-Value · Natural Mathematics
 
 ## SEVEN · CO-SHARING
 
+- **A reading** · A reading has *co-sharing*, Part SEVEN's head word at its title and at 7.1's and 7.2's, as the open thing of this part: Natural Naming 5.13 has *Co-offering* dissolving with bi-momentarying, an offering across and both ways, a self's to an other and an other's to a self, and that bi-momentarying is what two concerns at this part ask.
+
 ### 7.1 Three neutrals, six co-sharings and eight forms
 
 - **Possible incohering** · "By its forms, each neutral fixed or floating, it is two cubed, eight, a cube's eight corners." → Beside it a cube has three neutrals at both its forms: its six faces, three opposite pairs, each pair two sides, as the six co-sharings, and its eight corners as the eight forms, a centre fixing at each face and moved by no face move. The two meet at a shared six, and Natural Explaining 4.7 unites two tellings only at one deriving from its other: either a deriving carries three neutrals onto a cube's three face pairs and the six faces rise at 7.1, or six stays a shared count, kept apart.
