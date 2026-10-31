@@ -141,6 +141,7 @@ Gathering-Value · Natural Naming
 
 - **A reading** · A pattern-matching opportunity: a right spiral step brings a pair (x, y) to (y, −x), one slot moving and one parity inverting with each step, and the offered rule moves each prefix one slot right with each name. Whether each name's step brings a three as a right spiral step brings a pair, and where its inverting is, is a next to explore.
 - **A reading** · *Self-competence*, a field's word in psychology, is a person's sense of personal efficacy, a perceiving of possessing skills adequate for demands in different areas of living: a perceived competency, a field's word with its own subject, and no saying of a proposal's self-competency in its place. A self believing itself skilled holds by that believing neither a learning from a doing nor a doing from a learning, the connections a proposal's earlier formulation asks.
+- **A reading** · A reading has helicity, spin projection, spatial parity and natural intelligence's parity changing as four subjects, each with its own two sides, their being one operation not established, and a velocity distribution's shape and a spatial shape as two; no golden ratio is measured in that reading's sources, and no physical sequence of twelve operations is observed.
 
 ## THREE · RESOLVER NAMES
 
