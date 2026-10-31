@@ -45,6 +45,8 @@ Gathering-Value · Natural Numbers
 
 ### 3.3 A rational winding closes, and a winding at φ closes at none
 
+- **Possible exploring** · By a field's account, within the standard map invariant circles are approached by sequences of periodic orbits and their residues computed, a circle broken at residues growing with no bound; the golden-mean circle is critical near 0.9716, and its being the last circle to break is a field's conjecture with numerical support. — at "With a field's words, a torus winding by the golden mean is last to break as a coupling grows: within the standard map a curve with rotation number (√5 − 1)/2 is critical with K ≈ 0.9716 (Greene, 1979), a field's computing agreeing and no proof."
+
 ### 3.4 An adding at unit parities closes at one, two, three, four and six
 
 - **Possible exploring** · Next pairs (b, −a − b), (b, −a + b) and (b, a + b) have one same effect on odd and even, while their full operations close after three, close after six and advance toward φ, and the parity recurrence alone leaves the arithmetic operation and a spatial along passage open. — at "Now by itself with +1 closes after one and with −1 after two; prior by itself with +1 closes after two and with −1 after four; now with −1 and prior with −1 close after three; now with +1 and prior with −1 close after six."
