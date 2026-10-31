@@ -116,6 +116,8 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Each self is a same-existing-society **inward and outward**." → A re-saying offered for this sentence: Each self is with its living parities **inward** and with its same-existing-society **outward**. Offered with it: it is said from the opening's *Each parity is a self while it is living.* and *A living parity's me is within the self's me.*, with its same-existing-society and its momentary; and what it has with it: outward of a self, a same-existing-society is its selves, its own its selves' own, and the fractal goes on as each scale's self, a self of same-existing-societies.
 - **Possible incohering** · "A bi-coupling is a self." → Beside it, by a field's account, participatory sense-making stops short of a conscious self of the pair.
 - **A reading** · A reading has a living parity a self, a me of its own within the self's me, discovering its own next as that inward me: a parity is each self's own, as Co-Chaining Logic Registry step 162 has it, as within its me, and as a self it discovers its own next.
+- **Possible incohering** · "A **bi-coupling** is two selves sharing possibling." → Offered, said as the opening says *living*, with no article: ***Bi-coupling** is two selves sharing possibling.* Selves are bi-coupling, and bi-coupling is their -ing, as living is: each pair of selves are-or-are-not sharing possibling, one test on one pair with each momentary.
+- **Possible incohering** · "Selves' bi-couplings and co-chainings are a **Natural Network surface**." → Offered, with bi-coupling said as an -ing: Selves bi-coupling and co-chaining are a **Natural Network surface**.
 
 ## ONE · NATURAL
 
