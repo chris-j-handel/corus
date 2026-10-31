@@ -1,0 +1,323 @@
+{
+ "corrections": [
+  {
+   "from": "Chemistry has no single way of dividing itself. Read as candidate universal sets",
+   "finding": "A reading, now said as an explaining (method change: no reading). 'berthollides' names a thing by a person; re-said by what it names, compounds of varying composition.",
+   "fixed": {
+    "section": "Head, the whole file",
+    "kind": "explaining",
+    "text": "Chemistry's divisions, met as candidate universal sets, are each gathered by a declared rule of membership, all but a short list: its institutional divisions, registries and ontologies, its identity tiers, periodic blocks and groups, metalloid lists, bond classes cut on a continuum, reaction types, mechanism classes, acid–base schemes and scales. The short list chemistry observes outright: proton number, counted; constant composition, bending at compounds of varying composition, polymers and alloys; the sign of a measured response, a susceptibility's sign, a resistivity's temperature coefficient, zero resistance with flux expulsion; a rank by one measured response under stated conditions; and an essentially sharp diffraction pattern, under a declared definition. Its own definitions write conditions and an observing's timescale in, and its kinds go one at coarse grain and many at fine grain: element and isotope, compound and conformer, compound and polymorph, polymer and its chain-length distribution."
+   }
+  },
+  {
+   "from": "**The convergence is that an observing binary is a two-way fixing waiting for a ",
+   "finding": "A reading, now an explaining. Meaning moved: part 14 gives 'one scalar observing (ratio, KIE, rate) that fits several models' of the explaining disputes, settled by a second platform or a blind prediction; the item placed it under observing binaries. 'Goes to a side' for an explaining binary parts from the front's 'dissolve rather than resolve once it is'. Charge-shift bonding (13-B7) dropped from the list; part 14's ~10⁻¹³ s for one vibration dropped. Part 13's accepted measured quantities with what they stand for disputed restored.",
+   "fixed": {
+    "section": "Head, the whole file",
+    "kind": "explaining",
+    "text": "Chemistry's open binaries part along one line. An observing binary, an occurrence is or is not, goes to its side with a second, independent instrument, a replicating or more atoms. An explaining or classing binary rests on measured quantities its sides accept and read their own ways, one scalar observing, a ratio, an isotope effect or a rate, fitting several models, and closes with a second independent platform, a blind prediction or its criterion or partition stated; several dissolve, with no side, once their criterion is stated: group three's composition, the bond order of C₂, charge-shift bonding, partial charges, the rate-determining step, a two-stage one-step cycloaddition, and concerted against stepwise at a stated lifetime threshold, about one vibration, near 10⁻¹³ s, or an observing's own timescale."
+   }
+  },
+  {
+   "from": "Chemistry describes cycling, sequencing and podaling with three different streng",
+   "finding": "A reading, now an explaining. The survey's checked front names its five observings of state and flow and its two observings to enter first (exchange at constant composition by tracers, exchange current, FCS, EXSY and smFRET; net circulation only where a reservoir difference is kept); the item dropped path heats and works, measured differences and exchange at constant composition, and dropped state functions, the equilibrium constant, chemical potential, rate constants and detailed balance from the explaining side. 'mirror' is released at Natural Naming 2.4. The fuelled rotor's direction is reconstructed from ensemble outcomes (part 11), and the hand reversed is fuel's and additive's.",
+   "fixed": {
+    "section": "Head, the whole file",
+    "kind": "explaining",
+    "text": "Chemistry coheres into natural intelligence first at what it observes with its own clock, counter, tracer or spectrum: heats and works along a path, and differences, a cell's voltage and vapour pressures; one composition reached from both sides; particular molecules exchanging at that constant composition, followed by marked atoms, an exchange current, exchange spectra and single molecules; a cycle's net circulation only with fuel, light or electricity going through it, the hand of a fuel and its additive inverting a fuelled molecule's direction at ensemble level; a hand and its other hand, one parity of no size, a weak-force difference between them in molecules not yet observed directly; pairs of spectral lines about a line between them; and an order of steps at a delay axis, a cycle counter or a separation axis. Its explaining and accounting, state functions, an equilibrium constant, chemical potential, a transition state, rate constants, detailed balance, a catalytic loop's closing, an elementary step, a rate-determining step, a filling order, and its declared classes, stand on a field's side, each a field's own result."
+   }
+  },
+  {
+   "from": "- **Each node can be observed; the closure is inferred.** Single nodes are often",
+   "finding": "Stronger than its source: part 07 has 'Single nodes are often observings' (an IR resting state, an isolated metallacyclobutane); the item made it 'Each node ... is observed'. The loop's closing from TON > 1 plus mass balance, 'no individual catalyst molecule is followed around' and the two senses of 'returns' stand in part 07's Inferences, said as an observing; they go as an explaining, the closing not yet observed directly. F1's direction (anticlockwise from the membrane side) kept.",
+   "fixed": [
+    {
+     "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+     "kind": "exploring",
+     "sentence": "With an engine one participant returns with every turn, and a catalyst participates and returns, unconsumed, by a field's definition, so its making is nothing it spends.",
+     "text": "A resting state seen by in-situ infrared spectroscopy and an isolated metallacyclobutane are single nodes of catalytic cycles observed, and a catalyst's turnover number goes above one, more than one product molecule forming per catalyst. One molecule at a time, an actin filament on the γ subunit of single F1 molecules rotates anticlockwise, seen from the membrane side, in ATP, for more than 100 revolutions, its torque above 40 pN·nm."
+    },
+    {
+     "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+     "kind": "explaining",
+     "text": "Not yet observed directly: a catalytic loop's closing, inferred from a turnover number above one and a mass balance, no single catalyst molecule followed round. A field's *returns* has two senses: the same carrier again, a catalyst molecule or an oxaloacetate pool, and a same configuration again, a chair, a rotor angle, an S-state; the fuel's spent form, side products, heat and entropy go outward of the cycle."
+    }
+   ]
+  },
+  {
+   "from": "- **Wacker oxidation [Obs + Mod; *contested*, *prior*]**",
+   "finding": "Part 07 tags the entry [Obs + Mod]: the yield and palladium falling out without copper chloride are observed; 'The Pd loop therefore closes only through nested ... loops' is inferred, and the carbonylation nesting ('Industrial cycles are nested') stands in Inferences. The item said both as an observing and widened them to every catalyst ('a catalyst coming again only with other cycles going on beside it').",
+   "fixed": [
+    {
+     "section": "5.1 A natural energy engine, cycling and the abundancing going on, the ledger beside it",
+     "kind": "exploring",
+     "sentence": "Relationals return and re-form, and with each coupling **a self finds a +1 again as living relation**, in neither side alone; cycling itself cycles, spiral nesting within spiral, autorecursioning, and a phase-sequence brings each prior parity forward, three-then-progress, with no controller recording its whole sequence.",
+     "text": "Aqueous palladium chloride with copper chloride brings ethylene and oxygen to acetaldehyde in about 95% yield, and with copper chloride absent palladium falls out as metal after one turn."
+    },
+    {
+     "section": "5.1 A natural energy engine, cycling and the abundancing going on, the ledger beside it",
+     "kind": "explaining",
+     "text": "Not yet observed directly: palladium's cycle in that oxidation going on only within copper's and copper's within oxygen's, and rhodium and iridium carbonylation cycles going on within an iodide cycle, hydrogen iodide turning methanol back into methyl iodide. Industrial catalytic cycles nest, each catalyst there coming again with other cycles going on beside it."
+    }
+   ]
+  },
+  {
+   "from": "- [OBS] **Autonomous fuelled rotation about a covalent single bond** (Borsley, K",
+   "finding": "Part 11: the rotor's 'Rotation is reconstructed from ensemble stereochemical outcomes, not watched in single molecules' — the item said 'rotates' as an observing. The direction reverses with the chirality of fuel and hydrolysis-promoting additive, not fuel alone; rate (about one turn per 3 hours, an error every 3–4 turns) and 'no designed power stroke' (B4d) dropped; the second independent system (redox C–C rotation, 85.7–89.5% ee) dropped. Equal forward and reverse traversals at ring flips are a model (detailed balance; NMR detects exchange and no direction). Flagellar flux is in a coarse-grained shape space of three bending modes.",
+   "fixed": {
+    "section": "5.5 Rest-point veins, each answering with the sway",
+    "kind": "exploring",
+    "sentence": "Detailed balance, molecular motors and living reaction networks having broken detailed balance.",
+    "text": "A molecule of two rings joined by one N–C single bond, fuelled by a carbodiimide, passes more than 97% of fuel molecules through its cycle with a directional bias up to 71:29, the bias reversing with the chirality of fuel and additive reversed, and no power stroke designed in it. Not yet observed directly: its rotation, about one turn in three hours with a wrong-way step every three to four turns, reconstructed from ensemble stereochemical outcomes, no single molecule watched; and a second, redox-fuelled rotation about a carbon–carbon bond under enzymes, its direction inferred from 85.7–89.5% enantiomeric excess. Exchange spectra detect ring flips, pseudorotation and fluxional exchange going on and no direction; not yet observed directly: their going each way equally often. The shapes of an isolated flagellum and of primary cilia, tracked by microscopy, have loops of net probability flux in a coarse-grained shape space of their first three bending modes."
+   }
+  },
+  {
+   "from": "- Chemical writing uses \"equilibrium\" for at least three referents:",
+   "finding": "A reading, now an explaining. The isolation test is part 10's own inference ('my inference, not a sourced protocol'), said as not yet observed directly; 'a minimum of G' and 'no entropy production' dropped from the first referent.",
+   "fixed": {
+    "section": "5.5 Rest-point veins, each answering with the sway",
+    "kind": "explaining",
+    "text": "One observing, constant composition, stands under three referents of a field's *equilibrium*: zero affinity, a minimum of Gibbs energy, each step balanced by its reverse, no entropy production; a stationary composition with a throughput going through it; and a set point a regulating maintains. What parts them goes beyond composition: a net probability flux measured round a cycle parts a steady state from an equilibrium. Not yet observed directly: closing a system to its inflow and outflow as one binary at each rest point, an equilibrium's composition going on as it is and a steady state's relaxing."
+   }
+  },
+  {
+   "from": "- **Mole-fraction non-moderation** ([Solaz-Portolés & Sanjosé 2013](https://jour",
+   "finding": "Meaning altered: the shift's direction does not invert; what parts about y = a/|Δν| is whether the mole fraction is moderated (part 04). The condition Δν < 0 dropped. The result is a derivation, not yet observed directly.",
+   "fixed": {
+    "section": "5.5 Rest-point veins, each answering with the sway",
+    "kind": "exploring",
+    "sentence": "Le Chatelier, shifting conditions re-forming composition.",
+    "text": "Not yet observed directly, by a field's derivation for ideal gases: for aA + bB ⇌ cC with Δν negative and A added at constant temperature and volume, A's molar concentration moderated each time and its mole fraction left unmoderated at a/|Δν| and above; for ammonia's synthesis that between is ½, nitrogen added at a mole fraction of ½ and above having its mole fraction unmoderated. One shifting moderates one measure and, past a between, leaves another unmoderated."
+   }
+  },
+  {
+   "from": "- **Mechanochemistry, observing.** Single-molecule AFM force spectroscopy on pol",
+   "finding": "Number dropped: the ~0.1 s timescale of the force spectroscopy on polymer-embedded mechanophores. The aziridine results are simulation (DFT/CASPT2, steered MD), now said 'not yet observed directly', the authors' more diffuse allowed/forbidden boundary with them.",
+   "fixed": {
+    "section": "2.4 Parity at two couplings, exact at the electromagnetic and refusing at the weak",
+    "kind": "exploring",
+    "sentence": "**Pericyclic selection rules change and change back by parity too, with a molecule's own sharing and its bi-couplings.**",
+    "text": "Pulled by single-molecule force spectroscopy on ring-opening groups embedded in polymers, at about a 0.1 s timescale, a forbidden benzocyclobutene ring opening goes at about 130 pN less force than the allowed one, and forbidden gem-difluoro- and gem-dichlorocyclopropane openings at about 560 and 1,000 pN more. Not yet observed directly, by calculation for cis-dipropylaziridine: the allowed conrotatory transition state going on up to 1.4 nN, the disrotatory path a true transition state from 1.2 nN, above 1.4 nN the forbidden path alone, and the allowed–forbidden boundary more diffuse than assumed. Force is a third condition beside heat and light at which allowed and forbidden part, observed reaching forbidden paths."
+   }
+  },
+  {
+   "from": "- **Four kinds of centre recur:**",
+   "finding": "The four kinds of centre are part 09's own sorting, said as an observing; they go as an explaining. Meaning changed: 'exact until a symmetry-breaking interaction is admitted' holds of pairs made by symmetry (part 09 L336); pairs by definition are exact and 'say little until a scale is attached'. 'Watson–Crick' and 'Hoogsteen' name things by persons, re-said by what they name; 'mirror pyramids' and 'absorption–fluorescence mirror' re-said, mirror released at Natural Naming 2.4.",
+   "fixed": [
+    {
+     "section": "2.1 Three reaction pairings, one-way-at-a-time coupling and no six that closes",
+     "kind": "explaining",
+     "text": "A field's pairs go about a between of four kinds: an exchanged unit, one proton between a conjugate acid and its base, electrons between a redox couple's sides, an electron pair between a Lewis acid and base, a hydrogen between a hydrogen-bond donor and acceptor; a symmetry element, a mirror plane between enantiomers, an inversion centre between g and u; a spectral or energy middle; and a path's middle, a transition state a step shares with its reverse, the planar form between an amine's two pyramids of opposite form. A pair by definition is exact and says little until a scale is attached to it; a pair by symmetry is exact until a symmetry-breaking interaction enters, the weak force for enantiomers, the Coulomb interaction for nuclei of swapped proton and neutron numbers, vibronic coupling for g and u; and approximate pairs part observably."
+    },
+    {
+     "section": "2.1 Three reaction pairings, one-way-at-a-time coupling and no six that closes",
+     "kind": "exploring",
+     "sentence": "A first relation coupling across is parity with a coupling, and oxidation and reduction, condensation and hydrolysis, addition and elimination are three pairing pattern-matchings of it, each pair a parity inverting.",
+     "text": "Disproportionation goes from an intermediate oxidation state to its two sides and comproportionation from two sides to the intermediate state, and reductive elimination is defined as oxidative addition's reverse. Canonical DNA base pairs go with transient pairs on the purine's other face, the purine turned syn, at 0.08–2.73% populations and lifetimes of about 0.1–2.6 ms, by NMR relaxation dispersion; six of eight new sulfur-containing quasiracemates part from the expected near-inversion packing; and absorption and fluorescence bands, of opposite form about the 0–0 band, part from that form for oligo(p-phenylene)s."
+    }
+   ]
+  },
+  {
+   "from": "5. Chain steps are classified by counting radicals: initiation raises the count,",
+   "finding": "Part 08: the third explosion limit's radical–radical chains are 'a 2018 analysis', a model, said as an observing. 'Keeps' the count is the source's word for propagation.",
+   "fixed": {
+    "section": "2.1 Three reaction pairings, one-way-at-a-time coupling and no six that closes",
+    "kind": "exploring",
+    "sentence": "Pairings stand as three instances of one-way-at-a-time chemical coupling.",
+    "text": "A chain reaction's steps go by a field's count of radicals: initiation raises it, termination lowers it, and propagation keeps it, a +, a − and a 0 of one count. The hydrogen–oxygen explosion boundary has three limits; not yet observed directly: the third needing radical–radical chains, by a field's analysis."
+   }
+  },
+  {
+   "from": "- The Rayleigh line and an isosbestic wavelength are measured features. The 0–0 ",
+   "finding": "Stronger than its source: 'A spectrum has its lines in pairs' generalises three instances to every spectrum; the absorption–fluorescence symmetry is approximate and fails for oligo(p-phenylene)s (part 09); the 0–0 band and the chemical shift are 'usually inferred' from the pattern's symmetry, given as read outright; 'a between observed through its two sides' is the gatherer's own, said inside an observing. Stokes, anti-Stokes, Rayleigh and Boltzmann name things by persons, re-said by what they name; 'mirroring' is released at Natural Naming 2.4. The pair's middle as a between of two changing directions goes as an explaining.",
+   "fixed": [
+    {
+     "section": "Opening",
+     "kind": "exploring",
+     "sentence": "A **0** is a between of two changing directions.",
+     "text": "Spectra have pairs of lines about a line between them: Raman lines shifted down and up by one same vibrational quantum about the unshifted scattered line, equal in shift, the downshifted line the stronger by the lower level's larger thermal population; a first-order NMR doublet's two lines at ±J/2 about the chemical shift; and absorption and fluorescence bands of opposite form about the 0–0 band, approximately, parting for oligo(p-phenylene)s. The unshifted line and an isosbestic wavelength are measured lines; not yet observed directly, at their spectra: the 0–0 band and a chemical shift, inferred from their pair's symmetry. At an isosbestic wavelength absorbance goes on the same through a reaction changing.",
+     "file": "Natural Intelligence"
+    },
+    {
+     "section": "Opening",
+     "kind": "explaining",
+     "text": "A spectral pair's middle line is a between of two changing directions, a quantum taken and a quantum given, and a 0–0 band or a chemical shift is that between met through its two sides.",
+     "file": "Natural Intelligence"
+    }
+   ]
+  },
+  {
+   "from": "- *Differential rotational test, 2021/22:* Obs: the 3₀₃–2₁₂ line of (R)- and (S)",
+   "finding": "Number dropped: part 09 also gives the CHFClBr fraction as 2.5×10⁻¹³ (Satterthwaite et al.'s quote) beside 2×10⁻¹³. The calculated differences are now said 'not yet observed directly'.",
+   "fixed": {
+    "section": "2.3 A parity-violating lean, and a bounding-zeroing refusing to sit",
+    "kind": "exploring",
+    "sentence": "Difference is calculated and unmeasured, far below any detection reached so far, and a field's own crux is whether amplification acts on a bias that small over available timescales.",
+    "text": "CHFClBr's two hands, their C–F stretch compared by laser spectroscopy, stand within about 8 Hz of each other, a fraction near 2×10⁻¹³, also quoted 2.5×10⁻¹³; the two hands of 1,2-propanediol, at a rotational line near 14.717 GHz, agree within 0.08 ± 0.72 Hz, a fraction near 9.7×10⁻¹¹. Not yet observed directly, by calculation: about 2.4 mHz for CHFClBr, a fraction near 8×10⁻¹⁷, and shifts near 10⁻¹⁹ for light molecules and near 10⁻¹⁵ with heavy atoms near the stereocentre. Parity violation is observed in atoms."
+   }
+  },
+  {
+   "from": "- **Observing that bears on it:** the first ionization energy of lawrencium, abo",
+   "finding": "'Is read as a weakly bound 7p electron' is an interpretation, now said 'not yet observed directly'.",
+   "fixed": {
+    "section": "4.3 Periodic table an address book, address and behaviour two",
+    "kind": "exploring",
+    "sentence": "Both candidates have a d-differentiating electron and measurement stands and selects nothing, so fixing a cut among elements is a field's drawing, and elements sit with their configurations, deciding nothing and complete (Exhibit TWENTY-TWO 10.23).",
+    "text": "Lawrencium's first ionization energy, about 4.96 eV, is measured on roughly a thousand atoms, and its one value is read for each of group three's two placements. Not yet observed directly: a weakly bound 7p electron, and no 6d one, as that value's ground."
+   }
+  },
+  {
+   "from": "- **[OBS→MOD] Filling order versus ionization order.**",
+   "finding": "'No one path gone back along' is part 02's inference (the Sc case 'not reversed symmetrically'), said as an observing; the 4s/3d energy ordering (4s below 3d in K and Ca, 3d below 4s from Sc on) dropped; the n+ℓ rule is a reconstruction from observed configurations.",
+   "fixed": [
+    {
+     "section": "4.3 Periodic table an address book, address and behaviour two",
+     "kind": "exploring",
+     "sentence": "Electron configuration is another address-form, and no real address stands over the first.",
+     "text": "Scandium is [Ar]3d¹4s², and ionizing it removes a 4s electron first. The n+ℓ filling order fits observed ground-state configurations with 19 or 20 exceptions, the count by source, each configuration a leading label over a mixture of configurations. Not yet observed directly: 4s lying below 3d in potassium and calcium and 3d below 4s from scandium on."
+    },
+    {
+     "section": "4.3 Periodic table an address book, address and behaviour two",
+     "kind": "explaining",
+     "text": "The order of building up across elements, 4s before 3d as proton number rises, and the order of stripping within one atom, 4s first, are two orders, each its own, and the n+ℓ order is a reconstruction from observed configurations."
+    }
+   ]
+  },
+  {
+   "from": "- **Measured superheavy chemistry reaches Z = 115 (2024).**",
+   "finding": "Numbers and meaning altered: of 14 nihonium atoms 'most deposited on quartz; one reached gold', not all; the adsorption enthalpies are derived by modelling (68% c.i. dropped); 'a single surface binding fits at neither' inverts part 02's 'cannot fit both zones with a single homogeneous surface: ≥60 kJ/mol fits the warm zone, 30 kJ/mol the cold one', and those numbers dropped; the alternation 'with subshell closing' is 'a reconstruction from observing (relative adsorption) joined to a model'.",
+   "fixed": {
+    "section": "4.3 Periodic table an address book, address and behaviour two",
+    "kind": "exploring",
+    "sentence": "Irregular configurations and group trends that do not run straight down a group are table's hardest observings, and they stay within table.",
+    "text": "Atom by atom, counted by their decays at their deposition zones, of 14 nihonium atoms all but one deposit on quartz, the one reaching gold, and 4 moscovium atoms deposit on quartz; of 8 flerovium atoms none deposit on quartz, five on gold at room temperature at mercury's zone and three on ice at about −121 to −136 °C at radon's zone. Not yet observed directly, by modelling: adsorption enthalpies on quartz near 58 kJ/mol for nihonium and 54 kJ/mol for moscovium, at 68% confidence, and for flerovium one homogeneous surface fitting its two zones only at two bindings, 60 kJ/mol and above at the warm zone and 30 kJ/mol at the cold. Reactivity measured by relative adsorption alternates: copernicium less than nihonium, nihonium more than flerovium, flerovium less than moscovium; not yet observed directly: that alternating going with subshell closing."
+   }
+  },
+  {
+   "from": "- Database-scale tests:",
+   "finding": "Number dropped: alloys' learned model at ~93%; 'the electrostatic valence rule fails most' dropped. 'Each rule's exceptions stand outside its calibrating set' is a key-point inference made stronger ('or' alternatives made all) and drops 'under counting conventions that can be redrawn'. The tubular boranes and the reversed explanation of the term ordering are computed (2003 theory; quantum Monte Carlo), said not yet observed directly. Pauling's, Goldschmidt's, Hume-Rothery's, Hund's and Wade's names re-said by what each names.",
+   "fixed": [
+    {
+     "section": "1.6 Carbon the stable form, the element the number and the chemistry the coupling",
+     "kind": "exploring",
+     "sentence": "Octet rule describes many main-group valence structures and stands as no universal rule of bonding: electron-deficient compounds, expanded valence descriptions, radicals and transition-metal chemistry have other numbers.",
+     "text": "Each classical rule goes with its own number: of about 5,000 oxides, 13% satisfy the second to fifth rules of ionic crystal structure together, the electrostatic valence rule failing the most, and the first rule fits 66% of environments; the perovskite tolerance factor is 74% accurate on 576 ABX₃ compounds, 83% for oxides, 51% chlorides, 56% bromides and 33% iodides, a fitted descriptor 92%; the atomic-size criteria for alloy solid solutions are necessary and short of sufficient, a learned model reaching about 93%. The term ordering of the rule of greatest spin multiplicity, high spin lying lower, stands in spectra. Not yet observed directly: its explanation reversed by calculation, electron–nucleus attraction stronger with electron–electron repulsion rising; and the n+1 skeletal electron-pair count holding at tubular B₁₇H₁₇²⁻, B₂₂H₂₂²⁻ and B₂₇H₂₇²⁻, its textbook orbital derivation judged misleading."
+    },
+    {
+     "section": "1.6 Carbon the stable form, the element the number and the chemistry the coupling",
+     "kind": "explaining",
+     "text": "A rule's observing goes on while its explaining moves, and a rule's exceptions stand outside its calibrating set, at heavy atoms, excited or open-shell states and transient species, at near-degenerate levels with small gaps, or under counting conventions that can be redrawn."
+    }
+   ]
+  },
+  {
+   "from": "- Every scale examined combines three parts: a probe's measured response, an anc",
+   "finding": "Coulson's name re-said by what it names, and 'not 1.5' (two definitions parting) dropped. The absolute hydrogen-electrode potential and electronegativity scales are constructs, now said not yet observed directly.",
+   "fixed": {
+    "section": "6.1 Three nothings a field declares, and a partition the instrument's own coupling",
+    "kind": "exploring",
+    "sentence": "**A method-relative quantity is real and competent within a domain it states**, and that stronger alternative stands open with a field side.",
+    "text": "Each scale a field writes joins a probe's measured response, an anchoring convention and a model carrying the number elsewhere: pKa, acidity functions, nucleophilicity parameters, one dye's band. Water's pKa is 14 in water and 32 in DMSO. Electron density and dipole moments are observables. Not yet observed directly: electronegativity, a dozen or more scales, boron alone 1.90 to 2.275 in Pauling-like units, one scale ranking neon highest; benzene's bond order, 5/3 from π orbital coefficients and not 1.5, two definitions parting; lattice energies, single-electrode potentials and average bond energies, reconstructions or conventions; the absolute hydrogen-electrode potential, 4.44 ± 0.02 V at 25 °C, with extra-thermodynamic assumptions; and a single ion's activity."
+   }
+  },
+  {
+   "from": "### B13. Was the 2003 Möbius hydrocarbon aromatic?",
+   "finding": "A better sentence to meet: the concern bears on 3.1's 'Heilbronner predicting it and Herges making it', not on the bold heading sentence. Both index readings are reconstructions and simulation of one X-ray structure (part 13), now said not yet observed directly; the porphyrinoids' NMR specifics are [unverified]. 'Hückel and Möbius forms' name things by persons, re-said as untwisted and once-twisted forms.",
+   "fixed": {
+    "section": "3.1 Benzene a floating-neutral competency centreline",
+    "kind": "exploring",
+    "sentence": "A π system with a single sign flip along its ring, a Möbius strip of orbitals, is aromatic with `4n` and antiaromatic with `4n + 2`, Heilbronner predicting it and Herges making it, so ring's parity and ring's twist change and change back together, and an even count of parity-flips returning against an odd advance stands with a field's own molecule.",
+    "text": "A concern, two sayings parting, each carried by one X-ray structure of a singly twisted 4n π annulene. Not yet observed directly, one side: that structure moderately aromatic, at a harmonic-oscillator index of 0.35. Not yet observed directly, its other side: that structure with strong bond alternation, the index at −0.02 and a shielding of −3.4 ppm, twisted and non-aromatic, strain blocking π overlap. Beside them, by a field's account, twisted porphyrinoids switch between untwisted and once-twisted forms in a 28π system."
+   }
+  },
+  {
+   "from": "### 6. Is the hydrated excess proton Eigen-like or Zundel-like? (three accounts,",
+   "finding": "The proton passing in under 100 fs is part 12's 2D IR 'read as' a double-minimum potential (OBS + REC), said as an observing; the limiting forms and fluctuating range are models and a 2026 simulation. Conditions (about 1–4 M HCl, 298 K) and the broad coupled continua dropped. Eigen and Zundel name things by persons, re-said by what they name (the quoted sentence keeps its words).",
+   "fixed": {
+    "section": "3.2 A charge going through water with no thing travelling, and a proton an emanation",
+    "kind": "exploring",
+    "sentence": "A charge going through water floats one same way, and H⁺ within water stands with every between as hydronium ion and Eigen and Zundel cations, a hydrogen bi-coupling cluster sharing excess charge.",
+    "text": "In bulk aqueous acid, about 1–4 M HCl at 298 K, a hydrated excess proton's classes are cut on its proton-sharing coordinate near 0.2 Å, a hydronium with three waters, H₉O₄⁺, at one limit and a proton shared between two waters, H₅O₂⁺, at the other; its infrared continua are broad, anharmonic and coupled, its structures interconverting in about 100 fs to 1 ps. Not yet observed directly: the excess proton passing between two waters in under 100 fs, its position's memory lost, inferred from two-dimensional infrared spectra; and the two limits two idealised forms of one fluctuating, asymmetric range, its computed spectrum reproducing the measured spectrum across its full range, the two accounts parting at what to name its dominant form."
+   }
+  },
+  {
+   "from": "**B19. When does the ice surface premelt?**",
+   "finding": "The amorphous surface layer is a reconstruction from AFM with machine-learning structure assignment (verification pass), now said not yet observed directly; the dependence on vapour supersaturation and contamination, and vacuum-grown films apart from bulk crystals at their vapour, dropped.",
+   "fixed": {
+    "section": "4.2 Water's two liquids a sway a field fixes to a point, and a glass with rate and history",
+    "kind": "exploring",
+    "sentence": "Solid, liquid and gas are field states whose stability depends on pressure, temperature and composition.",
+    "text": "Ice's surface disorders below its melting, its onset placed across a wide range below 0 °C by method: the top bilayers disordering one at a time far below 0 °C by sum-frequency spectroscopy, droplets and thin layers appearing above about −2 °C by optical microscopy, disorder near 120 K on films grown in vacuum by atomic-force imaging, and surface disorder imaged at atomic resolution below the melting point. Each method has its own order parameter, disordered and liquid-like are two, and results go with contamination and vapour supersaturation. Not yet observed directly: the imaged surface layer as amorphous ice."
+   }
+  },
+  {
+   "from": "Across chemistry, the order of events is directly observed only where a clock, a",
+   "finding": "Stronger than its source: part 08 key point 8 has the intermediates ordered along a delay 'a fitted model' and read-outs turning a physical order into symbols 'with a decoding model in between'; both dropped. 'Edman' names a method by a person, re-said by what it does. The model-assigned orders now said not yet observed directly.",
+   "fixed": {
+    "section": "6.3 Half of a competency standing at Natural Engineering",
+    "kind": "exploring",
+    "sentence": "**With Natural Engineering, side-effecting recursioning of floating neutral**, sensing, a self observing abundancing and going on with it; with natural energy engine, phase-sequencing, three-then-progress, each step bringing its prior parity forward, a field measuring chemical heat and dissipation and abundancing a relation renewing through sequence.",
+    "text": "Chemistry observes an order of events at a clock, a cycle counter or a separation axis going with its observing: a signal against a delay, cycles each removing a chain's end residue, elution times, PCR cycles, single-molecule traces, a template's position n before n + 1; a read-out turns a physical order into symbols with a decoding model between. Not yet observed directly, each other order a model assigns: the intermediates ordered along a delay; a mechanism's elementary steps, a step elementary at no intermediate detected; a rate-controlling step, moving with concentrations; an intrinsic reaction coordinate, a computed steepest-descent path apart from any trajectory; one transition state branching to two products; and the steps under steady-state and pre-equilibrium approximations, one rate-law form for enzymes. A synthesis is planned backward and made forward."
+   }
+  },
+  {
+   "from": "**B5. Ostwald's step rule: law or tendency**",
+   "finding": "Ostwald's name re-said (the rule of stages). The re-saying carried observings inside a living sentence; they go as an exploring beside it. γ-Al₂O₃ more stable than α-Al₂O₃ at high surface area (part 16 B5, [obs]) dropped.",
+   "fixed": [
+    {
+     "section": "4.7 Titration, following a tipping beside observing a level",
+     "kind": "incohering",
+     "sentence": "Nucleation is the plainest of them: supersaturation is a level and nucleus a parity, and Ostwald's rule of stages has the nearest form before the lowest, metastable forming first with its own rate.",
+     "text": "Nucleation is the plainest of them: supersaturation is a level and nucleus a parity, and the rule of stages is a field's tendency, a metastable form or the lowest form forming first, each with its own rate."
+    },
+    {
+     "section": "4.7 Titration, following a tipping beside observing a level",
+     "kind": "exploring",
+     "sentence": "Nucleation is the plainest of them: supersaturation is a level and nucleus a parity, and Ostwald's rule of stages has the nearest form before the lowest, metastable forming first with its own rate.",
+     "text": "Calcium carbonate's forms stand on a calorimetric staircase, amorphous above vaterite, above aragonite, above calcite, and in one solution, by liquid-cell electron microscopy, calcite, vaterite and aragonite each form directly and through the amorphous form; γ-alumina is more stable than α-alumina at high surface area."
+    }
+   ]
+  },
+  {
+   "from": "- **Paired rules.** Markovnikov/anti-Markovnikov, Zaitsev/Hofmann, Hammond/anti-",
+   "finding": "A reading, now an explaining. 'A field's own words for a parity at a between' is added: the front has the paired rules 'two sides of one condition, not a podal', and part 04 has the selecting condition belonging inside each rule's criterion. Markovnikov, Zaitsev, Hofmann, Hammond, Bowen and Goldich name things by persons, re-said by what each names.",
+   "fixed": {
+    "section": "2.1 Three reaction pairings, one-way-at-a-time coupling and no six that closes",
+    "kind": "explaining",
+    "text": "Chemistry's paired rules, hydrogen added to the carbon with more hydrogens or to the one with fewer, elimination giving the more or the less substituted alkene, a transition state shifting toward the side nearer it in energy or away from it, and allowed and forbidden, are each one class of mechanism with two opposite outcomes and a condition selecting one, the condition belonging within each rule's criterion: two sides of one condition, and no pair about a centre. Beside them, a field's account, said from memory and unchecked: a melt's crystallizing order of minerals and their weathering order at the surface go near-opposite over one mineral set, a forming order and a dissolving order."
+   }
+  },
+  {
+   "from": "Natural Intelligence · incoming · v392chem",
+   "finding": "A value lost: the front's species pattern, its first named addition and the one bridge it offers from chemistry's kinds to Natural Intelligence's society ('A same-existing-society is many selves bi-coupling'), is held nowhere; it coheres and is gathered, said by no one. The leaving otherwise stands.",
+   "fixed": [
+    {
+     "from": "Natural Intelligence · incoming · v392chem",
+     "why": "record: the front is the ended survey's synthesis, its proposals, short list, aim map, tension list, checks and plans leaving; tested against its parts and the verification pass, its claims holding are gathered as patterns here, and four part from their parts: force observed reaching forbidden pericyclic paths and calculated inverting them, B- and Z-DNA a diastereomeric pair Natural Chemistry 2.2 names no mirror pair, a prize leaving beside an amplification observed, and degree-of-rate-control sums its own part gives two ways; git keeps it"
+    },
+    {
+     "section": "1.1 Chemistry the co-discovering side at the matter substrate, its selves same-existing-societies and its same-existing-societies selves",
+     "kind": "explaining",
+     "text": "A chemical species, its membership set by a field's criterion with the experiment's own timescale written in, is a same-existing-society, and so a self, only where its members bi-couple: a hydrogen-bond network, a crystal lattice and a micelle; a dilute solute whose molecules meet no other is a population a field declares."
+    }
+   ]
+  },
+  {
+   "from": "# Nonequilibrium and flow-driven chemistry: concepts, driven systems, observings",
+   "finding": "A value lost: part 11 B4a/B4b, ranked fifth of the front's nine binaries and bearing on the ghost 'single catalytic stroke', is a concern with observings on both sides, held nowhere; gathered with both sides, the model fits and calculation not yet observed directly. The leaving otherwise stands.",
+   "fixed": [
+    {
+     "from": "# Nonequilibrium and flow-driven chemistry: concepts, driven systems, observings",
+     "why": "source and disputes over entropy-production principles and conjectures; the fuelled rotor and broken detailed balance gathered at 5.5"
+    },
+    {
+     "section": "6.4 Living, emanation, ghost and accounting, chemistry's terms at three placings",
+     "kind": "exploring",
+     "sentence": "particle as little owner; element's interior; equilibrium as rest; entropy as content; single native state; single catalytic stroke; a turn a field installs among elements",
+     "text": "A concern, two sayings parting, each carried by observings. One side: a chemically driven motor's direction, stopping force and greatest efficiency go with free-energy drops between its mechanical states, a power stroke; F1's ATP binding, about 10 kcal/mol, goes with an 80–90° substep, its single-molecule acceleration and deceleration phases parting from rotational diffusion, and myosin V shows a power stroke and then a constrained diffusive search. Its other side: direction and stopping force go with kinetic asymmetry alone, the relative barrier heights of chemical steps in different mechanical states, and two synthetic molecules with no designed power stroke turn with net direction under fuel at ensemble level. Not yet observed directly: fits to kinesin back-stepping data at q⁻¹ = 221 with 2.9 nm and q⁻¹ = 802 with 3.7 nm, for the second side; and, for the first, about 10 k_BT stored elastically at about 1.3° of bending or 2.3% strain, near thermal fluctuation, a steric push in an elastic one's place. Both sides fit one coarse single-molecule record, each with its own criterion for a power stroke, and light-driven and externally modulated motors go with a power stroke on both."
+    }
+   ]
+  }
+ ],
+ "checked": 47
+}
