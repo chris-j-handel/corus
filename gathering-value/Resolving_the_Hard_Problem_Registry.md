@@ -270,6 +270,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 5.1 The explanatory gap · 179
 
+- **A reading** · A reading has a me of one prime scale, a description and an experience one thing at that scale.
+
 ### 5.2 Qualia and the zombie argument · 111
 
 ### 5.3 Sleep · 91

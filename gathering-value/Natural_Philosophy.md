@@ -94,6 +94,8 @@ Gathering-Value · Natural Philosophy
 
 ### 3.13 The whole and its parts
 
+- **Possible incohering** · "Self-scale is same-existing-society-scale, with nothing more going across between them, and a whole no self orders, observing it from within fixing, is a loss where it is form." → A concern parting at this sentence: self-scale same-existing-society-scale, one form with two scales, and a me of one prime living scale.
+
 ### 3.14 Other minds
 
 ### 3.15 Identity and change

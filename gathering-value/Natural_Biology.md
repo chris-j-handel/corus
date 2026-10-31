@@ -406,6 +406,7 @@ Gathering-Value · Natural Biology
 
 - **A reading** · A working's reading beside *Decay is couplings dissolving, one at a time, while members stand.*: a society's ceasing, as an offering of stopping, releasing and a self's next momentary reaches it, is still-possibling, and living's defining is still-possibling.
 - **Possible incohering** · "Decay is couplings dissolving, one at a time, while members stand." → Two sayings part at *releasing*: this file had it as decay, now said as couplings dissolving, and a newer saying has releasing as uncoupling and a self's next momentarying, with a same-existing-society's ceasing at its own co-chaining. Two re-sayings offered: decay as a same-existing-society's couplings ceasing while its members uncouple into next, or releasing kept as decay.
+- **Possible incohering** · "A same-existing-society is a self with its own grain, and it comes to its bound as a self does: where coupling among its members no longer comes round again." → A concern parting at this sentence, and at 1.3's *Whatever stands with a self stands with a same-existing-society it is, and with a same-existing-society it is a member of.*: a same-existing-society is unconsciously us, its mes each a me, and these have a same-existing-society a self with its own grain.
 
 ### 7.5 Decay — an ending the grain below ingests
 
@@ -491,6 +492,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · A dividing bacterium's old pole goes with one daughter, and that daughter's line ages. — at "a same-existing-society tunnels itself to two same-existing-societies"
 - **A reading** · A reading has a dividing cell's prior same-existing in one daughter or in none, each now from many priors.
 - **Possible exploring** · A cloned cat is a brown tabby and white shorthair while her genome donor is a calico longhair: one genome, two coat patterns. — at "One same genome stands everywhere within body, any standing returnable, one code and one motor across all of life, and cell-from-cell unbroken since the first: partings among a body's cells are standings of one living self and not other selves, and returnability, cloning and induced pluripotency within a field's own record, is standing showing it is a standing."
+- **Possible incohering** · "One same genome stands everywhere within body, any standing returnable, one code and one motor across all of life, and cell-from-cell unbroken since the first: partings among a body's cells are standings of one living self and not other selves, and returnability, cloning and induced pluripotency within a field's own record, is standing showing it is a standing." → A concern parting at this sentence: 5.2 has *each cell its own living self, and an organism one self with each of its cells*, and this sentence has partings among a body's cells standings of one living self and not other selves.
 
 ### 10.1 Cohering, and possibling
 
@@ -507,6 +509,7 @@ Gathering-Value · Natural Biology
 
 - **Possible incohering** · "The prime-ladder of holds-still — cholesterol (11), chaperone (13), histone (17), lysosome (19), gap junction (23), extracellular matrix (29), sphincter (31), sleep (37), dormancy (41) — the "holding still" at successive primes across substrates." → Two sayings part at what a prime names: this ladder has a place in a sequence of named things, and a prime at a same-existing-society is a number of selves bi-coupling in it. No sentence here numbers the selves at a rung from 11 to 41, where other sections number selves: two strands, three chains of collagen, each bird of a flock with its seven nearest. Two re-sayings offered: each rung a same-existing-society at one of fourteen prime living scales, its selves numbered, or this ladder released.
 - **Possible incohering** · "The prime-ladder of holds-still — cholesterol (11), chaperone (13), histone (17), lysosome (19), gap junction (23), extracellular matrix (29), sphincter (31), sleep (37), dormancy (41) — the "holding still" at successive primes across substrates." → Two re-sayings offered at *holds-still*: *fixed-still*, as Natural Naming 2.4 says *hold* by *fixing*, the rung concern's quote refreshed with it; or kept until the rung concern resolves.
+- **A reading** · A reading has this prime-ladder of holds-still, sleep at 37 and dormancy at 41, beside the me's ladder of prime scales, its 23 a centre-fold beside the fold at 24.
 
 ### 10.5 Forming that remains
 

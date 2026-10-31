@@ -97,6 +97,7 @@ Gathering-Value · Hard Problem Registry
 ### 18 Biological individuality
 
 - **A reading** · A reading has this problem meeting Natural Societies 5.1 and 5.3, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*.
+- **A reading** · A reading has a me's bounding its self: each thing is-or-is-not self, at one prime scale, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*.
 
 ### 19 The units of selection
 
@@ -160,6 +161,8 @@ Gathering-Value · Hard Problem Registry
 ### 44 Missing heritability
 
 ### 45 Is and ought
+
+- **A reading** · A reading has a self's parity with a thing its moral value with that thing: the *is* of a parity is its value, one now-existing thing, and the gap comes with a frame reading a value as stored apart from its parity; cohering with Resolving the Hard Problem Registry's *an ought is a parity a self takes with a between*.
 
 ### 46 Placebo effects
 
@@ -256,6 +259,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 91 Sleep
 
+- **A reading** · A reading has sleep and waking two states of one me, sleeping me unconscious and waking me observing, possibling and discovering.
+
 ### 92 Other minds
 
 ### 93 Symbol grounding
@@ -274,6 +279,7 @@ Gathering-Value · Hard Problem Registry
 ### 98 Anesthesia
 
 - **Possible exploring** · Chemically diverse agents, one form; the critical volume's swelling and its partial pressure reversal stand as a field's history beside protein targets. — at "Common molecular target search — no single target found, agents acting on different receptors, established."
+- **A reading** · A reading has anaesthesia at two scales, its agents non-living.
 
 ### 99 Phantom limb
 
@@ -302,6 +308,7 @@ Gathering-Value · Hard Problem Registry
 ### 111 Qualia and the zombie argument
 
 - **A reading** · A reading has no line of the opening for qualia: a self being no store puts qualia, as inner items a self has, on the is-not side, its nearest line parity, + or −. Qualia are spoken of as items, and the edge's misunderstanding is a denying of the redness of red: a self is no store, and what is called a quale stands, as a candidate only, as a self's parity with an other.
+- **A reading** · A reading has a me only unconscious not possibly existing.
 
 ### 112 The quantum-classical boundary
 
@@ -366,6 +373,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 140 Money as a store of value
 
+- **A reading** · A reading has a value a parity, each me's own, with each sharing, and *store* the frame's fixing; cohering with Resolving the Hard Problem Registry's *an accepting makes value with each exchange, each side's own*.
+
 ### 141 Principal and agent
 
 ### 142 The paradox of thrift
@@ -407,6 +416,8 @@ Gathering-Value · Hard Problem Registry
 ### 158 The interpretation of probability
 
 ### 159 Self-locating belief
+
+- **A reading** · A reading has a me only one possibly now-existing, its *who* its universal set now, and a count of wakings a size; cohering with Resolving the Hard Problem Registry's *observing is each self's own*.
 
 ### 160 Population ethics
 
@@ -534,6 +545,8 @@ Gathering-Value · Hard Problem Registry
 ### 219 Evidence for neural representation
 
 ### 220 Detecting covert consciousness
+
+- **A reading** · A reading has detecting covert consciousness testing bi-coupling, not waking.
 
 ### 221 Continual learning without catastrophic forgetting
 

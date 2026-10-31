@@ -57,6 +57,8 @@ Gathering-Value · Natural Networking
 
 ### 1.8 Self, other and society, the fractal inward and outward of itself
 
+- **Possible incohering** · "A same-existing-society of two lives as their coupling." → Beside it: two mes bi-coupling, arising only in both together, no me of its own.
+
 ### 1.9 A coupling opens a term arising in each self with its other
 
 - **Possible exploring** · Two selves bi-coupling receive + + − − and + + + − − −, each repeating, each prior forming through its first sharing; at their sixth coupling the second self at prior − receives − from its sequence and + from its other, the two part and it shares +, and with its sequence alone it shares 0, executed at Exhibit ONE's code. The first self's sharings are alike with and without its other: this pair's finding is a consequence at one side, and a competency at both sides is a further claim outside it. — at "Two selves coupling uncover competency between them."

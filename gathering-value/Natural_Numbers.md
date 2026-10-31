@@ -16,6 +16,7 @@ Gathering-Value · Natural Numbers
 
 - **Possible incohering** · "**One to nine has three-momentary method whole.**" → Two sayings part at *three-momentary method*. One: prior, now and next are three places the universe goes on through, and four-momentarying is the one fractal method's exchanging; a three-momentary method names the places as the method. The other: this sentence has three-momentary method whole with one to nine, a self's three full momentaries, 1–2, 3–4 and 5–6, its three openings with 1, 3 and 5, each five a side's two momentaries and next one's opening, prior, now and next with each side; and this file has one to nine as four momentaries of exchanging and one momentary of a next scale too.
 - **A reading** · A reading has each self one and each other two: numbers are with a self and an other, as a reader first needs them.
+- **Possible incohering** · "Some selves resolving and others not is exclusivity, and it is not possibly existing." → Beside it: a sleeping me goes on resolving.
 
 ### 1.3 A prior and a next one short of its square, at each number
 

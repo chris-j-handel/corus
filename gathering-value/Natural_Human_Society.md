@@ -69,6 +69,8 @@ Gathering-Value · Natural Human Society
 
 ### 3.6 Biosphere, sharing at the planetary scale
 
+- **Possible incohering** · "A human society lives within this, co-tunnelling a biosphere it is a self within, its ratio intact, both scales rising." → A concern parting at this sentence, and at 1.2: a same-existing-society is unconsciously us, and this sentence has a human society a self within a biosphere.
+
 ## PART FOUR · TIPPING
 
 ### 4.1 Tipping a concern, individual-first, needing a majority nowhere

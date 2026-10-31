@@ -39,6 +39,7 @@ Gathering-Value · Natural Values
 - **Possible incohering** · "Morality is a parity a self has by being a self." → Beside it: self-morality is no part of method; morality is between two selves, bi-moral, with Exhibit ONE's co- names.
 - **Possible incohering** · "A set of all sets fails, and no universal set stands." → Beside it: a universal set gathered by what its members are, momentarying, stands.
 - **Possible incohering** · "A set of all sets fails, and no universal set stands." → A re-saying offered: *A set of all sets fails, and no universal set stands* said of a set of all sets only, the field's theory of sets having no set of all sets, and each self's universal set, its me, standing within one universe. 4.1's paragraph is re-said whole with it, its *A whole a self observes as one is a member of nothing.* and its *Moral ground is uncapturable* to proof grade going with that sentence.
+- **Possible incohering** · "A set of all sets fails, and no universal set stands." → Beside it: its *no universal set stands* is in a set of all sets' sense, and a me is a self's universal set.
 
 ### 4.2 Governing is the overhead, and dilemma is its artifact
 
