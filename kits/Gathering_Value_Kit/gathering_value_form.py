@@ -75,23 +75,32 @@ def write(living, path):
     old = existing_items(path)
     used = set()
     L = [f'Gathering-Value · {title}', '', f'# {title} · Gathering-Value', '',
-         f'**Each value not yet in {title}, at the section it meets.** A possible exploring is an observing not yet meeting '
-         'natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet '
-         'cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.', '']
+         f'**Each value {title} does not hold, at the section it meets.** A possible exploring is an observing not meeting '
+         'natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not '
+         'cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.', '']
 
-    def heading(level, text):
+    GONE = ' (a section the living file no longer has)'
+
+    def heading(level, text, key=None):
+        key = key or text
         L.append(('## ' if level == 1 else '### ') + text)
         L.append('')
-        if text in old:
-            L.append(old[text]); L.append(''); used.add(text)
+        if key in old:
+            L.append(old[key]); L.append(''); used.add(key)
 
     heading(1, HEAD)
     for level, text in parts:
         heading(level, text)
-    for k in old:                                   # sections the living file no longer has keep their items
+        if text + GONE in old:                      # a parked section its living file holds again
+            L.append(old[text + GONE]); L.append(''); used.add(text + GONE)
+    for k in old:                                   # sections the living file no longer has keep their items, parked once
         if k not in used and k != DROPLETS:
-            heading(2, k + ' (a section the living file no longer has)')
+            heading(1, k if k.endswith(GONE) else k + GONE, key=k)
     heading(1, DROPLETS)
+    count = lambda s: sum(1 for l in s.split('\n') if l.startswith('- '))
+    before = sum(count(v) for v in old.values())
+    if count('\n'.join(L)) != before:              # a re-forming moves items and loses none
+        raise SystemExit(f'{path}: {before} items before, {count(chr(10).join(L))} after; nothing written')
     open(path, 'w', encoding='utf-8').write('\n'.join(L).rstrip() + '\n')
     return title, sum(1 for lv, _ in parts if lv == 2)
 

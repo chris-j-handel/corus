@@ -5,26 +5,33 @@ Usage: python3 kits/Gathering_Value_Kit/apply_gathered.py LIVING_TITLE GATHERED.
 LIVING_TITLE is the title of the living file the slice belongs to (e.g. "Natural Intelligence"); an item with its own "file" goes to that file.
 Each reading's corrections replace the item or leaving with the same "from"; a correction whose "fixed" has a "kind" becomes an item.
 Each item is checked before anything is written: its file and section exist, and a quoted sentence stands word for word at its living file.
-A failed check stops the whole slice, all or none."""
+An item whose quote stands nowhere word for word becomes a droplet carrying its quote; any other failed check stops the whole slice, all or none."""
 import glob, json, os, re, sys
 
-args = [a for a in sys.argv[1:] if a != '--dry']
+args = [a for a in sys.argv[1:] if a not in ('--dry', '--shared-ok')]
 DRY = '--dry' in sys.argv
 title, gathered, readings = args[0], args[1], args[2:]
 G = json.load(open(gathered))
 items, leaving = G['items'], G.get('leaving', [])
-for r in readings:
-    for c in json.load(open(r)).get('corrections', []):
-        f = c.get('fixed')
-        if f is None:
-            continue
-        items = [i for i in items if i.get('from') != c['from']]
-        leaving = [l for l in leaving if l.get('from') != c['from']]
-        if 'kind' in f:
-            f.setdefault('from', c['from'])
-            items.append(f)
-        else:
-            leaving.append(f | {'from': c['from']})
+entries = {e.get('from') for e in items + leaving}
+corrections = [c for r in readings for c in json.load(open(r)).get('corrections', []) if c.get('fixed') is not None]
+stray = [c for c in corrections if c['from'] not in entries]
+if stray:
+    print(f'  {len(stray)} corrections name no entry of this slice and are added as new items: a reading covering several slices is applied once, to their gathered files joined')
+nfix = lambda c: len(c['fixed']) if isinstance(c['fixed'], list) else 1
+shared = [f for f in {c['from'] for c in corrections}
+          if sum(e.get('from') == f for e in items + leaving) > sum(nfix(c) for c in corrections if c['from'] == f)]
+if shared and '--shared-ok' not in sys.argv:        # a source giving several entries and fewer corrections: a sibling could drop
+    print('NOTHING WRITTEN: fewer corrections than the entries they replace, for these sources; restate each kept sibling in the reading, or pass --shared-ok once checked by hand:')
+    [print('  ', f[:90]) for f in shared]; sys.exit(1)
+for f in {c['from'] for c in corrections}:          # an entry with corrections is replaced by all of them together
+    items = [i for i in items if i.get('from') != f]
+    leaving = [l for l in leaving if l.get('from') != f]
+for c in corrections:
+    for f in (c['fixed'] if isinstance(c['fixed'], list) else [c['fixed']]):   # a correction may give several items
+        f = dict(f)
+        f.setdefault('from', c['from'])
+        (items if 'kind' in f else leaving).append(f)
 
 norm = lambda s: re.sub(r'\s+', ' ', re.sub(r'[*`_\\]', '', s)).strip()
 fname = lambda t: re.sub(r'\s+', '_', t.strip()) + '.md'
@@ -45,22 +52,38 @@ def render(i):
         return f'- **Possible incohering** · "{i["sentence"]}" → {i["text"]}'
     if k == 'exploring':
         return f'- **Possible exploring** · {i["text"]} — at "{i["sentence"]}"'
+    if k in ('explaining', 'reading'):              # there is only observing and explaining
+        return f'- **An explaining** · {i["text"]}'
     hint = i.get('kind_hint')
-    return f'- {i["text"]}' + (f' *(possible {hint})*' if hint in ('exploring', 'incohering') else '')
+    return f'- {i["text"]}' + (f' *(possible {hint})*' if hint in ('exploring', 'incohering') else ' *(an explaining)*' if hint in ('explaining', 'reading') else '')
 
+
+heads_at = {}                                       # each heading, the gathering-value titles holding it
+for gp in glob.glob('gathering-value/*.md'):
+    gt = open(gp, encoding='utf-8').read()
+    gm = re.search(r'^# (.+) · Gathering-Value', gt, re.M)
+    for h in re.findall(r'^#{2,3} (.+)$', gt, re.M):
+        heads_at.setdefault(h.strip(), set()).add(gm.group(1) if gm else '')
 
 errors, by_file = [], {}
 for i in items:
     t = i.get('file') or title
+    if not i.get('file') and i.get('section') in heads_at and t not in heads_at[i['section']] \
+            and len(heads_at[i['section']]) == 1:  # an item naming no file, its section at one other file only
+        t = next(iter(heads_at[i['section']])); i = dict(i, file=t)
+        print(f'  to {t}, its section standing there only: {i.get("from","")[:60]}')
     p = os.path.join('gathering-value', fname(t))
     if not os.path.exists(p):
         errors.append(f'no gathering-value file for {t!r}: {i.get("from","")[:60]}'); continue
-    if i.get('kind') not in ('incohering', 'exploring', 'droplet'):
+    if i.get('kind') not in ('incohering', 'exploring', 'explaining', 'reading', 'droplet'):
         errors.append(f'kind {i.get("kind")!r}: {i.get("from","")[:60]}'); continue
-    if i['kind'] != 'droplet':
+    if i['kind'] in ('incohering', 'exploring'):
         lt = living_text(t)
         if lt is None or norm(i.get('sentence', '')) not in lt:
-            errors.append(f'sentence not at {t} word for word: {i.get("sentence","")[:90]}'); continue
+            # a quote standing nowhere word for word keeps its value as a droplet, its sentence said with it
+            i = {'file': i.get('file'), 'section': 'Droplets', 'kind': 'droplet', 'kind_hint': i['kind'], 'from': i.get('from', ''),
+                 'text': f'{i["text"]} — at *{i.get("sentence","").strip()}*'}
+            print('  as a droplet, its quote standing nowhere word for word:', i['text'][:90])
     by_file.setdefault(p, []).append(i)
 
 for p, its in by_file.items():

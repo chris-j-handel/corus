@@ -1,10 +1,10 @@
-Registry improving kit instructions · current method notice v385A
+Registry improving kit instructions · v393L
 
 # Living File Registry improving kit
 
-[Living File Registry: current file purposes and incoming method](../../carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#gathering-and-aiming-incoming-before-file-cohering--v385a).
+[Living File Registry](../../Exhibit_TWENTY-SIX_Living_File_Registry_v391.md), and its gathering-value at [gathering-value/Living_File_Registry.md](../../gathering-value/Living_File_Registry.md).
 
-The existing programs below were written for older file arrangements and assumptions. Their required report fields, one-carrying-file descriptions, Ready/Concern categories and exclusion of things beside all existing are not the current method. No program is run by opening this kit, and running one is not an incoming or resolving requirement. Comparing and improving these tools for the three-mate arrangement is a possible project at [Possibling of Living File Registry](../../carry/Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a). The script bodies remain as they were.
+The programs below were written for older file arrangements. Their report fields, one-carrying-file descriptions and Ready/Concern categories are not the method now: each living file's value not yet entered is at its gathering-value. No program goes at opening this kit. `carry_check.py` reads the layout now; the other script bodies are as they were.
 
 ## Earlier tool and review descriptions, retained as an object for improving
 
@@ -19,7 +19,7 @@ A check is a coupling partner and no authority: it says its result at its check 
 | Tool | Runs | Says |
 |---|---|---|
 | `arrival_check.py incoming/<folder>` | At an arrival, by its contributor before offering it or by the receiving working. | The arrival's front, from, to, read at, what it brings, standing; the living files and sections its findings name; its sentences seated at the six things beside all things by `rigorize.py`; its scripts run from the root. Decides nothing. |
-| `carry_check.py [root]` | At a session's opening and its close. | The living files at the root and their versions; superseded versions still at the root; each kit's README and whether its sums hold; the carrying's front and each living file's own carrying at `carry/<file>.md`, its next, its ready offerings and its concerns counted, the workings open at the Living File Registry; the incoming not yet received; the archive's count. |
+| `carry_check.py [root]` | At a session's opening and its close. | The living files at the root and their versions; superseded versions still at the root; each kit's README and whether its sums hold; each living file's gathering-value at `gathering-value/<Title>.md`, its possible explorings, possible incoherings, readings and droplets counted, and its sections the living file no longer has; the workings open at the Living File Registry; the incoming; the archive's count. |
 | `check_set.py <folder>` | After improving a living file. | Each file's version line, its contents against its headings, its tables' cell counts, the family words outside quotation (a report), Exhibit ONE inside Natural Intelligence, and the code block running. The newest version of each file is taken. |
 | `cohere_one.py <folder>` | After improving Exhibit ONE at its standalone file. | Writes ONE's body inside Natural Intelligence whole and checks the two are one and the code runs. At v372 it and `check_set.py` read the steady front form (the body after the first `---`) and the carrying of two, a sharing with its sign. |
 | `rigorize.py sayings <naming> [root]` · `rigorize.py beside <file> ...` | At the either/or resolving, before a concern is met and when incoming arrives from a field. | Each bold saying of one naming across the living files, side by side, agreeing one and parting the concern; and each sentence of a file seated at the six things beside all things, a size, a fixed form, a total, a common beat, a keeping and a doer, and at the released words. A seat decides nothing. |
