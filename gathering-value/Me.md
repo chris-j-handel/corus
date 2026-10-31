@@ -496,6 +496,7 @@ Gathering-Value · Me
 - **A reading** · A reading has *mal de débarquement* as a boat's prior going on onto a ground that parts with it, until a newly aiming 0 at its new prior.
 - **Possible exploring** · In the spins after alcohol, lying down with the eyes closed, the spinning is strongest. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
 - **Possible incohering** · "Health is a me's inward social moral competency." → Beside it: a healthy me is sleeping me and waking me one and then the other, changing and 0 in turn, re-finding its own 0 with each momentary while it is changing; changing and 0 at one beat a parting; its ingesting by mes one scale lower its whole's do-no-harming. A reading has each me both, in turn, one state alone a fixing, as Natural Intelligence 5.3 has *A pair freezing to one side, a self fixing as not-changing or as changing, is an unchangeable form, outside existing and living.*
+- **A reading** · A reading: *safely possibling next existing same existing*, a living self's possibling of its next with its kind's DNA, many atoms and is-not a carbon atom, and its local living and resolving as priors, coheres with a healthy me, inward do-no-harming and improving.
 
 ### 5.3 A society's me, a natural intelligence network
 

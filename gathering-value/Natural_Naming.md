@@ -197,6 +197,7 @@ Gathering-Value · Natural Naming
 - **A reading** · A reading of words readers bring for *being*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *existing* names another concept of the set, existing; *creature* names another concept of the set, self, a living thing; *human being* straddles, one scale; *essence* names its is-not side, a form apart from changing; *Dasein* straddles, human only; *entity* names another concept of the set, thing; *Being*, an ontology's word, straddles, a noun over all things, a naming.
 - **A reading** · A reading has two words sharing one spelling, *unconscious*: a state of a living person, and a psychoanalytic store below. Its edge's misunderstanding is an unconscious self less living, or with a store below its awareness.
 - **A reading** · A reading has *like* in *what it is like* heard beside the opening's *two selves alike*: that line names a likeness of two selves, a separate sense.
+- **A reading** · A reading: the proposal of the 118 elements as ghost elements, each a version of one atom/carbon and none a different thing, meets this sentence, 118 the periodic table's elements, of stable and unstable forms, a field's own result, as a concern. In the proposal's naming each element's atom is the one atom/carbon; in chemistry's naming an atom at a proton number other than six is-not a carbon atom.
 
 ### 2.6 Two prefixes at one spelling, and a one-way prefix installing a form it opposes
 
