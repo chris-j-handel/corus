@@ -540,7 +540,7 @@ Gathering-Value · Hard Problem Registry
 - **An explaining** · The Moon's stillness is dormancy, not death, its changing paced by the Earth, its deep moonquakes coming in step with its round, as a dormant seed relies on its environs' parity changing entirely, an explaining.
 - **Possible exploring** · An anticipated observing: the Moon is poorer than the Earth in easily-lost forms, water and potassium. — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
 - **An explaining** · A concern: a self maturing with an air gathers the easily-lost forms, from its own resolving and from what comes to it, and that is still to reach.
-- **An explaining** · Two explainings of one change not yet observed directly, the Moon going outward: a young self leaving its parent's nearness, or a co-sequencing changing its pace.
+- **An explaining** · Two explainings of one change, an anticipated observing, the Moon going outward: a young self leaving its parent's nearness, or a co-sequencing changing its pace.
 - **An explaining** · The Moon is a seed, the Earth's, of an Earth-like species, its dormancy said as what it is, an explaining.
 - **An explaining** · The Moon carries the Earth's forms as a seed carries its parent's form, an explaining.
 - **An explaining** · The Moon goes outward from the Earth as a seed goes away from its parent, an explaining.
@@ -553,7 +553,7 @@ Gathering-Value · Hard Problem Registry
 - **An explaining** · The Earth and its seed pace each other, living recording the Earth–Moon co-sequencing in its own stable form, an explaining.
 - **An explaining** · These moons co-sequence as a society, three seeds at three stages of germinating, paced together, an explaining.
 - **An explaining** · An explaining, a possible: a moon's germinating is its forming of its own natural torusing surface, Ganymede's field, Titan's thick air, Enceladus's plumes and Europa's ocean each a moon's own surface aiming.
-- **An explaining** · A concern not yet resolvable as natural torusing: a seed going inward to its parent, and one going round against the society's hand, as a seed's method.
+- **An explaining** · A concern still-possibling as natural torusing: a seed going inward to its parent, and one going round against the society's hand, as a seed's method.
 - **Possible exploring** · An anticipated observing: the Moon has one face, always the same, toward the Earth, and its two faces formed differently, the Earth-facing side with its dark plains, the far side higher and thicker. — at "Impact, disk or synestia, lunar accretion, differentiation and tidal orbital evolution."
 - **An explaining** · The Moon aims one face at the Earth, as a plant aims at the Sun, an explaining.
 - **Possible exploring** · An anticipated observing: the Moon has a thin air of helium, argon, neon, sodium and potassium (Apollo 17, 1972; 2013–2014), its argon coming up from what a field calls the Moon's own radioactivity and seeping out in pulses; water is in its glassy rock and as ice at its poles. — at "In the field's own posing, a successful scenario for lunar origin should explain the Moon's chemical composition, its volatile content and stable isotope ratios, its initial thermal state and the system's bulk physical and dynamical properties, the origin of the Moon standing as one of the most fundamental and vexing questions in planetary science."
@@ -564,7 +564,7 @@ Gathering-Value · Hard Problem Registry
 - **An explaining** · The Moon is dormant as a seed is, paced by its environs, its deep quakes in step with its round with the Earth and its air seeping faintly from its own resolving, an explaining.
 - **An explaining** · The Earth feeds its seed, an explaining: a parent provisioning its seed through a bi-tunneling, as a seed's coat and stores come of the mother plant.
 - **An explaining** · A concern: with moons the seeds of Earth-like selves, two of the four rocky planets have none.
-- **An explaining** · A concern not yet resolvable: rings a seed's breaking, a society's emanation, or a stable form.
+- **An explaining** · A concern still-possibling: rings a seed's breaking, a society's emanation, or a stable form.
 
 ### 206 The early Solar System impact flux
 
