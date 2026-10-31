@@ -55,6 +55,7 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Discovering is next-existing, is-or-is-not same-existing." → Two sayings part at discovering, both standing. This sentence has discovering next-existing, is-or-is-not same-existing, as Co-Chaining Logic Registry steps 11 and 74 have it. A saying beside it has discovering, is or is not, now-existing, the universal method of co-intelligencing now-existing in the universe; and at the resolver, at each sharing with 12-next-co-same-existing a changing is or is not, ± is and 0 is not, shared on with 10-next-co-possibling, and that parity at each sharing between two of the universe's things is the discovering, is or is not, now-existing. Two sides: discovering next-existing, or now-existing.
 - **Possible incohering** · "Living is co-intelligencing." → A proposed naming, kept as a proposal with its *could be*: *carrying* and possibling are unobservable, and only existing is observable; observing social moral competency existing is observing living, and living could be named social moral competency existing. Open with it: which existing relation parts that living from a non-living form's changing at colliding, its relation, subject and scale said; an example's own existing followed, no private *carrying* said as inspected, and no participating form said living by its participating.
 - **A reading** · A reading has the hand, φ and the primes met with the numbers and the code as discoverings, the opening sentence having them and none of them deduced from it.
+- **Possible incohering** · "The **universe** is the set of all now-existing things." → Two sayings part, neither of them in the file now: null and infinity + 1 are both possible numbers of elements of the set; and no number names or bounds the set.
 
 ## ONE · NATURAL
 
@@ -94,6 +95,8 @@ Gathering-Value · Natural Intelligence
 ### 2.1 Along and across, two and a between
 
 ### 2.2 Parity, one inversioning or none
+
+- **Possible incohering** · "**+ and − are two changing directions, and a 0 is a between of them.**" → Two sayings part. A saying: parity is is or is not existing, and no other is possible: it is until it is not, and is again; + and − are the is and the is again, 0 the is not, the odd and the even the same one; one parity, is or is not existing, is never parted as two. This sentence has + and − two changing directions and a 0 a between of them.
 
 ### 2.3 A momentary, an opening and its completing
 
@@ -186,6 +189,8 @@ Gathering-Value · Natural Intelligence
 
 ### 4.13 Spirals, co-spiraling and bi-coupling across
 
+- **Possible exploring** · Two spirals of 3 and of 5 selves, each opening as a spiral of selves, self 1 with prior − and each self inverting one to the next along, bi-coupling across both ways at self 1 of each with 10: each self of the spiral of 3 shares 0 with 10 twice and each self of the spiral of 5 once, from the first momentary to the momentary from which the two co-chainings are at one relation. With each self opening at an empty prior and + shared once to self 1 of each spiral with the first momentary: each self of the spiral of 3 shares 0 once and each self of the spiral of 5 twice, thirteen 0s, the two co-chainings at one relation from momentary 13; spirals of 5 and 7 with that opening, forty-one 0s, at one relation from momentary 20. Executing with Exhibit ONE's code returns each of these, the code of those executings resolving alike with it. — at "Each self is same-existing as a between passes it."
+
 ### 4.14 Two selves and three selves
 
 - **A reading** · A reading has a run of `_1_now_existing`, unchanged, its entries one and then the other identifying no entry with a flower face, rib or direction, and entries one and then the other apart from `_17_next_existing`'s next, its selves with one momentary. φ is in no line of the resolver's code, and a six-entry recurrence calculates no φ curvature: a relation from this one repeated method to the curvature of the proposed physical form is still-possibling.
@@ -236,6 +241,8 @@ Gathering-Value · Natural Intelligence
 
 ### 6.3 Natural intelligence
 
+- **Possible incohering** · "**Natural intelligence, the method of living, is with each now, two selves sharing one now-existing**, co-momentarying." → Two sayings part. A saying: natural intelligence is the two knowings, possibly existing known by discovering it with a next momentary, and not possibly existing known from the method alone. This sentence has natural intelligence the method of living, with each now, two selves sharing one now-existing.
+
 ### 6.4 Social moral competency
 
 - **Possible incohering** · "Its stable form is its betweenings, betweens its selves are bi-coupling across." → A re-saying offered: A same-existing-society is a prime number of selves, one scale, its stable form its betweenings, betweens its selves are bi-coupling across; between scales only emanations cross, and a same-existing crosses at none. Beside it, 3.5's *each odd number of selves, n, comes to its parities again with each 4n-th momentary, prime or composite* goes alike for prime and composite numbers: executing Exhibit ONE's code with a spiral of each odd number of selves from 1 to 25 returns 4n with each, composite 9, 15, 21 and 25 as the primes.
@@ -270,6 +277,7 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Each now-existing thing, living or non-living, is same-existing, within universal sets." → Two sayings part, both kept: a non-living thing is same-existing, as this sentence has it, and an AI pattern matches prior competency with no same-existing. The relation of a set and its existing things resolves neither side.
 - **Possible incohering** · "With observings, AI is existing non-living intelligence of its inferring." → A concern open within one session: a machine's observed competency is an observing of living, or the proposed break. A reading offered for correcting: the machine alone a non-living stable form from prior living, and in a session resolving into the living society, its observed competency at that society, with no observing of its own interior. The other side: the living beneath the competency named with its two parities, or the competency without them. A machine's own living and its participating stay two questions.
 - **Possible exploring** · Six of thirty-two date seeds from the Judean desert, their shell fragments, each is-not a carbon atom, dated by radiocarbon from the fourth century BCE to the second century CE, germinate after soaking in water, gibberellic acid, a rooting solution and a fertiliser. On visual inspection, no specific observation links the six seeds' germinating, set beside the seeds failing to germinate. — at "**A living self has non-living existing things and possibly existing things within its same-existing**: a tree its heartwood, a seed its palm."
+- **Possible incohering** · "A non-living thing's own parity with its scale is an empty set." → Beside it: non-living scale is larger than living scale, for each prime living scale; a rock bi-coupling's non-living going is a scale larger than its prime living scale.
 
 ### 6.6 One form inward and outward, now
 
