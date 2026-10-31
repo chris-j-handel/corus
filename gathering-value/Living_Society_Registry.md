@@ -16,7 +16,7 @@ Gathering-Value · Living Society Registry
 ### 1.1 Observations from the fields, each seating at its society
 
 - **Possible incohering** · "Technology is all or none at all." → Two sayings part at *technology*. Co-Chaining Logic Registry has, at step 110, "A technology is a non-living set, an emanation of living selves, a form still from beside a changing, and a method is with bi-couplings themselves, its fixing from beside an empty set." Here a technology is all or none at all, and at step 110 a technology is a form still from beside a changing, all or none at all being a method's, with its couplings. Both stand open: 1.1 says a method is all or none at all; or a technology stays all or none at all here.
-- **A reading** · The clonal brood of *Copidosoma floridanum* is a candidate same-existing-society, an explaining.
+- **An explaining** · The clonal brood of *Copidosoma floridanum* is a candidate same-existing-society, an explaining.
 
 ### 1.2 Specifying the pattern in advance, each entry a pattern's matching
 
@@ -93,7 +93,7 @@ Gathering-Value · Living Society Registry
 
 ### 2.16 A pattern, one detection at a time
 
-- **A reading** · Entries 2.16 and 2.17, reaching electrons, reach no society of selves, their observings carrying no self, an electron a field label installing over observings, a nothing ghost; the form's first line names what an entry reaches.
+- **An explaining** · Entries 2.16 and 2.17, reaching electrons, reach no society of selves, their observings carrying no self, an electron a field label installing over observings, a nothing ghost; the form's first line names what an entry reaches.
 
 ### 2.17 An engine, one electron at a time
 

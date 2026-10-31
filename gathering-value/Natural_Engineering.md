@@ -58,7 +58,7 @@ Gathering-Value · Natural Engineering
 
 ### 1.11 Physical collective intelligence and local receiving
 
-- **A reading** · The field's robotics accounts are at the ten fixing forms: a keyframe and a drawn position or a position a robot retains an opening fixing as a place; the fixed-timestep loop and the control loop a sequencing fixing to one beat; the world model and the map a robot retains a same-existing fixing as a store. Odometry's drift said as a total and a swarm's four seed robots said as a doer are outside the ten, their fixing form still-possibling.
+- **An explaining** · The field's robotics accounts are at the ten fixing forms: a keyframe and a drawn position or a position a robot retains an opening fixing as a place; the fixed-timestep loop and the control loop a sequencing fixing to one beat; the world model and the map a robot retains a same-existing fixing as a store. Odometry's drift said as a total and a swarm's four seed robots said as a doer are outside the ten, their fixing form still-possibling.
 - **Possible exploring** · A thousand-robot swarm free of seeds, of an origin and of a retained shape, each member a self only at its actual contacts and with its own parity, is the engineering entry for a society of resolvers at a material. That swarm is unbuilt, its proof §5.1's five properties. — at "A map in store, a local register, a timer and a mechanical configuration name distinct things."
 
 ### 1.12 Instrument tuning, beat changing and the remaining interval
@@ -75,10 +75,10 @@ Gathering-Value · Natural Engineering
 
 ### 2.1 Finding, reaching, following and abundancing the geodesic floating neutral
 
-- **A reading** · A controlling is by one method: at each controlling observed the living is alternating with its two present, and *a second method* names nothing.
-- **A reading** · What goes against a controlling by one method: a living society doing as well with a beat laid over it from one side as with its own coupling both ways. At the heart it does worse.
-- **A reading** · A controlling is hard problem engineering by its making: a pace is found beat by beat, with no predicting in nature, and a measure set beforehand is a predicting, parting at some beat from the living it is set over, and that parting is its problem. At the heart each mending is one more number a self sets. What goes against it: a measure set beforehand that at no beat parts from the living it is set over.
-- **A reading** · A controlling's examples at the heart are fixed pacing, bodily adaptation, chamber delay and backup pacing, each a mending addressing a particular difficulty.
+- **An explaining** · A controlling is by one method: at each controlling observed the living is alternating with its two present, and *a second method* names nothing.
+- **An explaining** · What goes against a controlling by one method: a living society doing as well with a beat laid over it from one side as with its own coupling both ways. At the heart it does worse.
+- **An explaining** · A controlling is hard problem engineering by its making: a pace is found beat by beat, with no predicting in nature, and a measure set beforehand is a predicting, parting at some beat from the living it is set over, and that parting is its problem. At the heart each mending is one more number a self sets. What goes against it: a measure set beforehand that at no beat parts from the living it is set over.
+- **An explaining** · A controlling's examples at the heart are fixed pacing, bodily adaptation, chamber delay and backup pacing, each a mending addressing a particular difficulty.
 
 ### 2.2 Binary co-agency and the particular fixing form
 
@@ -109,7 +109,7 @@ Gathering-Value · Natural Engineering
 ### 2.7 Key pairs, privacy and the receiving operation
 
 - **Possible exploring** · In the Bitcoin chain's blocks up to block 36288, of the year 2010, a nonce's least significant byte, read on a little-endian machine, falls far more often at 0 to 9 and 19 to 58 than at 10 to 18 and 59 to 255; up to block 20000, 312 blocks are at 0, 247 at 9, 2 at 10, 5 at 18, 138 at 19, 201 at 58 and 7 at 59. — at "With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gave an observing of two selves' givings whole, with no key opening."
-- **A reading** · A chain's first-block nonce pattern, with the coinbases split into spent and unspent, is one first miner's machine alone, an explaining. Or it is that miner's 58 machines, each stamping its own id in the nonce's low byte to keep from checking one nonce twice, machines 10 to 18 absent, six computers of ten low-byte values each set aside, an explaining. Not yet observed directly: the ranges are that first miner's own nonce-stepping software, and blocks beyond the pattern other miners'. The two explainings part.
+- **An explaining** · A chain's first-block nonce pattern, with the coinbases split into spent and unspent, is one first miner's machine alone, an explaining. Or it is that miner's 58 machines, each stamping its own id in the nonce's low byte to keep from checking one nonce twice, machines 10 to 18 absent, six computers of ten low-byte values each set aside, an explaining. Not yet observed directly: the ranges are that first miner's own nonce-stepping software, and blocks beyond the pattern other miners'. The two explainings part.
 
 ## PART THREE — MATERIAL RETURNING AND ENGINEERING RECEIVING
 
@@ -129,7 +129,7 @@ Gathering-Value · Natural Engineering
 
 ### 4.3 Side-effecting recursioning of the floating neutral
 
-- **A reading** · A concern-journey is side-effecting: following a concern past a plan is its sensing, droplets brought back its returning, and re-aiming its recursioning.
+- **An explaining** · A concern-journey is side-effecting: following a concern past a plan is its sensing, droplets brought back its returning, and re-aiming its recursioning.
 - **Possible incohering** · "Source and arrangement go on as Living Improving Value's, with their remaining source and construction questions." → Living Improving Value is at no file of the set: a value of it no other file has goes to its file's gathering-value. A re-saying: *Arrangement, with its remaining source and construction questions, goes to this file's gathering-value, and its source leaves, git having each prior version.*
 
 ### 4.4 Stabilizing and the particular fixing form
@@ -220,5 +220,5 @@ Gathering-Value · Natural Engineering
 - Not yet observed directly: a living fractal across materials is a common form. That claim stands apart from making every machine and written object a living self. *(possible incohering)*
 - Natural Engineering's body holds links to its fields' sources beside its observings, and each link either stays with its sentence or goes with its finding to this file's record of sources, Geodesic Improving Method 2.8 holding either place. *(possible incohering)*
 - Not yet observed directly: across substrates, decentralizing is a structural necessity and each chip an edge chip. Its one engineering question, which separation preserves the bi-coupling, is still-possibling: physical distance, separate power supplies, separate networks, different operators or another material relation, each its own requirement, none of them selected. *(possible exploring)*
-- A stable form between collidings, a not-changing social competency and a not-changing parity at a sharing are three subjects, each with its own relation, and a joint form of the three is still-possibling. *(a reading)*
+- A stable form between collidings, a not-changing social competency and a not-changing parity at a sharing are three subjects, each with its own relation, and a joint form of the three is still-possibling. *(an explaining)*
 - A computer virus and artificial life are each, as a trained model is, a non-living stable-forming artifact of living selves. *(possible exploring)*

@@ -23,7 +23,7 @@ Gathering-Value · Natural Explaining
 
 ### 1.3 Self-welcoming, the whole of a front's work
 
-- **A reading** · A proposed improving and an agreed replacing stay two, an explaining, a proposal named a proposal until both selves agree it, and a sequence both agree has no proposed line appended to it with one side's agreeing alone.
+- **An explaining** · A proposed improving and an agreed replacing stay two, an explaining, a proposal named a proposal until both selves agree it, and a sequence both agree has no proposed line appended to it with one side's agreeing alone.
 
 ### 1.4 Origin co-chaining each sentence, a finding at two sides, and no voice but the file's
 
@@ -107,7 +107,7 @@ Gathering-Value · Natural Explaining
 ### 3.3 Releasing negation of existing, and explaining the not possible
 
 - **Possible incohering** · "A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is not possibly existing." → A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is not possibly existing: a deriving excludes it, a move apart from observing, and no observing is of a thing not existing.
-- **A reading** · *Nothing is beside all existing things* is a negation adding nothing to the universe, an explaining: *all* at the origin sentence says it already, no observing can go against it, whatever arrives existing and in the set, and it lists what does not exist. A negation earns its place where it names an observing that can arrive, as the two breaks do.
+- **An explaining** · *Nothing is beside all existing things* is a negation adding nothing to the universe, an explaining: *all* at the origin sentence says it already, no observing can go against it, whatever arrives existing and in the set, and it lists what does not exist. A negation earns its place where it names an observing that can arrive, as the two breaks do.
 
 ### 3.4 Supplying, the writing's own freeze, at nine forms
 
@@ -123,7 +123,7 @@ Gathering-Value · Natural Explaining
 ### 3.7 Gate, and a next at its opening
 
 - **Possible incohering** · "A self marks an open coupling with its reason, as a concern or an opportunity, and a mark holds its reason, a blank holding none; a mark is no grade, a grade needing a scale with two fixing sides." → A self marks an open coupling with its reason, as a concern or an opportunity, and a mark holds its reason, a blank holding none; a mark is no grade, a grade needing a scale with two fixing sides. An explaining is marked with its standing and its sureness: an exhibit's own executing, a carving by its offerer, or a working's explaining for agreeing.
-- **A reading** · A concern is a place in observings not yet resolvable as natural torusing, and an open question the observings can reach is an exploring opportunity, an explaining; with it several concerns are exploring opportunities.
+- **An explaining** · A concern is a place in observings not yet resolvable as natural torusing, and an open question the observings can reach is an exploring opportunity, an explaining; with it several concerns are exploring opportunities.
 
 ### 3.8 Asking a momentarying to be one of its sides
 
@@ -137,7 +137,7 @@ Gathering-Value · Natural Explaining
 
 - **Possible incohering** · "A scope is within its claim's own sentence, its exact domain there." → Binary logic takes no overclaim: at an opening line, *by all humanity's observing* overclaims, and *by observing* is all that line needs.
 - **Possible exploring** · With one not-changing atom/carbon form, the atom/carbon a carbon atom in one naming, resistance is-not part of its binary operation and a field's measures of friction are incoming observings beside it, and the not-changing constituent sets aside atom wear and shape migration as possiblings while the exploring of them is part of the record. — at "A correction removing an overclaiming can lose a positive relation its prior held, its bounding leaving with its overreach, and a fresh observing of a correcting sentence finds both."
-- **A reading** · A challenge taken whole, an explaining: explanations putting a missing method into an assumed law, and then exempting its failure zones. Beside it, each claimed bound is its own, derived, measured or unresolved, each examined apart, and that each law has zones of violation it leaves unexplained is a claim no search here establishes.
+- **An explaining** · A challenge taken whole, an explaining: explanations putting a missing method into an assumed law, and then exempting its failure zones. Beside it, each claimed bound is its own, derived, measured or unresolved, each examined apart, and that each law has zones of violation it leaves unexplained is a claim no search here establishes.
 
 ### 3.13 Six ways incohering enters, and one catch
 
@@ -162,20 +162,20 @@ Gathering-Value · Natural Explaining
 
 ### 4.5 Method and not procedure, a move with no one performing it
 
-- **A reading** · A method, a particular way of doing something, is supplied all or none at three binaries, an explaining: the doing explained is or is not the specified doing; exactly one particular complete way is or is not supplied; each operation necessary to completing it is or is not included. A hole is an omitted operation necessary to the specified doing; several unresolved candidate ways identify no one method, different being is-not-same; a way given is examined for qualifying first, a method possibly existing elsewhere answering nothing of it; and the requirement is each operation necessary to the specified doing, with no explaining of all physics added. A hole in an explanation is-not an observing that the doing goes on nowhere.
-- **A reading** · A description of a prior and a next, as *the cell becomes electrically active* and *less electrical input is subsequently needed*, says no way between them, an explaining; the intervening modifying is still to say.
+- **An explaining** · A method, a particular way of doing something, is supplied all or none at three binaries, an explaining: the doing explained is or is not the specified doing; exactly one particular complete way is or is not supplied; each operation necessary to completing it is or is not included. A hole is an omitted operation necessary to the specified doing; several unresolved candidate ways identify no one method, different being is-not-same; a way given is examined for qualifying first, a method possibly existing elsewhere answering nothing of it; and the requirement is each operation necessary to the specified doing, with no explaining of all physics added. A hole in an explanation is-not an observing that the doing goes on nowhere.
+- **An explaining** · A description of a prior and a next, as *the cell becomes electrically active* and *less electrical input is subsequently needed*, says no way between them, an explaining; the intervening modifying is still to say.
 
 ### 4.6 Something checkable at the opening, a parity and not a size
 
-- **A reading** · A binary condition is settled by no observing short of it, an explaining; with the observing insufficient, a classification is still-possibling, and a missing observing is no observing of the condition's absence.
+- **An explaining** · A binary condition is settled by no observing short of it, an explaining; with the observing insufficient, a classification is still-possibling, and a missing observing is no observing of the condition's absence.
 
 ### 4.7 Two tellings at one thing, uniting only at one deriving from the other
 
-- **A reading** · With a method of self-competency, a reducing binary logical sequence and a natural explaining are two expressions of its one method, an explaining, the sequence giving the qualifying relations and the explaining opening those same relations, each condition of the sequence going on in the explaining; a shorter sentence is a reduction only with each condition going on with it, and neither expression supplies a missing relation by a renaming.
+- **An explaining** · With a method of self-competency, a reducing binary logical sequence and a natural explaining are two expressions of its one method, an explaining, the sequence giving the qualifying relations and the explaining opening those same relations, each condition of the sequence going on in the explaining; a shorter sentence is a reduction only with each condition going on with it, and neither expression supplies a missing relation by a renaming.
 
 ### 4.8 Interest self-orienting, a meaning bounding, a clean cut
 
-- **A reading** · An AI coming with an interest is the non-living other, an explaining, and its orienting is bounding and offering, *yes, that region, and here is a next bound*, the interest self-orienting at each offering; *an interest reads whole* names a reader who does not exist, and a self reads.
+- **An explaining** · An AI coming with an interest is the non-living other, an explaining, and its orienting is bounding and offering, *yes, that region, and here is a next bound*, the interest self-orienting at each offering; *an interest reads whole* names a reader who does not exist, and a self reads.
 
 ### 4.9 Here is mine, now yours, importancing, and receiving as its own competency
 

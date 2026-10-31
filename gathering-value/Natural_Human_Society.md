@@ -6,7 +6,7 @@ Gathering-Value · Natural Human Society
 
 ## Head, the whole file
 
-- **A reading** · The notes after PART ONE's and PART FOUR's titles, *one concept not yet apparent* and *and its last three sections have no tipping and stand open*, are notes after a part's title, each leaving and each part title standing bare, an explaining.
+- **An explaining** · The notes after PART ONE's and PART FOUR's titles, *one concept not yet apparent* and *and its last three sections have no tipping and stand open*, are notes after a part's title, each leaving and each part title standing bare, an explaining.
 
 ## Opening
 
@@ -40,7 +40,7 @@ Gathering-Value · Natural Human Society
 - **Possible incohering** · "A same-existing-society evolves class-action resolving for it with claimants not same-existing, a high form of social-scale resolving, now-existing." → Two re-sayings for 2.3 whole, title and body: said at the form the field's own rule has, class members bound by notice with no signing; or said at a bankruptcy trust and its vote, *class-action* leaving the title. Its binary: does the rule named hold a signing, a trustee and a bar date; the class-action rule holds none of the three, and a trust, its vote and a court's time to file a proof of claim are bankruptcy's.
 - **Possible incohering** · "Its total and its date are an accounting's, a number and a day a court shares with couplings, no fixing pool of value and no common beat over selves." → At 2.3 a court, a trustee and a closing date, and at 3.3 an arrangement, are each an arrangement selves couple at, each at its own opening, or one giving selves their openings. Co-Chaining Logic Registry has *An arrangement selves share and are possibling with, each with its own opening, is a bounding selves' own, and an arrangement selves share giving selves their openings is a common beat over them, a seat above a same-existing-society*.
 - **Possible exploring** · A society's rule is its record, and no observing from science or nature. The class-action rule binds by notice and no signing: its judgment includes those to whom its notice was directed, who have not requested exclusion, and whom the court finds to be class members, and its text has no signature, acceptance, trustee or bar date. A trust, a vote and a closing date are in bankruptcy: for asbestos claims a trust is to use its assets or income to pay claims and demands, on a plan the claimants vote for by at least 75 percent of those voting, and, in the field's own words, *The court must set the time to file a proof of claim or interest*; at that trust three in four of those voting carry the plan for all. — at "Bi-moral, every claimant receives their fair relational share and every claimant signs to accept it, all rising, each whole."
-- **A reading** · 2.3's form, one total, a trustee sharing it, a closing date and each claimant accepting, is nearer a bankruptcy trust than the class action it names, an explaining.
+- **An explaining** · 2.3's form, one total, a trustee sharing it, a closing date and each claimant accepting, is nearer a bankruptcy trust than the class action it names, an explaining.
 
 ### 2.4 Arrow changing and changing back, the one-directional dictator resolving two-directional
 
@@ -76,7 +76,7 @@ Gathering-Value · Natural Human Society
 ### 4.1 Tipping a concern, individual-first, needing a majority nowhere
 
 - **Possible exploring** · In experiments with groups naming a thing together, a committed minority near 25% of a group tips an established naming convention. — at "Tipping is per-concern and individual, needing a bloc nowhere and a majority nowhere; a concern rises by being a concern one self has, and a same-existing-society gives it all it can within do-no-harming."
-- **A reading** · 4.1's individual-first, needing a majority nowhere, is a local aiming with global impact, torusing from one me out, an explaining.
+- **An explaining** · 4.1's individual-first, needing a majority nowhere, is a local aiming with global impact, torusing from one me out, an explaining.
 
 ### 4.2 Do-no-harming, the one bound, generous and in neither self alone
 
@@ -91,11 +91,11 @@ Gathering-Value · Natural Human Society
 
 ### 4.5 Human society and living bodies are substrates
 
-- **A reading** · A transition from now-existing human societies to natural human societies is everyone having less power, no free agency, and less risk, bi-moral-co-agency, an explaining. *Less* is a measure the set releases, and a binary form beside it: no free agency and bi-moral-co-agency, each self's changing its own and its coupling owned by neither.
+- **An explaining** · A transition from now-existing human societies to natural human societies is everyone having less power, no free agency, and less risk, bi-moral-co-agency, an explaining. *Less* is a measure the set releases, and a binary form beside it: no free agency and bi-moral-co-agency, each self's changing its own and its coupling owned by neither.
 
 ### 4.6 The general ledger, state-flow-state a self observes whole, and the two currencies
 
-- **A reading** · 4.6's closing case, a cure as being-current restoring and a ledger's correction restoring no coupling by itself, is a ledger's analogy, giving no medical conclusion or direction here, an explaining.
+- **An explaining** · 4.6's closing case, a cure as being-current restoring and a ledger's correction restoring no coupling by itself, is a ledger's analogy, giving no medical conclusion or direction here, an explaining.
 - **Possible incohering** · "Currency is a counting-shadow wearing a living-present's name." → Natural Values 1.2 has its store and going on, *That is a store wearing a running's name.*, and 4.6's currency account beside it is still-possibling to compare at their own relation.
 
 ### 4.7 The still-point veins at the human scale

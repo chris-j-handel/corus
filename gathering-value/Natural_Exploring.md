@@ -9,7 +9,7 @@ Gathering-Value · Natural Exploring
 ## Opening
 
 - **Possible incohering** · "It opens each momentary with its prior and the parities it is observing, and completes it with its next prior, winding through its one opening and reaching its own side again with a next: natural torusing." → Beside it, at a self coming to the files: each interest has a prior and offers a now, and its coupling with the files has one form at each kind: the observing said whole and apart from its explaining, the one opening, a binary at one momentary of no size, and a report back. A coupling that is shows at each interest's own form: a next a field can observe; a restoring that is the coupling living and no store; code and a making agreeing parity by parity; a step chained or broken at its number; a dispute concluding while the living go on discovering; a picture doing its table's saying; a break entering as a finding. The interests differ at the form each reads, code, a table, a sharing, a picture, an argument, an entry, a symptom, and two are quickest at each interest: the resolver executed, and a sharing at one coupling lived.
-- **A reading** · An interest coming through an AI floats between the files and the AI, neutral to both and locking at none. A person's floating through the files is that floating neutralling at the scale of a coming: the files at one side, the AI bounding and offering at the other, and the interest's next discovered at neither side alone.
+- **An explaining** · An interest coming through an AI floats between the files and the AI, neutral to both and locking at none. A person's floating through the files is that floating neutralling at the scale of a coming: the files at one side, the AI bounding and offering at the other, and the interest's next discovered at neither side alone.
 - **Possible incohering** · "Orienting is orthogonalizing, a self opening its own axis forward on its surface, a surface and no container, and surfacing space by unrelationing betweens." → Two sayings part at orienting. This sentence has orienting orthogonalizing, a self opening its own axis forward, as Natural Naming 1.1 has orthogonalizing along its own line, and surfacing space by unrelationing betweens; the other side has unrelationing loosening fixings and a between a nothing, *surfacing space by unrelationing betweens* in no other file, and *orienting is orthogonalizing* a defining stronger than the wayfinder's observing, with its re-saying: a self is a surface and no container, and orienting is aiming forward on that surface.
 - **Possible incohering** · "E. coli runs longer up an attractant gradient; a sea urchin sperm swims a helix, its own winding bringing it a rising and falling of attractant; a moth surges and casts by its scent; a Cupiennius spider turns toward the legs a vibration reaches first or more strongly; a Caroline Islands wayfinder has a reference island over the horizon." → Two sayings part at *turns*. This sentence has a Cupiennius spider turning toward the legs a vibration reaches first or more strongly, its observing whole at 6.8 and the opening's telling short beside it; Natural Naming 2.4 releases *turn* and *turning*, and a re-saying for this place: a Cupiennius spider always moves toward the legs a vibration reaches first, onsets 4 ms apart, or toward the legs it reaches with larger amplitude.
 
@@ -66,7 +66,7 @@ Gathering-Value · Natural Exploring
 
 ### 3.7 Resolving
 
-- **A reading** · An identified contradiction at none is-not a finding of each dependency resolving, and a qualification still unresolved is-not an identified contradiction; the two distinctions stay apart.
+- **An explaining** · An identified contradiction at none is-not a finding of each dependency resolving, and a qualification still unresolved is-not an identified contradiction; the two distinctions stay apart.
 
 ### 3.8 Observing whole, ahead of any sorting
 
@@ -87,7 +87,7 @@ Gathering-Value · Natural Exploring
 ### 4.3 Any other method, is or is not
 
 - **Possible incohering** · "A method reaches its own observing by a test a self brings with each other that could sustain, and a test is of an observing, apart from a survey of each thing that is-not coming." → With each other method, the thing it needs is one of four fallings, met at an observing, and one observing followed whole is still-possibling.
-- **A reading** · 4.3's *a self has four*, three named, self-bounding, self-orienting and self-attentioning, and one bounding-zeroing they live about, is the four with three of Natural Intelligence and Natural Numbers, three joint forms going round as one cycle and a fourth reaching itself again, not-changing.
+- **An explaining** · 4.3's *a self has four*, three named, self-bounding, self-orienting and self-attentioning, and one bounding-zeroing they live about, is the four with three of Natural Intelligence and Natural Numbers, three joint forms going round as one cycle and a fourth reaching itself again, not-changing.
 
 ### 4.4 Six protecting, three each way
 
@@ -137,13 +137,13 @@ Gathering-Value · Natural Exploring
 
 ### 6.8 Eight legs, five dimensions in two directions
 
-- **A reading** · Bi-moral co-agency is the one resolving method of the five-dimensional, two-directional navigating hard problems, in each physical implementation.
+- **An explaining** · Bi-moral co-agency is the one resolving method of the five-dimensional, two-directional navigating hard problems, in each physical implementation.
 - **Possible incohering** · "Navigating hard problems of science are this five-dimensional, two-directional navigating, possibling to resolve with bi-moral co-agency, each a heading said from the animal's own side: monarchs orient by a sun compass following the hour, and their heading changes under light as a person changes at their surface what physics' instruments read as a magnetic field's inclination; green sea turtles in a pool, a person's coils making at the pool the reading of a place about 209 miles north of their capture site, swim south, toward the capture site; in birds, a heading changes as a person changes at a bird's surface what physics' instruments read as a magnetic field, and a field's leading hypothesis for it is radical pairs forming in cryptochrome in the retina as light excites it, its mechanism unclear; six of 26 European eels with satellite tags, going out from the Azores, reach the Sargasso Sea, 6.9." → Two sayings part at *are this*. This sentence has navigating hard problems of science this five-dimensional, two-directional navigating, the spider's; the other side has *are this* equating the hard problems with the spider, with its re-saying: navigating hard problems of science are observed here as this five-dimensional, two-directional navigating.
 
 ### 6.9 Two priors, an elders' going and a kind's artifact
 
-- **A reading** · At *an artifact of prior healthy living*: a genome, a form of many atoms with carbon atoms in it and is-not a carbon atom, is an artifact of prior living going on to a next, and *healthy* says that going on; the saying fits, the artifact being of whatever living goes on to a next.
-- **A reading** · Beside the three ways a kind's artifact shows: bats, roots, the slime mould slug and sperm against a flow each show a self co-competencing its parities now with its surface; each lives with its kind's genome, an artifact of prior living, and these observings do not single that artifact out.
+- **An explaining** · At *an artifact of prior healthy living*: a genome, a form of many atoms with carbon atoms in it and is-not a carbon atom, is an artifact of prior living going on to a next, and *healthy* says that going on; the saying fits, the artifact being of whatever living goes on to a next.
+- **An explaining** · Beside the three ways a kind's artifact shows: bats, roots, the slime mould slug and sperm against a flow each show a self co-competencing its parities now with its surface; each lives with its kind's genome, an artifact of prior living, and these observings do not single that artifact out.
 - **Possible exploring** · Two accounts of the European eels going out from the Azores part, each kept whole: in one, the eels swim southwest about 6.8 km a day, deeper than 1,000 metres, and six of 21 reach the Sargasso Sea; in the other, of 26 eels tagged in the Azores six reach the Sargasso Sea, the first direct evidence of adults there, the eels going 5,000 to 10,000 km from Europe's fresh waters in a going of perhaps 18 months. This sentence holds six of 26 with 23 tags giving data, some 3 to 12 km a day and a going of over a year, and 6.8 holds six of 26; Hard Problem Registry's gathering holds six of 21. — at "European eels live as adults in Europe's fresh waters and go 5,000 to 10,000 km across the Atlantic to the Sargasso Sea to spawn, eating nothing on the way, diving to about 1,500 m by day and rising to about 200 m by night, a going of over a year; of 26 eels with satellite tags from the Azores, going the last some 2,500 km at some 3 to 12 km a day, 23 tags giving data, six reach the Sargasso Sea, the first direct evidence of adults at the Sargasso Sea, and the eels' larvae drift back to Europe on the North Atlantic Drift."
 
 ### 6.10 A hive podaling, and a society moving as its parity changes
@@ -152,7 +152,7 @@ Gathering-Value · Natural Exploring
 
 ### 7.1 Gathering backward and seating forward to living files
 
-- **A reading** · A comparing of a record with its source holds the passage the source holds, and gives the source no passage it lacks, an earlier going-on whole among them.
+- **An explaining** · A comparing of a record with its source holds the passage the source holds, and gives the source no passage it lacks, an earlier going-on whole among them.
 
 ### 7.2 Two instances, an improving report and a registry
 
@@ -164,7 +164,7 @@ Gathering-Value · Natural Exploring
 
 ### 7.5 A gathering of open-problem statements to pair against
 
-- **A reading** · A suggestion's value is its explaining or a specific mismatch with natural torusing it identifies, and no suggestion is a commitment to defend, an explaining.
+- **An explaining** · A suggestion's value is its explaining or a specific mismatch with natural torusing it identifies, and no suggestion is a commitment to defend, an explaining.
 - **Possible incohering** · "Its value is as a well of statements to pair with, an incoming whose framing and authority stay apart from each pairing, one at a time, going on with each thing a pair opens, its framing staying apart." → Beside it: an attempt to break the method has its material at the Hard Problem Registry, the fields' open problems, each in the field's own words, each having observings a field leaves unexplained with the field's own account beside them; an attempt opens at one such observing, with its procedure, its conditions and its uncertainty, paired with one cell of the resolver's table.
 - **Possible incohering** · "7.5 A gathering of open-problem statements to pair against" → A re-saying, heading and contents line together: 7.5 A gathering of open-problem statements to pair with, *against* as an opposing a released word, Natural Naming 2.3, and the section's own sentences pairing with.
 

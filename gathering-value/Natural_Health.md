@@ -17,13 +17,13 @@ Gathering-Value · Natural Health
 ### 2.1 The living state is dual parallel floating neutrals in swaying co-sequencing
 
 - **Possible exploring** · Not yet observed directly: a healthy heart's beat-to-beat variation fades with age and before death, and living societies, lakes and yeast, recover ever more slowly before a collapse, "critical slowing down". — at "A healthy living self is a self whose floating neutrals sway freely, with no landing point."
-- **A reading** · Each is torusing slowing before it is lost, an explaining.
-- **A reading** · Slow thinning and local giving-way are bothboth, and dying, fast or slow, is loss of natural torusing, an explaining.
+- **An explaining** · Each is torusing slowing before it is lost, an explaining.
+- **An explaining** · Slow thinning and local giving-way are bothboth, and dying, fast or slow, is loss of natural torusing, an explaining.
 - **Possible exploring** · Not yet observed directly: the chance of dying doubles about every eight years of adult life, yet each death has its local moment; and a dead cell's surface lets dye straight through. — at "A healthy living self is a self whose floating neutrals sway freely, with no landing point."
 
 ### 2.2 The target is the compaction, and health has its own strongest edging
 
-- **A reading** · The orthogonality binary returns no setpoint, an explaining: for each change it returns whether that change goes on with a body's same-existing.
+- **An explaining** · The orthogonality binary returns no setpoint, an explaining: for each change it returns whether that change goes on with a body's same-existing.
 - **Possible exploring** · Not yet observed directly: a field's own names stand near a living sway, homeorhesis naming dynamical systems returning to a trajectory, beside those going to one state, and allostasis glossed as remaining stable by being variable. — at "Health-as-a-setpoint — an optimal range, a normal value, a number to reach and fix — is **compaction**: pressing two swaying floating neutrals to a landing point, an extreme localizing, one same incompetencing move a diagnosis warns against."
 - **Possible incohering** · "Health-as-a-setpoint — an optimal range, a normal value, a number to reach and fix — is **compaction**: pressing two swaying floating neutrals to a landing point, an extreme localizing, one same incompetencing move a diagnosis warns against." → One binary is with each sentence of Natural Health readable as guidance, this one and 3.4's "a skin, a plant, a seed, is a most valuable ingestion with either rate" among them: it cites an observing beside it, or it concludes about a person from a step or a numeral, nature having no guidance for a person. Re-sayings, beside an observing with its conditions: the sentence at a step co-chaining, or an unsure named at the observing it waits on; or the sentence released from the file with its reason.
 
@@ -35,15 +35,15 @@ Gathering-Value · Natural Health
 
 ### 3.3 Ingestion and ingression are opposite in morality, and the between is rate-and-return
 
-- **A reading** · One same thing is orthogonal or crossing by its way of coupling with a society's same-existing alone, as a peanut eaten and a peanut through damaged skin part, an explaining.
-- **A reading** · Allergy's first coupling stands still-possibling between two explainings: a first coupling through damaged skin sets the direction a new observing takes into a me's priors, or a me lacks the orthogonal directions it needs at that first coupling.
-- **A reading** · A living self's own stable-forming and going on stand apart from a non-living artifact of its own scale, an artifact of living's bi-tri-involutioning in stable form, and a living outward self's going on is its inward selves' co-chaining. A local break of a co-chaining is one observing and an outward self's dying is its own observing; one inward self's going on, or a local next parity, and an outward self's going on living are each observed at its own self.
+- **An explaining** · One same thing is orthogonal or crossing by its way of coupling with a society's same-existing alone, as a peanut eaten and a peanut through damaged skin part, an explaining.
+- **An explaining** · Allergy's first coupling stands still-possibling between two explainings: a first coupling through damaged skin sets the direction a new observing takes into a me's priors, or a me lacks the orthogonal directions it needs at that first coupling.
+- **An explaining** · A living self's own stable-forming and going on stand apart from a non-living artifact of its own scale, an artifact of living's bi-tri-involutioning in stable form, and a living outward self's going on is its inward selves' co-chaining. A local break of a co-chaining is one observing and an outward self's dying is its own observing; one inward self's going on, or a local next parity, and an outward self's going on living are each observed at its own self.
 - **Possible incohering** · "Ingression is a larger ingressing a smaller, one-way, an overwhelm, a disease-direction." → Beside it, two explainings: ingressing as meeting a body through its surface at its own scale and ingesting as going along its gut, its tunnel, one scale inward, a body a torus; and a living self's stable-forming reaching a non-living artifact of its own scale, momentary by momentary, possibly breaking its living going on: same scale is an outward self's, and larger to smaller its inward selves'. The two explainings part with 3.3 at ingressing's scale, and which co-chaining breaks at a next reaching is still-possibling. Re-sayings: 3.3 re-said with same scale at an outward self and larger to smaller at its inward selves; or 3.3 as it stands, which co-chaining breaks at a next reaching still-possibling.
 
 ### 3.4 The flaw-ingestion disease-form, and the value of the outer living form
 
 - **Possible incohering** · "Ingest a form with a flaw once and its attentioning dissolves it with its next; ingest it consistently and its flaw seats within its going on, its being-current going on with it, its coupling deranging neither by capture nor by overwhelm but by a diet of bi-exchange with a flaw on its supply side." → This sentence parts one ingesting of a form with a flaw from ingestings repeated by a release at a bound, and reaches to a food as a cause; Exhibit ONE's resolving now, with an offering repeated, gives no such cause. Exhibit ONE's code, executing, returns: a prior receiving its own parity at each of 1000 momentaries goes on at that parity, with no bound; a parting received once inverts it, and a next sharing of its earlier parity inverts it again; one same other parity received at each momentary inverts it once and then agrees with it, and a parting received at each momentary, the parity other than its own each time, inverts it at each momentary. Re-sayings: 3.4's once-and-consistently re-said at Co-Chaining Logic Registry 501 and 502, a living self's bi-coupling landing with one position while its self is changing and changing back with its others, a departure, and a departing bi-coupling discovering its next changing and changing back again, restoring; or the sentence as it stands.
-- **A reading** · At a harm at same-scale colliding, a self's own co-offering unavailable is no necessary condition of that harm; a one-way capture is one particular relation, and a harm from repeated ingesting through a bi-exchange going on stands beside it.
+- **An explaining** · At a harm at same-scale colliding, a self's own co-offering unavailable is no necessary condition of that harm; a one-way capture is one particular relation, and a harm from repeated ingesting through a bi-exchange going on stands beside it.
 
 ### 3.4b The omega counting is from the end where nothing couples across
 
@@ -51,10 +51,10 @@ Gathering-Value · Natural Health
 
 ### 4.1 Health and Medicine are one changing and changing back, two directions, the seam stateable only from both
 
-- **A reading** · A healthy me is its 0s going on and its newly aiming 0s, one and then the other, and sleeping restores the inward same-existing-society that waking folds, an explaining.
+- **An explaining** · A healthy me is its 0s going on and its newly aiming 0s, one and then the other, and sleeping restores the inward same-existing-society that waking folds, an explaining.
 - **Possible incohering** · "Health⇌Medicine is a floating-neutral pair, one coupling with two sides: a sway living and a sway resuming, a living and a restoring — a going on aging by attentioning and staying fresh by sequencing, health where a going on is sequencing and fresh, a departure where it is a 0, not changing, restoration where its sequencing resumes." → *Aging* here is a going on's staleness set against fresh, as Natural Values has "it ages by attentioning", and Natural Naming 2.4 releases *ageing* and *ages* into *next*, only next being, a *next* here inverting this sentence's value; 5.2's attentioning-and-sequencing reaching goes on with that same older doing into living, departing and restoring. Re-sayings: a going on fixing as now by attentioning and fresh by sequencing; or 4.1 and 5.2 re-said at Co-Chaining Logic Registry 501 and 502, a living self's bi-coupling landing with one position while its self is changing and changing back with its others, and a departing bi-coupling discovering its next changing and changing back again, each with no ageing; or *aging* staying as Natural Health's and Natural Values' own.
-- **A reading** · Health is-or-is-not a me resolving with what it goes on with, a boat and its water together, the ground underfoot, and a me parting with what it goes on with is sick, to a new 0's forming.
-- **A reading** · Natural Health 2.1, 2.2 and 4.1 repeat Natural Medicine 2.1 and 5.2.
+- **An explaining** · Health is-or-is-not a me resolving with what it goes on with, a boat and its water together, the ground underfoot, and a me parting with what it goes on with is sick, to a new 0's forming.
+- **An explaining** · Natural Health 2.1, 2.2 and 4.1 repeat Natural Medicine 2.1 and 5.2.
 
 ### 4.2 The measures a self observes as sway, setting the level down
 
