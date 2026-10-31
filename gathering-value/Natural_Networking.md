@@ -103,6 +103,8 @@ Gathering-Value · Natural Networking
 ### 4.6 Podaling the surface selves share, longer and wider together
 
 - **Possible exploring** · A co-chaining's corus momentaries are behind its foremost. Corusing and torusing co-competence forward and backward from that corus and widen at both sides. The corus goes up and down the co-chaining as the co-chaining is stable-forming. Leading and lagging are of sharing and receiving at each self's own momentarying, each self its own pace, a velocity over the selves an empty set. A direction come to again is a further momentary. A co-chaining's corus is a society's own, a society as a self at its next scale, or a further relation. — at "Podaling to corusing and back to torusing, each pair of momentaries co-intelligences a surface."
+- **A reading** · A reading offered beside *Floating around holes is exploring together through remaining surface.*: a prior colliding parity resolves away from a surface unless the colliding is patterning, a self's parity changing going on, and a hole remaining is a society tunneling, as offered. An observed healing is still-possibling.
+- **A reading** · A working's reading beside *Expanding bi-folding grows podaling surface through co-chaining.*: social bi-tunneling joins a local passage, a width across as omega or a possibling span, and a longer co-chaining through global, local and global resolving; across at one scale goes on as along inward; each parity of a moving seam goes at its actual coupling, no separate ordering asked of it; and a greater across still-possibling span and a longer along changing go through one same 1–9 four-momentarying and its bi-foldings.
 
 ### 4.7 Unrelationing at the between, conserving within momentary sequencing
 

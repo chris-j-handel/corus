@@ -34,6 +34,7 @@ Gathering-Value · Equilibria Registry
 ### 2.2 A stability, a form or a relation, and surviving
 
 - **Possible incohering** · "Each conception a self is observing shows not possibly existing." → This sentence parts from 5.5's *Each conception meets a proof by its own requirements.*, 5.1 bounding an excluding with requirements giving its premises: each of sixty-three asks its own requirement, its going on and the momentary the two part at, and a contradiction with one binary names no binary of each entry. This parting says no conception possibly existing and completes no whole excluding. 2.2 is re-said as each conception meeting its own proof, or stands as a whole excluding with each of sixty-three shown.
+- **A reading** · A working's account, its own computing and no file's: among thirty-four computed rows of the conceptions, three are excluded by their own requirements and thirty-one retain the relation under their stated continuing, and twenty-nine rows are not computed. Run beside it: the computing is at no commit of this repository, and no run here returns it.
 
 ### 2.3 One description and one claim at each conception
 

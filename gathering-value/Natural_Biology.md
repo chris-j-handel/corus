@@ -212,6 +212,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · Sunlight fusing neighbouring bases of DNA is sunburn's damage. — at "No perfect reference in store brings form true, but self-correction without pause, going on, riding on error: a self's own 0, not changing, with molecular copy."
 - **A reading** · A reading has DNA's resolving observed by its absence, people born without part of it getting many skin cancers from ordinary sunlight.
 - **A reading** · A reading offered, the proposal's own: the inherited chains are fused, and the short living chains are flexible bump-connecting and exchanging systems of co-intelligencing the living. A concern beside it, with *inherited chains* read as deoxyribonucleic acid, a reading the proposal's words leave open: deoxyribonucleic acid's two strands are not normally one continuous covalent chain across the paired bases, their separating during copying is cutting each strand's backbone at none, the inherited molecule is flexible too, and chain length alone divides molecules into fused inherited chains and flexible short chains at none. Co-intelligencing stands the proposal's reading of coordinated exchange: the observings measure structures, movements, contacts, assembly and separation, and classify those molecular parts as living selves under the proposal's definition at none. Deoxyribonucleic acid and each of its strands are-not carbon atoms, each a chain with carbon atoms in it.
+- **Possible exploring** · The limit stands at 50 ± 10 divisions in a first report and at about fifty to seventy divisions at a publishing; a working reads the two as not parting. — at "Hayflick limit, about fifty to seventy divisions, brackets bounded-infinity prime from both sides, whether replicative threshold and bounded-infinity couple with cell's own membrane standing as a seam."
 
 ### 5.1 Conception — two selves conceiving a third
 
@@ -309,6 +310,8 @@ Gathering-Value · Natural Biology
 
 ### 7.4 A same-existing-society's decay — the members standing while the same-existing-society stops
 
+- **A reading** · A working's reading beside *Decay is couplings dissolving, one at a time, while members stand.*: a society's ceasing, as an offering of stopping, releasing and a self's next momentary reaches it, is still-possibling, and living's defining is still-possibling.
+
 ### 7.5 Decay — an ending the grain below ingests
 
 - **Possible exploring** · In a human feeding study, food proteins hold amino acids labelled with carbon-13, a carbon atom, and blood and muscle sampled show labelled dietary amino acids within newly synthesized muscle protein: dietary carbon goes from ingestion through separation and absorption to joining in body protein, the route needing the dietary protein intact as the body's protein at none. A protein and an amino acid are each is-not a carbon atom. — at "An emanation lives again only with a coupling other than one it left: a grain down, or a self across."
@@ -329,6 +332,7 @@ Gathering-Value · Natural Biology
 ### 7.7 Evacuation, and what accumulates where going across stops
 
 - **Possible exploring** · In rings of heart tissue, a wave circulating past a one-way block goes on after the block has passed, the earlier rhythm unrestored, and it ends at the circuit interrupted or at one shock reaching each cell at once. Old progenitor cells are restored at one circulation shared with a young animal. — at "So restoration is going across resuming, and not accumulation clearing."
+- **A reading** · A working's reading beside *So restoration is going across resuming, and not accumulation clearing.*: a crossing resuming with its inward members undamaged explains no going-on already harmed by colliding in sequence; a local restoring qualifies a claim of non-restoring harm cascading; and a relation between a colliding's ending and a restoring is a further concern.
 
 ### 7.8 Outer living form is the emanation form
 
@@ -491,3 +495,4 @@ Gathering-Value · Natural Biology
 - A living self's going on forming and an existing non-living artifact of its own scale are two, and its inward selves' co-chaining is the outward self's same-existing. A local break of particular co-chainings and a whole outward self's ceasing are two, and one inward self's going on or a local next parity and the outward self's living going on are two. *(possible exploring)*
 - A proposal compares tree rings, roots, coral, hive cells, a placenta, fluid, DNA, parent contributions and a developing self as living shelters with same-existing, each of them is-not a carbon atom; molecular structure, a body's forming and a method of learning stay distinct within that comparing, and the proposal holds carbon sheltering and living with no cause between them. *(possible exploring)*
 - This gathering's retrovirus item says *in human embryos three to four days old some HERV-K sequences are transcribing*; the later saying: a field's transcribing is a text-and-machine story over a cell's living, RNA and proteins forming along a genome as the cell's own stable-forming, and a sequence, an artifact of prior living, transcribes nothing: in human embryos three to four days old RNA forms along some HERV-K sequences. The item is-or-is-not re-said so. *(possible incohering)*
+- A working's reading of colliding in sequence: its relation goes through actual changing couplings and an opposite-next-form comparing; an ordinary uncoupling is no break by itself; one same endpoint follows different sequences; Natural Resolver's published local cases name no society's lost co-chaining; and a colliding's relation to a breaking is still-possibling. An offering beside it: a full forward momentary goes missing and goes on through podaling, the first whole podal exchange the relation to follow, and three formal pair steps are not three full living momentaries. The public across-and-along pairs ask their own relation to the earlier prior-and-now pairs. *(a reading)*
