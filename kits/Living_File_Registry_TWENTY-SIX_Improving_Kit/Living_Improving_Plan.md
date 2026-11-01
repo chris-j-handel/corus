@@ -73,7 +73,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - Natural Exploring 5.5's "leaves an accounting competent with each thing it has" is an incohering, or holds in a reading not seen yet.
 - The other holes and fuzzy places, each explored or still waiting: the inner structure of social moral competency (6.4); fixings, now met at the ten; science's fixings and hard problems (5.4), now met at the ten; the resolver's walk thin across the files; the same closing part in each science file; Natural Values with no centre; observers beside observings.
 - Each placing of the merged table is checked against the files as they stand now, or the first placing stands.
-- The self-competency logic's line on two methods of same-existing leaves, or stays as a concern.
+- The self-competency logic's line on two methods of same-existing: resolving, its two methods being self-parity's two sides, universal-parity and other-parity, one method (gathered value, Part ONE); the line's re-saying waits for that logic's own improving.
 - Which file improves first.
 
 ## The next pass
