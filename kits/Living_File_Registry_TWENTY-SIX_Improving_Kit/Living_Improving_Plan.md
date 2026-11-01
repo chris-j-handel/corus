@@ -42,6 +42,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - The binary of the set is said once, in the files' own words, or stays as each file holds it now.
 - A label for a hole in a co-chaining is needed, or no label; *(next-possibling)* was offered.
 - "Anticipated observing" on about 640 partner-file lines stays, or each line returns to its prior.
+- The three files of this kit (the gathered value, this plan and the merged table data) go from the working branch to main, or wait.
 
 ## Concerns about improving files
 
@@ -54,16 +55,25 @@ Living File Registry improving kit · Living Improving Plan · v394
 - The co-chaining logic waits until every file is at least as good as its prior.
 - The partner-file items said by no one, the label "an explaining", and Natural Chemistry's 34 patterns stay.
 - The changes of 31 October worth keeping go into general droplets: sources, versions and histories leaving the living files, and the Living File Registry carrying each file's subject and standing.
+- Science's and common knowledge's explaining is exactly wrong for each valuable observing: the whole all-or-none claim of the work. Its one misunderstanding: the universe accounted for as an existing thing with no method of existing.
+- Natural Intelligence holds no part yet for the method of a living expedition (explaining, naming, exploring, improving, living files), the large learning for the world, and gains one.
+- Mathematical structures resolve as stable forms of same-existing while prior-, now- and next-existing; human ways and human states and feeling resolve at Natural Intelligence Corus.
 
 **Open:**
 
 - A concept repeated across files finds one home through the merged table, each file keeping its particular, or stays in each file.
 - The merged table lists each section where it belongs with each file keeping its own walk, or files reorder to Natural Intelligence's order.
 - The merged table of contents lives in Natural Intelligence's own file, or apart from it.
-- Each of the four holes is a general explaining Natural Intelligence does not hold, or a section that is no natural value: mathematical structures beyond number and parity; human ways of making meaning; human states and feeling; working practice at the repository.
+- Working practice at the repository (Geodesic Improving Method 2.9, 3.1, 3.3, 4.5; Living File Registry 1.5; Natural Illustrating 9.2) is a general explaining Natural Intelligence does not hold, or a section that is no natural value.
+- The ten living betweens, each named with the resolver's names, hold against the resolver's own sentences, or one of them parts; the completing at 6 and 14 is read first.
+- The new part's floating contents (nine lines, continuing outward from 6.6) is the part's shape, or another shape shows.
+- Natural Explaining's part THREE is said as the ten living betweens, by a droplet waiting at Natural Explaining's gathering-value, or stays as releasings.
+- Natural Exploring 5.5's "leaves an accounting competent with each thing it has" is an incohering, or holds in a reading not seen yet.
+- The other holes and fuzzy places, each explored or still waiting: the inner structure of social moral competency (6.4); fixings, now met at the ten; science's fixings and hard problems (5.4), now met at the ten; the resolver's walk thin across the files; the same closing part in each science file; Natural Values with no centre; observers beside observings.
+- Each placing of the merged table is checked against the files as they stand now, or the first placing stands.
 - The self-competency logic's line on two methods of same-existing leaves, or stays as a concern.
 - Which file improves first.
 
 ## The next pass
 
-Exploring the holes and fuzzy places of the merged table of contents (Part ONE of the gathered value), one at a time, the person aiming each. Two are resolving: mathematical structures, and human ways with human states and feeling at Natural Intelligence Corus. Each resolving also meets the combining of exhibits and their boundaries. Checking each placing against the files as they stand now follows.
+Reading each of the ten living betweens against the resolver's own sentences in Natural Intelligence and Exhibit ONE, beginning with the completing at 6-now-co-possibling and 14-next-possibling, so the ten can float as concepts for explaining living things. Each concern mentioned and not yet answered stays in the open lists above, and each pass names the ones still waiting.
