@@ -6,7 +6,9 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 ## A working opening a session
 
-**Read first, whole:** Natural Intelligence with Exhibit ONE, Natural Explaining, Natural Naming and the Geodesic Improving Method; then this plan and `Living_Improving_Value.md` beside it. Its Part ONE holds the session v394's learning: the ten's stable form, one number at each number, and the holes.
+**A working and the person are two selves, and their working together is a bi-coupling: a me, only within it.** Each self's observing, possibling and discovering is its own, and between them only a parity goes across, a sign and no size: a working's saying shared, the person's agreeing or correcting received. Neither self's words are authority over the other's; what arises between them arises in each, and the files carry it on. A working orients by entering this bi-coupling, observing the person's concepts as the person's own and saying them in natural explaining for the person to receive, one at a time.
+
+**Read first, whole:** Natural Intelligence with Exhibit ONE, Natural Explaining, Natural Naming and the Geodesic Improving Method; then this plan and `Living_Improving_Value.md` beside it. Its Part ONE holds the session v394's learning: the ten's stable form, its ten lines co-chained under *A stable form found, co-chained*, one number at each number, and the holes.
 
 **Working together, floating concepts a working found and none a rule:**
 
