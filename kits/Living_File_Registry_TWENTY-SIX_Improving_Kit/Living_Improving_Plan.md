@@ -66,4 +66,4 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 ## The next pass
 
-The merged table of contents, checked against each file as it stands now, beginning with the Living File Registry.
+Exploring the holes and fuzzy places of the merged table of contents (Part ONE of the gathered value), one at a time, the person aiming each. Two are resolving: mathematical structures, and human ways with human states and feeling at Natural Intelligence Corus. Each resolving also meets the combining of exhibits and their boundaries. Checking each placing against the files as they stand now follows.
