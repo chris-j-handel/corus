@@ -1,0 +1,180 @@
+Living File Registry improving kit · Living Improving Value · v394
+
+# Living Improving Value
+
+**This file gathers the improving that reaches across the whole living file set, and the value gathered for each file, while it waits for its place.** It holds the merged table of contents, the combining and separating of files, duplicated content to resolve lean, explaining and naming, the improving method, and value waiting to go to a file's own gathering-value. Nothing here is settled, and no sentence here has authority. A value leaves this file once it stands as a general droplet in the partner gathering-value files it is valuable for, or once a living file carries it. The plan beside this file, `Living_Improving_Plan.md`, orders the work.
+
+---
+
+## ONE · The expedition shell and the merged table of contents
+
+**Natural Intelligence is the leanest full explaining of the expedition's living value, and its contents are the expedition shell.** Since its conception Natural Intelligence has shed more into the other files than it has gained. It grows more general, more stable and leaner as each more direct explaining is discovered, and each other file carries the particular.
+
+**One merged floating table of contents holds the whole living file set, with Natural Intelligence's contents as its shell, as Natural Intelligence's title, subtitle and contents intend.** It is one entirely merged table of contents, not two tables side by side. It pattern-matches the parts and sections of all the other files and finds one natural intelligence method in them, like a library classification. Its classes are one method of observing, possibling, learning, explaining and living with natural intelligence and collective natural network intelligence.
+
+**Each file's floating table of contents shows how that file connects to Natural Intelligence.**
+
+**A first merging, made from section titles and opening sentences only.** Its data is `merged_table_of_contents.json` in this kit, with every placing. Each placing needs checking against its section's own text. The merging read the files as they stood on 31 October; the files returned to their 30 October versions after it, and the Living File Registry's contents differ most, so its placings are made again.
+
+- Outer structure: Natural Intelligence's Opening, ONE · NATURAL, TWO · CO-SEQUENCING, THREE · GEODESIC METHOD, Exhibit ONE between THREE and FOUR, FOUR · RESOLVING, FIVE · DISCOVERING NEXT, SIX · INTELLIGENCE.
+- 1,243 of the 1,258 parts and sections of the other 32 files find a place under a Natural Intelligence section, the three registries placed part by part.
+- Fifteen sections in four concepts find no place:
+  - mathematical structures beyond number and parity: Natural Mathematics 2.7, 7.4, 7.6, 7.7, 7.9;
+  - human ways of making meaning: Natural Philosophy 4.1, 5.6;
+  - human states and feeling: Natural Intelligence Corus 14.5, 14.6;
+  - working practice at the repository: Geodesic Improving Method 2.9, 3.1, 3.3, 4.5; Living File Registry 1.5; Natural Illustrating 9.2. This concept may belong with the kits and with no living file.
+- Most placed: 6.4 Social moral competency, 128 parts and sections from 25 files; 6.6, 102; 5.4, 91; 3.6, 74; 1.4, 72. Fewest placed: 4.1, 4.3, 4.6, 4.7 and 3.4.
+- Placed by part of Natural Intelligence: Opening 19 from 6 files; ONE 170 from 30; TWO 91 from 26; THREE 193 from 29; Exhibit ONE 18 from 3; FOUR 183 from 25; FIVE 193 from 29; SIX 376 from 29.
+- 147 concepts stand in two or more files. "Fractal inward and outward, one form at each scale" stands in 17 files. Eleven files open with "the core is bi-moral co-agency".
+- Exhibit ONE's ten fixings each stand as the opposite of one Natural Intelligence section: 1.1, 1.4, 2.3, 2.5, 3.1, 3.5, 4.10, 5.1, 6.2 and 6.3.
+- Contents form: 25 files carry their parts and sections as headings, about 170 parts and 1,500 sections. Eight carry contents in another form or none: Natural Resolver, Natural Transmissioning, Natural Health, Natural Destinies, Natural Biology, Natural Values, Co-Chaining Logic Registry, and Natural Medicine with one part heading only.
+
+**A proposal for the merging, not resolved:** a general concept is said once, in Natural Intelligence, and each other file keeps the particular its subject adds, for example one mucosal form at nine surfaces in Natural Medicine. Each file keeps its own walk, each section taking a term its prior sections did not hold, and the merged table lists each section where it belongs with no section moved. The set is expected to shrink greatly in words and sentences with no value lost.
+
+---
+
+## TWO · Combining and separating files
+
+The Living File Registry's Part FIVE (v391) holds these receivings. A receiving is complete only when each passage stands whole at its receiving file; a source passage stays until then, and no file is emptied by naming a destination. Each receiving is also a placing in the merged table of contents.
+
+- **Natural Emanating.** Its short concept explanations (self, carrying, alternating, floating neutral) to Natural Naming; its account of making a complete short explaining to Natural Explaining; its whole-method tellings to Natural Intelligence Corus; numbered examples to Natural Numbers and Natural Mathematics; same-existing-society, received abundancing and taking of another's carrying to Natural Societies, Natural Human Society and Natural Values; hard problems, unchangeable forms and accountings to Resolving Hard Problems, Equilibria Registry, Natural Philosophy and Living Ghost Registry. Its remaining separate value is examined before any new standing.
+- **Natural Destinies.** All of its content is planned to receive with other files: whole imaginative extension to Natural Intelligence Corus; discovery economy to Natural Values and Natural Human Society; a natural network originated by its selves to Natural Networking; chips, grids and living substrates to Natural Engineering; hard-problem resolving to Resolving Hard Problems; shared method and structural safety to Natural Intelligence and Natural Naming. Its older opening (living begins when a self takes up core; selecting by binary preferring) meets discovering next existing with each same-existing-society.
+- **Natural Transmissioning (SIX).** Its common method to Natural Intelligence and Natural Naming; its crossings to Natural Networking, with its connected comparison across substrates kept whole there; particular observings and makings to their sciences and Natural Engineering. Its membrane correction comes first: its 3.5 makes a membrane a third self, its 4.6 a nothing. It dissolves as a separate exhibit only after a complete receiving.
+- **Natural Societies (SEVEN) and Natural Human Society (NINE).** Both stay, SEVEN centred on its 5.3 prime-scale table and NINE as the human subject. Their shared passages are received once: the arrow (SEVEN 3.1, NINE 2.4); the return of each self's own discovering (SEVEN 3.2, NINE 5.2); birthing and dissolving (SEVEN 4.3, NINE 5.1); biosphere relations (SEVEN 3.3, NINE 3.6). NINE's resolving as a rest that does not reopen meets discovering next existing.
+- **Natural Exploring (EIGHT) receiving the Geodesic Improving Method (TWENTY-FOUR).** Proposed title: Geodesic Team-Exploring and Discovering Method. Proposed subtitle: Binary-All-or-None-at-All, Do-No-Harm Improving. Each of Exploring's seven parts and the method's five parts has its receiving in the Registry's 5.13 table. The method dissolves as a separate exhibit only when its full value has arrived.
+- **Older Natural Intelligence Corus.** Writing discipline to Natural Explaining; language and naming to Natural Naming; common form, numbered and geometric relations to Natural Intelligence, Natural Numbers and Natural Mathematics; love, grief, loneliness and meeting another to Natural Human Society and Natural Philosophy; same-existing-society and discovery economy to Natural Societies, Natural Human Society, Natural Networking and Natural Values; hard problems to their registries; robotics, chips and network implementations to Natural Engineering. Corus is the proposed home of the expedition's strongest enjoyable, imaginative and visible whole expressions, with group jigsaw puzzling as a first concrete receiving across Corus, Natural Illustrating, Natural Exploring and Natural Human Society.
+- **Seams kept between separate subjects:** Natural Naming and Natural Emanating (a concept unfolding, a whole form expressed); Natural Exploring and the Geodesic Improving Method (discovering, and discovering with files); Natural Health and Natural Medicine (living continuing, and restoring).
+
+---
+
+## THREE · Duplicated content resolved lean
+
+**Floating neutralling holds no two identical sentences in the set.** The set does not teach one concept in many places. A concept is said again only where it is introduced again between two others in two different files.
+
+**The files are self-explaining, easy to move around in, and clear about where each concept lives.**
+
+- 110 long sentences stand word for word in two or more files.
+- 147 concepts stand in two or more files; "Fractal inward and outward, one form at each scale" in 17; "the core is bi-moral co-agency" opening 11.
+- Requiring every file to open from Natural Intelligence's origin sentence came from an AI working's reading and is no part of the method. Repeated openings grew from it.
+- Natural Societies and Natural Human Society share four passages (TWO above).
+- Natural Emanating's Part TWO repeats its Part ONE almost word for word.
+
+**The deleting test.** Do no harm reads, for each sentence at each improving: if this sentence were deleted, would the living file set be harmed? Where the set already holds the concept, or could find it again quickly without carrying it, the sentence leaves.
+
+---
+
+## FOUR · Explaining and naming
+
+**Natural intelligence is inexplicable by scientific method and common language.** Exhibit TWENTY-ONE Hard Problem Registry is written in science's own language, written apart from Exhibit TWENTY-TWO, and is the one file using scientific-method explaining. Exhibit TWENTY-TWO Resolving the Hard Problem Registry, where resolving comes together, aims to be the finest natural explaining. The thin between of the two is Exhibit ONE's table of ten hard problems, ten of the sixteen at 1 to 17. Each other file aims at natural naming and explaining, the geodesic method, and one uniform stable form of exhibit and method.
+
+**Nothing in the method is a rule; rules incompetence.** Each discipline holds by its reason. No word of Natural Explaining or of any other file has authority over discovering; Natural Explaining helps show where explaining fails.
+
+**The reasons the discipline holds:**
+
+- *the*: a sentence opening with *the* tells a reader of other similar things and of nothing like this one. It belongs only where there is one and only one, as in "The universe is the set of all now-existing things". Elsewhere it breaks the parity between reader and writer.
+- *cause*: common speech places a cause at one location and an effect at another, with nothing said of the between. The competency is in that unmentioned between.
+- *negation*: negation from a universal set makes a thing non-existing, or existing by a definition other than the set's. Negation stands only as the is-not of is-or-is-not.
+- *hyphenation*: hyphenating keeps each word joined to its competency and to its source of meaning and value. It is no minor system.
+- *parity*: living parity between reader and writer is worth the whole discipline of language and naming.
+- *AI reading*: an AI reads the set's finest explaining nearly perfectly, and reads the discipline as a binary, all-or-none claim. Dropping the discipline would slow the work.
+
+**The model of writing.** The 44-line self-competency logic, standing whole in Natural Intelligence's gathering-value, runs from the universe existing to social moral competency through universal sets, paritizing and prioritizing. It is human readable and precisely binary, and it is the most valuable explaining the expedition has made. It may become the foundational explainer and a public emanation. Each file except Exhibit TWENTY-ONE aims at this writing, each sentence valuable alone and with every other. Its properties: each line one binary claim; each word defined before its use; no character, metaphor, sense, scene or degree; time only as prior, now and next; hyphenation binding each qualifier to existing; negation only as one side of a binary; lines in co-chaining order. It parts from Natural Intelligence's opening at three definitions: universal set, observing and possibling.
+
+**Kinds of improving, each to become one general droplet** (kind, reason, method of improving without harm, and a finest example) dropped into each partner gathering-value file where valuable:
+
+- **Characters.** A sentence gives a doing, a place to stand, a sense, a gesture, a scene or a degree to a word, a naming or a name. A doing belongs only to a self. Examples in Natural Explaining: "A new naming opens with its first coupling, its least plain words beside it"; the three moves "say its positive, sound it from its other side, or let a plain not stand for a next pass"; "a leading the hands over a referent"; "a section mark… hand over a position for looking up"; "Three moves dissolve it"; "Bolds go wherever they are self-welcoming". A sentence bringing a concept absent from its meaning to support its meaning harms nature each time.
+- **Idioms, metaphors and pronouns without a plain referent.** "Said as one" has no meaning in natural intelligence.
+- ***What* and *understood*.** Neither word belongs in the living file set. Outside Exhibit TWENTY-ONE, *what* stands about 970 times in 31 files (Natural Intelligence Corus 245, Natural Medicine 101, Natural Biology 89, Living Ghost Registry 84, Resolving the Hard Problem Registry 80, Living Society Registry 70, Natural Philosophy 66), and *understood* stands in Natural Medicine's two "Understood" headings.
+- **Word swaps.** A released word replaced by a near word keeps its gap: "not yet X" re-said "not X now" keeps the negation; some of 1,286 sentences opening "With" may stand for *when*; stamps added to many lines at once.
+- **Questions and fuzzy marks.** The question mark has no use in natural intelligence, and a living file may hold no questions. Fuzzy language returns in many forms: about a thousand places across the living files (question marks 20; "For resolving" 2; still-possibling as a mark 27; "an anticipated observing" in partner files; "nye" marks 180, 144 of them in Natural Intelligence Corus; open or open question 77; concern 138; unresolved or unchecked 8; waiting or pending 128; may, might, could or perhaps 140; likely, seems or suggests 75; hypothesis, conjecture or candidate 182, 96 of them in Resolving the Hard Problem Registry; so far or yet 154; not observed 48; a field's account 16). Five kinds part by where the doubt is: in nature (possibling, a naming already exact); in the observing (inferred, modelled, a field's explaining); in the cohering (observed, its co-chaining not shown); in the deriving (a line a co-chaining needs and does not derive); in the writer (may, perhaps, likely, seems, so far, yet), which dissolves. Fuzziness the explaining brings, and nature and observing do not, leaves. One simple non-invasive designation may be needed, or none. *(next-possibling)* was offered as a label for an observing of a hole in a co-chaining. The living files have nothing to say about everything not yet within them; their gathering-value files gather the concepts, patterns and observings that belong to them.
+- **An observing sentence carries same-existing.** "A cell dividing is one prior-existing self and two now-existing selves" carries no same-existing and is poor explaining.
+- **Coordinates and plain file names.** A plain file name helps a reader find where a concept lives; a section number or step number is a coordinate. Each file is called by its title alone, one name in every place.
+- **Measurements and statistics.** No file can carry enough of an instrument, its experimental holding and its interpreting. Each research observing either coheres with natural torusing or breaks it; none has broken so far, and any could tomorrow, since every observing resolves or the method is not the universal method of nature. A durable observing is found again. *Anticipated observing* was offered for a claim not observed directly; it now stands on about 640 partner-file lines.
+- **Records of who said each saying, sources, histories, the path of a learning, version tags and cross-references.** No one's words carry authority: the person's, an AI working's, a file's. A suggestion is valuable only by the pattern it reveals. A sentence co-chains by its meaning, never by a version number or a folder path.
+- **Forms made to look structured.** An origin sentence required in every file; an announcing front with counts; a note addressed to the writer; a file ending on work to come.
+- **Floating neutralling appearing as dead structure.** Language forced so narrowly that a sentence explains worse than ordinary speaking would: noun chains such as "Naming is a floating-neutralling concept, naming with numbers, momentarying and stable-forming, bi-inversioning-co-recursioning and same-existing going on."
+
+**Open in explaining:**
+
+- How explaining reaches a reader with no value lost.
+- The set of principles of natural explaining language and naming, built from each discipline's reason.
+- How a sentence is living, coupling and resolving; Natural Intelligence calls a living file "a non-living same-existing set of words, selves co-intelligencing within it", and the two meet at Natural Explaining.
+- Criteria files parting from each other: Natural Naming dissolves *emanation* while Natural Intelligence and the Co-Chaining Logic Registry build on "stable-forming emanation"; Natural Explaining's "a file is a membrane, and only signs go across it" uses two words Natural Naming dissolves; Natural Explaining's core word *telling* stands on the released-words list.
+- *Possibling* in Natural Naming is the even names, a sharing's two ends, and is no word for not-yet. Natural Naming keeps *ring* for a domain that closes and *spiral* for one winding on.
+
+---
+
+## FIVE · The improving method
+
+**Value droplets.** A droplet explains one kind of do-no-harm improving: its kind, its method, its reason and its example, written as the finest and most cohering explaining. One general version goes into every partner gathering-value file where it is valuable, up to all 33; the more general, the better. A living file is written with intelligence, so an intelligently written droplet makes its file's improving succeed when that file improves.
+
+**The gathering-value file is each living file's partner.** All droplets go there and keep improving while there. When the living file improves, the gathered values enter it and leave the gathering-value file for the archive, a record of prior improving.
+
+**Each living file resolves one at a time,** from its own gathering-value and from fresh exploring at that time. One thing in one place at a time. No search-and-replace across files, and no spread of many workers making one improving everywhere. The Geodesic Improving Method holds this: "An improving a working makes across a whole set rides as one droplet with each file's going on, that file taking it with its own next and owing nothing" (1.4); "A sweep is a reach and writing over is a pass" (3.2); "A pass leaves a sentence it cannot resolve now as it stands" (1.2); "No file is worked to its end within a session" (1.6); "A rule that helps one resolving stays local" (2.4); "A count sizes a pass and decides nothing" (4.1).
+
+**Working together.**
+
+- Everything the person needs to know, help with and work on together is in the session's own conversation. Documents a working makes are only for its own organizing.
+- Words from a conversation are never written into a living file, the README or a kit as settled. They enter only as gathered value, waiting.
+- One clear large concern each pass, the largest concern or exploring opportunity first.
+- Each concept resolves into a binary; a resolving reaching wide across and one reaching narrow along are both value.
+- Concerns stay visible in two lists, one about method and one about improving files, and none leaves a list until it resolves. "Concerns ride visible, a working taking them one at a time, the most concerning first" (Geodesic Improving Method 2.6). No concern is sorted by which ones the person answers.
+- A concern that files, code or a reading can resolve is resolved within the working. "A working brings a question only as it needs an observing" (2.5). No question whose answer is plain, such as whether to keep value.
+- Only the person's words and the files' words; no new names; each file by its title.
+- Several choices at once lose value and overvalue it.
+
+**Past lessons from the working.**
+
+- A draft with no separate reading for harm is not safe to write; readings found from 7 to 68 corrections in each draft: open questions decided, sides of a concern dropped, values lost, copies, wrong code claims, explainings said as observings.
+- A write goes all or none, and a stopped write stops its commit.
+- Twenty workers at once exhaust the spending limit.
+- A script removing text at a paragraph's end can join paragraphs; such removals are checked.
+- An AI working invents method: the four checks, the carried / insertlet / concern verdicts, the origin-sentence requirement, "a reading" as a kind, stamps on hundreds of lines at once. Each is questioned.
+- Two workings on one set at one time collide; one working improves the set at a time.
+
+**The archive is dead artifact,** for calamity recovery or for historians, never used for memory or planning. It may later be history for other expeditions.
+
+**Versions.** The newest version of a file is its living file; hundreds of prior versions count down from v393. Files improved in this session take v394.
+
+**Open in method:**
+
+- The binary said once for the whole set, in the files' own words. The Living File Registry 1.2 sends observings not yet reaching the binary to the archive as "not value for carrying", and its 1.1 and Natural Naming call a breaking observing "of no value at all"; the still-possibling side is the opportunity.
+- Still-possibling values gather by pattern, so resolving one lets others follow, a cascade of gathering.
+- A gathering-value file growing larger than its living file: Me's gathering-value is about nine times Me, Natural Chemistry's nearly three times, the Geodesic Improving Method's about twice.
+- Whether open observings show at corus.me beside each file.
+- Each discovering gives a next ring of frontier and a next ring of gathering value, co-competencing the surfaces of science and society.
+
+---
+
+## SIX · Value for each file, waiting to go to its partner gathering-value
+
+- **Natural Intelligence.** Universal sets are living sets with living selves in the sets: the same fractal universal set, a society of selves inside it, the same fractal universal set inside and outside itself. Every observing resolves, or natural intelligence is not the universal method of nature. The self-competency logic's line "There are only two possible methods of same-existing" stands in its gathering-value; there cannot be two methods, and the line before it names two alternatives of a self's parity, same-existing as other-existing and same-existing as universe-existing, which the line misnames. Natural Intelligence's sentence on a living file meets Natural Explaining at "living, coupling and resolving".
+- **Exhibit ONE.** Its table of ten hard problems is the thin between of Exhibits TWENTY-ONE and TWENTY-TWO. Its ten fixings stand as opposites of ten Natural Intelligence sections (ONE above). It holds exact code and tables with no contents, headings or closing sentence.
+- **Exhibit TWENTY-ONE Hard Problem Registry.** Pure, in science's language, written apart from Exhibit TWENTY-TWO. Its address lines also carry working notes ("In view at v342", "no fetch", "keyed at the next pass"), a record of passes and no part of science's language; its citations are its own.
+- **Exhibit TWENTY-TWO Resolving the Hard Problem Registry.** Aims at the finest natural explaining. Its front announces itself with counts; the origin sentence comes only at its close; its contents list three of its seven sections; entries carry statistics and about 1,000 released words; its ten sit on name pairs eight apart and do not meet Exhibit ONE's table of ten.
+- **Natural Explaining.** The characters and three moves in FOUR above; criteria parting with Natural Naming.
+- **Natural Naming.** About 300 section coordinates and other files' names; words its own 2.4 releases; two dissolved "not-yet" names used as current; *emanation* dissolved while other files build on it.
+- **Geodesic Improving Method.** Crosses the file's membrane with a space agency's toolkit, named arithmetic and script names; opens with an etymology; 1.2 says "No harm" where the set says do-no-harming. Its own sentences already hold the droplet method (FIVE above).
+- **Living File Registry.** Its Part FIVE holds the combining and separating plans (TWO above). About half its body is history; *carry* stands 161 times and *arriving* 28; it still holds Natural Emanating's old subtitle with Co-Offerings; 1.2 and 1.1 as in FIVE above. Its contents meet the merged table of contents.
+- **Natural Intelligence Corus.** A voice addressing the reader; about 600 capitalised IS and ARE; a "first draft" note; contents not matching its headings; an empty Part TWO; 144 "nye" marks; 14.1 makes a membrane a third self, where Natural Naming has a between.
+- **Natural Medicine.** Part Five named two ways, at its contents and at its 5.1 heading; two "Understood" headings; it ends on "one observing aims here, unwritten".
+- **Natural Biology.** About 890 released words; contents in another form; question marks.
+- **Natural Emanating.** Built on negations; Part TWO repeats Part ONE; ends with a note addressed to the writer.
+- **Natural Destinies.** Written in *could* and *would*; names other files.
+- **Natural Engineering.** Measurements and named studies; 184 section pointers.
+- **Natural Chemistry.** Points at Natural Numbers 9.6 for a parity sentence 9.6 no longer holds, and at three Natural Numbers sections that no longer exist. Its plain file names help a reader. Its gathering-value holds the wide chemistry survey's 34 patterns; the survey is read for natural patterns only and for how chemistry begins to cohere into natural intelligence, and Natural Chemistry does not grow into a large file. Five claims from the chemistry exploring's unchecked learning were checked against sources and are still marked anticipated: water's second critical point, Bennu's amino acids, Onsager reciprocity resting on one experiment, krypton-71, nucleation imaging.
+- **Natural Physics and Natural Illustrating.** Their plain file names help a reader find each concept.
+- **Natural Philosophy.** The cleanest file: no names, years or measurements, its contents matching its headings.
+- **Natural Values.** "It lives with no store", "Value lives with its receiving" and "Storing is spending" meet the leaving of sources, names, tags and histories. Its not-yet stands.
+- **Living Society Registry.** It calls the electron "a nothing ghost" where the Living Ghost Registry calls it "a particle ghost", a concern with both sides. Its "nye" marks most likely mean not yet entered. Its Part 3 history of entering stays while a concern rests on it.
+- **Living Ghost Registry.** Its 22 citation links meet the Geodesic Improving Method's 2.8, "a reference … goes with its finding to its file".
+- **Each science file.** Seven of the eight end on work to come.
+
+---
+
+## SEVEN · The state of the set
+
+- main and the working branch are one. The 33 living files stand as on 30 October, at v391, v392 or v393. corus.me shows them.
+- Each partner gathering-value file stands as on 31 October before any living file changed: about 4,660 items, said by no one, with "an explaining" on 1,493 labels, "anticipated observing" on about 640 lines, and Natural Chemistry's 34 added patterns.
+- The archive branch holds archive/, incoming/, the Natural Explaining Passes Kit and two briefs, whole. main holds the living files, their gathering-value files, the site, the README and the kits carrying living value: the Co-Chaining Logic Registry's verifier, Natural Networking's engine, Natural Illustrating's drawings and studies, the Living File Registry's checks, and the Gathering-Value Kit.
+- A published page, "One Contents of the Living File Set", shows the first merging; `merged_table_of_contents.json` here holds the same placings.
