@@ -76,4 +76,4 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 ## The next pass
 
-Reading each of the ten living betweens against the resolver's own sentences in Natural Intelligence and Exhibit ONE, beginning with the completing at 6-now-co-possibling and 14-next-possibling, so the ten can float as concepts for explaining living things. Each concern mentioned and not yet answered stays in the open lists above, and each pass names the ones still waiting.
+Exhibit ONE's table of ten as the subject of Natural Intelligence's naming and explaining ahead: first, how three tens are one ten, Natural Naming 4.9's seating with now and next names, Exhibit ONE's ten is-or-is-nots with their names and dimensions, and Natural Intelligence 4.8's ten names of a self's own resolving. The working keeps each concern mentioned and not yet answered in the open lists above, and brings one back when it is the most concerning.
