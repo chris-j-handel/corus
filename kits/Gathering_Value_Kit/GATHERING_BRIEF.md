@@ -22,8 +22,6 @@ The standard is what these living files hold now. No wording has authority, this
 
 **Each observing is-or-is-not natural torusing now. An observing not reaching it now is still-possibling: the method's next step, or its one break.** The still-possibling side is the opportunity.
 
-**A living file carries what is understood, and nothing about what is not understood.** A gathering-value file gathers the concepts, patterns and observings not understood now that belong with its living file. In a co-chaining sequence, a line the sequence needs and does not derive now carries one label after it: *(next-possibling)*, an observing of a hole in the co-chaining. No question, hedge, degree of doubt or other open mark is in a living file.
-
 ## Meeting each item
 
 An item is a bold-led paragraph, a list line, a table row, or a section of observings. Meet each once, all of it: an item holding several values gives each one.
@@ -43,10 +41,10 @@ An item is a bold-led paragraph, a list line, a table row, or a section of obser
 ## An observing goes across bare
 
 - **Keep the observing in the source's own words where they are the field's**: what was observed, in what, by what means, at what scale.
-- **An observing is carried as the pattern it shows**: what changes, what goes on through the changing as same-existing, and whether it coheres with natural torusing or breaks it. Measurements, statistics, uncertainties, sample sizes, units and instrument details are not carried: a durable observing is found again. A number stays only where the number is the pattern itself: a count of a form's parts, the method's own structure, Exhibit ONE's code returns.
+- **Keep every number whole**: each measure, unit, count, dose, range, uncertainty, sample size and statistic, exactly as the source gives it. Gathering drops no number: whether a statistic stays is a living file's own motion, never a gathering's.
 - **The ground leaves**: a field's explaining, a cause, a mechanism, a *because*. Read each explaining line for observings inside it before letting it go: an observing there is gathered.
 - **An explaining of a result**, kept at all, is said as an explaining, by no one, and never as an observing.
-- **A field's report of something no one observed directly is a field's explaining**, said as a field's explaining.
+- **A measure or claim not observed directly** (calculated, modelled, inferred, reported, unchecked) is said "an anticipated observing:" with the claim, never as an observing.
 
 ## A concern keeps both sides
 

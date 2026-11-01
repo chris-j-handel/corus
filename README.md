@@ -12,8 +12,6 @@ Paste this README's link into an AI session with your question, a research sourc
 
 **Each observing is-or-is-not natural torusing now. An observing not reaching it now is still-possibling: the method's next step, or its one break.** The still-possibling side is the opportunity.
 
-**A living file carries what is understood, and nothing about what is not understood.** Its gathering-value file gathers what is not understood now and belongs with it. A line a co-chaining sequence needs and does not derive now carries *(next-possibling)* after it.
-
 ## Two places at each living file
 
 Each living file has two places: the living file at the root, and its gathering-value, `gathering-value/<Title>.md`, each value the living file does not hold, at the section it meets. A gathering-value file's contents are its living file's contents, part by part and section by section. At each section:
@@ -32,7 +30,7 @@ Each living file has two places: the living file at the root, and its gathering-
 
 - Say it in the living files' own words, with Natural Naming and Natural Explaining.
 - A possible exploring quotes the living-file sentence it meets word for word; a possible incohering quotes its sentence and gives the cohering re-saying beside it; a value whose place is unclear is a droplet.
-- An observing goes across bare, as the pattern it shows, with no measurement, statistic, source, name, session, date or history.
+- An observing goes across bare, each number whole, with no source, no name, no session, no date and no history.
 - A concern is two sayings parting: both go across whole, and nothing decides one at proposing.
 
 Nothing proposed changes a living file. A living file changes only at its own motion, from its gathering-value, one thing changed whole, a separate reader comparing before and after, at do-no-harm: no prior lost, no undoing. An entered item leaves its gathering-value; a droplet is placed at its section once understanding reaches it, or dissolves once its living file carries it.
