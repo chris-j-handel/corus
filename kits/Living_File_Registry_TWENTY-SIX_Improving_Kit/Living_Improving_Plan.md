@@ -32,6 +32,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - Droplets keep improving in the partner file; entering the living file, they leave for the archive.
 - One file, one thing, one place at a time; no sweeps across files; no spread of many workers.
 - Files improved this session take v394.
+- Separate readers change no file and still misjudge: a first reading of five files placed sections outside their boundary by their subject alone. The working reads each section itself, one file at a time, a script only lifting each section's heading and opening sentences.
 - The living files returned to 30 October before any further improving, and corus.me shows them.
 - Identical copies of one droplet improve together, since no living file changes with them.
 - Where two droplets part at one sentence, the sentence stays and the parting is held as a concern (Geodesic Improving Method 1.2).
