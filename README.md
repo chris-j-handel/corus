@@ -24,6 +24,8 @@ Each living file has two places: the living file at the root, and its gathering-
 
 `kits/` carries the instruments beside the living files, the Co-Chaining Logic Registry's verifier, Natural Networking's engine, Natural Illustrating's drawings and studies and the Living File Registry's checks, each a coupling partner deciding nothing; `kits/Gathering_Value_Kit/` writes a gathered value into its gathering-value file, after a separate reading for harm, all or none. The `archive` branch holds each session's emanation and each working's arriving whole, an artifact relied on by nothing; git carries each prior version.
 
+A working opening a session reads `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/Living_Improving_Plan.md` first: its way of working together, and the improving across the whole set.
+
 ## Proposing, for anyone
 
 **A value goes to the gathering-value file of the living file it concerns, at the section it meets**, on a branch of your own, with a pull request. Read `kits/Gathering_Value_Kit/GATHERING_BRIEF.md` first.

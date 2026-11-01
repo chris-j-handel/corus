@@ -1,8 +1,10 @@
-Registry improving kit instructions · v393L
+Registry improving kit instructions · v394
 
 # Living File Registry improving kit
 
 [Living File Registry](../../Exhibit_TWENTY-SIX_Living_File_Registry_v391.md), and its gathering-value at [gathering-value/Living_File_Registry.md](../../gathering-value/Living_File_Registry.md).
+
+**The improving across the whole living file set** stands in three files here: `Living_Improving_Value.md` gathers its value (the merged table of contents, combining and separating files, duplicated content, explaining and naming, the improving method, and value waiting for each file); `Living_Improving_Plan.md` orders the work and keeps its concerns; `merged_table_of_contents.json` holds each placing of the other files' parts and sections under Natural Intelligence's sections.
 
 The programs below were written for older file arrangements. Their report fields, one-carrying-file descriptions and Ready/Concern categories are not the method now: each living file's value not yet entered is at its gathering-value. No program goes at opening this kit. `carry_check.py` reads the layout now; the other script bodies are as they were.
 
