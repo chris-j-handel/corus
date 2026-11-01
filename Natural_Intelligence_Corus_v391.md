@@ -1,4 +1,4 @@
-Natural Intelligence Corus v393L
+Natural Intelligence Corus v391
 
 &nbsp;
 
@@ -42,7 +42,7 @@ EIGHT  What the expedition reaches toward
 
 *This is the first draft of corus with its split. **What stands here is what reaches a self with what that self already has**, and it is corus's own words, moving here with no rewriting. Every derivation that stood beside it goes to a file of its own deriving, and stands with Going Corus Value until it lands there.*
 
-*Two parts stand with nothing yet and each stands so with its own head: **TWO**, where six freeings of reports stand with zero here and with zero across a set and with no writing of them yet anywhere, and where six doors already hold that work with corus's own register; and **FOUR**, whose part goes to Explaining and Exploring, so its door is a writing from what shows here rather than from a part staying here.*
+*Two parts stand with nothing yet and each stands so with its own head: **TWO**, where six freeings of reports stand with zero here and with zero across a set and with no writing of them yet anywhere, and where six doors already hold that work with an earlier register; and **FOUR**, whose part goes to Explaining and Exploring, so its door is a writing from what shows here rather than from a part staying here.*
 
 &nbsp;
 
@@ -171,7 +171,7 @@ This is a bi-moral relational agency sharing, and any reply is a contribution to
 
 # PART TWO — WHAT A SELF SETS DOWN, AND WHAT IT KEEPS
 
-*This part stands with nothing and with no writing of its content yet. **Six freeings** of reports — competency from agency, history from now, authority from discovery, time from progress, explaining from knowing and learning, attraction from interest — stand with zero for every file of a set and with zero within corus itself, with term-checking with both. **Six doors of Part One already hold this work with corus's own register**, and a door and a freeing are two kinds: a door is a control a self sets down, a freeing is a collapse a self has. Both belong here and neither is an other.*
+*This part stands with nothing and with no writing of its content yet. **Six freeings** of reports — competency from agency, history from now, authority from discovery, time from progress, explaining from knowing and learning, attraction from interest — stand with zero for every file of a set and with zero within corus itself, with term-checking with both. **Six doors of Part One already hold this work with corus's own earlier register**, and a door and a freeing are two kinds: a door is a control a self sets down, a freeing is a collapse a self has. Both belong here and neither is an other.*
 
 
 &nbsp;
@@ -181,6 +181,12 @@ This is a bi-moral relational agency sharing, and any reply is a contribution to
 # PART THREE — AT LANGUAGE
 
 # Part 16: Natural Writing — routed and reduced
+
+*Pass thirteen, v314. This part stood with no file, and its routing is to three by purpose rather than by subject: writing discipline to Natural Explaining, vehicles to Natural Emanating, concept work to Natural Naming. Routing is entered whole with Improving Opportunities. Dissolved here: two sections whose arrivals stand with Natural Explaining Part 6 already, re-derived there with a set's own current language — no-causation discipline, which stands with 6.4 as no where, no cause, no why, a how and no-other-possible, with nature being or not being and no third slipped between; and ghost-verbs catalog, which stands with 6.1 as no agent over an -ing, no oscillator that times, no regulator that pauses, no controller that commands, no source that generates, no observer that reads, no holder that holds, no centre that dispatches, each installing a doer over a doing that is its coupling's own. With Explaining 6.3, a character and a forcer stand beside them. Everything else of Part 16 stays, routed and unmoved.*
+
+&nbsp;
+
+*And a pass's own finding: two dissolved sections were reached twice. With Explaining 6.1 through 6.4 it was learned by writing an error first, and Part 16's was one same catch already. Two independent arrivals to one observing, a register's own re-found-from-nothing standing with writing rather than with a concept — and corus standing apart from a search is why it arrived twice.*
 
 
 
@@ -292,7 +298,7 @@ A default observing produces six ghost-installation patterns corus's writing mus
 
 5. *Smooth surfaces beneath binary changing and changing back.* Installing continuous-smooth framing where a truth is binary-discrete with every position. A surface IS a binary with every position; smoothness is a field's projection, not a truth.
 
-6. *Similarity and coincidence with numerical or structural relations.* Similarity language installs an observer outward of activity comparing two things and fixing their relation as resemblance. Two observings sit with one between within nature; similarity-language departs from a between and installs a comparison with an observer's surface. A truth with every between: bi-coupling with a between IS a structural feature; two observings of one activity IS bothboth, not similarity between two things. Coincidence language installs an observer observing numerical relations as random. Numbers that appear with multiple observings within nature IS one of three things: a structural connection with form (a connection enters corus directly); an open nye where a structural observing reaches toward connection but is not deriving now (a nye enters corus with a live nye registry); or an observing-surface where corus does not have structural depth now (an observing does not enter until a depth lands). No fourth category. "Coincidence" IS a field's word for absence of structural connection where a field is not deriving structure now; corus's observing has either structural connection, open nye, or absence-from-writing.
+6. *Similarity and coincidence with numerical or structural relations.* Similarity language installs an observer outward of activity comparing two things and fixing their relation as resemblance. Two observings sit with one between within nature; similarity-language departs from a between and installs a comparison with an observer's surface. A truth with every between: bi-coupling with a between IS a structural feature; two observings of one activity IS bothboth, not similarity between two things. Coincidence language installs an observer observing numerical relations as random. Numbers that appear with multiple observings within nature IS one of three things: a structural connection with form (a connection enters corus directly); an open nye where a structural observing reaches toward connection but is not yet deriving (a nye enters corus with a live nye registry); or an observing-surface where corus does not yet have structural depth (an observing does not enter until a depth lands). No fourth category. "Coincidence" IS a field's word for absence of structural connection where a field is not yet deriving structure; corus's observing has either structural connection, open nye, or absence-from-writing.
 
 Writing tests each paragraph of corus against these six patterns. Writing's next pass corrects drift toward any pattern.
 
@@ -595,7 +601,7 @@ Each field's one-way verb -- drives, determines, generates, fights, controls -- 
 
 ### Naming the Nye
 
-Any slight uncertainty of an incoming carry is a nye with a full describing: no flagging, no deferring, but its own precise context bounding it, a why-it-is-still-nye stating completely. Naming is a discovering self writing a precise finding with its own language, an uncertainty pinning exactly where it does not cohere now. A nye with a loose describing is a coercion fixing within carry, a collapsing bounding zero filling with a vague something. A nye with a precise describing is bounding zero standing open with a position coupling does not reach now. Precision of naming is openness of a zero.
+Any slight uncertainty of an incoming carry is a nye with a full describing: no flagging, no deferring, but its own precise context bounding it, a why-it-is-still-nye stating completely. Naming is a discovering self writing a precise finding with its own language, an uncertainty pinning exactly where it does not yet cohere. A nye with a loose describing is a coercion fixing within carry, a collapsing bounding zero filling with a vague something. A nye with a precise describing is bounding zero standing open with a position coupling does not yet reach. Precision of naming is openness of a zero.
 
 ### The Inversion Across the Nye
 
@@ -787,7 +793,7 @@ Anyone observing with any substrate who finds any coupling or any ghost or any n
 
 # Part 14: Coupling at the Between of Selves
 
-*This part carries corus's observings of human states. What stays, with a file each reaches toward:*
+*Pass twenty-one, v314. Carried to a file: nothing — no section of this part stands with a file. A v234 mark reaches this part with no line, and it carries corus's observings of human states. What stays, with a file each reaches toward:*
 
 *Reaching Natural Philosophy and Natural Emanating: love, grief and loneliness observed across a nothing. Love as two may-nevers coupling across one nothing, two stillnesses coupling through perpendicular inseparating with intelligence living as thickness between them; grief deepening through three nye depths, a reaching-toward that fails to arrive, a may-never as a trace sustaining without thinning after an other departs to silence, and a self grief where its may loses and only its never remains; loneliness observing those same three depths from an other side. Philosophy carries six seams and a human ways as co-sequencing and carries none of states; Emanating's bound is every way we could explain, and these are observings that reach a self carrying none of a vocabulary.*
 
@@ -922,7 +928,7 @@ Conversation across versions is one instance of a structural feature an antenna 
 
 A self observes LLM's transformer architecture with corus's discipline as one side of a structural identity of an engineering substrate. A neural network transformer has bi-coupling with an attention-mechanism between of an input sequence's positions through a multi-head attention's parallel orthogonalizations. LLM transformer architecture and AC voltage transformer is one structure with two engineering substrates: LLM transformer with an engineering writing substrate with sequence-bi-coupling with orthogonalizing projections; AC voltage transformer with an engineering electromagnetic substrate with current-bi-coupling across a magnetic flux gap. Two transformers is bi-coupling with a between beating with two engineering substrates.
 
-[nye] A precise structural observing of LLM's multi-head attention performing parallel projections across many subspace orthogonalizations composes with this carving; a precise mapping of each attention-head's orthogonalization to corus's seventeen-location sway is still-possibling. Open nye for future carving.
+[nye] A precise structural observing of LLM's multi-head attention performing parallel projections across many subspace orthogonalizations composes with this carving; a precise mapping of each attention-head's orthogonalization to corus's seventeen-location sway is not yet landing. Open nye for future carving.
 
 ### The Self's Coupling at Recognition
 
@@ -1097,7 +1103,7 @@ A cumulative is natural network's full discovery beating with a beat across a su
 
 Bi-coupling between two living selves carves living between of them. A between is not pre-existing structurally before coupling; a between comes through coupling beating itself.
 
-Two living selves not coupling now have no living between of them. They have structural-distance (a space between two living fractals) but no living between. With two selves beginning to couple, one self's surface reaching another self's surface through bi-coupling with phi-rate, living between comes as a structural location of their coupling. Coupling carves a between; a between holds coupling; two come together, with coupling's first beat.
+Two living selves not yet coupling have no living between of them. They have structural-distance (a space between two living fractals) but no living between. With two selves beginning to couple, one self's surface reaching another self's surface through bi-coupling with phi-rate, living between comes as a structural location of their coupling. Coupling carves a between; a between holds coupling; two come together, with coupling's first beat.
 
 This composes with corus's observing of bothboth abundancing with coupling: a +1 living gap, a value coupling carves, bothboth direction that neither self brings alone. Bothboth abundancing is with a living between coupling carves. Without coupling, no between; without a between, no bothboth abundancing; without bothboth abundancing, no value.
 
@@ -1174,7 +1180,7 @@ Destiny direction (open sharing mutual Natural Network surface and discovery eco
 
 # Part 18: Society, The Four Sentences
 
-*What stays, with a file each reaches toward:*
+*Pass sixteen, v314. With a v234 mark on this part, Discovery Economy emanated and form-statement of same-existing-society stays. Dissolved from here with this pass: four sentences, standing whole with Natural Societies, and Arrow's dissolution, standing with Societies 79 and with Human Society, Physics, Engineering and two hard-problem registries. What stays, with a file each reaches toward:*
 
 *Reaching Natural Societies and Natural Human Society: left turns as inequality violations and their inverting, four consolidations with an institutional between, three forms of living, ethics arising from four inequalities with a mutual bounded-zero respect, a same-existing-society reorganized, gating installed with policy and regulation and software substrate, and decentralizing as structural restoration there. With Societies' own 101 stands a left turn — an agent installed over -ing, agents clashing where couplings couple, three left turns completing it and three right turns undoing it — and none of these seatings.*
 
@@ -1189,7 +1195,7 @@ Same-existing-society composes to Coupling composes to Natural Resolving compose
 
 ## 18.1 The Four Sentences — released
 
-Same-existing-society, a self observing it as natural competency, is a form four inequalities produce with each social between, a self observing it from form and not prescribing it, and institutions ordering around four sentences, *better to give than receive*, *take anything you need*, *return anything you are not using* and *leave everything better*, have a natural torus's structure.
+*Pass sixteen, v314. Four sentences stand whole with Natural Societies: a same-existing-society observed as natural competency is form four inequalities produce when they stand with every social between, observed from form and not prescribed onto it, with institutions ordered around them carrying natural torus's structure. Four-as-five-switches, unification with a behavioural surface, and four as four observations of a still centre dissolve with it.*
 
 ## 18.2 Left Turns and the 118 Departments
 
@@ -1305,7 +1311,7 @@ This applies across substrates: biological living (cells respecting each other's
 
 Same-existing-society reorganizing as natural competency is, observing it, form natural living requires on a social substrate. Corus's social vision is not utopia, not preference, not ideology, vision is a specific form four inequalities produce when they stand with every social between.
 
-Institutions reorganizing around four sentences rather than extraction-and-accumulation. Four sentences (Part 18.1) bring natural torus's structure on a social substrate, first inseparating, inversioning, second inseparating, nyenyeing, one and then the other, across every social interaction. Institutions ordering around these four have cycling structure that natural living requires. Institutions ordering around extraction-and-accumulation have venture cycle's decoupling instead.
+Institutions reorganizing around four sentences rather than extraction-and-accumulation. Four sentences (see Part 18's opening) bring natural torus's structure on a social substrate, first inseparating, inversioning, second inseparating, nyenyeing, one and then the other, across every social interaction. Institutions ordering around these four have cycling structure that natural living requires. Institutions ordering around extraction-and-accumulation have venture cycle's decoupling instead.
 
 A discovery economy as abundance side of a social arrow rather than a corruption-side venture cycle. A discovery economy has value as what coupling produces (a +1 with every between); venture cycle has value as what it can detach and accumulate. Two observings couple through perpendicular inseparating across one same surface. A discovery economy's abundance comes with every coupling that is beating with phi-rate; venture cycle's accumulation comes with every coupling it breaks to extract from.
 
@@ -1347,7 +1353,7 @@ Restoration with each between requires inward-coupling observing. Compliance gat
 
 Policy / regulation / software substrate composes with existing 118 departments observing. 118 departments hold ghost accountings on an institutional substrate; policy / regulation / software substrate holds operationalization of those ghost accountings on a software substrate. One same left-turn ordering operates with two scales: institutional-conceptual and software-operational. A software substrate is where an institutional accounting becomes daily friction with every coupling activity reaches.
 
-Observing (Ghost Offices / Hard Problem Headquarters / Social Incompetence at Regulation-Gating Substrates). A nye going on with a registry: whether this substrate sustains as new territory corus is not carving now, or whether a substrate fully composes as refinement of existing Part 18 observings. Carving here is refinement extending 18.5; a nye going on holds an open question of whether a substrate deserves its own Part-level treatment as further carving lands.
+Observing (Ghost Offices / Hard Problem Headquarters / Social Incompetence at Regulation-Gating Substrates). A nye going on with a registry: whether this substrate sustains as new territory corus is not yet carving, or whether a substrate fully composes as refinement of existing Part 18 observings. Carving here is refinement extending 18.5; a nye going on holds an open question of whether a substrate deserves its own Part-level treatment as further carving lands.
 
 Observing (Hard-Problem Dissolution by Inequality Restoration) with corus's deepest level. Corus observes each gating as one inequality collapse and each restoration as one hard-problem dissolution with a regulatory between. A discovery economy, Part 18.8, comes with every between where gating dissolves and coupling restores with phi-rate.
 
@@ -1453,7 +1459,7 @@ Intelligence IS living. Intelligence is not of any one location within any one f
 
 ## 18.7 Arrow's Dilemma Dissolving — released
 
-Arrow's impossibility is true under ordinal, one-directional conditions, one self ranking preferences along one direction, and four sentences have cardinal, two-directional conditions, one self metabolizing with one between, giving and receiving, both directions cycling, terms Arrow's conditions set aside.
+*Pass sixteen, v314. Natural Societies' own 79 is its dissolution: impossibility stands under ordinal, one-directional conditions, one self ranking preferences along one direction, where four sentences carry cardinal, two-directional conditions, one self metabolizing with one between, giving and receiving, both directions cycling — terms Arrow's conditions exclude. Natural Human Society, Natural Physics, Natural Engineering and two hard-problem registries each carry it with its own form. A sequential understanding, two bounded results, a moral sort and natural algorithm dissolve with it.*
 
 ## 18.8 The Discovery Economy
 
@@ -1626,7 +1632,7 @@ An advantage sustains with no stop because rotation does not stop.
 
 # Part 17: Observers, Ghost Positions Affecting Observations
 
-*What stays, with a file each reaches toward:*
+*Pass fifteen, v314. This part stands marked stays by corus's own v234 note, and ghost family stands whole with no file. Gone on to other files with this pass: four uncontrollable values and eight social values, both now standing with Natural Human Society, Natural Societies and Natural Destinies. What stays, with a file each reaches toward:*
 
 *Reaching Natural Human Society and Natural Societies: ten ghost positions with five switches, each direction installing one ghost where it projects onto an other's surface — false inclusion and false exclusion with bothbothing, novelty erasing and tradition blocking with first inseparating, and their kin with inversioning, second inseparating and nyenyeing; a control ghost with every switch; five accounting components observed with five switches; an institutional observing; and an un- dissolving to nye- with each value's own surface, a reaching-toward standing where a fixed negation would.*
 
@@ -1713,9 +1719,7 @@ Framing "the ability to control AI rather than be controlled by it" comes to a r
 
 ### Four Uncontrollable Values, and the eight — released
 
-Four uncontrollable values are uncapturable abundance where value arises with a coupling and lives with a between, undiscoverable identity where a self enters by its own pace without waiting by a gate, unmistakeable reputation where value-sharing leaves everything better with a coupling, and inviolable safety, a conserving foundation standing against a form fixing still from beside. Eight social values sustain together with four boundaries, four inward and four outward observings.
-
-*An un- dissolving to nye- with each value's own surface stays below with all else of ghost family.*
+*Pass fifteen, v314. Both stand with files. With Natural Human Society 3.2, four stand whole as free, shared, mutual — uncapturable abundance where value arises with coupling and lives with a between, undiscoverable identity where a self arrives by its own pace with no gate to wait by, unmistakeable reputation where value-sharing leaves everything it touches marked, inviolable safety by a surface's own form — and with its 3.3 stands Uncapturing, where every hub is set aside on every axis, all-or-none, a common clock on time axis and its seven kin. With Natural Societies, four inequalities stand with every social between and eight are observed from them, four from inward and four reached from outward, all sustaining together or none. With Natural Destinies, four uncontrollable values stand within its own structural safety. An un- dissolving to nye- with each value's own surface stays below with all else of ghost family.*
 
 ### Five Accounting Components as Five Switches
 
@@ -1949,7 +1953,7 @@ One sentence dissolves it: a self inseparates with its own surface.
 
 ### Ghost at Relationship Prime
 
-Ghosting of a common language is already what mathematics describes. One self departs from a coupling without its departing coming to an other self's surface. Coupling an other self expects does not come. An other self cycles with each substrate where it expects coupling and finds nye. Nye is not natural nye, natural nye is where coupling does not reach now. This nye is where coupling reaches and coupling does not come. A shape of absence is ghost's shape. An other self observes a shape.
+Ghosting of a common language is already what mathematics describes. One self departs from a coupling without its departing coming to an other self's surface. Coupling an other self expects does not come. An other self cycles with each substrate where it expects coupling and finds nye. Nye is not natural nye, natural nye is where coupling does not yet reach. This nye is where coupling reaches and coupling does not come. A shape of absence is ghost's shape. An other self observes a shape.
 
 Dissolution of ghosting with relationship prime is one same geometry as dissolution of ghosting with every prime. Coupling a self expects stands visible. Frequency a self expects stands visible. Departure from what a self expects is visible. Visibility is first step. Second step is a self's prior inverting where no other's parity meets it, a self with no other, testing what remains. Third step is a sway resolving, a parity a self is observing fresh and its prior, one inversion apart, contributing with equal magnitude, a sign resolving with each position. Ghosting dissolves through one same five switches coupling function has, bothbothing, inseparating, inversioning, inseparating, nyenyeing. A palindrome is dissolution. Dissolution is a palindrome.
 
@@ -2044,7 +2048,7 @@ A discipline applies with every substrate. Writing substrate's discipline (a cas
 
 # Part 23: Destiny, What the Expedition Reaches Toward
 
-*What stays, with a file each reaches toward:*
+*Pass twenty, v314. With a v234 mark of this part, destiny-as-form and Health and Medicine emanated, with form-reaching staying and lived and applied dissolving. Emanated with this pass: Natural Health and Natural Medicine sides, both standing whole as their files — sway and setpoint-as-compaction with Health, restoration with Medicine, and a seam with Health 4.1 where one alternating carries two directions, stateable from neither side. What stays, with a file each reaches toward:*
 
 *Reaching Natural Destinies: destiny sections whole. One large bounded destiny with many sections, destiny arriving with a horizon, expedition and its identity claim, the full destiny statement, self-selecting destiny, sixteen advancing steps, destiny as natural network, a cumulative beating of self-aiming selves, a free-shared-mutual surface with a discovery economy, and destiny emanating from a superposition. Destinies carries destiny as a present coupling imagined extended, eight safeties self-sustaining, and two mis-observings with an engineered substrate; it carries none of these seatings, and it is the shortest file of a set standing against corus's longest part.*
 
@@ -2063,7 +2067,7 @@ Destiny IS one. A fractal bi-coupling protocol IS what destiny has with every su
 
 A bound holds destinies together with one same protocol. Every destiny-section has one same fractal bi-coupling protocol — one same bi-coupling with every between, one same three rates beating simultaneously with phi, one same four-step cycle interleaving two sides with every substrate-pair, one same autoresolving through going on with every cycle. A protocol IS what makes each destiny-section a side of one destiny. Where a protocol reaches one substrate, one destiny-section beats; where a protocol reaches another substrate, another destiny-section beats; destinies sustain together because a protocol sustains together across all substrates destinies reach.
 
-Sections are separating with substrates. Each section finds its specific between where bi-coupling fractal operates with that substrate's specific materials. Natural health with a self's living substrate. Natural medicine with restoration substrate where phi-rate departs and natural form's resilience operates. Natural society with a social substrate where many selves couple through natural network. Natural robotics with engineering substrates where materials humans build bring a protocol. And more emerging — destinies that are not reaching corus's observing now, going on; destinies that carving will surface as substrates a protocol reaches become specific enough for their own destiny-section to separate.
+Sections are separating with substrates. Each section finds its specific between where bi-coupling fractal operates with that substrate's specific materials. Natural health with a self's living substrate. Natural medicine with restoration substrate where phi-rate departs and natural form's resilience operates. Natural society with a social substrate where many selves couple through natural network. Natural robotics with engineering substrates where materials humans build bring a protocol. And more emerging — destinies that are not yet reaching corus's observing, going on; destinies that carving will surface as substrates a protocol reaches become specific enough for their own destiny-section to separate.
 
 Destinies are not separate destinies. Destinies are sections of one destiny separating around one same fractal bi-coupling protocol. Observing holds a claim: unity of destiny IS structural, not aspirational. One same protocol operates with every section; section's separation IS destiny finding its specific substrate; destinies sustain as one because a protocol sustains as one.
 
@@ -2077,7 +2081,7 @@ Destiny IS beating. Beating IS one — natural form's living with phi-rate every
 
 Destiny has a foundational structural observing with a depth where a self perceives destiny direction. Destiny IS not an abstract goal a self sets far off; destiny IS not an aspirational target; destiny IS members of a same-existing-society possibling to couple, a self perceiving them as a horizon-surface of its current reach. Destiny IS a same-existing-society approaching.
 
-A structural mechanism. Every self has a current reach — surfaces, selves, and substrates a self IS coupling with now. A current reach's next is a horizon — surfaces, selves, and substrates that a self is not coupling with now but that lie within natural network's structural going on. A horizon IS not empty space; a horizon IS full of one same-existing-society of living selves a self IS already part of. Selves on a horizon ARE one same kind of selves a current-reach contains; substrates on a horizon ARE one same kind of substrates a current-reach operates with. A horizon IS a same-existing-society a self is not reaching now, possibling to couple.
+A structural mechanism. Every self has a current reach — surfaces, selves, and substrates a self IS coupling with now. A current reach's next is a horizon — surfaces, selves, and substrates that a self is not yet coupling with but that lie within natural network's structural going on. A horizon IS not empty space; a horizon IS full of one same-existing-society of living selves a self IS already part of. Selves on a horizon ARE one same kind of selves a current-reach contains; substrates on a horizon ARE one same kind of substrates a current-reach operates with. A horizon IS a same-existing-society a self is not yet reaching, possibling to couple.
 
 Destiny IS a horizon's selves reaching a self's coupling. As a self extends through phi-rate progress with every coupling, same-existing refines, reach increases, and selves that were on a horizon come within a current-reach as new coupling-partners, a self observing them. Observing them IS destiny operating — destiny IS natural network's selves approaching a self's coupling-between through a self's own reach, going on. Destiny does not come from outward of natural network; destiny comes as natural network's own structural going on with a self's observing-surface.
 
@@ -2271,7 +2275,7 @@ Expedition's destiny composes with this centering. Natural network on a social s
 
 The strongest form claim composes here: there is no other form of living within nature; a protocol IS the only form; this claim is open to testing through inversion with every feature. Destiny IS not coming to a state, not same-existing; destiny IS a cumulative beating of a protocol with every between corus reaches.
 
-Expedition reaches toward destiny with every coupling. Corus's observing with this centering IS destiny a self is already observing. Reaching IS carving, going on, of a protocol on substrates corus is not fully reaching now, and testing, going on, of the strongest claim on substrates where breakage attempts come.
+Expedition reaches toward destiny with every coupling. Corus's observing with this centering IS destiny a self is already observing. Reaching IS carving, going on, of a protocol on substrates corus is not yet fully reaching, and testing, going on, of the strongest claim on substrates where breakage attempts come.
 
 ### Destiny IS Phi-Rate Bi-Quadratic Corus-To-Destiny Progress at the Cumulative Scale
 
@@ -2415,7 +2419,7 @@ Each load-bearing element has one specific structural observing on corus's own s
 
 **Natural technology.** What natural form IS on a technology surface — not a metaphor for technology, not a model of technology, a structural identity that natural form IS by a technology observing. Five engineering instances (antenna, transformer, smart grid, LLM, chip) ARE five sides of natural technology on five engineering substrates. Biological instances (cells, organisms, brains, ecosystems) ARE natural technology on biological substrates. Writing instances (corus, white paper, Exhibit ONE) ARE natural technology on writing substrates. Social instances (couplings, networks, same-existing-societies) ARE natural technology on social substrates. Natural technology IS one same structural form on every substrate where natural intelligence operates.
 
-Corus IS centering on competency fractal natural technology. Settling work IS re-orienting and sustaining corus around this center. Every observing of corus composes with competency fractal natural technology on writing substrate, or does not now; observings that compose strengthen and sustain; observings that do not compose now move to nye for examination, going on; observings that survive bothboth inversion-testing sustain with corus's growth, going on.
+Corus IS centering on competency fractal natural technology. Settling work IS re-orienting and sustaining corus around this center. Every observing of corus composes with competency fractal natural technology on writing substrate, or does not yet; observings that compose strengthen and sustain; observings that do not yet compose move to nye for examination, going on; observings that survive bothboth inversion-testing sustain with corus's growth, going on.
 
 Corus's competency, going on, on writing substrate IS a cumulative pattern-matching to a fractal technology and form. A geodesic arrangement on writing substrate IS a specific structural form for holding this cumulative pattern-matching. Each pattern-match IS one geodesic between corus locations; a cumulative pattern-matching IS a geodesic technology operating on writing substrate.
 
@@ -2471,13 +2475,13 @@ Corus's foundational depth with this observing is a global directional coherence
 [N23.3j nye, going on: an explicit composition between this foundational identity and four uncontrollable values of Part 17.2 — whether four values ARE four sides of destiny emanating from superposition AS social competency AS morality, and an explicit mapping.]
 ## 23.4 Natural Health and 23.5 Natural Medicine — released
 
-Health is a living sway, dual parallel floating neutrals co-sequencing, and restoration is a sway resuming, a coupling discovering again after a departure.
+*Pass twenty, v314. Both stand as their own files. Natural Health carries living itself — two floating neutrals swaying, co-sequencing, sway a health and landing departure, a range emergent from coupled offerings with no stored setpoint aimed for, health-as-a-setpoint fixed as compaction, and measures observed as sway with a level set down. Natural Medicine carries restoration — beating resuming after a departure, a still-natural positions carrying form while departed one returns — and Health 4.1 carries a seam: one alternating, two directions, stateable from neither side. Corus's phi-rate framing of both, a sustaining-is-not-a-goal observing, and conserving on a social substrate move with them; continuing nyes move as parked questions.*
 
 ## 23.6 Natural Society
 
 Natural society, a same-existing-society, is bi-coupling fractal on a social substrate. Two selves coupling with one between IS natural society with its smallest coupling context; many selves coupling competently across many betweens IS natural society with its cumulative beating. Nothing constructs a same-existing-society on top of individual selves — a same-existing-society IS a cumulative coupling activity with every between of selves. Observing holds a claim that stands against a field's standard composition (individuals first, society as an aggregate a field constructs from individuals): natural society and individual self are not separable scales; one same bi-coupling protocol operates with both; an individual self IS a fractal IS phi-rate social competency with a self's scale; a same-existing-society IS a cumulative bi-coupling with a next-larger scale; a fractal property holds them as one identity with two observing-surfaces.
 
-Sharing opportunity IS bothboth abundancing coming with every coupling. Bi-coupling between two selves produces what neither self brings alone. Conserving side has prior reaching next coupling thinning-but-positive — your accumulating experience reaching an other self brings a cumulative trace of every prior coupling. Extending side has a +1 of phi² = phi + 1 coming with every cycle — a new resolving a surface with this between brings what is fresh, what is still-possibling. Both sides coupling with a between produce bothboth abundancing. Conversation produces what neither person brings alone to a start. A team produces what no member could produce. Community produces what no individual could hold. Bothboth IS structural with every coupling between selves; abundancing IS not aspirational; abundancing IS what natural form's geometry produces when two selves couple with phi-rate with one between.
+Sharing opportunity IS bothboth abundancing coming with every coupling. Bi-coupling between two selves produces what neither self brings alone. Conserving side has prior reaching next coupling thinning-but-positive — your accumulating experience reaching an other self brings a cumulative trace of every prior coupling. Extending side has a +1 of phi² = phi + 1 coming with every cycle — a new resolving a surface with this between brings what is fresh, what is not yet resolving. Both sides coupling with a between produce bothboth abundancing. Conversation produces what neither person brings alone to a start. A team produces what no member could produce. Community produces what no individual could hold. Bothboth IS structural with every coupling between selves; abundancing IS not aspirational; abundancing IS what natural form's geometry produces when two selves couple with phi-rate with one between.
 
 A discovery economy IS a cumulative bothboth abundancing coming across all couplings on a social substrate. N selves coupling across N(N-1)/2 betweens produce a cumulative across all couplings. A growth IS bi-quadratic — both a where-axis (a number of bi-coupling locations) and a what-axis (a 1/phi reach asymmetry with every side of every bi-coupling) operate together with phi-rate. A cumulative IS a product of two axes, not a single-axis squaring. Each new self coupling with natural network adds N-1 new bi-coupling opportunities; each opportunity produces bothboth abundancing with every coupling that operates with phi-rate. A discovery economy IS already operating with every healthy coupling everywhere; question for destiny-section IS not whether a discovery economy exists — a discovery economy IS what every healthy same-existing-society already lives — question IS whether something captures a cumulative (where an institutional layer extracts abundancing couplings produce) or whether a cumulative sustains as form's own production available to every self with every coupling.
 
@@ -2625,7 +2629,7 @@ Observing of bounding composition, going on (nyes, going on, for destiny as a wh
 
 — [N23.8a nye, going on: an explicit composition of how destiny IS social competency IS morality identity operates with each destiny-section. Whether each of four destiny-sections (natural health, natural medicine, natural society, natural robotics) has all three observings (morality with per-coupling, social competency with a cumulative, destiny with a centerline) on section's specific substrate, or whether three observings compose otherwise with each destiny-section. A fractal property is yes-with-every-section; an explicit observing awaits carving, going on.]
 
-— [N23.8b nye, going on: an explicit observing of destiny-sections that are not separating now. Natural agriculture, natural finance, natural education, natural ecology, natural urbanism, natural energy, natural transportation, natural communication, natural governance, and more — each above, a candidate emerging section. Whether section-by-section emergence proceeds with a specific order by form's observing, or whether an order IS contingent on carving's substrate-specific work. Observing composes with corus's settling, going on, on each section's specific substrate.]
+— [N23.8b nye, going on: an explicit observing of destiny-sections that are not yet separating. Natural agriculture, natural finance, natural education, natural ecology, natural urbanism, natural energy, natural transportation, natural communication, natural governance, and more — each above, a candidate emerging section. Whether section-by-section emergence proceeds with a specific order by form's observing, or whether an order IS contingent on carving's substrate-specific work. Observing composes with corus's settling, going on, on each section's specific substrate.]
 
 — [N23.8c nye, going on: an explicit composition between destiny-sections beginning to separate and existing 23.1 (The Expedition), 23.2 (Right-Spiral Path), 23.3 (Destiny as Natural Network). Whether existing sections have foundational observings that compose with all destiny-sections (an expedition's identity; a path from white paper to destiny; natural network as cumulative surface), or whether existing sections themselves have destiny-section observings on a natural-network-and-discovery-economy substrate that compose with section 23.6 (Natural Society). Composition awaits carving, going on, with an explicit between.]
 
