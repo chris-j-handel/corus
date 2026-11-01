@@ -4,6 +4,23 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 **This plan orders the improving across and along the whole living file set, around one merged table of contents with Natural Intelligence's contents as its shell.** Its value is gathered at `Living_Improving_Value.md` beside it. The plan is living: each pass brings it current, and nothing in it is a rule.
 
+## A working opening a session
+
+**Read first, whole:** Natural Intelligence with Exhibit ONE, Natural Explaining, Natural Naming and the Geodesic Improving Method; then this plan and `Living_Improving_Value.md` beside it. Its Part ONE holds the session v394's learning: the ten's stable form, one number at each number, and the holes.
+
+**Working together, floating concepts a working found and none a rule:**
+
+- No wording has authority: the person's, a working's or a file's. A concept holds by its own value and by co-chaining, all or none at all. Nothing decides: nature has one method, and a concern resolves as its binary is-or-is-not explaining is found within the living files.
+- The person speaks in plain words and offers concepts. The working says each concept in natural explaining before it is gathered, and shows that saying in the conversation, where the person corrects it. The person's words are never copied into a file as settled.
+- One concern at a time, the largest first. Each concern stays in this plan's lists until it resolves. A concern files, code or a reading resolves is resolved within the working; only a concern needing the person's observing goes to the person, plainly, with no choices to pick among.
+- Only the files' and the person's words, and no new names; each file by its title. No idiom, character, metaphor, or pronoun without a plain referent; no *what* and no *understood*.
+- Words from a conversation enter the set only as gathered value. A living file changes only at its own improving, one file at a time, from its partner gathering-value, with its before and after shown.
+- No sweep across files. An improving valuable in many files is one general droplet, one version dropped into each partner gathering-value file where it is valuable.
+- Separate readers change nothing and still misjudge; the working reads each section itself.
+- Everything the person needs stands in the conversation; a document a working makes is its own organizing.
+
+**The next phase, value droplets.** A droplet holds a kind, its reason, its method of improving without harm, and an example, written as the finest explaining. It is read for harm, shown to the person, and dropped as one version into each partner gathering-value file where it is valuable. Its sources: `Living_Improving_Value.md` Part ONE (the ten's stable form, one number at each number, the holes), Part FOUR (kinds of improving in explaining and naming) and Part SIX (each file's waiting value).
+
 ## How the plan is kept
 
 - One clear large concern each pass, the largest first. Each pass is reported in the session's own conversation, where the person reads everything needed.
