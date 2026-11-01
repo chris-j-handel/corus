@@ -6,7 +6,7 @@ Living File Registry improving kit · Living Improving Value · v394
 
 ---
 
-## ONE · The expedition shell and the merged table of contents
+## ONE · The merged table of contents
 
 **Natural Intelligence is the leanest full explaining of the expedition's living value.** Its contents are likely the shell of a table of contents for the whole set, as its title, subtitle and contents intend.
 
