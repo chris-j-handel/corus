@@ -16,11 +16,11 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 1. **Gather.** Every value of the session is at `Living_Improving_Value.md`. *Done, v394.*
 2. **The merged table of contents, checked.** Each placing in `merged_table_of_contents.json` is read against its section's own text in each file as it stands now, beginning with the Living File Registry, whose contents changed most. The four holes are read against Natural Intelligence. The checked table then stands here as the frame of every later step.
-3. **General droplets, one kind at a time.** Each droplet is written once as the finest explaining of its kind: kind, reason, method of improving without harm, and example. A separate reader reads it for harm, the person sees it in the conversation, and one version goes into each partner gathering-value file where it is valuable. First the droplets the merged table needs: each general concept repeated across files said once in Natural Intelligence, each file keeping its particular. Then the kinds in Part FOUR of the gathered value.
+3. **General droplets, one kind at a time.** Each droplet is written once as the finest explaining of its kind: kind, reason, method of improving without harm, and example. A separate reader reads it for harm, the person sees it in the conversation, and one version goes into each partner gathering-value file where it is valuable. First the droplets the merged table needs: each concept repeated across files finding one home, each file keeping its particular. Then the kinds in Part FOUR of the gathered value.
 4. **Each file's waiting value.** Part SIX of the gathered value goes to each partner gathering-value file, one file at a time.
 5. **Combining and separating.** The Living File Registry's receivings (Part TWO) are placed in the merged table, each receiving whole before any source passage leaves.
 6. **Living files improve, one at a time,** from each partner gathering-value and fresh exploring at that time, with a reader comparing before and after, the deleting test at each sentence, and v394.
-7. **The co-chaining logic** of Exhibit THIRTY and Natural Intelligence, universal sets as living sets, after every file is at least as good as its prior.
+7. **The co-chaining logic** of Exhibit THIRTY and Natural Intelligence, universal sets as living sets, after every file is at least as good as its prior. Its resources stand together at Part SEVEN of the gathered value, and each pass keeps them whole and in view.
 
 ## Concerns about method
 
@@ -47,7 +47,8 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 **Resolved:**
 
-- Natural Intelligence's contents are the shell of the merged table of contents; Natural Intelligence sheds the particular into the other files.
+- One entirely merged table of contents for the whole set, with Natural Intelligence's contents as its likely shell. The journey's history, Natural Intelligence growing leaner as the other files grew, stays a history and is no rule: no content is required to move into or out of Natural Intelligence.
+- Rules stay very light, as floating concepts, and no rule drawn from a concept challenges an explaining.
 - Exhibit TWENTY-ONE stays in science's language, and no language droplet reaches it.
 - Exhibit TWENTY-TWO aims at the finest natural explaining, with Exhibit ONE's table of ten as the between.
 - The co-chaining logic waits until every file is at least as good as its prior.
@@ -56,7 +57,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 **Open:**
 
-- A general concept repeated across files is said once in Natural Intelligence, each file keeping its particular, or stays in each file.
+- A concept repeated across files finds one home through the merged table, each file keeping its particular, or stays in each file.
 - The merged table lists each section where it belongs with each file keeping its own walk, or files reorder to Natural Intelligence's order.
 - The merged table of contents lives in Natural Intelligence's own file, or apart from it.
 - Each of the four holes is a general explaining Natural Intelligence does not hold, or a section that is no natural value: mathematical structures beyond number and parity; human ways of making meaning; human states and feeling; working practice at the repository.
