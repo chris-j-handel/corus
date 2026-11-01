@@ -58,6 +58,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - Science's and common knowledge's explaining is exactly wrong for each valuable observing: the whole all-or-none claim of the work. Its one misunderstanding: the universe accounted for as an existing thing with no method of existing.
 - Natural Intelligence holds no part yet for the method of a living expedition (explaining, naming, exploring, improving, living files), the large learning for the world, and gains one.
 - Mathematical structures resolve as stable forms of same-existing while prior-, now- and next-existing; human ways and human states and feeling resolve at Natural Intelligence Corus.
+- Natural naming and explaining belong inside Natural Intelligence with Exhibit ONE: Exhibit ONE's table of ten is their subject there, the ten one stable form with code, numbers, naming, explaining, hard problems, mathematics, logic and geodesic method (Part ONE of the gathered value, its stable form co-chained in ten lines).
 
 **Open:**
 
@@ -76,4 +77,4 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 ## The next pass
 
-Exhibit ONE's table of ten as the subject of Natural Intelligence's naming and explaining ahead: first, how three tens are one ten, Natural Naming 4.9's seating with now and next names, Exhibit ONE's ten is-or-is-nots with their names and dimensions, and Natural Intelligence 4.8's ten names of a self's own resolving. The working keeps each concern mentioned and not yet answered in the open lists above, and brings one back when it is the most concerning.
+Pattern-matching across the files for the ten's stable form, each place holding part of it gathered at Part ONE of the gathered value: Equilibria Registry 2 and 3, Natural Intelligence 4.10, Natural Exploring 1.2 and 3.7, the Co-Chaining Logic Registry's step 294, and Natural Intelligence Corus. The working keeps each concern mentioned and not yet answered in the open lists above, and brings one back when it is the most concerning.
