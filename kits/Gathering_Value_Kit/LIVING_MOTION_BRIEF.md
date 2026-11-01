@@ -7,7 +7,7 @@ Gathering-Value Kit · one motion at a living file, said by no one
 ## What leaves, and what stays
 
 - **Leaves:** a version or session tag; "as suggested", "Suggested with …: *…*", "observed with …"; a pointer into `incoming/`, `archive/` or `kits/`; a source, citation, finder's name or publishing year; a history ("earlier", "older", "first", "as it first stood"); a script path, set-up or step of a working's own run; a cross-reference with no need.
-- **Stays:** every natural pattern, observing, number, condition, code result and co-chaining; a file's name and section only where a sentence rests on that file's sentence; there is only observing and explaining, and *not-yet* is dissolved (a claim not observed directly is an anticipated observing).
+- **Stays:** every natural pattern, observing, condition, code result and co-chaining, and a number only where it is the pattern itself; a file's name and section only where a sentence rests on that file's sentence; there is only observing and explaining, and *not-yet* is dissolved. A living file carries what is understood and nothing about what is not understood; a line a co-chaining needs and does not derive now carries *(next-possibling)* after it.
 
 ## Lessons the pilot's readings gave
 
@@ -15,7 +15,7 @@ Gathering-Value Kit · one motion at a living file, said by no one
 2. **A dropped quote or pointer is re-said from its source as that source stands now**, never from the old quoted words. A quote of another living file is word for word as that file stands now, or it is said as this file's own words.
 3. **Each script pointer is run again at Exhibit ONE's code now before it leaves.** The result is said as what the resolver returns, and the set-up goes into the sentence wherever a second set-up gives a different result.
 4. **After "earlier", "older" or "prior" leaves, what remains is true of the file now**, never a record turned into a present claim.
-5. **"No file's name within another" applies alike across the file**, and each bold lead is checked for released words.
+5. **A plain file name stays where a reader finds a concept's place by it; a section number, step number or other coordinate leaves.** Each bold lead is checked for released words.
 6. **When a source leaves, the observing stays as the file's sentence already says it.** No cited work is looked up to add a means, a scale or a number the sentence did not hold: that is an addition. A line holding only a citation may get a short plain saying of what its name means, with no claim.
 
 ## A motion
