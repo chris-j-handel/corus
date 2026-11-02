@@ -59,6 +59,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - Identical copies of one droplet improve together, since no living file changes with them.
 - Where two droplets part at one sentence, the sentence stays and the parting is held as a concern (Geodesic Improving Method 1.2).
 - A droplet is read for harm by a separate reader, shown to the person in the conversation, and goes into its partner gathering-value files, where distant explainings wait for the work inside each file.
+- Two workings go on together, orthogonal: resettling the living file set (gathered value, Part TEN) and the concepts discovered with the person (Part ELEVEN), each concept agreed going as a droplet to its partner gathering-value files. A concept changes no placing of the resettling, a placing changes no concept, and each seam between them is named at Part TEN; one working improving harms the other only where they are worked as one.
 - A session's conversation is improving too: both selves speak with errors while learning, no wording has authority, science's, a training's, the files' or the person's, and value is gathered from the conversation with each later understanding.
 
 **Open:**
@@ -111,4 +112,4 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 ## The next pass
 
-The person's observing of the four roots, the largest concern. Then each file's waiting value (Part SIX of the gathered value) goes to its partner gathering-value, one file at a time, and the order of each file's own improving follows the four roots' along. The pattern-matching for the ten's stable form, gathered at Part ONE, goes on with it. The working keeps each concern mentioned and not yet answered in the open lists above, and brings one back when it is the most concerning.
+Two workings, orthogonal. **Resettling:** the person's observing of the four roots, numbered 0 to 3 at each name's place within its four, and of the five dimensions as a second surface; then each file's waiting value (Part SIX) to its partner gathering-value, one file at a time, the order of each file's improving following the four roots' along. **Concepts:** each concept at Part ELEVEN said back until agreed, read for harm, and dropped at each partner gathering-value where it is valuable; open now, + and − dissolving, even one concept, and a self same as universal parity during possibling. The working keeps each concern mentioned and not yet answered in the open lists above, and brings one back when it is the most concerning.
