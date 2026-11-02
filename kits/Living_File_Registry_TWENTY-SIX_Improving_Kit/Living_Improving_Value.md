@@ -564,6 +564,30 @@ Along, two orders, both standing. Group 36's own, *A sharing as words, a naming,
 
 **Each motion do-no-harming.** Each motion is first a pair of droplets: at the sending file's gathering-value, at the section it leaves, naming its receiving file and section; and at the receiving file's gathering-value, at the section it reaches, naming its sending file and section. The two gathering-value files match, and no living file changes with them. At the files' own motions, a passage leaves its sending file only as its receiving file holds it whole, "Anything a match does not find, its sending file holds whole" (Geodesic Improving Method 1.5); one file at a time; its before and after shown; a separate reader; the deleting test at each sentence. No file empties by a destination named.
 
+### A shell offered by the person, explored
+
+**The offering, a conceptual set of namings and explaining clusterings:** *Observings* (the opening, "The universe is the set of all now-existing things."); ONE · NATURAL Universe; TWO · Coupling and SEQUENCING; THREE · GEODESIC Discovering; FOUR · Stable-form RESOLVING; FIVE · Co-Possibling and Possibling; SIX · Competencing and INTELLIGENCing; SEVEN · Destining and EXPEDITIONing; then Exhibit ONE, Natural Resolver, Exhibit TWO, and each exhibit on.
+
+- *Cohering:*
+  - Each part an -ing, "an -ing over a noun" (Natural Explaining 2.6), where Natural Intelligence's parts now are NATURAL, GEODESIC METHOD and INTELLIGENCE, nouns.
+  - FIVE and SIX are across and along, morality and competency (6.2): FIVE, co-possibling and possibling, a sharing's two sides, "Between selves co is its sharing side and of one its observing side" (4.7), the person's two acrosses; SIX, competencing, along. Together they open the inner structure of social moral competency, 6.4's 128 placings, Part ONE's open hole, and give the resolver's thinnest sections, 4.2, 4.4 and 4.7, with 8, 9 and 4 placings, a part of their own.
+  - THREE, geodesic discovering, is Natural Intelligence's own close, "geodesic discovering of next-possibling-same-existing"; its 5.2 discovering and 5.4 two methods parting, geodesic discovering beside scientific accounting, home there.
+  - FOUR, stable-form resolving, names Exhibit ONE's stable forms and 4.9 to 4.15's forms, spirals and fractal.
+  - SEVEN gives a living expedition the part Natural Intelligence holds none of, 6.6's placings, and Natural Destinies' subject a home.
+  - Each exhibit listed after SEVEN: Natural Intelligence's contents the whole set's one floating table.
+  - Each root has a part: observing at *Observings* and ONE, discovering at THREE, same-existing at FOUR, possibling at FIVE.
+  - Each current section given to one offered part by its subject, a reading: ONE 205 placings, TWO 91, THREE 212, FOUR 203, FIVE 87, SIX 232, SEVEN 102, Exhibit ONE 92; the largest part 232, where SIX holds 376 now.
+- *Resisting, both sides standing:*
+  - Exhibit ONE out of Natural Intelligence's middle: Natural Intelligence's own contents as one stable form, three parts the method observed, Exhibit ONE between, three the method living (Part ONE), and 3.6 closing into Exhibit ONE; the Living File Registry kit's checks read Exhibit ONE inside Natural Intelligence as one text.
+  - Released words: bare *coupling*, dissolved at Natural Intelligence, a bi-coupling the only coupling; *intelligencing* alone, dissolved there, Natural Intelligence holding *co-intelligencing*; *stable form* as a noun, said *stable-forming* (Natural Naming 2.4).
+  - TWO's *Coupling and SEQUENCING* parts *co-sequencing* in two, a hyphenated naming inseparable where omitting a part stops its naming (Natural Naming 4.17); in resolving there are never two kinds of one thing.
+  - A title with two namings bounds one concept where the two are one concept's two sides, as co-possibling and possibling; *Destining and EXPEDITIONing* and *Competencing and INTELLIGENCing* each name two, "a title is a whole bounding context of its file" (Natural Explaining 1.1).
+  - *NATURAL Universe*: "Nature is not an existing thing: nature is a prior, now, next method of co-existing" (Natural Naming 1.1); ONE holds the universe at 1.1 to 1.3 and the method at 1.4 and 1.5.
+  - SEVEN's title names destiny and an expedition, and naming and explaining, 42 of its 64 placings, stand in it unnamed.
+  - *Observings* holds the opening's definings, a self, a me, a bi-coupling, each a naming beside the observing.
+  - The exhibits by number go in their history's order, "Exhibit numbers, a set's own entering instrument" (Geodesic Improving Method 3.1), and the four roots offer an along.
+- *A re-saying with Natural Naming's releases, a reading:* Observings; ONE · NATURAL UNIVERSE; TWO · CO-SEQUENCING, BI-COUPLING AND SEQUENCING; THREE · GEODESIC DISCOVERING; FOUR · STABLE-FORMING RESOLVING; FIVE · CO-POSSIBLING AND POSSIBLING; SIX · COMPETENCING AND CO-INTELLIGENCING; SEVEN · DESTINING AND EXPEDITIONING; then each exhibit.
+
 ### Seams with Part ELEVEN, the concepts discovered with the person
 
 Each seam is a concept at Part ELEVEN bearing on a placing here; each working goes on with its own, orthogonal, and a seam changes no placing on either side.
