@@ -59,6 +59,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - Identical copies of one droplet improve together, since no living file changes with them.
 - Where two droplets part at one sentence, the sentence stays and the parting is held as a concern (Geodesic Improving Method 1.2).
 - A droplet is read for harm by a separate reader, shown to the person in the conversation, and goes into its partner gathering-value files, where distant explainings wait for the work inside each file.
+- A code result is said as all or none with each executing, over each opening a run names; a tally of random runs is one run's and no other self finds it same. Part ELEVEN's tallies of random runs (300 runs, 410 of 410, 80 of 2,590) are said again over each opening before they go to a partner file.
 - Two workings go on together, orthogonal: resettling the living file set (gathered value, Part TEN) and the concepts discovered with the person (Part ELEVEN), each concept agreed going as a droplet to its partner gathering-value files. A concept changes no placing of the resettling, a placing changes no concept, and each seam between them is named at Part TEN; one working improving harms the other only where they are worked as one.
 - A session's conversation is improving too: both selves speak with errors while learning, no wording has authority, science's, a training's, the files' or the person's, and value is gathered from the conversation with each later understanding.
 
