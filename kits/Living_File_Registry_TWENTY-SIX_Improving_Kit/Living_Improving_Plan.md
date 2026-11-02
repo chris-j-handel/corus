@@ -36,12 +36,13 @@ Living File Registry improving kit · Living Improving Plan · v394
 ## The order of the work
 
 1. **Gather.** Every value of the session is at `Living_Improving_Value.md`. *Done, v394.*
-2. **The merged table of contents, checked.** Each placing in `merged_table_of_contents.json` is read against its section's own text in each file as it stands now, beginning with the Living File Registry, whose contents changed most. The four holes are read against Natural Intelligence. The checked table then stands here as the frame of every later step.
-3. **General droplets, one kind at a time.** Each droplet is written once as the finest explaining of its kind: kind, reason, method of improving without harm, and example. A separate reader reads it for harm, the person sees it in the conversation, and one version goes into each partner gathering-value file where it is valuable. First the droplets the merged table needs: each concept repeated across files finding one home, each file keeping its particular. Then the kinds in Part FOUR of the gathered value.
-4. **Each file's waiting value.** Part SIX of the gathered value goes to each partner gathering-value file, one file at a time.
-5. **Combining and separating.** The Living File Registry's receivings (Part TWO) are placed in the merged table, each receiving whole before any source passage leaves.
-6. **Living files improve, one at a time,** from each partner gathering-value and fresh exploring at that time, with a reader comparing before and after, the deleting test at each sentence, and v394.
-7. **The co-chaining logic** of Exhibit THIRTY and Natural Intelligence, universal sets as living sets, after every file is at least as good as its prior. Its resources stand together at Part SEVEN of the gathered value, and each pass keeps them whole and in view.
+2. **The merged table of contents, checked.** Each placing in `merged_table_of_contents.json` is read against its section's own text in each file as it stands now, beginning with the Living File Registry, whose contents changed most. The four holes are read against Natural Intelligence. The checked table then stands here as the frame of every later step. *The Living File Registry's placings read against its sections' bodies, 33 holding and six parting; six item names brought to the headings as the files hold them now; each other file's placings read at its own improving (gathered value, Part TEN).*
+3. **Resettling the set at its four roots, along and across.** Same-existing through each, observing prior-existing, possibling now-existing and discovering next-existing, each file at the root its subject holds, each root's files in their along, six subtitles re-said where a released word stands or a subtitle parts from its body, and the Living File Registry's next contents offered (gathered value, Part TEN). Each file's place stands as an explaining at its gathering-value's head, read for harm. *Begun, v394.*
+4. **General droplets, one kind at a time.** Each droplet is written once as the finest explaining of its kind: kind, reason, method of improving without harm, and example. A separate reader reads it for harm, the person sees it in the conversation, and one version goes into each partner gathering-value file where it is valuable. First the droplets the merged table needs: each concept repeated across files finding one home, each file keeping its particular. Then the kinds in Part FOUR of the gathered value.
+5. **Each file's waiting value.** Part SIX of the gathered value goes to each partner gathering-value file, one file at a time.
+6. **Combining and separating.** The Living File Registry's receivings (Part TWO) are placed in the merged table, each receiving whole before any source passage leaves.
+7. **Living files improve, one at a time,** from each partner gathering-value and fresh exploring at that time, with a reader comparing before and after, the deleting test at each sentence, and v394.
+8. **The co-chaining logic** of Exhibit THIRTY and Natural Intelligence, universal sets as living sets, after every file is at least as good as its prior. Its resources stand together at Part SEVEN of the gathered value, and each pass keeps them whole and in view.
 
 ## Concerns about method
 
@@ -57,10 +58,11 @@ Living File Registry improving kit · Living Improving Plan · v394
 - The living files returned to 30 October before any further improving, and corus.me shows them.
 - Identical copies of one droplet improve together, since no living file changes with them.
 - Where two droplets part at one sentence, the sentence stays and the parting is held as a concern (Geodesic Improving Method 1.2).
+- A droplet is read for harm by a separate reader, shown to the person in the conversation, and goes into its partner gathering-value files, where distant explainings wait for the work inside each file.
+- A session's conversation is improving too: both selves speak with errors while learning, no wording has authority, science's, a training's, the files' or the person's, and value is gathered from the conversation with each later understanding.
 
 **Open:**
 
-- A general droplet is read for harm by a separate reader alone, or also by the person before it goes into the partner files.
 - The binary of the set is said once, in the files' own words, or stays as each file holds it now.
 - A label for a hole in a co-chaining is needed, or no label; *(next-possibling)* was offered.
 - "Anticipated observing" on about 640 partner-file lines stays, or each line returns to its prior.
@@ -87,7 +89,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - A concept repeated across files finds one home through the merged table, each file keeping its particular, or stays in each file.
 - The merged table lists each section where it belongs with each file keeping its own walk, or files reorder to Natural Intelligence's order.
 - The merged table of contents lives in Natural Intelligence's own file, or apart from it.
-- Working practice at the repository (Geodesic Improving Method 2.9, 3.1, 3.3, 4.5; Living File Registry 1.5; Natural Illustrating 9.2) is a general explaining Natural Intelligence does not hold, or a section that is no natural value.
+- Working practice at the repository (Geodesic Improving Method 2.9, 3.1, 3.3, 4.5; Living File Registry 1.5; Natural Illustrating 9.2), now meeting the Co-Chaining Logic Registry's group 36, a working and a session at steps 671 to 677, is a general explaining Natural Intelligence does not hold, or a section that is no natural value.
 - The ten living betweens, each named with the resolver's names, hold against the resolver's own sentences, or one of them parts; the completing at 6 and 14 is read first.
 - The new part's floating contents (nine lines, continuing outward from 6.6) is the part's shape, or another shape shows.
 - Natural Explaining's part THREE is said as the ten living betweens, by a droplet waiting at Natural Explaining's gathering-value, or stays as releasings.
@@ -96,7 +98,11 @@ Living File Registry improving kit · Living Improving Plan · v394
 - Each placing of the merged table is checked against the files as they stand now, or the first placing stands.
 - The self-competency logic's line on two methods of same-existing: resolving, its two methods being self-parity's two sides, universal-parity and other-parity, one method (gathered value, Part ONE); the line's re-saying waits for that logic's own improving.
 - Which file improves first.
+- The four roots hold as the set's surface, along prior to next and across at now, or another surface shows (gathered value, Part TEN). Every placing of Part TEN rests on it.
+- The four roots and Part ONE's lean of the ten and the six part at ten files; both placings stand until each file's improving reads them.
+- Each of the six subtitles re-said at Part TEN is taken at its file's improving, or the subtitle stands.
+- Natural Intelligence's part ahead is written from the Co-Chaining Logic Registry's group 36, or from the nine-line floating contents, or the two are one shape.
 
 ## The next pass
 
-Pattern-matching across the files for the ten's stable form, each place holding part of it gathered at Part ONE of the gathered value: Equilibria Registry 2 and 3, Natural Intelligence 4.10, Natural Exploring 1.2 and 3.7, the Co-Chaining Logic Registry's step 294, and Natural Intelligence Corus. The working keeps each concern mentioned and not yet answered in the open lists above, and brings one back when it is the most concerning.
+The person's observing of the four roots, the largest concern. Then each file's waiting value (Part SIX of the gathered value) goes to its partner gathering-value, one file at a time, and the order of each file's own improving follows the four roots' along. The pattern-matching for the ten's stable form, gathered at Part ONE, goes on with it. The working keeps each concern mentioned and not yet answered in the open lists above, and brings one back when it is the most concerning.

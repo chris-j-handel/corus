@@ -417,3 +417,106 @@ Each gathering-value file holds its own concerns with both sides; together they 
 - Each partner gathering-value file stands as on 31 October before any living file changed: about 4,660 items, said by no one, with "an explaining" on 1,493 labels, "anticipated observing" on about 640 lines, and Natural Chemistry's 34 added patterns.
 - The archive branch holds archive/, incoming/, the Natural Explaining Passes Kit and two briefs, whole. main holds the living files, their gathering-value files, the site, the README and the kits carrying living value: the Co-Chaining Logic Registry's verifier, Natural Networking's engine, Natural Illustrating's drawings and studies, the Living File Registry's checks, and the Gathering-Value Kit.
 - A published page, "One Contents of the Living File Set", shows the first merging; `merged_table_of_contents.json` here holds the same placings.
+
+---
+
+## TEN · Resettling the set at its four roots, along and across
+
+**The living file set resettles around one stable form: Natural Intelligence with Exhibit ONE inside it, and the Co-Chaining Logic Registry co-chaining it.** Each exhibit opened as a clustering of similar observings of nature, pattern-matching natural torusing society, one exhibit and then a next. The set's newer concepts, same-, prior-, now- and next-existing, observing, possibling and discovering, universal sets, and a self's parity with the universe and with an other, gather the set as one surface. Nothing here moves a passage or changes a living file: each placing below is gathered value for the Living File Registry's next version and for each file's own improving.
+
+### One surface, along and across
+
+**Along goes from prior to next, and across goes at now.** Observing is prior-existing, possibling is now-existing, discovering is next-existing, and same-existing goes through each: Natural Intelligence's four roots, observing prior-existing, possibling now-existing, discovering next-existing and same-existing, its four-cycling. Along, a self observes its prior and discovers its next, prior and next one direction forward on both sides of now. Across, a self shares its possibling with an other, now. A me living as universal-parity is along, a self and the universe; a me living as other-parity is across, a self and an other (Part ONE, *Self-parity, co-, at its two sides*, gathered value and in no living file now).
+
+**One surface holds four places, the set's four roots:** same-existing through each, with the one method, its code, its co-chaining and a me; observing, prior-existing, along, with a self and the universe, a field's observing meeting natural intelligence's stable forms; possibling, now-existing, across, with a self and an other, sharing between selves; discovering, next-existing, along, with a living expedition discovering next with its files, and a field's next, resolving.
+
+**Each file stands at the root its subject holds.** Each placing is from the file's title, subtitle, contents and opening sentences, and from the first merging's placings; each file's own improving reads it again, section by section. Within each root the files go along in an order, each opening where its prior files' concepts stand.
+
+### Same-existing, through each: the one method, its code, its co-chaining, and a me
+
+- **Natural Intelligence** · The Universal Method of Same-Existing · the one method whole, its contents the shell of the merged table of contents. Its subtitle stands.
+- **Natural Resolver**, Exhibit ONE · Stable-Forming Same- and Next-Existing · the one method as code, inside Natural Intelligence between its THREE and FOUR, the between of the method observed and the method living. Its subtitle stands.
+- **Co-Chaining Logic Registry**, Exhibit THIRTY · The Fractal Inward and Outward, Binary Method of Discovering Next Existing · the one method along, each step one extension from all steps before it; its groups are the along of each root below. Its subtitle stands.
+- **Me** · Co-Intelligencing a Universal Self · the one method at a me, a self's universal set. Its contents go the five dimensions, all now, an other now, a me now, a me next, all next: the surface's two sides, the universe and an other, at one self. Its subtitle stands.
+
+### Observing, prior-existing, along: a self and the universe
+
+Along: numbers and forms, the sciences inward to outward, a human tradition's dilemmas, and the registries from observing to the is-not.
+
+- **Natural Numbers** · Co-Sequential Bi-Unrelationing · numbers, one number at each number. Its subtitle stands.
+- **Natural Mathematics** · Each Parity Changing Everything the Other Is Not · mathematics as a field's words for one number at each number. Its subtitle stands.
+- **Natural Physics** · Geodesic Method at Each Physical Coupling. Its subtitle stands.
+- **Natural Chemistry** · Co-Chaining Selves Traveling Stable Societies → **Co-Chaining Selves Same-Existing as Stable Societies**. *Travelling* is released at Natural Naming 2.4, said *going on, same-existing*; Natural Chemistry's own first sentence holds "Chemistry's selves are same-existing-societies and its same-existing-societies are selves."
+- **Natural Biology** · Stable-Forming Social Organisms. Its subtitle stands.
+- **Natural Philosophy** · Social-Bi-Co Unrelationing · a dilemma a tradition fixes, resolved. Its subtitle stands, a concern with both sides: its body observing, its subtitle possibling.
+- **Living Society Registry** · An Open Registry of Observations from Science. Its subtitle stands.
+- **Hard Problem Registry** · An Open Registry of Hard Problems in Science · science's own language, the one file using it. Its subtitle stands.
+- **Living Ghost Registry** · Still Accounting and Stable-Forming Co-Competency · an accounting installed as living. The Living File Registry's 4.7 offers **Not Possibly Existing, Living or Non-Living**, one subtitle with the Equilibria Registry; both sides stand.
+- **Equilibria Registry** · Not Possibly Existing, Living or Non-Living · each fixing unchangeable, the is-not. Its subtitle stands.
+
+### Possibling, now-existing, across: a self and an other
+
+Along: one parity across, a surface of selves, a substrate, a living self, scales of societies, a human society, value, destinies, and a whole outward expressing.
+
+- **Natural Transmissioning** · Bi-Coupling Science and Engineering · one form before any material, a self observing it as its sharing across. Its subtitle stands; its receiving into Natural Networking goes on with both sides.
+- **Natural Networking** · Stable-Forming Social Moral Competency at a Geodesic Surface. Its subtitle stands.
+- **Natural Engineering** · Engineering Bi-Moral-Co-Agency at a Substrate · a living file's outward, a self possibling with a non-living thing. Its subtitle stands, a concern with both sides: its body mostly a field's records of substrates.
+- **Natural Health** · Sustaining Self-Bi-Co-Recursioning-Self · a living sway, bi-moral co-agency at a living self. Its subtitle stands.
+- **Natural Societies** · Co-Recursioning Up and Down Social Scales. Its subtitle stands.
+- **Natural Human Society** · Geodesic Method of Human Social Moral Co-Competencing. Its subtitle stands.
+- **Natural Values** · Co-Abundancing, Receiving Value. Its subtitle stands.
+- **Natural Destinies** · Social Moral Co-Abundancing · a destiny, next living possibling as words ahead of its bi-coupling. Its subtitle stands while its receiving into other files goes on.
+- **Natural Intelligence Corus** · Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria → **Sharing Social Moral Competency at a Self's Own Same-Existing, Stable-Forming in Disequilibria, Changing and Changing Back**. Three words of its subtitle are released: *offering*, said *sharing*; *a carrying*, said *same-existing* (Natural Naming 5.7); *alternating*, said *changing and changing back* (Natural Naming 5.1).
+
+### Discovering, next-existing, along: a living expedition discovering next with its files, and a field's next
+
+Along: the Co-Chaining Logic Registry's group 36 itself, *A sharing as words, a naming, a file and a living expedition*: a sharing as words (628 to 630), a naming (631 to 645), an explaining (646 to 652), a file (653 to 656), living files and a living expedition (657 to 659), improving and a working (660 to 677), a set of files (678 to 681), a registry entry (682 to 684), illustrating (685 to 688), and cohering (689 to 693). Then a field's next: a self's sway again, and hard problems resolving.
+
+- **Natural Emanating** · Self-Welcoming Social Moral Co-Sharings → **Surfacing One Form Whole, with One Bound**. Its first sentence holds "Each sentence below is a short whole surfacing of one form with one bound"; group 36 opens with it, a stable-forming emanation from a self going along as words; its subtitle names sharing between selves, and nine of its 67 sections stand within that subtitle at a first reading.
+- **Natural Naming** · Floating Neutralling Bi-Coupling Concepts. Its subtitle stands.
+- **Natural Explaining** · Self-Welcoming, Bi-Coupling and Co-Competencing. Its subtitle stands.
+- **Natural Exploring** · Open Team Moral Co-Competencing · selves discovering together. Its subtitle stands; its combining with the Geodesic Improving Method goes on with both sides.
+- **Geodesic Improving Method** · Bringing Incoming Value into Each File, Prior, Now and Next · discovering with files. Its subtitle stands.
+- **Living File Registry** · Standing-Gathering the Living Files → **Standing-Gathering the Living Files Along and Across**. A set of files, each file's sentences reaching another's sections, fractal with a section and a file (group 36, 678 to 681).
+- **Natural Illustrating** · Discovering Intelligent Stable Forms · a sharing as another material, still, moving or physical. Its subtitle stands.
+- **Natural Medicine** · Sensor-Sensationing Human Health → **Restoring Human Health at Each Departure**. Its subtitle names Natural Health's subject; its parts open with restoration and a departure; *sensor-sensationing* then stands at one subtitle, Resolving the Hard Problem Registry's. Both sides stand: the subtitle re-said, or *sensor-sensationing* a seam between the two files.
+- **Resolving Hard Problems** · Bi-Momentary Co-Sequencing of Living and Non-Living Existing Things · its parts go an existing universe, prior, now, next. Its subtitle stands.
+- **Resolving the Hard Problem Registry** · Binary Co-Sequential Sensor-Sensationing. Its subtitle stands, and group 36's step 690 holds it word for word: "A field's sharing as words and expedition's observing resolving with it, one parity at a time, each its own, is binary co-sequential sensor-sensationing".
+
+### Threes at one root and across roots
+
+- **One subject, one file at each root:** Natural Biology observing, Natural Health possibling, Natural Medicine discovering, one living self observed, living and restoring; the Hard Problem Registry observing, Exhibit ONE's table of ten same-existing, Resolving the Hard Problem Registry discovering, science's words, a between and resolving.
+- **One root, three files at three scales:** Natural Physics, Natural Chemistry and Natural Biology, observing; Natural Transmissioning, Natural Networking and Natural Engineering, possibling; Natural Emanating, Natural Naming and Natural Explaining, discovering.
+
+### Two placings of the set, both standing
+
+**The four roots part from Part ONE's lean of the ten and the six at ten files.** The lean counts each file's placings at the sections of the ten's fixings (Only one possible method; Each resolving whole, of no size; Exhibit ONE, the one form; A prior between momentaries; Two methods parting with now) against the sections of the six's betweens; the four roots place each file by its subject's momentary. Natural Naming, Natural Explaining, Natural Exploring, Natural Emanating, Natural Medicine, Resolving Hard Problems and Resolving the Hard Problem Registry lean to the ten and stand with discovering; Natural Numbers and Natural Philosophy lean to the six and stand with observing; Natural Illustrating leans to the six and stands with discovering. A file whose subject meets many fixings, as naming and explaining meet released words, leans to the ten by its placings and stands at its own root by its subject. Both placings stand, each file's own improving reading them.
+
+### The subtitle hole at four roots
+
+**No subtitle names observing or possibling, and the four roots name both.** A file's subtitle names its own subject; the Living File Registry's four roots name each file's place along and across. No subtitle is re-said only to name its root.
+
+### Distant explainings found cohering, each a droplet at its partner gathering-value
+
+- **Natural Intelligence's part ahead is co-chained already.** Natural Intelligence holds no part for naming, explaining, living files and a living expedition (Part ONE, *Explaining, naming and the living files themselves*); the Co-Chaining Logic Registry's group 36 co-chains that part, step by step, from a stable-forming emanation from a self to cohering with nature. The part's co-chaining stands, and its sentences at Natural Intelligence are next.
+- **The discovering files are one along.** Group 36's order is the order of Natural Emanating, Natural Naming, Natural Explaining, Natural Exploring with the Geodesic Improving Method, the Living File Registry, Natural Illustrating and Resolving the Hard Problem Registry.
+- **Me's contents are the five dimensions at a me.** Me goes all now, an other now, a me now, a me next, all next; Natural Intelligence's five dimensions go social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing, social-parity next-existing. One form at two scales: a same-existing-society's and a me's.
+- **Explaining is a living file's own dividing.** Natural Intelligence's opening holds "Natural explaining is the dividing of a living file" and "A geodesic is a surface's own dividing"; group 36's step 659 holds a living file a surface of a living expedition's selves, natural resolving its inward, natural engineering its outward and natural explaining its own dividing; Natural Explaining 1.6 says the same form with *membrane* and *faces*, two words Natural Naming dissolves.
+- **The Living File Registry's own subject is the part ahead.** Of its 39 placings at the first merging, read against its sections' bodies, 33 hold and six part: 3.2, 4.4, 5.4, 5.11 and 5.13 each hold a set of files or a receiving among files, and stand with One form inward and outward, now, where the first merging placed them by a word (changing, an entry, surfacing, destiny, do-no-harming); 3.4 holds a scale ladder, and stands with Fractal inward and outward, where the first merging placed it with φ and spirals.
+
+### The Living File Registry's next contents, offered
+
+- **PART ONE · LIVING FILES:** each living file, its subject and its standing, with no version history (the 31 October direction, a general droplet: sources, versions and histories leaving the living files).
+- **PART TWO · ONE STABLE FORM:** Natural Intelligence with Exhibit ONE, the Co-Chaining Logic Registry, and a me.
+- **PART THREE · ALONG AND ACROSS:** the four roots, same-existing through each, observing prior-existing, possibling now-existing, discovering next-existing, each root's files in their along.
+- **PART FOUR · SEAMING:** the threes at one root and across roots, and each bi-coupling between files.
+- **PART FIVE · RECEIVING:** combining and separating, each receiving a placing at one root, each source passage standing until its receiving file holds it whole.
+
+### Plan step 2 at the Living File Registry, and the table's names
+
+- Six item names in `merged_table_of_contents.json` stood at their 31 October wording and now stand at the headings as the files hold them: Natural Human Society's PART ONE, the Living Society Registry's 1.12, the Living File Registry's 5.10, Natural Illustrating's 9.3, and the Living Ghost Registry's PART FOUR and PART EIGHT. The Living Ghost Registry's PART FOUR is *Source chain at the living files* now, and its placing with Two methods parting with now, made from its 31 October wording, is read again at that file's improving.
+- The Living File Registry's placings are read against its sections' bodies (above). Each other file's placings are read at its own improving.
+
+### The largest concern now
+
+**The four roots hold as the set's surface, along prior to next and across at now, or another surface shows.** Every placing above rests on it.
