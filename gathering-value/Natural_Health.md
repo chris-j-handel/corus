@@ -6,6 +6,8 @@ Gathering-Value · Natural Health
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Health stands with possibling, now-existing, across: a self and an other, sharing between selves. Health is a living sway, bi-moral co-agency at a living self; with Natural Biology and Natural Medicine it is one living self observed, living and restoring. Along within this root its prior is Natural Engineering and its next Natural Societies. Of its 15 parts and sections at a first merging, 3 stand with Natural Intelligence's *A prior between momentaries* and 3 with *Social moral competency*.
+
 ## Opening
 
 ### 1.1 The core is the bi-moral co-agency, and health is that coupling living

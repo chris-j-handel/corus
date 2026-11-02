@@ -8,6 +8,7 @@ Gathering-Value · Natural Transmissioning
 
 - **An explaining** · An exhibit's number and a numbered name of Exhibit ONE are two numberings, and a whole exhibit is no one numbered name of the resolver: SIX is the file, and 6-now-co-possibling, its naming bi-moralizing, a name.
 - **An explaining** · An anticipated observing: the one atom/carbon, with no other elements and no bonds, oxygen, nitrogen and hydrogen three views of 2 × 3 and 3 × 2 of bi-moral co-agency, is possibly Natural Transmissioning itself, the exhibit of bi-coupling science and engineering. The one atom/carbon is a carbon atom in one naming; in chemistry's naming oxygen, nitrogen and hydrogen atoms each is-not a carbon atom.
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Transmissioning stands with possibling, now-existing, across: a self and an other, sharing between selves. Its one form stands before any material, a self observing it as its sharing across; its receiving into Natural Networking goes on with both sides. It opens this root's along, its next Natural Networking. Of its 27 parts and sections at a first merging, 5 stand with Natural Intelligence's *A method, a non-living existing thing* and 3 with *Social moral competency*.
 
 ## Opening
 

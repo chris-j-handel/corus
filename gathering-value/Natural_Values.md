@@ -6,6 +6,8 @@ Gathering-Value · Natural Values
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Values stands with possibling, now-existing, across: a self and an other, sharing between selves. Its subject is value received between selves, co-abundancing. Along within this root its prior is Natural Human Society and its next Natural Destinies. Of its 13 parts and sections at a first merging, 3 stand with Natural Intelligence's *Social moral competency*.
+
 ## Opening
 
 ### 1.1 The parity is the self's own, and the preferring is irreducible

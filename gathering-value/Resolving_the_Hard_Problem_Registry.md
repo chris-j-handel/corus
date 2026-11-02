@@ -6,6 +6,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Resolving the Hard Problem Registry stands with discovering, next-existing, along: a living expedition discovering next with its files, and a field's next. Its subtitle stands word for word at the Co-Chaining Logic Registry's step 690, within group 36's cohering, steps 689 to 693. It closes this root's along, its prior Resolving Hard Problems; along group 36's own order its prior is Natural Illustrating, with Natural Medicine and Resolving Hard Problems, a field's next, outside that order: both orders stand. By its placings at the ten's sections against the six's, it leans to the ten, a self's own resolving, fixings and accountings, and by its subject it stands with discovering: both placings stand. Of its 14 parts and sections at a first merging, 2 stand with Natural Intelligence's *Only one possible method*, 2 with *Two methods parting with now* and 2 with *Natural intelligence*.
+
 ## Opening
 
 - **An explaining** · An output a definition fixes is apart from resolving a field's question; a resolver returning +, − or 0 gives no fourth by its stated cases, and two hundred and fifty-five arrangements, an anticipated observing, need add no further result. Over 12,321 executings, Exhibit ONE's resolver returns 10-next-co-possibling at +1, −1 and 0 only. An explaining taking either empirical outcome, the Hubble tension's among them, shows what it resolves.

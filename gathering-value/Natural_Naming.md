@@ -7,6 +7,7 @@ Gathering-Value · Natural Naming
 ## Head, the whole file
 
 - **Possible incohering** · "Turn released, and a momentary in its place" → Headings and contents lines are open to a re-saying: kept exactly, a dissolved concept stands at a file's most-read lines, as *Turn released*, *Released words, each with its saying*, *parity changing*, *a carrying* and *THE UNFOLDING'S RELEASING*.
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Naming stands with discovering, next-existing, along: a living expedition discovering next with its files, and a field's next. Naming is bounding, across, and explaining going on, along, together one discovering method; the Co-Chaining Logic Registry's group 36 co-chains a naming at its steps 631 to 645. Along within this root its prior is Natural Emanating and its next Natural Explaining. By its placings at the ten's sections against the six's, it leans to the ten, a self's own resolving, fixings and accountings, and by its subject it stands with discovering: both placings stand. Of its 119 parts and sections at a first merging, 12 stand with Natural Intelligence's *Only one possible method*, 12 with *One form inward and outward, now* and 9 with *Natural intelligence*.
 
 ## ONE · A NAMING, FOUR BOUNDINGS AT ONCE
 

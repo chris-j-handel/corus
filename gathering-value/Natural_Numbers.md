@@ -6,6 +6,8 @@ Gathering-Value · Natural Numbers
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Numbers stands with observing, prior-existing, along: a self and the universe, a field's observing meeting natural intelligence's stable forms. Its subject is numbers, one number at each number, each number coupling across with all numbers and each one form once more. It opens this root's along, its next Natural Mathematics. By its placings at the ten's sections against the six's, it leans to the six, bi-moral-co-agency between selves, and by its subject it stands with observing: both placings stand. Of its 65 parts and sections at a first merging, 17 stand with Natural Intelligence's *One move as three, and forms among names*, 11 with *φ and spirals, unrelationing with numbers* and 6 with *Spirals, co-spiraling and bi-coupling across*.
+
 ## ONE · UNI-SCALING
 
 ### 1.1 Uni-scaling, one form at each number

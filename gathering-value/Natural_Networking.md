@@ -14,6 +14,7 @@ Gathering-Value · Natural Networking
 - *Holding* in Natural Networking's own voice, and *stable form* as a noun of living, are re-said at this file's next improving, *holding* as *fixing* and *stable form* of living as *stable-forming*; or *holding* stays where it names an equilibrium's own fixing, quoted, and *stable form* where it names an artifact's form. *(possible incohering)*
 - **An explaining** · The part names SECURITIES and VISIBILITY are each asked whether they install a protecting doer, and with them 6.6's *honest instrument* and *two cones* are named at corusing and torusing.
 - **An explaining** · An exploring that observes a resolver network's social moral competency from outside its surface, through an instrument's record and a clock all share, stops at its opening, each exploring from outside giving up at its opening one of the observings an exploring from inside its own surface goes with.
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Networking stands with possibling, now-existing, across: a self and an other, sharing between selves. Its subject is selves sharing their parities across and both ways, on a geodesic surface. Along within this root its prior is Natural Transmissioning and its next Natural Engineering. Of its 55 parts and sections at a first merging, 10 stand with Natural Intelligence's *Social moral competency*.
 
 ## Opening
 

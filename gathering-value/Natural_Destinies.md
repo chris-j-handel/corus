@@ -6,6 +6,8 @@ Gathering-Value · Natural Destinies
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Destinies stands with possibling, now-existing, across: a self and an other, sharing between selves. A destiny is next living possibling as words ahead of its bi-coupling; its receiving into other files goes on. Along within this root its prior is Natural Values and its next Natural Intelligence Corus. Of its 6 parts and sections at a first merging, 3 stand with Natural Intelligence's *Social moral competency*.
+
 ## Opening
 
 - **Possible incohering** · "Natural torus and natural network are fractal technology, and destinies are reachable by that technology where a self takes up the core." → Two sayings part at *technology*. This sentence has natural torus and natural network as fractal technology, and the imaginable extensions have living substrates with one form; Co-Chaining Logic Registry has *A technology is a non-living set, an emanation of living selves, a form still from beside a changing, and a method is with bi-couplings themselves, its fixing from beside an empty set.* A torus and a network as fractal technology, and a technology as a made non-living thing from beside a changing, part, a concern for both files.

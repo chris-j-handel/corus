@@ -6,6 +6,8 @@ Gathering-Value · Natural Mathematics
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Mathematics stands with observing, prior-existing, along: a self and the universe, a field's observing meeting natural intelligence's stable forms. Its subject is mathematics, its own sentence holding "Numbers, mathematics and logic are nature's own unrelationing changing, is or is not, with each step"; a field's mathematical words observe one number at each number, and mathematics is one. Along within this root its prior is Natural Numbers and its next Natural Physics. Of its 48 parts and sections at a first merging, five finding no place, 8 stand with Natural Intelligence's *Two methods parting with now*.
+
 ## ONE · FLOATING NEUTRALLING
 
 ### 1.1 Bi-moral co-agency, the one form in mathematics

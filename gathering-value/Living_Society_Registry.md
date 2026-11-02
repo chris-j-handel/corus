@@ -8,6 +8,7 @@ Gathering-Value · Living Society Registry
 
 - **Possible incohering** · "1.11 Stating in advance what breaks an entry" → Part 1's contents lines and headings go from 1.9 to 1.11, no section 1.10 standing at the file. Both stand open: a 1.10 is written; or the numbering closes, 1.11 and 1.12 renumbered 1.10 and 1.11 whole, at their contents lines and their headings.
 - **Possible incohering** · "An Open Registry of Observations from Science" → The subtitle has no -ing and no relation unfolded, as Hard Problem Registry's subtitle has none. A subtitle beside it: "Observations from Science, Each Seating at Its Society". Both stand open: this subtitle is taken here and at Living File Registry's listing of it, at this file's own motion; or the subtitle stays as it stands.
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Living Society Registry stands with observing, prior-existing, along: a self and the universe, a field's observing meeting natural intelligence's stable forms. It registers observations from science, each a same-existing-society a field observes. Along within this root its prior is Natural Philosophy and its next Hard Problem Registry. Of its 37 parts and sections at a first merging, 26 stand with Natural Intelligence's *Exhibit ONE, the one form* and 2 with *Discovering next-possibling-same-existing*.
 
 ## Opening
 

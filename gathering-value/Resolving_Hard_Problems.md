@@ -7,6 +7,7 @@ Gathering-Value · Resolving Hard Problems
 ## Head, the whole file
 
 - **Possible incohering** · "Bi-Momentary Co-Sequencing of Living and Non-Living Existing Things" → Bi-Momentary Co-Sequencing of Existing Things
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Resolving Hard Problems stands with discovering, next-existing, along: a living expedition discovering next with its files, and a field's next. Its parts go an existing universe, prior, now, next, a field's entry at the resolver and competency of next living: hard problems resolving, a next. Along within this root its prior is Natural Medicine and its next Resolving the Hard Problem Registry. By its placings at the ten's sections against the six's, it leans to the ten, a self's own resolving, fixings and accountings, and by its subject it stands with discovering: both placings stand. Of its 33 parts and sections at a first merging, 5 stand with Natural Intelligence's *Two methods parting with now*, 4 with *Living and non-living things within one universe* and 3 with *A prior between momentaries*.
 
 ## ONE · AN EXISTING UNIVERSE
 

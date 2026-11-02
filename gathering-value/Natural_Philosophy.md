@@ -6,6 +6,8 @@ Gathering-Value · Natural Philosophy
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Philosophy stands with observing, prior-existing, along: a self and the universe, a field's observing meeting natural intelligence's stable forms. Its body, 45 of its 60 sections at a first reading, is a dilemma a tradition fixes, resolved, observing; its subtitle names possibling between selves, a concern with both sides. Along within this root its prior is Natural Biology and its next Living Society Registry. By its placings at the ten's sections against the six's, it leans to the six, bi-moral-co-agency between selves, and by its subject it stands with observing: both placings stand. Of its 61 parts and sections at a first merging, two finding no place, 8 stand with Natural Intelligence's *Bi-moral co-agency, across and along* and 6 with *Two methods parting with now*.
+
 ## Opening
 
 ## PART ONE · DIVIDING

@@ -6,6 +6,8 @@ Gathering-Value · Natural Physics
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Physics stands with observing, prior-existing, along: a self and the universe, a field's observing meeting natural intelligence's stable forms. Its subject is a physical coupling, a field's observing meeting the stable forms. Along within this root its prior is Natural Mathematics and its next Natural Chemistry. Of its 45 parts and sections at a first merging, 13 stand with Natural Intelligence's *Two methods parting with now*, 4 with *Exhibit ONE, the one form* and 4 with *Discovering next-possibling-same-existing*.
+
 ## ONE · A PHYSICAL COUPLING
 
 ### 1.1 A physical coupling, one method at each physical subject

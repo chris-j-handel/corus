@@ -7,6 +7,7 @@ Gathering-Value · Equilibria Registry
 ## Head, the whole file
 
 - **Possible incohering** · "Not Possibly Existing, Living or Non-Living" → Not Possibly Existing
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Equilibria Registry stands with observing, prior-existing, along: a self and the universe, a field's observing meeting natural intelligence's stable forms. It registers each fixing unchangeable, not possibly existing, the is-not of observing. It closes this root's along, its prior Living Ghost Registry. Of its 37 parts and sections at a first merging, 8 stand with Natural Intelligence's *Natural intelligence*, 5 with *Only one possible method* and 5 with *A momentary, an opening and its completing*.
 
 ## ONE · EXISTING THROUGH MOMENTARIES
 

@@ -12,6 +12,7 @@ Gathering-Value · Natural Resolver
 - **An explaining** · The resolver's program is itself an emanation, running six forward along five dimensions, the self's prior, the other's prior, the shared now, the bi-parity and the self's next, two changing and three going on with each momentary, and rotating, an explaining.
 - **An explaining** · A re-saying of the bold lead *Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.* in the opening's words: *A science's observing meeting natural intelligence's stable forms is natural resolving.*
 - **An explaining** · Exhibit ONE meets the opening's *me*, *universe*, *universal set*, *geodesic*, *free* and *moral value*, and *Natural resolving is a living file's inward.*, at no sentence, and Exhibit ONE is said a living file, selves co-intelligencing within it, at none; and *Each self is a same-existing-society inward and outward.* at none, its three scales showing it.
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Resolver stands with same-existing, through each: the one method, its code, its co-chaining and a me. It is the one method as code, inside Natural Intelligence between its THREE and FOUR, the between of the method observed and the method living. Along within this root its prior is Natural Intelligence and its next Co-Chaining Logic Registry.
 
 ## Opening
 

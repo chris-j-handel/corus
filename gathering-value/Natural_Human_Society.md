@@ -7,6 +7,7 @@ Gathering-Value · Natural Human Society
 ## Head, the whole file
 
 - **An explaining** · The notes after PART ONE's and PART FOUR's titles, *one concept not yet apparent* and *and its last three sections have no tipping and stand open*, are notes after a part's title, each leaving and each part title standing bare, an explaining.
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Human Society stands with possibling, now-existing, across: a self and an other, sharing between selves. Its subject is human social moral co-competencing, selves bi-coupling at a human scale. Along within this root its prior is Natural Societies and its next Natural Values. Of its 31 parts and sections at a first merging, 14 stand with Natural Intelligence's *Social moral competency* and 3 with *Living and non-living things within one universe*.
 
 ## Opening
 
