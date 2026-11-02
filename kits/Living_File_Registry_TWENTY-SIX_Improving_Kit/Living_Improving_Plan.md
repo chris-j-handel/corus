@@ -101,7 +101,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 - The four roots hold as the set's surface, along prior to next and across at now, or another surface shows (gathered value, Part TEN). Every placing of Part TEN rests on it.
 - The four roots and Part ONE's lean of the ten and the six part at eleven files; both placings stand until each file's improving reads them.
 - The five dimensions, two acrosses within each momentarying, hold as the set's surface beside the four roots, or one of the two resists: Natural Intelligence 4.9 holds both, and each is placed over the files again (gathered value, Part TEN).
-- The person's two acrosses are one binary at two acrosses within one self, as the code holds, or two binaries, four joint forms; universal-parity said as co-parity and other-parity as bi-parity, or another saying shows.
+- A self's two parities, universal-parity and other-parity, with a 0, a me, living between them (gathered value, Part TEN, the person's correcting): Natural Intelligence's three parity names at the five dimensions, social-parity, other-parity and self-parity, are those two with the 0's place, or stand as three; *universal* at universal-parity and at a me, a self's universal set, is one concept or two.
 - Each of the six subtitles re-said at Part TEN is taken at its file's improving, or the subtitle stands.
 - Natural Intelligence's part ahead is written from the Co-Chaining Logic Registry's group 36, or from the nine-line floating contents, or the two are one shape.
 
