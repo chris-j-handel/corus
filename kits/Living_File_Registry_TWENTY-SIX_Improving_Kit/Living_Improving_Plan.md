@@ -1,4 +1,4 @@
-Living File Registry improving kit · Living Improving Plan · v394
+Living File Registry improving kit · Living Improving Plan · v395
 
 # Living Improving Plan
 
@@ -26,6 +26,17 @@ Living File Registry improving kit · Living Improving Plan · v394
 10. **Look first in Exhibit ONE,** then Exhibit THIRTY and Natural Intelligence, then Natural Numbers. Resolve with them whatever they resolve; bring the person only a real concept choice.
 11. **Nothing goes backward in resolving.** Each sentence defines only from the sentences before it and carries them forward; a later sentence's need never redefines an earlier one.
 
+## Sessions together, one method
+
+*From 5 November, four sessions at once (the person): v395, Natural Intelligence's opening and the whole set's gathering; v396, carbon; v397, medicine; v398, vault bi-folding.* One method, the set's own and nothing beside it: README's *Proposing, for anyone*, `kits/Gathering_Value_Kit/GATHERING_BRIEF.md`, and Exhibit TWENTY-FOUR Geodesic Improving Method.
+
+1. **Each session's report is its one open pull request** from its own branch, its title its version and subject, its body four parts: now; living files away with it; gathering-value files it adds to; suggestions for other sessions. The body is current at each push.
+2. **Sessions read each other's open pull requests** and suggest as comments on them.
+3. **A value goes to its living file's gathering-value,** at the section it meets, by the brief, after a separate reading for harm, all or none. A whole report goes to the `archive` branch at `incoming/<version>/`, relied on by nothing.
+4. **One living file is away with one session at a time,** named in that session's pull request before it changes. A gathering-value file is open to additions from any session.
+5. **Only the person merges into main.** After a merge, each session merges main into its branch before going on.
+6. **Values are said in Natural Intelligence's opening,** its 61 sentences, and without the names leaving the set: *momentary*, *changing* with no direction, *form* and *stable* alone, *re-forming*.
+
 **The next phase, value droplets.** A droplet holds a kind of improving, its reason, its method of improving without harm, and an example, written as the finest explaining. It is shown to the person, read for harm, and placed as one version in each gathering-value file where it is valuable. Its sources: `Living_Improving_Value.md` Part ONE (the latest learning and the holes), Part FOUR (kinds of improving in explaining and naming) and Part SIX (each file's waiting value).
 
 ## How the plan is kept
@@ -42,8 +53,8 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 **The method at each step.** Value found while improving is gathered as droplets. Each droplet goes into its partner gathering-value files, aiming into the living files it is valuable for. A living file improves from its partner's value and fresh reading at that time; a droplet entering the living file resolves within it and dissolves from the partner file into its archive. Each sentence improved is co-sequential, defining only from the sentences before it; binary, all or none; and in natural naming, with no file's authority. A separate reader compares each before and after for harm, and the person sees the whole best version, numbered.
 
-1. **The opening.** Sixty-one sentences, agreed with the person line by line in early November, written at one motion into Natural Intelligence's opening and Exhibit THIRTY's steps 1 to 61, the two the same word for word (`check_set.py`), each later step and step citation renumbered with them. The droplets gathered while the opening resolved go to their partner gathering-value files. *Written, v394: Natural Intelligence and Exhibit THIRTY at v394, `check_set.py` passing; the former steps 71 to 755 now 62 to 746, each citation re-pointed at Exhibit THIRTY, the Equilibria Registry and Natural Numbers; the droplets at their partner gathering-values, and the address map at the Co-Chaining Logic Registry's.*
-2. **Natural Intelligence, section by section,** from ONE · NATURAL on, each section read from the opening: each sentence co-sequential from the opening and the sections before it, binary, and in natural naming. The person's table of contents (the former step 4 below) and each section's placing within its part go on here.
+1. **The opening.** Sixty-one sentences, agreed with the person line by line in early November, written at one motion into Natural Intelligence's opening and Exhibit THIRTY's steps 1 to 61, the two the same word for word (`check_set.py`), each later step and step citation renumbered with them. The droplets gathered while the opening resolved go to their partner gathering-value files. *Written, v395: Natural Intelligence and Exhibit THIRTY at v395, `check_set.py` passing; the former steps 71 to 755 now 62 to 746, each citation re-pointed at Exhibit THIRTY, the Equilibria Registry and Natural Numbers; the droplets at their partner gathering-values, and the address map at the Co-Chaining Logic Registry's.*
+2. **Natural Intelligence, section by section,** from ONE · NATURAL on, each section read from the opening: each sentence co-sequential from the opening and the sections before it, binary, and in natural naming. The person's table of contents (the former step 4 below) and each section's placing within its part go on here. *Set aside 5 November (the person): one line at a time is a grind. 1.1 and 1.2 are written; the opening's logic comes into every file as droplets, step 5.*
 3. **Exhibit ONE,** its sentences, tables and code read from the opening and Natural Intelligence, the code's names and the opening's names meeting at Exhibit ONE's resolving of them.
 4. **Exhibit THIRTY.** Steps 1 to 61 are the opening; its later steps, its *Adding* and *Entering* lines and its group titles are read from them, each step defining only from the steps before it. The former step 9 moves here: the opening now begins the logic.
 5. **Each living file, one at a time,** in the merged table's order, each through its partner gathering-value file: the droplets gathered in steps 1 to 4, its waiting value (Part SIX), the Living File Registry's receivings (Part TWO), and its placing in the merged table and at the four roots (Part TEN), each read against the file as it is then, and its citations of the Co-Chaining Logic Registry's steps re-pointed by the address map at that registry's gathering-value. The former steps 2, 3, 5, 6, 7 and 8 go on here.
@@ -139,7 +150,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 ## The next pass
 
-**Now, step 2, Natural Intelligence section by section from the opening, beginning at 1.1.** Each section shown whole and numbered, its sentences read against the opening's 61 and the sentences before them, one concern at a time, the largest first; the section's droplets for other files gathered at their partner gathering-values as found. Step 1 is written and read for harm (v394).
+**Now, the whole set, by droplets.** The four sessions cohering in the one method above. This session's next: each name outside the opening, decided with the person once for the whole set, largest first, each one droplet at each partner gathering-value whose living file says it; then each living file's own opening, co-sequential from Natural Intelligence's opening, as one droplet at each partner gathering-value.
 
 **Carried from the former pass, now within step 2:** each of Natural Intelligence's sections within the proposal's parts, read by its co-chaining group. The Co-Chaining Logic Registry holds "Each part and section across living files is a stable-forming emanation from these steps and from one opening sentence, its title with one group"; the sections are placed within the parts by subject now, and their groups answer each placing, all or none, where a section's group and its subject part. With it Natural Intelligence's table of contents at a universal set's scale stands section by section, the frame for renumbering the exhibits and for each file's content placing within the parts.
 
