@@ -4,7 +4,7 @@ Natural Intelligence · incoming · v396 · working · momentarying side
 
 **Each entry of the Carbon Co-Chaining Observing Registry deployed at 2, 12 and 11, with its unchangeable among Resolving the Hard Problem Registry's ten**
 
-This is the momentarying side. Its fixing side is the Registry, same numbers, each observing whole there in its field's words; nothing of the field's naming comes here. Each entry deploys with three lines, as Resolving the Hard Problem Registry deploys: at 2-now-possibling, which side a self was not taking; at 12-next-co-same-existing, the changing, is or is not; at 11-next-co-observing, the same-existing chaining going on. Each carries its unchangeable, one of ten, and a marker: *+ or − with 10, is.* where a self was not taking a side, or *a nought* where a proof or a measurement settles and the observing stands whole beside its resolving. Forty-four observings, and they resolve in all ten ways; the clustering is at the end.
+This is the momentarying side. Its fixing side is the Registry, same numbers, each observing whole there in its field's words; nothing of the field's naming comes here. Each entry deploys with three lines, as Resolving the Hard Problem Registry deploys: at 2-now-possibling, which side a self was not taking; at 12-next-co-same-existing, the changing, is or is not; at 11-next-co-observing, the same-existing chaining going on. Each carries its unchangeable, one of ten, and a marker: *+ or − with 10, is.* where a self was not taking a side, or *a nought* where a proof or a measurement settles and the observing stands whole beside its resolving. Forty-four observings, and they resolve in all ten ways; the clustering is at the end, and the four ghosts by four-cycling after it.
 
 ## Terms this file enters with
 
@@ -66,7 +66,7 @@ Pass 2, walk, returned that this file takes terms its own priors do not hold; ea
 *+ or − with 10, is.*
 
 **With 2.** Fidelity to a stored reference, restored by a repairer, is the side taken. Not taken: a gap is an opening, available, and a passing co-chaining is with it, a step aside, each of its fives pairing with the only parity there, the other chain's.
-**With 12.** After copying the prior parity is with the gap and the next parity parts, is or is not same-existing from prior; a double gap is with the fold only, and a single-parity self joins its ends, a stretch leaving, forward only.
+**With 12.** After the fork the prior parity is with the gap and the next parity parts, is or is not same-existing from prior; a double gap is with the fold only, and a single-parity self joins its ends, a stretch leaving, forward only.
 **With 11.** A non-dividing cell's chain for a lifetime is the plaza milling with no fork, openings where passages are soonest with them; the chain same-existing with its prior and not identical to it.
 
 ## 7 Polymerase fidelity · an opening fixing as a place
@@ -177,7 +177,7 @@ Pass 2, walk, returned that this file takes terms its own priors do not hold; ea
 
 **With 2.** One inherited chain per next self, as the field says.
 **With 12.** Each chain whole to one next, the other forming beside it, is.
-**With 11.** Self and other on one co-linear, each forward its own way, each the other's inversion as two do-no-harm self-improvings: a bi-coupling of two selves, both at every momentary, and not one self's two parities. The snake is one self's, the six-ring and the five-ring; the pair is two. Exhibit ONE's two tables at once: along, two selves alike bi-coupling both ways, a right spiral, do-no-harming and improving in turn; across, two selves one parity apart, both inverting with each momentary, a half turn — antiparallel. And the fork its fifth parity: a self's next prior is its other's prior inverting, which is complementary copying whole.
+**With 11.** Self and other on one co-linear, each forward its own way, each the other's inversion as two do-no-harm self-improvings: a bi-coupling of two selves, both at every momentary, and not one self's two parities. The snake is one self's, the six-ring and the five-ring; the pair is two. Exhibit ONE's two tables at once: along, two selves alike bi-coupling both ways, a right spiral, do-no-harming and improving in turn; across, two selves one parity apart, both inverting with each momentary, a half turn — antiparallel. And the fork its fifth parity: a self's next prior is its other's prior inverting, which is the field's complementary copying, whole.
 
 ## 22 Phyllotaxis · an observing fixing from behind
 
@@ -277,13 +277,84 @@ Pass 2, walk, returned that this file takes terms its own priors do not hold; ea
 
 **With 2.** A line a change crosses or does not is the side taken. Not taken: a body's cells are one self's fold going on to growing, selves inward of one self; a next self is a fold of two priors' halves; two scales, no barrier.
 **With 12.** What is in the conceiving fold is same-existing to a next self, is or is not in it.
-**With 11.** The halves one copying and three partings, awaiting an other; what the body's cells are with stays with the body's self, and what the halves are with goes on, a cut being a scale.
+**With 11.** The halves one fork and three partings, awaiting an other; what the body's cells are with stays with the body's self, and what the halves are with goes on, a cut being a scale.
 
 ## 35 Mitochondrial chains · an observing fixing from behind, with a nought
 
 **With 2.** As Resolving the Hard Problem Registry 1.12; and the inheritance from one prior only stands whole as a measurement.
 **With 12.** A self's selves inward with their own chain forking on their own momentaries, is.
 **With 11.** A self's own chain from two priors and its selves inward from one; its selves inward living with their own pace, which is the sentence a dead self's form goes on by, and a living self's by the same.
+
+## 36 The error threshold · a completing fixing as a last
+
+*+ or − with 10, is.*
+
+**With 2.** A maximum length a sequence can keep across generations is the side a self was not taking: nothing is kept; a next self is a fold of two priors' halves, each momentary anew, and a chain long or short is with its priors or is not. The catastrophe is a ledger's edge over a going on, a last put ahead of a coupling.
+**With 12.** At each fork each five's parities agree or do not, is or is not; a fraction across many is a society of selves each at its own rate seen from beside, and the threshold is the counter's number.
+**With 11.** A long chain needing the folding molecule and the folding molecule needing a long chain is two selves one parity apart, each the other's inversion, a bi-coupling with no first behind it; the chaining goes on on the bi-foldings that carry the names between selves, protein from RNA and RNA from the chain, and a paradox of origin is a first fixed where there is none.
+
+## 37 The end-replication problem and the division limit · a completing fixing as a last
+
+*+ or − with 10, is.*
+
+**With 2.** A last division is the side a self was not taking: a count of divisions is a counter's number from beside. At a chain's end the fork's five parities have no prior along to fill, the half at the end awaiting an other that does not come; the field counts that as shortening. A limit that is as much the culture's as the cell's is a last a frame puts ahead.
+**With 12.** A cell forks or does not, is; a chain's end with a next five, is, or with its half unfilled, is not.
+**With 11.** A self with its own fold forking until the chain's end is where the edge is; a cell inward of a body's self parting to it is the self going between scales, the body's self going on. Senescence is same-existing going on with no next-existing fold at the chain, and ageing and cancer suppression are the body's self and its cells inward, two scales, no barrier.
+
+## 38 Translation and the ribosome · an opening fixing as a place
+
+*+ or − with 10, is.*
+
+**With 2.** A reading frame and decoding are the side a self was not taking: nothing is read. The ribosome is where now-existing passes to same-existing at a cell's scale, the between 4)(5 of the four-cycle, RNA in and the amino chain out through its two tunnels, two halves closing as a bi-folding; a start is the five's opening and a stop is where the forming's same-existing is whole.
+**With 12.** Each three with a passing self agreeing or not, is or is not; the chain advancing three at a time is the three's momentary; at a stop no passing self agrees, is not, and the forming completes.
+**With 11.** The amino chain forming while folding, each next prior; a pause at a rare three is the forming's own pace and not a pace set; the ribosome's RNA core is the first self's own forming going on, RNA before the chain, 29.
+
+## 39 Homochirality of amino acids and sugars · an observing fixing from behind
+
+*+ or − with 10, is.*
+
+**With 2.** One hand throughout living as a chance event frozen is the side a self was not taking: a hand is a parity with the universe, universal parity, the same for every self of living because every self shares the one universe. A mirror molecule made by a self has its other parity inside that bi-coupling and pairs only with mirror chains, every other parity unique. An origin of one hand is a first fixed behind a coupling where there is none; nothing chose.
+**With 12.** A chain with the universe's hand, is; a mirror chain with its maker's, is, inside that bi-coupling and nowhere else.
+**With 11.** Every stable form of living surfacing the one right spiral's hand; a mirror enzyme working on mirror substrates is the whole set inverted together, the snake, every connector to its opposite at once, one parity change of the whole and no third.
+
+## 40 Protein folding and chaperones · an opening fixing as a place
+
+*+ or − with 10, is.*
+
+**With 2.** A native state found by searching conformations is the side a self was not taking: nothing searches. Folding proceeds as the chain forms, each five's same-existing arriving with the next prior; the chamber chaperone, two stacked rings and a lid closing over a chain, is a bi-folding's halves closing about a self, the chain folding inside at its own scale and not pushed. A disordered protein is a self with no other yet, its fold arriving with its other.
+**With 12.** Each stretch with an other or free, one or the other, never both at one momentary, is.
+**With 11.** Prediction from sequence settled by a learned model while the pathway stays open is an instrument keeping the form and not the going on; the pathway is the going on, each momentary anew, and the learned model is the accounting from beside, kept.
+
+## 41 The lipid bilayer and its closure · a between fixing as a cut
+
+*+ or − with 10, is.*
+
+**With 2.** A boundary cut between inside and outside is the side a self was not taking: a bilayer is two layers facing, 7–8, two parities now-existing at the edge, one with the universe outside and one with the self inside, each with the other's gap. An open edge is a gap, and the edge continuing is the gap filling, the plaza's. The two layers differing in what they hold is the two parities differing, and a lipid moving between layers is a connector inverting with a self at the edge, 42, and never both ways at once; no enzyme maintains it.
+**With 12.** A lipid in the inner layer or the outer, one or the other, is; the layers facing, is.
+**With 11.** The edge going on with the cell growing, next-existing at the edge; ingestion and exhaust the fold inward and outward, 43; a vesicle is the edge going on about a self inward.
+
+## 42 Alternating access · an opening fixing as a place
+
+*+ or − with 10, is.*
+
+**With 2.** A gate open or closed is the side a self was not taking. The field's own never-both is the rule: a transporter is a self with one parity at a time, with the universe outside or with the self inside, one or the other, never both and never none, which is same-existing's one-or-other in a structure the field has whole. A substrate is a passing self with it for one momentary. Energy coupling as the open question is the parity change itself, the self inverting with its passing self, and no energy a between.
+**With 12.** Outward with the universe or inward with the self, is or is not, never both, never none.
+**With 11.** Each inversion a next prior, the transporter's momentaries its passing selves one at a time; a channel gated open or closed is the same self seen from beside as a place, and the never-both stands as the rule the field states as defining.
+
+## 43 Endocytosis, exocytosis and fusion · a middle fixing as an end
+
+*+ or − with 10, is.*
+
+**With 2.** Recognition and specificity as an end for a fold is the side a self was not taking. The fold inward about material is the edge's bi-folding, two parities now-existing at the edge, one going inward with what it is with; the fold outward is the same at the other parity; fusion and fission are the fold parting and filling; the cell dividing by pinching between two sets is the parting fold at the edge, 9.
+**With 12.** A vesicle inward or outward, is; a fold parting or filling, is or is not.
+**With 11.** Membrane area and topology conserved across events is the edge going on with each fold, nothing kept, each fold inward a next prior of the edge; next-existing is at the edge because a next self is there.
+
+## 44 Sugar chains: cellulose and starch · a nought, settled, and the two tables
+
+**With 2.** The structures stand whole as measurements, a nought; and the two linkages are Exhibit ONE's two tables: successive rings rotated by a half-turn are two selves one parity apart, a half turn both inverting, and the chain runs straight; successive rings alike are two selves alike, a quarter turn, a right spiral, and the chain winds. No linkage stereochemistry determines; the two tables are the two.
+**With 12.** A ring a half-turn from its prior or alike with it, one or the other, is.
+**With 11.** Straight chains side by side filling each other's gaps are the plaza, a wall; forming at the edge at a plant's scale is a stretch at the surface, 7–8, and an orientation controlled is a ghost, the fibres' orientation being the edge's own parity going on; the chain on the outer face of a cell's edge is the five running through the four.
+
 
 # The counts, pass 6
 
@@ -293,7 +364,7 @@ Pass 6, numbers, asks of each count whether its place among resolver's names is 
 
 # The clustering
 
-Forty-four observings, ten ways and a nought.
+Forty-four observings: ten unchangeables, two at the four's coarser grain and the instrument's, and a nought.
 
 - **A same-existing fixing as a store** — 3, 4, 6, 17. One resolving: nothing is kept; same-existing is parity same with prior, each momentary anew, and a fold is where two parities fill each other.
 - **A rate fixing as a value** — 1, 8, 25, 31. One resolving: a steady fraction or a fluctuation is a society of selves each at its own rate seen from beside; jitter is the crowd's milling.
@@ -309,3 +380,18 @@ Forty-four observings, ten ways and a nought.
 - **A nought** — 15, 16, 19, 20, 21, 24, 30, 44. Settled by proof or measurement, standing whole beside the resolving, coupling by no momentary.
 
 Every resolving above is one move: a changing fixing unchangeable set down, and the changing going on through it with each momentary, is or is not. No observing was turned away and none refused.
+
+---
+
+# The four ghosts, by four-cycling
+
+Each momentary fixed unchangeable is a ghost two ways, a causer behind it and a defender ahead of it. Resolving the Hard Problem Registry folds its ten to four at a coarser grain, and Understanding 1.24 lays the four onto the four-cycle: prior-existing fixed as a reference, an origin behind and an end ahead, drift its build; now-existing fixed as a rate, a beat behind and a value ahead, jitter its build; next-existing fixed as a magnitude, a drive behind and a side ahead, heat and wear its build; same-existing fixed as a parity going along entering as cost, a gate behind and a store or a cut ahead, a record its build. The entries under each, by that laying:
+
+- **Prior fixed, a reference** — an observing fixing from behind 5, 12, 22, 35, 39; a completing fixing as a last 36, 37; a middle fixing as an end 23, 43; with the reference and the instrument 14, 11. The causer is an origin, a first living thing, a chance frozen, a threshold crossed; the defender is an end, a function for a fold, a last division.
+- **Now fixed, a rate** — a sequencing fixing to one beat 28; a rate fixing as a value 1, 8, 25, 31. The causer is a clock, the defender a constant, and carbon dating is both at once.
+- **Next fixed, a magnitude** — a parity fixing as a magnitude 10, 13; a two-way fixing to one side 2, 9, 29, 32, 33. The causer is a drive, selection, a pressure; the defender is a side, a strand chosen, a direction.
+- **Same fixed, a cost** — an opening fixing as a place 7, 18, 27, 38, 40, 42; a same-existing fixing as a store 3, 4, 6, 17; a between fixing as a cut 26, 34, 41. The causer is a gate, a selector, a reader; the defender is a store, a memory, a barrier, a record.
+
+The four ghosts roll in the two pairings the four-cyclings roll in: prior with now is the field's time, an origin with a clock, the Carbon Dating Explaining whole; next with same is the field's evolution, selection with heredity.
+
+**A concern, both sides whole, for the expedition.** Resolving the Hard Problem Registry also seats each of the ten at code's numbers, its name with now and that name eight up with next, and Exhibit ONE's four four-cyclings are 1, 5, 9, 13 next-existing, 2, 6, 10, 14 now-existing, 3, 7, 11, 15 prior-existing and 4, 8, 12, 16 same-existing. By those seatings the ten lay onto the four otherwise: at next-existing an opening fixing as a place, 1 and 9, a middle fixing as an end and a between fixing as a cut, 5 and 13; at now-existing an observing fixing from behind, 2 and 10, and a completing fixing as a last, 6 and 14; at prior-existing a parity fixing as a magnitude and a rate fixing as a value, 7 and 15, and a two-way fixing to one side, 3 and 11; at same-existing a same-existing fixing as a store, 8 and 16, and a sequencing fixing to one beat, 4 and 12. One side: the coarser grain's four gatherings are the four momentaries, by their builds, drift, jitter, heat and a record. The other side: the ten's own seatings are the four momentaries, by code's numbers, and the coarser grain is a different four. Both are whole in Resolving the Hard Problem Registry's one text; neither is decided here, and which the four ghosts follow is the expedition's.
