@@ -43,11 +43,11 @@ The prior report stands at the archive branch, at `archive/vault-bi-folding/Vaul
 
 **Three corrections the prior report needs before any of that is gathered.**
 
-*First, and most important.* The prior report states that an identified half-vault's height fell from about 36 nm to 15 nm under greater probe force and recovered at lower force, and that twenty-two reversible topographic-damage events were followed in eleven reclining particles, attributing this to the 2014 mechanical-stability paper. **This session could not reach that paper at all** — the publisher and the archive both refused — so those numbers are unverified. They also sit oddly beside the 2016 paper, which was reached and which reports native heights near 35 nm, a fall to about 27 nm in its worked example, and flower-like cap structures near 15 nm. A conflation of the compressed half-vault height with the flower-like structure height is one possibility; a correct reading of a paper this session simply could not open is another. **The honest status is unverified, and those numbers are held out of the gathering until the 2014 paper is read first-hand.**
+*First — withdrawn, then read, and restored.* The prior report states that an identified half-vault's height fell from about 36 nm to 15 nm under greater probe force and recovered at lower force, and that twenty-two reversible topographic-damage events were followed in eleven reclining particles, attributing both to the 2014 mechanical-stability paper. This session could not reach that paper through four routes and withdrew both numbers rather than repeat them on an earlier working's word. The person then put the paper in front of the session directly, and it was read whole. **Both numbers stand exactly as the prior report had them**, and §9b carries the reading. The withdrawal was right as method and wrong as suspicion: nothing had been conflated. What the first-hand reading adds is larger than what it confirms, and it is in §9b.
 
 *Second.* The verified single-particle observing is the 2016 pH work, and its numbers are not the ones the prior report emphasises. Recombinant vaults from insect cells, adsorbed on graphite, imaged in liquid with the force kept under about 100 pN, 32 frames over 95 minutes, six labelled particles in one region, solution carried from pH 7.5 to 5.2 by syringe pumps. Height falls about 25 per cent over 24 images in slow exchange and about 37 per cent over 15 images in fast exchange, against about 2 per cent over 24 images at constant pH. One particle goes from about 35 nm to about 27 nm, the decline beginning near 50 minutes. Full vaults resting on a cap go from 70 nm to 51 nm. At pH 6.0, reclined full vaults are about 14 per cent lower and half vaults about 7 per cent lower, though the same paper's conclusions say 15 per cent. Melting temperature falls about 1.5 °C at pH 6.0 and about 13 °C at pH 5.0. **The authors state they cannot separate subunit loss from overall softening**, and the proposed histidine mechanism is marked speculative.
 
-*Third.* The figures the prior report carries for the asymmetry study — 32 per cent symmetric, 68 per cent asymmetric, 9.6 per cent half-vaults — were not re-verified this session, and the preprint of that work reports a different accounting. That paper needs a first-hand read before its numbers are gathered.
+*Third, and still withdrawn.* The figures the prior report carries for the asymmetry study — 32 per cent symmetric, 68 per cent asymmetric, 9.6 per cent half-vaults — were not re-verified this session, and the preprint of that work reports a different accounting. That paper needs a first-hand read before its numbers are gathered.
 
 Numbers in a gathering do not get to be approximately right. These three go back to the person and to a later reading rather than into a file.
 
@@ -174,6 +174,24 @@ A conflict stands beside it. The same polyribosome-templating idea, proposed fro
 
 ---
 
+## 9b. The withheld paper, read first-hand: a returning whose prior is not the probe
+
+The 2014 mechanical paper was put in front of this session directly and read whole. Both withdrawn numbers stand. What the reading adds is the distinction §12.3 asked for, supplied by the paper itself.
+
+**Two different returnings stand in it, and they are not the same relation.**
+
+The first follows the probe. Rat major vault protein from insect cells, on graphite, in liquid, jumping mode, cantilever nominal 0.05 N/m by Sader's method, mean heights 38 ± 2 nm reclining and 35.5 ± 2 nm half, at a maximal imaging force near 75 pN. With the imaging force altered frame to frame at about 3 min intervals, one half particle's height drops from 36 nm to 15 nm and returns to its original height at lower force — about 60% strain, repeated at further half particles, against about 10% at reclining particles, where the return is partial only. 15 nm matches the size of a cap alone. This returning has the lowering of the force as its prior.
+
+The second does not. Fractures the tip induces at the barrel **close again while the tip is elsewhere**. Recovery times part into three bands: under 650 ms, during the tip's retraction; 650 ms to 2 s, after the tip has left and before the next image; and over 2 s, slow enough that the broken particle is imaged whole before it mends. Across 617 curves at 26 half and 28 reclining particles, 179 of 260 at half particles recover under 650 ms — against the reclining count, where the account says 22% and its own 97 of 357 divides to 27%, two sayings parting and both kept. Twenty-two events of reversible topographic damage stand at 11 different reclining particles, all in the slow band. One reclining particle returns to its first shape within 90 s. The authors' condition for it: the bonds self-repair simply by being in a liquid environment at room temperature.
+
+So for the reclining particles most recoveries happen after the probe has gone. **That is a returning whose prior is not the probe's release**, and it is the observing the bothbothing correspondence had been resting on without anyone having read it.
+
+**Where it happens.** The fractures run along the contacts between two neighbouring major vault proteins, in the direction those proteins align — the across contacts, not the waist. A contact opening and closing again at the particle's own rate meets §3.7's *a closing that goes on cycling is living, and range with closing is what living requires* more nearly than anything else in the session's sources. The closest observing of all is one the separate reader restored after the gathering reader dropped it: under repeated indentation every curve shows a drop, and the structure after the cyclic loading stands unaltered.
+
+**One meeting to explore, not a correspondence.** The paper finds the barrel weak and the cap strong — fractures at the barrel surface only, and a bonding energy between two cap helices about four times that between two barrel sheet domains. That four-times is the account's own estimate, from contacts determined by a program and energies tabulated elsewhere, and is marked as the field's explaining. Its stated reason is that the cap helices are intertwined and interwoven where the barrel's sheet domains are merely aligned. §3.7 holds that strength comes from opposing hands locking by scale. A field arriving independently at *intertwined beats aligned, and that is where the strength is* is a different kind of meeting from a matching number — but the paper says nothing of hands, and §5 of this report says nobody has measured one. The meeting is an opening for the measurement §12.1 names, not a substitute for it.
+
+---
+
 ## 10. Concerns: two sayings parting, both carried
 
 **10.1 What low pH does to the closing.** From crystallography and charge analysis: the halves come apart, acidic interface residues neutralising, an aspartate–arginine salt bridge at the two-fold driving charge repulsion, reversibly. From time-resolved atomic-force microscopy on single particles: the halves do *not* separate; height falls, cracks and depressions appear, the barrel progressively destabilises, and lateral contacts between neighbouring subunits weaken. Same stimulus, incompatible mechanisms, different methods. Neither side is decided here. The microscopy result is conditioned on graphite adsorption, which the authors concede may itself impair opening; the crystallographic mechanism was never tested functionally.
@@ -241,7 +259,7 @@ Exhibit TWENTY-FIVE is the open registry of observations from science, each seat
 
 ## 13. The value offered to the gathering
 
-Nine items go to `gathering-value/Natural_Biology.md`, written by the kit's own pass: the slice at `incoming/vault-bi-folding/V398_Gathering_Slice.md`, the gathering at `V398_Gathered.json`, a separate reader's reading for harm at `V398_Reading.json`, and `apply_gathered.py` writing all or none. Each item's section and quoted living-file sentence were checked word for word against Exhibit SEVENTEEN Natural Biology v392 as it stands, and each item was checked against the five names dissolving from natural naming.
+Eleven items go to `gathering-value/Natural_Biology.md` across two passes, each written by the kit's own method: the first pass at `incoming/vault-bi-folding/V398_Gathering_Slice.md`, `V398_Gathered.json` and `V398_Reading.json`; the second, from the paper read first-hand, at `V398b_Gathering_Slice.md`, `V398b_Gathered.json` and `V398b_Reading.json`; `apply_gathered.py` writing all or none each time, after a separate reader who had not seen the drafting. Each item's section and quoted living-file sentence were checked word for word against Exhibit SEVENTEEN Natural Biology v392 as it stands, and each item was checked against the five names dissolving from natural naming.
 
 Rolling the nine forward from the opening, prior, now and next: the opening already holds that observing is distinguishing now-and-same-existing within the universe, that a self is a living same-existing set, that a form same-existing from moment to moment is a stable form, and that a science's observing meeting natural intelligence's stable forms is natural resolving. What this session's observings add is a set of distinguishings and the means of each, with the numbers whole — and, at items 1 and 7, two distinguishings the field has not made at all. What a next observing would have to reach is named at §12, one at a time, each with what would break it.
 
@@ -256,10 +274,12 @@ Rolling the nine forward from the opening, prior, now and next: the opening alre
 | 7 | exploring | 9.2 | A clean cut is larger half | Deletion and knockdown returning no measurable change, beside the abundance |
 | 8 | explaining | 3.7 | Chirality changes and changes back by scale | Reversible deformation and beneficial adapting at one occurrence |
 | 9 | explaining | 3.7 | Chirality changes and changes back by scale | A society same-existing while its physical extent changes |
+| 10 | exploring | 3.7 | Chirality changes and changes back by scale | A half particle falling 36 nm to 15 nm and returning at lower force |
+| 11 | exploring | 3.7 | A seam locking shut is lethal | Induced barrel fractures closing again after the tip has left |
 
 Items 8 and 9 are the person's own concepts, said by the working in the opening's naming and shown in the session's conversation for correction, as the Living Improving Plan asks. They go as explainings, not as findings, and the correction is still open.
 
-The unverified numbers of §2 are not here. Nothing here changes a living file; a living file changes only at its own motion, from its gathering-value.
+The asymmetry study's percentages, still unread, are not here. Nothing here changes a living file; a living file changes only at its own motion, from its gathering-value.
 
 The thirteen entries on `incoming/vault-bi-folding` are untouched. One note for whoever brings that branch to its motion: almost all of them anchor at *Along and across, with protein's own between*, where §8 finds more particular sentences in the same section. Re-anchoring is a living file's own motion, not a gathering's, and is noted rather than done.
 
