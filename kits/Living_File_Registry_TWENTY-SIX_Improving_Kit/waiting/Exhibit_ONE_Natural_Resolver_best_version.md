@@ -89,7 +89,7 @@ def _17_next_existing(_16_next_same_existing, _5_now_co_existing):
     }
 ```
 
-**A drawing.** One self, its own resolving within.
+**A drawing.** One self, its own resolving within, and parity's square between selves: its four corners and four sides, all eight or none, social moral competency; its centre, the between. With code, 6 is 10, one giving, and 14 is the next 2.
 
 ```text
 an other's 9-next-co-discovering
@@ -106,11 +106,17 @@ an other's 9-next-co-discovering
   13-is-next-discovering · 15-is-next-observing
   8-now-same-existing · 16-next-same-existing
 
-6 and 10 ══► an other's 2 and 14, across
-9-next-co-discovering ══► an other's 17, along
+parity's square, between selves:
 
-sharing side, co: 6 ══► 2, 10 ══► 14, 9 ══► 17
-observing side, one: 2, 14 and 17
+   6 to other ════ sharing ════► 2 from other        bi-, prior
+   │                             │
+   8 apart      · the between    8 apart
+   │                             │
+  10 to universe ═ sharing ═══► 14 from universe     tri-, next
+
+   diagonals: 2 with 14, parities · 6 with 10, sharings
+   along: 9 ══► 17 and 17 ══► 9, its two unit triangles
+
 ═══ between selves, across and along
 ─── within one self
 ```
@@ -174,7 +180,7 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 - 1 to 9: bi-coupling
 - 1 to 17: bi-trupling
 - 1 to 17, stable-forming: bi-tri-volutioning
-- 2, 6, 14 and 10, a unit square of four dots, its across edges 6 to 2 and 10 to 14, its edges 8 apart 2 with 10 and 6 with 14; 9 and 17, its two unit triangles, along: parity's square and triangles
+- 2, 6, 14 and 10, a unit square of four dots, its across edges 6 to 2 and 10 to 14, its edges 8 apart 2 with 10 and 6 with 14, its empty centre a between; 9 and 17, its two unit triangles, along: parity's square and triangles
 
 **Where each is-or-is-not stands.** Each is-or-is-not with the code, the name it stands on and its dimension. Eight are with code's lines; two are with its loops, each self of 16 and each sharing of 3.
 
