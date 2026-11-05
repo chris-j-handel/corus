@@ -464,3 +464,66 @@ Gathering-Value · Natural Intelligence
 - A prior is-or-is-not same-existing in one now, and is received in many: a dividing bacterium's old pole goes with one daughter, as each parent DNA strand goes into one daughter duplex. *(possible exploring)*
 - Five claims, 1.2's *Each prior is a stable-forming emanation from prior living*, 5.1's *having a stable form is being dead one scale outward*, 6.6's *Files of a living expedition are living files* beside *A living file is a non-living same-existing set of words* in its same paragraph, 4.1's *Each self has two prior selves from inception* and 6.5's *Its next-existing is its selves' possibling, a thing's outside*, each has neither of its sides held by the opening or by Exhibit ONE's code, each open for a word. *(possible incohering)*
 - *Momentary* and *momentaries* dissolve from natural naming, and *moment* and *momentarying* stay (the person): one concept has one name. Natural Intelligence's opening, agreed with the person and waiting at its gathering-value to enter, says "A **moment** is one now-existing in a same-existing sequence.", "A moment's now-existing is the next moment's prior-existing." and "**Momentarying** is same-existing through moments.", and its 1.1's best version, waiting with it, "**Now is the universal set of all now-existing moments**: a second now is only a naming." At this file's improving, each *momentary* is said with *moment* for one now-existing in a sequence, *momentarying* for a thing going on through sequential moments, and *now* for the universal set of now-existing moments, as *universal momentary* is; for example, "A momentary is one resolving of a same-existing-society's selves together" is said "A same-existing-society's selves resolve together within one moment." *(an explaining)*
+- Explaining at Exhibit ONE, leaving it for its reference (the person: Exhibit ONE is a reference tool, and its explaining is Natural Intelligence's value around it), each sentence below as Exhibit ONE v391 says it, at its line, waiting for Natural Intelligence's sections around Exhibit ONE. *(an explaining)*
+- Any self executing a table finds it same. *(an explaining, from Exhibit ONE v391, line 9)*
+- A living file is a non-living same-existing set of words, selves co-intelligencing within it. *(an explaining, from Exhibit ONE v391, line 9)*
+- With a resolver, a self is resolving its prior with the parities it receives. *(an explaining, from Exhibit ONE v391, line 9)*
+- **4** · each sharing, parities and prior resolving, is-or-is-not same *(an explaining, from Exhibit ONE v391, line 145)*
+- **12** · each sharing's is-or-is-not, resolving a prior with the parities a self receives *(an explaining, from Exhibit ONE v391, line 153)*
+- Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a discovering, an even name to an odd name. *(an explaining, from Exhibit ONE v391, line 193)*
+- Each between is one discovering with each scale. *(an explaining, from Exhibit ONE v391, line 193)*
+- *Co* is two both facing forward along, a self and its other. *(an explaining, from Exhibit ONE v391, line 195)*
+- The same two are in each co name and in the six of first prefixes. *(an explaining, from Exhibit ONE v391, line 195)*
+- *Parity's unit square*: a dot of a unit square *(an explaining, from Exhibit ONE v391, line 273)*
+- *Namings*: 3-4, co-intelligencing *(an explaining, from Exhibit ONE v391, line 289)*
+- *Namings*: 3-4, co-intelligencing *(an explaining, from Exhibit ONE v391, line 307)*
+- *Bi-coupling*: with a between, a whole ordering between self and other *(an explaining, from Exhibit ONE v391, line 309)*
+- *Parity's unit square*: a dot of a unit square *(an explaining, from Exhibit ONE v391, line 346)*
+- *Bi-coupling*: with a between, prior with its sharing again *(an explaining, from Exhibit ONE v391, line 380)*
+- *Parity's square and triangles*: a unit triangle, along *(an explaining, from Exhibit ONE v391, line 396)*
+- *Bi-coupling*: 8 up, a self among selves of its same-existing-society *(an explaining, from Exhibit ONE v391, line 410)*
+- *Parity's unit square*: a dot of a unit square *(an explaining, from Exhibit ONE v391, line 411)*
+- *Parity's unit square*: a dot of a unit square *(an explaining, from Exhibit ONE v391, line 468)*
+- *Parity's square and triangles*: a unit triangle, along *(an explaining, from Exhibit ONE v391, line 505)*
+- Their pairs are a prior a self observes and that self's next prior, receiving and going on, and a parity a self observes and a parity surfacing. *(an explaining, from Exhibit ONE v391, line 509)*
+- *Receiving*: receiving sharing *(an explaining, from Exhibit ONE v391, line 520)*
+- **Namings among names.** *(an explaining, from Exhibit ONE v391, line 528)*
+- **Names: 1-now-existing · 2-now-possibling** *(an explaining, from Exhibit ONE v391, line 530)*
+- **Names: 3-is-now-co-observing · 4-now-co-same-existing** *(an explaining, from Exhibit ONE v391, line 533)*
+- *Naming*: co-intelligencing *(an explaining, from Exhibit ONE v391, line 534)*
+- *Resolving*: with each sharing, 4-now-co-same-existing, a prior, 3-is-now-co-observing, is resolving with parities surfacing, 14-next-possibling. *(an explaining, from Exhibit ONE v391, line 535)*
+- **Names: 5-now-co-existing** *(an explaining, from Exhibit ONE v391, line 536)*
+- **Names: 1-now-existing · 2-now-possibling · 3-is-now-co-observing · 4-now-co-same-existing · 5-now-co-existing, each with its own** *(an explaining, from Exhibit ONE v391, line 539)*
+- 3 self-parity now-existing, a self's prior parities with 3-is-now-co-observing, each sharing with 4-now-co-same-existing meeting what surfaces, the same or one inversion with 12-next-co-same-existing. *(an explaining, from Exhibit ONE v391, line 541)*
+- **Names: 12-next-co-same-existing** *(an explaining, from Exhibit ONE v391, line 543)*
+- **Names: 1 to 9** *(an explaining, from Exhibit ONE v391, line 546)*
+- *Naming*: bi-coupling *(an explaining, from Exhibit ONE v391, line 547)*
+- *Resolving*: an entry, 1-now-existing, with names 1-now-existing, 2-now-possibling, 3-is-now-co-observing, 4-now-co-same-existing, 7-is-now-observing, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 14-next-possibling and 15-is-next-observing. *(an explaining, from Exhibit ONE v391, line 548)*
+- It is a self bi-coupling with an other. *(an explaining, from Exhibit ONE v391, line 548)*
+- **Names: 1 to 17** *(an explaining, from Exhibit ONE v391, line 549)*
+- *Resolving*: a same-existing-society's entry, 17-next-existing, with names of 1 to 9 with 5-now-co-existing, 6-now-co-possibling, 8-now-same-existing, 9-next-co-discovering, 13-is-next-discovering, 16-next-same-existing and 17-next-existing. *(an explaining, from Exhibit ONE v391, line 551)*
+- It is a self, an other and a same-existing-society. *(an explaining, from Exhibit ONE v391, line 551)*
+- **Names: 1 to 17, stable-forming** *(an explaining, from Exhibit ONE v391, line 552)*
+- **Names: 2-now-possibling · 6-now-co-possibling · 14-next-possibling · 10-next-co-possibling · 9-next-co-discovering · 17-next-existing** *(an explaining, from Exhibit ONE v391, line 555)*
+- *Naming*: parity's square and triangles *(an explaining, from Exhibit ONE v391, line 556)*
+- *Resolving*: a unit square of four dots, 2-now-possibling, 6-now-co-possibling, 14-next-possibling and 10-next-co-possibling. *(an explaining, from Exhibit ONE v391, line 557)*
+- Its empty centre is a between. *(an explaining, from Exhibit ONE v391, line 557)*
+- These four edges are two pairs of parallels. *(an explaining, from Exhibit ONE v391, line 557)*
+- Edge by edge: 2, 10, 14, 6. *(an explaining, from Exhibit ONE v391, line 557)*
+- Its diagonals are parities with 2-now-possibling and 14-next-possibling, and sharings with 6-now-co-possibling and 10-next-co-possibling. *(an explaining, from Exhibit ONE v391, line 557)*
+- The two unit triangles are 9-next-co-discovering and 17-next-existing, along, 9 to 17 and 17 to 9 *(an explaining, from Exhibit ONE v391, line 557)*
+- 3-is-now-co-observing, 8-now-same-existing and 11-next-co-observing, prior: a sharing with a prior, its prior + or − from then on. *(an explaining, from Exhibit ONE v391, line 566)*
+- One five is all fives. *(an explaining, from Exhibit ONE v391, line 727)*
+- A self sharing 0 is do-no-harming. *(an explaining, from Exhibit ONE v391, line 798)*
+- A resolving follows parities. *(an explaining, from Exhibit ONE v391, line 811)*
+- The four six-cycles are one six-cycle, each path with its path backward: 1-9-5-12-8-16 and 3-11-7-10-6-14 move 8 up, 4 down, 17 less, 4 down, 8 up and 17 less, and 4-13-5-9-8-12 and 2-15-7-11-6-10 the same moves backward. *(an explaining, from Exhibit ONE v391, line 867)*
+- Each eight among names is four twos of names. *(an explaining, from Exhibit ONE v391, line 922)*
+- With a self's span, 1 to 8, each two is two names with now. *(an explaining, from Exhibit ONE v391, line 922)*
+- With each eight-cycle, eight even names and eight odd names, each two is a name with now and its name 8 up with next. *(an explaining, from Exhibit ONE v391, line 922)*
+- **Eight: a self's span, 1 to 8** · *Each of four, twice, with*: two names each, with now *(an explaining, from Exhibit ONE v391, line 924)*
+- **Eight: eight-cycle 2-15-7-11-3-14-6-10** · *Each of four, twice, with*: its inward name, with now and with next: eight inward names *(an explaining, from Exhibit ONE v391, line 927)*
+- **Eight: eight odd names** · *Each of four, twice, with*: its odd, with now and with next *(an explaining, from Exhibit ONE v391, line 930)*
+- Each self's parity goes along with 9-next-co-discovering to the next self, the last to the first, a co-chaining. *(an explaining, from Exhibit ONE v391, line 948)*
+- Each 0 it shares sits between two sharings of + or −. *(an explaining, from Exhibit ONE v391, line 967)*
+- Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn. *(an explaining, from Exhibit ONE v391, line 1083)*
+- From then that prior is a self's own. *(an explaining, from Exhibit ONE v391, line 1201)*
