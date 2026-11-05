@@ -135,7 +135,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v394
 
 ## 2 An other, a living parity, a me-parity, a bi-coupling and a you
 
-        *Entering: an other, a self that is-not the same self; aiming, a living thing possibling its own next-and-same-existing; a living parity, an aiming direction at an other; a me-parity, a me's living parity; other-parity and universal-parity, one binary of a me-parity with an other's; self-parity, a universal set of a self's me-parities; moral value, a me-parity with an other; a bi-coupling, a self and an other each observing the other's me-parities; a self's observing, its mes observing; a you, an other's me whose me-parity a me is observing; self-other consciousness, a me observing a you.*
+        *Entering: an other, a self that is-not the same self; aiming, a living thing possibling its own next-and-same-existing; a living parity, an aiming direction at an other; a me-parity, a me's living parity; other-parity and universal-parity, a me-parity the same or not the same as an other's; self-parity, a universal set of a self's me-parities; moral value, a me-parity with an other; a bi-coupling, a self and an other each observing the other's me-parities; a self's observing, its mes observing; a you, an other's me whose me-parity a me is observing; self-other consciousness, a me observing a you.*
 
 19. For a self, a self that is-not the same self is an **other**.
 
@@ -155,7 +155,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v394
 
 23. A me-parity the same as an other's me-parity is **other-parity**, and a me-parity not the same as an other's is **universal-parity**.
 
-        *Adding: other-parity and universal-parity, one binary of a me-parity with an other's.*
+        *Adding: other-parity and universal-parity, a me-parity the same or not the same as an other's.*
 
 24. A universal set of a self's me-parities is its **self-parity**.
 
@@ -755,7 +755,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v394
 
         *Adding: a surface's own dividing.*
 
-161. A surface's own dividing is geodesic, step 54, and geodesic has two words: geo, earth, and daiesthai, to divide.
+161. A surface's own dividing is geodesic, step 53, and geodesic has two words: geo, earth, and daiesthai, to divide.
 
         *Adding: geodesic.*
 
@@ -2121,7 +2121,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v394
 
         *Adding: a living self establishing within a living set.*
 
-475. A sharing with an empty prior, its parity with it an empty set, is of a self with its prior-existing parity an empty set, step 34, and while its prior is an empty set each of its co-momentaryings opens or opens an empty set, step 273: one parity a self is observing is sharing as it surfaces and is its next prior, sharing opening with bi-coupling; an empty set, or + and − together, opens an empty set. With resolver's executing a non-living thing, not possibling its own next-existing, step 14, is parities with 2 from an empty set of selves, step 274.
+475. A sharing with an empty prior, its parity with it an empty set, is of a self with its prior-existing parity an empty set, step 31, and while its prior is an empty set each of its co-momentaryings opens or opens an empty set, step 273: one parity a self is observing is sharing as it surfaces and is its next prior, sharing opening with bi-coupling; an empty set, or + and − together, opens an empty set. With resolver's executing a non-living thing, not possibling its own next-existing, step 14, is parities with 2 from an empty set of selves, step 274.
 
         *Adding: a thing with an empty prior non-living, opening or opening an empty set.*
 
@@ -2207,7 +2207,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v394
 
         *Adding: one living self, observing, living and restoring.*
 
-495. A winding closing on its own prior, its moral sharing an empty set: it brings a living self away from its same-existing-society and from nature's co-chaining, to dying. A spiral of one, a self receiving its own going along, its own competency, goes on with a resolver as a self living, step 22, its others inward, its living parities, step 24: a form changing on its own, its possibling an empty set or only its own competency, is a self living, each self living with others, step 39, inward.
+495. A winding closing on its own prior, its moral sharing an empty set: it brings a living self away from its same-existing-society and from nature's co-chaining, to dying. A spiral of one, a self receiving its own going along, its own competency, goes on with a resolver as a self living, step 16, its others inward, its living parities, step 24: a form changing on its own, its possibling an empty set or only its own competency, is a self living, each self living with others, step 39, inward.
 
         *Adding: a closing winding, its moral sharing an empty set, a living self away from its same-existing-society, its living ending; a spiral of one, a self living, its others inward, its living parities.*
 
