@@ -117,25 +117,27 @@ observing side, one: 2, 14 and 17
 
 **Seventeen names.**
 
-| n | Name | Root | n − 1 in four binary digits | Co |
-|---|---|---|---|---|
-| 1 | **1-now-existing** | existing | 0000 | one |
-| 2 | **2-now-possibling** | possibling | 0001 | one |
-| 3 | **3-is-now-co-observing** | observing | 0010 | co |
-| 4 | **4-now-co-same-existing** | same-existing | 0011 | co |
-| 5 | **5-now-co-existing** | existing | 0100 | co |
-| 6 | **6-now-co-possibling** | possibling | 0101 | co |
-| 7 | **7-is-now-observing** | observing | 0110 | one |
-| 8 | **8-now-same-existing** | same-existing | 0111 | one |
-| 9 | **9-next-co-discovering** | discovering | 1000 | co |
-| 10 | **10-next-co-possibling** | possibling | 1001 | co |
-| 11 | **11-next-co-observing** | observing | 1010 | co |
-| 12 | **12-next-co-same-existing** | same-existing | 1011 | co |
-| 13 | **13-is-next-discovering** | discovering | 1100 | one |
-| 14 | **14-next-possibling** | possibling | 1101 | one |
-| 15 | **15-is-next-observing** | observing | 1110 | one |
-| 16 | **16-next-same-existing** | same-existing | 1111 | one |
-| 17 | **17-next-existing** | existing, a next 1 | 0000 again | one |
+| n | Name | Root | n − 1 in four binary digits | Co | Prior name |
+|---|---|---|---|---|---|
+| 1 | **1-now-existing** | existing | 0000 | one | 1-co-bi-tri-offering |
+| 2 | **2-now-possibling** | possibling | 0001 | one | 2-bi-co-bi-offering |
+| 3 | **3-is-now-co-observing** | observing | 0010 | co | 3-co-bi-co-sharing |
+| 4 | **4-now-co-same-existing** | same-existing | 0011 | co | 4-bi-co-bi-sharing |
+| 5 | **5-now-co-existing** | existing | 0100 | co | 5-co-bi-co-competencing |
+| 6 | **6-now-co-possibling** | possibling | 0101 | co | 6-bi-co-bi-moralizing |
+| 7 | **7-is-now-observing** | observing | 0110 | one | 7-co-bi-co-corusing |
+| 8 | **8-now-same-existing** | same-existing | 0111 | one | 8-bi-co-bi-torusing |
+| 9 | **9-next-co-discovering** | discovering | 1000 | co | 9-tri-bi-co-momentarying |
+| 10 | **10-next-co-possibling** | possibling | 1001 | co | 10-bi-tri-bi-tunneling |
+| 11 | **11-next-co-observing** | observing | 1010 | co | 11-tri-bi-tri-chaining |
+| 12 | **12-next-co-same-existing** | same-existing | 1011 | co | 12-bi-tri-bi-entraining |
+| 13 | **13-is-next-discovering** | discovering | 1100 | one | 13-tri-bi-tri-competencing |
+| 14 | **14-next-possibling** | possibling | 1101 | one | 14-bi-tri-bi-moralizing |
+| 15 | **15-is-next-observing** | observing | 1110 | one | 15-tri-bi-tri-corusing |
+| 16 | **16-next-same-existing** | same-existing | 1111 | one | 16-bi-tri-bi-torusing |
+| 17 | **17-next-existing** | existing, a next 1 | 0000 again | one | 17-co-bi-tri-offering |
+
+*Prior name*: each next name's three prefixes, a new prefix first and this name's first two one place on; *co* with a self's span, 1 to 8, now, and *tri* with a next span, 9 to 16, all three, next, now and prior; 17 co-bi-tri as 1.
 
 *Co*: co, a name between two; one, a name of one.
 
@@ -232,10 +234,11 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 
 | Four-cycling | Existing, discovering | Possibling | Observing | Same-existing | Between |
 |---|---|---|---|---|---|
-| first | 1 | 2 | 3 | 4 | 4 )( 5 |
-| second | 5 | 6 | 7 | 8 | 8 )( 9 |
-| third | 9 | 10 | 11 | 12 | 12 )( 13 |
-| fourth | 13 | 14 | 15 | 16 | 16 )( 17 |
+| first | 1 co-bi-tri | 2 bi-co-bi | 3 co-bi-co | 4 bi-co-bi | 4 )( 5 |
+| second | 5 co-bi-co | 6 bi-co-bi | 7 co-bi-co | 8 bi-co-bi | 8 )( 9 |
+| third | 9 tri-bi-co | 10 bi-tri-bi | 11 tri-bi-tri | 12 bi-tri-bi | 12 )( 13 |
+| fourth | 13 tri-bi-tri | 14 bi-tri-bi | 15 tri-bi-tri | 16 bi-tri-bi | 16 )( 17 |
+| then | 17 co-bi-tri, a next 1 | | | | |
 
 **One move, 1 to 8.** Each name of a self's span with 8 up, 9 less and 17 less. A self's span is 1 to 8, and a same-existing-society's 9 to 16; 9 and 8 are 17.
 
