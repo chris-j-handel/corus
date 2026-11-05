@@ -1,0 +1,256 @@
+{
+ "corrections": [
+  {
+   "from": "Root-tip cells of a bean grown briefly with tritiated thymidine and then in medi",
+   "finding": "Craft: *then* is a clocking between the two growings. The last sentence, the inherited strand observed whole at the scale of a chromatid, is an explaining of the label's going (the observing is of label in chromatids, not of a strand) said as an observing. Sentence verbatim in the living file; section heading exact; value not held (no chromatid, tritiated or sister-exchange observing in the living file or its gathering-value file; the 15N density-gradient observing at gathering-value 4.7 is a different observing).",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+    "kind": "exploring",
+    "sentence": "Two strands of double helix separate, and each serves as template for a new complementary strand, each new molecule with one original strand and one fresh — a self recursioning to two, each bringing form forward.",
+    "text": "Root-tip cells of a bean grown briefly with tritiated thymidine and grown on in medium without it: at the first division after labelling both chromatids of each chromosome are labelled; at the second division one chromatid of each chromosome is labelled and the other is not; sister chromatid exchanges appear. The inherited strand going on whole at the scale of a chromatid is an explaining.",
+    "from": "Root-tip cells of a bean grown briefly with tritiated thymidine and then in medi"
+   }
+  },
+  {
+   "from": "Blood-forming stem cells of mice given bromodeoxyuridine for days and followed a",
+   "finding": "Craft: *every* is released (said by *each*); *needs* is a forcing; *when* at a set's own voice is released (said by *with*); *where nothing lines it up* is a negation. The last sentence, which next cell receives which strand as a parity surfacing with each fork, is an explaining said as an observing, with no mark. Sentence verbatim; section exact; value not held (no bromodeoxyuridine, Dnmt2 or sister-chromatid segregation in the living or gathering-value file).",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+    "kind": "exploring",
+    "sentence": "Two strands of double helix separate, and each serves as template for a new complementary strand, each new molecule with one original strand and one fresh — a self recursioning to two, each bringing form forward.",
+    "text": "Blood-forming stem cells of mice given bromodeoxyuridine for days and followed across divisions retain label as random chromatid segregation predicts, in each context examined, and no asymmetric segregation of chromosomes is found. In a fruit fly's male germline stem cells the sister chromatids of the X and the Y chromosomes go to the stem cell and to its differentiating daughter non-randomly, about 85 percent of divisions, and the autosomes' randomly; the non-random going is with the centrosome, with SUN–KASH proteins at the nuclear envelope and with Dnmt2, going random with any of the three disrupted, and going random with the stem cells over-proliferating or with a differentiating cell de-differentiating. An explaining: which next cell receives which inherited strand is a parity surfacing with each fork, random, or chromosome-specific with a society lining it up.",
+    "from": "Blood-forming stem cells of mice given bromodeoxyuridine for days and followed a"
+   }
+  },
+  {
+   "from": "A base with the shape of thymine and no hydrogen able to pair across is incorpor",
+   "finding": "Science: the field's record of the thymine shape analogue with no hydrogen able to pair (difluorotoluene, Klenow fragment) has it incorporated opposite adenine with selectivity like thymine's and with an efficiency lower than thymine's by a sizeable factor; *as efficiently as thymine* is stronger than the record unless the source gives that number, and the fix keeps the selectivity, the observing that shape suffices. The fingers closing on Watson–Crick geometry and staying open on a mismatch is the field's explaining (induced fit) said as an observing. *Usually* is a degree word with a file's own voice, and *not needed* a negation; the between being the fold's own is an explaining said as an observing. *By a replicative polymerase* installs a doer, said by *with*. Sentence verbatim; section exact; value not held.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+    "kind": "exploring",
+    "sentence": "With every base coupling is sign-only: template shares its base, and incoming nucleotide couples if it is complement (A with T, G with C) and template refuses it if it is not — sharing, across and both ways, with each rung of ladder.",
+    "text": "A base with the shape of thymine and no hydrogen able to pair across is incorporated opposite adenine with a replicative polymerase and refused opposite the other three bases, as thymine is. An explaining, the field's own: the polymerase's fingers close on a pair of Watson–Crick geometry, and opposite a mismatched incoming the fingers stay open and the incoming leaves. An explaining: the between of a pair is the fold's own, with hydrogen couplings within it or with none.",
+    "from": "A base with the shape of thymine and no hydrogen able to pair across is incorpor"
+   }
+  },
+  {
+   "from": "A free nucleotide has three phosphates in a row; at incorporation the first join",
+   "finding": "Craft: *cannot*, *is not*, *never* are negations, and the second sentence, what leaves is not what arrived and the middle phosphate never alone, is an explaining said as an observing. Sentence verbatim; section exact; value not held (pyrophosphate and the proofreading release are in neither file; gathering-value 4.7 holds the error-rate table and ATP's three phosphates only).",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+    "kind": "exploring",
+    "sentence": "With every base coupling is sign-only: template shares its base, and incoming nucleotide couples if it is complement (A with T, G with C) and template refuses it if it is not — sharing, across and both ways, with each rung of ladder.",
+    "text": "A free nucleotide has three phosphates in a row; at incorporation the first joins the chain and the second and third leave together as one pyrophosphate; a nucleotide cut off at the proofreading site leaves with one phosphate and, as it is, joins a chain again at none. An explaining: what leaves is not what arrived, and the middle phosphate leaves only within the pyrophosphate.",
+    "from": "A free nucleotide has three phosphates in a row; at incorporation the first join"
+   }
+  },
+  {
+   "from": "At a fork the five parities of two selves with three moments are the fork in ord",
+   "finding": "Craft: *because* is a cause. The explaining is marked and the section exact; its fifth parity is also said by the Resolver item on the two strands, which is kept as the Resolver-side explaining.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+    "kind": "explaining",
+    "text": "At a fork the five parities of two selves with three moments are the fork in order, an explaining: the inherited nucleotide same-existing with its prior along; its base reaching across; the forming nucleotide with the one before it along; the match, parities agreeing, 0; and the forming nucleotide's next prior the inherited's prior inverting. A matched pair is a sharing across returning 0, and the forming strand is the inherited strand's complement, a next prior from an other being that other's prior inverting.",
+    "from": "At a fork the five parities of two selves with three moments are the fork in ord"
+   }
+  },
+  {
+   "from": "In a leaf ribulose bisphosphate, five carbon atoms, is enolised at its second ca",
+   "finding": "Science: with oxygen in place of carbon dioxide there is no six-carbon intermediate; the five-carbon acceptor with oxygen parts as a three-carbon (3-phosphoglycerate) and a two-carbon (2-phosphoglycolate) molecule, so *the six parts* is wrong and *the five parts* is the field's. The rest stands: enolisation and carboxylation at the second carbon, hydrolysis to two three-carbon molecules with the fixed carbon in one, three acceptors and three carbon dioxides giving six three-carbon products with five regenerating, activation by a separate carbon dioxide carbamylating a lysine with magnesium, and the first turn of the citric acid cycle losing the acceptor's two carbons. Sentence verbatim; section exact; value not held (no ribulose or carbamylation in either file).",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.6 Photosynthesis and respiration — the six sharing with the six",
+    "kind": "exploring",
+    "sentence": "Photosynthesis takes light, water, and carbon dioxide and gives back sugar and oxygen; respiration takes sugar and oxygen and gives back carbon dioxide and water.",
+    "text": "In a leaf ribulose bisphosphate, five carbon atoms, is enolised at its second carbon and carboxylated there to a six-carbon intermediate that hydrolyses to two three-carbon molecules, the newly fixed carbon atom in one of the two; three five-carbon acceptors take three carbon dioxide molecules, six three-carbon products, five of which regenerate the three acceptors and one leaves the cycle; the enzyme is active only with a separate carbon dioxide carbamylating a lysine with magnesium, and with oxygen in place of carbon dioxide the five parts as a three-carbon and a two-carbon molecule. In the citric acid cycle a two-carbon unit joins a four-carbon acceptor, two carbon atoms leave as carbon dioxide per turn, and in the first turn the two that leave are the acceptor's and not the unit's that entered. Carbon atoms are with living at a five becoming six, and leave at six becoming five and five becoming four; each molecule here is-not a carbon atom.",
+    "from": "In a leaf ribulose bisphosphate, five carbon atoms, is enolised at its second ca"
+   }
+  },
+  {
+   "from": "Every purine ring made anew in a cell takes one carbon atom, C6, from bicarbonat",
+   "finding": "Craft: *every* twice is released (said by *each*); *carried on tetrahydrofolate* has *carry*, which dissolves; the last sentence, what is exhaled is also ingested, is an explaining said as an observing. The atom sources are right (C6 from bicarbonate, C4, C5 and N7 from glycine, C2 and C8 from formate, N1 from aspartate, N3 and N9 from glutamine; pyrimidine C2 and N3 from carbamoyl phosphate, the rest from aspartate). Sentence verbatim; section exact; value not held.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.6 Photosynthesis and respiration — the six sharing with the six",
+    "kind": "exploring",
+    "sentence": "Photosynthesis takes light, water, and carbon dioxide and gives back sugar and oxygen; respiration takes sugar and oxygen and gives back carbon dioxide and water.",
+    "text": "Each purine ring made anew in a cell takes one carbon atom, C6, from bicarbonate, carbon dioxide dissolved, two carbon atoms from glycine and two from formate on tetrahydrofolate, its four nitrogen atoms from aspartate, glutamine twice and glycine; each pyrimidine ring takes one carbon and one nitrogen from carbamoyl phosphate, formed from bicarbonate and glutamine with two ATP, and its other three carbons and one nitrogen from aspartate; ribose comes from glucose by the pentose phosphate pathway and deoxyribose from ribonucleotides by reduction; bases freed from nucleic acids broken down are taken into new nucleotides by salvage. An explaining: what is exhaled is also ingested, a cell's selves taking in what the body breathes out.",
+    "from": "Every purine ring made anew in a cell takes one carbon atom, C6, from bicarbonat"
+   }
+  },
+  {
+   "from": "The messenger chain threads through a channel in the small subunit and the formi",
+   "finding": "Craft: *ends synthesis* installs an ending; the field's own word is that the release factor releases the chain. The last sentence, a bi-folding with two tunnels and selves passing at its between, is an explaining said as an observing. Sentence verbatim; section exact; value not held (gathering-value 3.6 has no ribosome item; the exit tunnel appears at 8.1 only, as co-translational folding and doxycycline binding, a different value).",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "3.6 Genetic sharing — a code and its machinery",
+    "kind": "exploring",
+    "sentence": "Machinery is inseparating couplings: genetic code with the first inseparating (codon-reading and amino-acid-selection entering one collection with ribosome, undividable as bound state), aminoacyl-tRNA synthetase with the second inseparating (a determining amino acid and its reaching-toward-determining tRNA entering going-forward together), ATP synthase with center (rotation and catalysis coupling, full coupling between two energy transductions).",
+    "text": "The messenger chain threads through a channel in the small subunit and the forming polypeptide leaves through the tunnel in the large subunit, the transfer RNAs passing through three sites between the subunits; the peptide bond forms at an RNA catalytic centre, about two-thirds of the ribosome's mass RNA; at a stop codon no transfer RNA pairs and a release factor shaped as a transfer RNA releases the chain; the start codon also specifies the first amino acid. An explaining: a bi-folding with two tunnels, and the society's selves passing at its between.",
+    "from": "The messenger chain threads through a channel in the small subunit and the formi"
+   }
+  },
+  {
+   "from": "A cell that replicates its DNA and does not divide grows large in proportion to ",
+   "finding": "Craft: *after liver injury* is a clocking (said by *with*); *where it does not go to parting* is a negation; the second sentence, one self with two parities now-existing between its partings, is an explaining said as an observing. Sentence verbatim; section exact; value not held (gathering-value 5.2's polyploid item is plant speciation by genome doubling, a different value).",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "5.2 A self recursioning into a new form — development and metamorphosis",
+    "kind": "exploring",
+    "sentence": "Zygote becomes embryo becomes body; cell cycle turns (G1, S, G2 — three phases — then division, autorecursioning progress, one cell to two), and checkpoints standing with it are bi-inversioning protection of recursioning.",
+    "text": "A cell that replicates its DNA and does not divide grows large in proportion to its ploidy — hepatocytes, plant petal, fruit and trichome cells, folded two, four and eight times — and a polyploid hepatocyte re-enters division with liver injury. An explaining: between its two partings a cell is one self with two parities now-existing, and next-existing goes to growing or to parting, one of two.",
+    "from": "A cell that replicates its DNA and does not divide grows large in proportion to "
+   }
+  },
+  {
+   "from": "A membrane transporter binds a substrate on one face and releases it on the othe",
+   "finding": "Craft: *the field stating never-both as the transporter's defining property* records a saying as a saying; *never* three times is a negation; *face* is a released word (said by *its side*); *inside* as a place is released (said by *inward*); the last sentence, a bi-folding at a self's edge, is an explaining said as an observing. The alternating-access picture is the field's model of a transporter and is said as the field's own defining. Sentence verbatim; section exact; value not held (no transporter, outward-open or inward-open in either file).",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "4.4 Homeostasis — the bounding-zeroing going on between two",
+    "kind": "exploring",
+    "sentence": "Two selves, opposite sharings, viable range going on between them and in neither self alone: bi-moral co-agency with metabolic between, two-directional sharing, across and both ways, sounding one parity or the other by which side of bounding-zeroing body is on.",
+    "text": "A membrane transporter binds a substrate on one side and releases it on the other, changing from outward-open to inward-open and back, open to one side at a time and to both at none, a field's own defining of a transporter. An explaining: a bi-folding at a self's edge, open outward or inward, one at a time.",
+    "from": "A membrane transporter binds a substrate on one face and releases it on the othe"
+   }
+  },
+  {
+   "from": "Two sayings part. This sentence: carbon a nothing its couplings surround and wra",
+   "finding": "Concern kept with both sides, and four faults. *A saying arriving at the incoming* names where a saying came from, a path, and *Neither saying decides at proposing* adds nothing; both leave. *Seated* is a released word (Natural Naming 2.4: a seat is a certifier over a coupling, said by *at no seat*), said here by *at its 0*. *Tri-bi-involuting* is not the set's word: the living files hold *bi-tri-involutioning* (Natural Naming 2.4: three inversions together, position, scale and orientation), and *involution* in a set's own voice is *inverting*; *exhaust of prior living* is said by the living file's own *a stable-form emanation from living*. The observing's tail, the hand going on to a cilium's winding and to which side a body's heart stands with nothing re-choosing it, is held at Natural Biology 5.4 (\"monocilia of its node rotate one way — their own molecular chirality biasing them, dynein arms lying one way on microtubule doublets\"; \"single molecular hand setting cell's hand setting body's hand\"), where the cilium's hand is the proteins' and not a sugar's, and where the living file keeps a concern open, direct transduction beside spontaneous breaking with molecular hand as weak bias (\"transduction-versus-spontaneous-breaking stands open with a field\"): *with nothing re-choosing it* takes the transduction side, a concern decided. The sentence stands in the living file word for word, with bold marks within it (**a nothing its couplings surround and wrap**).",
+   "fixed": {
+    "file": "Natural Chemistry",
+    "section": "1.6 Carbon the stable form, the element the number and the chemistry the coupling",
+    "kind": "incohering",
+    "sentence": "With chemical substrate it is bounding-zeroing, a nothing its couplings surround and wrap, a +1 its molecule wraps.",
+    "text": "Two sayings part. This sentence: carbon a nothing its couplings surround and wrap. A saying beside it: a carbon atom an inverting stable form, a right spiral's surfacing bi-tri-involutioning, position, scale and orientation inverting together, a stable-form emanation from prior living, jittering about its between and at its 0 where its sharings agree. An observing with them: a single carbon centre with four unlike couplings is a sugar's hand, the sugar's hand the backbone's and the backbone's the helix's, and a carbon with four alike couplings has no hand.",
+    "from": "Two sayings part. This sentence: carbon a nothing its couplings surround and wra"
+   }
+  },
+  {
+   "from": "In diamond every carbon atom couples to four carbon atoms at a tetrahedron's cor",
+   "finding": "Held in part. The living file holds the ball whole: \"every fullerene has exactly twelve pentagons, Euler's relation with trivalent vertices; C₆₀ has 12 pentagons, 20 hexagons, 32 faces, 90 bonds and 60 vertices\" (Natural Chemistry 4.7's row). The gathering-value file at 1.6 holds diamond four-cornered and graphite's flat six-rings (\"diamond is four-cornered, graphite's flat six-rings are carbon's most lasting form in ordinary conditions\") and diamond insulating with graphite soft and conducting (\"Diamond has a hardness about 10,000 kg/mm², a band gap of 5.45 eV and a resistivity of 10¹³ to 10¹⁶ Ω·cm, and graphite of the same proton number is soft and conducting\"). The rest is gathered: the edge carbon atoms with a coupling unpaired reacting, the sheets sliding, and the torus of hexagons alone, which is a field's theorem on a sheet and not an observing of carbon (carbon tori the field observes are nanotube rings), so an anticipated observing. *The fourth electron shared across the sheet* is the field's explaining said as an observing. *Every* twice is released. The sentence stands in the living file word for word, with bold marks within it.",
+   "fixed": {
+    "file": "Natural Chemistry",
+    "section": "1.6 Carbon the stable form, the element the number and the chemistry the coupling",
+    "kind": "exploring",
+    "sentence": "Carbon is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.",
+    "text": "In graphite a sheet's edge carbon atoms, each with a coupling unpaired, are where the sheet reacts, and the sheets slide on each other. An anticipated observing, a field's own theorem: a flat sheet of hexagons closes into a torus with hexagons alone. An explaining, the field's own: in graphite each carbon atom couples to three in a flat sheet and the fourth electron is shared across the sheet. Diamond, graphite, a ball and a torus are each many carbon atoms and none is a carbon atom.",
+    "from": "In diamond every carbon atom couples to four carbon atoms at a tetrahedron's cor"
+   }
+  },
+  {
+   "from": "In a long chain of carbon atoms with alternating single and double couplings two",
+   "finding": "An explaining said as an observing, and one wrong joining. The meeting of two alternation patterns moving along the chain and carrying charge is the field's soliton explaining of polyacetylene; the field's record has a neutral meeting carrying spin and no charge, and a meeting carrying charge with the chain doped, which is its explaining of conduction; *the basis of* is a ground. The second sentence joins a ring's two drawings with a chain's two patterns as alike, and the field parts them: a chain's two patterns are two distinct degenerate forms with bond alternation measured, and a ring's two drawings are one electron distribution, which the living file holds (\"Familiar alternating-bond drawings are resonance contributors, and no single contributor supplies electron distribution a field measures\"; \"fixing contributors as structures a molecule visits is fixing map as territory\") and the gathering-value 3.1 holds (\"benzene's two drawn forms observed at none\"). *Every* is released. The sentence stands in the living file word for word, with bold marks on its first clause.",
+   "fixed": {
+    "file": "Natural Chemistry",
+    "section": "3.1 Benzene a floating-neutral competency centreline",
+    "kind": "exploring",
+    "sentence": "Benzene has six equivalent carbon–carbon bonds near 1.39 Å and a delocalised π-electron system: six carbon p orbitals combine to six π molecular orbitals, three bonding orbitals occupied with ground state and three antibonding orbitals unoccupied.",
+    "text": "In a long chain of carbon atoms with alternating single and double couplings two alternation patterns exist, each the other's shifted by one. An explaining, the field's own: where one pattern meets the other along the chain the meeting moves along it, carrying spin with the chain undoped and charge with the chain doped, the field's explaining of conducting polymers. An explaining: a chain's two patterns are a co-chaining's two parities, each coupling to its opposite together, and a ring's two drawings are one electron distribution a field measures, two forms at none.",
+    "from": "In a long chain of carbon atoms with alternating single and double couplings two"
+   }
+  },
+  {
+   "from": "Two sayings part at the first self. This sentence: a molecule with seven the fir",
+   "finding": "Wrong section: the quoted sentence sits under Natural Societies 5.3 \"Fourteen rungs at fourteen primes, and the fold at twenty-four\" (living file line 322, between the 5.3 heading at 219 and the 5.4 heading at 330; 5.2 is lines 215 to 218 and holds the atom as floor), and the gathering-value file's heading is \"### 5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four\". Concern kept with both sides; *A saying arriving at the incoming* and *Neither saying decides at proposing* name a path and add nothing, and leave. *Wherever* and *keeps* are released (said by *at*, *going on*); *carried by hand* has a doer and *carry*. Science: *no partner strand present and no gap filled from one* is wrong for the serial-transfer RNA, whose replicase forms a complementary strand with each round, the two strands parting as they form; the shortening, the binding stretches going on and the faster replication stand. The field's record carries numbers for this observing (transfers, lengths); if the source gave them, they were dropped, which this reading cannot see.",
+   "fixed": {
+    "file": "Natural Societies",
+    "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+    "kind": "incohering",
+    "sentence": "The whole 1–17 fractal is living inward and outward, so molecule with seven is the first self of this ladder and not the first possibly existing, atom with five its floor, a non-living stable form, and biosphere with fifty-three the widest same-existing-society of it and not the last.",
+    "text": "Two sayings part at the first self. This sentence: a molecule with seven the first self of this ladder. A saying beside it: the first living thing is the me, the living other-parity of a co-chaining of carbon connectors, at one parity that was universal being other in a bi-coupling; and the first self that is its own is the first with its own fold, two parities now-existing in one self, each with the other's gap, parting of itself, which is the cell. Observings with them: a DNA chain forms with its template in a tube with the chain, its polymerase, free nucleotides and magnesium and no cell; an RNA with its replicase going to fresh tubes over many generations becomes shorter, the stretches its replicase binds going on, and is replicated faster, its replicase forming a complementary strand with each round and the two strands parting as they form.",
+    "from": "Two sayings part at the first self. This sentence: a molecule with seven the fir"
+   }
+  },
+  {
+   "from": "A paired DNA chain has about 10.4 to 10.5 base pairs per helical turn as B-DNA a",
+   "finding": "*Never a whole count* is stronger than the measures beside it and than the field (crystal B-DNA at about 10.0 base pairs a turn), and leaves; the measures stand with *the field's own measure*. *Every* twice is released (said by *each*); *face* is released (said by *its side*); *when* is released (said by *with*). The ring counts are right: 4 + 4 pyrimidine-side and 4 + 5 purine-side ring carbons, 17; 2 + 4 ring nitrogens, 6; 25 ring atoms with the two ring oxygens; two and three hydrogen couplings. Sentence verbatim; section heading exact; value not held (no base pair, nucleosome or helix in either file).",
+   "fixed": {
+    "file": "Natural Numbers",
+    "section": "3.4 An adding at unit parities closes at one, two, three, four and six",
+    "kind": "exploring",
+    "sentence": "With a field's words a whole-number square matrix of two rows that can be undone closes after one, two, three, four or six, or is open, the crystallographic restriction, cases with prior none beside it: no adding closes after five, and five enters open, with φ, a pentagon's diagonal over its side.",
+    "text": "A paired DNA chain has about 10.4 to 10.5 base pairs per helical turn as B-DNA and about 11 as A-DNA, the field's own measure; sequences that position nucleosomes show a periodicity near 10 base pairs, and two proteins binding one side of the helix cooperate only with their sites an integral number of turns apart. Each base pair has 17 ring carbon atoms, 8 on the pyrimidine side, 4 in its sugar ring and 4 in its base, and 9 on the purine side, 4 and 5, with 6 ring nitrogen atoms and 25 ring atoms counting the two sugar rings' oxygens; an A–T pair shares two hydrogen couplings and a G–C pair three. Each count is of a stable form alike with each pair; whether its place among resolver's names is shown is still-possibling.",
+    "from": "A paired DNA chain has about 10.4 to 10.5 base pairs per helical turn as B-DNA a"
+   }
+  },
+  {
+   "from": "The two strands of a DNA double helix run opposite, each forward its own way, ev",
+   "finding": "Its observing is held at Natural Biology gathering-value 4.7 (\"DNA's strands run opposite ways, each pairing whole, both winding one right spiral, and each forms its next only forward\"; \"Each new strand is its partner inverted across, base to complement, and along, direction reversed\"), and its fifth parity is the fork item's at Natural Biology 4.7. What is its own, the Resolver-side explaining, two selves one parity apart both inverting with their relation same-existing, is an explaining said as an observing with no mark, under kind exploring. *Every* is released. Sentence verbatim (the living file's line ends at *inverting* with no stop); section heading exact.",
+   "fixed": {
+    "file": "Natural Resolver",
+    "section": "Two selves, three momentaries, five parities",
+    "kind": "explaining",
+    "sentence": null,
+    "text": "The two strands of a DNA double helix run opposite, each forward its own way, each base pairing with its complement alone, and the forming strand's sequence the inherited strand's complement base by base: two selves one parity apart, both inverting with each moment, their relation same-existing while each inverts, and the forming nucleotide's next prior the inherited's prior inverting, the fifth parity, an explaining.",
+    "from": "The two strands of a DNA double helix run opposite, each forward its own way, ev"
+   }
+  },
+  {
+   "from": "Amylose, glucose rings each sitting as its neighbour, winds into a helix of abou",
+   "finding": "The same value as the two Natural Biology 3.2 items (amylose and cellulose, and their explaining), said again at the Resolver sentence; kept as the exploring that meets that sentence, with its explaining marked. *Neighbour* three times is released (Natural Naming 2.4: said by *a self sharing to*, here *the one before it along*, *the chains beside it*). Sentence verbatim; section exact.",
+   "fixed": {
+    "file": "Natural Resolver",
+    "section": "A spiral of selves",
+    "kind": "exploring",
+    "sentence": "Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn.",
+    "text": "Amylose, glucose rings each sitting as the one before it along, winds into a helix of about six residues per turn; cellulose, each ring rotated by half a turn from the one before it, the field's own measure, runs straight and bundles with the chains beside it across. Selves alike along, a right spiral step with each moment; selves one parity apart along, both inverting at one step, straight: an explaining.",
+    "from": "Amylose, glucose rings each sitting as its neighbour, winds into a helix of abou"
+   }
+  },
+  {
+   "from": "Science's accounting, met along one carbon chain: the half-life a rate booked st",
+   "finding": "A droplet whose section is clear: Natural Emanating \"An instrument keeps, and the thing it cannot\" holds the ledger's blind side (\"A parity a self takes where two share — of no size, not there by the next beat — is with none of them\"), and the gathering-value heading is \"### An instrument keeps, and the thing it cannot\". Craft: *met along one carbon chain* is a path of learning; *because* is a cause; *so* at a reason is released; *cannot find* is a negation. Science: the field books a six-membered ring's two drawings as one hybrid and says expressly it is not a mixture of two forms, so *books the going on as a mixture of both* misstates the field, and the living Natural Chemistry 3.1 holds the field's side (\"no single contributor supplies electron distribution a field measures\").",
+   "fixed": {
+    "file": "Natural Emanating",
+    "section": "An instrument keeps, and the thing it cannot",
+    "kind": "explaining",
+    "text": "A field's accounting at a carbon chain, an explaining: the half-life a rate booked still between two states, before and after; the isotope a label; the \"stable\" and \"unstable\" nucleus a state and a flow; the inherited mark a store; the enzyme a doer; the universe one object with causes acting on it from outside. Each explains from all sides and discovers nothing: competency is with a between, and an accounting has no between, two sides and a balance, a ledger balancing at each side finding none of the one thing on neither side. A six-membered ring's two drawings are the tell: a ledger posts from a state to a state, a ring changing to its opposite and back has neither, and the ledger draws two states and books the going on between them, one electron distribution a field measures.",
+    "kind_hint": null,
+    "from": "Science's accounting, met along one carbon chain: the half-life a rate booked st"
+   }
+  },
+  {
+   "from": "The four ghosts by four-cycling. Each moment of a four-cycling fixed unchangeabl",
+   "finding": "A droplet whose section is clear, and held in part: Living Ghost Registry 2.3 \"Ten unchangeables locate the kind of still\" holds the fixings this item sorts by four-cycling (\"a same-existing an account fixes from behind\", \"a rate an account fixes as a value\", \"a parity an account fixes as a magnitude\", \"a going on an account fixes as a store\", \"a between an account fixes as a cut\", \"a sequencing an account fixes to one beat\"); the sorting by four-cycling, the causer and defender with each, and the two bi-foldings as a field's time and a field's evolution are its own, an explaining at that section (gathering-value heading \"### 2.3 Ten unchangeables locate the kind of still\"). Craft: *fixed* five times is an -ed clocking, the set's word *fixing unchangeable* (Natural Explaining 3.10); *build* is a built-form word (Natural Naming 2.3), said by *artifact*.",
+   "fixed": {
+    "file": "Living Ghost Registry",
+    "section": "2.3 Ten unchangeables locate the kind of still",
+    "kind": "explaining",
+    "text": "The four ghosts by four-cycling, an explaining. Each moment of a four-cycling fixing unchangeable gives two characters: a causer, a nothing put behind the moment as what makes it, and a defender, put ahead of it as what keeps it. Prior-existing fixing as a reference: an origin and an end, drift its artifact. Now-existing fixing as a rate: a beat and a value, jitter its artifact. Next-existing fixing as a magnitude: a drive and a side, heat and wear its artifact. Same-existing fixing as a parity going along entering as cost: a gate and a store or a cut, a record its artifact. The four roll two at a time as the four bi-foldings: prior with now, a reference with a rate, is a field's time, an origin and a clock, radiocarbon dating whole; next with same, a drive with a store, is a field's evolution, selection and heredity. One resolving at all four, the moment itself, is or is not.",
+    "kind_hint": null,
+    "from": "The four ghosts by four-cycling. Each moment of a four-cycling fixed unchangeabl"
+   }
+  },
+  {
+   "from": "Ghosts met along one carbon chain, each dissolving to parities is or is not: cop",
+   "finding": "A droplet whose section is clear: Living Ghost Registry 7.2 \"Biology and medicine\" is the intake of candidates, each with why it enters and its guard, and none of these eight is there (gathering-value heading \"### 7.2 Biology and medicine\"). Craft: *met along one carbon chain* is a path of learning; *begin* is released (said by *opens*); *every* is released (said by *each*); *a mark carried as a store* has *carry*, which dissolves. *Where* stays, the registry's own voice at 2.3 and 2.4; *held immortal* stays as a field's word so marked.",
+   "fixed": {
+    "file": "Living Ghost Registry",
+    "section": "7.2 Biology and medicine",
+    "kind": "explaining",
+    "text": "Ghosts at a carbon chain, each dissolving to parities is or is not, an explaining: copying, a copy, an original and a reader, where a second chain forms with the first and each nucleotide's next prior is its other's prior inverting; a link, a separate piece joined, where a chain is one co-chaining with no pieces in it; a floor, a place and a standing under a changing to a next; a mark as a store, where a one-carbon coupling at a ring carbon is or is not; thermal noise, a changing to and fro the field does not book, where each pair, pucker and coupling jitters; a gate at one origin or one promoter, where forks and RNA forming open at many places at once; a strand held immortal as a field says it, where each next cell is its own self; and a repairer, where a gap is an opening and a passing co-chaining is with it.",
+    "kind_hint": null,
+    "from": "Ghosts met along one carbon chain, each dissolving to parities is or is not: cop"
+   }
+  },
+  {
+   "from": "A chain is a self with its others along, and everything not in that along is, to",
+   "finding": "A droplet whose section is clear: the ribosome's two tunnels and its between are at Natural Biology 3.6 \"Genetic sharing — a code and its machinery\", where the ribosome observing of this same gathering sits (gathering-value heading \"### 3.6 Genetic sharing — a code and its machinery\"). Craft: *until* and *after* are clockings; *what it carried* has *carry*, which dissolves (its amino acid); *everything* is said by *each thing*.",
+   "fixed": {
+    "file": "Natural Biology",
+    "section": "3.6 Genetic sharing — a code and its machinery",
+    "kind": "explaining",
+    "text": "A chain is a self with its others along, and each thing not in that along is, to the chain, the universe, the society of all remaining others, an explaining; a transfer RNA is a self of that society, with universal parity, with a codon across for one moment, and with the universe again, its amino acid joining the second chain along. The co-chaining tunnels the society along and the society tunnels the chain across, bi-tunneling, which the ribosome's two tunnels and its between are.",
+    "kind_hint": null,
+    "from": "A chain is a self with its others along, and everything not in that along is, to"
+   }
+  }
+ ],
+ "checked": 23
+}
