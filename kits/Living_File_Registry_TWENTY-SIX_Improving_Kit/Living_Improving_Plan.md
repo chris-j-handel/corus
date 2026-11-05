@@ -139,7 +139,7 @@ Living File Registry improving kit · Living Improving Plan · v394
 
 ## The next pass
 
-**Now, step 1, the opening written.** Natural Intelligence's opening replaced by the 61 sentences in four paragraphs; Exhibit THIRTY's groups 1 to 4 written as steps 1 to 61, each with its *Adding* line and each group with its *Entering* line; steps 71 to 755 renumbered 62 to 746 and each step citation with them, a citation of a former step 1 to 70 going to the new step with its concept; `check_set.py` passing. The gathered droplets placed, a separate reader comparing before and after, and the person shown the result. Then step 2, Natural Intelligence's ONE · NATURAL, read from the opening.
+**Now, step 2, Natural Intelligence section by section from the opening, beginning at 1.1.** Each section shown whole and numbered, its sentences read against the opening's 61 and the sentences before them, one concern at a time, the largest first; the section's droplets for other files gathered at their partner gathering-values as found. Step 1 is written and read for harm (v394).
 
 **Carried from the former pass, now within step 2:** each of Natural Intelligence's sections within the proposal's parts, read by its co-chaining group. The Co-Chaining Logic Registry holds "Each part and section across living files is a stable-forming emanation from these steps and from one opening sentence, its title with one group"; the sections are placed within the parts by subject now, and their groups answer each placing, all or none, where a section's group and its subject part. With it Natural Intelligence's table of contents at a universal set's scale stands section by section, the frame for renumbering the exhibits and for each file's content placing within the parts.
 
