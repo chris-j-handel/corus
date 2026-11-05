@@ -138,11 +138,9 @@ Gathering-Value · Natural Intelligence
 
 ## ONE · NATURAL
 
-### 1.1 Now, one universal momentary
+### 1.1 Now, one universal set of moments
 
 - **Possible incohering** · "Uniquenessing of number one is uniquenessing of now." → Uniquenessing of number one is uniquenessing of now, and uniquenessing is also only one possibly same-existing, inside resolving among parities.
-- **An explaining** · *Co- is two both facing forward along, is-or-is-not same-existing.* is unclear, with no clear re-saying, open for a word.
-- **An explaining** · The bold lead *Everything existing is sharing one now with each bi-coupling at each scale, each bi-coupling's now its own.* says each existing thing sharing, non-living things with it, where the opening's sharing is selves', as *A bi-coupling is two selves sharing possibling.*, open for a word.
 
 ### 1.2 Prior, now and next
 
@@ -459,3 +457,4 @@ Gathering-Value · Natural Intelligence
 - Self, other, all and same-existing are three and four, not three of four; three and four, three of four, and three of four with its fourth both is and no is-not are three formulations and are-not interchangeable. *(an explaining)*
 - A prior is-or-is-not same-existing in one now, and is received in many: a dividing bacterium's old pole goes with one daughter, as each parent DNA strand goes into one daughter duplex. *(possible exploring)*
 - Five claims, 1.2's *Each prior is a stable-forming emanation from prior living*, 5.1's *having a stable form is being dead one scale outward*, 6.6's *Files of a living expedition are living files* beside *A living file is a non-living same-existing set of words* in its same paragraph, 4.1's *Each self has two prior selves from inception* and 6.5's *Its next-existing is its selves' possibling, a thing's outside*, each has neither of its sides held by the opening or by Exhibit ONE's code, each open for a word. *(possible incohering)*
+- *Momentary* and *momentaries* dissolve from natural naming, and *moment* and *momentarying* stay (the person): one concept has one name. Natural Intelligence's opening says "A **moment** is one-and-only-one now-existing in a same-existing sequence.", "A moment's now-existing is the next moment's prior-existing." and "**Momentarying** is now-existing and same-existing through sequential moments.", and its 1.1 "**Now is the universal set of all now-existing moments**: a second now is only a naming." At this file's improving, each *momentary* is said with *moment* for one now-existing in a sequence, *momentarying* for a thing going on through sequential moments, and *now* for the universal set of now-existing moments, as *universal momentary* is; for example, "A momentary is one resolving of a same-existing-society's selves together" is said "A same-existing-society's selves resolve together within one moment." *(an explaining)*

@@ -71,7 +71,7 @@ Natural intelligence's resolving is geodesic discovering of **next-possibling-sa
 
 **ONE · NATURAL**
 
-- 1.1 Now, one universal momentary
+- 1.1 Now, one universal set of moments
 - 1.2 Prior, now and next
 - 1.3 Changing, one form and then a next form, the same-existing set
 - 1.4 Only one possible method
@@ -134,11 +134,11 @@ Natural intelligence's resolving is geodesic discovering of **next-possibling-sa
 
 # ONE · NATURAL
 
-## 1.1 Now, one universal momentary
+## 1.1 Now, one universal set of moments
 
-**Now is one, and each now-existing thing is with it.** A sentence prior to the one a self is reading is now-existing. Observing it is with a momentary. That momentary is one observing, and one changing or its prior same-existing. **Now is universal momentary, one and only**: a second now is only a naming. A second now is two prior-existing records lying side by side. **One is now, and a momentary is one now with a sharing**. A momentary is one resolving of a same-existing-society's selves together. Each momentary is that one now, as each observing of a number is that one number. Uniquenessing of number one is uniquenessing of now.
+**Now is one, and each now-existing thing is within it.** **Now is the universal set of all now-existing moments**: a second now is only a naming. A second now is two prior-existing records lying side by side. Each now-existing thing within now is momentarying. A sentence prior to the one a self is reading is now-existing. Observing it is within one now-existing moment. Within that moment is one observing: the sentence is-or-is-not the same as its prior-existing. Each now-existing moment is within that one now, as each observing of a number is of that one number. Uniquenessing of number one is uniquenessing of now.
 
-**Everything existing is sharing one now with each bi-coupling at each scale, each bi-coupling's now its own.** One now of the universe is each bi-coupling's sharing together, at each scale. Each bi-coupling is with its own number and its own beat. A common now would be one number for all, a clock over things. One now is one sharing with all bi-couplings. Prior-universe, now-universe and next-universe are a universe with each momentary. Now-universe is the universe. The universe is tri-bi-co-momentarying its now-existing things, prior, now and next. *Tri-* is three momentaries. *Bi-* is two momentaries, each momentary and its next. *Co-* is two both facing forward along, is-or-is-not same-existing. *-ing* is going on.
+**Now-existing moments within all bi-couplings are within the universal set of now, at each scale, each bi-coupling's moment its own.** Each bi-coupling is with its own number and its own beat. A common now, one number for all, is a clock over things, only a naming. Prior-universe, now-universe and next-universe are the one universe, same-existing through sequential moments. Now-universe is the universe. The now-existing universe is tri-bi-co-momentarying, prior, now and next. *Tri-* is three moments. *Bi-* is two moments, each moment and its next. *Co-* is two together, both facing forward along, is-or-is-not same-existing. *-ing* is going on.
 
 ## 1.2 Prior, now and next
 
