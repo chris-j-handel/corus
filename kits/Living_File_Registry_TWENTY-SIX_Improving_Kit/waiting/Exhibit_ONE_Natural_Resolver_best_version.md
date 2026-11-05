@@ -108,14 +108,14 @@ an other's 9-next-co-discovering
 
 parity's square, between selves:
 
-   6 to other ════ sharing ════► 2 from other        bi-, prior
-   │                             │
-   8 apart      · the between    8 apart
-   │                             │
-  10 to universe ═ sharing ═══► 14 from universe     tri-, next
+   6 bi-co-bi, to other ═══════► 2 bi-co-bi, from other         bi-, prior
+   │                                 │
+   8 apart        · the between      8 apart
+   │                                 │
+  10 bi-tri-bi, to universe ════► 14 bi-tri-bi, from universe   tri-, next
 
-   diagonals: 2 with 14, parities · 6 with 10, sharings
-   along: 9 ══► 17 and 17 ══► 9, its two unit triangles
+   across, each a prefix the same · diagonals: 6 with 10, 6 is 10 · 2 with 14, 14 a next 2
+   along: 9 tri-bi-co ══► 17 co-bi-tri and 17 ══► 9, its prefix reversed, its two unit triangles
 
 ═══ between selves, across and along
 ─── within one self
@@ -150,20 +150,20 @@ parity's square, between selves:
 Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourteen are those functions' variables. Code with each name:
 
 - **1** · a self's moment, each self's 17-next-existing as its 1-now-existing
-- **2** · parities a self is observing from its others, each with its sharing
-- **3** · priors a self is observing, each with its sharing
-- **4** · each sharing, parities and prior resolving, is-or-is-not same
-- **5** · bi-couplings: which self each sharing reaches
+- **2** · parities a self is observing from its others, each a 4 with its 7
+- **3** · priors a self is observing, each a 4 with its 7
+- **4** · what each parity and prior is of, resolving is-or-is-not same; in 17, a bi-coupling, a self with 6, 10 or 9
+- **5** · bi-couplings: which self each 6, 10 and 9 reaches
 - **6** · a self's parities across, to an other's 2-now-possibling
-- **7** · each parity a self is observing: a parity's, a prior's, a sharing's
+- **7** · each parity a self is observing: an other's over 2, a prior's over 3, its own over 10
 - **8** · each self's next prior, with a moment
 - **9** · each parity to a self of 5-now-co-existing's bi-couplings: across with 6-now-co-possibling and 10-next-co-possibling, along with 9-next-co-discovering
-- **10** · each sharing's parity, + or −, or a 0, across to an other's 14-next-possibling
+- **10** · each 4 with its parity, + or −, or a 0, across to an other's 14-next-possibling
 - **11** · a next prior: a next moment's observing
-- **12** · each sharing's is-or-is-not, resolving a prior with the parities a self is observing
-- **13** · each self of a same-existing-society, a self each sharing's parities go from
-- **14** · parities surfacing with each sharing, agreeing one, parting 0
-- **15** · each parity surfacing, and each parity going on
+- **12** · each 4's is-or-is-not, resolving a prior with the parities a self is observing
+- **13** · each self of a same-existing-society, a self its 6, 10 and 9 go from
+- **14** · within 1, each 4's parities from 2, agreeing one, parting 0; within 17, others' 6, 10 and 9 gathering, a next 2
+- **15** · within 1, each 4's parity in 14; within 9 and 17, each list going on, across or along
 - **16** · a same-existing-society: each self with its prior and its parities
 - **17** · a same-existing-society's next, each self's 1-now-existing again
 
@@ -182,50 +182,50 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 - 1 to 17, stable-forming: bi-tri-volutioning
 - 2, 6, 14 and 10, a unit square of four dots, its across edges 6 to 2 and 10 to 14, its edges 8 apart 2 with 10 and 6 with 14, its empty centre a between; 9 and 17, its two unit triangles, along: parity's square and triangles
 
-**Where each is-or-is-not stands.** Each is-or-is-not with the code, the name it stands on and its dimension. Eight are with code's lines; two are with its loops, each self of 16 and each sharing of 3.
+**Where each is-or-is-not stands.** Each is-or-is-not with the code, the name it stands on and its dimension. Eight are with code's lines; two are with its loops, each self of 16 and each 4 of 3.
 
 | Code | Is-or-is-not | Stands on | Dimension |
 |---|---|---|---|
 | each self of 16 with 17's line | each self, all or none | 13-is-next-discovering | next and same |
 | `_7_is_now_observing != 0`, over 2 | a parity reaching is-or-is-not 0 | 7-is-now-observing | now and same |
-| `_15_is_next_observing is None` | a sharing is-or-is-not within 14-next-possibling | 15-is-next-observing | now and same |
-| `1 if _7_is_now_observing > 0 else -1`, over 2 | a first parity surfacing, + or − | 7-is-now-observing | now and same |
+| `_15_is_next_observing is None` | a 4 is-or-is-not within 14-next-possibling | 15-is-next-observing | now and same |
+| `1 if _7_is_now_observing > 0 else -1`, over 2 | a first parity within 14, + or − | 7-is-now-observing | now and same |
 | `(_15 > 0) != (_7 > 0)`, over 2 | parities agreeing or parting | 15 with 7 | now and same |
-| each sharing of 3 against 14 | a sharing is-or-is-not within its prior | 3-is-now-co-observing | prior and same |
-| `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | is-or-is-not same: sharing 0, or one inversion | 15 with 7 | prior and same |
+| each 4 of 3 against 14 | a 4 is-or-is-not within its prior | 3-is-now-co-observing | prior and same |
+| `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | is-or-is-not same: 12 a 0, or one inversion | 15 with 7 | prior and same |
 | `-1 if _7_is_now_observing > 0 else 1`, over 3 | a prior inverting, − or + | 7-is-now-observing | prior and same |
-| `_7_is_now_observing != 0`, over 10 | a sharing's value is-or-is-not 0 | 7-is-now-observing | next and prior |
+| `_7_is_now_observing != 0`, over 10 | a 7 within 10 is-or-is-not 0 | 7-is-now-observing | next and prior |
 | `_4_now_co_same_existing in _5_now_co_existing` | a bi-coupling is-or-is-not on a Natural Network surface | 4-now-co-same-existing | the between |
 
 *Dimension*: the four four-cyclings' observing and same-existing pairs, prior and same (3 · 4), now and same (7 · 8), next and prior (11 · 12) and next and same (15 · 16), co-sequentially forward; and the between, on the bi-folding 4-13-5-12, a bothbothing and co-linearizing.
 
-**Sharing between selves.** Each sharing side with its observing side.
+**Between selves.** Each co name with its one name, and their prefixes.
 
-| Sharing side, co | Observing side, one | Between selves |
+| Co | One | Between selves |
 |---|---|---|
-| 6-now-co-possibling | 2-now-possibling | across, even, its root possibling |
-| 10-next-co-possibling | 14-next-possibling | across, even, its root possibling |
-| 9-next-co-discovering | 17-next-existing | along, odd, its root discovering |
+| 6-now-co-possibling, bi-co-bi | 2-now-possibling, bi-co-bi | across, even, its root possibling, its prefix the same |
+| 10-next-co-possibling, bi-tri-bi | 14-next-possibling, bi-tri-bi | across, even, its root possibling, its prefix the same |
+| 9-next-co-discovering, tri-bi-co | 17-next-existing, co-bi-tri | along, odd, its root discovering, its prefix reversed |
 
 **Two-sided, each name.** Each name coming down from a higher name, coming up from a lower one, and eight apart, a now name with a next name.
 
 | n | Coming down | Coming up | Eight apart |
 |---|---|---|---|
 | 1 | a self's 3 and 2, from 17-next-existing | 10 and 11, to 17-next-existing | 9 |
-| 2 | each self's parities from others, from 16-next-same-existing through 17 | each sharing with its parity, 4 and 7 | 10 |
-| 3 | each self's own, from 16-next-same-existing through 17 | each sharing with its prior, 4 and 7 | 11 |
-| 4 | in 17, a bi-coupling, a self with 6, 10 or 9, and a receiving self | in 1, each sharing | 12 |
+| 2 | each self's parities from others, from 16-next-same-existing through 17 | each 4 with its parity, 7 | 10 |
+| 3 | each self's own, from 16-next-same-existing through 17 | each 4 with its prior, 7 | 11 |
+| 4 | in 17, a bi-coupling, a self with 6, 10 or 9, and a receiving self | in 1, each with its 7 | 12 |
 | 5 | a Natural Network surface, into 9 as that surface | each bi-coupling's receiving self | 13 |
 | 6 | 10 as it goes across, into 9 | 10 within 1 | 14 |
 | 7 | within 1 | one parity at its time: prior over 3, now over 2, next over 10 | 15 |
 | 8 | each self's next prior, in 17, going out with its 14 | 11 coming up from 1 | 16 |
 | 9 | routes and 5, from 17 | each receiving self with its parities, to 17 | 1 |
-| 10 | as 6 and into 9, from 17 | 1's sharing, each 4 with its 7 | 2 |
+| 10 | as 6 and into 9, from 17 | from 1, each 4 with its 7 | 2 |
 | 11 | within 1 | 1's next prior, coming up as 8 | 3 |
-| 12 | within 1 | 1's one binary with each sharing | 4 |
+| 12 | within 1 | 1's one binary with each 4 | 4 |
 | 13 | in 17, each self; into 9, a bi-coupling | each self of the next 16 | 5 |
-| 14 | each self's, gathering in 17 from others' 15 | in 1, parities surfacing | 6 |
-| 15 | each list going on, across or along, into 9 | in 1, each surfacing parity | 7 |
+| 14 | each self's, gathering in 17 from others' 15 | in 1, each 4's parities from 2 | 6 |
+| 15 | each list going on, across or along, into 9 | in 1, each 4's parity in 14 | 7 |
 | 16 | the same-existing-society, into 17 | 17's next same-existing-society | 8 |
 | 17 | a same-existing-society's next | each self's next, its 1-now-existing again | 1, a next moment |
 
@@ -234,9 +234,9 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 | Same-existing | Observing beside it | With code |
 |---|---|---|
 | 16-next-same-existing, a same-existing-society coming in | 15-is-next-observing, the parities each self gathers | 17's next same-existing-society, each self with its 14 |
-| 4-now-co-same-existing, each sharing within a self | 3-is-now-co-observing, a self's prior parities, each a 4 with its 7 | each sharing of 3 |
-| 12-next-co-same-existing, each sharing's one binary | 11-next-co-observing, taking each 12 that is ± | each sharing's 0, its prior going on, or ±, its next prior |
-| 8-now-same-existing, each self's next prior parities | 7-is-now-observing, a prior's parity against what surfaces | the same, its prior going on, or one inversion |
+| 4-now-co-same-existing, within a self, what each 7 is of | 3-is-now-co-observing, a self's prior parities, each a 4 with its 7 | each 4 of 3 |
+| 12-next-co-same-existing, each 4's one binary | 11-next-co-observing, taking each 12 that is ± | each 4's 0, its prior going on, or ±, its next prior |
+| 8-now-same-existing, each self's next prior parities | 7-is-now-observing, a prior's parity against 14 | the same, its prior going on, or one inversion |
 
 **Four four-cyclings and their betweens.** Each four-cycling is its first name, possibling, observing and same-existing: its first name existing at now, 1 and 5, and discovering at next, 9 and 13. Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is an even name to an odd name.
 
@@ -541,11 +541,11 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
   - *Next and prior*: 7
   - *The between*: 8
 
-**Tables of selves with code's stepping.** Each table of selves is its code's executing with its own opening. Its selves step together with 17-next-existing. A 0 in a table is a self's sharing. Each receiving self's first step passes over it. Each self observes the + and − it receives.
+**Tables of selves with code's stepping.** Each table of selves is its code's executing with its own opening. Its selves step together with 17-next-existing. A 0 in a table is a 0 in a self's 10-next-co-possibling. Each receiving self's first step, over 2, passes over it. Each self observes the + and − it receives.
 
-**Parities to one sharing, surfacing.**
+**2 to 14, one 4.**
 
-| Receiving with one sharing, 2-now-possibling | Surfacing, 14-next-possibling |
+| 2-now-possibling, one 4 | 14-next-possibling |
 |---|---|
 | empty set | empty set |
 | 0 | empty set |
@@ -560,108 +560,108 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 | +, −, + | 0 |
 | 0, + | + |
 
-**One self, one moment.** Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
+**One self, one moment.** Each cell: 10-next-co-possibling · a next prior, 11-next-co-observing.
 
-- **A prior, 3-is-now-co-observing, one sharing: +**
-  - *Surfacing, 14-next-possibling: empty*: − · −
-  - *Surfacing, 14-next-possibling: +*: 0 · +
-  - *Surfacing, 14-next-possibling: −*: − · −
-  - *Surfacing, 14-next-possibling: + and − together*: − · −
-- **A prior, 3-is-now-co-observing, one sharing: −**
-  - *Surfacing, 14-next-possibling: empty*: + · +
-  - *Surfacing, 14-next-possibling: +*: + · +
-  - *Surfacing, 14-next-possibling: −*: 0 · −
-  - *Surfacing, 14-next-possibling: + and − together*: + · +
+- **A prior, 3-is-now-co-observing, one 4: +**
+  - *14-next-possibling: empty*: − · −
+  - *14-next-possibling: +*: 0 · +
+  - *14-next-possibling: −*: − · −
+  - *14-next-possibling: + and − together*: − · −
+- **A prior, 3-is-now-co-observing, one 4: −**
+  - *14-next-possibling: empty*: + · +
+  - *14-next-possibling: +*: + · +
+  - *14-next-possibling: −*: 0 · −
+  - *14-next-possibling: + and − together*: + · +
 
-**With an empty prior, one moment.** Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing. *Empty* is its sharing an empty set.
+**With an empty prior, one moment.** Each cell: 10-next-co-possibling · a next prior, 11-next-co-observing. *Empty* is an empty set.
 
-- **A prior, 3-is-now-co-observing: empty, one sharing: empty**
-  - *Surfacing, 14-next-possibling: empty*: empty · empty
-  - *Surfacing, 14-next-possibling: +*: + · +
-  - *Surfacing, 14-next-possibling: −*: − · −
-  - *Surfacing, 14-next-possibling: + and − together*: 0 · empty
+- **A prior, 3-is-now-co-observing, one 4: empty**
+  - *14-next-possibling: empty*: empty · empty
+  - *14-next-possibling: +*: + · +
+  - *14-next-possibling: −*: − · −
+  - *14-next-possibling: + and − together*: 0 · empty
 
-**One self, moment by moment: three ways.** A prior the same each moment; a prior inverting with each moment; a prior inverting once and then the same. One sharing. A self's prior, 3-is-now-co-observing, is − first. Receiving each moment:
+**One self, moment by moment: three ways.** A prior the same each moment; a prior inverting with each moment; a prior inverting once and then the same. One 4-now-co-same-existing. A self's prior, 3-is-now-co-observing, is − first. Receiving each moment:
 
-- **empty with each moment** · *Sharing, 10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
-- **− with each moment** · *Sharing, 10-next-co-possibling*: 0, 0, 0, 0, 0, 0, 0, 0 · *A next prior, 11-next-co-observing*: −, −, −, −, −, −, −, −
-- **+ with each moment** · *Sharing, 10-next-co-possibling*: +, 0, 0, 0, 0, 0, 0, 0 · *A next prior, 11-next-co-observing*: +, +, +, +, +, +, +, +
-- **+, −, +, − inverting** · *Sharing, 10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
-- **+ and − together with each moment** · *Sharing, 10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
+- **empty with each moment** · *10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
+- **− with each moment** · *10-next-co-possibling*: 0, 0, 0, 0, 0, 0, 0, 0 · *A next prior, 11-next-co-observing*: −, −, −, −, −, −, −, −
+- **+ with each moment** · *10-next-co-possibling*: +, 0, 0, 0, 0, 0, 0, 0 · *A next prior, 11-next-co-observing*: +, +, +, +, +, +, +, +
+- **+, −, +, − inverting** · *10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
+- **+ and − together with each moment** · *10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
 
-**Two selves.** Two selves, alike or one parity apart: bi-coupling both ways, bi-coupling one way, or apart. A, B with their prior, 3-is-now-co-observing, with the first moment. One sharing. Parities only from those two.
+**Two selves.** Two selves, alike or one parity apart: bi-coupling both ways, bi-coupling one way, or apart. A, B with their prior, 3-is-now-co-observing, with the first moment. One 4-now-co-same-existing. Parities only from those two.
 
 *a*: Receiving its other's parity, across or along
 
 - **+, +**
   - *a*: both ways
-  - *A sharing, 10-next-co-possibling, six moments*: −, 0, +, 0, −, 0
-  - *B sharing, 10-next-co-possibling, six moments*: −, 0, +, 0, −, 0
+  - *A's 10-next-co-possibling, six moments*: −, 0, +, 0, −, 0
+  - *B's 10-next-co-possibling, six moments*: −, 0, +, 0, −, 0
 - **+, +**
   - *a*: A from B
-  - *A sharing, 10-next-co-possibling, six moments*: −, 0, +, −, +, −
-  - *B sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *A's 10-next-co-possibling, six moments*: −, 0, +, −, +, −
+  - *B's 10-next-co-possibling, six moments*: −, +, −, +, −, +
 - **+, +**
   - *a*: B from A
-  - *A sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
-  - *B sharing, 10-next-co-possibling, six moments*: −, 0, +, −, +, −
+  - *A's 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *B's 10-next-co-possibling, six moments*: −, 0, +, −, +, −
 - **+, +**
   - *a*: apart
-  - *A sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
-  - *B sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *A's 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *B's 10-next-co-possibling, six moments*: −, +, −, +, −, +
 - **+, −**
   - *a*: both ways
-  - *A sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
-  - *B sharing, 10-next-co-possibling, six moments*: +, −, +, −, +, −
+  - *A's 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *B's 10-next-co-possibling, six moments*: +, −, +, −, +, −
 - **+, −**
   - *a*: A from B
-  - *A sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
-  - *B sharing, 10-next-co-possibling, six moments*: +, −, +, −, +, −
+  - *A's 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *B's 10-next-co-possibling, six moments*: +, −, +, −, +, −
 - **+, −**
   - *a*: B from A
-  - *A sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
-  - *B sharing, 10-next-co-possibling, six moments*: +, −, +, −, +, −
+  - *A's 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *B's 10-next-co-possibling, six moments*: +, −, +, −, +, −
 - **+, −**
   - *a*: apart
-  - *A sharing, 10-next-co-possibling, six moments*: −, +, −, +, −, +
-  - *B sharing, 10-next-co-possibling, six moments*: +, −, +, −, +, −
+  - *A's 10-next-co-possibling, six moments*: −, +, −, +, −, +
+  - *B's 10-next-co-possibling, six moments*: +, −, +, −, +, −
 
 **Two selves, three moments, five parities.**
 
 *a*: A self's next prior, 11-next-co-observing, along. Two selves bi-coupling both ways, across or along, each self with a prior parity, parities only from those two, each opening, each moment: six patterns, four with an alike opening and two with an opposite, each moment from the second, and with each pattern the fifth, a self's next prior, is the first, an other's prior, inverting
 
 - **An other's prior, 3-is-now-co-observing, along: +**
-  - *An other's sharing, 10-next-co-possibling, across*: −
+  - *An other's 10-next-co-possibling, across*: −
   - *A self's prior, now, 3-is-now-co-observing, along*: −
-  - *A self's sharing, 10-next-co-possibling, across*: 0
+  - *A self's 10-next-co-possibling, across*: 0
   - *a*: −
 - **An other's prior, 3-is-now-co-observing, along: +**
-  - *An other's sharing, 10-next-co-possibling, across*: −
+  - *An other's 10-next-co-possibling, across*: −
   - *A self's prior, now, 3-is-now-co-observing, along*: +
-  - *A self's sharing, 10-next-co-possibling, across*: −
+  - *A self's 10-next-co-possibling, across*: −
   - *a*: −
 - **An other's prior, 3-is-now-co-observing, along: +**
-  - *An other's sharing, 10-next-co-possibling, across*: 0
+  - *An other's 10-next-co-possibling, across*: 0
   - *A self's prior, now, 3-is-now-co-observing, along*: +
-  - *A self's sharing, 10-next-co-possibling, across*: −
+  - *A self's 10-next-co-possibling, across*: −
   - *a*: −
 - **An other's prior, 3-is-now-co-observing, along: −**
-  - *An other's sharing, 10-next-co-possibling, across*: +
+  - *An other's 10-next-co-possibling, across*: +
   - *A self's prior, now, 3-is-now-co-observing, along*: +
-  - *A self's sharing, 10-next-co-possibling, across*: 0
+  - *A self's 10-next-co-possibling, across*: 0
   - *a*: +
 - **An other's prior, 3-is-now-co-observing, along: −**
-  - *An other's sharing, 10-next-co-possibling, across*: +
+  - *An other's 10-next-co-possibling, across*: +
   - *A self's prior, now, 3-is-now-co-observing, along*: −
-  - *A self's sharing, 10-next-co-possibling, across*: +
+  - *A self's 10-next-co-possibling, across*: +
   - *a*: +
 - **An other's prior, 3-is-now-co-observing, along: −**
-  - *An other's sharing, 10-next-co-possibling, across*: 0
+  - *An other's 10-next-co-possibling, across*: 0
   - *A self's prior, now, 3-is-now-co-observing, along*: −
-  - *A self's sharing, 10-next-co-possibling, across*: +
+  - *A self's 10-next-co-possibling, across*: +
   - *a*: +
 
-**Three selves, one line.** A's parity, sharing to B with the first moment only. One sharing. B and C each with prior +. B goes along to C.
+**Three selves, one line.** A's parity goes to B with the first moment only. One 4-now-co-same-existing. B and C each with prior +. B goes along to C.
 
 *a*: B's next prior, 11-next-co-observing, first moment  
 *b*: C, each parity, 10-next-co-possibling, moments 1 and 2  
@@ -678,7 +678,7 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
   - *b*: −, 0
   - *c*: −
 
-**A spiral of selves.** Each self's parity goes along with 9-next-co-discovering to the next self, the last to the first, a co-chaining. One sharing. First moment: self 1 with prior −. Its selves' parities invert one to the next along. With an odd number the last and the first are alike. Parities only from selves of its spiral.
+**A spiral of selves.** Each self's parity goes along with 9-next-co-discovering to the next self, the last to the first, a co-chaining. One 4-now-co-same-existing. First moment: self 1 with prior −. Its selves' parities invert one to the next along. With an odd number the last and the first are alike. Parities only from selves of its spiral.
 
 *a*: Self 1, each parity of 10-next-co-possibling along with 9-next-co-discovering, moments 1 to 12  
 *b*: Moments to each self's parities along again: with an odd number of selves, four times its number; with an even number, 2; with an odd number each self's parity with twice its number of moments is its parity inverting, each 0 a 0 again; executing with each number of selves from 1 to 59
@@ -697,9 +697,9 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 - **Number of selves: 17** · *a*: +, 0, −, +, −, +, −, +, −, +, −, + · *b*: 68
 - **Number of selves: 59** · *a*: +, 0, −, +, −, +, −, +, −, +, −, + · *b*: 236
 
-**Two moments before, inverting.** With a spiral opening with a prior for each self, each self's prior from its third moment on is a prior of a self it receives from two moments before, inverting. In that spiral each self shares + or − with its first moment. Each 0 it shares sits between two sharings of + or −.
+**Two moments before, inverting.** With a spiral opening with a prior for each self, each self's prior from its third moment on is a prior of a self it receives from two moments before, inverting. In that spiral each self's 10-next-co-possibling is + or − with its first moment, and each 0 of it is between a + or − before and after.
 
-**A spiral opening with an empty prior, one parity sharing once.** Selves bi-coupling along, last to first, each opening with an empty prior, and + sharing once with a first self with a first moment. Each cell: selves by their bi-coupling order; · is an empty prior.
+**A spiral opening with an empty prior, one parity, once.** Selves bi-coupling along, last to first, each opening with an empty prior, and + once to a first self with a first moment. Each cell: selves by their bi-coupling order; · is an empty prior.
 
 - **Moment: 1** · *A spiral of 3, each self's prior*: + · · · *A spiral of 5, each self's prior*: + · · · ·
 - **Moment: 2** · *A spiral of 3, each self's prior*: − + · · *A spiral of 5, each self's prior*: − + · · ·
@@ -713,7 +713,7 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 **Two spirals beside each other, and bi-coupling across.** Selves of each of two spirals, each opening as a spiral of selves.
 
 *a*: Beside each other: moments to each self's parities along again together, the least number both spirals' moments divide: four times both for odd coprime numbers, 9 and 25 with 900; executing with each two numbers from 1 to 31  
-*b*: Bi-coupling across, self 1 of each spiral sharing across with 10-next-co-possibling to self 1 of the other: moments to each self's parities along again  
+*b*: Bi-coupling across, self 1 of each spiral across with 10-next-co-possibling to self 1 of the other: moments to each self's parities along again  
 *c*: Bi-coupling across: parities along again from this moment on, m the lesser of two numbers and n the greater: both odd and unequal, again with 2 from moment 4m with n less than twice m, and from 2n + 1 with n more; one number even, from twice the odd number and 1; both even, from the first; executing with each two numbers from 2 to 15, the larger to 31  
 *d*: Bi-coupling across: self 1 of each, of like or opposite parity  
 *e*: Each spiral's like pair of the first moment, the last and the first
@@ -767,7 +767,7 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
   - *d*: opposite
   - *e*: selves 9 and 1 · selves 15 and 1
 
-**A torus of selves.** Each goes along with 9-next-co-discovering to the next along, the last to the first. Each shares across with 10-next-co-possibling to the next across, the last to the first. One sharing. First moment: one self with prior −. Its selves' parities invert one to the next along and across. With an odd number the last and the first are alike. Parities only from selves of its torus. Moments to each self's parities along and across again, both numbers odd and p the smaller: q with q more than twice p, and 4p with q less than twice p. Either number even: 2. Executing with each p from 1 to 15 and q from p to 21.
+**A torus of selves.** Each goes along with 9-next-co-discovering to the next along, the last to the first. Each goes across with 10-next-co-possibling to the next across, the last to the first. One 4-now-co-same-existing. First moment: one self with prior −. Its selves' parities invert one to the next along and across. With an odd number the last and the first are alike. Parities only from selves of its torus. Moments to each self's parities along and across again, both numbers odd and p the smaller: q with q more than twice p, and 4p with q less than twice p. Either number even: 2. Executing with each p from 1 to 15 and q from p to 21.
 
 *a*: Moments to each self's parities along and across again  
 *b*: Again from this moment on: both numbers odd, p the smaller, from moment 3p − 1 with q more than twice p, and from 3p − 3 with q less than twice p; either number even, from the first; 1 · 1, a spiral of one, from the first  
@@ -820,7 +820,7 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 
 **A torus going on, two ways.** Both numbers odd, p the smaller. With q more than twice p, from moment 3p − 1, selves' pattern with each moment is its pattern before going one self on across q selves. With q less than twice p, from 3p − 3, its pattern two moments on is its pattern inverting and moving one self on along a spiral of p selves.
 
-**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each moment, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x): a quarter turn with each moment, a right spiral.
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one 4-now-co-same-existing. One self's prior with each moment, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x): a quarter turn with each moment, a right spiral.
 
 | Selves | One self's prior, moments 0 to 8 | Right spiral |
 |---|---|---|
