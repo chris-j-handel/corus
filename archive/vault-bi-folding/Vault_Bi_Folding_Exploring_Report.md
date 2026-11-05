@@ -66,6 +66,24 @@ A separate real-time AFM study follows identified particles while the solution c
 
 These findings extend the earlier source set: direct observations of individual vaults changing are available, alongside the frozen structural comparisons. The remaining opening is more specific than a general lack of motion evidence. It is the same identified assembly enlarging under a specified environmental change, with participant number and sequence distinguished, its continuing across relations followed, and any return or recovery distinguished from aggregation or collapse. Reversible dimensional changing supports exploring the proposed betweening relation; beneficial adapting and the natural method of that changing remain explaining to derive.
 
+## Bothbothing: deformation and adapting in one changing
+
+The further correction is:
+
+> reversible deformation rather than beneficial adapting. in natural inteligence when there is an either or and it can not be both from the hard probleming of science the resolving of this is bothbothing where the reversible deformation is beneficial adapting. this is the bath towel twisting into a central tightly wrapped corus in the narrow center of the two wide ends and the slight stiffening and relaxing of three edges into and out of the center in right spiral co-sequencing is bothbothing this
+
+The earlier phrase “reversible deformation rather than beneficial adapting” introduced an exclusion the observing does not require. A field’s description of reversible dimensional changing and the proposed natural explaining of beneficial adapting can concern the same occurrence. The correction preserves both. The outstanding correspondence is not a choice of one description against the other; it is the deriving of the natural relation through the particular observing.
+
+Bothbothing here must retain its sequencing. Natural Naming §4.15 describes each side’s own exchanging, one and then the other. Natural Intelligence §3.3 places geodesic changing and stable-forming together: particular sharings changing while a self’s prior is same-existing. This does not assign contrary parities to one sharing in the same respect and momentary. Nor is it merely adding two names to an unchanged picture. The opening is the continuing relation through the changing and changing back.
+
+The towel proposal supplies a particular form to follow: two broad ends, a narrow tightly wrapping central corus, and three edges slightly stiffening and relaxing into and out of that center in right-spiral co-sequencing. Natural Naming §2.5 already uses gentle towel twisting toward and away from a knotting corus, with edges across and along; Co-Chaining Logic entry 268 carries that correspondence. The three-edge right-spiral co-sequencing in this vault exploration remains the present proposal; it is not yet an identified sequence in the vault images.
+
+In the proposed natural explaining, dimensional deformation is the visible forming of adapting through those resolving relations. Stiffening and relaxing can belong to the same going on, with the participating selves’ same-existing continuing. The tightly forming center and the wider ends are related within that forming. A measured increase in one span would therefore need to be followed beside changes in the center and other spans; “larger” alone would leave out the relation.
+
+The AFM height decrease and recovery is a useful observing for this bothbothing. Its single height trace does not identify the three edges, their inward/outward sequence or their handedness. Those are the specific additional relations to seek, without imposing A, B and C cap labels as the three towel edges by their shared count. A particular beneficial continuing still needs its correspondence made explicit; reversible changing is compatible with that explaining and does not exclude it.
+
+The learning is a correction in method as well as wording: keep an observing and a proposed natural explaining together at the same occurrence. An unexplained correspondence remains open; it is not converted into evidence that the two descriptions cannot both hold.
+
 ## What the paper supplies
 
 The source is **Prokaryotic homologs of the major vault protein form engineerable vault nanocapsules**, by Athukoralage and colleagues, the exact 36-page PDF supplied in the conversation. Its subject is vault particles assembled from protein sequences expressed in laboratory systems. The newly examined prokaryotic and phage homologs were expressed in *Escherichia coli*. Their formation in the organisms from which the sequences originate remains a separate question.
