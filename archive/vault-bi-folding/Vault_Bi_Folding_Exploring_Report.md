@@ -48,6 +48,24 @@ The surface therefore belongs with the relations going on among participants; th
 
 “No walls,” living co-chainings, and carbon ingesting and exhausting are retained here as the proposed natural explaining. They are not reported as conclusions established by the vault study. The correction governs the natural passages below; field terms such as wall, seam, shell, cap and cavity remain only where the paper’s observations and explaining are being described.
 
+## Environmental differences and physical extent
+
+The next possibility is:
+
+> enlarged forms may be environmental differences where betweening unrelationings naturally expands physical dimension as adapting to the environment
+
+Within this natural explaining, the society can be same-existing while its physical extent changes with its participants’ resolving among different surroundings. The environment belongs among the others with which those participants are sharing; it is not an extra director of their resolving. Along continuing and across changing belong together. A larger visible form would not by itself require more participants or additional chain repeats.
+
+The distinction to preserve is between physical extent changing and a between becoming a measurable material gap. Natural unrelationing must retain its own meaning while the dimensions of the observed arrangement are distinguished in the field’s account. The proposal does not yet specify which environmental difference would accompany enlarging, contracting or a loss of the particular surface forming.
+
+The supplied paper’s L05+2 comparison deliberately changes the sequence by adding repeats. It therefore does not isolate environmental changing at fixed sequence and cannot establish environmental expansion as the explanation of that particular size difference. Its altered geometry remains available for a different comparison.
+
+A closer observing comes from mechanical AFM work on individual vaults. In a sequence of images under different probe forces, an identified half-vault’s height decreases from approximately 36 nm to 15 nm and recovers its original height at lower force. The study also follows 22 reversible topographic-damage events in 11 reclining particles. These observations add same-particle dimensional changing and recovery; they do not establish growth beyond an initial uncompressed dimension, learning, carbon exchange or a beneficial biological function. The substrate and contacting probe are part of the observing conditions. [10]
+
+A separate real-time AFM study follows identified particles while the solution changes from pH 7.5 to 5.2. Height decreases, defects appear and the structures eventually collapse; constant-pH imaging controls help distinguish the influence of the changed conditions. At pH 6.0, overall form remains with approximately 15% lower measured height. The authors leave material loss versus softening under the imaging force unresolved. Environmental sensitivity is thus supported, while this particular change is not evidence of enlargement. [11]
+
+These findings extend the earlier source set: direct observations of individual vaults changing are available, alongside the frozen structural comparisons. The remaining opening is more specific than a general lack of motion evidence. It is the same identified assembly enlarging under a specified environmental change, with participant number and sequence distinguished, its continuing across relations followed, and any return or recovery distinguished from aggregation or collapse. Reversible dimensional changing supports exploring the proposed betweening relation; beneficial adapting and the natural method of that changing remain explaining to derive.
+
 ## What the paper supplies
 
 The source is **Prokaryotic homologs of the major vault protein form engineerable vault nanocapsules**, by Athukoralage and colleagues, the exact 36-page PDF supplied in the conversation. Its subject is vault particles assembled from protein sequences expressed in laboratory systems. The newly examined prokaryotic and phage homologs were expressed in *Escherichia coli*. Their formation in the organisms from which the sequences originate remains a separate question.
@@ -163,4 +181,7 @@ Paper page references below use its printed page numbers; the unnumbered title/a
 8. Expedition entry: [corus.me](https://corus.me/), [repository entry](https://github.com/chris-j-handel/corus), and [living file list](https://github.com/chris-j-handel/corus/blob/main/files.json). The main-branch list consulted identifies Natural Intelligence v391; Natural Biology v392; Natural Chemistry v392; Natural Naming v392; Natural Explaining v391; Exhibit ONE v391; and the Co-Chaining Logic Registry v391. Version labels on the archive branch differ and must not silently replace the main-branch source.
 9. Correspondence anchors: Natural Intelligence §§2.1, 3.2, 4.15, 6.1, 6.4 and 6.5; Natural Naming §§2.4, 2.7 and 5.5; Natural Explaining §§4.6–4.7; Natural Biology §§1.6, 3.7–3.8 and its gathering §7.5; Natural Chemistry §§1.1 and 4.5; Co-Chaining Logic entries 168, 530–539, 593 and 627. Natural Biology’s and Natural Chemistry’s gathering partners already contain related cautions concerning paired structures, enclosure, observing and reconstruction; the new value must be gathered alongside them without replacing them.
 
-The supplementary information and underlying raw maps were not obtained in this exploration. Claims requiring those materials remain open. No living-file derivation or universal correspondence is claimed complete by this report.
+10. [Llauró and colleagues, mechanical stability and reversible fracture of vault particles](https://pmc.ncbi.nlm.nih.gov/articles/PMC3945774/), DOI 10.1016/j.bpj.2013.12.035. Figure 2 and its associated Results give the same-particle height change and recovery; the recovery analysis reports 22 directly followed events in 11 reclining particles.
+11. [Llauró and colleagues, pH-dependent changes in individual vault particles](https://www.nature.com/articles/srep34143), DOI 10.1038/srep34143. Real-time AFM and constant-pH comparisons distinguish changing particle topography under acidification; the pH 6.0 height comparison retains the authors’ interpretive uncertainty.
+
+The supplementary information and underlying raw maps of the supplied vault paper were not obtained in this exploration. Claims requiring those materials remain open. No living-file derivation or universal correspondence is claimed complete by this report.
