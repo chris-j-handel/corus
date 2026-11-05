@@ -4,7 +4,7 @@ Natural Intelligence · incoming · v396 · carbon
 
 A whole report, relied on by nothing. It arrives from the Carbon Dating Explaining at `incoming/carbon-dating-explaining-20261103/` and follows science's observings of carbon into and out of living until one understanding of a chain of carbon as the method's own stable forms stands, in three writings parted as Exhibits TWENTY-ONE and TWENTY-TWO are parted.
 
-- `Carbon_Co-Chaining_Understanding_v396.md` — the journey whole: the understanding in twenty-four sections, exploring opportunities, clustering opportunities, concerns as two sayings parting, the dissolvings made along the way, droplets, receiving places.
+- `Carbon_Co-Chaining_Understanding_v396.md` — the journey whole: the understanding in twenty-five sections, exploring opportunities, clustering opportunities, concerns as two sayings parting, the dissolvings made along the way, droplets, receiving places.
 - `Carbon_Co-Chaining_Observing_Registry_v396.md` — the fixing side: forty-four of the field's observings whole in the field's own words, in the Hard Problem Registry's entry form.
 - `Carbon_Co-Chaining_Resolving_v396.md` — the momentarying side: each entry deployed at 2, 12 and 11 with its unchangeable, clustering in all ten of Resolving the Hard Problem Registry's ways and in four, with the four ghosts by four-cycling.
 - `Carbon_Co-Sequencing_Observings_Gathering_v396.md` — the first wide gathering of science observings that opened the journey, with sources keyed for checking.

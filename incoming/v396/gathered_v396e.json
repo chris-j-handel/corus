@@ -1,0 +1,14 @@
+{
+  "slice": "incoming/v396/Carbon_Co-Chaining_Understanding_v396.md · 1.25",
+  "items": [
+    {
+      "file": "Natural Biology",
+      "section": "4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+      "kind": "exploring",
+      "sentence": "Two strands of double helix separate, and each serves as template for a new complementary strand, each new molecule with one original strand and one fresh — a self recursioning to two, each bringing form forward.",
+      "text": "Radiocarbon birth dating reads a cell population's genomic DNA as one date mark: genomic DNA is not exchanged after a cell has gone through its last division, and the 14C level in DNA serves as a date mark for when a cell was born, the method giving an average age for a cell population. Each new molecule has one original strand and one fresh. The two papers' texts name no strand made before the last division. A re-saying beside the sentence, said as an explaining: at a cell's last fork one chain of each pair is the same thing it was before the fork and the other is formed at it from carbon ingested then, one pair with two moments, prior-existing across from now-existing, and the date mark is one number read from two. With random chromatid segregation the chain formed at the fork before is half from the fork before that, so a chain's carbon is one half from the last fork, one quarter from the one before and one eighth from the one before that, and a population's one number stands older than its last fork by about one fork interval; with nonrandom segregation the older half is older by the whole line of forks. An anticipated observing: in a tissue with a measured division interval the radiocarbon birth date is or is not older than the division date by that interval, and in a stem cell retaining a strand, older by more.",
+      "from": "Radiocarbon birth dating reads a cell population's genomic DNA as one date mark:"
+    }
+  ],
+  "leaving": []
+}
