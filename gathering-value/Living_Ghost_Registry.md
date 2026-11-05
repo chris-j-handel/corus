@@ -40,6 +40,8 @@ Gathering-Value · Living Ghost Registry
 
 ### 2.3 Ten unchangeables locate the kind of still
 
+- **An explaining** · The four ghosts by four-cycling, an explaining. Each moment of a four-cycling fixing unchangeable gives two characters: a causer, a nothing put behind the moment as what makes it, and a defender, put ahead of it as what keeps it. Prior-existing fixing as a reference: an origin and an end, drift its artifact. Now-existing fixing as a rate: a beat and a value, jitter its artifact. Next-existing fixing as a magnitude: a drive and a side, heat and wear its artifact. Same-existing fixing as a parity going along entering as cost: a gate and a store or a cut, a record its artifact. The four roll two at a time as the four bi-foldings: prior with now, a reference with a rate, is a field's time, an origin and a clock, radiocarbon dating whole; next with same, a drive with a store, is a field's evolution, selection and heredity. One resolving at all four, the moment itself, is or is not.
+
 ### 2.4 Eight sides locate the society holding the accounting
 
 ## PART THREE · THE ENTRY FORM
@@ -176,6 +178,7 @@ Gathering-Value · Living Ghost Registry
 ### 7.2 Biology and medicine
 
 - **An explaining** · A virus taken as living is an emanation or a step fixing as a doer, a ghost for this registry, an explaining.
+- **An explaining** · Ghosts at a carbon chain, each dissolving to parities is or is not, an explaining: copying, a copy, an original and a reader, where a second chain forms with the first and each nucleotide's next prior is its other's prior inverting; a link, a separate piece joined, where a chain is one co-chaining with no pieces in it; a floor, a place and a standing under a changing to a next; a mark as a store, where a one-carbon coupling at a ring carbon is or is not; thermal noise, a changing to and fro the field does not book, where each pair, pucker and coupling jitters; a gate at one origin or one promoter, where forks and RNA forming open at many places at once; a strand held immortal as a field says it, where each next cell is its own self; and a repairer, where a gap is an opening and a passing co-chaining is with it.
 
 ### 7.3 Physics, mathematics, and societies
 
