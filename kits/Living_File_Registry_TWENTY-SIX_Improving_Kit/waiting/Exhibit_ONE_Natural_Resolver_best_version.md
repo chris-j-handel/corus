@@ -230,7 +230,7 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 | 12-next-co-same-existing, each sharing's one binary | 11-next-co-observing, taking each 12 that is ± | each sharing's 0, its prior going on, or ±, its next prior |
 | 8-now-same-existing, each self's next prior parities | 7-is-now-observing, a prior's parity against what surfaces | the same, its prior going on, or one inversion |
 
-**Four four-cyclings and their betweens.** Four-cycling is existing or discovering, possibling, observing and same-existing. Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is an even name to an odd name.
+**Four four-cyclings and their betweens.** Each four-cycling is its first name, possibling, observing and same-existing: its first name existing at now, 1 and 5, and discovering at next, 9 and 13. Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is an even name to an odd name.
 
 | Four-cycling | Existing, discovering | Possibling | Observing | Same-existing | Between |
 |---|---|---|---|---|---|

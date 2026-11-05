@@ -124,7 +124,7 @@ Living File Registry improving kit · Living Improving Plan · v395
 **Open:**
 
 - **Exhibit ONE's best version, its concerns, one at a time with the person** (waiting at `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/waiting/`, 5 November):
-  1. Four-cycling *existing or discovering*, its first two four-cyclings opening with existing, 1 and 5, and its last two with discovering, 9 and 13, beside the opening's "**Stable-forming** is observing, possibling, discovering and same-existing together."
+  1. *Resolved, read as the code goes:* existing names what is at now, 1-now-existing a self and 5-now-co-existing its bi-couplings, and discovering the act toward next, 9-next-co-discovering the self a sharing reaches and 13-is-next-discovering each self going on; the opening's stable-forming names the acts, so its sentence stands, and Exhibit ONE's label says each four-cycling's first name existing at now and discovering at next. Was: four-cycling *existing or discovering*, its first two four-cyclings opening with existing, 1 and 5, and its last two with discovering, 9 and 13, beside the opening's "**Stable-forming** is observing, possibling, discovering and same-existing together."
   2. The five dimensions' names, social-parity, other-parity, self-parity and self-discovery, at *Where each is-or-is-not stands* and the *Fives*, the opening's *other-parity* another concept.
   3. The drawing beside the code: in the code 6, 10 and 9 each go into the receiving self's 14-next-possibling, its next 2-now-possibling; the drawing has 6 to 2, 10 to 14 and 9 to 17.
   4. Code names each naming two things, `_4`, `_13`, `_14` and `_15`, one thing within 1-now-existing and another within 9-next-co-discovering and 17-next-existing.
