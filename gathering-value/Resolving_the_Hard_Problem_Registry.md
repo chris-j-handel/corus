@@ -275,6 +275,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 - **An explaining** · A me is of one prime scale, a description and an experience one thing at that scale.
 
 ### 5.2 Qualia and the zombie argument · 111
+- **Possible exploring** · A felt is with an other: a living parity aims at an other, never at the universe (the person), and a me between its own me-parity and an other's is self-other consciousness, as Natural Intelligence's opening says: "A me observing a you is **self-other consciousness**." With Me 3.2 *A me is consciousness* and Me 3.3 *A me with no other: it is not.*
 
 ### 5.3 Sleep · 91
 
@@ -329,6 +330,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 5.22 Evidence for neural representation · 219
 
 ### 5.23 Detecting covert consciousness · 220
+- **Possible exploring** · A method of discovering an other existing thing is-or-is-not a you, a living other self (the person): a me observing an other's me-parity finds a you, and a non-living thing has no living parity and is never a you. It is relational, for one me: not reached is not found, and is not *not living*: a covert consciousness not reached is not found, and is not shown to be not conscious. With Natural Intelligence's opening: "For a me, an other's me whose me-parity it is observing is a **you**."
 
 ### 5.24 The solar dynamo and the sunspot cycle · 254
 

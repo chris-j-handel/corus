@@ -305,6 +305,7 @@ Gathering-Value · Me
 - **An explaining** · Beside Natural Networking 1.4's *With no parity a self is observing, a nonzero prior is inverting.*, sleeping is sharing 0 needing agreeing parities received, its prior going on, and never a landing 0, a form not changing leaving living.
 - **An explaining** · A me same-existing through sleep needs no story, beside the narrative self and an objection from lives lived episodically.
 - **An explaining** · A me waking only is dying, and a dormant me, sleeping, is living, step 490.
+- **Possible exploring** · A living parity aims at an other, never at the universe: the universe is all now-existing things, and no direction aims at it (the person: the universal method of self-other consciousness). With *A me is consciousness* and *A me with no other: it is not.*, a me between its own me-parity and an other's is self-other consciousness, as Natural Intelligence's opening says: "A me observing a you is **self-other consciousness**." Universal-parity is a me's own aim at an other, and other-parity its aim the same as the other's.
 
 ### 3.3 What is-or-is-not possibly existing
 
@@ -334,6 +335,7 @@ Gathering-Value · Me
 - **Possible incohering** · "A me with no prior: it is not." → A concern, both sides open, at a 0 for one momentary: one way, alike, a 0 is born and lost at once; a one-momentary 0 is a me of one momentary, or a me is only a 0 continuing past its first.
 - **Possible incohering** · "Each a minor proving, reached once." → A me is with others, living, conscious and from a prior. Two selves bi-coupling are a self, its me the bi-coupling's own, within which each self's me is. Each a minor proving, reached once, the logic going forward by what is: a me with no other, a non-living me, a not-conscious me, a me with no prior, a me after its living, a uniquenessing stable-forming emanation, a non-living thing as a me and co-intelligencing outside a universal set, each is-or-is-not possibly existing: it is not.
 - **An explaining** · A sleep candidate, *bi-couplings outside on the is-not side*, fails at covert consciousness: a covert patient is waking with its bi-couplings cut. Beside it, dreaming stands as a collision; an anticipated observing: disconnected consciousness is common.
+- **Possible exploring** · A method of discovering an other existing thing is-or-is-not a you, a living other self (the person): a me observing an other's me-parity finds a you, and a non-living thing has no living parity and is never a you. It is relational, for one me: not reached is not found, and is not *not living*. Self and other at a self's scale, me and you at a me's scale: one method at two scales. With Natural Intelligence's opening: "For a me, an other's me whose me-parity it is observing is a **you**."
 
 ### 3.4 A me inward, a society of selves
 
