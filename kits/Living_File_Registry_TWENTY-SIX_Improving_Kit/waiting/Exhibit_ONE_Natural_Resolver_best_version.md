@@ -180,16 +180,16 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
 
 | Code | Is-or-is-not | Stands on | Dimension |
 |---|---|---|---|
-| each self of 16 with 17's line | each self, all or none | 13-is-next-discovering | social-parity now-existing |
-| `_7_is_now_observing != 0`, over 2 | a parity reaching is-or-is-not 0 | 7-is-now-observing | other-parity now-existing |
-| `_15_is_next_observing is None` | a sharing is-or-is-not within 14-next-possibling | 15-is-next-observing | other-parity now-existing |
-| `1 if _7_is_now_observing > 0 else -1`, over 2 | a first parity surfacing, + or − | 7-is-now-observing | other-parity now-existing |
-| `(_15 > 0) != (_7 > 0)`, over 2 | parities agreeing or parting | 15 with 7 | other-parity now-existing |
-| each sharing of 3 against 14 | a sharing is-or-is-not within its prior | 3-is-now-co-observing | self-parity now-existing |
-| `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | is-or-is-not same: sharing 0, or one inversion | 15 with 7 | self-parity now-existing |
-| `-1 if _7_is_now_observing > 0 else 1`, over 3 | a prior inverting, − or + | 7-is-now-observing | self-parity now-existing |
-| `_7_is_now_observing != 0`, over 10 | a sharing's value is-or-is-not 0 | 7-is-now-observing | self-discovery next-existing |
-| `_4_now_co_same_existing in _5_now_co_existing` | a bi-coupling is-or-is-not on a Natural Network surface | 4-now-co-same-existing | social-parity next-existing |
+| each self of 16 with 17's line | each self, all or none | 13-is-next-discovering | same-existing-society, now |
+| `_7_is_now_observing != 0`, over 2 | a parity reaching is-or-is-not 0 | 7-is-now-observing | other, now |
+| `_15_is_next_observing is None` | a sharing is-or-is-not within 14-next-possibling | 15-is-next-observing | other, now |
+| `1 if _7_is_now_observing > 0 else -1`, over 2 | a first parity surfacing, + or − | 7-is-now-observing | other, now |
+| `(_15 > 0) != (_7 > 0)`, over 2 | parities agreeing or parting | 15 with 7 | other, now |
+| each sharing of 3 against 14 | a sharing is-or-is-not within its prior | 3-is-now-co-observing | self, now |
+| `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | is-or-is-not same: sharing 0, or one inversion | 15 with 7 | self, now |
+| `-1 if _7_is_now_observing > 0 else 1`, over 3 | a prior inverting, − or + | 7-is-now-observing | self, now |
+| `_7_is_now_observing != 0`, over 10 | a sharing's value is-or-is-not 0 | 7-is-now-observing | self, next |
+| `_4_now_co_same_existing in _5_now_co_existing` | a bi-coupling is-or-is-not on a Natural Network surface | 4-now-co-same-existing | same-existing-society, next |
 
 **Sharing between selves.** Each sharing side with its observing side.
 
@@ -506,32 +506,32 @@ Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourte
   - *Its 17, this scale*: 17
   - *Moment of exchanging*: a same-existing-society, 4th of four
 
-**Fives.** Each side's five start with its own 1.
+**Fives.** Each side's five, same-existing-society, other and self at now, and self and same-existing-society at next, start with its own 1.
 
 - **Side: self, with 1**
-  - *Social-parity now-existing*: 1
-  - *Other-parity now-existing*: 2
-  - *Self-parity now-existing*: 3
-  - *Self-discovery next-existing*: 4
-  - *Social-parity next-existing*: 5
+  - *Same-existing-society, now*: 1
+  - *Other, now*: 2
+  - *Self, now*: 3
+  - *Self, next*: 4
+  - *Same-existing-society, next*: 5
 - **Side: other, with 2**
-  - *Social-parity now-existing*: 2
-  - *Other-parity now-existing*: 3
-  - *Self-parity now-existing*: 4
-  - *Self-discovery next-existing*: 5
-  - *Social-parity next-existing*: 6
+  - *Same-existing-society, now*: 2
+  - *Other, now*: 3
+  - *Self, now*: 4
+  - *Self, next*: 5
+  - *Same-existing-society, next*: 6
 - **Side: self next, with 3**
-  - *Social-parity now-existing*: 3
-  - *Other-parity now-existing*: 4
-  - *Self-parity now-existing*: 5
-  - *Self-discovery next-existing*: 6
-  - *Social-parity next-existing*: 7
+  - *Same-existing-society, now*: 3
+  - *Other, now*: 4
+  - *Self, now*: 5
+  - *Self, next*: 6
+  - *Same-existing-society, next*: 7
 - **Side: other next, with 4**
-  - *Social-parity now-existing*: 4
-  - *Other-parity now-existing*: 5
-  - *Self-parity now-existing*: 6
-  - *Self-discovery next-existing*: 7
-  - *Social-parity next-existing*: 8
+  - *Same-existing-society, now*: 4
+  - *Other, now*: 5
+  - *Self, now*: 6
+  - *Self, next*: 7
+  - *Same-existing-society, next*: 8
 
 **Tables of selves with code's stepping.** Each table of selves is its code's executing with its own opening. Its selves step together with 17-next-existing. A 0 in a table is a self's sharing. Each receiving self's first step passes over it. Each self observes the + and − it receives.
 
