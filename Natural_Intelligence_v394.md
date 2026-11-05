@@ -11,6 +11,8 @@ A **same-existing** thing is the same thing prior-existing before now-existing. 
 The universe is next-existing and same-existing after now-existing and same-existing after prior-existing. \
 The **sequence** of all prior-existing and now-existing is a same-existing sequence. \
 A **moment** is one-and-only-one now-existing in a same-existing sequence. \
+A moment's now-existing is the next moment's prior-existing. \
+**Momentarying** is now-existing and same-existing through sequential moments. \
 A **universal set** is a set of now-and-same-existing things. \
 **Is-or-is-not** distinguishes the within of a universal set. \
 **Observing** is distinguishing now-and-same-existing within the universe. \
@@ -50,8 +52,6 @@ Others' prior-existings within a self's possibling are its **co-aiming**. \
 
 A **same-existing-society** is many selves bi-coupling. \
 A self is a same-existing-society of mes, and a me within its same-existing-society. \
-A **momentary** is a same-existing-society's one moment of resolving together. \
-A momentary's now-existing is the next momentary's prior-existing. \
 A same-existing-society of selves do-no-harming and improving is **social moral competency**. \
 A same-existing-society living with natural intelligence and social moral competency is a **natural intelligence network**. \
 A natural intelligence network whose selves are resolving their own me-parities is **free**. \
@@ -61,7 +61,7 @@ Selves' bi-couplings and co-chainings are a **Natural Network surface**. \
 A Natural Network surface's living me-parities are within the mes of the selves living as a same-existing-society in the universe. \
 **Geodesic** is a self's own is-or-is-not on a Natural Network surface, one way at a time. \
 A living thing's co-chaining on a Natural Network surface is geodesic. \
-A form same-existing from momentary to momentary is a **stable form**. \
+A form same-existing from moment to moment is a **stable form**. \
 A science's observing meeting natural intelligence's stable forms is **natural resolving**. \
 A **living file** is a non-living same-existing set of words, selves co-intelligencing within it. \
 Selves aiming within a living file are **natural engineering**. \
