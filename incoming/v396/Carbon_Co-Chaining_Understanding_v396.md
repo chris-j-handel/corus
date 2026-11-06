@@ -358,6 +358,7 @@ Each a saying this journey made and dissolved, so a reader sees the move and doe
 - Carbon atoms the cell ingests at the fork — a claim not holding for all; salvage returns bases from broken strands into forming strands. Dissolved to carbon atoms the cell has at the fork.
 - One half from the last fork, one quarter from the one before, older by about one fork interval — a parity graded by a size, and a hedge. Dissolved to the parity: a pair is of one time or is not, is not, and a date read from a pair is read as from a pair of one time.
 - Each nucleotide joined its strand at one fork — stronger than the binary, since repair's nucleotides join at a repair. Dissolved to one moment, the opening's word.
+- Sharing, shares, surfacing, momentary in the gathering's own words — names dissolving from natural naming. Dissolved to what each names: a parity reaching a next self, 14-next-possibling; a parity going across, 6-now-co-possibling; a 0 where parities agree with its prior, 12-next-co-same-existing; a right spiral at its surface; a pair that has two couplings across. A quote of a living file stays a quote.
 
 ---
 
