@@ -6,6 +6,8 @@ Gathering-Value · Natural Health
 
 ## Head, the whole file
 
+- **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Health stands with possibling, now-existing, across: a self and an other, sharing between selves. Health is a living sway, bi-moral co-agency at a living self; with Natural Biology and Natural Medicine it is one living self observed, living and restoring. Along within this root its prior is Natural Engineering and its next Natural Societies. Of its 15 parts and sections at a first merging, 3 stand with Natural Intelligence's *A prior between momentaries* and 3 with *Social moral competency*.
+
 ## Opening
 
 ### 1.1 The core is the bi-moral co-agency, and health is that coupling living
@@ -72,3 +74,4 @@ Gathering-Value · Natural Health
 - A comparison holds together a molecule, an anticipated observing as one in a seed and in its oil, membrane geometry, substrate delivery and safety, the seed and the oil each its own. Naming a molecule or a ratio and equivalence of the whole delivery are two, and the comparison's biological and safety claims are each still-possibling: concepts and concerns to cohere at their subjects, with no dietary direction and no numerical target. *(possible exploring)*
 - Natural Health 3.4's disease-form, consistently ingesting stable form with a flaw, makes a food a cause, and Natural Medicine 1.3 and 5.1 set a food-cause down as a one-way actor a form holds nowhere; the two part, and whether 3.4 is re-said as an ingesting relation naming no cause or Medicine's setting-down changes stands still-possibling. *(possible incohering)*
 - Each sentence of Natural Health readable as guidance about a treatment, a medicine, a dose, a target, a test, a diet, a birth or an immunity is-or-is-not re-said as an observing or an explaining, with its hedge beside it, so none reads as guidance to a person. *(possible incohering)*
+- *Sharing* dissolves from natural naming (the person, 5 November): one concept has one name, and *sharing* named several, a self's giving across or along, its key, and its value. At this file's improving each *sharing* is said with what Natural Intelligence's opening names, a self observing an other's me-parities (a bi-coupling), gathering or co-aiming, or with Exhibit ONE's code names and their prefixes: 4-now-co-same-existing (4-bi-co-bi) for each key, 6-now-co-possibling (6-bi-co-bi) to an other and 10-next-co-possibling (10-bi-tri-bi) to the universe across, and 9-next-co-discovering (9-tri-bi-co) along. *Surfacing* may dissolve with it (the person). *(an explaining)*
