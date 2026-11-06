@@ -257,7 +257,7 @@ This section replaces one withdrawn. It had listed five measurements nobody has 
 
 ### 12.1 The durable observings
 
-Sorted by age and repetition rather than resolution. Vaults exist and are ubiquitous in eukaryotes, found four decades ago and never contested. Two halves meeting at a waist. Half-particles, purifiable alone. Flower-like opened preparations. An enormous enclosed space. Particles at ten thousand to ten million per cell. And one negative standing twenty-four years unchallenged: the protein deleted in a mouse, and nothing measured changing — across twelve agents, to sixteen months, with a knockdown in cells agreeing three years on.
+Sorted by age and repetition rather than resolution. Vaults exist and are ubiquitous in eukaryotes, found four decades ago and never contested. Two halves meeting at a waist. Half-particles, purifiable alone. Flower-like opened preparations. An enormous enclosed space. Particles at ten thousand to ten million per cell. And one negative standing twenty-four years unchallenged: the protein deleted in a mouse, and nothing measured parting from the unmodified — across twelve agents, to sixteen months, with a knockdown in cells agreeing three years on.
 
 ### 12.2 The either-or dead ends, and the opening move that makes each
 
@@ -269,7 +269,7 @@ Each is old, repeatedly met, and a fork a field cannot take both sides of. In ea
 
 *An enclosure that must open and cannot.* The shell is held to admit its own minor components after it is finished; the measured openings are far too small. Both sides give a gap a size. §3.7 already has it: inert was a field's word for a between, observing it as a gap. Two measurements of a gap contradict; a between does not.
 
-*Two counts of one particle.* Seventy-eight from one lineage of method, ninety-six from another, the field moving to the first without reconciling. A counting is a clock, a form fixing still from beside its momentarying; the fork stands between two still accountings of one going-on.
+*Two counts of one particle.* Seventy-eight from one lineage of method, ninety-six from another, the field moving to the first without reconciling. In Natural Numbers' own words, *a counting is a clock, a form fixing still from beside its momentarying*; the fork stands between two still accountings of one going-on.
 
 ### 12.3 The parity questions, of no size
 
@@ -277,7 +277,7 @@ These are the openings, and none of them is a measurement.
 
 *Does a self retain its prior across its own going-on.* Half kept from before, half newly taken in, the self continuing. Semiconservative replication is where this is observed and its mechanism known: at every division one strand is prior-existing and one next-existing, all or none, with no exception anywhere. The particle here is reported to exchange halves, one kept and one new, and no half has ever been followed. The relation is reached in the one and unreached in the other, and the reached one shows what reaching would be.
 
-*Is a closing one that goes on cycling.* §3.7 carries the binary already: a seam locking shut is lethal; a closing that goes on cycling is living. A contact opening and closing again meets it, and an induced fracture mending is the interfering form of it.
+*Is a closing one that goes on cycling.* §3.7 carries the binary already: a seam locking shut is lethal; a closing that goes on cycling is living. A contact opening and closing again meets it, and an induced fracture mending is that same closing met by way of an instrument interfering.
 
 *Is the surface the selves' betweens.* §1.4 and Co-Chaining Logic 168 hold it; the field's wall is its own word, and the two accounts stand side by side without either being the other's.
 
