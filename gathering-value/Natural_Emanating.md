@@ -114,6 +114,8 @@ Gathering-Value · Natural Emanating
 
 ### An instrument keeps, and the thing it cannot
 
+- **An explaining** · A field's accounting at a carbon chain, an explaining: the half-life a rate booked still between two states, before and after; the isotope a label; the "stable" and "unstable" nucleus a state and a flow; the inherited mark a store; the enzyme a doer; the universe one object with causes acting on it from outside. Each explains from all sides and discovers nothing: competency is with a between, and an accounting has no between, two sides and a balance, a ledger balancing at each side finding none of the one thing on neither side. A six-membered ring's two drawings are the tell: a ledger posts from a state to a state, a ring changing to its opposite and back has neither, and the ledger draws two states and books the going on between them, one electron distribution a field measures.
+
 ### Where the incompetencing is
 
 ### Natural intelligence
