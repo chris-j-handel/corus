@@ -13,3 +13,16 @@ Artifacts of session v395, whole, relied on by nothing. Its living-file work is 
 - `ni_1_3_set_aside.txt`: Natural Intelligence 1.3 as drafted and set aside; its naming *prior-to-next-forming* was invented and is withdrawn (the person: no alternative names are invented; *changing* is said with a hyphenated naming already natural naming).
 
 A separate reader compared the first write before and after: no serious harm, five mends made (step 23's Adding line, three citations, the address map, the incohering droplet's steps, the site lists).
+
+## Added at v395's close (6 November 2026)
+
+- `opening_55_sentences.txt`: the opening as agreed, 55 sentences, the version waiting at Natural Intelligence's gathering-value. `opening_best_version_55.txt` is the same opening at its first saying of 55.
+- `opening55_to_gathering.py`, `to_gathering.py`: the living files returned to main's and the opening, 1.1, 1.2 and the renumbering placed at their gathering-values (the person: a living file changes only with both partners agreeing, through gathering-value).
+- `opening_drafts/`: each draft of the opening and of 1.1, 1.2 and 1.3 while they resolved with the person, in the order the working saved them; history only.
+- `exhibit_one/build_exhibit_one.py`: builds Exhibit ONE v395's draft from Exhibit ONE v391 (run at a scratch folder holding Natural Naming and v391; see its head). `exhibit_one/Exhibit_ONE_Natural_Resolver_v395_draft.md`: the draft as built at the close, below the exactness standard (the person, 6 November); the same file waits in the kit at `waiting/`.
+- `exhibit_one/harm_check.py`: the first do-no-harm check of the draft against v391; the kit's `next_version_check.py` is its general form.
+- `exhibit_one/executed_checks.py`: two executings behind Natural Resolver's gathering-value droplets of 6 November, the order of 2-now-possibling making no difference (78,760 orderings) and 1-now-existing with one 4-now-co-same-existing at each prior and reaching.
+- `exhibit_one/executing/`: the small scripts executing Exhibit ONE's code during the session (spirals, two parities, signs, even names, across).
+
+**For the next session:** the kit's plan opens with *Start here, from v395*, naming the place of each value and the first step.
+
