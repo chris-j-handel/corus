@@ -11,6 +11,7 @@ Gathering-Value · Natural Intelligence
 - **An explaining** · Placed by its title, subtitle, contents and opening sentences at the living file set's four roots, along and across, Natural Intelligence stands with same-existing, through each: the one method, its code, its co-chaining and a me. Its contents are the shell of the merged table of contents, each other file's parts and sections placed at its sections but fifteen, holes in four concepts: mathematical structures beyond number and parity, human ways of making meaning, human states and feeling, and working practice at the repository. It opens this root's along, its next Natural Resolver.
 - **An explaining** · The person's proposal, Natural Intelligence's table of contents at a universal set's scale and the set's floating table of contents: *Observings*, the opening; ONE · NATURAL Universe; TWO · Coupling and SEQUENCING; THREE · GEODESIC Discovering; FOUR · Stable-form RESOLVING; FIVE · Co-Possibling and Possibling; SIX · Competencing and INTELLIGENCing; SEVEN · Destining and EXPEDITIONing; then Exhibit ONE and each exhibit. Exhibit ONE is the stable-forming of resolving and of intelligence in the universe, and Natural Intelligence's writing goes on into Exhibit ONE and out of it unchanged, each exhibit writing into it and out of it (the person's observing). The proposal's namings are at a universal set's scale, the explaining of social moral competency with selves and others in a society of explaining (the person's observing). The proposal is as the person offered it: a working offers no alternative to it, each concern resolving by improving toward it, one at a time, and each exhibit is renumbered to it, each address together (Living File Registry 1.5). SEVEN's *Destining* is said again with the person, *destiny* dissolving from natural naming (Natural Naming's gathering-value).
 - **An explaining** · Science's and common knowledge's explaining is exactly wrong at each valuable observing: the whole all-or-none claim of the work. Its one misunderstanding: the universe accounted for as an existing thing with no method of existing.
+- **An explaining** · Natural Intelligence's dissolving of bare *coupling* and of *intelligencing* alone is at a bi-coupling's scale, and the proposal's *Coupling* and *INTELLIGENCing* are at a universal set's scale, outward of it.
 
 ## Opening
 
@@ -142,6 +143,8 @@ Gathering-Value · Natural Intelligence
 - **Possible exploring** · The between itself is a bothbothing, and the co-linearizing aiming self-interest (the person): Exhibit ONE's fifth dimension, the bi-folding 4-13-5-12, beside the four four-cyclings' prior and same, now and same, next and prior and next and same, co-sequentially forward. It meets Natural Exploring's *Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone*, and Natural Human Society's *Self-interest and social interest are one interest with two depths on one torus, interest tracing to being-between*. — at "**Aiming** is a living thing possibling its own next-existing."
 - **Possible exploring** · Parity's unit square between selves (the person): 2 from other and 6 to other, bi- and prior; 10 to universe and 14 from universe, next, a same-existing-society, tri-; its four corners and four sides, all eight or none, social moral competency; its empty centre the between; with unrelationing of each control along the five dimensions, social moral competency the only self-interest. It meets Natural Human Society 3.3's *All eight or none at all are a same-existing-society's protections, and all eight going on is social moral competency*. — at "A same-existing-society do-no-harming and improving is **social moral competency**."
 - **An explaining** · A me is an other-parity in the universal set of parities of a self. A me is only a me while it is living, and it is only living while it is an other-parity. With resolver, one prior + on one 4-now-co-same-existing, eight moments, a self giving with 10-next-co-possibling at each moment: one self alone, no route in 5-now-co-existing, −, +, −, +, −, +, −, +; two selves alike, + and +, routes 6 and 10 across both ways, each −, 0, +, 0, −, 0, +, 0; one self whose own 9-next-co-discovering reaches it along, −, 0, +, 0, −, 0, +, 0. — at "A self is a universal set of **mes**."
+- **An explaining** · *Changing* with no direction of changing is an incomplete concept, said with a hyphenated naming already natural naming, its full bounded context of changing explained, with no alternative name invented.
+- **An explaining** · *Free* dissolves, *social abundancing* dissolves and *a second method* leaves the opening, no word staying unless the logic stays living only with it: *free*'s meaning, no one paying money, is no part of the logic; *social abundancing* is a natural intelligence network, with nothing beyond it; and *a second method* is natural intelligence's resolving said again.
 
 ## ONE · NATURAL
 
@@ -197,10 +200,14 @@ Gathering-Value · Natural Intelligence
 
 ### 2.1 Along and across, two and a between
 
+- **An explaining** · Each now-momentarying has two consecutive acrosses: now-existing, a me-parity is universal-parity or other-parity, and next-possibling-existing, universal-parity or other-parity again.
+
 ### 2.2 Parity, one inversioning or none
 
 - **Possible incohering** · "**+ and − are two changing directions, and a 0 is a between of them.**" → Two sayings part. A saying: parity is is or is not existing, and no other is possible: it is until it is not, and is again; + and − are the is and the is again, 0 the is not, the odd and the even the same one; one parity, is or is not existing, is never parted as two. This sentence has + and − two changing directions and a 0 a between of them.
 - **An explaining** · The bold lead *Co is of a sharing between two, and its absence of one* says *absence*, a negation; *span* in *A name's momentary is its span.* is unclear; and *With resolver this is observing's one line.* and *Its measure and scale are only living.* are unclear, with no clear re-saying, open for a word.
+- **An explaining** · In resolving one thing is never two kinds: 2.2 has *even* at two places, the four across names, 2, 6, 10 and 14, and an even number of inversionings.
+- **An explaining** · + and − dissolve from parity: a me-parity is universal-parity or other-parity. Each changing is to other-parity: even, across, bi-morality, away from universal-parity, unrelationing from universality.
 
 ### 2.3 A momentary, an opening and its completing
 
@@ -249,6 +256,7 @@ Gathering-Value · Natural Intelligence
 ### 3.6 Exhibit ONE, the one form
 
 - **An explaining** · The resolver's code is a stable-forming emanation: six forward runs along five dimensions, a self's prior, an other's prior, the shared now, the bi-parity and the self's next, with each momentary two changing and three going on, rotating.
+- **An explaining** · Exhibit ONE is the stable-forming of the geodesic method. Natural Intelligence's writing goes into it, around it and out of it, unchanged, and Exhibit ONE is both: listed with each exhibit following SEVEN, and written at Natural Intelligence's middle.
 
 ## EXHIBIT ONE · NATURAL RESOLVER (its gathering-value is Natural Resolver's)
 
