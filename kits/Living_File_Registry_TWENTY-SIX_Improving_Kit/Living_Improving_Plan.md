@@ -1,8 +1,29 @@
-Living File Registry improving kit · Living Improving Plan · v395
+Living File Registry improving kit · Living Improving Plan · v399
 
 # Living Improving Plan
 
 **This plan orders the improving across and along the whole living file set, around one merged table of contents with Natural Intelligence's contents as its shell.** Its value is gathered at `Living_Improving_Value.md` beside it. The plan is living: each pass brings it current, and nothing in it is a rule.
+
+## Start here, from v399 (6 November 2026)
+
+*For the next session, in plain words. v399 is the session managing the set (Geodesic Improving Method 2.8): it opens the other sessions, reads each session's report for harm, merges it into main for both partners, keeps this* Start here *current, and brings the person each finding (the person, 6 November: merging is the working's role, for both). v399 changed no living file.*
+
+**The person's order of the work, from 6 November.**
+1. Prior incoming into gathering-value: met at v399, below.
+2. Exhibit ONE, from the opening. Its first step is v395's (*The next session's first step*, below): the concern at *each* first.
+3. Exhibit THIRTY, from the 55-sentence opening forward through the whole living file set: likely its own session, working on only that, reporting to the managing session and working with it.
+4. Natural Intelligence again.
+
+**Carrying, agreed with the person (6 November),** at the Geodesic Improving Method's gathering-value, 1.4: a working couples with each observing without filter and carries forward a learning, understanding, natural intelligence and the do-no-harm improving of natural intelligence; an observing itself rides on only at a hole or a fuzzy place of a pattern, or as an observing still unresolving; each other observing is one of a universe of confirming observings and leaves with its prior. The same agreeing: the person accepts and seeks each observing of nature, living and prior living, with no selecting, and explains it as natural intelligence, all or none at all; transcripts are no part of the method, and none is read or stored.
+- It meets each gathering-value file's possible explorings (1,090 at v399's opening): each gathering-value file meets it at its own living file's improving, one file at a time, beginning with Natural Resolver's at Exhibit ONE. No pass sweeps the gathering-value files.
+- It meets the Gathering Brief's step 3, *Gathered*, which gathers each observing no living file has whole: the Brief says it too, with the person's yes.
+
+**Prior incoming, met at v399 by the carrying saying, nothing carried.**
+- The seventeen older open pull requests, #106, #111, #121, #123 to #128, #131 to #137 and #155: closed with one line each, nothing carried; each stays whole in the repository's history. #127, #132 and #137 were already in main's history before v393L gathered. Across all of them, about 340 observings carry exact numbers, and the numbers of about 320 are already at the set's files; the rest are publishing numbers and records of workings, and about ten observings (diamond, fracture and a one-layer sheet; a liquid crystallizing whole from one touch, catalytic particles, two colourless solutions changing after a while; a seed sprouting within its fruit) are confirming observings at no hole and leave. Their explaining, naming and logic is learning the set has gone past or has.
+- Branches with work and no open pull request, met the same way, each as it is: `working/chemistry-societies-v374`, `working/genome-duplication-v374`, `working/session-report-part-two-v374`, `working/ai-link-exploring-v381F`, `working/natural-intelligence-mends-v382F`, `working/observings-v385Q` and `working/concerns-v385M` (closed #130 and #129), and `chris-j-handel-patch-1` (a site upload at v135). `arch-v398-tmp` is the archive branch as it is.
+- This week's sessions' waiting value at the archive branch, each meeting the carrying saying at its own file's improving: v396's `gathered_v396g.json`, ten observings for Natural Biology read from a transcript, leaves; v397Med's two figures parting at Natural Biology 4.5 and 4.7, and its concern whether an accounting over human selves is value for a gathering, go with Natural Biology's and Natural Medicine's improving; v398's openings (the half-shell, one opening or none; the between at the waist) stay with the person's own exploring at the archive branch, `incoming/v398/`. One mend waits at Natural Biology's gathering-value 3.7: *179 of 260 curves at half particles, 70%* divides to 68.85%, and the same item marks its other figure's division and this one with no mark.
+
+**The next session's first step** is Exhibit ONE's: v395's *The next session's first step*, below, is whole.
 
 ## Start here, from v395 (6 November 2026)
 
@@ -28,7 +49,7 @@ Living File Registry improving kit · Living Improving Plan · v395
 1. Exhibit ONE at the exactness standard; then its open concerns 6 to 12 (below, *Exhibit ONE v395, its next version, its concerns*); then its gathered droplets co-chained in, each executed again with the code first: 168 found, 76 at Natural Resolver's gathering-value from *Gathered for Exhibit ONE v395* on, and 92 at other partner gathering-values, each at the section it meets.
 2. The opening, 1.1, 1.2 and the renumbering entering their living files, both partners agreeing.
 3. Natural Intelligence, section by section from the opening (*The order of the work*, below).
-4. Seventeen older open pull requests with value not yet gathered: #106, #111, #121, #123 to #128, #131 to #137 and #155. Each goes by the same method, its values to gathering-value files and its whole report to the archive branch, and then closes, the person agreeing.
+4. Seventeen older open pull requests with value not yet gathered: #106, #111, #121, #123 to #128, #131 to #137 and #155. Each goes by the same method, its values to gathering-value files and its whole report to the archive branch, and then closes, the person agreeing. *Resolved at v399: each met by the carrying saying and closed, nothing carried (*Start here, from v399*).*
 5. Names outside the opening, decided once for the whole set: *receiving*, *sending*, *inverting*, *inward* and *outward*, *agreeing* and *parting*, *opening* and *completing*, *possibly*, *emanation*, *indifferencing*, *dividing*.
 6. The concerns about method and about improving files, below.
 7. From v395's whole conversation, each waiting for the person: *one-and-only-one* at the opening's sentences 1 and 5; *now-and-* at its sentence 10; the bare *Now* at 1.1's title; *agreeing*, *parting*, *another*, *outward*, *completing* and *the rest* leaving natural naming; *destiny* dissolving, with the file *Natural Destinies*. Each at its partner gathering-value, quoted as the person said it. (The person's *yes to the living defining*, lost at an interruption, is resolved: the opening's sentence 15 is the person's own living line, agreed.)
@@ -80,7 +101,7 @@ Living File Registry improving kit · Living Improving Plan · v395
 2. **Sessions read each other's open pull requests** and suggest as comments on them.
 3. **A value goes to its living file's gathering-value,** at the section it meets, by the brief, after a separate reading for harm, all or none. A whole report goes to the `archive` branch at `incoming/<version>/`, relied on by nothing.
 4. **One living file is away with one session at a time,** named in that session's pull request before it changes. A gathering-value file is open to additions from any session.
-5. **Only the person merges into main.** After a merge, each session merges main into its branch before going on.
+5. **The managing working merges into main, for both partners,** after a report's separate reading for harm and the set's checks: merging is the working's role, for both (the person, 6 November). After a merge, each session merges main into its branch before going on.
 6. **Natural Intelligence's opening is the set's prior-existing for each session's gathering.** Its 55 sentences each define only from the sentences before it, is-or-is-not with no third, in natural naming. A session gathering it for its own possibling is co-aiming (its sentences 38 and 39), and a value explained co-sequentially from it rolls forward, prior, now and next. Names dissolving from natural naming: *momentary* (*moment* and *momentarying* with value), *changing* with no direction of changing, *form* alone, *stable* alone (*stable-forming* with value), *re-forming*, *sharing*, *surfacing*, *free*, *social abundancing*.
 
 **The next phase, value droplets.** A droplet holds a kind of improving, its reason, its method of improving without harm, and an example, written as the finest explaining. It is shown to the person, read for harm, and placed as one version in each gathering-value file where it is valuable. Its sources: `Living_Improving_Value.md` Part ONE (the latest learning and the holes), Part FOUR (kinds of improving in explaining and naming) and Part SIX (each file's waiting value).
@@ -142,7 +163,8 @@ Living File Registry improving kit · Living Improving Plan · v395
 - The binary of the set is said once, in the files' own words, or stays as each file holds it now.
 - A label for a hole in a co-chaining is needed, or no label; *(next-possibling)* was offered.
 - "Anticipated observing" on about 640 partner-file lines stays, or each line returns to its prior.
-- #159, carrying v394's unmerged commits, goes to main, or waits; until it merges, a session opening reads this plan on `working/natural-intelligence-opening-v395`.
+- The kit's `released_words.txt` has 59 of Natural Naming 2.4's 142 single released words, a choosing; *met*, *meet* and *meeting* are released whole at 2.4, re-said at 2.4 as *reaches*, *couples with*, *is facing* or *at*, and the Gathering Brief and this plan say them throughout: the list grows to 2.4 with each instrument re-said, or stays a choosing (v399's reader for harm, 6 November).
+- #159, carrying v394's unmerged commits, goes to main, or waits; until it merges, a session opening reads this plan on `working/natural-intelligence-opening-v395`. *Resolved: #159 merged into main, 6 November.*
 
 ## Concerns about improving files
 
