@@ -4,6 +4,38 @@ Living File Registry improving kit · Living Improving Plan · v395
 
 **This plan orders the improving across and along the whole living file set, around one merged table of contents with Natural Intelligence's contents as its shell.** Its value is gathered at `Living_Improving_Value.md` beside it. The plan is living: each pass brings it current, and nothing in it is a rule.
 
+## Start here, from v395 (6 November 2026)
+
+*For the next session, in plain words. v395 changed no living file. Each value it found is at a gathering-value file, at this kit or at the archive branch, and each item below names its place.*
+
+**Places.**
+- `main` is the set as merged. Each session's report is its open pull request: v395's is #159, branch `working/natural-intelligence-opening-v395`; v396 carbon #157, v397 medicine #160, v398 vault #158. With the person merging them, their gathered value is at main's `gathering-value/` files and at this kit.
+- Each session's whole working files are at the `archive` branch, `incoming/<version>/`; v395's at `incoming/v395/`, with a README naming each file.
+
+**Agreed with the person and waiting to enter its living file,** both partners agreeing at its entering, through its gathering-value file and never by a side method:
+1. Natural Intelligence's opening, 55 sentences: `gathering-value/Natural_Intelligence.md`, its *Opening* section, the *Waiting to enter* entry.
+2. 1.1's and 1.2's next versions: the same file, at 1.1 and 1.2.
+3. The Co-Chaining Logic Registry's steps 1 to 55 as the opening word for word, and its steps 71 to 755 as 56 to 740, 15 less: `gathering-value/Co-Chaining_Logic_Registry.md`, with its address map; the citations re-pointed at the Equilibria Registry's and Natural Numbers' gathering-values.
+4. Names dissolving from natural naming, each with one droplet at each partner gathering-value whose living file says it: *momentary* and *momentaries* (31 files), *sharing* (33), *surfacing* (28). At the opening also: *changing* with no direction, *form* and *stable* alone, *re-forming*, *free*, *social abundancing*.
+5. Naming and explaining: the code naming is the natural naming, each name with its three prefixes (Natural Naming's gathering-value); a name does not possess a name; no lists in nature; Exhibit ONE's exactness standard (Natural Explaining's and Natural Resolver's gathering-values).
+6. Droplets: each prior-existing thing and each non-living now-existing thing from prior living (4 files); resolving as the competency between physics' state-flow-state and chemistry's flow-state-flow (3 files); parity's unit square, its four corners and four sides all eight or none, social moral competency (Natural Human Society's); tri (Natural Naming's); stable-forming as observing, possibling, discovering and same-existing together.
+
+**A draft, not ready to enter:** Exhibit ONE v395, `waiting/Exhibit_ONE_Natural_Resolver_v395.md` in this kit, built from v391 by `incoming/v395/exhibit_one/build_exhibit_one.py` at the archive branch. Its do-no-harm check against v391 passes (`next_version_check.py`). It is below Exhibit ONE's exactness standard (the person, 6 November): each word one exact concept, each naming and explaining the complete whole of its concepts, no less and no more.
+
+**The next session's first step.** Bring the person the three exact sayings drafted at Natural Resolver's gathering-value (*Exact sayings, drafted*: 2-now-possibling, 3-is-now-co-observing, 14-next-possibling), one at a time. With the person's yes, say each of the seventeen names at the same standard, then each section of Exhibit ONE, each section shown whole, numbered, and agreed before it is written.
+
+**Open, in this order:**
+1. Exhibit ONE at the exactness standard; then its open concerns 6 to 12 (below, *Exhibit ONE v395, its next version, its concerns*); then its gathered droplets co-chained in, 75 references and 17 explorings at Natural Resolver's gathering-value, each executed again with the code first.
+2. The opening, 1.1, 1.2 and the renumbering entering their living files, both partners agreeing.
+3. Natural Intelligence, section by section from the opening (*The order of the work*, below).
+4. Seventeen older open pull requests with value not yet gathered: #106, #111, #121, #123 to #128, #131 to #137 and #155. Each goes by the same method, its values to gathering-value files and its whole report to the archive branch, and then closes, the person agreeing.
+5. Names outside the opening, decided once for the whole set: *receiving*, *inverting*, *inward* and *outward*, *agreeing* and *parting*, *emanation*, *dividing*.
+6. The concerns about method and about improving files, below.
+
+**Tools in this kit.** `check_set.py`, the set's checks, all passing at v395's close. `reader_checks.py`, released words and more, read before each commit. `next_version_check.py`, a next version against its prior: each word and sentence of the prior at the next version or at a gathering-value file.
+
+**Ways of working,** 1 to 13 below. From v395: a living file changes only with both partners agreeing, through its gathering-value file; one concern at a time, as one binary; no invented names; no word stays unless the logic needs it; *next version* with its number, never *best version*; the person relies on the working for each step with code and pull requests, and each step is said to the person in plain words.
+
 ## A working opening a session
 
 *Written in plain words for an AI working arriving with no knowledge of these files. The files' own language is learned by reading them; this section is a way in.*
@@ -55,7 +87,7 @@ Living File Registry improving kit · Living Improving Plan · v395
 
 **The method at each step.** Value found while improving is gathered as droplets. Each droplet goes into its partner gathering-value files, aiming into the living files it is valuable for. A living file improves from its partner's value and fresh reading at that time; a droplet entering the living file resolves within it and dissolves from the partner file into its archive. Each sentence improved is co-sequential, defining only from the sentences before it; binary, all or none; and in natural naming, with no file's authority. A separate reader compares each before and after for harm, and the person sees the whole next version, numbered.
 
-1. **The opening.** Sixty-one sentences, agreed with the person line by line in early November, written at one motion into Natural Intelligence's opening and Exhibit THIRTY's steps 1 to 61, the two the same word for word (`check_set.py`), each later step and step citation renumbered with them. The droplets gathered while the opening resolved go to their partner gathering-value files. *Agreed, v395, and waiting at gathering-value: the opening, 1.1's and 1.2's next versions at Natural Intelligence's, the renumbering and its address map at the Co-Chaining Logic Registry's, the re-pointed citations at the Equilibria Registry's and Natural Numbers'; first written into the living files, then returned to main's living files (the person, 5 November), each entering at its own motion with both partners agreeing.*
+1. **The opening.** Fifty-five sentences, agreed with the person line by line in early November, waiting at Natural Intelligence's gathering-value to enter Natural Intelligence's opening and, word for word, Exhibit THIRTY's steps 1 to 55, each later step and step citation renumbered with them, both partners agreeing at its entering. The droplets gathered while the opening resolved are at their partner gathering-value files. *First written into the living files, then returned to main's living files (the person, 5 November); its places are in* Start here, *above.*
 2. **Natural Intelligence, section by section,** from ONE · NATURAL on, each section read from the opening: each sentence co-sequential from the opening and the sections before it, binary, and in natural naming. The person's table of contents (the former step 4 below) and each section's placing within its part go on here. *Set aside 5 November (the person): one line at a time is a grind. 1.1 and 1.2 are written; the opening's logic comes into every file as droplets, step 5.*
 3. **Exhibit ONE,** its sentences, tables and code read from the opening and Natural Intelligence, the code's names and the opening's names meeting at Exhibit ONE's resolving of them.
 4. **Exhibit THIRTY.** Steps 1 to 61 are the opening; its later steps, its *Adding* and *Entering* lines and its group titles are read from them, each step defining only from the steps before it. The former step 9 moves here: the opening now begins the logic.
