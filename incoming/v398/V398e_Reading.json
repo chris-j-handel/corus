@@ -1,0 +1,24 @@
+{
+  "corrections": [
+    {
+      "from": "Each chain of a vault shell runs from the waist to the cap, its residue number",
+      "finding": "The new part is not a value of its own: residue numbering running amino end to carboxyl end is a naming of a chain and no observing of a vault, a name possessing a name, and its content already stands across three items — repeats end to end within each chain with two half-shells meeting at a waist, the waist lined by residues of each half's first repeat at 6 to 42, and the cap at residues 804 onward and 829 to 834 — while the item's two supplyings (\"so the surface between … stands\", \"so each chain's two ends are the places least resolved\") are conclusions said as observings, \"every chain\" is a released word said by *each*, and the bare roll of positions 4 to 42 counts the same positions twice beside the account that gives their identity and role, an inventory where the field's own positions with their contacts are the field's account. So it folds as a correction into the waist item, which already holds the salt bridge, the cluster, the triad and the first-repeat contact (the restatement also dropping that item's isoleucine 38 against isoleucine 36 parting): positions 4 and 5, the chain of about 890 residues and residues 1 to 11 unobserved go in there, the cap-end numbers go to 3.8 beside the cap residue numbers, and three figures part from what stands — 2.1 Å to 3.5 Å against vault accounts at 2.25 Å and 2.3 Å up to 3.6 Å with 3.09, 3.1, 3.2 and 3.5 between, so cut; residues beyond 801 to 893 unmodelled against a human account modelling 829 to 834 at the cap and a rabbit shell modelled from 804, so said as one account's; about 890 residues beside 866 residues per chain at the prokaryotic homolog, with the two waist interfaces standing apart at no shared lining residue, so which chain carries positions 4 to 42 stands unresolved, and no vault account names mouse while rat, rabbit and human each stand.",
+      "fixed": [
+        {
+          "section": "3.7 Structural-protein surface — a matrix as a living set: a self",
+          "kind": "exploring",
+          "text": "The waist between two vault halves is lined by residues of each half's first repeat, within a chain of about 890 residues: residues at positions 4 and 5, a salt bridge between an aspartate at 39 and an arginine at 42, a hydrophobic cluster of alanine 6, isoleucine 7 and isoleucine 36, and at one account a polar triad of asparagine 22, glutamine 38 and asparagine 40; that account names isoleucine 38 at one passage and isoleucine 36 at another. Residues 1 to 11 are unobserved at one human account. At a second conformation the salt bridge and the hydrophobic contacts are absent, two of the triad's contacts are absent, and gaps and longitudinal pores stand. Melting temperature is 60 °C unmodified, 59 °C with the aspartate at 39 to alanine, 56 °C with the isoleucine at 7 to lysine, and 47 °C with four waist substitutions together; the whole-particle fraction by atomic force microscopy is 75% unmodified and 6% with the four, which also give approximately 65% half-particle filaments by negative stain. Closed whole-particle waist radius is 319 Å; half-particle waist radius is 329 to 346 Å, oval. No eukaryotic vault account reports a buried waist interface area; approximately 225 Å² at a prokaryotic homolog and approximately 420 Å² at a human comparison stand at one account's own calculation of both, with no residue lining one also lining the other. Substitutions at wall, shoulder and cap contacts each accompany preparations with no closed particle.",
+          "sentence": "A seam locking shut is lethal, which holds it from living side — a closing that goes on cycling is living, and range with closing is what living requires.",
+          "from": "Each chain of a vault shell runs from the waist to the cap, its residue number"
+        },
+        {
+          "section": "3.8 Six physical bi-foldings — where a self is observing a differential out of plane",
+          "kind": "exploring",
+          "text": "The ninth repeat, with the shoulder and the cap helix, stands at a vault chain's cap end, the cap helix 42 turns long at one account and approximately 230 Å at another. Residues beyond 801 to 893 are unmodelled at the cap at one account. No account observes a residue arriving at either end of a chain.",
+          "sentence": "**A polypeptide chain.** Sequence to shape, and two local moves with the smallest grain — co-winding along chain, and co-winding laterally to a strand alongside.",
+          "from": "Each chain of a vault shell runs from the waist to the cap, its residue number"
+        }
+      ]
+    }
+  ]
+}
