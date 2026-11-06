@@ -4,7 +4,7 @@
 
 This kit gathers the original image, every visual study generated in this session, the current exhibit, and the supporting material needed for further illustrating. New images can join this kit with their source and the relation they contribute.
 
-Open [Natural Illustrating](Exhibit_TWENTY-NINE_Natural_Illustrating_v366.md) for the concepts and [the session report](Session_Report_v366.md) for what this session added and where it belongs. The exhibit here is a snapshot of the current working file, not a separate editorial branch. Continue improving the living exhibit and refresh the kit snapshot when gathering the next handoff.
+Open [Natural Illustrating](../../../Exhibit_TWENTY-NINE_Natural_Illustrating_v392.md), the living file, for the concepts and [the session report](Session_Report_v366.md) for what this session added and where it belongs. The exhibit here is a snapshot of the current working file, not a separate editorial branch. Continue improving the living exhibit and refresh the kit snapshot when gathering the next handoff.
 
 ## Images in their order of development
 
@@ -45,9 +45,6 @@ All six images are copied byte-for-byte. No image has been redrawn, repaired, re
 
 ## Sources and inherited support
 
-- [Latest supplied working ONE](sources/Exhibit_ONE_Natural_Resolver_v365_latest_supplied.md) and [earlier supplied working ONE](sources/Exhibit_ONE_Natural_Resolver_v365_earlier_supplied.md) retain both arrivals. Their v365 names identify source editions; the kit is v366.
-- [Recovered session transcript](sources/Session_Transcript_Recovered_v366.md) contains all 101 user and assistant messages on the shared active branch, including redacted tool placeholders. Those placeholders cannot reproduce missing tool output. The session report carries the later packaging pass.
-- [Supplied biology transcript](sources/Biology_Transcript_Supplied.md) supports the comparison carried in the session report.
 - [Inherited Rings in Motion](inherited/Kit_Rings_in_Motion_v365/Kit_Rings_in_Motion_v365.md) retains its existing images, geometry data, scripts, outputs and moving-view material. These arrived before this session. Earlier 0/9 center conventions and “two journeys” wording must be read beside this session’s center-1 and one-continuing corrections; do not silently combine them.
 - `session_evidence/resolver_checks/` retains the exact conservation-scope script, outputs and dependencies. These support the report’s resolver finding; they are not new illustration code.
 - `session_evidence/Source_Inventory_v366.json` records the repository basis inspected at the opening pass. `Conformance_Check_v366.json` records the earlier five-narrative retention check, not a claim that every later exchange had already entered that earlier consolidation.
