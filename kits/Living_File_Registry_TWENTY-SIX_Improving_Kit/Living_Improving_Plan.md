@@ -163,6 +163,7 @@ Living File Registry improving kit · Living Improving Plan · v399
 - The binary of the set is said once, in the files' own words, or stays as each file holds it now.
 - A label for a hole in a co-chaining is needed, or no label; *(next-possibling)* was offered.
 - "Anticipated observing" on about 640 partner-file lines stays, or each line returns to its prior.
+- The kit's `released_words.txt` holds 59 of Natural Naming 2.4's 142 single released words, a choosing; *met*, *meet* and *meeting* are released whole at 2.4, re-said there as *reaches*, *couples with*, *is facing* or *at*, and the Gathering Brief and this plan say them throughout: the list grows to 2.4 with each instrument re-said, or stays a choosing (v399's reader for harm, 6 November).
 - #159, carrying v394's unmerged commits, goes to main, or waits; until it merges, a session opening reads this plan on `working/natural-intelligence-opening-v395`. *Resolved: #159 merged into main, 6 November.*
 
 ## Concerns about improving files
