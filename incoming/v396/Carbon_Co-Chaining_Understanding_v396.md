@@ -349,6 +349,15 @@ Each a saying this journey made and dissolved, so a reader sees the move and doe
 - Set on a base, a base set on a chain — story. Dissolved to couplings all the way.
 - The four ways a next keeps its prior whole, and a four of relations — namings beside changing. Dissolved to 12's one binary with each sharing.
 - Arriving, entering, at the middle, a dioxide coupling at a place, one carbon in two placings — motion, place and a character deciding. Dissolved to parities surfacing with one between, same or parting, now; nothing ingresses and nothing escapes.
+- The four builds as the four moments, a reference prior-existing, a rate now-existing, a magnitude next-existing, a cost same-existing, and a causer and a defender at each — a laying of this understanding's credited to a living file. Dissolved at pass 7: the living file seats its ten at code's numbers and folds them to four by build, and says nothing of the four as moments; the ten at four-cycling's four are by the seatings.
+- Exhibit ONE's four four-cyclings as its columns — the rows are the four four-cyclings, 1 to 4, 5 to 8, 9 to 12, 13 to 16; the columns are four-cycling's four.
+- Something better than a winner, the measured at observing, an origin causes and a measure defends — a third language, neither the field's nor the living files' nor said as this understanding's. Dissolved to three registers kept apart, each sentence in one, with a binary at the end of each test.
+- Installed, a seat, a window, carries, offered, held, known by, directed to, tells apart, goes to — an -ed over a momentarying, a released noun, an object supplied to hold a relation, a doer under a verb. Dissolved to the living files' own words: installing, Exhibit ONE's numbers, a while, has, a re-saying beside, at.
+- So, therefore — a forcing between two sayings. Dissolved to a colon.
+- Neither paper names the old strand; the two texts say nothing of it — a negation with a doer and a limit claim. Dissolved to the field's positive, one date mark at the last division, which is what those texts say of it.
+- Carbon atoms the cell ingests at the fork — a claim not holding for all; salvage returns bases from broken strands into forming strands. Dissolved to carbon atoms the cell has at the fork.
+- One half from the last fork, one quarter from the one before, older by about one fork interval — a parity graded by a size, and a hedge. Dissolved to the parity: a pair is of one time or is not, is not, and a date read from a pair is read as from a pair of one time.
+- Each nucleotide joined its strand at one fork — stronger than the binary, since repair's nucleotides join at a repair. Dissolved to one moment, the opening's word.
 
 ---
 
@@ -366,19 +375,24 @@ Each a saying this journey made and dissolved, so a reader sees the move and doe
 - Nature goes forward only; what leaves is not what arrived.
 - A molecule's shape is a projection onto a flat surface of a living that is on none.
 - The middle of three is invisible to all outsiders and to the self; the field never sees the middle phosphorus alone.
+- Every sentence is the field's, a living file's, or ours said as ours; a third language is checkable by no one.
+- A reader that did not write a thing catches what its writer cannot, and five times in one day did.
+- A pair is of one time or is not; the co-sequencing of an inherited strand with a forming strand is all or none at the nucleotide and at the fork, and at no larger count.
+- The cell tells prior-existing from now-existing within one pair for a while the field has measured, and at its end the forming strand is inherited.
 
 ---
 
 # SEVEN · RECEIVING PLACES
 
-Suggested only; each value meets its file at its own motion after a separate reading for harm.
+As gathered, each after a separate reading for harm, written by the kit's `apply_gathered.py` to main's gathering-value files on pull request #157, twenty-nine lines, additions only; the gathered files and their readings are beside this file.
 
-- Natural Chemistry: 1.1, 1.2, 1.3, 1.8, 1.10, concerns 4.2 and 4.5.
-- Natural Biology: 1.4, 1.5, 1.6, 1.7, 1.8, concern 4.1, opportunities 2.1 to 2.5, 2.8, 2.10, 2.11.
-- Natural Physics: 1.9, opportunity 2.7.
-- Natural Numbers: 1.2, 1.3, opportunity 2.6.
-- Natural Societies: 1.4, concern 4.1.
-- Natural Intelligence and Exhibit ONE: 1.5, 1.6.
-- Living Ghost Registry: 1.1, 1.7, 1.10.
-- Natural Emanating: 1.10's paragraph, as a droplet.
-- Natural Explaining and Natural Naming: FIVE, the dissolvings, as catches.
+- Natural Biology — 3.2, 3.6, 4.4, 4.6, 4.7, 5.2 and Droplets: the chromatid observings, the no-hydrogen base, the three phosphates, the fork's five parities, carbon with living at a five becoming six, the exhaled carbon in every new base, the ribosome's two tunnels, polyploid growing, the transporter's never-both, cellulose and amylose as Exhibit ONE's two tables; and at 4.7 from 1.25 and 1.26: a pair of one time or not and a field's date mark read from it, the measured while of strand discrimination, all or none at the nucleotide and at no larger count, the homologue binary.
+- Natural Chemistry — 1.6 and 3.1: the concern at carbon a nothing or a stable form, both sides whole; diamond, graphite, a ball and a torus; the two alternation patterns of a conducting chain.
+- Natural Societies — 5.3: the concern at the first self, a molecule with seven or a self with its own fold.
+- Natural Numbers — 3.4: the paired chain's counts whole, their place still-possibling.
+- Natural Resolver — the two-selves tables: antiparallel strands; amylose winding where cellulose runs straight.
+- Natural Emanating — An instrument keeps, and the thing it cannot: 1.10's paragraph.
+- Living Ghost Registry — 2.3 and 7.2: the four ghosts by four-cycling by the seatings, eight ghost candidates from one carbon chain, and the two first words at two of the ten.
+- Resolving the Hard Problem Registry — Ten unchangeables, one resolving: the ten laid onto four-cycling's four by the seatings, or by the builds as well, a re-saying beside the sentence.
+
+Not gathered, left whole here for the next session: Natural Physics at 1.9 and 2.7; the third first word at from-behind, passed to v395; the register reading of these twenty-six sections by a reader that did not write them; B8 and B9 of 1.26.
