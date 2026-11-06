@@ -243,19 +243,47 @@ Exhibit TWENTY-FIVE is the open registry of observations from science, each seat
 
 ---
 
-## 12. What to distinguish next, in order
+## 12. What the method asks for here
 
-**12.1 The hand.** First, because it is cheap, because the deposited maps already hold it, and because three sentences of the living files turn on it. What is wanted: a per-chain skew angle relative to the long axis, and an enantiomer determined independently rather than inherited from an earlier model. On the present record the wall is described as straight and the hand is mostly assigned — so this is the measurement that would either reach §3.3 and §3.7 or break them.
+This section replaces one withdrawn. It had listed five measurements nobody has made — a hand, a scaffold dependence pushed, a closing followed at one particle, three edges measured, carbon followed in and out — ordered by how cheap each would be. Three corrections took it out, and each one is worth keeping in sight.
 
-**12.2 The scaffold dependence, pushed.** Vary a scaffold's length and stiffness and see whether particle size follows; fix a length and see whether chain count follows. A size that follows a scaffold separates alignment along a line from a shell finding its own closing, which no present observing separates.
+**We do not seek things we do not know have been observed.** The withdrawn section was entirely that. A list of unmade measurements is a list of absences, and an absence is not an opening; it is the shape of what has not been done.
 
-**12.3 Closing, at one particle.** Every closing count above is a property of a preparation. The registry entry states its own breaking condition. Of the methods that could supply it: single-particle mass measurement now follows one molecule for up to an hour at kilodalton precision, but its demonstrated floor is changes above about twenty kilodaltons on analytes above two hundred — and one chain on this shell is roughly one and a third per cent of its mass, far below that. High-speed atomic-force microscopy reaches tens of frames per second and would see a subunit-sized topographic change without being able to weigh it. Time-resolved cryogenic microscopy gives separate grids per time point, never one particle. Single-molecule energy transfer is the natural method for a contact releasing and re-forming, and has never been applied to vaults at all.
+**The newest observings are the most suspect, not the least.** This session leaned hardest on the structures of the last two years, several still preprints. Of those, one carried figures that could not be reconciled with its own earlier version, one held an inconsistency between its abstract and its conclusions, and one has no deposited accession. The twelve-year-old paper, once it could be read, held every number exactly. Durability is the test, and recency runs against it.
 
-**12.4 The three edges, measured rather than counted.** The towel correspondence asks for two wide ends, a narrow tightly wrapping centre, and three edges stiffening and relaxing into and out of that centre in right-spiral co-sequencing. What would reach it is a measurement returning the centre's span and the ends' spans together, through one loading and its release, on one particle. The existing traces return one height. Three cap conformations must not be taken for the three edges on the strength of the count alone — that is the error §4 already demonstrates.
+**An observing of an instrument interfering is of the interfering.** The strongest observing this session reached — a fracture closing again — is a tip making a fracture and the response to damage a non-living thing caused. Nearly the whole vault record falls the same way: expressed in a foreign host, purified through denaturant or sucrose, dried under a metal salt, blotted and frozen, shot through with electrons. The least interfering is a cell vitrified whole, which is still a killed cell.
 
-**12.5 Carbon ingesting and exhausting.** Furthest from any observing, and nothing this session changes that. What would begin it is material entering and leaving an identified participant at the participant's own grain, distinguished from material occupying the particle's central space. Natural Biology §7.5 holds the rule such an observing must respect: an emanation lives again only with a coupling other than the one it left, a grain down or a self across, and the test is a ratio intact rather than the going across itself. The present record contains no single-particle measurement of anything entering or leaving a vault; every cargo claim is a static snapshot or a simulation.
+**And no magnitude decides any of it.** A field's measure goes across as that field's own account, with its between, and the gathered items carry the numbers whole because the brief asks that. But a size never settles whether something holds. *On the surface it is natural: parity, position and ratio, and no magnitude.*
 
----
+### 12.1 The durable observings
+
+Sorted by age and repetition rather than resolution. Vaults exist and are ubiquitous in eukaryotes, found four decades ago and never contested. Two halves meeting at a waist. Half-particles, purifiable alone. Flower-like opened preparations. An enormous enclosed space. Particles at ten thousand to ten million per cell. And one negative standing twenty-four years unchallenged: the protein deleted in a mouse, and nothing measured changing — across twelve agents, to sixteen months, with a knockdown in cells agreeing three years on.
+
+### 12.2 The either-or dead ends, and the opening move that makes each
+
+Each is old, repeatedly met, and a fork a field cannot take both sides of. In each, the fork is made by an explaining that begins with the universe as an existing thing — a 0 and an infinity located, and the along and across arriving from outside into the thing.
+
+*Abundance against dispensability.* The particle is everywhere and removing it changes nothing measured. "What is it for" asks for a purpose held outside the thing and assigned to it. Strip that and the two observings do not contradict: they are two observings. The fork was made by the question. Natural Biology §9.2 has its shape: a clean cut is larger half, biggest abundancing and least attention.
+
+*An enclosure with nothing in it.* Every structure made shows a space that could hold hundreds of molecules and no ordered contents. "Container" is the outside-in reading of a closed surface — a volume with a boundary, which must therefore hold something. The observing is that a surface closes.
+
+*An enclosure that must open and cannot.* The shell is held to admit its own minor components after it is finished; the measured openings are far too small. Both sides give a gap a size. §3.7 already has it: inert was a field's word for a between, observing it as a gap. Two measurements of a gap contradict; a between does not.
+
+*Two counts of one particle.* Seventy-eight from one lineage of method, ninety-six from another, the field moving to the first without reconciling. A counting is a clock, a form fixing still from beside its momentarying; the fork stands between two still accountings of one going-on.
+
+### 12.3 The parity questions, of no size
+
+These are the openings, and none of them is a measurement.
+
+*Does a self retain its prior across its own going-on.* Half kept from before, half newly taken in, the self continuing. Semiconservative replication is where this is observed and its mechanism known: at every division one strand is prior-existing and one next-existing, all or none, with no exception anywhere. The particle here is reported to exchange halves, one kept and one new, and no half has ever been followed. The relation is reached in the one and unreached in the other, and the reached one shows what reaching would be.
+
+*Is a closing one that goes on cycling.* §3.7 carries the binary already: a seam locking shut is lethal; a closing that goes on cycling is living. A contact opening and closing again meets it, and an induced fracture mending is the interfering form of it.
+
+*Is the surface the selves' betweens.* §1.4 and Co-Chaining Logic 168 hold it; the field's wall is its own word, and the two accounts stand side by side without either being the other's.
+
+### 12.4 What this leaves
+
+No measurement is named here, and none is wanted. What stands is four durable forks whose opening move can be taken out, and three parity questions that no instrument settles. The vault's own structure is refused by nothing in this; what is refused is reading it through its numbers, which three living files said in their own words on one day.
 
 ## 13. The value offered to the gathering
 
