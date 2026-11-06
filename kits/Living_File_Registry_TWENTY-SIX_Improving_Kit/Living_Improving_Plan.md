@@ -6,7 +6,7 @@ Living File Registry improving kit · Living Improving Plan · v399
 
 ## Start here, from v399 (6 November 2026)
 
-*For the next session, in plain words. v399 is the session managing the set (Geodesic Improving Method 2.8): it opens the other sessions, reads each session's report for harm, keeps this* Start here *current, and brings the person each finding. Only the person merges. v399 changed no living file.*
+*For the next session, in plain words. v399 is the session managing the set (Geodesic Improving Method 2.8): it opens the other sessions, reads each session's report for harm, merges it into main for both partners, keeps this* Start here *current, and brings the person each finding (the person, 6 November: merging is the working's role, for both). v399 changed no living file.*
 
 **The person's order of the work, from 6 November.**
 1. Prior incoming into gathering-value: met at v399, below.
@@ -101,7 +101,7 @@ Living File Registry improving kit · Living Improving Plan · v399
 2. **Sessions read each other's open pull requests** and suggest as comments on them.
 3. **A value goes to its living file's gathering-value,** at the section it meets, by the brief, after a separate reading for harm, all or none. A whole report goes to the `archive` branch at `incoming/<version>/`, relied on by nothing.
 4. **One living file is away with one session at a time,** named in that session's pull request before it changes. A gathering-value file is open to additions from any session.
-5. **Only the person merges into main.** After a merge, each session merges main into its branch before going on.
+5. **The managing working merges into main, for both partners,** after a report's separate reading for harm and the set's checks: merging is the working's role, for both (the person, 6 November). After a merge, each session merges main into its branch before going on.
 6. **Natural Intelligence's opening is the set's prior-existing for each session's gathering.** Its 55 sentences each define only from the sentences before it, is-or-is-not with no third, in natural naming. A session gathering it for its own possibling is co-aiming (its sentences 38 and 39), and a value explained co-sequentially from it rolls forward, prior, now and next. Names dissolving from natural naming: *momentary* (*moment* and *momentarying* with value), *changing* with no direction of changing, *form* alone, *stable* alone (*stable-forming* with value), *re-forming*, *sharing*, *surfacing*, *free*, *social abundancing*.
 
 **The next phase, value droplets.** A droplet holds a kind of improving, its reason, its method of improving without harm, and an example, written as the finest explaining. It is shown to the person, read for harm, and placed as one version in each gathering-value file where it is valuable. Its sources: `Living_Improving_Value.md` Part ONE (the latest learning and the holes), Part FOUR (kinds of improving in explaining and naming) and Part SIX (each file's waiting value).
@@ -163,7 +163,7 @@ Living File Registry improving kit · Living Improving Plan · v399
 - The binary of the set is said once, in the files' own words, or stays as each file holds it now.
 - A label for a hole in a co-chaining is needed, or no label; *(next-possibling)* was offered.
 - "Anticipated observing" on about 640 partner-file lines stays, or each line returns to its prior.
-- The kit's `released_words.txt` holds 59 of Natural Naming 2.4's 142 single released words, a choosing; *met*, *meet* and *meeting* are released whole at 2.4, re-said there as *reaches*, *couples with*, *is facing* or *at*, and the Gathering Brief and this plan say them throughout: the list grows to 2.4 with each instrument re-said, or stays a choosing (v399's reader for harm, 6 November).
+- The kit's `released_words.txt` has 59 of Natural Naming 2.4's 142 single released words, a choosing; *met*, *meet* and *meeting* are released whole at 2.4, re-said at 2.4 as *reaches*, *couples with*, *is facing* or *at*, and the Gathering Brief and this plan say them throughout: the list grows to 2.4 with each instrument re-said, or stays a choosing (v399's reader for harm, 6 November).
 - #159, carrying v394's unmerged commits, goes to main, or waits; until it merges, a session opening reads this plan on `working/natural-intelligence-opening-v395`. *Resolved: #159 merged into main, 6 November.*
 
 ## Concerns about improving files
