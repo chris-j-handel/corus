@@ -48,7 +48,7 @@ Gathering-Value · Natural Philosophy
 
 ### 3.7 The flowing now and the block
 
-- **Possible incohering** · "Nature has no central oscillator, and existence fixing over all times together is one standing fixing over every coupling's own, where each now is its coupling's own and needs no standing other than itself." → One now parts from this sentence's each now its coupling's own: the universe is the set of all now-existing things, now is one, shared with each coupling and common with none, a common now a clock laid over things, and a momentary is the one now had at a sharing. A re-saying beside it: 3.7 as one now with each momentary a coupling's own; the other side has 3.7's many nows (the person).
+- **Possible incohering** · "Nature has no central oscillator, and existence fixing over all times together is one standing fixing over every coupling's own, where each now is its coupling's own and needs no standing other than itself." → One now parts from this sentence's each now its coupling's own: the universe is the set of all now-existing things, now is one, shared with each coupling and common with none, a common now a clock laid over things, and a momentary is the one now had at a sharing. A re-saying beside it: 3.7 as one now with each momentary a coupling's own (the person); the other side has 3.7's many nows.
 - **Possible incohering** · "There is co-time, sharing-elapsing, one of three ledgers." → This sentence's *co-time, sharing-elapsing* is a label this file alone has, and no living file explains it. One side explains its elapsing at a living file; the other releases the label and leaves *co-time, one of three ledgers*.
 
 ### 3.8 Meaning and use
