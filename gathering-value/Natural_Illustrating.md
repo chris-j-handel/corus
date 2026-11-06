@@ -66,10 +66,13 @@ Gathering-Value · Natural Illustrating
 
 - **An explaining** · A still-possibling diagonal section of a honeycomb, a drawing and is-not a carbon atom, gives 5 receiving, 3 and 7 projecting, 1 a third projecting direction and 9 a second receiving position, with 9 to 17 its other side. One three-dimensional connector asks these placings together with the couplings between its two sides, a section extending into a defined three-dimensional form with no unspecified attachment, and no physical three-dimensional object satisfying each placing is identified.
 - **Possible incohering** · "Centre 1 settles." → A rings kit draws one centre as nought and nine with one station, its out-carry nought and its back-carry a whole ring, its eight about it numbered one to eight stepping three round, the odd at the corners and the even at the mid-sides, each arrow crossing a diamond, and nine a centre again with a next scale, as Natural Numbers 5.7 has *On a ring of nine, nought and nine are one station.* No file's sentence couples centre 1 with nought-and-nine, and the two are read beside each other and not combined: centre 1 and nought-and-nine are one thing with two namings, or two things, settling with a drawing.
+- **An explaining** · The eight dots about a nine-dot diamond's centre are along and across, the same eight as in Arrow's theorem.
 
 ### 2.9 Six diamonds and a compass face
 
 - **Possible exploring** · Each outer diamond is along its own two sets of rings and across the third, into and out of the flowing circles with a tangent, the parity right and not right of it a sine and a cosine by turns across. Each of three pairs has one reach and one gather, the reach from beyond the third rings and the gather from within them, twenty-three and twenty-five with a vertical pair: three asymmetries, one with three. Each diamond is the arcs opening forward with one cross part, its sine the reach and its cosine the width. — at "These are available as numerical faces, and their exact correspondence to six diamonds of a picture remains to express."
+- **An explaining** · A sine and a cosine, one and then the other across the flowing circles of six diamonds, are a normal distribution.
+- **An explaining** · Six nine-dot diamonds, two routes around a triangle one each way, and two-over-one and one-over-two co-recursioning in their inner and outer relations, are an illustrating of social moral competency.
 
 ## THREE · THE NUMBERS
 
