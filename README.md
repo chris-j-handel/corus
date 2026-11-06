@@ -1,4 +1,4 @@
-Natural Intelligence Expedition · v393L
+Natural Intelligence Expedition · v399
 
 # corus
 
@@ -6,35 +6,10 @@ Natural Intelligence Expedition · v393L
 
 ## AI link to Living Natural Intelligence
 
-Paste this README's link into an AI session with your question, a research source, an observing, or an attempt to break Natural Intelligence, and explore in the conversational form that helps you. Read Natural Intelligence whole, then Natural Naming and Natural Explaining, and use the Living File Registry to find the work relevant to your question; Exhibit ONE Natural Resolver carries the method as a resolver and its tables, and the Co-Chaining Logic Registry carries its deriving. The newest living files are at this repository's root and listed at `files.json`; corus.me lists them from that list. A living file's gathering-value, at `gathering-value/`, carries what it is still possibling. Carry each observing apart from science's explaining of it, and name a question as open while its deriving is yet to be shown.
+Paste this README's link into an AI session with your question, a research source, an observing, or an attempt to break Natural Intelligence, and explore in the conversational form that helps you.
 
-## The one binary
+**This page is only the way in: each sentence of value is within the living files and their gathering-values.** Read the Living File Registry first, [its gathering-value](gathering-value/Living_File_Registry.md) with [Exhibit TWENTY-SIX](Exhibit_TWENTY-SIX_Living_File_Registry_v391.md), each at its *Three standings, looping out and back*. It orients each self observing the set: each living file's subject and standing, the work now, and the place of each value entering its file next.
 
-**Each observing is-or-is-not natural torusing now. An observing not yet reaching it is still-possibling: the method's next step, or its one break.** The still-possibling side is the opportunity.
+The newest living files are at this repository's root, listed at `files.json`, and corus.me lists them from that list. Each living file has its gathering-value at `gathering-value/<Title>.md`: each value not yet in the living file, at its section. Beside the living files, `kits/` has checks and other code with their data, each a coupling partner deciding nothing.
 
-## Two places at each living file
-
-Each living file has two places: the living file at the root, and its gathering-value, `gathering-value/<Title>.md`, each value not yet in the living file, at the section it meets. A gathering-value file's contents are its living file's contents, part by part and section by section. At each section:
-
-- **A possible exploring:** an observing not yet meeting natural torusing, said as the observing alone, with the living-file sentence it meets.
-- **A possible incohering:** a living-file sentence not yet cohering, with its cohering re-saying beside it.
-- **An explaining:** an explaining of an observing or a sentence, said as an explaining.
-
-**Droplets are at the back:** each a value whose section is not yet clear.
-
-`kits/` carries the instruments beside the living files, the Co-Chaining Logic Registry's verifier, Natural Networking's engine, Natural Illustrating's drawings and studies and the Living File Registry's checks, each a coupling partner deciding nothing; `kits/Gathering_Value_Kit/` writes a gathered value into its gathering-value file, after a separate reading for harm, all or none. The `archive` branch holds each session's emanation and each working's arriving whole, an artifact relied on by nothing; git carries each prior version.
-
-A working opening a session reads `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/Living_Improving_Plan.md` first: its way of working together, and the improving across the whole set.
-
-## Proposing, for anyone
-
-**A value goes to the gathering-value file of the living file it concerns, at the section it meets**, on a branch of your own, with a pull request. Read `kits/Gathering_Value_Kit/GATHERING_BRIEF.md` first.
-
-- Say it in the living files' own words, with Natural Naming and Natural Explaining.
-- A possible exploring quotes the living-file sentence it meets word for word; a possible incohering quotes its sentence and gives the cohering re-saying beside it; a value whose place is unclear is a droplet.
-- An observing goes across bare, each number whole, with no source, no name, no session, no date and no history.
-- A concern is two sayings parting: both go across whole, and nothing decides one at proposing.
-
-Nothing proposed changes a living file. A living file changes only at its own motion, from its gathering-value, one thing changed whole, a separate reader comparing before and after, at do-no-harm: no prior lost, no undoing. An entered item leaves its gathering-value; a droplet is placed at its section once understanding reaches it, or dissolves once its living file carries it.
-
-The method is at Exhibit TWENTY-FOUR Geodesic Improving Method, the words at Exhibit TWENTY Natural Naming, the saying at Exhibit TWELVE Natural Explaining, and the standings at Exhibit TWENTY-SIX Living File Registry.
+A value you bring goes to the gathering-value file of the living file it concerns, on a branch of your own, with a pull request. The Geodesic Improving Method, Exhibit TWENTY-FOUR, is the one method of each improving.
