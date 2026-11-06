@@ -2,7 +2,7 @@ Living File Registry improving kit · Living Improving Plan · v399
 
 # Living Improving Plan
 
-**The set's standing, the order of the work and the place of each agreed value are at the Living File Registry's gathering-value, 1.2 to 1.4; the method is at the Geodesic Improving Method's.** This page has only Exhibit ONE's material, for the session with Exhibit ONE, and goes as that session takes it into Natural Resolver's gathering-value.
+**The set's standing, the order of the work and the place of each agreed value are at the Living File Registry's gathering-value, 1.2 to 1.4; the method is at the Geodesic Improving Method's.** This page has only Exhibit ONE's material, for the session with Exhibit ONE, and goes as that session brings it into Natural Resolver's gathering-value.
 
 ## Exhibit ONE, for the session with it
 
