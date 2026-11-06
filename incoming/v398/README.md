@@ -69,17 +69,40 @@ along a linear scaffold. An induced fracture at the across contacts closes
 again after the tip has left. A gene disrupted returns nothing measured,
 against ten thousand to ten million particles per cell.
 
-## The next step
+## The next step, answered, and what the answer costs
 
-One question, answerable from material already in hand, deciding whether
-natural torusing is reachable here at all: **does the shell have one opening
-or none.** Purified native material reports a cap pore with a constriction
-near fifteen ångström. Native material inside a cell reports continuous
-density at the lids. Both are native and neither settles the other. A surface
-of one opening is the torus's genus; a closed surface is not.
+The question this working closed on: **does the shell have one opening or
+none**, deciding whether natural torusing is reachable here at all.
 
-Three further parity questions, of no size, stand at §12.3 of the report.
-No measurement is named among them, and none is wanted.
+The person answered it: the shell is a tunnel with one large opening and one
+small opening. By the counting rule Natural Mathematics states for itself —
+a body of eight openings being a surface of seven holes, openings less one —
+two openings with one passage between them is one hole, which is the torus's
+genus. Reached with no count of chains and no magnitude.
+
+**The form so described is observed, and it is the half-shell, not the whole
+one.** A whole shell carries a cap at each end and a closed waist, so with
+both cap pores open it has two small openings, alike by its own dihedral
+symmetry. One large and one small is a half: the open waist end wide, the cap
+pore narrow, the enclosed space between them. Half-shells stand at a quarter
+of an unmodified preparation by atomic force microscopy and at 30 to 43 per
+cent in waist substitutions; a scattering sample ran 44 per cent half; they
+carry reconstructions at 9.3 Å and 9.89 Å. A closed whole-shell waist radius
+is 319 Å where a half-shell's is oval at 329 to 346 Å, wider and no longer
+round, and adsorbed on graphite a half sits on its waist end as a dome with
+the cap up.
+
+**The cost: within cells, across 999 particles in 318 tomograms, no isolated
+half-shell was detected at all.** Half-shells are also absent from the mass
+spectra of mixed solutions. So the form reaching the torus's genus is common
+in purified material and absent where nothing has interfered. Either a half
+is native and too rare or too brief to stand in 318 tomograms, or it is what
+purification makes. The half is also the unit a field reports exchanging, so
+if the tunnel is the half, the exchanging thing and the tunnel are one thing.
+
+Two of the three remain unreached: a contact between neighbours is not a
+parity going along, and no going across is observed. Three parity questions,
+of no size, stand at §12.3 of the report. No measurement is named among them.
 
 ## What a next working should read before reaching for a pattern
 
