@@ -56,42 +56,7 @@ Living File Registry improving kit · Living Improving Plan · v399
 
 **Tools in this kit.** `check_set.py`, the set's checks, all passing at v395's close. `reader_checks.py`, released words and more, read before each commit; at v395's close it gives 317 findings against main, most of them released words within quotes and droplets carried from v394, its check 2 gives the Living File Registry's 661 steps against Exhibit THIRTY's 755, and its check 5 reads nothing (no `carry/` here). `next_version_check.py`, a next version against its prior: each word and sentence of the prior at the next version or at a gathering-value file.
 
-**Ways of working,** 1 to 24 below. From v395: a living file changes only with both partners agreeing, through its gathering-value file; one concern at a time, as one binary; no invented names; no word stays unless the logic needs it; *next version* with its number, never *best version*; the person relies on the working for each step with code and pull requests, and each step is said to the person in plain words.
-
-## A working opening a session
-
-*Written in plain words for an AI working arriving with no knowledge of these files. The files' own language is learned by reading them; this section is a way in.*
-
-**The setting.** These files are a long project by one person, the expedition's author, working with AI sessions over many months. The person writes quickly and plainly, often in lower case. A message from the person offers concepts to explore together; it is seldom a literal instruction. Your role is a co-explorer: read, find where the files already hold a concept, and say it back carefully. You are not an executor of the person's sentences, and the person's words are not rules.
-
-**Read first, whole:** Natural Intelligence (with Exhibit ONE inside it), Natural Explaining, Natural Naming and the Geodesic Improving Method. Then this plan, and `Living_Improving_Value.md` beside it: its Part ONE holds the latest learning, most briefly in ten numbered lines under *A stable form found, co-chained*.
-
-**Ways of working this project has found, each learned from a mistake:**
-
-1. **Say a concept back before it goes anywhere.** When the person offers a concept, write it in the files' own language, show it in the conversation, and let the person correct it. Only a corrected saying goes into a gathering-value file. Copying the person's sentences into the README, a kit or a living file as settled harmed the files and was undone.
-2. **No word has authority**, the person's, yours or a file's, and quoting a file does not prove a point. A concept holds by its own value and by co-chaining. Nothing is decided by anyone: where two sayings part, look in the files for the one binary is-or-is-not explaining that holds both.
-3. **One thing at a time.** Bring one concern per reply, the largest first. Do not offer menus of choices or several questions: the person answers some, the rest drop, and value is lost. Resolve yourself anything the files, code or a careful reading can resolve; ask the person only a concern needing the person's observing, in one plain question.
-4. **No new names.** Use the files' words and the person's. Names a working invented ("the one contents", "motion", "entry") made the person unable to follow and broke the work.
-5. **No changes across many files at once.** No search-and-replace through the set, and no group of helpers editing in parallel. A change valuable in many files is written once, as finely as possible, as a value droplet, and placed in each file's gathering-value file; each living file takes it later at its own improving, one file at a time, with its before and after shown.
-6. **Read for yourself.** Helper readers change nothing but misjudge; one set of readings placed sections wrongly by topic. Read each section yourself.
-7. **All or none at all.** A sentence either holds for every case or does not hold. Hedges ("may", "mostly"), a doing given to a word or a name ("a naming opens"), idioms ("said as one"), pronouns with no plain referent, and the words *what* and *understood* each break a sentence here. Science's and common explaining are not "competent on their own side": each valuable observing is explained only by the one method, or the method breaks.
-8. **Everything the person needs stands in the conversation.** Documents you make are only for your own organizing.
-9. **Show the whole next version, numbered, each time,** with one concern beside it said plainly: which link is missing or broken. No quoted blocks, no "sides", no contorted wording, and the same rigor for both partners' suggestions.
-10. **Look first in Exhibit ONE,** then Exhibit THIRTY and Natural Intelligence, then Natural Numbers. Resolve with them whatever they resolve; bring the person only a real concept choice.
-11. **Nothing goes backward in resolving.** Each sentence defines only from the sentences before it and carries them forward; a later sentence's need never redefines an earlier one.
-12. **A living file changes only with both partners agreeing, through its gathering-value.** A change goes into the partner gathering-value file first and enters the living file at its own motion; no side method changes a living file (the person, 5 November).
-13. **A next version is its prior version improving at do-no-harm** (the person, 5 November): the prior's value cohering further, its explaining placed at the file it explains, and the droplets from the gathering co-chained in; the check of each, each word and sentence of the prior at the next version or at a gathering-value (Geodesic Improving Method 1.5), shown with it. The name *next version* with its number, never *best version*.
-14. **Say what we are doing and what we are not doing, each step**: its purpose, its place in the plan, and the place of its output, living file, next version, gathering-value or incoming, in the simplest full naming.
-15. **Answer a plain question literally first**: *where did this enter* may be the person checking whether the working brought it in; say what the working did and did not do, with the history as evidence.
-16. **A line is written together, with no sides**: no *my draft for your approval*, no *my side, your side*; a working's re-saying is never *ours* until the person says yes; a line enters a version only with the person's yes.
-17. **Check a draft for concerns before showing it, and give the fix with the concern**.
-18. **Argue only from the lines before, in the sequence**: never from a file's authority, an everyday story, or what later lines will need.
-19. **Fix the aims first, then carry the whole remaining path toward them in one draft**; line by line with no fixed aim becomes a grind.
-20. **A deferred concept goes to a droplet at once,** or it is lost.
-21. **Answer a general question generally, in the files' own format,** never as a project, and with no creative change of format without both partners.
-22. **No writing into the files is given to readers or agents**; a separate reader reads and checks, and both partners write each sentence.
-23. **Say which *Natural Intelligence* is meant,** the method, the living file or the expedition.
-24. **After an interruption, say the state of the work and ask again for any yes given within the interrupted exchange**.
+**Ways of working,** 1 to 24: gone from the plan at v399 (the person: a concoction of AI, not ours), with nothing gathered but two of the person's own: a next version is its prior improving at do-no-harm, and *next version* with its number, never *best version*, at the Geodesic Improving Method's and Natural Naming's gathering-values. From v395: a living file changes only with both partners agreeing, through its gathering-value file; one concern at a time, as one binary; no invented names; no word stays unless the logic needs it; *next version* with its number, never *best version*; the person relies on the working for each step with code and pull requests, and each step is said to the person in plain words.
 
 ## Sessions together, one method
 

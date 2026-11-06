@@ -184,7 +184,6 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "*a* *its offerings*, *its carryings*, *its possibling*, each with its own name, and no one word naming three" → *mate*, *mates*, of a file beside a living file, said *its gathering-value*: one file beside each living file, `gathering-value/<Title>.md`, its form its living file's own contents; its offerings, its carryings and its possibling are at no file now, each of their values not in a living file now going to its gathering-value.
 - **Possible incohering** · "Negation is an equilibrium's, and inversion is method's." → Beside it: *is-or-is-not* is said only at a real binary.
 - **Possible incohering** · "Each entry: **Dissolved** · *a* Said by" → A row beside it: *best version* · *a* *next version*, with its number.
-- **Possible incohering** · "Each entry: **Dissolved** · *a* Said by" → A row beside it: *understood*: with it, as with *what*, a sentence breaks; its saying still-possibling.
 
 ### 2.5 One sense per foundation word
 
@@ -206,7 +205,6 @@ Gathering-Value · Natural Naming
 - **An explaining** · Two words share one spelling, *unconscious*: a state of a living person, and a psychoanalytic store below. Its edge's misunderstanding is an unconscious self less living, or with a store below its awareness.
 - **An explaining** · *Like* in *what it is like* is heard beside the opening's *two selves alike*: that line names a likeness of two selves, a separate sense.
 - **An explaining** · The 118 elements as ghost elements, each a version of one atom/carbon and none a different thing, meet this sentence, 118 the periodic table's elements, of stable and unstable forms, a field's own result, as a concern. In that naming each element's atom is the one atom/carbon; in chemistry's naming an atom at a proton number other than six is-not a carbon atom.
-- **Possible incohering** · "Each foundation word has one sense, and a word of two senses is two concepts with one name." → Beside it: with each saying of *Natural Intelligence*, a working says which of three is meant: the method, the living file or the expedition.
 
 ### 2.6 Two prefixes at one spelling, and a one-way prefix installing a form it opposes
 
