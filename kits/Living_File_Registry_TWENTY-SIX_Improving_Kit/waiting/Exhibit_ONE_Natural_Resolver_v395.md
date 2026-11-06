@@ -1,5 +1,7 @@
 Exhibit ONE Natural Resolver v395
 
+*Draft, below Exhibit ONE's exactness standard (the person, 6 November 2026): each word one exact concept, each naming and explaining the complete whole of its concepts, no less and no more. Its labels are to be said again at that standard, section by section, each section agreed by both partners; it enters the living file only then. Its do-no-harm check against v391 passes.*
+
 # Natural Resolver
 
 **Stable-Forming Same- and Next-Existing**
