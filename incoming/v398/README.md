@@ -39,6 +39,27 @@ restated; a phage count excluding nothing; a rotational repeat imposed at a
 reconstruction and a named rung, two kinds; and "runs through" the gathering
 reader's own saying and no observing. A refusal is value.
 
+**A second refusal** — `V398d_Gathering_Slice.md`, `V398d_Gathered.json`,
+`V398d_Reading.json`: two items written at the session's closing and both
+refused, all or none. Nothing was written to any gathering-value file. The
+first tried to carry the earlier refusal's four grounds as a general
+droplet; its reader found it the refused item carried back as a lesson,
+which is a working's own history and bars itself from an item, and found it
+already held whole — at Natural Numbers 10.1, at Natural Chemistry 4.5, and
+at this method's own 4.2, which holds *A working reaching a pattern with
+primes reaches it with odd composites beside them, and does not take prime
+for odd* and *A pattern agreeing with itself by arithmetic is a number
+until a working shows its place among resolver's names.* The second item
+re-said a closing already gathered at 3.7 in this session's third pass, and
+more poorly, dropping measures the held item carries. Its reader's judgement
+on the instrument's interfering: not a value of its own, and belonging as a
+correction inside the item it qualifies at a living-file pass.
+
+One flag that reader left for whoever takes 3.7 next: the held item carries
+*179 of 260 curves at half particles, 70%*, and that division gives 68.85%.
+The same item marks a reclining count's 22% against its own 27%, and leaves
+this one unmarked.
+
 ## What this session reached, in one line each
 
 The 48-seam route is-not, broken by the paper's own comparison set. No vault
@@ -59,3 +80,13 @@ of one opening is the torus's genus; a closed surface is not.
 
 Three further parity questions, of no size, stand at §12.3 of the report.
 No measurement is named among them, and none is wanted.
+
+## What a next working should read before reaching for a pattern
+
+Exhibit TWENTY-FOUR Geodesic Improving Method §4.2. This session reached the
+48-seam route, two thirteens and a general droplet, and each was refused —
+three times by a reader and once by the observings themselves. That section
+holds the rule all four needed, and no working here opened it: a pattern a
+working takes off a count over a whole can match for as long as anyone looks
+and yet break, with Fermat's numbers, a circle's chord regions and the
+diagonal Ramsey numbers as its three instances.
