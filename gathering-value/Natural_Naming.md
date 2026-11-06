@@ -184,6 +184,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "*a* *its offerings*, *its carryings*, *its possibling*, each with its own name, and no one word naming three" → *mate*, *mates*, of a file beside a living file, said *its gathering-value*: one file beside each living file, `gathering-value/<Title>.md`, its form its living file's own contents; its offerings, its carryings and its possibling are at no file now, each of their values not in a living file now going to its gathering-value.
 - **Possible incohering** · "Negation is an equilibrium's, and inversion is method's." → Beside it: *is-or-is-not* is said only at a real binary.
 - **Possible incohering** · "Each entry: **Dissolved** · *a* Said by" → A row beside it: *best version* · *a* *next version*, with its number.
+- **An explaining** · *Superpositioning* and *superattentioning* stay dissolved (the person).
 
 ### 2.5 One sense per foundation word
 
