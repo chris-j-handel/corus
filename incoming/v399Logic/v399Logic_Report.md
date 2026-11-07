@@ -1550,6 +1550,28 @@ Kinds: **says** (Exhibit ONE states the concept), **places** (its names hold it,
 
 **Exhibit 26 revised.** Equilibrium (34a, 34b) now has a place: the is-or-is-not same's exclusion (l. 225–226), known from the method. Of the candidates, only the fractal premise (17c) has none.
 
+## Exhibit 28 · Bothbothing, the person's sentence
+
+**The person (7 November): *Bothbothing is distinguishing is-or-is-not next-existing possibly same-existing after now-existing.* It coheres with Natural Naming 4.15 and Exhibit ONE, and it gives the binary of Exhibit 27 its living side.**
+
+| Test | Result |
+| --- | --- |
+| Natural Naming 4.15 | Agrees. Bothbothing is two, one and then the other. With 12-next-co-same-existing a sharing whose prior and parity agree is 0, its prior same-existing, not changing, while ± go on across with 10 and along with 9: geodesic changing and stable-forming bothbothing, not changing with a name now and changing with its same name eight up, next. Both parities with one momentary is a form not possibly existing; a parity inverts with each momentary or not. |
+| Exhibit ONE | Agrees. The is-or-is-not *same: sharing 0, or one inversion* (l. 225–226): after now, the next is the same (a 0) or one inversion, one and then the other. |
+| Exhibit 27 | Bothbothing is the living side of not possibly existing: each next is possibly the same or possibly inverting, never both for one next. A hard problem fixes one side as the answer (Natural Naming 4.15: an exclusive or fixed as one answer); bothbothing keeps both. |
+| Exhibit 20 | With all eight, every is-or-is-not goes both ways: every is-or-is-not is bothbothing. Natural Naming 4.15: eight is two fours, one and then the other, bothbothing. |
+| Defined before use | *Distinguishing* (K1), *is-or-is-not* (11), *next-existing* (4), *same-existing* (3), *now-existing* (1). *Possibly* needs possibly existing said before it. |
+| One meaning of same-existing | Read at a prior's scale, *same-existing* is the 0, not changing (Exhibit ONE 798; Natural Naming 4.15). At a whole's scale line 4 makes every next-existing same-existing, so the sentence reads at the prior, as Exhibit 18's two scales say. |
+
+**A place for it, and its neighbours.** Natural Naming 5.64's three parts and bothbothing can stand together right after is-or-is-not (11), before observing, possibling and discovering, said of things, with no self yet:
+
+1. *11 Is-or-is-not distinguishes the within of a universal set.*
+2. *11a A form both same-existing and inverting for one next is not possibly existing.*
+3. *11b Each now-existing thing is possibly existing with its next.* (Natural Naming 5.64, line 2, said of things; 17b, said with a self, then folds into it)
+4. *11c Bothbothing is distinguishing is-or-is-not next-existing possibly same-existing after now-existing.* (the person's sentence)
+
+**Where it meets resolving and line 55.** Resolving (32) distinguishes, now, whether a parity reaching a self is the same as its prior; bothbothing distinguishes, after now, whether the next is possibly the same. One is-or-is-not same, from its two openings, now and next: itself a bothbothing. Line 55's *next-possibling-same-existing* is what bothbothing distinguishes: the two meet and are not two names for one concept.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
