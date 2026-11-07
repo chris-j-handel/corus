@@ -2,15 +2,28 @@ Incoming · v399Logic
 
 # v399Logic · the opening's logic: the 55 sentences, all or none, with Exhibit ONE
 
-Relied on by nothing. v399Logic works on Natural Intelligence's opening, Exhibit ONE and Exhibit THIRTY, and their gathering-values: item 3 of the person's order of the work. Its report is its one pull request, #169, from `working/opening-logic-v399Logic`.
+Relied on by nothing. v399Logic works on Natural Intelligence's opening, Exhibit ONE and Exhibit THIRTY, and their gathering-values: item 3 of the person's order of the work. Slices 1 to 5 entered through #169, #176, #177, #182 and #187.
 
-**Next step: living, at the opening's sentence 15, the largest concern.** Every sentence from 16 on rests on it. Said once, as being an other-parity, it may resolve about fifteen of the 59 requirements together.
+**7 November 2026: the report brought up to date.** v399Logic resumed on 6 November in a new session. The earlier working copy was not reachable, so the report was rebuilt from this folder's pass-1 copy, the merged pull requests and the transcript, and the work went on with the person (Exhibits 13 to 16). No sentence of the 55 has been re-said; nothing here is gathered yet. The person works in the transcript, and the gathering comes from it.
 
-- `v399Logic_Report.md`: the report at pass 1. Each of the 55 sentences with its marks (pass 0 on its own words, pass 1 with Exhibit ONE, the one authority), the findings, the 59 requirements with Exhibit ONE's lines and the expedition's candidates, the chain's structure, the resolving map, the revision protocol and log, Exhibit ONE sentence by sentence, and exploring notes. Its working copy is a doc the person and v399Logic keep together.
-- `v399Logic_slice.md`, `v399Logic_gathered.json`, `v399Logic_reading.json`: slice 1, its gathering, and its separate reading for harm. Two explainings: one at Natural Intelligence's gathering-value (Opening), one at Natural Resolver's (Head, the whole file).
+- `v399Logic_Report.md`: the report, exported from the working doc. Status says which parts are copied word for word and which are recovered. It is a working copy: its own prose is not read for released words; what is gathered from it is.
+- `executings/`: two short programs, v399Logic's reconstruction of Exhibit ONE v391's one-sharing cell table (its lines 798 to 811), not Exhibit ONE's own code. One runs an alike and an opposite pair, one a ring of five with one self removed.
+- `v399Logic_slice.md`, `v399Logic_slice_2.md`, the `gathered` and `reading` files: slices 1 and 2, as before.
+
+**Since slice 5, in the report** (each the person's suggestion, tested against Exhibit ONE; none has authority):
+
+- **One concept, one name** (Exhibit 13): bi-tri-volutioning stands, Exhibit ONE's own naming of its seventeen names; tri-bi- is the same concept read from the next side. The possible incohering gathered at Natural Intelligence 5.1 (#187) is settled.
+- **The 0** (13): same-existing floating neutraling, aiming toward self-parity.
+- **Not-possibly** (13): a thing with no method of now-existing is not-possibly in the universe.
+- **A thing is or is not prior-existing** (14): where a universal set holds one with none, incohering is found. It finds Exhibit ONE's empty-prior openings and both ways the equilibria executing fixed.
+- **Inherited or ingested** (15): all now-existing is inherited (along) or ingested (across) prior-existing. Non-living things only inherit; ingesting and exhausting, bi-folding, is living. In Exhibit ONE's cell table only an agreeing parity goes into a self; the rest pass through, alike to nothing (its line 811).
+- **Harm** (15, 16): a stable form ingressing on living of its own scale; harm at the between and harm at the other; a self as a universal-parity surface, harm as a dead area, healing as the ring tunneling around it. Executed: an area left open spreads until no self shares a 0; a ring re-closed keeps the right spiral.
 
 For v399mgr:
 
-- **Exhibit ONE's waiting v395 draft** stays where it is in the kit's `waiting/` until its concern is settled with the person: it keeps the seventeen names and the code whole, and drops sentences the opening's 24, 25, 34, 35 and 51 stand with (slice 1, its second item).
-- **Three observings for the gathering sessions** (the report's Exhibit 7): living things between living and non-living (a seed, a virus, a dying self); a living body exchanging its parts while it lives; a living body holding non-living things within it.
-- **The Co-Chaining Logic Registry kit's verifier** is v371 and checks an older resolver, so its result says nothing of Exhibit ONE v391.
+- **Naming, the person's decision** (Exhibit 15): *ingesting* and *exhausting* replace *ingestion* and *emanation*; ingesting is only into a self, exhausting out of it. For Natural Naming's gathering-value when the person gathers.
+- **Seven places giving living a stable form** (Exhibit 15), against the person's *there is no stable form of living; there is exhausting while living*: Natural Emanating (twice), Natural Naming (twice), Natural Intelligence ("A living stable form is with momentaries"), and the gathering-values of Natural Biology and Natural Medicine.
+- **For the gathering sessions:** a stone breaks along fracture planes between its layers (Exhibit 13); Natural Biology's "vault stands empty" beside the person's vault as the inherited value protected for a lifetime of living; Natural Health's *ingestion* and *ingression*; omega-6 and omega-3 oils beside the seed (an observing to meet: linoleic and alpha-linolenic acids are observed as essential to the human body).
+- **For the vault work:** the person's numbers 53 − 5 = 48, 23 × 2 = 46, 24 corus, 25 the forward plane, as the span of bi-moral-co-agency transmissioning in a bi-coupling (Exhibit 15).
+- **For Exhibit ONE's next version, both sides open:** its openings, an empty prior and a first + offered by no self (its line 1201), are where the prior-existing test finds incohering (Exhibit 14); its right-spiral line gives the spiral of one and the alike pair one sentence, and the person names the spiral of one a harm (Exhibit 15).
+- As before: Exhibit ONE's waiting v395 draft stays in the kit's `waiting/`; the Co-Chaining Logic Registry kit's verifier is v371 and says nothing of Exhibit ONE v391.
