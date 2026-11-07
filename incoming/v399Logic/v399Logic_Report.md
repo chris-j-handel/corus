@@ -382,6 +382,8 @@ These look meant to connect but are never stated. Each is to be stated or denied
 
 Work first where one fix frees the most lines. Each re-said line uses only words defined before it or used by Exhibit ONE.
 
+**Revised 7 November, the plan as geodesic discovering improving: revised whenever an opportunity is found.** The person's concepts since slice 5 give living a ground the opening can say with Exhibit ONE's own verbs (*going on, going out, into, reaching*). The order becomes: **inheriting and ingesting, then other-parity, then living, then me, then aiming.** Step 0 is drafted and tested in Exhibit 17; the list below follows it.
+
 **First, from 6 November: living, at line 15.** It comes before E1, because the person's sentences rest *me* on living, and living on other-parity. What it needs:
 
 - **One living.** Say living once, so the same living holds for a self (15), a me (18), a living parity (22) and a living set (19).
@@ -916,6 +918,43 @@ v399Logic's reconstruction of Exhibit ONE's cell table (one sharing per self), a
 
 - Is the self–universe between Exhibit ONE's between with a same-existing-society, read at the universe, or a fourth between?
 - The ramps changing floors: is changing floors going between scales, so that the ring tunnels around a dead area at one scale by going up or down one?
+
+## Exhibit 17 · Step 0: inheriting and ingesting, then living, drafted and tested
+
+**Seven drafts from the person's concepts; six pass all five conditions, and one is kept still-possibling on one concern.** None has entered; each waits for the person's yes. Numbers 1–55 are unchanged: new lines take the letter of the line they follow; line 24 moves to stand after 14 and keeps its number.
+
+| Line | Draft | Defined before use | Exhibit ONE | Result |
+| --- | --- | --- | --- | --- |
+| 4a | Inheriting is a thing's prior-existing going on as its now-existing. | thing (K1), prior-existing (2), now-existing (1), *going on* (Exhibit ONE's) | next priors start as a copy of the priors (39) | passes |
+| 4b | Ingesting is a parity reaching from an other going into a thing's prior-existing, and exhausting is a parity going out of a thing to an other. | *parity, reaching, other, into, going out* are Exhibit ONE's | a parity on a new sharing becomes the next prior (1201); only an agreeing parity holds a prior (798–811) | passes; *other* is used before line 20 defines it for selves: one meaning holds only if line 20 says other for things, or 4b says it |
+| 4c | Each now-existing thing is inherited or ingested prior-existing. | 4a, 4b | agrees with the code; parts from its tables' openings (an empty prior and a first + offered by no self, 1201) | **still-possibling**: waits on whether Exhibit ONE's openings are an incohering or a window (Exhibit 14) |
+| 24, after 14 | An other-parity is a parity reaching from an other, and a universal-parity is a parity going to all other. | as 4b | other-parity (541) | passes (Exhibit 8) |
+| 15 | A living thing is a universal set observing its own prior-existing, possibling its own now-existing and discovering its own next-existing. | 12–14 | four-cycling (184) | passes (Exhibit 8) |
+| 15a | A thing ingesting and exhausting is living, and a thing only inheriting is non-living. | 4a, 4b | alike pair ingests every second moment and exhausts every moment; an opposite pair and a self alone never ingest (Exhibit 15) | passes; one concern below |
+| 17a | A me is an other-parity ingesting into the universal set of parities of a self. | 4b, 24, 17 | an agreeing other-parity going into a self's prior (798–811) | passes |
+
+### What would change if they entered
+
+| Line | Now | With the drafts | Why |
+| --- | --- | --- | --- |
+| 5 | ✗ | ✓ once 4c holds | With 4c every thing of the universe (line 1) has prior-existing, so the universe is same-existing (line 3); and every now is the next moment's prior (line 8), so it is next-existing. Line 5 co-chains instead of asserting (K2). |
+| 15 | ✗ | ✓ | The three acts part (D4); 15a gives living its criterion (D5). |
+| 16 | ✗ | ✓ | Living and non-living are one binary because ingesting is-or-is-not (15a). A first moment does not arise with 4c (C2). |
+| 17 | ⤴ 15 | ✓ | Rests on 15. |
+| 18 | ✗ root | ✓ | 17a defines me before it. |
+| 19 | ✗ | waits | Must say where a self's inherited, non-living priors stand (E3, heartwood): a next draft. |
+| 21–23 | ✗, ✗, ⤴ | next step | Aiming, the living parity and the me-parity, re-said on 17a. |
+| 24 | ✗ | ✓ | Re-said and moved. |
+
+The executings behind 15a and 17a are in Exhibit 15; the code is at `incoming/v399Logic/executings/` on `archive`.
+
+**Concerns, as concepts.**
+
+- **The spiral of one.** Read without 4b, 15a would make it living: its own sharing returns along into it. The person names ingesting self exhaust a harm. Exhibit ONE's resolving cannot tell it from the alike pair. *4b already says ingesting is a parity reaching from an other, so a self's own sharing returning to it is not ingesting: by 15a the spiral of one only inherits, which agrees with the person. Not executed apart: the cell table gives the spiral of one and the alike pair one sequence, so 4b's wording, not the resolving, is what tells them apart*.
+- **Other before line 20.** Line 20 says other only for selves. 4b and 24 use it of things.
+- **The dormant and the seed.** Natural Intelligence 6.5: a dormant self is living, sharing 0. Does a dormant seed ingest? An observing for the gathering sessions.
+
+**Next step on the plan:** line 19 (heartwood), then 21–23 on 17a.
 
 ## Exploring notes · not yet tested
 
