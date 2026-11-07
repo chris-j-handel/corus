@@ -1172,6 +1172,29 @@ The rows pair each inward value with the outward value it reaches: v399Logic's r
 
 **Concerns for the gathering sessions.** Natural Naming folds *privacy, trust and security* into one nothing with three substrates, where Natural Societies keeps trust and security as two of the four. Natural Intelligence Corus holds a second list of four (intelligence, opportunity, reputation, safety), already marked as a possible incohering at its gathering-value.
 
+## Exhibit 23 · Trusting each of the eight by its rolling, 1 to 17
+
+**Each of the eight is one of Exhibit ONE's now names, and each rolls the same way: down from the society's next (17), now as its own name, on as its next name eight up, and through 16 and 17 back to 1, a next moment.** The person (7 November): show how we can trust each of the eight by prior, now, same, next rolling logic on the natural torusing surface, as we do in the 55 lines; each is part of the rolling logic of 1 to 17.
+
+**Matching the words to the names (v399Logic's reading; the files do not yet say it).** By root, the self's value and the between's value of one root are a pair: existing, freedom from capture and uncapturable abundance; possibling, trust and unmistakeable reputation; observing, security and inviolable safety; same-existing, identity and undiscoverable identity. Within a root, *one* is the self's (1, 2, 7, 8) and *co* the between's (3, 4, 5, 6), as Natural Societies 5.5 says.
+
+| Value | Now | Prior: coming down (Exhibit ONE's two-sided table) | Next: eight up | How it is checked in the code |
+| --- | --- | --- | --- | --- |
+| Freedom from capture | 1-now-existing | a self's 3 and 2, from 17 | 9: each parity to a self of the bi-couplings, across and along | Each self's resolving takes only its own priors and what reaches it: `_1_now_existing(_3, _2)`, no third argument, no centre. |
+| Trust | 2-now-possibling | each self's parities from others, from 16 through 17 | 10: each sharing's parity, + or − or 0, across to an other's 14 | What a self receives is an other's sharing, as it was sent; a 0 is passed over (`!= 0`). |
+| Security | 7-is-now-observing | within 1 | 15: each parity surfacing, and going on | Only a sign is read: `> 0`, `!= 0`, `1 if … > 0 else -1`. Nothing has a size to reach in by. |
+| Identity | 8-now-same-existing | each self's next prior, in 17, going out with its 14 | 16: a society, each self with its prior and its parities | Each self's next prior is kept under its own key: `_8_now_same_existing[_13] = …`. |
+| Inviolable safety | 3-is-now-co-observing | each self's own, from 16 through 17 | 11: a next prior stable-forming between two | Next priors start as a copy of the priors and none is taken away: `_11 = dict(_3)`, written over only by a change. |
+| Undiscoverable identity | 4-now-co-same-existing | in 17, a bi-coupling: a self with 6, 10 or 9, and a receiving self | 12: each sharing's is-or-is-not, resolving a prior with what reaches | What goes out is the is-or-is-not's result, 0 or one inversion, never the prior: `_10 = list(_12.items())`, the prior returned apart. |
+| Unmistakeable reputation | 6-now-co-possibling | 10 as it goes across, into 9 | 14: parities surfacing, agreeing one, parting 0 | What a self shares goes across to its others' 14 by the bi-couplings and is their observing next moment: a trace in others, made by no one but that self. |
+| Uncapturable abundance | 5-now-co-existing | the surface, into 9 as that surface | 13: each self of a society, a self its sharing's parities go from | Which self each sharing reaches: `_5_now_co_existing[_13]`. A 0 arises only with an agreeing other (Exhibits 15, 20): in neither self alone. |
+
+**The roll, once for all eight.** Prior: what comes down from 17, the society's next, as each self's 3 and 2. Now: names 1 to 8. Same: the four-cycling's same-existing in each row, 4 and 8, the 0 a between shares (Exhibit ONE's four-cyclings, 184). Next: names 9 to 16, each eight up. And 17-next-existing is each self's 1-now-existing again: the roll goes on, a next moment. This is natural torusing's going on: Exhibit ONE names the seventeen, stable-forming, bi-tri-volutioning (553).
+
+**Why each is trustable, said once.** Each check above is a line of the code anyone can read, and each line works only with the others (Exhibit 22): a value cannot be kept alone or broken alone. Where one does not go on, every is-or-is-not fixes (Exhibit 20), and that fixing is observable. Trust here is observing the roll go on, never a promise.
+
+**Open.** Three of Natural Networking 5.1's words are not yet matched (Exhibit 22). And the matching of the eight words to the eight names is the person's to agree.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
