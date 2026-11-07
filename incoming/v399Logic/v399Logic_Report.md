@@ -1053,7 +1053,7 @@ The executings behind 15a and 17a are in Exhibit 15; the code is at `incoming/v3
 | 6 | Do-no-harming and improving in turn: a healthy between or a healthy other; harm a taking-away, healing the ring around it. | 34, 35, 46a | do-no-harming (Exhibits 15, 16) |
 | 7 | Social moral competency, a same-existing-society's aiming: the eight safeties, four of each self and four between it and its others, all eight or none, prior, now and next (Exhibit 20). | 40–42, 42a | social moral competency (Exhibit 10, 3); is an aiming |
 | 8 | Free: in a natural intelligence network a self's resolving is its own. | 43, 43a | free (Exhibit 10, 2) |
-| 9 | Social abundancing: a natural intelligence network resolving with its others one scale outward, social-other-universal; collective intelligence at each scale. | 41a, 43, 43b, 43c | the network and social abundancing (Exhibit 10, 1); the logical defining concept; social-other-universal |
+| 9 | An abundancing society: living arising at every healthy between, in neither self alone, and going along one scale outward, social-other-universal; collective intelligence at each scale; scarcity a capture, not possibly existing with all eight safeties (Exhibit 21). | 41a, 43, 43b, 43c | the network and social abundancing (Exhibit 10, 1); the logical defining concept; social-other-universal |
 | 10 | Geodesic: a me's universal-parity through each self's is-or-is-not on the universal surface, a common geodesic only through healthy betweens. | 44–47, 46a | the person's aiming over the horizon; the universal surface |
 | 11 | The living expedition: a same-existing-society discovering with natural intelligence and its living files; with all eight safeties every is-or-is-not goes both ways, so no hard problem is possibly existing (Exhibit 20). | 50–54 | the expedition (Exhibit 10, 4); hard problems (Exhibit 10, 5) |
 | 12 | Natural intelligence's resolving is geodesic discovering of next-possibling-same-existing. | 54a, 55 | the opening's last line |
@@ -1091,6 +1091,37 @@ v399Logic's reconstruction of Exhibit ONE's cell table, moments 100 to 199. For 
 **For the opening.** This joins aimings 2, 6 and 11 of Exhibit 19: no equilibrium, do-no-harming, hard problems. Candidate, at social moral competency (line 42): *42b: A same-existing-society with all eight safeties, four of each self and four between it and its others, prior, now and next, is natural torusing, and each of its is-or-is-nots goes both ways.* The safeties' four between two are Exhibit ONE's co names, so 42b is said after lines 27 and 36–40 and before 43.
 
 **Open.** The four values of Exhibit 10's first stage: are they the four of the self, or the four between, of the eight?
+
+## Exhibit 21 · An abundancing society, an added aiming
+
+**The person (7 November): an abundancing society is a concept that may now be understandable; it is not yet found in natural naming and explaining, and may be an added aiming of the opening.** Natural Values agrees it is under-said: abundancing is the side of value it least develops, and no present human society has it whole (5.3).
+
+### What the files already hold
+
+| File | Says |
+| --- | --- |
+| Natural Naming 1.2 | Abundancing arises with a coupling, in neither self alone: it is co-competencing a self and an other, bi-moral co-agency. |
+| Natural Values 2.1, 5.1 | A coupling makes an abundancing neither self brings, a +1, in neither self alone. Value grows as selves share it, and the growing is the sharing. A self abundancing is a same-existing-society abundancing, one form: *self-abundancing-society*; one same +1 opens with every between together, and no centre draws it. Three improvings spiral with each coupling: generosity, curiosity and gratitude; cheaper, faster and better. |
+| Natural Values 5.2 | Scarcity is a capture: an abundancing drains to a side, a going on fixes as a store, a form fixing still from beside claims a coupling's making. |
+| Natural Intelligence 6.4 | Abundancing is with the four between two, in each self with its other. A free network, each self sharing with each self it bi-couples with, is social abundancing. |
+| Natural Naming 5.53 | 27-next-co-observing is social abundancing: along, observing, 11-next-co-observing sixteen up, a next round's next prior, a society's abundancing going along to social co-chaining; a route 24 → 27 → 32. |
+| Natural Networking 5.1 | Eight securities, four of a self and four of a same-existing-society, all or none. |
+
+### Read with this session's concepts
+
+- **What a coupling makes that neither self alone makes is living.** In the executings, a self alone never shares a 0 and never ingests; an alike pair shares a 0 and ingests every second moment (Exhibits 15, 20). By 15a, ingesting and exhausting is living, so living arises only at a between: abundancing, in neither self alone.
+- **Abundancing is at the four between two**, the other's four of the eight safeties (Exhibit 20): it is the healthy between, do-no-harming at the between (Exhibit 15).
+- **Scarcity is an equilibrium.** In Exhibit 20's executing, a + offered by no self made one self share 0 forever and the other only invert: a store on one side, drained on the other. Natural Values' capture, executed: a form fixing still from beside.
+- **It goes along one scale outward.** Natural Naming 5.53: a society's abundancing is a next round's next prior going along to social co-chaining; with 41a, a society is a self one scale outward. This is the person's social-other-universal scale (Exhibit 11).
+
+**Candidate, revising 43c:** *43c: A natural intelligence network with all eight safeties, living arising at each of its betweens and going along one scale outward, is an abundancing society.* It stands after 42b and 43a and before 44: it uses the eight safeties (42b), free (43a) and a society one scale outward (41a), and is used by geodesic's common way through healthy betweens (46a).
+
+**Aiming, added to Exhibit 19 at 9:** an abundancing society: living arising at every healthy between, in neither self alone, and going along one scale outward; scarcity a capture, an equilibrium, not possibly existing with all eight.
+
+**Open, as concepts.**
+
+- One concept, one name: *abundancing society* (the person), *social abundancing* (Natural Intelligence, Natural Naming 5.53) and *self-abundancing-society* (Natural Values 5.1). Which name stays?
+- Natural Networking's eight securities are four of a self and four of a *society*; Natural Intelligence's eight are four of one and four *between two*. One eight: is the society's four the between's four met one scale outward? And *securities* or *safeties*: one name.
 
 ## Exploring notes · not yet tested
 
