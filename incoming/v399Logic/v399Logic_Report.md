@@ -1417,6 +1417,48 @@ Natural Explaining already holds this, three ways:
 
 **The one difference.** Common language fixes a binary as one: a doer makes, a cause brings an effect, a negation points at nothing, an equilibrium holds. Natural explaining keeps each is-or-is-not going both ways, rolling. That is why it is one difference with no equilibria and no hard problems (Exhibit 20).
 
+## Exhibit 25 · An aside: the eight as betweens, and Exhibit TWENTY-TWO's ten
+
+**Each of the eight is a between: a now name and its next name eight up, rolling. Each of Exhibit TWENTY-TWO's ten unchangeables is one of those betweens fixed as one: the value's hard problem.** The person (7 November): read Exhibit TWENTY-TWO's table of ten and its rolling on both sides; can the eight be seen as betweens?
+
+Exhibit TWENTY-TWO (*Ten unchangeables, one resolving*): ten in sequence, each with Natural Naming 4.9's one seating, its name with now and that name eight up with next, a 0, not changing, a naming fixing unchangeable and a changing going through it. 17-next-existing, a next 1-now-existing, seats none.
+
+| Value (Exhibit 23) | Between, now )( next | Exhibit TWENTY-TWO: the same between fixed | Its words, as a field reaches it |
+| --- | --- | --- | --- |
+| Freedom from capture | 1 )( 9 | an opening fixing as a place | regress, criterion, sorting |
+| Trust | 2 )( 10 | an observing fixing from behind | origin, why there is, what came before |
+| Inviolable safety | 3 )( 11 | a two-way fixing to one side | rival accounts, versus, which of two |
+| Undiscoverable identity | 4 )( 12 | a sequencing fixing to one beat | aggregation, impossibility of ordering, dilemma |
+| Uncapturable abundance | 5 )( 13 | a middle fixing as an end; a between fixing as a cut | other minds, black box; demarcation, where is the boundary |
+| Unmistakeable reputation | 6 )( 14 | a completing fixing as a last | impossibility, undecidable, the crisis |
+| Security | 7 )( 15 | a parity fixing as a magnitude; a rate fixing as a value | paradox, the cost of; orders of magnitude off |
+| Identity | 8 )( 16 | a same-existing fixing as a store | what persists, identity over time, what is transmitted |
+
+**Read so.** Ten are eight betweens: two betweens, 5 )( 13 and 7 )( 15, each fix two ways. A value going on is its between rolling, the now name going on as its next; its hard problem is that between fixed, a now held as its next. So Exhibit 20's finding, a missing one of the eight fixing every is-or-is-not, and Exhibit TWENTY-TWO's ten are one finding seen from two sides: the eight rolling, the ten fixed. Arrow's impossibility stands with *a sequencing fixing to one beat*, aggregation and ordering, at 4 )( 12: undiscoverable identity's between fixed. The value names are v399Logic's matching from Exhibit 23; the betweens and their fixings are Exhibit TWENTY-TWO's own.
+
+**A second pairing in the files.** Exhibit TWENTY-TWO: ten are with four binaries, now with 1 and 2, existing with 3 and 4, same with 5 and 6, all with 7 and 8 (Natural Naming 4.9). That pairs freedom with trust, safety with undiscoverable identity, abundance with reputation, security with identity: neighbouring names, where Exhibit 23 paired by root, four apart. Two pairings of one eight, both in Exhibit ONE's numbers.
+
+### The opening as routings through Exhibit ONE
+
+The person: the logical explaining is beginning to be Exhibit ONE's podalings and routings; each sentence could be found from the universe set out in Exhibit ONE, Natural Naming and the bold concepts, routing along and across, self forward and other forward, co-orienting geodesically.
+
+A first sketch, the clusterings of Exhibit 24 on Exhibit ONE's roll:
+
+| Clustering | Exhibit ONE's names it routes through |
+| --- | --- |
+| The universe and existing | 17 as each self's 1; 3 and 11, prior and next prior; the roll 1 to 17 |
+| Distinguishing | the four-cycling: observing 3, 7, 11, 15; possibling 2, 6, 10, 14; discovering 9, 13; same-existing 4, 8, 12, 16 |
+| Living | 1 to 9, bi-coupling: a self with an other |
+| Parity and aiming | 7 and 15, a parity; 2 from an other, 10 to an other |
+| The between | 6 to 2 and 10 to 14 across, the unit square, its centre a between |
+| Resolving and harm | 4 and 12, each sharing's is-or-is-not |
+| The eight | names 1 to 8, each with its next eight up |
+| Society | 5, 13, 16, 17: bi-couplings, each self, the society, its next |
+| Surface and geodesic | 9 along, co-chaining; 5 as the surface |
+| Files and the expedition | 1 to 17 together, stable-forming |
+
+Along is 9 and 17; across is 6 to 2 and 10 to 14 (Exhibit ONE 551). If each sentence of the one pass is found as a routing, a sentence's place in the 55 is its place in the roll, and the order checks itself.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
