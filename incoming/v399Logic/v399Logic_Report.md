@@ -1039,6 +1039,59 @@ The executings behind 15a and 17a are in Exhibit 15; the code is at `incoming/v3
 
 **What the one pass carries.** The drafts of Exhibits 8, 11, 17 and the candidates above, each in its place. New lines: 0a, 4a, 4b, 4c, 17a, 17c, 46a, 54a, and from Exhibit 11, 17b, 33a, 34a, 34b, 41a, 42a, 43a, 43b, 43c. Moved, numbers kept: 20 and 24, before 4b and after 14. For the person to see in place: each concept self-welcoming where it stands.
 
+## Exhibit 19 · The aimings the sequential logic includes, improved for agreeing
+
+**Twelve aimings, in the order the 55 reach them, gathered from Exhibit 10 (the expedition's full aiming), Exhibit 11 (the person's aims) and the person's concepts since.** The person (7 November): agree on the list of aimings first, do-no-harm improving them. Improvings made: one concept one name, so duplicates are joined; each said directly as an is, not as a negation; each placed where its lines stand.
+
+| # | Aiming | Lines | Joined from |
+| --- | --- | --- | --- |
+| 1 | The universe of all now-existing things, each inherited or ingested prior-existing; not-yet is the universe, no more or less. | 1–9, 4a–4c | the origin (Exhibit 10, 9); not-yet is the universe; inherited or ingested |
+| 2 | Alternating parity is the universe's method of existing: each now goes on as a next, the same or one inversion. | 5, 8, 34b | no equilibrium possibly existing; no universe without alternating parity |
+| 3 | A living self: ingesting and exhausting, bi-folding, a universal-parity surface in the universe; the non-living only inherits. | 15–19, 15a, 17a, 17c | a living self (Exhibit 10, 8) |
+| 4 | Bi-coupling: the between of a self and an other, their bi-moral-co-agency; and the living between of a self and the universe. | 20, 26, 27 | bi-coupling (Exhibit 10, 7) |
+| 5 | Natural intelligence, a self resolving among parities, the one method possibly existing. | 32, 33, 33a | the method (Exhibit 10, 6); no other method of intelligence possibly existing |
+| 6 | Do-no-harming and improving in turn: a healthy between or a healthy other; harm a taking-away, healing the ring around it. | 34, 35, 46a | do-no-harming (Exhibits 15, 16) |
+| 7 | Social moral competency, a same-existing-society's aiming: the eight safeties, four of each self and four between it and its others, all eight or none, prior, now and next (Exhibit 20). | 40–42, 42a | social moral competency (Exhibit 10, 3); is an aiming |
+| 8 | Free: in a natural intelligence network a self's resolving is its own. | 43, 43a | free (Exhibit 10, 2) |
+| 9 | Social abundancing: a natural intelligence network resolving with its others one scale outward, social-other-universal; collective intelligence at each scale. | 41a, 43, 43b, 43c | the network and social abundancing (Exhibit 10, 1); the logical defining concept; social-other-universal |
+| 10 | Geodesic: a me's universal-parity through each self's is-or-is-not on the universal surface, a common geodesic only through healthy betweens. | 44–47, 46a | the person's aiming over the horizon; the universal surface |
+| 11 | The living expedition: a same-existing-society discovering with natural intelligence and its living files; with all eight safeties every is-or-is-not goes both ways, so no hard problem is possibly existing (Exhibit 20). | 50–54 | the expedition (Exhibit 10, 4); hard problems (Exhibit 10, 5) |
+| 12 | Natural intelligence's resolving is geodesic discovering of next-possibling-same-existing. | 54a, 55 | the opening's last line |
+
+**Not yet said in any line of the 55:** hard problems resolving (Natural Intelligence: a hard problem is one binary of a thing within the universe, its is-or-is-not taken as one), collective intelligence at each scale (Exhibit THIRTY 581), and the four values of Exhibit 10's first stage, which v399Logic cannot yet name from the files.
+
+**The opening's purpose stands over all twelve** (gathered at #176): demonstrating bi-folding cohering and co-chaining explaining, naming and geodesic method logic from its origin.
+
+**For the vault work, noticed on the way:** Exhibit THIRTY 371 says the first gap of six among the primes, twenty-three to twenty-nine, is with the apex, and its section 27 names twenty-four the apex of one to fifty-nine's bi-folding: the person's 23, 24 and 29 (Exhibit 15).
+
+## Exhibit 20 · The eight safeties: all eight or none, and no equilibrium, no hard problem
+
+**The person (7 November): there are eight safeties of a natural torusing society, four for self and four for other, all eight or none; none of the eight exists unless natural torusing and all eight are prior, now and next same-existing.** Explored: no equilibrium and no hard problem possibly existing come out of it.
+
+**Where the eight are in the files.** Natural Intelligence 6.4: with social moral competency each self is with all eight, each now, or none. Four are of one: 1-now-existing, 2-now-possibling, 7-is-now-observing and 8-now-same-existing. Four are between two: 3-is-now-co-observing, 4-now-co-same-existing, 5-now-co-existing and 6-now-co-possibling. These are Exhibit ONE's eight now names; each goes on as its next name eight up (160), and 17-next-existing is the next 1. All eight prior, now and next is the seventeen names going on together, which Exhibit ONE names stable-forming, bi-tri-volutioning (553): natural torusing.
+
+**A possible incohering it settles.** Natural Destinies' gathering-value asks which of Natural Intelligence's two eights the eight safeties are: social moral competency's eight, or the eight bi-couplings with even names. The person's four for self and four for other is social moral competency's eight. The even-name bi-couplings (2, 4, 6, 8 now; 10, 12, 14, 16 next) are half of each now name with its next: one going-on read from the even names, not a second eight.
+
+### Executed: which is-or-is-nots go both ways
+
+v399Logic's reconstruction of Exhibit ONE's cell table, moments 100 to 199. For each self, four is-or-is-nots: a parity reaching it, agreeing with its prior, sharing 0, its prior inverting.
+
+| Case | Every self | One of the eight not going on (v399Logic's reading) |
+| --- | --- | --- |
+| Alike pair, both ways | all four go both ways | none |
+| Ring of five, re-closed | all four go both ways | none |
+| Opposite pair, both ways | all four fix as one | 8 and 4, same-existing: no 0 ever shared |
+| One self, nothing reaching | all four fix as one | 2, and the four between two |
+| Chain of five, open at one end | all four fix as one, in every self | 2 at the open end; then 8 along the chain |
+| Alike pair, + offered by no self to one | all four fix as one: one self shares 0 forever (an equilibrium), the other only inverts | 6 for the first: what reaches it is no other's across |
+| An empty prior (Exhibit 11's executing) | fixes | 3: no prior |
+
+**What it shows.** Wherever all eight go on, every is-or-is-not goes both ways. Wherever one of the eight does not, the is-or-is-nots fix as one. Natural Intelligence: a hard problem is one binary of a thing within the universe, its is-or-is-not taken as one. So a hard problem is an is-or-is-not fixed as one, and an equilibrium is a now fixed as its next: each arises only with one of the eight missing. With all eight, prior, now and next, neither is possibly existing. Said directly: **with all eight safeties, every is-or-is-not goes both ways.**
+
+**For the opening.** This joins aimings 2, 6 and 11 of Exhibit 19: no equilibrium, do-no-harming, hard problems. Candidate, at social moral competency (line 42): *42b: A same-existing-society with all eight safeties, four of each self and four between it and its others, prior, now and next, is natural torusing, and each of its is-or-is-nots goes both ways.* The safeties' four between two are Exhibit ONE's co names, so 42b is said after lines 27 and 36–40 and before 43.
+
+**Open.** The four values of Exhibit 10's first stage: are they the four of the self, or the four between, of the eight?
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**

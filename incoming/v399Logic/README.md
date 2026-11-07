@@ -4,10 +4,10 @@ Incoming · v399Logic
 
 Relied on by nothing. v399Logic works on Natural Intelligence's opening, Exhibit ONE and Exhibit THIRTY, and their gathering-values: item 3 of the person's order of the work. Slices 1 to 5 entered through #169, #176, #177, #182 and #187.
 
-**7 November 2026: the report brought up to date.** v399Logic resumed on 6 November in a new session. The earlier working copy was not reachable, so the report was rebuilt from this folder's pass-1 copy, the merged pull requests and the transcript, and the work went on with the person (Exhibits 13 to 18). No sentence of the 55 has been re-said; nothing here is gathered yet. The person works in the transcript, and the gathering comes from it.
+**7 November 2026: the report brought up to date.** v399Logic resumed on 6 November in a new session. The earlier working copy was not reachable, so the report was rebuilt from this folder's pass-1 copy, the merged pull requests and the transcript, and the work went on with the person (Exhibits 13 to 20). No sentence of the 55 has been re-said; nothing here is gathered yet. The person works in the transcript, and the gathering comes from it.
 
 - `v399Logic_Report.md`: the report, exported from the working doc. Status says which parts are copied word for word and which are recovered. It is a working copy: its own prose is not read for released words; what is gathered from it is.
-- `executings/`: two short programs, v399Logic's reconstruction of Exhibit ONE v391's one-sharing cell table (its lines 798 to 811), not Exhibit ONE's own code. One runs an alike and an opposite pair, one a ring of five with one self removed.
+- `executings/`: two short programs, v399Logic's reconstruction of Exhibit ONE v391's one-sharing cell table (its lines 798 to 811), not Exhibit ONE's own code. One runs an alike and an opposite pair, one a ring of five with one self removed, one the eight safeties' cases.
 - `v399Logic_slice.md`, `v399Logic_slice_2.md`, the `gathered` and `reading` files: slices 1 and 2, as before.
 
 **Since slice 5, in the report** (each the person's suggestion, tested against Exhibit ONE; none has authority):
@@ -19,6 +19,8 @@ Relied on by nothing. v399Logic works on Natural Intelligence's opening, Exhibit
 - **Inherited or ingested** (15): all now-existing is inherited (along) or ingested (across) prior-existing. Non-living things only inherit; ingesting and exhausting, bi-folding, is living. In Exhibit ONE's cell table only an agreeing parity goes into a self; the rest pass through, alike to nothing (its line 811).
 - **Step 0 of the revised plan** (Exhibit 17, and Exhibit 5's order): inheriting and ingesting, then other-parity, then living, then me, then aiming. Seven drafts (4a, 4b, 4c, 24 moved, 15, 15a, 17a); six pass, 4c still-possibling on Exhibit ONE's openings. If they entered, lines 5, 15, 16, 17, 18 and 24 would hold. Waiting for the person's yes.
 - **Every concern resolved** (Exhibit 18): each of the 47 resolving requirements and each exhibit concern has a resolution, by Exhibit ONE, the person's concepts or a tested candidate. Two revise earlier drafts: same-existing (of a whole) and inheriting (of its priors) are two concepts by scale; Exhibit ONE's openings are its executings' openings (its line 944), so the prior-existing test passes. The person re-says the 55 later in one pass, top to bottom.
+- **The aimings** (Exhibit 19): twelve, in the order the 55 reach them, for agreeing with the person.
+- **The eight safeties** (Exhibit 20): Natural Intelligence 6.4's eight, four of one and four between two, Exhibit ONE's now names 1 to 8, all eight or none, prior, now and next. Executed: where all eight go on every is-or-is-not goes both ways; where one does not, they fix as one, an equilibrium or a hard problem. Settles Natural Destinies' possible incohering on which eight. Candidate 42b.
 - **Harm** (15, 16): a stable form ingressing on living of its own scale; harm at the between and harm at the other; a self as a universal-parity surface, harm as a dead area, healing as the ring tunneling around it. Executed: an area left open spreads until no self shares a 0; a ring re-closed keeps the right spiral.
 
 For v399mgr:
