@@ -1157,6 +1157,21 @@ In Exhibit ONE's four binary digits, each self-name and its between-name differ 
 
 *At each scale* came from Exhibit THIRTY 581 (“human and of each scale”); Natural Intelligence says it without: a self following betweens, a chain goes on, each link a between of two selves; that chain is collective intelligence, a natural intelligence network's living. It dissolves. Re-said with the person: **collective intelligence is moral cooperation, the eight securities offered by a society; each self added to a co-chaining widens the zone of co-competencing on the surface.** Exhibit ONE's 5-now-co-existing is co-competencing. The person: this zone is the vault of the recent vault session; the omega gathering and apexing zone widens the podaling range 24 across in both directions, spanning the 48 between self-bounding 5 and 53. For the vault work.
 
+### The eight in living society's words
+
+**The files already name the eight: four a self reaches from within, and the same four reached with a surface between selves** (Natural Societies 5.5, citing Natural Intelligence's eight; the four between in Natural Societies 1.3, Natural Human Society 3.2, Natural Intelligence Corus and Exhibit THIRTY 576). Natural Societies: one changing and changing back across its sides, not eight parts a self assembles, whole or none.
+
+| Of the self, from within | Between selves, with the society | In living words |
+| --- | --- | --- |
+| **Identity** | **Undiscoverable identity** | Who I am is my own; no one discovers it from outside, and I arrive at my own pace with no gate to wait by. |
+| **Security** | **Inviolable safety** | What is mine is not reached into; a coupling holds whole wherever someone trusts it, a patient, a passenger, a worker. |
+| **Trust** | **Unmistakeable reputation** | I can rely on what I observe of an other; sharing value leaves its trace on everything it touches, and no one can fake it. |
+| **Freedom from capture** | **Uncapturable abundance** | No one fixes me from beside or drains me to a side; value arises with each coupling, lives with its between, and grows as it is shared. |
+
+The rows pair each inward value with the outward value it reaches: v399Logic's reading of where each meets the other, not yet said in the files. Which of Exhibit ONE's eight names each word is, the files do not yet say.
+
+**Concerns for the gathering sessions.** Natural Naming folds *privacy, trust and security* into one nothing with three substrates, where Natural Societies keeps trust and security as two of the four. Natural Intelligence Corus holds a second list of four (intelligence, opportunity, reputation, safety), already marked as a possible incohering at its gathering-value.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
