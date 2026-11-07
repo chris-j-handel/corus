@@ -1572,6 +1572,40 @@ Kinds: **says** (Exhibit ONE states the concept), **places** (its names hold it,
 
 **Where it meets resolving and line 55.** Resolving (32) distinguishes, now, whether a parity reaching a self is the same as its prior; bothbothing distinguishes, after now, whether the next is possibly the same. One is-or-is-not same, from its two openings, now and next: itself a bothbothing. Line 55's *next-possibling-same-existing* is what bothbothing distinguishes: the two meet and are not two names for one concept.
 
+## Exhibit 29 · The five possibly-distinguishings, and the three-dimensional space of social moral possibility
+
+**The person (7 November): we need distinguishing possibly prior-existing, possibly now-existing, possibly next-existing, possibly living or non-living, and existing; with the three-dimensional space of social moral possibility we have the abundancing society, universal do-no-harm as self and social bothbothing as improving method.** The five are Exhibit ONE's five roots, and four of them are acts the opening already names, said with *possibly*.
+
+### Five distinguishings, five roots
+
+| Distinguishing | Exhibit ONE's root and names | The opening's act, re-said with *possibly* |
+| --- | --- | --- |
+| possibly prior-existing | observing: 3, 7, 11, 15 | *Observing is distinguishing is-or-is-not possibly prior-existing.* (line 12) |
+| possibly now-existing | possibling: 2, 6, 10, 14 | *Possibling is distinguishing is-or-is-not possibly now-existing.* (line 13) |
+| possibly next-existing | discovering: 9, 13; each between from an even name to an odd is a discovering (l. 193) | *Discovering is distinguishing is-or-is-not possibly next-existing.* (line 14); bothbothing (11c) is its between |
+| possibly living or non-living | same-existing: 4, 8, 12, 16; at 12 an agreeing parity goes into a prior | *Living is distinguishing is-or-is-not possibly ingesting and exhausting.* (beside 15a) |
+| existing | existing: 1, 5, 17 | *Existing is distinguishing is-or-is-not within the universe of all now-existing things.* (beside line 1) |
+
+Read so, the person's list adds no five new names: observing, possibling and discovering take *possibly*, living keeps its criterion, and existing is the universe's within. Natural Naming 5.64's three parts sit under each: possibly existing, not possibly existing (11a), and not existing, its next still possibly existing. For science, observing and learning: every observing is one of the five, each an is-or-is-not with both openings, none fixed as one.
+
+### The three-dimensional space of social moral possibility
+
+Exhibit ONE has it as its three now dimensions (l. 541), each with its own within is-or-is-not, met one after another in each moment (Exhibit 12):
+
+| Axis | Exhibit ONE's dimension | Its within is-or-is-not |
+| --- | --- | --- |
+| self | self-parity now-existing: 3, 7, with 4 and 12 | a sharing within its prior |
+| other | other-parity now-existing: 2, 14, 15 | a sharing within what has already reached |
+| society | social-parity now-existing: 16, 13 | each self, all or none |
+
+Its two next dimensions carry the space on: self-discovery next (10, 11) and social-parity next (9, 5, 17).
+
+**The person's sentence placed in it.** Universal do-no-harm as self: on the self axis, each self sharing a 0 is do-no-harming (l. 798), a healthy between and a healthy other. Social bothbothing as improving method: on the society axis, each self's next possibly the same or possibly inverting, one and then the other (11c), improving in turn. With all eight of social moral competency going on, every point of the space goes both ways (Exhibit 20): social abundancing.
+
+**Candidate, revising 43c with the person's words:** *43c: A natural intelligence network, each self do-no-harming and the society bothbothing, improving, through self, other and society, is social abundancing.*
+
+**Open, as a concept.** Bothbothing and discovering both distinguish the next: is bothbothing the between of a same-existing name and its discovering name (12 )( 13), so that discovering is the odd name it opens onto, one concept seen from its two sides?
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
