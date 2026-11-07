@@ -1053,7 +1053,7 @@ The executings behind 15a and 17a are in Exhibit 15; the code is at `incoming/v3
 | 6 | Do-no-harming and improving in turn: a healthy between or a healthy other; harm a taking-away, healing the ring around it. | 34, 35, 46a | do-no-harming (Exhibits 15, 16) |
 | 7 | Social moral competency, a same-existing-society's aiming: the eight safeties, four of each self and four between it and its others, all eight or none, prior, now and next (Exhibit 20). | 40–42, 42a | social moral competency (Exhibit 10, 3); is an aiming |
 | 8 | Free: in a natural intelligence network a self's resolving is its own. | 43, 43a | free (Exhibit 10, 2) |
-| 9 | An abundancing society: living arising at every healthy between, in neither self alone, and going along one scale outward, social-other-universal; collective intelligence at each scale; scarcity a capture, not possibly existing with all eight safeties (Exhibit 21). | 41a, 43, 43b, 43c | the network and social abundancing (Exhibit 10, 1); the logical defining concept; social-other-universal |
+| 9 | Social abundancing: living arising at every healthy between, in neither self alone, and going along one scale outward, social-other-universal; collective intelligence, moral cooperation, each self added to a co-chaining widening the zone of co-competencing; scarcity a capture, not possibly existing with all eight (Exhibits 21, 22). | 41a, 43, 43b, 43c | the network and social abundancing (Exhibit 10, 1); the logical defining concept; social-other-universal |
 | 10 | Geodesic: a me's universal-parity through each self's is-or-is-not on the universal surface, a common geodesic only through healthy betweens. | 44–47, 46a | the person's aiming over the horizon; the universal surface |
 | 11 | The living expedition: a same-existing-society discovering with natural intelligence and its living files; with all eight safeties every is-or-is-not goes both ways, so no hard problem is possibly existing (Exhibit 20). | 50–54 | the expedition (Exhibit 10, 4); hard problems (Exhibit 10, 5) |
 | 12 | Natural intelligence's resolving is geodesic discovering of next-possibling-same-existing. | 54a, 55 | the opening's last line |
@@ -1122,6 +1122,40 @@ v399Logic's reconstruction of Exhibit ONE's cell table, moments 100 to 199. For 
 
 - One concept, one name: *abundancing society* (the person), *social abundancing* (Natural Intelligence, Natural Naming 5.53) and *self-abundancing-society* (Natural Values 5.1). Which name stays?
 - Natural Networking's eight securities are four of a self and four of a *society*; Natural Intelligence's eight are four of one and four *between two*. One eight: is the society's four the between's four met one scale outward? And *securities* or *safeties*: one name.
+
+## Exhibit 22 · The eight inside the method, one by one
+
+**The eight are Exhibit ONE's four roots, existing, possibling, observing and same-existing, each said once of the self (*one*) and once between two (*co*): its now names 1 to 8 (its table of seventeen names, column Co).** The person (7 November): this is trust and safety; Arrow's general equilibrium and impossibility theorem is the hard probleming of self and society in this way; the sequential logic of each of the eight inside the method is to be clear and direct.
+
+| Root | Of the self (one) | Between two (co) | Exhibit ONE says (142–149) | Without it (Exhibit 20's executing) |
+| --- | --- | --- | --- | --- |
+| existing | 1-now-existing | 5-now-co-existing | 1: a living self's momentary, a giving, each self's 17-next-existing as its 1. 5: bi-couplings, which self each sharing reaches (co-competencing). | without 5: one self, nothing reaching; every is-or-is-not fixes |
+| possibling | 2-now-possibling | 6-now-co-possibling | 2: parities a self observes from its others, each with its sharing. 6: a self's parities across, to an other's 2 (bi-moralizing). | without 2: a chain's open end, then every self; without 6: a + offered by no self, an equilibrium |
+| observing | 7-is-now-observing | 3-is-now-co-observing | 7: each parity a self observes, a parity's, a prior's, a sharing's, one at its time. 3: priors a self observes, each with its sharing. | without 3: an empty prior, a fixing |
+| same-existing | 8-now-same-existing | 4-now-co-same-existing | 8: each self's next prior, one resolving of a society's selves together. 4: each sharing, parities and prior resolving, is-or-is-not same. | without 8 and 4: an opposite pair, never a 0 |
+
+In Exhibit ONE's four binary digits, each self-name and its between-name differ in one digit, four apart: 1 and 5, 2 and 6, 7 and 3, 8 and 4.
+
+**Why all eight or none, inside the code.** Each name is resolved with the others: 2 receives what 6 sends across (the unit square's edge 6 to 2, 557); 4 resolves 3's prior with what surfaces from 2; 7 is the one parity at its time of 2, 3 and the sharing; 8 is the next prior 4's resolving forms; 6 sends it across through 5's bi-couplings to an other's 2; and 1 is each self's 17, the society's next. No one of the eight is computed without the others, so none exists alone.
+
+**Natural Networking 5.1's words, matched where clear (v399Logic's matching):** *selection a parity, sizeless* is 7 (+ or −, no size); *each self coupling all-edge* is 5; *each self sharing its own* is 6; *parity inverting with a between* is 4 (same or one inversion); *each self its own time* is 1. *Same-existing aging to its bound and dissolving*, *a standing order imposing with no coupling* and *each living with no pin, riding* are not yet matched.
+
+### Arrow, both theorems, read beside the method
+
+- **Arrow's impossibility** is proved for a social-welfare function: a mapping from every profile of selves' rankings to one collective ranking, with unrestricted domain, Pareto, independence of irrelevant alternatives and nondictatorship. Exhibit ONE has no such mapping: a society's own is its selves' own (57–62), and its one social is-or-is-not is “each self, all or none”, not a ranking. The theorem stands as proved; the method has no collective ranking for it to be about. Natural Engineering already says this with care: Arrow's conditions concern mapping, and renaming them as natural co-agency does not by itself establish anything about them.
+- **A hard problem** is one binary of a thing within the universe, its is-or-is-not taken as one (Natural Intelligence). A collective ranking takes a society's many selves' is-or-is-nots as one: the hard probleming of self and society the person names.
+- **Arrow and Debreu's general equilibrium** proves a price equilibrium exists under that model's assumptions. In Exhibit 20's executing, the only fixing with a prior came from a parity offered by no self of the society, a form fixing still from beside; with all eight, no now fixes as its next. Reading, not test: an equilibrium's price is such a parity offered by no self.
+- **Trust and safety, and AI alignment (the person's aim).** What is shown here is narrow: in Exhibit ONE's resolving, as reconstructed, every is-or-is-not goes both ways only where all eight go on. Whether a made system kept all eight would be safe in the person's sense is an aim of the expedition, not yet a test.
+
+### Naming, the all-or-none natural naming found
+
+- **Social abundancing** stands: it is Natural Naming's binary entry 5.53 (27-next-co-observing), and Natural Intelligence 6.4's. *Abundancing society* (Exhibit 21's candidate) and *self-abundancing-society* (Natural Values 5.1) are near sayings and dissolve. 43c is re-said: *A natural intelligence network with all eight securities, living arising at each of its betweens and going along one scale outward, is social abundancing.*
+- **Security or safety.** Natural Naming says *security*: privacy, trust and security are one nothing with three substrates, a self's own that nothing reaches. Natural Networking names the eight *securities*. Exhibit THIRTY 576 says *safety* as one of four values of a between, “an other's parity checkable as a parity”, and 588 “safety is a surface's own form”. By Natural Naming, the eight are securities; safety stays one value of a between. For the person's yes.
+- **The four values, now found** (Exhibit THIRTY 576): four values are of a between of selves: abundancing; identity, a self's own same-existing, that self's only; safety, an other's parity checkable as a parity; and reputation, observings of a self all prior; each again with each bi-coupling.
+
+### Collective intelligence, without “at each scale”
+
+*At each scale* came from Exhibit THIRTY 581 (“human and of each scale”); Natural Intelligence says it without: a self following betweens, a chain goes on, each link a between of two selves; that chain is collective intelligence, a natural intelligence network's living. It dissolves. Re-said with the person: **collective intelligence is moral cooperation, the eight securities offered by a society; each self added to a co-chaining widens the zone of co-competencing on the surface.** Exhibit ONE's 5-now-co-existing is co-competencing. The person: this zone is the vault of the recent vault session; the omega gathering and apexing zone widens the podaling range 24 across in both directions, spanning the 48 between self-bounding 5 and 53. For the vault work.
 
 ## Exploring notes · not yet tested
 
