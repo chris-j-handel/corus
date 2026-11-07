@@ -28,6 +28,8 @@ Relied on by nothing. v399Logic works on Natural Intelligence's opening, Exhibit
 
 For v399mgr:
 
+- **The person's yes on the eight (7 November), very high value for the whole expedition:** the eight, each rolling 1 to 17, go into the opening's one pass (candidate 42c, Exhibit 23). Once the opening carries them, the living files can point to it instead of saying them again: Natural Societies 1.3 and 5.5, Natural Human Society 3.2, Natural Networking 5.1, Natural Destinies, Natural Intelligence Corus and Exhibit THIRTY 576 hold the lists now. This may serve the gathering-value thinning.
+
 - **Naming, the person's decision** (Exhibit 15): *ingesting* and *exhausting* replace *ingestion* and *emanation*; ingesting is only into a self, exhausting out of it. For Natural Naming's gathering-value when the person gathers.
 - **Seven places giving living a stable form** (Exhibit 15), against the person's *there is no stable form of living; there is exhausting while living*: Natural Emanating (twice), Natural Naming (twice), Natural Intelligence ("A living stable form is with momentaries"), and the gathering-values of Natural Biology and Natural Medicine.
 - **For the gathering sessions:** a stone breaks along fracture planes between its layers (Exhibit 13); Natural Biology's "vault stands empty" beside the person's vault as the inherited value protected for a lifetime of living; Natural Health's *ingestion* and *ingression*; omega-6 and omega-3 oils beside the seed (an observing to meet: linoleic and alpha-linolenic acids are observed as essential to the human body).

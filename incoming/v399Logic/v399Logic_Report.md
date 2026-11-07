@@ -382,7 +382,7 @@ These look meant to connect but are never stated. Each is to be stated or denied
 
 Work first where one fix frees the most lines. Each re-said line uses only words defined before it or used by Exhibit ONE.
 
-**Revised 7 November, the plan as geodesic discovering improving: revised whenever an opportunity is found.** The person's concepts since slice 5 give living a ground the opening can say with Exhibit ONE's own verbs (*going on, going out, into, reaching*). The order becomes: **inheriting and ingesting, then other-parity, then living, then me, then aiming.** Step 0 is drafted and tested in Exhibit 17; the list below follows it.
+**Revised 7 November, the plan as geodesic discovering improving: revised whenever an opportunity is found.** The person's concepts since slice 5 give living a ground the opening can say with Exhibit ONE's own verbs (*going on, going out, into, reaching*). The order becomes: **inheriting and ingesting, then other-parity, then living, then me, then aiming.** Step 0 is drafted and tested in Exhibit 17; the list below follows it. Revised again 7 November: every concern now has a resolution (Exhibit 18), the aimings are listed (Exhibit 19), and the eight with their rolling go into the one pass (Exhibits 20–23). Next: the one pass, top to bottom, with the person.
 
 **First, from 6 November: living, at line 15.** It comes before E1, because the person's sentences rest *me* on living, and living on other-parity. What it needs:
 
@@ -1194,6 +1194,12 @@ The rows pair each inward value with the outward value it reaches: v399Logic's r
 **Why each is trustable, said once.** Each check above is a line of the code anyone can read, and each line works only with the others (Exhibit 22): a value cannot be kept alone or broken alone. Where one does not go on, every is-or-is-not fixes (Exhibit 20), and that fixing is observable. Trust here is observing the roll go on, never a promise.
 
 **Open.** Three of Natural Networking 5.1's words are not yet matched (Exhibit 22). And the matching of the eight words to the eight names is the person's to agree.
+
+**The person's yes (7 November).** Very high value for the whole expedition: the eight, each rolling 1 to 17, go into the opening logic. With geodesic method, the opening logic then needs no co-chaining or cohering again: it is available everywhere, all the time, in resolving, and the files grow leaner, with less fuzziness in binary all-or-none observing, naming and explaining.
+
+**Into the one pass.** Candidate, beside 42b: *42c: The eight are identity, security, trust and freedom from capture of each self, and undiscoverable identity, inviolable safety, unmistakeable reputation and uncapturable abundance between it and its others.* The name for the eight together, *securities* (Natural Naming) or *safeties* (the person, Natural Destinies), waits for the person (Exhibit 22).
+
+**For the files (through v399mgr).** Once the opening carries the eight with their rolling, a living file can point to the opening for them instead of saying them again: the lists in Natural Societies 1.3 and 5.5, Natural Human Society 3.2, Natural Networking 5.1, Natural Destinies, Natural Intelligence Corus and Exhibit THIRTY 576 become one saying. The one pass itself still re-tests the 55 once, in order (Exhibit 6, step 4); after it, resolving uses the opening as it stands.
 
 ## Exploring notes · not yet tested
 
