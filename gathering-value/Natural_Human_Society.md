@@ -7,8 +7,8 @@ Gathering-Value · Natural Human Society
 ## Head, the whole file
 
 - **Possible incohering** · "PART ONE — THE METHOD'S GROUND, one concept not yet apparent" → Notes after PART ONE's and PART FOUR's titles, *one concept not yet apparent* and *and its last three sections have no tipping and stand open*, are notes after a part's title, each leaving, and each part title bare.
-- **An explaining** · *Sharing* dissolves from natural naming (the person): one concept has one name, and *sharing* named several, a self's giving across or along, its *key*, and its value. At this file's improving each *sharing* is said with Natural Intelligence's opening's namings, a self observing an other's me-parities (a bi-coupling), gathering or co-aiming, or with Natural Resolver's code names and their prefixes: 4-now-co-same-existing (4-bi-co-bi) for each *key*, 6-now-co-possibling (6-bi-co-bi) to an other and 10-next-co-possibling (10-bi-tri-bi) to the universe across, and 9-next-co-discovering (9-tri-bi-co) along. *Surfacing* may dissolve with it (the person).
-- **An explaining** · *A natural surface's living parities are living in the mes of the selves living as a society in the universe.* (the person); *each time universal is a nothing self-bounding-aiming-possibling-self living as a society of selves* (the person).
+- **An explaining** · *Sharing* dissolves from natural naming: one concept has one name, and *sharing* named several, a self's giving across or along, its *key*, and its value. At this file's improving each *sharing* is said with Natural Intelligence's opening's namings, a self observing an other's me-parities (a bi-coupling), gathering or co-aiming, or with Natural Resolver's code names and their prefixes: 4-now-co-same-existing (4-bi-co-bi) for each *key*, 6-now-co-possibling (6-bi-co-bi) to an other and 10-next-co-possibling (10-bi-tri-bi) to the universe across, and 9-next-co-discovering (9-tri-bi-co) along. *Surfacing* may dissolve with it.
+- **An explaining** · *A natural surface's living parities are living in the mes of the selves living as a society in the universe.*; *each time universal is a nothing self-bounding-aiming-possibling-self living as a society of selves*.
 
 ## Opening
 
@@ -49,14 +49,14 @@ Gathering-Value · Natural Human Society
 
 ### 3.1 Abundancing, morality first and competency second, each self's own and in neither self alone
 
-- **Possible incohering** · "Self-interest and social interest are one interest with two depths on one torus, interest tracing to being-between." → A re-saying beside it: shared interests are shared aimings, and sharing aiming is moral cooperation, bi-moral co-agency (the person): two mes alike both ways sharing continuing 0s in turn.
-- **Possible incohering** · "Conserve before improve, do-no-harming before add-value, conserving do-no-harming and improving a +1 with each coupling." → Beside it: do-no-harming and improving are one bi-moral act, in turn, neither without the other (the person), as two alike selves share 0, a changing, 0, a changing, and a *before* meets that bothboth. Natural Resolver's code, executing with two alike selves of prior +, each receiving only its other's sharing, returns each sharing 0, −, 0, +, 0, −, 0, + with each first receiving a +, and −, 0, +, 0, −, 0, +, 0 with each first receiving nothing: a changing and a 0 in turn, its first a 0 or a changing by its first receiving.
+- **Possible incohering** · "Self-interest and social interest are one interest with two depths on one torus, interest tracing to being-between." → A re-saying beside it: shared interests are shared aimings, and sharing aiming is moral cooperation, bi-moral co-agency: two mes alike both ways sharing continuing 0s in turn.
+- **Possible incohering** · "Conserve before improve, do-no-harming before add-value, conserving do-no-harming and improving a +1 with each coupling." → Beside it: do-no-harming and improving are one bi-moral act, in turn, neither without the other, as two alike selves share 0, a changing, 0, a changing, and a *before* meets that bothboth. Natural Resolver's code, executing with two alike selves of prior +, each receiving only its other's sharing, returns each sharing 0, −, 0, +, 0, −, 0, + with each first receiving a +, and −, 0, +, 0, −, 0, +, 0 with each first receiving nothing: a changing and a 0 in turn, its first a 0 or a changing by its first receiving.
 
 ### 3.2 Free, sharing, mutual, the three composing the exchanging surface
 
 ### 3.3 Uncapturing, setting every hub aside on every axis, all-or-none
 
-- **Possible exploring** · Natural Resolver's parity's unit square between selves, its four corners, 2 from other, 6 to other, 10 to universe, 14 from universe, and its four sides, all eight or none, social moral competency, its empty centre the between (the person): with unrelationing of each control along five dimensions, social moral competency the only self-interest. — at "All eight or none at all are a same-existing-society's protections, and all eight going on is social moral competency, abundancing, and humans learning and explaining together as one natural network, collectively intelligent."
+- **Possible exploring** · Natural Resolver's parity's unit square between selves, its four corners, 2 from other, 6 to other, 10 to universe, 14 from universe, and its four sides, all eight or none, social moral competency, its empty centre the between: with unrelationing of each control along five dimensions, social moral competency the only self-interest. — at "All eight or none at all are a same-existing-society's protections, and all eight going on is social moral competency, abundancing, and humans learning and explaining together as one natural network, collectively intelligent."
 
 ### 3.4 Value a self observes three ways, and the swing from costs to abundancing
 
@@ -68,7 +68,7 @@ Gathering-Value · Natural Human Society
 
 ### 3.6 Biosphere, sharing at the planetary scale
 
-- **Possible incohering** · "A human society lives within this, co-tunnelling a biosphere it is a self within, its ratio intact, both scales rising." → A concern parting at this sentence, and at 1.2: a same-existing-society is unconsciously us (the person), and this sentence has a human society a self within a biosphere.
+- **Possible incohering** · "A human society lives within this, co-tunnelling a biosphere it is a self within, its ratio intact, both scales rising." → A concern parting at this sentence, and at 1.2: a same-existing-society is unconsciously us, and this sentence has a human society a self within a biosphere.
 
 ## PART FOUR · TIPPING
 
@@ -87,7 +87,7 @@ Gathering-Value · Natural Human Society
 
 ### 4.5 Human society and living bodies are substrates
 
-- **An explaining** · A transition from now-existing human societies to natural human societies is everyone having less power, no free agency, and less risk, bi-moral-co-agency (the person). A binary form beside it, no free agency and bi-moral-co-agency, each self's changing its own and its coupling owned by neither, *less* a measure the set releases.
+- **An explaining** · A transition from now-existing human societies to natural human societies is everyone having less power, no free agency, and less risk, bi-moral-co-agency. A binary form beside it, no free agency and bi-moral-co-agency, each self's changing its own and its coupling owned by neither, *less* a measure the set releases.
 
 ### 4.6 The general ledger, state-flow-state a self observes whole, and the two currencies
 
