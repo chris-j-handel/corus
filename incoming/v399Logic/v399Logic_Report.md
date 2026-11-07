@@ -1612,6 +1612,27 @@ Its two next dimensions carry the space on: self-discovery next (10, 11) and soc
 
 **For the gathering sessions (through v399mgr).** Natural Naming 4.15 names *bothbothing*; the person: the word is an invented one, and discovering with the names 1 to 17 says it. Its place in Natural Naming is for the next gathering.
 
+## Exhibit 30 · The shell: a routing of the bold concepts, each clustering ending on its aiming
+
+**Twelve clusterings, each a routing of bold concepts in self-welcoming order, each ending on an aiming in bold capitals.** Each concept comes after every concept it needs. Dissolved names are left out (*passing over*, *passing through*, *bothbothing*, *universal surface*, *moral value*); *self-other consciousness* waits for its saying.
+
+1. universe → prior-existing → inherited → same-existing → next-existing → sequence → moment → momentarying → **ALTERNATING PARITY**
+2. universal set → is-or-is-not → possibly existing → observing → possibling → discovering → equilibrium → hard problem → **NOT POSSIBLY EXISTING**
+3. other → other-parity → universal-parity → ingesting → exhausting → living → non-living → stable form → artifact → natural torusing → self → me → **A LIVING SELF**
+4. self-parity → aiming → living parity → me-parity → bi-coupling → between → **BI-MORAL-CO-COMPETENCING**
+5. resolving → floating neutralling → a 0, a between going along → **NATURAL INTELLIGENCE**
+6. do-no-harming → improving → harm → ingressing → healing → **DO-NO-HARMING AND IMPROVING IN TURN**
+7. co-possibling → co-intelligencing → gathering → co-aiming → same-existing-society → identity, security, trust, freedom from capture → undiscoverable identity, inviolable safety, unmistakeable reputation, uncapturable abundance → **SOCIAL MORAL COMPETENCY**
+8. natural intelligence network → **FREE**
+9. co-competencing → collective intelligence → scarcity → **SOCIAL ABUNDANCING**
+10. co-chaining → natural torusing surface → geodesic → **COMMON GEODESIC**
+11. stable-forming → natural resolving → living file → natural engineering → Natural Network surface → natural explaining → **LIVING EXPEDITION**
+12. → **NEXT-POSSIBLING-SAME-EXISTING**
+
+**How the ends roll.** Each ending is the next clustering's ground: alternating parity is what distinguishing distinguishes; not possibly existing bounds living; a living self bi-couples; the between is where resolving's 0 goes along; natural intelligence does no harm and improves; that, all eight and together, is social moral competency; a network of it is free, abundant, and geodesic in common; a living expedition discovers with it; and its resolving is the last line, each self's 1 again.
+
+**Against Exhibit ONE's four-cyclings (Exhibit 26).** Clusterings 1–4 are a self's own and its first other (names 1 to 8, now); 5–7 resolve and keep the eight (the betweens to 9 to 12); 8–11 are the society, its surface and its next (13 to 16); 12 is 17. For the person to re-order where a concept welcomes better elsewhere.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
