@@ -1459,6 +1459,78 @@ A first sketch, the clusterings of Exhibit 24 on Exhibit ONE's roll:
 
 Along is 9 and 17; across is 6 to 2 and 10 to 14 (Exhibit ONE 551). If each sentence of the one pass is found as a routing, a sentence's place in the 55 is its place in the roll, and the order checks itself.
 
+## Exhibit 26 · A place in Exhibit ONE for each sentence of the opening
+
+**Of the 55 sentences, 51 have a place in Exhibit ONE: 29 where it says the concept in its own words, 22 where its names place it by v399Logic's reading; 4 have none yet (30, 52, 53, 54). Of the candidates, the fractal premise (17c) and equilibrium (34a, 34b) have none.** The person (7 November): explore a place in Exhibit ONE for each sentence and each bold concept; every sentence is a progression in resolving in a natural torusing society, living among prior-living, not now-living, things, in a universe of all now-existing things as a definable set where the same-existing name is the defining of the set.
+
+**The same-existing name defining the set, in Exhibit ONE.** Each four-cycling closes on a same-existing name, and each such name is a set: 4, each sharing with its prior; 8, each self's next prior; 12, a between of momentaries; 16, a same-existing-society, each self with its prior and its parities. Each is followed by a between that is a discovering (4 )( 5, 8 )( 9, 12 )( 13, 16 )( 17, its line 193). So the outermost set, all now-existing, is said with 16, and its next with 17, each self's 1 again.
+
+Kinds: **says** (Exhibit ONE states the concept), **places** (its names hold it, by v399Logic's reading), **none** (no place yet). Numbers are Exhibit ONE's names, or its lines with *l.*
+
+| # | Sentence's concept | Exhibit ONE | Kind |
+| --- | --- | --- | --- |
+| 1 | universe, all now-existing things | 16 and 17: the society with each self's prior, and its next | places |
+| 2 | prior-existing | 3, priors; observing is of prior-existing (l. 184) | says |
+| 2a | inherited from prior-existing | each momentary's next prior is a next momentary's prior, 11 to 3 (l. 553); `_11 = dict(_3)` | says |
+| 3 | same-existing | 8 and 12; a sharing of 0 is its prior same-existing (l. 798) | says |
+| 4 | next-existing | 17, the next 1 (l. 182) | says |
+| 5 | the universe same-existing and next | 16 then 17 | places |
+| 6 | sequence | names 1 to 16 in order as n − 1 in binary, an ordering (l. 182) | says |
+| 7 | moment | a momentary is one resolving of a society's selves together (8, l. 149) | says |
+| 8 | now is the next's prior | 11 coming up as 8, 17 as each self's 1 (two-sided table) | says |
+| 9 | momentarying | 1 and 2, bi-momentarying (l. 531) | says |
+| 10 | universal set | 16, each self with its prior and its parities; within (l. 221, 224) | places |
+| 11 | is-or-is-not | the ten is-or-is-nots (l. 215–228) | says |
+| 12–14 | observing, possibling, discovering | the four-cycling (l. 184); roots observing 3, 7, 11, 15; possibling 2, 6, 10, 14; discovering 9, 13 | says |
+| 15, 15a | living; ingesting and exhausting | 1 to 9, a self bi-coupling with an other (l. 548); ingesting with 2 agreeing (l. 225), exhausting with 10 | places |
+| 16 | living and non-living | the agreeing is-or-is-not (l. 225): is, ingesting; is not throughout, only inheriting | places |
+| 17 | self | 13, each self of a society; 1, a living self's momentary | says |
+| 17a | me | an other's agreeing parity going into a prior (`_11[_4] = _7`, with 2) | places |
+| 17c | each living parity a self | none in the code; fractal inward is Natural Intelligence 4.15 | none |
+| 18 | self a set of mes | 3, priors, each with its sharing (l. 144) | places |
+| 19 | non-living priors within | next priors start as a copy and none is taken away (l. 39) | places |
+| 20 | other | an other's 6 and 10 come across (l. 97, 107) | says |
+| 21 | aiming | 10 across to an other's 14, and 9 along | places |
+| 22 | living parity | 7, each parity a self observes; 15, each parity going on | places |
+| 23 | me-parity | 10, a sharing's parity | places |
+| 24 | other-parity, universal-parity | 2 from an other; 10 to an other and on along (l. 557) | places |
+| 25 | self-parity | dimension 3, a self's prior parities (l. 541) | says |
+| 26 | the between, bi-moral-co-competencing | 6, bi-moralizing (l. 542); the unit square's centre a between (l. 557) | says |
+| 27 | bi-coupling | 1 to 9 (l. 548); 5, bi-couplings (l. 146) | says |
+| 28 | a self's observing | 7 and 3 | places |
+| 29 | you | the across edge 6 to 2, from the receiving side | places |
+| 30 | self-other consciousness | waits for its saying (Exhibit 24) | none |
+| 31 | a 0, a between going along | each parity and each 0 going along (l. 568); the three betweens (l. 559–560) | says |
+| 32 | resolving | 4, each sharing, parities and prior resolving (l. 145); `_1_now_existing` | says |
+| 33, 33a | natural intelligence, the one method | the resolver, same each time any self executes it (l. 9); its three functions, 1, 9 and 17 (l. 140) | places |
+| 34 | do-no-harming, improving | l. 798 | says |
+| 34a, 34b | equilibrium | none in the code: no executing with a prior fixes (Exhibit 11) | none |
+| 35 | two alike selves in turn | l. 1083 | says |
+| 36 | co-possibling | 6 and 10 (l. 147, 151) | says |
+| 37 | co-intelligencing | 3 and 4 (l. 534) | says |
+| 38 | gathering | 14 gathering in 17 from others' 15 (two-sided table) | says |
+| 39 | co-aiming | others' 10 into a self's 14 | places |
+| 40 | same-existing-society | 16 and 13 | says |
+| 41, 41a | a society a self one scale outward | 1 to 17, bi-trupling: a self, an other and a society (l. 551) | places |
+| 42, 42a–42c | social moral competency, the eight | names 1 to 8, each with its next eight up | places |
+| 43, 43a | network; free | 5 with 17; each self's resolving takes only its own 3 and 2 | places |
+| 43b, 43c | social-other-universal; social abundancing | 1 to 17 as a self, an other and a society (l. 551); Natural Naming 5.53 places it past 17, at 27, a next round's next prior | places |
+| 44, 47 | co-chaining | 9 (l. 948) | says |
+| 45 | the natural torusing surface | 5, co-competencing (l. 537); a bi-coupling is-or-is-not on the surface (l. 228) | says |
+| 46, 46a | geodesic; common geodesic | 9 along through each self's resolving; the betweens | places |
+| 48 | stable-forming | 1 to 17, bi-tri-volutioning (l. 553) | says |
+| 49 | a self momentarying and stable-forming | l. 531 and 553 | places |
+| 50 | natural resolving | for pattern-matching what a science observes (l. 9) | places |
+| 51 | living file | l. 9 | says |
+| 52 | natural engineering | none; the Natural Network surface beside it is engineered | none |
+| 53 | natural explaining | none | none |
+| 54 | living expedition | none | none |
+| 54a, 55 | next-possibling-same-existing | 12 with 14 and 11; each between from an even name to an odd is a discovering (l. 193) | places |
+
+**What it shows.** The sentences that have no place are the ones about words and the expedition (natural engineering, natural explaining, the living expedition), and one waiting for its saying (consciousness). Of the candidates, the fractal premise has none, and equilibrium's place is that the code holds none.
+
+**A shape for the one pass.** Each four-cycling of Exhibit ONE is a progression closing on a same-existing name, a set defined, then a between discovering the next: existing, possibling, observing, same-existing, between. The 55 may go as four such progressions: a self (1 to 4), a self with others (5 to 8), next across and along (9 to 12), the society and its next (13 to 16), and 17 the universe's next, each self's 1 again. For the person.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
