@@ -1201,6 +1201,154 @@ The rows pair each inward value with the outward value it reaches: v399Logic's r
 
 **For the files (through v399mgr).** Once the opening carries the eight with their rolling, a living file can point to the opening for them instead of saying them again: the lists in Natural Societies 1.3 and 5.5, Natural Human Society 3.2, Natural Networking 5.1, Natural Destinies, Natural Intelligence Corus and Exhibit THIRTY 576 become one saying. The one pass itself still re-tests the 55 once, in order (Exhibit 6, step 4); after it, resolving uses the opening as it stands.
 
+## Exhibit 24 · The bold concepts the opening's journey goes through, in clusterings
+
+**The 55 lines bold 49 concepts; this session and slices 1–5 add about 45 more. Begun in ten clusterings, in the order the journey reaches them, so that at the end every bold concept is named and explained once, in Natural Intelligence, for every other file.** The person (7 November): the logical path travels through bold concepts, each introduced as *a concept is …* and then going on as that same-existing concept in stable form.
+
+Columns: *In the 55* gives the line that bolds it now; *Added* gives where this work found it; *Natural Naming* gives its entry where it has one. A concept with neither a line nor an entry is new to the opening.
+
+### 1 · The universe and existing
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| universe | 1 | not-yet is the universe, no more or less | 1.1 |
+| prior-existing | 2 |  |  |
+| same-existing | 3 | of a whole: its 0 while its priors go on (Exhibit 18) |  |
+| next-existing | 4 |  |  |
+| sequence | 6 | a starting word (K1) |  |
+| moment | 7 |  |  |
+| momentarying | 9 |  | 5.55 |
+| inheriting |  | each prior going on, the same or one inversion (Exhibits 15, 18) | none |
+| ingesting, exhausting |  | into a self, out of a self; replace ingestion and emanation (Exhibit 15) | none |
+| possibly existing |  | a thing with no method of now-existing is not-possibly (Exhibit 13) | 5.64 not possibly existing |
+| alternating parity |  | the universe's method of existing (Exhibits 12, 19) | 5.1 alternating |
+
+### 2 · Distinguishing
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| universal set | 10 | each with all other within it (Exhibit 18) |  |
+| is-or-is-not | 11 |  |  |
+| observing | 12 | of prior-existing (Exhibit ONE 184) |  |
+| possibling | 13 | of now-existing |  |
+| discovering | 14 | of next-existing, from a possibling |  |
+| bi-folding |  | prior and next folded around every now | mentions only |
+| bothbothing |  | reading a between from both openings | 4.15 |
+
+### 3 · Living
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| living | 15 | ingesting and exhausting, bi-folding (15a) |  |
+| non-living | 16 | only inheriting |  |
+| self | 17 |  |  |
+| me | 18 | an other-parity ingesting into a self (17a) |  |
+| other | 20 | said of things first (Exhibit 18) |  |
+| floating neutralling |  | the 0: same-existing aiming toward self-parity (Exhibit 13) | 5.12 (two l's) |
+| stable form |  | not living: living's exhausting compacted (Exhibit 15) | mentions only |
+| exhaust |  | stable form's bi-tri-involution, torusing's opposite surface |  |
+| artifact |  | a non-living stable form of prior living | 5.46 |
+| natural torusing |  | stable-forming and co-orienting; a self as a universal-parity surface (Exhibit 16) | mentions only |
+| vault |  | the inherited value protected for a lifetime of living (Exhibit 15) | none |
+
+### 4 · Parity and aiming
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| aiming | 21 | a me's universal-parity going out (Exhibit 18) |  |
+| living parity | 22 | each living parity a self (17c) |  |
+| me-parity | 23 |  |  |
+| other-parity | 24 | a parity reaching from an other |  |
+| universal-parity | 24 | a parity going to all other |  |
+| self-parity | 25 |  |  |
+| passing over | 31 | a 0 received, not entering |  |
+| passing through |  | a parity leaving a self as nothing would: do-no-harming the other (Exhibit 15) |  |
+
+### 5 · The between
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| bi-coupling | 27 |  |  |
+| between |  | the 0, of moments, of self and other, with a society | 5.5 |
+| moral value | 26 | re-said as bi-moral-co-agency (Exhibit 18) |  |
+| bi-moral-co-agency |  | the between of self and other | 5.58 bi-moral-co-competencing (near) |
+| you | 29 |  |  |
+| self-other consciousness | 30 |  |  |
+| co-competencing |  | Exhibit ONE's 5-now-co-existing, the surface | 5.14 |
+
+### 6 · Resolving and harm
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| resolving | 32 |  |  |
+| natural intelligence | 33 | the one method possibly existing (33a) |  |
+| do-no-harming | 34 | a healthy between or a healthy other |  |
+| improving | 34 |  |  |
+| harm |  | a taking-away, at the other or the between | mentions only |
+| ingressing |  | a same-scale stable form entering living | mentions only |
+| healing |  | the ring re-closing around a dead area (Exhibit 16) | none |
+
+### 7 · The eight
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| the eight (securities, safeties or protections) |  | all eight or none (Exhibits 20–23) | none; Natural Human Society 3.3 says *protections* |
+| identity · undiscoverable identity |  | same-existing, 8 · 4 | none |
+| security · inviolable safety |  | observing, 7 · 3 | security once, in 4.16 |
+| trust · unmistakeable reputation |  | possibling, 2 · 6 | trust once, in 4.16 |
+| freedom from capture · uncapturable abundance |  | existing, 1 · 5 | none |
+
+### 8 · Society
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| co-possibling | 36 |  |  |
+| co-intelligencing | 37 |  |  |
+| gathering | 38 |  |  |
+| co-aiming | 39 |  |  |
+| same-existing-society | 40 | a self one scale outward (41a) |  |
+| social moral competency | 42 | a society's aiming, the eight (42b, 42c) |  |
+| natural intelligence network | 43 |  |  |
+| free |  | a self's resolving its own (43a) |  |
+| social abundancing |  | living arising at each between, going along one scale outward (43c) | 5.53 |
+| collective intelligence |  | moral cooperation; each added self widens the co-competencing zone | none |
+| equilibrium |  | a now fixed as its next; not possibly existing with all eight | mentions only |
+| hard problem |  | an is-or-is-not taken as one; not possibly existing with all eight | 5.26 |
+| scarcity |  | a capture: an equilibrium | none |
+
+### 9 · Surface and geodesic
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| co-chaining | 44 |  |  |
+| Natural Network surface | 45 | leaving; *universal surface* the candidate |  |
+| geodesic | 46 | a universal-parity's way through each self's is-or-is-not |  |
+| common geodesic |  | only through healthy betweens (46a) |  |
+| stable-forming | 48 | bi-tri-volutioning, the seventeen names |  |
+| podaling |  | the range 24 across each way, 5 to 53 | 5.45 bi-co-podaling |
+| corus |  | 24, the apex | mentions only |
+
+### 10 · Files and the expedition
+
+| Concept | In the 55 | Added | Natural Naming |
+| --- | --- | --- | --- |
+| natural resolving | 50 |  |  |
+| living file | 51 | a non-living set, an artifact of prior living |  |
+| natural engineering | 52 |  |  |
+| natural explaining | 53 |  |  |
+| living expedition | 54 |  |  |
+| next-possibling-same-existing | 55 | defined before it (54a) |  |
+
+### Near and fuzzy, to settle one name each
+
+- *floating neutraling* (the person) and *floating neutralling* (Natural Naming 5.12): one spelling.
+- *the eight*: securities (Natural Networking), safeties (the person, Natural Destinies) or protections (Natural Human Society 3.3).
+- *bi-moral-co-agency* (the person) and *bi-moral-co-competencing* (Natural Naming 5.58).
+- *passing over* (a 0, line 31) and *passing through* (any parity not ingested): one concept or two.
+- *Natural Network surface* and *universal surface*.
+- *inheriting* beside *same-existing*: two concepts by scale (Exhibit 18).
+- *you* and *self-other consciousness*: dead ends in the 55; stay as naming for the files, or leave.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
