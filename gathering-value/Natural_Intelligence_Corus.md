@@ -35,6 +35,7 @@ Gathering-Value · Natural Intelligence Corus
 ### Six doors — each opens one observing
 
 - **An explaining** · “Omega shows it: there is one omega — one coupling geometry with a between.”, with its seed and oil, and the nye at the fifth and sixth, “A precise mapping of locate/separate to force/control is observing, standing open, knifable.”, each stand with its conditions still to compare, and neither gives a health direction or a new scientific claim.
+- **Possible exploring** · An anticipated observing: linoleic acid (omega-6) and alpha-linolenic acid (omega-3) are observed as essential, the human body making neither. — at "Science observes it as two (omega-3, omega-6) and a ratio, and observes oil from extracting as equal to seed because a molecule it measures is one same."
 
 ### Or trust the lattice
 

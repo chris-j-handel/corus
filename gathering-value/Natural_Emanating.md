@@ -114,6 +114,8 @@ Gathering-Value · Natural Emanating
 
 ### The break
 
+- **Possible incohering** · "A living stable form other than this one." → Two sayings part at the break. This sentence names the method's one break as a living stable form other than this one; beside it, living has no stable form: exhausting goes on while living, accumulating and compacting into a stable form whose shape matches and opposes natural torusing's outside surface. A re-saying: the break said with no stable form given to living. The other side: the break as it is.
+
 ## THE TAIL
 
 ### An emanation's building
