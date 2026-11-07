@@ -73,7 +73,7 @@ Gathering-Value · Natural Mathematics
 ### 3.4 Bi-inversioning-co-recursioning, two consecutive inversions on different axes
 
 - **An explaining** · Six lengthwise ribs a transverse rib joins below a conical apex, in immature Alstroemeria fruit, are a candidate along–across correspondence; its field names no natural torusing.
-- **An explaining** · The tendril is the twisting towel, its knot three edges in and three edges out, three-phase twisting and relaxing, joined by a short switch point, and a new living me corusing, torusing and co-intelligencing (the person).
+- **An explaining** · The tendril is the twisting towel, its knot three edges in and three edges out, three-phase twisting and relaxing, joined by a short switch point, and a new living me corusing, torusing and co-intelligencing (the person's offering, in v392chem's words).
 
 ### 3.5 Bi-tri-involutioning, the emanating at the opposite form
 
@@ -111,8 +111,8 @@ Gathering-Value · Natural Mathematics
 - **An explaining** · An anticipated observing: a flower form's surfaces all curve at φ, the unrelationing rate, to the co-linear of its form, the form one method and no three different processes, all its symmetry with the method of stable-forming: three phases in each of two directions each doing one same thing, bi-inversioning-co-recursioning forward in each of six one ways (the person). With it position, scale and orientation are no three separate physical processes, and the method's identifying with the flower surfaces is still-possibling.
 - **Possible exploring** · The Alstroemeria capsule's three-faced curved apex, six ribs and three opening valves have no φ measurement in the sources searched, an observing returning nothing; neither that absence nor a six-entry recurrence decides a φ curving of its surfaces. — at "**Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate."
 - **Possible exploring** · An anticipated observing: a tendril goes by three phases, circling, clasping and coiling, on the plant's side and on the support's, six. Under wind a tendril winds tighter, unwinds and relaxes, three phases each way. — at "Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible."
-- **An explaining** · The two-handed coil 0–24 and 24–60, alternating geodesic discovering of same and next existing, is the method's phases (the person).
-- **An explaining** · The phases are next-existing local parity: the amount of moving unrelationing from next-observing or aiming, turning the observing, and co-intelligencing three-phase, two-way six-cycling of local geodesic living parity (the person).
+- **An explaining** · The two-handed coil 0–24 and 24–60, alternating geodesic discovering of same and next existing, is the method's phases (the person's offering, in v392chem's words).
+- **An explaining** · The phases are next-existing local parity: the amount of moving unrelationing from next-observing or aiming, turning the observing, and co-intelligencing three-phase, two-way six-cycling of local geodesic living parity (the person's offering, in v392chem's words).
 
 ### 5.3 Torus, the one closed orientable surface a flow runs on with no rest
 
