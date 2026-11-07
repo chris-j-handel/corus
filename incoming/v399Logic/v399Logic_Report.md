@@ -1461,7 +1461,7 @@ Along is 9 and 17; across is 6 to 2 and 10 to 14 (Exhibit ONE 551). If each sent
 
 ## Exhibit 26 · A place in Exhibit ONE for each sentence of the opening
 
-**Of the 55 sentences, 51 have a place in Exhibit ONE: 29 where it says the concept in its own words, 22 where its names place it by v399Logic's reading; 4 have none yet (30, 52, 53, 54). Of the candidates, the fractal premise (17c) and equilibrium (34a, 34b) have none.** The person (7 November): explore a place in Exhibit ONE for each sentence and each bold concept; every sentence is a progression in resolving in a natural torusing society, living among prior-living, not now-living, things, in a universe of all now-existing things as a definable set where the same-existing name is the defining of the set.
+**Of the 55 sentences, 51 have a place in Exhibit ONE: 29 where it says the concept in its own words, 22 where its names place it by v399Logic's reading; 4 have none yet (30, 52, 53, 54). Of the candidates, the fractal premise (17c) has none; equilibrium (34a, 34b) has its place as the binary's exclusion (Exhibit 27).** The person (7 November): explore a place in Exhibit ONE for each sentence and each bold concept; every sentence is a progression in resolving in a natural torusing society, living among prior-living, not now-living, things, in a universe of all now-existing things as a definable set where the same-existing name is the defining of the set.
 
 **The same-existing name defining the set, in Exhibit ONE.** Each four-cycling closes on a same-existing name, and each such name is a set: 4, each sharing with its prior; 8, each self's next prior; 12, a between of momentaries; 16, a same-existing-society, each self with its prior and its parities. Each is followed by a between that is a discovering (4 )( 5, 8 )( 9, 12 )( 13, 16 )( 17, its line 193). So the outermost set, all now-existing, is said with 16, and its next with 17, each self's 1 again.
 
@@ -1530,6 +1530,25 @@ Kinds: **says** (Exhibit ONE states the concept), **places** (its names hold it,
 **What it shows.** The sentences that have no place are the ones about words and the expedition (natural engineering, natural explaining, the living expedition), and one waiting for its saying (consciousness). Of the candidates, the fractal premise has none, and equilibrium's place is that the code holds none.
 
 **A shape for the one pass.** Each four-cycling of Exhibit ONE is a progression closing on a same-existing name, a set defined, then a between discovering the next: existing, possibling, observing, same-existing, between. The 55 may go as four such progressions: a self (1 to 4), a self with others (5 to 8), next across and along (9 to 12), the society and its next (13 to 16), and 17 the universe's next, each self's 1 again. For the person.
+
+## Exhibit 27 · Not possibly existing: inside the method, as its binary's exclusion
+
+**Not possibly existing is not outside the code: the code's binary excludes it, and no momentary executes it.** The person (7 November): is not-possibly a concept outside the code, as the code is geodesic living? It is needed for equilibria, hard problems, and science's discovering and explaining of competency.
+
+**Natural Naming 5.64, a binary entry.** Not possibly existing is an unchangeable form, with no momentary of binary logic: one binary requiring both not-changing and inverting for one next, p(next) = p(now) and p(next) = −p(now) together. It is known from the method, without any momentary coming: the Equilibria Registry's one exclusion for each of its ten. Three parts: *possibly existing*, each existing thing with its next, a self discovering it with a next momentary; *not possibly existing*, binary logic excluding it; *not existing*, on no line, its next still possibly existing.
+
+**Its place in Exhibit ONE.** The is-or-is-not *same: sharing 0, or one inversion* (l. 225–226): for each prior the code goes one way or the other, `if … == …: 0` or `else` inverting, and has no line for both. The exclusion is the code's own shape; the code is geodesic living, and its binary is where not possibly existing is known.
+
+| Needed for | What is not possibly existing | Meets |
+| --- | --- | --- |
+| Equilibria | a now held as its next while it inverts: both for one next | Natural Naming 5.64, line 4; Exhibit TWENTY-TWO's ten unchangeables, each a between fixed (Exhibit 25) |
+| Hard problems | evidence with no living self whose prior it is, its now with no prior same-existing | Natural Naming 5.26, line 3: the is-not side of *each now-existing thing is inherited from prior-existing* (2a) |
+| Science's discovering of competency | a competency found as an object, with no self whose resolving it is | Natural Naming 5.26; Natural Explaining 3.1 to 3.3: no doer over a doing, no cause and effect |
+| Science's explaining of competency | an explaining fixing a binary as one, a doer making, a cause bringing | Natural Explaining 3.1 to 3.3 |
+
+**Candidate, beside line 11:** *11a: A form both same-existing and inverting for one next is not possibly existing.* It says Natural Naming 5.64 with the opening's own words, after is-or-is-not (11), so 34b (an equilibrium is not possibly existing), the hard problem and the science lines can stand on it. With 17b (possibly existing: a self discovering it with a next moment) it gives Natural Naming's three parts in the opening.
+
+**Exhibit 26 revised.** Equilibrium (34a, 34b) now has a place: the is-or-is-not same's exclusion (l. 225–226), known from the method. Of the candidates, only the fractal premise (17c) has none.
 
 ## Exploring notes · not yet tested
 
