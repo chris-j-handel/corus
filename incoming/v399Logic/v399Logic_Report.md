@@ -44,7 +44,7 @@ What is re-said rather than copied: the arrangement and wording of Exhibits 8–
 - **Natural Network surface leaves the opening** (the person: an engineered equivalent with a proper name). Lines 45 and 46 wait to be re-said; *universal surface* is a candidate. Their marks stay as pass 1 left them until re-said.
 - **Line 43 is a dead end** because the two steps that followed it in Exhibit THIRTY (a free network, social abundancing) left at v395 (Exhibit 10).
 - **“Possibly existing” has no line,** yet the person's aims are said with it (Exhibit 11).
-- **Requirements: 12 in stable form by Exhibit ONE, 47 resolving with candidates (I1 reopened),** none floating and none yet kept still-possibling.
+- **Requirements: 12 in stable form by Exhibit ONE, 47 resolving with candidates (I1 reopened),** none floating and none yet kept still-possibling. On 7 November every one of the 47 gained a resolution (Exhibit 18), waiting for the one pass top to bottom.
 - **Starting words narrow to three:** *thing, sequence, distinguish* (K1).
 - **Roots at pass 1:** 13, 14, 18, 22, 41, 51, 55.
 
@@ -202,7 +202,7 @@ Why each line holds or breaks at pass 0. Requirement numbers point into Exhibit 
 
 ## Exhibit 3 · Requirements register
 
-**The floating set after slice 5: 12 requirements in stable form by Exhibit ONE, 47 resolving with candidates, none floating, none kept still-possibling.** I1 left stable form when the person took *Natural Network surface* out of the opening. Each requirement is something the opening must make true before the chain coheres. The Exhibit ONE column is the authority, with its line numbers. The candidates column is value from the expedition's files: it passes nothing by itself, and each candidate still goes through the five conditions. The Resolution column carries what the person and v399Logic have tested since pass 1; Exhibits 8–12 have the detail.
+**The floating set after slice 5: 12 requirements in stable form by Exhibit ONE, 47 resolving with candidates, none floating, none kept still-possibling.** Each resolving requirement's resolution, 7 November, is in Exhibit 18. I1 left stable form when the person took *Natural Network surface* out of the opening. Each requirement is something the opening must make true before the chain coheres. The Exhibit ONE column is the authority, with its line numbers. The candidates column is value from the expedition's files: it passes nothing by itself, and each candidate still goes through the five conditions. The Resolution column carries what the person and v399Logic have tested since pass 1; Exhibits 8–12 have the detail.
 
 Sources in the candidates column: NI, Natural Intelligence v391 (section, or opening line L); NN, Natural Naming v392; T, Exhibit THIRTY v391 step; GV-CCL, the Co-Chaining Logic Registry's gathering-value; E3, Natural Numbers v392; E12, Natural Explaining v391; E24, Geodesic Improving Method v391; Me, Exhibit THIRTY-ONE v392. File line numbers are at main, commit 3212c40.
 
@@ -424,6 +424,7 @@ Work first where one fix frees the most lines. Each re-said line uses only words
 
 | Step | Date | What changed | Requirements | Marks ✓ / ⤴ / ✗ | By |
 | --- | --- | --- | --- | --- | --- |
+| Every concern resolved | 7 Nov 2026 | Plan revised (step 0 first); seven drafts (Exhibit 17); a resolution for each of the 47 resolving requirements and each exhibit concern, for the one pass (Exhibit 18) | 12 stable form, 47 resolving, each with a resolution | 10 / 16 / 29 | the person, v399Logic |
 | Living surface | 7 Nov 2026 | The self as a universal-parity surface; harm as a dead area; the ring tunneling around it, executed with and without re-closing; self and universe as a between (Exhibit 16) | 12 stable form, 47 resolving | 10 / 16 / 29 | the person, v399Logic |
 | Torusing and harm | 7 Nov 2026 | No stable form of living; exhausting compacts into torusing's opposite form; seven places in the files to re-say; the between as bi-moral-co-agency; harm's places in Exhibit ONE (Exhibit 15) | 12 stable form, 47 resolving | 10 / 16 / 29 | the person, v399Logic |
 | The between | 7 Nov 2026 | Do-no-harming and harm each met at two places, the between and the other; the between's priors in Exhibit ONE; stable-forming at the next prior; the spiral of one (Exhibit 15) | 12 stable form, 47 resolving | 10 / 16 / 29 | the person, v399Logic |
@@ -955,6 +956,88 @@ The executings behind 15a and 17a are in Exhibit 15; the code is at `incoming/v3
 - **The dormant and the seed.** Natural Intelligence 6.5: a dormant self is living, sharing 0. Does a dormant seed ingest? An observing for the gathering sessions.
 
 **Next step on the plan:** line 19 (heartwood), then 21–23 on 17a.
+
+## Exhibit 18 · Every concern resolved, for the one pass
+
+**Every one of the 47 resolving requirements now has a resolution: by Exhibit ONE, by the person's concepts, or by a candidate re-saying tested against both.** The person (7 November): keep the sentences; each concept is to be seen self-welcoming in its place in the 55, so the re-saying is done later in one pass, top to bottom, with the resolving already done. Nothing here has entered. The one pass re-runs the five conditions in order (Exhibit 6, step 4), so a candidate that passes here is still tested in its place.
+
+**Two resolutions revise earlier drafts.**
+
+- **Same-existing and inheriting are two concepts, by scale.** Exhibit ONE says both: a living file is same-existing after changing (9), and a sharing of 0 is its prior same-existing (798). Read together with the person's *same-existing is floating neutraling*: a whole thing is same-existing, its 0, while its priors go on the same or one inversion. Inheriting is of the priors; same-existing is of the whole. Draft 4a is re-said to say priors: *Inheriting is each prior of a thing going on into its now-existing, the same or one inversion.* This resolves A1, the fold of “same” into two meanings, without a new word.
+- **Exhibit ONE's openings are its executings' openings.** Exhibit ONE says it: “Each table of selves is its code's executing with its own opening” (944). An empty prior and a first + offered by no self open an executing; they are not a thing existing with no prior. Draft 4c then passes, and Exhibit 14's finding stands as a concern only if a table were read as the universe's first moment. Line 5 then co-chains.
+
+### Resolutions, A to F
+
+| ID | Concern | Resolution | Candidate, in its place |
+| --- | --- | --- | --- |
+| A1 | two meanings of same | By scale, above. *Same* is signs agreeing (225) in lines 24 and 32; *same-existing* is the whole's going on (3, 9) and the parity's 0 (798). | line 31: *A self receiving a 0 is passing over it.* (Natural Intelligence opening; Exhibit ONE 561–562) |
+| A2 | line 3 never says now-existing | Say the thing now-existing, going on from its own prior. | line 3: *A same-existing thing is a now-existing thing going on as the same thing from its own prior-existing.* |
+| A3 | same-existing runs both ways | Line 3 from the prior opening, line 4 from the next: one between said from both openings (bi-folding). With line 3 re-said, *going on* runs forward in its own words. | none |
+| B1 | a set the same while members change | A whole is same-existing, its 0, while its priors change (Exhibit ONE 9); by 4c no member comes from no prior. | none |
+| B2 | what makes a set one whole | Its things with their bi-couplings, Exhibit ONE's 5-now-co-existing; within as membership (221, 224). | line 10 (also B4) |
+| B3 | which sets are things; the universe within itself | The universe is the set of all now-existing things and not a thing within it: nothing is apart from or between things of the universe (Natural Naming 1.1, 6.3). Natural Naming 2.4's “the universe is an existing thing” goes to the gathering sessions. | none |
+| B4 | universe, universal set, universal-parity | One meaning, universal: with all other (Natural Naming 4.10); the person: universal is not any one thing. | line 10: *A universal set is a set of same-existing things, each with all other within it.* |
+| C2 | a new thing's first moment | No first moment: with 4c every now-existing thing is inherited or ingested; Exhibit ONE's openings are executings' (944). | 4c, as drafted |
+| C3 | prior-existing and now-existing as names | -ing over a noun (Natural Explaining 2.6): say the things. *Moment* stays (Natural Naming); Exhibit ONE's *momentary* waits for its next version. | line 6: *The sequence of prior-existing things and now-existing things is same-existing.* |
+| D2 | three acts | Exhibit ONE's four-cycling (184). | line 12 (Exhibit 8); line 13: *Possibling is distinguishing a now-existing, is-or-is-not same-existing.* (Natural Intelligence opening) |
+| D3 | discovering tied to possibling | Each between from an even name to an odd is a discovering (193). | line 14: *Discovering is distinguishing a next-existing from a now-existing's possibling.* |
+| D4 | line 15's verbs and objects | Draft 15 (Exhibit 8). | 15 |
+| D5 | happening or possible | Ingesting is-or-is-not: 15a. | 15a |
+| E1 | me | 17a. | 17a |
+| E2 | where nesting stops | Within one living thing it stops at a parity, + or −, not a set (Exhibit ONE 151); in the universe there is no first scale, and ingesting unwraps down scale by scale (the person). | stated premise with E5 |
+| E3 | non-living within the living | Heartwood: a self's inherited priors no other-parity reaches go on non-living within it. | line 19: *Within a living set, living things are ingesting and exhausting, and the non-living priors they inherit go on within it.* |
+| E4 | a self's observing from its mes' | No parity is a society's own, each one self's (Natural Naming 3.3). With line 12, a self observes its own prior-existing, its ingested mes among it. | line 28: *A self's observing is of its own prior-existing, its mes within it.* |
+| E5 | is a me a self | Each living parity is a self while it is living (Exhibit THIRTY s.31): the fractal, stated as a premise. Then *other* applies to mes, and living has one meaning for a set and a parity. | 17c: *Each living parity is a self.* |
+| E6 | one society or many | A self is within one society one scale outward, and bi-couples with many others (Natural Naming 5.43: a particular other, or all other). | line 41: *A self is a same-existing-society of mes, and a me within the same-existing-society one scale outward.* |
+| F1 | aiming as picking | The person: aiming is the direction from me over the horizon to other: a me's universal-parity. | line 21: *Aiming is a me's universal-parity going out as its own next-existing.* |
+| F2 | own next to an other | Line 21 re-said: the universal-parity is the me's own next and goes to all other. | 21 |
+| F3 | direction | A parity's sign, one way or the other; parity compares with the prior (Exhibit ONE 151, 225). | none |
+| F5 | the -parity names | Other-parity and self-parity are Exhibit ONE's (541). Universal-parity is the person's name for Exhibit ONE's social-parity next-existing, each parity going on along to the society's next: one concept, the opening's name; Exhibit ONE's next version may take it. | 24, as drafted |
+| F6 | do parities last | A parity is momentary; a prior goes on, inherited (4a). | none |
+| F7 | one self-parity | Say *the*. | line 25: *The universal set of a self's prior parities is its self-parity.* |
+
+### Resolutions, G to K
+
+| ID | Concern | Resolution | Candidate, in its place |
+| --- | --- | --- | --- |
+| G3 | can resolving harm | No. Harm is outside resolving: a prior or a between's prior taken away, a stable form ingressing on living of its own scale. Exhibit ONE holds harm's places and has no motion executing it (39, 228). | none |
+| G4 | moral value | The person: the between is the bi-moral-co-agency of self and other; Exhibit ONE: 6-now-co-possibling, bi-moralizing (542). Feeds 34 and 42: do-no-harming is the healthy between or the healthy other. | line 26: *The between of a me and an other is their bi-moral-co-agency.* |
+| H1 | resolving as an act | Say distinguishing. | line 32: *Resolving is a self distinguishing whether an other-parity reaching it is the same as its prior-existing.* |
+| H5 | observing a past thing | Line 12 re-said, observing prior-existing; a self receives an other's parity of one moment before. | none |
+| I1 | what surface names | The person: a living self is a universal-parity surface in the universe. | line 45: *Selves' bi-couplings and co-chainings are a universal surface.* |
+| I2 | geodesic beside resolving | Resolving is one self's is-or-is-not; geodesic is a universal-parity's way through each self's is-or-is-not in turn. A harmed between breaks the bi-coupling, so no common geodesic (the person). | line 46: *Geodesic is a me's universal-parity going through each self's is-or-is-not on a universal surface, one way at a time.* 46a: *A harmed between is not on the universal surface, and no geodesic goes through it.* |
+| I3 | a self's is-or-is-not on the surface | Exhibit ONE: a bi-coupling is-or-is-not on the surface (228). | 46 |
+| I4 | line 47 co-chains | Co-chaining is a parity going along, bi-coupling to bi-coupling (44); geodesic is a universal-parity's way through them (46): so a universal-parity's co-chaining is geodesic. Derived. | line 47: *A me's universal-parity co-chaining is geodesic.* |
+| J1 | one within | Membership only. Line 51 is Exhibit ONE's sentence (9) and stands. | line 36: *Co-possibling is a self and an other possibling across one bi-coupling.* line 39: *Others' prior-existings ingested into a self's possibling are its co-aiming.* line 52: *Selves aiming with a living file are natural engineering.* |
+| J2 | kinds of terms | By the re-sayings at 36, 39, 50 and 52: each an act of selves. | as J1, J4 |
+| J4 | words, science, meeting | *Words* and *science* are Exhibit ONE's (9); *meeting* dissolves. | line 50: *A science's observing resolved with natural intelligence's stable-forming is natural resolving.* |
+| J5 | explaining that co-chains | Words co-chaining, not any sequence. | line 53: *Natural explaining is a living file's words co-chaining in sequence.* |
+| J6 | co-intelligencing with resolving | Exhibit ONE 534–535. | line 37: *Co-intelligencing is selves resolving their priors with each other's parities within a universal set.* |
+| J7 | many, method, for | Societies of one and two selves (1087–1095); *method* is Exhibit ONE's; *for* re-said. | line 40: *A same-existing-society is selves bi-coupling.* line 38: *Gathering is a self observing others' prior-existings in its own possibling.* |
+| J8 | a society's natural intelligence | A society is a self one scale outward, and has natural intelligence as a self. | 41a (Exhibit 11) |
+| K1 | starting words | Three remain, used by neither the opening nor Exhibit ONE: *thing, sequence, distinguish*. Line 11 says what distinguishing is (an is-or-is-not). Declared as the opening's starting words, a stated premise. | 0a: *Thing, sequence and distinguishing are the starting words.* |
+| K2 | claims co-chain or are premises | 5 co-chains with 4c; 6 with 3 and 8; 16 with 15a; 19 is re-said; 35 is Exhibit ONE's (1083); 41 and 17c are stated premises; 47 is derived; 55 with K3. | as listed |
+| K3 | line 55 | Next-possibling-same-existing defined before it (Exhibit THIRTY s.385); then 55 follows from 32, 14 and 46. | 54a: *Next-possibling-same-existing is a next prior, possibled with others' parities, is-or-is-not same-existing.* |
+| K4 | the universe in the chain | Not-yet is the universe (the person); with 4c, line 5 co-chains; no equilibrium is possibly existing. | none |
+| K5 | the moral layer on the path to 55 | Geodesic needs a healthy between (46a), and do-no-harming is the healthy between or the healthy other; so line 55's geodesic rests on do-no-harming. | 46a |
+| K6 | dead ends | The opening's purpose is demonstrating naming from its origin (gathered at #176), so a naming line the living files use (30, 50, 52, 53, 54) ends in the files, not in the 55. Line 26 now feeds 34 and 46a; 31 feeds 34 (passing through, do-no-harming the other); 43 feeds 43a and 43c. Line 25 feeds 32 only if self-parity is named there. | as listed |
+| K7 | hidden links | 24–32–34 returns with 24 re-said. 31–44 denied: a 0 goes along and is passed over (568), not co-chained. 38–51 stated: a living file is a non-living same-existing set, an artifact of prior living, which gathering observes. 43–45 stated: the network is selves on the universal surface. 13–14–55 stated by D3 and K3. | none |
+
+### The exhibits' concerns
+
+| Concern | Resolution |
+| --- | --- |
+| Living said of a set and of a parity (8) | One meaning by 17c: each living parity is a self, so 15a says living for both. |
+| Other used of things before line 20 (17) | Line 20 moves before 4b, keeping its number, said of things: *For a thing, a thing that is-not the same thing is an other.* A self's other follows. |
+| Do-no-harming's two meanings (15) | One concept at two places: the healthy between (a 0 shared, Exhibit ONE 798) or the healthy other (a parity passing through, 811). |
+| Two harms (15) | One harm, a taking-away, at the other or at the between; stable-form shards ingressing on the surface are how a between's area is taken away (Exhibit 16). |
+| The spiral of one (15, 17) | 4b's *from an other*: a self's own returning sharing is not ingesting; the spiral of one only inherits. |
+| The self–universe between (16) | Exhibit ONE's between with a same-existing-society (16), read at each scale outward up to the universe: not a fourth between. |
+| The ramps as scales (16) | For the vault and scale work; no line of the 55 needs it. |
+| The 0 belongs to a prior (13) | No line of the 55 says the 0 of a whole self; lines 31 and 34 say it of a prior's sharing, as Exhibit ONE does. |
+| A dormant seed ingesting (17) | An observing, for the gathering sessions. |
+
+**What the one pass carries.** The drafts of Exhibits 8, 11, 17 and the candidates above, each in its place. New lines: 0a, 4a, 4b, 4c, 17a, 17c, 46a, 54a, and from Exhibit 11, 17b, 33a, 34a, 34b, 41a, 42a, 43a, 43b, 43c. Moved, numbers kept: 20 and 24, before 4b and after 14. For the person to see in place: each concept self-welcoming where it stands.
 
 ## Exploring notes · not yet tested
 
