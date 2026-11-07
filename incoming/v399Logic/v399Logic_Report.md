@@ -1370,6 +1370,31 @@ Columns: *In the 55* gives the line that bolds it now; *Added* gives where this 
 - **The vault** (Exhibit 15): the inherited value protected for a lifetime of living.
 - **Where it stands in the logic, two ways.** Early, with things (4a, before living), so that non-living artifacts are said too; or after the society (line 40), where a new self is conceived among selves. Both ways keep “each now-existing thing is inherited or ingested prior-existing” (4c) true. For the person.
 
+### Why passing over is needed, and passing through is not (7 November)
+
+- **Passing over is Exhibit ONE's, and its code has it.** A 0 is not a parity; it is a between. In the code a self receiving a 0 does not observe it into what surfaces: `if _7_is_now_observing != 0` skips it. Exhibit ONE: “a 0 a self receives with 2-now-possibling, that self passing over it with 14-next-possibling” (561–562); “a receiving self passes over a 0” (568). The opening needs it at line 31 because do-no-harming is a self sharing a 0 (34): passing over is what the other does with that 0, which lets it go along as a between, entering no one. This is the co-linearizing.
+- **Passing through was v399Logic's word, and it is not needed.** No code line has it, and Exhibit ONE does not say it. It named the other receivings an ingesting self does not take in (an inverse parity, + and − together), whose cell is the same as nothing reaching (811). That is ingesting's is-not: one binary, ingesting is-or-is-not. A second name for the is-not side is a near saying, so it dissolves. What the person saw in it stays, said with the one binary: a parity not ingested harms nothing in the self, which turns its own prior over, the right-spiral turning.
+
+### Consciousness: the candidate withdrawn
+
+The person: too many new concepts; a more direct natural naming will be found with observing and possibling. The angle candidate is withdrawn. Line 30 waits for a saying with observing and possibling only.
+
+### No empty prior: one small out-and-back loop
+
+**The person: there is no now-existing thing with an empty prior; that would be magical trickery. All now-existing and prior-existing is inherited existing from prior-existing.**
+
+The loop, with three lines the opening has and one new:
+
+1. *Before now-existing is prior-existing.* (line 2)
+2. **2a, new:** *Each now-existing thing is inherited from prior-existing.* (out: prior to now)
+3. *A moment's now-existing is the next moment's prior-existing.* (line 8: back, now to prior)
+
+Out and back: what is now came from what was before, and goes on as what is before the next. No thing is in the loop without a prior, so an empty prior has no place, and nothing comes from nothing.
+
+**What 2a replaces.** Drafts 4a (inheriting) and 4c (inherited or ingested) fold into it. Ingesting becomes a kind of inheriting, said once living is said: *Ingesting is a living self inheriting an other's parity.* Exhausting stays: *Exhausting is a parity going out of a thing to an other.* Living keeps its criterion (15a): ingesting and exhausting; the non-living only inherits.
+
+**Exhibit ONE's openings.** Its executings open with empty priors and a first + offered by no self (1201). By the person's sentence these are not now-existing things. For Exhibit ONE's next version, a concern: open each executing from priors inherited from an earlier executing, never empty.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
