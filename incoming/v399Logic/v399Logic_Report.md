@@ -1233,7 +1233,7 @@ Columns: *In the 55* gives the line that bolds it now; *Added* gives where this 
 | possibling | 13 | of now-existing |  |
 | discovering | 14 | of next-existing, from a possibling |  |
 | bi-folding |  | prior and next folded around every now | mentions only |
-| bothbothing |  | reading a between from both openings | 4.15 |
+| bothbothing |  | dissolved from the opening: it is discovering, said with 1 to 17 (Exhibit 29) | 4.15 |
 
 ### 3 · Living
 
@@ -1605,6 +1605,12 @@ Its two next dimensions carry the space on: self-discovery next (10, 11) and soc
 **Candidate, revising 43c with the person's words:** *43c: A natural intelligence network, each self do-no-harming and the society bothbothing, improving, through self, other and society, is social abundancing.*
 
 **Open, as a concept.** Bothbothing and discovering both distinguish the next: is bothbothing the between of a same-existing name and its discovering name (12 )( 13), so that discovering is the odd name it opens onto, one concept seen from its two sides?
+
+**Answered (the person, 7 November): bothbothing is discovering, and the word dissolves from the opening.** All of this was discovered by bothbothing science's dead ends: either this is true or that is true, they cannot both be true, both are observed, and neither survives the other's test. Alternating the two, one after the other, back and forth, both are true: each true if the other was prior true, and next true if now is true. That is how natural intelligence and Exhibit ONE were discovered: the method of discovering. With the natural naming of 1 to 17, the invented word is not needed; it affirmed the rolling forward of the sequential logic of explaining natural intelligence and social torusing.
+
+**In the opening.** 11c is withdrawn. Discovering carries it, with Exhibit ONE's own between, each between from an even name to an odd a discovering (l. 193), and its is-or-is-not *same: sharing 0, or one inversion* (l. 225–226). Line 14, re-said: *Discovering is distinguishing is-or-is-not possibly next-existing, the same or one inversion after now-existing.* An either-or fixed as one is Exhibit TWENTY-TWO's *two-way fixing to one side* (3 )( 11): discovering is that between rolling.
+
+**For the gathering sessions (through v399mgr).** Natural Naming 4.15 names *bothbothing*; the person: the word is an invented one, and discovering with the names 1 to 17 says it. Its place in Natural Naming is for the next gathering.
 
 ## Exploring notes · not yet tested
 
