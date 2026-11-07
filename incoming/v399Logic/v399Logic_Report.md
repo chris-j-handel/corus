@@ -1349,6 +1349,27 @@ Columns: *In the 55* gives the line that bolds it now; *Added* gives where this 
 - *inheriting* beside *same-existing*: two concepts by scale (Exhibit 18).
 - *you* and *self-other consciousness*: dead ends in the 55; stay as naming for the files, or leave.
 
+### Settled with the person (7 November)
+
+| Concern | The person | In the opening |
+| --- | --- | --- |
+| Spelling | Use the common correct spelling where the person's is uncommon. | *floating neutralling*, as the files have it 147 times (7 times with one l); *attentioning*, as Natural Medicine has it. |
+| The eight's name | The eight together are social moral competency. | *Securities*, *safeties* and *protections* dissolve as names for the eight; Natural Intelligence 6.4 already says it: with social moral competency each self is with all eight, or none. 42c is re-said: *The eight of social moral competency are identity, security, trust and freedom from capture of each self, and undiscoverable identity, inviolable safety, unmistakeable reputation and uncapturable abundance between it and its others.* |
+| The between's name | Use Natural Naming's co-competencing. | *Bi-moral-co-competencing* (Natural Naming 5.58), not *bi-moral-co-agency*. Line 26: *The between of a me and an other is their bi-moral-co-competencing.* |
+| Passing over, passing through | Likely two concepts in resolving: a right-spiral turning and a co-linearizing. | v399Logic's reading, for the person: *passing over* is co-linearizing, a 0 a self passes over going along as a between (Natural Intelligence: a 0 going along with 9 is a between going along); *passing through* is the right-spiral turning, a parity the self is not ingesting while its own prior inverts, the alike step (x, y) to (y, −x) (Exhibit ONE 1083). |
+| The surface | *Universal surface* contradicts the universe as the set of now-existing things: not natural naming. A Natural Network is an engineered surface, not a natural one: an engineering extension of collective intelligencing as a method of discovering next-existing. | *Universal surface* dissolves. Candidate line 45: *Selves' bi-couplings and co-chainings are a natural torusing surface* (the person's own words, and Exhibit THIRTY 467: natural torusing surfacings within bi-couplings). *Natural Network surface* moves to natural engineering, beside line 52: *A Natural Network surface is natural engineering of collective intelligencing, a method of discovering next-existing.* |
+| Inheriting | Inheriting needs to come from conception of a new self in a society; not yet sure how to keep it in the logic. | Explored below. |
+| Consciousness | Consciousness is aiming over the horizon in relation to the direction facing an other: the angle living by opening and closing, forward attentioning. Not sure the words are natural naming; the concept is within the explaining. | Line 30 candidate: *The angle between a me's universal-parity and the other-parity it faces, closing and opening in turn, is self-other consciousness.* Exhibit 8's executings show the angle: closing with an agreeing other (a 0), opening with a change; a self alone or an opposite pair only opens. Consciousness then feeds aiming and geodesic and is no longer a dead end. |
+
+### Inheriting from conception, explored
+
+**Read with the person's sentence, inheriting is a new self's priors coming from its society's selves at conception, and ingesting is what comes from others while it lives.** Then *all now-existing is inherited or ingested prior-existing* reads plainly: a self's first priors are inherited, all after are ingested and resolved. A non-living thing only inherits: an artifact carries prior living's priors.
+
+- **This revises Exhibit 18.** A prior going on within a self, the same or one inversion, is resolving and same-existing, not inheriting. Draft 4a is re-said: *Inheriting is a new thing's prior-existing coming from others' prior-existing.*
+- **Exhibit ONE's opening, read as conception.** Its spirals open with “a self with an empty prior receives an other's parity as its next prior. From then that prior is a self's own” (1201). Read as conception, the first prior is an other's parity, inherited, not a thing from nothing. The first + offered by no self at a spiral's start stays an executing's opening (944).
+- **The vault** (Exhibit 15): the inherited value protected for a lifetime of living.
+- **Where it stands in the logic, two ways.** Early, with things (4a, before living), so that non-living artifacts are said too; or after the society (line 40), where a new self is conceived among selves. Both ways keep “each now-existing thing is inherited or ingested prior-existing” (4c) true. For the person.
+
 ## Exploring notes · not yet tested
 
 **Explored while the strict work paused, 6 November 2026. Nothing here passes a line; each note waits for the five conditions.**
