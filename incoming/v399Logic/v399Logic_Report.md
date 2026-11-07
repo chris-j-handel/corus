@@ -970,7 +970,7 @@ The executings behind 15a and 17a are in Exhibit 15; the code is at `incoming/v3
 
 | ID | Concern | Resolution | Candidate, in its place |
 | --- | --- | --- | --- |
-| A1 | two meanings of same | By scale, above. *Same* is signs agreeing (225) in lines 24 and 32; *same-existing* is the whole's going on (3, 9) and the parity's 0 (798). | line 31: *A self receiving a 0 is passing over it.* (Natural Intelligence opening; Exhibit ONE 561–562) |
+| A1 | two meanings of same | By scale, above. *Same* is signs agreeing (225) in lines 24 and 32; *same-existing* is the whole's going on (3, 9) and the parity's 0 (798). | line 31 (re-said 7 November): A 0 is a between going along*.* (Natural Intelligence opening; Exhibit ONE 561–562) |
 | A2 | line 3 never says now-existing | Say the thing now-existing, going on from its own prior. | line 3: *A same-existing thing is a now-existing thing going on as the same thing from its own prior-existing.* |
 | A3 | same-existing runs both ways | Line 3 from the prior opening, line 4 from the next: one between said from both openings (bi-folding). With line 3 re-said, *going on* runs forward in its own words. | none |
 | B1 | a set the same while members change | A whole is same-existing, its 0, while its priors change (Exhibit ONE 9); by 4c no member comes from no prior. | none |
@@ -1005,7 +1005,7 @@ The executings behind 15a and 17a are in Exhibit 15; the code is at `incoming/v3
 | H1 | resolving as an act | Say distinguishing. | line 32: *Resolving is a self distinguishing whether an other-parity reaching it is the same as its prior-existing.* |
 | H5 | observing a past thing | Line 12 re-said, observing prior-existing; a self receives an other's parity of one moment before. | none |
 | I1 | what surface names | The person: a living self is a universal-parity surface in the universe. | line 45: *Selves' bi-couplings and co-chainings are a universal surface.* |
-| I2 | geodesic beside resolving | Resolving is one self's is-or-is-not; geodesic is a universal-parity's way through each self's is-or-is-not in turn. A harmed between breaks the bi-coupling, so no common geodesic (the person). | line 46: *Geodesic is a me's universal-parity going through each self's is-or-is-not on a universal surface, one way at a time.* 46a: *A harmed between is not on the universal surface, and no geodesic goes through it.* |
+| I2 | geodesic beside resolving | Resolving is one self's is-or-is-not; geodesic is a universal-parity's way through each self's is-or-is-not in turn. A harmed between breaks the bi-coupling, so no common geodesic (the person). | line 46: *Geodesic is a me's universal-parity going through each self's is-or-is-not on a universal surface, one way at a time.* 46a (re-said 7 November): A common geodesic goes through healthy betweens*.* |
 | I3 | a self's is-or-is-not on the surface | Exhibit ONE: a bi-coupling is-or-is-not on the surface (228). | 46 |
 | I4 | line 47 co-chains | Co-chaining is a parity going along, bi-coupling to bi-coupling (44); geodesic is a universal-parity's way through them (46): so a universal-parity's co-chaining is geodesic. Derived. | line 47: *A me's universal-parity co-chaining is geodesic.* |
 | J1 | one within | Membership only. Line 51 is Exhibit ONE's sentence (9) and stands. | line 36: *Co-possibling is a self and an other possibling across one bi-coupling.* line 39: *Others' prior-existings ingested into a self's possibling are its co-aiming.* line 52: *Selves aiming with a living file are natural engineering.* |
@@ -1389,11 +1389,33 @@ The loop, with three lines the opening has and one new:
 2. **2a, new:** *Each now-existing thing is inherited from prior-existing.* (out: prior to now)
 3. *A moment's now-existing is the next moment's prior-existing.* (line 8: back, now to prior)
 
-Out and back: what is now came from what was before, and goes on as what is before the next. No thing is in the loop without a prior, so an empty prior has no place, and nothing comes from nothing.
+Out and back: what is now is inherited from what was before, and goes on as what is before the next. Every thing in the loop is inherited from prior-existing.
 
 **What 2a replaces.** Drafts 4a (inheriting) and 4c (inherited or ingested) fold into it. Ingesting becomes a kind of inheriting, said once living is said: *Ingesting is a living self inheriting an other's parity.* Exhausting stays: *Exhausting is a parity going out of a thing to an other.* Living keeps its criterion (15a): ingesting and exhausting; the non-living only inherits.
 
 **Exhibit ONE's openings.** Its executings open with empty priors and a first + offered by no self (1201). By the person's sentence these are not now-existing things. For Exhibit ONE's next version, a concern: open each executing from priors inherited from an earlier executing, never empty.
+
+### Common and natural: no actor, no cause, no negation of existing (the person, 7 November)
+
+**The person: *passing over* is a character in a story doing this, and resolving has no story and no actors. *Nothing comes from nothing* is where common language fails to stay living: derived from a valuable meaning, it extends to a useless declaration about itself. This is common and not natural, and explaining the difference is the same as no possible equilibria, no hard problems, no cause and effect in science, and no competency discoverable in science's explaining.**
+
+Natural Explaining already holds this, three ways:
+
+| Natural Explaining | Says |
+| --- | --- |
+| 3.1 No cause and effect | A coupling shares and nothing makes; a *because* installs a maker over a momentarying holding none. An equilibrium is a fixing, and its thing goes on changing. |
+| 3.2 A doer over a doing | Each doer a writing installs over an -ing dissolves: each doer is a frame, a cause and a why together. A character is a verb of wanting, owning or seeking that needs a self as its container. A verb holds a doing with no doer. |
+| 3.3 Releasing negation of existing | Nature holds no negation: say its positive. A thing that provably cannot exist is not possibly existing. |
+
+**Applied to the drafts.**
+
+- **Line 31, re-said with no actor:** *A 0 is a between going along.* Natural Intelligence: a 0 … going along with 9 is a between going along; Exhibit ONE: each parity and each 0 going along (568). *Passing over* dissolves as a doer's verb; the concept stays, a 0 within no prior.
+- **The loop, said positively:** every thing is inherited from prior-existing. *Nothing comes from nothing* is withdrawn from this report; it was v399Logic's.
+- **46a, re-said positively:** *A common geodesic goes through healthy betweens.*
+- **34b, in Natural Naming's form (5.64):** *An equilibrium is not possibly existing.*
+- **Line 53, natural explaining, a candidate carrying this:** *Natural explaining is a living file's words co-chaining in sequence, each verb a doing of its own.*
+
+**The one difference.** Common language fixes a binary as one: a doer makes, a cause brings an effect, a negation points at nothing, an equilibrium holds. Natural explaining keeps each is-or-is-not going both ways, rolling. That is why it is one difference with no equilibria and no hard problems (Exhibit 20).
 
 ## Exploring notes · not yet tested
 
