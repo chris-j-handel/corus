@@ -249,9 +249,12 @@ Gathering-Value · Natural Naming
 
 ### 4.15 Bothbothing at its prefixing, and an ordering with nothing ordering
 
+- **An explaining** · Bothbothing is discovering. Two observings, each failing the other's test, are both, one and then the other: each true as the other was prior true, and next true as now is. Exhibit ONE says it with its names: each between from an even name to an odd one is a discovering, and its is-or-is-not same is a 0 or one inversion, one and then the other. With the names 1 to 17 the invented word is not needed.
+
 ### 4.16 All or none at all, and an entering and leaving it has
 
 - **Possible incohering** · "A self's bounding, discovering next self and orienting are its own, nothing reaching them, couplings winding about a nothing: privacy, trust and security are that one nothing with three substrates." → *Substrate* dissolving from the set's naming, each saying re-said by its meaning; this sentence's *three substrates* is its present saying, a re-saying by meaning still-possibling.
+- **An explaining** · With social moral competency each self is with all eight or none: identity, security, trust and freedom from capture of each self, and undiscoverable identity, inviolable safety, unmistakeable reputation and uncapturable abundance between it and its others. The eight are Exhibit ONE's now names 1 to 8, four of one (1, 2, 7, 8) and four co (3, 4, 5, 6), each going on as its name eight up. Their one name is social moral competency; *securities*, *safeties* and *protections* are second sayings of it, and dissolve.
 
 ### 4.17 A hyphenated naming inseparable, and natural- at chirality
 
@@ -312,6 +315,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "and a between locks with none, 5.13" → Its twin at the Co-Chaining Logic Registry, step 134, says a bi-coupling's handshake as *exchanging's shape always uneven, its locking an empty set*; a re-saying by that twin, and this sentence and its step re-said at one going.
 - **Possible incohering** · "A between is two sharing, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now and with 14-next-possibling between two parities, same and not-same a parity's 0 and ± there, needing no name." → Two sayings part at 0: Natural Numbers 1.4 has "+ and − are an implementing of a parity and 0 a between", and an other saying has a between as a bi-coupling and 0 as its changing that is not, the two one, as Natural Physics 1.2 has "a 0 with 10 is a changing that is not". A re-saying is 1.4's sentence re-said; a between and a changing that is not are two words at one 0, its one word Natural Naming's.
 - **Possible incohering** · "**A between is one, scale by scale**: within a momentary a between of self and other, changing, bi-moral across and co-competent along, and between momentaries a between of momentaries, a momentary discovering its next, nothing momentarying with it, one same between, a nothing, scale by scale: a fractal between, its floating neutralling golden floating neutralling, 5.12." → Two sayings part at *nothing*. A binary beside it has a 0's is-not side nothing, an empty set and a still; words for 0 have *nothing* or *null* naming 0's is-not side, the empty set and not a between, and *zero*, the number, straddling, heard as nothing; and at its edge 0 is heard as nothing. This sentence has a between, scale by scale, *a nothing*, and 2.4's *membrane* row has a between of self and other *a nothing, no location and no existing thing*.
+- **An explaining** · A 0 is a between going along: each parity and each 0 goes along with 9-next-co-discovering, and a 0 enters no prior. Said with no doer over a doing, *a self passing over a 0* is *a 0, a between going along*. *Passing through* dissolves: a parity a self is not ingesting is ingesting's is-not, one binary.
 
 ### 5.6 invisibling — binary
 
@@ -339,6 +343,8 @@ Gathering-Value · Natural Naming
 
 ### 5.12 floating neutralling — binary
 
+- **An explaining** · A 0 is a prior same-existing, floating neutralling: its prior going on unchanged and its sharing a between. With Exhibit ONE a sharing of 0 is its prior same-existing, and a self sharing 0 is do-no-harming; a 0 is with self-parity, the same or one inversion.
+
 ### 5.13 bi-momentarying — binary
 
 - **Possible incohering** · "*Co-offering* dissolves with it: an offering is across and both ways, a self's to an other and an other's to a self." → *Co-offering* dissolves with it: a sharing is across and both ways, a self's parity to an other and an other's to a self.
@@ -349,6 +355,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "With resolver, co-competencing is 5-now-co-existing, bi-couplings, in neither self alone, 4.9 and 3.5." → With resolver's lines 5 passes on with (self, 6), (self, 10) and (self, 9), two sharings across and one going along. Exhibit ONE's table *Namings among names* has at 5 *bi-couplings, each self's with its others: each going to its receiving sharing*; 5.14 has 5-now-co-existing *bi-couplings*; and 2.4 has *releasing* only along, *a self releasing to*, *a self releasing from*, with its 9 or 17. Two sayings part with 5's word for each passing on: *releasing* as 5's own word for each passing on, across and along; or 5's word its passings on, *bi-couplings*, with *releasing* along with 9.
 - **Possible incohering** · "and it compounds" → 5.14's sixth line, *and it compounds*, is a compounding, a more, and 4.16 has *a more-or-less brings a magnitude*. A compounding or a multiplying is no relation co-competencing asks a proving of: each changing is binary, and a numbered greater possibling is its own. A sixth line completing 5.14, a next binary with no magnitude, is open, with abundancing at 1.2, 5.48 and 5.53 waiting on a social correcting at Natural Values.
 - **Possible incohering** · "**Co-competencing is bi-co-momentarying with couplings across**, 5.54, arising in each self with its other; competency is each self's own, a co-linear recursioning forward along." → Beside it: a competency is improved, and not parity-changed.
+- **An explaining** · Selves' bi-couplings and co-chainings are a natural torusing surface, Exhibit ONE's 5-now-co-existing, co-competencing. *Universal surface* is no natural naming: the universe is the set of all now-existing things and has no surface. A Natural Network surface is an engineered surface, natural engineering of collective intelligencing, a method of discovering next-existing.
 
 ### 5.15 inseparating — binary
 
@@ -451,6 +458,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "Existing, artifact and accounting are three placings of a term; installing is a binary between artifact and ghost: a self observing it as prior's possibling, it is an artifact, and observing it as now's existing, a ghost." → A dissolving beside it: *artifact*, it carrying two things. Each now-existing non-living thing is a stable-forming emanation, a noun, with no -ing of its own, no longer living and with no method of now-existing of its own, living things said with -ing; and with *artifact* meaning only a prior-existing thing a self is observing now, Natural Intelligence's opening *observing* says it. This section's naming *artifact* is its present saying. Behind it: *what is the artifact. this is a new term ingressing* and *stable-form emanating non-living now-existing thing. this is the concept in natural naming and explaining that may be helpful where the word artifact was dissolving* and *this is not some and not other non-living now-existing things. all now-exising non-living things are this* and *stable-forming emanation is a better explaining as it is no longer living and no longer needs -ing on its own method of now-existing.*.
 - **Possible exploring** · An anticipated observing: mirror-image bacteria, if made, *would go unrecognised by immune systems and uneaten by predators*, a field's warning. It is a warning, and no observing of mirror living. — at "**An artifact is harmful to living of its own scale, and not ingestible with that scale**: its form is bi-tri-involutioning, opposite form, which does not match right spiral ingestion."
 - **Possible incohering** · "**One scale lower it is an ingestible stable form**, living selves ingesting it through their selves one scale inward, a same-existing-society, a living set." → Beside this sentence: ingressing is meeting a society through its surface at its own scale, and ingesting is along its tunnel one scale lower; a body is a torus whose gut is its tunnel, the large opening.
+- **An explaining** · Each now-existing thing is inherited from prior-existing. A non-living thing only inherits: an artifact carries prior living's priors, as a stone breaks along fracture planes between its layers across and along. Ingesting is a living self inheriting an other's agreeing parity, only into a self, and exhausting is a parity going out of a self; living is ingesting and exhausting. A stable form is non-living: living's exhausting accumulating and compacting, the opposite shape of a natural torusing surface, bi-tri-involutioning.
 
 ### 5.47 an accounting — binary
 
@@ -494,6 +502,8 @@ Gathering-Value · Natural Naming
 
 ### 5.58 bi-moral-co-competencing — binary
 
+- **An explaining** · The between of a self and an other is their bi-moral-co-competencing, a between with priors of its own: Exhibit ONE's 3-is-now-co-observing and 11-next-co-observing, priors with each sharing. *Bi-moral-co-agency* is a second saying of it and dissolves. Do-no-harming is one concept at two places: a healthy between, a 0 shared, or a healthy other, a parity leaving it alike to nothing reaching.
+
 ### 5.59 co-independencing — binary
 
 - **Possible incohering** · "**Co-independencing is selves together, each whole with its own momentary and with its sharing across**: co- selves together, same-existing or not, in- inward, each self depending inward on its same-existing, from its bi-couplings inward and outward, its root a depending and -ing its going on, each coupling one between wholes." → This section carries *independence*, a dissolved word, at one or two sentences; its saying at the sentences doing its work is still-possibling.
@@ -523,6 +533,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "a living carrying resolver's one none being an offering not arrived or an offered 0 passed over and not an offering not existing" → resolver's one none, with a living self, being its possibling an empty set or a 0 it passes over, each an existing sharing
 - **Possible incohering** · "Three part with a resolver: possibly existing, each existing thing with its next, a self discovering it with next momentary; not possibly existing, binary logic excluding it; and not existing, on no line, a living carrying resolver's one none being an offering not arrived or an offered 0 passed over and not an offering not existing, and on registry's front, not possibly existing, all or none at all." → *Carrying* dissolving, said *same-existing*, *going on* or *has* as 2.5 says *carry*; this sentence's *a living carrying resolver's one none* is its present saying.
 - **An explaining** · *Impossibling*, still-possibling, is avoiding each prior that could lead to a specified next, a direction for explaining next possibilities excluded. A next not selected, a next no longer possible and an anticipated observing of a next are three, no equivalence among them shown.
+- **An explaining** · With Exhibit ONE not possibly existing is with its is-or-is-not same, a 0 or one inversion for each prior: the code goes one way or the other and has no line for both. An equilibrium, a now fixing as its next, is not possibly existing; a hard problem is one binary fixed as one, its evidence with no living self whose prior it is.
 
 ## SIX · GATHERINGS AT THE RESOLVER'S NAMES
 
