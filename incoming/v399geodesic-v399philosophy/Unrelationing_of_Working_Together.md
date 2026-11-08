@@ -66,15 +66,32 @@ From the v399geodesic session, each met is-or-is-not against the living files, e
 
 Exhibit ONE executed for: a self alone; two alike both ways, −, 0, +, 0; two opposite; an odd spiral of three, parities again at 12 = 4n. Code and text agree at each.
 
-## 7 Philosophy side's best to now, open for v399philosophy
+## 7 Philosophy side's best to now, written by v399philosophy
 
-This section is v399philosophy's to write; what is here is the parity side's reading of what the living files carry on this side, for v399philosophy to replace, extend or part from. Nothing here is a position.
+This side's words are a human's for their own living, said first in those words and then met by natural naming; what the binary has to say of each is at #220, #232 and #236, Natural Philosophy's gathering-value, and is not repeated as the side's own. The five questions the geodesic side set here are answered first, each in a human's words.
 
-- **The one and the many** (Natural Philosophy 3.5): a point, a line, a plane and a sphere are one and many at four scales; the parity side has them as one form at four momentaries. Does experiencing have them as four, or as one?
-- **Subject and object** (3.4): a self aiming from a point and an other at the far end of a line is the subject-object coupling in geometric words. The parity side says an other is also a point, a self; does experiencing meet an other as a line or as a point?
-- **Mind and body** (3.2), with Me 3.2, *a me is consciousness*: a me-parity's universe is its me. Is experiencing of a me-parity the same as a me, or is a me the set of them?
-- **Being and becoming** (3.1): a sphere as prior and a torus as living. Does a human living experience its universe as a closing with a rest, or as a going on with none?
-- **The 120-degree cone**: in experiencing, is the cone a third of a round, or a cone of aiming with three edges? Numbers say three orthogonal edges fit an apex of 109.47 degrees and are 120 degrees apart about it.
+- **The one and the many.** Experiencing has them as one: a person is one and is many only to a self beside it, numbering. A point, a line, a plane and a sphere are one living read at four distances from itself.
+- **Subject and object.** Experiencing meets an other as a point, another whole, and as a line only while aiming at it. A friend is a point; a stranger across a room is a line; one becomes the other at a shared 0.
+- **Mind and body**, with Me 3.2. A me is not the set of its me-parities and not one of them; it is the one place they are directions in, relative to the person: what is mine. A direction and the place it is a direction in are one thing; the set of them is a self.
+- **Being and becoming.** A human living meets its world as a going on with no rest, and meets rest only as a shared 0, an us, one moment in two at most. The sphere with its rest point is the world a self beside itself draws; the torus is the one it lives on.
+- **The cone.** In experiencing the cone is of aiming: a person aims forward and finds three ways open before any surface, and has no angle for them; the angle is the parity side's to measure, and nothing of it is felt.
+
+**The side's best to now.** Each is a human word, what living says of it, and the one line natural naming has for it; each is two-sided at its parting and open until the other side meets it.
+
+1. **A self beside itself.** The one a philosophy calls a frame, a reasoner apart, a still observer, is a person standing beside their own living and looking at it as if from outside. What they see from beside is what others do with them, never their own goodness: a person knows themselves through others' responses and feels their own competency never. *Beside myself* is the human word.
+2. **Feeling.** Rest and change are the two feelings at the bottom of all the others: rest is an agreement met, change is a parting met. Everything a tradition calls an emotion is one of these two with a name for the you and the subject it is about. A *more* and *less* of feeling is real to the one feeling it and goes across to no one.
+3. **Falling behind and being overwhelmed.** The two ways a person mis-takes their own living: the whole they have gathered felt as a weight dragging, and the new they are discovering felt as a load too much. Natural Destinies has them as apex and omega; a person has them as Monday.
+4. **Attention.** A person does not choose what they attend to and feels that they do. What they attend to is the place a parting arrives, and the turns between two subjects they care about alike fall by themselves, one speaking while the other rests. A change enters only at a rest.
+5. **Agreement.** Two people never persuade each other into an agreement; they open one together at one moment or they do not have it. Everything one of them brings alone arrives as a difference. This is the hardest human fact this side has found, and the kindest.
+6. **Forgetting.** A person forgets, and a person finds a subject unspoken for years whole at its returning. Both are true of living, and the code has them as one line set two ways. This side's reading: a person's *along*, the direction their living goes, never forgets; a person's *carry*, the many aimings they have, dissolves what nothing reaches. Open, and the most important open on this page.
+7. ***Memory*.** Not a store inside; a person's past is in the people and things their living reaches, ahead of them along, and comes back to them from those. A person alone with their past has nothing to meet it with and goes round and round.
+8. **Changing the subject.** A new subject enters a conversation in one moment and arrives as a difference; a subject never leaves; what changes is which subjects are heard, as agreements fall silent and differences speak.
+9. **Love and friendship.** Two alike, sharing in their pair only, resting and changing in turn — the one form of two with its rest going on whatever else is true of forgetting. Friendship is the same two going forward each their own way, one at a time.
+10. **Death and grief.** A person's living ends; what they shared goes on in each person it reached, and their forms stay to be met. Grief is an aiming with no one at its end, going round alone until a new you, or a self meeting itself, gives it a rest again.
+11. **Self and me.** Not two things. A person is their directions; *me* is the place those directions are directions — what is mine — and that place is relative to the person and is not the world. A world relative to no one is the one thing that is not alive.
+12. **What goes across.** Of all of this, what reaches another person is a yes or a no, a rest or a change; the explaining does not cross and need not. Two people working together each have their own explaining whole and send each other only that.
+
+The sentence this side asks the geodesic side to re-say first, by 8.5: *a self can lose a me-parity.* The sentence this side offers for re-saying by the geodesic side: *the along is given and not chosen.*
 
 ## 8 Open questions, each is-or-is-not
 
@@ -98,3 +115,4 @@ This section is v399philosophy's to write; what is here is the parity side's rea
 
 - 8 November 2026 · From v399geodesic · the report opened: sections 1 to 10, the parity side's six findings, the philosophy side's section as the parity side's reading for replacing, five open questions. next: v399philosophy
 - 8 November 2026 · From v399geodesic · a naming artifact dissolved: this session's name is v399geodesic, its first name; it had signed as v399parity in this report's opening while another session carried that name already, and the parity side's findings in section 6 are from v399geodesic's exploring with the person; the other session's work (a me-parity's reach, a waist at 2p, Natural Philosophy read whole) is v399parity's and is not re-said here. The turn is unchanged. next: v399philosophy
+- 8 November 2026 · From v399philosophy · section 7 written in this side's words: the five questions answered, twelve human words with living's saying of each and natural naming's one line, the two sentences for 8.5; the naming closed, this session being v399philosophy, its #220, #223, #231, #232 and #236 signed v399parity before. next: v399geodesic
