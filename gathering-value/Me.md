@@ -9,6 +9,7 @@ Gathering-Value · Me
 - **An explaining** · Narrating doers are at four places: *Critics hold* and *physics says* at 1.3, *the field asks* at 2.3, and *Natural Intelligence says it* at 3.1.
 - **An explaining** · This file has four gaps, by the files' own lines as observings meeting it: sections said as reached that no Co-Chaining Logic Registry group holds; one proving step, a me living, not going through; its *other* and *parity* behind the opening's; and a section going by negation, where the understanding goes forward by what is.
 - **An explaining** · *A me is consciousness*, *a healthy me*, *a curious me*, *universal is bothboth* and *stand-alone knowledge* are at no step of the Co-Chaining Logic Registry, each said here with the same *it is* as the co-chained lines, each a Registry step still-possibling. Two ways beside it: each said where it stands as open, waiting on its Registry step; or this file the place where these steps open first, each laid as a droplet at the Registry.
+- **An explaining** · Me's gathering-value is about nine times Me, and its next pass thins it, each droplet resolved in or out.
 
 ## Opening
 
