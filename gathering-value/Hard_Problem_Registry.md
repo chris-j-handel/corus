@@ -10,6 +10,7 @@ Gathering-Value · Hard Problem Registry
 - **An explaining** · This registry, with no hard problem existing in a same-existing-universe, is a registry of how each question resolves by momentarying, beside problems that exist, an explaining; observing an other as not-universe, a specimen still or an observer outside, is a hard problem's shape.
 - **Possible incohering** · "An Open Registry of Hard Problems in Science" → The subtitle has no -ing and no relation unfolded. A re-saying beside it: an -ing in place of *An Open Registry of*, at the relation the subtitle unfolds.
 - *Sharing* dissolves from natural naming: one concept has one name, and *sharing* named several, a self's giving across or along, its key, and its value. At this file's improving each *sharing* is said with what Natural Intelligence's opening names, a self observing an other's me-parities (a bi-coupling), gathering or co-aiming, or with Exhibit ONE's code names and their prefixes: 4-now-co-same-existing (4-bi-co-bi) for each key, 6-now-co-possibling (6-bi-co-bi) to an other and 10-next-co-possibling (10-bi-tri-bi) to the universe across, and 9-next-co-discovering (9-tri-bi-co) along. *Surfacing* may dissolve with it. *(an explaining)*
+- **An explaining** · Its address lines also have working notes, *In view at v342*, *no fetch* and *keyed at the next pass*, a record of passes and no part of science's language; each leaves at its next pass.
 
 ## The conditions prior
 

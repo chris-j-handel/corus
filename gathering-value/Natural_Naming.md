@@ -7,6 +7,7 @@ Gathering-Value · Natural Naming
 ## Head, the whole file
 
 - **Possible incohering** · "Turn released, and a momentary in its place" → A heading carrying a dissolved word gives that word a file's most-read place: *Turn released*, *Released words, each with its saying*, *parity changing*, *a carrying* and *THE UNFOLDING'S RELEASING* are each re-said with the naming of their own concept.
+- **An explaining** · About three hundred section numbers and other files' names are in this file; a section number is a coordinate, and each file is called by its title alone, one name in each place, each sentence carrying its own step.
 
 ## ONE · A NAMING, FOUR BOUNDINGS AT ONCE
 

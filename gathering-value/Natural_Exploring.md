@@ -102,6 +102,8 @@ Gathering-Value · Natural Exploring
 
 ### 5.5 An accounting converting a changing between state and flow to a level or a rate
 
+- **Possible incohering** · "This makes it a competency method rather than a better accounting, and it leaves an accounting competent with each thing it has, counting, levelling, rating and closing states and flows, its arithmetic whole." → Its *leaves an accounting competent with each thing it has* parts from the all or none at all claim that science's and common explaining is exactly wrong for each valuable observing.
+
 ### 5.6 Observing accountings co-sequentially, one at a time
 
 ## 6 Between selves, a same-existing-society co-competencing and going on open
