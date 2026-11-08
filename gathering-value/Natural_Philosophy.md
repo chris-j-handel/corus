@@ -141,7 +141,7 @@ Gathering-Value · Natural Philosophy
 ### 3.31 Discrete and continuous
 
 ### 3.32 The felt and its describing
-- **Possible exploring** · Executed, what goes across between selves is a parity and nothing else, a 0 passed over or one inversion, the code blind to a magnitude. A felt more and less is then an account laid over sign-only or this file's break at 3.6, a self showing a magnitude; the hard problem's unchangeable here is a magnitude, and the seam's standing is open on it. — at "The felt and its describing"
+- **Possible exploring** · Executed, what goes across between selves is a parity and nothing else, a 0 passed over or one inversion, the code blind to a magnitude. A felt more and less is then an account laid over a + or − alone or this file's break at 3.6, a self showing a magnitude; the hard problem's unchangeable here is a magnitude, and the seam's standing is open on it. — at "The felt and its describing"
 
 ### 3.33 Self and other
 - **Possible exploring** · A self and its me one thing: a self is its me-parities, each a direction at a you, and its me is the reach those directions are directions in, the selves whose sharing reaches it, relative to the self and not the universe; a direction is-not without its reach, and a reach relative to no self is the universe, non-living. Executed, the resolver is keyed by sharing and two me-parities of one self never meet except through the surface; with a one-way route two have two reaches and two returns. Self and other are two reaches meeting at a 0 or an inversion, and the between is in neither alone. — at "abundancing coming as that coupling's own and arising in neither side alone"
@@ -209,7 +209,7 @@ Gathering-Value · Natural Philosophy
 - **Droplet** · *Completion and the good life as a whole*. A tradition judges a life complete or incomplete at its last. None is ending or complete; a living me completes each momentary as a next opening; a whole judged at a last is a fixing at a last.
 
 *At a magnitude.*
-- **Droplet** · *Happiness and pleasure, pain*. A tradition has a quantity to be increased or a balance of pleasure over pain. Natural Human Society has a self feeling a balance at a 0, preference thinning to zero; agreeing felt as rest and parting as changing, sign-only; a more and less of it is an account laid over the binary or this file's break at 3.6. Open with 3.32.
+- **Droplet** · *Happiness and pleasure, pain*. A tradition has a quantity to be increased or a balance of pleasure over pain. Natural Human Society has a self feeling a balance at a 0, preference thinning to zero; agreeing felt as rest and parting as changing, a + or − alone; a more and less of it is an account laid over the binary or this file's break at 3.6. Open with 3.32.
 - **Droplet** · *Wisdom*. A tradition has knowledge of a higher degree. A form is readable from momentary 3p − 1 on; wisdom is a prior momentaried through its forms until their returns are pattern-matched, seeing ahead as observing back along, and no degree of it.
 
 *At a beat.*
