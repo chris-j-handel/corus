@@ -33,7 +33,7 @@ Gathering-Value · Natural Destinies
 
 ### The two mis-observings at a substrate of engineering, a self receiving them
 
-- **Possible exploring** · The two cones with numbers: names 1 to 8 as n − 1 in binary are a cube's corners, and a cube along its diagonal is a double cone, apex at 1-now-existing, three edges in, six corners at a waist, three edges out, apex at 8-now-same-existing; two cubes end to end, 1 to 8 and 9 to 16, are the two cones, gathering whole and reaching, 9 their waist, and the three edges at each apex are 120 degrees apart about the centerline and orthogonal to each other, each a binary digit, other, self and society — at "Corrections are two cones themselves, a gather as value going on and a reach as sharing forward, and a destiny a self imagines with any substrate is clean where a self observes both cones as living."
+- **Possible exploring** · The two cones with numbers: names 1 to 8 as n − 1 in binary are a cube's corners, and a cube along its diagonal is a double cone, apex at 1-now-existing, three edges in, six corners at a waist, three edges out, apex at 8-now-same-existing; two cubes end to end, 1 to 8 and 9 to 16, are the two cones, gathering whole and reaching, 9 their waist, and the three edges at each apex are 120 degrees apart about the centerline and orthogonal to each other, each a binary digit, other, self and society — at "Corrections are two cones themselves, a gather as value going on and a reach as sharing forward, and a destiny a self imagines with any substrate is clean as a self observes both cones as living."
 
 ### The observing at every destiny a self imagines
 
