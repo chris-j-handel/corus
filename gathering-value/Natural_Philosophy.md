@@ -16,6 +16,8 @@ Gathering-Value · Natural Philosophy
 
 ### 1.1 Core, bi-moral co-agency and philosophical dilemma
 
+- **An explaining** · A philosophical dilemma is a two-way fixing to one side, 3-is-now-co-observing and 11-next-co-observing fixed as one: two positions, both observed, each failing the other's test. Discovering is the two one and then the other, each prior-existing for the other's next. Common explaining of living, as a self experiences it, says the fixing; resolving says the going on; the two are one learning with two sides.
+
 ### 1.2 A position, a dilemma, and the six run one-way
 
 ### 1.3 Dividing method, one requirement worn four ways
