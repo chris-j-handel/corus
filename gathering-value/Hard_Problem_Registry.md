@@ -20,6 +20,8 @@ Gathering-Value · Hard Problem Registry
 
 ## 2 Hard problems in science
 
+- **An explaining** · A field's own words fix a binary as one: a doer over a doing, a cause bringing an effect, a negation of existing, an either-or with both observed and each failing the other's test, a store. Each is one of Resolving the Hard Problem Registry's ten, a now name and its name eight up fixed as one; its resolving is that between going on, one and then the other, each true as the other was prior true and next true as now is.
+
 ## 3 Derivation
 
 ### 3.1 What a refutation identifies
