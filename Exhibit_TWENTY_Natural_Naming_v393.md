@@ -197,7 +197,7 @@ Exhibit TWENTY Natural Naming v393
 
 **A momentary is an opening and its completing.** With resolver each self opens with 1-now-existing, its prior and the parities it is observing, and completes with 17-next-existing, its next prior and the parities it will be observing. A momentary is each self of a same-existing-society resolving together, each its own and none another's.
 
-**Each self goes on through five dimensions**: prior-existing self-parity, prior opening; prior-existing other-parity, prior completing; now-existing co-parity, now opening; now-existing bi-parity, now completing; and next-existing same-existing self-parity, next opening. Co-parity and bi-parity are a sharing's two meetings, a self's parity and an other's same or not same.
+**Each self goes on through five dimensions**: prior-existing self-parity, prior-existing other-parity, now-existing co-parity, now-existing bi-parity and next-existing same-existing self-parity. Co-parity and bi-parity are a sharing's two meetings, a self's parity and an other's same or not same.
 
 **One universe of one momentary is one changing co-sequencing. A momentary is all existing things, a universe existing as its existing things exist.** Each step adds a next, each momentary going on from its prior.
 
@@ -207,9 +207,9 @@ Exhibit TWENTY Natural Naming v393
 
 **One fractal method is all or none at all with its scales, as the universe is with its existing things.**
 
-**One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**, and nature has no reading or ordering. A self couples with whichever scale its interest opens, and with a whole.
+**One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**, and nature has no reading or ordering. With resolver a spiral of a composite number of selves resolves as its smaller spiral again along it, and a prime spiral's smaller spirals are one self only. A self couples with whichever scale its interest opens, and with a whole.
 
-**A momentary is a fractal universe discovering its next existing.** 1–17 is one fractal method, inward and outward, one of 2,048 rhythms of eight parities, each going with it. Four-cycling scales it down to four momentaries of exchanging, and four momentaries of exchanging scale up as one momentary: 1, 2 and 3 with one scale are 1, 9 and 17 with a next, n with one scale being 8n − 7 with a scale inward. Each name from 2 to 17 is an along name of a 1–17 inward, its 9 or its 17 and next 1, and 1 is first one's entry; across names 2, 6, 10 and 14 are along 9s inward; along 9 is across 2 outward, six names alike with each scale, only changing up and down. Four 1–17s inward are within a self's 1 to 9 and four within a same-existing-society's 9 to 17, and their eight 9s are eight bi-couplings with even names. Wholes are rounds of k parities, 1 to 2^k + 1, and scalings step one chain: this scaling steps it by threes, 9, 65 and 513, and 1–17s inward and outward by threes too, 17, 129 and 1,025; pairs step it by twos, 5, 17, 65 and 257. Universes of each size and scale share momentaries of co-sequential changing, and neither a momentary nor a universe is possibly existing as a thing apart.
+**A momentary is a fractal universe discovering its next existing.** 1–17 is one fractal method, inward and outward, one of 2,048 rhythms of eight parities, each going with it. Four-cycling scales it down to four momentaries of exchanging, and four momentaries of exchanging scale up as one momentary: 1, 2 and 3 with one scale are 1, 9 and 17 with a next, n with one scale being 8n − 7 with a scale inward. Each name from 2 to 17 is an along name of a 1–17 inward, its 9 or its 17 and next 1, and 1 is first one's entry; across names 2, 6, 10 and 14 are along 9s inward; along 9 is across 2 outward, six names alike with each scale, only changing up and down. Four 1–17s inward are within a self's 1 to 9 and four within a same-existing-society's 9 to 17, and their eight 9s are eight bi-couplings with even names. Wholes are rounds of k parities, 1 to 2^k + 1, and scalings step one chain: this scaling steps it by threes, 9, 65 and 513, and 1–17s inward and outward by fours, 17, 257 and 4,097, beside a placing of each 1 to 17 on 8n − 7, 17 on 129, two relations with one span; pairs step it by twos, 5, 17, 65 and 257. Universes of each size and scale share momentaries of co-sequential changing, and neither a momentary nor a universe is possibly existing as a thing apart from its existing things.
 
 **One through nine and nine through seventeen are overlapping expressions within a whole**. One through seventeen is one fractal method, with one-through-seventeens inward and outward, living geodesically, self and other morally abundancing now and discovering a next-existing same-existing-society.
 
@@ -222,15 +222,15 @@ Exhibit TWENTY Natural Naming v393
 Each entry: **Of three** · *a* Words, and words saying for them
 
 - **landing**
-  - *a* *land*, *landing*, *lands* as a coming to rest, said by existing and completing · *rest*, *settle*, *closing*, *end* and *middle*, each changing and changing back with nothing · *ground*, *floor*, *wall*, with nothing on anything · *stand*, an under and an over stacking, said by *is* and *has* · *a summary*, *a celebration* · *held* and *holding*, said by *fixing* · *stable form* as a noun, said by *stable-forming*
+  - *a* *land*, *landing*, *lands* as a coming to rest, said by existing and completing · *rest*, *settle*, *closing*, *end* and *middle*, each changing and changing back with nothing · *ground*, *floor*, *wall*, with nothing on anything · *stand*, an under and an over stacking, said by *is* and *has* · *a summary*, *a celebration* · *held* and *holding*, said by *fixing* · *stable form* as a noun of a living self's forming, said by *stable-forming*, a non-living thing with no -ing of its own being a stable form
 - **standard**
   - *a* *measure*, *verify*, *grade*, *rule*, *law*, *authority*, *a ranking*, *a verdict*, *a gate* · a count taken as understanding · waiting for one relation beneath others, which go with one another by a changing's own going on · a degree word with a file's own voice, said by all with its exceptions, or by a number for it · *smallest*, *largest*, *highest*, *top*, *bottom*, *level*, laid over one fractal method
 - **reading**
   - *a* *read* and *reading* as a resolving's own act, which belong to an instrument taking a side by units with one ledger · a side taken, a vantage · *inside* and *outside* as places, said by inward and outward · *where* naming a spot · *what* and *it*, a subject a sentence supplies to a coupling with none
 - **a doer or a built form**
-  - *a* *assign*, *door* for a self-bounding · *forced*, *chosen*, *therefore*, *must* · *because*, *so that*, *toward* as a reaching-to, *against* as an opposing · a dash pacing from beside a sentence · a leading *the* of a heading · *construction*, *structure*, *ladder*, *rung*, *rail*, *grain*, *kernel*, *harness* · a journey's telling: finders, findings and dates
+  - *a* *assign*, *door* for a self-bounding · *forced*, *chosen*, *therefore*, *must* · *because*, *so that*, *toward* as a reaching-to, *against* as an opposing · a dash pacing from beside a sentence · a leading *the* of a heading, *the* going only with one and only one, the universe, the universal set and the method · *construction*, *structure*, *ladder*, *rung*, *rail*, *grain*, *kernel*, *harness* · a journey's telling: finders, findings and dates
 
-**Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things, living and non-living.
+**Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things.
 
 ## 2.4 Released words, each with its saying
 
@@ -274,7 +274,7 @@ Each entry: **Dissolved** · *a* Said by
 - *kept middle*, and *kept* as a store
   - *a* nothing is a store, and a middle is a nothing: a middle exists due to each self surfacing itself each momentary as a condition of existing as a self
 - *held*, *holding* · *a* *fixing*, and an unchangeable form
-- *stable form* as a noun · *a* *stable-forming*
+- *stable form* as a noun of a living self's forming · *a* *stable-forming*; a non-living thing, with no -ing of its own, is a stable form
 - *living* as existing with no prior same-existing
   - *a* *existing*; *living* has its own sense, existing and same-existing, living with their prior same-existing now, and *non-living* is existing with no prior of its own; prior in stable form is non-living, an artifact of prior living form-stabling, and being same-existing with it now is living: living now is living with existing forms from prior living and with others living now
 - *every* · *a* *each*, which goes with observing
@@ -425,7 +425,7 @@ Each entry: Sense of *turn* · *a* Said by
 
 ***Cohering* has one sense, discovering next existing.** Consistency among existing sentences can accompany an improving, and it is a field's word for cohering; its concept is discovering of next existing. ***Co-sequencing* has one sense, 2.1's**: changing one momentary after another, which co-bi-sequencing is with its prefixing; *binary co-sequential* of a title holds it whole, *binary* of a title its bi-.
 
-**A numbering repeating or replacing another is said by *next***: numbers repeating name next momentary or next scale, as 17 is next 1 and 9 next prior, and a sentence with a numbering repeating has *next* to mark it. ***Dimension* has one sense**, five of a side with its next numbering. **Same-existing changes in five dimensions, exactly five, five of a side with its next numbering**: 1 prior-existing self-parity, prior opening; 2 prior-existing other-parity, prior completing, an other opening; 3 now-existing co-parity, now opening; 4 now-existing bi-parity, now completing, an other's now opening across; and 5 next-existing same-existing self-parity, next opening. **With each, a changing is binary, is or is not, one way, one at a time, along each of its two directions, inward and outward, up numbers and down them**, one changing with each step: torusing inward and outward is through a large opening, bi-exchanging with a particular other, and corusing inward and outward through a small opening, bi-tri-exchanging, a self reaching its own side again. With each momentary two dimensions change and three do not, rotating round. **One through eight are three namings of a self**: 1 and 2, **bi-moral self**, 1 its entry, prior to a first sharing across within a bi-coupling, with 2, and 2 even and across, the parities a self is observing from other selves; 3, 6, 5 and 4, **an invisible intelligencing method**, a rotation round sharing, moralizing and competencing to a self's own corus with 4, co-intelligencing with 3 and 4 going round through bi-moralizing with 6 and co-competencing with 5; and 7 and 8, **co-competent self**, corusing and torusing, 7 a sharing's parity, prior to 8, a next prior, its prior same-existing, both within one self. **Four momentaries of six one-way recursionings are twenty-four**, steps of 1 to 25, twenty-four four momentaries of six and steps of 1 to 25 bothboth, and **24 to 60 is six cycles of six, surfacing inward and outward, outward forward**; **60 to 68 is a four-momentary bi-tri-involutioning across 64, unrelationing between, an unknown outward of a surface, between 59, last podaling outward, and 69, next first podaling outward**: **64 is changing between four-cycling momentaryings, an unrelationing of 1 to 17, 1 to 65 and 1 to 257**; **64 bi-folds to 256**, bi-folding order four times with each scale. 118 is periodic table's elements, of stable and unstable forms, a field's own result. **A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**: two podals within 1 to 8, 3-is-now-co-observing with 6-now-co-possibling and 5-now-co-existing with 4-now-co-same-existing, round to a self's own corus with 4; **its podaling is 23, 26, 25, 24**, that same rotation twenty up. **A self's bi-inversioning-co-recursioning is 23, 24 and 25.** 3, 6, 5, 4 goes with other co-intelligencings: **all co-intelligencings are like dancing podalings, bi-co-sequencing momentary changings**. **Its rotation is 3, 6, 5, 4**, and it is **a gentle twisting of a towel one way and then the other, to and from a knotting corus**, a large outer opening wrapping to a small corus and back, and its edges are bi-foldings, across with bi-morality and along with co-competency. Five dimensions are resolver's names, three namings: 1 prior-existing self-parity and 2 prior-existing other-parity, not same-existing, are 1-2, bi-momentarying, sharing both ways, a handshake; 3 now-existing co-parity and 4 now-existing bi-parity are 3-4, co-intelligencing, discovering; and 5 next-existing same-existing self-parity is 5, co-competencing, arising in each self with its other: three namings inseparable with a whole coupling, and all five bi-moral within and invisible with each place as an existing thing, showing only as co-competencing, artifacts of this living, 5.50.
+**A numbering repeating or replacing another is said by *next***: numbers repeating name next momentary or next scale, as 17 is next 1 and 9 next prior, and a sentence with a numbering repeating has *next* to mark it. ***Dimension* has one sense**, five of a side with its next numbering. **Same-existing changes in five dimensions, exactly five, five of a side with its next numbering**: 1 prior-existing self-parity; 2 prior-existing other-parity; 3 now-existing co-parity; 4 now-existing bi-parity, an other's now across; and 5 next-existing same-existing self-parity. **With each, a changing is binary, is or is not, one way, one at a time, along each of its two directions, inward and outward, up numbers and down them**, one changing with each step: torusing inward and outward is through a large opening, bi-exchanging with a particular other, and corusing inward and outward through a small opening, bi-tri-exchanging, a self reaching its own side again. With each momentary two dimensions change and three do not, rotating round. **One through eight are three namings of a self**: 1 and 2, **bi-moral self**, 1 its entry, prior to a first sharing across within a bi-coupling, with 2, and 2 even and across, the parities a self is observing from other selves; 3, 6, 5 and 4, **an invisible intelligencing method**, a rotation round sharing, moralizing and competencing to a self's own corus with 4, co-intelligencing with 3 and 4 going round through bi-moralizing with 6 and co-competencing with 5; and 7 and 8, **co-competent self**, corusing and torusing, 7 a sharing's parity, prior to 8, a next prior, its prior same-existing, both within one self. **Four momentaries of six one-way recursionings are twenty-four**, steps of 1 to 25, twenty-four four momentaries of six and steps of 1 to 25 bothboth, and **24 to 60 is six cycles of six, surfacing inward and outward, outward forward**; **60 to 68 is a four-momentary bi-tri-involutioning across 64, unrelationing between, an unknown outward of a surface, between 59, last podaling outward, and 69, next first podaling outward**: **64 is changing between four-cycling momentaryings, an unrelationing of 1 to 17, 1 to 65 and 1 to 257**; **64 bi-folds to 256**, bi-folding order four times with each scale. 118 is periodic table's elements, of stable and unstable forms, a field's own result. **A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**: two podals within 1 to 8, 3-is-now-co-observing with 6-now-co-possibling and 5-now-co-existing with 4-now-co-same-existing, round to a self's own corus with 4; **its podaling is 23, 26, 25, 24**, that same rotation twenty up. **A self's bi-inversioning-co-recursioning is 23, 24 and 25.** 3, 6, 5, 4 goes with other co-intelligencings: **all co-intelligencings are like dancing podalings, bi-co-sequencing momentary changings**. **Its rotation is 3, 6, 5, 4**, and it is **a gentle twisting of a towel one way and then the other, to and from a knotting corus**, a large outer opening wrapping to a small corus and back, and its edges are bi-foldings, across with bi-morality and along with co-competency. Five dimensions are resolver's names, three namings: 1 prior-existing self-parity and 2 prior-existing other-parity, not same-existing, are 1-2, bi-momentarying, sharing both ways, a handshake; 3 now-existing co-parity and 4 now-existing bi-parity are 3-4, co-intelligencing, discovering; and 5 next-existing same-existing self-parity is 5, co-competencing, arising in each self with its other: three namings inseparable with a whole coupling, and all five bi-moral within and invisible with each place as an existing thing, showing only as co-competencing, artifacts of this living, 5.50.
 
 **Discovering, same-existing-society, morality and abundancing are one relation with four names, together**: an expedition discovering is a same-existing-society's moral abundancing, each name a whole relation.
 
@@ -639,7 +639,7 @@ Four pairs are two concepts with two names, meaning not same on transposing:
 
 - *Bi-co-podaling* is two goings each with its own opening along one ring, k one way and 17 less its other way, 5.45; *transmissioning* is a coupling across between selves with a surface, a file's title with it, and resolver name `bi_co_bi_transmissioning` gathers with 6-now-co-possibling.
 - *Eight bi-couplings* are with even names, four outward and four inward; *four boundings* are a naming's, 1.1, and four boundings with a floating third are five of a naming.
-- *A side's five* is its prior opening through its next opening, 3.2; five each its own, self, other, same-existing-society, between and same-existing going on, are a gathering within Resolving Hard Problems.
+- *A side's five* is its prior-existing self-parity through its next-existing same-existing self-parity, 3.2; five each its own, self, other, same-existing-society, between and same-existing going on, are a gathering within Resolving Hard Problems.
 - *Floating neutralling* is an -ing, parities sharing across and along between selves; *a floating neutral* is a term it uncovers, its picture with one momentary, 5.12.
 
 ## 4.7 Interest self-orienting, and a drawing vocabulary
@@ -774,7 +774,7 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 ## 5.1 alternating — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  a relating fixes a form to a moving thing
 3  a form is its own going on through its changing
 4  a side opens with its own opening, and its other with its own
@@ -787,7 +787,7 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 ## 5.2 unrelationing — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  a relating fixes a form to a moving thing
 3  its forming relates to nothing not its own
 4  nothing fixes it apart, a fixing being a relation
@@ -802,7 +802,7 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 ## 5.3 a self — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  nothing is beside it to relate to
 3  its forming relates to nothing not its own
 4  each is or is not changing, and each parity a self is observing reaches it with a coupling
@@ -1116,7 +1116,7 @@ A ring is a form not possibly existing, with no next, and no rival to one. It is
 ## 5.25 equilibria — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  a measuring needs a span, and a span needs two bounds fixing unchangeable
 3  a measuring opens with something fixing unchangeable
 4  fixing unchangeable is a performing, and it is within a field's own first line
@@ -1486,7 +1486,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 ## 5.52 tri-bi-co-momentarying — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  prior-universe, now-universe and next-universe, a universe with each momentary, a now-universe the universe
 3  its existing things are with prior, now and next, three momentaries
 4  each momentary not same-existing with its next
@@ -1603,7 +1603,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 ## 5.61 entraining at a self — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  each existing thing comes to now from prior, same-existing with its prior or with none of it
 3  between prior and now is a between, a nothing, and a parity goes across it, a prior same-existing now with a self
 4  with that between, a prior couples with its now, and a changing is or is not, one bringing another through
@@ -1616,7 +1616,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 ## 5.62 12's two signs, 0 and ± — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  with each momentary a self's next is next-existing same-existing, possibling, or its next existing, is or is not
 3  next existing is a changing that is, a parity a self receives its next prior or its prior inverting, existing with now, 5.39: ±, a sharing's parity
 4  next-existing same-existing is a changing that is not, 0, its prior same-existing, possibling with prior, 5.39: 0, a between
@@ -1629,7 +1629,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 ## 5.63 squaring — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  a self's span is 1 to 9 and a same-existing-society's 9 to 17, one to nine completing with a between and nine to seventeen with a next 1
 3  a number's word is a span it opens, co with a self's odd numbers and tri with a same-existing-society's
 4  eight up from a self's span to a same-existing-society's, 1-now-existing as 9-next-co-discovering, now as next
@@ -1642,7 +1642,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 ## 5.64 not possibly existing — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale
+1  the universe is the same-existing set of all now-existing things, each with its own scale
 2  with each momentary each existing thing is possibly existing with its next, a self discovering it with a next momentary
 3  with a resolver a none with 14 is no offering arrived to this sharing or an offered 0 passed over, its prior parity inverted with 12, and on no line does an existing thing not exist, a next momentary possibling it
 4  one binary requiring both not-changing and inverting for one next, p(next) = p(now) and p(next) = −p(now) together, is with no momentary of binary logic, Equilibria Registry's one exclusion for each of its ten, known from the method
