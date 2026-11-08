@@ -14,6 +14,8 @@ Gathering-Value · Natural Naming
 
 ### 1.2 Naming and resolving at one bi-coupling
 
+- **Possible exploring** · Aiming, interest and attention are each said of a cone's centerline, a me-parity's one-way direction: interest is a self bi-coupling with its interest opening, attention one parity at its time, Exhibit ONE's 7, and aiming carries the one-way changing the other two do not say and is a naming in no living file yet; and a universal aiming set, universal as observing with 14 gathering each parity arriving and aiming as sharing one way with 10 and 9, names a self at a point, a me as observed and a society across points at one sentence, each self a same-existing-society inward and outward, and whether three names gather to one, and to which, is open; executed, sharing everywhere both ways collapses a society to a self alone's form with no 0, and observing all with sharing one way is the form the 0 lives in — at "A new naming has a changing or a direction new beside each existing naming's, and a naming of a changing an existing naming already has gathers to one name."
+
 ### 1.3 Naming across, explaining along
 
 ## TWO · WORD SELECTIONS, EACH WITH ITS SAYING
