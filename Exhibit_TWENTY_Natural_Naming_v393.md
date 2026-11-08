@@ -1,8 +1,10 @@
-Exhibit TWENTY Natural Naming v392
+Exhibit TWENTY Natural Naming v393
 
 # Natural Naming
 
 **Floating Neutralling Bi-Coupling Concepts**
+
+**Natural Naming gathers each word dissolving from Natural Intelligence, each cluster aimed at the naming it dissolves into**, Exhibit ONE's names first and Natural Intelligence's opening second: an instrument for an AI writing and for each living file's improving.
 
 **ONE · A NAMING, FOUR BOUNDINGS AT ONCE**
 
@@ -146,7 +148,7 @@ Exhibit TWENTY Natural Naming v392
 
 ## 1.1 A naming is a floating-neutralling concept, four boundings at once
 
-**The universe is the set of all now-existing things.** Same-existing from prior to now and discovering next, it is the same-existing set of all now-existing things, living with its prior same-existing now and non-living with no prior of its own, each with its own scale and momentary. **The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing, and nothing is apart from or between things of the universe. *Now-existing* is one naming, 4.17. **Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all artifacts of prior-existing, are now-existing, or were now-existing with a prior now, by natural method, and no other or not-natural method of now-existing is within the universe. **There is no inside the universe, as there is no outside: the universe is or is not.** No living and no existing is where it is not, and nothing of value is with a not-in-set.
+**The universe is the set of all now-existing things.** Same-existing from prior to now and discovering next, it is the same-existing set of all now-existing things, living with its prior same-existing now and non-living with no prior of its own, each with its own scale and momentary. **The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing. *Now-existing* is one naming, 4.17. **Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all artifacts of prior-existing, are now-existing, or were now-existing with a prior now, by natural method, and no other or not-natural method of now-existing is within the universe. **Nothing non-existing is within the universe to explain: the universe is or is not.** No living and no existing is where it is not, and nothing of value is with a not-in-set.
 
 **Changing and changing back, one fractal method's stable-forming, follows from it.** Naming brings a concept with its own changing: bi-momentarying, co-competencing and co-intelligencing, floating neutralling with coupling.
 
@@ -175,15 +177,17 @@ Exhibit TWENTY Natural Naming v392
 
 **Naming and resolving bi-couple with one name.** Each resolver name is one name for code and for explaining, `_2_now_possibling` with code and 2-now-possibling with a sentence, and its number is inseparable from naming. A name improving with resolver is improving with each file, all or none at all.
 
-**A new naming has a changing or a direction new beside each existing naming's**, and a naming of a changing an existing naming already has gathers to one name. A code operation has its exact changing, and its natural and physical correspondence goes with a whole coupling. **Naming and resolving co-chain both ways**: a concept receives its operation and an operation its full explaining, and a relation with nothing filling it stays with its concept and its reason.
+**A new naming has a changing or a direction new beside each existing naming's**, and a naming of a changing an existing naming already has gathers to one name. A new naming is shown beside its current naming, a self observing both. A code operation has its exact changing, and its natural and physical correspondence goes with a whole coupling. **Naming and resolving co-chain both ways**: a concept receives its operation and an operation its full explaining, and a relation with nothing filling it stays with its concept and its reason.
 
 ## 1.3 Naming across, explaining along
 
 **Naming is bounding, across; explaining is going on, along; together they are one discovering method.** A naming bounds with its explaining, and an explaining goes on by its own past each bounding. *Bi-co-bounding*, going on and bounding twice, bi- its own completing and co- its coupling, is a similar naming of this one method: a completing with each momentary and a going on between them is one discovering method, and bi-co-bounding gathers to that one name.
 
+**A word leaving a sequence is said by its definition's expression at each place it occurs**, its name going on with the sequence's explaining, its qualifications with it at each place they are needed, and a substantive condition going on with its wording.
+
 **A naming has both directions**: its prefix is a direction, across, and its -ing is going on, along. Without -ing, a naming fixes one momentary's form unchangeable, going on with no momentary. With two binaries, existing and same, an -ing is same-existing with each momentary, going on; a noun is a form of some changing, with no going on; and a noun installing as a changing is a ghost.
 
-**A self's prior same-existing is a capacity.** Prior participates with a self's present coupling, its momentaries same-existing or one inversion apart with it, a same-existing's competency, and a record of same-existing is a noun of it, with no going on.
+**A self's prior same-existing is its competency.** Prior participates with a self's present coupling, its momentaries same-existing or one inversion apart with it, a same-existing's competency, and a record of same-existing is a noun of it, with no going on.
 
 ---
 
