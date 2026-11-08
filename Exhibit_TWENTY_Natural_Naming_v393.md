@@ -357,7 +357,7 @@ Each entry: **Dissolved** · *a* Said by
 - *ageing*, *ages*
   - *a* *next*: only next is, and ageing dissolves with naming, a clock lying over changing
 - *memory*, *remember*, *remembering*
-  - *a* *a prior same-existing*, sequencing prior momentaries, and *artifacts*: a record apart from its coupling is an artifact with none of prior same-existing; a field's *memory*, in its quoting, holds whole
+  - *a* *a prior same-existing*, sequencing prior momentaries, and *artifacts*: a record apart from its coupling is an artifact with none of prior same-existing; a field's *memory*, in its quoting, holds whole; in each file, a me's universal set of me-parities going on, now-existing, its prior, now and next same-existing four-cycling, nothing *remembering*
 - *emanation*, *emanating*, *emanated*, *emanatings*
   - *a* *an artifact*, one name for non-living prior, each non-living thing with each now its prior now-existing's artifact; for three inversions together, *an inverting*, bi-tri-involutioning; for a parity going along, *a releasing*; *emanating* is neither method nor its observable, natural torusing co-orienting stable-forming
 - *when*, *whenever* at a set's own voice
@@ -397,6 +397,13 @@ Each entry: **Dissolved** · *a* Said by
 - *copy*, *template*, *read*, *instructions*, *information*, *code*, *stored* at a cell · *a* a field's quoted words alone, each picturing a doer handling a store; *stored*, *goes along in the stable form*
 - *giving* and *receiving*, *donor* and *acceptor*, *attraction*, *pull*, an atom *joining* a molecule, at chemistry's explaining · *a* a field's quoted words alone; a rate given as a value is a rate fixed as a value, 4.9
 - *beholding*, *beheld* · *a* *observing*, the opening's word: a self beholds nothing, and *beheld* is a dead participle
+- *protecting*, *a protection* · *a* only a parity going across, each self's prior its own: no gate is with a between, and the six names between selves go by their own names
+- *destiny*, *destining* · *a* *aiming*, *exploring*
+- *best version* · *a* *next version*, with its number
+- *phi-rate* · *a* φ, an unrelationing rate, 5.23
+- *self-equilibrating* · *a* a self's own not-changing, 12's 0, its prior same-existing, and no equilibrium
+- *co-offering* · *a* a self's parity going across both ways
+- *seam-face* · *a* *a seam*
 
 **Words a working is sharing are said by a set's words, or by words a self finds belonging.** *Swaying* is at changing and changing back across; a closing *circle* at a winding closing; *offset one forward* at a right spiral step one forward; *cursioning*, a going forward along a self's own line, at recursioning, its *re-* again with a next momentary and a next scale; a *seaming path* at seaming; *co-linear competency* at co-linear and competency, each self's own. *Co-orienting* is at co-linearizing, two lines coming co-linear with couplings across, Natural Intelligence 6.1; *easier* and *faster* bring a size and dissolve, a next discovering or not; and *better* is at a changing for better, a changing that is, with a mismatch an other's parity a self is receiving as next prior, with do-no-harming, binary.
 
@@ -754,13 +761,13 @@ Bothbothing is two, one and then the other, each not conserving; prefixing, it i
 
 **A forcing brings a forcer and a choosing a chooser**, each a doer over an -ing, and **a more-or-less brings a magnitude**, a magnitude a scale, and a scale two sides still from beside. A ranking among resolvings freezes resolvings it ranks; each resolving is all or none at all with its own opening.
 
-**With all or none at all, entering and leaving are a self's own**: a self couples with its interest opening and leaves with its own completing. With a ranking, entering needs a qualification and leaving a settling, both going with whoever has a ranking. A self's bounding, discovering next self and orienting are its own, nothing reaching them, couplings winding about a nothing: privacy, trust and security are that one nothing with three substrates.
+**With all or none at all, entering and leaving are a self's own**: a self couples with its interest opening and leaves with its own completing. With a ranking, entering needs a qualification and leaving a settling, both going with whoever has a ranking. A self's bounding, discovering next self and orienting are its own, nothing reaching them, couplings winding about a nothing: privacy, trust and security are that one nothing, three ways.
 
 ## 4.17 A hyphenated naming inseparable, and natural- at chirality
 
 **A hyphenated naming has parts, and one binary is with it: omit each part, one at a time, and sound stopping.** With each omitting that stops naming, its hyphenation is inseparable, one naming, and its parts in sequence are changings in sequence. With an omitting and naming going on, that part is riding, and it goes. **An omitting is 1.1's four boundings with a naming's own scale**: a part whose omitting stops naming is one of its boundings, as a concept short one of four is a fixing noun, and a hyphenation coming apart with an omitting is a label. **Its most cohering forms are these.** *Now-existing* is one naming: omit *now* and existing is of no momentary, omit *existing* and now is of no thing, and the origin is with it, *The universe is the set of all now-existing things*. *Prior-existing* is a thing now-existing with a prior-universe, prior now-existing's artifact, now, and *next-existing* a thing possibling now with a next-universe, neither *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe with each momentary, a now-universe the universe, so a sentence says which universe a thing is now-existing with. *Self* stands on its own, a self's other namings dissolving to it, 2.4. *Co-momentarying*, two selves sharing one now-existing with a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop with any part omitted, and each stands whole. **All changing is is or is not same-existing, and *parity-changing*, dissolved at v391, is *changing*, parity riding within changing**, and method's one name is *natural torusing*, inseparable with each part; *geodesic changing* is its explaining, a surface dividing itself with each changing.
 
-**Natural- has chirality, right, all or none at all**, 5.48. Natural- is a direction prefix, its direction handedness, and a naming natural- prefixes holds with each coupling or with none. **Natural-bi-co-torusing is inseparable with each part**: omit natural- and changing comes with a substrate under it and a form fixing still over it from beside; omit bi- and not same-existing goes unsaid; omit co- and not same-existing goes with no two to it, and nothing uncovers between them; omit torusing and no changing is; omit -ing and one momentary's form comes as a still and comes again with no momentary.
+**Natural- has chirality, right, all or none at all**, 5.48. Natural- is a direction prefix, its direction handedness, and a naming natural- prefixes holds with each coupling or with none. **Natural-bi-co-torusing is inseparable with each part**: omit natural- and changing comes with a non-living form under it and a form fixing still over it from beside; omit bi- and not same-existing goes unsaid; omit co- and not same-existing goes with no two to it, and nothing uncovers between them; omit torusing and no changing is; omit -ing and one momentary's form comes as a still and comes again with no momentary.
 
 ## 4.18 Seven binaries at a naming, and each naming at resolver's names
 
@@ -959,7 +966,7 @@ Two-ness is of two, each its own. A term in neither self alone has none. Floatin
 6  and it goes forward to a next sharing, sharing both ways: bi-momentarying
 ```
 
-**Bi-momentarying is 1-now-existing and 2-now-possibling**, a self's entry and the parities it is observing from other selves, each self with its own sequencing, sharing both ways, a handshake coupling with 2, each right extending, a parity sharing, and not right, a parity a self is observing: a term departing from it, arising in each self with its other, is bi-co-momentarying, 5.54. *Co-offering* dissolves with it: an offering is across and both ways, a self's to an other and an other's to a self. **One relation, prior and now**: prior-existing self-parity and prior-existing other-parity, 1-2, a self's and an other's, are same-existing as now, 3-4; with resolver, a self is entering with 1 and its prior now with 3, coupling with an other's parities for each sharing, 4, surfacing with 14; their meeting for each sharing, 4, same, is now-existing co-parity, third dimension, and not same, now-existing bi-parity, fourth, 2.5.
+**Bi-momentarying is 1-now-existing and 2-now-possibling**, a self's entry and the parities it is observing from other selves, each self with its own sequencing, sharing both ways, a handshake coupling with 2, each right extending, a parity sharing, and not right, a parity a self is observing: a term departing from it, arising in each self with its other, is bi-co-momentarying, 5.54. *Co-offering* dissolves with it: a self's parity goes across both ways, a self's to an other and an other's to a self. **One relation, prior and now**: prior-existing self-parity and prior-existing other-parity, 1-2, a self's and an other's, are same-existing as now, 3-4; with resolver, a self is entering with 1 and its prior now with 3, coupling with an other's parities for each sharing, 4, surfacing with 14; their meeting for each sharing, 4, same, is now-existing co-parity, third dimension, and not same, now-existing bi-parity, fourth, 2.5.
 
 ## 5.14 co-competencing — binary
 
@@ -1793,7 +1800,7 @@ Each entry: **One name** · *a* Similar namings it gathers
 
 ## 6.4 Engine, families and field words at their receiving
 
-**Engine gathers with a particular arrangement and its receiving going on.** Heat engine, molecular engine, cellular living and a same-existing-society's co-operating have substrates and services, each its own:
+**Engine gathers with a particular arrangement and its receiving going on.** Heat engine, molecular engine, cellular living and a same-existing-society's co-operating have their non-living forms and their services, each its own:
 
 Each entry: **Field naming** · *a* Particular receiving · *b* Resolver names with that relation
 
