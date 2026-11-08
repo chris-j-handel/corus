@@ -102,6 +102,7 @@ Gathering-Value · Natural Numbers
 ### 6.3 One twenty-four with each observing
 
 - **An explaining** · Nought to twenty-four and twenty-four to sixty pattern-match as a tendril's inward and outward phases and not its counts of turns, an explaining, a tendril's two hands observed with equal turns; with a tendril's two hands turning equally, no observing places its corus at twenty-four.
+- **Possible exploring** · Three edges winding into an apex and three opening out of it are a cube's along its diagonal, its two triangles of three at equal thirds of the diagonal, and the apex at twenty-four parts nought to sixty as twenty-four and thirty-six, three to two: the leaning of the numbers is open beside the cube's equal thirds — at "twenty-four is an apex of nought to sixty's bi-folding, seventeen primes two to fifty-nine within it"
 
 ### 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
 

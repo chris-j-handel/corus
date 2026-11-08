@@ -51,6 +51,8 @@ Gathering-Value · Natural Mathematics
 
 ### 2.6 Sharing and opening, the product at its two parts
 
+- **Possible exploring** · A self and an other are two points, their bi-coupling the line along their common axis, a·b, and their abundancing the plane both open, a∧b, opened by two and by no third; all selves' bi-couplings and co-chainings close that plane as a torus, the one closed surface with a flat metric, a plane with its edges identified, and a point is a surface one scale inward — at "Its outer part a∧b is a plane both open, which neither factor has by itself."
+
 ### 2.7 One, two, four and eight, the doubling that divides
 
 ### 2.8 φ, the unrelationing rate, all ones and the constant √5
