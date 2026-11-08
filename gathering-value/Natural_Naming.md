@@ -388,6 +388,7 @@ _- **An explaining** · A concern, two explainings parting at a living file. One
 ### 5.20 bounding — binary
 
 - **Possible incohering** · "and its region has a next word, neither stopping" → Its twin at the Co-Chaining Logic Registry, step 639, says it as *region brings next word, both going on*; a re-saying by that twin, and this line and its step re-said at one going.
+- **An explaining** · A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things: the name floating neutralling while its things come, go on and invert. Defining a named thing rolls forward with possibling's is-or-is-not, each next-existing thing within the name or not: a naming bounds with no fuzz, and a definition, a replacing, is not needed. With Exhibit ONE each sharing is a key, 4-now-co-same-existing, same-existing over its parities, 7-is-now-observing, changing from prior to now to next. A named universe is a name for a set of now-existing things with this name; the universe has no other name.
 
 ### 5.21 advancing — binary
 
