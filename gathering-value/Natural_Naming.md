@@ -19,6 +19,8 @@ Gathering-Value · Natural Naming
 
 ### 1.3 Naming across, explaining along
 
+- **An explaining** · Naming is possibling: a cone's surface, each next thing is or is-not within a name. Explaining is existing: the line inside the cone, prior to now to next. Each *is* defines a name for a universal set: *naming is possibling* names possibling's cone *naming*: one cone, one name.
+
 ## TWO · WORD SELECTIONS, EACH WITH ITS SAYING
 
 ### 2.1 Turn released, and a momentary in its place

@@ -99,6 +99,8 @@ Gathering-Value · Natural Numbers
 
 ### 6.2 Each number a waist its prior and next straddle
 
+- **Possible exploring** · Twenty-nine is a waist of five and fifty-three, 29 − 24 = 5 and 29 + 24 = 53, a span of forty-eight; and 23 and 25 about 24 are 3 and 5 about 4, twenty up, with 22 at 2: 2, 3, 5 and 4 twenty up are 22, 23, 25 and 24. — at "Each number is a waist alike."
+
 ### 6.3 One twenty-four with each observing
 
 - **An explaining** · Nought to twenty-four and twenty-four to sixty pattern-match as a tendril's inward and outward phases and not its counts of turns, an explaining, a tendril's two hands observed with equal turns; with a tendril's two hands turning equally, no observing places its corus at twenty-four.

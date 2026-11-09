@@ -200,6 +200,7 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 27 Twenty-four, apex of one to fifty-nine's bi-folding
 
 - **Possible exploring** · The primes at names 1 to 9 add to 100 and part as 64 and 36, 100 − 64 = 36 beside 60 − 24 = 36, and with them 64 − 24 = 100 − 60 = 40, an arithmetic correspondence at forty apart whose joining of operations is open. — at "One to fifty-nine bi-folds with twenty-four; past fifty-nine, sixty to sixty-eight is bi-tri-involutioning across sixty-four, and sixty-four a next bi-folding, twenty-four and sixty-four forty apart."
+- **Possible exploring** · An aiming cone among the primes: its line inside alternating 23 and 25, one before the bi-folding apex and one after, about 24, along and across; its apex at 29, the tenth prime with name 10, a possibling name, a cone's surface closing at its apex; 29 the first of the eight ahead, a same-existing-society's side. From 29 the cone podals both ways, 24 each way, to 5 and to 53, and the whole goes out and back to 2, 3 and 5 across and 4 along, a moment on. — at "Two folds with one number, across and along, is bi-folding, and twenty-four is its apex."
 
 ### 28 Discovering next-possibling-same-existing
 
