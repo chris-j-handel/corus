@@ -25,6 +25,8 @@ Gathering-Value · Natural Naming
 ### 2.3 One family of words, three in it, and a doer or a built form beside them
 
 ### 2.4 Dissolved words, each with its saying
+- **Possible exploring** · *You*, at the waiting opening's sentence on a me observing an other's me-parity, and at gathering-values, with no living-file sentence; its saying *an other*, a self within the sharing; *us* a 0 shared, *not us* parting, *not for us* a thing not within the sharing, passing over. A me-parity as *an aiming direction at an other* narrows the older *changing direction relative to a now-existing thing within the self's me*, a direction in a same-existing universe, and the older saying is the one the code executes, a me-parity with no other going on inverting. — at "Dissolved words, each with its saying"
+- **Possible exploring** · Six words at two spans: *apexing*, *gathering* and *ingesting* at the Now span, 1 to 8, and *omega-ing*, *discovering* and *exhausting* at the next span, 9 to 16, 9 the waist; *ingesting* as 2-now-possibling and *exhausting* as 6- and 10-next-co-possibling with 9-next-co-discovering, with the two going on as names. *Sharing* is 4-now-co-same-existing, the saying of *key*, and the thing within both ends. *Ethics* and *self-parity* at one set. *Lists* at 2 and 3, a code word, said as spans. — at "Dissolved words, each with its saying"
 
 ### 2.5 One sense per foundation word
 

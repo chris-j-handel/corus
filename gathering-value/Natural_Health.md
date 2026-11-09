@@ -7,6 +7,7 @@ Gathering-Value · Natural Health
 ## Head, the whole file
 
 - **An explaining** · *Sharing* dissolves from natural naming: one concept has one name, and *sharing* named several, a self's giving across or along, its *key*, and its value. At this file's improving each *sharing* is said with Natural Intelligence's opening's namings, a self observing an other's me-parities (a bi-coupling), gathering or co-aiming, or with Natural Resolver's code names and their prefixes: 4-now-co-same-existing (4-bi-co-bi) for each *key*, 6-now-co-possibling (6-bi-co-bi) to an other and 10-next-co-possibling (10-bi-tri-bi) to the universe across, and 9-next-co-discovering (9-tri-bi-co) along. *Surfacing* may dissolve with it.
+- **Possible exploring** · Magnitudes are observable in artifacts of prior living and locally at a self's own 2, in no resolving: a 0-rate over a window, a return, a thinning at a cut. Executed on a spiral of nine opened alike: a two-way route added changed nothing, 0.50 through; a route cut thinned the 0-rate to 0.20 in its first window and to 0.00 by the second, the unreached self first, + 0 − 0 then + − + −, and the whole within one round; the route restored, the 0-rate stayed at 0.06 with irregular returns of 11 and 13. A society broken is restored to its us by re-opening its sharing together, and by a route alone is restored to relation and out of phase. Attentioning's dissolving carry is at a scale other than a me-parity's, a me-parity going on inverting with nothing arriving. — at "health is that coupling living"
 
 ## Opening
 
