@@ -2157,6 +2157,13 @@ In the tree, *carbon* is chemistry's carbon, carbon dioxide in and out. In Exhib
 
 **Read so.** Alone, the shard holds the ten is-or-is-nots one way, the is-not of resolving sculpted in three shapes: non-living. With others, in a society keeping all eight, the same ten go both ways: living. The shard does not change; the society is where living arises. Exhibit ONE executes both sides.
 
+### Already in the files: the three nothings and the ten rests
+
+- **One sentence, two names.** Natural Physics 3.1: *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set. Its living was outward, in higher-scale selves. It is a stable-form emanation from living.* Natural Chemistry 1.6 says the same sentence of *carbon*. The files already hold atom and carbon as one thing, a stable form from living (with the person's naming, *emanation* is *exhausting*).
+- **The three sculpted shapes of the is-not: the three nothings.** Natural Physics 3.1 and 3.5: *Atom whole has all three nothings together, centre, rate, and boundary*, and every centre has them, an atom whole; a field taking one or two of them is observing with one or two of its sides.
+- **The ten one-way parities: the ten rests.** Natural Physics 3.5: ten rests a field seeks, ten seekings and ten answers, one form, each a changing and changing back where a field seeks stillness; Exhibit TWENTY-TWO's ten unchangeables and Exhibit ONE's ten is-or-is-nots, each held one way.
+- **Concern 31 re-read.** The three sculpted shapes are the three nothings, centre, rate and boundary. Carbon's line, plane and tetrahedron, and bi-tri-involutioning's position, scale and orientation, are observings and namings to cohere with them.
+
 ### Observings to cohere with
 
 - **Carbon's three shapes.** Carbon bonds in three shapes: a line (two neighbours), a plane (three) and a tetrahedron (four), and it alone builds lasting frameworks of itself in each: chains, sheets (graphite, graphene) and a solid lattice (diamond). The three sculpted shapes, observed (concern 31).
