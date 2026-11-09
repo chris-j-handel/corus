@@ -107,6 +107,6 @@ def ring_pairs(nodes):
     return [(nodes[i], nodes[(i + 1) % n]) for i in range(n)]
 
 
-def frustration_trace(states, lo, hi, pairs):
-    """Per momentary within the cycle: the agreeing couplings among the pairs."""
+def agreeing_trace(states, lo, hi, pairs):
+    """Per momentary within the cycle: the agreeing couplings among the pairs, each the place resolving is traveling."""
     return [agreeing_pairs(states[t], pairs) for t in range(lo, hi)]

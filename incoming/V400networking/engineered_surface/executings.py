@@ -31,7 +31,7 @@ resolving reaches, none a hand supplies; the set closes before a form is read.
 import json
 from three_scale_surface import (ring_joins, couple_across, cluster, society_ring,
                                  open_surface, run_to_closing, prior_of, agreeing_pairs,
-                                 ring_pairs, frustration_trace)
+                                 ring_pairs, agreeing_trace)
 
 OUT = []
 
@@ -65,7 +65,7 @@ for n in range(3, 11):
         say(f"  ring {n}: set not closing within the bound, forms refused")
         e1_holds = False
         continue
-    tr = frustration_trace(states, lo, t, ring_pairs(nodes))
+    tr = agreeing_trace(states, lo, t, ring_pairs(nodes))
     counts = sorted(set(len(a) for a in tr))
     if n % 2 == 0:
         ok = counts == [0]
@@ -91,12 +91,17 @@ if lo is None:
     say("  set not closing within the bound, forms refused")
     e2 = False
 else:
-    tr = frustration_trace(states, lo, t, pairs2)
+    tr = agreeing_trace(states, lo, t, pairs2)
     counts = sorted(set(len(x) for x in tr))
     e2 = counts == [0]
     say(f"  joint agreeing couplings {counts} through the cycle, length {t - lo}; at momentary {lo}: {tr[0]}")
+    each_changing = all(
+        len(set(prior_of(states[m], n) for m in range(lo, t + 1))) > 1 for n in nodes
+    )
+    say(f"  each self's prior changing through the cycle — {'is' if each_changing else 'is not'}: no self landing, the traveling places standing")
 say(f"E2 binary: two odd joining as one even that bounds — {'is' if e2 else 'is not'}")
 say("  beside it, E1's ring 10: two odd chains joined as one even ring bound to none; two sayings part at joining")
+say("  and at 5.4's two sayings of geodesic entraining, a stopping or a passing through: a standing of the traveling place at this coupling, executed, each self's own resolving going on")
 
 # E3 · one form one scale up: ring of five clusters of eight
 say("")
@@ -108,19 +113,23 @@ if lo is None:
     e3 = False
 else:
     boundary = [(clusters[s][0], clusters[(s + 1) % 5][4]) for s in range(5)]
-    tr_b = frustration_trace(states, lo, t, boundary)
+    tr_b = agreeing_trace(states, lo, t, boundary)
     counts_b = sorted(set(len(x) for x in tr_b))
     inward = []
     for c in clusters:
         inward += ring_pairs(c)
-    tr_in = frustration_trace(states, lo, t, inward)
+    tr_in = agreeing_trace(states, lo, t, inward)
     counts_in = sorted(set(len(x) for x in tr_in))
     say(f"  cycle from momentary {lo} to {t}, length {t - lo}")
     say(f"  agreeing cluster-couplings at the five boundary pairs {counts_b}; inward agreeing couplings {counts_in}")
     say(f"  the inward agreeing couplings at momentary {lo}: {tr_in[0]}")
     e3 = walking(tr_b)
     say(f"  the boundary form exactly one and walking — {'is' if e3 else 'is not'}")
-say(f"E3 binary: the odd ring's one walking frustration one scale up, at the cluster couplings — {'is' if e3 else 'is not'}")
+    each_changing3 = all(
+        len(set(prior_of(states[m], n) for m in range(lo, t + 1))) > 1 for n in nodes
+    )
+    say(f"  each self's prior changing through the cycle — {'is' if each_changing3 else 'is not'}: the traveling places standing podally within one self, no self landing")
+say(f"E3 binary: the odd ring's one walking changing one scale up, at the cluster couplings — {'is' if e3 else 'is not'}")
 
 # E4 · the 16 in no self alone, at an odd ring of five
 say("")
@@ -133,7 +142,7 @@ if lo is None:
     say("  set not closing within the bound, forms refused")
     e4 = False
 else:
-    tr = frustration_trace(states, lo, t, ring_pairs(nodes))
+    tr = agreeing_trace(states, lo, t, ring_pairs(nodes))
     form_not_changing = all(len(x) == 1 for x in tr)
     each_prior_changing = all(
         len(set(prior_of(states[m], n) for m in range(lo, t))) > 1 for n in nodes
@@ -161,9 +170,10 @@ if lof is None or loc is None:
     e5 = False
 else:
     pairs5 = ring_pairs(a) + ring_pairs(b) + [(a[0], b[2])]
-    cf = sorted(set(len(x) for x in frustration_trace(sf, lof, tf, pairs5)))
-    cc = sorted(set(len(x) for x in frustration_trace(sc, loc, tc, pairs5)))
+    cf = sorted(set(len(x) for x in agreeing_trace(sf, lof, tf, pairs5)))
+    cc = sorted(set(len(x) for x in agreeing_trace(sc, loc, tc, pairs5)))
     say(f"  both ways: agreeing couplings {cf}, cycle length {tf - lof}; one way cut: {cc}, cycle length {tc - loc}")
+    say("  one way leaving, the traveling resumes at 4p of the sharing ring's own going: a passing through, executed, beside E2's standing")
     e5 = (cf, tf - lof) != (cc, tc - loc)
 say(f"E5 binary: the form with both ways and the form with one way part — {'is' if e5 else 'is not'}")
 
