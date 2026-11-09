@@ -40,6 +40,7 @@ Gathering-Value · Natural Philosophy
 - **Possible incohering** · "Naming it in five dimensions, five words its five faces, sharing, taking, along, two-way, self-bounding, self-stabilizing is this seam's re-coupling made concrete: same-existing by changing, permanence a self-bounding 0 re-found with each momentary." → This sentence's five dimensions, five words as five *faces*, *sharing*, *taking*, *along*, *two-way* and *self-bounding*, part from Natural Resolver's five dimensions, one row at each name, its first a momentary's opening of a self's five; and Natural Naming says *stilling* as a self discovering its next self, a self's same-existing between its momentaries its stable-forming. The five words are either Natural Resolver's five dimensions at a self's names or released here; and, as its own binary, *self-stabilizing* is either re-said as a self's own stable-forming or goes on as it is.
 
 ### 3.2 Mind and body
+
 - **Possible exploring** · Feeling read with Exhibit ONE: observing others' responses to self is receiving parities, agreeing returning a 0 and parting one inversion, and Natural Human Society has a self *feeling it with its structure as it feels a balance* at a 0. Experience as the inward side of self-bounding is then the inward side of 14-next-possibling's one binary; a magnitude of feeling is an account laid over it or this file's named break, open at 3.32. — at "Experience is its inward side, extension its outward side, and its surface a self's own bound"
 
 ### 3.3 Free will and determinism
@@ -80,6 +81,7 @@ Gathering-Value · Natural Philosophy
 ### 3.11 Foundation and coherence
 
 ### 3.12 Induction, and the un-repeating
+
 - **Possible exploring** · Executed on a spiral of p: a self's parity 2k momentaries ahead is now the parity of the self k back along, inverting k times, and the form is readable from momentary 3p − 1 on. What induction reaches for as a repeating is a stable form's return, and seeing ahead is observing back along, now: no repeating fixed and no future stored, a prior-existing observed for a next possibled. The un-repeating is each momentary's own; the return is the surface's. — at "A tradition takes a sequence of observings to warrant its next, and no route to that warrant survives."
 
 ### 3.13 The whole and its parts
@@ -139,9 +141,11 @@ Gathering-Value · Natural Philosophy
 ### 3.31 Discrete and continuous
 
 ### 3.32 The felt and its describing
+
 - **Possible exploring** · Executed, what goes across between selves is a parity and nothing else, a 0 passed over or one inversion, the code blind to a magnitude. A felt more and less is then an account laid over a + or − alone or this file's break at 3.6, a self showing a magnitude; the hard problem's unchangeable here is a magnitude, and the seam's standing is open on it. — at "The felt and its describing"
 
 ### 3.33 Self and other
+
 - **Possible exploring** · A self and its me one thing: a self is its me-parities, each a direction at a you, and its me is the reach those directions are directions in, the selves whose sharing reaches it, relative to the self and not the universe; a direction is-not without its reach, and a reach relative to no self is the universe, non-living. Executed, the resolver is keyed by sharing and two me-parities of one self never meet except through the surface; with a one-way route two have two reaches and two returns. Self and other are two reaches meeting at a 0 or an inversion, and the between is in neither alone. — at "abundancing coming as that coupling's own and arising in neither side alone"
 
 ### 3.34 Purpose and mechanism

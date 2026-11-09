@@ -127,6 +127,7 @@ Gathering-Value · Natural Exploring
 - **Possible incohering** · "A network exploration following one self's record, or one instrument's clock, is following an orienting the network is-not having." → Two sayings part at this sentence. On one side it goes on beside a network of resolvers a same-existing-society, its orienting in no self alone. On the other it is a claim apart from 6.7's observings, unclear, a record and a clock lying over changing, and the paragraph is whole completing at a network of resolvers, a same-existing-society, its orienting in no self alone.
 
 ### 6.8 Eight legs, five dimensions in two directions
+
 - **An explaining** · Bi-moral co-agency is the one resolving method of the five-dimensional, two-directional navigating hard problems, in each physical implementation.
 
 ### 6.9 Two priors, an elders' going and a kind's artifact
