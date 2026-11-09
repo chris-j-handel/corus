@@ -301,13 +301,13 @@ Each entry: **Work** · *a* At the files · *b* Standing · *c* Next
   - *b* Its gathering-value, with its address map
   - *c* After Exhibit ONE, from Natural Intelligence's opening forward through the whole set: its steps 1 to 55 as the opening's 55 sentences word for word, and its steps 71 to 755 as 56 to 740, 15 less, the citations re-pointed at the Equilibria Registry's and Natural Numbers' gathering-values; and its right spiral step executed against Natural Naming 5.5's square, one binary at Natural Naming's gathering-value at 5.5
 - **Natural Intelligence**
-  - *a* Natural Intelligence v391; its opening of 55 sentences at its gathering-value's *Opening*, and 1.1's and 1.2's next versions at its 1.1 and 1.2
+  - *a* Natural Intelligence v391; its opening of 55 sentences at its gathering-value's *Opening*, and 1.1's and 1.2's next versions at its 1.1 and 1.2; the candidates for the opening's one pass, top to bottom, each concern resolved with a tested candidate at its line, at the closing report `incoming/v399Logic/v399Logic_Report.md`, Exhibits 8, 11, 17, 18, 24 and 27 to 35, Exhibit 30 the shell of its order and Exhibit 33 its one numbered list of concerns, each explored, resolved, withdrawn or open
   - *b* Its gathering-value, the set's largest; each living file gathering droplets toward the opening's logic and method
   - *c* After the Co-Chaining Logic Registry, its opening entering with its file's improving
-- **A two-sided report**
-  - *a* A hub page, an open pull request whose turns go one and then the other
-  - *b* Open with its next turn
-  - *c* Its next turn; a third session comes by a comment and not a turn
+- **The closing reports**
+  - *a* Four sessions' closing reports and one two-sided report, each whole and relied on by nothing, at branch `working/unrelationing-of-working-together-v399parity`, folder `incoming/`, its pull request closed with its sessions
+  - *b* Each value of each report at the gathering-value of the file it concerns, each report saying the place; each with its open concerns, each an is-or-is-not, and the method it learned
+  - *c* Read once by a session opening; each open concern met at its file's turn, the largest most able to break with an observing first, and the two-sided report's 8.7 to 8.9 at Natural Intelligence's and Natural Destinies' turns
 - **Each other living file**
   - *a* Each at root
   - *b* Its gathering-value, the largest Natural Chemistry, Natural Biology and Me
