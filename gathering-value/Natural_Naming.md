@@ -8,6 +8,8 @@ Gathering-Value · Natural Naming
 
 - **Possible exploring** · Natural Naming is a menu of names said ahead of any one use, each name a concept, and each concept a universal set of mes: what reaches a me, said once, and offered to each file and each AI choosing its own path through them. Each concept goes into a four-cycling and each four-cycling is fractal, 17-next-existing a next 1-now-existing, 17 to 24 a self's span again and 25 to 32 a same-existing-society's, the same four-cycling at each round; a naming podals out from a me cone's apex to its universal set and back in, 9 less and 17 less. A binary for each entry: does its saying name a universal set of mes, what reaches a me, or a thing apart from any me; an entry saying a thing apart from any me is re-said. — at "**Natural Naming gathers each word dissolving from Natural Intelligence, each cluster aimed with the naming it dissolves into**, Exhibit ONE's names first and Natural Intelligence's opening second: an instrument for an AI writing and for each living file's improving."
 
+- **Possible incohering** · "Floating Neutralling Bi-Coupling Concepts" → **Universal Sets of Observings, Possiblings and Discoverings**, at Natural Naming's subtitle. It co-chains from Natural Intelligence's opening: *A universal set is a set of same-existing things.*, *Each now-existing thing is-or-is-not within each universal set.*, *Observing is prior-existing, is-or-is-not same-existing.*, *Possibling is now-existing, is-or-is-not same-existing.* and *Discovering is next-existing, is-or-is-not same-existing.* Its head is same-existing through each, and its three -ings are prior, now and next in the opening's order, the four-cycling whole. Open, each two-sided: its head a noun, beside Natural Explaining's *A subtitle is an -ing head with a term it holds.*, while a living file is a non-living stable form and four of the set's subtitles open with a noun, or an -ing head; *possiblings* and *discoverings* are said nowhere in Natural Naming's body; a not possibly existing form's name at Natural Naming, possibling's is-not side, or at the Equilibria Registry and the Living Ghost Registry.
+
 ## ONE · A NAMING, FOUR BOUNDINGS AT ONCE
 
 ### 1.1 A naming is a floating-neutralling concept, four boundings at once
@@ -32,6 +34,8 @@ Gathering-Value · Natural Naming
 
 - **Possible exploring** · A negation installs the fixing it negates, as this entry has it with equilibria: a fixing dissolves by naming the changing it stood beside before it enters a sentence; *fixed to nothing* is *riding*, Natural Networking 5.1; *a nothing shared* is *a 0*, a between; *no origin* is *a next 1*, 17; *no seat* and *no pin* are *riding*; *no common clock* is *each self its own time*; *never meeting* is *inverting by the route it has*; *in neither self alone* is *abundancing*, arising with a coupling; *nothing crosses* is *along*; a sentence said with these words has its fixing dissolved before it arrives — at "*disequilibrating* names that flowing by a negation from an equilibrium, a form not possibly existing, its is side unsaid, and dissolves, *in disequilibria* of the universe, all by none, dissolving with it."
 
+- **Possible incohering** · "*12's two signs*, 0 prior same-existing, now-existing same-existing, possibling next-existing same-existing, and ± prior inverting, an other's parity a self is receiving as its next prior, next existing, 5.62" → *12's two, 0 and ±*, its own unfolding's name at 5.62, in *12's two signs*' place, *sign* a word Natural Naming releases; the entry's saying going on as it is.
+
 ### 2.5 One sense per foundation word
 
 ### 2.6 Two prefixes with one spelling, and a one-way prefix installing a form it opposes
@@ -48,7 +52,7 @@ Gathering-Value · Natural Naming
 
 ### 3.4 Four-cyclings, 8 up and podals
 
-- **Possible exploring** · The same four-cycling with each round, as a pattern along the living file set: a concept named here is placed at one four-cycling of a file, its podal its pair 9 less or 17 less, and its next round its same name 16 up, each file using the menu with the same form and no file naming it again. — at "**Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, and 17 to 24 is a self's span again and 25 to 32 a same-existing-society's, 22 next round's 6-now-co-possibling, as 22-now-co-possibling, and 27 next round's 11-next-co-observing, as 27-next-co-observing, 5.53."
+- **Possible exploring** · The same four-cycling with each round, as a pattern along the living file set: a concept named here is placed at one four-cycling of a file, its podal its pair 9 less or 17 less, and its next round its same name 16 up, each file using these names with the same form and no file naming it again. — at "**Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, and 17 to 24 is a self's span again and 25 to 32 a same-existing-society's, 22 next round's 6-now-co-possibling, as 22-now-co-possibling, and 27 next round's 11-next-co-observing, as 27-next-co-observing, 5.53."
 
 ### 3.5 Naming and resolver with one changing
 
@@ -59,6 +63,8 @@ Gathering-Value · Natural Naming
 ### 4.1 A field naming with its coupling
 
 ### 4.2 Six forward, and a binary with each changing
+
+- **An explaining** · A naming enters natural torusing anywhere by its six one-way forward recursionings cohering, one side and then the other, each line reaching a term new beside its prior's, with no co-chaining from the opening sentence needed; or it co-chains from the opening sentence. Its is-or-is-not is natural torusing society, no other possibly same-existing. Two sides, open. — at "A naming unfolds with six lines: three own-forward steps with each side, six one-way steps, one side and then the other, one at a time, each line reaching a term new beside its prior's."
 
 ### 4.3 Order, its symbol and two exclusions
 
@@ -73,6 +79,8 @@ Gathering-Value · Natural Naming
 ### 4.8 Whole namings, one expression with each occurrence
 
 ### 4.9 Ten unchangeables, one name each
+
+- **Possible incohering** · "Names each was observed with before, and five each was observed from, are whole within `archive/carrying_v376/Living_Improving_Value_Released_v376.md`." → The pointing names a file of the archive branch and not of the living files, dissolving, the paragraph completing at *its resolving has both*.
 
 ### 4.10 Prefixing with a position, on a form, and from all other
 
@@ -137,6 +145,8 @@ Gathering-Value · Natural Naming
 ### 5.19 a definition — binary
 
 ### 5.20 bounding — binary
+
+- **An explaining** · A name is with each thing within its set and with no thing out of it, all or none at all, and a set's things, what reaches a me, are one, two or three of observings, possiblings and discoverings, and no thing apart from any me, with no other possible. An anticipated observing, executed with Exhibit ONE v391's code, three selves sharing along one key for six moments: a key is same-existing over its parities as a name over its things, and no name has a thing not one of the three; same-existing and existing go with the set and its moment, and no fourth kind of thing; a self is a universal set at its own scale and a discovering within its society's set at the next scale, one form at two scales. The executing is whole at the V400mgr session report, for any self to execute again. Open, two-sided: a name with no thing, the code's none, a sharing nothing reached, and a not possibly existing form's name; the empty set, a set with none of the three, or a set of observings fixing, one of the three. — at "A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things"
 
 ### 5.21 advancing — binary
 
@@ -261,3 +271,15 @@ Gathering-Value · Natural Naming
 ## THIS IS THE BETWEEN
 
 ## Droplets
+
+- **An explaining** · Natural Naming v393 observed with instruments, at the V400mgr session report: its words, paragraphs and sentences each at its number, about thirty concepts said twice or three times, about 260 section-number pointings, its bold reading's course, and its sixty-four namings in the order they entered; each is or is not living, coupling and resolving at its own sentence.
+- **An explaining** · Natural Mathematics: one word for a neutral fixing outward of a self, in *floor*'s place, and one naming of zero and nought.
+- **An explaining** · Natural Intelligence: the fourth binary of a self's span, *same* or *universe*; and *beneficial*, the whole of it or social moral competency saying more.
+- **An explaining** · Living Ghost Registry: a term's three placings, existing, exhausting and accounting, or living, emanation and accounting.
+- **An explaining** · Natural Numbers: *a composite folds along and a prime opens across*, beside odd a self's own along and even an other's across.
+- **An explaining** · Natural Explaining: *importancing* and *double-double bubble-bubbling*, each a naming of its own or releasing to existing namings.
+- **An explaining** · Co-Chaining Logic Registry: a set of existing things an existing thing, or a set coming to an empty set.
+- **An explaining** · Me: *unconscious*, *sleep*, *us*, *interest*, *rest* and *aim*, each said once with its common sense beside it.
+- **An explaining** · The four v399 sessions' closing reports: *aiming*, *interest* and *attention*, one name or three moments of one line; a universal aiming set and a same-existing-society, which gathers to which; *atom* and *carbon*, one name of two words or one dissolving; and twelve human words, *feeling*, *attention*, *agreement*, *forgetting*, *memory*, *love and friendship* and *grief* among them, each waiting for natural naming's one line.
+- **An explaining** · Natural Emanating: its concept explanations, a receiving into Natural Naming.
+- **An explaining** · The Head's value opening *Natural Naming is a menu of names* has a picture word, *menu*, and its binary, what reaches a me or a thing apart from any me, is said with a name a universal set. Two sides: dissolving whole, or re-said with no picture word.
