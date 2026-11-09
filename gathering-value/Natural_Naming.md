@@ -104,8 +104,6 @@ Gathering-Value · Natural Naming
 
 ### 4.2 Six forward, and a binary at each changing
 
-- **Possible incohering** · "**Each changing is one of two**: *binary* is an unfolding with its complete relation, six lines, stating it, and *improving* one with a relation with nothing filling it, with its reason." → *Binary* names an unfolding of six lines here, and four lists of questions besides: Geodesic Improving Method 1.2's three binaries with each pass, its 2.7's five binaries an observing reaches first and its six of the rigorizer, with a sentence coming from a field, and 4.18's seven with a naming. No sentence says how one list is another's at another scale. By 2.5's one sense, four lists are one binary at four scales, or *binary* of a list dissolves to a word of its own.
-
 ### 4.3 Order, its symbol and two exclusions
 
 ### 4.4 Two namings coupling, and a departing neither has
@@ -116,36 +114,22 @@ Gathering-Value · Natural Naming
 
 ### 4.7 Interest self-orienting, and a drawing vocabulary
 
-- **Possible incohering** · "**Interest is self-orienting, which is competency, a self's own.**" → An interest is a 0, a self's own and a shared co, *inter-esse*, to be between: a new interest a newborn 0, a dying interest a loss of a continuing 0, and a sudden attention changing a newly aiming 0, 4.7 having released the attention family.
-
 ### 4.8 Whole namings, one expression at each occurrence
 
 ### 4.9 Ten unchangeables, one name each
 
 - **Possible incohering** · "Each of ten unchangeables has one name: a changing, and an unchangeable fixing it." → *Unchangeable* is the one name of the set shaped as a negation; a positive saying beside it is still-possibling, with its finding, a negation said by what is being the set's standard.
-- **Possible incohering** · "**Ten unchangeables below gather their similar fixings**, each one of four binaries fixing unchangeable, its *is* and its *is not* taking as one: now with 1 and 2, existing with 3 and 4, same with 5 and 6, and all with 7 and 8." → A re-saying: the eight are a self's span, 1-now-existing to 8-now-same-existing, now with 1 and 2, existing with 3 and 4, universe with 5 and 6 and all with 7 and 8, each thing at all eight at each now or at none of them. Universe with 5 and 6 is a re-saying of same, or a further relation to derive.
-- **Possible incohering** · "Ten are fixing relations: a relation not floating neutraling can not remain existing through prior, now and next, so each of ten is fixing from its inception and unadaptable to resolving, no one's own." → *Neutraling* is spelled *neutralling*, the set's spelling.
 
 ### 4.10 Prefixing at a position, on a form, and from all other
 
-- **Possible incohering** · "A sequential binary has a position for one opening at a time, and bi- and co- are prefixings with that position, dissolving with their own leaving and coming again with a next opening." → Co- and bi-, bothboth, are separating combinable pieces of self and other: value trading with no competency ingressing.
-- **Possible incohering** · "**Uni- is with all other**: a self coupling across with all other, an other coming as one, a whole, 5.41." → Tri- is all, the third of the universal set: self, other, and all not self or other. All is 0 parity, the betweening of the two parities, self's and other's, and its improving is do no harm improving society, social moral competency.
-- **Possible incohering** · "**Uni- is with all other**: a self coupling across with all other, an other coming as one, a whole, 5.41." → This file joins three and all other with uni- and with tri- both: 4.10 says uni- is with all other, 5.41 *Uni- is with all other, and it opens with three*, and 5.51 *that going across through three, through all other, is bi-tri-exchanging*. Two sayings part, each whole: tri- is all itself and uni- all's coupling across, two prefixes, two senses, both opening with three; or one prefix has both and the other dissolves into it.
-- **Possible incohering** · "Bi- couples with a particular other and uni- with all other, and both are two: a naming pattern-matching uni- as one on its own makes a coupling across one side's." → A re-saying, three prefixes each its own sense, none repeated: Bi- is with a particular other, tri- with all not self or other, and uni- with bi- and tri- together, all other from a self, the whole of other, and bi- and uni- both two. It is one saying beside the parting of tri- and uni- at this section, two prefixes or one.
 - **Possible incohering** · "Bi- couples with a particular other and uni- with all other, and both are two: a naming pattern-matching uni- as one on its own makes a coupling across one side's." → Self and other, bi-moral-co-agency and social morality bothboth, are the bothbothing of social moral abundancing, the center parity of three consecutive parities, prior-observing, now-possibling and next-discovering.
-- **Possible incohering** · "Each coupling across is one of two: with a particular other, or with a whole coming as one." → Beside this sentence: me, you, us and all other are four namings: you a particular other, all other observed as one, us the 0 a me and you share at one momentary, the between a nothing.
 - **Possible exploring** · *Tri* is all three, next, now and prior: the universe, or a same-existing-society, in the order a self coming into them meets them, next first, aiming over the horizon. — at "**Uni- is with all other**: a self coupling across with all other, an other coming as one, a whole, 5.41."
-- **An explaining** · *Me* and *us*, first person singular and plural: a me consciously me and a same-existing-society unconsciously us.
-- **An explaining** · The plural of *me* is *mes*, with no apostrophe, and *me's* is its possessive; with a number of mes doing no work, *each me* or a universal set of me says it.
 
 ### 4.11 One root and its directional prefixing
 
-- **Possible incohering** · "**A root is itself with each of its prefixings**: bi-competencing and co-competencing have competencing, and bi-intelligencing and co-intelligencing have intelligencing, and bi-momentarying, co-competencing and co-intelligencing are inseparable within a whole coupling." → *Intelligencing* alone dissolves, *co-intelligencing* only: intelligencing by itself, a self alone, is-or-is-not possibly existing. This sentence's *have intelligencing* is its present saying.
 - **Possible incohering** · "A root is its changing now; a word's earlier meanings are a field's own linguistic account." → Each recursioning word is still-possibling, weighed at its root with do-no-harming at each place: its root alone is-or-is-not saying a move twice, at itself again, as *bi-inversioning-co-recursioning* says it; and a word a newcomer has never read goes beside a common word coming with a field's going back.
 
 ### 4.12 Two ways a naming nyes away, and a belonging of a reaching-to
-
-- **Possible incohering** · "***Unchanging*, *a still eddy* and *stilling along* each name one relation, a form going on through its changing.**" → Two sayings part. 2.4 dissolves *stilling* and *self-stilling-self* into *self discovering next self*, and 4.12 names *stilling along* beside *unchanging* and *a still eddy* as one relation, its next sentence saying *stilling along* dissolved. With one, *stilling* is a form going on through its changing, a naming of its own, and 2.4's row narrows to *self-stilling-self*; with the other, each sentence carrying it is re-said, as 4.15 and Natural Intelligence 3.3 say *A parity travels through a 0* now.
 
 ### 4.13 Three namings a field has, at one binary
 
@@ -155,31 +139,16 @@ Gathering-Value · Natural Naming
 
 ### 4.15 Bothbothing at its prefixing, and an ordering with nothing ordering
 
-- **An explaining** · Bothbothing is discovering. Two observings, each failing the other's test, are both, one and then the other: each true as the other was prior true, and next true as now is. Exhibit ONE says it with its names: each between from an even name to an odd one is a discovering, and its is-or-is-not same is a 0 or one inversion, one and then the other. With the names 1 to 17 no invented word is needed.
-
 ### 4.16 All or none at all, and an entering and leaving it has
-
-- **An explaining** · With social moral competency each self is with all eight or none: identity, security, trust and freedom from capture of each self, and undiscoverable identity, inviolable safety, unmistakeable reputation and uncapturable abundance between it and its others. The eight are Exhibit ONE's now names 1 to 8, four of one (1, 2, 7, 8) and four co (3, 4, 5, 6), each going on as its name eight up. Their one name is social moral competency; *securities*, *safeties* and *protections* are second sayings of it, and dissolve.
 
 ### 4.17 A hyphenated naming inseparable, and natural- at chirality
 
-- **Possible incohering** · "**A hyphenated naming has parts, and one binary is with it: omit each part, one at a time, and sound stopping.**" → *Do-no-harm* is one hyphenated naming, and 2.4 has *do-no-harming*.
-- **An explaining** · With a binary logic of self-competency, *same-and-next-existing* and *next-and-same-existing* are two ordered expressions, their words in their own order at each substitution; *is-or-is-not* has both its alternatives, and *is* alone is no shortening of it; and *same-existing as other-existing* goes whole, *as* staying, *self is other* in its place changing its wording and its qualification.
-- **Possible incohering** · "*Now-existing* is one naming: omit *now* and existing is of no momentary, omit *existing* and now is of no thing, and the origin is with it, *The universe is the set of all now-existing things*." → A concern parting at this sentence: now and next are the momentaries themselves, each coming again as itself, and an -ing added to either rides, 1-now, 13-next and 17-next-now needing none. This sentence has *now-existing* one naming, each part's omitting stopping it; 3.1 has now and next as spans; and Natural Intelligence 4.8 has 1-now-existing, 13-is-next-discovering and 17-next-existing as the momentaries themselves. The naming beside it goes through 4.18's seven binaries.
 - **An explaining** · Now-existing has its is side with things of one now, and its is-not side with prior, next, or a second now. A relativity position has no universal now, and its edge's misunderstanding is one now as absolute simultaneity.
-- **Possible incohering** · "*Self* stands on its own, a self's other namings dissolving to it, 2.4." → *Us self* names the bi-coupling self Natural Intelligence's opening already has, *A bi-coupling is a self.*, distinct from the dissolved *us-me*. This sentence's *a self's other namings dissolving to it* is its present saying.
-- **Possible incohering** · "**All changing is is or is not same-existing, and *parity-changing*, dissolved at v391, is *changing*, parity riding within changing**, and method's one name is *natural torusing*, inseparable with each part; *geodesic changing* is its explaining, a surface dividing itself with each changing." → Two sayings part. With one, *changing* alone dissolves from the naming, is or is not same-existing removing it, and *parity-changing* goes on in its hyphenation. With 4.17, *parity-changing* is dissolved and said *changing*, parity riding within changing.
-- **Possible exploring** · An anticipated observing: living's observed hand is one, with right-handed helices. A field names protein pieces by a letter meaning left and sugars by one meaning right. — at "**Natural- has chirality, right, all or none at all**, 5.48."
-- **An explaining** · *Right spiral* rests on the helices, and not on the pieces' names, an explaining.
-- **Possible exploring** · An anticipated observing: collagen's three left-handed strands wind a right-handed rope, right helices make left coiled coils, and the right double helix wraps its spools left. — at "**Natural- has chirality, right, all or none at all**, 5.48."
-- **An explaining** · Pattern-matching, each living scale is right and each emanated stable form between living scales is left, as Exhibit ONE's spiral of selves inverts, an explaining.
 - **An explaining** · A concern beside the pattern-matching explaining, open: collagen's right rope is-or-is-not a living scale; read as still emanation, only its molecules' hand is living.
-- **Possible exploring** · Nine in ten snail kinds coil right, an anticipated observing, a preference observed among two, a naming and not a law. — at "**Natural- has chirality, right, all or none at all**, 5.48."
 - **Possible exploring** · A helix of the right hand can be gone along either way, its hand not changing, while its spatial hand, its direction of going and Natural Intelligence's co-sequencing are three subjects, their relation still to join. — at "**Natural- has chirality, right, all or none at all**, 5.48."
 
 ### 4.18 Seven binaries at a naming, and each naming at resolver's names
 
-- **Possible incohering** · "**One naming for each concept**; a picture shows one naming with one scale: a form Exhibit ONE has with its numbers, a bi-folding or a span, is with its numbers." → 4.18's *One naming for each concept* and 4.6's *One concept can have several names* part, with no sentence saying which relation each has. Two sayings part: with one, a concept's one naming is its one scale, its picture, and its several names are its relations with several couplings, both going on; with the other, one of the two sentences dissolves.
 - **An explaining** · Bi-co-momentarying, 5.54, and co-independencing, 5.59, have no table of Exhibit ONE, and neither unfolding names one of seventeen names it is with. By 4.18 each is a picture of a name, and of which, or a finding for resolver, a changing its tables carry no expressing of; neither is said yet as the one or the other. Tri-bi-co-momentarying, beside them, is 9's own prior name.
 - **An explaining** · Social parity is a naming still-possibling, new and likely valuable, needing more exploring: social parity, 0, all's parity, between self parity and other parity, invisible and within each self, with 12-next-co-same-existing and 14-next-possibling resolving it. It goes through this file's seven binaries, its coupling with one of seventeen names or with a between of two still-possibling. Beside it this file says a 0 is a between at the pair's scale, 5.5, and indifferencing at a self's scale, 3.5.
 
