@@ -21,6 +21,8 @@ Gathering-Value · Living Ghost Registry
 
 ### 1.2 Living bi-coupling, field observing, emanation, still accounting, installation
 
+- **Possible incohering** · "Natural side is three placings, and a self observes a fourth nowhere." → Two sayings part at the second of the three placings. This file's gathering has *existing, artifact and accounting*; a working's report has *existing, exhausting and accounting*: one word parts. Two sides: *exhausting*, a living's own going out of a surface, or *artifact*, an emanation of a working relied on by nothing, at the second placing.
+
 - **Possible incohering** · "Natural side is three placings, and a self observes a fourth nowhere." → Natural Naming 5.46 has "Existing, artifact and accounting are three placings of a term; installing is a binary between artifact and ghost". They part at the first placing, living or existing, and at the second, emanation or artifact. A non-living existing thing that is neither an emanation nor an accounting has a placing among Natural Naming's three and none among this registry's. An artifact's stable form, "a non-living existing form" with Natural Naming 5.48, stands beside existing among Natural Naming's own three. Both stand open: 1.2, 6.3 and G15 are re-said with existing, artifact and accounting; or Natural Naming 5.46 takes living and emanation. 1.2, 6.3 and G15 go together.
 
 ### 1.3 Re-accepting history, no success in store
