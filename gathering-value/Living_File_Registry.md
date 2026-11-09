@@ -82,6 +82,8 @@ Gathering-Value · Living File Registry
 
 ### 4.1 Common and particular at a seam
 
+- **An explaining** · A parting between two files is a seam, each file's sentence an observing beside the other's, and no concern a file waits on: a file's own sentence goes on at its own motion while the other's goes on at its, and neither waits. Two-sided: the one saying at the Geodesic Improving Method, at its *A concern with a file's opening sentence is brought to both selves of a coupling, and no working edits one on its own.*, or its seam side at this part and its waiting side at the method.
+
 ### 4.2 Couplings at files
 
 - **Possible incohering** · "One dividing with thought and with a physical observing; each file’s method count and its particular experimental or conceptual contribution remain explicit." → *Count* stands here at a registry's own voice and goes directly into numbers, and what it numbers parts two ways: how many methods each file holds at one dividing, thought and physical observing, or each file's method mattering; a number of methods and a mattering are two values. Two re-sayings: *each file's number of methods*, or *each file's own method*.
