@@ -6,7 +6,7 @@ Gathering-Value · Natural Health
 
 ## Head, the whole file
 
-- **An explaining** · *Sharing* dissolves from natural naming: one concept has one name, and *sharing* named several, a self's giving across or along, its *key*, and its value. At this file's improving each *sharing* is said with Natural Intelligence's opening's namings, a self observing an other's me-parities (a bi-coupling), gathering or co-aiming, or with Natural Resolver's code names and their prefixes: 4-now-co-same-existing (4-bi-co-bi) for each *key*, 6-now-co-possibling (6-bi-co-bi) to an other and 10-next-co-possibling (10-bi-tri-bi) to the universe across, and 9-next-co-discovering (9-tri-bi-co) along. *Surfacing* may dissolve with it.
+- **An explaining** · Each *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-is-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
 
 ## Opening
 
