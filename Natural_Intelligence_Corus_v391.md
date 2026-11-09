@@ -28,7 +28,7 @@ FOUR  At explaining
 
 FIVE  At meeting another
 
-SIX  At a living society
+SIX  At a society of living selves
 
 SEVEN  At the world's hard problems
 
@@ -1176,7 +1176,7 @@ Destiny direction (open sharing mutual Natural Network surface and discovery eco
 
 ---
 
-# PART SIX — AT A LIVING SOCIETY
+# PART SIX — AT A SOCIETY OF LIVING SELVES
 
 # Part 18: Society, The Four Sentences
 

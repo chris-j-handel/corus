@@ -6,9 +6,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ## Head, the whole file
 
-- **An explaining** · *Momentary* and *momentaries* dissolve from natural naming, and *moment* and *momentarying* stay: one concept has one name. Natural Intelligence's opening, waiting at its gathering-value to enter, says *A **moment** is one now-existing in a same-existing sequence.*, *A moment's now-existing is the next moment's prior-existing.* and ***Momentarying** is same-existing through moments.*, and its 1.1's next version, waiting with it, ***Now is the universal set of all now-existing moments**: a second now is only a naming.* At this file's improving, each *momentary* is said with *moment* for one now-existing in a sequence, *momentarying* for a thing going on through sequential moments, and *now* for the universal set of now-existing moments, as *universal momentary* is; for example, "A momentary is one resolving of a same-existing-society's selves together" is said *A same-existing-society's selves resolve together within one moment.*
-- **An explaining** · *Sharing* dissolves from natural naming: one concept has one name, and *sharing* named several, a self's giving across or along, its key, and its value. At this file's improving each *sharing* is said with what Natural Intelligence's opening names, a self observing an other's me-parities (a bi-coupling), gathering or co-aiming, or with Exhibit ONE's code names and their prefixes: 4-now-co-same-existing (4-bi-co-bi) for each key, 6-now-co-possibling (6-bi-co-bi) to an other and 10-next-co-possibling (10-bi-tri-bi) to the universe across, and 9-next-co-discovering (9-tri-bi-co) along. *Surfacing* may dissolve with it.
-- **An explaining** · *Surfacing* dissolves from natural naming with *sharing*: all or none at all, one unique clear versatile naming for each concept, with its prefixing attached as needed for cohering directionally. At this file's improving each *surfacing* of a parity is said with Exhibit ONE's code names: 14-next-possibling (14-bi-tri-bi), within 1-now-existing each 4's parities from 2-now-possibling, agreeing one and parting 0, and within 17-next-existing others' 6, 10 and 9 gathering as a next 2-now-possibling; *a parity in 14* for *a parity surfacing*. Each other *surfacing* is said with the naming of its own concept at its sentence. *Surface*, as a Natural Network surface, is its own concept.
+- **An explaining** · Each *momentary*, *sharing* and *surfacing* of this file is said at its improving as Natural Naming has it, one concept with one name: *moment*, one now-existing in a same-existing sequence, 2.1, with *momentary* going on only as a qualifier, a momentary now-existing thing; *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-is-now-observing, going from a self across with 6 and 10 or along with 9, 2.5; and *surfacing*, one sense, a parity arriving for a key with 14-next-possibling, 2.5. A *sharing* or a *surfacing* with a sense other than these is said with the naming of its own concept at its sentence, and *surface*, a Natural Network surface, is its own concept.
 
 ## Opening
 
@@ -268,6 +266,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 5.1 The explanatory gap · 179
 
 ### 5.2 Qualia and the zombie argument · 111
+
 - **Possible exploring** · A felt is with an other: a living parity aims at an other, never at the universe, and a me between its own me-parity and an other's is self-other consciousness, as Natural Intelligence's opening, agreed and waiting at its gathering-value, says: *A me observing a you is **self-other consciousness**.* With Me 3.2 *A me is consciousness* and Me 3.3 *A me with no other: it is not.*
 
 ### 5.3 Sleep · 91
@@ -319,6 +318,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 5.22 Evidence for neural representation · 219
 
 ### 5.23 Detecting covert consciousness · 220
+
 - **Possible exploring** · A method of discovering an other existing thing is-or-is-not a you, a living other self: a me observing an other's me-parity finds a you, and a non-living thing has no living parity and is never a you. It is relational, for one me: not reached is not found, and is not *not living*: a covert consciousness not reached is not found, and is not shown to be not conscious. With Natural Intelligence's opening, agreed and waiting at its gathering-value: *For a me, an other's me whose me-parity it is observing is a **you**.*
 
 ### 5.24 The solar dynamo and the sunspot cycle · 254

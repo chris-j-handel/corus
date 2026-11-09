@@ -1,1 +1,1 @@
-Gathering-Value Kit · programs writing and mending items in the gathering-value files, `gathering-value/`, all or none, each deciding nothing.
+Gathering-Value Kit · programs writing and mending items in the gathering-value files, `gathering-value/`, all or none, each deciding nothing, and `gathering_check.py <Title>`, one gathering-value read against its living file before each commit.
