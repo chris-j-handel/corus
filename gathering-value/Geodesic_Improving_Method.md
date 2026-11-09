@@ -230,6 +230,8 @@ Gathering-Value · Geodesic Improving Method
 
 ### 5.3 Scale, orientation and position, each from all other
 
+- **Possible exploring** · A pattern and a method arising along and across the living file set: each file has its concepts from Natural Naming's menu, already named, sets each at a four-cycling, and its sentences change co-sequentially, corners, edges and faces of one right-spiraling form, a round and then its next round; scale is the round, orientation the spiral's one way, position the corner a concept is at. Each improving podals a naming out from a me cone's apex to its universal set and back in, along a file, and across the files the same form goes on at each. A binary at each file's turn: is each of its concepts a name of the menu at a four-cycling, or a word of its own. — at "**Geodesic method goes on three sides, each from all other**: scale, its form; orientation, its momentarying; position, its resolving."
+
 ## Droplets
 
 - Nothing goes backward in resolving: from now, a self faces toward its sequence's prior now-existings as artifacts of existing, and gathering, a self co-competencing others' prior-existings, is the value of others to living becoming co-aiming; gathering-value is that gathering, as Natural Intelligence's opening, agreed and waiting at its gathering-value, says: "**Gathering** is a self observing others' prior-existings for its own possibling." *(possible exploring)*
