@@ -26,6 +26,8 @@ Gathering-Value · Natural Naming
 
 ### 2.4 Dissolved words, each with its saying
 
+- **Possible exploring** · A negation installs the fixing it negates, as this entry has it with equilibria: a fixing dissolves by naming the changing it stood beside before it enters a sentence; *fixed to nothing* is *riding*, Natural Networking 5.1; *a nothing shared* is *a 0*, a between; *no origin* is *a next 1*, 17; *no seat* and *no pin* are *riding*; *no common clock* is *each self its own time*; *never meeting* is *inverting by the route it has*; *in neither self alone* is *abundancing*, arising with a coupling; *nothing crosses* is *along*; a sentence said with these words has its fixing dissolved before it arrives — at "*disequilibrating* names that flowing by a negation from an equilibrium, a form not possibly existing, its is side unsaid, and dissolves, *in disequilibria* of the universe, all by none, dissolving with it."
+
 ### 2.5 One sense per foundation word
 
 ### 2.6 Two prefixes with one spelling, and a one-way prefix installing a form it opposes
