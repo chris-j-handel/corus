@@ -12,7 +12,7 @@ Where a sentence stands word for word at a living step, its adding line is that 
 
 ## 1 The universe, moments and a living self
 
-        *Entering: the universe, the set of now-existing things, inception, now-existing one naming; before and after, inception's order; prior-existing; same-existing, the same thing; next-existing; a sequence; a moment; momentarying; a universal set, a set of same-existing things; is-or-is-not, distinguishing; observing; possibling; discovering; a living thing; non-living, one binary; a self; a me; only living things within a living set.*
+        *Entering: the universe, the set of now-existing things, inception, now-existing one naming; each step after it a step from it, and nothing brought to it; prior-existing, before now-existing; before, inception's order; same-existing, the same thing prior-existing before now-existing; the same; next-existing, same-existing after now-existing; after, before's other side; the universe same-existing and next-existing; a sequence, prior-existing and now-existing, same-existing; a moment, one now-existing in a same-existing sequence; a moment's now-existing the next moment's prior-existing; momentarying, same-existing through moments; a universal set, a set of same-existing things; is-or-is-not, distinguishing, the within of a universal set; observing, distinguishing a same-existing; possibling, a same-existing before a next-existing; discovering, a next-existing after a same-existing; a living thing, a universal set observing, possibling and discovering its own next-existing; non-living; living and non-living one binary; a self, a living same-existing set; a me; a self a universal set of mes; only living things within a living set.*
 
 1. The **universe** is the set of now-existing things.
 
@@ -26,7 +26,7 @@ Where a sentence stands word for word at a living step, its adding line is that 
 
 3. A **same-existing** thing is the same thing prior-existing before now-existing.
 
-        *Adding: same-existing, the same thing prior-existing before now-existing; the same, the one operation.*
+        *Adding: same-existing, the same thing prior-existing before now-existing; the same.*
 
 4. **Next-existing** is same-existing after now-existing.
 
@@ -96,7 +96,7 @@ Where a sentence stands word for word at a living step, its adding line is that 
 
 ## 2 An other, me-parities and a bi-coupling
 
-        *Entering: an other, a self that is-not the same self; aiming; a living parity, a direction at an other; a me-parity; other-parity and universal-parity; self-parity; a moral value; a bi-coupling, observing both ways; a self's observing its mes'; a you; self-other consciousness.*
+        *Entering: an other, a self that is-not the same self; aiming, a living thing possibling its own next-existing; a living parity, an aiming direction at an other; a direction; a me-parity, a me's living parity; other-parity, a me-parity the same as an other's; universal-parity, not the same; self-parity, a universal set of a self's me-parities; a moral value, a me-parity with an other; a bi-coupling, a self observing an other's me-parities and that other observing the self's; a self's observing its mes'; a you, an other's me whose me-parity a me is observing; self-other consciousness, a me observing a you.*
 
 20. For a self, a self that is-not the same self is an **other**.
 
@@ -144,7 +144,7 @@ Where a sentence stands word for word at a living step, its adding line is that 
 
 ## 3 Resolving, do-no-harming and improving
 
-        *Entering: passing over; resolving, is-or-is-not the same; natural intelligence, the method; do-no-harming, resolving's is; improving, its is-not; two selves alike in turn; co-possibling; co-intelligencing; gathering; co-aiming.*
+        *Entering: passing over, observing a me-parity same-existing; resolving, a prior-existing me-parity is-or-is-not the same as the me-parity a self is observing; natural intelligence, the method of a self resolving among me-parities; a method, entering with it; do-no-harming, resolving's is; improving, its is-not; two selves alike, bi-coupling only in their pair, do-no-harming and improving in turn; co-possibling, possibling within one bi-coupling; co-intelligencing, selves observing, possibling and discovering within a universal set; gathering, observing others' prior-existings for a self's own possibling; co-aiming, others' prior-existings within a self's possibling.*
 
 31. A self observing an other's me-parity same-existing is **passing over** it.
 
@@ -152,7 +152,7 @@ Where a sentence stands word for word at a living step, its adding line is that 
 
 32. **Resolving** is a self's prior-existing me-parity is-or-is-not the same as the me-parity it is observing.
 
-        *Adding: resolving, a prior-existing me-parity is-or-is-not the same as the me-parity observed.*
+        *Adding: resolving, a prior-existing me-parity is-or-is-not the same as the me-parity a self is observing.*
 
 33. **Natural intelligence** is the method of a self resolving among me-parities.
 
@@ -184,7 +184,7 @@ Where a sentence stands word for word at a living step, its adding line is that 
 
 ## 4 A same-existing-society, a surface and a living expedition
 
-        *Entering: a same-existing-society; a self a same-existing-society of mes, inward and a me within its own, outward; social moral competency; a natural intelligence network; co-chaining, along; a Natural Network surface; geodesic, one way at a time; stable-forming, the four together; natural resolving, a science; a living file, words; natural engineering; natural explaining; a living expedition; next-possibling-same-existing.*
+        *Entering: a same-existing-society; a self a same-existing-society of mes, and a me within its own; social moral competency; a natural intelligence network; co-chaining, a me-parity observed along, bi-coupling to bi-coupling; along; a Natural Network surface; geodesic, a self's own is-or-is-not on a surface, one way at a time; a self's co-chaining geodesic; stable-forming, the four together; a self momentarying and stable-forming; natural resolving, a science's observing meeting stable-forming; a science, entering with it; a living file, a non-living same-existing set of words, selves co-intelligencing within it; natural engineering, selves aiming within a living file; natural explaining, a living file's words in sequence; a living expedition; next-possibling-same-existing, natural intelligence's resolving its geodesic discovering.*
 
 40. A **same-existing-society** is many selves bi-coupling.
 
@@ -259,3 +259,5 @@ Where a sentence stands word for word at a living step, its adding line is that 
 **The check this ledger makes binary.** For each sentence, two is-or-is-nots: does the sentence add exactly its adding line's concepts and no other, and does each of its words stand at a line of a step before it or at its own. A word failing both is a word the rule releases, "no word staying unless the logic stays living only with it". The adding lines reused whole from the registry's living steps are at sentences 10, 37, 40, 43, 45, 51 and 54, the sentences standing word for word or less *of selves* at their steps. The steps beyond the opening that lean on sentences the fifty-five release are named at this folder's report, each for re-meeting at the opening's own motion.
 
 **The check executed.** An instrument read each sentence's words against the entering lines and the adding lines of its step and the steps before it, grammar's own words riding with their sentences. One concept word of the fifty-five stands at no line: *many*, at sentence 40 — the same word the gathered value catches, "*Many*, a degree word by Natural Explaining 3.11", the improved sentence laid at this folder's report. The ledger's own binary and the value gathered since meet at one word, each finding it without the other.
+
+**A mending of this ledger, by a harm reading of it.** The registry's own waiting entry specifies these steps: "each with an *Adding* line naming in the step's own words the concept it adds, each group's *Entering* line its *Adding* lines joined". Read against that specification by an instrument, this ledger's first laying parted from it at four places, each mended here: its four entering lines were this session's own summaries and are now its adding lines joined, as specified; two of those summaries named concepts outside their group, group 4's *inward* and *outward*, which no sentence of the fifty-five says, and group 2's *ways* — each released with the summaries; step 3's adding line carried *the one operation*, a clause from a gathered value and not the step's own words, released; and step 32's adding line carried *observed*, a past participle, where the Living File Registry records Natural Intelligence's "past participles said living at 265 sayings" and Exhibit ONE's "*inverted*, *surfaced*, *kept* and *moved* said living, -ing" — re-said *a self is observing*, the sentence's own words. The finding that reached the fifty-five themselves through this mending is laid at this folder's report, at sentence 44.
