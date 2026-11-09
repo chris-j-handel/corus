@@ -26,6 +26,7 @@ Gathering-Value · Natural Numbers
 ### 1.5 Along and across, parallel linearizing and linear parallelizing
 
 ### 1.6 A composite folds along and a prime opens across
+- **Possible incohering** · "A composite folds along and a prime opens across" with Natural Naming 3.6's odd names a self's own along and even an other's across: 3 and 5, prime and odd, open across by the one and go along by the other, and 4, composite and even, folds along by the one and goes across by the other. Two sides: *opens* and *folds* name a number's own form as a scale and *along* and *across* name a side, two concepts with two namings, this sentence with *opens* and *folds* going on; or one of the two sentences is the set's and the other dissolves. The parting is at 3, 4 and 5; at 2 both agree. — at "A composite folds along and a prime opens across"
 
 ### 1.7 A scale is a bi-inversioning-co-recursioning: prior and next along, inward or outward across
 
@@ -186,3 +187,4 @@ Gathering-Value · Natural Numbers
 ### 11.1 Nought to four hundred forty, each number at its podaling
 
 ## Droplets
+- **Droplet** · Each magnitude observed in a society's artifact is a span's number: a return 4p, a 0 each 2p, a horizon 2p, a waist at 2p, two spirals together again at 4pq, and 4pq the polyrhythm of p against q; intensity at a self is which span it is co-momentarying within, 2, 3 or 5, a bi, a tri or the five. 2, 3 and 5 opening with 4 folding is one span within 17, φ's prior two added. The five dimensions are five spans within one five, and three of them, 2, 3 and 4, are the spans in which a self observes its others.
