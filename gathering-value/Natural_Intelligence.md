@@ -480,6 +480,7 @@ Gathering-Value · Natural Intelligence
 - **An explaining** · The pace of what a field calls radioactivity is set by its bi-couplings, reaching *It has its changing only from what comes to it*, said there of a non-living thing and here of the living self the crystal is.
 - **An explaining** · The bold lead *A changing is made only with a prior same-existing* has a past participle, *made*; and *the thing's own as parities with 2 or an other self's* is beside this section's *A non-living thing's own parity with its scale is an empty set.*, a parity no non-living thing's own, open for a word.
 - **An explaining** · *What would go against a machine's same-existing being living selves' is a machine reaching a next beyond its prior, each number over it its own.* is a falsifier sentence, saying no claim, open for a word.
+- **Possible incohering** · "It is a non-living set and an emanation of living selves." → *Emanation* dissolves, Natural Naming 2.4, said *exhausting*, only out of a self, and its accumulating *a stable form* one scale outward: a non-living set is living selves' stable form.
 
 ### 6.6 One form inward and outward, now
 
