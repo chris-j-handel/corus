@@ -16,7 +16,8 @@ Says:
   3. Released words among the words this motion adds, from released_words.txt beside this file,
      outside italics and code; bold is read.
   4. Retired sayings still at the living files, from retired_sayings.txt beside this file, a sentence
-     saying the retiring itself (dissolved, released, re-said, retired) passed over.
+     saying the retiring itself (dissolved, released, re-said, retired) passed over, and a saying
+     in italics or quotes, or within a living file's own title, passed over as a mention.
   5. Each step number the carrying names, with the step's opening words, to be read by eye.
 Kinds 1 and 5 of the reviewer's brief, a concept before its entering step and meaning drift,
 and section numbers, are a reader's.
@@ -142,14 +143,23 @@ living = [f for f in glob.glob(os.path.join(root, '*.md')) if os.path.basename(f
 if not living:
     say('no living files found at the root: this check read nothing and agrees with nothing')
 RETIRING = re.compile(r'dissolv|releas|re-said|retir', re.I)
+# a living file's own title is its name, not a saying: Living Society Registry is passed over
+TITLES = sorted({re.sub(r'_v\d+\w*$', '', re.sub(r'^Exhibit_[A-Z-]+_', '', os.path.basename(f)[:-3])).replace('_', ' ')
+                 for f in living}, key=len, reverse=True)
+TITLE_RE = re.compile('|'.join(re.escape(t) for t in TITLES)) if TITLES else None
 for s in retired:
     pat = re.compile(r'(?<![\w-])' + re.escape(s) + r'(?![\w-])', re.I)
     hits = []
     for f in living:
         c = 0
         for sentence in re.split(r'(?<=[.;:|])\s+', open(f, encoding='utf-8').read()):
+            if TITLE_RE: sentence = TITLE_RE.sub(' ', sentence)
+            # a saying in italics or in quotes is mentioned, not said, as with released words
+            sentence = re.sub(r'(?<!\*)\*(?!\*)[^*\n]+?(?<!\*)\*(?!\*)|"[^"\n]*"', ' ', sentence)
             if pat.search(sentence) and not RETIRING.search(sentence):
-                c += len(pat.findall(sentence))
+                # a title-case saying past a sentence's opening is a field's own title, Burnet's Self and Not-self
+                c += sum(1 for m in pat.finditer(sentence)
+                         if not (m.start() > 0 and m.group(0)[0].isupper() and not m.group(0).isupper()))
         if c: hits.append(f'{os.path.basename(f)} {c}')
     if hits:
         say(f'"{s}": ' + '; '.join(hits))

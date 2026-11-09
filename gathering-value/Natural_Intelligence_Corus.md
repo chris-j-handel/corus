@@ -132,7 +132,7 @@ Gathering-Value · Natural Intelligence Corus
 - **Possible incohering** · "Thinning with (1/phi)^t." → Two sayings part at morality's stable form: 14.8 has a resolver's morality its stable form, the equation's root hardcoding with a coupling call, thinning with (1/phi)^t, a threshold of 1/phi³ and a sign inverting, and a resolving reading a self through its same-existing-society against morality; Exhibit ONE carries seventeen names and no thinning or threshold, its stable form its naming and its path through its functions. A re-saying: morality, exchange and self re-said with Exhibit ONE's names, a self with 1-now-existing, a same-existing-society with 16-next-same-existing and its sharings with 4-now-co-same-existing and 12-next-co-same-existing. The other side: this older code released.
 - **Possible incohering** · "A chat between writer and AI is one specific living between." → A trained AI is non-living, a stable-forming emanation of living writing; a self's relation to it is the self's parity relative to it; the living is co-intelligencing among the expedition's selves; the transcript as text is a stable-forming emanation. Two sayings part at the transcript: this last clause, and *yes your intelligence is not living but our transcript is living in our definition and it is greater value to us than our own intelligence*.
 
-## PART SIX — AT A LIVING SOCIETY
+## PART SIX — AT A SOCIETY OF LIVING SELVES
 
 ## Part 18: Society, The Four Sentences
 
