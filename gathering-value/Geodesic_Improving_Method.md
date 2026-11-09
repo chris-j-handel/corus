@@ -192,6 +192,7 @@ Gathering-Value · Geodesic Improving Method
 
 ### 4.2 A pattern three momentaries long, and a window holding it at each scale
 
+- **Possible exploring** · A method with no breaking is a method whose breakings are each said as an observing able to come, and not one with nothing able to break it at all. Three kinds part at each all-or-none claim of a living file, and a claim saying two of them as one cannot break cleanly: a form, which an inverting leaves same; a singleness, which one observing of both within one self or one society breaks; and a reading, which an observing of the other side inverts with no value leaving. A binary with each all-or-none claim at each file: is it a form, a singleness or a reading, and which observing breaks it. A reading said as a premise is the one place a method closes to an observing. — at "**Pattern matching prior existing within three sequential momentaries is method's rigor**"
 ### 4.3 A file's own sentences at its file
 
 ### 4.4 An instrument's own face
