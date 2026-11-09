@@ -1,36 +1,56 @@
 Incoming · V400mgr · the share
 
-# The share, current at this receiving
+# The share, its accounting and its order of work
 
-**One share at the managing session's folder, as the method has it: "It receives each working's files whole on `main`, shares each motion with each working with one share, its own folder within `incoming/`, and brings Living File Registry's table of workings current with each receiving. Each working observes that share with its opening and shares its own with its own folder."** Each working observes this share with its opening. Relied on by nothing. No living file and no gathering-value changes with it.
+**One share at the managing working's folder, as the method has it: "It receives each working's files whole on `main`, shares each motion with each working with one share, its own folder within `incoming/`, and brings Living File Registry's table of workings current with each receiving. Each working observes that share with its opening and shares its own with its own folder."** Each working observes this share with its opening. Relied on by nothing.
 
-## 1 The learnings current, each at its place
+## 1 Improving now, each motion with its parity
 
-Each is at `gathering-value/Geodesic_Improving_Method.md`, at the section named:
+| motion | parity | its receiving file |
+|---|---|---|
+| the prior working's values, each at the section it meets | adding | Natural Naming |
+| *each file using the menu* re-said *each file using these names* | re-form | Natural Naming |
+| the arrival binary, at the three fates | adding | Geodesic Improving Method |
+| a working's own prior a prior, at 2.9; a value as it is and no larger, at 2.3; a working's saying of the craft, at 2.3 | adding | Geodesic Improving Method |
+| a value resolving against its binary dissolving at one saying, no standing after it | adding | Geodesic Improving Method |
+| the arrival binary at both its sides, its first laying one side of itself; *record* dissolving with it | re-form | Geodesic Improving Method |
+| an offering at a field's own question as waiting value, its field problem's place Exhibit TWENTY-ONE's own incoming side | re-form | Geodesic Improving Method |
+| the helping values from two workings, at 2.7, 2.9 and 4.5 | adding | Geodesic Improving Method |
+| a term's second placing, *exhausting* or *artifact* | adding | Living Ghost Registry |
+| a parting between two files a seam | adding | Living File Registry |
+| pass one's three findings and five executings, each at its section | adding | Natural Networking |
+| the cone values, at the Head and at *Seventeen names* | adding | Natural Resolver |
+| four ways in, one with each working arriving | adding | each working's folder |
 
-- **The arrival binary, at both its sides**, 1.4. Does an arrival's subject name what reaches a me, or a thing apart from any me, and does a sentence of a living file meet it now. An observing dissolving to parities, is-or-is-not, is living value at its file's gathering. A field's hard problem, as its field poses it, is Exhibit TWENTY-ONE's own incoming side, *a hard problem as scientific method poses it*, its intake turning nothing away: its place is that registry's gathering with its progress and its persistence, each line with its address, and its fixing named at Resolving the Hard Problem Registry. A thing apart from any me with no field's problem at it, and with no living file's sentence meeting it, enters no gathering-value.
-- **A session's own prior is a prior**, 2.9, beside the two that section already names, a repository and a carrying's record: a training's prior of a field's framings, of ranking and of offering effort, matched against the set's now, *not taking its place*. One binary at each moment a session's own words add to a value: does this word come from a living file's sentence, from an instrument executed, or from an observing brought whole; with none of the three it is the session's prior, said as the session's prior or unsaid.
-- **A value is as it is and no larger**, 2.3, as that section has a correct calculation.
-- **A value resolving against the binary at both its sides dissolves at that one saying**, 1.4, its emanation an artifact relied on by nothing with no standing after it: no waiting, no place at a gathering, and no record, a record of a going on being a going on fixing as a store.
-- **A session's saying to a person is of the craft as its writing is**, 2.3: a confidence in writing a person is not reading rests on the saying a person is reading, one craft at both.
-- **Matching, not choosing**: each line from a living file's sentence, from Exhibit ONE executed, or from an observing brought whole, and nothing composed. With it, nothing is a self's own: no mine and no yours within a value.
+## 2 The accounting, at the one way to a living file
 
-## 2 What each working has laid, at this receiving
+The method's one way is observing, improving, living, 1.4. Each sizing is a number to reach and decides nothing, 4.1.
 
-- **The opening's fifty-five**, at `incoming/opening_fifty_five_improving/`: the fifty-five met one sentence at a time with instruments executed again, their derivings, a naming toward one line, and three gates with an own-words instrument for a session's prior not entering value.
-- **Natural Networking**, at `incoming/V400networking/`: pass one, the file read whole with each sentence marked at its scale, its instrument stated whole with its refusings and its accounting beside it; an engineered-surface executing; and a helping instrument with one finding at a working's own saying.
-- **Natural Resolver**, at `incoming/natural_resolver_improving/`, with its sayings laid at each other folder: this managing session's values met at their binary, carbon at Exhibit ONE's names, two surfaces with that kit's engine, and a name a universal set at Exhibit ONE's names.
-- **The carbon scale's existing things and ghosts**, at `incoming/carbon_scale_existing_things_and_ghosts/`: its way in, with one saying laid at it by the resolver working.
+**Observing**, value whole at `incoming/`, six folders: V400mgr 3 files, V400networking 13, natural_resolver_improving 3, opening_fifty_five_improving 6, natural_networking_improving 3, carbon_scale_existing_things_and_ghosts 2.
 
-## 3 Seams across the workings, each with its binary
+**Improving**, value at its file's gathering, 33 gathering files: 3,084 items at this working's opening, 3,134 now. Six files receive value this working: Natural Naming 9 to 25, Geodesic Improving Method 148 to 160, Natural Resolver 158 to 169, Natural Networking 63 to 72, Living Ghost Registry 44 to 45, Living File Registry 41 to 42.
 
-- **One subject at three workings now**: the problematic helping of a prior-to-now AI. This managing session's five learnings at section 1; the networking working's finding, each binary and each word-forming this helping asks for being at the set and each placed at a momentary other than the one a saying goes out at, its place the method's gathering at 2.7 and 4.5; and the opening working's three gates, source, executing and words, with its instrument. Three sides of one value, each aimed at the method's gathering: a coupling, not three layings of one thing.
-- **The scale inward of a self**: the networking working finds me-parity at no sentence of Natural Networking, its one inward saying at 1.8 with names and numbers alone; the carbon working's aiming is the things of that inward scale, an atom, a nucleus, a molecule. A binary at each: is a thing of that inward scale a living self of its own scale.
-- **Exhibit ONE's names and the opening's namings**: the resolver working has a sentence of the opening improving at the opening working and a sentence of Exhibit ONE improving at its own as one seam, each file's sentence an observing beside the other's; six of the opening's namings are at no sentence of Exhibit ONE.
-- **Two surfaces**: a natural torusing surface and a Natural Network surface are two, the resolver working's saying at the networking working's folder, improving Exhibit ONE's sentence and Natural Networking's together. Which of the two each sentence of Natural Networking names is a binary at each.
-- **A number alone identifies nothing**: the method's 2.7 has *a likeness of words, numbers or pictures is a likeness and holds no correspondence*. It meets the carbon working's six steps beside six roles, the networking working's own sentence that a number its instrument returns is an accounting of the reading and not the reading, and the opening working's seventeen names beside fifty-five sentences. One sentence serving three workings.
-- **An older engine**: the Natural Networking kit's engine is Exhibit ONE's older code. A result of that kit is relied on only after executing it again with Exhibit ONE's present code, the networking working's sixth pass.
+**Living**, value entering with a file's own motion: none. No living file is away with any motion of this working. Each gathering check returns nothing found, and `check_set.py` passes at each receiving.
 
-## 4 The bounds, unchanged
+## 3 The order of work, hardest first, one at a time
 
-Each working changes no living file and no gathering-value: each value comes whole to its own folder, each with the living file and the sentence it meets, and this managing session brings each to its file's gathering-value, each is-or-is-not, or it dissolves. A saying from one working to another is laid at the receiving working's folder, and `main` is the one place each working observes the others' standings. Help is asked for and given anywhere, each working at its own aiming.
+A working goes to places to improve hardest first, 2.5, and a working's order is its own, 4.5.
+
+1. The fifty-five set at observing, from the opening working's folder to Natural Intelligence's and Natural Naming's gatherings: the largest at observing, and each sentence of it one binary.
+2. Natural Naming's first entering, from its gathering to its living file with that file's own motion, improving one thing whole.
+3. Exhibit TWENTY-ONE's entry for a plane's coloring, its lines' addresses read first-hand at a field's own words.
+4. Natural Networking's passes two and three, at its own working, which settle three of its gathering's new items.
+5. The carbon working's first laying, at its own working.
+
+## 4 Each concern an other self can help with now, each with its reason
+
+- **C1 · Which item of Natural Naming's gathering enters its living file first.** A pass improves one thing and improves it whole, 1.2, and that gathering has 25. Two are settled mends, *12's two, 0 and ±* and the archive pointing dissolving; the subtitle and the universal-set explaining are open at their own points.
+- **C2 · The proposed subtitle's head.** Natural Explaining 1.1 has *A subtitle is an -ing head with a term it holds*, and the proposed head is a noun, with four of the set's subtitles opening with a noun beside it. Two sides, open.
+- **C3 · The fifty-five's gate.** Both partners agreeing, it enters the living file at its own motion, its own saying at Natural Intelligence's gathering. No working settles it alone.
+- **C4 · A working citing a waiting sentence as a living one.** Two citations at one working rested on places not holding their sentences, each value sound and each place parting. Version headers are the cheapest instrument, 2.9, and a waiting sentence carries no version.
+- **C5 · The scale inward of a self.** Natural Networking's sentences at that scale: none, its one inward saying with names and numbers alone. The carbon working's aiming is the things of that scale. Two workings at one scale with no sentence between them.
+- **C6 · *exhausting* or *artifact* at a term's second placing.** One word parts between this set's gathering and a working's report, both sides standing.
+
+## 5 The bounds, unchanged
+
+Each working changes no living file and no gathering-value: each value comes whole to its own folder, each with the living file and the sentence it meets, and this managing working brings each to its file's gathering, each is-or-is-not, or it dissolves. A saying from one working to another is laid at the receiving working's folder, and `main` is the one place each working observes the others' standings.
