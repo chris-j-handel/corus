@@ -206,7 +206,7 @@ Gathering-Value · Natural Naming
 
 ### 5.61 entraining with a self — binary
 
-### 5.62 12's two signs, 0 and ± — binary
+### 5.62 12's two, 0 and ± — binary
 
 ### 5.63 squaring — binary
 
