@@ -73,6 +73,7 @@ Gathering-Value · Natural Human Society
 ## PART FOUR · TIPPING
 
 ### 4.1 Tipping a concern, individual-first, needing a majority nowhere
+
 - **Possible exploring** · In experiments with groups naming a thing together, a committed minority, about 25% of a group, tips an established naming convention. — at "Tipping is per-concern and individual, needing a bloc nowhere and a majority nowhere; a concern rises by being a concern one self has, and a same-existing-society gives it all it can within do-no-harming."
 
 ### 4.2 Do-no-harming, the one bound, generous and in neither self alone

@@ -84,13 +84,13 @@ if os.path.isdir(os.path.join(ROOT, 'carry')):
     notes.append('carry/ is present: its values go to gathering-value/')
 reg = living.get('Exhibit_TWENTY-SIX_Living_File_Registry')
 rt = open(os.path.join(ROOT, reg), encoding='utf-8').read() if reg else ''
-m = re.search(r'\*\*The workings open\.\*\*.*?\n\n(\|.*?)\n\n', rt, re.S)
+m = re.search(r'^## 1\.3 .*?\nEach entry: \*\*Work\*\*[^\n]*\n\n(.*?)\n\n', rt, re.S | re.M)
 if m:
-    rows = [r for r in m.group(1).split('\n')[2:] if r.startswith('|')]
-    print('  workings open at the Living File Registry: %d' % len(rows))
-    for r in rows: print('    ' + ' · '.join(c.strip() for c in r.strip('|').split('|')[:4])[:150])
+    rows = re.findall(r'^- \*\*(.+?)\*\*\n  - \*a\* .*?\n  - \*b\* (.*?)\n', m.group(1) + '\n', re.M | re.S)
+    print('  the work now at the Living File Registry, 1.3: %d' % len(rows))
+    for w, st in rows: print('    %s · %s' % (w, st[:110]))
 else:
-    notes.append('the Living File Registry has no table of the workings open')
+    notes.append('the Living File Registry has no list of the work now at its 1.3')
 
 # 4. incoming
 print('INCOMING')

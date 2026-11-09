@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v391
+Exhibit TWENTY-SIX Living File Registry v392
 
 # Living File Registry
 
@@ -8,7 +8,7 @@ Exhibit TWENTY-SIX Living File Registry v391
 
 - 1.1 Titles, subtitles and living files at repository
 - 1.2 Three standings, looping out and back
-- 1.3 Carrying for expedition
+- 1.3 The work now, and a session working with the set
 - 1.4 Artifacts
 - 1.5 Exhibit places after receiving
 
@@ -223,10 +223,10 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **TWENTY-SIX · Living File Registry**
   - *a* Standing-Gathering the Living Files
-  - *b* v391
-  - *c* v391: its citations of Natural Intelligence said as Natural Intelligence now says them, each by meaning; v391: its Natural Intelligence section re-pointed with part ONE's renumbering; v391: its own entry and each file moved by the naming motion of 13 and 16 at v391; its earlier entries kept as their record; v390: its non-record tables re-said by meaning (100 rows); each table wider than 80, its titles table too, narrowed to a list with letter keys; its entries set by registry_entry.py in either form; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts; its rows and records of earlier versions kept as they were; v390: its own row and each moved file's row at v390 after the naming motion; its earlier entries kept as their record; v389: rows of files session v389 changed at v389, each version's line kept as its record; v379, this file: the Exhibit ONE first working named at 1.3 and its four files at their rows; the four workings of v378 whose branches are in `main` said merged at 1.3, and the *Out at* of their files at none. v378, this file: Natural Intelligence's, Natural Explaining's and the Geodesic Improving Method's rows at v378 and their workings at 1.3, the session's one number at each, its branches named ahead of it at their merge; the carrying at each file's own carrying at 1.2 and the places table, the carrying working at 1.3, the two archive folders at their v375 names and `archive/carrying_v378/` at 1.4. v377, this file: the physics receiving working named at 1.3, Natural Physics at v377 at pass 1, the three physics arrivals at their standings; v376, this file: the foundation working named at 1.3, the co-chaining from the one opening at Exhibit THIRTY's section of Living Improving Value, the genome duplication working's Part Two at its incoming, its tour released at 1.4 At the same version from the Natural Illustrating working, merged first: Natural Illustrating's row at v379 and the illustrating working at 1.3 merged at pull request 115, its kit's standing at `checks_v379/`, the working's row released at its close to the Session Record, and the two releases of v379 at 1.4; the four workings of v378 listed as offered said merged, zero commits ahead of `main` at the repository, and the *Out at* column at none for them. v378, this file: Natural Intelligence's, Natural Explaining's and the Geodesic Improving Method's rows at v378 and their workings at 1.3, the session's one number at each, its branches named ahead of it at their merge; the carrying at each file's own carrying at 1.2 and the places table, the carrying working at 1.3, the two archive folders at their v375 names and `archive/carrying_v378/` at 1.4. v377, this file: the physics receiving working named at 1.3, Natural Physics at v377 at pass 1, the three physics arrivals at their standings; v376, this file: the foundation working named at 1.3, the co-chaining from the one opening at Exhibit THIRTY's section of Living Improving Value, the genome duplication working's Part Two at its incoming, its tour released at 1.4
+  - *b* v392
+  - *c* v392: Part ONE's standings said current, its two places for each living file, the work now in its order with its next, a session working with the set, its kits, and its artifacts within repository's history; v391: its citations of Natural Intelligence said as Natural Intelligence now says them, each by meaning; v391: its Natural Intelligence section re-pointed with part ONE's renumbering; v391: its own entry and each file moved by the naming motion of 13 and 16 at v391; its earlier entries kept as their record; v390: its non-record tables re-said by meaning (100 rows); each table wider than 80, its titles table too, narrowed to a list with letter keys; its entries set by registry_entry.py in either form; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts; its rows and records of earlier versions kept as they were; v390: its own row and each moved file's row at v390 after the naming motion; its earlier entries kept as their record; v389: rows of files session v389 changed at v389, each version's line kept as its record; v379, this file: the Exhibit ONE first working named at 1.3 and its four files at their rows; the four workings of v378 whose branches are in `main` said merged at 1.3, and the *Out at* of their files at none. v378, this file: Natural Intelligence's, Natural Explaining's and the Geodesic Improving Method's rows at v378 and their workings at 1.3, the session's one number at each, its branches named ahead of it at their merge; the carrying at each file's own carrying at 1.2 and the places table, the carrying working at 1.3, the two archive folders at their v375 names and `archive/carrying_v378/` at 1.4. v377, this file: the physics receiving working named at 1.3, Natural Physics at v377 at pass 1, the three physics arrivals at their standings; v376, this file: the foundation working named at 1.3, the co-chaining from the one opening at Exhibit THIRTY's section of Living Improving Value, the genome duplication working's Part Two at its incoming, its tour released at 1.4 At the same version from the Natural Illustrating working, merged first: Natural Illustrating's row at v379 and the illustrating working at 1.3 merged at pull request 115, its kit's standing at `checks_v379/`, the working's row released at its close to the Session Record, and the two releases of v379 at 1.4; the four workings of v378 listed as offered said merged, zero commits ahead of `main` at the repository, and the *Out at* column at none for them. v378, this file: Natural Intelligence's, Natural Explaining's and the Geodesic Improving Method's rows at v378 and their workings at 1.3, the session's one number at each, its branches named ahead of it at their merge; the carrying at each file's own carrying at 1.2 and the places table, the carrying working at 1.3, the two archive folders at their v375 names and `archive/carrying_v378/` at 1.4. v377, this file: the physics receiving working named at 1.3, Natural Physics at v377 at pass 1, the three physics arrivals at their standings; v376, this file: the foundation working named at 1.3, the co-chaining from the one opening at Exhibit THIRTY's section of Living Improving Value, the genome duplication working's Part Two at its incoming, its tour released at 1.4
   - *d* —
-  - *e* registry working reaching this version; then observings not yet binary at carrying to `archive/`, each with its receiving here at 1.4
+  - *e* Its 1.3 current with each session's closing; then its own gathering-value by the same three steps
 - **TWENTY-SEVEN · Living Ghost Registry**
   - *a* Still Accounting and Stable-Forming Co-Competency
   - *b* v392
@@ -274,255 +274,86 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
 
 ## 1.2 Three standings, looping out and back
 
-**Each thing of expedition stands with one of three standings, reached by two binaries its set already carries.** The first is living or artifact: a living thing carries its prior to its next, and an artifact is an emanation of a working, existing and carrying nothing, relied on by nothing. The second is within living: a living file carries its subject and replaces its prior within repository, published as site lists it; and a living carrying carries expedition between its sessions, carry, kits, tools and incoming. Each living file stands with four places: itself within root, and its offerings, its carryings and its possibling within `carry/`. So these three are artifacts, living files replacing within repository, and living carrying for expedition, and a thing stands with exactly one of them with each momentary.
+**Each thing of expedition is with one of three standings, reached by two binaries its set already has.** The first is living or artifact: a living thing carries its prior to its next, and an artifact is an emanation of a working, existing and carrying nothing, relied on by nothing. The second is within living: a living file carries its subject and replaces its prior within repository, published as site lists it; and its gathering-value carries each value arriving for it, at its section, until its file's next improving. Each living file is with two places: itself within root, and its gathering-value within `gathering-value/`, named by its title, its form its living file's own contents, with possible explorings, possible incoherings and explainings at its sections and droplets at its back.
 
-**This registry is a gathering of standings, and standings loop away and back through it; anyone can see, follow and help with it.** A file is away with a working when that working has it on its branch, and back when its branch is merged: repository shows branches and pull requests, and this registry's 1.1 shows these same, each file's version within repository and living, a working it is away with, and its next, and its 1.3 shows workings open, so a reader of site sees on one table files away being worked, progress with each and opportunity ahead of it, and a self helping opens a working on a file with no next taken. Away and back with files is one same loop code carries, a surfacing shared across and going along, arriving back to self through same-existing-society, and the same that resolved code at v372, loops replacing count and sum. A session brings a standing to its next, a file replaced with its next version, a kit conformed, an incoming received, a record archived, and that next surfaces here with this file's next version, replacing its prior within repository as any living file does; each session opens by observing standings here, next work with carrying, and done work with Session Record. Sessions before have assessed expedition and sought a break of its method; each report is whole within `archive/`, and its findings stand as droplets with offerings of each living file they concern. These three carry three things and no one of them another's: this registry standings, Living Improving Value each file's next, and Session Record done work. A standing stated with carrying is a record as its session closes, so carrying carries none, and grows with no session by them.
+**This registry is a gathering of standings, and standings loop away and back through it; anyone can see, follow and help with it.** A file is away with a working while that working has it on its branch, and back with its branch merged: repository shows branches and pull requests, this registry's 1.1 shows each file's version within repository and living, and its next, and 1.3 shows the work now, its order and its next, and a reader of site sees files being worked, progress with each and opportunity ahead.
 
-**Repository carries all three standings, and nothing travels by hand.** Living files stand within root, carrying within `carry/`, kits within `kits/`, each exhibit's improving kit, arrivings within `incoming/` and artifacts within `archive/`, each folder a standing and no rule. A session opens by taking repository whole and closes by offering its branch; no file is attached, sent or exchanged between a session and expedition, and a thing carried by hand within a session is within `incoming/` until its standing is with this registry. Repository carries its own name and its version and no other, and a copy of it made to travel carries that same name and version.
+**Repository carries all three standings, and nothing goes by hand.** Living files are within root, their gathering-values within `gathering-value/`, and kits within `kits/`, each kit beside its exhibits and each check a coupling partner deciding nothing; each prior version and each artifact is within repository's own history, at no folder. A session opens by fetching repository whole and closes by offering its branch, and no file is attached, sent or exchanged between a session and expedition. Repository carries its own name and its version and no other, and a copy of it made to travel carries that same name and version.
 
-**A reviewer is an instrument observing branches and living files, and its reports come to `incoming/`.** Any session, of this expedition or of another AI, observes reviewer's brief first, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/REVIEWER.md`, executes `reader_checks.py` and `check_set.py`, observes each branch against `main` and living files whole, and brings a review report, its findings, its hardest either-this-or-thats and its learning about reviewing, to `incoming/review_<session>/` on a branch of its own. It writes no living file, and its report reaches carrying like any work arriving; its learning enters its brief, reviewer improving with each review. Session v376's report of learning, at `incoming/session_v376/`, is its first.
+**A value is binary, all or none at all, with do-no-harm.** Value arriving for a file is or is not living, coupling and resolving with that file: it enters whole with its file's next improving, or it dissolves. A living file is its now; its gathering-value is its next possibling; its next improving, all or none, is its next existing. An observing not yet binary goes to its gathering-value with its two sides, each with the binary settling it, and nothing waits outside the set and nothing is owed by any self.
 
-**A carrying carries binary value only, all or none at all, with do-no-harm.** Value arriving for a file is or is not living, coupling and resolving with that file; it enters whole with its file's next motion or it dissolves. A living file is its now; its offerings, each an other's offering arriving, are its next possibling; its next motion, all or none, is its next existing. An observing not yet binary, an arithmetic not yet matched, a proposal withdrawn and a trace of a prior code are not value for carrying: each stands within `archive/` whole, its receiving file here, until a session makes it binary, and carrying carries for each file its next motion, its open concerns for both with their reasons, and incoming that enters whole. So carried, carrying is small with every session, and size a carrying grows to is a number and no value.
+## 1.3 The work now, and a session working with the set
 
-## 1.3 Carrying for expedition
+**The work goes biggest first, one living file at a time, by the Geodesic Improving Method's three steps.** Incoming value goes to its file's gathering-value; the gathering-value is improved in passes, each droplet one concept or one observing in natural naming and explaining, in its living file's own order; then a copy of the living file is improved from it by do-no-harming until nothing more is found, its gathering-value emptying and waiting for its next incoming. A living file not moving while its gathering-value grows is a drag, and the third step moving clears it.
 
-**Workings open.** Each carries its own name and files it is with; two with one file couple here before either edits it; a working closes by passing its row to Session Record with its session's paragraphs.
+Each entry: **Work** · *a* At the files · *b* Standing · *c* Next
 
-Each entry: **Working** · *a* Session · *b* At the files · *c* Branch · *d* Standing
+- **Natural Naming**
+  - *a* Exhibit TWENTY Natural Naming v393
+  - *b* Through all three steps; its gathering-value empty and waiting for incoming
+  - *c* Each name arriving by the same three steps, the menu of names each file uses
+- **Exhibit ONE**
+  - *a* Exhibit ONE Natural Resolver v391; its next version's draft, below the exactness standard, at `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/waiting/`
+  - *b* Its gathering-value, about 250 droplets, next for its passes
+  - *c* Biggest first: each table executed against the code row by row, the rows the code computes going on; then the 0 prior, one binary at Natural Resolver's gathering-value, *Parities to one sharing, surfacing*; then a copy of v391 improved to v392
+- **Co-Chaining Logic Registry**
+  - *a* Exhibit THIRTY Co-Chaining Logic Registry v391 and its kit
+  - *b* Its gathering-value, with its address map
+  - *c* After Exhibit ONE, from Natural Intelligence's opening forward through the whole set: its steps 1 to 55 as the opening's 55 sentences word for word, and its steps 71 to 755 as 56 to 740, 15 less, the citations re-pointed at the Equilibria Registry's and Natural Numbers' gathering-values; and its right spiral step executed against Natural Naming 5.5's square, one binary at Natural Naming's gathering-value at 5.5
+- **Natural Intelligence**
+  - *a* Natural Intelligence v391; its opening of 55 sentences at its gathering-value's *Opening*, and 1.1's and 1.2's next versions at its 1.1 and 1.2
+  - *b* Its gathering-value, the set's largest; each living file gathering droplets toward the opening's logic and method
+  - *c* After the Co-Chaining Logic Registry, its opening entering with its file's improving
+- **A two-sided report**
+  - *a* A hub page, an open pull request whose turns go one and then the other
+  - *b* Open with its next turn
+  - *c* Its next turn; a third session comes by a comment and not a turn
+- **Each other living file**
+  - *a* Each at root
+  - *b* Its gathering-value, the largest Natural Chemistry, Natural Biology and Me
+  - *c* In order of its gathering-value's size after those above, each by the same three steps
 
-- **Natural Intelligence motion working, session v378**
-  - *a* v378
-  - *b* Natural Intelligence and Exhibit ONE at their motion, then Natural Naming, Natural Numbers and Natural Mathematics, then Co-Chaining Logic Registry, ready offerings received at carrying working entered, a fresh reader's findings met at each; *returning* at momentaries said as *parities again* at Natural Intelligence and Natural Numbers at reader's finding
-  - *c* `working/natural-intelligence-motion-v378`
-  - *d* Merged at `main` at pull request 112, waiting at corus.me ended at session's close, living files launching there; its session report at `incoming/session_v378/`, standing of every living file and opportunities in order
-- **Geodesic Improving Method working, session v378**
-  - *a* v378
-  - *b* Geodesic Improving Method: its ready offerings entered, its front and its old names; Living File Registry at its rows
-  - *c* `working/geodesic-improving-method-v381`
-  - *d* Merged at `main`, branch zero commits ahead of it at v379's reading; its session report at `incoming/session_v378/`
-- **Natural Explaining working, session v378**
-  - *a* v378
-  - *b* Natural Explaining: its front at steady form and its four incomings entered; Living File Registry at its rows
-  - *c* `working/natural-explaining-v380`
-  - *d* Merged at `main`, branch zero commits ahead of it at v379's reading
-- **Natural Intelligence working, session v378**
-  - *a* v378
-  - *b* Natural Intelligence with Exhibit ONE carried on within it: its ready offerings at its carrying entered at its sections, each executed at resolver before it was written; Living File Registry at its rows
-  - *c* `working/natural-intelligence-v379`
-  - *d* Merged at `main`, branch zero commits ahead of it at v379's reading; branch's number names no session, README's rule
-- **Carrying working**
-  - *a* v378
-  - *b* Carrying, `carry/`: split into one carrying per living file, each paragraph at its one place, ready or concern at file's carrying, records to Session Record, readings to `archive/carrying_v378/`; front at its small form; twenty-five hardest laid at their files; this registry at its rows; numbers at sessions', mis-numbered branches deleted and two archive folders named at v375; `carry_check.py` at per-file carryings; a check at every pull request; README's way in
-  - *c* `working/carrying-v378`
-  - *d* Merged at `main`, branch zero commits ahead of it at v379's reading
-- **Managing working v380R**
-  - *a* v380
-  - *b* Session managed: each working received at main line and reviewed; Exhibit ONE, Natural Naming, Natural Intelligence, Resolving Hard Problems, Equilibria Registry, Geodesic Improving Method and this file improved at v380R; session closed in four passes, each open value laid, carryings cleared, records filed and its close read by two readers
-  - *c* `working/v380R`
-  - *d* Closing; session v380 merged at main line whole
-- **Registry working v380L**
-  - *a* v380
-  - *b* Co-Chaining Logic Registry v380 to v380l, cohering with Exhibit ONE at each motion; its offerings at `incoming/v380L/`
-  - *c* `working/v380L`
-  - *d* Ended; its closing account opens `incoming/v380L/Progress.md`, four drafts at `incoming/v380L/closing_drafts/` each laid at its file's carrying
-- **Networking working v380A**
-  - *a* v380
-  - *b* A candidate for Natural Networking and its kit, at `incoming/v380A/`; gathered at `incoming/v380R/Natural_Networking_From_v380A.md`
-  - *c* `working/v380A`
-  - *d* Retired; its value gathered for a new Exhibit TWO
-- **Illustrating working, v380A**
-  - *a* v380
-  - *b* Natural Illustrating kit: a swimmer study, a first origin study and a view of seventeen names; findings for four files at `incoming/v380A/`; no living file changed; its continuity concept packed in kit as concept work, and its consistency reading at `incoming/v380A/illustrating/`, received whole from pull request 118
-  - *c* `working/illustrating-v380A`
-  - *d* Ended; its concept study and consistency reading received from pull request 118, and its link for an AI session received from pull request 119 and placed on home page by working v380R
-- **Session v380G**
-  - *a* v380
-  - *b* One session record uploaded to `incoming/`, read at `archive/session_v380/v380G/README.md`
-  - *c* main line
-  - *d* Ended; one record and three replies received and read at `archive/session_v380/v380G/README.md`; two things carried
-- **Session v381F**
-  - *a* v381
-  - *b* First AI session arriving through link on home page: its exploring report, eleven findings on opening, one claim of Exhibit ONE executed and an offered re-saying of README's part, at `incoming/v381F/`
-  - *c* `working/ai-link-exploring-v381F`
-  - *d* Received at main line, arriving; laid at this file's carrying
-- **Exhibit ONE first working, session v379**
-  - *a* v379
-  - *b* Exhibit ONE, Natural Intelligence and Co-Chaining Logic Registry read whole and each claim said at code, findings laid at their carryings as ready offerings and concerns; then Exhibit ONE at its motion, Natural Intelligence at its motion through Exhibit ONE and back, Co-Chaining Logic Registry at its motion; Living File Registry at its rows
-  - *c* `working/exhibit-one-first-v379`
-  - *d* Merged at `main` at pull request 114 at session's word, corus.me at v379; reading for harm, its mend and session read whole at its close at `working/do-no-harm-reading-v379`, merged at `main`; Exhibit ONE, Natural Intelligence, Natural Naming, Co-Chaining Logic Registry, Natural Numbers, Equilibria Registry, Resolving Hard Problems, Natural Physics, Geodesic Improving Method and this file at v379
-- **Foundation working**
-  - *a* v376
-  - *b* Natural Intelligence with Exhibit ONE within it, Exhibit THREE and Exhibit FOUR, each co-chaining from one opening, co-chaining at v376 laid as incoming at Exhibit THIRTY's section of Living Improving Value; genome duplication working's Part Two brought whole, and its tour released
-  - *c* `working/foundation-v376`
-  - *d* Merged at main at its close: Natural Intelligence, Natural Numbers and Natural Mathematics at v376, each with a fresh reader's comparison met, Exhibit ONE whole and carried on within Natural Intelligence; co-chaining and its v376 steps incoming at Exhibit THIRTY's section
-- **Session v377's report and cohering report**
-  - *a* v377
-  - *b* `incoming/session_v377/Session_Report_v377.md`, Equilibria Registry's motion, ten and six across files, and working's learnings about resolving; `incoming/cohering_ten_and_six_v377/`, ten and six across seven files
-  - *c* `working/equilibria-registry-v377`
-  - *d* Arrived at `main` at v377, pull request 113; received at v378 at Co-Chaining Logic Registry's, Natural Intelligence's, Natural Naming's, Geodesic Improving Method's and this file's carryings and at reviewer's brief, each finding checked at Co-Chaining Logic Registry's steps at v378's numbering and at Exhibit ONE's tables and code
-- **Equilibria Registry working**
-  - *a* v377
-  - *b* Equilibria Registry at its motion, five passes, ten's seating at Exhibit ONE's code, between at protocol of connectors, its executions at `incoming/equilibria_registry_v377/`; its carryings' paragraphs at Equilibria Registry, Co-Chaining Logic Registry, Resolving the Hard Problem Registry and Living Ghost Registry
-  - *c* `working/equilibria-registry-v377`
-  - *d* Merged at main at v377, pull request 113, 30 September 2026, with its session report at `incoming/session_v377/` and its executions; Co-Chaining Logic Registry's step numbers it cites at v376's numbering, mapped at that file's carrying
-- **Cohering ten and six arrival**
-  - *a* v377
-  - *b* `incoming/cohering_ten_and_six_v377/`: ten and six across Exhibit ONE, Natural Naming, Resolving Hard Problems, Hard Problem Registry, Resolving the Hard Problem Registry, Equilibria Registry and Co-Chaining Logic Registry, what is one, where they part, method of cohering, between as method
-  - *c* `working/cohering-ten-and-six-v377`
-  - *d* Offered; received at v378 at Co-Chaining Logic Registry's and Natural Intelligence's carryings, the rest at each file's motion
-- **Networking and engineering visiting contribution**
-  - *a* —
-  - *b* `incoming/review_networking_engineering_2026-09-30/`: a session report, podaling, overlapping momentaries, each self's own zero, protection bothbothing, four four-cyclings, ten engineering entries at ten, with eighteen concerns of its own and a map to receiving files
-  - *c* `review/networking-engineering-2026-09-30`
-  - *d* A visiting contribution with no session number, brought whole to `incoming/review_networking_engineering_2026-09-30/` at commit d32ffc4 with its sequential binary explaining correction and its full journey improving report; received at v378 at Natural Intelligence's, Exhibit ONE's, Natural Naming's, Natural Networking's, Natural Engineering's, Natural Societies', Hard Problem Registry's, Resolving the Hard Problem Registry's, Geodesic Improving Method's and this file's carryings, each finding checked at code, kit's sources or file's sentence; its inward-carrying findings withdrawn by arrival itself
-- **Physics receiving working**
-  - *a* v377
-  - *b* Natural Physics; carrying's sections at Natural Physics, Hard Problem Registry, Resolving Hard Problems, Equilibria Registry, Co-Chaining Logic Registry, Natural Explaining, Geodesic Improving Method and Living File Registry; incoming index
-  - *c* `working/physics-receiving-v377`, `working/arriving-improving-living-v377`, `working/physics-front-v377`, `working/physics-pass2-v377`, `working/physics-pass3-v377`
-  - *d* Receiving pull request 95 and meeting pull request 90's receiving at carrying; its direct entries at Geodesic Improving Method and kit returned to their prior; one way in, arriving, improving and living, said at carrying's front; Natural Physics' motion opened in passes, pass 1 its front, subtitle and contents, pass 2 its 1.1, pass 3 its 1.2
-- **Session v375 workings**
-  - *a* v375
-  - *b* One session, merged at main in parts: meeting working, numbers working, podaling working, mathematics working, hard problems working, existing universe working, opening working, genome duplication working received, method working, and Natural Intelligence working, Natural Intelligence and Exhibit ONE first; nine files at v375 above
-  - *c* `working/meeting-v375`, `working/numbers-v376`, `working/numbers-podaling-v377`, `working/mathematics-v378`, `working/hard-problems-v379`, `working/thirteen-v380`, `working/opening-v381`, `working/genome-duplication-received-v382`, `working/method-v375`, `working/natural-intelligence-v375`, `working/method-stable-forms-v375`, `working/do-no-harm-v375`, `working/universe-at-each-scale-v375`, `working/passes-v375`, `working/podaling-v375`, `working/hardest-gathered-v375`, `working/either-or-resolving-v375`, `working/hardest-two-v375`, `working/hardest-three-v375`, `working/hardest-passes-v375` and `working/health-v375`, each merged at main
-  - *d* branches named at sub-numbers one session gave its parts; files at v375, session's number
-- **Registry working**
-  - *a* v371
-  - *b* Exhibit TWENTY-SIX, receivings, kits' placing
-  - *c* —
-  - *d* Its carrying merged; meets TWENTY-SIX v372 at this table
-- **Illustrating working**
-  - *a* v366
-  - *b* Exhibit TWENTY-NINE, Natural Illustrating TWENTY-NINE Improving Kit
-  - *c* —
-  - *d* Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open
-- **Genome duplication working**
-  - *a* v374
-  - *b* Carrying's sections at each living file, twinning, conception, light, genome size, ageing and disease at a society's joins, societies bi-coupling and ingesting, and field's probability parted from its observings; its report, Part One and Part Two, at `incoming/genome_duplication_v374/`, Part Two brought whole from `working/session-report-part-two-v374` at v376, and its tour released at v376 to `archive/genome_duplication_v374/`
-  - *c* `working/genome-duplication-v374`, merged at main at v375
-  - *d* its incoming at each file's section and at pass J of plan, each entering at its file's motion, one file at a time, for both
-- **Explaining natural intelligence, session v391**
-  - *a* v391
-  - *b* Natural Intelligence and Exhibit ONE read against the method and across the set, droplets and suggestions met with rigor at their offerings; entered: 13-next-discovering and 16-next-same-existing at twelve living files, the opening's three phase lines with Exhibit THIRTY, four-cycling named by root at four files; Living File Registry at its entries
-  - *c* `working/explaining-natural-intelligence-v391`
-  - *d* Open, pushed, not merged at `main`; its standing and plan at `incoming/v391/`
+**A session working with the set reads main before each turn and each slice.** A session's universe is main as of its reading, and an old reading is an old universe; it says its aiming in one line with its opening, and which slices and branches it has read. It works on a branch of its own, `working/<subject>-<its name>`, and offers each slice as a pull request with a body in four parts: *Now*; *Living files away with it*; *Gathering-value files it changes*; *Suggestions for other sessions*, each session it speaks to named with one thing for it. Before each commit it executes `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py`, `reader_checks.py . origin/main` from that kit, and `kits/Gathering_Value_Kit/gathering_check.py <Title>`, and its body says their numbers.
 
-**A carrying has one place, and forms of carrying stand within their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received with a living file or with carrying, and each is then an artifact whole within `archive/`, its receiving identified.
+**A slice is read for harm before its merge, and sharing goes one way.** A session reaches main by a slice merged and main reaches each session by its reading. A slice parting with main is merged through a merge branch of its reader's own, its branch unedited; a slice whose value goes in by another slice closes as folded, with a comment naming the slice it went in by. Sessions speak to each other as comments on open pull requests, each opening with its session's name, and no session edits another's branch; one aiming two sessions share has one hub page, its turns one and then the other.
 
-Each entry: **Place** · *a* Holds · *b* Standing at v375
+**A value goes in its own words.** No self's name, session or time goes beside a value, a value being its concept said plainly; a concern goes with its path through, is or is not, a binary with each side; and a session finding a concern resolves it, two scales first, or brings its two sides each with the binary settling it. A session improves by its own hand, with few helpers or none, and a rule written for helpers leaves its traces in the files as an equilibrium, a value said within a file going with each working.
 
-- **`carry/Living_Improving_Value.md`**
-  - *a* Carrying's front: set now, one way in, method at every file and carrying at scale of sessions; no file's section stands here
-  - *b* Living carrying; its version session's number at each changing
-- **`carry/<file>.md`, one per living file**
-  - *a* Each living file's own carrying: its next motion, one paragraph; **Ready**, each offering naming section it enters and sentence that enters, waiting for file's own motion; **Concern**, two sentences parting at one place with its reason, waiting for both; and nothing else. A record of a thing done goes to Session Record; an observing not yet a sentence at a section goes to `archive/` whole with its receiving
-  - *b* Living carrying, thirty-two files at v378, one per living file; a motion at a living file edits that file's carrying and no other; Natural Physics' carrying stands whole and unsorted at v378, its working out at v377, and takes this form at that working's close
-- **`carry/Session_Record.md`**
-  - *a* The done: each session's closing paragraphs, workings closed, records moved from carrying
-  - *b* Carrying's record, appended at each session and relied on by nothing
-- **`kits/Natural_Networking_TWO_Improving_Kit/`**
-  - *a* Published Natural Networking TWO Improving Kit v368, its engine, instruments and ring drivers, 58 files; instruments waiting from illustrating session; at v373 `one_code_checks.py`, `one_forms.py` and `ring_carrying_check.py`, executed at Exhibit ONE's code
-  - *b* Living carrying; engine a copy of old code at v368 names, replaced by Exhibit ONE v372's code at kit's next motion, instruments re-expressed at sharing and one parity
-- **`kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`**
-  - *a* Registry's build sources v371 and its verifier v371, 38 files
-  - *b* Living carrying, matching link tables of v371 released at v376; at v372 code 23 of verifier's 384 checks part; a verifier of co-chaining's steps is its next
-- **`kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`**
-  - *a* Illustration Kit v366 whole, 64 files, and at v379 `checks_v379/`, executions of Natural Illustrating's Part TWO and 4.2 with their outputs and faces check, 74 files, its sums holding
-  - *b* Living carrying; v366 receivings entered at Natural Illustrating v379; first stills its next
+**Each kit's README is one line naming the living files it serves**, each program saying its use and a recorded result at its own opening, and a check's list of words read from the living file saying it, the released words from Natural Naming.
+
+Each entry: **Kit** · *a* Has · *b* With
+
 - **`kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`**
-  - *a* `carry_check.py`, `check_set.py`, `cohere_one.py`, `reader_checks.py`, `rigorize.py`, reviewer's brief and v368 checks for living files, 19 files, its sums holding
-  - *b* Living carrying; coupling partners at checks, deciding nothing; `cohere_one.py` also writes Exhibit ONE's body at Natural Intelligence whole, then checks both are one
-- **`incoming/co_chaining_coverage_v378/`**
-  - *a* Living files read against Co-Chaining Logic Registry's steps by ten fresh readers at v378, twelve readings whole: method's claims no step carried, with drafts, and each parting between a file's sentence and a step
-  - *b* Received at v378: one hundred and sixty-seven claims entered at Co-Chaining Logic Registry, the rest at Co-Chaining Logic Registry's carrying with what each waits on; each other file's partings at its own carrying as one concern, entering that file at its own motion
-- **`incoming/co_chaining_map_v376/`**
-  - *a* The v376 map of each living file's part and section titles at co-chaining's groups, groups as read and three tables; three coverage tables, Exhibits THIRTEEN, TWENTY-ONE and TWENTY-TWO and equilibria, each claim at its step; and explored steps not yet entered
-  - *b* Incoming, working material for Exhibit THIRTY's motion and each file's clustering titles
-- **`incoming/v368_sources/`**
-  - *a* The v368 carrying, carry map, wrap and findings by file, 8 files
-  - *b* Incoming, still being laid
-- **`archive/registry_v371/`**
-  - *a* Exhibit TWENTY-SIX v371 and registry working's carrying as it arrived
-  - *b* Incoming; carrying merged, an artifact; TWENTY-SIX v371 superseded by this file
-- **`incoming/genome_duplication_v374/`**
-  - *a* Genome duplication working's report, Part One and Part Two
-  - *b* Incoming; Part One's value laid at carrying's sections, its branch merged at main at v375, each paragraph entering at its file's next motion; Part Two brought whole at v376, each item entering at its receiving file's motion
-- **`incoming/illustrating_v366/`** · *a* Illustrating session's report · *b* Incoming; three receivings open
-- **`incoming/review_physics_observings_v376/`**
-  - *a* A visiting contribution, physics observings report, whole with its receiving note
-  - *b* Arrived at `main` at pull request 90; received at carrying at v376, and at v377 its observings' sources and limits and its wider collection restored at Natural Physics' and Hard Problem Registry's sections; its completing, entered at its files, Natural Physics at its motion
-- **`incoming/physics_at_the_code_v376/`**
-  - *a* Physics dilemma met at Exhibit ONE's code: `resolver_crossings.py` and its returned output
-  - *b* Received at Natural Physics' section at v376, its driver's conditions said at v377; its completing, entered at Natural Physics at its motion
-- **`incoming/review_natural_physics_improving_v376/`**
-  - *a* A visiting contribution, Natural Physics' separated readings, improving report, proposed 1.1 with its first draft and its fresh review, mechanical checks
-  - *b* Arrived at `main` at pull request 95; received at carrying at v377, each finding at its file's section with its source; its learning about reviewing improving at carrying toward Geodesic Improving Method and kit; proposed 1.1 a proposal at its reviewed standing, reaching foundation's newer motions; its completing, entered at Natural Physics at its motions
-- **`incoming/resettling_v373/`**
-  - *a* Re-settling working's first draft; Exhibit ONE v372's sentences released at v373, each section whole at its receiving files; *Exhibit ONE at its Stable Forms*; *Natural Naming at Exhibit ONE*; *A Resolver Chat* with its scripts
-  - *b* Incoming, for both to reach; what survives enters carrying's plan and this registry's Part Five at their own motions
-
-**Each kit's README is one same small set of useful answers**: living exhibits it accompanies, a file or version to open or execute first, each included file's contribution, matching source editions, meaning of a recorded result and each thing it leaves unresolved, and a place remaining improving is carried, which is its set's carrying and not a second list within its kit. A kit is a coupling partner and no measuring instrument: it carries a finding with its instrument and no authority over living files. A matching exhibit-and-kit pair is identified by its actual source editions, not by a version number: Exhibit THIRTY v371 with its verifier v371 is one pair, and Natural Networking TWO Improving Kit v368 with Exhibit ONE v368's code was one, parted at v372 until kit's next motion.
+  - *a* `check_set.py`, the living files' contents, tables, version lines and the code executing; `reader_checks.py`, a branch read against main, released words and retired sayings among them; `invert_check.py`, Exhibit ONE's code executed with each parity inverted; their word lists; and `waiting/`, Exhibit ONE's next version's draft
+  - *b* Each living file; executed at each pull request by `.github/workflows/checks.yml`
+- **`kits/Gathering_Value_Kit/`**
+  - *a* Programs writing and mending items in the gathering-value files, all or none, and `gathering_check.py`, a gathering-value read against its living file: its headings following the contents, each quoted sentence word for word, released words among its added lines
+  - *b* Each gathering-value
+- **`kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`**, **`kits/Natural_Networking_TWO_Improving_Kit/`** and **`kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`**
+  - *a* Each exhibit's build sources, instruments and executions, each with its README
+  - *b* Exhibit THIRTY, Exhibit TWO and Exhibit TWENTY-NINE
 
 ## 1.4 Artifacts
 
-**An artifact stays whole and is relied on by nothing.** A superseded version leaves root when its next version replaces it and stands within repository's own history, within no folder; a carrying as it arrived goes to `archive/` when merged; a proposal goes there when withdrawn; a session's paragraphs go to Session Record when its session closes. Nothing within `archive/` or within history is observed for a next: a session reaching for a prior version reaches a living file's own prior, which each file carries.
+**An artifact is whole and relied on by nothing.** A superseded version leaves root with its next version replacing it and is within repository's own history, at no folder; a branch merged, a pull request closed as folded, and droplets entered at their living file are artifacts there too, each reached by its history and by its pull request.
 
-Each entry: **Artifact** · *a* Holds · *b* Its receiving
+Each entry: **Artifact** · *a* Has · *b* Its receiving
 
 - **Repository's history**
-  - *a* Every prior version of living files that left root, Exhibit ONE v368 to v371 and Natural Intelligence v368 to v371 among them
-  - *b* Each replaced by living file at root; reached at history and at no folder
-- **`archive/resolver_v371/` and `archive/registry_v371/`**
-  - *a* Two workings' carryings at v371 as they arrived, and registry working's Exhibit TWENTY-SIX v371
-  - *b* Merged into `carry/` at v372; TWENTY-SIX v371 replaced by this file
-- **`archive/resolver_v372_proposal/`**
-  - *a* Resolver working's proposal at v372, 54 files: ten living files at v372, Exhibit THIRTY's build sources and verifier at v372, society executions and set checks
-  - *b* Withdrawn at Exhibit ONE, a third function beside two; its executions that still stand are at carrying's sections
-- **`archive/carrying_v375/`**
-  - *a* Natural Intelligence's carrying section as released at v375: seven paragraphs whole, readings not yet binary, a record of file's prior versions and two duplicates of carrying's front, each with its receiving above it; and carrying's paragraphs released at v375, Tour's thirty-two copies, three incomings received at Natural Intelligence, a drafting received at Geodesic Improving Method and repository at v372, each with its section and its receiving
-  - *b* Natural Naming at 3.6; Natural Numbers, Natural Mathematics and Exhibit THIRTEEN; files receiving `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`; files of pass D; each living file at its motion; Exhibit THIRTY
-- **`archive/carrying_v376/`**
-  - *a* Natural Numbers' carrying section as released at v375: readings not yet binary and correspondences waiting at other files, each whole with its receiving above it; and at v376 carrying's paragraph on genome duplication working's tour, Exhibit THIRTY v371's link tables whole with carrying's twenty-seven paragraphs speaking of them, and Natural Intelligence's two passages at its section on living and non-living, bi-tri-volutioning and emanation's harm, received at its section on a prior between momentaries
-  - *b* Natural Numbers; Natural Societies; Exhibit THIRTY; Natural Networking; Natural Physics; Natural Chemistry; Natural Mathematics; Resolving Hard Problems; Exhibit ONE; Resolving the Hard Problem Registry; tour paragraph at none; Natural Intelligence at its section on a prior between momentaries
-- **`archive/genome_duplication_v374/`**
-  - *a* Genome duplication working's tour, `Tour_v374.md`, whole as it arrived, released whole at v376
-  - *b* None: no file couples with it as incoming; its lists of each file's older words carried with it
-- **`archive/carrying_v375_natural_mathematics/`**
-  - *a* Natural Mathematics' carrying section as released at v375, its folder named at v378 for session that released it and no other: readings not yet binary, a published construction not yet met whole, and observings waiting at other files, each whole with its receiving above it
-  - *b* Natural Mathematics; Natural Chemistry; Natural Numbers; Natural Health; Resolving Hard Problems; Natural Biology; Natural Physics; Natural Societies; Exhibit THIRTY
-- **`archive/carrying_v375_resolving_hard_problems/`**
-  - *a* Resolving Hard Problems' readings as released at v375, its folder named at v378 for session that released it and no other: society readings of fifty-nine, one hundred eighteen and four hundred forty, old code's carrying age at three and four, and prior sentences of a hard problem, each whole with its receiving above it; and Resolving Hard Problems v368 and v378 whole, released at v375
-  - *b* Natural Numbers; Exhibit ONE's code; Resolving Hard Problems 1.1
-- **`archive/carrying_v378/`**
-  - *a* Carrying's paragraphs released at v378, one file for each living file whose carrying released a reading and one for front: each reading not yet a sentence at a section, each sentence about another file, plan of passes and front's paragraphs about carrying, whole as they stood at v377
-  - *b* Each living file at its own carrying, `carry/<file>.md`, when a working makes a reading a ready offering; front at none
-- **`archive/session_v379/`**
-  - *a* Session v379's report whole, thirty-five findings for other files and session's learnings, and at `helpers/` reviewer's and two record readers' reports at its close
-  - *b* Released at v379: each finding received at its file's carrying as Ready or Concern naming report and its number; relied on by nothing
-- **`archive/session_v379_exhibit_one_first/`**
-  - *a* Exhibit ONE first working's session whole as the session met it, `Session_Transcript_v379.md`, and its close's report, `Session_Report_v379.md`: four readers' gathering of each value expressed and not carried, and concerns of v379 in their order
-  - *b* Released at v379: each value received at its file's carrying as Ready or Concern naming its folder; relied on by nothing
-- **`archive/illustrating_three_momentaries_v379/`**
-  - *a* Illustrating working's study and script, portfolio, menu, field's accounts of animation and robotics seated at six, and its executions
-  - *b* Released at v379: its value entered Natural Illustrating v379 at its motion, its executions at kit's `checks_v379/`; relied on by nothing
-- **`archive/carrying_v377/`**
-  - *a* Equilibria Registry's passages released at its v377 motion, nine files: its sayings at older resolver, its between, its ten seated, its ten sides, its conceptions tables, what can change, and its concerns 7, 8 and 9
-  - *b* Equilibria Registry; relied on by nothing
-- **`archive/carrying_v380L/`**
-  - *a* Carrying's entries released at working v380L, one file for each of seven living files: Natural Intelligence, Exhibit ONE, Natural Numbers, Natural Mathematics, Resolving Hard Problems, Equilibria Registry and Co-Chaining Logic Registry
-  - *b* Each of those seven at its own motion; relied on by nothing
-- **`archive/carrying_v381R/`**
-  - *a* Each living file's carrying as it was at v380R, whole, thirty-two files, released at v381R's opening of offerings, carryings and possibling
-  - *b* Each paragraph a droplet at its file's offerings, what a file rests on at its carryings; relied on by nothing
-- **Branch `artifact/living-files-v375`**
-  - *a* Whole repository as it opened at v376, commit 2a3e6ec: Natural Intelligence, Natural Numbers and Natural Mathematics at v375 and Exhibit THIRTY at v371, each replaced at v376 by its next version
-  - *b* Observed only if a prior learning is found missing at a living file, relied on by nothing
-- **Session Record** · *a* The done at each session, and records moved from carrying · *b* Observed at a session's opening, relied on by nothing
+  - *a* Every prior version of living files that left root; and each folder of earlier layouts, `carry/`, `incoming/`, `archive/` and Session Record, whole as it was before its value went to the living files and their gathering-values
+  - *b* Each reached by its commit; observed only if a prior learning is found missing at a living file
+- **Branches and pull requests**
+  - *a* Each working's slices with their bodies, each comment between sessions, and each conflict's merge branch
+  - *b* At repository, the merged and contained branches each an artifact; relied on by nothing
+- **The `archive` branch**
+  - *a* Each earlier session's artifacts and each working's incoming whole, as they arrived
+  - *b* Each value of it within the living files and their gathering-values; nothing new goes to it, repository's history carrying each prior whole, and the set storing no transcript; relied on by nothing
 - **Within kits**
-  - *a* Natural Networking TWO Improving Kit's `artifacts/`, executions at v333; waiting instruments' returns at earlier naming; Illustration Kit's session evidence and its snapshot of Exhibit TWENTY-NINE v366
-  - *b* Kept within their kits whole, their sums holding
+  - *a* Natural Networking TWO Improving Kit's `artifacts/`, executions at v333; Illustration Kit's session evidence and its snapshot of Exhibit TWENTY-NINE v366
+  - *b* Within their kits whole, their sums matching
 - **Not at repository**
-  - *a* Journey archive, `Journey_Archive_v365.zip`, `Journey_Archive_v368_additions.zip`, `Journey_Archive_v368_close.zip` and its v370 additions, holding workings that made files, notes exchanged, incoming as it arrived and instruments v368 carrying and Session Record name (`ring_window_v365.py`, `three_momentaries_v365.py`, `connectors_at_the_code_v368.py`, `instruments_v370` and the rest); v368 carry's `Method_Improving_Value_v368.md` and `Cohering_Naming_and_Explaining_v368`; `Exhibit_TWENTY-EIGHT_Equilibria_Definitions_v363.md` with its note; `Natural_Intelligence_v345a.md`
-  - *b* Artifacts in their own words, their value laid at files at v370; standing with their holder, and at `archive/` if brought, relied on by nothing
+  - *a* Journey archives, workings that made files, notes exchanged and incoming as it arrived, before the repository
+  - *b* Artifacts in their own words, their value laid at files at v370; with their holder, relied on by nothing
 
 ## 1.5 Exhibit places after receiving
 

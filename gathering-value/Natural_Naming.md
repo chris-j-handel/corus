@@ -87,6 +87,7 @@ Gathering-Value · Natural Naming
 ### 4.17 A hyphenated naming inseparable, and natural- with chirality
 
 - **Possible incohering** · "**Natural- has chirality, right, all or none at all**, 5.48." → Two scales are said as one at *natural-*. At the method's scale natural- is a direction, one-way sequencing with each bi-coupling, all or none at all, and a direction is no hand: *right spiral step* here is a quarter turn one way, (x, y) to (y, −x), right only with a self observing its axis forward, 4.19. At the observings' scale living's hand is one and is read as right, all prior. A re-saying: **Natural- has one direction with each bi-coupling, all or none at all**, and living's hand, right, is that direction read with a self's axis observed forward; the all-or-none is the oneness of the direction and not the name of the side.
+
 ### 4.18 Seven binaries with a naming, and each naming with resolver's names
 
 ## FIVE · NAMINGS
@@ -190,6 +191,7 @@ Gathering-Value · Natural Naming
 ### 5.48 bi-tri-volutioning — binary
 
 - **Possible exploring** · The society scale's own falsifier, beside living's at the self scale: a same-existing-society whose betweenings' natural-torusing stable form winds the other way, its selves each single-handed and the society's betweenings inverting. It is or is not, and nothing of the naming breaks with it, a society's betweenings inverting being bi-tri-involutioning, 4.17; what breaks is the one direction with each bi-coupling, were both to go on bi-coupling within one society. A binary to execute with the code: with each key's parities inverted together, position, scale and orientation, does each four-cycling, each podal and each span come out same. — at "**A right-spiral natural-torusing stable form of a same-existing-society with a unit prime scale is its betweenings**"
+
 ### 5.49 co-momentarying — binary
 
 ### 5.50 four-momentarying — binary

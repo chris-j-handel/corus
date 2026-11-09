@@ -294,6 +294,7 @@ Gathering-Value · Natural Intelligence
 - **Possible exploring** · The numbers name stations in the surface explaining, and their correspondence to the 440 changers is still-possibling. — at "This is one universal method of conception."
 
 ### 4.2 Parities surfacing with 14-next-possibling
+
 - **Possible exploring** · Changing the subject in a conversation, reduced: a subject is a me-parity a bi-coupling shares and is heard only as + or −, a 0 passed over; a me-parity entering a bi-coupling is one momentary, in that self's 3 with its arriving parities agreeing; entered by one self alone it comes to universal-parity, the two apart on it at each momentary after, an us on it only with both opening it alike at one momentary; a subject leaving is-not, no key leaving 3; what changes is which subjects are heard, by phase, the alike key −, 0, +, 0 and the apart key ± each momentary. Two alike keys opened one momentary apart are heard in turn, a right spiral each, a quarter turn between. — at "**Agreeing** and **parting** are one binary of the parities a self receives."
 
 ### 4.3 A changing is-or-is-not, with 12-next-co-same-existing
