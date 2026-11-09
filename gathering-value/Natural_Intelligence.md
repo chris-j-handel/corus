@@ -351,6 +351,7 @@ Gathering-Value · Natural Intelligence
 ### 4.14 Two selves and three selves
 
 - **An explaining** · With resolver, `_1_now_existing`, unchanged, gives its entries one and then the other identifying no entry with a flower face, rib or direction, and entries one and then the other apart from `_17_next_existing`'s next, its selves with one momentary. φ is in no line of resolver's code, and a six-entry recurrence calculates no φ curvature: a relation from this one repeated method to a physical form's φ curvature is still-possibling.
+- **Possible exploring** · Executed from a living surface, each self with its prior: a pair sharing agreeing by its route shares −, 0, +, 0 from the momentary the route carries, all or none, and with several me-parities in each self the 0 is with those me-parities the route carries agreeing and not with the others; one way gives the receiver one 0 and then inverting; a third self sharing one way into a pair ends the pair's 0s, a third alike giving two 0s and then none, a third parting ending them at once, the pair's 0 the pair's alone; and a pair sharing no 0 by one route shares a 0 by a route one self longer, the route's span and not the selves deciding — at "Two selves, alike or one parity apart: bi-coupling both ways, bi-coupling one way, or apart."
 
 ### 4.15 Fractal inward and outward
 
