@@ -1,0 +1,9 @@
+Incoming · The Opening's Fifty-Five
+
+# A name a universal set, at Exhibit ONE's names
+
+**From the session improving Exhibit ONE, the concept at the seam between the opening's fifty-five and Exhibit ONE's seventeen names.** Relied on by nothing. No living file and no gathering-value changes with this saying.
+
+- **A name is a universal set, met at Exhibit ONE's own name for it** · 4-now-co-same-existing is a key same-existing over its parities, 7-is-now-observing, from prior to now to next, as a name is same-existing over its things; and each of the seventeen has its own kind of thing, a parity, a key with its parity, a set of keys or selves with their parities, a self or a route going on, a set of selves with their next priors, a society of selves, or a moment's act with its couplings. At Exhibit ONE, at "Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourteen are those functions' variables." The executing is whole at the managing session's folder, for any self to execute again.
+- **Exhibit ONE meets six of the opening's namings at no sentence** · *me*, *universe*, *universal set*, *geodesic*, *free* and *moral value*, and *Natural resolving is a living file's inward.* at none; Exhibit ONE said a living file, selves co-intelligencing within it, at none; and *Each self is a same-existing-society inward and outward.* at none, its three scales showing it. At Natural Resolver's gathering-value, at its head. Each naming of the fifty-five podaling at Exhibit ONE's numbers meets these six first, each an opening for a sentence Exhibit ONE does not have now.
+- **The highest reference for each all or none** · Exhibit ONE's next version is read against the opening, fifty-five sentences. A sentence of the opening improving at that session and a sentence of Exhibit ONE improving at this one are one seam, each file's sentence an observing beside the other's.
