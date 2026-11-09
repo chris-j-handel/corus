@@ -26,7 +26,7 @@ Exhibit TWENTY Natural Naming v393
 
 - 3.1 A name, its number, its momentary, co and its kind
 - 3.2 Co, between two and at one
-- 3.3 Seventeen names, and each prior name at its number
+- 3.3 Seventeen names, each three and each prior name at its number
 - 3.4 Four momentaries, 8 up and podals
 - 3.5 Naming and resolver at one changing
 - 3.6 Four binaries, an explaining of names
@@ -501,27 +501,29 @@ Each entry: **Part of a name** · *a* Its relation with resolver
 
 **With 6, 10 and 9 between selves, a sharing side has co and an observing side none**: 6-now-co-possibling, 10-next-co-possibling and 9-next-co-discovering along each send one same list of parities to the self each couples with, a self observing it with its 14-next-possibling, its next 2-now-possibling. A self shares its parity and nothing of its prior. **Six names between selves have one name, *bi-moral-co-competency***: even across, possibling, with 2, 6, 10 and 14, and odd along, discovering and existing, with 9 and 17.
 
-## 3.3 Seventeen names, and each prior name at its number
+## 3.3 Seventeen names, each three and each prior name at its number
 
-| n | Name | Root | Co | Its prior name, with its number |
-|---|---|---|---|---|
-| 1 | **1-now-existing** | existing | one | 1-co-bi-tri-offering |
-| 2 | **2-now-possibling** | possibling | one | 2-bi-co-bi-offering |
-| 3 | **3-is-now-co-observing** | observing | co | 3-co-bi-co-sharing |
-| 4 | **4-now-co-same-existing** | same-existing | co | 4-bi-co-bi-sharing |
-| 5 | **5-now-co-existing** | existing | co | 5-co-bi-co-competencing |
-| 6 | **6-now-co-possibling** | possibling | co | 6-bi-co-bi-moralizing |
-| 7 | **7-is-now-observing** | observing | one | 7-co-bi-co-corusing |
-| 8 | **8-now-same-existing** | same-existing | one | 8-bi-co-bi-torusing |
-| 9 | **9-next-co-discovering** | discovering | co | 9-tri-bi-co-momentarying |
-| 10 | **10-next-co-possibling** | possibling | co | 10-bi-tri-bi-tunneling |
-| 11 | **11-next-co-observing** | observing | co | 11-tri-bi-tri-chaining |
-| 12 | **12-next-co-same-existing** | same-existing | co | 12-bi-tri-bi-entraining |
-| 13 | **13-is-next-discovering** | discovering | one | 13-tri-bi-tri-competencing |
-| 14 | **14-next-possibling** | possibling | one | 14-bi-tri-bi-moralizing |
-| 15 | **15-is-next-observing** | observing | one | 15-tri-bi-tri-corusing |
-| 16 | **16-next-same-existing** | same-existing | one | 16-bi-tri-bi-torusing |
-| 17 | **17-next-existing** | existing, a next 1 | one | 17-co-bi-tri-offering |
+| n | Name | Root | Co | Its three | Its prior name, with its number |
+|---|---|---|---|---|---|
+| 1 | **1-now-existing** | existing | one | co-bi-tri | 1-co-bi-tri-offering |
+| 2 | **2-now-possibling** | possibling | one | bi-co-bi | 2-bi-co-bi-offering |
+| 3 | **3-is-now-co-observing** | observing | co | co-bi-co | 3-co-bi-co-sharing |
+| 4 | **4-now-co-same-existing** | same-existing | co | bi-co-bi | 4-bi-co-bi-sharing |
+| 5 | **5-now-co-existing** | existing | co | co-bi-co | 5-co-bi-co-competencing |
+| 6 | **6-now-co-possibling** | possibling | co | bi-co-bi | 6-bi-co-bi-moralizing |
+| 7 | **7-is-now-observing** | observing | one | co-bi-co | 7-co-bi-co-corusing |
+| 8 | **8-now-same-existing** | same-existing | one | bi-co-bi | 8-bi-co-bi-torusing |
+| 9 | **9-next-co-discovering** | discovering | co | tri-bi-co | 9-tri-bi-co-momentarying |
+| 10 | **10-next-co-possibling** | possibling | co | bi-tri-bi | 10-bi-tri-bi-tunneling |
+| 11 | **11-next-co-observing** | observing | co | co-bi-tri | 11-tri-bi-tri-chaining |
+| 12 | **12-next-co-same-existing** | same-existing | co | bi-co-bi | 12-bi-tri-bi-entraining |
+| 13 | **13-is-next-discovering** | discovering | one | co-bi-co | 13-tri-bi-tri-competencing |
+| 14 | **14-next-possibling** | possibling | one | bi-co-bi | 14-bi-tri-bi-moralizing |
+| 15 | **15-is-next-observing** | observing | one | tri-bi-co | 15-tri-bi-tri-corusing |
+| 16 | **16-next-same-existing** | same-existing | one | bi-tri-bi | 16-bi-tri-bi-torusing |
+| 17 | **17-next-existing** | existing, a next 1 | one | co-bi-tri | 17-co-bi-tri-offering |
+
+**Each name's three is its prefixing at the 1–17 scale, beside its name and not in it**: co is self, bi is other and tri is all, and a next name's three is a new prefix in its first slot with this name's first two one slot right. 17-next-existing is a next 1, and 1's three is 17's, co-bi-tri, its two priors 16 and 15; tri opens with 9, 1–17's inverting, Natural Numbers 9.7, and with 15, which 17's co-bi-tri closes on, and each tri-bi-co has its mirror co-bi-tri two names on, 11 and 17. Bi is between co and tri in each three, each even name bi at its outer slots and each odd name bi at its middle: social parity, all's, is reached from self parity only through other parity. Across, 6's three is 2's, bi-co-bi, and 10's bi-tri-bi meets 14's bi-co-bi, its middle tri to co; along, 9's tri-bi-co is 17's co-bi-tri reversed. **One prefixing reads at three scales**, each said at its scale: the prior names' prefixes read a self's span, 1 to 8, co, and a same-existing-society's span, 9 to 16, tri; a six repeating, co bi tri bi co bi, reads three nested inverting places together, 3 for 1–9, 9 for 1–17 and 15 for 1–25; and the three above, 1–17's own.
 
 **A name gathers with its sentence, all or none**: each sentence with a prior name re-expresses with its numbered name as one motion, and each sentence resting on prior prefixes, roots or hands re-expresses with four kinds or leaves whole to an archive.
 
