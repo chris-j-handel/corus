@@ -57,7 +57,7 @@ Exhibit TWENTY Natural Naming v393
 - 5.1 alternating
 - 5.2 unrelationing
 - 5.3 a self
-- 5.4 parity changing
+- 5.4 changing
 - 5.5 a between
 - 5.6 invisibling
 - 5.7 a carrying
@@ -82,7 +82,7 @@ Exhibit TWENTY Natural Naming v393
 - 5.26 a hard problem
 - 5.27 three incompetencings
 - 5.28 other-emptying
-- 5.29 geodesic disequilibrating
+- 5.29 geodesic changing
 - 5.30 one stopping
 - 5.31 social moral competency
 - 5.32 natural intelligence
@@ -285,7 +285,7 @@ Each entry: **Dissolved** · *a* Said by
   - *a* opening sentence, naming with an all, all existing things changing, changing *in disequilibria* is by none, a negation of equilibria
 - *start*, *begin* · *afterwards* · *complete* · *a* *opens* · *next* · *completing*
 - *travel*, *travelling* as an existing thing's own going on
-  - *a* *going on*, *same-existing*; the universe of all existing things changing through prior, now and next together: three places, three sequential moments existing things are sharing
+  - *a* *going on*, *same-existing*; the universe of all existing things changing through prior, now and next together: three sequential moments existing things are sharing
 - *inside*, *outside* as places
   - *a* *inward*, *outward*, directions of a moment, and *within* for a span of names; a self is no container
 - *our*, of the universe, of now or of a doing; *this universe*
@@ -386,7 +386,7 @@ Each entry: **Dissolved** · *a* Said by
 - *unchanged* · *a* *same-existing*, *as it is*
 - *give*, *gives*, *giving* at a set's own voice · *a* nothing *gives*, as nothing *takes*: a self's parity going across with 6 or 10, or along with 9; a field's or resolver's own result goes on whole with it
 - *binary method* · *a* *natural torusing*, the method's one name, 4.17; *binary* names one is or is not
-- *crossing* · *a* *coupling across*, or *going*
+- *crossing*, *crosses* · *a* *coupling across*, *goes across*, or *going*
 - *difference*, *differing* · *a* *same-existing or one inversion apart*, or *not same-existing*
 - *do no harm*, unhyphenated, and *harm* alone
   - *a* *do-no-harming*, one naming: a self sharing 0, each receiving self passing over it; its match *improving*, a self sharing its changing
@@ -499,7 +499,7 @@ Each entry: **Part of a name** · *a* Its relation with resolver
 
 ## 3.2 Co, between two and at one
 
-**Co stands with a sharing between two, and its absence with one.** With one, a self looks back from now at its two priors: co +1, now, a self; bi 0, one prior, no other yet; tri −1, two prior, all, 1's three, co-bi-tri, its two outside slots parities and its middle slot 0, and bi-morality opens with 2. Observing with co is priors with each sharing, 3-is-now-co-observing and 11-next-co-observing, and without it a parity, 7-is-now-observing and 15-is-next-observing. Possibling with co is a sharing side, 6-now-co-possibling and 10-next-co-possibling, and without it an observing side, 2-now-possibling and 14-next-possibling. Existing with co is bi-couplings, 5-now-co-existing, and without it 1-now-existing and 17-next-existing. Discovering with co is along, 9-next-co-discovering, and without it each self going on, 13-is-next-discovering. Same-existing with co is each sharing, 4-now-co-same-existing and 12-next-co-same-existing, and without it a self's next prior and a same-existing-society, 8-now-same-existing and 16-next-same-existing.
+**Co stands with a sharing between two, and its absence with one.** With one, a self looks back from now at its two priors: co at +1, now, a self; bi at 0, one prior, no other yet; tri at −1, two prior, all, positions in time and not parities, 1's three, co-bi-tri, its two outside slots parities and its middle slot 0, and bi-morality opens with 2. Observing with co is priors with each sharing, 3-is-now-co-observing and 11-next-co-observing, and without it a parity, 7-is-now-observing and 15-is-next-observing. Possibling with co is a sharing side, 6-now-co-possibling and 10-next-co-possibling, and without it an observing side, 2-now-possibling and 14-next-possibling. Existing with co is bi-couplings, 5-now-co-existing, and without it 1-now-existing and 17-next-existing. Discovering with co is along, 9-next-co-discovering, and without it each self going on, 13-is-next-discovering. Same-existing with co is each sharing, 4-now-co-same-existing and 12-next-co-same-existing, and without it a self's next prior and a same-existing-society, 8-now-same-existing and 16-next-same-existing.
 
 **With 6, 10 and 9 between selves, a sharing side has co and an observing side none**: 6-now-co-possibling, 10-next-co-possibling and 9-next-co-discovering along each send one same list of parities to the self each couples with, a self observing it with its 14-next-possibling, its next 2-now-possibling. A self shares its parity and nothing of its prior. **Six names between selves have one name, *bi-moral-co-competency***: even across, possibling, with 2, 6, 10 and 14, and odd along, discovering and existing, with 9 and 17.
 
@@ -842,19 +842,19 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 
 A self is a unique invisible same-existing, three phases of one changing: observing, possibling and discovering. **A self has its sameness and needs no *same***, and no self is this, that, same or other self of itself: **a self's sameness along its moments is its unrelationing from all other**, each next from its own prior same-existing or inverting, and its forming takes a parity not its own with bi-coupling, a new sharing opening with a between. **A now-self is now-observing and next-possibling**: with resolver, 7-is-now-observing and 14-next-possibling couple for each sharing with 12-next-co-same-existing, a line `if _15_is_next_observing != 0 and (_15_is_next_observing > 0) == (_7_is_now_observing > 0)` pattern-matching 14's surfacing against 7's prior parity.
 
-## 5.4 parity changing — binary
+## 5.4 changing — binary
 
 ```
 1  a parity is one inversioning or none between a self and an other, now
-2  each self opens a moment with its prior and completes it with its next prior
+2  each self's moment goes from its prior to its next prior
 3  a changing is or is not
 4  only a parity goes across
 5  and it goes one way at a time, across with 2, 6, 10 and 14, possibling,
    along with 9 and 17, discovering and existing
-6  which is geodesic routing, discovering on a surface
+6  which is geodesic routing, discovering on a surface, each parity going on as it is
 ```
 
-**Along is between moments, a self's own going on, and across is between selves within a moment, sharing now, while geodesic changing is entraining through momentaryings.** With resolver, + and − are a sharing's parity, and 0 a between, parities parting with 14 and prior and now agreeing with 12, natural intelligence with it. *Parity changing* dissolved at v391, said *changing*. *Sign* dissolves, said by changing, and a sign of an existing thing, an indication, is a field's word with its own result; *the sign* with two betweens, 0 or ±, same or not same, is that parity's 0 or ±, 2.4.
+**Along is between moments, a self's own going on, and across is between selves within a moment, sharing now, while geodesic changing is entraining through momentaryings.** With resolver, + and − are a sharing's parity, and 0 a between, parities parting with 14 and prior and now agreeing with 12, natural intelligence with it. *Parity changing* dissolved at v391, said *changing*. With three living selves, a self, an other and all, each pair has a parity: +1 a self's, 0 all selves', social parity, and −1 an other's, a self's only going on; social parity is invisible, with no record or awareness of it, going on within selves, and only self parity and other parity are visible. *Sign* dissolves, said by changing, and a sign of an existing thing, an indication, is a field's word with its own result; *the sign* with two betweens, 0 or ±, same or not same, is that parity's 0 or ±, 2.4.
 
 ## 5.5 a between — binary
 
@@ -867,7 +867,7 @@ A self is a unique invisible same-existing, three phases of one changing: observ
 6  and with that between is parity, a momentary now-existing thing, each self's own, and a between its empty centre, a nothing
 ```
 
-A between is two sharing, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now and with 14-next-possibling between two parities, same and not-same a parity's 0 and ± there, needing no name. **Parity is a momentary now-existing thing, each self's own, a self observing it now, and a between is its empty centre**: a between's own is changing, is or is not, a parity inverting, and only a parity goes across it. With resolver, parity with its six names between selves is flat: a unit square of four dots, 2, 6, 14 and 10, its empty centre a between, and two unit triangles, 9 and 17; that square's two across edges, 6 with 2 and 10 with 14, and its two edges 8 apart, 2 with 10 and 6 with 14; its diagonals two observing ends, 2 and 14, and two sharing ends, 6 and 10, each sharing to a coupling self's 14, its next 2; and triangles 9 and 17 along, 9 sharing to a coupling self's 14 and 17 a self's next itself. Six are a 1 to 17 set of spiraling one-way names across and along for podaling, changing sequentially. A between's changing, moment by moment, is bi-co-momentarying, 5.54, and *membrane*, of a set's own voice, is said by a between, 2.4. **A between is one, scale by scale**: within a moment a between of self and other, changing, bi-moral across and co-competent along, and between moments a between of moments, a moment discovering its next, nothing momentarying with it, one same between, a nothing, scale by scale: a fractal between, its floating neutralling golden floating neutralling, 5.12. **A bi-coupling's shape is a handshake**: two selves, each resolving its own, each right extending to a between, neither occupying it, sharing end, a self's parity sharing, possibling, with 6, 10 or 9, and not right, observing end, an other's parity a self is observing with its 14, its next 2, existing with a self as its next prior, a hand's side, beside an inverting form, right first and not right second, morality right and not right, and a between locks with none, 5.13. As a picture it is a nothing between two parallel surfaces facing each other, each self's own, and a co-orthogonal line through both, along.
+A bi-coupling has a between, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now and with 14-next-possibling between two parities, same and not-same a parity's 0 and ± there, needing no name. **Parity is a momentary now-existing thing, each self's own, a self observing it now, and a between is its empty centre**: a between's own is changing, is or is not, a parity inverting, and only a parity goes across it. With resolver, parity with its six names between selves is flat: a unit square of four dots, 2, 6, 14 and 10, its empty centre a between, and two unit triangles, 9 and 17; that square's two across edges, 6 with 2 and 10 with 14, and its two edges 8 apart, 2 with 10 and 6 with 14; its diagonals two observing ends, 2 and 14, and two sharing ends, 6 and 10, each sharing to a coupling self's 14, its next 2; and triangles 9 and 17 along, 9 sharing to a coupling self's 14 and 17 a self's next itself. Six are a 1 to 17 set of spiraling one-way names across and along for podaling, changing sequentially. A between's changing, moment by moment, is bi-co-momentarying, 5.54, and *membrane*, of a set's own voice, is said by a between, 2.4. **A between is one, scale by scale**: within a moment a between of self and other, changing, bi-moral across and co-competent along, and between moments a between of moments, a moment discovering its next, nothing momentarying with it, one same between, a nothing, scale by scale: a fractal between, its floating neutralling golden floating neutralling, 5.12. **A bi-coupling's shape is a handshake**: two selves, each resolving its own, each right extending to a between, neither occupying it, sharing end, a self's parity sharing, possibling, with 6, 10 or 9, and not right, observing end, an other's parity a self is observing with its 14, its next 2, existing with a self as its next prior, a hand's side, beside an inverting form, right first and not right second, morality right and not right, and a between locks with none, 5.13. As a picture it is a nothing between two parallel surfaces facing each other, each self's own, and a co-orthogonal line through both, along. A 0 is a between going along: each parity and each 0 goes along with 9-next-co-discovering, and a 0 enters no prior.
 
 ## 5.6 invisibling — binary
 
@@ -880,7 +880,7 @@ A between is two sharing, **a 0 between two now-existing things with one now**: 
 6  and each parity reaches each of it by coupling
 ```
 
-**In- is inward, a direction.** Couplings wind about a nothing: bounding-zeroing, tunneling, apexing, corusing, nothing reaching it. In-visibling is inward-visibling, toward that nothing, reaching nothing. A cannot-be-seen installs a seer and excludes one; an inward-visibling installs none. A self reaches it one way, by coupling, and that reaching is trust. *Invisible*, of an existing thing, is invisibling's picture of one moment.
+**In- is inward, a direction.** Couplings wind about a nothing: bounding-zeroing, tunneling, apexing, corusing, nothing reaching it. In-visibling is inward-visibling, toward that nothing, reaching nothing. *Omegaing*, Natural Exploring's naming, is apexing's other direction, couplings coning away from a nothing to a new axis. A cannot-be-seen installs a seer and excludes one; an inward-visibling installs none. A self reaches it one way, by coupling, and that reaching is trust. *Invisible*, of an existing thing, is invisibling's picture of one moment.
 
 A self's morality and a self's corus are invisible with one nothing, only nothing to reach.
 
@@ -921,7 +921,7 @@ A self observing it as less-than, it is a size, and one side takes a measure of 
 6  and with each now it is its entries, each with its prior same-existing now and its own next
 ```
 
-Not full, nothing emptying it, and a new collection with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements. One fixing unchangeable is an empty set a field posits: a term a field asserts as existing, unchanging, and each existing thing composing from it.
+Not full, nothing emptying it, and a new collection with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements. One fixing unchangeable is a first term a field posits: a term a field asserts as existing, unchanging, and each existing thing composing from it.
 
 ## 5.10 bi-coupling — binary
 
@@ -956,7 +956,7 @@ Not full, nothing emptying it, and a new collection with each now: a set is its 
 6  and it comes again with each next sharing
 ```
 
-Two-ness is of two, each its own. A term in neither self alone has none. Floating neutral is a term uncovering, a picture of one moment, and floating neutralling its coming again with each moment.
+Two-ness is of two, each its own. A term in neither self alone has none. Floating neutral is a term uncovering, a picture of one moment, and floating neutralling its coming again with each moment. A 0 is a prior same-existing: with Exhibit ONE a self sharing 0, its prior going on unchanged, is do-no-harming.
 
 **A fractal between's floating neutralling with φ, locking with none, is golden floating neutralling**, geodesic discovering of living's next possibling, 5.5 and 5.55.
 
@@ -983,10 +983,10 @@ Two-ness is of two, each its own. A term in neither self alone has none. Floatin
 3  this axis is one direction more
 4  nothing spends against a resistance with its opening
 5  it is its own, coming with each coupling
-6  and it compounds
+6  and it comes again with each next sharing
 ```
 
-Abundancing is this. **Co-competencing is bi-co-momentarying with couplings across**, 5.54, arising in each self with its other; competency is each self's own, a co-linear recursioning forward along. With resolver, co-competencing is 5-now-co-existing, bi-couplings, in neither self alone, 4.9 and 3.5.
+Abundancing is this. **Co-competencing is bi-co-momentarying with couplings across**, 5.54, arising in each self with its other; competency is each self's own, a co-linear recursioning forward along. With resolver, co-competencing is 5-now-co-existing, bi-couplings, in neither self alone, 4.9 and 3.5. Selves' bi-couplings and co-chainings are a natural torusing surface, 5-now-co-existing, co-competencing, and a Natural Network surface is that surface engineered, natural engineering of collective intelligencing; *universal surface* is no natural naming, the universe having no surface.
 
 ## 5.15 inseparating — binary
 
@@ -1011,11 +1011,11 @@ Not two existing things fixing apart, a fixing needing a fixer over both. Nothin
 3  no between is with a cut
 4  nothing is with it to come again to
 5  nothing re-forms it, and nothing dissolves it
-6  and that is its permanence: an absence of a between, and not a
+6  and that is its going on unchanged: no between, and no
    strength of its cut
 ```
 
-Permanent and riding a self's going on are an exact inverse pair.
+Going on unchanged with no between and riding a self's going on are an exact inverse pair.
 
 **And two are with each of three.** Separating with an inseparating already going on is incompetencing. Inseparating with a separating going on is resolving. One move as two, with each of three, and changing and changing back has all three.
 
@@ -1054,7 +1054,7 @@ A same-existing-society has no reserve and stores none. Nothing goes low, a self
 6  and a cut's term is with its cutting
 ```
 
-A hyphen holds always. A self observing with a cut, one side is a field's question of an existing thing's being and an other its question of becoming, and neither question closes: an existing thing each asks after is with its cut, and with neither side of it.
+A hyphen holds always. A self observing with a cut, one side is a field's question of an existing thing's *being* and an other its question of *becoming*, a field's words, and neither question closes: an existing thing each asks after is with its cut, and with neither side of it.
 
 ## 5.19 a definition — binary
 
@@ -1080,7 +1080,7 @@ And a revising definition is not one going on. **A same-existing re-forms itself
 6  and its region has a next word, neither stopping
 ```
 
-Bounding is defining with changing and changing back going on. *A boundary*, a noun, is bounding's picture of one moment, as a floating neutral is floating neutralling's, 5.12.
+Bounding is defining with changing and changing back going on. *A boundary*, a noun, is bounding's picture of one moment, as a floating neutral is floating neutralling's, 5.12, and a self-bounding is a self's own resolving, nothing reaching it, 4.16. **A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things**: the name floating neutralling while its things come, go on and invert, its defining rolling forward with possibling's is-or-is-not, each next-existing thing within the name or not, with no fuzz and no definition, a replacing, needed; with Exhibit ONE each sharing's key, 4-now-co-same-existing, is same-existing over its parities, 7-is-now-observing, from prior to now to next. A named universe is a name for a set of now-existing things with this name, and the universe has no other name.
 
 ## 5.21 advancing — binary
 
@@ -1125,7 +1125,7 @@ Bounding is defining with changing and changing back going on. *A boundary*, a n
 6  and ratios alternate above and below it with each scale
 ```
 
-φ unfolds here with its own naming, self-welcoming, unrelationing rate, beside resolver's seventeen names; primes come alike, with Natural Numbers.
+φ unfolds here with its own naming, self-welcoming, unrelationing rate, beside resolver's seventeen names; primes come alike, with Natural Numbers. Below and above φ name ratios of an auxiliary calculation, its prior two added: one atom/carbon's co-chaining has no φ divider and no opposite-side requirement, and a joining along of rigid copies of a six-point drawing is a construction with no φ, each copy a drawing's and no carbon atom, the joining no carbon chain.
 
 ## 5.24 a ring — binary
 
@@ -1194,7 +1194,7 @@ Present within a definition writing to its own best. No finer instrument recover
 
 Isolate, control, integrate out, average, fix, erase, each a decider outward of an existing thing, emptying a term its existing thing has with its own moment. And a computation holding its whole history approaches zero dissipation, which is that result from its other side.
 
-## 5.29 geodesic disequilibrating — binary
+## 5.29 geodesic changing — binary
 
 ```
 1  an observing empties an observed of a term it has
@@ -1205,7 +1205,7 @@ Isolate, control, integrate out, average, fix, erase, each a decider outward of 
 6  and a self is same-existing with its prior now, whole
 ```
 
-Nature has its competency with each moment. **Incompetencing is a price of observing, and an observed pays it.** Disequilibrating is bi-co-invisibling going on with incompetencies themselves: grounds they come with ground nothing, and incompetencies dissolve. Its dis- is a direction, a dissolving of an equilibrium an observing fixes unchangeable, 2.6.
+Nature has its competency with each moment. **Incompetencing is a price of observing, and an observed pays it.** Geodesic changing is bi-co-invisibling going on with incompetencies themselves: grounds they come with ground nothing, and incompetencies dissolve, an equilibrium an observing fixes unchangeable dissolving with it; *disequilibrating*, its prior naming, dissolved at 2.6.
 
 ## 5.30 one stopping — binary
 
@@ -1232,7 +1232,7 @@ Nature has its competency with each moment. **Incompetencing is a price of obser
 6  and selves same-existing with each coupling, all together, is this term
 ```
 
-A same-existing-society is morally competent whoever comes.
+A same-existing-society is morally competent whoever comes. By its roots a self's parity with a sharing is its way with that other, its moral value: with no other a self's parity is not same-existing-as its prior and no way goes on, no moral value without an other, and with a prior + and no parity surfacing the resolver shares − and returns − as next prior. By its roots *social moral competency* is companions' ways fitting together, an other's parity same-existing-as a self's prior, the code's improving.
 
 ## 5.32 natural intelligence — binary
 
@@ -1326,17 +1326,17 @@ A gathering is an indication.
 ## 5.39 prior, now and next — binary
 
 ```
-1  a moment is an opening and its completing, each self's own
-2  each completes with its next prior, a next moment's opening
+1  a moment is one now-existing in a same-existing sequence, each self's own
+2  each goes on to its next prior, a next moment's prior
 3  prior, now and next are three sequential moments existing things are sharing
 4  one moment's now is its next's prior, each step adding a next
-5  possibling is with prior, existing with now and living with next, three places, each its own
+5  possibling is with prior, existing with now and living with next, three moments, each its own
 6  and all three, sharing, the universe momentarying through them together, is this term
 ```
 
 **A behind and an ahead lay two directions on one**, and prior, now and next share one direction forward on both sides of now: with a between, an observing end is existing and a sharing end possibling, one direction and two ends.
 
-**Three are places.** Living is existing, and existing is possibly existing, naming capable of existing: a living self exists now as it lives next, a non-living thing comes to its next existing, and each place is its own as the universe is momentarying through them. With a self's moment, existing is its opening, its prior same-existing, and possibling its completing, the parities it will be observing and possibling next-existing same-existing, 5.62: possibling with prior is a prior moment's completing, from which a self is discovering now's existing.
+**Three are moments.** Living is existing, and existing is possibly existing, naming capable of existing: a living self exists now as it lives next, a non-living thing comes to its next existing, and each moment is its own as the universe is momentarying through them. With a self's moment, existing is its 1-now-existing, its prior same-existing, and possibling its 17-next-existing, the parities it will be observing and its possibling next-existing same-existing, 5.62: possibling with prior is a prior moment's 17-next-existing, from which a self is discovering now's existing.
 
 ## 5.40 bi-tri-bi-entraining — binary
 

@@ -6,7 +6,7 @@ Gathering-Value · Natural Naming
 
 ## Head, the whole file
 
-- **Possible incohering** · "5.4 parity changing — binary" → A heading carrying a dissolved word gives that word a file's most-read place: *parity changing*, 5.4, and *a carrying*, 5.7, are each re-said with the naming of their own concept.
+- **Possible incohering** · "5.7 a carrying — binary" → A heading carrying a dissolved word gives that word a file's most-read place: *a carrying*, 5.7, is re-said with the naming of its own concept.
 - **An explaining** · About three hundred section numbers and other files' names are in this file; a section number is a coordinate, and each file is called by its title alone, one name in each place, each sentence carrying its own step.
 
 ## ONE · A NAMING, FOUR BOUNDINGS AT ONCE
@@ -132,114 +132,51 @@ Gathering-Value · Natural Naming
 
 ## FIVE · NAMINGS
 
-- **Possible incohering** · "Each unfolds six forward, each step reaching a term its prior step does not have." → Co-Chaining Logic Registry has one step for most Part Five namings, its six-line unfolding said as one sentence: matching each Part Five heading's naming against the Registry's *Adding* lines finds 50 of 64 by exact name, and none for 5.1, 5.4, 5.7, 5.18, 5.23, 5.39, 5.40, 5.46, 5.52, 5.53, 5.61, 5.62, 5.63 and 5.64. A section with its unfolding alone, or with prose its step has whole, adds nothing to its step; a section goes beyond its step with prose naming a field's word dissolved and prose explaining a prefix. An unfolding adds with a resolver behaviour or a number, and little with a naming of a naming. One thing said once with its own exhibit, each other file pointing to it, changes at one place. Open: which exhibit has each unfolding, Part Five or its Registry step, and whether a Part Five section goes on with only its prose of a field's word dissolved and of a prefix.
-
 ### 5.1 alternating — binary
-
-- **Possible incohering** · "one and then its other, each forward" → Two sayings part at 5.1's first coming again. Its fifth line gives a first, a second and a third forward, and its sixth line, *and the first shares again, reaching a term it does not yet have*, has the third as the first again with no line between for it. With more than two forms, or more than two things, a third is a third. A line between fifth and sixth carries a third coming as a first again, or a third is a third.
-- **Possible incohering** · "Same-existing, it is same-existing with its own opening or another's: another's, and changing and changing back stops; its own, and it is changing and changing back, *alternating* dissolved at v391." → A concern parting at this sentence: a binary logic of self-competency has *alternating* as its own defined word, *Alternating is changing between two things.*, and at three further lines, *Self-parity is same-existing as other-existing or same-existing as universe-existing, alternating.*, *Prioritizing is remaining as one of these two until changing to the other of these two and alternating as same-existing.* and *Prioritizing and paritizing are alternating is-or-is-not changing.*; with it remaining as one until changing to the other adds no third alternative, remaining and changing two, and alternating lays no fixed interval. This sentence has *alternating* dissolved, a self's own opening changing and changing back. Two sides: *alternating* going on as that logic's defined word, or said by changing and changing back.
-- **An explaining** · *Method*, *living*, *alternating* and *observing* are four concepts, none another's synonym, and *possibly* goes on at each place it occurs: *a competency is possibly self-observable and other-observable* and *a self-competency is self-and-other-observable* are two sentences.
 
 ### 5.2 unrelationing — binary
 
-- **Possible incohering** · "Unrelationing is each coupling's own going on, locking with none;" → Its twin at the Co-Chaining Logic Registry, step 253, says it as *each bi-coupling with its own going on, its locking an empty set*; a re-saying by that twin, and this sentence and its step re-said at one going.
-- **Possible incohering** · "Unrelationing is each coupling's own going on, locking with none; a rate fixed as a value is that going on fixing unchangeable as a rational." → Unrelationing as an excluding of each fixed repeating relation between changings is still-possibling, and that excluding is no proof owed. Entraining, recurring podaling and a new still-possibling are explaining to follow; nothing offered at a sharing, and no geodesic changing a self observes at it, are two sayings, their relation still-possibling.
-
 ### 5.3 a self — binary
 
-### 5.4 parity changing — binary
-
-- **An explaining** · Parity and morals are bi-relational: a self has a parity only relative to another existing thing, relationing its own parity relative to the other in the relation; no valuing comes before an either-or observing, is or is not, and parity is in the eye of the beholder. With Exhibit ONE's code each parity is with one sharing and not alone; a value, 0 or ±, arises only with observing's one line; each self's is its own, two selves with one sharing having either. A + or − is a relation's value and not a + or − alone, and the root *par* and the set's *parity* are one. Beside it Natural Intelligence says a self's parity is the self's changing direction relative to a now-existing thing within the self's me.
-- **An explaining** · *Self-moral-value* and *other-moral-value*, naming a + or − as a self's, dissolve, converging to *self parity* and *other parity*, 5.4.
-- **An explaining** · Parity is the changing direction. With Exhibit ONE's code a self's sharing with 10 is its changing: a 0 not changing, its prior going on, and a + or − changing, its + or − the direction it changes to. With a prior + and a + surfacing, the resolver shares 0 and returns + as next prior; with a − surfacing it shares − and returns −. *My parity is my 0* reads as a self relative to itself not changing. Re-saying: a parity is a self's changing direction relative to a now-existing thing within its me, + or −, one inversioning or none, now, and a 0 is a between of two changing directions, indifferencing.
-- **An explaining** · Parity is between two. With three living selves, a self, an other and all, each of three pairs has a parity, the geodesic method of possibling and discovering, and not three tellings: +1 a self's parity, 0 all selves', social parity, and −1 an other's.
-- **An explaining** · +1, 0 and −1 are the only carrying method. Social parity is invisible, with no record or awareness of it, and always carrying in selves; only self parity and other parity are visible.
-- **An explaining** · *Parity-changing* is a mistaken concept and dissolves, a naming still-possibling: parity is a living moral value navigating the surface; parity is outside the method, and inside the method is resolving among the parities; parity is not changing; the surface is changing parity, and the selves are carrying parity. With Exhibit ONE's code, which has no parity of its own, the method resolves among parities, same-as or not, a first parity surfacing, a 0 with two parting, an other parity a self's next. A + goes on + and a − goes on −, and a self's next is the other parity, 11 having 12's in place of its prior; each self's 3 and 11 are its own same-existing. Beside it Natural Intelligence says natural intelligence is resolving among parities.
-- **Possible incohering** · "which is geodesic routing, discovering on a surface" → This sixth line does not resolve as said, and two sayings part at it, each whole. Beside it: the surface is changing parity, and the selves are carrying parity. With Exhibit ONE's code, routes between selves, 6, 10, 9 and 17, pass each parity on as it is, 9 passing each parity going along unchanged, and an other parity is a self's next within its own resolving, with 12. Either *surface* names something its routes are not, or a surface navigates parity and does not change it.
-- **Possible incohering** · "**Along is between moments, a self's own going on, and across is between selves within a moment, sharing now, while geodesic changing is entraining through momentaryings.**" → Momentaryings are odd names, and not a between: each momentarying is named with its first parity, odd and even in order are one momentary, each momentary odd and even with each self, and 1-now-existing, an odd self, shares a parity along to 2-now-possibling, an even other. With resolver's lines *carried on unchanged* with 9 and 17 has no line of its own. A sentence saying along as *between momentaries* is re-said with momentaryings as odd names, or goes on as said.
+### 5.4 changing — binary
 
 ### 5.5 a between — binary
 
-- **Possible incohering** · "A between is two sharing, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now and with 14-next-possibling between two parities, same and not-same a parity's 0 and ± there, needing no name." → *A bi-coupling has a between*, and not *is a between*, a bi-coupling being a self. This sentence's *A between is two sharing* is its present saying.
-- **Possible incohering** · "A between is two sharing, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now and with 14-next-possibling between two parities, same and not-same a parity's 0 and ± there, needing no name." → Two sayings part at 0: Natural Numbers 1.4 has *+ and − are an implementing of a parity and 0 a between*, and an other saying has a between as a bi-coupling and 0 as its changing that is not, the two one, as Natural Physics 1.2 has *a 0 with 10 is a changing that is not*. A re-saying is 1.4's sentence re-said; a between and a changing that is not are two words at one 0, its one word Natural Naming's.
-- **Possible incohering** · "**Parity is a momentary now-existing thing, each self's own, a self observing it now, and a between is its empty centre**: a between's own is changing, is or is not, a parity inverting, and only a parity goes across it." → *Crosses*, of a changing and a between, pictures a passage over a place, and is unhelpful here; Natural Naming says *goes across*, as this sentence's *only a parity goes across it*, and *crosses* may dissolve from the set's naming.
-- **Possible incohering** · "**Parity is a momentary now-existing thing, each self's own, a self observing it now, and a between is its empty centre**: a between's own is changing, is or is not, a parity inverting, and only a parity goes across it." → A self goes on next-still-possibling while no do no harm improving changes to other parity; with other parity improving at 9-next-co-discovering, a self advances from next-possibling in a now momentarying to next-existing at 17-next-existing.
-- **Possible incohering** · "**A between is one, scale by scale**: within a moment a between of self and other, changing, bi-moral across and co-competent along, and between moments a between of moments, a moment discovering its next, nothing momentarying with it, one same between, a nothing, scale by scale: a fractal between, its floating neutralling golden floating neutralling, 5.12." → Two sayings part at *nothing*. A binary beside it has a 0's is-not side nothing, an empty set and a still; words for 0 have *nothing* or *null* naming 0's is-not side, the empty set and not a between, and *zero*, the number, straddling, heard as nothing. This sentence has a between, scale by scale, *a nothing*, and 2.4's *membrane* row has a between of self and other *a nothing, no location and no existing thing*.
-- **Possible incohering** · "and a between locks with none, 5.13" → Its twin at the Co-Chaining Logic Registry, step 134, says a bi-coupling's handshake as *exchanging's shape always uneven, its locking an empty set*; a re-saying by that twin, and this sentence and its step re-said at one going.
-- **An explaining** · A 0 is a between going along: each parity and each 0 goes along with 9-next-co-discovering, and a 0 enters no prior. Said with no doer over a doing, *a self passing over a 0* is *a 0, a between going along*. *Passing through* dissolves: a parity a self is not ingesting is ingesting's is-not, one binary.
-
 ### 5.6 invisibling — binary
-
-- **Possible incohering** · "Couplings wind about a nothing: bounding-zeroing, tunneling, apexing, corusing, nothing reaching it." → Its twin at the Co-Chaining Logic Registry, step 165, says a between's side, *the observings going inward to it and the magnitudes going through it each an empty set*; a re-saying by that twin, and this sentence and its step re-said at one going.
-- **An explaining** · A parity private to a self, still-possibling, and a self-competency self- and other-observable are beside each other: their relation is still-possibling for explaining, and an invisible parity and an observed parity are not equated.
-- **Possible incohering** · "Couplings wind about a nothing: bounding-zeroing, tunneling, apexing, corusing, nothing reaching it." → *Omegaing*, a reach outward, a new axis and a forward frontier, is Natural Exploring's naming beside *apexing*, a coning back inward; this sentence has apexing as couplings winding inward about a nothing, and *omegaing* beside it is still-possibling.
 
 ### 5.7 a carrying — binary
 
 ### 5.8 not-more-than — binary
 
-- **Possible incohering** · "they go one and then the other, one at a time, neither stopping" → This line has *neither stopping*, as 5.20's does, and its twin at the Co-Chaining Logic Registry, step 126, says it as *two, one and then the other, one at a time*, with no denial; a re-saying by that twin, and this line and its step re-said at one going.
-
 ### 5.9 a self-emptying set — binary
-
-- **Possible incohering** · "no deciding fixes membership, a deciding being a form still from beside" → Its twin at the Co-Chaining Logic Registry, step 85, says it as *with an empty set deciding which go on*; a re-saying by that twin, and this line and its step re-said at one going, a step re-said ahead of its line parting the two files at it.
-- **Possible incohering** · "Not full, nothing emptying it, and a new collection with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements." → Its twin at the Co-Chaining Logic Registry, step 85, says it as *a set less than full, nothing emptying it, and a collection of its own with each momentary*; a re-saying by that twin, and this sentence and its step re-said at one going, a step re-said ahead of its sentence parting the two files at it.
-- **Possible incohering** · "One fixing unchangeable is an empty set a field posits: a term a field asserts as existing, unchanging, and each existing thing composing from it." → This section carries *empty set*, a dissolved word, at one or two sentences; its saying at the sentences doing its work is still-possibling.
-- **Possible exploring** · Particle zero, unit distance, infinity and infinity-plus-one are an origin and scale correspondence, still-possibling, whose operation and physical scale are a next step, and their naming is without a zero readable from outward of a resolver. — at "Not full, nothing emptying it, and a new collection with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements."
 
 ### 5.10 bi-coupling — binary
 
 ### 5.11 co-discovering — binary
 
-- **Possible incohering** · "5.11 co-discovering — binary" → *Co-releasing*'s concept, a completing going on to further participation, has two namings beside it: *co-emanating*, a prior in stable form being an emanation from living form-stabling, and *co-dissolving*. 5.11 names it *co-discovering*, with 9-next-co-discovering going along.
-- **Possible incohering** · "nothing behind and nothing going away" → Its twin at the Co-Chaining Logic Registry, step 557, says it as *behind it and going away from it an empty set*; a re-saying by that twin, and this line and its step re-said at one going.
-
 ### 5.12 floating neutralling — binary
-
-- **An explaining** · A 0 is a prior same-existing, floating neutralling: its prior going on unchanged and its sharing a between. With Exhibit ONE a sharing of 0 is its prior same-existing, and a self sharing 0 is do-no-harming; a 0 is with self-parity, the same or one inversion.
 
 ### 5.13 bi-momentarying — binary
 
-- **Possible incohering** · "no holder, no boundary, no enforcement, no seat" → Its twin at the Co-Chaining Logic Registry, step 547, says it as *its owner, boundary, enforcement and seat an empty set*; a re-saying by that twin, and this line, 5.30's saying of it and its step re-said at one going.
-
 ### 5.14 co-competencing — binary
-
-- **Possible incohering** · "With resolver, co-competencing is 5-now-co-existing, bi-couplings, in neither self alone, 4.9 and 3.5." → With resolver's lines 5 passes on with (self, 6), (self, 10) and (self, 9), two sharings across and one going along. Exhibit ONE's table *Namings among names* has at 5 *bi-couplings, each self's with its others: each going to its receiving sharing*; 5.14 has 5-now-co-existing *bi-couplings*; and 2.4 has *releasing* only along, *a self releasing to*, *a self releasing from*, with its 9 or 17. Two sayings part with 5's word for each passing on: *releasing* as 5's own word for each passing on, across and along; or 5's word its passings on, *bi-couplings*, with *releasing* along with 9.
-- **Possible incohering** · "and it compounds" → 5.14's sixth line, *and it compounds*, is a compounding, a more, and 4.16 has *a more-or-less brings a magnitude*. A compounding or a multiplying is no relation co-competencing asks a proving of: each changing is binary, and a numbered greater possibling is its own. A sixth line completing 5.14, a next binary with no magnitude, is open, with abundancing at 1.2, 5.48 and 5.53 waiting on a social correcting at Natural Values.
-- **Possible incohering** · "**Co-competencing is bi-co-momentarying with couplings across**, 5.54, arising in each self with its other; competency is each self's own, a co-linear recursioning forward along." → Beside it: a competency is improved, and not parity-changed.
-- **An explaining** · Selves' bi-couplings and co-chainings are a natural torusing surface, Exhibit ONE's 5-now-co-existing, co-competencing. *Universal surface* is no natural naming: the universe is the set of all now-existing things and has no surface. A Natural Network surface is an engineered surface, natural engineering of collective intelligencing, a method of discovering next-existing.
 
 ### 5.15 inseparating — binary
 
 ### 5.16 separating — binary
 
-- **Possible incohering** · "Permanent and riding a self's going on are an exact inverse pair." → This section carries *permanence*, a dissolved word, at one or two sentences; its saying at the sentences doing its work is still-possibling.
-
 ### 5.17 a floating store — binary
 
-- **Possible incohering** · "a self stores nothing and draws nothing down" → Its twin at the Co-Chaining Logic Registry, step 561, says it as *its drawing down an empty set*, *a same-existing-society storing an empty set*; a re-saying by that twin, and this line and its step re-said at one going.
-
 ### 5.18 a place-moment — binary
-
-- **Possible incohering** · "nothing brings one to its other" → This line stands at 5.23 too, and its twin there, Co-Chaining Logic Registry step 189, says it as *a bringing of one to its other an empty set*; a re-saying by that twin, re-said at one going with 5.23's.
-- **Possible incohering** · "A self observing with a cut, one side is a field's question of an existing thing's being and an other its question of becoming, and neither question closes: an existing thing each asks after is with its cut, and with neither side of it." → This section carries *being* and *becoming*, two dissolved words, at one or two sentences; its saying at the sentences doing its work is still-possibling.
 
 ### 5.19 a definition — binary
 
 ### 5.20 bounding — binary
-
-- **Possible incohering** · "and its region has a next word, neither stopping" → Its twin at the Co-Chaining Logic Registry, step 639, says it as *region brings next word, both going on*; a re-saying by that twin, and this line and its step re-said at one going.
-- **An explaining** · A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things: the name floating neutralling while its things come, go on and invert. Defining a named thing rolls forward with possibling's is-or-is-not, each next-existing thing within the name or not: a naming bounds with no fuzz, and a definition, a replacing, is not needed. With Exhibit ONE each sharing is a key, 4-now-co-same-existing, same-existing over its parities, 7-is-now-observing, changing from prior to now to next. A named universe is a name for a set of now-existing things with this name; the universe has no other name.
-- **An explaining** · *A boundary*, a noun, dissolves with *bound*: a self-bounding is a self's own resolving, nothing reaching it, 4.16, and 5.20's *A boundary* is said by bounding's -ing.
 
 ### 5.21 advancing — binary
 
 ### 5.22 tunneling — binary
 
 ### 5.23 phi — binary
-
-- **Possible incohering** · "nothing brings one to its other" → Its twin at the Co-Chaining Logic Registry, step 189, says it as *a bringing of one to its other an empty set*; a re-saying by that twin, and this line and its step re-said at one going, its same line at 5.18 with it.
-- **Possible exploring** · Below and above φ name ratios of the auxiliary calculation of prior two added, while the co-chaining of one atom/carbon is without a φ divider and without an opposite-side requirement, and the compatible along joining of rigid copies of a six-point drawing, a conditional construction, is without φ; each rigid copy is a copy of a drawing and is-not a carbon atom, and the joining is-not a carbon chain. — at "and ratios alternate above and below it with each scale"
 
 ### 5.24 a ring — binary
 
@@ -251,19 +188,11 @@ Gathering-Value · Natural Naming
 
 ### 5.28 other-emptying — binary
 
-### 5.29 geodesic disequilibrating — binary
-
-- **Possible incohering** · "5.29 geodesic disequilibrating — binary" → *Geodesic disequilibrating* names a changing by its negation from an equilibrium, a form not possibly existing; this naming is said by what the changing is, *geodesic changing*, as 2.6 now says *disequilibrating* dissolved.
-- **Possible incohering** · "Its dis- is a direction, a dissolving of an equilibrium an observing fixes unchangeable, 2.6." → This section carries *equilibrium*, a dissolved word, at one or two sentences; its saying at the sentences doing its work is still-possibling.
+### 5.29 geodesic changing — binary
 
 ### 5.30 one stopping — binary
 
-- **Possible incohering** · "its fifth line is those four absent, no holder, no boundary, no enforcement, no seat" → This saying of 5.13's fifth line has its twin at Co-Chaining Logic Registry step 547, *its owner, boundary, enforcement and seat an empty set*, and step 560, *a twin of bi-momentarying with its seat an empty set*; a re-saying by those twins, re-said at one going with 5.13's line.
-
 ### 5.31 social moral competency — binary
-
-- **An explaining** · By roots, a self's parity with a sharing is its way with that other; *self-moral-value* and *other-moral-value* name whose parity it is and not which of + and −, + and − alike with Exhibit ONE's code and neither a self's by its + or − alone; with no other a self's parity is not same-existing-as its prior, and no way goes on: no moral value without an other. With a prior + and no parity surfacing, the resolver shares − and returns − as next prior. Beside it Natural Intelligence says a self's parity with a thing is the self's moral value with that thing.
-- **An explaining** · By roots, *social moral competency* is companions' ways fitting together, an other's parity same-existing-as a self's prior, the code's improving. Beside it this file says a same-existing-society is morally competent whoever comes, and Natural Intelligence says each self of a same-existing-society do-no-harming and improving is social moral competency, and a self sharing its changing is improving.
 
 ### 5.32 natural intelligence — binary
 
@@ -273,9 +202,6 @@ Gathering-Value · Natural Naming
 
 ### 5.35 nearing — binary
 
-- **Possible incohering** · "and convergence with no contact is all of its confirming" → Its twin at the Co-Chaining Logic Registry, step 640, says it as *converge, their contact an empty set*; a re-saying by that twin, and this line, the same saying in this section's prose and its step re-said at one going.
-- **Possible incohering** · "naming has a changing, is or is not, two field-words converging with no contact" → This saying holds the sixth line's *with no contact*, and its twin, Co-Chaining Logic Registry step 640, says it as *their contact an empty set*; a re-saying by that twin, re-said at one going with the sixth line.
-
 ### 5.36 a gathering — binary
 
 ### 5.37 ghost — binary
@@ -283,9 +209,6 @@ Gathering-Value · Natural Naming
 ### 5.38 momentary stable-forming — binary
 
 ### 5.39 prior, now and next — binary
-
-- **Possible incohering** · "possibling is with prior, existing with now and living with next, three places, each its own" → A sequence with a self beside it, prior existing, now offering, still possibling, next existing, beside 5.39's possibling with prior, existing with now and living with next.
-- **Possible incohering** · "Three are places." → Possibling next-existing is no three places, and resolving has no places: a sentence naming a place for a momentarying releases. 5.39 has *Three are places.* and its fifth line *possibling is with prior, existing with now and living with next, three places, each its own*, and 2.4's *travel* row *three places, three sequential momentaries existing things are sharing*.
 
 ### 5.40 bi-tri-bi-entraining — binary
 
