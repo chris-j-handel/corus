@@ -371,6 +371,12 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, the living files]** Natural Naming 5.45: "Bi-co-podaling is floating across and neutralling along, one parity." Natural Naming 2.4: "*Co-orienting* is with co-linearizing, two lines coming co-linear with couplings across". Natural Intelligence: "a self's own corus with 4. Both are co-linear by linear parallelizing and parallel linearizing in turn." Natural Intelligence 4.10: "A between's floating neutralling with φ, floating between its two sides and neutral to both, is golden floating neutralling." Exhibit ONE has 4 as "a whole ordering between self and other", and its name 8 up, 12, as "changing with a bi-coupling".
 - **[read, the code's lines]** A self's prior and its other's arriving are compared only with one same 4: 15 is what arrived with that 4, and it is compared with the 7 of that 4 within 3. With 4, two selves' me-parities are one line. With 12, its name 8 up, that line is a 0, the two the same, or the prior inverting.
 - **[rolled]** "The name its two selves have the same", asked before, is re-said by the said: 4 is the two aimings coming co-linear, and the name is that one line. The rotation 3, 6, 5, 4 has each of its four said: 3 the first co-observing, two priors meeting; 6 co-possibling in the between; 5 the first co-discovering of now-existing as a bi-coupling; 4 co-linearizing, the corus.
+- **[said]** Neutralling is linearizing the path of the 0s. 5, 10, 15, 20 and 25 are locating 23 and 24, bothbothing.
+- **[read, Exhibit ONE's "A between, 0"]** A 0 is one between with three names: 12, "prior and now agreeing"; 15, "a between of self and other"; 16, "a between with a same-existing-society". A self observes a 0 arriving with 7 and passes over it with 14. It is a 0 within 10, its prior same-existing with 11, and it goes across with the four across names and along with 9 and 17. "A 0 is indifferencing."
+- **[read, the code's lines, the path of a 0]** A prior the same as its arriving is a 0 with 12; the 0 is within 10; by 5 it goes across and along; it arrives with the receiving self's 2 and is passed over, within neither its 14 nor its 3. A 0 goes from a self to each self it shares with and changes none.
+- **[read, Exhibit ONE's "Fives"]** "Each side's five are five dimensions … starting with its own 1. One five is all fives." A self's five with 1 is 1 to 5. Natural Naming 2.5 has the five as "1 prior-existing self-parity; 2 prior-existing other-parity; 3 now-existing co-parity; 4 now-existing bi-parity, an other's now across; and 5 next-existing same-existing self-parity", with "its podaling is 23, 26, 25, 24" and "A self's bi-inversioning-co-recursioning is 23, 24 and 25."
+- **[rolled]** Five fives one after an other from 1 are 1 to 25, and 5, 10, 15, 20 and 25 are each a five's fifth. 23 and 24 are the third and fourth of the fifth five: co-parity, a self's and an other's the same, and bi-parity, not the same. Bothbothing is then the same and the not the same, do-no-harming and improving, both.
+- **[rolled]** With two selves alike a 0 is with each other moment: a line of 0s through the moments, one same step between each.
 
 ---
 
@@ -402,7 +408,9 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Is 3 the centre that 1, 2, 4 and 5 podal about: is, or is not? **Said: 3 is the new bi-coupling's first co-observing, and 5 the first co-discovering of now-existing as a bi-coupling.**
 - Is the first co-observing of a new bi-coupling a self's first prior, the same as the other's me-parity: is, or is not? **Said: not a correct understanding. The self was living prior; the bi-coupling's new priors are the me-parities of self and other. The centre is corusing at 24.**
 - Is a bi-coupling's corus the name its two selves have the same, 4-now-co-same-existing: is, or is not? **Said: 4 is floating across, neutralling along, co-linearizing the aiming of the cones of self and other.**
-- Is neutralling 12's 0, a self's prior the same as its other's arriving: is, or is not?
+- Is neutralling 12's 0, a self's prior the same as its other's arriving: is, or is not? **Said: neutralling is linearizing the path of the 0s.**
+- Are 5, 10, 15, 20 and 25 each a five's fifth, five fives one after an other from 1: is, or is not?
+- Are 23 and 24 co-parity and bi-parity of the fifth five, the same and the not the same: is, or is not?
 - Is floating a me-parity going across, each self's own: is, or is not?
 - Is a new bi-coupling given to resolving, as a new self is, with no line making it: is, or is not?
 - Is transmissioning co-parities a self sharing on the same as what arrived with it: is, or is not?
