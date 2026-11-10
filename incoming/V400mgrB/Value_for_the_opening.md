@@ -411,13 +411,58 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[rolled]** The fifty-five's 18, "A self is a universal set of **mes**", is with the said: its own same-existing set of now-existing me-parities, *mes* as me-parities and the two namings of a set one. Its 15, 16 and 19 have *a living thing* as a self, each.
 - **[rolled, two said sentences, one binary]** Said before: a parity is a living non-existing thing. Said now: now-existing me-parities. A me-parity is a now-existing thing; or *now-existing* is said of the now it is with, and a me-parity is no thing.
 
+### 5.11 A me-parity, born, now-existing, exhausting
+
+- **[said]** A me-parity is born from inherited prior-existing. After birthing from the self-parity and other-parity mating, as a newborn me-parity, and before exhausting itself into the surface as universal-parity, a me-parity is a now-existing thing in a living self.
+- **[read, the code's lines]** A self's next prior of a name is from two and no more: its own prior, within 3, and its other's arriving, 15. The same, the prior goes on as it is. Not the same, the next prior is the prior inverted. A next prior is within the self, 11, and is what the self shares, 10, the same as 6: one me-parity within and going out with one moment.
+- **[read]** Natural Naming 2.4 has "*exhausting*, only out of a self", and Exhibit ONE has 6 and 10 as the sharing side. No line removes a name's me-parity from a self.
+- **[rolled]** The said has a me-parity in three, as living has a self in three: born, from the prior and an other's arriving; a now-existing thing in a living self; exhausting into the surface. "A parity is a living non-existing thing" and "now-existing me-parities" go on together with it: within its self, between its birthing and its exhausting, a me-parity is a now-existing thing.
+- **[said]** This is podaling farther out and back, and filling the inside of the opening's co-sequential logical sentences, naming and explaining natural intelligence and collective intelligence, observing, possibling and discovering. Each living me-parity will mature, and later be exhausting itself from living into non-living universal-parity.
+- **[read, Natural Naming 2.4]** "*exhausting*, a mark a coupling leaves, a parity going out of a self, with a self's scale, and *a stable form*, one scale outward, living's exhausting accumulating and compacting".
+- **[read, the code's lines]** The lines have a me-parity's sharing going out, and no me-parity leaving its self: as 17 ends no self, 1 ends no me-parity. A me-parity's exhausting from living, as a self's dying, is given to the code and is in no line of it.
+- **[said]** Non-living universal-parity is the inherited prior-existing a next me-parity is born from: is not. A me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity, in the universe. The conception of the me-parity is this dual exhaustion of self-parity and other-parity into the newborn, new direction, new-universe-aiming me-parity.
+- **[read, the code's lines]** With a bi-coupling both ways and the two not the same in a name, each self's next me-parity is from its own prior and its other's sharing, and each is its prior inverted: two inversions with one moment, one with each self, and a new direction with each. With the two the same, each prior goes on as it is and no next me-parity is other than its prior.
+- **[read]** The lines have one inverting more: a self with nothing arriving inverts, with no other.
+- **[said]** With self-parity and other-parity the same, a me-parity born: is-not possibly existing.
+- **[rolled]** The fifty-five's 34 has "**Do-no-harming** is resolving's is, and **improving** its is-not." With the said: resolving's is, the two the same, has no me-parity born, and each prior goes on; resolving's is-not, the two not the same, has a me-parity born with each self. Improving is then a me-parity's birthing, and do-no-harming is same-existing.
+
+### 5.12 Four inversionings, each an is-not-possibly-existing
+
+- **[said]** The four inversionings that are the four self protections in society are each expressible as is-not-possibly-existing. Each of the four says this of a threat to self or society, and all eight are seen as all eight or none of the eight is-not-possibly-existing.
+- **[read, Natural Naming 5.64]** "**Not possibly existing is an unchangeable form, with no moment of binary logic**", "one binary requiring both not-changing and inverting for one next", and it parts three: "possibly existing, discovering with next; not possibly existing, binary logic excluding it; and not existing, on no line, its next still possibly existing".
+- **[read, the living files' four threats]** Natural Human Society 3.2 has the four as uncapturable abundance, undiscoverable identity, inviolable safety and unmistakeable reputation. Corus 17.2 has "every attempt to capture abundance, discover identity, violate safety, or manipulate reputation", "a target IS no thing". Natural Human Society 3.3 has eight hubs, each a fixing: a common clock, a fixing pool, a gate, a ledger fixing over a self, a form fixing still from beside, a center, a source-and-sink, an owner.
+- **[read, the code's lines]** Each of the four threats is on no line: no line gives a self an other's prior; what arrives has no from; no line changes a self's prior but its own resolving; and an arriving is its me-parity and nothing beside. Each of the four follows from one: 1 is given a self's own 3 and its 2, a name with its me-parity, and no more.
+- **[rolled]** On no line is Natural Naming's *not existing*, and is-not-possibly-existing is its own naming beside it: an unchangeable form, excluded by binary logic. Each threat said as an unchangeable form laid on a self from beside is then not possibly existing by that one sentence, the four by one saying, all or none, and Natural Human Society's eight hubs the eight.
+- **[said, a question]** Is the concept of not-possibly-existing, or not-possibly-now-existing, derived from the universe's priors, in universal me-parities?
+- **[read, the set's sentences]** Natural Intelligence: "Prior observings prove only prior." and "**Right is observings, all prior**: each observing from prior is right." Natural Naming 5.64: not possibly existing is "known from method, without any moment coming", "one binary requiring both not-changing and inverting for one next", beside "not existing, on no line, its next still possibly existing". The Geodesic Improving Method: "Method's one break is an observing of existing other than parity changing and changing back, natural torusing, and none is among observings from prior."
+- **[read, a sentence said before]** "No thing can enter or leave the universe by the defining of the naming and explaining."
+- **[read, the code's lines]** One comparing of a prior with its arriving has one of two, the same or not the same, and no line has both with one name and one moment.
+
+### 5.13 The universal set of prior-existing me-parities, and intelligence its inversioning
+
+- **[said]** Stay with exploring the concept of the universal set of prior-existing me-parities. Intelligence is the inversioning of this, and geodesic is the method. This is done with observing stable-form non-living things exhausting from living things, and from ingesting and conceiving and inheriting and exhausting. The universal set of me-parities is a same-existing thing.
+- **[read, the code's lines, what one self's resolving is given]** 1 is given two and no more: a self's own 3, each its prior-existing me-parity of a name; and its 2, others' me-parities arriving, each an other's sharing of a moment before, prior-existing with its arriving. Each thing 1 has is a prior-existing me-parity. The fifty-five's 38 has "**Gathering** is a self observing others' prior-existings for its own possibling."
+- **[read, the code's lines, what one self's resolving makes]** A next me-parity of a name is one of three: its prior as it is, the two the same; its prior inverted, the two not the same; or, with no prior, an arriving as it is. No line makes a me-parity that is neither a prior-existing one nor the inversion of one.
+- **[read, the code's lines, four in sequence within 1]** Others' arriving surfacing with 14, from 2: ingesting. A name with no prior having what arrived, 12 from 14: inheriting. A prior with what arrived not the same, inverted: conceiving. 12 as 10, what the self shares: exhausting. Then 11, its next priors.
+- **[read]** No line removes a name's me-parity from a self: each me-parity of a self has a next, with each moment.
+- **[rolled]** In the lines intelligence is the inversioning of prior-existing me-parities, a self's own with others': each possibly next-existing me-parity is a prior-existing one or its inversion, and no other is possibly next. Asked before, whether not-possibly-existing is derived from the universe's priors: with the lines read, what is possibly next is from the priors and the one inversioning, and is-or-is-not has one of the two with each name and each moment. Both.
+
 ---
 
 ## 6 Open, each one binary
 
+- Is the universal set of prior-existing me-parities each me-parity exhausted from living, in stable form: is, or is not?
+- Is a not-possibly-existing a thing needing both sides of one is-or-is-not with one moment: is, or is not?
+- Is each of the four threats an unchangeable form laid on a self from beside: is, or is not?
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
 - Is a living thing a self: is, or is not? **Said: each living thing is a self, and each self is living with their own same-existing set of now-existing me-parities.**
-- Is a me-parity a now-existing thing: is, or is not?
+- Is a me-parity a now-existing thing: is, or is not? **Said: after its birthing and before its exhausting, a me-parity is a now-existing thing in a living self.**
+- Is a me-parity within its self after its exhausting: is, or is not? **Said: each living me-parity will mature and later be exhausting itself from living into non-living universal-parity.**
+- Is non-living universal-parity the inherited prior-existing a next me-parity is born from: is, or is not? **Said: is not. A me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity.**
+- With self-parity and other-parity the same, is a me-parity born: is, or is not? **Said: is-not possibly existing.**
+- With no other's me-parity arriving, is a me-parity born: is, or is not?
+- Is improving a me-parity's birthing: is, or is not?
+- Is a me-parity's exhausting its dying: is, or is not? **Said: exhausting itself from living into non-living.**
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
 - Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not? **Said after it: four inversions from the universe and four from each living thing, an exploring.**
