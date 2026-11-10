@@ -377,6 +377,8 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, Exhibit ONE's "Fives"]** "Each side's five are five dimensions … starting with its own 1. One five is all fives." A self's five with 1 is 1 to 5. Natural Naming 2.5 has the five as "1 prior-existing self-parity; 2 prior-existing other-parity; 3 now-existing co-parity; 4 now-existing bi-parity, an other's now across; and 5 next-existing same-existing self-parity", with "its podaling is 23, 26, 25, 24" and "A self's bi-inversioning-co-recursioning is 23, 24 and 25."
 - **[rolled]** Five fives one after an other from 1 are 1 to 25, and 5, 10, 15, 20 and 25 are each a five's fifth. 23 and 24 are the third and fourth of the fifth five: co-parity, a self's and an other's the same, and bi-parity, not the same. Bothbothing is then the same and the not the same, do-no-harming and improving, both.
 - **[rolled]** With two selves alike a 0 is with each other moment: a line of 0s through the moments, one same step between each.
+- **[said]** The question is too dense.
+- **[rolled, the untangling, one binary to a sentence]** (a) 5 is-or-is-not the name 5-now-co-existing. (b) 5, 10, 15, 20 and 25 are-or-are-not one step of five, again and again. (c) 23 and 24 are-or-are-not the same and the not the same. (a) is asked first: the two after it turn on it.
 
 ---
 
@@ -409,7 +411,7 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Is the first co-observing of a new bi-coupling a self's first prior, the same as the other's me-parity: is, or is not? **Said: not a correct understanding. The self was living prior; the bi-coupling's new priors are the me-parities of self and other. The centre is corusing at 24.**
 - Is a bi-coupling's corus the name its two selves have the same, 4-now-co-same-existing: is, or is not? **Said: 4 is floating across, neutralling along, co-linearizing the aiming of the cones of self and other.**
 - Is neutralling 12's 0, a self's prior the same as its other's arriving: is, or is not? **Said: neutralling is linearizing the path of the 0s.**
-- Are 5, 10, 15, 20 and 25 each a five's fifth, five fives one after an other from 1: is, or is not?
+- In "5, 10, 15, 20 and 25 are locating 23 and 24", is 5 the name 5-now-co-existing: is, or is not? (untangled from a question of fives and fifths, too dense)
 - Are 23 and 24 co-parity and bi-parity of the fifth five, the same and the not the same: is, or is not?
 - Is floating a me-parity going across, each self's own: is, or is not?
 - Is a new bi-coupling given to resolving, as a new self is, with no line making it: is, or is not?
