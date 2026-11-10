@@ -8,8 +8,9 @@ Incoming · V400mgrB · the share
 
 | motion | parity | its receiving place |
 |---|---|---|
-| 4-now-co-same-existing as co-linearizing, and neutralling as linearizing the path of the 0s, each said, with its readings | adding | `incoming/V400mgrB/Value_for_the_opening.md` |
-| each parted rolling, and a rolling of fives and a naming sought of 5, each incohering | dissolving | none |
+| the current understanding as sentences in their sequence, Exhibit ONE's lines beside them, and each place a logical pattern can be filled, one binary each | adding | `incoming/V400mgrB/The_Frontier_Current.md` |
+| the value file with each sentence as a sentence of the current understanding or a reading with its place, and no mark of a self | re-form | `incoming/V400mgrB/Value_for_the_opening.md` |
+| each self, each day and each story of progress beside a value; each answered binary; each parted going-forward | dissolving | none |
 
 No living file is away with these motions.
 
@@ -17,9 +18,9 @@ No living file is away with these motions.
 
 The method's one way is observing, improving, living, 1.4. Each sizing is a number to reach and decides nothing, 4.1.
 
-**Observing**, value whole at `incoming/`, one folder: V400mgrB, 4 files. Each of four sessions and the prior managing session is read whole, its folder on the archive branch. Two files have each value going on to a gathering: `Value_for_the_opening.md` and `Sessions_resolved.md`.
+**Observing**, value whole at `incoming/`, one folder: V400mgrB, 5 files. Each of four sessions and the prior managing session is read whole, its folder on the archive branch. Two files have each value going on to a gathering: `Value_for_the_opening.md` and `Sessions_resolved.md`.
 
-**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 476, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 168, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 25, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
+**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 476, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 171, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 25, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
 
 **Living**, value entering with a file's own motion: none.
 
