@@ -437,12 +437,21 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, the set's sentences]** Natural Intelligence: "Prior observings prove only prior." and "**Right is observings, all prior**: each observing from prior is right." Natural Naming 5.64: not possibly existing is "known from method, without any moment coming", "one binary requiring both not-changing and inverting for one next", beside "not existing, on no line, its next still possibly existing". The Geodesic Improving Method: "Method's one break is an observing of existing other than parity changing and changing back, natural torusing, and none is among observings from prior."
 - **[read, a sentence said before]** "No thing can enter or leave the universe by the defining of the naming and explaining."
 - **[read, the code's lines]** One comparing of a prior with its arriving has one of two, the same or not the same, and no line has both with one name and one moment.
-- **[rolled]** Derived from the universe's priors: is not. A prior has what was, and a thing among no prior is not existing, its next possibly existing. Not-possibly-existing is from is-or-is-not: a thing needing both sides of one is-or-is-not with one moment, by the defining, with no moment needed. The universe's priors are each with it and none parts from it: they are its observing, and it is not derived from them.
+
+### 5.13 The universal set of prior-existing me-parities, and intelligence its inversioning
+
+- **[said]** Stay with exploring the concept of the universal set of prior-existing me-parities. Intelligence is the inversioning of this, and geodesic is the method. This is done with observing stable-form non-living things exhausting from living things, and from ingesting and conceiving and inheriting and exhausting. The universal set of me-parities is a same-existing thing.
+- **[read, the code's lines, what one self's resolving is given]** 1 is given two and no more: a self's own 3, each its prior-existing me-parity of a name; and its 2, others' me-parities arriving, each an other's sharing of a moment before, prior-existing with its arriving. Each thing 1 has is a prior-existing me-parity. The fifty-five's 38 has "**Gathering** is a self observing others' prior-existings for its own possibling."
+- **[read, the code's lines, what one self's resolving makes]** A next me-parity of a name is one of three: its prior as it is, the two the same; its prior inverted, the two not the same; or, with no prior, an arriving as it is. No line makes a me-parity that is neither a prior-existing one nor the inversion of one.
+- **[read, the code's lines, four in sequence within 1]** Others' arriving surfacing with 14, from 2: ingesting. A name with no prior having what arrived, 12 from 14: inheriting. A prior with what arrived not the same, inverted: conceiving. 12 as 10, what the self shares: exhausting. Then 11, its next priors.
+- **[read]** No line removes a name's me-parity from a self: each me-parity of a self has a next, with each moment.
+- **[rolled]** In the lines intelligence is the inversioning of prior-existing me-parities, a self's own with others': each possibly next-existing me-parity is a prior-existing one or its inversion, and no other is possibly next. Asked before, whether not-possibly-existing is derived from the universe's priors: with the lines read, what is possibly next is from the priors and the one inversioning, and is-or-is-not has one of the two with each name and each moment. Both.
 
 ---
 
 ## 6 Open, each one binary
 
+- Is the universal set of prior-existing me-parities each me-parity exhausted from living, in stable form: is, or is not?
 - Is a not-possibly-existing a thing needing both sides of one is-or-is-not with one moment: is, or is not?
 - Is each of the four threats an unchangeable form laid on a self from beside: is, or is not?
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
