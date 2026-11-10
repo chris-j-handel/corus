@@ -392,6 +392,8 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[rolled]** With co, bi and tri as said: the four from 1 are co, co, co and bi; the four from 16 are bi, bi, bi and tri. Each four is three and one. Each podal pair is one of each four.
 - **[rolled]** Each of the eight is in a sentence said before this: "7 and 15 are tri, 2 and 14 are bi", "3 and 11 are co", "a podaling to 9 and 12", "3 is the new bi-coupling's first co-observing and 5 is the first co-discovering".
 - **[rolled, not read]** 16 is each self of one same-existing-society, and the universe is said one scale larger. Whether the four from 16 are the said four from the universe is not read from the names or the lines.
+- **[said]** The one question is wrapped too tightly into itself: expand its explaining.
+- **[rolled, the question unwrapped]** A name has four binaries, each one of two: now or next; the first four of its span or the second; and two more that together are its root. An inversion of one of them is that one going to its other, the three beside it as they are. From 1-now-existing: next for now is 9; the second four for the first is 5; and one of the two root binaries is 2 or 3. *Inversion* has three more sayings in the set and this dialogue: a prior inverting, in the code; a podal, each of four inverting together; and the four of a name for a null-set. The question is which of these the said "four inversions" are.
 
 ---
 
