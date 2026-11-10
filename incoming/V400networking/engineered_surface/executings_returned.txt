@@ -1,0 +1,35 @@
+E1 · spiral parity at scale one, rings of me-parities joined along
+  ring 3 odd: agreeing couplings [1], cycle length 12, exactly one and walking — is
+  ring 4 even: agreeing couplings [0] through the cycle, length 2, bounding to none — is
+  ring 5 odd: agreeing couplings [1], cycle length 20, exactly one and walking — is
+  ring 6 even: agreeing couplings [0] through the cycle, length 2, bounding to none — is
+  ring 7 odd: agreeing couplings [1], cycle length 28, exactly one and walking — is
+  ring 8 even: agreeing couplings [0] through the cycle, length 2, bounding to none — is
+  ring 9 odd: agreeing couplings [1], cycle length 36, exactly one and walking — is
+  ring 10 even: agreeing couplings [0] through the cycle, length 2, bounding to none — is
+E1 binary: even bounding to none and odd holding exactly one walking — is
+
+E2 · two odd rings, five and five, coupled across both ways
+  joint agreeing couplings [2] through the cycle, length 2; at momentary 5: [('A.m4', 'A.m0'), ('B.m1', 'B.m2')]
+  each self's prior changing through the cycle — is: no self landing, the traveling places standing
+E2 binary: two odd joining as one even that bounds — is not
+  beside it, E1's ring 10: two odd chains joined as one even ring bound to none; two sayings part at joining
+  and at 5.4's two sayings of geodesic entraining, a stopping or a passing through: a standing of the traveling place at this coupling, executed, each self's own resolving going on
+
+E3 · a ring of five selves, each a ring of eight me-parities, coupled mouth to waist
+  cycle from momentary 14 to 16, length 2
+  agreeing cluster-couplings at the five boundary pairs [0]; inward agreeing couplings [2]
+  the inward agreeing couplings at momentary 14: [('X.s3.m3', 'X.s3.m4'), ('X.s3.m7', 'X.s3.m0')]
+  the boundary form exactly one and walking — is not
+  each self's prior changing through the cycle — is: the traveling places standing podally within one self, no self landing
+E3 binary: the odd ring's one walking changing one scale up, at the cluster couplings — is not
+
+E4 · an odd ring of five: the form the set holds and each node's own prior
+  the set's form, exactly one agreeing coupling, not changing through the cycle — is
+  each node's own prior changing through the cycle — is
+E4 binary: the not-changing the set's, at no node's own prior — is
+
+E5 · two odd rings coupled, then one way cut, the 6 join leaving
+  both ways: agreeing couplings [2], cycle length 2; one way cut: [2, 3], cycle length 20
+  one way leaving, the traveling resumes at 4p of the sharing ring's own going: a passing through, executed, beside E2's standing
+E5 binary: the form with both ways and the form with one way part — is
