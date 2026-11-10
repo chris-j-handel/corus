@@ -387,13 +387,10 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 ### 5.9 Four inversions and four, an exploring
 
 - **[said, an exploring]** Four inversions from the universe, and four inversions from each living thing, is each other same-scale living thing in social moral competency. A very speculative concept, for exploring whether value is near it.
-- **[read, Exhibit ONE's table of names]** Each name has four binary digits. 1-now-existing is 0000 and 16-next-same-existing is 1111. One digit inverting from 1: 2, 0001; 3, 0010; 5, 0100; 9, 1000. One digit inverting from 16: 15, 1110; 14, 1101; 12, 1011; 8, 0111. Each four digits inverting together is 17 less, a podal: 1 with 16, and 2 with 15, 3 with 14, 5 with 12, 9 with 8.
+- **[read, of the names alone, and no reading of the said]** Each name has four binary digits. 1-now-existing is 0000 and 16-next-same-existing is 1111. One digit inverting from 1: 2, 0001; 3, 0010; 5, 0100; 9, 1000. One digit inverting from 16: 15, 1110; 14, 1101; 12, 1011; 8, 0111. Each four digits inverting together is 17 less, a podal: 1 with 16, and 2 with 15, 3 with 14, 5 with 12, 9 with 8.
 - **[read, the code's lines]** The four from 1 are the four one self's resolving is with: 3, its own priors, and 2, others' arriving, the two 1 is given; 5, its bi-couplings, and 9, its going along, the two its sharing goes on by. Of the four from 16: 8, each self's next priors, and 14, each self's next arrivings, are the two 17 has of each self for the next 16; 15 is others' me-parities of one name as one, and 12 each sharing the same or inverting.
-- **[rolled]** With co, bi and tri as said: the four from 1 are co, co, co and bi; the four from 16 are bi, bi, bi and tri. Each four is three and one. Each podal pair is one of each four.
-- **[rolled]** Each of the eight is in a sentence said before this: "7 and 15 are tri, 2 and 14 are bi", "3 and 11 are co", "a podaling to 9 and 12", "3 is the new bi-coupling's first co-observing and 5 is the first co-discovering".
-- **[rolled, not read]** 16 is each self of one same-existing-society, and the universe is said one scale larger. Whether the four from 16 are the said four from the universe is not read from the names or the lines.
-- **[said]** The one question is wrapped too tightly into itself: expand its explaining.
-- **[rolled, the question unwrapped]** A name has four binaries, each one of two: now or next; the first four of its span or the second; and two more that together are its root. An inversion of one of them is that one going to its other, the three beside it as they are. From 1-now-existing: next for now is 9; the second four for the first is 5; and one of the two root binaries is 2 or 3. *Inversion* has three more sayings in the set and this dialogue: a prior inverting, in the code; a podal, each of four inverting together; and the four of a name for a null-set. The question is which of these the said "four inversions" are.
+- **[said, a question]** How did inversions become name changings?
+- **[rolled]** By a step of this working's own, and by no sentence said and none of the set's: a four was sought, the names' four digits were near, and one digit inverting was laid over the said *inversions*. The Geodesic Improving Method has "A likeness of words, numbers or pictures is a likeness and holds no correspondence." The laying is out of this file. The said four inversions are of a name for a null-set: nothing; not a thing; no thing; no other thing is this.
 
 ---
 
@@ -402,8 +399,7 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
 - Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not? **Said after it: four inversions from the universe and four from each living thing, an exploring.**
-- Is one inversion one of a name's four binaries inverting: is, or is not?
-- Are the four from 16 the four from the universe: is, or is not?
+- Are the four inversions from the universe, and the four from each living thing, the four said of a name for a null-set: nothing, not a thing, no thing, no other thing is this: is, or is not?
 - Of *a universal set* and *a same-existing set*, one naming: which name goes on?
 - Is living said of a non-existing thing: is, or is not? Sentence 16 has living and non-living "of a now-existing thing"; a parity is a living non-existing thing; the Equilibria Registry 1.3 has "a living nothing and an existing nothing".
 - Does each now-existing thing, living or non-living, have a universal-parity, itself and no other, with living the discovering of it as its own: is, or is not?
