@@ -16,6 +16,12 @@ Incoming · V400mgrB · four sessions resolving
 - **S8 · The registry's step 86**, "A set is all its existing things, its changing its existing things' own and its existing theirs: a set existing as its things exist." Said after it: a set is a non-existing thing. The step re-said; or the two sayings one.
 - **S9 · *Forgetting*.** No sentence of Natural Naming has it. Natural Intelligence's gathering has a candidate, a plane closing to a line, its returning whole an other's sharing arriving along. Its one line at Natural Naming; or no naming.
 - **S10 · The opening session's five instruments**, a general reading of each quotation word for word among them. To a kit; or leaving with the folder.
+- **S11 · A same-existing set and a universal set.** One naming, the shorter going on; or two, parting with the set same-existing or each of its things.
+- **S12 · Exhibit ONE's tables.** Each going on within Exhibit ONE as a form of its code; or leaving Exhibit ONE whole.
+- **S13 · The ten unchangeables.** A table of them with Exhibit ONE's close; or the ten with their registries only.
+- **S14 · The order of Exhibit ONE's improving.** Its gathering has seven in order, the three exact sayings first, 2-now-possibling, 3-is-now-co-observing and 14-next-possibling, one with each pass. That order; or each of seventeen names within one frame, the three among them.
+- **S15 · The is-or-is-nots of the code's lines, said with four numbers across the set.** Exhibit ONE's table has ten, eight with lines and two with loops. The registry's step 299 says eight and names fourteen. One number, each other re-said to what it names; or each with its own reading.
+- **S16 · About twenty-eight items of Natural Intelligence's gathering name a sentence of Exhibit ONE by a line number.** Each with its section's title; or its sentence alone.
 
 ## 2 The opening session
 
@@ -44,7 +50,29 @@ Its own saying has eighteen values and sixteen questions.
 
 ## 3 The Exhibit ONE session
 
-Its own saying is on its branch, not read with this pass.
+Its own saying has three readings of the code, one value for the registry, ten open questions and its own standing beside Exhibit ONE's seven steps.
+
+**The set has each of these, and each dissolves:** eleven explainings it laid, at Natural Resolver's gathering; no order among parities reaching a self, at the Co-Chaining Logic Registry's gathering with *List* the code's container; a trial's number deciding nothing, at the Geodesic Improving Method 4.1; and most of its sweep by hand, in a gathered list of one hundred sixty-eight droplets of Exhibit ONE on the archive branch, `incoming/v395/exhibit_one/exhibit_one_sources.md`.
+
+**A later saying resolves each of these, and each goes on within `Value_for_the_opening.md`:**
+
+- A cone's apex, a me-parity's or a me's: a cone is a same-existing me-parity universe.
+- A same-existing-society of selves or of me-parities: a society-self has many mes, each one self's own, and owns none.
+- Social moral competency as an abundancing in neither self alone, or as each self do-no-harming and improving: read from Exhibit ONE's lines, do-no-harming is with an other's improving, and the two sayings are one.
+- The surfacing's three clauses and one prior with each name: the readings of the code line by line have each.
+
+**The set has not these, and each goes on here with its receiving gathering:**
+
+- **Co-Chaining Logic Registry, with its group of seventeen names:** step 299, S15.
+- **Natural Resolver:** the seven steps of its own gathering, with the session's standing beside each: the first resolved; the second, third, fourth and seventh not executed; the fifth worked out of order; the sixth grown. S12, S13 and S14 are of these. Its tables, its ten unchangeables and its three exact sayings are each open.
+- **Natural Resolver, the living files not yet read for its seventeen names:** Natural Intelligence; Resolving the Hard Problem Registry; Natural Naming past its part THREE; Natural Networking; the Co-Chaining Logic Registry's groups of one to nine, nine to seventeen, each number with its podaling and one four-cycling; then Natural Engineering and three registries.
+- **Natural Intelligence's gathering:** S16.
+- **Natural Naming and Natural Intelligence, *Opening*:** S11.
+- **Geodesic Improving Method, opening a session:** a plan naming a gathered list with its path is read before a working gathers by hand.
+
+**The beat**, each self with its own turn beside selves stepping together, goes on with the networking session's pass, its executing with that session.
+
+**Its folder:** whole on the archive branch, and no folder of `main`.
 
 ## 4 The networking session
 
