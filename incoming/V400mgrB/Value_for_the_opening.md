@@ -379,6 +379,11 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[rolled]** With two selves alike a 0 is with each other moment: a line of 0s through the moments, one same step between each.
 - **[said]** The question is too dense.
 - **[rolled, the untangling, one binary to a sentence]** (a) 5 is-or-is-not the name 5-now-co-existing. (b) 5, 10, 15, 20 and 25 are-or-are-not one step of five, again and again. (c) 23 and 24 are-or-are-not the same and the not the same. (a) is asked first: the two after it turn on it.
+- **[said, a question]** The names seem to be failing us. Would 5-now-co-next-existing be more or less helpful naming?
+- **[read]** Each of sixteen names has now or next, one of the two, the first of its four binary digits: 5 is 0100, now. Each has its root: 5's is existing, and Natural Naming 3.4 has its name 8 up as "existing going on as discovering, … 5-now-co-existing to 13-is-next-discovering". Exhibit ONE has "Existing has 5-now-co-existing", "bi-couplings". 17 is 17-next-existing.
+- **[read, the code's lines]** 5's name is in five lines, each of 9 or of 17, and in no line of 1. 17 is given two: 16, each self with its priors and arrivings, and 5. 5 is what next-existing has of the now beside the selves: the bi-couplings now existing, by which each sharing reaches its next.
+- **[read, Natural Naming 3.3]** "Each name's three is its prefixing with the 1–17 scale, beside its name and not in it", and each name has its prior name beside it also, 5's being 5-co-bi-co-competencing.
+- **[rolled]** As the name: now and next are then both in one name, and its one binary of now or next is not read from it; and five lines of the code have the name. As a saying beside the name: it says what the lines have of 5, the now's co-existing that next-existing goes on by, as "5 is the first co-discovering of now-existing as a bi-coupling" says it.
 
 ---
 
@@ -411,7 +416,8 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Is the first co-observing of a new bi-coupling a self's first prior, the same as the other's me-parity: is, or is not? **Said: not a correct understanding. The self was living prior; the bi-coupling's new priors are the me-parities of self and other. The centre is corusing at 24.**
 - Is a bi-coupling's corus the name its two selves have the same, 4-now-co-same-existing: is, or is not? **Said: 4 is floating across, neutralling along, co-linearizing the aiming of the cones of self and other.**
 - Is neutralling 12's 0, a self's prior the same as its other's arriving: is, or is not? **Said: neutralling is linearizing the path of the 0s.**
-- In "5, 10, 15, 20 and 25 are locating 23 and 24", is 5 the name 5-now-co-existing: is, or is not? (untangled from a question of fives and fifths, too dense)
+- In "5, 10, 15, 20 and 25 are locating 23 and 24", is 5 the name 5-now-co-existing: is, or is not?
+- Is 5-now-co-next-existing a saying beside the name, the name in the code going on as it is: is, or is not? (untangled from a question of fives and fifths, too dense)
 - Are 23 and 24 co-parity and bi-parity of the fifth five, the same and the not the same: is, or is not?
 - Is floating a me-parity going across, each self's own: is, or is not?
 - Is a new bi-coupling given to resolving, as a new self is, with no line making it: is, or is not?
