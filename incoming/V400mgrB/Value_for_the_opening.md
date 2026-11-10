@@ -379,13 +379,18 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[said]** A set without a name is-not possibly existing. A set with its own name is the now-existing things in the set, owned by the name.
 - **[read, the code's lines]** Each set of the code is with one of the seventeen names, and none is with no name: 16, each self; 3, a self's priors; 2, what arrives. Within each, each thing is with its own key: a self with its 13, a me-parity with its 4. The things of one 4 with one moment are each self's me-parity of that name.
 - **[rolled]** A set is its name's now-existing things and nothing beside them: "a set is a non-existing thing" and "a set is only its things" each go on with it. With a leaving, the thing not now-existing is not of the set, and the set has no prior of its own beside its things' priors: each thing owned is a same-existing thing, and the two namings are both is. With a born moment, one owned thing has no prior the same, and both are is-not, together. With the said sentence neither naming is not the same as the other, in each case: one naming.
+- **[said]** A name for a null-set is nothing; this is also not a thing; and no thing; and no other thing is this. These are the four inversions that assure the social moral competency inside a living thing, with non-living things inside the living.
+- **[read, Natural Naming 6.1 and 6.2]** "Four invisibles, one invisibility four ways": each side's own morality, "its parity is each side's own"; each side's own corus, "it is its own and does not go across"; a neutral, "with two coming, nothing occupying it, and nothing is with it to name"; a between of moments, "nothing rests, nothing is with it". "**One invisibility, four ways**: nothing with any of them for anything to reach." And "These eight rows are eight clusters, and four invisibles, one invisibility four ways, are under them, each under two."
+- **[read, the code's lines]** A name of a self's prior with nothing arriving has 15 as a 0, Exhibit ONE's "a 0 … with an empty set surfacing". The code has a name with a null-set as a 0, a between, and a 0 arriving is within neither 3 nor 2 of the self it reaches.
+- **[rolled]** The said four and Natural Naming's four are each one nothing four ways, and Natural Naming has its four under eight, each under two: four assuring eight. Which of the said four is which of Natural Naming's four is not read from either.
 
 ---
 
 ## 6 Open, each one binary
 
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
-- Is a name with no now-existing thing possibly existing: is, or is not?
+- Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
+- Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not?
 - Of *a universal set* and *a same-existing set*, one naming: which name goes on?
 - Is living said of a non-existing thing: is, or is not? Sentence 16 has living and non-living "of a now-existing thing"; a parity is a living non-existing thing; the Equilibria Registry 1.3 has "a living nothing and an existing nothing".
 - Does each now-existing thing, living or non-living, have a universal-parity, itself and no other, with living the discovering of it as its own: is, or is not?
