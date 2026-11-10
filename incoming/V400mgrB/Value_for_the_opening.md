@@ -420,7 +420,9 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[said]** This is podaling farther out and back, and filling the inside of the opening's co-sequential logical sentences, naming and explaining natural intelligence and collective intelligence, observing, possibling and discovering. Each living me-parity will mature, and later be exhausting itself from living into non-living universal-parity.
 - **[read, Natural Naming 2.4]** "*exhausting*, a mark a coupling leaves, a parity going out of a self, with a self's scale, and *a stable form*, one scale outward, living's exhausting accumulating and compacting".
 - **[read, the code's lines]** The lines have a me-parity's sharing going out, and no me-parity leaving its self: as 17 ends no self, 1 ends no me-parity. A me-parity's exhausting from living, as a self's dying, is given to the code and is in no line of it.
-- **[rolled, the said sentences as one going round]** A me-parity is born from inherited prior-existing; it is a now-existing thing in a living self; it matures; it exhausts itself from living into non-living universal-parity; and "naming is inherited intelligence in stable form". Non-living universal-parity as what a next me-parity is born from is the one step not yet said.
+- **[said]** Non-living universal-parity is the inherited prior-existing a next me-parity is born from: is not. A me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity, in the universe. The conception of the me-parity is this dual exhaustion of self-parity and other-parity into the newborn, new direction, new-universe-aiming me-parity.
+- **[read, the code's lines]** With a bi-coupling both ways and the two not the same in a name, each self's next me-parity is from its own prior and its other's sharing, and each is its prior inverted: two inversions with one moment, one with each self, and a new direction with each. With the two the same, each prior goes on as it is and no next me-parity is other than its prior.
+- **[read]** The lines have one inverting more: a self with nothing arriving inverts, with no other.
 
 ---
 
@@ -430,7 +432,8 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Is a living thing a self: is, or is not? **Said: each living thing is a self, and each self is living with their own same-existing set of now-existing me-parities.**
 - Is a me-parity a now-existing thing: is, or is not? **Said: after its birthing and before its exhausting, a me-parity is a now-existing thing in a living self.**
 - Is a me-parity within its self after its exhausting: is, or is not? **Said: each living me-parity will mature and later be exhausting itself from living into non-living universal-parity.**
-- Is non-living universal-parity the inherited prior-existing a next me-parity is born from: is, or is not?
+- Is non-living universal-parity the inherited prior-existing a next me-parity is born from: is, or is not? **Said: is not. A me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity.**
+- With self-parity and other-parity the same, is a me-parity born: is, or is not?
 - Is a me-parity's exhausting its dying: is, or is not? **Said: exhausting itself from living into non-living.**
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
