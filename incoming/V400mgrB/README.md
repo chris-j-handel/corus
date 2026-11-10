@@ -16,6 +16,7 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 
 - `Value_for_the_opening.md`, the working's value whole: each sentence said, each reading of Exhibit ONE v391's code line by line, each rolling forward for breaking, each parted rolling struck beside what parted it, and each open binary.
 - `The_Share_Current.md`, the managing working's one share: each motion with its parity, the accounting, the order of work and each concern an other self can help with.
+- `Sessions_resolved.md`, four sessions each read whole, each value with its place or dissolving, and each binary a suggesting can resolve, with its letter.
 - This report.
 
 ## 3 Each section of the value, with the gathering it meets
