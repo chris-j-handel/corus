@@ -43,4 +43,6 @@ About twenty-eight items at Natural Intelligence's gathering-value carry Exhibit
 
 ## 7 · The sweep not yet done
 
+**Mended at a later sitting: the gathering files named below are swept already**, at `incoming/v395/exhibit_one/exhibit_one_sources.md` on the `archive` branch, one hundred sixty-eight droplets with each one's source, section, kind and verbatim text, which the plan at this file's gathering-value names at its path. The sweep that is open is of the living files, which that list does not reach. Read it before sweeping any gathering file by hand.
+
 Values naming Exhibit ONE stand at thirty-two gathering files beside Exhibit ONE's own. Read at this sweep: Natural Intelligence's, the largest. Read at none yet, in their order by what each carries: Me's, the Co-Chaining Logic Registry's, Natural Chemistry's, the Equilibria Registry's, Natural Intelligence Corus's, Natural Societies' and Natural Illustrating's, then Natural Physics', Natural Networking's, the Living Ghost Registry's, Natural Philosophy's and Natural Explaining's, then the rest at one or a few each. Each value found there is one that meets a sentence of Exhibit ONE and stands at Exhibit ONE's gathering-value at none.

@@ -13,7 +13,7 @@ Incoming · Natural Resolver Improving · the standing
 | 3 | each of the seventeen names at the exactness standard | **not executed**; its frame now stands, the cone's five parts with each root's one sense, and each name's own deriving |
 | 4 | each section shown whole, numbered and agreed before it is written | **not executed** |
 | 5 | its open concerns, the largest first | **worked, out of the plan's order**: the tables' standing, the beat's naming and the opening that is no now-existing thing each found resolved at their derivings; the 0 found three with code; the beat's executing isolated as the one bound open at both sides |
-| 6 | its gathered droplets co-chained in, each executed again with the code first | **not executed, and grown**: eleven explainings laid into this gathering, with further value found at other gathering files and at two living files |
+| 6 | its gathered droplets co-chained in, each executed again with the code first | **not executed, and grown**: eleven explainings laid into this gathering. Its gathered list of one hundred sixty-eight stands at `incoming/v395/exhibit_one/exhibit_one_sources.md` on the `archive` branch, each droplet with its source, section, kind and verbatim text; this working swept gathering files by hand before opening it, and most of what it found there that list holds already |
 | 7 | the waiting draft edited by hand, its do-no-harm check at the kit, sixty-one sentences by their claim | **not executed**; the waiting draft stands entered by nothing |
 
 ## 2 · What has entered the set from this working
