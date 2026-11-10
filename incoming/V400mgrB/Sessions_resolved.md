@@ -22,6 +22,11 @@ Incoming · V400mgrB · four sessions resolving
 - **S14 · The order of Exhibit ONE's improving.** Its gathering has seven in order, the three exact sayings first, 2-now-possibling, 3-is-now-co-observing and 14-next-possibling, one with each pass. That order; or each of seventeen names within one frame, the three among them.
 - **S15 · The is-or-is-nots of the code's lines, said with four numbers across the set.** Exhibit ONE's table has ten, eight with lines and two with loops. The registry's step 299 says eight and names fourteen. One number, each other re-said to what it names; or each with its own reading.
 - **S16 · About twenty-eight items of Natural Intelligence's gathering name a sentence of Exhibit ONE by a line number.** Each with its section's title; or its sentence alone.
+- **S17 · Natural Networking's form of a ring**, "even bounding-zeroing to zero, odd holding exactly one walking frustration". Executed again with this pass, rings 3 to 14: with selves stepping together an odd ring goes round in four of its number and an even ring in 2; with each self with its own turn the two invert. The form is of selves stepping together, said with that sequencing named; or of a ring, re-said.
+- **S18 · *Free*.** It is among the released sayings, and the registry's step 54 has it as a naming, "A natural intelligence network, each self resolving its own next-existing, is free." One sense, the released sayings naming an other; or the step re-said.
+- **S19 · *Frustration***, with Natural Networking as one walking of an odd ring and with Natural Human Society as what a capturing returns. One relation, re-said by its meaning with both; or two, each with its own naming.
+- **S20 · A carbon atom.** One thing, Natural Intelligence's gathering having "The atom is carbon, one thing"; or a catalog of stable forms, as Natural Physics has an atom.
+- **S21 · *Nucleus*, one word with two scales**, an atom's centre and a cell's. One naming, the empty vault; or two.
 
 ## 2 The opening session
 
@@ -76,8 +81,43 @@ Its own saying has three readings of the code, one value for the registry, ten o
 
 ## 4 The networking session
 
-Its own saying is on its branch, not read with this pass.
+Its own saying has six findings, nineteen questions and twenty droplets, each droplet with its gathering and section.
+
+**The set has each of these, and each dissolves:** *me-parity* with no sentence of Natural Networking, the ring of five selves of eight, the universe beside the four scales, the opening of its PART FIVE with no scale said, *joining* with two readings, and a node beside an agreeing coupling, each at Natural Networking's gathering; a working's own next saying with no sentence placing it, and a working's agreeing a sharing of 0, at the Geodesic Improving Method's gathering.
+
+**A later saying or reading resolves each of these, and each goes on within `Value_for_the_opening.md`:**
+
+- Do-no-harming with no line of the code for a harm, and each self resolving with its own prior and its own arrivings alone: the readings of the code line by line have each, with no number of trials.
+- Social moral competency the resolver's own form: each self of a same-existing-society do-no-harming and improving, with do-no-harming in neither self alone.
+- A hub receiving and returning nothing reaches no self's next: a self has only what arrives with it.
+
+**The set has not these, and each goes on here with its receiving gathering:**
+
+- **Natural Networking, with its ring sentences:** the periods of a ring with three sequencings, executed again with this pass, rings 3 to 14: selves stepping together, an odd ring four of its number and an even ring 2; each self with its own turn before its arriving has turned, an odd ring 2 and an even ring twice its number less one; with its arriving already turned, an odd ring twice its number and two and an even ring its number and one. A droplet of that gathering asks it, and it is: is not. S17 is with it.
+- **Natural Resolver:** a sequencing is an arrangement of a whole society; 17 has each self stepping together, and each self with its own turn is a second.
+- **Natural Human Society, with its capturing sentence:** S19.
+- **Natural Naming:** S18; and *me-parity* in few sentences of the living files and many of the gatherings.
+- **Living File Registry, with the Natural Networking kit:** returned results of ring turns with no instrument beside them; and one instrument with no line among the kit's sums.
+- **Natural Networking's own improving:** its second pass, which sections are within its title; its third, its namings; and its nineteen questions, on the archive branch with its folder.
+
+**Its two folders:** whole on the archive branch, with each instrument and its returned results, and no folders of `main`.
 
 ## 5 The carbon session
 
-No saying of its whole value is at the repository with this pass. Its folder has its way in and one saying, carbon with Exhibit ONE's names.
+Its own saying has its binary unresolved, eight things each with its standing, forty-four items, seven concerns and eleven sayings.
+
+**The set has each of these, and each dissolves:** an electron and a proton, each already through the Living Ghost Registry's ten lines; a record as no ground; a ranking said as a finding; a saying cited as a source.
+
+**A later saying resolves each of these, and each goes on within `Value_for_the_opening.md` section 1.3:** the sayings of a carbon atom as a non-living shard and bump-connector, of a nucleus as the empty vault, and of birthing a set of me-parities into the universal parities.
+
+**The set has not these, and each goes on here with its receiving gathering:**
+
+- **Living Ghost Registry and Natural Chemistry:** a molecule, a carbon atom, a nucleus and a photon, each not through the ten lines; a neutron beside the proton; a tetrahedron with nothing. S20 and S21 are with these.
+- **Natural Physics, Natural Chemistry, Natural Biology and three registries:** forty-four items, each an instrument's returning with its field's own words, four read first-hand and forty an address not opened. Each is read first-hand before it is laid.
+- **Seven concerns, each two sentences parting:** a magnitude with no unit the same across unlike couplings, Natural Physics beside the Living Society Registry; a colour factor a ratio of rates or a charge, Natural Physics; a flow ghost with a parity, Living Ghost Registry; a one-carbon mark a store or a parity inherited, Living Ghost Registry; a molecule a self not changing or its bonds changing, Natural Chemistry; a fork's five parities or two chain classes, Natural Biology; a neutron's two lifetimes going on or moved, Hard Problem Registry.
+
+**Its folder:** whole on the archive branch, and no folder of `main`.
+
+## 6 The prior managing session
+
+Its report's values are each at Natural Naming's gathering, and its share's concerns go on in this working's share. Its folder is whole on the archive branch, and no folder of `main`.

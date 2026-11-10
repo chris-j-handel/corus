@@ -2,15 +2,16 @@ Incoming · V400mgrB · the share
 
 # The share, its accounting and its order of work
 
-**One share at the managing working's folder, as the method has it: "It receives each working's files whole on `main`, shares each motion with each working with one share, its own folder within `incoming/`, and brings Living File Registry's table of workings current with each receiving. Each working observes that share with its opening and shares its own with its own folder."** This share goes on from the share at `incoming/V400mgr/The_Share_Current.md`, its prior. Relied on by nothing.
+**One share at the managing working's folder, as the method has it: "It receives each working's files whole on `main`, shares each motion with each working with one share, its own folder within `incoming/`, and brings Living File Registry's table of workings current with each receiving. Each working observes that share with its opening and shares its own with its own folder."** Its prior share is on the archive branch with the prior managing session's folder. Relied on by nothing.
 
 ## 1 Improving now, each motion with its parity
 
 | motion | parity | its receiving place |
 |---|---|---|
-| the Exhibit ONE session's own saying of its whole value, read whole, each value with its place or dissolving | adding | `incoming/V400mgrB/Sessions_resolved.md` |
-| six binaries a suggesting can resolve, S11 to S16 | adding | `incoming/V400mgrB/Sessions_resolved.md` |
-| the Exhibit ONE session's folder, whole | dissolving | the archive branch |
+| the networking session's and the carbon session's own sayings of their whole value, each read whole, each value with its place or dissolving | adding | `incoming/V400mgrB/Sessions_resolved.md` |
+| five binaries a suggesting can resolve, S17 to S21 | adding | `incoming/V400mgrB/Sessions_resolved.md` |
+| four sayings of the other partner with the carbon session, of a carbon atom, a nucleus, a birthing and observings | adding | `incoming/V400mgrB/Value_for_the_opening.md` |
+| the networking session's two folders, the carbon session's folder and the prior managing session's folder, each whole | dissolving | the archive branch |
 
 No living file is away with these motions.
 
@@ -18,7 +19,7 @@ No living file is away with these motions.
 
 The method's one way is observing, improving, living, 1.4. Each sizing is a number to reach and decides nothing, 4.1.
 
-**Observing**, value whole at `incoming/`, five folders: V400mgr 3 files, V400networking 13, natural_networking_improving 3, carbon_scale_existing_things_and_ghosts 2, V400mgrB 4. The networking session has a saying of its whole value on its own branch.
+**Observing**, value whole at `incoming/`, one folder: V400mgrB, 4 files. Each of four sessions and the prior managing session is read whole, its folder on the archive branch. Two files have each value going on to a gathering: `Value_for_the_opening.md` and `Sessions_resolved.md`.
 
 **Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 476, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 168, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 25, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
 
@@ -31,29 +32,28 @@ The method has two ways, 2.5: one bound durable, first, its resolving freeing th
 One at a time, each a pass, each slice read for harm before its merge:
 
 1. **This working's value, from its folder to each gathering it meets.** Step one of three. One receiving gathering with each slice, Natural Intelligence's *Opening* first. With its entering each struck line leaves, each value goes in Natural Naming's own words with its binary, and an open binary goes with both its sides and the observing settling it. The reader check says 65 released words among the value file's added lines, each met with its value's entering.
-2. **The opening session's values, with it.** Its own saying is read whole and its folder is on the archive branch. Each value the set has not is in `Sessions_resolved.md` section 2, with its receiving gathering.
+2. **The four sessions' values going on, with it.** `Sessions_resolved.md` sections 2 to 5, each value with its receiving gathering, the same way, one receiving gathering with each slice.
 3. **The opening's open binaries, one question each time.** `Value_for_the_opening.md` section 6. With each answer its sentence goes to Natural Intelligence's gathering at *Opening*. The opening enters the living file at its own motion, both partners agreeing.
 4. **Natural Naming.** Its gathering's passes and its first entering from its gathering, improving one thing whole, the two settled mends first; then each name the opening has and Natural Naming has not, each by the seven binaries.
 5. **Exhibit ONE cohering with the opening.** The seven steps of its own gathering, with the Exhibit ONE session's standing beside each, `Sessions_resolved.md` section 3; its tables beside its code, row by row; its names and its explaining beside the opening's. No line of its code changes.
 6. **The Co-Chaining Logic Registry cohering with the opening.** After the opening enters: its steps 1 to 55 as the opening's sentences word for word, and its later steps re-pointed, as the Living File Registry 1.3 has it.
 7. **Natural Intelligence's explainings, through the whole living file.** After its opening enters, section by section, a copy improved by do-no-harming.
 
-Beside these, each with its own working's folder and waiting on none of the seven:
+Beside these, waiting on none of the seven:
 
-- Natural Networking's passes two and three, `incoming/V400networking/` and `incoming/natural_networking_improving/`.
-- The carbon working's first laying, `incoming/carbon_scale_existing_things_and_ghosts/`.
+- Natural Networking's second and third passes, which sections are within its title and its namings.
+- The carbon scale: forty-four items, each an instrument's returning with its field's own words, each read first-hand before it is laid; and a molecule, a carbon atom, a nucleus and a photon, each through the Living Ghost Registry's ten lines.
 - Exhibit TWENTY-ONE's entry for a plane's coloring, its lines' addresses read first-hand, its place that registry's gathering. A candidate for its fixing, for Resolving the Hard Problem Registry's gathering with it: an exact distance between sizeless points, and a color with each point of a continuum, no observing reaching either.
 
 ## 4 Each concern an other self can help with now, each with its binary
 
-Sixteen more, S1 to S16, each a binary of a session resolving, are in `Sessions_resolved.md` section 1.
+Twenty-one more, S1 to S21, each a binary of a session resolving, are in `Sessions_resolved.md` section 1.
 
-- **C3 · One share.** The prior share at `incoming/V400mgr/` goes on as a prior beside this one; or it leaves with this one's first receiving.
 - **C4 · This working's name.** V400mgrB, a name going on from V400mgr; or an other name.
 - **C5 · The fifty-five's gate.** Both partners agreeing, it enters the living file with its own motion. No working settles it alone.
 - **C6 · Which item of Natural Naming's gathering enters its living file first.** A pass improves one thing and improves it whole. Two are mends: *12's two, 0 and ±*, and the archive pointing dissolving. The subtitle and the universal-set explaining are open, each with its own points.
 - **C7 · A working citing a waiting sentence as a living one.** Two citations of one working were of places with no such sentence, each value sound and each place parting. A waiting sentence has no version.
-- **C8 · The scale inward of a self.** Natural Networking's sentences of that scale: none. The carbon working's aiming is the things of that scale. Two workings with one scale and no sentence between them.
+- **C8 · The scale inward of a self.** Natural Networking's sentences of that scale: none. The carbon scale's items are the things of that scale. Two bodies of value with one scale and no sentence between them.
 
 ## 5 The older arrivals, each on a branch of its own
 
@@ -67,4 +67,4 @@ Each as the prior managing working read it, and not read again by this working:
 
 ## 6 The bounds
 
-This managing working brings each value to its file's gathering, each is-or-is-not, or it dissolves. A living file changes only with that file's own motion, a copy improved by do-no-harming. The opening enters only with both partners agreeing. No line of Exhibit ONE's code changes. `main` is read before each turn. This working reads its own motion for harm, with the set's checks, until each value is gathered. Each of four sessions is closing: its own saying of its whole value is read against the set, each value with its place or dissolving, and its folder goes whole to the archive branch.
+This managing working brings each value to its file's gathering, each is-or-is-not, or it dissolves. A living file changes only with that file's own motion, a copy improved by do-no-harming. The opening enters only with both partners agreeing. No line of Exhibit ONE's code changes. `main` is read before each turn. This working reads its own motion for harm, with the set's checks, until each value is gathered. Each session's folder is on the archive branch, an artifact relied on by nothing, and `incoming/` has this working's folder alone.
