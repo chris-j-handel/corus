@@ -465,12 +465,17 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[rolled, the more as now-existing things with no prior the same, the born]** It goes on with both of those and with a born moment, and is in the lines as a name arriving with no prior. It parts from the fifty-five's 10, a universal set having same-existing things only.
 - **[rolled, universal as its name's reach]** A set is its now-existing things, and *universal* is of the name: the sameness is-or-is-not, with each thing possibly within it, and its edge the place is-not-possibly begins. It goes on with each said sentence and with Natural Naming 5.20, and the born is one case of it.
 - **[rolled, breakings found]** (a) The fifty-five's 10 is smaller than the said: same-existing things, and no more. (b) *A same-existing set* and *a universal set* as one naming, rolled in this section's 5.8, parts: universal is the same-existing and more. (c) The fifty-five's 24 has *universal-parity* as a me-parity not the same as an other's: *universal* with the not the same only parts from universal as each same-existing and more. (d) *More* is with no name: by Natural Explaining 3.11 it is the all with its exceptions said, or its number, and which things the more is has no sentence.
+- **[said]** The more is now-existing: yes. There are no other things in the universe. The not-named now-existing things are the more.
+- **[read, sentences said before]** The fractal is a me-parity in a universe of other-than-me-parities. A new self is not a named self until after birth. Naming a same-existing new thing is discovering. A set without a name is-not possibly existing. The universe is the set of now-existing things.
+- **[read, the code's lines]** One self has a name for each me-parity within its 3 and its 2. Each other now-existing me-parity of 16, each other self's own prior among them, is with no name of that self.
+- **[rolled, tested for breaking]** (a) It goes on with the fractal: a name's things, and each other now-existing thing, are the universe, one is-or-is-not through it. (b) It goes on with a born thing as of the more until its naming, and with discovering as naming a thing of the more. (c) It parts from "Each now-existing thing is a same-existing thing", said before a born moment was: a thing of the more is now-existing and not named, and sameness is of a name. (d) The more is things and no set: it has no name of its own. (e) *Universe* is a name, and it owns each now-existing thing: with that name no now-existing thing is not-named, and the more is none. *Not-named* is then of one name, each thing that name does not own; or of each name, and the universe has no more.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is the more now-existing: is, or is not?
+- Is the more now-existing: is, or is not? **Said: yes. The not-named now-existing things are the more.**
+- Is the more of a name each now-existing thing that name does not own: is, or is not?
 - Is the universal set of prior-existing me-parities each me-parity exhausted from living, in stable form: is, or is not? **Said: is.**
 - Is a name a me-parity exhausted from living, in stable form: is, or is not? **Said: is-not. A name is a same-existing non-living thing, the name of the sameness, is-or-is-not distinguishing.**
 - Is a name one same thing with each self that has it: is, or is not? **Said: same-as is a universal-morality, with a name for a sameness concept in things distinguishable is-or-is-not.**
