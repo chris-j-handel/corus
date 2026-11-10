@@ -446,12 +446,16 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, the code's lines, four in sequence within 1]** Others' arriving surfacing with 14, from 2: ingesting. A name with no prior having what arrived, 12 from 14: inheriting. A prior with what arrived not the same, inverted: conceiving. 12 as 10, what the self shares: exhausting. Then 11, its next priors.
 - **[read]** No line removes a name's me-parity from a self: each me-parity of a self has a next, with each moment.
 - **[rolled]** In the lines intelligence is the inversioning of prior-existing me-parities, a self's own with others': each possibly next-existing me-parity is a prior-existing one or its inversion, and no other is possibly next. Asked before, whether not-possibly-existing is derived from the universe's priors: with the lines read, what is possibly next is from the priors and the one inversioning, and is-or-is-not has one of the two with each name and each moment. Both.
+- **[said]** The universal set of prior-existing me-parities is each me-parity exhausted from living, in stable form: is.
+- **[read, the code's lines]** Others' me-parities arriving with a self are each an other's sharing, its exhausting: with one self, the universal set of prior-existing me-parities is what its 2 has of it.
+- **[rolled]** Three said sentences are beside each other: the universal set of prior-existing me-parities is each me-parity exhausted from living, in stable form; naming is inherited intelligence in stable form; and an inherited me-parity is a name with no prior. A name as a me-parity exhausted from living, in stable form, is the one step between them not yet said.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is the universal set of prior-existing me-parities each me-parity exhausted from living, in stable form: is, or is not?
+- Is the universal set of prior-existing me-parities each me-parity exhausted from living, in stable form: is, or is not? **Said: is.**
+- Is a name a me-parity exhausted from living, in stable form: is, or is not?
 - Is a not-possibly-existing a thing needing both sides of one is-or-is-not with one moment: is, or is not?
 - Is each of the four threats an unchangeable form laid on a self from beside: is, or is not?
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
