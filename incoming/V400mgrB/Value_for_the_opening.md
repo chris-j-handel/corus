@@ -376,12 +376,17 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[rolled, with a thing entering or leaving]** By its things it is an other set with that moment. With an entering, a born moment, the entering thing has no prior the same: its things are not each same-existing, and it is not the same things: both are is-not, together. With a leaving, a dying, each thing within after it is a same-existing thing, and the things are not the same things as prior: a universal set is, and a same-existing set is-not. A leaving is the one place the two part.
 - **[read, the code's lines]** No line removes a name from a self's 3, and no line removes a self from 16: 11 is 3 with each first prior added, and 17's returning has each self of 16. The code has entering, a first prior, and no leaving. Within Exhibit ONE's lines the two namings are one with each moment, and both is-not with an entering.
 - **[rolled]** A self, a same-existing-society and a living file each have things entering and leaving, and each is said same-existing: a same-existing set said of each is said of what goes on with its name, and not of the same things. Each version turns on one binary: a set is only its things, or a set is its within, an is-or-is-not.
+- **[said]** A set without a name is-not possibly existing. A set with its own name is the now-existing things in the set, owned by the name.
+- **[read, the code's lines]** Each set of the code is with one of the seventeen names, and none is with no name: 16, each self; 3, a self's priors; 2, what arrives. Within each, each thing is with its own key: a self with its 13, a me-parity with its 4. The things of one 4 with one moment are each self's me-parity of that name.
+- **[rolled]** A set is its name's now-existing things and nothing beside them: "a set is a non-existing thing" and "a set is only its things" each go on with it. With a leaving, the thing not now-existing is not of the set, and the set has no prior of its own beside its things' priors: each thing owned is a same-existing thing, and the two namings are both is. With a born moment, one owned thing has no prior the same, and both are is-not, together. With the said sentence neither naming is not the same as the other, in each case: one naming.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.)
+- Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
+- Is a name with no now-existing thing possibly existing: is, or is not?
+- Of *a universal set* and *a same-existing set*, one naming: which name goes on?
 - Is living said of a non-existing thing: is, or is not? Sentence 16 has living and non-living "of a now-existing thing"; a parity is a living non-existing thing; the Equilibria Registry 1.3 has "a living nothing and an existing nothing".
 - Does each now-existing thing, living or non-living, have a universal-parity, itself and no other, with living the discovering of it as its own: is, or is not?
 - Is living defined through its prior, as sentence 3 defines same-existing, each living from prior living, two mes mating, with no first: is, or is not?
