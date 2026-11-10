@@ -14,7 +14,8 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 
 ## 2 This folder
 
-- `Value_for_the_opening.md`, the working's value whole: each sentence said, each reading of Exhibit ONE v391's code line by line, each rolling forward for breaking, and each open binary.
+- `The_Frontier_Current.md`, the current understanding as sentences in their sequence, Exhibit ONE v391's lines beside them, and each place a logical pattern can be filled, one binary each. No self, no day and no story of progress is in it.
+- `Value_for_the_opening.md`, the working's value whole: each sentence of the current understanding, each reading of Exhibit ONE v391's code line by line with its place, and each open binary.
 - `The_Share_Current.md`, the managing working's one share: each motion with its parity, the accounting, the order of work and each concern an other self can help with.
 - `Sessions_resolved.md`, four sessions each read whole, each value with its place or dissolving, and each binary a suggesting can resolve, with its letter.
 - This report.
@@ -30,19 +31,22 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 | 4, values at other living files | Natural Naming, Equilibria Registry, Natural Resolver | each at its sentence |
 | 5 and 5.1, the four and the eight, seventeen droplets | Natural Naming 2.5, 3.6 and 4.16; Natural Intelligence 6.4; Natural Societies 5.5; Natural Human Society 3.3; Natural Networking 5.1; Natural Exploring 4.3 and 4.4; Co-Chaining Logic Registry at 572 to 576; Natural Biology 3.6 and its germline sentences | each droplet at its own |
 | 5.2 to 5.6, the eight inward names, co, bi and tri, podalings, a new bi-coupling | Natural Naming 3.3 and 3.4; Natural Resolver, *Eights* and *Twelve forms* | each at its sentence |
+| 5.7 to 5.14, co-linearizing, a set and its name, a self a corus, a me-parity born and exhausting, four inversionings, intelligence, universal | Natural Intelligence, *Opening*; Natural Naming 5.20, 5.64, 6.1 and 6.2; Co-Chaining Logic Registry at its steps 10, 15 to 19, 24 and 34 | each at its sentence |
 | 6, open, each one binary | no gathering until a binary has both its sides with the observing settling it | |
 | 7, value for the method | Geodesic Improving Method 1.1, 1.6, 2.1, 2.5 and 4.1; Living File Registry 1.3 | each at its section |
 
 ## 4 Not succeeding, each with what goes on in its place
 
-Rollings parted, and none goes on in the value file. Their kinds:
+Goings-forward parted, and none goes on in the value file. Their kinds:
 
 - **A question the sequence could resolve.** In its place: the code's lines and the files read first, and the question only what they leave as one open binary.
 - **A pointing elsewhere**, a binary given to a field's measuring. In its place: each question resolvable within the sequence.
 - **A search read as a reading.** A search of lines was read as the names of each is-or-is-not, and Exhibit ONE's own table of ten parted it. In its place: each reading from the lines, and a search or an executing a check only.
-- **An extending past what was said**, one prefix laid on names not said. In its place: what is said, and the unsaid asked.
+- **An extending past a sentence**, one prefix laid on names the sentence does not have. In its place: the sentence as it is, and what it does not have asked.
+- **A likeness of number read as a correspondence.** In its place: a likeness is a likeness.
+- **A story of progress beside the values**, a self and a day with each sentence. In its place: the current understanding, and each place a pattern can be filled.
 - **Two concepts read as one**, a newborn name with no prior and a new bi-coupling of a self living prior. In its place: each with its own sentence.
-- **A mis-citing**, the eight said at Natural Naming 5.6. The eight are at 3.6 and 4.16.
+- **A mis-citing**, the eight cited at Natural Naming 5.6. The eight are at 3.6 and 4.16.
 - **Dissolved words** in the working's own sentences. In its place: Natural Naming's own words.
 
 ## 5 Method learned, for a working arriving
