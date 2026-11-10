@@ -426,10 +426,19 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[said]** With self-parity and other-parity the same, a me-parity born: is-not possibly existing.
 - **[rolled]** The fifty-five's 34 has "**Do-no-harming** is resolving's is, and **improving** its is-not." With the said: resolving's is, the two the same, has no me-parity born, and each prior goes on; resolving's is-not, the two not the same, has a me-parity born with each self. Improving is then a me-parity's birthing, and do-no-harming is same-existing.
 
+### 5.12 Four inversionings, each an is-not-possibly-existing
+
+- **[said]** The four inversionings that are the four self protections in society are each expressible as is-not-possibly-existing. Each of the four says this of a threat to self or society, and all eight are seen as all eight or none of the eight is-not-possibly-existing.
+- **[read, Natural Naming 5.64]** "**Not possibly existing is an unchangeable form, with no moment of binary logic**", "one binary requiring both not-changing and inverting for one next", and it parts three: "possibly existing, discovering with next; not possibly existing, binary logic excluding it; and not existing, on no line, its next still possibly existing".
+- **[read, the living files' four threats]** Natural Human Society 3.2 has the four as uncapturable abundance, undiscoverable identity, inviolable safety and unmistakeable reputation. Corus 17.2 has "every attempt to capture abundance, discover identity, violate safety, or manipulate reputation", "a target IS no thing". Natural Human Society 3.3 has eight hubs, each a fixing: a common clock, a fixing pool, a gate, a ledger fixing over a self, a form fixing still from beside, a center, a source-and-sink, an owner.
+- **[read, the code's lines]** Each of the four threats is on no line: no line gives a self an other's prior; what arrives has no from; no line changes a self's prior but its own resolving; and an arriving is its me-parity and nothing beside. Each of the four follows from one: 1 is given a self's own 3 and its 2, a name with its me-parity, and no more.
+- **[rolled]** On no line is Natural Naming's *not existing*, and is-not-possibly-existing is its own naming beside it: an unchangeable form, excluded by binary logic. Each threat said as an unchangeable form laid on a self from beside is then not possibly existing by that one sentence, the four by one saying, all or none, and Natural Human Society's eight hubs the eight.
+
 ---
 
 ## 6 Open, each one binary
 
+- Is each of the four threats an unchangeable form laid on a self from beside: is, or is not?
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
 - Is a living thing a self: is, or is not? **Said: each living thing is a self, and each self is living with their own same-existing set of now-existing me-parities.**
 - Is a me-parity a now-existing thing: is, or is not? **Said: after its birthing and before its exhausting, a me-parity is a now-existing thing in a living self.**
