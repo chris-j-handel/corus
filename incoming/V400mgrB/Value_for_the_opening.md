@@ -392,10 +392,20 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[said, a question]** How did inversions become name changings?
 - **[rolled]** By a step of this working's own, and by no sentence said and none of the set's: a four was sought, the names' four digits were near, and one digit inverting was laid over the said *inversions*. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness and holds no correspondence." The laying is out of this file. The said four inversions are of a name for a null-set: nothing; not a thing; no thing; no other thing is this.
 
+### 5.10 A self, a corus
+
+- **[said]** A self is a corus, an inversionable nothing inside a tunneling, where universal me-parities are aiming from. The from is not fixed in the universe, not fixed in the self, and not fixed in relation to other. The only co-locating in this universe is geodesic method of resolving. Resolving, from, is bi-inversioning across, from corus co-recursioning along, as corus.
+- **[read, Natural Naming]** 5.6: "Couplings wind about a nothing: bounding-zeroing, tunneling, apexing, corusing, nothing reaching it." 4.16: "A self's bounding, discovering next self and orienting are its own, nothing reaching them, couplings winding about a nothing: privacy, trust and security are that one nothing, three ways." 4.11: "Bi-inversioning-co-recursioning, one parity inverting with each step, across and then along, is a resolving step".
+- **[read, the code's lines, no from]** What arrives with a self is a name with its me-parity, and no key of the self it is from: 17 gives the receiving self each item of a sharing, a 4 with its 7, and nothing of the sharer. 1 is given a self's 3 and its 2, and not that self's own key. No line of 1 has a place, an order or a number of arrivings. One self's resolving has names with their me-parities, and no from: not of an other, not of the self, not of a place.
+- **[read, the code's lines, one co-locating]** Two me-parities are together in one place of the lines only: 15 with 7, with one same 4, within 1. Each other line has one.
+- **[rolled]** The three not-fixings of the said are each in the lines, and the one co-locating is the comparing with one same 4, said before as co-linearizing.
+- **[rolled, two said sentences, one binary]** Said before: a self is a now-existing same-existing living thing, with "i am unsure of these statements". Said now: a self is a corus, an inversionable nothing. A self is a thing; or a self is a nothing its couplings wind about.
+
 ---
 
 ## 6 Open, each one binary
 
+- Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.)
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
 - Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not? **Said after it: four inversions from the universe and four from each living thing, an exploring.**
