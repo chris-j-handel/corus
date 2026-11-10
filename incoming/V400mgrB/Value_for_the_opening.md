@@ -367,10 +367,21 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[said]** There can be nothing fuzzying any of this. A seeking and a suggesting is no naming, and each incohering resolves out of the living value.
 - **[rolled]** 5-now-co-existing goes on as its name. Each parted rolling is out of this file, and a rolling of fives laid over "5, 10, 15, 20 and 25" is out with them: the said sentence goes on as said, with no reading of it yet.
 
+### 5.8 A same-existing set and a universal set, each version with its inversion
+
+- **[said]** Explore each other possible version of the one question, with the inversion of each, and discover by the geodesic method whether either one is not the same as the other. The answering is bothbothing the two, one self now and the other next, with each turn.
+- **[read, the sentences the two namings have]** The fifty-five's 3, "A **same-existing** thing is the same thing prior-existing before now-existing." Its 10, "A **universal set** is a set of same-existing things." Its 11, "**Is-or-is-not** distinguishes the within of a universal set." A same-existing set has no sentence of its own, and is said within 17, "A living same-existing set is a **self**", within 51, "A **living file** is a non-living same-existing set of words", and within *same-existing-society*. Natural Intelligence has "a set is only its things". Said: a set is a non-existing thing.
+- **[rolled, each version with its inversion]** (a) Each same-existing set is a universal set; inverted, each universal set is a same-existing set. (b) A set is the same set with each of its things the same thing; inverted, each thing of a set is the same thing with the set the same set. (c) A universal set is-or-is-not with a thing entering or leaving; inverted, a same-existing set is-or-is-not with a thing entering or leaving. (d) It is the set that is same-existing; inverted, it is each of its things.
+- **[rolled, with a set only its things]** The same set prior and now is the same things prior and now, so each of its things is a same-existing thing: each same-existing set is a universal set. A set of same-existing things has each of its things the same thing prior and now, so it is the same things prior and now: each universal set is a same-existing set. Each version and each inversion is: is. Neither is not the same as the other.
+- **[rolled, with a thing entering or leaving]** By its things it is an other set with that moment. With an entering, a born moment, the entering thing has no prior the same: its things are not each same-existing, and it is not the same things: both are is-not, together. With a leaving, a dying, each thing within after it is a same-existing thing, and the things are not the same things as prior: a universal set is, and a same-existing set is-not. A leaving is the one place the two part.
+- **[read, the code's lines]** No line removes a name from a self's 3, and no line removes a self from 16: 11 is 3 with each first prior added, and 17's returning has each self of 16. The code has entering, a first prior, and no leaving. Within Exhibit ONE's lines the two namings are one with each moment, and both is-not with an entering.
+- **[rolled]** A self, a same-existing-society and a living file each have things entering and leaving, and each is said same-existing: a same-existing set said of each is said of what goes on with its name, and not of the same things. Each version turns on one binary: a set is only its things, or a set is its within, an is-or-is-not.
+
 ---
 
 ## 6 Open, each one binary
 
+- Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.)
 - Is living said of a non-existing thing: is, or is not? Sentence 16 has living and non-living "of a now-existing thing"; a parity is a living non-existing thing; the Equilibria Registry 1.3 has "a living nothing and an existing nothing".
 - Does each now-existing thing, living or non-living, have a universal-parity, itself and no other, with living the discovering of it as its own: is, or is not?
 - Is living defined through its prior, as sentence 3 defines same-existing, each living from prior living, two mes mating, with no first: is, or is not?
