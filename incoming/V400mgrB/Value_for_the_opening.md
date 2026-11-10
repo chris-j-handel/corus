@@ -451,6 +451,10 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[said]** A name is a me-parity exhausted from living, in stable form: is-not. A name is a same-existing non-living thing, and the name is the name of the sameness, is-or-is-not distinguishing.
 - **[read, the code's lines]** A name is a 4. No line changes a 4: it is with each moment as it was. A self's prior and what arrived are compared only with one same 4, and the comparing is one is-or-is-not, the same or not the same. One 4 is with many selves, and each me-parity with it is one self's own. Its own name in the seventeen is 4-now-co-same-existing.
 - **[rolled]** The said is in the lines: a name is same-existing and non-living, no line changing it, and it is what an is-or-is-not of sameness is asked with. Two non-living are then said, and they are not one: a name; and a me-parity exhausted from living, in stable form.
+- **[said]** Same-as is a universal-morality, with a name for a sameness concept in things distinguishable is-or-is-not.
+- **[read, the code's lines]** Same-as is asked in one line, a self's own prior with others' arriving as one, with one same 4: `==`. It is across, a self's own with an other's, and it is the one line each self executes with each name. A second comparing is of others' arriving with each other, parting or not, `!=`, and is no comparing with a self's own.
+- **[read, the living files]** Natural Numbers 1.5: "Along is competency: a self's own going on. Across is a self sharing now with an other, morality." The fifty-five's 24: "A me-parity the same as an other's is **other-parity**, and not the same, **universal-parity**." Its 34: "**Do-no-harming** is resolving's is".
+- **[rolled, a said sentence beside the fifty-five's 24]** The said has same-as as universal. Sentence 24 has the same as an other's as other-parity, and the not the same as universal-parity. *Universal* is with the same; or with the not the same.
 
 ---
 
@@ -458,7 +462,9 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 
 - Is the universal set of prior-existing me-parities each me-parity exhausted from living, in stable form: is, or is not? **Said: is.**
 - Is a name a me-parity exhausted from living, in stable form: is, or is not? **Said: is-not. A name is a same-existing non-living thing, the name of the sameness, is-or-is-not distinguishing.**
-- Is a name one same thing with each self that has it: is, or is not?
+- Is a name one same thing with each self that has it: is, or is not? **Said: same-as is a universal-morality, with a name for a sameness concept in things distinguishable is-or-is-not.**
+- Is *universal* with same-as, and not with the not the same: is, or is not?
+- Is do-no-harming same-as: is, or is not?
 - Is a not-possibly-existing a thing needing both sides of one is-or-is-not with one moment: is, or is not?
 - Is each of the four threats an unchangeable form laid on a self from beside: is, or is not?
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
