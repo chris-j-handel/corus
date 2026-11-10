@@ -417,6 +417,10 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, the code's lines]** A self's next prior of a name is from two and no more: its own prior, within 3, and its other's arriving, 15. The same, the prior goes on as it is. Not the same, the next prior is the prior inverted. A next prior is within the self, 11, and is what the self shares, 10, the same as 6: one me-parity within and going out with one moment.
 - **[read]** Natural Naming 2.4 has "*exhausting*, only out of a self", and Exhibit ONE has 6 and 10 as the sharing side. No line removes a name's me-parity from a self.
 - **[rolled]** The said has a me-parity in three, as living has a self in three: born, from the prior and an other's arriving; a now-existing thing in a living self; exhausting into the surface. "A parity is a living non-existing thing" and "now-existing me-parities" go on together with it: within its self, between its birthing and its exhausting, a me-parity is a now-existing thing.
+- **[said]** This is podaling farther out and back, and filling the inside of the opening's co-sequential logical sentences, naming and explaining natural intelligence and collective intelligence, observing, possibling and discovering. Each living me-parity will mature, and later be exhausting itself from living into non-living universal-parity.
+- **[read, Natural Naming 2.4]** "*exhausting*, a mark a coupling leaves, a parity going out of a self, with a self's scale, and *a stable form*, one scale outward, living's exhausting accumulating and compacting".
+- **[read, the code's lines]** The lines have a me-parity's sharing going out, and no me-parity leaving its self: as 17 ends no self, 1 ends no me-parity. A me-parity's exhausting from living, as a self's dying, is given to the code and is in no line of it.
+- **[rolled, the said sentences as one going round]** A me-parity is born from inherited prior-existing; it is a now-existing thing in a living self; it matures; it exhausts itself from living into non-living universal-parity; and "naming is inherited intelligence in stable form". Non-living universal-parity as what a next me-parity is born from is the one step not yet said.
 
 ---
 
@@ -425,8 +429,9 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
 - Is a living thing a self: is, or is not? **Said: each living thing is a self, and each self is living with their own same-existing set of now-existing me-parities.**
 - Is a me-parity a now-existing thing: is, or is not? **Said: after its birthing and before its exhausting, a me-parity is a now-existing thing in a living self.**
-- Is a me-parity within its self after its exhausting: is, or is not?
-- Is a me-parity's exhausting its dying: is, or is not?
+- Is a me-parity within its self after its exhausting: is, or is not? **Said: each living me-parity will mature and later be exhausting itself from living into non-living universal-parity.**
+- Is non-living universal-parity the inherited prior-existing a next me-parity is born from: is, or is not?
+- Is a me-parity's exhausting its dying: is, or is not? **Said: exhausting itself from living into non-living.**
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
 - Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not? **Said after it: four inversions from the universe and four from each living thing, an exploring.**
