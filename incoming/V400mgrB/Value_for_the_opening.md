@@ -411,13 +411,22 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[rolled]** The fifty-five's 18, "A self is a universal set of **mes**", is with the said: its own same-existing set of now-existing me-parities, *mes* as me-parities and the two namings of a set one. Its 15, 16 and 19 have *a living thing* as a self, each.
 - **[rolled, two said sentences, one binary]** Said before: a parity is a living non-existing thing. Said now: now-existing me-parities. A me-parity is a now-existing thing; or *now-existing* is said of the now it is with, and a me-parity is no thing.
 
+### 5.11 A me-parity, born, now-existing, exhausting
+
+- **[said]** A me-parity is born from inherited prior-existing. After birthing from the self-parity and other-parity mating, as a newborn me-parity, and before exhausting itself into the surface as universal-parity, a me-parity is a now-existing thing in a living self.
+- **[read, the code's lines]** A self's next prior of a name is from two and no more: its own prior, within 3, and its other's arriving, 15. The same, the prior goes on as it is. Not the same, the next prior is the prior inverted. A next prior is within the self, 11, and is what the self shares, 10, the same as 6: one me-parity within and going out with one moment.
+- **[read]** Natural Naming 2.4 has "*exhausting*, only out of a self", and Exhibit ONE has 6 and 10 as the sharing side. No line removes a name's me-parity from a self.
+- **[rolled]** The said has a me-parity in three, as living has a self in three: born, from the prior and an other's arriving; a now-existing thing in a living self; exhausting into the surface. "A parity is a living non-existing thing" and "now-existing me-parities" go on together with it: within its self, between its birthing and its exhausting, a me-parity is a now-existing thing.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
 - Is a living thing a self: is, or is not? **Said: each living thing is a self, and each self is living with their own same-existing set of now-existing me-parities.**
-- Is a me-parity a now-existing thing: is, or is not?
+- Is a me-parity a now-existing thing: is, or is not? **Said: after its birthing and before its exhausting, a me-parity is a now-existing thing in a living self.**
+- Is a me-parity within its self after its exhausting: is, or is not?
+- Is a me-parity's exhausting its dying: is, or is not?
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
 - Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not? **Said after it: four inversions from the universe and four from each living thing, an exploring.**
