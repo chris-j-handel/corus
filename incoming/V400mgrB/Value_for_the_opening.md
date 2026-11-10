@@ -406,13 +406,18 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[rolled]** The said sentence goes on with each said before it: a set with its own name is the now-existing things owned by the name; a set is a non-existing thing; a self is a corus, an inversionable nothing. A self is no thing beside its now-existing things. "A self is a now-existing same-existing living thing", said with "i am unsure", is resolved by it: a self is a set, and its things are the things.
 - **[rolled]** Ingesting and exhausting are things entering and leaving a self's set: a thing entering is a same-existing thing with its own prior, newly owned, and no born thing.
 - **[value at the fifty-five, sentences 15, 16 and 19]** Each has *a living thing*, and 15 has a living thing as a universal set: a thing as a set. With a self a set and no thing, one binary is with these three: a living thing is a self, *thing* in it re-said; or a living thing is one of a self's things.
+- **[said]** Each living thing is a self. Each self is living with their own same-existing set of now-existing me-parities.
+- **[read, the code's lines]** A self's 3 is each of its names with its me-parity, each moment's: its own set of its now's me-parities, owned by its key.
+- **[rolled]** The fifty-five's 18, "A self is a universal set of **mes**", is with the said: its own same-existing set of now-existing me-parities, *mes* as me-parities and the two namings of a set one. Its 15, 16 and 19 have *a living thing* as a self, each.
+- **[rolled, two said sentences, one binary]** Said before: a parity is a living non-existing thing. Said now: now-existing me-parities. A me-parity is a now-existing thing; or *now-existing* is said of the now it is with, and a me-parity is no thing.
 
 ---
 
 ## 6 Open, each one binary
 
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
-- Is a living thing a self: is, or is not?
+- Is a living thing a self: is, or is not? **Said: each living thing is a self, and each self is living with their own same-existing set of now-existing me-parities.**
+- Is a me-parity a now-existing thing: is, or is not?
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
 - Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not? **Said after it: four inversions from the universe and four from each living thing, an exploring.**
@@ -465,7 +470,7 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Is maturity each me-parity of the inherited set a name with a prior from the self's own now-existing arrivings: is, or is not?
 - Is an inherited me-parity non-living, a name in stable form, until it meets a now-existing other-parity, its inception one me-parity at a time: is, or is not?
 - Are the eight of the vault the four universal-parities of each of the two bi-coupling selves: is, or is not?
-- Is each living thing a self: is, or is not?
+- Is each living thing a self: is, or is not? **Said: each living thing is a self.**
 - Is sentence 10 a universal set, the universe by naming, or a name, a subset of it?
 - In the grid, is the third column all, of one scale with self and other, with a same-existing-society their universe, the fourth?
 - Is the centre of the nine, other now-existing, the between, with the eight around it the assurances?
