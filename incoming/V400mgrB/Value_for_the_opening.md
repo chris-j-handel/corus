@@ -365,6 +365,13 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, the code's lines, 4]** Each sharing is a 4 with its 7. The 4, a name, is the same with each of the two selves; the 7, a me-parity, is each self's own. Of a sharing between two, the name is all the two have the same.
 - **[rolled]** A bi-coupling's two me-parities are about the name the two have the same: a corus with 4, and 24 that corus twenty up.
 
+### 5.7 4-now-co-same-existing, co-linearizing
+
+- **[said]** Floating across, neutralling along, is co-linearizing the aiming of the cones of self and other, in bi-coupling, into bi-moral-co-competencing. This is 4-now-co-same-existing.
+- **[read, the living files]** Natural Naming 5.45: "Bi-co-podaling is floating across and neutralling along, one parity." Natural Naming 2.4: "*Co-orienting* is with co-linearizing, two lines coming co-linear with couplings across". Natural Intelligence: "a self's own corus with 4. Both are co-linear by linear parallelizing and parallel linearizing in turn." Natural Intelligence 4.10: "A between's floating neutralling with φ, floating between its two sides and neutral to both, is golden floating neutralling." Exhibit ONE has 4 as "a whole ordering between self and other", and its name 8 up, 12, as "changing with a bi-coupling".
+- **[read, the code's lines]** A self's prior and its other's arriving are compared only with one same 4: 15 is what arrived with that 4, and it is compared with the 7 of that 4 within 3. With 4, two selves' me-parities are one line. With 12, its name 8 up, that line is a 0, the two the same, or the prior inverting.
+- **[rolled]** "The name its two selves have the same", asked before, is re-said by the said: 4 is the two aimings coming co-linear, and the name is that one line. The rotation 3, 6, 5, 4 has each of its four said: 3 the first co-observing, two priors meeting; 6 co-possibling in the between; 5 the first co-discovering of now-existing as a bi-coupling; 4 co-linearizing, the corus.
+
 ---
 
 ## 6 Open, each one binary
@@ -394,7 +401,9 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - Are the two podalings 1 with 16 and 4 with 13, and 5 with 12 and 8 with 9: is, or is not?
 - Is 3 the centre that 1, 2, 4 and 5 podal about: is, or is not? **Said: 3 is the new bi-coupling's first co-observing, and 5 the first co-discovering of now-existing as a bi-coupling.**
 - Is the first co-observing of a new bi-coupling a self's first prior, the same as the other's me-parity: is, or is not? **Said: not a correct understanding. The self was living prior; the bi-coupling's new priors are the me-parities of self and other. The centre is corusing at 24.**
-- Is a bi-coupling's corus the name its two selves have the same, 4-now-co-same-existing: is, or is not?
+- Is a bi-coupling's corus the name its two selves have the same, 4-now-co-same-existing: is, or is not? **Said: 4 is floating across, neutralling along, co-linearizing the aiming of the cones of self and other.**
+- Is neutralling 12's 0, a self's prior the same as its other's arriving: is, or is not?
+- Is floating a me-parity going across, each self's own: is, or is not?
 - Is a new bi-coupling given to resolving, as a new self is, with no line making it: is, or is not?
 - Is transmissioning co-parities a self sharing on the same as what arrived with it: is, or is not?
 - Are the eight of social moral competency the eight odd names, four co and four tri, with the eight even names its betweens: is, or is not?
