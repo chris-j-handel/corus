@@ -114,7 +114,7 @@ say("One round is each self at its turn once; one momentary of the one beat is e
 say("")
 say(f"{'ring':>5s}  {'one beat':>9s}  {'against the arriving':>21s}  {'with the arriving':>18s}   the one place")
 rows = []
-for n in range(3, 11):
+for n in range(3, 15):
     selves, co_ex = ring(n)
     _, lo_b, t_b = one_beat(selves, co_ex)
     beat = (t_b - lo_b) if lo_b is not None else None
@@ -142,6 +142,18 @@ for n in range(3, 11):
     rows.append((n, beat, per_a, per_w))
 
 say("")
+say("The three period families met at each ring, 4N and 2 stepping together, 2 and 2N−1 against")
+say("the arriving, 2N+2 and N+1 with the arriving, each at an odd ring and at an even ring:")
+parts = []
+for n, beat, per_a, per_w in rows:
+    odd = n % 2
+    expect = ((4 * n) if odd else 2, 2 if odd else 2 * n - 1, (2 * n + 2) if odd else n + 1)
+    got = (beat, per_a, per_w)
+    if expect != got:
+        parts.append((n, expect, got))
+say(f"  {len(rows)} rings executed, a ring parting from its family at {len(parts)} of them"
+    + (f": {parts}" if parts else ""))
+
 same_against = [r for r in rows if r[1] == r[2]]
 same_with = [r for r in rows if r[1] == r[3]]
 say(f"The one beat's period found again against the arriving at {len(same_against)} of {len(rows)} rings; "
