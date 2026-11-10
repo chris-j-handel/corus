@@ -14,7 +14,7 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 
 ## 2 This folder
 
-- `Value_for_the_opening.md`, the working's value whole: each sentence said, each reading of Exhibit ONE v391's code line by line, each rolling forward for breaking, each parted rolling struck beside what parted it, and each open binary.
+- `Value_for_the_opening.md`, the working's value whole: each sentence said, each reading of Exhibit ONE v391's code line by line, each rolling forward for breaking, and each open binary.
 - `The_Share_Current.md`, the managing working's one share: each motion with its parity, the accounting, the order of work and each concern an other self can help with.
 - `Sessions_resolved.md`, four sessions each read whole, each value with its place or dissolving, and each binary a suggesting can resolve, with its letter.
 - This report.
@@ -35,7 +35,7 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 
 ## 4 Not succeeding, each with what goes on in its place
 
-Thirteen rollings parted and are struck in the value file, each beside what parted it. Their kinds:
+Rollings parted, and none goes on in the value file. Their kinds:
 
 - **A question the sequence could resolve.** In its place: the code's lines and the files read first, and the question only what they leave as one open binary.
 - **A pointing elsewhere**, a binary given to a field's measuring. In its place: each question resolvable within the sequence.

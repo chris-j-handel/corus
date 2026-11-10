@@ -8,10 +8,8 @@ Incoming · V400mgrB · the share
 
 | motion | parity | its receiving place |
 |---|---|---|
-| the networking session's and the carbon session's own sayings of their whole value, each read whole, each value with its place or dissolving | adding | `incoming/V400mgrB/Sessions_resolved.md` |
-| five binaries a suggesting can resolve, S17 to S21 | adding | `incoming/V400mgrB/Sessions_resolved.md` |
-| four sayings of the other partner with the carbon session, of a carbon atom, a nucleus, a birthing and observings | adding | `incoming/V400mgrB/Value_for_the_opening.md` |
-| the networking session's two folders, the carbon session's folder and the prior managing session's folder, each whole | dissolving | the archive branch |
+| 4-now-co-same-existing as co-linearizing, and neutralling as linearizing the path of the 0s, each said, with its readings | adding | `incoming/V400mgrB/Value_for_the_opening.md` |
+| each parted rolling, and a rolling of fives and a naming sought of 5, each incohering | dissolving | none |
 
 No living file is away with these motions.
 
@@ -31,7 +29,7 @@ The method has two ways, 2.5: one bound durable, first, its resolving freeing th
 
 One at a time, each a pass, each slice read for harm before its merge:
 
-1. **This working's value, from its folder to each gathering it meets.** Step one of three. One receiving gathering with each slice, Natural Intelligence's *Opening* first. With its entering each struck line leaves, each value goes in Natural Naming's own words with its binary, and an open binary goes with both its sides and the observing settling it. The reader check says 65 released words among the value file's added lines, each met with its value's entering.
+1. **This working's value, from its folder to each gathering it meets.** Step one of three. One receiving gathering with each slice, Natural Intelligence's *Opening* first. With its entering each value goes in Natural Naming's own words with its binary, and an open binary goes with both its sides and the observing settling it. The reader check says 65 released words among the value file's added lines, each met with its value's entering.
 2. **The four sessions' values going on, with it.** `Sessions_resolved.md` sections 2 to 5, each value with its receiving gathering, the same way, one receiving gathering with each slice.
 3. **The opening's open binaries, one question each time.** `Value_for_the_opening.md` section 6. With each answer its sentence goes to Natural Intelligence's gathering at *Opening*. The opening enters the living file at its own motion, both partners agreeing.
 4. **Natural Naming.** Its gathering's passes and its first entering from its gathering, improving one thing whole, the two settled mends first; then each name the opening has and Natural Naming has not, each by the seven binaries.
