@@ -400,12 +400,19 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, the code's lines, one co-locating]** Two me-parities are together in one place of the lines only: 15 with 7, with one same 4, within 1. Each other line has one.
 - **[rolled]** The three not-fixings of the said are each in the lines, and the one co-locating is the comparing with one same 4, said before as co-linearizing.
 - **[rolled, two said sentences, one binary]** Said before: a self is a now-existing same-existing living thing, with "i am unsure of these statements". Said now: a self is a corus, an inversionable nothing. A self is a thing; or a self is a nothing its couplings wind about.
+- **[said]** A self is a same-existing set of now-existing things.
+- **[read, the fifty-five]** Its 17: "A living same-existing set is a **self**." Its 15: "A **living** thing is a universal set observing, possibling and discovering its own next-existing."
+- **[read, the code's lines]** A self within 16 is its key, 13, with its 3 and its 2, and no line has a self beside its key and those two: a name owning its now's me-parities. 17's returning has each key of 16 again, with that self's next 3 and next 2: the key goes on, and what it owns is each moment's.
+- **[rolled]** The said sentence goes on with each said before it: a set with its own name is the now-existing things owned by the name; a set is a non-existing thing; a self is a corus, an inversionable nothing. A self is no thing beside its now-existing things. "A self is a now-existing same-existing living thing", said with "i am unsure", is resolved by it: a self is a set, and its things are the things.
+- **[rolled]** Ingesting and exhausting are things entering and leaving a self's set: a thing entering is a same-existing thing with its own prior, newly owned, and no born thing.
+- **[value at the fifty-five, sentences 15, 16 and 19]** Each has *a living thing*, and 15 has a living thing as a universal set: a thing as a set. With a self a set and no thing, one binary is with these three: a living thing is a self, *thing* in it re-said; or a living thing is one of a self's things.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.)
+- Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
+- Is a living thing a self: is, or is not?
 - Is a set only its things: is, or is not? (The one binary each version of "a same-existing set is a universal set" turns on.) **Said: a set without a name is-not possibly existing; a set with its own name is the now-existing things in the set, owned by the name.**
 - Is a name with no now-existing thing possibly existing: is, or is not? **Said: a name for a null-set is nothing, not a thing, no thing, and no other thing is this.**
 - Are the four inversions Natural Naming's four invisibles, one nothing four ways: is, or is not? **Said after it: four inversions from the universe and four from each living thing, an exploring.**
