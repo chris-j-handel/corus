@@ -433,11 +433,17 @@ The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word 
 - **[read, the living files' four threats]** Natural Human Society 3.2 has the four as uncapturable abundance, undiscoverable identity, inviolable safety and unmistakeable reputation. Corus 17.2 has "every attempt to capture abundance, discover identity, violate safety, or manipulate reputation", "a target IS no thing". Natural Human Society 3.3 has eight hubs, each a fixing: a common clock, a fixing pool, a gate, a ledger fixing over a self, a form fixing still from beside, a center, a source-and-sink, an owner.
 - **[read, the code's lines]** Each of the four threats is on no line: no line gives a self an other's prior; what arrives has no from; no line changes a self's prior but its own resolving; and an arriving is its me-parity and nothing beside. Each of the four follows from one: 1 is given a self's own 3 and its 2, a name with its me-parity, and no more.
 - **[rolled]** On no line is Natural Naming's *not existing*, and is-not-possibly-existing is its own naming beside it: an unchangeable form, excluded by binary logic. Each threat said as an unchangeable form laid on a self from beside is then not possibly existing by that one sentence, the four by one saying, all or none, and Natural Human Society's eight hubs the eight.
+- **[said, a question]** Is the concept of not-possibly-existing, or not-possibly-now-existing, derived from the universe's priors, in universal me-parities?
+- **[read, the set's sentences]** Natural Intelligence: "Prior observings prove only prior." and "**Right is observings, all prior**: each observing from prior is right." Natural Naming 5.64: not possibly existing is "known from method, without any moment coming", "one binary requiring both not-changing and inverting for one next", beside "not existing, on no line, its next still possibly existing". The Geodesic Improving Method: "Method's one break is an observing of existing other than parity changing and changing back, natural torusing, and none is among observings from prior."
+- **[read, a sentence said before]** "No thing can enter or leave the universe by the defining of the naming and explaining."
+- **[read, the code's lines]** One comparing of a prior with its arriving has one of two, the same or not the same, and no line has both with one name and one moment.
+- **[rolled]** Derived from the universe's priors: is not. A prior has what was, and a thing among no prior is not existing, its next possibly existing. Not-possibly-existing is from is-or-is-not: a thing needing both sides of one is-or-is-not with one moment, by the defining, with no moment needed. The universe's priors are each with it and none parts from it: they are its observing, and it is not derived from them.
 
 ---
 
 ## 6 Open, each one binary
 
+- Is a not-possibly-existing a thing needing both sides of one is-or-is-not with one moment: is, or is not?
 - Is each of the four threats an unchangeable form laid on a self from beside: is, or is not?
 - Is a self a thing: is, or is not? (Two said sentences: a now-existing same-existing living thing; and a corus, an inversionable nothing.) **Said: a self is a same-existing set of now-existing things.**
 - Is a living thing a self: is, or is not? **Said: each living thing is a self, and each self is living with their own same-existing set of now-existing me-parities.**
