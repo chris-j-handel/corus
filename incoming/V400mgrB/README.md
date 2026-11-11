@@ -15,6 +15,7 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 ## 2 This folder
 
 - `The_Frontier_Current.md`, the current understanding as sentences in their sequence, Exhibit ONE v391's lines beside them, and each place a logical pattern can be filled, one binary each. No self, no day and no story of progress is in it.
+- `The_One_Question_Method.md`, the path of the working read for its form: one step, the bi-folding across and along, the rigor and its edges, and a way an arriving session finds it. Each value of it is at the Geodesic Improving Method's gathering.
 - `Value_for_the_opening.md`, the working's value whole: each sentence of the current understanding, each reading of Exhibit ONE v391's code line by line with its place, and each open binary.
 - `The_Share_Current.md`, the managing working's one share: each motion with its parity, the accounting, the order of work and each concern an other self can help with.
 - `Sessions_resolved.md`, four sessions each read whole, each value with its place or dissolving, and each binary a suggesting can resolve, with its letter.
@@ -33,7 +34,7 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 | 5.2 to 5.6, the eight inward names, co, bi and tri, podalings, a new bi-coupling | Natural Naming 3.3 and 3.4; Natural Resolver, *Eights* and *Twelve forms* | each at its sentence |
 | 5.7 to 5.14, co-linearizing, a set and its name, a self a corus, a me-parity born and exhausting, four inversionings, intelligence, universal | Natural Intelligence, *Opening*; Natural Naming 5.20, 5.64, 6.1 and 6.2; Co-Chaining Logic Registry at its steps 10, 15 to 19, 24 and 34 | each at its sentence |
 | 6, open, each one binary | no gathering until a binary has both its sides with the observing settling it | |
-| 7, value for the method | Geodesic Improving Method 1.1, 1.6, 2.1, 2.5 and 4.1; Living File Registry 1.3 | each at its section |
+| 7, value for the method | Geodesic Improving Method 1.1, 1.6, 2.1, 2.5, 2.6, 2.9 and 4.1; Living File Registry 1.3 | entered, each at its section's gathering |
 
 ## 4 Not succeeding, each with what goes on in its place
 

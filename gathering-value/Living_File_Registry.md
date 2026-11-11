@@ -35,6 +35,7 @@ Gathering-Value · Living File Registry
 ### 1.3 The work now, and a session working with the set
 
 - **An explaining** · Natural Intelligence's opening goes on improving at do-no-harm with each next finding, and the whole living file set gathers droplets toward its logic and method, co-sequentially explaining natural intelligence's concepts rolling forward, prior, now and next, by the geodesic improving method.
+- **An explaining** · The work now goes on by one question each time: a sentence arriving, read beside Exhibit ONE's lines and the living files, tested for breaking, and one binary asked plainly. Its home is the Geodesic Improving Method's 2.5 and 2.6 with their gathering, and the sentences now open, each one binary, are with the working's folder within `incoming/`.
 
 ### 1.4 Artifacts
 
