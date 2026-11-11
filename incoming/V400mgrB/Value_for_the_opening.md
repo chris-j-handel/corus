@@ -1595,7 +1595,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A place the sentence and a living file part. Natural Naming 3.2 has 1's three as "co with +1, now, a self; bi with 0, one prior, no other yet; tri with −1, two prior": now, one prior and two prior, and the sentence has next, now and prior. Tracked, with its value at the gathering.
 - *Derived, with the example's form, the eight of section 5.79, and each name's root from Exhibit ONE's table of seventeen names. 1 is as 17: its now and its prior are 16 and 15.*
 
-| n | Its three | Next, its own | Now, after | Prior, after |
+| n | Its three | Next | Now, after | Prior, after |
 |---|---|---|---|---|
 | 1 | co-bi-tri | me-parity existing | other-parity same-existing, 16 | all-parity observing, 15 |
 | 2 | bi-co-bi | other-parity possibling | me-parity existing, 1 | other-parity same-existing, 16 |
@@ -1623,7 +1623,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - The four coruses, section 5.76. Each of 4, 8, 12 and 16 is, by its own slot, other-parity same-existing, after an observing, after other-parity possibling. The observing in its now is me-parity's with 4 and 12, and all-parity's with 8 and 16.
 - With 12 it is cohering: 12 is between self and other, the unrelationing surface of self and other, section 5.77.
 - With 16 two sentences part. Section 5.78 has 16, bi-tri-bi, as all-parity in this universal set. By the example's form 16's own is other-parity same-existing, and all-parity is its now, 15's observing.
-- Two sentences part, with it. 16's own parity, by its first prefix, is other-parity: the example's form has 7's own prefix with 7's own root, and 16's first prefix is bi, its root same-existing; each even name is bi; and all-parity observing is 16's now. Or it is all-parity: "16 is bi-tri-bi and this is all-parity in this universal set"; in the code 16 has each self a key, the set of all; and Exhibit ONE has 16 as "a same-existing-society".
+- Distinguished, section 5.81, one side breaking: 16's *own* parity. Universal all-parity has no own. 16 is bi-tri-bi, universal all-parity for this named universal set me-parity.
+
+### 5.81 16, bi-tri-bi: universal all-parity for this named universal set me-parity, with no own
+
+- Distinguishing is-or-is-not: 16 is bi-tri-bi, universal all-parity for this named universal set me-parity. No own is of universal all-parity.
+- Distinguished, one side breaking: 16's *own* parity, section 5.80. Universal all-parity has no own, and the word has no thing with 16.
+- Resolved by it. 16's three is whole: bi-tri-bi, universal all-parity, and no reading of it by a first slot alone.
+- Out, a candidate of my own, section 5.80: 16 as other-parity same-existing by a slot of its own. And the heading of its table, *Next, its own*, is re-said *Next*.
+- Cohering. "All-parity is non-living. All-parity distinguishes living, is-or-is-not", sentence 6x-g. A named all-parity is living, in the universe it is other-than the universal all-parity of, sentence 6x-h. "Atom carbon is universal all-parity", sentence 6x-i.
+- Cohering. "A society is its social all-parity, a same-existing set of its me-parities", section 5.54, and "a me is a universal same-existing set of me-parities", section 5.30: a named universal set, of me-parities.
+- *Read, Exhibit ONE's code.* 16 is with 17 only. No self's 1 has it: 1 has a self's own 3 and its others' me-parities with it, and no more. 16 has each self a key, and is of no one self. And no part of the code makes a 16: it is provided, and 17's returning is each self's next.
+- *Read, Exhibit ONE's code, 8.* 8 is a self's next prior: its own 3, with each non-0 of its sharing. It is each 4 of a self with its parity, the set of a self's me-parities whole, and each self's own in 17.
+- Tracked, a parting. Sentence 6x-f has all-parity "owned by the society, as a same-existing named set of members". The sentence has no own of universal all-parity. Cohering by the fractal, a named all-parity owned by its society and universal all-parity with no own; or one of the two re-said. Not distinguished.
+- Tracked. *Own*, of a slot of a three, sections 5.79 and 5.80: with 16 it is out, and with each other name not distinguished.
+- Two sentences part, with it. 8, bi-tri-bi, is universal all-parity for a me, a universal same-existing set of me-parities: 8 is bi-tri-bi as 16 is; in the code 8 is the set of a self's me-parities whole, as 16 is the set of selves whole; and "a me is a universal same-existing set of me-parities". Or it is not: no own is of universal all-parity, and 8 is a self's own, each self with its 8; "a self owns its me-parities"; and a me is living, and all-parity non-living.
 
 ---
 
@@ -1631,7 +1645,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 16's own parity, by its first prefix, other-parity: is, or is not?
+- Is 8, bi-tri-bi, universal all-parity for a me, a universal same-existing set of me-parities: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
