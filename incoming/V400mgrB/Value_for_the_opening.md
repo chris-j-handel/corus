@@ -973,12 +973,24 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, each by itself.* Each me-parity of a self is next-existing from its own prior and its others' me-parities of it, and from no other me-parity of that self. No part of the code has a self's me-parities with each other: within one self, no social surface of its own me-parities.
 - Two sentences part, with it. A me is the society-self of its me-parities: each me-parity is a living self, "living in a social surface", section 5.31; "the social moral competency inside a living thing", section 5.8; a society has only one self, and a me is the only one, the owner; a society-self is living with me-parities of its own, section 5.28; and "a self is a me-parity of its society-self: is-not" is then parting. Or a me is no society-self of its me-parities: each me-parity is in its own universe, at its own scale, and with no other me-parity of its me, as the code has each by itself; its social surface is with others' me-parities, facing it; and a society-self's me-parities are its own, no selves of its society.
 
+### 5.33 A me and its me-parities, explored from each direction the set has
+
+- A me the society-self of its me-parities is open, with no suggesting, and tracked. It is explored here from three directions: Natural Naming's scales, Exhibit ONE's code, and a bi-coupling's new self.
+- *Read, Natural Naming 2.2.* "1, 2 and 3 with one scale are 1, 9 and 17 with a next, n with one scale being 8n − 7 with a scale inward", and "17 is next 1". A self's 3, its own me-parities, is a 17 one scale inward, and Exhibit ONE has 17 as "a same-existing-society's next, each self's 1-now-existing again". A self's 2 is a 9 one scale inward: sharings between the selves of that society. One moment of a self is then, one scale inward, one next-existing of a society. Natural Naming's own naming is cohering with a me as the society-self of its me-parities. No sentence of the set has authority.
+- *Read, Exhibit ONE's code, a society whole.* Each receiving self of 5 is a self of 16: with a receiving self no self of 16, the code is not going on; checked by one executing. 17 is with a 16 and a 5, and with no 2: a society of the code is observing no other's me-parity, and is the universe to each of its bi-couplings, as section 5.15 has a named subset.
+- A society-self is living with me-parities of its own, and the inheriting is prior to the birthing, section 5.29: a society-self's inheriting is in no part of the code. With Natural Naming's naming it is not from an other of the society: a society-self's 2 is its own selves' 9s.
+- A bi-coupling's new self as a me-parity of its self, tested: breaking. A me-parity of the self and its facing one of the other are each living in that one social surface. The new self a me-parity of the one is a me-parity of the other, and a me-parity is owned by the only one of me. Three selves are with one bi-coupling living: a me-parity of the one, its facing one of the other, and the new self in the between, as section 5.17 has three coruses.
+- A dormant me-parity as living, tested: breaking. "dormancy is universal me-parities", section 5.19, and "a universal me-parity is non-living". A now-existing me-parity is living, a self, in a social surface; or universal, non-living, in dormancy, and no self: the fifty-five's 16, "Living and **non-living** are one binary of a now-existing thing." A dormant self is living, and its me-parities in dormancy are non-living.
+- "A me-parity is a living self-interest" is then of a living me-parity, and a universal me-parity is a me-parity and no self-interest; or *me-parity* is a living one only, and a universal me-parity is no me-parity. Tracked.
+- Two sentences part, with it. A dormant me-parity is exhausted from living: "each living me-parity matures, and later exhausts itself from living into non-living universal-parity", section 5.11, and dormancy is universal me-parities, one non-living universal-parity; the vaults of conception and dormancy are bothbothing, section 5.18, a me-parity born from the one and exhausted into the other. Or a dormant me-parity is not exhausted: it is inside its me's ownership set, same-existing, "a me-parity and no other self co-competencing", and living again with an other facing it; and an exhausted me-parity is prior-existing, in stable form, section 5.13, and inside no ownership set.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is a dormant me-parity exhausted from living: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
