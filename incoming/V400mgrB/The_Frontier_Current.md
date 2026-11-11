@@ -19,6 +19,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 5b. A named subset is the universe to a bi-coupling: self, other, and all other-than self and other. This is society, in the universe of more than this.
 5c. Social-parity is the universal set of now-existing bi-couplings of same-existing me-parity selves.
 5d. A bi-coupling is a now-existing thing. It is living in the between, while it is now-existing and same-existing. Its between is a nothing, with co-possibling in it.
+5e. A bi-coupling is a self. This is the fractal method.
 6. Same-as is a universal-morality: a name for a sameness in things distinguishable is-or-is-not.
 
 ### 1.2 A self
@@ -126,12 +127,13 @@ The lines have an entering, a first prior, and no leaving. Sentence 11 has dying
 
 - Is a me-parity's exhausting from living its sharing going out, with its self having its next: is, or is not?
 
-### 3.8 A bi-coupling, living, and a self
+### 3.8 A bi-coupling-self's own me-parities
 
-Sentence 5d has a bi-coupling living in the between, and sentence 7 has each living thing a self. In the lines, what a bi-coupling has with each moment is in its between only: one self's sharing going to its receiving self, and nothing at its key. A self is living with its own me-parities, a me has one self, and a new bi-coupling's priors are the me-parities of self and other. One pattern is at three scales, a nothing with things about it: a self, a corus, with its mes; a bi-coupling, its between, with its two selves; a society, the society-self, with its selves.
+Sentence 5e has a bi-coupling as a self, and sentence 8 has each self living with its own same-existing set of now-existing me-parities. The lines have one scale: no line asks what a key of the set of selves is, and a bi-coupling as a self is a key of that set with the same lines one scale outward. In the lines of this scale, what a bi-coupling has is in its between: its sharing self's next prior of each name, one value with the self and in the between. "A me has only one self": a bi-coupling's two selves are not its mes, a self having more bi-couplings than one.
 
-- Is a bi-coupling a self: is, or is not?
-- Does a bi-coupling have me-parities its own, each born in its between: is, or is not?
+- Are the me-parities in a bi-coupling's between the bi-coupling-self's own mes: is, or is not?
+- Are the bi-couplings of one scale the selves of the scale outward: is, or is not?
+- Is a bi-coupling-self one scale outward of its two selves: is, or is not?
 - Is a bi-coupling two ways, each of two selves the other's receiving self: is, or is not?
 - Are *same-existing me-parity selves* selves alike in a name: is, or is not?
 
