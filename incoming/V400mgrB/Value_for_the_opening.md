@@ -877,6 +877,14 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A candidate, for breaking: a society's corus is at 28, 27 and 29 its corusing and torusing, as a self's corus is at 24 with 23 and 25. Section 1.3: "A society-self is a nothing, the corus in society".
 - A society's corus is at 28: is. With it, a self's corus is 4 twenty up, and its society's 12 sixteen up, 4's own 8 up.
 - A second candidate is out: a society's corus at 32. 16 is "a same-existing-society" by Exhibit ONE's own sentence, 32 is 16 sixteen up, the last of a same-existing-society's span, 25 to 32, as 24 is the last of a self's; and Natural Numbers has 24 and 32 as one outer pair.
+- 3 is forward recursionings of each self and other. A spot of corusing is not known, and whether one is named is not known.
+- *Read, Exhibit ONE's code, 3.* 3-is-now-co-observing is a self's own prior me-parities. Each is next as it is, or inverted, its own, and its next is its prior with the moment after: forward only, each self's own, and the same with each self and each other.
+- *Read, the living files.* Natural Intelligence: "Six are three own-forward steps on each side." Natural Naming 4.2: "three own-forward steps with each side, six one-way steps, one side and then the other". Section 5.10: bi-inversioning across, co-recursioning along.
+- 3 is forward recursionings of each self and other, and no corusing: the binary of corusing as 3 is resolved by it, is-not.
+- *Read, Natural Naming.* Its 2.5 has resolving with no spot named, each an unchangeable form with a word; and 8.1, "**No happening has a location**", "Position dissolves as a location and goes on as **sequencing**". Natural Intelligence: "**Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening.**" Natural Naming 2.5: "**A self's bi-inversioning-co-recursioning is 23, 24 and 25.**"
+- A spot of corusing, each side tested. With a spot, Natural Naming's two sentences part. With a number of its own, two of the set's sentences part with each other, 7 and 15 by its table, and 3 by twenty up. With no spot and no number of its own, each is cohering: corusing is a going, one way through a small opening, and the opening is the corus, with 4, and 24; 23 and 25 are one before it and one after. Resolved by the set's own sentences, for breaking: no spot of corusing is named, and no number of its own.
+- **[value at Natural Naming 3.3]** Its table has 7 and 15 with a prior name *corusing*, and 8 and 16 *torusing*: a number of its own for each going.
+- Two partings of `Partings_Tracked.md` are resolved by the sequence, each with one side breaking. A first me-parity of two the same as each other is inherited, and none is born: conceiving is 14's 0, two together, the one not the same as the other, a new corus, and "with the two the same, a me-parity born is not possibly existing" is whole. And a me-parity inverted with no other is no me-parity born: it is the same me-parity, its direction to its facing one, and "is-or-is-not distinguishing same-as from not-same-as is bothbothing same-existing".
 - Parting. Natural Naming's table has 8 and 16 as torusing, and by sixteen up 24: 24 is the corus, and torusing 25.
 - Not read yet: 28 and 29 with a sentence of bi-moral co-competencing; and "5, 10, 15, 20 and 25 are locating".
 
@@ -884,7 +892,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is corusing 3-is-now-co-observing: is, or is not?
+- Is a society-self living: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
