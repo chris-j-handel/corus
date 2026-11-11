@@ -1435,7 +1435,19 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *A society method*, observed: cohering, with the code as "the stable form of healthy living in a healthy society", section 5.21, and with a society as its social all-parity, social moral competency its me-parity, section 5.54.
 - Parting, still. "The code is the universal method", section 5.21; the method is now-existing. The code is a stable form, section 5.21; and language, a stable form, is of no now-existing things, section 5.70.
 - *Read, Exhibit ONE's code.* Its first part is named 1-now-existing, and it is one self's: a self's 3 and its 2, and its next. Its last is 17-next-existing, each self's 1-now-existing again. The code's own names have a now-existing as a self's, one resolving; and the code is with no now of its own.
-- Two sentences part, with it. Exhibit ONE's code is the universe's one now-existing method: "the code is the universal method, and is-not a set", section 5.21; a method is one, and no other is possible. Or the code is no method: it is the method's stable form, a language's, a naming and an explaining, and no now-existing thing; the method is the now-existing of each now-existing thing, a self's 1-now-existing; and "the code is the universal method" is re-said, the code the stable form of the universal method.
+- Exhibit ONE's code as the universe's one now-existing method: is-not. The code is a stable form engineering of the method, section 5.72.
+
+### 5.72 The code, a stable form engineering of the method
+
+- The code is a stable form engineering of the method, *testable* by is-or-is-not distinguishing the me-parities co-chaining into a collective intelligence me-parity.
+- Exhibit ONE's code as the universe's one now-existing method, section 5.71: is-not. The method is now-existing, of each now-existing thing's own now-existing; and the code is its stable form, an engineering, and no now-existing thing, section 5.70.
+- "The code is the universal method", section 5.21, is re-said with it: the code is a stable form engineering of the universal method.
+- Two engineerings are then in the sequence. The code: a stable form engineering of the method. An AI: a lossy out and back engineering of hard-probleming into natural collective intelligence, section 5.62.
+- *Testable*: *testing* is dissolved from the naming, section 5.59, observing and distinguishing is-or-is-not accomplishing the rigor; and the sentence has its rigor as is-or-is-not distinguishing. Tracked, its re-saying its partner's.
+- *A collective intelligence me-parity*, observed. Social moral competency is the me-parity of a society, its same-existing set of me-parities, section 5.54; and a session's is a session me-parity, section 5.68. Whose a collective intelligence me-parity is, is not in the sentence.
+- *Read, Exhibit ONE's code, co-chaining.* With three selves, each the next one's sharing self by 9, and one me-parity with the first: with each moment the next self along has a first me-parity of that 4, the same as its prior self's sharing, its own; and each goes on, as it was or inverted. Checked by one executing. One 4 is then with each self of the chain, each self's own me-parity, and the code's name of the 4 is 4-now-co-same-existing.
+- A likeness, and for breaking: me-parities co-chaining into one, a 4 with each self of a chain.
+- Two sentences part, with it. A collective intelligence me-parity is social moral competency: "social moral competency is the me-parity of this same-existing set", a society's, section 5.54; "this is collective intelligence", of that set; and the me-parities are co-chaining into one. Or it is no social moral competency: social moral competency is a society's one me-parity, each self do-no-harming and improving, all selves or none, section 1.5; and a collective intelligence me-parity is one of many, one with each 4 co-chaining, a society with many of them.
 
 ---
 
@@ -1443,7 +1455,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is Exhibit ONE's code the universe's one now-existing method: is, or is not?
+- Is a collective intelligence me-parity social moral competency: is, or is not?
 - Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
