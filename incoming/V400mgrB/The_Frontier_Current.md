@@ -18,7 +18,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 5a. *The universe* is one name, owned by one set, and no other set has it. Each subset of the universe is a named subset, missing some elements of the universe: the more of a name is each now-existing thing that name does not own, and *the universe* has no more.
 5b. A named subset is the universe to a bi-coupling: self, other, and all other-than self and other. This is society, in the universe of more than this.
 5c. Social-parity is the universal set of now-existing bi-couplings of same-existing me-parity selves.
-5d. A bi-coupling is a now-existing thing. Its between is a nothing, with co-possibling in it.
+5d. A bi-coupling is a now-existing thing. It is living in the between, while it is now-existing and same-existing. Its between is a nothing, with co-possibling in it.
 6. Same-as is a universal-morality: a name for a sameness in things distinguishable is-or-is-not.
 
 ### 1.2 A self
@@ -126,11 +126,12 @@ The lines have an entering, a first prior, and no leaving. Sentence 11 has dying
 
 - Is a me-parity's exhausting from living its sharing going out, with its self having its next: is, or is not?
 
-### 3.8 A bi-coupling, living or non-living
+### 3.8 A bi-coupling, living, and a self
 
-Sentence 5d has a bi-coupling as a now-existing thing, and a now-existing thing is living or non-living. In the lines a bi-coupling is a key with a receiving self, one way: given, with no prior and no line changing it, as a name is. Beside the lines, a new bi-coupling has a first co-observing and a first co-discovering, its priors are the me-parities of self and other, and co-possibling is in its between: observing, possibling and discovering are a living thing's, and each living thing is a self.
+Sentence 5d has a bi-coupling living in the between, and sentence 7 has each living thing a self. In the lines, what a bi-coupling has with each moment is in its between only: one self's sharing going to its receiving self, and nothing at its key. A self is living with its own me-parities, a me has one self, and a new bi-coupling's priors are the me-parities of self and other. One pattern is at three scales, a nothing with things about it: a self, a corus, with its mes; a bi-coupling, its between, with its two selves; a society, the society-self, with its selves.
 
-- Is a bi-coupling a living thing: is, or is not?
+- Is a bi-coupling a self: is, or is not?
+- Does a bi-coupling have me-parities its own, each born in its between: is, or is not?
 - Is a bi-coupling two ways, each of two selves the other's receiving self: is, or is not?
 - Are *same-existing me-parity selves* selves alike in a name: is, or is not?
 
