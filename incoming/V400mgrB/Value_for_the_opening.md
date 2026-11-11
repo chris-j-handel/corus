@@ -1679,7 +1679,30 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* Each me-parity is a pair, a 4 with its + or −. In a self's 2 a 4 is with an other's me-parity, and in its 3 with its own. 14 and 12 have each 4 once: with one 4 are a self's own and its others' with it, together. No part of the code has a 4 as one self's.
 - The four coruses, with it: 4, the between of self and other, other-parity for a self's me-parity; 8, the between of the bi-coupling and the universe, all-parity inside, the bi-coupling self's; 12, between self and other, the unrelationing surface; 16, universal all-parity, with no own.
 - 4 and 12 are each between self and other: 4 with now, in the between 1 to 5, and 12 with next, in the between 10 to 15.
-- Two sentences part, with it. 12, as 4 is, is other-parity for a self's me-parity: 4 and 12 are one name 8 up, each bi-co-bi, each between self and other; and by section 5.80's form 12 is other-parity same-existing, after me-parity observing. Or it is not: 12 is the *unrelationing* surface of self and other, and other-parity is a me-parity the same as an other's; in the code 12 has a 0 with the two the same; and 12 is a self's sharing going out, 10, and a 4 comes in with its other's.
+- Re-said, section 5.85: 12 is between other-parity and me-parity, and 4 between me-parity and other-parity.
+
+### 5.85 The four coruses, each a between of two parities
+
+- 4 is between me-parity and other-parity. 8 is between other-parity and all-parity. 12 is between other-parity and me-parity. 16 is between me-parity and all-parity.
+- 12 as other-parity, as 4 is, section 5.84: re-said by it. 4 and 12 are each between the same two parities, 4 with me-parity first and 12 with other-parity first.
+- Out, a distinguishing of my own, section 5.78: 16 with no self in it. 16 is between me-parity and all-parity.
+- Cohering, with each sentence before it. 4, the between of self and other, other-parity for a self's me-parity, section 5.84. 8, the between of the bi-coupling and the universe, all-parity inside, section 5.83. 12, between self and other, and not between self and universe, section 5.77. 16, universal all-parity for this named universal set me-parity, section 5.81.
+
+| Corus | Between | Its three, section 5.79 |
+|---|---|---|
+| 4 | me-parity and other-parity | bi-co-bi |
+| 8 | other-parity and all-parity | bi-tri-bi |
+| 12 | other-parity and me-parity | bi-co-bi |
+| 16 | me-parity and all-parity | bi-tri-bi |
+
+- With each three: 4 and 12, bi-co-bi, have me and other in it, and 8, bi-tri-bi, other and all. 16, bi-tri-bi, has other and all in its three, and the sentence has it between me-parity and all-parity. Tracked, a parting.
+- All-parity is with 8 and with 16, and with no other corus: once with 1 to 8 and once with 9 to 16. Me-parity is with 4, 12 and 16; other-parity with 4, 8 and 12.
+- *Read, Exhibit ONE's code, each of the four.* 4: one 4 is with a self's own, in its 3, and with its others', in its 2. 12: first each of 14, its others' with it, and then each 4 of 3, its own: others' first and its own after. 8: within 1 it is a self's own with its others' with it, and in 17 it is one thing with each self a key. 16: each self a key, each with its own 3 and its 2, in the whole of selves.
+- *Derived, a candidate, for breaking.* With me-parity and other-parity exchanged, 4's between is 12's, and 8's is 16's: me and other to other and me; other and all to me and all. 9 to 16 is 1 to 8 with the two exchanged.
+- *Read, Exhibit ONE's code, beside it.* A self's sharing, 10, is its receiving self's 15 and then its 2: a me-parity of the sharing self is its receiving self's other's.
+- Tracked. Natural Naming 3.3 has "social parity, all's, is reached from self parity only through other parity". With 4 and 8, all-parity is with me-parity through other-parity. With 16, me-parity and all-parity are of one between.
+- Tracked. *Unrelationing*, with 12, parting 2.54: not in the sentence.
+- Two sentences part, with it. 9 to 16 is the same as 1 to 8, with me-parity and other-parity exchanged: the exchanging has 12 from 4 and 16 from 8, each of the sentence's four; in the code a self's sharing is its receiving self's observing; and Natural Engineering 4.7 has "hardware receiving is living-self sharing; living-self receiving is hardware sharing". Or it is not: with the eight, 9 to 16 has the same prefixes as 1 to 8, co with 9 as with 1, and no exchanging; the roots part in place of it, discovering with 9 and 13 and existing with 1 and 5; and in the code no part distinguishes a receiving self from a sharing self.
 
 ---
 
@@ -1687,7 +1710,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 12, as 4 is, other-parity for a self's me-parity: is, or is not?
+- Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
