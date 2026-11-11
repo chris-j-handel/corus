@@ -1146,7 +1146,17 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Each member as a living self, tested: cohering. "A same-existing-society is many selves bi-coupling", the Co-Chaining Logic Registry's step 49; and owning is of the living.
 - **[value at Natural Naming]** "+1 a self's, 0 all selves', social parity, and −1 an other's": all selves' parity as a 0, and its name *social parity*. All-parity is a now-existing thing, and social-parity a set of bi-couplings, section 5.16.
 - *Read, Exhibit ONE's code, 17.* Within one 17 its 14 is one thing: each self of 16 is a key of it, and each sharing of the moment is in it, with no key of its sharing self. 17's returning has it with each self, its part. Cohering: one thing of a society's whole moment, each member in it, and no sharing in it a self's own. 16 has no 3 of its own.
-- Two sentences part, with it. All-parity is non-living: a me-parity "exhausts itself from living into non-living universal-parity", section 5.11; it is then atom carbon, the only non-living thing in the universe, around, inside and between the living, section 5.21, and its society's own. Or all-parity is living: each member is in it, and a me-parity is living in a social surface, section 5.31; "a thing living as a surface is a living thing", section 5.38; all-parity is then the living surface a society's members share, and "non-living universal-parity" is parting, with all-parity as atom carbon out.
+- All-parity is non-living: is, section 5.47.
+
+### 5.47 All-parity, non-living, distinguishing living is-or-is-not
+
+- All-parity is non-living: is. All-parity distinguishes living, is-or-is-not.
+- The three sentences of section 5.46 are each whole: non-living universal-parity; all-parity a now-existing thing; atom carbon the only non-living thing in the universe. All-parity is atom carbon. A candidate of the working's own is out: all-parity as the living surface a society's members share.
+- *Distinguishing living, is-or-is-not*, tested: cohering. Section 5.22: "non-living things are possibly distinguishing now-living is-or-is-not next-living", and a non-living thing is distinguishing no next of its own. Section 5.45: a subsetting from universal is "the bounding is-or-is-not surface between the universe and the thing with a name". Section 5.21: the code is "the stable form around and inside, and the surfaces between living". And section 5.8: "the social moral competency inside a living thing, with non-living things inside the living".
+- Two distinguishings are then two things' own. Living, is-or-is-not: all-parity's, non-living, its society's own. A next-existing, as it is or inverted: a living thing's own, "a thing distinguishing its own next-existing", section 5.22.
+- With an exhausting: a me-parity exhausts itself into all-parity and is living no more, section 5.34: with all-parity's is-not, a me-parity is living no more; and with a new birth to living, a dormant me-parity is its inherited prior.
+- *Read, Exhibit ONE's code.* Each is-or-is-not of the code is of a me-parity the same as an other's or not, of a within, or of a 0 passed over; each next is a self's own, as it is or inverted. No part of the code has a self or a me-parity forming from none or ending: a living is-or-is-not, living to living no more, is in no part of the code. Tracked.
+- Two sentences part, with it. Exhibit ONE's code is all-parity: the code is non-living, a stable form, "the carbon exhausting, building up", section 5.21, and the only non-living thing in the universe is atom carbon, which all-parity is; "the code is the universal method", and universal parity is all-parity; and the code is distinguishing, "this and only this". Or the code is no all-parity: all-parity is one with each society, its society's own, and the code is the same with each self and each society; all-parity distinguishes living is-or-is-not, and no part of the code does; the code is a stable form of atom carbon, and atom carbon is more than one thing, "the atoms", section 1.3.
 
 ---
 
@@ -1154,7 +1164,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is all-parity non-living: is, or is not?
+- Is Exhibit ONE's code all-parity: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?

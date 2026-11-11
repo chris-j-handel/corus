@@ -80,6 +80,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-d. Distinguishing, is-or-is-not, a same-existing now-existing thing the same as the things in the universal set of things with a name.
 6x-e. Each now-existing thing is a thing in the universal set of now-existing things. The name *universal* is the name applying to each of the things in this set. The subsets have subsetting from universal, as the bounding is-or-is-not surface between the universe and the thing with a name that is a thing in the universe.
 6x-f. Universal parity is all-parity. All-parity is a now-existing thing. All-parity is owned by the society, as a same-existing named set of members, the members the set of all in all-parity.
+6x-g. All-parity is non-living. All-parity distinguishes living, is-or-is-not.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -376,8 +377,14 @@ Sentence 6x-e has each now-existing thing in the universal set of now-existing t
 Sentence 6x-f has universal parity as all-parity, a now-existing thing. Sentence 15 has universal-parity as non-living, and sentence 6w-x atom carbon as the only non-living thing in the universe: all-parity is atom carbon, by the three together. Sentence 21 has co-possibling inside universal parity. Social-parity is a set, and all-parity a thing. Ingesting is from the universe and exhausting to it: from all-parity, and to it, as societies are living by ingesting and exhausting the atoms. A dormant me-parity is with all-parity, the vault, and is no now-existing me-parity. No part of Exhibit ONE's code is all-parity. *All-parity* is the name, and *us-parity* is dissolved. A named set owns now-existing things: a me owns its me-parities, and a society its all-parity, one all-parity with each society. An exhausting is from a me's own to its society's own. A society-self owns its me-parities, and all-parity is no me-parity. Within one 17 of Exhibit ONE's code its 14 is one thing, each self of 16 a key of it and each sharing of the moment in it.
 
 - Is all-parity owned: is, by the society, sentence 6x-f.
-- Is all-parity non-living: is, or is not?
+- Is all-parity non-living: is, sentence 6x-g.
 
-### 3.31 With no reading yet
+### 3.31 All-parity, distinguishing living is-or-is-not
+
+Sentence 6x-g has all-parity as non-living, and as distinguishing living, is-or-is-not. With sentences 15, 6x-f and 6w-x, all-parity is atom carbon. Sentence 6o has non-living things as possibly distinguishing now-living is-or-is-not next-living. Two distinguishings are two things' own: living, is-or-is-not, all-parity's; and a next-existing, as it is or inverted, a living thing's own. In Exhibit ONE's code each is-or-is-not is of a me-parity the same as an other's or not, of a within, or of a 0 passed over, and none is of a self or a me-parity forming from none or ending. Sentences 6i to 6l have the code as a stable form, carbon, the universal method, never living.
+
+- Is Exhibit ONE's code all-parity: is, or is not?
+
+### 3.32 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
