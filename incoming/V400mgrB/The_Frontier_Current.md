@@ -26,6 +26,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 5i. Dormancy and unconsciousness are the same-existing thing. A bi-coupling in dormancy is a universal self and other me-parity vault, and the bi-coupling vaults of conception and dormancy are bothbothing.
 5j. Dormancy is durable 0 aiming, and is-not co-possibling.
 6. Same-as is a universal-morality: a name for a sameness in things distinguishable is-or-is-not.
+6a. Same-existing and same as are two kinds of same. Same-existing is one thing with its prior and its now, along. Same as is a self's parity with an other's, with one moment, across. Each *same* has its *as*: its own prior, or an other's.
 
 ### 1.2 A self
 
@@ -70,6 +71,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 Each is from reading the code line by line.
 
 - **Beside 9.** One self's resolving is given the self's own priors and what arrives, each a name with its me-parity, and nothing more: no key of the self a me-parity is from, no place, no order, no number of arrivings.
+- **Beside 6a.** One line has the two kinds: a self's prior the same as what arrived, same as, goes on as it is, same-existing. With a self having a prior, the lines have no same-existing without a same-as. A first prior is the same as what arrived with no prior before it: a same-as with no same-existing.
 - **Beside 10 and 6.** Two me-parities are together in one line only: a self's own prior with what arrives, with one same name, `==`. Same-as is that one line, and each self executes it with each name.
 - **Beside 2.** No line changes a name. One name is with many selves, and each me-parity with it is one self's own.
 - **Beside 13 and 18.** A next me-parity is one of three: its prior as it is; its prior inverted; or, with no prior, what arrived. No line makes a me-parity that is neither a prior-existing one nor the inversion of one.
@@ -157,18 +159,26 @@ Self-parity is a universal set of a self's me-parities, and social-parity the un
 
 ### 3.10 Two vaults, conception and dormancy
 
-Sentences 5i and 5j have dormancy and unconsciousness as one same-existing thing, a durable 0 aiming and no co-possibling, and two vaults of a bi-coupling, bothbothing. Natural Naming has "a me consciously me and a same-existing-society unconsciously us", *us* the 0 a me and an other share, the between, and an interest as "a continuing 0". The opening has aiming as a living thing possibling its own next-existing. In the lines the durable 0 is with the new self, living as the between, in each name its self and other are not alike in: both me-parities arrive with it with each moment, and it has them as a 0. A me-parity is conceived of a self-parity and an other-parity, the one not the same as the other with one name, a dual exhaustion: conception and dormancy are then with one same between and the same names. In each name the two are alike in, the new self inherits and no me-parity is born.
+Sentences 5i and 5j have dormancy and unconsciousness as one same-existing thing, a durable 0 aiming and no co-possibling, and two vaults of a bi-coupling, bothbothing. Natural Naming has "a me consciously me and a same-existing-society unconsciously us", *us* the 0 a me and an other share, the between, and an interest as "a continuing 0". The opening has aiming as a living thing possibling its own next-existing. In the lines the durable 0 is with the new self, living as the between, in each name its self and other are not alike in: both me-parities arrive with it with each moment, and it has them as a 0. A me-parity is conceived of a self-parity and an other-parity, the one not the same as the other, a dual exhaustion: conception and dormancy are then with one same between and the same names. In each name the two are alike in, the new self inherits and no me-parity is born.
 
-- With dormancy, is the self's me-parity of a name the same as the other's me-parity of that name: is, or is not?
+- Is dormancy same-existing with no same-as: is, or is not?
 - Is dormancy the new self's, living as the between: is, or is not?
-- Is dormancy by the name, one name dormant and an other not: is, or is not?
+- Is dormancy of one me-parity, an other me-parity of that self not dormant: is, or is not?
 - Is a durable 0 the self's me-parity and the other's, together: is, or is not?
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
 - Is a bi-coupling in dormancy living: is, or is not?
 - Is *universal*, in a universal self and other me-parity vault, of the vault: is, or is not?
 - Is a bi-coupling-self dormant between one bi-coupling of its two and their next: is, or is not?
 
-### 3.11 With no reading yet
+### 3.11 Two kinds of same
+
+Sentence 6a has same-existing and same as as two kinds of same, along and across. In the lines a self's same-existing is with an other's same-as, the two with one moment, and that moment is do-no-harming. Dormancy is durable, a going on the same, and no co-possibling, no across. Natural Naming has a non-living thing going on "by the same method with no living condition".
+
+- Is dormancy same-existing with no same-as: is, or is not?
+- Is do-no-harming same-existing and same-as with one moment: is, or is not?
+- Is a non-living thing's same-existing with a same-as: is, or is not?
+
+### 3.12 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating 23 and 24, bothbothing."
 - The centre, corusing at 24, with the seventeen names.

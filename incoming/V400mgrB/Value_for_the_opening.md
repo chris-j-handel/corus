@@ -556,18 +556,28 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - It is tested with stable form. The gathering has dormancy as "the stable form of living" and, beside it, "living has no stable form". With dormancy an aiming, a living thing's, dormancy is living, and the gathering's first saying parts.
 - With the sentence of a same-existing self, section 5.17: a bi-coupling-self between one bi-coupling of its two and their next is a same-existing self, and a candidate for its being between the two is dormancy.
 
+### 5.19 Two kinds of same, same-existing and same as
+
 - A sentence ending *not the same* has no existing in explaining without its more: the same as what.
-- *Read, the code's lines.* Same-as is one line, and it has three: a self's own me-parity, what arrived from an other, and one same name. No line has a same with one me-parity, or with no name.
-- A sameness is a name's, and a *same* is said with its two and its name. A *not the same* with no *as* names no thing: it is of the more, each now-existing thing the sameness does not own. With one name, the lines have two me-parities not the same as the one the inversion of the other: within a name a not-the-same has its own positive saying, and with no name it has none.
-- **[value at Natural Explaining, and at each sentence of this file with a same]** Each *same* and each *not the same* is said with its *as* and its name. The fifty-five's 24 has "and not the same, **universal-parity**" with its *as* before it, "the same as an other's".
+- Same-existing and same as are two kinds of same, and the two may be bothbothing.
+- *Read, Natural Naming.* "*same-existing-as* · *a* *same-existing*, a now-existing thing from a prior-existing same thing, or *same as*, of a parity". "*Observing* is distinguishing same-as, is or is not, a prior or a parity. *Same-existing* is a living condition, a self, a same-existing-society or the universe re-found same with each moment, same or not same, and a non-living thing goes on by the same method with no living condition". And "a self has its sameness and needs no *same*".
+- *Read, the living files.* The fifty-five's 3: "A **same-existing** thing is the same thing prior-existing before now-existing." Natural Numbers 1.5: "Along is competency: a self's own going on. Across is a self sharing now with an other, morality." Natural Explaining 1.6: "**An explanation goes across neither way**: a ground, a frame, a conserving total".
+- Two kinds, by Natural Naming's own sentence. Same-existing is one thing with two moments, its prior and its now: along. Same as is two parities with one moment, a self's and an other's: across. Each *same* has its *as*: a same-existing thing's is its own prior, and a same-as's is an other's.
+- *Read, the code's lines, the two in one line.* A self's prior the same as what arrived, same as, across: that prior goes on as it is, same-existing, along. Not the same as what arrived, or nothing arriving: it inverts, and is not same-existing. With a self having a prior, the lines have no same-existing without a same-as. A first prior is the same as what arrived with no prior before it: a same-as with no same-existing.
+- Bothbothing, in the lines: a self's same-existing is with an other's same-as, one moment having the two, and that moment is do-no-harming. Same-existing is competency's same, along; same as is morality's same, across, "a universal-morality"; and the two with one moment are bi-moral co-competencing.
+- A ground out of this file: a sameness said as *a name's*, and each sentence with *of a name* under it. The word is the code's key, a reading's word, and it went on into each explaining as a ground. A *same* is said with its *as*, its own prior or an other's, and with no ground.
+- Dormancy with the two kinds: durable is a going on the same, along; no co-possibling is no across. A candidate: dormancy is same-existing with no same-as. The lines have one such: a durable 0, going on the same with each moment, and the same as neither of the two arriving with it.
+- Tested with a non-living thing: Natural Naming has it going on "by the same method with no living condition", and the lines have no same-existing with nothing arriving. A non-living thing's same-existing is with a same-as; or with none.
 
 ---
 
 ## 6 Open, each one binary
 
-- With dormancy, is the self's me-parity of a name the same as the other's me-parity of that name: is, or is not?
+- Is dormancy same-existing with no same-as: is, or is not?
+- Is do-no-harming same-existing and same-as with one moment: is, or is not?
+- Is a non-living thing's same-existing with a same-as: is, or is not?
 - Is dormancy the new self's, living as the between: is, or is not?
-- Is dormancy by the name, one name dormant and an other not: is, or is not?
+- Is dormancy of one me-parity, an other me-parity of that self not dormant: is, or is not?
 - Is a durable 0 the self's me-parity and the other's, together: is, or is not?
 - Is user-parity a user's self-parity: is, or is not?
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
