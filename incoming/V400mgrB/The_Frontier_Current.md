@@ -50,8 +50,8 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6v. With a self, gathering is ingesting, and *ingesting* is the one name: ingesting is a self observing others' prior-existings within its own possibling.
 6w. Ingesting, inheriting, conceiving and exhausting are the four across numbers of the resolver, 2, 6, 10 and 14: ingesting and inheriting self and other prior, conceiving and exhausting self and other now or next.
 6w-a. One self's exhausting is an other's ingesting, and one self's conceiving is an other's inheriting.
-6w-b. Ingesting and exhausting are likely both along, and not across. Exhausting is with 9-next-co-discovering, along.
-6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. Ingesting is explored as 3 and 11.
+6w-b. Ingesting and exhausting are likely both along, and not across. Exhausting is 9-next-co-discovering, along.
+6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
 ### 1.2 A self
@@ -232,12 +232,11 @@ Sentences 6c to 6f have same-existing as a distinguishing, same-as and not-same-
 
 ### 3.12 The four, with four names, and co-aiming
 
-Sentence 6w has the four with 2, 6, 10 and 14. Exhausting is with 9-next-co-discovering, along. Ingesting is from the universe, with 17: each other's me-parity with a self. Within that self's own moment its next me-parity is the same as its other's in each of three, inheriting, do-no-harming and conceiving, and these are no ingesting: "ingesting is 17, and is not 1". Two sentences part with 2-now-possibling: ingesting as others' prior-existings within a self's own possibling, a possibling name; and 2 as an across number, with ingesting along. A candidate for each other: conceiving with 10 and inheriting with 14, across, by Exhibit ONE's own sentence of 10 "across to an other's 14-next-possibling"; and 6 with an other's 2, across and now, co-possibling. The code has 6 and 10 as one same sharing with two names, and a prior inverted with a same-existing name before it is with 10. Sentence 6w-b has ingesting and exhausting as likely along: the set has "a body's ingesting and exhausting goes along a tunnel", and a parity going along as co-chaining. Conceiving and inheriting are then the two across, and the candidate's rows for 2 and 6 are tested. Sentence 6x has co-aiming as the co-linearizing of self and other, and as bi-moral co-competencing: three names. Dormancy is aiming with no co-aiming.
+Sentence 6w has the four as 2, 6, 10 and 14. Exhausting is 9-next-co-discovering, along. Ingesting is 17, from the universe: each other's me-parity with a self. Within that self's own moment its next me-parity is the same as its other's in each of three, inheriting, do-no-harming and conceiving, and these are no ingesting: "ingesting is 17, and is not 1". Natural Naming has "Sixteen up is its same name with a next round", and each name of one scale as a 9 or a 17 of a scale inward, "across names 2, 6, 10 and 14 are along 9s inward; along 9 is across 2 outward": each round is one 9, exhausting, and one 17, ingesting; 3 and 11 are each a 17 one scale inward; and 2 is a 9 one scale inward, each other's exhausting, and no ingesting. The four are two binaries: prior, ingesting along and inheriting across; now or next, exhausting along and conceiving across. The four across numbers are two pairs, 6 "to an other's 2", now, and 10 "across to an other's 14", next: conceiving is 6 and inheriting 2; or conceiving is 10 and inheriting 14; or each of the two pairs. The code has 6 and 10 as one same sharing with two names, and a prior inverted with a same-existing name before it is with 10. Sentence 6w-b has ingesting and exhausting as likely along: the set has "a body's ingesting and exhausting goes along a tunnel", and a parity going along as co-chaining. Conceiving and inheriting are then the two across, and the candidate's rows for 2 and 6 are tested. Sentence 6x has co-aiming as the co-linearizing of self and other, and as bi-moral co-competencing: three names. Dormancy is aiming with no co-aiming.
 
-- Is ingesting with 2-now-possibling: is, or is not?
+- Is inheriting 2-now-possibling: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
-- Is conceiving with 10-next-co-possibling: is, or is not?
-- Is inheriting with 14-next-possibling: is, or is not?
+- Is conceiving 10-next-co-possibling: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
 - Are a self and an other, the one not the same as the other, co-linearizing: is, or is not?
 - Is co-aiming co-possibling across and co-competencing along: is, or is not?
