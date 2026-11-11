@@ -1114,13 +1114,26 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* The code has an is-or-is-not of a within with a 4: a 4 within a self's others' me-parities, and a 4's key within 5. Each is of a name within a set of names. A thing the same as the things of a named set, with no 4 before, is in no part of the code: each me-parity is with its 4 before each is-or-is-not.
 - Two sentences part, with it. Each now-existing thing is with the name *the universe*: "The universe is the set of now-existing things, and no other things are in it", "a set with its own name is the now-existing things its name owns", and "*the universe* has no more", section 5.15; each now-existing me-parity is then with one name at the least, and "each now-existing me-parity is with a name: is-not", section 5.43, is of each other name. Or a now-existing thing is with no name, *the universe* too: nature has no names; names are non-existing things until they are observed things in the named set; and the universe, a named set, is then its observed now-existing things, a not-observed now-existing thing a thing of no named set.
 
+### 5.45 *Universal*, the name of each now-existing thing; a subsetting, a bounding surface
+
+- Each now-existing thing is a thing in the universal set of now-existing things. The name *universal* is the name applying to each of the things in this set. The subsets have subsetting from universal, as the bounding is-or-is-not surface between the universe and the thing with a name that is a thing in the universe.
+- Each now-existing thing is with a name: is, *universal*. "Each now-existing me-parity is with a name: is-not", section 5.43, is of each name of a subset.
+- Two names are with the one set: *the universe*, the set's own, section 5.15; and *universal*, applying to each thing in it.
+- It is cohering with section 1.1: "The universe is the set of now-existing things", and "Universal is each same-existing thing and more: the named things, and the more. The more is the not-named now-existing things." *Universal* is applying to the named things and to the more.
+- Tested with "nature has no names", section 5.41: a name is a non-existing thing, applying to now-existing things; nature has its things, and no name is one of them. Cohering.
+- Each now-existing thing as observed, tested: breaking. An observed now-existing thing inherits a name, section 5.41, and the more is the not-named now-existing things: with each observed, the more is a null-set, and universal is "each same-existing thing and more".
+- *A subsetting, the bounding is-or-is-not surface*, tested: cohering. "A universal set names the place the no more begins", section 1.1; "Is-or-is-not distinguishes the within of a universal set", the fifty-five's 11; and Natural Naming's 1.1, "A naming is a floating-neutralling concept, four boundings at once".
+- A name as the bounding surface, tested: breaking. The surface is between the universe and the thing with a name: the name is with the thing, its inherited prior, section 5.41, and the subsetting is the distinguishing. A naming is a bounding, and a name a prior.
+- *Read, Exhibit ONE's code.* Each is-or-is-not of the code is of two, a within and a not, with no thing of its own: nothing of an is-or-is-not is in a self's 3, in a between, or in a self's 2. Cohering: a bounding is-or-is-not is no thing of either side.
+- Two sentences part, with it. A universal me-parity is a now-existing thing: *universal* is the name applying to each thing in the universal set of now-existing things, and "a me-parity is a now-existing thing", section 5.34; each now-existing me-parity is then a universal me-parity, living, and "a universal me-parity is non-living", section 5.19, is parting. Or a universal me-parity is no now-existing thing: "exhausts itself from living into non-living universal-parity", section 5.11, and an exhausted me-parity is not a now-existing thing, section 5.35; *universal* is then with two, each now-existing thing, and a me-parity exhausted and now-existing no more.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is each now-existing thing with the name *the universe*: is, or is not?
+- Is a universal me-parity a now-existing thing: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
