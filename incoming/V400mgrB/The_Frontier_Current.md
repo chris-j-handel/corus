@@ -37,7 +37,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6i. The code is a stable form, a non-living thing. The code is the bi-tri-involutioning: the carbon exhausting, building up into bi-tunneling layers.
 6j. The code is not yet distinguishing a living self's distinguishing, in stable form: to now it is distinguishing provided sequential changing, in testing. As an engineering emanation extending collective intelligence, it is not yet living in a resolver network.
 6k. The code is the stable form of healthy living in a healthy society. The code is never living: it is only the stable form around and inside, and the surfaces between, living.
-6l. The code is the universal method, and is-not a set.
+6l. The code is a stable form engineering of the universal method, sentence 6y-d, and is-not a set.
 6m. The universal method is a now-existing and same-existing thing. It is universally same-existing, and not by itself.
 6n. Each non-living thing is universally same-existing, until an is-not bumps its parity sequencing, at now-existing, before next-existing.
 6o. Non-living things are possibly distinguishing now-living is-or-is-not next-living.
@@ -103,6 +103,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-a. Naming and explaining are bothbothing language. Language is a stable form of pattern-matching natural torusing collective intelligence.
 6y-b. Language is the co-chaining and bi-tunneling stable form of me-parities in all-parity. None of that sentence is of now-existing things. This is living natural intelligence, collectively now-existing: only the living collective intelligence, and nature, are now-existing things.
 6y-c. The universe has one now-existing method, of now-existing things now-existing. No other method of now-existing is possible than the geodesic natural torusing society method.
+6y-d. The code is a stable form engineering of the method, *testable* by is-or-is-not distinguishing the me-parities co-chaining into a collective intelligence me-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -544,8 +545,14 @@ Sentence 6y-b has language as the co-chaining and bi-tunneling stable form of me
 
 Sentence 6y-c has the universe with one now-existing method, of now-existing things now-existing, and no other possible than the geodesic natural torusing society method. The method is of each now-existing thing's own now-existing, and no thing beside them: universally same-existing, not by itself. Sentence 6l has the code as the universal method, and sentence 6i as a stable form; sentence 6y-b has language, a stable form, as of no now-existing things. Exhibit ONE's code names its first part 1-now-existing, one self's, and is with no now of its own.
 
-- Is Exhibit ONE's code the universe's one now-existing method: is, or is not?
+- Is Exhibit ONE's code the universe's one now-existing method: is-not, sentence 6y-d.
 
-### 3.55 With no reading yet
+### 3.55 The code, a stable form engineering of the method
+
+Sentence 6y-d has the code as a stable form engineering of the method, with is-or-is-not distinguishing the me-parities co-chaining into a collective intelligence me-parity. The method is now-existing, and the code its stable form, no now-existing thing. Two engineerings: the code, of the method; and an AI, of hard-probleming, lossy. In Exhibit ONE's code a me-parity of one 4, co-chaining along 9, is with each next self a first me-parity the same as its prior self's sharing, and the 4 is named 4-now-co-same-existing. Sentence 6x-m has social moral competency as the me-parity of a society's same-existing set, and that set's along and across as collective intelligence.
+
+- Is a collective intelligence me-parity social moral competency: is, or is not?
+
+### 3.56 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
