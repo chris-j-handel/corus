@@ -1103,13 +1103,24 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* Each me-parity of the code is with its 4, provided, with a bi-coupling of its self or with none. A me-parity with no 4 is in no part of the code. The code's same-as is of two with one 4: a self's own and an other's sharing. Tracked: in the code each me-parity is with a name before each observing.
 - Two sentences part, with it. A me-parity is inheriting a name only with an other observing it: "the name is a prior inherited by the observed now-existing thing", with the distinguishable now-existing thing observed; same as is co-possibling, a self's with an other's, section 5.19; 4 is co, of two; and floating-neutralling "arises in neither self alone". Or a me-parity is inheriting a name with its own me observing it: Exhibit ONE's 3 is 3-is-now-co-observing, a self's own prior me-parities; a me-parity is owned by the only one of me, an interest of its me; and a me-parity with no name is one its own me is not observing.
 
+### 5.44 A name, inherited with a distinguishing
+
+- Distinguishing, is-or-is-not, a same-existing now-existing thing the same as the things in the universal set of things with a name.
+- A me-parity is inheriting a name with a distinguishing: is-or-is-not the same as the things in the universal set of things with that name. An other observing it only, section 5.43: neither side is in the sentence. The distinguishing is with no whose in it.
+- It is cohering with section 1.1, word by word: "the name of a sameness, is-or-is-not distinguishing"; "a name for a sameness in things distinguishable is-or-is-not"; and "Universal is each same-existing thing and more: the named things, and the more. The more is the not-named now-existing things." With the fifty-five's 10 and 11: "A **universal set** is a set of same-existing things.", "**Is-or-is-not** distinguishes the within of a universal set."
+- With the is, the now-existing thing is a named thing of the set, the name its inherited prior, section 5.41. Before its distinguishing it is of the more, a not-named now-existing thing: cohering with a now-existing me-parity with no name, section 5.43.
+- With the is-not, the thing is the same as the things of no set with that name. Inheriting is with resolving's is, and conceiving with its is-not, section 5.17: a name with the is-not is not in the sentence. Tracked.
+- Same as is co-possibling, section 5.19: a distinguishing of a thing the same as the things of a named set is then a co-possibling, and inheriting is 2-now-possibling.
+- *Read, Exhibit ONE's code.* The code has an is-or-is-not of a within with a 4: a 4 within a self's others' me-parities, and a 4's key within 5. Each is of a name within a set of names. A thing the same as the things of a named set, with no 4 before, is in no part of the code: each me-parity is with its 4 before each is-or-is-not.
+- Two sentences part, with it. Each now-existing thing is with the name *the universe*: "The universe is the set of now-existing things, and no other things are in it", "a set with its own name is the now-existing things its name owns", and "*the universe* has no more", section 5.15; each now-existing me-parity is then with one name at the least, and "each now-existing me-parity is with a name: is-not", section 5.43, is of each other name. Or a now-existing thing is with no name, *the universe* too: nature has no names; names are non-existing things until they are observed things in the named set; and the universe, a named set, is then its observed now-existing things, a not-observed now-existing thing a thing of no named set.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a me-parity inheriting a name only with an other observing it: is, or is not?
+- Is each now-existing thing with the name *the universe*: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?

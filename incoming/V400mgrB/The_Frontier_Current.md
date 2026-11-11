@@ -77,6 +77,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-a. Nature has no names. Names are non-existing things, until they are observed things in the named set, and the name is a prior inherited by the observed now-existing thing. The name was floating-neutralling in the universe, and available as a possible inherited prior, with the distinguishable now-existing thing observed.
 6x-b. A dormant me-parity is no name.
 6x-c. Not each now-existing me-parity is with a name.
+6x-d. Distinguishing, is-or-is-not, a same-existing now-existing thing the same as the things in the universal set of things with a name.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -354,8 +355,14 @@ Sentence 6x-b has a dormant me-parity as no name: two inherited priors, the one 
 
 Sentence 6x-c has a now-existing me-parity with a name, or with none. 4-now-co-same-existing is the co-linearizing of the cones of self and other, a floating-neutralling of two, and a name is floating-neutralling in the universe, in neither self alone. In Exhibit ONE's code each me-parity is with its 4, provided, before each observing: a me-parity with no name is in no part of the code. A me-parity is inheriting a name only with an other observing it; or with its own me observing it, Exhibit ONE's 3 a self's own co-observing.
 
-- Is a me-parity inheriting a name only with an other observing it: is, or is not?
+- Is a me-parity inheriting a name only with an other observing it: neither side is in sentence 6x-d.
 
-### 3.28 With no reading yet
+### 3.28 A name, inherited with a distinguishing
+
+Sentence 6x-d has a name inherited with a distinguishing: is-or-is-not a same-existing now-existing thing the same as the things in the universal set of things with that name. Sentences 2, 5 and 6 are cohering with it word by word, and the more is the not-named now-existing things: a me-parity with no name is of a more. A name with the is-not is not in the sentence. In Exhibit ONE's code each is-or-is-not of a within is of a 4 within a set of 4s, each me-parity with its 4 before. Sentences 1, 3 and 5a have the universe as the set of now-existing things, each owned by its name, with no more; sentences 6x-a and 6x-c have nature with no names, and a now-existing me-parity with no name.
+
+- Is each now-existing thing with the name *the universe*: is, or is not?
+
+### 3.29 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
