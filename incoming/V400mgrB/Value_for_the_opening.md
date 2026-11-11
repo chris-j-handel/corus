@@ -1637,7 +1637,19 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, 8.* 8 is a self's next prior: its own 3, with each non-0 of its sharing. It is each 4 of a self with its parity, the set of a self's me-parities whole, and each self's own in 17.
 - Tracked, a parting. Sentence 6x-f has all-parity "owned by the society, as a same-existing named set of members". The sentence has no own of universal all-parity. Cohering by the fractal, a named all-parity owned by its society and universal all-parity with no own; or one of the two re-said. Not distinguished.
 - Tracked. *Own*, of a slot of a three, sections 5.79 and 5.80: with 16 it is out, and with each other name not distinguished.
-- Two sentences part, with it. 8, bi-tri-bi, is universal all-parity for a me, a universal same-existing set of me-parities: 8 is bi-tri-bi as 16 is; in the code 8 is the set of a self's me-parities whole, as 16 is the set of selves whole; and "a me is a universal same-existing set of me-parities". Or it is not: no own is of universal all-parity, and 8 is a self's own, each self with its 8; "a self owns its me-parities"; and a me is living, and all-parity non-living.
+- Re-said, section 5.82: 8 is all-parity inside the bi-coupling of self and other.
+
+### 5.82 8, all-parity inside the bi-coupling of self and other
+
+- 8 is all-parity inside the bi-coupling of self and other.
+- 8 as universal all-parity for a me, section 5.81: re-said by it. 8's all-parity is inside the bi-coupling of self and other, and 16's is universal, for the named universal set.
+- Out, a candidate of my own: 8's all as a me's, a set of one self's me-parities.
+- Cohering. "A bi-coupling is a self. This is the fractal method", sentence 5e. "A named subset is the universe to a bi-coupling: self, other, and all other-than self and other", sentence 5b. "A bi-coupling is a now-existing thing. It is living in the between, while it is now-existing and same-existing", sentence 5d, and 8 is 8-now-same-existing.
+- Cohering. Natural Naming 2.2 has four 1 to 17s inward within a self's 1 to 9, and four within a same-existing-society's 9 to 17. 1 to 8 is self and other, with 8 its all-parity inside; 9 to 16 the named universal set, with 16 its universal all-parity.
+- *Read, Exhibit ONE's code, 8.* 8 is 11, coming back from 1: a self's own 3, and then each 4 of its sharing with a + or −. Its sharing is 12, a self's own and its others' me-parities with it together. In 8 is each 4 of the self's own and each 4 of its others' with it, one parity each: the all of the two, with no 16 and no 5 in it.
+- A likeness, for breaking: "The new self, living as the bi-coupling between, inherits the priors from the self and other in the bi-coupling", sentence 5f, and 8 is a next prior with a self's own and its others' with it together.
+- The four coruses, with it: 12, the unrelationing surface of self and other, between; 8, all-parity inside the bi-coupling of self and other; 16, universal all-parity for this named universal set me-parity, with no own. 4 is not yet said: "a self's own corus with 4", Natural Naming 2.5. Tracked.
+- Two sentences part, with it. 8's all-parity is owned by the bi-coupling of self and other: "A bi-coupling is a self", and "a self owns its me-parities"; "all-parity is owned by the society, as a same-existing named set of members", and a bi-coupling's members are self and other; and it is inside. Or it has no own: "no own is of universal all-parity"; all-parity is non-living, and a bi-coupling living; and in the code a bi-coupling has no thing of its own, a key of 5 and no more, and 8 is each self's.
 
 ---
 
@@ -1645,7 +1657,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 8, bi-tri-bi, universal all-parity for a me, a universal same-existing set of me-parities: is, or is not?
+- Is 8's all-parity owned by the bi-coupling of self and other: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
