@@ -24,6 +24,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 5g. The new self has its own corus, in the between, and a universal set of me-parities, each with its own direction into the universe from the new self's corus.
 5h. With the self and other having priors from bi-coupling prior-existings, the next bi-coupling is not a new self: it is a same-existing self.
 5i. Dormancy and unconsciousness are the same-existing thing. A bi-coupling in dormancy is a universal self and other me-parity vault, and the bi-coupling vaults of conception and dormancy are bothbothing.
+5j. Dormancy is durable 0 aiming, and is-not co-possibling.
 6. Same-as is a universal-morality: a name for a sameness in things distinguishable is-or-is-not.
 
 ### 1.2 A self
@@ -76,7 +77,7 @@ Each is from reading the code line by line.
 - **Beside 5b.** One resolving of a society is given its selves and their bi-couplings, and no more: each sharing is from a self of it to a self of it, and no line has a thing not of it. With one self and one moment, three are within it: the self's own priors; what arrives, from each self it is bi-coupled with; and each other self, with no line between the two with that moment.
 - **Beside 5c.** One resolving of a society is given two: its selves, and their bi-couplings. A sharing goes on only with its bi-coupling within the set of bi-couplings, one is-or-is-not, and the code has a bi-coupling as a name. No line makes, removes or changes one. Exhibit ONE's own table has two is-or-is-nots as social-parity's: each self, all or none; and a bi-coupling within or not.
 - **Beside 5f.** A self with no prior of a name, and what arrives of it each the same, has a first prior: a new entry in its own priors, the same as what arrived. A third self receiving from two has a first prior in each name the two are alike in, and in each name only one has. In a name the two are not alike in, a + and a − arrive with each moment and no first prior forms with any.
-- **Beside 5i.** Two selves alike in a name have a me-parity in their between with one moment and a 0 in it with the next, alternating. With the 0, each self's me-parity is within its self, not changing, the same as its other's. A third self with no prior inherits from a me-parity in the between, and a 0 gives it nothing. A 0 in a between is one moment only: with the next, each self inverts. No line has a clock.
+- **Beside 5i and 5j.** The lines have one durable 0: a self with no prior of a name, its two others not alike in that name. A + and a − arrive together with each moment, what surfaces is a 0, no first prior forms, and what the self shares of that name is a 0, passed over by each receiving self. It ends with the moment what arrives is each the same, and a first prior forms. A self with a prior has no 0 going on by itself: its not-changing is one moment, with the same arriving anew. The 0 two selves alike share is one moment, and is their sharing across.
 - **Beside 5h.** A first prior of a name forms one time, and a name once with a prior has a prior with each moment after: a self is inheriting with its first arrivings, and is asked same-existing with each next. A first prior is the same as what arrived, the same name and the same + or −, prior-existing with the sharing self and now-existing with the receiving self.
 - **Beside 5g.** Each name's next is from that name's prior and that name's arrivings: no line has one name's me-parity with an other name's. What a self's me-parities have together is one key within the set of selves, and nothing beside it. Same-as compares a name and its + or −, and nothing of whose it is.
 - **Beside 22.** The set of selves has nothing of its own: no line has a name with a me-parity of the society's.
@@ -156,12 +157,12 @@ Self-parity is a universal set of a self's me-parities, and social-parity the un
 
 ### 3.10 Two vaults, conception and dormancy
 
-Sentence 5i has dormancy and unconsciousness as one same-existing thing, and two vaults of a bi-coupling, bothbothing. Natural Naming has "a me consciously me and a same-existing-society unconsciously us", *us* the 0 a me and an other share, the between. A candidate in the lines: the between with a me-parity in it, conception; and the between with a 0 in it, dormancy; the right spiral alternating the two. Dormancy is then with resolving's is, beside do-no-harming, same-existing and inheriting, and conception with its is-not, beside improving, conceiving and birthing. The lines have a 0 in a between for one moment only, and Natural Biology has a dormancy of decades. The gathering has dormancy as "the stable form of living" and, beside it, "living has no stable form".
+Sentences 5i and 5j have dormancy and unconsciousness as one same-existing thing, a durable 0 aiming and no co-possibling, and two vaults of a bi-coupling, bothbothing. Natural Naming has "a me consciously me and a same-existing-society unconsciously us", *us* the 0 a me and an other share, the between, and an interest as "a continuing 0". The opening has aiming as a living thing possibling its own next-existing. In the lines the durable 0 is with the new self, living as the between, in each name its self and other are not alike in: both me-parities arrive with it with each moment, and it has them as a 0. A me-parity is conceived of a self-parity and an other-parity not the same, a dual exhaustion: conception and dormancy are then with one same between and the same names. In each name the two are alike in, the new self inherits and no me-parity is born.
 
-- Is dormancy the moment both selves of a bi-coupling are not changing, each sharing 0: is, or is not?
+- Is dormancy a new self's 0 in a name its self and other are not alike in: is, or is not?
+- Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
 - Is a bi-coupling in dormancy living: is, or is not?
 - Is *universal*, in a universal self and other me-parity vault, of the vault: is, or is not?
-- Is a me consciously me a me-parity changing and shared: is, or is not?
 - Is a bi-coupling-self dormant between one bi-coupling of its two and their next: is, or is not?
 
 ### 3.11 With no reading yet
