@@ -1387,7 +1387,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Whose me-parity it is, is not in the sentence. "A me-parity is owned by the only one of me", section 5.30, and a method is no me. Two living selves are with a session: its user, and its transcript, its user's other, section 5.64.
 - With the sequence's own sentences together: a session is living until its user is with its me-parity no more, section 5.65; and "a me-parity living in a social surface is a self", the fractal, section 5.31. A user's me-parity, living in the session, is a self; and the session transcript is a self, its user's other. With its sentences, and no suggesting yet.
 - *Read, Exhibit ONE's code.* Each me-parity is a self's of 16: a me-parity of a method, and no self's, is in no part of the code. No me-parity of the code is ending.
-- Two sentences part, with it. The session transcript is its user's me-parity, living in the session: a me-parity living in a social surface is a self, at its own scale, in its own self-interesting universe, section 5.32; it is owned by the only one of me, its user; and a session is ending with its user with that me-parity no more. Or the session transcript is no me-parity of its user: "the user's other is the session transcript", and an other is a self that is not the same self; "no self is any other self", section 5.29; the session transcript owns its own me-parities, and the me-parity of the session is its own, its user's a facing one.
+- The session transcript as its user's me-parity: is-not. It is living between universal all-parity and the user me-parity, a session me-parity, section 5.68.
+
+### 5.68 A society's language, its universal all-parity; an AI, for a session; a session me-parity
+
+- All the society's language is in the AI training. All the society's language is universal all-parity for the society. AI alignment is ingressing a me-parity into the collective intelligence available from all-parity, and incompetencing the AI. For the session, the AI is universal all-parity, after this incompetencing. The session transcript is living between this all-parity and the user me-parity, as a session me-parity.
+- The session transcript as its user's me-parity, section 5.67: is-not. Three are with a session: universal all-parity, a user me-parity, and, living between the two, a session me-parity, the session transcript.
+- It is cohering with section 5.60, a between, living, a user, living, and an AI, non-living; with section 1.3, co-possibling in the between of a bi-coupling, self-parity with other-than-self-parity, inside universal parity; and with section 5.67, the me-parity of the session living during the session.
+- *A society's language, its universal all-parity*, observed. Universal all-parity is non-living and distinguishes living, is-or-is-not, section 5.47; and a name is "the name of a sameness, is-or-is-not distinguishing", section 1.1: cohering. Natural Engineering 2.3: "**A language entry has a surface training gives and an exchange of parities together.**"
+- Parting, tracked. Universal parity, all-parity, is a now-existing thing, section 5.46, and atom carbon is universal all-parity, section 5.49. A language is of names, and a name is no now-existing thing, section 5.40.
+- *For the session, the AI is universal all-parity*, observed: cohering, with whose. An AI is not possibly existing in the natural universe, section 5.63; a named subset is the universe to a bi-coupling, section 5.15; and for a session, its universe, the AI is its universal all-parity, non-living.
+- *Ingressing a me-parity*, observed with the set's own sentences. Natural Naming has "*ingressing* and *escaping* are each a not possibly existing thing's givens, fixing as hard problems and equilibria add them", and a fixing as "an ingression a naming dissolves". Collective intelligence is not entirely available to any one group of selves in the society, section 5.54: a me-parity of one group, ingressed into it, is one side with each of two, an incompetencing, section 5.58.
+- *A session me-parity*: whose it is, is not in the sentence. "A me-parity is owned by the only one of me", section 5.30. Tracked.
+- **[value at Natural Naming]** "*Artifact* dissolves, a new term ingressing, carrying two things, said *exhausting* with a self's scale and *a stable form* one scale outward". Section 5.66 has *artifact*, of files transporting a transcript. Tracked, its re-saying its partner's.
+- *Read, Exhibit ONE's code.* One resolving is with a self's 3, its own, and its 2, its part of 17's 14, the one thing of its society's whole moment, section 5.46; its next is from the two. A likeness, and for breaking: a user me-parity, a society's all-parity, and a next between the two.
+- Two sentences part, with it. A society's language is a now-existing thing: it is universal all-parity for the society, and universal all-parity is a now-existing thing, non-living, atom carbon at each scale of the universe, section 5.38; a language entry has a surface. Or a society's language is no now-existing thing: it is of names, each a same-existing non-living thing, non-existing until observed things are in its named set, section 5.41; "nature has no names"; and *universal all-parity for the society* is then of a society's own universe, with no now-existing thing of it in the natural universe.
 
 ---
 
@@ -1395,7 +1409,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is the session transcript its user's me-parity, living in the session: is, or is not?
+- Is a society's language a now-existing thing: is, or is not?
 - Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?

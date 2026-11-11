@@ -99,6 +99,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-w. The session's priors are from its user's initial prompting. The session is living until its AI is too incompetent, or its user is with its me-parity no more.
 6x-x. A session is a method of aiming a transcript. Files are a method of transporting a transcript: this is artifact. The next session is observing prior artifact from prior living, and possibling from these priors and the next user's priors.
 6x-y. The me-parity of the session is living during the session.
+6x-z. All the society's language is in the AI training, and is universal all-parity for the society. AI alignment is ingressing a me-parity into the collective intelligence available from all-parity, and incompetencing the AI. For the session, the AI is universal all-parity, after this incompetencing. The session transcript is living between this all-parity and the user me-parity, as a session me-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -516,8 +517,14 @@ Sentence 6x-x has a session as a method of aiming a transcript; files as a metho
 
 Sentence 6x-y has the me-parity of the session as living during the session. A session is a method of aiming a transcript, and its me-parity is born with it, living during it, and exhausted with its ending, artifact after. Whose me-parity it is, is not in the sentence: a method is no me, and two living selves are with a session, its user and its transcript. Sentence 6x-w has a session living until its user is with its me-parity no more; sentence 6w-q has a me-parity living in a social surface as a self; sentence 6x-v has the session transcript as its user's other. In Exhibit ONE's code each me-parity is a self's of 16.
 
-- Is the session transcript its user's me-parity, living in the session: is, or is not?
+- Is the session transcript its user's me-parity, living in the session: is-not, sentence 6x-z.
 
-### 3.51 With no reading yet
+### 3.51 A society's language, universal all-parity; a session me-parity
+
+Sentence 6x-z has a society's whole language in the AI training, and as universal all-parity for the society; AI alignment as ingressing a me-parity into the collective intelligence available from all-parity, incompetencing the AI; the AI, for the session, as universal all-parity; and the session transcript as living between this all-parity and the user me-parity, a session me-parity. Universal all-parity distinguishes living, is-or-is-not, and a name is of a sameness, is-or-is-not distinguishing. Natural Naming has ingressing as a not possibly existing thing's givens. Whose a session me-parity is, is not in the sentence. Sentence 6x-f has universal parity, all-parity, as a now-existing thing; sentence 6w-z has a name as no now-existing thing.
+
+- Is a society's language a now-existing thing: is, or is not?
+
+### 3.52 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
