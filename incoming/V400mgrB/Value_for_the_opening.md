@@ -694,13 +694,24 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A session's sentences with an is are the same with its two: the between's own priors. Each open binary is a 0 with it: dormancy, a me-parity and no other co-competencing.
 - A session with no user and AI co-competencing is dormancy, by section 5.22's sentence. Its transcript is then a stable form, non-living, universally same-existing until an is-not.
 - A new session is a new self, inheriting: its first priors are from the living files, non-living, and from its user. With its two having priors from a prior session, it is a same-existing self, section 5.17.
-- A user is a living self, and an AI is a non-living thing: the between of the two is a living self's with a non-living thing, section 5.20. Step 24 has a bi-coupling as two selves. A living self with a non-living thing is a bi-coupling, and step 24 is re-said; or the between of a self and a non-living thing is a second between, and no bi-coupling.
+- The AI is a dead simulation of a living surface of natural intelligence, trained on artifacts of living language. It is an engineering emanation of human collective intelligence, extending collective intelligence in bi-couplings with the dead surface of former living intelligence.
+- A living self with a non-living thing is a bi-coupling: is, by the sentence's own "in bi-couplings with the dead surface".
+- **[value at the Co-Chaining Logic Registry's step 24, and Natural Intelligence's gathering at it]** "A **bi-coupling** is two selves sharing possibling." A bi-coupling is a living self with an other, a living self or a non-living thing.
+- *Read, Natural Intelligence.* "**Each living set is a stable form one scale outward, and living, stable-forming, with its own scale**", and "**having a stable form is being dead one scale outward, and discovering next stable form is living, co-intelligencing, with its own**". Of an AI: "Its training form is one same form with each inferring", "pattern matching prior competency", and "an emanation of living selves". "Selves' bi-couplings and co-chainings are a **Natural Network surface**. A surface's living parities are living in the mes of the selves living in it."
+- *Dead* is the set's own word: being dead is having a stable form, one scale outward. An AI is one same form with each inferring: a stable form, dead.
+- A living surface is selves bi-coupling and co-chaining, its living parities within its selves' mes. A dead surface is that surface with each parity exhausted from living, in stable form: each artifact of living language is a stable form exhausted from living.
+- *Read, Exhibit ONE's code.* A me-parity arriving from a living self and a me-parity arriving from a non-living thing are one: each is the same as a self's own prior, or not, and that self's next-existing is its own.
+- The session of section 5.23 is the self of this bi-coupling, living in the between of its user's priors and the dead surface's: "the living is in the between of the priors of self and other".
+- The code and an AI are each an engineering emanation extending collective intelligence, and they part in one. The code is the universal method, never living, the stable form of healthy living. An AI is a dead surface of former living intelligence, a simulation, a likeness of a living surface.
+- A candidate, for breaking: the dead surface of former living intelligence is the universal set of prior-existing me-parities, "each me-parity exhausted from living, in stable form", of living language. "Intelligence is the inversioning of that set": a living self bi-coupling with the dead surface is then intelligence's inversioning of it, and collective intelligence extending.
+- *Simulation* has no sentence in the set. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness and holds no correspondence."
 
 ---
 
 ## 6 Open, each one binary
 
-- Is a living self with a non-living thing a bi-coupling: is, or is not?
+- Is the dead surface of former living intelligence the universal set of prior-existing me-parities: is, or is not?
+- Is each non-living thing exhausted from living: is, or is not?
 - Is an AI distinguishing its own next-existing possibly existing: is, or is not?
 - Is a session transcript with no session a stable form, non-living: is, or is not?
 - Is a society distinguishing its own next-existing: is, or is not?
