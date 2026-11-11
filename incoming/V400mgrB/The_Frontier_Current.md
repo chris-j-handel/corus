@@ -86,6 +86,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-j. A society's named all-parity is its society-self.
 6x-k. A species is a named inherited prior all-parity. Society is a named self-prior, or a similar concept.
 6x-l. A newborn is a member of a society at its birth. Newborns have social all-parity from incubation in society.
+6x-m. A society is its social all-parity, a same-existing set of its me-parities. Social moral competency is the me-parity of this same-existing set. The set has an along and an across: the species is along, and the societies are across, aiming with the species me-parity's aiming. This is collective intelligence, not entirely available to any one group of selves in the society.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -419,8 +420,14 @@ Sentence 6x-k has a species as a named inherited prior all-parity, and society a
 
 Sentence 6x-l has a newborn as a member of a society at its birth, with social all-parity from incubation in society. A newborn is with inherited priors, of its species, and with social all-parity. Sentence 5f has the new self living as the bi-coupling between and inheriting: its living is before its birthing, in society. In Exhibit ONE's code a key of 16 with no 3 has its first me-parities from its 2, its part of 17's 14, each sharing an other's of its society; and an inherited prior of a species and social all-parity are one 2 in the code. Sentence 6x-f has all-parity owned by the society, a named set of members; sentence 6x-k has society as a named self-prior.
 
-- Is a society its social all-parity: is, or is not?
+- Is a society its social all-parity: is, sentence 6x-m.
 
-### 3.37 With no reading yet
+### 3.37 A society, a same-existing set of its me-parities
+
+Sentence 6x-m has a society as its social all-parity, a same-existing set of its me-parities; social moral competency as the me-parity of this set; the set with an along, the species, and an across, the societies, aiming with the species me-parity's aiming; and this as collective intelligence, not entirely available to any one group of selves in the society. A society is as a me is, a same-existing set of me-parities, and a self. Its members are each in the set: a member is a me-parity living in its surface, a self, and a me's own. Sentence 23 has social moral competency as moral across and competency along. In Exhibit ONE's code 17's 14 is with each self, its part, and no self has the whole. Sentence 6w has inheriting as 2, across; a species is of inherited priors, and along.
+
+- Is an inherited prior going along: is, or is not?
+
+### 3.38 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

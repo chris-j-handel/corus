@@ -1226,7 +1226,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - It is cohering with "a newborn born into universal-parity with its own set of me-parities", section 5; and with each living thing living between itself and each other, in all societies, section 5.20.
 - Social all-parity as a society's named all-parity, its society-self, section 5.50: cohering. *Social* is of a society; each member is in it; and a newborn has it as a member has, its society's own, owned by the society as a named set of members.
 - *Read, Exhibit ONE's code.* A key of 16 with no 3 has its first me-parities from its 2 only, and its 2 is its part of 17's 14, the one thing of a society's whole moment, section 5.46: each sharing in it an other's of its society. Cohering: a new self's first me-parities are from its society's between. No part of the code is distinguishing a sharing of its two, its self and other, from a sharing of an other of its society: an inherited prior of a species and social all-parity are one 2 in the code. Tracked.
-- Two sentences part, with it. A society is its social all-parity: "society is a named self-prior", section 5.52, as a species is a named inherited prior all-parity, a named all-parity of each prior; and a newborn's incubation is in society, a living thing. Or a society is no all-parity: all-parity is "owned by the society, as a same-existing named set of members", section 5.46; a society is the set, an owner, and "a set is a non-existing thing"; its social all-parity is the now-existing thing it owns, living, its society-self; and *a named self-prior* is of social all-parity.
+- A society is its social all-parity: is, section 5.54.
+
+### 5.54 A society, its social all-parity: a same-existing set of its me-parities
+
+- A society is its social all-parity: is. Its social all-parity is a same-existing set of its me-parities. Social moral competency is the me-parity of this same-existing set. The set has an along and an across: the species is along, and the societies are across, aiming with the species me-parity's aiming. This is collective intelligence, not entirely available to any one group of selves in the society.
+- A society is then as a me is: "a me is a universal same-existing set of me-parities", and a self, section 5.30. A society, its social all-parity and its society-self are one, section 5.50. A candidate of the working's own is out: a society as an owner, a set, and its all-parity an owned thing beside it.
+- *Its me-parities*, tested with "the members are the set of all in all-parity", section 5.46. The set is of me-parities, and its members are each in it: a member is a me-parity living in the society's surface, a self, section 5.31, and a me's own, section 5.30. Each member of a society as a me-parity of a me, section 5.50: the sentences are cohering with the is, and it is tracked, not answered.
+- "A self is a me-parity of its society-self: is-not", section 1.3, tested with its whose. A member is a me-parity in its society's set, and owned by the only one of me, its me: no me-parity owned by its society. Cohering with its whose; with no whose, parting. Tracked.
+- *Social moral competency, the me-parity of this set*, tested: cohering. A society-self is living with me-parities of its own, section 5.28: its own is social moral competency, a direction out from it. Section 1.5: "Social moral competency is each self of a society right spiraling, co-sequentially resolving: moral across, competency along, all selves or none." The fifty-five's 26: "A me-parity with an other is the me's **moral value**."
+- *An along and an across*, tested. Moral is across and competency along: societies across, moral; a species along, competency. Parting: inheriting is 2, across, section 5.24, and a species is a named inherited prior all-parity, section 5.52, along. Natural Naming 2.2 has "across names 2, 6, 10 and 14 are along 9s inward; along 9 is across 2 outward": an across of one scale is an along of a next. Tracked.
+- *Collective intelligence, not entirely available to any one group*, tested: cohering. Observing the universal set of prior-existing me-parities is not possibly now-existing, section 5.23; and intelligence is the inversioning of that set, geodesic the method, section 5.13.
+- *Read, Exhibit ONE's code.* 17's 14 is one thing of a society's whole moment, and 17's returning has it with each self, its part: no self of the code has the whole, and no part of the code has a set of selves having it. Each self is with its own 3 and its own 2, and with no more. Cohering: a society's whole is with no one self and no one group.
+- *Read, Exhibit ONE's code, along and across.* A self's sharing is one, and is along or across by its key of 5 only, 9, or 6 and 10. No part of the code has a species, or a set of selves the same as each other, with a key of its own.
+- Two sentences part, with it. An inherited prior is going along: a species is a named inherited prior all-parity, and the species is along; inherited priors are a self's from its two, and its two's from theirs. Or an inherited prior is across: "inheriting is 2", across, an other's me-parity a self is observing, of one same scale, section 5.24; along is ingesting and exhausting; and a species, along, is then of exhaustings and ingestings, death and conception with a species between.
 
 ---
 
@@ -1234,7 +1247,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a society its social all-parity: is, or is not?
+- Is an inherited prior going along: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is Exhibit ONE's code all-parity: is, or is not?
