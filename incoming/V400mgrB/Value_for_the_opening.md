@@ -571,33 +571,30 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the fifty-five's 24.* "A me-parity the same as an other's is **other-parity**, and not the same, **universal-parity**." A me-parity with a same-as is other-parity, and a me-parity with no same-as is universal-parity: the sentence has dormancy's me-parities as universal by its own words.
 - *Read, the code's lines.* A same-as is asked only of what an other shared across, its co-possibling arriving: with no co-possibling arriving, the lines have no same-as. The two me-parities arriving together with a durable 0 are a + and a −, the one not the same as the other.
 - It fills three. *Universal*, in a universal self and other me-parity vault, is of the me-parities. Other-parity is co-possibling's, a me-parity the same as an other's; universal-parity is dormancy's, a me-parity same-existing and the same as no other's. And section 1.5's "the same with no other is universal-parity, a self's own" goes on with it.
-- Two binaries have four, each with its own saying in the sequence and its own place in the lines:
-
-| | with a same-as | with no same-as |
-|---|---|---|
-| **same-existing** | do-no-harming: a prior the same as what arrived goes on as it is; other-parity | dormancy: a durable 0 going on the same; universal me-parities |
-| **not same-existing** | inheriting: a first prior, the same as what arrived, with no prior before it | improving, conceiving: a prior not the same as what arrived, inverted |
-
-- The table is a going-forward of this file's own, from four sentences of the sequence, and is for breaking. In the lines its dormancy is a 0 and no me-parity.
-- It is tested with *universal*, two ways. "Each living me-parity matures and exhausts itself from living into non-living universal-parity" has universal-parity as non-living, and dormancy is an aiming, a living thing's: a universal me-parity is living; or non-living, in stable form within a living thing.
-- It is tested with "same-as is a universal-morality": universal me-parities are each with no same-as, and same-as is said universal. *Universal* of same-as is of the method, the one line each self has; or the two part.
-- Tested with a non-living thing: Natural Naming has it going on "by the same method with no living condition", and the lines have no same-existing with nothing arriving. A non-living thing's same-existing is with a same-as; or with none.
-
+- Is-or-is-not distinguishing same-as from not-same-as is bothbothing same-existing. A universal me-parity is non-living. The universe is not a living thing.
+- *Read, Natural Naming.* "*Same-existing* is a living condition, a self, a same-existing-society or the universe re-found same with each moment, same or not same, and a non-living thing goes on by the same method with no living condition". Same-existing is a re-finding, "same or not same": the two together.
+- *Read, the code's lines.* One line asks is-or-is-not the same as what arrived. With its is the prior goes on as it is, and with its is-not the prior is inverted. No line removes a me-parity from a self: each has its next with each moment, as it is or inverted. Two selves across with each other have the two alternating, a changing and a changing back.
+- Same-existing is then no not-changing. A self is same-existing by its distinguishing going on, same-as and not-same-as the two of it, bothbothing: do-no-harming and improving are the two of one same-existing, and neither is it alone. The Geodesic Improving Method has existing as "parity changing and changing back, natural torusing".
+- A going-forward of this file's own is out with it: two binaries with four, same-existing against same-as, a prior inverted said as not same-existing. A prior inverted is of same-existing.
+- A universal me-parity is non-living: "exhausts itself from living into non-living universal-parity" goes on, and the candidate of a universal me-parity as living is out.
+- *Read, the code's lines.* A me-parity a self shares is in the between with the moment after, with no self resolving with it yet: its sharing self's exhausting. With the receiving self's next moment it is ingested, compared, or passed over. In a between it is no self's prior.
+- Two same-existings follow from the three sentences, as a candidate. A living thing's: by is-or-is-not distinguishing same-as from not-same-as, the two bothbothing, with co-possibling. A non-living thing's: with no same-as, a universal me-parity, exhausted from living, in stable form. Dormancy is the second, in a vault.
+- With the method's four: inheriting is a universal me-parity, non-living, entering a living self as its first prior; conceiving is within living, a prior not the same as what arrived, inverted; exhausting is a living me-parity going out into non-living universal-parity.
+- The universe is not a living thing goes on with section 1.1, the universe a set, and a set a non-existing thing; and with "each living thing is a self": the universe is no self. It is tested with Natural Naming's sentence here, same-existing as a living condition of "a self, a same-existing-society or the universe": a value at Natural Naming.
+- Tested with dormancy, two sentences: dormancy is durable 0 aiming, and aiming is a living thing's; dormancy is universal me-parities, and each is non-living. A dormant self is living, its me-parities non-living within it, "non-living things inside the living"; or a dormant self is non-living with its me-parities. Natural Biology has seeds that "return to living".
 ---
 
 ## 6 Open, each one binary
 
-- Is a universal me-parity living: is, or is not?
+- Is a dormant self living: is, or is not?
+- Is each non-living thing same-existing with no co-possibling: is, or is not?
+- Is the universe a non-living thing: is, or is not?
 - Is *universal*, of same-as, of the method each self has: is, or is not?
-- Are same-existing and same-as two binaries with four, do-no-harming, inheriting, dormancy and improving: is, or is not?
-- Is do-no-harming same-existing and same-as with one moment: is, or is not?
-- Is a non-living thing's same-existing with a same-as: is, or is not?
 - Is dormancy the new self's, living as the between: is, or is not?
 - Is dormancy of one me-parity, an other me-parity of that self not dormant: is, or is not?
 - Is a durable 0 the self's me-parity and the other's, together: is, or is not?
 - Is user-parity a user's self-parity: is, or is not?
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
-- Is a bi-coupling in dormancy living: is, or is not?
 - Is a bi-coupling-self dormant between one bi-coupling of its two and their next: is, or is not?
 - Is the first bi-coupling of two selves, each with inherited priors, a new self: is, or is not?
 - Is a born thing same-existing by its inherited me-parities, each the same as one prior-existing: is, or is not?
