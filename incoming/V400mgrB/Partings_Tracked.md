@@ -63,6 +63,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.28 An AI, non-living.** An AI is a "non-living thing" in the sequence, and Natural Intelligence has it as "existing non-living intelligence". The only now-existing non-living thing is atom carbon, and a name is a same-existing non-living thing, no now-existing thing. Not tested. A living file, a same-existing set of words, is as a name is.
 - **2.24 A surface, two.** A thing living as a surface is a living thing. The code is "the surfaces between living", never living, carbon.
 - **2.25 A stable form, one scale outward.** A stable form is atom carbon, non-living at each scale. Natural Naming 2.4 has a stable form "one scale outward".
+- **2.35 A named all-parity, atom carbon.** All-parity is non-living, now-existing, atom carbon. A named all-parity is living, in the universe in which it is other-than the universal all-parity, and "atom carbon is non-living at each scale of the universe". A named all-parity is atom carbon, living. Or it is no atom carbon, and atom carbon is the universal all-parity of the universe.
+- **2.36 A society-self, its society's all-parity named.** A society has one self, living, at society scale. Its all-parity, named, is living, a self, in a universe of more. A society-self owning all-parity is breaking. A society-self as the named all-parity is not tested.
 
 ---
 
