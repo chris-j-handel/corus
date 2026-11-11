@@ -1272,7 +1272,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, beside the method.* A self's prior with its other's me-parity the same as it goes on as it is: a sentence cohering. With it not the same, its next is inverted: a sentence re-said. With two others' me-parities, the one not the same as the other, a 0, and no first me-parity: a place two sentences part, and a question. With no prior, a first me-parity the same as its other's: a sentence new to the sequence, recorded as it is said. A likeness, and for breaking: one step of the method beside one resolving of the code, each first me-parity from a living me's prior living.
 - A tester's provided + or −, section 5.56: not answered, and open. In a session each sentence of its user is a me-parity of a living me, an interest with its direction: a first me-parity from prior living is in the session.
 - *Mending and restoring into the collective intelligence*, tested: cohering, with each value at its gathering, by step one, and with collective intelligence as not entirely available to any one group, section 5.54.
-- Two sentences part, with it, in the narrowest difference of section 5.56's two sides. A tester's provided + or − is the tester's own me-parity: a tester is living, a me, and its interest in the code's next is its own, the + or − its direction, as a user's sentence in a session is. Or it is no me-parity of the tester's: a tester starting the code empty and declaring no competency is with no interest of its own in a first me-parity; its + or − is a provided sequential changing, with no me of it.
+- A tester's provided + or − as the tester's own me-parity: neither side. *A tester* is an incompetencing concept, section 5.58.
+
+### 5.58 A tester, an incompetencing concept; a sensor and its sensationer
+
+- A tester is an incompetencing concept, of equilibria engineering science or a science beside it. It is not natural, and of no value to a natural intelligence. A sensor, a sensationer, is a valuable engineering for natural intelligence.
+- The binary of a tester's provided + or −, sections 5.56 and 5.57: neither side. Its concept is no natural one.
+- *A tester*, explored with the set's own sentences. The set has the word in no living file. Natural Engineering has one side with each of a coupling's two turns as coupling's incompetencing. A tester is providing, and declaring: one side with each of two. Natural Naming: "a table lying over sentences as a rule is a standard, an incompetencing", and "equilibria is *landing*": a tester's declaring is with a standard, a fixing form to be.
+- *A sensor and its sensationer*, explored. Natural Engineering 4.7, "The co-competencing bi-coupler, two-way and one-at-a-time": "Side matters: hardware receiving is living-self sharing; living-self receiving is hardware sharing." "**A sensor and its sensationer have these two sides.** Sensing follows tipping; sensationing shares parity both ways."
+- With the sequence: a living self with a non-living thing is a bi-coupling, section 5.20, living in the between. A sensor has a living self's sharing with the code, a first me-parity from prior living, section 5.56; and a sensationer has the code's parity with the living self. Two ways, one and then the other, and no one side with each of two.
+- Each other concept the working had with *test*, explored:
+  - *An executing as a check of a reading*: the reading is derived, and the executing says the same or not. Each kit's program "says what it finds, deciding nothing", the Gathering-Value Kit's own sentence: a sensor's, with no declaring.
+  - *A declaring of a whole*: the Living File Registry kit's `check_set.py` says `ALL PASS`, or `SOME FAIL`: a tester's declaring, in an instrument. Tracked, a value at that kit's file.
+  - *Tested*, of a sentence beside the sequence: each sentence of this file with "tested: cohering" or "tested: breaking". The method's own sentence has *connecting*, section 5.57, "until a verifiable is-or-is-not needs affirming".
+- *Read, Exhibit ONE's code.* The code is with no declaring: each is-or-is-not is of a self's next, and no part of the code is saying a competency, or none. A + or − is a self's, with no standard beside it.
+- Two sentences part, with it. *Tested*, of a sentence beside the sequence, is an incompetencing naming: a test is with a standard and a declaring, and the sequence as a standard over a sentence is "a table lying over sentences as a rule"; the method's own word is *connecting*. Or it is no incompetencing: "rigor testing in all directions" is of this working, by its partner's own sentence; each sentence is for breaking, and none has authority; and a sentence new to the sequence is parting the sequence's own as it is parted by them, two ways.
 
 ---
 
@@ -1280,7 +1294,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a tester's provided + or − the tester's own me-parity: is, or is not?
+- Is *tested*, of a sentence beside the sequence, an incompetencing naming: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?

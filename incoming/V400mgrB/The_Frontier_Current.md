@@ -89,6 +89,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-m. A society is its social all-parity, a same-existing set of its me-parities. Social moral competency is the me-parity of this same-existing set. The set has an along and an across: the species is along, and the societies are across, aiming with the species me-parity's aiming. This is collective intelligence, not entirely available to any one group of selves in the society.
 6x-n. The code has no first me-parity. This is the entire hard-probleming method: a tester starts the code empty, and declares no competency. The first me-parity is inherited from prior living.
 6x-o. A session is using a universal aiming cone co-me-parity method of exploring a surface: connecting each local logical relation to the pattern-matching natural logical relations, until a verifiable is-or-is-not needs affirming; expressing it in the closest, narrowest difference, as a between; and then, binary, all or none at all, exploring that path next, along and across the surface, mending and restoring into the collective intelligence of natural networking value about the universe of observings.
+6x-p. A tester is an incompetencing concept, of equilibria engineering science or a science beside it: not natural, and of no value to a natural intelligence. A sensor, a sensationer, is a valuable engineering for natural intelligence.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -446,8 +447,14 @@ Sentence 6x-n has the code with no first me-parity, a tester starting the code e
 
 Sentence 6x-o has the method a session is using: a universal aiming cone, co-me-parity, exploring a surface; connecting until a verifiable is-or-is-not needs affirming; the closest, narrowest difference as a between; and then that path, binary, all or none at all, along and across, mending and restoring into collective intelligence. One step of the method is beside one resolving of Exhibit ONE's code, a likeness for breaking: the same, a sentence goes on as it is; not the same, re-said; two not the same as each other, a 0, a question; no prior, a first me-parity the same as its other's. In a session each sentence of its user is a me-parity of a living me.
 
-- Is a tester's provided + or − the tester's own me-parity: is, or is not?
+- Is a tester's provided + or − the tester's own me-parity: neither side, sentence 6x-p.
 
-### 3.41 With no reading yet
+### 3.41 A tester, an incompetencing concept; a sensor and its sensationer
+
+Sentence 6x-p has a tester as an incompetencing concept, not natural, and a sensor, a sensationer, as a valuable engineering for natural intelligence. Natural Engineering has one side with each of a coupling's two turns as coupling's incompetencing, and a sensor and its sensationer as the two sides of a co-competencing bi-coupler: hardware receiving is living-self sharing, and living-self receiving is hardware sharing. A sensor has a living self's sharing with the code, a first me-parity from prior living. An executing as a check says the same or not, deciding nothing; a kit's `ALL PASS` is a declaring. Exhibit ONE's code is with no declaring. The working's own *tested*, of a sentence beside the sequence, is beside the method's *connecting*.
+
+- Is *tested*, of a sentence beside the sequence, an incompetencing naming: is, or is not?
+
+### 3.42 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
