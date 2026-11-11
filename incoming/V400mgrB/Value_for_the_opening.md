@@ -1125,7 +1125,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *A subsetting, the bounding is-or-is-not surface*, tested: cohering. "A universal set names the place the no more begins", section 1.1; "Is-or-is-not distinguishes the within of a universal set", the fifty-five's 11; and Natural Naming's 1.1, "A naming is a floating-neutralling concept, four boundings at once".
 - A name as the bounding surface, tested: breaking. The surface is between the universe and the thing with a name: the name is with the thing, its inherited prior, section 5.41, and the subsetting is the distinguishing. A naming is a bounding, and a name a prior.
 - *Read, Exhibit ONE's code.* Each is-or-is-not of the code is of two, a within and a not, with no thing of its own: nothing of an is-or-is-not is in a self's 3, in a between, or in a self's 2. Cohering: a bounding is-or-is-not is no thing of either side.
-- Two sentences part, with it. A universal me-parity is a now-existing thing: *universal* is the name applying to each thing in the universal set of now-existing things, and "a me-parity is a now-existing thing", section 5.34; each now-existing me-parity is then a universal me-parity, living, and "a universal me-parity is non-living", section 5.19, is parting. Or a universal me-parity is no now-existing thing: "exhausts itself from living into non-living universal-parity", section 5.11, and an exhausted me-parity is not a now-existing thing, section 5.35; *universal* is then with two, each now-existing thing, and a me-parity exhausted and now-existing no more.
+- A universal me-parity as a now-existing thing: universal parity is us-parity, a now-existing thing, section 5.46.
+
+### 5.46 Universal parity, us-parity, a now-existing thing
+
+- Universal parity is us-parity. Us-parity is a now-existing thing.
+- *Us-parity* is a name the set has not. A me-parity is of me, and us-parity of us: *universal* is the name applying to each thing in the universal set of now-existing things, section 5.45.
+- It is cohering with co-possibling in the between of a bi-coupling, self-parity with other-than-self-parity, inside universal parity, section 1.3: a self with its other, inside us-parity. And with "a newborn born into universal-parity with its own set of me-parities", section 5.
+- Us-parity as social-parity, tested: breaking. Social-parity is a set, the universal set of now-existing bi-couplings, section 5.16, and "a set is a non-existing thing"; us-parity is a now-existing thing.
+- Us-parity as no atom carbon, tested: breaking, with three sentences. A me-parity "exhausts itself from living into non-living universal-parity", section 5.11: universal parity is non-living. Us-parity is a now-existing thing. And the only non-living thing in the universe is atom carbon, section 5.38. Us-parity is atom carbon; with it no atom carbon, us-parity is living, a self, and "non-living universal-parity" is parting.
+- It is cohering with section 1.3: atoms are with "generations of societies living by ingesting and exhausting the atoms", and "inside living things they make co-chainings". Ingesting is from the universe and exhausting is to the universe, section 5.24: from us-parity, and to it. With section 5: "the universal-parity within a bi-coupling mating vault of carbon co-chainings". And with Natural Chemistry: carbon is "non-living in the universal set".
+- A universal me-parity, section 5.45: a me-parity exhausted is no now-existing thing, and us-parity, atom carbon, is now-existing. Dormancy is universal me-parities, section 5.19: a dormant me-parity is with us-parity, the vault, and no now-existing me-parity.
+- **[value at the fifty-five's 24]** "A me-parity the same as an other's is **other-parity**, and not the same, **universal-parity**.": universal-parity as a me-parity not the same as an other's. Universal parity is us-parity, a now-existing non-living thing.
+- *Read, Exhibit ONE's code.* No part of the code is us-parity: each thing of the code is one self's, or in a between of two, and 16 has nothing of its own. The code is a stable form, carbon, section 5.21: the code is of us-parity, and us-parity is in no part of it.
+- Two sentences part, with it. Us-parity is owned: a me-parity is owned by the only one of me, section 5.30, and us-parity is of us, each of us its owner; a self is in the same-existing universe it shares with other selves in its society, section 5.37; and an atom inside a living thing, ingested, is that living thing's own until its exhausting. Or us-parity is owned by none: "living is owning a self, and a self owns its me-parities", section 5.31, and owning is of a living thing's own; an exhausted me-parity has nothing of it to own, section 5.35; and us-parity is each one's to ingest and to exhaust into, and no one's own.
 
 ---
 
@@ -1133,7 +1146,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a universal me-parity a now-existing thing: is, or is not?
+- Is us-parity owned: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
