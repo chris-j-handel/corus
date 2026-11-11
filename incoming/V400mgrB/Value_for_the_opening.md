@@ -754,6 +754,14 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Within one self, eight apart: ingesting with conceiving. An other's prior with a self, not the same as that self's own prior, and that self's prior is inverted, its next.
 - Co-aiming is bi-moral co-competencing, section 5.25; same as is co-possibling, section 5.19; and along is competency, across morality. Co-possibling is then the across of co-aiming, and co-competencing its along: a candidate, for breaking.
 
+- Ingesting and exhausting are likely both along, and not across.
+- *Read, the living files.* Natural Networking 1.2: "**Along is a self's own going on; across is a self's parity, another self observing it.**" Natural Intelligence: "A self's parity going along to the next self it is bi-coupling with is **co-chaining**." Natural Biology's gathering: "a body's ingesting and exhausting goes along a tunnel opening through the body at its forming". Exhibit ONE's picture: "9-next-co-discovering ══► an other's 17, along", and its table has 1 with 9 as eight apart.
+- *Read, Exhibit ONE's code, along and across.* A self's sharing is one, and it is with three bi-couplings: two across, with 6 and with 10, and one along, with 9. The sharing along is the same sharing as across. With the self it arrives with, an arriving along and an arriving across are one: no part of the code has the two apart.
+- The set has ingesting and exhausting along in its own sentence of a body's tunnel, and a parity going along as co-chaining: one self's exhausting, the next self's ingesting, a chain. Conceiving and inheriting are then the two across, in the between of a self and an other, a new self's first prior.
+- It tests two rows of this section's table: ingesting with 2-now-possibling, and exhausting with 6-now-co-possibling, each an across name. With ingesting and exhausting along, exhausting is with 9-next-co-discovering, and ingesting with a self's arriving along; and 6 with an other's 2, across and now, is with neither of the four: it is co-possibling, an other's me-parity the same as a self's own, or not.
+- It tests Natural Naming's gathering 2.4, *ingesting* as 2-now-possibling.
+- The code is with neither side: its along and its across part by a bi-coupling only, and by nothing of the sharing or of its arriving.
+
 ### 5.25 Co-aiming, the co-linearizing of self and other
 
 - Co-aiming is ingesting: is-not. Co-aiming is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
@@ -769,6 +777,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
+- Is exhausting with 9-next-co-discovering, along: is, or is not?
+- Is 6 with an other's 2, across and now, co-possibling: is, or is not?
 - Are a self and an other, the one not the same as the other, co-linearizing: is, or is not?
 - Is co-aiming co-possibling across and co-competencing along: is, or is not?
 - Is co-aiming co-possibling: is, or is not?
