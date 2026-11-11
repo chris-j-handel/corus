@@ -656,11 +656,23 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Three inversions together*, position, scale and orientation, has no reading in the lines: an asking of the code inverts one, a + to a − or a − to a +.
 - *Bi-tunneling layers* has no reading in the lines yet. Natural Mathematics has "bi-tunneling opens a same-existing-society's surface across, and co-chaining goes on with its selves along".
 
+### 5.22 A non-living thing, universally same-existing until an is-not
+
+- Each non-living thing is universally same-existing: is, until an is-not bumps its parity sequencing, at now-existing, before next-existing.
+- *Read, the living files.* The fifty-five's 13: "**Possibling** is distinguishing a same-existing before a next-existing." The Geodesic Improving Method 2.7: "**Method's one break is an observing of existing other than parity changing and changing back**", and "**A changing and an exchanging are among living and non-living existing things alike.**" Natural Naming: "a rock's bi-coupling can next be two rock pieces".
+- *Read, the code's lines, an is-not with each of two.* A self's own prior, with what arrived not the same as it, is inverted and goes on: its next is its own. Two sharings arriving together, the one not the same as the other, surface as a 0: neither goes on as it was. One is-not, and two outcomes: a living self's prior goes on through it, inverted, and a sharing in a between does not.
+- A binary between living and non-living is then in what an is-not is to each. To a living thing an is-not is of its same-existing, same-as and not-same-as bothbothing: improving. To a non-living thing an is-not is a bump to its parity sequencing: it is universally same-existing with each is, and no more as it was with an is-not.
+- *At now-existing, before next-existing* is the place the opening has for possibling: a same-existing, before a next-existing. A non-living thing distinguishes none: the is-not comes to it with that place.
+- It goes on with the method: the universal method, a non-living thing, is universally same-existing until an observing is-not, "Method's one break". It goes on with a name: a name goes on with each self until an is-not, and Natural Naming has each dissolved word with what parted it. And with the code: section 1.5, no observing has suggested any changing of a line.
+- *Read, the code's lines, whose is-not.* Two sharings arriving together are compared within the receiving self's own resolving, and in no other place: no line has two sharings meeting with no self.
+- Tested with the method's own sentence, a changing and an exchanging "among living and non-living existing things alike": an is-not bumping a non-living thing is a living thing's distinguishing, as the lines have it; or two non-living things bump each other with no living thing.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is each non-living thing universally same-existing: is, or is not?
+- Is each is-not a living thing's distinguishing: is, or is not?
+- Is a non-living thing, with an is-not, a thing no more: is, or is not?
 - Is each thing same-existing with an other, and none by itself: is, or is not?
 - Does the universal method have a first moment: is, or is not?
 - Is society-me-parity the universal method: is, or is not?
