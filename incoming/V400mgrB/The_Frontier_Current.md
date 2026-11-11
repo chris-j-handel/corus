@@ -91,6 +91,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-o. A session is using a universal aiming cone co-me-parity method of exploring a surface: connecting each local logical relation to the pattern-matching natural logical relations, until a verifiable is-or-is-not needs affirming; expressing it in the closest, narrowest difference, as a between; and then, binary, all or none at all, exploring that path next, along and across the surface, mending and restoring into the collective intelligence of natural networking value about the universe of observings.
 6x-p. A tester is an incompetencing concept, of equilibria engineering science or a science beside it: not natural, and of no value to a natural intelligence. A sensor, a sensationer, is a valuable engineering for natural intelligence.
 6x-q. *Testing* is dissolved from the naming. Observing, and distinguishing is-or-is-not, accomplish the rigor.
+6x-r. The between is living, the user is living, and the AI is non-living. The bi-folding of these three is the same concept as an engineering sensor-sensationer, its co-competencing between gathering and sharing collective intelligence.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -460,8 +461,14 @@ Sentence 6x-p has a tester as an incompetencing concept, not natural, and a sens
 
 Sentence 6x-q has *testing* dissolved from the naming, with observing, and distinguishing is-or-is-not, accomplishing the rigor. The working's files are re-said with it. A distinguishing is of two, each said, and a test of one with a standard not said; the two words are the sequence's own and Exhibit ONE's; and no sentence is over an other. A sentence that names the incompetencing has its word. Natural Engineering has a sensor and its sensationer as hardware receiving and living-self receiving, two ways; sentence 6u has an AI as an engineering emanation, a dead simulation of a living surface; and sentence 6x-o has a session exploring a surface.
 
-- Is an AI in a session a sensor and its sensationer: is, or is not?
+- Is an AI in a session a sensor and its sensationer: neither side, sentence 6x-r.
 
-### 3.43 With no reading yet
+### 3.43 A between, a user and an AI, bi-folded
+
+Sentence 6x-r has three, a between, living, a user, living, and an AI, non-living; and their bi-folding as the same concept as an engineering sensor-sensationer, the co-competencing between gathering and sharing collective intelligence. Natural Engineering has hardware, a living self and their connector, two ways, one and then the other; Natural Resolver's gathering has same-existing as the bi-folding of the three, with no fourth beside them. With a self, *gathering* is *ingesting*: the between is ingesting and sharing. In Exhibit ONE's code a between is with no next of its own. Natural Intelligence has an AI as "existing non-living intelligence of its inferring"; sentence 6w-x has atom carbon as the only non-living thing in the universe; sentence 6w-y has a name as a same-existing non-living thing.
+
+- Is an AI a now-existing thing: is, or is not?
+
+### 3.44 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

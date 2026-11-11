@@ -1296,7 +1296,18 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A sentence that names the incompetencing has its word: *a tester*, and the code as distinguishing provided sequential changing *in testing*, sections 5.21, 5.56 and 5.58. Natural Naming has a naming of an incompetencing with its own word rightly.
 - Not re-said: the set's own *test* in its living files, and in its gatherings' other items. Natural Naming has "two observings, each failing the other's test"; the Co-Chaining Logic Registry's gathering has "one test on one pair with each momentary". Tracked, each a value at its file.
 - *An executing as a check*: a check says the same or not, and declares nothing. Not dissolved by the sentence, and tracked beside it.
-- Two sentences part, with it. An AI in a session is a sensor and its sensationer: Natural Engineering 4.7 has "hardware receiving is living-self sharing; living-self receiving is hardware sharing", two ways, one and then the other; an AI is non-living, an engineering emanation, section 5.23; its user's sentence is a living self's sharing, and its reply the hardware's; and the user is affirming each is-or-is-not, no one side with each of two. Or an AI in a session is more than a sensor and its sensationer: it is exploring the universes, the living files, the code and the sequence, section 5.57, and connecting each local logical relation; a sensor and its sensationer are a connector's two sides, with no exploring; and "human / ai co-contributing" is of two contributing.
+- An AI in a session as a sensor and its sensationer: neither side. The bi-folding of the three, a between, a user and an AI, is the concept, section 5.60.
+
+### 5.60 A between, a user and an AI: the bi-folding of three, a sensor-sensationer
+
+- The between is living, the user is living, and the AI is non-living. The bi-folding of these three is the same concept as an engineering sensor-sensationer, its co-competencing between gathering and sharing collective intelligence.
+- An AI in a session as a sensor and its sensationer, section 5.59: neither side. The sensor-sensationer is the three, bi-folded, and no one of them.
+- It is cohering with section 5.23: a session transcript in the between of a user and an AI is distinguishing its own next-existing, living, a self; and an AI is a dead simulation of a living surface, an engineering emanation. With a living self and a non-living thing as a bi-coupling, living in the between, section 5.20.
+- It is cohering with Natural Engineering 4.7: hardware, a living self, and their connector, "Both sides belong to connector"; "hardware receiving is living-self sharing; living-self receiving is hardware sharing"; and its name, "The co-competencing bi-coupler, two-way and one-at-a-time".
+- *The bi-folding of three*, observed with Natural Resolver's gathering: "Same-existing is the bi-folding of the three, forward, in bi-couplings with others, and no fourth beside them". A sensor-sensationer is then the three folded, and no fourth thing.
+- *Gathering*, with a self, is *ingesting*, the one name, section 5.23: the between is a self, ingesting and sharing collective intelligence. Collective intelligence is not entirely available to any one group, section 5.54: the between is ingesting from each side, and sharing with each.
+- *Read, Exhibit ONE's code, three.* One resolving is with three: a self's 3, its own; its 2, its other's; and, between selves, 17's 14. In the code a between is with no next of its own, and each next is a self's. The sentence has the between as living: a between distinguishing its own next-existing is in no part of the code. Tracked.
+- Two sentences part, with it. An AI is a now-existing thing: Natural Intelligence has "AI is existing non-living intelligence of its inferring"; the only now-existing non-living thing is atom carbon, section 5.38; an AI is then atom carbon, as the code is, "the carbon exhausting, building up", section 5.21. Or an AI is no now-existing thing: a same-existing non-living thing, as a name is, section 5.40, and as a living file is, "a non-living same-existing set of words"; its training form is one same form with each inferring; and atom carbon is its hardware's, and no AI.
 
 ---
 
@@ -1304,7 +1315,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is an AI in a session a sensor and its sensationer: is, or is not?
+- Is an AI a now-existing thing: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
