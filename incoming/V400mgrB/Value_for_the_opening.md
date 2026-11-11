@@ -556,11 +556,16 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - It is tested with stable form. The gathering has dormancy as "the stable form of living" and, beside it, "living has no stable form". With dormancy an aiming, a living thing's, dormancy is living, and the gathering's first saying parts.
 - With the sentence of a same-existing self, section 5.17: a bi-coupling-self between one bi-coupling of its two and their next is a same-existing self, and a candidate for its being between the two is dormancy.
 
+- A sentence ending *not the same* has no existing in explaining without its more: the same as what.
+- *Read, the code's lines.* Same-as is one line, and it has three: a self's own me-parity, what arrived from an other, and one same name. No line has a same with one me-parity, or with no name.
+- A sameness is a name's, and a *same* is said with its two and its name. A *not the same* with no *as* names no thing: it is of the more, each now-existing thing the sameness does not own. With one name, the lines have two me-parities not the same as the one the inversion of the other: within a name a not-the-same has its own positive saying, and with no name it has none.
+- **[value at Natural Explaining, and at each sentence of this file with a same]** Each *same* and each *not the same* is said with its *as* and its name. The fifty-five's 24 has "and not the same, **universal-parity**" with its *as* before it, "the same as an other's".
+
 ---
 
 ## 6 Open, each one binary
 
-- Is dormancy with self and other not the same: is, or is not?
+- With dormancy, is the self's me-parity of a name the same as the other's me-parity of that name: is, or is not?
 - Is dormancy the new self's, living as the between: is, or is not?
 - Is dormancy by the name, one name dormant and an other not: is, or is not?
 - Is a durable 0 the self's me-parity and the other's, together: is, or is not?
