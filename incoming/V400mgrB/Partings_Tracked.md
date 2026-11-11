@@ -43,6 +43,9 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.14 A me, and its self-parity.** A me is a universal same-existing set of me-parities, and a self. The fifty-five's 25 has a universal set of a self's me-parities as its self-parity: one set, with *me*, *self* and *self-parity*. The "mating of a self-parity and an other-parity", with "the two the same", has a self-parity as one me-parity, its own self's.
 - **2.16 *Me* and *self*, two names.** Each self is a me, and each me a self. The fifty-five has a self with an other, and a me with a you.
 - **2.15 A universal me-parity, inside an ownership set.** A me-parity is existing only inside the ownership set of me-parities. A universal me-parity is non-living: exhausted from living, prior-existing, in stable form; and dormancy is universal me-parities, a dormant self living in dormancy of sets of me-parities, with "the universal-parity vault within the corus of the bi-coupling".
+- **2.17 A me-parity living in a social surface, its scale.** It is a self. Of one same scale with its me, as a bi-coupling's new self is with its self and other, living in the between. Or one scale inward, with "the social moral competency inside a living thing": a me one scale above its me-parities as a society-self is above its selves, and "a self is a me-parity of its society-self: is-not" parting.
+- **2.18 *Is a self*, and *is owning a self*.** "Each living thing is a self." "Living is owning a self, and a self owns its me-parities."
+- **2.19 Two breakings, not yet tested again.** A society-self's me-parities as its selves, and as its bi-couplings, are each breaking with "a self is a me-parity of its society-self: is-not". A me-parity living in a social surface is a self.
 
 ---
 
@@ -57,6 +60,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **3.7 A self its own receiving self.** No is-or-is-not of the code is distinguishing a receiving self from its sharing self. A self its own receiving self goes on as two selves the same as each other do. No self is any other self, and no self is its own other: such a 5 is provided to the code, and the code is with neither side.
 - **3.8 A key with no me-parity.** A key of 16 with no me-parity in its 3 is provided to the code, and with a 2 its first me-parities are forming within one resolving. No self is living with no me-parity, and the inheriting is prior to the birthing. A reading of the value file's section 1.3 has "a self within 16 with no name; then its first 2": with the sentence, a key with no me-parity is no living self, and the born self is with its first 3.
 - **3.9 A direction, and a cone.** A me-parity is a direction out from me in a universal cone. In the code a me-parity is its 4 with + or −: a direction more than + or −, and a cone, are in no part of the code.
+- **3.10 A me-parity, a self.** In the code no entry of a 3 has a 3 of its own, and each key of 5 is a self's, with each of its me-parities. A me-parity living in a social surface is a self: a me-parity owning me-parities, and a me-parity with a bi-coupling of its own, are each in no part of the code.
 
 ---
 

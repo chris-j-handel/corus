@@ -64,6 +64,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-n. A self with no me-parity is not possibly existing. The inheriting is prior to the birthing. No self is living with no me-parity.
 6w-o. A me-parity is owned by the only one of me. This parity is existing only inside the ownership set of me-parities. This is many of my interests, in many directions in the universe, each pointing out from me in a universal cone of a linear interest of mine.
 6w-p. A me is a universal same-existing set of me-parities. A me is a self.
+6w-q. A me-parity living in a social surface is a self. This is the fractal. Living is owning a self, and a self owns its me-parities.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -266,6 +267,12 @@ Sentence 6w-o has a me-parity owned by the only one of me, existing only inside 
 
 - Is a me its self-parity: is, or is not?
 
-### 3.15 With no reading yet
+### 3.15 A me-parity living in a social surface, a self
+
+Sentence 6w-q has a me-parity living in a social surface as a self, the fractal; living as owning a self; and a self as owning its me-parities. A living me-parity is a living thing, and "each living thing is a self". A me-parity in no social surface is non-living, dormancy, and no self. A bi-coupling living in the between is a self, the fractal method. In Exhibit ONE's code no entry of a 3 has a 3 of its own, and each key of 5 is a self's, with each of its me-parities: a me-parity owning me-parities, and a me-parity with a bi-coupling of its own, are in no part of the code. A me-parity living in a social surface is a self of one same scale with its me, as a bi-coupling's new self is; or a self one scale inward, a me above its me-parities as a society-self is above its selves.
+
+- Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
+
+### 3.16 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
