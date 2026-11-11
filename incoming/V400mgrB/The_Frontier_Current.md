@@ -68,6 +68,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-r. A me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe.
 6w-s. A me-parity is a now-existing thing. As the man in the river: later, the man is not the same set of now-existing me-parities, and the river is not the same set of now-existing me-parities. A me-parity exhausts itself in the surface, and is living no more. A dormant me-parity is an inherited prior, with a new birth to living later now-existing.
 6w-t. The river is no self.
+6w-u. An exhausted me-parity is not a now-existing thing: nothing of it is now-existing to own.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -283,7 +284,7 @@ Sentence 6w-r has a me-parity as a living self-interest, at its own scale of sel
 
 ### 3.17 A me and its me-parities, from each direction the set has
 
-A me the society-self of its me-parities is open, with no suggesting. Natural Naming's "1, 2 and 3 with one scale are 1, 9 and 17 with a next" has a self's 3 as a 17 one scale inward, a same-existing-society's next, and its 2 as a 9: one moment of a self is one next-existing of a society one scale inward, cohering with the is. In Exhibit ONE's code a society is whole: each receiving self is a self of 16, and 17 is with no 2. A bi-coupling's new self is no me-parity of its self: three selves are with one bi-coupling living. A now-existing me-parity is living, a self, in a social surface; or universal, non-living, in dormancy, and no self. Sentence 15 has a me-parity exhausting from living into non-living universal-parity, and sentence 6b has dormancy as universal me-parities.
+A me the society-self of its me-parities is open, with no suggesting. Natural Naming's "1, 2 and 3 with one scale are 1, 9 and 17 with a next" has a self's 3 as a 17 one scale inward, a same-existing-society's next, and its 2 as a 9: one moment of a self is one next-existing of a society one scale inward, cohering with the is. In Exhibit ONE's code a society is whole: each receiving self is a self of 16, and 17 is with no 2. A bi-coupling's new self is no me-parity of its self: three selves are with one bi-coupling living. Each now-existing me-parity is living, a self, in a social surface, and a dormant me-parity is a prior. Sentence 15 has a me-parity exhausting from living into non-living universal-parity, and sentence 6b has dormancy as universal me-parities.
 
 - Is a dormant me-parity exhausted from living: the sentences of 6w-s are cohering with the is.
 
@@ -293,11 +294,11 @@ Sentence 6w-s has a me-parity as a now-existing thing; a me, and a river, later 
 
 - Is the river a self: is-not, sentence 6w-t.
 
-### 3.19 The river, no self: a surface
+### 3.19 The river, no self; an exhausted me-parity, no now-existing thing
 
-Sentence 6w-t has the river as no self: a set of now-existing me-parities, non-living. A set of now-existing me-parities is a me, living, or no me, non-living. A universal me-parity is a me-parity, non-living; each me-parity is born living, and each me-parity of the river is exhausted from living; its living is prior-existing and its stable form now-existing. The man in the river is a living self and a non-living thing, a bi-coupling. In Exhibit ONE's code a sharing in a between is its 4 with + or −, with no key of its sharing self, in no self's 3, and with the next moment the receiving self's 2. An exhausted me-parity is its me's own, a surface a set of me-parities each a me's; or it is no me's, universal, until a new birth inherits it.
+Sentences 6w-t and 6w-u have the river as no self, and an exhausted me-parity as no now-existing thing, with nothing of it to own. A me-parity is a now-existing thing: exhausted, it is prior-existing, and an inherited prior with a later birth. Each now-existing me-parity is living, a self, and a me's own; the river's now-existing me-parities are then many mes' own, living in it, and the river is no me of them. A universal me-parity is exhausted and not now-existing, and *non-living* of it is tracked with the fifty-five's 16. A stable form is a now-existing non-living thing, and no me-parity. In Exhibit ONE's code a sharing in a between is with no key of its sharing self, in no self's 3, and a prior of the receiving self's next moment, or nothing. The river is a non-living thing, a stable form, the surface; or no thing, a set of now-existing me-parities, as social-parity is.
 
-- Is an exhausted me-parity owned by its me: is, or is not?
+- Is the river a non-living thing: is, or is not?
 
 ### 3.20 With no reading yet
 
