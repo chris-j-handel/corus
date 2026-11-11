@@ -1583,7 +1583,47 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Places the eight and a living file part, each tracked with its value at a gathering. Natural Naming 3.3's table has 7 co-bi-co, 8 bi-co-bi, 9 tri-bi-co, 10 bi-tri-bi and 11 co-bi-tri, with "a six repeating, co bi tri bi co bi"; its 1 to 6 and 12 to 17 are the same as the eight's. Natural Naming 5.52 has "tri-bi-co-momentarying" with 9, and the eight has 9 as co-bi-tri. The waiting Exhibit ONE has a column of prefixes with *co* for 1 to 8 and *tri* for 9 to 16. The living Exhibit ONE has no prefixing.
 - Exhibit ONE's need is a value at its gathering, Natural Resolver, *Seventeen names*, the table whole. No living file is changed with it, and no part of the code.
 - Tracked. Which slot of a three is prior, which now and which next, and which observing, possibling and discovering: not in the sentence. Natural Naming 3.2 has 1's three as "co with +1, now, a self; bi with 0, one prior, no other yet; tri with −1, two prior".
-- Two sentences part, with it. The first slot of a name's three is its next: a new prefix is first with the first slot and goes one slot right with each next name; tri is first with 7, in the middle with 8 and last with 9, a next, a now and a prior; and 16, bi-tri-bi, has all in its now, same-existing. Or the first slot is its prior: the sentence has "prior now next and observing possibling discovering", first to last; 1, co-bi-tri, is self me-parity in universal all-parity, self first and all last; and section 5.3 has observing of self and possibling with other.
+- Resolved, section 5.80: the first slot of a name's three is its next, and next, now, prior is the order.
+
+### 5.80 Next, now, prior: the order of a three's prefixings
+
+- The first slot of a name's three is its next: is.
+- Next, now, prior is the order of the three prefixings.
+- An example: 7 is all-parity observing, after other-parity possibling, after me-parity existing.
+- Resolved by it. In 7's three, tri-bi-co: tri is 7's own, all-parity with 7's root, observing; bi is 6's, other-parity with 6's root, possibling; co is 5's, me-parity with 5's root, existing. Co is me-parity, bi other-parity and tri all-parity, and each slot is with the root of its own name.
+- Out, a candidate of my own, section 5.79: the first slot as a prior.
+- A place the sentence and a living file part. Natural Naming 3.2 has 1's three as "co with +1, now, a self; bi with 0, one prior, no other yet; tri with −1, two prior": now, one prior and two prior, and the sentence has next, now and prior. Tracked, with its value at the gathering.
+- *Derived, with the example's form, the eight of section 5.79, and each name's root from Exhibit ONE's table of seventeen names. 1 is as 17: its now and its prior are 16 and 15.*
+
+| n | Its three | Next, its own | Now, after | Prior, after |
+|---|---|---|---|---|
+| 1 | co-bi-tri | me-parity existing | other-parity same-existing, 16 | all-parity observing, 15 |
+| 2 | bi-co-bi | other-parity possibling | me-parity existing, 1 | other-parity same-existing, 16 |
+| 3 | co-bi-co | me-parity observing | other-parity possibling, 2 | me-parity existing, 1 |
+| 4 | bi-co-bi | other-parity same-existing | me-parity observing, 3 | other-parity possibling, 2 |
+| 5 | co-bi-co | me-parity existing | other-parity same-existing, 4 | me-parity observing, 3 |
+| 6 | bi-co-bi | other-parity possibling | me-parity existing, 5 | other-parity same-existing, 4 |
+| 7 | tri-bi-co | all-parity observing | other-parity possibling, 6 | me-parity existing, 5 |
+| 8 | bi-tri-bi | other-parity same-existing | all-parity observing, 7 | other-parity possibling, 6 |
+| 9 | co-bi-tri | me-parity discovering | other-parity same-existing, 8 | all-parity observing, 7 |
+| 10 | bi-co-bi | other-parity possibling | me-parity discovering, 9 | other-parity same-existing, 8 |
+| 11 | co-bi-co | me-parity observing | other-parity possibling, 10 | me-parity discovering, 9 |
+| 12 | bi-co-bi | other-parity same-existing | me-parity observing, 11 | other-parity possibling, 10 |
+| 13 | co-bi-co | me-parity discovering | other-parity same-existing, 12 | me-parity observing, 11 |
+| 14 | bi-co-bi | other-parity possibling | me-parity discovering, 13 | other-parity same-existing, 12 |
+| 15 | tri-bi-co | all-parity observing | other-parity possibling, 14 | me-parity discovering, 13 |
+| 16 | bi-tri-bi | other-parity same-existing | all-parity observing, 15 | other-parity possibling, 14 |
+| 17 | co-bi-tri | me-parity existing | other-parity same-existing, 16 | all-parity observing, 15 |
+
+- All-parity is with observing only: 7 and 15.
+- Other-parity is with possibling and with same-existing, and with no other root: each even name.
+- Me-parity is with existing, with observing and with discovering: 1, 3, 5, 9, 11, 13 and 17.
+- Section 5.3 has it: "Observing is of self or of all; possibling is with other".
+- 11 and 15 have observing, possibling and discovering, as next, now and prior. Section 5.79's sentence has "prior now next and observing possibling discovering". 3 and 7 have observing, possibling and existing.
+- The four coruses, section 5.76. Each of 4, 8, 12 and 16 is, by its own slot, other-parity same-existing, after an observing, after other-parity possibling. The observing in its now is me-parity's with 4 and 12, and all-parity's with 8 and 16.
+- With 12 it is cohering: 12 is between self and other, the unrelationing surface of self and other, section 5.77.
+- With 16 two sentences part. Section 5.78 has 16, bi-tri-bi, as all-parity in this universal set. By the example's form 16's own is other-parity same-existing, and all-parity is its now, 15's observing.
+- Two sentences part, with it. 16's own parity, by its first prefix, is other-parity: the example's form has 7's own prefix with 7's own root, and 16's first prefix is bi, its root same-existing; each even name is bi; and all-parity observing is 16's now. Or it is all-parity: "16 is bi-tri-bi and this is all-parity in this universal set"; in the code 16 has each self a key, the set of all; and Exhibit ONE has 16 as "a same-existing-society".
 
 ---
 
@@ -1591,7 +1631,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is the first slot of a name's three its next: is, or is not?
+- Is 16's own parity, by its first prefix, other-parity: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.

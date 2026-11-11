@@ -111,6 +111,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-i. 12 is between self and other, not between self and universe. This is the unrelationing surface of self and other, between.
 6y-j. 7 and 15 begin tri-bi-co. 16 is bi-tri-bi, and this is all-parity in this universal set.
 6y-k. 8 is bi-tri-bi. The 1 to 17 prefixing is co bi co bi co bi tri bi, bi-folding forward over 16 and 24 and 32 and beyond; Exhibit ONE had it, and needs it again. Each number then has its three prefixing, of prior, now and next, and of observing, possibling and discovering. Bi-tri-bi is the rolling of this, from 1, co-bi-tri: self me-parity in universal all-parity.
+6y-l. Next, now, prior is the order of the three prefixings. An example: 7 is all-parity observing, after other-parity possibling, after me-parity existing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -600,8 +601,14 @@ Sentence 6y-j has 7 and 15 beginning tri-bi-co, and 16 as bi-tri-bi, all-parity 
 
 Sentence 6y-k has the 1 to 17 prefixing as co bi co bi co bi tri bi, bi-folding forward over 16, 24, 32 and beyond, and each number with its three: of prior, now and next, and of observing, possibling and discovering. With Natural Naming 3.3's saying of a next name's three, 1 is co-bi-tri, 2, 4 and 6 bi-co-bi, 3 and 5 co-bi-co, 7 tri-bi-co and 8 bi-tri-bi, the same 8 up. Tri is in the first slot with 7, in the middle with 8 and in the last with 9, a next 1: the rolling. Natural Naming 3.2 has 1's three as now, one prior and two prior. The value file's section 5.3 has observing of self and possibling with other.
 
-- Is the first slot of a name's three its next: is, or is not?
+- The first slot of a name's three its next: is, sentence 6y-l.
 
-### 3.63 With no reading yet
+### 3.63 Next, now, prior: each name's three with its roots
+
+Sentence 6y-l has next, now, prior as the order of the three prefixings, and 7 as all-parity observing, after other-parity possibling, after me-parity existing: each slot a parity with the root of its own name, co me-parity, bi other-parity, tri all-parity. With the eight, all-parity is with observing only, 7 and 15; other-parity with possibling and same-existing, each even name; me-parity with existing, observing and discovering. Each of the four coruses, 4, 8, 12 and 16, is by its own slot other-parity same-existing; all-parity observing is the now of 8 and of 16. Sentence 6y-j has 16, bi-tri-bi, as all-parity in this universal set. The value file's section 5.80 has the seventeen whole.
+
+- Is 16's own parity, by its first prefix, other-parity: is, or is not?
+
+### 3.64 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
