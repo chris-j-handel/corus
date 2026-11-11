@@ -17,6 +17,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 5. Universal is each same-existing thing and more: the named things, and the more. The more is the not-named now-existing things. A universal set names the place the no more begins.
 5a. *The universe* is one name, owned by one set, and no other set has it. Each subset of the universe is a named subset, missing some elements of the universe: the more of a name is each now-existing thing that name does not own, and *the universe* has no more.
 5b. A named subset is the universe to a bi-coupling: self, other, and all other-than self and other. This is society, in the universe of more than this.
+5c. Social-parity is the universal set of now-existing bi-couplings of same-existing me-parity selves.
 6. Same-as is a universal-morality: a name for a sameness in things distinguishable is-or-is-not.
 
 ### 1.2 A self
@@ -67,6 +68,7 @@ Each is from reading the code line by line.
 - **Beside 13 and 18.** A next me-parity is one of three: its prior as it is; its prior inverted; or, with no prior, what arrived. No line makes a me-parity that is neither a prior-existing one nor the inversion of one.
 - **Beside 19.** Within one resolving, in sequence: what arrives surfacing, ingesting; a name with no prior having what arrived, inheriting; a prior not the same as what arrived, inverted, conceiving; what the self shares, exhausting.
 - **Beside 5b.** One resolving of a society is given its selves and their bi-couplings, and no more: each sharing is from a self of it to a self of it, and no line has a thing not of it. With one self and one moment, three are within it: the self's own priors; what arrives, from each self it is bi-coupled with; and each other self, with no line between the two with that moment.
+- **Beside 5c.** One resolving of a society is given two: its selves, and their bi-couplings. A sharing goes on only with its bi-coupling within the set of bi-couplings, one is-or-is-not, and the code has a bi-coupling as a name. No line makes, removes or changes one. Exhibit ONE's own table has two is-or-is-nots as social-parity's: each self, all or none; and a bi-coupling within or not.
 - **Beside 22.** The set of selves has nothing of its own: no line has a name with a me-parity of the society's.
 - **Beside 23.** Two selves alike in a name have four moments in sequence: improving, do-no-harming, improving inverted, do-no-harming. Two not alike each invert with each moment. Do-no-harming has no line for one self alone, and improving has one.
 - **Beside 24.** Each of four threats is on no line: no line gives a self an other's prior; what arrives has no from; no line changes a self's prior but its own resolving; and an arriving is its me-parity and nothing beside.
@@ -86,7 +88,6 @@ Sentence 3 has a set as its name's things and nothing beside them. Sentences 7 a
 
 Sentence 2 has sameness as a name's. Sentence 5a has each now-existing thing with a name, *the universe* at the least, and each other name with a more. "Each now-existing thing is a same-existing thing" has each with sameness, and a born thing has no prior the same. Sentence 5b has the name *universe* with a subset, and sentence 5 has a universal set naming the place the no more begins, with society "in the universe of more than this".
 
-- Is society the universal set of a bi-coupling, self and other its named things and all other-than self and other its more: is, or is not?
 - Is no more of what arrives with a bi-coupling, and more of what is now-existing: is, or is not?
 - Is a society, with an other society and all other societies, in a fourth one scale outward: is, or is not?
 - Is a born thing, of the universe and with no prior the same, same-existing: is, or is not?
@@ -124,7 +125,21 @@ The lines have an entering, a first prior, and no leaving. Sentence 11 has dying
 
 - Is a me-parity's exhausting from living its sharing going out, with its self having its next: is, or is not?
 
-### 3.8 With no reading yet
+### 3.8 A bi-coupling, a thing or a between
+
+Sentence 5c has social-parity owning bi-couplings, and sentence 3 has a set as the now-existing things its name owns. "A **bi-coupling** is two selves sharing possibling" has an -ing and no thing. Natural Naming has social parity as a 0, "invisible, with no record or awareness of it". The code has a bi-coupling as a name, a same-existing non-living thing.
+
+- Is a bi-coupling a now-existing thing: is, or is not?
+- Are *same-existing me-parity selves* selves alike in a name: is, or is not?
+
+### 3.9 Four parities, each a universal set
+
+Self-parity is a universal set of a self's me-parities, and social-parity the universal set of now-existing bi-couplings. The fifty-five's 24 has other-parity and universal-parity each as one me-parity, the same as an other's or not. A resolving is given a self's own me-parities, others' arriving, and the bi-couplings of the selves; and sentence 17 has a universal set of prior-existing me-parities, exhausted from living.
+
+- Is other-parity the universal set of others' me-parities arriving with a self: is, or is not?
+- Are self-parity, other-parity, social-parity and universal-parity four universal sets: is, or is not?
+
+### 3.10 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating 23 and 24, bothbothing."
 - The centre, corusing at 24, with the seventeen names.

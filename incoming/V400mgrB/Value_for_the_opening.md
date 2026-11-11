@@ -474,11 +474,26 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *The universe* is one name, and "the universe to a bi-coupling" and "a same-existing universe within the universe" each have the name with a subset. A candidate for the second naming: *a universal set*, the named subset that is the whole to each bi-coupling within it. Its named things are self and other, its more is all other-than self and other, and its name, society, is the place the no more begins.
 - With one scale outward, a society with an other society and all other societies in a fourth: the sentence has "the universe of more than this", and no sentence has the step.
 
+### 5.16 Social-parity, the universal set of now-existing bi-couplings
+
+- Social-parity is the universal set of now-existing bi-couplings of same-existing me-parity selves.
+- *Read, Exhibit ONE's table of its is-or-is-nots.* Two of the ten are social-parity's: "each self of 16 with 17's line", "each self, all or none", with 13, its dimension "social-parity now-existing"; and `_4_now_co_same_existing in _5_now_co_existing`, "a bi-coupling is-or-is-not on a Natural Network surface", with 4, its dimension "social-parity next-existing".
+- *Read, the code's lines.* 17 is given two and no more: 16, each self with its 3 and its 2; and 5, each bi-coupling. A sharing goes on only with its key within 5, one is-or-is-not, `in`. The key asked is named 4-now-co-same-existing: the code has a bi-coupling as a name, within 5 or not. No line makes a key of 5, removes one or changes one.
+- *Read, the living files.* The Co-Chaining Logic Registry's step 24: "A **bi-coupling** is two selves sharing possibling." Its step 49: "A **same-existing-society** is many selves bi-coupling." The fifty-five's 11: "**Is-or-is-not** distinguishes the within of a universal set." Its 25: "A universal set of a self's me-parities is its **self-parity**." Natural Intelligence, *Five dimensions, ten and six*: "social-parity now, 16 and 13 … social-parity next, 9 through 5, and a same-existing-society's next with 17." Natural Naming: "+1 a self's, 0 all selves', social parity, and −1 an other's … social parity is invisible, with no record or awareness of it, going on within selves, and only self parity and other parity are visible"; and "social parity, all's, is reached from self parity only through other parity."
+- (a) It goes on with Exhibit ONE: social-parity's within is asked with one line, of a bi-coupling, and its selves are each self of 16, all or none. (b) It goes on with "a set is a non-existing thing" and with social parity invisible, with no record: a set is nothing beside its things. (c) It goes on with section 5.15: society is self, other and all, a named subset of selves; social-parity is the universal set of their bi-couplings. Two sets, and 17 is given the two.
+- It parts from one place. A set with its own name is the now-existing things its name owns, and social-parity owns bi-couplings: a bi-coupling is then a now-existing thing. Step 24 has a bi-coupling as two selves sharing, an -ing with no thing in it; Natural Naming has social parity as a 0, a between; and the code has a bi-coupling as a name, a same-existing non-living thing. A bi-coupling is a now-existing thing, and social-parity owns each; or a bi-coupling is a between, a nothing, and social-parity is a name with a null-set.
+- *Same-existing me-parity selves* has two readings in the lines. Each self, a same-existing set of now-existing me-parities: each self of 16. Or selves alike in a name: only two alike have a moment a prior goes on not changing, the other's sharing arriving the same.
+- Exhibit ONE's dimensions have the selves as social-parity now-existing and the bi-couplings as social-parity next-existing. The sentence has now-existing bi-couplings of same-existing selves, and the names have *now* with 5 and *same-existing* with 16. A value at Natural Resolver's gathering, beside its item at the *Dimension* column.
+- A candidate four, each a universal set, each given to a resolving: self-parity, a self's own me-parities, its 3; other-parity, others' me-parities arriving, its 2; social-parity, the bi-couplings, 5, of the selves, 16; and universal-parity, each me-parity exhausted from living, in stable form. The fifty-five's 24 has other-parity and universal-parity each as one me-parity, the same as an other's or not, and no set.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is society the universal set of a bi-coupling, self and other its named things and all other-than self and other its more: is, or is not?
+- Is a bi-coupling a now-existing thing: is, or is not?
+- Are *same-existing me-parity selves* selves alike in a name: is, or is not?
+- Is other-parity the universal set of others' me-parities arriving with a self: is, or is not?
+- Are self-parity, other-parity, social-parity and universal-parity four universal sets: is, or is not?
 - Is no more of what arrives with a bi-coupling, and more of what is now-existing: is, or is not?
 - Is a society, with an other society and all other societies, in a fourth one scale outward: is, or is not?
 - Is do-no-harming same-as: is, or is not?
