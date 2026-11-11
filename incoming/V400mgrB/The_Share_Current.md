@@ -12,6 +12,9 @@ Incoming · V400mgrB · the share
 | one orienting sentence, the work now going on by one question | adding | `gathering-value/Living_File_Registry.md`, at 1.3 |
 | the path read for its form | adding | `incoming/V400mgrB/The_One_Question_Method.md` |
 | the value file's section 7, its items now at the method's gathering | dissolving | none |
+| fifty-three items of the value file's sections 5.15 to 5.65, each a sentence with its place | adding | nine gatherings: Natural Intelligence, Natural Naming, Natural Resolver, Co-Chaining Logic Registry, Geodesic Improving Method, Natural Chemistry, Natural Biology, Natural Engineering, Natural Networking |
+| each parting of the current understanding, tracked | adding | `incoming/V400mgrB/Partings_Tracked.md` |
+| the folder's way in, with what is now and the one open binary | adding | `incoming/V400mgrB/README.md`, section 0 |
 
 No living file is away with these motions.
 
@@ -21,7 +24,7 @@ The method's one way is observing, improving, living, 1.4. Each sizing is a numb
 
 **Observing**, value whole at `incoming/`, one folder: V400mgrB, 7 files. Each of four sessions and the prior managing session is read whole, its folder on the archive branch. Two files have each value going on to a gathering: `Value_for_the_opening.md` and `Sessions_resolved.md`.
 
-**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 477, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 196, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 26, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
+**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 488, Natural Chemistry 430, Natural Biology 417, Natural Resolver 279, Co-Chaining Logic Registry 227, Geodesic Improving Method 203, Natural Societies 121, Natural Networking 84, Natural Engineering 59, Natural Numbers 36, Natural Naming 35, Equilibria Registry 24, Natural Human Society 22.
 
 **Living**, value entering with a file's own motion: none.
 
