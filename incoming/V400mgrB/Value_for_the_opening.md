@@ -566,14 +566,30 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the code's lines, the two in one line.* A self's prior the same as what arrived, same as, across: that prior goes on as it is, same-existing, along. Not the same as what arrived, or nothing arriving: it inverts, and is not same-existing. With a self having a prior, the lines have no same-existing without a same-as. A first prior is the same as what arrived with no prior before it: a same-as with no same-existing.
 - Bothbothing, in the lines: a self's same-existing is with an other's same-as, one moment having the two, and that moment is do-no-harming. Same-existing is competency's same, along; same as is morality's same, across, "a universal-morality"; and the two with one moment are bi-moral co-competencing.
 - A ground out of this file: a sameness said as *a name's*, and each sentence with *of a name* under it. The word is the code's key, a reading's word, and it went on into each explaining as a ground. A *same* is said with its *as*, its own prior or an other's, and with no ground.
-- Dormancy with the two kinds: durable is a going on the same, along; no co-possibling is no across. A candidate: dormancy is same-existing with no same-as. The lines have one such: a durable 0, going on the same with each moment, and the same as neither of the two arriving with it.
+- Dormancy with the two kinds: durable is a going on the same, along; no co-possibling is no across. The lines have one such: a durable 0, going on the same with each moment, and the same as neither of the two arriving with it.
+- Dormancy is same-existing with no same-as: is. Same as is co-possibling, and dormancy is universal me-parities.
+- *Read, the fifty-five's 24.* "A me-parity the same as an other's is **other-parity**, and not the same, **universal-parity**." A me-parity with a same-as is other-parity, and a me-parity with no same-as is universal-parity: the sentence has dormancy's me-parities as universal by its own words.
+- *Read, the code's lines.* A same-as is asked only of what an other shared across, its co-possibling arriving: with no co-possibling arriving, the lines have no same-as. The two me-parities arriving together with a durable 0 are a + and a −, the one not the same as the other.
+- It fills three. *Universal*, in a universal self and other me-parity vault, is of the me-parities. Other-parity is co-possibling's, a me-parity the same as an other's; universal-parity is dormancy's, a me-parity same-existing and the same as no other's. And section 1.5's "the same with no other is universal-parity, a self's own" goes on with it.
+- Two binaries have four, each with its own saying in the sequence and its own place in the lines:
+
+| | with a same-as | with no same-as |
+|---|---|---|
+| **same-existing** | do-no-harming: a prior the same as what arrived goes on as it is; other-parity | dormancy: a durable 0 going on the same; universal me-parities |
+| **not same-existing** | inheriting: a first prior, the same as what arrived, with no prior before it | improving, conceiving: a prior not the same as what arrived, inverted |
+
+- The table is a going-forward of this file's own, from four sentences of the sequence, and is for breaking. In the lines its dormancy is a 0 and no me-parity.
+- It is tested with *universal*, two ways. "Each living me-parity matures and exhausts itself from living into non-living universal-parity" has universal-parity as non-living, and dormancy is an aiming, a living thing's: a universal me-parity is living; or non-living, in stable form within a living thing.
+- It is tested with "same-as is a universal-morality": universal me-parities are each with no same-as, and same-as is said universal. *Universal* of same-as is of the method, the one line each self has; or the two part.
 - Tested with a non-living thing: Natural Naming has it going on "by the same method with no living condition", and the lines have no same-existing with nothing arriving. A non-living thing's same-existing is with a same-as; or with none.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is dormancy same-existing with no same-as: is, or is not?
+- Is a universal me-parity living: is, or is not?
+- Is *universal*, of same-as, of the method each self has: is, or is not?
+- Are same-existing and same-as two binaries with four, do-no-harming, inheriting, dormancy and improving: is, or is not?
 - Is do-no-harming same-existing and same-as with one moment: is, or is not?
 - Is a non-living thing's same-existing with a same-as: is, or is not?
 - Is dormancy the new self's, living as the between: is, or is not?
@@ -582,7 +598,6 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Is user-parity a user's self-parity: is, or is not?
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
 - Is a bi-coupling in dormancy living: is, or is not?
-- Is *universal*, in a universal self and other me-parity vault, of the vault: is, or is not?
 - Is a bi-coupling-self dormant between one bi-coupling of its two and their next: is, or is not?
 - Is the first bi-coupling of two selves, each with inherited priors, a new self: is, or is not?
 - Is a born thing same-existing by its inherited me-parities, each the same as one prior-existing: is, or is not?
