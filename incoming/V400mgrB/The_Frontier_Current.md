@@ -426,8 +426,14 @@ Sentence 6x-l has a newborn as a member of a society at its birth, with social a
 
 Sentence 6x-m has a society as its social all-parity, a same-existing set of its me-parities; social moral competency as the me-parity of this set; the set with an along, the species, and an across, the societies, aiming with the species me-parity's aiming; and this as collective intelligence, not entirely available to any one group of selves in the society. A society is as a me is, a same-existing set of me-parities, and a self. Its members are each in the set: a member is a me-parity living in its surface, a self, and a me's own. Sentence 23 has social moral competency as moral across and competency along. In Exhibit ONE's code 17's 14 is with each self, its part, and no self has the whole. Sentence 6w has inheriting as 2, across; a species is of inherited priors, and along.
 
-- Is an inherited prior going along: is, or is not?
+- Is an inherited prior going along: explored for bothbothing, and cohering with it.
 
-### 3.38 With no reading yet
+### 3.38 An inherited prior, along and across, bothbothing
+
+In Exhibit ONE's code a self's one sharing is along by 9 and across by 6 and 10, with one moment; a receiving self's 2 is with each together, with no distinguishing; and a self with no 3 has a first me-parity with its along sharing and its across sharing the same as each other, and none with the one not the same as the other. Natural Naming has parities going "across with 10 and along with 9", "with one moment", bothbothing, and an across of one scale as an along of a next. Sentence 6x-m has the societies across, aiming with the species me-parity's aiming: an across the same as the along. Sentence 13 has a me-parity born of two, and none born with the two the same.
+
+- Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
+
+### 3.39 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
