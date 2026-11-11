@@ -1095,13 +1095,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* A first me-parity of a self is two together: its 4, a name; and its + or −, the same as an other's sharing in the between. The 4 is unchanging, provided, and never a self's sharing by itself; the + or − is an other's next prior, out of its self for one moment. Cohering: in the code a name and an other's exhausting are two, and a first me-parity is with each.
 - Two sentences part, with it. Each now-existing me-parity is with a name: a me is observing its own me-parities, Exhibit ONE's 3, 3-is-now-co-observing, a self's own prior me-parities; an observed now-existing thing inherits a name, a prior, section 5.41; and each me-parity of the code is with its 4. Or a now-existing me-parity is with no name: nature has no names; a me-parity is a direction out from its me, section 5.30, and a name is a non-existing thing until an other is distinguishing it; and the code's 4 is provided, as each self of the code is.
 
+### 5.43 A now-existing me-parity, with no name
+
+- Each now-existing me-parity is with a name: is-not.
+- A me-parity is a now-existing thing, a direction out from its me, with a name or with none. It is cohering with "nature has no names", and with a name as a non-existing thing until observed things are in its named set, section 5.41.
+- Tested with section 5.7: "Floating across, neutralling along, is co-linearizing the aiming of the cones of self and other, in bi-coupling", "This is 4-now-co-same-existing." 4 is a floating-neutralling of two, a self's me-parity and its other's facing it; and a name is floating-neutralling in the universe, section 5.41, "in neither self alone" by Natural Naming. Cohering: 4 is with two, and a name is available with it.
+- *Read, Exhibit ONE's code.* Each me-parity of the code is with its 4, provided, with a bi-coupling of its self or with none. A me-parity with no 4 is in no part of the code. The code's same-as is of two with one 4: a self's own and an other's sharing. Tracked: in the code each me-parity is with a name before each observing.
+- Two sentences part, with it. A me-parity is inheriting a name only with an other observing it: "the name is a prior inherited by the observed now-existing thing", "when the distinguishable now-existing is observed"; same as is co-possibling, a self's with an other's, section 5.19; 4 is co, of two; and floating-neutralling "arises in neither self alone". Or a me-parity is inheriting a name with its own me observing it: Exhibit ONE's 3 is 3-is-now-co-observing, a self's own prior me-parities; a me-parity is owned by the only one of me, an interest of its me; and a me-parity with no name is one its own me is not observing.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is each now-existing me-parity with a name: is, or is not?
+- Is a me-parity inheriting a name only with an other observing it: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?

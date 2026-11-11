@@ -76,6 +76,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-z. A name is no now-existing thing.
 6x-a. Nature has no names. Names are non-existing things, until they are observed things in the named set, and the name is a prior inherited by the observed now-existing thing. The name was floating-neutralling in the universe, and available as a possible inherited prior, with the distinguishable now-existing thing observed.
 6x-b. A dormant me-parity is no name.
+6x-c. Not each now-existing me-parity is with a name.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -347,8 +348,14 @@ Sentence 6x-a has nature with no names: a name is a non-existing thing, floating
 
 Sentence 6x-b has a dormant me-parity as no name: two inherited priors, the one exhausted from living and the other never living. Sentence 16, an inherited me-parity as a name with no prior, is parting: a me-parity is a now-existing thing, and a name is none. Non-living is with three in the sequence: atom carbon, a name, and a dormant me-parity. In Exhibit ONE's code a first me-parity is two together, its 4, a name, and its + or −, the same as an other's sharing in the between. Each now-existing me-parity is with a name, observed by its own me; or a me-parity is with no name until an other is distinguishing it.
 
-- Is each now-existing me-parity with a name: is, or is not?
+- Is each now-existing me-parity with a name: is-not, sentence 6x-c.
 
-### 3.27 With no reading yet
+### 3.27 A now-existing me-parity, with no name
+
+Sentence 6x-c has a now-existing me-parity with a name, or with none. 4-now-co-same-existing is the co-linearizing of the cones of self and other, a floating-neutralling of two, and a name is floating-neutralling in the universe, in neither self alone. In Exhibit ONE's code each me-parity is with its 4, provided, before each observing: a me-parity with no name is in no part of the code. A me-parity is inheriting a name only with an other observing it; or with its own me observing it, Exhibit ONE's 3 a self's own co-observing.
+
+- Is a me-parity inheriting a name only with an other observing it: is, or is not?
+
+### 3.28 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
