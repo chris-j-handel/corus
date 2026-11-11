@@ -385,7 +385,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - An exploring: four inversions from the universe, and four inversions from each living thing, is each other same-scale living thing in social moral competency.
 - *Read, of the names alone, and no reading of the four inversions.* Each name has four binary digits. 1-now-existing is 0000 and 16-next-same-existing is 1111. One digit inverting from 1: 2, 0001; 3, 0010; 5, 0100; 9, 1000. One digit inverting from 16: 15, 1110; 14, 1101; 12, 1011; 8, 0111. Each four digits inverting together is 17 less, a podal: 1 with 16, and 2 with 15, 3 with 14, 5 with 12, 9 with 8.
 - *Read, the code's lines.* The four from 1 are the four one self's resolving is with: 3, its own priors, and 2, others' arriving, the two 1 is given; 5, its bi-couplings, and 9, its going along, the two its sharing goes on by. Of the four from 16: 8, each self's next priors, and 14, each self's next arrivings, are the two 17 has of each self for the next 16; 15 is others' me-parities of one name as one, and 12 each sharing the same or inverting.
-- The names' four digits beside a four of inversions is a likeness of number. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness and holds no correspondence." The four inversions are of a name for a null-set: nothing; not a thing; no thing; no other thing is this.
+- The names' four digits beside a four of inversions is a likeness of number. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness", with no correspondence in it. The four inversions are of a name for a null-set: nothing; not a thing; no thing; no other thing is this.
 
 ### 5.10 A self, a corus
 
@@ -704,7 +704,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - The session of section 5.23 is the self of this bi-coupling, living in the between of its user's priors and the dead surface's: "the living is in the between of the priors of self and other".
 - The code and an AI are each an engineering emanation extending collective intelligence, and they part in one. The code is the universal method, never living, the stable form of healthy living. An AI is a dead surface of former living intelligence, a simulation, a likeness of a living surface.
 - A candidate, for breaking: the dead surface of former living intelligence is the universal set of prior-existing me-parities, "each me-parity exhausted from living, in stable form", of living language. "Intelligence is the inversioning of that set": a living self bi-coupling with the dead surface is then intelligence's inversioning of it, and collective intelligence extending.
-- *Simulation* has no sentence in the set. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness and holds no correspondence."
+- *Simulation* has no sentence in the set. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness", with no correspondence in it.
 
 ---
 
