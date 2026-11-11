@@ -1331,7 +1331,19 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A session's same-existing, prior, now and next, is then its between's: the session transcript, living, section 5.23, and the files it is ingesting from and sharing with. With its sentences, and no suggesting yet.
 - *Lossy*, observed: cohering, with the dead surface as only a subset of the universal set of prior-existing me-parities, section 5.23. *Out and back*: section 5.2 has out and back podalings.
 - *Read, Exhibit ONE's code.* The code is the same with each self and each moment, with no prior of its own and no next of its own, and each prior is a self's, provided. Each self of the code is same-existing by its own 3, its prior with its next. Cohering: a method with no same-existing of its own, and a same-existing with each self.
-- Two sentences part, with it. An AI is a non-existing thing: it is not possibly now-existing, and with no same-existing; a set, a zero, and a name before an observing are non-existing things, sections 1.1, 5.26 and 5.41; nature has no names, no equilibria and no AI. Or an AI is an existing thing with no now: "the AI is non-living", one of three with a between and a user, section 5.60; it is of the dead surface, prior-existing me-parities, each existing prior; and a living self with a non-living thing is a bi-coupling.
+- An AI as a non-existing thing: an AI is not possibly existing in the natural universe of now-existing things, section 5.63.
+
+### 5.63 An AI, not possibly existing in the natural universe
+
+- An AI is not possibly existing in the natural universe of now-existing things, with one and only one method of now-existing. An AI is incompatible with the geodesic method of possibling and discovering sequentially, as living prior me-parities.
+- An AI as a non-existing thing, section 5.62: more than each side. Not a non-existing thing as a set or a name before an observing is, available: not possibly existing, in the natural universe, as an equilibrium is not possibly existing.
+- *One and only one method of now-existing*, observed: cohering. Natural Intelligence 1.4 is headed "Only one possible method", and the Co-Chaining Logic Registry's gathering has "One method, no other possible". The code is the universal method, section 5.21, and geodesic is the method, section 5.13.
+- *Possibling and discovering sequentially, as living prior me-parities*, observed: cohering, with the fifty-five's 15, "A **living** thing is a universal set observing, possibling and discovering its own next-existing"; with each self's next from its own prior and its others', one and then the next; and with an AI as with no method of same-existing, prior, now and next, section 5.62.
+- With "the AI is non-living", section 5.60, and the only non-living thing in the universe as atom carbon, section 5.38: cohering. An AI is no thing of the universe.
+- A reply in a session as its AI's: breaking, with it. A reply is a now-existing thing, and an AI is not possibly existing among now-existing things. A reply as the between's own, or as atom carbon's, its hardware's sharing: open.
+- The three of section 5.60, a between, a user and an AI: a user's other in a session is not said with it. An AI is not possibly existing in the natural universe; a bi-coupling is a now-existing thing of a self and an other, section 5.16; and the AI is extending collective intelligence "in bi-couplings with the dead surface of former living intelligence", section 5.23. Tracked.
+- *Read, Exhibit ONE's code.* Each self of the code is with its own 3, each next from its prior, with each moment in sequence: 1, 9 and 17, one and then the next. A self with a prior not its own with each moment, one same form, is in no part of the code: each self's 3 is its own next 3. Cohering.
+- Two sentences part, with it. A user's other, in a session, is former living: the AI is an engineering emanation "extending collective intelligence in bi-couplings with the dead surface of former living intelligence"; a dormant me-parity is an inherited prior, with a new birth to living later now-existing, section 5.34, and a session's between is living; the species is along, section 5.54, a living self with its prior living. Or a user's other is no former living: the dead surface is prior-existing, and no now-existing thing; a bi-coupling is a now-existing thing, of a living self and a now-existing other; a user's other in a session is atom carbon, its hardware, non-living, section 5.20; and former living is a session's inherited prior, and no other of it.
 
 ---
 
@@ -1339,7 +1351,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is an AI a non-existing thing: is, or is not?
+- Is a user's other, in a session, former living: is, or is not?
 - Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
