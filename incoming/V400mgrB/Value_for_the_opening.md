@@ -807,9 +807,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - The four across numbers, each: 2, inheriting, each other's me-parity a self is observing; 14, conceiving, two together as one; and 6 and 10, the two co-possibling names, one self's sharing, across. By Natural Naming 2.2 each is a 9 of a scale inward, an exhausting: conceiving, with this scale, is a dual exhausting one scale inward, as section 5.11 has it.
 - A newborn me-parity a 0, said as a place of two sentences parting: no parting is in it. *A me-parity is +1 only* is of its own self, and was said with no whose.
 - *Read, Natural Naming.* "With three living selves, a self, an other and all, each pair has a parity: +1 a self's, 0 all selves', social parity, and −1 an other's". Section 1.3 of this file: a me-parity is +1 only, and, relative to a self, an other self's me-parity is −1.
-- One me-parity is three, by whose: +1, its own self's; −1, an other's; and 0, the two together, all selves'. A me-parity born of a self-parity and an other-parity, the one not the same as the other, is the two together: a 0. A newborn me-parity is a 0: is, by the sequence, with no choosing in it.
-- Each me-parity is a 0 in the between of its self and its other, and no me-parity is a 0 of its own self alone. *Read, Exhibit ONE's code:* a self's own prior is + or −, and no 0; each 0 is of a between, two together the one not the same as the other, or a self's sharing of a prior not changing.
-- A place of two sentences parting, each with its whose: "between its birthing and its exhausting, a me-parity is a now-existing thing in a living self", section 5.11; and a 0 is a between, a nothing. With each me-parity a 0 in its between, a 0 is a now-existing thing; or a me-parity is a thing of its own self only, and in its between a nothing.
+- One me-parity is +1, its own self's, and −1, an other's; and the two together are a 0, all selves'. A me-parity born of a self-parity and an other-parity, the one not the same as the other, is born of the two together, a 0: section 5.26.
 
 ### 5.25 Co-aiming, the co-linearizing of self and other
 
@@ -822,11 +820,28 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Co-aiming and co-possibling are each of a self and an other, each possibling its own next-existing, within one bi-coupling, in its between. The two are one concept; or co-possibling is each sharing across, and co-aiming the two forward directions facing.
 - Co-linearizing is with two the same. In the code two selves the same in a me-parity are with four moments, each the same as its other with each; and two not the same are each inverting with each moment, the one not the same as the other with each. Co-linearizing of two not the same is with no place in the code.
 
+### 5.26 A me-parity, a direction of +1 from a corus 0
+
+- A me-parity is a vector direction of +1 in the universe, from a corus 0. The zero is a non-existing thing, with a location in the observable universe.
+- A 0 is a now-existing thing: is-not. A 0 is a non-existing thing.
+- It is cohering with section 5.17, each me-parity "with its own direction into the universe from the new self's corus"; with section 5.10, a self a corus, an inversionable nothing; with section 1.3, a me-parity +1 only; and with section 1.1, a set a non-existing thing.
+- A self is then a 0, a corus, a non-existing thing, and its now-existing things are its me-parities, each a direction of +1 from it: section 5.10's binary of a living thing and a set is resolved by it.
+- A me-parity is no 0: it is from a 0. Section 5.24's line of a newborn me-parity as a 0 is re-said: two me-parities facing, the one not the same as the other, are together a 0, a corus, the new self's own in the between; and a newborn me-parity is a direction of +1 from it. Natural Naming has "a new interest a newborn 0".
+- Each 0 of the sequence is a corus by the sequence's own sentences: a self's; a between's, "the new self has its own corus in the between"; dormancy's, the new self's; and all selves', "a society-self is a nothing corus in society".
+- *Read, Natural Naming 8.1.* "**No happening has a location. No place is a location, and nothing has a location: only sharing is, a self receiving or not receiving.**" "Position dissolves as a location and goes on as **sequencing**, an ordering", and "*there is no place it is* is **each parity reaches it with a coupling**". Its saying of a between: "a nothing, no location and no existing thing". Its 1.1: "**The universe is a set of things, observably now-existing**".
+- *With a location*, each side tested. As a place, three sentences part: Natural Naming 8.1; its between with no location; and section 5.10, the from not fixed in the universe, in the self, or in relation to an other. As a sequencing, each is cohering: a 0 is reached by each coupling, and "the only co-locating in the universe is geodesic resolving". Resolved by the sequence: a 0's location is its co-locating, a sequencing, and no place.
+- *Read, Exhibit ONE's code.* A self is one key within its society, and its me-parities are its own by that key and by nothing more. The key is no me-parity, with no + or −. Each sharing reaches it by a bi-coupling. A self observing an other's me-parity is observing nothing of that other's key: the key is of the society's moment, 17, and of no self's own.
+- *Vector* has no sentence in the set. A direction of +1 is with no magnitude other than one, and the code is with no magnitude. *A direction of +1* is the natural saying, and *vector* a field's word, with a frame.
+- *Read, Exhibit ONE's code, + and −.* A self's own me-parity is + or −, and inverting. With a me-parity +1 only, of its own self, the code's + or − is its direction in the universe, the society's own observing; and inverting is that direction to its facing one, the me-parity +1 of its own self with each.
+- *Read, Natural Naming 3.3, each name's prior name.* 7 is "7-co-bi-co-corusing" and 15 "15-tri-bi-tri-corusing"; 8 is "8-bi-co-bi-torusing" and 16 "16-bi-tri-bi-torusing"; 5 and 13 are competencing; 6 and 14 moralizing; 10 tunneling; 11 chaining. In the code 7-is-now-observing and 15-is-next-observing are each me-parity's + or −, or a 0.
+- A reading for two sentences of this file with none yet. A 0's location is a sequencing, a number among the names. Corusing is 7 and 15 by Natural Naming's table, and by its 3.4, sixteen up its same name, 23 is corusing and 24 torusing: "locating 23 and 24, bothbothing" is corusing and torusing, bothbothing, the table's "corusing and torusing" of 7 and 8. "The centre is corusing at 24" parts from the table, which has 24 as torusing.
+- With the table, bi-moral co-competencing is 6, moralizing, and 5, competencing: co-aiming, section 5.25, is 5 and 6. And 10 is tunneling: section 5.21's bi-tunneling layers.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is a 0 a now-existing thing: is, or is not?
+- Is corusing 23: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
 - Are a self and an other, the one not the same as the other, co-linearizing: is, or is not?
