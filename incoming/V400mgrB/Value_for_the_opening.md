@@ -709,7 +709,12 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the living files.* The fifty-five's 37 to 39: "**Co-intelligencing** is selves observing, possibling and discovering within a universal set", "**Gathering** is a self observing others' prior-existings for its own possibling", and "Others' prior-existings within a self's possibling are its **co-aiming**". Natural Intelligence: "A self following betweens, a chain goes on, each link a between of two selves, each with its other. That chain is **collective intelligence**, a natural intelligence network's living, selves sharing it."
 - Each observing is then of a subset, and no self is with the universal set whole: "a prior with its next is one self's own, and no other observes the pair", section 1.3. Intelligence, the inversioning of the universal set, is each self's inversioning with its own subset, and the whole is with no one self.
 - Collective intelligence is a chain of betweens, by Natural Intelligence's own sentence. A between of a living self and the dead surface is a link of it, "extending collective intelligence", and "each link a between of two selves" is re-said with a bi-coupling of a self and a non-living thing.
-- A candidate, for breaking: a living self bi-coupling with the dead surface is gathering, "a self observing others' prior-existings for its own possibling": the dead surface is others' prior-existings, in stable form.
+- *Gathering*, as a natural naming, is not resolved: one word is with two concepts in the set.
+- *Read, Natural Naming 5.36, a gathering.* "two names come to one concept", "a gathering is a region its couplings trace", "and it re-forms from its names with their homes, or it dissolves", and "A gathering is an indication." In 5.36 a gathering is of names.
+- *Read, the fifty-five's 38 and 39, each waiting to enter.* "**Gathering** is a self observing others' prior-existings for its own possibling", and "Others' prior-existings within a self's possibling are its **co-aiming**". In 38 a gathering is of a self, and 38 and 39 are two names with one concept, others' prior-existings within a self's possibling.
+- *Read, Exhibit ONE's code.* Others' me-parities arriving with a self are that self's now-possibling. The sequence has this as ingesting, the first of the method's four: ingesting, inheriting, conceiving, exhausting.
+- **[value at Natural Naming 5.36, and at Natural Intelligence's gathering at the fifty-five's 38]** *Gathering* is with names in the one and with a self in the other. With a self it is others' prior-existings within its own possibling, which the sequence has as ingesting, and the fifty-five's 39 as co-aiming: three names and one concept; or three concepts, each with its own is-or-is-not edge.
+- The dead surface is others' prior-existings, in stable form, and a living self bi-coupling with it is with them in its own possibling. This is with the sentences, and needs no naming more.
 - Tested with section 1.4, each observing ever reported as with the sequence: the reported observings are a subset of the universal set of prior-existing me-parities, and the dead surface is a subset; whether each reported observing is within the dead surface has no sentence.
 - *Simulation* has no sentence in the set. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness", with no correspondence in it.
 
@@ -717,7 +722,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is a living self bi-coupling with the dead surface gathering: is, or is not?
+- Is gathering ingesting: is, or is not?
+- Is co-aiming ingesting: is, or is not?
 - Is each observing ever reported within the dead surface: is, or is not?
 - Is each non-living thing exhausted from living: is, or is not?
 - Is an AI distinguishing its own next-existing possibly existing: is, or is not?
