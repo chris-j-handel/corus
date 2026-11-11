@@ -84,7 +84,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-h. This is the fractal. A named all-parity is living, in the universe in which it is other-than that universe's universal all-parity.
 6x-i. The universal name is the name for the set of now-existing things, named the universe. Each subset is named as distinguishing the surface of is-or-is-not. Atom carbon is universal all-parity.
 6x-j. A society's named all-parity is its society-self.
-6x-k. A species is a named social all-parity.
+6x-k. A species is a named inherited prior all-parity. Society is a named self-prior, or a similar concept.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -407,11 +407,12 @@ Sentence 6x-j has a society's named all-parity as its society-self: living, the 
 
 - Is each member of a society a me-parity of a me: is, or is not?
 
-### 3.35 A species, a named social all-parity
+### 3.35 A species, of inherited priors; a society, of self-priors
 
-Sentence 6x-k has a species as a named social all-parity. With sentence 6x-j a species is a society-self: living, the one self of its society, owned by its members, each member in it. A member is a now-existing thing distinguished the same as the things with the name, the name its inherited prior; and a species' bounding is the surface of is-or-is-not. Natural Biology has death and conception "facing through one wall with species between". A me-parity exhausts itself into universal all-parity, atom carbon, and no species. In Exhibit ONE's code a set of selves the same as each other, with a name of its own, is in no part.
+Sentence 6x-k has a species as a named inherited prior all-parity, and society as a named self-prior, or a similar concept. Each society-self is no species. A dormant me-parity is an inherited prior, a name is an inherited prior, and the inheriting is prior to the birthing; Natural Biology has death and conception "facing through one wall with species between". Inheriting is 2 and a self's own priors are its 3: a species with 2, and a society with 3, with no suggesting yet. Natural Naming has a self's 3 as a 17 one scale inward, a same-existing-society's next, and its 2 as a 9, exhausting. Sentence 6x-f has all-parity owned by the society, a named set: a named self-prior all-parity as its society-self, and *society* the set owning it, is tracked. In Exhibit ONE's code one resolving is with a 3 and a 2, and no part has a name of a set of either.
 
-- Is each society-self a species: is, or is not?
+- Is each society-self a species: is-not, sentence 6x-k.
+- Is a newborn a member of a society at its birth: is, or is not?
 
 ### 3.36 With no reading yet
 
