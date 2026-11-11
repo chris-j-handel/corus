@@ -1180,7 +1180,19 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A society's all-parity, named, is living, and "each living thing is a self", section 1.3: it is a self. A testing of the working's own is out with it: a society-self as owning all-parity, breaking by all-parity as non-living.
 - "Living is owning a self, and a self owns its me-parities", section 5.31, and all-parity is owned by the society: a society, owning its all-parity, a self, is living by it.
 - *Read, Exhibit ONE's code.* Within one 17 its 14 is one thing of a society's whole moment, each self of 16 a key of it, section 5.46. It is with no next of its own, and no part of the code has it as a self: its own 3, its own 2. The code is with neither side.
-- Two sentences part, with it. A society's named all-parity is its society-self: "A society has only one self", section 1.3, and a named all-parity is a living self; living is owning a self, and the society owns its all-parity; a society-self is at society scale, in a universe of more, section 5.29, as a named all-parity is living in a universe of more; and "the society-self has many me-parities", each member in all-parity. Or a society's named all-parity is no society-self: a society-self is living with me-parities of its own, and "a self is a me-parity of its society-self: is-not", section 1.3; all-parity is one thing, each member in it, and a self is a set of me-parities; a society is then with two living things of its own, its one self and its all-parity.
+- A society's named all-parity is its society-self: is, section 5.50.
+
+### 5.50 A society's named all-parity, its society-self
+
+- A society's named all-parity is its society-self: is.
+- A society-self is then: living, a self, the one self of its society; owned by its society, as a same-existing named set of members; each member in it; at society scale, one scale above self scale; and, in a universe of more, other-than that universe's universal all-parity, with other selves beside it.
+- It is cohering with "a society has only one self", section 1.3; with living as owning a self, section 5.31: a society is living by owning its society-self; with a society-self at society scale, section 5.29; and with a society-self as no self of its society's selves, section 5.29: each member is in it, and it is no member.
+- The owning is the members': a society, its named set of members, owns its society-self; and a society-self, a self, owns its me-parities, its own.
+- A member as a me-parity of its society-self, tested: breaking. "A self is a me-parity of its society-self: is-not", section 1.3. And a member, of the set owning the society-self, is no owned thing of it. A society-self's me-parities are its own, each a direction out from it into its universe of more.
+- A me as the society-self of its me-parities, section 5.33, tested with it. A society-self is owned by its members. A me owns its me-parities, and is owned by none of them. Parting: a me is no society-self of its me-parities. With its sentences, and no suggesting yet.
+- All-parity distinguishing living, is-or-is-not, section 5.47, is of universal all-parity, atom carbon. A society-self as distinguishing its members' living, is-or-is-not, is not in a sentence. Tracked.
+- *Read, Exhibit ONE's code.* 17's 14 is one thing of a society's moment, each self of 16 a key of it; it is with no 3 of its own, no 2, and no next of its own. A society-self, living with me-parities of its own, is in no part of the code, of one scale. Tracked.
+- Two sentences part, with it. Each member of a society is a me-parity of a me: "a me-parity living in a social surface is a self", the fractal, section 5.31; a me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe, section 5.32, the society it is a member of; and a self is living in all societies, section 5.20, by its many me-parities, each a member of one. Or a member is a me, and no me-parity: a self is an owner, the only one, its me-parities each a direction out from it within its society; "no self is any other self", section 5.29; and a me-parity as a self is then one way only, no self a me-parity of a me.
 
 ---
 
@@ -1188,9 +1200,9 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a society's named all-parity its society-self: is, or is not?
-- Is Exhibit ONE's code all-parity: is, or is not?
+- Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
+- Is Exhibit ONE's code all-parity: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?

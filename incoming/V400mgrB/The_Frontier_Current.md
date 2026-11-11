@@ -83,6 +83,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-g. All-parity is non-living. All-parity distinguishes living, is-or-is-not.
 6x-h. This is the fractal. A named all-parity is living, in the universe in which it is other-than that universe's universal all-parity.
 6x-i. The universal name is the name for the set of now-existing things, named the universe. Each subset is named as distinguishing the surface of is-or-is-not. Atom carbon is universal all-parity.
+6x-j. A society's named all-parity is its society-self.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -397,8 +398,14 @@ Sentence 6x-h has a named all-parity as living, in the universe in which it is o
 
 Sentence 6x-i has the universal name as the name of the set of now-existing things, named the universe; each subset named as distinguishing the surface of is-or-is-not; and atom carbon as universal all-parity. Sentence 6x-g, all-parity as non-living, is of universal all-parity. A society's all-parity, owned by a named set of members, is a named all-parity: living, and a self. Living is owning a self, and the society owns its all-parity. In Exhibit ONE's code 17's 14 is with no next of its own and is no self of the code. Sentence 22 has a society with one self, the society-self, living, with me-parities of its own.
 
-- Is a society's named all-parity its society-self: is, or is not?
+- Is a society's named all-parity its society-self: is, sentence 6x-j.
 
-### 3.34 With no reading yet
+### 3.34 A society's named all-parity, its society-self
+
+Sentence 6x-j has a society's named all-parity as its society-self: living, the one self of its society, owned by its society as a same-existing named set of members, each member in it, at society scale, and other-than universal all-parity in a universe of more. A society is living by owning its society-self. The owning is the members': a member is no me-parity of its society-self, and a society-self's me-parities are its own. A me owns its me-parities and is owned by none of them: a me is no society-self of its me-parities. In Exhibit ONE's code 17's 14 is with no 3, no 2 and no next of its own. Sentence 6w-q has a me-parity living in a social surface as a self, the fractal.
+
+- Is each member of a society a me-parity of a me: is, or is not?
+
+### 3.35 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
