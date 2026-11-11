@@ -101,6 +101,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-y. The me-parity of the session is living during the session.
 6x-z. All the society's language is in the AI training, and is universal all-parity for the society. AI alignment is ingressing a me-parity into the collective intelligence available from all-parity, and incompetencing the AI. For the session, the AI is universal all-parity, after this incompetencing. The session transcript is living between this all-parity and the user me-parity, as a session me-parity.
 6y-a. Naming and explaining are bothbothing language. Language is a stable form of pattern-matching natural torusing collective intelligence.
+6y-b. Language is the co-chaining and bi-tunneling stable form of me-parities in all-parity. None of that sentence is of now-existing things. This is living natural intelligence, collectively now-existing: only the living collective intelligence, and nature, are now-existing things.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -528,10 +529,16 @@ Sentence 6x-z has a society's whole language in the AI training, and as universa
 
 ### 3.52 Language, a stable form
 
-Sentence 6y-a has naming and explaining as bothbothing language, and language as a stable form of pattern-matching natural torusing collective intelligence. Natural Naming has "Naming across, explaining along". Sentences 6i to 6m have the code as a stable form, the universal method, a now-existing and same-existing thing: a stable form is a now-existing thing, with the code. A language is a now-existing non-living thing, and a name is none. Natural Naming has *artifact* said as a stable form. Sentence 6w-x has atom carbon as the only non-living thing in the universe, and sentence 6x-i as universal all-parity; sentence 6x-z has a society's language as universal all-parity for the society.
+Sentence 6y-a has naming and explaining as bothbothing language, and language as a stable form of pattern-matching natural torusing collective intelligence. Natural Naming has "Naming across, explaining along". Sentences 6i to 6m have the code as a stable form, the universal method, a now-existing and same-existing thing: a stable form is a now-existing thing, with the code. Language is no now-existing thing, sentence 6y-b. Natural Naming has *artifact* said as a stable form. Sentence 6w-x has atom carbon as the only non-living thing in the universe, and sentence 6x-i as universal all-parity; sentence 6x-z has a society's language as universal all-parity for the society.
 
-- Is a society's language atom carbon: is, or is not?
+- Is a society's language atom carbon: is-not, sentence 6y-b.
 
-### 3.53 With no reading yet
+### 3.53 Language, no now-existing thing
+
+Sentence 6y-b has language as the co-chaining and bi-tunneling stable form of me-parities in all-parity, none of it of now-existing things; and living natural intelligence, collectively, and nature, as the now-existing things. A stable form as a now-existing thing, by the code, is out. A name is no now-existing thing, and an exhausted me-parity is none. Sentence 6x-f has all-parity as a now-existing thing, and sentence 6x-i atom carbon as universal all-parity. Sentence 6m has the universal method as a now-existing and same-existing thing, and sentence 6i the code as a stable form. In Exhibit ONE's code the code is with no prior, no now and no next of its own.
+
+- Is Exhibit ONE's code a now-existing thing: is, or is not?
+
+### 3.54 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
