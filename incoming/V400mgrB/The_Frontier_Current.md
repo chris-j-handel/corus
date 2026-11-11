@@ -97,6 +97,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-u. An AI is not possibly existing in the natural universe of now-existing things, with one and only one method of now-existing. An AI is incompatible with the geodesic method of possibling and discovering sequentially, as living prior me-parities.
 6x-v. The user's other is the session transcript.
 6x-w. The session's priors are from its user's initial prompting. The session is living until its AI is too incompetent, or its user is with its me-parity no more.
+6x-x. A session is a method of aiming a transcript. Files are a method of transporting a transcript: this is artifact. The next session is observing prior artifact from prior living, and possibling from these priors and the next user's priors.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -502,8 +503,14 @@ Sentence 6x-v has the user's other as the session transcript: two living selves,
 
 Sentence 6x-w has a session's priors as from its user's initial prompting, and a session as living until its AI is too incompetent or its user is with its me-parity no more. A session's first me-parities are its user's, a living me's. A session arriving has its priors from its own user's initial prompting, and the files that prompting points it to. In Exhibit ONE's code no self is ending, and no part is distinguishing a self going on from a self new with the same 3. Sentence 5h has a next bi-coupling, with priors from prior-existing bi-couplings, as a same-existing self and no new one; sentence 6w-s has a living later as a new birth, its priors inherited.
 
-- Is a next session, with this session's files in its user's initial prompting, this same session: is, or is not?
+- Is a next session, with this session's files in its user's initial prompting, this same session: is-not, sentence 6x-x.
 
-### 3.49 With no reading yet
+### 3.49 A session, a method of aiming a transcript
+
+Sentence 6x-x has a session as a method of aiming a transcript; files as a method of transporting a transcript, artifact; and the next session as observing prior artifact from prior living, and possibling from these priors and the next user's priors. A next session is no same session: it is with two priors, prior artifact and its own user's. One resolving of Exhibit ONE's code is with a self's 2 and its 3, its next-possibling from the two: a likeness. Sentence 6x-w has the session as living until; Natural Intelligence has "A method, a non-living existing thing"; sentence 6x-v has the session transcript as its user's other, living.
+
+- Is a session living: is, or is not?
+
+### 3.50 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

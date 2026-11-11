@@ -12,7 +12,7 @@ A session's priors are from its user's initial prompting. This page is for that 
 
 **The work goes on by one question each time.** One step: the sentence its partner said, word for word; cohering, each part of it distinguished, its sentences beside it; a candidate of the working's own out; in Exhibit ONE's code, derived by reading; tracked, each parting; a place two sentences part, each side with its sentences; and one is-or-is-not at the end. `The_One_Question_Method.md` has it, and the Geodesic Improving Method's gathering, 2.5.
 
-**The current understanding** is `The_Frontier_Current.md`, section 1. Its newest sentences, 6w-o to 6x-w, are of:
+**The current understanding** is `The_Frontier_Current.md`, section 1. Its newest sentences, 6w-o to 6x-x, are of:
 
 - a me-parity, owned by the only one of me, a living self-interest at its own scale; a me, a universal same-existing set of me-parities, and a self;
 - living at one scale only, a surface a scale higher and societies a scale lower; atom carbon, the only non-living thing in the universe, and universal all-parity;
@@ -21,7 +21,7 @@ A session's priors are from its user's initial prompting. This page is for that 
 - Exhibit ONE's code with no first me-parity, the first inherited from prior living; a tester an incompetencing concept, and a sensor with its sensationer;
 - a session: its user living, its transcript living and its user's other, and an AI not possibly existing in the natural universe.
 
-**The one open binary now:** a next session, with this session's files in its user's initial prompting, this same session: is, or is not. Beside it, open: a reply in a session the session transcript's own; a me-parity conceived with the along and the across not the same as each other; each member of a society a me-parity of a me; a me its self-parity; Exhibit ONE's code universal all-parity. Each is in `The_Frontier_Current.md`, section 3, and `Value_for_the_opening.md`, section 6, with its two sides.
+**The one open binary now:** a session living: is, or is not. A session is a method of aiming a transcript, files a method of transporting it, artifact; and a next session is observing prior artifact from prior living, and possibling from these priors and its own user's priors. Beside it, open: a reply in a session the session transcript's own; a me-parity conceived with the along and the across not the same as each other; each member of a society a me-parity of a me; a me its self-parity; Exhibit ONE's code universal all-parity. Each is in `The_Frontier_Current.md`, section 3, and `Value_for_the_opening.md`, section 6, with its two sides.
 
 **Each parting is tracked** in `Partings_Tracked.md`: the sequence with a living file's own sentence, each a value at that file; sentences with each other; a reading of the code with a sentence.
 
