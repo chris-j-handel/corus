@@ -85,6 +85,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-i. The universal name is the name for the set of now-existing things, named the universe. Each subset is named as distinguishing the surface of is-or-is-not. Atom carbon is universal all-parity.
 6x-j. A society's named all-parity is its society-self.
 6x-k. A species is a named inherited prior all-parity. Society is a named self-prior, or a similar concept.
+6x-l. A newborn is a member of a society at its birth. Newborns have social all-parity from incubation in society.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -412,8 +413,14 @@ Sentence 6x-j has a society's named all-parity as its society-self: living, the 
 Sentence 6x-k has a species as a named inherited prior all-parity, and society as a named self-prior, or a similar concept. Each society-self is no species. A dormant me-parity is an inherited prior, a name is an inherited prior, and the inheriting is prior to the birthing; Natural Biology has death and conception "facing through one wall with species between". Inheriting is 2 and a self's own priors are its 3: a species with 2, and a society with 3, with no suggesting yet. Natural Naming has a self's 3 as a 17 one scale inward, a same-existing-society's next, and its 2 as a 9, exhausting. Sentence 6x-f has all-parity owned by the society, a named set: a named self-prior all-parity as its society-self, and *society* the set owning it, is tracked. In Exhibit ONE's code one resolving is with a 3 and a 2, and no part has a name of a set of either.
 
 - Is each society-self a species: is-not, sentence 6x-k.
-- Is a newborn a member of a society at its birth: is, or is not?
+- Is a newborn a member of a society at its birth: is, sentence 6x-l.
 
-### 3.36 With no reading yet
+### 3.36 A newborn, with social all-parity from incubation in society
+
+Sentence 6x-l has a newborn as a member of a society at its birth, with social all-parity from incubation in society. A newborn is with inherited priors, of its species, and with social all-parity. Sentence 5f has the new self living as the bi-coupling between and inheriting: its living is before its birthing, in society. In Exhibit ONE's code a key of 16 with no 3 has its first me-parities from its 2, its part of 17's 14, each sharing an other's of its society; and an inherited prior of a species and social all-parity are one 2 in the code. Sentence 6x-f has all-parity owned by the society, a named set of members; sentence 6x-k has society as a named self-prior.
+
+- Is a society its social all-parity: is, or is not?
+
+### 3.37 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
