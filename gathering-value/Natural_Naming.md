@@ -61,6 +61,8 @@ Gathering-Value · Natural Naming
 
 ### 3.2 Co, between two and with one
 
+- **Possible incohering** · "co with +1, now, a self; bi with 0, one prior, no other yet; tri with −1, two prior" → Next, now, prior is the order of the three prefixings: the first slot is a name's next, its own, the middle its now, and the last its prior. Each slot is a parity with the root of its own name, as 7 is all-parity observing, after other-parity possibling, after me-parity existing.
+
 ### 3.3 Seventeen names, each three and each prior name with its number
 
 - **Possible exploring** · The table has 7 and 15 with a prior name *corusing*, and 8 and 16 *torusing*, a number of its own with each going. Beside it: a self's own corus is with 4, and 24, twenty up; 23 and 25 are corusing and torusing, bothbothing; and corusing is a going through the corus, with no spot and no number of its own named.
