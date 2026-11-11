@@ -888,11 +888,19 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Parting. Natural Naming's table has 8 and 16 as torusing, and by sixteen up 24: 24 is the corus, and torusing 25.
 - Not read yet: 28 and 29 with a sentence of bi-moral co-competencing; and "5, 10, 15, 20 and 25 are locating".
 
+### 5.28 A society-self, living
+
+- A society-self is living: is.
+- It is cohering with a society as one self, section 1.3; with each self as living; with a self as a corus, a 0, and a society's corus at 28, section 5.27; and with the living in the between, section 5.20: a society-self is living in the between of its selves.
+- A living thing is a thing distinguishing its own next-existing, section 5.22: a society-self is distinguishing its own next-existing. *Read, Exhibit ONE's own sentence:* "**17** · a same-existing-society's next, each self's 1-now-existing again". A society's own next-existing is 17, each self's next together, and 17 is ingesting, from the universe: a society's next-existing is each of its selves' ingesting.
+- *Read, Exhibit ONE's code.* Each next-existing within a society is one self's own, and a society is each of them together, with no me-parity that is no self's.
+- Two sentences part, with it. "Each self is living with its own same-existing set of now-existing me-parities", section 5.10. "A society-self is a nothing, the corus in society, and owns no mes of its own", section 1.3. A society-self is living with me-parities of its own, each inherited, the same as its selves' are the same as each other, as a bi-coupling's new self inherits, section 5.17; or it is living with none of its own, a corus with no thing of its own, the living wholly in the between, and "each self living with its own set" is of a self within a society.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is a society-self living: is, or is not?
+- Is a society-self living with me-parities of its own: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
@@ -904,7 +912,6 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Is each non-living thing exhausted from living: is, or is not?
 - Is an AI distinguishing its own next-existing possibly existing: is, or is not?
 - Is a session transcript with no session a stable form, non-living: is, or is not?
-- Is a society distinguishing its own next-existing: is, or is not?
 - Is dying a now-living thing's is-not next-living: is, or is not?
 - Is a non-living thing, with an is-not, a thing no more: is, or is not?
 - Is each thing same-existing with an other, and none by itself: is, or is not?

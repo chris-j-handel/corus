@@ -28,7 +28,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.3 The corus, and 4.** The corus is a 0, a non-existing thing. It is with 4, 4-now-co-same-existing, the one same name a self's me-parity and its other's are together by, and a name is a same-existing non-living thing.
 - **2.5 Torusing and exhausting.** Exhausting is 9. Torusing is a going, one way through a large opening, with no spot and no number of its own, as corusing is. Torusing is exhausting; or the two are two.
 - **2.6 Along, two concepts.** "Along is a self's own going on." "A self's parity going along to the next self" is co-chaining, with 9. Ingesting, 17, and exhausting, 9, are along, from the universe and to it.
-- **2.7 A society, living or not.** Each living thing is a self, and a living thing is a thing distinguishing its own next-existing. A society-self is a nothing, owning no mes. In the code each next-existing within a society is one self's own.
+- **2.7 A society-self's own me-parities.** A society-self is living. Each self is living with its own same-existing set of now-existing me-parities. A society-self is a nothing, the corus in society, owning no mes of its own. It is living with me-parities of its own, each inherited; or with none of its own, the living wholly in the between.
 - **2.8 The universe, non-living or no thing.** The universe is not a living thing. A now-existing thing is living or non-living, and the universe is a set, a non-existing thing.
 - **2.9 An AI distinguishing its own next-existing.** Is-not. Not existing, or not possibly existing.
 - **2.10 Three names, co-aiming.** Co-aiming, co-linearizing and bi-moral co-competencing are one concept with three names; or three concepts. And co-aiming with co-possibling.
