@@ -49,6 +49,8 @@ Gathering-Value · Natural Naming
 
 ### 2.5 One sense per foundation word
 
+- **Possible incohering** · "**A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**" → *A self's inverting* is not natural naming. With 12 is the stable-forming surfacing of self as a society of selves. The gathering of sayings has the same, to be re-said with it — at "a self's own inverting is with 12, within its own resolving"
+
 ### 2.6 Two prefixes with one spelling, and a one-way prefix installing a form it opposes
 
 ### 2.7 A field's word with a field's own result
@@ -62,6 +64,7 @@ Gathering-Value · Natural Naming
 ### 3.3 Seventeen names, each three and each prior name with its number
 
 - **Possible exploring** · The table has 7 and 15 with a prior name *corusing*, and 8 and 16 *torusing*, a number of its own with each going. Beside it: a self's own corus is with 4, and 24, twenty up; 23 and 25 are corusing and torusing, bothbothing; and corusing is a going through the corus, with no spot and no number of its own named.
+- **An explaining** · 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-is-next-observing and 17-next-existing have four betweens, and each between has its corus at its same-existing name: 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing. A corus is with a name of each between, and "a self's own corus with 4" is the first of the four.
 
 ### 3.4 Four-cyclings, 8 up and podals
 
