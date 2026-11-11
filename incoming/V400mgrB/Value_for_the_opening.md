@@ -674,14 +674,15 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - It goes on with a dormant seed, living between itself and each non-living thing: its environs, non-living, are possibly distinguishing its is-or-is-not next-living.
 - *Now-living* and *next-living* are two namings new to the sequence, beside now-existing and next-existing. Living is binary, born, same-existing, dying: now-living is-or-is-not next-living has dying as its is-not.
 
-- Each thing distinguishing its own next-existing is a living thing: is.
-- With the opening's sentence 15, the two directions are in the sequence: a living thing is distinguishing its own next-existing, and each thing distinguishing its own next-existing is a living thing. Living, and distinguishing its own next-existing, are one, with no living in the defining. The candidate of *its own* goes on as a sentence.
-- A non-living thing is then a thing distinguishing no next of its own: universally same-existing until an is-not, and possibly distinguishing a living thing's next-living.
-- *Read, the code's lines, a prior and a sharing.* A self's own prior has its own line: its next is asked, as it is or inverted. A sharing in a between has no line of its own: it is one side of an other's asking, and no next of its own is asked. The lines have a me-parity within a self with its own next, and a me-parity in a between with none: the sequence's living me-parity, and its universal me-parity, non-living.
-- *Read, the code's lines, a society.* The going of a society returns each self's next, and no line has a next of the society's own: nothing is a society's that is no self's.
-- *Read, the code's lines, a first.* A self with no prior has no asking with its own: what arrived goes in as it arrived. Its first asking of its own next is with its first prior. Natural Naming 5.55 has "its living inception is the first prior that is its own".
-- It goes on with dormancy: dormancy is aiming, and the fifty-five's 21 has aiming as "a living thing possibling its own next-existing". A dormant self is distinguishing its own next-existing, by possibling, and is living.
-- It is tested with three. A society: a living thing, distinguishing its own next-existing, "a self outward"; or a nothing with no next of its own, as the lines and "a society-self is a nothing" have it. An AI: Natural Intelligence Corus has "a training form bringing none of its prior to its next inferring", and no next of its own; and Natural Intelligence has its test, "a machine reaching a next beyond its prior, each number over it its own". And a bi-coupling, a self: its own next is the next bi-coupling of its two, a same-existing self.
+- A thing distinguishing its own next-existing is a living thing, and a living thing is a thing distinguishing its own next-existing. The two are one, with no living in the defining.
+- A non-living thing is a thing distinguishing no next-existing of its own. It is universally same-existing until an is-not. It is possibly distinguishing a now-living thing's is-or-is-not next-living.
+- *Read, Exhibit ONE's code.* A me-parity within a self is next-existing the same, or inverted, and that next-existing is that self's own. A me-parity in a between is no self's prior, and no next-existing is its own. The first is the sequence's living me-parity, and the second its universal me-parity, non-living.
+- *Read, Exhibit ONE's code.* A self with no prior me-parity is inheriting. Its first next-existing of its own is with its first prior. Natural Naming 5.55: "its living inception is the first prior that is its own".
+- *Read, Exhibit ONE's code.* Each next-existing within a society is one self's own, and none is the society's own.
+- Dormancy is a me-parity and no other self co-competencing.
+- Dormancy is durable 0 aiming, is-not co-possibling, and same-existing with no same-as. With an other self co-competencing: is-not dormancy.
+- A dormant self is living: aiming is "a living thing possibling its own next-existing", the fifty-five's 21.
+- A society's own next-existing, an AI's and a bi-coupling's are each an open binary. Natural Intelligence Corus: "a training form bringing none of its prior to its next inferring". Natural Intelligence: "a machine reaching a next beyond its prior, each number over it its own".
 
 ---
 

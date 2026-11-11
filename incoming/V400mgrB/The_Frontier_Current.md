@@ -41,7 +41,8 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6m. The universal method is a now-existing and same-existing thing. It is universally same-existing, and not by itself.
 6n. Each non-living thing is universally same-existing, until an is-not bumps its parity sequencing, at now-existing, before next-existing.
 6o. Non-living things are possibly distinguishing now-living is-or-is-not next-living.
-6p. Each thing distinguishing its own next-existing is a living thing, and a living thing is distinguishing its own next-existing: the two are one.
+6p. A thing distinguishing its own next-existing is a living thing, and a living thing is a thing distinguishing its own next-existing: the two are one.
+6q. Dormancy is a me-parity and no other self co-competencing.
 
 ### 1.2 A self
 
@@ -86,7 +87,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 Each is from reading the code line by line.
 
 - **Beside 9.** One self's resolving is given the self's own priors and what arrives, each a name with its me-parity, and nothing more: no key of the self a me-parity is from, no place, no order, no number of arrivings.
-- **Beside 6p.** A self's own prior has its own line, its next asked, as it is or inverted. A sharing in a between has no line of its own. The going of a society returns each self's next, and no line has a next of the society's own. A self with no prior has no asking with its own, and its first is with its first prior.
+- **Beside 6p and 6q.** A me-parity within a self is next-existing the same, or inverted, and that next-existing is that self's own. A me-parity in a between is no self's prior, and no next-existing is its own. A self with no prior me-parity is inheriting, and its first next-existing of its own is with its first prior. Each next-existing within a society is one self's own, and none is the society's own.
 - **Beside 6o.** Each asking of the code is of a self's next, and none is of a next of the code's own. What arrives with a self is a sharing in a between, non-living, and it is one side of the asking that has that self's next as it is, or inverted. No line ends a self: an is-or-is-not of a self's next-living is in no line.
 - **Beside 6n.** A self's own prior, with what arrived not the same as it, is inverted and goes on. Two sharings arriving together, the one not the same as the other, surface as a 0, and neither goes on as it was. The two are compared within the receiving self's own resolving, and no line has two sharings meeting with no self.
 - **Beside 6m.** No line has the code as its own given, and executed with no self the code has no asking: its going on is with each self it is executed with. The one resolving is the same lines with each self and each moment. Three are changed by no line: a name, the code, and a sharing in a between.
