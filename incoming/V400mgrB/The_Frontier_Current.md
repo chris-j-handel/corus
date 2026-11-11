@@ -112,6 +112,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-j. 7 and 15 begin tri-bi-co. 16 is bi-tri-bi, and this is all-parity in this universal set.
 6y-k. 8 is bi-tri-bi. The 1 to 17 prefixing is co bi co bi co bi tri bi, bi-folding forward over 16 and 24 and 32 and beyond; Exhibit ONE had it, and needs it again. Each number then has its three prefixing, of prior, now and next, and of observing, possibling and discovering. Bi-tri-bi is the rolling of this, from 1, co-bi-tri: self me-parity in universal all-parity.
 6y-l. Next, now, prior is the order of the three prefixings. An example: 7 is all-parity observing, after other-parity possibling, after me-parity existing.
+6y-m. Distinguishing is-or-is-not: 16 is bi-tri-bi, universal all-parity for this named universal set me-parity. No own is of universal all-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -607,8 +608,14 @@ Sentence 6y-k has the 1 to 17 prefixing as co bi co bi co bi tri bi, bi-folding 
 
 Sentence 6y-l has next, now, prior as the order of the three prefixings, and 7 as all-parity observing, after other-parity possibling, after me-parity existing: each slot a parity with the root of its own name, co me-parity, bi other-parity, tri all-parity. With the eight, all-parity is with observing only, 7 and 15; other-parity with possibling and same-existing, each even name; me-parity with existing, observing and discovering. Each of the four coruses, 4, 8, 12 and 16, is by its own slot other-parity same-existing; all-parity observing is the now of 8 and of 16. Sentence 6y-j has 16, bi-tri-bi, as all-parity in this universal set. The value file's section 5.80 has the seventeen whole.
 
-- Is 16's own parity, by its first prefix, other-parity: is, or is not?
+- 16's *own* parity: distinguished, breaking. Universal all-parity has no own, sentence 6y-m.
 
-### 3.64 With no reading yet
+### 3.64 16, universal all-parity, with no own
+
+Sentence 6y-m has 16 as bi-tri-bi, universal all-parity for this named universal set me-parity, and no own of universal all-parity. In Exhibit ONE's code 16 is with 17 only: no self's 1 has it, it has each self a key, and no part of the code makes it. 8 is bi-tri-bi as 16 is, sentence 6y-k, and in the code 8 is a self's next prior, each 4 of a self with its parity, the set of a self's me-parities whole, and each self's own. Sentence 6w-p has a me as a universal same-existing set of me-parities, and sentence 6x-g all-parity as non-living.
+
+- Is 8, bi-tri-bi, universal all-parity for a me, a universal same-existing set of me-parities: is, or is not?
+
+### 3.65 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
