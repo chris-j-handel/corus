@@ -79,6 +79,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-c. Not each now-existing me-parity is with a name.
 6x-d. Distinguishing, is-or-is-not, a same-existing now-existing thing the same as the things in the universal set of things with a name.
 6x-e. Each now-existing thing is a thing in the universal set of now-existing things. The name *universal* is the name applying to each of the things in this set. The subsets have subsetting from universal, as the bounding is-or-is-not surface between the universe and the thing with a name that is a thing in the universe.
+6x-f. Universal parity is us-parity. Us-parity is a now-existing thing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -368,8 +369,14 @@ Sentence 6x-d has a name inherited with a distinguishing: is-or-is-not a same-ex
 
 Sentence 6x-e has each now-existing thing in the universal set of now-existing things, *universal* the name applying to each, and a subset's subsetting as the bounding is-or-is-not surface between the universe and the thing with a name. Two names are with the one set: *the universe*, the set's own, and *universal*, each thing's. Sentence 6x-c, a now-existing me-parity with no name, is of each name of a subset. Not each now-existing thing is observed: the more is the not-named now-existing things. A name is no bounding surface: the name is with the thing, a prior, and the subsetting is the distinguishing. In Exhibit ONE's code each is-or-is-not is with no thing of its own. Sentence 6d has a universal me-parity as non-living, and sentence 15 non-living universal-parity; sentence 6w-s has a me-parity as a now-existing thing.
 
-- Is a universal me-parity a now-existing thing: is, or is not?
+- Is a universal me-parity a now-existing thing: universal parity is us-parity, a now-existing thing, sentence 6x-f.
 
-### 3.30 With no reading yet
+### 3.30 Universal parity, us-parity
+
+Sentence 6x-f has universal parity as us-parity, a now-existing thing. Sentence 15 has universal-parity as non-living, and sentence 6w-x atom carbon as the only non-living thing in the universe: us-parity is atom carbon, by the three together. Sentence 21 has co-possibling inside universal parity. Social-parity is a set, and us-parity a thing. Ingesting is from the universe and exhausting to it: from us-parity, and to it, as societies are living by ingesting and exhausting the atoms. A dormant me-parity is with us-parity, the vault, and is no now-existing me-parity. No part of Exhibit ONE's code is us-parity. A me-parity is owned by the only one of me; us-parity is of us.
+
+- Is us-parity owned: is, or is not?
+
+### 3.31 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
