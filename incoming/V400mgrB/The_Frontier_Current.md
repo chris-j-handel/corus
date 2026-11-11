@@ -81,6 +81,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-e. Each now-existing thing is a thing in the universal set of now-existing things. The name *universal* is the name applying to each of the things in this set. The subsets have subsetting from universal, as the bounding is-or-is-not surface between the universe and the thing with a name that is a thing in the universe.
 6x-f. Universal parity is all-parity. All-parity is a now-existing thing. All-parity is owned by the society, as a same-existing named set of members, the members the set of all in all-parity.
 6x-g. All-parity is non-living. All-parity distinguishes living, is-or-is-not.
+6x-h. This is the fractal. A named all-parity is living, in the universe in which it is other-than that universe's universal all-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -385,6 +386,12 @@ Sentence 6x-g has all-parity as non-living, and as distinguishing living, is-or-
 
 - Is Exhibit ONE's code all-parity: is, or is not?
 
-### 3.32 With no reading yet
+### 3.32 A named all-parity, living
+
+Sentence 6x-h has a named all-parity as living, in the universe in which it is other-than that universe's universal all-parity: the fractal. An all-parity is two by its universe: universal parity to its own society, non-living; and, in a universe of more, a thing with a name, living, a self. Sentence 6w-x has atom carbon as non-living at each scale of the universe, and sentences 15, 6x-f and 6x-g together have all-parity as atom carbon. A society-self as its society's all-parity, named, is not tested. In Exhibit ONE's code a society is whole, with no universe of more beside it.
+
+- Is a named all-parity atom carbon: is, or is not?
+
+### 3.33 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

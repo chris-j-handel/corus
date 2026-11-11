@@ -1158,12 +1158,24 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* Each is-or-is-not of the code is of a me-parity the same as an other's or not, of a within, or of a 0 passed over; each next is a self's own, as it is or inverted. No part of the code has a self or a me-parity forming from none or ending: a living is-or-is-not, living to living no more, is in no part of the code. Tracked.
 - Two sentences part, with it. Exhibit ONE's code is all-parity: the code is non-living, a stable form, "the carbon exhausting, building up", section 5.21, and the only non-living thing in the universe is atom carbon, which all-parity is; "the code is the universal method", and universal parity is all-parity; and the code is distinguishing, "this and only this". Or the code is no all-parity: all-parity is one with each society, its society's own, and the code is the same with each self and each society; all-parity distinguishes living is-or-is-not, and no part of the code does; the code is a stable form of atom carbon, and atom carbon is more than one thing, "the atoms", section 1.3.
 
+### 5.48 A named all-parity, living in the universe it is other-than universal in
+
+- This is the fractal. A named all-parity is living, in the universe in which it is other-than that universe's universal all-parity.
+- An all-parity is then two, by its universe. To its own society it is universal parity, non-living, section 5.47, each member in it. In a universe with more than its society, it is a thing with a name, a subset by a bounding is-or-is-not surface, section 5.45, and living.
+- It is cohering with one all-parity with each society, section 5.46; with a named subset as the universe to a bi-coupling, section 5.15; and with section 5.36, one thing as three at three scales: a living thing at its own scale, societies a scale lower, and surface a scale higher.
+- A named all-parity is living, and "each living thing is a self", section 1.3: a named all-parity is a self, in the universe it shares with other selves, as the river is, section 5.37.
+- Tested with section 5.38: "Atom carbon is non-living at each scale of the universe." With each all-parity atom carbon, a named all-parity, living, is atom carbon living: parting. A candidate: the universal all-parity of the universe is atom carbon, and each named all-parity is living and no atom carbon. Section 5.47's all-parity as atom carbon is then of the universal one. Tracked.
+- Tested with a society-self, section 5.28. A society has one self, living, at society scale; and its all-parity, named, is living, a self, in a universe of more. A society-self as owning all-parity is breaking, section 5.46; a society-self as its society's all-parity, named, is not tested. Tracked.
+- *Read, Exhibit ONE's code.* The code is one scale, and a society of the code is whole, with no universe of more beside it: a society's 14 as a named thing among others is in no part of the code.
+- Two sentences part, with it. A named all-parity is atom carbon: all-parity is non-living, a now-existing thing, and the only non-living thing in the universe is atom carbon; a named all-parity is then atom carbon and living, and "atom carbon is non-living at each scale" is parting. Or a named all-parity is no atom carbon: it is living, a self, in the universe of more; atom carbon is the universal all-parity of the universe, non-living at each scale; and "non-living universal-parity" is of a society's own universe, its all-parity living in each universe of more.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is a named all-parity atom carbon: is, or is not?
 - Is Exhibit ONE's code all-parity: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
