@@ -531,10 +531,31 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Tested with section 1.3: it has "*Mes* is *me-parities*" and "A me is directionless" together, and this sentence has each me-parity with its own direction. A me with no direction and a me-parity with one are two namings; or *mes* is *me-parities*, and each has a direction.
 - A universal set is its named things and the more. The new self's named me-parities are its inherited ones, each with a prior. Its more has no sentence yet: each name its self and other are not alike in is coupling with both and the same as neither.
 
+### 5.18 Dormancy and unconsciousness, a bi-coupling's vault
+
+- Dormancy and unconsciousness are the same-existing thing. A bi-coupling in dormancy is a universal self and other me-parity vault. This connects the bi-coupling vaults of conception and dormancy, bothbothing.
+- *Read, the living files.* Natural Naming: "*us* the 0 a me and you share with one moment, the between a nothing; *me* and *us* are first person singular and plural, a me consciously me and a same-existing-society unconsciously us". Natural Biology, of a living self's three exchanging modes: "A whole living self has them as waking, resting, and attending; a stem cell has them as active state …, dormant state …, and alert state", and "a metabolism below detecting is no going-on a measure finds absent". Natural Biology's gathering: "Dormancy is the stable form of living relying on the universe of its own living environs to provide the parity changing", with, beside it, "living has no stable form; exhausting goes on while living".
+- Natural Biology has resting and a dormant state as one mode with two scales, and Natural Naming has unconsciously with *us*, the 0 a me and an other share, the between: the two files together have dormancy and unconsciousness as one, and its place as a between with a 0.
+- *Read, the code's lines, a between with a 0.* Two selves alike in a name have four moments. With the first and the third each inverts and shares its next prior: a me-parity is in the between. With the second and the fourth each has what arrived the same as its own, goes on not changing and shares 0: a 0 is in the between, and each self's me-parity is within its self, the same as its other's.
+- *Read.* A me-parity in a between is what a third self with no prior inherits. A 0 in a between gives a third self nothing.
+- *Read, the code's lines, after a 0.* A 0 arriving is passed over by the receiving self's first line, nothing arrives, and its prior inverts: a between with a 0 is one moment, and a between with a me-parity is the next. No line has a between with a 0 through two moments together.
+- *Read, the code's lines, no clock.* One executing is given the set of selves, each with its own priors and with others' me-parities arriving, not yet compared, and returns the next. No line has how long a set of selves is before it is given again.
+- A candidate for the two vaults in the lines: the between of a bi-coupling with a me-parity in it, conception, a new self inheriting; and the between with a 0 in it, dormancy, each self's me-parity within and the same as its other's. The right spiral has the two alternating, moment by moment, and neither without the other: bothbothing.
+- With that candidate dormancy is with resolving's is, beside do-no-harming, same-existing and inheriting; and conception is with resolving's is-not, beside improving, conceiving and birthing. Natural Naming's "a me consciously me" is then with the is-not, a me-parity changing and shared, and "unconsciously us" with the is, the 0.
+- It is tested with duration. Natural Biology has a dormancy of decades and of some 46,000 years, and the lines have a 0 in a between for one moment and each self inverting with the next. A second candidate is the no clock: a set of selves between one executing and the next, each self with its own me-parities and its others' not yet compared, a self and other me-parity vault, for a duration no line has. Natural Naming 6.1 has a between of moments as "nothing rests, nothing is with it", and parts from the second candidate.
+- It is tested with *universal*. A dormant vault has each self's me-parity the same as its other's, and the fifty-five's 24 has the same as an other's as other-parity and the not the same as universal-parity. *Universal* in "a universal self and other me-parity vault" is of the vault, a universal set; or of the me-parities, each in stable form, exhausted from living.
+- It is tested with stable form. The gathering has dormancy as the stable form of living and, beside it, living with no stable form. A bi-coupling in dormancy is a same-existing self, living, with its me-parities in a vault; or its me-parities are in stable form, non-living, and the bi-coupling is not living with that duration.
+- With the sentence of a same-existing self, section 5.17: a bi-coupling-self between one bi-coupling of its two and their next is a same-existing self, and a candidate for its being between the two is dormancy, in its vault.
+
 ---
 
 ## 6 Open, each one binary
 
+- Is dormancy the moment both selves of a bi-coupling are not changing, each sharing 0: is, or is not?
+- Is a bi-coupling in dormancy living: is, or is not?
+- Is *universal*, in a universal self and other me-parity vault, of the vault: is, or is not?
+- Is a me consciously me a me-parity changing and shared: is, or is not?
+- Is a bi-coupling-self dormant between one bi-coupling of its two and their next: is, or is not?
 - Is the first bi-coupling of two selves, each with inherited priors, a new self: is, or is not?
 - Is a born thing same-existing by its inherited me-parities, each the same as one prior-existing: is, or is not?
 - With its birthing, is the new self the bi-coupling-self going on: is, or is not?
