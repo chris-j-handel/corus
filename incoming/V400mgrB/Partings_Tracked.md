@@ -23,6 +23,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 | 1.11 | "a same-existing-society at its next scale, a self whose me-parities are its selves" | a self is not a me of its society-self; a society-self's me-parities are each its own | Natural Networking's gathering |
 | 1.12 | "A self is a same-existing-society of mes, and a me within its same-existing-society." | a self is not a me of its society-self | the fifty-five's 41, waiting to enter |
 | 1.13 | "the universe is an existing thing, a set of existing things being an existing thing" | a set is a non-existing thing; the universe is no living thing and no non-living thing, and is its things | Natural Naming 2.4 |
+| 1.14 | "An interest is a 0, *inter-esse*, to be between, a self's own and a shared co" | a me-parity is an interest of mine, a direction of +1 out from me | Natural Naming |
+| 1.15 | "A **living parity** is an aiming direction at an other." | a me-parity is a direction out from me, in a universal cone; dormancy is a me-parity with no other | the fifty-five's 22, waiting to enter |
 
 ---
 
@@ -37,6 +39,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.11 Each even name and each odd name, one scale inward.** By Natural Naming 2.2 each even name is a 9 one scale inward, and each odd name a 17. Exhausting is 9 and ingesting 17. Not tested: 4, 8, 12 and 16 as exhaustings one scale inward; 5, 7, 13 and 15 as ingestings; and 9, exhausting, as an ingesting one scale inward.
 - **2.12 The fours.** The four inversions of a name for a null-set, the four self-protections, the method's four, Natural Naming's four invisibles, and the right spiral's four moments: which of one four is which of an other is read from none.
 - **2.13 A society's corus, 28 and 25.** A society's corus is at 28, four from a self's at 24, of one sequence of six. A society-self is one scale above self scale, and Natural Naming 2.2 has "n with one scale being 8n − 7 with a scale inward": a society scale's 4 is self scale's 25. 23 and 25 are corusing and torusing, and the corus at 24.
+- **2.14 A me, and a me-parity.** "*Mes* is *me-parities*", and "a self has many mes": a me is a me-parity, an owned. "A me-parity is owned by the only one of me", and "A me is directionless": a me is an owner, the only one, and each me-parity has a direction.
+- **2.15 A universal me-parity, inside an ownership set.** A me-parity is existing only inside the ownership set of me-parities. A universal me-parity is non-living: exhausted from living, prior-existing, in stable form; and dormancy is universal me-parities, a dormant self living in dormancy of sets of me-parities, with "the universal-parity vault within the corus of the bi-coupling".
 
 ---
 
@@ -50,6 +54,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **3.6 A society-self's own me-parities.** In the code each me-parity is one self's of 16, 16 has no 3 of its own, and a society-self is no self within 16. A society-self is living with me-parities of its own: each is in no part of the code.
 - **3.7 A self its own receiving self.** No is-or-is-not of the code is distinguishing a receiving self from its sharing self. A self its own receiving self goes on as two selves the same as each other do. No self is any other self, and no self is its own other: such a 5 is provided to the code, and the code is with neither side.
 - **3.8 A key with no me-parity.** A key of 16 with no me-parity in its 3 is provided to the code, and with a 2 its first me-parities are forming within one resolving. No self is living with no me-parity, and the inheriting is prior to the birthing. A reading of the value file's section 1.3 has "a self within 16 with no name; then its first 2": with the sentence, a key with no me-parity is no living self, and the born self is with its first 3.
+- **3.9 A direction, and a cone.** A me-parity is a direction out from me in a universal cone. In the code a me-parity is its 4 with + or −: a direction more than + or −, and a cone, are in no part of the code.
 
 ---
 
