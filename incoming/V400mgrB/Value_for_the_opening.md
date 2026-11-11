@@ -731,17 +731,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Ingesting, inheriting, conceiving and exhausting are the four across numbers of the resolver, 2, 6, 10 and 14. Ingesting and inheriting are self and other prior. Conceiving and exhausting are self and other now or next. This is possibly imprecise, with value in it.
 - *Read, Exhibit ONE's own sentences of the four names.* "**2** · parities a self is observing from its others". "**6** · a self's parities across, to an other's 2-now-possibling". "**10** · each sharing's parity, + or −, or a 0, across to an other's 14-next-possibling". "**14** · parities surfacing with each sharing, agreeing one, parting 0". Its picture: "6 and 10 ══► an other's 2 and 14, across". Its table has 2 with 10, and 6 with 14, as eight apart.
 - *Read, Exhibit ONE's code.* 2-now-possibling is others' me-parities with a self, each from an other's sharing the moment before. 14-next-possibling within a self is each of them surfacing: one +, one −, or a 0 with two parting. Each surfacing me-parity is in 12-next-co-same-existing as it surfaced; with a prior of that self's, it is in its place a 0, the prior the same as it, or the prior inverted. 10-next-co-possibling is 12-next-co-same-existing as that self's sharing.
-- A candidate, each of the four with one of the four names, by what is with each name:
-
-| Name | Whose, and its moment | The four |
-|---|---|---|
-| 2-now-possibling | an other's prior, with a self | ingesting |
-| 14-next-possibling | a self's first prior, the same as what surfaced | inheriting |
-| 10-next-co-possibling | a self's next, its prior inverted | conceiving |
-| 6-now-co-possibling | with an other, now | exhausting |
-
-- It is with the sentence: ingesting and inheriting are an other's prior and a self's prior, and conceiving and exhausting are a self's next and an other's now.
-- Two binaries are with the four names, and each of the four is with one pair: now, 2 and 6, or next, 10 and 14; and with a self from an other, 2 and 14, or from a self to an other, 6 and 10.
+- Two binaries are with the four across names: now, 2 and 6, or next, 10 and 14; and with a self from an other, 2 and 14, or from a self to an other, 6 and 10.
 - Across, by Exhibit ONE's own two sentences: 6 is with an other's 2, one self's exhausting an other's ingesting; and 10 is with an other's 14, one self's conceiving an other's inheriting. The first is already with the sequence, section 5.13. The second is new: a me-parity conceived with one self is inherited with an other, as a new self's first prior.
 - Eight apart, by Exhibit ONE's table: 2 with 10, ingesting with conceiving, within one self; and 6 with 14, exhausting with inheriting.
 - Imprecise in four places, each from the code. (a) 6-now-co-possibling and 10-next-co-possibling are one same sharing with two names: conceiving and exhausting are with one thing, and part by its other and its moment only. (b) 14-next-possibling is with two: others' sharings accumulating with a self, between selves, which is that self's 2-now-possibling with its next moment; and within a self, each surfacing. (c) A self's sharing is with three kinds, a 0, a prior inverted, and a me-parity as it surfaced with no prior: conceiving is the second only, and exhausting is each of the three. (d) A prior inverted is with 12-next-co-same-existing before it is with 10: conceiving is with a same-existing name, and its sharing with a possibling name.
@@ -758,9 +748,25 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the living files.* Natural Networking 1.2: "**Along is a self's own going on; across is a self's parity, another self observing it.**" Natural Intelligence: "A self's parity going along to the next self it is bi-coupling with is **co-chaining**." Natural Biology's gathering: "a body's ingesting and exhausting goes along a tunnel opening through the body at its forming". Exhibit ONE's picture: "9-next-co-discovering ══► an other's 17, along", and its table has 1 with 9 as eight apart.
 - *Read, Exhibit ONE's code, along and across.* A self's sharing is one, and it is with three bi-couplings: two across, with 6 and with 10, and one along, with 9. The sharing along is the same sharing as across. With the self it arrives with, an arriving along and an arriving across are one: no part of the code has the two apart.
 - The set has ingesting and exhausting along in its own sentence of a body's tunnel, and a parity going along as co-chaining: one self's exhausting, the next self's ingesting, a chain. Conceiving and inheriting are then the two across, in the between of a self and an other, a new self's first prior.
-- It tests two rows of this section's table: ingesting with 2-now-possibling, and exhausting with 6-now-co-possibling, each an across name. With ingesting and exhausting along, exhausting is with 9-next-co-discovering, and ingesting with a self's arriving along; and 6 with an other's 2, across and now, is with neither of the four: it is co-possibling, an other's me-parity the same as a self's own, or not.
 - It tests Natural Naming's gathering 2.4, *ingesting* as 2-now-possibling.
 - The code is with neither side: its along and its across part by a bi-coupling only, and by nothing of the sharing or of its arriving.
+
+- Exhausting is with 9-next-co-discovering, along: is.
+- *Read, Exhibit ONE's own sentences.* "**9** · each parity to a self of 5-now-co-existing's bi-couplings: across with 6-now-co-possibling and 10-next-co-possibling, along with 9-next-co-discovering". Its picture: "an other's 9-next-co-discovering ══► 17-next-existing, along to a self", then "1-now-existing, a self's momentary given". Its table has 9 with 1 as eight apart, and 17 as "each self's next, its 1-now-existing again".
+- *Read, Exhibit ONE's code.* 9-next-co-discovering is each sharing with the self it arrives with, by its bi-coupling, across or along.
+- The four, current, with each name and its standing:
+
+| The four | Its name | Along or across | Standing |
+|---|---|---|---|
+| exhausting | 9-next-co-discovering | along | is |
+| ingesting | open: 1-now-existing, eight apart with 9, a candidate | along | likely |
+| conceiving | 10-next-co-possibling, a candidate | across | open |
+| inheriting | 14-next-possibling, a candidate | across | open |
+
+- One self's conceiving is an other's inheriting, across: is. One self's exhausting is an other's ingesting, along: with the sequence.
+- 6-now-co-possibling with an other's 2-now-possibling, across and now, is with neither of the four: a candidate, co-possibling, an other's me-parity the same as a self's own prior, or not.
+- With the seventeen names, co with each odd name and bi with each even name, section 5.3: exhausting and a candidate ingesting are with two co names, 9 and 1, along; conceiving and inheriting with two bi names, 10 and 14, across.
+- Natural Naming's gathering 2.4 has *ingesting* at the now span, 1 to 8, and *exhausting* at the next span, 9 to 16, "9 the waist": with it. It has *ingesting* as 2-now-possibling: tested.
 
 ### 5.25 Co-aiming, the co-linearizing of self and other
 
@@ -777,7 +783,9 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is exhausting with 9-next-co-discovering, along: is, or is not?
+- Is ingesting with 1-now-existing, along: is, or is not?
+- Is conceiving with 10-next-co-possibling: is, or is not?
+- Is inheriting with 14-next-possibling: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
 - Are a self and an other, the one not the same as the other, co-linearizing: is, or is not?
 - Is co-aiming co-possibling across and co-competencing along: is, or is not?
