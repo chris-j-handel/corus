@@ -747,6 +747,13 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Imprecise in four places, each from the code. (a) 6-now-co-possibling and 10-next-co-possibling are one same sharing with two names: conceiving and exhausting are with one thing, and part by its other and its moment only. (b) 14-next-possibling is with two: others' sharings accumulating with a self, between selves, which is that self's 2-now-possibling with its next moment; and within a self, each surfacing. (c) A self's sharing is with three kinds, a 0, a prior inverted, and a me-parity as it surfaced with no prior: conceiving is the second only, and exhausting is each of the three. (d) A prior inverted is with 12-next-co-same-existing before it is with 10: conceiving is with a same-existing name, and its sharing with a possibling name.
 - Exhibit ONE's table has 14, between selves, as "each self's, gathering in 17 from others' 15": the living file's own *gathering* is others' sharings accumulating with a self, which is that self's 2-now-possibling, ingesting, with its next moment. "Gathering is ingesting" is with the code.
 
+- One self's conceiving is an other's inheriting: is.
+- The four are then two pairs across, each one sharing with its two selves: exhausting with ingesting, now; and conceiving with inheriting, next.
+- *Read, Exhibit ONE's code.* A me-parity conceived with one self, its prior inverted, is in its sharing. With an other with no prior of it, and each arriving of it the same, it is that other's first prior. With two arriving, the one not the same as the other, it is a 0 with that other, and no first prior.
+- With section 5.17: a new self's first prior is a me-parity conceived with its self or its other. With section 5.18: two me-parities conceived, the one with its self and the one with its other, the one not the same as the other, are a durable 0 with the new self, dormancy; and with the 0's ending the first prior is one conceived me-parity, inherited.
+- Within one self, eight apart: ingesting with conceiving. An other's prior with a self, not the same as that self's own prior, and that self's prior is inverted, its next.
+- Co-aiming is bi-moral co-competencing, section 5.25; same as is co-possibling, section 5.19; and along is competency, across morality. Co-possibling is then the across of co-aiming, and co-competencing its along: a candidate, for breaking.
+
 ### 5.25 Co-aiming, the co-linearizing of self and other
 
 - Co-aiming is ingesting: is-not. Co-aiming is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
@@ -762,10 +769,10 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is one self's conceiving an other's inheriting: is, or is not?
+- Are a self and an other, the one not the same as the other, co-linearizing: is, or is not?
+- Is co-aiming co-possibling across and co-competencing along: is, or is not?
 - Is co-aiming co-possibling: is, or is not?
 - Is *co-aiming* the one name of co-aiming, co-linearizing and bi-moral co-competencing: is, or is not?
-- Is co-linearizing with two the same only: is, or is not?
 - Is each observing ever reported within the dead surface: is, or is not?
 - Is each non-living thing exhausted from living: is, or is not?
 - Is an AI distinguishing its own next-existing possibly existing: is, or is not?
