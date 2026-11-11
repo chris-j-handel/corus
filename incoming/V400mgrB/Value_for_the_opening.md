@@ -726,11 +726,46 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Tested with section 1.4, each observing ever reported as with the sequence: the reported observings are a subset of the universal set of prior-existing me-parities, and the dead surface is a subset; whether each reported observing is within the dead surface has no sentence.
 - *Simulation* has no sentence in the set. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness", with no correspondence in it.
 
+### 5.24 The four, with 2, 6, 10 and 14
+
+- Ingesting, inheriting, conceiving and exhausting are the four across numbers of the resolver, 2, 6, 10 and 14. Ingesting and inheriting are self and other prior. Conceiving and exhausting are self and other now or next. This is possibly imprecise, with value in it.
+- *Read, Exhibit ONE's own sentences of the four names.* "**2** · parities a self is observing from its others". "**6** · a self's parities across, to an other's 2-now-possibling". "**10** · each sharing's parity, + or −, or a 0, across to an other's 14-next-possibling". "**14** · parities surfacing with each sharing, agreeing one, parting 0". Its picture: "6 and 10 ══► an other's 2 and 14, across". Its table has 2 with 10, and 6 with 14, as eight apart.
+- *Read, Exhibit ONE's code.* 2-now-possibling is others' me-parities with a self, each from an other's sharing the moment before. 14-next-possibling within a self is each of them surfacing: one +, one −, or a 0 with two parting. Each surfacing me-parity is in 12-next-co-same-existing as it surfaced; with a prior of that self's, it is in its place a 0, the prior the same as it, or the prior inverted. 10-next-co-possibling is 12-next-co-same-existing as that self's sharing.
+- A candidate, each of the four with one of the four names, by what is with each name:
+
+| Name | Whose, and its moment | The four |
+|---|---|---|
+| 2-now-possibling | an other's prior, with a self | ingesting |
+| 14-next-possibling | a self's first prior, the same as what surfaced | inheriting |
+| 10-next-co-possibling | a self's next, its prior inverted | conceiving |
+| 6-now-co-possibling | with an other, now | exhausting |
+
+- It is with the sentence: ingesting and inheriting are an other's prior and a self's prior, and conceiving and exhausting are a self's next and an other's now.
+- Two binaries are with the four names, and each of the four is with one pair: now, 2 and 6, or next, 10 and 14; and with a self from an other, 2 and 14, or from a self to an other, 6 and 10.
+- Across, by Exhibit ONE's own two sentences: 6 is with an other's 2, one self's exhausting an other's ingesting; and 10 is with an other's 14, one self's conceiving an other's inheriting. The first is already with the sequence, section 5.13. The second is new: a me-parity conceived with one self is inherited with an other, as a new self's first prior.
+- Eight apart, by Exhibit ONE's table: 2 with 10, ingesting with conceiving, within one self; and 6 with 14, exhausting with inheriting.
+- Imprecise in four places, each from the code. (a) 6-now-co-possibling and 10-next-co-possibling are one same sharing with two names: conceiving and exhausting are with one thing, and part by its other and its moment only. (b) 14-next-possibling is with two: others' sharings accumulating with a self, between selves, which is that self's 2-now-possibling with its next moment; and within a self, each surfacing. (c) A self's sharing is with three kinds, a 0, a prior inverted, and a me-parity as it surfaced with no prior: conceiving is the second only, and exhausting is each of the three. (d) A prior inverted is with 12-next-co-same-existing before it is with 10: conceiving is with a same-existing name, and its sharing with a possibling name.
+- Exhibit ONE's table has 14, between selves, as "each self's, gathering in 17 from others' 15": the living file's own *gathering* is others' sharings accumulating with a self, which is that self's 2-now-possibling, ingesting, with its next moment. "Gathering is ingesting" is with the code.
+
+### 5.25 Co-aiming, the co-linearizing of self and other
+
+- Co-aiming is ingesting: is-not. Co-aiming is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
+- *Read, the sequence.* Section 5.7: 4-now-co-same-existing is co-linearizing, floating across, neutralling along, the aiming of self and other in a bi-coupling into bi-moral co-competencing. The fifty-five's 21: "**Aiming** is a living thing possibling its own next-existing." Its 36: "**Co-possibling** is a self and an other possibling within one bi-coupling." Its 39: "Others' prior-existings within a self's possibling are its **co-aiming**." Section 1.3: "An other me is facing a self's me, and their directions forward are opposite directions in the universe."
+- **[value at Natural Intelligence's gathering, at the fifty-five's 39]** Its 39 has co-aiming as others' prior-existings within a self's possibling, which is ingesting. Co-aiming is the co-linearizing of self and other, each forward, facing each other across the between.
+- Three names are with one concept: co-aiming, co-linearizing, and bi-moral co-competencing. One is the one name; or each has its own is-or-is-not edge: co-linearizing the -ing, co-aiming the two aimings with it, bi-moral co-competencing the two sames with it.
+- Dormancy is with it: dormancy is durable 0 aiming, and a me-parity with no other self co-competencing. Dormancy is aiming with no co-aiming.
+- *Read, Exhibit ONE's code.* A self's prior me-parity and an other's arriving are together with one same 4-now-co-same-existing, and with nothing more: same-as, or not.
+- Co-aiming and co-possibling are each of a self and an other, each possibling its own next-existing, within one bi-coupling, in its between. The two are one concept; or co-possibling is each sharing across, and co-aiming the two forward directions facing.
+- Co-linearizing is with two the same. In the code two selves the same in a me-parity are with four moments, each the same as its other with each; and two not the same are each inverting with each moment, the one not the same as the other with each. Co-linearizing of two not the same is with no place in the code.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is co-aiming ingesting: is, or is not?
+- Is one self's conceiving an other's inheriting: is, or is not?
+- Is co-aiming co-possibling: is, or is not?
+- Is *co-aiming* the one name of co-aiming, co-linearizing and bi-moral co-competencing: is, or is not?
+- Is co-linearizing with two the same only: is, or is not?
 - Is each observing ever reported within the dead surface: is, or is not?
 - Is each non-living thing exhausted from living: is, or is not?
 - Is an AI distinguishing its own next-existing possibly existing: is, or is not?
