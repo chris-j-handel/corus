@@ -32,6 +32,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6d. A universal me-parity is non-living. The universe is not a living thing.
 6e. A dormant self is living: a dormant friendship, a dormant seed. The living is in the between of the priors of self and other. An unconscious or a sleeping human is living in dormancy of sets of me-parities.
 6f. Each living thing is living between itself and each other, in all societies, and also between itself and each non-living thing.
+6g. Each thing distinguishing same-as from not-same-as is a living thing.
 
 ### 1.2 A self
 
@@ -76,6 +77,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 Each is from reading the code line by line.
 
 - **Beside 9.** One self's resolving is given the self's own priors and what arrives, each a name with its me-parity, and nothing more: no key of the self a me-parity is from, no place, no order, no number of arrivings.
+- **Beside 6g.** The line of same-as is a comparing, and an executing of it has one of two with each. The code is given each self and each arriving, and no line has a prior of the code's own.
 - **Beside 6f.** What arrives with a self is a name with its me-parity, and no line asks what it is from: an arriving from a living self and an arriving from a non-living thing are one to the lines. A self has the one line of same-as, and an arriving has none.
 - **Beside 6e.** Each self's priors go on with each moment, with an other's sharing arriving or with none: a prior from a prior-existing bi-coupling is with its self through any number of moments with no sharing between the two. With the two sharing again, the first arriving meets a prior, is compared, and no first prior forms. A self with a prior and nothing arriving inverts with each moment, going on with no other.
 - **Beside 6c and 6d.** One line asks is-or-is-not the same as what arrived: with its is the prior goes on as it is, and with its is-not it is inverted. No line removes a me-parity from a self, and two selves across with each other have the two alternating, a changing and a changing back. A me-parity a self shares is in the between with the moment after, no self's prior, until the receiving self's next moment.
@@ -177,9 +179,10 @@ Sentences 5i and 5j have dormancy and unconsciousness as one same-existing thing
 
 ### 3.11 Living, with each other, and its defining
 
-Sentences 6c to 6f have same-existing as a distinguishing, same-as and not-same-as bothbothing; a universal me-parity as non-living; the universe as no living thing; a dormant self as living, the living in the between of the priors of self and other; and each living thing living between itself and each other, in all societies, and each non-living thing. An other is a self, and a non-living thing is an other. Living is in the defining of living, a circle, and a circle is excluded by sequence. A candidate with no circle: a living thing is a thing distinguishing same-as from not-same-as, with each other; a non-living thing is distinguished, and distinguishes none. Three kinds of other are in sentence 6f, and the sequence has three other-than-me-parities, universal, then societal, then individual.
+Sentences 6c to 6f have same-existing as a distinguishing, same-as and not-same-as bothbothing; a universal me-parity as non-living; the universe as no living thing; a dormant self as living, the living in the between of the priors of self and other; and each living thing living between itself and each other, in all societies, and each non-living thing. An other is a self, and a non-living thing is an other. Sentence 6g has living with no living in its defining: a thing distinguishing same-as from not-same-as is a living thing, and a non-living thing is distinguished and distinguishes none. The opening's sentence 15 has a living thing observing, and Natural Naming has observing as distinguishing same-as. Natural Intelligence has an AI as "existing non-living intelligence of its inferring", "an emanation of living selves", and Exhibit ONE's line of same-as is a comparing: a comparing is a distinguishing of the comparing thing's own, and the thing living; or a comparing is living selves' distinguishing in stable form, and the thing non-living. Three kinds of other are in sentence 6f, and the sequence has three other-than-me-parities, universal, then societal, then individual.
 
-- Is each thing distinguishing same-as from not-same-as a living thing: is, or is not?
+- Is a code's comparing a distinguishing: is, or is not?
+- Is each living thing distinguishing same-as from not-same-as: is, or is not?
 - Is a between of two non-living things living: is, or is not?
 - Is universal other-than-me each non-living thing: is, or is not?
 - Is a me-parity living only within a living self: is, or is not?
