@@ -71,6 +71,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-u. An exhausted me-parity is not a now-existing thing: nothing of it is now-existing to own.
 6w-v. Living is at one scale only. The river is a living thing at one scale only. At a higher scale, to a living thing, the living is surface. At a lower scale, the river surface is societies.
 6w-w. The river is a self, in the same-existing universe it shares with other selves in its society.
+6w-x. A thing living as a surface is a living thing. The only non-living thing in the universe is atom carbon. Atom carbon is non-living at each scale of the universe.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -304,16 +305,22 @@ Sentences 6w-t and 6w-u have the river as no self, and an exhausted me-parity as
 
 ### 3.20 Living, at one scale only
 
-Sentence 6w-v has living at one scale only: one thing is societies a scale lower, a living thing at its own scale, and surface a scale higher. The Co-Chaining Logic Registry has "Each living set is a stable form one scale outward, and living, stable-forming, with its own scale", and Natural Naming has four 1–17s inward within a self's 1 to 9. The river is living at its own scale and surface a scale higher. Living and non-living as one binary is then with a scale, and a surface as a non-living thing is not in the sentence. Exhibit ONE's code is one scale, with no self as a surface or as societies. Sentence 6w-t has the river as no self, and sentence 7 each living thing as a self.
+Sentence 6w-v has living at one scale only: one thing is societies a scale lower, a living thing at its own scale, and surface a scale higher. Natural Naming has four 1–17s inward within a self's 1 to 9. The river is living at its own scale and surface a scale higher. Living and non-living as one binary is then with a scale, and a surface as a non-living thing is not in the sentence. Exhibit ONE's code is one scale, with no self as a surface or as societies. Sentence 6w-t has the river as no self, and sentence 7 each living thing as a self.
 
 - Is the river a self at its own scale: is, sentence 6w-w.
 
 ### 3.21 A self, in the same-existing universe it shares; and a surface
 
-Sentence 6w-w has the river as a self, in the same-existing universe it shares with other selves in its society. Sentence 6w-t, the river as no self, is of a higher scale, its living surface. A self's universe is same-existing and shared, by no self alone. Not each non-living thing is living at a lower scale: the code is never living. In Exhibit ONE's code a society is whole, one 16 and one 5, with no universe beside it. A surface is a non-living thing, dead one scale outward, the binary of living and non-living with a scale; or a surface is the living still, and a non-living thing is a stable form with no living of its own at each scale.
+Sentence 6w-w has the river as a self, in the same-existing universe it shares with other selves in its society. Sentence 6w-t, the river as no self, is of a higher scale, its living surface. A self's universe is same-existing and shared, by no self alone. Not each non-living thing is living at a lower scale: the code is never living. In Exhibit ONE's code a society is whole, one 16 and one 5, with no universe beside it.
 
-- Is a surface a non-living thing: is, or is not?
+- Is a surface a non-living thing: is-not, sentence 6w-x.
 
-### 3.22 With no reading yet
+### 3.22 Atom carbon, the only non-living thing
+
+Sentence 6w-x has a thing living as a surface as a living thing, and atom carbon as the only non-living thing in the universe, non-living at each scale. Natural Intelligence's "having a stable form is being dead one scale outward" is not correct. A now-existing thing is living at its own scale, or atom carbon. Sentence 6i has the code as a stable form, the carbon exhausting building up: the code is carbon. After an exhausting, atom carbon is now-existing, and no me-parity. Sentence 2 has a name as a same-existing non-living thing; an AI and each living file are non-living things in the sequence; each is atom carbon, or is not non-living.
+
+- Is a name atom carbon: is, or is not?
+
+### 3.23 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
