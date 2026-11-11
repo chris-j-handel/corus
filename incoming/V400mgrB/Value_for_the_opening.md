@@ -1535,7 +1535,23 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A likeness, for breaking: Natural Naming has 12 "between prior and now", and the sentence has it between self and other. In the code the two are one: a self's own 3 is its prior, and its other's with it is its now.
 - A likeness, for breaking: of the four coruses, 4 and 12 are each with co, and 8 and 16 each of one. Natural Naming 3.2 has co as between two.
 - Tracked. *Unrelationing*, with 12: whether the 0, the two the same, or the + or −, the two not the same, is not in the sentence.
-- Two sentences part, with it. 16, the corus of the between 15 to 17, is between self and universe: 16 is "a same-existing-society" by Exhibit ONE's own sentence; in the code 16 has each self a key, the whole of selves, and 17 gives each self its next from it; and "all the society's language is universal all-parity for the society". Or it is not: a society is a named subset, other-than the universe; "a named all-parity is living in the universe"; the code is one scale, with no scale above its society; and 8, of one as 16 is, is beside it.
+- Re-said, section 5.78: 16 is bi-tri-bi, all-parity in this universal set, with no co in its three.
+
+### 5.78 7 and 15 begin tri-bi-co; 16, bi-tri-bi, all-parity in this universal set
+
+- 7 and 15 begin tri-bi-co. 16 is bi-tri-bi, and this is all-parity in this universal set.
+- 16 as between self and universe, section 5.77: re-said by it. 16 is all-parity in this universal set.
+- Out, a candidate of my own: 16 as a between with self. 16's three, bi-tri-bi, is all between other and other, with no co in it.
+- *Read, Natural Naming 3.3.* "**Each name's three is its prefixing with the 1–17 scale, beside its name and not in it**: co is self, bi is other and tri is all, and a next name's three is a new prefix in its first slot with this name's first two one slot right." And "social parity, all's, is reached from self parity only through other parity."
+- Cohering, with Natural Naming's table: 15's three is tri-bi-co; 16's is bi-tri-bi; 17's and 1's, co-bi-tri.
+- Cohering, with the sequence: all-parity is owned by the society as a same-existing named set of members, the members the set of all in all-parity, sentence 6x-f; and in Exhibit ONE's code 16 has each self a key, each with its own 3 and its others' me-parities with it: the set of all members.
+- Cohering, with section 5.77: 12's three in the table is bi-co-bi, self between other and other, with no tri in it. 12 is between self and other, and not between self and universe.
+- A place the sentence and a living file part. Natural Naming's table has 7's three as co-bi-co, and "tri opens with 9, 1–17's inverting, Natural Numbers 9.7, and with 15", with "a six repeating, co bi tri bi co bi". The sentence has 7 and 15 beginning tri-bi-co: 7-is-now-observing and 15-is-next-observing are one name 8 up, observing, of one. Tracked, with its value at the gathering.
+- *Derived, with the set's own saying of a next name's three, and with 7 beginning tri-bi-co.* 7, tri-bi-co; 8, bi-tri-bi; 9, co-bi-tri; and 15, 16 and 17 the same three, 8 up. 9 is next prior as 17 is next 1. A candidate, for breaking.
+- With it, of the four coruses: 4 and 12 are each bi-co-bi, self between other and other, and 8 and 16 each bi-tri-bi, all between other and other. Section 5.77's likeness, 4 and 12 each with co and 8 and 16 each of one, is beside it. A candidate, for breaking.
+- Tracked. Natural Naming's prior name of 12 is "12-bi-tri-bi-entraining", with tri, and its three is bi-co-bi, with none.
+- Tracked. "A society's named all-parity is its society-self", sentence 6x-j, and 16 is all-parity in this universal set: a society-self with 16, a candidate, for breaking, and beside parting 2.51.
+- Two sentences part, with it. 8 is bi-tri-bi, as 16 is: 7 begins tri-bi-co as 15 does, and a next name's three is a new prefix with this name's first two one slot right; 8 and 16 are one name 8 up, same-existing, of one. Or 8 is bi-co-bi: Natural Naming's table has it; "8-now-same-existing, the last of a self's span", a self's own next prior in the code; and all-parity is a society's, with 16.
 
 ---
 
@@ -1543,7 +1559,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 16, the corus of the between 15 to 17, between self and universe: is, or is not?
+- Is 8 bi-tri-bi, as 16 is: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.

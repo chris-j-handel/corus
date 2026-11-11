@@ -38,6 +38,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 | 1.25 | "*Artifact* dissolves, a new term ingressing, carrying two things, said *exhausting* with a self's scale and *a stable form* one scale outward" | files are a method of transporting a transcript: this is artifact | Natural Naming |
 | 1.26 | "A same-existing-society do-no-harming and improving is **social moral competency**." | a social moral competency is one of many, each a me-parity of society | the fifty-five's 42, waiting to enter |
 | 1.27 | "**A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**"; and "a self's own inverting is with 12" | *a self's inverting* is not natural naming: with 12 is the stable-forming surfacing of self as a society of selves | Natural Naming 2.5, and its gathering of sayings |
+| 1.28 | the table's 7, "co-bi-co"; and "tri opens with 9, 1–17's inverting, Natural Numbers 9.7, and with 15" | 7 and 15 begin tri-bi-co; 16 is bi-tri-bi, all-parity in this universal set | Natural Naming 3.3 |
+| 1.29 | "12-bi-tri-bi-entraining", the prior name of 12, with tri | 12 is between self and other, not between self and universe; its three is bi-co-bi | Natural Naming 3.3 and 5.40 |
 ---
 
 ## 2 Sentences of the sequence parting with each other, each open
@@ -82,7 +84,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.40 A species with 2, a society with 3.** Inheriting is 2, and a self's own priors are its 3. Natural Naming 2.2 has a self's 3 as a same-existing-society's next one scale inward, and its 2 as an exhausting. Not in a sentence of the sequence. The species is along, and the societies across.
 - **2.51 A self, the society-self of its society of selves.** With 12 is the stable-forming surfacing of self as a society of selves, and 12 is a between's corus. "A society-self is a nothing, the corus in society", and a society-self is one scale above self scale. Or the code's 12 has a self's others' me-parities with it together with its own, and "no self is any other self". Parting 2.7, a me the society-self of its me-parities, is beside it. Not answered: "12 is between self and other, not between self and universe" is beside its second side.
 - **2.52 Sixteen up, 32.** With 16 a between's corus, 32 is with it sixteen up; a society's corus at 32 was out as a candidate, and a society's corus is at 28. A likeness, for breaking.
-- **2.53 A between of self and universe.** 12 is between self and other, not between self and universe. 16, the corus of the between 15 to 17, is "a same-existing-society", each self a key of it: between self and universe. Or a society is a named subset, other-than the universe, and the code has no scale above its society.
+- **2.55 8, bi-tri-bi or bi-co-bi.** "7 and 15 begin tri-bi-co", and 16 is bi-tri-bi, all-parity in this universal set. With 7 tri-bi-co, a next name's three has 8 as bi-tri-bi, as 16 is, 8 up. Or 8 is bi-co-bi, as Natural Naming's table has it, a self's own next prior, the last of a self's span.
+- **2.56 A society-self, with 16.** "A society's named all-parity is its society-self", and 16 is all-parity in this universal set. A society-self with 16: a candidate, for breaking, beside 2.51.
 - **2.54 *Unrelationing*, with 12.** 12 is the unrelationing surface of self and other. The code's 12 has a 0 with a self's own and its other's the same, and + or − with the two not the same. Unrelationing as the 0, or as the + or −: not in the sentence.
 
 ---

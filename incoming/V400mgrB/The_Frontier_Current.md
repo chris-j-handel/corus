@@ -109,6 +109,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-g. 1, 5, 10, 15, 17, with four betweens. 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-is-next-observing, 17-next-existing.
 6y-h. Each of the four betweens has its corus at its same-existing name: 4, 8, 12 and 16. *A self's inverting* is not natural naming: this is the stable-forming surfacing of self as a society of selves.
 6y-i. 12 is between self and other, not between self and universe. This is the unrelationing surface of self and other, between.
+6y-j. 7 and 15 begin tri-bi-co. 16 is bi-tri-bi, and this is all-parity in this universal set.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -586,8 +587,14 @@ Sentence 6y-h has each between's corus at its same-existing name, and with 12 th
 
 Sentence 6y-i has 12 between self and other, not between self and universe: the unrelationing surface of self and other, between. 12 is the corus of the between 10 to 15, a self's sharing to its receiving self's observing. In Exhibit ONE's code 12 is within 1-now-existing, with a self's own 3 and its others' me-parities with it, 2, and with no 16 and no 5. Natural Naming 5.5 has 12 as a bi-coupling's between. Of the four coruses, 4 and 12 are each with co, and 8 and 16 each of one; 16 is "a same-existing-society", each self a key of it.
 
-- Is 16, the corus of the between 15 to 17, between self and universe: is, or is not?
+- 16 as between self and universe: re-said. 16 is bi-tri-bi, all-parity in this universal set, sentence 6y-j.
 
-### 3.61 With no reading yet
+### 3.61 7 and 15, tri-bi-co; 16, all-parity
+
+Sentence 6y-j has 7 and 15 beginning tri-bi-co, and 16 as bi-tri-bi, all-parity in this universal set. Natural Naming 3.3 has co as self, bi as other and tri as all, a next name's three a new prefix with this name's first two one slot right; its table has 15 tri-bi-co and 16 bi-tri-bi, and 7 co-bi-co, with tri opening with 9. With 7 beginning tri-bi-co, the set's own saying gives 8 bi-tri-bi and 9 co-bi-tri, as 16 and 17 are, 8 up. In Exhibit ONE's code 16 has each self a key, and 8 is a self's own next prior.
+
+- Is 8 bi-tri-bi, as 16 is: is, or is not?
+
+### 3.62 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
