@@ -866,14 +866,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - 23 and 25 are corusing and torusing, bothbothing: with Natural Numbers' "a self's bi-inversioning-co-recursioning is 23, 24 and 25, one before its apex and one after". Corusing, 23, is an observing name, and torusing, 25, an existing or discovering name, by each direction.
 - From 23 to 29 is six: with Natural Numbers' "twenty-three … opening a first gap of six among primes, to twenty-nine".
 - Bi-moral co-competencing is within it: 26, bi-moralizing, and 25, co-competencing, by twenty up.
-- Parting. Natural Naming's table has 8 and 16 as torusing, and by sixteen up 24: 24 is the corus, and torusing 25. And the six from 23 to 29 are three and three by twenty up, 24, 25 and 26 a self's rotation, and 27, 28 and 29 after it, 27 a same-existing-society's; and one and five by sixteen up, 24 the last of a self's span, and 25 to 29 a same-existing-society's.
+- The six from 23 to 29 are three of a self and three of its society: is.
+- A self's three are 24, 25 and 26: its corus; co-competencing; and bi-moralizing, 6-now-co-possibling, a co-possibling name. Its society's three are 27, 28 and 29.
+- *Read, Natural Naming 3.4, 8 up.* A now name is its next name 8 up: 3, 4, 5 and 6 are 11, 12, 13 and 14, 8 up. A self's rotation, 3, 6, 5, 4, is twenty up 23, 26, 25, 24. Its 8 up, 11, 14, 13, 12, is sixteen up 27, 30, 29, 28. Each of the four is four after its own: 27 after 23, 28 after 24, 29 after 25, 30 after 26, and of the same root.
+- *Read, Natural Naming's table, each name's prior name.* 11 is chaining, 12 entraining, 13 "13-tri-bi-tri-competencing", 14 "14-bi-tri-bi-moralizing"; and 5 is "5-co-bi-co-competencing", 6 "6-bi-co-bi-moralizing". Competencing is 25 with a self and 29 with its society. Moralizing is 26 with a self, and 30 with its society, one after the six.
+- *Read, Natural Numbers 6.3.* "**About twenty-eight its outer pair is twenty-four and thirty-two, four either side, and its inner pair twenty-seven and twenty-nine, one either side**". And of a self: "23, 24 and 25, one before its apex and one after".
+- Two threes alike, each in the set's own sentence: 23, 24 and 25, one either side of 24; and 27, 28 and 29, one either side of 28. Each middle is a same-existing name, each first an observing name, and each last an existing or discovering name. 26 is between the two threes, a co-possibling name: "co-possibling is in the between of the bi-coupling".
+- A candidate, for breaking: a society's corus is at 28, 27 and 29 its corusing and torusing, as a self's corus is at 24 with 23 and 25. Section 1.3: "A society-self is a nothing, the corus in society".
+- A second candidate is in the set too: a society's corus at 32. 16 is "a same-existing-society" by Exhibit ONE's own sentence, 32 is 16 sixteen up, the last of a same-existing-society's span, 25 to 32, as 24 is the last of a self's; and Natural Numbers has 24 and 32 as one outer pair.
+- Parting. Natural Naming's table has 8 and 16 as torusing, and by sixteen up 24: 24 is the corus, and torusing 25.
 - Not read yet: 28 and 29 with a sentence of bi-moral co-competencing; and "5, 10, 15, 20 and 25 are locating".
 
 ---
 
 ## 6 Open, each one binary
 
-- Are the six from 23 to 29 three of a self and three of its society: is, or is not?
+- Is a society's corus at 28: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
