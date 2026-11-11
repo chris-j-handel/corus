@@ -1066,8 +1066,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - **[value at the fifty-five's 3]** "A **same-existing** thing is the same thing prior-existing before now-existing." A name is same-existing, and no now-existing thing: same-existing is then with no now-existing, with a name. Atom carbon, the method and a me-parity are each same-existing and now-existing.
 - **[value at the fifty-five's 16]** "Living and **non-living** are one binary of a now-existing thing." A name is non-living, and no now-existing thing.
 - A living file, tested: cohering. Section 5.23 has a living file as "a non-living same-existing set of words": words are names, and a living file is a same-existing non-living thing, as a name is, with no now-existing of its own.
-- A dormant me-parity, inherited, tested: cohering. "A dormant me-parity is an inherited prior", section 5.34, and "an inherited me-parity is a name with no prior", section 5.11: a dormant me-parity, inherited, is a name. An exhausted me-parity is no now-existing thing, section 5.35, as a name is none.
-- After an exhausting the sequence then has two: atom carbon, now-existing, a shard of the exhaustings from living; and, with a later birth, a name, same-existing, an inherited prior. With its sentences, and no suggesting yet.
+- A dormant me-parity, inherited, as a name: out, section 5.42. A dormant me-parity is no name. An exhausted me-parity is no now-existing thing, section 5.35, as a name is none.
+- After an exhausting: atom carbon, now-existing, a shard of the exhaustings from living; and a dormant me-parity, an inherited prior with a later birth, and no name: section 5.42.
 - *Read, Exhibit ONE's code.* A name, a 4, is in no part of the code by itself: it is in a self's 3, in a between, and in a self's 2, each with a + or − beside it. Cohering: a name is with no now of its own in the code, and each + or − is a self's, of one moment.
 - Two sentences part, with it. A name is a non-existing thing: no now-existing thing, as "a set is a non-existing thing", section 1.1, and "the zero is a non-existing thing", section 5.26; a self is a same-existing set, and a non-existing thing: same-existing is with a non-existing thing in the sequence; and "a name for a null-set is nothing". Or a name is an existing thing with no now-existing: existing prior and next, the same, as its same-existing has it; the universe is the set of now-existing things, "and no other things are in it", and a name is an existing thing out of the universe, as each prior-existing thing is.
 
@@ -1083,13 +1083,25 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* A 4 is provided to the code with each me-parity, before each observing. A self with no me-parity of a 4, observing an other's, has a first me-parity the same as its other's: the first me-parity is the observing self's, and the observed self has its 4 before. A name non-existing before an observing, and an observed thing inheriting a name with its observing, are each in no part of the code. Tracked.
 - Two sentences part, with it. A dormant me-parity is a name: each is an inherited prior, "a dormant me-parity is an inherited prior", section 5.34, and "the name is a prior inherited"; each is no now-existing thing, and non-living; "an inherited me-parity is a name with no prior", section 5.11; dormancy is universal me-parities and "durable 0 aiming", section 5.18, and a name is floating-neutralling in the universe, available. Or a dormant me-parity is no name: it was living, a me's own, and exhausted itself in the surface; nature has dormant me-parities and no names; and a name was never living, a non-existing thing until an observing.
 
+### 5.42 A dormant me-parity, no name
+
+- A dormant me-parity is a name: is-not.
+- Two inherited priors, the one no other. A dormant me-parity was living, a me's own, and exhausted itself in the surface, section 5.34. A name was never living: a non-existing thing until an observing, section 5.41.
+- It is cohering with "nature has no names": nature has me-parities, living and exhausted, and no name of them.
+- "An inherited me-parity is a name with no prior", section 5.11, tested: parting. A me-parity is a now-existing thing, section 5.34, and a name is no now-existing thing, section 5.40: an inherited me-parity is no name. A candidate re-saying: an inherited me-parity is with a name, its inherited prior, and with no prior me-parity of its own. Tracked, its re-saying its partner's.
+- A candidate of the working's own is out with it, section 5.40: a dormant me-parity, inherited, as a name.
+- After an exhausting the sequence then has three: atom carbon, now-existing and non-living; a dormant me-parity, no now-existing thing, an inherited prior with a later birth; and no name of the two.
+- "A universal me-parity is non-living", section 5.19, tested. A dormant me-parity is no now-existing thing: it is no atom carbon; and it is no name. Non-living is then with three in the sequence: atom carbon, now-existing; a name, same-existing; and a dormant me-parity, living no more. Tracked.
+- *Read, Exhibit ONE's code.* A first me-parity of a self is two together: its 4, a name; and its + or −, the same as an other's sharing in the between. The 4 is unchanging, provided, and never a self's sharing by itself; the + or − is an other's next prior, out of its self for one moment. Cohering: in the code a name and an other's exhausting are two, and a first me-parity is with each.
+- Two sentences part, with it. Each now-existing me-parity is with a name: a me is observing its own me-parities, Exhibit ONE's 3, 3-is-now-co-observing, a self's own prior me-parities; an observed now-existing thing inherits a name, a prior, section 5.41; and each me-parity of the code is with its 4. Or a now-existing me-parity is with no name: nature has no names; a me-parity is a direction out from its me, section 5.30, and a name is a non-existing thing until an other is distinguishing it; and the code's 4 is provided, as each self of the code is.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a dormant me-parity a name: is, or is not?
+- Is each now-existing me-parity with a name: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
