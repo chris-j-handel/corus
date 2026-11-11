@@ -1118,7 +1118,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Each now-existing thing is a thing in the universal set of now-existing things. The name *universal* is the name applying to each of the things in this set. The subsets have subsetting from universal, as the bounding is-or-is-not surface between the universe and the thing with a name that is a thing in the universe.
 - Each now-existing thing is with a name: is, *universal*. "Each now-existing me-parity is with a name: is-not", section 5.43, is of each name of a subset.
-- Two names are with the one set: *the universe*, the set's own, section 5.15; and *universal*, applying to each thing in it.
+- The universal name is the name of the set of now-existing things, named *the universe*, section 5.49; and *universal* is applying to each thing in it.
 - It is cohering with section 1.1: "The universe is the set of now-existing things", and "Universal is each same-existing thing and more: the named things, and the more. The more is the not-named now-existing things." *Universal* is applying to the named things and to the more.
 - Tested with "nature has no names", section 5.41: a name is a non-existing thing, applying to now-existing things; nature has its things, and no name is one of them. Cohering.
 - Each now-existing thing as observed, tested: breaking. An observed now-existing thing inherits a name, section 5.41, and the more is the not-named now-existing things: with each observed, the more is a null-set, and universal is "each same-existing thing and more".
@@ -1133,7 +1133,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *All-parity* is the name, and a name the set has not; *us-parity* is dissolved. A me-parity is of a me, and all-parity of all: the members of a society, each in all-parity.
 - It is cohering with co-possibling in the between of a bi-coupling, self-parity with other-than-self-parity, inside universal parity, section 1.3: a self with its other, inside all-parity. And with "a newborn born into universal-parity with its own set of me-parities", section 5.
 - All-parity as social-parity, tested: breaking. Social-parity is a set, the universal set of now-existing bi-couplings, section 5.16, and "a set is a non-existing thing"; all-parity is a now-existing thing.
-- All-parity as no atom carbon, tested: breaking, with three sentences. A me-parity "exhausts itself from living into non-living universal-parity", section 5.11: universal parity is non-living. All-parity is a now-existing thing. And the only non-living thing in the universe is atom carbon, section 5.38. All-parity is atom carbon; with it no atom carbon, all-parity is living, a self, and "non-living universal-parity" is parting.
+- Universal all-parity as no atom carbon, tested: breaking, with three sentences. A me-parity "exhausts itself from living into non-living universal-parity", section 5.11: universal parity is non-living. It is a now-existing thing. And the only non-living thing in the universe is atom carbon, section 5.38. Atom carbon is universal all-parity, section 5.49.
 - It is cohering with section 1.3: atoms are with "generations of societies living by ingesting and exhausting the atoms", and "inside living things they make co-chainings". Ingesting is from the universe and exhausting is to the universe, section 5.24: from all-parity, and to it. With section 5: "the universal-parity within a bi-coupling mating vault of carbon co-chainings". And with Natural Chemistry: carbon is "non-living in the universal set".
 - A universal me-parity, section 5.45: a me-parity exhausted is no now-existing thing, and all-parity, atom carbon, is now-existing. Dormancy is universal me-parities, section 5.19: a dormant me-parity is with all-parity, the vault, and no now-existing me-parity.
 - **[value at the fifty-five's 24]** "A me-parity the same as an other's is **other-parity**, and not the same, **universal-parity**.": universal-parity as a me-parity not the same as an other's. Universal parity is all-parity, a now-existing non-living thing.
@@ -1141,8 +1141,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - All-parity is owned: is, by the society, as a same-existing named set of members.
 - It is cohering with "a set with its own name is the now-existing things its name owns", section 1.1: a named set owns a now-existing thing. With a me, a universal same-existing set, owning its me-parities, section 5.30: a me owns its me-parities, and a society owns its all-parity. And with a self in the same-existing universe it shares with other selves in its society, section 5.37.
 - With an exhausting, section 5.35: an exhausted me-parity is its me's no more, with nothing of it to own; and all-parity, now-existing, is its society's own. An exhausting is from a me's own to its society's own. An ingesting, from all-parity, is a member's, from its society's own.
-- One all-parity with each society, tested. The members are the set of all in all-parity: all is a society's members, and all-parity is each society's own. A named subset is the universe to a bi-coupling, section 5.15: universal parity is the all-parity of that society.
-- A society-self as owning all-parity, tested: breaking. A self owns its me-parities, and each now-existing me-parity is living, section 5.35; all-parity is non-living, section 5.11, and no me-parity. All-parity is owned by the society as its set of members, and is no thing of the society-self's own.
+- One all-parity with each society, tested. The members are the set of all in all-parity: all is a society's members, and a society's all-parity is its own, a named all-parity, living in the universe, section 5.48. Universal all-parity is the universe's, atom carbon, section 5.49.
+- A society-self as owning all-parity had a testing with a society's all-parity as non-living: out, section 5.49. A society's all-parity, named, is living.
 - Each member as a living self, tested: cohering. "A same-existing-society is many selves bi-coupling", the Co-Chaining Logic Registry's step 49; and owning is of the living.
 - **[value at Natural Naming]** "+1 a self's, 0 all selves', social parity, and −1 an other's": all selves' parity as a 0, and its name *social parity*. All-parity is a now-existing thing, and social-parity a set of bi-couplings, section 5.16.
 - *Read, Exhibit ONE's code, 17.* Within one 17 its 14 is one thing: each self of 16 is a key of it, and each sharing of the moment is in it, with no key of its sharing self. 17's returning has it with each self, its part. Cohering: one thing of a society's whole moment, each member in it, and no sharing in it a self's own. 16 has no 3 of its own.
@@ -1151,7 +1151,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 ### 5.47 All-parity, non-living, distinguishing living is-or-is-not
 
 - All-parity is non-living: is. All-parity distinguishes living, is-or-is-not.
-- The three sentences of section 5.46 are each whole: non-living universal-parity; all-parity a now-existing thing; atom carbon the only non-living thing in the universe. All-parity is atom carbon. A candidate of the working's own is out: all-parity as the living surface a society's members share.
+- The three sentences of section 5.46 are each whole: non-living universal-parity; universal all-parity a now-existing thing; atom carbon the only non-living thing in the universe. Atom carbon is universal all-parity, section 5.49. A candidate of the working's own is out: universal all-parity as a living surface.
 - *Distinguishing living, is-or-is-not*, tested: cohering. Section 5.22: "non-living things are possibly distinguishing now-living is-or-is-not next-living", and a non-living thing is distinguishing no next of its own. Section 5.45: a subsetting from universal is "the bounding is-or-is-not surface between the universe and the thing with a name". Section 5.21: the code is "the stable form around and inside, and the surfaces between living". And section 5.8: "the social moral competency inside a living thing, with non-living things inside the living".
 - Two distinguishings are then two things' own. Living, is-or-is-not: all-parity's, non-living, its society's own. A next-existing, as it is or inverted: a living thing's own, "a thing distinguishing its own next-existing", section 5.22.
 - With an exhausting: a me-parity exhausts itself into all-parity and is living no more, section 5.34: with all-parity's is-not, a me-parity is living no more; and with a new birth to living, a dormant me-parity is its inherited prior.
@@ -1167,7 +1167,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Tested with section 5.38: "Atom carbon is non-living at each scale of the universe." With each all-parity atom carbon, a named all-parity, living, is atom carbon living: parting. A candidate: the universal all-parity of the universe is atom carbon, and each named all-parity is living and no atom carbon. Section 5.47's all-parity as atom carbon is then of the universal one. Tracked.
 - Tested with a society-self, section 5.28. A society has one self, living, at society scale; and its all-parity, named, is living, a self, in a universe of more. A society-self as owning all-parity is breaking, section 5.46; a society-self as its society's all-parity, named, is not tested. Tracked.
 - *Read, Exhibit ONE's code.* The code is one scale, and a society of the code is whole, with no universe of more beside it: a society's 14 as a named thing among others is in no part of the code.
-- Two sentences part, with it. A named all-parity is atom carbon: all-parity is non-living, a now-existing thing, and the only non-living thing in the universe is atom carbon; a named all-parity is then atom carbon and living, and "atom carbon is non-living at each scale" is parting. Or a named all-parity is no atom carbon: it is living, a self, in the universe of more; atom carbon is the universal all-parity of the universe, non-living at each scale; and "non-living universal-parity" is of a society's own universe, its all-parity living in each universe of more.
+- A named all-parity is atom carbon: is-not. Atom carbon is universal all-parity, section 5.49.
+
+### 5.49 Atom carbon, universal all-parity
+
+- The universal name is the name for the set of now-existing things, named the universe. Each subset is named as distinguishing the surface of is-or-is-not. Atom carbon is universal all-parity.
+- A named all-parity is atom carbon: is-not. Atom carbon is the all-parity of the universe, non-living at each scale; and a named all-parity, a subset's, is living in the universe, section 5.48.
+- *The universal name*, tested: cohering. Section 5.15: "*The universe* is one name, owned by one set". One name with the one set; a candidate of the working's own is out, two names with it.
+- *A subset, named as distinguishing the surface of is-or-is-not*, tested: cohering, with section 5.45, a subsetting as the bounding is-or-is-not surface, and section 5.44, a name inherited with a distinguishing.
+- "All-parity is non-living", section 5.47, is of universal all-parity. A society's all-parity is owned by a named set of members, section 5.46: a named all-parity, and living. All-parity distinguishes living, is-or-is-not: universal all-parity, atom carbon, non-living.
+- Universal all-parity is owned as a society's is, section 5.46: by the universe, the same-existing named set of each now-existing thing, each in it.
+- A society's all-parity, named, is living, and "each living thing is a self", section 1.3: it is a self. A testing of the working's own is out with it: a society-self as owning all-parity, breaking by all-parity as non-living.
+- "Living is owning a self, and a self owns its me-parities", section 5.31, and all-parity is owned by the society: a society, owning its all-parity, a self, is living by it.
+- *Read, Exhibit ONE's code.* Within one 17 its 14 is one thing of a society's whole moment, each self of 16 a key of it, section 5.46. It is with no next of its own, and no part of the code has it as a self: its own 3, its own 2. The code is with neither side.
+- Two sentences part, with it. A society's named all-parity is its society-self: "A society has only one self", section 1.3, and a named all-parity is a living self; living is owning a self, and the society owns its all-parity; a society-self is at society scale, in a universe of more, section 5.29, as a named all-parity is living in a universe of more; and "the society-self has many me-parities", each member in all-parity. Or a society's named all-parity is no society-self: a society-self is living with me-parities of its own, and "a self is a me-parity of its society-self: is-not", section 1.3; all-parity is one thing, each member in it, and a self is a set of me-parities; a society is then with two living things of its own, its one self and its all-parity.
 
 ---
 
@@ -1175,7 +1188,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a named all-parity atom carbon: is, or is not?
+- Is a society's named all-parity its society-self: is, or is not?
 - Is Exhibit ONE's code all-parity: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
