@@ -74,6 +74,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-x. A thing living as a surface is a living thing. The only non-living thing in the universe is atom carbon. Atom carbon is non-living at each scale of the universe.
 6w-y. A name is a same-existing non-living thing. Atom carbon is a now-existing non-living thing.
 6w-z. A name is no now-existing thing.
+6x-a. Nature has no names. Names are non-existing things, until they are observed things in the named set, and the name is a prior inherited by the observed now-existing thing. The name was floating-neutralling in the universe, and available as a possible inherited prior, with the distinguishable now-existing thing observed.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -333,8 +334,14 @@ Sentence 6w-y has two non-living things: a name, same-existing, and atom carbon,
 
 Sentence 6w-z has a name as no now-existing thing: same-existing, non-living, no thing of the universe, and no atom carbon. A name owns now-existing things and is none of them. The fifty-five's 3 has a same-existing thing as prior-existing before now-existing, and its 16 has non-living as of a now-existing thing: each is parting with a name. A living file, a same-existing set of words, is as a name is. Sentences 16 and 6w-s have an inherited me-parity as a name with no prior, and a dormant me-parity as an inherited prior: a dormant me-parity, inherited, is a name. In Exhibit ONE's code a name is in no part by itself. A name is a non-existing thing, as a set and a zero are; or an existing thing out of the universe, with no now-existing.
 
-- Is a name a non-existing thing: is, or is not?
+- Is a name a non-existing thing: is, until observed things are in its named set, sentence 6x-a.
 
-### 3.25 With no reading yet
+### 3.25 Nature has no names
+
+Sentence 6x-a has nature with no names: a name is a non-existing thing, floating-neutralling in the universe and available as a possible inherited prior, until observed things are in its named set; and then a prior, inherited by the observed now-existing thing. Sentences 2 and 6 have a name as the name of a sameness, is-or-is-not distinguishing. Natural Naming has a naming as "a floating-neutralling concept", and Natural Chemistry has carbon as "the stable form of unrelationing floating neutralling". A me is no name: a name is non-living, and a me is a self. In Exhibit ONE's code a 4 is provided with each me-parity before each observing, and the first me-parity of a 4 is the observing self's. A dormant me-parity is an inherited prior, and a name is an inherited prior.
+
+- Is a dormant me-parity a name: is, or is not?
+
+### 3.26 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
