@@ -14,6 +14,8 @@ Gathering-Value · Natural Naming
 
 ### 1.1 A naming is a floating-neutralling concept, four boundings at once
 
+- **Possible exploring** · Nature has no names. A name is a non-existing thing, floating-neutralling in the universe and available as a possible inherited prior, until observed things are in its named set; with them, the name is a prior inherited by the observed now-existing thing. A name is a same-existing non-living thing, and no now-existing thing; atom carbon is a now-existing non-living thing, the only non-living thing in the universe.
+
 ### 1.2 Naming and resolving with one bi-coupling
 
 ### 1.3 Naming across, explaining along
