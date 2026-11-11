@@ -578,20 +578,30 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A going-forward of this file's own is out with it: two binaries with four, same-existing against same-as, a prior inverted said as not same-existing. A prior inverted is of same-existing.
 - A universal me-parity is non-living: "exhausts itself from living into non-living universal-parity" goes on, and the candidate of a universal me-parity as living is out.
 - *Read, the code's lines.* A me-parity a self shares is in the between with the moment after, with no self resolving with it yet: its sharing self's exhausting. With the receiving self's next moment it is ingested, compared, or passed over. In a between it is no self's prior.
-- Two same-existings follow from the three sentences, as a candidate. A living thing's: by is-or-is-not distinguishing same-as from not-same-as, the two bothbothing, with co-possibling. A non-living thing's: with no same-as, a universal me-parity, exhausted from living, in stable form. Dormancy is the second, in a vault.
 - With the method's four: inheriting is a universal me-parity, non-living, entering a living self as its first prior; conceiving is within living, a prior not the same as what arrived, inverted; exhausting is a living me-parity going out into non-living universal-parity.
 - The universe is not a living thing goes on with section 1.1, the universe a set, and a set a non-existing thing; and with "each living thing is a self": the universe is no self. It is tested with Natural Naming's sentence here, same-existing as a living condition of "a self, a same-existing-society or the universe": a value at Natural Naming.
-- Tested with dormancy, two sentences: dormancy is durable 0 aiming, and aiming is a living thing's; dormancy is universal me-parities, and each is non-living. A dormant self is living, its me-parities non-living within it, "non-living things inside the living"; or a dormant self is non-living with its me-parities. Natural Biology has seeds that "return to living".
+### 5.20 Living, in the between of the priors of self and other
+
+- A dormant self is living: is. A dormant friendship is living, and a dormant seed is living. The living is in the between of the priors of self and other. An unconscious human, or a sleeping human, is living in dormancy of sets of me-parities.
+- Dormancy is then of sets of me-parities within a living self: the self is living and aiming, and the dormant me-parities are universal, non-living, within it. "Non-living things inside the living", section 5.8, goes on with it. Natural Biology's seeds that "return to living" are re-said: the seed is living through its dormancy, and its me-parities return.
+- *Read, the code's lines, a prior through a dormancy.* Each self's priors go on with each moment, with an other's sharing arriving or with none: a prior from a prior-existing bi-coupling is with its self through any number of moments with no sharing between the two.
+- *Read, the code's lines, the two sharing again.* The first arriving meets a prior. It is compared, the same as or not, and no first prior forms: neither is inheriting anew. A bi-coupling is given to the code, within its set with one moment and not with an other, and no line makes or ends one.
+- A friendship is a bi-coupling, a self living in the between. With the two having priors from their prior-existing bi-couplings, their next bi-coupling is a same-existing self, section 5.17: the dormant friendship is that self, living between the two. Of the two readings of *prior-existing bi-couplings*, this sentence goes on with the first, of this self and other with each other.
+- A seed is the new self of section 5.17, living as the between and inheriting the priors of its self and other: dormant, it is living in the between of those priors.
+- The living is in the between, and a between is a nothing: "a parity is a living non-existing thing" and "living is an -ing, with no thing in its defining" go on with it. One pattern with each scale: the me-parities are things, on each side, and the living is the between of them, a nothing. A living thing as a set, a nothing with its things about it, has this as its saying: section 5.10's binary of a living thing and a set.
+- A going-forward of this file's own is out with the answer: a living thing's same-existing as with co-possibling, and a non-living thing's with none. A dormant self is living with no co-possibling.
+- A candidate in its place, from four sentences of the sequence: living is with an other. The living is in the between of the priors of self and other; a universal me-parity is the same as no other's, and non-living; *the universe* is one-and-only-one, with no other, and no living thing; and do-no-harming is with no self alone. It is tested with the lines: a self with a prior and nothing arriving inverts with each moment, going on with no other.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is a dormant self living: is, or is not?
-- Is each non-living thing same-existing with no co-possibling: is, or is not?
+- Is each living thing living in a between of self and other: is, or is not?
+- Is a thing with no other non-living: is, or is not?
+- Is a me-parity living only within a living self: is, or is not?
 - Is the universe a non-living thing: is, or is not?
 - Is *universal*, of same-as, of the method each self has: is, or is not?
 - Is dormancy the new self's, living as the between: is, or is not?
-- Is dormancy of one me-parity, an other me-parity of that self not dormant: is, or is not?
 - Is a durable 0 the self's me-parity and the other's, together: is, or is not?
 - Is user-parity a user's self-parity: is, or is not?
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
