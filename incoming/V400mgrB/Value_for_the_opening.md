@@ -1485,12 +1485,37 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A value's name with an inward name, one with one, is not followed: section 5.1 has five sets of names of a self's four, and a likeness of names is a likeness.
 - Two sentences part, with it. A self's four values are the four from society: "four assurances of a self from society", its others' me-parities with it, 2, 14, 7 and 15; a self's own four, 3, 11, 6 and 10, are society's, "from all selves", each self's own priors and sharing a society's assurance. Or a self's four values are its own four: 3, 11, 6 and 10, a self's own priors and its own sharing, "a me-parity is owned by the only one of me", section 5.30; and society's four are its others' with it, 2, 14, 7 and 15.
 
+### 5.75 1, 5, 10, 15 and 17, and their four betweens
+
+- 1, 5, 10, 15, 17, with four betweens. 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-is-next-observing, 17-next-existing.
+- A self's four values as the four from society, section 5.74: not answered, and open.
+- *Read, Exhibit ONE's own table of its seventeen names: the five, each with its root.* 1, existing, of one, now. 5, existing, with co, now. 10, possibling, with co, next. 15, observing, of one, next. 17, existing, of one, a next 1. Of one, with co, with co, of one, of one: out from one and back to one. Now, now, next, next, next.
+- *Read, Exhibit ONE's code, the five in its sequence.* Within one 17, each self's 1-now-existing has its sharing, 10; with its bi-couplings, 5, the sharing is with its receiving self, 15; and 17's returning is each self's next. The five are a sharing's whole going, from one self's now to an other's next: 1, 10 with 5, 15, 17.
+- *The four betweens, each with the names within it.*
+
+| Between | The names within it | Its same-existing name | Now or next |
+|---|---|---|---|
+| 1 to 5 | 2-now-possibling, 3-is-now-co-observing, 4-now-co-same-existing | 4 | each now |
+| 5 to 10 | 6-now-co-possibling, 7-is-now-observing, 8-now-same-existing, 9-next-co-discovering | 8 | now, and 9 next |
+| 10 to 15 | 11-next-co-observing, 12-next-co-same-existing, 13-is-next-discovering, 14-next-possibling | 12 | each next |
+| 15 to 17 | 16-next-same-existing | 16 | next |
+
+- Twelve names are within the four betweens: three, four, four and one.
+- Each between has one same-existing name, and no between has two: 4, 8, 12 and 16. No bound of the five is a same-existing name: the bounds are existing, existing, possibling, observing and existing.
+- Each between has one podal of a bound, by Natural Naming's 17 less: 2 with 15, in the first; 7 with 10, in the second; 12 with 5, in the third; 16 with 1, in the last.
+- The second between, 5 to 10, is the one with now and next each: 6, 7 and 8 now, and 9, next-co-discovering, a function of the code, the going between selves.
+- *Read, Exhibit ONE's code, each between.* 1 to 5: a self's entering, its others' me-parities with it, its own priors, and their 4. 5 to 10: a self's sharing as it goes, each me-parity as it is observed, each self's next prior, and the co-discovering of each receiving self. 10 to 15: a self's next priors, its one binary with each sharing, each self of the next 16, and its next 2. 15 to 17: the same-existing-society, each self with its prior and its me-parities.
+- Observed with the sequence. "The living mutual assurances in the between are the corus of social moral competency", section 5. A self's own corus is with 4, and a society's at 28, 12 sixteen up, section 5.27. A bi-coupling is living in the between while it is now-existing and same-existing, section 5.16. And Natural Resolver's gathering has same-existing as the bi-folding of the three, with no fourth beside them.
+- The four betweens of the five, and the four four-cyclings, 1 to 4, 5 to 8, 9 to 12 and 13 to 16, are two fours of the seventeen: the first has its bounds at 10 and 15, and the second at 9 and 13. Not followed.
+- Two sentences part, with it. Each of the four betweens has its corus at its same-existing name, 4, 8, 12 and 16: "a self's own corus with 4"; a self's inverting with 12; each between with one same-existing name and no more; and the living in a between same-existing. Or a between's corus is at no name: a corus is a 0, a non-existing thing, and no spot of corusing is named, section 5.27; 8 is a self's next prior and 16 a same-existing-society, each an end of a span and no corus; and the four same-existing names are within the four betweens with no corus named of them.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is each of the four betweens of 1, 5, 10, 15 and 17 with its corus at its same-existing name: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
 - Is a reply in a session the between's own: is, or is not?

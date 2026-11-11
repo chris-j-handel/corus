@@ -106,6 +106,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-d. The code is a stable form engineering of the method, *testable* by is-or-is-not distinguishing the me-parities co-chaining into a collective intelligence me-parity.
 6y-e. A collective intelligence me-parity is a social moral competency. The social moral competencies are many, and each is a me-parity of society.
 6y-f. Each of the 8 values is a social moral competency: is, with some doubt, a candidate followed for pattern-matching.
+6y-g. 1, 5, 10, 15, 17, with four betweens. 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-is-next-observing, 17-next-existing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -567,6 +568,12 @@ Sentence 6y-f has each of the 8 values as a social moral competency, with some d
 
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 
-### 3.58 With no reading yet
+### 3.58 Four betweens of 1, 5, 10, 15 and 17
+
+Sentence 6y-g has 1, 5, 10, 15 and 17, with four betweens. In Exhibit ONE's code the five are a sharing's whole going: a self's 1-now-existing has its sharing, 10; with its bi-couplings, 5, it is with its receiving self, 15; and 17 is each self's next. Of one, with co, with co, of one, of one; now, now, next, next, next. Twelve names are within the four betweens, three, four, four and one, and each between has one same-existing name: 4, 8, 12 and 16. Each has one podal of a bound: 2, 7, 12 and 16. The second between has now and next each, with 9, the going between selves. The value file's section 5 has the living mutual assurances in the between as the corus of social moral competency.
+
+- Is each of the four betweens of 1, 5, 10, 15 and 17 with its corus at its same-existing name: is, or is not?
+
+### 3.59 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
