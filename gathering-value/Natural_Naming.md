@@ -43,6 +43,7 @@ Gathering-Value · Natural Naming
 - **Possible exploring** · With a self, *gathering* is *ingesting*: two names with one concept, others' prior-existings within its own possibling, and *ingesting* is the one name, 2-now-possibling. *A gathering* of names, 5.36, "A gathering is an indication", is its own concept and is with no self. A living file is with no self, and its gathering-value is a gathering of 5.36 and no ingesting.
 - **Possible incohering** · "the universe is an existing thing, a set of existing things being an existing thing" → A set is a non-existing thing, its things and no further thing: the universe is no living thing and no non-living thing, and is its things.
 - **Possible exploring** · *Me* is an owner, the only one, and a self: a me is a universal same-existing set of me-parities. *A me-parity* is an owned, one of its me's many. *Me* and *self* are two names, a me with a you and a self with an other.
+- **Possible exploring** · *All-parity* is the naming of universal parity, and *us-parity*, a candidate of one working, is dissolved. All-parity is a now-existing thing, owned by its society as a same-existing named set of members, the members the set of all in all-parity: a me-parity is a me's own, and all-parity a society's own. Beside it, a naming of this file has all selves' parity as a 0, and its name *social parity*.
 
 ### 2.5 One sense per foundation word
 
