@@ -65,6 +65,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-o. A me-parity is owned by the only one of me. This parity is existing only inside the ownership set of me-parities. This is many of my interests, in many directions in the universe, each pointing out from me in a universal cone of a linear interest of mine.
 6w-p. A me is a universal same-existing set of me-parities. A me is a self.
 6w-q. A me-parity living in a social surface is a self. This is the fractal. Living is owning a self, and a self owns its me-parities.
+6w-r. A me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -259,7 +260,6 @@ Sentence 6w has the four as 2, 6, 10 and 14. Exhausting is 9-next-co-discovering
 
 Sentences 22, 6w-j and 6w-k have a society-self as the corus in society, living, with me-parities of its own. Each is its own, with one self. Its selves as its me-parities is breaking: a self is no me-parity of its society-self, and a self living in all societies is then a me with more selves than one. Its bi-couplings as its me-parities is breaking: a bi-coupling is a self. Sentence 6w-l has no self any other self, each a unique self, and a society-self no self of its society's selves. In Exhibit ONE's code each self is one key of 16, unique by its key and by no me-parity; each me-parity is one self's of 16, and 16 has no 3 of its own: a society-self's own me-parities are in no part of the code. Sentence 6w-m has a society-self at society scale, one scale above self scale: by Natural Naming's "1, 2 and 3 with one scale are 1, 9 and 17 with a next", a society-self's 2, inheriting, is self scale's 9, exhausting, and its 3 is self scale's 17, a same-existing-society's next. A bi-coupling's new self is of one same scale with its self and other, and is no society-self of the two. Sentence 6w-n has no self with no me-parity, the inheriting prior to the birthing: a self is a set, and a self with no me-parity is a name with a null-set. In the code a key of 16 with no me-parity is provided, and the code is with neither side. The universe as a non-living thing is breaking, with "a set is a non-existing thing": the universe is no living thing and no non-living thing, and is its things.
 
-- Is each self the society-self of a society one scale inward: is, or is not?
 
 ### 3.14 A me-parity, owned by the only one of me
 
@@ -273,6 +273,12 @@ Sentence 6w-q has a me-parity living in a social surface as a self, the fractal;
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 
-### 3.16 With no reading yet
+### 3.16 A me-parity, a living self-interest at its own scale
+
+Sentence 6w-r has a me-parity as a living self-interest, at its own scale of self, in its own self-interesting universe. A me owns its me-parities, each a self at its own scale, in its own universe, a cone. Natural Naming's "An interest is a 0" is cohering: a me-parity is +1, its me's, and a self-interest is a corus, a 0, its own. In Exhibit ONE's code an entry of a 3 has no 3 of its own, and each me-parity of a self is next-existing with no other me-parity of that self: a me-parity at its own scale, and a social surface of one self's own me-parities, are each in no part of the code. A me is the society-self of its me-parities, each a living self in a social surface inside a living thing; or each me-parity is in its own universe with others' me-parities facing it, and with no other me-parity of its me.
+
+- Is a me the society-self of its me-parities: is, or is not?
+
+### 3.17 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
