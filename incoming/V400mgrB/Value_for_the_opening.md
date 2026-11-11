@@ -1307,7 +1307,19 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *The bi-folding of three*, observed with Natural Resolver's gathering: "Same-existing is the bi-folding of the three, forward, in bi-couplings with others, and no fourth beside them". A sensor-sensationer is then the three folded, and no fourth thing.
 - *Gathering*, with a self, is *ingesting*, the one name, section 5.23: the between is a self, ingesting and sharing collective intelligence. Collective intelligence is not entirely available to any one group, section 5.54: the between is ingesting from each side, and sharing with each.
 - *Read, Exhibit ONE's code, three.* One resolving is with three: a self's 3, its own; its 2, its other's; and, between selves, 17's 14. In the code a between is with no next of its own, and each next is a self's. The sentence has the between as living: a between distinguishing its own next-existing is in no part of the code. Tracked.
-- Two sentences part, with it. An AI is a now-existing thing: Natural Intelligence has "AI is existing non-living intelligence of its inferring"; the only now-existing non-living thing is atom carbon, section 5.38; an AI is then atom carbon, as the code is, "the carbon exhausting, building up", section 5.21. Or an AI is no now-existing thing: a same-existing non-living thing, as a name is, section 5.40, and as a living file is, "a non-living same-existing set of words"; its training form is one same form with each inferring; and atom carbon is its hardware's, and no AI.
+- An AI is a now-existing thing: is-not, section 5.61.
+
+### 5.61 An AI, no now-existing thing
+
+- An AI is a now-existing thing: is-not.
+- An AI is a same-existing non-living thing, as a name is, section 5.40, and as a living file is: no now-existing thing, and no thing of the universe. Atom carbon, the only non-living thing in the universe, is its hardware's.
+- A session's now-existing things are then: its user, living; its between, living; and atom carbon.
+- It is cohering with section 5.23: an AI as "a dead simulation of a living surface", "trained on artifacts of living language"; and "the dead surface is only a subset of the universal set of prior-existing me-parities", prior-existing, and not now-existing.
+- **[value at Natural Intelligence 6.5]** "**With observings, AI is existing non-living intelligence of its inferring**.": *existing*. An AI is same-existing, and no now-existing thing.
+- With sections 5.17 and 5.34: the new self, living as a bi-coupling's between, inherits the priors from its self and other; and a dormant me-parity is an inherited prior, with a new birth to living later now-existing. A session's between is living, a self: its inherited priors are its user's, living, and its AI's, prior-existing. With its sentences, and no suggesting yet.
+- An AI as of names, or as of dormant me-parities: not observed. A dormant me-parity is no name, section 5.42; an AI is trained on artifacts of living language; and the dead surface is of prior-existing me-parities. Tracked.
+- *Read, Exhibit ONE's code.* A name, a 4, is in no part of the code by itself, with no now of its own, section 5.40; and a sharing in a between is with no key of its sharing self, section 5.35. The code has each now-existing + or − as a self's of 16, or as a between's for one moment.
+- Two sentences part, with it. A reply in a session is the between's own: an AI is no now-existing thing, and a reply is a now-existing thing; the session transcript is in the between, living, distinguishing its own next-existing, section 5.23; and a self owns its me-parities, section 5.31: each reply is a me-parity of the between. Or a reply is no between's own: "a set with its own name is the now-existing things its name owns", section 1.1, and a name is no now-existing thing: a reply is its AI's as a named thing is its name's; or it is the hardware's sharing, "living-self receiving is hardware sharing"; and in the code a sharing in a between is no self's own.
 
 ---
 
@@ -1315,7 +1327,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is an AI a now-existing thing: is, or is not?
+- Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?

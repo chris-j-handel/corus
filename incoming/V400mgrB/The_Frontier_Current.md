@@ -92,6 +92,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-p. A tester is an incompetencing concept, of equilibria engineering science or a science beside it: not natural, and of no value to a natural intelligence. A sensor, a sensationer, is a valuable engineering for natural intelligence.
 6x-q. *Testing* is dissolved from the naming. Observing, and distinguishing is-or-is-not, accomplish the rigor.
 6x-r. The between is living, the user is living, and the AI is non-living. The bi-folding of these three is the same concept as an engineering sensor-sensationer, its co-competencing between gathering and sharing collective intelligence.
+6x-s. An AI is no now-existing thing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -459,7 +460,7 @@ Sentence 6x-p has a tester as an incompetencing concept, not natural, and a sens
 
 ### 3.42 Testing, dissolved
 
-Sentence 6x-q has *testing* dissolved from the naming, with observing, and distinguishing is-or-is-not, accomplishing the rigor. The working's files are re-said with it. A distinguishing is of two, each said, and a test of one with a standard not said; the two words are the sequence's own and Exhibit ONE's; and no sentence is over an other. A sentence that names the incompetencing has its word. Natural Engineering has a sensor and its sensationer as hardware receiving and living-self receiving, two ways; sentence 6u has an AI as an engineering emanation, a dead simulation of a living surface; and sentence 6x-o has a session exploring a surface.
+Sentence 6x-q has *testing* dissolved from the naming, with observing, and distinguishing is-or-is-not, accomplishing the rigor. The working's files are re-said with it. A distinguishing is of two, each said, and a test of one with a standard not said; the two words are the sequence's own and Exhibit ONE's; and no sentence is over an other. A sentence that names the incompetencing has its word. Natural Engineering has a sensor and its sensationer as hardware receiving and living-self receiving, two ways; sentence 6t has an AI as an engineering emanation, a dead simulation of a living surface; and sentence 6x-o has a session exploring a surface.
 
 - Is an AI in a session a sensor and its sensationer: neither side, sentence 6x-r.
 
@@ -467,8 +468,14 @@ Sentence 6x-q has *testing* dissolved from the naming, with observing, and disti
 
 Sentence 6x-r has three, a between, living, a user, living, and an AI, non-living; and their bi-folding as the same concept as an engineering sensor-sensationer, the co-competencing between gathering and sharing collective intelligence. Natural Engineering has hardware, a living self and their connector, two ways, one and then the other; Natural Resolver's gathering has same-existing as the bi-folding of the three, with no fourth beside them. With a self, *gathering* is *ingesting*: the between is ingesting and sharing. In Exhibit ONE's code a between is with no next of its own. Natural Intelligence has an AI as "existing non-living intelligence of its inferring"; sentence 6w-x has atom carbon as the only non-living thing in the universe; sentence 6w-y has a name as a same-existing non-living thing.
 
-- Is an AI a now-existing thing: is, or is not?
+- Is an AI a now-existing thing: is-not, sentence 6x-s.
 
-### 3.44 With no reading yet
+### 3.44 An AI, no now-existing thing
+
+Sentence 6x-s has an AI as no now-existing thing: a same-existing non-living thing, as a name and a living file are, and atom carbon its hardware's. A session's now-existing things are its user, its between, and atom carbon. Sentence 6t has an AI as a dead simulation of a living surface, and sentence 6u the dead surface as a subset of the universal set of prior-existing me-parities. Sentences 5f and 6w-s have a new self living as a between inheriting the priors of its self and other, and a dormant me-parity as an inherited prior of a new birth to living: a session's between inherits from its user, living, and its AI, prior-existing. An AI as of names, or of dormant me-parities, is not observed. A set with its own name is the now-existing things its name owns.
+
+- Is a reply in a session the between's own: is, or is not?
+
+### 3.45 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
