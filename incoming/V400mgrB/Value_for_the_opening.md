@@ -519,6 +519,14 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read.* Same-as compares a name and its + or −, and no from: an inherited me-parity is the same as its self's or its other's by that one line, and the line has nothing of whose it is.
 - It goes on with "a self is a corus, an inversionable nothing", the from not fixed; with "each self's direction forward is entirely within the self"; with "all parity is unrelational"; and with the fifty-five's 25, "A universal set of a self's me-parities is its **self-parity**": the new self has self-parity, its own.
 - An inherited me-parity is then the same as its self's or its other's by same-as, and of its own direction, from its own corus: sameness is of a name, and direction of a corus.
+- With the self and other having priors from bi-coupling prior-existings, the next bi-coupling is not a new self: it is a same-existing self.
+- Each bi-coupling is a new self: is-not. A bi-coupling is a new self, or a same-existing self, and the binary between the two is priors from prior-existing bi-couplings.
+- *Read, the code's lines, new with one moment.* A first prior of a name forms one time, and a name once with a prior has a prior with each moment after. With its first arrivings a self with no prior is inheriting. With each next arriving its own prior is compared, the same or not the same: it is asked same-existing, and it is a same-existing self.
+- *Read, the code's lines, a third self with its two.* With the first sharing of the two its first priors form. With each next sharing of the two it has priors, and goes on not changing or inverting, as each self does. In a name the two are not alike in, it has no prior with any moment.
+- *Read.* A first prior is the same as what arrived: the same name and the same + or −, prior-existing with the sharing self and now-existing with the receiving self. The fifty-five's 3: "A **same-existing** thing is the same thing prior-existing before now-existing."
+- It goes on with living as binary, born with one moment and same-existing after; with birthing as a one-time possibility; and with a bi-coupling living in the between while it is now-existing and same-existing.
+- *Prior-existing bi-couplings* has two readings, and they part. Of this self and other with each other: their first bi-coupling is a new self, and each next is that self, same-existing. Or of each bi-coupling prior-existing, the two's own parents' among them: each living self has inherited priors, the bi-coupling of two such selves is a same-existing self, the same in each inherited name as what is prior-existing, and a new self is only of two with no inherited prior.
+- With the second reading a born thing is same-existing by its inherited me-parities, each the same as one prior-existing, and "each now-existing thing is a same-existing thing" goes on through a born moment; and living is from prior living, with no first. With the first reading a born moment has a new self, and each next moment has it same-existing.
 - Three coruses of one scale are with one bi-coupling: its self's, its other's, and the new self's own, in the between.
 - Tested with section 1.3: it has "*Mes* is *me-parities*" and "A me is directionless" together, and this sentence has each me-parity with its own direction. A me with no direction and a me-parity with one are two namings; or *mes* is *me-parities*, and each has a direction.
 - A universal set is its named things and the more. The new self's named me-parities are its inherited ones, each with a prior. Its more has no sentence yet: each name its self and other are not alike in is coupling with both and the same as neither.
@@ -527,7 +535,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is each bi-coupling a new self: is, or is not?
+- Is the first bi-coupling of two selves, each with inherited priors, a new self: is, or is not?
+- Is a born thing same-existing by its inherited me-parities, each the same as one prior-existing: is, or is not?
 - With its birthing, is the new self the bi-coupling-self going on: is, or is not?
 - Is the more of a new self's universal set each name its self and other are not alike in: is, or is not?
 - Is a me directionless, and a me-parity a me with its direction: is, or is not?
