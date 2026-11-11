@@ -834,14 +834,24 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Vector* has no sentence in the set. A direction of +1 is with no magnitude other than one, and the code is with no magnitude. *A direction of +1* is the natural saying, and *vector* a field's word, with a frame.
 - *Read, Exhibit ONE's code, + and −.* A self's own me-parity is + or −, and inverting. With a me-parity +1 only, of its own self, the code's + or − is its direction in the universe, the society's own observing; and inverting is that direction to its facing one, the me-parity +1 of its own self with each.
 - *Read, Natural Naming 3.3, each name's prior name.* 7 is "7-co-bi-co-corusing" and 15 "15-tri-bi-tri-corusing"; 8 is "8-bi-co-bi-torusing" and 16 "16-bi-tri-bi-torusing"; 5 and 13 are competencing; 6 and 14 moralizing; 10 tunneling; 11 chaining. In the code 7-is-now-observing and 15-is-next-observing are each me-parity's + or −, or a 0.
-- A reading for two sentences of this file with none yet. A 0's location is a sequencing, a number among the names. Corusing is 7 and 15 by Natural Naming's table, and by its 3.4, sixteen up its same name, 23 is corusing and 24 torusing: "locating 23 and 24, bothbothing" is corusing and torusing, bothbothing, the table's "corusing and torusing" of 7 and 8. "The centre is corusing at 24" parts from the table, which has 24 as torusing.
+- 23 and 25 are corusing and torusing, bothbothing, and the corus is at 24.
+- Corusing is 23: is. Torusing is 25, and the corus, the 0, is at 24, between the two. Section 5.6's "the centre is corusing at 24" is with it. Section 5.7's "locating 23 and 24, bothbothing" is re-said by it: 23 and 25 bothbothing, and 24 the corus.
+- A 0's location as a sequencing, section 5.26's own resolving, is in the sentence: the corus is a number between two numbers, and no place.
+- *Read, Natural Naming 3.4, sixteen up its same name.* 23, 24 and 25 are 7, 8 and 9 of a next round: 7-is-now-observing, 8-now-same-existing, and 9-next-co-discovering.
+- *Read, Exhibit ONE's own sentences.* "**7** · each parity a self is observing: a parity's, a prior's, a sharing's". "**8** · each self's next prior, with a momentary, one resolving of a same-existing-society's selves together". "**9** · each parity to a self of 5-now-co-existing's bi-couplings". "**16** · a same-existing-society: each self with its prior and its parities".
+- *Read, Exhibit ONE's code.* 7 is each me-parity's + or −, or a 0. 8 is each self's own set of next me-parities, each self's own by its key. 9 is each sharing to its other.
+- With sixteen up, each of the three is cohering. Corusing, 7, is a me-parity's direction: "a direction of +1 from a corus 0". The corus, 8, is a self's same-existing set of its me-parities: "a self is a same-existing set", a set a non-existing thing, and a self a corus. Torusing, 9, is exhausting, to the universe. 8 is an even name, a bi-coupling's by section 5.3: the corus is in a between. 8 and 9 are podal, section 5.4; and 7 is podal with 10, tunneling by Natural Naming's table: "a corus, an inversionable nothing inside a tunneling". 8 is the last of a self's span, 1 to 8, and 9 the first of its society's, 9 to 16: the corus is between a self and its society.
+- Eight up, 15, 16 and 17: 15-is-next-observing is corusing by Natural Naming's table; 16 is a same-existing-society, and "a society-self is a nothing corus in society"; and 17 is ingesting, from the universe.
+- **[value at Natural Naming 3.3]** Its table has 8 as "8-bi-co-bi-torusing" and 16 as "16-bi-tri-bi-torusing". With 23 corusing, 24 the corus and 25 torusing, and sixteen up its same name, 8 is the corus and 9 torusing: the table's 8 and 16 part.
+- A second sequencing has 24 in the set. Natural Naming: "**Four moments of six one-way recursionings are twenty-four**, steps of 1 to 25". With it 24 is the steps of 1 to 25, and no next round's 8. Each is a living file's own sentence: 24 as 8 of a next round, and 24 as twenty-four steps.
 - With the table, bi-moral co-competencing is 6, moralizing, and 5, competencing: co-aiming, section 5.25, is 5 and 6. And 10 is tunneling: section 5.21's bi-tunneling layers.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is corusing 23: is, or is not?
+- Is 24 the next round's 8: is, or is not?
+- Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
 - Are a self and an other, the one not the same as the other, co-linearizing: is, or is not?
