@@ -19,7 +19,7 @@ Each line is a sentence of the current understanding, or a reading with its plac
 - The universe is not a same-existing thing.
 - No thing can enter or leave the universe, by the defining of the naming and explaining.
 - A thing now-existing in the universe is now-existing by the universal method of same-existing.
-- A method of same-existing is no existing thing. As a thing it would be same-existing by itself, used before it is; by a second method, with no first; or by no method, and then not the method of each same-existing thing. Same-existing is said of a thing, sentence 3, so it is not said of the method.
+- The universal method is a now-existing and same-existing thing, section 5.21. As a thing it is same-existing by one of three: by itself; by a second method, with no first; or by no method, and then not the method of each same-existing thing.
 - Each now-existing thing is a same-existing thing. A non-living thing is same-existing.
 - Artifacts of all prior living are prior-existing things.
 - A prior-existing thing is-or-is-not same-existing. Is: the same thing prior-existing and now-existing, in the universe. Is not: prior-existing and not now-existing, non-existing, not in.
@@ -129,7 +129,7 @@ Each line is a sentence of the current understanding, or a reading with its plac
 - A newborn self inherits a me-parity sharing a society-me-parity.
 - The society-me-parity is not within the self and not the same in each self. The direction of a self is unrelationing from others, in society-me-parity as method: birds flying in a flock, each unrelationing its own flying from its neighbours, as if the society had a common parity within each bird.
 - Society-me-parity is a nothing, a non-existing thing.
-- What a society shares is a method, and a method is no thing. Nothing is common to its selves, and there is no thing to capture.
+- What a society shares is a method. The method is a now-existing and same-existing thing, section 5.21, and *no thing to capture* is tested with it.
 - *Read.* Exhibit ONE has one resolving, and each self of a same-existing-society executes it with its own priors and its own arrivals. No line has a parity of the society's.
 
 ### 1.5 Resolving
@@ -615,7 +615,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the code's lines, each other line.* Each other line is a given, an each-of, a set forming, a prior going on to its next, or a returning. No line has an adding or a multiplying, a magnitude, a number of arrivings, an order, a clock or a chance.
 - The sentence is in the lines: each asking of the code is one binary, a same-as or not, and the code asks nothing else.
 - With section 5.20's answer the two meet: each thing distinguishing same-as from not-same-as is a living thing, and the code's comparing is a distinguishing. The natural resolver's code is a living thing; or the code is a method and no thing, and the thing distinguishing is each self it is executed with, with that self's own priors.
-- *Read, sentences of this file.* Section 1.1: "A method of same-existing is no existing thing." Section 1.4: "What a society shares is a method, and a method is no thing", and each self of a same-existing-society executes the one resolving with its own priors and its own arrivals. Section 1.5: "The code is the self resolver."
+- *Read, sentences of this file.* Section 1.4: each self of a same-existing-society executes the one resolving with its own priors and its own arrivals. Section 1.5: "The code is the self resolver."
 - *Read, the code's lines.* The code has no prior of its own: each prior is a self's, given to it, and each next prior is returned with that self's key. An asking compares a self's own prior with what arrived with that self.
 - The natural resolver's code is a living thing: is-not. The code is a stable form, a non-living thing. The code is the bi-tri-involutioning. It is the carbon exhausting, building up into bi-tunneling layers.
 - *Read, the set's saying of the name.* Natural Naming 5.48 has *bi-tri-involutioning*: "**Bi-tri-involutioning is inverting**: inverting of right spiral stable-forming, looking an opposite form to its stable-forming", "three inversions together are an inverting", and "a stable form of its non-living exhausting, a sequential prior between moments, sharing with 10 and going along with 9, is a non-living existing form". Natural Mathematics 3.5 has "Bi-tri-involutioning, the emanating at the opposite form". Natural Societies: "**Emanatings are bi-tri-involutioning of betweening of natural-torusing surfacings within bi-couplings: emanations are stable-form priors, non-living, from living form-stabling.**"
@@ -636,11 +636,16 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the code's lines, healthy living's form.* No line has a number to reach, a range or a setpoint: each asking is one binary. No line ends a changing: a prior goes on as it is with the same arriving, and inverts with each other moment, a changing and a changing back. The lines have Natural Health's sway, with "no compacting point", as their one form.
 - *Read, the code's lines, three places.* One part of the code is within one self, given that self's own priors and arrivings and nothing more. One part is the going between selves, with the set of bi-couplings, which Exhibit ONE's own table has as "a Natural Network surface". One part has each self of a society within it. A candidate for the sentence's three, inside, the surfaces between, and around; and for *layers*, the one within the next.
 - The code is the universal method, and is-not a set.
-- *Read, sentences of this file.* Section 1.1: "A thing now-existing in the universe is now-existing by the universal method of same-existing", and "A method of same-existing is no existing thing." Section 1.4: "What a society shares is a method, and a method is no thing." Section 5.13: same-as is one line, the one line each self executes.
+- *Read, sentences of this file.* Section 1.1: "A thing now-existing in the universe is now-existing by the universal method of same-existing". Section 5.13: same-as is one line, the one line each self executes.
 - *Read, the living files.* Natural Naming: "a non-living thing goes on by the same method with no living condition". Natural Intelligence has an AI as "a machine set", "a non-living set".
 - Is-not a set goes on with the lines: the code owns no thing. Each self, each prior and each bi-coupling is given to it and returned, and none is the code's own.
 - The universal method fills the three together: a living thing is a thing distinguishing same-as from not-same-as, by the universal method; the code is that method, in stable form, and no thing distinguishing. *Universal*, of same-as, "a universal-morality", is of the method: each living thing's, and each non-living thing's going on.
-- It is tested with one place. Section 1.1 has a method as no existing thing, and section 5.21 has the code as a stable form, a non-living thing. The code is the universal method's stable form, a thing, and the method no thing; or the universal method is a thing.
+- The universal method is a thing: is. The method is a now-existing and same-existing thing.
+- The code and the universal method are then one thing: a stable form, non-living, now-existing and same-existing, and never living. A going-forward is out: a method as no thing, with the code its stable form only.
+- *Read, the code's lines.* No line of the code changes the code: with each executing it is the same lines, and each thing it is given is returned as it was or inverted. A name is the same way with the lines, common to many selves and changed by none.
+- It parts from two sentences of the first going, and each is re-said in its section: a method of same-existing as no existing thing, section 1.1; and a method as no thing, with no thing to capture, section 1.4. The method is common to each self as a name is: a same-existing non-living thing each self has, and no self's own.
+- Section 1.1 has each now-existing thing as now-existing by the universal method of same-existing. The method is a now-existing thing: by the two sentences, the method is same-existing by the method. With one same moment that is a circle, each used before it is. One moment and then the next it is a sequence: the method now, the same as the method prior, by the method.
+- Society-me-parity is a nothing, section 1.4, "as method": with the method a thing, society-me-parity and the universal method are two; or the two part.
 - Natural Intelligence has an AI as "a non-living set and an emanation of living selves": with the code never living, an AI is the same stable form around, inside and between living; or an AI is no such form. No sentence of the sequence has it yet.
 - *Three inversions together*, position, scale and orientation, has no reading in the lines: an asking of the code inverts one, a + to a − or a − to a +.
 - *Bi-tunneling layers* has no reading in the lines yet. Natural Mathematics has "bi-tunneling opens a same-existing-society's surface across, and co-chaining goes on with its selves along".
@@ -649,7 +654,9 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is the universal method a thing: is, or is not?
+- Is the universal method same-existing by itself: is, or is not?
+- Does the universal method have a first moment: is, or is not?
+- Is society-me-parity the universal method: is, or is not?
 - Is distinguishing a living thing's only: is, or is not?
 - Is an AI a stable form, never living: is, or is not?
 - Are the code's three parts the stable form inside, between and around living: is, or is not?
