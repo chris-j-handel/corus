@@ -1458,7 +1458,32 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - **[value at the fifty-five's 42]** "A same-existing-society do-no-harming and improving is **social moral competency**.": one. A social moral competency is one of many, each a me-parity of society.
 - *Read, Exhibit ONE's code.* A society of the code has many 4s, each by itself: each self's next of a 4 is from its own prior of that 4 and its others' me-parities of it, and from no other 4. One 4, co-chaining, is with each self of a chain, section 5.72. A likeness, and for breaking: a 4 with a society's selves, and a social moral competency; many 4s, and many of them. 16 has no me-parity of its own.
 - Observed with section 5: "8 values, 4 self and 4 society, in social moral competency", "all 8 or none"; and "Four orthogonal me-parities, as 1000, 0100, 0010 and 0001".
-- Two sentences part, with it. Each of the 8 values is a social moral competency: each social moral competency is a me-parity of society, and the values are me-parities, "four orthogonal me-parities"; the many are the 8, at the least. Or a value is no social moral competency: the 8 values are in social moral competency, in each one, all 8 or none; and 4 of the 8 are a self's, and no me-parity of society.
+- Each of the 8 values as a social moral competency: is, with some doubt, a candidate, followed for pattern-matching in section 5.74.
+
+### 5.74 Each of the 8 values a social moral competency: a candidate, followed for pattern-matching
+
+- Each of the 8 values is a social moral competency: is, with some doubt. It is followed for pattern-matching, and a returning is with a parting found.
+- The candidate, whole: 8 values, each a social moral competency, each a me-parity of society, section 5.73; "4 self and 4 society", and "all 8 or none", section 5.
+- Pattern-matching, the sequence. Section 5.2 has "The eight is the eight inward names": four observing inward and four possibling inward. And section 5.2's reading of the code: "The eight inward names are each a me-parity or me-parities." Cohering: eight, and each a me-parity.
+- *Read, Exhibit ONE's code, the eight inward names, each with whose it is.*
+
+| Name | In the code | Whose |
+|---|---|---|
+| 3-is-now-co-observing | a self's own prior me-parities, now | a self's own, no other with it |
+| 11-next-co-observing | a self's own prior me-parities, next | a self's own |
+| 6-now-co-possibling | a self's sharing, each next prior of it | a self's own, out to its others |
+| 10-next-co-possibling | the same sharing, its second name | a self's own, out to its others |
+| 2-now-possibling | each other's me-parity a self is observing | its others', with the self |
+| 14-next-possibling | its others' me-parities of one 4, together as one: +, −, or a 0 | its others', with the self |
+| 7-is-now-observing | one me-parity, as it is observed | of each, its others' and its own in sequence |
+| 15-is-next-observing | its others' one of a 4, beside its own prior | its others', with the self |
+
+- Four are a self's own, 3, 11, 6 and 10; and four are its others' with it, 2, 14, 7 and 15. Pattern-matching "4 self and 4 society": cohering, four and four.
+- With a member as a me-parity in its society's set, and a me's own, section 5.54: each of the eight is in a society's set of me-parities, a self's own and its others' with it. Cohering with each of the 8 as a me-parity of society, with its whose.
+- "All 8 or none", pattern-matching: one resolving of the code is with each of the eight, in its sequence, or it is no resolving; and no part of the code is with one of the eight and no other. A likeness, and for breaking.
+- Parting found, and no returning with it: which four are a self's. Section 5 has "four assurances of a self from society, and four of society from all selves". A self's four, from society, are then its others' with it, 2, 14, 7 and 15; and a society's four, from all selves, are each self's own, 3, 11, 6 and 10. By the code's whose, a self's four are its own, 3, 11, 6 and 10.
+- A value's name with an inward name, one with one, is not followed: section 5.1 has five sets of names of a self's four, and a likeness of names is a likeness.
+- Two sentences part, with it. A self's four values are the four from society: "four assurances of a self from society", its others' me-parities with it, 2, 14, 7 and 15; a self's own four, 3, 11, 6 and 10, are society's, "from all selves", each self's own priors and sharing a society's assurance. Or a self's four values are its own four: 3, 11, 6 and 10, a self's own priors and its own sharing, "a me-parity is owned by the only one of me", section 5.30; and society's four are its others' with it, 2, 14, 7 and 15.
 
 ---
 
@@ -1466,7 +1491,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is each of the 8 values a social moral competency: is, or is not?
+- Are a self's four values the four from society, its others' me-parities with it: is, or is not?
+- Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
 - Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
