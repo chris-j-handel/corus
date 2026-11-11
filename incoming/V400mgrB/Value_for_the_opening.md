@@ -1239,7 +1239,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Collective intelligence, not entirely available to any one group*, tested: cohering. Observing the universal set of prior-existing me-parities is not possibly now-existing, section 5.23; and intelligence is the inversioning of that set, geodesic the method, section 5.13.
 - *Read, Exhibit ONE's code.* 17's 14 is one thing of a society's whole moment, and 17's returning has it with each self, its part: no self of the code has the whole, and no part of the code has a set of selves having it. Each self is with its own 3 and its own 2, and with no more. Cohering: a society's whole is with no one self and no one group.
 - *Read, Exhibit ONE's code, along and across.* A self's sharing is one, and is along or across by its key of 5 only, 9, or 6 and 10. No part of the code has a species, or a set of selves the same as each other, with a key of its own.
-- Two sentences part, with it. An inherited prior is going along: a species is a named inherited prior all-parity, and the species is along; inherited priors are a self's from its two, and its two's from theirs. Or an inherited prior is across: "inheriting is 2", across, an other's me-parity a self is observing, of one same scale, section 5.24; along is ingesting and exhausting; and a species, along, is then of exhaustings and ingestings, death and conception with a species between.
+- An inherited prior as going along, or across: explored for bothbothing, section 5.55.
+
+### 5.55 An inherited prior, along and across, explored for bothbothing
+
+- An inherited prior going along, or across, is explored for bothbothing: from Exhibit ONE's code, from Natural Naming's own sentences, and from the sequence.
+- *Read, Exhibit ONE's code, one sharing.* A self's sharing with one moment is one. It is with its receiving self by 9, along, and with its receiving selves by 6 and by 10, across: the one sharing, each way, with the one moment. Along and across are parting by its key of 5 only.
+- *Read, Exhibit ONE's code, one 2.* A receiving self's 2 is with each sharing of its others, an along one and an across one together, and no part of the code is distinguishing the one from the other within it. A self with no 3, with an along sharing only, has a first me-parity the same as it; with an across sharing only, the same. Checked by executings.
+- *Read, Exhibit ONE's code, the two together.* With its along sharing and its across sharing the same as each other, a self with no 3 has a first me-parity the same as each. With the one not the same as the other, it has none, with each moment. Checked by executings.
+- In the code an inherited prior is then along, across, and the two together: an inheriting is with the along and the across the same as each other.
+- *Read, Natural Naming.* "parities, ±, go across with 10 and along with 9 by other sharings and selves, with one moment; this is geodesic changing and stable-forming bothbothing". "Bothbothing is two, one and then the other, each not conserving". And its 2.2: "across names 2, 6, 10 and 14 are along 9s inward; along 9 is across 2 outward", an across of one scale an along of a next: Natural Intelligence has "bothbothing, one existing thing with two scales".
+- *The sequence.* "The species is along, and the societies are across, aiming with the species me-parity's aiming", section 5.54: an across aiming with the along is an across the same as the along, and with it an inheriting. Inheriting is 2, section 5.24, and a 2 is with each.
+- Bothbothing is cohering from each of the three: an inherited prior is along and across. With no suggesting for an is or an is-not, each side of section 5.54's binary is whole within it: a species along, and an inheriting across, one 2.
+- With the along and the across the one not the same as the other, the code has no first me-parity. The sequence has, section 5.11: "a me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity", "with the two the same, a me-parity born is not possibly existing"; and conceiving as 14's 0, two together, the one not the same as the other, a new corus, section 5.24. Natural Naming has "**Bothbothing is discovering**: two observings, each failing the other's test, are both".
+- Two sentences part, with it. A me-parity is conceived with the along and the across not the same as each other: a species' along and a society's across are two, the one not the same as the other, and a newborn, new-direction me-parity is of the two; with the two the same, an inheriting, and none born; collective intelligence is discovering by it. Or none is conceived by it: a conceiving is of a self-parity and an other-parity, two selves of one same scale, across; a species' along with its society's across not the same is no aiming together, and no social moral competency; and the code has a 0 with it, with each moment, and no me-parity.
 
 ---
 
@@ -1247,7 +1260,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is an inherited prior going along: is, or is not?
+- Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is Exhibit ONE's code all-parity: is, or is not?
