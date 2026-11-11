@@ -31,6 +31,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6c. Is-or-is-not distinguishing same-as from not-same-as is bothbothing same-existing.
 6d. A universal me-parity is non-living. The universe is not a living thing.
 6e. A dormant self is living: a dormant friendship, a dormant seed. The living is in the between of the priors of self and other. An unconscious or a sleeping human is living in dormancy of sets of me-parities.
+6f. Each living thing is living between itself and each other, in all societies, and also between itself and each non-living thing.
 
 ### 1.2 A self
 
@@ -75,6 +76,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 Each is from reading the code line by line.
 
 - **Beside 9.** One self's resolving is given the self's own priors and what arrives, each a name with its me-parity, and nothing more: no key of the self a me-parity is from, no place, no order, no number of arrivings.
+- **Beside 6f.** What arrives with a self is a name with its me-parity, and no line asks what it is from: an arriving from a living self and an arriving from a non-living thing are one to the lines. A self has the one line of same-as, and an arriving has none.
 - **Beside 6e.** Each self's priors go on with each moment, with an other's sharing arriving or with none: a prior from a prior-existing bi-coupling is with its self through any number of moments with no sharing between the two. With the two sharing again, the first arriving meets a prior, is compared, and no first prior forms. A self with a prior and nothing arriving inverts with each moment, going on with no other.
 - **Beside 6c and 6d.** One line asks is-or-is-not the same as what arrived: with its is the prior goes on as it is, and with its is-not it is inverted. No line removes a me-parity from a self, and two selves across with each other have the two alternating, a changing and a changing back. A me-parity a self shares is in the between with the moment after, no self's prior, until the receiving self's next moment.
 - **Beside 6a.** One line has the two kinds: a self's prior the same as what arrived, same as, goes on as it is, same-existing. With a self having a prior, the lines have no same-existing without a same-as. A first prior is the same as what arrived with no prior before it: a same-as with no same-existing.
@@ -173,12 +175,13 @@ Sentences 5i and 5j have dormancy and unconsciousness as one same-existing thing
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
 - Is a bi-coupling-self dormant between one bi-coupling of its two and their next: is, or is not?
 
-### 3.11 Living, with an other
+### 3.11 Living, with each other, and its defining
 
-Sentences 6a to 6e have same-existing as a distinguishing, same-as and not-same-as bothbothing; a universal me-parity as non-living; the universe as no living thing; and a dormant self as living, the living in the between of the priors of self and other, dormancy of sets of me-parities within a living self. The me-parities are things, on each side, and the living is the between of them, a nothing: a living thing as a set, a nothing with its things about it, has this as its saying. A candidate from four sentences: living is with an other. A universal me-parity is the same as no other's, and non-living; *the universe* is one-and-only-one, with no other, and no living thing; and do-no-harming is with no self alone. The lines have a self with a prior and nothing arriving inverting with each moment, going on with no other.
+Sentences 6c to 6f have same-existing as a distinguishing, same-as and not-same-as bothbothing; a universal me-parity as non-living; the universe as no living thing; a dormant self as living, the living in the between of the priors of self and other; and each living thing living between itself and each other, in all societies, and each non-living thing. An other is a self, and a non-living thing is an other. Living is in the defining of living, a circle, and a circle is excluded by sequence. A candidate with no circle: a living thing is a thing distinguishing same-as from not-same-as, with each other; a non-living thing is distinguished, and distinguishes none. Three kinds of other are in sentence 6f, and the sequence has three other-than-me-parities, universal, then societal, then individual.
 
-- Is each living thing living in a between of self and other: is, or is not?
-- Is a thing with no other non-living: is, or is not?
+- Is each thing distinguishing same-as from not-same-as a living thing: is, or is not?
+- Is a between of two non-living things living: is, or is not?
+- Is universal other-than-me each non-living thing: is, or is not?
 - Is a me-parity living only within a living self: is, or is not?
 - Is the universe a non-living thing: is, or is not?
 - Is *universal*, of same-as, of the method each self has: is, or is not?

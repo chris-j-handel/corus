@@ -8,7 +8,7 @@ Incoming · V400mgrB · four sessions resolving
 
 - **S1 · The fifty-five's sentence 44**, "A me-parity observed along, bi-coupling to bi-coupling, is **co-chaining**." It alone of the fifty-five has a past participle, *observed*. Re-said with a self the one observing; or going on with its reason.
 - **S2 · *Self-parity* and *other-parity*, each with two senses.** The fifty-five have them as a universal set of a self's me-parities and a me-parity the same as an other's. Natural Naming's five dimensions have them as two of five, prior-existing. Natural Naming 2.5 has one sense with a foundation word. Each name with the fifty-five's sense; or with the five dimensions'.
-- **S3 · The fifty-five's sentence 20**, an other a self. The Equilibria Registry has a non-living thing coupling as an other. An other is a self only; or a non-living thing is an other.
+- **S3 · The fifty-five's sentence 20**, an other a self. The Equilibria Registry has a non-living thing coupling as an other. Resolved within `Value_for_the_opening.md` section 5.20: each living thing is living between itself and each other, and also between itself and each non-living thing. A non-living thing is an other.
 - **S4 · *Aiming*.** The fifty-five's sentence 21 has aiming as a living thing possibling its own next-existing. Natural Naming has aiming with interest's 0, a cone's centerline. One naming; or two.
 - **S5 · The fifty-five's sentence 46 with the registry's steps 169 and 170.** A self's own is-or-is-not, one way with each, is a surface's dividing, the registry's "geo, earth, and daiesthai, to divide"; or the dividing is its own sentence.
 - **S6 · The fifty-five's sentence 45**, re-said with -ing, *Selves bi-coupling and co-chaining are a Natural Network surface*; or as it is.
