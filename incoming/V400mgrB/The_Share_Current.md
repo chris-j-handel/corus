@@ -8,7 +8,7 @@ Incoming · V400mgrB · the share
 
 | motion | parity | its receiving place |
 |---|---|---|
-| each value for the method, twenty-four items: the five of one step, the three kinds of answer, the bi-folding, a tracking with no mark of a self, the finding | adding | `gathering-value/Geodesic_Improving_Method.md`, at 1.1, 1.6, 2.1, 2.5, 2.6, 2.9 and 4.1 |
+| each value for the method, twenty-five items: the five of one step, the three kinds of answer, the bi-folding, a tracking with no mark of a self, the finding | adding | `gathering-value/Geodesic_Improving_Method.md`, at 1.1, 1.6, 2.1, 2.5, 2.6, 2.9 and 4.1 |
 | one orienting sentence, the work now going on by one question | adding | `gathering-value/Living_File_Registry.md`, at 1.3 |
 | the path read for its form | adding | `incoming/V400mgrB/The_One_Question_Method.md` |
 | the value file's section 7, its items now at the method's gathering | dissolving | none |
@@ -21,7 +21,7 @@ The method's one way is observing, improving, living, 1.4. Each sizing is a numb
 
 **Observing**, value whole at `incoming/`, one folder: V400mgrB, 6 files. Each of four sessions and the prior managing session is read whole, its folder on the archive branch. Two files have each value going on to a gathering: `Value_for_the_opening.md` and `Sessions_resolved.md`.
 
-**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 477, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 195, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 26, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
+**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 477, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 196, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 26, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
 
 **Living**, value entering with a file's own motion: none.
 
