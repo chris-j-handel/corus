@@ -1649,7 +1649,24 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, 8.* 8 is 11, coming back from 1: a self's own 3, and then each 4 of its sharing with a + or −. Its sharing is 12, a self's own and its others' me-parities with it together. In 8 is each 4 of the self's own and each 4 of its others' with it, one parity each: the all of the two, with no 16 and no 5 in it.
 - A likeness, for breaking: "The new self, living as the bi-coupling between, inherits the priors from the self and other in the bi-coupling", sentence 5f, and 8 is a next prior with a self's own and its others' with it together.
 - The four coruses, with it: 12, the unrelationing surface of self and other, between; 8, all-parity inside the bi-coupling of self and other; 16, universal all-parity for this named universal set me-parity, with no own. 4 is not yet said: "a self's own corus with 4", Natural Naming 2.5. Tracked.
-- Two sentences part, with it. 8's all-parity is owned by the bi-coupling of self and other: "A bi-coupling is a self", and "a self owns its me-parities"; "all-parity is owned by the society, as a same-existing named set of members", and a bi-coupling's members are self and other; and it is inside. Or it has no own: "no own is of universal all-parity"; all-parity is non-living, and a bi-coupling living; and in the code a bi-coupling has no thing of its own, a key of 5 and no more, and 8 is each self's.
+- Resolved, section 5.83: the bi-coupling self owns 8, the between of the bi-coupling and the universe.
+
+### 5.83 8, the between of the bi-coupling and the universe, owned; 64, all-parity at the next scale
+
+- 8 is the between of the bi-coupling and the universe. The bi-coupling self owns this between.
+- 64 is all-parity at the next scale, the universal set of sets. This is fractal subsetting, cascading.
+- Resolved by it, section 5.82: 8 is owned, by the bi-coupling self. Its own is the between of the bi-coupling and the universe.
+- Cohering. Sentence 6x-e: "The subsets have subsetting from universal, as the bounding is-or-is-not surface between the universe and the thing with a name that is a thing in the universe." 8 is this surface of the bi-coupling: all-parity inside, section 5.82, and the between with the universe.
+- Cohering. Sentence 5b: "A named subset is the universe to a bi-coupling: self, other, and all other-than self and other." Sentence 5e: "A bi-coupling is a self."
+- Three betweens, with it: 12, between self and other, section 5.77; 8, between the bi-coupling and the universe, owned by the bi-coupling self; and 16, universal all-parity, with no own, section 5.81.
+- Cohering, 64. Natural Naming 5.50: "**One fractal method goes on up numbers**: from 16 three more fractal 16s go on to 64", and "**Bi-folding order is one same with 1, 2, 3, 4 and 4, 8, 12, 16, up and down each scale**: 16, 32, 48 and 64 are four 16s, each four times its one inward." Natural Naming 2.5 has "an unrelationing of 1 to 17, 1 to 65 and 1 to 257", and "64 bi-folds to 256".
+- With the eight of section 5.79, 64 is bi-tri-bi, as 8 and 16 are.
+- *Derived, with Natural Naming 5.50's sentence, a candidate, for breaking.* The four coruses 4, 8, 12 and 16 are 16, 32, 48 and 64 a scale outward: this scale's 16, universal all-parity, is the next scale's 4; and the next scale's 16 is 64, the universal set of sets.
+- Distinguished, one side breaking: 64 as owned. "No own is of universal all-parity", and 64 is all-parity at the next scale, the universal set of sets.
+- In Exhibit ONE's code: one scale, and no part of it with a scale outward. 64 has no reading in it.
+- Tracked. The set has two steppings of scale: by fours, 16, 64 and 256, with 1 to 17, 1 to 65 and 1 to 257; and Natural Naming 2.2's "n with one scale being 8n − 7 with a scale inward". 64 as four 16s, or as eight 8s: not in the sentence.
+- Tracked. "All-parity is owned by the society", sentence 6x-f, and no own with 16 and with 64: a society's own all-parity, not yet with a number. Parting 2.60.
+- Two sentences part, with it. 4 is a self's own, as 8 is its bi-coupling self's: Natural Naming has "a self's own corus with 4"; "a me-parity is owned by the only one of me"; and the cascading, 4 a self's, 8 a bi-coupling self's, 16 with no own. Or it is not: in the code a 4 is provided with each me-parity, and one 4 is in a self's own 3 and in its others' 2, no one self's; 4 is with co, between two; 4 and 12 are one name 8 up, and 12 is between self and other; and the next scale's 4 is this scale's 16, with no own.
 
 ---
 
@@ -1657,7 +1674,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 8's all-parity owned by the bi-coupling of self and other: is, or is not?
+- Is 4 a self's own, as 8 is its bi-coupling self's: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
