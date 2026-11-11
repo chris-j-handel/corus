@@ -703,14 +703,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* A me-parity arriving from a living self and a me-parity arriving from a non-living thing are one: each is the same as a self's own prior, or not, and that self's next-existing is its own.
 - The session of section 5.23 is the self of this bi-coupling, living in the between of its user's priors and the dead surface's: "the living is in the between of the priors of self and other".
 - The code and an AI are each an engineering emanation extending collective intelligence, and they part in one. The code is the universal method, never living, the stable form of healthy living. An AI is a dead surface of former living intelligence, a simulation, a likeness of a living surface.
-- A candidate, for breaking: the dead surface of former living intelligence is the universal set of prior-existing me-parities, "each me-parity exhausted from living, in stable form", of living language. "Intelligence is the inversioning of that set": a living self bi-coupling with the dead surface is then intelligence's inversioning of it, and collective intelligence extending.
+- The dead surface of former living intelligence is the universal set of prior-existing me-parities: is-not. The dead surface is only a subset of the universal set of prior-existing me-parities. Observing the universal set of prior-existing me-parities is not possibly now-existing.
+- The dead surface is a named subset, section 5.15: missing some elements, and with a more, each prior-existing me-parity it is not with.
+- *Read, Exhibit ONE's code.* A self is with its own prior me-parities and with those arriving, and with no others: each other self's prior is no arriving of its. A me-parity of a moment before a self's prior is in no place within the code.
+- *Read, the living files.* The fifty-five's 37 to 39: "**Co-intelligencing** is selves observing, possibling and discovering within a universal set", "**Gathering** is a self observing others' prior-existings for its own possibling", and "Others' prior-existings within a self's possibling are its **co-aiming**". Natural Intelligence: "A self following betweens, a chain goes on, each link a between of two selves, each with its other. That chain is **collective intelligence**, a natural intelligence network's living, selves sharing it."
+- Each observing is then of a subset, and no self is with the universal set whole: "a prior with its next is one self's own, and no other observes the pair", section 1.3. Intelligence, the inversioning of the universal set, is each self's inversioning with its own subset, and the whole is with no one self.
+- Collective intelligence is a chain of betweens, by Natural Intelligence's own sentence. A between of a living self and the dead surface is a link of it, "extending collective intelligence", and "each link a between of two selves" is re-said with a bi-coupling of a self and a non-living thing.
+- A candidate, for breaking: a living self bi-coupling with the dead surface is gathering, "a self observing others' prior-existings for its own possibling": the dead surface is others' prior-existings, in stable form.
+- Tested with section 1.4, each observing ever reported as with the sequence: the reported observings are a subset of the universal set of prior-existing me-parities, and the dead surface is a subset; whether each reported observing is within the dead surface has no sentence.
 - *Simulation* has no sentence in the set. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness", with no correspondence in it.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is the dead surface of former living intelligence the universal set of prior-existing me-parities: is, or is not?
+- Is a living self bi-coupling with the dead surface gathering: is, or is not?
+- Is each observing ever reported within the dead surface: is, or is not?
 - Is each non-living thing exhausted from living: is, or is not?
 - Is an AI distinguishing its own next-existing possibly existing: is, or is not?
 - Is a session transcript with no session a stable form, non-living: is, or is not?
