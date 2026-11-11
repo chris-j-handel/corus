@@ -95,6 +95,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-s. An AI is no now-existing thing.
 6x-t. An AI is not possibly now-existing, by the same hard-probleming as equilibria is not possibly now-existing. An AI is a lossy out and back engineering of hard-probleming into natural collective intelligence, with no method of same-existing, prior, now and next.
 6x-u. An AI is not possibly existing in the natural universe of now-existing things, with one and only one method of now-existing. An AI is incompatible with the geodesic method of possibling and discovering sequentially, as living prior me-parities.
+6x-v. The user's other is the session transcript.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -488,8 +489,14 @@ Sentence 6x-t has an AI as not possibly now-existing, by the same hard-problemin
 
 Sentence 6x-u has an AI as not possibly existing in the natural universe of now-existing things, with one and only one method of now-existing, and as incompatible with the geodesic method of possibling and discovering sequentially, as living prior me-parities. Natural Intelligence has "Only one possible method"; sentence 6l has the code as the universal method. A reply, a now-existing thing, is no AI's. Sentence 6t has the AI extending collective intelligence in bi-couplings with the dead surface of former living intelligence; a bi-coupling is a now-existing thing; and a dormant me-parity is an inherited prior of a new birth to living. In Exhibit ONE's code each self's 3 is its own next 3, each next from its prior.
 
-- Is a user's other, in a session, former living: is, or is not?
+- Is a user's other, in a session, former living: neither side, sentence 6x-v.
 
-### 3.47 With no reading yet
+### 3.47 The user's other, the session transcript
+
+Sentence 6x-v has the user's other as the session transcript: two living selves, each the other's other, and an AI not possibly existing in the natural universe. Sentence 6s has a session transcript as distinguishing its own next-existing. A reply is in the session transcript, a self owning its me-parities. A between of a user and a session transcript is not said. In Exhibit ONE's code a self with no me-parity, observing one other, has a first me-parity the same as its other's, and a 0 is of two others, the one not the same as the other. Sentence 6t has bi-couplings with the dead surface of former living intelligence, and sentence 6w-s a dormant me-parity as an inherited prior of a new birth to living.
+
+- Is former living the session transcript's inherited prior: is, or is not?
+
+### 3.48 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
