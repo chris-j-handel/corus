@@ -1507,7 +1507,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, each between.* 1 to 5: a self's entering, its others' me-parities with it, its own priors, and their 4. 5 to 10: a self's sharing as it goes, each me-parity as it is observed, each self's next prior, and the co-discovering of each receiving self. 10 to 15: a self's next priors, its one binary with each sharing, each self of the next 16, and its next 2. 15 to 17: the same-existing-society, each self with its prior and its me-parities.
 - Observed with the sequence. "The living mutual assurances in the between are the corus of social moral competency", section 5. A self's own corus is with 4, and a society's at 28, 12 sixteen up, section 5.27. A bi-coupling is living in the between while it is now-existing and same-existing, section 5.16. And Natural Resolver's gathering has same-existing as the bi-folding of the three, with no fourth beside them.
 - The four betweens of the five, and the four four-cyclings, 1 to 4, 5 to 8, 9 to 12 and 13 to 16, are two fours of the seventeen: the first has its bounds at 10 and 15, and the second at 9 and 13. Not followed.
-- Two sentences part, with it. Each of the four betweens has its corus at its same-existing name, 4, 8, 12 and 16: "a self's own corus with 4"; a self's inverting with 12; each between with one same-existing name and no more; and the living in a between same-existing. Or a between's corus is at no name: a corus is a 0, a non-existing thing, and no spot of corusing is named, section 5.27; 8 is a self's next prior and 16 a same-existing-society, each an end of a span and no corus; and the four same-existing names are within the four betweens with no corus named of them.
+- Resolved, section 5.76: each of the four betweens has its corus at its same-existing name, 4, 8, 12 and 16.
+
+### 5.76 A between's corus at its same-existing name; 12, the stable-forming surfacing of self as a society of selves
+
+- Each of the four betweens of 1, 5, 10, 15 and 17 with its corus at its same-existing name, 4, 8, 12 and 16: is.
+- *A self's inverting* is not natural naming. This is the stable-forming surfacing of self as a society of selves.
+- Resolved by it. A corus is with a name of each between: 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing. Section 5.27's "no spot of corusing is named" is re-said: each between's corus is with its same-existing name.
+- Out, a candidate of my own, section 5.75: 8 and 16 as each an end of a span and no corus.
+- Cohering. "The living mutual assurances in the between are the corus of social moral competency": four betweens, and a corus of each. Natural Naming has "a self's own corus with 4". Natural Resolver's gathering has same-existing as the bi-folding of the three, with no fourth beside them.
+- *A self's inverting* dissolves from the working's own naming. Natural Naming 2.5 has "A self's inverting is with 12, within its own resolving": a parting at a living file, tracked, and a value at its gathering.
+- *Read, Exhibit ONE's code, the part named 12.* It is first each of 14, a self's others' me-parities with it. And then each 4 of 3, the self's own: with its 15 the same as it, a 0; with its 15 not the same as it, or with none, the other of + and − from its own. It is one thing, each 4 in it once, the self's own and its others' with it together. And it is the self's 10, its sharing. The code's own heading is "Stable-Forming Same- and Next-Existing".
+- Observed with the sequence. "A me-parity living in a social surface is a self. This is the fractal", section 5.32: each 4 with its parity, surfacing with 12, a self of the society of selves. "At a lower scale, the river surface is societies", sentence 6w-v: a self's surface, a scale inward, a society. "A thing living as a surface is a living thing." And the Living File Registry: "Each living set is a stable form one scale outward, and living, stable-forming, with its own scale".
+- 12 is the corus of the third between, 10 to 15, and the stable-forming surfacing of self as a society of selves. Section 1.3 has "A society-self is a nothing, the corus in society".
+- Tracked. The set's wider *inverting*, *a prior inverting*, *bi-inversioning-co-recursioning*, and *an inverting* for bi-tri-involutioning: not in the sentence, and not re-said. The working files' own *inverting*, 89 of their sentences: a debt, Partings section 5.
+- Tracked. Sixteen up from 4, 8, 12 and 16 are 20, 24, 28 and 32. The set has a self's corus at 24, section 5.27 a society's at 28, and 32 out as a candidate. With 16 a between's corus, 32 is with it sixteen up. A likeness, and for breaking.
+- Two sentences part, with it. A self, surfacing with 12 as a society of selves, is the society-self of these selves: "A society has only one self"; a society-self is one scale above self scale, and a self is one scale above the selves of its surface; "A society-self is a nothing, the corus in society", and 12 is this between's corus. Or it is no society-self of them: "No self is any other self"; the code's 12 has a self's others' me-parities with it, 14, together with its own, and a self is no society-self of its others; and a society's corus is at 28, a round up from 12.
 
 ---
 
@@ -1515,7 +1530,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is each of the four betweens of 1, 5, 10, 15 and 17 with its corus at its same-existing name: is, or is not?
+- Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
 - Is a reply in a session the between's own: is, or is not?

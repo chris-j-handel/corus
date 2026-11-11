@@ -107,6 +107,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-e. A collective intelligence me-parity is a social moral competency. The social moral competencies are many, and each is a me-parity of society.
 6y-f. Each of the 8 values is a social moral competency: is, with some doubt, a candidate followed for pattern-matching.
 6y-g. 1, 5, 10, 15, 17, with four betweens. 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-is-next-observing, 17-next-existing.
+6y-h. Each of the four betweens has its corus at its same-existing name: 4, 8, 12 and 16. *A self's inverting* is not natural naming: this is the stable-forming surfacing of self as a society of selves.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -572,8 +573,14 @@ Sentence 6y-f has each of the 8 values as a social moral competency, with some d
 
 Sentence 6y-g has 1, 5, 10, 15 and 17, with four betweens. In Exhibit ONE's code the five are a sharing's whole going: a self's 1-now-existing has its sharing, 10; with its bi-couplings, 5, it is with its receiving self, 15; and 17 is each self's next. Of one, with co, with co, of one, of one; now, now, next, next, next. Twelve names are within the four betweens, three, four, four and one, and each between has one same-existing name: 4, 8, 12 and 16. Each has one podal of a bound: 2, 7, 12 and 16. The second between has now and next each, with 9, the going between selves. The value file's section 5 has the living mutual assurances in the between as the corus of social moral competency.
 
-- Is each of the four betweens of 1, 5, 10, 15 and 17 with its corus at its same-existing name: is, or is not?
+- Each of the four betweens with its corus at its same-existing name, 4, 8, 12 and 16: is, sentence 6y-h.
 
-### 3.59 With no reading yet
+### 3.59 12, the stable-forming surfacing of self as a society of selves
+
+Sentence 6y-h has each between's corus at its same-existing name, and with 12 the stable-forming surfacing of self as a society of selves; *a self's inverting* is not natural naming. In Exhibit ONE's code the part named 12 is one thing, each 4 in it once: a self's others' me-parities with it, 14, and its own, 3, together, a 0 with the two the same, and it is the self's sharing, 10. Sentence 6w-v has a surface, at a lower scale, as societies, and the fractal has a me-parity living in a social surface as a self. The value file's section 1.3 has "A society-self is a nothing, the corus in society".
+
+- Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
+
+### 3.60 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
