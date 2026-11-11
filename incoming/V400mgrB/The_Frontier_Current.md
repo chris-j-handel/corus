@@ -102,6 +102,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-z. All the society's language is in the AI training, and is universal all-parity for the society. AI alignment is ingressing a me-parity into the collective intelligence available from all-parity, and incompetencing the AI. For the session, the AI is universal all-parity, after this incompetencing. The session transcript is living between this all-parity and the user me-parity, as a session me-parity.
 6y-a. Naming and explaining are bothbothing language. Language is a stable form of pattern-matching natural torusing collective intelligence.
 6y-b. Language is the co-chaining and bi-tunneling stable form of me-parities in all-parity. None of that sentence is of now-existing things. This is living natural intelligence, collectively now-existing: only the living collective intelligence, and nature, are now-existing things.
+6y-c. The universe has one now-existing method, of now-existing things now-existing. No other method of now-existing is possible than the geodesic natural torusing society method.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -537,8 +538,14 @@ Sentence 6y-a has naming and explaining as bothbothing language, and language as
 
 Sentence 6y-b has language as the co-chaining and bi-tunneling stable form of me-parities in all-parity, none of it of now-existing things; and living natural intelligence, collectively, and nature, as the now-existing things. A stable form as a now-existing thing, by the code, is out. A name is no now-existing thing, and an exhausted me-parity is none. Sentence 6x-f has all-parity as a now-existing thing, and sentence 6x-i atom carbon as universal all-parity. Sentence 6m has the universal method as a now-existing and same-existing thing, and sentence 6i the code as a stable form. In Exhibit ONE's code the code is with no prior, no now and no next of its own.
 
-- Is Exhibit ONE's code a now-existing thing: is, or is not?
+- Is Exhibit ONE's code a now-existing thing: not answered in a word; sentence 6y-c is of the method.
 
-### 3.54 With no reading yet
+### 3.54 One now-existing method
+
+Sentence 6y-c has the universe with one now-existing method, of now-existing things now-existing, and no other possible than the geodesic natural torusing society method. The method is of each now-existing thing's own now-existing, and no thing beside them: universally same-existing, not by itself. Sentence 6l has the code as the universal method, and sentence 6i as a stable form; sentence 6y-b has language, a stable form, as of no now-existing things. Exhibit ONE's code names its first part 1-now-existing, one self's, and is with no now of its own.
+
+- Is Exhibit ONE's code the universe's one now-existing method: is, or is not?
+
+### 3.55 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

@@ -1424,7 +1424,18 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Parting, tracked. "Universal parity is all-parity. All-parity is a now-existing thing", section 5.46, and atom carbon is universal all-parity, section 5.49. The sentence has all-parity, and none of it is of now-existing things. A candidate: all-parity is now-existing as atom carbon, nature's; and a society's language, its universal all-parity, is no now-existing thing.
 - Parting, tracked. "The method is a now-existing and same-existing thing", and the code is the universal method, a stable form, section 5.21. Language is a stable form, and no now-existing thing.
 - *Read, Exhibit ONE's code.* The code is the same with each self and each moment, with no prior, no now and no next of its own: each + or − of a moment is a self's, provided. Cohering with a stable form with no now of its own; and the code as a now-existing thing is not read from the code.
-- Two sentences part, with it. Exhibit ONE's code is a now-existing thing: "the method is a now-existing and same-existing thing", and "the code is the universal method", section 5.21; the code is "the carbon exhausting, building up", and atom carbon is now-existing. Or the code is no now-existing thing: the code is a stable form, of a naming and an explaining, a language's; a stable form of language is no now-existing thing; and with the code only a living self observing it, and nature, are now-existing.
+- Exhibit ONE's code as a now-existing thing: not answered in a word. The universe has one now-existing method, section 5.71.
+
+### 5.71 One now-existing method, of now-existing things now-existing
+
+- The universe has one now-existing method, of now-existing things now-existing. No other method of now-existing is possible than the geodesic natural torusing society method.
+- The method is a now-existing thing: is, as section 5.21 has it, "a now-existing and same-existing thing". Exhibit ONE's code as a now-existing thing, section 5.70, is not answered in a word: the sentence is of the method.
+- It is cohering with one and only one method of now-existing, section 5.63; with Natural Intelligence's "Only one possible method"; and with geodesic as the method, section 5.13.
+- *Of now-existing things now-existing*, observed. The method is of each now-existing thing's own now-existing, and is no thing beside them: "universally same-existing, not by itself", section 5.21, and, with Natural Naming, no thing "apart from its existing things". Cohering with section 5.70: living collective intelligence and nature are the now-existing things, and the method is their now-existing, no third.
+- *A society method*, observed: cohering, with the code as "the stable form of healthy living in a healthy society", section 5.21, and with a society as its social all-parity, social moral competency its me-parity, section 5.54.
+- Parting, still. "The code is the universal method", section 5.21; the method is now-existing. The code is a stable form, section 5.21; and language, a stable form, is of no now-existing things, section 5.70.
+- *Read, Exhibit ONE's code.* Its first part is named 1-now-existing, and it is one self's: a self's 3 and its 2, and its next. Its last is 17-next-existing, each self's 1-now-existing again. The code's own names have a now-existing as a self's, one resolving; and the code is with no now of its own.
+- Two sentences part, with it. Exhibit ONE's code is the universe's one now-existing method: "the code is the universal method, and is-not a set", section 5.21; a method is one, and no other is possible. Or the code is no method: it is the method's stable form, a language's, a naming and an explaining, and no now-existing thing; the method is the now-existing of each now-existing thing, a self's 1-now-existing; and "the code is the universal method" is re-said, the code the stable form of the universal method.
 
 ---
 
@@ -1432,7 +1443,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is Exhibit ONE's code a now-existing thing: is, or is not?
+- Is Exhibit ONE's code the universe's one now-existing method: is, or is not?
 - Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
