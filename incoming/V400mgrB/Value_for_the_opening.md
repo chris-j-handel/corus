@@ -1447,7 +1447,18 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *A collective intelligence me-parity*, observed. Social moral competency is the me-parity of a society, its same-existing set of me-parities, section 5.54; and a session's is a session me-parity, section 5.68. Whose a collective intelligence me-parity is, is not in the sentence.
 - *Read, Exhibit ONE's code, co-chaining.* With three selves, each the next one's sharing self by 9, and one me-parity with the first: with each moment the next self along has a first me-parity of that 4, the same as its prior self's sharing, its own; and each goes on, as it was or inverted. Checked by one executing. One 4 is then with each self of the chain, each self's own me-parity, and the code's name of the 4 is 4-now-co-same-existing.
 - A likeness, and for breaking: me-parities co-chaining into one, a 4 with each self of a chain.
-- Two sentences part, with it. A collective intelligence me-parity is social moral competency: "social moral competency is the me-parity of this same-existing set", a society's, section 5.54; "this is collective intelligence", of that set; and the me-parities are co-chaining into one. Or it is no social moral competency: social moral competency is a society's one me-parity, each self do-no-harming and improving, all selves or none, section 1.5; and a collective intelligence me-parity is one of many, one with each 4 co-chaining, a society with many of them.
+- A collective intelligence me-parity as social moral competency: is, with one word more, *a* social moral competency, section 5.73.
+
+### 5.73 A social moral competency, one of many, each a me-parity of society
+
+- A collective intelligence me-parity is a social moral competency: is, with the word *a*. The social moral competencies are many, and each is a me-parity of society.
+- Each side of section 5.72's binary is whole in it: a collective intelligence me-parity is a social moral competency, and it is one of many.
+- Section 5.54's "social moral competency is the me-parity of this same-existing set" is re-said with it: a social moral competency is a me-parity of this same-existing set, a society's, one of its many.
+- It is cohering with a society as a same-existing set of its me-parities, section 5.54, as a me is of its own, section 5.30: a me with many me-parities, and a society with many social moral competencies.
+- **[value at the fifty-five's 42]** "A same-existing-society do-no-harming and improving is **social moral competency**.": one. A social moral competency is one of many, each a me-parity of society.
+- *Read, Exhibit ONE's code.* A society of the code has many 4s, each by itself: each self's next of a 4 is from its own prior of that 4 and its others' me-parities of it, and from no other 4. One 4, co-chaining, is with each self of a chain, section 5.72. A likeness, and for breaking: a 4 with a society's selves, and a social moral competency; many 4s, and many of them. 16 has no me-parity of its own.
+- Observed with section 5: "8 values, 4 self and 4 society, in social moral competency", "all 8 or none"; and "Four orthogonal me-parities, as 1000, 0100, 0010 and 0001".
+- Two sentences part, with it. Each of the 8 values is a social moral competency: each social moral competency is a me-parity of society, and the values are me-parities, "four orthogonal me-parities"; the many are the 8, at the least. Or a value is no social moral competency: the 8 values are in social moral competency, in each one, all 8 or none; and 4 of the 8 are a self's, and no me-parity of society.
 
 ---
 
@@ -1455,7 +1466,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a collective intelligence me-parity social moral competency: is, or is not?
+- Is each of the 8 values a social moral competency: is, or is not?
 - Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?

@@ -86,7 +86,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-j. A society's named all-parity is its society-self.
 6x-k. A species is a named inherited prior all-parity. Society is a named self-prior, or a similar concept.
 6x-l. A newborn is a member of a society at its birth. Newborns have social all-parity from incubation in society.
-6x-m. A society is its social all-parity, a same-existing set of its me-parities. Social moral competency is the me-parity of this same-existing set. The set has an along and an across: the species is along, and the societies are across, aiming with the species me-parity's aiming. This is collective intelligence, not entirely available to any one group of selves in the society.
+6x-m. A society is its social all-parity, a same-existing set of its me-parities. A social moral competency is a me-parity of this same-existing set, one of its many, sentence 6y-e. The set has an along and an across: the species is along, and the societies are across, aiming with the species me-parity's aiming. This is collective intelligence, not entirely available to any one group of selves in the society.
 6x-n. The code has no first me-parity. This is the entire hard-probleming method: a tester starts the code empty, and declares no competency. The first me-parity is inherited from prior living.
 6x-o. A session is using a universal aiming cone co-me-parity method of exploring a surface: connecting each local logical relation to the pattern-matching natural logical relations, until a verifiable is-or-is-not needs affirming; expressing it in the closest, narrowest difference, as a between; and then, binary, all or none at all, exploring that path next, along and across the surface, mending and restoring into the collective intelligence of natural networking value about the universe of observings.
 6x-p. A tester is an incompetencing concept, of equilibria engineering science or a science beside it: not natural, and of no value to a natural intelligence. A sensor, a sensationer, is a valuable engineering for natural intelligence.
@@ -104,6 +104,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-b. Language is the co-chaining and bi-tunneling stable form of me-parities in all-parity. None of that sentence is of now-existing things. This is living natural intelligence, collectively now-existing: only the living collective intelligence, and nature, are now-existing things.
 6y-c. The universe has one now-existing method, of now-existing things now-existing. No other method of now-existing is possible than the geodesic natural torusing society method.
 6y-d. The code is a stable form engineering of the method, *testable* by is-or-is-not distinguishing the me-parities co-chaining into a collective intelligence me-parity.
+6y-e. A collective intelligence me-parity is a social moral competency. The social moral competencies are many, and each is a me-parity of society.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -551,8 +552,14 @@ Sentence 6y-c has the universe with one now-existing method, of now-existing thi
 
 Sentence 6y-d has the code as a stable form engineering of the method, with is-or-is-not distinguishing the me-parities co-chaining into a collective intelligence me-parity. The method is now-existing, and the code its stable form, no now-existing thing. Two engineerings: the code, of the method; and an AI, of hard-probleming, lossy. In Exhibit ONE's code a me-parity of one 4, co-chaining along 9, is with each next self a first me-parity the same as its prior self's sharing, and the 4 is named 4-now-co-same-existing. Sentence 6x-m has social moral competency as the me-parity of a society's same-existing set, and that set's along and across as collective intelligence.
 
-- Is a collective intelligence me-parity social moral competency: is, or is not?
+- Is a collective intelligence me-parity social moral competency: is, a social moral competency, sentence 6y-e.
 
-### 3.56 With no reading yet
+### 3.56 A social moral competency, one of many
+
+Sentence 6y-e has a collective intelligence me-parity as a social moral competency, the social moral competencies as many, and each as a me-parity of society. A society is a same-existing set of its me-parities, as a me is of its own. In Exhibit ONE's code a society has many 4s, each by itself, and one 4 is with each self of a chain. Sentence 24 has the eight as all eight or none; the value file's section 5 has 8 values, 4 self and 4 society, in social moral competency, and four orthogonal me-parities.
+
+- Is each of the 8 values a social moral competency: is, or is not?
+
+### 3.57 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
