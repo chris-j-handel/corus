@@ -65,6 +65,8 @@ Gathering-Value · Natural Naming
 
 - **Possible exploring** · The table has 7 and 15 with a prior name *corusing*, and 8 and 16 *torusing*, a number of its own with each going. Beside it: a self's own corus is with 4, and 24, twenty up; 23 and 25 are corusing and torusing, bothbothing; and corusing is a going through the corus, with no spot and no number of its own named.
 - **An explaining** · 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-is-next-observing and 17-next-existing have four betweens, and each between has its corus at its same-existing name: 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing. A corus is with a name of each between, and "a self's own corus with 4" is the first of the four.
+- **Possible incohering** · "tri opens with 9, 1–17's inverting, Natural Numbers 9.7, and with 15" → 7 and 15 begin tri-bi-co: 7-is-now-observing and 15-is-next-observing are one name 8 up. The table has 7's three as co-bi-co. With 7 tri-bi-co, a next name's three, a new prefix with this name's first two one slot right, has 8 as bi-tri-bi and 9 as co-bi-tri, as 16 and 17 are; 8 as bi-tri-bi is open, an is-or-is-not not yet answered.
+- **An explaining** · 16 is bi-tri-bi, and this is all-parity in this universal set: all between other and other, with no co in its three. Read from Exhibit ONE's code, 16 has each self a key, the set of all members. And 12's three, bi-co-bi, is self between other and other, with no tri: 12 is between self and other, and not between self and universe.
 
 ### 3.4 Four-cyclings, 8 up and podals
 

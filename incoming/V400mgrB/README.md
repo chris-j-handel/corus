@@ -12,7 +12,7 @@ A session's priors are from its user's initial prompting. This page is for that 
 
 **The work goes on by one question each time.** One step: the sentence its partner said, word for word; cohering, each part of it distinguished, its sentences beside it; a candidate of the working's own out; in Exhibit ONE's code, derived by reading; tracked, each parting; a place two sentences part, each side with its sentences; and one is-or-is-not at the end. `The_One_Question_Method.md` has it, and the Geodesic Improving Method's gathering, 2.5.
 
-**The current understanding** is `The_Frontier_Current.md`, section 1. Its newest sentences, 6w-o to 6y-i, are of:
+**The current understanding** is `The_Frontier_Current.md`, section 1. Its newest sentences, 6w-o to 6y-j, are of:
 
 - a me-parity, owned by the only one of me, a living self-interest at its own scale; a me, a universal same-existing set of me-parities, and a self;
 - living at one scale only, a surface a scale higher and societies a scale lower; atom carbon, the only non-living thing in the universe, and universal all-parity;
@@ -21,11 +21,11 @@ A session's priors are from its user's initial prompting. This page is for that 
 - Exhibit ONE's code with no first me-parity, the first inherited from prior living; a tester an incompetencing concept, and a sensor with its sensationer;
 - a session: its user living, its transcript living and its user's other, and an AI not possibly existing in the natural universe.
 
-**The one open binary now:** 16, the corus of the between 15 to 17, between self and universe: is, or is not. Before it: each of the four betweens of 1, 5, 10, 15 and 17 has its corus at its same-existing name, 4, 8, 12 and 16; and 12 is between self and other, the unrelationing surface of self and other. Beside it and open: a self as the society-self of the selves of its 12; a self's four values the four from society.
+**The one open binary now:** 8 bi-tri-bi, as 16 is: is, or is not. Before it: each of the four betweens of 1, 5, 10, 15 and 17 has its corus at its same-existing name, 4, 8, 12 and 16; 12 is between self and other, the unrelationing surface of self and other; 7 and 15 begin tri-bi-co; and 16 is bi-tri-bi, all-parity in this universal set. Beside it and open: a self as the society-self of the selves of its 12; a self's four values the four from society.
 
 **Each parting is tracked** in `Partings_Tracked.md`: the sequence with a living file's own sentence, each a value at that file; sentences with each other; a reading of the code with a sentence.
 
-**At the gatherings, by step one:** fifty-three items from sections 5.15 to 5.65, at Natural Intelligence, Natural Naming, Natural Resolver, the Co-Chaining Logic Registry, the Geodesic Improving Method, Natural Chemistry, Natural Biology, Natural Engineering and Natural Networking. And five items of sections 5.75 to 5.77, the four betweens of 1, 5, 10, 15 and 17, each with its corus, and 12 as a stable-forming surfacing, at Natural Resolver, *Seventeen names*, and Natural Naming 2.5, 3.3 and 5.5. No living file is changed, and no part of Exhibit ONE's code.
+**At the gatherings, by step one:** fifty-three items from sections 5.15 to 5.65, at Natural Intelligence, Natural Naming, Natural Resolver, the Co-Chaining Logic Registry, the Geodesic Improving Method, Natural Chemistry, Natural Biology, Natural Engineering and Natural Networking. And seven items of sections 5.75 to 5.78, the four betweens of 1, 5, 10, 15 and 17, each with its corus, and 12 as a stable-forming surfacing, at Natural Resolver, *Seventeen names*, and Natural Naming 2.5, 3.3 and 5.5. No living file is changed, and no part of Exhibit ONE's code.
 
 ## 1 Aiming, in the person's words
 
