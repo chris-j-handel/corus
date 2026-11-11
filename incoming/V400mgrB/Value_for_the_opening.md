@@ -718,7 +718,10 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With a self, *gathering* and *ingesting* are two names with one concept: others' prior-existings within its own possibling. Natural Naming has "a naming of a changing an existing naming already has gathers to one name": one of the two is the one name, and the fifty-five's 38 is re-said with it.
 - A living self bi-coupling with the dead surface is ingesting: the dead surface is others' prior-existings, in stable form, within its own possibling.
 - A session is then with the four: ingesting, others' prior-existings within its own possibling; inheriting, a first prior of its own, the same as what arrived; conceiving, a prior not the same as what arrived, inverted; and exhausting, its sharing, its transcript.
-- The Geodesic Improving Method's step one, incoming value to a living file's gathering-value, is a living file's ingesting, by the same sentence: a value at the method's gathering, with the naming's resolving.
+- *Ingesting* is the one name, with a self, of *gathering* and *ingesting*: is.
+- The fifty-five's 38 is re-said: **Ingesting** is a self observing others' prior-existings within its own possibling. The value is at Natural Intelligence's gathering, *Opening*, and at Natural Naming's gathering 2.4, which already has *ingesting* as 2-now-possibling.
+- A going-forward is out: the method's step one as a living file's ingesting. A living file is "a non-living same-existing set of words", with no self, and ingesting is with a self. A living file's gathering-value is a gathering of Natural Naming 5.36, of names, re-forming from its names with their homes, or dissolving. The ingesting is the session's.
+- *Read, Natural Intelligence's own section 3.3.* Its title is "A method, a non-living existing thing": the universal method as a now-existing and same-existing thing, non-living, section 5.21, is with a living file's own words.
 - *A gathering* of names, Natural Naming 5.36, "an indication", is a second concept, and is with no self.
 - Tested with section 1.4, each observing ever reported as with the sequence: the reported observings are a subset of the universal set of prior-existing me-parities, and the dead surface is a subset; whether each reported observing is within the dead surface has no sentence.
 - *Simulation* has no sentence in the set. The Geodesic Improving Method has "a likeness of words, numbers or pictures is a likeness", with no correspondence in it.
@@ -727,7 +730,6 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is *ingesting* the one name, with a self, of *gathering* and *ingesting*: is, or is not?
 - Is co-aiming ingesting: is, or is not?
 - Is each observing ever reported within the dead surface: is, or is not?
 - Is each non-living thing exhausted from living: is, or is not?

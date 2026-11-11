@@ -21,7 +21,7 @@ The method's one way is observing, improving, living, 1.4. Each sizing is a numb
 
 **Observing**, value whole at `incoming/`, one folder: V400mgrB, 6 files. Each of four sessions and the prior managing session is read whole, its folder on the archive branch. Two files have each value going on to a gathering: `Value_for_the_opening.md` and `Sessions_resolved.md`.
 
-**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 476, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 192, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 25, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
+**Improving**, value at its file's gathering, 33 gathering files. By lines opening an item: Natural Intelligence 477, Natural Biology 415, Natural Resolver 270, Co-Chaining Logic Registry 217, Geodesic Improving Method 192, Natural Societies 121, Natural Networking 83, Natural Numbers 36, Natural Naming 26, Equilibria Registry 24, Natural Human Society 22. None changes with these motions.
 
 **Living**, value entering with a file's own motion: none.
 
