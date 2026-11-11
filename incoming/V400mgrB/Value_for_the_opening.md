@@ -984,13 +984,27 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - "A me-parity is a living self-interest" is then of a living me-parity, and a universal me-parity is a me-parity and no self-interest; or *me-parity* is a living one only, and a universal me-parity is no me-parity. Tracked.
 - Two sentences part, with it. A dormant me-parity is exhausted from living: "each living me-parity matures, and later exhausts itself from living into non-living universal-parity", section 5.11, and dormancy is universal me-parities, one non-living universal-parity; the vaults of conception and dormancy are bothbothing, section 5.18, a me-parity born from the one and exhausted into the other. Or a dormant me-parity is not exhausted: it is inside its me's ownership set, same-existing, "a me-parity and no other self co-competencing", and living again with an other facing it; and an exhausted me-parity is prior-existing, in stable form, section 5.13, and inside no ownership set.
 
+### 5.34 A me-parity, a now-existing thing; exhausted in the surface; dormant, an inherited prior
+
+- A me-parity is a now-existing thing. As the man in the river: later, the man is not the same set of now-existing me-parities as the man before, and the river is not the same set of now-existing me-parities as the river before. A me-parity exhausts itself in the surface, and is living no more. A dormant me-parity is an inherited prior, with a new birth to living later now-existing.
+- *A now-existing thing*, tested: cohering. A me-parity is a now-existing thing in a living self, between its birthing and its exhausting, section 5.11.
+- *The man, later*, tested: cohering. A me is a universal same-existing set of me-parities, section 5.30: the me is same-existing, and its set of now-existing me-parities later is not the same as its set before. "A set with its own name is the now-existing things its name owns", section 1.1; and same-existing is no not-changing, section 5.19.
+- A me-parity of one moment only, tested: breaking. "Each living me-parity matures", and a me-parity is between its birthing and its exhausting: a me-parity is same-existing, born to exhausted. A me's set later is not the same as its set before by its me-parities exhausted and its me-parities born.
+- *Exhausted in the surface, living no more*, tested: cohering, with a me-parity exhausting itself from living into non-living universal-parity, section 5.11.
+- *A dormant me-parity, an inherited prior*, tested: cohering. The inheriting is prior to the birthing, and no self is living with no me-parity, section 5.29. The vaults of conception and dormancy are bothbothing, section 5.18. And "the social moral competency inside a living thing, with non-living things inside the living", section 5.8: an inherited prior is a non-living thing inside a living one.
+- A dormant me-parity exhausted from living, section 5.33: the sentences are cohering with the is. The other side had a dormant me-parity living again with an other facing it: breaking. The living later is a new birth, and the dormant me-parity is its inherited prior.
+- Tested with section 5.11, "Non-living universal-parity is the inherited prior-existing a next me-parity is born from: is not". Cohering: a me-parity born is of two together, the one not the same as the other; and an inherited prior is a new birth's prior, the same as a dormant one. Conceiving and inheriting are two.
+- Parting. "One self's exhausting is an other's ingesting, and one self's conceiving is an other's inheriting", section 5.24: a me-parity exhausted and then an inherited prior is an exhausting inherited. Natural Naming 2.2 has "along 9 is across 2 outward", an exhausting of one scale an inheriting one scale outward, and its 2.4 has a stable form "one scale outward": cohering with a new birth one scale outward of the exhausted me-parity. Tracked.
+- *Read, Exhibit ONE's code.* A self's 3 is its own prior me-parities, and its next 3 is formed with each moment, each entry as it was or inverted. No entry is ending, and a first prior is the same as an other's now sharing: an exhausting, and an inherited prior the same as a dormant me-parity of a moment before, are each in no part of the code. With a moment of each entry as it was, a self's set later is the same as its set before in each me-parity: tracked.
+- Two sentences part, with it. The river is a self: it is a set of now-existing me-parities; a me-parity is owned by the only one of me and is existing only inside its ownership set; and a me is a self, living. Or the river is no self: a non-living thing, a surface; its now-existing me-parities are each exhausted in the surface, universal, living no more; "Each non-living thing is universally same-existing, until an is-not bumps its parity sequencing", section 5.22; and a set of now-existing me-parities is then a me, living, or a surface, non-living.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a dormant me-parity exhausted from living: is, or is not?
+- Is the river a self: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?

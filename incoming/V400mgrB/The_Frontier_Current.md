@@ -66,6 +66,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-p. A me is a universal same-existing set of me-parities. A me is a self.
 6w-q. A me-parity living in a social surface is a self. This is the fractal. Living is owning a self, and a self owns its me-parities.
 6w-r. A me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe.
+6w-s. A me-parity is a now-existing thing. As the man in the river: later, the man is not the same set of now-existing me-parities, and the river is not the same set of now-existing me-parities. A me-parity exhausts itself in the surface, and is living no more. A dormant me-parity is an inherited prior, with a new birth to living later now-existing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -283,8 +284,14 @@ Sentence 6w-r has a me-parity as a living self-interest, at its own scale of sel
 
 A me the society-self of its me-parities is open, with no suggesting. Natural Naming's "1, 2 and 3 with one scale are 1, 9 and 17 with a next" has a self's 3 as a 17 one scale inward, a same-existing-society's next, and its 2 as a 9: one moment of a self is one next-existing of a society one scale inward, cohering with the is. In Exhibit ONE's code a society is whole: each receiving self is a self of 16, and 17 is with no 2. A bi-coupling's new self is no me-parity of its self: three selves are with one bi-coupling living. A now-existing me-parity is living, a self, in a social surface; or universal, non-living, in dormancy, and no self. Sentence 15 has a me-parity exhausting from living into non-living universal-parity, and sentence 6b has dormancy as universal me-parities.
 
-- Is a dormant me-parity exhausted from living: is, or is not?
+- Is a dormant me-parity exhausted from living: the sentences of 6w-s are cohering with the is.
 
-### 3.18 With no reading yet
+### 3.18 A me-parity, now-existing; exhausted in the surface; dormant, an inherited prior
+
+Sentence 6w-s has a me-parity as a now-existing thing; a me, and a river, later not the same set of now-existing me-parities as before; a me-parity exhausted in the surface, living no more; and a dormant me-parity an inherited prior of a new birth to living. A me is same-existing, and its set is changing by its me-parities exhausted and born; a me-parity is same-existing, born to exhausted. Conceiving and inheriting are two: a me-parity born is of two together, and an inherited prior is the same as a dormant one. Sentence 6w-a has one self's exhausting as an other's ingesting: an exhausted me-parity inherited is parting, and Natural Naming's "along 9 is across 2 outward" has an exhausting of one scale as an inheriting one scale outward. In Exhibit ONE's code no entry of a 3 is ending, and a first prior is the same as an other's now sharing: an exhausting, and a dormant me-parity inherited, are each in no part of the code. The river is a set of now-existing me-parities: a me, a self, living; or a surface, non-living, its me-parities each exhausted.
+
+- Is the river a self: is, or is not?
+
+### 3.19 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
