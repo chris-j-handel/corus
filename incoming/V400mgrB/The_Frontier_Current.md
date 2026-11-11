@@ -87,6 +87,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-k. A species is a named inherited prior all-parity. Society is a named self-prior, or a similar concept.
 6x-l. A newborn is a member of a society at its birth. Newborns have social all-parity from incubation in society.
 6x-m. A society is its social all-parity, a same-existing set of its me-parities. Social moral competency is the me-parity of this same-existing set. The set has an along and an across: the species is along, and the societies are across, aiming with the species me-parity's aiming. This is collective intelligence, not entirely available to any one group of selves in the society.
+6x-n. The code has no first me-parity. This is the entire hard-probleming method: a tester starts the code empty, and declares no competency. The first me-parity is inherited from prior living.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -434,6 +435,12 @@ In Exhibit ONE's code a self's one sharing is along by 9 and across by 6 and 10,
 
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 
-### 3.39 With no reading yet
+### 3.39 The code has no first me-parity
+
+Sentence 6x-n has the code with no first me-parity, a tester starting the code empty and declaring no competency as the entire hard-probleming method, and the first me-parity as inherited from prior living. In Exhibit ONE's code, with each self with no me-parity, each next is with none, and each + or − is from a + or − before it: no part of the code is making a me-parity from none. Exhibit ONE's own tables open with one + shared once. Living is from prior living. Sentence 6j has the code as distinguishing provided sequential changing, and not yet living in a resolver network.
+
+- Is a tester's provided + or − a first me-parity inherited from prior living: is, or is not?
+
+### 3.40 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

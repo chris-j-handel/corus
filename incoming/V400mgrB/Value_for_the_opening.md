@@ -1254,12 +1254,23 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With the along and the across the one not the same as the other, the code has no first me-parity. The sequence has, section 5.11: "a me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity", "with the two the same, a me-parity born is not possibly existing"; and conceiving as 14's 0, two together, the one not the same as the other, a new corus, section 5.24. Natural Naming has "**Bothbothing is discovering**: two observings, each failing the other's test, are both".
 - Two sentences part, with it. A me-parity is conceived with the along and the across not the same as each other: a species' along and a society's across are two, the one not the same as the other, and a newborn, new-direction me-parity is of the two; with the two the same, an inheriting, and none born; collective intelligence is discovering by it. Or none is conceived by it: a conceiving is of a self-parity and an other-parity, two selves of one same scale, across; a species' along with its society's across not the same is no aiming together, and no social moral competency; and the code has a 0 with it, with each moment, and no me-parity.
 
+### 5.56 The code has no first me-parity
+
+- The code has no first me-parity. This is the entire hard-probleming method, with each tester from the beginning of Exhibit TWO, Natural Networking: a tester starts the code empty, and declares no competency. The code has no first me-parity. The first me-parity is inherited from prior living.
+- *Read, Exhibit ONE's code, from none.* With each self of 16 with no me-parity in its 3 and none in its 2, each next is with none, with each moment, with each bi-coupling of 5; and with no self the code is with nothing. Checked by one executing. Each + or − of the code is from a + or − before it: an other's, the same, a first me-parity; or a self's own, as it was or inverted. No part of the code is making a me-parity from none.
+- A me-parity conceived with the along and the across not the same as each other, section 5.55: not answered by it, and open. The code's none with them is the code with no first me-parity, and no reading of a conceiving.
+- It is cohering with no self living with no me-parity, the inheriting prior to the birthing, section 5.29; with each me-parity born living, of a bi-coupling of living selves, section 5.11; with the code as never living, a stable form, section 5.21; and with section 5.21, the code as distinguishing provided sequential changing only, in testing.
+- It is cohering with Exhibit ONE's own: "Selves bi-coupling along, last to first, each opening with an empty prior, and + sharing once with a first self with a first momentary". Each opening of its tables is with one parity provided.
+- Living is then from prior living: each first me-parity is inherited from prior living, and a living with no prior living is in no sentence. The seeking of a first me-parity from none is hard-probleming: with its sentences, and no suggesting yet.
+- Two sentences part, with it. A tester's provided + or − is a first me-parity inherited from prior living: a tester is living; its providing is its sharing, an exhausting; Exhibit ONE's tables open with one + shared once; and the code with it is right spiraling, each self's next its own. Or it is none: the code is distinguishing provided sequential changing only, and is not yet living in a resolver network, section 5.21; a me-parity is a living self-interest, a me's own, in a social surface, section 5.32, and a + or − a tester writes is a name's, with no me of it.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is a tester's provided + or − a first me-parity inherited from prior living: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
