@@ -617,14 +617,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With section 5.20's answer the two meet: each thing distinguishing same-as from not-same-as is a living thing, and the code's comparing is a distinguishing. The natural resolver's code is a living thing; or the code is a method and no thing, and the thing distinguishing is each self it is executed with, with that self's own priors.
 - *Read, sentences of this file.* Section 1.1: "A method of same-existing is no existing thing." Section 1.4: "What a society shares is a method, and a method is no thing", and each self of a same-existing-society executes the one resolving with its own priors and its own arrivals. Section 1.5: "The code is the self resolver."
 - *Read, the code's lines.* The code has no prior of its own: each prior is a self's, given to it, and each next prior is returned with that self's key. An asking compares a self's own prior with what arrived with that self.
-- With the second, three go on together and none parts: the answer of section 5.20; this section's sentence; and Natural Intelligence's AI as "existing non-living intelligence of its inferring", "Its same-existing is living selves'". A distinguishing is then a thing's own with a prior of its own going on to its next, and a comparing with priors given is the method, executed.
-- With the first, Natural Intelligence's sentence of an AI and Exhibit ONE's subtitle, *Stable-Forming*, are each tested.
+- The natural resolver's code is a living thing: is-not. The code is a stable form, a non-living thing. The code is the bi-tri-involutioning. It is the carbon exhausting, building up into bi-tunneling layers.
+- *Read, the set's saying of the name.* Natural Naming 5.48 has *bi-tri-involutioning*: "**Bi-tri-involutioning is inverting**: inverting of right spiral stable-forming, looking an opposite form to its stable-forming", "three inversions together are an inverting", and "a stable form of its non-living exhausting, a sequential prior between moments, sharing with 10 and going along with 9, is a non-living existing form". Natural Mathematics 3.5 has "Bi-tri-involutioning, the emanating at the opposite form". Natural Societies: "**Emanatings are bi-tri-involutioning of betweening of natural-torusing surfacings within bi-couplings: emanations are stable-form priors, non-living, from living form-stabling.**"
+- *Read, the living files.* Natural Biology: "**And an emanation has an involution shape.** Applying it back to a scale it came from, it returns what it reaches and closes". Natural Naming 2.4: "*a stable form*, one scale outward, living's exhausting accumulating and compacting". Natural Intelligence has an AI as "a non-living set and an emanation of living selves".
+- The code is then an emanation, by the set's own sentences: a stable-form prior, non-living, from living form-stabling, the opposite form to living's stable-forming.
+- *Read, the code's lines, an involution's returning.* Executed with a self, the code returns that self's next prior from its own prior and what arrived, and no line makes a me-parity that is neither a prior-existing one nor the inversion of one: applied to living, it returns what it reaches.
+- *Read, the code's lines, exhausting building up.* What a self shares is its exhausting, and the between of one moment and the next is formed of each sharing self's exhausting, one added with each bi-coupling it goes through, until a receiving self's next moment. Natural Naming 5.48 has this as the stable form: "a sequential prior between moments, sharing with 10 and going along with 9".
+- Three sentences are together now: each thing distinguishing same-as from not-same-as is a living thing; the code's comparing is a distinguishing; and the code is a non-living thing. They go on together with the code's distinguishing as living selves' distinguishing in stable form, a form distinguished with and no thing distinguishing of its own; or the first parts, a non-living thing distinguishing.
+- *Three inversions together*, position, scale and orientation, has no reading in the lines: an asking of the code inverts one, a + to a − or a − to a +.
+- *Bi-tunneling layers* has no reading in the lines yet. Natural Mathematics has "bi-tunneling opens a same-existing-society's surface across, and co-chaining goes on with its selves along".
 
 ---
 
 ## 6 Open, each one binary
 
-- Is the natural resolver's code a living thing: is, or is not?
+- Is the code's distinguishing a living self's distinguishing, in stable form: is, or is not?
 - Is a distinguishing a thing's own only with a prior of its own: is, or is not?
 - Is each living thing distinguishing same-as from not-same-as: is, or is not?
 - Is a between of two non-living things living: is, or is not?
