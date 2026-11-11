@@ -234,6 +234,8 @@ Gathering-Value · Natural Naming
 
 ### 5.50 four-momentarying — binary
 
+- **An explaining** · 64 is all-parity at the next scale, the universal set of sets: fractal subsetting, cascading. With the 1 to 17 prefixing's eight, 64 is bi-tri-bi, as 8 and 16 are. And the four coruses of one scale, 4, 8, 12 and 16, are 16, 32, 48 and 64 a scale outward: this scale's 16, universal all-parity, is the next scale's 4 — at "16, 32, 48 and 64 are four 16s, each four times its one inward"
+
 ### 5.51 bi-tri-exchanging — binary
 
 ### 5.52 tri-bi-co-momentarying — binary
