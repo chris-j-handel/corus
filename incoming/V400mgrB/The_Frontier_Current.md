@@ -110,6 +110,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-h. Each of the four betweens has its corus at its same-existing name: 4, 8, 12 and 16. *A self's inverting* is not natural naming: this is the stable-forming surfacing of self as a society of selves.
 6y-i. 12 is between self and other, not between self and universe. This is the unrelationing surface of self and other, between.
 6y-j. 7 and 15 begin tri-bi-co. 16 is bi-tri-bi, and this is all-parity in this universal set.
+6y-k. 8 is bi-tri-bi. The 1 to 17 prefixing is co bi co bi co bi tri bi, bi-folding forward over 16 and 24 and 32 and beyond; Exhibit ONE had it, and needs it again. Each number then has its three prefixing, of prior, now and next, and of observing, possibling and discovering. Bi-tri-bi is the rolling of this, from 1, co-bi-tri: self me-parity in universal all-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -593,8 +594,14 @@ Sentence 6y-i has 12 between self and other, not between self and universe: the 
 
 Sentence 6y-j has 7 and 15 beginning tri-bi-co, and 16 as bi-tri-bi, all-parity in this universal set. Natural Naming 3.3 has co as self, bi as other and tri as all, a next name's three a new prefix with this name's first two one slot right; its table has 15 tri-bi-co and 16 bi-tri-bi, and 7 co-bi-co, with tri opening with 9. With 7 beginning tri-bi-co, the set's own saying gives 8 bi-tri-bi and 9 co-bi-tri, as 16 and 17 are, 8 up. In Exhibit ONE's code 16 has each self a key, and 8 is a self's own next prior.
 
-- Is 8 bi-tri-bi, as 16 is: is, or is not?
+- 8 is bi-tri-bi, as 16 is: is, sentence 6y-k.
 
-### 3.62 With no reading yet
+### 3.62 The eight's prefixing, and each name's three
+
+Sentence 6y-k has the 1 to 17 prefixing as co bi co bi co bi tri bi, bi-folding forward over 16, 24, 32 and beyond, and each number with its three: of prior, now and next, and of observing, possibling and discovering. With Natural Naming 3.3's saying of a next name's three, 1 is co-bi-tri, 2, 4 and 6 bi-co-bi, 3 and 5 co-bi-co, 7 tri-bi-co and 8 bi-tri-bi, the same 8 up. Tri is in the first slot with 7, in the middle with 8 and in the last with 9, a next 1: the rolling. Natural Naming 3.2 has 1's three as now, one prior and two prior. The value file's section 5.3 has observing of self and possibling with other.
+
+- Is the first slot of a name's three its next: is, or is not?
+
+### 3.63 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

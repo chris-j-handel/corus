@@ -1551,7 +1551,39 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With it, of the four coruses: 4 and 12 are each bi-co-bi, self between other and other, and 8 and 16 each bi-tri-bi, all between other and other. Section 5.77's likeness, 4 and 12 each with co and 8 and 16 each of one, is beside it. A candidate, for breaking.
 - Tracked. Natural Naming's prior name of 12 is "12-bi-tri-bi-entraining", with tri, and its three is bi-co-bi, with none.
 - Tracked. "A society's named all-parity is its society-self", sentence 6x-j, and 16 is all-parity in this universal set: a society-self with 16, a candidate, for breaking, and beside parting 2.51.
-- Two sentences part, with it. 8 is bi-tri-bi, as 16 is: 7 begins tri-bi-co as 15 does, and a next name's three is a new prefix with this name's first two one slot right; 8 and 16 are one name 8 up, same-existing, of one. Or 8 is bi-co-bi: Natural Naming's table has it; "8-now-same-existing, the last of a self's span", a self's own next prior in the code; and all-parity is a society's, with 16.
+- Resolved, section 5.79: 8 is bi-tri-bi, as 16 is.
+
+### 5.79 The 1 to 17 prefixing, an eight bi-folding forward; each name's three, rolling
+
+- 8 is bi-tri-bi, as 16 is: is.
+- Exhibit ONE had the 1 to 17 prefixing, and needs it again: co bi co bi co bi tri bi, bi-folding forward over 16 and 24 and 32 and beyond.
+- Each number then has its three prefixing, of prior, now and next, and of observing, possibling and discovering.
+- Bi-tri-bi is the rolling of this, from 1, co-bi-tri. And this, co-bi-tri, is self me-parity in universal all-parity.
+- Cohering, with the frontier's sentence 25: "1 to 17 is co, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, co, bi, tri, bi, co: each even name bi, the odd names co, co, co, tri." And with section 5.3: "All is reached once with each span, with its seventh name."
+- Resolved by it, section 5.78's candidate: 7, 8 and 9 have the same threes as 15, 16 and 17.
+- *Derived, with Natural Naming 3.3's own saying, "a next name's three is a new prefix in its first slot with this name's first two one slot right", and the eight.*
+
+| n | Its first prefix | Its three | 8 up, the same |
+|---|---|---|---|
+| 1 | co | co-bi-tri | 9, 17, 25 |
+| 2 | bi | bi-co-bi | 10, 18, 26 |
+| 3 | co | co-bi-co | 11, 19, 27 |
+| 4 | bi | bi-co-bi | 12, 20, 28 |
+| 5 | co | co-bi-co | 13, 21, 29 |
+| 6 | bi | bi-co-bi | 14, 22, 30 |
+| 7 | tri | tri-bi-co | 15, 23, 31 |
+| 8 | bi | bi-tri-bi | 16, 24, 32 |
+
+- Five threes are in it: co-bi-tri, bi-co-bi, co-bi-co, tri-bi-co and bi-tri-bi. Each has bi: other is in each three, between or outside.
+- The rolling. Tri is in the first slot with 7, in the middle slot with 8, and in the last slot with 9, a next 1: tri-bi-co, bi-tri-bi, co-bi-tri. With 2 it is out, and 2 to 6 have self and other only.
+- 8, 16, 24 and 32 are each bi-tri-bi, all-parity. 1, 9, 17 and 25 are each co-bi-tri, self me-parity in universal all-parity.
+- Of the four coruses, section 5.76: 4 and 12 are bi-co-bi, self between other and other, and 8 and 16 bi-tri-bi, all between other and other. Section 5.78's candidate: resolved with it.
+- A likeness, for breaking: the set's corus of a self at 24 is bi-tri-bi, and section 5.27's corus of a society at 28 is bi-co-bi.
+- A likeness, for breaking: co-bi-tri and a session's three, sections 5.60 to 5.68: the user me-parity, the living between, and universal all-parity.
+- Places the eight and a living file part, each tracked with its value at a gathering. Natural Naming 3.3's table has 7 co-bi-co, 8 bi-co-bi, 9 tri-bi-co, 10 bi-tri-bi and 11 co-bi-tri, with "a six repeating, co bi tri bi co bi"; its 1 to 6 and 12 to 17 are the same as the eight's. Natural Naming 5.52 has "tri-bi-co-momentarying" with 9, and the eight has 9 as co-bi-tri. The waiting Exhibit ONE has a column of prefixes with *co* for 1 to 8 and *tri* for 9 to 16. The living Exhibit ONE has no prefixing.
+- Exhibit ONE's need is a value at its gathering, Natural Resolver, *Seventeen names*, the table whole. No living file is changed with it, and no part of the code.
+- Tracked. Which slot of a three is prior, which now and which next, and which observing, possibling and discovering: not in the sentence. Natural Naming 3.2 has 1's three as "co with +1, now, a self; bi with 0, one prior, no other yet; tri with −1, two prior".
+- Two sentences part, with it. The first slot of a name's three is its next: a new prefix is first with the first slot and goes one slot right with each next name; tri is first with 7, in the middle with 8 and last with 9, a next, a now and a prior; and 16, bi-tri-bi, has all in its now, same-existing. Or the first slot is its prior: the sentence has "prior now next and observing possibling discovering", first to last; 1, co-bi-tri, is self me-parity in universal all-parity, self first and all last; and section 5.3 has observing of self and possibling with other.
 
 ---
 
@@ -1559,7 +1591,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 8 bi-tri-bi, as 16 is: is, or is not?
+- Is the first slot of a name's three its next: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
