@@ -117,6 +117,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-o. 8 is the between of the bi-coupling and the universe. The bi-coupling self owns this between.
 6y-p. 64 is all-parity at the next scale, the universal set of sets. This is fractal subsetting, cascading.
 6y-q. 4 is the between of self and other, and for the me-parity of self this is other-parity.
+6y-r. 4 is between me-parity and other-parity. 8 is between other-parity and all-parity. 12 is between other-parity and me-parity. 16 is between me-parity and all-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -636,8 +637,14 @@ Sentence 6y-o has 8 as the between of the bi-coupling and the universe, owned by
 
 Sentence 6y-q has 4 as the between of self and other, other-parity for the me-parity of self. Sentence 6y-i has 12 between self and other, the unrelationing surface of self and other. 4 and 12 are one name 8 up, 4-now-co-same-existing and 12-next-co-same-existing, each bi-co-bi. In Exhibit ONE's code a 4 is with each me-parity, a self's own and its others' with it, and no one self's; 12 has a 0 with the two the same, and is the self's sharing, 10. The opening's waiting sentence has "A me-parity the same as an other's is other-parity".
 
-- Is 12, as 4 is, other-parity for a self's me-parity: is, or is not?
+- 12 as other-parity, as 4 is: re-said. 12 is between other-parity and me-parity, sentence 6y-r.
 
-### 3.68 With no reading yet
+### 3.68 The four coruses, betweens of two parities
+
+Sentence 6y-r has 4 between me-parity and other-parity, 8 between other-parity and all-parity, 12 between other-parity and me-parity, and 16 between me-parity and all-parity. With me-parity and other-parity exchanged, 4's between is 12's and 8's is 16's. In Exhibit ONE's code a self's sharing, 10, is its receiving self's 15 and then its 2; 12 is first its others' with it and then its own. With the eight, sentence 6y-k, 9 to 16 has the same prefixes as 1 to 8, and 16's three, bi-tri-bi, has other and all in it.
+
+- Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
+
+### 3.69 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
