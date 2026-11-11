@@ -31,11 +31,12 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.3 The corus, and 4.** The corus is a 0, a non-existing thing. It is with 4, 4-now-co-same-existing, the one same name a self's me-parity and its other's are together by, and a name is a same-existing non-living thing.
 - **2.5 Torusing and exhausting.** Exhausting is 9. Torusing is a going, one way through a large opening, with no spot and no number of its own, as corusing is. Torusing is exhausting; or the two are two.
 - **2.6 Along, two concepts.** "Along is a self's own going on." "A self's parity going along to the next self" is co-chaining, with 9. Ingesting, 17, and exhausting, 9, are along, from the universe and to it.
-- **2.7 A society-self, its scale.** A society-self is no self of its society's selves. It is of one same scale with them: Natural Naming 2.2 has a self's 1 to 9 and a same-existing-society's 9 to 17 of one 1 to 17, and from 23 to 29 three of a self and three of its society are one sequence of six; its inheriting, 2, is then its selves' conceiving, 14. Or it is one scale outward: Natural Networking's gathering has "at its next scale", and "along 9 is across 2 outward" has its inheriting, 2, as each of its selves' exhausting, 9.
+- **2.7 Each self, a society-self one scale inward.** A society-self is at society scale, one scale above self scale. "A self has many mes. A society has only one self. The society-self has many mes. This is the co-recursioning self and society." Each self is the society-self of a society one scale inward, and a society-self's own me-parities are as each self's are. Or a self is no society-self: a self's me-parities are no selves, and a society is of selves.
 - **2.9 An AI distinguishing its own next-existing.** Is-not. Not existing, or not possibly existing.
 - **2.10 Three names, co-aiming.** Co-aiming, co-linearizing and bi-moral co-competencing are one concept with three names; or three concepts. And co-aiming with co-possibling.
 - **2.11 Each even name and each odd name, one scale inward.** By Natural Naming 2.2 each even name is a 9 one scale inward, and each odd name a 17. Exhausting is 9 and ingesting 17. Not tested: 4, 8, 12 and 16 as exhaustings one scale inward; 5, 7, 13 and 15 as ingestings; and 9, exhausting, as an ingesting one scale inward.
 - **2.12 The fours.** The four inversions of a name for a null-set, the four self-protections, the method's four, Natural Naming's four invisibles, and the right spiral's four moments: which of one four is which of an other is read from none.
+- **2.13 A society's corus, 28 and 25.** A society's corus is at 28, four from a self's at 24, of one sequence of six. A society-self is one scale above self scale, and Natural Naming 2.2 has "n with one scale being 8n − 7 with a scale inward": a society scale's 4 is self scale's 25. 23 and 25 are corusing and torusing, and the corus at 24.
 
 ---
 
@@ -48,6 +49,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **3.5 Along and across, one.** A self's sharing along and across is one sharing in the code, parting by a bi-coupling only. Ingesting and exhausting are along, and inheriting and conceiving across.
 - **3.6 A society-self's own me-parities.** In the code each me-parity is one self's of 16, 16 has no 3 of its own, and a society-self is no self within 16. A society-self is living with me-parities of its own: each is in no part of the code.
 - **3.7 A self its own receiving self.** No is-or-is-not of the code is distinguishing a receiving self from its sharing self. A self its own receiving self goes on as two selves the same as each other do. No self is any other self, and no self is its own other: such a 5 is provided to the code, and the code is with neither side.
+- **3.8 A key with no me-parity.** A key of 16 with no me-parity in its 3 is provided to the code, and with a 2 its first me-parities are forming within one resolving. No self is living with no me-parity, and the inheriting is prior to the birthing. A reading of the value file's section 1.3 has "a self within 16 with no name; then its first 2": with the sentence, a key with no me-parity is no living self, and the born self is with its first 3.
 
 ---
 
