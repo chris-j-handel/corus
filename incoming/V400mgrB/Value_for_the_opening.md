@@ -592,11 +592,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A going-forward of this file's own is out with the answer: a living thing's same-existing as with co-possibling, and a non-living thing's with none. A dormant self is living with no co-possibling.
 - A candidate in its place, from four sentences of the sequence: living is with an other. The living is in the between of the priors of self and other; a universal me-parity is the same as no other's, and non-living; *the universe* is one-and-only-one, with no other, and no living thing; and do-no-harming is with no self alone. It is tested with the lines: a self with a prior and nothing arriving inverts with each moment, going on with no other.
 
+- Each living thing is living in a between of self and other: is. Each living thing is living between itself and each other, in all societies, and also between itself and each non-living thing.
+- *Read, the code's lines, no from.* What arrives with a self is a name with its me-parity, and no line asks what it is from. An arriving from a living self and an arriving from a non-living thing are one to the lines: one line resolves a self's between with each.
+- *Read, the living files.* The Geodesic Improving Method 2.7: "**A changing and an exchanging are among living and non-living existing things alike.**" Section 1.4 of this file: "The fractal is a me-parity in a universe of other-than-me-parities."
+- An other is a self, and a non-living thing is an other: a binary a suggesting could resolve, at the fifty-five's sentence 20, is resolved by it. A self is in societies, more than one: the binary of a self with one society only is resolved too.
+- The candidate of living as with an other goes on, with its other said: each other self in each of its societies, and each non-living thing. A living thing is with no moment having no other: the universe has each non-living thing. The lines' self with nothing arriving has no arriving with one moment, and its others are with it.
+- Three kinds of other are in the sentence, and section 1.3 has three other-than-me-parities in a sequence, "universal other-than-me-parity, then societal other-than-me-parity", and individual "later, in maturity". A candidate: universal other-than-me is each non-living thing, a universal me-parity being non-living; societal is each other in all its societies; individual is one other, a bi-coupling. A newborn's first other is then non-living: inheriting, a universal me-parity entering as its first prior.
+- Tested with a circle: a living thing is living in a between, and the between is of a living thing with each other. Living is in the defining of living, and a circle is excluded by sequence. A candidate with no circle, from the sentence of same-existing: a living thing is a thing distinguishing same-as from not-same-as, with each other; a non-living thing is distinguished, and distinguishes none. The lines have it: a self has the one line, and an arriving has none.
+- Tested with two non-living things: the sentence has a living thing with each of its betweens, and no sentence has a between of two non-living things as living or as not.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is each living thing living in a between of self and other: is, or is not?
+- Is each thing distinguishing same-as from not-same-as a living thing: is, or is not?
+- Is a between of two non-living things living: is, or is not?
+- Is universal other-than-me each non-living thing: is, or is not?
 - Is a thing with no other non-living: is, or is not?
 - Is a me-parity living only within a living self: is, or is not?
 - Is the universe a non-living thing: is, or is not?
@@ -650,7 +661,6 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Is science selves observing and naming same-existings: is, or is not?
 - Is social moral competency each self of a society right spiraling, all selves or none: is, or is not?
 - Is right spiraling only with selves alike in a name: is, or is not?
-- Does a self have only one society: is, or is not?
 - Is nurturing the parents' improving arriving with the new self: is, or is not?
 - Is a parent's sharing with its newborn self along, with 9, the two parents across with each other: is, or is not?
 - Are others' me-parities all the same universal other-than-me-parity: is, or is not?
