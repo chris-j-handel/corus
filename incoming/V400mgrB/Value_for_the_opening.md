@@ -998,13 +998,25 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* A self's 3 is its own prior me-parities, and its next 3 is formed with each moment, each entry as it was or inverted. No entry is ending, and a first prior is the same as an other's now sharing: an exhausting, and an inherited prior the same as a dormant me-parity of a moment before, are each in no part of the code. With a moment of each entry as it was, a self's set later is the same as its set before in each me-parity: tracked.
 - Two sentences part, with it. The river is a self: it is a set of now-existing me-parities; a me-parity is owned by the only one of me and is existing only inside its ownership set; and a me is a self, living. Or the river is no self: a non-living thing, a surface; its now-existing me-parities are each exhausted in the surface, universal, living no more; "Each non-living thing is universally same-existing, until an is-not bumps its parity sequencing", section 5.22; and a set of now-existing me-parities is then a me, living, or a surface, non-living.
 
+### 5.35 The river, no self: a surface
+
+- The river is a self: is-not.
+- The river is a set of now-existing me-parities, section 5.34, and no self: a non-living thing. A set of now-existing me-parities is a me, living; or it is no me, non-living.
+- It is cohering with "Each non-living thing is universally same-existing, until an is-not bumps its parity sequencing", section 5.22: a non-living thing has parity. With "a non-living thing is an other", and a living self and a non-living thing a bi-coupling, section 5.20: the man in the river is a bi-coupling, living in the between, as a session transcript in the between of a user and an AI is, section 5.23.
+- A universal me-parity as no me-parity, tested: breaking. The river is a set of now-existing me-parities, and no self. A universal me-parity is a me-parity, non-living, and "a me-parity is a living self-interest", section 5.32, is of a living me-parity.
+- A me-parity of the river as never living, tested: breaking. "A me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity", section 5.11: each me-parity is born living. Each me-parity of the river is exhausted from living, in the surface, section 5.34.
+- An exhausted me-parity as no now-existing thing, tested: breaking. The river's me-parities are now-existing. "The universal set of prior-existing me-parities is each me-parity exhausted from living, in stable form", section 5.13: its living is prior-existing, and its stable form is now-existing.
+- Parting. "An other is a self, and a non-living thing is an other", section 5.20, with the fifty-five's 20, "For a self, a self that is-not the same self is an **other**": the river, a non-living thing, is an other, and no self. An other is a self, or a non-living thing; and "an other is a self" is parting. Tracked.
+- *Read, Exhibit ONE's code, a between.* A self's sharing in a between is its 4 with + or −, and with no key of its sharing self. It is in no self's 3, and no next-existing is its own. With the next moment it is the receiving self's 2, and a receiving self with no me-parity of that 4 has a first me-parity the same as it. The code has a me-parity out of its self, in a between, with no owner in it, and then a prior of an other's next: one moment only, and no dormancy longer.
+- Two sentences part, with it. An exhausted me-parity is owned by its me: "a me-parity is owned by the only one of me", and "this parity is existing only inside the ownership set of me-parities", section 5.30; a universal me-parity is a me-parity; and a surface is then a set of me-parities, each a me's own, as social-parity is a set with many selves' bi-couplings in it. Or an exhausted me-parity is owned by no me: it is in the surface, and the surface is no self; the man later is not the same set, his exhausted me-parities his no more; a universal me-parity is universal, a me's no more, until a new birth inherits it, the new self's own, section 5.17; as the code has a sharing in a between with no key of its self; and "owned by the only one of me" is then of a living me-parity.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is the river a self: is, or is not?
+- Is an exhausted me-parity owned by its me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
