@@ -462,11 +462,25 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the code's lines.* One self has a name for each me-parity within its 3 and its 2. Each other now-existing me-parity of 16, each other self's own prior among them, is with no name of that self.
 - (a) It goes on with the fractal: a name's things, and each other now-existing thing, are the universe, one is-or-is-not through it. (b) It goes on with a born thing as of the more until its naming, and with discovering as naming a thing of the more. (c) It parts from "Each now-existing thing is a same-existing thing": a thing of the more is now-existing and not named, and sameness is of a name. (d) The more is things and no set: it has no name of its own. (e) *Universe* is a name, and it owns each now-existing thing: with that name no now-existing thing is not-named, and the more is none. *Not-named* is then of one name, each thing that name does not own; or of each name, and the universe has no more.
 
+### 5.15 A named subset, the universe to a bi-coupling
+
+- *The universe* is one name, owned by one set, and no other set has it. Each subset of the universe is a named subset, missing some elements of the universe, and this is the universe to a bi-coupling: self, other, and all other-than self and other. This is society, in the universe of more than this.
+- *Read, the living files.* The Co-Chaining Logic Registry's step 9: "Only one universe is possibly same-existing." Natural Naming: "**The universe is the set of all now-existing things.**" Section 1.2: a naming is a same-existing universe within the universe, a subset of the universal set. Section 1.1: each three is in a fourth, its universe; self, other and all are one same scale, and their universe is one larger scale.
+- *Read, the code's lines, the whole of a resolving.* 17 is given 16 and 5, and no more. Each sharing is from a self of 16, and 14 has a key for each self of 16 only: no line has a sharing arriving from a self not of 16, and none going to one. With each resolving within it, 16 is the whole.
+- *Read, the code's lines, three within 16.* With one self and one moment: its own 3; its 2, from each self 5 has it with, across with 6 and with 10, along with 9; and each other self of 16, with no line between the two with that moment. Self, other, and all other-than self and other, each of 16, the fourth.
+- *Read.* No line has a thing not of 16: 16 and 5 are each given to the code.
+- (a) It goes on with "a set without a name is-not possibly existing": each subset is a named subset. (b) The more of a name is each now-existing thing that name does not own: is, with each name but *the universe*, each missing some elements. *The universe* has no more, and *not-named* is of one name: no now-existing thing is with no name. (c) It goes on with each three in a fourth: self, other and all, and society the fourth. (d) It goes on with "a society-self is a nothing": society is self, other and all, and nothing beside them.
+- Two are at one edge: "a universal set names the place the no more begins", and society "in the universe of more than this". By the lines, nothing not of 16 arrives with a self of 16. No more is then of what arrives with a bi-coupling, and more is of what is now-existing.
+- *The universe* is one name, and "the universe to a bi-coupling" and "a same-existing universe within the universe" each have the name with a subset. A candidate for the second naming: *a universal set*, the named subset that is the whole to each bi-coupling within it. Its named things are self and other, its more is all other-than self and other, and its name, society, is the place the no more begins.
+- With one scale outward, a society with an other society and all other societies in a fourth: the sentence has "the universe of more than this", and no sentence has the step.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is the more of a name each now-existing thing that name does not own: is, or is not?
+- Is society the universal set of a bi-coupling, self and other its named things and all other-than self and other its more: is, or is not?
+- Is no more of what arrives with a bi-coupling, and more of what is now-existing: is, or is not?
+- Is a society, with an other society and all other societies, in a fourth one scale outward: is, or is not?
 - Is do-no-harming same-as: is, or is not?
 - Is a not-possibly-existing a thing needing both sides of one is-or-is-not with one moment: is, or is not?
 - Is each of the four threats an unchangeable form laid on a self from beside: is, or is not?

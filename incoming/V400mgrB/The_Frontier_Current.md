@@ -15,6 +15,8 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 3. A set without a name is not possibly existing. A set with its own name is the now-existing things its name owns, and nothing beside them.
 4. A name for a null-set is nothing; not a thing; no thing; and no other thing is this. These four inversions assure social moral competency inside a living thing, with non-living things inside the living.
 5. Universal is each same-existing thing and more: the named things, and the more. The more is the not-named now-existing things. A universal set names the place the no more begins.
+5a. *The universe* is one name, owned by one set, and no other set has it. Each subset of the universe is a named subset, missing some elements of the universe: the more of a name is each now-existing thing that name does not own, and *the universe* has no more.
+5b. A named subset is the universe to a bi-coupling: self, other, and all other-than self and other. This is society, in the universe of more than this.
 6. Same-as is a universal-morality: a name for a sameness in things distinguishable is-or-is-not.
 
 ### 1.2 A self
@@ -64,6 +66,7 @@ Each is from reading the code line by line.
 - **Beside 2.** No line changes a name. One name is with many selves, and each me-parity with it is one self's own.
 - **Beside 13 and 18.** A next me-parity is one of three: its prior as it is; its prior inverted; or, with no prior, what arrived. No line makes a me-parity that is neither a prior-existing one nor the inversion of one.
 - **Beside 19.** Within one resolving, in sequence: what arrives surfacing, ingesting; a name with no prior having what arrived, inheriting; a prior not the same as what arrived, inverted, conceiving; what the self shares, exhausting.
+- **Beside 5b.** One resolving of a society is given its selves and their bi-couplings, and no more: each sharing is from a self of it to a self of it, and no line has a thing not of it. With one self and one moment, three are within it: the self's own priors; what arrives, from each self it is bi-coupled with; and each other self, with no line between the two with that moment.
 - **Beside 22.** The set of selves has nothing of its own: no line has a name with a me-parity of the society's.
 - **Beside 23.** Two selves alike in a name have four moments in sequence: improving, do-no-harming, improving inverted, do-no-harming. Two not alike each invert with each moment. Do-no-harming has no line for one self alone, and improving has one.
 - **Beside 24.** Each of four threats is on no line: no line gives a self an other's prior; what arrives has no from; no line changes a self's prior but its own resolving; and an arriving is its me-parity and nothing beside.
@@ -79,12 +82,14 @@ Sentence 3 has a set as its name's things and nothing beside them. Sentences 7 a
 
 - Is a living thing a self, with *thing* in it the name and no thing beside the self's now-existing things: is, or is not?
 
-### 3.2 Sameness, of a name
+### 3.2 Sameness, of a name; and a universe to a bi-coupling
 
-Sentence 2 has sameness as a name's. Sentence 5 has now-existing things with no name, the more. "Each now-existing thing is a same-existing thing" has each with sameness. A born thing has no prior the same.
+Sentence 2 has sameness as a name's. Sentence 5a has each now-existing thing with a name, *the universe* at the least, and each other name with a more. "Each now-existing thing is a same-existing thing" has each with sameness, and a born thing has no prior the same. Sentence 5b has the name *universe* with a subset, and sentence 5 has a universal set naming the place the no more begins, with society "in the universe of more than this".
 
-- Is a not-named now-existing thing same-existing: is, or is not?
-- Is the more of a name each now-existing thing that name does not own: is, or is not? With *universe* a name owning each now-existing thing, the more of that one name is none.
+- Is society the universal set of a bi-coupling, self and other its named things and all other-than self and other its more: is, or is not?
+- Is no more of what arrives with a bi-coupling, and more of what is now-existing: is, or is not?
+- Is a society, with an other society and all other societies, in a fourth one scale outward: is, or is not?
+- Is a born thing, of the universe and with no prior the same, same-existing: is, or is not?
 
 ### 3.3 Universal, with the same and with the not the same
 
