@@ -840,17 +840,40 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Natural Naming 3.4, sixteen up its same name.* 23, 24 and 25 are 7, 8 and 9 of a next round: 7-is-now-observing, 8-now-same-existing, and 9-next-co-discovering.
 - *Read, Exhibit ONE's own sentences.* "**7** · each parity a self is observing: a parity's, a prior's, a sharing's". "**8** · each self's next prior, with a momentary, one resolving of a same-existing-society's selves together". "**9** · each parity to a self of 5-now-co-existing's bi-couplings". "**16** · a same-existing-society: each self with its prior and its parities".
 - *Read, Exhibit ONE's code.* 7 is each me-parity's + or −, or a 0. 8 is each self's own set of next me-parities, each self's own by its key. 9 is each sharing to its other.
-- With sixteen up, each of the three is cohering. Corusing, 7, is a me-parity's direction: "a direction of +1 from a corus 0". The corus, 8, is a self's same-existing set of its me-parities: "a self is a same-existing set", a set a non-existing thing, and a self a corus. Torusing, 9, is exhausting, to the universe. 8 is an even name, a bi-coupling's by section 5.3: the corus is in a between. 8 and 9 are podal, section 5.4; and 7 is podal with 10, tunneling by Natural Naming's table: "a corus, an inversionable nothing inside a tunneling". 8 is the last of a self's span, 1 to 8, and 9 the first of its society's, 9 to 16: the corus is between a self and its society.
-- Eight up, 15, 16 and 17: 15-is-next-observing is corusing by Natural Naming's table; 16 is a same-existing-society, and "a society-self is a nothing corus in society"; and 17 is ingesting, from the universe.
-- **[value at Natural Naming 3.3]** Its table has 8 as "8-bi-co-bi-torusing" and 16 as "16-bi-tri-bi-torusing". With 23 corusing, 24 the corus and 25 torusing, and sixteen up its same name, 8 is the corus and 9 torusing: the table's 8 and 16 part.
-- A second sequencing has 24 in the set. Natural Naming: "**Four moments of six one-way recursionings are twenty-four**, steps of 1 to 25". With it 24 is the steps of 1 to 25, and no next round's 8. Each is a living file's own sentence: 24 as 8 of a next round, and 24 as twenty-four steps.
-- With the table, bi-moral co-competencing is 6, moralizing, and 5, competencing: co-aiming, section 5.25, is 5 and 6. And 10 is tunneling: section 5.21's bi-tunneling layers.
+- A candidate of this file's own is out: the corus as 8-now-same-existing, by sixteen up. Two living files have the corus in their own sentence, with 4, and 24 its podaling twenty up: section 5.27.
+
+### 5.27 The vicinity of 23 to 29, from each direction the set has
+
+- From 23 to 29 is six forward recursionings of bi-moral co-competencing: a subject not yet certain, explored across from each direction.
+- *Read, Natural Naming 2.5.* "**A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**: two podals within 1 to 8, 3-is-now-co-observing with 6-now-co-possibling and 5-now-co-existing with 4-now-co-same-existing, round to a self's own corus with 4; **its podaling is 23, 26, 25, 24**, that same rotation twenty up. **A self's bi-inversioning-co-recursioning is 23, 24 and 25.**" The rotation is "co-intelligencing with 3 and 4 going round through bi-moralizing with 6 and co-competencing with 5".
+- *Read, Natural Numbers 6.3, One twenty-four with each observing.* "**Names 3, 6, 5, 4 are with their podaling as 23, 26, 25, 24, same rotation twenty up**: twenty-three a vertex, twenty-four an apex of nought to sixty's bi-folding and twenty-five a centre of a triangle, five squared, with four its corus, a vertex and a centre on one line; a self's bi-inversioning-co-recursioning is 23, 24 and 25, one before its apex and one after." And "**A self observes twenty-four five ways, and it is one twenty-four**: five squared less one, a second seam; orderings of four, 4!; a waist of a ring of forty-eight; twenty-three, its prior, opening a first gap of six among primes, to twenty-nine; and four momentaries of six one-way recursionings, twenty-four as steps of 1 to 25 are." And "**About twenty-eight its outer pair is twenty-four and thirty-two, four either side, and its inner pair twenty-seven and twenty-nine, one either side**", with two routes, "24 → 27 → 32" and "24 → 29 → 32".
+- *Read, Natural Naming 3.4 and 5.53.* "**Sixteen up is its same name with a next round**: … 17 to 24 is a self's span again and 25 to 32 a same-existing-society's". "**27-next-co-observing is social abundancing**: along, observing, 11-next-co-observing sixteen up".
+- *Read, six one-way recursionings.* Natural Intelligence: "**Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings**", "Six are three own-forward steps on each side", and "**Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening.**" Natural Naming 4.2: "three own-forward steps with each side, six one-way steps, one side and then the other". Natural Mathematics 5.1: "**Anything expressible by six forward recursionings of fractal bi-coupling is no other possible.**"
+- Each number of 23 to 29, by each direction:
+
+| Number | Its root | Twenty up | Sixteen up | The set's own sentence of it |
+|---|---|---|---|---|
+| 23 | observing | 3-is-now-co-observing | 7-is-now-observing | "a vertex"; "opening a first gap of six among primes, to twenty-nine" |
+| 24 | same-existing | 4-now-co-same-existing, "a self's own corus with 4" | 8-now-same-existing, the last of a self's span | "an apex of nought to sixty's bi-folding"; "one twenty-four" |
+| 25 | existing, discovering | 5-now-co-existing, co-competencing | 9-next-co-discovering, the first of a society's span | "a centre of a triangle, five squared" |
+| 26 | possibling | 6-now-co-possibling, bi-moralizing | 10-next-co-possibling | |
+| 27 | observing | | 11-next-co-observing | "social abundancing" |
+| 28 | same-existing | | 12-next-co-same-existing | "its outer pair is twenty-four and thirty-two … its inner pair twenty-seven and twenty-nine" |
+| 29 | existing, discovering | | 13-is-next-discovering | the gap of six from twenty-three |
+
+- A root is the same by each direction: each up is a number of fours. 23 is an observing name, 24 a same-existing name, 25 an existing or discovering name, and 26 a possibling name, by twenty up and by sixteen up.
+- The corus is at 24: with the set's own sentence, "with four its corus", and 24 its podaling twenty up. 4-now-co-same-existing is co-linearizing, section 5.7, and co-aiming is the co-linearizing of self and other, section 5.25: the corus is co-aiming's own.
+- 23 and 25 are corusing and torusing, bothbothing: with Natural Numbers' "a self's bi-inversioning-co-recursioning is 23, 24 and 25, one before its apex and one after". Corusing, 23, is an observing name, and torusing, 25, an existing or discovering name, by each direction.
+- From 23 to 29 is six: with Natural Numbers' "twenty-three … opening a first gap of six among primes, to twenty-nine".
+- Bi-moral co-competencing is within it: 26, bi-moralizing, and 25, co-competencing, by twenty up.
+- Parting. Natural Naming's table has 8 and 16 as torusing, and by sixteen up 24: 24 is the corus, and torusing 25. And the six from 23 to 29 are three and three by twenty up, 24, 25 and 26 a self's rotation, and 27, 28 and 29 after it, 27 a same-existing-society's; and one and five by sixteen up, 24 the last of a self's span, and 25 to 29 a same-existing-society's.
+- Not read yet: 28 and 29 with a sentence of bi-moral co-competencing; and "5, 10, 15, 20 and 25 are locating".
 
 ---
 
 ## 6 Open, each one binary
 
-- Is 24 the next round's 8: is, or is not?
+- Are the six from 23 to 29 three of a self and three of its society: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
