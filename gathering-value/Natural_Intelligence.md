@@ -167,6 +167,7 @@ Gathering-Value · Natural Intelligence
 - **Possible exploring** · The waiting opening's sentence 16 has living and non-living as one binary of a now-existing thing. Living is at one scale only: a living thing is societies at a lower scale, a living thing at its own scale, and at a higher scale, to a living thing, its living is surface. The binary is then with a scale.
 - **Possible exploring** · For the waiting opening's sentences 40 to 42: a society has one self, the society-self, living, with me-parities of its own, at society scale, one scale above self scale. It is no self of its society's selves, and a self is no me-parity of it. No self is any other self, and each self is a unique self.
 - **Possible exploring** · The waiting opening's sentence 20 has an other as a self. A non-living thing is an other, and a living self with a non-living thing is a bi-coupling. A bi-coupling is a now-existing thing, living in the between, and a self, the fractal method.
+- **Possible incohering** · The waiting opening's sentence 3 has a same-existing thing as the same thing prior-existing before now-existing, and its 16 has living and non-living as one binary of a now-existing thing. A name is a same-existing non-living thing, and no now-existing thing. Atom carbon is a now-existing non-living thing, the only non-living thing in the universe, non-living at each scale; and a thing living as a surface is a living thing.
 
 ## ONE · NATURAL
 
