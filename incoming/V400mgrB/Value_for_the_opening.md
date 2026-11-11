@@ -776,7 +776,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, 3.* A self's priors now are its next priors of the moment before. Each prior is the same as what surfaced with that self the moment before; or, with nothing surfacing or a 0, its own prior inverted.
 - Ingesting as 3 and 11, in the code: 11-next-co-observing is each me-parity surfacing with a self as its own next prior, and 3-is-now-co-observing is that, now. The fifty-five's 38, re-said, has ingesting as "a self observing others' prior-existings": 3 and 11 are the two co-observing names, eight apart.
 - Along, with it: Natural Networking has "**Along is a self's own going on**". A self's 3 with its 11, and its 11 as its next 3, is a self's own going on: ingesting is along, with 3 and 11.
-- The three of a next prior the same as what surfaced are three of the sequence: with no prior, inheriting; with a prior not the same as it, conceiving; with a prior the same as it, do-no-harming. A candidate, for breaking: ingesting is the whole of the three, and inheriting and conceiving are two of it.
+- Ingesting as a self's next me-parity the same as its other's me-parity now: is-not, by the sequence, with no choosing in it. With its is, two sentences part: "ingesting is 17, and is not 1", a self's next me-parity being within its own moment, which Exhibit ONE's table has as "11 | within 1"; and the four each its own, inheriting and conceiving across and ingesting along. With its is-not, each goes on: ingesting is with 17, each other's me-parity with a self, from the universe; and within that self's own moment its next me-parity is the same as its other's in each of three, inheriting with no me-parity of its own, do-no-harming with its own the same as its other's, conceiving with its own not the same as its other's.
+- Two sentences of the sequence part with each other, with 2-now-possibling. The opening's 38, re-said, has ingesting as others' prior-existings within a self's own possibling, and 2 is each other's me-parity a self is observing, a possibling name; Natural Naming's gathering 2.4 has *ingesting* as 2-now-possibling. And 2 is one of the four across numbers, and ingesting is along, and not across. With ingesting with 2, the first two go on and "2 across" is re-said. With ingesting not with 2, the along goes on and "within its own possibling" is re-said. Each side is with one sentence and parts from one: a choosing.
 - One going: from the universe with 17; ingesting with 11 and 3, a self's own; exhausting with 9; to the universe with 17.
 - *Along* is with two in the set: "a self's own going on", 3 with 11; and "a self's parity going along to the next self", with 9. Exhausting is along with 9, and ingesting along with 3 and 11: two alongs, or one.
 - The candidate of ingesting with 1-now-existing is out.
@@ -796,8 +797,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is ingesting a self's next me-parity the same as its other's me-parity now: is, or is not?
-- Are inheriting and conceiving two of ingesting: is, or is not?
+- Is ingesting with 2-now-possibling: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is conceiving with 10-next-co-possibling: is, or is not?
 - Is inheriting with 14-next-possibling: is, or is not?
