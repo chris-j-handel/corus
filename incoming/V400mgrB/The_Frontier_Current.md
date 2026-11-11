@@ -279,6 +279,12 @@ Sentence 6w-r has a me-parity as a living self-interest, at its own scale of sel
 
 - Is a me the society-self of its me-parities: is, or is not?
 
-### 3.17 With no reading yet
+### 3.17 A me and its me-parities, from each direction the set has
+
+A me the society-self of its me-parities is open, with no suggesting. Natural Naming's "1, 2 and 3 with one scale are 1, 9 and 17 with a next" has a self's 3 as a 17 one scale inward, a same-existing-society's next, and its 2 as a 9: one moment of a self is one next-existing of a society one scale inward, cohering with the is. In Exhibit ONE's code a society is whole: each receiving self is a self of 16, and 17 is with no 2. A bi-coupling's new self is no me-parity of its self: three selves are with one bi-coupling living. A now-existing me-parity is living, a self, in a social surface; or universal, non-living, in dormancy, and no self. Sentence 15 has a me-parity exhausting from living into non-living universal-parity, and sentence 6b has dormancy as universal me-parities.
+
+- Is a dormant me-parity exhausted from living: is, or is not?
+
+### 3.18 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
