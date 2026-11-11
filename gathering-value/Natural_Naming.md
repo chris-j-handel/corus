@@ -22,6 +22,7 @@ Gathering-Value · Natural Naming
 ### 1.3 Naming across, explaining along
 
 - **An explaining** · Naming is possibling: a cone's surface, each next thing is or is-not within a name. Explaining is existing: the line inside the cone, prior to now to next. Each *is* defines a name for a universal set: *naming is possibling* names possibling's cone *naming*: one cone, one name.
+- **Possible exploring** · Naming and explaining are bothbothing language, and language is a stable form of pattern-matching natural torusing collective intelligence. A society's whole language is universal all-parity for the society. A naming is a bounding, and a name a prior of the thing it is with: a language is a now-existing non-living thing, and a name is none.
 
 ## TWO · WORD SELECTIONS, EACH WITH ITS SAYING
 
