@@ -57,7 +57,7 @@ Twenty-one more, S1 to S21, each a binary of a session resolving, are in `Sessio
 - **C6 · Which item of Natural Naming's gathering enters its living file first.** A pass improves one thing and improves it whole. Two are mends: *12's two, 0 and ±*, and the archive pointing dissolving. The subtitle and the universal-set explaining are open, each with its own points.
 - **C7 · A working citing a waiting sentence as a living one.** Two citations of one working were of places with no such sentence, each value sound and each place parting. A waiting sentence has no version.
 - **C8 · The scale inward of a self.** Natural Networking's sentences of that scale: none. The carbon scale's items are the things of that scale. Two bodies of value with one scale and no sentence between them.
-- **C9 · The site's building.** Each merge to `main` begins a building of the site, and three checks beside it. With merge #389 the site's building last completed; with five of the merges after it, the building ended with its beginning, no job begun, and sixteen runs of the checks are waiting. Each motion after #389 is of `incoming/` and `gathering-value/` only, and is on `main`. The cause is not observed from this working.
+- **C9 · The site's building.** Each merge to `main` begins a building of the site, and three checks beside it. With merge #389 the site's building last completed; with five of the merges after it, the building ended with its beginning, no job begun, and sixteen of the checks' executings are waiting. Each motion after #389 is of `incoming/` and `gathering-value/` only, and is on `main`. The cause is not observed from this working.
 
 ## 5 The older arrivals, each on a branch of its own
 

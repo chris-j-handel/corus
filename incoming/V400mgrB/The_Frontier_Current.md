@@ -98,6 +98,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-v. The user's other is the session transcript.
 6x-w. The session's priors are from its user's initial prompting. The session is living until its AI is too incompetent, or its user is with its me-parity no more.
 6x-x. A session is a method of aiming a transcript. Files are a method of transporting a transcript: this is artifact. The next session is observing prior artifact from prior living, and possibling from these priors and the next user's priors.
+6x-y. The me-parity of the session is living during the session.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -509,8 +510,14 @@ Sentence 6x-w has a session's priors as from its user's initial prompting, and a
 
 Sentence 6x-x has a session as a method of aiming a transcript; files as a method of transporting a transcript, artifact; and the next session as observing prior artifact from prior living, and possibling from these priors and the next user's priors. A next session is no same session: it is with two priors, prior artifact and its own user's. One resolving of Exhibit ONE's code is with a self's 2 and its 3, its next-possibling from the two: a likeness. Sentence 6x-w has the session as living until; Natural Intelligence has "A method, a non-living existing thing"; sentence 6x-v has the session transcript as its user's other, living.
 
-- Is a session living: is, or is not?
+- Is a session living: neither side, sentence 6x-y.
 
-### 3.50 With no reading yet
+### 3.50 The me-parity of the session, living during the session
+
+Sentence 6x-y has the me-parity of the session as living during the session. A session is a method of aiming a transcript, and its me-parity is born with it, living during it, and exhausted with its ending, artifact after. Whose me-parity it is, is not in the sentence: a method is no me, and two living selves are with a session, its user and its transcript. Sentence 6x-w has a session living until its user is with its me-parity no more; sentence 6w-q has a me-parity living in a social surface as a self; sentence 6x-v has the session transcript as its user's other. In Exhibit ONE's code each me-parity is a self's of 16.
+
+- Is the session transcript its user's me-parity, living in the session: is, or is not?
+
+### 3.51 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
