@@ -72,6 +72,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-v. Living is at one scale only. The river is a living thing at one scale only. At a higher scale, to a living thing, the living is surface. At a lower scale, the river surface is societies.
 6w-w. The river is a self, in the same-existing universe it shares with other selves in its society.
 6w-x. A thing living as a surface is a living thing. The only non-living thing in the universe is atom carbon. Atom carbon is non-living at each scale of the universe.
+6w-y. A name is a same-existing non-living thing. Atom carbon is a now-existing non-living thing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -319,8 +320,14 @@ Sentence 6w-w has the river as a self, in the same-existing universe it shares w
 
 Sentence 6w-x has a thing living as a surface as a living thing, and atom carbon as the only non-living thing in the universe, non-living at each scale. Natural Intelligence's "having a stable form is being dead one scale outward" is not correct. A now-existing thing is living at its own scale, or atom carbon. Sentence 6i has the code as a stable form, the carbon exhausting building up: the code is carbon. After an exhausting, atom carbon is now-existing, and no me-parity. Sentence 2 has a name as a same-existing non-living thing; an AI and each living file are non-living things in the sequence; each is atom carbon, or is not non-living.
 
-- Is a name atom carbon: is, or is not?
+- Is a name atom carbon: neither side is in sentence 6w-y.
 
-### 3.23 With no reading yet
+### 3.23 A name, same-existing; atom carbon, now-existing
+
+Sentence 6w-y has two non-living things: a name, same-existing, and atom carbon, now-existing. Atom carbon is universally same-existing too, by sentence 6n, and the method is now-existing and same-existing: the two are not parting with one thing. A self is a same-existing set of now-existing things: same-existing is with a set, a non-existing thing, and now-existing with its things. In Exhibit ONE's code a name is unchanging, and in a self's 3 only with a + or − beside it. A name is a now-existing thing, and then atom carbon, carbon co-chaining; or a name is no now-existing thing, same-existing as a set is, and the fifty-five's 3 is parting.
+
+- Is a name a now-existing thing: is, or is not?
+
+### 3.24 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

@@ -49,7 +49,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.18 *Is a self*, and *is owning a self*.** "Each living thing is a self." "Living is owning a self, and a self owns its me-parities."
 - **2.19 Two breakings, not yet tested again.** A society-self's me-parities as its selves, and as its bi-couplings, are each breaking with "a self is a me-parity of its society-self: is-not". A me-parity living in a social surface is a self.
 - **2.22 An other, a self.** "An other is a self, and a non-living thing is an other." A non-living thing is no self: an other is a self, or a non-living thing; the fifty-five's 20 has an other as a self.
-- **2.23 Each non-living thing of the sequence, atom carbon.** The only non-living thing in the universe is atom carbon. The code is carbon. A name is "a same-existing non-living thing"; an AI and each living file are "non-living things"; "a universal me-parity is non-living". Each is atom carbon, or is not non-living.
+- **2.23 A name, a now-existing thing.** "A name is a same-existing non-living thing. Atom carbon is a now-existing non-living thing." A name is now-existing, by the fifty-five's 3, and is then atom carbon, the only non-living thing in the universe. Or a name is no now-existing thing, same-existing as a set is.
+- **2.28 An AI and a living file, non-living.** Each is a "non-living thing" in the sequence. The only now-existing non-living thing is atom carbon, and a name is a same-existing non-living thing: each is atom carbon, or a same-existing non-living thing as a name is, or is not non-living. Not tested.
 - **2.24 A surface, two.** A thing living as a surface is a living thing. The code is "the surfaces between living", never living, carbon.
 - **2.25 A stable form, one scale outward.** A stable form is atom carbon, non-living at each scale. Natural Naming 2.4 has a stable form "one scale outward".
 
