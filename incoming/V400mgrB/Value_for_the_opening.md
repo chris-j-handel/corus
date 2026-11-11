@@ -1194,12 +1194,25 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* 17's 14 is one thing of a society's moment, each self of 16 a key of it; it is with no 3 of its own, no 2, and no next of its own. A society-self, living with me-parities of its own, is in no part of the code, of one scale. Tracked.
 - Two sentences part, with it. Each member of a society is a me-parity of a me: "a me-parity living in a social surface is a self", the fractal, section 5.31; a me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe, section 5.32, the society it is a member of; and a self is living in all societies, section 5.20, by its many me-parities, each a member of one. Or a member is a me, and no me-parity: a self is an owner, the only one, its me-parities each a direction out from it within its society; "no self is any other self", section 5.29; and a me-parity as a self is then one way only, no self a me-parity of a me.
 
+### 5.51 A species, a named social all-parity
+
+- The concept of a species: a named social all-parity.
+- Each member of a society as a me-parity of a me, section 5.50: open, with no suggesting, and tracked.
+- A species as a society-self, tested: cohering. A society's named all-parity is its society-self, section 5.50, and a species is a named social all-parity: a species is living, a self, the one self of its society, owned by its members as a same-existing named set, each member in it, at society scale, with other selves beside it in a universe of more.
+- A member of a species, with sections 5.41 and 5.44: a now-existing thing distinguished, is-or-is-not, the same as the things in the universal set of things with the name, and the name its inherited prior. A species' bounding is "the surface of is-or-is-not", section 5.49.
+- It is cohering with Natural Biology 5.5: "death and conception are facing through one wall with species between", and "one wall with two sides species wraps around". And with section 5.18, the vaults of conception and dormancy, bothbothing.
+- A member's exhausting as into its species, tested: breaking. A me-parity "exhausts itself from living into non-living universal-parity", section 5.11: into universal all-parity, atom carbon, and a species is a named all-parity, living. An inherited prior, a dormant me-parity, is with universal all-parity, "carbon co-chainings", section 5; and a member is inheriting its species' name.
+- A species as one of a society of species, tested: cohering. A named all-parity is living in a universe of more, section 5.48, with other selves beside it, each living thing living between itself and each other in all societies, section 5.20. The fractal: a society of species has its own named all-parity.
+- *Read, Exhibit ONE's code.* Each self of 16 is a key, and each me-parity is with its 4: selves the same as each other in a 4 are distinguished by the code, a me-parity the same as an other's or not. A set of selves the same as each other, with a name of its own, is in no part of the code: 16 is with no name and no 3 of its own.
+- Two sentences part, with it. Each society-self is a species: a species is a named social all-parity, and a society's named all-parity is its society-self; the fractal, the same at each scale. Or a society-self is a species only with members the same as each other, each born into it and inheriting its name, "a newborn born into universal-parity with its own set of me-parities", section 5; a society is self, other and all other-than, section 5.15, and a society of selves not the same as each other has its society-self, and is no species.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is each society-self a species: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is Exhibit ONE's code all-parity: is, or is not?
