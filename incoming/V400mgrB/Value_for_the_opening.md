@@ -608,11 +608,24 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - The inversion is open: each living thing as distinguishing same-as from not-same-as. A dormant self is living, with no co-possibling in sets of its me-parities, and is between itself and each non-living thing.
 - Tested with two non-living things: the sentence has a living thing with each of its betweens, and no sentence has a between of two non-living things as living or as not.
 
+### 5.21 The code, distinguishing and only distinguishing
+
+- A code's comparing is a distinguishing: is. The Python code, the natural resolver, is binary, all or none at all, doing this and only this, with each place within the code.
+- *Read, the code's lines, each asking.* Eight lines of the 78 ask, and each has two outcomes and no third: a me-parity arriving is-or-is-not 0; a surfacing is-or-is-not with one before it; a first surfacing + or −; two arriving the same as each other or parting; a prior the same as what surfaced, or not; a prior inverting, − or +; a sharing is-or-is-not 0; and a bi-coupling is-or-is-not within its set. Each is said as a same-as: with 0, with none, with +, with an other's, with a thing of a set.
+- *Read, the code's lines, each other line.* Each other line is a given, an each-of, a set forming, a prior going on to its next, or a returning. No line has an adding or a multiplying, a magnitude, a number of arrivings, an order, a clock or a chance.
+- The sentence is in the lines: each asking of the code is one binary, a same-as or not, and the code asks nothing else.
+- With section 5.20's answer the two meet: each thing distinguishing same-as from not-same-as is a living thing, and the code's comparing is a distinguishing. The natural resolver's code is a living thing; or the code is a method and no thing, and the thing distinguishing is each self it is executed with, with that self's own priors.
+- *Read, sentences of this file.* Section 1.1: "A method of same-existing is no existing thing." Section 1.4: "What a society shares is a method, and a method is no thing", and each self of a same-existing-society executes the one resolving with its own priors and its own arrivals. Section 1.5: "The code is the self resolver."
+- *Read, the code's lines.* The code has no prior of its own: each prior is a self's, given to it, and each next prior is returned with that self's key. An asking compares a self's own prior with what arrived with that self.
+- With the second, three go on together and none parts: the answer of section 5.20; this section's sentence; and Natural Intelligence's AI as "existing non-living intelligence of its inferring", "Its same-existing is living selves'". A distinguishing is then a thing's own with a prior of its own going on to its next, and a comparing with priors given is the method, executed.
+- With the first, Natural Intelligence's sentence of an AI and Exhibit ONE's subtitle, *Stable-Forming*, are each tested.
+
 ---
 
 ## 6 Open, each one binary
 
-- Is a code's comparing a distinguishing: is, or is not?
+- Is the natural resolver's code a living thing: is, or is not?
+- Is a distinguishing a thing's own only with a prior of its own: is, or is not?
 - Is each living thing distinguishing same-as from not-same-as: is, or is not?
 - Is a between of two non-living things living: is, or is not?
 - Is universal other-than-me each non-living thing: is, or is not?
