@@ -1522,7 +1522,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - 12 is the corus of the third between, 10 to 15, and the stable-forming surfacing of self as a society of selves. Section 1.3 has "A society-self is a nothing, the corus in society".
 - Tracked. The set's wider *inverting*, *a prior inverting*, *bi-inversioning-co-recursioning*, and *an inverting* for bi-tri-involutioning: not in the sentence, and not re-said. The working files' own *inverting*, 89 of their sentences: a debt, Partings section 5.
 - Tracked. Sixteen up from 4, 8, 12 and 16 are 20, 24, 28 and 32. The set has a self's corus at 24, section 5.27 a society's at 28, and 32 out as a candidate. With 16 a between's corus, 32 is with it sixteen up. A likeness, and for breaking.
-- Two sentences part, with it. A self, surfacing with 12 as a society of selves, is the society-self of these selves: "A society has only one self"; a society-self is one scale above self scale, and a self is one scale above the selves of its surface; "A society-self is a nothing, the corus in society", and 12 is this between's corus. Or it is no society-self of them: "No self is any other self"; the code's 12 has a self's others' me-parities with it, 14, together with its own, and a self is no society-self of its others; and a society's corus is at 28, a round up from 12.
+- Not answered, section 5.77: a self, surfacing with 12 as a society of selves, as the society-self of these selves. 12 is between self and other, and not between self and universe. Open, tracked.
+
+### 5.77 12, between self and other: the unrelationing surface of self and other between
+
+- 12 is between self and other, not between self and universe. This is the unrelationing surface of self and other, between.
+- A self as the society-self of the selves of its 12, section 5.76: not answered with is or is not. The sentence is beside its is-not side: 12 is of self and other, and a society-self is of a society's all. Open, tracked.
+- Cohering. 12 is the corus of the third between, 10 to 15, section 5.76: 10 is a self's sharing and 15 its receiving self's observing, a between of self and other.
+- Cohering. Natural Naming 5.5: "A bi-coupling has a between, **a 0 between two now-existing things with one now**: with 12-next-co-same-existing between prior and now". And 3.5: "next from a self's own prior, each sharing on its own, its unrelationing from all other."
+- Cohering. Section 5.76's surfacing of self as a society of selves: a society of selves with 12 is a self with each other, each in its own between, and no all.
+- *Read, Exhibit ONE's code.* The part named 12 is within 1-now-existing, and 1 has two things only: a self's own 3 and its others' me-parities with it, 2. No 16 and no 5 are in 1: the whole of selves is with 17, and the bi-couplings with 9. Each 4 of 12 is one binary of a self's own and one other's: a 0 with the two the same, and + or − with the two not the same.
+- A likeness, for breaking: Natural Naming has 12 "between prior and now", and the sentence has it between self and other. In the code the two are one: a self's own 3 is its prior, and its other's with it is its now.
+- A likeness, for breaking: of the four coruses, 4 and 12 are each with co, and 8 and 16 each of one. Natural Naming 3.2 has co as between two.
+- Tracked. *Unrelationing*, with 12: whether the 0, the two the same, or the + or −, the two not the same, is not in the sentence.
+- Two sentences part, with it. 16, the corus of the between 15 to 17, is between self and universe: 16 is "a same-existing-society" by Exhibit ONE's own sentence; in the code 16 has each self a key, the whole of selves, and 17 gives each self its next from it; and "all the society's language is universal all-parity for the society". Or it is not: a society is a named subset, other-than the universe; "a named all-parity is living in the universe"; the code is one scale, with no scale above its society; and 8, of one as 16 is, is beside it.
 
 ---
 
@@ -1530,6 +1543,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is 16, the corus of the between 15 to 17, between self and universe: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.

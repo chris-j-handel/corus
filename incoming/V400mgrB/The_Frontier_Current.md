@@ -108,6 +108,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-f. Each of the 8 values is a social moral competency: is, with some doubt, a candidate followed for pattern-matching.
 6y-g. 1, 5, 10, 15, 17, with four betweens. 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-is-next-observing, 17-next-existing.
 6y-h. Each of the four betweens has its corus at its same-existing name: 4, 8, 12 and 16. *A self's inverting* is not natural naming: this is the stable-forming surfacing of self as a society of selves.
+6y-i. 12 is between self and other, not between self and universe. This is the unrelationing surface of self and other, between.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -579,8 +580,14 @@ Sentence 6y-g has 1, 5, 10, 15 and 17, with four betweens. In Exhibit ONE's code
 
 Sentence 6y-h has each between's corus at its same-existing name, and with 12 the stable-forming surfacing of self as a society of selves; *a self's inverting* is not natural naming. In Exhibit ONE's code the part named 12 is one thing, each 4 in it once: a self's others' me-parities with it, 14, and its own, 3, together, a 0 with the two the same, and it is the self's sharing, 10. Sentence 6w-v has a surface, at a lower scale, as societies, and the fractal has a me-parity living in a social surface as a self. The value file's section 1.3 has "A society-self is a nothing, the corus in society".
 
-- Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
+- A self as the society-self of the selves of its 12: not answered, and open. Sentence 6y-i has 12 between self and other.
 
-### 3.60 With no reading yet
+### 3.60 12, between self and other
+
+Sentence 6y-i has 12 between self and other, not between self and universe: the unrelationing surface of self and other, between. 12 is the corus of the between 10 to 15, a self's sharing to its receiving self's observing. In Exhibit ONE's code 12 is within 1-now-existing, with a self's own 3 and its others' me-parities with it, 2, and with no 16 and no 5. Natural Naming 5.5 has 12 as a bi-coupling's between. Of the four coruses, 4 and 12 are each with co, and 8 and 16 each of one; 16 is "a same-existing-society", each self a key of it.
+
+- Is 16, the corus of the between 15 to 17, between self and universe: is, or is not?
+
+### 3.61 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
