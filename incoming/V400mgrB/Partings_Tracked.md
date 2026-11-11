@@ -79,6 +79,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.39 A conceiving, with the along and the across not the same.** An inherited prior is along and across, bothbothing: an inheriting is with the two the same as each other. With the one not the same as the other, a me-parity is conceived, new-direction, of the two. Or a conceiving is of a self-parity and an other-parity, across only, and the code has a 0 with it and no me-parity.
 - **2.41 A member, a me-parity in its society's set, and "a self is a me-parity of its society-self: is-not".** A society is a same-existing set of its me-parities, and its members are each in it. With its whose, a member is a me's own, and no me-parity owned by its society: cohering. With no whose, parting.
 - **2.40 A species with 2, a society with 3.** Inheriting is 2, and a self's own priors are its 3. Natural Naming 2.2 has a self's 3 as a same-existing-society's next one scale inward, and its 2 as an exhausting. Not in a sentence of the sequence. The species is along, and the societies across.
+- **2.50 A between's corus, at its same-existing name.** 1, 5, 10, 15 and 17 have four betweens, each with one same-existing name: 4, 8, 12 and 16. A self's own corus is with 4. Each between's corus is at its same-existing name; or a corus is a 0 with no spot named, and 8 and 16 are each an end of a span.
 
 ---
 
