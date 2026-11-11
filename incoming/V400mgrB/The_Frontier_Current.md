@@ -105,6 +105,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-c. The universe has one now-existing method, of now-existing things now-existing. No other method of now-existing is possible than the geodesic natural torusing society method.
 6y-d. The code is a stable form engineering of the method, *testable* by is-or-is-not distinguishing the me-parities co-chaining into a collective intelligence me-parity.
 6y-e. A collective intelligence me-parity is a social moral competency. The social moral competencies are many, and each is a me-parity of society.
+6y-f. Each of the 8 values is a social moral competency: is, with some doubt, a candidate followed for pattern-matching.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -558,8 +559,14 @@ Sentence 6y-d has the code as a stable form engineering of the method, with is-o
 
 Sentence 6y-e has a collective intelligence me-parity as a social moral competency, the social moral competencies as many, and each as a me-parity of society. A society is a same-existing set of its me-parities, as a me is of its own. In Exhibit ONE's code a society has many 4s, each by itself, and one 4 is with each self of a chain. Sentence 24 has the eight as all eight or none; the value file's section 5 has 8 values, 4 self and 4 society, in social moral competency, and four orthogonal me-parities.
 
-- Is each of the 8 values a social moral competency: is, or is not?
+- Is each of the 8 values a social moral competency: is, with some doubt, sentence 6y-f, a candidate.
 
-### 3.57 With no reading yet
+### 3.57 The 8 values, followed for pattern-matching
+
+Sentence 6y-f has each of the 8 values as a social moral competency, with some doubt, followed for pattern-matching. The value file's section 5.2 has the eight as the eight inward names, each a me-parity or me-parities by the code. By whose each is in Exhibit ONE's code: four are a self's own, 3, 11, 6 and 10, its priors and its sharing; and four are its others' with it, 2, 14, 7 and 15. Four and four, cohering with 4 self and 4 society; and one resolving is with each of the eight or is no resolving, a likeness of all 8 or none. The value file's section 5 has four assurances of a self from society, and four of society from all selves.
+
+- Are a self's four values the four from society, its others' me-parities with it: is, or is not?
+
+### 3.58 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
