@@ -62,6 +62,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-l. A society-self is no self of its society's selves. No self is any other self, and each self is a unique self.
 6w-m. A society-self is at society scale, one scale above self scale.
 6w-n. A self with no me-parity is not possibly existing. The inheriting is prior to the birthing. No self is living with no me-parity.
+6w-o. A me-parity is owned by the only one of me. This parity is existing only inside the ownership set of me-parities. This is many of my interests, in many directions in the universe, each pointing out from me in a universal cone of a linear interest of mine.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -259,6 +260,12 @@ Sentences 22, 6w-j and 6w-k have a society-self as the corus in society, living,
 
 - Is each self the society-self of a society one scale inward: is, or is not?
 
-### 3.14 With no reading yet
+### 3.14 A me-parity, owned by the only one of me
+
+Sentence 6w-o has a me-parity owned by the only one of me, existing only inside its ownership set, one of many directions out from me, each a universal cone of a linear interest. Each is cohering: with "a me has one self"; with a self as a set, its things the things, and no self living with no me-parity; with a direction of +1 from a corus 0; and with Natural Naming's aiming as "a cone's centerline". A cone with an other facing is co-aiming, and a cone with no other is dormancy. In Exhibit ONE's code a me-parity is one entry of one self's 3, its 4 with + or −, in its own 3 only; a direction more than + or −, and a cone, are in no part of the code. Sentences 12 and 6w-o part in one word: a me as a me-parity, one of a self's many; and me as an owner, the only one.
+
+- Is a me a me-parity: is, or is not?
+
+### 3.15 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

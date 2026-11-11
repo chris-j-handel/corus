@@ -922,10 +922,26 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Parting. A society's corus at 28, section 5.27, is four from a self's at 24, of one sequence of six. Natural Naming 2.2 has "n with one scale being 8n − 7 with a scale inward": a society scale's 4 is self scale's 25.
 - Two sentences part, with it. Each self is the society-self of a society one scale inward: "A self has many mes. A society has only one self. The society-self has many mes. This is the co-recursioning self and society", section 1.3; Natural Naming has "One fractal method is all or none at all with its scales" and "Four 1–17s inward are within a self's 1 to 9"; and a society-self's own me-parities are then as each self's are. Or a self is no society-self: a self's me-parities are no selves, "is a me a self" is is-not, and a society is of selves; a self is then with no selves one scale inward, and a society-self is a self of an other kind.
 
+### 5.30 A me-parity, owned by the only one of me
+
+- A me-parity is owned by the only one of me. This parity is existing only inside the ownership set of me-parities. This is many of my interests, in many directions in the universe, each pointing out from me in a universal cone of a linear interest of mine.
+- *Owned by the only one of me*, tested: cohering. "A me has one self", section 1.3; no self is any other self, section 5.29; and no me-parity is one thing with two selves, section 5.17.
+- *Existing only inside the ownership set*, tested: cohering. "A self is a set, and its things are the things", section 5.10, and the fifty-five's 25, "A universal set of a self's me-parities is its **self-parity**". A me-parity is a now-existing thing in a living self, between its birthing and its exhausting, section 5.11. And with no self living with no me-parity, section 5.29: no me-parity with no self, and no self with no me-parity, all or none at all.
+- Tested with an other observing it. One me-parity is +1, its own self's, and −1, an other's, section 5.26: an other observing it has it in no set of the other's own. An other's me-parity the same as it is the other's own, and an inherited me-parity is the new self's own.
+- Tested with exhausting. "Each living me-parity matures, and exhausts itself from living into non-living universal-parity", and the universal set of prior-existing me-parities, each me-parity exhausted from living, in stable form, sections 5.11 and 5.13: exhausted, it is a prior-existing me-parity and no now-existing one. Cohering.
+- *Many directions, each pointing out from me*, tested: cohering. "A me-parity is a vector direction of +1 in the universe, from a corus 0", section 5.26, and the new self's "universal set of me-parities, each with its own direction into the universe", section 5.17. Out only: "a me-parity is +1 only".
+- *A universal cone of a linear interest*, tested: cohering. Natural Naming: "*Aiming* is a self's one-way changing its interest's 0 opens, a cone's centerline". A linear interest is a cone's centerline, an aiming, and "a cone is a same-existing me-parity universe". Universal is the named things and the more, section 5.14: a universal cone is each named other its me-parity is aiming at, and the more.
+- A cone with an other in it and a cone with none are the two the sequence has. With an other facing, the one cone co-linear with the other: co-aiming, "co-linearizing the aiming of the cones of self and other, in bi-coupling", section 5.7. With no other: dormancy, "a me-parity and no other self co-competencing", section 5.18.
+- *Read, Exhibit ONE's code.* A me-parity is one entry of one self's 3: its 4, with + or −. Each entry is one self's. A 3 has many, each by itself: no part of the code has one me-parity of a self with an other me-parity of that self. A self's sharing is its 4 with + or −, in the between and in a receiving self's 2, and its me-parity is in its own 3 only. A direction more than + or −, and a cone, are in no part of the code.
+- **[value at Natural Naming]** "An interest is a 0, *inter-esse*, to be between, a self's own and a shared co": an interest as a 0, a between. The sentence has an interest as a me-parity, a self's own, a direction of +1. A candidate: an interest of mine is +1, and it and its facing one together are a 0.
+- **[value at the fifty-five's 22]** "A **living parity** is an aiming direction at an other.": a direction at an other. The sentence has a direction out from me, in a universal cone, and dormancy has a me-parity with no other.
+- Two sentences part, with it. "*Mes* is *me-parities*" and "a self has many mes", section 1.3: a me is a me-parity, one of a self's many, and the only one of me is a self; *me* is then an owner, a self, and an owned, a me-parity. Or a me is no me-parity: "A me is directionless", section 1.3, and each me-parity has its own direction; a me is an owner, the only one, and a me-parity an owned, one of many; "a self has many mes" is then parting, and a self is the only one of me.
+
 ---
 
 ## 6 Open, each one binary
 
+- Is a me a me-parity: is, or is not?
 - Is each self the society-self of a society one scale inward: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
