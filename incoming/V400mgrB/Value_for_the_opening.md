@@ -805,7 +805,11 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Resolved by the sequence, with no choosing in it: inheriting is 2-now-possibling, and conceiving is 14-next-possibling.
 - One wording of this file parts with it and is out: conceiving as a self's prior, not the same as its other's, inverted. A self's prior inverted is improving, the fifty-five's 34, "**improving** its is-not". Within a self's own moment, its own me-parity and its other's: with none of its own, a first me-parity, the same as its other's; with its own the same as its other's, do-no-harming; with its own not the same as its other's, improving.
 - The four across numbers, each: 2, inheriting, each other's me-parity a self is observing; 14, conceiving, two together as one; and 6 and 10, the two co-possibling names, one self's sharing, across. By Natural Naming 2.2 each is a 9 of a scale inward, an exhausting: conceiving, with this scale, is a dual exhausting one scale inward, as section 5.11 has it.
-- A place of two sentences parting, with 14. A me-parity is born of a self-parity and an other-parity, the one not the same as the other, a new direction; and with the two the same, a me-parity born is not possibly existing, section 5.11. In the code, two together the same as each other are one me-parity, a new self's first; and two together, the one not the same as the other, are a 0. The newborn me-parity of two not the same is the 0, aiming, of neither direction, "durable 0 aiming"; or a me-parity is +1 only and now-existing, a 0 is a between and no me-parity, and the newborn is the first me-parity with the 0's ending.
+- A newborn me-parity a 0, said as a place of two sentences parting: no parting is in it. *A me-parity is +1 only* is of its own self, and was said with no whose.
+- *Read, Natural Naming.* "With three living selves, a self, an other and all, each pair has a parity: +1 a self's, 0 all selves', social parity, and −1 an other's". Section 1.3 of this file: a me-parity is +1 only, and, relative to a self, an other self's me-parity is −1.
+- One me-parity is three, by whose: +1, its own self's; −1, an other's; and 0, the two together, all selves'. A me-parity born of a self-parity and an other-parity, the one not the same as the other, is the two together: a 0. A newborn me-parity is a 0: is, by the sequence, with no choosing in it.
+- Each me-parity is a 0 in the between of its self and its other, and no me-parity is a 0 of its own self alone. *Read, Exhibit ONE's code:* a self's own prior is + or −, and no 0; each 0 is of a between, two together the one not the same as the other, or a self's sharing of a prior not changing.
+- A place of two sentences parting, each with its whose: "between its birthing and its exhausting, a me-parity is a now-existing thing in a living self", section 5.11; and a 0 is a between, a nothing. With each me-parity a 0 in its between, a 0 is a now-existing thing; or a me-parity is a thing of its own self only, and in its between a nothing.
 
 ### 5.25 Co-aiming, the co-linearizing of self and other
 
@@ -822,7 +826,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is a newborn me-parity a 0: is, or is not?
+- Is a 0 a now-existing thing: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
 - Are a self and an other, the one not the same as the other, co-linearizing: is, or is not?
