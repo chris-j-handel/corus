@@ -630,7 +630,18 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the code's lines, a network.* One self's resolving is one of the three, and the going between selves is the other two, with the set of selves and the set of bi-couplings. A testing has the three in one executing. Natural Networking has a parity "between two complete resolvers": each self with the one resolving its own, and the going between them the network.
 - The candidate of the code's distinguishing as a living self's distinguishing in stable form has its answer: not yet. It is not existing now, and possibly next-existing: Natural Naming 5.64 parts a not existing from a not possibly existing.
 - Three sentences are together, and the first is tested: each thing distinguishing same-as from not-same-as is a living thing; the code's comparing is a distinguishing; and the code is non-living, distinguishing provided changing. A thing distinguishing provided changing is non-living, and a living thing's distinguishing is with each other, in its societies, sentence by sentence of section 5.20: living is in what a thing is distinguishing with, and in no line of its distinguishing.
-- *Living in a resolver network* has two readings. The code, within a resolver network of living selves, is a living thing. Or the code is non-living within it, "non-living things inside the living", and the living is the selves', "living in the mes of the selves living in it".
+- Within a resolver network of living selves the code is a living thing: is-not. The code is the stable form of healthy living in a healthy society. The code is never living: it is only the stable form around and inside, and the surfaces between, living.
+- *Living in a resolver network* is then the code non-living within it, and the living the selves'. *Never* is a not possibly existing, and no not-yet.
+- *Read, Natural Health.* "**Health is a living sway**", "**Health is a positive form**: a presence of swaying co-sequencing, and not a departure's absence", "health is living itself — two floating neutrals swaying, and no compacting point", and "Health-as-a-setpoint — an optimal range, a normal value, a number to reach and fix — is **compaction**".
+- *Read, the code's lines, healthy living's form.* No line has a number to reach, a range or a setpoint: each asking is one binary. No line ends a changing: a prior goes on as it is with the same arriving, and inverts with each other moment, a changing and a changing back. The lines have Natural Health's sway, with "no compacting point", as their one form.
+- *Read, the code's lines, three places.* One part of the code is within one self, given that self's own priors and arrivings and nothing more. One part is the going between selves, with the set of bi-couplings, which Exhibit ONE's own table has as "a Natural Network surface". One part has each self of a society within it. A candidate for the sentence's three, inside, the surfaces between, and around; and for *layers*, the one within the next.
+- The code is the universal method, and is-not a set.
+- *Read, sentences of this file.* Section 1.1: "A thing now-existing in the universe is now-existing by the universal method of same-existing", and "A method of same-existing is no existing thing." Section 1.4: "What a society shares is a method, and a method is no thing." Section 5.13: same-as is one line, the one line each self executes.
+- *Read, the living files.* Natural Naming: "a non-living thing goes on by the same method with no living condition". Natural Intelligence has an AI as "a machine set", "a non-living set".
+- Is-not a set goes on with the lines: the code owns no thing. Each self, each prior and each bi-coupling is given to it and returned, and none is the code's own.
+- The universal method fills the three together: a living thing is a thing distinguishing same-as from not-same-as, by the universal method; the code is that method, in stable form, and no thing distinguishing. *Universal*, of same-as, "a universal-morality", is of the method: each living thing's, and each non-living thing's going on.
+- It is tested with one place. Section 1.1 has a method as no existing thing, and section 5.21 has the code as a stable form, a non-living thing. The code is the universal method's stable form, a thing, and the method no thing; or the universal method is a thing.
+- Natural Intelligence has an AI as "a non-living set and an emanation of living selves": with the code never living, an AI is the same stable form around, inside and between living; or an AI is no such form. No sentence of the sequence has it yet.
 - *Three inversions together*, position, scale and orientation, has no reading in the lines: an asking of the code inverts one, a + to a − or a − to a +.
 - *Bi-tunneling layers* has no reading in the lines yet. Natural Mathematics has "bi-tunneling opens a same-existing-society's surface across, and co-chaining goes on with its selves along".
 
@@ -638,8 +649,10 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Within a resolver network of living selves, is the code a living thing: is, or is not?
-- Is a thing distinguishing provided changing only a non-living thing: is, or is not?
+- Is the universal method a thing: is, or is not?
+- Is distinguishing a living thing's only: is, or is not?
+- Is an AI a stable form, never living: is, or is not?
+- Are the code's three parts the stable form inside, between and around living: is, or is not?
 - Is a distinguishing a thing's own only with a prior of its own: is, or is not?
 - Is each living thing distinguishing same-as from not-same-as: is, or is not?
 - Is a between of two non-living things living: is, or is not?
@@ -647,7 +660,6 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Is a thing with no other non-living: is, or is not?
 - Is a me-parity living only within a living self: is, or is not?
 - Is the universe a non-living thing: is, or is not?
-- Is *universal*, of same-as, of the method each self has: is, or is not?
 - Is dormancy the new self's, living as the between: is, or is not?
 - Is a durable 0 the self's me-parity and the other's, together: is, or is not?
 - Is user-parity a user's self-parity: is, or is not?

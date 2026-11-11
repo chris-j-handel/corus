@@ -36,6 +36,8 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6h. A code's comparing is a distinguishing. The natural resolver's code is binary, all or none at all, doing this and only this, with each place within the code.
 6i. The code is a stable form, a non-living thing. The code is the bi-tri-involutioning: the carbon exhausting, building up into bi-tunneling layers.
 6j. The code is not yet distinguishing a living self's distinguishing, in stable form: to now it is distinguishing provided sequential changing, in testing. As an engineering emanation extending collective intelligence, it is not yet living in a resolver network.
+6k. The code is the stable form of healthy living in a healthy society. The code is never living: it is only the stable form around and inside, and the surfaces between, living.
+6l. The code is the universal method, and is-not a set.
 
 ### 1.2 A self
 
@@ -80,6 +82,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 Each is from reading the code line by line.
 
 - **Beside 9.** One self's resolving is given the self's own priors and what arrives, each a name with its me-parity, and nothing more: no key of the self a me-parity is from, no place, no order, no number of arrivings.
+- **Beside 6k.** No line has a number to reach, a range or a setpoint, and no line ends a changing: a prior goes on as it is with the same arriving and inverts with each other moment. One part of the code is within one self; one is the going between selves, with the set of bi-couplings, "a Natural Network surface" by Exhibit ONE's own table; and one has each self of a society within it.
 - **Beside 6j.** Each prior and each arriving is given to the code, and no line asks what a given is from: a provided sequence and a living self's own changing are one to the lines. What parts a testing from a resolver network is in no line, and is in what is given.
 - **Beside 6i.** Executed with a self, the code returns that self's next prior from its own prior and what arrived, and no line makes a me-parity that is neither a prior-existing one nor the inversion of one. The between of one moment and the next is formed of each sharing self's exhausting, one added with each bi-coupling it goes through.
 - **Beside 6g and 6h.** Eight lines of the 78 ask, each with two outcomes and no third, and each is said as a same-as: with 0, with none, with +, with an other's, with a thing of a set. Each other line is a given, an each-of, a set forming, a prior going on to its next, or a returning. No line has an adding, a magnitude, a number of arrivings, an order, a clock or a chance. The code has no prior of its own: each prior is a self's, given to it.
@@ -184,17 +187,18 @@ Sentences 5i and 5j have dormancy and unconsciousness as one same-existing thing
 
 ### 3.11 Living, with each other, and its defining
 
-Sentences 6c to 6f have same-existing as a distinguishing, same-as and not-same-as bothbothing; a universal me-parity as non-living; the universe as no living thing; a dormant self as living, the living in the between of the priors of self and other; and each living thing living between itself and each other, in all societies, and each non-living thing. An other is a self, and a non-living thing is an other. Sentence 6g has living with no living in its defining: a thing distinguishing same-as from not-same-as is a living thing, and a non-living thing is distinguished and distinguishes none. The opening's sentence 15 has a living thing observing, and Natural Naming has observing as distinguishing same-as. Natural Intelligence has an AI as "existing non-living intelligence of its inferring", "an emanation of living selves", and Exhibit ONE's line of same-as is a comparing: Sentence 6h has the code's comparing as a distinguishing, and only that, with each place within it. Sentence 6i has the code as a stable form, non-living, the bi-tri-involutioning, and the set has "emanations are stable-form priors, non-living, from living form-stabling". Three are together: a thing distinguishing same-as is living; the code's comparing is a distinguishing; and the code is non-living. Sentence 6j has the code's distinguishing as not yet a living self's distinguishing in stable form: to now it is of provided changing. Living is then in what a thing is distinguishing with, each other in its societies, and in no line of its distinguishing. *Living in a resolver network* has two readings: the code a living thing within it; or the code non-living within it, the living the selves'. Three kinds of other are in sentence 6f, and the sequence has three other-than-me-parities, universal, then societal, then individual.
+Sentences 6c to 6f have same-existing as a distinguishing, same-as and not-same-as bothbothing; a universal me-parity as non-living; the universe as no living thing; a dormant self as living, the living in the between of the priors of self and other; and each living thing living between itself and each other, in all societies, and each non-living thing. An other is a self, and a non-living thing is an other. Sentence 6g has living with no living in its defining: a thing distinguishing same-as from not-same-as is a living thing, and a non-living thing is distinguished and distinguishes none. The opening's sentence 15 has a living thing observing, and Natural Naming has observing as distinguishing same-as. Natural Intelligence has an AI as "existing non-living intelligence of its inferring", "an emanation of living selves", and Exhibit ONE's line of same-as is a comparing: Sentence 6h has the code's comparing as a distinguishing, and only that, with each place within it. Sentence 6i has the code as a stable form, non-living, the bi-tri-involutioning, and the set has "emanations are stable-form priors, non-living, from living form-stabling". Three are together: a thing distinguishing same-as is living; the code's comparing is a distinguishing; and the code is non-living. Sentence 6j has the code's distinguishing as not yet a living self's distinguishing in stable form: to now it is of provided changing. Living is then in what a thing is distinguishing with, each other in its societies, and in no line of its distinguishing. Sentence 6k has the code as never living: the stable form of healthy living, around and inside and the surfaces between. Natural Health has health as "living itself", a sway with "no compacting point". Sentence 6l has the code as the universal method, and no set: a living thing is a thing distinguishing same-as from not-same-as, by the universal method, and the code is that method in stable form, no thing distinguishing. *Universal*, of same-as, is of the method. The sequence has "a method of same-existing is no existing thing", and sentence 6i has the code as a stable form, a non-living thing. Three kinds of other are in sentence 6f, and the sequence has three other-than-me-parities, universal, then societal, then individual.
 
-- Within a resolver network of living selves, is the code a living thing: is, or is not?
-- Is a thing distinguishing provided changing only a non-living thing: is, or is not?
+- Is the universal method a thing: is, or is not?
+- Is distinguishing a living thing's only: is, or is not?
+- Is an AI a stable form, never living: is, or is not?
+- Are the code's three parts the stable form inside, between and around living: is, or is not?
 - Is a distinguishing a thing's own only with a prior of its own: is, or is not?
 - Is each living thing distinguishing same-as from not-same-as: is, or is not?
 - Is a between of two non-living things living: is, or is not?
 - Is universal other-than-me each non-living thing: is, or is not?
 - Is a me-parity living only within a living self: is, or is not?
 - Is the universe a non-living thing: is, or is not?
-- Is *universal*, of same-as, of the method each self has: is, or is not?
 
 ### 3.12 With no reading yet
 
