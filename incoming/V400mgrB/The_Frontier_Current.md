@@ -118,6 +118,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-p. 64 is all-parity at the next scale, the universal set of sets. This is fractal subsetting, cascading.
 6y-q. 4 is the between of self and other, and for the me-parity of self this is other-parity.
 6y-r. 4 is between me-parity and other-parity. 8 is between other-parity and all-parity. 12 is between other-parity and me-parity. 16 is between me-parity and all-parity.
+6y-s. In right spiral co-sequencing, this is prior, now, next bi-folding. 4, 8, 12, 16 is the 1, 2, 3, 4 same bi-folding fractal, and 16, 32, 48, 64 the same bi-folding fractal, cascading another scale. The meaning of the naming of *scale*, here: a next-universal subset including this universal subset.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -643,8 +644,14 @@ Sentence 6y-q has 4 as the between of self and other, other-parity for the me-pa
 
 Sentence 6y-r has 4 between me-parity and other-parity, 8 between other-parity and all-parity, 12 between other-parity and me-parity, and 16 between me-parity and all-parity. With me-parity and other-parity exchanged, 4's between is 12's and 8's is 16's. In Exhibit ONE's code a self's sharing, 10, is its receiving self's 15 and then its 2; 12 is first its others' with it and then its own. With the eight, sentence 6y-k, 9 to 16 has the same prefixes as 1 to 8, and 16's three, bi-tri-bi, has other and all in it.
 
-- Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
+- 9 to 16 as 1 to 8 with me-parity and other-parity exchanged: not answered, and open. Sentence 6y-s has it as prior, now, next bi-folding, in right spiral co-sequencing.
 
-### 3.69 With no reading yet
+### 3.69 A fourth, the next four's first
+
+Sentence 6y-s has 4, 8, 12, 16 as the 1, 2, 3, 4 same bi-folding fractal, and 16, 32, 48, 64 the same, cascading another scale; a scale is a next-universal subset including this universal subset. Each four's fourth is the next four's first: 4, and 16. Sentence 6y-r has this four's first between me-parity and other-parity, and its fourth between me-parity and all-parity. Sentence 6x-h has a named all-parity as living, in the universe it is other-than the universal all-parity of; sentence 6x-g has all-parity as non-living, and sentence 6w-x atom carbon as non-living with each scale.
+
+- Is this scale's all-parity the next scale's other-parity: is, or is not?
+
+### 3.70 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

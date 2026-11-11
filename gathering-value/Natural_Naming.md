@@ -31,6 +31,7 @@ Gathering-Value · Natural Naming
 ### 2.2 Fractal method, all or none at all with its scales
 
 - **Possible exploring** · Living is at one scale only: a living thing is societies at a lower scale, and at a higher scale, to a living thing, its living is surface. With 1, 2 and 3 of one scale as 1, 9 and 17 of a next, a self's 3, its own me-parities, is a 17 one scale inward, a same-existing-society's next; and a society-self, one scale above self scale, has its 2, inheriting, as each of its selves' 9, exhausting.
+- **Possible exploring** · The meaning of the naming of *scale*: a next-universal subset including this universal subset, fractal subsetting, cascading. With it scale goes by fours, 1, 2, 3, 4, then 4, 8, 12, 16, then 16, 32, 48, 64; this sentence's stepping is a second one, and the two are not yet distinguished. — at "n with one scale being 8n − 7 with a scale inward"
 
 ### 2.3 One family of words, three in it, and a doer or a built form beside them
 
@@ -237,6 +238,7 @@ Gathering-Value · Natural Naming
 ### 5.50 four-momentarying — binary
 
 - **An explaining** · 64 is all-parity at the next scale, the universal set of sets: fractal subsetting, cascading. With the 1 to 17 prefixing's eight, 64 is bi-tri-bi, as 8 and 16 are. And the four coruses of one scale, 4, 8, 12 and 16, are 16, 32, 48 and 64 a scale outward: this scale's 16, universal all-parity, is the next scale's 4 — at "16, 32, 48 and 64 are four 16s, each four times its one inward"
+- **An explaining** · 4, 8, 12, 16 is the 1, 2, 3, 4 same bi-folding fractal, and 16, 32, 48, 64 is the same bi-folding fractal, cascading another scale: in right spiral co-sequencing, prior, now, next bi-folding. Each four's fourth is the next four's first, 4 and 16. With the four coruses, 4 between me-parity and other-parity, 8 between other-parity and all-parity, 12 between other-parity and me-parity and 16 between me-parity and all-parity, a fourth's all-parity is of a next four's first: open, an is-or-is-not not yet answered. — at "Bi-folding order is one same with 1, 2, 3, 4 and 4, 8, 12, 16, up and down each scale"
 
 ### 5.51 bi-tri-exchanging — binary
 
