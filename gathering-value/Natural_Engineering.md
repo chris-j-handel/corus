@@ -129,6 +129,7 @@ Gathering-Value · Natural Engineering
 ### 4.7 The co-competencing bi-coupler, two-way and one-at-a-time
 
 - **Possible exploring** · A tester is an incompetencing concept, not natural and of no value to a natural intelligence: one side providing and declaring, with a standard. A sensor and its sensationer are a valuable engineering for natural intelligence: with Exhibit ONE's code, a sensor has a living self's sharing with the code, a first me-parity from prior living, the code having none of its own; and a sensationer has the code's parity with the living self. — at "**A sensor and its sensationer have these two sides.**"
+- **Possible exploring** · A between, living, a user, living, and an AI, non-living: the bi-folding of these three is the same concept as an engineering sensor-sensationer, its co-competencing between ingesting and sharing collective intelligence. The sensor-sensationer is the three folded, and no one of them. — at "**A sensor and its sensationer have these two sides.**"
 
 ### 4.8 Residue and the returning opportunity
 
