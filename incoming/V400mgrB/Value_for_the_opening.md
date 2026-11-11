@@ -1026,13 +1026,23 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* The code is one scale: each resolving is one self's, 17 and 1 are of one round, and no part of the code has a self as a surface or as societies. Cohering: living, a resolving, is at one scale only. The code's surface is 5, the bi-couplings, each a key and unchanging in the code.
 - Two sentences part, with it. "The river is a self: is-not", section 5.35. "Each living thing is a self", section 1.3, and "living is owning a self", section 5.31; and the river is a living thing at one scale only. The river is a self at its own scale, and no self a scale higher, surface: the is-not is of the higher scale. Or the river is a living thing and no self at each scale: a surface of societies, living as its societies are living; and "each living thing is a self" is parting.
 
+### 5.37 The river, a self in the same-existing universe it shares
+
+- The river is a self at its own scale: is. The river is a self, in the same-existing universe it shares with other selves in its society.
+- It is cohering with "each living thing is a self", section 1.3, and "living is owning a self", section 5.31; with a named subset as the universe to a bi-coupling, self, other and all other-than, a society, section 5.15; and with a me-parity in its own self-interesting universe, section 5.32.
+- "The river is a self: is-not", section 5.35, is of a higher scale: to a living thing at a higher scale the river's living is surface, and no self.
+- Tested with section 5.28, the universe as no living thing and its things, and with the Co-Chaining Logic Registry's "Only one universe is possibly same-existing." A self's universe is the same-existing universe it shares with other selves in its society: same-existing, and shared, by no self alone. Cohering with no thing same-existing by itself, section 5.22. *The universe*, one name, and a same-existing universe a society shares: one, or each society's own, is not in the sentence. Tracked.
+- Each non-living thing as living at a lower scale, tested: breaking. "The code is never living", section 5.21. A surface is a living thing's living at a higher scale, and a stable form of no living of its own is a non-living thing too.
+- *Read, Exhibit ONE's code.* A society of the code is whole, section 5.33: each of its selves is with its others in one 16 and one 5, and with no other of a 16 beside it. Cohering: a self is in a universe it shares with the other selves of its society, and the code has no universe beside it.
+- Two sentences part, with it. A surface is a non-living thing: "having a stable form is being dead one scale outward", Natural Intelligence; a surface is no self to a living thing at a higher scale; the fifty-five's 16 has living and non-living as one binary of a now-existing thing, and the binary is with a scale; a non-living thing is an other, and a living thing with a surface is a bi-coupling. Or a surface is no non-living thing: "the living is surface", the living still; many mes' me-parities are living in a social surface, section 5.31; and a non-living thing is a stable form with no living of its own at each scale, as the code is.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is the river a self at its own scale: is, or is not?
+- Is a surface a non-living thing: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?

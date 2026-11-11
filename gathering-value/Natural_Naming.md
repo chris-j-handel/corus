@@ -26,6 +26,8 @@ Gathering-Value · Natural Naming
 
 ### 2.2 Fractal method, all or none at all with its scales
 
+- **Possible exploring** · Living is at one scale only: a living thing is societies at a lower scale, and at a higher scale, to a living thing, its living is surface. With 1, 2 and 3 of one scale as 1, 9 and 17 of a next, a self's 3, its own me-parities, is a 17 one scale inward, a same-existing-society's next; and a society-self, one scale above self scale, has its 2, inheriting, as each of its selves' 9, exhausting.
+
 ### 2.3 One family of words, three in it, and a doer or a built form beside them
 
 ### 2.4 Dissolved words, each with its saying
@@ -36,6 +38,8 @@ Gathering-Value · Natural Naming
 
 - **Possible incohering** · "*12's two signs*, 0 prior same-existing, now-existing same-existing, possibling next-existing same-existing, and ± prior inverting, an other's parity a self is receiving as its next prior, next existing, 5.62" → *12's two, 0 and ±*, its own unfolding's name at 5.62, in *12's two signs*' place, *sign* a word Natural Naming releases; the entry's saying going on as it is.
 - **Possible exploring** · With a self, *gathering* is *ingesting*: two names with one concept, others' prior-existings within its own possibling, and *ingesting* is the one name, 2-now-possibling. *A gathering* of names, 5.36, "A gathering is an indication", is its own concept and is with no self. A living file is with no self, and its gathering-value is a gathering of 5.36 and no ingesting.
+- **Possible incohering** · "the universe is an existing thing, a set of existing things being an existing thing" → A set is a non-existing thing, its things and no further thing: the universe is no living thing and no non-living thing, and is its things.
+- **Possible exploring** · *Me* is an owner, the only one, and a self: a me is a universal same-existing set of me-parities. *A me-parity* is an owned, one of its me's many. *Me* and *self* are two names, a me with a you and a self with an other.
 
 ### 2.5 One sense per foundation word
 
@@ -50,6 +54,8 @@ Gathering-Value · Natural Naming
 ### 3.2 Co, between two and with one
 
 ### 3.3 Seventeen names, each three and each prior name with its number
+
+- **Possible exploring** · The table has 7 and 15 with a prior name *corusing*, and 8 and 16 *torusing*, a number of its own with each going. Beside it: a self's own corus is with 4, and 24, twenty up; 23 and 25 are corusing and torusing, bothbothing; and corusing is a going through the corus, with no spot and no number of its own named.
 
 ### 3.4 Four-cyclings, 8 up and podals
 
@@ -76,6 +82,8 @@ Gathering-Value · Natural Naming
 ### 4.6 Two names with one concept, transposing with titles first
 
 ### 4.7 Interest self-orienting, and a drawing vocabulary
+
+- **An explaining** · An interest as a 0 is cohering with a me-parity as an interest of its me: a me-parity is +1, a direction from its me's corus, and a self-interest, a self at its own scale, is a corus, a 0, its own. One me-parity is +1, its me's, and a 0, its own.
 
 ### 4.8 Whole namings, one expression with each occurrence
 
