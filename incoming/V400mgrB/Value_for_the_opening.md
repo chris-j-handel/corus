@@ -19,7 +19,7 @@ Each line is a sentence of the current understanding, or a reading with its plac
 - The universe is not a same-existing thing.
 - No thing can enter or leave the universe, by the defining of the naming and explaining.
 - A thing now-existing in the universe is now-existing by the universal method of same-existing.
-- The universal method is a now-existing and same-existing thing, section 5.21. As a thing it is same-existing by one of three: by itself; by a second method, with no first; or by no method, and then not the method of each same-existing thing.
+- The universal method is a now-existing and same-existing thing, section 5.21. It is universally same-existing, and not by itself.
 - Each now-existing thing is a same-existing thing. A non-living thing is same-existing.
 - Artifacts of all prior living are prior-existing things.
 - A prior-existing thing is-or-is-not same-existing. Is: the same thing prior-existing and now-existing, in the universe. Is not: prior-existing and not now-existing, non-existing, not in.
@@ -644,7 +644,13 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - The code and the universal method are then one thing: a stable form, non-living, now-existing and same-existing, and never living. A going-forward is out: a method as no thing, with the code its stable form only.
 - *Read, the code's lines.* No line of the code changes the code: with each executing it is the same lines, and each thing it is given is returned as it was or inverted. A name is the same way with the lines, common to many selves and changed by none.
 - It parts from two sentences of the first going, and each is re-said in its section: a method of same-existing as no existing thing, section 1.1; and a method as no thing, with no thing to capture, section 1.4. The method is common to each self as a name is: a same-existing non-living thing each self has, and no self's own.
-- Section 1.1 has each now-existing thing as now-existing by the universal method of same-existing. The method is a now-existing thing: by the two sentences, the method is same-existing by the method. With one same moment that is a circle, each used before it is. One moment and then the next it is a sequence: the method now, the same as the method prior, by the method.
+- The universal method is same-existing by itself: is-not. The method is universally same-existing, not by-itself.
+- *Read, the code's lines, never by itself.* No line has the code as its own given: each given is a self's prior, an arriving, a self or a bi-coupling. Executed with no self, the code has no asking and returns an empty set. The method's going on is with each self it is executed with, and with none it has none.
+- *Read, the code's lines, the same with each.* The one resolving is the same lines with each self of a society and with each moment. Three are changed by no line: a name, the code, and a sharing in a between. Each is the same with each self it is with.
+- Universally same-existing is then a same with each thing, the named and the more, and no same along by its own prior alone. Of section 1.1's three, by itself, by a second method, by no method, it is none: it is a fourth.
+- A pattern from four sentences of the sequence, for breaking: no thing is same-existing by itself. A self's same-existing is with an other's same-as; a living thing is living between itself and each other; the method is universally same-existing; and the universe, one-and-only-one with no other, is no same-existing thing, section 1.1.
+- With the fifty-five's 24, two same-existings: with an other's same-as, other-parity, a living thing's distinguishing; and universally, with no one other's same-as, universal-parity. The method, a universal me-parity and dormancy are each of the second, and each is non-living.
+- Tested with one sentence: "each now-existing thing is now-existing by the universal method of same-existing", and the method is a now-existing thing. The method is now-existing by the method, universally, with each thing; and *by itself* is by itself alone.
 - Society-me-parity is a nothing, section 1.4, "as method": with the method a thing, society-me-parity and the universal method are two; or the two part.
 - Natural Intelligence has an AI as "a non-living set and an emanation of living selves": with the code never living, an AI is the same stable form around, inside and between living; or an AI is no such form. No sentence of the sequence has it yet.
 - *Three inversions together*, position, scale and orientation, has no reading in the lines: an asking of the code inverts one, a + to a − or a − to a +.
@@ -654,7 +660,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is the universal method same-existing by itself: is, or is not?
+- Is each non-living thing universally same-existing: is, or is not?
+- Is each thing same-existing with an other, and none by itself: is, or is not?
 - Does the universal method have a first moment: is, or is not?
 - Is society-me-parity the universal method: is, or is not?
 - Is distinguishing a living thing's only: is, or is not?
