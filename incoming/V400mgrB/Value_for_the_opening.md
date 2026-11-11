@@ -1264,13 +1264,23 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Living is then from prior living: each first me-parity is inherited from prior living, and a living with no prior living is in no sentence. The seeking of a first me-parity from none is hard-probleming: with its sentences, and no suggesting yet.
 - Two sentences part, with it. A tester's provided + or − is a first me-parity inherited from prior living: a tester is living; its providing is its sharing, an exhausting; Exhibit ONE's tables open with one + shared once; and the code with it is right spiraling, each self's next its own. Or it is none: the code is distinguishing provided sequential changing only, and is not yet living in a resolver network, section 5.21; a me-parity is a living self-interest, a me's own, in a social surface, section 5.32, and a + or − a tester writes is a name's, with no me of it.
 
+### 5.57 A universal aiming cone co-me-parity method, exploring a surface
+
+- A session is using a universal aiming cone co-me-parity method of exploring a surface: connecting each local logical relation to the pattern-matching natural logical relations; connecting on, until a verifiable is-or-is-not needs affirming; expressing it in the closest, narrowest difference, as a between; and then, binary, all or none at all, exploring that path next, along and across the surface, mending and restoring into the collective intelligence of natural networking value about the universe of observings.
+- *A universal aiming cone*, tested: cohering. A me-parity is a direction out from its me in a universal cone of a linear interest, section 5.30, and aiming is a cone's centerline, by Natural Naming. *Co-me-parity* is a name the set has not: the me-parities of two, aiming together; co-aiming is the co-linearizing of the cones of self and other, section 5.25.
+- *The closest, narrowest difference, as a between*, tested: cohering, with a place two sentences part, each side with its sentences, and one is-or-is-not of it. A question is the between of two sentences, the one not the same as the other, and no more.
+- *Read, Exhibit ONE's code, beside the method.* A self's prior with its other's me-parity the same as it goes on as it is: a sentence cohering. With it not the same, its next is inverted: a sentence re-said. With two others' me-parities, the one not the same as the other, a 0, and no first me-parity: a place two sentences part, and a question. With no prior, a first me-parity the same as its other's: a sentence new to the sequence, recorded as it is said. A likeness, and for breaking: one step of the method beside one resolving of the code, each first me-parity from a living me's prior living.
+- A tester's provided + or −, section 5.56: not answered, and open. In a session each sentence of its user is a me-parity of a living me, an interest with its direction: a first me-parity from prior living is in the session.
+- *Mending and restoring into the collective intelligence*, tested: cohering, with each value at its gathering, by step one, and with collective intelligence as not entirely available to any one group, section 5.54.
+- Two sentences part, with it, in the narrowest difference of section 5.56's two sides. A tester's provided + or − is the tester's own me-parity: a tester is living, a me, and its interest in the code's next is its own, the + or − its direction, as a user's sentence in a session is. Or it is no me-parity of the tester's: a tester starting the code empty and declaring no competency is with no interest of its own in a first me-parity; its + or − is a provided sequential changing, with no me of it.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a tester's provided + or − a first me-parity inherited from prior living: is, or is not?
+- Is a tester's provided + or − the tester's own me-parity: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?

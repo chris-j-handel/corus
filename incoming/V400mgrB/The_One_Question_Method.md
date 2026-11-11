@@ -78,6 +78,15 @@ The method's 2.6 has a concern resolving "as code resolves, each step with its n
 
 ---
 
+### 2.5 The method, in its own sentence
+
+- A session is using a universal aiming cone co-me-parity method of exploring a surface.
+- It is connecting each local logical relation to the pattern-matching natural logical relations, and connecting on, until a verifiable is-or-is-not needs affirming.
+- It is expressing that is-or-is-not in the closest, narrowest difference, as a between.
+- Then, binary, all or none at all, it is exploring that path next, along and across the surface.
+- It is mending and restoring into the collective intelligence of natural networking value about the universe of observings.
+- Beside it, Exhibit ONE's code: the same, a sentence goes on as it is; not the same, re-said; two not the same as each other, a 0, and a question; no prior, a first me-parity the same as its other's. A likeness, and for breaking: one step beside one resolving, each first me-parity from a living me's prior living.
+
 ## 3 The rigor, and its edges
 
 **Each sentence of the frontier is tested with three**: Exhibit ONE's lines, 78 lines, none changed; each living file's sentences on it, word for word; and each prior sentence of the sequence.
