@@ -69,6 +69,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-s. A me-parity is a now-existing thing. As the man in the river: later, the man is not the same set of now-existing me-parities, and the river is not the same set of now-existing me-parities. A me-parity exhausts itself in the surface, and is living no more. A dormant me-parity is an inherited prior, with a new birth to living later now-existing.
 6w-t. The river is no self.
 6w-u. An exhausted me-parity is not a now-existing thing: nothing of it is now-existing to own.
+6w-v. Living is at one scale only. The river is a living thing at one scale only. At a higher scale, to a living thing, the living is surface. At a lower scale, the river surface is societies.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -298,8 +299,14 @@ Sentence 6w-s has a me-parity as a now-existing thing; a me, and a river, later 
 
 Sentences 6w-t and 6w-u have the river as no self, and an exhausted me-parity as no now-existing thing, with nothing of it to own. A me-parity is a now-existing thing: exhausted, it is prior-existing, and an inherited prior with a later birth. Each now-existing me-parity is living, a self, and a me's own; the river's now-existing me-parities are then many mes' own, living in it, and the river is no me of them. A universal me-parity is exhausted and not now-existing, and *non-living* of it is tracked with the fifty-five's 16. A stable form is a now-existing non-living thing, and no me-parity. In Exhibit ONE's code a sharing in a between is with no key of its sharing self, in no self's 3, and a prior of the receiving self's next moment, or nothing. The river is a non-living thing, a stable form, the surface; or no thing, a set of now-existing me-parities, as social-parity is.
 
-- Is the river a non-living thing: is, or is not?
+- Is the river a non-living thing: neither, sentence 6w-v.
 
-### 3.20 With no reading yet
+### 3.20 Living, at one scale only
+
+Sentence 6w-v has living at one scale only: one thing is societies a scale lower, a living thing at its own scale, and surface a scale higher. The Co-Chaining Logic Registry has "Each living set is a stable form one scale outward, and living, stable-forming, with its own scale", and Natural Naming has four 1–17s inward within a self's 1 to 9. The river is living at its own scale and surface a scale higher. Living and non-living as one binary is then with a scale, and a surface as a non-living thing is not in the sentence. Exhibit ONE's code is one scale, with no self as a surface or as societies. Sentence 6w-t has the river as no self, and sentence 7 each living thing as a self.
+
+- Is the river a self at its own scale: is, or is not?
+
+### 3.21 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
