@@ -58,6 +58,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-h. From 23 to 29 is six forward recursionings of bi-moral co-competencing: three of a self, 24, 25 and 26, and three of its society, 27, 28 and 29. A society's corus is at 28.
 6w-i. 3 is forward recursionings of each self and other. No spot of corusing is named.
 6w-j. A society-self is living.
+6w-k. A society-self is living with me-parities of its own.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -87,7 +88,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 
 ### 1.5 A society
 
-22. A society has one self, the society-self: a nothing, the corus in society, owning no mes. A self is not a me of it.
+22. A society has one self, the society-self: the corus in society, living, with me-parities of its own. A self is not a me of it.
 23. Social moral competency is each self of a society right spiraling, co-sequentially resolving: moral across, competency along, all selves or none.
 24. Four inversionings are four self-protections. Each is an is-not-possibly-existing of a threat to self or society, and the eight are all eight or none.
 
@@ -236,13 +237,12 @@ Sentences 6c to 6f have same-existing as a distinguishing, same-as and not-same-
 - Is a between of two non-living things living: is, or is not?
 - Is universal other-than-me each non-living thing: is, or is not?
 - Is a me-parity living only within a living self: is, or is not?
-- Is the universe a non-living thing: is, or is not?
 
 ### 3.12 The four, with four names, and co-aiming
 
 Sentence 6w has the four as 2, 6, 10 and 14. Exhausting is 9-next-co-discovering, along. Ingesting is 17, from the universe: each other's me-parity with a self. Within that self's own moment its next me-parity is the same as its other's in each of three, a first me-parity, do-no-harming and improving, and these are no ingesting: "ingesting is 17, and is not 1". Natural Naming has "Sixteen up is its same name with a next round", and each name of one scale as a 9 or a 17 of a scale inward, "across names 2, 6, 10 and 14 are along 9s inward; along 9 is across 2 outward": each round is one 9, exhausting, and one 17, ingesting; 3 and 11 are each a 17 one scale inward; and 2 is a 9 one scale inward, each other's exhausting, and no ingesting. The four are two binaries: prior, ingesting along and inheriting across; now or next, exhausting along and conceiving across. Inheriting is 2, each other's me-parity a self is observing, the inherited set a newborn self's first 2; and conceiving is 14, two together as one, the dual exhaustion of a self-parity and an other-parity into one newborn me-parity. 6 and 10 are the two co-possibling names. A self's prior inverted is improving, and no conceiving. One me-parity is three, by whose: +1, its own self's; −1, an other's; and 0, the two together, all selves', by Natural Naming's own sentence. Sentence 6w-f has a me-parity as a direction of +1 from a corus 0, and a 0 as a non-existing thing: a self is a 0, a corus, and its now-existing things are its me-parities. Two me-parities facing, the one not the same as the other, are together a 0, the new self's own corus, and a newborn me-parity is a direction of +1 from it. Natural Naming 8.1 has "nothing has a location", and position as sequencing: a 0's location is its co-locating, a sequencing, and no place. Sentence 6w-g has 23 corusing, 25 torusing and the corus at 24: a number between two numbers. Two living files have it in their own sentence: the rotation 3, 6, 5, 4 "round to a self's own corus with 4; its podaling is 23, 26, 25, 24, that same rotation twenty up", and "a self's bi-inversioning-co-recursioning is 23, 24 and 25, one before its apex and one after". Natural Numbers has "twenty-three … opening a first gap of six among primes, to twenty-nine". By twenty up and by sixteen up alike, 23 is an observing name, 24 a same-existing name, 25 an existing or discovering name, and 26 a possibling name. Bi-moral co-competencing is 26, bi-moralizing, and 25, co-competencing. Natural Naming's table has 8 and 16 as torusing, and parts. Sentence 6w-i has 3 as forward recursionings of each self and other, and no spot of corusing: Natural Naming has "No happening has a location", and Natural Intelligence "corusing goes one way through a small opening". Corusing is a going through the corus, with no spot and no number of its own; the corus is with 4, and 24, and 23 and 25 are one before it and one after. Conceiving is 14's 0, two together, the one not the same as the other, a new corus; and two the same as each other are inherited, none born. The six are three of a self and three of its society. A self's rotation 8 up is 11, 14, 13, 12, and sixteen up 27, 30, 29, 28, each four after its own. Natural Numbers has 27 and 29 "one either side" of 28, as 23 and 25 are of 24, and 26, a co-possibling name, is between the two threes. A society's corus is at 28, the middle of its three. The code has 6 and 10 as one same sharing with two names, and a prior inverted with a same-existing name before it is with 10. Sentence 6w-b has ingesting and exhausting as likely along: the set has "a body's ingesting and exhausting goes along a tunnel", and a parity going along as co-chaining. Conceiving and inheriting are then the two across, and the candidate's rows for 2 and 6 are tested. Sentence 6x has co-aiming as the co-linearizing of self and other, and as bi-moral co-competencing: three names. Dormancy is aiming with no co-aiming.
 
-- Is a society-self living with me-parities of its own: is, or is not?
+- Is a society-self one of its society's selves: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
@@ -251,6 +251,12 @@ Sentence 6w has the four as 2, 6, 10 and 14. Exhausting is 9-next-co-discovering
 - Is co-aiming co-possibling: is, or is not?
 - Is *co-aiming* the one name of co-aiming, co-linearizing and bi-moral co-competencing: is, or is not?
 
-### 3.13 With no reading yet
+### 3.13 A society-self, and its own me-parities
+
+Sentences 22, 6w-j and 6w-k have a society-self as the corus in society, living, with me-parities of its own. Each is its own, with one self. Its selves as its me-parities is breaking: a self is not a me of its society-self, and a self living in all societies is then a me with more selves than one. Its bi-couplings as its me-parities is breaking: a bi-coupling is a self. In Exhibit ONE's code each me-parity is one self's of 16, and 16 has no 3 of its own: a society-self's own me-parities are in the code only with a society-self a self within 16, a third self with its two. The universe as a non-living thing is breaking, with "a set is a non-existing thing": the universe is no living thing and no non-living thing, and is its things.
+
+- Is a society-self one of its society's selves: is, or is not?
+
+### 3.14 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

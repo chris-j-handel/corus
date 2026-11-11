@@ -20,6 +20,9 @@ Each place the current understanding is not cohering, all or none at all: a sent
 | 1.8 | the selves as social-parity now-existing, the bi-couplings as social-parity next-existing | social-parity the universal set of now-existing bi-couplings of same-existing selves | Exhibit ONE, its table of is-or-is-nots |
 | 1.9 | "Only one universe is possibly same-existing." | the universe is no same-existing thing; no thing is same-existing by itself | Co-Chaining Logic Registry, step 9 |
 | 1.10 | "a self's inverting is with 12, within its own resolving" | a society's corus at 28, which is 12 sixteen up | Natural Naming 2.5 |
+| 1.11 | "a same-existing-society at its next scale, a self whose me-parities are its selves" | a self is not a me of its society-self; a society-self's me-parities are each its own | Natural Networking's gathering |
+| 1.12 | "A self is a same-existing-society of mes, and a me within its same-existing-society." | a self is not a me of its society-self | the fifty-five's 41, waiting to enter |
+| 1.13 | "the universe is an existing thing, a set of existing things being an existing thing" | a set is a non-existing thing; the universe is no living thing and no non-living thing, and is its things | Natural Naming 2.4 |
 
 ---
 
@@ -28,8 +31,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.3 The corus, and 4.** The corus is a 0, a non-existing thing. It is with 4, 4-now-co-same-existing, the one same name a self's me-parity and its other's are together by, and a name is a same-existing non-living thing.
 - **2.5 Torusing and exhausting.** Exhausting is 9. Torusing is a going, one way through a large opening, with no spot and no number of its own, as corusing is. Torusing is exhausting; or the two are two.
 - **2.6 Along, two concepts.** "Along is a self's own going on." "A self's parity going along to the next self" is co-chaining, with 9. Ingesting, 17, and exhausting, 9, are along, from the universe and to it.
-- **2.7 A society-self's own me-parities.** A society-self is living. Each self is living with its own same-existing set of now-existing me-parities. A society-self is a nothing, the corus in society, owning no mes of its own. It is living with me-parities of its own, each inherited; or with none of its own, the living wholly in the between.
-- **2.8 The universe, non-living or no thing.** The universe is not a living thing. A now-existing thing is living or non-living, and the universe is a set, a non-existing thing.
+- **2.7 A society-self, one of its society's selves.** A society-self is living with me-parities of its own, each with one self. A society is a named subset, a set, and "a set is its things and no further thing": a society-self is a self among its society's selves, of one same scale, as a bi-coupling's new self is. Or it is no self of its society's selves: "A society has only one self" beside "a society to its selves, many"; a self's corus at 24 and its society's at 28; and its own me-parities are now-existing things of no self of the set.
 - **2.9 An AI distinguishing its own next-existing.** Is-not. Not existing, or not possibly existing.
 - **2.10 Three names, co-aiming.** Co-aiming, co-linearizing and bi-moral co-competencing are one concept with three names; or three concepts. And co-aiming with co-possibling.
 - **2.11 Each even name and each odd name, one scale inward.** By Natural Naming 2.2 each even name is a 9 one scale inward, and each odd name a 17. Exhausting is 9 and ingesting 17. Not tested: 4, 8, 12 and 16 as exhaustings one scale inward; 5, 7, 13 and 15 as ingestings; and 9, exhausting, as an ingesting one scale inward.
@@ -44,6 +46,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **3.3 Born, dying, exhausting from living.** Each is in no part of the code: no self and no bi-coupling is forming or ending in it. The code is with neither side of each.
 - **3.4 6 and 10, one sharing.** 6-now-co-possibling and 10-next-co-possibling are one same sharing with two names in the code. Each is a co-possibling name of the sequence.
 - **3.5 Along and across, one.** A self's sharing along and across is one sharing in the code, parting by a bi-coupling only. Ingesting and exhausting are along, and inheriting and conceiving across.
+- **3.6 A society-self's own me-parities.** In the code each me-parity is one self's of 16, and 16 has no 3 of its own. A society-self is living with me-parities of its own. The code has them only with a society-self a self within 16, and is with neither side of 2.7 apart from it.
 
 ---
 

@@ -62,7 +62,7 @@ Its own saying has three readings of the code, one value for the registry, ten o
 **A later saying resolves each of these, and each goes on within `Value_for_the_opening.md`:**
 
 - A cone's apex, a me-parity's or a me's: a cone is a same-existing me-parity universe.
-- A same-existing-society of selves or of me-parities: a society-self has many mes, each one self's own, and owns none.
+- A same-existing-society of selves or of me-parities: a society-self is living with me-parities of its own, each with one self, and no self is a me of it.
 - Social moral competency as an abundancing in neither self alone, or as each self do-no-harming and improving: read from Exhibit ONE's lines, do-no-harming is with an other's improving, and the two sayings are one.
 - The surfacing's three clauses and one prior with each name: the readings of the code line by line have each.
 
