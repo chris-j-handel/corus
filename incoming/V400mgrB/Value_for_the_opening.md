@@ -556,6 +556,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - It is tested with stable form. The gathering has dormancy as "the stable form of living" and, beside it, "living has no stable form". With dormancy an aiming, a living thing's, dormancy is living, and the gathering's first saying parts.
 - With the sentence of a same-existing self, section 5.17: a bi-coupling-self between one bi-coupling of its two and their next is a same-existing self, and a candidate for its being between the two is dormancy.
 
+- The reading of this section, the code's durable 0 as dormancy, is out: in it two others are bi-coupled with the self and sharing with each moment, and dormancy is a me-parity and no other self co-competencing, section 5.22. Dormancy is in no part of the code with one scale. `Partings_Tracked.md`, 3.1.
+
 ### 5.19 Two kinds of same, same-existing and same as
 
 - A sentence ending *not the same* has no existing in explaining without its more: the same as what.
@@ -873,7 +875,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Natural Numbers 6.3.* "**About twenty-eight its outer pair is twenty-four and thirty-two, four either side, and its inner pair twenty-seven and twenty-nine, one either side**". And of a self: "23, 24 and 25, one before its apex and one after".
 - Two threes alike, each in the set's own sentence: 23, 24 and 25, one either side of 24; and 27, 28 and 29, one either side of 28. Each middle is a same-existing name, each first an observing name, and each last an existing or discovering name. 26 is between the two threes, a co-possibling name: "co-possibling is in the between of the bi-coupling".
 - A candidate, for breaking: a society's corus is at 28, 27 and 29 its corusing and torusing, as a self's corus is at 24 with 23 and 25. Section 1.3: "A society-self is a nothing, the corus in society".
-- A second candidate is in the set too: a society's corus at 32. 16 is "a same-existing-society" by Exhibit ONE's own sentence, 32 is 16 sixteen up, the last of a same-existing-society's span, 25 to 32, as 24 is the last of a self's; and Natural Numbers has 24 and 32 as one outer pair.
+- A society's corus is at 28: is. With it, a self's corus is 4 twenty up, and its society's 12 sixteen up, 4's own 8 up.
+- A second candidate is out: a society's corus at 32. 16 is "a same-existing-society" by Exhibit ONE's own sentence, 32 is 16 sixteen up, the last of a same-existing-society's span, 25 to 32, as 24 is the last of a self's; and Natural Numbers has 24 and 32 as one outer pair.
 - Parting. Natural Naming's table has 8 and 16 as torusing, and by sixteen up 24: 24 is the corus, and torusing 25.
 - Not read yet: 28 and 29 with a sentence of bi-moral co-competencing; and "5, 10, 15, 20 and 25 are locating".
 
@@ -881,7 +884,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is a society's corus at 28: is, or is not?
+- Is corusing 3-is-now-co-observing: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?

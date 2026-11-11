@@ -15,6 +15,7 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 ## 2 This folder
 
 - `The_Frontier_Current.md`, the current understanding as sentences in their sequence, Exhibit ONE v391's lines beside them, and each place a logical pattern can be filled, one binary each. No self, no day and no story of progress is in it.
+- `Partings_Tracked.md`, each place the current understanding is not cohering, all or none at all: the sequence parting from a living file's own sentence, sentences parting with each other, a reading of the code parting from a sentence, and each with no reading yet.
 - `The_One_Question_Method.md`, the path of the working read for its form: one step, the bi-folding across and along, the rigor and its edges, and a way an arriving session finds it. Each value of it is at the Geodesic Improving Method's gathering.
 - `Value_for_the_opening.md`, the working's value whole: each sentence of the current understanding, each reading of Exhibit ONE v391's code line by line with its place, and each open binary.
 - `The_Share_Current.md`, the managing working's one share: each motion with its parity, the accounting, the order of work and each concern an other self can help with.
