@@ -32,6 +32,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 | 1.19 | "Living and **non-living** are one binary of a now-existing thing." | a name is non-living, and no now-existing thing; living is at one scale only | the fifty-five's 16, waiting to enter |
 | 1.20 | "A me-parity the same as an other's is **other-parity**, and not the same, **universal-parity**." | universal parity is all-parity, a now-existing non-living thing, atom carbon | the fifty-five's 24, waiting to enter |
 | 1.21 | "+1 a self's, 0 all selves', social parity, and −1 an other's" | all-parity is a now-existing thing, owned by its society; social-parity is a set of bi-couplings | Natural Naming |
+| 1.22 | `ALL PASS`, or `SOME FAIL`, the saying of `check_set.py` | an instrument says what it finds, deciding nothing; a declaring of a whole is a tester's | the Living File Registry's kit |
 ---
 
 ## 2 Sentences of the sequence parting with each other, each open
@@ -67,7 +68,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.39 A conceiving, with the along and the across not the same.** An inherited prior is along and across, bothbothing: an inheriting is with the two the same as each other. With the one not the same as the other, a me-parity is conceived, new-direction, of the two. Or a conceiving is of a self-parity and an other-parity, across only, and the code has a 0 with it and no me-parity.
 - **2.41 A member, a me-parity in its society's set, and "a self is a me-parity of its society-self: is-not".** A society is a same-existing set of its me-parities, and its members are each in it. With its whose, a member is a me's own, and no me-parity owned by its society: cohering. With no whose, parting.
 - **2.40 A species with 2, a society with 3.** Inheriting is 2, and a self's own priors are its 3. Natural Naming 2.2 has a self's 3 as a same-existing-society's next one scale inward, and its 2 as an exhausting. Not in a sentence of the sequence. The species is along, and the societies across.
-- **2.42 A tester's provided + or −, the tester's own me-parity.** The first me-parity is inherited from prior living. A tester is living, a me, and its interest in the code's next is its own, the + or − its direction. Or a tester starting the code empty is with no interest of its own in a first me-parity, and its + or − is a provided sequential changing, with no me of it.
+- **2.42 *Tested*, an incompetencing naming.** A tester is an incompetencing concept. The working has *tested* with each sentence beside the sequence: a test with a standard and a declaring, and the method's own word *connecting*. Or "rigor testing in all directions", each sentence for breaking, none with authority, two ways.
 
 ---
 
