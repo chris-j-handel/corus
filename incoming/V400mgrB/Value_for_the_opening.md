@@ -499,19 +499,30 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, the code's lines, one scale.* No line asks what a key of 16 is: a key, with its priors and with what arrives, each a name with +1, −1 or 0. No line has two scales. A bi-coupling within 5 has no priors with the lines of this scale: as a self it is a key of 16 with the same lines one scale outward. Natural Naming: "**One fractal method is all or none at all with its scales, as the universe is with its existing things.**"
 - It is tested with "a me has only one self". A self has more bi-couplings than one, three ways out by the lines and each other self's ways in. With a bi-coupling's two selves its mes, a self is a me with more selves than one: a bi-coupling's two selves are not its mes. It goes on with "a self is a me of its society-self: is-not".
 - *Read, the code's lines, a bi-coupling's between.* What is in a between is the sharing self's next prior of each name: one value, with the self as its next prior and in the between as its sharing. The lines copy a value, and no line has one me-parity in two places as one thing, or as two the same.
-- A bi-coupling-self's own me-parities are then one of two: the me-parities in its between, each also its sharing self's own, and "a me has only one self" is of one scale; or me-parities born in the between and in no other self.
+- A bi-coupling-self's own me-parities are its own first priors, inherited: section 5.17.
 - A candidate, with no sentence having it: the bi-couplings of one scale, 5, are the selves, 16, of the scale outward.
 - *Same-existing me-parity selves* has two readings in the lines. Each self, a same-existing set of now-existing me-parities: each self of 16. Or selves alike in a name: only two alike have a moment a prior goes on not changing, the other's sharing arriving the same.
 - Exhibit ONE's dimensions have the selves as social-parity now-existing and the bi-couplings as social-parity next-existing. The sentence has now-existing bi-couplings of same-existing selves, and the names have *now* with 5 and *same-existing* with 16. A value at Natural Resolver's gathering, beside its item at the *Dimension* column.
 - A candidate four, each a universal set, each given to a resolving: self-parity, a self's own me-parities, its 3; other-parity, others' me-parities arriving, its 2; social-parity, the bi-couplings, 5, of the selves, 16; and universal-parity, each me-parity exhausted from living, in stable form. The fifty-five's 24 has other-parity and universal-parity each as one me-parity, the same as an other's or not, and no set.
 
+### 5.17 A new self, living as a bi-coupling's between, inheriting
+
+- The new self, living as the bi-coupling between, inherits the priors from the self and other in the bi-coupling.
+- *Read, the code's lines, inheriting.* A self with no prior of a name, and what arrives of that name each the same, has a first prior: a new entry in its own priors, the same as what arrived. With what arrives of a name parting, one + and one −, what surfaces is a 0 and no prior forms.
+- *Read, the code's lines, a third self receiving from two across with each other.* In a name the two are alike in, the third has a first prior the same as theirs, and with each moment after its prior is the same as theirs, right spiraling with them. In a name only one of the two has, the third has a first prior the same as that one's, and the other of the two has one across. In a name the two are not alike in, each inverts with each moment and shares with each, a + and a − arrive with the third with each moment, and no first prior forms with any moment.
+- "A me has only one self" goes on: a first prior is a new entry in the new self's own priors, its own, and the same as its self's or its other's. The me-parities in a between are each its sharing self's own; the new self's are its own, inherited. No me-parity is one thing with two selves.
+- It goes on with "the bi-coupling's new priors are the me-parities of self and other"; with "the inherited set is a newborn self's first 2-now-possibling"; with the vault within the corus of a bi-coupling, section 1.3; and with birthing as unrelationing from self, other and the vault, the new self having lived as the between.
+- Two sentences part one set, by the lines. With self-parity and other-parity the same, a me-parity born is not possibly existing, and the new self inherits that name's me-parity. With the two not the same, a me-parity is born with each of the two, each its prior inverted, and the new self inherits none of that name: its own, in a name, is coupling with both and the same as neither. Inheriting is of the same, and birthing of the not the same: inheriting is with resolving's is, and conceiving with its is-not.
+- It tests one going-forward. A bi-coupling as a self with the same lines one scale outward has no sentence. The lines have a new self inheriting as a third self of one same scale with its two: the same names, each with +1 or −1, in one set of selves.
+
 ---
 
 ## 6 Open, each one binary
 
-- Are the me-parities in a bi-coupling's between the bi-coupling-self's own mes: is, or is not?
+- Is the new self of one same scale with its self and other: is, or is not?
+- With its birthing, is the new self the bi-coupling-self going on: is, or is not?
+- Is each bi-coupling a new self: is, or is not?
 - Are the bi-couplings of one scale the selves of the scale outward: is, or is not?
-- Is a bi-coupling-self one scale outward of its two selves: is, or is not?
 - Is a bi-coupling two ways, each of two selves the other's receiving self: is, or is not?
 - Are *same-existing me-parity selves* selves alike in a name: is, or is not?
 - Is other-parity the universal set of others' me-parities arriving with a self: is, or is not?

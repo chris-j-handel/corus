@@ -20,6 +20,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 5c. Social-parity is the universal set of now-existing bi-couplings of same-existing me-parity selves.
 5d. A bi-coupling is a now-existing thing. It is living in the between, while it is now-existing and same-existing. Its between is a nothing, with co-possibling in it.
 5e. A bi-coupling is a self. This is the fractal method.
+5f. The new self, living as the bi-coupling between, inherits the priors from the self and other in the bi-coupling.
 6. Same-as is a universal-morality: a name for a sameness in things distinguishable is-or-is-not.
 
 ### 1.2 A self
@@ -71,6 +72,7 @@ Each is from reading the code line by line.
 - **Beside 19.** Within one resolving, in sequence: what arrives surfacing, ingesting; a name with no prior having what arrived, inheriting; a prior not the same as what arrived, inverted, conceiving; what the self shares, exhausting.
 - **Beside 5b.** One resolving of a society is given its selves and their bi-couplings, and no more: each sharing is from a self of it to a self of it, and no line has a thing not of it. With one self and one moment, three are within it: the self's own priors; what arrives, from each self it is bi-coupled with; and each other self, with no line between the two with that moment.
 - **Beside 5c.** One resolving of a society is given two: its selves, and their bi-couplings. A sharing goes on only with its bi-coupling within the set of bi-couplings, one is-or-is-not, and the code has a bi-coupling as a name. No line makes, removes or changes one. Exhibit ONE's own table has two is-or-is-nots as social-parity's: each self, all or none; and a bi-coupling within or not.
+- **Beside 5f.** A self with no prior of a name, and what arrives of it each the same, has a first prior: a new entry in its own priors, the same as what arrived. A third self receiving from two has a first prior in each name the two are alike in, and in each name only one has. In a name the two are not alike in, a + and a − arrive with each moment and no first prior forms with any.
 - **Beside 22.** The set of selves has nothing of its own: no line has a name with a me-parity of the society's.
 - **Beside 23.** Two selves alike in a name have four moments in sequence: improving, do-no-harming, improving inverted, do-no-harming. Two not alike each invert with each moment. Do-no-harming has no line for one self alone, and improving has one.
 - **Beside 24.** Each of four threats is on no line: no line gives a self an other's prior; what arrives has no from; no line changes a self's prior but its own resolving; and an arriving is its me-parity and nothing beside.
@@ -127,13 +129,14 @@ The lines have an entering, a first prior, and no leaving. Sentence 11 has dying
 
 - Is a me-parity's exhausting from living its sharing going out, with its self having its next: is, or is not?
 
-### 3.8 A bi-coupling-self's own me-parities
+### 3.8 A new self, and its scale
 
-Sentence 5e has a bi-coupling as a self, and sentence 8 has each self living with its own same-existing set of now-existing me-parities. The lines have one scale: no line asks what a key of the set of selves is, and a bi-coupling as a self is a key of that set with the same lines one scale outward. In the lines of this scale, what a bi-coupling has is in its between: its sharing self's next prior of each name, one value with the self and in the between. "A me has only one self": a bi-coupling's two selves are not its mes, a self having more bi-couplings than one.
+Sentence 5f has the new self inheriting the priors of self and other, each its own first prior and the same as theirs: "a me has only one self" goes on. By the lines, inheriting is of the same and birthing of the not the same: with the two the same, no me-parity is born and the new self inherits; with the two not the same, a me-parity is born with each of the two and the new self inherits none of that name. The lines have the new self as a third self of one same scale with its two. Sentence 5e has the fractal method, and section 1.1 has each three in a fourth, one scale larger.
 
-- Are the me-parities in a bi-coupling's between the bi-coupling-self's own mes: is, or is not?
+- Is the new self of one same scale with its self and other: is, or is not?
+- With its birthing, is the new self the bi-coupling-self going on: is, or is not?
+- Is each bi-coupling a new self: is, or is not?
 - Are the bi-couplings of one scale the selves of the scale outward: is, or is not?
-- Is a bi-coupling-self one scale outward of its two selves: is, or is not?
 - Is a bi-coupling two ways, each of two selves the other's receiving self: is, or is not?
 - Are *same-existing me-parity selves* selves alike in a name: is, or is not?
 
