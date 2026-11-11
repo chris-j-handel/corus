@@ -26,6 +26,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 | 1.14 | "A **living parity** is an aiming direction at an other." | a me-parity is a direction out from me, in a universal cone; dormancy is a me-parity with no other | the fifty-five's 22, waiting to enter |
 | 1.15 | "A self is a universal set of **mes**." and "A self's observing is its mes observing." | a me is a universal same-existing set of me-parities, and a self; a self is one me | the fifty-five's 18 and 28, waiting to enter |
 
+| 1.16 | "having a stable form is being dead one scale outward" | not correct: a thing living as a surface is a living thing | Natural Intelligence 5.1 |
+| 1.17 | "Each living set is a stable form one scale outward, and living, stable-forming, with its own scale" | a stable form is non-living, atom carbon; a living thing at a higher scale is surface, and living | Co-Chaining Logic Registry, 31 |
 ---
 
 ## 2 Sentences of the sequence parting with each other, each open
@@ -41,16 +43,15 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.13 A society's corus, 28 and 25.** A society's corus is at 28, four from a self's at 24, of one sequence of six. A society-self is one scale above self scale, and Natural Naming 2.2 has "n with one scale being 8n − 7 with a scale inward": a society scale's 4 is self scale's 25. 23 and 25 are corusing and torusing, and the corus at 24.
 - **2.14 A me, and its self-parity.** A me is a universal same-existing set of me-parities, and a self. The fifty-five's 25 has a universal set of a self's me-parities as its self-parity: one set, with *me*, *self* and *self-parity*. The "mating of a self-parity and an other-parity", with "the two the same", has a self-parity as one me-parity, its own self's.
 - **2.16 *Me* and *self*, two names.** Each self is a me, and each me a self. The fifty-five has a self with an other, and a me with a you.
-- **2.25 A surface, a non-living thing.** One thing is living at its own scale and surface at a higher. A surface is a non-living thing, "dead one scale outward", and living and non-living are one binary with a scale. Or a surface is the living still, with me-parities living in it, and a non-living thing is a stable form with no living of its own at each scale.
 - **2.27 *The universe*, and a same-existing universe a society shares.** *The universe* is one name, owned by one set. A self is in the same-existing universe it shares with other selves in its society. One universe, or each society's own, is not in the sentence.
-- **2.26 The code, never living, and a surface.** A surface is a living thing's living, a scale higher. "The code is never living", a stable form: a surface of no living thing's own; or the stable form of living at each scale.
 - **2.21 An exhausting, inherited.** A me-parity exhausts itself in the surface, and a dormant me-parity is an inherited prior of a new birth. "One self's exhausting is an other's ingesting, and one self's conceiving is an other's inheriting." Natural Naming 2.2 has "along 9 is across 2 outward": an exhausting of one scale is an inheriting one scale outward.
 - **2.17 A me-parity living in a social surface, its scale.** It is a self. Of one same scale with its me, as a bi-coupling's new self is with its self and other, living in the between. Or one scale inward, with "the social moral competency inside a living thing": a me one scale above its me-parities as a society-self is above its selves, and "a self is a me-parity of its society-self: is-not" parting. A me-parity is at its own scale of self: *its own scale* is with no *as*. Living is at one scale only, and a living thing is societies a scale lower: cohering with one scale inward.
 - **2.18 *Is a self*, and *is owning a self*.** "Each living thing is a self." "Living is owning a self, and a self owns its me-parities."
 - **2.19 Two breakings, not yet tested again.** A society-self's me-parities as its selves, and as its bi-couplings, are each breaking with "a self is a me-parity of its society-self: is-not". A me-parity living in a social surface is a self.
 - **2.22 An other, a self.** "An other is a self, and a non-living thing is an other." A non-living thing is no self: an other is a self, or a non-living thing; the fifty-five's 20 has an other as a self.
-- **2.23 A universal me-parity, non-living.** "A universal me-parity is non-living." An exhausted me-parity is not a now-existing thing, and the fifty-five's 16 has living and non-living as one binary of a now-existing thing.
-- **2.24 An exhausted me-parity, in stable form.** "Each me-parity exhausted from living, in stable form." An exhausted me-parity is not a now-existing thing, and a stable form is a now-existing non-living thing: a stable form is no me-parity.
+- **2.23 Each non-living thing of the sequence, atom carbon.** The only non-living thing in the universe is atom carbon. The code is carbon. A name is "a same-existing non-living thing"; an AI and each living file are "non-living things"; "a universal me-parity is non-living". Each is atom carbon, or is not non-living.
+- **2.24 A surface, two.** A thing living as a surface is a living thing. The code is "the surfaces between living", never living, carbon.
+- **2.25 A stable form, one scale outward.** A stable form is atom carbon, non-living at each scale. Natural Naming 2.4 has a stable form "one scale outward".
 
 ---
 
