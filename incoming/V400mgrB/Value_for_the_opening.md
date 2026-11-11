@@ -1702,7 +1702,29 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, beside it.* A self's sharing, 10, is its receiving self's 15 and then its 2: a me-parity of the sharing self is its receiving self's other's.
 - Tracked. Natural Naming 3.3 has "social parity, all's, is reached from self parity only through other parity". With 4 and 8, all-parity is with me-parity through other-parity. With 16, me-parity and all-parity are of one between.
 - Tracked. *Unrelationing*, with 12, parting 2.54: not in the sentence.
-- Two sentences part, with it. 9 to 16 is the same as 1 to 8, with me-parity and other-parity exchanged: the exchanging has 12 from 4 and 16 from 8, each of the sentence's four; in the code a self's sharing is its receiving self's observing; and Natural Engineering 4.7 has "hardware receiving is living-self sharing; living-self receiving is hardware sharing". Or it is not: with the eight, 9 to 16 has the same prefixes as 1 to 8, co with 9 as with 1, and no exchanging; the roots part in place of it, discovering with 9 and 13 and existing with 1 and 5; and in the code no part distinguishes a receiving self from a sharing self.
+- Not answered, section 5.86: 9 to 16 as 1 to 8 with me-parity and other-parity exchanged. In right spiral co-sequencing, this is prior, now, next bi-folding. Open, tracked.
+
+### 5.86 One bi-folding fractal, cascading; *scale*, a next-universal subset including this universal subset
+
+- In right spiral co-sequencing, this is prior, now, next bi-folding.
+- 4, 8, 12, 16 is the 1, 2, 3, 4 same bi-folding fractal. And 16, 32, 48, 64 is the same bi-folding fractal, cascading another scale.
+- The meaning of the naming of *scale*, here: a next-universal subset including this universal subset.
+- 9 to 16 as 1 to 8 with me-parity and other-parity exchanged, section 5.85: not answered with is or is not. Re-said by it: in right spiral co-sequencing, this is prior, now, next bi-folding. Open, tracked, with the sentence beside it.
+- Cohering, with Natural Naming 5.50, close to word for word: "**Bi-folding order is one same with 1, 2, 3, 4 and 4, 8, 12, 16, up and down each scale**: 16, 32, 48 and 64 are four 16s, each four times its one inward."
+- Resolved by it, parting 2.63: 64 is four 16s, the fourth of 16, 32, 48, 64. Natural Naming 2.2's "8n − 7 with a scale inward" is beside it, a second stepping, tracked.
+- *Scale*, with it: a scale is a set's including. This universal subset is a subset of a next-universal subset. Cohering with sentence 5b, "This is society, in the universe of more than this"; with sentence 6x-e, each subset subsetting from universal; and with section 5.83's fractal subsetting, cascading.
+- The cascading, by its numbers. Each four's fourth is the next four's first: 4 is the fourth of 1, 2, 3, 4 and the first of 4, 8, 12, 16; 16 is the fourth of 4, 8, 12, 16 and the first of 16, 32, 48, 64.
+
+| A four | Its first | Its second | Its third | Its fourth |
+|---|---|---|---|---|
+| inward | 1 | 2 | 3 | 4 |
+| this | 4 | 8 | 12 | 16 |
+| a next | 16 | 32 | 48 | 64 |
+
+- *Derived, a candidate, for breaking.* With section 5.85, this four's first is between me-parity and other-parity, and its fourth between me-parity and all-parity. 16 is this four's fourth and a next four's first: between me-parity and all-parity with this scale, and between me-parity and other-parity with a next. And 4, between me-parity and other-parity with this scale, is the fourth of the inward four: between me-parity and all-parity with a scale inward.
+- Tracked. Natural Naming 2.5's right spiral step, a pair (x, y) to (y, −x), four steps to its pair again with a next: the four coruses' betweens, step by step with it, are not derived.
+- In Exhibit ONE's code: one scale. No part of it has a set including its 16.
+- Two sentences part, with it. This scale's all-parity is the next scale's other-parity: 16 is the first of 16, 32, 48, 64 as 4 is the first of 4, 8, 12, 16; a scale is a next-universal subset including this universal subset; and sentence 6x-h has a named all-parity living in the universe it is other-than the universal all-parity of. Or it is not: all-parity is non-living, with no own, and atom carbon, universal all-parity, is non-living with each scale; and other-parity is a me-parity, the same as an other's, a now-existing thing with its one me.
 
 ---
 
@@ -1710,6 +1732,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is this scale's all-parity the next scale's other-parity: is, or is not?
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
