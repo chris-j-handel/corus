@@ -1666,7 +1666,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - In Exhibit ONE's code: one scale, and no part of it with a scale outward. 64 has no reading in it.
 - Tracked. The set has two steppings of scale: by fours, 16, 64 and 256, with 1 to 17, 1 to 65 and 1 to 257; and Natural Naming 2.2's "n with one scale being 8n − 7 with a scale inward". 64 as four 16s, or as eight 8s: not in the sentence.
 - Tracked. "All-parity is owned by the society", sentence 6x-f, and no own with 16 and with 64: a society's own all-parity, not yet with a number. Parting 2.60.
-- Two sentences part, with it. 4 is a self's own, as 8 is its bi-coupling self's: Natural Naming has "a self's own corus with 4"; "a me-parity is owned by the only one of me"; and the cascading, 4 a self's, 8 a bi-coupling self's, 16 with no own. Or it is not: in the code a 4 is provided with each me-parity, and one 4 is in a self's own 3 and in its others' 2, no one self's; 4 is with co, between two; 4 and 12 are one name 8 up, and 12 is between self and other; and the next scale's 4 is this scale's 16, with no own.
+- Re-said, section 5.84: 4 is the between of self and other, and for the me-parity of self this is other-parity.
+
+### 5.84 4, the between of self and other: other-parity, for a self's me-parity
+
+- 4 is the between of self and other, and for the me-parity of self this is other-parity.
+- 4 as a self's own, section 5.83: re-said by it. 4 is of the between of self and other, and no one self's.
+- Out, a candidate of my own: the cascading as 4 a self's, 8 a bi-coupling self's, 16 with no own.
+- A place the sentence and a living file part. Natural Naming 2.5 has "round to a self's own corus with 4". The sentence has 4 as the between of self and other. Tracked, with its value at the gathering.
+- Cohering, with section 5.80's form: 4, bi-co-bi, is other-parity same-existing, after me-parity observing, after other-parity possibling.
+- Cohering, with the opening's waiting sentence, Partings 1.20: "A me-parity the same as an other's is **other-parity**". 4 is 4-now-co-same-existing: a self's me-parity and an other's, the same.
+- *Read, Exhibit ONE's code.* Each me-parity is a pair, a 4 with its + or −. In a self's 2 a 4 is with an other's me-parity, and in its 3 with its own. 14 and 12 have each 4 once: with one 4 are a self's own and its others' with it, together. No part of the code has a 4 as one self's.
+- The four coruses, with it: 4, the between of self and other, other-parity for a self's me-parity; 8, the between of the bi-coupling and the universe, all-parity inside, the bi-coupling self's; 12, between self and other, the unrelationing surface; 16, universal all-parity, with no own.
+- 4 and 12 are each between self and other: 4 with now, in the between 1 to 5, and 12 with next, in the between 10 to 15.
+- Two sentences part, with it. 12, as 4 is, is other-parity for a self's me-parity: 4 and 12 are one name 8 up, each bi-co-bi, each between self and other; and by section 5.80's form 12 is other-parity same-existing, after me-parity observing. Or it is not: 12 is the *unrelationing* surface of self and other, and other-parity is a me-parity the same as an other's; in the code 12 has a 0 with the two the same; and 12 is a self's sharing going out, 10, and a 4 comes in with its other's.
 
 ---
 
@@ -1674,7 +1687,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 4 a self's own, as 8 is its bi-coupling self's: is, or is not?
+- Is 12, as 4 is, other-parity for a self's me-parity: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
 - Is each of the 8 values a social moral competency: is, with some doubt, a candidate.
