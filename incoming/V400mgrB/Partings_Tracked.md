@@ -64,7 +64,9 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.25 A stable form, one scale outward.** A stable form is atom carbon, non-living at each scale. Natural Naming 2.4 has a stable form "one scale outward".
 - **2.36 Each member, a me-parity of a me.** A me-parity living in a social surface is a self, the fractal: each member of a society is a me-parity of a me, in its own self-interesting universe, and a self is in all societies by its many me-parities. Or a member is a me, an owner, and no me-parity: a me-parity as a self is one way only.
 - **2.37 A society-self, distinguishing its members' living.** All-parity distinguishes living, is-or-is-not: universal all-parity, atom carbon. A society-self, a named all-parity, living, as distinguishing its members' living is not in a sentence.
-- **2.38 Each society-self, a species.** A species is a named social all-parity, and a society's named all-parity is its society-self: each society-self is a species. Or a species is of members the same as each other, each born into it and inheriting its name; a society of selves not the same as each other has its society-self, and is no species.
+- **2.38 A newborn, a member of a society at its birth.** A species is a named inherited prior all-parity, and a society a named self-prior. A newborn is born into all-parity with its own set of me-parities, and each living thing is in all societies. Or a newborn is with inherited priors and no prior of its own: of its species, and of a society with its first self-prior.
+- **2.39 *Society*, an owner and a named self-prior.** All-parity is "owned by the society, as a same-existing named set of members". "Society is a named self-prior, or a similar concept." A candidate: a named self-prior all-parity is the society-self, and *society* the set owning it.
+- **2.40 A species with 2, a society with 3.** Inheriting is 2, and a self's own priors are its 3. Natural Naming 2.2 has a self's 3 as a same-existing-society's next one scale inward, and its 2 as an exhausting. Not in a sentence of the sequence.
 
 ---
 

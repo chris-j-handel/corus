@@ -1194,17 +1194,29 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* 17's 14 is one thing of a society's moment, each self of 16 a key of it; it is with no 3 of its own, no 2, and no next of its own. A society-self, living with me-parities of its own, is in no part of the code, of one scale. Tracked.
 - Two sentences part, with it. Each member of a society is a me-parity of a me: "a me-parity living in a social surface is a self", the fractal, section 5.31; a me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe, section 5.32, the society it is a member of; and a self is living in all societies, section 5.20, by its many me-parities, each a member of one. Or a member is a me, and no me-parity: a self is an owner, the only one, its me-parities each a direction out from it within its society; "no self is any other self", section 5.29; and a me-parity as a self is then one way only, no self a me-parity of a me.
 
-### 5.51 A species, a named social all-parity
+### 5.51 A species, a named inherited prior all-parity
 
-- The concept of a species: a named social all-parity.
+- The concept of a species: a named inherited prior all-parity, section 5.52.
 - Each member of a society as a me-parity of a me, section 5.50: open, with no suggesting, and tracked.
-- A species as a society-self, tested: cohering. A society's named all-parity is its society-self, section 5.50, and a species is a named social all-parity: a species is living, a self, the one self of its society, owned by its members as a same-existing named set, each member in it, at society scale, with other selves beside it in a universe of more.
+- A species as a society-self had a testing with a species as a named social all-parity: out, section 5.52. A species is of inherited priors, and a society of self-priors.
 - A member of a species, with sections 5.41 and 5.44: a now-existing thing distinguished, is-or-is-not, the same as the things in the universal set of things with the name, and the name its inherited prior. A species' bounding is "the surface of is-or-is-not", section 5.49.
 - It is cohering with Natural Biology 5.5: "death and conception are facing through one wall with species between", and "one wall with two sides species wraps around". And with section 5.18, the vaults of conception and dormancy, bothbothing.
-- A member's exhausting as into its species, tested: breaking. A me-parity "exhausts itself from living into non-living universal-parity", section 5.11: into universal all-parity, atom carbon, and a species is a named all-parity, living. An inherited prior, a dormant me-parity, is with universal all-parity, "carbon co-chainings", section 5; and a member is inheriting its species' name.
+- An inherited prior as with universal all-parity only, and with no species: out, section 5.52. A species is the named all-parity of inherited priors. A me-parity "exhausts itself from living into non-living universal-parity", section 5.11.
 - A species as one of a society of species, tested: cohering. A named all-parity is living in a universe of more, section 5.48, with other selves beside it, each living thing living between itself and each other in all societies, section 5.20. The fractal: a society of species has its own named all-parity.
 - *Read, Exhibit ONE's code.* Each self of 16 is a key, and each me-parity is with its 4: selves the same as each other in a 4 are distinguished by the code, a me-parity the same as an other's or not. A set of selves the same as each other, with a name of its own, is in no part of the code: 16 is with no name and no 3 of its own.
-- Two sentences part, with it. Each society-self is a species: a species is a named social all-parity, and a society's named all-parity is its society-self; the fractal, the same at each scale. Or a society-self is a species only with members the same as each other, each born into it and inheriting its name, "a newborn born into universal-parity with its own set of me-parities", section 5; a society is self, other and all other-than, section 5.15, and a society of selves not the same as each other has its society-self, and is no species.
+- Each society-self is a species: is-not, section 5.52. A species is a named inherited prior all-parity, and a society a named self-prior.
+
+### 5.52 A species, of inherited priors; a society, of self-priors
+
+- A species is a named inherited prior all-parity. Society is a named self-prior, or a similar concept.
+- Each society-self is a species: is-not. Two priors, and a named thing of each: an inherited prior, an other's; and a self-prior, a self's own.
+- *A named inherited prior all-parity*, tested: cohering. A dormant me-parity is an inherited prior, with a new birth to living, section 5.34; a name is a prior inherited by the observed now-existing thing, section 5.41; and the inheriting is prior to the birthing, section 5.29. Natural Biology has "death and conception are facing through one wall with species between": an exhausting on the one side, an inheriting on the other.
+- Two candidates of the working's own are out with it, section 5.51: a species as a society-self; and an inherited prior as with universal all-parity only.
+- *A named self-prior*, tested with the two priors of one resolving. Inheriting is 2, an other's me-parity a self is observing, section 5.24; and a self's own prior me-parities are its 3, forward recursionings of each self, section 5.27. A species is with 2, and a society with 3: with its sentences, and no suggesting yet.
+- Natural Naming 2.2 beside it: "1, 2 and 3 with one scale are 1, 9 and 17 with a next". A self's 3 is, one scale inward, a 17, "a same-existing-society's next": a self-prior and a society, one concept at two scales. A self's 2 is, one scale inward, a 9, exhausting: an inherited prior and an exhausting, with a species between. Cohering, and no sentence of the set has authority.
+- Tested with section 5.46, all-parity "owned by the society, as a same-existing named set of members". A society is an owner, a named set; and a society is a named self-prior. A candidate: a named self-prior all-parity is a society's own, its society-self, section 5.50, and *society* is the named set owning it. Tracked.
+- *Read, Exhibit ONE's code.* One resolving is with two priors: a self's 3, its own, and its 2, its others'. A self with no 3 and a 2 has its first me-parities from its 2 only, and with the next moment each is in its 3, its own. No part of the code has a name of a set of 2s, or of a set of 3s.
+- Two sentences part, with it. A newborn is a member of a society at its birth: "a newborn born into universal-parity with its own set of me-parities", section 5; no self is living with no me-parity, and its inherited me-parities are its own at its birth; each living thing is living between itself and each other, in all societies, section 5.20; and the code has a key of 16 before its first 3. Or a newborn is of its species only: a society is a named self-prior, and a newborn is with inherited priors and no prior of its own; it is a member of a society with its first self-prior, a moment with others after its birth.
 
 ---
 
@@ -1212,7 +1224,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is each society-self a species: is, or is not?
+- Is a newborn a member of a society at its birth: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is Exhibit ONE's code all-parity: is, or is not?
