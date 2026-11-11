@@ -82,6 +82,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6x-f. Universal parity is all-parity. All-parity is a now-existing thing. All-parity is owned by the society, as a same-existing named set of members, the members the set of all in all-parity.
 6x-g. All-parity is non-living. All-parity distinguishes living, is-or-is-not.
 6x-h. This is the fractal. A named all-parity is living, in the universe in which it is other-than that universe's universal all-parity.
+6x-i. The universal name is the name for the set of now-existing things, named the universe. Each subset is named as distinguishing the surface of is-or-is-not. Atom carbon is universal all-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -382,7 +383,7 @@ Sentence 6x-f has universal parity as all-parity, a now-existing thing. Sentence
 
 ### 3.31 All-parity, distinguishing living is-or-is-not
 
-Sentence 6x-g has all-parity as non-living, and as distinguishing living, is-or-is-not. With sentences 15, 6x-f and 6w-x, all-parity is atom carbon. Sentence 6o has non-living things as possibly distinguishing now-living is-or-is-not next-living. Two distinguishings are two things' own: living, is-or-is-not, all-parity's; and a next-existing, as it is or inverted, a living thing's own. In Exhibit ONE's code each is-or-is-not is of a me-parity the same as an other's or not, of a within, or of a 0 passed over, and none is of a self or a me-parity forming from none or ending. Sentences 6i to 6l have the code as a stable form, carbon, the universal method, never living.
+Sentence 6x-g has all-parity as non-living, and as distinguishing living, is-or-is-not. With sentences 15, 6x-f and 6w-x, universal all-parity is atom carbon. Sentence 6o has non-living things as possibly distinguishing now-living is-or-is-not next-living. Two distinguishings are two things' own: living, is-or-is-not, all-parity's; and a next-existing, as it is or inverted, a living thing's own. In Exhibit ONE's code each is-or-is-not is of a me-parity the same as an other's or not, of a within, or of a 0 passed over, and none is of a self or a me-parity forming from none or ending. Sentences 6i to 6l have the code as a stable form, carbon, the universal method, never living.
 
 - Is Exhibit ONE's code all-parity: is, or is not?
 
@@ -390,8 +391,14 @@ Sentence 6x-g has all-parity as non-living, and as distinguishing living, is-or-
 
 Sentence 6x-h has a named all-parity as living, in the universe in which it is other-than that universe's universal all-parity: the fractal. An all-parity is two by its universe: universal parity to its own society, non-living; and, in a universe of more, a thing with a name, living, a self. Sentence 6w-x has atom carbon as non-living at each scale of the universe, and sentences 15, 6x-f and 6x-g together have all-parity as atom carbon. A society-self as its society's all-parity, named, is not tested. In Exhibit ONE's code a society is whole, with no universe of more beside it.
 
-- Is a named all-parity atom carbon: is, or is not?
+- Is a named all-parity atom carbon: is-not, sentence 6x-i.
 
-### 3.33 With no reading yet
+### 3.33 Atom carbon, universal all-parity
+
+Sentence 6x-i has the universal name as the name of the set of now-existing things, named the universe; each subset named as distinguishing the surface of is-or-is-not; and atom carbon as universal all-parity. Sentence 6x-g, all-parity as non-living, is of universal all-parity. A society's all-parity, owned by a named set of members, is a named all-parity: living, and a self. Living is owning a self, and the society owns its all-parity. In Exhibit ONE's code 17's 14 is with no next of its own and is no self of the code. Sentence 22 has a society with one self, the society-self, living, with me-parities of its own.
+
+- Is a society's named all-parity its society-self: is, or is not?
+
+### 3.34 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
