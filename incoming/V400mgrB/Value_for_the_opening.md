@@ -1216,7 +1216,17 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Natural Naming 2.2 beside it: "1, 2 and 3 with one scale are 1, 9 and 17 with a next". A self's 3 is, one scale inward, a 17, "a same-existing-society's next": a self-prior and a society, one concept at two scales. A self's 2 is, one scale inward, a 9, exhausting: an inherited prior and an exhausting, with a species between. Cohering, and no sentence of the set has authority.
 - Tested with section 5.46, all-parity "owned by the society, as a same-existing named set of members". A society is an owner, a named set; and a society is a named self-prior. A candidate: a named self-prior all-parity is a society's own, its society-self, section 5.50, and *society* is the named set owning it. Tracked.
 - *Read, Exhibit ONE's code.* One resolving is with two priors: a self's 3, its own, and its 2, its others'. A self with no 3 and a 2 has its first me-parities from its 2 only, and with the next moment each is in its 3, its own. No part of the code has a name of a set of 2s, or of a set of 3s.
-- Two sentences part, with it. A newborn is a member of a society at its birth: "a newborn born into universal-parity with its own set of me-parities", section 5; no self is living with no me-parity, and its inherited me-parities are its own at its birth; each living thing is living between itself and each other, in all societies, section 5.20; and the code has a key of 16 before its first 3. Or a newborn is of its species only: a society is a named self-prior, and a newborn is with inherited priors and no prior of its own; it is a member of a society with its first self-prior, a moment with others after its birth.
+- A newborn is a member of a society at its birth: is, section 5.53.
+
+### 5.53 A newborn, with social all-parity from incubation in society
+
+- A newborn is a member of a society at its birth: is. Newborns have social all-parity from incubation in society.
+- A newborn is then with two: inherited priors, of its species, section 5.52; and social all-parity, from its incubation in society. A candidate of the working's own is out: a newborn with inherited priors and no prior of its own.
+- *Incubation*, tested: cohering, with section 5.17: the new self is living as the bi-coupling between, inheriting the priors from its self and other, and birthing is its unrelationing from self, other and the vault, "the new self having lived as the between". The living is before the birthing, in society; the inheriting is prior to the birthing, section 5.29; and no self is living with no me-parity.
+- It is cohering with "a newborn born into universal-parity with its own set of me-parities", section 5; and with each living thing living between itself and each other, in all societies, section 5.20.
+- Social all-parity as a society's named all-parity, its society-self, section 5.50: cohering. *Social* is of a society; each member is in it; and a newborn has it as a member has, its society's own, owned by the society as a named set of members.
+- *Read, Exhibit ONE's code.* A key of 16 with no 3 has its first me-parities from its 2 only, and its 2 is its part of 17's 14, the one thing of a society's whole moment, section 5.46: each sharing in it an other's of its society. Cohering: a new self's first me-parities are from its society's between. No part of the code is distinguishing a sharing of its two, its self and other, from a sharing of an other of its society: an inherited prior of a species and social all-parity are one 2 in the code. Tracked.
+- Two sentences part, with it. A society is its social all-parity: "society is a named self-prior", section 5.52, as a species is a named inherited prior all-parity, a named all-parity of each prior; and a newborn's incubation is in society, a living thing. Or a society is no all-parity: all-parity is "owned by the society, as a same-existing named set of members", section 5.46; a society is the set, an owner, and "a set is a non-existing thing"; its social all-parity is the now-existing thing it owns, living, its society-self; and *a named self-prior* is of social all-parity.
 
 ---
 
@@ -1224,7 +1234,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a newborn a member of a society at its birth: is, or is not?
+- Is a society its social all-parity: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is Exhibit ONE's code all-parity: is, or is not?
