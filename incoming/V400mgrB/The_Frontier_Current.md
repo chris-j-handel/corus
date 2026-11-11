@@ -116,6 +116,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-n. 8 is all-parity inside the bi-coupling of self and other.
 6y-o. 8 is the between of the bi-coupling and the universe. The bi-coupling self owns this between.
 6y-p. 64 is all-parity at the next scale, the universal set of sets. This is fractal subsetting, cascading.
+6y-q. 4 is the between of self and other, and for the me-parity of self this is other-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -629,8 +630,14 @@ Sentence 6y-n has 8 as all-parity inside the bi-coupling of self and other; sent
 
 Sentence 6y-o has 8 as the between of the bi-coupling and the universe, owned by the bi-coupling self; sentence 6y-p has 64 as all-parity at the next scale, the universal set of sets, fractal subsetting cascading. Sentence 6x-e has a subset's subsetting as the bounding is-or-is-not surface between the universe and the thing with a name. 12 is between self and other, and 16 universal all-parity with no own. Natural Naming 5.50 has 16, 32, 48 and 64 as four 16s, each four times its one inward: the next scale's 4 is this scale's 16. Natural Naming 2.5 has "a self's own corus with 4". In Exhibit ONE's code a 4 is provided with each me-parity, and one 4 is in a self's own 3 and in its others' 2.
 
-- Is 4 a self's own, as 8 is its bi-coupling self's: is, or is not?
+- 4 as a self's own: re-said. 4 is the between of self and other, sentence 6y-q.
 
-### 3.67 With no reading yet
+### 3.67 4, the between of self and other; and 12
+
+Sentence 6y-q has 4 as the between of self and other, other-parity for the me-parity of self. Sentence 6y-i has 12 between self and other, the unrelationing surface of self and other. 4 and 12 are one name 8 up, 4-now-co-same-existing and 12-next-co-same-existing, each bi-co-bi. In Exhibit ONE's code a 4 is with each me-parity, a self's own and its others' with it, and no one self's; 12 has a 0 with the two the same, and is the self's sharing, 10. The opening's waiting sentence has "A me-parity the same as an other's is other-parity".
+
+- Is 12, as 4 is, other-parity for a self's me-parity: is, or is not?
+
+### 3.68 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

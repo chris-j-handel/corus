@@ -50,6 +50,7 @@ Gathering-Value · Natural Naming
 ### 2.5 One sense per foundation word
 
 - **Possible incohering** · "**A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**" → *A self's inverting* is not natural naming. With 12 is the stable-forming surfacing of self as a society of selves. The gathering of sayings has the same, to be re-said with it — at "a self's own inverting is with 12, within its own resolving"
+- **Possible incohering** · "round to a self's own corus with 4" → 4 is the between of self and other, and for the me-parity of self this is other-parity: of the between, and no one self's. Read from Exhibit ONE's code, a 4 is with each me-parity, a self's own in its 3 and its others' in its 2, and with one 4 the two are together. The four coruses with it: 4, between self and other; 8, between the bi-coupling and the universe, the bi-coupling self's; 12, between self and other, the unrelationing surface; 16, universal all-parity, with no own.
 
 ### 2.6 Two prefixes with one spelling, and a one-way prefix installing a form it opposes
 
