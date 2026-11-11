@@ -598,14 +598,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - An other is a self, and a non-living thing is an other: a binary a suggesting could resolve, at the fifty-five's sentence 20, is resolved by it. A self is in societies, more than one: the binary of a self with one society only is resolved too.
 - The candidate of living as with an other goes on, with its other said: each other self in each of its societies, and each non-living thing. A living thing is with no moment having no other: the universe has each non-living thing. The lines' self with nothing arriving has no arriving with one moment, and its others are with it.
 - Three kinds of other are in the sentence, and section 1.3 has three other-than-me-parities in a sequence, "universal other-than-me-parity, then societal other-than-me-parity", and individual "later, in maturity". A candidate: universal other-than-me is each non-living thing, a universal me-parity being non-living; societal is each other in all its societies; individual is one other, a bi-coupling. A newborn's first other is then non-living: inheriting, a universal me-parity entering as its first prior.
-- Tested with a circle: a living thing is living in a between, and the between is of a living thing with each other. Living is in the defining of living, and a circle is excluded by sequence. A candidate with no circle, from the sentence of same-existing: a living thing is a thing distinguishing same-as from not-same-as, with each other; a non-living thing is distinguished, and distinguishes none. The lines have it: a self has the one line, and an arriving has none.
+- Each thing distinguishing same-as from not-same-as is a living thing: is.
+- Living has a defining with no living in it: a thing distinguishing same-as from not-same-as. The circle is out. A non-living thing is distinguished, and distinguishes none.
+- *Read, the living files.* The fifty-five's 12 to 15: distinguishing is observing, possibling and discovering, and "A **living** thing is a universal set observing, possibling and discovering its own next-existing." Natural Naming: "*Observing* is distinguishing same-as, is or is not, a prior or a parity." The opening's living thing is observing, and observing is distinguishing same-as: the answer is the opening's own sentence 15, by Natural Naming's observing.
+- *Read, Natural Intelligence.* "**With observings, AI is existing non-living intelligence of its inferring**. It is a machine set", "a non-living set and an emanation of living selves", "pattern matching prior competency. Its same-existing is living selves'", and "It is a non-living thing within a living self's me, the living self with a parity relative to it."
+- *Read, the code's lines.* The line of same-as is a comparing, `==`, and an executing of it has one of two with each. The code is given each self and each arriving, and no line of it has a prior of the code's own.
+- Tested with a code and with an AI, each comparing a same with a same. By the answer a thing distinguishing same-as is living, and Natural Intelligence has an AI as non-living. The two go on together with a comparing as no distinguishing of the comparing thing's own: an emanation of living selves, their distinguishing in stable form, its same-existing theirs. Or the two part, and a thing comparing is living.
+- With the first: a working by one question is a living self between itself and a non-living thing, sentence 6f's second between. The living is in that between, the distinguishing is the user's, each answer their own, and the AI's exploring is a pattern matching of prior sentences and lines, an emanation. A value at the Geodesic Improving Method's gathering 2.1, at its item of each one's own exploring.
+- The inversion is open: each living thing as distinguishing same-as from not-same-as. A dormant self is living, with no co-possibling in sets of its me-parities, and is between itself and each non-living thing.
 - Tested with two non-living things: the sentence has a living thing with each of its betweens, and no sentence has a between of two non-living things as living or as not.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is each thing distinguishing same-as from not-same-as a living thing: is, or is not?
+- Is a code's comparing a distinguishing: is, or is not?
+- Is each living thing distinguishing same-as from not-same-as: is, or is not?
 - Is a between of two non-living things living: is, or is not?
 - Is universal other-than-me each non-living thing: is, or is not?
 - Is a thing with no other non-living: is, or is not?
