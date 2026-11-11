@@ -959,13 +959,27 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* A me-parity is an entry of one self's 3, its 4 with + or −, and no entry has a 3 of its own: a me-parity owning me-parities is in no part of the code, of one scale. A social surface in the code is 5, Exhibit ONE's "a bi-coupling is-or-is-not on a Natural Network surface", and each key of 5 is a self's: a self's whole sharing, each of its me-parities, is with each of its bi-couplings. A me-parity with a bi-coupling of its own, apart from its self's other me-parities, is in no part of the code.
 - Two sentences part, with it. A me-parity living in a social surface is a self of one same scale with its me: as a bi-coupling's new self is, living in the between, section 5.17; as a session transcript in the between of a user and an AI is a self, section 5.23; one me-parity and its facing one together a 0, a corus in the between, section 5.26. Or it is a self one scale inward: "the social moral competency inside a living thing", section 5.8; Natural Naming's "Four 1–17s inward are within a self's 1 to 9"; and a society-self one scale above its selves, section 5.29. A me is then one scale above its me-parities, each a self, as a society-self is above its selves, and "a self is a me-parity of its society-self: is-not" is parting.
 
+### 5.32 A me-parity, a living self-interest at its own scale
+
+- A me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe.
+- *A living self-interest*, tested: cohering. A me-parity living in a social surface is a self, section 5.31. The fifty-five's 23: "A **me-parity** is a me's living parity." Me-parities are "many of my interests", section 5.30, and a self-interest is a me's own.
+- *Its own scale of self*, tested: cohering. No self is any other self, each a unique self, section 5.29, and a new self has its own corus, section 5.17: a me-parity, a self, has its own scale.
+- *Its own self-interesting universe*, tested: cohering. "A cone is a same-existing me-parity universe", and a me-parity is in a universal cone of a linear interest, section 5.30. "A named subset is the universe to a bi-coupling", section 5.15.
+- The fractal with it: a me owns its me-parities; each me-parity is a self at its own scale, in its own universe; and a self owns its me-parities.
+- Natural Naming's "An interest is a 0, *inter-esse*, to be between" is cohering with it. A me-parity is +1, a direction from its me's corus; and a self-interest, a self at its own scale, is a corus, a 0, its own. One me-parity is +1, its me's, and a 0, its own.
+- One same scale with its me, section 5.31, is in neither side of the sentence: *its own scale* is with no *as*. Tracked, still open.
+- Tested with "a universal me-parity is non-living", section 5.19. A me-parity is a living self-interest: a universal me-parity is exhausted from living, a prior-existing me-parity in stable form, and no now-existing me-parity. With dormancy, "a me-parity and no other self co-competencing", section 5.18, a dormant me-parity as living, or as non-living, is not tested: tracked.
+- *Read, Exhibit ONE's code.* An entry of a 3 is its 4 with + or −, with no 3 of its own and no set of its own: a me-parity at its own scale, in its own universe, is in no part of the code, of one scale. The code is with no self of its own, the same with each self: a me-parity as a key of a 16 of its own scale is provided to the code, and the code is with neither side.
+- *Read, Exhibit ONE's code, each by itself.* Each me-parity of a self is next-existing from its own prior and its others' me-parities of it, and from no other me-parity of that self. No part of the code has a self's me-parities with each other: within one self, no social surface of its own me-parities.
+- Two sentences part, with it. A me is the society-self of its me-parities: each me-parity is a living self, "living in a social surface", section 5.31; "the social moral competency inside a living thing", section 5.8; a society has only one self, and a me is the only one, the owner; a society-self is living with me-parities of its own, section 5.28; and "a self is a me-parity of its society-self: is-not" is then parting. Or a me is no society-self of its me-parities: each me-parity is in its own universe, at its own scale, and with no other me-parity of its me, as the code has each by itself; its social surface is with others' me-parities, facing it; and a society-self's me-parities are its own, no selves of its society.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is each self the society-self of a society one scale inward: is, or is not?
+- Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is 6 with an other's 2, across and now, co-possibling: is, or is not?
