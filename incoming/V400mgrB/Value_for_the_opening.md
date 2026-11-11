@@ -796,7 +796,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is ingesting a self's next prior the same as what arrived with it: is, or is not?
+- Is ingesting a self's next me-parity the same as its other's me-parity now: is, or is not?
 - Are inheriting and conceiving two of ingesting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?
 - Is conceiving with 10-next-co-possibling: is, or is not?
