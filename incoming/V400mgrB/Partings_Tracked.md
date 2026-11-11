@@ -10,7 +10,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 
 | | The living file's own sentence | The sequence | Its file |
 |---|---|---|---|
-| 1.1 | 8 as "8-bi-co-bi-torusing" and 16 as "16-bi-tri-bi-torusing" | the corus at 24, with 4; torusing 25; a society's corus at 28 | Natural Naming 3.3 |
+| 1.1 | 7 and 15 with a prior name *corusing*, 8 and 16 *torusing* | no spot of corusing is named, and no number of its own; the corus is with 4, and 24; a society's corus at 28 | Natural Naming 3.3 |
 | 1.2 | same-existing as a living condition of "a self, a same-existing-society or the universe" | the universe is not a living thing | Natural Naming |
 | 1.3 | "A **bi-coupling** is two selves sharing possibling." | a bi-coupling is a now-existing thing and a self; a living self with a non-living thing is a bi-coupling | Co-Chaining Logic Registry, step 24; Natural Intelligence's gathering |
 | 1.4 | "each link a between of two selves", of collective intelligence | a between of a living self and a dead surface is a link | Natural Intelligence |
@@ -25,11 +25,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 
 ## 2 Sentences of the sequence parting with each other, each open
 
-- **2.1 A me-parity born, with the two the same.** With a self-parity and an other-parity the same, a me-parity born is not possibly existing. Inheriting is 2 and conceiving 14, two together as one: two the same as each other are one me-parity, a new self's first. A first me-parity of two the same is inherited and not born; or it is born.
-- **2.2 Improving, with no other.** A me-parity is born of two. A self observing no other's me-parity is inverting, improving, in the code. A me-parity inverted with no other is born; or it is not.
 - **2.3 The corus, and 4.** The corus is a 0, a non-existing thing. It is with 4, 4-now-co-same-existing, the one same name a self's me-parity and its other's are together by, and a name is a same-existing non-living thing.
-- **2.4 Corusing and torusing, by which up.** The set has 23, 24 and 25 as 3, 4 and 5 twenty up, in its own sentence: corusing 3-is-now-co-observing, and torusing 5-now-co-existing. Natural Naming's table has corusing as 7 and 15, and 23 is 7 sixteen up.
-- **2.5 Torusing and exhausting.** Exhausting is 9. Torusing is 25, which is 9 sixteen up, and 5 twenty up.
+- **2.5 Torusing and exhausting.** Exhausting is 9. Torusing is a going, one way through a large opening, with no spot and no number of its own, as corusing is. Torusing is exhausting; or the two are two.
 - **2.6 Along, two concepts.** "Along is a self's own going on." "A self's parity going along to the next self" is co-chaining, with 9. Ingesting, 17, and exhausting, 9, are along, from the universe and to it.
 - **2.7 A society, living or not.** Each living thing is a self, and a living thing is a thing distinguishing its own next-existing. A society-self is a nothing, owning no mes. In the code each next-existing within a society is one self's own.
 - **2.8 The universe, non-living or no thing.** The universe is not a living thing. A now-existing thing is living or non-living, and the universe is a set, a non-existing thing.
