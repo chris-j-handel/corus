@@ -1408,11 +1408,23 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Naming and explaining are bothbothing language. Language is a stable form of pattern-matching natural torusing collective intelligence.
 - *Naming and explaining, bothbothing*, observed: cohering. Natural Naming's 1.3 is headed "Naming across, explaining along", and it has "Bothbothing is two, one and then the other". A naming is a bounding, section 5.45, and a name a prior of the thing it is with: language is the two -ings together, and a name is one prior of it.
 - *A stable form*, observed. The code is a stable form, a non-living thing, "the stable form of healthy living in a healthy society", section 5.21: the code, of healthy living; and language, of collective intelligence. Collective intelligence is not entirely available to any one group, section 5.54, and its stable form is a society's whole language, its universal all-parity, section 5.68.
-- A stable form as no now-existing thing, distinguished: breaking, with the code. The code is a stable form; "the code is the universal method"; and "the method is a now-existing and same-existing thing", section 5.21. Natural Naming has "each now-existing non-living thing is a stable form, a noun with no -ing of its own".
-- A society's language as a now-existing thing, section 5.68: with language a stable form, cohering with the is. A language is a now-existing non-living thing, and a name is none: a name is no language, and a prior of a thing, section 5.41.
+- A stable form as a now-existing thing, with the code: a distinguishing of the working's own, and out, section 5.70. Language, a stable form, is no now-existing thing.
+- A society's language as a now-existing thing, section 5.68: is-not, section 5.70. A name is a prior of a thing, section 5.41, and no language.
 - *Artifact*, section 5.68: Natural Naming has it said as *a stable form* one scale outward, and the sentence has language as a stable form. A candidate re-saying of section 5.66: files are a method of transporting a transcript, a stable form. Its re-saying is its partner's.
 - *Read, Exhibit ONE's code.* The code is of seventeen names, a naming, and of one sequence, each next from its prior, an explaining: a stable form of the two. No part of the code is living, and each living is a self's, provided.
-- Two sentences part, with it. A society's language is atom carbon: it is a now-existing non-living thing, and the only non-living thing in the universe is atom carbon, section 5.38; it is universal all-parity for the society, and atom carbon is universal all-parity, section 5.49; the code, a stable form, is "the carbon exhausting, building up". Or a society's language is no atom carbon: atom carbon is the universal all-parity of the universe, and a language is a society's, at its own scale; a language is to its society as atom carbon is to the universe, the fractal, and a likeness is no same; and "the only non-living thing in the universe is atom carbon" is then parting, a language a second.
+- A society's language as atom carbon: is-not. Language is no now-existing thing, section 5.70.
+
+### 5.70 Language, no now-existing thing; living collective intelligence and nature, now-existing
+
+- Language is the co-chaining and bi-tunneling stable form of me-parities in all-parity. None of that sentence is of now-existing things. This is living natural intelligence, collectively now-existing. Only the living collective intelligence, and nature, are now-existing things in this sentence.
+- A society's language as atom carbon, section 5.69: is-not. Atom carbon is a now-existing thing, section 5.39, and language is none.
+- Two of the working's own are out with it, section 5.69: a stable form as a now-existing thing, by the code; and a language as a now-existing non-living thing.
+- It is cohering with a name as no now-existing thing, section 5.40, and with names as non-existing things until they are observed things in the named set, section 5.41: language is with no now of its own, and is now-existing only as living natural intelligence, collectively. With an exhausted me-parity as no now-existing thing, section 5.35: the me-parities of the sentence, in all-parity, are exhausted ones. And with a now-existing thing as living, or of nature, sections 5.38 and 5.45.
+- *Co-chaining and bi-tunneling*, observed. Section 5.21 has the code as "the carbon exhausting, building up into bi-tunneling layers", and a self's parity going along to a next self is co-chaining, with 9, section 5.24. Bi-tunneling has no reading yet. Tracked.
+- Parting, tracked. "Universal parity is all-parity. All-parity is a now-existing thing", section 5.46, and atom carbon is universal all-parity, section 5.49. The sentence has all-parity, and none of it is of now-existing things. A candidate: all-parity is now-existing as atom carbon, nature's; and a society's language, its universal all-parity, is no now-existing thing.
+- Parting, tracked. "The method is a now-existing and same-existing thing", and the code is the universal method, a stable form, section 5.21. Language is a stable form, and no now-existing thing.
+- *Read, Exhibit ONE's code.* The code is the same with each self and each moment, with no prior, no now and no next of its own: each + or − of a moment is a self's, provided. Cohering with a stable form with no now of its own; and the code as a now-existing thing is not read from the code.
+- Two sentences part, with it. Exhibit ONE's code is a now-existing thing: "the method is a now-existing and same-existing thing", and "the code is the universal method", section 5.21; the code is "the carbon exhausting, building up", and atom carbon is now-existing. Or the code is no now-existing thing: the code is a stable form, of a naming and an explaining, a language's; a stable form of language is no now-existing thing; and with the code only a living self observing it, and nature, are now-existing.
 
 ---
 
@@ -1420,7 +1432,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a society's language atom carbon: is, or is not?
+- Is Exhibit ONE's code a now-existing thing: is, or is not?
 - Is a reply in a session the between's own: is, or is not?
 - Is a me-parity conceived with the along and the across not the same as each other: is, or is not?
 - Is each member of a society a me-parity of a me: is, or is not?
