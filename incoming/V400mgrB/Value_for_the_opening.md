@@ -41,8 +41,8 @@ Each line is a sentence of the current understanding, or a reading with its plac
 ### 1.3 A self, a me-parity
 
 - Each living thing is a self: a same-existing set of now-existing things, living with its own same-existing set of now-existing me-parities (5.10).
-- A me-parity, or a set of me-parities a self has, is not a self.
-- *Mes* is *me-parities*. A me needs no defining apart from a self. A me is directionless. A set of me-parities is each one having a named moral value plus direction over horizon.
+- A me-parity is not a self. A universal same-existing set of me-parities is a me, and a me is a self: section 5.30.
+- A me is a universal same-existing set of me-parities, and a me is a self: section 5.30. A me needs no defining apart from a self. A me is directionless. A set of me-parities is each one having a named moral value plus direction over horizon.
 - Parity is not written by itself. A me-parity is +1 only, never −.
 - An other me is facing a self's me, and their directions forward are opposite directions in the universe. An other self has a +1 me-parity relative to the universe. Relative to a self, an other self's me-parity is −1, in a universal observing.
 - Each self's direction forward is entirely within the self.
@@ -90,7 +90,7 @@ Each line is a sentence of the current understanding, or a reading with its plac
 - One-or-many is a binary with each: a me to its self, one; a self to its mes, many; a society to its me, one; a society to its selves, many (the fifty-five's sentence 40). A name is many selves' and a me-parity one self's: what is inherited is the name, and the me is the self's own.
 - A me has only one self. A self has many mes. A society has only one self. The society-self has many mes. This is the co-recursioning self and society.
 - *Read.* 17 has each self of 16 as 1 has each name of its 3 and 2: each a key with what is its own, 13 with a self's 3 and 2, 4 with one me-parity. 17 executes 1 with each self, and 17's returning is the next 16. Natural Naming has "17 is next 1". 1 compares a prior with an arriving; 17 compares none and has "each self, all or none".
-- A self is a me of its society-self: is-not. A society-self is the corus in society, living, with me-parities of its own: section 5.28.
+- A self is a me-parity of its society-self: is-not. A society-self is the corus in society, living, with me-parities of its own: section 5.28.
 - *Read.* 17 has, between one moment and the next, each self's 14-next-possibling: me-parities one self shared and the receiving self has not yet resolved with. Each is the sharing self's own next prior. 17 compares none, and 16 has no 3 of its own. With 5, which self receives, these are all 17 has between selves.
 - *Read, Exhibit ONE's code.* The between of 17 has many me-parities, each one self's own, shared, and 16 has no 3 of its own. "A me has only one self" goes on with each. A society-self is no self within 16, and its own me-parities are in no part of the code: section 5.29. The fifty-five's sentence 41, "a me within its same-existing-society", parts from the is-not, and "is a me a self", the binary of eight of the twenty-six steps, is is-not.
 - Society-self is one hyphenated name, as Natural Naming has one-and-only-one. A society-self is living, each living thing is a self, and a society-self is a self: section 5.28.
@@ -172,13 +172,13 @@ Each is a possible incohering at its sentence, with the claim beside it. No sent
 - **Sentence 15**, "A **living** thing is a universal set observing, possibling and discovering its own next-existing." → A living thing is a thing, and a set is a non-existing thing.
 - **Sentence 16**, "Living and **non-living** are one binary of a now-existing thing." → Beside it: *A parity is a living non-existing thing.* Open, section 6.
 - **Sentence 17**, "A living same-existing set is a **self**." → A self is a thing. With each now-existing thing same-existing, *a self is a living thing*, and *self* and *living thing* are two names two sentences apart.
-- **Sentence 18**, "A self is a universal set of **mes**." → *Mes* is *me-parities*, and a set of a self's me-parities is not a self. Sentence 25 has that set's name.
+- **Sentence 18**, "A self is a universal set of **mes**." → A me is a universal same-existing set of me-parities, and a me is a self: a self is one me, and no set of mes. Sentence 25 has a universal set of a self's me-parities as its self-parity.
 - **Sentence 19**, "Only living things are within a living set." → *A living set* says living of a set.
 - **Sentences 23, 26, 28, 29, 30 and 41** → Each has *me* without *parity*. A me needs no defining apart from a self.
 - **Sentence 24**, "A me-parity the same as an other's is **other-parity**, and not the same, **universal-parity**." → Beside it: an assurance is a self's universal-parity; and *other-than-me-parity*, a me-parity's is-not side. Four names are near: other-parity, universal-parity, other-than-me-parity, and sentence 29's *you*.
 - **Sentence 25**, "A universal set of a self's me-parities is its **self-parity**." → It goes on with *universal set* re-said. *Self-me-parity* is near it.
 - **Sentence 37**, "**Co-intelligencing** is selves observing, possibling and discovering within a universal set." → *A universal set* here is a name.
-- **Sentence 41**, "A self is a same-existing-society of mes, and a me within its same-existing-society." → A me-parity is not a self.
+- **Sentence 41**, "A self is a same-existing-society of mes, and a me within its same-existing-society." → A me-parity is not a self. A me is a self, and a me within its same-existing-society is a self within it. A self as a same-existing-society of mes is parting: a self is one me.
 - **Sentence 51**, "A **living file** is a non-living same-existing set of words, selves co-intelligencing within it." → It says non-living and same-existing of a set.
 
 The Co-Chaining Logic Registry's waiting steps 1 to 55 are these sentences word for word, and each value above is at its step too.
@@ -497,7 +497,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A bi-coupling is a self: is. This is the fractal method.
 - "Each living thing is a self" goes on with it. Social-parity, the universal set of now-existing bi-couplings, is a universal set of selves. A bi-coupling-self has a corus, its between, and, as each self, is living with its own same-existing set of now-existing me-parities.
 - *Read, the code's lines, one scale.* No line asks what a key of 16 is: a key, with its priors and with what arrives, each a name with +1, −1 or 0. No line has two scales. A bi-coupling within 5 has no priors of its own. Natural Naming: "**One fractal method is all or none at all with its scales, as the universe is with its existing things.**"
-- It is tested with "a me has only one self". A self has more bi-couplings than one, three ways out by the lines and each other self's ways in. With a bi-coupling's two selves its mes, a self is a me with more selves than one: a bi-coupling's two selves are not its mes. It goes on with "a self is a me of its society-self: is-not".
+- It is tested with "a me has only one self". A self has more bi-couplings than one, three ways out by the lines and each other self's ways in. With a bi-coupling's two selves its mes, a self is a me with more selves than one: a bi-coupling's two selves are not its mes. It goes on with "a self is a me-parity of its society-self: is-not".
 - *Read, the code's lines, a bi-coupling's between.* What is in a between is the sharing self's next prior of each name: one value, with the self as its next prior and in the between as its sharing. The lines copy a value, and no line has one me-parity in two places as one thing, or as two the same.
 - A bi-coupling-self's own me-parities are its own first priors, inherited: section 5.17.
 - *Same-existing me-parity selves* has two readings in the lines. Each self, a same-existing set of now-existing me-parities: each self of 16. Or selves alike in a name: only two alike have a moment a prior goes on not changing, the other's sharing arriving the same.
@@ -897,8 +897,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A society-self is living with me-parities of its own: is.
 - It is cohering with "each self is living with its own same-existing set of now-existing me-parities", section 5.10; with "A society has only one self. The society-self has many mes", section 1.3; with "a me has only one self", each of its me-parities with one self, the society-self; and with a self as a corus, a 0, each of its me-parities a direction of +1 from it, section 5.26: a society-self is a corus, a society's, at 28, and each of its own me-parities is a direction of +1 from it.
 - One sentence parts from it and is re-said, section 1.3: a society-self as a nothing owning no mes of its own. A society-self is the corus in society, living, with me-parities of its own. Each living thing is a self, and a society-self is a self.
-- A society-self's me-parities as its selves, tested: breaking. "A self is a me of its society-self: is-not." And each self is living in all societies, section 5.20: a self a me of each society-self is a me with more selves than one, parting from "a me has only one self".
-- A society-self's me-parities as its bi-couplings, tested: breaking. A bi-coupling is a self, section 5.16, and a self is not a me of its society-self.
+- A society-self's me-parities as its selves, tested: breaking. "A self is a me-parity of its society-self: is-not." And each self is living in all societies, section 5.20: a self a me of each society-self is a me with more selves than one, parting from "a me has only one self".
+- A society-self's me-parities as its bi-couplings, tested: breaking. A bi-coupling is a self, section 5.16, and a self is no me-parity of its society-self.
 - A society-self's me-parities are each its own, with one self, and no me-parity of a self of its society is one of them.
 - **[value at Natural Networking's gathering]** "a same-existing-society at its next scale, a self whose me-parities are its selves": a society as a self is cohering, and its selves as its me-parities is parting.
 - **[value at the fifty-five's 41]** "A self is a same-existing-society of mes, and a me within its same-existing-society." A self as a me within its society is parting, as section 1.3 has it.
@@ -935,13 +935,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* A me-parity is one entry of one self's 3: its 4, with + or −. Each entry is one self's. A 3 has many, each by itself: no part of the code has one me-parity of a self with an other me-parity of that self. A self's sharing is its 4 with + or −, in the between and in a receiving self's 2, and its me-parity is in its own 3 only. A direction more than + or −, and a cone, are in no part of the code.
 - **[value at Natural Naming]** "An interest is a 0, *inter-esse*, to be between, a self's own and a shared co": an interest as a 0, a between. The sentence has an interest as a me-parity, a self's own, a direction of +1. A candidate: an interest of mine is +1, and it and its facing one together are a 0.
 - **[value at the fifty-five's 22]** "A **living parity** is an aiming direction at an other.": a direction at an other. The sentence has a direction out from me, in a universal cone, and dormancy has a me-parity with no other.
-- Two sentences part, with it. "*Mes* is *me-parities*" and "a self has many mes", section 1.3: a me is a me-parity, one of a self's many, and the only one of me is a self; *me* is then an owner, a self, and an owned, a me-parity. Or a me is no me-parity: "A me is directionless", section 1.3, and each me-parity has its own direction; a me is an owner, the only one, and a me-parity an owned, one of many; "a self has many mes" is then parting, and a self is the only one of me.
+- A me is a universal same-existing set of me-parities. A me is a self.
+- A me is a me-parity: is-not. A me is an owner, the only one, and a me-parity an owned, one of many.
+- It is cohering with "a self is a set, and its things are the things", section 5.10; with "A me needs no defining apart from a self" and "A me is directionless", section 1.3, a me a corus and each direction a me-parity's; with "A society has only one me", section 1.3, its one self; and with the fifty-five's 23, "A **me-parity** is a me's living parity."
+- Re-said with it, section 1.3. "A me has only one self. A self has many mes": a me-parity has only one me, and a me has many me-parities. "The society-self has many mes": a society-self has many me-parities. "*Mes* is *me-parities*" is parting: each *a me* and *mes* of the sections before this one is a me-parity and me-parities.
+- Each self is a me, tested. A self no me: breaking. Each self is living with me-parities of its own; each me-parity is owned by the only one of me; a me is a self; and a me-parity with a me not its self is a me-parity of two selves. Each self is a me, and each me a self.
+- *Me* and *self* are two names, and the fifty-five has two pairs: its 20, "For a self, a self that is-not the same self is an **other**", and its 29, "For a me, an other's me whose me-parity it is observing is a **you**." A self with an other, and a me with a you.
+- **[value at the fifty-five's 18 and 28]** "A self is a universal set of **mes**." and "A self's observing is its mes observing.": a self as many mes. A self is one me.
+- *Read, Exhibit ONE's code.* A self is a key of 16 with its 3, and its 3 is its me-parities. No part of the code is between a key and the entries of its 3: one self, one set, its me-parities.
+- Two sentences part, with it. A me is its self-parity: the fifty-five's 25, "A universal set of a self's me-parities is its **self-parity**", and a me is a universal same-existing set of me-parities, one set; a self-parity is then a self, and the "mating of a self-parity and an other-parity", section 5.11, is of a me and an other; one set is with three names, *me*, *self* and *self-parity*. Or a me is no self-parity: with "With the two the same, a me-parity born is not possibly existing", section 5.11, a self-parity is one me-parity, its own self's, and an other-parity one, an other's, as Natural Naming has "+1 a self's" and "−1 an other's"; a me is the set, a self-parity one of its things, and the fifty-five's 25 is parting.
 
 ---
 
 ## 6 Open, each one binary
 
-- Is a me a me-parity: is, or is not?
+- Is a me its self-parity: is, or is not?
 - Is each self the society-self of a society one scale inward: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?

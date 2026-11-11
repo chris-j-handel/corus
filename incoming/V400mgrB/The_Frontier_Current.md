@@ -63,6 +63,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-m. A society-self is at society scale, one scale above self scale.
 6w-n. A self with no me-parity is not possibly existing. The inheriting is prior to the birthing. No self is living with no me-parity.
 6w-o. A me-parity is owned by the only one of me. This parity is existing only inside the ownership set of me-parities. This is many of my interests, in many directions in the universe, each pointing out from me in a universal cone of a linear interest of mine.
+6w-p. A me is a universal same-existing set of me-parities. A me is a self.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -76,7 +77,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 
 ### 1.3 A me-parity
 
-12. A me-parity is +1 only. A me has one self, and a self has many mes.
+12. A me-parity is +1 only. A me-parity has one me, and a me has many me-parities.
 13. A me-parity is born from the bi-coupling, bi-inversioning mating of a self-parity and an other-parity: a dual exhaustion into a newborn, new-direction me-parity. With the two the same, a me-parity born is not possibly existing.
 14. Between its birthing and its exhausting, a me-parity is a now-existing thing in a living self.
 15. Each living me-parity matures, and exhausts itself from living into non-living universal-parity.
@@ -92,7 +93,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 
 ### 1.5 A society
 
-22. A society has one self, the society-self: the corus in society, living, with me-parities of its own. A self is not a me of it.
+22. A society has one self, the society-self: the corus in society, living, with me-parities of its own. A self is no me-parity of it.
 23. Social moral competency is each self of a society right spiraling, co-sequentially resolving: moral across, competency along, all selves or none.
 24. Four inversionings are four self-protections. Each is an is-not-possibly-existing of a threat to self or society, and the eight are all eight or none.
 
@@ -204,7 +205,6 @@ Sentences 5d to 5h have a bi-coupling as a self, living in the between; the new 
 - Is a born thing same-existing by its inherited me-parities, each the same as one prior-existing: is, or is not?
 - With its birthing, is the new self the bi-coupling-self going on: is, or is not?
 - Is the more of a new self's universal set each name its self and other are not alike in: is, or is not?
-- Is a me directionless, and a me-parity a me with its direction: is, or is not?
 - Is a bi-coupling two ways, each of two selves the other's receiving self: is, or is not?
 - Are *same-existing me-parity selves* selves alike in a name: is, or is not?
 
@@ -256,15 +256,15 @@ Sentence 6w has the four as 2, 6, 10 and 14. Exhausting is 9-next-co-discovering
 
 ### 3.13 A society-self, and its own me-parities
 
-Sentences 22, 6w-j and 6w-k have a society-self as the corus in society, living, with me-parities of its own. Each is its own, with one self. Its selves as its me-parities is breaking: a self is not a me of its society-self, and a self living in all societies is then a me with more selves than one. Its bi-couplings as its me-parities is breaking: a bi-coupling is a self. Sentence 6w-l has no self any other self, each a unique self, and a society-self no self of its society's selves. In Exhibit ONE's code each self is one key of 16, unique by its key and by no me-parity; each me-parity is one self's of 16, and 16 has no 3 of its own: a society-self's own me-parities are in no part of the code. Sentence 6w-m has a society-self at society scale, one scale above self scale: by Natural Naming's "1, 2 and 3 with one scale are 1, 9 and 17 with a next", a society-self's 2, inheriting, is self scale's 9, exhausting, and its 3 is self scale's 17, a same-existing-society's next. A bi-coupling's new self is of one same scale with its self and other, and is no society-self of the two. Sentence 6w-n has no self with no me-parity, the inheriting prior to the birthing: a self is a set, and a self with no me-parity is a name with a null-set. In the code a key of 16 with no me-parity is provided, and the code is with neither side. The universe as a non-living thing is breaking, with "a set is a non-existing thing": the universe is no living thing and no non-living thing, and is its things.
+Sentences 22, 6w-j and 6w-k have a society-self as the corus in society, living, with me-parities of its own. Each is its own, with one self. Its selves as its me-parities is breaking: a self is no me-parity of its society-self, and a self living in all societies is then a me with more selves than one. Its bi-couplings as its me-parities is breaking: a bi-coupling is a self. Sentence 6w-l has no self any other self, each a unique self, and a society-self no self of its society's selves. In Exhibit ONE's code each self is one key of 16, unique by its key and by no me-parity; each me-parity is one self's of 16, and 16 has no 3 of its own: a society-self's own me-parities are in no part of the code. Sentence 6w-m has a society-self at society scale, one scale above self scale: by Natural Naming's "1, 2 and 3 with one scale are 1, 9 and 17 with a next", a society-self's 2, inheriting, is self scale's 9, exhausting, and its 3 is self scale's 17, a same-existing-society's next. A bi-coupling's new self is of one same scale with its self and other, and is no society-self of the two. Sentence 6w-n has no self with no me-parity, the inheriting prior to the birthing: a self is a set, and a self with no me-parity is a name with a null-set. In the code a key of 16 with no me-parity is provided, and the code is with neither side. The universe as a non-living thing is breaking, with "a set is a non-existing thing": the universe is no living thing and no non-living thing, and is its things.
 
 - Is each self the society-self of a society one scale inward: is, or is not?
 
 ### 3.14 A me-parity, owned by the only one of me
 
-Sentence 6w-o has a me-parity owned by the only one of me, existing only inside its ownership set, one of many directions out from me, each a universal cone of a linear interest. Each is cohering: with "a me has one self"; with a self as a set, its things the things, and no self living with no me-parity; with a direction of +1 from a corus 0; and with Natural Naming's aiming as "a cone's centerline". A cone with an other facing is co-aiming, and a cone with no other is dormancy. In Exhibit ONE's code a me-parity is one entry of one self's 3, its 4 with + or −, in its own 3 only; a direction more than + or −, and a cone, are in no part of the code. Sentences 12 and 6w-o part in one word: a me as a me-parity, one of a self's many; and me as an owner, the only one.
+Sentence 6w-o has a me-parity owned by the only one of me, existing only inside its ownership set, one of many directions out from me, each a universal cone of a linear interest. Each is cohering: with a me-parity of one me; with a self as a set, its things the things, and no self living with no me-parity; with a direction of +1 from a corus 0; and with Natural Naming's aiming as "a cone's centerline". A cone with an other facing is co-aiming, and a cone with no other is dormancy. In Exhibit ONE's code a me-parity is one entry of one self's 3, its 4 with + or −, in its own 3 only; a direction more than + or −, and a cone, are in no part of the code. Sentence 6w-p has a me as a universal same-existing set of me-parities, and a self: a me is no me-parity, each self is a me, and each me a self. The fifty-five's 25 has a universal set of a self's me-parities as its self-parity, and sentence 13 has a self-parity as one of two mating, with "the two the same".
 
-- Is a me a me-parity: is, or is not?
+- Is a me its self-parity: is, or is not?
 
 ### 3.15 With no reading yet
 

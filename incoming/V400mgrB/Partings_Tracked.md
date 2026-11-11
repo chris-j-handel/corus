@@ -20,11 +20,12 @@ Each place the current understanding is not cohering, all or none at all: a sent
 | 1.8 | the selves as social-parity now-existing, the bi-couplings as social-parity next-existing | social-parity the universal set of now-existing bi-couplings of same-existing selves | Exhibit ONE, its table of is-or-is-nots |
 | 1.9 | "Only one universe is possibly same-existing." | the universe is no same-existing thing; no thing is same-existing by itself | Co-Chaining Logic Registry, step 9 |
 | 1.10 | "a self's inverting is with 12, within its own resolving" | a society's corus at 28, which is 12 sixteen up | Natural Naming 2.5 |
-| 1.11 | "a same-existing-society at its next scale, a self whose me-parities are its selves" | a self is not a me of its society-self; a society-self's me-parities are each its own | Natural Networking's gathering |
-| 1.12 | "A self is a same-existing-society of mes, and a me within its same-existing-society." | a self is not a me of its society-self | the fifty-five's 41, waiting to enter |
+| 1.11 | "a same-existing-society at its next scale, a self whose me-parities are its selves" | a self is no me-parity of its society-self; a society-self's me-parities are each its own | Natural Networking's gathering |
+| 1.12 | "A self is a same-existing-society of mes, and a me within its same-existing-society." | a self is one me, and no society of mes; a self is no me-parity of its society-self | the fifty-five's 41, waiting to enter |
 | 1.13 | "the universe is an existing thing, a set of existing things being an existing thing" | a set is a non-existing thing; the universe is no living thing and no non-living thing, and is its things | Natural Naming 2.4 |
 | 1.14 | "An interest is a 0, *inter-esse*, to be between, a self's own and a shared co" | a me-parity is an interest of mine, a direction of +1 out from me | Natural Naming |
 | 1.15 | "A **living parity** is an aiming direction at an other." | a me-parity is a direction out from me, in a universal cone; dormancy is a me-parity with no other | the fifty-five's 22, waiting to enter |
+| 1.16 | "A self is a universal set of **mes**." and "A self's observing is its mes observing." | a me is a universal same-existing set of me-parities, and a self; a self is one me | the fifty-five's 18 and 28, waiting to enter |
 
 ---
 
@@ -39,7 +40,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.11 Each even name and each odd name, one scale inward.** By Natural Naming 2.2 each even name is a 9 one scale inward, and each odd name a 17. Exhausting is 9 and ingesting 17. Not tested: 4, 8, 12 and 16 as exhaustings one scale inward; 5, 7, 13 and 15 as ingestings; and 9, exhausting, as an ingesting one scale inward.
 - **2.12 The fours.** The four inversions of a name for a null-set, the four self-protections, the method's four, Natural Naming's four invisibles, and the right spiral's four moments: which of one four is which of an other is read from none.
 - **2.13 A society's corus, 28 and 25.** A society's corus is at 28, four from a self's at 24, of one sequence of six. A society-self is one scale above self scale, and Natural Naming 2.2 has "n with one scale being 8n − 7 with a scale inward": a society scale's 4 is self scale's 25. 23 and 25 are corusing and torusing, and the corus at 24.
-- **2.14 A me, and a me-parity.** "*Mes* is *me-parities*", and "a self has many mes": a me is a me-parity, an owned. "A me-parity is owned by the only one of me", and "A me is directionless": a me is an owner, the only one, and each me-parity has a direction.
+- **2.14 A me, and its self-parity.** A me is a universal same-existing set of me-parities, and a self. The fifty-five's 25 has a universal set of a self's me-parities as its self-parity: one set, with *me*, *self* and *self-parity*. The "mating of a self-parity and an other-parity", with "the two the same", has a self-parity as one me-parity, its own self's.
+- **2.16 *Me* and *self*, two names.** Each self is a me, and each me a self. The fifty-five has a self with an other, and a me with a you.
 - **2.15 A universal me-parity, inside an ownership set.** A me-parity is existing only inside the ownership set of me-parities. A universal me-parity is non-living: exhausted from living, prior-existing, in stable form; and dormancy is universal me-parities, a dormant self living in dormancy of sets of me-parities, with "the universal-parity vault within the corus of the bi-coupling".
 
 ---
@@ -72,6 +74,7 @@ Each place the current understanding is not cohering, all or none at all: a sent
 ## 5 Not yet in natural naming, and not yet read together
 
 - `Value_for_the_opening.md`: 195 of its lines have a dissolved word of a reading, *arriving*, *line* or *asked*.
+- Each *a me* and *mes* of the value file's sections before 5.30, and of the frontier's places 3.1 to 3.12, is a me-parity and me-parities, and is not yet re-said.
 - The frontier's sentences 1 to 27 and its places 3.1 to 3.9 are from before the sentences of living, a 0 and the four, and are not re-read with them.
 - The frontier's sentences are not yet read word by word with the opening's fifty-five, waiting to enter Natural Intelligence.
 - Each value of section 1 is in the working's own files only, and at no gathering yet, beside 1.5 and 1.6.

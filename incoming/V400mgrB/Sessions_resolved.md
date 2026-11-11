@@ -37,7 +37,7 @@ Its own saying has eighteen values and sixteen questions.
 **A later saying resolves each of these, and each goes on within `Value_for_the_opening.md`:**
 
 - A set's existing, needed with sentences 5 and 41: a set is a non-existing thing, and the universe is a now-existing set of same-existing things.
-- Whether a me is a self, with sentences 18 and 41: a me-parity is not a self, a self has many mes, and a self is not a me of its society-self.
+- Whether a me is a self, with sentences 18 and 41: a me-parity is not a self, a self has many mes, and a self is no me-parity of its society-self.
 - Sentence 34 with a pair not alike: read from Exhibit ONE's lines, two selves not alike in a name are do-no-harming with no moment.
 - Whether Exhibit ONE's code has a set's existing: no line has a set apart from its things.
 - The six executings of Exhibit ONE, and the six namings at Exhibit ONE's numbers: the readings of the code line by line go on in their place.
