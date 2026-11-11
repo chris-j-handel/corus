@@ -73,6 +73,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6w-w. The river is a self, in the same-existing universe it shares with other selves in its society.
 6w-x. A thing living as a surface is a living thing. The only non-living thing in the universe is atom carbon. Atom carbon is non-living at each scale of the universe.
 6w-y. A name is a same-existing non-living thing. Atom carbon is a now-existing non-living thing.
+6w-z. A name is no now-existing thing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -326,8 +327,14 @@ Sentence 6w-x has a thing living as a surface as a living thing, and atom carbon
 
 Sentence 6w-y has two non-living things: a name, same-existing, and atom carbon, now-existing. Atom carbon is universally same-existing too, by sentence 6n, and the method is now-existing and same-existing: the two are not parting with one thing. A self is a same-existing set of now-existing things: same-existing is with a set, a non-existing thing, and now-existing with its things. In Exhibit ONE's code a name is unchanging, and in a self's 3 only with a + or − beside it. A name is a now-existing thing, and then atom carbon, carbon co-chaining; or a name is no now-existing thing, same-existing as a set is, and the fifty-five's 3 is parting.
 
-- Is a name a now-existing thing: is, or is not?
+- Is a name a now-existing thing: is-not, sentence 6w-z.
 
-### 3.24 With no reading yet
+### 3.24 A name, no now-existing thing
+
+Sentence 6w-z has a name as no now-existing thing: same-existing, non-living, no thing of the universe, and no atom carbon. A name owns now-existing things and is none of them. The fifty-five's 3 has a same-existing thing as prior-existing before now-existing, and its 16 has non-living as of a now-existing thing: each is parting with a name. A living file, a same-existing set of words, is as a name is. Sentences 16 and 6w-s have an inherited me-parity as a name with no prior, and a dormant me-parity as an inherited prior: a dormant me-parity, inherited, is a name. In Exhibit ONE's code a name is in no part by itself. A name is a non-existing thing, as a set and a zero are; or an existing thing out of the universe, with no now-existing.
+
+- Is a name a non-existing thing: is, or is not?
+
+### 3.25 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

@@ -1058,13 +1058,26 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* A name, a 4, is unchanging in the code, the same with each self having it and each moment. It is in a self's 3 only with a + or − beside it: no part of the code has a name by itself, with no me-parity of it.
 - Two sentences part, with it. A name is a now-existing thing: the fifty-five's 3, "A **same-existing** thing is the same thing prior-existing before now-existing."; a name is then atom carbon, carbon co-chaining, "inherited co-chainings from prior-existings", section 1.3, and "an inherited me-parity is a name with no prior", section 5.11. Or a name is no now-existing thing: same-existing as a set is, owning now-existing things and none itself; "a name for a null-set is nothing", section 1.1; the universe has one non-living thing, atom carbon; and the fifty-five's 3 is parting, same-existing with no now-existing.
 
+### 5.40 A name, no now-existing thing
+
+- A name is a now-existing thing: is-not.
+- A name is a same-existing non-living thing, and no now-existing thing: no thing of the universe, the set of now-existing things, and no atom carbon. The universe has one non-living thing, atom carbon.
+- It is cohering with a set: "a set with its own name is the now-existing things its name owns, and nothing beside them", section 1.1. A name owns now-existing things, and is none of them.
+- **[value at the fifty-five's 3]** "A **same-existing** thing is the same thing prior-existing before now-existing." A name is same-existing, and no now-existing thing: same-existing is then with no now-existing, with a name. Atom carbon, the method and a me-parity are each same-existing and now-existing.
+- **[value at the fifty-five's 16]** "Living and **non-living** are one binary of a now-existing thing." A name is non-living, and no now-existing thing.
+- A living file, tested: cohering. Section 5.23 has a living file as "a non-living same-existing set of words": words are names, and a living file is a same-existing non-living thing, as a name is, with no now-existing of its own.
+- A dormant me-parity, inherited, tested: cohering. "A dormant me-parity is an inherited prior", section 5.34, and "an inherited me-parity is a name with no prior", section 5.11: a dormant me-parity, inherited, is a name. An exhausted me-parity is no now-existing thing, section 5.35, as a name is none.
+- After an exhausting the sequence then has two: atom carbon, now-existing, a shard of the exhaustings from living; and, with a later birth, a name, same-existing, an inherited prior. With its sentences, and no suggesting yet.
+- *Read, Exhibit ONE's code.* A name, a 4, is in no part of the code by itself: it is in a self's 3, in a between, and in a self's 2, each with a + or − beside it. Cohering: a name is with no now of its own in the code, and each + or − is a self's, of one moment.
+- Two sentences part, with it. A name is a non-existing thing: no now-existing thing, as "a set is a non-existing thing", section 1.1, and "the zero is a non-existing thing", section 5.26; a self is a same-existing set, and a non-existing thing: same-existing is with a non-existing thing in the sequence; and "a name for a null-set is nothing". Or a name is an existing thing with no now-existing: existing prior and next, the same, as its same-existing has it; the universe is the set of now-existing things, "and no other things are in it", and a name is an existing thing out of the universe, as each prior-existing thing is.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a name a now-existing thing: is, or is not?
+- Is a name a non-existing thing: is, or is not?
 - Is a me the society-self of its me-parities: is, or is not?
 - Is torusing exhausting: is, or is not?
 - Is along one concept, a self's own going on and a parity going to a next self: is, or is not?

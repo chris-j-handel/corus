@@ -28,6 +28,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 
 | 1.16 | "having a stable form is being dead one scale outward" | not correct: a thing living as a surface is a living thing | Natural Intelligence 5.1 |
 | 1.17 | "Each living set is a stable form one scale outward, and living, stable-forming, with its own scale" | a stable form is non-living, atom carbon; a living thing at a higher scale is surface, and living | Co-Chaining Logic Registry, 31 |
+| 1.18 | "A **same-existing** thing is the same thing prior-existing before now-existing." | a name is same-existing, and no now-existing thing | the fifty-five's 3, waiting to enter |
+| 1.19 | "Living and **non-living** are one binary of a now-existing thing." | a name is non-living, and no now-existing thing; living is at one scale only | the fifty-five's 16, waiting to enter |
 ---
 
 ## 2 Sentences of the sequence parting with each other, each open
@@ -49,8 +51,8 @@ Each place the current understanding is not cohering, all or none at all: a sent
 - **2.18 *Is a self*, and *is owning a self*.** "Each living thing is a self." "Living is owning a self, and a self owns its me-parities."
 - **2.19 Two breakings, not yet tested again.** A society-self's me-parities as its selves, and as its bi-couplings, are each breaking with "a self is a me-parity of its society-self: is-not". A me-parity living in a social surface is a self.
 - **2.22 An other, a self.** "An other is a self, and a non-living thing is an other." A non-living thing is no self: an other is a self, or a non-living thing; the fifty-five's 20 has an other as a self.
-- **2.23 A name, a now-existing thing.** "A name is a same-existing non-living thing. Atom carbon is a now-existing non-living thing." A name is now-existing, by the fifty-five's 3, and is then atom carbon, the only non-living thing in the universe. Or a name is no now-existing thing, same-existing as a set is.
-- **2.28 An AI and a living file, non-living.** Each is a "non-living thing" in the sequence. The only now-existing non-living thing is atom carbon, and a name is a same-existing non-living thing: each is atom carbon, or a same-existing non-living thing as a name is, or is not non-living. Not tested.
+- **2.23 A name, a non-existing thing.** A name is no now-existing thing. It is a non-existing thing, as a set and a zero are, same-existing with a non-existing thing. Or it is an existing thing out of the universe, existing prior and next and with no now-existing.
+- **2.28 An AI, non-living.** An AI is a "non-living thing" in the sequence, and Natural Intelligence has it as "existing non-living intelligence". The only now-existing non-living thing is atom carbon, and a name is a same-existing non-living thing, no now-existing thing. Not tested. A living file, a same-existing set of words, is as a name is.
 - **2.24 A surface, two.** A thing living as a surface is a living thing. The code is "the surfaces between living", never living, carbon.
 - **2.25 A stable form, one scale outward.** A stable form is atom carbon, non-living at each scale. Natural Naming 2.4 has a stable form "one scale outward".
 
