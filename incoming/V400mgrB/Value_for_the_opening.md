@@ -560,7 +560,11 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 ## 6 Open, each one binary
 
-- Is dormancy a new self's 0 in a name its self and other are not alike in: is, or is not?
+- Is dormancy with self and other not the same: is, or is not?
+- Is dormancy the new self's, living as the between: is, or is not?
+- Is dormancy by the name, one name dormant and an other not: is, or is not?
+- Is a durable 0 the self's me-parity and the other's, together: is, or is not?
+- Is user-parity a user's self-parity: is, or is not?
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
 - Is a bi-coupling in dormancy living: is, or is not?
 - Is *universal*, in a universal self and other me-parity vault, of the vault: is, or is not?

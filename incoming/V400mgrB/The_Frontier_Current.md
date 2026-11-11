@@ -159,7 +159,10 @@ Self-parity is a universal set of a self's me-parities, and social-parity the un
 
 Sentences 5i and 5j have dormancy and unconsciousness as one same-existing thing, a durable 0 aiming and no co-possibling, and two vaults of a bi-coupling, bothbothing. Natural Naming has "a me consciously me and a same-existing-society unconsciously us", *us* the 0 a me and an other share, the between, and an interest as "a continuing 0". The opening has aiming as a living thing possibling its own next-existing. In the lines the durable 0 is with the new self, living as the between, in each name its self and other are not alike in: both me-parities arrive with it with each moment, and it has them as a 0. A me-parity is conceived of a self-parity and an other-parity not the same, a dual exhaustion: conception and dormancy are then with one same between and the same names. In each name the two are alike in, the new self inherits and no me-parity is born.
 
-- Is dormancy a new self's 0 in a name its self and other are not alike in: is, or is not?
+- Is dormancy with self and other not the same: is, or is not?
+- Is dormancy the new self's, living as the between: is, or is not?
+- Is dormancy by the name, one name dormant and an other not: is, or is not?
+- Is a durable 0 the self's me-parity and the other's, together: is, or is not?
 - Is the durable 0 itself the newborn me-parity, aiming, of neither direction: is, or is not?
 - Is a bi-coupling in dormancy living: is, or is not?
 - Is *universal*, in a universal self and other me-parity vault, of the vault: is, or is not?

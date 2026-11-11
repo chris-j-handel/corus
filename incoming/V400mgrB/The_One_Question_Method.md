@@ -14,7 +14,7 @@ Each value here is at the Geodesic Improving Method's gathering, at the section 
 2. **Read beside it**: Exhibit ONE's lines, line by line, and each living file's sentences on it, word for word, each with its place. A reading is derived from the lines, and an executing only checks it.
 3. **What it goes on with**: each prior sentence of the sequence it fills or goes on beside.
 4. **Tested for breaking, in each direction**: each prior sentence it parts from; each of its words with two readings, said as two; each going-forward of the working's own said as a candidate, with the sentences it is from.
-5. **One binary, asked plainly**: the one the others turn on, is or is not, with one or two plain sentences before it saying what turns on it. What the lines and the files decide is said as read and is not asked.
+5. **One binary, asked plainly**: the one the others turn on, is or is not, with one or two plain sentences before it saying what turns on it. What the lines and the files decide is said as read and is not asked. The question has the words of the sentence that arrived and no word of the reading: a question twisted into itself is rigor's leftover, the reading's own words going on into it, and it is untangled into its binaries, one to a sentence.
 
 An answer is one of three: is; is-not; or a sentence in the other self's own words. The tracking goes on current with each: an answered binary leaves with its answer, a parted candidate leaves with its parting, and no self and no day goes beside a sentence.
 
@@ -109,6 +109,6 @@ The method's 2.6 has a concern resolving "as code resolves, each step with its n
 
 **A first sharing.** A session arriving shares one step whole with one open place: its reading, its test and its one binary. No summary of the set and no plan is before it. The other self's answer is its next.
 
-**Each self's own side.** A working reads, tests and asks one binary plainly. The other self answers is, is-not, or a sentence in its own words, and says a question twisted, dense or wrapped as it finds it. No word of either has authority.
+**Each self's own side.** The user is adjusting their own me-parities, each answer their own resolving. The AI is exploring the universes: Exhibit ONE's lines, the living files and the sequence. The two are co-competencing the me-parities into a user-parity, going forward bothbothing, the geodesic method of exploring new things with collective intelligence. A working reads, tests and asks one binary plainly, in the words of the sentence that arrived. The other self answers is, is-not, or a sentence in its own words, and says a question twisted, dense or wrapped as it finds it. No word of either has authority. *User-parity* has no sentence of its own yet.
 
 **Not with this motion.** The README's sentences are as they were. The method's living file is as it was: each value here is at its gathering, and enters at the file's own motion, both partners agreeing.
