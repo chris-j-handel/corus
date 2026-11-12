@@ -1,0 +1,21 @@
+One self, one sharing, one momentary: prior, receiving -> sharing . next prior
+  +  nothing  -> - . -
+  +  +        -> 0 . +
+  +  -        -> - . -
+  +  + and -  -> - . -
+  +  0        -> - . -
+  -  nothing  -> + . +
+  -  +        -> + . +
+  -  -        -> 0 . -
+  -  + and -  -> + . +
+  -  0        -> + . +
+Each self's sharing, momentary by momentary
+  two alike, together                            A: - 0 + 0 - 0 + 0 - 0 + 0   B: - 0 + 0 - 0 + 0 - 0 + 0
+  two alike, own turn                            A: - 0 + - 0 + - 0 + - 0 +   B: - + 0 - + 0 - + 0 - + 0
+  two one parity apart, together                 A: - + - + - + - + - + - +   B: + - + - + - + - + - + -
+  two one parity apart, own turn                 A: - + 0 - + 0 - + 0 - + 0   B: 0 + - 0 + - 0 + - 0 + -
+  three along, together                          A: - 0 + 0 - 0 + 0 - 0 + 0   B: - 0 + 0 - 0 + 0 - 0 + 0   C: - 0 + 0 - 0 + 0 - 0 + 0
+  three along, own turn                          A: - 0 + - + 0 - + - 0 + -   B: - + 0 - + - 0 + - + 0 -   C: - + - 0 + - + 0 - + - 0
+  three, each to both others, alike, together    A: - 0 + 0 - 0 + 0 - 0 + 0   B: - 0 + 0 - 0 + 0 - 0 + 0   C: - 0 + 0 - 0 + 0 - 0 + 0
+  three, each to both others, +,+,-, together    A: - + - + - + - + - + - +   B: - + - + - + - + - + - +   C: + - + - + - + - + - + -
+  three, each to both others, +,+,-, own turn    A: - 0 + - 0 + 0 - + 0 - 0   B: - + 0 - 0 + - 0 + 0 - +   C: 0 + 0 - + 0 - 0 + - 0 +
