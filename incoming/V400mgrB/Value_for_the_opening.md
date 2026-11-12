@@ -1873,7 +1873,28 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Cohering. Sentence 6y-d has "the me-parities co-chaining into a collective intelligence me-parity", and sentence 6y-y the me-parity of natural intelligence as the collectively intelligent me-parity: a me-parity selves are sharing.
 - *Read, Exhibit ONE's code, section 5.72's executing.* A me-parity going along by 9 through three selves is each next self's first me-parity, with one 4: three selves, each with the same 4 in its own 8. Selves with one me-parity, in sequence.
 - Tracked. Sentence 22 has "A self is no me-parity of it", of a society-self. A co-chaining is a universal set of me-parities and a self of selves: its me-parities and its selves are two, by sentence 22. Not said of a co-chaining.
-- Two sentences part, with it. The me-parity the selves are sharing is owned by the co-chaining, its one me: "A me-parity is owned by the only one of me"; a co-chaining is a self, and "a self owns its me-parities"; and "the me-parities of the society, in the universe, are the all-parities among the selves in the society", the society's own. Or it is not: the selves are sharing it, each self with it; the opening's waiting sentence has "A me-parity the same as an other's is other-parity", each self's own and the same; and in the code each self has the 4 in its own 3, no part with it as one thing of the selves together.
+- Not answered, section 5.97: the me-parity the selves are sharing as owned by the co-chaining. *Owned by* has no defining. Open, tracked, waiting for the word.
+
+### 5.97 *Owned by*: used, and with no defining
+
+- *Owned by* has no defining in the sequence, and none in the living files. Natural Naming has no naming of *own*, *owns* or *owned*.
+- The shared me-parity as owned by the co-chaining, section 5.96: its is-or-is-not is on a word with no defining. Open, tracked, and waiting for the word.
+- The sequence has the word in seven sentences, and with three kinds of owner.
+
+| Sentence | Its owner | Its owned | Its words |
+|---|---|---|---|
+| 3 | a name | now-existing things | "A set with its own name is the now-existing things its name owns, and nothing beside them." |
+| 5a | a set | a name | "*The universe* is one name, owned by one set, and no other set has it." |
+| 6w-o | a me | a me-parity | "A me-parity is owned by the only one of me. This parity is existing only inside the ownership set of me-parities." |
+| 6w-q | a self; living | its me-parities; a self | "Living is owning a self, and a self owns its me-parities." |
+| 6x-f | a society | all-parity | "All-parity is owned by the society, as a same-existing named set of members" |
+| 6y-o | a bi-coupling self | a between | "The bi-coupling self owns this between." |
+| 6y-m | none | universal all-parity | "No own is of universal all-parity." |
+
+- Two of the seven are nearest to a defining. Sentence 6w-o: an owned me-parity is existing only inside its owner's set. Sentence 3: a name's owned things are the things of its set, and nothing beside them.
+- Parting among the seven. In sentences 3, 6w-o and 6w-q the owned is a thing of the owner's set. In sentence 5a the owned is a name, and a set is its things and no further thing. In sentence 6x-f the owned is the set of members whole. In sentence 6y-o the owned is a between, of the bi-coupling and the universe.
+- *Read, Exhibit ONE's code.* No part of it is named *own*. In the readings of this working, a self's own is its 3, in 16 by its key, and its others' me-parities with it its 2: *own*, in them, is a word of the reading, and not of the code.
+- Two sentences part, with it. A thing owned by an owner is a thing existing only inside its owner's set: sentence 6w-o has it of a me-parity; sentence 3 has a name's owned things as the things of its set and nothing beside them; and a self owns its me-parities, its set. Or it is not: the bi-coupling self owns a between, of itself and the universe, and no thing inside its set; a set owns its name, and a name is no thing of the set; a society owns all-parity as the set of its members whole; and living is owning a self.
 
 ---
 
@@ -1881,6 +1902,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
 - Is the me-parity the selves are sharing owned by the co-chaining, its one me: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
