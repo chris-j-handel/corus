@@ -140,16 +140,57 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 10 Asked now
+## 10 Asked, and its answer
 
-The first breaking opportunity is the vault's own: the earlier working has the vaults of conception and of dormancy as one. With *is*, living opens and opens again with one same self, and a birthing is no one-time thing, or each waking is a birthing. With *is not*, living is with no ingesting and exhausting for that while, and the sentence of living is re-said.
+- Asked: a self with no ingesting and exhausting, a dried seed or a frozen embryo, is a non-living prior for that while, is or is not.
+- Its answer, a sentence, as it arrived:
 
-- **A self with no ingesting and exhausting, a dried seed or a frozen embryo, is a non-living prior for that while: is, or is not?**
+> dormancy is inside living. dormancy is not a new birthing as dormancy has living priors and inherited priors. there will be many similarities after the new birthing and into maturing . the new birthing is from empty living priors and becomes living from non-living atomic carbon bump-connectors in co-chaining compression into stable form as right spiral co-chaining. so all living is from non-living inherited prior healthy living. explore and add rigor to this for us
+
+**A reading.**
+
+- Dormancy is inward of living. A dormant self has living priors of its own, and inherited priors, and its waking is no new birthing.
+- A new birthing has no living priors of its own. It has inherited priors only.
+- The inherited priors are non-living: atomic carbon bump-connectors, co-chaining, compressed into stable form, a right spiral co-chaining.
+- From them a new self is living. Each living is from a non-living inherited prior, of prior healthy living.
+- After a new birthing and into maturing, a waking and a birthing have many likenesses.
+
+**Resolved by it.**
+
+- The first breaking opportunity of section 9: a waiting self is living, with no ingesting and exhausting for that while. Living is then no ingesting and exhausting only. A candidate re-saying, for the person's is or is not: a living thing is a thing with living priors of its own; ingesting and exhausting are its going on, and dormancy its waiting.
+- A waking and a birthing are parted by one thing: a self's own living priors, with a waking, and none of its own, with a birthing.
+- Tracked: *empty living priors*, of a new birthing, beside the person's sentence of no empty sets in living. The managing working's re-saying is a first inheriting.
+
+**Rigor added: each part with a field's observing, each at its page's excerpt only.**
+
+- **Compressed, into stable form.** In a sperm, a father's co-chaining is compacted ten to twenty times more than in a body's cell, into small rings a field names toroids, to a packing a field has as almost a crystal's, with no sequencing going on in it. Cohering: an inherited prior, non-living, compressed, in stable form, and as a torus.
+- **A waiting self has its own priors, in stable form.** A dried seed has more than ten thousand sequenced messages of its own, laid in its maturing, and uses them first with its waking, before any new sequencing. Cohering, with dormancy having priors of its own, and a waking no new birthing.
+- **A new self, at first, with none of its own.** A joined egg at first goes on by its mother's proteins and messages only, laid in the egg before the joining. Its own co-chainings are first sequenced later: with a mouse at two cells, with a human at four to eight, with a chick before its laying. Cohering, with a new birthing having no living priors of its own, and inherited ones only.
+- **A right spiral.** The two co-chainings of an inherited pair wind as a right spiral. Their first compression in a body's cell, about a core of eight proteins, is a left spiral, about one and two thirds windings. A breaking opportunity for *right spiral* with each compression: the co-chaining is a right spiral, and its winding on its core a left one.
+
+**Breaking opportunities, three.**
+
+- **From non-living only, no birthing is observed.** A new self is observed opening within a living cell of its mother, the egg, and goes on by her living priors first. A whole co-chaining made by chemistry, of a small bacterium, became a living line of cells only with its placing into a living cell of a near kind. No observing has a co-chaining alone, with no living cell receiving it, becoming living. The concept is whole with it if *from non-living inherited* is with a living vault receiving; it parts if a non-living co-chaining alone is living's opening.
+- **A waiting self and a dead one.** A dried seed has no sign of living an instrument finds, and a field's own test is its waking: water, and its growing or its staining. Living, with a waiting self, is observed with its next only. Cohering with a living thing possibling its own next; and a concern: no observing now parts a waiting self from a dead one.
+- **A first of living.** Each living from an inherited prior of prior living has no first: a field has no observing of a first living from no living, and its own accounts of one are not observed. The concept and a field are the same here, each with no first observed.
 
 ---
 
-## 11 Pages, each at its excerpt only
+## 11 Asked now
+
+A field has a moment that is a candidate for the new birthing: a new self's first sequencing with its own inherited co-chainings, after going on by its mother's living priors. With *is*, a birthing is observable with each kind of self, a chick's before its laying, and the vault is the mother's living with it until then. With *is not*, the new birthing is with the joining of the two, or with an other moment, and that moment is the next naming.
+
+- **The new birthing is a new self's first co-sequencing with its own inherited co-chainings, and until it the living with it is its mother's: is, or is not?**
+
+---
+
+## 12 Pages, each at its excerpt only
 
 - A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
 - Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
 - A hidden living: https://isj.unimore.it/index.php/ISJ/article/download/144/59/468 · https://www.sciencelearn.org.nz/videos/tardigrades-and-anhydrobiosis
+- A father's co-chaining, compacted: https://www.biorxiv.org/content/10.1101/2023.12.08.570784.full.pdf · https://pmc.ncbi.nlm.nih.gov/articles/PMC5685563 · https://arxiv.org/abs/2101.05392v1
+- A dried seed's own messages, and its testing: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7154877/ · https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1585631/pdf
+- A joined egg by its mother's first: https://giraldezlab.org/docs/Kojima_Hoppe_NatRevGenet_2024.pdf · https://pmc.ncbi.nlm.nih.gov/articles/7530992/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249
+- A left spiral about a core: https://pmc.ncbi.nlm.nih.gov/articles/PMC4378457 · https://pmc.ncbi.nlm.nih.gov/articles/PMC7959483
+- A co-chaining made by chemistry, placed into a living cell: https://www.jcvi.org/media-center/first-self-replicating-synthetic-bacterial-cell-constructed-j-craig-venter-institute · https://academic.oup.com/jmcb/article/2/4/178/866681
