@@ -40,3 +40,5 @@ Opened again by the person's saying, for an is-or-is-not that goes on with the e
 - Nothing here is with the Living Ghost Registry's ten lines yet.
 - The wording is not read against Natural Naming whole or Natural Explaining whole.
 - No droplet is at a gathering yet.
+- *Empty*, of a vault, a nucleus or a set, in this folder's pages, is not yet read beside the person's "there are no empty sets in living", at Natural Resolver's gathering-value.
+- *Scale* and each letter of this working's own, A1 to A5, are in this folder's earlier pages; to the person each thing is said by its full name.
