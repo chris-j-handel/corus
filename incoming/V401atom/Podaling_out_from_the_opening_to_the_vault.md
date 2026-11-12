@@ -341,3 +341,42 @@ Its place in the book: colour plate 7.2, four kinds of a seed-bearing chamber, e
 - Two cells' one tunnel: https://pmc.ncbi.nlm.nih.gov/articles/PMC5414816 · https://taylorandfrancis.com/knowledge/Medicine_and_healthcare/Physiology/Connexons
 - A seed's three generations: https://www.degruyterbrill.com/document/doi/10.1515/bmc-2013-0034/html · https://www.frontiersin.org/articles/10.3389/fpls.2014.00510/pdf · https://www.britannica.com/plant/angiosperm/Fertilization-and-embryogenesis
 - A joined egg's two parental co-chainings: https://pmc.ncbi.nlm.nih.gov/articles/PMC11107594 · https://pmc.ncbi.nlm.nih.gov/articles/PMC7190278 · https://bmcdevbiol.biomedcentral.com/track/pdf/10.1186/1471-213X-4-12
+
+---
+
+## 25 Asked, tracked and not pressed
+
+- A field's still is a stable form, non-living, whole with an inherited prior and not with living: is, or is not. No answer yet.
+
+---
+
+## 26 Nine candidates, going on from the eighteen
+
+Each is plain, names one thing, and opens from the ones before it. Each is from a sentence of this session answered yes or arriving as the person's own, pattern matched, with no authority. Its executing, with each parting, is in `Three_diamond_pointers_1_to_25.md`.
+
+**After the opening's sentences of me-parity, other-parity and a bi-coupling.**
+
+19. **Distinguishing** is same-as, is or is not.
+20. A living parity is followed by one distinguishing after another.
+21. **Co-parity** is living in the me-parities of a self and an other, same-as.
+22. A bi-coupling's 1 is its inception, once.
+23. With a prior in a self or an other, a bi-coupling comes to no 1 again.
+
+**After the third, of a new birthing.**
+
+24. A new birthing inherits the prior me-parities of a self and an other.
+25. A new birthing is with their co-parity, and with no co-parity no new birthing is.
+
+**After the sixth, of universal-parity inside each universe.**
+
+26. Social moral competency is living in all-parity, a society's set of me-parities, as co-parity is living in two.
+
+**After the eleventh and twelfth, of a next universe.**
+
+27. Across, one full around is one forward along.
+
+---
+
+## 27 Asked now
+
+- **These nine, in this sequence, are that explaining with its contorting out: is, or is not?**

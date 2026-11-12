@@ -464,9 +464,14 @@ Re-said by it: section 38's the same and not the same. The natural naming is one
 
 ---
 
-## 43 Asked now
+## 43 Asked, and its answer
 
-- **A new birthing is with a self's parity same-as an other's, is; and with same-as, is not, no new birthing is: is, or is not?**
+- Asked: a new birthing is with a self's parity same-as an other's, is; and with same-as, is not, no new birthing is.
+- Its answer: yes, with a sentence:
+
+> yes this explaining is very contorted and i believe it is also binary correct
+
+- Out with it: the contorting. Sections 28 to 42 stay as each executing's own record. What they come to is said plainly, nine sentences in one sequence, in `Podaling_out_from_the_opening_to_the_vault.md`, going on from its eighteen.
 
 ---
 
