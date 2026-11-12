@@ -2353,9 +2353,17 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 | *for breaking* | none | none | a phrase of this working only, in 62 of its sentences and 7 gathering items |
 | *going on* | 139 | 1,575 | natural naming, of a thing with its next; in section 5.117 a story's word, of the exploring |
 
-- Re-said, in natural naming: a grouping is *whole*, or *not whole*; and one with two sayings and no is-or-is-not yet is *not distinguished*. Section 5.117's last part is re-said with the three.
+- Re-said, in natural naming: a set is *whole*, or *not whole*; and two sentences parting, with no is-or-is-not yet, are *not distinguished*. Section 5.117's last part is re-said with the three.
 - *For breaking* was this working's word of a candidate and of a likeness, with the tracking of each all or none at all breaking possibility. Re-said from now: *a candidate*, and *not distinguished*.
 - A debt: *for breaking* in 62 sentences of the working files and 7 items of five gatherings, *conflict* in 15 sentences, *turning away* in 3. Not yet re-said.
+
+### 5.119 The session, gathered
+
+- Competency in the explaining is away: *grouping* and *sayings* are no natural naming and explaining. Re-said: *a set*, and *a sentence*.
+- Asked: the session gathered into the living expedition's incoming value, with the value of the method prior to the pause of the progress, until an is-or-is-not; with the improved sentences of the opening of Natural Intelligence; and with each value of the transcript as it is understood now. The transcript is artifact; the value, gathered into the living file set, is cohering and co-chaining, and whole within the expedition.
+- Done, in `The_Session_Gathered.md`: the method and its value, with its edges; the opening's fifty-five, each beside its sentence of the session, 22 improved, 12 with a sentence beside, 3 not distinguished and 18 as they wait; the value by its six areas; and each thing not distinguished.
+- At the gatherings: Natural Intelligence, *Opening*, 25 items, each improved sentence and each not distinguished; Geodesic Improving Method 2.5, one item, the method's value and its edges.
+- The transcript, read in parts: its first sentences, the first pass of the opening's sentences, and each sentence of the person's by its first words. It is not in the set.
 
 ---
 
