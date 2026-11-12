@@ -48,6 +48,7 @@ Gathering-Value · Natural Naming
 - **Possible exploring** · *Me* is an owner, the only one, and a self: a me is a universal same-existing set of me-parities. *A me-parity* is an owned, one of its me's many. *Me* and *self* are two names, a me with a you and a self with an other.
 - **Possible exploring** · *All-parity* is the naming of universal parity, and *us-parity*, a candidate of one working, is dissolved. All-parity is a now-existing thing, owned by its society as a same-existing named set of members, the members the set of all in all-parity: a me-parity is a me's own, and all-parity a society's own. Beside it, a naming of this file has all selves' parity as a 0, and its name *social parity*.
 - **Possible exploring** · *A tester* is an incompetencing concept, of equilibria engineering science or a science beside it, and is in no living file: one side with each of two, a providing and a declaring, with a standard. *A sensor* and its *sensationer* are the two-way naming, one and then the other. *An executing as a check* says the same or not, deciding nothing. *Tested* and *testing*, of a working's own act, are dissolved: observing, and distinguishing is-or-is-not, accomplish the rigor.
+- **Possible incohering** · "co-chaining is co-sequencing selves going on, along" → A co-chaining is a universal set of me-parities, the me-parities living in the betweens, and it is podaling along and across, co-intelligencing surface, discovering next-existing: a set, and with across and along each.
 
 ### 2.5 One sense per foundation word
 

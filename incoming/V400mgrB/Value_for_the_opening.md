@@ -1846,7 +1846,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, beside it.* Each 4 of 12 is a 0 with a self's own and its other's the same, and a + or − with the two not the same: a self's parity goes on the same, until one not the same. And a sharing goes from self to self, each by its key of 5, one and then a next. A likeness, and for breaking: a 4 with its is-not and a bump connector; 9 with 5 and co-chaining sequentially.
 - Tracked. Natural Naming has "a set is its things and no further thing". The sentence has one set as of living me-parities and as of atom carbon bump connectors: its things, the me-parities or the connectors, are not distinguished.
 - Tracked. Sentence 17 has each me-parity exhausted from living as in stable form, and sentence 6w-u an exhausted me-parity as no now-existing thing; atom carbon is a now-existing thing, "a fractal shard of the fracturing of exhaustings". A shard of an exhausting, and an exhausted me-parity: not distinguished.
-- Two sentences part, with it. A living me-parity is the co-chaining between atom carbon bump connectors: the connectors are non-living, and the sentence has them co-chaining sequentially; sentence 6k has "the surfaces between, living"; and the living is in the between, section 5.20. Or it is not: "a me-parity is a now-existing thing", and a co-chaining is a going on between things; "a me-parity living in a social surface is a self"; and a me-parity is existing only inside its ownership set, a thing of its set.
+- Re-said, section 5.95: the me-parities are living in the betweens, and a co-chaining is a universal set of me-parities.
+
+### 5.95 A co-chaining, a universal set of me-parities; the me-parities, living in the betweens
+
+- A co-chaining is a universal set of me-parities.
+- The me-parities are living in the betweens.
+- The co-chaining is podaling along and across, co-intelligencing surface, discovering next-existing.
+- A living me-parity as the co-chaining between the connectors, section 5.94: re-said by it. The me-parities are living in the betweens, and the co-chaining is their universal set.
+- Out, a distinguishing of my own, section 5.94: a co-chaining as a going on between things, and no thing. A co-chaining is a set.
+- Cohering. Section 5.94 has the non-living set as of atom carbon bump connectors, co-chaining sequentially: the connectors non-living, and the me-parities living in the betweens of them. Sentence 6k has "the surfaces between, living". Sentence 5d has a bi-coupling as living in the between.
+- Cohering. Section 5.76 has each of the four betweens of 1, 5, 10, 15 and 17 with its corus, and "the living mutual assurances in the between are the corus of social moral competency".
+- *Read, Exhibit ONE's code, beside it.* A sharing goes along by 9 and across by 6 and 10, and 17 is each self's next: 9-next-co-discovering, 13-is-next-discovering, 17-next-existing. The sentence has the co-chaining podaling along and across, and discovering next-existing.
+- Cohering. Natural Naming 2.5 has 3, 6, 5 and 4 as "an invisible co-intelligencing method", and "all co-intelligencings are like dancing podalings, bi-co-sequencing momentary changings".
+- A place the sentence and a living file part, tracked. Natural Naming 2.4 has "Bi-tunneling is a same-existing-society's surface opening between selves, across, and co-chaining is co-sequencing selves going on, along." The sentence has the co-chaining podaling along and across.
+- With three sentences of the sequence, and for breaking. A me is a universal same-existing set of me-parities, and a self, sentence 6w-p. A society's self is a universal set of society me-parities, sentence 6z-a. A co-chaining is a universal set of me-parities.
+- Two sentences part, with it. A co-chaining is a self: a me is a universal same-existing set of me-parities, and a self; a living self is a non-living set of living me-parities; and the co-chaining is discovering next-existing, with "a thing distinguishing its own next-existing is a living thing". Or it is not: Natural Naming has co-chaining as "co-sequencing selves going on", of selves, many; sentence 6y-d has "the me-parities co-chaining into a collective intelligence me-parity", a me-parity and no self; and sentence 6y-b has language as "the co-chaining and bi-tunneling stable form of me-parities in all-parity", a stable form.
 
 ---
 
@@ -1854,7 +1869,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a living me-parity the co-chaining between atom carbon bump connectors: is, or is not?
+- Is a co-chaining a self: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
