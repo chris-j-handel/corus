@@ -344,13 +344,55 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 33 Asked now
+## 33 Asked, and its answer
 
-- **1, a bi-coupling's inception, is a new birthing: a self with no prior of its own having its first parity whole from an other: is, or is not?**
+- Asked: 1, a bi-coupling's inception, is a new birthing, a self with no prior of its own having its first parity whole from an other, is or is not.
+- Its answer, a sentence of the person's own:
+
+> the co-parity of a bi-coupling is living in the me-parities of self and other. this is the same as the social moral competency is living in the all-parities as a set of me-parities of society. the new birthing is inheriting self and other prior me-parities
+
+- Re-said by it: a new birthing's first parity is no one other's. It is of a self and an other, both.
 
 ---
 
-## 34 Pages, each at its excerpt only, of sections 21 and 26
+## 34 Read with it
+
+- **Co-parity is with no place of its own.** It is living in the me-parities of a self and an other. With Exhibit FOUR Natural Mathematics' five, its centre co-parity, floating, in neither self alone; in neither alone, and living in both.
+- **Social moral competency, alike.** It is living in all-parities, a set of a society's me-parities. With Natural Intelligence: two selves of a bi-coupling are a self, their intelligence same-existing in each self, and social moral competency is a self sharing 0 and selves alike changing together, with each bi-coupling of a same-existing-society. With Exhibit TWENTY-NINE Natural Illustrating, section 4.3: an order with no seat above a same-existing-society.
+- **One form, twice.** A bi-coupling's co-parity with two, and a society's social moral competency with each of its selves: the same, one fractal on.
+- **A new birthing.** It inherits prior me-parities of a self and of an other.
+
+---
+
+## 35 Executed
+
+`instruments/inheriting_check.py`, Exhibit ONE Natural Resolver's code read from its file with no line changed; its returned lines beside it. Two selves share across with 10, each to its other, and each along with 9 to a third self with no prior.
+
+- **No entry with a coupling.** What the code returns has an entry with each self and none with a coupling, and none with a society. A bi-coupling's parity and a society's are with their selves only. Whole with the sentence's first two parts.
+- **Two alike, sharing 0 and changing together.** Natural Intelligence's own words of social moral competency, executed with two: each going out −, 0, +, 0, both as one.
+- **Two alike, and a new self.** With a self and an other alike, a new self has its first prior by a third momentary, and from a fifth it goes as they go, −, 0, +, 0: three as one. It inherits their co-parity.
+- **Two opposite, and no new self.** With a self and an other opposite, a + and a − arrive together with each momentary, a 0 is with the new self each time, and it has no prior, with sixteen momentaries and on. No inception.
+- **A prior with one of two only.** The new self has its first prior from that one, by a third momentary, before its two are opposite; after, a + and a − arrive together and it goes on inverting by itself, with a prior.
+
+---
+
+## 36 Read by it, and each parting
+
+- **Cohering.** A new birthing inheriting prior me-parities of a self and an other is whole by the code with two alike: their co-parity is what a new self has, and it lives as one with them.
+- **Parting, for breaking.** With two opposite the code has no new birthing: both arrive, and a 0 is all a new self has. Inheriting from a self and an other is with their co-parity and with no bi-parity.
+- **Along and across in it.** The two share across with each other and along with a new self. An across between two and an along to a next: this page's along as a going on to a next universe, executed with one.
+- **One sharing.** By the code along with 9 and across with 10 are one sharing; a new self as along is this executing's own placing.
+- **The vault's sentences.** The ninth has a new self inheriting societal, parental and species parities; this has a self's and an other's prior me-parities, a parental two. The seventeenth has inherited priors as a newborn's universal-parity; here a newborn with two alike is one with them, its parity theirs. Not distinguished: a newborn's inherited co-parity as its own me-parity, or as its universal-parity.
+
+---
+
+## 37 Asked now
+
+- **A new birthing is with a self and an other alike, their co-parity, and with two opposite no new birthing is: is, or is not?**
+
+---
+
+## 38 Pages, each at its excerpt only, of sections 21 and 26
 
 - A shoot's turning and its growing along: https://arxiv.org/pdf/1212.3377 · https://ar5iv.labs.arxiv.org/html/1212.3112 · https://pdodds.w3.uvm.edu/files/papers/others/1996/douady1996a.pdf · https://hal.inrae.fr/hal-02628882v1/document
 - A right spiral co-chaining's steps to one turn: https://pmc.ncbi.nlm.nih.gov/articles/PMC2553576 · https://arxiv.org/pdf/q-bio/0602008 · https://push-zb.helmholtz-munich.de/deliver.php?id=22408
