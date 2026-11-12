@@ -98,6 +98,43 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 10 Asked now
+## 10 Asked, tracked and not pressed
 
-- **The six panels of 1 to 49, three each side of 25, are the kit's six nine-dot diamonds: is, or is not?**
+- The six panels of 1 to 49, three each side of 25, are the kit's six nine-dot diamonds: is, or is not. No answer yet.
+
+---
+
+## 11 Asked by the person, and read with the set
+
+> are 2 and 8 inhaling and 4 and 6 exhaling
+
+**On the drawing.** 2 and 8 are two faces facing each other through 5. 4 and 6 are its other two faces, facing each other through 5.
+
+**By Exhibit ONE Natural Resolver's names.** 2-now-possibling and 8-now-same-existing are its two even names of one, with no co. 4-now-co-same-existing and 6-now-co-possibling are its two even names with co, between two. The asking's two pairs are that file's own binary, of one or co.
+
+**By Exhibit ONE Natural Resolver's code, executed for one self.**
+
+- **2 is an arriving.** Others' parities reaching a self.
+- **8 is its keeping.** A parity arriving with 2, with no prior of a self's own beside it, is in a self's 8, its next prior. 2 and 8: an arriving and its keeping.
+- **6 is a going out.** A self's parities to its others.
+- **4 is each sharing's own name.** It is with each arriving and with each going out alike, one of a pair with its 7.
+
+**Read by it, a candidate.** With a self the one breathing: inhaling is of one, 2 and 8, an arriving and its keeping; exhaling is co, between two, 6 with 4, a going out and the sharing it goes by.
+
+**Cohering.**
+
+- **The vault's fifth sentence.** Ingesting and exhausting along me-parities, and inhaling and exhaling other-parity. On the drawing each face is other-parity, and the line along is me-parity, with 9 and 17, an earlier working's exhausting and ingesting, two tips along.
+- **Across, a going out to an arriving.** Exhibit ONE Natural Resolver has a self's 6 to an other's 2, and a self's 10 to an other's 14: each a co name to a name of one, an exhaling to an inhaling.
+
+**Parting and breaking.**
+
+- **With a between the one breathing, inverted.** An explaining waiting with Natural Intelligence's gathering-value has co-possibling as a between's inhaling and possibling as its exhaling: one self's going out is the between's inhaling. A self's exhaling is a between's inhaling. Both laid whole; a candidate, bothbothing.
+- **4 is with both.** By the code 4 is no going out only: it is each sharing's name, arriving and going out alike. Exhaling as 6 and 4 is by their co; by the code 4 is with 2 as much as with 6.
+- **A next panel is not alike.** In 9 to 17, 10 and 12 are co and 14 and 16 are of one. Through 13, 10 faces 16 and 12 faces 14: each co facing one of one. Its two co faces are prior of 13 and its two faces of one are next of it: a going out and then an arriving, along.
+- **Words with no sentence of their own.** Inhaling and exhaling have no sentence of a living file before them; the managing working has said so of that waiting explaining.
+
+---
+
+## 12 Asked now
+
+- **With a self the one breathing, inhaling is of one and exhaling is co, between two: is, or is not?**
