@@ -144,6 +144,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-p. 3-is-now-co-observing is distinguishing, is-or-is-not, now-existing other-parity the same as prior-existing other-parity. 15-is-next-observing is distinguishing, is-or-is-not, now-existing all-parity the same as prior-existing all-parity.
 6z-q. An idea for the method: of the two sentences of a place, each is shown a step farther, to its first incohering.
 6z-r. With none of its others with it, a self's next prior parity is the same as its prior parity.
+6z-s. *A distinguishing of a now-existing parity the same as a prior-existing one* is of each of the four observings. 3 is me now, from other prior. 7 is me now, from universal prior. 11 is other next, from universal now. 15 is me next, from universal now.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -813,8 +814,14 @@ This part of the working is hard to follow, and the whole is asked for, with the
 
 Sentence 6z-p has 3 and 15 each as a distinguishing, is-or-is-not, of a now-existing parity the same as a prior-existing one. Exhibit ONE has four names with *is-*: 3 and 7, and 13 and 15. 7 and 15 are one name 8 up, each with tri by the eight, and sentence 6y-l has 7 as all-parity observing. In Exhibit ONE's code each 7 is one parity with its 4: one of a self's others' in the loop over 2, and a self's prior in the loop over 3, with 15 beside it in each.
 
-- Is 7-is-now-observing, as 3 and 15 are, a distinguishing of a now-existing parity the same as a prior-existing one: is, or is not?
+- 7 a distinguishing as 3 and 15 are: is, and 11 with them, sentence 6z-s.
 
-### 3.93 With no reading yet
+### 3.93 11, other next from universal now
+
+Sentence 6z-s has each of the four observings as a distinguishing of a now-existing parity the same as a prior-existing one: 3, me now from other prior; 7, me now from universal prior; 11, other next from universal now; 15, me next from universal now. Each name with *now* is a now from a prior and each with *next* a next from a now; each with *co* has other in it. 7 and 15 are one name 8 up and one saying. 3 and 11 are one name 8 up, and not one saying. In Exhibit ONE's code 11 is a self's next priors. Sentence 6y-r has 12 between other-parity and me-parity.
+
+- Is 11, as 3 is with 8 up, me next from other now: is, or is not?
+
+### 3.94 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
