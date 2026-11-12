@@ -136,6 +136,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-h. The parities possess the self as much as the self possesses the parities. The parities are living in the non-living all-parity inside the living self.
 6z-i. The prior-existings of a me-parity are living.
 6z-j. Each living thing is a now-existing thing.
+6z-k. Collective me-parity abundancing: offered, for exploring within the logical cohering.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -753,6 +754,12 @@ Sentence 6z-j has each living thing as a now-existing thing. Sentence 6z-e has a
 
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
 
-### 3.84 With no reading yet
+### 3.84 Collective me-parity abundancing
+
+Sentence 6z-k offers collective me-parity abundancing, for exploring. Natural Naming 1.2 has abundancing as arising with a coupling, in neither self alone; Natural Intelligence's opening has social abundancing as a natural intelligence network, each self sharing with each self it is bi-coupling with; Exhibit THIRTY's step 576 has abundancing as one of four values of a between of selves, with no defining after it. Sentence 6y-e has each social moral competency as a me-parity of society, and each of the 8 values as a social moral competency is a candidate, followed. Sentence 12 has a me-parity as +1 only, and sentence 13 a me-parity born from a bi-coupling. In Exhibit ONE's code a self's 4s are as many or more with each resolving, and no part makes a 4 from none.
+
+- Is abundancing a collective me-parity, one of the many: is, or is not?
+
+### 3.85 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
