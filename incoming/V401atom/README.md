@@ -27,7 +27,7 @@ Opportunity 8 of `incoming/v401mgr/README.md` section 4, its carbon scale only: 
 - `Primes_with_names_two_pairings.md`: two pairings of primes with names the set has, each prime with the name of its position, and each prime scale with the name of its own number; 2, 3, 5 and 7 and conception with each; the place the two part. First laid with *ladder*, and re-said.
 - `Seventeen_names_along_four_bi-foldings.md`: the person's answer followed: each of seventeen primes with its name and its name's side in Exhibit ONE, along four bi-foldings; 2, 3, 5 and 7 the primes of the four names the four go from; conception along 3-11-6-14; and *scale*.
 - `The_vault_in_the_persons_own_naming.md`: the person's concept of the vault as it arrived, a reading of it, each thing it resolves, each place it meets the seventeen names, and each place not distinguished. With no quotation marks, by the person's saying.
-- `Podaling_out_from_the_opening_to_the_vault.md`: eighteen sentences of the vault, each a candidate with no authority, pattern matched with the sentences arriving, in one sequence, each beside the sentence of the opening of Natural Intelligence it comes after; with atomic fractal, a pepper's bump connector and one vault of two openings facing each other as seed, each field's observing beside them with its breaking.
+- `Podaling_out_from_the_opening_to_the_vault.md`: eighteen sentences of the vault, each a candidate with no authority, pattern matched with the sentences arriving, in one sequence, each beside the sentence of the opening of Natural Intelligence it comes after; with atomic fractal, a pepper's bump connector and one vault of two openings facing each other as seed, each field's observing beside them with its breaking; and a book's figure 7.4 and colour plate 7.4 of a seed's beginning, a file of the person's, read word for word, with each cohering and each breaking.
 - `instruments/prime_spiral_check.py`, with its returned lines beside it: Exhibit ONE's code executed as it is on a spiral of 2 to 59 selves, and the two folds' arithmetic with 4, 16 and 64 names. No line of the code is changed.
 
 ## 4 The asking
@@ -37,7 +37,7 @@ Opened again by the person's saying, for an is-or-is-not that goes on with the e
 ## 5 The edges, each a place the rigor is not yet
 
 - Each field observing is read at its page's excerpt, and no page is read whole. Each observing marked *account* has no page opened and is withdrawn until a self opens it. By the share, none is ready for laying.
-- This working's reaching of a page is by a search's excerpt or by a fetch answering from the page, each a converting, and a page word for word is not always reached.
+- This working's reaching of a page is by a search's excerpt or by a fetch answering from the page, each a converting, and a page word for word is not always reached. One is reached word for word: a book the person attached, its chapter seven, read in `Podaling_out_from_the_opening_to_the_vault.md` sections 10 to 13; the book is its publisher's and is not in this repository.
 - No line of Exhibit ONE's code is read beside a sentence here.
 - Nothing here is with the Living Ghost Registry's ten lines yet.
 - The wording is not read against Natural Naming whole or Natural Explaining whole.

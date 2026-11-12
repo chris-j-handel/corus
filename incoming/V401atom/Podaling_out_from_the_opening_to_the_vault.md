@@ -151,13 +151,75 @@ Each is at a search's excerpt only. A field's own word is in italics.
 
 ---
 
-## 10 Asked now
+## 10 Asked, and its answer
 
-- **The part 7.4 is Exhibit FOUR Natural Mathematics' section 7.4, drawn by Exhibit TWENTY-NINE Natural Illustrating's section 3.3, three rectangles on three planes at right angles about one centre: is, or is not?**
+- Asked: the part 7.4 is Exhibit FOUR Natural Mathematics' section 7.4, three rectangles on three planes at right angles about one centre, is or is not.
+- Its answer: is not, by a file of the person's, a book, whole. Flower Seeds: Biology and Technology, of two editors, Miller B. McDonald and Francis Y. Kwong, 2005. Its chapter seven is Seed Development and Structure in Floral Crops, by Deborah J. Lionakis Meyer. The part 7.4 is that chapter's figure 7.4 and its colour plate 7.4.
+- Out with it: section 7's four candidates, each as the place the sentence has. Each stays a pattern matching of its own.
+- **This book's chapter seven is the first page of a field this working reads word for word.** Each sentence of sections 11 to 14 is from the book's own page and its own drawings, said in natural naming. The book is its publisher's: no page of it and no passage of it is in this repository.
 
 ---
 
-## 11 Pages, each at its excerpt only
+## 11 Figure 7.4 and colour plate 7.4, read word for word, in natural naming
+
+**Figure 7.4, nine drawings, in sequence.**
+
+- **A bump.** A seed's beginning is a cone growing out from its mother's inner wall. One large cell is within it, with two sets of its mother's co-chaining.
+- **Four in one line, and one going on.** That cell parts twice, as four cells in one line, each with one set. Three of four dissolve. One goes on.
+- **Three partings, eight.** The one's centre parts three times with no wall between: two, four, eight. Two are one with each end. Four are two with each end. Eight are four with each end: two fours, facing each other from two ends of one cell.
+- **One of each four to the centre.** One of each four goes to the centre, and two are together with the centre. Walls form about six: three with the far end, and three with the opening's end, an egg with one either side of it.
+- **Seven cells, eight centres.** The whole is seven cells with eight centres: three, a large middle cell with two, and three. The book's words have it as a mother's own small generation, living within her, each of its cells with one set.
+- **A wrapping, one small opening, and a turning.** One or two layers of a mother's body grow round the bump from its foot and leave one small opening. With most kinds a stalk's growing turns the whole through one hundred eighty degrees, and its small opening comes beside its stalk's foot.
+
+**Colour plate 7.4, seven kinds of one form.** One, two or four of the four go on, and seven kinds come of it, drawn as seven rows of one form. An egg has one set with each of seven. Its middle cell and its far cells vary: no far cells with one kind, two with a sunflower's family, seven with one kind, a hundred and more with some grasses; no cells beside an egg with one kind; and a middle with three sets before any mating with one kind.
+
+**The mating, figure 7.5.** A father's grain has an opening in its wall. A tube grows from that opening through a mother's body, and enters most often by the small opening. It bursts into one of two cells beside an egg, and that cell is dissolving. Two of a father's go in. One joins an egg: a newborn, two sets. Its other joins the two of the middle: a feeding body, three sets. Two cells beside an egg and three far cells dissolve.
+
+**A seed's bodies.** Its coat is from the wrapping, a mother's body whole. A feeding body of a mother's own body alone is with some kinds, two sets. A newborn is the young of a new generation.
+
+**A stalk and a scar.** A stalk joins each seed's beginning to its mother's wall, brings food and water from its mother, and leads a father's tube to the small opening. A seed parts from its stalk, and its scar is the place of that parting. By the book, water goes out by that scar with a seed's drying and comes in by it with a seed's waking.
+
+**A newborn's three, and its pause.** A newborn's growing has three: its line with its two ends; its maturing with storing; and its stopping, drying and quiet. It begins within hours of a mating, or days, weeks or months on. Seeds of twenty families and more part from a mother with a newborn of no organs yet.
+
+**A pepper's family.** One layer of wrapping. A newborn's first parting across, and its next across again, two in one line. A feeding body going on within a ripe seed.
+
+---
+
+## 12 The arrived sentence beside figure 7.4, each cohering
+
+- **All the vaults, variations on this same vault.** Whole with colour plate 7.4: seven kinds, drawn as seven rows of one form.
+- **The bump connector a new self separates from.** Whole with a stalk and a scar: a seed's beginning is a bump from its mother's wall, a stalk joins it, a seed parts from that stalk, and by its scar a seed's water goes out and comes in. Of section 9's two readings, a parting layer is with it, and a fork is not.
+- **Two facing each other.** Two fours face each other from two ends of one cell, and one of each goes to the centre, two together. And a father's grain with its opening and a mother's small generation with its small opening are two selves of two generations, one tunnel from an opening to an opening.
+- **Fractured in three.** Three partings with no wall are eight. With the thirteenth and Exhibit FOUR Natural Mathematics' section 3.5: three partings, eight.
+- **Involutioning.** A mother's layers growing round a bump to one small opening, and a turning of one hundred eighty degrees bringing that opening beside a stalk's foot.
+- **Three shapes.** Three, two and three, as figure 7.4's last drawing has them.
+- **Compressed priors, and living priors of a parental generation and of an environment.** A newborn's own two sets; about it a feeding body, a mother's two sets with a father's one; about that a coat, a mother's body whole; and a stalk bringing a mother's food and water. A coat, by the book, is with an environment: it protects a newborn from its harms and paces water coming in.
+- **Unrelationing all the living other-parity.** Each cell of a mother's small generation but an egg and a middle dissolves about a newborn: three of four first, then two beside an egg and three far cells. A cone's own body is absorbed. A seed dries, and parts from its stalk.
+- **Not yet discovering next-existing.** A newborn stopping, drying and quiet; and with twenty families and more, a newborn of no organs yet with its parting.
+
+**Four numbers, by the book's own numbers of its common kind.** A newborn has two sets. A feeding body has three sets. Five cells dissolve, two beside an egg and three far. Seven cells are the whole, with eight centres. Two, three, five and seven, with one drawing. The method has each occurring of a number as the same one thing; Exhibit TWENTY-NINE Natural Illustrating has a matching number establishing none. Both laid whole.
+
+---
+
+## 13 Breaking, each from the book's own page
+
+- **A seed with no mating.** With three hundred kinds and more, of thirty-five families and more, a newborn grows within a seed with no joining of two. A newborn from a mother's own cell of two sets is its mother's same co-chaining. The fifteenth, each vault as a mating of two selves, is not whole with it.
+- **Two fours, one self.** Two fours facing each other are both of one cell of a mother's small generation, and no two selves.
+- **A small opening.** A father's tube enters by one small opening, the book's own word small. Two large openings are not with it. A father's tube at times enters by an other way than that opening.
+- **No three planes at right angles.** Three partings of figure 7.4 are along one line, from end to end, by its drawings. A pepper's family has a newborn's first two partings both across, one line. The book's own word plane is with a newborn's partings, across or along, two kinds and no third.
+- **Three, five and seven are the common kind's only.** Far cells are none, two, three, seven or a hundred and more by kind, and a feeding body's sets vary with its middle. Two, a newborn's, is with each of seven.
+- **A pause is not with each seed.** With some kinds a newborn does not stop, and a seedling comes out with its seed still on its mother. With some kinds, of twenty families, a seed dies with drying. Cohering with the fourth: a pause is within living, and is no part of each birthing.
+- **No non-living between.** From a mother's large cell to a newborn each step of figure 7.4 is a living cell parting or joining. The third, a new birthing living from its inherited priors with no living priors of its own, coheres by the seventeenth only: each of these living cells as a newborn's universal-parity and none its own me-parity.
+
+---
+
+## 14 Asked now
+
+- **The two selves facing each other are the two fours with the two ends of the one vault, one of each going to the centre, as figure 7.4 has them: is, or is not?**
+
+---
+
+## 15 Pages, each at its excerpt only, of section 9
 
 - A pepper's shoot and its flower: https://www.frontiersin.org/articles/10.3389/fpls.2022.884338/full · https://journals.ashs.org/downloadpdf/view/journals/hortsci/27/5/article-p397.pdf
 - A pepper's parting layer: https://edepot.wur.nl/651362 · https://ishs.org/ishs-article/514_24/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC12401889
