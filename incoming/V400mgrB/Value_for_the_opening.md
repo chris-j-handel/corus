@@ -2103,7 +2103,18 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *The prior as a self's me-parity*, a step farther. With the second, the prior is its others' parity of the now before. Sentence 6z-g has possessing prior-existings as the universal set of a me's prior-existings, a me-parity: with it a prior, of an other's before or of none, is of a me-parity, and this is whole with each of the four. With no sentence 6z-g, its first incohering is the second.
 - Observed. The two are not excluding with the second and the third: one parity is a self's prior and its others' of the now before. The two part with the fourth only.
 - Doable, with this place: the code is one resolving on. With a place of two sentences and no code beside it, a step farther is a next sentence each side has, and not each place has one.
-- Two sentences part, with it, the fourth only. With none of its others with it, a self's next prior, the other of its prior, is an other-parity: it is the other of its + or −, an other by its naming; and with none again it is the other again, + and −, one and then the other. Or it is not: no other is with it, and other-parity is of a between of self and other, section 5.84; with no other, no between.
+- Re-said, section 5.108: with none of its others with it, a self's next prior parity is the same as its prior parity.
+
+### 5.108 With none of its others, a self's next prior the same; and the whole, with the area now
+
+- With none of its others with it, a self's next prior parity is the same as its prior parity.
+- This part of the working is hard to follow. Asked: the whole of the accomplished, and in the whole the area now.
+- Section 5.107's open binary, the other of a self's prior as an other-parity: re-said by the sentence. With none of its others a prior is the same, and no other of it is.
+- With the sentence, section 5.107's parting is not in the sequence: a self's prior is the same, or its others' parity. *The prior as a self's me-parity* and *the prior as other-parity* are each whole, of one parity.
+- A place the sentence and Exhibit ONE part, tracked, and not for changing. Read from the code, and checked with one executing: with none of its others with it, a self's next prior is the other of its prior. Exhibit ONE has it in its sentences: "an empty set surfacing … In that cell its prior inverts." Exhibit THIRTY's step 276 has "with its possibling an empty set a self's next is its prior inverting".
+- Cohering, with the sentence. Sentence 6n: a thing is same-existing "until an is-not bumps its parity sequencing", and with none of its others no is-not is with it. Natural Naming 1.2: abundancing is "in neither self alone". Sentence 6z-d: the me-parities are living in the betweens, and with no other, no between.
+- Tracked. Two of its others not the same as each other, a 0 of 14: with the code, the other of its prior; not in the sentence.
+- *The whole, in six areas, and the area now: the README of this folder, section 0.1.*
 
 ---
 
@@ -2111,7 +2122,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- With none of its others with it, is a self's next prior, the other of its prior, an other-parity: is, or is not?
+- Is the area now, Exhibit ONE's names read with the sequence, the area to go on with: is, or is not?
 - Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
