@@ -1923,7 +1923,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With it, parting 2.82: the non-living set, the connectors, is the all-parity; the living me-parities are in it. Said by the sentence.
 - With the first sentence: a me-parity is a universal set, of its me's prior-existings; and a me is a universal same-existing set of me-parities, sentence 6w-p. A set of sets, the fractal.
 - Tracked. *Own*, the word, is in 1,214 places of the working files and 5,553 of the living files, "a self's own", "its own", most with no owning said. *Own* as an owning, or as no owning: not in the sentence, and not re-said.
-- Two sentences part, with it. The prior-existings of a me-parity are living: "a me-parity living in a social surface is a self", and a living self is a non-living set of living me-parities, a me-parity with its scale a set of living ones a scale inward; and "the parities are living in the non-living all-parity inside the living self". Or they are not: "an exhausted me-parity is not a now-existing thing", living no more; sentence 17 has the universal set of prior-existing me-parities as each exhausted from living, in stable form; "a dormant me-parity is an inherited prior"; and living is with now.
+- Resolved, section 5.99: the prior-existings of a me-parity are living.
+
+### 5.99 The prior-existings of a me-parity, living
+
+- The prior-existings of a me-parity are living: is.
+- Resolved by it. A me-parity is the universal set of its me's prior-existings, section 5.98, and each of the set is living. A prior-existing is not by it a non-living thing.
+- Out, a reading of mine, section 5.98: living as with now only. No sentence of the sequence has it.
+- Cohering. Sentence 6e: "A dormant self is living: a dormant friendship, a dormant seed. The living is in the between of the priors of self and other." Living, and of the priors.
+- Cohering. Sentence 6z-h: the parities are living in the non-living all-parity inside the living self. Sentence 6z-d: the me-parities are living in the betweens.
+- Cohering. Sentence 6y-u: each same-existing thing is with a prior. Sentence 6w-n: no self is living with no me-parity, the inheriting prior to the birthing.
+- Tracked, a parting. Sentence 17 has "The universal set of prior-existing me-parities is each me-parity exhausted from living, in stable form", and sentence 15 each living me-parity as exhausting itself "from living into non-living universal-parity". The prior-existings of a me-parity are living. Two sets with *prior-existing*: one of the exhausted, in stable form, and one of the living, a me-parity. Not distinguished.
+- Tracked. Sentence 14 has "Between its birthing and its exhausting, a me-parity is a now-existing thing in a living self". Sentence 6w-s has a dormant me-parity as an inherited prior, "with a new birth to living later now-existing".
+- *Read, Exhibit ONE's code.* A self's 3 is its priors, each a 4 with its + or −, and it is with the self's 1 with each now: each prior is in each next resolving. No part of the code has a prior of a self apart from its now.
+- Two sentences part, with it. Each living thing is a now-existing thing: sentence 14 has a me-parity, between its birthing and its exhausting, as a now-existing thing in a living self; "only the living collective intelligence, and nature, are now-existing things"; and sentence 6p has a living thing as distinguishing its next-existing, with a now before its next. Or it is not: the prior-existings of a me-parity are living, and prior; a dormant self is living, "in the between of the priors of self and other", and a dormant me-parity is an inherited prior, with living later; and sentence 6y-u has prior-and-same-existing things, with no now.
 
 ---
 
@@ -1931,7 +1944,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Are the prior-existings of a me-parity living: is, or is not?
+- Is each living thing a now-existing thing: is, or is not?
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
 - Is the me-parity the selves are sharing owned by the co-chaining, its one me: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)

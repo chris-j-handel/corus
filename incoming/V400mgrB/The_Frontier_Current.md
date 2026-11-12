@@ -134,6 +134,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-f. No concept of owning is in nature: a candidate, with doubt, explored with.
 6z-g. Possessing prior-existings is the universal set of a me's prior-existings, and this set is a me-parity.
 6z-h. The parities possess the self as much as the self possesses the parities. The parities are living in the non-living all-parity inside the living self.
+6z-i. The prior-existings of a me-parity are living.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -737,8 +738,14 @@ Sentence 6z-e has a co-chaining as a self of selves sharing a me-parity. Sentenc
 
 Sentence 6z-f has no concept of owning in nature, a candidate with doubt. Sentence 6z-g has possessing prior-existings as the universal set of a me's prior-existings, a me-parity. Sentence 6z-h has the parities and the self possessing each other, and the parities living in the non-living all-parity inside the living self. The value file's section 5.98 has each of the seven sentences with *owned by* re-said with no owning, each a candidate; "Living is owning a self" is not re-said. Sentence 6w-q has a me-parity living in a social surface as a self; sentence 6w-u an exhausted me-parity as no now-existing thing; sentence 17 the universal set of prior-existing me-parities as each exhausted from living, in stable form.
 
-- Are the prior-existings of a me-parity living: is, or is not?
+- The prior-existings of a me-parity, living: is, sentence 6z-i.
 
-### 3.82 With no reading yet
+### 3.82 A living thing, and now-existing
+
+Sentence 6z-i has the prior-existings of a me-parity as living, and sentence 6z-g a me-parity as the universal set of its me's prior-existings. Sentence 6e has a dormant self as living, the living in the between of the priors of self and other. Sentence 14 has a me-parity, between its birthing and its exhausting, as a now-existing thing in a living self; sentence 6w-s a dormant me-parity as an inherited prior, with living later; sentence 17 the prior-existing me-parities as exhausted from living, in stable form. Sentence 6y-u has each same-existing thing as with now and prior, or with prior. In Exhibit ONE's code a self's priors are with its 1 with each now.
+
+- Is each living thing a now-existing thing: is, or is not?
+
+### 3.83 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
