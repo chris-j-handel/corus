@@ -41,6 +41,7 @@ Gathering-Value · Natural Resolver
 - **Possible incohering** · "empty with each momentary" → a between with each momentary; with *One self, momentary by momentary: three ways*. Its row is of the code as it is: after a 0 with 15-next-observing a self's prior inverts, with each moment.
 - **Possible incohering** · "Names between selves on it: an empty set" → Names between selves on it: each of its four within one self; with the bi-folding 4-13-5-12 of *Four bi-foldings*.
 - **Possible incohering** · "A dash: its partner an empty set among the twelve" → A dash: its partner a form other than the twelve; with *Twelve forms*.
+- **An explaining** · Three candidates at Natural Intelligence's gathering-value have words with no sentence of their own before them, each ingressing: in *The code, a stable form of the method only*, *marks*, *doings* and *direction* of + and −; in *double-double bubble-bubbling, inhaling and exhaling*, *a bubble*, *inhaling*, *exhaling*, *breathing*, *a list* and *going out*; in *ingesting, inheriting, conceiving, exhausting*, *inheriting*, *conceiving*, *exhausting*, *born* and *the method done in four*. And words of Exhibit ONE's own are with no sentence among the fifty-five waiting as Natural Intelligence's opening: *a between*, *a 0*, *+ and −*, *inverting*, *a sharing*, *surfacing* and *a prior*. Each has one sentence, in its place after the names it is made of, before a sentence with it is whole.
 
 ## Opening
 
