@@ -2196,6 +2196,16 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With 11, the reply before's open place is the same thread: 11 other next from universal now, and the code's 11 a self's next priors, made of each + or − of its sharing with no comparing.
 - Two sentences part, with it, each with a step farther. 11-next-co-observing is with an is-or-is-not of its own: the sequence has each of the four observings as a distinguishing, and 11 as other next from universal now. A step farther: 11 is with *is-* as its three are, and Exhibit ONE's four with *is-* are five, or 13 is with none. Or it is with none: Exhibit ONE has 11 with no *is-*; in the code 11 is made of each + or − of a self's sharing, with no comparing of two. A step farther: of the four observings three are distinguishings, and 11 is the going on of the one 15 and 7 made.
 
+### 5.112 No changing of *is-* is recommended
+
+- Asked, for clearness: a changing of the *is-* prefixing, recommended or not.
+- Not recommended. Section 5.111 recommends none, and has none in it.
+- *Is-* is in four names of Exhibit ONE's code, and no part of the code is changed or said for changing. The four are as they are.
+- Section 5.111's finding is a locating, and no fault of *is-*. With 3, 7 and 15 the three are cohering: Exhibit ONE's *is-*, the sequence's distinguishing, and the code's is-or-is-nots.
+- Two names are open, each by a sentence of the sequence and by no fault of a name. 11: the sequence has it as a distinguishing, and Exhibit ONE and the code have it with none. 13: Exhibit ONE and the code have it with one, and the sequence has not said it.
+- Section 5.111's *not explained by the code*, of 2, and of 4 and 5: observings, for breaking. The code is not by itself the explaining of a naming; Exhibit ONE's sentence is, and it has the four as two of a self's now and two of next-existing's.
+- With the open binary of 11, each side with no changing of a name. With *is not*: the sequence's sentence is re-said, three of the four observings distinguishings and 11 the going on of one. With *is*: a parting of the sequence with Exhibit ONE's naming, tracked at its gathering for Exhibit ONE incoming, and for its partners with a next version.
+
 ---
 
 ## 6 Open, each one binary
