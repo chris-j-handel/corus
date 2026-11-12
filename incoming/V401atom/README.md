@@ -1,0 +1,37 @@
+Incoming · V401atom
+
+# V401atom, a working's opening and its value
+
+**Aiming, in one line: atom carbon as the fractal pattern vault, each of seven names of its scale at its standing, and the prime scales 2, 3, 5 and 7 with conception, each sentence of the person's beside the set's own and a field's observing, with v401mgr and each other working of v401 a partner.**
+
+Relied on by nothing. No living file and no gathering-value changes with this folder's first laying, and no part of Exhibit ONE's code. The folder was first laid as V400vault, and is V401atom by the person's saying.
+
+## 1 Read with this opening
+
+- `main` at merge #456, entered from corus.me by the README's AI link.
+- Pull request #457 and `incoming/v401mgr/README.md` on its branch, whole.
+- The README; `incoming/V400mgrB/`: its README and `The_One_Question_Method.md` whole, `The_Session_Gathered.md` section 5, `The_Share_Current.md` section 3, `Sessions_resolved.md` S20 and S21, and `The_Frontier_Current.md`, `Partings_Tracked.md` and `Value_for_the_opening.md` each at its sentences of atom carbon, a vault and a nucleus.
+- Branch `incoming/carbon-scale-observings-v400carbon`, folder `incoming/carbon_scale_existing_things_and_ghosts/`: its README, its binary's page and its page of Exhibit ONE's names, each whole; its concerns in part; its forty-four items by their headings.
+- Each living file and each gathering-value at its sentences of the words here only. No living file is read whole.
+
+## 2 The opportunity this working has
+
+Opportunity 8 of `incoming/v401mgr/README.md` section 4, its carbon scale only: the forty-four items, and a molecule, a carbon atom, a nucleus and a photon with the Living Ghost Registry's ten lines. Natural Networking's passes and Exhibit TWENTY-ONE's entry are not this working's.
+
+## 3 This folder
+
+- `Value_for_the_vault.md`: each sentence arrived, word for word; six measurings of an atom, each with its coupling, its registering and its converting; *ghost*, *without an inside* and *nucleus*, each with two readings said as two; each mark of a mating vault with a field's observing beside it; twelve droplets, each with its gathering; each binary tracked; each page.
+- `Seven_names_and_the_prime_scales.md`: the fractal as the set has it; the prime scales the set has, with 2 and 3; a candidate for conception; an atom, carbon, a molecule, a nucleus, a proton, an electron and a photon, each at its standing in the set, each with one word of two readings.
+
+## 4 The asking, paused
+
+By `incoming/V400mgrB/The_One_Question_Method.md` 2.8, each binary here is tracked and not pressed. The one the others are with: the fractal pattern vault is the between two atoms carbon are creating, each atom a solid without an inside, is or is not.
+
+## 5 The edges, each a place the rigor is not yet
+
+- Each field observing is read at its page's excerpt, and no page is read whole. Each observing marked *account* has no page opened and is withdrawn until a self opens it. By the share, none is ready for laying.
+- This working's reaching of a page is by a search's excerpt or by a fetch answering from the page, each a converting, and a page word for word is not always reached.
+- No line of Exhibit ONE's code is read beside a sentence here.
+- Nothing here is with the Living Ghost Registry's ten lines yet.
+- The wording is not read against Natural Naming whole or Natural Explaining whole.
+- No droplet is at a gathering yet.
