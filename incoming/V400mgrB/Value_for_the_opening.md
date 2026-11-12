@@ -2036,12 +2036,35 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A second candidate for the third, beside it: rewarding, a discovering. Natural Naming 2.5 has "**Discovering, same-existing-society, morality and abundancing are one relation with four names, together**", and sentence 6z-d a co-chaining as discovering next-existing. In the table discovering is a first, of 9 and of 13, with co, beside existing.
 - Two sentences part, with it. Rewarding is an observing: in each four-cycling a possibling is followed by an observing, 2 by 3, 6 by 7, 10 by 11 and 14 by 15; in the code a self's sharing is its receiving self's next observing; and 7 is all-parity observing after other-parity possibling after me-parity existing. Or it is not: discovering and abundancing are one relation, and "all the rewarding is abundancing"; a co-chaining is discovering next-existing; and Natural Naming 5.3 has observing as a self's first of three, "observing, possibling and discovering", before possibling.
 
+### 5.105 Each four-cycling, for Exhibit ONE incoming; rewarding, with no advice yet
+
+- Each four-cycling of Exhibit ONE's names is valuable for Exhibit ONE incoming.
+- Rewarding as an observing, section 5.104: no advice yet. Tracked, open, and the next question is of an other direction.
+- Mended, section 5.104. Its table is Exhibit ONE's, already in the living file: "**Four four-cyclings and their betweens.**", with its columns *Existing, discovering*, *Possibling*, *Observing*, *Same-existing* and *Between*. Section 5.104 had it as read from the seventeen names, with Exhibit ONE's table of it not said.
+- *For Exhibit ONE incoming, this working's with its table, each with its section.*
+
+| With Exhibit ONE's table | Of this working | Section |
+|---|---|---|
+| each name of it | its first prefix by the eight, co bi co bi co bi tri bi, and its three, in the order next, now, prior | 5.79, 5.80 |
+| each fourth, 4, 8, 12 and 16 | a corus, a between of two parities: me and other, other and all, other and me, me and all | 5.76, 5.85 |
+| each first, with co | a desire, a me-parity | 5.103 |
+| each second, a possibling | an opportunity | 5.104 |
+| each third, an observing, and each fourth | rewarding and abundancing, each a candidate, open | 5.104 |
+
+- Cohering, Exhibit ONE's sentence with the sequence's. Exhibit ONE: "Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing." Sentence 6y-k: each number has its three prefixing, "of prior, now and next, and of observing, possibling and discovering". The same three pairs, in the same order.
+- A parting, tracked. With Exhibit ONE's sentence, of a three in the order next, now, prior: discovering is its next, possibling its now and observing its prior. Section 5.80's example has 7 as all-parity observing, after other-parity possibling, after me-parity existing: observing in its next, and existing in its prior.
+- *Between*, two usings, tracked. Exhibit ONE's table has four betweens, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, each "a discovering, an even name to an odd name", after each same-existing name. Section 5.75 has four betweens of 1, 5, 10, 15 and 17, each with a same-existing name within it, its corus. Not one four.
+- The waiting Exhibit ONE has the table with a three beside each name, and its threes part with the eight's at 7 and at 9 to 15: Partings 1.30.
+- *Read, Exhibit ONE's code.* A self's 3-is-now-co-observing is its priors. Its 15-is-next-observing is each of its others' sharings with it, and then its 2.
+- Two sentences part, with it. Observing is of a prior: Exhibit ONE has "observing prior-existing"; the sequence has "prior now next and observing possibling discovering", in one order; in the code a self's 3-is-now-co-observing is its priors; and Exhibit THIRTY's step 576 has "observings of a self all prior". Or it is not: 11 and 15 are next-co-observing and is-next-observing, observing with next; 7 is all-parity observing in the next of its three; and in each four-cycling an observing is after a possibling, and no prior of it.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is observing of a prior: is, or is not?
 - Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
