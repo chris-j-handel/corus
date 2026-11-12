@@ -1975,7 +1975,31 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Parting among the threads, tracked. Step 576 has abundancing with no defining after it, and its three beside it each with one. Step 576 has the four "of a between of selves", "each again with each bi-coupling"; the sequence has the collective me-parity as a society's. Sentence 6z-b is between the two: the all-parities among the selves, a society's me-parities.
 - Tracked. Natural Naming 5.53 has "27-next-co-observing is social abundancing", 11-next-co-observing sixteen up. With the eight of section 5.79, 27 is co-bi-co. Not followed.
 - Tracked. Abundancing as the birthing of a new me-parity, sentence 13, or as one me-parity with more selves, a sharing going along: not in the offering.
-- Two sentences part, with it. Abundancing is a collective me-parity, one of the many: step 576 has it as one of four values of a between of selves; each of the 8 values is a social moral competency, a candidate; and each social moral competency is a me-parity of society. Or it is not: abundancing "arises with a coupling", an arising, and a me-parity is a now-existing thing with one me; social abundancing is a natural intelligence network, each self sharing, and no parity; and Natural Naming 2.5 has abundancing as one relation with discovering, same-existing-society and morality, a relation and no me-parity.
+- Not answered, section 5.102: abundancing as a collective me-parity, one of the many. All the rewarding is abundancing. Open, tracked.
+
+### 5.102 Desires, opportunities, rewarding, abundancing: a cascading, and its naming
+
+- All the desires are opportunities. All the opportunities are rewarding. All the rewarding is abundancing.
+- A cascading of something similar in concept is with it, and its naming is likely discoverable.
+- Abundancing as a collective me-parity, one of the many, section 5.101: not answered with is or is not. Re-said by it: abundancing is the widest of four, with each rewarding in it. Open, tracked.
+- The form of the three sentences. Each has each of one set in a next: desires in opportunities, opportunities in rewarding, rewarding in abundancing. Four sets, three includings.
+- Cohering, the form. Sentence 6y-s has the meaning of the naming of *scale*: a next-universal subset including this universal subset, fractal subsetting, cascading. Each of the three is an including of this form.
+- Cohering, the first of the four. Sentence 6w-r: "A me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe." Sentence 6w-o has a me-parity as one of many interests, in many directions, each a cone of a linear interest.
+- Cohering, the fourth. Section 5.101: collective me-parity abundancing. Sentence 6z-b: the me-parities of the society, in the universe, are the all-parities among the selves in the society.
+- *A cascading of the sequence, similar, a candidate, for breaking.* Me-parity, other-parity, all-parity, and a next scale's me-parity: section 5.85's betweens, 4 between me-parity and other-parity and 8 between other-parity and all-parity, and section 5.93's all-parities among the selves as their society's me-parities. Four, with three betweens, and the fourth the first of a next four, section 5.86.
+
+| Of the sentence | A candidate, of the sequence | Its between with the next |
+|---|---|---|
+| a desire | a me-parity, a living self-interest | 4, between me-parity and other-parity |
+| an opportunity | other-parity, a me-parity the same as an other's | 8, between other-parity and all-parity |
+| rewarding | all-parity, among the selves | 16, between me-parity and all-parity, and the first of a next four |
+| abundancing | the collective me-parity, a society's, in the universe | |
+
+- The middle two have no sentence of the sequence with them: opportunity with other-parity, and rewarding with all-parity, are of the pattern only.
+- A second candidate, not followed: the roots of Exhibit ONE's names, possibling with opportunity, discovering with rewarding. Natural Naming 2.5 has "Discovering, same-existing-society, morality and abundancing are one relation with four names".
+- Tracked. *Desire* and *rewarding* have no naming in Natural Naming, and are in the living files as fields' words only. *Opportunity* is in Natural Engineering, an engineering opportunity. Natural Naming 4.7 has "An interest is a 0, *inter-esse*, to be between".
+- *Read, Exhibit ONE's code.* One scale: no part of it has a set in a next set. A self's 3 is in its 12 with its others' with it, and its 12 is its sharing; each self of 16 is in the whole of selves.
+- Two sentences part, with it. A desire is a me-parity: "A me-parity is a living self-interest"; a me-parity is one of a me's many interests, each a direction out from it. Or it is not: "all the desires are opportunities", and an opportunity is with an other, with a me-parity existing only inside its me's set; Natural Naming has an interest as a 0, a between, and a me-parity is +1 only; and *desire* is with no naming in the set.
 
 ---
 
@@ -1983,6 +2007,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is a desire a me-parity: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?

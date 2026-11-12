@@ -137,6 +137,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-i. The prior-existings of a me-parity are living.
 6z-j. Each living thing is a now-existing thing.
 6z-k. Collective me-parity abundancing: offered, for exploring within the logical cohering.
+6z-l. All the desires are opportunities. All the opportunities are rewarding. All the rewarding is abundancing. A cascading of something similar in concept is with it, and its naming is likely discoverable.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -760,6 +761,12 @@ Sentence 6z-k offers collective me-parity abundancing, for exploring. Natural Na
 
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 
-### 3.85 With no reading yet
+### 3.85 Desires, opportunities, rewarding, abundancing
+
+Sentence 6z-l has each desire as an opportunity, each opportunity as rewarding, and each rewarding as abundancing, with a similar cascading likely discoverable. Each of the three is an including, of the form of sentence 6y-s's *scale*. Sentence 6w-r has a me-parity as a living self-interest, and sentence 6z-k collective me-parity abundancing. A candidate, for breaking: me-parity, other-parity, all-parity, and a next scale's me-parity, with 4 and 8 the betweens of the first three and 16 the first of a next four. Natural Naming 4.7 has an interest as a 0, a between; sentence 12 has a me-parity as +1 only.
+
+- Is a desire a me-parity: is, or is not?
+
+### 3.86 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
