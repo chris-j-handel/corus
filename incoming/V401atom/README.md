@@ -23,6 +23,8 @@ Opportunity 8 of `incoming/v401mgr/README.md` section 4, its carbon scale only: 
 - `Value_for_the_vault.md`: each sentence arrived, word for word; six measurings of an atom, each with its coupling, its registering and its converting; *ghost*, *without an inside* and *nucleus*, each with two readings said as two; each mark of a mating vault with a field's observing beside it; twelve droplets, each with its gathering; each binary tracked; each page.
 - `Seven_names_and_the_prime_scales.md`: the fractal as the set has it; the prime scales the set has, with 2 and 3; a candidate for conception; an atom, carbon, a molecule, a nucleus, a proton, an electron and a photon, each at its standing in the set, each with one word of two readings.
 
+- `Five_items_at_carbon_read_again.md`: the carbon scale's five items at carbon, each number searched again with no use of that working's extracts: the same, distinguished, parting or not reached, each with its standing and its page.
+
 ## 4 The asking, paused
 
 By `incoming/V400mgrB/The_One_Question_Method.md` 2.8, each binary here is tracked and not pressed. The one the others are with: the fractal pattern vault is the between two atoms carbon are creating, each atom a solid without an inside, is or is not.
