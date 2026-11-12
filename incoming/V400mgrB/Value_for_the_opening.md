@@ -2079,7 +2079,31 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A parting, the one found. In the loop over 3 the prior is 7 of 3, a self's prior parity; and 3's three has co, me-parity, in its prior. The first sentence has the prior as prior-existing other-parity.
 - Beside it. A self's 3 is its 8 of the resolving before: with its others' parity not the same as its prior, its next prior is its others' parity; with none, or a 0, the other of its prior. A self's prior is its others' parity of a now before, or none of theirs.
 - Tracked. 15-is-next-observing, with *next*, is a distinguishing of now and prior. 7 and 13, the two others with *is-*, are not said.
-- Two sentences part, with it. The prior of 3's distinguishing is a self's me-parity: in the code it is 7 of 3, the self's prior, in 16 by its key; 3's three has co, me-parity, in its prior; and a me-parity is the universal set of its me's prior-existings. Or it is other-parity: the sentence has "prior-existing other-parity"; in the code a self's prior, after a changing with its others' parity, is their parity of a now before; and "the first me-parity is inherited from prior living".
+- Worked a step farther, section 5.107: the prior of 3's distinguishing. One parity is a self's prior and its others' of the now before, with a changing and with the same; the two part with none of its others with it.
+
+### 5.107 *Key*, a word of Python; and each side of a place, a step farther to its first incohering
+
+- *In 16 by its key*, explained in natural explaining: no *key* is in the set, and this may be Python.
+- An idea, with doubt of its doing: only one of the two sentences of a place is whole with the rigor, and each is offered; show each a step farther, to its first incohering.
+- *Key* is a word of Python, and of this working's readings. It is no naming of Exhibit ONE's code, and the living Exhibit ONE has it in no sentence.
+- In natural explaining. 16-next-same-existing has each self once. The code's naming of a self in it is 13-is-next-discovering, and with each 13 are its 3 and its 2. *A self, in 16 by its key* is: a self, once in 16, its 13 with its 3 and its 2.
+- And *each 4 once*, of 14 and of 12, is the code's 4-now-co-same-existing: one 4, with one parity.
+- With it, parting 2.99: 13 is one of the four names with *is-*. Each self is in 16 once, by its 13: an is-or-is-not of a self among selves. A reading, for breaking.
+- A debt: *key* is in 62 sentences of the working files and 28 items of two gatherings, each a reading of the code. Not yet re-said.
+- *The idea, with section 5.106's place: the prior of 3's distinguishing, a self's me-parity or other-parity. Worked a step farther with Exhibit ONE's code, one resolving on; derived by reading, and four cases checked with one executing.*
+
+| A self's resolving, with one 4 | Its sharing | Its next prior | The prior, with its next resolving |
+|---|---|---|---|
+| a first one | | | provided, with no now before it |
+| its others' parity not the same as its prior | their parity | their parity | its others' parity of the now before |
+| its others' parity the same as its prior | a 0 | its prior, the same | the same as its others' of the now before |
+| none of its others with it, or two of them not the same | the other of its prior | the other of its prior | the other of its prior, and no other's |
+
+- *The prior as other-parity*, a step farther. Whole with the second and third. With the first, a prior is provided: sentence 6x-n has "the first me-parity is inherited from prior living", a prior living's, and with it this is whole. Its first incohering: the fourth, the other of its prior, with none of its others with it.
+- *The prior as a self's me-parity*, a step farther. With the second, the prior is its others' parity of the now before. Sentence 6z-g has possessing prior-existings as the universal set of a me's prior-existings, a me-parity: with it a prior, of an other's before or of none, is of a me-parity, and this is whole with each of the four. With no sentence 6z-g, its first incohering is the second.
+- Observed. The two are not excluding with the second and the third: one parity is a self's prior and its others' of the now before. The two part with the fourth only.
+- Doable, with this place: the code is one resolving on. With a place of two sentences and no code beside it, a step farther is a next sentence each side has, and not each place has one.
+- Two sentences part, with it, the fourth only. With none of its others with it, a self's next prior, the other of its prior, is an other-parity: it is the other of its + or −, an other by its naming; and with none again it is the other again, + and −, one and then the other. Or it is not: no other is with it, and other-parity is of a between of self and other, section 5.84; with no other, no between.
 
 ---
 
@@ -2087,7 +2111,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is the prior of 3's distinguishing a self's me-parity: is, or is not?
+- With none of its others with it, is a self's next prior, the other of its prior, an other-parity: is, or is not?
 - Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?

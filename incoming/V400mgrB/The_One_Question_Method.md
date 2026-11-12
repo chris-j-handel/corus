@@ -93,6 +93,12 @@ The method's 2.6 has a concern resolving "as code resolves, each step with its n
 - This is the me-parity of natural intelligence, followed inside the bi-folding to the destinies aimed into and through and across and around.
 - It is for connecting all the local logical webs into the bi-moral-co-competencing surface of natural torusing.
 - In a reply: the conflicting threads are *a place two sentences part*, each side with its sentences; the one distinguishing is its one is-or-is-not; and each thread not yet with its distinguishing is tracked.
+### 2.7 Each side of a place, a step farther
+
+- An idea, with doubt of its doing: of the two sentences of a place, only one is whole with the rigor, and each is offered. Each is shown a step farther, to its first incohering.
+- With Exhibit ONE's code beside a place, a step farther is one resolving on, derived by reading, with an executing as a check only.
+- With no code beside a place, a step farther is a next sentence each side has. Not each place has one.
+- In a reply: under *A place two sentences part*, each side with its sentences, its step farther, and its first incohering; and the one is-or-is-not at the place the two part.
 
 ## 3 The rigor, and its edges
 
