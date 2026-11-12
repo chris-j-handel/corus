@@ -126,6 +126,8 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-x. 16's universal all-parity is a now-and-prior-and-same-existing thing, as 8's is.
 6y-y. The me-parity of natural intelligence is the collectively intelligent me-parity. The session is only a container, and not a naming of parity.
 6y-z. All-parity is a stable form, same-existing, non-living thing. In all universal sets, the naming of the set is the *all-* in all-parity, as naming.
+6z-a. A society-self is living within its own society. A society's self is a universal set of society me-parities. The set is same-existing, non-living.
+6z-b. The me-parities of the society, in the universe, are the all-parities among the selves in the society.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -693,8 +695,14 @@ Sentences 6y-v and 6y-x have 8's all-parity and 16's universal all-parity each a
 
 Sentence 6y-z has all-parity as a stable form, same-existing, non-living thing, and in all universal sets the naming of the set as the *all-* in all-parity. Sentence 6x-j has a society's named all-parity as its society-self. Sentence 6w-j has a society-self as living, and sentence 22 as the corus in society, living, with me-parities of its own. Sentence 6x-h has a named all-parity as living in the universe in which it is other-than that universe's universal all-parity, and sentence 6w-v living as with one scale only.
 
-- Is a society-self non-living within its own society: is, or is not?
+- A society-self non-living within its own society: is not, sentence 6z-a.
 
-### 3.76 With no reading yet
+### 3.76 A living self, and its non-living set
+
+Sentence 6z-a has a society-self as living, and as a universal set of society me-parities, the set same-existing and non-living. Sentence 6z-b has the me-parities of the society, in the universe, as the all-parities among the selves in the society. Sentence 6w-p has a me as a universal same-existing set of me-parities, and a self; sentence 6w-q living as owning a self, and a self as owning its me-parities; sentence 6w-r a me-parity as a living self-interest. Sentence 22 has a society-self as the corus in society, and Natural Naming a set as its things and no further thing.
+
+- Is a living self a non-living set of living me-parities: is, or is not?
+
+### 3.77 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
