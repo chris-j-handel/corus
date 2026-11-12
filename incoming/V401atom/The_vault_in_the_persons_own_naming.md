@@ -381,9 +381,11 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 17 Asked now
+## 17 Asked, and its answer
 
-- **A reply of one step, five in sequence, with no self beside a sentence, is this method of adding to our session transcript: is, or is not?**
+- Asked: a reply of one step, five in sequence, with no self beside a sentence, is this method of adding to our session transcript, is or is not.
+- Its answer: a sentence of the person's own, with the opening of Natural Intelligence and the work improving it as the place of the method. Out with it: a reply laid as a list of rules.
+- Going on in `Podaling_out_from_the_opening_to_the_vault.md`: the vault's sentences in one sequence, each a candidate, and each field's observing beside them.
 
 ---
 
