@@ -119,7 +119,7 @@ Gathering-Value · Natural Resolver
 
 ### Each name, three scales
 
-- **Possible incohering** · "The next scale inward, eight 1 to 17s: n is 8n − 7" → Two sayings part, each standing: a pairs' column, n with 4n − 3, goes beside 8n − 7; or one 1-to-17 laying stays, as Natural Numbers holds of scalings, "each is one chain with its own step".
+- **An explaining** · Beside *The next scale inward, eight 1 to 17s: n is 8n − 7*, a column of n with 4n − 3: by arithmetic, 1, 2, 3, 4 and 5 are 1, 5, 9, 13 and 17, the first name of each four-cycling, with 17 a next 1; and 8n − 7 has 1, 2 and 3 as 1, 9 and 17. A form of the names, read by arithmetic, for *Each name, three scales*.
 
 ### Eight 1 to 17s inward
 
