@@ -129,6 +129,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-a. A society-self is living within its own society. A society's self is a universal set of society me-parities. The set is same-existing, non-living.
 6z-b. The me-parities of the society, in the universe, are the all-parities among the selves in the society.
 6z-c. A living self is a non-living set of living me-parities. A non-living set of living me-parities is a set of atom carbon bump connectors, co-chaining sequentially.
+6z-d. A co-chaining is a universal set of me-parities. The me-parities are living in the betweens. The co-chaining is podaling along and across, co-intelligencing surface, discovering next-existing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -708,8 +709,14 @@ Sentence 6z-a has a society-self as living, and as a universal set of society me
 
 Sentence 6z-c has a living self as a non-living set of living me-parities, and the set as of atom carbon bump connectors, co-chaining sequentially. Sentence 6w-x has atom carbon as the only non-living thing. Sentence 6n has a non-living thing as universally same-existing until an is-not bumps its parity sequencing. Sentence 6k has the stable form around and inside, and the surfaces between, living. Sentence 6w-s has a me-parity as a now-existing thing, and sentence 6w-o as existing only inside its ownership set. Natural Naming has a set as its things and no further thing.
 
-- Is a living me-parity the co-chaining between atom carbon bump connectors: is, or is not?
+- A living me-parity as the co-chaining between the connectors: re-said. The me-parities are living in the betweens, and a co-chaining is their universal set, sentence 6z-d.
 
-### 3.78 With no reading yet
+### 3.78 A co-chaining, and a self
+
+Sentence 6z-d has a co-chaining as a universal set of me-parities, the me-parities living in the betweens, and the co-chaining podaling along and across, co-intelligencing surface, discovering next-existing. Sentence 6w-p has a me as a universal same-existing set of me-parities, and a self; sentence 6z-a a society's self as a universal set of society me-parities; sentence 6z-c a living self as a non-living set of living me-parities. Sentence 6p has a thing distinguishing its own next-existing as a living thing. Sentence 6y-d has the me-parities co-chaining into a collective intelligence me-parity, and Natural Naming 2.4 co-chaining as co-sequencing selves going on, along.
+
+- Is a co-chaining a self: is, or is not?
+
+### 3.79 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
