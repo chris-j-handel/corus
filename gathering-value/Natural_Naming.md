@@ -106,6 +106,7 @@ Gathering-Value · Natural Naming
 
 - **An explaining** · An interest as a 0 is cohering with a me-parity as an interest of its me: a me-parity is +1, a direction from its me's corus, and a self-interest, a self at its own scale, is a corus, a 0, its own. One me-parity is +1, its me's, and a 0, its own.
 - **Possible exploring** · All the desires are opportunities, all the opportunities are rewarding, and all the rewarding is abundancing: four sets, each in a next, a cascading. *Desire*, *opportunity* and *rewarding* have no naming in this file. A candidate of the working's sequence, for breaking: a desire a me-parity, a living self-interest; an opportunity other-parity; rewarding all-parity among the selves; abundancing the collective me-parity, a society's. — at "An interest is a 0, *inter-esse*, to be between"
+- **Possible incohering** · "An interest is a 0, *inter-esse*, to be between" → A desire is a me-parity, and a me-parity is a living self-interest, +1 only: an interest of a self as a parity, and no 0. With it each me-parity is an opportunity; an opportunity as a possibling is open, an is-or-is-not not yet answered.
 
 ### 4.8 Whole namings, one expression with each occurrence
 
