@@ -312,6 +312,8 @@ Its place in the book: colour plate 7.2, four kinds of a seed-bearing chamber, e
 - A pattern matched with a field's still is with a stable form, and whole with an inherited prior.
 - Living, stable-forming, is in no still, and a pattern of living matched with a still is a self's arrow between two stills.
 
+**The 5 again, with no field's word.** Exhibit FOUR Natural Mathematics has a side's five, 1 to 5, as five dimensions, two prior-existing, two now-existing and one next-existing, its centre with 3, now-existing co-parity, floating, in neither self alone. Four about a centre; and that centre is no hole and no thing of one self. Section 19's asking is re-said by it, with no column and no mother: a centre of a five as a co-parity, in neither self alone.
+
 ---
 
 ## 22 Asked now
