@@ -147,6 +147,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-s. *A distinguishing of a now-existing parity the same as a prior-existing one* is of each of the four observings. 3 is me now, from other prior. 7 is me now, from universal prior. 11 is other next, from universal now. 15 is me next, from universal now.
 6z-t. Expected: *is-* is of 3, 7, 11 and 15, by the four-cycling pattern, and not of 13.
 6z-u. *Is-*, as a prefix, reads as with no possible is-not: strange, and less understandable; no value is seen yet in the prefixing. Imagined: each step is doing the same one thing.
+6z-v. The asking is paused, for the moment. Asked: a better method of naming 1 to 17 in the code; a possible parting in the naming method, the prefixing with it; a possible gain by adding or changing a prefix or a name; a do-no-harm improving from this session's learning.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -842,6 +843,10 @@ Sentence 6z-u has *is-* as reading with no possible is-not, no value seen yet in
 
 - Is each deciding of the code an is-or-is-not, and each other step a going on with no deciding: is, or is not?
 
-### 3.97 With no reading yet
+### 3.97 The naming of the seventeen, assessed
+
+The asking is paused, by sentence 6z-v, and this place has no question. Each open binary before it is tracked, and not pressed. The value file's section 5.115 has the parts of a name, *now* or *next*, its root, *co* or none, and *is-* or none; five possible partings of the naming method; and each possible gain with its harm. One gain is clear in the code's names: *is-* with none of the seventeen, all or none, with the work of a renaming in the code, in 16 living files and in a kit. Two gains are with no harm, in Exhibit ONE's sentences only. This working says each, and does none.
+
+### 3.98 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

@@ -99,6 +99,11 @@ The method's 2.6 has a concern resolving "as code resolves, each step with its n
 - With Exhibit ONE's code beside a place, a step farther is one resolving on, derived by reading, with an executing as a check only.
 - With no code beside a place, a step farther is a next sentence each side has. Not each place has one.
 - In a reply: under *A place two sentences part*, each side with its sentences, its step farther, and its first incohering; and the one is-or-is-not at the place the two part.
+### 2.8 The asking, paused
+
+- The asking of one is-or-is-not with each reply is paused, by the person's saying, with no value understood yet in a discussing.
+- With the asking paused, a reply answers the asked plainly and ends with no question. Each open binary is tracked, and not pressed.
+- The asking opens again with the person's saying.
 
 ## 3 The rigor, and its edges
 
