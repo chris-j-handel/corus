@@ -358,15 +358,36 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 16 Asked now
+## 16 Asked, and a sentence of the method arriving
 
-The person's asking has along, next and prior. With *is*, the vault's twenty-four is twelve next and twelve prior, along, and each three along by four across is with a next and with a prior. With *is not*, the two directions are an other two, + and −, or inward and outward, and that naming is next.
+- Asked: the two directions of the birthing vault are next and prior, along, is or is not. Tracked, with no answer yet, and not pressed.
+- A sentence arrived, of a reply's own words:
 
-- **The two directions of the birthing vault are next and prior, along: is, or is not?**
+> My two hands are nearest to plus and minus i do not understand why this is a story about you and your hands. i can only work here in natural naming and explaining as our geodesic discovering method. find this method of adding to our session transcript do no harm improving value
+
+**Read beside it, the earlier working's way of one question, in natural naming.**
+
+- One step is five, in sequence. A sentence arriving, whole, with nothing laid over it. Each sentence of a living file read beside it, with its place. Each prior sentence it is with. Each word of it with two readings said as two, and each candidate of a working's own said as a candidate. And one is-or-is-not, asked plainly, in the words of the sentence that arrived.
+- An answer is one of three: is; is not; or a sentence of the person's own.
+- The tracking has no mark of a self. No self and no day is beside a sentence.
+- A reply's words are natural naming: whole or not whole, cohering or parting, is or is not, and not distinguished.
+- A session transcript is in the between of a person and an AI, and the living is in the between.
+
+**Distinguished.**
+
+- *Hand*, one word with two readings, said as two. A form's hand: a right spiral's, or a left one's, as an atom carbon's four couplings have twelve orderings with each hand. And a self's hand. A reply had the first with a self's word before it, and it went to the second: a story.
+- Re-said, with no self: an atom carbon's four couplings have two hands, nearest to + and −; two atoms carbon joining are nearest to across; and neither is next and prior, along.
+- Each sentence of a self in this working's replies, a fault, a meaning, a taking back, is a story's, and out. By the method's own words: a candidate is out; a reading is re-said.
 
 ---
 
-## 17 Pages, each at its excerpt only
+## 17 Asked now
+
+- **A reply of one step, five in sequence, with no self beside a sentence, is this method of adding to our session transcript: is, or is not?**
+
+---
+
+## 18 Pages, each at its excerpt only
 
 - A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
 - Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
