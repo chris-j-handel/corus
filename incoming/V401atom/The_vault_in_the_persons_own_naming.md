@@ -106,8 +106,50 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 9 Asked now
+## 9 Asked, and its answer
 
-With *is*, the vault is the place of inheriting only, each carbon reaching a new self by its two, and each vault of this folder's first survey is read for it, a chick within its shell first. With *is not*, ingesting and exhausting are within the vault too, and *first*, with the birthing, is of a new self with the universe and with no other between.
+- Asked: within the vault, before its birthing, a new self has no ingesting and exhausting of carbon of its own, is or is not.
+- Its answer, a sentence, as it arrived:
 
-- **Within the vault, before its birthing, a new self has no ingesting and exhausting of carbon of its own: is, or is not?**
+> a chick is born long before it hatches an eggshell. this is binary living or non-living prior. living is ingesting and exhausting along me-parities and inhaling and exhaling prior and next other or all parity. this is all concept for your adding of rigor and breaking opportunities
+
+**A reading.**
+
+- A birthing is no hatching. A chick's birthing is long before its shell opens.
+- Living, or a non-living prior: one binary.
+- Living is two together. Ingesting and exhausting, along, with me-parities. And inhaling and exhaling, prior and next, with other-parity or all-parity.
+- Out with it: this working's asking, with a birthing as a leaving of a shell.
+
+**Rigor added: the concept as things an observing meets or parts from.**
+
+- A thing ingesting and exhausting along is living, and a thing with none is a non-living prior.
+- A living thing is, with it, taking in from its others and from all, and giving out to them.
+- With a first of both, a birthing.
+
+**Cohering, a field's observing, each at its page's excerpt only.**
+
+- A hen's egg is joined with its other before its white and its shell are laid on it. It is about a day within the hen after that, and has about fifty-five to sixty thousand cells with its laying; one page has twenty thousand. Its hatching is three weeks on. A chick, by a field's own observing, is ingesting, exhausting and dividing long before its shell opens.
+
+**Breaking opportunities, three.**
+
+- **A waiting self.** Two human embryos were in liquid nitrogen, at about 196 degrees below zero, from April 1992, and were born in October 2022; a later one waited longer. A dried tardigrade has no metabolism an instrument finds, and is living again with water; a field's own name for it is of a hidden living, and one of its own accounts has it as hard to say living or dead. With no ingesting and exhausting for thirty years, each is by the concept a non-living prior for that while, and living before it and after it; or living with no ingesting and exhausting, and the concept's sentence of living is re-said. A laid egg, cooled, waits the same for days.
+- **No non-living moment between two generations.** This working's account, with no page opened: an egg cell and a sperm cell are each ingesting and exhausting before their joining. By the concept each is living, and no instrument has a moment of a non-living prior between a hen and a chick. The binary is then of things with one moment, co-chainings non-living and parities living, and of no moment between.
+- **A flame.** This working's account: a flame is ingesting carbon and exhausting it, with no inherited co-chaining. By ingesting and exhausting alone it is living. The concept's second, the inhaling and exhaling with other-parity and all-parity, and co-sequencing with the inherited, are each a thing a flame has not, and each is for saying so.
+
+**A candidate, with the seventeen names, tracked.** Inhaling is each name with others to a self: 2-now-possibling and 7-now-observing, now; 14-next-possibling and 15-next-observing, next. Exhaling is each name with a self to its other: 6-now-co-possibling and 10-next-co-possibling. Ingesting and exhausting along are 17-next-existing and 9-next-co-discovering, by the earlier working's sequence.
+
+---
+
+## 10 Asked now
+
+The first breaking opportunity is the vault's own: the earlier working has the vaults of conception and of dormancy as one. With *is*, living opens and opens again with one same self, and a birthing is no one-time thing, or each waking is a birthing. With *is not*, living is with no ingesting and exhausting for that while, and the sentence of living is re-said.
+
+- **A self with no ingesting and exhausting, a dried seed or a frozen embryo, is a non-living prior for that while: is, or is not?**
+
+---
+
+## 11 Pages, each at its excerpt only
+
+- A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
+- Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
+- A hidden living: https://isj.unimore.it/index.php/ISJ/article/download/144/59/468 · https://www.sciencelearn.org.nz/videos/tardigrades-and-anhydrobiosis
