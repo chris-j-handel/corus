@@ -141,6 +141,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-m. A desire is a me-parity.
 6z-n. An opportunity is a possibling.
 6z-o. Each four-cycling of Exhibit ONE's names is valuable for Exhibit ONE incoming.
+6z-p. 3-is-now-co-observing is distinguishing, is-or-is-not, now-existing other-parity the same as prior-existing other-parity. 15-is-next-observing is distinguishing, is-or-is-not, now-existing all-parity the same as prior-existing all-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -786,8 +787,14 @@ Sentences 6z-m and 6z-n have a desire as a me-parity and an opportunity as a pos
 
 Exhibit ONE has "Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing", and its own table of the four four-cyclings and their betweens. Sentence 6y-k has each number's three as of prior, now and next, and of observing, possibling and discovering. Sentence 6y-l has the order of a three as next, now, prior, and 7 as all-parity observing, after other-parity possibling, after me-parity existing. In Exhibit ONE's code a self's 3-is-now-co-observing is its priors, and its 15-is-next-observing each of its others' sharings with it. Sentence 6z-o has each four-cycling as valuable for Exhibit ONE incoming.
 
-- Is observing of a prior: is, or is not?
+- Observing as of a prior: re-said. An observing is a distinguishing of a now-existing parity with a prior-existing one, sentence 6z-p.
 
-### 3.89 With no reading yet
+### 3.89 The prior of 3's distinguishing
+
+Sentence 6z-p has 3 and 15 each as a distinguishing, is-or-is-not, of a now-existing parity the same as a prior-existing one: other-parity with 3, and all-parity with 15. In Exhibit ONE's code 1 has two loops, each with a 7 and a 15. Over 2, each other's parity is distinguished with its others' before it, and 14 is a + or − with each the same and a 0 with two not the same. Over 3, 14's parity, as 15, is distinguished with a self's prior, 7 of 3, and 12 is a 0 with the two the same. 3's three, co-bi-co, has bi in its now and co in its prior; 15 is with tri. A self's prior is its others' parity of a now before, or the other of its prior.
+
+- Is the prior of 3's distinguishing a self's me-parity: is, or is not?
+
+### 3.90 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

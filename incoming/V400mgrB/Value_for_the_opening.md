@@ -2056,7 +2056,30 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Between*, two usings, tracked. Exhibit ONE's table has four betweens, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, each "a discovering, an even name to an odd name", after each same-existing name. Section 5.75 has four betweens of 1, 5, 10, 15 and 17, each with a same-existing name within it, its corus. Not one four.
 - The waiting Exhibit ONE has the table with a three beside each name, and its threes part with the eight's at 7 and at 9 to 15: Partings 1.30.
 - *Read, Exhibit ONE's code.* A self's 3-is-now-co-observing is its priors. Its 15-is-next-observing is each of its others' sharings with it, and then its 2.
-- Two sentences part, with it. Observing is of a prior: Exhibit ONE has "observing prior-existing"; the sequence has "prior now next and observing possibling discovering", in one order; in the code a self's 3-is-now-co-observing is its priors; and Exhibit THIRTY's step 576 has "observings of a self all prior". Or it is not: 11 and 15 are next-co-observing and is-next-observing, observing with next; 7 is all-parity observing in the next of its three; and in each four-cycling an observing is after a possibling, and no prior of it.
+- Re-said, section 5.106: an observing is a distinguishing of a now-existing parity with a prior-existing one, with now and with prior.
+
+### 5.106 3 and 15, each observing a distinguishing: a now-existing parity the same as a prior-existing one
+
+- 3-is-now-co-observing is distinguishing, is-or-is-not, now-existing other-parity the same as prior-existing other-parity.
+- 15-is-next-observing is distinguishing, is-or-is-not, now-existing all-parity the same as prior-existing all-parity.
+- Offered for exploring: correct, or helpful.
+- Observing as of a prior, section 5.105: re-said by it. An observing is a distinguishing of a now-existing parity with a prior-existing one: with now, and with prior.
+- Helpful: is. Observing has one form with it, and the form is the code's.
+- Cohering, with Exhibit ONE's sentence of *is-*: the four names with *is-* are the four with a binary, 3 and 7, and 13 and 15. The two of the sentences are two of the four.
+- *Read, Exhibit ONE's code, its two loops of 1, each with a 7 and a 15.*
+
+| The loop | Its 7 | Its 15 | Its distinguishing, is-or-is-not | Its making |
+|---|---|---|---|---|
+| over 2, a self's others' me-parities with it | one other's parity, with its 4 | the parity of its others before this one, with the same 4, or none | this other's the same as its others' before it | 14: a + or −, each of its others the same; a 0, two not the same |
+| over 3, a self's priors | its prior parity, with its 4 | 14's parity with the same 4, each of its others the same, or a 0 | its others' the same as its prior | 12: a 0, the two the same; the other of its prior, the two not the same or none |
+
+- Cohering, the form. Each loop has one distinguishing, a parity the same as a parity before it, is-or-is-not; and the loop over 3 is with 15 in it, the two names of the sentences in one distinguishing.
+- Cohering, 15 with all-parity. In the loop over 2, 14 is a + or − with each of a self's others the same, and a 0 with two not the same: a parity of all of them, or none. 15 is this parity. And the eight has 15 with tri, all-parity.
+- Cohering, 3 with a now-existing other-parity. In the loop over 3 the now is its others' parity, from 14. And 3's three, co-bi-co, has bi, other-parity, in its now.
+- A parting, the one found. In the loop over 3 the prior is 7 of 3, a self's prior parity; and 3's three has co, me-parity, in its prior. The first sentence has the prior as prior-existing other-parity.
+- Beside it. A self's 3 is its 8 of the resolving before: with its others' parity not the same as its prior, its next prior is its others' parity; with none, or a 0, the other of its prior. A self's prior is its others' parity of a now before, or none of theirs.
+- Tracked. 15-is-next-observing, with *next*, is a distinguishing of now and prior. 7 and 13, the two others with *is-*, are not said.
+- Two sentences part, with it. The prior of 3's distinguishing is a self's me-parity: in the code it is 7 of 3, the self's prior, in 16 by its key; 3's three has co, me-parity, in its prior; and a me-parity is the universal set of its me's prior-existings. Or it is other-parity: the sentence has "prior-existing other-parity"; in the code a self's prior, after a changing with its others' parity, is their parity of a now before; and "the first me-parity is inherited from prior living".
 
 ---
 
@@ -2064,7 +2087,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is observing of a prior: is, or is not?
+- Is the prior of 3's distinguishing a self's me-parity: is, or is not?
 - Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
