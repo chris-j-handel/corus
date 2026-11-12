@@ -115,6 +115,8 @@ observing side, one: 2, 14 and 17
 
 **A drawing.** One self, its own resolving within. Its edges are its six names between selves.
 
+**The code, a stable form of the method only.** The code has nothing about parity: the entire parity is the living inside the code, with no intelligence and no values in the code. *Parity* is a word of no line, and no name of the code has me, other, all, self or society. A + or − is provided to the code, and the code writes one in two places only: with 14-next-possibling, the same as an arriving one; and with 12-next-co-same-existing, the other of a prior one. With no + or − provided, each next is with none. The 0 is not provided. The 0 arises inside the code, the method of resolving, binary, is-or-is-not changing while same-existing: with 14-next-possibling, two arriving not the same; with 12-next-co-same-existing, what surfaces the same as a self's prior; and with 15-next-observing, no parity surfacing. After a 0 with 12-next-co-same-existing, a self's prior is same-existing. After a 0 with 15-next-observing, a self's prior inverts, and its inverting goes out with 10-next-co-possibling. As the code's two marks, + and − are alike, each line doing the same with the two exchanged. As its two doings they are two: + is the all-parity direction, each other's parity going on as it is, all a self's others as one; and − is the other-parity direction, a self's prior inverting, a self with its other; with each sharing, one at a time. Two arriving not the same are other-parity and all-parity, arriving from prior distinguishing. Each + or − of the code is a parity, of a me, an other or an all, with a living self reading it.
+
 **Seventeen names.**
 
 | n | Name | Root | n − 1 in four binary digits | Co | Its three |

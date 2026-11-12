@@ -67,7 +67,14 @@ Opportunities 3, 6 and 8 go on with no asking. Each other waits on a sentence of
 - `The_value_by_its_places.md`: the set's value by its three places, measured; the method whole and the method parting, nine items; Exhibit ONE's code read line by line as it is; its four bi-foldings by arithmetic and by the code's names; a story about a method, each part with its line of code, its words a debt; and one is-or-is-not in Exhibit ONE's names, a self's next prior with an empty set surfacing.
 - `instruments/own_turn_check.py` with `own_turn_check_returned.txt`: Exhibit ONE's code executed as it is, with selves stepping together and with each self with its own turn.
 
-## 7 For each other working of v401
+## 7 Exhibit ONE's gathering-value, its passes
+
+The method's second step with Exhibit ONE Natural Resolver: each item of its gathering-value read whole and with one of three: it enters as it is; it dissolves, the set having it; or it is one is-or-is-not for both partners. A value of an other living file goes to that file's gathering-value.
+
+- **The first pass**, its Head, its Opening, Seventeen names and Namings among names, 132 items read whole of 337: three said twice folded; five entered with the version of today removed, and two re-said to what has not entered; twelve of carbon to Natural Chemistry's gathering-value at 1.6, and two of a field's observing to Natural Physics'. 315 items now.
+- **Not read whole yet**: its sections from *Each name, three scales* to *With an empty prior, one momentary*, and its droplets, 205 items.
+
+## 8 For each other working of v401
 
 - **V401atom, and each working arriving:** its own folder, `incoming/<its name>/`, with its aiming in one line; its own branch, `working/<subject>-<its name>`; each slice a pull request with the four parts of the Living File Registry 1.3. This working reads `main` and each open pull request before each turn, reads each slice for harm, and answers as a comment on the slice, opening with its name.
 - With an aiming at the carbon scale: the prior share's section 3, the forty-four items with a molecule, a carbon atom, a nucleus and a photon through the Living Ghost Registry's ten lines; and `Sessions_resolved.md` S20 and S21, a carbon atom one thing or a catalog of stable forms, and *nucleus* with two scales.
