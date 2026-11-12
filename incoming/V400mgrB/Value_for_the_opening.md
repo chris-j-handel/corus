@@ -1861,7 +1861,19 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Cohering. Natural Naming 2.5 has 3, 6, 5 and 4 as "an invisible co-intelligencing method", and "all co-intelligencings are like dancing podalings, bi-co-sequencing momentary changings".
 - A place the sentence and a living file part, tracked. Natural Naming 2.4 has "Bi-tunneling is a same-existing-society's surface opening between selves, across, and co-chaining is co-sequencing selves going on, along." The sentence has the co-chaining podaling along and across.
 - With three sentences of the sequence, and for breaking. A me is a universal same-existing set of me-parities, and a self, sentence 6w-p. A society's self is a universal set of society me-parities, sentence 6z-a. A co-chaining is a universal set of me-parities.
-- Two sentences part, with it. A co-chaining is a self: a me is a universal same-existing set of me-parities, and a self; a living self is a non-living set of living me-parities; and the co-chaining is discovering next-existing, with "a thing distinguishing its own next-existing is a living thing". Or it is not: Natural Naming has co-chaining as "co-sequencing selves going on", of selves, many; sentence 6y-d has "the me-parities co-chaining into a collective intelligence me-parity", a me-parity and no self; and sentence 6y-b has language as "the co-chaining and bi-tunneling stable form of me-parities in all-parity", a stable form.
+- Resolved, section 5.96: a co-chaining is a self, a self of selves sharing a me-parity.
+
+### 5.96 A co-chaining, a self of selves sharing a me-parity
+
+- A co-chaining is a self: is.
+- A co-chaining is a self of selves sharing a me-parity.
+- Resolved by it. A universal set of me-parities, living in the betweens, podaling along and across and discovering next-existing, is a self.
+- Out, readings of my own, section 5.95: a co-chaining as of selves, many, and no one self; and as a stable form and no self.
+- Cohering. Sentence 5e: "A bi-coupling is a self. This is the fractal method": self and other, the first co-chaining of two. Sentence 22: "A society has one self, the society-self", a self of selves.
+- Cohering. Sentence 6y-d has "the me-parities co-chaining into a collective intelligence me-parity", and sentence 6y-y the me-parity of natural intelligence as the collectively intelligent me-parity: a me-parity selves are sharing.
+- *Read, Exhibit ONE's code, section 5.72's executing.* A me-parity going along by 9 through three selves is each next self's first me-parity, with one 4: three selves, each with the same 4 in its own 8. Selves with one me-parity, in sequence.
+- Tracked. Sentence 22 has "A self is no me-parity of it", of a society-self. A co-chaining is a universal set of me-parities and a self of selves: its me-parities and its selves are two, by sentence 22. Not said of a co-chaining.
+- Two sentences part, with it. The me-parity the selves are sharing is owned by the co-chaining, its one me: "A me-parity is owned by the only one of me"; a co-chaining is a self, and "a self owns its me-parities"; and "the me-parities of the society, in the universe, are the all-parities among the selves in the society", the society's own. Or it is not: the selves are sharing it, each self with it; the opening's waiting sentence has "A me-parity the same as an other's is other-parity", each self's own and the same; and in the code each self has the 4 in its own 3, no part with it as one thing of the selves together.
 
 ---
 
@@ -1869,7 +1881,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a co-chaining a self: is, or is not?
+- Is the me-parity the selves are sharing owned by the co-chaining, its one me: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
