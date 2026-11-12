@@ -16,6 +16,7 @@ Gathering-Value · Natural Naming
 
 - **Possible exploring** · Nature has no names. A name is a non-existing thing, floating-neutralling in the universe and available as a possible inherited prior, until observed things are in its named set; with them, the name is a prior inherited by the observed now-existing thing. A name is a same-existing non-living thing, and no now-existing thing; atom carbon is a now-existing non-living thing, the only non-living thing in the universe.
 - **Possible exploring** · Each now-existing thing is a thing in the universal set of now-existing things, and *universal* is the name applying to each of them. A subset's subsetting from universal is the bounding is-or-is-not surface between the universe and the thing with a name. A name is inherited with a distinguishing, is-or-is-not a same-existing now-existing thing the same as the things in the universal set of things with that name: a naming is a bounding, and a name a prior of the thing it is with.
+- **An explaining** · In all universal sets, the naming of the set is the *all-* in all-parity, as naming. A set is with its naming by its all-parity, a stable form, same-existing and non-living: a bi-coupling's with 8, a named universal set's with 16, the universal set of sets' with 64. A name is no now-existing thing, and all-parity is with now and prior: the *all-* as its prior and its parity as its now is open.
 
 ### 1.2 Naming and resolving with one bi-coupling
 
