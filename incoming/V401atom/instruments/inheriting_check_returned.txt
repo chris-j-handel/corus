@@ -1,9 +1,9 @@
-two alike, + and +
+two the same, + and +
   self : its prior +--++--++--++--+   its going out -0+0-0+0-0+0-0+0
   other: its prior +--++--++--++--+   its going out -0+0-0+0-0+0-0+0
   new  : its prior ..-++--++--++--+   its going out .-+0-0+0-0+0-0+0
   arriving with new: . -- 00 ++ 00 -- 00 ++ 00 -- 00 ++ 00 -- 00 ++
-two opposite, + and -
+two not the same, + and -
   self : its prior +-+-+-+-+-+-+-+-   its going out -+-+-+-+-+-+-+-+
   other: its prior -+-+-+-+-+-+-+-+   its going out +-+-+-+-+-+-+-+-
   new  : its prior ................   its going out .000000000000000

@@ -25,8 +25,8 @@ def run(net, opening, T, names):
     return pri, out, arr
 
 net = {("self", 10): "other", ("other", 10): "self", ("self", 9): "new", ("other", 9): "new"}
-for title, op in [("two alike, + and +", {"self": [(S, 1)], "other": [(S, 1)]}),
-                  ("two opposite, + and -", {"self": [(S, 1)], "other": [(S, -1)]}),
+for title, op in [("two the same, + and +", {"self": [(S, 1)], "other": [(S, 1)]}),
+                  ("two not the same, + and -", {"self": [(S, 1)], "other": [(S, -1)]}),
                   ("a prior with one only, +", {"self": [(S, 1)]})]:
     pri, out, arr = run(net, op, 16, ["self", "other", "new"])
     print(title)

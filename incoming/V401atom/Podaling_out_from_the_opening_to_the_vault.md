@@ -2,7 +2,7 @@ Incoming · V401atom · podaling out from the opening to the vault
 
 # Podaling out from the opening of Natural Intelligence to the vault
 
-**The session's sentences of the vault, pattern matched with each sentence arriving, in one sequence, each beside the sentence of the opening it comes after.** Relied on by nothing. No living file and no gathering-value changes with this page. No wording here has authority, a person's, a file's and a field's alike: a sentence goes on by binary, all or none at all. With no quotation marks.
+**The session's sentences of the vault, pattern matched with each sentence arriving, in one sequence, each beside the sentence of the opening it comes after.** Relied on by nothing. No living file and no gathering-value changes with this page. No wording here has authority, a person's, a file's or a field's: a sentence goes on by binary, all or none at all. With no quotation marks.
 
 ---
 
@@ -109,7 +109,7 @@ Exhibit TWENTY-NINE Natural Illustrating has nine parts. Its part seven has one 
 
 ## 8 Read beside the thirteenth, from the set
 
-- **Exhibit FOUR Natural Mathematics, section 3.5, bi-tri-involutioning.** Within space one inversion fixes a plane, two fix a line, and three fix a centre only and bring a hand to its opposite. Three parities have eight forms, four opposite pairs.
+- **Exhibit FOUR Natural Mathematics, section 3.5, bi-tri-involutioning.** Within space one inversion fixes a plane, two fix a line, and three fix a centre only and bring a hand to its inverting form. Three parities have eight forms, four pairs, each form with its inverting form.
 - **Exhibit TWENTY Natural Naming.** Bi-tri-involutioning is inverting: three inversions together, position, scale and orientation, *scale* the file's own word.
 - **A candidate.** Three planes and three shapes are one three, by the method's sentence of each occurring of a number as the same one thing: one plane with each inversion, and fractured and involutioning bothbothing, one and then the other.
 - **With the vault page's section of three edges in and out.** Eight forms of three parities are with names 1 to 8, three edges with each.
@@ -123,7 +123,7 @@ Each is at a search's excerpt only. A field's own word is in italics.
 **Fractured in three planes.**
 
 - **A joined egg.** A sea urchin's joined egg parts by three planes at right angles, two through both poles and a third across, as two, four and eight cells, with no growing between. A field's own word for it is *cleavage*. Eight cells are eight forms of three parities, each cell with one side of each plane: whole with Exhibit FOUR Natural Mathematics' section 3.5.
-- **Breaking.** A snail's third parting is oblique, a spiral of one hand or its opposite, and its hand is by its mother's co-chaining and not its own. A hen's joined egg parts at a cap only and not through. Three planes at right angles are with some living and not with each. Cohering beside it: a snail's hand by its mother is a living prior of a parental generation with a newborn, as the sixteenth has it, and Exhibit TWENTY Natural Naming has a left-coiling snail.
+- **Breaking.** A snail's third parting is oblique, a spiral of one hand or its other, and its hand is by its mother's co-chaining and not its own. A hen's joined egg parts at a cap only and not through. Three planes at right angles are with some living and not with each. Cohering beside it: a snail's hand by its mother is a living prior of a parental generation with a newborn, as the sixteenth has it, and Exhibit TWENTY Natural Naming has a left-coiling snail.
 - **A stone of shells.** Calcite, carbon with calcium, parts along three planes, none at right angles, and each broken piece is one same rhomb with each size: observed in 1784.
 - **Breaking.** Atom carbon by itself parts otherwise: diamond along four planes, graphite along one. Three planes are with no stone of atom carbon by itself.
 
