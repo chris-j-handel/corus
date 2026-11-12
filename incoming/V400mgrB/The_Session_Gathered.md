@@ -159,7 +159,24 @@ Each is in `Partings_Tracked.md`, with its number.
 
 ---
 
-## 5 The transcript, an artifact
+## 5 A next session's possible beginnings
+
+The managing share, `The_Share_Current.md` section 3, has the works in their sequence. With this session's value, each possible beginning is with its ready and its first step. The first is the one durable bound: with the opening entered, each other is with its prior.
+
+| A beginning | Ready for it | Its first step |
+|---|---|---|
+| 1 The opening of Natural Intelligence enters | its fifty-five, each beside its sentence of the session, section 2: 22 improved, 3 not distinguished | an is or an is-not with each improved sentence, the three not distinguished first, sentences 6, 24 and 25; then a next version of Natural Intelligence, with each partner agreeing |
+| 2 Exhibit ONE's next version | at Natural Resolver's gathering: its prefixing again, the eight and each name's three; *is-* with none, a position of the two partners; its four-cyclings with a desire and an opportunity; a self's next prior with none of its others, the sequence parting with its code and its sentences | the person's saying with *is-*; then one whole changing, the code's names, 16 living files and a kit's check |
+| 3 Natural Naming's next version | each sentence of it the sequence parts with, `Partings_Tracked.md` section 1, 35 of them; and each name the session has and it has not: all-parity, a desire, an opportunity, *own*, a name as no now-existing thing | its gathering's settled mends, and then one name with each pass |
+| 4 The 8 values of social moral competency, each with its natural naming | abundancing, identity, safety and reputation, of a between of selves; a cascading, a desire a me-parity and an opportunity a possibling; a candidate, each of the 8 an all-parity among the selves | rewarding, with no advice yet; and abundancing, a collective me-parity, one of the many |
+| 5 The asking, opened again: each thing not distinguished, one is-or-is-not each | section 4 | the nearest four: each corus's is-or-is-not the observing beside it; a self's next prior with two of its others not the same; a me and its self-parity; other-parity's two sentences |
+| 6 The working's files re-said in natural naming | each debt, `Partings_Tracked.md` section 5: *key*, *own*, *a self's inverting*, *for breaking*, *grouping* and *sayings*, *a me* of the first sections | one word with each pass, with no asking needed |
+| 7 With the opening entered | the Co-Chaining Logic Registry's steps 1 to 55, the opening's sentences word for word; Natural Intelligence's explainings, section by section | the opening's entering |
+| 8 Beside these, waiting on none | Natural Networking's second and third passes; the carbon scale; Exhibit TWENTY-ONE's entry | the share's section 3 |
+
+---
+
+## 6 The transcript, an artifact
 
 - "A session is a method of aiming a transcript. Files are a method of transporting a transcript: this is artifact. The next session is observing prior artifact from prior living, and possibling from these priors and the next user's priors."
 - The session is only a container, and no naming of parity. The me-parity followed in it is the collectively intelligent me-parity.
