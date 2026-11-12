@@ -724,6 +724,12 @@ Sentence 6z-e has a co-chaining as a self of selves sharing a me-parity. Sentenc
 
 - Is the me-parity the selves are sharing owned by the co-chaining, its one me: is, or is not?
 
-### 3.80 With no reading yet
+### 3.80 *Owned by*, with no defining
+
+*Owned by* is in seven sentences of section 1, and has no defining: sentences 3 and 5a, a name and its set; 6w-o and 6w-q, a me and its me-parities, and living as owning a self; 6x-f, a society and all-parity; 6y-o, a bi-coupling self and its between with the universe; and 6y-m, no own of universal all-parity. Sentence 6w-o has an owned me-parity as existing only inside its ownership set. Natural Naming has no naming of the word. The place before this one is waiting for it.
+
+- Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
+
+### 3.81 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
