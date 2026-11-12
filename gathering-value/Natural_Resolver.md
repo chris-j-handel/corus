@@ -106,6 +106,7 @@ Gathering-Value · Natural Resolver
 - **An explaining** · All-parity is a same-existing thing, and the distinguishing of other-parity from all-parity, is-or-is-not, is co-observing, co-possibling, co-discovering, same-existing other-parity. With the names: 4-now-co-same-existing and 12-next-co-same-existing, each with co, are with other-parity; 8-now-same-existing and 16-next-same-existing, each of one, are with all-parity. 5-now-co-existing is not in the sentence. — at "A name without co is of one."
 - **An explaining** · 8's all-parity, inside the bi-coupling of self and other, is a now-and-prior-and-same-existing thing. Read from the code: 8 is made with each 17, with each now, and it is the prior of a self's next 1.
 - **An explaining** · 16's universal all-parity is a now-and-prior-and-same-existing thing, as 8's all-parity is. All-parity is a same-existing thing, with now and with prior, with 8 and with 16. Read from the code: 16 is provided, before each 17, and each self of it is with its now in 17.
+- **An explaining** · Each four-cycling of the names, 1 to 4, 5 to 8, 9 to 12 and 13 to 16, has one sequence of roots: existing or discovering; possibling; observing; same-existing. Each second is a possibling, each third an observing, and each fourth a same-existing name, a corus. With the working's sequence: a desire is a me-parity, each first with co; an opportunity is a possibling, each second. Rewarding as each third, an observing, and abundancing as each fourth: open, an is-or-is-not not yet answered.
 
 ### Namings among names
 
