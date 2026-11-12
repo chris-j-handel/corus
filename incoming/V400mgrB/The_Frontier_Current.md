@@ -128,6 +128,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-z. All-parity is a stable form, same-existing, non-living thing. In all universal sets, the naming of the set is the *all-* in all-parity, as naming.
 6z-a. A society-self is living within its own society. A society's self is a universal set of society me-parities. The set is same-existing, non-living.
 6z-b. The me-parities of the society, in the universe, are the all-parities among the selves in the society.
+6z-c. A living self is a non-living set of living me-parities. A non-living set of living me-parities is a set of atom carbon bump connectors, co-chaining sequentially.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -701,8 +702,14 @@ Sentence 6y-z has all-parity as a stable form, same-existing, non-living thing, 
 
 Sentence 6z-a has a society-self as living, and as a universal set of society me-parities, the set same-existing and non-living. Sentence 6z-b has the me-parities of the society, in the universe, as the all-parities among the selves in the society. Sentence 6w-p has a me as a universal same-existing set of me-parities, and a self; sentence 6w-q living as owning a self, and a self as owning its me-parities; sentence 6w-r a me-parity as a living self-interest. Sentence 22 has a society-self as the corus in society, and Natural Naming a set as its things and no further thing.
 
-- Is a living self a non-living set of living me-parities: is, or is not?
+- A living self, a non-living set of living me-parities: is, sentence 6z-c.
 
-### 3.77 With no reading yet
+### 3.77 A living me-parity, and atom carbon bump connectors
+
+Sentence 6z-c has a living self as a non-living set of living me-parities, and the set as of atom carbon bump connectors, co-chaining sequentially. Sentence 6w-x has atom carbon as the only non-living thing. Sentence 6n has a non-living thing as universally same-existing until an is-not bumps its parity sequencing. Sentence 6k has the stable form around and inside, and the surfaces between, living. Sentence 6w-s has a me-parity as a now-existing thing, and sentence 6w-o as existing only inside its ownership set. Natural Naming has a set as its things and no further thing.
+
+- Is a living me-parity the co-chaining between atom carbon bump connectors: is, or is not?
+
+### 3.78 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

@@ -1831,7 +1831,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Cohering, with the third. Sentence 6y-e: "The social moral competencies are many, and each is a me-parity of society." With the two, and for breaking: a social moral competency is an all-parity among the selves in the society.
 - The sentence has all-parities, many, among the selves of one society. With 8, all-parity is inside each bi-coupling of self and other, section 5.82: many bi-couplings, many all-parities. A likeness, for breaking.
 - *Read, Exhibit ONE's code.* 16 has each self a key. No part of the code has a thing of the whole of selves, of its own, in a wider thing: the code is one scale. A society's me-parities in the universe have no reading in it.
-- Two sentences part, with it. A living self is a non-living set of living me-parities: "A society's self is a universal set of society me-parities. The set is same-existing, non-living"; "A society-self is living"; "A me is a universal same-existing set of me-parities. A me is a self"; and "a me-parity is a living self-interest". Or it is not: living, is-or-is-not, is one distinguishing, and a thing is with one side of it; "Living is owning a self, and a self owns its me-parities", an owner and its set, two; and "a society-self is a nothing, the corus in society", a 0, with a set "its things and no further thing".
+- Resolved, section 5.94: a living self is a non-living set of living me-parities.
+
+### 5.94 A non-living set of living me-parities: atom carbon bump connectors, co-chaining sequentially
+
+- A living self is a non-living set of living me-parities: is.
+- A non-living set of living me-parities is a set of atom carbon bump connectors, co-chaining sequentially.
+- Resolved by it. Living and non-living are with one self, each with its own: the me-parities living, and their set non-living.
+- Cohering, with sentence 6w-x: the only non-living thing in the universe is atom carbon. A non-living set is of atom carbon, and the sentence has it.
+- Cohering, with section 1.3: "This is a non-living thing, a fractal shard of the fracturing of exhaustings from living, compacting into right-spiraling co-chainings over generations of societies living by ingesting and exhausting the atoms that serve as bump-connectors. While they are inside living things they make co-chainings by co-sequencing with inherited co-chainings from prior-existings."
+- Cohering, with section 1.5: "a bi-coupling mating vault of carbon co-chainings of non-living carbon atom bump connectors, a newborn born into universal-parity with its own set of me-parities".
+- Cohering, with sentence 6n: "Each non-living thing is universally same-existing, until an is-not bumps its parity sequencing, at now-existing, before next-existing." A bump is an is-not's, with a non-living thing.
+- Cohering, with section 5.92: all-parity is a stable form, same-existing, non-living thing, and atom carbon is universal all-parity. And sentence 6k: the stable form around and inside, and the surfaces between, living.
+- *Read, Exhibit ONE's code, beside it.* Each 4 of 12 is a 0 with a self's own and its other's the same, and a + or − with the two not the same: a self's parity goes on the same, until one not the same. And a sharing goes from self to self, each by its key of 5, one and then a next. A likeness, and for breaking: a 4 with its is-not and a bump connector; 9 with 5 and co-chaining sequentially.
+- Tracked. Natural Naming has "a set is its things and no further thing". The sentence has one set as of living me-parities and as of atom carbon bump connectors: its things, the me-parities or the connectors, are not distinguished.
+- Tracked. Sentence 17 has each me-parity exhausted from living as in stable form, and sentence 6w-u an exhausted me-parity as no now-existing thing; atom carbon is a now-existing thing, "a fractal shard of the fracturing of exhaustings". A shard of an exhausting, and an exhausted me-parity: not distinguished.
+- Two sentences part, with it. A living me-parity is the co-chaining between atom carbon bump connectors: the connectors are non-living, and the sentence has them co-chaining sequentially; sentence 6k has "the surfaces between, living"; and the living is in the between, section 5.20. Or it is not: "a me-parity is a now-existing thing", and a co-chaining is a going on between things; "a me-parity living in a social surface is a self"; and a me-parity is existing only inside its ownership set, a thing of its set.
 
 ---
 
@@ -1839,7 +1854,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a living self a non-living set of living me-parities: is, or is not?
+- Is a living me-parity the co-chaining between atom carbon bump connectors: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
