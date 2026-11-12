@@ -2239,12 +2239,34 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - No changing is recommended, as section 5.112 has it.
 - Two sentences part, with it, each with a step farther. Each corus's is-or-is-not is the observing beside it, 3 with 4, 7 with 8, 11 with 12 and 15 with 16: Exhibit ONE's second table has it; each is the third and the fourth of one four-cycling; and 3, me now from other prior, is with 4, between me-parity and other-parity, and 15, me next from universal now, with 16, between me-parity and all-parity. A step farther: each between of section 5.85 is distinguished by the observing before it. Or it is not: 7 is me now from universal prior, and 8 is between other-parity and all-parity; 11 is other next from universal now, and 12 between other-parity and me-parity. A step farther: of the four pairs two have the same two parities, and two have one of the two.
 
+### 5.114 *Is-*, as with no is-not; and each step, one thing
+
+- No value is seen yet in the prefixing with *is-*, and no answering is possible for the moment.
+- *Is-*, as a prefix, reads as with no possible is-not: strange, and less understandable.
+- Asked: steps doing a thing other than is-or-is-not, or none. Imagined: each step is doing the same one thing.
+- Each corus's is-or-is-not as the observing beside it, section 5.113: not answered. Open, tracked, and not pressed.
+- The prefix, plainly. Each of the four names with *is-* has, in Exhibit ONE's own table, an *is-or-is-not* on it, with two answers each. The prefix is the first of the two words only. No sentence of the living files has a reason for *is-* in place of *is-or-is-not*.
+- Its value, plainly: small. It is a mark in a name, and not whole: 4 has an is-or-is-not with no mark, and 11's is with 7's name. The value of sections 5.111 to 5.113 is of Exhibit ONE's two tables, and none of it needs the prefix.
+- *Read, Exhibit ONE's code, each step by its doing.*
+
+| A step | Its doing | In the code |
+|---|---|---|
+| an is-or-is-not | a deciding, of two | ten: eight of its lines, and two of its loops, each self of 16 and each sharing of 3 |
+| a going on | no deciding: a parity as it is, with a next name | 14 as 12; 12 as 10; 10 as 6; 3 as 11; 11 as 8 |
+| a going on, with a next self | no deciding: a sharing with its receiving self, by 5 | 9, and 17's gathering of each self's 14 |
+| an opening with none | no deciding | 14 and 8, each empty with its opening |
+
+- Each deciding of the code is an is-or-is-not, and no step decides by an other thing. Each other step decides none: it is the going on of the decided, with a next name, a next self and a next resolving.
+- The imagined, with it: of the steps deciding, each is the same one thing. Of the seventeen names, four are with a deciding on them, and 4 once; the others are the decided going on, or the given.
+- Tracked, for Exhibit ONE incoming: *is-* as with no is-not, strange and less understandable; and no value seen in the prefixing. No changing is said by this working.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is each deciding of the code an is-or-is-not, and each other step a going on with no deciding: is, or is not?
 - Is each corus's is-or-is-not the observing beside it, 3 with 4, 7 with 8, 11 with 12 and 15 with 16: is, or is not?
 - Is 11, as 3 is with 8 up, me next from other now: is, or is not?
 - Is rewarding an observing: is, or is not?

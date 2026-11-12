@@ -146,6 +146,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-r. With none of its others with it, a self's next prior parity is the same as its prior parity.
 6z-s. *A distinguishing of a now-existing parity the same as a prior-existing one* is of each of the four observings. 3 is me now, from other prior. 7 is me now, from universal prior. 11 is other next, from universal now. 15 is me next, from universal now.
 6z-t. Expected: *is-* is of 3, 7, 11 and 15, by the four-cycling pattern, and not of 13.
+6z-u. *Is-*, as a prefix, reads as with no possible is-not: strange, and less understandable; no value is seen yet in the prefixing. Imagined: each step is doing the same one thing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -833,8 +834,14 @@ Exhibit ONE has *is-* with four names, 3 and 7, and 13 and 15, the names a binar
 
 Exhibit ONE has two tables of its is-or-is-nots. The first has ten, each with the name it is on: 7, 15, 3, 13, and 4 once; *is-* is the prefix of a name with one on it. The second has each same-existing name's is-or-is-not as the observing beside it: 3 with 4, 7 with 8, 11 with 12, and 15 with 16. Sentence 6z-t expects *is-* of 3, 7, 11 and 15, by the four-cycling pattern. Sentence 6y-h has each same-existing name as a corus, sentence 6y-r each corus as a between of two parities, and sentence 6z-s each observing with its two.
 
-- Is each corus's is-or-is-not the observing beside it, 3 with 4, 7 with 8, 11 with 12 and 15 with 16: is, or is not?
+- Is each corus's is-or-is-not the observing beside it, 3 with 4, 7 with 8, 11 with 12 and 15 with 16: is, or is not? Not answered, and not pressed; tracked.
 
-### 3.96 With no reading yet
+### 3.96 Each step, one thing
+
+Sentence 6z-u has *is-* as reading with no possible is-not, no value seen yet in the prefixing, and each step imagined as doing the same one thing. In Exhibit ONE's table each of the four names with *is-* has an is-or-is-not on it, of two answers. In its code each deciding is an is-or-is-not, ten of them; each other step is a going on of the decided, with a next name, a next self and a next resolving, or an opening with none.
+
+- Is each deciding of the code an is-or-is-not, and each other step a going on with no deciding: is, or is not?
+
+### 3.97 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
