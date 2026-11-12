@@ -24,11 +24,12 @@ Opportunity 8 of `incoming/v401mgr/README.md` section 4, its carbon scale only: 
 - `Seven_names_and_the_prime_scales.md`: the fractal as the set has it; the prime scales the set has, with 2 and 3; a candidate for conception; an atom, carbon, a molecule, a nucleus, a proton, an electron and a photon, each at its standing in the set, each with one word of two readings.
 
 - `Five_items_at_carbon_read_again.md`: the carbon scale's five items at carbon, each number searched again with no use of that working's extracts: the same, distinguished, parting or not reached, each with its standing and its page.
-- `Two_ladders_of_primes.md`: two ladders of primes the set has, each prime with the name of its position, and each prime scale with the name of its own number; 2, 3, 5 and 7 and conception with each; the place the two part.
+- `Primes_with_names_two_pairings.md`: two pairings of primes with names the set has, each prime with the name of its position, and each prime scale with the name of its own number; 2, 3, 5 and 7 and conception with each; the place the two part. First laid with *ladder*, and re-said.
+- `Seventeen_names_along_four_bi-foldings.md`: the person's answer followed: each of seventeen primes with its name and its name's side in Exhibit ONE, along four bi-foldings; 2, 3, 5 and 7 the primes of the four names the four go from; conception along 3-11-6-14; and *scale*.
 
 ## 4 The asking
 
-Opened again by the person's saying, for an is-or-is-not that goes on with the exploring, one with each reply, `incoming/V400mgrB/The_One_Question_Method.md` 2.8. Each other binary here is tracked and not pressed. Tracked: the fractal pattern vault is the between two atoms carbon are creating, each atom a solid without an inside, is or is not. Asked now: each of the 2 3 5 7 prime scales is with the name of its position among the seventeen primes, 2 with 1, 3 with 2, 5 with 3 and 7 with 4, is or is not.
+Opened again by the person's saying, for an is-or-is-not that goes on with the exploring, one with each reply, `incoming/V400mgrB/The_One_Question_Method.md` 2.8. Each other binary here is tracked and not pressed. Tracked: the fractal pattern vault is the between two atoms carbon are creating, each atom a solid without an inside, is or is not. Asked, and answered with a sentence, "follow this through 1 - 17 and this is bi-folding right spiraling sequencing. there are no ladders in this and scale may always be a wrong word choice as this method is fractal.": each of the 2 3 5 7 prime scales with the name of its position among the seventeen primes. Asked now: atom carbon, the only non-living thing, is with 3, a self's prior with each sharing, is or is not.
 
 ## 5 The edges, each a place the rigor is not yet
 
