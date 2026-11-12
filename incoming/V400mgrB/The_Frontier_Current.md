@@ -130,6 +130,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-b. The me-parities of the society, in the universe, are the all-parities among the selves in the society.
 6z-c. A living self is a non-living set of living me-parities. A non-living set of living me-parities is a set of atom carbon bump connectors, co-chaining sequentially.
 6z-d. A co-chaining is a universal set of me-parities. The me-parities are living in the betweens. The co-chaining is podaling along and across, co-intelligencing surface, discovering next-existing.
+6z-e. A co-chaining is a self: a self of selves sharing a me-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -715,8 +716,14 @@ Sentence 6z-c has a living self as a non-living set of living me-parities, and t
 
 Sentence 6z-d has a co-chaining as a universal set of me-parities, the me-parities living in the betweens, and the co-chaining podaling along and across, co-intelligencing surface, discovering next-existing. Sentence 6w-p has a me as a universal same-existing set of me-parities, and a self; sentence 6z-a a society's self as a universal set of society me-parities; sentence 6z-c a living self as a non-living set of living me-parities. Sentence 6p has a thing distinguishing its own next-existing as a living thing. Sentence 6y-d has the me-parities co-chaining into a collective intelligence me-parity, and Natural Naming 2.4 co-chaining as co-sequencing selves going on, along.
 
-- Is a co-chaining a self: is, or is not?
+- A co-chaining a self: is, sentence 6z-e.
 
-### 3.79 With no reading yet
+### 3.79 A me-parity selves are sharing, and its one me
+
+Sentence 6z-e has a co-chaining as a self of selves sharing a me-parity. Sentence 6w-o has a me-parity as owned by the only one of me, existing only inside its ownership set, and sentence 12 a me-parity with one me. Sentence 6w-q has a self as owning its me-parities. Sentence 6z-b has the me-parities of the society, in the universe, as the all-parities among the selves in the society. The opening's waiting sentence has a me-parity the same as an other's as other-parity. In Exhibit ONE's code a me-parity going along by 9 is each next self's own, with one 4.
+
+- Is the me-parity the selves are sharing owned by the co-chaining, its one me: is, or is not?
+
+### 3.80 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

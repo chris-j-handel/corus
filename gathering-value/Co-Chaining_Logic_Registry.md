@@ -49,6 +49,7 @@ Gathering-Value · Co-Chaining Logic Registry
 - **Possible incohering** · "Each non-living thing is a stable-forming emanation." → With *ingesting* and *exhausting* in place of *ingestion* and *emanation* (Natural Naming 2.4): each non-living thing is a stable form, living's exhausting accumulating and compacting, an artifact of prior living, only inheriting.
 - **Possible exploring** · A me is a universal same-existing set of me-parities, and a me is a self. No self is any other self, each a unique self; no self is living with no me-parity, the inheriting prior to the birthing; and living is owning a self, a self owning its me-parities.
 - **An explaining** · A co-chaining is a universal set of me-parities. The me-parities are living in the betweens, and the co-chaining is podaling along and across, co-intelligencing surface, discovering next-existing. A living self is a non-living set of living me-parities, and the set is of atom carbon bump connectors, co-chaining sequentially. A co-chaining as a self is open, an is-or-is-not not yet answered.
+- **An explaining** · A co-chaining is a self: a self of selves sharing a me-parity. Read from Exhibit ONE's code, a me-parity going along through three selves is each next self's first me-parity, with one name: selves with one me-parity, in sequence. The shared me-parity as the co-chaining's own, with one me, is open, an is-or-is-not not yet answered.
 
 ### 3 A bi-coupling, parity, one method, a same-existing-society and a momentary
 
