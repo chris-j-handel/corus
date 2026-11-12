@@ -121,6 +121,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-s. In right spiral co-sequencing, this is prior, now, next bi-folding. 4, 8, 12, 16 is the 1, 2, 3, 4 same bi-folding fractal, and 16, 32, 48, 64 the same bi-folding fractal, cascading another scale. The meaning of the naming of *scale*, here: a next-universal subset including this universal subset.
 6y-t. All-parity is a same-existing thing. Distinguishing other-parity from all-parity, is-or-is-not, is co-observing, co-possibling, co-discovering, same-existing other-parity.
 6y-u. All same-existing things are now-and-prior-and-same-existing things, or prior-and-same-existing things.
+6y-v. 8's all-parity, inside the bi-coupling, is a now-and-prior-and-same-existing thing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -664,8 +665,14 @@ Sentence 6y-t has all-parity as a same-existing thing, and the distinguishing of
 
 Sentence 6y-u has each same-existing thing as a now-and-prior-and-same-existing thing or a prior-and-same-existing thing: each with a prior. A self, a bi-coupling and atom carbon are each now-existing by a sentence of the sequence; a name and a dormant me-parity are each a prior, and no now-existing thing. For all-parity sentences 6x-f and 6y-b part. Sentence 6y-n has 8 as all-parity inside the bi-coupling, and sentence 6y-o the bi-coupling self owning it. In Exhibit ONE's code 8 is a self's next prior, the prior of its next 1, made with each 17.
 
-- Is 8's all-parity, inside the bi-coupling, a now-and-prior-and-same-existing thing: is, or is not?
+- 8's all-parity, a now-and-prior-and-same-existing thing: is, sentence 6y-v.
 
-### 3.72 With no reading yet
+### 3.72 16's universal all-parity, with now or with prior
+
+Sentence 6y-v has 8's all-parity, inside the bi-coupling, as a now-and-prior-and-same-existing thing. Sentence 6y-m has 16 as universal all-parity for this named universal set me-parity, with no own. Sentence 6x-f has all-parity as a now-existing thing, and sentence 6x-i atom carbon as universal all-parity. Sentence 6y-b has language as a stable form of me-parities in all-parity, with none of it now-existing, and sentence 6x-z a society's language as its universal all-parity. In Exhibit ONE's code 16 is provided, before each 17, and each self of it is with its now in 17.
+
+- Is 16's universal all-parity a now-and-prior-and-same-existing thing, as 8's is: is, or is not?
+
+### 3.73 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
