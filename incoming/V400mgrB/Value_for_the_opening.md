@@ -2134,7 +2134,34 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Not audited, and said plainly: the value file's tables and droplets of sections 2 to 5.14, section by section; and the partings before section 5.75. The folder's README, section 3, has a gathering for each section.
 - Debts, each a re-saying and no value away from a gathering: *key*, in 28 items of two gatherings; *own*; *a self's inverting*; *a me* of the sections before 5.30. Partings, section 5.
 - The audit is by words: a sentence found by its words is with a gathering; its exploring, its partings and its code reading are in this file, and at a gathering as one item or a few.
-- Two sentences part, with it, each with a step farther. 7-is-now-observing, as 3 and 15 are, is a distinguishing of a now-existing parity the same as a prior-existing one: 7 is one of the four names with *is-*, an observing as 3 and 15 are; a step farther, 7 and 15 are one name 8 up, each with tri, and 7 is as 15, now-existing all-parity the same as prior-existing all-parity. Or it is not: in the code each 7 is one parity with its 4, one side of a distinguishing, with 15 its other side; a step farther, with 7 a side only, its *is-* is of one parity, a + or a −, and of no two.
+- Resolved, section 5.110: each of the four observings, 3, 7, 11 and 15, is a distinguishing of a now-existing parity the same as a prior-existing one.
+
+### 5.110 The four observings, each a distinguishing: who, with now or next, from whom
+
+- Universal-parity.
+- *A distinguishing of a now-existing parity the same as a prior-existing one*: this is of each of the four observings.
+- 3 is me now, from other prior. 7 is me now, from universal prior. 11 is other next, from universal now. 15 is me next, from universal now.
+- Resolved by it, section 5.109's open binary: 7 is a distinguishing as 3 and 15 are, and 11 with them. Each of the four observings is one.
+- Out, a reading of mine, section 5.109: 7 as one side only.
+- Resolved by it, sections 5.106 and 5.107's place: 3 is me now, from other prior. One parity, a self's now and its others' prior.
+- Re-said by it, sentence 6z-p: 3, of other-parity now and prior, is me now from other prior; 15, of all-parity now and prior, is me next from universal now.
+- *The four, with Exhibit ONE's names.*
+
+| Observing | Its name | With now or next | With co, or of one | Of the sentence |
+|---|---|---|---|---|
+| 3 | 3-is-now-co-observing | now | with co | me now, from other prior |
+| 7 | 7-is-now-observing | now | of one | me now, from universal prior |
+| 11 | 11-next-co-observing | next | with co | other next, from universal now |
+| 15 | 15-is-next-observing | next | of one | me next, from universal now |
+
+- Cohering, with each name. Each name with *now* is a now from a prior, and each with *next* a next from a now. Each name with *co* has other in it, and each of one has me and universal, and no other.
+- Cohering: 7 and 15 are one name 8 up, and one saying, me from universal, with now and with next.
+- *A distinguishing of a now-existing parity the same as a prior-existing one*, with 11 and 15: a next from a now. One moment on, a now from a prior. Tracked.
+- *Read, Exhibit ONE's code, each of the four.* 3: a self's priors, now, each from its others' sharing of a resolving before, the same or provided: cohering. 15: 14's parity, of each of its others the same, now, and a self's next prior is from it: cohering. 7: one parity with its 4; a self's prior parity, now, is from 15 of the resolving before: a reading, for breaking. 11: a self's next priors, its 3 with each + or − of its sharing: the code has a self's next, and the sentence other next. Tracked, a parting.
+- Tracked, a parting with the eight of section 5.79. 3's three is co-bi-co and 11's the same, me and other and no all; 7's and 15's are tri-bi-co. The sentence has 11 with other and universal, and 7 with me and universal.
+- *Universal-parity*: sentence 6x-f has universal parity as all-parity. The sentence's universal is it.
+- Tracked. Exhibit ONE's four names with *is-* are 3, 7, 13 and 15. The four observings are 3, 7, 11 and 15. 13-is-next-discovering is not said.
+- Two sentences part, with it, each with a step farther. 11, as 3 is with 8 up, is me next from other now: 7 and 15 are one saying 8 up, with now and with next; 3 and 11 are one name 8 up, each with co; in the code 11 is a self's next priors, each from its others' parity now. A step farther: the four are two pairs, each pair one saying, with now and with next. Or it is other next from universal now, as the sentence has it: 11 is of 9 to 16, and 12, its next, is between other-parity and me-parity, other first, section 5.85. A step farther: 3 and 11 are not one saying, and 8 up is not the same with each name.
 
 ---
 
@@ -2142,7 +2169,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 7-is-now-observing, as 3 and 15 are, a distinguishing of a now-existing parity the same as a prior-existing one: is, or is not?
+- Is 11, as 3 is with 8 up, me next from other now: is, or is not?
 - Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?

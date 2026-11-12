@@ -124,6 +124,7 @@ Gathering-Value · Natural Resolver
 - **An explaining** · The working's sequence, sentence 6w-d: Inheriting is 2-now-possibling, and conceiving is 14-next-possibling.
 - **An explaining** · The working's sequence, sentence 6w-h: From 23 to 29 is six forward recursionings of bi-moral co-competencing: three of a self, 24, 25 and 26, and three of its society, 27, 28 and 29. A society's corus is at 28.
 - **An explaining** · The working's sequence, sentence 6w-i: 3 is forward recursionings of each self and other. No spot of corusing is named. Its second sentence is re-said with sentence 6y-h: each between's corus is with its same-existing name.
+- **An explaining** · For Exhibit ONE incoming, its four observings. Each is a distinguishing, is-or-is-not, of a now-existing parity the same as a prior-existing one: 3-is-now-co-observing, me now from other prior; 7-is-now-observing, me now from universal prior; 11-next-co-observing, other next from universal now; 15-is-next-observing, me next from universal now. Each name with *now* is a now from a prior, and each with *next* a next from a now; each with *co* has other in it, and each of one me and universal. Read from the code: 3 and 15 are cohering; 11 is a self's next priors, and its saying as other next is open.
 
 ### Namings among names
 
