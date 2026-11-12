@@ -182,6 +182,79 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 16 Asked now
+## 16 Asked, tracked and not pressed
 
-- **Each even is one step right across one face, and each odd one step along, four of each one turn, with 9 above 1: is, or is not?**
+- Each even is one step right across one face, and each odd one step along, four of each one turn, with 9 above 1: is, or is not. No answer yet.
+
+---
+
+## 17 A next sentence arrived
+
+> the alongs and the acrosses are like different systems each system having its own changing rate. this is very speculative and seems unlikely yet it has some pattern matching in it that could be a value
+
+---
+
+## 18 Read with it, from the set
+
+- **Exhibit TWENTY Natural Naming.** Competency is co-unrelationing, along, and morality is bi-unrelationing, across. Unrelationing is each coupling's own going on, locking with none. A rate fixed as a value is that going on fixing unchangeable.
+- **Exhibit THREE Natural Numbers, section 3.1.** A rate is unrelationing's, each coupling with its own going on, and φ is unrelationing rate, no ratio reaching it.
+- **The kit's own study.** Self and other with a co-sequential momentary rate, and a carrying with a geodesic unrelationing rate: two rates on one drawing.
+- **Exhibit ONE Natural Resolver.** A torus of selves, p along with 9-next-co-discovering and q across with 10-next-co-possibling, one sharing, each momentary of its parities again dividing four of p or four of q, along or across alike.
+
+---
+
+## 19 Executed
+
+`instruments/along_across_check.py`, Exhibit ONE Natural Resolver's code read from its file with no line changed; its returned lines beside it.
+
+- **Each by itself has its own.** A spiral of n selves, along or across, an odd n, comes to its parities again with four of n: 12, 20, 28, 36, 44 and 52 with 3, 5, 7, 9, 11 and 13.
+- **Together, one of two and never both.** p along by q across comes again with four of its smaller number, or with its larger number by itself, with a larger more than twice its smaller: 3 by 5 with 12; 3 by 7 with 7; 5 by 7 with 20; 5 by 11 with 11; 7 by 13 with 28; 7 by 15 with 15.
+- **Along and across alike.** p by q and q by p are the same. Along named 10 and across named 9, or along named 6, are the same. The code has one sharing and no line parting along from across.
+
+---
+
+## 20 Read by it
+
+- **Cohering.** Along and across each have their own number of selves and their own coming again: two, each with its own. Whole with the sentence, and with Exhibit TWENTY Natural Naming's along and across as two unrelationings.
+- **A candidate, with one turn.** Across is a going round, coming to its place again with each four steps right. Along is a going on, coming to no place again, each next a next universe.
+
+---
+
+## 21 A field's observings beside it, each parted
+
+**A shoot, a rose's cane or a pepper's.**
+
+- **Observed, by a self with no instrument.** Leaves go round a stem by one steady turning, and lengths between two leaves change along it.
+- **Its measuring and converting.** An angle between two leaves' joinings and a length between them, each as a number.
+- **A field's finding, at an excerpt.** A treatment changing a shoot's growing along leaves its mean turning as it was. Its turning stays by one angle, the golden part of a round.
+- **Breaking.** With a stem's growing a stem twists, and an angle between two leaves grows or lessens by it: along's growing changes across's turning.
+
+**A right spiral co-chaining of a cell.**
+
+- **Observed.** By no self; by instruments only.
+- **A field's finding, at an excerpt.** Twenty-one steps along to two turns in water, and twenty in a dried fibre: steps to one turn are no whole number, and change with its surroundings. A cell adds turns and removes turns with its co-chaining's sequence as it was.
+- **Breaking.** By a field's measuring its rise along goes with its turning: one changes with its other.
+
+**Its incompetencing, a candidate.** A field has each rate as a value, an angle and a number of steps. By Exhibit TWENTY Natural Naming a rate fixed as a value is a going on fixing unchangeable, and by Exhibit THREE Natural Numbers no ratio reaches φ.
+
+---
+
+## 22 Parting and breaking
+
+- **One sharing.** By Exhibit ONE Natural Resolver's code, along and across are no two systems: one sharing, and two numbers of selves.
+- **Together, one rate.** Coupled with each self, two spirals come again with one number, and no self of a torus has two.
+- **Tied, by each field.** A stem's twisting and a co-chaining's rise have along and across changing together.
+- **Speculative, by the sentence's own word.** Each line of this reading is a candidate.
+
+---
+
+## 23 Asked now
+
+- **Along is a going on, coming to no place again, and across is a going round, coming to its place again with each four: is, or is not?**
+
+---
+
+## 24 Pages, each at its excerpt only, of section 21
+
+- A shoot's turning and its growing along: https://arxiv.org/pdf/1212.3377 · https://ar5iv.labs.arxiv.org/html/1212.3112 · https://pdodds.w3.uvm.edu/files/papers/others/1996/douady1996a.pdf · https://hal.inrae.fr/hal-02628882v1/document
+- A right spiral co-chaining's steps to one turn: https://pmc.ncbi.nlm.nih.gov/articles/PMC2553576 · https://arxiv.org/pdf/q-bio/0602008 · https://push-zb.helmholtz-munich.de/deliver.php?id=22408
