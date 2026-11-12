@@ -41,7 +41,7 @@
 <g><circle cx="440" cy="135" r="12" stroke-width="1.5" fill="#EEEDFE" stroke="#534AB7"/><text font-size="14" font-weight="500" fill="#3C3489" x="440" y="135" text-anchor="middle" dominant-baseline="central">7</text></g>
 <g><rect x="468" y="123" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="480" y="135" text-anchor="middle" dominant-baseline="central">8</text></g>
 <g><circle cx="520" cy="80" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="520" y="80" text-anchor="middle" dominant-baseline="central">9</text></g>
-<text font-size="12" fill="#5F5E5A" x="620" y="249">right point</text>
+<text font-size="12" fill="#5F5E5A" x="600" y="222" text-anchor="middle">right point</text>
 <text font-size="12" fill="#5F5E5A" x="420" y="139" text-anchor="end">left point</text>
 <text font-size="12" fill="#5F5E5A" x="520" y="330" text-anchor="middle">far side dashed</text>
 <text font-size="12" fill="#5F5E5A" x="520" y="352" text-anchor="middle">seen from its side</text>

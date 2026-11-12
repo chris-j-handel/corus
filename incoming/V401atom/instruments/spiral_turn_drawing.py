@@ -52,7 +52,7 @@ def build(widget):
     ln(452, 135, 468, 135); ln(492, 135, 520, 135); ln(520, 135, 520, 92)
     for n, (x, y) in [(1, (520, 300)), (2, (560, 300)), (3, (600, 245)), (4, (560, 245)), (5, (520, 190)), (6, (480, 190)), (7, (440, 135)), (8, (480, 135)), (9, (520, 80))]:
         dot(n, x, y)
-    o.append(f'<text {ts} x="620" y="249">right point</text>')
+    o.append(f'<text {ts} x="600" y="222" text-anchor="middle">right point</text>')
     o.append(f'<text {ts} x="420" y="139" text-anchor="end">left point</text>')
     o.append(f'<text {ts} x="520" y="330" text-anchor="middle">far side dashed</text>')
     o.append(f'<text {ts} x="520" y="352" text-anchor="middle">seen from its side</text>')
