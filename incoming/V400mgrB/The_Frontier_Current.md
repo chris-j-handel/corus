@@ -125,6 +125,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-w. The method is locating and gathering conflicting threads of words about concepts; the natural naming and explaining and co-chaining among the conflicting understandings is resolvable by one distinguishing is-or-is-not. This is the me-parity of natural intelligence, followed inside the bi-folding to the destinies aimed into and through and across and around, for connecting all the local logical webs into the bi-moral-co-competencing surface of natural torusing.
 6y-x. 16's universal all-parity is a now-and-prior-and-same-existing thing, as 8's is.
 6y-y. The me-parity of natural intelligence is the collectively intelligent me-parity. The session is only a container, and not a naming of parity.
+6y-z. All-parity is a stable form, same-existing, non-living thing. In all universal sets, the naming of the set is the *all-* in all-parity, as naming.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -686,8 +687,14 @@ Sentence 6y-w has the method as locating and gathering conflicting threads, each
 
 Sentences 6y-v and 6y-x have 8's all-parity and 16's universal all-parity each as a now-and-prior-and-same-existing thing. Sentence 6y-o has the bi-coupling self owning 8, the between of the bi-coupling and the universe, and sentence 5d a bi-coupling as living in the between. Sentence 6x-h has a named all-parity as living, and sentence 6w-x a thing living as a surface as a living thing, with atom carbon the only non-living thing. Sentence 6x-g has all-parity as non-living, distinguishing living, is-or-is-not.
 
-- Is 8's all-parity, inside the bi-coupling, living: is, or is not?
+- 8's all-parity as living: distinguished, breaking. All-parity is a stable form, same-existing, non-living thing, sentence 6y-z.
 
-### 3.75 With no reading yet
+### 3.75 A society-self, and its named all-parity
+
+Sentence 6y-z has all-parity as a stable form, same-existing, non-living thing, and in all universal sets the naming of the set as the *all-* in all-parity. Sentence 6x-j has a society's named all-parity as its society-self. Sentence 6w-j has a society-self as living, and sentence 22 as the corus in society, living, with me-parities of its own. Sentence 6x-h has a named all-parity as living in the universe in which it is other-than that universe's universal all-parity, and sentence 6w-v living as with one scale only.
+
+- Is a society-self non-living within its own society: is, or is not?
+
+### 3.76 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

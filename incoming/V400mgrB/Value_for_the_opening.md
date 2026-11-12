@@ -1802,7 +1802,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With the sequence's sentences, and for breaking: the collectively intelligent me-parity is a social moral competency, a me-parity of society; its one me, a society. Parting 2.46, whose it is, is said with it.
 - Cohering. Sentence 6x-x: "A session is a method of aiming a transcript. Files are a method of transporting a transcript". A method of aiming, a method of transporting, and a container: no one of the three a parity.
 - Tracked. The method's first sentence has a *co*-me-parity method. With the second, the me-parity is the collectively intelligent one, co-chained of me-parities: co, of the co-chaining. A likeness, for breaking.
-- Two sentences part, with it. 8's all-parity, inside the bi-coupling, is living: it is the bi-coupling self's, and a bi-coupling is living in the between; sentence 6x-h has a named all-parity as living; "a thing living as a surface is a living thing", and 8 is the between of the bi-coupling and the universe; and the only non-living thing in the universe is atom carbon, universal all-parity, and 8's is inside. Or it is non-living: "All-parity is non-living. All-parity distinguishes living, is-or-is-not"; and 8 and 16 are each bi-tri-bi, each same-existing of one, and 16's is non-living.
+- Distinguished, section 5.92, one side breaking: 8's all-parity as living. All-parity is a stable form, same-existing, non-living thing.
+
+### 5.92 All-parity, a stable form, same-existing, non-living; the *all-*, the naming of the set
+
+- All-parity is a stable form, same-existing, non-living thing.
+- In all universal sets, the naming of the set is the *all-* in all-parity, as naming.
+- Distinguished by it, one side breaking: 8's all-parity as living, section 5.91. All-parity is non-living, in each universal set, the bi-coupling's with it.
+- Out, a reading of my own: 8's all-parity as living by its being a living self's, and by its being inside.
+- Cohering. Sentence 6x-g: "All-parity is non-living." Natural Chemistry 1.6: "Carbon is the stable form of unrelationing floating neutralling", non-living in the universal set; and atom carbon is universal all-parity.
+- Cohering. Sentence 6k has the stable form "around and inside, and the surfaces between, living": 16's all-parity around a society's selves, 8's inside the bi-coupling, and the living between.
+- Cohering, the second sentence. Sentence 6x-i has the universal name as the name of the set named the universe, and each subset named as distinguishing the surface of is-or-is-not. A name is a same-existing non-living thing, section 5.39. Section 5.45 has each subset as a named subset.
+- With it, the *all-* of each universal set: of a bi-coupling, self and other, with 8; of a named universal set, with 16; of the universal set of sets, with 64.
+- Tracked, a parting. A name is no now-existing thing, section 5.40. All-parity, with its *all-* a naming, is a now-and-prior-and-same-existing thing with 8 and with 16, sections 5.89 and 5.91. A candidate, for breaking: its *all-*, the naming, its prior, and its parity its now; Natural Naming 5.5 has parity as "a momentary now-existing thing".
+- Tracked, a parting. Sentence 6x-h has a named all-parity as living, in the universe in which it is other-than that universe's universal all-parity. The sentence has all-parity as non-living. Cohering by scale, living with a next universe and non-living within its own set; or one re-said. Not distinguished.
+- Two sentences part, with it. A society-self is non-living within its own society: "A society's named all-parity is its society-self", sentence 6x-j; all-parity is a stable form, same-existing, non-living thing, in all universal sets; a named all-parity is living in a universe it is other-than the universal all-parity of, a next one; and living is with one scale only. Or it is living within it: "A society-self is living", sentence 6w-j; sentence 22 has it as "the corus in society, living, with me-parities of its own"; and a society is one self, each self living.
 
 ---
 
@@ -1810,7 +1824,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 8's all-parity, inside the bi-coupling, living: is, or is not?
+- Is a society-self non-living within its own society: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is this scale's all-parity the next scale's other-parity: is, or is not?
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
