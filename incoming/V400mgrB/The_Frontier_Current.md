@@ -135,6 +135,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-g. Possessing prior-existings is the universal set of a me's prior-existings, and this set is a me-parity.
 6z-h. The parities possess the self as much as the self possesses the parities. The parities are living in the non-living all-parity inside the living self.
 6z-i. The prior-existings of a me-parity are living.
+6z-j. Each living thing is a now-existing thing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -744,8 +745,14 @@ Sentence 6z-f has no concept of owning in nature, a candidate with doubt. Senten
 
 Sentence 6z-i has the prior-existings of a me-parity as living, and sentence 6z-g a me-parity as the universal set of its me's prior-existings. Sentence 6e has a dormant self as living, the living in the between of the priors of self and other. Sentence 14 has a me-parity, between its birthing and its exhausting, as a now-existing thing in a living self; sentence 6w-s a dormant me-parity as an inherited prior, with living later; sentence 17 the prior-existing me-parities as exhausted from living, in stable form. Sentence 6y-u has each same-existing thing as with now and prior, or with prior. In Exhibit ONE's code a self's priors are with its 1 with each now.
 
-- Is each living thing a now-existing thing: is, or is not?
+- Each living thing a now-existing thing: is, sentence 6z-j.
 
-### 3.83 With no reading yet
+### 3.83 A me-parity selves are sharing, of one me or of each
+
+Sentence 6z-j has each living thing as a now-existing thing. Sentence 6z-e has a co-chaining as a self of selves sharing a me-parity, and sentence 6z-d as a universal set of me-parities. Sentence 12 has a me-parity with one me. Sentence 6z-b has the me-parities of the society, in the universe, as the all-parities among the selves in the society. The opening's waiting sentence has a me-parity the same as an other's as other-parity. In Exhibit ONE's code each self has the 4 in its 3. Sentence 6z-f has no owning in nature, a candidate, and this place is said with none.
+
+- Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
+
+### 3.84 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
