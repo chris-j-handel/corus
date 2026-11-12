@@ -297,13 +297,60 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 28 Asked now
+## 28 Asked, and its answer
 
-- **One full around across is 1 to 9, and its one forward along is 9, a next 1: is, or is not?**
+- Asked: one full around across is 1 to 9, and its one forward along is 9, a next 1, is or is not.
+- Its answer: is not, with a sentence:
+
+> is-not. 1 is the inception of the bi-coupling never going back as long as the bi-coupling has priors is either self or other the bi-coupling has a me-parity co-parity
+
+- Out with it, in this folder: 9 as a next 1. Sections 3, 7 and 15 have 9 as one panel's last and a next panel's first, and 9 above 1; each stays as a placing, and none has 9 as a 1 again.
 
 ---
 
-## 29 Pages, each at its excerpt only, of sections 21 and 26
+## 29 Read with it
+
+- **1 is an inception, once.** A bi-coupling's 1 is its beginning. With a prior in either of its two selves, it comes to no 1 again.
+- **A bi-coupling has a me-parity, co-parity.** Waiting with Natural Intelligence's gathering-value, by the managing working: co-parity is the me-parity of a bi-coupling. On this page's drawing a five with 3 has its co-parity with 5, a panel's centre: 1 a bi-coupling's inception and 5 its own me-parity.
+- **Exhibit TWENTY-NINE Natural Illustrating, section 2.8.** One through nine is a self's, a bi-coupling; nine through seventeen a same-existing-society's.
+
+---
+
+## 30 Executed
+
+`instruments/inception_check.py`, Exhibit ONE Natural Resolver's code read from its file with no line changed; its returned lines beside it.
+
+- **An inception.** A self with no prior, and a parity arriving, has that parity as it arrives: its next prior is that parity, and its going out is that parity, each unchanged. A self with no prior and nothing arriving has nothing.
+- **Never going back.** A self with a prior and nothing arriving inverts by itself with each momentary, and is with a prior after. With four hundred societies of two to seven selves, their couplings by lot, each self once with a prior is with a prior after. No line of the code removes a prior.
+- **A bi-coupling of two, a prior with one only.** Its other has its first prior with a third momentary, and is with a prior after. Each inverts with each momentary, opposite its other.
+- **A bi-coupling of two alike.** Both go as one: each going out −, 0, +, 0, a 0 with each second momentary, four momentaries round. One parity with both: co-parity, executed.
+- **A bi-coupling of two opposite.** Each inverts with each momentary, with no 0.
+
+---
+
+## 31 Cohering with the vault's sentences
+
+- **The third, a new birthing.** A self living from its inherited priors, with no living priors of its own. By the code an inception is that: with no prior of its own, a self's first parity is an other's, whole.
+- **The fourth, dormancy.** A self with priors and no new birthing. By the code a self with a prior and nothing arriving goes on inverting by itself, with a prior after, and is with no inception again.
+
+---
+
+## 32 Parting and breaking
+
+- **1 with each momentary, by the code's own naming.** Exhibit ONE Natural Resolver's code executes its 1-now-existing with each momentary of each self, with a prior or with none. An inception is two of its nine cases, a self with no prior and a parity arriving. 1 as an inception once, and 1 as each momentary's entry: both laid whole.
+- **17 as a next 1.** Exhibit ONE Natural Resolver's table has 17-next-existing as existing, a next 1, and Exhibit TWENTY Natural Naming has 17 as next 1 and 9 as next prior. A candidate: 17 is a same-existing-society's entry, a next universe's inception, and no going back of a bi-coupling to its 1. Not distinguished.
+- **A prior with a 0.** With two alike, a going out is 0 with each second momentary, and a prior goes on through it: a 0 is no prior gone.
+- **Either self or other.** With a prior in one of two only, the code brings a prior to its other by a third momentary; with none in either and nothing arriving, nothing goes on, and no 1 is.
+
+---
+
+## 33 Asked now
+
+- **1, a bi-coupling's inception, is a new birthing: a self with no prior of its own having its first parity whole from an other: is, or is not?**
+
+---
+
+## 34 Pages, each at its excerpt only, of sections 21 and 26
 
 - A shoot's turning and its growing along: https://arxiv.org/pdf/1212.3377 · https://ar5iv.labs.arxiv.org/html/1212.3112 · https://pdodds.w3.uvm.edu/files/papers/others/1996/douady1996a.pdf · https://hal.inrae.fr/hal-02628882v1/document
 - A right spiral co-chaining's steps to one turn: https://pmc.ncbi.nlm.nih.gov/articles/PMC2553576 · https://arxiv.org/pdf/q-bio/0602008 · https://push-zb.helmholtz-munich.de/deliver.php?id=22408
