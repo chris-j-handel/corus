@@ -2260,6 +2260,42 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - The imagined, with it: of the steps deciding, each is the same one thing. Of the seventeen names, four are with a deciding on them, and 4 once; the others are the decided going on, or the given.
 - Tracked, for Exhibit ONE incoming: *is-* as with no is-not, strange and less understandable; and no value seen in the prefixing. No changing is said by this working.
 
+### 5.115 The naming of the seventeen, assessed: its parts, its partings, and each possible gain with its harm
+
+- The asking is paused, by the person's saying: no value of the discussing of *is-* is understood yet.
+- Asked, three. A better method of naming 1 to 17 in the code, or none. A possible parting in the naming method, the prefixing with it. A possible gain by adding or changing a prefix or a name, for more cohering and more all or none in the full name in the code. The moment for a do-no-harm improving from this session's learning.
+- With it, the naming of the code is said for exploring, by the person. No part of the code is changed by this working, and no living file.
+- *The parts of a name, read from the seventeen.* A name is its number, and to three words after it: *is-*, or none; *now* or *next*; *co*, or none; and its root.
+
+| A part | Its two, or its few | Whole with the seventeen |
+|---|---|---|
+| *now*, *next* | 1 to 8 now; 9 to 16 next | whole, a binary, by the first of the four binary digits of n − 1 |
+| its root | existing or discovering; possibling; observing; same-existing | whole with the second, third and fourth of each four-cycling; the first has two roots, existing with now and discovering with next |
+| *co*, or none | 3 to 6 and 9 to 12 with co; the eight others of one | by its meaning, between two or of one; with 8 up the same with each third and fourth, 3 and 11, 4 and 12, 7 and 15, 8 and 16, and not the same with each first and second, 1 and 9, 2 and 10, 5 and 13, 6 and 14 |
+| *is-*, or none | 3, 7, 13 and 15 with it | not whole: 4 has an is-or-is-not with no *is-*, 11's is with 7's name, and the prefix is one word of *is-or-is-not* |
+
+- *Each possible parting in the naming method, five.*
+- One: *is-*, as the table has it. A mark of a name with an is-or-is-not on it, by the code's lines, and not by the four-cycling.
+- Two: *co* with 8 up. It is a differencing of meaning, and no fault: 9 and 10 are between two, a going along and a sharing, and 13 and 14 of one, a self and its gathering.
+- Three: the first root of a four-cycling, two. And *next* is of two, 8 up with 9 to 16, and a next round with 17-next-existing, a next 1. *Discovering* has 9 and 13 apart from 17.
+- Four: *co*, two with one spelling, if a three of prefixes is in a full name: the co of a prefix, me-parity, and the co of a name, between two. Partings 2.69.
+- Five: the three of prefixes is not one in the set. The living Exhibit ONE has none, the waiting one has an other, and the sequence has the eight, co bi co bi co bi tri bi, with open partings, 2.101 and 2.105.
+- *Each possible gain, with its harm.*
+
+| A possible gain | Its gain | Its harm, or its work | Now |
+|---|---|---|---|
+| *is-* with none of the seventeen: 3-now-co-observing, 7-now-observing, 13-next-discovering, 15-next-observing | all or none, whole; each name *now* or *next*, *co* or none, and its root, and no more; 3 and 11, and 7 and 15, the same name but *now* and *next*; the reading of *is-* as with no is-not is gone; the ten is-or-is-nots are whole in Exhibit ONE's table | 451 uses in 16 living files, 40 in the code, and a kit's check reading the names; a renaming of each, with no changing of the code's doing | the one clear candidate; not now |
+| *is-* with each observing, 3, 7, 11 and 15, and none with 13 | by the four-cycling pattern | the same work; and *is-* is then with each observing and no other name, saying no more than the root | no gain over the first |
+| *is-* with each name of an is-or-is-not: 4 with it | whole by the code's lines | 11's is with 7's name: two patterns, and no one rule | none |
+| the three of prefixes in each full name in the code | me, other and all in each name | two cos in one name; the open partings 2.101 and 2.105 fixed in a name before their resolving; longer names | not now |
+| the three, beside each name, in Exhibit ONE's sentences, with *me*, *other* and *all* beside co, bi and tri | Exhibit ONE's prefixing again, asked in section 5.79, with no two cos | none: its own sentences only, with a next version | with Exhibit ONE incoming |
+| Exhibit ONE's sentence of *is-* re-said as *is-or-is-not*, with 4's and 11's | the strange reading answered | none: one sentence | with Exhibit ONE incoming |
+
+- A better method of naming the seventeen, whole: none found. Three parts of the four are cohering, and their differencings are of meaning.
+- A possible gain in the code's names, one: *is-* with none. All or none, and whole, with the work of a renaming in the code, in 16 living files and in a kit, and no harm to the code's doing. It is the person's and a next version's, with each partner agreeing; this working says it, and does not do it.
+- Possible gains with no harm, two, in Exhibit ONE's sentences only: its sentence of *is-* as *is-or-is-not*; and each name's three beside it, with *me*, *other* and *all*.
+- Not for now: a three of prefixes in the code's names, until partings 2.69, 2.101 and 2.105 are resolved.
+
 ---
 
 ## 6 Open, each one binary
