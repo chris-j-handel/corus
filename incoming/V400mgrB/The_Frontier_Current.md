@@ -143,6 +143,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-o. Each four-cycling of Exhibit ONE's names is valuable for Exhibit ONE incoming.
 6z-p. 3-is-now-co-observing is distinguishing, is-or-is-not, now-existing other-parity the same as prior-existing other-parity. 15-is-next-observing is distinguishing, is-or-is-not, now-existing all-parity the same as prior-existing all-parity.
 6z-q. An idea for the method: of the two sentences of a place, each is shown a step farther, to its first incohering.
+6z-r. With none of its others with it, a self's next prior parity is the same as its prior parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -800,8 +801,14 @@ Sentence 6z-p has 3 and 15 each as a distinguishing, is-or-is-not, of a now-exis
 
 Sentence 6z-q has each sentence of a place shown a step farther, to its first incohering. With Exhibit ONE's code one resolving on: a self's prior is provided, with a first resolving; its others' parity of the now before, with a changing; the same as theirs, with the same; and the other of its prior, with none of its others with it or with two of them not the same. Sentence 6x-n has the first me-parity as inherited from prior living, and sentence 6z-g a me's prior-existings as a me-parity. Sentence 6y-q has other-parity as of the between of self and other. In the code a self in 16 is its 13-is-next-discovering with its 3 and its 2; *key* is a word of Python and of the readings.
 
-- With none of its others with it, is a self's next prior, the other of its prior, an other-parity: is, or is not?
+- The other of a self's prior, with none of its others: re-said. With none, a self's next prior is the same as its prior, sentence 6z-r. Exhibit ONE's code and its sentences have the other of its prior: a parting, tracked.
 
-### 3.91 With no reading yet
+### 3.91 The whole, and the area now
+
+This part of the working is hard to follow, and the whole is asked for, with the area now in it. The folder's README, section 0.1, has the whole in six areas. The area now is the sixth: Exhibit ONE's seventeen names read with the sequence, and in it *observing*, the third of each four-cycling.
+
+- Is the area now, Exhibit ONE's names read with the sequence, the area to go on with: is, or is not?
+
+### 3.92 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
