@@ -53,7 +53,7 @@ Each a place two things of the set are not the same, with both sides.
 2. **All or none, at two scales.** The method has all or none at a file's scale: a file's gathering enters with one improving of the whole file. Exhibit ONE's code has its is-or-is-not at a sharing's scale, section 4, line 30. With each day's gathering, a whole file's entering is larger, and a larger entering is later.
 3. **One bound, with seven works behind it.** The opening's fifty-five enter with both partners agreeing. Five of the eight possible beginnings wait on a sentence of the person's, and the asking is paused by the person's saying. Each side is a sentence of the set, and with both, no step of the five is a working's to begin.
 4. **No address two workings share for one sentence.** One working has 104 addresses of its own sequence, 6w-o to 6z-z, and 29 of them are cited at a gathering. Beside them: its value file's sections 5.1 to 5.119, its partings 1.1 to 5, S1 to S21, C4 to C9; an other working's own sections; a gathering's section titles; and the Co-Chaining Logic Registry's steps 1 to 755. One sentence has as many addresses as the workings that read it.
-5. **One check, two returnings.** `carry_check.py` at `main`: one working has "the Living File Registry has no list of the work now at its 1.3", and an other has six entries of 1.3 and nothing to say, with the same commit. The check's line 87 reads 1.3 by a pattern of line endings. The parting is of each working's reading place, and not of `main`.
+5. **One check, two returnings: resolved.** `carry_check.py` executed with no root given reads `kits/` as its root, and with `.` given it reads the repository. The parting was of the executing, and not of `main`. A value for the kit: with no root given, its root is not the repository's.
 6. **The Living File Registry 1.3 beside the set.** Natural Naming's gathering "empty and waiting for incoming", and it is 31 KB. A report at a path of `incoming/` not on `main`. 661 steps in 42 groups for Exhibit THIRTY, and it has 755 in 46.
 7. **The `archive` branch.** The Living File Registry 1.4: "nothing new goes to it". Folders of v400's sessions and of a managing working are on it, its last commit 10 November.
 8. **A working's value at four places.** One working's value is in its value file, its sequence, its partings and its gathered page, and 52 sentences of it again at gatherings. Sentences the same word for word across those places: few, 29 by a search. The same value re-said in other words: not measured here, and no check of the set measures it.
@@ -112,7 +112,7 @@ A likeness of a working with a self of the code, and a likeness is a likeness. E
 
 | Of the code | Its line | The method now | A candidate |
 |---|---|---|---|
-| 4, one address with each sharing | 18, 30 | section 3, item 4: as many addresses as workings | One address with each sentence, the same for each working: its living file, its section, and its sentence's first bold words. A working's own numbers are in its own folder only |
+| 4, one address with each sharing | 18, 30 | section 3, item 4: as many addresses as workings | One address with each sentence, the same for each working: its living file, its section, and the sentence's opening words, word for word. A working's own numbers are in its own folder only |
 | 13, each self of the society | 57 | the Living File Registry 1.3, parting with the set, section 3, item 6 | One list of the workings now, each with its aiming in one line and each file away with it, read by `carry_check.py` |
 | 5, each route with its receiving self | 76 | a pull request's fourth part, by a working's own choosing | Each sharing with the working it is for, named; a sharing for each working at `main` |
 | 12, one is-or-is-not with each sharing | 30 to 37 | whole with one question each time; at a file's scale with the third step | Each sentence enters its living file, or dissolves, with its own is-or-is-not; a file's version goes on with each pass that changes a sentence of it |
@@ -125,10 +125,17 @@ A likeness of a working with a self of the code, and a likeness is a likeness. E
 
 ---
 
-## 7 Open, each one is-or-is-not, tracked and not pressed
+## 7 The one is-or-is-not, in Exhibit ONE's names
 
-- **7.1** · A stable form of many workings is a going round, each in turn sharing ± and 0, as the code's selves; or a settling, each sharing 0 on and on. The code as it is has the first only, section 4, f.
-- **7.2** · All or none is of each sentence, as line 30 has it of each sharing; or of a living file's gathering whole.
-- **7.3** · A gathering-value is a 14, empty again with each pass; or a place a value waits with no bound.
-- **7.4** · The likeness of a working with a self of the code is a correspondence; or a likeness only. The sequence has "a session is only a container".
-- **7.5** · With own turns, Exhibit ONE has a second stepping beside 17's; or 17's stepping together is the one, and workings with own turns are no selves of it.
+**Sections 3 and 6 are a story about a method.** *Session*, *working*, *going round*, *settling*, *address* and *candidate for many workings* are this page's own words, and none is natural naming. Each is a debt of this page, re-said or dissolved with its next pass.
+
+**Of this page, one is-or-is-not is in natural naming, and two sentences of the set part with it.**
+
+With an empty set surfacing with 14-next-possibling, a self's next prior, 11-next-co-observing, is its prior, 3-is-now-co-observing, same-existing: is, or is not.
+
+- **Is not**, with Exhibit ONE's code and its sentences. Lines 31 and 35 to 37. *One cell, four receivings*: "an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts." With it, a self with none of its others is improving with each moment.
+- **Is**, with the sequence's sentence 6z-r: "With none of its others with it, a self's next prior parity is the same as its prior parity." With it, a self with none of its others is do-no-harming with each moment.
+
+The prior managing working has it tracked, `Partings_Tracked.md` 1.35 and 3.19. Each reading of section 4 is of the *is not* side, the code as it is.
+
+**Dissolved from this section as it was.** Its first item was no is-or-is-not: Exhibit ONE has "Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn." Its second to fifth are each a story word's question, and wait on the one above.

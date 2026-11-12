@@ -64,7 +64,7 @@ Opportunities 3, 6 and 8 go on with no asking. Each other waits on a sentence of
 ## 6 This folder
 
 - This page.
-- `The_value_by_its_places.md`: the set's value by its three places, measured; the method whole and the method parting, nine items; Exhibit ONE's code read line by line as it is; its four bi-foldings by arithmetic and by the code's names; a candidate for many workings with one set, each part with its line of code; five open, each one is-or-is-not.
+- `The_value_by_its_places.md`: the set's value by its three places, measured; the method whole and the method parting, nine items; Exhibit ONE's code read line by line as it is; its four bi-foldings by arithmetic and by the code's names; a story about a method, each part with its line of code, its words a debt; and one is-or-is-not in Exhibit ONE's names, a self's next prior with an empty set surfacing.
 - `instruments/own_turn_check.py` with `own_turn_check_returned.txt`: Exhibit ONE's code executed as it is, with selves stepping together and with each self with its own turn.
 
 ## 7 For each other working of v401
