@@ -2334,12 +2334,28 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code, the six in its sequence.* In 1: a self's 2, its others' with it; 14 of it; and 10, its sharing. In 17: 10 as 6; each by 9 with 5, a pair of the self with 6, with 10 or with 9; each in its receiving self's 14; and 17's returning, each self's 14 its next 2.
 - *Bi-moral co-competencing, with Exhibit ONE's namings.* 6 has the naming bi-moralizing, "each parity across, to an other's 2-now-possibling". 5 has co-competencing, "bi-couplings, each self's with its others: each going to its receiving sharing". Two across pairs, and one along pair by 5: the 5 of the ten's one and one is the along's bi-couplings.
 - *The ten's is-or-is-nots, with Exhibit ONE's table of ten.* Eight are of a parity, with the names of the thirds, 3, 7 and 15, 11's with 7's. Two are of no parity: each self, all or none, with 13; and a bi-coupling of 5, or not, with 4. The one and one, 13 and 5, are with the two is-or-is-nots of a self and of a bi-coupling. Section 5.113's second table has each fourth's is-or-is-not as the third before it: the four and four are four pairs.
-- *Each conflict with all or none at all.*
-- Going on: each second, each third and each fourth is whole. The three sharing sides and the three observing sides are whole. The one and one are the two is-or-is-nots of no parity.
-- Turning away: the three within 1 and the three within 17, as a grouping of names.
-- For breaking, one: Exhibit ONE has three pairs, 6 with 2, 10 with 14, and 9 with 17. In the code each sharing, by 6, by 10 or by 9, is gathered in its receiving self's 14 and is its next 2, with no distinguishing of the three. Three pairs by the names, one gathering by the code.
-- For breaking, two: each first is not whole. 1, 9 and 17 are doings, the code's three functions; 5 and 13 are the given, each bi-coupling and each self. And 9 and 17 are each a first and an along name.
-- For breaking, three: 4 has the is-or-is-not of a bi-coupling of 5; by the four and four it is a corus with 3 before it, and by the table of ten it is with the one and one.
+- *Each grouping, whole or not whole, with all or none at all. Re-said with section 5.118.*
+- Whole: each second, each third and each fourth. The three sharing sides and the three observing sides. The one and one, with the two is-or-is-nots of no parity.
+- Not whole: the three within 1 and the three within 17, as a grouping of names.
+- Not distinguished, one: Exhibit ONE has three pairs, 6 with 2, 10 with 14, and 9 with 17. In the code each sharing, by 6, by 10 or by 9, is gathered in its receiving self's 14 and is its next 2, with no distinguishing of the three. Three pairs by the names, one gathering by the code.
+- Not distinguished, two: each first. 1, 9 and 17 are doings, the code's three functions; 5 and 13 are the given, each bi-coupling and each self. And 9 and 17 are each a first and an along name.
+- Not distinguished, three: 4 has the is-or-is-not of a bi-coupling of 5; by the four and four it is a corus with 3 before it, and by the table of ten it is with the one and one.
+
+### 5.118 Four words of a story, re-said: whole, not whole, not distinguished
+
+- *Conflict*, *going on*, *turning away*, *for breaking*: a story, and no natural naming and explaining. Not one is seen in the explaining to now.
+- Is: a story, in section 5.117's last part. Each of the four, observed with Natural Naming and each living file.
+
+| The word | In Natural Naming | In each living file | Its naming |
+|---|---|---|---|
+| *conflict* | none | 49, as fields' words | no naming |
+| *turning away* | *turn*, *turning*, *turning back* are dissolved, 2.1 | 1 | a dissolved word |
+| *for breaking* | none | none | a phrase of this working only, in 62 of its sentences and 7 gathering items |
+| *going on* | 139 | 1,575 | natural naming, of a thing with its next; in section 5.117 a story's word, of the exploring |
+
+- Re-said, in natural naming: a grouping is *whole*, or *not whole*; and one with two sayings and no is-or-is-not yet is *not distinguished*. Section 5.117's last part is re-said with the three.
+- *For breaking* was this working's word of a candidate and of a likeness, with the tracking of each all or none at all breaking possibility. Re-said from now: *a candidate*, and *not distinguished*.
+- A debt: *for breaking* in 62 sentences of the working files and 7 items of five gatherings, *conflict* in 15 sentences, *turning away* in 3. Not yet re-said.
 
 ---
 

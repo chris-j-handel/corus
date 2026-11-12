@@ -150,6 +150,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-v. The asking is paused, for the moment. Asked: a better method of naming 1 to 17 in the code; a possible parting in the naming method, the prefixing with it; a possible gain by adding or changing a prefix or a name; a do-no-harm improving from this session's learning.
 6z-w. The two are bothboth on removing the *is-* prefix, from the Python code and from natural naming: a position, and not yet a doing.
 6z-x. Asked, an exploring: the four across and the two along of bi-moral co-competencing, visible in 1 to 17, the six with one, 1, 9, 17, 2, 6, 10 and 14; the six as two loops of three, each rolling out of the other; the ten others as four and four and one and one. The conflicts with all or none at all are the turning away and the going on.
+6z-y. *Conflict*, *going on*, *turning away*, *for breaking*: a story, and no natural naming and explaining; not one is seen in the explaining to now.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -851,7 +852,7 @@ The asking is paused, by sentence 6z-v, and this place has no question. Each ope
 
 ### 3.98 The seven and the ten
 
-The asking is paused, and this place has no question. Sentence 6z-x asks the six and one, and the ten, visible in the seventeen. By its four-cyclings: each second is across, 2, 6, 10 and 14; 9 and 17 are along, each a first, and 1 a first; each third is an observing, each fourth a same-existing name, and 5 and 13 the one and one, each bi-coupling and each self. The six are whole as four across and two along, and as three sharing sides, 6, 10 and 9, and three observing sides, 2, 14 and 17, with a self's 1 between: two threes, each rolling out of the other. Exhibit ONE has three pairs by the names, and its code one gathering, in 14: for breaking. The value file's section 5.117 has it whole.
+The asking is paused, and this place has no question. Sentence 6z-x asks the six and one, and the ten, visible in the seventeen. By its four-cyclings: each second is across, 2, 6, 10 and 14; 9 and 17 are along, each a first, and 1 a first; each third is an observing, each fourth a same-existing name, and 5 and 13 the one and one, each bi-coupling and each self. The six are whole as four across and two along, and as three sharing sides, 6, 10 and 9, and three observing sides, 2, 14 and 17, with a self's 1 between: two threes, each rolling out of the other. Exhibit ONE has three pairs by the names, and its code one gathering, in 14: not distinguished. The value file's section 5.117 has it whole.
 
 ### 3.99 With no reading yet
 
