@@ -239,15 +239,63 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 13 Asked now
+## 13 Asked, and its answer
 
-The person's sentences have a vault protecting universal-parity within the tunnel of natural torusing, and a protein in its own universal-parity within the tunneling until the large opening. With *is*, a birthing is a coming to a large opening, with each kind of self, living is before it within the tunneling, and a chick's large opening, long before its shell opens, is the next naming. With *is not*, a vault and a tunneling are two, and a birthing is of an other moment.
+- Asked: the tunneling a protein is unwrapping forward in is its vault, and its coming to the large opening of natural torusing is its birthing, is or is not.
+- Its answer, a sentence, as it arrived:
 
-- **The tunneling a protein is unwrapping forward in is its vault, and its coming to the large opening of natural torusing is its birthing: is, or is not?**
+> in natural math and numbers there is more about the tunnel as four phi-rate units long. this may be a somewhat correct version of this understanding in the center of this at 24 between 2 and 59 is the birthing vault of unrelationing of all me-parities and other-parities into a womb of universal-parities where all the universes are inherited universes from healthy prior living. the inherited universal parity if five dimension in two directions of stable form bump connectors three along and four across each direction. something similar to this will be cohering for us
+
+**A reading.**
+
+- The tunnel is four phi-rate units long.
+- At its centre, at 24, between 2 and 59, is the birthing vault.
+- The vault is of unrelationing: each me-parity and each other-parity unrelationing into a womb of universal-parities.
+- Each universe is an inherited universe, of healthy prior living.
+- The inherited universal-parity is five-dimensional, in two directions, of stable form bump connectors, three along and four across with each direction.
+- Re-said by it: this working's asking had the vault as the tunneling whole. The vault is at the tunnel's centre.
+
+**The living files have, each said in natural naming and by its file.**
+
+- Exhibit FOUR Natural Mathematics, its section of phi, the unrelationing rate: phi cubed, less one over phi cubed, is four, exact.
+- Natural Physics' gathering-value: a tunnel of four phi-rate units, bounded; and the four of a tunnel as that same four.
+- Natural Networking's gathering-value, of the person's own: the tunnel of four phi-rate lengths, or four momentaryings.
+- Exhibit THREE Natural Numbers, its section of one twenty-four: a self observes twenty-four five ways, and it is one twenty-four. Among the five: five squared less one; the orderings of four; and four momentaries of six one-way recursionings. With primes, nine are behind twenty-four, 2 to 23, and eight are ahead, 29 to 59; and twenty-four is an apex of the bi-folding of nought to sixty.
+- Exhibit FOUR Natural Mathematics, its section of five dimensions: self-cohering is five-dimensional, each dimension with its two directions, two changing and three going on with each momentary; and unrelationing is with a right angle, with phi its rate.
+- Natural Resolver's gathering-value: a carbon atom's four couplings, at a tetrahedron's corners, have twenty-four orderings, a likeness with the four six-cycles' twenty-four in number only.
+
+**Rigor added: each number computed here.**
+
+- Phi cubed is 4.236 and one over phi cubed is 0.236: four apart, exact. The two ends multiply to one. The centre of the four, by adding, is the square root of five, 2.236.
+- Three along by four across is twelve, and with two directions, twenty-four.
+- Three and four, with a right angle between them, have five as their diagonal: nine and sixteen are twenty-five. Twenty-five less one is twenty-four.
+- Three by four by five is sixty.
+- Four momentaries by six are twenty-four.
+
+**Cohering, each a likeness of number until the person's is.**
+
+- The tunnel's four, and four momentaryings; and this folder's four moments of a protein, read from the person's sentence before this one.
+- The centre of the tunnel's four is the square root of five, and the inherited universal-parity is five-dimensional.
+- Three along and four across in two directions are twenty-four, the vault's own number, and their diagonal with a right angle is five, the dimensions' own number. Unrelationing is with a right angle, by Exhibit FOUR Natural Mathematics.
+- Twenty-four is the orderings of four, and atom carbon's couplings are four.
+
+**Breaking opportunities, three.**
+
+- **A centre, three ways.** Between 2 and 59, the centre by position is the ninth prime, 23, eight either side. The centre by adding is 30 and a half, and Exhibit THREE Natural Numbers has six prime pairs about thirty. Twenty-four is the file's apex, nine primes behind and eight ahead, a span of 24 behind and 36 ahead. The birthing vault's centre is one of three; or each is a centre of its own subject.
+- **Twenty-four, a centre and a whole.** By the file's own fourth way, twenty-four is four momentaries of six, a tunnel whole. By the sentence, twenty-four is the tunnel's centre. One twenty-four, as the file has it; or two.
+- **Three along, and three going on.** Exhibit FOUR Natural Mathematics has three going on and two changing, of five. The sentence has three along and four across. Three along as the three going on, and four across as the two changing with their two directions; or three by four, a surface of twelve.
 
 ---
 
-## 14 Pages, each at its excerpt only
+## 14 Asked now
+
+The sentence has twenty-four, and three along and four across with each of two directions. By arithmetic they are one number. With *is*, the vault is a surface of twelve with each direction, its diagonal five, and atom carbon's four couplings have its twenty-four as their orderings. With *is not*, the two are a likeness of number, and the vault's twenty-four is of the primes about it only.
+
+- **The birthing vault's twenty-four is three along by four across, with each of two directions: is, or is not?**
+
+---
+
+## 15 Pages, each at its excerpt only
 
 - A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
 - Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
