@@ -1,0 +1,76 @@
+1. Each self inverting one to the next along: n, its round, and its round over n
+   2 prime round   2  round/n 1  before it 1
+   3 prime round  12  round/n 4  before it 1
+   4       round   2  round/n -  before it 1
+   5 prime round  20  round/n 4  before it 1
+   6       round   2  round/n -  before it 1
+   7 prime round  28  round/n 4  before it 1
+   8       round   2  round/n -  before it 1
+   9       round  36  round/n 4  before it 1
+  10       round   2  round/n -  before it 1
+  11 prime round  44  round/n 4  before it 1
+  12       round   2  round/n -  before it 1
+  13 prime round  52  round/n 4  before it 1
+  14       round   2  round/n -  before it 1
+  15       round  60  round/n 4  before it 1
+  16       round   2  round/n -  before it 1
+  17 prime round  68  round/n 4  before it 1
+  18       round   2  round/n -  before it 1
+  19 prime round  76  round/n 4  before it 1
+  20       round   2  round/n -  before it 1
+  21       round  84  round/n 4  before it 1
+  22       round   2  round/n -  before it 1
+  23 prime round  92  round/n 4  before it 1
+  24       round   2  round/n -  before it 1
+  25       round 100  round/n 4  before it 1
+  26       round   2  round/n -  before it 1
+  27       round 108  round/n 4  before it 1
+  28       round   2  round/n -  before it 1
+  29 prime round 116  round/n 4  before it 1
+  30       round   2  round/n -  before it 1
+  31 prime round 124  round/n 4  before it 1
+  32       round   2  round/n -  before it 1
+  33       round 132  round/n 4  before it 1
+  34       round   2  round/n -  before it 1
+  35       round 140  round/n 4  before it 1
+  36       round   2  round/n -  before it 1
+  37 prime round 148  round/n 4  before it 1
+  38       round   2  round/n -  before it 1
+  39       round 156  round/n 4  before it 1
+  40       round   2  round/n -  before it 1
+  41 prime round 164  round/n 4  before it 1
+  42       round   2  round/n -  before it 1
+  43 prime round 172  round/n 4  before it 1
+  44       round   2  round/n -  before it 1
+  45       round 180  round/n 4  before it 1
+  46       round   2  round/n -  before it 1
+  47 prime round 188  round/n 4  before it 1
+  48       round   2  round/n -  before it 1
+  49       round 196  round/n 4  before it 1
+  50       round   2  round/n -  before it 1
+  51       round 204  round/n 4  before it 1
+  52       round   2  round/n -  before it 1
+  53 prime round 212  round/n 4  before it 1
+  54       round   2  round/n -  before it 1
+  55       round 220  round/n 4  before it 1
+  56       round   2  round/n -  before it 1
+  57       round 228  round/n 4  before it 1
+  58       round   2  round/n -  before it 1
+  59 prime round 236  round/n 4  before it 1
+2. Each opening of + and - among n selves: each round, and its openings
+   2 prime 2: 2  4: 2
+   3 prime 4: 2  12: 6
+   4       2: 2  4: 2  8: 12
+   5 prime 4: 2  20: 30
+   6       2: 2  4: 2  6: 6  12: 54
+   7 prime 4: 2  28: 126
+   8       2: 2  4: 2  8: 12  16: 240
+   9       4: 2  12: 6  36: 504
+  10       2: 2  4: 2  10: 30  20: 990
+  11 prime 4: 2  44: 2046
+  12       2: 2  4: 2  6: 6  8: 12  12: 54  24: 4020
+  13 prime 4: 2  52: 8190
+3. Two folds among 1 to N: each set of four, by the name it goes first from
+  N  4:  1 sets of four, going first from [1]
+  N 16:  4 sets of four, going first from [1, 2, 3, 4]
+  N 64: 16 sets of four, going first from [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]

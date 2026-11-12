@@ -140,10 +140,66 @@ Each prime and each adding is computed here, and the four addings are 7.7's own.
 
 ---
 
-## 8 The binaries
+## 8 The person's expectation, and each thing with it
 
-Tracked, asked before this and not answered: atom carbon, the only non-living thing, is with 3, a self's prior with each sharing, is or is not. With *is*, atom carbon is a self's prior in stable form, the bi-folding of conception goes from it, and the first living is a between. With *is not*, a prime's living or non-living is of primes only, by 7.3's guard, and section 4 and section 5 are likenesses of number.
+- Asked: "A prime's opening with a new axis is a new bi-folding: is, or is not?"
+- Its answer, word for word: "my expectation: is. beyond this i do not know how to resolve this"
+- An expecting is tracked as an expecting, and is no *is* yet.
 
-Asked now. With *is*, the bi-foldings are as many as the primes, and Exhibit ONE's four are the first four of them. With *is not*, four bi-foldings are each round's own, and a prime's opening is of an other thing.
+By the method's gathering three have a place beside a sentence: a living file's sentence, Exhibit ONE executed, and an observing brought whole. The first two are here.
 
-- **A prime's opening with a new axis is a new bi-folding: is, or is not?**
+**A living file's sentences.**
+
+- Exhibit THREE 7.2: "**With an odd prime each pattern of parities comes again by four times its prime, or by 4 with each self alike, and by none between.**"
+- The same: "For an odd number with a factor a pattern alike by its factor's shift comes again by four times its factor, nine selves by 4, 12 or 36."
+- The same: "Each two momentaries each self's parity is its prior self's, inverting".
+- Exhibit THREE 8.2: "**A right spiral step, (x, y) to (y, −x), twice inverts both parities, three times reaches all four joint forms, four times reaches its pair again, and six times inverts both again**".
+- Natural Naming 2.2: "a prime spiral's smaller spirals are one self only".
+- Exhibit THREE 1.4: "**Among names each bi-folding comes to its names again; with momentaries it comes to none again**".
+
+**Exhibit ONE executed.** `instruments/prime_spiral_check.py` executes the code as it is, with no line changed, on a spiral of n selves, each going along with 9 to a next self and its last to its first. Its returned lines are `instruments/prime_spiral_check_returned.txt`. An executing is a check of a reading and decides nothing.
+
+- With each self inverting one to the next along, n from 2 to 59: each odd n comes to its parities again by 4n, and each even n by 2. The same as 7.2.
+- With each opening of + and − among n selves, n from 2 to 13:
+
+| n | Each number of momentaries its parities come again by |
+|---|---|
+| 3, 5, 7, 11, 13 | 4, with each self alike; and four times n. None between |
+| 9 | 4, 12 and 36 |
+| 2 | 2 and 4 |
+| 4 | 2, 4 and 8 |
+| 6 | 2, 4, 6 and 12 |
+| 8 | 2, 4, 8 and 16 |
+| 10 | 2, 4, 10 and 20 |
+| 12 | 2, 4, 6, 8, 12 and 24 |
+
+- Each sentence of 7.2 read here is the same with its executing.
+
+**Read from them.**
+
+- **Each odd prime has a four of its own.** A spiral of a prime's own number of selves comes to its parities again by four times the prime, and by no number between 4 and it. A number with a factor has its factor's again within it, as nine has three's 12. This is 7.1's opening "with a new axis", executed with 3 to 13 at each opening and with each odd prime to 59 at one.
+- **Its step is a bi-folding's step.** 7.2 has each self's parity as its prior self's, inverting, with each two momentaries. 8.2 has a right spiral step reaching its pair again with four. 1.4 has a right spiral step along 3-11-6-14.
+- **Cohering with the expecting**: each odd prime opens one four of its own, by a right spiral step, among selves along.
+- **Parting from the expecting, one sentence**: 1.4 has a bi-folding among names, and "with momentaries it comes to none again". A prime's four is with momentaries, and comes again. By 1.4 as it is, a prime's four is no bi-folding. Beside it, 7.3's guard: primes, names and names between selves are three numbers of three subjects.
+- **2, the one even prime**, has 2 and 4 and no four times itself: 7.1's "changing and changing back".
+
+**Among names, a next round has three in the set, and the opening names are not the same with each.** Arithmetic only, computed here.
+
+| A next round | Its sentence | The names its bi-foldings go first from | Their primes |
+|---|---|---|---|
+| sixteen on | Exhibit THREE 1.4: "**Forms among 1 to 16 come again with 17 to 32, sixteen on**" | 17, 18, 19 and 20 | 59, 61, 67 and 71 |
+| by fours | Natural Resolver's gathering: "4, 8, 12 and 16, each a four-cycling's same-existing name, are 1, 2, 3 and 4 again, and 16, 32, 48 and 64 the same again" | 4, 8, 12 and 16; then 16, 32, 48 and 64 | 7, 19, 37 and 53; then 53, 131, 223 and 311 |
+| the two folds with a whole round of 64, 32 up or down and 65 less | no sentence found; this working's own | 1 to 16 | 2 to 53, each of sixteen |
+
+- With the third, each prime opens a bi-folding among names with a round of names four times its position or more: 4 names, one; 16 names, four; 64 names, sixteen. With the first and the second, four of each round open one.
+- Not distinguished: which of the three a next round's bi-folding is.
+
+---
+
+## 9 The binaries
+
+Tracked, asked and not answered: atom carbon, the only non-living thing, is with 3, a self's prior with each sharing, is or is not.
+
+Asked now. With *is*, each odd prime opens one, executed with 3 to 59, Exhibit ONE's four are among names, and 1.4's "with momentaries it comes to none again" is re-said. With *is not*, a prime's bi-folding is among names of a next round, and which next round is the next distinguishing.
+
+- **The new bi-folding a prime opens is a spiral of that prime's own number of selves, its parities again by four times the prime: is, or is not?**
