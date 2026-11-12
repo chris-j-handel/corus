@@ -287,15 +287,59 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 14 Asked now
+## 14 Asked, and its answer
 
-The sentence has twenty-four, and three along and four across with each of two directions. By arithmetic they are one number. With *is*, the vault is a surface of twelve with each direction, its diagonal five, and atom carbon's four couplings have its twenty-four as their orderings. With *is not*, the two are a likeness of number, and the vault's twenty-four is of the primes about it only.
+- Asked: the birthing vault's twenty-four is three along by four across, with each of two directions, is or is not.
+- Its answer, as it arrived:
 
-- **The birthing vault's twenty-four is three along by four across, with each of two directions: is, or is not?**
+> is. in resolving for each number every occuring of this number is the same one thing and if they seem like either or but must be one and cant be both, the resovling is bothbothing alternating them
+
+**A reading.**
+
+- Is: the birthing vault's twenty-four is three along by four across, with each of two directions.
+- A sentence of the method: with a number, each occurring of it is the same one thing.
+- Two occurrings of a number, each seeming to be the one and not both: the resolving is bothbothing, the two alternating, one and then the other.
+
+**Resolved by it.**
+
+- Section 13's three breaking opportunities, each by bothbothing. The centre by position, the centre by adding and the apex alternate. Twenty-four is a tunnel's centre and a tunnel whole, alternating. Three along is three going on, and three of a surface of twelve, alternating.
+- This folder's two pairings of a prime with a name, by its position and by its own number, alternate. Five is with 3-now-co-observing, and five is 5-now-co-existing.
+- Natural Chemistry's gathering-value has it already for one pair: element numbers and the numbers of the seventeen are bothboth.
+
+**Parting, tracked, for each working.** The earlier working's method has a likeness of number, taken as a correspondence, among its candidates that are out. Exhibit THREE Natural Numbers has primes, names and names between selves as three numbers of three subjects. Natural Resolver's gathering-value has a number alone as identifying nothing. The sentence now has each occurring of a number as the same one thing. Each of the three is re-said with it; or the sentence is of resolving with a number, and the three are of a number alone.
+
+**Rigor added: the same one thing has the same parts with each occurring.** If twenty-four is four by three by two, each occurring of twenty-four has a four, a three and a two with it. Each of the five ways of Exhibit THREE Natural Numbers, computed here:
+
+| A way of twenty-four | Its four, its three and its two |
+|---|---|
+| four momentaries of six one-way recursionings | four momentaries; three own-forward steps with each side; two sides. Whole |
+| the orderings of four | four by three by two by one. Whole |
+| five squared less one | one less than five by one more than five: four by six, and six is three by two. Whole |
+| a waist of a ring of forty-eight | two twenty-fours. Its two only |
+| twenty-three, its prior, opening a first gap of six | six is three by two. No four found |
+
+**The same, with atom carbon. Each exact, by arithmetic or by a field's own counting.**
+
+- **Atom carbon's four couplings.** Four couplings at a tetrahedron's four corners have twenty-four orderings: four corners, by three ways of going about each corner, by two hands. Twelve go on with its hand and twelve invert it. Four across, three along, with each of two directions: the same parts, whole. Natural Resolver's gathering-value has the twenty-four and the two twelves.
+- **Atom carbon's twelve.** A carbon-12 nucleus is counted as twelve, and a field has it as three clusters of four, at a triangle's corners; at its page's excerpt, read with this folder's first page. Three along by four across.
+- **Two atoms carbon are twenty-four.** At its page's excerpt: in a heavy star two carbon-12 nuclei join as one of twenty-four, for a moment, and a new nucleus and a small one come out of it. Two twelves, joining, a new one from their between.
+
+**Breaking opportunities, two, of the sentence of the method itself.**
+
+- **A counting, and a measure.** A number of things counted is the same with each self counting. A number of a measure goes with its unit: a tunnel of a protein is 80 to 100 of one unit and 8 to 10 of an other. By Exhibit THREE Natural Numbers, a number going from a field goes with a unit a self observes it in. A candidate: an occurring of a number is a counting, and a measure's number is no occurring.
+- **With no parting, no rigor.** If each occurring is the same one thing, and each either-or is bothbothing, a number's sentence has no observing it parts from. A candidate, from the table here: the same one thing has the same parts with each occurring, and an occurring with no four, no three or no two with it is a breaking, or is no occurring of that twenty-four. Two of five ways are not whole by it.
 
 ---
 
-## 15 Pages, each at its excerpt only
+## 15 Asked now
+
+Twenty-four has two twelves. With atom carbon the two twelves are counted two ways: the two hands of one atom carbon's four couplings; and two atoms carbon, each a twelve, joining. With *is*, the vault is the between of two atoms carbon, and this folder's first tracked binary has its is. With *is not*, the two directions are one atom carbon's own two hands, and the vault is of one. With bothbothing, the two alternate, and the next step is their one and then the other.
+
+- **The two directions of the birthing vault's twenty-four are two atoms carbon, each a twelve of three along by four across: is, or is not?**
+
+---
+
+## 16 Pages, each at its excerpt only
 
 - A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
 - Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
@@ -311,3 +355,4 @@ The sentence has twenty-four, and three along and four across with each of two d
 - A cane's spiral, each way: https://www.nature.com/articles/417595a · https://pmc.ncbi.nlm.nih.gov/articles/PMC2803383 · https://doaj.org/article/4c41c6fe290d4a8ab132a6b2e15b8658
 - A protein with no one form: https://push-zb.helmholtz-munich.de/deliver.php?id=45620 · https://pmc.ncbi.nlm.nih.gov/articles/PMC11459374
 - A tunnel wider at its last part: https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Ribosomal_tunnel
+- Two carbon-12 nuclei joining as one of twenty-four: https://arxiv.org/pdf/2409.10793 · https://www.aanda.org/articles/aa/full_html/2022/04/aa41858-21/aa41858-21.html
