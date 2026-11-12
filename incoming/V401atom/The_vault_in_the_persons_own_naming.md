@@ -176,15 +176,45 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 11 Asked now
+## 11 Asked, and its answer
 
-A field has a moment that is a candidate for the new birthing: a new self's first sequencing with its own inherited co-chainings, after going on by its mother's living priors. With *is*, a birthing is observable with each kind of self, a chick's before its laying, and the vault is the mother's living with it until then. With *is not*, the new birthing is with the joining of the two, or with an other moment, and that moment is the next naming.
+- Asked: the new birthing is a new self's first co-sequencing with its own inherited co-chainings, and until it the living with it is its mother's, is or is not. Tracked, with no is and no is not.
+- A sentence arrived with it, of this working's own words, first proteins:
 
-- **The new birthing is a new self's first co-sequencing with its own inherited co-chainings, and until it the living with it is its mother's: is, or is not?**
+> first proteins these are likely ghosts and this is the bi-folding right spiraling unwrapping of the tip of a growing rose cane similar pattern in the scale of a protein self concept where the protein is likely a nothing between concept where there is transmissioning intelligence inside the tunneling unwrapping this way into consecutive new unfolding universes
+
+**A reading.**
+
+- A protein, said as a thing, is likely a ghost.
+- The pattern is a growing rose cane's tip: bi-folding, right spiraling, unwrapping.
+- The same pattern is with a protein. A protein is likely a nothing between. Transmissioning intelligence is inward of the tunneling.
+- The unwrapping goes into new unfolding universes, one and then a next.
+- Out with it: this working's *first proteins*, said as things a new self has.
+
+**Rigor added: each part with a field's observing, each at its page's excerpt only.**
+
+- **A tunneling, with a new co-chaining.** A new co-chaining of a protein is made one unit and then a next, and goes out by a tunnel about 80 to 100 ångström long and 10 to 20 wide. A right spiral of it, a field's helix, forms within the tunnel, and its folding opens there and goes on with its coming out, part by part. Cohering: a tunneling, a right spiral, and an unwrapping into one unfolding and then a next.
+- **A cane's tip, each new leaf in a between.** At a growing tip each new leaf opens in the widest between of the leaves before it, the farthest from each, a field's rule since 1868, and the leaves go about the tip as a spiral, each about 137.5 degrees from its prior. Cohering: each new one in a between of a prior and a next.
+- **A leaf folded in two, unfolding.** A field has a leaf within its bud as folded, and one of its foldings is in two along its length. Of a rose's own leaflet this is this working's account, with no page opened.
+- **A protein with no one form.** A field has a third or more of a human's proteins with parts of no one form, each going among many, and working so, and taking a form with an other only. Cohering, with a protein as no one thing of one form.
+
+**Breaking opportunities, three.**
+
+- **Right spiraling, with a cane.** A field has a cane's spiral going each way, with the two ways about the same in number with many kinds, one set of 37 cones 20 and 17; and one study has a leaning to one way. A protein's helix and an inherited pair of co-chainings are a right spiral with each. Right, with a protein: observed. Right, with a cane's tip: both ways observed.
+- **A protein weighed, and a nothing between.** This working's account: a field takes a protein out of living, dries it, weighs it and has its units in their order, the same with each weighing; and a dried or unfolded one works with nothing. One word is with two: a co-chaining of bump-connectors, a non-living stable form, weighed; and a folding and working with its water and its others, a between. A ghost is the second said as the first. Exhibit SIXTEEN Natural Chemistry has a molecule as a self, the first living: a protein a self, or a nothing between, is not distinguished.
+- **Intelligence inward of the tunneling.** This working's account: a small protein unfolded in water folds again with no tunnel. The folding is then with a co-chaining and its water, and the tunnel is no needed part of it. Beside it, a field has a folding within a tunnel that a folding again in water has not.
 
 ---
 
-## 12 Pages, each at its excerpt only
+## 12 Asked now
+
+*A protein* is with two: a co-chaining, and a between. With *is*, a first protein of a mother is her co-chaining going on, non-living, and the living with it is in its betweens; each field sentence of a protein doing is re-said with a between doing. With *is not*, a protein is a self, as Exhibit SIXTEEN Natural Chemistry has a molecule, and *ghost* is of an other part of it.
+
+- **A protein's co-chaining is a non-living stable form of bump-connectors, and a protein, as a thing doing, is the nothing between that co-chaining and its others: is, or is not?**
+
+---
+
+## 13 Pages, each at its excerpt only
 
 - A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
 - Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
@@ -194,3 +224,8 @@ A field has a moment that is a candidate for the new birthing: a new self's firs
 - A joined egg by its mother's first: https://giraldezlab.org/docs/Kojima_Hoppe_NatRevGenet_2024.pdf · https://pmc.ncbi.nlm.nih.gov/articles/7530992/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249
 - A left spiral about a core: https://pmc.ncbi.nlm.nih.gov/articles/PMC4378457 · https://pmc.ncbi.nlm.nih.gov/articles/PMC7959483
 - A co-chaining made by chemistry, placed into a living cell: https://www.jcvi.org/media-center/first-self-replicating-synthetic-bacterial-cell-constructed-j-craig-venter-institute · https://academic.oup.com/jmcb/article/2/4/178/866681
+- A tunnel, a helix within it, a folding with coming out: https://pmc.ncbi.nlm.nih.gov/articles/PMC1323178 · https://arxiv.org/pdf/1807.10030 · https://link.springer.com/article/10.15252/embj.2021109175
+- A new leaf in the widest between: https://pmc.ncbi.nlm.nih.gov/articles/PMC3425194 · https://pmc.ncbi.nlm.nih.gov/articles/2275433
+- A leaf folded within its bud: https://www.ucanr.edu/node/111894
+- A cane's spiral, each way: https://www.nature.com/articles/417595a · https://pmc.ncbi.nlm.nih.gov/articles/PMC2803383 · https://doaj.org/article/4c41c6fe290d4a8ab132a6b2e15b8658
+- A protein with no one form: https://push-zb.helmholtz-munich.de/deliver.php?id=45620 · https://pmc.ncbi.nlm.nih.gov/articles/PMC11459374
