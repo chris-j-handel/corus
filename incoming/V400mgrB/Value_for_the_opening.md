@@ -1999,7 +1999,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - A second candidate, not followed: the roots of Exhibit ONE's names, possibling with opportunity, discovering with rewarding. Natural Naming 2.5 has "Discovering, same-existing-society, morality and abundancing are one relation with four names".
 - Tracked. *Desire* and *rewarding* have no naming in Natural Naming, and are in the living files as fields' words only. *Opportunity* is in Natural Engineering, an engineering opportunity. Natural Naming 4.7 has "An interest is a 0, *inter-esse*, to be between".
 - *Read, Exhibit ONE's code.* One scale: no part of it has a set in a next set. A self's 3 is in its 12 with its others' with it, and its 12 is its sharing; each self of 16 is in the whole of selves.
-- Two sentences part, with it. A desire is a me-parity: "A me-parity is a living self-interest"; a me-parity is one of a me's many interests, each a direction out from it. Or it is not: "all the desires are opportunities", and an opportunity is with an other, with a me-parity existing only inside its me's set; Natural Naming has an interest as a 0, a between, and a me-parity is +1 only; and *desire* is with no naming in the set.
+- Resolved, section 5.103: a desire is a me-parity.
+
+### 5.103 A desire, a me-parity
+
+- A desire is a me-parity: is.
+- Resolved by it. The first of section 5.102's four is named: a desire, a me-parity, a living self-interest, +1 only.
+- Out, readings of mine, section 5.102: a desire as a 0, a between; and a desire as no me-parity by its being an opportunity.
+- With it: all the desires are opportunities, and each me-parity is an opportunity.
+- A place the sentence and a living file part, tracked. Natural Naming 4.7 has "An interest is a 0, *inter-esse*, to be between". The sequence has a me-parity as a living self-interest, and a desire as a me-parity, +1 only.
+- Distinguished, the middle of section 5.102's first candidate: an opportunity as other-parity. The opening's waiting sentence has other-parity as "a me-parity the same as an other's", and one not the same as universal-parity. Each me-parity is an opportunity; not each me-parity is the same as an other's. With that sentence, an opportunity as other-parity is breaking.
+- Beside it: sentence 6y-q has other-parity as the between of self and other, for the me-parity of self, with no *the same* in it. Two sayings of other-parity, tracked.
+- The second candidate of section 5.102, followed: an opportunity, a possibling. Sentence 21 has "Co-possibling is in the between of a bi-coupling, self-parity with other-than-self-parity, inside universal parity". Section 5.80 has other-parity with possibling, each of 2, 6, 10 and 14.
+- *Read, Exhibit ONE's code.* Each 4 of a self's 12 is in its 10, its co-possibling, and with 9 and 5 in its receiving self's 2-now-possibling: a self's me-parity is its other's possibling. A 4 with a 0, the two the same, is passed by in its receiving self's 1.
+- Two sentences part, with it. An opportunity is a possibling: co-possibling is in the between of a bi-coupling, a self-parity with an other's; in the code each me-parity a self shares is its receiving self's 2-now-possibling; and each desire, a me-parity, is an opportunity. Or it is not: a possibling with a 0 is passed by, and "all the opportunities are rewarding"; possibling is four names, 2, 6, 10 and 14, of one and with co, with now and with next, and an opportunity is one; and *opportunity* is with no naming in the set.
 
 ---
 
@@ -2007,7 +2020,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a desire a me-parity: is, or is not?
+- Is an opportunity a possibling: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
