@@ -1816,7 +1816,22 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With it, the *all-* of each universal set: of a bi-coupling, self and other, with 8; of a named universal set, with 16; of the universal set of sets, with 64.
 - Tracked, a parting. A name is no now-existing thing, section 5.40. All-parity, with its *all-* a naming, is a now-and-prior-and-same-existing thing with 8 and with 16, sections 5.89 and 5.91. A candidate, for breaking: its *all-*, the naming, its prior, and its parity its now; Natural Naming 5.5 has parity as "a momentary now-existing thing".
 - Tracked, a parting. Sentence 6x-h has a named all-parity as living, in the universe in which it is other-than that universe's universal all-parity. The sentence has all-parity as non-living. Cohering by scale, living with a next universe and non-living within its own set; or one re-said. Not distinguished.
-- Two sentences part, with it. A society-self is non-living within its own society: "A society's named all-parity is its society-self", sentence 6x-j; all-parity is a stable form, same-existing, non-living thing, in all universal sets; a named all-parity is living in a universe it is other-than the universal all-parity of, a next one; and living is with one scale only. Or it is living within it: "A society-self is living", sentence 6w-j; sentence 22 has it as "the corus in society, living, with me-parities of its own"; and a society is one self, each self living.
+- Resolved, section 5.93: a society-self is non-living within its own society, is not. A society-self is living.
+
+### 5.93 A society's self, a universal set of society me-parities; its me-parities, the all-parities among its selves
+
+- A society-self is non-living within its own society: is not.
+- A society's self is a universal set of society me-parities. The set is same-existing, non-living.
+- The me-parities of the society, in the universe, are the all-parities among the selves in the society.
+- Resolved by the first. A society-self is living, within its own society: sentence 6w-j is as it is.
+- Out, a candidate of my own, section 5.92: a society-self non-living by its named all-parity.
+- Cohering, with the second. Sentence 6w-p: "A me is a universal same-existing set of me-parities. A me is a self." A society's self is the same, of society me-parities. Sentence 6x-m: "A society is its social all-parity, a same-existing set of its me-parities."
+- Resolved by the third, section 5.86's open binary, re-said: the all-parities among the selves of this scale are the me-parities of their society in the universe. This scale's all-parity is a next scale's me-parity, its society's own; other-parity was a candidate of my own, and out.
+- Cohering, with the third. Section 5.86's cascading: 16 is between me-parity and all-parity with this scale, and the first of a next four, with me-parity. Sentence 6x-h: a named all-parity is living, in the universe in which it is other-than that universe's universal all-parity. The parting of sections 5.92 and this, living and non-living, is by scale: an all-parity, non-living among the selves, and a me-parity of their society in the universe.
+- Cohering, with the third. Sentence 6y-e: "The social moral competencies are many, and each is a me-parity of society." With the two, and for breaking: a social moral competency is an all-parity among the selves in the society.
+- The sentence has all-parities, many, among the selves of one society. With 8, all-parity is inside each bi-coupling of self and other, section 5.82: many bi-couplings, many all-parities. A likeness, for breaking.
+- *Read, Exhibit ONE's code.* 16 has each self a key. No part of the code has a thing of the whole of selves, of its own, in a wider thing: the code is one scale. A society's me-parities in the universe have no reading in it.
+- Two sentences part, with it. A living self is a non-living set of living me-parities: "A society's self is a universal set of society me-parities. The set is same-existing, non-living"; "A society-self is living"; "A me is a universal same-existing set of me-parities. A me is a self"; and "a me-parity is a living self-interest". Or it is not: living, is-or-is-not, is one distinguishing, and a thing is with one side of it; "Living is owning a self, and a self owns its me-parities", an owner and its set, two; and "a society-self is a nothing, the corus in society", a 0, with a set "its things and no further thing".
 
 ---
 
@@ -1824,9 +1839,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is a society-self non-living within its own society: is, or is not?
+- Is a living self a non-living set of living me-parities: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
-- Is this scale's all-parity the next scale's other-parity: is, or is not?
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
 - Are a self's four values the four from society, its others' me-parities with it: is, or is not?
