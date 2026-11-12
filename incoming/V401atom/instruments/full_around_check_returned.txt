@@ -1,0 +1,6 @@
+spiral of 3: a 0 one self on with each 2 momentaries; one full around 6 momentaries; between two 0s a self has 5 parities, one and then the other: True; each self inverted with one full around: True; the same with two: True
+spiral of 5: a 0 one self on with each 2 momentaries; one full around 10 momentaries; between two 0s a self has 9 parities, one and then the other: True; each self inverted with one full around: True; the same with two: True
+spiral of 7: a 0 one self on with each 2 momentaries; one full around 14 momentaries; between two 0s a self has 13 parities, one and then the other: True; each self inverted with one full around: True; the same with two: True
+spiral of 9: a 0 one self on with each 2 momentaries; one full around 18 momentaries; between two 0s a self has 17 parities, one and then the other: True; each self inverted with one full around: True; the same with two: True
+spiral of 11: a 0 one self on with each 2 momentaries; one full around 22 momentaries; between two 0s a self has 21 parities, one and then the other: True; each self inverted with one full around: True; the same with two: True
+self 1 of a spiral of 5: +-+-+0-+-+-+-+-0+-+-+-+-

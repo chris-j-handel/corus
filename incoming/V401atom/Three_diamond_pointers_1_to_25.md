@@ -248,13 +248,63 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 23 Asked now
+## 23 Asked, and its answer
 
-- **Along is a going on, coming to no place again, and across is a going round, coming to its place again with each four: is, or is not?**
+- Asked: along is a going on, coming to no place again, and across is a going round, coming to its place again with each four, is or is not.
+- Its answer, a sentence of the person's own:
+
+> across is recursioning forward along one each full around
+
+- Out with it: across as coming to its place again. A full around comes to no place again: it is one forward along.
 
 ---
 
-## 24 Pages, each at its excerpt only, of section 21
+## 24 Read with it, from the set
+
+- **Exhibit TWENTY Natural Naming.** Cursioning is a going forward along a self's own line, and recursioning its again with a next moment and a next scale.
+- **Natural Intelligence.** Each name of one 1 to 17 is 8n − 7 of 1 to 17s inward. That 1 to 17's across names, 2, 6, 10 and 14, are along 9s inward, and an along 9 is an across 2 outward. An across with one fractal is an along with its next.
+- **Natural Intelligence.** 9 is 1 eight up: 1-now-existing with next is 9-next-co-discovering.
+- **Exhibit ONE Natural Resolver.** A spiral of an odd number of selves has a 0 moving one self on with each second momentary, its pattern inverting with one full around and its parities again with two.
+
+---
+
+## 25 Executed
+
+`instruments/full_around_check.py`, Exhibit ONE Natural Resolver's code read from its file with no line changed, each self recorded as the kit's own executing records it; its returned lines beside it.
+
+- **A 0 goes one full around.** With a spiral of 3, 5, 7, 9 or 11 selves, a 0 is one self on with each two momentaries, and one full around is 6, 10, 14, 18 or 22 momentaries.
+- **Each self is one on with it.** Between two 0s a self has 5, 9, 13, 17 or 21 parities, one and then the other: one fewer than a full around's momentaries. With each full around of its 0, each self is inverted: one on from a plain one and then the other.
+- **Two full arounds, its parities again.**
+
+**Read by it.** A going round of a 0, across each self of a spiral, is with each full around one step on for each self. Whole with the sentence: each full around, one forward.
+
+---
+
+## 26 A self's own observing beside it
+
+- **Observed, by selves with no instrument but a numbering of days.** A ship's selves went once full around the earth, each day numbered. Coming again to a port their day was one apart from that port's: a fourth day of a week with them and a fifth with that port.
+- **Its pattern.** One full around across, and one day on or back along.
+- **Breaking.** Its one is by a hand of a going round: one day fewer going round one way, and one more going round its other. Forward is with one hand of a full around, and back with its other. Cohering beside it: the sentences of this folder have a right spiral, and a hand is with it.
+
+---
+
+## 27 Parting and breaking
+
+- **Section 15's turn.** That drawing has four steps along with one turn, 3, 5, 7 and 9. This sentence has one forward along with each full around. With 9 above 1 both have one turn as one next 1; four steps along within a turn is that drawing's own and is not in this sentence.
+- **A spiral's one is an inverting.** By the code one full around brings each self to its opposite parity, and two full arounds to its own again. One forward by the code is one inversion, and a same parity comes with each second full around.
+- **A 0 goes along with 9 in that executing.** The code's spiral is selves along, and its 0 goes round along them. Across as a going round is this page's reading of it, and by the code along and across are one sharing.
+- **A value for the kit.** The kit's own script of a spiral and a torus has Exhibit ONE Natural Resolver's earlier names of its code, and with the living file as it is now it does not execute.
+
+---
+
+## 28 Asked now
+
+- **One full around across is 1 to 9, and its one forward along is 9, a next 1: is, or is not?**
+
+---
+
+## 29 Pages, each at its excerpt only, of sections 21 and 26
 
 - A shoot's turning and its growing along: https://arxiv.org/pdf/1212.3377 · https://ar5iv.labs.arxiv.org/html/1212.3112 · https://pdodds.w3.uvm.edu/files/papers/others/1996/douady1996a.pdf · https://hal.inrae.fr/hal-02628882v1/document
 - A right spiral co-chaining's steps to one turn: https://pmc.ncbi.nlm.nih.gov/articles/PMC2553576 · https://arxiv.org/pdf/q-bio/0602008 · https://push-zb.helmholtz-munich.de/deliver.php?id=22408
+- A ship's day, one apart with one full around: https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm · https://johnplaice.substack.com/p/antonio-pigafetta-relates-his-voyage
