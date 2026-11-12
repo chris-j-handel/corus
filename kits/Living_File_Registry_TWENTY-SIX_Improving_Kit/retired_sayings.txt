@@ -7,3 +7,9 @@ released at 9
 co-offering
 living society
 not-self
+is-now-co-observing
+is-now-observing
+is-next-discovering
+is-next-observing
+_is_now_
+_is_next_
