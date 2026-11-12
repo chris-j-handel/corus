@@ -140,6 +140,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-l. All the desires are opportunities. All the opportunities are rewarding. All the rewarding is abundancing. A cascading of something similar in concept is with it, and its naming is likely discoverable.
 6z-m. A desire is a me-parity.
 6z-n. An opportunity is a possibling.
+6z-o. Each four-cycling of Exhibit ONE's names is valuable for Exhibit ONE incoming.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -779,8 +780,14 @@ Sentence 6z-m has a desire as a me-parity, and sentence 6z-l each desire as an o
 
 Sentences 6z-m and 6z-n have a desire as a me-parity and an opportunity as a possibling. In Exhibit ONE's table each four-cycling, 1 to 4, 5 to 8, 9 to 12 and 13 to 16, has one sequence of roots: existing or discovering, with co; possibling, with bi; observing, with co or tri; and same-existing, with bi, a corus. Sentence 6y-l has 7 as all-parity observing, after other-parity possibling, after me-parity existing. In the code a self's sharing, 10, is its receiving self's 15-is-next-observing. Natural Naming 2.5 has discovering and abundancing as one relation, and sentence 6z-l each rewarding as abundancing.
 
-- Is rewarding an observing: is, or is not?
+- Is rewarding an observing: is, or is not? No advice yet; tracked.
 
-### 3.88 With no reading yet
+### 3.88 Observing, of a prior
+
+Exhibit ONE has "Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing", and its own table of the four four-cyclings and their betweens. Sentence 6y-k has each number's three as of prior, now and next, and of observing, possibling and discovering. Sentence 6y-l has the order of a three as next, now, prior, and 7 as all-parity observing, after other-parity possibling, after me-parity existing. In Exhibit ONE's code a self's 3-is-now-co-observing is its priors, and its 15-is-next-observing each of its others' sharings with it. Sentence 6z-o has each four-cycling as valuable for Exhibit ONE incoming.
+
+- Is observing of a prior: is, or is not?
+
+### 3.89 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
