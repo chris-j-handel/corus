@@ -206,15 +206,48 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 12 Asked now
+## 12 Asked, and its answer
 
-*A protein* is with two: a co-chaining, and a between. With *is*, a first protein of a mother is her co-chaining going on, non-living, and the living with it is in its betweens; each field sentence of a protein doing is re-said with a between doing. With *is not*, a protein is a self, as Exhibit SIXTEEN Natural Chemistry has a molecule, and *ghost* is of an other part of it.
+- Asked: a protein's co-chaining is a non-living stable form of bump-connectors, and a protein, as a thing doing, is the nothing between that co-chaining and its others, is or is not.
+- Its answer, a sentence, as it arrived:
 
-- **A protein's co-chaining is a non-living stable form of bump-connectors, and a protein, as a thing doing, is the nothing between that co-chaining and its others: is, or is not?**
+> a protein is a living me-parity in its own universal-parity unwrapping forward in the tunneling until the large opening of natural torusing and continues unwrapping and opening its wings and filling its space avaialble on the universal new surface up until it wraps around on itself into a new stable form of open universe living outside the tunneling
+
+**A reading.**
+
+- A protein is a living me-parity, in its own universal-parity.
+- In the tunneling it is unwrapping forward, until the large opening of natural torusing.
+- Past the opening it goes on unwrapping, opening its wings, and filling its space on the universal new surface.
+- Then it wraps about itself, into a new stable form, living in the open universe, outward of the tunneling.
+- Out with it: this working's candidate of a protein, as a thing doing, as a nothing between. A protein is a living me-parity.
+
+**Four moments, read from it, one and then a next.** Within the tunneling, in its own universal-parity. The large opening. An opening of wings and a filling of space. A wrapping about itself into a new stable form. Beside the person's sentences before it: the vault protecting universal-parity within the tunnel of natural torusing; and a birthing, a maturing, and a waking with many likenesses.
+
+**Rigor added: each part with a field's observing.**
+
+- **Within the tunneling, until a wider opening.** At its page's excerpt: a new co-chaining goes forward by a tunnel 10 to 20 ångström wide, a helix of it forming within, and the tunnel is wider at its last part, a place a field has a first folding of the whole opening. Cohering.
+- **An opening of wings, then a wrapping about itself.** This working's account, with no page opened: a co-chaining coming out is first open and going among many forms, and then draws together about a core of its own, its water-shy units inward. Cohering with the order: an opening and a filling first, a wrapping about itself after.
+- **A stable form, and living.** This working's account: a folded protein is stable by little, about the worth of a few of its weakest joinings, and is opening and closing at each moment; it works, and with hours or days it is taken apart, its units ingested again. Cohering with a living me-parity between its birthing and its exhausting, the earlier working's sentences of each me-parity maturing and exhausting.
+
+**Breaking opportunities, three.**
+
+- **A third never wraps about itself.** At its page's excerpt: a third or more of a human's proteins have parts with no one form for their whole working. With these, *up until it wraps around on itself* has no moment. Wings open for a whole living; or these are an other kind.
+- **The most stable wrapping is with harm.** This working's account: a co-chaining can wrap with others of its kind into a fibre more stable than its working form, a field's amyloid, and it is with illness. A new stable form is of healthy living; or a stable form is with healthy and with unhealthy, and health is its own distinguishing.
+- **A stable form, and living, in one sentence.** Natural Naming has a stable form as a non-living thing's, and stable-forming as a living self's. The sentence has a new stable form of living. A protein wrapped about itself is living and stable-forming; or it is a stable form, and exhausted from living with its wrapping. Not distinguished.
+
+**For this folder's first survey, a vault at a protein's own place.** The tunnel a new co-chaining goes forward by is a candidate vault, and its wider last part a candidate large opening.
 
 ---
 
-## 13 Pages, each at its excerpt only
+## 13 Asked now
+
+The person's sentences have a vault protecting universal-parity within the tunnel of natural torusing, and a protein in its own universal-parity within the tunneling until the large opening. With *is*, a birthing is a coming to a large opening, with each kind of self, living is before it within the tunneling, and a chick's large opening, long before its shell opens, is the next naming. With *is not*, a vault and a tunneling are two, and a birthing is of an other moment.
+
+- **The tunneling a protein is unwrapping forward in is its vault, and its coming to the large opening of natural torusing is its birthing: is, or is not?**
+
+---
+
+## 14 Pages, each at its excerpt only
 
 - A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
 - Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
@@ -229,3 +262,4 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 - A leaf folded within its bud: https://www.ucanr.edu/node/111894
 - A cane's spiral, each way: https://www.nature.com/articles/417595a · https://pmc.ncbi.nlm.nih.gov/articles/PMC2803383 · https://doaj.org/article/4c41c6fe290d4a8ab132a6b2e15b8658
 - A protein with no one form: https://push-zb.helmholtz-munich.de/deliver.php?id=45620 · https://pmc.ncbi.nlm.nih.gov/articles/PMC11459374
+- A tunnel wider at its last part: https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Ribosomal_tunnel
