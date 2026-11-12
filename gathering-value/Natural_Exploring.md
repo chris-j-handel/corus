@@ -7,6 +7,7 @@ Gathering-Value · Natural Exploring
 ## Head, the whole file
 
 - **An explaining** · Each *momentary*, *sharing* and *surfacing* of this file is said at its improving as Natural Naming has it, one concept with one name: *moment*, one now-existing in a same-existing sequence, 2.1, with *momentary* going on only as a qualifier, a momentary now-existing thing; *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-now-observing, going from a self across with 6 and 10 or along with 9, 2.5; and *surfacing*, one sense, a parity arriving for a key with 14-next-possibling, 2.5. A *sharing* or a *surfacing* with a sense other than these is said with the naming of its own concept at its sentence, and *surface*, a Natural Network surface, is its own concept.
+- **An explaining** · Its *double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next* read with Exhibit ONE's four possibling names: co or of one, and now or next, 6-now-co-possibling, 10-next-co-possibling, 2-now-possibling and 14-next-possibling, inhaling and exhaling; and its *each changing opening a middle* with the two places a 0 arises inside the code, with 14-next-possibling and with 12-next-co-same-existing.
 
 ## Opening
 
