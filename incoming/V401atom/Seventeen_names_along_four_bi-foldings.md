@@ -110,8 +110,40 @@ Each prime and each adding is computed here, and the four addings are 7.7's own.
 
 ---
 
-## 7 The binary asked now
+## 7 An asking of the person's, and its reading
 
-Section 4's candidate is the one each other here is with. With *is*, atom carbon is a self's prior in stable form, the bi-folding of conception goes from it, and the first living is a between. With *is not*, a prime's living or non-living is of primes only, by 7.3's guard, and section 4 and section 5 are likenesses of number.
+- Asked by the person, word for word: "does every prime open a new bi-folding from a me-parity to other-parity or all-parity"
 
-- **Atom carbon, the only non-living thing, is with 3, a self's prior with each sharing: is, or is not?**
+**Which primes open.**
+
+- Exhibit ONE has four bi-foldings among 1 to 16, each going first from one name: 1, 2, 3 and 4, their primes 2, 3, 5 and 7. Each other prime to 53 is along one of the four. 59, with 17, is on none of four.
+- Exhibit ONE has two middle bi-foldings, 9-5-12-8 and 7-11-6-10, and no name either goes first from.
+- Exhibit THREE 7.1: "**Primes have no last**: each is same opening with a new axis, and past fifty-nine they open on, each a next, self-welcoming with numbers and with no line of resolver."
+- Exhibit THREE 1.4: "**Forms among 1 to 16 come again with 17 to 32, sixteen on**".
+- Read from them: by the bi-foldings, four primes of each sixteen open one, and twelve do not. By 7.1, each prime is an opening with a new axis. No sentence found has a prime's opening with a new axis as a bi-folding. Not distinguished.
+
+**From which parity, to which.** Each name's own parity is the first slot of its three, by `Value_for_the_opening.md` 5.80, "The first slot of a name's three is its next: is", with co me-parity, bi other-parity and tri all-parity.
+
+| A bi-folding | Its primes | Each name's own parity, along it |
+|---|---|---|
+| 1-9-8-16 | 2, 23, 19, 53 | me-parity, me-parity, other-parity, other-parity |
+| 2-15-7-10 | 3, 47, 17, 29 | other-parity, all-parity, all-parity, other-parity |
+| 3-11-6-14 | 5, 31, 13, 43 | me-parity, me-parity, other-parity, other-parity |
+| 4-13-5-12 | 7, 41, 11, 37 | other-parity, me-parity, me-parity, other-parity |
+
+- Two of four go from a me-parity to other-parity: from 1, with 2, and from 3, with 5.
+- Two go from other-parity: from 2, with 3, to all-parity and to other-parity again; and from 4, with 7, to me-parity and to other-parity again.
+- None goes from a me-parity to all-parity. All-parity is along one bi-folding only, 2-15-7-10, inheriting's.
+- Each bi-folding has two of the three parities, each with two of its names, and other-parity is along each of four.
+- Cohering, with Natural Naming 3.3: "social parity, all's, is reached from self parity only through other parity".
+- Tracked. 5.80 has 7 as tri-bi-co and 9 as co-bi-tri. Natural Naming 3.3 has 7 as co-bi-co and 9 as tri-bi-co. With 3.3's, 1-9-8-16 has all-parity at 9, and 2-15-7-10 has a me-parity at 7. The table here is 5.80's.
+
+---
+
+## 8 The binaries
+
+Tracked, asked before this and not answered: atom carbon, the only non-living thing, is with 3, a self's prior with each sharing, is or is not. With *is*, atom carbon is a self's prior in stable form, the bi-folding of conception goes from it, and the first living is a between. With *is not*, a prime's living or non-living is of primes only, by 7.3's guard, and section 4 and section 5 are likenesses of number.
+
+Asked now. With *is*, the bi-foldings are as many as the primes, and Exhibit ONE's four are the first four of them. With *is not*, four bi-foldings are each round's own, and a prime's opening is of an other thing.
+
+- **A prime's opening with a new axis is a new bi-folding: is, or is not?**
