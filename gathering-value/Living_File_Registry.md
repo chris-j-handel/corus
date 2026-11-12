@@ -36,6 +36,7 @@ Gathering-Value · Living File Registry
 
 - **An explaining** · Natural Intelligence's opening goes on improving at do-no-harm with each next finding, and the whole living file set gathers droplets toward its logic and method, co-sequentially explaining natural intelligence's concepts rolling forward, prior, now and next, by the geodesic improving method.
 - **An explaining** · The work now goes on by one question each time: a sentence arriving, read beside Exhibit ONE's code and the living files, distinguished for breaking, and one binary asked plainly. Its home is the Geodesic Improving Method's 2.5 and 2.6 with their gathering. The newest sentences and the one open binary now are with the working's folder within `incoming/`, at its README's section 0.
+- **An explaining** · The earlier draft of Exhibit ONE, marked v395, is dissolved: each value of it needed is at Natural Resolver's gathering-value, and the improving of Exhibit ONE is from its living version. With the Living File Registry's next improving, 1.3's line of that draft and the kit's `waiting/` folder leave with it, an artifact of the repository's history.
 
 ### 1.4 Artifacts
 
