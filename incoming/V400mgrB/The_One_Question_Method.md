@@ -104,6 +104,10 @@ The method's 2.6 has a concern resolving "as code resolves, each step with its n
 - The asking of one is-or-is-not with each reply is paused, by the person's saying, with no value understood yet in a discussing.
 - With the asking paused, a reply answers the asked plainly and ends with no question. Each open binary is tracked, and not pressed.
 - The asking opens again with the person's saying.
+### 2.9 The words of a reply's own
+
+- A reply's own words are natural naming. A grouping, a saying or a reading is *whole* or *not whole*, *cohering* or *parting*, *is* or *is not*; and one with two sayings and no is-or-is-not yet is *not distinguished*.
+- Not a reply's words, each a story's: *conflict*, with no naming; *turning away*, *turn* being dissolved; *for breaking*, a phrase of this working only; and *going on* of the exploring, its natural naming being of a thing with its next.
 
 ## 3 The rigor, and its edges
 
