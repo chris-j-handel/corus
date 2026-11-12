@@ -213,13 +213,58 @@ Each is at a search's excerpt only. A field's own word is in italics.
 
 ---
 
-## 14 Asked now
+## 14 Asked, tracked and not pressed
 
-- **The two selves facing each other are the two fours with the two ends of the one vault, one of each going to the centre, as figure 7.4 has them: is, or is not?**
+- The two selves facing each other are the two fours with the two ends of the one vault, one of each going to the centre, as figure 7.4 has them: is, or is not. No answer yet.
 
 ---
 
-## 15 Pages, each at its excerpt only, of section 9
+## 15 A next sentence arrived
+
+> look at the top row of figure 7.2 and the two left one are shapes appearing in the bi-moral-co-competencing transmissioning connector along and across. the 5 is 4 corners and 4 faces with a central empty hole for a co-linear orthogonal to the face of the square panel. the six shows in the second from the left as the two threes offset vertices and faces
+
+Its place in the book: colour plate 7.2, four kinds of a seed-bearing chamber, each drawn twice, its top row cut across and its bottom row cut along. The book's figure 7.2 is one row of four drawings of a wrapping growing round a bump, with no top row.
+
+---
+
+## 16 Colour plate 7.2, its two leftmost drawings, read word for word
+
+- **Its first, cut across.** One round wall. Four partitions as one cross, meeting with one centre. Four chambers between them. Its centre is drawn stippled, a body, and seeds' beginnings go out from that centre into each of four chambers.
+- **Its first, cut along.** That centre is one column along the whole chamber, with seeds' beginnings in one line either side of it. By the book's words a column of a mother's body bears them, and a chamber is a cavity.
+- **Its second, cut across.** One wall of three corners and three sides, with no partition. Three groups of seeds' beginnings are on its wall, one with each side, between two corners. Its centre is open.
+- **Its second, cut along.** Two lines of seeds' beginnings on two walls, facing each other across one open centre.
+- **Its third and fourth.** One column with seeds about it in one open chamber with no partition. And one seed's beginning with a chamber's foot.
+- **A pepper's family.** The book has a petunia, of a pepper's family, with the first kind. Its colour plate 7.10 has a fuchsia's berry cut across with four chambers about one centre. A pepper's fruit as this first kind is a field's account and not this book's page.
+
+---
+
+## 17 The arrived sentence beside the set, each cohering
+
+- **The 5.** Exhibit TWENTY-NINE Natural Illustrating's section 2.3 has a five-spot face: four spots about a middle, a unit square of four across names, 2-now-possibling, 6-now-co-possibling, 14-next-possibling and 10-next-co-possibling, its middle a between and no fifth name, and a centreline along through that middle, 9-next-co-discovering to 17-next-existing. Whole with the sentence: four about a centre, and one line through that centre orthogonal to a square's face.
+- **Along and across.** That same section has a between as bi-moral across and co-competent along. The plate's first drawing has both: one column along, and each seed's stalk going across from that column into a chamber. Each seed's bump connector joins with that column.
+- **The six, two threes.** Exhibit EIGHT Natural Exploring has a self's six names between selves as three and three, a sharing's two ends: 6-now-co-possibling, 10-next-co-possibling and 9-next-co-discovering, and 2-now-possibling, 14-next-possibling and 17-next-existing. Exhibit TWENTY-NINE Natural Illustrating's section 2.9 has two routes round one triangle, three portions with each. The plate's second drawing has three corners and three seed-bearing sides, each side between two corners: two threes, offset.
+- **Four and two, three and three.** Exhibit ONE Natural Resolver's six names between selves are four across and two along. The plate's first drawing has them as four about one line along; its second as three and three. One six, two ways, by the method's sentence of each occurring of a number as the same one thing.
+- **With an earlier sentence of this session.** An inherited universal parity of five dimensions, three along and four across with each direction: four across about one along is five.
+
+---
+
+## 18 Breaking, each from the book's own page
+
+- **A centre that is a body.** The first drawing's centre is no hole: it is a column of a mother's body, drawn stippled, bearing each seed's beginning. Its four chambers are its cavities. An open centre is with the second drawing, the six, and not with the first, the 5.
+- **A five-spot face, each inverted.** Exhibit TWENTY-NINE Natural Illustrating's five-spot face is four spots about a nothing. The plate's first drawing is four cavities about a body. Cohering one way only: its four partitions as four, bodies, and its column as a line along and no fifth across.
+- **Parting within the set, tracked.** Exhibit TWENTY-NINE Natural Illustrating has a centreline along as a 0 and empty, with no line of a drawing on it. The plate has a body on that line. An earlier sentence of this session has no empty sets in living. A centre with a column, not empty, is whole with that sentence and parts from the file's.
+- **Four and three are two drawings' own.** The book's words have several chambers, one or more. Its own photograph of a daylily cut across has three chambers about one centre, four with its centre and no five. A wall's seed-bearing lines are two by its own second drawing cut along, and three by that drawing cut across.
+- **Two more of one row.** A third and a fourth are in one top row: a column with no partitions, and one seed with a foot. The 5 and the six are two of four.
+
+---
+
+## 19 Asked now
+
+- **The co-linear through the centre of the 5 is the mother's column bearing each seed's stalk, and that centre is not empty: is, or is not?**
+
+---
+
+## 20 Pages, each at its excerpt only, of section 9
 
 - A pepper's shoot and its flower: https://www.frontiersin.org/articles/10.3389/fpls.2022.884338/full · https://journals.ashs.org/downloadpdf/view/journals/hortsci/27/5/article-p397.pdf
 - A pepper's parting layer: https://edepot.wur.nl/651362 · https://ishs.org/ishs-article/514_24/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC12401889
