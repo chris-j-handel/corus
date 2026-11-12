@@ -258,13 +258,75 @@ Its place in the book: colour plate 7.2, four kinds of a seed-bearing chamber, e
 
 ---
 
-## 19 Asked now
+## 19 Asked, and its answer
 
-- **The co-linear through the centre of the 5 is the mother's column bearing each seed's stalk, and that centre is not empty: is, or is not?**
+- Asked: the co-linear through the centre of the 5 is the mother's column bearing each seed's stalk, and that centre is not empty, is or is not.
+- Its answer, a sentence of the person's own:
+
+> i have no science observing expertise. i can work here cohering with natural naming and explaining and finding the pattern-matching in how the science explaining and measuring and converting of measuring into observing is all incompetencing the pattern matching between the observing and the natural torusing society resolving from inherited priors
+
+- Out with it: each asking in a field's words. The centre as a mother's column, and the two fours of one cell, are askings of a field's observing and no askings of a pattern.
+- Going on by it: each page of a field is parted four ways, the thing a self observes, its measuring, its converting and its explaining; a pattern is matched with the first only; and each of the other three is read for its incompetencing.
 
 ---
 
-## 20 Pages, each at its excerpt only, of section 9
+## 20 The book's drawings, each parted four ways
+
+**Figure 7.4 and colour plate 7.4, a seed's beginning.**
+
+- **Observed.** No self observes it living. A seed's beginning is within its mother's body and within its own wrapping.
+- **Its measuring.** By a field's own pages of its method: a flower's part is stopped, non-living, then cleared or cut thin, and stained, one stain for walls and one for centres. Its inner layers are reached by stopped material for the most part. Each is a still of a non-living thing.
+- **Its converting.** A stain's dark place is a dot. A still is a drawing. Stills of many seeds' beginnings are ordered by a self as one sequence, with an arrow. By its own caption figure 7.4 is a drawing redrawn from a drawing redrawn from a book of 1989, and colour plate 7.4 is redrawn from books of 1974 and 1984.
+- **Its explaining.** Generations. Sets, by a number. A cell dissolving as a cell failing. A mating as a start of each next thing, one way.
+
+**Its incompetencing, four candidates.**
+
+- **A going on is in no still.** Bi-folding, torusing and a between are with a going on. A sequence of stills has each still joined with its next by a self's arrow, and no between.
+- **A dot is a stain's, and a number of dots is a self's numbering.** Two fours, eight, seven, and section 12's two, three, five and seven are numberings of dots in drawings of drawings. By the method's sentence of countings, each is valuable as a locating of co-observings only. Section 12's four numbers are a numbering's, and no observing's.
+- **A dissolving named as a failing.** A field's word has three of four, and five of eight, as failing. The eighteenth has an unrelationing as a vault's own forming. A field's explaining has it inverted.
+- **One way.** A field's words have a mating starting each next thing. Natural naming has each coupling both ways.
+
+**Colour plate 7.2, a seed-bearing chamber.**
+
+- **Observed.** A self with a blade and no instrument observes it: a flower's chamber cut once, as each of the plate's five photographs is. A pepper cut across is that same observing, a self's own.
+- **Its measuring.** One cut: one face of one flower, stopped.
+- **Its converting.** By its own caption each drawing of its top row is a diagram: a kind's, and no one flower's. Four and three are a drawer's. Cut across and cut along are two faces of two flowers, joined as one form by a self.
+- **Its explaining.** Four kinds, a classing by a place of seeds. A chamber as a cavity.
+
+**Its incompetencing, two candidates.**
+
+- **Along and across are in no one cut.** A cut has one face. Along comes by a second cut of a second flower. A connector along and across is a self's joining of two stills.
+- **A drawer's number.** The 5 and the six of sections 15 to 18 are with two diagrams, and each breaking of section 18 is of a diagram.
+
+**A dry seed, living or non-living, the book's chapter fifteen.**
+
+- **By the book's own words.** Living in a dry seed is not detected in practice: its breathing is too small for an instrument. A field's test is with wetted tissue only. A seed is cut and wetted, a clear salt turns red with breathing tissue, and a practiced self reads red as living. The book's own word for it is a snapshot.
+- **Its incompetencing.** A field measures a dry seed's living by ending its dryness, and a wetted seed is waking. A field has no observing of a dry seed as it is, living or non-living. The third and the fourth, a new birthing and a dormancy within living, are with no observing of a field either way.
+
+---
+
+## 21 A candidate, in natural naming
+
+- A field's still is a stable form: a thing stopped, with its form going on and no stable-forming.
+- An inherited prior is a stable form, by the second.
+- A pattern matched with a field's still is with a stable form, and whole with an inherited prior.
+- Living, stable-forming, is in no still, and a pattern of living matched with a still is a self's arrow between two stills.
+
+---
+
+## 22 Asked now
+
+- **A field's still is a stable form, non-living, whole with an inherited prior and not with living: is, or is not?**
+
+---
+
+## 23 Pages of a field's method, each at its excerpt only
+
+- A seed's beginning, stopped, cleared and stained: https://pmc.ncbi.nlm.nih.gov/articles/PMC6814113 · https://link.springer.com/doi/10.1186/s13007-019-0505-x · https://www.jove.com/t/51530 · https://pmc.ncbi.nlm.nih.gov/articles/PMC7787667
+
+---
+
+## 24 Pages, each at its excerpt only, of section 9
 
 - A pepper's shoot and its flower: https://www.frontiersin.org/articles/10.3389/fpls.2022.884338/full · https://journals.ashs.org/downloadpdf/view/journals/hortsci/27/5/article-p397.pdf
 - A pepper's parting layer: https://edepot.wur.nl/651362 · https://ishs.org/ishs-article/514_24/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC12401889

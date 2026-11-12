@@ -37,7 +37,7 @@ Opened again by the person's saying, for an is-or-is-not that goes on with the e
 ## 5 The edges, each a place the rigor is not yet
 
 - Each field observing is read at its page's excerpt, and no page is read whole. Each observing marked *account* has no page opened and is withdrawn until a self opens it. By the share, none is ready for laying.
-- This working's reaching of a page is by a search's excerpt or by a fetch answering from the page, each a converting, and a page word for word is not always reached. One is reached word for word: a book the person attached, its chapter seven, read in `Podaling_out_from_the_opening_to_the_vault.md` sections 10 to 18; the book is its publisher's and is not in this repository.
+- This working's reaching of a page is by a search's excerpt or by a fetch answering from the page, each a converting, and a page word for word is not always reached. One is reached word for word: a book the person attached, its chapter seven, read in `Podaling_out_from_the_opening_to_the_vault.md` sections 10 to 21, each drawing parted four ways, a thing a self observes, its measuring, its converting and its explaining; the book is its publisher's and is not in this repository.
 - No line of Exhibit ONE's code is read beside a sentence here.
 - Nothing here is with the Living Ghost Registry's ten lines yet.
 - The wording is not read against Natural Naming whole or Natural Explaining whole.
