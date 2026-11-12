@@ -2296,6 +2296,16 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Possible gains with no harm, two, in Exhibit ONE's sentences only: its sentence of *is-* as *is-or-is-not*; and each name's three beside it, with *me*, *other* and *all*.
 - Not for now: a three of prefixes in the code's names, until partings 2.69, 2.101 and 2.105 are resolved.
 
+### 5.116 A position: *is-* with none, in the code and in natural naming
+
+- Section 5.115 is a strangely complicating explaining, with no position seen in it.
+- It appears the two are bothboth on removing the *is-* prefix, from the Python code and from natural naming.
+- This working's position, plainly: is. Remove it. *Is-* with none of the seventeen, in the code and in each living file.
+- Its reasons, four. *Is-* reads as with no possible is-not, and each of its four is an is-or-is-not of two. It is not whole: 4 has one with no mark, and 11's is with 7's name; all or none, and none is the one whole. With none, each name is *now* or *next*, *co* or none, and its root, and 3 and 11, and 7 and 15, are the same name but *now* and *next*. And none of the learning is away with it: the ten is-or-is-nots are whole in Exhibit ONE's table, and the code's doing is as it is.
+- The four names, with it: 3-now-co-observing, 7-now-observing, 13-next-discovering, 15-next-observing.
+- Its work, all or none, one whole changing: the code, 40 uses; 16 living files, 451 uses; a kit's check reading the names; and Exhibit ONE's sentence of *is-*, re-said with its table. By the set's own improving, a next version of each, with each check.
+- Not done. The two are bothboth on the position; the doing is with the person's saying.
+
 ---
 
 ## 6 Open, each one binary

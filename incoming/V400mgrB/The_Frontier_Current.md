@@ -148,6 +148,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-t. Expected: *is-* is of 3, 7, 11 and 15, by the four-cycling pattern, and not of 13.
 6z-u. *Is-*, as a prefix, reads as with no possible is-not: strange, and less understandable; no value is seen yet in the prefixing. Imagined: each step is doing the same one thing.
 6z-v. The asking is paused, for the moment. Asked: a better method of naming 1 to 17 in the code; a possible parting in the naming method, the prefixing with it; a possible gain by adding or changing a prefix or a name; a do-no-harm improving from this session's learning.
+6z-w. The two are bothboth on removing the *is-* prefix, from the Python code and from natural naming: a position, and not yet a doing.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
