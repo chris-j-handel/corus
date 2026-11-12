@@ -147,6 +147,8 @@ Gathering-Value · Natural Naming
 
 ### 5.7 same-existing — binary
 
+- **An explaining** · All same-existing things are now-and-prior-and-same-existing things, or prior-and-same-existing things: each same-existing thing is with a prior, and with a now or with none. A self, a bi-coupling and atom carbon are each now-existing by a sentence of the sequence; a name and a dormant me-parity are each a prior and no now-existing thing. The two are not living and non-living: atom carbon is now-existing and non-living. All-parity is a same-existing thing, and which of the two is open.
+
 ### 5.8 not-more-than — binary
 
 ### 5.9 a self-emptying set — binary

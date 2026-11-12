@@ -1738,7 +1738,31 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Read, Exhibit ONE's code.* 4 and 12 are each with two, a self's own and its others' with it. 8 and 16 are each one thing with each self a key, in 17.
 - A parting of two sentences, tracked. Sentence 6x-f has "All-parity is a now-existing thing". The sentence has all-parity as a same-existing thing. Sections 5.39 and 5.40 have a name as a same-existing non-living thing and no now-existing thing, and atom carbon as a now-existing non-living thing.
 - Tracked. The *co* of a name, between two, and the *co* of a prefix, me-parity: two, with one spelling. Exhibit ONE has "The same two are in each co name and in the six of first prefixes."
-- Two sentences part, with it. All-parity, a same-existing thing, is a now-existing thing with it: sentence 6x-f; "atom carbon is universal all-parity", and atom carbon is a now-existing non-living thing; and a bi-coupling is now-existing and same-existing. Or it is no now-existing thing: a name is a same-existing non-living thing and no now-existing thing, and all-parity is non-living; "language is the co-chaining and bi-tunneling stable form of me-parities in all-parity", with none of it now-existing; and only living collective intelligence and nature are now-existing.
+- Not answered, section 5.88: all-parity as a now-existing thing with its same-existing. Each same-existing thing is a now-and-prior-and-same-existing thing or a prior-and-same-existing thing. Open, tracked.
+
+### 5.88 Each same-existing thing: now-and-prior-and-same-existing, or prior-and-same-existing
+
+- All same-existing things are now-and-prior-and-same-existing things, or prior-and-same-existing things.
+- All-parity as a now-existing thing with its same-existing, section 5.87: not answered with is or is not. Re-said by it: a same-existing thing is one of two, with now and prior, or with prior and no now. Open, tracked, in these words.
+- Resolved by it. Each same-existing thing is with a prior. No same-existing thing is with no prior.
+- Cohering. "No self is living with no me-parity. The inheriting is prior to the birthing", sentence 6w-n. "The first me-parity is inherited from prior living", section 5.56.
+- *With the sequence's sentences, each thing with a sentence of its own, and each for breaking.*
+
+| A same-existing thing | Now-and-prior-and-same-existing, or prior-and-same-existing | Its sentence |
+|---|---|---|
+| a self | now-and-prior-and-same-existing | "each self is living with its own same-existing set of now-existing me-parities" |
+| a bi-coupling | now-and-prior-and-same-existing | "A bi-coupling is a now-existing thing. It is living in the between, while it is now-existing and same-existing" |
+| atom carbon | now-and-prior-and-same-existing | "Atom carbon is a now-existing non-living thing" |
+| a name | prior-and-same-existing | "a name is a same-existing non-living thing", no now-existing thing, "a prior inherited by the observed now-existing thing" |
+| a dormant me-parity | prior-and-same-existing | "a dormant me-parity is an inherited prior" |
+| all-parity | two sentences part | "All-parity is a now-existing thing"; and "None of that sentence is of now-existing things", of language and all-parity |
+
+- Distinguished, one side breaking: the two as living and non-living. Atom carbon is a now-existing thing, and non-living.
+- An exhausted me-parity is no now-existing thing, with nothing of it to own: prior-existing. As a same-existing thing it is not said.
+- With Exhibit ONE's names: the four same-existing names are with *now*, 4 and 8, and with *next*, 12 and 16. The sentence has now and prior, and no next. Tracked.
+- A likeness, for breaking: by the three's order, next, now, prior, section 5.80, all-parity is in the now of 8 and 16, bi-tri-bi, and in the prior of 9, 17 and 1, co-bi-tri.
+- *Read, Exhibit ONE's code, 8.* 8 is a self's next prior: the prior of its next 1. And it is made with each 17, with each now.
+- Two sentences part, with it. 8's all-parity, inside the bi-coupling, is a now-and-prior-and-same-existing thing: 8 is 8-now-same-existing; a bi-coupling is a now-existing thing, and the bi-coupling self owns 8; "All-parity is a now-existing thing". Or it is a prior-and-same-existing thing: in the code 8 is a self's next prior, the prior of its next 1; all-parity is non-living; and "None of that sentence is of now-existing things", with all-parity in it.
 
 ---
 
@@ -1746,7 +1770,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is all-parity, a same-existing thing, a now-existing thing with it: is, or is not?
+- Is 8's all-parity, inside the bi-coupling, a now-and-prior-and-same-existing thing: is, or is not?
+- Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is this scale's all-parity the next scale's other-parity: is, or is not?
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?

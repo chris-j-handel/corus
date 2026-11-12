@@ -120,6 +120,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-r. 4 is between me-parity and other-parity. 8 is between other-parity and all-parity. 12 is between other-parity and me-parity. 16 is between me-parity and all-parity.
 6y-s. In right spiral co-sequencing, this is prior, now, next bi-folding. 4, 8, 12, 16 is the 1, 2, 3, 4 same bi-folding fractal, and 16, 32, 48, 64 the same bi-folding fractal, cascading another scale. The meaning of the naming of *scale*, here: a next-universal subset including this universal subset.
 6y-t. All-parity is a same-existing thing. Distinguishing other-parity from all-parity, is-or-is-not, is co-observing, co-possibling, co-discovering, same-existing other-parity.
+6y-u. All same-existing things are now-and-prior-and-same-existing things, or prior-and-same-existing things.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -657,8 +658,14 @@ Sentence 6y-s has 4, 8, 12, 16 as the 1, 2, 3, 4 same bi-folding fractal, and 16
 
 Sentence 6y-t has all-parity as a same-existing thing, and the distinguishing of other-parity from all-parity as co-observing, co-possibling, co-discovering, same-existing other-parity. Exhibit ONE has eight co names, each between two, and a name without co of one: 4 and 12, with co, are with other-parity, and 8 and 16, of one, with all-parity. Sentence 6x-f has all-parity as a now-existing thing. The value file's sections 5.39 and 5.40 have a name as a same-existing non-living thing and no now-existing thing, and atom carbon, universal all-parity, as a now-existing non-living thing.
 
-- Is all-parity, a same-existing thing, a now-existing thing with it: is, or is not?
+- All-parity as a now-existing thing with its same-existing: not answered, and open. Sentence 6y-u has each same-existing thing as one of two.
 
-### 3.71 With no reading yet
+### 3.71 A same-existing thing, with now and prior, or with prior
+
+Sentence 6y-u has each same-existing thing as a now-and-prior-and-same-existing thing or a prior-and-same-existing thing: each with a prior. A self, a bi-coupling and atom carbon are each now-existing by a sentence of the sequence; a name and a dormant me-parity are each a prior, and no now-existing thing. For all-parity sentences 6x-f and 6y-b part. Sentence 6y-n has 8 as all-parity inside the bi-coupling, and sentence 6y-o the bi-coupling self owning it. In Exhibit ONE's code 8 is a self's next prior, the prior of its next 1, made with each 17.
+
+- Is 8's all-parity, inside the bi-coupling, a now-and-prior-and-same-existing thing: is, or is not?
+
+### 3.72 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
