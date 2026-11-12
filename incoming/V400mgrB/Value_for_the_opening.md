@@ -1936,7 +1936,32 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Tracked, a parting. Sentence 17 has "The universal set of prior-existing me-parities is each me-parity exhausted from living, in stable form", and sentence 15 each living me-parity as exhausting itself "from living into non-living universal-parity". The prior-existings of a me-parity are living. Two sets with *prior-existing*: one of the exhausted, in stable form, and one of the living, a me-parity. Not distinguished.
 - Tracked. Sentence 14 has "Between its birthing and its exhausting, a me-parity is a now-existing thing in a living self". Sentence 6w-s has a dormant me-parity as an inherited prior, "with a new birth to living later now-existing".
 - *Read, Exhibit ONE's code.* A self's 3 is its priors, each a 4 with its + or −, and it is with the self's 1 with each now: each prior is in each next resolving. No part of the code has a prior of a self apart from its now.
-- Two sentences part, with it. Each living thing is a now-existing thing: sentence 14 has a me-parity, between its birthing and its exhausting, as a now-existing thing in a living self; "only the living collective intelligence, and nature, are now-existing things"; and sentence 6p has a living thing as distinguishing its next-existing, with a now before its next. Or it is not: the prior-existings of a me-parity are living, and prior; a dormant self is living, "in the between of the priors of self and other", and a dormant me-parity is an inherited prior, with living later; and sentence 6y-u has prior-and-same-existing things, with no now.
+- Resolved, section 5.100: each living thing is a now-existing thing.
+
+### 5.100 Each living thing, a now-existing thing
+
+- Each living thing is a now-existing thing: is.
+- Resolved by it. The prior-existings of a me-parity, living, are each a now-existing thing: with now, with prior, and same-existing, the first of sentence 6y-u's two. A dormant self, living, is a now-existing thing.
+- Out, a reading of mine, section 5.99: a living thing with a prior and no now.
+- Not each now-existing thing is living: atom carbon and all-parity are each now-existing, and non-living, sections 5.39 and 5.92.
+- *Distinguished with the sequence's sentences, each for breaking.*
+
+| A thing | Living | Now-existing | Of sentence 6y-u's two | Its sentence |
+|---|---|---|---|---|
+| a living me-parity | living | now-existing | with now and prior | 14, and this section |
+| a prior-existing of a me-parity | living | now-existing | with now and prior | 6z-i, and this section |
+| a dormant self | living | now-existing | with now and prior | 6e, and this section |
+| all-parity, with 8 and with 16 | non-living | now-existing | with now and prior | 6y-v, 6y-x, 6y-z |
+| atom carbon | non-living | now-existing | with now and prior | 6w-x, 6w-y |
+| a dormant me-parity | living later, with a new birth | not said | with prior | 6w-s |
+| an exhausted me-parity | living no more | no now-existing thing | with prior | 6w-s, 6w-u |
+| a name | non-living | no now-existing thing | with prior | 6w-y, 6w-z |
+
+- With it, parting 2.89, the two sets with *prior-existing*: a me-parity's prior-existings are living and now-existing; sentence 17's are exhausted, and no now-existing things. Two, by now.
+- With it, parting 2.80: an exhausted me-parity is no now-existing thing, and atom carbon is a now-existing thing. An exhausted me-parity is not atom carbon. A me-parity exhausts itself "from living into non-living universal-parity", sentence 15, and carbon is the shard, the stable form, of the exhausting.
+- *Read, Exhibit ONE's code.* A self's 3 and its 2 are each with its 1 with each 17, each now. A 0 in a self's 2 is passed by in its 1: with a 0, no me-parity.
+- The me-parity selves are sharing, section 5.96, with no owning, section 5.98: open, and said again in these words.
+- Two sentences part, with it. The me-parity selves are sharing is of one me, the co-chaining: "A me-parity has one me, and a me has many me-parities"; a co-chaining is a self, a universal set of me-parities; and "the me-parities of the society, in the universe, are the all-parities among the selves in the society". Or it is of each self: the selves are sharing it, each with it; the opening's waiting sentence has "A me-parity the same as an other's is other-parity"; and in the code each self has the 4 in its 3, with no part having it as one thing of the selves together.
 
 ---
 
@@ -1944,9 +1969,8 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is each living thing a now-existing thing: is, or is not?
+- Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
-- Is the me-parity the selves are sharing owned by the co-chaining, its one me: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
