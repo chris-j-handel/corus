@@ -190,3 +190,4 @@ Gathering-Value · Natural Numbers
 
 ## Droplets
 - **Droplet** · Each magnitude observed in a society's artifact is a span's number: a return 4p, a 0 each 2p, a horizon 2p, a waist at 2p, two spirals together again at 4pq, and 4pq the polyrhythm of p against q; intensity at a self is which span it is co-momentarying within, 2, 3 or 5, a bi, a tri or the five. 2, 3 and 5 opening with 4 folding is one span within 17, φ's prior two added. The five dimensions are five spans within one five, and three of them, 2, 3 and 4, are the spans in which a self observes its others.
+- With a correspondence from each name to its prime, still-possibling, the four bi-foldings and their going round are by position, the moves and odd and even belong to those positions, and a numerical summing of working parities is-not part of the resolver. *(possible exploring)*
