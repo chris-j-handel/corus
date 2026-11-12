@@ -8,7 +8,7 @@ each input parity is inverted, + to - and - to +, and nothing else, and each out
 the first output inverted. An output that is not the first inverted is a parting, and the first parting is shown.
 
 A recorded result, Exhibit ONE v391: with + and - only, zero partings at _1_now_existing and _17_next_existing;
-with a 0 at _3_is_now_co_observing, the prior, partings, as two tests read a 0 as a -,
+with a 0 at _3_now_co_observing, the prior, partings, as two tests read a 0 as a -,
 (_15 > 0) == (_7 > 0) and -1 if _7 > 0 else 1. At Natural Resolver's gathering-value, Parities to one sharing, surfacing.
 """
 import glob, os, random, re, sys, types
@@ -17,7 +17,7 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else '.'
 N = int(sys.argv[2]) if len(sys.argv) > 2 else 20000
 
 def ver(p):
-    m = re.search(r'_v(\d+)[A-Za-z]?\.md$', p)
+    m = re.search(r'_v(\d+)[A-Za-z]*\.md$', p)
     return int(m.group(1)) if m else 0
 
 path = max(glob.glob(os.path.join(ROOT, 'Exhibit_ONE_Natural_Resolver_v*.md')), key=ver)

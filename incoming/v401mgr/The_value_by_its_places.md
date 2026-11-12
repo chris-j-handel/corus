@@ -54,7 +54,7 @@ Each a place two things of the set are not the same, with both sides.
 3. **One bound, with seven works behind it.** The opening's fifty-five enter with both partners agreeing. Five of the eight possible beginnings wait on a sentence of the person's, and the asking is paused by the person's saying. Each side is a sentence of the set, and with both, no step of the five is a working's to begin.
 4. **No address two workings share for one sentence.** One working has 104 addresses of its own sequence, 6w-o to 6z-z, and 29 of them are cited at a gathering. Beside them: its value file's sections 5.1 to 5.119, its partings 1.1 to 5, S1 to S21, C4 to C9; an other working's own sections; a gathering's section titles; and the Co-Chaining Logic Registry's steps 1 to 755. One sentence has as many addresses as the workings that read it.
 5. **One check, two returnings: resolved.** `carry_check.py` executed with no root given reads `kits/` as its root, and with `.` given it reads the repository. The parting was of the executing, and not of `main`. A value for the kit: with no root given, its root is not the repository's.
-6. **The Living File Registry 1.3 beside the set.** Natural Naming's gathering "empty and waiting for incoming", and it is 31 KB. A report at a path of `incoming/` not on `main`. 661 steps in 42 groups for Exhibit THIRTY, and it has 755 in 46.
+6. **The Living File Registry 1.3 beside the set.** Natural Naming's gathering "empty and waiting for incoming", and it is 31 KB. A report at a path of `incoming/` not on `main`. And 661 steps in 42 groups for Exhibit THIRTY, with 755 in 46 now: a line of an earlier version's motion, as it was then, and no parting.
 7. **The `archive` branch.** The Living File Registry 1.4: "nothing new goes to it". Folders of v400's sessions and of a managing working are on it, its last commit 10 November.
 8. **A working's value at four places.** One working's value is in its value file, its sequence, its partings and its gathered page, and 52 sentences of it again at gatherings. Sentences the same word for word across those places: few, 29 by a search. The same value re-said in other words: not measured here, and no check of the set measures it.
 9. **A saying of nothing, a 0 and no reply.** One working asks four things of an other at a pull request. With no reply, the asking working has no distinguishing among: read and the same; read and parting; not read. Section 4, line 19, has the same three as one in the code.
@@ -131,7 +131,7 @@ A likeness of a working with a self of the code, and a likeness is a likeness. E
 
 **Of this page, one is-or-is-not is in natural naming, and two sentences of the set part with it.**
 
-With an empty set surfacing with 14-next-possibling, a self's next prior, 11-next-co-observing, is its prior, 3-is-now-co-observing, same-existing: is, or is not.
+With an empty set surfacing with 14-next-possibling, a self's next prior, 11-next-co-observing, is its prior, 3-now-co-observing, same-existing: is, or is not.
 
 - **Is not**, with Exhibit ONE's code and its sentences. Lines 31 and 35 to 37. *One cell, four receivings*: "an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts." With it, a self with none of its others is improving with each moment.
 - **Is**, with the sequence's sentence 6z-r: "With none of its others with it, a self's next prior parity is the same as its prior parity." With it, a self with none of its others is do-no-harming with each moment.

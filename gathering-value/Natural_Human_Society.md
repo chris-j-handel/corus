@@ -7,7 +7,7 @@ Gathering-Value · Natural Human Society
 ## Head, the whole file
 
 - **Possible incohering** · "PART ONE — THE METHOD'S GROUND, one concept not yet apparent" → Notes after PART ONE's and PART FOUR's titles, *one concept not yet apparent* and *and its last three sections have no tipping and stand open*, are notes after a part's title, each leaving, and each part title bare.
-- **An explaining** · Each *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-is-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
+- **An explaining** · Each *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
 - **An explaining** · *A natural surface's living parities are living in the mes of the selves living as a society in the universe.*; *each time universal is a nothing self-bounding-aiming-possibling-self living as a society of selves*.
 
 ## Opening

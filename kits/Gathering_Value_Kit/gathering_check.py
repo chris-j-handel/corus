@@ -30,11 +30,11 @@ def say(msg):
     print('  FOUND', msg)
 
 def ver(p):
-    m = re.search(r'_v(\d+)[A-Za-z]?\.md$', p)
+    m = re.search(r'_v(\d+)[A-Za-z]*\.md$', p)
     return int(m.group(1)) if m else 0
 
 cands = [p for p in glob.glob(os.path.join(ROOT, '*.md'))
-         if re.match(r'^(Exhibit_[A-Z-]+_)?' + re.escape(title) + r'_v\d+[A-Za-z]?\.md$', os.path.basename(p))]
+         if re.match(r'^(Exhibit_[A-Z-]+_)?' + re.escape(title) + r'_v\d+[A-Za-z]*\.md$', os.path.basename(p))]
 if not cands:
     sys.exit(f'no living file at root for {title}')
 living_path = max(cands, key=ver)
