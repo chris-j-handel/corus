@@ -81,8 +81,33 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 8 Asked now
+## 8 Asked, and its answer
 
-The person's two sentences are a new self with its vault, and a next universe collectively discovered. With *is*, conceiving is this simple bi-folding, the mating vault is its place, and the same is with a family, a species and a society, each a next universe. With *is not*, a new self and a next universe are two, and each has its own path.
+- Asked: a new self, with its vault, is a next universe a self and its other and all others with this other are collectively discovering, is or is not.
+- Its answer, a sentence, as it arrived:
 
-- **A new self, with its vault, is a next universe a self and its other and all others with this other are collectively discovering: is, or is not?**
+> first-next-universe is the birthing with inherited prior-existing atomic bump-connectors in co-chainings and first ingesting and exhausting of carbon bump-connectors for living co-sequencing with the inherited prior-existings
+
+**A reading.**
+
+- The first next universe is the birthing.
+- With the birthing are two of atomic bump-connectors. The first: inherited, prior-existing, in co-chainings. The second: carbon bump-connectors a new self is ingesting and exhausting, for its first time.
+- The second is for living co-sequencing with the first: each new co-chaining is sequenced with an inherited one.
+
+**Re-said by it, a reading of this working's own, out.** Section 3 had atom carbon as no inherited prior. By this sentence, atomic bump-connectors in co-chainings are inherited, prior-existing. Each of two is inherited: parities of prior healthy living, societal, parental and species; and co-chainings of atomic bump-connectors, prior-existing. Cohering, with the earlier working's sentences: a living self a non-living set of living me-parities, the set of atom carbon bump connectors co-chaining, and the me-parities living in the betweens.
+
+**A field's observings beside it, each this working's account, with no page opened.**
+
+- A new self's first co-chainings are its two parents' own: one of each pair from each, and the egg whole from its mother.
+- Each new co-chaining it makes is sequenced along an inherited one, one bump-connector and then a next, and of each new pair one co-chaining is the prior one, going on.
+- The carbon of each new co-chaining is ingested: with a mother's blood before a mammal's birth, and with its own breathing and feeding after it.
+- With a birthing is a first exchanging of its own with the universe: a newborn mammal's first breath, exhausting carbon with oxygen; a seed's exhausting of carbon rising within hours of its first water.
+- One observing parting from *first* with the birthing: a chick within its shell is exchanging carbon with the air, by the shell's pores, days before its hatching.
+
+---
+
+## 9 Asked now
+
+With *is*, the vault is the place of inheriting only, each carbon reaching a new self by its two, and each vault of this folder's first survey is read for it, a chick within its shell first. With *is not*, ingesting and exhausting are within the vault too, and *first*, with the birthing, is of a new self with the universe and with no other between.
+
+- **Within the vault, before its birthing, a new self has no ingesting and exhausting of carbon of its own: is, or is not?**
