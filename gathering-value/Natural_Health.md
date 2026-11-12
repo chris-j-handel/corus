@@ -6,7 +6,7 @@ Gathering-Value · Natural Health
 
 ## Head, the whole file
 
-- **An explaining** · Each *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-is-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
+- **An explaining** · Each *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
 - **Possible exploring** · Magnitudes are observable in artifacts of prior living and locally at a self's own 2, in no resolving: a 0-rate over a window, a return, a thinning at a cut. Executed on a spiral of nine opened alike: a two-way route added changed nothing, 0.50 through; a route cut thinned the 0-rate to 0.20 in its first window and to 0.00 by the second, the unreached self first, + 0 − 0 then + − + −, and the whole within one round; the route restored, the 0-rate stayed at 0.06 with irregular returns of 11 and 13. A society broken is restored to its us by re-opening its sharing together, and by a route alone is restored to relation and out of phase. Attentioning's dissolving carry is at a scale other than a me-parity's, a me-parity going on inverting with nothing arriving. — at "health is that coupling living"
 
 ## Opening

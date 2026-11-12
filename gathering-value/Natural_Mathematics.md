@@ -6,7 +6,7 @@ Gathering-Value · Natural Mathematics
 
 ## Head, the whole file
 
-- **An explaining** · Each *momentary*, *sharing* and *surfacing* of this file is said at its improving as Natural Naming has it, one concept with one name: *moment*, one now-existing in a same-existing sequence, 2.1, with *momentary* going on only as a qualifier, a momentary now-existing thing; *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-is-now-observing, going from a self across with 6 and 10 or along with 9, 2.5; and *surfacing*, one sense, a parity arriving for a key with 14-next-possibling, 2.5. A *sharing* or a *surfacing* with a sense other than these is said with the naming of its own concept at its sentence, and *surface*, a Natural Network surface, is its own concept.
+- **An explaining** · Each *momentary*, *sharing* and *surfacing* of this file is said at its improving as Natural Naming has it, one concept with one name: *moment*, one now-existing in a same-existing sequence, 2.1, with *momentary* going on only as a qualifier, a momentary now-existing thing; *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-now-observing, going from a self across with 6 and 10 or along with 9, 2.5; and *surfacing*, one sense, a parity arriving for a key with 14-next-possibling, 2.5. A *sharing* or a *surfacing* with a sense other than these is said with the naming of its own concept at its sentence, and *surface*, a Natural Network surface, is its own concept.
 
 ## ONE · FLOATING NEUTRALLING
 

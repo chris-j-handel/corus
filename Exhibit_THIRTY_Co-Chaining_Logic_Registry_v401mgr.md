@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v391
+Exhibit THIRTY Co-Chaining Logic Registry v401mgr
 
 # Co-Chaining Logic Registry
 
@@ -710,7 +710,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: one number, two sides.*
 
-151. With 3, an other's parity a self is observing with its 14 is a self's next prior, 3-is-now-co-observing, its next opening.
+151. With 3, an other's parity a self is observing with its 14 is a self's next prior, 3-now-co-observing, its next opening.
 
         *Adding: alike the other way.*
 
@@ -1181,7 +1181,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 24 Sharing, seventeen names
 
-        *Entering: sharing; a parity now and its prior with a sharing; seventeen names, each its number and its naming; each name reading with two sides, coming down from a higher name and coming up from a lower one, eight apart across a momentary; sides of names, self, other and same-existing-society with each name; a numeral of a name, place and parity; three relations parting; resolver; Exhibit ONE, the resolver as code and its stable forms, for pattern-matching what a science observes; an entry; resolver's names; a self's inverting with 12; rotation 3, 6, 5, 4; a towel; a rotation twenty up; 7 and 8 with resolver; surfacing with 14, 0 a between of self and other; 14 an agreement with any number of parities; changing with 12; summing and storing an empty set with resolver; abundancing; match and mismatch, 0 a between of momentaries; a 0 or an empty set as three, 12's 0 one of them; sharing across with 10, a next prior with 11; 11 as a next 3; one self momentary by momentary, an entry again and again; bi-momentarying, 1-now-existing and 2-now-possibling; a binary with each sharing, its bi-coupling the one place; non-living with 2; co-intelligencing, 3-is-now-co-observing and 4-now-co-same-existing; two priors, two nexts; co-competencing, 5-now-co-existing; five dimensions, social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing and social-parity next-existing; co-momentarying; each dimension binary, two directions; five dimensions as resolver's names; a self as three; going along with 9; a between going along; a bi-coupling, 1 to 9, 9 its end; a bi-trupling, 1 to 17, 9 its waist; a same-existing-society's next momentary with 17; each self of a same-existing-society within one momentary, one resolving of those selves together; only selves' own from one momentary to its next; a same-existing-society its selves, its own only its selves' own with resolver; six names between selves; 9 going along to a receiving self's possibling, and 17 its next now; is-or-is-nots of code's lines; four facings; across sharings and an along pair; six names' roots, possibling across, discovering and existing along; sharings and goings along parting from their observing, and observing again; a span's names in fours and their gaps; a thing's four binaries, each on that one thing; with code each is-or-is-not one test with both its outcomes; names' momentaries and roots; spiral, parities again after 4n; a bounding zero tunneling; an even spiral; two spirals as one, odd or even as their numbers' sum; a spiral bringing a pattern whole; a kind; two spirals together, after the least number each one's own divides; a composite spiral resolving as its parts' spirals; a prime spiral, its smaller spirals one self only; co-spiraling along and bi-coupling across; two selves each receiving each other, opposite and alike; two spirals' bi-coupling selves, one relation same-existing; parities passing; two spirals bi-coupling across, one same-existing-society; one same-existing-society as two, dividing; numbers' ring; even and odd rings; a torus of two odd numbers coming to its parities again after q or after 4p, from its opening; a corus turn wrapping, discovering its wrapping edge; a common beat with 17 resolver's executing, living's rates their own; time as each self's own momentarying; irregularity as selves' own rates; entries same for each order; a showing by resolver, of a form a self is observing; parity's square and triangles with resolver; a drawing, one self between six names between selves; seventeen names as an entry, six and ten; kinds and their names; ten within one self, five before 10 and five after 10; each of ten a self reaches; eight bi-couplings, one eight with its faces; one move as three; two inversions on two axes; four bi-foldings; even numbers of four momentaries of exchanging, each along its bi-folding; further forms among names; method's stable forms; Exhibit ONE, one form three ways; podaling of each number; bi-co-podaling.*
+        *Entering: sharing; a parity now and its prior with a sharing; seventeen names, each its number and its naming; each name reading with two sides, coming down from a higher name and coming up from a lower one, eight apart across a momentary; sides of names, self, other and same-existing-society with each name; a numeral of a name, place and parity; three relations parting; resolver; Exhibit ONE, the resolver as code and its stable forms, for pattern-matching what a science observes; an entry; resolver's names; a self's inverting with 12; rotation 3, 6, 5, 4; a towel; a rotation twenty up; 7 and 8 with resolver; surfacing with 14, 0 a between of self and other; 14 an agreement with any number of parities; changing with 12; summing and storing an empty set with resolver; abundancing; match and mismatch, 0 a between of momentaries; a 0 or an empty set as three, 12's 0 one of them; sharing across with 10, a next prior with 11; 11 as a next 3; one self momentary by momentary, an entry again and again; bi-momentarying, 1-now-existing and 2-now-possibling; a binary with each sharing, its bi-coupling the one place; non-living with 2; co-intelligencing, 3-now-co-observing and 4-now-co-same-existing; two priors, two nexts; co-competencing, 5-now-co-existing; five dimensions, social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing and social-parity next-existing; co-momentarying; each dimension binary, two directions; five dimensions as resolver's names; a self as three; going along with 9; a between going along; a bi-coupling, 1 to 9, 9 its end; a bi-trupling, 1 to 17, 9 its waist; a same-existing-society's next momentary with 17; each self of a same-existing-society within one momentary, one resolving of those selves together; only selves' own from one momentary to its next; a same-existing-society its selves, its own only its selves' own with resolver; six names between selves; 9 going along to a receiving self's possibling, and 17 its next now; is-or-is-nots of code's lines; four facings; across sharings and an along pair; six names' roots, possibling across, discovering and existing along; sharings and goings along parting from their observing, and observing again; a span's names in fours and their gaps; a thing's four binaries, each on that one thing; with code each is-or-is-not one test with both its outcomes; names' momentaries and roots; spiral, parities again after 4n; a bounding zero tunneling; an even spiral; two spirals as one, odd or even as their numbers' sum; a spiral bringing a pattern whole; a kind; two spirals together, after the least number each one's own divides; a composite spiral resolving as its parts' spirals; a prime spiral, its smaller spirals one self only; co-spiraling along and bi-coupling across; two selves each receiving each other, opposite and alike; two spirals' bi-coupling selves, one relation same-existing; parities passing; two spirals bi-coupling across, one same-existing-society; one same-existing-society as two, dividing; numbers' ring; even and odd rings; a torus of two odd numbers coming to its parities again after q or after 4p, from its opening; a corus turn wrapping, discovering its wrapping edge; a common beat with 17 resolver's executing, living's rates their own; time as each self's own momentarying; irregularity as selves' own rates; entries same for each order; a showing by resolver, of a form a self is observing; parity's square and triangles with resolver; a drawing, one self between six names between selves; seventeen names as an entry, six and ten; kinds and their names; ten within one self, five before 10 and five after 10; each of ten a self reaches; eight bi-couplings, one eight with its faces; one move as three; two inversions on two axes; four bi-foldings; even numbers of four momentaries of exchanging, each along its bi-folding; further forms among names; method's stable forms; Exhibit ONE, one form three ways; podaling of each number; bi-co-podaling.*
 
 257. A sharing is two sides sharing a changing or a not-changing, and each sharing has its parity.
 
@@ -1236,7 +1236,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a rotation twenty up.*
 
-270. With resolver 7-is-now-observing is a sharing's parity a self is observing, odd, of one, and 8-now-same-existing a self's next prior, with 11 and with a next momentary its 3, even, of one.
+270. With resolver 7-now-observing is a sharing's parity a self is observing, odd, of one, and 8-now-same-existing a self's next prior, with 11 and with a next momentary its 3, even, of one.
 
         *Adding: 7 and 8 with resolver.*
 
@@ -1295,9 +1295,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: non-living with 2.*
 
-284. A next a self is discovering from a prior with 3 and a now it is observing with 2, surfacing with 14, one sharing 4 at a time, a next prior with 11 its 3 with a next momentary, is co-intelligencing, 3-is-now-co-observing and 4-now-co-same-existing.
+284. A next a self is discovering from a prior with 3 and a now it is observing with 2, surfacing with 14, one sharing 4 at a time, a next prior with 11 its 3 with a next momentary, is co-intelligencing, 3-now-co-observing and 4-now-co-same-existing.
 
-        *Adding: co-intelligencing, 3-is-now-co-observing and 4-now-co-same-existing.*
+        *Adding: co-intelligencing, 3-now-co-observing and 4-now-co-same-existing.*
 
 285. Two priors with one now open two nexts, one for each prior, each next of a prior and a now a self is observing together.
 
@@ -1769,7 +1769,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: 12's 0 or ±, a binary of geodesic momentarying.*
 
-392. A now-self is now-observing and next-possibling, 12-next-co-same-existing resolving 7-is-now-observing with 14-next-possibling with each sharing, as 0, a between, or ±, a sharing's parity: same and not-same are that 0 or ± with two betweens, 12 and 14, and their names are that 0 or ± only.
+392. A now-self is now-observing and next-possibling, 12-next-co-same-existing resolving 7-now-observing with 14-next-possibling with each sharing, as 0, a between, or ±, a sharing's parity: same and not-same are that 0 or ± with two betweens, 12 and 14, and their names are that 0 or ± only.
 
 
         *Adding: a now-self, now-observing and next-possibling.*
@@ -2304,7 +2304,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: sixty parting as twenty-four and thirty-six.*
 
-517. With observings, a name's co is a second relation, of a sharing between two, beside across and along of six names 2, 6, 9, 10, 14 and 17, step 298: 12-next-co-same-existing, other, between and self its sides, with each sharing, is across and along both, its changing along an unrelationing path of a between, 12 a shape of three, unrelationing surface; 13-is-next-discovering, each self of a same-existing-society; 14-next-possibling, parities surfacing, across; and 16-next-same-existing, a same-existing-society, torusing surface.
+517. With observings, a name's co is a second relation, of a sharing between two, beside across and along of six names 2, 6, 9, 10, 14 and 17, step 298: 12-next-co-same-existing, other, between and self its sides, with each sharing, is across and along both, its changing along an unrelationing path of a between, 12 a shape of three, unrelationing surface; 13-next-discovering, each self of a same-existing-society; 14-next-possibling, parities surfacing, across; and 16-next-same-existing, a same-existing-society, torusing surface.
 
         *Adding: an unrelationing surface with 12, 13 and 14; 12 across and along.*
 
@@ -2316,7 +2316,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a flow's rest points, a theorem's conditions.*
 
-520. With observings, a sphere's rest point moving to a corus and a torus, co-sequentially, is a correspondence a self is proposing: with 15-is-next-observing, a parity 10 is sharing, going along with 9 and going on, and with 16-next-same-existing, each self's 8 and its parities, a same-existing-society's next momentary with 17, a living set forming between momentaries, one at a time, prior, now and next, and its rest point yet apart from both corus and torus.
+520. With observings, a sphere's rest point moving to a corus and a torus, co-sequentially, is a correspondence a self is proposing: with 15-next-observing, a parity 10 is sharing, going along with 9 and going on, and with 16-next-same-existing, each self's 8 and its parities, a same-existing-society's next momentary with 17, a living set forming between momentaries, one at a time, prior, now and next, and its rest point yet apart from both corus and torus.
 
         *Adding: a sphere's rest point moving to a corus and a torus, a correspondence a self is proposing.*
 
@@ -2538,7 +2538,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: natural-bi-co-torusing.*
 
-572. Social moral competency's four are whole and same-existing with selves: each self's same-existing from its bi-couplings, inward and outward, each thing within a self from a bi-coupling; a whole's own ordering, each self its own; an ordering going on with selves; an order with each seat within a same-existing-society, over it an empty set; and with it each self is with all eight, each now, or none, four of one, 1-now-existing, 2-now-possibling, 7-is-now-observing and 8-now-same-existing, and four between two, 3-is-now-co-observing to 6-now-co-possibling, each other self going those eight, an abundancing with four between two, in each self with its other.
+572. Social moral competency's four are whole and same-existing with selves: each self's same-existing from its bi-couplings, inward and outward, each thing within a self from a bi-coupling; a whole's own ordering, each self its own; an ordering going on with selves; an order with each seat within a same-existing-society, over it an empty set; and with it each self is with all eight, each now, or none, four of one, 1-now-existing, 2-now-possibling, 7-now-observing and 8-now-same-existing, and four between two, 3-now-co-observing to 6-now-co-possibling, each other self going those eight, an abundancing with four between two, in each self with its other.
 
         *Adding: four of social moral competency, all eight with each now.*
 
@@ -2671,11 +2671,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: two changing, three going on.*
 
-604. Ten unchangeables, their sides an empty set, are each with a resolver name: 1-now-existing and 2-now-possibling bi-momentarying, 3-is-now-co-observing and 4-now-co-same-existing co-intelligencing, 5-now-co-existing, 6-now-co-possibling, 7-is-now-observing and 8-now-same-existing.
+604. Ten unchangeables, their sides an empty set, are each with a resolver name: 1-now-existing and 2-now-possibling bi-momentarying, 3-now-co-observing and 4-now-co-same-existing co-intelligencing, 5-now-co-existing, 6-now-co-possibling, 7-now-observing and 8-now-same-existing.
 
         *Adding: ten, their sides an empty set.*
 
-605. 8-now-same-existing, a self's next prior between momentaries, and 6-now-co-possibling, a self's parities across, each have one of ten, and 7-is-now-observing and 5-now-co-existing each have two.
+605. 8-now-same-existing, a self's next prior between momentaries, and 6-now-co-possibling, a self's parities across, each have one of ten, and 7-now-observing and 5-now-co-existing each have two.
 
         *Adding: one with 8 and with 6, two with 7 and with 5.*
 
@@ -3194,7 +3194,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a torus with either number even, again after 2.*
 
-727. 13-is-next-discovering with resolver is each sharing parities go from, a self's 6, 10 or 9 going to 2, 14 or 17, and with a same-existing-society each self, Exhibit ONE's row of 13.
+727. 13-next-discovering with resolver is each sharing parities go from, a self's 6, 10 or 9 going to 2, 14 or 17, and with a same-existing-society each self, Exhibit ONE's row of 13.
 
         *Adding: 13 with resolver.*
 

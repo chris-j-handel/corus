@@ -7,7 +7,7 @@ Gathering-Value · Natural Transmissioning
 ## Head, the whole file
 
 - **An explaining** · An anticipated observing: the one atom/carbon, with no other elements and no bonds, oxygen, nitrogen and hydrogen three views of 2 × 3 and 3 × 2 of bi-moral co-agency, is possibly Natural Transmissioning itself, the exhibit of bi-coupling science and engineering. In one naming the one atom/carbon is a carbon atom; in chemistry's naming oxygen, nitrogen and hydrogen atoms each is-not a carbon atom.
-- **An explaining** · Each *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-is-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
+- **An explaining** · Each *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
 
 ## Opening
 

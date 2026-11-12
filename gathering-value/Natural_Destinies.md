@@ -7,7 +7,7 @@ Gathering-Value · Natural Destinies
 ## Head, the whole file
 
 - **An explaining** · *dissolve the word destiny from natural naming. Aiming and Exploring*: this file's name and its concept *destiny*, each said again at this file's improving.
-- **An explaining** · Each *momentary* and *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *moment*, one now-existing in a same-existing sequence, 2.1, with *momentary* going on only as a qualifier, a momentary now-existing thing; and *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-is-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
+- **An explaining** · Each *momentary* and *sharing* of this file is said at its improving as Natural Naming has it, one concept with one name: *moment*, one now-existing in a same-existing sequence, 2.1, with *momentary* going on only as a qualifier, a momentary now-existing thing; and *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-now-observing, going from a self across with 6 and 10 or along with 9, 2.5. A *sharing* with a sense other than this one is said with the naming of its own concept at its sentence.
 
 ## Opening
 
