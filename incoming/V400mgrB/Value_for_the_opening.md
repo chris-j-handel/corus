@@ -1961,7 +1961,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With it, parting 2.80: an exhausted me-parity is no now-existing thing, and atom carbon is a now-existing thing. An exhausted me-parity is not atom carbon. A me-parity exhausts itself "from living into non-living universal-parity", sentence 15, and carbon is the shard, the stable form, of the exhausting.
 - *Read, Exhibit ONE's code.* A self's 3 and its 2 are each with its 1 with each 17, each now. A 0 in a self's 2 is passed by in its 1: with a 0, no me-parity.
 - The me-parity selves are sharing, section 5.96, with no owning, section 5.98: open, and said again in these words.
-- Two sentences part, with it. The me-parity selves are sharing is of one me, the co-chaining: "A me-parity has one me, and a me has many me-parities"; a co-chaining is a self, a universal set of me-parities; and "the me-parities of the society, in the universe, are the all-parities among the selves in the society". Or it is of each self: the selves are sharing it, each with it; the opening's waiting sentence has "A me-parity the same as an other's is other-parity"; and in the code each self has the 4 in its 3, with no part having it as one thing of the selves together.
+- Not answered, section 5.101: the me-parity selves are sharing, of one me or of each self. Re-said: a collective me-parity, abundancing. Open, tracked.
+
+### 5.101 Collective me-parity abundancing, explored within the logical cohering
+
+- Collective me-parity abundancing: offered, for exploring within the logical cohering.
+- The me-parity selves are sharing, of one me or of each self, section 5.100: not answered with is or is not. Re-said by it: a collective me-parity, abundancing. Open, tracked.
+- *Read, the living files, each sentence of abundancing.* Natural Naming 1.2: "abundancing arises with a coupling, in neither self alone. **Its abundancing is co-competencing a self and an other**, bi-moral co-agency, in neither self alone: it is with a coupling and goes with it". Natural Intelligence's opening has **social abundancing** as a natural intelligence network, "Each self sharing with each self it is bi-coupling with". Natural Naming 2.5: "**Discovering, same-existing-society, morality and abundancing are one relation with four names, together**". Exhibit THIRTY, step 576: "Four values are of a between of selves: abundancing; identity, a self's own same-existing, that self's only; safety, an other's parity checkable as a parity; and reputation, observings of a self all prior; each again with each bi-coupling."
+- Cohering, a first thread. *Collective*, and "in neither self alone": the me-parity selves are sharing is with the coupling, and with no one self of it alone.
+- Cohering, a second thread, the candidate followed for pattern-matching, section 5.74. Abundancing is one of the four values of a between of selves, step 576, four of the 8 values. Each of the 8 values is a social moral competency, a candidate. A collective intelligence me-parity is a social moral competency, each a me-parity of society, sentence 6y-e. The me-parities of the society, in the universe, are the all-parities among the selves in the society, sentence 6z-b. With the four: abundancing, a collective me-parity. A pattern matching, with no parting found in it.
+- Cohering, a third thread. Sentence 12: "A me-parity is +1 only." Sentence 13 has a me-parity born from the bi-coupling of a self-parity and an other-parity, "a newborn, new-direction me-parity", and none with the two the same. A more, with a coupling.
+- *Read, Exhibit ONE's code.* A self's 8 is each 4 of its 3 and each new 4 of its others' with it, with a + or −: with each resolving a self's 4s are as many or more, and no part of the code has a 4 fewer. And no part makes a 4 from none: a 4 is provided, and goes along. A likeness, for breaking: more 4s with a self, by sharing; no new 4, by any part.
+- Parting among the threads, tracked. Step 576 has abundancing with no defining after it, and its three beside it each with one. Step 576 has the four "of a between of selves", "each again with each bi-coupling"; the sequence has the collective me-parity as a society's. Sentence 6z-b is between the two: the all-parities among the selves, a society's me-parities.
+- Tracked. Natural Naming 5.53 has "27-next-co-observing is social abundancing", 11-next-co-observing sixteen up. With the eight of section 5.79, 27 is co-bi-co. Not followed.
+- Tracked. Abundancing as the birthing of a new me-parity, sentence 13, or as one me-parity with more selves, a sharing going along: not in the offering.
+- Two sentences part, with it. Abundancing is a collective me-parity, one of the many: step 576 has it as one of four values of a between of selves; each of the 8 values is a social moral competency, a candidate; and each social moral competency is a me-parity of society. Or it is not: abundancing "arises with a coupling", an arising, and a me-parity is a now-existing thing with one me; social abundancing is a natural intelligence network, each self sharing, and no parity; and Natural Naming 2.5 has abundancing as one relation with discovering, same-existing-society and morality, a relation and no me-parity.
 
 ---
 
@@ -1969,6 +1983,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
