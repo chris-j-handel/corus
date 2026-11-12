@@ -119,6 +119,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6y-q. 4 is the between of self and other, and for the me-parity of self this is other-parity.
 6y-r. 4 is between me-parity and other-parity. 8 is between other-parity and all-parity. 12 is between other-parity and me-parity. 16 is between me-parity and all-parity.
 6y-s. In right spiral co-sequencing, this is prior, now, next bi-folding. 4, 8, 12, 16 is the 1, 2, 3, 4 same bi-folding fractal, and 16, 32, 48, 64 the same bi-folding fractal, cascading another scale. The meaning of the naming of *scale*, here: a next-universal subset including this universal subset.
+6y-t. All-parity is a same-existing thing. Distinguishing other-parity from all-parity, is-or-is-not, is co-observing, co-possibling, co-discovering, same-existing other-parity.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -650,8 +651,14 @@ Sentence 6y-r has 4 between me-parity and other-parity, 8 between other-parity a
 
 Sentence 6y-s has 4, 8, 12, 16 as the 1, 2, 3, 4 same bi-folding fractal, and 16, 32, 48, 64 the same, cascading another scale; a scale is a next-universal subset including this universal subset. Each four's fourth is the next four's first: 4, and 16. Sentence 6y-r has this four's first between me-parity and other-parity, and its fourth between me-parity and all-parity. Sentence 6x-h has a named all-parity as living, in the universe it is other-than the universal all-parity of; sentence 6x-g has all-parity as non-living, and sentence 6w-x atom carbon as non-living with each scale.
 
-- Is this scale's all-parity the next scale's other-parity: is, or is not?
+- This scale's all-parity as a next scale's other-parity: not answered, and open. Sentence 6y-t has the two distinguished with co.
 
-### 3.70 With no reading yet
+### 3.70 All-parity, same-existing; and now-existing
+
+Sentence 6y-t has all-parity as a same-existing thing, and the distinguishing of other-parity from all-parity as co-observing, co-possibling, co-discovering, same-existing other-parity. Exhibit ONE has eight co names, each between two, and a name without co of one: 4 and 12, with co, are with other-parity, and 8 and 16, of one, with all-parity. Sentence 6x-f has all-parity as a now-existing thing. The value file's sections 5.39 and 5.40 have a name as a same-existing non-living thing and no now-existing thing, and atom carbon, universal all-parity, as a now-existing non-living thing.
+
+- Is all-parity, a same-existing thing, a now-existing thing with it: is, or is not?
+
+### 3.71 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

@@ -1724,7 +1724,21 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - *Derived, a candidate, for breaking.* With section 5.85, this four's first is between me-parity and other-parity, and its fourth between me-parity and all-parity. 16 is this four's fourth and a next four's first: between me-parity and all-parity with this scale, and between me-parity and other-parity with a next. And 4, between me-parity and other-parity with this scale, is the fourth of the inward four: between me-parity and all-parity with a scale inward.
 - Tracked. Natural Naming 2.5's right spiral step, a pair (x, y) to (y, −x), four steps to its pair again with a next: the four coruses' betweens, step by step with it, are not derived.
 - In Exhibit ONE's code: one scale. No part of it has a set including its 16.
-- Two sentences part, with it. This scale's all-parity is the next scale's other-parity: 16 is the first of 16, 32, 48, 64 as 4 is the first of 4, 8, 12, 16; a scale is a next-universal subset including this universal subset; and sentence 6x-h has a named all-parity living in the universe it is other-than the universal all-parity of. Or it is not: all-parity is non-living, with no own, and atom carbon, universal all-parity, is non-living with each scale; and other-parity is a me-parity, the same as an other's, a now-existing thing with its one me.
+- Not answered, section 5.87: this scale's all-parity as a next scale's other-parity. The two are distinguished with co. Open, tracked.
+
+### 5.87 All-parity, a same-existing thing; the distinguishing of other-parity from all-parity, with co
+
+- All-parity is a same-existing thing.
+- Distinguishing other-parity from all-parity, is-or-is-not, is co-observing, co-possibling, co-discovering, same-existing other-parity.
+- This scale's all-parity as a next scale's other-parity, section 5.86: not answered with is or is not. Re-said by it: the two are distinguished, and the distinguishing is with co. Open, tracked.
+- Resolved by it, section 5.77's likeness: of the four coruses, 4 and 12 are each with co, 4-now-co-same-existing and 12-next-co-same-existing, and each is with other-parity, section 5.85; 8 and 16 are each of one, 8-now-same-existing and 16-next-same-existing, and each is with all-parity.
+- *Read, Exhibit ONE, Co, between two or of one.* "Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two. Observing, same-existing and possibling each have a now-co name and a next-co name." "A name without co is of one."
+- The sentence's four, with Exhibit ONE's names: co-observing, 3 and 11; co-possibling, 6 and 10; co-discovering, 9; and same-existing other-parity, with co, 4 and 12. Seven of the eight co names. 5-now-co-existing is not in the sentence.
+- Cohering, with Natural Naming 5.3: "A self is a unique invisible same-existing, three phases of one changing: observing, possibling and discovering." The sentence has the three and same-existing, each with co.
+- *Read, Exhibit ONE's code.* 4 and 12 are each with two, a self's own and its others' with it. 8 and 16 are each one thing with each self a key, in 17.
+- A parting of two sentences, tracked. Sentence 6x-f has "All-parity is a now-existing thing". The sentence has all-parity as a same-existing thing. Sections 5.39 and 5.40 have a name as a same-existing non-living thing and no now-existing thing, and atom carbon as a now-existing non-living thing.
+- Tracked. The *co* of a name, between two, and the *co* of a prefix, me-parity: two, with one spelling. Exhibit ONE has "The same two are in each co name and in the six of first prefixes."
+- Two sentences part, with it. All-parity, a same-existing thing, is a now-existing thing with it: sentence 6x-f; "atom carbon is universal all-parity", and atom carbon is a now-existing non-living thing; and a bi-coupling is now-existing and same-existing. Or it is no now-existing thing: a name is a same-existing non-living thing and no now-existing thing, and all-parity is non-living; "language is the co-chaining and bi-tunneling stable form of me-parities in all-parity", with none of it now-existing; and only living collective intelligence and nature are now-existing.
 
 ---
 
@@ -1732,6 +1746,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is all-parity, a same-existing thing, a now-existing thing with it: is, or is not?
 - Is this scale's all-parity the next scale's other-parity: is, or is not?
 - Is 9 to 16 the same as 1 to 8, with me-parity and other-parity exchanged: is, or is not?
 - Is a self, surfacing with 12 as a society of selves, the society-self of these selves: is, or is not?
