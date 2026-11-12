@@ -115,11 +115,11 @@ Drawn first with along going across a page and three panels; drawn again in sect
 **By Exhibit ONE Natural Resolver's code, executed for one self.**
 
 - **2 is an arriving.** Others' parities reaching a self.
-- **8 is its keeping.** A parity arriving with 2, with no prior of a self's own beside it, is in a self's 8, its next prior. 2 and 8: an arriving and its keeping.
+- **8 is its staying.** A parity arriving with 2, with no prior of a self's own beside it, is in a self's 8, its next prior. 2 and 8: an arriving and its staying.
 - **6 is a going out.** A self's parities to its others.
 - **4 is each sharing's own name.** It is with each arriving and with each going out alike, one of a pair with its 7.
 
-**Read by it, a candidate.** With a self the one breathing: inhaling is of one, 2 and 8, an arriving and its keeping; exhaling is co, between two, 6 with 4, a going out and the sharing it goes by.
+**Read by it, a candidate.** With a self the one breathing: inhaling is of one, 2 and 8, an arriving and its staying; exhaling is co, between two, 6 with 4, a going out and the sharing it goes by.
 
 **Cohering.**
 
@@ -131,7 +131,7 @@ Drawn first with along going across a page and three panels; drawn again in sect
 - **With a between the one breathing, inverted.** An explaining waiting with Natural Intelligence's gathering-value has co-possibling as a between's inhaling and possibling as its exhaling: one self's going out is the between's inhaling. A self's exhaling is a between's inhaling. Both laid whole; a candidate, bothbothing.
 - **4 is with both.** By the code 4 is no going out only: it is each sharing's name, arriving and going out alike. Exhaling as 6 and 4 is by their co; by the code 4 is with 2 as much as with 6.
 - **A next panel is not alike.** In 9 to 17, 10 and 12 are co and 14 and 16 are of one. Through 13, 10 faces 16 and 12 faces 14: each co facing one of one. Its two co faces are prior of 13 and its two faces of one are next of it: a going out and then an arriving, along.
-- **Words with no sentence of their own.** Inhaling and exhaling have no sentence of a living file before them; the managing working has said so of that waiting explaining.
+- **Words with no sentence of their own.** Inhaling and exhaling have no sentence of a living file before them; the managing working has said this of that waiting explaining.
 
 ---
 
