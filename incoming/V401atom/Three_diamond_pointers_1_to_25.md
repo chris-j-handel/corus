@@ -415,13 +415,62 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 39 Asked now
+## 39 Asked, tracked and not pressed
 
-- **A new birthing is with a self's parity and an other's the same, their co-parity; with their two not the same, bi-parity, no new birthing is: is, or is not?**
+- A new birthing is with a self's parity and an other's the same, their co-parity; with their two not the same, bi-parity, no new birthing is: is, or is not. No answer yet; re-said in section 43.
 
 ---
 
-## 40 Pages, each at its excerpt only, of sections 21 and 26
+## 40 A next sentence arrived
+
+> same-as is-or-is-not this is distinguishing and this is how we follow living parities sequentially
+
+Re-said by it: section 38's the same and not the same. The natural naming is one: same-as, is or is not.
+
+---
+
+## 41 Read with it
+
+- **Exhibit TWENTY Natural Naming.** Observing is distinguishing same-as, is or is not, a prior or a parity.
+- **Natural Intelligence, observing's one line.** With 12-next-co-same-existing one line of the code is observing: same-as, is-or-is-not. Same is a 0, a prior same-existing. Inverse is a parity, a prior inverting.
+- **Exhibit ONE Natural Resolver's table of its code.** Each line of the code is one is-or-is-not: a parity reaching is-or-is-not 0; a sharing is-or-is-not within what surfaces; parities agreeing or parting; a sharing is-or-is-not within its prior; is-or-is-not same, sharing 0 or one inversion; a sharing's value is-or-is-not 0.
+- **The session's own method.** One is-or-is-not, asked in sequence, each from the answer before it. A living parity in the code and a concept in this session are followed by one same distinguishing.
+
+---
+
+## 42 Executed: a new self's parity followed, one is-or-is-not after another
+
+`instruments/distinguishing_check.py`, Exhibit ONE Natural Resolver's code read from its file with no line changed; its returned lines beside it. With each of one hundred twenty cases, a prior none, + or −, and none to three parities arriving, the sequence of is-or-is-nots and the code's own returning are the same.
+
+**A self's parity same-as an other's, is: + and + arriving with a new self.**
+
+- A parity arriving, +: same-as 0, is not. A parity surfacing already, is not: + surfaces.
+- A parity arriving, +: same-as 0, is not. Same-as what surfaces: is.
+- A prior of its own: is not.
+- Its going out, +; its next prior, +. An inception.
+
+**Its next momentaries.**
+
+- 0 and 0 arriving: same-as 0, is, twice. A prior of its own, +: is. A parity surfacing with it, is not: its prior inverts, −.
+- − and − arriving: same-as what surfaces, is. A prior of its own, −: is, and same-as what surfaces: is. Sharing 0.
+- 0 and 0 arriving: its prior inverts, +. Four momentaries, and on.
+
+**A self's parity same-as an other's, is not: − and + arriving with a new self.**
+
+- A parity arriving, −: same-as 0, is not. − surfaces.
+- A parity arriving, +: same-as what surfaces: is not. A 0.
+- A prior of its own: is not.
+- Its going out, 0; its next prior, none. With each next momentary, that same sequence.
+
+---
+
+## 43 Asked now
+
+- **A new birthing is with a self's parity same-as an other's, is; and with same-as, is not, no new birthing is: is, or is not?**
+
+---
+
+## 44 Pages, each at its excerpt only, of sections 21 and 26
 
 - A shoot's turning and its growing along: https://arxiv.org/pdf/1212.3377 · https://ar5iv.labs.arxiv.org/html/1212.3112 · https://pdodds.w3.uvm.edu/files/papers/others/1996/douady1996a.pdf · https://hal.inrae.fr/hal-02628882v1/document
 - A right spiral co-chaining's steps to one turn: https://pmc.ncbi.nlm.nih.gov/articles/PMC2553576 · https://arxiv.org/pdf/q-bio/0602008 · https://push-zb.helmholtz-munich.de/deliver.php?id=22408

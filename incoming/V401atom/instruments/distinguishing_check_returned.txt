@@ -1,0 +1,41 @@
+a self's parity same-as an other's, is: +, + arriving, then 0, 0, then -, -
+  momentary 1
+    a parity arriving, +: same-as 0, is not
+      a parity already surfacing with it, is not: + surfaces
+    a parity arriving, +: same-as 0, is not
+      same-as what surfaces, +: is
+    a prior of its own: is not
+    its going out, +: same-as 0, is not; its next prior, +
+  momentary 2
+    a parity arriving, 0: same-as 0, is
+    a parity arriving, 0: same-as 0, is
+    a prior of its own, +: is; a parity surfacing with it, is not: its prior inverts, -
+    its going out, -: same-as 0, is not; its next prior, -
+  momentary 3
+    a parity arriving, -: same-as 0, is not
+      a parity already surfacing with it, is not: - surfaces
+    a parity arriving, -: same-as 0, is not
+      same-as what surfaces, -: is
+    a prior of its own, -: is; same-as what surfaces, -: is: sharing 0
+    its going out, 0: same-as 0, is; its next prior, -
+  momentary 4
+    a parity arriving, 0: same-as 0, is
+    a parity arriving, 0: same-as 0, is
+    a prior of its own, -: is; a parity surfacing with it, is not: its prior inverts, +
+    its going out, +: same-as 0, is not; its next prior, +
+a self's parity same-as an other's, is not: -, + arriving, then +, -
+  momentary 1
+    a parity arriving, -: same-as 0, is not
+      a parity already surfacing with it, is not: - surfaces
+    a parity arriving, +: same-as 0, is not
+      same-as what surfaces, -: is not: a 0
+    a prior of its own: is not
+    its going out, 0: same-as 0, is; its next prior, none
+  momentary 2
+    a parity arriving, +: same-as 0, is not
+      a parity already surfacing with it, is not: + surfaces
+    a parity arriving, -: same-as 0, is not
+      same-as what surfaces, +: is not: a 0
+    a prior of its own: is not
+    its going out, 0: same-as 0, is; its next prior, none
+each of 120 cases, a prior none, + or - and none to three parities arriving: the sequence of is-or-is-nots and the code's own returning are the same
