@@ -807,8 +807,14 @@ Sentence 6z-q has each sentence of a place shown a step farther, to its first in
 
 This part of the working is hard to follow, and the whole is asked for, with the area now in it. The folder's README, section 0.1, has the whole in six areas. The area now is the sixth: Exhibit ONE's seventeen names read with the sequence, and in it *observing*, the third of each four-cycling.
 
-- Is the area now, Exhibit ONE's names read with the sequence, the area to go on with: is, or is not?
+- The area now as the area to go on with: is. The sequence's 157 sentences are audited with the gatherings, and 52 are brought, each whole.
 
-### 3.92 With no reading yet
+### 3.92 7-is-now-observing
+
+Sentence 6z-p has 3 and 15 each as a distinguishing, is-or-is-not, of a now-existing parity the same as a prior-existing one. Exhibit ONE has four names with *is-*: 3 and 7, and 13 and 15. 7 and 15 are one name 8 up, each with tri by the eight, and sentence 6y-l has 7 as all-parity observing. In Exhibit ONE's code each 7 is one parity with its 4: one of a self's others' in the loop over 2, and a self's prior in the loop over 3, with 15 beside it in each.
+
+- Is 7-is-now-observing, as 3 and 15 are, a distinguishing of a now-existing parity the same as a prior-existing one: is, or is not?
+
+### 3.93 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

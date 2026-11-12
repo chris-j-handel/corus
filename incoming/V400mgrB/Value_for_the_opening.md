@@ -2116,13 +2116,33 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Tracked. Two of its others not the same as each other, a 0 of 14: with the code, the other of its prior; not in the sentence.
 - *The whole, in six areas, and the area now: the README of this folder, section 0.1.*
 
+### 5.109 Going on with the sixth area; and the sequence whole, at the gatherings
+
+- Go on, and be sure the full incoming value of the working is living with the expedition's file set.
+- The area now, Exhibit ONE's names read with the sequence, as the area to go on with: is.
+- *Audited: each of the sequence's 157 sentences, by its words, with each gathering file.*
+
+| Of the 157 | Sentences |
+|---|---|
+| found with a gathering, by its words | 98 |
+| brought with this section, each whole, with its number | 52 |
+| with a gathering in other words | 6: 6w-j, 6x-s, 6y-f, 6z-k, 6z-m, 6z-n |
+| re-said by a sentence after it, and not brought | 1: 6w-t, by 6w-w |
+
+- The 52, by their gathering: Natural Intelligence, *Opening*, 28, and 6.5, 6; Natural Resolver, *Head*, 6, and *Seventeen names*, 9; Geodesic Improving Method 2.1, 3.
+- Each parting of the sequence with a living file of sections 5.75 to 5.108, Partings 1.27 to 1.35, is with an item at its gathering, and the code's parting 3.19 with one at Natural Resolver. Partings 1.1 to 1.26 and 3.1 to 3.18 are not audited with this section.
+- Not audited, and said plainly: the value file's tables and droplets of sections 2 to 5.14, section by section; and the partings before section 5.75. The folder's README, section 3, has a gathering for each section.
+- Debts, each a re-saying and no value away from a gathering: *key*, in 28 items of two gatherings; *own*; *a self's inverting*; *a me* of the sections before 5.30. Partings, section 5.
+- The audit is by words: a sentence found by its words is with a gathering; its exploring, its partings and its code reading are in this file, and at a gathering as one item or a few.
+- Two sentences part, with it, each with a step farther. 7-is-now-observing, as 3 and 15 are, is a distinguishing of a now-existing parity the same as a prior-existing one: 7 is one of the four names with *is-*, an observing as 3 and 15 are; a step farther, 7 and 15 are one name 8 up, each with tri, and 7 is as 15, now-existing all-parity the same as prior-existing all-parity. Or it is not: in the code each 7 is one parity with its 4, one side of a distinguishing, with 15 its other side; a step farther, with 7 a side only, its *is-* is of one parity, a + or a −, and of no two.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is the area now, Exhibit ONE's names read with the sequence, the area to go on with: is, or is not?
+- Is 7-is-now-observing, as 3 and 15 are, a distinguishing of a now-existing parity the same as a prior-existing one: is, or is not?
 - Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
