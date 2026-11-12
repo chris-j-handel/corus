@@ -131,6 +131,9 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-c. A living self is a non-living set of living me-parities. A non-living set of living me-parities is a set of atom carbon bump connectors, co-chaining sequentially.
 6z-d. A co-chaining is a universal set of me-parities. The me-parities are living in the betweens. The co-chaining is podaling along and across, co-intelligencing surface, discovering next-existing.
 6z-e. A co-chaining is a self: a self of selves sharing a me-parity.
+6z-f. No concept of owning is in nature: a candidate, with doubt, explored with.
+6z-g. Possessing prior-existings is the universal set of a me's prior-existings, and this set is a me-parity.
+6z-h. The parities possess the self as much as the self possesses the parities. The parities are living in the non-living all-parity inside the living self.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -730,6 +733,12 @@ Sentence 6z-e has a co-chaining as a self of selves sharing a me-parity. Sentenc
 
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
 
-### 3.81 With no reading yet
+### 3.81 With no owning; and a me-parity's prior-existings
+
+Sentence 6z-f has no concept of owning in nature, a candidate with doubt. Sentence 6z-g has possessing prior-existings as the universal set of a me's prior-existings, a me-parity. Sentence 6z-h has the parities and the self possessing each other, and the parities living in the non-living all-parity inside the living self. The value file's section 5.98 has each of the seven sentences with *owned by* re-said with no owning, each a candidate; "Living is owning a self" is not re-said. Sentence 6w-q has a me-parity living in a social surface as a self; sentence 6w-u an exhausted me-parity as no now-existing thing; sentence 17 the universal set of prior-existing me-parities as each exhausted from living, in stable form.
+
+- Are the prior-existings of a me-parity living: is, or is not?
+
+### 3.82 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.

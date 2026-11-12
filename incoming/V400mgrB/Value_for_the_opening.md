@@ -1894,7 +1894,36 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Two of the seven are nearest to a defining. Sentence 6w-o: an owned me-parity is existing only inside its owner's set. Sentence 3: a name's owned things are the things of its set, and nothing beside them.
 - Parting among the seven. In sentences 3, 6w-o and 6w-q the owned is a thing of the owner's set. In sentence 5a the owned is a name, and a set is its things and no further thing. In sentence 6x-f the owned is the set of members whole. In sentence 6y-o the owned is a between, of the bi-coupling and the universe.
 - *Read, Exhibit ONE's code.* No part of it is named *own*. In the readings of this working, a self's own is its 3, in 16 by its key, and its others' me-parities with it its 2: *own*, in them, is a word of the reading, and not of the code.
-- Two sentences part, with it. A thing owned by an owner is a thing existing only inside its owner's set: sentence 6w-o has it of a me-parity; sentence 3 has a name's owned things as the things of its set and nothing beside them; and a self owns its me-parities, its set. Or it is not: the bi-coupling self owns a between, of itself and the universe, and no thing inside its set; a set owns its name, and a name is no thing of the set; a society owns all-parity as the set of its members whole; and living is owning a self.
+- Not answered, section 5.98: an owned thing as a thing inside its owner's set. No concept of owning is in nature, a candidate; the word is set aside with it.
+
+### 5.98 No owning in nature, a candidate; possessing, each of the other; the parities living in non-living all-parity inside the living self
+
+- No concept of owning is in nature: a candidate, with doubt, correct or not, helpful or of no value. Explored with it: each sentence, with no owning.
+- Possessing prior-existings is the universal set of a me's prior-existings, and this set is a me-parity.
+- The parities possess the self as much as the self possesses the parities.
+- The parities are living in the non-living all-parity inside the living self.
+- An owned thing as a thing inside its owner's set, section 5.97: not answered. Its word is set aside with the candidate. Open, tracked, in section 5.97's words.
+- *Explored: section 5.97's seven sentences, each with no owning. Each re-saying is a candidate, and each sentence its sayer's to re-say.*
+
+| Sentence | With owning | With no owning, a candidate |
+|---|---|---|
+| 3 | "the now-existing things its name owns" | a named set is the now-existing things with its name, and nothing beside them |
+| 5a | "one name, owned by one set" | *the universe* is one name, of one set, and no other set is with it |
+| 6w-o | "owned by the only one of me … inside the ownership set" | a me-parity is of one me only, existing only inside that me's set of me-parities |
+| 6w-q | "Living is owning a self, and a self owns its me-parities" | a self and its me-parities possess each other, as much one as the other; *living*, with no owning, is not re-said |
+| 6x-f | "owned by the society" | all-parity is the naming of the society's set, a same-existing named set of members |
+| 6y-o | "The bi-coupling self owns this between" | this between, all-parity, is inside the living bi-coupling self |
+| 6y-m | "No own is of universal all-parity" | universal all-parity is inside no self |
+
+- Observed with it. With *inside*, *of* and *with*, six of the seven are said whole, and section 5.97's parting among them, a thing inside, a name, a set whole and a between, is not in the re-sayings. With owning, no one defining was with each of the seven.
+- One is not re-said: "Living is owning a self". Sentence 6p has "A thing distinguishing its own next-existing is a living thing": a saying of living with no *owning* in it, and with *its own*.
+- Cohering, with the second sentence: Natural Naming has "a set is its things and no further thing". A self, a set, is its parities, and neither is before the other.
+- *Read, Exhibit ONE's code.* A self in 16 is its key with its 3 and its 2, and nothing beside them: no part of the code is a self apart from its parities. And a parity is in 16 by a self's key only.
+- Cohering, with the third sentence: a living self is a non-living set of living me-parities, section 5.94; all-parity is a stable form, same-existing, non-living thing, with its *all-* the naming of its set, section 5.92; the set is of atom carbon bump connectors, and the me-parities are living in the betweens, section 5.95. Three, one inside the next: the living self; the non-living all-parity; the living parities.
+- With it, parting 2.82: the non-living set, the connectors, is the all-parity; the living me-parities are in it. Said by the sentence.
+- With the first sentence: a me-parity is a universal set, of its me's prior-existings; and a me is a universal same-existing set of me-parities, sentence 6w-p. A set of sets, the fractal.
+- Tracked. *Own*, the word, is in 1,214 places of the working files and 5,553 of the living files, "a self's own", "its own", most with no owning said. *Own* as an owning, or as no owning: not in the sentence, and not re-said.
+- Two sentences part, with it. The prior-existings of a me-parity are living: "a me-parity living in a social surface is a self", and a living self is a non-living set of living me-parities, a me-parity with its scale a set of living ones a scale inward; and "the parities are living in the non-living all-parity inside the living self". Or they are not: "an exhausted me-parity is not a now-existing thing", living no more; sentence 17 has the universal set of prior-existing me-parities as each exhausted from living, in stable form; "a dormant me-parity is an inherited prior"; and living is with now.
 
 ---
 
@@ -1902,6 +1931,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Are the prior-existings of a me-parity living: is, or is not?
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
 - Is the me-parity the selves are sharing owned by the co-chaining, its one me: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
