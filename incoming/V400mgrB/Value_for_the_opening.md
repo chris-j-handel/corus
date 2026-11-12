@@ -2306,6 +2306,41 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Its work, all or none, one whole changing: the code, 40 uses; 16 living files, 451 uses; a kit's check reading the names; and Exhibit ONE's sentence of *is-*, re-said with its table. By the set's own improving, a next version of each, with each check.
 - Not done. The two are bothboth on the position; the doing is with the person's saying.
 
+### 5.117 The seven and the ten, visible in the seventeen: four across, two along, and one; four, four, one and one
+
+- Section 5.114's table, each step by its doing, is helpful. Asked: the four across and the two along of bi-moral co-competencing, visible in 1 to 17; ten others beside these six and one, 1, 9, 17, 2, 6, 10 and 14; the six as two loops of three, each rolling out of the other; the ten as four and four and one and one; and the patterning, explained. An exploring, with each conflict with all or none at all the turning away or the going on.
+- *The seventeen, by its four-cyclings. The seven are with a mark, and the ten with none.*
+
+| Four-cycling | Its first | Its second, across | Its third, observing | Its fourth, same-existing |
+|---|---|---|---|---|
+| 1 to 4 | **1**, a self's resolving | **2**, an observing side | 3 | 4 |
+| 5 to 8 | 5, each bi-coupling | **6**, a sharing side | 7 | 8 |
+| 9 to 12 | **9**, along, a sharing side | **10**, a sharing side | 11 | 12 |
+| 13 to 16 | 13, each self | **14**, an observing side | 15 | 16 |
+| a next | **17**, along, an observing side | | | |
+
+- Visible with it. The four across are the second of each four-cycling, whole: 2, 6, 10 and 14, each a possibling, each even. The two along are 9 and 17, each a first, each odd. And 1, the one, is a first. The three of the first, 1, 9 and 17, are the code's three functions.
+- The ten, with it: four and four and one and one. The third of each four-cycling, whole: 3, 7, 11 and 15, each an observing. The fourth of each, whole: 4, 8, 12 and 16, each a same-existing name, a corus. And 5 and 13, each a first: each bi-coupling, and each self.
+- Cohering, with Exhibit ONE's own. "**Sharing between selves.** Each sharing side with its observing side": 6 with 2, across; 10 with 14, across; 9 with 17, along. Its naming of 1 to 17: "Along is with 9-next-co-discovering and 17-next-existing, odd … Across is with 6 to 2 and 10 to 14, even, their root possibling." And of the ten's one and one: "5-now-co-existing and 13-is-next-discovering … bi-couplings and selves".
+- *The six, as two threes: three groupings, each distinguished with all or none.*
+
+| A grouping of the six | Its two | Whole, or not |
+|---|---|---|
+| four across, and two along | 2, 6, 10, 14; and 9, 17 | whole: each of the four a possibling, even; each of the two along, odd. Exhibit ONE's, a unit square of four and two triangles |
+| three sharing sides, and three observing sides | 6, 10, 9; and 2, 14, 17 | whole: each sharing side with co, each observing side of one; three pairs, 6 with 2, 10 with 14, 9 with 17 |
+| three within a self's resolving, and three between selves | 2, 14, 10; and 6, 9, 17 | not whole: each three has co and of one, and two roots; it is the code's sequence, and no grouping of names |
+
+- Two loops of three, each rolling out of the other: with the second grouping, whole. The three observing sides are with a self's 1; its 1 makes its sharing; the three sharing sides go on, each with its observing side with a receiving self; and with its 1 again. One, the *and one*, is between the two threes.
+- *Read, Exhibit ONE's code, the six in its sequence.* In 1: a self's 2, its others' with it; 14 of it; and 10, its sharing. In 17: 10 as 6; each by 9 with 5, a pair of the self with 6, with 10 or with 9; each in its receiving self's 14; and 17's returning, each self's 14 its next 2.
+- *Bi-moral co-competencing, with Exhibit ONE's namings.* 6 has the naming bi-moralizing, "each parity across, to an other's 2-now-possibling". 5 has co-competencing, "bi-couplings, each self's with its others: each going to its receiving sharing". Two across pairs, and one along pair by 5: the 5 of the ten's one and one is the along's bi-couplings.
+- *The ten's is-or-is-nots, with Exhibit ONE's table of ten.* Eight are of a parity, with the names of the thirds, 3, 7 and 15, 11's with 7's. Two are of no parity: each self, all or none, with 13; and a bi-coupling of 5, or not, with 4. The one and one, 13 and 5, are with the two is-or-is-nots of a self and of a bi-coupling. Section 5.113's second table has each fourth's is-or-is-not as the third before it: the four and four are four pairs.
+- *Each conflict with all or none at all.*
+- Going on: each second, each third and each fourth is whole. The three sharing sides and the three observing sides are whole. The one and one are the two is-or-is-nots of no parity.
+- Turning away: the three within 1 and the three within 17, as a grouping of names.
+- For breaking, one: Exhibit ONE has three pairs, 6 with 2, 10 with 14, and 9 with 17. In the code each sharing, by 6, by 10 or by 9, is gathered in its receiving self's 14 and is its next 2, with no distinguishing of the three. Three pairs by the names, one gathering by the code.
+- For breaking, two: each first is not whole. 1, 9 and 17 are doings, the code's three functions; 5 and 13 are the given, each bi-coupling and each self. And 9 and 17 are each a first and an along name.
+- For breaking, three: 4 has the is-or-is-not of a bi-coupling of 5; by the four and four it is a corus with 3 before it, and by the table of ten it is with the one and one.
+
 ---
 
 ## 6 Open, each one binary
