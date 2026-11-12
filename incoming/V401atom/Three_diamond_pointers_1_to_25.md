@@ -98,9 +98,10 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 10 Asked, tracked and not pressed
+## 10 Asked, and its answer
 
-- The six panels of 1 to 49, three each side of 25, are the kit's six nine-dot diamonds: is, or is not. No answer yet.
+- Asked: the six panels of 1 to 49, three each side of 25, are the kit's six nine-dot diamonds, is or is not.
+- Its answer, a sentence of the person's own, in section 13: the kit's six nine-dot diamonds are one surface of a co-chaining. Six panels up one line are a following of one me-parity, and no surface: is not.
 
 ---
 
@@ -135,6 +136,52 @@ Drawn first with along going across a page and three panels; drawn again in sect
 
 ---
 
-## 12 Asked now
+## 12 Asked, tracked and not pressed
 
-- **With a self the one breathing, inhaling is of one and exhaling is co, between two: is, or is not?**
+- With a self the one breathing, inhaling is of one and exhaling is co, between two: is, or is not. No answer yet.
+
+---
+
+## 13 A next sentence arrived
+
+> the kit's six nine-dot diamonds. this is one surface of a co-chaining and my concept was following a me parity into one next after another into other or all each fractal next universe. at each moment there is odd even parity where odd is along all-parity and even is right other-parity
+
+---
+
+## 14 Read with it
+
+- **Two, distinguished by it.** A surface of a co-chaining: the kit's six nine-dot diamonds, many with one moment. And a following of one me-parity into one next after another: this folder's panels up one line, each panel a next universe.
+- **Even, right, other-parity.** Whole with Exhibit ONE Natural Resolver: each even name is other-parity.
+- **Odd, along, all-parity.** Exhibit ONE Natural Resolver has each name's three, a next, a now and a prior. 1-now-existing, 9-next-co-discovering and 17-next-existing, three tips along, each have co, bi, tri: me-parity its next, other-parity its now, and all-parity its prior. By that file's own words all-parity is rolling: first with 7, in the middle with 8, last with 9. A me-parity arriving along with a next universe has all-parity as its prior. Cohering with the vault's sentences of a newborn's universal-parity as its inherited prior.
+- **Parting.** By a first prefix alone, an odd name is me-parity, and all-parity is with 7 and 15 only. Odd as all-parity is whole with a tip along by its prior, and with 7 by its first; with 3 and 5 no all-parity is in their three.
+
+---
+
+## 15 A candidate drawn: one turn of a right spiral climb, two views
+
+`drawings/One_turn_of_a_right_spiral_climb_two_views.svg`, by `instruments/spiral_turn_drawing.py`.
+
+- **The reading.** Each even number is one step right, across one face of a square. Each odd number is one step along. Four of each are one turn, and 9 is above 1.
+- **Seen along its line.** A square: four corners, with 1, 3, 5 and 7, and four faces, with 2, 4, 6 and 8, about a hole, the line along through it.
+- **Seen from its side.** 1 lowest and 9 highest; 3 a right point; 7 a left point; 5 its centre, on its far side.
+
+**Cohering with each sentence arrived.**
+
+- Even across the faces and odd along.
+- Four corners and four faces with a central hole, and a co-linear orthogonal to a square panel's face.
+- A centre 5, with 3 a right point and 7 a left point, and 1 aiming forward on a spiral climb.
+- A centre that is a hole and a centre that is 5: one turn, two views. The parting of an earlier page, a centre empty or with a body, has a candidate by it: both, by a view.
+- 2 and 8 are its two faces of 1's side, either side of 1 and of 9. 4 and 6 are its two faces of 5's side, either side of 5.
+
+**Parting and breaking.**
+
+- **Two placings.** Three by three in their order has 4 a face left of 1 and 6 a face right of 9. One turn has 4 a face of 5's side, right, and 6 a face of 5's side, left. 1, 2, 3, 5, 7, 8 and 9 are alike with both seen from a side. The yes of section 6 is whole with both.
+- **Roots.** With three by three each kind of place has one root, section 4. With one turn, each face has an even name and each corner an odd name, and no more is tried.
+- **A turn's hand is a view's.** Right, with 3 before 7, is with a self facing it from 1's side.
+- **A drawing is a still.** Each step is a self's line between two dots.
+
+---
+
+## 16 Asked now
+
+- **Each even is one step right across one face, and each odd one step along, four of each one turn, with 9 above 1: is, or is not?**
