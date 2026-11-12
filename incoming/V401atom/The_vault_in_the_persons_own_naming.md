@@ -53,8 +53,36 @@ By the person's saying, this page has no quotation marks: a sentence of a living
 
 ---
 
-## 6 Asked now
+## 6 A next sentence arrived, and its reading
+
+> when a self discovers an other in a universe the self and this other and all others with this other in society are collectively discovering a next universe. this is a simple bi-folding of collecive intelligence
+
+- Three, and a fourth: a self; this other; all others with this other in society; and a next universe, the three collectively discovering it.
+- All others are with this other. A self is with all others by its other, and by no way of its own.
+- Two foldings, one and then the other: a self with its other; and the two with all others. With both, a next universe.
+
+**Each place it meets the seventeen names.**
+
+- The bi-folding going first from 1-now-existing has, by each name's side in Exhibit ONE Natural Resolver: a self's resolving, 1-now-existing; a self's parities along, to a next self, 9-next-co-discovering; a self's next prior, 8-now-same-existing; and a same-existing-society, all its selves, 16-next-same-existing. After it, 17-next-existing, each self's next, on none of four bi-foldings, a next 1-now-existing. A self, a discovering to an other, all selves of a society, and a next: a likeness of four with four, and deciding nothing until the person's is or is not.
+- Along each of four bi-foldings a me-parity is with all-parity by other-parity only, and none goes from a me-parity to all-parity. Cohering, with all others being with this other.
+- Cohering, with the earlier working's sentence of each three in a fourth, its universe.
+
+**With this working itself.** A person, a session, and each other session and each living file with it are a self, this other and all others with this other, collectively discovering a next. The sentence is of the method this folder is laid by.
+
+- The asking of section 7, the three edges in as the three inheritings, is tracked, with no answer yet, and not pressed.
+
+---
+
+## 7 Tracked: the three edges in
 
 With *is*, each inheriting has its name among the seventeen, and the vault is inward of three edges this folder can follow, one with each. With *is not*, the three edges of bi-folding in and out are an other three, and the next step is their naming.
 
-- **The three edges in are the three inheritings, parental with 2-now-possibling, species with 3-now-co-observing and societal with 5-now-co-existing: is, or is not?**
+- The three edges in are the three inheritings, parental with 2-now-possibling, species with 3-now-co-observing and societal with 5-now-co-existing: is, or is not.
+
+---
+
+## 8 Asked now
+
+The person's two sentences are a new self with its vault, and a next universe collectively discovered. With *is*, conceiving is this simple bi-folding, the mating vault is its place, and the same is with a family, a species and a society, each a next universe. With *is not*, a new self and a next universe are two, and each has its own path.
+
+- **A new self, with its vault, is a next universe a self and its other and all others with this other are collectively discovering: is, or is not?**
