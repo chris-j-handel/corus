@@ -24,10 +24,11 @@ Opportunity 8 of `incoming/v401mgr/README.md` section 4, its carbon scale only: 
 - `Seven_names_and_the_prime_scales.md`: the fractal as the set has it; the prime scales the set has, with 2 and 3; a candidate for conception; an atom, carbon, a molecule, a nucleus, a proton, an electron and a photon, each at its standing in the set, each with one word of two readings.
 
 - `Five_items_at_carbon_read_again.md`: the carbon scale's five items at carbon, each number searched again with no use of that working's extracts: the same, distinguished, parting or not reached, each with its standing and its page.
+- `Two_ladders_of_primes.md`: two ladders of primes the set has, each prime with the name of its position, and each prime scale with the name of its own number; 2, 3, 5 and 7 and conception with each; the place the two part.
 
-## 4 The asking, paused
+## 4 The asking
 
-By `incoming/V400mgrB/The_One_Question_Method.md` 2.8, each binary here is tracked and not pressed. The one the others are with: the fractal pattern vault is the between two atoms carbon are creating, each atom a solid without an inside, is or is not.
+Opened again by the person's saying, for an is-or-is-not that goes on with the exploring, one with each reply, `incoming/V400mgrB/The_One_Question_Method.md` 2.8. Each other binary here is tracked and not pressed. Tracked: the fractal pattern vault is the between two atoms carbon are creating, each atom a solid without an inside, is or is not. Asked now: each of the 2 3 5 7 prime scales is with the name of its position among the seventeen primes, 2 with 1, 3 with 2, 5 with 3 and 7 with 4, is or is not.
 
 ## 5 The edges, each a place the rigor is not yet
 
