@@ -820,8 +820,14 @@ Sentence 6z-p has 3 and 15 each as a distinguishing, is-or-is-not, of a now-exis
 
 Sentence 6z-s has each of the four observings as a distinguishing of a now-existing parity the same as a prior-existing one: 3, me now from other prior; 7, me now from universal prior; 11, other next from universal now; 15, me next from universal now. Each name with *now* is a now from a prior and each with *next* a next from a now; each with *co* has other in it. 7 and 15 are one name 8 up and one saying. 3 and 11 are one name 8 up, and not one saying. In Exhibit ONE's code 11 is a self's next priors. Sentence 6y-r has 12 between other-parity and me-parity.
 
-- Is 11, as 3 is with 8 up, me next from other now: is, or is not?
+- Is 11, as 3 is with 8 up, me next from other now: is, or is not? Not answered; tracked.
 
-### 3.94 With no reading yet
+### 3.94 *Is-*, and 11
+
+Exhibit ONE has *is-* with four names, 3 and 7, and 13 and 15, the names a binary is with. In Exhibit ONE's code each is-or-is-not of 1 is with a 7 or a 15, 3's are with its 7s, and 17's one is with a pair of 13 in 5; no is-or-is-not is with 11. Sentence 6z-s has each of the four observings, 3, 7, 11 and 15, as a distinguishing, is-or-is-not. The three are cohering with each name but 11 and 13. In the code 2 is as 3 is, and with no *is-*; 4 and 5 are in 17's is-or-is-not, each with none.
+
+- Is 11-next-co-observing with an is-or-is-not of its own: is, or is not?
+
+### 3.95 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
