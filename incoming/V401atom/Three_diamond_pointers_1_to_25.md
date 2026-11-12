@@ -1,6 +1,6 @@
 Incoming · V401atom · three diamond pointers, 1 to 9, 1 to 17 and 1 to 25
 
-# Three diamond pointers, 1 to 9, 1 to 17 and 1 to 25
+# Diamond pointers co-chained, 1 to 9, 1 to 17, 1 to 25 and 1 to 49
 
 **A drawing of one sentence arriving and one line of Exhibit ONE Natural Resolver, with each thing that comes of it and each parting.** Relied on by nothing. No living file and no gathering-value changes with this page. A candidate, deciding nothing. No wording here has authority. With no quotation marks.
 
@@ -25,7 +25,7 @@ Incoming · V401atom · three diamond pointers, 1 to 9, 1 to 17 and 1 to 25
 
 ## 3 The drawing
 
-`drawings/Three_diamond_pointers_1_to_25.svg`, by `instruments/diamond_pointer_drawing.py`.
+Drawn first with along going across a page and three panels; drawn again in section 7, `drawings/Six_diamond_pointers_1_to_49.svg`, by `instruments/diamond_pointer_drawing.py`.
 
 - **One panel.** Nine numbers on one square panel, three by three in their order, turned with 1 and 9 its two tips. Odd numbers are with its four corners and its centre: 1, 3, 7 and 9, and 5. Even numbers are with its four faces: 2, 4, 6 and 8. Its dots along are one, two, three, two and one, the kit's nine-dot diamond.
 - **Three panels.** 1 to 9, 9 to 17 and 17 to 25, co-chained tip to tip: 9 is a first panel's last and a second's first, and 17 a second's last and a third's first.
@@ -56,6 +56,48 @@ Incoming · V401atom · three diamond pointers, 1 to 9, 1 to 17 and 1 to 25
 
 ---
 
-## 6 Asked now
+## 6 Asked, and its answer
 
-- **The diamond pointer's centre is 5, with 1 and 9 its two tips along the me-parity: is, or is not?**
+- Asked: the diamond pointer's centre is 5, with 1 and 9 its two tips along the me-parity, is or is not.
+- Its answer: yes, with a sentence:
+
+> yes with 3 on right point and 7 on left point 1 is me-parity aiming forward traveling on the spiral climb of your horizontal 1-25 discplay and the next fold is this to 49 and that is 24 each side of 25
+
+- Resolved by it, for this folder: a local nine's centre is 5. Section 5's first parting, centre 1 or centre 5, stays with Exhibit TWENTY-NINE Natural Illustrating's section 2.8 and its kit, for its gathering-value.
+
+---
+
+## 7 Drawn again by it
+
+`drawings/Six_diamond_pointers_1_to_49.svg`, by `instruments/diamond_pointer_drawing.py`; its arithmetic executed, `instruments/diamond_pointer_check_returned.txt`. The earlier drawing, along going across a page with 3 above, is out.
+
+- **1 aiming forward.** Along is forward, up a page, as the kit's own arrow has it. 3 is a right point and 7 a left point. Each panel on has its me-parity point right and its all-parity point left: 3, 11, 19, 27, 35 and 43 right, and 7, 15, 23, 31, 39 and 47 left.
+- **To 49.** Six panels, 1 to 49, each a next panel's first its own last: 9, 17, 25, 33 and 41. 25 has twenty-four each side.
+
+---
+
+## 8 What comes of the fold, each executed
+
+- **Three panels each side of 25.** Twenty-four each side is three panels each side: six panels as two threes. With this session's sentence of the six as two threes.
+- **A fold is a turning of one hundred eighty degrees about 25.** Each number n and 50 less n lie as one such turning about 25: along inverted and across inverted, two together.
+- **What a fold exchanges.** A me-parity point with an all-parity point, right with left: 3 with 47, 11 with 39, 19 with 31. Each face with a face, other-parity with other-parity, a possibling face with a same-existing face. Each number along with a number along, me-parity with me-parity. 25 with itself.
+- **Each smaller fold alike.** 1 to 9 about 5, each n with 10 less n; 1 to 17 about 9, each n with 18 less n: that same exchanging.
+- **1, 9, 25 and 49.** By arithmetic they are 1, 3, 5 and 7, each by itself, and they are none, one, three and six panels on from 1: eight, sixteen and twenty-four between each two. 1 to 17 is two panels and is no such number.
+- **Two directions.** Twenty-four prior of 25 and twenty-four next of it, along. An asking tracked earlier in this folder, the birthing vault's two directions as next and prior, along, has a candidate by it: is.
+- **Three along and four across with each direction.** Each side of 25 has three panels along and four faces with each panel, twelve faces, each other-parity; and beside them twelve odd numbers, nine me-parity and three all-parity.
+
+---
+
+## 9 Parting and breaking of the fold
+
+- **A fold with a number as its centre, and a podal with a between as its centre.** Exhibit ONE Natural Resolver's podal within 1 to 16 is 17 less: it exchanges odd and even, me-parity with other-parity, and its centre is between 8 and 9, no number. This fold within 1 to 17 is 18 less: it has odd with odd and even with even, and its centre is 9, a number. Two folds one apart. Both laid whole; by the method's sentence of a seeming either-or, a candidate: bothbothing, one and then the other.
+- **The kit's six.** The kit has six nine-dot diamonds on rings about three centres, fifty-four dots, none in two diamonds. Six panels co-chained are forty-nine, five dots each in two panels. Six with both; fifty-four and forty-nine part.
+- **A spiral climb.** This drawing is flat: six panels up one line. A climb turning as it goes is not drawn, and no sentence of this page has its turning.
+- **49 has no names.** As 18 to 25: by Exhibit ONE Natural Resolver's eight going on only.
+- **A second placing of 25 and of 49.** Twenty-five numbers five by five in their order, turned, and forty-nine seven by seven, are each one panel with its own centre 13 and 25. Three panels of nine and one panel of twenty-five are two placings of 1 to 25, and none is tried beside its other here.
+
+---
+
+## 10 Asked now
+
+- **The six panels of 1 to 49, three each side of 25, are the kit's six nine-dot diamonds: is, or is not?**

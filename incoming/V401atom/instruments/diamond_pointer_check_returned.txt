@@ -1,0 +1,12 @@
+1 to 49, 6 panels, centre 25, 24 each side
+each n and 50 less n are a half turn about 25 : True
+  parity and across ('bi', -1) with [('bi', 1)]
+  parity and across ('bi', 1) with [('bi', -1)]
+  parity and across ('co', 0) with [('co', 0)]
+  parity and across ('co', 2) with [('tri', -2)]
+  parity and across ('tri', -2) with [('co', 2)]
+along: [1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49]
+right points: [3, 11, 19, 27, 35, 43] left points: [7, 15, 23, 31, 39, 47]
+odd squares: [1, 9, 25, 49] panels to each: [0, 1, 3, 6]
+17 less n keeps odd and even: False ; first prefixes exchanged: [('bi', 'co'), ('bi', 'tri'), ('co', 'bi'), ('tri', 'bi')]
+18 less n keeps odd and even: True ; first prefixes exchanged: [('bi', 'bi'), ('co', 'co'), ('co', 'tri'), ('tri', 'co')]
