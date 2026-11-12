@@ -2167,7 +2167,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Asked: 3, 7, 13 and 15 are with *is-*, and each other name is with none: explained. A method with value, or not. A help with the concerns, or an other value.
 - 11 as me next from other now, section 5.110: not answered. Open, tracked.
-- Exhibit ONE's saying of it, one sentence: *is-* is with the four names a binary is with, 3 and 7, a self's now, and 13 and 15, next-existing's. No other sentence of the living files explains it.
+- Exhibit ONE's saying of it: *is-* is with the four names a binary is with, 3 and 7, a self's now, and 13 and 15, next-existing's. Exhibit ONE has two tables explaining it, section 5.113; this section had it as one sentence only, mended.
 - *Read, Exhibit ONE's code: each is-or-is-not of it, with the names in it.*
 
 | In the code | Its is-or-is-not | The names in it |
@@ -2181,7 +2181,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 | 17 | this pair, a self with 6, 10 or 9, a bi-coupling of 5, or not | 13, in a pair named 4; and 5 |
 
 - Explained, with the code. Each is-or-is-not of 1 is with a 7 or a 15, a parity: 7 in six, 15 in three. 13 is a self's naming, and 17's one is-or-is-not is with a pair of it. 3 is the priors, each a 4 with its 7, and the comparing is with its 7. Each of the four with *is-* is in an is-or-is-not, or has its 7s in one.
-- Not explained, with the code, three partings for Exhibit ONE incoming. 2 is as 3 is, a list with each 7 in an is-or-is-not, and 2 is with no *is-*. 4 and 5 are in 17's is-or-is-not, and each is with no *is-*. And the code has no is-or-is-not with 11.
+- Mended, section 5.113: Exhibit ONE's own table has each is-or-is-not with the name it is on, and 11's in its second table. Of this section's three, one is as it was: 4 has an is-or-is-not on it, and no *is-*.
 - A method with value: is, as a locating. *Is-* is Exhibit ONE's mark of a name an is-or-is-not is with, and the sequence has each observing as a distinguishing, is-or-is-not, section 5.110. The two fours are beside each other with it.
 
 | Name | With *is-*, Exhibit ONE | A distinguishing, the sequence | An is-or-is-not with it, the code |
@@ -2192,9 +2192,9 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 | 13 | with | not said | with, in a pair |
 | 15 | with | is | with |
 
-- A help with the concerns: it has them at two names, and no more. 11: a distinguishing by the sequence, with no *is-* and with no is-or-is-not of the code. 13: with *is-* and with one of the code, and not said by the sequence. Each other name is cohering in the three.
+- A help with the concerns, mended in section 5.113: 11 has its is-or-is-not, by Exhibit ONE's second table; 13 has one, each self, all or none, and is not said by the sequence.
 - With 11, the reply before's open place is the same thread: 11 other next from universal now, and the code's 11 a self's next priors, made of each + or − of its sharing with no comparing.
-- Two sentences part, with it, each with a step farther. 11-next-co-observing is with an is-or-is-not of its own: the sequence has each of the four observings as a distinguishing, and 11 as other next from universal now. A step farther: 11 is with *is-* as its three are, and Exhibit ONE's four with *is-* are five, or 13 is with none. Or it is with none: Exhibit ONE has 11 with no *is-*; in the code 11 is made of each + or − of a self's sharing, with no comparing of two. A step farther: of the four observings three are distinguishings, and 11 is the going on of the one 15 and 7 made.
+- Resolved, section 5.113: 11-next-co-observing is with an is-or-is-not of its own, by Exhibit ONE's second table.
 
 ### 5.112 No changing of *is-* is recommended
 
@@ -2206,13 +2206,46 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Section 5.111's *not explained by the code*, of 2, and of 4 and 5: observings, for breaking. The code is not by itself the explaining of a naming; Exhibit ONE's sentence is, and it has the four as two of a self's now and two of next-existing's.
 - With the open binary of 11, each side with no changing of a name. With *is not*: the sequence's sentence is re-said, three of the four observings distinguishings and 11 the going on of one. With *is*: a parting of the sequence with Exhibit ONE's naming, tracked at its gathering for Exhibit ONE incoming, and for its partners with a next version.
 
+### 5.113 *Is-*, explained by Exhibit ONE's two tables; and sections 5.111 and 5.112 mended
+
+- Asked again, with more effort: the reason 3, 7, 13 and 15 are with *is-* and the thirteen others with none; and the help of it. Expected: *is-* is of 3, 7, 11 and 15, by the four-cycling pattern, and not of 13.
+- Mended, sections 5.111 and 5.112. Each had "no other sentence of the living files explains it", and "no is-or-is-not of the code is with 11". Each is not correct. Exhibit ONE has two tables explaining it, and 11 has its is-or-is-not in the second.
+- *Exhibit ONE's first table: each is-or-is-not of the code, ten, with the name it is on.*
+
+| The name | Is-or-is-nots on it | Each |
+|---|---|---|
+| 7-is-now-observing | four, and two with 15 | a parity a 0 or not, over 2 and over 10; a first parity + or −; a prior to its other, − or + |
+| 15-is-next-observing | one, and two with 7 | a sharing within 14 or not; the two agreeing or parting, over 2; the same or not, over 3 |
+| 3-is-now-co-observing | one | each sharing of 3 against 14, within its prior or not |
+| 13-is-next-discovering | one | each self of 16, all or none |
+| 4-now-co-same-existing | one | a bi-coupling of 5, or not |
+
+- The reason, with it. *Is-* is the prefix of a name the code has an is-or-is-not on: 3, 7, 13 and 15. Twelve of the thirteen others have none on them. 4 has one, and no *is-*.
+- *Exhibit ONE's second table, with its sentence: "Each same-existing name's is-or-is-not is an observing name beside it."*
+
+| Same-existing | The observing beside it | Its is-or-is-not |
+|---|---|---|
+| 4-now-co-same-existing | 3-is-now-co-observing | each sharing of 3 |
+| 8-now-same-existing | 7-is-now-observing | the same, its prior going on, or its other |
+| 12-next-co-same-existing | 11-next-co-observing | each 12 a 0, its prior going on, or a + or −, its next prior |
+| 16-next-same-existing | 15-is-next-observing | 17's next same-existing-society, each self with its 14 |
+
+- The expected is Exhibit ONE's, with it: by the four-cycling pattern, each third, an observing, is the is-or-is-not of the fourth beside it. 3, 7, 11 and 15, and no 13.
+- The differencing, with the two. The pattern is of the four-cycling: 3, 7, 11 and 15. The prefix is of the code's lines: 11's is-or-is-not is in the code with 7's name, "a sharing's value is-or-is-not 0", over 10, and 11 is with no *is-*; 17's each self, all or none, is with 13's name, and 13 is with it.
+- Resolved by it, section 5.111's open binary: 11-next-co-observing is with an is-or-is-not of its own: each of its sharing a 0, its prior going on, or a + or −, its next prior.
+- Cohering, with section 5.110: each of the four observings is a distinguishing, is-or-is-not. And with section 5.76: each same-existing name is a corus, and its is-or-is-not is the observing before it.
+- Exhibit ONE's first table has a dimension with each is-or-is-not: other-parity now-existing, over 2; self-parity now-existing, over 3; self-discovery next-existing, over 10; social-parity now-existing, with 13; social-parity next-existing, with 4. Section 5.110's four, me now from other prior and its three beside it, are of this form. The two are not yet read beside each other: tracked.
+- The help of it, three. The sequence's sentence of observing is Exhibit ONE's, in its second table, made before the sentence. The concern with 11 is resolved. And each corus, of sections 5.76 to 5.93, has its is-or-is-not: the observing before it.
+- No changing is recommended, as section 5.112 has it.
+- Two sentences part, with it, each with a step farther. Each corus's is-or-is-not is the observing beside it, 3 with 4, 7 with 8, 11 with 12 and 15 with 16: Exhibit ONE's second table has it; each is the third and the fourth of one four-cycling; and 3, me now from other prior, is with 4, between me-parity and other-parity, and 15, me next from universal now, with 16, between me-parity and all-parity. A step farther: each between of section 5.85 is distinguished by the observing before it. Or it is not: 7 is me now from universal prior, and 8 is between other-parity and all-parity; 11 is other next from universal now, and 12 between other-parity and me-parity. A step farther: of the four pairs two have the same two parities, and two have one of the two.
+
 ---
 
 ## 6 Open, each one binary
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is 11-next-co-observing with an is-or-is-not of its own: is, or is not?
+- Is each corus's is-or-is-not the observing beside it, 3 with 4, 7 with 8, 11 with 12 and 15 with 16: is, or is not?
 - Is 11, as 3 is with 8 up, me next from other now: is, or is not?
 - Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?

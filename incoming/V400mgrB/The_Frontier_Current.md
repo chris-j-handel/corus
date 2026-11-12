@@ -145,6 +145,7 @@ The current understanding for Natural Intelligence's opening, as sentences in th
 6z-q. An idea for the method: of the two sentences of a place, each is shown a step farther, to its first incohering.
 6z-r. With none of its others with it, a self's next prior parity is the same as its prior parity.
 6z-s. *A distinguishing of a now-existing parity the same as a prior-existing one* is of each of the four observings. 3 is me now, from other prior. 7 is me now, from universal prior. 11 is other next, from universal now. 15 is me next, from universal now.
+6z-t. Expected: *is-* is of 3, 7, 11 and 15, by the four-cycling pattern, and not of 13.
 6w-c. Ingesting is from the universe, and exhausting is to the universe. Ingesting is 17, and is not 1. 17 is ingesting, and each +16 after 17 is ingesting: each next round's 17.
 6x. Co-aiming is not ingesting. It is the co-linearizing of self and other, each forward, facing each other across the between. Bi-moral co-competencing is co-aiming.
 
@@ -824,10 +825,16 @@ Sentence 6z-s has each of the four observings as a distinguishing of a now-exist
 
 ### 3.94 *Is-*, and 11
 
-Exhibit ONE has *is-* with four names, 3 and 7, and 13 and 15, the names a binary is with. No changing of *is-* is recommended, and none is in this place. In Exhibit ONE's code each is-or-is-not of 1 is with a 7 or a 15, 3's are with its 7s, and 17's one is with a pair of 13 in 5; no is-or-is-not is with 11. Sentence 6z-s has each of the four observings, 3, 7, 11 and 15, as a distinguishing, is-or-is-not. The three are cohering with each name but 11 and 13. In the code 2 is as 3 is, and with no *is-*; 4 and 5 are in 17's is-or-is-not, each with none.
+Exhibit ONE has *is-* with four names, 3 and 7, and 13 and 15, the names a binary is with. No changing of *is-* is recommended, and none is in this place. In Exhibit ONE's code each is-or-is-not of 1 is with a 7 or a 15, 3's are with its 7s, and 17's one is with a pair of 13 in 5; 11's is with 7's name, over 10, place 3.95. Sentence 6z-s has each of the four observings, 3, 7, 11 and 15, as a distinguishing, is-or-is-not. The three are cohering with each name but 11 and 13. In the code 2 is as 3 is, and with no *is-*; 4 and 5 are in 17's is-or-is-not, each with none.
 
-- Is 11-next-co-observing with an is-or-is-not of its own: is, or is not?
+- 11 with an is-or-is-not of its own: is, by Exhibit ONE's second table, "Each same-existing name's is-or-is-not is an observing name beside it." The place before this had the code with none for 11: mended.
 
-### 3.95 With no reading yet
+### 3.95 Each corus, and the observing beside it
+
+Exhibit ONE has two tables of its is-or-is-nots. The first has ten, each with the name it is on: 7, 15, 3, 13, and 4 once; *is-* is the prefix of a name with one on it. The second has each same-existing name's is-or-is-not as the observing beside it: 3 with 4, 7 with 8, 11 with 12, and 15 with 16. Sentence 6z-t expects *is-* of 3, 7, 11 and 15, by the four-cycling pattern. Sentence 6y-h has each same-existing name as a corus, sentence 6y-r each corus as a between of two parities, and sentence 6z-s each observing with its two.
+
+- Is each corus's is-or-is-not the observing beside it, 3 with 4, 7 with 8, 11 with 12 and 15 with 16: is, or is not?
+
+### 3.96 With no reading yet
 
 - "5, 10, 15, 20 and 25 are locating": the five numbers have no reading yet.
