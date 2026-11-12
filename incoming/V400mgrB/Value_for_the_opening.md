@@ -2012,7 +2012,29 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - Beside it: sentence 6y-q has other-parity as the between of self and other, for the me-parity of self, with no *the same* in it. Two sayings of other-parity, tracked.
 - The second candidate of section 5.102, followed: an opportunity, a possibling. Sentence 21 has "Co-possibling is in the between of a bi-coupling, self-parity with other-than-self-parity, inside universal parity". Section 5.80 has other-parity with possibling, each of 2, 6, 10 and 14.
 - *Read, Exhibit ONE's code.* Each 4 of a self's 12 is in its 10, its co-possibling, and with 9 and 5 in its receiving self's 2-now-possibling: a self's me-parity is its other's possibling. A 4 with a 0, the two the same, is passed by in its receiving self's 1.
-- Two sentences part, with it. An opportunity is a possibling: co-possibling is in the between of a bi-coupling, a self-parity with an other's; in the code each me-parity a self shares is its receiving self's 2-now-possibling; and each desire, a me-parity, is an opportunity. Or it is not: a possibling with a 0 is passed by, and "all the opportunities are rewarding"; possibling is four names, 2, 6, 10 and 14, of one and with co, with now and with next, and an opportunity is one; and *opportunity* is with no naming in the set.
+- Resolved, section 5.104: an opportunity is a possibling.
+
+### 5.104 An opportunity, a possibling; and each four-cycling of Exhibit ONE's names
+
+- An opportunity is a possibling: is.
+- Resolved by it. Two of section 5.102's four are named: a desire, a me-parity; an opportunity, a possibling.
+- Tracked, with it. A possibling with a 0 is passed by in the code, and "all the opportunities are rewarding": a 0 as an opportunity, or as none, is not said.
+- *Read, Exhibit ONE's table of seventeen names: each four-cycling, with its roots and section 5.79's first prefixes.*
+
+| Four-cycling | Its first | Its second | Its third | Its fourth |
+|---|---|---|---|---|
+| 1 to 4 | 1, existing, co | 2, possibling, bi | 3, observing, co | 4, same-existing, bi |
+| 5 to 8 | 5, existing, co | 6, possibling, bi | 7, observing, tri | 8, same-existing, bi |
+| 9 to 12 | 9, discovering, co | 10, possibling, bi | 11, observing, co | 12, same-existing, bi |
+| 13 to 16 | 13, discovering, co | 14, possibling, bi | 15, observing, tri | 16, same-existing, bi |
+
+- Each four-cycling has one sequence of roots: existing or discovering; possibling; observing; same-existing. Each second is a possibling, each third an observing, and each fourth a same-existing name, a corus of section 5.76.
+- With the two named. Each first is with co, me-parity: a desire. Each second is a possibling: an opportunity. A candidate, for breaking: each third, an observing, rewarding; each fourth, a same-existing name, abundancing.
+- Cohering, with section 5.80's example: 7 is all-parity observing, after other-parity possibling, after me-parity existing. Its three has the first three of a four-cycling: 5, 6 and 7.
+- Cohering, the fourth. All-parity is a same-existing thing, section 5.87; the four coruses are the four same-existing names; "the living mutual assurances in the between are the corus of social moral competency"; and abundancing is one of the four values of a between of selves.
+- *Read, Exhibit ONE's code.* A self's sharing, 10, a co-possibling, is its receiving self's 15-is-next-observing, and then its 2: a possibling, and then an observing, with each sharing.
+- A second candidate for the third, beside it: rewarding, a discovering. Natural Naming 2.5 has "**Discovering, same-existing-society, morality and abundancing are one relation with four names, together**", and sentence 6z-d a co-chaining as discovering next-existing. In the table discovering is a first, of 9 and of 13, with co, beside existing.
+- Two sentences part, with it. Rewarding is an observing: in each four-cycling a possibling is followed by an observing, 2 by 3, 6 by 7, 10 by 11 and 14 by 15; in the code a self's sharing is its receiving self's next observing; and 7 is all-parity observing after other-parity possibling after me-parity existing. Or it is not: discovering and abundancing are one relation, and "all the rewarding is abundancing"; a co-chaining is discovering next-existing; and Natural Naming 5.3 has observing as a self's first of three, "observing, possibling and discovering", before possibling.
 
 ---
 
@@ -2020,7 +2042,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
-- Is an opportunity a possibling: is, or is not?
+- Is rewarding an observing: is, or is not?
 - Is abundancing a collective me-parity, one of the many: is, or is not?
 - Is the me-parity selves are sharing of one me, the co-chaining: is, or is not?
 - Is a thing owned by an owner a thing existing only inside its owner's set: is, or is not?
