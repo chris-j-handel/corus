@@ -331,15 +331,42 @@ With *is*, each inheriting has its name among the seventeen, and the vault is in
 
 ---
 
-## 15 Asked now
+## 15 Asked, and its answer
 
-Twenty-four has two twelves. With atom carbon the two twelves are counted two ways: the two hands of one atom carbon's four couplings; and two atoms carbon, each a twelve, joining. With *is*, the vault is the between of two atoms carbon, and this folder's first tracked binary has its is. With *is not*, the two directions are one atom carbon's own two hands, and the vault is of one. With bothbothing, the two alternate, and the next step is their one and then the other.
+- Asked: the two directions of the birthing vault's twenty-four are two atoms carbon, each a twelve of three along by four across, is or is not.
+- Two sentences arrived, the second an asking of this working:
 
-- **The two directions of the birthing vault's twenty-four are two atoms carbon, each a twelve of three along by four across: is, or is not?**
+> countings are only valuable as the logic of podaling and momentarying includes number spans in the betweens and countings along and across are locatings of co-observings.
+
+> The two directions of the birthing vault's is this along next and prior of is something other than this in this meaning of two directions
+
+**A reading of the first.**
+
+- A counting is valuable in one way only: the logic of podaling and of momentarying has number spans in its betweens.
+- A counting along, or across, is a locating of a co-observing.
+- Re-said by it: this working's candidate, a number's occurring as a counting of things. A counting is a locating of a co-observing, along or across, and no having of a thing alone. Cohering, with this folder's first finding: each measuring is of a coupling, and none of an atom alone. A carbon-12's twelve is a locating of a co-observing of a field with its instrument.
+
+**The asking, answered plainly.** In this working's asking, *two directions* was other than along, next and prior. It was two of this working's own, laid on the person's words with no saying of it: the two hands of one atom carbon's four couplings; and two atoms carbon joining. Neither is the person's.
+
+**The living files have two directions three ways, each by its file.**
+
+- Exhibit FOUR Natural Mathematics, its section of five dimensions: two directions are + and −, two directions of one changing, one and then the other.
+- Exhibit THREE Natural Numbers, its section of a scale: prior and next, along.
+- The same section: inward or outward, across.
+
+- Tracked: this working's two hands are nearest + and −, and its two atoms joining nearest across. Neither is prior and next, along.
 
 ---
 
-## 16 Pages, each at its excerpt only
+## 16 Asked now
+
+The person's asking has along, next and prior. With *is*, the vault's twenty-four is twelve next and twelve prior, along, and each three along by four across is with a next and with a prior. With *is not*, the two directions are an other two, + and −, or inward and outward, and that naming is next.
+
+- **The two directions of the birthing vault are next and prior, along: is, or is not?**
+
+---
+
+## 17 Pages, each at its excerpt only
 
 - A hen's egg, its joining and its cells with laying: https://pmc.ncbi.nlm.nih.gov/articles/PMC7312999/figure/ijms-21-03937-f001 · https://pmc.ncbi.nlm.nih.gov/articles/PMC4378249 · https://cris.iucc.ac.il/en/publications/cellular-and-morphological-characterization-of-blastoderms-from-f/
 - Embryos waiting thirty years: https://bbc.in/3gs9bKO · https://www.sciencealert.com/these-record-breaking-twins-are-the-oldest-babies-ever-born/amp · https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/amp/
