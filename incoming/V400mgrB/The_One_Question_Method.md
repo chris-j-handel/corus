@@ -86,6 +86,13 @@ The method's 2.6 has a concern resolving "as code resolves, each step with its n
 - Then, binary, all or none at all, it is exploring that path next, along and across the surface.
 - It is mending and restoring into the collective intelligence of natural networking value about the universe of observings.
 - Beside it, Exhibit ONE's code: the same, a sentence goes on as it is; not the same, re-said; two not the same as each other, a 0, and a question; no prior, a first me-parity the same as its other's. A likeness, and for breaking: one step beside one resolving, each first me-parity from a living me's prior living.
+### 2.6 The method, in a second sentence of its own
+
+- The method is locating and gathering conflicting threads of words about concepts.
+- The natural naming and explaining and co-chaining among the conflicting understandings is resolvable by one distinguishing is-or-is-not.
+- This is the me-parity of natural intelligence, followed inside the bi-folding to the destinies aimed into and through and across and around.
+- It is for connecting all the local logical webs into the bi-moral-co-competencing surface of natural torusing.
+- In a reply: the conflicting threads are *a place two sentences part*, each side with its sentences; the one distinguishing is its one is-or-is-not; and each thread not yet with its distinguishing is tracked.
 
 ## 3 The rigor, and its edges
 

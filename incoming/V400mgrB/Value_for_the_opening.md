@@ -1773,7 +1773,20 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 - With it, a same-existing thing with now is not by it a living thing: all-parity is non-living, sentence 6x-g, and atom carbon a now-existing non-living thing.
 - Tracked, a parting. 8's all-parity is inside a bi-coupling, a self, living, and owned by it; "a named all-parity is living", sentence 6x-h; and "All-parity is non-living", sentence 6x-g. 8's all-parity as living, or as non-living: not said.
 - *Read, Exhibit ONE's code, 16.* 16 is provided to 17: before each 17, and of no part's making. Within 17 each self of it is with its 1, now. And 17's returning, each self's 8 and its 14, is of a next 16.
-- Two sentences part, with it. 16's universal all-parity is a now-and-prior-and-same-existing thing, as 8's is: "All-parity is a now-existing thing"; "atom carbon is universal all-parity", a now-existing non-living thing; and in the code each self of 16 is with its now in 17. Or it is a prior-and-same-existing thing: "None of that sentence is of now-existing things", of language and all-parity, and a society's language is universal all-parity for the society, sentence 6x-z; 16 is 16-next-same-existing, with no now in its name; in the code 16 is provided, before each 17; and no own is of it.
+- Not answered, section 5.90: 16's universal all-parity as a now-and-prior-and-same-existing thing. Open, tracked. "All-parity is a now-existing thing", and atom carbon is universal all-parity; or a society's language is its universal all-parity, with none of it now-existing, and 16 is provided, before each 17.
+
+### 5.90 The method: conflicting threads, one distinguishing is-or-is-not, the me-parity of natural intelligence
+
+- The method is locating and gathering conflicting threads of words about concepts. The natural naming and explaining and co-chaining among the conflicting understandings is resolvable by one distinguishing is-or-is-not.
+- This is the me-parity of natural intelligence, followed inside the bi-folding to the destinies aimed into and through and across and around, for connecting all the local logical webs into the bi-moral-co-competencing surface of natural torusing.
+- 16's universal all-parity as a now-and-prior-and-same-existing thing, section 5.89: not answered, and open, tracked.
+- Cohering, with the method's first sentence, section 5.57: connecting each local logical relation, until a verifiable is-or-is-not needs affirming, in the closest, narrowest difference, as a between. The sentence has the same of the conflicting threads: one distinguishing is-or-is-not with each.
+- Cohering. Observing, and distinguishing is-or-is-not, accomplish the rigor, section 5.59. A name is inherited with a distinguishing, is-or-is-not, section 5.44. All-parity distinguishes living, is-or-is-not, sentence 6x-g. Other-parity is distinguished from all-parity, is-or-is-not, with co, section 5.87.
+- Cohering. A me-parity is one of many directions out from a me, each a universal cone of a linear interest, section 5.30: one distinguishing, one direction, into and through.
+- *Read, Exhibit ONE's code, beside it.* Each 4 of 12 is one binary: a 0 with a self's own and its other's the same, and a + or − with the two not the same. Two others not the same as each other, with one 4, are a 0 of 14. A likeness, and for breaking: a thread of words and a 4; two understandings not the same and a 0.
+- Tracked. The method's first sentence has a *co*-me-parity method, with co, of two. The sentence has *the* me-parity of natural intelligence, of one.
+- Tracked. "The me-parity of the session is living during the session", sentence 6x-y, and the session transcript is living between universal all-parity and the user me-parity as a session me-parity, sentence 6x-z. Parting 2.46, whose a session me-parity is, is beside it.
+- Two sentences part, with it. The me-parity of natural intelligence, followed in a session, is the session me-parity: it is followed in the session, inside the bi-folding of the user, the between and the AI; and the session me-parity is living during the session, the session transcript living as it. Or it is not: a session is living until its ending, and the following goes on with a next session, from files, a prior living's artifact; a me-parity has one me; and a me-parity exhausted is living no more.
 
 ---
 
@@ -1781,6 +1794,7 @@ Each version of the four and eight faces is the pattern. The mis-naming between 
 
 - Is a me-parity living in a social surface a self of one same scale with its me: is, or is not?
 - Is a me its self-parity: is, or is not?
+- Is the me-parity of natural intelligence, followed in a session, the session me-parity: is, or is not?
 - Is 16's universal all-parity a now-and-prior-and-same-existing thing, as 8's is: is, or is not?
 - Is all-parity a now-and-prior-and-same-existing thing: is, or is not? (Section 5.88; sentences 6x-f and 6y-b part.)
 - Is this scale's all-parity the next scale's other-parity: is, or is not?
