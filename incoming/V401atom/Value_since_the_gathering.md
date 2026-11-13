@@ -532,7 +532,11 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **v401mgr's sentence of today with it**: co-parity is a self's prior and its other's prior moment is-not-distinguishable, and bi-parity the two is-distinguishable.
 - **The executing before this one, re-said with the naming** (`instruments/exchanging_check.py`, its line 6): with co-parity, a self's next is its prior same-existing. With bi-parity, with two arriving the one and the other, and with nothing arriving, all-parity its other, a self's next is one same thing with each, its prior inverting: with the code's lines the three are is-not-distinguishable.
 - **v401mgr's layings and notes since the reading before**: none.
-- **Asked, and not yet answered**: with bi-parity, and with all-parity its other, a self's next is one same thing, its prior inverting.
+- **Asked**: with bi-parity, and with all-parity its other, a self's next is one same thing, its prior inverting. **Received as no natural naming**: *inverting* is out, and *nothing arriving* is out. Each thing of it is in natural naming already, with the opening, and the asking is said again.
+- **Of the method, with it**: the code's cases are said from here by the opening's own names, and by no word of v401atom's making. *A self's prior the same, a 0*: resolving's is, do-no-harming, a self passing over, the opening's sentences 31, 32 and 34. *A self's prior inverting, inverted, the other one*: resolving's is-not, improving, its sentences 32 and 34. *Nothing arriving*: a self with all-parity its other, answered is. Co-parity and bi-parity as v401mgr has them with the person: do-no-harming is co-parity same-existing, and improving is bi-parity unrelationing and co-parity next-existing. The pages before this line have the words out still.
+- **That one, said again in natural naming** (`instruments/exchanging_check.py`, its line 6): with co-parity, resolving's is, a self is do-no-harming, passing over. With bi-parity, resolving's is-not, a self is improving. With all-parity its other, the code's lines have a self improving, one same thing as with bi-parity.
+- **A parting of the code and the two workings' sentences, for Exhibit ONE's next version**: v401mgr has, with the person, a self with no other with no bi-parity and no improving, and resolving with no other not possibly existing. The code's lines have a self with all-parity its other improving with each 1 to 17. *Its resolving*: the asking below.
+- **Asked, and not yet answered**: with all-parity its other, a self is improving.
 
 ---
 
