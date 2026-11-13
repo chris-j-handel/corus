@@ -449,7 +449,19 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *A later self with that sequence arriving alone, one with each 1 to 17, each of two priors*: its priors are the sequence, one with one, and its own exhausted sequence is that sequence again.
 - **Whole with the suggestings and with what is answered**: an atom carbon exhausted is with all-parity, and with the code each self's exhausting, compacting, is alternating, all-parity's alternating by the person's saying before. A later self with it is with a prior living's priors again, each one, and exhausting the same stable form again.
 - **A parting, for watching over.** *Two sides*: with compacting, each self's exhausted sequence is the same alternating, with each living. With the person's saying before, the spans in the sequences of orientings are the co-intelligencing of healthy living, and a span is each 1 to 17 with a 0, with no atom. *Harm of one alone*: with compacting alone, each prior living's stable form is the same, and a later living is inheriting nothing of one healthy living and not of an other. With spans alone, a span is a 0 with no atom with it, and a stable form of atoms has no thing a span is with. *Its resolving*: the asking below, a pattern with an atom carbon's faces.
-- **Asked, and not yet answered**: with a co-chaining of exhausted atoms carbon, a living's pattern is with the faces each atom carbon is co-chaining with.
+- **Asked**: with a co-chaining of exhausted atoms carbon, a living's pattern is with the faces each atom carbon is co-chaining with. **Its answer, a suggesting**, with no is and no is-not.
+
+**Going on: a span, same-existing faces along a co-chaining, and all-parity.**
+
+- **The suggesting, re-said**: with a stable form's co-chaining, a span is same-existing faces, one after one. A span is distinguishing is-or-is-not all-parity, one after one along it.
+- **Executed with Exhibit ONE's code, each case, all or none** (`instruments/span_check.py`): four selves along, each with the one before it with 9, each of sixteen cases of their priors, with each sequence of six 1 to 17s, nothing, + or − arriving with the first.
+  - *A self with a parity arriving from the one before it*: its next prior is the next prior of the one before it, made one 1 to 17 before, the same. Same-existing along, one more of a span.
+  - *A self with nothing arriving from the one before it*, that one with nothing distinguished: its next prior is its prior inverted. All-parity's alternating.
+  - *With each self and each 1 to 17 it is one of the two, and no third.* One binary, one after one along a co-chaining.
+- **Whole with the suggesting and with what is executed before**: a co-chaining along from a self with nothing arriving is alternating with each self, all-parity. A co-chaining along from a self of two with co-parity is the same with each self, one span. A span is with living's co-parity before it, and all-parity's alternating with none.
+- **The parting before this one, nearer with it**: compacting, each 0 out, and spans, each 0 a span with no atom. With this reading a span is with atoms: each atom carbon along with the orientation of the one before it. A 0 is with no atom, and a span is no 0. *Its resolving*: the asking below.
+- **No line of the code is with a face.** *Faces* is said with the atom carbon bump connector's shape, and executed with nothing.
+- **Asked, and not yet answered**: a span is each atom carbon along a co-chaining with the same orientation as the one before it.
 
 ---
 
