@@ -122,6 +122,14 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **A parting, for watching over.** *One side*: this folder's fourth has dormancy inside living, and no new birthing. *Other side*: the me-parity waits as dormant priors, before a new me-parity is living. *Harm*: dormancy entered with one side alone is said after living only, or before living only.
 - **Asked, and not yet answered**: a new me-parity is living with a dormant prior alternating inside the vault, and with no dormant prior none is.
 
+**Going on: all-parity first, the input to the code.**
+
+- **Suggestings, in natural naming**, to the parting of the alternating: the input to the code is the all-parity, of betweens, with + no longer and − next. The sequence is alternating and bi-changing: odd, even, odd for a self, and its other overlapping it by a part, odd, even, odd too. This method of all-parity is birthing a possible now-existing me-parity, an other-than-all-parity. It is after the all-parity only. Dormancy waits for the alternating to begin, resolving the living and discovering next-existing.
+- **Read from the code, each line**: 16-next-same-existing, a society, is given, and no line assigns it; by the table all-parity is its now. Two lines write a + or a −: with 14-next-possibling, a parity a self is observing, as it is; and with 12-next-co-same-existing, a prior inverting, + no longer and − next. In 1-now-existing's order 14-next-possibling and 15-next-observing are first, and 12, 10 and 11, a self's next prior, are after them: no line of a self's next prior is before all-parity observing.
+- **Read from the code, each case**: a self and an other with bi-parity, bi-coupling both ways, are each alternating with each 1 to 17, the other's line the self's one step on.
+- **Resolved by it**: the parting of the alternating. Its line is the code's line of a prior inverting, and all-parity is the code's input, given.
+- **Asked, and not yet answered**: a self is odd, even, odd with 1, 2 and 3, and its other with 3, 4 and 5, the two with one same 3.
+
 ---
 
 ## 6 Executed, each case, all or none
