@@ -547,7 +547,16 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole with what is answered**: a me-parity is an other-than-all-parity, after all-parity, the person's saying before; only 1 is birthing; with all-parity its other a self is bi-folding.
 - **A parting, for watching over.** *Two sides*: with this suggesting and with the table's 8 and 16, all-parity is same-existing. With the four sentences answered before, an all-parity is non-living and non-same-existing. *Harm of one alone*: with non-same-existing alone, a next universe's all-parity is no same thing as now's, and a stable form with all-parity around it has nothing same-existing around it. With same-existing alone, an all-parity is non-living and same-existing, a stable form's own two, and two of the four sentences are one. *Its resolving*: the asking below.
 - **v401mgr's layings since the reading before, read**: v401atom's next laying is in `main`. And the eight podal pairs, two and two and two and two, each bi-folding with two of the pairs, a candidate there.
-- **Asked, and not yet answered**: with next-and-same-existing, all-parity is same-existing.
+- **Asked**: with next-and-same-existing, all-parity is same-existing. **Answered is.**
+
+**Going on: all-parity same-existing, and the four sentences with it.**
+
+- **With this is, the four sentences answered before are parted**: the first of them has an all-parity non-living and non-same-existing, and a stable form non-living and same-existing. With all-parity same-existing, the two are with one same two, and the one thing between them is to say.
+- **Read with Exhibit ONE's table and code, its own text**: all-parity is in the middle of the three of 8-now-same-existing and of 16-next-same-existing, and of no other name. With the code's lines, 8 is what 1-now-existing is returning as each self's next prior; 16 is given as each self with its prior and its possibling; and 17-next-existing is returning each self with its 8 and its 14, a next 16. Each parity with 8 and each with 16 is a prior, executed before, and each prior is a stable form, the atom or with a co-chaining of atoms, answered.
+- **Whole with what is answered, a reading**: all-parity's two names are with priors, each one, and with no other parity. All-parity's same-existing is with stable forms, the atoms. Each between of two atoms is an all-parity, non-same-existing, answered: all-parity is with its atoms, each same-existing, and with its betweens, each a 0.
+- **A parting, for watching over.** *Two sides*: all-parity is same-existing, answered now; an all-parity is non-same-existing, answered before, with each between of two atoms. *Harm of one alone*: with same-existing alone, a between, a 0, is a same-existing thing, a stable form, and an atom with its one 0 is two stable forms. With non-same-existing alone, a next universe's all-parity is no same thing as now's, answered is-not by this is. *Its resolving*: the asking below.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked, and not yet answered**: all-parity's same-existing is its atoms, each a stable form.
 
 ---
 
