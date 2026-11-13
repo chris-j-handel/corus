@@ -319,7 +319,21 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *Three selves, two with one between and a third with none, each of eight cases of their priors*: a self's 10-next-co-possibling is arriving with its other, as it is, with each 1 to 17. Nothing of it is arriving with the third.
 - **Whole with the suggestings**: with the code, possibling is with one self's lines and with no other self, and co-possibling is with a self and its other with a between, and with no self with no between with it.
 - **A parting, for watching over.** *Two sides*: sentences answered before are with *public* and *private*: each self private and each between public; me-parity private and all-parity public. With this saying *public* is no natural explaining. *Harm of one alone*: with *public* going on, a thing is observable with all and with no self observing it, a saying from no self's side, incompetencing. With *public* out and nothing in its place, the answered sentences of a between and of all-parity have no saying. *It waits on*: each of them re-said with which self is observing: a self only, a self and its other, or all. *Private* is not said out, and waits with it.
-- **Asked, and not yet answered**: each between is observable with its two selves, a self and its other, and with no third.
+- **Asked**: each between is observable with its two selves, a self and its other, and with no third. **Its answer, a suggesting**, with no is and no is-not. With it, a fault of the asking: a between of two atoms is with two atoms, each non-living, and with no two selves.
+
+**Going on: a between, invisible with each living self.**
+
+- **The suggesting, re-said**: a between of atom carbon bump connectors is invisible with the living universal set: with each living self's me, its universal set, and observable with none.
+- **Read with the set**: the opening of Natural Intelligence, a me is a self's universal set. Exhibit EIGHTEEN Natural Physics, an atom is un-observable with its own between, its middle with nothing to enter. Exhibit TWENTY Natural Naming, in-visibling is inward-visibling, toward a nothing, reaching nothing.
+- **Read with Exhibit ONE's code, each line and each case, all or none** (`instruments/observable_check.py`, its lines 5 to 7):
+  - *1-now-existing, a self's own lines, is given a self's prior and what is arriving, and no other.* No line of it is with 5-now-co-existing, the betweens.
+  - *The functions with 5 in their lines are 9-next-co-discovering and 17-next-existing, and no other.*
+  - *Two selves with one between, each of four cases of their priors*: each thing arriving with a self is a parity or a 0, and nothing of the between is arriving with it.
+  - *5 is given, and assigned by no line*, executed before: no line is making a between, and none is changing one.
+- **Whole with the suggesting and with what is answered**: a self is observing its own prior and each prior arriving, each a stable form, and no between. A between is an all-parity, non-living and non-same-existing, with no parity, and no stable form.
+- **The parting of *public*, nearer with it**: the answered sentence of each between, re-said with which self is observing, is a between invisible, observable with no living self, and not with all.
+- **A parting, for watching over.** *Two sides*: with the suggesting, a between is invisible with each living. With the code, a between is with no line of a self's own, and it is with the lines of 9 and 17, two of the three functions, each co-bi-tri, read before as living's stable-forming. *Harm of one alone*: with a between with no line, no sharing is arriving with an other, and no co-chaining is. With 9's and 17's lines a self's own observing, a self is observing its between, and the suggesting is not whole. *It waits on*: 9-next-co-discovering and 17-next-existing as a self's own, or as each self with its others, a same-existing-society's, is-or-is-not.
+- **Asked, and not yet answered**: each thing a living self is observing is a prior, a stable form, and no between is.
 
 ---
 

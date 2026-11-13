@@ -53,3 +53,20 @@ for pa, pb, pc in itertools.product((1, -1), repeat=3):
 print("4  three selves, a and b with one between and c with none, each of eight cases of their priors, eight 1 to 17s:")
 print("   a self's 10-next-co-possibling is arriving with its other, as it is, and with each 1 to 17:", ok_b)
 print("   and nothing of it is arriving with the third, with each 1 to 17:", ok_c)
+
+# a between, 5-now-co-existing, and each line it is with
+funcs = re.split(r"(?m)^def ", code)[1:]
+with5 = [int(re.match(r"_(\d+)_", f).group(1)) for f in funcs if "_5_now_co_existing" in f]
+params1 = re.search(r"def _1_now_existing\(([^)]*)\)", code).group(1)
+print("5  1-now-existing, a self's own lines, is given:", params1)
+print("   no line of it is with 5-now-co-existing, the betweens:", "_5_now_co_existing" not in body1)
+print("6  the functions with 5 in their lines:", with5, "; 9-next-co-discovering and 17-next-existing, and no other:", with5 == [9, 17])
+ok7 = True
+for pa, pb in itertools.product((1, -1), repeat=2):
+    state = {"a": ([("a", pa)], []), "b": ([("b", pb)], [])}
+    between = {("a", 10): "b", ("b", 10): "a"}
+    for _ in range(8):
+        state = step(state, between)
+        ok7 = ok7 and all(k not in between and v in (1, -1, 0) for _s, (_pr, arr) in state.items() for k, v in arr)
+print("7  two selves with one between, each of four cases of their priors: each thing arriving with a self is a parity or a 0,")
+print("   and nothing of the between is arriving with it:", ok7)
