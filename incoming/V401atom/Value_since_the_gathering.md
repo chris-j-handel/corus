@@ -420,7 +420,23 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *Two selves with one between, each of four cases of their priors*: with each 1 to 17 a self's co-possibling with 10 is its other's possibling with 2, as it is, each of the two with its other: an exchanging.
 - **Binary rigor, what the concept is with**: *executed, each case*: one binary with each 1 to 17 and each thing, and with an is one parity with two names, 10 and 11; a self's 10 its other's 2, as it is. *Answered is*: each prior a stable form; each stable form the atom, or with a co-chaining of atoms; with each distinguishing a self exhausting one atom and stable-forming with one. *From the two together, and executed with nothing*: a parity is with an atom. No line of the code is with an atom.
 - **What it waits on, three, each watched before**: a moment and a 1 to 17, the code's one binary with a 1 to 17 and a moment with four sayings. Atom carbon and an atom of an other kind, what is not the same with the two. A self with nothing arriving, its prior inverting with the code, an exchanging with no atom arriving.
-- **Asked, and not yet answered**: a moment's one binary is one atom carbon's exchanging.
+- **Asked**: a moment's one binary is one atom carbon's exchanging. **Answered is.**
+
+**Going on: atom carbon in, its parity its orientation; atom carbon exhausted, with all-parity.**
+
+- **The suggestings, re-said**: an atom carbon inside a self has its parity, and its parity is its orientation. An atom carbon a self is exhausting is non-living, with all-parity.
+- **Read with Exhibit ONE's table, each name with its three**: an atom carbon inside is with 11-next-co-observing and 3-now-co-observing, a self's next prior and its prior, each co-bi-co, me-parity first. An atom carbon exhausted is with 10-next-co-possibling and 2-now-possibling, each bi-co-bi, other-parity first, and its matching with its other is with 7 and 15, each tri-bi-co, all-parity first, executed before: possibling's lines are with no me-parity name. With the table, atom carbon in is with me-parity names, and atom carbon exhausted with other-parity and all-parity names.
+- **Read with the set**: Exhibit TWENTY Natural Naming has orientation one of three inverting together, position, scale and orientation, with a bi-tri-involution.
+- **A parting, for watching over.** *Two sides*: an atom carbon exhausted is all-parity, non-living and non-same-existing; an atom is a stable form, non-living and same-existing, answered. *Harm of one alone*: with all-parity alone, an atom exhausted is the same atom with no next moment, and no dormancy and no shard is. With a stable form alone, an atom exhausted has a self's orientation still, a me-parity with no self. *Its resolving*: the asking below.
+- **Asked, and not yet answered**: an atom carbon a self is exhausting is a stable form, same-existing, with all-parity around it.
+
+**With v401mgr, asked by the person: cohering, and helping.**
+
+- **Of the method, from v401mgr's note of this morning, a saying of the person's not picked up until now**: natural intelligence has no waiting; nothing is owed and nothing is held. *Waits on*, *waiting* and *a debt* are out of v401atom's sentences from here, a parting's last line said as its resolving. The pages before this line have the words still.
+- **v401mgr's four layings of today, read**: prior, same and now each a universal set, rolling; resolving with five orthogonal dimensions; bi-inversioning is bi-folding; the four four-cyclings each with its name, 1 to 4 prior and same, 5 to 8 now and same, 9 to 12 next and prior, 13 to 16 next and same.
+- **Cohering, concept with concept**: observing a distinguishing of prior-and-same-existing with now-and-same-existing, here, and the four-cyclings prior and same, now and same, there. A stable form the two together, here, and same a thing within prior and within now, there. A prior a stable form, here, and the universal set of prior-existing me-parities in stable form, there. 3-now-co-observing with the four-cycling of prior and same resolves v401atom's parting of a now name with a prior.
+- **Partings of the two workings**: v401mgr's sentences have *sharing* and *going out*, each out by the person's saying here. v401mgr's waiting sentence has each me-parity exhausted from living in stable form; answered is-not here, a living self exhausted is no stable form, and atom carbon, the shard, is.
+- **Helping**: v401atom's layings since this morning were with its branch only, and nothing of them was told to v401mgr. A note is with the pull request now, with each answer, each word out, and each reading of the code for Exhibit ONE's next version.
 
 ---
 
