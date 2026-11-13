@@ -377,6 +377,56 @@ Each is plain, names one thing, and opens from the ones before it. Each is from 
 
 ---
 
-## 27 Asked now
+## 27 Asked, and its answer
 
-- **These nine, in this sequence, are that explaining with its contorting out: is, or is not?**
+- Asked: these nine, in this sequence, are that explaining with its contorting out.
+- Its answer, a sentence of the person's own:
+
+> is-or-is-not we use the hyphenated form of this. is followed by is not natural explaining. 25 is weird language. some of these sentences are just existing and there is evidence they are part of a bi-folding sequentially progressing logic
+
+- Out with it: is or is not with no hyphens, from here on; *is followed by*, of the twentieth; the twenty-fifth's wording; and the nine as nine new sentences in one row.
+
+---
+
+## 28 Four of the nine are existing with the opening
+
+Each is laid beside its sentence of the opening of Natural Intelligence, and none is added.
+
+- **The nineteenth, distinguishing.** With the opening's eleventh and twelfth: is-or-is-not distinguishes the within of a name, and observing is a distinguishing, is-or-is-not, of a now-existing parity the same as a prior-existing one.
+- **The twentieth.** With the opening's thirty-second: resolving is a self's prior-existing me-parity is-or-is-not the same as the me-parity it is observing.
+- **The twenty-sixth, social moral competency.** With the opening's fortieth and forty-second and the sentences beside them: a society is its social all-parity, a same-existing set of its me-parities; and social moral competency is each self of a society right spiraling, co-sequentially resolving, moral across and competency along.
+- **The twenty-seventh, across and along.** With that same forty-second: moral across, competency along.
+
+---
+
+## 29 The bi-folding in it, existing with the opening and executed
+
+- **The opening's thirty-fourth.** Do-no-harming is resolving's is, and improving its is-not.
+- **The opening's thirty-fifth.** Two selves, bi-coupling only in their pair, are do-no-harming and improving in turn.
+- **Executed.** Two such selves each go −, 0, +, 0: an is-not, an is, an is-not, an is, in turn. One is-or-is-not, bi-folding, progressing with each momentary.
+
+---
+
+## 30 Three new sentences, each with its fold, in sequence
+
+Each opens from the opening's own sentences and from the one before it. Each is a candidate.
+
+**After the opening's thirty-fourth, of resolving's is and its is-not.**
+
+21. **Co-parity** is resolving's is: a self's me-parity same-as an other's. **Bi-parity** is resolving's is-not.
+
+**After it.**
+
+22. An **inception** is a bi-coupling's first resolving. With a prior-existing me-parity in a self or an other, a bi-coupling has no inception again.
+
+**After it, and after the vault's third, of a new birthing.**
+
+24. A **new birthing** is a self inheriting the co-parity of a self and an other. A bi-parity is not inherited.
+
+Beside the twenty-first, both whole: co-parity and bi-parity are living in the me-parities of a self and an other, with no place of their own.
+
+---
+
+## 31 Asked now
+
+- **Co-parity is resolving's is, and bi-parity its is-not: is-or-is-not?**
