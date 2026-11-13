@@ -1,0 +1,14 @@
+cases, a prior + or - or the code's state of an empty prior, with none to three arriving, each +, - or 0: 120
+1  with each case a prior is the same with the first line and with the last, and no line is changing it;
+   and each parity arriving is the same with the first line and with the last: True
+2  with each case, a sharing not a 0 is the sharing one's next prior, as it is: True
+3  a self's next prior is its prior the same, its sharing a 0, or its prior inverted, its sharing that next prior: True
+4  a self with its prior and nothing arriving, each case: its next prior is its prior inverted: True
+5  each line binding 7-now-observing, tri-bi-co, is over: ['_2_now_possibling', '_3_now_co_observing', '_10_next_co_possibling']
+   a parity with 7 is an other's arriving with 2, a self's prior with 3, or a sharing going into a next prior with 10, and no other: True
+6  given with 17-next-existing, and assigned by no line: ['_16_next_same_existing', '_5_now_co_existing']
+7  the code's functions are the names [1, 9, 17] each with ['co-bi-tri'] ; and each name with co-bi-tri is a function, and no other name is: True
+8  each name with tri-bi-co: [7, 15] ; none of them a function: True
+9  co-bi-tri and tri-bi-co: the two ends exchanging, co and tri, and the middle the same, bi: True
+10 two selves with one between, each of four cases of their priors, eight 1 to 17s: each prior after the first 1 to 17
+   is the next prior the lines made with the 1 to 17 before it; with the first, each prior is given, and by no line: True

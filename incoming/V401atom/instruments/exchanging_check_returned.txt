@@ -1,0 +1,13 @@
+cases, a prior + or -, with none to three arriving, each +, - or 0: 80
+1  14 the same as a self's prior, nothing distinguished: 10 is a 0 and its prior is the same: True
+2  14 a parity and its prior the other one, a distinguishing: its next prior with 11 is the parity arriving, as it is,
+   and its co-possibling with 10 is that same parity: True
+3  14 nothing or a 0, a distinguishing: its next prior with 11 and its co-possibling with 10 are its prior inverted: True
+4  with each case one binary and no third: 10 a 0 with its prior the same, or 10 and 11 one same parity, its prior inverted: True
+5  two selves with one between, each of four cases of their priors: with each 1 to 17 a self's co-possibling with 10
+   is its other's possibling with 2, as it is, each of the two with its other: True
+6  a self with what is arriving, each case, and that self with nothing arriving, all-parity alone:
+   its 10 and its 11 are not the same as with all-parity alone with one case only, a parity or more arriving and each the same as its prior, co-parity;
+   with each other case, a parity the other one, two the one and the other, or each a 0, they are the same as with all-parity alone: True ; cases with co-parity: 22
+7  with each parity inverted, a self's prior and each thing arriving, each case: its 10 and its 11 are each inverted, and each 0 a 0;
+   each is or is-not the same is as it was: the lines are with is-or-is-not the same, and with no parity as + or as -: True

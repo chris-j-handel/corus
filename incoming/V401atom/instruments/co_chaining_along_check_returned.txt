@@ -1,0 +1,8 @@
+one self observing one parity: its next prior is that parity, with a prior + or - and with the code's state: True
+A  a first self observing no other, and five along after it, each case of the six priors, from a thirteenth 1 to 17:
+   each self's prior is the prior of the self before it, one 1 to 17 before: True
+   each self's prior is not same-as the prior of the self before it, with each 1 to 17: True
+   the priors along the six, from the last to the first, are the first self's priors through six 1 to 17s: True
+B  a first self one of two with co-parity, and five along after it, each case of their priors, from a thirty-first 1 to 17:
+   each self's prior is same-as the prior of the self before it, with each 1 to 17: True
+   each self's priors are the right spiral's, + - - +: True

@@ -1,0 +1,13 @@
+A  a living self observing a stable form's sequence alone
+   1 with each of four cases, its next prior is the stable form's parity: True
+   2 with each of four, its sharing is a 0 or the stable form's parity, and not-the-same with none: True
+   3 its sharing is a 0 with its prior the same as the parity, and the parity with its prior not the same: True
+   each sequence of one to eight parities, with each of two priors, cases: 1020
+   4 its prior, with each 1 to 17, is the sequence's parity one 1 to 17 before: True
+   5 its sharing is the sequence's parity with each changing along it, and a 0 with each not-changing: True
+   6 its own first prior is with its first sharing only, as is-or-is-not the same; from it each of two priors is one: True
+B  the code's state of an empty prior, with the stable form's parity and the living self's sharing arriving
+   7 with each of four, a first prior is inherited, and it is the stable form's parity as it is: True
+   8 with the living self's own prior arriving in its place, each of four: inherited with co-parity only: True
+C  the code's own lines
+   9 6, 10 and 9 are each with 10-next-co-possibling, the one same sharing: True

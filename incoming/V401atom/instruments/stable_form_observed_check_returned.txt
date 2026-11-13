@@ -1,0 +1,9 @@
+a self's prior, a stable form's parity: first 1 to 17, its sharing and its next prior; next 1 to 17, its sharing and its next prior
+   + + : 0 + ; 0 +
+   + - : - - ; 0 -
+   - + : + + ; 0 +
+   - - : 0 - ; 0 -
+1  with its prior the same as the stable form's parity, its prior is same-existing and its sharing is a 0, each case: True
+2  with its prior not the same, its prior is inverting, and its next prior is its sharing, each case: True
+3  with a next 1 to 17, each of four is the same as the stable form's parity, same-existing, its sharing a 0: True
+4  the stable form's parity is the same with each of them, and no line is changing it: it is given with each 1 to 17

@@ -1,0 +1,17 @@
+A  a self with a prior and nothing arriving, each of two cases: its next prior is its prior inverted, and its sharing is its next prior;
+   from the two, with each 1 to 17 it is alternating and sharing, and no line is ending it: True
+B  six selves along, the first with nothing arriving, each of 64 cases of their priors, from a thirteenth 1 to 17:
+   each self's prior is the prior of the self before it, one 1 to 17 before: True
+   the priors along the six, from the last to the first, are the first self's priors through six 1 to 17s: True
+C  the last self's sharing along, each of 64 cases:
+   each self's sharing is arriving with the self after it, as it is, and nothing is arriving with the first: True
+   the last self's sharing is arriving with no self: each thing arriving is a sharing of the five before it: True
+   from a thirteenth 1 to 17 the last self's sharing is a parity with each 1 to 17, its next prior, and a 0 with none: True
+D  a self with a prior, + or -, and none to three arriving, each +, - or 0, 80 cases:
+   nothing is distinguished with one case only, a parity or more arriving and each the same as its prior: its sharing a 0, its next prior its prior;
+   with each other case, and with nothing arriving, its prior is inverting and its sharing is its next prior: True
+E  a self observing a stable form alone, each of four cases: from its next 1 to 17, its sharing is a 0 with each, nothing distinguished: True
+   two living selves with one between, each of four cases of their priors: with each a sharing a 0 is with a sharing a parity after it;
+   with no two 1 to 17s together is nothing distinguished: True
+F  17-next-existing is calling 1-now-existing with each of its selves, one with each: True
+   no line of 17 and none of 9 is matching, making or inverting a parity; each such line is with 1, a self's own: True

@@ -1,0 +1,7 @@
+cases, two things each with a prior + or -, and nothing, +, - or 0 arriving with each and with a third thing: 256
+1  each thing with a prior is with a next prior, each case: no line is ending a thing with a prior: True
+2  its next prior is its prior the same or its prior inverted: the thing the same, with prior and with now: True
+3  a third thing is with a next prior with a parity arriving with it, that parity as it is, and with no other case: True
+4  8-now-same-existing is what 1-now-existing is returning as each self's next prior, a now name with each prior: True
+5  the names with same-existing: ['4-now-co-same-existing', '8-now-same-existing', '12-next-co-same-existing', '16-next-same-existing']
+   the names with discovering: ['9-next-co-discovering', '13-next-discovering'] ; each with next: True

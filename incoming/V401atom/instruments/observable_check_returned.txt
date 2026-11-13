@@ -1,0 +1,17 @@
+1  the possibling names, each with the table's column of one or co: [(2, 'one'), (6, 'co'), (10, 'co'), (14, 'one')]
+   2 and 14, possibling, are with one; 6 and 10, co-possibling, are with co: True
+2  1-now-existing is returning: _10_next_co_possibling, list(_11_next_co_observing.items())
+   10-next-co-possibling and a next prior are returned, and 14-next-possibling is returned with no line: True
+3  each sharing an other is receiving from a self with a prior, and each 14 it is with:
+     a sharing + : 14 ['+', '0', 'nothing']
+     a sharing - : 14 ['-', '0', 'nothing']
+     a sharing 0 : 14 ['+', '-']
+   each sharing is with two 14s or more: with no sharing is a self's 14 one for its other: True
+4  three selves, a and b with one between and c with none, each of eight cases of their priors, eight 1 to 17s:
+   a self's 10-next-co-possibling is arriving with its other, as it is, and with each 1 to 17: True
+   and nothing of it is arriving with the third, with each 1 to 17: True
+5  1-now-existing, a self's own lines, is given: _3_now_co_observing, _2_now_possibling
+   no line of it is with 5-now-co-existing, the betweens: True
+6  the functions with 5 in their lines: [9, 17] ; 9-next-co-discovering and 17-next-existing, and no other: True
+7  two selves with one between, each of four cases of their priors: each thing arriving with a self is a parity or a 0,
+   and nothing of the between is arriving with it: True
