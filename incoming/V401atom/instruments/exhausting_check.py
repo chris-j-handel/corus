@@ -43,3 +43,33 @@ print("C  the last self's sharing along, each of 64 cases:")
 print("   each self's sharing is arriving with the self after it, as it is, and nothing is arriving with the first:", C1)
 print("   the last self's sharing is arriving with no self: each thing arriving is a sharing of the five before it:", C2)
 print("   from a thirteenth 1 to 17 the last self's sharing is a parity with each 1 to 17, its next prior, and a 0 with none:", C3)
+
+# D, E: a distinguishing and none, each case; and no distinguishing going on, with a stable form and with a living other
+cases = [c for k in range(4) for c in itertools.product((1, -1, 0), repeat=k)]
+rule = lambda p, c: any(v != 0 for v in c) and all(v == p for v in c if v != 0)
+okD = True
+for p in (1, -1):
+    for c in cases:
+        out, nxt = one([(S, p)], [(S, v) for v in c])
+        s, n = dict(out)[S], dict(nxt)[S]
+        okD = okD and ((s == 0 and n == p) if rule(p, c) else (s == -p and n == -p))
+print("D  a self with a prior, + or -, and none to three arriving, each +, - or 0,", 2 * len(cases), "cases:")
+print("   nothing is distinguished with one case only, a parity or more arriving and each the same as its prior: its sharing a 0, its next prior its prior;")
+print("   with each other case, and with nothing arriving, its prior is inverting and its sharing is its next prior:", okD)
+okE1 = True
+for p, f in itertools.product((1, -1), repeat=2):
+    prior = p; shares = []
+    for t in range(16):
+        out, nxt = one([(S, prior)], [(S, f)]); shares.append(dict(out)[S]); prior = dict(nxt)[S]
+    okE1 = okE1 and all(v == 0 for v in shares[1:]) and prior == f
+print("E  a self observing a stable form alone, each of four cases: from its next 1 to 17, its sharing is a 0 with each, nothing distinguished:", okE1)
+okE2 = True
+for pa, pb in itertools.product((1, -1), repeat=2):
+    soc = {"a": ([(S, pa)], []), "b": ([(S, pb)], [])}; net2 = {("a", 10): "b", ("b", 10): "a"}; sh = {"a": [], "b": []}
+    for t in range(32):
+        for k in soc:
+            sh[k].append(dict(one(list(soc[k][0]), list(soc[k][1]))[0])[S])
+        soc = step(soc, net2)
+    okE2 = okE2 and all(not (sh[k][t] == 0 and sh[k][t + 1] == 0) for k in sh for t in range(31))
+print("   two living selves with one between, each of four cases of their priors: with each a sharing a 0 is with a sharing a parity after it;")
+print("   with no two 1 to 17s together is nothing distinguished:", okE2)
