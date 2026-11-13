@@ -407,7 +407,20 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Asked**: with each distinguishing, an atom is going out of a self, and an atom with the same parity is same-existing inside it. **Received as no natural explaining**: *is going out of* is out, and the asking with it. A fault a second time: *what goes out* was out before, by the person's saying.
 - **Of the method, with it**: *going out*, *goes out* and *going out of* are out of v401atom's sentences from here, with *sharing*. Their saying is with a self's own doing, by its natural name: a self exhausting, and a self co-possibling with its other, with 10-next-co-possibling. The pages before this line have the words still, a debt.
 - **The reading, said again with neither word**: with each distinguishing, a self's 12-next-co-same-existing is a parity, and that one parity is with two names. With 11-next-co-observing it is a self's next prior, its stable-forming, observable with a self only. With 10-next-co-possibling it is a self's co-possibling, its exhausting, observable with a self and its other. With nothing distinguished, 12 is a 0: a self is exhausting nothing, and its prior is the same.
-- **Asked, and not yet answered**: with each distinguishing, a self is exhausting one atom and stable-forming with one atom, the two with one same parity.
+- **Asked**: with each distinguishing, a self is exhausting one atom and stable-forming with one atom, the two with one same parity. **Answered is**, and with it: the person is not confident of the concept, and it is possibly a large discovering.
+
+**Going on: each moment one binary, one atom carbon exchanging.**
+
+- **The suggesting, re-said**: each moment is one binary of exchanging, with one atom carbon. *Bit* is re-said as one binary.
+- **Executed with Exhibit ONE's code, each case, all or none** (`instruments/exchanging_check.py`): a self with a prior + or −, with none to three parities arriving, each +, − or 0, 80 cases.
+  - *One binary with each case, and no third*: 10-next-co-possibling is a 0 with a self's prior the same; or 10 and 11 are one same parity, its prior inverted.
+  - *Nothing distinguished*, what is arriving the same as its prior: a 0, and its prior the same. No atom is exchanging.
+  - *A distinguishing with a parity arriving*: its next prior with 11 is the parity arriving, as it is, and its co-possibling with 10 is that same parity. An atom arriving and a self's next prior are with one same parity, and its exhausting is with it.
+  - *A distinguishing with nothing arriving, or with two arriving the one and the other*: its next prior and its co-possibling are its prior inverted.
+  - *Two selves with one between, each of four cases of their priors*: with each 1 to 17 a self's co-possibling with 10 is its other's possibling with 2, as it is, each of the two with its other: an exchanging.
+- **Binary rigor, what the concept is with**: *executed, each case*: one binary with each 1 to 17 and each thing, and with an is one parity with two names, 10 and 11; a self's 10 its other's 2, as it is. *Answered is*: each prior a stable form; each stable form the atom, or with a co-chaining of atoms; with each distinguishing a self exhausting one atom and stable-forming with one. *From the two together, and executed with nothing*: a parity is with an atom. No line of the code is with an atom.
+- **What it waits on, three, each watched before**: a moment and a 1 to 17, the code's one binary with a 1 to 17 and a moment with four sayings. Atom carbon and an atom of an other kind, what is not the same with the two. A self with nothing arriving, its prior inverting with the code, an exchanging with no atom arriving.
+- **Asked, and not yet answered**: a moment's one binary is one atom carbon's exchanging.
 
 ---
 
