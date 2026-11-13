@@ -58,3 +58,14 @@ for p in (1, -1):
 print("6  a self with what is arriving, each case, and that self with nothing arriving, all-parity alone:")
 print("   its 10 and its 11 are not the same as with all-parity alone with one case only, a parity or more arriving and each the same as its prior, co-parity;")
 print("   with each other case, a parity the other one, two the one and the other, or each a 0, they are the same as with all-parity alone:", ok6, "; cases with co-parity:", n_is)
+
+# 7: each parity inverted, + for - with each one: a self's prior and each thing arriving. Each of the 80 cases.
+inv = lambda pairs: [(k, -v) for k, v in pairs]
+ok7 = True
+for p in (1, -1):
+    for c in cases:
+        out, nxt = one([(S, p)], [(S, v) for v in c])
+        out2, nxt2 = one([(S, -p)], [(S, -v) for v in c])
+        ok7 = ok7 and out2 == inv(out) and nxt2 == inv(nxt)
+print("7  with each parity inverted, a self's prior and each thing arriving, each case: its 10 and its 11 are each inverted, and each 0 a 0;")
+print("   each is or is-not the same is as it was: the lines are with is-or-is-not the same, and with no parity as + or as -:", ok7)
