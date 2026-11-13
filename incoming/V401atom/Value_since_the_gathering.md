@@ -154,7 +154,11 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read by it**: a resolving's sequence through its moments is the sequence along a co-chaining, a self with each moment. With co-parity with its first, a co-chaining is co-orienting, each same-as the one before it.
 - **Read with Natural Chemistry's gathering-value**, an explaining waiting: a chain with each ring as the one before it along winds a helix, and a chain with each ring turned from the one before it is straight; selves the same along, a right spiral step with each moment.
 - **A parting, for watching over.** *One side*: a dormant prior is a resolving's sequence frozen, a stable form. *Other side*: no line of the code has a resolving stopped: each self is with each next 1 to 17. *Harm*: a stable form read from the code alone is said as a living's going on.
-- **Asked, and not yet answered**: co-orienting is each bump connector same-as the one before it along, and a sequence with each not same-as the one before it is no co-orienting.
+- **Asked**: co-orienting is each bump connector same-as the one before it along, and a sequence with each not same-as the one before it is no co-orienting. **Its answer, a suggesting**: the spans in the sequences of orientings are the co-intelligencing of healthy living patterns, in stable form, universal alternating all-parity. All-parity is stable form from the moments of the prior living's stable form sequence, across and along, to the moments of now-existing, and it spans both. It is the fractal again, inside and outside itself and its moment.
+- **Read with the executing of a co-chaining along**: the priors along the selves are the first self's priors through its 1 to 17s. One span is both: along a co-chaining, and through moments.
+- **Read with the set**: Exhibit THREE Natural Numbers has each span bi-folding and inverting, 1–9, 1–13, 1–17, and 1–25 a fractal bi-folding one span on. The opening's third has a same-existing thing as the same thing prior-existing before now-existing.
+- **A parting, for watching over.** *One side*: an all-parity is a non-living and non-same-existing thing. *Other side*: all-parity is stable form, spanning from the prior living's moments to the moments of now-existing; and by the opening's third a thing prior-existing before now-existing, the same, is same-existing. *Harm*: all-parity entered with one side alone is said same-existing only, or not same-existing only.
+- **Asked, and not yet answered**: a stable form is a non-living and same-existing thing.
 
 ---
 
