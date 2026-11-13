@@ -130,6 +130,14 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Resolved by it**: the parting of the alternating. Its line is the code's line of a prior inverting, and all-parity is the code's input, given.
 - **Asked, and not yet answered**: a self is odd, even, odd with 1, 2 and 3, and its other with 3, 4 and 5, the two with one same 3.
 
+**Going on: tri-bi-co, its between, and its receiving.**
+
+- **Suggestings, in natural naming**: tri-bi-co is all-parity, universal, same-existing and alternating, tri; bi-moral unrelationing, a betweening, a 0 neutralling, bi; and co-parity, birthing a new me from same-existing prior-existing, co. It is three phases, with each of the two one-way directions of a bi-coupling, in a co-chaining. Its receiving is co-bi-tri. Its between is bi-tri-bi, all-parity, or bi-co-bi, a me-parity. Each is bi-folding over each other, bi-moral-co-competencing, one fractal universe forward with each moment.
+- **Read from Exhibit ONE Natural Resolver's table, each name**: the seventeen names have five threes and no other. Tri-bi-co is with 7 and 15. Bi-tri-bi is with 8 and 16. Co-bi-tri is with 9 and 17, and with 1. The three are in sequence twice: 7, 8 and 9, and 15, 16 and 17. Co-bi-tri is tri-bi-co read from its other end, and bi-tri-bi is the same from each end. Bi-co-bi is with 2, 4, 6, 10, 12 and 14, and co-bi-co with 3, 5, 11 and 13.
+- **Read from the code**: its three functions, 1-now-existing, 9-next-co-discovering and 17-next-existing, are each co-bi-tri, the receiving. In 17-next-existing, 8-now-same-existing is with a self before 9-next-co-discovering is.
+- **A parting, for watching over.** *One side*: three phases locking, with each one-way direction of a bi-coupling. *Other side*: Exhibit TWENTY Natural Naming has a between locking with none, unrelationing not locking, and a locking as an equilibrium entering. *Harm*: *locking* entered with the three phases says an equilibrium inside living.
+- **Asked, and not yet answered**: the two one-way directions of a bi-coupling are 7, 8 and 9, from a self to its other, and 15, 16 and 17, from its other to a self next.
+
 ---
 
 ## 6 Executed, each case, all or none
