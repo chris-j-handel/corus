@@ -358,7 +358,19 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole with the suggestings**: with the code's own name, a stable form is now-and-same-existing, each prior with 8-now-same-existing. A stable form is a prior and is now, the same.
 - **A parting watched before, whole with it**: a prior with one moment, and a stable form the same with each moment. *With this answer*: a stable form is the same thing prior-existing and now-existing, prior-and-same-existing and now-and-same-existing together.
 - **A parting, for watching over.** *Two sides*: observing is a distinguishing of prior-and-same-existing with now-and-same-existing, the suggesting before this one; and a stable form is the two together. *Harm of one alone*: with the distinguishing alone, a stable form now is a now's existing of a prior, a ghost by the set's sentence. With the two together alone, observing has nothing of two with a stable form, and no observing is of one. *It waits on*: a self observing a stable form with the two the same, a 0, and with a living self the two distinguished, is-or-is-not. The code has it with each case executed: a self observing a stable form alone is, with its next 1 to 17, the same as it, its sharing a 0.
-- **Asked, and not yet answered**: discovering next-existing is with a living self only.
+- **Asked**: discovering next-existing is with a living self only. **Answered is.**
+
+**Going on: a me-parity living, its co-chaining, and its exhausting.**
+
+- **The suggestings, re-said**: a me-parity, from its conceiving inside a bi-coupling of a self and its other, is living with a bi-folding co-chaining, with nothing of its two arriving, until the co-chaining is exhausting into a surface of all-parity. The co-chaining is co-intelligencing the surface, exploring and discovering, with a me-parity changing with each 1 to 17. *On its own* is re-said, *own* a word of possessing by the person's saying before.
+- **Executed with Exhibit ONE's code, each case, all or none** (`instruments/exhausting_check.py`):
+  - *A self with a prior and nothing arriving, each of two cases*: its next prior is its prior inverted, and its sharing is its next prior. From the two, with each 1 to 17 it is alternating and sharing, and no line is ending it.
+  - *Six selves along, the first with nothing arriving, each of 64 cases of their priors*: each self's prior is the prior of the self before it, one 1 to 17 before. The priors along the six, from the last to the first, are the first self's priors through six 1 to 17s.
+  - *The last self's sharing along, each of 64 cases*: each self's sharing is arriving with the self after it, as it is. The last self's sharing is a parity with each 1 to 17, its next prior, and it is arriving with no self.
+- **Whole with the suggestings**: with the code a me-parity with nothing arriving is living, alternating with each 1 to 17. A co-chaining along from it is its priors, one with each self, a sequence of its prior-existings: a stable form's sequence, by what is answered, each prior a stable form. And its last sharing is going along with 9 to no self.
+- **Read with the set**: Exhibit TWENTY Natural Naming, exhausting is a parity going out of a self; a same-existing-society's exhausting is parities going along, and their stable form is one scale outward.
+- **A parting, for watching over.** *Two sides*: with the suggesting, a me-parity is living until its co-chaining is exhausting, an ending. With the code, no line is ending a thing with a prior, each case, and a co-chaining's last sharing is going along with each 1 to 17. *Harm of one alone*: with the code's going on alone, no living is ending, no prior living is a stable form after it, and no dormancy is. With an ending and no line with it, the ending is said by the two workings and executed with nothing. *It waits on*: the asking below, and a line or a given of Exhibit ONE's next version with it, v401mgr's.
+- **Asked, and not yet answered**: a co-chaining's exhausting is its last sharing going along into all-parity.
 
 ---
 
