@@ -5,3 +5,8 @@ cases, four selves along, each of sixteen cases of their priors, with each seque
    made one 1 to 17 before, the same, with each case: True
 4  a self with nothing arriving from the one before it, that one with nothing distinguished: its next prior is its prior inverted, with each case: True
 5  with each self and each 1 to 17 it is one of the two, and no third: ['inverted', 'the same']
+6  with one same 1 to 17, the spans along eight selves, each of 256 cases of their priors, from a thirty-third 1 to 17:
+   a first self's 1 to 17s along and again: each span is one self, alternating : True
+   a first self's 1 to 17s along, across and again: one span, each self the same : True
+   a first self's 1 to 17s along, along, across and again: each span is three selves : True
+   a first self's 1 to 17s along, along, along, across and again: each span is two selves : True

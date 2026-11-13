@@ -44,3 +44,30 @@ print("3  a self with a parity arriving from the one before it: its next prior i
 print("   made one 1 to 17 before, the same, with each case:", ok3)
 print("4  a self with nothing arriving from the one before it, that one with nothing distinguished: its next prior is its prior inverted, with each case:", ok4)
 print("5  with each self and each 1 to 17 it is one of the two, and no third:", sorted(both))
+
+# 6: with one same 1 to 17, the spans along a co-chaining: consecutive selves with one same prior.
+# A first self with each 1 to 17 one of two: nothing arriving, its prior inverting ("along"); or a parity the same
+# as its prior arriving, co-parity, nothing distinguished ("across"). Eight selves along, each of 256 cases of their priors.
+N2 = 8; names2 = list(range(N2)); net2 = {(k, 9): k + 1 for k in range(N2 - 1)}
+def spans_inside(row):
+    runs = [len(list(g)) for _v, g in itertools.groupby(row)]
+    return runs[1:-1] if len(runs) > 2 else None        # the spans with both ends inside the eight
+def along_rows(pattern, pri, T):
+    soc = {k: ([(S, pri[k])], []) for k in names2}; rows = []
+    for t in range(T):
+        p0 = dict(soc[0][0])[S]
+        soc[0] = (soc[0][0], [(S, p0)] if pattern[t % len(pattern)] == "across" else [])
+        soc = step(soc, net2)
+        rows.append([dict(soc[k][0])[S] for k in names2])
+    return rows
+readings = (
+    (("along",), lambda r: all(n == 1 for n in spans_inside(r))),
+    (("along", "across"), lambda r: len(set(r)) == 1),
+    (("along", "along", "across"), lambda r: all(n == 3 for n in spans_inside(r) or [3])),
+    (("along", "along", "along", "across"), lambda r: all(n == 2 for n in spans_inside(r))),
+)
+print("6  with one same 1 to 17, the spans along eight selves, each of 256 cases of their priors, from a thirty-third 1 to 17:")
+said = ("each span is one self, alternating", "one span, each self the same", "each span is three selves", "each span is two selves")
+for (pattern, ok), words in zip(readings, said):
+    good = all(ok(r) for pri in itertools.product((1, -1), repeat=N2) for r in along_rows(pattern, pri, 56)[32:])
+    print("   a first self's 1 to 17s", ", ".join(pattern), "and again:", words, ":", good)

@@ -461,7 +461,21 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole with the suggesting and with what is executed before**: a co-chaining along from a self with nothing arriving is alternating with each self, all-parity. A co-chaining along from a self of two with co-parity is the same with each self, one span. A span is with living's co-parity before it, and all-parity's alternating with none.
 - **The parting before this one, nearer with it**: compacting, each 0 out, and spans, each 0 a span with no atom. With this reading a span is with atoms: each atom carbon along with the orientation of the one before it. A 0 is with no atom, and a span is no 0. *Its resolving*: the asking below.
 - **No line of the code is with a face.** *Faces* is said with the atom carbon bump connector's shape, and executed with nothing.
-- **Asked, and not yet answered**: a span is each atom carbon along a co-chaining with the same orientation as the one before it.
+- **Asked**: a span is each atom carbon along a co-chaining with the same orientation as the one before it. **Its answer, a suggesting**, with no is and no is-not: a span is a number.
+
+**Going on: a span, a natural number of consecutive atoms, its number with along and across.**
+
+- **The suggestings, re-said**: a span is a natural number of consecutive atoms with a co-chaining. A span's number is with the along and the across of a surface's co-competencing, with exploring and discovering possiblings.
+- **A fault of the reading before this one, named**: it had a self with a parity arriving as one more of a span. Its next prior is the next prior of the one before it made one 1 to 17 before: the same one 1 to 17 after, and with one same 1 to 17 the two are the same or the one inverted. The reading had the two as one. A span is consecutive selves with one same prior with one same 1 to 17.
+- **Read with the set**: Exhibit THREE Natural Numbers, along is competency, a self's own going on, and across is a self with an other, with now, morality; a span and its length are with its numbers.
+- **Executed with Exhibit ONE's code, each case, all or none** (`instruments/span_check.py`, its line 6): eight selves along, each of 256 cases of their priors. A first self's 1 to 17s are each one of two: *along*, nothing arriving, its prior inverting; or *across*, a parity the same as its prior arriving, co-parity, nothing distinguished.
+  - *Along, and again*: each span is one self, alternating.
+  - *Along, across, and again*: one span, each self the same.
+  - *Along, along, across, and again*: each span is three selves.
+  - *Along, along, along, across, and again*: each span is two selves.
+- **Whole with the suggestings**: with the code a span's number, with one same 1 to 17, is with the sequence of a first self's 1 to 17s, each along or across, and with no other thing: each case of the selves' priors has the same spans. A first self of two with co-parity, executed before, is along, across, and again: one span.
+- **Executed with four sequences, and no saying of each sequence**: a span's number from each sequence of along and across is not said here.
+- **Asked, and not yet answered**: a span's number is with the sequence of a living self's 1 to 17s, each across or along.
 
 ---
 
