@@ -44,3 +44,26 @@ print("   a parity with 7 is an other's arriving with 2, a self's prior with 3, 
 assigned = set(re.findall(r"^\s*(_\d+_\w+?)(?:\[[^\]]*\])? = ", code, re.M)) | set(re.findall(r"for (_\d+_\w+)", code))
 params = re.findall(r"def _17_next_existing\(([^)]*)\)", code)[0].split(", ")
 print("6  given with 17-next-existing, and assigned by no line:", [x for x in params if x not in assigned])
+
+# the code's functions, each name with its three from Exhibit ONE's table; and each prior after a first 1 to 17
+rows = re.findall(r"^\| (\d+) \| \*\*([\w-]+)\*\* \| [^|]+\| [^|]+\| [^|]+\| ([a-z-]+) \|", src, re.M)
+three = {int(n): t for n, _name, t in rows}
+defs = [int(n) for n in re.findall(r"^def _(\d+)_", code, re.M)]
+print("7  the code's functions are the names", defs, "each with", sorted({three[n] for n in defs}),
+      "; and each name with co-bi-tri is a function, and no other name is:", defs == [n for n in sorted(three) if three[n] == "co-bi-tri"])
+print("8  each name with tri-bi-co:", [n for n in sorted(three) if three[n] == "tri-bi-co"], "; none of them a function:",
+      not any(three[n] == "tri-bi-co" for n in defs))
+a, b = "co-bi-tri".split("-"), "tri-bi-co".split("-")
+print("9  co-bi-tri and tri-bi-co: the two ends exchanging, co and tri, and the middle the same, bi:", a[0] == b[2] and a[2] == b[0] and a[1] == b[1] == "bi")
+step = ns["_17_next_existing"]
+ok10 = True
+for pa in (1, -1):
+    for pb in (1, -1):
+        state = {"a": ([("a", pa)], []), "b": ([("b", pb)], [])}
+        between = {("a", 10): "b", ("b", 10): "a"}
+        for _ in range(8):
+            made = {k: one(*copy.deepcopy(v))[1] for k, v in state.items()}
+            state = step(state, between)
+            ok10 = ok10 and all(state[k][0] == made[k] for k in state)
+print("10 two selves with one between, each of four cases of their priors, eight 1 to 17s: each prior after the first 1 to 17")
+print("   is the next prior the lines made with the 1 to 17 before it; with the first, each prior is given, and by no line:", ok10)
