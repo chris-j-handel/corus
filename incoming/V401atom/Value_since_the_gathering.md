@@ -158,7 +158,10 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read with the executing of a co-chaining along**: the priors along the selves are the first self's priors through its 1 to 17s. One span is both: along a co-chaining, and through moments.
 - **Read with the set**: Exhibit THREE Natural Numbers has each span bi-folding and inverting, 1–9, 1–13, 1–17, and 1–25 a fractal bi-folding one span on. The opening's third has a same-existing thing as the same thing prior-existing before now-existing.
 - **A parting, for watching over.** *One side*: an all-parity is a non-living and non-same-existing thing. *Other side*: all-parity is stable form, spanning from the prior living's moments to the moments of now-existing; and by the opening's third a thing prior-existing before now-existing, the same, is same-existing. *Harm*: all-parity entered with one side alone is said same-existing only, or not same-existing only.
-- **Asked, and not yet answered**: a stable form is a non-living and same-existing thing.
+- **Is**, answered by the person: a stable form is a non-living and same-existing thing.
+- **Read by it, two binaries with four places, each said**: living and same-existing, a self; living and not same-existing, a me-parity; non-living and not same-existing, an all-parity; non-living and same-existing, a stable form.
+- **The parting before it goes on**: all-parity is not same-existing, and a stable form is. All-parity in stable form, spanning prior and now, is a stable form by it: a candidate, a dormant prior is all-parity in stable form.
+- **Asked, and not yet answered**: one atom carbon is a stable form.
 
 ---
 
