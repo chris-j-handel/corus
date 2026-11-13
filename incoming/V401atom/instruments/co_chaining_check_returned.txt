@@ -1,0 +1,12 @@
+1  a self and an other's parities arriving with a third, each case: 12
+   with their co-parity, a third's next prior is that co-parity, with each prior and with the code's own state: True
+   with their bi-parity, a third with a prior: its next prior is its own prior inverting: True
+   with their bi-parity, a third with a prior: its next prior and its going out the same as with nothing arriving: True
+   with their bi-parity, the code's own state: nothing inherited, and a 0 goes out: True
+   with their bi-parity, a third's next prior the same with + and - as with - and +: True
+   what goes out of a third: a 0 with their co-parity same-as its prior; a parity with each other case of a third with a prior: True
+2  a fractal: two pairs, each with its third, and the two thirds' going out arriving with a next, each case
+   cases: 432
+   a pair's bi-parity is, with a next, the same as that pair not sharing, with each case: True
+   with a next the code's own state, what is inherited is the one parity of the thirds' going out, as it is, and nothing with a bi-parity of them: True
+   what arrives with a next is one of four, each with a case: a co-parity of the two thirds' going out; a bi-parity of them; one parity alone, the other a 0 or none; none : True

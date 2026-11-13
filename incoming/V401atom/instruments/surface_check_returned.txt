@@ -1,0 +1,18 @@
+1  1 to 16, four by four; each line a four-cycling, and each second line read from its other end:
+       1  2  3  4
+       8  7  6  5
+       9 10 11 12
+      16 15 14 13
+   each line down is one of Exhibit ONE's four bi-foldings: True [[1, 8, 9, 16], [2, 7, 10, 15], [3, 6, 11, 14], [4, 5, 12, 13]]
+   each two names beside each other, along or across, full around both ways, one parity apart: True
+   a name's four beside it are each of its names one parity apart, and no other: True
+2  1 to 256, sixteen by sixteen; each place filled once: True
+   each sixteen, 1 to 16, 17 to 32 and on, is one four by four inside one place: True
+   the sixteen sixteens, by their first names 1, 17, 33 and on, are placed as 1 to 16 are: True
+   each two names beside each other, along or across, full around both ways, one parity apart: True
+   each sixteen is placed as the bi-folding of each sixteen beside it: each two places facing each other have names with one same inner two pairs: True ; their numbers within their sixteens are 17 together: True
+   a name's names one parity apart: [8] ; of them beside it on the surface: [4]
+   the sixteen first names, 1, 17, 33 and on: two of them beside each other, along or across: False
+   a sixteen's last name and the next sixteen's first, one parity apart: True ; beside each other on the surface: 5 of 15
+3  1 to 64, three pairs: a name's names one parity apart: [6] ; with each name three by a pair's step forward and three by that step backward: True
+a drawing is written: A_surface_of_names_1_to_256.svg

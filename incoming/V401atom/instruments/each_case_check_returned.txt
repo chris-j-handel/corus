@@ -1,0 +1,21 @@
+cases of what arrives, none to three, each +, - or 0: 40
+1  a self with a prior, each case, with + and with -: 80
+   its prior goes on with one case only, a parity or more arriving and each same-as its prior: True
+   with each other case its prior inverts: True
+   with its prior going on, a 0 goes out; with its prior inverting, its next prior goes out: True
+2  an empty prior with a sharing, the code's own state, each case: 40
+   a first prior with one case only, a parity or more arriving and each the same as each other; that parity as it is: True
+   with two arriving not the same, nothing is inherited, and a 0 goes out: True
+   with none arriving, or each arriving a 0, nothing is inherited, and nothing goes out: True
+3  what is inherited, with one, two and three sharings, each sharing's two arriving each + or -, each case: 84
+   what is inherited is each co-parity of its two, as it is, and no other: True
+   with each bi-parity of its two, 14 cases: nothing is inherited: True
+4  the 1 to 9 diamond, each of its four lines through 5, each name with its first prefix
+   a side's line, 4-5-6: bi co bi
+   a side's line, 2-5-8: bi co bi
+   across, 3-5-7: co co tri
+   along, 1-5-9: co co co
+   each of its four faces, 2, 4, 6 and 8, its three: bi-co-bi bi-co-bi bi-co-bi bi-tri-bi
+5  each parity inverted, + for - with each one, each case
+   a self's sharing and its next prior are each inverted, and nothing else is changed: True
+   a self sharing 0 with its prior same-existing, and its next prior with its prior inverting: True

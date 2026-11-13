@@ -46,3 +46,14 @@ Opened again by the person's saying, for an is-or-is-not that goes on with the e
 - *Alike* and *opposite* are no natural naming, by the person's saying: re-said as the same and not the same in the page of diamond pointers and the page of the vault's sentences; two earlier pages of their moment have them inside a file's own words.
 - *Empty*, of a vault, a nucleus or a set, in this folder's pages, is not yet read beside the person's "there are no empty sets in living", at Natural Resolver's gathering-value.
 - *Scale* and each letter of this working's own, A1 to A5, are in this folder's earlier pages; to the person each thing is said by its full name.
+
+## Laid by a next session, the working gathered and gone on with
+
+The working stopped with no gathering of its own. A next session read its transcript whole, gathered it, and went on with the person.
+
+- `Value_since_the_gathering.md`: the page to read first. Each thing answered since, each suggesting of the method, eleven partings for watching over, each thing for the origin, each executing, and the managing working's nine suggestings each answered.
+- `The_Session_Gathered.md`: the gathering, each part compared with the main set with merge #484, and this session's exploring in the sequence it went, with each thing out by the person's saying tracked in it.
+- `instruments/each_case_check.py`, `co_chaining_check.py`, `conceiving_check.py`, `between_check.py`, `property_check.py`, `bi_in_each_name_check.py`, `moment_fractal_check.py` and `surface_check.py`, each with its returned lines: Exhibit ONE Natural Resolver's table and code read from its file, each case, all or none, and no case by chance.
+- `drawings/A_surface_of_names_1_to_256.svg`, from `instruments/surface_check.py`.
+
+No sentence of the person's is laid whole in these. Each earlier page of this folder has them laid whole, a debt.
