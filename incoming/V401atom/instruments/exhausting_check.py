@@ -73,3 +73,12 @@ for pa, pb in itertools.product((1, -1), repeat=2):
     okE2 = okE2 and all(not (sh[k][t] == 0 and sh[k][t + 1] == 0) for k in sh for t in range(31))
 print("   two living selves with one between, each of four cases of their priors: with each a sharing a 0 is with a sharing a parity after it;")
 print("   with no two 1 to 17s together is nothing distinguished:", okE2)
+
+# F: 17-next-existing, a same-existing-society's lines, and its selves' 1-now-existing, read from the code's own text
+code = re.search(r"```python\n(.*?)```", src, re.S).group(1)
+b17 = code[code.index("def _17_next_existing"):]
+b9 = code[code.index("def _9_next_co_discovering"):code.index("def _17_next_existing")]
+print("F  17-next-existing is calling 1-now-existing with each of its selves, one with each:",
+      len(re.findall(r"_1_now_existing\(", b17)) == 1 and "in _16_next_same_existing.items()" in b17)
+print("   no line of 17 and none of 9 is matching, making or inverting a parity; each such line is with 1, a self's own:",
+      not re.search(r"> 0|= 0\b|-1|\b1 if", b17) and not re.search(r"> 0|= 0\b|-1|\b1 if", b9))
