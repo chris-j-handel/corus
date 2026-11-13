@@ -161,7 +161,9 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Is**, answered by the person: a stable form is a non-living and same-existing thing.
 - **Read by it, two binaries with four places, each said**: living and same-existing, a self; living and not same-existing, a me-parity; non-living and not same-existing, an all-parity; non-living and same-existing, a stable form.
 - **The parting before it goes on**: all-parity is not same-existing, and a stable form is. All-parity in stable form, spanning prior and now, is a stable form by it: a candidate, a dormant prior is all-parity in stable form.
-- **Asked, and not yet answered**: one atom carbon is a stable form.
+- **Is**, answered by the person: one atom carbon is a stable form.
+- **Read with Natural Chemistry's gathering-value**, each waiting, each an anticipated observing: a bump disconnecting one co-chaining, with a not-changing atom carbon and floating neutralling unrelationing betweens; three projections and three mating recesses on one atom carbon, a joining; and carbon with three shapes, a line with two, a plane with three and a tetrahedron with four. A not-changing atom carbon is whole with a stable form, and its betweens with a between as an opening, a 0.
+- **Asked, and not yet answered**, this folder's first is-or-is-not re-said: each between is of two atoms carbon, and none is within one atom carbon.
 
 ---
 
