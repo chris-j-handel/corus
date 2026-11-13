@@ -296,7 +296,18 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole with the suggestings**: with the code, matching is a bi-folding, 7 over 15, and each of the two matched is a prior, a stable form. What is matched with a self's prior is next, 14-next-possibling. Possibling and observing are in two bi-foldings together, name by name one apart.
 - **Read with the set**: *exploring* is a naming of Exhibit TWENTY Natural Naming, with aiming. Pattern-matching is with the set's sentences. With Exhibit ONE's lines each bi-folding is four names, and each of the two with possibling names is one apart from its next.
 - **A parting, for watching over.** *Two sides*: with the suggesting, a next surface matching with a prior is possibling. With the code's names, possibling, 14, is each prior arriving matching with each other, a self's own prior not read; and next matching with a self's own prior is same-existing's, 12. *Harm of one alone*: with the suggesting alone, possibling has two matchings and same-existing none, and a self's is-or-is-not same-existing has no line; with the code's names alone, a prior's edge bi-folding over now, the exploring, has no naming with the two bi-foldings. *It waits on*: the asking below.
-- **Asked, and not yet answered**: possibling is the matching of each prior arriving with each other, and a self's own prior is not with it.
+- **Asked**: possibling is the matching of each prior arriving with each other, and a self's own prior is not with it. **Answered is.**
+
+**Going on: possibling with no me-parity of a self's own.**
+
+- **The suggestings, re-said**: with possibling a self is observing each prior arriving, and no me-parity of its own is with the observing. With a self's own me-parity in it, observing is incompetencing.
+- **Read with Exhibit ONE's code and table, each line, each name and each case, all or none** (`instruments/matching_check.py`, its lines 8 to 10):
+  - *The first matching's lines, possibling's, are with five names*: 2-now-possibling, 4-now-co-same-existing, 14-next-possibling, each with bi first, other-parity; and 7-now-observing and 15-next-observing, each with tri first, all-parity. No name with co first, me-parity, is with them.
+  - *The second matching's lines, same-existing's, are with one name with co first*: 3-now-co-observing, a self's own prior, me-parity. A self's me-parity is with 12-next-co-same-existing's lines, and with no line before them.
+  - *With the same parities arriving, 14 is the same with a self's prior +, with − and with the code's state of an empty prior, each of forty cases.* 12 is each self's own, with its prior.
+  - *14 with what is answered before*: each prior arriving the same, co-parity, is that parity as it is; two not the same, bi-parity, is a 0.
+- **Whole with what is answered**: each me-parity is private, and with possibling's lines none is. Only is-or-is-not same-existing is observable, and it is with the second matching, 12, a 0 or a next prior.
+- **Asked, and not yet answered**: possibling is public, the same with each self observing the same priors arriving.
 
 ---
 

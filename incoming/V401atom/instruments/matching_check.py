@@ -58,3 +58,21 @@ names1 = sorted({int(n) for n in re.findall(r"_(\d+)_", body1)})
 two = sorted(n for f in with_poss for n in f)
 print("7  the names with 1-now-existing's lines:", names1, "; each name of the two bi-foldings but 6, and 1, 4 and 12:",
       names1 == sorted(set(two) - {6} | {1, 4, 12}))
+
+# possibling's lines: the names with them, each with its first prefix; and 14 with each self observing the same arriving
+first = {int(n): t.split("-")[0] for n, t in re.findall(r"^\| (\d+) \| \*\*[\w-]+\*\* \| [^|]+\| [^|]+\| [^|]+\| ([a-z-]+) \|", src, re.M)}
+seg1 = body1[body1.index("_14_next_possibling = {}"):body1.index("_12_next_co_same_existing = dict")]
+seg2 = body1[body1.index("_12_next_co_same_existing = dict"):body1.index("_10_next_co_possibling = list")]
+n1 = sorted({int(n) for n in re.findall(r"_(\d+)_", seg1)}); n2 = sorted({int(n) for n in re.findall(r"_(\d+)_", seg2)})
+print("8  the first matching's lines are with the names", [(n, first[n]) for n in n1])
+print("   each is with bi or tri first, other-parity or all-parity, and none with co, me-parity:", all(first[n] in ("bi", "tri") for n in n1))
+print("9  the second matching's lines are with the names", [(n, first[n]) for n in n2])
+print("   one name with co first is with them, 3-now-co-observing, a self's own prior, me-parity:", [n for n in n2 if first[n] == "co"] == [3])
+ok10 = True
+for c in cases:
+    m = fourteen(c)
+    for p in (1, -1):
+        s = dict(one([(S, p)], [(S, v) for v in c])[0]).get(S)
+        ok10 = ok10 and s == (0 if m == p else -p)
+print("10 with the same parities arriving, 14 is the same with a self's prior +, with - and with the code's state of an empty prior, each case;")
+print("   and 12 is each self's own, with its prior:", ok10 and ok3)

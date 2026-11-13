@@ -12,3 +12,9 @@
    two of four are with possibling names, each with two possibling and two observing; the other two with none of either: True
 6  possibling names [2, 6, 10, 14] and observing names [3, 7, 11, 15] : each observing name is a possibling name and one: True
 7  the names with 1-now-existing's lines: [1, 2, 3, 4, 7, 10, 11, 12, 14, 15] ; each name of the two bi-foldings but 6, and 1, 4 and 12: True
+8  the first matching's lines are with the names [(2, 'bi'), (4, 'bi'), (7, 'tri'), (14, 'bi'), (15, 'tri')]
+   each is with bi or tri first, other-parity or all-parity, and none with co, me-parity: True
+9  the second matching's lines are with the names [(3, 'co'), (4, 'bi'), (7, 'tri'), (12, 'bi'), (14, 'bi'), (15, 'tri')]
+   one name with co first is with them, 3-now-co-observing, a self's own prior, me-parity: True
+10 with the same parities arriving, 14 is the same with a self's prior +, with - and with the code's state of an empty prior, each case;
+   and 12 is each self's own, with its prior: True
