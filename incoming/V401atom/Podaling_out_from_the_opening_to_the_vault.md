@@ -427,6 +427,60 @@ Beside the twenty-first, both whole: co-parity and bi-parity are living in the m
 
 ---
 
-## 31 Asked now
+## 31 Asked, tracked and not pressed
 
-- **Co-parity is resolving's is, and bi-parity its is-not: is-or-is-not?**
+- Co-parity is resolving's is, and bi-parity its is-not: is-or-is-not. No answer yet; executed beside it in section 34.
+
+---
+
+## 32 A next sentence arrived, a guess for exploring
+
+> i am guessing bi-parity is same-existing across. explore this. co-parity is observing possibling discovering along
+
+---
+
+## 33 Read with it
+
+- **The opening's forty-eighth.** Stable-forming is observing, possibling, discovering and same-existing together: three, and one.
+- **Waiting with Natural Intelligence's gathering-value.** Same-existing is the bi-folding of the three, forward, in bi-couplings with others, and no fourth beside them. Whole with the guess: three along, and their folding with others, across.
+- **The opening's twelfth to fourteenth.** Observing, possibling and discovering are each said by a before and an after, a prior, a now and a next: a sequence, along.
+- **Exhibit TWENTY Natural Naming.** Along is between moments, a self's own going on, and across is between selves within a moment, sharing now.
+- **Exhibit ONE Natural Resolver.** Its four same-existing names, 4, 8, 12 and 16, are each even, their first prefix bi.
+
+---
+
+## 34 Executed
+
+`instruments/bi_parity_across_check.py`, Exhibit ONE Natural Resolver's code read from its file with no line changed; its returned lines beside it. Two selves of one bi-coupling, each sharing across with its other, forty-four momentaries of a self.
+
+**With bi-parity, a self + and its other −.**
+
+- A self's prior changes with each momentary, and each changing is with a parity arriving across.
+- Its next prior is same-as what arrives, and same-as its other's prior: two parities exchanging across with each momentary.
+- The two are one inversion apart with each momentary: one pair, + and −, same-existing across.
+- No 0 goes out. Each observing is resolving's is-not.
+
+**With co-parity, a self + and its other +.**
+
+- A self's prior changes with each second momentary, and each changing is with a 0 arriving: nothing across, its own, along.
+- With each momentary between, a parity arrives same-as its prior, its prior stays, and a 0 goes out. Each such observing is resolving's is.
+- The two are same-as each other with each momentary.
+
+**Read by it.** With bi-parity each changing is across, a self's next me-parity its other's, and one pair is same-existing across. With co-parity each changing is a self's own, along, with a 0 across. Whole with the guess.
+
+---
+
+## 35 Parting and breaking
+
+- **Exchanging and inverting are one by the numbers.** With two selves, a next prior same-as an other's and a prior inverted are one same parity. The code's own line inverts a self's prior, and has no line bringing an other's parity in. Across by the numbers; a self's own by the code's line. Not distinguished.
+- **Same-existing with co-parity, by the set.** Natural Intelligence has same as a 0, a prior same-existing, and inverse as a parity, a prior inverting: a prior same-existing is with co-parity's observing. Same-existing with co-parity, a prior staying, along; and with bi-parity, one pair staying, across. Both laid whole; a candidate, bothbothing.
+- **Two 0s part from it.** Exhibit TWENTY Natural Naming has a 0 with 12-next-co-same-existing between a prior and a now, a same-existing name along; and a 0 with 14-next-possibling between two parities, a possibling name across.
+- **Possibling's names are even.** Exhibit ONE Natural Resolver's four possibling names are each even, their first prefix bi, as its four same-existing names are. By a first prefix possibling is with bi and not with co.
+- **This session's drawing.** Its placing has existing and discovering along, observing with two tips across, and possibling and same-existing with faces. Observing and possibling along part from that placing.
+- **Three in four momentaries, a candidate only.** With co-parity a self's four momentaries are a parity arriving same-as its prior, a 0 going out; a 0 arriving, its prior inverting; and each again. Observing with a first, and possibling and discovering with a second, is not distinguished by the code.
+
+---
+
+## 36 Asked now
+
+- **With bi-parity a self's next me-parity is its other's, across, and with co-parity a self's next me-parity is its own, along: is-or-is-not?**
