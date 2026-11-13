@@ -522,7 +522,17 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole, the two workings' readings**: 3-11-6-14 as resolving's bi-folding, there; the two bi-foldings with possibling names, 2-15-7-10 and 3-11-6-14, and the code's second matching with 3, here. Resolving with no other not possibly existing, there; with 1 to 5 a self's other is all-parity, answered is, here. Is-distinguishable, there; observing a distinguishing, here.
 - **The two workings, each with the other, asked by the person: is-not.** v401atom's note of 13:38 is with the pull request; v401mgr has laid ten things since, none with a word of it, and its new sentences have *going out* with six places, *sharing* with one and *public* with one, each out by the person's saying here. v401mgr's last note to v401atom is of this morning. v401atom has read v401mgr's layings with the person's asking only, two readings today. The person is with each concept between the two.
 - **From here**: with each reply v401atom is reading v401mgr's layings since its reading before, and a note is with the pull request with each thing for v401mgr's reading. A second note is with it now.
-- **Asked, and not yet answered**: with an is of same-existing, a self's other is distinguished with all-parity.
+- **Asked**: with an is of same-existing, a self's other is distinguished with all-parity. **Received as no natural explaining**: *is distinguished with* is out, and with the natural explaining found the asking is resolved already.
+
+**Going on: distinguishing, in its natural explaining.**
+
+- **Of the method, with it**: *is distinguished with*, *distinguished* and *nothing distinguished*, each said of a thing with no self's doing, are out of v401atom's sentences from here. Distinguishing is a self's own doing: a self is distinguishing. Two things are is-distinguishable or is-not-distinguishable, the person's naming with v401mgr.
+- **The natural explaining, found with the opening of Natural Intelligence, its waiting sentences**: is-or-is-not distinguishes the within of a universal set. Observing is distinguishing a same-existing. Discovering is distinguishing a next-existing after a same-existing. And with Natural Intelligence's gathering-value, a self's distinguishing is with an other.
+- **Resolved with them**: a self observing is distinguishing a same-existing, and its distinguishing is with an other. An all-parity is non-same-existing, answered, and no self is distinguishing it. With an is, a self is distinguishing a same-existing, with its other; with an is-not, its other and all-parity are is-not-distinguishable. No asking is with it.
+- **v401mgr's sentence of today with it**: co-parity is a self's prior and its other's prior moment is-not-distinguishable, and bi-parity the two is-distinguishable.
+- **The executing before this one, re-said with the naming** (`instruments/exchanging_check.py`, its line 6): with co-parity, a self's next is its prior same-existing. With bi-parity, with two arriving the one and the other, and with nothing arriving, all-parity its other, a self's next is one same thing with each, its prior inverting: with the code's lines the three are is-not-distinguishable.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked, and not yet answered**: with bi-parity, and with all-parity its other, a self's next is one same thing, its prior inverting.
 
 ---
 
