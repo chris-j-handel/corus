@@ -1,0 +1,6 @@
+cases, each of 256 cases of the priors with each of seven betweens: 1792
+0  with no breaking, each span along is three selves, from a twenty-fifth 1 to 17: True
+1  with a breaking, each of eight selves is with its prior, + or -, with each 1 to 17 after it: no line is ending a self: True
+2  each self before the between is as with no breaking, with each 1 to 17: True
+3  the self after the between is bi-folding with each 1 to 17, all-parity its other; and each self after it is with it:
+   each span along, after the between, is one self, and the spans of three are with it no more: True
