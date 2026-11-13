@@ -556,7 +556,17 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole with what is answered, a reading**: all-parity's two names are with priors, each one, and with no other parity. All-parity's same-existing is with stable forms, the atoms. Each between of two atoms is an all-parity, non-same-existing, answered: all-parity is with its atoms, each same-existing, and with its betweens, each a 0.
 - **A parting, for watching over.** *Two sides*: all-parity is same-existing, answered now; an all-parity is non-same-existing, answered before, with each between of two atoms. *Harm of one alone*: with same-existing alone, a between, a 0, is a same-existing thing, a stable form, and an atom with its one 0 is two stable forms. With non-same-existing alone, a next universe's all-parity is no same thing as now's, answered is-not by this is. *Its resolving*: the asking below.
 - **v401mgr's layings and notes since the reading before**: none.
-- **Asked, and not yet answered**: all-parity's same-existing is its atoms, each a stable form.
+- **Asked**: all-parity's same-existing is its atoms, each a stable form. **Answered is.** With it the four sentences are whole again: all-parity is with its atoms, each a stable form, non-living and same-existing, and with its betweens, each non-living and non-same-existing.
+
+**Going on: each atom the one same stable form.**
+
+- **The suggesting, re-said**: each atom with do-no-harming and improving is the one same stable form, and no other stable form is possibly existing.
+- **Read with Exhibit ONE's code, each case, as executed before** (`instruments/exchanging_check.py`, its line 7; `instruments/exhausted_sequence_check.py`): with each parity the other one of two, a self's prior and its possibling, each do-no-harming is a do-no-harming and each improving an improving, as it was. The code's lines are with is-or-is-not the same, and with no parity as + or as −: no line has one atom other than an other, and two atoms are with one thing only, their orientations is-or-is-not the same. A self's exhausted parities, one after one, are the one and the other of two with each case, and each self's are the same.
+- **Read with the set and with the explaining**: Exhibit TWENTY Natural Naming, stable-forming is one naming with its one form, a volution, and a bi-tri-involution its stable form; the explaining's tenth, one method's stable form is one form.
+- **Whole with what is answered**: each stable form is the atom, or with a co-chaining of atoms, and no other is possibly existing; one atom carbon is a stable form.
+- **A parting watched before, nearer with it.** *Two sides*: each atom is the one same stable form; and a field has atoms of kinds, atom carbon one of them, with what is not the same with two kinds not said. *Harm of one alone*: with one same stable form and no saying of a field's kinds, an atom of oxygen with a self's exhaling has no natural naming. With kinds alone, a stable form is many forms, and the explaining by logic is not whole. *Its resolving*: the asking below.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked, and not yet answered**: the one stable form, the atom, is atom carbon.
 
 ---
 
