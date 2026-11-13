@@ -1,0 +1,7 @@
+cases, a prior + or -, with one to eight 1 to 17s, each with nothing, +, - or 0 arriving: 174760
+1  a self's exhausted parities, one after one, each 0 out of them, are alternating, each the one before it inverted: True
+2  the first of them is its first prior inverted: True
+3  each of them is its next prior with that distinguishing, as it is: True
+   each exhausted sequence of the cases is alternating from + or from -, and no other is: True ; sequences not the same: 17
+4  a later self with that sequence arriving alone, one with each 1 to 17, each of two priors: its priors are the sequence, one with one: True
+5  and its own exhausted sequence is that sequence again; with its first prior the same as the first of them, from the second: True

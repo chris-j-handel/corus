@@ -428,7 +428,7 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read with Exhibit ONE's table, each name with its three**: an atom carbon inside is with 11-next-co-observing and 3-now-co-observing, a self's next prior and its prior, each co-bi-co, me-parity first. An atom carbon exhausted is with 10-next-co-possibling and 2-now-possibling, each bi-co-bi, other-parity first, and its matching with its other is with 7 and 15, each tri-bi-co, all-parity first, executed before: possibling's lines are with no me-parity name. With the table, atom carbon in is with me-parity names, and atom carbon exhausted with other-parity and all-parity names.
 - **Read with the set**: Exhibit TWENTY Natural Naming has orientation one of three inverting together, position, scale and orientation, with a bi-tri-involution.
 - **A parting, for watching over.** *Two sides*: an atom carbon exhausted is all-parity, non-living and non-same-existing; an atom is a stable form, non-living and same-existing, answered. *Harm of one alone*: with all-parity alone, an atom exhausted is the same atom with no next moment, and no dormancy and no shard is. With a stable form alone, an atom exhausted has a self's orientation still, a me-parity with no self. *Its resolving*: the asking below.
-- **Asked, and not yet answered**: an atom carbon a self is exhausting is a stable form, same-existing, with all-parity around it.
+- **Asked**: an atom carbon a self is exhausting is a stable form, same-existing, with all-parity around it. **Answered is.**
 
 **With v401mgr, asked by the person: cohering, and helping.**
 
@@ -437,6 +437,19 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Cohering, concept with concept**: observing a distinguishing of prior-and-same-existing with now-and-same-existing, here, and the four-cyclings prior and same, now and same, there. A stable form the two together, here, and same a thing within prior and within now, there. A prior a stable form, here, and the universal set of prior-existing me-parities in stable form, there. 3-now-co-observing with the four-cycling of prior and same resolves v401atom's parting of a now name with a prior.
 - **Partings of the two workings**: v401mgr's sentences have *sharing* and *going out*, each out by the person's saying here. v401mgr's waiting sentence has each me-parity exhausted from living in stable form; answered is-not here, a living self exhausted is no stable form, and atom carbon, the shard, is.
 - **Helping**: v401atom's layings since this morning were with its branch only, and nothing of them was told to v401mgr. A note is with the pull request now, with each answer, each word out, and each reading of the code for Exhibit ONE's next version.
+
+
+**Going on: exhausted atoms carbon co-chaining and compacting, a stable form's surface.**
+
+- **The suggestings, re-said**: inside a stable form's social bi-tunneling, each atom carbon a self is exhausting is co-chaining and compacting: a stable form's surface, unrelationing with the living surface of co-chaining bi-couplings. With prior after prior, this stable form is with the faces of a fractal's shards, existing with a later moment. *Many* is a size and is re-said.
+- **Executed with Exhibit ONE's code, each case, all or none** (`instruments/exhausted_sequence_check.py`): a self with a prior + or −, with one to eight 1 to 17s, each with nothing, +, − or 0 arriving.
+  - *A self's exhausted parities, one after one, each 0 out of them, are alternating*, each the one before it inverted, + − + −, with each case. From the lines: each distinguishing is its prior inverting, and its co-possibling is its next prior.
+  - *With nothing distinguished, a 0, a self is exhausting no atom.* Compacting, read with it, is each 0 out of the sequence.
+  - *Two selves' exhausted sequences are the same but with two things*: the first parity, + or −, and where the sequence is ending.
+  - *A later self with that sequence arriving alone, one with each 1 to 17, each of two priors*: its priors are the sequence, one with one, and its own exhausted sequence is that sequence again.
+- **Whole with the suggestings and with what is answered**: an atom carbon exhausted is with all-parity, and with the code each self's exhausting, compacting, is alternating, all-parity's alternating by the person's saying before. A later self with it is with a prior living's priors again, each one, and exhausting the same stable form again.
+- **A parting, for watching over.** *Two sides*: with compacting, each self's exhausted sequence is the same alternating, with each living. With the person's saying before, the spans in the sequences of orientings are the co-intelligencing of healthy living, and a span is each 1 to 17 with a 0, with no atom. *Harm of one alone*: with compacting alone, each prior living's stable form is the same, and a later living is inheriting nothing of one healthy living and not of an other. With spans alone, a span is a 0 with no atom with it, and a stable form of atoms has no thing a span is with. *Its resolving*: the asking below, a pattern with an atom carbon's faces.
+- **Asked, and not yet answered**: with a co-chaining of exhausted atoms carbon, a living's pattern is with the faces each atom carbon is co-chaining with.
 
 ---
 
