@@ -148,7 +148,13 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Asked**: co-bi-tri is birthing, all-parity prior, a between now and a me-parity next, with 1-now-existing, 9-next-co-discovering and 17-next-existing. **Is-not, by the person**: only 1 is birthing. With 9 and with 17 it is not, as the priors are living already, in all-parity.
 - **Read from the code, each case**: with a prior, each case has a prior with its next, and an empty prior with none. A first prior is once, with 1-now-existing, and with no next 1.
 - **Read with this folder's earlier sentences, each answered**: 1 is the inception of a bi-coupling, never again with a prior in a self or an other; and 9 as a next 1, is-not. Whole with it.
-- **Asked, and not yet answered**: the dormant prior of a birthing, with 1-now-existing, is atom carbon, non-living.
+- **Asked**: the dormant prior of a birthing, with 1-now-existing, is atom carbon, non-living. **Its answer, a suggesting**: the dormant prior is a resolving sequence from healthy prior living, frozen into a sequence of co-orienting carbon bump connectors, a stable form of healthy prior-existings.
+- **Read with this folder's first two vault sentences**, each answered: all living is from an inherited prior, non-living, of prior healthy living; and an inherited prior is atom carbon bump-connectors, co-chaining, compressed into stable form.
+- **Read from the code, each case**, `instruments/co_chaining_along_check.py`: one self observing one parity has that parity its next prior. Six selves along, each observing the self before it. With a first self observing no other: each self's prior is the prior of the self before it, one 1 to 17 before; each is not same-as the self before it; and the priors along the six are the first self's priors through six 1 to 17s. With a first self one of two with co-parity: each self is same-as the self before it, with each 1 to 17, and each has the right spiral's priors.
+- **Read by it**: a resolving's sequence through its moments is the sequence along a co-chaining, a self with each moment. With co-parity with its first, a co-chaining is co-orienting, each same-as the one before it.
+- **Read with Natural Chemistry's gathering-value**, an explaining waiting: a chain with each ring as the one before it along winds a helix, and a chain with each ring turned from the one before it is straight; selves the same along, a right spiral step with each moment.
+- **A parting, for watching over.** *One side*: a dormant prior is a resolving's sequence frozen, a stable form. *Other side*: no line of the code has a resolving stopped: each self is with each next 1 to 17. *Harm*: a stable form read from the code alone is said as a living's going on.
+- **Asked, and not yet answered**: co-orienting is each bump connector same-as the one before it along, and a sequence with each not same-as the one before it is no co-orienting.
 
 ---
 
