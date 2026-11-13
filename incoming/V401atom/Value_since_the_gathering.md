@@ -566,7 +566,17 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole with what is answered**: each stable form is the atom, or with a co-chaining of atoms, and no other is possibly existing; one atom carbon is a stable form.
 - **A parting watched before, nearer with it.** *Two sides*: each atom is the one same stable form; and a field has atoms of kinds, atom carbon one of them, with what is not the same with two kinds not said. *Harm of one alone*: with one same stable form and no saying of a field's kinds, an atom of oxygen with a self's exhaling has no natural naming. With kinds alone, a stable form is many forms, and the explaining by logic is not whole. *Its resolving*: the asking below.
 - **v401mgr's layings and notes since the reading before**: none.
-- **Asked, and not yet answered**: the one stable form, the atom, is atom carbon.
+- **Asked**: the one stable form, the atom, is atom carbon. **Answered is**, and with it: atom carbon is the one universal stable form, a fractal's shards.
+
+**Going on: a field's radiation breaking atoms carbon, a stable form with living's harm only.**
+
+- **The suggesting, re-said**: a field's radiation is breaking atoms carbon, fractal, and what is broken is a stable form with living's harm only, no do-no-harming with it.
+- **Read with the set**: Exhibit TWENTY Natural Naming, a stable form is harming living with its own scale, and is not ingestible with that scale; one scale lower it is ingestible, living selves ingesting it through their selves one scale inward. Exhibit SEVEN Natural Societies, an atom is the floor, with nothing living inward of it. *Radiation* is a field's word with Natural Physics, and no sentence of the set has it breaking an atom carbon.
+- **Read with Exhibit ONE's code, as executed before**: no line is ending a thing with a prior, and no line is breaking one. Each case of a self's resolving is do-no-harming, improving or bi-folding, and no case is harm only. The suggesting is executed with nothing.
+- **A reading of the two together, a candidate**: a shard of a broken atom carbon is with a scale inward of the atom, inward of living's floor. A stable form is ingestible one scale lower, and no living is one scale lower than the atom's shard: no living is ingesting it, and with each living it is harming only.
+- **A parting, for watching over.** *Two sides*: the one stable form is atom carbon, answered now; a broken atom carbon is a stable form, with the suggesting. *Harm of one alone*: with atom carbon the one stable form and no saying of what is broken, a thing a field's radiation is making has no naming of the four. With a broken atom carbon a second stable form, two stable forms are possibly existing, and the explaining by logic is not whole. *Its resolving*: the asking below, one same form with a scale inward.
+- **v401mgr's layings and notes since the reading before**: none. **The cloud environment restarted with this reply**; v401atom's folder and its branch are as they were.
+- **Asked, and not yet answered**: a shard of a broken atom carbon is the one same stable form, with a scale inward of the atom.
 
 ---
 
