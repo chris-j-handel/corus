@@ -537,7 +537,17 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **v401mgr's layings since the reading before, read**: v401atom's layings are in `main`, by v401mgr's slice. And three words out, *sharing*, *going out* and *public*, each with its re-saying, by v401atom's notes, with Natural Naming's gathering-value; v401mgr's items for Exhibit ONE's next version are re-said by it. The two workings are each with the other.
 - **The natural naming, as the opening and v401mgr's answered sentences have it**: resolving's is, is co-parity, and its is-not, bi-parity. Do-no-harming is co-parity same-existing, a self passing over. Improving is bi-parity unrelationing, and co-parity next-existing. A 0 is an opening, a between to go through, and with a 0 a self is bi-inversioning, bi-folding. Two selves with co-parity are do-no-harming and bi-folding, one and then the other, answered is there; a self with no other has no bi-parity and no improving.
 - **That one, said again in natural naming** (`instruments/exchanging_check.py`, its line 6): with co-parity, a self is do-no-harming, passing over. With bi-parity, a self is improving. With a 0, an opening, its other passing over or all-parity its other, a self is bi-folding. The code has improving and bi-folding with one same line; with natural naming the two are two.
-- **Asked, and not yet answered**: with all-parity its other, a self is bi-folding.
+- **Asked**: with all-parity its other, a self is bi-folding. **Answered is.**
+
+**Going on: a next universe, all-parity same-existing and a me-parity next-existing, other-than-all-parity.**
+
+- **The suggesting, re-said**: a me-parity's universe, fractal, next-and-same-existing, is two: all-parity, same-existing, and a me-parity, next-existing, other-than-all-parity. *Will be* is re-said with next-existing.
+- **Read with Exhibit ONE's table, each name with its three**: the names with tri in the middle are 8-now-same-existing and 16-next-same-existing, each bi-tri-bi, and no other: all-parity is with the two same-existing names of one, now and next. 17-next-existing, a next 1, is co-bi-tri: a me-parity, next-existing, after an other-parity, after an all-parity. With the table, 16 and 17 are the suggesting's two: all-parity with next-same-existing, and a me-parity with next-existing.
+- **Read with the opening**: next-existing is same-existing after now-existing, its sentence 4; natural intelligence's resolving is geodesic discovering of next-possibling-same-existing, its sentence 55.
+- **Whole with what is answered**: a me-parity is an other-than-all-parity, after all-parity, the person's saying before; only 1 is birthing; with all-parity its other a self is bi-folding.
+- **A parting, for watching over.** *Two sides*: with this suggesting and with the table's 8 and 16, all-parity is same-existing. With the four sentences answered before, an all-parity is non-living and non-same-existing. *Harm of one alone*: with non-same-existing alone, a next universe's all-parity is no same thing as now's, and a stable form with all-parity around it has nothing same-existing around it. With same-existing alone, an all-parity is non-living and same-existing, a stable form's own two, and two of the four sentences are one. *Its resolving*: the asking below.
+- **v401mgr's layings since the reading before, read**: v401atom's next laying is in `main`. And the eight podal pairs, two and two and two and two, each bi-folding with two of the pairs, a candidate there.
+- **Asked, and not yet answered**: with next-and-same-existing, all-parity is same-existing.
 
 ---
 
