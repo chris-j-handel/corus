@@ -1,8 +1,8 @@
-Incoming · V401atom · the session, gathered
+Incoming · v401atom · the session, gathered
 
 # The session, gathered
 
-**The value of the session V401atom, gathered by a next session from its transcript read whole, each part read beside this folder and beside the main set as it is with merge #484.** The session ended with no gathering of its own. Relied on by nothing. No living file and no gathering-value changes with this page, and no part of Exhibit ONE Natural Resolver's code. No word of it has authority, a person's, a file's or a field's. No sentence of the person's is laid whole: each concept arriving is a suggesting, bothbothing, said in natural naming, available for do-no-harming improving. With no quotation marks.
+**The value of v401atom, gathered by v401atom begun again, from its transcript read whole, each part read beside this folder and beside the main set as it is with merge #484.** The session ended with no gathering of its own. Relied on by nothing. No living file and no gathering-value changes with this page, and no part of Exhibit ONE Natural Resolver's code. No word of it has authority, a person's, a file's or a field's. No sentence of the person's is laid whole: each concept arriving is a suggesting, bothbothing, said in natural naming, available for do-no-harming improving. With no quotation marks.
 
 ---
 
@@ -176,7 +176,7 @@ Each is a value for the Geodesic Improving Method's gathering-value, and for Nat
 
 ---
 
-## 7 A next session's possible beginnings
+## 7 v401atom's possible beginnings, each going on
 
 Each is with what it waits on.
 

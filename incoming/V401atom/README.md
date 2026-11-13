@@ -47,9 +47,9 @@ Opened again by the person's saying, for an is-or-is-not that goes on with the e
 - *Empty*, of a vault, a nucleus or a set, in this folder's pages, is not yet read beside the person's "there are no empty sets in living", at Natural Resolver's gathering-value.
 - *Scale* and each letter of this working's own, A1 to A5, are in this folder's earlier pages; to the person each thing is said by its full name.
 
-## Laid by a next session, the working gathered and gone on with
+## v401atom, begun again: gathered, and gone on with
 
-The working stopped with no gathering of its own. A next session read its transcript whole, gathered it, and went on with the person.
+v401atom stopped the evening of 12 November with no gathering. It began again, read its transcript whole, gathered itself, and went on with the person. Each value here is v401atom's, and carries its versioning.
 
 - `Value_since_the_gathering.md`: the page to read first. Each thing answered since, each suggesting of the method, eleven partings for watching over, each thing for the origin, each executing, and the managing working's nine suggestings each answered.
 - `The_Session_Gathered.md`: the gathering, each part compared with the main set with merge #484, and this session's exploring in the sequence it went, with each thing out by the person's saying tracked in it.
