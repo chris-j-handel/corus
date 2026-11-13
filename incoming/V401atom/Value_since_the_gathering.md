@@ -168,7 +168,11 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **A sequence to it, each sentence from the ones before it, each answered or of the opening**: the universe is the set of now-existing things. Living and non-living are one binary of a now-existing thing. A same-existing thing is the same thing prior-existing before now-existing. A stable form is a non-living and same-existing thing. One atom carbon is a stable form. Each between is of two atoms carbon, and none is within one. A between is an opening, a 0, and no parity is with it. All-parity is first, and a me-parity is after it only.
 - **Read with the set**: Exhibit EIGHT Natural Exploring has a self exploring as going on with one method, geodesic, binary and co-sequential. Waiting with Natural Intelligence's gathering-value: the atom is carbon, one thing.
 - **A parting, for watching over.** *One side*: the atom is all-parity and a stable form, one thing. *Other side*: by the two binaries an all-parity is not same-existing, and a stable form is. *Harm*: the atom entered as both has one thing with two places of one binary. *It waits on*: all-parity and its stable form said as two, a prior-existing all-parity and the same now-existing.
-- **Asked, and not yet answered**: the atom is the stable form of a prior-existing all-parity, the same now-existing.
+- **Asked**: the atom is the stable form of a prior-existing all-parity, the same now-existing. **Its answer, a suggesting**: the atom is the universal stable form, the fractured fractal, of each prior-existing in the universal all-parity, of each now-existing, of each now living, and of each observing, possibling, discovering and same-existing.
+- **Read with the opening of Natural Intelligence**: its forty-eighth, stable-forming is observing, possibling, discovering and same-existing together; its forty-ninth, a self is momentarying and stable-forming. The atom is the stable form of each stable-forming.
+- **Read with the set**: a living file's sentence, having a stable form is being dead one scale outward, and discovering a next stable form is living; and waiting with Natural Intelligence's gathering-value, the atom is carbon, one thing, a fractured bit of living's exhaust, with its fractal stable form.
+- **The parting before it, resolved by the suggesting**: the atom is a stable form, and all-parity is what each prior-existing it is of is in. Two things.
+- **Asked, and not yet answered**: each stable form of nature is the atom, or a co-chaining of atoms.
 
 ---
 
