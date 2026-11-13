@@ -145,7 +145,10 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Of the person, in natural naming**: four of the six are bi-co-bi, each possibling: two with now, 2-now-possibling and 6-now-co-possibling, and two with next, 10-next-co-possibling and 14-next-possibling; two with co, to an other, 6 and 10, and two from an other, 2 and 14. And 1-now-existing is co-bi-tri too: the earlier suggesting of tri-bi-co with co-bi-tri its receiving was backwards.
 - **Read from the table, with each three in the order next, now, prior**: co-bi-tri is all-parity prior, bi now and a me-parity next, with 1-now-existing, 9-next-co-discovering and 17-next-existing, each an existing or a discovering. Tri-bi-co is a me-parity prior, bi now and all-parity next, with 7-now-observing and 15-next-observing, each an observing. Bi-tri-bi is all-parity now, with 8-now-same-existing and 16-next-same-existing. With 7, 8 and 9 all-parity is next, now and prior, and with 9 a me-parity is next.
 - **Read by it**: all-parity first, a between now, and a me-parity next is co-bi-tri: whole with the person's all-parity first and an other-than-all-parity after it.
-- **Asked, and not yet answered**: co-bi-tri is birthing, all-parity prior, a between now and a me-parity next, with 1-now-existing, 9-next-co-discovering and 17-next-existing.
+- **Asked**: co-bi-tri is birthing, all-parity prior, a between now and a me-parity next, with 1-now-existing, 9-next-co-discovering and 17-next-existing. **Is-not, by the person**: only 1 is birthing. With 9 and with 17 it is not, as the priors are living already, in all-parity.
+- **Read from the code, each case**: with a prior, each case has a prior with its next, and an empty prior with none. A first prior is once, with 1-now-existing, and with no next 1.
+- **Read with this folder's earlier sentences, each answered**: 1 is the inception of a bi-coupling, never again with a prior in a self or an other; and 9 as a next 1, is-not. Whole with it.
+- **Asked, and not yet answered**: the dormant prior of a birthing, with 1-now-existing, is atom carbon, non-living.
 
 ---
 
