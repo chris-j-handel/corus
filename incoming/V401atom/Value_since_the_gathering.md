@@ -576,7 +576,21 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **A reading of the two together, a candidate**: a shard of a broken atom carbon is with a scale inward of the atom, inward of living's floor. A stable form is ingestible one scale lower, and no living is one scale lower than the atom's shard: no living is ingesting it, and with each living it is harming only.
 - **A parting, for watching over.** *Two sides*: the one stable form is atom carbon, answered now; a broken atom carbon is a stable form, with the suggesting. *Harm of one alone*: with atom carbon the one stable form and no saying of what is broken, a thing a field's radiation is making has no naming of the four. With a broken atom carbon a second stable form, two stable forms are possibly existing, and the explaining by logic is not whole. *Its resolving*: the asking below, one same form with a scale inward.
 - **v401mgr's layings and notes since the reading before**: none. **The cloud environment restarted with this reply**; v401atom's folder and its branch are as they were.
-- **Asked, and not yet answered**: a shard of a broken atom carbon is the one same stable form, with a scale inward of the atom.
+- **Asked**: a shard of a broken atom carbon is the one same stable form, with a scale inward of the atom. **Asked of v401atom with it**: this cohering one way and incohering the other, found now.
+
+**Going on: the asking read both ways, each with what is answered, all or none.**
+
+- **Its is, incohering.** An atom is with one between and only one, a 0, with nothing within it, and with no between of two, answered. With a shard inward of the atom a stable form, an atom is two stable forms and a between of the two before its breaking: a co-chaining, and no atom. And with the atom atom carbon, the one stable form, answered, a stable form inward of it is a second. The is parts with two answers.
+- **Its is-not, cohering.** An atom has nothing within it to be a shard, and no breaking is with an atom. Each stable form is the atom, or with a co-chaining of atoms, answered, and each between of two atoms is an all-parity, non-same-existing, answered. A breaking is with a co-chaining of atoms carbon, with a between of two, and each thing after it is the atom, or with a co-chaining of atoms: the one same stable form, with the atom's own scale. The is-not is whole with each answer. The person's own words have it: the carbon fractal atoms, a co-chaining.
+- **A fault of the reply before this one, named**: its candidate reading had a shard with a scale inward of the atom, and was with the incohering way. It is out.
+- **One sentence of the cohering way is new, a candidate**: each breaking is an unrelationing with a between of two atoms. Each other sentence of it is answered.
+- **Executed with Exhibit ONE's code, each case, all or none** (`instruments/breaking_check.py`): eight selves along, a first self bi-folding, bi-folding and do-no-harming, and again, each span along three selves. One between of two is given no more, each of seven betweens with each of 256 cases of the priors.
+  - *Each of eight selves is with its prior with each 1 to 17 after it.* No line is ending a self, and each thing after the breaking is going on.
+  - *Each self before the between is as with no breaking.*
+  - *The self after the between is bi-folding with each 1 to 17, all-parity its other, and each self after it is with it*: each span after the between is one self, and the spans of three are with it no more.
+- **With the suggesting of harm only, a reading**: after a breaking, a co-chaining's spans, the numbers of a prior living's along, are with the selves after the between no more, and each is with all-parity's bi-folding only. A later self with that sequence is with no span of the prior living.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked, and not yet answered**: each breaking is an unrelationing with a between of two atoms.
 
 ---
 
