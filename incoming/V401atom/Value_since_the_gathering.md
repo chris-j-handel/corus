@@ -112,6 +112,16 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **A parting, for watching over.** *One side*: the vault is all-parity now, answered is, and an all-parity is non-living. *Other side*: the vault is the me-parity of the bi-coupling, and a me-parity is living. *Harm*: the vault entered with one side alone is said living only, or non-living only. The candidate before it here, all-parity now as the me-parity of a bi-coupling, is with this parting.
 - **Asked, and not yet answered**: atom carbon is a non-living and same-existing thing.
 
+**Going on: the vault, its all-parity inside, and a dormant prior.**
+
+- **Suggestings, in natural naming**: the vault is an all-parity environment, protected from the me-parities, self-parities and other-parities around it, each resolved away from the all-parity inside. Inside, a new me-parity becomes a living me-parity, in the all-parity universe of the society and the bi-coupling. The alternating waits as all-parity, and the me-parity waits as dormant priors. With the all-parity alternating resolving with the dormant priors, in the bi-coupling, a new me-parity is living, alternating with all-parity, and it is other than all-parity too, a self-parity living in the all-parity society.
+- **Read with this folder's vault sentences**: the tenth, the birthing vault as the unrelationing of each me-parity and other-parity into a womb of universal-parities; the seventh, the vault protecting universal-parity; the fourth, dormancy inside living.
+- **Read from the code, each case**: with nothing a self is observing, with each a 0, and with two parities not the same, a self's prior is inverting, the same with each, and again with each next: + − + −, alternating. Nothing of the parities around is in it. With an empty prior, the code's state, each such case has no prior with each next: nothing alternates.
+- **Read by it**: each parity around the vault is resolved away to a 0. The alternating is with a prior and that 0, and with no prior it is with nothing. A dormant prior is with it first.
+- **A parting, for watching over.** *One side*: the alternating waits as all-parity, with no me-parity yet. *Other side*: in the code the alternating is a prior's inverting, and with no prior no line has it. *Harm*: the alternating entered as all-parity's alone has no line of the code with it. *It waits on*: the code as having nothing of parity, with the alternating said.
+- **A parting, for watching over.** *One side*: this folder's fourth has dormancy inside living, and no new birthing. *Other side*: the me-parity waits as dormant priors, before a new me-parity is living. *Harm*: dormancy entered with one side alone is said after living only, or before living only.
+- **Asked, and not yet answered**: a new me-parity is living with a dormant prior alternating inside the vault, and with no dormant prior none is.
+
 ---
 
 ## 6 Executed, each case, all or none
