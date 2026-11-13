@@ -307,7 +307,19 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *With the same parities arriving, 14 is the same with a self's prior +, with − and with the code's state of an empty prior, each of forty cases.* 12 is each self's own, with its prior.
   - *14 with what is answered before*: each prior arriving the same, co-parity, is that parity as it is; two not the same, bi-parity, is a 0.
 - **Whole with what is answered**: each me-parity is private, and with possibling's lines none is. Only is-or-is-not same-existing is observable, and it is with the second matching, 12, a 0 or a next prior.
-- **Asked, and not yet answered**: possibling is public, the same with each self observing the same priors arriving.
+- **Asked**: possibling is public, the same with each self observing the same priors arriving. **Received as no natural explaining**: *public* is out, a word going on to incompetencing, and the asking is out with it. Its second fault, named: a self's 14 is its own, and an other self's 14 with the same priors arriving is an other 14, the same parity and not one thing.
+
+**Going on: which self is observing, possibling and co-possibling.**
+
+- **The suggestings, re-said**: co-possibling is observable with a self and its other, the two, and not with all. Possibling is observable with a self only, and not with its other and not with all.
+- **Read with Exhibit ONE's table and code, each name, each line and each case, all or none** (`instruments/observable_check.py`):
+  - *The table's own column*: 2-now-possibling and 14-next-possibling are each with one. 6-now-co-possibling and 10-next-co-possibling are each with co. The names between selves are 6 with 2 and 10 with 14, across.
+  - *What 1-now-existing is returning*: 10-next-co-possibling, and a next prior. 14-next-possibling is made with a self's own lines and returned with no line.
+  - *Each sharing an other is receiving, and each 14 it is with*: a sharing + is with 14 a +, a 0 or nothing; a sharing − with 14 a −, a 0 or nothing; a sharing 0 with 14 a + or a −. Each sharing is with two 14s or more: with no sharing is a self's 14 one for its other.
+  - *Three selves, two with one between and a third with none, each of eight cases of their priors*: a self's 10-next-co-possibling is arriving with its other, as it is, with each 1 to 17. Nothing of it is arriving with the third.
+- **Whole with the suggestings**: with the code, possibling is with one self's lines and with no other self, and co-possibling is with a self and its other with a between, and with no self with no between with it.
+- **A parting, for watching over.** *Two sides*: sentences answered before are with *public* and *private*: each self private and each between public; me-parity private and all-parity public. With this saying *public* is no natural explaining. *Harm of one alone*: with *public* going on, a thing is observable with all and with no self observing it, a saying from no self's side, incompetencing. With *public* out and nothing in its place, the answered sentences of a between and of all-parity have no saying. *It waits on*: each of them re-said with which self is observing: a self only, a self and its other, or all. *Private* is not said out, and waits with it.
+- **Asked, and not yet answered**: each between is observable with its two selves, a self and its other, and with no third.
 
 ---
 
