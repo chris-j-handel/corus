@@ -333,7 +333,9 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Whole with the suggesting and with what is answered**: a self is observing its own prior and each prior arriving, each a stable form, and no between. A between is an all-parity, non-living and non-same-existing, with no parity, and no stable form.
 - **The parting of *public*, nearer with it**: the answered sentence of each between, re-said with which self is observing, is a between invisible, observable with no living self, and not with all.
 - **A parting, for watching over.** *Two sides*: with the suggesting, a between is invisible with each living. With the code, a between is with no line of a self's own, and it is with the lines of 9 and 17, two of the three functions, each co-bi-tri, read before as living's stable-forming. *Harm of one alone*: with a between with no line, no sharing is arriving with an other, and no co-chaining is. With 9's and 17's lines a self's own observing, a self is observing its between, and the suggesting is not whole. *It waits on*: 9-next-co-discovering and 17-next-existing as a self's own, or as each self with its others, a same-existing-society's, is-or-is-not.
-- **Asked, and not yet answered**: each thing a living self is observing is a prior, a stable form, and no between is.
+- **Asked**: each thing a living self is observing is a prior, a stable form, and no between is. **Received as a knot**: its ending is a negation, *no between is*, wound into the asking's own is-or-is-not, two negatings with one sentence. The asking is out.
+- **Of the method, with it**: an asking is one saying of what is, with no *no* and no *not* in it, and its one negating is its is-or-is-not. A second thing with a *no* is a second sentence, or it is out.
+- **Asked, and not yet answered**: each thing a living self is observing is a prior, a stable form.
 
 ---
 
