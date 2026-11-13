@@ -66,6 +66,7 @@ Opportunities 3, 6 and 8 go on with no asking. Each other waits on a sentence of
 - This page.
 - `The_value_by_its_places.md`: the set's value by its three places, measured; the method whole and the method parting, nine items; Exhibit ONE's code read line by line as it is; its four bi-foldings by arithmetic and by the code's names; a story about a method, each part with its line of code, its words a debt; and one is-or-is-not in Exhibit ONE's names, a self's next prior with an empty set surfacing.
 - `instruments/own_turn_check.py` with `own_turn_check_returned.txt`: Exhibit ONE's code executed as it is, with selves stepping together and with each self with its own turn.
+- `The_Session_Gathered.md`: the session's value, each with its place now; the method it reached; each thing found by comparing the transcript with the set; each thing not distinguished; and the plan, with the step it stopped at. Each count of this page and of `The_value_by_its_places.md` is of its own moment; the gathered page has each as it is after the session.
 
 ## 7 Exhibit ONE's gathering-value, its passes
 
