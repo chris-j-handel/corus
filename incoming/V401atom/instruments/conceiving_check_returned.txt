@@ -1,0 +1,18 @@
+1  four sharings with one bi-coupling: two with co-parity, a and b, and two with bi-parity, c and d
+  sharing a: self + other +   new, its prior ..-++--++--++--+   its going out .-+0-0+0-0+0-0+0
+  sharing b: self - other -   new, its prior ..+--++--++--++-   its going out .+-0+0-0+0-0+0-0
+  sharing c: self + other -   new, its prior ................   its going out .000000000000000
+  sharing d: self - other +   new, its prior ................   its going out .000000000000000
+  with each co-parity of its two, a prior is inherited, from a third 1 to 17: True
+  with each bi-parity of its two, nothing is inherited with each 1 to 17, and a 0 going out: True
+  the prior inherited with a, with each 1 to 17 from a third, same-as each of the two: True
+2  one sharing with bi-parity, and a new self's 0 going back to each of the two
+  each of the two, its prior and its going out, the same with a new self's 0 going back and with none: True
+3  one sharing with bi-parity, and from a ninth 1 to 17 one of the two sharing with a new self no more
+  self : its prior +-+-+-+-+-+-+-+-   its going out -+-+-+-+-+-+-+-+
+  other: its prior -+-+-+-+-+-+-+-+   its going out +-+-+-+-+-+-+-+-
+  new  : its prior ..........-+-+-+   its going out .00000000-+-+-+-
+  a new self's first prior is with a 1 to 17, of sixteen its number 11 ; same-as the going out of the one still sharing, two 1 to 17s before: True
+  from it, with each 1 to 17, a new self's prior one inversion apart from the prior of the one still sharing: True ; same-as the prior of the one sharing no more: True
+4  one sharing with bi-parity, and from a ninth 1 to 17 both of the two sharing with a new self no more
+  new  : its prior ................   its going out .00000000.......

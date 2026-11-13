@@ -1,0 +1,29 @@
+the table's sixteen names, each n - 1 in four binary digits: True
+1 to 5: 2 parities; each next name one parity inverting, and no two: True ; each form once: True
+1 to 17: 4 parities; each next name one parity inverting, and no two: True ; each form once: True
+1 to 65: 6 parities; each next name one parity inverting, and no two: True ; each form once: True
+1 to 257: 8 parities; each next name one parity inverting, and no two: True ; each form once: True
+1 to 17, each name with its two pairs of parities, an inner pair and an outer pair:
+     1 ++ ++    2 -+ ++    3 -- ++    4 +- ++     existing, possibling, observing, same-existing
+     5 +- -+    6 -- -+    7 -+ -+    8 ++ -+     existing, possibling, observing, same-existing
+     9 ++ --   10 -+ --   11 -- --   12 +- --     discovering, possibling, observing, same-existing
+    13 +- +-   14 -- +-   15 -+ +-   16 ++ +-     discovering, possibling, observing, same-existing
+1 to 17, each pair of parities, a moment of a pair one of its steps:
+    pair 1: a moment of it 1 name; its steps 12, with each a right spiral step 6 and that step backward 6, an other 0; its steps in turn: right right right none back back back none right right right none back back back none
+            three steps of its own, then none, with each four: True ; with each odd four right and each even four backward: True
+            with each fourth, and with no other, a pair outward of it steps: True
+    pair 2: a moment of it 4 names; its steps 4, with each a right spiral step 4 and that step backward 0, an other 0; its steps in turn: right right right right
+1 to 65, each pair of parities, a moment of a pair one of its steps:
+    pair 1: a moment of it 1 name; its steps 48, with each a right spiral step 24 and that step backward 24, an other 0; its steps in turn: right right right none back back back none right right right none back back back none ...
+            three steps of its own, then none, with each four: True ; with each odd four right and each even four backward: True
+            with each fourth, and with no other, a pair outward of it steps: True
+    pair 2: a moment of it 4 names; its steps 12, with each a right spiral step 6 and that step backward 6, an other 0; its steps in turn: right right right none back back back none right right right none back back back none
+            three steps of its own, then none, with each four: True ; with each odd four right and each even four backward: True
+            with each fourth, and with no other, a pair outward of it steps: True
+    pair 3: a moment of it 16 names; its steps 4, with each a right spiral step 4 and that step backward 0, an other 0; its steps in turn: right right right right
+a pair's forms with each first name of its moments, 1, 2, 3, 4 with 1 to 5; 1, 5, 9, 13 with 1 to 17; 1, 17, 33, 49 with 1 to 65:
+    1 to 5  : ++ -+ -- +-
+    1 to 17 : ++ -+ -- +-
+    1 to 65 : ++ -+ -- +-
+    one same four forms with each: True ; n to 4n - 3, twice: [1, 5, 9, 13, 17] [1, 17, 33, 49, 65]
+steps of a pair's own, 1 to 65: inner 48 middle 12 outer 4 ; three of a pair's own to one of each pair outward of it, twice: True ; in all 64

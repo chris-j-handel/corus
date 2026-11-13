@@ -1,0 +1,16 @@
+a spiral alone, n selves along: again with {3: 12, 5: 20, 7: 28, 9: 36, 11: 44, 13: 52}
+a spiral alone, n selves across: again with {3: 12, 5: 20, 7: 28, 9: 36, 11: 44, 13: 52}
+p along by q across: again with
+  3 by 5: 12; 5 by 3: 12; alone 12 and 20
+  3 by 7: 7; 7 by 3: 7; alone 12 and 28
+  3 by 13: 13; 13 by 3: 13; alone 12 and 52
+  5 by 7: 20; 7 by 5: 20; alone 20 and 28
+  5 by 9: 20; 9 by 5: 20; alone 20 and 36
+  5 by 11: 11; 11 by 5: 11; alone 20 and 44
+  5 by 13: 13; 13 by 5: 13; alone 20 and 52
+  7 by 9: 28; 9 by 7: 28; alone 28 and 36
+  7 by 13: 28; 13 by 7: 28; alone 28 and 52
+  7 by 15: 15; 15 by 7: 15; alone 28 and 60
+  3 by 4: 2; 4 by 3: 2; alone 12 and 2
+  4 by 5: 2; 5 by 4: 2; alone 2 and 20
+along with 10 and across with 9, 3 by 5: 12 ; along with 6 and across with 10, 3 by 5: 12

@@ -1,0 +1,18 @@
+bi-parity, a self + and its other -
+  self : its prior +-+-+-+-+-+-   arriving -+-+-+-+-+-+   its going out -+-+-+-+-+-+
+  other: its prior -+-+-+-+-+-+   arriving +-+-+-+-+-+-   its going out +-+-+-+-+-+-
+  momentaries of a self's prior changing: 44 ; of its prior staying: 0
+    with each changing, a parity arriving across: True ; with each changing, nothing or a 0 arriving: False
+    with each changing, its next prior same-as what arrives: True ; same-as its other's prior: True
+    with each staying, a parity arriving same-as its prior: None
+    the two priors, with each momentary, same-as each other: False ; one inversion apart: True
+    a 0 going out: 0 of 44
+co-parity, a self + and its other +
+  self : its prior -++--++--++-   arriving 0+0-0+0-0+0-   its going out +0-0+0-0+0-0
+  other: its prior -++--++--++-   arriving 0+0-0+0-0+0-   its going out +0-0+0-0+0-0
+  momentaries of a self's prior changing: 22 ; of its prior staying: 22
+    with each changing, a parity arriving across: False ; with each changing, nothing or a 0 arriving: True
+    with each changing, its next prior same-as what arrives: False ; same-as its other's prior: False
+    with each staying, a parity arriving same-as its prior: True
+    the two priors, with each momentary, same-as each other: True ; one inversion apart: False
+    a 0 going out: 22 of 44

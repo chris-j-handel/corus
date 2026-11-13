@@ -1,0 +1,20 @@
+one self, by 1-now-existing alone, a prior and an arriving each + or - or none:
+  prior .  arriving .  ->  going out .  its next prior .
+  prior .  arriving +  ->  going out +  its next prior +
+  prior .  arriving -  ->  going out -  its next prior -
+  prior +  arriving .  ->  going out -  its next prior -
+  prior +  arriving +  ->  going out 0  its next prior +
+  prior +  arriving -  ->  going out -  its next prior -
+  prior -  arriving .  ->  going out +  its next prior +
+  prior -  arriving +  ->  going out +  its next prior +
+  prior -  arriving -  ->  going out 0  its next prior -
+a bi-coupling of two selves, each sharing across with 10 to its other; a prior + with self 1 only:
+  self 1: its prior +-+-+-+-+-+-+-   its going out -+-+-+-+-+-+-+
+  self 2: its prior ..-+-+-+-+-+-+   its going out .-+-+-+-+-+-+-
+a bi-coupling of two selves, a prior + with each:
+  self 1: its prior +--++--++--++-   its going out -0+0-0+0-0+0-0
+  self 2: its prior +--++--++--++-   its going out -0+0-0+0-0+0-0
+a bi-coupling of two selves, a prior + with one and - with its other:
+  self 1: its prior +-+-+-+-+-+-+-   its going out -+-+-+-+-+-+-+
+  self 2: its prior -+-+-+-+-+-+-+   its going out +-+-+-+-+-+-+-
+400 societies of 2 to 7 selves, couplings by lot, 60 momentaries each: a self with a prior is with a prior after, each: True

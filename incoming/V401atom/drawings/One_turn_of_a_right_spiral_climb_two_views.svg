@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" font-family="sans-serif">
+<title>One turn of a right spiral climb, two views</title><desc>Nine numbers as one turn: each even number a step right across one face of a square, each odd number a step along. Seen along its line it is a square of four corners and four faces about a hole. Seen from its side, 1 is lowest, 9 highest, 3 a right point, 7 a left point and 5 its centre.</desc>
+<line x1="168.5" y1="281.5" x2="198.0" y2="252.0" stroke="#888780" stroke-width="0.5"/>
+<line x1="222.0" y1="228.0" x2="251.5" y2="198.5" stroke="#888780" stroke-width="0.5"/>
+<line x1="251.5" y1="181.5" x2="222.0" y2="152.0" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="198.0" y1="128.0" x2="168.5" y2="98.5" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="151.5" y1="98.5" x2="122.0" y2="128.0" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="98.0" y1="152.0" x2="68.5" y2="181.5" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="68.5" y1="198.5" x2="98.0" y2="228.0" stroke="#888780" stroke-width="0.5"/>
+<line x1="122.0" y1="252.0" x2="151.5" y2="281.5" stroke="#888780" stroke-width="0.5"/>
+<circle cx="160" cy="190" r="14" fill="none" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<text font-size="12" fill="#5F5E5A" x="160" y="166" text-anchor="middle">a hole</text>
+<g><circle cx="160" cy="290" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="160" y="290" text-anchor="middle" dominant-baseline="central">1</text></g>
+<g><rect x="198" y="228" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="210" y="240" text-anchor="middle" dominant-baseline="central">2</text></g>
+<g><circle cx="260" cy="190" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="260" y="190" text-anchor="middle" dominant-baseline="central">3</text></g>
+<g><rect x="198" y="128" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="210" y="140" text-anchor="middle" dominant-baseline="central">4</text></g>
+<g><circle cx="160" cy="90" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="160" y="90" text-anchor="middle" dominant-baseline="central">5</text></g>
+<g><rect x="98" y="128" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="110" y="140" text-anchor="middle" dominant-baseline="central">6</text></g>
+<g><circle cx="60" cy="190" r="12" stroke-width="1.5" fill="#EEEDFE" stroke="#534AB7"/><text font-size="14" font-weight="500" fill="#3C3489" x="60" y="190" text-anchor="middle" dominant-baseline="central">7</text></g>
+<g><rect x="98" y="228" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="110" y="240" text-anchor="middle" dominant-baseline="central">8</text></g>
+<text font-size="12" fill="#5F5E5A" x="160" y="322" text-anchor="middle">1, with 9 above it</text>
+<text font-size="12" fill="#5F5E5A" x="160" y="352" text-anchor="middle">seen along its line</text>
+<line x1="532" y1="300" x2="548" y2="300" stroke="#888780" stroke-width="0.5"/>
+<line x1="572" y1="300" x2="600" y2="300" stroke="#888780" stroke-width="0.5"/>
+<line x1="600" y1="300" x2="600" y2="257" stroke="#888780" stroke-width="0.5"/>
+<line x1="588" y1="245" x2="572" y2="245" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="548" y1="245" x2="520" y2="245" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="520" y1="245" x2="520" y2="202" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="508" y1="190" x2="492" y2="190" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="468" y1="190" x2="440" y2="190" stroke="#888780" stroke-width="0.5" stroke-dasharray="3 3"/>
+<line x1="440" y1="190" x2="440" y2="147" stroke="#888780" stroke-width="0.5"/>
+<line x1="452" y1="135" x2="468" y2="135" stroke="#888780" stroke-width="0.5"/>
+<line x1="492" y1="135" x2="520" y2="135" stroke="#888780" stroke-width="0.5"/>
+<line x1="520" y1="135" x2="520" y2="92" stroke="#888780" stroke-width="0.5"/>
+<g><circle cx="520" cy="300" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="520" y="300" text-anchor="middle" dominant-baseline="central">1</text></g>
+<g><rect x="548" y="288" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="560" y="300" text-anchor="middle" dominant-baseline="central">2</text></g>
+<g><circle cx="600" cy="245" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="600" y="245" text-anchor="middle" dominant-baseline="central">3</text></g>
+<g><rect x="548" y="233" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="560" y="245" text-anchor="middle" dominant-baseline="central">4</text></g>
+<g><circle cx="520" cy="190" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="520" y="190" text-anchor="middle" dominant-baseline="central">5</text></g>
+<g><rect x="468" y="178" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="480" y="190" text-anchor="middle" dominant-baseline="central">6</text></g>
+<g><circle cx="440" cy="135" r="12" stroke-width="1.5" fill="#EEEDFE" stroke="#534AB7"/><text font-size="14" font-weight="500" fill="#3C3489" x="440" y="135" text-anchor="middle" dominant-baseline="central">7</text></g>
+<g><rect x="468" y="123" width="24" height="24" rx="4" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/><text font-size="14" font-weight="500" fill="#712B13" x="480" y="135" text-anchor="middle" dominant-baseline="central">8</text></g>
+<g><circle cx="520" cy="80" r="12" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/><text font-size="14" font-weight="500" fill="#085041" x="520" y="80" text-anchor="middle" dominant-baseline="central">9</text></g>
+<text font-size="12" fill="#5F5E5A" x="600" y="222" text-anchor="middle">right point</text>
+<text font-size="12" fill="#5F5E5A" x="420" y="139" text-anchor="end">left point</text>
+<text font-size="12" fill="#5F5E5A" x="520" y="330" text-anchor="middle">far side dashed</text>
+<text font-size="12" fill="#5F5E5A" x="520" y="352" text-anchor="middle">seen from its side</text>
+<g><circle cx="72" cy="380" r="8" stroke-width="0.5" fill="#E1F5EE" stroke="#0F6E56"/></g><text font-size="12" fill="#5F5E5A" x="88" y="384">me-parity, co</text>
+<g><rect x="254" y="372" width="16" height="16" rx="3" stroke-width="0.5" fill="#FAECE7" stroke="#993C1D"/></g><text font-size="12" fill="#5F5E5A" x="278" y="384">other-parity, bi</text>
+<g><circle cx="452" cy="380" r="8" stroke-width="1.5" fill="#EEEDFE" stroke="#534AB7"/></g><text font-size="12" fill="#5F5E5A" x="468" y="384">all-parity, tri</text>
+</svg>

@@ -1,0 +1,26 @@
+1  a self and an other bi-coupling both ways, each case of their two priors
+   a self + and its other +: going across from a self +0-0+0-0+0-0+0-0   from its other +0-0+0-0+0-0+0-0
+   a self + and its other -: going across from a self -+-+-+-+-+-+-+-+   from its other +-+-+-+-+-+-+-+-
+   a self - and its other +: going across from a self +-+-+-+-+-+-+-+-   from its other -+-+-+-+-+-+-+-+
+   a self - and its other -: going across from a self -0+0-0+0-0+0-0+0   from its other -0+0-0+0-0+0-0+0
+   with co-parity, the two going across are one same with each 1 to 17, a parity or a 0: True
+   with co-parity, that one parity and a 0 are in turn, and the parity inverts with each turn: True
+   with bi-parity, the two going across are not the same with each 1 to 17, one + and one -, and no 0: True
+   with bi-parity, each going across inverts with each 1 to 17: True
+2  bi co bi about the centre of a five, each name with its first prefix
+   1 to 5, its centre 3: co bi co bi co ; about its centre: bi co bi
+   3 to 7, its centre 5: co bi co bi tri ; about its centre: bi co bi
+   each odd name of 3 to 15 has bi with the name before it and with the name after it: True
+   the diamond, across: 3-5-7: co co tri ; along: 1-5-9: co co co
+3  bi-parity as an opening, a 0 between
+   a 0 with 14-next-possibling with one case only, two parities arriving not the same: True
+   the names of 1-now-existing's lines, in the code's order: 14-next-possibling, 15-next-observing, 12-next-co-same-existing, 10-next-co-possibling, 11-next-co-observing
+   after 14-next-possibling its next is 15-next-observing, of one: True ; and each name after the two is a co name: True
+   each name with bi first, its next name: 2:co 4:co 6:tri 8:co 10:co 12:co 14:tri 16:co ; co or tri with each: True
+   a self and an other with bi-parity, bi-coupling both ways: bi-parity again with each 1 to 17, and co-parity with none: True
+4  what goes out of a self, and each name's three
+   with a self's prior going on, each arriving parity same-as it, a 0 goes out; with each other case a parity goes out: True
+   a 0 arriving is the same as nothing arriving, with each case, a self with a prior and the code's state: True
+   each name with co its now has bi its next and bi its prior: True [2, 4, 6, 10, 12, 14]
+   each name with bi its now has co or tri its next and its prior: True [1, 3, 5, 7, 9, 11, 13, 15, 17]
+   each name of the seventeen is one of the two, or has tri its now: [8, 16] ['bi-tri-bi', 'bi-tri-bi']

@@ -1,0 +1,69 @@
+names read from the table: 17 ; each with a three: True
+the order of a three, as Exhibit ONE has it: next, now, prior: True
+each slot's parity, as Exhibit ONE has it: co me-parity, bi other-parity, tri all-parity: True
+   1  odd   next co   now bi   prior tri
+   2  even  next bi   now co   prior bi 
+   3  odd   next co   now bi   prior co 
+   4  even  next bi   now co   prior bi 
+   5  odd   next co   now bi   prior co 
+   6  even  next bi   now co   prior bi 
+   7  odd   next tri  now bi   prior co 
+   8  even  next bi   now tri  prior bi 
+   9  odd   next co   now bi   prior tri
+  10  even  next bi   now co   prior bi 
+  11  odd   next co   now bi   prior co 
+  12  even  next bi   now co   prior bi 
+  13  odd   next co   now bi   prior co 
+  14  even  next bi   now co   prior bi 
+  15  odd   next tri  now bi   prior co 
+  16  even  next bi   now tri  prior bi 
+  17  odd   next co   now bi   prior tri
+1  a bi with each name, 1 to 17: True
+2  with each odd name, bi is its now, and neither its next nor its prior: True
+3  with each even name, bi is its next and its prior, and not its now: True
+   the now of each even name: 2:co 4:co 6:co 8:tri 10:co 12:co 14:co 16:tri
+4  each name's now and prior are the name before's next and now, 2 to 17: True ; and 1's are 16's: True
+5  each bi is next with an even name, now with the odd name after it, and prior with the even name after that: True
+   bis entering within 1 to 16: 8 ; each even name with two, one entering and one leaving: True
+6  each co or tri is next with an odd name, now with the even name after it, and prior with the odd name after that: True
+7  the first prefixes, 1 to 8: co bi co bi co bi tri bi ; 9 to 16: co bi co bi co bi tri bi ; the same eight: True
+8  each three the same read from its prior to its next: of the even names 8 of 8 ; of the odd names 4 of 9 ; the others: 1:co-bi-tri 7:tri-bi-co 9:co-bi-tri 15:tri-bi-co 17:co-bi-tri
+11 four moments, each an odd name then its even name, with 1 to 8 and with 9 to 16, 8 up
+    moment 1: 1-2  co-bi-tri then bi-co-bi  existing, possibling   |   9-10  co-bi-tri then bi-co-bi  discovering, possibling
+    moment 2: 3-4  co-bi-co then bi-co-bi  observing, same-existing   |   11-12  co-bi-co then bi-co-bi  observing, same-existing
+    moment 3: 5-6  co-bi-co then bi-co-bi  existing, possibling   |   13-14  co-bi-co then bi-co-bi  discovering, possibling
+    moment 4: 7-8  tri-bi-co then bi-tri-bi  observing, same-existing   |   15-16  tri-bi-co then bi-tri-bi  observing, same-existing
+   each moment's two threes, the same with 1 to 8 and with 9 to 16: True
+   each moment's two roots, the same with 1 to 8 and with 9 to 16: [2, 4] of moments 1 to 4
+12 within each moment, its odd name's next is its even name's now, a co or a tri: True
+13 each bi is next with a moment's even name, and now and prior with the odd name and the even name of the moment after it: True
+14 Exhibit ONE's table of a self's four of exchanging, its self and its other: self 1–2 other 2–3 ; self 3–4 other 4–5 ; self 5–6 other 6–7 ; self 7–8 other 8–9
+15 the rule gives the table's seventeen threes again: True
+   17 to 24, its four moments' threes the same as 1 to 8 and as 9 to 16: True
+   25, a next 1 by its three, as 9 and 17: co-bi-tri True
+   each eight on to 64 the same threes as 1 to 8: True ; 64: bi-tri-bi
+16 the code's functions: [1, 9, 17] ; each the first name of an eight, 1 of 1 to 8, 9 of 9 to 16 and 17 of 17 to 24: True
+17 four moments, three sides with each, an odd name then its even name with each side: 24 names, 1 to 24; with each moment 6
+   24 to 60: 36 ; six sixes: 36 ; three of two sixes: 36 ; 60 to 64: 4 ; 25 to 64, names: 40 , five eights: 40
+18 forms read: 12 ; around each, its odd names one run and its even names one run: True
+   six-cycle 1-9-5-12-8-16 : odd then even [1, 9, 5] [12, 8, 16] ; with 1 to 8 [1, 5, 8] ; with 9 to 16 [9, 12, 16]
+   six-cycle 2-15-7-11-6-10 : odd then even [15, 7, 11] [6, 10, 2] ; with 1 to 8 [2, 6, 7] ; with 9 to 16 [10, 11, 15]
+   six-cycle 3-11-7-10-6-14 : odd then even [3, 11, 7] [10, 6, 14] ; with 1 to 8 [3, 6, 7] ; with 9 to 16 [10, 11, 14]
+   six-cycle 4-13-5-9-8-12 : odd then even [13, 5, 9] [8, 12, 4] ; with 1 to 8 [4, 5, 8] ; with 9 to 16 [9, 12, 13]
+   each six-cycle three odd names then three even names: True ; each with three names of 1 to 8 and three of 9 to 16: True
+   the moves of the first: 8 up, 4 down, 17 less, 4 down, 8 up, 17 less
+   six-cycles with the same moves as the first: 2 ; with those moves backward: 2
+   each a path with a path backward having four of its names: [('1-9-5-12-8-16', '4-13-5-9-8-12', [5, 8, 9, 12]), ('2-15-7-11-6-10', '3-11-7-10-6-14', [6, 7, 10, 11])]
+   steps of the four: 24 ; of six cycles of six: 36 ; of three, each a path with its path backward: 36
+9  co-parity, a self + and its other +
+    a self's priors : -++--++--++--++-
+    its other's     : -++--++--++--++-
+    along, a self's prior with its next, inverting bi and going on co: bi co bi co bi co bi co bi co bi co bi co bi
+    across, a self's prior with its other's, not same-as bi and same-as co: co co co co co co co co co co co co co co co co
+    1 to 17s with a bi along or across: 8 of 15
+10 bi-parity, a self + and its other -
+    a self's priors : +-+-+-+-+-+-+-+-
+    its other's     : -+-+-+-+-+-+-+-+
+    along, a self's prior with its next, inverting bi and going on co: bi bi bi bi bi bi bi bi bi bi bi bi bi bi bi
+    across, a self's prior with its other's, not same-as bi and same-as co: bi bi bi bi bi bi bi bi bi bi bi bi bi bi bi bi
+    1 to 17s with a bi along or across: 15 of 15

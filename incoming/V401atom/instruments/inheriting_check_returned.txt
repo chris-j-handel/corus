@@ -1,0 +1,16 @@
+two the same, + and +
+  self : its prior +--++--++--++--+   its going out -0+0-0+0-0+0-0+0
+  other: its prior +--++--++--++--+   its going out -0+0-0+0-0+0-0+0
+  new  : its prior ..-++--++--++--+   its going out .-+0-0+0-0+0-0+0
+  arriving with new: . -- 00 ++ 00 -- 00 ++ 00 -- 00 ++ 00 -- 00 ++
+two not the same, + and -
+  self : its prior +-+-+-+-+-+-+-+-   its going out -+-+-+-+-+-+-+-+
+  other: its prior -+-+-+-+-+-+-+-+   its going out +-+-+-+-+-+-+-+-
+  new  : its prior ................   its going out .000000000000000
+  arriving with new: . -+ +- -+ +- -+ +- -+ +- -+ +- -+ +- -+ +- -+
+a prior with one only, +
+  self : its prior +-+-+-+-+-+-+-+-   its going out -+-+-+-+-+-+-+-+
+  other: its prior ..-+-+-+-+-+-+-+   its going out .-+-+-+-+-+-+-+-
+  new  : its prior ..-+-+-+-+-+-+-+   its going out .-+-+-+-+-+-+-+-
+  arriving with new: . - +- -+ +- -+ +- -+ +- -+ +- -+ +- -+ +- -+
+what one call returns has an entry with each self and none with a coupling: ['other', 'self']

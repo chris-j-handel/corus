@@ -1,0 +1,19 @@
+1  the code's three functions, each with its given names:
+     1-now-existing: 3-now-co-observing, 2-now-possibling
+     9-next-co-discovering: 10-next-co-possibling, 5-now-co-existing
+     17-next-existing: 16-next-same-existing, 5-now-co-existing
+   5-now-co-existing is given, and no line assigns it: True
+   1-now-existing is given a self's priors and what arrives with it, two names and no other: True
+   no line of 1-now-existing has 5-now-co-existing, 13-next-discovering or 16-next-same-existing: True
+2  what 17-next-existing gives again: an entry with each self, its next priors and what arrives with it, and no entry with a bi-coupling: True
+3  two sharings with one self: each resolves the same as alone, with each case: True
+4  one sharing going by 6, by 10 or by 9: with its receiving self the same, each case: True
+   one self with three routes, by 6, by 10 and by 9: one same list with each of three receiving: True
+5  a route, with 5-now-co-existing
+   no line of a self's resolving, 1-now-existing, has it: True
+   9-next-co-discovering's lines have no number but a name's, and no + or -: True
+   what arrives with a third has no name of the self it is from: a self's and its other's parities exchanged, the same with a third, each case: True
+   what arrives resolves the same with each order of arriving, each case: True
+   what arrives by a route: a sharing and its parity, and no name of a self or of a route: True [('s', -1)]
+   a self with no route to it: nothing arrives, and its prior inverts with each 1 to 17: True
+   each way of a bi-coupling both ways is one route, with the same lines: True
