@@ -36,3 +36,12 @@ for pri in itertools.product((1, -1), repeat=5):
 print("5  a self with three others, by 6, 10 and 9, each of thirty-two cases of the priors: its co-possibling is arriving with each of the three, as it is:", ok5)
 print("6  a fourth other, given with an other name of the seventeen: nothing of the self is arriving with it, with each case:", ok6)
 print("7  4, 16 and 64 steps, with 1 to 5, 1 to 17 and 1 to 65: each is four of the one before it:", (17 - 1) == 4 * (5 - 1) and (65 - 1) == 4 * (17 - 1))
+
+# 8 to 10: 1 to 5 with the code's lines: each name given, and each name a line is making
+made = sorted({int(n) for n in re.findall(r"^\s*_(\d+)_\w+?(?:\[[^\]]*\])? = ", code, re.M)} | {int(n) for n in re.findall(r"^\s*_\d+_\w+, _(\d+)_\w+\[", code, re.M)})
+print("8  each name a line of the code is making, with its own =:", made, "; each is 6 or after it, and none is of 1 to 5:", min(made) >= 6)
+p1 = [int(n) for n in re.findall(r"_(\d+)_", re.search(r"def _1_now_existing\(([^)]*)\)", code).group(1))]
+p17 = [int(n) for n in re.findall(r"_(\d+)_", re.search(r"def _17_next_existing\(([^)]*)\)", code).group(1))]
+print("9  of 1 to 5: 1 is a function; 2 and 3 are given with it,", sorted(p1), "; 5 is given with 17,", 5 in p17, "; 4 is the thing of each given pair:",
+      sorted(p1) == [2, 3] and 5 in p17 and "for _4_now_co_same_existing, _7_now_observing in _2_now_possibling" in code)
+print("10 the names from a self to an other,", slots, ": the first of them by its number is 6, an even name, with the odd name 5 before it:", min(slots) == 6)

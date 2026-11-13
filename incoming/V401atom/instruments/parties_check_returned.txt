@@ -7,3 +7,6 @@
 5  a self with three others, by 6, 10 and 9, each of thirty-two cases of the priors: its co-possibling is arriving with each of the three, as it is: True
 6  a fourth other, given with an other name of the seventeen: nothing of the self is arriving with it, with each case: True
 7  4, 16 and 64 steps, with 1 to 5, 1 to 17 and 1 to 65: each is four of the one before it: True
+8  each name a line of the code is making, with its own =: [6, 8, 10, 11, 12, 14, 15] ; each is 6 or after it, and none is of 1 to 5: True
+9  of 1 to 5: 1 is a function; 2 and 3 are given with it, [2, 3] ; 5 is given with 17, True ; 4 is the thing of each given pair: True
+10 the names from a self to an other, [6, 10, 9] : the first of them by its number is 6, an even name, with the odd name 5 before it: True

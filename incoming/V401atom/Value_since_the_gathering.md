@@ -488,7 +488,18 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *No line of the code is with 1 to 65.* The code's names are 1 to 17.
 - **Read with the set**: Exhibit TWENTY Natural Naming, two and three make five, as a prior two together make a next. Two, three and five are the suggesting's three. Natural Chemistry's gathering-value, three projections and three mating recesses with one atom carbon.
 - **A parting, for watching over.** *Two sides*: with the suggesting, 1 to 5 is a self and all, two. With the table, the names of 1 to 5 are with co and bi first, me-parity and other-parity; tri is first with 7, and within 1 to 5 it is with 1-now-existing's three only, its last. *Harm of one alone*: with the table alone, 1 to 5 is a self and an other with no all, a bi-coupling with no universe around it. With the suggesting alone, 2-now-possibling and 4-now-co-same-existing, each with bi first, are with no other. *Its resolving*: the asking below.
-- **Asked, and not yet answered**: with 1 to 5, a self's other is all-parity.
+- **Asked**: with 1 to 5, a self's other is all-parity. **Answered is.**
+
+**Going on: 1 to 5, two moments and an odd name, before resolving with an other.**
+
+- **The suggestings, re-said**: 1 to 5 is two moments and an odd name more, and before a self is resolving with an other. *2.5* is re-said with natural numbers: a moment is an odd name and then an even name, 1 and 2, 3 and 4, and 5 is an odd name with its even name after it.
+- **Read with Exhibit ONE's code, each name and each line, all or none** (`instruments/parties_check.py`, its lines 8 to 10):
+  - *Each name a line of the code is making is 6, 8, 10, 11, 12, 14 or 15.* Each is 6 or after it, and none is of 1 to 5.
+  - *Of 1 to 5, each name is given*: 1 is a function; 2-now-possibling and 3-now-co-observing are given with it, what is arriving and a self's prior; 4-now-co-same-existing is the thing of each given pair; 5-now-co-existing is given with 17, the betweens.
+  - *The names from a self to an other are 6, 10 and 9, and the first of them is 6-now-co-possibling*, an even name, with the odd name 5 before it: a third moment's even name.
+- **Whole with the suggestings**: with the code nothing is made with 1 to 5, each name given, and the first name with an other is 6, the even name 1 to 5 is before.
+- **A moment's sayings, watched before, with it**: with this saying a moment is two names, an odd and an even; 1 to 8 is four moments with a self, and 9 to 16 the same four with its other, by the person's saying before. The saying of 1 to 5 as one moment of four is its fractal saying.
+- **Asked, and not yet answered**: resolving with an other is first with 6-now-co-possibling, a third moment's even name.
 
 ---
 
