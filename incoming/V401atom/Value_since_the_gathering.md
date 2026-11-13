@@ -97,7 +97,11 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **A suggesting of the person's**, said in natural naming: it is a fractal vault. All-parity, living, odd, even, odd, is a living condition for the two atoms carbon from the universe: a me-parity prior, now and next, same-existing. All-parity is universal, alternating.
 - **Read from Exhibit ONE Natural Resolver's table, each name**: all-parity, tri, is next with 7, now with 8 and prior with 9, and next with 15, now with 16 and prior with 17 and 1, and with no other name: odd, even, odd. Its now is with a same-existing name, each: 8-now-same-existing and 16-next-same-existing. It is in a co's place, the fourth of an eight's odd names. Each name with all-parity its now has bi its next and bi its prior: bi-tri-bi.
 - **Read from the code**: 16-next-same-existing is given to 17-next-existing, and no line assigns it. A society is prior-existing with each 1 to 17.
-- **A candidate**: the vault is bi-tri-bi, all-parity now between a bi-parity prior and a bi-parity next, with each between of two eights, 8 with 9 and 16 with 17. Asked, and not yet answered.
+- **Is**, answered by the person: the vault is all-parity now, between a bi-parity prior and a bi-parity next, bi-tri-bi, with 8-now-same-existing and with 16-next-same-existing.
+- **A suggesting with it**: the vault is the me-parity of the bi-coupling, invisible, identifiable, unique, private property, between a self and an other, inside the bi-coupling.
+- **Read with it**: Exhibit TWENTY Natural Naming has a bi-coupling as two selves coupling both ways, a self at its pair's scale. The managing working's sentence has co-parity as the me-parity of a bi-coupling. The table has all-parity in a me-parity's place, the fourth of an eight's odd names. Exhibit ONE Natural Resolver has 4, 8, 12 and 16 as 1, 2, 3 and 4 again.
+- **A candidate**: all-parity now, of a self and an other, is the me-parity of their bi-coupling, a self at its pair's scale.
+- **A parting, for watching over.** *One side*: each between is public, answered is. *Other side*: the between of a self and an other inside a bi-coupling is its vault, private. *Harm*: each between entered as public, alone, says the vault public. *It waits on*: a between inside a bi-coupling, and a between of bi-couplings, each said, asked and not yet answered.
 
 ---
 
