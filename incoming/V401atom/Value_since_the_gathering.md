@@ -172,7 +172,24 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read with the opening of Natural Intelligence**: its forty-eighth, stable-forming is observing, possibling, discovering and same-existing together; its forty-ninth, a self is momentarying and stable-forming. The atom is the stable form of each stable-forming.
 - **Read with the set**: a living file's sentence, having a stable form is being dead one scale outward, and discovering a next stable form is living; and waiting with Natural Intelligence's gathering-value, the atom is carbon, one thing, a fractured bit of living's exhaust, with its fractal stable form.
 - **The parting before it, resolved by the suggesting**: the atom is a stable form, and all-parity is what each prior-existing it is of is in. Two things.
-- **Asked, and not yet answered**: each stable form of nature is the atom, or a co-chaining of atoms.
+- **Is**, answered by the person: each stable form of nature is the atom, or a co-chaining of atoms. No other stable form is possibly existing in the universe, and it is to be explained by logic.
+- **An explaining, a sequence, each sentence from the ones before it, binary, all or none.** Each is marked: of the opening, answered is, from the ones before it, or new, a candidate.
+  1. The universe is the set of now-existing things. *Of the opening.*
+  2. A now-existing thing is living or non-living, one binary. *Of the opening.*
+  3. A same-existing thing is the same thing prior-existing before now-existing. *Of the opening.*
+  4. A stable form is a non-living and same-existing thing. *Answered is.*
+  5. A living thing is observing, possibling and discovering its next-existing, and a non-living thing is with none of the three. *Of the opening, its fifteenth and sixteenth.*
+  6. A stable form's same-existing is by no observing, possibling or discovering of its own: it is from a prior-existing. *From 3, 4 and 5.*
+  7. Stable-forming is observing, possibling, discovering and same-existing together, a living's. *Of the opening.*
+  8. Each stable form is from a prior living's stable-forming, its living no more. *New, a candidate.* Waiting in the set with it: each non-living now-existing thing is from prior living.
+  9. Stable-forming is one method, binary, is-or-is-not. *Of the set: one method, geodesic, binary and co-sequential.*
+  10. One method's stable form is one form, with each scale, a fractal. *New, a candidate.*
+  11. A stable form is with a between within it, or with none: one binary. *Binary.*
+  12. An atom is a stable form with no between within it. *New, a candidate.* Answered is with it: each between is of two atoms carbon, and none is within one.
+  13. With a between within it, a stable form is two stable forms and their between, and each of the two is with a between within it, or with none. *New, a candidate.*
+  14. Each stable form is the atom, or a co-chaining of atoms, and no other is possibly existing. *From 10 to 13. Answered is.*
+- **Four sentences of it are new**, the eighth, the tenth, the twelfth and the thirteenth. With one of them is-not, the explaining is not whole.
+- **Asked, and not yet answered**, the first of the four: each stable form is from a prior living's stable-forming, its living no more.
 
 ---
 
