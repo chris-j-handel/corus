@@ -103,6 +103,15 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **A candidate**: all-parity now, of a self and an other, is the me-parity of their bi-coupling, a self at its pair's scale.
 - **A parting, for watching over.** *One side*: each between is public, answered is. *Other side*: the between of a self and an other inside a bi-coupling is its vault, private. *Harm*: each between entered as public, alone, says the vault public. *It waits on*: a between inside a bi-coupling, and a between of bi-couplings, each said, asked and not yet answered.
 
+**Going on: four sentences of the person's, each a now-existing thing in the universe.**
+
+- **Suggestings, in natural naming**: an all-parity is a non-living and non-same-existing thing. A me-parity is a living and non-same-existing thing. A self is a living and same-existing thing. Living is resolving each of four: prior, now, next and same-existing.
+- **Read with the opening of Natural Intelligence**: its third, a same-existing thing is the same thing prior-existing before now-existing; its sixteenth, living and non-living are one binary of a now-existing thing; its seventeenth, a living same-existing set is a self; its twenty-third, a me-parity is a me's living parity. Whole with the third suggesting, and with a me-parity as living. And Exhibit ONE Natural Resolver: four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing.
+- **Read from the code, each line**: each self of a society given is with what 17-next-existing gives again, and no line removes a self. A self's prior is same-existing with one case only, and inverting with each other. 14-next-possibling is made empty with the first line of 1-now-existing, and nothing of it is with a next 1 to 17.
+- **Two binaries, four places**: living and same-existing, a self; living and not same-existing, a me-parity; non-living and not same-existing, an all-parity. The fourth, non-living and same-existing, has no sentence of these four. Waiting in the set with it: the universe as a non-living same-existing set, and a name as a same-existing non-living thing.
+- **A parting, for watching over.** *One side*: the vault is all-parity now, answered is, and an all-parity is non-living. *Other side*: the vault is the me-parity of the bi-coupling, and a me-parity is living. *Harm*: the vault entered with one side alone is said living only, or non-living only. The candidate before it here, all-parity now as the me-parity of a bi-coupling, is with this parting.
+- **Asked, and not yet answered**: atom carbon is a non-living and same-existing thing.
+
 ---
 
 ## 6 Executed, each case, all or none
