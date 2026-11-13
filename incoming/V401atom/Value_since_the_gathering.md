@@ -91,6 +91,14 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **A field's observings, each at its page's excerpt only**: a fish's scale grows one way from a first centre; scales are in two lines, then four, then six; a leaf's pore is with a cell between it and each other; a small cell divides one to three times in an inward spiral. Each a pattern only. The scale's one way parts from a facing, an opportunity for a breaking.
 - **The managing working's places for the origin** are read, and not yet opened: Exhibit FOUR Natural Mathematics 3.4, 3.5 and 7.4, and its sentence of a shear; Exhibit THREE Natural Numbers 6.3 and 7.4; Exhibit EIGHTEEN Natural Physics' diamond-form; and Natural Chemistry's gathering-value. v401atom's first is-or-is-not is still with no answer: the fractal pattern vault is the between two atoms carbon are creating, each atom a solid without an inside.
 
+**Going on, at the origin: the vault of two atoms carbon.**
+
+- **Asked**: the vault is the between of two atoms carbon, an opening, a 0. Its answer is a suggesting.
+- **A suggesting of the person's**, said in natural naming: it is a fractal vault. All-parity, living, odd, even, odd, is a living condition for the two atoms carbon from the universe: a me-parity prior, now and next, same-existing. All-parity is universal, alternating.
+- **Read from Exhibit ONE Natural Resolver's table, each name**: all-parity, tri, is next with 7, now with 8 and prior with 9, and next with 15, now with 16 and prior with 17 and 1, and with no other name: odd, even, odd. Its now is with a same-existing name, each: 8-now-same-existing and 16-next-same-existing. It is in a co's place, the fourth of an eight's odd names. Each name with all-parity its now has bi its next and bi its prior: bi-tri-bi.
+- **Read from the code**: 16-next-same-existing is given to 17-next-existing, and no line assigns it. A society is prior-existing with each 1 to 17.
+- **A candidate**: the vault is bi-tri-bi, all-parity now between a bi-parity prior and a bi-parity next, with each between of two eights, 8 with 9 and 16 with 17. Asked, and not yet answered.
+
 ---
 
 ## 6 Executed, each case, all or none
