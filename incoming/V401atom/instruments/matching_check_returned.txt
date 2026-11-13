@@ -1,0 +1,14 @@
+1  each line comparing two parities: [('_15_next_observing', '!=', '_7_now_observing'), ('_15_next_observing', '==', '_7_now_observing')]
+   each is 15-next-observing with 7-now-observing, the two names with tri-bi-co, and each is in 1-now-existing: True
+2  the first is with each parity arriving with 2, before a self's prior is read; the second is with a self's prior with 3: True
+3  14-next-possibling, each case of none to three arriving, 40 cases, with no prior read: nothing with none arriving or each a 0;
+   the parity with each arriving the same; a 0 with two not the same: True
+4  12-next-co-same-existing, each case with a prior + or -: a 0 with 14 the same as a self's prior, and its prior inverted with each other case: True
+5  the four bi-foldings, from Exhibit ONE's lines, each name with its root:
+     1-9-8-16 ['existing', 'discovering', 'same-existing', 'same-existing']
+     2-15-7-10 ['possibling', 'observing', 'observing', 'possibling']
+     3-11-6-14 ['observing', 'observing', 'possibling', 'possibling']
+     4-13-5-12 ['same-existing', 'discovering', 'existing', 'same-existing']
+   two of four are with possibling names, each with two possibling and two observing; the other two with none of either: True
+6  possibling names [2, 6, 10, 14] and observing names [3, 7, 11, 15] : each observing name is a possibling name and one: True
+7  the names with 1-now-existing's lines: [1, 2, 3, 4, 7, 10, 11, 12, 14, 15] ; each name of the two bi-foldings but 6, and 1, 4 and 12: True
