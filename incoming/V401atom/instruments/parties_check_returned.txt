@@ -1,0 +1,9 @@
+1  1 to 17, each name's first prefix: co bi co bi co bi tri bi co bi co bi co bi tri bi co
+   co, bi and tri, me-parity, other-parity and all-parity, are each with 1 to 17: True
+2  1 to 5, each name's first prefix: co bi co bi co ; tri is first with 7
+   within 1 to 5, tri is with one name's three, 1-now-existing's, its last: True
+3  the names 17-next-existing's lines have from a self to an other: [6, 10, 9] ; three, and no fourth: True
+4  a self alone, each of two cases: its prior is inverting with each 1 to 17, alternating: True
+5  a self with three others, by 6, 10 and 9, each of thirty-two cases of the priors: its co-possibling is arriving with each of the three, as it is: True
+6  a fourth other, given with an other name of the seventeen: nothing of the self is arriving with it, with each case: True
+7  4, 16 and 64 steps, with 1 to 5, 1 to 17 and 1 to 65: each is four of the one before it: True

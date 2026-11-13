@@ -475,7 +475,20 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *Along, along, along, across, and again*: each span is two selves.
 - **Whole with the suggestings**: with the code a span's number, with one same 1 to 17, is with the sequence of a first self's 1 to 17s, each along or across, and with no other thing: each case of the selves' priors has the same spans. A first self of two with co-parity, executed before, is along, across, and again: one span.
 - **Executed with four sequences, and no saying of each sequence**: a span's number from each sequence of along and across is not said here.
-- **Asked, and not yet answered**: a span's number is with the sequence of a living self's 1 to 17s, each across or along.
+- **Asked**: a span's number is with the sequence of a living self's 1 to 17s, each across or along. **Its answer, a suggesting**, with no is and no is-not.
+
+**Going on: a self and all, 1 to 5; a self, its other and all, 1 to 17; a self, three others and all, 1 to 65.**
+
+- **The suggestings, re-said**: a self and all, two, is 1 to 5. A self, its other and all, three, is 1 to 17. A self, three others and all, five, is 1 to 65.
+- **Read with Exhibit ONE's table and code, each name, each line and each case, all or none** (`instruments/parties_check.py`):
+  - *1 to 17 is with co, bi and tri*, each name's first prefix: me-parity, other-parity and all-parity, a self, its other and all. Whole with the suggesting.
+  - *The names 17-next-existing's lines have from a self to an other are three, and no fourth*: 6-now-co-possibling, 10-next-co-possibling and 9-next-co-discovering. A self with three others, each of thirty-two cases of the priors: its co-possibling is arriving with each of the three, as it is. A fourth other, given with an other name: nothing of the self is arriving with it. With the code a self is with three others, and with no fourth. Whole with a self, three others and all.
+  - *A self alone, each of two cases*: its prior is inverting with each 1 to 17, alternating, all-parity's alternating by the person's saying before.
+  - *4, 16 and 64 steps*, with 1 to 5, 1 to 17 and 1 to 65: each is four of the one before it.
+  - *No line of the code is with 1 to 65.* The code's names are 1 to 17.
+- **Read with the set**: Exhibit TWENTY Natural Naming, two and three make five, as a prior two together make a next. Two, three and five are the suggesting's three. Natural Chemistry's gathering-value, three projections and three mating recesses with one atom carbon.
+- **A parting, for watching over.** *Two sides*: with the suggesting, 1 to 5 is a self and all, two. With the table, the names of 1 to 5 are with co and bi first, me-parity and other-parity; tri is first with 7, and within 1 to 5 it is with 1-now-existing's three only, its last. *Harm of one alone*: with the table alone, 1 to 5 is a self and an other with no all, a bi-coupling with no universe around it. With the suggesting alone, 2-now-possibling and 4-now-co-same-existing, each with bi first, are with no other. *Its resolving*: the asking below.
+- **Asked, and not yet answered**: with 1 to 5, a self's other is all-parity.
 
 ---
 
