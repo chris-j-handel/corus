@@ -45,3 +45,16 @@ for pa, pb in itertools.product((1, -1), repeat=2):
         ok5 = ok5 and [v for _k, v in soc["b"][1]] == ten["a"] and [v for _k, v in soc["a"][1]] == ten["b"]
 print("5  two selves with one between, each of four cases of their priors: with each 1 to 17 a self's co-possibling with 10")
 print("   is its other's possibling with 2, as it is, each of the two with its other:", ok5)
+
+# 6: other-parity and all-parity. A self with all-parity alone is a self with nothing arriving. Each of the 80 cases with it.
+ok6 = True; n_is = 0
+rule = lambda p, c: any(v != 0 for v in c) and all(v == p for v in c if v != 0)
+for p in (1, -1):
+    alone = one([(S, p)], [])
+    for c in cases:
+        same_as_alone = one([(S, p)], [(S, v) for v in c]) == alone
+        ok6 = ok6 and (same_as_alone == (not rule(p, c)))
+        n_is += not same_as_alone
+print("6  a self with what is arriving, each case, and that self with nothing arriving, all-parity alone:")
+print("   its 10 and its 11 are not the same as with all-parity alone with one case only, a parity or more arriving and each the same as its prior, co-parity;")
+print("   with each other case, a parity the other one, two the one and the other, or each a 0, they are the same as with all-parity alone:", ok6, "; cases with co-parity:", n_is)

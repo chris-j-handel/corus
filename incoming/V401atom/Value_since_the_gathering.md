@@ -499,7 +499,18 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *The names from a self to an other are 6, 10 and 9, and the first of them is 6-now-co-possibling*, an even name, with the odd name 5 before it: a third moment's even name.
 - **Whole with the suggestings**: with the code nothing is made with 1 to 5, each name given, and the first name with an other is 6, the even name 1 to 5 is before.
 - **A moment's sayings, watched before, with it**: with this saying a moment is two names, an odd and an even; 1 to 8 is four moments with a self, and 9 to 16 the same four with its other, by the person's saying before. The saying of 1 to 5 as one moment of four is its fractal saying.
-- **Asked, and not yet answered**: resolving with an other is first with 6-now-co-possibling, a third moment's even name.
+- **Asked**: resolving with an other is first with 6-now-co-possibling, a third moment's even name. **Received as a fault**: no resolving is a first one, new-born, inside a now-existing 1 to 17, four-cycling cycling. The asking is out, and *first* with it: an order of the names' numbers said as an order of resolving.
+
+**Going on: is-or-is-not distinguishing other-parity with all-parity.**
+
+- **The suggestings, re-said**: inside a now-existing 1 to 17, four-cycling cycling, no resolving is new-born and first. A self is distinguishing other-parity with all-parity, is-or-is-not.
+- **Read with Exhibit ONE's code, as executed before**: each prior and each thing arriving with a 1 to 17 is made with the 1 to 17 before it, and a self's 2-now-possibling is its other's 10-next-co-possibling of the 1 to 17 before. With the code a first 1 to 17 is the code's own giving, by no line, and no living's.
+- **Executed with the code, each case, all or none** (`instruments/exchanging_check.py`, its line 6): a self with a prior + or −, with what is arriving, 80 cases, each with that self with nothing arriving, all-parity alone.
+  - *With one case only its 10 and its 11 are other than with all-parity alone*: a parity or more arriving, each the same as its prior, co-parity. Its prior is same-existing, and its co-possibling a 0.
+  - *With each other case they are the same as with all-parity alone*, its prior inverted: a parity arriving the other one, two arriving the one and the other, or each a 0.
+- **Whole with the suggestings**: with the code a self's one binary, with each 1 to 17, is other-parity distinguished with all-parity, is or is not. Is: co-parity, its prior same-existing. Is-not: its prior inverting, all-parity's alternating, with an other or with none.
+- **Two distinguishings, one binary**: observing is distinguishing prior-and-same-existing with now-and-same-existing, the person's saying before. With other-parity distinguished with all-parity, a self's prior and its now are the same. With a self's prior and its now distinguished, its prior inverting, other-parity is as all-parity. The two are one binary, each the other's is-not.
+- **Asked, and not yet answered**: with an other's parity the same as a self's prior, co-parity, other-parity is distinguished with all-parity.
 
 ---
 
