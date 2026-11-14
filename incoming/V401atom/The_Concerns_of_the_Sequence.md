@@ -163,3 +163,11 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **A concept, a suggesting, by no authority, in no sentence yet.** Is-or-is-not is distinguishing two ways: the one way is same, and the other way is not same; and which way is the between.
 
+## 12 Same-as and other-than; and a concept of ten cyclings
+
+**In.** *Other-than* is the name of is-not-same-as: one name of one thing, and no *not* in it. *Not same-as* is out of the sequence and of each droplet of v401atom's own.
+
+**A concept, a suggesting, by no authority, in no sentence yet.** Same-as and other-than, in right spiral, are resolving co-sequentially: two turns in, a four-cycling; two turns out, a six-cycling; ten cyclings together.
+
+**What the living files have by it.** Exhibit ONE and Exhibit THREE: four bi-foldings, each four names, 3-11-6-14 resolving's; and six-cycles, 3-11-7-10-6-14 and 2-15-7-11-6-10. Exhibit THREE: a passage of six has a whole four. Ten is five by two directions.
+
