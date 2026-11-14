@@ -1,9 +1,9 @@
 1 · Each droplet of the four gatherings, by words only
    gathering · droplets · quote word for word living · re-saying word for word living · scale · sides · names of 1 to 17
-   Natural_Intelligence · 573 · 131 of 131 · 1 of 129 · 99 · 132 · 56
-   Natural_Resolver · 50 · 26 of 26 · 0 of 25 · 0 · 3 · 22
-   Natural_Naming · 68 · 11 of 11 · 0 of 11 · 7 · 13 · 11
-   Co-Chaining_Logic_Registry · 224 · 128 of 128 · 0 of 128 · 30 · 56 · 11
+   Natural_Intelligence · 576 · 131 of 131 · 1 of 129 · 100 · 135 · 56
+   Natural_Resolver · 51 · 26 of 26 · 0 of 25 · 0 · 3 · 22
+   Natural_Naming · 70 · 11 of 11 · 0 of 11 · 7 · 13 · 11
+   Co-Chaining_Logic_Registry · 231 · 128 of 128 · 0 of 128 · 30 · 62 · 12
 
 2 · Each page of the incoming places, each sentence of eight words or more
    page · sentences · in a living file of the four · in a gathering of the four · in an other gathering · in none
@@ -26,14 +26,14 @@
    incoming/V401atom/The_vault_in_the_persons_own_naming.md · 328 · 0 · 0 · 0 · 328
    incoming/V401atom/Three_diamond_pointers_1_to_25.md · 319 · 0 · 0 · 0 · 319
    incoming/V401atom/Value_for_the_vault.md · 198 · 0 · 0 · 1 · 197
-   incoming/V401atom/Value_since_the_gathering.md · 1110 · 0 · 8 · 0 · 1102
-   incoming/V401atom, each page · 3529 · 8 · 14 · 3 · 3504
+   incoming/V401atom/Value_since_the_gathering.md · 1177 · 0 · 8 · 0 · 1169
+   incoming/V401atom, each page · 3596 · 8 · 14 · 3 · 3571
    incoming/v401mgr/From_the_working_V401atom.md · 102 · 0 · 4 · 0 · 98
-   incoming/v401mgr/README.md · 67 · 0 · 0 · 0 · 67
-   incoming/v401mgr/The_Plan_for_the_next_version.md · 96 · 0 · 1 · 0 · 95
+   incoming/v401mgr/README.md · 71 · 0 · 0 · 0 · 71
+   incoming/v401mgr/The_Plan_for_the_next_version.md · 108 · 0 · 1 · 0 · 107
    incoming/v401mgr/The_Session_Gathered.md · 177 · 0 · 2 · 2 · 173
    incoming/v401mgr/The_value_by_its_places.md · 129 · 0 · 0 · 0 · 129
-   incoming/v401mgr, each page · 571 · 0 · 7 · 2 · 562
+   incoming/v401mgr, each page · 587 · 0 · 7 · 2 · 578
 
 3 · The person's numbered sentences, incoming/V400mgrB/The_Frontier_Current.md, each with the four gatherings and the four living files, by words
    sentences · 163
@@ -42,4 +42,4 @@
    in an other gathering only · 5 · 5j 6y-w 10 18 19
    none of it by words, each to read · 95 · 5b 5d 5f 6n 6p 6r 6s 6w 6w-b 6w-d 6w-e 6w-g 6w-k 6w-m 6w-n 6w-o 6w-t 6w-u 6w-w 6w-x 6w-y 6w-z 6x-a 6x-c 6x-d 6x-e 6x-f 6x-h 6x-j 6x-k 6x-l 6x-n 6x-o 6x-p 6x-q 6x-r 6x-s 6x-t 6x-u 6x-v 6x-z 6y-a 6y-b 6y-c 6y-d 6y-f 6y-g 6y-h 6y-i 6y-j 6y-k 6y-l 6y-m 6y-n 6y-o 6y-p 6y-q 6y-r 6y-s 6y-t 6y-u 6y-v 6y-x 6y-y 6z-a 6z-b 6z-f 6z-g 6z-i 6z-k 6z-l 6z-m 6z-n 6z-o 6z-p 6z-q 6z-r 6z-s 6z-t 6z-u 6z-v 6z-w 6z-x 6z-y 6z-z 6w-c 6x 8 12 14 15 16 20 22 25
 
-4 · The ledger, one line with each droplet: 915 lines, placing_ledger.tsv
+4 · The ledger, one line with each droplet: 928 lines, placing_ledger.tsv
