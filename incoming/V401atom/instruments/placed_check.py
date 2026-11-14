@@ -8,6 +8,7 @@ import re, sys, os, collections
 GV, PAGE, SEQ = sys.argv[1], sys.argv[2], sys.argv[3]
 SCALE = re.compile(r'atom carbon|\bcarbon\b|\bvault\b|non-living|bump connector|fracture|\bshear|lattice|\bshard\b', re.I)
 OWN = "the working v401atom's sequence"
+MARK = "`incoming/V401atom/The_Value_Droplets.md`"   # each droplet of v401atom's own names its page
 FULL = {"Natural_Intelligence": "Natural Intelligence", "Natural_Resolver": "Exhibit ONE Natural Resolver",
         "Natural_Naming": "Exhibit TWENTY Natural Naming", "Co-Chaining_Logic_Registry": "Exhibit THIRTY Co-Chaining Logic Registry"}
 def first(t, k=11):
@@ -27,7 +28,7 @@ for t in FULL:
         if "having a side out by " + OWN in m.group(2):
             resay[FULL[t] + " · " + section] += m.group(2)
         if SCALE.search(m.group(2)):
-            if OWN in m.group(2):
+            if MARK in m.group(2):
                 own += 1
             else:
                 want.append((FULL[t] + " · " + section, str(n), first(m.group(2))))

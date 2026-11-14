@@ -2,7 +2,7 @@ Incoming · v401atom · each droplet of the non-living scale, placed · 14 Novem
 
 # v401atom: the four gatherings' droplets of the non-living scale, each placed
 
-**What this page is.** v401mgr's ledger has v401atom as first reader of each droplet of the four gatherings having a word of the non-living scale: 137, by 100 of Natural Intelligence's, 30 of the registry's and 7 of the namings'. Each is read here whole, by the sequence of `The_Value_Droplets.md`, 110 sentences, and placed by the plan's sections 3 and 4: its home, its place, its fate. Each droplet's number is its number in its section in this branch, from `main` at `367060b`. This page changes no living file. A first reading decides no droplet's fate: v401mgr's reading is its second.
+**What this page is.** v401mgr's ledger has v401atom as first reader of each droplet of the four gatherings having a word of the non-living scale: 137, by 100 of Natural Intelligence's, 30 of the registry's and 7 of the namings'; and one more of Natural Intelligence's has such a word since, 138. Each is read here whole, by the sequence of `The_Value_Droplets.md`, 110 sentences, and placed by the plan's sections 3 and 4: its home, its place, its fate. Each droplet's number is its number in its section in this branch, from `main` at `f5a5cc8`. This page changes no living file. A first reading decides no droplet's fate: v401mgr's reading is its second.
 
 **How each is placed.**
 
@@ -12,7 +12,7 @@ Incoming · v401atom · each droplet of the non-living scale, placed · 14 Novem
 | Its place | Its own section in its home. Its step's place is the registry's group of the sequence's sentences named, each in the registry's gathering by that group. |
 | Its fate, *placing* | The sequence has its value whole, by the sentences named, each in by the sentences before it or executed. 92 droplets. |
 | Its fate, *placing, re-said* | A side of it is out by the sentences named. It is re-said by them in its own section's last droplet. 25 droplets. |
-| Its fate, *v401mgr's* | No sentence of the sequence meets it: it is of a word's sides, a method, a society's self or a wording. Its reading is v401mgr's. 20 droplets. |
+| Its fate, *v401mgr's* | No sentence of the sequence meets it: it is of a word's sides, a method, a society's self or a wording. Its reading is v401mgr's. 21 droplets. |
 
 **What parts, by its thing, each resolved by the sequence.**
 
@@ -41,6 +41,7 @@ Incoming · v401atom · each droplet of the non-living scale, placed · 14 Novem
 
 | Its number | Its kind | Its first words | Its fate | Its home | Its step, by the sequence | Read with it |
 |---|---|---|---|---|---|---|
+| 1 | An explaining | A partner's sentence, 14 Nov, said in natural naming: next-and-same-existing is … | *v401mgr's* | Natural Intelligence |  | v401mgr's own droplet of 17 and of the three: its word of the non-living scale is its naming of the sequence's sentence of a between, and it is whole with that sentence |
 | 6 | Possible incohering | A living file is a non-living same-existing set of words, selves … | *placing* | Natural Intelligence, by its step of Exhibit THIRTY | 34, 105 · group 31 | a living file is a stable form |
 | 27 | Possible incohering | The universe is a non-living same-existing set. → Two sayings part: … | *placing, re-said* | Natural Intelligence, by its step of Exhibit THIRTY | 29 · group 2 | the universe is its things, living and its involution; no third self, and no non-living set apart from them |
 | 45 | Possible incohering | Living is co-intelligencing. → A naming beside it, with its could … | *placing* | Natural Intelligence, by its step of Exhibit THIRTY | 25, 43 · group 2, 31 | what parts living from a non-living form: a next prior made from a prior, a living self's only |

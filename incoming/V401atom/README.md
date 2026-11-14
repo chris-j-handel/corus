@@ -76,7 +76,7 @@ No sentence of the person's is laid whole in these. Each earlier page of this fo
 
 ## v401atom: each droplet of the non-living scale, placed
 
-`The_Gatherings_Droplets_each_placed.md`, 14 November, by v401mgr's asking, its section 3.2: v401mgr's ledger has v401atom as first reader of each droplet of the four gatherings having a word of the non-living scale, 137. Each has one line: its fate, its home, its step by the sequence's sentences and their group of the registry, and what it is read with. Placing, 92; placing, re-said, 25, each re-said in its own section's last droplet; v401mgr's, 20. Read by `instruments/placed_check.py`. It is in the place of v401atom's first reading of this morning, by the droplets' numbers as they are now. It decides no droplet's fate: v401mgr's reading is its second.
+`The_Gatherings_Droplets_each_placed.md`, 14 November, by v401mgr's asking, its section 3.2: v401mgr's ledger has v401atom as first reader of each droplet of the four gatherings having a word of the non-living scale, 137, and one more has such a word since: 138. Each has one line: its fate, its home, its step by the sequence's sentences and their group of the registry, and what it is read with. Placing, 92; placing, re-said, 25, each re-said in its own section's last droplet; v401mgr's, 21. Read by `instruments/placed_check.py`. It is in the place of v401atom's first reading of this morning, by the droplets' numbers as they are now. It decides no droplet's fate: v401mgr's reading is its second.
 
 ## v401atom: Exhibit THIRTY read by its own order
 
