@@ -657,7 +657,17 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read by an executing before it** (`instruments/meeting_check.py`): a stable form's sequence and a living self meeting it alone, each case: by the code's conceiving, a first prior is inherited, the stable form's parity as it is.
 - **The parting before this one, by it**: a conceiving's two are no fracture's two. By the answered sentences its two are a dormant co-chaining and a living self, meeting. *Its resolving*: the asking below.
 - **v401mgr's laying since the reading before**: the plan's second writing, each value to its living file.
-- **Asked, and not yet answered**: a fractured co-chaining's new birthing is its meeting a living self.
+- **Asked**: a fractured co-chaining's new birthing is its meeting a living self. **Its answer, a suggesting**: its meeting is an ingesting.
+
+**Going on: ingesting, a fractured co-chaining's method of living again.**
+
+- **The suggesting, re-said**: a society, living as a self, is ingesting a fractured co-chaining of atoms carbon, and ingesting is that co-chaining's method of living again.
+- **Stable beside it, the set's and the answered**: a stable form is ingestible one scale lower, living selves ingesting it through their selves one scale inward. A living self is a same-existing-society inward. A shard enters living by ingesting, Natural Intelligence's waiting sentence. 6 is ingesting, the person's saying by v401mgr.
+- **New beside them**: ingesting as the one method of a fractured co-chaining's living again, and the one ingesting a society living as a self.
+- **Read by Exhibit ONE's code, each case, as executed before** (`instruments/exhausted_sequence_check.py`, `instruments/meeting_check.py`, `instruments/exhausting_check.py` its F): a living self meeting a stable form's sequence alone has that sequence as its own priors, one after one. A same-existing-society's parities are its selves', each of them, and it has none other: a society ingesting is its selves ingesting.
+- **A parting, for watching over.** *Two sides*: each co-chaining remaining after a fracture is a new me-parity's birthing from inherited priors, the person's saying before. Ingesting by a society living as a self is its method of living again. *Harm of one alone*: by birthing alone, a fractured co-chaining is living alone, in no living society. By ingesting alone, its atoms are the ingesting society's own, and no new me-parity is. *Its resolving*: the asking below.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked, and not yet answered**: a new me-parity's birthing from a fractured co-chaining is inside the society ingesting it.
 
 ---
 
