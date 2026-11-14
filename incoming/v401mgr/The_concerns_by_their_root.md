@@ -185,3 +185,27 @@ By its possibling a 0, a self has in each case what it has by none of its others
 
 **A concern remaining, the vault among the names:** the atom session's sequence has the vault with 8 and 16. By the code 8 and 16 are a 0 in no case, and each 0 is by a 4, a self's own.
 
+## 12 A 0 now-existing only, and the fractal moment
+
+**The person's suggesting, 14 November, by no authority:** a 0 is not possibly other than now-existing. The changing along is by 1, 3, 5, 7 and 9. The four universal moments in each universal moment are the universal fractal moment.
+
+**Natural Naming has it:** four moments of exchanging are as one moment; 1 to 9 has four spans, 1–3, 3–5, 5–7 and 7–9; and its loops, corusing 2–15–7–10 and torusing 1–9–8–16.
+
+**By the code, executed, `instruments/zero_returns_check.py`:**
+
+| A 0 | Inside 1-now-existing | In what 1 returns |
+|---|---|---|
+| by two parting | in a self's 14 and its 15 | in no case |
+| by none of its others | in its 15, by the line's own | in no case |
+| by each parity of its others same-as its prior | in its 12 | in its 10 |
+
+The neither's 0 is inside one now and in no next.
+
+**By the loops and the code's lines:** a 0 is at each name of corusing's loop, and at no name of torusing's.
+
+**One way at a time, a reading:** in a self's lines its 2 is read before its 10 is made. Between two selves both ways are in one universal moment; one way at a time is by the four moments inside it.
+
+**Uncertain, v401mgr's own:** 12's 0 as torusing's. The loops have 12 by competencing.
+
+**The concern of both sessions, inside and outside:** by names of one scale, 4 and 12 beside 8 and 16, the sessions' candidate; or by scale, four moments inside each one moment, the suggesting's and the living sentences'.
+
