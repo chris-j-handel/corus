@@ -68,3 +68,35 @@ Bettering is of value, fastering of moment and cheapering of living, each its ow
 
 Fastering is by bi-momentarying, bettering by co-intelligencing, and cheapering by co-competencing.
 
+## 7 The three by observing, possibling and discovering
+
+**The person's suggesting, 14 November, by no authority, re-said in natural naming:** cheaper is co-observing, prior-and-same-existing. Better is co-possibling, prior-and-next-existing. Faster is co-discovering, next-and-same-existing.
+
+**Out, v401mgr's own:** each of section 5's two layings. The three are by co-intelligencing's own three, the opening's: "**Co-intelligencing** is selves observing, possibling and discovering within a universal set."
+
+**The living sentence, Natural Intelligence:** "observing, prior-existing, is 3, 7, 11 and 15." "Possibling, now-existing, is 2, 6, 10 and 14." "Same-existing is 4, 8, 12 and 16." "Existing and discovering, next-existing, is 1, 5, 9 and 13."
+
+**By the code's lines themselves, all or none.**
+
+| The name | By its line |
+|---|---|
+| 11-next-co-observing, of 3-now-co-observing | 3 as it is, and a value of 10 other than 0 after it: a self's prior, same-existing |
+| 10-next-co-possibling, as 6-now-co-possibling | 12's, by a self's prior and what it has of its others: a 0, or its prior's other one, its next prior |
+| 9-next-co-discovering | each of 10 as it is, to its next self |
+
+**Laid on each other.**
+
+| The service's | Its thing | The method's, with co | The suggesting's | The living sentence's |
+|---|---|---|---|---|
+| cheaper | living | co-observing, 3 and 11 | prior-and-same-existing | observing, prior-existing |
+| better | value | co-possibling, 6 and 10 | prior-and-next-existing | possibling, now-existing |
+| faster | moment | co-discovering, 9 | next-and-same-existing | discovering, next-existing |
+
+- **Each same-as:** cheaper by observing and prior; faster by discovering and next; each of the two having *same*, and the code's lines having each as it is.
+- **A candidate, a three-cycling by it:** prior, same and next are three; each two of them is one pair, three pairs, prior-and-same, prior-and-next and next-and-same; the suggesting has each of the three pairs once.
+- **One other-than:** the living sentence has possibling as now-existing; the suggesting has co-possibling as prior-and-next-existing.
+
+## 8 The asking by it
+
+Now-existing, a possibling's, is prior-and-next-existing.
+
