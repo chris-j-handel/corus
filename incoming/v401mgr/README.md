@@ -79,6 +79,7 @@ Opportunities 3, 6 and 8 go on with no asking. Each other waits on a sentence of
 - `instruments/four_places_check.py`, with its returned lines, 14 November: each case of one bi-coupling of one self by Exhibit ONE's code, 45, read by four places, its prior, its possibling, its co-possibling and its same-existing. A self has three 1s or four, its 0 in one of the first three and in the fourth in no case.
 - `instruments/next_me_parity_check.py`, with its returned lines, 14 November: Exhibit ONE's code executed as it is; a self's next prior by what its others share, each case; and selves over many moments, two across both ways, three along, and two by one same other. A self's own parity is a 0 in no case, and same-as and not same-as of selves' me-parities is from their first priors.
 - `instruments/meeting_check.py`, with its returned lines, 14 November: Exhibit ONE's code executed as it is; two selves across both ways and a self having both as its others. Two not same-as have each one's next prior same-as its other's prior and a 0 in no place; the self having both has its possibling a 0; each order of the selves has one same return.
+- `instruments/zero_places_check.py`, with its returned lines, 14 November: Exhibit ONE's code executed as it is; one self, one 4, and each list of its others' parities. A 0 is in its possibling and in its co-possibling, and in its next prior in no case; by its possibling a 0 it has what it has by none of its others.
 
 ## 7 Exhibit ONE's gathering-value, its passes
 

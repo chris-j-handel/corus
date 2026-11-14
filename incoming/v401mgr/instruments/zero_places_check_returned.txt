@@ -1,0 +1,5 @@
+cases: 242
+its possibling, 14, a 0: 128
+its co-possibling, 12, a 0: 52
+its next prior, its 8, a 0: 0
+by its 14 a 0, each return same-as its return by none of its others: True
