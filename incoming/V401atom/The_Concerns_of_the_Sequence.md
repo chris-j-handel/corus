@@ -171,3 +171,19 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **What the living files have by it.** Exhibit ONE and Exhibit THREE: four bi-foldings, each four names, 3-11-6-14 resolving's; and six-cycles, 3-11-7-10-6-14 and 2-15-7-11-6-10. Exhibit THREE: a passage of six has a whole four. Ten is five by two directions.
 
+## 13 Four-cycling and six-cycling about five, by natural numbers: an exploring, in no sentence yet
+
+**The concept, a suggesting, by no authority.** A centre, twisted and wrapped, unrelationing, having three edges in and three edges out. 1 to 5 is a four-cycling, and 1 to 6 a six-cycling. Each is rolling over and bi-folding forward into next.
+
+**By natural numbers, each an identity**, `instruments/four_six_five_check.py`, and Exhibit THREE's own sentences.
+
+- **Five, the centre.** Four and six are either side of five: four by six is five by five, less one. An adding closes after one, two, three, four and six, and none closes after five: five is open, by the unrelationing rate. Five is a middle having nothing in it.
+- **Ten.** Four and six together are ten: five by two directions, and the couplings among five.
+- **Same-as and other-than, by a right spiral step.** After four steps it is as it was, same-as. After six, both its parities are their other, other-than. After ten, other-than. After twelve, same-as.
+- **Twelve.** A four-cycling's fourths are 4, 8, 12 and 16, the same-existing names. A six-cycling's sixths are 6 and 12. The two are one name at 12, the name of each thing's same-as or other-than; and next at 24, 36, 48 and 60.
+- **Prime gaps, by the steps of the names.** By the now names: one, and twos and fours in turn, and no six. Each gap of six is by the next names, the first by the step from 9 to 10. A gap of four and a gap of six are either side of 9, of 12 and of 15.
+- **Three in and three out.** A self's names to an other are 6, 9 and 10, and from an other 2, 14 and 17. Six is three pairings by two sides.
+- **Podaling.** About thirty, six prime pairs are each sixty together. The primes by the now names are 21 apart, and by the next names 36, six sixes.
+
+**Its concerns.** 1 to 6 as a six-cycling: a round of two parities is 1 to 5, and a round of three 1 to 9; six is a round of none. And which of these forms is the concept's, and which a number's own beside it.
+

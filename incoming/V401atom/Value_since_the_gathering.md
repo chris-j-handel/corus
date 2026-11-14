@@ -768,6 +768,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: same-as and other-than.** *Other-than* in the place of *not same-as*, in the sequence and in each droplet of v401atom's own. A concept of ten cyclings, a four-cycling in and a six-cycling out, laid in `The_Concerns_of_the_Sequence.md`, its part 12, in no sentence yet.
 
+**Going on, 14 November: four-cycling and six-cycling about five, by natural numbers.** `The_Concerns_of_the_Sequence.md`, its part 13; `instruments/four_six_five_check.py`. An exploring, in no sentence: five between four and six, open; ten; a right spiral step same-as after four and other-than after six; the fourths and the sixths one name at 12; the prime gaps of four and of six by the names.
+
 ---
 
 ## 6 Executed, each case, all or none
