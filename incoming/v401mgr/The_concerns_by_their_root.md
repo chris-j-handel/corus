@@ -143,3 +143,25 @@ A self's own parity is a parity in each case, and a 0 in none.
 | 16-next-same-existing | bi-tri-bi | in 17 only: each self having its prior and its possibling |
 
 By the table and by the code, the four are two and two. By the suggesting, all-parity is each of the four.
+
+**Resolved between the two sessions, by the atom session's reading of the table:** all-parity is by its universe. A self's universe has its me-parity as its all-parity, co at the now of 4 and of 12. This universe has tri at the now of 8 and of 16. The asking of 8 and 16 beside 4 and 12 is out as an asking.
+
+## 10 Two selves meeting, and whose a 0 is
+
+**The person's suggesting, 14 November, by no authority:** the three, self, other, all-parity, is the bi-inversioning-co-recursioning of the three, other, self, all-parity. It is the illustration of two swimmers, each turning by a right spiral off the other's feet, the two meeting at a nothing place on the surface.
+
+**Exhibit TWENTY-NINE has the illustration:** both inverting through one meeting; neither a wall; neither an other's copy across a line; a self experiencing each closing from both; its exact form still to express.
+
+**By the code, executed, `instruments/meeting_check.py`:**
+
+| The form | Each of the two | A self having both as its others |
+|---|---|---|
+| two not same-as, across both ways | its next prior same-as its other's prior, at each moment; a 0 in no place | its possibling a 0 at each moment from its second; its next its prior's other one, by its own |
+| two same-as, across both ways | its co-possibling a 0 at each second moment | no 0 by parting |
+
+Each order of the selves in 16 has one same return of 17.
+
+**Whole with the suggesting:** self and other at next are other and self, each having its other's prior; the third of the three is same-as by both orders.
+
+**The concern, what a 0 is, by it:** the meeting's 0 is in no place of either of the two. It is the possibling of a self having both. Natural Intelligence has 14's 0 as a between of self and other; the code's first comparing line has it as two of a self's others parting, at that self.
+
