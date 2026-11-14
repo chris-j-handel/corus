@@ -89,3 +89,19 @@ The working v401atom read its twenty-one concerns by the living files: twelve ha
 **Of v401mgr's twelve, by the living file:** 2 and 12 are resolved. Each other is read by the living files next.
 
 **One gap more, by the suggesting:** one me-parity of many. By the code, executed, a same-existing-society's parities are its selves', and it has no other.
+
+## 8 The first concern, read by the living file
+
+**The person's suggestings, 14 November, by no authority:** a parity is no direction that is one of two; it is a direction independent of each other, into its own next universe. Unrelationing a between of two is a method, and no parity. From one 0, from now, are ten one-way parities, five pairs.
+
+**Natural Intelligence has each, its own sentences:** parity is each self's own, now, its changing direction; a 0 is a between of two changing directions; five dimensions, each binary both ways, one way at a time; ten names a self's own, and six between selves.
+
+**By the code, executed:** each parity is independent of each other; its + and − are exchangeable, which is which in no line.
+
+**The first concern's standing.** A parity is a self's own direction: the living file's, the suggesting's, and the code's independent parity. The same and the not same of two are the method's: the living file's co-parity and bi-parity, resolving's is and is-not. Section 5's first way is whole with the three. *A parity is one of two* is out, v401mgr's and v401atom's.
+
+**Beside it, not resolved:** parity as is-same-as and imparity, of 13 November: a name of the method's is and is-not, and no name of a parity.
+
+**One gap:** the ten one-way parities and their five pairs, by their names. The set has three tens.
+
+**Exhibit ONE's *a next 1*:** dissolving, by Natural Intelligence's own sentence of a self's moment from 1 to 17, its next prior.
