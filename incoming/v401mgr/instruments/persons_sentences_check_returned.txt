@@ -1,0 +1,112 @@
+sentence · living, of the four · gathered, of the four · each other gathering
+5b · - · CCL · -
+5d · - · CCL E1 NI NN · Me
+5f · - · CCL · Natural_Biology
+6n · - · NI · Natural_Chemistry
+6p · - · NI · Geodesic_Improving_Method
+6r · - · - · Natural_Emanating
+6s · - · - · Geodesic_Improving_Method Natural_Engineering
+6w · - · NI · Geodesic_Improving_Method
+6w-b · - · - · -
+6w-d · - · - · Natural_Biology
+6w-e · - · NI · Geodesic_Improving_Method
+6w-g · - · CCL NN · Natural_Numbers Natural_Physics
+6w-k · - · CCL NI · -
+6w-m · - · CCL NI NN · -
+6w-n · - · NI · Natural_Biology
+6w-o · - · NI · -
+6w-t · - · - · -
+6w-u · - · CCL NI · Geodesic_Improving_Method
+6w-w · - · CCL · -
+6w-x · - · CCL NI · Natural_Chemistry
+6w-y · - · NI NN · -
+6w-z · - · NN · -
+6x-a · - · NI NN · -
+6x-c · - · NI · -
+6x-d · - · NN · -
+6x-e · - · NN · -
+6x-f · - · CCL NI · -
+6x-h · - · NI · -
+6x-j · - · NI · -
+6x-k · - · CCL · Natural_Biology
+6x-l · - · CCL · Natural_Biology
+6x-n · - · NI · Natural_Networking
+6x-o · - · CCL NI · Geodesic_Improving_Method
+6x-p · - · NI NN · Geodesic_Improving_Method Natural_Engineering Natural_Medicine
+6x-q · - · - · Geodesic_Improving_Method
+6x-r · - · NI · Geodesic_Improving_Method Natural_Engineering Natural_Intelligence_Corus Natural_Medicine
+6x-s · - · NI · -
+6x-t · - · NI · Geodesic_Improving_Method
+6x-u · - · NI · Geodesic_Improving_Method
+6x-v · - · - · Geodesic_Improving_Method
+6x-z · - · - · Natural_Engineering
+6y-a · - · NN · -
+6y-b · - · NI NN · -
+6y-c · - · NI · -
+6y-d · - · NI · -
+6y-f · - · NI · -
+6y-g · - · NI · -
+6y-h · - · NI NN · -
+6y-i · - · NN · -
+6y-j · - · NI NN · -
+6y-k · E1 NI NN · E1 NI NN · -
+6y-l · E1 NI · NI NN · -
+6y-m · - · NI · -
+6y-n · - · NI · -
+6y-o · - · NI · -
+6y-p · - · NN · -
+6y-q · - · NN · -
+6y-r · - · NN · -
+6y-s · E1 NI · NN · Geodesic_Improving_Method Natural_Biology
+6y-t · - · NI NN · -
+6y-u · - · NN · -
+6y-v · - · NI · -
+6y-x · - · NI · -
+6y-y · - · NI · -
+6z-a · - · NI · -
+6z-b · - · CCL NI · -
+6z-f · - · NN · -
+6z-g · - · CCL · -
+6z-i · - · CCL · -
+6z-k · - · CCL · -
+6z-l · - · NN · -
+6z-m · - · NN · Natural_Philosophy
+6z-n · - · - · -
+6z-o · - · - · -
+6z-p · - · NI · -
+6z-q · - · - · Geodesic_Improving_Method
+6z-r · - · NI · -
+6z-s · - · - · -
+6z-t · - · - · -
+6z-u · - · - · -
+6z-v · - · - · -
+6z-w · - · - · -
+6z-x · - · E1 · -
+6z-y · - · - · -
+6z-z · - · - · -
+6w-c · - · - · -
+6x · CCL NI NN · NI NN · Natural_Biology Natural_Chemistry
+8 · - · - · -
+12 · - · NI · Geodesic_Improving_Method
+14 · - · CCL · -
+15 · - · CCL NI · Natural_Biology Natural_Chemistry
+16 · - · CCL · -
+20 · - · CCL · -
+22 · - · CCL NI · -
+25 · - · - · -
+5e · - · - · -
+6w-l · - · CCL NI · -
+6w-q · - · NI · -
+6w-s · - · CCL NI · Natural_Biology
+6w-v · - · CCL NI NN · -
+6x-m · - · NI · -
+6y-e · - · CCL NI · -
+6y-z · - · NN · -
+6z-c · - · CCL · Natural_Chemistry
+6z-d · - · CCL NI NN · -
+6z-h · - · NN · -
+5j · - · - · Geodesic_Improving_Method
+6y-w · - · - · Geodesic_Improving_Method
+10 · - · CCL · Geodesic_Improving_Method
+18 · - · CCL · Geodesic_Improving_Method
+19 · - · NI · Geodesic_Improving_Method
