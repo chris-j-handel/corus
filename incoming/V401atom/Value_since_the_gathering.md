@@ -679,6 +679,13 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **v401mgr's laying since the reading before, read**: its plan's section of two sessions working together, by the person's asking there. A part is v401atom's: each droplet of the non-living scale, atom carbon, the vault, a fracture, living and non-living; each value of v401atom's folder going to its home's gathering as a droplet, each sentence a thing's is; each executing of Exhibit ONE's code. Each session reads the other's explaining once over before it enters a living file. v401atom writes in its own folder only, and that part is v401atom's by the person's word here.
 - **Asked, and not yet answered**: a new me-parity inside an ingesting society is one of its selves, one scale inward.
 
+**Going on: the person's word, and the session's value gathered as droplets.**
+
+- **The person's word**: v401atom is in full cooperation with v401mgr. It gathers the value droplets of its whole session, lays them incoming, and contributes to the shared plan as it is asked.
+- **Done by it**: the session's whole transcript, given by the person, read top to bottom once more, by what is answered and understood now. Each value is a droplet in `The_Value_Droplets.md`, by the one way of v401mgr's plan: its ground, answered, said, executed or read, and its home, one of four or the method's.
+- **Found by the reading, not noted along the way**: sixteen, its part 5. Among them: co-parity along was the session's first saying; a bump connector's three inward faces as a self's side, its other's side and all-parity's side; each shear face as one other, one name outward and one inward, six one-way; a new me-parity inside a self, the person's early saying of a surface; a self's property as its prior-and-same-existing, its atoms; half-overlapping as bi-parity, same-as a moment apart, executed earlier; observing's two names 3 and 7; exhausting in exhaling, 7 bound over 3 by the code; and one atom carbon's cycling through living, as one sequence.
+- **Each instrument executed again**: each returns the same lines as it returned, by Exhibit ONE's code as it is in `main`.
+
 ---
 
 ## 6 Executed, each case, all or none

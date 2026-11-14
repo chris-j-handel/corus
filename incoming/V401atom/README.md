@@ -57,3 +57,7 @@ v401atom stopped the evening of 12 November with no gathering. It began again, r
 - `drawings/A_surface_of_names_1_to_256.svg`, from `instruments/surface_check.py`.
 
 No sentence of the person's is laid whole in these. Each earlier page of this folder has them laid whole, a debt.
+
+## v401atom: the value droplets of its session
+
+`The_Value_Droplets.md`, 13 November: the whole transcript of v401atom's session read top to bottom once more, and each value gathered as a droplet by the one way of v401mgr's plan: sixty-six steps, each a thing's is; the names, each word out and its re-saying; thirty-one forms executed, each case, each instrument returning the same lines again; four explainings; sixteen values evident now and not noted along the way; twelve earlier answers re-said by a later one; twenty-one two-sided, the person's; and fifteen of the method. It changes no living file, no gathering and no line of Exhibit ONE's code.
