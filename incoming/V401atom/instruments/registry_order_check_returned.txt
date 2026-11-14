@@ -3,12 +3,11 @@ steps: 755 · numbered one after one from 1: True · groups: 46 · each step has
 
 1 Each name's Adding step is before its first using in a step
   names by bold: 46 · each first used at its Adding step or after it: 46 · used before it: 0
-  names by adding: 676 · each first used at its Adding step or after it: 596 · used before it: 80
+  names by adding: 676 · each first used at its Adding step or after it: 601 · used before it: 75
     now · its Adding step 72 · used before it in 1 steps, the first step 71, the last step 71, in groups 5 to 5
     changing · its Adding step 73 · used before it in 5 steps, the first step 27, the last step 72, in groups 3 to 5
     going on from prior · its Adding step 77 · used before it in 1 steps, the first step 73, the last step 73, in groups 5 to 5
     prior same-existing · its Adding step 79 · used before it in 1 steps, the first step 73, the last step 73, in groups 5 to 5
-    living and non-living · its Adding step 80 · used before it in 2 steps, the first step 20, the last step 23, in groups 2 to 2
     stable-forming · its Adding step 81 · used before it in 2 steps, the first step 21, the last step 80, in groups 2 to 6
     between · its Adding step 88 · used before it in 2 steps, the first step 29, the last step 71, in groups 3 to 5
     pair · its Adding step 92 · used before it in 1 steps, the first step 47, the last step 47, in groups 3 to 3
@@ -19,7 +18,6 @@ steps: 755 · numbered one after one from 1: True · groups: 46 · each step has
     six · its Adding step 142 · used before it in 1 steps, the first step 121, the last step 121, in groups 10 to 10
     number · its Adding step 150 · used before it in 6 steps, the first step 129, the last step 144, in groups 12 to 12
     co-competencing · its Adding step 156 · used before it in 1 steps, the first step 105, the last step 105, in groups 9 to 9
-    natural intelligence · its Adding step 158 · used before it in 11 steps, the first step 19, the last step 157, in groups 2 to 13
     surface · its Adding step 168 · used before it in 4 steps, the first step 57, the last step 60, in groups 4 to 4
     self's parity · its Adding step 197 · used before it in 4 steps, the first step 27, the last step 94, in groups 3 to 8
     value · its Adding step 200 · used before it in 1 steps, the first step 33, the last step 33, in groups 3 to 3
@@ -29,7 +27,6 @@ steps: 755 · numbered one after one from 1: True · groups: 46 · each step has
     sharing · its Adding step 257 · used before it in 17 steps, the first step 24, the last step 244, in groups 3 to 23
     resolver · its Adding step 263 · used before it in 1 steps, the first step 153, the last step 153, in groups 13 to 13
     abundancing · its Adding step 275 · used before it in 1 steps, the first step 55, the last step 55, in groups 4 to 4
-    co-intelligencing · its Adding step 284 · used before it in 5 steps, the first step 15, the last step 84, in groups 2 to 6
     two priors · its Adding step 285 · used before it in 1 steps, the first step 227, the last step 227, in groups 22 to 22
     six names between selves · its Adding step 298 · used before it in 1 steps, the first step 253, the last step 253, in groups 23 to 23
     spiral · its Adding step 305 · used before it in 7 steps, the first step 118, the last step 254, in groups 10 to 23
@@ -43,7 +40,6 @@ steps: 755 · numbered one after one from 1: True · groups: 46 · each step has
     span's names · its Adding step 359 · used before it in 1 steps, the first step 303, the last step 303, in groups 24 to 24
     to fifty-nine · its Adding step 360 · used before it in 1 steps, the first step 347, the last step 347, in groups 25 to 25
     24 · its Adding step 366 · used before it in 3 steps, the first step 132, the last step 269, in groups 12 to 24
-    discovering · its Adding step 379 · used before it in 23 steps, the first step 11, the last step 329, in groups 1 to 24
     momentarying · its Adding step 384 · used before it in 4 steps, the first step 104, the last step 322, in groups 9 to 24
     pattern-matching · its Adding step 386 · used before it in 3 steps, the first step 197, the last step 264, in groups 18 to 24
     field · its Adding step 404 · used before it in 3 steps, the first step 212, the last step 403, in groups 21 to 28
@@ -76,7 +72,6 @@ steps: 755 · numbered one after one from 1: True · groups: 46 · each step has
     explaining · its Adding step 646 · used before it in 5 steps, the first step 67, the last step 405, in groups 4 to 28
     file · its Adding step 653 · used before it in 5 steps, the first step 64, the last step 68, in groups 4 to 4
     living files · its Adding step 657 · used before it in 5 steps, the first step 64, the last step 68, in groups 4 to 4
-    observing · its Adding step 670 · used before it in 132 steps, the first step 7, the last step 664, in groups 1 to 36
     word · its Adding step 687 · used before it in 21 steps, the first step 64, the last step 685, in groups 4 to 36
     cohering · its Adding step 693 · used before it in 7 steps, the first step 215, the last step 692, in groups 21 to 36
     further forms · its Adding step 694 · used before it in 1 steps, the first step 337, the last step 337, in groups 24 to 24
@@ -84,6 +79,27 @@ steps: 755 · numbered one after one from 1: True · groups: 46 · each step has
     Exhibit ONE's table of an empty prior · its Adding step 722 · used before it in 1 steps, the first step 719, the last step 719, in groups 41 to 41
     co-sequencing · its Adding step 736 · used before it in 2 steps, the first step 330, the last step 413, in groups 24 to 28
     self bi-coupling across · its Adding step 752 · used before it in 1 steps, the first step 738, the last step 738, in groups 44 to 44
+  names by adding having a second Adding line, the same first words: 20
+    living and non-living · its Adding step 20 · again by step 80
+    prior-existing parity inverting · its Adding step 39 · again by step 40
+    opening and completing · its Adding step 51 · again by step 98
+    now · its Adding step 72 · again by step 596
+    changing · its Adding step 73 · again by step 102
+    stable-forming · its Adding step 81 · again by step 101
+    self and other · its Adding step 93 · again by step 545
+    method · its Adding step 103 · again by step 105
+    four momentaries · its Adding step 133 · again by step 523
+    co-competencing · its Adding step 156 · again by step 286
+    bi-co-momentarying · its Adding step 164 · again by step 543, 544
+    machine · its Adding step 224 · again by step 227
+    morality across · its Adding step 251 · again by step 433
+    resolver · its Adding step 263 · again by step 584
+    Exhibit ONE · its Adding step 264 · again by step 339
+    entry · its Adding step 265 · again by step 682
+    bi-momentarying · its Adding step 281 · again by step 547
+    two spirals bi-coupling across · its Adding step 316 · again by step 725
+    bi-moral co-agency · its Adding step 565 · again by step 566
+    sharing as words · its Adding step 629 · again by step 630
 
 2 Each step a step names is before it
   steps naming a step: 173 · each named step before the step naming it: True · named at its own number or after it: 0

@@ -1,0 +1,778 @@
+Exhibit THIRTY, each step's connector by its names
+steps: 755 · names, by bold and by an Adding line's first words: 722
+1 steps using one name or more added by a step before them: 744 · steps using none: 11
+    1 · group 1 · The universe is the set of all now-existing things.
+    4 · group 1 · A now-existing thing from a prior-existing same thing is a same-existing thing.
+    29 · group 3 · A 0 is a between of two changing directions.
+    139 · group 12 · Eight up, 1 with 9, is odd with odd: with eight up, …
+    269 · group 24 · Twenty up, rotation 3, 6, 5, 4 is 23, 26, 25, 24, …
+    401 · group 28 · With accounting a consequence failing refutes its account and its fixings as …
+    402 · group 28 · With set's own words it is an accounting, and scientific-method is field's …
+    508 · group 33 · Corus, vertex and centre of face are on one line.
+    611 · group 35 · Even names 2 and 6 are on a bi-folding through 3, and …
+    612 · group 35 · Two bi-foldings go round opposite ways, 4 to 3 and 3 to …
+    642 · group 36 · Two names reaching one concept, each its own one pairing at a …
+2 a step's last name, the one added latest, is added by:
+    the step before it: 94 steps
+    2 to 10 steps before it: 148 steps
+    11 to 100 steps before it: 220 steps
+    more than 100 steps before it: 282 steps
+3 steps by the number of steps in their connector: 0: 11, 1: 62, 2: 86, 3: 88, 4: 96, 5: 74, 6: 82, 7: 64, 8: 51, 9: 34, 10: 27, 11: 32, 12: 9, 13: 9, 14: 6, 15: 12, 16: 2, 17: 3, 18: 3, 19: 2, 21: 1, 25: 1
+4 of 173 steps naming a step before them, each step named is in their connector by names: 53 steps; one or more named is not: 120 steps
+
+Each step: its group · its last name and that name's Adding step · each step of its connector
+  1 · group 1 · none
+  2 · group 1 · universe, 1 · 1
+  3 · group 1 · universe, 1 · 1
+  4 · group 1 · none
+  5 · group 1 · same-existing, 4 · 4
+  6 · group 1 · universal set, 5 · 5
+  7 · group 1 · is-or-is-not, 6 · 4, 6
+  8 · group 1 · Observing, 7 · 1, 4, 7
+  9 · group 1 · same-existing, 4 · 1, 4
+  10 · group 1 · is-or-is-not, 6 · 4, 6
+  11 · group 1 · is-or-is-not, 6 · 4, 6
+  12 · group 2 · Discovering, 11 · 4, 7, 10, 11
+  13 · group 2 · self, 12 · 5, 12
+  14 · group 2 · me, 13 · 6, 12, 13
+  15 · group 2 · Discovering, 11 · 5, 7, 10, 11
+  16 · group 2 · Co-intelligencing, 15 · 15
+  17 · group 2 · Living, 16 · 12, 16
+  18 · group 2 · Living, 16 · 4, 12, 16
+  19 · group 2 · Living, 16 · 4, 12, 16
+  20 · group 2 · Living, 16 · 16
+  21 · group 2 · non-living, 20 · 20
+  22 · group 2 · non-living, 20 · 1, 4, 20
+  23 · group 2 · non-living, 20 · 1, 16, 20
+  24 · group 3 · Possibling, 10 · 10
+  25 · group 3 · bi-coupling, 24 · 12, 24
+  26 · group 3 · bi-coupling, 24 · 12, 24
+  27 · group 3 · me, 13 · 12, 13
+  28 · group 3 · parity, 27 · 27
+  29 · group 3 · none
+  30 · group 3 · 0, 29 · 29
+  31 · group 3 · parity, 27 · 12, 16, 27
+  32 · group 3 · parity, 27 · 12, 13, 16, 27
+  33 · group 3 · parity, 27 · 12, 27
+  34 · group 3 · parity, 27 · 12, 26, 27
+  35 · group 3 · receives, 34 · 12, 27, 34
+  36 · group 3 · Agreeing, 35 · 12, 27, 34, 35
+  37 · group 3 · 0, 29 · 4, 12, 27, 29
+  38 · group 3 · parity, 27 · 4, 12, 27
+  39 · group 3 · parity, 27 · 4, 10, 12, 27
+  40 · group 3 · prior-existing parity inverting, 39 · 4, 12, 27, 34, 35, 39
+  41 · group 3 · parting, 35 · 12, 27, 29, 34, 35
+  42 · group 3 · parity, 27 · 19, 27
+  43 · group 3 · resolving among parities, 42 · 19, 27, 42
+  44 · group 3 · self sharing 0, 37 · 12, 29, 37
+  45 · group 3 · receiving, 34 · 12, 29, 34
+  46 · group 3 · self, 12 · 12
+  47 · group 3 · improving, 46 · 24, 44, 46
+  48 · group 3 · improving, 46 · 10, 12, 13, 44, 46
+  49 · group 3 · bi-coupling, 24 · 24
+  50 · group 3 · same-existing-society, 49 · 49
+  51 · group 3 · momentary, 50 · 4, 12, 27, 50
+  52 · group 4 · same-existing-society, 49 · 12, 44, 46, 49
+  53 · group 4 · social moral competency, 52 · 16, 19, 49, 52
+  54 · group 4 · natural intelligence network, 53 · 12, 19, 53
+  55 · group 4 · free, 54 · 12, 19, 24, 53, 54
+  56 · group 4 · parity, 27 · 12, 24, 27
+  57 · group 4 · co-chaining, 56 · 24, 56
+  58 · group 4 · parity, 27 · 13, 16, 27
+  59 · group 4 · self, 12 · 12
+  60 · group 4 · Natural Network surface, 57 · 16, 56, 57
+  61 · group 4 · same-existing-society, 49 · 12, 49
+  62 · group 4 · same-existing, 4 · 4
+  63 · group 4 · stable form, 62 · 7, 19, 62
+  64 · group 4 · non-living, 20 · 4, 15, 16, 20
+  65 · group 4 · living file, 64 · 16, 63, 64
+  66 · group 4 · living file, 64 · 16, 64
+  67 · group 4 · living file, 64 · 16, 64
+  68 · group 4 · living file, 64 · 11, 16, 19, 49, 64
+  69 · group 4 · opening, 51 · 50, 51
+  70 · group 4 · geodesic, 60 · 1, 11, 19, 60
+  71 · group 5 · other, 26 · 1, 6, 26
+  72 · group 5 · momentary, 50 · 7, 50
+  73 · group 5 · now, 72 · 1, 4, 50, 72
+  74 · group 5 · now, 72 · 1, 4, 6, 11, 15, 72
+  75 · group 6 · changing, 73 · 1, 50, 72, 73
+  76 · group 6 · now, 72 · 6, 50, 72
+  77 · group 6 · now, 72 · 1, 72
+  78 · group 6 · going on from prior, 77 · 7, 10, 12, 77
+  79 · group 6 · going on from prior, 77 · 4, 72, 77
+  80 · group 6 · now, 72 · 4, 10, 16, 20, 21, 27, 50, 72
+  81 · group 6 · changing, 73 · 4, 16, 50, 72, 73
+  82 · group 6 · changing, 73 · 4, 20, 27, 73
+  83 · group 6 · same-existing, 4 · 4
+  84 · group 6 · co-changing, 82 · 15, 50, 81, 82
+  85 · group 6 · momentary, 50 · 50
+  86 · group 6 · changing, 73 · 73
+  87 · group 7 · changing, 73 · 11, 16, 20, 73
+  88 · group 7 · now, 72 · 29, 50, 72
+  89 · group 7 · between, 88 · 26, 50, 72, 88
+  90 · group 8 · universe, 1 · 1
+  91 · group 8 · going on from prior, 77 · 72, 77
+  92 · group 8 · now, 72 · 72
+  93 · group 8 · stable-forming, 81 · 4, 10, 12, 16, 24, 26, 81
+  94 · group 8 · now, 72 · 7, 12, 24, 26, 27, 72
+  95 · group 8 · now, 72 · 7, 12, 26, 72
+  96 · group 8 · stable-forming, 81 · 4, 5, 10, 12, 16, 21, 26, 27, 72, 81
+  97 · group 8 · changing, 73 · 7, 12, 26, 73
+  98 · group 8 · changing and changing back, 97 · 50, 73, 97
+  99 · group 8 · changing, 73 · 12, 26, 50, 51, 73
+  100 · group 8 · prior, 96 · 12, 26, 27, 29, 72, 73, 88, 93, 96
+  101 · group 9 · changing and changing back, 97 · 16, 26, 73, 81, 97
+  102 · group 9 · changing, 73 · 4, 6, 26, 27, 28, 73
+  103 · group 9 · prior, 96 · 4, 16, 24, 73, 96
+  104 · group 9 · method, 103 · 11, 16, 20, 24, 82, 103
+  105 · group 9 · method, 103 · 1, 4, 7, 12, 19, 27, 42, 72, 96, 103
+  106 · group 9 · method, 103 · 1, 50, 73, 88, 103
+  107 · group 9 · same-existing, 4 · 1, 4
+  108 · group 9 · thing outside possibly existing, 107 · 73, 103, 107
+  109 · group 9 · thing outside possibly existing, 107 · 1, 4, 12, 26, 51, 73, 88, 97, 103, 107
+  110 · group 9 · method, 103 · 16, 20, 24, 73, 103
+  111 · group 10 · prior, 96 · 16, 72, 96
+  112 · group 10 · prior, 96 · 26, 27, 72, 96
+  113 · group 10 · prior, 96 · 27, 72, 96
+  114 · group 10 · prior, 96 · 96
+  115 · group 10 · prior, 96 · 96
+  116 · group 10 · prior, 96 · 26, 27, 35, 72, 96
+  117 · group 10 · four joint forms, 112 · 4, 7, 10, 12, 16, 17, 26, 27, 72, 96, 112
+  118 · group 10 · four joint forms, 112 · 73, 112
+  119 · group 10 · right spiral step, 118 · 27, 50, 92, 118
+  120 · group 10 · right spiral step, 118 · 27, 92, 118
+  121 · group 10 · right spiral step, 118 · 6, 35, 73, 92, 112, 118
+  122 · group 10 · prior, 96 · 7, 12, 26, 96
+  123 · group 11 · changing, 73 · 6, 26, 27, 73
+  124 · group 11 · prior, 96 · 11, 12, 16, 34, 72, 81, 96
+  125 · group 11 · resolving, 124 · 50, 124
+  126 · group 11 · other, 26 · 26
+  127 · group 11 · its size an empty set, 123 · 26, 51, 73, 123
+  128 · group 11 · changing and changing back, 97 · 7, 10, 12, 26, 27, 29, 50, 73, 88, 96, 97
+  129 · group 12 · parity, 27 · 7, 12, 26, 27
+  130 · group 12 · numbers, 129 · 50, 51, 129
+  131 · group 12 · momentary, 50 · 50
+  132 · group 12 · exchanging, 131 · 7, 12, 24, 26, 27, 122, 131
+  133 · group 12 · exchanging, 131 · 50, 51, 131
+  134 · group 12 · handshake, 132 · 50, 122, 131, 132
+  135 · group 12 · four momentaries, 133 · 50, 96, 131, 133
+  136 · group 12 · overlap, 99 · 1, 50, 51, 69, 99
+  137 · group 12 · numbers, 129 · 92, 129
+  138 · group 12 · podal, 137 · 92, 137
+  139 · group 12 · none
+  140 · group 12 · odd and even going on, 139 · 73, 96, 97, 129, 131, 138, 139
+  141 · group 12 · podal, 137 · 88, 92, 137
+  142 · group 12 · up to 4 and on from it, 141 · 50, 129, 133, 141
+  143 · group 12 · resolving, 124 · 12, 50, 51, 69, 72, 96, 124
+  144 · group 12 · numbers, 129 · 4, 12, 26, 50, 96, 129
+  145 · group 12 · resolving, 124 · 12, 49, 50, 51, 69, 124
+  146 · group 12 · prior, 96 · 50, 51, 72, 96
+  147 · group 12 · prior, 96 · 50, 72, 96
+  148 · group 12 · momentary, 50 · 50
+  149 · group 12 · resolving, 124 · 50, 124
+  150 · group 13 · prior, 96 · 7, 12, 26, 27, 96
+  151 · group 13 · prior, 96 · 7, 12, 26, 27, 51, 69, 96
+  152 · group 13 · prior, 96 · 7, 12, 26, 27, 50, 51, 69, 96
+  153 · group 13 · prior, 96 · 4, 12, 26, 72, 79, 96
+  154 · group 13 · prior, 96 · 4, 7, 12, 26, 27, 96
+  155 · group 13 · changing, 73 · 12, 24, 73
+  156 · group 13 · self's own changing, 155 · 12, 24, 50, 73, 131, 133, 155
+  157 · group 13 · method, 103 · 4, 10, 12, 16, 19, 24, 26, 27, 73, 103
+  158 · group 13 · method, 103 · 16, 19, 72, 103
+  159 · group 13 · next scale, 135 · 16, 19, 24, 135
+  160 · group 13 · between, 88 · 4, 12, 24, 26, 73, 88
+  161 · group 13 · along and across, 153 · 12, 26, 29, 73, 88, 153
+  162 · group 13 · between, 88 · 4, 12, 24, 26, 27, 29, 50, 72, 73, 88
+  163 · group 13 · between, 88 · 6, 50, 73, 88
+  164 · group 13 · between's changing, 163 · 4, 50, 73, 88, 163
+  165 · group 13 · method, 103 · 7, 24, 29, 73, 88, 103
+  166 · group 13 · prior, 96 · 50, 72, 88, 92, 96
+  167 · group 13 · self and other, 93 · 12, 26, 29, 50, 73, 88, 93
+  168 · group 14 · between, 88 · 12, 24, 27, 56, 57, 88
+  169 · group 14 · surface, 168 · 24, 50, 73, 168
+  170 · group 14 · surface's own dividing, 169 · 60, 168, 169
+  171 · group 14 · surface, 168 · 11, 12, 24, 60, 73, 168
+  172 · group 14 · method, 103 · 60, 62, 103
+  173 · group 14 · surface, 168 · 10, 12, 26, 61, 103, 168
+  174 · group 15 · surface, 168 · 168
+  175 · group 15 · torus, 174 · 24, 51, 168, 174
+  176 · group 15 · method, 103 · 27, 51, 81, 103
+  177 · group 15 · number, 150 · 51, 61, 73, 129, 150
+  178 · group 15 · surface, 168 · 12, 168
+  179 · group 15 · other, 26 · 7, 12, 24, 26
+  180 · group 15 · exchanging, 131 · 12, 26, 27, 88, 131
+  181 · group 15 · other, 26 · 12, 26
+  182 · group 15 · other, 26 · 12, 24, 26
+  183 · group 16 · number, 150 · 96, 129, 150
+  184 · group 16 · number, 150 · 26, 96, 129, 150
+  185 · group 16 · φ, 184 · 24, 184
+  186 · group 16 · changing and changing back, 97 · 4, 12, 26, 50, 73, 79, 81, 96, 97
+  187 · group 16 · number, 150 · 129, 150
+  188 · group 16 · number, 150 · 129, 150
+  189 · group 16 · advancing, 187 · 26, 129, 150, 184, 187
+  190 · group 16 · advancing, 187 · 129, 150, 184, 187
+  191 · group 16 · number, 150 · 129, 150
+  192 · group 16 · prime, 191 · 129, 150, 191
+  193 · group 17 · parity, 27 · 4, 10, 12, 13, 16, 20, 27
+  194 · group 17 · prior, 96 · 7, 12, 13, 16, 20, 27, 51, 96
+  195 · group 17 · changing, 73 · 7, 12, 13, 20, 27, 51, 73
+  196 · group 17 · co-competencing, 156 · 11, 12, 13, 16, 19, 20, 52, 156
+  197 · group 18 · resolving, 124 · 4, 7, 12, 26, 27, 29, 35, 51, 72, 73, 81, 96, 103, 124
+  198 · group 18 · now, 72 · 7, 72
+  199 · group 18 · self, 12 · 7, 12
+  200 · group 18 · Observing, 7 · 7
+  201 · group 19 · right, 122 · 1, 7, 11, 12, 16, 73, 81, 96, 122
+  202 · group 19 · right, 122 · 122
+  203 · group 19 · number, 150 · 27, 129, 150
+  204 · group 19 · all or none at all, 125 · 19, 24, 125
+  205 · group 19 · natural-, 204 · 1, 73, 88, 107, 204
+  206 · group 20 · momentary, 50 · 50
+  207 · group 20 · momentary, 50 · 4, 50
+  208 · group 20 · value, 200 · 200
+  209 · group 20 · advancing, 187 · 72, 73, 103, 106, 187
+  210 · group 20 · now, 72 · 10, 11, 12, 50, 72
+  211 · group 20 · advancing, 187 · 50, 73, 103, 126, 129, 150, 187
+  212 · group 21 · record, 198 · 73, 103, 198
+  213 · group 21 · changing, 73 · 7, 24, 50, 73
+  214 · group 21 · changing going on, 213 · 4, 50, 73, 213
+  215 · group 21 · four momentaries, 133 · 7, 26, 50, 73, 103, 133
+  216 · group 21 · method, 103 · 6, 7, 103
+  217 · group 21 · prior, 96 · 7, 96
+  218 · group 21 · hard problem, 212 · 6, 7, 72, 124, 200, 212
+  219 · group 21 · momentary, 50 · 6, 24, 50
+  220 · group 21 · prior, 96 · 4, 7, 60, 72, 96
+  221 · group 21 · between, 88 · 7, 12, 21, 50, 72, 81, 88
+  222 · group 21 · ghost, 221 · 7, 12, 21, 27, 50, 51, 81, 197, 221
+  223 · group 21 · form still outside possibly existing, 207 · 1, 7, 11, 12, 73, 81, 88, 124, 168, 198, 207
+  224 · group 22 · self's parity, 197 · 12, 27, 197
+  225 · group 22 · machine, 224 · 4, 12, 13, 16, 20, 79, 96, 224
+  226 · group 22 · machine, 224 · 4, 16, 129, 150, 224
+  227 · group 22 · machine, 224 · 12, 26, 96, 224
+  228 · group 22 · machine, 224 · 13, 16, 19, 20, 27, 224
+  229 · group 22 · machine, 224 · 12, 13, 16, 19, 20, 27, 197, 224
+  230 · group 22 · machine, 224 · 7, 13, 16, 20, 224
+  231 · group 22 · intelligence, 229 · 4, 7, 13, 16, 19, 20, 27, 79, 96, 224, 229
+  232 · group 23 · four momentaries, 133 · 50, 51, 131, 133
+  233 · group 23 · self, 12 · 12
+  234 · group 23 · 17, 233 · 50, 51, 131, 133, 233
+  235 · group 23 · 17, 233 · 135, 233
+  236 · group 23 · 17, 233 · 27, 142, 233
+  237 · group 23 · value, 200 · 26, 27, 96, 129, 142, 150, 200
+  238 · group 23 · 17, 233 · 7, 12, 26, 27, 135, 232, 233
+  239 · group 23 · next scale, 135 · 12, 24, 26, 49, 135
+  240 · group 23 · uni-, 179 · 7, 12, 24, 26, 49, 179
+  241 · group 23 · 17, 233 · 49, 50, 88, 233
+  242 · group 23 · 17, 233 · 4, 12, 24, 26, 50, 233
+  243 · group 23 · 17, 233 · 24, 51, 88, 233
+  244 · group 23 · self's parity, 197 · 12, 24, 26, 27, 51, 56, 88, 197
+  245 · group 23 · self's parity, 197 · 12, 24, 26, 27, 56, 197
+  246 · group 23 · fractal co-chaining, 245 · 4, 12, 16, 18, 24, 49, 56, 79, 96, 245
+  247 · group 23 · 17, 233 · 7, 12, 16, 18, 24, 26, 49, 50, 135, 232, 233
+  248 · group 23 · 17, 233 · 12, 49, 51, 99, 232, 233
+  249 · group 23 · 17, 233 · 7, 12, 24, 27, 49, 50, 197, 233
+  250 · group 23 · 17, 233 · 12, 24, 26, 49, 73, 93, 99, 155, 156, 233
+  251 · group 23 · self's parity, 197 · 4, 7, 12, 26, 27, 34, 72, 79, 96, 122, 197
+  252 · group 23 · going along, 249 · 7, 12, 92, 96, 118, 122, 249
+  253 · group 23 · morality across, 251 · 24, 50, 60, 73, 88, 103, 142, 233, 251
+  254 · group 23 · handshake, 132 · 7, 96, 122, 132
+  255 · group 23 · morality across, 251 · 12, 24, 44, 46, 49, 52, 251
+  256 · group 23 · same-existing-society, 49 · 4, 7, 12, 26, 27, 49
+  257 · group 24 · changing, 73 · 27, 73
+  258 · group 24 · sharing, 257 · 7, 12, 27, 72, 96, 257
+  259 · group 24 · sharing, 257 · 4, 7, 10, 11, 12, 27, 49, 50, 56, 72, 88, 129, 150, 233, 257
+  260 · group 24 · sharing, 257 · 7, 12, 24, 26, 27, 49, 93, 94, 95, 124, 197, 233, 257
+  261 · group 24 · parity, 27 · 27
+  262 · group 24 · sharing, 257 · 7, 12, 27, 50, 51, 72, 96, 129, 150, 257
+  263 · group 24 · seventeen names, 259 · 103, 259
+  264 · group 24 · resolver, 263 · 26, 62, 103, 259, 263
+  265 · group 24 · prior, 96 · 7, 12, 27, 72, 96
+  266 · group 24 · resolver, 263 · 7, 12, 27, 96, 257, 263
+  267 · group 24 · podal, 137 · 12, 124, 137
+  268 · group 24 · opening, 51 · 26, 51
+  269 · group 24 · none
+  270 · group 24 · resolver, 263 · 7, 12, 27, 50, 96, 257, 263
+  271 · group 24 · sharing, 257 · 12, 26, 27, 29, 35, 88, 93, 168, 257
+  272 · group 24 · surface, 168 · 27, 29, 35, 125, 129, 150, 168
+  273 · group 24 · sharing, 257 · 6, 12, 72, 73, 96, 124, 257
+  274 · group 24 · resolver, 263 · 6, 12, 26, 27, 29, 35, 73, 168, 257, 263
+  275 · group 24 · changing with 12, 273 · 6, 11, 12, 24, 49, 55, 73, 257, 273
+  276 · group 24 · prior, 96 · 4, 7, 10, 12, 26, 27, 29, 50, 88, 96
+  277 · group 24 · sharing, 257 · 4, 7, 12, 26, 27, 29, 35, 41, 50, 72, 88, 93, 96, 257
+  278 · group 24 · sharing, 257 · 27, 73, 96, 257
+  279 · group 24 · sharing, 257 · 50, 96, 257
+  280 · group 24 · entry, 265 · 12, 50, 264, 265
+  281 · group 24 · entry, 265 · 6, 7, 12, 26, 27, 50, 72, 265
+  282 · group 24 · surfacing with 14, 271 · 4, 7, 12, 24, 26, 27, 29, 35, 50, 51, 73, 79, 96, 97, 103, 124, 257, 263, 271
+  283 · group 24 · resolver, 263 · 12, 13, 16, 20, 27, 73, 96, 263
+  284 · group 24 · surfacing with 14, 271 · 7, 11, 12, 15, 50, 72, 96, 257, 271
+  285 · group 24 · prior, 96 · 7, 12, 72, 96
+  286 · group 24 · resolver, 263 · 12, 24, 27, 88, 156, 263
+  287 · group 24 · self's five, 143 · 4, 11, 12, 143
+  288 · group 24 · sharing, 257 · 4, 7, 12, 26, 27, 50, 72, 96, 99, 257
+  289 · group 24 · number, 150 · 6, 73, 129, 150
+  290 · group 24 · five dimensions, 287 · 15, 24, 156, 263, 266, 281, 287
+  291 · group 24 · entry, 265 · 4, 12, 15, 24, 27, 41, 79, 88, 96, 103, 233, 257, 265
+  292 · group 24 · momentary, 50 · 27, 50
+  293 · group 24 · going along, 249 · 7, 12, 27, 29, 88, 249
+  294 · group 24 · going along, 249 · 12, 24, 26, 27, 49, 232, 233, 249
+  295 · group 24 · entry, 265 · 12, 49, 50, 51, 96, 124, 265
+  296 · group 24 · entry, 265 · 12, 27, 50, 96, 263, 265
+  297 · group 24 · resolver, 263 · 12, 49, 263
+  298 · group 24 · sharing, 257 · 11, 88, 142, 233, 257
+  299 · group 24 · between, 88 · 6, 12, 27, 29, 88
+  300 · group 24 · sharing, 257 · 7, 10, 12, 24, 26, 27, 50, 72, 88, 92, 96, 142, 197, 232, 233, 257
+  301 · group 24 · six names between selves, 298 · 10, 11, 88, 142, 233, 298
+  302 · group 24 · sharing, 257 · 7, 12, 24, 27, 34, 35, 96, 124, 197, 233, 257
+  303 · group 24 · 17, 233 · 1, 4, 6, 7, 10, 51, 69, 72, 88, 233
+  304 · group 24 · now, 72 · 4, 50, 72
+  305 · group 24 · sharing, 257 · 7, 12, 26, 27, 50, 51, 96, 129, 150, 257
+  306 · group 24 · spiral, 305 · 12, 27, 29, 50, 92, 129, 150, 305
+  307 · group 24 · spiral, 305 · 12, 26, 27, 50, 51, 92, 129, 150, 305
+  308 · group 24 · spiral, 305 · 7, 12, 27, 34, 50, 305
+  309 · group 24 · bi-coupling, 24 · 7, 12, 24
+  310 · group 24 · spiral, 305 · 26, 27, 50, 51, 129, 150, 191, 192, 257, 263, 305
+  311 · group 24 · spiral, 305 · 12, 129, 150, 191, 192, 305
+  312 · group 24 · spiral, 305 · 12, 24, 26, 27, 81, 96, 129, 150, 257, 278, 305
+  313 · group 24 · sharing, 257 · 26, 29, 34, 50, 73, 249, 257
+  314 · group 24 · spiral, 305 · 4, 12, 24, 73, 88, 96, 142, 273, 305
+  315 · group 24 · going along with 9, 292 · 24, 27, 88, 249, 257, 292
+  316 · group 24 · spiral, 305 · 4, 12, 16, 18, 24, 26, 49, 50, 62, 81, 129, 135, 150, 257, 305
+  317 · group 24 · spiral, 305 · 26, 129, 150, 305
+  318 · group 24 · between, 88 · 88
+  319 · group 24 · spiral, 305 · 10, 12, 24, 26, 27, 51, 96, 129, 150, 153, 174, 176, 257, 263, 264, 278, 305
+  320 · group 24 · resolver, 263 · 6, 11, 72, 73, 96, 174, 263
+  321 · group 24 · resolver, 263 · 12, 16, 26, 27, 50, 174, 184, 233, 263
+  322 · group 24 · bi-coupling, 24 · 12, 24
+  323 · group 24 · bi-coupling, 24 · 7, 24
+  324 · group 24 · entry, 265 · 7, 12, 27, 50, 96, 233, 265
+  325 · group 24 · resolver, 263 · 7, 11, 12, 129, 150, 263
+  326 · group 24 · six names between selves, 298 · 7, 27, 29, 88, 124, 142, 232, 233, 257, 263, 298
+  327 · group 24 · six names between selves, 298 · 12, 88, 124, 142, 298
+  328 · group 24 · entry, 265 · 12, 88, 142, 259, 265
+  329 · group 24 · kind, 309 · 4, 7, 10, 11, 50, 72, 233, 309
+  330 · group 24 · self, 12 · 12
+  331 · group 24 · resolving, 124 · 12, 73, 96, 124
+  332 · group 24 · number, 150 · 12, 24, 26, 72, 129, 150
+  333 · group 24 · 17, 233 · 233
+  334 · group 24 · between, 88 · 51, 88
+  335 · group 24 · Exhibit ONE, 264 · 26, 81, 233, 264
+  336 · group 24 · number, 150 · 12, 50, 129, 131, 133, 150
+  337 · group 24 · four bi-foldings, 335 · 233, 335
+  338 · group 24 · spiral, 305 · 12, 24, 50, 62, 103, 133, 265, 280, 305
+  339 · group 24 · spiral, 305 · 27, 62, 129, 150, 264, 305
+  340 · group 24 · number, 150 · 129, 150
+  341 · group 24 · pair, 92 · 26, 92
+  342 · group 25 · two priors, 285 · 10, 12, 26, 49, 50, 51, 72, 96, 129, 150, 233, 285
+  343 · group 25 · number, 150 · 73, 129, 137, 150
+  344 · group 25 · opening, 51 · 49, 51
+  345 · group 25 · 55, 344 · 92, 129, 150, 344
+  346 · group 25 · 55, 344 · 92, 129, 150, 344
+  347 · group 25 · prime, 191 · 168, 191
+  348 · group 25 · 17, 233 · 233
+  349 · group 25 · prime, 191 · 88, 191
+  350 · group 25 · surface, 168 · 129, 150, 168
+  351 · group 25 · surface, 168 · 88, 168
+  352 · group 25 · number, 150 · 129, 150
+  353 · group 25 · four hundred forty, 347 · 129, 150, 347
+  354 · group 26 · opening, 51 · 50, 51
+  355 · group 26 · number, 150 · 26, 50, 129, 150
+  356 · group 26 · odd and even, 355 · 50, 355
+  357 · group 26 · prior, 96 · 50, 88, 96
+  358 · group 26 · odd and even, 355 · 26, 50, 355
+  359 · group 26 · four-cycling, 358 · 12, 49, 358
+  360 · group 27 · prime, 191 · 191
+  361 · group 27 · to fifty-nine, 360 · 191, 360
+  362 · group 27 · surface, 168 · 168
+  363 · group 27 · 17, 233 · 92, 142, 191, 233
+  364 · group 27 · prime, 191 · 35, 191
+  365 · group 27 · parting, 35 · 35
+  366 · group 27 · number, 150 · 129, 150
+  367 · group 27 · prime, 191 · 88, 191
+  368 · group 27 · fold across, 364 · 12, 191, 364
+  369 · group 27 · self, 12 · 12
+  370 · group 27 · 17, 233 · 12, 49, 191, 233
+  371 · group 27 · value, 200 · 88, 142, 191, 200
+  372 · group 27 · to fifty-nine, 360 · 142, 191, 233, 360
+  373 · group 27 · six, 142 · 142
+  374 · group 27 · towel, 268 · 268
+  375 · group 27 · to fifty-nine, 360 · 202, 360
+  376 · group 28 · same-existing along, 154 · 4, 12, 29, 50, 81, 88, 96, 154
+  377 · group 28 · resolving, 124 · 4, 12, 21, 72, 81, 96, 124
+  378 · group 28 · record, 198 · 4, 21, 24, 50, 81, 96, 198
+  379 · group 28 · Discovering, 11 · 4, 6, 11
+  380 · group 28 · changing, 73 · 4, 60, 72, 73
+  381 · group 28 · method, 103 · 1, 4, 11, 12, 16, 26, 49, 73, 103
+  382 · group 28 · entry, 265 · 11, 12, 16, 24, 27, 72, 88, 103, 257, 265
+  383 · group 28 · four-momentarying, 381 · 12, 184, 185, 381
+  384 · group 28 · five dimensions, 287 · 142, 287
+  385 · group 28 · entry, 265 · 4, 6, 10, 12, 26, 27, 70, 96, 265
+  386 · group 28 · prior, 96 · 7, 96
+  387 · group 28 · receives, 34 · 12, 24, 26, 27, 34
+  388 · group 28 · between, 88 · 1, 7, 12, 26, 50, 73, 88
+  389 · group 28 · hard problem, 212 · 1, 7, 12, 24, 26, 88, 212
+  390 · group 28 · momentarying, 384 · 4, 6, 12, 16, 27, 29, 34, 73, 384
+  391 · group 28 · momentarying, 384 · 4, 10, 12, 29, 60, 73, 96, 124, 273, 384
+  392 · group 28 · sharing, 257 · 27, 29, 88, 124, 257
+  393 · group 28 · momentary, 50 · 4, 10, 12, 27, 34, 50
+  394 · group 28 · spiral, 305 · 7, 10, 12, 21, 26, 27, 29, 34, 50, 51, 73, 81, 96, 97, 103, 217, 263, 305
+  395 · group 28 · prior, 96 · 4, 7, 10, 12, 16, 72, 96
+  396 · group 28 · geodesic method, 172 · 60, 103, 172
+  397 · group 28 · two methods, 396 · 50, 88, 103, 396
+  398 · group 28 · method, 103 · 10, 11, 27, 60, 82, 103
+  399 · group 28 · other-emptying, 219 · 4, 219
+  400 · group 28 · ghost, 221 · 4, 7, 10, 12, 72, 88, 96, 221
+  401 · group 28 · none
+  402 · group 28 · none
+  403 · group 28 · going along, 249 · 7, 51, 56, 124, 212, 218, 249
+  404 · group 28 · sharing, 257 · 7, 27, 49, 96, 257
+  405 · group 28 · field, 404 · 88, 404
+  406 · group 28 · field, 404 · 7, 404
+  407 · group 28 · field, 404 · 1, 4, 7, 16, 26, 50, 51, 72, 79, 96, 198, 212, 395, 404
+  408 · group 28 · prior, 96 · 4, 72, 79, 96
+  409 · group 28 · field, 404 · 7, 26, 56, 249, 404
+  410 · group 28 · field, 404 · 1, 7, 12, 26, 257, 404
+  411 · group 28 · parting, 35 · 35
+  412 · group 28 · field, 404 · 7, 10, 12, 404
+  413 · group 28 · prior, 96 · 1, 7, 12, 16, 20, 72, 96
+  414 · group 28 · field, 404 · 7, 11, 12, 16, 20, 27, 72, 96, 257, 263, 264, 265, 404
+  415 · group 28 · field, 404 · 11, 16, 124, 404
+  416 · group 28 · field, 404 · 7, 56, 124, 212, 249, 404
+  417 · group 28 · resolving, 124 · 12, 124
+  418 · group 28 · self and other, 93 · 12, 24, 26, 73, 88, 93
+  419 · group 28 · bi-coupling with two of its three, 418 · 24, 26, 27, 50, 73, 418
+  420 · group 28 · changing fixing unchangeable, 419 · 73, 212, 404, 419
+  421 · group 28 · field, 404 · 7, 12, 88, 212, 404
+  422 · group 28 · between, 88 · 7, 35, 88
+  423 · group 28 · field, 404 · 12, 29, 73, 404
+  424 · group 28 · field, 404 · 7, 12, 26, 96, 198, 386, 404
+  425 · group 28 · changing fixing unchangeable, 419 · 62, 73, 81, 88, 419
+  426 · group 28 · changing fixing unchangeable, 419 · 4, 12, 73, 88, 212, 419
+  427 · group 29 · method, 103 · 24, 103
+  428 · group 29 · method, 103 · 24, 73, 103
+  429 · group 29 · resolving, 124 · 4, 6, 7, 12, 24, 72, 73, 79, 96, 124
+  430 · group 29 · method, 103 · 15, 24, 88, 103
+  431 · group 29 · method, 103 · 12, 24, 27, 51, 96, 103
+  432 · group 29 · opening, 51 · 12, 24, 51
+  433 · group 29 · sharing, 257 · 12, 72, 233, 249, 257
+  434 · group 29 · bi-coupling completing, 431 · 4, 12, 24, 50, 51, 431
+  435 · group 29 · momentarying, 384 · 4, 50, 81, 88, 384
+  436 · group 29 · method, 103 · 4, 12, 16, 50, 103
+  437 · group 29 · sharing, 257 · 12, 24, 26, 34, 61, 124, 257
+  438 · group 29 · sharing, 257 · 4, 7, 12, 26, 27, 50, 79, 96, 257
+  439 · group 29 · entry, 265 · 7, 12, 26, 27, 29, 249, 257, 265
+  440 · group 29 · sharing, 257 · 7, 12, 24, 26, 27, 197, 249, 257
+  441 · group 29 · method, 103 · 7, 12, 24, 103
+  442 · group 29 · between, 88 · 4, 7, 24, 50, 51, 88
+  443 · group 29 · momentary, 50 · 10, 11, 12, 24, 50
+  444 · group 29 · resolving with a bi-coupling, 429 · 7, 10, 24, 88, 124, 429
+  445 · group 29 · going along, 249 · 12, 24, 50, 51, 131, 133, 233, 249
+  446 · group 29 · number, 150 · 103, 129, 150
+  447 · group 29 · surface, 168 · 12, 51, 103, 129, 150, 168
+  448 · group 29 · podaling inward, 446 · 12, 24, 103, 129, 150, 168, 446
+  449 · group 29 · between, 88 · 4, 11, 12, 24, 50, 73, 81, 88
+  450 · group 29 · self discovering next self, 449 · 11, 12, 50, 81, 449
+  451 · group 29 · φ, 184 · 24, 26, 56, 96, 184
+  452 · group 30 · 17, 233 · 233
+  453 · group 30 · scale inward, 452 · 233, 452
+  454 · group 30 · 17, 233 · 12, 49, 50, 133, 232, 233
+  455 · group 30 · scale inward, 452 · 12, 26, 49, 93, 452
+  456 · group 30 · self, 12 · 12
+  457 · group 30 · 17, 233 · 49, 232, 233
+  458 · group 30 · entry, 265 · 72, 88, 233, 265
+  459 · group 30 · scale inward, 452 · 12, 24, 61, 103, 233, 288, 452
+  460 · group 30 · 17, 233 · 26, 27, 92, 233
+  461 · group 30 · next scale, 135 · 61, 135
+  462 · group 30 · 17, 233 · 12, 16, 19, 24, 44, 46, 49, 52, 61, 229, 233
+  463 · group 30 · co-momentarying, 288 · 1, 26, 61, 82, 88, 103, 233, 288
+  464 · group 30 · sharing, 257 · 4, 12, 16, 24, 26, 27, 103, 257
+  465 · group 30 · surface, 168 · 7, 26, 27, 129, 150, 168
+  466 · group 31 · scales, 463 · 12, 16, 20, 21, 24, 50, 81, 82, 288, 463
+  467 · group 31 · bi-tri-involutioning, 202 · 16, 21, 24, 81, 176, 202
+  468 · group 31 · stable-forming emanations, 467 · 4, 12, 16, 21, 81, 202, 463, 467
+  469 · group 31 · stable-forming emanations, 467 · 4, 12, 16, 21, 81, 463, 467
+  470 · group 31 · stable-forming emanations, 467 · 16, 18, 21, 49, 62, 81, 452, 463, 467
+  471 · group 31 · stable-forming emanations, 467 · 16, 21, 81, 88, 452, 463, 467
+  472 · group 31 · stable-forming emanations, 467 · 4, 12, 16, 20, 21, 27, 50, 62, 81, 88, 96, 124, 384, 463, 467
+  473 · group 31 · stable-forming emanations, 467 · 7, 10, 12, 16, 20, 21, 27, 50, 72, 81, 88, 96, 249, 257, 292, 384, 463, 467
+  474 · group 31 · scales, 463 · 24, 49, 62, 88, 122, 176, 305, 463
+  475 · group 31 · stable-forming emanations, 467 · 12, 16, 20, 21, 24, 27, 29, 50, 81, 88, 249, 467
+  476 · group 31 · scales, 463 · 1, 4, 12, 16, 18, 20, 27, 49, 50, 62, 81, 124, 463
+  477 · group 31 · momentarying, 384 · 1, 4, 11, 12, 16, 18, 49, 50, 79, 96, 103, 384
+  478 · group 31 · number, 150 · 4, 12, 16, 129, 150
+  479 · group 31 · scales, 463 · 11, 16, 18, 62, 81, 463
+  480 · group 31 · stable-forming emanations, 467 · 12, 16, 20, 21, 26, 50, 62, 81, 96, 463, 467
+  481 · group 31 · non-living, 20 · 4, 5, 10, 20
+  482 · group 31 · non-living, 20 · 4, 10, 12, 16, 20
+  483 · group 31 · prior, 96 · 4, 12, 16, 18, 49, 96
+  484 · group 31 · co-momentarying, 288 · 4, 7, 10, 12, 20, 24, 27, 28, 51, 96, 168, 257, 263, 288
+  485 · group 31 · prior, 96 · 4, 12, 16, 20, 96
+  486 · group 31 · scales, 463 · 7, 10, 12, 16, 49, 61, 233, 463
+  487 · group 31 · scales, 463 · 1, 4, 12, 13, 16, 20, 23, 27, 49, 61, 73, 79, 81, 96, 103, 197, 463
+  488 · group 31 · Living, 16 · 16
+  489 · group 32 · scales, 463 · 4, 12, 16, 18, 49, 50, 72, 96, 280, 452, 463
+  490 · group 32 · scales, 463 · 4, 12, 16, 49, 73, 79, 96, 384, 463
+  491 · group 32 · scales, 463 · 4, 12, 16, 20, 79, 82, 96, 463
+  492 · group 32 · scales, 463 · 12, 20, 463
+  493 · group 32 · harmful with its own scale, 468 · 12, 16, 20, 21, 26, 81, 463, 467, 468
+  494 · group 32 · stable-forming emanations, 467 · 4, 12, 21, 24, 26, 27, 50, 73, 79, 81, 96, 257, 467
+  495 · group 32 · scales, 463 · 4, 12, 16, 18, 20, 24, 49, 51, 96, 135, 441, 463
+  496 · group 32 · completing, 51 · 4, 12, 16, 18, 24, 49, 51
+  497 · group 32 · spiral, 305 · 1, 4, 26, 50, 51, 72, 88, 96, 122, 305
+  498 · group 32 · bi-tri-involutioning, 202 · 202
+  499 · group 32 · spiral, 305 · 11, 51, 73, 97, 122, 184, 305
+  500 · group 32 · dying, 491 · 16, 20, 96, 491
+  501 · group 32 · changing and changing back, 97 · 12, 16, 24, 26, 50, 73, 97
+  502 · group 32 · changing and changing back, 97 · 11, 12, 16, 24, 73, 97
+  503 · group 32 · restoring, 502 · 7, 12, 16, 73, 97, 404, 501, 502
+  504 · group 32 · living self, 503 · 10, 12, 16, 17, 26, 27, 34, 49, 56, 73, 96, 249, 257, 263, 305, 491, 500, 503
+  505 · group 32 · scales, 463 · 4, 7, 50, 96, 122, 463
+  506 · group 33 · 24, 366 · 12, 360, 366
+  507 · group 33 · opening, 51 · 51
+  508 · group 33 · none
+  509 · group 33 · 17, 233 · 129, 150, 168, 191, 233
+  510 · group 33 · scales, 463 · 168, 463
+  511 · group 33 · position, 510 · 4, 26, 168, 463, 472, 510
+  512 · group 33 · bi-tri-volutioning, 472 · 122, 129, 150, 184, 185, 472
+  513 · group 33 · φ, 184 · 26, 29, 184
+  514 · group 33 · spiral, 305 · 7, 12, 96, 118, 122, 305
+  515 · group 33 · φ, 184 · 88, 184
+  516 · group 33 · six, 142 · 35, 142
+  517 · group 33 · sharing, 257 · 7, 12, 26, 27, 49, 73, 88, 142, 168, 233, 257
+  518 · group 33 · twelve corners, 515 · 26, 51, 73, 168, 174, 176, 515
+  519 · group 33 · torus, 174 · 129, 150, 174
+  520 · group 33 · same-existing-society's next momentary with 17, 295 · 7, 12, 16, 18, 27, 49, 50, 72, 88, 96, 174, 233, 249, 257, 292, 295
+  521 · group 33 · unrelationing surface with 12, 517 · 21, 26, 62, 73, 81, 168, 176, 467, 517
+  522 · group 33 · position, 510 · 168, 202, 463, 510
+  523 · group 33 · number, 150 · 50, 129, 131, 133, 150
+  524 · group 33 · number, 150 · 92, 129, 150
+  525 · group 33 · momentarying, 384 · 50, 73, 88, 92, 233, 358, 384
+  526 · group 33 · 64, 525 · 50, 133, 168, 202, 524, 525
+  527 · group 33 · scales, 463 · 16, 202, 463
+  528 · group 33 · podaling outward, 447 · 122, 447
+  529 · group 33 · 69, 528 · 81, 103, 122, 168, 202, 472, 524, 525, 528
+  530 · group 34 · momentary, 50 · 26, 50
+  531 · group 34 · number, 150 · 129, 150
+  532 · group 34 · self, 12 · 12
+  533 · group 34 · bi-co-momentarying, 164 · 12, 24, 26, 88, 93, 156, 164
+  534 · group 34 · co-linear lines, 530 · 24, 118, 122, 305, 530
+  535 · group 34 · geodesic method, 172 · 26, 60, 103, 172
+  536 · group 34 · between, 88 · 24, 56, 88
+  537 · group 34 · position, 510 · 24, 202, 463, 510
+  538 · group 34 · competency, 532 · 49, 51, 52, 56, 88, 168, 532
+  539 · group 34 · bi-tunneling, 538 · 24, 26, 168, 176, 538
+  540 · group 34 · stable-forming emanations, 467 · 4, 5, 6, 7, 12, 16, 21, 24, 26, 27, 29, 35, 50, 51, 73, 79, 81, 88, 96, 168, 249, 257, 292, 384, 467
+  541 · group 34 · stable-forming emanations, 467 · 4, 7, 12, 21, 27, 29, 50, 73, 81, 88, 155, 249, 257, 292, 467
+  542 · group 34 · sharing, 257 · 73, 257
+  543 · group 34 · surface, 168 · 4, 12, 24, 26, 88, 164, 168
+  544 · group 34 · parity a self is observing, 541 · 7, 12, 24, 27, 29, 73, 164, 249, 257, 263, 273, 305, 541
+  545 · group 34 · sharing, 257 · 4, 11, 12, 26, 93, 257
+  546 · group 34 · bi-momentarying, 281 · 15, 24, 26, 73, 156, 281
+  547 · group 34 · bi-momentarying, 281 · 26, 257, 281
+  548 · group 34 · sharing, 257 · 26, 257
+  549 · group 34 · sharing, 257 · 7, 12, 24, 26, 27, 29, 73, 88, 96, 97, 257
+  550 · group 34 · scales, 463 · 26, 73, 88, 97, 404, 463
+  551 · group 34 · scales, 463 · 35, 49, 404, 452, 463
+  552 · group 34 · field, 404 · 24, 88, 404
+  553 · group 34 · position, 510 · 1, 12, 88, 107, 168, 404, 463, 510
+  554 · group 34 · position, 510 · 7, 16, 27, 63, 96, 124, 129, 150, 168, 198, 386, 404, 510
+  555 · group 34 · between, 88 · 12, 29, 88
+  556 · group 34 · floating neutralling, 548 · 10, 11, 16, 60, 88, 167, 184, 548
+  557 · group 34 · going along, 249 · 27, 51, 249
+  558 · group 34 · parting, 35 · 26, 35
+  559 · group 34 · inseparating, 558 · 88, 558
+  560 · group 34 · bi-momentarying, 281 · 26, 257, 281
+  561 · group 34 · drawing, 327 · 24, 26, 49, 327
+  562 · group 34 · pattern-matching, 386 · 12, 24, 27, 96, 200, 386
+  563 · group 34 · sharing, 257 · 16, 26, 27, 49, 249, 257
+  564 · group 34 · bi-coupling, 24 · 24
+  565 · group 34 · competency, 532 · 73, 251, 532
+  566 · group 34 · bi-moral co-agency, 565 · 27, 34, 73, 565
+  567 · group 34 · stable-forming emanations, 467 · 1, 7, 11, 12, 16, 19, 21, 29, 49, 81, 88, 103, 209, 229, 467
+  568 · group 34 · momentarying, 384 · 27, 50, 73, 88, 384
+  569 · group 34 · competency, 532 · 24, 27, 29, 88, 532
+  570 · group 34 · competency, 532 · 12, 24, 27, 73, 532
+  571 · group 34 · sharing, 257 · 4, 50, 51, 73, 125, 204, 213, 257
+  572 · group 34 · competency, 532 · 4, 12, 24, 26, 49, 52, 61, 72, 88, 275, 532
+  573 · group 34 · four of social moral competency, 572 · 12, 24, 26, 27, 49, 51, 52, 197, 257, 532, 572
+  574 · group 34 · parities passing, 315 · 7, 12, 24, 26, 27, 49, 88, 142, 249, 257, 315
+  575 · group 34 · position, 510 · 24, 26, 49, 510
+  576 · group 34 · abundancing, 275 · 4, 7, 12, 24, 26, 27, 88, 96, 200, 275
+  577 · group 34 · opening, 51 · 10, 49, 51
+  578 · group 34 · competency, 532 · 4, 12, 24, 49, 432, 463, 532
+  579 · group 34 · self's changings, 494 · 12, 49, 50, 73, 124, 273, 327, 494
+  580 · group 34 · 12's changing with a same-existing-society, 579 · 49, 56, 73, 88, 249, 257, 366, 579
+  581 · group 34 · scales, 463 · 12, 26, 88, 229, 463
+  582 · group 34 · competency, 532 · 6, 10, 11, 12, 24, 26, 49, 56, 73, 156, 191, 250, 257, 532
+  583 · group 34 · 55, 344 · 12, 24, 51, 55, 257, 275, 344
+  584 · group 34 · competency, 532 · 7, 24, 26, 27, 49, 52, 57, 88, 103, 142, 168, 232, 233, 257, 263, 298, 532
+  585 · group 34 · stopping, 560 · 4, 12, 24, 26, 27, 50, 96, 110, 129, 150, 197, 257, 263, 393, 560
+  586 · group 34 · competency, 532 · 4, 12, 46, 49, 50, 52, 54, 72, 124, 380, 532
+  587 · group 34 · surface, 168 · 7, 12, 24, 26, 49, 103, 125, 168
+  588 · group 34 · surface, 168 · 1, 7, 12, 24, 27, 107, 168
+  589 · group 34 · floating neutralling, 548 · 10, 12, 20, 24, 27, 103, 110, 548
+  590 · group 34 · number, 150 · 4, 12, 26, 27, 49, 125, 129, 150
+  591 · group 34 · sharing, 257 · 10, 11, 12, 26, 29, 49, 88, 129, 150, 168, 257
+  592 · group 34 · competency, 532 · 7, 12, 16, 50, 52, 72, 257, 532
+  593 · group 34 · living self, 503 · 4, 12, 16, 20, 503
+  594 · group 34 · between, 88 · 12, 24, 49, 73, 88
+  595 · group 34 · scales, 463 · 24, 27, 88, 96, 233, 463
+  596 · group 34 · momentarying, 384 · 11, 12, 24, 49, 50, 51, 69, 72, 103, 131, 133, 384
+  597 · group 35 · competency, 532 · 7, 73, 532
+  598 · group 35 · flow accounting, 597 · 4, 73, 597
+  599 · group 35 · state accounting, 598 · 4, 73, 209, 229, 404, 559, 597, 598
+  600 · group 35 · five dimensions, 287 · 50, 287
+  601 · group 35 · five dimensions, 287 · 50, 287
+  602 · group 35 · parity, 27 · 26, 27
+  603 · group 35 · changing, 73 · 50, 73
+  604 · group 35 · ten unchangeables, 599 · 15, 263, 281, 599
+  605 · group 35 · ten, 604 · 12, 27, 50, 88, 96, 197, 473, 604
+  606 · group 35 · podal, 137 · 137
+  607 · group 35 · 17, 233 · 26, 73, 137, 233
+  608 · group 35 · involution, 607 · 26, 92, 131, 212, 604, 607
+  609 · group 35 · scales, 463 · 233, 463
+  610 · group 35 · between, 88 · 88
+  611 · group 35 · none
+  612 · group 35 · none
+  613 · group 35 · resolver, 263 · 51, 88, 233, 263
+  614 · group 35 · two-way looping, 612 · 24, 135, 233, 463, 612
+  615 · group 35 · ten, 604 · 1, 4, 6, 7, 27, 29, 51, 71, 72, 73, 88, 92, 200, 599, 604
+  616 · group 35 · ten, 604 · 4, 7, 27, 51, 88, 200, 249, 309, 597, 598, 599, 604
+  617 · group 35 · six, 142 · 27, 73, 112, 142
+  618 · group 35 · sharing, 257 · 51, 73, 97, 142, 257
+  619 · group 35 · changing, 73 · 12, 24, 27, 50, 73
+  620 · group 35 · flow-state-flow, 601 · 404, 600, 601
+  621 · group 35 · flow-state-flow, 601 · 26, 27, 29, 73, 129, 150, 600, 601
+  622 · group 35 · sharing, 257 · 12, 26, 27, 29, 37, 44, 257
+  623 · group 35 · hard problem, 212 · 1, 7, 12, 24, 26, 27, 212
+  624 · group 35 · parity, 27 · 27
+  625 · group 35 · parity, 27 · 27
+  626 · group 35 · changing, 73 · 11, 12, 16, 24, 26, 27, 60, 73
+  627 · group 35 · living self, 503 · 12, 13, 16, 20, 27, 197, 503
+  628 · group 36 · stable-forming emanations, 467 · 12, 21, 27, 51, 81, 96, 467
+  629 · group 36 · stable-forming emanations, 467 · 12, 21, 24, 26, 81, 249, 257, 467
+  630 · group 36 · sharing as words, 629 · 4, 6, 12, 73, 79, 96, 124, 257, 629
+  631 · group 36 · sharing, 257 · 257
+  632 · group 36 · naming, 631 · 11, 51, 631
+  633 · group 36 · naming, 631 · 96, 142, 631
+  634 · group 36 · naming, 631 · 12, 26, 73, 631
+  635 · group 36 · other, 26 · 26
+  636 · group 36 · definition, 635 · 51, 73, 635
+  637 · group 36 · naming, 631 · 4, 7, 27, 73, 393, 631
+  638 · group 36 · bi-coupling, 24 · 7, 10, 11, 12, 16, 24
+  639 · group 36 · other, 26 · 26
+  640 · group 36 · other, 26 · 26
+  641 · group 36 · number, 150 · 26, 35, 129, 150
+  642 · group 36 · none
+  643 · group 36 · gathering, 642 · 12, 73, 631, 642
+  644 · group 36 · sharing, 257 · 257
+  645 · group 36 · naming, 631 · 24, 50, 73, 81, 129, 150, 631
+  646 · group 36 · naming, 631 · 51, 96, 631
+  647 · group 36 · explaining, 646 · 11, 26, 73, 103, 631, 639, 646
+  648 · group 36 · living self, 503 · 1, 4, 12, 16, 24, 26, 107, 463, 503
+  649 · group 36 · prior, 96 · 10, 16, 50, 56, 96
+  650 · group 36 · naming, 631 · 12, 50, 73, 631
+  651 · group 36 · explaining, 646 · 12, 73, 88, 97, 393, 646
+  652 · group 36 · changing, 73 · 73
+  653 · group 36 · explaining, 646 · 56, 646
+  654 · group 36 · file, 653 · 7, 10, 12, 81, 639, 646, 653
+  655 · group 36 · file, 653 · 4, 7, 10, 20, 62, 124, 653
+  656 · group 36 · file, 653 · 10, 12, 27, 29, 73, 88, 653
+  657 · group 36 · file, 653 · 4, 11, 12, 16, 18, 19, 20, 24, 44, 46, 49, 50, 64, 68, 79, 96, 103, 176, 229, 525, 653
+  658 · group 36 · file, 653 · 11, 16, 52, 60, 68, 73, 103, 532, 653
+  659 · group 36 · living files, 657 · 7, 16, 20, 63, 64, 66, 67, 68, 124, 168, 169, 264, 265, 404, 525, 589, 646, 653, 657
+  660 · group 36 · file, 653 · 6, 12, 46, 73, 96, 124, 200, 257, 653
+  661 · group 36 · file, 653 · 12, 26, 46, 257, 565, 653
+  662 · group 36 · file, 653 · 7, 12, 27, 29, 168, 257, 263, 653
+  663 · group 36 · concern, 662 · 1, 26, 50, 103, 107, 662
+  664 · group 36 · prior, 96 · 4, 7, 12, 79, 96
+  665 · group 36 · concern, 662 · 12, 257, 653, 662
+  666 · group 36 · prior, 96 · 4, 46, 50, 96
+  667 · group 36 · file, 653 · 12, 29, 44, 46, 50, 73, 653
+  668 · group 36 · interest, 432 · 10, 12, 46, 73, 110, 432
+  669 · group 36 · file, 653 · 4, 12, 24, 26, 34, 73, 249, 257, 305, 653
+  670 · group 36 · file, 653 · 4, 7, 10, 11, 12, 16, 46, 68, 72, 73, 79, 96, 200, 653
+  671 · group 36 · file, 653 · 12, 46, 50, 96, 124, 200, 249, 653
+  672 · group 36 · working, 671 · 88, 198, 263, 510, 671
+  673 · group 36 · working, 671 · 62, 129, 150, 263, 386, 671
+  674 · group 36 · working, 671 · 4, 7, 10, 12, 46, 79, 96, 653, 671
+  675 · group 36 · working, 671 · 12, 16, 50, 68, 72, 96, 124, 463, 653, 671
+  676 · group 36 · session, 675 · 4, 26, 29, 79, 81, 88, 96, 249, 675
+  677 · group 36 · session, 675 · 29, 35, 49, 96, 249, 257, 463, 675
+  678 · group 36 · file, 653 · 653
+  679 · group 36 · set of files, 678 · 61, 459, 463, 653, 678
+  680 · group 36 · file, 653 · 21, 51, 56, 81, 467, 653
+  681 · group 36 · file, 653 · 56, 653
+  682 · group 36 · stable-forming emanations, 467 · 21, 81, 257, 265, 467
+  683 · group 36 · stable-forming emanations, 467 · 4, 21, 81, 124, 198, 467
+  684 · group 36 · record's edge, 683 · 7, 198, 265, 463, 683
+  685 · group 36 · stable-forming emanations, 467 · 21, 81, 257, 464, 467
+  686 · group 36 · illustrating, 685 · 50, 73, 88, 685
+  687 · group 36 · illustrating, 685 · 12, 21, 27, 73, 81, 129, 150, 467, 685
+  688 · group 36 · bounding, 639 · 7, 12, 176, 639
+  689 · group 36 · word, 687 · 4, 16, 56, 68, 79, 96, 124, 257, 629, 687
+  690 · group 36 · word, 687 · 7, 27, 88, 124, 257, 404, 629, 687
+  691 · group 36 · method, 103 · 6, 50, 72, 96, 103
+  692 · group 36 · between, 88 · 4, 24, 50, 88
+  693 · group 36 · competency, 532 · 7, 11, 16, 19, 26, 51, 56, 60, 70, 73, 103, 176, 200, 229, 532
+  694 · group 37 · 17, 233 · 233
+  695 · group 37 · further forms, 694 · 26, 73, 233, 335, 355, 694
+  696 · group 37 · 17, 233 · 26, 51, 92, 131, 233
+  697 · group 37 · number, 150 · 12, 129, 150
+  698 · group 38 · parity a self is observing, 541 · 7, 12, 27, 29, 129, 150, 168, 257, 541
+  699 · group 38 · changing and changing back, 97 · 12, 26, 27, 34, 50, 73, 96, 97
+  700 · group 38 · sharing, 257 · 5, 7, 12, 16, 27, 34, 51, 96, 124, 257
+  701 · group 38 · sharing, 257 · 12, 26, 27, 34, 50, 73, 96, 97, 249, 257
+  702 · group 38 · going along, 249 · 26, 27, 29, 34, 50, 73, 96, 249
+  703 · group 38 · spiral, 305 · 7, 12, 26, 27, 34, 50, 96, 112, 305
+  704 · group 38 · even spiral, 307 · 12, 26, 27, 29, 34, 50, 73, 249, 263, 305, 307
+  705 · group 38 · spiral, 305 · 7, 12, 26, 27, 29, 34, 50, 73, 96, 174, 249, 257, 305
+  706 · group 38 · even spiral, 307 · 7, 12, 26, 27, 34, 50, 129, 133, 150, 305, 307
+  707 · group 39 · resolver, 263 · 4, 7, 12, 26, 27, 72, 96, 124, 168, 233, 263
+  708 · group 39 · further forms, 694 · 92, 233, 694
+  709 · group 39 · four bi-foldings, 335 · 233, 335
+  710 · group 39 · sixteen ways, 113 · 26, 27, 35, 72, 73, 96, 113
+  711 · group 39 · number, 150 · 10, 12, 29, 72, 96, 129, 142, 150
+  712 · group 40 · scales, 463 · 27, 49, 129, 137, 150, 233, 463
+  713 · group 40 · 17, 233 · 27, 233
+  714 · group 40 · number, 150 · 26, 27, 28, 88, 129, 150
+  715 · group 40 · number, 150 · 26, 27, 51, 92, 129, 150
+  716 · group 40 · podal, 137 · 7, 12, 26, 27, 51, 92, 131, 137
+  717 · group 41 · Exhibit ONE, 264 · 4, 12, 26, 27, 28, 29, 50, 96, 142, 257, 263, 264
+  718 · group 41 · two selves, 701 · 4, 12, 13, 20, 26, 27, 34, 50, 51, 79, 96, 249, 257, 264, 701
+  719 · group 41 · Exhibit ONE, 264 · 12, 27, 28, 29, 96, 257, 264
+  720 · group 41 · spiral, 305 · 7, 12, 26, 27, 34, 50, 96, 168, 249, 257, 305
+  721 · group 41 · spiral, 305 · 7, 12, 13, 20, 27, 29, 34, 45, 50, 96, 305
+  722 · group 42 · Exhibit ONE, 264 · 12, 27, 28, 29, 50, 51, 96, 257, 264
+  723 · group 42 · two selves, 701 · 12, 27, 28, 29, 50, 51, 96, 129, 150, 174, 263, 264, 280, 305, 701
+  724 · group 42 · spiral, 305 · 12, 26, 27, 29, 34, 50, 73, 92, 129, 150, 305
+  725 · group 42 · two selves, 701 · 12, 24, 50, 264, 305, 316, 701
+  726 · group 42 · torus, 174 · 7, 12, 26, 27, 28, 50, 73, 129, 150, 153, 168, 174
+  727 · group 42 · Exhibit ONE, 264 · 12, 27, 49, 233, 257, 263, 264
+  728 · group 42 · Exhibit ONE, 264 · 12, 26, 49, 50, 93, 94, 131, 133, 264
+  729 · group 42 · 17, 233 · 51, 88, 233
+  730 · group 42 · naming, 631 · 7, 12, 27, 34, 50, 88, 92, 96, 232, 233, 249, 257, 263, 541, 631
+  731 · group 43 · ten, 604 · 27, 88, 200, 599, 604
+  732 · group 43 · drawing, 327 · 12, 50, 129, 150, 263, 327
+  733 · group 43 · four bi-foldings, 335 · 12, 49, 50, 72, 88, 233, 259, 264, 335
+  734 · group 43 · naming, 631 · 49, 50, 72, 96, 233, 631
+  735 · group 43 · odd and even, 355 · 27, 35, 72, 96, 129, 150, 183, 355
+  736 · group 43 · Exhibit ONE, 264 · 12, 24, 88, 257, 264
+  737 · group 44 · even spiral, 307 · 12, 26, 27, 50, 51, 129, 150, 197, 305, 307
+  738 · group 44 · spiral, 305 · 12, 24, 27, 50, 51, 174, 233, 249, 257, 263, 305
+  739 · group 44 · kind, 309 · 61, 103, 129, 150, 176, 177, 263, 309
+  740 · group 45 · spiral, 305 · 12, 26, 27, 34, 50, 51, 129, 150, 197, 305
+  741 · group 45 · spiral, 305 · 12, 26, 27, 29, 50, 96, 129, 150, 197, 257, 305
+  742 · group 45 · two selves, 701 · 12, 50, 88, 129, 150, 191, 701
+  743 · group 45 · even spiral, 307 · 12, 26, 27, 29, 35, 50, 92, 129, 150, 305, 307
+  744 · group 45 · torus, 174 · 4, 12, 26, 27, 29, 50, 51, 73, 129, 150, 174
+  745 · group 45 · torus, 174 · 12, 26, 27, 28, 29, 34, 50, 51, 96, 129, 150, 153, 174
+  746 · group 46 · two priors, 285 · 12, 26, 27, 29, 34, 50, 51, 96, 129, 150, 174, 285
+  747 · group 46 · prior, 96 · 12, 26, 29, 50, 96
+  748 · group 46 · prior, 96 · 12, 29, 50, 96
+  749 · group 46 · sharing, 257 · 12, 27, 29, 50, 96, 257
+  750 · group 46 · sharing, 257 · 12, 27, 29, 50, 129, 150, 174, 257
+  751 · group 46 · working, 671 · 12, 29, 50, 96, 129, 150, 264, 604, 671
+  752 · group 46 · two spirals bi-coupling across, 316 · 12, 24, 26, 27, 28, 29, 34, 73, 96, 305, 316
+  753 · group 46 · odd spiral's like pair, 724 · 12, 24, 26, 27, 28, 29, 50, 92, 305, 701, 724
+  754 · group 46 · self bi-coupling across, 752 · 12, 24, 26, 27, 29, 34, 50, 51, 92, 129, 150, 257, 264, 305, 752
+  755 · group 46 · even spiral, 307 · 12, 24, 26, 29, 50, 51, 129, 150, 305, 307

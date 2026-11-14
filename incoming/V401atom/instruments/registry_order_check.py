@@ -7,7 +7,8 @@ A step is a line `N. its sentence` in a group `## G its title`, with its `*Addin
 A name, one of two readings, each said by its own lines:
   bold    a word a step has in bold: that step is its Adding step.
   adding  an Adding line's first words, to its first comma, semicolon or colon, its article passed over:
-          that step is its Adding step. An Adding line having a bold name of its own step is read by bold only.
+          the first step having them is its Adding step. First words the same as a bold name are read by bold.
+          A step after it having the same first words is a second Adding line of one name, said by its own line.
 A using is the name whole in a step's sentence, by its words' bounds, a hyphen a letter of a word, capitals passed over,
 its last word as one or as more than one: scale and scales, parity and parities, self and selves.
 A named step is each number after *step* or *steps* in a step's sentence, a range `N to M` each number in it.
@@ -53,17 +54,19 @@ bold = {}
 for n, _g, t, _a in steps:
     for b in re.findall(r'\*\*([^*]+)\*\*', t):
         bold.setdefault(b, n)
-own_bold = collections.defaultdict(list)
-for b, n in bold.items():
-    own_bold[n].append(b)
-adding = {}
+low_bold = {b.lower() for b in bold}
+adding, again = {}, collections.defaultdict(list)
 for n, _g, _t, a in steps:
-    if a is None or n in own_bold:
+    if a is None:
         continue
     first = re.split(r'[,;:]', a)[0].strip()
     first = re.sub(r'^(a|an|the|each|one)\s+', '', first, flags=re.I).strip()
-    if first and first not in bold:
-        adding.setdefault(first, n)
+    if not first or first.lower() in low_bold:
+        continue                                   # a bold name is read by bold
+    if first in adding:
+        again[first].append(n)
+    else:
+        adding[first] = n
 
 def early(names):
     out = []
@@ -82,6 +85,9 @@ for label, names in (("bold", bold), ("adding", adding)):
     for name, n, before in e:
         g = sorted({s[1] for s in steps if s[0] in before})
         print(f"    {name} · its Adding step {n} · used before it in {len(before)} steps, the first step {before[0]}, the last step {before[-1]}, in groups {g[0]} to {g[-1]}")
+print(f"  names by adding having a second Adding line, the same first words: {len(again)}")
+for name, ns in sorted(again.items(), key=lambda kv: adding[kv[0]]):
+    print(f"    {name} · its Adding step {adding[name]} · again by step " + ", ".join(str(x) for x in ns))
 
 # 2 each step a step names is before it
 def named(t):

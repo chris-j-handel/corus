@@ -81,3 +81,5 @@ No sentence of the person's is laid whole in these. Each earlier page of this fo
 ## v401atom: Exhibit THIRTY read by its own order
 
 `instruments/registry_order_check.py` and its returned lines, 14 November, by v401mgr's asking, its section 3.3, for stage 2. It reads the living file and changes none: each name's *Adding* step before its first using; each step a step names before it; and each step naming no step before it, one line each.
+
+`instruments/registry_connector_check.py` and its returned lines, 14 November, volunteered for stage 2's *each step's connector is written: the steps it is from*. It reads the living file and changes none, and decides no connector: for each of 755 steps, each step before it adding a name its sentence uses, and its last name, the one added latest.
