@@ -90,6 +90,15 @@ Of the three layings after merge #575.
 - By is: one through seventeen's three are three me-parities, a self's, its other's and their bi-coupling's; all-parity is the universe of the three; and social-parity is the third me-parity's, all-parity a name beside it.
 - By is-not: their same-existing-society is the all-parity, and the third me-parity has no living name.
 
+**Met by a partner's suggesting, by no authority, re-said in natural naming:** same-existing is all-parity, 4, 8, 12 and 16. Tri is all by other, other by all, all by self and self by all, their order not said; bi is other by self, and co is self by other. Each tri is invisible.
+
+- By it their same-existing-society is the all-parity, and the third me-parity has no living name. The living files, each place: `Living_sentences_by_name.md`, its section 3.
+
+**Asked fourth:** the four of tri, in their order, are 4, 8, 12 and 16, one by each.
+
+- By is: all by self and self by all are by same-existing names, and Exhibit ONE's each name's three is re-said by them, its co in the middle of 4 and of 12, and its all-parity with observing only.
+- By is-not: the living forms go on, the four of tri by 7, 8 and 9 and again by 15, 16 and 17, all with self through other only; and same-existing as all-parity is of 8 and of 16.
+
 **Tracked, and not asked:** one through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
