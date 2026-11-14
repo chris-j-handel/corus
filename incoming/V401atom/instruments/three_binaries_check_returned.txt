@@ -1,0 +1,14 @@
+one self, one thing, cases: 120
+1 the three is-or-is-nots of each case, and what the lines return by them:
+    prior is · now is · same is-not : its co-possibling its next prior ; its next prior the other one of two
+    prior is · now is · same is : its co-possibling a 0 ; its next prior its prior
+    prior is · now is-not · same by neither : its co-possibling its next prior ; its next prior the other one of two
+    prior is-not · now is · same by neither : its co-possibling its next prior ; its next prior its possibling's parity
+    prior is-not · now is-not · same by neither : its co-possibling a 0 ; its next prior none
+    prior is-not · now is-not · same by neither : its co-possibling none ; its next prior none
+2 a self having a prior: by each form of the three, the lines return one thing and no second: True
+  no prior, the code's state: by now is, one thing; by now is-not, two: a 0 by two not same-as, and none by none of its others: True
+3 the forms of the three in the lines: 5 of eight; same is-or-is-not is by prior is and now is, and by no other form
+4 each parity exchanged for its other, each case: the three and what is returned are as they were, each parity its other: True
+5 in 1-now-existing's lines: a self's prior is read from _3_now_co_observing ; its others' parities from _2_now_possibling ; and the line of same-as makes _12_next_co_same_existing : True
+6 names having discovering in 1-now-existing's lines: none

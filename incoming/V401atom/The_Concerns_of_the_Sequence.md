@@ -49,3 +49,32 @@ Exhibit THIRTY is living, and the next version is from it. Read by its own order
 ## 4 What is by an executing, and has no concern above
 
 The code's lines, each case: one binary of resolving, 52 to 55; a prior changed by no line, 42; possibling as the matching of a self's others, 49; observable by which self, 50; two selves of parity and of imparity, 56, 57, 111 and 112; a self's three others by the code, 60; each prior but a first by the executing before it, 44; 1 a line inside 17, 108; the steps' parities and each right angle, 3 to 7, 11 and 12; a span of names, 110; a span's number, 73; a fracture of a co-chaining by its selves, 76 and 78.
+
+## 5 A concept, read by the code's lines, and its concerns
+
+**The concept, a suggesting, and likely incorrect as it is worded.** Observing is distinguishing three is-or-is-nots: now-existing, same-existing and prior-existing. Now is bothboth: the moment before next, and the same-existing moment after prior. And this is likely all of observing, possibling and discovering.
+
+**Read by the code's lines, each case, `instruments/three_binaries_check.py`.** One self, 120 cases. A prior, is-or-is-not. Now, its possibling a parity, is-or-is-not. Same, its possibling same-as its prior, is-or-is-not.
+
+| Prior | Now | Same | What the lines return |
+|---|---|---|---|
+| is | is | is | its co-possibling a 0, its next prior its prior: do-no-harming |
+| is | is | is-not | its next prior the other one of two, and its co-possibling that parity: improving |
+| is | is-not | by neither | the same return as improving's: bi-folding |
+| is-not | is | by neither | its next prior its possibling's parity: a first prior |
+| is-not | is-not | by neither | no next prior: the code's state, and no self |
+
+- By each form of a self having a prior, the lines return one thing, and next is by the three: no fourth is-or-is-not is in the lines.
+- Of eight forms of three is-or-is-nots, the lines have five: same is by prior is and now is only.
+- Now is after a prior given, and before a next returned: one executing.
+
+**Its concerns, none resolved.**
+
+| | The concern | Its kind |
+|---|---|---|
+| 17 | The concept has the three under one name, observing. By the code's names, a prior is read by an observing name, 3; now by a possibling name, 2; and same by a same-existing name, 12. No discovering name is in a self's own lines: 9 and 13 are 17's. Which of the three is discovering, or whether discovering is the next the three give. | a gap, of a naming |
+| 18 | The opening names prior-existing and next-existing by now-existing. The concept names now by prior and by next. One of the two is the base, or the three are one form named together. | a possible incohering: a circle |
+| 19 | *Same-existing*, of a thing: the same thing prior-existing before now-existing. *Same*, of a parity: is-same-as. A self improving is the same self, having a prior not same-as. One name of two things, or one thing. | a possible incohering, of a name |
+| 20 | Prior-existing is-not is the code's state, and no self: a self has its is in each case. For a self the is-or-is-nots are two, now and same, and its forms three. | a possible incohering, the concept's three and a self's two |
+| 21 | Now is-not is two things in the lines: none of a self's others, and two of them not same-as. By a prior the two return one thing. By no prior they return two. | a gap |
+
