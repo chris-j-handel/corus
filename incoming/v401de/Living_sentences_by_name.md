@@ -83,6 +83,17 @@ Natural Intelligence 4.15 has the second and the third of 1.2 in one section: "S
 - **By the code's lines themselves.** All is given by no line: by none of its others a self's 15 is a 0 by the line's own.
 - **Parting.** Same-existing as all-parity, each of 4, 8, 12 and 16: beside it, Exhibit ONE has tri in a same-existing name's three by 8 and by 16 only, co in the middle of 4 and of 12; and its sentence of section 2.1 has all-parity with observing only, and other-parity with same-existing.
 
+### 3.3 The four of tri by the four same-existing names, a suggesting's is, by no authority
+
+**The suggesting, re-said in natural naming.** The four of tri, in their order, are 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing. They are overlapping, odd and even: 4 and 12 are a bi-coupling's same-existing, and 8 and 16 a self's. The alternating is bothbothing the two same-existings, each overlapping its other around, *a half* by each side, the word the suggesting's own.
+
+- **The living files have its two.** Exhibit ONE Natural Resolver, *Co, between two or of one*: "4-now-co-same-existing · 12-next-co-same-existing, each sharing" and "8-now-same-existing · 16-next-same-existing, a self's next prior and a same-existing-society" Natural Naming 3.2: "Same-existing with co is each sharing, 4-now-co-same-existing and 12-next-co-same-existing, and without it a self's next prior and a same-existing-society, 8-now-same-existing and 16-next-same-existing."
+- **Its odd and even.** Exhibit ONE: "4, 8, 12 and 16, each four-cycling's same-existing name, are 1, 2, 3 and 4 again"
+- **Its overlapping.** 4 with 12, and 8 with 16, are each a now name and its name 8 up; 8 to 12 is of each. Natural Naming 5.50 has each two on a loop of its own: "competencing 4–13–5–12, corusing 2–15–7–10 and torusing 1–9–8–16"
+- **Its middles.** Exhibit ONE's table: co in the middle of 4 and of 12, tri in the middle of 8 and of 16.
+- **By the code's lines themselves.** 4 and 12 are in a self's own lines, inside 1: 4 the one name a self's prior and its others' parities are by, and 12 a 0 by the two same-as. 8 and 16 are in 17's lines only, each self's own. A bi-coupling's same-existing is in the lines by 4 and by 12.
+- **Parting, a stable form beside it.** Exhibit ONE's eight of first prefixes has tri by 7 and by 15, and its sentence of section 2.1 has all-parity with observing only: *tri* by two things, a first prefix and the four by the same-existing names.
+
 ## 4 The edges
 
 - A match is of a name's letters: a sentence of a scale with no *scale* in it is not here, but the one of 1.2's fourth.
