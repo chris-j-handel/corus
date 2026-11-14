@@ -756,6 +756,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: ingesting, a snippet whole in one now, unrelationing.** The sequence's 138 and 139, `instruments/inhaling_check.py`, its part 3, 2,544 cases: by a snippet whole in one executing, what the lines return is the same by each order of it. One droplet at the registry's *32*; Exhibit ONE's droplet of the instrument re-said.
 
+**Going on, 14 November: a number of cases is no rigor, and an executing no base.** `The_Concerns_of_the_Sequence.md`, its part 10. The sequence's *Reading it* re-said; its 119 re-said, *closing at none* out.
+
 ---
 
 ## 6 Executed, each case, all or none
