@@ -390,3 +390,5 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **The person's *yes*, 14 November.** Part one is laid: `parts/Part_one_17_no_next_1.md`. A slip of v401mgr's in this section: the sentence in its place is Exhibit TWENTY Natural Naming's, its 2.1, and not Natural Intelligence's. The part's reach is wider than one sentence: the four living files in the first entering, six more in the plan's stage 7, and places of another thing, a placing by eights and a next round's numbering, reached and not re-said.
 
+**Mended, by the person's sentence of the asking, by no authority:** the asking of *a next 1* as going on at some places and dissolving at others was no natural explaining, and not all or none at all. By Natural Naming's own sentence, a name improving is improving with each file, all or none at all: part one is each place, in each of nine living files, in one laying. One concern by the reach: a name's number inseparable from its naming, beside a name by a second number in a next round.
+

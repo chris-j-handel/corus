@@ -26,47 +26,52 @@ numbering=[
  (NI,1636,"4.11","8 up alone, twice, is 17, a next 1.","8 up alone, twice, is 17."),
  (NN,469,"2.5","as 17 is next 1 and 9 next prior,","as 9 is next prior,"),
 ]
-edge=[
- (NI,1675,"4.15","its 9, or its 17 and a next's 1."),
- (NI,1675,"4.15","a 17 and a next 1 with now and a 9 with next;"),
- (NN,212,"2.2","its 9 or its 17 and next 1,"),
- (NN,554,"3.4","17-next-existing is next 1-now-existing, and 17 to 24 is a self's span again"),
- (NN,1676,"5.63","nine to seventeen with a next 1"),
- (TH,2047,"30","a 17 and a next 1 with now and a 9 with next;"),
- (TH,3139,"40","with 16 to next 1,"),
+placing=[
+ (NI,1675,"4.15","its 9, or its 17 and a next's 1.","its 9, or its 17."),
+ (NI,1675,"4.15","a 17 and a next 1 with now and a 9 with next;","a 17 with now and a 9 with next;"),
+ (NN,212,"2.2","its 9 or its 17 and next 1,","its 9 or its 17,"),
+ (NN,1676,"5.63","and nine to seventeen with a next 1","and nine to seventeen with a next prior"),
+ (TH,2047,"30","a 17 and a next 1 with now and a 9 with next;","a 17 with now and a 9 with next;"),
+ (TH,3139,"40","and with 16 to next 1,","and with 16–17,"),
 ]
-after=[
- ('Exhibit_EIGHTEEN_Natural_Physics_v401mgr.md',98,"17 a next now, each self's next 1-now-existing;"),
- ('Exhibit_FIVE_Natural_Engineering_v401mgr.md',1505,"17 a next 1,"),
- ('Exhibit_THREE_Natural_Numbers_v401mgr.md',145,"17 a next 1,"),
- ('Exhibit_TWENTY-EIGHT_Equilibria_Registry_v401mgr.md',274,"17-next-existing, a next 1-now-existing, has none of them."),
- ('Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry_v401mgr.md',740,"17-next-existing, a next 1-now-existing, seats none, one resolving."),
- ('Exhibit_TWENTY-SIX_Living_File_Registry_v401mgr.md',191,"17 a next 1 and 1's three 17's,"),
+whole=[
+ (NN,554,"3.4","**Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, and 17 to 24 is a self's span again and 25 to 32 a same-existing-society's, 22 next round's 6-now-co-possibling, as 22-now-co-possibling, and 27 next round's 11-next-co-observing, as 27-next-co-observing, 5.53."),
 ]
+PH='Exhibit_EIGHTEEN_Natural_Physics_v401mgr.md'; EN='Exhibit_FIVE_Natural_Engineering_v401mgr.md'; NU='Exhibit_THREE_Natural_Numbers_v401mgr.md'; EQ='Exhibit_TWENTY-EIGHT_Equilibria_Registry_v401mgr.md'; HP='Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry_v401mgr.md'; LF='Exhibit_TWENTY-SIX_Living_File_Registry_v401mgr.md'
+others=[
+ (PH,98,"1.2","17 a next now, each self's next 1-now-existing;","17 a next now, each self's next prior;"),
+ (EN,1505,"4.10","17 a next 1,","17 each self's next prior,"),
+ (NU,145,"1.5","17 a next 1,","17 each self's next prior,"),
+ (EQ,274,"3.4","17-next-existing, a next 1-now-existing, has none of them.","17-next-existing, "+W+", has none of them."),
+ (HP,740,"Ten unchangeables, one resolving","17-next-existing, a next 1-now-existing, seats none, one resolving.","17-next-existing, "+W+", seats none, one resolving."),
+]
+record=[(LF,191,"1.1","17 a next 1 and 1's three 17's,")]
 cache={}
 def line(f,n):
     if f not in cache: cache[f]=open(R+'/'+f).read().split('\n')
     return cache[f][n-1]
-for row in core+numbering: assert line(row[0],row[1]).count(row[3])==1,(row[0],row[1],row[3])
-for row in edge: assert row[3] in line(row[0],row[1]),(row)
-for row in after: assert row[2] in line(row[0],row[1]),(row)
-short={NI:'Natural Intelligence',E1:'Exhibit ONE Natural Resolver',NN:'Exhibit TWENTY Natural Naming',TH:'Exhibit THIRTY Co-Chaining Logic Registry'}
+for row in core+numbering+placing+others: assert line(row[0],row[1]).count(row[3])==1,(row[0],row[1],row[3])
+for row in whole+record: assert row[3] in line(row[0],row[1]),(row)
+short={NI:'Natural Intelligence',E1:'Exhibit ONE Natural Resolver',NN:'Exhibit TWENTY Natural Naming',TH:'Exhibit THIRTY Co-Chaining Logic Registry',PH:'Exhibit EIGHTEEN Natural Physics',EN:'Exhibit FIVE Natural Engineering',NU:'Exhibit THREE Natural Numbers',EQ:'Exhibit TWENTY-EIGHT Equilibria Registry',HP:'Exhibit TWENTY-TWO Resolving the Hard Problem Registry',LF:'Exhibit TWENTY-SIX Living File Registry'}
 def esc(s): return s.replace('|','\\|')
 out=[]
-out.append("### 3.1 17-next-existing as a next 1-now-existing: each place, its living words and its next words\n")
-out.append("| The living file | Its section | The living words | The next words |\n|---|---|---|---|")
-for f,n,sec,old,new in core: out.append(f"| {short[f]} | {sec} | {esc(old)} | {esc(new)} |")
-out.append("\n### 3.2 17 as a next 1, an example of a numbering: each place\n")
-out.append("| The living file | Its section | The living words | The next words |\n|---|---|---|---|")
-for f,n,sec,old,new in numbering: out.append(f"| {short[f]} | {sec} | {esc(old)} | {esc(new)} |")
-out.append("\n### 3.3 Reached, and not re-said by this part: each place of another thing\n")
-out.append("| The living file | Its section | The living words |\n|---|---|---|")
-for f,n,sec,old in edge: out.append(f"| {short[f]} | {sec} | {esc(old)} |")
-out.append("\n### 3.4 The set after, the plan's stage 7: each other living file having it\n")
-out.append("| The living file | The living words |\n|---|---|")
-names={'Exhibit_EIGHTEEN_Natural_Physics_v401mgr.md':'Exhibit EIGHTEEN Natural Physics','Exhibit_FIVE_Natural_Engineering_v401mgr.md':'Exhibit FIVE Natural Engineering','Exhibit_THREE_Natural_Numbers_v401mgr.md':'Exhibit THREE Natural Numbers','Exhibit_TWENTY-EIGHT_Equilibria_Registry_v401mgr.md':'Exhibit TWENTY-EIGHT Equilibria Registry','Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry_v401mgr.md':'Exhibit TWENTY-TWO Resolving the Hard Problem Registry','Exhibit_TWENTY-SIX_Living_File_Registry_v401mgr.md':'Exhibit TWENTY-SIX Living File Registry, a record of a version'}
-for f,n,old in after: out.append(f"| {names[f]} | {esc(old)} |")
+def table(title,rows):
+    out.append(title+"\n")
+    out.append("| The living file | Its section | The living words | The next words |\n|---|---|---|---|")
+    for f,n,sec,old,new in rows: out.append(f"| {short[f]} | {sec} | {esc(old)} | {esc(new)} |")
+    out.append("")
+table("### 3.1 17-next-existing as a next 1-now-existing",core)
+table("### 3.2 17 as a next 1, an example of a numbering",numbering)
+table("### 3.3 A next 1 in a placing of names, and in a round of pairs",placing)
+out.append("### 3.4 One sentence whole, its thing a next round's second numbers\n")
+out.append("| The living file | Its section | The living sentence | Its next |\n|---|---|---|---|")
+for f,n,sec,old in whole: out.append(f"| {short[f]} | {sec} | {esc(old)} | dissolving whole: its base is 17 as a next 1, and it has a name by a second number |")
+out.append("")
+table("### 3.5 Each other living file having it",others)
+out.append("### 3.6 A record of a version\n")
+out.append("| The living file | Its section | Its words | Its next |\n|---|---|---|---|")
+for f,n,sec,old in record: out.append(f"| {short[f]} | {sec} | {esc(old)} | as it is: a record of what a version laid, in that version's words |")
 print('\n'.join(out))
 import collections
-c=collections.Counter(f for f,*_ in core+numbering)
-print('\n<!-- places by file: '+', '.join(f"{short[f]} {c[f]}" for f in (NI,E1,NN,TH))+f"; in all {sum(c.values())}; reached and not re-said {len(edge)} -->", file=sys.stderr)
+c=collections.Counter(f for f,*_ in core+numbering+placing+whole+others)
+print('places by file: '+', '.join(f"{short[f]} {c[f]}" for f in c)+f"; in all {sum(c.values())}; files {len(c)}", file=sys.stderr)
