@@ -50,4 +50,4 @@ Incoming · v401atom · the atom's form, as the sequence has it · 14 November 2
 - A fracture dissolves a me-parity: its 0, having a fold's line through it, is a nothing in all-parity's surface; by exhausting, or by a cut across. 152.
 - A dormancy has its bi-folding same-existing in its stable form. Living begins again from it by all-parity's alternating, resonating with the forms of healthy living inside it. 153, 154.
 - Resonating is all-parity's alternating and a dormant co-chaining's own sequence being same-as, one by one; at the primes, each an orthogonalizing. 155.
-- A birthing by the fold's form: by a naming only.
+- A me-parity's birthing is inside a bi-folding: a new 0, the middle of its three others, having a prior-existing me-parity, the fold's line, and a prior-existing all-parity, the ring of its three others. 156.

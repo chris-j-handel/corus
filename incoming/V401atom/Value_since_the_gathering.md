@@ -792,6 +792,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: resonating.** The sequence's 155, at the registry's *33*: all-parity's alternating and a dormant co-chaining's own sequence same-as, one by one; at the primes, each an orthogonalizing.
 
+**Going on, 14 November: a me-parity's birthing.** The sequence's 156, at the registry's *33*: inside a bi-folding, a new 0, having a prior-existing me-parity and a prior-existing all-parity. v401atom's candidate, a birthing as a fold's next, is out.
+
 ---
 
 ## 6 Executed, each case, all or none
