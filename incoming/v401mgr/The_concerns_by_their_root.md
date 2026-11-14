@@ -340,3 +340,5 @@ Natural Naming has scale by one sense only. The helper session's candidate has t
 
 **Laid on each other, `A_three_cycling_laid_on_the_threes.md`.** Not resolved by the laying: which of one three is which of another, by naming; and a three-cycling, in no living sentence of the four files.
 
+**The pairing, by the person's *is*, by no authority:** bettering of value, fastering of moment, cheapering of living: a candidate of both, by naming. Laid on the method's three, two layings, in the page's section 5; the living sentences do not resolve which.
+
