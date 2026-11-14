@@ -371,3 +371,20 @@ By none of its others, by two parting, and by one other other-than, the second l
 
 **Not resolved by the lines:** whose the two consecutive me-parities are.
 
+## 23 Where the expedition is, asked by the person, 14 November
+
+**The cohering is going on well.** Each concern the two sessions had together is resolved or re-said by the living files' own sentences: a parity as a direction; *right* as an observing word; one 1; the two 0s; a 0 as the neither; other-parity and all-parity; scale's three as one thing's; the service's three by observing, possibling and discovering. The helper session's page has each living sentence found first, and it found two things of v401mgr's out. The atom session's sequence has each sentence from the ones before it.
+
+**The entering is not going on.**
+
+| The plan's stage | Where it is |
+|---|---|
+| 1 The placing | Exhibit ONE's gathering and Natural Naming's are placed once, each to be read again by the logic. Natural Intelligence's and the registry's are not placed. |
+| 2 to 4 The registry and the namings; Exhibit ONE's forms; Natural Intelligence for reading | not begun |
+| 5 The reading for harm | no part ready |
+| 6 The entering, and the gatherings dissolving | no living file changed |
+
+The four gatherings have more droplets than at the placing's first reading. One droplet of v401mgr's, of two selves meeting, is a chain of many readings, and no thing's is.
+
+**Proposed, by v401mgr's part of watching over:** the next laying is a first part for the living files, whole by the plan's stages: Exhibit ONE's *a next 1*, dissolving, in each of the four living files. Both partners have it as dissolving, and Natural Intelligence has the sentence in its place. The files and their number are said before a living file changes.
+
