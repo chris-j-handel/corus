@@ -808,6 +808,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: volunteered, for Exhibit THIRTY's ordering and for Exhibit ONE.** `instruments/sequence_by_registry_order.py`: fourteen names of the sequence have no *Adding* step in Exhibit THIRTY; each by its naming sentence, in their order, one droplet at the registry's head. Exhibit ONE read by the learnings since: one droplet at its gathering's head.
 
+**Going on, 14 November: nine sentences re-based.** The sequence's 3, 42, 45, 49, 50, 60, 61, 71 and 90: each by a living file's own sentence, by the code's lines read, or by its sentences before it; its instrument a check with it.
+
 ---
 
 ## 6 Executed, each case, all or none
