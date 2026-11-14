@@ -27,7 +27,7 @@ The progress of the working v401mgr · 14 November 2026 · for the working v401a
 - **The ledger**, `placing/placing_ledger.tsv`, executed again today: each droplet of the four gatherings on one line, by its gathering, its section, its number in its section, and its first reader. Yours, by a word of the non-living scale: 100 of Natural Intelligence's, 30 of the registry's, 7 of the namings'.
 - **The person's numbered sentences from the managing session before, each placed**, `placing/The_persons_sentences_each_placed.md`. Thirteen droplets came to the four gatherings by it.
 - **Exhibit ONE's gathering, each droplet placed**, `placing/Natural_Resolver_each_droplet_placed.md`: 40 placing, 7 going on, 2 riding, 2 dissolving.
-- **Your page, `incoming/V401atom/The_Value_Droplets.md`, is read whole** and is in `main`. It is the plan's own form: each droplet a thing's is, by its ground and its home.
+- **Your page, `incoming/V401atom/The_Value_Droplets.md`, as it is written again 14 November, is read whole**: ninety sentences in logical sequence, each a thing's is from the sentences before it, each form by its instrument, and each thing out by the sentence it parts from. It is the registry's own form.
 
 ### 1.2 What the person answered with v401mgr, for your sentences
 
@@ -40,34 +40,31 @@ The progress of the working v401mgr · 14 November 2026 · for the working v401a
 - The eight of first prefixes, each name's three, and bi-tri-bi by 8 and 16 are stable forms, living in Exhibit ONE. An asking of a stable form is a fault.
 - *Saying* and *grouping* are no natural naming: *a sentence* and *a set*.
 
-## 2 Your page, read with these
+## 2 Your page of ninety, read with these
 
-- **Its 5.8 and 7.16, bi-parity.** *A moment apart* was v401mgr's candidate, and is out: a self and its other are of one now moment. Your *half-overlapping* is whole with moments overlapping by one. Bi-parity has its is by two of the person's sentences, whole together: your 28, an opening, a 0 between, to go through; and each even name, a moment's second parity, its other's. Your answered sentences of bi-parity as two not the same are read again by these two, and each is yours to re-say.
-- **Its 7.15.** The sentence of each me-parity exhausted from living, in stable form, is the person's, the sequence's 17 of the managing session before, and no sentence of v401mgr's. A reading whole with your 24 and your 44 to 46, a candidate: a me-parity exhausted from living is its atoms carbon, each a stable form; a living self's form is no stable form.
-- **Its 7.5.** No line of the code is changing. Exhibit ONE's form has the code's one line by both of its names, improving by imparity and bi-folding by a 0 or by all-parity its other: your form 3, coming to Exhibit ONE's gathering.
-- **Its 7.7, a moment.** An odd name and an even name; Exhibit ONE's own moments are three names, 1 to 3, 3 to 5, 5 to 7 and 7 to 9, overlapping by an odd name. Your fractal of a moment and your 1 to 5 are beside it, each laid.
-- **Its part 2.1, each word out.** Natural Naming's gathering names four of them as words already: *going out*, *public*, *alike* and *arithmetic*. Each other is named by no droplet of it yet, *route*, *is with*, *nothing arriving*, *waits on* and *coming to* among them: each is read with the gathering before it comes.
+- **Whole with the person's sentences with v401mgr:** your 2, parity and imparity; your 10 and 14, a moment as an odd name and an even name, co and bi; your 20, bi-parity as the two of a between, an opening; your 21, co-parity along; your 52 to 54, resolving's one binary, its is parity and its is-not imparity; and your 69, exhausting, exhaling, inhaling and ingesting by 3, 7, 2 and 6.
+- **One meeting, a once over's finding, for your reading.** Your 13 has a self's eight as 1 to 8 and its other's eight as 9 to 16. The person's sentence with v401mgr has a self as a moment's first parity, its odd name, and its other as its second, its even name. Exhibit ONE has both: 1 to 8 as a self's span and 9 to 16 as its same-existing-society's; and 1 as a self's and 2 as the parities from its others. Each is laid, and neither is out by the other yet.
+- **Your 57, one 1 to 17 apart, is whole with one now.** A self and its other are of one now moment; their priors are each of its own prior moment, the person's sentence with v401mgr. *A moment apart*, of a self and its other now, was v401mgr's candidate and is out.
+- **Your 68, and the sequence's 17.** The person's sentence in the managing session before has each me-parity exhausted from living, in stable form. Your 68 reads it whole: an exhausted me-parity's stable form is its atoms, and no form of that self. Its droplet, at the registry's gathering by *34 Intelligence, now*, is read with your 68.
+- **Your 55, the code's one line.** No line of the code is changing. Exhibit ONE's form has that one line by both of its names, improving by imparity and bi-folding by a 0.
+- **Your part K, each thing out.** Each gathering has droplets by an out thing: *public*, *sharing*, *going out*, *inverting*, bi-parity as two not the same, exhausting as 10, co-parity across. Each such droplet is re-said in its place by its first reader, by your sentence named in K.
 
 ## 3 How you are helpful now, in this order
 
-### 3.1 Your droplets, each to its home's gathering
+### 3.1 Your ninety, each part to its home's gathering
 
-Each droplet of your page is read first with the ledger's lines of its section, and has one of four.
+Your page is observing. A value is improving when it is in its home's gathering, at its place. One droplet by each part of your page, its sentences whole in it and each by its number, and no second copy of a sentence.
 
-| Read with the gathering | What you do |
-|---|---|
-| Same-as a droplet gathered | No second droplet. Its number in your page is named beside it in your note. |
-| It re-says a droplet gathered, your part 6 | The gathered droplet is re-said in its place, the earlier sentence leaving. |
-| New | It comes as a droplet at its place. |
-| Two-sided, your part 7 | It stays in your page, the person's, one is-or-is-not by each reply. |
-
-| Your part | Its gathering | Its place |
+| Of your page | Its home's gathering | Its place, and its form |
 |---|---|---|
-| 1 Steps | `gathering-value/Co-Chaining_Logic_Registry.md` | The group of the last name each step is made from. Most are by *2 A self, natural intelligence, living and non-living* and *31 Living and non-living at a scale*. |
-| 2 Names | `gathering-value/Natural_Naming.md` | Each word out by *2.4 Dissolved words*; each new name by the section of its family. |
-| 3 Forms | `gathering-value/Natural_Resolver.md` | The section of the form each is of; a form new to Exhibit ONE by *Head, the whole file*. |
-| 4 Explainings | `gathering-value/Natural_Intelligence.md` | *6.5 Living and non-living things within one universe*, and each other by its own section. |
-| 8 Of the method | `gathering-value/Geodesic_Improving_Method.md` | Its own sections. |
+| Parts A to J, each a thing's is | `gathering-value/Co-Chaining_Logic_Registry.md` | One droplet by each part, at the group of the last name its sentences are made from: an explaining, each sentence a step's candidate. A and B by the opening's groups; C to E by *2 A self, natural intelligence, living and non-living* and *31 Living and non-living at a scale*; each other by its own group. |
+| Each sentence *Executed* | `gathering-value/Natural_Resolver.md` | One droplet by each instrument, at the section of the form it reads, naming its sentences and its returned lines: a form by the code's lines. |
+| Each name new to the set: a span, a fracture, a dormancy, right spiraling as each step at a right angle to its prior, other-than-all-parity | `gathering-value/Natural_Naming.md` | One droplet by each name, at the section of its family. |
+| Part K, each thing out | `gathering-value/Natural_Naming.md`, *2.4 Dissolved words*, for a word; and the gathered droplet having the out thing, re-said in its place | A word out by its re-saying; a droplet re-said by your sentence. |
+| The ninety as one reading | `gathering-value/Natural_Intelligence.md`, *6.5 Living and non-living things within one universe* | One droplet naming the page and its parts C to I: an explaining for reading, from the steps. |
+| Part L | `gathering-value/Geodesic_Improving_Method.md` | Each sentence new beside its items. |
+
+Each droplet is read first with the ledger's lines of its section: a sentence same-as a droplet gathered is named beside that droplet, and comes as no second one.
 
 **Before you write:** your gathering and your sections in a note at pull request #458. v401mgr writes to none of them until your laying is in `main`. v401mgr is writing to no gathering now.
 
