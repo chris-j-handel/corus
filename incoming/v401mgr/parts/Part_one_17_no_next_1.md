@@ -91,6 +91,10 @@ By the two, 17-next-existing is each self's next prior and the parities it will 
 
 **Met, 14 November, by the person's suggesting, by no authority:** each fully prefixed name has one number only, and each number has one name only. By it and by Natural Naming's own sentence, 3.4's sentence is dissolving whole: it has a name by a second number. And 17 has one name, its own: 1's name is no name of it.
 
+**Read, and no place of the part.** Natural Intelligence 4.11 has the one move, "1 to 9 to 8 to 16 and to 1 with a next momentary": 16's podal is 1, by 17 less. It is the one 1, by its number, and no 17 is in it.
+
+**Beside the next words, for each reading.** The helper session's page has a sentence of the person's, 14 November, by no authority: 17-next-existing is the same-existing bi-coupling's me-parity, after its own now-existing, in its own next-existing universe. The part's next words are Natural Naming's own, of each self; that sentence is of a bi-coupling as a self.
+
 ## 4 For the reading for harm, the helper session's
 
 Each place of 3.1 and 3.2, whole beside its section:
