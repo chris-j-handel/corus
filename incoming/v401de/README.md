@@ -146,6 +146,17 @@ Of the three layings after merge #575.
 - By is: a same-existing-society has a me-parity of its own, by 16, its name eight on from 8.
 - By is-not: 16 has no me-parity but its selves', as the lines have it.
 
+**Met by a partner's *is-not*, and a suggesting, by no authority, re-said in natural naming:** a society's me-parity by 16 is a society in a universe, and this universe has no society yet. 17-next-existing is the same-existing bi-coupling's me-parity, after its own now-existing, in its own next-existing universe, all-parity right and other-parity *left*.
+
+- Out, v401de's own: 16 as a same-existing-society's me-parity.
+- Whole with it, each a suggesting: v401atom's 87, a self, its other and all as 1 to 17; scales of adding others, 1 to 5, 1 to 17 and 1 to 65; and v401mgr's candidate, by 17 a bi-coupling living as a self.
+- Parting, a concern for v401mgr to lay: the living files have a same-existing-society in one 1 to 17: Exhibit ONE's 16 and its span of 9 to 16; 17 as a same-existing-society's next; and one through seventeen's third, their same-existing-society.
+
+**Asked tenth:** 16-next-same-existing is the bi-coupling me-parity's all-parity.
+
+- By is: 16 is all-parity, of this one me-parity, and no society.
+- By is-not: 16 is the bi-coupling's own me-parity, next, as 8 is it now.
+
 **Tracked, and not asked:** the four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
