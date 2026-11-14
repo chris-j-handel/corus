@@ -646,7 +646,18 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **New beside them**: a birthing from a fracture, each of its remaining co-chainings a new me-parity, and no one of them the prior me-parity same-existing.
 - **Read by Exhibit ONE's code, each case** (`instruments/breaking_check.py`, its lines 4 and 5): in the fracture's 1 to 17 each self's prior is as it was with no fracture: each remaining co-chaining has its priors from the prior co-chaining, inherited. The two selves, one each side of the fracture, are is-same-as inside a span, and is-not-same-as where two spans meet. By the code's state of an empty prior and the two: a first prior is inherited, that same parity, by is-same-as; nothing is inherited by is-not-same-as.
 - **A parting, for watching over.** *Two sides*: a new me-parity's conceiving is inside a bi-coupling of two, a self and its other, answered. A new me-parity's birthing is each co-chaining remaining after a fracture, from one prior co-chaining. *Harm of one alone*: by the first alone, a living co-chaining fracturing to two living ones has no new me-parity. By the second alone, a conceiving has no two. *Its resolving*: the asking below, a fracture's two as a self and its other.
-- **Asked, and not yet answered**: a fracture's opening is a conceiving's 0, its two co-chainings a self and its other.
+- **Asked**: a fracture's opening is a conceiving's 0, its two co-chainings a self and its other. **Its answer, a suggesting**: the two are no self and its other.
+
+**Going on: a fracture's two, each its own now-existing; a fractured co-chaining dormant, prior-existing.**
+
+- **The suggestings, re-said**: a fracture's two co-chainings have two now-existings, each its own, and the two are co-momentarying in no moment: no self and its other. A fractured co-chaining is dormant, prior-existing, and its next-existing is a new birthing.
+- **Stable beside it, answered before**: a self's now is its own. A dormant prior is a sequence of co-orienting atom carbon bump connectors, a stable form of healthy prior-existings. A stable form is prior-and-same-existing and now-and-same-existing. A dormant stable form and a living self are meeting, and bothbothing the next-existing self.
+- **New beside them**: a fracture's two in two now-existings; and a fractured co-chaining a dormant one, its new birthing next-existing.
+- **Read by Exhibit ONE's code, each case** (`instruments/breaking_check.py`, its line 6): the co-chaining along after a fracture, given as its own 16-next-same-existing, apart from the one before it, has each self as within the one 16, each 1 to 17. After a fracture no line of the code has the two co-chainings in one now. And as executed before, no line of the code has a dormancy: a dormant thing's parities are given, each the same each 1 to 17, and no 1 to 17 is its own.
+- **Read by an executing before it** (`instruments/meeting_check.py`): a stable form's sequence and a living self meeting it alone, each case: by the code's conceiving, a first prior is inherited, the stable form's parity as it is.
+- **The parting before this one, by it**: a conceiving's two are no fracture's two. By the answered sentences its two are a dormant co-chaining and a living self, meeting. *Its resolving*: the asking below.
+- **v401mgr's laying since the reading before**: the plan's second writing, each value to its living file.
+- **Asked, and not yet answered**: a fractured co-chaining's new birthing is its meeting a living self.
 
 ---
 

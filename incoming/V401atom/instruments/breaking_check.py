@@ -64,3 +64,26 @@ for pri in itertools.product((1, -1), repeat=N):
 print("4  with the fracture's 1 to 17, each self's prior is as with no fracture: each co-chaining after it has its priors from the one before it, as they were:", ok4b)
 print("5  the two selves, one each side of the fracture: is-same-as, inside a span, cases:", same_n, "; is-not-same-as, two spans meeting, cases:", notsame_n)
 print("   the code's state of an empty prior with the two: a first prior inherited, that same parity, with is-same-as; nothing inherited with is-not-same-as:", ok5)
+
+# 6: after a fracture, the co-chaining along after it, as its own 16-next-same-existing, apart from the one before it
+ok6 = True
+for pri in itertools.product((1, -1), repeat=N):
+    for b in range(N - 1):
+        soc = {k: ([(S, pri[k])], []) for k in names}
+        for t in range(T_BREAK):
+            p0 = dict(soc[0][0])[S]
+            soc[0] = (soc[0][0], [(S, p0)] if pattern[t % 3] == "do-no-harming" else [])
+            soc = step(soc, whole)
+        one16 = dict(soc)
+        after = {k: one16[k] for k in range(b + 1, N)}
+        net_all = {key: v for key, v in whole.items() if key != (b, 9)}
+        net_after = {(k, 9): k + 1 for k in range(b + 1, N - 1)}
+        for t in range(T_BREAK, T_BREAK + 24):
+            p0 = dict(one16[0][0])[S]
+            one16[0] = (one16[0][0], [(S, p0)] if pattern[t % 3] == "do-no-harming" else [])
+            if t == T_BREAK:
+                after[b + 1] = (after[b + 1][0], one16[b + 1][1])
+            one16 = step(one16, net_all); after = step(after, net_after)
+            ok6 = ok6 and all(after[k] == one16[k] for k in after)
+print("6  the co-chaining along after a fracture, given as its own 16-next-same-existing, apart from the one before it: each self of it")
+print("   is as within the one 16, each 1 to 17, each case: after a fracture no line of the code has the two co-chainings in one now:", ok6)
