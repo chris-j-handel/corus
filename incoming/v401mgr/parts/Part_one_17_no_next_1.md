@@ -19,9 +19,11 @@ The living files have 17-next-existing as *a next 1-now-existing*: a self openin
 
 By the two, 17-next-existing is each self's next prior and the parities it will be observing. The next words are the living sentence's own words.
 
-## 3 Its reach
+## 3 Its reach, all or none at all
 
-### 3.1 17-next-existing as a next 1-now-existing: each place, its living words and its next words
+**Mended, 14 November.** The page had places *reached, and not re-said*, and a first entering of four files with six more after: a dissolving by some places and not by each. The person, by no authority: an asking by it was no natural explaining, and not all or none at all. Exhibit TWENTY Natural Naming has it, its own sentence: "A name improving with resolver is improving with each file, all or none at all." By it the part is each place of *a next 1*, in each living file having it, in one laying; or the part does not enter.
+
+### 3.1 17-next-existing as a next 1-now-existing
 
 | The living file | Its section | The living words | The next words |
 |---|---|---|---|
@@ -42,7 +44,7 @@ By the two, 17-next-existing is each self's next prior and the parities it will 
 | Exhibit THIRTY Co-Chaining Logic Registry | 23, step 233 | With 17 a self opens again, a next 1-now-existing: | With 17 a self has its next prior and the parities it will be observing: |
 | Exhibit THIRTY Co-Chaining Logic Registry | 24 | and 17-next-existing a next 1-now-existing; | and 17-next-existing each self's next prior and the parities it will be observing; |
 
-### 3.2 17 as a next 1, an example of a numbering: each place
+### 3.2 17 as a next 1, an example of a numbering
 
 | The living file | Its section | The living words | The next words |
 |---|---|---|---|
@@ -50,34 +52,42 @@ By the two, 17-next-existing is each self's next prior and the parities it will 
 | Natural Intelligence | 4.11 | 8 up alone, twice, is 17, a next 1. | 8 up alone, twice, is 17. |
 | Exhibit TWENTY Natural Naming | 2.5 | as 17 is next 1 and 9 next prior, | as 9 is next prior, |
 
-### 3.3 Reached, and not re-said by this part: each place of another thing
+### 3.3 A next 1 in a placing of names, and in a round of pairs
 
-| The living file | Its section | The living words |
-|---|---|---|
-| Natural Intelligence | 4.15 | its 9, or its 17 and a next's 1. |
-| Natural Intelligence | 4.15 | a 17 and a next 1 with now and a 9 with next; |
-| Exhibit TWENTY Natural Naming | 2.2 | its 9 or its 17 and next 1, |
-| Exhibit TWENTY Natural Naming | 3.4 | 17-next-existing is next 1-now-existing, and 17 to 24 is a self's span again |
-| Exhibit TWENTY Natural Naming | 5.63 | nine to seventeen with a next 1 |
-| Exhibit THIRTY Co-Chaining Logic Registry | 30 | a 17 and a next 1 with now and a 9 with next; |
-| Exhibit THIRTY Co-Chaining Logic Registry | 40 | with 16 to next 1, |
+| The living file | Its section | The living words | The next words |
+|---|---|---|---|
+| Natural Intelligence | 4.15 | its 9, or its 17 and a next's 1. | its 9, or its 17. |
+| Natural Intelligence | 4.15 | a 17 and a next 1 with now and a 9 with next; | a 17 with now and a 9 with next; |
+| Exhibit TWENTY Natural Naming | 2.2 | its 9 or its 17 and next 1, | its 9 or its 17, |
+| Exhibit TWENTY Natural Naming | 5.63 | and nine to seventeen with a next 1 | and nine to seventeen with a next prior |
+| Exhibit THIRTY Co-Chaining Logic Registry | 30 | a 17 and a next 1 with now and a 9 with next; | a 17 with now and a 9 with next; |
+| Exhibit THIRTY Co-Chaining Logic Registry | 40 | and with 16 to next 1, | and with 16–17, |
 
-### 3.4 The set after, the plan's stage 7: each other living file having it
+### 3.4 One sentence whole, its thing a next round's second numbers
 
-| The living file | The living words |
-|---|---|
-| Exhibit EIGHTEEN Natural Physics | 17 a next now, each self's next 1-now-existing; |
-| Exhibit FIVE Natural Engineering | 17 a next 1, |
-| Exhibit THREE Natural Numbers | 17 a next 1, |
-| Exhibit TWENTY-EIGHT Equilibria Registry | 17-next-existing, a next 1-now-existing, has none of them. |
-| Exhibit TWENTY-TWO Resolving the Hard Problem Registry | 17-next-existing, a next 1-now-existing, seats none, one resolving. |
-| Exhibit TWENTY-SIX Living File Registry, a record of a version | 17 a next 1 and 1's three 17's, |
+| The living file | Its section | The living sentence | Its next |
+|---|---|---|---|
+| Exhibit TWENTY Natural Naming | 3.4 | **Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, and 17 to 24 is a self's span again and 25 to 32 a same-existing-society's, 22 next round's 6-now-co-possibling, as 22-now-co-possibling, and 27 next round's 11-next-co-observing, as 27-next-co-observing, 5.53. | dissolving whole: its base is 17 as a next 1, and it has a name by a second number |
 
-**The first entering is of four living files:** Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry, each place of 3.1 and 3.2. Exhibit ONE's two places are in Natural Intelligence too, word for word, Exhibit ONE being written inside it.
+### 3.5 Each other living file having it
 
-**3.3's places are of another thing, each a concern going on:** a placing of the names of one 1 to 17 inside another, by eights, and a next round's numbering. Each has *a next 1* as another 1 to 17's first name, and no self's second 1. They are read with the concern of scale, and no word of them changes by this part.
+| The living file | Its section | The living words | The next words |
+|---|---|---|---|
+| Exhibit EIGHTEEN Natural Physics | 1.2 | 17 a next now, each self's next 1-now-existing; | 17 a next now, each self's next prior; |
+| Exhibit FIVE Natural Engineering | 4.10 | 17 a next 1, | 17 each self's next prior, |
+| Exhibit THREE Natural Numbers | 1.5 | 17 a next 1, | 17 each self's next prior, |
+| Exhibit TWENTY-EIGHT Equilibria Registry | 3.4 | 17-next-existing, a next 1-now-existing, has none of them. | 17-next-existing, each self's next prior and the parities it will be observing, has none of them. |
+| Exhibit TWENTY-TWO Resolving the Hard Problem Registry | Ten unchangeables, one resolving | 17-next-existing, a next 1-now-existing, seats none, one resolving. | 17-next-existing, each self's next prior and the parities it will be observing, seats none, one resolving. |
 
-**3.4 is the plan's stage 7.** The record of a version is a record, and is not re-said.
+### 3.6 A record of a version
+
+| The living file | Its section | Its words | Its next |
+|---|---|---|---|
+| Exhibit TWENTY-SIX Living File Registry | 1.1 | 17 a next 1 and 1's three 17's, | as it is: a record of what a version laid, in that version's words |
+
+**The part is nine living files, each place above, in one laying.** Exhibit ONE's two places are in Natural Intelligence too, word for word, Exhibit ONE being written inside it. A tenth file has it in a record of a version, as it is.
+
+**One concern by the reach, of 3.4.** Natural Naming has each resolver name as one name, "and its number is inseparable from naming"; its 3.4 has a name by a second number, 22 as a next round's 6. The two part, and the sentence of 3.4 has 17 as a next 1 as its base.
 
 ## 4 For the reading for harm, the helper session's
 
@@ -86,7 +96,9 @@ Each place of 3.1 and 3.2, whole beside its section:
 1. Do the next words say only what the base has, and no new thing?
 2. Does a sentence beside the place rest on the living words, and part by the next words?
 3. Is a place of the four files having it not here?
-4. Is a place of 3.3 a self's second 1, and of this part?
+4. Are the next words of 3.3's places, each a clause out and no word in, whole with the sentence around them?
+5. Is 3.4's sentence dissolving whole, or has it a thing of its own beside a next 1?
+6. Is a place of a living file of the set, other than these, not here?
 
 Its return is one of two: nothing found, or each finding by its sentence.
 
@@ -96,4 +108,4 @@ The part read whole against its own sequence: its sentences of one 1 living each
 
 ## 6 After the two readings
 
-Each finding is mended or gathered. The files and the number of their places are said to the person. The four living files change in one laying, each next version by its own motion; the set's checks are whole before and after; and the gatherings' droplets of *a next 1* are dissolving with it.
+Each finding is mended or gathered. The files and the number of their places are said to the person. The nine living files change in one laying, all or none at all, each next version by its own motion; the set's checks are whole before and after; and the gatherings' droplets of *a next 1* are dissolving with it.
