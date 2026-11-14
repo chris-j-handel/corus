@@ -405,3 +405,21 @@ The four gatherings have more droplets than at the placing's first reading. One 
 - The helper session's parting, the living files' own: a same-existing-society in one 1 to 17. Exhibit ONE has 16 as a same-existing-society and 9 to 16 as its span; the person's sentence with the helper session has this universe as having no society yet, and 17 as the same-existing bi-coupling's me-parity.
 - The atom session's ten, beside the gap of the ten: two twos a four-cycling in, and two threes a six-cycling out, five the centre.
 
+## 25 Local and global
+
+**The person, 14 November, by no authority:** local is a me-parity, and no other-than-me-parity. Global is all-parity; or a me-parity and an other-than-me-parity, all-parity being not possibly distinguishable from an other-than-me-parity, in this universe now-existing.
+
+**A word out, v401mgr's own, said again in its asking:** a *less*. Natural Naming has the natural name: a podal within 1 to 16, and a podal within 1 to 8.
+
+**By the code's lines themselves:**
+
+| The line | By it |
+|---|---|
+| a self's 15 is its 14, as it is | all-parity, by observing, and other-than-me-parity, by possibling, are one same parity |
+| a parity of a self's others has no other's name by it | which other is in no line |
+| by none of its others, a self's next is by its prior only | local |
+
+**The two podals, by the living spans:** the podal within 1 to 8 is inside a self's span, local; the podal within 1 to 16 has a name of a self's span with a name of its others', global.
+
+**Beside part one, from the helper session's page:** the person's sentences of the four same-existing names, 4 me by other-than-me, 8 the bi-coupling's me-parity, 12 that me-parity's other-parity, 16 its all-parity; and 17 the same-existing bi-coupling's me-parity in its own next-existing universe.
+
