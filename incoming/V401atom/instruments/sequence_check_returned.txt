@@ -1,9 +1,9 @@
-sentences: 164 ; numbered 1 and on, each one after the one before it: True
+sentences: 167 ; numbered 1 and on, each one after the one before it: True
 each number in brackets is of a sentence before its own: True []
 each sentence has the sentences it is from, or its base: True []
    the opening : 7 sentences
    a name's is : 3 sentences
    the table : 7 sentences
    executed : 50 sentences
-   the set : 2 sentences
-   from the sentences before it only: 99 sentences
+   the set : 3 sentences
+   from the sentences before it only: 101 sentences
