@@ -80,7 +80,17 @@ Of the three layings after merge #575.
 - By is-not the living files go on as they are: Exhibit THIRTY's group 23 has 9 as 2 with a next scale, and 9 to 17 as an other.
 - By is, a name at a next universe scale is two moments, and each living sentence of 1, 2 and 3 as 1, 9 and 17 is re-said.
 
-**Tracked, and not asked:** a 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
+**Met by a partner's suggesting, by no authority, re-said in natural naming:** 1 to 4, 5 to 8, 9 to 12 and 13 to 16, to 17, is one moment in the all-parity universe of one me-parity's direction, from a 0, same-existing. Inside this one moment are a self's me-parity, its other's me-parity and an all-parity. A same-existing me-parity of the self-other bi-coupling is a third me-parity in this all-parity universe.
+
+- The living files have its one moment, and its four: `Living_sentences_by_name.md`, its section 2.
+- Out, v401de's own: the next four moments, to 17, as 3 and then 4; and a name at a next universe scale as two moments.
+
+**Asked third:** their same-existing-society, the third of one through seventeen, is the third me-parity, the self-other bi-coupling's same-existing me-parity.
+
+- By is: one through seventeen's three are three me-parities, a self's, its other's and their bi-coupling's; all-parity is the universe of the three; and social-parity is the third me-parity's, all-parity a name beside it.
+- By is-not: their same-existing-society is the all-parity, and the third me-parity has no living name.
+
+**Tracked, and not asked:** one through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
 
