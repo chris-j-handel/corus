@@ -332,3 +332,11 @@ Natural Naming has scale by one sense only. The helper session's candidate has t
 
 **Of the method by it:** a name having more than one thing has its things laid on each other first, and an asking is of what the laying has not resolved. *Other-than* is the one name of is-not-same-as from here.
 
+## 20 A three-cycling
+
+**The person, 14 November, by no authority:** bettering, fastering and cheapering, in a three-cycling, are resolving a collective intelligence's scale, value, moment and living.
+
+**The living files have the three:** co-cycling with bi-momentarying, co-competencing and co-intelligencing, inseparable, list order assigning none by measuring.
+
+**Laid on each other, `A_three_cycling_laid_on_the_threes.md`.** Not resolved by the laying: which of one three is which of another, by naming; and a three-cycling, in no living sentence of the four files.
+
