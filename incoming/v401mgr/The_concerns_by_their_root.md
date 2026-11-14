@@ -342,3 +342,5 @@ Natural Naming has scale by one sense only. The helper session's candidate has t
 
 **The pairing, by the person's *is*, by no authority:** bettering of value, fastering of moment, cheapering of living: a candidate of both, by naming. Laid on the method's three, two layings, in the page's section 5; the living sentences do not resolve which.
 
+**The three by observing, possibling and discovering, the person's suggesting, by no authority:** cheaper is co-observing, prior-and-same-existing; better is co-possibling, prior-and-next-existing; faster is co-discovering, next-and-same-existing. The two layings of the paragraph before are out. One other-than, by the living sentence: possibling as now-existing beside co-possibling as prior-and-next-existing. The page's section 7.
+
