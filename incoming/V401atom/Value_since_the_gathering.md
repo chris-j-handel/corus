@@ -794,6 +794,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a me-parity's birthing.** The sequence's 156, at the registry's *33*: inside a bi-folding, a new 0, having a prior-existing me-parity and a prior-existing all-parity. v401atom's candidate, a birthing as a fold's next, is out.
 
+**Going on, 14 November: co-chaining and cohering, six forward.** The sequence's 157, at the registry's *9*: same-as, other-than, same-as, in turn; six one after one, by two ways of each of three planes at right angles.
+
 ---
 
 ## 6 Executed, each case, all or none
