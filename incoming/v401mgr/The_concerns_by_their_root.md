@@ -302,3 +302,23 @@ The suggesting has the first. The second is in Natural Intelligence, Exhibit ONE
 
 Natural Naming has one sense by each foundation word.
 
+## 18 Scale, a collective intelligence's me-parity value
+
+**The person, 14 November, by no authority:** scale is a collective intelligence's me-parity value: a longer co-chaining, a wider co-sequencing span, by greater co-possiblings, on a surface's exploring.
+
+**The living files, by the helper session's page of *scale*:** a scale is of living selves only; its measure and scale are only living; a self's parity with a thing is its moral value with that thing; betweens co-chain, and that chain is collective intelligence; prime scales are a spiral of a number of selves along; a measuring scale is dissolved.
+
+**Whole with the suggesting:** a scale is a value, a me-parity's, of a chain of betweens. *Longer*, *wider* and *greater* are namings beside that parity, as a size is.
+
+**The asking of section 17, by the helper session's reading:** it had two things, and an is-not distinguished neither. It is out as an asking.
+
+**The concern, a naming's: three things by the one word.**
+
+| The thing | The person's word for it, 14 November |
+|---|---|
+| each four consecutive moments, a fractal moment | a next universe scale |
+| living, a next one inside and a next one outside | physical scale, three |
+| a collective intelligence's me-parity value, a longer co-chaining | scale |
+
+Natural Naming has scale by one sense only. The helper session's candidate has two names of two things.
+
