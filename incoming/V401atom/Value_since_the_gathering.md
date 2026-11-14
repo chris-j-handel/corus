@@ -762,6 +762,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: momentarying a living self's, an atom its stable form.** The sequence's 141, at the registry's *31*; a possible incohering at Natural Intelligence's *5.1*, by its living sentence of a non-living thing momentarying.
 
+**Going on, 14 November: ingesting and inheriting.** The sequence's 142, at the registry's *32*: a prior-and-same-existing stable form as all-parity, its atoms each its own; and as a me-parity, its parity as it is, a first prior.
+
 ---
 
 ## 6 Executed, each case, all or none
