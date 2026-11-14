@@ -764,6 +764,14 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: ingesting and inheriting.** The sequence's 142, at the registry's *32*: a prior-and-same-existing stable form as all-parity, its atoms each its own; and as a me-parity, its parity as it is, a first prior.
 
+**Going on, 14 November: now and next two alongs; the two sides a self's and its other's.** The sequence's 133 and 134 re-said by Exhibit ONE's own pairs, 6 to 2, 10 to 14 and 9 to 17. Out: 8 apart as straight across, now and next as the two sides across, and to and from in turn around. `instruments/six_around_check.py`, its arrangements out.
+
+**Going on, 14 November: same-as and other-than.** *Other-than* in the place of *not same-as*, in the sequence and in each droplet of v401atom's own. A concept of ten cyclings, a four-cycling in and a six-cycling out, laid in `The_Concerns_of_the_Sequence.md`, its part 12, in no sentence yet.
+
+**Going on, 14 November: four-cycling and six-cycling about five, by natural numbers.** `The_Concerns_of_the_Sequence.md`, its part 13; `instruments/four_six_five_check.py`. An exploring, in no sentence: five between four and six, open; ten; a right spiral step same-as after four and other-than after six; the fourths and the sixths one name at 12; the prime gaps of four and of six by the names.
+
+**Going on, 14 November: a cycling by its ending; five the centre.** The sequence's 143 and 144, at the registry's *Opening*. A concept of the hole in 5, 10 and 15, and the primes 11, 29 and 47, each eighteen from its next: `The_Concerns_of_the_Sequence.md`, its part 14, in no sentence.
+
 ---
 
 ## 6 Executed, each case, all or none
