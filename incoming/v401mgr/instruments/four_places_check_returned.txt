@@ -1,0 +1,12 @@
+cases: a prior of + or of − or none, and none to three parities arriving by one 4: 45
+four places: prior · possibling · co-possibling · same-existing; a 1 by a parity, a 0 by a 0 or by nothing
+   a prior · 1 1 1 1 · 6 cases
+   a prior · 1 1 0 1 · 6 cases
+   a prior · 1 0 1 1 · 18 cases
+   no prior · 0 1 1 1 · 6 cases
+   no prior · 0 0 0 0 · 9 cases
+a self having a prior, each case: three 1s or four: True
+a self having a prior, each case: same-existing a 1: True
+a self having a prior, each case: its prior a 1: True
+a self having a prior: a 0 by possibling in some case: True · by co-possibling in some case: True · by both in one case: False
+no prior: three 1s, its 0 by its prior, in some case: True · same-existing a 0 in some case: True
