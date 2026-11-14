@@ -47,3 +47,24 @@ Natural Intelligence and Exhibit ONE have no sentence of bettering, fastering or
 ## 4 The asking by it
 
 Bettering is of value, fastering of moment and cheapering of living, each its own.
+
+## 5 The pairing, and the three laid on the method's three
+
+**The person's *is*, 14 November, by no authority:** bettering is of value, fastering of moment and cheapering of living, each its own. The asking was v401mgr's and the *is* the person's: a candidate of both. No living sentence has it.
+
+**Its ground, by naming.** Each of the three is a comparing: better, faster, cheaper. A comparing is a naming beside one thing: a value, a moment, a living. Exhibit FIVE's sentence is whole beside it: the pairing is by naming, and by no measuring and no phase. The three co-cycle, inseparable.
+
+**Laid on the method's three, two layings.**
+
+| The service's, and its thing | By each name's own root and its living sentence | By along, across and inward |
+|---|---|---|
+| fastering, of moment | bi-momentarying, with 1 and 2: its root a moment; "sharing both ways with 1-now-existing and 2-now-possibling, a bi-coupling" | co-competencing: "Morality across and competency along"; moments one after one |
+| bettering, of value | co-intelligencing, with 3 and 4, a self's parity and its discovering: "A self's parity with a thing is the self's moral value with that thing." | bi-momentarying: with a particular other, across; "a self shares, an other makes it better and breaks it" |
+| cheapering, of living | co-competencing, with 5: "A self is observing them only as co-competencing, prior-existing from this living." | co-intelligencing: "selves observing, possibling and discovering within a universal set", inward |
+
+**Not resolved by the laying:** which of the two. Each has living sentences by it. The first is by each name's own root; the second is by the laying of scale's three, one after one as along, beside as across, inside as inward.
+
+## 6 The asking by it
+
+Fastering is by bi-momentarying, bettering by co-intelligencing, and cheapering by co-competencing.
+
