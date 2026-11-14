@@ -74,6 +74,7 @@ Opportunities 3, 6 and 8 go on with no asking. Each other waits on a sentence of
 - `placing/Natural_Resolver_each_droplet_placed.md`: the placing's third reading, begun 14 November. Each droplet of Exhibit ONE's gathering read whole, by its home and its fate: 40 placing, 7 going on, 2 riding, 2 dissolving.
 - `placing/Natural_Naming_each_droplet_placed.md`: the third reading going on. Each droplet of Natural Naming's gathering by its fate: 31 placing, 36 going on, 1 riding, 2 dissolving; four values for the person's list.
 - `Progress_for_the_working_V401atom.md`: the progress by the plan's stages, asked by the person 14 November; what the person answered with v401mgr; v401atom's page of droplets read with it; and how v401atom is helpful now, in order: its droplets each to its home's gathering, the ledger's droplets of its first reading, one instrument for stage 2, and the once over.
+- `instruments/four_places_check.py`, with its returned lines, 14 November: each case of one bi-coupling of one self by Exhibit ONE's code, 45, read by four places, its prior, its possibling, its co-possibling and its same-existing. A self has three 1s or four, its 0 in one of the first three and in the fourth in no case.
 
 ## 7 Exhibit ONE's gathering-value, its passes
 
