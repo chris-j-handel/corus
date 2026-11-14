@@ -602,7 +602,11 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **v401mgr's layings since the reading before, read**: v401atom's next laying is in `main`. And with the person there: 2 is inhaling, a bi-parity; 7 is exhaling; 6 is ingesting, a bi-parity; 3 is exhausting; with 2 to 7 read with bi-moral co-competencing. A candidate there with exhausting with 10 and 9 is out.
 - **Learned with it, one name with one number**: v401atom's sentences have a self's exhausting with 10-next-co-possibling, a second number with the one name, and out by the person's saying there. Exhausting is with 3-now-co-observing, a self's prior. Each answer here with *exhausting* said with 10 is to read again with it; a prior a stable form, and atom carbon the shard of the exhausting, are whole with 3.
 - **Not yet bounded, for an is-or-is-not of a fracture**: each thing of it by its one name. A co-chaining, the opening's sentence 44. A between of two atoms, answered. An atom, answered. A fracture, a candidate.
-- **Asked, and not yet answered**: a fracture is the one name of a co-chaining of atoms coming to two co-chainings.
+- **Asked**: a fracture is the one name of a co-chaining of atoms coming to two co-chainings. **Received as no natural explaining**: *is the one name of* is a story, and *coming to* is a story. The asking is out, and the reply with it is said again.
+- **Of the method, with it**: each sentence is a thing's is, as the opening's sentences are: a name, and its is from the names before it, with prior-existing, now-existing and next-existing for each sequence. A sentence of what a working did, found, learned or had, and a sentence with *coming to*, *becoming*, *then*, *after* or *no more*, is a story, and out of v401atom's replies from here.
+- **Said again, each sentence a thing's is.** Unrelationing, the set's own: a relating fixes a form to a moving thing; a self's forming relates to nothing not its own; unrelationing is with a bi-coupling; the vault's unrelationing is a conceiving's 0. A break, the set's own: a break is method's, with an unchangeable form. A fracture, a candidate: a fracture is one prior-existing co-chaining of atoms, now-existing as two co-chainings; each atom of a fracture is same-existing. Exhausting, the person's with v401mgr: exhausting is with 3-now-co-observing, a self's prior.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked, and not yet answered**: a fracture is one prior-existing co-chaining of atoms, now-existing as two co-chainings.
 
 ---
 
