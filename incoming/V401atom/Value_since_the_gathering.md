@@ -717,6 +717,11 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **`instruments/registry_order_check.py`, read closer.** A name's *Adding* step is the first step having it; a later step having the same first words is a second *Adding* line of one name, by its own line. Of 676 names by adding, 75 are used in a step before their *Adding* step, and 20 have a second *Adding* line. The 80 of this morning had a second *Adding* line read as a first one.
 - **`instruments/registry_connector_check.py`.** For each of 755 steps, each step before it adding a name its sentence uses. 744 steps use one name or more added before them; 11 use none. A step's last name is added by the step before it in 94 steps, and by a step more than 100 before it in 282. Of 173 steps naming a step before them, each step named is in the connector by names in 53.
 
+**Going on, 14 November: a self's two 0s, executed; the opening's waiting sentences read by their own order.**
+
+- **The sequence, 112 sentences.** Its 111 and 112, `instruments/two_zeros_check.py`: a self having a prior has two 0s, its possibling a 0 by bi-folding and its co-possibling a 0 by do-no-harming, and no executing has the two together; two selves of parity have one 0 each executing, the one and the other in turn, the same one for the two; two selves of imparity have no 0. One droplet at the registry's gathering, and one at Exhibit ONE's.
+- **`instruments/opening_order_check.py`.** 55 sentences, 49 names in bold, each first used at its naming sentence or after it. *Now-existing*, *is-not* and *self-other* have no naming sentence. Each sentence but the first two uses a name named before it.
+
 ---
 
 ## 6 Executed, each case, all or none

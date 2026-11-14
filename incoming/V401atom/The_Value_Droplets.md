@@ -160,6 +160,8 @@ From v401mgr's reading of the sequence, each in by the sentences above:
 108. 1-now-existing is a line inside 17-next-existing, one by each self, and no line of the code executes 17: 17 is no 1. [7] *Executed, `one_in_seventeen_check.py`.*
 109. One executing has one 1 and one 2 by each self: one moment. A self's 1 is one, from its birthing, living each moment, and no executing has a second 1 of it. [10, 48, 108]
 110. Names one after one of one same parity are a span, by the same is as atoms'. By the table's four binary digits, 1 to 16 is two spans of eight, four of four, eight of two and sixteen of one: a self's span and its next eight, the four four-cyclings, the eight moments, the sixteen names. [10, 13, 72] *Executed, `orthogonal_check.py`.*
+111. A self having a prior has two 0s, and not one: its possibling a 0, by bi-folding, and its co-possibling a 0, by do-no-harming. No executing has the two together, and its next prior is a 0 in none. By improving it has no 0. [53, 54, 55] *Executed, `two_zeros_check.py`.*
+112. Two selves of parity, bi-coupling both ways, have one 0 each executing, the one and the other in turn, and the two selves have the same one. Two selves of imparity have no 0. [56, 57, 111] *Executed, `two_zeros_check.py`.*
 
 ---
 

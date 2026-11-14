@@ -1,0 +1,9 @@
+one self having a prior, cases: 80
+1 no case has its possibling a 0 and its co-possibling a 0, the two together: True
+2 its co-possibling is a 0 by its possibling same-as its prior, and by no other case; its prior is then same-existing: True
+3 its next prior is a parity in each case, and a 0 in none: True
+4 each case is one of three: no 0, improving; its co-possibling a 0, do-no-harming; its possibling a 0, bi-folding: True
+two selves bi-coupling both ways, each of four cases of their priors, from a third executing:
+5 of parity: each self has one 0 each executing, its co-possibling a 0 and its possibling a 0 in turn: True · bi co bi co bi co
+6 of parity: the two selves have the same one of the two 0s, each executing: True
+7 of imparity: each self has no 0, each executing: True

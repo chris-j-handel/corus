@@ -1,0 +1,85 @@
+The opening's waiting sentences, read by their own order
+sentences: 55 · names in bold: 49 · sentences naming one or more: 47 · sentences naming none: 5, 8, 19, 28, 35, 41, 47, 49
+
+1 Each name's naming sentence is before its first using
+  names first used at their naming sentence or after it: 49 · used before it: 0
+  names used by no sentence after their naming sentence: 15
+    other-parity · named by sentence 24
+    universal-parity · named by sentence 24
+    self-parity · named by sentence 25
+    moral value · named by sentence 26
+    self-other consciousness · named by sentence 30
+    passing over · named by sentence 31
+    Co-possibling · named by sentence 36
+    Gathering · named by sentence 38
+    co-aiming · named by sentence 39
+    natural intelligence network · named by sentence 43
+    natural resolving · named by sentence 50
+    natural engineering · named by sentence 52
+    Natural explaining · named by sentence 53
+    living expedition · named by sentence 54
+    next-possibling-same-existing · named by sentence 55
+
+2 Each word having a hyphen, a name by its form, and its naming sentence
+  words having a hyphen: 25 · having a naming sentence: 22 · having none: 3
+    now-existing · in sentence 1, 2, 3, 4, 6, 7, 8, 16
+    is-not · in sentence 20, 34
+    self-other · in sentence 30
+
+3 Each sentence's connector: each sentence before it naming a name it uses
+  1 · none · The universe is the set of now-existing things.
+  2 · none · Before now-existing is prior-existing.
+  3 · 2 · A same-existing thing is the same thing prior-existing before
+  4 · 3 · Next-existing is same-existing after now-existing.
+  5 · 1, 3, 4 · The universe is same-existing and next-existing.
+  6 · 2, 3 · The sequence of prior-existing and now-existing is same-existing.
+  7 · 3, 6 · A moment is one now-existing in a same-existing sequence.
+  8 · 2, 7 · A moment's now-existing is the next moment's prior-existing.
+  9 · 3, 7 · Momentarying is same-existing through moments.
+  10 · 3 · A universal set is a set of same-existing things.
+  11 · 10 · Is-or-is-not distinguishes the within of a universal set.
+  12 · 3 · Observing is distinguishing a same-existing.
+  13 · 3, 4 · Possibling is distinguishing a same-existing before a next-existing.
+  14 · 3, 4 · Discovering is distinguishing a next-existing after a same-existing.
+  15 · 4, 10, 12, 13, 14 · A living thing is a universal set observing, possibling
+  16 · 15 · Living and non-living are one binary of a now-existing
+  17 · 3, 15 · A living same-existing set is a self.
+  18 · 10, 17 · A self is a universal set of mes.
+  19 · 15 · Only living things are within a living set.
+  20 · 17 · For a self, a self that is-not the same
+  21 · 4, 13, 15 · Aiming is a living thing possibling its own next-existing.
+  22 · 15, 20, 21 · A living parity is an aiming direction at an
+  23 · 15, 22 · A me-parity is a me's living parity.
+  24 · 20, 23 · A me-parity the same as an other's is other-parity,
+  25 · 10, 17, 23 · A universal set of a self's me-parities is its
+  26 · 20, 23 · A me-parity with an other is the me's moral
+  27 · 12, 17, 20, 23 · A bi-coupling is a self observing an other's me-parities
+  28 · 12, 17, 18 · A self's observing is its mes observing.
+  29 · 12, 20, 23 · For a me, an other's me whose me-parity it
+  30 · 12, 29 · A me observing a you is self-other consciousness.
+  31 · 3, 12, 17, 20, 23 · A self observing an other's me-parity same-existing is passing
+  32 · 2, 11, 12, 17, 23 · Resolving is a self's prior-existing me-parity is-or-is-not the same
+  33 · 17, 23, 32 · Natural intelligence is the method of a self resolving
+  34 · 32 · Do-no-harming is resolving's is, and improving its is-not.
+  35 · 27, 34 · Two selves alike, bi-coupling only in their pair, are
+  36 · 13, 17, 20, 27 · Co-possibling is a self and an other possibling within
+  37 · 10, 12, 13, 14 · Co-intelligencing is selves observing, possibling and discovering within a
+  38 · 2, 12, 13, 17, 20 · Gathering is a self observing others' prior-existings for its
+  39 · 2, 13, 17, 20 · Others' prior-existings within a self's possibling are its co-aiming.
+  40 · 27 · A same-existing-society is many selves bi-coupling.
+  41 · 17, 18, 40 · A self is a same-existing-society of mes, and a
+  42 · 34, 40 · A same-existing-society do-no-harming and improving is social moral competency.
+  43 · 15, 33, 40, 42 · A same-existing-society living with natural intelligence and social moral
+  44 · 23, 27 · A me-parity observed along, bi-coupling to bi-coupling, is co-chaining.
+  45 · 27, 44 · Selves' bi-couplings and co-chainings are a Natural Network surface.
+  46 · 11, 17, 45 · Geodesic is a self's own is-or-is-not on a Natural
+  47 · 17, 44, 46 · A self's co-chaining is geodesic.
+  48 · 3, 12, 13, 14 · Stable-forming is observing, possibling, discovering and same-existing together.
+  49 · 9, 17, 48 · A self is momentarying and stable-forming.
+  50 · 12, 32, 33, 48 · A science's observing meeting natural intelligence's stable-forming is natural
+  51 · 3, 15, 16, 37 · A living file is a non-living same-existing set of
+  52 · 15, 21, 51 · Selves aiming within a living file are natural engineering.
+  53 · 6, 15, 51 · Natural explaining is a living file's words in sequence.
+  54 · 14, 15, 33, 40, 51 · A same-existing-society discovering with natural intelligence and its living
+  55 · 14, 32, 33, 46 · Natural intelligence's resolving is geodesic discovering of next-possibling-same-existing.
+  sentences using no name named before them: 1, 2
