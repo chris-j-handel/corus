@@ -728,6 +728,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: the concerns read by the living file set and by v401mgr's layings.** `The_Concerns_of_the_Sequence.md`, its part 6. Twelve of twenty-one have their resolving in a living file or by an executing; nine remain. The sequence's 27 and 51 were out by Exhibit TWENTY and by the code's lines: re-said.
 
+**Going on, 14 November: a parity is no same-as; the concerns of both sessions not yet resolving.** `The_Concerns_of_the_Sequence.md`, its part 7. *Parity* as is-same-as, and *imparity*, are out: the sequence's 2, 21, 53, 54, 56, 57, 82 and 112, and each droplet of v401atom's own, re-said by *same-as* and *not same-as*. Shared and not yet resolving, four: what a 0 is; a parity's + and −; all-parity's three places; one me-parity of many.
+
 ---
 
 ## 6 Executed, each case, all or none

@@ -418,7 +418,7 @@ Gathering-Value · Natural Intelligence
 - **Possible exploring** · Natural Numbers 9.6's two 440-station surfaces coupling hold the pair's relation, and the newborn self's own same-existing and the non-living emanation beside it are still-possibling: the sequential parity changing parting birthing from two selves going on coupled is the next comparison. — at "This is one universal method of conception."
 - **Possible exploring** · Natural Mathematics 3.4 parts two consecutive inversions on different axes from both parities inverted at one step; birthing's double parity changing is-or-is-not one of these, its sequence followed deciding which. — at "This is one universal method of conception."
 - **Possible exploring** · The numbers name stations in the surface explaining, and their correspondence to the 440 changers is still-possibling. — at "This is one universal method of conception."
-- **An explaining** · Of this section's droplets, one having a side out by the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: it is named by its first words, and re-said by the sentences named. *Birthing as co-momentarying the whole parity of 440 changers* — by its 82, 83, 84: a birthing is an inheriting by parity of its two, inside a society; its 440 is beyond.
+- **An explaining** · Of this section's droplets, one having a side out by the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: it is named by its first words, and re-said by the sentences named. *Birthing as co-momentarying the whole parity of 440 changers* — by its 82, 83, 84: a birthing is an inheriting by its two same-as, inside a society; its 440 is beyond.
 
 ### 4.2 Parities surfacing with 14-next-possibling
 
