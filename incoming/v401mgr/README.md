@@ -68,6 +68,7 @@ Opportunities 3, 6 and 8 go on with no asking. Each other waits on a sentence of
 - `instruments/own_turn_check.py` with `own_turn_check_returned.txt`: Exhibit ONE's code executed as it is, with selves stepping together and with each self with its own turn.
 - `From_the_working_V401atom.md`: that working's progress read; the learning picked up, each with its gathering-value; nine suggestings; two workings each with its aiming; and the origin, the non-living atom with its physical form, with each place of the set for it.
 - `The_Session_Gathered.md`: the session's value, each with its place now; the method it reached; each thing found by comparing the transcript with the set; each thing not distinguished; and the plan, with the step it stopped at. Each count of this page and of `The_value_by_its_places.md` is of its own moment; the gathered page has each as it is after the session.
+- `The_Plan_for_the_next_version.md`: the plan for Natural Intelligence's next version, with Exhibit ONE inside it, asked by the person 13 November: what is read first, what does not change, seven stages in their order, the four living files that change, and its first step. It changes no living file.
 
 ## 7 Exhibit ONE's gathering-value, its passes
 
