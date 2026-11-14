@@ -209,3 +209,35 @@ The neither's 0 is inside one now and in no next.
 
 **The concern of both sessions, inside and outside:** by names of one scale, 4 and 12 beside 8 and 16, the sessions' candidate; or by scale, four moments inside each one moment, the suggesting's and the living sentences'.
 
+## 13 A concern of the method, and each reading of 14 November by the code's lines themselves
+
+**The person's suggesting with the atom session, 14 November, by no authority:** a number of cases is a measuring of an engineered artifact, and no rigor. All or none is by logic. An executing checks a reading and derives none.
+
+**It reaches this page the same.** Sections 9 to 12 have *executed* as a base. Each reading is here by the lines themselves, all or none. The instruments are checks beside them.
+
+| The reading | By the code's lines |
+|---|---|
+| a self's next prior is a 0 in no case | its 11 has a value of its 10 only by that value other than 0; else its prior, a parity |
+| a 0 by two parting, or by none of its others, is in no return | by its 15 a 0, the one line has its 12 as its prior's other one; its 10 is its 12 |
+| a returned 0 is by same-as only | its 12 is a 0 by one line only: its 15 other than 0, and same-as its prior |
+| by a 0 a self has what it has by none of its others | by none, its 15 is a 0 by the line's own; one same line after it |
+| a self's next is one of two | its 12 is a 0, its prior living on; or its prior's other one, its next prior |
+| two selves not same-as, each by the other: each one's next is its other's prior | each one's 10 is its prior's other one, its other's prior; that is its other's 2 next, not same-as that other's prior; the one line again, each moment |
+| which of two is first is in no line | 17 has each self's 1 by its own 3 and 2 of 16; no line of one self reads an other's return of that 17 |
+| a self's others first, its own after | in 1 its 2 is read by the first lines, and its 10 is by a line after them |
+
+## 14 Inside and outside by scale, and the scale's step
+
+**The person's *is*, 14 November, by no authority:** inside and outside are by scale, four moments inside each one moment, and by no names of one scale. Its ground is the living sentences.
+
+**Out by the living sentences, of both sessions:** inside and outside by names of one scale, 4 and 12 beside 8 and 16. The table's co and tri at those names are forms of each name's three.
+
+**The concern by it, by the living sentences only:**
+
+| The living sentence | Four moments inside, 1 to 9, are |
+|---|---|
+| Natural Naming: 1, 2 and 3 of one scale are 1, 9 and 17 of the next | one step outside, 1 to 2: one parity of a moment |
+| Natural Intelligence: 4, 8, 12 and 16 are 1, 2, 3 and 4 again | 1 to 3 outside: a moment having both its parities |
+
+Natural Naming has one four-cycling as two moments, each with two parities. The two steppings part, and Natural Naming's gathering has it as a doubt.
+
