@@ -302,7 +302,7 @@ Gathering-Value · Natural Naming
 
 ### 5.64 not possibly existing — binary
 
-- **Possible exploring** · A name by a partner's sentence, 14 Nov: *is-not-possibly-next-and-same-existing*, of two not same-as, bothbothing. It has no place in the living files. By Exhibit ONE's code, executed, a candidate of its thing: a self having no prior, and two parities arriving not same-as, has a 0 as its co-possibling and no next prior; resolving has no is and no is-not by it. Asked of the partner, at Natural Intelligence's gathering, *Opening*.
+- **Possible exploring** · A name by a partner's sentence, 14 Nov: *is-not-possibly-next-and-same-existing*, of two not same-as, bothbothing. It has no place in the living files. By Exhibit ONE's code, executed, a candidate of its thing: a self having no prior, and two parities arriving not same-as, has a 0 as its co-possibling and no next prior; resolving has no is and no is-not by it. Asked of the partner, at Natural Intelligence's gathering, *Opening*. Met by the partner: no prior is in no case; the candidate of its thing is out, and the name has no thing read yet. With it: two not same-as is observing, prior, now and same, and by the rotation, resolving.
 ## SIX · GATHERINGS AT THE RESOLVER'S NAMES
 
 ### 6.1 Four invisibles, one invisibility four ways
