@@ -802,6 +802,10 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a bi-coupling's two planes and one line.** The sequence's 161 and 162, at the registry's *9*: its two sides have the same two planes across, one after one, and one line along through their centres; a self and its other co-momentarying inside it, its same-existing rolling over, a prior over now into next.
 
+**Going on, 14 November: a bi-coupling's two planes in turn.** The sequence's 163, at the registry's *9*: one after one by linear parallelizing, and through each other in the aiming line by parallel linearizing; three planes, two, two, three, in turn.
+
+**Going on, 14 November: the ten.** The sequence's 164, at the registry's *9*: the two twos the four-cycling in, the two threes the six-cycling out, ten together, five the centre.
+
 ---
 
 ## 6 Executed, each case, all or none
