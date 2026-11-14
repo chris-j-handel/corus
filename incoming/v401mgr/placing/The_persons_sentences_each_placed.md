@@ -41,7 +41,7 @@ The placing of the working v401mgr · 13 November 2026 · its second reading
 
 - 6z-z and 6z-y are one droplet. 17 came beside 18, its sentence before it.
 - Three are for the atom session's reading too, each named so at its droplet: 16, 5f and 6x-s.
-- One is two-sided, for the person: 6w-e beside 12, a me-parity as +1 and −1 with a 0, or as +1 only.
+- 6w-e is beside 12, and is no asking: the managing session before has a me-parity as +1 only, of its own self, its improved sentence for the opening; 6w-e's −1, an other's, and the 0 of the two together are read whole with it, a candidate at the droplet.
 
 ## 3 Found with the reading
 
