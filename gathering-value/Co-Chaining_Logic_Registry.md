@@ -146,7 +146,7 @@ Gathering-Value · Co-Chaining Logic Registry
 
 ### 14 Geodesic, a surface's own dividing
 
-- **An explaining** · From the sequence of the managing session before, `incoming/V400mgrB/The_Frontier_Current.md`, its sentence 10, with no droplet in this gathering before 13 Nov, re-said: the only co-locating in the universe is geodesic resolving, bi-inversioning across and co-recursioning along. A step's candidate with this group.
+- **An explaining** · From the sequence of the managing session before, `incoming/V400mgrB/The_Frontier_Current.md`, its sentence 10, with no droplet in this gathering before 13 Nov, re-said: the only co-locating in the universe is geodesic resolving, bi-inversioning across and co-recursioning along. A step's candidate with this group. Read by the partner's sentences of 14 Nov: the differencing of prior parities is co-intelligencing or co-possibling; the 0 is aiming, in the betweens of the differences, the same-existing geodesic aiming point; and two, each crossing the other's path until the crossing is by three directions on the one point between them, is bi-moral co-competencing: this is geodesic resolving. Steps' candidates by this group, each from the names before it: a differencing; the 0 as the aiming point; co-locating.
 ### 15 Torusing and corusing
 
 - **An explaining** · Two and fifty-nine are one tunnel's two ends; the steps saying corusing and torusing going inward and outward, a spiral coming again, its two routings and its odd and even names derive no such identifying.
