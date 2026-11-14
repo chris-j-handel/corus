@@ -165,3 +165,23 @@ Each order of the selves in 16 has one same return of 17.
 
 **The concern, what a 0 is, by it:** the meeting's 0 is in no place of either of the two. It is the possibling of a self having both. Natural Intelligence has 14's 0 as a between of self and other; the code's first comparing line has it as two of a self's others parting, at that self.
 
+## 11 A 0, the neither inside a bi-coupling's vault
+
+**The person's suggesting, 14 November, by no authority:** a 0 is the neither, inside a bi-coupling's vault. It is the universal all-parity of the vault's inside. Each vault is an all-parity inside, orienting in an all-parity outside. Corusing and torusing, bothbothing.
+
+**The living files have it.** Natural Naming's four invisibles: a neutral, with two coming, nothing occupying it; each side's own corus, its own; a between of moments. A self's own corus is with 4. Natural Intelligence has a bi-coupling as a self, and a parity through a 0, not changing, as natural torusing.
+
+**By the code, executed, `instruments/zero_places_check.py`:**
+
+| A self's place | A 0 | By the living files |
+|---|---|---|
+| its possibling, 14, by a 4 | by two parting | a neutral, the neither; corusing's |
+| its co-possibling, 12, by a 4 | by its prior and its other's same-as | a between of moments; torusing's |
+| its next prior, its 8 | in no case | |
+
+By its possibling a 0, a self has in each case what it has by none of its others: by all-parity.
+
+**The concern of what a 0 is, its standing:** resolved by the living files and the code. The meeting's 0 is the neither. The two coming are inside a bi-coupling, a self. A third self beside the two is out, v401mgr's own.
+
+**A concern remaining, the vault among the names:** the atom session's sequence has the vault with 8 and 16. By the code 8 and 16 are a 0 in no case, and each 0 is by a 4, a self's own.
+
