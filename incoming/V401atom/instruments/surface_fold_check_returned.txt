@@ -17,3 +17,9 @@
   each fold's line is thirty from the thread's line, and has the same way along it as each other fold: each fold is in the one cone of thirty about the thread's line;
   folds one after one are its one edge and its other, in turn, sixty apart, one half the same;
   and from a fold's prior, its two others are thirty each side of the fold's line: the fold's own cone's two edges: True
+5 folds one after one, its atoms by their numbers, 1 and on:
+  cases: 12
+  the odd atoms are one line along, and the even atoms the other line along: True
+  a four, 1 to 4, is one fold: its first over its two middle as its fourth; and 5 to 8, 9 to 12 and 13 to 16 the same: True
+  the fourths, 4, 8, 12, 16 and on, are on one line along, each the same step from the fourth before it: True
+  the folds of the fours, 1 to 4, 5 to 8, 9 to 12 and on, are each one same line, the same way along: True
