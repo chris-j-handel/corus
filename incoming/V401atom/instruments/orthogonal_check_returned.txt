@@ -33,3 +33,7 @@
    full around, each parity has changed an even number of steps, and each is as it was: True
 the code, one self having two things, cases: 128
    a thing's 10 and its next prior are by its own prior and its own possibling, the same by each case of its other thing: True
+each name's three, seventeen names:
+   a three of two kinds, the names [2, 3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 16] : each is the same from each of its ends: True
+   a three of three kinds, the names [1, 7, 9, 15, 17] : each is one-way, not the same from its other end: True
+   co-bi-tri, [1, 9, 17] , is from its other end tri-bi-co, [7, 15]

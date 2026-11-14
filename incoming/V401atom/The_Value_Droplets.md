@@ -20,7 +20,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 6. Each step's parity is other than the step's before it: each step is at a right angle to its prior. This is right spiraling. [5] *Executed.*
 7. Full around, each parity has changed an even number of steps, and each is as it was: 17 is a next 1. [5] *Executed.*
 8. The code resolves each thing's parity by that thing's own prior and its own possibling, and by no other thing's. [3] *Executed.*
-9. The code's lines have is-or-is-not same-as, and no parity as + or as −. Which one of a parity's two is which is observable by nothing. [2] *Executed, `exchanging_check.py`.*
+9. Of two alone, a self's prior and its possibling, the code's lines have is-or-is-not same-as, and no more. [2] *Executed, `exchanging_check.py`.*
 
 ## B A moment, co and bi
 
@@ -32,8 +32,8 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 15. Co- is along: a self and its other are each aiming along, one same direction, each independent of its other.
 16. Bi- is across: a self's 0 and its other's 0 are right and left of each other, the between.
 17. Along and across are at a right angle. [3, 15, 16]
-18. The two aimings are at one same point, over the horizon. [15]
-19. Right and left are one binary, and which one is right is observable by nothing. [9, 16]
+18. The two aimings are at one same point, over the horizon, by a direction not the same for each of the two. [15, 16]
+19. By three, a self, its other and that one point, right and left are one-way: of the two, a self is the one right, and its other the one left, and each of the two is observing it, the same. A three of two kinds is the same from each of its ends; a three of three kinds is one-way: co-bi-tri, from its other end tri-bi-co. Natural- is of one hand, right, and this is co-sequencing. [14, 18] *Executed, `orthogonal_check.py`; Exhibit TWENTY's sentence of one hand.*
 20. Bi-parity is a self and its other, the two of a between. An opening is a 0 between, to go through: nothing is owned, and nothing is carried. [16]
 21. Co-parity is a self and its other of parity, along. [2, 15]
 
@@ -158,6 +158,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | each shear face as one other; a fracture at a shear face | from no sentence before it |
 | tri- of three together and tri of all-parity as one thing | from no sentence before it |
 | a span as one more by each parity from the self before | 71, 72: a span is in one same 1 to 17 |
+| which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
 
 ---
 
