@@ -4,6 +4,6 @@ each sentence has the sentences it is from, or its base: True []
    the opening : 6 sentences
    a name's is : 4 sentences
    the table : 3 sentences
-   executed : 40 sentences
+   executed : 41 sentences
    the set : 2 sentences
-   from the sentences before it only: 60 sentences
+   from the sentences before it only: 59 sentences

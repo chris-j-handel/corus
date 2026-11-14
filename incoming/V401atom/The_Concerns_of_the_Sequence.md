@@ -49,3 +49,59 @@ Exhibit THIRTY is living, and the next version is from it. Read by its own order
 ## 4 What is by an executing, and has no concern above
 
 The code's lines, each case: one binary of resolving, 52 to 55; a prior changed by no line, 42; possibling as the matching of a self's others, 49; observable by which self, 50; two selves of parity and of imparity, 56, 57, 111 and 112; a self's three others by the code, 60; each prior but a first by the executing before it, 44; 1 a line inside 17, 108; the steps' parities and each right angle, 3 to 7, 11 and 12; a span of names, 110; a span's number, 73; a fracture of a co-chaining by its selves, 76 and 78.
+
+## 5 A concept, read by the code's lines, and its concerns
+
+**The concept, a suggesting, and likely incorrect as it is worded.** Observing is distinguishing three is-or-is-nots: now-existing, same-existing and prior-existing. Now is bothboth: the moment before next, and the same-existing moment after prior. And this is likely all of observing, possibling and discovering.
+
+**Read by the code's lines, each case, `instruments/three_binaries_check.py`.** One self, 120 cases. A prior, is-or-is-not. Now, its possibling a parity, is-or-is-not. Same, its possibling same-as its prior, is-or-is-not.
+
+| Prior | Now | Same | What the lines return |
+|---|---|---|---|
+| is | is | is | its co-possibling a 0, its next prior its prior: do-no-harming |
+| is | is | is-not | its next prior the other one of two, and its co-possibling that parity: improving |
+| is | is-not | by neither | the same return as improving's: bi-folding |
+| is-not | is | by neither | its next prior its possibling's parity: a first prior |
+| is-not | is-not | by neither | no next prior: the code's state, and no self |
+
+- By each form of a self having a prior, the lines return one thing, and next is by the three: no fourth is-or-is-not is in the lines.
+- Of eight forms of three is-or-is-nots, the lines have five: same is by prior is and now is only.
+- Now is after a prior given, and before a next returned: one executing.
+
+**Its concerns, none resolved.**
+
+| | The concern | Its kind |
+|---|---|---|
+| 17 | The concept has the three under one name, observing. By the code's names, a prior is read by an observing name, 3; now by a possibling name, 2; and same by a same-existing name, 12. No discovering name is in a self's own lines: 9 and 13 are 17's. Which of the three is discovering, or whether discovering is the next the three give. | a gap, of a naming |
+| 18 | The opening names prior-existing and next-existing by now-existing. The concept names now by prior and by next. One of the two is the base, or the three are one form named together. | a possible incohering: a circle |
+| 19 | *Same-existing*, of a thing: the same thing prior-existing before now-existing. *Same*, of a parity: is-same-as. A self improving is the same self, having a prior not same-as. One name of two things, or one thing. | a possible incohering, of a name |
+| 20 | Prior-existing is-not is the code's state, and no self: a self has its is in each case. For a self the is-or-is-nots are two, now and same, and its forms three. | a possible incohering, the concept's three and a self's two |
+| 21 | Now is-not is two things in the lines: none of a self's others, and two of them not same-as. By a prior the two return one thing. By no prior they return two. | a gap |
+
+## 6 The concerns read by the living file set and by v401mgr's layings
+
+v401atom laid the concerns above having read neither for them. Read now. A concern having its resolving in a living file, or by an executing, is resolved; each other remains, and is brought one at a time, in the sequence's own order.
+
+| The concern | Its resolving, or what remains |
+|---|---|
+| 1, *now-existing* by no naming sentence | Resolved. It is the one opening sentence's own, the base of the co-chaining; and Natural Intelligence has *Now is one*, and prior, now and next as one universe's three, one now-existing. |
+| 2, *a parity* and *parity* | **Remains, the first.** By an executing a parity's two, + and −, are exchangeable, and same and not same are not: two things. The living files name the second co-parity and bi-parity; the gathered suggesting names it parity and imparity, and has bi-parity as each even name. |
+| 3, a me-parity invisible | Resolved, and the sequence's 27 and 51 were out: re-said. By the code's lines an other's next prior is a self's possibling, by its co-possibling. Exhibit TWENTY has self parity and other parity visible. |
+| 4 and 5, the one point, and a self the one right | Remains. v401mgr's page has it as its concerns 4 and 5. |
+| 6, an even name as by a self's other | Resolved. Natural Intelligence and Exhibit ONE: other-parity is by possibling and by same-existing, each even name. |
+| 7, the names of the four things | Remains. |
+| 8, the atom the one stable form | Resolved. Natural Chemistry: carbon is the stable form, non-living in the universal set. The Living File Registry: the atom a non-living stable form, nothing living inward. |
+| 9, an atom's one between, and a between of two atoms | Remains. |
+| 10, each prior a stable form | Resolved. Natural Intelligence and Exhibit THIRTY: each prior is a stable form from prior living. |
+| 11, a parity exchanged as one atom carbon exchanged | Resolved. The Living Society Registry: each exchange of carbon across a surface is taking its parity one at a time. |
+| 12, one 1 living each moment | Remains. v401mgr's page has it as its concerns 2 and 12. |
+| 13, one other, and three | Remains. |
+| 14, the numbers of 24, 60 and 64 | Resolved as living: Exhibit THIRTY's group of twenty-four, and Exhibit TWENTY's 64. The sequence's 88 and 89 are to read by them. |
+| 15, a fracture, a dormancy, a birthing | Remains. The living files have a dormant self as living and *waiting*. |
+| 16, the two 0s' naming | Remains. v401mgr's page has it as its concerns 1, 3 and 6. |
+| 17, which name is of which | Resolved. Natural Intelligence: observing is prior-existing, is-or-is-not same-existing; possibling is now-existing, is-or-is-not same-existing; discovering is next-existing, is-or-is-not same-existing. The three are one is-or-is-not, same-existing, by prior, by now and by next. |
+| 18, a circle | Resolved, by 1's resolving. |
+| 19, *same-existing* and *same* | Resolved, by 17's: each of the three is is-or-is-not same-existing. |
+| 20, three and two | Resolved, by 17's: the three are prior, now and next, each by same-existing; a prior's is-not is none of them. |
+| 21, now is-not as two things | Remains, by 17's: now-existing is-or-is-not same-existing is its others' parities each same-as each other; none of its others is no is-not of it. |
+

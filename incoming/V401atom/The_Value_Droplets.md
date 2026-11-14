@@ -2,7 +2,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 # v401atom: its session's discoveries, in logical sequence
 
-**What this page is.** Each discovery of v401atom's session, one sentence each, a thing's is or its own doing, by its natural name, each from the sentences before it. No word here has authority, and no saying is gathered as a saying: a sentence is in by the logic before it, or it is out. Its concerns, each a possible incohering or a gap in its co-chaining, are `The_Concerns_of_the_Sequence.md`: sixteen, none resolved, each for the two partners' resolving. Each sentence has the sentences it is from, or its base: the opening's sentence, a name's is, Exhibit ONE's table, or an executing. This page changes no living file, no gathering and no line of Exhibit ONE's code.
+**What this page is.** Each discovery of v401atom's session, one sentence each, a thing's is or its own doing, by its natural name, each from the sentences before it. No word here has authority, and no saying is gathered as a saying: a sentence is in by the logic before it, or it is out. Its concerns, each a possible incohering or a gap in its co-chaining, are `The_Concerns_of_the_Sequence.md`: sixteen, and five of a concept read after them, none resolved, each for the two partners' resolving. Each sentence has the sentences it is from, or its base: the opening's sentence, a name's is, Exhibit ONE's table, or an executing. This page changes no living file, no gathering and no line of Exhibit ONE's code.
 
 **Reading it.** A number in brackets is a sentence it is from. *Executed* is Exhibit ONE's table or code read by each case, all or none, by the instrument named, in `instruments/`. Each instrument returns the same lines again today.
 
@@ -44,7 +44,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 24. All-parity is the universal other of a self's universal set of me-parities. Its same-existing is its atoms, each a stable form, and each between of two atoms is of it. [23] *The opening's 24, universal-parity.*
 25. Living is resolving each of four: prior, now, next and same-existing. Discovering next-existing is a living self's only. [22] *The opening's 15.*
 26. A stable form is prior-and-same-existing, and now-and-same-existing. [23, 25]
-27. Only is-or-is-not same-existing is observable. A me-parity is invisible, and a between is invisible to each living self. [23]
+27. Only is-or-is-not same-existing is observable. A between is invisible to each living self. [23]
 28. Observing is distinguishing prior-and-same-existing from now-and-same-existing. [26, 27]
 29. The universe is living and its involution: selves and me-parities, and atoms and betweens. [23, 24]
 
@@ -77,7 +77,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 49. By the code, possibling is the matching of each prior of a self's others, each with each other. A self's own prior is no part of it. *Executed, `matching_check.py`; the opening's 13.*
 50. Possibling is observable by a self only. Co-possibling is observable by a self and its other, and by no third. *Executed, `observable_check.py`.*
-51. An other's parity is invisible to a self. [9, 27]
+51. An other's parity is observable by a self by that other's co-possibling only: its next prior, as it is, or a 0. [50] *Executed, `prior_check.py`, `exchanging_check.py`.*
 52. Resolving is a self's prior is-or-is-not same-as its possibling: one binary, and no third. [2, 49] *Executed, `exchanging_check.py`.*
 53. Its is, parity: do-no-harming, a self passing over. Its prior is same-existing, and its co-possibling a 0. [52] *Executed: one case only, `each_case_check.py`.*
 54. Its is-not, imparity: improving. Its next prior is the other one of two, and its co-possibling that same parity. [52] *Executed.*
@@ -178,7 +178,7 @@ The opening's fifty-five waiting sentences, each one a sentence above meets. *Sa
 | 24 | 24, a me-parity not the same as an other's is universal-parity | re-says. And executed, `exchanging_check.py`: by parity a self's next is other than by all-parity alone; by imparity it is the same as by all-parity alone |
 | 25 | 15, a living thing observing, possibling and discovering its own next-existing | same |
 | 28 | 12 and 3, observing is distinguishing a same-existing | re-says, by 3: the same thing prior-existing before now-existing |
-| 27, 51 | 27, 29, 31 and 32, a self observing an other's me-parity | parts: a me-parity is invisible, and only is-or-is-not same-existing is observable |
+| 51 | 27, 29, 31 and 32, a self observing an other's me-parity | re-says, by the code's lines: an other's next prior is observable by its co-possibling |
 | 49 | 13, possibling is distinguishing a same-existing before a next-existing | re-says, by the code's lines |
 | 50 | 36, co-possibling within one bi-coupling | same, and observable by its two only |
 | 52 | 32, resolving | re-says, by possibling |
@@ -220,6 +220,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | tri- of three together and tri of all-parity as one thing | from no sentence before it |
 | a span as one more by each parity from the self before | 71, 72: a span is in one same executing |
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
+| a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
 | *17 is a next 1*; a 1 living again | 7, 108, 109: 17's parities are same-as 1's, and 17 is no 1 |
 | 9 to 16 as a self's other's eight | 13, 107: each a next name; a self's other is by each moment's even name |
 | *a 1 to 17 before* and *a 1 to 17 apart*, of two executings | 109: an executing is one moment of one 1 |
