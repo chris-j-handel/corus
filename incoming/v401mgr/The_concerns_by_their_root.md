@@ -388,3 +388,5 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Proposed, by v401mgr's part of watching over:** the next laying is a first part for the living files, whole by the plan's stages: Exhibit ONE's *a next 1*, dissolving, in each of the four living files. Both partners have it as dissolving, and Natural Intelligence has the sentence in its place. The files and their number are said before a living file changes.
 
+**The person's *yes*, 14 November.** Part one is laid: `parts/Part_one_17_no_next_1.md`. A slip of v401mgr's in this section: the sentence in its place is Exhibit TWENTY Natural Naming's, its 2.1, and not Natural Intelligence's. The part's reach is wider than one sentence: the four living files in the first entering, six more in the plan's stage 7, and places of another thing, a placing by eights and a next round's numbering, reached and not re-said.
+
