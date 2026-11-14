@@ -94,6 +94,28 @@ Natural Intelligence 4.15 has the second and the third of 1.2 in one section: "S
 - **By the code's lines themselves.** 4 and 12 are in a self's own lines, inside 1: 4 the one name a self's prior and its others' parities are by, and 12 a 0 by the two same-as. 8 and 16 are in 17's lines only, each self's own. A bi-coupling's same-existing is in the lines by 4 and by 12.
 - **Parting, a stable form beside it.** Exhibit ONE's eight of first prefixes has tri by 7 and by 15, and its sentence of section 2.1 has all-parity with observing only: *tri* by two things, a first prefix and the four by the same-existing names.
 
+### 3.4 Me and other-than-me by 4, and no all before a distinguishing: a suggesting, by no authority
+
+**The suggesting, re-said in natural naming.** 4-now-co-same-existing is me by other-than-me. No concept of all is, before a distinguishing of all from other and of other from all, bothbothing.
+
+- **Exhibit ONE's table has it, a stable form.** 4 is bi-co-bi: co in its middle, bi by each side, and no tri. Each name of 2 to 6 has co and bi only. 8 is bi-tri-bi: tri in its middle, bi by each side.
+- **Tri's opening.** Natural Naming 3.3: "tri opens with 7 and with 15" Exhibit ONE: the sentence of 7 in section 2.1, all-parity observing.
+- **4, by Exhibit ONE's own line of it.** "each sharing, parities and prior resolving, is-or-is-not same"
+- **All other as one, a living name.** Natural Naming 4.10: "uni- is all other coming as one with a coupling's scale across, bi- and tri- together from a self"
+- **By the code's lines themselves.** A self's first lines, over 2, have its others each by each other: one parity, a 0 by two parting, or none; its own prior is no part of them. Its lines after them, over 3, have its prior same-as or other-than it, by a 4.
+- **Out, v401de's own.** 4 as all by other, and its placing of the four of 3.3's asking.
+- **Not distinguished.** The four of tri by 4, 8, 12 and 16, one by each, of 3.3; and 4 having no all.
+
+### 3.5 A same-as prior to each other-than: a suggesting's is, and its sentence, by no authority
+
+**The suggesting, re-said in natural naming.** *Is*, to the distinguishing of all from other and of other from all, bothbothing, by 8-now-same-existing. Prior to each other-than, in resolving, is a same-as. From the same-as an other-than is separating, away from the remaining possibling same-as; and less possibling is remaining, as possibly next-and-same-existing.
+
+- **By the code's lines themselves, a self's others.** A first parity is as it is. Each one after it same-as has it as it is. One other-than has it a 0; and a 0 is a 0 by each one after it, no line having a parity from a 0. An other-than is of a second by a first before it; and what is remaining is not more by a later one.
+- **By the code's lines themselves, a self's prior.** Same-as is the line's *is*: a 0, its prior same-existing. Each other case is its prior's other one.
+- **The living opening.** Natural Intelligence: "Agreeing and parting are one binary of the parities a self receives." and "Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe."
+- **The opening waiting, gathered and not living.** Its thirteenth, possibling as distinguishing a same-existing before a next-existing; and its twenty-fourth, a me-parity the same as an other's as other-parity, and not the same, universal-parity.
+- **By names, a suggesting's is of 13 November, by no authority.** 3 other-than and 4 same-as; 7 other-than and 8 same-as. By it each same-existing name is prior to the next observing name: 4 to 7, 8 to 11, 12 to 15, and 16, through 17, to the next 3.
+
 ## 4 The edges
 
 - A match is of a name's letters: a sentence of a scale with no *scale* in it is not here, but the one of 1.2's fourth.
