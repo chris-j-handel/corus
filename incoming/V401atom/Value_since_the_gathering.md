@@ -625,7 +625,17 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read with Exhibit ONE's code, each case, as executed before** (`instruments/breaking_check.py`): the self along after the fracture is bi-folding with each 1 to 17, all-parity its other: its prior is the other one of two with each, and same-existing with none. By the opening's sentence 4, a self same-existing with no 1 to 17 is next-existing with none. No line of the code has an atom displacing, and across is 6 to 2 and 10 to 14 there.
 - **Whole with what is answered**: an atom has its one 0, with nothing within it, and a shard inward of the atom is not possibly existing, found before.
 - **v401mgr's layings since the reading before, read**: 3 with 4 is as 7 with 8, is-not-same-as and same-existing, answered is there. And 5 is all-parity, the universal set, now and same, co-existing, the person's saying there. Whole here: 5-now-co-existing is the betweens, each an all-parity, answered.
-- **Asked, and not yet answered**: a fracture's opening is harming.
+- **Asked**: a fracture's opening is harming. **Its answer, a suggesting**, with no is and no is-not: a fracture is harming by its case, and not each fracture.
+
+**Going on: a fracture, a living co-chaining's ending, and two, one or no living co-chainings beginning.**
+
+- **The suggesting, re-said**: a fracture is a living co-chaining's ending, and the beginning of two living co-chainings, of one, or of none.
+- **Its three cases, each said**: two, each of the two next-existing co-chainings living. One, one of the two living and its other non-living. None, each of the two non-living.
+- **Read by the opening and by what is answered**: living and non-living are one binary of a now-existing thing, the opening's sentence 16. A non-living co-chaining of atoms is a stable form, answered. Each of a fracture's two is living, or a stable form.
+- **Read by Exhibit ONE's code, each case, as executed before** (`instruments/breaking_check.py`): each fracture there has two co-chainings going on, each self having its prior each 1 to 17. The co-chaining having the prior one's first self has that self do-no-harming and bi-folding as it was, and its spans of three. The co-chaining along after the fracture has each self bi-folding, all-parity its other, and each span one self. No line of the code ends a co-chaining: the cases of one and of none are executed by nothing, and living and non-living are in no line.
+- **The asking before this one, read by the suggesting**: a fracture of none living is harm only, the person's saying of a field's radiation. A fracture of two living is no harm.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked, and not yet answered**: a fracture next-existing as two living co-chainings is a birthing of each.
 
 ---
 
