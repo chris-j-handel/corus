@@ -744,6 +744,18 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a four as one fold, and the fourths, 4, 8, 12 and 16.** The sequence's 127 and 128, `instruments/surface_fold_check.py`, its part 5, twelve cases: odd atoms one line along and even atoms the other; a four one fold, its first over its two middle as its fourth; the fourths on one line along, each the same step; the fours' folds each one same line. All-parity by the same-existing names. One droplet at the registry's *31*.
 
+**Going on, 14 November: tri's places, and all-parity by its universe.** The sequence's 129 to 131, `instruments/tri_places_check.py`, by Exhibit ONE's table: the same-existing names bi at each end, their now co by 4 and 12 and tri by 8 and 16; tri a name's next at 7 and 15, its now at 8 and 16, its prior at 9, 17 and 1. A fold bi-inversioning, its 0s co-recursioning. Droplets at the registry's *24* and *31*, and at Exhibit ONE's *Seventeen names*.
+
+**Going on, 14 November: a society its selves, stable-forming, in one all-parity; a between of two atoms touching.** The sequence's 132, at the registry's *23*. Its 31 and 32 re-said: a between is of two atoms touching, one point, and no atom's own.
+
+**Going on, 14 November: the six names between selves, six around one on a surface.** The sequence's 133 and 134, `instruments/six_around_check.py`: three pairs 8 apart, each straight across, each one name to an other and one from; 9 and 17 along, 2 and 6 the one side, 10 and 14 the other; by one form of the six around, to and from in turn. Droplets at the registry's *24* and Exhibit ONE's *Seventeen names*.
+
+**Going on, 14 November: a concept of abundancing, read by the forms.** `The_Concerns_of_the_Sequence.md`, its part 9. A suggesting, in no sentence: abundancing along, the 0s' line, between the now side and the next side. One concern: *one way at a time*, by no line of the code.
+
+**Going on, 14 November: a self by a snippet, and by atoms each its own.** The sequence's 135 to 137, `instruments/inhaling_check.py`: by a snippet alone a self's priors are the snippet's, one executing on; by atoms of both orientations together a 0, its priors its own alternating, as by all-parity alone. Droplets at the registry's *32* and Exhibit ONE's *One self, one momentary*.
+
+**Going on, 14 November: ingesting, a snippet whole in one now, unrelationing.** The sequence's 138 and 139, `instruments/inhaling_check.py`, its part 3, 2,544 cases: by a snippet whole in one executing, what the lines return is the same by each order of it. One droplet at the registry's *32*; Exhibit ONE's droplet of the instrument re-said.
+
 ---
 
 ## 6 Executed, each case, all or none

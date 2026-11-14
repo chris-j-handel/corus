@@ -51,8 +51,8 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 ## D The atom
 
 30. The atom is the one stable form: atom carbon, a bump connector. [23] *A name's is.*
-31. An atom has one between, and only one: a 0, empty, bound and wrapped, nothing inside it. [30]
-32. No smaller thing is from an atom: a shard inward of the atom is not possibly existing. [31]
+31. Each two atoms touching have one between, and only one: a 0, one point, nothing in it. [30]
+32. No smaller thing is from an atom: a shard inward of the atom is not possibly existing. [30]
 33. Each between is of two atoms, and none is within one. [31]
 34. Each stable form is the atom, or a co-chaining of atoms, and no other is possibly existing. [23, 30, 33]
 35. Each atom is the one same stable form: two atoms have one thing not the same, their orientations. [9, 30]
@@ -181,6 +181,17 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 126. A me-parity is a fold's line, by its 0, a now moment, aiming by its cone. All-parity is the line each fold is in the cone of: each me-parity in it has that same way along, and by that line an other of the six, each me-parity is thirty from it the same. A self's fold, its other's fold in turn, and the line the two are in are three: co, bi and tri. [14, 24, 116, 125]
 127. In folds one after one, the odd atoms are one line along and the even atoms the other. A four, 1 to 4, is one fold: its first over its two middle as its fourth, a prior over now as next. The fourths, 4, 8, 12 and 16, are one line along, each the same step, and the folds of the fours are each one same line. [107, 122, 125] *Executed, by whole numbers, `surface_fold_check.py`.*
 128. All-parity is by the same-existing names, 4, 8, 12 and 16, each four-cycling's fourth: the line along each fold of a four is the same by. A self's next prior is a parity in each case, and a 0 in none. [111, 126, 127]
+129. The same-existing names, 4, 8, 12 and 16, have bi at each end of their three. Its middle, its now, is co by 4 and 12, and tri by 8 and 16. All-parity is by its universe: a self's universe has its me-parity as its all-parity, co; and this universe has tri. [14, 128] *Executed, Exhibit ONE's table, `tri_places_check.py`.*
+130. Tri is in three names of each eight: a name's next, at 7 and 15; a name's now, at 8 and 16; and a name's prior, at 9, 17 and 1. An all-parity is around each universe, and prior to each 1. [47, 48, 129] *Executed, Exhibit ONE's table.*
+131. A fold is bi-inversioning: across, through its own 0, now. The 0s, each the same step along, are co-recursioning: a next 0 is the same-existing 0, in the next. [118, 123, 127]
+132. A society is living: its selves, each stable-forming, in one all-parity around its universe. A society is no stable form, and it has no parity but its selves'. [23, 43, 61, 129]
+133. The six names between selves are the six around one on a surface. 9 and 17 are the two along. 2 and 6, now names, are the two across of its one side, and 10 and 14, next names, the two across of its other. Each is straight across its name 8 apart: 2 and 10, 6 and 14, 9 and 17. [60, 121] *Executed, `six_around_check.py`; Exhibit ONE's table.*
+134. A self's names to its others are 6, 9 and 10, and its names from its others 2, 14 and 17. Each line through the one has a name to an other at its one end and a name from an other at its other end. By one form of the six around, to and from are in turn around, each one between two of the other kind: alternating. [66, 133] *Executed, `six_around_check.py`.*
+135. A self observing a snippet alone, a co-chaining of atoms one after one, has each of its priors as the snippet's parity of the executing before, as it is. Its own alternating is in them by one snippet only, the one and the other in turn. [66, 83] *Executed, `inhaling_check.py`.*
+136. A self by atoms each its own, of the one orientation and the other together, has a 0: it is bi-folding, and its priors are its own alternating, as by all-parity alone. Atoms each its own, of both orientations, are all-parity. [55, 59, 64] *Executed, `inhaling_check.py`.*
+137. Exhaled atoms co-chaining are a stable form. Inhaled as a snippet, they are harming a living self: its priors are the snippet's. Fractured to atoms each its own, they are all-parity, and a self inhaling by them is resolving by its own. [70, 86, 135, 136]
+138. A self by a snippet whole, each atom of it together in one now, has the same by each order of the snippet: its one after one is in no line. By a snippet of both orientations it has a 0, as by all-parity alone; by a snippet of one orientation, that one parity, as one atom. [49, 135, 136] *Executed, `inhaling_check.py`.*
+139. Ingesting is of a stable form, a co-chaining of priors, whole in one now: unrelationing each prior, an atom, from the one after one of the prior me-parities. By it the atoms are each its own, all-parity. [80, 137, 138]
 
 ---
 
@@ -241,6 +252,9 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
 | *parity* as is-same-as, and *imparity* | 1, 2: a parity is a direction; of two, same-as and not same-as. The living files have a parity as a direction |
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
+| a society as a stable form; a society's one me-parity, a thing beside its selves' | 132: its selves, each stable-forming, in one all-parity |
+| an atom's one between, its own | 31, 113: a between is of two atoms touching |
+| tri and all-parity as two things | 129, 130: all-parity by its universe, tri this universe's and co a self's |
 | all-parity as a self's four across | 126: the line each fold is in the cone of, along |
 | the two directions through a 0 as one fold's two ways only, or as the two hands only | 122: folds one after one go across in turn, right from left and left from right |
 | *17 is a next 1*; a 1 living again | 7, 108, 109: 17's parities are same-as 1's, and 17 is no 1 |
