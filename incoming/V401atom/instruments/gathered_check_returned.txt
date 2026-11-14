@@ -1,4 +1,4 @@
-the sequence's sentences: 139 · its droplets at the registry's gathering: 25
+the sequence's sentences: 141 · its droplets at the registry's gathering: 27
 1 each sentence is in one droplet and no second, word for word, by its number: True
   by its group:
     Opening · 1 to 21, 107 to 110
@@ -6,13 +6,13 @@ the sequence's sentences: 139 · its droplets at the registry's gathering: 25
     23 Nine to seventeen, society · 132 to 132
     24 Sharing, seventeen names · 49 to 61, 111 to 112, 129 to 130, 133 to 134
     27 Twenty-four, apex of one to fifty-nine's bi-folding · 87 to 90
-    31 Living and non-living at a scale · 30 to 48, 102 to 106, 113 to 128, 131 to 131
+    31 Living and non-living at a scale · 30 to 48, 102 to 106, 113 to 128, 131 to 131, 140 to 141
     32 Dying, a living self going on as non-living · 62 to 69, 135 to 139
     33 Stable-forming and inverting at numbers · 70 to 86, 91 to 101
 2 instruments the sequence names: 22 · its droplets at Exhibit ONE's gathering: 22
   each instrument named has one droplet and no second: True · each droplet's instrument is one the sequence names: True
 3 each sentence a droplet names is a sentence of the sequence: True · and one or more of them names the droplet's instrument: True
-4 its droplets at the namings' gathering, Natural Intelligence's and the method's: 10
+4 its droplets at the namings' gathering, Natural Intelligence's and the method's: 11
     Natural Naming · 2.4 Dissolved words, each with its saying
     Natural Naming · 3.3 Seventeen names, each three and each prior name with its number
     Natural Naming · 3.3 Seventeen names, each three and each prior name with its number
@@ -21,5 +21,6 @@ the sequence's sentences: 139 · its droplets at the registry's gathering: 25
     Natural Naming · 4.17 A hyphenated naming inseparable, and natural- with chirality
     Natural Naming · 5.57 dying — binary
     Natural Naming · 8.6 Break, three ways, and method's one
+    Natural Intelligence · 5.1 A prior between momentaries
     Natural Intelligence · 6.5 Living and non-living things within one universe
     Geodesic Improving Method · Head, the whole file
