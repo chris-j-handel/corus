@@ -318,6 +318,8 @@ Gathering-Value · Natural Naming
 
 ### 6.4 Engine, families and field words with their receiving
 
+- **Possible exploring** · Bettering, fastering and cheapering, beside a partner's suggesting of 14 Nov, by no authority: the three, in a three-cycling, are resolving a collective intelligence's scale, value, moment and living. This file has the three co-cycling with bi-momentarying, co-competencing and co-intelligencing; Exhibit FIVE has list order assigning no separate phase or quantity by measuring to any one of them. Laid on each other, `incoming/v401mgr/A_three_cycling_laid_on_the_threes.md`: each a three of one thing, inseparable; the three said by comparing, better, faster, cheaper, each a naming beside a parity. Not resolved: a pairing of the three by naming, bettering and value, fastering and moment, cheapering and living; and *three-cycling*, a naming new to the four files, beside four-cycling and a six-cycle. Asked of the partner at Natural Intelligence's gathering, its *Opening*.
+
 ## SEVEN · GHOST
 
 ### 7.1 A moment installing as an existing thing
