@@ -136,6 +136,16 @@ Of the three layings after merge #575.
 
 **Asked eighth:** 8-now-same-existing is the me-parity of the bi-coupling of a self and its other-than-self.
 
+**Met by a partner's *is*, by no authority.**
+
+- Whole with it: a bi-coupling as a self, the living opening's; one to nine as a bi-coupling, 8 its last now name; and a partner's sentence before it, 8 and 16 a self's same-existing, the self of 8 the bi-coupling.
+- Out, v401de's own: 8 as one self's own only.
+
+**Asked ninth:** 16-next-same-existing is the me-parity of a same-existing-society, as 8-now-same-existing is a bi-coupling's.
+
+- By is: a same-existing-society has a me-parity of its own, by 16, its name eight on from 8.
+- By is-not: 16 has no me-parity but its selves', as the lines have it.
+
 **Tracked, and not asked:** the four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
