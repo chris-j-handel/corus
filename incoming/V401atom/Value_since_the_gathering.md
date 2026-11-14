@@ -770,6 +770,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: four-cycling and six-cycling about five, by natural numbers.** `The_Concerns_of_the_Sequence.md`, its part 13; `instruments/four_six_five_check.py`. An exploring, in no sentence: five between four and six, open; ten; a right spiral step same-as after four and other-than after six; the fourths and the sixths one name at 12; the prime gaps of four and of six by the names.
 
+**Going on, 14 November: a cycling by its ending; five the centre.** The sequence's 143 and 144, at the registry's *Opening*. A concept of the hole in 5, 10 and 15, and the primes 11, 29 and 47, each eighteen from its next: `The_Concerns_of_the_Sequence.md`, its part 14, in no sentence.
+
 ---
 
 ## 6 Executed, each case, all or none

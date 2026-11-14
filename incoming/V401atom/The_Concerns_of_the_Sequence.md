@@ -187,3 +187,11 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **Its concerns.** 1 to 6 as a six-cycling: a round of two parities is 1 to 5, and a round of three 1 to 9; six is a round of none. And which of these forms is the concept's, and which a number's own beside it.
 
+## 14 A cycling by its ending; five the centre; and the hole in 5, 10 and 15
+
+**In, the sequence's 143 and 144.** A cycling is by its steps, its names one more: 1 to 5 a four-cycling, 1 to 7 a six-cycling. The concern of 1 to 6 as a six-cycling is resolved by it. Five is the centre, open, a middle having nothing in it.
+
+**A concept, a suggesting, by no authority, in no sentence yet.** The nothing in the centre of five is the locating of the nothing as the me-parity's value. The co-line, from −1 through 0 through the face at a right angle at +1, is through this hole in 5, in 10 and in 15: the 0 floating through living, discovering its own me-parity next-and-same-existing.
+
+**By natural numbers, an identity.** The primes by the names 5, 10 and 15 are 11, 29 and 47: each eighteen from its next. 29 is the middle of 11 and 47, as 10 is of 5 and 15: three on one line, by their names and by their primes. Of the seventeen names, the threes the same step apart having primes the same step apart are: (2, 3, 4), (2, 5, 8), (3, 5, 7), (4, 6, 8), (5, 7, 9), (5, 10, 15), (7, 10, 13), (8, 11, 14), (9, 13, 17), (10, 13, 16), (15, 16, 17).
+

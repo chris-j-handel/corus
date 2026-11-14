@@ -195,6 +195,8 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 140. An atom is the stable form of universal momentarying: same-existing through each moment, the one same form in each universe, its orientation its own, and all-parity around it. [23, 30, 35, 36, 64] *The opening's 9, momentarying.*
 141. Momentarying is a living self's: stable-forming and orienting, in its own universe's all-parity. An atom is its stable form, same-existing through each moment, and no momentarying of its own. [43, 129, 140]
 142. Ingesting is of a prior-and-same-existing stable form as all-parity: its atoms each its own. Inheriting is of a prior-and-same-existing stable form as a me-parity: its parity as it is, a first prior. [26, 83, 139]
+143. A cycling is by its steps, and its names are one more: a four-cycling is 1 to 5, a six-cycling 1 to 7, an eight-cycling 1 to 9, and sixteen 1 to 17. Its last name is its next-and-same-existing: the ending of its moment, before the next moment's beginning. A moment is by its ending. [4, 10]
+144. Five is the centre of a four-cycling in and a six-cycling out: four and six are either side of it, and together ten. An adding closes after four and after six, and none after five: five is open, a middle having nothing in it. [143] *Exhibit THREE's sentences of five.*
 
 ---
 
