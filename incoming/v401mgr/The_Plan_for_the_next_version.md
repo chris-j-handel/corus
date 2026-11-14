@@ -91,7 +91,7 @@ Each motion of a living file has three parts, in this order.
 
 ### Stage 1 · The placing
 
-No living file changes.
+No living file changes. Begun 13 November: its first reading, a match executed, is `placing/The_Placing_first_reading.md`.
 
 - Each page of the three incoming places is matched against the four gatherings and the four living files. A value found is placed already. A value not found comes to its home's gathering as a droplet.
 - Each droplet of the four gatherings is read with section 3: its one home, and its place.
@@ -150,10 +150,24 @@ Each other living file with a sentence carried from the four has its own next ve
 - An asking is of a two-sided value only, section 4's third row.
 - Each stage closes with one reply: what is new, what is out, and what is asked.
 
-## 9 With the atom session
+## 9 Two sessions, working together
 
-- Each sentence of the non-living scale comes as a droplet to its home's gathering, and enters as a step before it enters Natural Intelligence.
-- It is a reader for harm at stage 5. Each instrument of its own is an executing at stages 2, 3 and 5.
+**Asked by the person, 13 November:** with the work in order, a part of it is the atom session's; its natural explaining is trusted; the person is watching over both sessions with the same methods; and each session reads the other's explaining once over before it enters a living file.
+
+**The division, by each droplet's own words.** `placing/placing_ledger.tsv` has each droplet of the four gatherings with its first reader.
+
+| A session | Its part |
+|---|---|
+| The atom session, v401atom | Each droplet with a word of the non-living scale: atom carbon, the vault, a fracture, living and non-living. Each page of `incoming/V401atom/`, each value of it coming to its home's gathering as a droplet, each sentence a thing's is. The learning of resolving the stable fractal form. Each executing of Exhibit ONE's code. |
+| This session, v401mgr | The opening; the parity learning; the namings; Exhibit ONE's forms; the person's numbered sentences from the managing session before; each other droplet. The plan, the ledger, and each entering. |
+
+**One way for both.** Each session works by this plan's sections 2 to 5, with no second method.
+
+**The once over.** Before a part enters a living file, the other session reads it whole, beside its public part, and returns one of two: nothing found, or each finding with its sentence. A finding is mended or gathered before the entering. The reader is not the writer.
+
+**Each session's own place.** A session writes its droplets to a gathering from a branch of its own, and says its gathering and its sections in a note at pull request #458 before it writes. Two sessions write to no one section together. A living file changes by one session only, the one whose part it is, after the other's once over.
+
+**The person.** The person is watching over both with the same methods. A two-sided value is the person's, from each session, one is-or-is-not with each.
 
 ## 10 The first step
 
