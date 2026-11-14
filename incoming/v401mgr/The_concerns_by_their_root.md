@@ -423,3 +423,17 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Beside part one, from the helper session's page:** the person's sentences of the four same-existing names, 4 me by other-than-me, 8 the bi-coupling's me-parity, 12 that me-parity's other-parity, 16 its all-parity; and 17 the same-existing bi-coupling's me-parity in its own next-existing universe.
 
+## 26 All-parity, the two together
+
+**The person, 14 November, by no authority:** *is-not* to 15 and 14 as one same parity by two names. All-parity is a me-parity and an other-than-me-parity, in universal parity with each other, into one aiming, a me-all-parity's. 14 and 15 are other-than each other.
+
+**Out, v401mgr's own, of section 25:** all-parity and an other-than-me-parity as one same parity; 15 as 14 by another name.
+
+**By the code's lines themselves:** in a self's lines, 14 is by its others' parities, each by each other. 15 is a reading of 14 beside a 7, in each of the two comparing lines; in the second the 7 is a self's own prior. A me-parity and an other-than-me-parity are together in that one line, and its 12 is by the two.
+
+**Whole with Exhibit ONE's own sentence:** all-parity is with observing, 7 and 15; other-parity is with possibling.
+
+**One living sentence beside it, not whole with it yet:** Natural Naming has three living selves, a self, an other and all, each pair having a parity, all selves' a 0. By the suggesting all-parity is the two together.
+
+**For part one, from the helper session's page:** the person's *is-not* to 17 as a 1-now-existing, of a self or of a bi-coupling's me-parity. 17 is the bi-coupling's next-existing moment.
+

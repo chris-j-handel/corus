@@ -95,6 +95,8 @@ By the two, 17-next-existing is each self's next prior and the parities it will 
 
 **Beside the next words, for each reading.** The helper session's page has a sentence of the person's, 14 November, by no authority: 17-next-existing is the same-existing bi-coupling's me-parity, after its own now-existing, in its own next-existing universe. The part's next words are Natural Naming's own, of each self; that sentence is of a bi-coupling as a self.
 
+**Beside the thing itself, 14 November.** The helper session's page has the person's *is-not*, by no authority, to 17-next-existing as a 1-now-existing, of a self or of a bi-coupling's me-parity: by a next moment the universe, the me and the other-than-me are each not as they were, two moments of now-existing, each its own; 17 is the bi-coupling's next-existing moment. It is whole with the part's reach, all or none at all: 17 is no 1, by each place.
+
 ## 4 For the reading for harm, the helper session's
 
 Each place of 3.1 and 3.2, whole beside its section:
