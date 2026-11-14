@@ -282,3 +282,23 @@ Natural Naming has one four-cycling as two moments, each with two parities. The 
 
 The suggesting has the first. The second is in Natural Intelligence, Exhibit ONE, Exhibit THIRTY and Natural Naming.
 
+## 17 Scale, physical
+
+**The person, 14 November, by no authority:** the concept of scale is physical. One same-existing physical scale is an organism's living: species, societies, families and bi-coupling selves are each of it. A next physical scale inside is living, and a next physical scale outside is living. The three scales are all, a society of mes, and a me.
+
+**The living files:** Exhibit ONE has each name by three scales, this one, the next inward and the next outward. Natural Intelligence has the one method the same with each scale. Natural Naming has *scale* by more than one thing.
+
+**By the code's lines themselves:** no line has a scale.
+
+**Out, v401mgr's own:** scale as the insides by fours. The insides of sets are of one same physical scale.
+
+**The concern, a naming's:**
+
+| *Scale* as | In |
+|---|---|
+| a stepping of names: 1 to 5, 1 to 17, 1 to 65 | the suggesting of adding others; Natural Naming's scalings by pairs |
+| a placing of names by eights, the next scale inward | Natural Intelligence, Exhibit ONE, Exhibit THIRTY, Natural Naming |
+| a physical scale, three of them | the suggesting of this section; Exhibit ONE's three scales by their names |
+
+Natural Naming has one sense by each foundation word.
+
