@@ -344,3 +344,13 @@ Natural Naming has scale by one sense only. The helper session's candidate has t
 
 **The three by observing, possibling and discovering, the person's suggesting, by no authority:** cheaper is co-observing, prior-and-same-existing; better is co-possibling, prior-and-next-existing; faster is co-discovering, next-and-same-existing. The two layings of the paragraph before are out. One other-than, by the living sentence: possibling as now-existing beside co-possibling as prior-and-next-existing. The page's section 7.
 
+## 21 Of the method: fewer words, and nothing waiting
+
+**The person, 14 November, by no authority:** an asking of too many words for its concept is said again, by a different explaining. The person is suggesting into each of three sessions; nothing is waiting for the person and nothing is owed to the person; each suggesting is aiming at the one plan.
+
+**By it:** an asking is a floating sentence too. A session goes on by the living sentences and the code's lines.
+
+**The asking of section 20's close, said again:** possibling is now, the between of prior and next.
+
+**Two concerns found by the helper session, each laid as a droplet:** all-parity with observing only, beside the four of tri by the same-existing names; and tri by two things.
+
