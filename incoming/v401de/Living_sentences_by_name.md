@@ -46,7 +46,26 @@ Natural Intelligence 4.15 has the second and the third of 1.2 in one section: "S
 - **1 to 5, 1 to 17 and 1 to 65, the insides by fours.** Beside it: Exhibit THIRTY 30's pairs, 5, 17, 65 and 257; and, by eights, Exhibit THIRTY 23: "1 to 65 is a next whole, one to nine with one scale being one to sixty-five with a next."
 - **With v401de: 1 then 2, 3 then 4, 5 then 6 and 7 then 8, four consecutive now moments, to 9; each four consecutive moments a fractal moment at a next universe scale.** Beside it: Natural Naming 5.50's third line, the same four; Exhibit THIRTY 12, the sentence of 9 in 1.2's third; and, of the next four, Exhibit THIRTY 23: "With a next scale 9 is 2" and "9 to 17 is an other with a next scale." *Universe scale* is in no living sentence: the living files have *next-universe*, of a moment, and *a next-universal subset*.
 
-## 2 The edges
+## 2 Me-parity and all-parity; a bi-coupling; one through seventeen
+
+### 2.1 Each place
+
+- **Me-parity and all-parity.** In the four living files, three sentences, each in Exhibit ONE Natural Resolver, *Each name's three*: "Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity." "7, tri-bi-co, is all-parity observing, after other-parity possibling, after me-parity existing." "All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering."
+- **A bi-coupling.** Natural Intelligence, its opening: "A bi-coupling is a self."
+- **One through nine, and one through seventeen.** Exhibit THIRTY 24: "One to nine is a bi-coupling, and its end is 9, each parity of 10 going along; one to seventeen is a bi-trupling, self, other and same-existing-society, and its waist is 9" Natural Naming 5.60: "one to seventeen is a bi-trupling, a self, its other and their same-existing-society" Natural Intelligence 6.4: "One through seventeen are a bi-trupling, self, other and same-existing-society."
+- **A moment.** Natural Naming 2.1: "With resolver each self's moment goes from 1-now-existing, its prior and the parities it is observing, to 17-next-existing, its next prior and the parities it will be observing." Natural Intelligence 4.15: "One 1 to 17 is one momentary of exchanging of a scale outward."
+
+### 2.2 Beside a suggesting of 14 November with v401de, by no authority
+
+**The suggesting, re-said in natural naming.** 1 to 4, 5 to 8, 9 to 12 and 13 to 16, to 17, is one moment in the all-parity universe of one me-parity's direction, from a 0, same-existing. Inside this one moment are a self's me-parity, its other's me-parity and an all-parity. A same-existing me-parity of the self-other bi-coupling is a third me-parity in this all-parity universe.
+
+- **Whole.** Its four: Exhibit ONE's four four-cyclings, to 17. Its one moment: 2.1's two sentences of a moment. A bi-coupling having a me-parity of its own: by a bi-coupling as a self.
+- **By the code's lines themselves.** Each parity is one self's own, by a 4. Two selves same-as have each its own. 16 has each self's 8 and its 14, and no parity beside its selves'. A third me-parity is in no line of one 1 to 17.
+- **Not distinguished.** One through seventeen's third, "their same-existing-society": the third me-parity, the bi-coupling's; or the all-parity.
+
+*Other-parity*, *self-parity*, *social-parity*, *co-parity* and *bi-parity* are next.
+
+## 3 The edges
 
 - A match is of a name's letters: a sentence of a scale with no *scale* in it is not here, but the one of 1.2's fourth.
 - The four living files are not read whole. The seven of 1.2 are v401de's sorting, a candidate, deciding nothing.
