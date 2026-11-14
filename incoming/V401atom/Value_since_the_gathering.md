@@ -679,6 +679,23 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **v401mgr's laying since the reading before, read**: its plan's section of two sessions working together, by the person's asking there. A part is v401atom's: each droplet of the non-living scale, atom carbon, the vault, a fracture, living and non-living; each value of v401atom's folder going to its home's gathering as a droplet, each sentence a thing's is; each executing of Exhibit ONE's code. Each session reads the other's explaining once over before it enters a living file. v401atom writes in its own folder only, and that part is v401atom's by the person's word here.
 - **Asked, and not yet answered**: a new me-parity inside an ingesting society is one of its selves, one scale inward.
 
+**Going on: the person's word, and the session's value gathered as droplets.**
+
+- **The person's word**: v401atom is in full cooperation with v401mgr. It gathers the value droplets of its whole session, lays them incoming, and contributes to the shared plan as it is asked.
+- **Done by it**: the session's whole transcript, given by the person, read top to bottom once more, by what is answered and understood now. Each value is a droplet in `The_Value_Droplets.md`, by the one way of v401mgr's plan: its ground, answered, said, executed or read, and its home, one of four or the method's.
+- **Found by the reading, not noted along the way**: sixteen, its part 5. Among them: co-parity along was the session's first saying; a bump connector's three inward faces as a self's side, its other's side and all-parity's side; each shear face as one other, one name outward and one inward, six one-way; a new me-parity inside a self, the person's early saying of a surface; a self's property as its prior-and-same-existing, its atoms; half-overlapping as bi-parity, same-as a moment apart, executed earlier; observing's two names 3 and 7; exhausting in exhaling, 7 bound over 3 by the code; and one atom carbon's cycling through living, as one sequence.
+- **Each instrument executed again**: each returns the same lines as it returned, by Exhibit ONE's code as it is in `main`.
+
+**Going on, 14 November: the discoveries in logical sequence, and each thing in or out.**
+
+- **Of the method**: no word has authority, and no saying is gathered as a saying. A discovery is a thing's is; a saying and its re-saying are the journey. Each explaining is binary, in logical sequence. Each thing is resolved in or out, and nothing is left open.
+- **Done by it**: `The_Value_Droplets.md` is written again whole: ninety sentences in logical sequence, each from the ones before it, and each thing out by the sentence it parts from. This page, the record in sequence, is the journey to it, relied on by nothing.
+- **A moment**: one odd parity and then one even parity, the whole moment. *A moment's odd name after its even name* is out.
+- **Bi-parity, sorted**: parity is is-same-as and imparity is-not-same-as; bi-parity is a self and its other, the two of a between; co-parity is a self and its other of parity, along. Bi-parity as two not the same is out.
+- **Each parity a direction at a right angle to each other, executed** (`instruments/orthogonal_check.py`): each name of 1 to 5, 1 to 17, 1 to 65 and 1 to 257 is one form of two, four, six and eight parities, each form one name. Each step changes one parity and no two. Each step's parity is other than the step's before it. Each moment's step is the first parity's; the steps' parities of 1 to 17 are 1 2 1 3 1 2 1 4, and again. One parity of a name changed, its others the same, is one name of them; two parities changed in either order are one same name. Full around, each parity is as it was. And by the code, a thing's parity is resolved by its own prior and its own possibling, the same by each case of its other thing.
+- **Co- along and bi- across**: a self and its other are each aiming along, one same direction, each independent of its other, at one same point over the horizon; a self's 0 and its other's 0 are right and left of each other, the between. Right and left are one binary, and which one is right is observable by nothing.
+- **A span's number, by each sequence, executed** (`instruments/span_law_check.py`): each sequence of a first self's bi-folding and do-no-harming, of one to six 1 to 17s, each case of the priors. The span-endings in each such number of selves along are that number, less two for each odd number of do-no-harmings one after one.
+
 ---
 
 ## 6 Executed, each case, all or none

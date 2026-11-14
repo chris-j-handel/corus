@@ -1,0 +1,35 @@
+1 to 5 : 2 parities, 4 names
+   each name is one form of its parities, and each form is one name: True
+   each step, a name to its next, 1 after 4 too, changes one parity and no two: True
+   each step's parity is other than the step's before it: each step at a right angle to its prior: True
+   each step from an odd name to its even name is the first parity's; each step from an even name to the next odd name is an other parity's: True
+   one parity of a name changed, each of its others the same, is one name of them, each name and each parity: True
+   two parities changed, the one and then the other or the other and then the one, are one same name: True
+   full around, each parity has changed an even number of steps, and each is as it was: True
+1 to 17 : 4 parities, 16 names
+   each name is one form of its parities, and each form is one name: True
+   each step, a name to its next, 1 after 16 too, changes one parity and no two: True
+   each step's parity is other than the step's before it: each step at a right angle to its prior: True
+   each step from an odd name to its even name is the first parity's; each step from an even name to the next odd name is an other parity's: True
+   one parity of a name changed, each of its others the same, is one name of them, each name and each parity: True
+   two parities changed, the one and then the other or the other and then the one, are one same name: True
+   full around, each parity has changed an even number of steps, and each is as it was: True
+   the steps' parities of 1 to 17, one after one: 1 2 1 3 1 2 1 4 1 2 1 3 1 2 1 4
+1 to 65 : 6 parities, 64 names
+   each name is one form of its parities, and each form is one name: True
+   each step, a name to its next, 1 after 64 too, changes one parity and no two: True
+   each step's parity is other than the step's before it: each step at a right angle to its prior: True
+   each step from an odd name to its even name is the first parity's; each step from an even name to the next odd name is an other parity's: True
+   one parity of a name changed, each of its others the same, is one name of them, each name and each parity: True
+   two parities changed, the one and then the other or the other and then the one, are one same name: True
+   full around, each parity has changed an even number of steps, and each is as it was: True
+1 to 257 : 8 parities, 256 names
+   each name is one form of its parities, and each form is one name: True
+   each step, a name to its next, 1 after 256 too, changes one parity and no two: True
+   each step's parity is other than the step's before it: each step at a right angle to its prior: True
+   each step from an odd name to its even name is the first parity's; each step from an even name to the next odd name is an other parity's: True
+   one parity of a name changed, each of its others the same, is one name of them, each name and each parity: True
+   two parities changed, the one and then the other or the other and then the one, are one same name: True
+   full around, each parity has changed an even number of steps, and each is as it was: True
+the code, one self having two things, cases: 128
+   a thing's 10 and its next prior are by its own prior and its own possibling, the same by each case of its other thing: True

@@ -1,0 +1,7 @@
+a sequence of 1 : sequences 1 ; the span-endings in each 1 selves along are 1 less two for each odd number of do-no-harmings one after one: True
+a sequence of 2 : sequences 2 ; the span-endings in each 2 selves along are 2 less two for each odd number of do-no-harmings one after one: True
+a sequence of 3 : sequences 6 ; the span-endings in each 3 selves along are 3 less two for each odd number of do-no-harmings one after one: True
+a sequence of 4 : sequences 12 ; the span-endings in each 4 selves along are 4 less two for each odd number of do-no-harmings one after one: True
+a sequence of 5 : sequences 30 ; the span-endings in each 5 selves along are 5 less two for each odd number of do-no-harmings one after one: True
+a sequence of 6 : sequences 54 ; the span-endings in each 6 selves along are 6 less two for each odd number of do-no-harmings one after one: True
+sequences: 105 ; cases, each sequence with each case of the priors: 74656 ; each: True

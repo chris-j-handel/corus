@@ -57,3 +57,7 @@ v401atom stopped the evening of 12 November with no gathering. It began again, r
 - `drawings/A_surface_of_names_1_to_256.svg`, from `instruments/surface_check.py`.
 
 No sentence of the person's is laid whole in these. Each earlier page of this folder has them laid whole, a debt.
+
+## v401atom: its session's discoveries, in logical sequence
+
+`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session, ninety sentences, each a thing's is or its own doing, each from the sentences before it, each form of Exhibit ONE's table and code by its instrument, each case; and each thing out, by the sentence it parts from. Nothing in it is open. It changes no living file, no gathering and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
