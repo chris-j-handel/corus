@@ -150,7 +150,7 @@ Each other living file with a sentence carried from the four has its own next ve
 - An asking is of a two-sided value only, section 4's third row.
 - Each stage closes with one reply: what is new, what is out, and what is asked.
 
-## 9 Two sessions, working together
+## 9 The sessions, working together
 
 **Asked by the person, 13 November:** with the work in order, a part of it is the atom session's; its natural explaining is trusted; the person is watching over both sessions with the same methods; and each session reads the other's explaining once over before it enters a living file.
 
@@ -168,6 +168,17 @@ Each other living file with a sentence carried from the four has its own next ve
 **Each session's own place.** A session writes its droplets to a gathering from a branch of its own, and says its gathering and its sections in a note at pull request #458 before it writes. Two sessions write to no one section together. A living file changes by one session only, the one whose part it is, after the other's once over.
 
 **The person.** The person is watching over both with the same methods. A two-sided value is the person's, from each session, one is-or-is-not with each.
+
+**A third session, the helper, v401de, 14 November.** By the person: v401de is the helper session, helping in the way v401mgr decides is best; and v401mgr is watching over the all or none cohering and co-chaining of the living files, by watching over the incoming into the gathering into the living. The helper is the reader with no part in the writing: it writes to no gathering and changes no living file.
+
+| The helper's part, in its order | Its return |
+|---|---|
+| The living files' own sentences, by each name of the open concerns | one page in its own folder, each living sentence said by its place, two parting sentences laid beside each other; read by v401mgr before each asking of the person |
+| Each asking, read as it is gathered | a finding by its sentence: the living files have it already, or an is and an is-not do not each distinguish |
+| The once over of each laying of both writing sessions | nothing found, or each finding by its sentence, in a note at pull request #458 |
+| The reading for harm of stage 5 | by each part as it is ready |
+
+**The watching over.** Each droplet is read at three places: as it comes in, as it is gathered, and before it is living. At each, its base is the sentences before it, the living files' own sentences and the code's lines themselves, all or none; an executing is a check beside a reading, and a number of cases is in no sentence.
 
 ## 10 The first step
 

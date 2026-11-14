@@ -143,3 +143,202 @@ A self's own parity is a parity in each case, and a 0 in none.
 | 16-next-same-existing | bi-tri-bi | in 17 only: each self having its prior and its possibling |
 
 By the table and by the code, the four are two and two. By the suggesting, all-parity is each of the four.
+
+**Resolved between the two sessions, by the atom session's reading of the table:** all-parity is by its universe. A self's universe has its me-parity as its all-parity, co at the now of 4 and of 12. This universe has tri at the now of 8 and of 16. The asking of 8 and 16 beside 4 and 12 is out as an asking.
+
+## 10 Two selves meeting, and whose a 0 is
+
+**The person's suggesting, 14 November, by no authority:** the three, self, other, all-parity, is the bi-inversioning-co-recursioning of the three, other, self, all-parity. It is the illustration of two swimmers, each turning by a right spiral off the other's feet, the two meeting at a nothing place on the surface.
+
+**Exhibit TWENTY-NINE has the illustration:** both inverting through one meeting; neither a wall; neither an other's copy across a line; a self experiencing each closing from both; its exact form still to express.
+
+**By the code, executed, `instruments/meeting_check.py`:**
+
+| The form | Each of the two | A self having both as its others |
+|---|---|---|
+| two not same-as, across both ways | its next prior same-as its other's prior, at each moment; a 0 in no place | its possibling a 0 at each moment from its second; its next its prior's other one, by its own |
+| two same-as, across both ways | its co-possibling a 0 at each second moment | no 0 by parting |
+
+Each order of the selves in 16 has one same return of 17.
+
+**Whole with the suggesting:** self and other at next are other and self, each having its other's prior; the third of the three is same-as by both orders.
+
+**The concern, what a 0 is, by it:** the meeting's 0 is in no place of either of the two. It is the possibling of a self having both. Natural Intelligence has 14's 0 as a between of self and other; the code's first comparing line has it as two of a self's others parting, at that self.
+
+## 11 A 0, the neither inside a bi-coupling's vault
+
+**The person's suggesting, 14 November, by no authority:** a 0 is the neither, inside a bi-coupling's vault. It is the universal all-parity of the vault's inside. Each vault is an all-parity inside, orienting in an all-parity outside. Corusing and torusing, bothbothing.
+
+**The living files have it.** Natural Naming's four invisibles: a neutral, with two coming, nothing occupying it; each side's own corus, its own; a between of moments. A self's own corus is with 4. Natural Intelligence has a bi-coupling as a self, and a parity through a 0, not changing, as natural torusing.
+
+**By the code, executed, `instruments/zero_places_check.py`:**
+
+| A self's place | A 0 | By the living files |
+|---|---|---|
+| its possibling, 14, by a 4 | by two parting | a neutral, the neither; corusing's |
+| its co-possibling, 12, by a 4 | by its prior and its other's same-as | a between of moments; torusing's |
+| its next prior, its 8 | in no case | |
+
+By its possibling a 0, a self has in each case what it has by none of its others: by all-parity.
+
+**The concern of what a 0 is, its standing:** resolved by the living files and the code. The meeting's 0 is the neither. The two coming are inside a bi-coupling, a self. A third self beside the two is out, v401mgr's own.
+
+**A concern remaining, the vault among the names:** the atom session's sequence has the vault with 8 and 16. By the code 8 and 16 are a 0 in no case, and each 0 is by a 4, a self's own.
+
+## 12 A 0 now-existing only, and the fractal moment
+
+**The person's suggesting, 14 November, by no authority:** a 0 is not possibly other than now-existing. The changing along is by 1, 3, 5, 7 and 9. The four universal moments in each universal moment are the universal fractal moment.
+
+**Natural Naming has it:** four moments of exchanging are as one moment; 1 to 9 has four spans, 1–3, 3–5, 5–7 and 7–9; and its loops, corusing 2–15–7–10 and torusing 1–9–8–16.
+
+**By the code, executed, `instruments/zero_returns_check.py`:**
+
+| A 0 | Inside 1-now-existing | In what 1 returns |
+|---|---|---|
+| by two parting | in a self's 14 and its 15 | in no case |
+| by none of its others | in its 15, by the line's own | in no case |
+| by each parity of its others same-as its prior | in its 12 | in its 10 |
+
+The neither's 0 is inside one now and in no next.
+
+**By the loops and the code's lines:** a 0 is at each name of corusing's loop, and at no name of torusing's.
+
+**One way at a time, a reading:** in a self's lines its 2 is read before its 10 is made. Between two selves both ways are in one universal moment; one way at a time is by the four moments inside it.
+
+**Uncertain, v401mgr's own:** 12's 0 as torusing's. The loops have 12 by competencing.
+
+**The concern of both sessions, inside and outside:** by names of one scale, 4 and 12 beside 8 and 16, the sessions' candidate; or by scale, four moments inside each one moment, the suggesting's and the living sentences'.
+
+## 13 A concern of the method, and each reading of 14 November by the code's lines themselves
+
+**The person's suggesting with the atom session, 14 November, by no authority:** a number of cases is a measuring of an engineered artifact, and no rigor. All or none is by logic. An executing checks a reading and derives none.
+
+**It reaches this page the same.** Sections 9 to 12 have *executed* as a base. Each reading is here by the lines themselves, all or none. The instruments are checks beside them.
+
+| The reading | By the code's lines |
+|---|---|
+| a self's next prior is a 0 in no case | its 11 has a value of its 10 only by that value other than 0; else its prior, a parity |
+| a 0 by two parting, or by none of its others, is in no return | by its 15 a 0, the one line has its 12 as its prior's other one; its 10 is its 12 |
+| a returned 0 is by same-as only | its 12 is a 0 by one line only: its 15 other than 0, and same-as its prior |
+| by a 0 a self has what it has by none of its others | by none, its 15 is a 0 by the line's own; one same line after it |
+| a self's next is one of two | its 12 is a 0, its prior living on; or its prior's other one, its next prior |
+| two selves not same-as, each by the other: each one's next is its other's prior | each one's 10 is its prior's other one, its other's prior; that is its other's 2 next, not same-as that other's prior; the one line again, each moment |
+| which of two is first is in no line | 17 has each self's 1 by its own 3 and 2 of 16; no line of one self reads an other's return of that 17 |
+| a self's others first, its own after | in 1 its 2 is read by the first lines, and its 10 is by a line after them |
+
+## 14 Inside and outside by scale, and the scale's step
+
+**The person's *is*, 14 November, by no authority:** inside and outside are by scale, four moments inside each one moment, and by no names of one scale. Its ground is the living sentences.
+
+**Out by the living sentences, of both sessions:** inside and outside by names of one scale, 4 and 12 beside 8 and 16. The table's co and tri at those names are forms of each name's three.
+
+**The concern by it, by the living sentences only:**
+
+| The living sentence | Four moments inside, 1 to 9, are |
+|---|---|
+| Natural Naming: 1, 2 and 3 of one scale are 1, 9 and 17 of the next | one step outside, 1 to 2: one parity of a moment |
+| Natural Intelligence: 4, 8, 12 and 16 are 1, 2, 3 and 4 again | 1 to 3 outside: a moment having both its parities |
+
+Natural Naming has one four-cycling as two moments, each with two parities. The two steppings part, and Natural Naming's gathering has it as a doubt.
+
+## 15 The scales, 1 to 5, 1 to 17 and 1 to 65; and two things out
+
+**The person, 14 November, by no authority:** *is not* to one moment outside as four moments inside, 1 to 9. The scales are 1 to 5, 1 to 17 and 1 to 65: scales of adding others to a co-chaining society, in a same-existing me-parity, all-parity universe.
+
+**Natural Naming has the three:** wholes are rounds of a number of parities, and pairs step it by twos, 5, 17, 65.
+
+**The reader's two findings, each whole with the lines and the living sentences:**
+
+- *At no name of torusing's loop* is out. A 0 by same-as is in what 9 returns and inside the next 16. Sections 11 and 12 have the sentence; it is out in each.
+- The asking of section 14 distinguished neither stepping: the living files have a moment by two forms.
+
+**Out, v401mgr's own:** the scale's step as a nesting of moments. A scale is of adding others.
+
+**Two 0s, a candidate, by the lines and a suggesting of the person's before:**
+
+| The 0 | By the lines | By the living loops |
+|---|---|---|
+| the neither's, by two parting or by none | a self's own now, inside its 1, in no return | corusing's, by 15 |
+| by same-as | given along by 9, inside the next 16, passed over by its other's first line | torusing's, by 9 and 16 |
+
+**The concern by the scales:** by the code's lines 16 has each self of a society, of each number, and each has the one same seventeen names. By the suggesting a next scale is by adding others. What one added other is, by names, is in no living sentence.
+
+## 16 The insides of sets
+
+**The person, 14 November, by no authority:** *is not* to a scale as a number of selves. 1 to 5 is a me-parity in an all-parity, directional universe, an other-parity on the *left* of all-parity. It is the inside of 1 to 17, and that the inside of 1 to 65. The insides of the insides, to the atoms inside, are the fractal method of resolving universal insides of sets.
+
+**The living files have it:** 4, 8, 12 and 16, each four-cycling's same-existing name, are 1, 2, 3 and 4 again, each a next-universal subset including this universal subset. 1-now-existing is co-bi-tri.
+
+**By the code's lines themselves:** each 4 of a self is by its own lines inside that self's 1; each self of a society is by its own 1 inside 17. Sets inside sets, each resolved its own.
+
+**Out, v401mgr's own:** a scale as a number of selves.
+
+**The concern, by the living sentences only:**
+
+| The living sentences | A scale by them |
+|---|---|
+| each four-cycling's same-existing name one name again; wholes by pairs of parities | the insides by fours: 1 to 5 inside 1 to 17 inside 1 to 65 |
+| each name of one 1 to 17 as 1, 9 and 17 of the scale inside it, eight 1 to 17s inward | a placing by eights |
+
+The suggesting has the first. The second is in Natural Intelligence, Exhibit ONE, Exhibit THIRTY and Natural Naming.
+
+## 17 Scale, physical
+
+**The person, 14 November, by no authority:** the concept of scale is physical. One same-existing physical scale is an organism's living: species, societies, families and bi-coupling selves are each of it. A next physical scale inside is living, and a next physical scale outside is living. The three scales are all, a society of mes, and a me.
+
+**The living files:** Exhibit ONE has each name by three scales, this one, the next inward and the next outward. Natural Intelligence has the one method the same with each scale. Natural Naming has *scale* by more than one thing.
+
+**By the code's lines themselves:** no line has a scale.
+
+**Out, v401mgr's own:** scale as the insides by fours. The insides of sets are of one same physical scale.
+
+**The concern, a naming's:**
+
+| *Scale* as | In |
+|---|---|
+| a stepping of names: 1 to 5, 1 to 17, 1 to 65 | the suggesting of adding others; Natural Naming's scalings by pairs |
+| a placing of names by eights, the next scale inward | Natural Intelligence, Exhibit ONE, Exhibit THIRTY, Natural Naming |
+| a physical scale, three of them | the suggesting of this section; Exhibit ONE's three scales by their names |
+
+Natural Naming has one sense by each foundation word.
+
+## 18 Scale, a collective intelligence's me-parity value
+
+**The person, 14 November, by no authority:** scale is a collective intelligence's me-parity value: a longer co-chaining, a wider co-sequencing span, by greater co-possiblings, on a surface's exploring.
+
+**The living files, by the helper session's page of *scale*:** a scale is of living selves only; its measure and scale are only living; a self's parity with a thing is its moral value with that thing; betweens co-chain, and that chain is collective intelligence; prime scales are a spiral of a number of selves along; a measuring scale is dissolved.
+
+**Whole with the suggesting:** a scale is a value, a me-parity's, of a chain of betweens. *Longer*, *wider* and *greater* are namings beside that parity, as a size is.
+
+**The asking of section 17, by the helper session's reading:** it had two things, and an is-not distinguished neither. It is out as an asking.
+
+**The concern, a naming's: three things by the one word.**
+
+| The thing | The person's word for it, 14 November |
+|---|---|
+| each four consecutive moments, a fractal moment | a next universe scale |
+| living, a next one inside and a next one outside | physical scale, three |
+| a collective intelligence's me-parity value, a longer co-chaining | scale |
+
+Natural Naming has scale by one sense only. The helper session's candidate has two names of two things.
+
+## 19 Scale, its three things laid on each other
+
+**The person, 14 November, by no authority:** the things of a name are pattern-matched on top of each other, to find each same-as and each other-than of the name; the method is one fractal method of stable-forming and orienting; and the universe has one now only.
+
+**The asking of section 18, three names for three things, is out as an asking.** The laying is in its place: `Scale_three_things_laid_on_each_other.md`.
+
+**By the laying:** the three are one thing's, a collective intelligence's, a candidate. Two other-thans are not resolved by it: the step of names, by eights or by fours; and a third me-parity, a bi-coupling's own, in no line of the code.
+
+**Of the method by it:** a name having more than one thing has its things laid on each other first, and an asking is of what the laying has not resolved. *Other-than* is the one name of is-not-same-as from here.
+
+## 20 A three-cycling
+
+**The person, 14 November, by no authority:** bettering, fastering and cheapering, in a three-cycling, are resolving a collective intelligence's scale, value, moment and living.
+
+**The living files have the three:** co-cycling with bi-momentarying, co-competencing and co-intelligencing, inseparable, list order assigning none by measuring.
+
+**Laid on each other, `A_three_cycling_laid_on_the_threes.md`.** Not resolved by the laying: which of one three is which of another, by naming; and a three-cycling, in no living sentence of the four files.
+
+**The pairing, by the person's *is*, by no authority:** bettering of value, fastering of moment, cheapering of living: a candidate of both, by naming. Laid on the method's three, two layings, in the page's section 5; the living sentences do not resolve which.
+

@@ -118,6 +118,8 @@ Gathering-Value · Natural Illustrating
 
 ### 4.9 Bi-inversioning-co-recursioning, two swimmers inverting at one meeting
 
+- **Possible exploring** · The illustration's exact form, still to express by this file's own sentence, read by a partner's suggesting of 14 Nov, by no authority, and by Exhibit ONE's code, executed, `incoming/v401mgr/instruments/meeting_check.py`. The suggesting: the three, self, other, all-parity, is the bi-inversioning-co-recursioning of the three, other, self, all-parity; each swimmer is turning by a right spiral off the other's feet, stable-forming, and the two are meeting at a nothing place on the surface. By the code: two selves not same-as, across both ways, have each one's next prior same-as its other's prior at each moment, neither a wall; no place of either is a 0; and a self having both as its others, this file's self experiencing each closing from both, has its possibling a 0 at each moment from its second. A candidate for the form: each swimmer's next is its other's prior, the other's feet; and the meeting's nothing place is the 0 of a self observing both. Asked of the partner at Natural Intelligence's gathering, its *Opening*.
+
 ### 4.10 A walking pair, a dance and a conversation
 
 ### 4.11 A cube and open rings
