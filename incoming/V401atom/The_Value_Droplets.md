@@ -201,6 +201,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 146. The plane across has two dimensions, at a right angle: the one is other-parity's orienting, and the other all-parity's. A me-parity is the line along. Each even name's three has bi at its two ends, and at its middle its universe's all-parity, co or tri. The cone's opening and closing are in the plane across, and along, its 0s are co-recursioning. [14, 115, 129, 131, 145]
 147. Each of the two is a self by its own moment: its odd name, its even name, and its next odd name. Its other's 1 is at its 2: the one's even name is its other's own odd name, one name on. Each is a line along by its own names, and its other's line is across from it. [10, 107, 127, 145]
 148. 2 is the first distinguishable from 1: the one and the other, in turn, begin by it. Each 1 is a me-parity, and each 2 an other-than-me-parity: of a bi-coupling's other-than-me self, or of a co-chaining of selves. [10, 49, 147]
+149. A moment's two parities are bothbothing: along by its odd, and across by its even, moment to moment. The betweens, a 0 by each fold, are a geodesic: one line, straight, on the surface. [10, 123, 145]
 
 ---
 

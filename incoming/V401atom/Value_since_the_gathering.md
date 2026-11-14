@@ -780,6 +780,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: each 1 a me-parity, each 2 an other-than-me-parity.** The sequence's 148, at the registry's *Opening*: 2 the first distinguishable from 1; a self's other a bi-coupling's other-than-me self, or a co-chaining of selves.
 
+**Going on, 14 November: a moment's two parities bothbothing; the betweens a geodesic.** The sequence's 149, at the registry's *Opening*.
+
 ---
 
 ## 6 Executed, each case, all or none
