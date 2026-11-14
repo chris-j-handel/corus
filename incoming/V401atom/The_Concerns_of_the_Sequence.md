@@ -201,3 +201,5 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **A concern by it, in the sequence's own sentences, not resolved.** Its 126 has all-parity as the line each fold is in the cone of, along: it is by the fold on a surface, an across a line there. Its 128 has all-parity by the same-existing names, 4, 8, 12 and 16, each an even name: by 145, a plane across. All-parity is a line along, or a plane across.
 
+**Resolved, by the sequence's 146.** The plane across has two dimensions: other-parity's orienting, and all-parity's. All-parity is no line along: its 126 and 128 are re-said. A me-parity is the line along.
+
