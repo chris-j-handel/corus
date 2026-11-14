@@ -786,6 +786,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a bump.** The sequence's 150 and 151, at the registry's *31*: the place of two atoms touching, its one point and the circle around it; of two atoms, and no atom's own.
 
+**Going on, 14 November: a fracture dissolving a me-parity.** The sequence's 152, at the registry's *33*: a 0 having a fold's line through it, a nothing in all-parity's surface; by a me-parity exhausting, or by a cut across. v401atom's candidate of a fracture as a bump parting is in no sentence.
+
 ---
 
 ## 6 Executed, each case, all or none
