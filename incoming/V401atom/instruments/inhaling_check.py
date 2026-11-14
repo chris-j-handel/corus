@@ -42,3 +42,21 @@ for p in (1, -1):
                 free = free and got == own(p, 5)
 print("2 a self by atoms each its own, two or three each executing, cases:", b)
 print("  by atoms of the one orientation and the other together, each executing: a 0, and its priors are its own alternating, as by all-parity alone:", free)
+
+# a snippet taken whole, each atom of it together in one executing: its order, one after one, is in no line
+c = 0; order = True; kinds = True
+for p in (1, -1):
+    for n in range(2, 7):
+        for s in itertools.product((1, -1), repeat=n):
+            res = set()
+            for perm in set(itertools.permutations(s)):
+                c += 1
+                co, nxt = one([(S, p)], [(S, v) for v in perm])
+                res.add((dict(co)[S], dict(nxt)[S]))
+            order = order and len(res) == 1
+            co, nxt = res.pop()
+            both = len(set(s)) == 2
+            kinds = kinds and ((both and co == -p and nxt == -p) or (not both and s[0] == p and co == 0 and nxt == p) or (not both and s[0] != p and co == s[0] and nxt == s[0]))
+print("3 a self by a snippet whole, each atom of it together in one executing, each order of it, cases:", c)
+print("  what the lines return is the same by each order of the snippet: its one after one is in no line:", order)
+print("  by a snippet of both orientations: a 0, bi-folding, as by all-parity alone; by a snippet of one orientation: that one parity, as one atom:", kinds)

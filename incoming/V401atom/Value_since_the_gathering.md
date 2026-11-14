@@ -754,6 +754,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a self by a snippet, and by atoms each its own.** The sequence's 135 to 137, `instruments/inhaling_check.py`: by a snippet alone a self's priors are the snippet's, one executing on; by atoms of both orientations together a 0, its priors its own alternating, as by all-parity alone. Droplets at the registry's *32* and Exhibit ONE's *One self, one momentary*.
 
+**Going on, 14 November: ingesting, a snippet whole in one now, unrelationing.** The sequence's 138 and 139, `instruments/inhaling_check.py`, its part 3, 2,544 cases: by a snippet whole in one executing, what the lines return is the same by each order of it. One droplet at the registry's *32*; Exhibit ONE's droplet of the instrument re-said.
+
 ---
 
 ## 6 Executed, each case, all or none
