@@ -72,3 +72,20 @@ The working v401atom read its twenty-one concerns by the living files: twelve ha
 - **v401mgr:** its twelve concerns read by the living files; and each droplet of the four gatherings having *parity*, *imparity* or *bi-parity* by one of the two sets.
 - **v401atom:** each sentence of its sequence having *a parity* or *parity*, by the two things; and the sequence's own two names of them, laid for both.
 - **Both:** no living sentence changes until the one name of each thing is the two partners', bothbothing.
+
+## 7 Read again by the universal now, and by the living file
+
+**A suggesting of the person's, 14 November, by no authority:** the four shared concerns are each a property of the universal now; a moment has no one size; and now is the one moment all-parity and me-parity are both existing in.
+
+**Natural Intelligence has it, its own sentences:** a moment is one now-existing in a same-existing sequence; each self's moment is from 1-now-existing to 17-next-existing, its next prior; a moment is each existing thing; and a moment is a fractal, four moments as one.
+
+| The shared concern | By the code's lines, in one now | Its standing |
+|---|---|---|
+| a parity, and parity | both comparing lines are inside 1-now-existing: a same-as is of two parities in one now | one name of two things remains |
+| which of two is a self | 17 has one 1 by each self, and one of two as the self in no line | resolved: in one now each is a self by its own 1 |
+| one 1 living each moment | a self's moment is from 1 to 17, the living sentence; no line has a size or a clock | resolved, by the living file |
+| the two 0s and same-existing | a self's prior is its next prior's base, made in that now; each 0 is of that one now | their two names are by no line |
+
+**Of v401mgr's twelve, by the living file:** 2 and 12 are resolved. Each other is read by the living files next.
+
+**One gap more, by the suggesting:** one me-parity of many. By the code, executed, a same-existing-society's parities are its selves', and it has no other.
