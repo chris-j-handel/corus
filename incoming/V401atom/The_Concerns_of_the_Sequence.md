@@ -157,3 +157,9 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **For the sequence.** Each sentence is read again for its logic from the sentences before it; its executing is a check beside it, and no base.
 
+## 11 One way at a time, and now and next: a reading of v401atom's out
+
+**Out, v401atom's own.** *8 apart as straight across the one*; *now names the one side and next names the other*; and *to and from in turn around*. Each was a reading of v401atom's, laid in its 133 and 134 and in an instrument's arrangements. By Exhibit ONE's own pairs, a self's name to its other's name is 6 to 2, 10 to 14 and 9 to 17: the two sides across are a self's and its other's, and now and next are two alongs. Its 133 and 134 are re-said, and the arrangements are out of the instrument.
+
+**A concept, a suggesting, by no authority, in no sentence yet.** Is-or-is-not is distinguishing two ways: the one way is same, and the other way is not same; and which way is the between.
+

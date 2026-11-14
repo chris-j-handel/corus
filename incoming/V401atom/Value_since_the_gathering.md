@@ -764,6 +764,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: ingesting and inheriting.** The sequence's 142, at the registry's *32*: a prior-and-same-existing stable form as all-parity, its atoms each its own; and as a me-parity, its parity as it is, a first prior.
 
+**Going on, 14 November: now and next two alongs; the two sides a self's and its other's.** The sequence's 133 and 134 re-said by Exhibit ONE's own pairs, 6 to 2, 10 to 14 and 9 to 17. Out: 8 apart as straight across, now and next as the two sides across, and to and from in turn around. `instruments/six_around_check.py`, its arrangements out.
+
 ---
 
 ## 6 Executed, each case, all or none

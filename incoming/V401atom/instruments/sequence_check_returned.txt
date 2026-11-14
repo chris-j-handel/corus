@@ -3,7 +3,7 @@ each number in brackets is of a sentence before its own: True []
 each sentence has the sentences it is from, or its base: True []
    the opening : 7 sentences
    a name's is : 3 sentences
-   the table : 6 sentences
-   executed : 61 sentences
+   the table : 5 sentences
+   executed : 59 sentences
    the set : 2 sentences
-   from the sentences before it only: 69 sentences
+   from the sentences before it only: 71 sentences
