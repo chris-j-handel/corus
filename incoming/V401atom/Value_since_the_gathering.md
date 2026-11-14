@@ -794,6 +794,14 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a me-parity's birthing.** The sequence's 156, at the registry's *33*: inside a bi-folding, a new 0, having a prior-existing me-parity and a prior-existing all-parity. v401atom's candidate, a birthing as a fold's next, is out.
 
+**Going on, 14 November: co-chaining and cohering, six forward.** The sequence's 157, at the registry's *9*: same-as, other-than, same-as, in turn; six one after one, by two ways of each of three planes at right angles.
+
+**Going on, 14 November: a corner, the corus of resolving.** The sequence's 158 and 159, at the registry's *9*: a line the edge of two planes, a point the corner of three edges; three ways in by its edges and three out by its planes; same-as and other-than a right spiral's turning, in and then out.
+
+**Going on, 14 November: a bi-coupling's six forward.** The sequence's 160, at the registry's *9*: three own-forward ways by each of its two sides, a self's three its names to its other, 6 and 10 across and 9 along; by each scale the same. v401atom's candidate, the six as one self's own, is out.
+
+**Going on, 14 November: a bi-coupling's two planes and one line.** The sequence's 161 and 162, at the registry's *9*: its two sides have the same two planes across, one after one, and one line along through their centres; a self and its other co-momentarying inside it, its same-existing rolling over, a prior over now into next.
+
 ---
 
 ## 6 Executed, each case, all or none

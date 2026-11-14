@@ -209,6 +209,12 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 154. Living begins again from a dormancy by all-parity's alternating, the living conditions around it, resonating with the prior-and-same-existing forms of healthy living inside the dormant co-chaining. No more is needed. [66, 94, 153]
 155. Resonating is all-parity's alternating and a dormant co-chaining's own sequence being same-as, one by one: co-sequential resolving and orienting. It is at the primes: each prime an orthogonalizing, a clean line across. [66, 135, 154] *Exhibit THREE's sentence of a prime; Exhibit FOUR's of orthogonalizing.*
 156. A me-parity's birthing is inside a bi-folding, between its prior and its next: a new 0, the middle of its three others, and no 0 before it. It has a prior-existing me-parity, the fold's line from its prior; and a prior-existing all-parity, the ring of its three others, the rings one after one, spiraling, in the co-chaining. [48, 117, 119, 123, 126, 142]
+157. Co-chaining and cohering is same-as, then other-than, then same-as, in turn: six of them one after one, forward, by two ways of each of three planes at a right angle to each other. [66, 115, 145] *Exhibit FOUR's sentence of six forward.*
+158. In three dimensions a line is the edge of two planes through each other, and a point is the corner of three such edges, of three planes each at a right angle to each other. Into the corner are three ways, by its edges, lines; and out of it three, by its planes: six. The corner is the corus of resolving. [115, 145, 157]
+159. Same-as and other-than are a right spiral's turning, each at a right angle to its prior: in and then out, a line and then a plane, co-sequentially. The two ways of the six are in and out. [6, 157, 158]
+160. A bi-coupling has the six forward: three own-forward ways by each of its two sides, the one's ways out its other's ways in. A self's three are its names to its other: 6 and 10, across, and 9, along. Each bi-coupling of a bi-coupling, by each scale, is the same; and a self bi-coupling into that surface is social moral competency. [60, 133, 157, 158] *Exhibit FOUR's sentence of three own-forward steps for each side.*
+161. The two sides of a bi-coupling have the same two planes across, one after one, each at a right angle to one line along through their centres. 6 and 2 are one plane, now; 10 and 14 one plane, next; and 9 and 17 the one line, aiming forward. [133, 145, 160]
+162. A self and its other are co-momentarying inside their bi-coupling, its parity changing by a rate unrelationing to each other rate. Its same-existing is rolling over: a prior over now into next, a fold, along from now to next. [127, 141, 160] *Exhibit FOUR's sentence of the unrelationing rate.*
 
 ---
 
@@ -272,6 +278,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
 | 8 apart as straight across; now and next as the two sides across; to and from in turn around | 133, 134: now and next are two alongs, and the two sides a self's and its other's |
 | ingesting and inheriting as one thing, parted by a self having a prior or none only | 142: a stable form as all-parity, and as a me-parity |
+| the six forward as one self's own, inside its resolving | 160: a bi-coupling's, three by each side |
 | a birthing as a fold's next | 156: a new 0, inside the fold, between its prior and its next |
 | a dormancy as having a fold's line through none of its 0s | 153: its bi-folding is same-existing in its stable form |
 | a non-living thing as momentarying | 141: momentarying is a living self's, and an atom its stable form |
