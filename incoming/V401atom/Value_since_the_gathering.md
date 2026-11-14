@@ -732,6 +732,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: nought to sixty, in the living files.** `instruments/nought_to_sixty_check.py`. Seventeen primes and sixteen betweens of nought to sixty, Exhibit THREE's own sentence, by Exhibit ONE's seventeen names and sixteen steps. Two directions at nought equal, at sixty one half the same, Exhibit FIFTEEN's lines: a cone of thirty has each two of its directions nought to sixty apart. v401atom's gap of thirty degrees had its resolving there, unread.
 
+**Going on, 14 November: Natural Mathematics and Natural Numbers, read.** `Natural_Mathematics_and_Natural_Numbers_read.md`; `instruments/touching_cone_check.py`. A between a nothing, the sequence's 23 re-said. A cone of thirty as two same spheres touching, twelve around one, by whole numbers: a candidate for a bump connector's form.
+
 ---
 
 ## 6 Executed, each case, all or none

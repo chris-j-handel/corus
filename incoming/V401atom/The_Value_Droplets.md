@@ -40,7 +40,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 ## C The four things
 
 22. Living and non-living are one binary of a now-existing thing. Same-existing and non-same-existing are one binary of a now-existing thing. [3]
-23. A stable form is non-living and same-existing. A self is living and same-existing. A me-parity is living and non-same-existing. A between is non-living and non-same-existing. [22]
+23. A stable form is non-living and same-existing. A self is living and same-existing. A me-parity is living and non-same-existing. Non-living and non-same-existing is a between: a nothing, and no thing. [22] *Exhibit FOUR's sentence of a between.*
 24. All-parity is the universal other of a self's universal set of me-parities. Its same-existing is its atoms, each a stable form, and each between of two atoms is of it. [23] *The opening's 24, universal-parity.*
 25. Living is resolving each of four: prior, now, next and same-existing. Discovering next-existing is a living self's only. [22] *The opening's 15.*
 26. A stable form is prior-and-same-existing, and now-and-same-existing. [23, 25]

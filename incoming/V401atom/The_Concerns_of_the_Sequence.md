@@ -126,3 +126,7 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 - Exhibit THREE Natural Numbers: a going from nought to sixty has seventeen primes and sixteen betweens, one and then the other. Exhibit ONE has seventeen names and sixteen steps, a prime by each name; the seventeenth prime is 59. Twenty-four is the apex of nought to sixty's bi-folding, and sixty to sixty-eight are four moments across sixty-four.
 - The sequence's 88 and 89, of 24, 60 and 64, are to read by Exhibit THREE's own sentences.
 
+## 8 The shared concerns, read by Exhibit FOUR and Exhibit THREE
+
+`Natural_Mathematics_and_Natural_Numbers_read.md`. **What a 0 is** has its resolving in the living files: a between is a nothing, a changing going across it; + and − are an implementing of a parity, and 0 a between; and each of a product's two parts has its nought. The sequence's 23 had a between as one of four things, and its 102 as no thing: 23 is re-said, a between a nothing and no thing. **A parity's + and −** has it too: + and − are a direction's signs by an axis, an implementing, and a direction is before them.
+

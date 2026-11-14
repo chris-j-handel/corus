@@ -1,0 +1,14 @@
+1 two same spheres touching: from the one's centre, the other is in a cone about the line of the two centres;
+  the side across the cone's half is 1 of 2, one half: the half of a three-sided form of three same sides, thirty: True
+2 two same spheres touching one, and touching each other: three centres, three same sides, sixty at each;
+  two touching one are sixty apart or more, and at sixty they touch: nought to sixty is inside one cone, sixty the next cone's centre line: True
+3 twelve directions around one centre, each two same lengths: True
+  each two of them have 1, 0, -1 or -2 of 2 the same: sixty, ninety, one hundred twenty or straight across: True
+  none are nearer than sixty, and each has four at sixty: twelve cones of thirty, each touching four, none over an other: True
+  each has its one straight across: six lines, twelve directions: True
+4 Exhibit FOUR has it, its own sentences:
+    Kissing numbers are two, six, twelve and twenty-four for one to four dimensions: True
+    A cuboctahedron has twelve vertices, twenty-four edges, eight triangles and six squares: True
+    With θ = 60° a pair of unit directions shares one half: True
+    Each part has its nought: True
+    a surface is a between: True
