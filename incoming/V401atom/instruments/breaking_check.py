@@ -46,3 +46,21 @@ print("1  with a breaking, each of eight selves is with its prior, + or -, with 
 print("2  each self before the between is as with no breaking, with each 1 to 17:", ok2)
 print("3  the self after the between is bi-folding with each 1 to 17, all-parity its other; and each self after it is with it:")
 print("   each span along, after the between, is one self, and the spans of three are with it no more:", ok3)
+
+# 4, 5: each self's prior with the fracture's 1 to 17, and the two selves, one each side of the fracture
+ok4b = ok5 = True; same_n = notsame_n = 0
+for pri in itertools.product((1, -1), repeat=N):
+    base = rows(pri, None)
+    for b in range(N - 1):
+        got = rows(pri, b)
+        ok4b = ok4b and all(got[t] == base[t] for t in range(T_BREAK + 1))
+        a, c = got[T_BREAK][b], got[T_BREAK][b + 1]
+        out, nxt = one([], [(S, a), (S, c)])
+        inherited = dict(nxt).get(S)
+        if a == c:
+            same_n += 1; ok5 = ok5 and inherited == a
+        else:
+            notsame_n += 1; ok5 = ok5 and inherited is None
+print("4  with the fracture's 1 to 17, each self's prior is as with no fracture: each co-chaining after it has its priors from the one before it, as they were:", ok4b)
+print("5  the two selves, one each side of the fracture: is-same-as, inside a span, cases:", same_n, "; is-not-same-as, two spans meeting, cases:", notsame_n)
+print("   the code's state of an empty prior with the two: a first prior inherited, that same parity, with is-same-as; nothing inherited with is-not-same-as:", ok5)

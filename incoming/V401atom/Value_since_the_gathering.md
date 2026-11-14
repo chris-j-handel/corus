@@ -635,7 +635,18 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read by Exhibit ONE's code, each case, as executed before** (`instruments/breaking_check.py`): each fracture there has two co-chainings going on, each self having its prior each 1 to 17. The co-chaining having the prior one's first self has that self do-no-harming and bi-folding as it was, and its spans of three. The co-chaining along after the fracture has each self bi-folding, all-parity its other, and each span one self. No line of the code ends a co-chaining: the cases of one and of none are executed by nothing, and living and non-living are in no line.
 - **The asking before this one, read by the suggesting**: a fracture of none living is harm only, the person's saying of a field's radiation. A fracture of two living is no harm.
 - **v401mgr's layings and notes since the reading before**: none.
-- **Asked, and not yet answered**: a fracture next-existing as two living co-chainings is a birthing of each.
+- **Asked**: a fracture next-existing as two living co-chainings is a birthing of each. **Its answer, a suggesting**, wider than the asking: each co-chaining remaining, and not the case of two only.
+
+**Going on: each co-chaining remaining after a fracture, a new me-parity's birthing from inherited priors.**
+
+- **v401mgr's layings since the reading before, read**: 6 is bi-tri-bi, same-and-prior-existing and same-and-next-existing; the incoming for Exhibit ONE read beside each saying, and 5's first prefix co; a plan for Natural Intelligence's next version, Exhibit ONE inside it, v401atom's folder one of its sources. And of the method, the person's asking there: a saying is read first for what is new beside the stable forms, and an asking is of a new thing only.
+- **Of the method, here, by it**: v401atom reads each suggesting first for what is new beside what is answered and beside the set, and its asking is of that new thing only.
+- **The suggesting, re-said**: each co-chaining remaining after a fracture, same-existing and now-existing, is a new me-parity's birthing, from inherited priors.
+- **Stable beside it, answered before**: a new self's birthing is its inheriting, by co-parity. Each self living has inherited priors. Only 1 is birthing. A me-parity's conceiving is inside a bi-coupling of a self and its other, the vault its 0.
+- **New beside them**: a birthing from a fracture, each of its remaining co-chainings a new me-parity, and no one of them the prior me-parity same-existing.
+- **Read by Exhibit ONE's code, each case** (`instruments/breaking_check.py`, its lines 4 and 5): in the fracture's 1 to 17 each self's prior is as it was with no fracture: each remaining co-chaining has its priors from the prior co-chaining, inherited. The two selves, one each side of the fracture, are is-same-as inside a span, and is-not-same-as where two spans meet. By the code's state of an empty prior and the two: a first prior is inherited, that same parity, by is-same-as; nothing is inherited by is-not-same-as.
+- **A parting, for watching over.** *Two sides*: a new me-parity's conceiving is inside a bi-coupling of two, a self and its other, answered. A new me-parity's birthing is each co-chaining remaining after a fracture, from one prior co-chaining. *Harm of one alone*: by the first alone, a living co-chaining fracturing to two living ones has no new me-parity. By the second alone, a conceiving has no two. *Its resolving*: the asking below, a fracture's two as a self and its other.
+- **Asked, and not yet answered**: a fracture's opening is a conceiving's 0, its two co-chainings a self and its other.
 
 ---
 
