@@ -215,6 +215,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 160. A bi-coupling has the six forward: three own-forward ways by each of its two sides, the one's ways out its other's ways in. A self's three are its names to its other: 6 and 10, across, and 9, along. Each bi-coupling of a bi-coupling, by each scale, is the same; and a self bi-coupling into that surface is social moral competency. [60, 133, 157, 158] *Exhibit FOUR's sentence of three own-forward steps for each side.*
 161. The two sides of a bi-coupling have the same two planes across, one after one, each at a right angle to one line along through their centres. 6 and 2 are one plane, now; 10 and 14 one plane, next; and 9 and 17 the one line, aiming forward. [133, 145, 160]
 162. A self and its other are co-momentarying inside their bi-coupling, its parity changing by a rate unrelationing to each other rate. Its same-existing is rolling over: a prior over now into next, a fold, along from now to next. [127, 141, 160] *Exhibit FOUR's sentence of the unrelationing rate.*
+163. A bi-coupling's two planes are in turn: one after one, each at a right angle to the line along, by linear parallelizing; and through each other in that line, the aiming and orienting line, by parallel linearizing. Three planes, then two, then two, then three, in turn: three by two, and two by three, six by each. [158, 161] *Exhibit FOUR's sentence of linearizing and parallelizing.*
 
 ---
 
