@@ -780,6 +780,12 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: each 1 a me-parity, each 2 an other-than-me-parity.** The sequence's 148, at the registry's *Opening*: 2 the first distinguishable from 1; a self's other a bi-coupling's other-than-me self, or a co-chaining of selves.
 
+**Going on, 14 November: a moment's two parities bothbothing; the betweens a geodesic.** The sequence's 149, at the registry's *Opening*.
+
+**Going on, 14 November: the atom's form, gathered from the sequence.** `The_Atoms_Form.md`: v401atom's own aiming, each line a sentence of the sequence by its number; and three things by no sentence yet: a bump, the number an atom carbon is touching, and a fracture by the fold's form.
+
+**Going on, 14 November: a bump.** The sequence's 150 and 151, at the registry's *31*: the place of two atoms touching, its one point and the circle around it; of two atoms, and no atom's own.
+
 ---
 
 ## 6 Executed, each case, all or none
