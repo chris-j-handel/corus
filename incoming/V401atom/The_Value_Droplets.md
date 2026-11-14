@@ -187,6 +187,9 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 132. A society is living: its selves, each stable-forming, in one all-parity around its universe. A society is no stable form, and it has no parity but its selves'. [23, 43, 61, 129]
 133. The six names between selves are the six around one on a surface. 9 and 17 are the two along. 2 and 6, now names, are the two across of its one side, and 10 and 14, next names, the two across of its other. Each is straight across its name 8 apart: 2 and 10, 6 and 14, 9 and 17. [60, 121] *Executed, `six_around_check.py`; Exhibit ONE's table.*
 134. A self's names to its others are 6, 9 and 10, and its names from its others 2, 14 and 17. Each line through the one has a name to an other at its one end and a name from an other at its other end. By one form of the six around, to and from are in turn around, each one between two of the other kind: alternating. [66, 133] *Executed, `six_around_check.py`.*
+135. A self observing a snippet alone, a co-chaining of atoms one after one, has each of its priors as the snippet's parity of the executing before, as it is. Its own alternating is in them by one snippet only, the one and the other in turn. [66, 83] *Executed, `inhaling_check.py`.*
+136. A self by atoms each its own, of the one orientation and the other together, has a 0: it is bi-folding, and its priors are its own alternating, as by all-parity alone. Atoms each its own, of both orientations, are all-parity. [55, 59, 64] *Executed, `inhaling_check.py`.*
+137. Exhaled atoms co-chaining are a stable form. Inhaled as a snippet, they are harming a living self: its priors are the snippet's. Fractured to atoms each its own, they are all-parity, and a self inhaling by them is resolving by its own. [70, 86, 135, 136]
 
 ---
 

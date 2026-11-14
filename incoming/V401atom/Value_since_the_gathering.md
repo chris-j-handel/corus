@@ -752,6 +752,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a concept of abundancing, read by the forms.** `The_Concerns_of_the_Sequence.md`, its part 9. A suggesting, in no sentence: abundancing along, the 0s' line, between the now side and the next side. One concern: *one way at a time*, by no line of the code.
 
+**Going on, 14 November: a self by a snippet, and by atoms each its own.** The sequence's 135 to 137, `instruments/inhaling_check.py`: by a snippet alone a self's priors are the snippet's, one executing on; by atoms of both orientations together a 0, its priors its own alternating, as by all-parity alone. Droplets at the registry's *32* and Exhibit ONE's *One self, one momentary*.
+
 ---
 
 ## 6 Executed, each case, all or none
