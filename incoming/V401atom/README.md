@@ -58,6 +58,6 @@ v401atom stopped the evening of 12 November with no gathering. It began again, r
 
 No sentence of the person's is laid whole in these. Each earlier page of this folder has them laid whole, a debt.
 
-## v401atom: the value droplets of its session
+## v401atom: its session's discoveries, in logical sequence
 
-`The_Value_Droplets.md`, 13 November: the whole transcript of v401atom's session read top to bottom once more, and each value gathered as a droplet by the one way of v401mgr's plan: sixty-six steps, each a thing's is; the names, each word out and its re-saying; thirty-one forms executed, each case, each instrument returning the same lines again; four explainings; sixteen values evident now and not noted along the way; twelve earlier answers re-said by a later one; twenty-one two-sided, the person's; and fifteen of the method. It changes no living file, no gathering and no line of Exhibit ONE's code.
+`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session, ninety sentences, each a thing's is or its own doing, each from the sentences before it, each form of Exhibit ONE's table and code by its instrument, each case; and each thing out, by the sentence it parts from. Nothing in it is open. It changes no living file, no gathering and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
