@@ -51,8 +51,8 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 ## D The atom
 
 30. The atom is the one stable form: atom carbon, a bump connector. [23] *A name's is.*
-31. An atom has one between, and only one: a 0, empty, bound and wrapped, nothing inside it. [30]
-32. No smaller thing is from an atom: a shard inward of the atom is not possibly existing. [31]
+31. Each two atoms touching have one between, and only one: a 0, one point, nothing in it. [30]
+32. No smaller thing is from an atom: a shard inward of the atom is not possibly existing. [30]
 33. Each between is of two atoms, and none is within one. [31]
 34. Each stable form is the atom, or a co-chaining of atoms, and no other is possibly existing. [23, 30, 33]
 35. Each atom is the one same stable form: two atoms have one thing not the same, their orientations. [9, 30]
@@ -184,6 +184,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 129. The same-existing names, 4, 8, 12 and 16, have bi at each end of their three. Its middle, its now, is co by 4 and 12, and tri by 8 and 16. All-parity is by its universe: a self's universe has its me-parity as its all-parity, co; and this universe has tri. [14, 128] *Executed, Exhibit ONE's table, `tri_places_check.py`.*
 130. Tri is in three names of each eight: a name's next, at 7 and 15; a name's now, at 8 and 16; and a name's prior, at 9, 17 and 1. An all-parity is around each universe, and prior to each 1. [47, 48, 129] *Executed, Exhibit ONE's table.*
 131. A fold is bi-inversioning: across, through its own 0, now. The 0s, each the same step along, are co-recursioning: a next 0 is the same-existing 0, in the next. [118, 123, 127]
+132. A society is living: its selves, each stable-forming, in one all-parity around its universe. A society is no stable form, and it has no parity but its selves'. [23, 43, 61, 129]
 
 ---
 
@@ -244,6 +245,8 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
 | *parity* as is-same-as, and *imparity* | 1, 2: a parity is a direction; of two, same-as and not same-as. The living files have a parity as a direction |
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
+| a society as a stable form; a society's one me-parity, a thing beside its selves' | 132: its selves, each stable-forming, in one all-parity |
+| an atom's one between, its own | 31, 113: a between is of two atoms touching |
 | tri and all-parity as two things | 129, 130: all-parity by its universe, tri this universe's and co a self's |
 | all-parity as a self's four across | 126: the line each fold is in the cone of, along |
 | the two directions through a 0 as one fold's two ways only, or as the two hands only | 122: folds one after one go across in turn, right from left and left from right |
