@@ -64,3 +64,13 @@ for p1, p2 in itertools.product((1, -1), repeat=2):
                 ok = ok and got == base
 print("the code, one self having two things, cases:", n)
 print("   a thing's 10 and its next prior are by its own prior and its own possibling, the same by each case of its other thing:", ok)
+
+# each name's three, from Exhibit ONE's table: its kinds, and its two ends
+three = {int(n): t for n, t in re.findall(r"^\| (\d+) \| \*\*[\w-]+\*\* \| [^|]+\| [^|]+\| [^|]+\| ([a-z-]+) \|", src, re.M)}
+two_kinds = [n for n, t in sorted(three.items()) if len(set(t.split("-"))) == 2]
+three_kinds = [n for n, t in sorted(three.items()) if len(set(t.split("-"))) == 3]
+same_ends = lambda t: t.split("-") == t.split("-")[::-1]
+print("each name's three, seventeen names:")
+print("   a three of two kinds, the names", two_kinds, ": each is the same from each of its ends:", all(same_ends(three[n]) for n in two_kinds))
+print("   a three of three kinds, the names", three_kinds, ": each is one-way, not the same from its other end:", all(not same_ends(three[n]) for n in three_kinds))
+print("   co-bi-tri,", [n for n in three_kinds if three[n] == "co-bi-tri"], ", is from its other end tri-bi-co,", [n for n in three_kinds if three[n] == "tri-bi-co"])

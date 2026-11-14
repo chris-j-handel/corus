@@ -60,4 +60,8 @@ No sentence of the person's is laid whole in these. Each earlier page of this fo
 
 ## v401atom: its session's discoveries, in logical sequence
 
-`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session, ninety sentences, each a thing's is or its own doing, each from the sentences before it, each form of Exhibit ONE's table and code by its instrument, each case; and each thing out, by the sentence it parts from. Nothing in it is open. It changes no living file, no gathering and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
+`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session and of this folder's earlier pages, 106 sentences, each a thing's is or its own doing, each from the sentences before it or having its base, read by `instruments/sequence_check.py`; each form of Exhibit ONE's table and code by its instrument, each case; each sentence of the opening it meets, same, re-saying or parting; and each thing out, by the sentence it parts from. Nothing in it is open. It changes no living file, no gathering and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
+
+## v401atom: its first reading of the gatherings' droplets
+
+`The_First_Reading_of_the_Gatherings_Droplets.md`, 14 November: v401mgr's ledger has v401atom as first reader of each droplet of the four gatherings having a word of the non-living scale, 137 in `main` at `c40e680`. Each has one line: whole, the sequence having its value by the sentences named, 92; parts, 25, each resolved by the sentences named; or beyond the sequence, 20, v401mgr's. Read by `instruments/first_reading_check.py`. It changes no living file and no gathering, and decides no droplet's fate.
