@@ -65,7 +65,25 @@ Natural Intelligence 4.15 has the second and the third of 1.2 in one section: "S
 
 *Other-parity*, *self-parity*, *social-parity*, *co-parity* and *bi-parity* are next.
 
-## 3 The edges
+## 3 Co, bi and tri; visible and invisible
+
+### 3.1 Each place
+
+- **Co, bi and tri.** Natural Naming 3.3: "co is self, bi is other and tri is all" and "social parity, all's, is reached from self parity only through other parity" and "each tri-bi-co has its mirror co-bi-tri two names on, 9 and 17" Exhibit ONE Natural Resolver, *Each name's three*: "Tri is in the first slot with 7 and 15, in the middle with 8 and 16, and in the last with 9, 17 and 1: the rolling." Its table: 4 and 12 are bi-co-bi, and 8 and 16 bi-tri-bi.
+- **Three, and each pair.** Natural Naming 5.5: "With three living selves, a self, an other and all, each pair has a parity"
+- **Six, one-way.** Natural Naming 5.50: "Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings"
+- **Visible and invisible.** Natural Naming 5.5: "social parity is invisible, with no record or awareness of it, going on within selves, and only self parity and other parity are visible" Natural Naming 6.1 has four invisibles: each side's own morality, each side's own corus, a neutral, and a between of moments.
+
+### 3.2 Beside a suggesting of 14 November with v401de, by no authority
+
+**The suggesting, re-said in natural naming.** Same-existing is all-parity: 4, 8, 12 and 16. Tri is all by other, other by all, all by self and self by all, four, their order not said. Bi is other by self, and co is self by other. Each tri is invisible.
+
+- **Whole.** Each tri invisible: Natural Naming 5.5, social parity invisible, self parity and other parity visible. Tri as all, of three: Natural Naming 3.3 and 5.5. Of three, each two in an order are six: one co, one bi and four tri; beside it, 5.50's six one-way.
+- **By the living forms, each place of the four of tri.** All is beside other in 7, in 8 and in 9, again in 15, in 16 and in 17, and in 1. All is beside self in no name: 7 and 9 have all and self by their outer slots, other between them.
+- **By the code's lines themselves.** All is given by no line: by none of its others a self's 15 is a 0 by the line's own.
+- **Parting.** Same-existing as all-parity, each of 4, 8, 12 and 16: beside it, Exhibit ONE has tri in a same-existing name's three by 8 and by 16 only, co in the middle of 4 and of 12; and its sentence of section 2.1 has all-parity with observing only, and other-parity with same-existing.
+
+## 4 The edges
 
 - A match is of a name's letters: a sentence of a scale with no *scale* in it is not here, but the one of 1.2's fourth.
 - The four living files are not read whole. The seven of 1.2 are v401de's sorting, a candidate, deciding nothing.
