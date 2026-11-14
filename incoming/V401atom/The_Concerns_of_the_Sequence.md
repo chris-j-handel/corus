@@ -203,3 +203,7 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **Resolved, by the sequence's 146.** The plane across has two dimensions: other-parity's orienting, and all-parity's. All-parity is no line along: its 126 and 128 are re-said. A me-parity is the line along.
 
+## 16 Which of two is a self: resolved by the sequence's 147
+
+Each of the two is a self by its own moment, odd, even and its next odd; its other's 1 is at its 2. The one's even name is its other's own odd name. Exhibit THREE has it, a self's names and its other's as 1–2 and 2–3. The concern of each of two as the one right by its own naming is resolved: the two are one name apart, the one before its other.
+

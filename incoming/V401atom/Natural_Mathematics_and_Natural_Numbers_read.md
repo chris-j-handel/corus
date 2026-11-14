@@ -30,6 +30,6 @@ Incoming · v401atom · Natural Mathematics and Natural Numbers, read · 14 Nove
 
 - *Momentary*, of a moment, in each part of both.
 - The five as self-parity, other-parity, co-parity, bi-parity and same-existing self-parity; me-parity and all-parity are in neither.
-- A momentary as two names side by side, 1–2 and 2–3, each name from 2 on a completing and an opening together: moments one over the next by one name. The sequence has a moment as one odd name and then one even name.
+- Natural Numbers has a self's names and its other's as 1–2 and 2–3, its other's one name on. v401atom had this as behind: it is the sequence's 147, each of the two a self by its own moment, its other's 1 at its 2.
 - *17 a next 1*, and *a next now*.
 - *Sharing*, of a parity across.
