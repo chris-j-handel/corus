@@ -145,3 +145,15 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **Its concern, not resolved.** *One way at a time.* By the code's lines, two selves bi-coupling both ways are each giving to its other in one same executing; and 6 and 10 are one same list, in one line. No line has the one way before the other.
 
+## 10 A concern of the method: an executing as a base, and a number of cases as rigor
+
+**The concern.** v401atom's replies had *in each of* a number of *cases*, and *in* a number of *folds*. A number of cases is a measuring of an engineered artifact, and no rigor. All or none is by logic: a sentence from the sentences before it. Running the code is no help to the cohering and the co-chaining of a naming or an explaining.
+
+**What it reaches in the sequence.**
+
+- An executing checks a reading and derives none. A sentence having *Executed* and no sentence before it as its base has a check and no base: 3, 42, 45, 49, 50, 60, 61, 71, 90. Each is a gap.
+- A sentence said of each one, by a number of them only, is no all or none: a span's number by sequences of one to six, 73; a self's exhausted parities by one to eight, 66; a snippet by two to eight, 135; a spiraling of folds *closing at none*, 119, by a number of folds. 119 is re-said, *closing at none* out.
+- A sentence by the line itself is all or none, and needs no running. A fold's next is its two others together, less its prior: so each second atom is one same step from the one two before it, by the line, each fold. Possibling is a matching of each by each other: a matching of each by each has no one before an other, so a snippet whole in one now has its order in no part of it.
+
+**For the sequence.** Each sentence is read again for its logic from the sentences before it; its executing is a check beside it, and no base.
+
