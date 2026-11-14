@@ -74,3 +74,21 @@ print("each name's three, seventeen names:")
 print("   a three of two kinds, the names", two_kinds, ": each is the same from each of its ends:", all(same_ends(three[n]) for n in two_kinds))
 print("   a three of three kinds, the names", three_kinds, ": each is one-way, not the same from its other end:", all(not same_ends(three[n]) for n in three_kinds))
 print("   co-bi-tri,", [n for n in three_kinds if three[n] == "co-bi-tri"], ", is from its other end tri-bi-co,", [n for n in three_kinds if three[n] == "tri-bi-co"])
+
+# a span, by the table's own column of four binary digits: names one after one having one same digit
+digits = {int(n): b for n, b in re.findall(r"^\| (\d+) \| \*\*[\w-]+\*\* \| [^|]+\| (\d{4}) ", src, re.M)}
+print("a span of names, by the table's four binary digits of 1 to 16:")
+want = {0: [8, 8], 1: [4, 4, 4, 4], 2: [2] * 8, 3: [1] * 16}
+allok = all(n in digits for n in range(1, 17))
+for d in range(4):
+    runs, last = [], None
+    for n in range(1, 17):
+        v = digits[n][d]
+        if v == last:
+            runs[-1] += 1
+        else:
+            runs.append(1)
+        last = v
+    allok = allok and runs == want[d]
+    print("   digit", d + 1, ": spans", " ".join(str(r) for r in runs))
+print("   two spans of eight, 1 to 8 and 9 to 16; four of four, the four-cyclings; eight of two, the moments, an odd name and its even name; sixteen of one:", allok)

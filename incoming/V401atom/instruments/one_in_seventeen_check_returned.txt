@@ -1,0 +1,6 @@
+the code's functions: True · 1, 9 and 17
+1 the code's one line executing 1-now-existing is a line of 17-next-existing: True
+2 no line of the code executes 17-next-existing: True
+3 the code's one line executing 9-next-co-discovering is a line of 17-next-existing: True
+4 executed, 300 executings of one to four selves: each executing has one 1 by each self, and one 9 by each self: True
+5 each 1 has two given, a 3 and a 2, and no third: True

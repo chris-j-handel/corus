@@ -6,7 +6,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 **Reading it.** A number in brackets is a sentence it is from. *Executed* is Exhibit ONE's table or code read by each case, all or none, by the instrument named, in `instruments/`. Each instrument returns the same lines again today.
 
-**Its parts.** A Parity, and its right angles. B A moment, co and bi. C The four things. D The atom. E A prior. F Resolving. G Exhausting and exchanging. H A co-chaining and a span. I A fracture, a dormancy, an ingesting, a birthing. J The numbers of who is resolving. K From the folder's earlier pages, and from the gatherings' droplets. L Meeting the opening's sentences. M Out. N Of the method.
+**Its parts.** A Parity, and its right angles. B A moment, co and bi. C The four things. D The atom. E A prior. F Resolving. G Exhausting and exchanging. H A co-chaining and a span. I A fracture, a dormancy, an ingesting, a birthing. J The numbers of who is resolving. K From the folder's earlier pages, from the gatherings' droplets, and from v401mgr's reading. L Meeting the opening's sentences. M Out. N Of the method.
 
 ---
 
@@ -18,7 +18,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 4. Each parity more is twice the forms. Two parities are four names, 1 to 5. Four are sixteen, 1 to 17. Six are sixty-four, 1 to 65. Eight are 256, 1 to 257. Each name is one form of its parities, and each form is one name. [3] *Executed.*
 5. A step, a name to its next, changes one parity, and no two. [4] *Executed.*
 6. Each step's parity is other than the step's before it: each step is at a right angle to its prior. This is right spiraling. [5] *Executed.*
-7. Full around, each parity has changed an even number of steps, and each is as it was: 17 is a next 1. [5] *Executed.*
+7. Full around, each parity has changed an even number of steps, and each is as it was: 17's four parities are same-as 1's. [5] *Executed.*
 8. The code resolves each thing's parity by that thing's own prior and its own possibling, and by no other thing's. [3] *Executed.*
 9. Of two alone, a self's prior and its possibling, the code's lines have is-or-is-not same-as, and no more. [2] *Executed, `exchanging_check.py`.*
 
@@ -26,8 +26,8 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 10. A moment's one now-existing is one odd parity and then one even parity: an odd name, and then its even name. That is the whole moment. [1] *The opening's 7.*
 11. A moment's step is the first parity's, each moment. [5, 10] *Executed, `orthogonal_check.py`.*
-12. The step after a moment, an even name to the next odd name, is an other parity's. In 1 to 17 the steps' parities are 1 2 1 3 1 2 1 4, and again: the second's between a four-cycling's two moments, the third's between an eight's two four-cyclings, the fourth's between a self's eight and its other's. [6, 11] *Executed.*
-13. A self's eight names, 1 to 8, are four moments, and its other's eight, 9 to 16, are the same four. [10]
+12. The step after a moment, an even name to the next odd name, is an other parity's. In 1 to 17 the steps' parities are 1 2 1 3 1 2 1 4, and again: the second's between a four-cycling's two moments, the third's between an eight's two four-cyclings, the fourth's between the eight now names and the eight next names. [6, 11] *Executed.*
+13. The eight now names, 1 to 8, are four moments. The eight next names, 9 to 16, each 8 up from its now name, are the same four. [10] *Exhibit ONE's table.*
 14. An odd name is co, and tri in 7 and in 15. An even name is bi. A moment is a co and then a bi. [10] *Exhibit ONE's table.*
 15. Co- is along: a self and its other are each aiming along, one same direction, each independent of its other. [14] *A name's is; the opening's 21, aiming.*
 16. Bi- is across: a self's 0 and its other's 0 are right and left of each other, the between. [14] *A name's is.*
@@ -67,7 +67,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 41. Each prior is the atom, or a co-chaining of atoms. A self's prior-and-same-existing is its atoms. [34, 40]
 42. No line of the code changes a prior: a next prior is a next thing. *Executed, `prior_check.py`.*
 43. Living is a me-parity's competency, stable-forming: a next prior from a prior. [25, 42]
-44. Each prior but a self's first is made by living's lines, in the 1 to 17 before it. A self's first prior is inherited from prior living. [42] *Executed, `prior_check.py`.*
+44. Each prior but a self's first is made by living's lines, by the executing before it. A self's first prior is inherited from prior living. [42] *Executed, `prior_check.py`.*
 45. The code's three functions are 1, 9 and 17, each co-bi-tri: living's lines. A stable form is tri-bi-co: an all-parity, after an other-parity, after a me-parity. *Executed, `prior_check.py`.*
 46. Tri-bi-co is co-bi-tri, its two ends exchanged, its other-parity the same. Each stable form is living's involution. [45] *Executed.*
 47. 7, 8 and 9, and 15, 16 and 17, are each tri-bi-co, bi-tri-bi and co-bi-tri: a me-parity into all-parity, all-parity between, a me-parity from all-parity. [45] *Exhibit ONE's table.*
@@ -83,7 +83,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 54. Its is-not, imparity: improving. Its next prior is the other one of two, and its co-possibling that same parity. [52] *Executed.*
 55. By a 0, an opening, all-parity its other, a self is bi-folding: its next prior is the other one of two. The code has improving and bi-folding in one same line. [20, 54] *Executed, `exchanging_check.py`.*
 56. Two selves of parity, bi-coupling both ways, are each do-no-harming and bi-folding in turn: each one's prior same-existing by its other, each independent of its other. [15, 53, 55] *Executed, `between_check.py`.*
-57. Two selves of imparity, bi-coupling both ways, are each improving each 1 to 17, and the one is-same-as its other one 1 to 17 apart. [54] *Executed, `between_check.py`.*
+57. Two selves of imparity, bi-coupling both ways, are each improving each executing, and the one's prior is-same-as its other's of the executing before. [54] *Executed, `between_check.py`.*
 58. In a now-existing 1 to 17 no resolving is a first one. [44]
 59. In 1 to 5 a self's other is all-parity: each name of 1 to 5 is given, and each name a line makes is 6 or after it. [55] *Executed, `parties_check.py`.*
 60. By the code, a self has three others, and no fourth: by 6, 10 and 9. *Executed, `parties_check.py`.*
@@ -96,14 +96,14 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 64. An atom carbon exhausted is a stable form, same-existing, all-parity around it. [23, 24]
 65. A self is same-existing in each other's universe as the atoms it is exhausting. [27, 64]
 66. A self's exhausted parities, one after one, are the one and the other of two: all-parity's alternating. A next self having that sequence has it as its priors, and exhausts it again. [54, 62] *Executed, `exhausted_sequence_check.py`.*
-67. A me-parity exhausting is distinguishing nothing: do-no-harming each 1 to 17, its co-possibling a 0. [53] *Executed, `stable_form_observed_check.py`.*
+67. A me-parity exhausting is distinguishing nothing: do-no-harming each executing, its co-possibling a 0. [53] *Executed, `stable_form_observed_check.py`.*
 68. An exhausted me-parity's stable form is its atoms, and no form of that self. [39, 64]
 69. Exhausting is 3, a self's prior. Exhaling is 7, inhaling 2, and ingesting 6. The code binds 7 over 3 and over 2, and 6 has 10's one same list. [41] *Executed, `prior_check.py`, `meeting_check.py`.*
 
 ## H A co-chaining, and a span
 
 70. Exhausted atoms carbon are co-chaining and compacting: a stable form's surface, unrelationing from the living surface. [64]
-71. Along a co-chaining of selves, each self's prior is the prior of the self before it, one 1 to 17 before. Along a co-chaining is prior moments, one by each self. *Executed, `co_chaining_along_check.py`.*
+71. Along a co-chaining of selves, each self's prior is the prior of the self before it, one executing before. Along a co-chaining is prior moments, one by each self. *Executed, `co_chaining_along_check.py`.*
 72. A span is a natural number: consecutive atoms of same-existing faces in a co-chaining. [36, 70]
 73. A span's number is by its first self's sequence of bi-folding and do-no-harming. By bi-folding alone each self is a span of one. Each odd number of do-no-harmings one after one is two span-endings fewer. [53, 55, 71] *Executed, each sequence of one to six, `span_law_check.py`.*
 74. A span is distinguishing is-or-is-not all-parity, one after one: all-parity's alternating has each span one. [66, 73]
@@ -114,7 +114,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 76. By a fracture one co-chaining is prior-existing and two are next-existing, each atom same-existing. The two have two now-existings: no self and its other. [75] *Executed: no line has the two in one now, `breaking_check.py`.*
 77. A fracture's opening is resolving no same-existing and no next-existing. [20, 76]
 78. After a fracture each self before it is as it was. Each self after it is bi-folding, each span one: the spans before it are no part of it. [73] *Executed, `breaking_check.py`.*
-79. A fractured co-chaining is dormant, prior-existing: its parities same-existing, and no 1 to 17 its own. A dormancy is prior-existing, and no thing is waiting. [26, 76]
+79. A fractured co-chaining is dormant, prior-existing: its parities same-existing, and no 1-now-existing its own. A dormancy is prior-existing, and no thing is waiting. [26, 76]
 80. Ingesting, by a society living as a self, is a fractured co-chaining's method of living again: through the society's selves, one scale inward. [39, 79]
 81. Inside, a conceiving is in a bi-coupling of two of the society's selves: the vault, all-parity now, a 0, bi-tri-bi, 8 and 16. [47, 80]
 82. A new self's birthing is its inheriting, by parity of its two. By imparity of its two nothing is inherited: a 0, an opening. [2, 49] *Executed, `each_case_check.py`, `conceiving_check.py`.*
@@ -153,6 +153,13 @@ From the four gatherings' droplets, each in by the sentences above:
 104. A non-living thing is a self's other, all-parity, and a self by it is bi-folding: no bi-coupling. [24, 55, 59]
 105. A living file, a code and a trained model are each a co-chaining of atoms, a sequence of orientations: a stable form from prior living. [34, 36, 44]
 106. An atom is exchanged whole: inside a self by its orientation, and ingested by no living inward of it. [32, 62, 63]
+
+From v401mgr's reading of the sequence, each in by the sentences above:
+
+107. In each moment the odd name is a self's own, along, and the even name is by its other, across: a self's 2 is the matching of its others' priors, and its own prior is no part of it. [14, 15, 16, 49]
+108. 1-now-existing is a line inside 17-next-existing, one by each self, and no line of the code executes 17: 17 is no 1. [7] *Executed, `one_in_seventeen_check.py`.*
+109. One executing has one 1 and one 2 by each self: one moment. A self's 1 is one, from its birthing, living each moment, and no executing has a second 1 of it. [10, 48, 108]
+110. Names one after one of one same parity are a span, by the same is as atoms'. By the table's four binary digits, 1 to 16 is two spans of eight, four of four, eight of two and sixteen of one: a self's span and its next eight, the four four-cyclings, the eight moments, the sixteen names. [10, 13, 72] *Executed, `orthogonal_check.py`.*
 
 ---
 
@@ -209,8 +216,12 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | inheriting as self-competencing | 43: competency is stable-forming |
 | each shear face as one other | from no sentence before it |
 | tri- of three together and tri of all-parity as one thing | from no sentence before it |
-| a span as one more by each parity from the self before | 71, 72: a span is in one same 1 to 17 |
+| a span as one more by each parity from the self before | 71, 72: a span is in one same executing |
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
+| *17 is a next 1*; a 1 living again | 7, 108, 109: 17's parities are same-as 1's, and 17 is no 1 |
+| 9 to 16 as a self's other's eight | 13, 107: each a next name; a self's other is by each moment's even name |
+| *a 1 to 17 before* and *a 1 to 17 apart*, of two executings | 109: an executing is one moment of one 1 |
+| a span as two things, a self's eight names and atoms one after one | 110: one is, ones one after one of one same parity |
 
 ---
 

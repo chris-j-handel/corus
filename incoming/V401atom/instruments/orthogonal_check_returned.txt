@@ -37,3 +37,9 @@ each name's three, seventeen names:
    a three of two kinds, the names [2, 3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 16] : each is the same from each of its ends: True
    a three of three kinds, the names [1, 7, 9, 15, 17] : each is one-way, not the same from its other end: True
    co-bi-tri, [1, 9, 17] , is from its other end tri-bi-co, [7, 15]
+a span of names, by the table's four binary digits of 1 to 16:
+   digit 1 : spans 8 8
+   digit 2 : spans 4 4 4 4
+   digit 3 : spans 2 2 2 2 2 2 2 2
+   digit 4 : spans 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+   two spans of eight, 1 to 8 and 9 to 16; four of four, the four-cyclings; eight of two, the moments, an odd name and its even name; sixteen of one: True

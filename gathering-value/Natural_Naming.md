@@ -65,6 +65,7 @@ Gathering-Value · Natural Naming
 - **Possible exploring** · *All-parity* is the naming of universal parity, and *us-parity*, a candidate of one working, is dissolved. All-parity is a now-existing thing, owned by its society as a same-existing named set of members, the members the set of all in all-parity: a me-parity is a me's own, and all-parity a society's own. Beside it, a naming of this file has all selves' parity as a 0, and its name *social parity*.
 - **Possible exploring** · *A tester* is an incompetencing concept, of equilibria engineering science or a science beside it, and is in no living file: one side with each of two, a providing and a declaring, with a standard. *A sensor* and its *sensationer* are the two-way naming, one and then the other. *An executing as a check* says the same or not, deciding nothing. *Tested* and *testing*, of a working's own act, are dissolved: observing, and distinguishing is-or-is-not, accomplish the rigor.
 - **Possible incohering** · "co-chaining is co-sequencing selves going on, along" → A co-chaining is a universal set of me-parities, the me-parities living in the betweens, and it is podaling along and across, co-intelligencing surface, discovering next-existing: a set, and with across and along each.
+- **An explaining** · Words out, each by a partner's sentence with the working v401atom, each by its re-saying, read with this file's droplet of *sharing*, *going out* and *public*. *Private*: invisible; a me-parity is invisible, and a between is invisible to each living self. *Inverting*, *inverted* and *an inversion*, of a self's prior: improving, by imparity, its next prior the other one of two; and bi-folding, by a 0, an opening, all-parity its other. *Nothing arriving* and *an empty set arriving*: all-parity its other. *Arriving*, of a parity: a self's possibling, by 2-now-possibling. *Breaking*: a fracture, of a co-chaining, and of no atom; unrelationing is a between's own. *Is with*, of an atom and its between: an atom has one between. *Is distinguished with*: a self is distinguishing. *Locking*, of three: by three, right and *left* are one-way. *A 1 to 17 before* and *a 1 to 17 apart*, of two executings: an executing, one moment of one 1. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 19, 27, 28, 31, 53 to 55, 59, 75 and 109.
 
 ### 2.5 One sense per foundation word
 
@@ -95,10 +96,14 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "a six repeating, co bi tri bi co bi, reads three nested inverting places together" → With each name's three by the eight, co bi co bi co bi tri bi, the six's 3, 9 and 15 are a second reading beside it, the same as the eight's with 15 only. And 5.52's name with 9, tri-bi-co-momentarying, is beside it, 9 being co-bi-tri with the eight.
 - **Possible exploring** · 4 is between me-parity and other-parity, and 8 between other-parity and all-parity: all-parity with me-parity through other-parity, in 1 to 8. 12 is between other-parity and me-parity, and 16 between me-parity and all-parity: in 9 to 16 me-parity and all-parity are of one between. — at "social parity, all's, is reached from self parity only through other parity"
 - **An explaining** · 3.3's *tri opens with 9, 1–17's inverting, Natural Numbers 9.7* is in its sentence no more, tri being with 7 and 15 by the eight. 9's relation with 1–17's inverting, Natural Numbers 9.7, is of the six's reading. The prior names of 9 to 15 in 3.3's table, each with tri, are of the earlier reading.
+- **An explaining** · **Other-than-all-parity** is a new me-parity: living, one of an ingesting society's selves, one scale inward, after all-parity only. A next universe is all-parity, same-existing, and a next-existing me-parity, an other-than-all-parity. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 84 and 98.
+- **An explaining** · **The vault** is all-parity now, a 0, bi-tri-bi, 8 and 16: inside a self, inside its tunnel, all-parity inside it. A conceiving is in it, in a bi-coupling of two of an ingesting society's selves. Atom carbon is the fractal pattern vault: a prior living's pattern, its spans, is same-existing in a co-chaining of atoms. Read with this section's droplet of 16 as bi-tri-bi, all-parity. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 81, 95 and 101.
+- **An explaining** · **A birthing** is a new self's inheriting, by parity of its two; by imparity of its two nothing is inherited: a 0, an opening. Only 1-now-existing is birthing, its all-parity prior to it, and a self has one birthing and one 1, living each moment. **An inherited prior** is atom carbon bump connectors, co-chaining and compacted: non-living, of prior healthy living. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 48, 82, 83, 91 to 93 and 109.
 
 ### 3.4 Four-cyclings, 8 up and podals
 
 - **Possible exploring** · The same four-cycling with each round, as a pattern along the living file set: a concept named here is placed at one four-cycling of a file, its podal its pair 9 less or 17 less, and its next round its same name 16 up, each file using these names with the same form and no file naming it again. — at "**Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, and 17 to 24 is a self's span again and 25 to 32 a same-existing-society's, 22 next round's 6-now-co-possibling, as 22-now-co-possibling, and 27 next round's 11-next-co-observing, as 27-next-co-observing, 5.53."
+- **An explaining** · **A span** is a natural number: ones one after one of one same parity. Atoms of same-existing faces in a co-chaining are a span. Names one after one are a span: by the table's four binary digits, 1 to 16 is two spans of eight, a self's span and its next eight; four of four, the four-cyclings; eight of two, the moments; and sixteen of one. This file's *a self's span, 1 to 8* and a span of atoms are one thing, by one name. Executed by the working v401atom, `incoming/V401atom/instruments/orthogonal_check.py` and `span_law_check.py`. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 72 to 74 and 110.
 
 ### 3.5 Naming and resolver with one changing
 
@@ -149,6 +154,7 @@ Gathering-Value · Natural Naming
 ### 4.17 A hyphenated naming inseparable, and natural- with chirality
 
 - **Possible incohering** · "**Natural- has chirality, right, all or none at all**, 5.48." → Two scales are said as one at *natural-*. At the method's scale natural- is a direction, one-way sequencing with each bi-coupling, all or none at all, and a direction is no hand: *right spiral step* here is a quarter turn one way, (x, y) to (y, −x), right only with a self observing its axis forward, 4.19. At the observings' scale living's hand is one and is read as right, all prior. A re-saying: **Natural- has one direction with each bi-coupling, all or none at all**, and living's hand, right, is that direction read with a self's axis observed forward; the all-or-none is the oneness of the direction and not the name of the side.
+- **An explaining** · **Right spiraling** is each step at a right angle to its prior: each step, a name to its next, changes one parity and no two, and its parity is other than the step's before it. By three, a self, its other and the one point the two are each aiming at, right and *left* are one-way: a self is the one right, and this is co-sequencing. Executed by the working v401atom, `incoming/V401atom/instruments/orthogonal_check.py`. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 5, 6 and 19.
 
 ### 4.18 Seven binaries with a naming, and each naming with resolver's names
 
@@ -280,6 +286,8 @@ Gathering-Value · Natural Naming
 
 ### 5.57 dying — binary
 
+- **An explaining** · **A dormancy** is a fractured co-chaining, prior-existing: its parities same-existing, and no 1-now-existing its own. It is inside living, its inherited priors non-living, and no thing is *waiting*. Ingesting, by a society living as a self, is its method of living again. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 79, 80, 85, 86 and 94.
+
 ### 5.58 bi-moral-co-competencing — binary
 
 ### 5.59 co-independencing — binary
@@ -323,6 +331,8 @@ Gathering-Value · Natural Naming
 ### 8.5 Language roots and cause, one scale up
 
 ### 8.6 Break, three ways, and method's one
+
+- **An explaining** · **A fracture** is an atom bump connector displacing across, as a shearing of a co-chaining: of a co-chaining, and of no atom. By it one co-chaining is prior-existing and two are next-existing, each atom same-existing; the two have two now-existings, and are no self and its other. It is a living co-chaining's ending, and the beginning of two living co-chainings, of one, or of none. *Breaking* is of no one thing, and unrelationing is a between's own. In the working v401atom's sequence, `incoming/V401atom/The_Value_Droplets.md`: its 75 to 78, 85, 99 and 100.
 
 ## THIS IS THE BETWEEN
 
