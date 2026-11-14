@@ -207,3 +207,7 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 Each of the two is a self by its own moment, odd, even and its next odd; its other's 1 is at its 2. The one's even name is its other's own odd name. Exhibit THREE has it, a self's names and its other's as 1–2 and 2–3. The concern of each of two as the one right by its own naming is resolved: the two are one name apart, the one before its other.
 
+## 17 The nine sentences having a check and no base: each re-based
+
+Its 3, 42, 45, 49, 50, 60, 61, 71 and 90. Each has its base now: a living file's own sentence, the code's lines read, or its sentences before it; its instrument is a check with it. No word of a sentence is changed but its base.
+
