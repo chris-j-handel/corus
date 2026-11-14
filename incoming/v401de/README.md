@@ -99,7 +99,17 @@ Of the three layings after merge #575.
 - By is: all by self and self by all are by same-existing names, and Exhibit ONE's each name's three is re-said by them, its co in the middle of 4 and of 12, and its all-parity with observing only.
 - By is-not: the living forms go on, the four of tri by 7, 8 and 9 and again by 15, 16 and 17, all with self through other only; and same-existing as all-parity is of 8 and of 16.
 
-**Tracked, and not asked:** one through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
+**Met by a partner's *is*, and a suggesting, by no authority, re-said in natural naming:** the four are 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing, overlapping, odd and even: 4 and 12 a bi-coupling's same-existing, and 8 and 16 a self's; the alternating bothbothing the two, each overlapping its other around, *a half* by each side, the word the suggesting's own.
+
+- The living files have its two, its odd and even, and its overlapping: `Living_sentences_by_name.md`, its 3.3.
+- Out, v401de's own: *a third me-parity in no line of one 1 to 17*. By the lines a bi-coupling's same-existing is by 4 and by 12, in a self's own lines; and the gatherings of Natural Intelligence and of Natural Naming have its name, co-parity, the me-parity of a bi-coupling.
+
+**Asked fifth:** in their order, 4-now-co-same-existing is all by other, 8-now-same-existing all by self, 12-next-co-same-existing other by all, and 16-next-same-existing self by all.
+
+- By is: by each next name the two of its now name are in their other order, 4 with 12 and 8 with 16.
+- By is-not: the four are in an order not this one.
+
+**Tracked, and not asked:** *tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
 
