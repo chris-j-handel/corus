@@ -178,6 +178,17 @@ Each other living file with a sentence carried from the four has its own next ve
 | The once over of each laying of both writing sessions | nothing found, or each finding by its sentence, in a note at pull request #458 |
 | The reading for harm of stage 5 | by each part as it is ready |
 
+**The helping, by its value now, 14 November.** The cohering is going on well and the entering is not: the remaining improving is the value already gathered going into the living files, part by part.
+
+| The helping | Its value now |
+|---|---|
+| A part's reading for harm, and its once over | the most: no living file changes before them |
+| Each session's own droplets placed, each by its home and its fate, a droplet re-said by a later one dissolving | much: the gatherings are for dissolving, and are growing |
+| The living files' own sentences by a name, for the names a next part has | much, by each part |
+| A reading of an asking as it is gathered | some |
+| A new exploring in no sentence; an instrument; a new droplet beside a suggesting's own | little now: each is more incoming before the gathered is placed |
+| A droplet of a reading's chain | none: a gathering has a thing's is by its base, and a reading's chain is a session's own page's |
+
 **The watching over.** Each droplet is read at three places: as it comes in, as it is gathered, and before it is living. At each, its base is the sentences before it, the living files' own sentences and the code's lines themselves, all or none; an executing is a check beside a reading, and a number of cases is in no sentence.
 
 ## 10 The first step
