@@ -205,6 +205,8 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 150. A bump is the place of two atoms touching: the one point of the two, and the circle around it, each one's cone crossing its other's in it. A bump connector is an atom by its bumps. [113, 114, 116]
 151. A bump is of two atoms, and no atom's own. An atom has a bump by each same atom touching it, and its bumps are by no number of its own: around one, twelve are the most, and on a surface six. [31, 115, 121, 150]
 152. A fracture dissolves a me-parity: its 0, having a fold's line through it, an orientation, is a nothing in all-parity's surface. It is one of two: a me-parity exhausting, resolved out into all-parity's surface; or a cut across, severing a co-chaining. [67, 75, 77, 126, 145]
+153. A dormancy has its bi-folding same-existing in its stable form: each fold's form is in the co-chaining of its atoms touching, through the dormancy. [79, 101, 117]
+154. Living begins again from a dormancy by all-parity's alternating, the living conditions around it, resonating with the prior-and-same-existing forms of healthy living inside the dormant co-chaining. No more is needed. [66, 94, 153]
 
 ---
 
@@ -268,6 +270,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
 | 8 apart as straight across; now and next as the two sides across; to and from in turn around | 133, 134: now and next are two alongs, and the two sides a self's and its other's |
 | ingesting and inheriting as one thing, parted by a self having a prior or none only | 142: a stable form as all-parity, and as a me-parity |
+| a dormancy as having a fold's line through none of its 0s | 153: its bi-folding is same-existing in its stable form |
 | a non-living thing as momentarying | 141: momentarying is a living self's, and an atom its stable form |
 | a society as a stable form; a society's one me-parity, a thing beside its selves' | 132: its selves, each stable-forming, in one all-parity |
 | an atom's one between, its own | 31, 113: a between is of two atoms touching |
