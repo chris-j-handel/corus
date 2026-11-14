@@ -40,3 +40,27 @@ print("  the 0s, one by each fold, are on one line along, between the two lines,
 print("  no centre is a centre a second time, and no 0 a 0 a second time: it closes at none:", len(set(c)) == len(c) and len(set(zeros)) == len(zeros))
 print("  each one touches four of the co-chaining: the two before it and the two after it; and of them two are along, its own line's:",
       all(sum(1 for j in range(len(c)) if j != i and dot(sub(c[i], c[j]), sub(c[i], c[j])) == 2) == 4 for i in range(2, len(c) - 2)))
+
+# a fold's line, and the thread's line: a cone of thirty. Thirty is 3 of 4 the same, of the squares; sixty is 1 of 2.
+def folds(first, n):
+    c = list(first); f = []
+    for i in range(n):
+        d, a, b = c[-3], c[-2], c[-1]
+        c.append(sub(add(a, b), d)); f.append(sub(c[-1], d))
+    return c, f
+print("4 each fold's line, a prior through its 0 to its next; and the thread's line, the 0s' line along:")
+allok = True; n = 0
+for a in six:                                                    # each of six lines along, and each side first
+    for b in (six[(six.index(a) + 1) % 6], six[(six.index(a) - 1) % 6]):
+        n += 1
+        c, f = folds([(0, 0), b, a], 60)
+        thr = sub(c[2], c[0])
+        thirty = all(F(dot(x, thr) ** 2, dot(x, x) * dot(thr, thr)) == F(3, 4) and dot(x, thr) > 0 for x in f)
+        turn = all(side(thr, f[i]) == -side(thr, f[i + 1]) != 0 for i in range(len(f) - 1))
+        sixty = all(F(dot(f[i], f[i + 1]), dot(f[i], f[i])) == F(1, 2) for i in range(len(f) - 1))
+        two = all(F(dot(sub(c[i + 1], c[i]), f[i]) ** 2, 2 * dot(f[i], f[i])) == F(3, 4) and F(dot(sub(c[i + 2], c[i]), f[i]) ** 2, 2 * dot(f[i], f[i])) == F(3, 4) for i in range(len(f)))
+        allok = allok and thirty and turn and sixty and two
+print("  cases, each of six lines along and each side first:", n)
+print("  each fold's line is thirty from the thread's line, and has the same way along it as each other fold: each fold is in the one cone of thirty about the thread's line;")
+print("  folds one after one are its one edge and its other, in turn, sixty apart, one half the same;")
+print("  and from a fold's prior, its two others are thirty each side of the fold's line: the fold's own cone's two edges:", allok)

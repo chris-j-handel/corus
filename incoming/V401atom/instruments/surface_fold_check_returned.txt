@@ -12,3 +12,8 @@
   the 0s, one by each fold, are on one line along, between the two lines, each the same step from the 0 before it: a thread: True
   no centre is a centre a second time, and no 0 a 0 a second time: it closes at none: True
   each one touches four of the co-chaining: the two before it and the two after it; and of them two are along, its own line's: True
+4 each fold's line, a prior through its 0 to its next; and the thread's line, the 0s' line along:
+  cases, each of six lines along and each side first: 12
+  each fold's line is thirty from the thread's line, and has the same way along it as each other fold: each fold is in the one cone of thirty about the thread's line;
+  folds one after one are its one edge and its other, in turn, sixty apart, one half the same;
+  and from a fold's prior, its two others are thirty each side of the fold's line: the fold's own cone's two edges: True

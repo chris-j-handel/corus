@@ -740,6 +740,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: on a surface, six around one, and a fold's 0s a thread along.** The sequence's 121 to 123, `instruments/surface_fold_check.py`, by whole numbers: six around one, two along and two each side across; folds going across in turn, right from left and left from right; the 0s on one line along, each the same step, closing at none. One droplet at the registry's *31*.
 
+**Going on, 14 November: a me-parity a fold's line, and all-parity the line each fold is in the cone of.** The sequence's 124 to 126, `instruments/surface_fold_check.py`, its part 4, twelve cases: each fold's line thirty from the thread's line, the same way along it; folds one after one the one edge and the other of one cone, sixty apart; from a fold's prior its two others thirty each side. One droplet at the registry's *31*.
+
 ---
 
 ## 6 Executed, each case, all or none

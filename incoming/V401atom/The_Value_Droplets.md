@@ -176,6 +176,9 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 121. On a surface, six same atoms are around one, each touching it, each sixty from its next around. By a line along through the one, two of the six are on it, each straight across its other: co, along. Two are on its one side and two on its other: bi, across, the side before and the side after. [15, 16, 115] *Executed, by whole numbers, `surface_fold_check.py`.*
 122. A fold on a surface is the oldest of three through the middle of its two others: a 0. Folds one after one go across in turn, right from left and then left from right, and each second atom is one same step along: two lines along, each straight. [117, 118] *Executed, by whole numbers.*
 123. The 0s, one by each fold, are on one line along, between the two lines, each the same step from the 0 before it: a thread, straight, closing at none. A 0 is the end of one fold's moment and the start of the next's, along. [10, 122] *Executed, by whole numbers.*
+124. A fold's line is from its prior, through its 0, to its next. From the prior, its two others are thirty each side of that line: the fold's own cone's two edges. [113, 122] *Executed, by whole numbers, `surface_fold_check.py`.*
+125. Each fold's line is thirty from the thread's line, the 0s' line along, and each fold has the same way along it. Folds one after one are the one edge and the other of one cone of thirty about the thread's line, in turn, sixty apart: one half the same. [123, 124] *Executed, by whole numbers, each of six lines along.*
+126. A me-parity is a fold's line, by its 0, a now moment, aiming by its cone. All-parity is the line each fold is in the cone of: each me-parity in it has that same way along, and by that line an other of the six, each me-parity is thirty from it the same. A self's fold, its other's fold in turn, and the line the two are in are three: co, bi and tri. [14, 24, 116, 125]
 
 ---
 
@@ -236,6 +239,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
 | *parity* as is-same-as, and *imparity* | 1, 2: a parity is a direction; of two, same-as and not same-as. The living files have a parity as a direction |
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
+| all-parity as a self's four across | 126: the line each fold is in the cone of, along |
 | the two directions through a 0 as one fold's two ways only, or as the two hands only | 122: folds one after one go across in turn, right from left and left from right |
 | *17 is a next 1*; a 1 living again | 7, 108, 109: 17's parities are same-as 1's, and 17 is no 1 |
 | 9 to 16 as a self's other's eight | 13, 107: each a next name; a self's other is by each moment's even name |
