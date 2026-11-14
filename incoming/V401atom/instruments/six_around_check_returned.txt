@@ -3,15 +3,6 @@
   the six names between selves: [2, 6, 9, 10, 14, 17] · Exhibit ONE's own six: True
 2 its pairs 8 apart: [(2, 10), (6, 14), (9, 17)] · three, each of the six in one: True
   each pair has one name to an other and one name from an other: True
-  9 and 17 are odd, along; 2 and 6 are now names and 10 and 14 next names, across: True
-3 six around one, each straight across its pair 8 apart; 9 and 17 the line along; the now names its one side and the next names its other:
-  arrangements: 8
-    9> 2< 6> 17< 10> 14< · to and from in turn around: True
-    9> 6> 2< 17< 14< 10> · to and from in turn around: False
-    9> 10> 14< 17< 2< 6> · to and from in turn around: False
-    9> 14< 10> 17< 6> 2< · to and from in turn around: True
-    17< 2< 6> 9> 10> 14< · to and from in turn around: False
-    17< 6> 2< 9> 14< 10> · to and from in turn around: True
-    17< 10> 14< 9> 2< 6> · to and from in turn around: True
-    17< 14< 10> 9> 6> 2< · to and from in turn around: False
-  of the eight, four have a name to an other and a name from an other in turn around, each one between two of the other kind; and four have three and three: True
+  a name and its name 8 apart are a now name and its next name: True
+3 Exhibit ONE's own pairs, a self's name to its other's name: 6 to 2, 10 to 14, 9 to 17 · in its lines: True
+  each is one name to an other and one name from an other; 6 to 2 by two now names, 10 to 14 by two next names, 9 to 17 along: True

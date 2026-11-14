@@ -1,0 +1,11 @@
+1 four and six are either side of five: 4 x 6 = 5 x 5 - 1: True · 4 + 6 = 10 = 2 x 5 = the couplings among five: True
+  Exhibit THREE's own: an adding closes after one, two, three, four and six, and none closes after five: True
+2 a right spiral step: four steps, as it was, same-as; six steps, both its parities their other, other-than; ten steps, other-than; twelve, same-as: True
+3 a four-cycling's fourths, 4, 8, 12 and 16, and a six-cycling's sixths, 6 and 12: the two are one name at 12, and next at 24, 36, 48 and 60: True
+4 the prime gaps by the steps of the names, 1 to 2 and on: 1 2 2 4 2 4 2 4 6 2 6 4 2 4 6 6
+  by the eight now names, steps 1 to 8: one, and twos and fours in turn, and no six: True
+  each gap of six is by the next names, the first by the step from 9 to 10: True
+  the names having a gap of four at its one side and a gap of six at its other: [9, 12, 15]
+  primes 2 to 23, by the now names, are 21 apart; primes 23 to 59, by the next names, 36, six sixes: True
+5 podaling about thirty: six prime pairs, each two sixty together: [(7, 53), (13, 47), (17, 43), (19, 41), (23, 37), (29, 31)] True
+  three names to an other, 6, 9 and 10, and three from an other, 2, 14 and 17: their primes [13, 23, 29] and [3, 43, 59] · 65 and 105
