@@ -798,6 +798,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a corner, the corus of resolving.** The sequence's 158 and 159, at the registry's *9*: a line the edge of two planes, a point the corner of three edges; three ways in by its edges and three out by its planes; same-as and other-than a right spiral's turning, in and then out.
 
+**Going on, 14 November: a bi-coupling's six forward.** The sequence's 160, at the registry's *9*: three own-forward ways by each of its two sides, a self's three its names to its other, 6 and 10 across and 9 along; by each scale the same. v401atom's candidate, the six as one self's own, is out.
+
 ---
 
 ## 6 Executed, each case, all or none
