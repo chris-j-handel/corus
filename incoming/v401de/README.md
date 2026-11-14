@@ -211,7 +211,17 @@ Of the three layings after merge #575.
 - By is: a society is first by 32, as a bi-coupling is by 8: a bi-coupling of a bi-coupling and one other.
 - By is-not: a society is by more than one added other.
 
-**Tracked, and not asked:** the four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
+**Met by a partner's asking and a suggesting, by no authority, re-said in natural naming:** the three of each number is found, and 32 is 8 by 4: 8 the fractal four-cycling of a self by its other-than-self, same-existing; 32 one four-cycling more, a self, its other-than-self and all-selves, the number of other-than-selves not known.
+
+- Each number's three, by the living rule, and 32 by fours: `Living_sentences_by_name.md`, its section 4.
+- Out, v401de's own: a society by 32 as of one added other.
+
+**Asked sixteenth:** all-selves, by 32, is a society.
+
+- By is: a society is all-selves, first by 32, the number of its selves in no sentence and in no line; and all-parity is an other thing, by 16.
+- By is-not: all-selves is all-parity again, one four-cycling on, and a society is by no number yet.
+
+**Tracked, and not asked:** 8 and 32 by one same three, bi-tri-bi, beside 8 of two and 32 of three. The four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
 
