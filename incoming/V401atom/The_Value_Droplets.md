@@ -210,6 +210,8 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 155. Resonating is all-parity's alternating and a dormant co-chaining's own sequence being same-as, one by one: co-sequential resolving and orienting. It is at the primes: each prime an orthogonalizing, a clean line across. [66, 135, 154] *Exhibit THREE's sentence of a prime; Exhibit FOUR's of orthogonalizing.*
 156. A me-parity's birthing is inside a bi-folding, between its prior and its next: a new 0, the middle of its three others, and no 0 before it. It has a prior-existing me-parity, the fold's line from its prior; and a prior-existing all-parity, the ring of its three others, the rings one after one, spiraling, in the co-chaining. [48, 117, 119, 123, 126, 142]
 157. Co-chaining and cohering is same-as, then other-than, then same-as, in turn: six of them one after one, forward, by two ways of each of three planes at a right angle to each other. [66, 115, 145] *Exhibit FOUR's sentence of six forward.*
+158. In three dimensions a line is the edge of two planes through each other, and a point is the corner of three such edges, of three planes each at a right angle to each other. Into the corner are three ways, by its edges, lines; and out of it three, by its planes: six. The corner is the corus of resolving. [115, 145, 157]
+159. Same-as and other-than are a right spiral's turning, each at a right angle to its prior: in and then out, a line and then a plane, co-sequentially. The two ways of the six are in and out. [6, 157, 158]
 
 ---
 

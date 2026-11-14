@@ -29,6 +29,8 @@ Incoming · v401atom · the atom's form, as the sequence has it · 14 November 2
 - On a surface, six are around one: two along, and two each side across. 121.
 - An along is a line, and an across a plane at a right angle to it. The plane has two dimensions: other-parity's orienting, and all-parity's. 145, 146.
 
+- A line is the edge of two planes through each other, and a point the corner of three such edges: three ways in, by its edges, and three out, by its planes; the corner the corus of resolving. 158.
+
 ## 4 Its doing: a fold
 
 - A fold is the oldest of four through the middle of its three others, a 0, to the same far on the other side. 117.
