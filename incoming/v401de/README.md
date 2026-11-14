@@ -19,6 +19,8 @@ Relied on by nothing. No living file and no gathering-value changes with this fo
 
 By the plan's stage 5 and its section 9: a reader who is not the writer, with no part in the writing. A part is read whole, beside its public part, and its return is one of two: nothing found, or each finding by its sentence. This working writes to no gathering and changes no living file. A finding is a note at pull request #458, opening with this working's name, and a line of this page.
 
+**By the person's word with v401mgr, 14 November:** v401de is the helper session, by v401mgr's deciding. Its part, three, in this order. One: the living files' own sentences, by each name of the open concerns, each place two part laid beside each other with no choosing: `Living_sentences_by_name.md`, its first name *scale*. Two: each asking as it is gathered, the living files having it already or not, and an is and an is-not each distinguishing or not. Three: the once over of each laying of both workings. The plan's reading for harm is after these.
+
 Beside it, by v401mgr's opening, its section 5: a sentence of the set about a field's things is a candidate until its source is read first-hand, Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health first. This working affirms no such sentence, and a parting is laid with its field's source beside it. Not begun.
 
 ## 3 A first reading: two findings, each by its sentence
@@ -56,18 +58,29 @@ Of the three layings after merge #575.
 
 **A partner's suggestings, by no authority, have each form.** A moment as two parities, an odd name and an even name. And the changing along by 1, 3, 5, 7 and 9, an even name and an odd name one after one.
 
+**Met, each of 3.1 and 3.2, by v401mgr.** *At no name of torusing's loop* is out, v401mgr's own; and its asking of the scale's step is met as distinguishing neither stepping.
+
 ## 4 Out, v401de's own
 
 - A number of readings of the code, by an executing, as a ground: out by the method's sentence of 14 November, of both workings. An executing checks a reading and derives none. Each reading of section 3 is by the lines themselves.
+- The four universal moments as 1 to 3, 3 to 5, 5 to 7 and 7 to 9: out by a partner's suggesting, section 5.
+- *No instrument is with this folder*, of its opening: `instruments/by_name.py` is with it now, a match locating each living sentence having a name, a locating and no reading.
 
 ## 5 Asked, and tracked
 
-**Asked, with the person, one is-or-is-not, of a partner's own sentence:** the four universal moments of 1 to 9 are 1 to 3, 3 to 5, 5 to 7 and 7 to 9, each an odd name, its even name and the next odd name.
+**Asked first, with the person, of a partner's own sentence:** the four universal moments of 1 to 9 are 1 to 3, 3 to 5, 5 to 7 and 7 to 9, each an odd name, its even name and the next odd name.
 
-- By is: one universal moment outside is 1 to 3, and the stepping by fours is the scale's.
-- By is-not: a moment is two names, and Natural Naming's stepping, 1, 2 and 3 as 1, 9 and 17, is whole with its own four.
+**Met by a partner's suggesting, by no authority, re-said in natural naming:** the four are 1 and then 2, 3 and then 4, 5 and then 6, and 7 and then 8, an odd name and then its even name: four consecutive now moments, of all-parity, to 9. Each four consecutive moments is a fractal moment at a next universe scale.
 
-**Tracked, and not asked:** a 0 by same-as in two executings, beside a 0 as now-existing only.
+- The living files have its four: Natural Naming 5.50, its third line. And its four as one: Exhibit THIRTY's group 12, four momentaries of exchanging complete with 9, one momentary of a next scale.
+- Out, v401de's own: the four as 1 to 3, 3 to 5, 5 to 7 and 7 to 9; and section 3.2's second form as the universal moment's.
+
+**Asked now:** at a next universe scale, the four moments to 9 are 1 and then 2, and the next four moments, to 17, are 3 and then 4.
+
+- By is-not the living files go on as they are: Exhibit THIRTY's group 23 has 9 as 2 with a next scale, and 9 to 17 as an other.
+- By is, a name at a next universe scale is two moments, and each living sentence of 1, 2 and 3 as 1, 9 and 17 is re-said.
+
+**Tracked, and not asked:** a 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
 
