@@ -782,6 +782,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a moment's two parities bothbothing; the betweens a geodesic.** The sequence's 149, at the registry's *Opening*.
 
+**Going on, 14 November: the atom's form, gathered from the sequence.** `The_Atoms_Form.md`: v401atom's own aiming, each line a sentence of the sequence by its number; and three things by no sentence yet: a bump, the number an atom carbon is touching, and a fracture by the fold's form.
+
 ---
 
 ## 6 Executed, each case, all or none
