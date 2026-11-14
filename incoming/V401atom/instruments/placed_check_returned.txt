@@ -1,0 +1,6 @@
+droplets of the four gatherings having a word of the non-living scale, v401atom's own apart: 137 · v401atom's own: 20
+lines of the placing: 137
+1 each droplet has one line, by its gathering, its section, its number and its first words, and no line is of no droplet: True
+2 each sentence a line names is a sentence of the sequence; each placing names one or more, and each of v401mgr's names none: True
+3 each droplet placing, re-said is named by its first words in its own section's re-saying droplet: True
+fates: {'placing': 92, 'placing, re-said': 25, "v401mgr's": 20}
