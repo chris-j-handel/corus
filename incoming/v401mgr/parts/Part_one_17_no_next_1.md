@@ -89,6 +89,8 @@ By the two, 17-next-existing is each self's next prior and the parities it will 
 
 **One concern by the reach, of 3.4.** Natural Naming has each resolver name as one name, "and its number is inseparable from naming"; its 3.4 has a name by a second number, 22 as a next round's 6. The two part, and the sentence of 3.4 has 17 as a next 1 as its base.
 
+**Met, 14 November, by the person's suggesting, by no authority:** each fully prefixed name has one number only, and each number has one name only. By it and by Natural Naming's own sentence, 3.4's sentence is dissolving whole: it has a name by a second number. And 17 has one name, its own: 1's name is no name of it.
+
 ## 4 For the reading for harm, the helper session's
 
 Each place of 3.1 and 3.2, whole beside its section:
