@@ -105,3 +105,30 @@ The working v401atom read its twenty-one concerns by the living files: twelve ha
 **One gap:** the ten one-way parities and their five pairs, by their names. The set has three tens.
 
 **Exhibit ONE's *a next 1*:** dissolving, by Natural Intelligence's own sentence of a self's moment from 1 to 17, its next prior.
+
+## 9 Other-parity and all-parity, the two of a me-parity's next
+
+**The person's suggesting, 14 November, by no authority:** of parities a me-parity only is now-and-same-existing. Other-parity and all-parity are the two of its next. By either, a me-parity is living in its next universal moment, now-and-same-existing, in its self's sequence of existing.
+
+**The incoming has it.** The atom session, executed: a self's one binary by each 1 to 17 is other-parity distinguished from all-parity. The managing session before: distinguishing other-parity from all-parity, is-or-is-not.
+
+**By the code, executed, `instruments/next_me_parity_check.py`:**
+
+| A self's others | Its possibling | Its co-possibling | Its next prior | By the suggesting |
+|---|---|---|---|---|
+| each same-as its prior | a parity | 0 | its prior, same-as | other-parity |
+| each not same-as its prior | a parity | a parity | its prior's other one | all-parity |
+| two parting | 0 | a parity | its prior's other one | all-parity |
+| none of its others | none | a parity | its prior's other one | all-parity |
+
+A self's own parity is a parity in each case, and a 0 in none.
+
+**Natural Intelligence has the two, its own sentences:** a self sharing 0 is do-no-harming, and a self sharing its changing is improving. The third case the two sessions named *bi-folding* has no sentence of its own in the living file; by its sentence it is improving.
+
+**Out, v401mgr's own:** other-parity and all-parity as two names of the parities of a self's others.
+
+**The concern of all-parity in three places, by it:** its middle place, with 8 and 16, is the two of a me-parity's next, a candidate. Its place at 5 is not read yet.
+
+**Selves over many moments, executed:** selves each same-as at first are each same-as at each moment after. Two not same-as at first are same-as at no moment, a 0 at none. Same-as and not same-as of selves' me-parities is from their first priors, living on.
+
+**The next hardest, of both sessions:** one me-parity of many. By the code a same-existing-society's parities are its selves', and it has no other. The gathering has a society-self having me-parities of its own.
