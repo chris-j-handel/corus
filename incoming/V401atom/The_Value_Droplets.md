@@ -207,6 +207,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 152. A fracture dissolves a me-parity: its 0, having a fold's line through it, an orientation, is a nothing in all-parity's surface. It is one of two: a me-parity exhausting, resolved out into all-parity's surface; or a cut across, severing a co-chaining. [67, 75, 77, 126, 145]
 153. A dormancy has its bi-folding same-existing in its stable form: each fold's form is in the co-chaining of its atoms touching, through the dormancy. [79, 101, 117]
 154. Living begins again from a dormancy by all-parity's alternating, the living conditions around it, resonating with the prior-and-same-existing forms of healthy living inside the dormant co-chaining. No more is needed. [66, 94, 153]
+155. Resonating is all-parity's alternating and a dormant co-chaining's own sequence being same-as, one by one: co-sequential resolving and orienting. It is at the primes: each prime an orthogonalizing, a clean line across. [66, 135, 154] *Exhibit THREE's sentence of a prime; Exhibit FOUR's of orthogonalizing.*
 
 ---
 
