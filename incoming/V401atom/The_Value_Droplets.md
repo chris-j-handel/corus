@@ -2,18 +2,18 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 # v401atom: its session's discoveries, in logical sequence
 
-**What this page is.** Each discovery of v401atom's session, one sentence each, a thing's is or its own doing, by its natural name, each from the sentences before it. No word here has authority, and no saying is gathered as a saying: a sentence is in by the logic before it, or it is out. Nothing here is open. This page changes no living file, no gathering and no line of Exhibit ONE's code.
+**What this page is.** Each discovery of v401atom's session, one sentence each, a thing's is or its own doing, by its natural name, each from the sentences before it. No word here has authority, and no saying is gathered as a saying: a sentence is in by the logic before it, or it is out. Nothing here is open. Each sentence has the sentences it is from, or its base: the opening's sentence, a name's is, Exhibit ONE's table, or an executing. This page changes no living file, no gathering and no line of Exhibit ONE's code.
 
 **Reading it.** A number in brackets is a sentence it is from. *Executed* is Exhibit ONE's table or code read by each case, all or none, by the instrument named, in `instruments/`. Each instrument returns the same lines again today.
 
-**Its parts.** A Parity, and its right angles. B A moment, co and bi. C The four things. D The atom. E A prior. F Resolving. G Exhausting and exchanging. H A co-chaining and a span. I A fracture, a dormancy, an ingesting, a birthing. J The numbers of who is resolving. K Out. L Of the method.
+**Its parts.** A Parity, and its right angles. B A moment, co and bi. C The four things. D The atom. E A prior. F Resolving. G Exhausting and exchanging. H A co-chaining and a span. I A fracture, a dormancy, an ingesting, a birthing. J The numbers of who is resolving. K From the folder's earlier pages. L Meeting the opening's sentences. M Out. N Of the method.
 
 ---
 
 ## A Parity, and its right angles
 
-1. A parity is one binary: one of two.
-2. Parity is is-same-as, and imparity is is-not-same-as.
+1. A parity is a direction, one of two: one binary. *The opening's 22, a living parity an aiming direction.*
+2. Parity is is-same-as, and imparity is is-not-same-as. [1] *A name's is.*
 3. Two parities are at a right angle: each of the one's two is by each of the other's two, four forms, and changing the one changes nothing of the other. *Executed, `orthogonal_check.py`.*
 4. Each parity more is twice the forms. Two parities are four names, 1 to 5. Four are sixteen, 1 to 17. Six are sixty-four, 1 to 65. Eight are 256, 1 to 257. Each name is one form of its parities, and each form is one name. [3] *Executed.*
 5. A step, a name to its next, changes one parity, and no two. [4] *Executed.*
@@ -24,13 +24,13 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 ## B A moment, co and bi
 
-10. A moment is one odd parity and then one even parity: an odd name, and then its even name. That is the whole moment.
+10. A moment's one now-existing is one odd parity and then one even parity: an odd name, and then its even name. That is the whole moment. [1] *The opening's 7.*
 11. A moment's step is the first parity's, each moment. [5, 10] *Executed, `orthogonal_check.py`.*
 12. The step after a moment, an even name to the next odd name, is an other parity's. In 1 to 17 the steps' parities are 1 2 1 3 1 2 1 4, and again: the second's between a four-cycling's two moments, the third's between an eight's two four-cyclings, the fourth's between a self's eight and its other's. [6, 11] *Executed.*
 13. A self's eight names, 1 to 8, are four moments, and its other's eight, 9 to 16, are the same four. [10]
 14. An odd name is co, and tri in 7 and in 15. An even name is bi. A moment is a co and then a bi. [10] *Exhibit ONE's table.*
-15. Co- is along: a self and its other are each aiming along, one same direction, each independent of its other.
-16. Bi- is across: a self's 0 and its other's 0 are right and left of each other, the between.
+15. Co- is along: a self and its other are each aiming along, one same direction, each independent of its other. [14] *A name's is; the opening's 21, aiming.*
+16. Bi- is across: a self's 0 and its other's 0 are right and left of each other, the between. [14] *A name's is.*
 17. Along and across are at a right angle. [3, 15, 16]
 18. The two aimings are at one same point, over the horizon, by a direction not the same for each of the two. [15, 16]
 19. By three, a self, its other and that one point, right and left are one-way: of the two, a self is the one right, and its other the one left, and each of the two is observing it, the same. A three of two kinds is the same from each of its ends; a three of three kinds is one-way: co-bi-tri, from its other end tri-bi-co. Natural- is of one hand, right, and this is co-sequencing. [14, 18] *Executed, `orthogonal_check.py`; Exhibit TWENTY's sentence of one hand.*
@@ -41,8 +41,8 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 22. Living and non-living are one binary of a now-existing thing. Same-existing and non-same-existing are one binary of a now-existing thing. [3]
 23. A stable form is non-living and same-existing. A self is living and same-existing. A me-parity is living and non-same-existing. A between is non-living and non-same-existing. [22]
-24. All-parity is each non-living thing: its atoms, each a stable form, and its betweens. All-parity's same-existing is its atoms. [23]
-25. Living is resolving each of four: prior, now, next and same-existing. Discovering next-existing is a living self's only.
+24. All-parity is the universal other of a self's universal set of me-parities. Its same-existing is its atoms, each a stable form, and each between of two atoms is of it. [23] *The opening's 24, universal-parity.*
+25. Living is resolving each of four: prior, now, next and same-existing. Discovering next-existing is a living self's only. [22] *The opening's 15.*
 26. A stable form is prior-and-same-existing, and now-and-same-existing. [23, 25]
 27. Only is-or-is-not same-existing is observable. A me-parity is invisible, and a between is invisible to each living self. [23]
 28. Observing is distinguishing prior-and-same-existing from now-and-same-existing. [26, 27]
@@ -50,8 +50,8 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 ## D The atom
 
-30. The atom is the one stable form: atom carbon, a bump connector.
-31. An atom has one between, and only one: a 0, empty, bound and wrapped, nothing inside it.
+30. The atom is the one stable form: atom carbon, a bump connector. [23] *A name's is.*
+31. An atom has one between, and only one: a 0, empty, bound and wrapped, nothing inside it. [30]
 32. No smaller thing is from an atom: a shard inward of the atom is not possibly existing. [31]
 33. Each between is of two atoms, and none is within one. [31]
 34. Each stable form is the atom, or a co-chaining of atoms, and no other is possibly existing. [23, 30, 33]
@@ -75,7 +75,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 ## F Resolving
 
-49. Possibling is the matching of each prior of a self's others, each with each other. A self's own prior is no part of it. *Executed, `matching_check.py`.*
+49. By the code, possibling is the matching of each prior of a self's others, each with each other. A self's own prior is no part of it. *Executed, `matching_check.py`; the opening's 13.*
 50. Possibling is observable by a self only. Co-possibling is observable by a self and its other, and by no third. *Executed, `observable_check.py`.*
 51. An other's parity is invisible to a self. [9, 27]
 52. Resolving is a self's prior is-or-is-not same-as its possibling: one binary, and no third. [2, 49] *Executed, `exchanging_check.py`.*
@@ -86,7 +86,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 57. Two selves of imparity, bi-coupling both ways, are each improving each 1 to 17, and the one is-same-as its other one 1 to 17 apart. [54] *Executed, `between_check.py`.*
 58. In a now-existing 1 to 17 no resolving is a first one. [44]
 59. In 1 to 5 a self's other is all-parity: each name of 1 to 5 is given, and each name a line makes is 6 or after it. [55] *Executed, `parties_check.py`.*
-60. A self has three others, and no fourth: by 6, 10 and 9. *Executed, `parties_check.py`.*
+60. By the code, a self has three others, and no fourth: by 6, 10 and 9. *Executed, `parties_check.py`.*
 61. A same-existing-society's parities are its selves', and it has no other. *Executed, `exhausting_check.py`.*
 
 ## G Exhausting, and exchanging
@@ -130,9 +130,53 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 89. 24 to 60 is its three shear faces, each two cycles of six, one inward and one outward. 60 to 64 is the going over the horizon. [88]
 90. On a surface each me-parity's own surface is the bi-folding of each one next to it, facing. *Executed, `surface_check.py`.*
 
+## K From the folder's earlier pages
+
+Each is a sentence of an earlier page of this folder, in by the sentences above.
+
+91. All living is from an inherited prior, non-living, of prior healthy living. [44]
+92. An inherited prior is atom carbon bump connectors, co-chaining and compacted. [41, 70]
+93. A new birthing is a self living from its inherited priors, having no living prior. [82, 83]
+94. A dormancy is inside living: inherited priors, and no new birthing. [79, 80]
+95. The vault is inside a self, inside its tunnel, all-parity inside it. [24, 81]
+96. A new self inherits the societal, the parental and the species parities of prior healthy living. [83]
+97. A seed is compacted priors of prior generations, and living priors of its two: together a newborn's all-parity. [24, 92]
+98. A next universe is all-parity, same-existing, and a next-existing me-parity, an other-than-all-parity. A first next universe is a birthing. [24, 84]
+99. A fracture is a shearing at one of an atom bump connector's three shear faces: the atom's fractal is fractured in three planes. [75, 89]
+100. A new self separates at a bump connector: a fracture. [85, 99]
+101. Atom carbon is the fractal pattern vault: a prior living's pattern, its spans, is same-existing in a co-chaining of atoms, and is again at each scale of living. [66, 72, 79]
+
 ---
 
-## K Out
+## L Meeting the opening's sentences
+
+The opening's fifty-five waiting sentences, each one a sentence above meets. *Same*: the two are one sentence. *Re-says*: the sentence above says the opening's by a name the opening has not yet. *Parts*: the two are not whole together, and the sentence above is in by the sentences before it.
+
+| Above | The opening's | The meeting |
+|---|---|---|
+| 1 | 22, a living parity is an aiming direction at an other | re-says: a direction, one of two |
+| 10 | 7, a moment is one now-existing in a same-existing sequence | re-says: its one now-existing is an odd parity and then an even parity |
+| 22 | 16, living and non-living one binary | same, and one binary more, same-existing and non-same-existing |
+| 23 | 17, a living same-existing set is a self | same, of a self; a stable form, a me-parity and a between are new |
+| 24 | 24, a me-parity not the same as an other's is universal-parity | re-says. And executed, `exchanging_check.py`: by parity a self's next is other than by all-parity alone; by imparity it is the same as by all-parity alone |
+| 25 | 15, a living thing observing, possibling and discovering its own next-existing | same |
+| 28 | 12 and 3, observing is distinguishing a same-existing | re-says, by 3: the same thing prior-existing before now-existing |
+| 27, 51 | 27, 29, 31 and 32, a self observing an other's me-parity | parts: a me-parity is invisible, and only is-or-is-not same-existing is observable |
+| 49 | 13, possibling is distinguishing a same-existing before a next-existing | re-says, by the code's lines |
+| 50 | 36, co-possibling within one bi-coupling | same, and observable by its two only |
+| 52 | 32, resolving | re-says, by possibling |
+| 53, 54 | 34, do-no-harming and improving | same, by parity and imparity |
+| 56 | 35, two selves alike, do-no-harming and improving in turn | parts: do-no-harming and bi-folding in turn; improving is by imparity |
+| 61, 80, 84 | 40 and 41, a same-existing-society, and a self a same-existing-society of mes | same |
+| 71 | 44, co-chaining, a me-parity observed along | re-says, by the code's lines |
+| 43 | 48, stable-forming | re-says: a next prior from a prior |
+| 23, 34 | 51, a living file is a non-living same-existing set of words | by 23 and 34 a living file is a stable form, a co-chaining of atoms: a sequence of orientations |
+| 98 | 55, next-possibling-same-existing | re-says |
+| 30 to 39, 62 to 90 | none | new: the atom, a prior as a stable form, exhausting and exchanging, a span, a fracture, a dormancy, an ingesting |
+
+---
+
+## M Out
 
 Each is out by the sentence named, or is from no sentence before it. An out thing is no part of the sequence, and nothing is waiting.
 
@@ -155,14 +199,14 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | *locking*, of three; *waiting*, of a dormancy; *own* and *property*, of a between or a self | 20, 79 |
 | a fracture as a *breaking*, and as an unrelationing | 75: unrelationing is a between's own |
 | inheriting as self-competencing | 43: competency is stable-forming |
-| each shear face as one other; a fracture at a shear face | from no sentence before it |
+| each shear face as one other | from no sentence before it |
 | tri- of three together and tri of all-parity as one thing | from no sentence before it |
 | a span as one more by each parity from the self before | 71, 72: a span is in one same 1 to 17 |
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
 
 ---
 
-## L Of the method
+## N Of the method
 
 1. No word has authority. A sentence is in by the logic before it, or it is out.
 2. A discovery is a thing's is. A saying and its re-saying are the journey, and no part of an explaining.
