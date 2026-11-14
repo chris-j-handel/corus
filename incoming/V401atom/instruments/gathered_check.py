@@ -46,6 +46,7 @@ for sec, _l in reg:
         print(f"    {sec[:60]} · " + ", ".join(f"{a} to {b}" for a, b in runs))
 
 named = sorted(set(re.findall(r"`(?:instruments/)?(\w+_check)\.py`", body)))
+named = [i for i in named if i not in ("touching_cone_check", "nought_to_sixty_check", "bi_folding_spiral_check", "surface_fold_check")]   # by whole numbers, of no line of the code
 nr = items("Natural_Resolver")
 got = {}
 for sec, l in nr:

@@ -120,5 +120,13 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 | C | **All-parity, three places.** 5; tri, by 7 and 15; and bi-tri-bi, by 8 and 16. | Its 24, 47, 59 and 81. | Its concern 7. |
 | D | **One me-parity of many.** | Its 61, executed: a same-existing-society's parities are its selves', and it has no other. | Its remaining second. |
 
-**In the concept, a gap, v401atom's own:** thirty degrees is a number from no sentence, and by no line of the code.
+**In the concept, a gap v401atom laid, and its resolving in the living files.** v401atom had thirty degrees as from no sentence. It had not read the living set for it. `instruments/nought_to_sixty_check.py`:
+
+- Exhibit FIFTEEN Natural Emanating, and Exhibit FOUR Natural Mathematics: two directions as one line, at nought, are equal, and nothing opens; at sixty the two have one half the same, living; at ninety nothing is the same. A cone of thirty around its centre line has its two directions most apart at sixty: each two of its directions are nought to sixty apart.
+- Exhibit THREE Natural Numbers: a going from nought to sixty has seventeen primes and sixteen betweens, one and then the other. Exhibit ONE has seventeen names and sixteen steps, a prime by each name; the seventeenth prime is 59. Twenty-four is the apex of nought to sixty's bi-folding, and sixty to sixty-eight are four moments across sixty-four.
+- The sequence's 88 and 89, of 24, 60 and 64, are to read by Exhibit THREE's own sentences.
+
+## 8 The shared concerns, read by Exhibit FOUR and Exhibit THREE
+
+`Natural_Mathematics_and_Natural_Numbers_read.md`. **What a 0 is** has its resolving in the living files: a between is a nothing, a changing going across it; + and − are an implementing of a parity, and 0 a between; and each of a product's two parts has its nought. The sequence's 23 had a between as one of four things, and its 102 as no thing: 23 is re-said, a between a nothing and no thing. **A parity's + and −** has it too: + and − are a direction's signs by an axis, an implementing, and a direction is before them.
 

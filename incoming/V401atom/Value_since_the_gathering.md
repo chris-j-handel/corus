@@ -730,6 +730,18 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a parity is no same-as; the concerns of both sessions not yet resolving.** `The_Concerns_of_the_Sequence.md`, its part 7. *Parity* as is-same-as, and *imparity*, are out: the sequence's 2, 21, 53, 54, 56, 57, 82 and 112, and each droplet of v401atom's own, re-said by *same-as* and *not same-as*. Shared and not yet resolving, four: what a 0 is; a parity's + and −; all-parity's three places; one me-parity of many.
 
+**Going on, 14 November: nought to sixty, in the living files.** `instruments/nought_to_sixty_check.py`. Seventeen primes and sixteen betweens of nought to sixty, Exhibit THREE's own sentence, by Exhibit ONE's seventeen names and sixteen steps. Two directions at nought equal, at sixty one half the same, Exhibit FIFTEEN's lines: a cone of thirty has each two of its directions nought to sixty apart. v401atom's gap of thirty degrees had its resolving there, unread.
+
+**Going on, 14 November: Natural Mathematics and Natural Numbers, read.** `Natural_Mathematics_and_Natural_Numbers_read.md`; `instruments/touching_cone_check.py`. A between a nothing, the sequence's 23 re-said. A cone of thirty as two same spheres touching, twelve around one, by whole numbers: a candidate for a bump connector's form.
+
+**Going on, 14 November: a parity's cone, a bump connector's form.** The sequence's 113 to 116, `instruments/touching_cone_check.py`, by whole numbers: two same spheres touching, one point the same, a 0; two cones facing on one line, their sides crossing in one circle around that point; twelve around one, three fours by three planes at right angles, and from each one its own line and ten others, five lines. One droplet at the registry's *31*.
+
+**Going on, 14 November: same atoms touching as a doing, a fold through a 0, spiraling open.** The sequence's 117 to 120, `instruments/bi_folding_spiral_check.py`, by whole numbers: the oldest of four through the middle of its three others; the middle of the three the middle of the prior and its next, a 0; folds one after one a co-chaining, each touching six, of one hand, closing at none in 240 folds; the other order the other hand. One droplet at the registry's *31*.
+
+**Going on, 14 November: on a surface, six around one, and a fold's 0s a thread along.** The sequence's 121 to 123, `instruments/surface_fold_check.py`, by whole numbers: six around one, two along and two each side across; folds going across in turn, right from left and left from right; the 0s on one line along, each the same step, closing at none. One droplet at the registry's *31*.
+
+**Going on, 14 November: a me-parity a fold's line, and all-parity the line each fold is in the cone of.** The sequence's 124 to 126, `instruments/surface_fold_check.py`, its part 4, twelve cases: each fold's line thirty from the thread's line, the same way along it; folds one after one the one edge and the other of one cone, sixty apart; from a fold's prior its two others thirty each side. One droplet at the registry's *31*.
+
 ---
 
 ## 6 Executed, each case, all or none

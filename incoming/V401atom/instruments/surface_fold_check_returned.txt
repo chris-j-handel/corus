@@ -1,0 +1,19 @@
+1 six same ones around one, on a surface, each touching it:
+  each is the same far from the one, and sixty from its next around, full around in six: True
+  each touches its two next to it around, and no other of the six: True
+  by a line along through the one: two of the six are on it, each straight across its other; two are on its one side, and two on its other: True
+  six ways: co, along, two; and across, two of the side before and two of the side after
+2 a fold on a surface, each of 240 : the oldest of three through the middle of its two others
+  the middle of the two is the middle of the prior and its next: one point, a 0: True
+  the next is touching each of the two, as the prior was: True
+3 folds one after one:
+  each second one is one same step along from the one two before it: two lines along, each straight: True
+  each fold goes across from the one line to the other, and the next fold from the other to the one: right from left, and left from right, in turn: True
+  the 0s, one by each fold, are on one line along, between the two lines, each the same step from the 0 before it: a thread: True
+  no centre is a centre a second time, and no 0 a 0 a second time: it closes at none: True
+  each one touches four of the co-chaining: the two before it and the two after it; and of them two are along, its own line's: True
+4 each fold's line, a prior through its 0 to its next; and the thread's line, the 0s' line along:
+  cases, each of six lines along and each side first: 12
+  each fold's line is thirty from the thread's line, and has the same way along it as each other fold: each fold is in the one cone of thirty about the thread's line;
+  folds one after one are its one edge and its other, in turn, sixty apart, one half the same;
+  and from a fold's prior, its two others are thirty each side of the fold's line: the fold's own cone's two edges: True

@@ -1,0 +1,13 @@
+1 four same ones, each touching each: each two centres the same apart: True
+2 a fold, each of 240 : the oldest of four through the middle of its three others, to the same far on the other side
+  the middle of the three is the middle of the prior and its next: one point, a 0, the three's own middle: True
+  the prior, the 0 and the next are on one line, at a right angle to each line of the three: True
+  the next is touching each of the three it is folded through, as the prior was: True
+3 the folds, one after one: a co-chaining
+  each one, but the three at each end, is touching six: the three before it and the three after it: True
+  no centre is a centre a second time: the spiraling closes at none, in 240 folds: True
+  each fourth one is farther from the first than the fourth before it: it goes on along: True
+  its hand is one, the same by each four one after one: True
+  each fold's line and the next fold's line have 1 of 3 the same, each step: True · each fold the same long: True
+4 the same four, its first two in the other order: the other hand, each step: True
+5 a fold taken from its next: through the same 0, to its prior: the one direction through a 0, and its other: True
