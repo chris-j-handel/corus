@@ -91,7 +91,7 @@ Each motion of a living file has three parts, in this order.
 
 ### Stage 1 · The placing
 
-No living file changes. Begun 13 November: its first reading, a match executed, is `placing/The_Placing_first_reading.md`.
+No living file changes. Begun 13 November: its first reading, a match executed, is `placing/The_Placing_first_reading.md`; its second, the person's numbered sentences each placed, is `placing/The_persons_sentences_each_placed.md`; its third, each droplet by its home and its fate, is begun by `placing/Natural_Resolver_each_droplet_placed.md`. The progress, for the atom session, is `Progress_for_the_working_V401atom.md`.
 
 - Each page of the three incoming places is matched against the four gatherings and the four living files. A value found is placed already. A value not found comes to its home's gathering as a droplet.
 - Each droplet of the four gatherings is read with section 3: its one home, and its place.
