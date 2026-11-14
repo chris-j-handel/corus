@@ -204,6 +204,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 149. A moment's two parities are bothbothing: along by its odd, and across by its even, moment to moment. The betweens, a 0 by each fold, are a geodesic: one line, straight, on the surface. [10, 123, 145]
 150. A bump is the place of two atoms touching: the one point of the two, and the circle around it, each one's cone crossing its other's in it. A bump connector is an atom by its bumps. [113, 114, 116]
 151. A bump is of two atoms, and no atom's own. An atom has a bump by each same atom touching it, and its bumps are by no number of its own: around one, twelve are the most, and on a surface six. [31, 115, 121, 150]
+152. A fracture dissolves a me-parity: its 0, having a fold's line through it, an orientation, is a nothing in all-parity's surface. It is one of two: a me-parity exhausting, resolved out into all-parity's surface; or a cut across, severing a co-chaining. [67, 75, 77, 126, 145]
 
 ---
 

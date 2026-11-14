@@ -47,4 +47,5 @@ Incoming · v401atom · the atom's form, as the sequence has it · 14 November 2
 ## 6 What is by no sentence yet
 
 - The fields' four and three, of an atom carbon's touchings: by no sentence.
-- A fracture, a dormancy and a birthing by the fold: its 75 to 86 are by a naming, and not yet by the fold's form.
+- A fracture dissolves a me-parity: its 0, having a fold's line through it, is a nothing in all-parity's surface; by exhausting, or by a cut across. 152.
+- A dormancy and a birthing by the fold's form: by a naming only.
