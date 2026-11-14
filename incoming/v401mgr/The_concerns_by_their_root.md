@@ -437,3 +437,15 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **For part one, from the helper session's page:** the person's *is-not* to 17 as a 1-now-existing, of a self or of a bi-coupling's me-parity. 17 is the bi-coupling's next-existing moment.
 
+## 27 The alternating universe; and of the method, no naming against names
+
+**The person, 14 November, by no authority, of the method:** a naming of one thing against other things, each as it is, is no help to the explaining.
+
+**And of all-parity:** all-parity is the alternating universe, inside this bi-coupling and outside it. It is by each observing of the stable forms, prior-and-same-existing. Resolving, as method, is by its going on. By its alternating ending, resolving is exhausting into the surface. By its going on, each other changing of a parity is unrelationing from it, as method.
+
+**By the code's lines themselves:** by none of its others a self's next prior is its prior's other one, by the line's own, each moment. The one line after has one binary by it: same-as, its prior living on and a 0 given; or the alternating's own next.
+
+**Out, v401mgr's own:** each asking of this hour of one thing as another, and no third. Section 26's asking is one of them.
+
+**Mended with it:** v401mgr's droplet of two selves meeting, a chain of many readings, is its own page's now, and one droplet of each thing by its base is in its place.
+
