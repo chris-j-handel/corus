@@ -4,3 +4,10 @@ cases, each of 256 cases of the priors with each of seven betweens: 1792
 2  each self before the between is as with no breaking, with each 1 to 17: True
 3  the self after the between is bi-folding with each 1 to 17, all-parity its other; and each self after it is with it:
    each span along, after the between, is one self, and the spans of three are with it no more: True
+4  with the fracture's 1 to 17, each self's prior is as with no fracture: each co-chaining after it has its priors from the one before it, as they were: True
+5  the two selves, one each side of the fracture: is-same-as, inside a span, cases: 1024 ; is-not-same-as, two spans meeting, cases: 768
+   the code's state of an empty prior with the two: a first prior inherited, that same parity, with is-same-as; nothing inherited with is-not-same-as: True
+6  the co-chaining along after a fracture, given as its own 16-next-same-existing, apart from the one before it: each self of it
+   is as within the one 16, each 1 to 17, each case: after a fracture no line of the code has the two co-chainings in one now: True
+7  the code's state of an empty prior, each of eight cases: inside, a stable form's parity and a living self's 10 its possibling, it has a prior;
+   outside, no between having it, it has no prior and no possibling, each 1 to 17: True

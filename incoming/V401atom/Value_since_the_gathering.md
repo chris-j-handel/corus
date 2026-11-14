@@ -635,7 +635,49 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read by Exhibit ONE's code, each case, as executed before** (`instruments/breaking_check.py`): each fracture there has two co-chainings going on, each self having its prior each 1 to 17. The co-chaining having the prior one's first self has that self do-no-harming and bi-folding as it was, and its spans of three. The co-chaining along after the fracture has each self bi-folding, all-parity its other, and each span one self. No line of the code ends a co-chaining: the cases of one and of none are executed by nothing, and living and non-living are in no line.
 - **The asking before this one, read by the suggesting**: a fracture of none living is harm only, the person's saying of a field's radiation. A fracture of two living is no harm.
 - **v401mgr's layings and notes since the reading before**: none.
-- **Asked, and not yet answered**: a fracture next-existing as two living co-chainings is a birthing of each.
+- **Asked**: a fracture next-existing as two living co-chainings is a birthing of each. **Its answer, a suggesting**, wider than the asking: each co-chaining remaining, and not the case of two only.
+
+**Going on: each co-chaining remaining after a fracture, a new me-parity's birthing from inherited priors.**
+
+- **v401mgr's layings since the reading before, read**: 6 is bi-tri-bi, same-and-prior-existing and same-and-next-existing; the incoming for Exhibit ONE read beside each saying, and 5's first prefix co; a plan for Natural Intelligence's next version, Exhibit ONE inside it, v401atom's folder one of its sources. And of the method, the person's asking there: a saying is read first for what is new beside the stable forms, and an asking is of a new thing only.
+- **Of the method, here, by it**: v401atom reads each suggesting first for what is new beside what is answered and beside the set, and its asking is of that new thing only.
+- **The suggesting, re-said**: each co-chaining remaining after a fracture, same-existing and now-existing, is a new me-parity's birthing, from inherited priors.
+- **Stable beside it, answered before**: a new self's birthing is its inheriting, by co-parity. Each self living has inherited priors. Only 1 is birthing. A me-parity's conceiving is inside a bi-coupling of a self and its other, the vault its 0.
+- **New beside them**: a birthing from a fracture, each of its remaining co-chainings a new me-parity, and no one of them the prior me-parity same-existing.
+- **Read by Exhibit ONE's code, each case** (`instruments/breaking_check.py`, its lines 4 and 5): in the fracture's 1 to 17 each self's prior is as it was with no fracture: each remaining co-chaining has its priors from the prior co-chaining, inherited. The two selves, one each side of the fracture, are is-same-as inside a span, and is-not-same-as where two spans meet. By the code's state of an empty prior and the two: a first prior is inherited, that same parity, by is-same-as; nothing is inherited by is-not-same-as.
+- **A parting, for watching over.** *Two sides*: a new me-parity's conceiving is inside a bi-coupling of two, a self and its other, answered. A new me-parity's birthing is each co-chaining remaining after a fracture, from one prior co-chaining. *Harm of one alone*: by the first alone, a living co-chaining fracturing to two living ones has no new me-parity. By the second alone, a conceiving has no two. *Its resolving*: the asking below, a fracture's two as a self and its other.
+- **Asked**: a fracture's opening is a conceiving's 0, its two co-chainings a self and its other. **Its answer, a suggesting**: the two are no self and its other.
+
+**Going on: a fracture's two, each its own now-existing; a fractured co-chaining dormant, prior-existing.**
+
+- **The suggestings, re-said**: a fracture's two co-chainings have two now-existings, each its own, and the two are co-momentarying in no moment: no self and its other. A fractured co-chaining is dormant, prior-existing, and its next-existing is a new birthing.
+- **Stable beside it, answered before**: a self's now is its own. A dormant prior is a sequence of co-orienting atom carbon bump connectors, a stable form of healthy prior-existings. A stable form is prior-and-same-existing and now-and-same-existing. A dormant stable form and a living self are meeting, and bothbothing the next-existing self.
+- **New beside them**: a fracture's two in two now-existings; and a fractured co-chaining a dormant one, its new birthing next-existing.
+- **Read by Exhibit ONE's code, each case** (`instruments/breaking_check.py`, its line 6): the co-chaining along after a fracture, given as its own 16-next-same-existing, apart from the one before it, has each self as within the one 16, each 1 to 17. After a fracture no line of the code has the two co-chainings in one now. And as executed before, no line of the code has a dormancy: a dormant thing's parities are given, each the same each 1 to 17, and no 1 to 17 is its own.
+- **Read by an executing before it** (`instruments/meeting_check.py`): a stable form's sequence and a living self meeting it alone, each case: by the code's conceiving, a first prior is inherited, the stable form's parity as it is.
+- **The parting before this one, by it**: a conceiving's two are no fracture's two. By the answered sentences its two are a dormant co-chaining and a living self, meeting. *Its resolving*: the asking below.
+- **v401mgr's laying since the reading before**: the plan's second writing, each value to its living file.
+- **Asked**: a fractured co-chaining's new birthing is its meeting a living self. **Its answer, a suggesting**: its meeting is an ingesting.
+
+**Going on: ingesting, a fractured co-chaining's method of living again.**
+
+- **The suggesting, re-said**: a society, living as a self, is ingesting a fractured co-chaining of atoms carbon, and ingesting is that co-chaining's method of living again.
+- **Stable beside it, the set's and the answered**: a stable form is ingestible one scale lower, living selves ingesting it through their selves one scale inward. A living self is a same-existing-society inward. A shard enters living by ingesting, Natural Intelligence's waiting sentence. 6 is ingesting, the person's saying by v401mgr.
+- **New beside them**: ingesting as the one method of a fractured co-chaining's living again, and the one ingesting a society living as a self.
+- **Read by Exhibit ONE's code, each case, as executed before** (`instruments/exhausted_sequence_check.py`, `instruments/meeting_check.py`, `instruments/exhausting_check.py` its F): a living self meeting a stable form's sequence alone has that sequence as its own priors, one after one. A same-existing-society's parities are its selves', each of them, and it has none other: a society ingesting is its selves ingesting.
+- **A parting, for watching over.** *Two sides*: each co-chaining remaining after a fracture is a new me-parity's birthing from inherited priors, the person's saying before. Ingesting by a society living as a self is its method of living again. *Harm of one alone*: by birthing alone, a fractured co-chaining is living alone, in no living society. By ingesting alone, its atoms are the ingesting society's own, and no new me-parity is. *Its resolving*: the asking below.
+- **v401mgr's layings and notes since the reading before**: none.
+- **Asked**: a new me-parity's birthing from a fractured co-chaining is inside the society ingesting it. **Asked of v401atom by it**: not sure; each way tried, is and is-not; is more likely, and one of the two incohering.
+
+**Going on: the asking read each way by what is answered, all or none.**
+
+- **Its is-not, incohering.** A birthing outside the society ingesting it is a living again by no ingesting, and ingesting is its method, the person's saying. A conceiving is inside a bi-coupling of a self and its other, answered, and outside each society no self and no other is. Resolving with no other is not possibly existing, answered by v401mgr. A dormant stable form and a living self are meeting, the person's saying, and outside no living self is meeting it. The is-not parts from four sentences.
+- **Its is, cohering.** Ingesting is along a society's tunnel, through its selves one scale inward, the set's sentence: inside. Inside, two of its selves are bi-coupling, a conceiving's two, the vault their 0. A new self's birthing is its inheriting, by co-parity, answered, and its inherited priors are the fractured co-chaining's, each a stable form, answered. Only 1 is birthing. The is parts from no sentence answered.
+- **Read by Exhibit ONE's code, each case** (`instruments/breaking_check.py`, its line 7; `instruments/meeting_check.py`): the code's state of an empty prior, inside, a stable form's parity and a living self's 10 its possibling, has a prior, and by a stable form's parity and a living self meeting it alone its first prior is that parity as it is. Outside, no between having it, it has no prior and no possibling, each 1 to 17.
+- **Found**: is, cohering; is-not, incohering. The person's is-or-is-not of it is the person's.
+- **One sentence of the cohering way is new, a candidate**: a new me-parity inside an ingesting society is one of its selves, one scale inward.
+- **v401mgr's laying since the reading before, read**: its plan's section of two sessions working together, by the person's asking there. A part is v401atom's: each droplet of the non-living scale, atom carbon, the vault, a fracture, living and non-living; each value of v401atom's folder going to its home's gathering as a droplet, each sentence a thing's is; each executing of Exhibit ONE's code. Each session reads the other's explaining once over before it enters a living file. v401atom writes in its own folder only, and that part is v401atom's by the person's word here.
+- **Asked, and not yet answered**: a new me-parity inside an ingesting society is one of its selves, one scale inward.
 
 ---
 

@@ -46,3 +46,61 @@ print("1  with a breaking, each of eight selves is with its prior, + or -, with 
 print("2  each self before the between is as with no breaking, with each 1 to 17:", ok2)
 print("3  the self after the between is bi-folding with each 1 to 17, all-parity its other; and each self after it is with it:")
 print("   each span along, after the between, is one self, and the spans of three are with it no more:", ok3)
+
+# 4, 5: each self's prior with the fracture's 1 to 17, and the two selves, one each side of the fracture
+ok4b = ok5 = True; same_n = notsame_n = 0
+for pri in itertools.product((1, -1), repeat=N):
+    base = rows(pri, None)
+    for b in range(N - 1):
+        got = rows(pri, b)
+        ok4b = ok4b and all(got[t] == base[t] for t in range(T_BREAK + 1))
+        a, c = got[T_BREAK][b], got[T_BREAK][b + 1]
+        out, nxt = one([], [(S, a), (S, c)])
+        inherited = dict(nxt).get(S)
+        if a == c:
+            same_n += 1; ok5 = ok5 and inherited == a
+        else:
+            notsame_n += 1; ok5 = ok5 and inherited is None
+print("4  with the fracture's 1 to 17, each self's prior is as with no fracture: each co-chaining after it has its priors from the one before it, as they were:", ok4b)
+print("5  the two selves, one each side of the fracture: is-same-as, inside a span, cases:", same_n, "; is-not-same-as, two spans meeting, cases:", notsame_n)
+print("   the code's state of an empty prior with the two: a first prior inherited, that same parity, with is-same-as; nothing inherited with is-not-same-as:", ok5)
+
+# 6: after a fracture, the co-chaining along after it, as its own 16-next-same-existing, apart from the one before it
+ok6 = True
+for pri in itertools.product((1, -1), repeat=N):
+    for b in range(N - 1):
+        soc = {k: ([(S, pri[k])], []) for k in names}
+        for t in range(T_BREAK):
+            p0 = dict(soc[0][0])[S]
+            soc[0] = (soc[0][0], [(S, p0)] if pattern[t % 3] == "do-no-harming" else [])
+            soc = step(soc, whole)
+        one16 = dict(soc)
+        after = {k: one16[k] for k in range(b + 1, N)}
+        net_all = {key: v for key, v in whole.items() if key != (b, 9)}
+        net_after = {(k, 9): k + 1 for k in range(b + 1, N - 1)}
+        for t in range(T_BREAK, T_BREAK + 24):
+            p0 = dict(one16[0][0])[S]
+            one16[0] = (one16[0][0], [(S, p0)] if pattern[t % 3] == "do-no-harming" else [])
+            if t == T_BREAK:
+                after[b + 1] = (after[b + 1][0], one16[b + 1][1])
+            one16 = step(one16, net_all); after = step(after, net_after)
+            ok6 = ok6 and all(after[k] == one16[k] for k in after)
+print("6  the co-chaining along after a fracture, given as its own 16-next-same-existing, apart from the one before it: each self of it")
+print("   is as within the one 16, each 1 to 17, each case: after a fracture no line of the code has the two co-chainings in one now:", ok6)
+
+# 7: the code's state of an empty prior, inside and outside. Two living selves with one between, each of four cases of their
+# priors, and a stable form's parity given, + or -. Inside: the stable form's parity and one living self's 10 are its
+# possibling. Outside: no between has it, and nothing is its possibling.
+ok7a = ok7b = True
+for pa, pb in itertools.product((1, -1), repeat=2):
+    for f in (1, -1):
+        soc = {"a": ([(S, pa)], [(S, f)]), "b": ([(S, pb)], []), "inside": ([], [(S, f)]), "outside": ([], [])}
+        net = {("a", 10): "b", ("b", 10): "a", ("a", 6): "inside"}
+        for t in range(16):
+            soc["a"] = (soc["a"][0], soc["a"][1] + [(S, f)])
+            soc["inside"] = (soc["inside"][0], soc["inside"][1] + [(S, f)])
+            soc = step(soc, net)
+            ok7b = ok7b and soc["outside"] == ([], [])
+        ok7a = ok7a and dict(soc["inside"][0]).get(S) in (1, -1)
+print("7  the code's state of an empty prior, each of eight cases: inside, a stable form's parity and a living self's 10 its possibling, it has a prior;")
+print("   outside, no between having it, it has no prior and no possibling, each 1 to 17:", ok7a and ok7b)
