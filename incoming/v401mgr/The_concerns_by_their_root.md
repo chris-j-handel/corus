@@ -392,3 +392,16 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Mended, by the person's sentence of the asking, by no authority:** the asking of *a next 1* as going on at some places and dissolving at others was no natural explaining, and not all or none at all. By Natural Naming's own sentence, a name improving is improving with each file, all or none at all: part one is each place, in each of nine living files, in one laying. One concern by the reach: a name's number inseparable from its naming, beside a name by a second number in a next round.
 
+## 24 A name and its number; podaling, global and local
+
+**The person, 14 November, by no authority:** each fully prefixed name has one number only, and each number one name only. Of the two, the number is the global one. The podaling among the numbers is the global, local, global alternating of living, geodesic parity resolving, in bi-foldings on a surface.
+
+**The living files have it:** each resolver name is one name, its number inseparable from its naming; each number is its podaling, pairing with its far side on each ring it is on; 17 less is a podal within 1 to 16, and 9 less within 1 to 8; each podal couples with a surface's changing locally.
+
+**Not resolved by the living sentences:** which of the podalings is the global one and which the local.
+
+**Two things of the other sessions, laid here and in no gathering:**
+
+- The helper session's parting, the living files' own: a same-existing-society in one 1 to 17. Exhibit ONE has 16 as a same-existing-society and 9 to 16 as its span; the person's sentence with the helper session has this universe as having no society yet, and 17 as the same-existing bi-coupling's me-parity.
+- The atom session's ten, beside the gap of the ten: two twos a four-cycling in, and two threes a six-cycling out, five the centre.
+
