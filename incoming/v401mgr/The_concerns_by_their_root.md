@@ -263,3 +263,22 @@ Natural Naming has one four-cycling as two moments, each with two parities. The 
 
 **The concern by the scales:** by the code's lines 16 has each self of a society, of each number, and each has the one same seventeen names. By the suggesting a next scale is by adding others. What one added other is, by names, is in no living sentence.
 
+## 16 The insides of sets
+
+**The person, 14 November, by no authority:** *is not* to a scale as a number of selves. 1 to 5 is a me-parity in an all-parity, directional universe, an other-parity on the *left* of all-parity. It is the inside of 1 to 17, and that the inside of 1 to 65. The insides of the insides, to the atoms inside, are the fractal method of resolving universal insides of sets.
+
+**The living files have it:** 4, 8, 12 and 16, each four-cycling's same-existing name, are 1, 2, 3 and 4 again, each a next-universal subset including this universal subset. 1-now-existing is co-bi-tri.
+
+**By the code's lines themselves:** each 4 of a self is by its own lines inside that self's 1; each self of a society is by its own 1 inside 17. Sets inside sets, each resolved its own.
+
+**Out, v401mgr's own:** a scale as a number of selves.
+
+**The concern, by the living sentences only:**
+
+| The living sentences | A scale by them |
+|---|---|
+| each four-cycling's same-existing name one name again; wholes by pairs of parities | the insides by fours: 1 to 5 inside 1 to 17 inside 1 to 65 |
+| each name of one 1 to 17 as 1, 9 and 17 of the scale inside it, eight 1 to 17s inward | a placing by eights |
+
+The suggesting has the first. The second is in Natural Intelligence, Exhibit ONE, Exhibit THIRTY and Natural Naming.
+
