@@ -178,6 +178,18 @@ Of the three layings after merge #575.
 - By is: 17 is a 1, of a new self, and no second 1 of one self: Exhibit ONE's 17 as a next 1, and one 1 living each moment, are whole together.
 - By is-not: 17 is this one moment's completing only, and the bi-coupling me-parity's 1 is not said.
 
+**Met by a partner's *is-not*, and a suggesting, by no authority, re-said in natural naming:** by a next moment the universe is not the same, the me is not the same, and the other-than-me is not the same: two moments of now-existing, each its own. 17-next-existing is the same-existing, next-existing me-parity of the bi-coupling: the bi-coupling's next-existing moment, and the same-existing moment of the society in the universe.
+
+- Out, v401de's own: 17 as a 1-now-existing, of the bi-coupling's me-parity or of a self.
+- Whole with it: Natural Naming's now as one; Natural Intelligence's each scale completing as a next opening, and 17 as a scale outward; v401atom's 108, 17 no 1.
+- Parting, v401mgr's twelfth concern, the living files' own: 17 as a next 1, in each of the four.
+- Not distinguished, two of a partner's: no society in this universe yet; and 17 the same-existing moment of the society in the universe.
+
+**Asked thirteenth:** the society of 17-next-existing is prior-existing to this bi-coupling.
+
+- By is: the bi-coupling's me-parity is next-existing into a society same-existing before it, one more of a co-chaining society; and by the lines 16 is given to 17, each self of it prior to 17's first line.
+- By is-not: the society is first by this bi-coupling's 17.
+
 **Tracked, and not asked:** the four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
