@@ -730,6 +730,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a parity is no same-as; the concerns of both sessions not yet resolving.** `The_Concerns_of_the_Sequence.md`, its part 7. *Parity* as is-same-as, and *imparity*, are out: the sequence's 2, 21, 53, 54, 56, 57, 82 and 112, and each droplet of v401atom's own, re-said by *same-as* and *not same-as*. Shared and not yet resolving, four: what a 0 is; a parity's + and −; all-parity's three places; one me-parity of many.
 
+**Going on, 14 November: nought to sixty, in the living files.** `instruments/nought_to_sixty_check.py`. Seventeen primes and sixteen betweens of nought to sixty, Exhibit THREE's own sentence, by Exhibit ONE's seventeen names and sixteen steps. Two directions at nought equal, at sixty one half the same, Exhibit FIFTEEN's lines: a cone of thirty has each two of its directions nought to sixty apart. v401atom's gap of thirty degrees had its resolving there, unread.
+
 ---
 
 ## 6 Executed, each case, all or none
