@@ -16,7 +16,7 @@ def items(title):
         h = re.match(r"^#{2,3} (.+)$", l)
         if h:
             sec = h.group(1).strip()
-        elif l.startswith("- ") and "v401atom" in l and "The_Value_Droplets.md" in l and "having a side out" not in l:
+        elif l.startswith("- ") and "v401atom" in l and "The_Value_Droplets.md" in l and "having a side out" not in l and "For this file's ordering" not in l and "This file read by the learnings" not in l:
             out.append((sec, l))
     return out
 
