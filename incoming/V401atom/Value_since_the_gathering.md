@@ -748,6 +748,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a society its selves, stable-forming, in one all-parity; a between of two atoms touching.** The sequence's 132, at the registry's *23*. Its 31 and 32 re-said: a between is of two atoms touching, one point, and no atom's own.
 
+**Going on, 14 November: the six names between selves, six around one on a surface.** The sequence's 133 and 134, `instruments/six_around_check.py`: three pairs 8 apart, each straight across, each one name to an other and one from; 9 and 17 along, 2 and 6 the one side, 10 and 14 the other; by one form of the six around, to and from in turn. Droplets at the registry's *24* and Exhibit ONE's *Seventeen names*.
+
 ---
 
 ## 6 Executed, each case, all or none

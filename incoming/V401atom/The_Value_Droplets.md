@@ -185,6 +185,8 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 130. Tri is in three names of each eight: a name's next, at 7 and 15; a name's now, at 8 and 16; and a name's prior, at 9, 17 and 1. An all-parity is around each universe, and prior to each 1. [47, 48, 129] *Executed, Exhibit ONE's table.*
 131. A fold is bi-inversioning: across, through its own 0, now. The 0s, each the same step along, are co-recursioning: a next 0 is the same-existing 0, in the next. [118, 123, 127]
 132. A society is living: its selves, each stable-forming, in one all-parity around its universe. A society is no stable form, and it has no parity but its selves'. [23, 43, 61, 129]
+133. The six names between selves are the six around one on a surface. 9 and 17 are the two along. 2 and 6, now names, are the two across of its one side, and 10 and 14, next names, the two across of its other. Each is straight across its name 8 apart: 2 and 10, 6 and 14, 9 and 17. [60, 121] *Executed, `six_around_check.py`; Exhibit ONE's table.*
+134. A self's names to its others are 6, 9 and 10, and its names from its others 2, 14 and 17. Each line through the one has a name to an other at its one end and a name from an other at its other end. By one form of the six around, to and from are in turn around, each one between two of the other kind: alternating. [66, 133] *Executed, `six_around_check.py`.*
 
 ---
 
