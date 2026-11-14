@@ -800,6 +800,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a bi-coupling's six forward.** The sequence's 160, at the registry's *9*: three own-forward ways by each of its two sides, a self's three its names to its other, 6 and 10 across and 9 along; by each scale the same. v401atom's candidate, the six as one self's own, is out.
 
+**Going on, 14 November: a bi-coupling's two planes and one line.** The sequence's 161 and 162, at the registry's *9*: its two sides have the same two planes across, one after one, and one line along through their centres; a self and its other co-momentarying inside it, its same-existing rolling over, a prior over now into next.
+
 ---
 
 ## 6 Executed, each case, all or none
