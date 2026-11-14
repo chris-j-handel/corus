@@ -806,6 +806,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: the ten.** The sequence's 164, at the registry's *9*: the two twos the four-cycling in, the two threes the six-cycling out, ten together, five the centre.
 
+**Going on, 14 November: volunteered, for Exhibit THIRTY's ordering and for Exhibit ONE.** `instruments/sequence_by_registry_order.py`: fourteen names of the sequence have no *Adding* step in Exhibit THIRTY; each by its naming sentence, in their order, one droplet at the registry's head. Exhibit ONE read by the learnings since: one droplet at its gathering's head.
+
 ---
 
 ## 6 Executed, each case, all or none
