@@ -169,6 +169,10 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 114. The two cones face each other on one line, co-linear. Their sides cross in one circle around the point of the two touching, in the plane between the two. [113] *Executed, by whole numbers.*
 115. Twelve same spheres are around one, each touching it, each sixty or more from each other. The twelve are three fours, by three planes each at a right angle to each other, each four two lines at a right angle. From each one are its own line, to its one straight across, and ten others, five lines. [3, 113] *Executed, by whole numbers.*
 116. A parity is an atom's direction to a same atom touching it, by its cone of thirty: a bump connector's form. Along a co-chaining each atom's line is to its next, co-linearizing, and across are its four at sixty. [15, 16, 30, 36, 115]
+117. Four same atoms, each touching each, are four corners, each two the same apart. A fold is the oldest of the four through the middle of its three others, to the same far on the other side. The middle of the three is the middle of the prior and its next: one point, a 0. The next is touching each of the three, as the prior was. [113, 115] *Executed, by whole numbers, `bi_folding_spiral_check.py`.*
+118. A fold is bi-folding: by a 0, a prior's next is the other one of two, the two sides of its three. Through a 0 are two directions, the one and its other. [55, 117] *Executed, by whole numbers.*
+119. Folds one after one are a co-chaining, spiraling: each atom touching six, the three before it and the three after it; of one hand, the same by each step; and closing at none. The same four in the other order are the other hand. [6, 71, 117] *Executed, by whole numbers.*
+120. Same atoms touching is by this doing, stable-forming: a next from a prior by a fold through a 0, each moment. [43, 118, 119]
 
 ---
 
