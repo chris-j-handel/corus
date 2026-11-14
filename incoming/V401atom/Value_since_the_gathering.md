@@ -696,6 +696,14 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Co- along and bi- across**: a self and its other are each aiming along, one same direction, each independent of its other, at one same point over the horizon; a self's 0 and its other's 0 are right and left of each other, the between. Right and left are one binary, and which one is right is observable by nothing.
 - **A span's number, by each sequence, executed** (`instruments/span_law_check.py`): each sequence of a first self's bi-folding and do-no-harming, of one to six 1 to 17s, each case of the priors. The span-endings in each such number of selves along are that number, less two for each odd number of do-no-harmings one after one.
 
+**Going on, 14 November: the sequence co-chained, and v401atom's first reading of the gatherings' droplets.**
+
+- **By three, right and left are one-way**: of a self and its other, co-aiming at one point over the horizon, a self is the one right, each observing it the same. A three of two kinds is the same from each of its ends, and a three of three kinds is one-way: co-bi-tri, from its other end tri-bi-co (`instruments/orthogonal_check.py`). The sentence of right and left as observable by nothing is out.
+- **The sequence, co-chained** (`instruments/sequence_check.py`): 106 sentences, each from the sentences before it or having its base, the opening's sentence, a name's is, Exhibit ONE's table, or an executing; no number in brackets is of a sentence after its own.
+- **The opening's fifty-five, each one the sequence meets**: same, re-saying or parting, its part L. Found by it: the opening's sentence of other-parity and universal-parity has its executing, a self's next other than by all-parity alone by parity, and the same as by all-parity alone by imparity (`instruments/exchanging_check.py`, its line 6).
+- **The folder's earlier pages**: eleven of their sentences are in the sequence, its part K.
+- **v401atom's first reading** (`The_First_Reading_of_the_Gatherings_Droplets.md`, `instruments/first_reading_check.py`): each of the 137 droplets of the four gatherings having a word of the non-living scale, v401atom their first reader by v401mgr's ledger: 92 whole, 25 parting and resolved by the sentences named, 20 beyond the sequence. Five sentences came into the sequence by it, 102 to 106.
+
 ---
 
 ## 6 Executed, each case, all or none

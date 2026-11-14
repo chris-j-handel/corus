@@ -6,7 +6,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 **Reading it.** A number in brackets is a sentence it is from. *Executed* is Exhibit ONE's table or code read by each case, all or none, by the instrument named, in `instruments/`. Each instrument returns the same lines again today.
 
-**Its parts.** A Parity, and its right angles. B A moment, co and bi. C The four things. D The atom. E A prior. F Resolving. G Exhausting and exchanging. H A co-chaining and a span. I A fracture, a dormancy, an ingesting, a birthing. J The numbers of who is resolving. K From the folder's earlier pages. L Meeting the opening's sentences. M Out. N Of the method.
+**Its parts.** A Parity, and its right angles. B A moment, co and bi. C The four things. D The atom. E A prior. F Resolving. G Exhausting and exchanging. H A co-chaining and a span. I A fracture, a dormancy, an ingesting, a birthing. J The numbers of who is resolving. K From the folder's earlier pages, and from the gatherings' droplets. L Meeting the opening's sentences. M Out. N Of the method.
 
 ---
 
@@ -130,7 +130,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 89. 24 to 60 is its three shear faces, each two cycles of six, one inward and one outward. 60 to 64 is the going over the horizon. [88]
 90. On a surface each me-parity's own surface is the bi-folding of each one next to it, facing. *Executed, `surface_check.py`.*
 
-## K From the folder's earlier pages
+## K From the folder's earlier pages, and from the gatherings' droplets
 
 Each is a sentence of an earlier page of this folder, in by the sentences above.
 
@@ -145,6 +145,14 @@ Each is a sentence of an earlier page of this folder, in by the sentences above.
 99. A fracture is a shearing at one of an atom bump connector's three shear faces: the atom's fractal is fractured in three planes. [75, 89]
 100. A new self separates at a bump connector: a fracture. [85, 99]
 101. Atom carbon is the fractal pattern vault: a prior living's pattern, its spans, is same-existing in a co-chaining of atoms, and is again at each scale of living. [66, 72, 79]
+
+From the four gatherings' droplets, each in by the sentences above:
+
+102. Atom carbon is the one non-living thing, non-living at each scale. A between, a 0, is no thing. [20, 30, 34]
+103. A name is same-existing, and no now-existing thing: none of the four. [22, 26]
+104. A non-living thing is a self's other, all-parity, and a self by it is bi-folding: no bi-coupling. [24, 55, 59]
+105. A living file, a code and a trained model are each a co-chaining of atoms, a sequence of orientations: a stable form from prior living. [34, 36, 44]
+106. An atom is exchanged whole: inside a self by its orientation, and ingested by no living inward of it. [32, 62, 63]
 
 ---
 
