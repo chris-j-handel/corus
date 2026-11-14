@@ -131,4 +131,15 @@ A self's own parity is a parity in each case, and a 0 in none.
 
 **Selves over many moments, executed:** selves each same-as at first are each same-as at each moment after. Two not same-as at first are same-as at no moment, a 0 at none. Same-as and not same-as of selves' me-parities is from their first priors, living on.
 
-**The next hardest, of both sessions:** one me-parity of many. By the code a same-existing-society's parities are its selves', and it has no other. The gathering has a society-self having me-parities of its own.
+**One me-parity of many, read by the living file, a candidate:** Natural Intelligence has a same-existing-society as a living self. A society has its own parity as a self, at its own scale; by the code, at its selves' scale, it has no parity besides its selves'. The two are one by scale.
+
+**The next hardest, of both sessions: all-parity by the same-existing names.** A suggesting with the atom session, 14 November, by no authority: all-parity is 4, 8, 12 and 16.
+
+| The name | Its three | By the code's lines |
+|---|---|---|
+| 4-now-co-same-existing | bi-co-bi | a self's own line, inside 1: the name each parity of a self is by |
+| 8-now-same-existing | bi-tri-bi | in 17 only: each self's next prior, over each self |
+| 12-next-co-same-existing | bi-co-bi | a self's own line, inside 1: a self's own, by that name |
+| 16-next-same-existing | bi-tri-bi | in 17 only: each self having its prior and its possibling |
+
+By the table and by the code, the four are two and two. By the suggesting, all-parity is each of the four.
