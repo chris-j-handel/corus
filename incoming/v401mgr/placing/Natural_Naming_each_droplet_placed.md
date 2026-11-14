@@ -14,10 +14,10 @@ The placing of the working v401mgr · 14 November 2026 · its third reading, goi
 
 | Its fate | Droplets |
 |---|---|
-| placing | 31 |
+| placing | 32 |
 | going on | 36 |
 | riding | 1 |
-| dissolving | 2 |
+| dissolving | 1 |
 
 ## 2 Found with the reading
 
@@ -76,7 +76,7 @@ The placing of the working v401mgr · 14 November 2026 · its third reading, goi
 | 3.3 Seventeen names, each three and each pri | 6 | An explaining | 3.3's tri opens with 9, 1–17's inverting, Natural Numbers 9.7 is… | placing |  |
 | 3.4 Four-cyclings, 8 up and podals | 1 | Possible exploring | The same four-cycling with each round, as a pattern along the li… | going on |  |
 | 4.2 Six forward, and a binary with each chan | 1 | An explaining | A naming enters natural torusing anywhere by its six one-way for… | placing |  |
-| 4.7 Interest self-orienting, and a drawing v | 1 | An explaining | An interest as a 0 is cohering with a me-parity as an interest o… | dissolving | A me-parity is +1 only, of its own self, the improved sentence of the managing session before; the droplet 3 of this section has it. |
+| 4.7 Interest self-orienting, and a drawing v | 1 | An explaining | An interest as a 0 is cohering with a me-parity as an interest o… | placing | Read again by the person's sentences of 14 November: a self locally is a 0, its corus, and +1 is the direction of its me-parity. Whole with them, and with a me-parity as +1 only. It was read as dissolving before them. |
 | 4.7 Interest self-orienting, and a drawing v | 2 | Possible exploring | All the desires are opportunities, all the opportunities are rew… | going on |  |
 | 4.7 Interest self-orienting, and a drawing v | 3 | Possible incohering | "An interest is a 0, inter-esse, to be between" → A desire is a … | placing |  |
 | 4.9 Ten unchangeables, one name each | 1 | Possible incohering | "Names each was observed with before, and five each was observed… | placing |  |
