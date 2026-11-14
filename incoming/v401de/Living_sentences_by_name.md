@@ -106,6 +106,16 @@ Natural Intelligence 4.15 has the second and the third of 1.2 in one section: "S
 - **Out, v401de's own.** 4 as all by other, and its placing of the four of 3.3's asking.
 - **Not distinguished.** The four of tri by 4, 8, 12 and 16, one by each, of 3.3; and 4 having no all.
 
+### 3.5 A same-as prior to each other-than: a suggesting's is, and its sentence, by no authority
+
+**The suggesting, re-said in natural naming.** *Is*, to the distinguishing of all from other and of other from all, bothbothing, by 8-now-same-existing. Prior to each other-than, in resolving, is a same-as. From the same-as an other-than is separating, away from the remaining possibling same-as; and less possibling is remaining, as possibly next-and-same-existing.
+
+- **By the code's lines themselves, a self's others.** A first parity is as it is. Each one after it same-as has it as it is. One other-than has it a 0; and a 0 is a 0 by each one after it, no line having a parity from a 0. An other-than is of a second by a first before it; and what is remaining is not more by a later one.
+- **By the code's lines themselves, a self's prior.** Same-as is the line's *is*: a 0, its prior same-existing. Each other case is its prior's other one.
+- **The living opening.** Natural Intelligence: "Agreeing and parting are one binary of the parities a self receives." and "Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe."
+- **The opening waiting, gathered and not living.** Its thirteenth, possibling as distinguishing a same-existing before a next-existing; and its twenty-fourth, a me-parity the same as an other's as other-parity, and not the same, universal-parity.
+- **By names, a suggesting's is of 13 November, by no authority.** 3 other-than and 4 same-as; 7 other-than and 8 same-as. By it each same-existing name is prior to the next observing name: 4 to 7, 8 to 11, 12 to 15, and 16, through 17, to the next 3.
+
 ## 4 The edges
 
 - A match is of a name's letters: a sentence of a scale with no *scale* in it is not here, but the one of 1.2's fourth.
