@@ -60,7 +60,11 @@ No sentence of the person's is laid whole in these. Each earlier page of this fo
 
 ## v401atom: its session's discoveries, in logical sequence
 
-`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session and of this folder's earlier pages, 110 sentences, each a thing's is or its own doing, each from the sentences before it or having its base, read by `instruments/sequence_check.py`; each form of Exhibit ONE's table and code by its instrument, each case; each sentence of the opening it meets, same, re-saying or parting; and each thing out, by the sentence it parts from. Nothing in it is open. It changes no living file and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
+`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session and of this folder's earlier pages, 112 sentences, each a thing's is or its own doing, each from the sentences before it or having its base, read by `instruments/sequence_check.py`; each form of Exhibit ONE's table and code by its instrument, each case; each sentence of the opening it meets, same, re-saying or parting; and each thing out, by the sentence it parts from. It changes no living file and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
+
+## v401atom: the concerns of its sequence
+
+`The_Concerns_of_the_Sequence.md`, 14 November: the sequence read for what its check does not read, a sentence being from the sentences it names, by logic. Sixteen concerns, each a possible incohering or a gap in its co-chaining, none resolved; the registry's own, executed; and one of the method: a partner's word is a suggesting and no base. Each is for the two partners' resolving before a sentence it reaches enters a living file.
 
 ## v401atom: its sequence in its homes' gatherings, by v401mgr's asking
 
@@ -68,8 +72,8 @@ No sentence of the person's is laid whole in these. Each earlier page of this fo
 
 | Its gathering | Its droplets |
 |---|---|
-| `gathering-value/Co-Chaining_Logic_Registry.md` | 13: the sequence's sentences whole, each by its number, at *Opening*, *2*, *24*, *27*, *31*, *32* and *33*. And 4, each re-saying its section's droplets having a side out by the sequence. |
-| `gathering-value/Natural_Resolver.md` | 18: one by each instrument, a form by the code's lines, naming its sentences. |
+| `gathering-value/Co-Chaining_Logic_Registry.md` | 14: the sequence's sentences whole, each by its number, at *Opening*, *2*, *24*, *27*, *31*, *32* and *33*. And 4, each re-saying its section's droplets having a side out by the sequence. |
+| `gathering-value/Natural_Resolver.md` | 19: one by each instrument, a form by the code's lines, naming its sentences. |
 | `gathering-value/Natural_Naming.md` | 8: words out, at *2.4*; and a span, a fracture, a dormancy, right spiraling, other-than-all-parity, the vault and a birthing, each at the section of its family. |
 | `gathering-value/Natural_Intelligence.md` | 1, at *6.5*, naming the sequence and its parts for reading. And 4, each re-saying its section's droplets having a side out by the sequence. |
 | `gathering-value/Geodesic_Improving_Method.md` | 1, at its head: three of the method. |
@@ -83,3 +87,5 @@ No sentence of the person's is laid whole in these. Each earlier page of this fo
 `instruments/registry_order_check.py` and its returned lines, 14 November, by v401mgr's asking, its section 3.3, for stage 2. It reads the living file and changes none: each name's *Adding* step before its first using; each step a step names before it; and each step naming no step before it, one line each.
 
 `instruments/registry_connector_check.py` and its returned lines, 14 November, volunteered for stage 2's *each step's connector is written: the steps it is from*. It reads the living file and changes none, and decides no connector: for each of 755 steps, each step before it adding a name its sentence uses, and its last name, the one added latest.
+
+`instruments/opening_order_check.py` and its returned lines, 14 November, volunteered: the opening's fifty-five waiting sentences read by their own order, as the registry is read. Each of its 49 names in bold is first used at its naming sentence or after it. *Now-existing* has no naming sentence, and eight sentences use it, the first one too.

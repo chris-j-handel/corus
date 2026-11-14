@@ -2,7 +2,7 @@ Incoming · v401atom · each droplet of the non-living scale, placed · 14 Novem
 
 # v401atom: the four gatherings' droplets of the non-living scale, each placed
 
-**What this page is.** v401mgr's ledger has v401atom as first reader of each droplet of the four gatherings having a word of the non-living scale: 137, by 100 of Natural Intelligence's, 30 of the registry's and 7 of the namings'; and one more of Natural Intelligence's has such a word since, 138. Each is read here whole, by the sequence of `The_Value_Droplets.md`, 110 sentences, and placed by the plan's sections 3 and 4: its home, its place, its fate. Each droplet's number is its number in its section in this branch, from `main` at `f5a5cc8`. This page changes no living file. A first reading decides no droplet's fate: v401mgr's reading is its second.
+**What this page is.** v401mgr's ledger has v401atom as first reader of each droplet of the four gatherings having a word of the non-living scale: 137, by 100 of Natural Intelligence's, 30 of the registry's and 7 of the namings'; and one more of Natural Intelligence's has such a word since, 138. Each is read here whole, by the sequence of `The_Value_Droplets.md`, 110 sentences, and placed by the plan's sections 3 and 4: its home, its place, its fate. Each droplet's number is its number in its section in this branch, from `main` at `7e58838`. This page changes no living file. A first reading decides no droplet's fate: v401mgr's reading is its second.
 
 **How each is placed.**
 
@@ -204,7 +204,7 @@ Incoming · v401atom · each droplet of the non-living scale, placed · 14 Novem
 
 | Its number | Its kind | Its first words | Its fate | Its home | Its step, by the sequence | Read with it |
 |---|---|---|---|---|---|---|
-| 4 | Possible incohering | Floating Neutralling Bi-Coupling Concepts → Universal Sets of Observings, Possiblings and … | *v401mgr's* | Exhibit TWENTY |  | Natural Naming's subtitle |
+| 5 | Possible incohering | Floating Neutralling Bi-Coupling Concepts → Universal Sets of Observings, Possiblings and … | *v401mgr's* | Exhibit TWENTY |  | Natural Naming's subtitle |
 
 ## Exhibit TWENTY Natural Naming · 1.1 A naming is a floating-neutralling concept, four boundings at once
 
