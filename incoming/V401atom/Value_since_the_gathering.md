@@ -615,7 +615,17 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Read with Exhibit ONE's code, each case, as executed before** (`instruments/breaking_check.py`): eight selves along, one between of two given with a fortieth 1 to 17 no more. Each self along before the fracture is with each 1 to 17 as with no fracture. The self along after the fracture is bi-folding with each 1 to 17, all-parity its other, and each self after it is with it. Each of eight selves is with its prior with each 1 to 17. Two co-chainings are with each 1 to 17 after the fracture, and neither is the one of eight.
 - **Read with an executing before it** (`instruments/co_chaining_along_check.py`): the priors along a co-chaining, from its last self to its first, are its first self's priors through that many 1 to 17s. Along a co-chaining is prior moments, one with each self: prior to a fracture, along, is prior with moments, one name with one thing.
 - **v401mgr's laying since the reading before, read**: a moment is two parities, a self first and its other second; 7 is is-not-same-as, and same-existing is 8, the person's sayings there. Whole with a moment as two names, an odd and an even, here.
-- **Asked, and not yet answered**: a fracture is with one between of two atoms.
+- **Asked**: a fracture is with one between of two atoms. **Received as no natural explaining**: *is with one between* says no is of a fracture and no doing of it. The asking is out.
+- **Of the method, with it**: *is with* is v401atom's own connecting of two names, with no saying of what the one is or is doing. The opening's fifty-five sentences have it with no place, and this page has it with 130. From here a sentence of v401atom's replies says a thing's is, or its own doing, by its natural name.
+
+**Going on: a fracture, an atom bump connector displacing across.**
+
+- **The suggestings, re-said, each a thing's is or its doing**: the atom is a bump connector. An atom is one thing, and no smaller thing is from it. With a fracture an atom bump connector is displacing across, and its opening is resolving no same-existing and no next-existing.
+- **Read with the opening**: next-existing is same-existing after now-existing, its sentence 4. Do-no-harming is resolving's is, and improving its is-not, its sentence 34.
+- **Read with Exhibit ONE's code, each case, as executed before** (`instruments/breaking_check.py`): the self along after the fracture is bi-folding with each 1 to 17, all-parity its other: its prior is the other one of two with each, and same-existing with none. By the opening's sentence 4, a self same-existing with no 1 to 17 is next-existing with none. No line of the code has an atom displacing, and across is 6 to 2 and 10 to 14 there.
+- **Whole with what is answered**: an atom has its one 0, with nothing within it, and a shard inward of the atom is not possibly existing, found before.
+- **v401mgr's layings since the reading before, read**: 3 with 4 is as 7 with 8, is-not-same-as and same-existing, answered is there. And 5 is all-parity, the universal set, now and same, co-existing, the person's saying there. Whole here: 5-now-co-existing is the betweens, each an all-parity, answered.
+- **Asked, and not yet answered**: a fracture's opening is harming.
 
 ---
 
