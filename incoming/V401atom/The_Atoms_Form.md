@@ -19,7 +19,7 @@ Incoming · v401atom · the atom's form, as the sequence has it · 14 November 2
 - From the one's centre, its other is in a cone of thirty about the line of the two centres. 113.
 - The two cones face each other on one line, and their sides cross in one circle around the point of the two touching. 114.
 - A parity is an atom's direction to a same atom touching it, by its cone: a bump connector's form. 116.
-- A bump is the place of two atoms touching: the one point of the two, and the circle around it where each one's cone is crossing its other's. 150.
+- A bump is the place of two atoms touching: the one point of the two, and the circle around it, each one's cone crossing its other's in it. 150.
 - A bump is of two atoms, and no atom's own: an atom has a bump by each same atom touching it, twelve the most around one. 151.
 
 ## 3 Its form, by those around it

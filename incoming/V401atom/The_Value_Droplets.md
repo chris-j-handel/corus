@@ -202,8 +202,8 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 147. Each of the two is a self by its own moment: its odd name, its even name, and its next odd name. Its other's 1 is at its 2: the one's even name is its other's own odd name, one name on. Each is a line along by its own names, and its other's line is across from it. [10, 107, 127, 145]
 148. 2 is the first distinguishable from 1: the one and the other, in turn, begin by it. Each 1 is a me-parity, and each 2 an other-than-me-parity: of a bi-coupling's other-than-me self, or of a co-chaining of selves. [10, 49, 147]
 149. A moment's two parities are bothbothing: along by its odd, and across by its even, moment to moment. The betweens, a 0 by each fold, are a geodesic: one line, straight, on the surface. [10, 123, 145]
-150. A bump is the place of two atoms touching: the one point of the two, and the circle around it where each one's cone is crossing its other's. A bump connector is an atom by its bumps. [113, 114, 116]
-151. A bump is of two atoms, and no atom's own. An atom has a bump by each same atom touching it, and no number of bumps of its own: around one, twelve are the most, and on a surface six. [31, 115, 121, 150]
+150. A bump is the place of two atoms touching: the one point of the two, and the circle around it, each one's cone crossing its other's in it. A bump connector is an atom by its bumps. [113, 114, 116]
+151. A bump is of two atoms, and no atom's own. An atom has a bump by each same atom touching it, and its bumps are by no number of its own: around one, twelve are the most, and on a surface six. [31, 115, 121, 150]
 
 ---
 
