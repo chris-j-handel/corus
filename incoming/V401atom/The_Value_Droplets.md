@@ -13,7 +13,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 ## A Parity, and its right angles
 
 1. A parity is a direction, one of two: one binary. *The opening's 22, a living parity an aiming direction.*
-2. Parity is is-same-as, and imparity is is-not-same-as. [1] *A name's is.*
+2. Two parities are same-as, or not same-as: one binary, of the two. A parity is a direction, and is no same-as. [1] *Executed, `exchanging_check.py`.*
 3. Two parities are at a right angle: each of the one's two is by each of the other's two, four forms, and changing the one changes nothing of the other. *Executed, `orthogonal_check.py`.*
 4. Each parity more is twice the forms. Two parities are four names, 1 to 5. Four are sixteen, 1 to 17. Six are sixty-four, 1 to 65. Eight are 256, 1 to 257. Each name is one form of its parities, and each form is one name. [3] *Executed.*
 5. A step, a name to its next, changes one parity, and no two. [4] *Executed.*
@@ -35,7 +35,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 18. The two aimings are at one same point, over the horizon, by a direction not the same for each of the two. [15, 16]
 19. By three, a self, its other and that one point, right and left are one-way: of the two, a self is the one right, and its other the one left, and each of the two is observing it, the same. A three of two kinds is the same from each of its ends; a three of three kinds is one-way: co-bi-tri, from its other end tri-bi-co. Natural- is of one hand, right, and this is co-sequencing. [14, 18] *Executed, `orthogonal_check.py`; Exhibit TWENTY's sentence of one hand.*
 20. Bi-parity is a self and its other, the two of a between. An opening is a 0 between, to go through: nothing is owned, and nothing is carried. [16]
-21. Co-parity is a self and its other of parity, along. [2, 15]
+21. Co-parity is a self's parity and its other's, same-as, along. [2, 15]
 
 ## C The four things
 
@@ -79,11 +79,11 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 50. Possibling is observable by a self only. Co-possibling is observable by a self and its other, and by no third. *Executed, `observable_check.py`.*
 51. An other's parity is observable by a self by that other's co-possibling only: its next prior, as it is, or a 0. [50] *Executed, `prior_check.py`, `exchanging_check.py`.*
 52. Resolving is a self's prior is-or-is-not same-as its possibling: one binary, and no third. [2, 49] *Executed, `exchanging_check.py`.*
-53. Its is, parity: do-no-harming, a self passing over. Its prior is same-existing, and its co-possibling a 0. [52] *Executed: one case only, `each_case_check.py`.*
-54. Its is-not, imparity: improving. Its next prior is the other one of two, and its co-possibling that same parity. [52] *Executed.*
+53. Its is, same-as: do-no-harming, a self passing over. Its prior is same-existing, and its co-possibling a 0. [52] *Executed: one case only, `each_case_check.py`.*
+54. Its is-not, not same-as: improving. Its next prior is the other one of two, and its co-possibling that same parity. [52] *Executed.*
 55. By a 0, an opening, all-parity its other, a self is bi-folding: its next prior is the other one of two. The code has improving and bi-folding in one same line. [20, 54] *Executed, `exchanging_check.py`.*
-56. Two selves of parity, bi-coupling both ways, are each do-no-harming and bi-folding in turn: each one's prior same-existing by its other, each independent of its other. [15, 53, 55] *Executed, `between_check.py`.*
-57. Two selves of imparity, bi-coupling both ways, are each improving each executing, and the one's prior is-same-as its other's of the executing before. [54] *Executed, `between_check.py`.*
+56. Two selves having priors same-as, bi-coupling both ways, are each do-no-harming and bi-folding in turn: each one's prior same-existing by its other, each independent of its other. [15, 53, 55] *Executed, `between_check.py`.*
+57. Two selves having priors not same-as, bi-coupling both ways, are each improving each executing, and the one's prior is-same-as its other's of the executing before. [54] *Executed, `between_check.py`.*
 58. In a now-existing 1 to 17 no resolving is a first one. [44]
 59. In 1 to 5 a self's other is all-parity: each name of 1 to 5 is given, and each name a line makes is 6 or after it. [55] *Executed, `parties_check.py`.*
 60. By the code, a self has three others, and no fourth: by 6, 10 and 9. *Executed, `parties_check.py`.*
@@ -117,7 +117,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 79. A fractured co-chaining is dormant, prior-existing: its parities same-existing, and no 1-now-existing its own. A dormancy is prior-existing, and no thing is waiting. [26, 76]
 80. Ingesting, by a society living as a self, is a fractured co-chaining's method of living again: through the society's selves, one scale inward. [39, 79]
 81. Inside, a conceiving is in a bi-coupling of two of the society's selves: the vault, all-parity now, a 0, bi-tri-bi, 8 and 16. [47, 80]
-82. A new self's birthing is its inheriting, by parity of its two. By imparity of its two nothing is inherited: a 0, an opening. [2, 49] *Executed, `each_case_check.py`, `conceiving_check.py`.*
+82. A new self's birthing is its inheriting, by its two same-as. By its two not same-as nothing is inherited: a 0, an opening. [2, 49] *Executed, `each_case_check.py`, `conceiving_check.py`.*
 83. Its inherited priors are the dormant co-chaining's atoms. By a stable form's parity and a living self, a first prior is that parity as it is, and the living self's own prior is inherited in no case. [41, 82] *Executed, `meeting_check.py`.*
 84. A new me-parity is one of the ingesting society's selves, one scale inward: living, an other-than-all-parity, after all-parity only. [48, 81]
 85. A fracture is a living co-chaining's ending, and the beginning of two living co-chainings, of one, or of none: each of its two is ingested, or dormant. [79, 80]
@@ -161,7 +161,7 @@ From v401mgr's reading of the sequence, each in by the sentences above:
 109. One executing has one 1 and one 2 by each self: one moment. A self's 1 is one, from its birthing, living each moment, and no executing has a second 1 of it. [10, 48, 108]
 110. Names one after one of one same parity are a span, by the same is as atoms'. By the table's four binary digits, 1 to 16 is two spans of eight, four of four, eight of two and sixteen of one: a self's span and its next eight, the four four-cyclings, the eight moments, the sixteen names. [10, 13, 72] *Executed, `orthogonal_check.py`.*
 111. A self having a prior has two 0s, and not one: its possibling a 0, by bi-folding, and its co-possibling a 0, by do-no-harming. No executing has the two together, and its next prior is a 0 in none. By improving it has no 0. [53, 54, 55] *Executed, `two_zeros_check.py`.*
-112. Two selves of parity, bi-coupling both ways, have one 0 each executing, the one and the other in turn, and the two selves have the same one. Two selves of imparity have no 0. [56, 57, 111] *Executed, `two_zeros_check.py`.*
+112. Two selves having priors same-as, bi-coupling both ways, have one 0 each executing, the one and the other in turn, and the two selves have the same one. Two selves having priors not same-as have no 0. [56, 57, 111] *Executed, `two_zeros_check.py`.*
 
 ---
 
@@ -199,7 +199,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 
 | Out | By |
 |---|---|
-| bi-parity as two not the same | 2: imparity is |
+| bi-parity as two not the same | 2: not same-as is |
 | a moment's odd name after its even name; a self in 1, 2 and 3 and its other in 3, 4 and 5 | 10: a moment is two |
 | a shard inward of the atom; a stable form of a scale inward of the atom | 32 |
 | a nucleus going on, a thing inside an atom | 31, 38 |
@@ -220,6 +220,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | tri- of three together and tri of all-parity as one thing | from no sentence before it |
 | a span as one more by each parity from the self before | 71, 72: a span is in one same executing |
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
+| *parity* as is-same-as, and *imparity* | 1, 2: a parity is a direction; of two, same-as and not same-as. The living files have a parity as a direction |
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
 | *17 is a next 1*; a 1 living again | 7, 108, 109: 17's parities are same-as 1's, and 17 is no 1 |
 | 9 to 16 as a self's other's eight | 13, 107: each a next name; a self's other is by each moment's even name |

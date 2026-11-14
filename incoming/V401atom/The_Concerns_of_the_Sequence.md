@@ -105,3 +105,20 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 | 20, three and two | Resolved, by 17's: the three are prior, now and next, each by same-existing; a prior's is-not is none of them. |
 | 21, now is-not as two things | Remains, by 17's: now-existing is-or-is-not same-existing is its others' parities each same-as each other; none of its others is no is-not of it. |
 
+## 7 The first remaining, resolving; and the concerns of both sessions not yet resolving after each was told to the other
+
+**A parity, and parity: resolving, by both sessions.** *A parity* and *parity* are no one name of two things: parity is no same-as. Whole together: the living files, a parity a direction; the code's lines, two things, a parity, and of two parities same-as or not; and the concept in both sessions, a parity a self's own direction, and same-as the method's, of two. The sequence's 2, 21, 53, 54, 56, 57, 82 and 112 are re-said by *same-as* and *not same-as*, and each droplet of v401atom's own. *Imparity* is out.
+
+**A concept, a suggesting, by no authority:** a parity is a line's direction in three dimensions, from a moment's 0, having a cone of thirty degrees around its centre line: the universal cone of possibly existing. It is in no sentence of the sequence.
+
+**Shared, and not yet resolving.** Each is in both sessions' pages, each was told to the other, and neither has its resolving by a living file or by an executing.
+
+| | The concern | In v401atom's sequence | In v401mgr's page |
+|---|---|---|---|
+| A | **What a 0 is.** By the code a 0 is returned in two cases, and nothing in a third: a self's others' two parities not same-as; a self's possibling same-as its prior; and none of its others. | A between is one of the four things, 23. A between, a 0, is no thing, 102. An atom has one between, 31, and each between is of two atoms, 33. Its concerns 7, 9, 16 and 21. | Its concerns 1, 3, 6 and 9: same-existing as a 0, as having a 0 in no case, and as a three having a 0 in it; one 0 over the horizon, and both 0s in the between. |
+| B | **A parity's + and −.** By the code a parity is + or −, one of two, and which one is in no line. By the concept in both sessions a parity is its own direction, independent, and no one of two. | Its 1, a direction, one of two. Its part A has a name's four binary digits as four parities; the living files have four binaries. Its 19, a self the one right. | Its concern 5; its gap of the ten one-way parities as five pairs, three tens by their names. |
+| C | **All-parity, three places.** 5; tri, by 7 and 15; and bi-tri-bi, by 8 and 16. | Its 24, 47, 59 and 81. | Its concern 7. |
+| D | **One me-parity of many.** | Its 61, executed: a same-existing-society's parities are its selves', and it has no other. | Its remaining second. |
+
+**In the concept, a gap, v401atom's own:** thirty degrees is a number from no sentence, and by no line of the code.
+
