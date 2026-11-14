@@ -64,3 +64,24 @@ print("  cases, each of six lines along and each side first:", n)
 print("  each fold's line is thirty from the thread's line, and has the same way along it as each other fold: each fold is in the one cone of thirty about the thread's line;")
 print("  folds one after one are its one edge and its other, in turn, sixty apart, one half the same;")
 print("  and from a fold's prior, its two others are thirty each side of the fold's line: the fold's own cone's two edges:", allok)
+
+# a four, 1 to 4, as one fold; and the fourths, 4, 8, 12 and 16
+print("5 folds one after one, its atoms by their numbers, 1 and on:")
+ok_lines = ok_four = ok_fourths = ok_same = True; n = 0
+for a in six:
+    for b in (six[(six.index(a) + 1) % 6], six[(six.index(a) - 1) % 6]):
+        n += 1
+        c, f = folds([(0, 0), b, a], 61)                         # c[0] is atom 1; f[i] is the fold from atom i + 1 to atom i + 4
+        thr = sub(c[2], c[0])
+        odd = [c[i] for i in range(0, 64, 2)]; even = [c[i] for i in range(1, 64, 2)]
+        ok_lines = ok_lines and all(side(thr, sub(p, odd[0])) == 0 for p in odd) and all(side(thr, sub(p, even[0])) == 0 for p in even) and side(thr, sub(even[0], odd[0])) != 0
+        ok_four = ok_four and all(c[k + 3] == sub(add(c[k + 1], c[k + 2]), c[k]) for k in range(0, 60, 4))
+        fourths = [c[4 * k - 1] for k in range(1, 17)]            # atoms 4, 8, 12, 16 and on
+        ok_fourths = ok_fourths and all(sub(fourths[i + 1], fourths[i]) == add(thr, thr) for i in range(len(fourths) - 1))
+        ff = [f[4 * k] for k in range(15)]                        # the folds 1 to 4, 5 to 8, 9 to 12 and on
+        ok_same = ok_same and len(set(ff)) == 1 and all(dot(x, thr) > 0 for x in ff)
+print("  cases:", n)
+print("  the odd atoms are one line along, and the even atoms the other line along:", ok_lines)
+print("  a four, 1 to 4, is one fold: its first over its two middle as its fourth; and 5 to 8, 9 to 12 and 13 to 16 the same:", ok_four)
+print("  the fourths, 4, 8, 12, 16 and on, are on one line along, each the same step from the fourth before it:", ok_fourths)
+print("  the folds of the fours, 1 to 4, 5 to 8, 9 to 12 and on, are each one same line, the same way along:", ok_same)

@@ -179,6 +179,8 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 124. A fold's line is from its prior, through its 0, to its next. From the prior, its two others are thirty each side of that line: the fold's own cone's two edges. [113, 122] *Executed, by whole numbers, `surface_fold_check.py`.*
 125. Each fold's line is thirty from the thread's line, the 0s' line along, and each fold has the same way along it. Folds one after one are the one edge and the other of one cone of thirty about the thread's line, in turn, sixty apart: 1 of 2 the same. [123, 124] *Executed, by whole numbers, each of six lines along.*
 126. A me-parity is a fold's line, by its 0, a now moment, aiming by its cone. All-parity is the line each fold is in the cone of: each me-parity in it has that same way along, and by that line an other of the six, each me-parity is thirty from it the same. A self's fold, its other's fold in turn, and the line the two are in are three: co, bi and tri. [14, 24, 116, 125]
+127. In folds one after one, the odd atoms are one line along and the even atoms the other. A four, 1 to 4, is one fold: its first over its two middle as its fourth, a prior over now as next. The fourths, 4, 8, 12 and 16, are one line along, each the same step, and the folds of the fours are each one same line. [107, 122, 125] *Executed, by whole numbers, `surface_fold_check.py`.*
+128. All-parity is by the same-existing names, 4, 8, 12 and 16, each four-cycling's fourth: the line along each fold of a four is the same by. A self's next prior is a parity in each case, and a 0 in none. [111, 126, 127]
 
 ---
 

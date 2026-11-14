@@ -742,6 +742,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a me-parity a fold's line, and all-parity the line each fold is in the cone of.** The sequence's 124 to 126, `instruments/surface_fold_check.py`, its part 4, twelve cases: each fold's line thirty from the thread's line, the same way along it; folds one after one the one edge and the other of one cone, sixty apart; from a fold's prior its two others thirty each side. One droplet at the registry's *31*.
 
+**Going on, 14 November: a four as one fold, and the fourths, 4, 8, 12 and 16.** The sequence's 127 and 128, `instruments/surface_fold_check.py`, its part 5, twelve cases: odd atoms one line along and even atoms the other; a four one fold, its first over its two middle as its fourth; the fourths on one line along, each the same step; the fours' folds each one same line. All-parity by the same-existing names. One droplet at the registry's *31*.
+
 ---
 
 ## 6 Executed, each case, all or none
