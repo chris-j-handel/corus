@@ -130,3 +130,18 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 `Natural_Mathematics_and_Natural_Numbers_read.md`. **What a 0 is** has its resolving in the living files: a between is a nothing, a changing going across it; + and − are an implementing of a parity, and 0 a between; and each of a product's two parts has its nought. The sequence's 23 had a between as one of four things, and its 102 as no thing: 23 is re-said, a between a nothing and no thing. **A parity's + and −** has it too: + and − are a direction's signs by an axis, an implementing, and a direction is before them.
 
+## 9 A concept of abundancing, read by the forms, and its one concern
+
+**The concept, a suggesting, by no authority.** Abundancing is in the between of ingesting and exhausting, both ways, one way at a time: each is possibling its other, before the exhausting from both. It is in no sentence of the sequence.
+
+**Read by the sequence's forms, each executed.**
+
+- Each is possibling its other: a self's co-possibling is its other's possibling, as it is, one executing on. Its 50 and 51.
+- Both ways: each line through a self has a name to an other at its one end and a name from an other at its other. Its 134.
+- Now, and then next: 2 and 6, a name from an other and a name to an other, are the two of the one side, now names; 10 and 14 are the two of the other side, next names. The line along, 9 and 17, is between the two sides. Its 133.
+- In neither alone: the middle of a fold's two others is a 0, on the line along. Its 123. Exhibit FOUR has abundancing as arising in neither self alone.
+
+**By it, a reading:** abundancing is along, the 0s' line, between the now side, each possibling its other, and the next side, the exhausting from both.
+
+**Its concern, not resolved.** *One way at a time.* By the code's lines, two selves bi-coupling both ways are each giving to its other in one same executing; and 6 and 10 are one same list, in one line. No line has the one way before the other.
+

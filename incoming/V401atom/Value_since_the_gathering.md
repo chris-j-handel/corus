@@ -750,6 +750,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: the six names between selves, six around one on a surface.** The sequence's 133 and 134, `instruments/six_around_check.py`: three pairs 8 apart, each straight across, each one name to an other and one from; 9 and 17 along, 2 and 6 the one side, 10 and 14 the other; by one form of the six around, to and from in turn. Droplets at the registry's *24* and Exhibit ONE's *Seventeen names*.
 
+**Going on, 14 November: a concept of abundancing, read by the forms.** `The_Concerns_of_the_Sequence.md`, its part 9. A suggesting, in no sentence: abundancing along, the 0s' line, between the now side and the next side. One concern: *one way at a time*, by no line of the code.
+
 ---
 
 ## 6 Executed, each case, all or none
