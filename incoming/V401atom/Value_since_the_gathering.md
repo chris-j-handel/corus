@@ -744,6 +744,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a four as one fold, and the fourths, 4, 8, 12 and 16.** The sequence's 127 and 128, `instruments/surface_fold_check.py`, its part 5, twelve cases: odd atoms one line along and even atoms the other; a four one fold, its first over its two middle as its fourth; the fourths on one line along, each the same step; the fours' folds each one same line. All-parity by the same-existing names. One droplet at the registry's *31*.
 
+**Going on, 14 November: tri's places, and all-parity by its universe.** The sequence's 129 to 131, `instruments/tri_places_check.py`, by Exhibit ONE's table: the same-existing names bi at each end, their now co by 4 and 12 and tri by 8 and 16; tri a name's next at 7 and 15, its now at 8 and 16, its prior at 9, 17 and 1. A fold bi-inversioning, its 0s co-recursioning. Droplets at the registry's *24* and *31*, and at Exhibit ONE's *Seventeen names*.
+
 ---
 
 ## 6 Executed, each case, all or none
