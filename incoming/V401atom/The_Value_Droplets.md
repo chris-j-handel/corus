@@ -208,6 +208,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 153. A dormancy has its bi-folding same-existing in its stable form: each fold's form is in the co-chaining of its atoms touching, through the dormancy. [79, 101, 117]
 154. Living begins again from a dormancy by all-parity's alternating, the living conditions around it, resonating with the prior-and-same-existing forms of healthy living inside the dormant co-chaining. No more is needed. [66, 94, 153]
 155. Resonating is all-parity's alternating and a dormant co-chaining's own sequence being same-as, one by one: co-sequential resolving and orienting. It is at the primes: each prime an orthogonalizing, a clean line across. [66, 135, 154] *Exhibit THREE's sentence of a prime; Exhibit FOUR's of orthogonalizing.*
+156. A me-parity's birthing is inside a bi-folding, between its prior and its next: a new 0, the middle of its three others, and no 0 before it. It has a prior-existing me-parity, the fold's line from its prior; and a prior-existing all-parity, the ring of its three others, the rings one after one, spiraling, in the co-chaining. [48, 117, 119, 123, 126, 142]
 
 ---
 
@@ -271,6 +272,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
 | 8 apart as straight across; now and next as the two sides across; to and from in turn around | 133, 134: now and next are two alongs, and the two sides a self's and its other's |
 | ingesting and inheriting as one thing, parted by a self having a prior or none only | 142: a stable form as all-parity, and as a me-parity |
+| a birthing as a fold's next | 156: a new 0, inside the fold, between its prior and its next |
 | a dormancy as having a fold's line through none of its 0s | 153: its bi-folding is same-existing in its stable form |
 | a non-living thing as momentarying | 141: momentarying is a living self's, and an atom its stable form |
 | a society as a stable form; a society's one me-parity, a thing beside its selves' | 132: its selves, each stable-forming, in one all-parity |
