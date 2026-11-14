@@ -772,6 +772,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a cycling by its ending; five the centre.** The sequence's 143 and 144, at the registry's *Opening*. A concept of the hole in 5, 10 and 15, and the primes 11, 29 and 47, each eighteen from its next: `The_Concerns_of_the_Sequence.md`, its part 14, in no sentence.
 
+**Going on, 14 November: an along a line, an across a plane.** The sequence's 145, at the registry's *Opening*. A concern by it, of all-parity as a line along and as a plane across: `The_Concerns_of_the_Sequence.md`, its part 15.
+
 ---
 
 ## 6 Executed, each case, all or none

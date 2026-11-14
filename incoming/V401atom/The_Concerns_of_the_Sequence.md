@@ -195,3 +195,9 @@ v401atom laid the concerns above having read neither for them. Read now. A conce
 
 **By natural numbers, an identity.** The primes by the names 5, 10 and 15 are 11, 29 and 47: each eighteen from its next. 29 is the middle of 11 and 47, as 10 is of 5 and 15: three on one line, by their names and by their primes. Of the seventeen names, the threes the same step apart having primes the same step apart are: (2, 3, 4), (2, 5, 8), (3, 5, 7), (4, 6, 8), (5, 7, 9), (5, 10, 15), (7, 10, 13), (8, 11, 14), (9, 13, 17), (10, 13, 16), (15, 16, 17).
 
+## 15 An along a line, an across a plane; and a concern of all-parity by it
+
+**In, the sequence's 145.** In three dimensions an along is a line and an across a plane at a right angle to it: each odd name a line along, each even name a plane across, by each scale. By its 117 a fold's line is at a right angle to each line of its three others.
+
+**A concern by it, in the sequence's own sentences, not resolved.** Its 126 has all-parity as the line each fold is in the cone of, along: it is by the fold on a surface, an across a line there. Its 128 has all-parity by the same-existing names, 4, 8, 12 and 16, each an even name: by 145, a plane across. All-parity is a line along, or a plane across.
+
