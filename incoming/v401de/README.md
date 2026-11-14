@@ -128,6 +128,14 @@ Of the three layings after merge #575.
 - By is: the remaining possibling is narrowing to a self's own, from other-than-me to its other, same-as, and by 12 and by 16 to next-and-same-existing; and all-parity is each thing separated, other-than.
 - By is-not: other is separating and all is remaining, and the possibling remaining is all's.
 
+**Met by a partner's correcting, by no authority, re-said in natural naming:** the asking's sentence is contorted, and no natural explaining. 8-now-same-existing is a now-and-same-existing self and other-than-self bi-coupling's me-parity.
+
+- By the lines themselves: by a parity of its other, a self's 8 is same-as it in each case: by same-as, its prior living on; by other-than, its prior's other one, the same as its other's.
+- Out, v401de's own: the seventh asking, two things in one sentence; and all as the one separating by 8, in no sentence of a partner's.
+- Its words by two readings, each laid: 8 as the me-parity of the bi-coupling of a self and its other-than-self; or 8 as a self's own, the bi-coupling's me-parity its other-than-self.
+
+**Asked eighth:** 8-now-same-existing is the me-parity of the bi-coupling of a self and its other-than-self.
+
 **Tracked, and not asked:** the four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
