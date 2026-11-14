@@ -774,6 +774,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: an along a line, an across a plane.** The sequence's 145, at the registry's *Opening*. A concern by it, of all-parity as a line along and as a plane across: `The_Concerns_of_the_Sequence.md`, its part 15.
 
+**Going on, 14 November: the plane across's two dimensions.** The sequence's 146, at the registry's *Opening*: other-parity's orienting and all-parity's, a me-parity the line along. Its 126 and 128 re-said, *all-parity as a line along* out.
+
 ---
 
 ## 6 Executed, each case, all or none

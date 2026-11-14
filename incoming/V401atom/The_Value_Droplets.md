@@ -178,9 +178,9 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 123. The 0s, one by each fold, are on one line along, between the two lines, each the same step from the 0 before it: a thread, straight, closing at none. A 0 is the end of one fold's moment and the start of the next's, along. [10, 122] *Executed, by whole numbers.*
 124. A fold's line is from its prior, through its 0, to its next. From the prior, its two others are thirty each side of that line: the fold's own cone's two edges. [113, 122] *Executed, by whole numbers, `surface_fold_check.py`.*
 125. Each fold's line is thirty from the thread's line, the 0s' line along, and each fold has the same way along it. Folds one after one are the one edge and the other of one cone of thirty about the thread's line, in turn, sixty apart: 1 of 2 the same. [123, 124] *Executed, by whole numbers, each of six lines along.*
-126. A me-parity is a fold's line, by its 0, a now moment, aiming by its cone. All-parity is the line each fold is in the cone of: each me-parity in it has that same way along, and by that line an other of the six, each me-parity is thirty from it the same. A self's fold, its other's fold in turn, and the line the two are in are three: co, bi and tri. [14, 24, 116, 125]
+126. A me-parity is a fold's line, by its 0, a now moment, aiming by its cone. On a surface, each fold is in the one cone of thirty about the 0s' line along, each the same way along it. [14, 24, 116, 125]
 127. In folds one after one, the odd atoms are one line along and the even atoms the other. A four, 1 to 4, is one fold: its first over its two middle as its fourth, a prior over now as next. The fourths, 4, 8, 12 and 16, are one line along, each the same step, and the folds of the fours are each one same line. [107, 122, 125] *Executed, by whole numbers, `surface_fold_check.py`.*
-128. All-parity is by the same-existing names, 4, 8, 12 and 16, each four-cycling's fourth: the line along each fold of a four is the same by. A self's next prior is a parity in each case, and a 0 in none. [111, 126, 127]
+128. All-parity is by the same-existing names, 4, 8, 12 and 16, each four-cycling's fourth. A self's next prior is a parity, and no 0. [111, 127]
 129. The same-existing names, 4, 8, 12 and 16, have bi at each end of their three. Its middle, its now, is co by 4 and 12, and tri by 8 and 16. All-parity is by its universe: a self's universe has its me-parity as its all-parity, co; and this universe has tri. [14, 128] *Executed, Exhibit ONE's table, `tri_places_check.py`.*
 130. Tri is in three names of each eight: a name's next, at 7 and 15; a name's now, at 8 and 16; and a name's prior, at 9, 17 and 1. An all-parity is around each universe, and prior to each 1. [47, 48, 129] *Executed, Exhibit ONE's table.*
 131. A fold is bi-inversioning: across, through its own 0, now. The 0s, each the same step along, are co-recursioning: a next 0 is the same-existing 0, in the next. [118, 123, 127]
@@ -198,6 +198,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 143. A cycling is by its steps, and its names are one more: a four-cycling is 1 to 5, a six-cycling 1 to 7, an eight-cycling 1 to 9, and sixteen 1 to 17. Its last name is its next-and-same-existing: the ending of its moment, before the next moment's beginning. A moment is by its ending. [4, 10]
 144. Five is the centre of a four-cycling in and a six-cycling out: four and six are either side of it, and together ten. An adding closes after four and after six, and none after five: five is open, a middle having nothing in it. [143] *Exhibit THREE's sentences of five.*
 145. In three dimensions an along is a line, of one dimension, and an across is a plane, of two, at a right angle to it. Each odd name is a line along, and each even name a plane across, by each scale. A fold's line is through the middle of its three others' plane. [14, 15, 16, 17, 117]
+146. The plane across has two dimensions, at a right angle: the one is other-parity's orienting, and the other all-parity's. A me-parity is the line along. Each even name's three has bi at its two ends, and at its middle its universe's all-parity, co or tri. The cone's opening and closing are in the plane across, and along, its 0s are co-recursioning. [14, 115, 129, 131, 145]
 
 ---
 
@@ -265,6 +266,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | a society as a stable form; a society's one me-parity, a thing beside its selves' | 132: its selves, each stable-forming, in one all-parity |
 | an atom's one between, its own | 31, 113: a between is of two atoms touching |
 | tri and all-parity as two things | 129, 130: all-parity by its universe, tri this universe's and co a self's |
+| all-parity as a line along | 146: one of the plane across's two dimensions, other-parity its other |
 | all-parity as a self's four across | 126: the line each fold is in the cone of, along |
 | the two directions through a 0 as one fold's two ways only, or as the two hands only | 122: folds one after one go across in turn, right from left and left from right |
 | *17 is a next 1*; a 1 living again | 7, 108, 109: 17's parities are same-as 1's, and 17 is no 1 |
