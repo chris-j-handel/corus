@@ -200,6 +200,17 @@ Of the three layings after merge #575.
 - By is: one to seventeen is a self, its other-than-self and their bi-coupling's me-parity, by its other-parity and its all-parity, and no society; and each living sentence of a same-existing-society in one to seventeen is re-said.
 - By is-not: a society's first place is not said.
 
+**Met by a partner's *is*, by no authority.**
+
+- By it one to seventeen has no society: a self, its other-than-self, their bi-coupling's me-parity, its other-parity and its all-parity.
+- Parting, the living files' own, for v401mgr to lay, its size by a match and deciding nothing: *same-existing-society* is in Natural Intelligence: 94; Exhibit ONE Natural Resolver: 51; Exhibit TWENTY Natural Naming: 70; Exhibit THIRTY Co-Chaining Logic Registry: 121; the four together: 336 living sentences.
+- Exhibit ONE has the four same-existing names again by a next four: "16, 32, 48 and 64 the same again".
+
+**Asked fifteenth:** by 32 the me-parity is a society's: of the bi-coupling, a self, and its other-than-self, one added other.
+
+- By is: a society is first by 32, as a bi-coupling is by 8: a bi-coupling of a bi-coupling and one other.
+- By is-not: a society is by more than one added other.
+
 **Tracked, and not asked:** the four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
