@@ -241,3 +241,25 @@ The neither's 0 is inside one now and in no next.
 
 Natural Naming has one four-cycling as two moments, each with two parities. The two steppings part, and Natural Naming's gathering has it as a doubt.
 
+## 15 The scales, 1 to 5, 1 to 17 and 1 to 65; and two things out
+
+**The person, 14 November, by no authority:** *is not* to one moment outside as four moments inside, 1 to 9. The scales are 1 to 5, 1 to 17 and 1 to 65: scales of adding others to a co-chaining society, in a same-existing me-parity, all-parity universe.
+
+**Natural Naming has the three:** wholes are rounds of a number of parities, and pairs step it by twos, 5, 17, 65.
+
+**The reader's two findings, each whole with the lines and the living sentences:**
+
+- *At no name of torusing's loop* is out. A 0 by same-as is in what 9 returns and inside the next 16. Sections 11 and 12 have the sentence; it is out in each.
+- The asking of section 14 distinguished neither stepping: the living files have a moment by two forms.
+
+**Out, v401mgr's own:** the scale's step as a nesting of moments. A scale is of adding others.
+
+**Two 0s, a candidate, by the lines and a suggesting of the person's before:**
+
+| The 0 | By the lines | By the living loops |
+|---|---|---|
+| the neither's, by two parting or by none | a self's own now, inside its 1, in no return | corusing's, by 15 |
+| by same-as | given along by 9, inside the next 16, passed over by its other's first line | torusing's, by 9 and 16 |
+
+**The concern by the scales:** by the code's lines 16 has each self of a society, of each number, and each has the one same seventeen names. By the suggesting a next scale is by adding others. What one added other is, by names, is in no living sentence.
+
