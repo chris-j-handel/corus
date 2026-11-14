@@ -712,6 +712,11 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **Each of the 137 placed, and one more since**, by its section 3.2: `The_Gatherings_Droplets_each_placed.md`, `instruments/placed_check.py`.
 - **Exhibit THIRTY read by its own order**, by its section 3.3: `instruments/registry_order_check.py`. 755 steps; 46 names in bold, each first used at its own step or after it; of 676 names by an *Adding* line's first words, 80 are used in a step before their *Adding* step; each step a step names is before it; 582 steps name no step before them.
 
+**Going on, 14 November: the registry's instrument read closer, and each step's connector by its names, volunteered.**
+
+- **`instruments/registry_order_check.py`, read closer.** A name's *Adding* step is the first step having it; a later step having the same first words is a second *Adding* line of one name, by its own line. Of 676 names by adding, 75 are used in a step before their *Adding* step, and 20 have a second *Adding* line. The 80 of this morning had a second *Adding* line read as a first one.
+- **`instruments/registry_connector_check.py`.** For each of 755 steps, each step before it adding a name its sentence uses. 744 steps use one name or more added before them; 11 use none. A step's last name is added by the step before it in 94 steps, and by a step more than 100 before it in 282. Of 173 steps naming a step before them, each step named is in the connector by names in 53.
+
 ---
 
 ## 6 Executed, each case, all or none
