@@ -87,3 +87,20 @@ for pri in itertools.product((1, -1), repeat=N):
             ok6 = ok6 and all(after[k] == one16[k] for k in after)
 print("6  the co-chaining along after a fracture, given as its own 16-next-same-existing, apart from the one before it: each self of it")
 print("   is as within the one 16, each 1 to 17, each case: after a fracture no line of the code has the two co-chainings in one now:", ok6)
+
+# 7: the code's state of an empty prior, inside and outside. Two living selves with one between, each of four cases of their
+# priors, and a stable form's parity given, + or -. Inside: the stable form's parity and one living self's 10 are its
+# possibling. Outside: no between has it, and nothing is its possibling.
+ok7a = ok7b = True
+for pa, pb in itertools.product((1, -1), repeat=2):
+    for f in (1, -1):
+        soc = {"a": ([(S, pa)], [(S, f)]), "b": ([(S, pb)], []), "inside": ([], [(S, f)]), "outside": ([], [])}
+        net = {("a", 10): "b", ("b", 10): "a", ("a", 6): "inside"}
+        for t in range(16):
+            soc["a"] = (soc["a"][0], soc["a"][1] + [(S, f)])
+            soc["inside"] = (soc["inside"][0], soc["inside"][1] + [(S, f)])
+            soc = step(soc, net)
+            ok7b = ok7b and soc["outside"] == ([], [])
+        ok7a = ok7a and dict(soc["inside"][0]).get(S) in (1, -1)
+print("7  the code's state of an empty prior, each of eight cases: inside, a stable form's parity and a living self's 10 its possibling, it has a prior;")
+print("   outside, no between having it, it has no prior and no possibling, each 1 to 17:", ok7a and ok7b)

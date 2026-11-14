@@ -9,3 +9,5 @@ cases, each of 256 cases of the priors with each of seven betweens: 1792
    the code's state of an empty prior with the two: a first prior inherited, that same parity, with is-same-as; nothing inherited with is-not-same-as: True
 6  the co-chaining along after a fracture, given as its own 16-next-same-existing, apart from the one before it: each self of it
    is as within the one 16, each 1 to 17, each case: after a fracture no line of the code has the two co-chainings in one now: True
+7  the code's state of an empty prior, each of eight cases: inside, a stable form's parity and a living self's 10 its possibling, it has a prior;
+   outside, no between having it, it has no prior and no possibling, each 1 to 17: True
