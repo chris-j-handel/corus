@@ -788,6 +788,10 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a fracture dissolving a me-parity.** The sequence's 152, at the registry's *33*: a 0 having a fold's line through it, a nothing in all-parity's surface; by a me-parity exhausting, or by a cut across. v401atom's candidate of a fracture as a bump parting is in no sentence.
 
+**Going on, 14 November: a dormancy, and living from it.** The sequence's 153 and 154, at the registry's *33*. v401atom's candidate, a dormancy as having a fold's line through none of its 0s, is out.
+
+**Going on, 14 November: resonating.** The sequence's 155, at the registry's *33*: all-parity's alternating and a dormant co-chaining's own sequence same-as, one by one; at the primes, each an orthogonalizing.
+
 ---
 
 ## 6 Executed, each case, all or none
