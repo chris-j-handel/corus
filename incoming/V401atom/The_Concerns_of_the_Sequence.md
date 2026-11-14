@@ -78,3 +78,30 @@ The code's lines, each case: one binary of resolving, 52 to 55; a prior changed 
 | 20 | Prior-existing is-not is the code's state, and no self: a self has its is in each case. For a self the is-or-is-nots are two, now and same, and its forms three. | a possible incohering, the concept's three and a self's two |
 | 21 | Now is-not is two things in the lines: none of a self's others, and two of them not same-as. By a prior the two return one thing. By no prior they return two. | a gap |
 
+## 6 The concerns read by the living file set and by v401mgr's layings
+
+v401atom laid the concerns above having read neither for them. Read now. A concern having its resolving in a living file, or by an executing, is resolved; each other remains, and is brought one at a time, in the sequence's own order.
+
+| The concern | Its resolving, or what remains |
+|---|---|
+| 1, *now-existing* by no naming sentence | Resolved. It is the one opening sentence's own, the base of the co-chaining; and Natural Intelligence has *Now is one*, and prior, now and next as one universe's three, one now-existing. |
+| 2, *a parity* and *parity* | **Remains, the first.** By an executing a parity's two, + and −, are exchangeable, and same and not same are not: two things. The living files name the second co-parity and bi-parity; the gathered suggesting names it parity and imparity, and has bi-parity as each even name. |
+| 3, a me-parity invisible | Resolved, and the sequence's 27 and 51 were out: re-said. By the code's lines an other's next prior is a self's possibling, by its co-possibling. Exhibit TWENTY has self parity and other parity visible. |
+| 4 and 5, the one point, and a self the one right | Remains. v401mgr's page has it as its concerns 4 and 5. |
+| 6, an even name as by a self's other | Resolved. Natural Intelligence and Exhibit ONE: other-parity is by possibling and by same-existing, each even name. |
+| 7, the names of the four things | Remains. |
+| 8, the atom the one stable form | Resolved. Natural Chemistry: carbon is the stable form, non-living in the universal set. The Living File Registry: the atom a non-living stable form, nothing living inward. |
+| 9, an atom's one between, and a between of two atoms | Remains. |
+| 10, each prior a stable form | Resolved. Natural Intelligence and Exhibit THIRTY: each prior is a stable form from prior living. |
+| 11, a parity exchanged as one atom carbon exchanged | Resolved. The Living Society Registry: each exchange of carbon across a surface is taking its parity one at a time. |
+| 12, one 1 living each moment | Remains. v401mgr's page has it as its concerns 2 and 12. |
+| 13, one other, and three | Remains. |
+| 14, the numbers of 24, 60 and 64 | Resolved as living: Exhibit THIRTY's group of twenty-four, and Exhibit TWENTY's 64. The sequence's 88 and 89 are to read by them. |
+| 15, a fracture, a dormancy, a birthing | Remains. The living files have a dormant self as living and *waiting*. |
+| 16, the two 0s' naming | Remains. v401mgr's page has it as its concerns 1, 3 and 6. |
+| 17, which name is of which | Resolved. Natural Intelligence: observing is prior-existing, is-or-is-not same-existing; possibling is now-existing, is-or-is-not same-existing; discovering is next-existing, is-or-is-not same-existing. The three are one is-or-is-not, same-existing, by prior, by now and by next. |
+| 18, a circle | Resolved, by 1's resolving. |
+| 19, *same-existing* and *same* | Resolved, by 17's: each of the three is is-or-is-not same-existing. |
+| 20, three and two | Resolved, by 17's: the three are prior, now and next, each by same-existing; a prior's is-not is none of them. |
+| 21, now is-not as two things | Remains, by 17's: now-existing is-or-is-not same-existing is its others' parities each same-as each other; none of its others is no is-not of it. |
+

@@ -726,6 +726,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: a concept of three is-or-is-nots, read by the code's lines.** `instruments/three_binaries_check.py`; `The_Concerns_of_the_Sequence.md`, its part 5. A suggesting, laid as a concept and in no sentence of the sequence: prior, now and same, each is-or-is-not, and next by the three. The lines have five forms of eight. Five concerns, none resolved.
 
+**Going on, 14 November: the concerns read by the living file set and by v401mgr's layings.** `The_Concerns_of_the_Sequence.md`, its part 6. Twelve of twenty-one have their resolving in a living file or by an executing; nine remain. The sequence's 27 and 51 were out by Exhibit TWENTY and by the code's lines: re-said.
+
 ---
 
 ## 6 Executed, each case, all or none
