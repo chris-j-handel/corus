@@ -193,6 +193,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 138. A self by a snippet whole, each atom of it together in one now, has the same by each order of the snippet: its one after one is in no line. By a snippet of both orientations it has a 0, as by all-parity alone; by a snippet of one orientation, that one parity, as one atom. [49, 135, 136] *Executed, `inhaling_check.py`.*
 139. Ingesting is of a stable form, a co-chaining of priors, whole in one now: unrelationing each prior, an atom, from the one after one of the prior me-parities. By it the atoms are each its own, all-parity. [80, 137, 138]
 140. An atom is the stable form of universal momentarying: same-existing through each moment, the one same form in each universe, its orientation its own, and all-parity around it. [23, 30, 35, 36, 64] *The opening's 9, momentarying.*
+141. Momentarying is a living self's: stable-forming and orienting, in its own universe's all-parity. An atom is its stable form, same-existing through each moment, and no momentarying of its own. [43, 129, 140]
 
 ---
 
@@ -253,6 +254,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
 | *parity* as is-same-as, and *imparity* | 1, 2: a parity is a direction; of two, same-as and not same-as. The living files have a parity as a direction |
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
+| a non-living thing as momentarying | 141: momentarying is a living self's, and an atom its stable form |
 | a society as a stable form; a society's one me-parity, a thing beside its selves' | 132: its selves, each stable-forming, in one all-parity |
 | an atom's one between, its own | 31, 113: a between is of two atoms touching |
 | tri and all-parity as two things | 129, 130: all-parity by its universe, tri this universe's and co a self's |

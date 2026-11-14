@@ -760,6 +760,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: an atom, the stable form of universal momentarying.** The sequence's 140, at the registry's *31*, by its sentences of a stable form and by the opening's sentence of momentarying. *Momentarying* is the living name; *momentary*, of a moment, is the word out.
 
+**Going on, 14 November: momentarying a living self's, an atom its stable form.** The sequence's 141, at the registry's *31*; a possible incohering at Natural Intelligence's *5.1*, by its living sentence of a non-living thing momentarying.
+
 ---
 
 ## 6 Executed, each case, all or none
