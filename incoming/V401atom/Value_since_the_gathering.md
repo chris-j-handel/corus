@@ -776,6 +776,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: the plane across's two dimensions.** The sequence's 146, at the registry's *Opening*: other-parity's orienting and all-parity's, a me-parity the line along. Its 126 and 128 re-said, *all-parity as a line along* out.
 
+**Going on, 14 November: each of the two a self by its own moment.** The sequence's 147, at the registry's *Opening*: its other's 1 at its 2. Exhibit THREE's own form, read by v401atom as behind this morning; corrected.
+
 ---
 
 ## 6 Executed, each case, all or none
