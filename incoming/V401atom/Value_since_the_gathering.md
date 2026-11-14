@@ -778,6 +778,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: each of the two a self by its own moment.** The sequence's 147, at the registry's *Opening*: its other's 1 at its 2. Exhibit THREE's own form, read by v401atom as behind this morning; corrected.
 
+**Going on, 14 November: each 1 a me-parity, each 2 an other-than-me-parity.** The sequence's 148, at the registry's *Opening*: 2 the first distinguishable from 1; a self's other a bi-coupling's other-than-me self, or a co-chaining of selves.
+
 ---
 
 ## 6 Executed, each case, all or none

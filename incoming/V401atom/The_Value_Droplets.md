@@ -200,6 +200,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 145. In three dimensions an along is a line, of one dimension, and an across is a plane, of two, at a right angle to it. Each odd name is a line along, and each even name a plane across, by each scale. A fold's line is through the middle of its three others' plane. [14, 15, 16, 17, 117]
 146. The plane across has two dimensions, at a right angle: the one is other-parity's orienting, and the other all-parity's. A me-parity is the line along. Each even name's three has bi at its two ends, and at its middle its universe's all-parity, co or tri. The cone's opening and closing are in the plane across, and along, its 0s are co-recursioning. [14, 115, 129, 131, 145]
 147. Each of the two is a self by its own moment: its odd name, its even name, and its next odd name. Its other's 1 is at its 2: the one's even name is its other's own odd name, one name on. Each is a line along by its own names, and its other's line is across from it. [10, 107, 127, 145]
+148. 2 is the first distinguishable from 1: the one and the other, in turn, begin by it. Each 1 is a me-parity, and each 2 an other-than-me-parity: of a bi-coupling's other-than-me self, or of a co-chaining of selves. [10, 49, 147]
 
 ---
 
