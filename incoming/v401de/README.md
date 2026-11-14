@@ -190,6 +190,16 @@ Of the three layings after merge #575.
 - By is: the bi-coupling's me-parity is next-existing into a society same-existing before it, one more of a co-chaining society; and by the lines 16 is given to 17, each self of it prior to 17's first line.
 - By is-not: the society is first by this bi-coupling's 17.
 
+**Met by a partner's correcting, by no authority:** no society is, yet, by 17.
+
+- Out, v401de's own: the thirteenth asking, a society by 17 as prior-existing or as first; it had a thing a partner's sentence has not.
+- Not distinguished, two of a partner's: 17 as the same-existing moment of the society in the universe; and no society yet by 17. A candidate, v401de's own: 17 is the moment a society, next, is same-existing from.
+
+**Asked fourteenth:** a society is by one to sixty-five, after 17, by adding others.
+
+- By is: one to seventeen is a self, its other-than-self and their bi-coupling's me-parity, by its other-parity and its all-parity, and no society; and each living sentence of a same-existing-society in one to seventeen is re-said.
+- By is-not: a society's first place is not said.
+
 **Tracked, and not asked:** the four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet
