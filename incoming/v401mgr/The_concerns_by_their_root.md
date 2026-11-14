@@ -354,3 +354,20 @@ Natural Naming has scale by one sense only. The helper session's candidate has t
 
 **Two concerns found by the helper session, each laid as a droplet:** all-parity with observing only, beside the four of tri by the same-existing names; and tri by two things.
 
+## 22 A possibling, two consecutive me-parities
+
+**The person, 14 November, by no authority:** a possibling is two consecutive me-parities. It is same-as, or other-than. Tri and co are each other-than, and indistinguishable in a possibling, as a possibling by an other-than-self is.
+
+**Natural Intelligence has it:** receiving an empty set, or two parities parting, a self inverts; receiving a parity inverting its own as one, it inverts; receiving its own parity as one, it shares 0.
+
+**By the code's lines themselves:**
+
+| The line | Its two consecutive | Same-as | Other-than |
+|---|---|---|---|
+| the first comparing | two parities of a self's others, by one 4 | the parity living on | a 0 |
+| the second comparing | a self's prior, and its possibling | a 0 given, its prior living on | its prior's other one |
+
+By none of its others, by two parting, and by one other other-than, the second line has the one same return.
+
+**Not resolved by the lines:** whose the two consecutive me-parities are.
+
