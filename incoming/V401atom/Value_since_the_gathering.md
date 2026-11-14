@@ -738,6 +738,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: same atoms touching as a doing, a fold through a 0, spiraling open.** The sequence's 117 to 120, `instruments/bi_folding_spiral_check.py`, by whole numbers: the oldest of four through the middle of its three others; the middle of the three the middle of the prior and its next, a 0; folds one after one a co-chaining, each touching six, of one hand, closing at none in 240 folds; the other order the other hand. One droplet at the registry's *31*.
 
+**Going on, 14 November: on a surface, six around one, and a fold's 0s a thread along.** The sequence's 121 to 123, `instruments/surface_fold_check.py`, by whole numbers: six around one, two along and two each side across; folds going across in turn, right from left and left from right; the 0s on one line along, each the same step, closing at none. One droplet at the registry's *31*.
+
 ---
 
 ## 6 Executed, each case, all or none

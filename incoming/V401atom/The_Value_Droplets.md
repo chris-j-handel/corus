@@ -173,6 +173,9 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 118. A fold is bi-folding: by a 0, a prior's next is the other one of two, the two sides of its three. Through a 0 are two directions, the one and its other. [55, 117] *Executed, by whole numbers.*
 119. Folds one after one are a co-chaining, spiraling: each atom touching six, the three before it and the three after it; of one hand, the same by each step; and closing at none. The same four in the other order are the other hand. [6, 71, 117] *Executed, by whole numbers.*
 120. Same atoms touching is by this doing, stable-forming: a next from a prior by a fold through a 0, each moment. [43, 118, 119]
+121. On a surface, six same atoms are around one, each touching it, each sixty from its next around. By a line along through the one, two of the six are on it, each straight across its other: co, along. Two are on its one side and two on its other: bi, across, the side before and the side after. [15, 16, 115] *Executed, by whole numbers, `surface_fold_check.py`.*
+122. A fold on a surface is the oldest of three through the middle of its two others: a 0. Folds one after one go across in turn, right from left and then left from right, and each second atom is one same step along: two lines along, each straight. [117, 118] *Executed, by whole numbers.*
+123. The 0s, one by each fold, are on one line along, between the two lines, each the same step from the 0 before it: a thread, straight, closing at none. A 0 is the end of one fold's moment and the start of the next's, along. [10, 122] *Executed, by whole numbers.*
 
 ---
 
@@ -233,6 +236,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | which one is right, of right and left, as observable by nothing | 19: by three, right and left are one-way |
 | *parity* as is-same-as, and *imparity* | 1, 2: a parity is a direction; of two, same-as and not same-as. The living files have a parity as a direction |
 | a me-parity as invisible; an other's parity as invisible to a self | 50, 51, 54: observable by its co-possibling. Exhibit TWENTY has self parity and other parity visible |
+| the two directions through a 0 as one fold's two ways only, or as the two hands only | 122: folds one after one go across in turn, right from left and left from right |
 | *17 is a next 1*; a 1 living again | 7, 108, 109: 17's parities are same-as 1's, and 17 is no 1 |
 | 9 to 16 as a self's other's eight | 13, 107: each a next name; a self's other is by each moment's even name |
 | *a 1 to 17 before* and *a 1 to 17 apart*, of two executings | 109: an executing is one moment of one 1 |
