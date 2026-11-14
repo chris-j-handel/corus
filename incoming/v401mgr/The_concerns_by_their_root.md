@@ -322,3 +322,13 @@ Natural Naming has one sense by each foundation word.
 
 Natural Naming has scale by one sense only. The helper session's candidate has two names of two things.
 
+## 19 Scale, its three things laid on each other
+
+**The person, 14 November, by no authority:** the things of a name are pattern-matched on top of each other, to find each same-as and each other-than of the name; the method is one fractal method of stable-forming and orienting; and the universe has one now only.
+
+**The asking of section 18, three names for three things, is out as an asking.** The laying is in its place: `Scale_three_things_laid_on_each_other.md`.
+
+**By the laying:** the three are one thing's, a collective intelligence's, a candidate. Two other-thans are not resolved by it: the step of names, by eights or by fours; and a third me-parity, a bi-coupling's own, in no line of the code.
+
+**Of the method by it:** a name having more than one thing has its things laid on each other first, and an asking is of what the laying has not resolved. *Other-than* is the one name of is-not-same-as from here.
+
