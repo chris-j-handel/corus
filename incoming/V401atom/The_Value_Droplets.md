@@ -2,7 +2,7 @@ Incoming · v401atom · its session's discoveries, in logical sequence · 14 Nov
 
 # v401atom: its session's discoveries, in logical sequence
 
-**What this page is.** Each discovery of v401atom's session, one sentence each, a thing's is or its own doing, by its natural name, each from the sentences before it. No word here has authority, and no saying is gathered as a saying: a sentence is in by the logic before it, or it is out. Nothing here is open. Each sentence has the sentences it is from, or its base: the opening's sentence, a name's is, Exhibit ONE's table, or an executing. This page changes no living file, no gathering and no line of Exhibit ONE's code.
+**What this page is.** Each discovery of v401atom's session, one sentence each, a thing's is or its own doing, by its natural name, each from the sentences before it. No word here has authority, and no saying is gathered as a saying: a sentence is in by the logic before it, or it is out. Its concerns, each a possible incohering or a gap in its co-chaining, are `The_Concerns_of_the_Sequence.md`: sixteen, none resolved, each for the two partners' resolving. Each sentence has the sentences it is from, or its base: the opening's sentence, a name's is, Exhibit ONE's table, or an executing. This page changes no living file, no gathering and no line of Exhibit ONE's code.
 
 **Reading it.** A number in brackets is a sentence it is from. *Executed* is Exhibit ONE's table or code read by each case, all or none, by the instrument named, in `instruments/`. Each instrument returns the same lines again today.
 

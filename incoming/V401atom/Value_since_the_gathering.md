@@ -722,6 +722,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 - **The sequence, 112 sentences.** Its 111 and 112, `instruments/two_zeros_check.py`: a self having a prior has two 0s, its possibling a 0 by bi-folding and its co-possibling a 0 by do-no-harming, and no executing has the two together; two selves of parity have one 0 each executing, the one and the other in turn, the same one for the two; two selves of imparity have no 0. One droplet at the registry's gathering, and one at Exhibit ONE's.
 - **`instruments/opening_order_check.py`.** 55 sentences, 49 names in bold, each first used at its naming sentence or after it. *Now-existing*, *is-not* and *self-other* have no naming sentence. Each sentence but the first two uses a name named before it.
 
+**Going on, 14 November: the sequence's concerns.** `The_Concerns_of_the_Sequence.md`. A partner's word is a suggesting in a transcript, and no base. The sequence is read for each sentence being from the sentences it names, by logic: sixteen concerns, none resolved. Three droplets of v401atom's own, having a partner's word as a base, are re-said.
+
 ---
 
 ## 6 Executed, each case, all or none

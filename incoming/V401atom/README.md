@@ -60,7 +60,11 @@ No sentence of the person's is laid whole in these. Each earlier page of this fo
 
 ## v401atom: its session's discoveries, in logical sequence
 
-`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session and of this folder's earlier pages, 112 sentences, each a thing's is or its own doing, each from the sentences before it or having its base, read by `instruments/sequence_check.py`; each form of Exhibit ONE's table and code by its instrument, each case; each sentence of the opening it meets, same, re-saying or parting; and each thing out, by the sentence it parts from. Nothing in it is open. It changes no living file and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
+`The_Value_Droplets.md`, 14 November: each discovery of v401atom's session and of this folder's earlier pages, 112 sentences, each a thing's is or its own doing, each from the sentences before it or having its base, read by `instruments/sequence_check.py`; each form of Exhibit ONE's table and code by its instrument, each case; each sentence of the opening it meets, same, re-saying or parting; and each thing out, by the sentence it parts from. It changes no living file and no line of Exhibit ONE's code. Each other page of this folder is the journey to it, relied on by nothing.
+
+## v401atom: the concerns of its sequence
+
+`The_Concerns_of_the_Sequence.md`, 14 November: the sequence read for what its check does not read, a sentence being from the sentences it names, by logic. Sixteen concerns, each a possible incohering or a gap in its co-chaining, none resolved; the registry's own, executed; and one of the method: a partner's word is a suggesting and no base. Each is for the two partners' resolving before a sentence it reaches enters a living file.
 
 ## v401atom: its sequence in its homes' gatherings, by v401mgr's asking
 
