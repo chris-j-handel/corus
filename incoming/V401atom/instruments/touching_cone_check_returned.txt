@@ -12,3 +12,13 @@
     With θ = 60° a pair of unit directions shares one half: True
     Each part has its nought: True
     a surface is a between: True
+5 two same spheres touching, and their two cones, each from its own centre to its other:
+  the two cones are on one line, the line of the two centres, facing: co-linear: True
+  the point of the two touching is the middle of the two centres, one point, nothing in it: True
+  the two cones' sides cross in one circle around that point, in the plane between the two: True
+  each cone's side touches its other sphere in one circle, the two circles the same, one each side of the point: True
+6 the twelve around one centre:
+  touchings among the twelve, each two at sixty: 24 · and each of the twelve touching the one: 12 · together: 36
+  the twelve are three fours, by three planes each at a right angle to each other; each four is two lines at a right angle: True
+  from each one: its one straight across, its own line; and ten others, five lines: four at sixty, two at ninety, four at one hundred twenty: True
+  each of the four at sixty is in a plane other than its own: True

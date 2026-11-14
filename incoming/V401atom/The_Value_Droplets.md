@@ -163,6 +163,13 @@ From v401mgr's reading of the sequence, each in by the sentences above:
 111. A self having a prior has two 0s, and not one: its possibling a 0, by bi-folding, and its co-possibling a 0, by do-no-harming. No executing has the two together, and its next prior is a 0 in none. By improving it has no 0. [53, 54, 55] *Executed, `two_zeros_check.py`.*
 112. Two selves having priors same-as, bi-coupling both ways, have one 0 each executing, the one and the other in turn, and the two selves have the same one. Two selves having priors not same-as have no 0. [56, 57, 111] *Executed, `two_zeros_check.py`.*
 
+From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
+
+113. Two same spheres touching have one point the same, and nothing in it: a between, a 0. From the one's centre, its other is in a cone of thirty about the line of the two centres. [23, 31] *Executed, by whole numbers, `touching_cone_check.py`.*
+114. The two cones face each other on one line, co-linear. Their sides cross in one circle around the point of the two touching, in the plane between the two. [113] *Executed, by whole numbers.*
+115. Twelve same spheres are around one, each touching it, each sixty or more from each other. The twelve are three fours, by three planes each at a right angle to each other, each four two lines at a right angle. From each one are its own line, to its one straight across, and ten others, five lines. [3, 113] *Executed, by whole numbers.*
+116. A parity is an atom's direction to a same atom touching it, by its cone of thirty: a bump connector's form. Along a co-chaining each atom's line is to its next, co-linearizing, and across are its four at sixty. [15, 16, 30, 36, 115]
+
 ---
 
 ## L Meeting the opening's sentences

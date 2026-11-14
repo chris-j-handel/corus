@@ -734,6 +734,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: Natural Mathematics and Natural Numbers, read.** `Natural_Mathematics_and_Natural_Numbers_read.md`; `instruments/touching_cone_check.py`. A between a nothing, the sequence's 23 re-said. A cone of thirty as two same spheres touching, twelve around one, by whole numbers: a candidate for a bump connector's form.
 
+**Going on, 14 November: a parity's cone, a bump connector's form.** The sequence's 113 to 116, `instruments/touching_cone_check.py`, by whole numbers: two same spheres touching, one point the same, a 0; two cones facing on one line, their sides crossing in one circle around that point; twelve around one, three fours by three planes at right angles, and from each one its own line and ten others, five lines. One droplet at the registry's *31*.
+
 ---
 
 ## 6 Executed, each case, all or none
