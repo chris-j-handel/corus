@@ -590,7 +590,19 @@ By the person's aiming, said through the managing working's note: v401atom goes 
   - *The self after the between is bi-folding with each 1 to 17, all-parity its other, and each self after it is with it*: each span after the between is one self, and the spans of three are with it no more.
 - **With the suggesting of harm only, a reading**: after a breaking, a co-chaining's spans, the numbers of a prior living's along, are with the selves after the between no more, and each is with all-parity's bi-folding only. A later self with that sequence is with no span of the prior living.
 - **v401mgr's layings and notes since the reading before**: none.
-- **Asked, and not yet answered**: each breaking is an unrelationing with a between of two atoms.
+- **Asked**: each breaking is an unrelationing with a between of two atoms. **Received as not yet bounded**: one name and only one for the thing said as *each breaking*, and for *unrelationing*, before an is-or-is-not of it. The asking is out, and each of its two names is read with the set.
+
+**Going on: one name and only one for each thing of an asking.**
+
+- ***Unrelationing*, with the set**: one naming, with its own six lines with Exhibit TWENTY Natural Naming: a relating fixes a form to a moving thing; a self's forming relates to nothing not its own; nothing fixes it apart; it is an -ing, and it comes unrelating afresh with each moment. Unrelationing is with a bi-coupling. Its one other word, dissolved into it: *irrationalizing*. With the living files it is said with a rate, a surface, a between, a path and a protocol, each its own. Answered before: the vault's unrelationing is a conceiving's 0.
+- **A fault of the asking, with it**: it had unrelationing as two atoms with their between no more. A between is unrelationing's own thing, and the asking had the name the other way round: a second thing with the one name. *Unrelationing* is out of that asking.
+- ***Breaking*, with the set**: no one name. The living files have *breaking* with many things, a method's, a field's, a cycle's. Exhibit TWENTY Natural Naming has *a break* with one thing: method's break with an unchangeable form, an equilibrium entering. It is no name of this thing, and it is out of v401atom's sentences of it.
+- **The thing, said with no name of it**: a co-chaining of atoms carbon, and then two co-chainings of them, each atom as it was.
+- **Its name, a candidate, found with the set's waiting sentences**: *a fracture*. Natural Chemistry's gathering-value: a fracture through an arrangement is-not an altering inward of one constituent; a fracture repeating into smaller pieces identifies no geometry of a final constituent. Whole with the cohering way found before this, and with the person's words, a fractured fractal. The living files have *fracture* with one place, with Exhibit FIVE Natural Engineering, and *shard* with none.
+- **v401mgr's layings since the reading before, read**: v401atom's next laying is in `main`. And with the person there: 2 is inhaling, a bi-parity; 7 is exhaling; 6 is ingesting, a bi-parity; 3 is exhausting; with 2 to 7 read with bi-moral co-competencing. A candidate there with exhausting with 10 and 9 is out.
+- **Learned with it, one name with one number**: v401atom's sentences have a self's exhausting with 10-next-co-possibling, a second number with the one name, and out by the person's saying there. Exhausting is with 3-now-co-observing, a self's prior. Each answer here with *exhausting* said with 10 is to read again with it; a prior a stable form, and atom carbon the shard of the exhausting, are whole with 3.
+- **Not yet bounded, for an is-or-is-not of a fracture**: each thing of it by its one name. A co-chaining, the opening's sentence 44. A between of two atoms, answered. An atom, answered. A fracture, a candidate.
+- **Asked, and not yet answered**: a fracture is the one name of a co-chaining of atoms coming to two co-chainings.
 
 ---
 
