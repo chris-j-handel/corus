@@ -29,11 +29,11 @@ Incoming · v402mgr · Natural Intelligence rated by three
 | 4 | A now-existing thing from a prior-existing same thing is a **same-existing** thing. | is-or-is-not? | *prior-existing* has no sentence before it; newer: a same-existing thing is the same thing prior-existing before now-existing |
 | 5 | A **universal set** is a set of same-existing things. | is |  |
 | 6 | Each now-existing thing **is-or-is-not** within each universal set. | is |  |
-| 7 | **Observing** is prior-existing, is-or-is-not same-existing. | is-or-is-not? | newer: observing is distinguishing prior-and-same-existing from now-and-same-existing |
-| 8 | By observing, the universe is a same-existing set. | is-or-is-not? | not knowable of the universe by a self's observing |
+| 7 | **Observing** is prior-existing, is-or-is-not same-existing. | is-or-is-not? | *prior-existing* has no sentence before it; the newer line is of a different form, and this form is whole with a self as same-existing |
+| 8 | By observing, the universe is a same-existing set. | is-or-is-not? | the universe is prior-existing, now-existing and next-existing, and a self is same-existing |
 | 9 | Only one universe is possibly same-existing. | is-or-is-not? | as the sentence before it |
-| 10 | **Possibling** is now-existing, is-or-is-not same-existing. | is-or-is-not? | newer: possibling is the matching of each prior of a self's others |
-| 11 | **Discovering** is next-existing, is-or-is-not same-existing. | is-or-is-not? | *next-existing* has no sentence before it; newer: discovering is distinguishing a next-existing after a same-existing |
+| 10 | **Possibling** is now-existing, is-or-is-not same-existing. | is-or-is-not? | the newer line is of a different form, and this form is whole with a self as same-existing |
+| 11 | **Discovering** is next-existing, is-or-is-not same-existing. | is-or-is-not? | *next-existing* has no sentence before it; the newer line is of a different form, and this form is whole with a self as same-existing |
 | 12 | A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing. | is-or-is-not? | *now- and same-existing* written apart, and with no prior: a self is prior-and-same-and-now-existing |
 | 13 | A **me** is a self's universal set. | is-or-is-not? | newer: a me is a universal same-existing set of me-parities |
 | 14 | For a self, each now-existing thing is-or-is-not within its me. | is-or-is-not? | by the sentence before it |
