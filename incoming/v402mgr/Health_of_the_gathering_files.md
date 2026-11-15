@@ -86,6 +86,8 @@ Each droplet leaving, by its first words, and the droplet now having its value: 
 
 **Is, after it:** the three parities are me-parity, both-parity and all-parity, a moment's parity equivalent of prior, now and next, each resolving in the method; both-parity and other-parity are one, and *other-parity*, *other-than-parity* and *universal-parity* are each an is-not of naming.
 
+**Is, after it:** the middle of each three is now; each name's three by its roots is in Exhibit ONE Natural Resolver's gathering file, executed.
+
 **Concerns, each by its two sides, not yet distinguished:** the opening's waiting sentence of other-parity and universal-parity has the two names exchanged; and both-parity with none of a self's others.
 
 **Not yet:** each gathered droplet having bi as other-parity in a name's three, and each reading by the waiting sentence, read again by the is. No droplet has left by this concept.
@@ -111,14 +113,12 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 **Askings open, each gathered at its living sentence:**
 
 - A name is non-living.
-- Me-parity is prior, both-parity is now and all-parity is next.
-- The 9/8, of three threes interacting, is the one move's 9 less and 8 up.
+- The 9/8 is 9-next-co-discovering with 8-now-same-existing its middle; or the one move's 9 less and 8 up; or 9 to 8 inside the one move.
 - Other-parity now-existing, the second of the five dimensions, is both-parity now-existing.
 - Same-existing is a self's only, and the universe is no same-existing thing: met by all-parity as not-other-than same-existing; the universe as a same-existing set, in three living sentences, is not yet distinguished.
 - Both-parity with none of a self's others.
 - Bi-parity is both parities, each its own, and co-parity the two the same, as one me's.
 - Each bi is not-same-as, and each co and each tri is not-other-than.
-- The fractal now moment is both.
 - The opening's waiting sentence of other-parity and universal-parity has the two names exchanged.
 - A moment is a self's parity and then its other's parity.
 - *Momentary* as a describing word, and in a name of two words.
