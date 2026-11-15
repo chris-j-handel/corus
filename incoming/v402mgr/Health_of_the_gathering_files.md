@@ -108,7 +108,7 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 
 **Askings open, each gathered at its living sentence:**
 
-- A name is a now-existing thing.
+- A name is a now-existing thing: answered is, 15 November, and answered is-not in the gathered droplets before it; the two part, with a candidate having both, a name with no observed thing in its set a non-existing thing, and with observed things in its set those same-existing things, now-existing.
 - A name is non-living.
 - Both-parity with none of a self's others.
 - Bi-parity is both parities, each its own, and co-parity the two the same, as one me's.
