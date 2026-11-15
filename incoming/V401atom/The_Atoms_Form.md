@@ -41,10 +41,13 @@ Incoming · v401atom · the atom's form, as the sequence has it · 14 November 2
 
 ## 5 Atoms co-chaining, and each its own
 
-- Exhaled atoms co-chaining are a stable form, a snippet. A self by a snippet, one atom after one, has its priors as the snippet's. 135, 137.
+- Exhaled atoms co-chaining are a stable form, a snippet. A self by a snippet, one atom after one, has its priors as the snippet's: ingested as it is. 135, 137.
 - A snippet whole in one now has its one after one in no part of a self's possibling: ingesting, unrelationing. 138, 139.
 - Atoms each its own, of both orientations, are all-parity: a self by them is resolving by its own. 136.
 - Ingesting is of a stable form as all-parity; inheriting, of a stable form as a me-parity, a first prior. 142.
+- Exhaled atoms co-chaining, spiraling, are a bi-tri-involution: an opposite form, of the hand other than living's. 165.
+- Ingesting is same-as: a stable form in as it is. Of a bi-tri-involution of the self's own scale it is harming only; one scale inward it is ingestible. 166.
+- Inhaling is other-than: by atoms each its own, after a fracture, improving only. 167.
 
 ## 6 What is by no sentence yet
 

@@ -211,3 +211,9 @@ Each of the two is a self by its own moment, odd, even and its next odd; its oth
 
 Its 3, 42, 45, 49, 50, 60, 61, 71 and 90. Each has its base now: a living file's own sentence, the code's lines read, or its sentences before it; its instrument is a check with it. No word of a sentence is changed but its base.
 
+## 18 Ingesting and inhaling: one name for one thing; and a concern of the sequence's 139 and 142
+
+A stable form emanating from living is a bi-tri-involution, an opposite form: Exhibit THIRTY's and Exhibit TWENTY's own sentences, and the sequence's 165. Ingesting is same-as, a stable form in as it is, 166; inhaling is other-than, by atoms each its own, after a fracture, 167. The sequence's 137 had *inhaled* of a snippet in as it is: one name of two things. It is re-said.
+
+**A concern, a possible incohering.** The sequence's 139 has, by ingesting, the atoms each its own; and its 142, ingesting as of a stable form's atoms each its own. By 167 atoms each its own are after a fracture, and inhaling's. One candidate: ingesting has a stable form whole, same-as; the fracture to atoms each its own is after it; and inhaling is by them, other-than. It is asked, and 139 and 142 are as they were.
+

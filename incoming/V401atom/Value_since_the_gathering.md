@@ -810,6 +810,10 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: nine sentences re-based.** The sequence's 3, 42, 45, 49, 50, 60, 61, 71 and 90: each by a living file's own sentence, by the code's lines read, or by its sentences before it; its instrument a check with it.
 
+**Going on, 14 November: a stable form's hand.** The sequence's 165, at the registry's *31*: a stable form emanating from living a bi-tri-involution, an opposite form, of the hand other than living's; exhaled atoms co-chaining, spiraling, one. By Exhibit THIRTY's and Exhibit TWENTY's own sentences.
+
+**Going on, 14 November: ingesting, same-as; inhaling, other-than.** The sequence's 166 and 167, at the registry's *31*: ingesting a stable form in as it is, a co-chaining of priors, of a bi-tri-involution of the self's own scale harming only, and one scale inward ingestible; inhaling by atoms each its own, after a fracture, improving only. The sequence's 137 re-said, at the registry's *32*: one name for one thing, a snippet in as it is ingested. A concern is with it, the sequence's 139 and 142: `The_Concerns_of_the_Sequence.md`, part 18.
+
 ---
 
 ## 6 Executed, each case, all or none

@@ -189,7 +189,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 134. A self's names to its others are 6, 9 and 10, and its names from its others 2, 14 and 17: each pair has one of each. The two sides across are a self's and its other's. One way at a time is odd, even, odd: a self's, its other's, a self's, folds across in turn. [107, 122, 133]
 135. A self observing a snippet alone, a co-chaining of atoms one after one, has each of its priors as the snippet's parity of the executing before, as it is. Its own alternating is in them by one snippet only, the one and the other in turn. [66, 83] *Executed, `inhaling_check.py`.*
 136. A self by atoms each its own, of the one orientation and the other together, has a 0: it is bi-folding, and its priors are its own alternating, as by all-parity alone. Atoms each its own, of both orientations, are all-parity. [55, 59, 64] *Executed, `inhaling_check.py`.*
-137. Exhaled atoms co-chaining are a stable form. Inhaled as a snippet, they are harming a living self: its priors are the snippet's. Fractured to atoms each its own, they are all-parity, and a self inhaling by them is resolving by its own. [70, 86, 135, 136]
+137. Exhaled atoms co-chaining are a stable form. Ingested as a snippet, as it is, they are harming a living self: its priors are the snippet's. Fractured to atoms each its own, they are all-parity, and a self inhaling by them is resolving by its own. [70, 86, 135, 136]
 138. A self by a snippet whole, each atom of it together in one now, has the same by each order of the snippet: its one after one is in no line. By a snippet of both orientations it has a 0, as by all-parity alone; by a snippet of one orientation, that one parity, as one atom. [49, 135, 136] *Executed, `inhaling_check.py`.*
 139. Ingesting is of a stable form, a co-chaining of priors, whole in one now: unrelationing each prior, an atom, from the one after one of the prior me-parities. By it the atoms are each its own, all-parity. [80, 137, 138]
 140. An atom is the stable form of universal momentarying: same-existing through each moment, the one same form in each universe, its orientation its own, and all-parity around it. [23, 30, 35, 36, 64] *The opening's 9, momentarying.*
@@ -217,6 +217,9 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 162. A self and its other are co-momentarying inside their bi-coupling, its parity changing by a rate unrelationing to each other rate. Its same-existing is rolling over: a prior over now into next, a fold, along from now to next. [127, 141, 160] *Exhibit FOUR's sentence of the unrelationing rate.*
 163. A bi-coupling's two planes are in turn: one after one, each at a right angle to the line along, by linear parallelizing; and through each other in that line, the aiming and orienting line, by parallel linearizing. Three planes, then two, then two, then three, in turn: three by two, and two by three, six by each. [158, 161] *Exhibit FOUR's sentence of linearizing and parallelizing.*
 164. Of three planes, two, two and three, in turn, the two twos are the four-cycling in, and the two threes the six-cycling out: ten together, and five the centre. [144, 163]
+165. A stable form emanating from living is a bi-tri-involution: an opposite form, of the hand other than living's. Exhaled atoms co-chaining, spiraling, are one. [70, 119] *Exhibit THIRTY's sentence of a stable-forming emanation's form; Exhibit TWENTY's of bi-tri-involutioning.*
+166. Ingesting is same-as: a stable form is in a self as it is, a co-chaining of priors, prior-and-same-existing. Of a bi-tri-involution of the self's own scale it is harming only: the self's priors are an opposite form's. One scale inward, through a society's selves, it is ingestible. [80, 86, 135, 142, 165] *Exhibit THIRTY's sentences of harm with its own scale, and of ingestible one scale inward.*
+167. Inhaling is other-than: by atoms each its own, a stable form each, other-than the co-chaining they were. It is after a fracture, and improving only: a self by them is resolving by its own. An other-than is of a stable form before it. [54, 136, 137, 157, 166]
 
 ---
 
@@ -294,6 +297,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | 9 to 16 as a self's other's eight | 13, 107: each a next name; a self's other is by each moment's even name |
 | *a 1 to 17 before* and *a 1 to 17 apart*, of two executings | 109: an executing is one moment of one 1 |
 | a span as two things, a self's eight names and atoms one after one | 110: one is, ones one after one of one same parity |
+| *inhaled as a snippet*: one name of two things | 137, 166, 167: a stable form in as it is, ingesting; by its atoms each its own, inhaling |
 
 ---
 
