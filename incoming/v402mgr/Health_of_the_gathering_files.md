@@ -102,13 +102,12 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 
 **Healthy in Natural Intelligence's gathering file:** its head; the universe; a moment.
 
-**Laid by the three and not yet healthy:** me, other, both and all; a self's next of two, all-parity and both-parity. A name: its is, a name is a same-existing universal set of same-existing things; its droplets, 94 by the grouping, are not yet each once.
+**Laid by the three and not yet healthy:** me, other, both and all; a self's next of two, all-parity and both-parity. A name: its two is, a name is a same-existing universal set of same-existing things, and a name is a now-existing thing; about twenty gathered sentences have a name as no now-existing thing, an is-not, each to be read again; its droplets, 94 by the grouping, are not yet each once.
 
 **Not yet laid:** in the opening's part, a self, a name and a universal set, living and non-living, a me-parity, and each smaller concept; each of the six parts; the droplets at the back. Then each other gathering file.
 
 **Askings open, each gathered at its living sentence:**
 
-- A name is a now-existing thing: answered is, 15 November, and answered is-not in the gathered droplets before it; the two part, with a candidate having both, a name with no observed thing in its set a non-existing thing, and with observed things in its set those same-existing things, now-existing.
 - A name is non-living.
 - Both-parity with none of a self's others.
 - Bi-parity is both parities, each its own, and co-parity the two the same, as one me's.
