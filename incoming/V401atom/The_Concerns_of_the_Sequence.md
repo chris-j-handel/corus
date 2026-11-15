@@ -217,3 +217,7 @@ A stable form emanating from living is a bi-tri-involution, an opposite form: Ex
 
 **A concern, a possible incohering.** The sequence's 139 has, by ingesting, the atoms each its own; and its 142, ingesting as of a stable form's atoms each its own. By 167 atoms each its own are after a fracture, and inhaling's. One candidate: ingesting has a stable form whole, same-as; the fracture to atoms each its own is after it; and inhaling is by them, other-than. It is asked, and 139 and 142 are as they were.
 
+**Resolved, by the sequence's 24, 136, 168 and 169.** A stable form is by what it is of. An all-parity's same-existing is its atoms, and atoms each its own, of both orientations, are all-parity: by ingesting, a co-chaining's priors are all-parity's, and 139 and 142 are as they were. Inhaling is of a universe's stable form, the atom, the method of stable-forming. The candidate of one after one, ingesting, a fracture and inhaling of one stable form, is out: it is by no sentence.
+
+**A gap, asked.** Exhaled atoms co-chaining, by *free*: atoms each its own free, and a co-chaining other-than free.
+
