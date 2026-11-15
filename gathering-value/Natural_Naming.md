@@ -775,3 +775,4 @@ Gathering-Value · Natural Naming
 - **Is-not** · One thing *beside* an other, and a *step* of co-chaining: no natural explaining.
 - **Is-not** · A word by its source: no word is better by who said it.
 - **Is-not** · *Before*, in a name's defining: unhelpful in natural defining.
+- **Is-not** · A *slot* of a name's three: an object for a relation, and no natural naming. A name's three is its next, its now and its prior.
