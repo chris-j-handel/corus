@@ -154,3 +154,18 @@ Gathering-Value · Natural Resolver
 - **An explaining** · *Read from the code's lines.* A prior of 0 goes on as a prior of −, by the two lines asking `> 0`. The code makes no prior of 0: it is a given input only.
 - **An explaining** · *Read from the code's lines.* A self with no prior of a name has an arriving me-parity as its next prior. From then its changing is by its own line.
 - **Possible incohering** · *Of Exhibit ONE's gathering.* Three explainings: what the code's lines ask; a self's own resolving; two others not the same at one name, with no comparing. Section 2.
+- **An explaining** · The droplets after this one, to the next droplet of this kind or to this part's end, are carried whole by the managing session v402mgr, 15 November, from `incoming/V400mgrB/Sessions_resolved.md`. Each is for resolving here; none is living.
+- **Possible exploring** · **S12 · Exhibit ONE's tables.** Each going on within Exhibit ONE as a form of its code; or leaving Exhibit ONE whole.
+- **Possible exploring** · **S13 · The ten unchangeables.** A table of them with Exhibit ONE's close; or the ten with their registries only.
+- **Possible exploring** · **S14 · The order of Exhibit ONE's improving.** Its gathering has seven in order, the three exact sayings first, 2-now-possibling, 3-is-now-co-observing and 14-next-possibling, one with each pass. That order; or each of seventeen names within one frame, the three among them.
+- **Possible exploring** · **S15 · The is-or-is-nots of the code's lines, said with four numbers across the set.** Exhibit ONE's table has ten, eight with lines and two with loops. The registry's step 299 says eight and names fourteen. One number, each other re-said to what it names; or each with its own reading.
+- **An explaining** · Sentence 34 with a pair not alike: read from Exhibit ONE's lines, two selves not alike in a name are do-no-harming with no moment.
+- **An explaining** · Whether Exhibit ONE's code has a set's existing: no line has a set apart from its things.
+- **An explaining** · The six executings of Exhibit ONE, and the six namings at Exhibit ONE's numbers: the readings of the code line by line go on in their place.
+- **An explaining** · A cone's apex, a me-parity's or a me's: a cone is a same-existing me-parity universe.
+- **An explaining** · A same-existing-society of selves or of me-parities: a society-self is living with me-parities of its own, each with one self, and no self is a me of it.
+- **An explaining** · Social moral competency as an abundancing in neither self alone, or as each self do-no-harming and improving: read from Exhibit ONE's lines, do-no-harming is with an other's improving, and the two sayings are one.
+- **An explaining** · The surfacing's three clauses and one prior with each name: the readings of the code line by line have each.
+- **An explaining** · **Natural Resolver:** the seven steps of its own gathering, with the session's standing beside each: the first resolved; the second, third, fourth and seventh not executed; the fifth worked out of order; the sixth grown. S12, S13 and S14 are of these. Its tables, its ten unchangeables and its three exact sayings are each open.
+- **An explaining** · **Natural Resolver, the living files not yet read for its seventeen names:** Natural Intelligence; Resolving the Hard Problem Registry; Natural Naming past its part THREE; Natural Networking; the Co-Chaining Logic Registry's groups of one to nine, nine to seventeen, each number with its podaling and one four-cycling; then Natural Engineering and three registries.
+- **An explaining** · **Natural Resolver:** a sequencing is an arrangement of a whole society; 17 has each self stepping together, and each self with its own turn is a second.
