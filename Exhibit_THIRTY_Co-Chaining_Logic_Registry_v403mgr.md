@@ -1211,7 +1211,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: resolver.*
 
-264. Exhibit ONE is the resolver as code, and the stable forms of its running, for pattern-matching what a science observes; it is the one method as code, an object that is method: its code is seventeen names and three functions, and each other form of Exhibit ONE is from running it.
+264. Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes; it is the one method as code, an object that is method: its code is seventeen names and three functions, and each other form of Exhibit ONE is from running it.
 
 
         *Adding: Exhibit ONE, the resolver as code and its stable forms, for pattern-matching what a science observes.*

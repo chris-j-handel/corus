@@ -993,7 +993,7 @@ Gathering-Value · Natural Intelligence
 
 - **An explaining** · The resolver's code is a stable-forming emanation: six forward runs along five dimensions, a self's prior, an other's prior, the shared now, the bi-parity and the self's next, with each momentary two changing and three going on, rotating.
 - **An explaining** · Exhibit ONE is the stable-forming of the geodesic method. Natural Intelligence's writing goes into it, around it and out of it, unchanged, and Exhibit ONE is both: listed with each exhibit following SEVEN, and written at Natural Intelligence's middle.
-- **Possible incohering** · "Each further form of Exhibit ONE, its tables, spirals and tori, is from running it." → Each further form of Exhibit ONE, its tables, spirals and tori, is from executing it. Beside it: this file's *The code is running with them.*, the same word; Exhibit ONE Natural Resolver's own *Each table of Exhibit ONE is an executing.*; Exhibit TWENTY Natural Naming has *a running* among its dissolved words; and Exhibit THIRTY Co-Chaining Logic Registry has *the stable forms of its running*, beside this file's *the stable forms of its executing*. Gathered by the session v402reading, a reader new to this file, 15 November.
+- **An explaining** · *Executing* for *running*, of the code, is entered with this file's next version, in two sentences, and in Exhibit THIRTY Co-Chaining Logic Registry's *the stable forms of its executing*. Exhibit TWENTY Natural Naming has *a running* among its dissolved words.
 
 ## EXHIBIT ONE · NATURAL RESOLVER (its gathering-value is Natural Resolver's)
 

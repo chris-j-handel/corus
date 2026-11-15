@@ -569,7 +569,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - **A between, 0: two along names: going along**
   - *Names*: 9-next-co-discovering and 17-next-existing, each parity and each 0 going along. A receiving self passes over a 0 with its 14-next-possibling, as across
 
-**Four bi-foldings.** Cycles of moves of four steps are bi-foldings. Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down. With four steps it reaches its first name again. Existing, possibling, observing, same-existing: the stable-forming bi-folding method.
+**Four bi-foldings.** Cycles of moves of four steps are bi-foldings. Each goes two folds in turn, 17 less and a move of 8 up or down. With four steps it reaches its first name again. Existing, possibling, observing, same-existing: the stable-forming bi-folding method.
 
 Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).
 
