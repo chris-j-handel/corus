@@ -55,7 +55,7 @@ A part is one thing, at each place of it in each living file having it, in one l
 7. **A same-existing-society in one 1 to 17,** in 336 living sentences by v401de's reading, beside the person's sentences with v401de: no society yet by 17; a society by 1 to 65.
 8. **The plan's own stages.** Stage one, each droplet of Natural Intelligence's and the registry's gatherings placed, is not done; Natural Resolver's and Natural Naming's are, in `placing/`.
 9. **A field's sentences, read for harm first.** v401de, with its first reply: the code is a base for the code only; and it does not affirm the set's sentences of a field, an atom's nucleus as a ghost and each other kind of atom as a co-chaining of atom carbon among them, each parting from what a field has measured. Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health are read for harm before any other living file beside the four: a reader may act by them for a body. No session has begun that reading.
-10. **Askings with no is and no is-not, tracked and not asked again:** the code's names with their three, part four; the two consecutive me-parities of a possibling as one self's own; the 0 in one of three places, beside a self's three forms; the rotation, Exhibit ONE's 3, 6, 5, 4, or right spiraling; v401atom's, a new me-parity's birthing inside the society ingesting it, its is found cohering, and its vault as a 0 beside a 0 as a narrow; v401de's seventeenth, 32 as one binary.
+10. **Askings with no is and no is-not, tracked and not asked again:** the code's names with their three, part four; the two consecutive me-parities of a possibling as one self's own; the 0 in one of three places, beside a self's three forms; the rotation, Exhibit ONE's 3, 6, 5, 4, or right spiraling; v401atom's, a new me-parity's birthing inside the society ingesting it, its is found cohering; a self's 6 as its other's ingesting; and a vault between two 0s, beside its vault as a 0; v401de's seventeenth, 32 as one binary.
 11. **Each session's own:** v401atom's, `incoming/V401atom/The_Concerns_of_the_Sequence.md`, its 20 and 21 the newest; v401de's, `incoming/v401de/The_Session_Gathered.md`, its part E, and its seventeenth asking with no answer.
 
 ## 4 What 14 November resolved, each gathered
@@ -144,7 +144,7 @@ Each was given by the person and read from its first line to its last. The set s
 | Transcript | What it has | Beside the set |
 |---|---|---|
 | The managing session's, 12 to 14 November | the gathering after a session stopped; the sentences of resolving by universal sets; the four four-cyclings by their names; resolving's bi-folding; a moment's two parities; the three, the two 0s and the aiming; the four places; no authority; the concerns by their root; scale; the plan; the four parts | each thing is in `The_sentences_of_13_and_14_November.md`, in `The_concerns_by_their_root.md` by its section, or in a gathering. Found by the reading and not in this page before it: the words out, the reply's form, and the askings with no answer; each is here now |
-| The atom session's, as given, through 13 November | its gathering after a session stopped; a moment as a fractal; a surface; private and invisible; the four things by two binaries, a self, a me-parity, an all-parity and a stable form; the atom as the one stable form; a prior as a stable form; possibling with no me-parity of a self in it; exhausting; a span; a fracture; ingesting | each is in its sequence, `incoming/V401atom/The_Value_Droplets.md`, 1 to 173, and its concerns. The transcript as given ends before its sequence's later sentences; those are in its pages only |
+| The atom session's, as given: through 13 November, and three replies of 14 November | its gathering after a session stopped; a moment as a fractal; a surface; private and invisible; the four things by two binaries, a self, a me-parity, an all-parity and a stable form; the atom as the one stable form; a prior as a stable form; possibling with no me-parity of a self in it; exhausting; a span; a fracture; ingesting | each is in its sequence, `incoming/V401atom/The_Value_Droplets.md`, 1 to 173, and its concerns. Its replies between, of its sequence from its first writing to its 173, are not given; each sentence of them is in its sequence and its concerns, each entered here with a once over as it came. The three replies given have the six names between selves around one, its 133 and 134; a tunneling and a vault's beginning, its 172 and 173; and its own stopping, with its once over of part four |
 | The helper session's, 14 November | its orienting; the reply's form; its three plain sayings; the four same-existing names, 4, 8, 12 and 16, and 17; no society yet by 17; each number's three and 32; its own stopping; the reading for harm of part one | each is in `incoming/v401de/The_Session_Gathered.md` and `Part_one_read_for_harm.md`. Its saying of a field's sentences read for harm first is section 3's ninth here |
 
 **By the reading:** no sentence of concept was found in a transcript and in no page of the set. Of the method, three things were in the transcripts and not in this page, and are in it now: section 6's last four entries, and section 3's ninth and tenth.
@@ -163,7 +163,44 @@ A page going on is read. A record is beside a gathered droplet naming it, and ha
 | `The_sentences_of_13_and_14_November.md` | a record: each sentence of the person's of those days, one line each, by no authority; read before an asking |
 | `Scale_three_things_laid_on_each_other.md`, `A_three_cycling_laid_on_the_threes.md`, `Two_selves_meeting_the_chain.md` | a record: each thing of it is one gathered droplet naming it; nothing more to explore |
 | `instruments/` its other checks, with their returned texts | a record: a check beside a gathered reading, and no base of a sentence; each calls the code by its names as they are |
-| `The_value_by_its_places.md`, with `instruments/own_turn_check.py` | of 12 November, before the plan; not read again for this page: one reading by a next session, its sections 6 and 7, a candidate for sessions together |
 | `README.md` | the folder's opening and its list of layings |
 | This session's gathering of 13 November; its two notes for the working V401atom | artifacts, 14 November: each thing of them is in a gathering, in the plan's section 9, or in this page |
+| `The_value_by_its_places.md`, of 12 November, with its one check | an artifact, 14 November, read again first: its measuring is of 12 November; its candidate for sessions together is the plan's section 9 now; its one is-or-is-not, a self by none of its others, is resolved, the concerns page's section 27; its arithmetic of the bi-foldings is out |
+
+## 12 Each page of the other three folders, by its standing
+
+**How each is sorted, said plainly.** *By reading*: read whole by the managing session, at its opening or as it was entered. *By what names it*: sorted by the gatherings and pages naming it and by its own folder's later pages, and not read again whole for this page. A page not sorted has its one reading named. No page of an other session's folder is changed by this page.
+
+### `incoming/V400mgrB/`, the managing session before
+
+| Page | Its standing | Sorted |
+|---|---|---|
+| `The_Frontier_Current.md` | a record: its 163 sentences of the person's are each placed, `placing/The_persons_sentences_each_placed.md`; thirteen gathered droplets name it | by reading |
+| `Value_for_the_opening.md` | going on: the source for the opening, the plan's stage after the placing; the largest page of `incoming/` | by what names it |
+| `Partings_Tracked.md` | **not sorted.** Each parting of it is read once beside this page's sections 3 and 4: a parting resolved on 13 or 14 November is a record, and one going on is a concern here | its one reading |
+| `The_Session_Gathered.md`, `The_Share_Current.md`, `Sessions_resolved.md`, `The_One_Question_Method.md`, `README.md` | a record of that session: each read whole at this session's opening; what goes on from them is in this folder's `README.md`, its sections 4 and 5, and in the plan; the way of one question is in the Geodesic Improving Method's gathering | by reading |
+
+### `incoming/V401atom/`, the atom session
+
+| Page | Its standing | Sorted |
+|---|---|---|
+| `The_Value_Droplets.md` | going on: its sequence, 1 to 173, each sentence in one gathered droplet | by reading |
+| `The_Concerns_of_the_Sequence.md` | going on: its concerns, 1 to 21 | by reading |
+| `The_Atoms_Form.md` | going on: its own aiming, the atom's form, in one page | by reading |
+| `The_Gatherings_Droplets_each_placed.md` | going on: each droplet of the non-living scale placed, the plan's first stage | by reading |
+| `instruments/`, twenty-seven named by a gathered droplet | a record: a check beside a gathered reading; each calls the code by its names as they are | by what names it |
+| `Value_since_the_gathering.md` | a record: its replies after its gathering, one after one; each thing of it is re-said in its sequence | by what names it |
+| `The_Session_Gathered.md` | of merge #484: brought current by the atom session, or a record | the atom session's own |
+| Nine pages from before its sequence: of the vault, of primes, of the seven and the seventeen names, of the diamond pointers, of podaling out, of five items at carbon, of Natural Mathematics and Natural Numbers read; `drawings/`; its other instruments | **not sorted.** No gathering names them. They have the person's sentences laid whole and words out since, by its own gathered page. The vault's sentences of them are in Natural Intelligence's gathering. Each is an artifact as its sequence has re-said it | the atom session's own |
+
+### `incoming/v401de/`, the helper session
+
+| Page | Its standing | Sorted |
+|---|---|---|
+| `Living_sentences_by_name.md` | going on: read before an asking of a name | by reading |
+| `Part_one_read_for_harm.md`, with its check | going on: part one's mending is by it | by reading |
+| `The_Session_Gathered.md` | going on: its value by its base, its concerns, its things out | by reading |
+| `README.md` | its opening, and its orienting | by reading |
+
+**Not sorted, in all:** one page of the managing session before, and the atom session's nine pages from before its sequence.
 

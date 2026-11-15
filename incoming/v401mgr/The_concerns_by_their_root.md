@@ -514,3 +514,9 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Laid:** `The_three_sessions_gathered_read_first.md`, its sections 10 and 11. Three pages of this folder are artifacts. Each other session is asked for its own folder's pages by their standing.
 
+## 35 The rest of the atom session's transcript; each folder sorted
+
+**Given by the person:** three more replies of the atom session's, of 14 November. Its replies between are not given; each sentence of them is in its sequence and its concerns.
+
+**Laid:** `The_three_sessions_gathered_read_first.md`, section 12, each page of the other three folders by its standing, and how each is sorted. `The_value_by_its_places.md`, read again, is an artifact. Not sorted: one page of the managing session before, and the atom session's nine pages from before its sequence.
+
