@@ -1,0 +1,6 @@
+SAME      Parities surfacing: agreeing, one parity; parting, 0, and 0 with each further parity; an empty set, an empty set; a 0 passing over (each receiving to six parities, each order)
+SAME      Selves with 17-next-existing are same with each order of them (300 same-existing-societies by chance, 12 momentaries each)
+SAME      6 is 10, one list with two names; with 9 the same list goes along
+          a self with 6, 10 and 9 each to one receiving self: that self receives [('s', -1), ('s', -1), ('s', -1)]
+SAME      Once with a prior, a sharing is with a prior each momentary (2,000 selves by chance, 10 momentaries each)
+          a prior given as 0 by a caller: empty surfacing -> (1, 1) ; + surfacing -> (1, 1) ; − surfacing -> (0, 0)
