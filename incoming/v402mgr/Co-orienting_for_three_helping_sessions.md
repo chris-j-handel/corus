@@ -1,6 +1,6 @@
 Incoming · v402mgr · 15 November 2026
 
-# Co-orienting: four sessions, each by its own value aiming
+# Co-orienting: four sessions, each improving one living file
 
 **No word here has authority. No living file is changed by this page.**
 
@@ -44,20 +44,24 @@ A sentence in quotation marks is word for word living.
 
 **No word is in by its source.** Only the best possible natural naming and explaining is a value. A droplet has its value in the best natural naming found, cohering and co-chaining with the living sentences and with the code executed. The person's words and a session's words are not quoted: each is re-said. *Base* is out of a session's speaking: a sentence is in by cohering and co-chaining with each observing. An incoming page stays whole, so a reader still finds a value lost.
 
-## Four value aimings
+## Four sessions, each improving one living file
 
-An aiming is a direction and no bound. A value found outside your aiming goes to its gathering file as a droplet, with a note to the session whose aiming it is.
+- **v402reading: Natural Intelligence.**
+- **v402code: Exhibit ONE Natural Resolver.**
+- **v402living: Exhibit TWENTY Natural Naming.**
+- **v402mgr, the managing session: Exhibit THIRTY Co-Chaining Logic Registry,** and the one way whole: each offering read and entered, and each living file's next version entered.
 
-- **The managing session: the one way, whole.** Each droplet entering, read for a value entering twice and for a concern entering by one side; each living file's next version and its entering; the four first, Exhibit ONE Natural Resolver, Exhibit TWENTY Natural Naming, Exhibit THIRTY Co-Chaining Logic Registry and Natural Intelligence, and each other living file after them by pattern matching and co-chaining.
-- **Parity.** A parity, a direction, one of two; same-as and other-than; me-parity, other-parity and all-parity; a 0 and a between.
-- **A moment and the seventeen names.** A moment; co, bi and tri; each name's three; podaling; scale; and each form by the code's lines, executed.
-- **Living and non-living.** The four things, a stable form, a self, a me-parity and a between; the atom; living's four, ingesting, inheriting, conceiving and exhausting; a me, a self and a society-self.
+**First, all the value the expedition already has, brought to each of the four.** Each session reads each incoming page whole for the value of its own living file, and enters each value in that living file's gathering file as a droplet. A value is of the living file whose sentence it meets: a name or a word, Exhibit TWENTY Natural Naming; a form the code has, Exhibit ONE Natural Resolver; a co-chaining logical sentence, Exhibit THIRTY Co-Chaining Logic Registry; an explaining a reader reads, Natural Intelligence. A value of more than one is a droplet at each. A value of an other living file is a note to the managing session.
+
+Entering a gathering file is not demanding: a value is carried whole and soon, in the best natural naming found so far, and its resolving comes after, in the gathering file. For each incoming page read whole, a session's note has it: the page, and that its value of that living file is in.
+
+**Then, each living file's next version,** by its own session: its living version copied, each droplet cohering with the living sentences and with the code executed living in it, each concern and each opportunity still in its gathering file. All or none at all.
 
 ## Reading for each other
 
-- **Each concept has an edge with an other's:** a 0 with a moment; all-parity with the atom; a me-parity with a self. A droplet at an edge is read by both sessions.
-- **Each session reads an other's droplets:** parity reads a moment and the seventeen names; a moment and the seventeen names reads living and non-living; living and non-living reads parity. The managing session reads each.
-- **A reading is of four:** is the explorer's value whole in the droplet; is a repetition same-as its living sentence, whole; is each side of a concern a living sentence, or the code executed; is it natural naming.
+- **Each session writes in its own living file's gathering file,** so no two sessions write one file at one moment. A droplet for an other session's file is a note to that session.
+- **Each session reads an other's droplets and its next version, for harm and for natural explaining:** v402code reads Exhibit TWENTY Natural Naming's; v402living reads Exhibit THIRTY Co-Chaining Logic Registry's; v402mgr reads Natural Intelligence's; v402reading reads Exhibit ONE Natural Resolver's.
+- **A reading is of four:** is the value of the incoming page whole in the droplet; is a repetition same-as its living sentence, whole; is each side of a concern a living sentence, or the code executed; is it natural naming.
 - **A possible incohering or a gap found in an other's droplet is a note to that session, and a help:** the living sentences it meets, the code executed, or a sentence of an incoming file resolving it.
 - **A concern the sessions do not resolve goes to the person,** by its two sides, one at a time. The person's suggesting, around and inside the concept, is the opening, re-said in the best natural naming found.
 
