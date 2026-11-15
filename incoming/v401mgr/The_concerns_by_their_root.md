@@ -481,3 +481,11 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **For part one:** its concern of 3.4 is this root. Neither of its two readings is chosen.
 
+## 32 Part four, laid: a name's three in its name
+
+**The person's sentence, by no authority:** 6's name with its three in it is 6-bi-co-bi-now-co-possibling, to the best of all naming and only one, nothing fuzzying.
+
+**Laid as a part, and rehearsed two ways on a copy:** the set's own check is whole by each; with the code's names having their three, 1 returns same-as by each naming.
+
+**Its concerns:** the code's names; co by two things in one name; 22 other-than 6 by its number only; a name with no number; the records of a version; the gatherings.
+
