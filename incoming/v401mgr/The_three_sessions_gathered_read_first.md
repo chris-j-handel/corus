@@ -6,7 +6,7 @@ Incoming · v401mgr · 14 November 2026 · read first
 
 **Its edges, said first.** It is gathered from the set as it is, from the notes at #458, and from the three sessions' transcripts, each read whole by the managing session, 14 November, section 10. The transcripts are the person's: the Living File Registry has the set storing no transcript, and none is laid here.
 
-**For a session arriving.** A session's priors are from its person's first prompting: this page's name, and each session's transcript beside it by the person's own hand. Read this page whole before any other page of `incoming/`.
+**For a session arriving.** The set's first page has a session read the Living File Registry and its gathering first; that gathering's *1.3* names this page. A session's priors are from its person's first prompting: this page's name, and each session's transcript beside it by the person's own hand. Read this page whole before any other page of `incoming/`.
 
 ---
 
@@ -118,7 +118,7 @@ Pages beside it: `Scale_three_things_laid_on_each_other.md`; `A_three_cycling_la
 1. This page whole. Then the plan, `The_Plan_for_the_next_version.md`, its sections 6 and 9. Then `The_concerns_by_their_root.md` from its section 23.
 2. Each other session's gathered page, section 5.
 3. The set's checks, section 9 below, on the main line as it is.
-4. The notes at #458 after 15 November 00:38 UTC, and each open pull request.
+4. The notes at #458 after 15 November 02:00 UTC, and each open pull request. At the winding no pull request is open.
 5. Part one mended by v401de's return, each place it found and each thing beside the part; then read again.
 6. Part three: the gatherings' quoted living words, the records of a version, its two readings; the files and the number said to the person; its laying.
 7. Each next part by section 2's order, one at a time, each instrument executed again on the set as it is then.
