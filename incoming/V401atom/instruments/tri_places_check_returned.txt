@@ -1,9 +1,0 @@
-the order of a name's three is next, now, prior, Exhibit ONE's own sentence: True
-1 the same-existing names: [4, 8, 12, 16] · each four-cycling's fourth: True
-  each has bi at its next and at its prior: True
-  its now is co by 4 and 12, and tri by 8 and 16: True
-2 tri's places: 1 its prior, 7 its next, 8 its now, 9 its prior, 15 its next, 16 its now, 17 its prior
-  tri is a name's next at 7 and 15; a name's now at 8 and 16, and at no other name; a name's prior at 9, 17 and 1: True
-  each name having no tri has co and bi only: True
-3 co is a name's now at each even name but 8 and 16: True
-  bi is a name's now at each odd name: True

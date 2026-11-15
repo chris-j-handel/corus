@@ -10,6 +10,16 @@ Incoming · v402mgr · 15 November 2026
 
 ---
 
+## Artifacts, shed · 15 November
+
+By the person's word: each page a session explored, its value carried into the gathering files, is an artifact. It leaves the living set, is in the set's history, and is not explored again. A gathering file has a value by its natural naming and explaining, and by no source, accrediting or story of a prior condition.
+
+| | Is | Is not |
+|---|---|---|
+| The living set | the thirty-three living files, the thirty-three gathering files, the kits, the site's pages, and this session's own folder while it works | any page of a session before this one |
+| Shed | the folders of the two managing sessions before, the session that read by the code, the reader for harm and the three helping sessions of 15 November; this session's orienting page and its first reading of Exhibit ONE Natural Resolver's gathering file | lost: each is in the set's history |
+| The gathering files | each value as it was carried | the eighty droplets that only named the page a value was carried from |
+
 ## Natural Intelligence's gathering file
 
 ### Its first part, the head · 15 November

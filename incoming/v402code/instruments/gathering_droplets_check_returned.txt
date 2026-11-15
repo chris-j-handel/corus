@@ -1,6 +1,0 @@
-SAME      Droplet, a torus's opening by its second reading, one self only with a prior: 1 · 5 is 4 and 3 · 13 is 12 :: found (from momentary less one, again by): {(1, 5): (4, 4), (3, 13): (23, 12)}
-          the table's rows by the second reading (17 · 59 aside): table {(1, 3): 3, (2, 3): 2, (1, 5): 5, (3, 3): 12, (3, 5): 12, (3, 7): 7, (3, 13): 13, (5, 7): 20, (5, 11): 11, (7, 17): 17}
-                                                               found {(1, 3): 3, (2, 3): 2, (1, 5): 4, (3, 3): 12, (3, 5): 12, (3, 7): 7, (3, 13): 12, (5, 7): 20, (5, 11): 11, (7, 17): 17}
-          rows where the second reading has the table's cell: [(1, 3), (2, 3), (3, 3), (3, 5), (3, 7), (5, 7), (5, 11), (7, 17)]
-SAME      Droplet, a spiral opening with self 1's prior − and each other self with no prior: each row of the table as it is (3 and 5) :: []
-SAME      v402mgr's reading: by self 1 only having a prior, each row of an odd number of selves past one is not same-as :: rows same-as by self 1 only: [1, 2, 4, 6, 8, 10]; not same-as: [3, 5, 7, 9, 11, 17, 59]

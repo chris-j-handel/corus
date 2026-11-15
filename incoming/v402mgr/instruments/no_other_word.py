@@ -2,7 +2,7 @@
 no other word is changed. The Living File Registry has its own entries of the version beside it."""
 import sys, re, subprocess
 R = sys.argv[1]
-src = open(R + '/incoming/v401mgr/instruments/build_part_three.py', encoding='utf-8').read()
+src = open(R + '/incoming/v402mgr/instruments/build_part_three.py', encoding='utf-8').read()
 ns = {}; exec(src.split("rows = []")[0].replace("R = sys.argv[1]", "R = None"), ns); transform = ns['transform']
 ok = True
 for f in open('/tmp/changed.txt').read().split():

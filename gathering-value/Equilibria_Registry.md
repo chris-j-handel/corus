@@ -118,5 +118,4 @@ Gathering-Value · Equilibria Registry
 - **An explaining** · This file's pointings at `incoming/equilibria_registry_v377/executions/`, with the closing's *executed with v377 on Exhibit ONE v376 by a script and part it cites*, are pointings at versions and at a moved folder: thirteen pointings at that path are at the file, at seven scripts; no folder is at that path, and each of the seven is at `archive/equilibria_registry_v377/executions/`, a folder of 16 files.
 
 ## Droplets
-- **An explaining** · The droplets after this one, to the next droplet of this kind or to this part's end, are carried whole by the managing session v402mgr, 15 November, from `incoming/V400mgrB/Value_for_the_opening.md`. Each is for resolving here; none is living.
 - **Possible incohering** · *Of Equilibria Registry 3.2.* *Odd names' forward recursionings, 1, 3, 5, 7* → The six names between selves are forward recursionings: three on the sharing side, 6, 10 and 9, and three on the observing side, 2, 14 and 17.
