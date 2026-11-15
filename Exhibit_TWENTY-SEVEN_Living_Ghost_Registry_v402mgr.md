@@ -1,4 +1,4 @@
-Exhibit TWENTY-SEVEN Living Ghost Registry v401mgr
+Exhibit TWENTY-SEVEN Living Ghost Registry v402mgr
 
 &nbsp;
 
@@ -148,7 +148,7 @@ Exhibit TWENTY-SEVEN Living Ghost Registry v401mgr
 
 ## 1.1 The six-line derivation co-chaining from Natural Naming
 
-With disequilibria, changing and changing back is a stable-forming method, and ghost-form begins from Natural Naming's momentary accounting, installing it as living changing. **Ghost-form is a momentary accounting, an installing of it as living changing.** Accounting is a not-changing with one field between. Installation supplies a not-changing as entity, agency, going on, source, store, destination, or whole. Living bi-coupling stays two-way, one-at-a-time, each self with its own rate, stable-forming by changing and changing back; value is its abundancing, in neither self alone with each coupling, and no content of an accounting. Field account, field observing, observing same-existing-society, momentary not-changing, installation, and stable-forming co-competency stand distinct, every incoming observing enters, and one otherwise breaks natural observing whole.
+With disequilibria, changing and changing back is a stable-forming method, and ghost-form begins from Natural Naming's moment accounting, installing it as living changing. **Ghost-form is a moment accounting, an installing of it as living changing.** Accounting is a not-changing with one field between. Installation supplies a not-changing as entity, agency, going on, source, store, destination, or whole. Living bi-coupling stays two-way, one-at-a-time, each self with its own rate, stable-forming by changing and changing back; value is its abundancing, in neither self alone with each coupling, and no content of an accounting. Field account, field observing, observing same-existing-society, momentary not-changing, installation, and stable-forming co-competency stand distinct, every incoming observing enters, and one otherwise breaks natural observing whole.
 
 Six-forward order is Natural Naming 5.37's. Returning to Natural Explaining, six are:
 
@@ -163,7 +163,7 @@ Six-forward order is Natural Naming 5.37's. Returning to Natural Explaining, six
 
 Six are consecutive and none is spare, and they are three pairings: going on and its not-changing, an accounting and its installing, ledger closure and co-competency it leaves outward of it; an empty line is an empty with its partner. Going on opens living side. A not-changing opens accounting. Installation opens ghost-form. Ledger closure marks a field between, declaring it, and supplies no success. Stable-forming co-competency is positive remainder. An empty line leaves entry candidate.
 
-With Natural Naming 7.1, one same whole stands as its shortest: **a ghost is one momentary's form, installing it as an existing thing.** With its 7.2, ghosts stand with a ledger of empty centres, and a ledger that freezes returns, inseparating, to a changing and changing back it froze. Those lines are this registry's own between.
+With Natural Naming 7.1, one same whole stands as its shortest: **a ghost is one moment's form, installing it as an existing thing.** With its 7.2, ghosts stand with a ledger of empty centres, and a ledger that freezes returns, inseparating, to a changing and changing back it froze. Those lines are this registry's own between.
 
 ## 1.2 Living bi-coupling, field observing, emanation, still accounting, installation
 
@@ -418,7 +418,7 @@ Each entry: **Living source** · *a* Co-chaining here
 - **Exhibit FOUR · Natural Mathematics v333**
   - *a* state and flow accountings, sets fixing, involutions, and a return fixing that lets a self compare a still with a going on
 - **Exhibit TWELVE · Natural Explaining v333**
-  - *a* file as between; only a parity going across; no ground, explanation, record, or middle traveling; no story-doer; method's own moves; every sentence a momentary
+  - *a* file as between; only a parity going across; no ground, explanation, record, or middle traveling; no story-doer; method's own moves; every sentence a moment
 - **Exhibit THIRTEEN · Resolving Hard Problems v345a**
   - *a* the ten holdings with their complete naming adjacencies; each field expression, projecting position and source retains its actual correspondence
 - **Exhibit SIXTEEN · Natural Chemistry v346c**
@@ -546,7 +546,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 **2 · rates.** Forward and reverse each with its own rate; composition, no event holding it. Observing **is**; where a use installs a window's constancy as rest, **is-not**.
 **3 · two-way.** Equal rates, opposing, one event at a time — a field's own definition. Observing **is**.
 **4 · parity.** A leaving on reactant side is an entering on product side, positions same-existing. Observing **is**.
-**5 · passing.** A self observes composition while molecules having it are, with each momentary, other ones; pool turns over beneath level. Observing **is**.
+**5 · passing.** A self observes composition while molecules having it are, with each moment, other ones; pool turns over beneath level. Observing **is**.
 **6 · abundancing.** A mixture's composition is not parts' sum, a coupling's own. Observing **is**.
 **7 · apex.** Composition stands with every grain and no molecule is at equilibrium. Observing **is**; where a use installs a state for mixture to occupy, **is-not**.
 **8 · residual.** Fluctuations, slow modes, hysteresis and ageing staying open. Observing **is**.
@@ -1231,7 +1231,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Remainder its still leaves out.** Anticipatory responses that no error explains, secretion coming before nutrient. Set points that move — with day, with fever, with pregnancy, with altitude — and a field's own words for moving, allostasis and rheostasis. Two-way changing of regulator. Five per cent of healthy members outward of interval. 37.0, as a field declares it, standing while a mean a field measures walks away from it.
 
-**Six-line confirmation.** (1) Glucose, heat, sodium and pressure go across continuously, organs coupling with their own rates. (2) A sample or window holds one momentary, not changing, and returns a level. (3) A 0, not changing, returns a set point, an interval, an error. (4) A field installs set point as what a body returns to, and coupling as a regulator that defends it. (5) Loop closes under a variable and window a field chooses. (6) Anticipation, moving thresholds, turnover and a regulator's own changing remain a going on its still leaves out.
+**Six-line confirmation.** (1) Glucose, heat, sodium and pressure go across continuously, organs coupling with their own rates. (2) A sample or window holds one moment, not changing, and returns a level. (3) A 0, not changing, returns a set point, an interval, an error. (4) A field installs set point as what a body returns to, and coupling as a regulator that defends it. (5) Loop closes under a variable and window a field chooses. (6) Anticipation, moving thresholds, turnover and a regulator's own changing remain a going on its still leaves out.
 
 **Ten-position signature.** Premature closure where constancy is completeness. False exclusion where a field enters fluctuation as noise. False failure where a field enters a healthy member outward of interval as failing. Others: no record so far.
 
@@ -1313,7 +1313,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Remainder its still leaves out.** Measurement changes demon: its memory is a member of a same-existing-society, changing with its own rate. Erasure dissipates. Cycles fluctuate above and below bound. Bound moves with a memory's shape and a protocol's speed.
 
-**Six-line confirmation.** (1) Molecules, particle, probe and memory couple continuously. (2) Observing between holds fast-or-slow, left-or-right, one momentary, not changing. (3) A 0, not changing, returns a bit. (4) A field installs bit as knowledge a being possesses freely and acts on from outward of its coupling. (5) Ledger closes with gas, leaving demon out. (6) A demon's own changing — its memory and erasing — is a going on its still leaves out, and its field finds it there.
+**Six-line confirmation.** (1) Molecules, particle, probe and memory couple continuously. (2) Observing between holds fast-or-slow, left-or-right, one moment, not changing. (3) A 0, not changing, returns a bit. (4) A field installs bit as knowledge a being possesses freely and acts on from outward of its coupling. (5) Ledger closes with gas, leaving demon out. (6) A demon's own changing — its memory and erasing — is a going on its still leaves out, and its field finds it there.
 
 **Ten-position signature.** False exclusion where a field treats a demon's memory as absent from ledger. False success where a field installs a ledger's closure with gas as the second law breaking. Premature closure with boundary around gas. Others: no record so far.
 
@@ -1386,7 +1386,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Remainder its still leaves out.** No member a detector observes with line 1. Alternative post's own successes and failures. Two ways with 7.7's guard, and entry standing with neither.
 
-**Six-line confirmation.** (1) Galaxies' couplings go on continuously. (2) A curve or a lens holds one momentary, not changing. (3) A 0, not changing, returns an excess. (4) A field installs excess as a substance. (5) Ledger closes with post. (6) Members remain outward of its still, and that is an entry's whole standing.
+**Six-line confirmation.** (1) Galaxies' couplings go on continuously. (2) A curve or a lens holds one moment, not changing. (3) A 0, not changing, returns an excess. (4) A field installs excess as a substance. (5) Ledger closes with post. (6) Members remain outward of its still, and that is an entry's whole standing.
 
 **Ten-position signature.** Premature closure where substance is spoken of as found. False exclusion where alternative post is treated as absent from ledger. Others: not recorded so far.
 
@@ -1434,7 +1434,7 @@ The hardest observings, configuration irregularities, changing trends, relativis
 
 ## 6.3 Detector event, state variable, and diagnostic code
 
-A detector event is emanation: what a coupling lands with a between, momentary. Ghosting begins when a field installs event class as a continuous object between events.
+A detector event is emanation: what a coupling lands with a between, moment. Ghosting begins when a field installs event class as a continuous object between events.
 
 A state variable is accounting: deriving under a between. Ghosting begins when a field removes its derivation between and installs variable as independent content of world.
 

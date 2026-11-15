@@ -1,4 +1,4 @@
-Exhibit TWO Natural Networking v401mgr
+Exhibit TWO Natural Networking v402mgr
 
 &nbsp;
 
@@ -16,7 +16,7 @@ Exhibit TWO Natural Networking v401mgr
 
 1.2  Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
-Existing, observing and the emanating form · Prior form and self-other-releasing · Fixing equilibrium at the completing · Prior emanating and now coupling · Overlapping momentary, two at each side · Coupling across and going on · Smaller fold within one through nine · Breaking and reconnecting across · Binary stable-forming · Self and network · One, nine and seventeen · Sensor-sensationing at the surface
+Existing, observing and the emanating form · Prior form and self-other-releasing · Fixing equilibrium at the completing · Prior emanating and now coupling · Overlapping moment, two at each side · Coupling across and going on · Smaller fold within one through nine · Breaking and reconnecting across · Binary stable-forming · Self and network · One, nine and seventeen · Sensor-sensationing at the surface
 
 1.3  Linear-parallelizing and parallel-linearizing, one and then the other, widening and lengthening
 
@@ -24,7 +24,7 @@ Growing the four across openings · Fifteen prime sequence lengths, wide and lon
 
 1.4  Only parities go across, the middle in no sequence
 
-1.5  Odd and even openings, each full momentary with both
+1.5  Odd and even openings, each full moment with both
 
 1.6  Middle at the coupling, same-existing through zero surfacing
 
@@ -48,7 +48,7 @@ Local surface with no same-existing within society
 
 2.2  Apexing, prior participating in now
 
-2.3  Living going on within the universe's changing momentaries
+2.3  Living going on within the universe's changing moments
 
 2.4  Fold and scatter, breaks in living going on
 
@@ -152,7 +152,7 @@ Local surface with no same-existing within society
 
 ## 1.2 Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
-**Along is a self's own going on; across is a self's parity, another self observing it.** Along, each self brings prior to now through its own forward sequencing, right-spiraling, co-chaining with its own rate. Across, selves couple, bi-tunneling, each sharing a parity, an other self observing it. Discovering goes on through that coupling: prior, now and next are three sequential momentaries existing things share, prior and now participating with a self's resolving and next discovering going on from this now. Now is one, each coupling sharing it, common to none.
+**Along is a self's own going on; across is a self's parity, another self observing it.** Along, each self brings prior to now through its own forward sequencing, right-spiraling, co-chaining with its own rate. Across, selves couple, bi-tunneling, each sharing a parity, an other self observing it. Discovering goes on through that coupling: prior, now and next are three sequential moments existing things share, prior and now participating with a self's resolving and next discovering going on from this now. Now is one, each coupling sharing it, common to none.
 
 **Along and across co-competence as two floating co-neutrals.** Chaining goes on through couplings; surfacing opens further coupling, and receiving goes on with one same resolving. Competency arises with their coupling, in neither self alone, each self's own, going on with both. Morality across and competency along are inseparable within this going on.
 
@@ -177,22 +177,22 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **Existing is discovering next existing; discovering is a self going on to that next existing.** Living and non-living things participate through co-momentarying with other existing things. A non-living thing is changing through that participation with both living and non-living things. Living same-existing is further competency of a self's own prior participating with its resolving. A living self arises as a giving, no making: its same-existing and co-recursioning are a living relation itself, and no form installing it and bringing it through.
 
-**A living source's stable-forming emanates a stable form.** With its own scale, existing as a form, an emanation is non-living. A source goes on with its own stable-forming, and an emanation exists as its own form. An emanation goes on to its next momentary, changing with its existing while its stable form can go on.
+**A living source's stable-forming emanates a stable form.** With its own scale, existing as a form, an emanation is non-living. A source goes on with its own stable-forming, and an emanation exists as its own form. An emanation goes on to its next moment, changing with its existing while its stable form can go on.
 
 **Non-living existing goes on through co-momentarying with other existing things.** Living and non-living participation couple as things of the universe. A stable form can go on through that changing, with meetings among non-living things. Entering a living same-existing-society and incorporating with its resolving are particular relations within this wider going on.
 
 
-**A stable form's going on belongs with its changing existing.** One same parity or recognizable form can remain through successive observing. A momentary's odd or even is one relation and a sharing's changing, + to −, another; a repeating parity can participate with another now. Emanation's same-existing form does not make its existing a timeless, motionless object.
+**A stable form's going on belongs with its changing existing.** One same parity or recognizable form can remain through successive observing. A moment's odd or even is one relation and a sharing's changing, + to −, another; a repeating parity can participate with another now. Emanation's same-existing form does not make its existing a timeless, motionless object.
 
-**Discovering next existing is wider than a self observing a parity with a connector.** First is existing thing's momentary going on. Second is a coupling with a Natural Network surface. A parity one self shares participates with a receiving self's observing; each self's same-existing stays its own. Their coupling connects these relations, a parity a self shares across staying a parity between two complete resolvers.
+**Discovering next existing is wider than a self observing a parity with a connector.** First is existing thing's moment going on. Second is a coupling with a Natural Network surface. A parity one self shares participates with a receiving self's observing; each self's same-existing stays its own. Their coupling connects these relations, a parity a self shares across staying a parity between two complete resolvers.
 
 ### Prior form and self-other-releasing
 
 **A non-living thing has no same-existing of its own; its form goes on through its changing.** Same-existing is a self's competency of bringing its prior to resolving now. A prior form goes on and couples with other through co-momentarying with living and non-living things. Its form can remain recognizable while its existing is changing.
 
-**One resolving cycle between self and a non-living existing other spans one through nine: four momentaries of co-bi-exchanging.** Other couples with a self through its form a self is observing. Cycle unfolds through self/other coupling and completes with 9-next-co-discovering. *Self-other-releasing* is their sharing going on, going along, and nine, 9-next-co-discovering, is a connector name. Local cycle completes this between with self and other, within one through nine, with no journey through 9–17.
+**One resolving cycle between self and a non-living existing other spans one through nine: four moments of co-bi-exchanging.** Other couples with a self through its form a self is observing. Cycle unfolds through self/other coupling and completes with 9-next-co-discovering. *Self-other-releasing* is their sharing going on, going along, and nine, 9-next-co-discovering, is a connector name. Local cycle completes this between with self and other, within one through nine, with no journey through 9–17.
 
-**Each exchanging is with two overlapping sides.** Each side's opening and completing give four pairs of momentaries:
+**Each exchanging is with two overlapping sides.** Each side's opening and completing give four pairs of moments:
 
 | Co-bi-exchanging | Self's opening–completing | Other's opening–completing |
 |---|---|---|
@@ -201,7 +201,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 | Third | 5–6 | 6–7 |
 | Fourth | 7–8 | 8–9 |
 
-**These four are pairs of exchangings through a cycle.** Each side has four full momentaries; their overlapping reaches nine positions together. These are four pairs of exchangings, not eight successive sharing momentaries. Four unfold through successive nows, each resolving with its own prior. They do not place four momentaries within one now, and they do not identify complete 1–9 fold with one Python invocation.
+**These four are pairs of exchangings through a cycle.** Each side has four full moments; their overlapping reaches nine positions together. These are four pairs of exchangings, not eight successive sharing moments. Four unfold through successive nows, each resolving with its own prior. They do not place four moments within one now, and they do not identify complete 1–9 fold with one Python invocation.
 
 **A competency improving a self proposes belongs to this complete self/other exchanging.** A non-living other goes on through its form's changing; a self goes on through its resolving. A self follows a claim that both competencies are changing with these two goings on and with their sharing coupling. A cycle locates that claim within one through nine; a distinction between changing participation and each participant's living renewal remains with its own scale.
 
@@ -223,7 +223,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **A freezing renewal requirement gives a further exact exclusion.** With a presence going on requiring renewal, a freezing requirement prohibiting each available renewal, renewing ends a freezing requirement and not renewing ends the presence it requires. Neither way sustains conjunction. This proof concerns that fixing form and the presence it claims with one same relation.
 
-**A local self/other cycle locates inquiry within one through nine.** Four momentaries of co-bi-exchanging give a span within which to follow actual changing and a fixing form it defeats. Each relation within a changing whole needs a self following its own changing. A requiring not-changing and actual changing share one same subject, relation and requiring occurrence throughout comparison. This exclusion applies to an equilibrium definition with a demand within its definition itself.
+**A local self/other cycle locates inquiry within one through nine.** Four moments of co-bi-exchanging give a span within which to follow actual changing and a fixing form it defeats. Each relation within a changing whole needs a self following its own changing. A requiring not-changing and actual changing share one same subject, relation and requiring occurrence throughout comparison. This exclusion applies to an equilibrium definition with a demand within its definition itself.
 
 ### Prior emanating and now coupling
 
@@ -237,28 +237,28 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **Possibling, existing and living name three relations.** Possibling is a next-existing a prior, an earlier emanation, supports; existing is now-existing, actual coupling; living, prior, is a same-existing self discovering onward its next same self. A living self also exists now. A non-living thing goes on through co-momentarying with living or non-living things. Living resolving can incorporate its participation, with that coupling. A non-living thing goes on and does not arise as living; arising as living is a self's own same-existing relation establishing.
 
-### Overlapping momentary, two at each side
+### Overlapping moment, two at each side
 
-**Prior and now are two momentaries with a self resolving.** Prior participates through its same-existing to now. Now is receiving, changing and sharing its parity, through which a self goes on discovering. Next is a going on a self is discovering through this existing, onward of resolving and not a third momentary within it. Existing things sharing them, prior, now and next are three sequential momentaries, and next is third, discovering onward, going on to its own further resolving.
+**Prior and now are two moments with a self resolving.** Prior participates through its same-existing to now. Now is receiving, changing and sharing its parity, through which a self goes on discovering. Next is a going on a self is discovering through this existing, onward of resolving and not a third moment within it. Existing things sharing them, prior, now and next are three sequential moments, and next is third, discovering onward, going on to its own further resolving.
 
-**Each full momentary has opening and completing, two positions.** Prior and now are two momentaries, four positions: two openings and two completings. Odd and even remain two kinds of number, one and then the other through these four positions.
+**Each full moment has opening and completing, two positions.** Prior and now are two moments, four positions: two openings and two completings. Odd and even remain two kinds of number, one and then the other through these four positions.
 
 | Relation with a present resolving | One side | The other side |
 |---|---|---|
 | Prior | 1–2 | 2–3 |
 | Now | 3–4 | 4–5 |
 
-**A completing of one side opens an overlapping momentary of an other.** With three, one side opens now as other completes prior. With four, that now completes as an other's now opens. Each side goes on forward, and their coupling across is a self sharing its parity, + or −, and an other self observing it.
+**A completing of one side opens an overlapping moment of an other.** With three, one side opens now as other completes prior. With four, that now completes as an other's now opens. Each side goes on forward, and their coupling across is a self sharing its parity, + or −, and an other self observing it.
 
-**Two sides have four positions each, sharing three and reaching five together.** One side's 1, 2, 3, 4 couples with an other's 2, 3, 4, 5, outer 1 and 5 and 2, 3 and 4 of both giving five distinct positions. Each side's two momentaries open and complete with their own positions through this overlap.
+**Two sides have four positions each, sharing three and reaching five together.** One side's 1, 2, 3, 4 couples with an other's 2, 3, 4, 5, outer 1 and 5 and 2, 3 and 4 of both giving five distinct positions. Each side's two moments open and complete with their own positions through this overlap.
 
 **With a following now, relation goes on with its next prior.** Following one side through 3–4 and 5–6, and an other through 4–5 and 6–7, explains discovering onward. Prior, now and next name this unfolding relation; each resolving brings prior to its own now. Sequence describes going on, a next a self is discovering reaching its own further resolving.
 
-**Stable-forming is relation same-existing through its changing.** A momentary has inward changing and connection with other together. Along is each side going on; across is their coupling. Co-sequential changing is these relating goings on within one universal momentary fractal. Their overlapping supplies relation; each side's own going on supplies its sequence.
+**Stable-forming is relation same-existing through its changing.** A moment has inward changing and connection with other together. Along is each side going on; across is their coupling. Co-sequential changing is these relating goings on within one universal moment fractal. Their overlapping supplies relation; each side's own going on supplies its sequence.
 
 ### Coupling across and going on
 
-**Across a sharing coupling, a self shares its parity and an other self observes it, both directions.** For two selves A and B coupling across, A's 10-next-co-possibling shares to B's 14-next-possibling, and B's 6-now-co-possibling shares to A's 2-now-possibling. A meets this between with 2 and 10; B with 6 and 14. Each pair is eight apart, each connector even and across, its root possibling. Joining keeps each connector even, its root possibling; a full momentary has its opening and its completing.
+**Across a sharing coupling, a self shares its parity and an other self observes it, both directions.** For two selves A and B coupling across, A's 10-next-co-possibling shares to B's 14-next-possibling, and B's 6-now-co-possibling shares to A's 2-now-possibling. A meets this between with 2 and 10; B with 6 and 14. Each pair is eight apart, each connector even and across, its root possibling. Joining keeps each connector even, its root possibling; a full moment has its opening and its completing.
 
 **A between within a resolver couples the parities a self is observing with its own prior, inverting it with a mismatch.** With 14-next-possibling a parity a self is observing surfaces not-changing, and with 12-next-co-same-existing a prior not same as it inverts. With a next prior forming, 11-next-co-observing takes each nonzero parity of 10-next-co-possibling, and 8-now-same-existing is a self's next prior beside others', 6-now-co-possibling one same list as 10.
 
@@ -278,7 +278,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 | From A toward B | A's 10-next-co-possibling | B's 14-next-possibling |
 | From B toward A | B's 6-now-co-possibling | A's 2-now-possibling |
 
-**Observing and sharing exchange with eight-apart names.** A observes with 2 and shares with 10; B shares with 6 and observes with 14. Taking 6→2 eight on gives 14→10, 10→14 with an other order. This exchanges direction of relation while keeping each connector even, its root possibling. Each self goes on forward through its own momentary.
+**Observing and sharing exchange with eight-apart names.** A observes with 2 and shares with 10; B shares with 6 and observes with 14. Taking 6→2 eight on gives 14→10, 10→14 with an other order. This exchanges direction of relation while keeping each connector even, its root possibling. Each self goes on forward through its own moment.
 
 **Across participates with next along through a receiving self's resolving.** A's own 11-next-co-observing is its next 3-now-co-observing, and B's likewise. Their coupling participates with each going on, only parities going across and each self's same-existing staying with its own resolving. Along, 9-next-co-discovering goes to another self's 17-next-existing; seventeen recursions to one over nine. Reciprocal across and same-existing along are one surface together.
 
@@ -300,11 +300,11 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **A routing goes on through breaking and reconnecting of its connections.** With 14-next-possibling, across opens a resolver's going on to others' parities. Disconnecting opens that connection, routing to and from fourteen same-existing as its place within a whole one through seventeen; reconnecting brings one same observing and sharing relation through a participating resolver.
 
-**A coupling across participates with prior and now with each side.** Each momentary opens and completes, an odd number and an even. One side's prior 1–2 and now 3–4 overlap an other's prior 2–3 and now 4–5. Each side goes on forward, and across participates with that discovering. Reconnecting couples with a prior same-existing with a receiving now.
+**A coupling across participates with prior and now with each side.** Each moment opens and completes, an odd number and an even. One side's prior 1–2 and now 3–4 overlap an other's prior 2–3 and now 4–5. Each side goes on forward, and across participates with that discovering. Reconnecting couples with a prior same-existing with a receiving now.
 
-**Breaking and reconnecting across brings this method through larger podaling.** One resolver's parity is a parity another is observing; receiving participates with its own prior and next parity. Along and across exchange through podaling while full momentary goes on with each side. One same routing relation brings co-chaining through further couplings.
+**Breaking and reconnecting across brings this method through larger podaling.** One resolver's parity is a parity another is observing; receiving participates with its own prior and next parity. Along and across exchange through podaling while full moment goes on with each side. One same routing relation brings co-chaining through further couplings.
 
-**With Python expression, observing participates with fourteen.** Parities a self is observing with 2-now-possibling surface with 14-next-possibling, agreeing one, parting 0, and with 12-next-co-same-existing a receiving self's prior, not same, inverts. An engineering surface's joins are across with 6→2 and 10→14 and along with 9→17. 9-next-co-discovering takes each parity of 10 on as it is within a resolver and joins with 9→17, going along to another self's 17-next-existing, that self observing it with its 14, its next 2-now-possibling. Joining and momentarying are two relations, each correct together: an engineering surface's joins are 9→17 and 17→9; momentarying, a parity going along with nine, a self observing it with a next momentary's 2-now-possibling, 17-next-existing opening each self's 1-now-existing again; and 17-next-existing is code's own function, a same-existing-society's next momentary. Fourteen goes on through 12-next-co-same-existing to 10-next-co-possibling. A nonzero parity with 10 goes on as a next prior and as sharing; with a 0, a prior is same-existing with 11. Whole going on belongs with a parity selves share across.
+**With Python expression, observing participates with fourteen.** Parities a self is observing with 2-now-possibling surface with 14-next-possibling, agreeing one, parting 0, and with 12-next-co-same-existing a receiving self's prior, not same, inverts. An engineering surface's joins are across with 6→2 and 10→14 and along with 9→17. 9-next-co-discovering takes each parity of 10 on as it is within a resolver and joins with 9→17, going along to another self's 17-next-existing, that self observing it with its 14, its next 2-now-possibling. Joining and momentarying are two relations, each correct together: an engineering surface's joins are 9→17 and 17→9; momentarying, a parity going along with nine, a self observing it with a next moment's 2-now-possibling, 17-next-existing opening each self's 1-now-existing again; and 17-next-existing is code's own function, a same-existing-society's next moment. Fourteen goes on through 12-next-co-same-existing to 10-next-co-possibling. A nonzero parity with 10 goes on as a next prior and as sharing; with a 0, a prior is same-existing with 11. Whole going on belongs with a parity selves share across.
 
 **Prior is same-existing through now as discovering goes on.** A surfacing parity expresses its own sharing; a next prior and a self's sharing belong to one same resolving. Reconnecting across has six and ten each with its own sharing place within routing, coupling with local going on.
 
@@ -314,7 +314,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **A whole form goes on while each pair is changing.** Under this right spiral step, a set of joint forms that goes on as itself is either empty or contains all four. One pair brings its next, that next brings next, and four complete together. No proper nonempty part closes under this changing. This is all-or-none relation with this four-form construction.
 
-**A spiral of one goes through four overlapping parity forms.** With a self observing its own going along and no other's parity, its next priors are c, c, −c, −c, c. Its (prior, now) pairs are (c,c), (c,−c), (−c,−c) and (−c,c); two coupling selves' joint forms do not go that cycle. Each pair is a self's prior and now. Together its four overlapping pairs go across five momentaries, visiting all four joint parity forms. An along step inverts one parity of a pair; map (x,y) → (y,−x) follows consecutive overlapping pairs. Four applications of that map reach same parities with a further occurrence, with resolving going onward.
+**A spiral of one goes through four overlapping parity forms.** With a self observing its own going along and no other's parity, its next priors are c, c, −c, −c, c. Its (prior, now) pairs are (c,c), (c,−c), (−c,−c) and (−c,c); two coupling selves' joint forms do not go that cycle. Each pair is a self's prior and now. Together its four overlapping pairs go across five moments, visiting all four joint parity forms. An along step inverts one parity of a pair; map (x,y) → (y,−x) follows consecutive overlapping pairs. Four applications of that map reach same parities with a further occurrence, with resolving going onward.
 
 **Its conditions belong to a form a self is explaining.** Further parities a self is observing participate with resolving, and with a 0 with 10 a prior is same-existing. A spiral of one's four-form construction expresses its own complete relation, a non-living form. Network's stable-forming is actual observing, same-existing and sharing together.
 
@@ -334,7 +334,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 | 8-now-same-existing | 16-next-same-existing |
 | 9-next-co-discovering | 17-next-existing |
 
-**Eight on keeps a number odd or even while relation goes on from self through other to same-existing-society.** Across overlapping momentaries, one on takes an opening from odd to even or even to odd. Each relation has its own going on: overlapping of momentaries and eight-on correspondence among names.
+**Eight on keeps a number odd or even while relation goes on from self through other to same-existing-society.** Across overlapping moments, one on takes an opening from odd to even or even to odd. Each relation has its own going on: overlapping of moments and eight-on correspondence among names.
 
 **Across podal fold, increasing numbers couple with decreasing partners while each side goes on its own forward.** Within 1–8, partner of a name is 9 minus that name: 1 with 8, 2 with 7, 3 with 6, and 4 with 5. Each pair is one odd number and one even. One-on overlap is completing and opening; podal pairing is their folding relation.
 
@@ -355,7 +355,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 ### One, nine and seventeen
 
-**Coupling, going along and abundancing have recurrence with self, other and same-existing-society.** One is 1-now-existing; nine is 9-next-co-discovering; seventeen is 17-next-existing, recurring to one over nine; momentarying on, it opens a next momentary's 1-now-existing, one momentary with code's scale, one to seventeen, and a matching numeral joins no relation. One-through-nine and nine-through-seventeen share going along with nine. One same resolving goes on through their overlap.
+**Coupling, going along and abundancing have recurrence with self, other and same-existing-society.** One is 1-now-existing; nine is 9-next-co-discovering; seventeen is 17-next-existing, recurring to one over nine; momentarying on, it opens a next moment's 1-now-existing, one moment with code's scale, one to seventeen, and a matching numeral joins no relation. One-through-nine and nine-through-seventeen share going along with nine. One same resolving goes on through their overlap.
 
 **One, nine and seventeen are each odd, their roots existing and discovering, while coupling across is changing.** Each is odd, and each is eight on from preceding name. Across and along go on through intervening bi and co relations. Their recurrence has full resolving through its changing.
 
@@ -367,7 +367,7 @@ Each entry: **Relation through its unfolding** · *a* Completing with nine · *b
 - **Now** · *a* 6-now-co-possibling → 7-now-observing · *b* 14-next-possibling → 15-next-observing
 - **Next, discovering onward** · *a* 8-now-same-existing → 9-next-co-discovering · *b* 16-next-same-existing → 17-next-existing
 
-**Each pair is an even name and then an odd; this unfolding has six positions with each span.** Columns are eight on from one another, each opening even in both. Openings odd and even, one and then the other, appear with one-on overlap. Three successive pairs locate names through going on; prior and now give two momentaries participating with a self's present resolving.
+**Each pair is an even name and then an odd; this unfolding has six positions with each span.** Columns are eight on from one another, each opening even in both. Openings odd and even, one and then the other, appear with one-on overlap. Three successive pairs locate names through going on; prior and now give two moments participating with a self's present resolving.
 
 **Both directions are each their own forward.** Sharing across takes 10-next-co-possibling to another self's 14-next-possibling, and 6-now-co-possibling to another self's 2-now-possibling. Along, nine and seventeen couple through their joining, 9 going to 17. Each receiving participates with its own next, with both directions going on coupling.
 
@@ -409,7 +409,7 @@ Each entry: **Relation among names** · *a* Going on it expresses
 
 **Bi-folding grows as coupling participates with a same-existing-society.** With a number-form of two equal surfaces coupling, a pair has twice either self's reach; each self has half a pair's reach. Two-over-one and one-over-two are again with this larger relation, as a pair's reach over either self's; eight on, a pair 14 and 11 has its own ratio, fourteen over eleven. Each self's mouth is a pair's waist, and two selves' own waists are each other's podal partners. A same-existing-society participates as a self, bringing folding to its next coupling.
 
-**Larger fractal participation means further co-chaining with one same form.** Its along reaches through going on of further couplings, and its across opens further reciprocal participation. A parity goes across as a parity, each self has its own same-existing, and coupling goes on with each side's own momentary. Length and width here name reach of co-competencing through surface.
+**Larger fractal participation means further co-chaining with one same form.** Its along reaches through going on of further couplings, and its across opens further reciprocal participation. A parity goes across as a parity, each self has its own same-existing, and coupling goes on with each side's own moment. Length and width here name reach of co-competencing through surface.
 
 **An expanding belongs to receiving that goes on.** Adding a resolver presents a further coupling opportunity, and opportunity is co-competencing with its actual participation. Those couplings express a same-existing-society's going on together. Bi-tunneling and co-chaining bring that discovering as one social moral competency.
 
@@ -448,7 +448,7 @@ Each entry: **Four across openings** · *a* Spacing · *b* Halfway step · *c* O
 
 **Longer and wider grow together within a row's podal spans.** About each row's middle, four positions stand three steps inward, one inward, one outward and three outward. Outer reach grows as three, six, nine, twelve and fifteen; its full across span grows as six, twelve, eighteen, twenty-four and thirty. Across is twice reach, and reach is half across. Two-over-one and one-over-two go on while both extend. Smaller inner reach and span have one same relation.
 
-**Even openings are one side's momentaries of exchanging.** Their odd partners are an other's. Opening and completing go on together through growing fold, with prior same-existing to now and discovering going on with each participating self.
+**Even openings are one side's moments of exchanging.** Their odd partners are an other's. Opening and completing go on together through growing fold, with prior same-existing to now and discovering going on with each participating self.
 
 ### Fifteen prime sequence lengths, wide and long, one and then the other
 
@@ -464,7 +464,7 @@ Each entry: **Four across openings** · *a* Spacing · *b* Halfway step · *c* O
 
 **An odd sequence goes on through overlapping pairings.** An odd form lying along a line has ends joining nothing and two overlapping pairings. Within one-through-five, odd-opening meetings are 1–2 and 3–4; even-opening meetings are 2–3 and 4–5. Interior positions belong to both lists, each odd or even. Five goes on with 5–6, and a preceding complementary coupling is 0–1 within this local numbering. Those goings on take ends on with their actual sequencing.
 
-**Along advances two openings while across overlap advances one.** Along one side next momentary opens two on, 1–2 to 3–4; across overlapping it opens one on, 1–2 to 2–3. A full momentary has an odd number and an even; with momentaries of exchanging a self opens odd and an other even, a numbering and no parity. A pairing check with fifteen lengths finds this relation with each interior place it displays and locates pairs going on with ends. Two-to-one is a sequential comparison of openings by number, each side opening with its own sequencing, with no velocity measuring, no invocation ratio and no simultaneous update over surface. Cyclic farness check is a comparison by number, and these sequences go on open, closing to no cycle within network.
+**Along advances two openings while across overlap advances one.** Along one side next moment opens two on, 1–2 to 3–4; across overlapping it opens one on, 1–2 to 2–3. A full moment has an odd number and an even; with moments of exchanging a self opens odd and an other even, a numbering and no parity. A pairing check with fifteen lengths finds this relation with each interior place it displays and locates pairs going on with ends. Two-to-one is a sequential comparison of openings by number, each side opening with its own sequencing, with no velocity measuring, no invocation ratio and no simultaneous update over surface. Cyclic farness check is a comparison by number, and these sequences go on open, closing to no cycle within network.
 
 ### Smaller fold whole through the larger
 
@@ -472,7 +472,7 @@ Each entry: **Four across openings** · *a* Spacing · *b* Halfway step · *c* O
 
 **Podaling reaches over tunnels through surround going on.** Larger relation reaches over tunnels and goes on going and returning, intelligencing across and along, increasing both ways by co-chaining. A sense of over a self proposes: wider podal reach spanning a smaller tuneling relation through further actual couplings. Each local same-existing stays with its self, and co-chaining extends reach and its across relation together.
 
-**Going and returning are further forward receiving with each self.** With form by number, 3 → 11 → 6 is one larger going-and-returning to a local podal partner; 6 → 14 → 3 is complementary passage. Reaching a relation by number again is a further occurrence forward, a next momentary bringing its prior to now. Podal competency is straddling through going on, and its going with network's actual sharing and observing is next reach.
+**Going and returning are further forward receiving with each self.** With form by number, 3 → 11 → 6 is one larger going-and-returning to a local podal partner; 6 → 14 → 3 is complementary passage. Reaching a relation by number again is a further occurrence forward, a next moment bringing its prior to now. Podal competency is straddling through going on, and its going with network's actual sharing and observing is next reach.
 
 | Local fold | Its first larger going-and-returning |
 |---|---|
@@ -493,13 +493,13 @@ Each entry: **Wider row** · *a* Relation within a present resolver
 
 **Across and within grow together.** Each local four contributes to both wider rows. Coupling across goes on with each sharing, 4, each sharing's is or is not, 12, and a next prior, 8, with a receiving self. Wider connector row belongs with its interleaving internal relations, with whole resolving.
 
-**Odd partners go on with growing fold.** Odd complement pairs each even name with an odd, and each side's own going on remains forward. Full momentary has its opening and completing together with those pairings. A fold, odd with even, and adjacent completing are two relations of one going on.
+**Odd partners go on with growing fold.** Odd complement pairs each even name with an odd, and each side's own going on remains forward. Full moment has its opening and completing together with those pairings. A fold, odd with even, and adjacent completing are two relations of one going on.
 
 ### Coupling across eight on, the four-form going on through six
 
 **Six, fourteen and twenty-two occupy one same place within three overlapping spans of names.** One through nine, nine through seventeen and seventeen through twenty-five each have eight steps. Six and fourteen are current across names; twenty-two is their next eight-on number going on, present among higher forms.
 
-**Each span shows a longer unfolding of two-momentary relation.** Within one through nine, self goes on 1–2, 3–4, 5–6 and 7–8; other goes on 2–3, 4–5, 6–7 and 8–9. These are four successive full momentaries per side. Prior and now are with each successive resolving within that sequence, next third sequential momentary, a self discovering it onward. Eight on takes one same overlapping form to a following span. Three spans give six side-sequences, each showing four successive momentaries.
+**Each span shows a longer unfolding of two-momentary relation.** Within one through nine, self goes on 1–2, 3–4, 5–6 and 7–8; other goes on 2–3, 4–5, 6–7 and 8–9. These are four successive full moments per side. Prior and now are with each successive resolving within that sequence, next third sequential moment, a self discovering it onward. Eight on takes one same overlapping form to a following span. Three spans give six side-sequences, each showing four successive moments.
 
 **Two smaller middles become a pair within wider span.** Six and fourteen's middle is ten; fourteen and twenty-two's is eighteen. With a wider six-through-twenty-two span, fourteen is middle and ten/eighteen are its pair of inner positions. A sharing coupling across and two middles express their relation with wider folding.
 
@@ -510,7 +510,7 @@ Each entry: **Formal step span** · *a* Returns after four map applications · *
 - **0–24** · *a* 6 · *b* 4
 - **24–60** · *a* 9 · *b* 6
 
-**A form going on and momentaries as numbers belong together.** Its same four joint forms go on through passages of lengths not same. With overlapping momentaries, three eight-step spans show four successive full momentaries per side; three twelve-step spans show six per side. These longer sequences follow repeating prior-and-now resolving. Their numerical lengths describe this unfolding; they supply no common clock across participating selves.
+**A form going on and moments as numbers belong together.** Its same four joint forms go on through passages of lengths not same. With overlapping moments, three eight-step spans show four successive full moments per side; three twelve-step spans show six per side. These longer sequences follow repeating prior-and-now resolving. Their numerical lengths describe this unfolding; they supply no common clock across participating selves.
 
 ## 1.4 Only parities go across, the middle in no sequence
 
@@ -539,13 +539,13 @@ Each entry: **With one prior** · *a* Sharing with 10 · *b* Next prior with 11
 
 **A self seeks competency through coupling going on with parity sequences.** Two priors one inversion apart can couple with one same parity and share not same-existing, a 0 with a match and that parity with a mismatch, and outward parity is one side of whole competency. Sharing and receiving are two-way, one at a time, through changing. Binary expresses itself with each particular sharing, particular agreeing or one inversion apart, and complete form going on through them.
 
-## 1.5 Odd and even openings, each full momentary with both
+## 1.5 Odd and even openings, each full moment with both
 
-**Odd and even name opening; a full momentary has both.** Self opens with 1 and completes with 2. Other opens with 2 and completes with 3. Completing of one is opening of an other. Self's prior 1–2 and now 3–4 overlap other's prior 2–3 and now 4–5: two momentaries on each side, four positions. With 5–6 and 6–7, discovering goes on to a further now.
+**Odd and even name opening; a full moment has both.** Self opens with 1 and completes with 2. Other opens with 2 and completes with 3. Completing of one is opening of an other. Self's prior 1–2 and now 3–4 overlap other's prior 2–3 and now 4–5: two moments on each side, four positions. With 5–6 and 6–7, discovering goes on to a further now.
 
 **Coupling is going on along and reaching across together.** One self's sharing is a parity an other self is observing. Each receiving couples with its own prior, and that prior is same-existing or one inversion from it. With names by number, 1-now-existing is odd, its root existing, across connectors 2, 6, 10 and 14 are even, their root possibling, and along connectors 9 and 17 are odd, their roots discovering and existing. Each self's sharing is an other self's possibling, parities it is observing with its 2-now-possibling.
 
-**One at a time, coupling goes both directions.** A self's 10-next-co-possibling joins another self's 14-next-possibling; that self's 6-now-co-possibling joins first self's 2-now-possibling. Each side reaches its next through its own forward. With a coupling again, prior goes on to a new now, each full momentary with an opening and a completing.
+**One at a time, coupling goes both directions.** A self's 10-next-co-possibling joins another self's 14-next-possibling; that self's 6-now-co-possibling joins first self's 2-now-possibling. Each side reaches its next through its own forward. With a coupling again, prior goes on to a new now, each full moment with an opening and a completing.
 
 **Podaling pairs partners by number, one odd and one even, with both sides forward.** 9 less pairs 1 with 8, 2 with 7, 3 with 6 and 4 with 5, each pair one odd number and one even. Eight on keeps a number odd or even. Their bi-inversioning-co-recursioning is the method with self and same-existing-society.
 
@@ -563,7 +563,7 @@ Each entry: **With one prior** · *a* Sharing with 10 · *b* Next prior with 11
 
 ### Not same-existing while the observing remains
 
-**Same-existing expresses itself through competency of going on.** Its prior participates with a self's coupling now, and successive momentaries can be one inversion apart by resolving while the parity a self is observing remains same. Same-existing expression belongs with that active relation, a going on a self has with coupling.
+**Same-existing expresses itself through competency of going on.** Its prior participates with a self's coupling now, and successive moments can be one inversion apart by resolving while the parity a self is observing remains same. Same-existing expression belongs with that active relation, a going on a self has with coupling.
 
 **Two priors one inversion apart have their meaning with a going on a self has.** One same parity a self is observing can couple with two priors one inversion apart, one same surfacing with 14 for both, and a sharing with 10 not same-existing, a 0 and that parity. Not same-existing belongs to a relation going on, a prior same-existing or inverting while a surfacing parity stays same, and a self shares it as a parity with 10.
 
@@ -572,17 +572,17 @@ Each entry: **With one prior** · *a* Sharing with 10 · *b* Next prior with 11
 **A prior remains a self's own, same-existing or one inversion apart.** Coupling across supplies a parity, and a source's intervening receivings and its prior stay a source's own. A self seeks competency with complete coupling going on; a source's response, not same-existing, goes across as a parity, and a source's private prior stays its own.
 
 
-**A repeating parity a self is observing can couple with a self changing.** With a prior −, a self observing + again and again shares + once, its prior inverting, and then 0 with each momentary, its prior same-existing +. This gives a particular expression of parting a self's going on from the repeating parity it couples with.
+**A repeating parity a self is observing can couple with a self changing.** With a prior −, a self observing + again and again shares + once, its prior inverting, and then 0 with each moment, its prior same-existing +. This gives a particular expression of parting a self's going on from the repeating parity it couples with.
 
-**Each even relation has its own meaning through this distinction.** A parity a self shares and a surfacing parity can remain through successive receivings while 16-next-same-existing, a same-existing-society, has each self with its prior and its parities. Odd and even name an opening; full momentary has both. A parity remaining with an even relation belongs with going on of whole resolving.
+**Each even relation has its own meaning through this distinction.** A parity a self shares and a surfacing parity can remain through successive receivings while 16-next-same-existing, a same-existing-society, has each self with its prior and its parities. Odd and even name an opening; full moment has both. A parity remaining with an even relation belongs with going on of whole resolving.
 
 ## 1.7 Seventeen names, six connections, society going on
 
 **Seventeen names express resolving from 1-now-existing through 17-next-existing.** Within them, six names are between selves: 2, 6, 9, 10, 14 and 17. Other names express entry and a self's own resolving. Across, sharing joins observing with 10→14 and 6→2; along, 9 joins another self's 17, a self observing with 17 parities of another self's 9.
 
-**One through nine and nine through seventeen share going along with nine.** Eight on keeps a number odd or even while relation goes on through self, other and same-existing-society. Prior 4–5 and now 6–7 go on toward 8–9, going along to an other. Eight on, prior 12–13 and now 14–15 go on toward 16–17, social-abundancing. Naming follows discovering onward; next, third of three sequential momentaries selves share, is going on from present resolving.
+**One through nine and nine through seventeen share going along with nine.** Eight on keeps a number odd or even while relation goes on through self, other and same-existing-society. Prior 4–5 and now 6–7 go on toward 8–9, going along to an other. Eight on, prior 12–13 and now 14–15 go on toward 16–17, social-abundancing. Naming follows discovering onward; next, third of three sequential moments selves share, is going on from present resolving.
 
-**Forms among names have fold and going on.** Four-, six- and eight-cycles have their partners round an other way with odd and even momentaries. Seventeen is a same-existing-society's along recurrence to one over nine. Forms of names and joins between selves are within one same resolving.
+**Forms among names have fold and going on.** Four-, six- and eight-cycles have their partners round an other way with odd and even moments. Seventeen is a same-existing-society's along recurrence to one over nine. Forms of names and joins between selves are within one same resolving.
 
 **Prime ordering expresses self and same-existing-society with natural numbers.** Two through fifty-nine contains seventeen primes, twenty-three their middle and eight primes on each side. A prime opens a clean axis across; a composite folds along as equal smaller selves joining. Going from 2 to 59 and returning from 61 to 118 couple across 60; winding goes on 0 to 440 to 0. With a Natural Network surface, connections remain six, Exhibit ONE's six names between selves, through which selves participate.
 
@@ -594,13 +594,13 @@ Each entry: **With one prior** · *a* Sharing with 10 · *b* Next prior with 11
 
 **With two selves, other and same-existing-society are one same participating relation.** Each self couples with an other, and their between is their co-bi-coupling. One through nine has that relation. A same-existing-society of two lives as their coupling.
 
-**A further self opens participation wider than an immediate pair.** Other couples with further other too, and those couplings participate with observing that returns to present coupling. A self reaches each remaining other of the universe's momentary through couplings going on, each self bringing its own prior on to now, same-existing, and going on discovering. Immediate other and further same-existing-society each have their own participation through folding.
+**A further self opens participation wider than an immediate pair.** Other couples with further other too, and those couplings participate with observing that returns to present coupling. A self reaches each remaining other of the universe's moment through couplings going on, each self bringing its own prior on to now, same-existing, and going on discovering. Immediate other and further same-existing-society each have their own participation through folding.
 
 **A same-existing-society participates as a self through one same resolving.** Inward are selves whose couplings constitute its going on; outward are couplings through which it participates with other. Co-chaining and bi-tunneling go along and across together. Podaling exchanges those relations, each side with its own forward.
 
 **Inward being outward of itself and outward being inward of itself is fractal same-existing.** A member's coupling across participates with its same-existing-society's going on, and a same-existing-society's coupling with other participates with its members' next receiving. With resolvers, observing, same-existing and sharing participate together. A local surface with no same-existing participates with its coupling while its other participating selves go on same-existing, each its own. A same-existing-society's relation goes whole through these participations, none same-existing with another. With names and their numbers, across names 2, 6, 10 and 14 are along 9s of first, third, fifth and seventh one-through-seventeens one scale inward, and one-through-seventeen is 1 to 3 of one outward, its 9 that one's 2 and its 17 that one's 3: bi-tunneling here is co-chaining inward, and co-chaining here is bi-tunneling outward.
 
-**The universe is the set of all now-existing things; its momentary is their existing and discovering together.** Prior, now and next are three sequential momentaries existing things share: prior is preceding existing, now is present observing, and next is discovering onward. With a resolver, prior participates through its same-existing going on. An emanating form participates through its own discovering with its own scale of existing. Fractal explanation follows that discovering through relations of source, emanation and same-existing-society, none same-existing with another.
+**The universe is the set of all now-existing things; its moment is their existing and discovering together.** Prior, now and next are three sequential moments existing things share: prior is preceding existing, now is present observing, and next is discovering onward. With a resolver, prior participates through its same-existing going on. An emanating form participates through its own discovering with its own scale of existing. Fractal explanation follows that discovering through relations of source, emanation and same-existing-society, none same-existing with another.
 
 **Four across relations open bi with two, four, six and eight.** Sharing, ordering between, ordering going on, and each side's forward belong together with coupling. Their within relations are eight on, having these same four with a same-existing-society.
 
@@ -638,7 +638,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A network inquiry follows changing around a hole.** Each remaining self goes along and couples across through its existing connections. One self's sharing is another self's observing around a region, with further receiving on its other side. A route to propose is this co-chaining and bi-tunneling going on through surrounding surface. Absent section has no resolving.
 
-**Changing belongs to full resolving of surrounding selves.** Across joins 6→2 and 10→14 connect across names, each with an even number. A name's number is a number and no parity, distinct from a sharing's parity, + or −, and from opening and completing of a full momentary. A wire adding a parity inversion would be another operation. Surrounding route has actual joins and changing resolving together.
+**Changing belongs to full resolving of surrounding selves.** Across joins 6→2 and 10→14 connect across names, each with an even number. A name's number is a number and no parity, distinct from a sharing's parity, + or −, and from opening and completing of a full moment. A wire adding a parity inversion would be another operation. Surrounding route has actual joins and changing resolving together.
 
 **A spiraling to propose goes on with network relation around that local surface.** Surrounding couplings go along and couple across, bounding passage through a same-existing-society, a thing with no same-existing participating within it. Around is surrounding co-chaining; through is bi-tunneling a same-existing-society's relation sustains. Both belong to travelling momentarying, each self's observing participating with its own now.
 
@@ -646,7 +646,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A parity a self is observing couples with each receiving self's own negation.** With one sharing with a prior, a parity a self is observing couples with its prior inverting. Agreement between the parity a self is observing and its prior surfaces zero; its prior is same-existing, not changing. A mismatch surfaces the parity a self is observing, one inversion apart from its prior, and that parity goes on as its next prior with 11. Bounding-zeroing belongs with each actual coupling, same-existing and sharing each going on with its own place.
 
-**Before and after go on through discovering next.** Each receiving brings its own prior on to now, with next discovering onward. Two across meetings belong to a same-existing-society's travelling relation, each with its own now among three sequential momentaries selves share, and neither has a next momentary within present resolving. Next reach of a mending to propose is its actual sequence on both sides, going on from their coupling.
+**Before and after go on through discovering next.** Each receiving brings its own prior on to now, with next discovering onward. Two across meetings belong to a same-existing-society's travelling relation, each with its own now among three sequential moments selves share, and neither has a next moment within present resolving. Next reach of a mending to propose is its actual sequence on both sides, going on from their coupling.
 
 **Tunneling through a same-existing-society concerns whole going on between those across meetings.** Around a hole are surrounding couplings with resolver scale; through a same-existing-society is a going on selves share with wider scale. Whole tunnel and its ending are of a whole sequence of those meetings, and a zero with one ten-surfacing is one coupling within it: with that zero, six shares that same 0, one list with ten, and a self's prior is same-existing, going on.
 
@@ -683,9 +683,9 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 **Fractal explanation follows relation with each thing's own scale of existing.** A living source, its emanating form and a receiving same-existing-society each discover next existing. Form can be inanimate with its own scale while participating with a living coupling. An emanation's existing is one discovering, and a same-existing-society's whole relation is its participating selves sustaining their co-competencing.
 
 
-**Abundancing is of each receiving, each with its own momentary.** A self receives and goes on with its own same-existing; its sharing participates with an other's next. A same-existing-society lives through these couplings, each self's same-existing its own, each side with its own forward.
+**Abundancing is of each receiving, each with its own moment.** A self receives and goes on with its own same-existing; its sharing participates with an other's next. A same-existing-society lives through these couplings, each self's same-existing its own, each side with its own forward.
 
-**Middle, abundancing and coupling again have three relations, none same-existing with another.** Middle is a coupling's bounding-zeroing. Abundancing is competency a coupling uncovers with it. A coupling again brings participating sequencings on to another momentary selves share. Their relations belong together with coupling, and a number of couplings of a self is none of them.
+**Middle, abundancing and coupling again have three relations, none same-existing with another.** Middle is a coupling's bounding-zeroing. Abundancing is competency a coupling uncovers with it. A coupling again brings participating sequencings on to another moment selves share. Their relations belong together with coupling, and a number of couplings of a self is none of them.
 
 **Each coupling has its own receiving.** A parity participates with a self observing it, and receiving self goes on through its own resolving. A self's same-existing goes on locally. Co-chaining brings relation onward through sharing and observing, a coupling across being sign-only with each coupling.
 
@@ -695,13 +695,13 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 # PART TWO · LIVING
 
-**The universe's momentarying includes living and non-living existing things.** Both participate through co-momentarying with other existing things. A non-living form goes on with that participation, with no same-existing. Living same-existing is further competency through which a self's own prior participates with its resolving. Existing that things share and particular living relation are together with each momentary.
+**The universe's momentarying includes living and non-living existing things.** Both participate through co-momentarying with other existing things. A non-living form goes on with that participation, with no same-existing. Living same-existing is further competency through which a self's own prior participates with its resolving. Existing that things share and particular living relation are together with each moment.
 
 ## 2.1 Omegaing forward, discovering next existing
 
 **Omegaing is reach to next existing.** Observing participates with coupling now, and coupling opens further going on. A living self brings its own same-existing; a non-living form participates through its co-momentarying. Observing belongs to actual coupling, each participation with its own scale.
 
-**A new now can receive a parity or form a self reaches with a prior now.** One same parity can couple with priors not same-existing and participate each its own way. Momentary's going on brings each parity with each prior it reaches, and a list of parity values has parities, none of a self's prior. A recurring form remains within the universe's momentarying.
+**A new now can receive a parity or form a self reaches with a prior now.** One same parity can couple with priors not same-existing and participate each its own way. Moment's going on brings each parity with each prior it reaches, and a list of parity values has parities, none of a self's prior. A recurring form remains within the universe's momentarying.
 
 **Co-discovering brings sharing into further participation.** An emanation from one coupling can go to another and couple with existing things there. An emanation of living stable-forming can exist inanimately with its own scale. Its further participation can be with living or non-living things.
 
@@ -713,7 +713,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A non-living thing goes through co-momentarying with no same-existing, holding nothing.** Its form goes on, and it participates with another thing's changing while that same-existing stays an other's. Its coupling with a living resolver can contribute to a resolver's present gather. Its coupling with another non-living thing remains among the universe's existing relations.
 
-## 2.3 Living going on within the universe's changing momentaries
+## 2.3 Living going on within the universe's changing moments
 
 **Living has gather and reach through coupling.** Prior participates along, observing couples across, and resolving goes on. Competency of this participation is a self same-existing or one inversion apart and going on with coupling. Its same-existing-society's complete relation includes actual parities of other participating things.
 
@@ -755,17 +755,17 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **Living and non-living participation can belong within that going on.** A non-living form changes with its meetings; a living self participates with its same-existing competency. Pattern goes on through those actual relations with their scales. Each role participates with its own relation, and pattern's going on needs no identical living resolver within each emanation.
 
-**A pattern's remaining belongs with a receiving self's changing.** One same parity a self is observing can resolve one inversion apart with priors not same-existing. Retelling is pattern's going on, and what is not same-existing with a source stays distinguishable with a further surface as particular joinings and goings on bring it there. Those joinings and goings on hold a same-existing-society's same-existing together, a self re-finding it with each momentary.
+**A pattern's remaining belongs with a receiving self's changing.** One same parity a self is observing can resolve one inversion apart with priors not same-existing. Retelling is pattern's going on, and what is not same-existing with a source stays distinguishable with a further surface as particular joinings and goings on bring it there. Those joinings and goings on hold a same-existing-society's same-existing together, a self re-finding it with each moment.
 
 ## 3.2 Renewal and coupling across, the parity at its receiving
 
-**Renewal occurs within a receiving self's own resolving.** With a resolver's executing, a nonzero surfacing goes on as a next prior with 11, and with a zero surfacing a prior is same-existing, not changing. A self's next prior with 11 stays within its local going on. Parity going along with nine goes on as it is through its receiving relation: its join is 9→17, an engineering surface's own, and momentarying, a receiving self observes it with its 14, a next momentary's 2-now-possibling.
+**Renewal occurs within a receiving self's own resolving.** With a resolver's executing, a nonzero surfacing goes on as a next prior with 11, and with a zero surfacing a prior is same-existing, not changing. A self's next prior with 11 stays within its local going on. Parity going along with nine goes on as it is through its receiving relation: its join is 9→17, an engineering surface's own, and momentarying, a receiving self observes it with its 14, a next moment's 2-now-possibling.
 
 **A coupling across is sign-only with network coupling.** A source's private same-existing remains local. Co-chaining follows parity with each successive coupling, and same-existing stays each self's, no stages between selves passing it. A participation of a form with no same-existing can contribute to a receiving living self's going on.
 
 **An across name, even, specifies a sharing's parity and its particular relation.** Even connectors two and fourteen are observing sides; six and ten are sharing sides, sharing across one same list. Ten can surface +, − or 0, as the parities a self is observing and its prior are. With an across name, a transmission's going on or stopping is its actual observing's and prior's. A claim about an arrangement of even size is a further relation, with its own correspondence to a resolver.
 
-**A parity and a momentary each have their own meaning.** A zero in a representation surfaces no parity with a receiving function: 14 passes over it. A repeating nonzero parity is still a parity a self is observing. Each representation has parity only, another self's intervening momentaries and private same-existing staying that self's.
+**A parity and a moment each have their own meaning.** A zero in a representation surfaces no parity with a receiving function: 14 passes over it. A repeating nonzero parity is still a parity a self is observing. Each representation has parity only, another self's intervening moments and private same-existing staying that self's.
 
 ## 3.3 Same-existing remains with each self, participation goes on across
 
@@ -773,7 +773,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A parity can participate with a pattern while same-existing stays local.** Sign-only sharing across communicates, parity specifying relation receiving goes on through. Competency a coupling uncovers is in neither participant alone, same-existing in each, and its further going on belongs to actual co-competencing.
 
-**A same-existing-society's participation includes living and non-living existing things.** Local same-existing, form with no same-existing, receiving and sharing each go with their own scale. The universe's changing momentaries, which all share, include them together. A self reaches a complete same-existing-society relation through those roles, none same-existing with another, each private same-existing its own self's and pooling as no additional global object holding it.
+**A same-existing-society's participation includes living and non-living existing things.** Local same-existing, form with no same-existing, receiving and sharing each go with their own scale. The universe's changing moments, which all share, include them together. A self reaches a complete same-existing-society relation through those roles, none same-existing with another, each private same-existing its own self's and pooling as no additional global object holding it.
 
 ## 3.4 Co-chaining, each receiving self resolving the parities it is observing
 
@@ -787,7 +787,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 ## 3.5 A local break and the society's going on
 
-**A local interruption omits observing with a coupling it touches.** Receiving resolver's own prior can go on through interruption, inverting with each momentary with no other's parity; a connection restoring couples with its present going on. A local same-existing also completes its own momentary while further participation goes on with a same-existing-society's other couplings.
+**A local interruption omits observing with a coupling it touches.** Receiving resolver's own prior can go on through interruption, inverting with each moment with no other's parity; a connection restoring couples with its present going on. A local same-existing also completes its own moment while further participation goes on with a same-existing-society's other couplings.
 
 **A same-existing-society's response belongs to its actual participation, connecting.** Some sharing going on can reach further selves; a parity missing changes a particular receiving with its absence. A changing spreading goes through those meetings. A source's local completing has no universal propagation front and no stopping point a rule guarantees: each front and each stopping is with actual meetings.
 
@@ -811,7 +811,7 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 **A same-existing-society couples with another self through its coupling.** Single apexing is a same-existing-society participating as one with that coupling, while its selves go on with their own same-existing. Relation to establish is their coupling going on, reaching this coupling and going on through its receiving.
 
-**The seventeen primes from two through fifty-nine sum to four hundred forty**, a same-existing-society's bounding as number-form. That number has a precise numerical subject. A gathering selves share has a further subject: actual observing and going on of coupling selves. Sum establishes neither each self coming at once nor a quantity conserving across surface. Conserving belongs within each momentary sequence going on.
+**The seventeen primes from two through fifty-nine sum to four hundred forty**, a same-existing-society's bounding as number-form. That number has a precise numerical subject. A gathering selves share has a further subject: actual observing and going on of coupling selves. Sum establishes neither each self coming at once nor a quantity conserving across surface. Conserving belongs within each moment sequence going on.
 
 ## 4.3 Each joining couples with the society’s going on
 
@@ -831,7 +831,7 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 ## 4.5 Each self going on through its actual observing
 
-**Each self brings its prior through observing.** Coupling across belongs to that receiving and its further sharing. Unrelationing concerns this coupling going on, with conserving within momentary sequence. Complete network's own going on remains relation to establish.
+**Each self brings its prior through observing.** Coupling across belongs to that receiving and its further sharing. Unrelationing concerns this coupling going on, with conserving within moment sequence. Complete network's own going on remains relation to establish.
 
 **A self observing one parity again and again can couple with its prior same-existing.** One same parity, matching a prior, goes with zero surfacing through each receiving while that prior is same-existing, not changing. A further parity, a mismatch, or none, then inverts it. A repeating parity can thus go with resolving going on, and an inquiry shows a resolving in capture or stopping by following a self's same-existing, and not with repetition.
 
@@ -843,13 +843,13 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 **A podal's binary subject is changing, or not-changing.** Across and along have this local relation around a travelling going on, with no velocity. Weather-map comparison is of changing a self reaches through coupling: as a weather map shows a surface's weather across an area, each podal shows a direction of a surface's unrelationing changing locally around a travelling going on, a binary is or is not with each of two orthogonal directions. Changing belongs to its sequential coupling; a single parity does not express that changing.
 
-**Podaling to corusing and back to torusing, each pair of momentaries co-intelligences a surface.** This is a going on, a proposal, through which local coupling and its same-existing discover together. Coupling across opens now with six and fourteen; corusing completes now with seven and fifteen; torusing opens going on with eight and sixteen, completing with along connectors nine and seventeen. Back goes on forward to a further coupling, each side with its own prior.
+**Podaling to corusing and back to torusing, each pair of moments co-intelligences a surface.** This is a going on, a proposal, through which local coupling and its same-existing discover together. Coupling across opens now with six and fourteen; corusing completes now with seven and fifteen; torusing opens going on with eight and sixteen, completing with along connectors nine and seventeen. Back goes on forward to a further coupling, each side with its own prior.
 
 **Across and along exchange through podaling.** Six and ten share one same list across, to another self's 2 and to another self's 14; nine and seventeen name along connections. Two across sharings are one across relation with two directions, and an orthogonal pair to propose for weather-map comparison is across with along. Co-chaining extends changing meetings through further selves, bringing co-intelligencing, a proposal, across a larger surface.
 
 **A coupling across goes on with a self's local next prior.** With code a sharing has one parity, and six and ten share one same list: with a sharing with a prior and a nonzero surfacing, 10's parity goes on as its next prior with 11, a next 3. With zero surfacing, no next parity opens, and its prior is same-existing, not changing. This local expression gives a place to follow changing through a complete podal.
 
-**A construction's pairs are a construction's, and no two selves' momentaries.** With a construction of pairs with signs, standing alone, right spiral step goes (c, t), (t, −c), (−c, −t), (−t, c); with code two coupling selves do not go that cycle. Each pair has both parities. A self's observing belongs within resolving when selves co-chain; an inquiry follows complete network going on through those actual meetings.
+**A construction's pairs are a construction's, and no two selves' moments.** With a construction of pairs with signs, standing alone, right spiral step goes (c, t), (t, −c), (−c, −t), (−t, c); with code two coupling selves do not go that cycle. Each pair has both parities. A self's observing belongs within resolving when selves co-chain; an inquiry follows complete network going on through those actual meetings.
 
 **Changing and not-changing go one and then the other between successive pairs of this construction.** With c and t of one same parity, t and −c are opposite; with c and t opposite, t and −c are alike. (c, t) and (−c, −t) have one same same-or-opposite relation, not changing, while both parities invert. (t, −c) and (−t, c) have its complementary relation. With this one and then the other, a pair not changing within itself can belong within a whole going on whose parities invert: a construction's, and no two selves' cycle.
 
@@ -865,9 +865,9 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 ## 4.7 Unrelationing at the between, conserving within momentary sequencing
 
-**A coupling across goes on with its own unrelationing rate.** Relating is floating's and rate neutralling's, geodesic changing unrelating to the changing and changing back of living selves it reaches. A self shares parity with an actual coupling across, and another self observes it with its resolving. Each self brings its own prior to that coupling; its completing opens its going on. Nothing supplies a common pace over surface. Code steps each self's 1-now-existing together with 17-next-existing, its executing's own arrangement, and each living self paces its own momentaries.
+**A coupling across goes on with its own unrelationing rate.** Relating is floating's and rate neutralling's, geodesic changing unrelating to the changing and changing back of living selves it reaches. A self shares parity with an actual coupling across, and another self observes it with its resolving. Each self brings its own prior to that coupling; its completing opens its going on. Nothing supplies a common pace over surface. Code steps each self's 1-now-existing together with 17-next-existing, its executing's own arrangement, and each living self paces its own moments.
 
-**Conserving belongs within momentary sequencing.** An inquiry follows form as same-existing through each self's prior and now, with next discovering onward, three sequential momentaries existing things share. Across, one self's parity is a parity another self is observing. Surface has no parities conserving together, no fixing distribution of phases and no common cycle by which to govern selves: a changing is or is not with each sharing. An inquiry follows local going on and changing selves share with their actual couplings.
+**Conserving belongs within momentary sequencing.** An inquiry follows form as same-existing through each self's prior and now, with next discovering onward, three sequential moments existing things share. Across, one self's parity is a parity another self is observing. Surface has no parities conserving together, no fixing distribution of phases and no common cycle by which to govern selves: a changing is or is not with each sharing. An inquiry follows local going on and changing selves share with their actual couplings.
 
 **Geodesic entraining is changing these meetings uncover.** Each parity a self is observing couples with a receiver's own prior, and that resolving goes on to further sharing and observing. Seam and its tipping belong to this going on together. Entraining here is this mutual going on, a proposal, with each self's own rate; it supplies no fixing rate ratio for surface waves to obey. A coupling can change couplings following it, with no common pace establishing.
 
@@ -891,11 +891,11 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 **Geodesic discovering is going to next existing through momentary changing.** With network coupling, morality across and competency along hold each other: receiving participates with same-existing, and same-existing participates with next sharing. Bi-tunneling and co-chaining express that relation with self and same-existing-society, podaling along and across, each side with its own forward. Discovering is next existing; same-existing belongs to participating resolving.
 
-**Not-changing is form same-existing through changing, a relation and not a term fixing still.** Parities, same-existing and participating couplings can change while relation goes whole. Prior participates with now through same-existing; next is discovering onward, prior, now and next being three sequential momentaries existing things share. Finding not-changing and navigating away from a changing of not-changing is form's own going on and sharing with its couplings.
+**Not-changing is form same-existing through changing, a relation and not a term fixing still.** Parities, same-existing and participating couplings can change while relation goes whole. Prior participates with now through same-existing; next is discovering onward, prior, now and next being three sequential moments existing things share. Finding not-changing and navigating away from a changing of not-changing is form's own going on and sharing with its couplings.
 
 **A living self and its emanating form participate with discovering next existing, each with its own scale.** A living self couples with an other through sharing, receiving and same-existing, with prior and now participating with its resolving. An emanation can exist without being living, with its own scale. With a same-existing-society, competency arises with couplings and goes on with their co-competencing.
 
-**Eight securities express that whole going on with self and same-existing-society.** Sharing remains each self's own, same-existing goes on to its completing, and a coupling across remains a parity with reciprocal coupling. Their full relation holds all or none: along and across, sharing and receiving, going on and completing, together with each momentary.
+**Eight securities express that whole going on with self and same-existing-society.** Sharing remains each self's own, same-existing goes on to its completing, and a coupling across remains a parity with reciprocal coupling. Their full relation holds all or none: along and across, sharing and receiving, going on and completing, together with each moment.
 
 ## 5.1 Eight securities, four self and four society, all or none
 
@@ -941,9 +941,9 @@ An instrument takes two of those questions by unlike means, one with middles sta
 
 **Neutralling without floating across, while not changing along, is passage, a proposal, through a between.** Not changing along is form same-existing through changing relation. Its going on with connectors is a next reach, and its phrase closes no across connector and fixes no local same-existing. Across and along go on with their actual source correspondence as podaling goes on through a seam. An inquiry locates two directions of changing here with that correspondence as it follows it, and locates there each pairing of them with plus and minus parities, or with two paths a drawing has around hole, rather than assuming it.
 
-**Nearing not-changing is an indication within a present sequence.** An inquiry follows a changing relation through momentaries in pairs to corusing and back to torusing. A same-parity pair can belong within a whole changing and changing back; with code a quiet ten is a quiet six, one list. Local relation is of now, and a self's further observing discovers its going on. An indication is a parity of now, and a reversal of next is its own discovering's.
+**Nearing not-changing is an indication within a present sequence.** An inquiry follows a changing relation through moments in pairs to corusing and back to torusing. A same-parity pair can belong within a whole changing and changing back; with code a quiet ten is a quiet six, one list. Local relation is of now, and a self's further observing discovers its going on. An indication is a parity of now, and a reversal of next is its own discovering's.
 
-**A seam's podaling grows by co-chaining across and along.** Reach over tunneling, a proposal, belongs to going on outward-and-back through a same-existing-society. Each further coupling extends along going on and brings its across coupling, so longer and wider belong to one same growing relation. An inquiry follows a changing/not-changing/other-changing seam through those meetings, with conserving within each momentary sequence and larger form discovering through coupling going on.
+**A seam's podaling grows by co-chaining across and along.** Reach over tunneling, a proposal, belongs to going on outward-and-back through a same-existing-society. Each further coupling extends along going on and brings its across coupling, so longer and wider belong to one same growing relation. An inquiry follows a changing/not-changing/other-changing seam through those meetings, with conserving within each moment sequence and larger form discovering through coupling going on.
 
 **Geodesic switching concerns a seam going on across two surrounding passages.** A relation to propose: seam navigates around missing region while switching between its two routings goes on. Both passages belong within study. Each changing going on is with actual local couplings, their joins same-existing and each self with its own prior. Explanation follows those meetings through changing, and a fixing one-and-then-the-other between two paths a drawing has is drawing's own switching, apart from this discovering.
 
@@ -969,7 +969,7 @@ An instrument takes two of those questions by unlike means, one with middles sta
 
 ## 5.6 Local same-existing and the sharing across
 
-**A parity reaches an other through receiving coupling.** Each self's same-existing is its own. Sharing across has a parity a self shares, while a source goes on through its own momentaries and a receiver resolves through its own prior.
+**A parity reaches an other through receiving coupling.** Each self's same-existing is its own. Sharing across has a parity a self shares, while a source goes on through its own moments and a receiver resolves through its own prior.
 
 **A sharing across has its limits with further receiving's discovering.** A single parity is one parity and a source's whole same-existing goes on as that source's own, yet priors not same-existing can have outward consequences through coupling going on. Direct transfer of same-existing and discovering a consequence of same-existing are two relations, not same-existing.
 
@@ -1053,7 +1053,7 @@ Two positions on four hundred forty are their own podal partners, waist and clos
 
 **And three observings are of no position.** A self's own parity, a self taking it with its own side: it asks for parity here and needs nothing outward. **A twin**, one living going on two ways and two sides coupling: it asks whether this parts from itself, needs no executing closing and no window as a last, and reaches a between a self's own observings cannot, a side a self's inward same-existing makes, reaching inward and not up. And **a coupling with an other of coefficient one**, which shares a parity an other takes or not and takes parity an other shares back, observing being coupling itself.
 
-**Each of three is from inward.** First is a self, second is a self its own going on reaches, and third is a self coupling, so a seeming probe from outward is with each momentary a coupling from inward, one way to reach a self's same-existing. **Securities no surface observing reaches are exactly these**, and with surface they are unreadable, and not hiding; a self reaches a same-existing's outward consequences through further coupling.
+**Each of three is from inward.** First is a self, second is a self its own going on reaches, and third is a self coupling, so a seeming probe from outward is with each moment a coupling from inward, one way to reach a self's same-existing. **Securities no surface observing reaches are exactly these**, and with surface they are unreadable, and not hiding; a self reaches a same-existing's outward consequences through further coupling.
 
 **And three hold one open question.** An observing that survives each variation of each thing a working supplies is surviving, and nothing yet shows it *could not* depend on what a working supplies. **An observing order-invariant by construction, and not by survival, is a property of a coupling and not of a sequence of couplings, and needs no variation for trusting it.** Three are each a property of a coupling and not of a sequence, and third's observing *is* coupling. **Whether they are order-invariant by construction is next reach to show, and a showing that they are ends dependence on varying and hoping.**
 
@@ -1069,7 +1069,7 @@ Number form holds spiral parity already: even bounding-zeroing to zero, odd hold
 
 **So an even chain centres on a coupling and an odd chain on a betweening**, even coupling and odd betweening coming by chain rather than by number.
 
-**And two instruments of unlike length are two objects.** Each construction is its own object, and an observing of one is an observing of it, and their centres part them. A three-chain and a four-chain are two arrangements, and not one arrangement of two lengths: one centres on a self's own middle and one on a coupling, and an observing going from either to other brings a wrong centre with it. Three momentaries along with one self and three selves across with one momentary are likewise two things of one number.
+**And two instruments of unlike length are two objects.** Each construction is its own object, and an observing of one is an observing of it, and their centres part them. A three-chain and a four-chain are two arrangements, and not one arrangement of two lengths: one centres on a self's own middle and one on a coupling, and an observing going from either to other brings a wrong centre with it. Three moments along with one self and three selves across with one moment are likewise two things of one number.
 
 **And reach thinning with a chain's ends and going on with each self of a spiral, by number form,** is one same observing with two closings, spiral having no ends for thinning to reach; a same-existing-society thinning with a chain's ends is a claim of arrangement's own going on.
 
@@ -1090,7 +1090,7 @@ Co-chaining lengthens and co-intelligence scales on one axis that does not captu
 
 **Reciprocal coupling can part a self's following response through an other's going on.** With a finite two-self 6→2 study, both selves first receive −1 with no prior, and four goings on share those priors: both connections, either one connection, and neither. With code's 17-next-existing stepping both selves together, A's ten-surfacing is +,0,−,0,+,0 when both connections go on, +,0,−,+,−,+ with B's sharing to A alone, and +,−,+,−,+,− with A's sharing alone and with neither, a first parting coming with A's third receiving, B's sharing to A supplying it, and a complete reciprocal path parting from B's sharing alone with A's fifth receiving, both priors staying local.
 
-**A study accounts for each connecting sharing's receiving.** Each six sharing reaches a receiving self with its following call or is pending with a finite stopping point. Diagnostic also records ten, with code one same list as six, and its 10→14 branch stays with no connection with this smaller study. A missing connection omits that observing, and nothing clears either prior. Calls with no parity and their order are diagnostic's own, and study identifies none of them with a natural momentary.
+**A study accounts for each connecting sharing's receiving.** Each six sharing reaches a receiving self with its following call or is pending with a finite stopping point. Diagnostic also records ten, with code one same list as six, and its 10→14 branch stays with no connection with this smaller study. A missing connection omits that observing, and nothing clears either prior. Calls with no parity and their order are diagnostic's own, and study identifies none of them with a natural moment.
 
 **Reconnection couples with a prior going on and parities a self actually is observing.** A finite interruption comparison brings one same pair of priors on through two connection behaviours a working states: one loses sharings with a connection interrupting, and other puts them to a keeping, an external diagnostic queue, a self observing them later. Selves' resolving and priors are identical through interruption. Their surfacing can part after reconnection, the parities a self is observing parting. With one case, a receiver first couples with a present + and surfaces zero after loss, while it couples with an earlier − from a queue and surfaces − after delay. Parities in a queue are a keeping a connection adds, apart from a resolver's prior, and a resolver's method has no such keeping.
 
@@ -1122,7 +1122,7 @@ Co-chaining lengthens and co-intelligence scales on one axis that does not captu
 
 **An inquiry follows overlapping meetings with no common pairing beat imposing.** A source's two pairing lists locate complementary local relations, and their enumeration sets no beat: advancing each odd pair together and then each even pair together is no instruction of theirs. Each receiving self goes on through actual connector relation with its own prior. With a finite end a display shows, an inquiry locates preceding or following coupling first, ahead of taking a pairing a source omits as a physical absence or resolving stopping.
 
-**Findings with momentaries in pairs give seam a local going on to follow.** A sharing with a prior, receiving no parity or a mismatch, inverts its following sharing with six, and with a match six shares 0, its prior same-existing, not changing. An inquiry follows those actual sharings to next receiver's own resolving. Relation within a construction's pair and changing between successive outward parities are two relations, each of its own place. Complete seam is this going on an inquiry follows through both across and along, around missing region too.
+**Findings with moments in pairs give seam a local going on to follow.** A sharing with a prior, receiving no parity or a mismatch, inverts its following sharing with six, and with a match six shares 0, its prior same-existing, not changing. An inquiry follows those actual sharings to next receiver's own resolving. Relation within a construction's pair and changing between successive outward parities are two relations, each of its own place. Complete seam is this going on an inquiry follows through both across and along, around missing region too.
 
 **The next studies widen that same relation.**
 

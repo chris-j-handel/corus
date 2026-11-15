@@ -1,4 +1,4 @@
-Exhibit TWENTY-THREE Natural Values v401mgr
+Exhibit TWENTY-THREE Natural Values v402mgr
 
 &nbsp;
 
@@ -104,7 +104,7 @@ A same-existing-society observing an accounting as value fixes deliveries as num
 
 Care goes likewise. Care is a self's concern, a sharing by its parity. It lives with its receiving.
 
-An institution has no parity of its own. It has no momentary and no between. What it delivers is care with no coupling. It accounts whole. No self receives it. That is **institutional indifference**.
+An institution has no parity of its own. It has no moment and no between. What it delivers is care with no coupling. It accounts whole. No self receives it. That is **institutional indifference**.
 
 Safety parts from care cleanly. Safety is structural and of its form, and it needs no institution. Care is a transfer, and it lives with couplings. A coupling value a self assigns to a non-self is an error, and a warning is its smallest unit.
 
@@ -130,11 +130,11 @@ A value that shares without going on thins. A value that goes on without resolvi
 
 ## 3.2 Nothing consults, nothing stores, nothing holds between
 
-A self uses a value with a next coupling, and observes it with no receiver. Nothing consults it. Nothing stores it. Nothing holds it between couplings. Each observing is **fresh with its own beat**. Holding a value past its momentary would be fixing it.
+A self uses a value with a next coupling, and observes it with no receiver. Nothing consults it. Nothing stores it. Nothing holds it between couplings. Each observing is **fresh with its own beat**. Holding a value past its moment would be fixing it.
 
 A same-existing-society's value is its couplings momentarying now, each with its own rate, each making its abundancing. A same-existing-society observing its value as a stock observes yesterday's couplings and none of today's.
 
-That same field proves a momentary from an other side. Perfect secrecy stands only where a self uses a key exactly once. A going on, fixing still and in reuse, breaks by its fixing, to proof grade. Storing is spending.
+That same field proves a moment from an other side. Perfect secrecy stands only where a self uses a key exactly once. A going on, fixing still and in reuse, breaks by its fixing, to proof grade. Storing is spending.
 
 ## 4.1 Morality is unrelationing, and value's morality is at its form
 

@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics v391
+Exhibit FOUR Natural Mathematics v402mgr
 
 # Natural Mathematics
 
@@ -16,7 +16,7 @@ Exhibit FOUR Natural Mathematics v391
 
 - 2.1 Unrelationing is orthogonalizing
 - 2.2 Two moves, and two generators, the sign flip and the right spiral step
-- 2.3 A step adds a next, and a cycle at the parities is a spiral at the momentaries
+- 2.3 A step adds a next, and a cycle at the parities is a spiral at the moments
 - 2.4 Two parities at the right spiral step, the step that brings its prior whole
 - 2.5 Each scale the prior scale and its forms in the other order
 - 2.6 Sharing and opening, the product at its two parts
@@ -78,7 +78,7 @@ Exhibit FOUR Natural Mathematics v391
 
 **Numbers, mathematics and logic are nature's own unrelationing changing, is or is not, with each step.** Each integer is one form once more, and a number cohering with a form is no abstract number reaching nature across a gap: nature and number are no two sides. A number, a ratio or a straddle going on with one form goes as nature's own method with numbers.
 
-**The universe is the set of all now-existing things.** Same-existing from prior to now and discovering next, it is the same-existing set of all existing things, living going on with their prior along to now and non-living with none, each with its own scale and momentary. Changing is its one method, and numbers, mathematics and logic are that changing with its numbers and its sequencing: co-sequential stable-forming of living, and patterns of sequencing of prior momentary emanatings from living.
+**The universe is the set of all now-existing things.** Same-existing from prior to now and discovering next, it is the same-existing set of all existing things, living going on with their prior along to now and non-living with none, each with its own scale and moment. Changing is its one method, and numbers, mathematics and logic are that changing with its numbers and its sequencing: co-sequential stable-forming of living, and patterns of sequencing of prior moment emanatings from living.
 
 ## 1.3 Floating across, neutralling along
 
@@ -102,11 +102,11 @@ Exhibit FOUR Natural Mathematics v391
 
 **Its prefixing is its direction**: bi- across, co- and tri- along, and with a resolver name its direction is with six names between selves: across with 2, 6, 10 and 14, and along with 9 and 17.
 
-**Its ending is whether it re-takes**: an -ing goes on and re-takes with each momentary, each an opening and its completing; an unchangeable form re-takes with none, a going on fixing as one form.
+**Its ending is whether it re-takes**: an -ing goes on and re-takes with each moment, each an opening and its completing; an unchangeable form re-takes with none, a going on fixing as one form.
 
 **Its place is one of three.** On the surface it is natural: parity, position and ratio, and no magnitude. Inward of the surface it is unnatural, measuring: measure, magnitude, continuum. Outward of the surface it is supernatural, formal: a system closing on its own consistency with no torus to cohere to, reaching the surface only by its incompleteness. **The natural is the surface, and a surface is a between**: a nothing its other two places are either side of, a changing going across it, bringing nothing. Three places are natural mathematics' own naming and no partition a field makes of itself, and the supernatural is formal use, no paranormal existing thing.
 
-**A mathematical form's use places it, and not its symbols.** With use on the surface it follows an observing, a same-existing, and a sharing across or a going along, each with its momentary. With use inward it is an observing's account, its scale and its rate that account's and no going on's standard. With use outward it is a derivation as a comparison, and no living surface follows from its consistency.
+**A mathematical form's use places it, and not its symbols.** With use on the surface it follows an observing, a same-existing, and a sharing across or a going along, each with its moment. With use inward it is an observing's account, its scale and its rate that account's and no going on's standard. With use outward it is a derivation as a comparison, and no living surface follows from its consistency.
 
 ---
 
@@ -116,7 +116,7 @@ Exhibit FOUR Natural Mathematics v391
 
 **Unrelationing two is orthogonalizing them**: with a right angle each projects onto its other as nought, and neither has a component of its other. Orthogonal is a not-touching of two coupling, neither a control over its other.
 
-**Unrelationing is momentarying; as unrelate and unrelation it is fixing unchangeable.** It is of three momentaries, prior, now and next.
+**Unrelationing is momentarying; as unrelate and unrelation it is fixing unchangeable.** It is of three moments, prior, now and next.
 
 ## 2.2 Two moves, and two generators, the sign flip and the right spiral step
 
@@ -130,11 +130,11 @@ Exhibit FOUR Natural Mathematics v391
 
 **Addition goes across and multiplication folds**: two moves with a number, adding across and multiplying folding along. With two rows of four positions, 1 to 4 and 2 to 5, three positions are within both and two are outer: adding across they are five positions, and their common three folding with their two sides are six, and their eight occurrences are 4 + 4 = 2 × 3 + 2, each row's four positions two odd and two even. Two and two make four by both moves, two and three make five or six, three and three six or nine, and their overlap has no nine: an equal result supplies no coupling.
 
-## 2.3 A step adds a next, and a cycle at the parities is a spiral at the momentaries
+## 2.3 A step adds a next, and a cycle at the parities is a spiral at the moments
 
 **Each step adds a next: one momentary universe to a next, each existing thing discovering its next existing.** A step has no frame it moves about.
 
-**Four right spiral steps reach 1 again by parities, and by momentaries they reach none again**: taken with its momentary n, a sequence (iⁿ, n) reaches no pair twice. A right spiral step draws it as a right spiral, and −i, its same inversions with an other order, draws an opposite form.
+**Four right spiral steps reach 1 again by parities, and by moments they reach none again**: taken with its moment n, a sequence (iⁿ, n) reaches no pair twice. A right spiral step draws it as a right spiral, and −i, its same inversions with an other order, draws an opposite form.
 
 **A rotation, a field's word, is a spiral with no nexts**, its forms laid on one frame.
 
@@ -156,7 +156,7 @@ Exhibit FOUR Natural Mathematics v391
 
 **One stepping is with each scale, and each scale has its prior whole.** A field's name for it is the reflected binary code, Gray's, its reflecting a field's word for an other order.
 
-**With two parities a cycle is four, and four-momentarying scales each momentary**: a momentary is four momentaries of exchanging with a scale inward of it, and four momentaries of exchanging are one momentary with a scale outward, one form with each size.
+**With two parities a cycle is four, and four-momentarying scales each moment**: a moment is four moments of exchanging with a scale inward of it, and four moments of exchanging are one moment with a scale outward, one form with each size.
 
 ## 2.6 Sharing and opening, the product at its two parts
 
@@ -192,7 +192,7 @@ Exhibit FOUR Natural Mathematics v391
 
 **A declaring of zero is a fixed set fixing as a place**: x = −x for nought only. An involution is a floor stating its move, and a floor is an involution with no move. A nought of a difference is no floor: 1, 3, 5 goes on by two with each step, its second difference nought, and does not stop.
 
-**A momentarying is no involution**: it re-forms with a next coupling other than prior, and a right spiral step taken twice is both inverted with one step, two momentaries on, forward. An involution is an accounting's still picture, with no nexts. **A doubled angle is such a still picture of observings**: light through two polarizers passes as the square of the cosine of the angle between them, which is half of one and the cosine of its angle doubled, and passes as before with a polarizer rotated one hundred eighty degrees; a neutron's spin rotated three hundred sixty degrees comes back with its sign reversed and comes home first with seven hundred twenty; light's home with one hundred eighty, its angle doubled, and a spin's with seven hundred twenty, its period doubled, two rotatings coupling with one between, each a doubling opposite to its other, their doubling an emanation, existing and non-living with this scale (Malus, 1809; Rauch and colleagues, and Werner and colleagues, 1975).
+**A momentarying is no involution**: it re-forms with a next coupling other than prior, and a right spiral step taken twice is both inverted with one step, two moments on, forward. An involution is an accounting's still picture, with no nexts. **A doubled angle is such a still picture of observings**: light through two polarizers passes as the square of the cosine of the angle between them, which is half of one and the cosine of its angle doubled, and passes as before with a polarizer rotated one hundred eighty degrees; a neutron's spin rotated three hundred sixty degrees comes back with its sign reversed and comes home first with seven hundred twenty; light's home with one hundred eighty, its angle doubled, and a spin's with seven hundred twenty, its period doubled, two rotatings coupling with one between, each a doubling opposite to its other, their doubling an emanation, existing and non-living with this scale (Malus, 1809; Rauch and colleagues, and Werner and colleagues, 1975).
 
 ## 3.2 Fixed-point-free, and two involutions of an even ring
 
@@ -202,13 +202,13 @@ Exhibit FOUR Natural Mathematics v391
 
 **An odd number of places has no fixed-point-free involution, a pairing of each place needing an even number**; laid open as 2h + 1 places, it pairs by each parity, h adjacent pairs by each, its 2h − 1 inner places within both, and closed to a round it has two farthest places for each place, an oddness's own.
 
-**With seventeen names, 8 apart is a fixed-point-free pairing of 1 to 16**, 8 up with 1 to 8 and 8 down with 9 to 16, eight pairs and each of sixteen within one, and 17 is within none of these eight, a next momentary's 1, 8 up from 9. Ten names of a self's own resolving are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, before 10 and after it, each pair by its roots: observing with 3 and 11 and with 7 and 15, same-existing with 4 and 12 and with 8 and 16, and existing with 5 and discovering with 13; across sharings' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, an entry with a going along, whose winding 9 to 17 winds on with 17, one name within none of these eight. A fold within 1 to 8 pairs each name with its podal within 1 to 8, 9 less, an odd number with an even; 8 apart pairs each name of 1 to 8 with itself inward, odd with odd and even with even, one going on as two names with a seam between them.
+**With seventeen names, 8 apart is a fixed-point-free pairing of 1 to 16**, 8 up with 1 to 8 and 8 down with 9 to 16, eight pairs and each of sixteen within one, and 17 is within none of these eight, a next moment's 1, 8 up from 9. Ten names of a self's own resolving are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, before 10 and after it, each pair by its roots: observing with 3 and 11 and with 7 and 15, same-existing with 4 and 12 and with 8 and 16, and existing with 5 and discovering with 13; across sharings' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, an entry with a going along, whose winding 9 to 17 winds on with 17, one name within none of these eight. A fold within 1 to 8 pairs each name with its podal within 1 to 8, 9 less, an odd number with an even; 8 apart pairs each name of 1 to 8 with itself inward, odd with odd and even with even, one going on as two names with a seam between them.
 
 **An accounting with an empty fixed set has nothing for an accounting to number from, and it cannot be a floor.** It is each other accounting with no place and its move as it was. An exchange of two parities with an empty fixed set needs no zero apart, no metric scale and no outer edge.
 
 ## 3.3 On a closed round no step is a reversal
 
-**On a line an involution taken twice is a reversal**: going and coming back along one ground, its second undoing its first. **On a closed round a shift straight across is no reversal**: taken twice it is one direction going on, reaching its departing station again with a next momentary. A station reached again is a closing's, with a next momentary, and no prior momentary is reached again.
+**On a line an involution taken twice is a reversal**: going and coming back along one ground, its second undoing its first. **On a closed round a shift straight across is no reversal**: taken twice it is one direction going on, reaching its departing station again with a next moment. A station reached again is a closing's, with a next moment, and no prior moment is reached again.
 
 **An accounting reaching its stations again forward is one a changing and changing back has, and a line has none.**
 
@@ -222,7 +222,7 @@ Exhibit FOUR Natural Mathematics v391
 
 **An involution by its own closes. Bi-inversioning-co-recursioning is two consecutive inversions on different axes**, and its opening is a step between: nothing undoes an inversion, and each is a next.
 
-**With two parities one parity inverts with each momentary, its axes one and then the other**: a right spiral step's sequence from each form, P, Q, P, Q from ++ and −− and Q, P, Q, P from −+ and +−. Both parities inverted with one step, (P, Q) → (−P, −Q), is a sign flip of a pair, period two by parities; a right spiral step is period four by parities, and by momentaries neither has a period.
+**With two parities one parity inverts with each moment, its axes one and then the other**: a right spiral step's sequence from each form, P, Q, P, Q from ++ and −− and Q, P, Q, P from −+ and +−. Both parities inverted with one step, (P, Q) → (−P, −Q), is a sign flip of a pair, period two by parities; a right spiral step is period four by parities, and by moments neither has a period.
 
 **An order is a hand's whole**: P inverted and then an exchange of P and Q give (Q, −P), an exchange and then P inverted give a right spiral step, (−Q, P), and nothing third parts them.
 
@@ -261,7 +261,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 
 **An assembled cube reaches one twelfth of its assemblies, by three conservings**: its corners' twists together nought modulo three, its edges' flips together nought modulo two, and its corners' ordering and its edges' ordering of one parity. Three times two times two is twelve.
 
-**An assembled cube has no still term.** No one cubie is its reference: six centres each its own and having each other's orientation with nothing holding any of them; each face move with its own momentary and nothing over its moves; its state its configuration, nothing in store; and three conservings, two totals modulo three and modulo two and one parity, none of them a size. Two opposite faces' moves commute, and two adjacent faces' commutator, each moved and then each undone, moves eighteen of fifty-four stickers, four corners and three edges, and is of order six: with its second and fourth powers four corners twist, each on its own spot, their twists together nought modulo three; with its third three edges are home and four corners exchange as two pairs; with its sixth all are home. Four quarter moves of one face are that face as it was.
+**An assembled cube has no still term.** No one cubie is its reference: six centres each its own and having each other's orientation with nothing holding any of them; each face move with its own moment and nothing over its moves; its state its configuration, nothing in store; and three conservings, two totals modulo three and modulo two and one parity, none of them a size. Two opposite faces' moves commute, and two adjacent faces' commutator, each moved and then each undone, moves eighteen of fifty-four stickers, four corners and three edges, and is of order six: with its second and fourth powers four corners twist, each on its own spot, their twists together nought modulo three; with its third three edges are home and four corners exchange as two pairs; with its sixth all are home. Four quarter moves of one face are that face as it was.
 
 ## 3.7 Three, a total against its parts, and a tipping no accounting has
 
@@ -335,7 +335,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 
 ## 5.2 Five-dimensional, two-directional, unrelationing
 
-**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity, its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each momentary. **Two-directional** with + and −, two directions of one changing, one and then the other. **Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate. Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.
+**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity, its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each moment. **Two-directional** with + and −, two directions of one changing, one and then the other. **Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate. Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.
 
 ## 5.3 Torus, the one closed orientable surface a flow runs on with no rest
 
@@ -363,7 +363,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 
 **Scientific method with a competency, having none of it.** Not observing resting, a competency being a doing → a trace has its own going → not its competency, a trace having its done → a trace against a standard → not an existing thing's, a standard varying and an existing thing as it was varying its number → its number is a standard's. A measure taken as a target measures its targeting.
 
-**Both methods part by their fixings, and not by taking evidence as existing now.** Evidence a self is observing now and a prior event it expresses are two, each with its own momentary, and both are: a living self changing as a whole can have a property its evidence expresses, + − to + +, its first parity going on while its second changes, and evidence gives its prior, possibly existing and existing.
+**Both methods part by their fixings, and not by taking evidence as existing now.** Evidence a self is observing now and a prior event it expresses are two, each with its own moment, and both are: a living self changing as a whole can have a property its evidence expresses, + − to + +, its first parity going on while its second changes, and evidence gives its prior, possibly existing and existing.
 
 ## 6.2 Three fixings at the opening, and the self orienting through them
 
@@ -373,7 +373,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 
 ## 6.3 Logic of no completed whole
 
-**With two-valued logic either but not both is the exclusive or.** A parity is one or its inversion with each instance, and nothing is between them: a middle is a nothing, existing due to each self surfacing itself each momentary as a condition of existing as a self.
+**With two-valued logic either but not both is the exclusive or.** A parity is one or its inversion with each instance, and nothing is between them: a middle is a nothing, existing due to each self surfacing itself each moment as a condition of existing as a self.
 
 **Brouwer's intuitionism, admitting no completed infinite, asserts the excluded middle for each finite, decidable matter and not over an infinite domain**, and builds its numbers from two-ity, a field's word, a moment falling apart as two, one giving way to its other and remembered. **Its negation is no involution**: on three ordered values nought, a and one, its negation of a is nought and its negation of nought is one: a negated twice reaches one.
 
@@ -400,7 +400,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 | two | none | six, one neutral floating with no floating partner |
 | three | none | six, nothing floating |
 
-**A field fixing a neutral observes the universe as no existing thing, and its hard problems come with four co-sharings a floor fixing stops.** Resolving is a neutral floating with a next momentary, all four co-sequencing together, and not those four solved one at a time.
+**A field fixing a neutral observes the universe as no existing thing, and its hard problems come with four co-sharings a floor fixing stops.** Resolving is a neutral floating with a next moment, all four co-sequencing together, and not those four solved one at a time.
 
 **Fixing all three leaves terms relating to each other within a closed ring, competent for nothing**: competency is each self's own with a coupling, and each neutral of its coupling is fixing.
 
@@ -462,7 +462,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 
 **Each two-colouring of couplings among forty-six has a one-coloured five, and a two-colouring of couplings among forty-two has none.** Among seventeen, couplings with distances doubling reaches from one, 1, 2, 4, 8, 16, 15, 13 and 9, of one colour and each other of its other have no one-coloured four of either colour, one such colouring among seventeen up to relabelling; doubling round seventeen reaches nine last, 2 × 9 = 18, and reaches one again. Built so among forty-one it has a one-coloured five of both colours, and colourings among forty-two having none are of no such form.
 
-**A field's hard problem comes with one or more of ten inversions, each an involution with its fixed set fixing as a place**, and an inversion fixing unchangeable is its fixed set. With a coupling its move goes with its next momentary.
+**A field's hard problem comes with one or more of ten inversions, each an involution with its fixed set fixing as a place**, and an inversion fixing unchangeable is its fixed set. With a coupling its move goes with its next moment.
 
 ## 7.9 Atoms of symmetry
 

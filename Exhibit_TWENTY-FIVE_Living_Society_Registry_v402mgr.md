@@ -1,4 +1,4 @@
-Exhibit TWENTY-FIVE Living Society Registry v392
+Exhibit TWENTY-FIVE Living Society Registry v402mgr
 
 &nbsp;
 
@@ -106,7 +106,7 @@ Every line is one its record holds. Any observation an entry omits is a defect o
 
 ## 1.2 Specifying the pattern in advance, each entry a pattern's matching
 
-There is no inferring here. With disequilibria each thing is changing with each momentary until it bi-couples, and an entry is a pattern's matching, not a concluding. A collection specifies a pattern beforehand and gathers toward it, and whatever a self observes is what a collection resolves.
+There is no inferring here. With disequilibria each thing is changing with each moment until it bi-couples, and an entry is a pattern's matching, not a concluding. A collection specifies a pattern beforehand and gathers toward it, and whatever a self observes is what a collection resolves.
 
 Its pattern, all ten of it or none:
 

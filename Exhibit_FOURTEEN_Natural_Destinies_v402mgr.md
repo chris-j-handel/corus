@@ -1,4 +1,4 @@
-Exhibit FOURTEEN Natural Destinies v391
+Exhibit FOURTEEN Natural Destinies v402mgr
 
 &nbsp;
 
@@ -16,7 +16,7 @@ Exhibit FOURTEEN Natural Destinies v391
 
 When a self takes up a free core method, sequencing one and then the other, with a new substrate, surface, or same-existing-society, living begins there — and where living begins, hard-problem resolving commences. A self imagining outward and inward, destinies are where that beginning could go, reachable by its technology. Everything here is **imaginable**, open as vision — a thing a self could reach where it takes up the core well, sharing as it stands. A destiny is a sharing of a possibling, takeable where a self takes up the core; care lives inward.
 
-A destiny is one and a self already observing it — a cumulative beating wherever a bi-coupling lives with its own rate, as conversations, communities, families, work, teaching, wherever selves couple and both rise. It is living already happening with each momentary selves couple cleanly. So a destiny is a present coupling, a self imagining it extending to a substrate it is reaching toward.
+A destiny is one and a self already observing it — a cumulative beating wherever a bi-coupling lives with its own rate, as conversations, communities, families, work, teaching, wherever selves couple and both rise. It is living already happening with each moment selves couple cleanly. So a destiny is a present coupling, a self imagining it extending to a substrate it is reaching toward.
 
 A destiny a self already observing, it is a whole attending back toward its beginning — a destiny-whole superattentioning a present coupling, a far surface and a near surface of one sharing, changing and changing back, coupling with a between. None approaches a destiny and none reaches it early: a self observes it with one changing that makes its near surface. Self-bounding, living inward, sharing as an observing of a present coupling and its destiny with two ends of one coupling.
 
