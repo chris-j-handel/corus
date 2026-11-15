@@ -763,6 +763,7 @@ Gathering-Value · Natural Naming
 ## Is-not
 
 - **Is-not** · Bi as other, or as other-parity: bi is both, a me and an other self together.
+- **Is-not** · *Observed*, of a thing: a dead form with no going on. Observing is a self's, now, with its -ing.
 - **Is-not** · *A momentary*, a noun: *a moment* is its natural naming.
 - **Is-not** · *The* universal set: a universal set is one of many, and none is named as the only one.
 - **Is-not** · Two bonded names written apart, as *prior-existing and now-existing*: *prior-and-now-existing* has the two inseparable.
