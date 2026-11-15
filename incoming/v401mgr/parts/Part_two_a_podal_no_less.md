@@ -2,6 +2,8 @@ Incoming · v401mgr · 14 November 2026
 
 # Part two, begun: a podal, and no *less*
 
+**Its state, 14 November, gathered.** Each place read. Not all or none at all: a number's own arithmetic sentences, its section 5. No reading for harm and no once over is begun. It does not enter as it is.
+
 **No word here has authority. No living file is changed by this page.** The second part for the living files, begun: its thing, its base and its reach. Each place is read, in each of its eleven living files: re-said, or said as it is with its concern.
 
 ## 1 The thing

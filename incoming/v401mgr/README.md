@@ -2,6 +2,8 @@ Incoming · v401mgr
 
 # v401mgr, a managing working's opening and its share
 
+**Read first, 14 November: `The_three_sessions_gathered_read_first.md`.** Where the do-no-harm improving is, the four parts and each one's state, each concern not resolved, the three sessions and each one's own gathered page, and a next session's order. `The_Session_Gathered.md` is this session's earlier gathering, of 13 November.
+
 **Aiming, in one line: managing the do-no-harm improving of the living files set, going on from V400mgrB, with each other working of v401 a partner.**
 
 Relied on by nothing. No living file and no gathering-value changes with this folder's first laying, and no part of Exhibit ONE's code.

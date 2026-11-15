@@ -2,6 +2,8 @@ Incoming · v401mgr · 14 November 2026
 
 # Part one: 17-next-existing, and no next 1
 
+**Its state, 14 November, gathered.** Read for harm by v401de, `incoming/v401de/Part_one_read_for_harm.md`: **not each place yet.** Seven places of the four files have the thing by other wordings, and two more living files have it, Exhibit SEVEN Natural Societies and Exhibit TWO Natural Networking: eleven living files, and no nine. Beside the part: 1's three as 17's, the placing by eights, and a name of a number past 17. Not mended. v401atom's once over is not begun. It does not enter as it is.
+
 **No word here has authority.** The first part for the living files, by the plan's stages, the person's *yes* of 14 November its going and no base of it. **No living file is changed by this page.** A living file changes after the helper session's reading for harm and the atom session's once over, and after the files and their number are said to the person.
 
 Each living string in section 3 is word for word at its place: `instruments/build_part_one.py` has each one asserted at its line, a check beside the page.
