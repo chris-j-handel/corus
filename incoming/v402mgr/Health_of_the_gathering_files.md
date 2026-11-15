@@ -98,6 +98,8 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 
 ## Where the work is, for a session beginning
 
+**A session beginning reads `For_v403mgr.md` first**, in this folder: each opportunity seen at v402mgr's closing, and each asking open as it is at the closing. This part is as the work was on the way.
+
 **The one plan.** Each gathering file healthy first, one at a time, Natural Intelligence's first; then its living file's next version from it, all or none at all, laid whole in the session before it enters. No living file is changed before its gathering file is healthy.
 
 **The method.** Each concept sentence of a gathering file and of its living file is rated is, is-not or is-or-is-not? An is goes to its living file. An is-or-is-not? goes on in its gathering file, with why it is open. An is-not is gathered once in the gathering file's last part, *Is-not*. The method's droplet is in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file.
