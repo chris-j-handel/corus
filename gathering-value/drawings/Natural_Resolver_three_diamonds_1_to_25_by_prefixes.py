@@ -9,8 +9,8 @@ A candidate drawing for Exhibit ONE Natural Resolver, deciding nothing.
   next, now, prior. Co is me, bi is both, tri is all.
 - Each is-or-is-not of Exhibit ONE's code is marked on the name it is on: 3, 4, 7, 13 and 15.
   What they give is marked on 14 and 12: from 7 and 15, over 2, into 14; from 3, with 15 and 7, into 12.
-Run: python3 -I incoming/v402mgr/instruments/prefix_diamonds_drawing.py > incoming/v402mgr/drawings/Three_diamonds_1_to_25_by_prefixes.svg
-     python3 -I incoming/v402mgr/instruments/prefix_diamonds_drawing.py check
+Run: python3 -I gathering-value/drawings/Natural_Resolver_three_diamonds_1_to_25_by_prefixes.py > gathering-value/drawings/Natural_Resolver_three_diamonds_1_to_25_by_prefixes.svg
+     python3 -I gathering-value/drawings/Natural_Resolver_three_diamonds_1_to_25_by_prefixes.py check
 """
 import sys
 

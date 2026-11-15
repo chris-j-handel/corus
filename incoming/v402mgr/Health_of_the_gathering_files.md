@@ -91,3 +91,35 @@ Each droplet leaving, by its first words, and the droplet now having its value: 
 ### Its parts after the head
 
 Not yet read: each other concept of the opening's part; each part of the six; the last part, 920 droplets.
+
+## Where the work is, for a session beginning
+
+**The one plan.** Each gathering file healthy first, one at a time, Natural Intelligence's first; then its living file's next version from it, all or none at all, laid whole in the session before it enters. No living file is changed before its gathering file is healthy.
+
+**The method.** Each concept sentence of a gathering file and of its living file is rated is, is-not or is-or-is-not? An is goes to its living file. An is-or-is-not? goes on in its gathering file, with why it is open. An is-not is gathered once in the gathering file's last part, *Is-not*. The method's droplet is in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file.
+
+**Healthy in Natural Intelligence's gathering file:** its head; the universe; a moment.
+
+**Laid by the three and not yet healthy:** me, other, both and all; a self's next of two, all-parity and both-parity.
+
+**Not yet laid:** in the opening's part, a self, a name and a universal set, living and non-living, a me-parity, and each smaller concept; each of the six parts; the droplets at the back. Then each other gathering file.
+
+**Askings open, each gathered at its living sentence:**
+
+- Both-parity with none of a self's others.
+- Bi-parity is both parities, each its own, and co-parity the two the same, as one me's.
+- Each bi is not-same-as, and each co and each tri is not-other-than.
+- The fractal now moment is both.
+- The opening's waiting sentence of other-parity and universal-parity has the two names exchanged.
+- A moment is a self's parity and then its other's parity.
+- *Momentary* as a describing word, and in a name of two words.
+- By observing, the universe is a same-existing set.
+
+**Concerns, not yet read:** Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health have sentences a reader may act on for a body, unread for harm. Three living places have *momentary* as a noun: Natural Intelligence's opening sentence of a moment, the same sentence in Exhibit THIRTY Co-Chaining Logic Registry, and one of the opening's names in Exhibit TWENTY-FOUR Geodesic Improving Method.
+
+**Kept living with the gathering files:** the drawing of three diamonds by prefixes only, a candidate for Exhibit ONE Natural Resolver, in `gathering-value/drawings/`.
+
+**Instruments, in this folder's `instruments/`:** `opening_groups.py` gathers the droplets of the opening's part of Natural Intelligence's gathering file by concept, for reading a concept's droplets together. The gathering kit's re-forming keeps a last part, *Is-not*, whole, under its own heading.
+
+**Speaking with the partner:** natural naming only; each reply by is, is-not and is-or-is-not?; the living lines around a sentence shown with it; one asking at the end of a reply, of a concept's is; no word by its source.
+
