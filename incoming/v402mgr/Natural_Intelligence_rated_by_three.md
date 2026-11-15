@@ -12,7 +12,7 @@ Incoming · v402mgr · Natural Intelligence rated by three
 
 - **19** · a newer line waits for its concept, in the opening at its newest: sentences 4, 7, 10, 11, 13, 14, 15, 16, 18, 19, 24, 26, 46, 48, 52, 56, 62, 66, 67
 - **5** · the universe as same-existing, and one universe or each one's own: sentences 2, 3, 8, 9, 22
-- **8** · a parity's names: a self's parity, a me-parity, same-as and other-than, all-parity and both-parity: sentences 27, 28, 31, 32, 33, 35, 36, 58
+- **8** · a parity's names: the three parities are me-parity, both-parity and all-parity, and the sentence has none of them: sentences 27, 28, 31, 32, 33, 35, 36, 58
 - **5** · by the code executed, not the same: sentences 39, 41, 44, 45, 47
 - **2** · a 0: sentences 29, 30
 - **4** · one name with more than one sentence: sentences 42, 60, 65, 70

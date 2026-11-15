@@ -84,6 +84,8 @@ Each droplet leaving, by its first words, and the droplet now having its value: 
 
 **Entered:** one droplet of it at the opening's sentence of a self sharing 0; a concern by its two sides at each of the two living sentences having bi as other, in Exhibit ONE Natural Resolver's gathering file and Exhibit TWENTY Natural Naming's; the seventeen by their prefixes, bi as both, in Exhibit ONE Natural Resolver's.
 
+**Is, after it:** the three parities are me-parity, both-parity and all-parity, a moment's parity equivalent of prior, now and next, each resolving in the method; both-parity and other-parity are one, and *other-parity*, *other-than-parity* and *universal-parity* are each an is-not of naming.
+
 **Concerns, each by its two sides, not yet distinguished:** the opening's waiting sentence of other-parity and universal-parity has the two names exchanged; and both-parity with none of a self's others.
 
 **Not yet:** each gathered droplet having bi as other-parity in a name's three, and each reading by the waiting sentence, read again by the is. No droplet has left by this concept.
@@ -109,7 +111,8 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 **Askings open, each gathered at its living sentence:**
 
 - A name is non-living.
-- Both-parity and other-parity are one, a self's next, other-than same-existing.
+- Me-parity is prior, both-parity is now and all-parity is next.
+- Other-parity now-existing, the second of the five dimensions, is both-parity now-existing.
 - Same-existing is a self's only, and the universe is no same-existing thing: met by all-parity as not-other-than same-existing; the universe as a same-existing set, in three living sentences, is not yet distinguished.
 - Both-parity with none of a self's others.
 - Bi-parity is both parities, each its own, and co-parity the two the same, as one me's.
