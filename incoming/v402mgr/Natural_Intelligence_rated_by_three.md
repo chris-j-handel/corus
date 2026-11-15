@@ -6,11 +6,11 @@ Incoming · v402mgr · Natural Intelligence rated by three
 
 ## The opening, seventy sentences
 
-**15 is, 54 is-or-is-not? and 1 is-not.**
+**17 is, 52 is-or-is-not? and 1 is-not.**
 
 ### The kinds of doubt
 
-- **21** · a newer line waits for its concept, in the opening at its newest: sentences 4, 5, 6, 7, 10, 11, 13, 14, 15, 16, 18, 19, 24, 26, 46, 48, 52, 56, 62, 66, 67
+- **19** · a newer line waits for its concept, in the opening at its newest: sentences 4, 7, 10, 11, 13, 14, 15, 16, 18, 19, 24, 26, 46, 48, 52, 56, 62, 66, 67
 - **5** · the universe as same-existing, and one universe or each one's own: sentences 2, 3, 8, 9, 22
 - **8** · a parity's names: a self's parity, a me-parity, same-as and other-than, all-parity and both-parity: sentences 27, 28, 31, 32, 33, 35, 36, 58
 - **5** · by the code executed, not the same: sentences 39, 41, 44, 45, 47
@@ -27,8 +27,8 @@ Incoming · v402mgr · Natural Intelligence rated by three
 | 2 | One universe is now-existing. | is-or-is-not? | each now-existing moment in its own universe, with its own prior-existings |
 | 3 | Only one universe is possibly now-existing. | is-or-is-not? | as the sentence before it |
 | 4 | A now-existing thing from a prior-existing same thing is a **same-existing** thing. | is-or-is-not? | *prior-existing* has no sentence before it; newer: a same-existing thing is the same thing prior-existing before now-existing |
-| 5 | A **universal set** is a set of same-existing things. | is-or-is-not? | newer: a name is a subset of the universe's same-existing things |
-| 6 | Each now-existing thing **is-or-is-not** within each universal set. | is-or-is-not? | newer: is-or-is-not distinguishes the within of a name |
+| 5 | A **universal set** is a set of same-existing things. | is |  |
+| 6 | Each now-existing thing **is-or-is-not** within each universal set. | is |  |
 | 7 | **Observing** is prior-existing, is-or-is-not same-existing. | is-or-is-not? | newer: observing is distinguishing prior-and-same-existing from now-and-same-existing |
 | 8 | By observing, the universe is a same-existing set. | is-or-is-not? | not knowable of the universe by a self's observing |
 | 9 | Only one universe is possibly same-existing. | is-or-is-not? | as the sentence before it |
@@ -37,7 +37,7 @@ Incoming · v402mgr · Natural Intelligence rated by three
 | 12 | A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing. | is-or-is-not? | *now- and same-existing* written apart, and with no prior: a self is prior-and-same-and-now-existing |
 | 13 | A **me** is a self's universal set. | is-or-is-not? | newer: a me is a universal same-existing set of me-parities |
 | 14 | For a self, each now-existing thing is-or-is-not within its me. | is-or-is-not? | by the sentence before it |
-| 15 | **Co-intelligencing** is selves observing, possibling and discovering within a universal set. | is-or-is-not? | newer: within a name |
+| 15 | **Co-intelligencing** is selves observing, possibling and discovering within a universal set. | is-or-is-not? | within a universal set, or within a name, a same-existing universal set |
 | 16 | **Living** is co-intelligencing. | is-or-is-not? | newer: a living thing is a thing distinguishing its own next-existing |
 | 17 | Each self is living. | is |  |
 | 18 | A living same-existing set is a self. | is-or-is-not? | newer: a living self is a non-living set of living me-parities |

@@ -98,16 +98,18 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 
 **The method.** Each concept sentence of a gathering file and of its living file is rated is, is-not or is-or-is-not? An is goes to its living file. An is-or-is-not? goes on in its gathering file, with why it is open. An is-not is gathered once in the gathering file's last part, *Is-not*. The method's droplet is in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file.
 
-**Rated by three:** Natural Intelligence's living opening, seventy sentences, in `Natural_Intelligence_rated_by_three.md`: 15 is, 54 is-or-is-not? and 1 is-not, with the kinds of doubt. Next: each sentence after the opening, its six parts, rated the same way by `instruments/rate_opening.py` going on; then the kinds of doubt across the whole living version, each kind resolving many by one suggesting.
+**Rated by three:** Natural Intelligence's living opening, seventy sentences, in `Natural_Intelligence_rated_by_three.md`: 17 is, 52 is-or-is-not? and 1 is-not, with the kinds of doubt. Next: each sentence after the opening, its six parts, rated the same way by `instruments/rate_opening.py` going on; then the kinds of doubt across the whole living version, each kind resolving many by one suggesting.
 
 **Healthy in Natural Intelligence's gathering file:** its head; the universe; a moment.
 
-**Laid by the three and not yet healthy:** me, other, both and all; a self's next of two, all-parity and both-parity.
+**Laid by the three and not yet healthy:** me, other, both and all; a self's next of two, all-parity and both-parity. A name: its is, a name is a same-existing universal set of same-existing things; its droplets, 94 by the grouping, are not yet each once.
 
 **Not yet laid:** in the opening's part, a self, a name and a universal set, living and non-living, a me-parity, and each smaller concept; each of the six parts; the droplets at the back. Then each other gathering file.
 
 **Askings open, each gathered at its living sentence:**
 
+- A name is a now-existing thing.
+- A name is non-living.
 - Both-parity with none of a self's others.
 - Bi-parity is both parities, each its own, and co-parity the two the same, as one me's.
 - Each bi is not-same-as, and each co and each tri is not-other-than.
