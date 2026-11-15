@@ -520,3 +520,9 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Laid:** `The_three_sessions_gathered_read_first.md`, section 12, each page of the other three folders by its standing, and how each is sorted. `The_value_by_its_places.md`, read again, is an artifact. Not sorted: one page of the managing session before, and the atom session's nine pages from before its sequence.
 
+## 36 The winding closed
+
+**Each of the other two sessions gathered and sorted its own folder,** by the person's word: v401atom at `11799ea`, v401de at `c70539b`; each entered with a once over and the set's checks whole. v401atom's five pages from before its sequence are artifacts, by its own sorting.
+
+**Laid:** `The_three_sessions_gathered_read_first.md`, its sections 12 and 13. **One concern more, by v401atom's sorting:** two pairings of primes with names, parting at 5 and at 7.
+

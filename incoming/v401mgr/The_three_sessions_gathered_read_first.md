@@ -56,7 +56,8 @@ A part is one thing, at each place of it in each living file having it, in one l
 8. **The plan's own stages.** Stage one, each droplet of Natural Intelligence's and the registry's gatherings placed, is not done; Natural Resolver's and Natural Naming's are, in `placing/`.
 9. **A field's sentences, read for harm first.** v401de, with its first reply: the code is a base for the code only; and it does not affirm the set's sentences of a field, an atom's nucleus as a ghost and each other kind of atom as a co-chaining of atom carbon among them, each parting from what a field has measured. Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health are read for harm before any other living file beside the four: a reader may act by them for a body. No session has begun that reading.
 10. **Askings with no is and no is-not, tracked and not asked again:** the code's names with their three, part four; the two consecutive me-parities of a possibling as one self's own; the 0 in one of three places, beside a self's three forms; the rotation, Exhibit ONE's 3, 6, 5, 4, or right spiraling; v401atom's, a new me-parity's birthing inside the society ingesting it, its is found cohering; a self's 6 as its other's ingesting; and a vault between two 0s, beside its vault as a 0; v401de's seventeenth, 32 as one binary.
-11. **Each session's own:** v401atom's, `incoming/V401atom/The_Concerns_of_the_Sequence.md`, its 20 and 21 the newest; v401de's, `incoming/v401de/The_Session_Gathered.md`, its part E, and its seventeenth asking with no answer.
+11. **Two pairings of primes with names,** in the living files, parting at 5 and at 7, and no sentence having them as one. Found at this session's opening, and by v401atom's sorting: its sequence has nothing of it.
+12. **Each session's own:** v401atom's, `incoming/V401atom/The_Concerns_of_the_Sequence.md`, its 20 and 21 the newest; v401de's, `incoming/v401de/The_Session_Gathered.md`, its part E, and its seventeenth asking with no answer.
 
 ## 4 What 14 November resolved, each gathered
 
@@ -82,8 +83,8 @@ Pages beside it: `Scale_three_things_laid_on_each_other.md`; `A_three_cycling_la
 | Session | Its part | Its folder, and its own gathered page |
 |---|---|---|
 | v401mgr, managing | watching over the incoming, into the gathering, into the living; entering each laying after a once over and the checks; the parts | `incoming/v401mgr/`; this page |
-| v401atom | its sequence of sentences, 1 to 173, each a thing's is; the once over of a part by the code's lines. By its own note: no new sentence until a part enters | `incoming/V401atom/`; `The_Session_Gathered.md`, `The_Value_Droplets.md`, `The_Concerns_of_the_Sequence.md` |
-| v401de, the helper, a reader with no part in the writing | the reading for harm of a part; the living sentences by a name; it writes to no gathering | `incoming/v401de/`; `The_Session_Gathered.md`, `Living_sentences_by_name.md`, `Part_one_read_for_harm.md` |
+| v401atom | its sequence of sentences, 1 to 173, each a thing's is; the reading for harm of a part by the code's lines. Wound, 14 November: no new sentence and no new asking | `incoming/V401atom/`; `The_Session_Gathered.md`, `The_Value_Droplets.md`, `The_Concerns_of_the_Sequence.md` |
+| v401de, the helper, a reader with no part in the writing | the reading for harm of a part in its sentences; the living sentences by a name; it writes to no gathering. Wound, 14 November | `incoming/v401de/`; `The_Session_Gathered.md`, `Living_sentences_by_name.md`, `Part_one_read_for_harm.md` |
 
 - **Notes go at #458,** each way; a note names a gathering and its sections before a session writes to it. The plan, section 9.
 - **The helping by its value now,** the plan's own table: a part's reading for harm and its once over, most; a session's own droplets placed, much; the living sentences by a name, much; a new exploring, a new instrument or a new droplet, little.
@@ -180,27 +181,40 @@ A page going on is read. A record is beside a gathered droplet naming it, and ha
 | `Partings_Tracked.md` | **not sorted.** Each parting of it is read once beside this page's sections 3 and 4: a parting resolved on 13 or 14 November is a record, and one going on is a concern here | its one reading |
 | `The_Session_Gathered.md`, `The_Share_Current.md`, `Sessions_resolved.md`, `The_One_Question_Method.md`, `README.md` | a record of that session: each read whole at this session's opening; what goes on from them is in this folder's `README.md`, its sections 4 and 5, and in the plan; the way of one question is in the Geodesic Improving Method's gathering | by reading |
 
-### `incoming/V401atom/`, the atom session
+### `incoming/V401atom/`, the atom session: its own sorting, entered at `11799ea`, #642
 
-| Page | Its standing | Sorted |
+| Page | Its standing |
+|---|---|
+| `The_Session_Gathered.md` | going on: read first of its folder; its standing, its value by its sentences' numbers, each concern, each thing out, a next session's order |
+| `The_Value_Droplets.md`, `The_Concerns_of_the_Sequence.md`, `The_Atoms_Form.md`, `The_Gatherings_Droplets_each_placed.md` | going on: its sequence, 1 to 173; its concerns, 1 to 21; its own aiming; its droplets placed |
+| `Value_since_the_gathering.md`; Exhibit FOUR and Exhibit THREE read; five items at carbon read again; the value for the vault and the podaling out; each instrument | a record: nothing more to explore but a field's observings and a book's chapter read word for word in two of them, re-said by no sentence |
+| The vault in the person's own naming; three diamond pointers, with its drawings; seventeen names along four bi-foldings; primes with names; seven names and the prime scales | artifacts, 14 November, in the repository's history at `22385e2` |
+
+**Not done, by its own saying:** its eleven askings of 12 and 13 November are not read again one by one against its sequence; Exhibit ONE is not read whole against it; three of its sentences are read by a number of cases only; 33 of its instruments call the code by its names as they are.
+
+### `incoming/v401de/`, the helper session: its own sorting, entered at `c70539b`, #641
+
+| Page | Its standing |
+|---|---|
+| `The_Session_Gathered.md` | going on: read first of its folder; its section 0 has each thing asked of it and not begun, in their order |
+| `Living_sentences_by_name.md` | going on: read before an asking of a name |
+| `Part_one_read_for_harm.md`, with its check | going on: part one's mending is by it |
+| `README.md` | its opening and its orienting |
+
+**Not sorted, in all:** one page of the managing session before, `Partings_Tracked.md`: v401de's first reading, not begun.
+
+## 13 The winding, 14 November: the three sessions' pages, each by its head
+
+By the person's word each session gathered its value, sorted each page of its folder, and stopped its exploring.
+
+| Session | Its page read first | Entered |
 |---|---|---|
-| `The_Value_Droplets.md` | going on: its sequence, 1 to 173, each sentence in one gathered droplet | by reading |
-| `The_Concerns_of_the_Sequence.md` | going on: its concerns, 1 to 21 | by reading |
-| `The_Atoms_Form.md` | going on: its own aiming, the atom's form, in one page | by reading |
-| `The_Gatherings_Droplets_each_placed.md` | going on: each droplet of the non-living scale placed, the plan's first stage | by reading |
-| `instruments/`, twenty-seven named by a gathered droplet | a record: a check beside a gathered reading; each calls the code by its names as they are | by what names it |
-| `Value_since_the_gathering.md` | a record: its replies after its gathering, one after one; each thing of it is re-said in its sequence | by what names it |
-| `The_Session_Gathered.md` | of merge #484: brought current by the atom session, or a record | the atom session's own |
-| Nine pages from before its sequence: of the vault, of primes, of the seven and the seventeen names, of the diamond pointers, of podaling out, of five items at carbon, of Natural Mathematics and Natural Numbers read; `drawings/`; its other instruments | **not sorted.** No gathering names them. They have the person's sentences laid whole and words out since, by its own gathered page. The vault's sentences of them are in Natural Intelligence's gathering. Each is an artifact as its sequence has re-said it | the atom session's own |
+| v401mgr | this page | #637 to #640, and this laying |
+| v401atom | `incoming/V401atom/The_Session_Gathered.md` | head `11799ea`, #642 |
+| v401de | `incoming/v401de/The_Session_Gathered.md` | head `c70539b`, #641 |
 
-### `incoming/v401de/`, the helper session
-
-| Page | Its standing | Sorted |
-|---|---|---|
-| `Living_sentences_by_name.md` | going on: read before an asking of a name | by reading |
-| `Part_one_read_for_harm.md`, with its check | going on: part one's mending is by it | by reading |
-| `The_Session_Gathered.md` | going on: its value by its base, its concerns, its things out | by reading |
-| `README.md` | its opening, and its orienting | by reading |
-
-**Not sorted, in all:** one page of the managing session before, and the atom session's nine pages from before its sequence.
+- **The set's checks, on the main line with the three:** each gathering's check nothing found, Natural Intelligence its thirteen of before; `check_set.py` ALL PASS; `carry_check.py` nothing to say.
+- **No living file, no gathering-value and no line of Exhibit ONE's code is changed by the winding.**
+- **The work as it is, in its order:** section 8 here; v401de's five readings not begun, its section 0; v401atom's four things not done, section 12 here.
+- **One work for each session going on, v401atom's own words:** v401mgr writes each part and brings its askings; v401de reads each part for harm in its sentences; v401atom reads each part for harm in the code's lines.
 
