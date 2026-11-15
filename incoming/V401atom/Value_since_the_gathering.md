@@ -818,6 +818,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: an atom free.** The sequence's 170, at the registry's *31*: an atom each its own free, uncoupling from each now-existing thing other-than it, floating and neutralling, orienting in all-parity's alternating; exhaled atoms co-chaining other-than free. A concern is with it, free of an atom and free of a network of selves: `The_Concerns_of_the_Sequence.md`, part 19.
 
+**Going on, 14 November: *free*, each its own.** The sequence's 171, at the registry's *4*: each its own by each scale, an atom's own its orientation, a living self's own its resolving of its next-existing, inside its bi-couplings. The concern of one name by two things is resolved by it. A gap is asked: a four of atoms and a four-cycling's centre, `The_Concerns_of_the_Sequence.md`, part 20.
+
 ---
 
 ## 6 Executed, each case, all or none

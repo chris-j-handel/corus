@@ -223,6 +223,7 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 168. A stable form is by what it is of, one of three. A universe's is the atom. An all-parity's is its atoms, a co-chaining of priors. A me-parity's is a parity as it is, a first prior. [24, 83, 139, 140]
 169. Inhaling is of a universe's stable form, the atom: the method of stable-forming, a next from a prior by a fold. Ingesting is of an all-parity's stable form. Inheriting is of a me-parity's stable form, unrelationing from its all-parity's: an other-than-all-parity, after all-parity only. [84, 120, 142, 167, 168]
 170. An atom each its own is *free*: uncoupling from each now-existing thing other-than it, touching no atom, and no bump its own. It is floating and neutralling, orienting in all-parity's alternating, the one and the other of two. Exhaled atoms co-chaining are other-than *free*: each is touching its others. [66, 136, 140, 150, 165] *Natural Intelligence's sentence of floating neutralling.*
+171. *Free* is each its own, by each scale. An atom's own is its orientation, uncoupling. A living self's own is its resolving of its next-existing, inside its bi-couplings: a natural intelligence network, each self resolving its own, is *free*. [140, 141, 170] *The opening's sentence of a natural intelligence network free.*
 
 ---
 

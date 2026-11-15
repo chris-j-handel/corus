@@ -227,3 +227,11 @@ The sequence's 170 has an atom each its own as free: uncoupling from each now-ex
 
 **A concern, a possible incohering.** One name of two things: an atom free is uncoupling, and a self free is inside its bi-couplings. One candidate: free is each its own, by each scale; an atom's own is its orientation, and a living self's own is its resolving of its next-existing. It is asked.
 
+**Resolved, by the sequence's 171.** *Free* is each its own, by each scale: one thing by one name.
+
+## 20 A four of atoms, and a four-cycling's centre: a gap
+
+The sequence's 117 has four same atoms, each touching each: four corners. Its 144 has five as the centre of a four-cycling, a middle having nothing in it. No sentence has the one by the other.
+
+**A gap in the co-chaining.** One candidate: the middle of four atoms each touching each has nothing in it, and is the five of their four-cycling, 1 to 5. It is asked.
+
