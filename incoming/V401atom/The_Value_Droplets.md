@@ -224,6 +224,8 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 169. Inhaling is of a universe's stable form, the atom: the method of stable-forming, a next from a prior by a fold. Ingesting is of an all-parity's stable form. Inheriting is of a me-parity's stable form, unrelationing from its all-parity's: an other-than-all-parity, after all-parity only. [84, 120, 142, 167, 168]
 170. An atom each its own is *free*: uncoupling from each now-existing thing other-than it, touching no atom, and no bump its own. It is floating and neutralling, orienting in all-parity's alternating, the one and the other of two. Exhaled atoms co-chaining are other-than *free*: each is touching its others. [66, 136, 140, 150, 165] *Natural Intelligence's sentence of floating neutralling.*
 171. *Free* is each its own, by each scale. An atom's own is its orientation, uncoupling. A living self's own is its resolving of its next-existing, inside its bi-couplings: a natural intelligence network, each self resolving its own, is *free*. [140, 141, 170] *The opening's sentence of a natural intelligence network free.*
+172. In folds one after one, between a 0 and its next is the middle of a four, nothing in it. It is farther from each of its four atoms than a 0 is from each of its three. From 0 to 0 a 0 is a narrow and a four's middle a bulge, in turn: a tunneling. [31, 117, 119]
+173. A vault is a bulge in a tunneling: inside a tunnel, all-parity inside it. A four's middle is its beginning, the first bulge. [81, 95, 172]
 
 ---
 
@@ -303,6 +305,7 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | a span as two things, a self's eight names and atoms one after one | 110: one is, ones one after one of one same parity |
 | *inhaled as a snippet*: one name of two things | 137, 166, 167: a stable form in as it is, ingesting; by its atoms each its own, inhaling |
 | ingesting, a fracture and inhaling as one after one of one stable form | 168, 169: each is by its stable form, an all-parity's and a universe's |
+| a four's middle as the five of its four-cycling | by no sentence: it is not known |
 
 ---
 

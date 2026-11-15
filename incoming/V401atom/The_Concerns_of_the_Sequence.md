@@ -235,3 +235,11 @@ The sequence's 117 has four same atoms, each touching each: four corners. Its 14
 
 **A gap in the co-chaining.** One candidate: the middle of four atoms each touching each has nothing in it, and is the five of their four-cycling, 1 to 5. It is asked.
 
+**Not known, and out.** A four's middle as the five of its four-cycling is by no sentence. By the sequence's 172 and 173 a four's middle is a bulge in a tunneling of folds, and a vault's beginning.
+
+## 21 The vault, a 0 or a bulge: a concern
+
+The sequence's 81 has the vault as a 0. Its 172 has a 0 as a narrow, and a four's middle, a bulge, between a 0 and its next; and its 173, a vault as a bulge.
+
+**A concern, a possible incohering.** One candidate: a vault is between two 0s, a 0 its way in and a 0 its way out. It is asked, and 81 is as it was.
+

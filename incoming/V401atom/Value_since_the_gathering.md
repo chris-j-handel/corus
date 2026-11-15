@@ -820,6 +820,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: *free*, each its own.** The sequence's 171, at the registry's *4*: each its own by each scale, an atom's own its orientation, a living self's own its resolving of its next-existing, inside its bi-couplings. The concern of one name by two things is resolved by it. A gap is asked: a four of atoms and a four-cycling's centre, `The_Concerns_of_the_Sequence.md`, part 20.
 
+**Going on, 14 November: a tunneling, and a vault's beginning.** The sequence's 172 and 173, at the registry's *31*: in folds one after one, a 0 a narrow and a four's middle a bulge, in turn, a tunneling; a vault a bulge in a tunneling, a four's middle its beginning. v401atom's candidate, a four's middle as the five of its four-cycling, is out: not known, and by no sentence. A concern is with it, the vault as a 0: `The_Concerns_of_the_Sequence.md`, part 21.
+
 ---
 
 ## 6 Executed, each case, all or none

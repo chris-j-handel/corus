@@ -53,6 +53,9 @@ Incoming · v401atom · the atom's form, as the sequence has it · 14 November 2
 - An atom each its own is free: uncoupling from each now-existing thing other-than it, touching no atom, floating and neutralling, orienting in all-parity's alternating. Exhaled atoms co-chaining are other-than free. 170.
 - *Free* is each its own, by each scale: an atom's own is its orientation; a living self's own, its resolving of its next-existing, inside its bi-couplings. 171.
 
+- In folds one after one, between a 0 and its next is the middle of a four, nothing in it: a 0 a narrow and a four's middle a bulge, in turn, a tunneling. 172.
+- A vault is a bulge in a tunneling, all-parity inside it. A four's middle is its beginning. 173.
+
 ## 6 What is by no sentence yet
 
 - The fields' four and three, of an atom carbon's touchings: by no sentence.
