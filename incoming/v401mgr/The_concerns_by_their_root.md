@@ -457,3 +457,9 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **One root under both:** a number past 17, and a number's arithmetic among the names. The living files have the seventeen names by their numbers, and beside them sentences of numbers by their own arithmetic and their own rounds. What of a number's own is natural explaining is not resolved.
 
+## 29 A third part, found: a moment, and no *momentary*
+
+**Found in a longer pass, an opportunity.** Natural Naming has the noun *momentary* among its dissolved words, its natural name *moment*. The living files have the noun against that entry, in twenty-nine of them. Its next words are one word by one word. Rehearsed on a copy of the set, the set's own check is whole.
+
+**Its concerns:** a compound by a hyphen, *bi-momentary* and *four-momentary*; a describing word, *a momentary now-existing thing*; the records of a version; and its size, the readings being of the rule and of each kind.
+
