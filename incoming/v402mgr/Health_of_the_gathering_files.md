@@ -109,6 +109,8 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 **Askings open, each gathered at its living sentence:**
 
 - A name is non-living.
+- Both-parity and other-parity are one, a self's next, other-than same-existing.
+- Same-existing is a self's only, and the universe is no same-existing thing: met by all-parity as not-other-than same-existing; the universe as a same-existing set, in three living sentences, is not yet distinguished.
 - Both-parity with none of a self's others.
 - Bi-parity is both parities, each its own, and co-parity the two the same, as one me's.
 - Each bi is not-same-as, and each co and each tri is not-other-than.
