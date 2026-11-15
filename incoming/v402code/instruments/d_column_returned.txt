@@ -1,0 +1,22 @@
+the eight rows: (from, period, product of the two self 1 priors in the going form {-1: opposite, 1: like}, their sharings)
+  2 3 (7, 2, {-1}, {(-1, 1), (1, -1)})
+  3 5 (12, 2, {-1}, {(-1, 1), (1, -1)})
+  5 7 (20, 2, {-1}, {(-1, 1), (1, -1)})
+  7 11 (28, 2, {-1}, {(-1, 1), (1, -1)})
+  11 13 (44, 2, {-1}, {(-1, 1), (1, -1)})
+  13 17 (52, 2, {-1}, {(-1, 1), (1, -1)})
+  17 59 (119, 2, {-1}, {(-1, 1), (1, -1)})
+  9 15 (36, 2, {-1}, {(-1, 1), (1, -1)})
+the range 2 to 15, the larger to 31: like or opposite by the kind of the two numbers
+  even·even equal | period 2 | priors product (1,) | 7 pairs, as [(2, 2), (4, 4), (6, 6), (8, 8)]
+  even·odd | period 2 | priors product (-1,) | 84 pairs, as [(2, 3), (2, 5), (2, 7), (2, 9)]
+  even·even | period 2 | priors product (1,) | 77 pairs, as [(2, 4), (2, 6), (2, 8), (2, 10)]
+  odd·odd equal | period 5 | priors product (1,) | 1 pairs, as [(3, 3)]
+  odd·odd equal | period 9 | priors product (1,) | 1 pairs, as [(5, 5)]
+  odd·odd equal | period 13 | priors product (1,) | 1 pairs, as [(7, 7)]
+  odd·odd equal | period 17 | priors product (1,) | 1 pairs, as [(9, 9)]
+  odd·odd equal | period 21 | priors product (1,) | 1 pairs, as [(11, 11)]
+  odd·odd equal | period 25 | priors product (1,) | 1 pairs, as [(13, 13)]
+  odd·odd equal | period 29 | priors product (1,) | 1 pairs, as [(15, 15)]
+  odd·even | period 2 | priors product (-1,) | 77 pairs, as [(3, 4), (3, 6), (3, 8), (3, 10)]
+  odd·odd | period 2 | priors product (-1,) | 77 pairs, as [(3, 5), (3, 7), (3, 9), (3, 11)]

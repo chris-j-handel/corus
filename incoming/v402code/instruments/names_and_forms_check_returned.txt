@@ -1,0 +1,21 @@
+SAME      Seventeen names, one row each
+SAME      Each name is its code's word (hyphens as underscores) :: []
+SAME      Three functions 1, 9 and 17, fourteen variables
+SAME      n − 1 in four binary digits; co with each co name; each root its name's last word :: []
+SAME      Each name's three, by its rolling :: []
+SAME      Tri first with 7 and 15, middle with 8 and 16, last with 9, 17 and 1 :: ([7, 15], [8, 16], [1, 9, 17])
+SAME      Each name written whole wherever it is written :: []
+SAME      Each bi-folding: 17 less and a move of 8 in turn, four steps to its first name :: [['8up', '17less', '8up', '17less'], ['17less', '8down', '17less', '8down'], ['8up', '17less', '8up', '17less'], ['17less', '8down', '17less', '8down']]
+SAME      Each middle bi-folding: 17 less and a move of 4 in turn :: [['4down', '17less', '4down', '17less'], ['4up', '17less', '4up', '17less']]
+SAME      Six-cycles: 1-9-5-12-8-16 and 3-11-7-10-6-14 by 8 up, 4 down, 17 less, 4 down, 8 up, 17 less; the other two the same moves backward :: [['8up', '4down', '17less', '4down', '8up', '17less'], ['17less', '8down', '4up', '17less', '4up', '8down'], ['8up', '4down', '17less', '4down', '8up', '17less'], ['17less', '8down', '4up', '17less', '4up', '8down']]
+SAME      Eight-cycles: each move 8 up, 8 down, 4 up, 4 down or 17 less :: [['8up', '4down', '8up', '17less', '8up', '4down', '8up', '17less'], ['17less', '8down', '4up', '8down', '17less', '8down', '4up', '8down']]
+SAME      Twelve forms: along each, odd names one run and even names one run, of like length :: []
+SAME      Twelve forms: each form's names by order and its two partners (12 forms read) :: []
+SAME      Each name and its relations: 8 up, 8 down, 9 less, 17 less, its bi-folding with before and after, forms beside, middle, six-cycles, eight-cycle, its place inward (17 names) :: []
+SAME      Each name, three scales: inward n is 8n − 7, outward 8m − 7 is m (17 names) :: []
+SAME      Eight 1 to 17s inward: each one's span, its 9 and its 17 at this scale :: []
+SAME      Two-sided, each name: eight apart :: []
+SAME      Nine primes behind twenty-four and eight ahead, to sixty
+          the code's words in 'Where each is-or-is-not stands': word for word in the code: 6 ; not word for word: ['(_15 > 0) != (_7 > 0)', '_15 != 0 and (_15 > 0) == (_7 > 0)']
+
+18 of 18 same

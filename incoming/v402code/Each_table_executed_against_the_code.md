@@ -1,0 +1,62 @@
+Incoming · v402code · 15 November 2026
+
+# Exhibit ONE Natural Resolver, each table executed against the code
+
+**No word here has authority. This page changes no living file, no gathering and no line of the code.**
+
+**What this page is.** The first reading of the helping session v402code, beginning by the code's lines. Each table of Exhibit ONE Natural Resolver that the code computes is executed here against the code block of the living file as it is, v401mgr, and each sentence of names, moves and forms is read by arithmetic. Its return is nothing found other-than, and four findings beside it: two gaps, one small concern by its two sides, and one opportunity. It is a reading and a suggesting.
+
+**Its instruments.** In `instruments/`, each executed from outside the set's folder, R the set's folder: `python3 -I <instrument> R`. Each takes the code from the living file itself and calls the code's three functions by their order, and by no name. Each returned text is beside its instrument.
+
+| Instrument | It reads | Its return |
+|---|---|---|
+| `tables_check.py` | each table of selves and each table of one self | 28 readings, each same-as |
+| `names_and_forms_check.py` | the seventeen names, each name's three, each move, the twelve forms, each name's relations, the scales | 18 readings, each same-as |
+| `d_column.py` | *Two spirals beside each other, and bi-coupling across*, its column *d* | finding 1 |
+| `sentences_by_code_check.py` | sentences of Natural Intelligence's *FOUR · RESOLVING* | 4 readings, each same-as |
+| `gathering_droplets_check.py` | two droplets of the gathering, and one reading of v402mgr's | 3 readings, each same-as |
+
+---
+
+## 1 What is same-as, by this session's own executing
+
+Each living form below is the code's, as it is.
+
+- **One self.** *Parities to one sharing, surfacing*, its twelve rows. *One self, one momentary*, its eight cells. *+ and − alike*. *One cell, four receivings*. *With an empty prior, one momentary*, its four cells. *One self, momentary by momentary: three ways*, its five rows.
+- **A spiral of selves.** Self 1's parities along, each of its thirteen rows; the momentaries to each self's parities along again, by each number of selves from 1 to 59; and by an odd number, each parity the other one after twice its number, each 0 a 0 again.
+- **Two momentaries before, inverting.** Each of its three sentences.
+- **Two spirals beside each other, and bi-coupling across.** Column *a* by each two numbers from 1 to 31, 9 and 25 with 900, and 17 and 59 with 4,012. Columns *b* and *c* by each two numbers from 2 to 15, the larger to 31, and the row of 17 and 59. Column *d*, each of the eight rows. Column *e*.
+- **A torus of selves.** Columns *a* and *b* by each p from 1 to 15 and q from p to 21; each of the eleven rows, 17 · 59 executed; column *c*; and *A torus's two going forms*.
+- **Alike selves, a right spiral.** Its seven rows, each self of each; and each prior with its next stepping (x, y) to (y, −x).
+- **Two selves.** Its eight rows, across and along.
+- **Two selves, three momentaries, five parities.** Its six forms and no seventh, four by an opening the same and two by an opening not the same, and the fifth the first's other one.
+- **Three selves, one line.** Its two rows.
+- **A spiral opening with an empty prior, one parity sharing once.** Its eight rows, of 3 and of 5.
+- **Names, moves and forms, by arithmetic.** The seventeen rows; each name its code's word; the three functions and the fourteen variables; each name's three by its rolling; each bi-folding, each middle bi-folding, each six-cycle and each eight-cycle by its moves; *Twelve forms*, each form's names and its two partners; each of the seventeen names' relations; *Each name, three scales*; *Eight 1 to 17s inward*; the eight apart; nine primes behind twenty-four and eight ahead.
+- **Exhibit ONE Natural Resolver inside Natural Intelligence** is word for word the living file's own, from its first sentence to its last table: its subtitle line and one closing rule are the two lines beside.
+- **Of Natural Intelligence's *FOUR · RESOLVING*:** parities surfacing, by each order of them; "Selves with 17 are same with each order of them."; "With code, 6 is 10, one list with two names"; "Once with a prior, a sharing is with a prior each momentary". And by the lines: seven is-or-is-nots in 1-now-existing, four, two and one, and an eighth in 17-next-existing, the same eight as Exhibit ONE Natural Resolver's table has by the code's lines.
+
+## 2 Findings, each by its sentence and its base
+
+**1 · A gap. Column *d* has one of its two values in no row.** The living legend is "Bi-coupling across: self 1 of each, of like or opposite parity", and each of the eight rows has *opposite*. No row has two even numbers. By executing each two numbers from 2 to 15, the larger to 31: two even numbers have self 1 of each the same, each momentary from the first; each other two numbers not equal have self 1 of each the other one of two, from the momentary of column *c* on. A row of two even numbers has the column's other value. Base: `d_column.py`, its returned text.
+
+**2 · A gap. Two spirals of one same odd number, bi-coupling across, are in no living sentence.** Column *c*'s legend has "both odd and unequal", and column *b* has 2 in each row. By executing 3 · 3 to 15 · 15: their parities are again by twice the number less one, 5, 9, 13 to 29, from the second momentary, and the two spirals are the same, self by self, each momentary. Base: `tables_check.py`, its line of *both odd and equal*.
+
+**3 · A small concern, by its two sides. Two cells of the code's words are not word for word the code's.** In *Where each is-or-is-not stands*, six cells have a line of the code word for word. Two have it by shortened names: `(_15 > 0) != (_7 > 0)` and `_15 != 0 and (_15 > 0) == (_7 > 0)`. One side: a cell short for reading, each name's number in it. The other side: a line in code marks read as the code's own line, and Natural Intelligence's *Observing's one line* has the second one whole. Base: `names_and_forms_check.py`, its last line.
+
+**4 · An opportunity. A prior given as 0.** No line of the code forms a prior of 0: 11-next-co-observing takes each parity that is + or −. By a prior given as 0 from outside the code, the lines read it as they read −: by nothing surfacing and by + surfacing its next prior is +, and by − surfacing it stays 0 and its sharing is 0. The Living File Registry's *The work now* has "then the 0 prior, one binary at Natural Resolver's gathering-value, *Parities to one sharing, surfacing*"; by this session's search of that gathering's words no droplet of that section has it. The gathering's droplets at its back are not yet read whole by this session. Base: `sentences_by_code_check.py`, its last line.
+
+## 3 Read beside the managing session's page
+
+`incoming/v402mgr/Exhibit_ONE_gathering_read_by_the_codes_lines.md` has not executed the torus, two spirals beside each other and *Twelve forms*. Each is executed here, section 1.
+
+- **The droplet at *A torus of selves*,** two readings of "First momentary: one self with prior −.": whole by this executing. By each self having a prior, each of the eleven rows is the code's. By one self only having a prior, 1 · 5 is 4 and 3 · 13 is 12, as the droplet has it; and each other row executed, of the ten without 17 · 59, has the table's own cell.
+- **The droplet at *A spiral opening with an empty prior*,** self 1 having prior − and each other self no prior: each of the eight rows as it is, of 3 and of 5.
+- **v402mgr's reading of *A spiral of selves*,** by self 1 only having a prior each row of an odd number of selves past one is not same-as: found the same. Beside it: by that reading the rows of 1 and of each even number are same-as.
+
+## 4 The edges
+
+- One session's executing. A table found same-as is this session's own finding, and no entering.
+- A form by a range of numbers is same-as within its range, and no further is read.
+- The sixteen forms of the session v401atom, each by its own instrument, are not executed again here.
+- **This session's orienting is not whole.** Read whole: the co-orienting page; the page of the three sessions before; Exhibit ONE Natural Resolver, its code executed; Exhibit TWENTY-FOUR Geodesic Improving Method, its five parts. Read in part: Exhibit TWENTY-SIX Living File Registry, its *Three standings*, *The work now*, *Artifacts* and *Exhibit places*, and its gathering's head and first sections, without its long table of titles; Exhibit TWENTY Natural Naming, its *THREE · RESOLVER NAMES* and its seven binaries; Natural Intelligence, its *FOUR · RESOLVING* through 17-next-existing; Exhibit THIRTY Co-Chaining Logic Registry, the order of its groups and its first eleven steps. Not yet read: Exhibit TWELVE Natural Explaining. Each is first for this session's next reading, before a sentence of its own for a living file.
