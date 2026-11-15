@@ -117,6 +117,7 @@ Gathering-Value · Natural Explaining
 
 ### 3.5 Clocking, laying a pace over a momentarying whose pace is its own
 
+- **Possible incohering** · "*Then*, *after*, *once*, *before*, *finally* and *now that* each lay a schedule over co-sequencing, and a dash paces a self coupling with it by a pace apart from a sentence's own changing and changing back." → Two sayings part at *after*. This sentence has *after* and *before* each laying a schedule over co-sequencing; the newest has *before* unhelpful and *after* helpful in natural defining. Two sides: *after* helpful in a name's defining, and a schedule between two sentences of an explaining, each its own; or *after* helpful in each place, and this sentence re-said with *after* out of it.
 - **Possible incohering** · "*Then*, *after*, *once*, *before*, *finally* and *now that* each lay a schedule over co-sequencing, and a dash paces a self coupling with it by a pace apart from a sentence's own changing and changing back." → This sentence has *then* laying a schedule over co-sequencing, and *then* names a changing's own order within Natural Intelligence 1.3's title, *Changing, one form and then a next form, the same-existing set*, and within this file's own 2.3, *Their one and then the other is changing and changing back*. They part at *then*. Either 3.5 is bounded to *then* joining two sentences, a schedule, and *then* within a changing's naming stays its order; or each title and sentence naming a changing with *then* is re-said: *one and an other*.
 
 ### 3.6 Forcing, taking away one side's not-sharing

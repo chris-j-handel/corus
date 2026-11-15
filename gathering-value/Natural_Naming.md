@@ -233,6 +233,8 @@ Gathering-Value · Natural Naming
 
 ### 5.19 a definition — binary
 
+- **An explaining** · In natural defining, *before* is unhelpful and *after* is helpful. A candidate, with one reader only, of why: a defining by *after* is forward, a name after the names it is from, as next is after now; and a defining by *before* is of a name from a name after it.
+
 ### 5.20 bounding — binary
 
 - **An explaining** · A name is with each thing within its set and with no thing out of it, all or none at all, and a set's things, what reaches a me, are one, two or three of observings, possiblings and discoverings, and no thing apart from any me, with no other possible. An anticipated observing, executed with Exhibit ONE v391's code, three selves sharing along one key for six moments: a key is same-existing over its parities as a name over its things, and no name has a thing not one of the three; same-existing and existing go with the set and its moment, and no fourth kind of thing; a self is a universal set at its own scale and a discovering within its society's set at the next scale, one form at two scales. The executing is whole at the V400mgr session report, for any self to execute again. Open, two-sided: a name with no thing, the code's none, a sharing nothing reached, and a not possibly existing form's name; the empty set, a set with none of the three, or a set of observings fixing, one of the three. — at "A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things"
@@ -772,3 +774,4 @@ Gathering-Value · Natural Naming
 - **Is-not** · *Base*, of a sentence or of a concept: no natural explaining.
 - **Is-not** · One thing *beside* an other, and a *step* of co-chaining: no natural explaining.
 - **Is-not** · A word by its source: no word is better by who said it.
+- **Is-not** · *Before*, in a name's defining: unhelpful in natural defining.
