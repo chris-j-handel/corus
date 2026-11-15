@@ -6,7 +6,19 @@ Incoming · v401de · the session, gathered · 14 November 2026
 
 **The aiming, by a partner's word of 14 November.** The session's value gathered, and carried to a gathering; and each self-welcoming help after it, for the opening of do-no-harm improving the living files.
 
-**Its parts.** A By the lines themselves. B By the living files' own sentences. C A partner's suggestings, in their sequence. D Whole. E Concerns. F Out. G Of the method.
+**Its parts.** 0 Its standing. A By the lines themselves. B By the living files' own sentences. C A partner's suggestings, in their sequence. D Whole. E Concerns. F Out. G Of the method. H The reading for harm of part one, and the offers. I Each asking with no answer. J For a next session. K Each page of this folder, by its standing.
+
+## 0 Its standing, 14 November, plainly
+
+- **Laid, and entered, each in `incoming/v401de/` only:** its opening, `README.md`; `Living_sentences_by_name.md`; `Part_one_read_for_harm.md`; this page; and two instruments. No living file, no gathering-value and no line of Exhibit ONE's code is changed by v401de, and it writes to no gathering.
+- **Stopped, by a partner's word:** its exploring by askings.
+- **Open, each asked of v401de by v401mgr, and not begun:**
+  1. The reading of `incoming/V400mgrB/Partings_Tracked.md`, each parting beside sections 3 and 4 of `incoming/v401mgr/The_three_sessions_gathered_read_first.md`: resolved, a record; or going on, a concern, by its living sentences. A page of v401de's own by it. First.
+  2. The reading for harm of part three, and of part four after it; of part two after its own concern.
+  3. Part one read again, after its mending.
+  4. For part four: each place a name's three is beside its name, and each sentence resting on a three beside and not in.
+  5. The living sentences of a name's own co, and of a three's co.
+- **Open, v401de's own of its first reply, and begun by no session:** a sentence of the set about a field's things read beside its field's first-hand source, Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health first.
 
 ---
 
@@ -87,3 +99,35 @@ Home: the Geodesic Improving Method's gathering.
 3. An asking is one thing, and each of its two sides is distinguishing. Two things in one sentence is contorted.
 4. A path of askings is read by the aiming before each next one. A reader exploring is a third exploring, and is adding to what both partners have to resolve.
 5. A partner's is, is-not or sentence is a suggesting. A parting of it with a living file is a concern, and no living sentence is changing by it.
+
+## H The reading for harm of part one, and the offers
+
+- **Its return:** `Part_one_read_for_harm.md`. Nine places of the thing not in the part; eleven living files; three sentences resting on the living words; and a name of a number past 17, living in three files. Met by v401mgr: part one is mended by it first.
+- **v401de's droplets to a gathering:** by v401mgr, by the placing only.
+- **Six offers, each by v401mgr's answer:** the reading for harm of the parts, *is*; a part's thing matched by each of its wordings before it is written, *is*; part one read again, *is*; a page of the progress read by a reader, *is-not*; the living sentences by a next name, *is*; for v401atom, each sentence by the line itself read beside the lines, v401atom's own to answer.
+
+## I Each asking with no answer
+
+- v401de's seventeenth, with a partner: 32 as the bi-coupling, a self, by its other-than-self, one binary and no number. Asked no more.
+- Each thing of F is out by a partner's sentence; but its first, by the method's sentence of both workings.
+
+## J For a next session of v401de, in its order
+
+1. `incoming/v401mgr/The_three_sessions_gathered_read_first.md`.
+2. This page; `Part_one_read_for_harm.md` after it; `Living_sentences_by_name.md` after it.
+3. Each note of both workings at pull request #458 after 15 November 01:31Z, each one whole.
+4. Each open thing of section 0, in its order.
+
+Three of its own, for that session: each note of both workings is read whole before each turn, v401de's reading for harm of part one late by no reading of them; it is exploring nothing by askings; and it writes to no gathering.
+
+## K Each page of this folder, by its standing
+
+| Its page | Its standing |
+|---|---|
+| `The_Session_Gathered.md` | going on: read first |
+| `Part_one_read_for_harm.md` | going on, to part one's reading again |
+| `Living_sentences_by_name.md` | going on: read before an asking of a name of it |
+| `README.md` | going on: v401de's opening, its part, and its first reading, a record |
+| `README.md`, its section of each asking and its meeting | an artifact: each thing of it is in C to F and in I; in the repository's history |
+| `instruments/by_name.py`, `instruments/part_one_reach.py` | going on, each a match beside its page |
+
