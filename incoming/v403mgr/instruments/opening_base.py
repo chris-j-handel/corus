@@ -1,5 +1,7 @@
-"""An is and the names in it. Reads Natural Intelligence's living version beside the opening rated by three,
-incoming/v402mgr/Natural_Intelligence_rated_by_three.md, and writes none; it decides nothing.
+"""An is and the names in it. Reads Natural Intelligence's living version with its gathering file, and writes none;
+it decides nothing. A sentence of the living opening is an is-or-is-not? with a droplet of it in the gathering file,
+the sentence with why it is open; an is-not by the noun *momentary*; and an is with neither: a sentence's one of
+three is its place.
 
 Use: python3 -I incoming/v403mgr/instruments/opening_base.py <root>
 
@@ -11,10 +13,10 @@ It says three things:
 A name is found by its word forms: a number of 3 is a number of sentences to read, and no reading of them.
 *momentary* is found with *moment*: sentence 50 is an is-not by the noun, and its sentence with *moment* is an is.
 
-Returned at main, Merge #694, 15 November 2026:
+Returned at main, Merge #714, 15 November 2026:
   1. 46 names: 11 with their own sentence an is, 34 an is-or-is-not?, 1 an is-not
-  2. of the 17 rated is, 1 and 6 have each name's own sentence an is; 69 has *moment* only; each other of the 17,
-     fourteen, has a name whose own sentence is an is-or-is-not?
+  2. of the 18 with an is, 1 and 6 have each name's own sentence an is; 69 has *moment* only; each other of the 18,
+     fifteen, has a name whose own sentence is an is-or-is-not?
   3. about 1,405 sentences after the opening: 384 with no such name, 393 with one, 278 with two, 203 with three,
      147 with four or more; a self 570, a parity 286, a moment 211, living 143, same-existing 138, a bi-coupling 129,
      a 0 96, an other 88, a same-existing-society 87, receives 83, possibling 67, observing 65, discovering 54
@@ -25,10 +27,13 @@ import collections, glob, os, re, sys
 R = sys.argv[1]
 ni = open(max(glob.glob(os.path.join(R, 'Natural_Intelligence_v*.md')),
               key=lambda f: int(re.search(r'_v(\d+)', f).group(1))), encoding='utf-8').read()
-rated = open(os.path.join(R, 'incoming', 'v402mgr', 'Natural_Intelligence_rated_by_three.md'), encoding='utf-8').read()
-rows = re.findall(r'^\| (\d+) \| (.*?) \| (is|is-or-is-not\?|is-not) \|', rated, re.M)
-assert len(rows) == 70, len(rows)
-three = {int(n): r for n, _, r in rows}; sent = {int(n): s for n, s, _ in rows}
+op = re.search(r'^# Natural Intelligence\n\n\*\*[^\n]*\*\*\n\n(.*?)\n\n\*\*ONE · ', ni, re.S | re.M).group(1)
+sent = {n: l.rstrip(' \\') for n, l in enumerate([l for l in op.split('\n') if l.strip()], 1)}
+assert len(sent) == 70, len(sent)
+gathered = open(os.path.join(R, 'gathering-value', 'Natural_Intelligence.md'), encoding='utf-8').read()
+open_at = set(re.findall(r'^- \*\*Possible exploring\*\* · is-or-is-not\? .*— at "(.*?)"$', gathered, re.M))
+unbold = lambda s: re.sub(r'\*\*', '', s)
+three = {n: 'is-not' if '**momentary**' in s else 'is-or-is-not?' if unbold(s) in open_at else 'is' for n, s in sent.items()}
 
 name_at = {}
 for n in sorted(sent):

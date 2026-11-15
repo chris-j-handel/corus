@@ -125,7 +125,7 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 
 **The method.** Each concept sentence of a gathering file and of its living file is rated is, is-not or is-or-is-not? An is goes to its living file. An is-or-is-not? goes on in its gathering file, with why it is open. An is-not is gathered once in the gathering file's last part, *Is-not*. The method's droplet is in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file.
 
-**Rated by three:** Natural Intelligence's living opening, seventy sentences, in `Natural_Intelligence_rated_by_three.md`: 17 is, 52 is-or-is-not? and 1 is-not, with the kinds of doubt. Next: each sentence after the opening, its six parts, rated the same way by `instruments/rate_opening.py` going on; then the kinds of doubt across the whole living version, each kind resolving many by one suggesting.
+**By the three:** Natural Intelligence's living opening, seventy sentences. Each open sentence is in Natural Intelligence's gathering file, its opening's part, in the opening's own order, with why it is open; the page of them and its instrument are dissolved, by v403mgr. Next: each sentence after the opening.
 
 **Healthy in Natural Intelligence's gathering file:** its head; the universe; a moment; same-existing.
 
