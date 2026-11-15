@@ -221,6 +221,16 @@ Of the three layings after merge #575.
 - By is: a society is all-selves, first by 32, the number of its selves in no sentence and in no line; and all-parity is an other thing, by 16.
 - By is-not: all-selves is all-parity again, one four-cycling on, and a society is by no number yet.
 
+**Met by a partner's *is*, and a correcting, by no authority:** *all-selves* is no natural naming, and no thing is pressed into it; its binary is to find.
+
+- Out, v401de's own, in its asking: *all-selves* as a name.
+- Its binary, by the living opening and the lines: `Living_sentences_by_name.md`, its 4.4.
+
+**Asked seventeenth:** 32 is the bi-coupling, a self, by its other-than-self: one binary, and no number of selves.
+
+- By is: each same-existing name of one is one binary of a self and its other-than-self, a four-cycling on: 8 of a self, 32 of a bi-coupling, a self; and a society is the me-parity of that binary.
+- By is-not: the binary by 32 is an other one.
+
 **Tracked, and not asked:** 8 and 32 by one same three, bi-tri-bi, beside 8 of two and 32 of three. The four of tri by two names, two by each, 8 and 16, with 4 and 12 a self by its other and its other by a self: six one-way by four names, a candidate of v401de's own. *Uni-*, the living name of all other as one, beside *other-than-me*. *Tri* by two things, a first prefix by 7 and by 15, and the four by the same-existing names. One through nine, a bi-coupling among names, as the third me-parity's own moment, a candidate of v401de's own. A 0 by same-as in two executings, beside a 0 as now-existing only, met by v401mgr's candidate, a 0 as now-existing only of the neither's 0 alone. *Of all-parity*, of the four now moments: in no living sentence. *Universe scale* beside *physical scale*: two names of two things, a candidate of v401de's own.
 
 ## 6 The edges, each a place the rigor is not yet

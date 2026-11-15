@@ -140,7 +140,14 @@ No living table has the three of a number past 17. By the rule each is said, and
 - **Whole.** 32 as four of 8: Natural Naming 5.50's sentence. The number of a self's others in no line: 16 has each number of selves.
 - **Parting.** By the rule 8 and 32 have one same three, bi-tri-bi. By the suggesting 8 is of two, and 32 of three.
 - **Out, v401de's own.** A society by 32 as of one added other.
-- **A name in no living sentence.** *All-selves*.
+- **A name out, by a partner's own sentence after it.** *All-selves* is no natural naming; its binary is to find.
+
+### 4.4 The binary of it, by the living files and the lines
+
+- **The living opening, Natural Intelligence.** "For a self, each now-existing thing is-or-is-not within its me." and "A bi-coupling is a self." and "For a self, each self it is bi-coupling with is an other."
+- **A particular other, and all other as one.** Natural Naming 4.10: "Bi- couples with a particular other and uni- with all other, and both are two"
+- **By the code's lines themselves.** Each self is-or-is-not of 16, by 17's line of each self; and each bi-coupling is-or-is-not within 5. No line has a number of selves.
+- **By the sequence's own form, a candidate of v401de's own.** 4, me by other-than-me. 8, a self by its other-than-self. 32, the bi-coupling, a self, by its other-than-self: one binary, each self of it or other-than it, and no number.
 
 ## 5 The edges
 
