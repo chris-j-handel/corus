@@ -3,7 +3,7 @@ living version, executes its code, and writes none; it decides nothing.
 
 Use: python3 -I incoming/v403mgr/instruments/same_with_a_0_between.py <root>
 
-It says five things:
+It says six things:
   1. by the table of seventeen names: each same-existing name, with the root of the name it is after and the root
      of the name after it
   2. by the code executed, two selves alike, each with one sharing and a prior of +, bi-coupling in their pair:
@@ -11,8 +11,9 @@ It says five things:
   3. by the table: each same-existing name by its place in its four, and its three
   4. by the table: each name of the sixteen with no same-existing, by now or next, by its root and by co or of one
   5. by the code executed, the same two selves: each 0 in the society's next, by its place
+  6. by the table: each name's three, in the order next, now, prior, by even and odd
 
-Returned at main, Merge #703, 15 November 2026:
+Returned at main, Merge #704, 15 November 2026:
   1. 4-now-co-same-existing is after 3-now-co-observing, and 5-now-co-existing is after it;
      8-now-same-existing is after 7-now-observing, and 9-next-co-discovering is after it;
      12-next-co-same-existing is after 11-next-co-observing, and 13-next-discovering is after it;
@@ -27,6 +28,9 @@ Returned at main, Merge #703, 15 November 2026:
      discovering, possibling and observing, by co and of one, each of the twelve once
   5. the same two selves: after each even moment the 0 a self is sharing is in its other's possibling within the
      society's next, the next 16-next-same-existing, and no prior has a 0
+  6. each even name's three has bi on both its outsides, its middle co by 2, 4, 6, 10, 12 and 14 and tri by 8 and 16;
+     each odd name's three has bi its middle; in the order next, now, prior, an odd name with co its prior has
+     co its next by 3, 5, 11 and 13 and tri its next by 7 and 15, and with tri its prior has co its next by 1, 9 and 17
 """
 import glob, os, re, sys
 
@@ -84,3 +88,14 @@ for m in range(1, 9):
     in_prior = any(p == 0 for s in state for _, p in state[s][0]); in_possibling = any(p == 0 for s in state for _, p in state[s][1])
     assert not in_prior and in_possibling == (m % 2 == 0)
     print(f'   after moment {m}: a 0 in a prior, {"is" if in_prior else "is-not"}; a 0 in a possibling, {"is" if in_possibling else "is-not"}')
+
+print('6. by the table, each name\'s three in the order next, now, prior')
+even = {}; odd = {}
+for n in range(1, 18):
+    nx, now, pr = three[n].split('-')
+    if n % 2 == 0:
+        assert nx == 'bi' and pr == 'bi' and now in ('co', 'tri'); even.setdefault(now, []).append(n)
+    else:
+        assert now == 'bi' and nx in ('co', 'tri') and pr in ('co', 'tri'); odd.setdefault((pr, nx), []).append(n)
+for now, ns_ in sorted(even.items()): print(f'   even, bi on both its outsides, its middle {now}: {ns_}')
+for (pr, nx), ns_ in sorted(odd.items()): print(f'   odd, bi its middle, its prior {pr} and its next {nx}: {ns_}')
