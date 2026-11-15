@@ -21,7 +21,7 @@ Its instrument: `instruments/health_head.py`.
 | Before | 42 droplets | of Natural Intelligence only: 26 were of Exhibit ONE Natural Resolver's forms, and one was a session's plan |
 | After | 13 droplets, each of Natural Intelligence whole | any droplet's words out of the set |
 
-- **Stays, eleven:** the opening at its newest, a candidate; Natural Intelligence read whole; a living file met at no paragraph of its first three parts; its place among the set's four roots; a next table of contents proposed, with its naming at two scales in it; science's explaining and the work's one all-or-none claim; *empty* in sixty-three sentences, by five things; two prior selves from inception; the code as having no parity of its own, the parity the living inside it; the four possibling names; living's four, ingesting, inheriting, conceiving and exhausting; is-or-is-not as the one operator.
+- **Stays, twelve:** the opening at its newest, a candidate; Natural Intelligence read whole; a living file met at no paragraph of its first three parts; its place among the set's four roots; a next table of contents proposed, with its naming at two scales in it; science's explaining and the work's one all-or-none claim; *empty* in sixty-three sentences, by five things; two prior selves from inception; the code as having no parity of its own, the parity the living inside it; the four possibling names; living's four, ingesting, inheriting, conceiving and exhausting; is-or-is-not as the one operator.
 - **Dissolved into the droplet having its value, three:** the naming of the proposed table of contents at two scales, and Exhibit ONE Natural Resolver as the stable form the writing goes into and out of, each into the proposed table of contents; the three candidates of the code, into the longer droplet having each of them.
 - **A concern added, by its two sides:** inhaling, exhaling, ingesting and exhausting, each by which of the seventeen names.
 - **To Exhibit ONE Natural Resolver's gathering file, twenty-six, each as it was:** each is of a table, a spiral, a torus or the names.
@@ -29,6 +29,45 @@ Its instrument: `instruments/health_head.py`.
 
 **Not yet:** each droplet that stays is as it was written, its older words in it; and each concept of the head is not yet read with the droplets of that concept in the file's other parts.
 
+### Its opening's part, two concepts: the universe, and a moment · 15 November
+
+Its instruments: `instruments/opening_groups.py`, each droplet of the part by the concept it is of, and `instruments/health_universe.py`.
+
+| | Is | Is not |
+|---|---|---|
+| Before | 774 droplets in the part; 25 of the universe and 9 of a moment by the grouping | read together, by one concept |
+| After | 16 droplets leaving and 5 entering, each value once | any value out: each droplet leaving is named below with the droplet having its value |
+
+- **The universe, its value once:** the set of now-existing things, and no other things in it; nothing outside it, entering it or leaving it.
+- **Its method, once:** science has it as an existing thing; natural intelligence, as the set of now-existing things, with one now-existing method.
+- **A concern, by its two sides: the universe as same-existing.** Living: a same-existing set by observing, and a non-living same-existing set. Other: same-existing said of the universe is said of a set, and what is known is of each now-existing thing in it. Out by the sentences read by the code: the universe as a third living self.
+- **A concern, by its two sides: one universe, or each one's own.** Living: only one universe is possibly now-existing. Other: a named subset as the universe to a bi-coupling; a universe a society's selves have together; each three in a fourth, its universe; universes of each size and scale.
+- **A moment, its value once:** one resolving, together; no size, no scale and no measurement; one odd parity and then one even parity.
+- **As they were, of the universe:** one now-existing set re-found with each moment; our universe as each existing thing at its own moment; a number of its things, or no number; *the universe* as one name of one set; the place of one now-existing method; and one droplet not yet understood by this reading, of *universal* as no one thing.
+
+Each droplet leaving, by its first words, and the droplet now having its value: the universe's value once (U1), its method (U3), the universe as same-existing (U4), one universe or each one's own (U5), a moment (U6).
+
+| Leaving | Its value is in |
+|---|---|
+| "The universe is a non-living same-existing set." → Two sayings part | U4 |
+| "The universe is a non-living same-existing set." is outside the opening | U4 |
+| The waiting opening's sentence 1, with the working's session | U1 |
+| The waiting opening's sentence 5, with the working's session | U4 |
+| The current understanding, 5b. A named subset is the universe to a bi-coupling | U5 |
+| The current understanding, 6y-c. The universe has one now-existing method | U3 |
+| A parting tracked: *The universe*, and a same-existing universe a society shares | U5 |
+| The universe is the set of now-existing things. By naming | U1 |
+| Science: the universe is an existing thing | U3 |
+| The universe is a fractal set method | U3 |
+| The universe is not a same-existing thing | U4 |
+| No thing can enter or leave the universe | U1 |
+| Every three is in a fourth, its universe | U5 |
+| Of the opening as it waits, sentence 1 | U1 |
+| Of the opening as it waits, sentence 5 | U4 |
+| A moment is one resolving, together, and neither a duration on a clock nor a common beat | U6 |
+
+**Not yet:** each other concept of the opening's part; by the grouping the largest are a self, a name and a universal set, living and non-living, and a me-parity.
+
 ### Its parts after the head
 
-Not yet read: the opening's part, 774 droplets; each part of the six; the last part, 920 droplets.
+Not yet read: each other concept of the opening's part; each part of the six; the last part, 920 droplets.
