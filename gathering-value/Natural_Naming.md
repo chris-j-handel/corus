@@ -759,3 +759,13 @@ Gathering-Value · Natural Naming
 - **Possible exploring** · **Two askings, each with no is and no is-not yet.** A parity is a direction, one of two, and is no same-as. The next version opens with each natural naming, and each dissolving word is with the natural naming it aims into.
 - **Possible exploring** · **The refining of the clusters.** Each of 38 entries said by a sentence, to its naming. Each of 11 words in more than one entry, to one entry. Each saying opening with a plain word, *at*, *has*, *is*, *with* or *each*, or with a word itself out, as *sharing*, to its naming. Each dissolving word in the file's own sentences, read by its sense. Each word out that the gathering file has, and each word dissolved in a later part of the living file, laid into the clusters: the instrument reads neither yet.
 - **Possible exploring** · **The next version of Exhibit TWENTY Natural Naming is not begun as a file.** No sentence of it is written.
+
+## Is-not
+
+- **Is-not** · Bi as other, or as other-parity: bi is both, a me and an other self together.
+- **Is-not** · *A momentary*, a noun: *a moment* is its natural naming.
+- **Is-not** · *The* universal set: a universal set is one of many, and none is named as the only one.
+- **Is-not** · Two bonded names written apart, as *prior-existing and now-existing*: *prior-and-now-existing* has the two inseparable.
+- **Is-not** · *Base*, of a sentence or of a concept: no natural explaining.
+- **Is-not** · One thing *beside* an other, and a *step* of co-chaining: no natural explaining.
+- **Is-not** · A word by its source: no word is better by who said it.
