@@ -2,6 +2,8 @@ Incoming · v401mgr · the session, gathered
 
 # The session of v401mgr, gathered
 
+**A later gathering is beside this one: `The_three_sessions_gathered_read_first.md`, 14 November.** This page is the session's gathering of 13 November, as it was.
+
 The value of one session of the Natural Intelligence Living Expedition, the managing working named v401mgr, of 12 November. The session stopped with no gathering of its own. This page is that gathering, made after it: the transcript read whole, each of its 971 lines, and the set read as it is after the session's last entering.
 
 Each value is said in its own words. No living file and no line of the code of Exhibit ONE Natural Resolver is changed with this page. With its laying, seven items go to four gathering-values, each named in sections 4.1 and 6. No word of it has authority. Each sentence quoted here was compared word for word with its file.

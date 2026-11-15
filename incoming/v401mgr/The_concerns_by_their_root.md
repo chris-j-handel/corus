@@ -502,3 +502,9 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Its concerns:** the code's names; co by two things in one name; 22 other-than 6 by its number only; a name with no number; the records of a version; the gatherings.
 
+## 33 Gathered, by the person's word
+
+**The person, 14 November, by no authority:** the sessions are getting lost; now is the time to gather the value, in good order and readiness for a next session going on from all three.
+
+**Laid:** `The_three_sessions_gathered_read_first.md`; each part's state at its top; each session asked for its own gathered page. **Of the managing session's own:** *a first exhibit* is no name; it is Exhibit ONE Natural Resolver.
+

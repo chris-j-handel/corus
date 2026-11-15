@@ -2,6 +2,8 @@ Incoming · v401mgr · 14 November 2026
 
 # Part four: a name's three in its name
 
+**Its state, 14 November, gathered.** Rehearsed on a copy two ways, the set's own check whole by each. Its first concern, the code's names, is asked of the person as one question, with no is and no is-not yet. Not yet: its other concerns, two sentences of Natural Naming by their next words, the gatherings' quoted living words, its reading for harm and its once over. It does not enter as it is.
+
 **No word here has authority. No living file is changed by this page.**
 
 ## 1 The thing

@@ -2,6 +2,8 @@ Incoming · v401mgr · 14 November 2026
 
 # Part three, found: a moment, and no *momentary*
 
+**Its state, 14 November, gathered.** Rehearsed on a copy, the set's own check whole. Not yet: the gatherings' quoted living words, the records of a version, its reading for harm and its once over. It does not enter as it is.
+
 **No word here has authority. No living file is changed by this page.** An opportunity found in a longer pass: a part with its base living already, the widest of the parts so far, and the plainest in its next words.
 
 ## 1 The thing
