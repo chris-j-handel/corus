@@ -8,5 +8,6 @@ One of three helping sessions of `incoming/v402mgr/Co-orienting_for_three_helpin
 
 | Page | Its standing |
 |---|---|
-| `Each_table_executed_against_the_code.md` | going on: read first of this folder; what is same-as, four findings, and the edges of this session's orienting |
+| `The_session_gathered_at_its_closing.md` | read first of this folder: what is whole, two values in no gathering file yet, what is out, and what a next session has first |
+| `Each_table_executed_against_the_code.md` | a record: each table executed, mended twice by the session's own reading |
 | `instruments/`, five checks, one helper and each returned text | a check beside the page's reading; each takes the code from the living file as it is |
