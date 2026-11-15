@@ -46,10 +46,10 @@ A sentence in quotation marks is word for word living.
 
 ## Four sessions, each improving one living file
 
-- **v402reading: Natural Intelligence.**
+- **v402mgr, the managing session, with the person: Natural Intelligence.** Its opening's lines first, and the opening's method through the whole living file: one sentence a line, each co-chaining from each sentence before it. And the one way whole: each offering read and entered.
 - **v402code: Exhibit ONE Natural Resolver.**
 - **v402living: Exhibit TWENTY Natural Naming.**
-- **v402mgr, the managing session: Exhibit THIRTY Co-Chaining Logic Registry,** and the one way whole: each offering read and entered, and each living file's next version entered.
+- **v402reading: Exhibit THIRTY Co-Chaining Logic Registry.**
 
 **First, all the value the expedition already has, brought to each of the four.** Each session reads each incoming page whole for the value of its own living file, and enters each value in that living file's gathering file as a droplet. A value is of the living file whose sentence it meets: a name or a word, Exhibit TWENTY Natural Naming; a form the code has, Exhibit ONE Natural Resolver; a co-chaining logical sentence, Exhibit THIRTY Co-Chaining Logic Registry; an explaining a reader reads, Natural Intelligence. A value of more than one is a droplet at each. A value of an other living file is a note to the managing session.
 
@@ -60,7 +60,7 @@ Entering a gathering file is not demanding: a value is carried whole and soon, i
 ## Reading for each other
 
 - **Each session writes in its own living file's gathering file,** so no two sessions write one file at one moment. A droplet for an other session's file is a note to that session.
-- **Each session reads an other's droplets and its next version, for harm and for natural explaining:** v402code reads Exhibit TWENTY Natural Naming's; v402living reads Exhibit THIRTY Co-Chaining Logic Registry's; v402mgr reads Natural Intelligence's; v402reading reads Exhibit ONE Natural Resolver's.
+- **Each session reads an other's droplets and its next version, for harm and for natural explaining:** v402code reads Exhibit TWENTY Natural Naming's; v402living reads Exhibit THIRTY Co-Chaining Logic Registry's; v402reading reads Natural Intelligence's, as a new reader; v402mgr reads Exhibit ONE Natural Resolver's, and each offering.
 - **A reading is of four:** is the value of the incoming page whole in the droplet; is a repetition same-as its living sentence, whole; is each side of a concern a living sentence, or the code executed; is it natural naming.
 - **A possible incohering or a gap found in an other's droplet is a note to that session, and a help:** the living sentences it meets, the code executed, or a sentence of an incoming file resolving it.
 - **A concern the sessions do not resolve goes to the person,** by its two sides, one at a time. The person's suggesting, around and inside the concept, is the opening, re-said in the best natural naming found.
