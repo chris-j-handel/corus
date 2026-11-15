@@ -78,6 +78,16 @@ Each droplet leaving, by its first words, and the droplet now having its value: 
 
 **Not yet:** each other concept of the opening's part; by the grouping the largest are a self, a name and a universal set, living and non-living, and a me-parity.
 
+### Its opening's part, one concept more: a self's next of two
+
+**Is:** co is me, bi is both and tri is all, and bi is no other. A self's next parity is one of two: all-parity, its prior-existing parity going on the same; or both-parity, its prior-existing parity inverting. With that next the self's now, it is the self's parity, its prior discovering.
+
+**Entered:** one droplet of it at the opening's sentence of a self sharing 0; a concern by its two sides at each of the two living sentences having bi as other, in Exhibit ONE Natural Resolver's gathering file and Exhibit TWENTY Natural Naming's; the seventeen by their prefixes, bi as both, in Exhibit ONE Natural Resolver's.
+
+**Concerns, each by its two sides, not yet distinguished:** the opening's waiting sentence of other-parity and universal-parity has the two names exchanged; and both-parity with none of a self's others.
+
+**Not yet:** each gathered droplet having bi as other-parity in a name's three, and each reading by the waiting sentence, read again by the is. No droplet has left by this concept.
+
 ### Its parts after the head
 
 Not yet read: each other concept of the opening's part; each part of the six; the last part, 920 droplets.
