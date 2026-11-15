@@ -172,6 +172,7 @@ Gathering-Value · Natural Naming
 ### 4.15 Bothbothing with its prefixing, and an ordering with nothing ordering
 
 - **Possible incohering** · "two observings, each failing the other's test, are both, one and then the other" → *Test* is of a tester, one side declaring by a standard, and this file's gathering has *testing* dissolved: observing, and distinguishing is-or-is-not, have the rigor. A re-saying, a candidate: two observings, each is-not by the other, are both, one and then the other. *Test* is living in this file's "one test with both its outcomes" too, of the code's lines: a word of the code's own, read again by it.
+- **Possible incohering** · "each self resolving its own and neach other's" → One letter too many: each self resolving its own and each other's.
 
 ### 4.16 All or none at all, and an entering and leaving it has
 
