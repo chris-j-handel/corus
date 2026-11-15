@@ -95,3 +95,15 @@ The opening of Natural Intelligence and Exhibit THIRTY's steps of it are word fo
 ## 6 Next for it
 
 The concerns; the two sentences of section 3 by their next words; the gatherings' quoted living words; its two readings. The files and the number of their places are said to the person before a living file changes.
+
+## 7 Its once over by v401atom, of the code's names, returned 15 November 00:41 UTC
+
+By the code's lines, in v401atom's note at #458. Each a thing the part has with it, or it does not enter:
+
+1. **A kit of the set has the code's names, and the set's own check does not execute it:** `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/invert_check.py`, its lines 49 to 57, and its line of `SHA256SUMS`. The same kit's waiting version of Exhibit ONE has the names with no three.
+2. **The code's longest line is 90 now, and 120 by its names with their three;** seven of its 79 lines are past 100. No line does an other thing.
+3. **Three names past 17 have a moment and no three, at eleven places:** *27-next-co-observing*, nine; *27-next-co-prioring*, one, in Exhibit TWENTY-SIX; *22-now-co-possibling*, one.
+4. **Instruments of the three sessions call the code by its names:** 33 of v401atom's, 6 of v401mgr's and v401de's. Each is relied on by nothing.
+
+**Nothing found by it:** each of the seventeen names is in the code; Natural Intelligence's block of the code is same-as Exhibit ONE's, line for line; each code name outside a block is inside backticks; no name of 1 to 17 in a sentence is other-than its exact name.
+
