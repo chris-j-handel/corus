@@ -178,3 +178,5 @@ Gathering-Value · Natural Illustrating
 ## Droplets
 
 - The current diamond has rows 1; 8 and 2; 7, 5 and 3; 6 and 4; and 9, placing 5 at its centre and 1 at its forward point. *(possible exploring)*
+- **An explaining** · The droplets after this one, to the next droplet of this kind or to this part's end, are carried whole by the managing session v402mgr, 15 November, from `incoming/V401atom/Podaling_out_from_the_opening_to_the_vault.md`. Each is for resolving here; none is living.
+- **An explaining** · **Exhibit TWENTY-NINE Natural Illustrating, section 4.1, tunneling, corusing and bi-folding**, with its kit's depth study of three views. That image has one twisting surface with one small opening, and no two openings facing each other.
