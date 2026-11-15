@@ -219,5 +219,11 @@ A stable form emanating from living is a bi-tri-involution, an opposite form: Ex
 
 **Resolved, by the sequence's 24, 136, 168 and 169.** A stable form is by what it is of. An all-parity's same-existing is its atoms, and atoms each its own, of both orientations, are all-parity: by ingesting, a co-chaining's priors are all-parity's, and 139 and 142 are as they were. Inhaling is of a universe's stable form, the atom, the method of stable-forming. The candidate of one after one, ingesting, a fracture and inhaling of one stable form, is out: it is by no sentence.
 
-**A gap, asked.** Exhaled atoms co-chaining, by *free*: atoms each its own free, and a co-chaining other-than free.
+**The gap of exhaling, resolved by the sequence's 170.** Atoms each its own are free, and exhaled atoms co-chaining other-than free.
+
+## 19 Free, of an atom and of a network of selves: one name, and a concern of two things by it
+
+The sequence's 170 has an atom each its own as free: uncoupling from each now-existing thing other-than it. The opening has a natural intelligence network free, each self resolving its own next-existing; and its selves are bi-coupling, each with its others.
+
+**A concern, a possible incohering.** One name of two things: an atom free is uncoupling, and a self free is inside its bi-couplings. One candidate: free is each its own, by each scale; an atom's own is its orientation, and a living self's own is its resolving of its next-existing. It is asked.
 

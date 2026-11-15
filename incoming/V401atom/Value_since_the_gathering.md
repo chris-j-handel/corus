@@ -816,6 +816,8 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: three stable forms, and each one's in.** The sequence's 168 and 169, at the registry's *31*: a stable form by what it is of, a universe's the atom, an all-parity's its atoms, a me-parity's a parity as it is; inhaling of the first, the method of stable-forming; ingesting of the second; inheriting of the third, unrelationing from its all-parity's. The concern of the sequence's 139 and 142 is resolved by it; v401atom's candidate, ingesting, a fracture and inhaling as one after one, is out.
 
+**Going on, 14 November: an atom free.** The sequence's 170, at the registry's *31*: an atom each its own free, uncoupling from each now-existing thing other-than it, floating and neutralling, orienting in all-parity's alternating; exhaled atoms co-chaining other-than free. A concern is with it, free of an atom and free of a network of selves: `The_Concerns_of_the_Sequence.md`, part 19.
+
 ---
 
 ## 6 Executed, each case, all or none
