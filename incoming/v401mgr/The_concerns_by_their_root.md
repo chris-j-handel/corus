@@ -481,3 +481,16 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **For part one:** its concern of 3.4 is this root. Neither of its two readings is chosen.
 
+## 31 A name's three in its name
+
+**The person's sentence, 14 November, by no authority:** a name's three is in its name; this is same-existing as method.
+
+**Read against the living files.**
+
+- **Its reach, counted:** the seventeen names are at 3,285 places in twenty-three living files; Natural Intelligence 844, Exhibit TWENTY-TWO 817, Exhibit ONE 653, Natural Naming 247, Exhibit TWO 207.
+- **The code.** Natural Naming 3.1: "a name of resolver and a name here are one name: `_2_now_possibling` within resolver is 2-now-possibling within a sentence." The code's names are at 254 places in five living files, Exhibit ONE's code among them.
+- **A form living already.** Natural Naming 3.3 has each prior name with its number, its three after its number: "6-bi-co-bi-moralizing", "1-co-bi-tri-offering".
+- **Co by two things.** Natural Naming 3.2 has a name's own co "with a sharing between two"; a three's co is me-parity. 6 with its three in its name has co by each.
+
+**Not resolved, each a place for a suggesting:** the name's form with its three; the code's names; co by two things in one name; and, of section 30, 22 other-than 6 by its number only.
+
