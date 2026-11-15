@@ -97,6 +97,8 @@ By the two, 17-next-existing is each self's next prior and the parities it will 
 
 **Beside the thing itself, 14 November.** The helper session's page has the person's *is-not*, by no authority, to 17-next-existing as a 1-now-existing, of a self or of a bi-coupling's me-parity: by a next moment the universe, the me and the other-than-me are each not as they were, two moments of now-existing, each its own; 17 is the bi-coupling's next-existing moment. It is whole with the part's reach, all or none at all: 17 is no 1, by each place.
 
+**A concern of 3.4, 14 November, not resolved.** The part has Natural Naming 3.4's sentence, *Sixteen up is its same name with a next round*, as dissolving whole. The helper session's page has the person's sentences with it, by no authority, of 32 by fours, a number past 17 having a name; and its own reading of the living rule, 32 by sixteen up as 32-next-same-existing. The person's sentence here has each fully prefixed name by one number, and each number by one name. Two readings, neither chosen here: a number past 17 has a name of its own, and the sentence is living but for its 17 as a next 1; or a name has one number, and the sentence is dissolving whole. By all or none at all the part does not enter with this open.
+
 ## 4 For the reading for harm, the helper session's
 
 Each place of 3.1 and 3.2, whole beside its section:

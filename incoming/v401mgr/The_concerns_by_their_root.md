@@ -449,3 +449,11 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Mended with it:** v401mgr's droplet of two selves meeting, a chain of many readings, is its own page's now, and one droplet of each thing by its base is in its place.
 
+## 28 Two parts, each read to its places; and each one's concern
+
+**Part two, a podal and no *less*:** each place of the name is read in each of eleven living files. Most have next words, the living files' own natural name. The name is also in sentences of a number's own arithmetic, in Exhibit THREE, Exhibit THIRTY and Exhibit TWENTY-EIGHT: the part has no next words for them, and by all or none at all it does not enter with them as they are.
+
+**Part one, 17 and no next 1:** one of its places is a concern. Natural Naming's sentence of sixteen up, the same name by a next round, is dissolving whole by the part; the person's sentences with the helper session have 32, a number past 17, by a name.
+
+**One root under both:** a number past 17, and a number's arithmetic among the names. The living files have the seventeen names by their numbers, and beside them sentences of numbers by their own arithmetic and their own rounds. What of a number's own is natural explaining is not resolved.
+
