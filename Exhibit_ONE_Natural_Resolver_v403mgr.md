@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v402mgr
+Exhibit ONE Natural Resolver v403mgr
 
 # Natural Resolver
 
@@ -137,7 +137,7 @@ observing side, one: 2, 14 and 17
 | 16 | **16-next-same-existing** | same-existing | 1111 | one | bi-tri-bi |
 | 17 | **17-next-existing** | existing, a next 1 | 0000 again | one | co-bi-tri |
 
-**Each name's three.** Each name's first prefix is of an eight, co bi co bi co bi tri bi, with 1 to 8, bi-folding forward over 16 and 24 and 32 and beyond. Each name then has its three, a new prefix first and its name before's first two one slot on, in the order next, now, prior. Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity. 7, tri-bi-co, is all-parity observing, after other-parity possibling, after me-parity existing. Tri is in the first slot with 7 and 15, in the middle with 8 and 16, and in the last with 9, 17 and 1: the rolling. All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.
+**Each name's three.** Each name's first prefix is of an eight, co bi co bi co bi tri bi, with 1 to 8, bi-folding forward over 16 and 24 and 32 and beyond. Each name then has its three, in the order next, now, prior: a new prefix its next, its now the next of the name it is after, and its prior that name's now. Each prefix of a name's three is a parity with the root of its own name: co me-parity, bi both-parity, tri all-parity. 7, tri-bi-co, is all-parity observing, after both-parity possibling, after me-parity existing. Tri is a name's next with 7 and 15, its now with 8 and 16, and its prior with 9, 17 and 1: the rolling. All-parity is with observing only, 7 and 15; both-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.
 
 Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourteen are those functions' variables. Code with each name:
 

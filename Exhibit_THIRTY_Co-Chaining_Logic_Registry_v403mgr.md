@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v402mgr
+Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 # Co-Chaining Logic Registry
 
@@ -265,7 +265,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v402mgr
 
         *Adding: a same-existing-society.*
 
-50. A **momentary** is one resolving of a same-existing-society's selves together.
+50. A **moment** is one resolving of a same-existing-society's selves together.
 
         *Adding: a moment.*
 
