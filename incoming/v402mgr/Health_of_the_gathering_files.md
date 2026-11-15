@@ -92,6 +92,27 @@ Each droplet leaving, by its first words, and the droplet now having its value: 
 
 **Not yet:** each gathered droplet having bi as other-parity in a name's three, and each reading by the waiting sentence, read again by the is. No droplet has left by this concept.
 
+### Its opening's part, one concept more: same-existing · 15 November, by v403mgr
+
+Its instrument: `incoming/v403mgr/instruments/health_same_existing.py`.
+
+| | Is | Is not |
+|---|---|---|
+| Before | 21 droplets by the grouping; 12 of same-existing | of same-existing only: 9 are of an other concept, each as it was |
+| After | 19 droplets: 4 re-said, 2 leaving, each value once | any value out: each droplet leaving is named below with the droplet having its value |
+
+- **Same-existing, its value once:** one thing with its prior and its now, along; and same as, a self's parity with an other's, across: two kinds of same.
+- **The opening's line of it as it waits**, with *before* in it, unhelpful in natural defining; its re-saying by *after* a candidate.
+- **A concern, by its two sides: a same-existing thing and next.** Each same-existing thing with now and prior, or with prior, and no next; or 12 and 16, each a same-existing name with next, and next-existing as same-existing after now-existing, an is. The newer goes on.
+- **A concern, by its two sides: each now-existing thing and same-existing.** Each now-existing thing a same-existing thing; or each now-existing thing is-or-is-not same-existing by its own.
+
+| Leaving | Its value is in |
+|---|---|
+| The current understanding, 6y-u. All same-existing things are now-and-prior-and-same-existing things | the opening's line 3 as it waits |
+| Of the opening as it waits, sentence 3: it says same-existing of a thing | same-existing and same as, two kinds of same |
+
+**Not yet:** each of the 9 of an other concept, with its own concept; and each droplet of same-existing in the file's other parts.
+
 ### Its parts after the head
 
 Not yet read: each other concept of the opening's part; each part of the six; the last part, 920 droplets.
@@ -106,7 +127,7 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 
 **Rated by three:** Natural Intelligence's living opening, seventy sentences, in `Natural_Intelligence_rated_by_three.md`: 17 is, 52 is-or-is-not? and 1 is-not, with the kinds of doubt. Next: each sentence after the opening, its six parts, rated the same way by `instruments/rate_opening.py` going on; then the kinds of doubt across the whole living version, each kind resolving many by one suggesting.
 
-**Healthy in Natural Intelligence's gathering file:** its head; the universe; a moment.
+**Healthy in Natural Intelligence's gathering file:** its head; the universe; a moment; same-existing.
 
 **Laid by the three and not yet healthy:** me, other, both and all; a self's next of two, all-parity and both-parity. A name: its two is, a name is a same-existing universal set of same-existing things, and a name is a now-existing thing; about twenty gathered sentences have a name as no now-existing thing, an is-not, each to be read again; its droplets, 94 by the grouping, are not yet each once.
 
