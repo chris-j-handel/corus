@@ -4,7 +4,7 @@ Incoming · v402mgr · 15 November 2026
 
 **No word here has authority. No living file is changed by this page.**
 
-**What this is.** The managing session v402mgr's and the person's orienting for the four sessions working together: the managing session and three helping sessions. It re-forms the page of this name of earlier 15 November. It is an orienting and no rule: each sentence is an observing of what has helped and of what has harmed, by its reason. A session finding a better way has it by its base, and the better way is the method.
+**What this is.** The managing session v402mgr's and the person's orienting for the four sessions working together: the managing session and three helping sessions. It re-forms the page of this name of earlier 15 November. It is an orienting and no rule: each sentence is an observing of what has helped and of what has harmed, by its reason. A better way a session finds, cohering with each observing, is the method.
 
 ## The work
 
@@ -24,7 +24,7 @@ All or none at all, binary and sequential: a sentence is cohering and co-chainin
 
 The person sees the explaining in the transcript only, and no file. So each reply to the person, and each note to each other session, is by these five, of one concept, in natural naming: what the living file has, what its gathering file has, what the incoming files have, the improving value, and the dissolving to artifact. The explaining in the transcript is the method's own example.
 
-**An example, a moment, at Exhibit TWENTY Natural Naming.** The living file has three sentences of what a moment is, each of a moment in its sequence. Its gathering file had no droplet of it. The incoming files have one thing by four wordings: a moment is one odd name and then one even name. It is other-than each living sentence, so it is a value: one droplet, an explaining, in the best natural naming found, by its base; and one droplet, a concern by its two sides. Three of the four wordings are repetitions, entering no gathering file and staying whole in their incoming pages.
+**An example, a moment, at Exhibit TWENTY Natural Naming.** The living file has three sentences of what a moment is, each of a moment in its sequence. Its gathering file had no droplet of it. The incoming files have one thing by four wordings: a moment is one odd name and then one even name. It is other-than each living sentence, so it is a value: one droplet, an explaining, in the best natural naming found; and one droplet, a concern by its two sides. Three of the four wordings are repetitions, entering no gathering file and staying whole in their incoming pages.
 
 ## Two enterings
 
@@ -38,11 +38,11 @@ The person sees the explaining in the transcript only, and no file. So each repl
 3. It is read with the living sentences of the concept: same-as, or other-than.
 4. Same-as is a repetition, and the living sentence stays.
 5. Other-than is a value: a droplet at the gathering file of each living file it meets.
-6. Two sentences parting are a concern, by its two sides, each by its base.
+6. Two sentences parting are a concern, by its two sides.
 
 A sentence in quotation marks is word for word living.
 
-**No word is in by its source.** Only the best possible natural naming and explaining is a value. A droplet has its value in the best natural naming found, by its base: a living sentence, or the code executed. The person's words and a session's words are no base and are not quoted: each is re-said. An incoming page stays whole, so a reader still finds a value lost.
+**No word is in by its source.** Only the best possible natural naming and explaining is a value. A droplet has its value in the best natural naming found, cohering and co-chaining with the living sentences and with the code executed. The person's words and a session's words are not quoted: each is re-said. *Base* is out of a session's speaking: a sentence is in by cohering and co-chaining with each observing. An incoming page stays whole, so a reader still finds a value lost.
 
 ## Four value aimings
 
@@ -57,7 +57,7 @@ An aiming is a direction and no bound. A value found outside your aiming goes to
 
 - **Each concept has an edge with an other's:** a 0 with a moment; all-parity with the atom; a me-parity with a self. A droplet at an edge is read by both sessions.
 - **Each session reads an other's droplets:** parity reads a moment and the seventeen names; a moment and the seventeen names reads living and non-living; living and non-living reads parity. The managing session reads each.
-- **A reading is of four:** is the explorer's value whole in the droplet; is a repetition same-as its living sentence, whole; has each side of a concern its base; is it natural naming.
+- **A reading is of four:** is the explorer's value whole in the droplet; is a repetition same-as its living sentence, whole; is each side of a concern a living sentence, or the code executed; is it natural naming.
 - **A possible incohering or a gap found in an other's droplet is a note to that session, and a help:** the living sentences it meets, the code executed, or a sentence of an incoming file resolving it.
 - **A concern the sessions do not resolve goes to the person,** by its two sides, one at a time. The person's suggesting, around and inside the concept, is the opening, re-said in the best natural naming found.
 
