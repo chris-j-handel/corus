@@ -508,3 +508,9 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Laid:** `The_three_sessions_gathered_read_first.md`; each part's state at its top; each session asked for its own gathered page. **Of the managing session's own:** *a first exhibit* is no name; it is Exhibit ONE Natural Resolver.
 
+## 34 The three transcripts read whole; each page by its standing
+
+**The person, 14 November, by no authority:** the three transcripts are given, for the method, the value and the plan front and centre for a next session; each thing of no value going on is an artifact, and a next session explores none of them.
+
+**Laid:** `The_three_sessions_gathered_read_first.md`, its sections 10 and 11. Three pages of this folder are artifacts. Each other session is asked for its own folder's pages by their standing.
+

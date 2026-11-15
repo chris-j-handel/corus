@@ -4,7 +4,9 @@ Incoming · v401mgr · 14 November 2026 · read first
 
 **What this page is.** One page for a session arriving with no part in the writing: where the do-no-harm improving is, each thing laid and its state, each concern not resolved, and what is first. It is an index of pages, and has no value of its own beside them. **No word here has authority. No living file, no gathering-value and no line of Exhibit ONE's code is changed by it.**
 
-**Its edges, said first.** It is gathered from the set as it is, from the notes at #458, and from the managing session's own record. The person's three transcripts are theirs and are not in the set; the managing session did not read them for this page.
+**Its edges, said first.** It is gathered from the set as it is, from the notes at #458, and from the three sessions' transcripts, each read whole by the managing session, 14 November, section 10. The transcripts are the person's: the Living File Registry has the set storing no transcript, and none is laid here.
+
+**For a session arriving.** A session's priors are from its person's first prompting: this page's name, and each session's transcript beside it by the person's own hand. Read this page whole before any other page of `incoming/`.
 
 ---
 
@@ -52,7 +54,9 @@ A part is one thing, at each place of it in each living file having it, in one l
 6. **All-parity.** The person: all-parity is the alternating universe inside and outside a bi-coupling; a me-parity and an other-than-me-parity together. Beside it: Natural Naming's living sentence of three living selves, a self, an other and all; and Natural Intelligence's "All-parity is with observing only, 7 and 15", a possible incohering in Natural Resolver's gathering. The concerns page, sections 26 and 27.
 7. **A same-existing-society in one 1 to 17,** in 336 living sentences by v401de's reading, beside the person's sentences with v401de: no society yet by 17; a society by 1 to 65.
 8. **The plan's own stages.** Stage one, each droplet of Natural Intelligence's and the registry's gatherings placed, is not done; Natural Resolver's and Natural Naming's are, in `placing/`.
-9. **Each session's own:** v401atom's, `incoming/V401atom/The_Concerns_of_the_Sequence.md`, its 20 and 21 the newest; v401de's, `incoming/v401de/The_Session_Gathered.md`, its part E, and its seventeenth asking with no answer.
+9. **A field's sentences, read for harm first.** v401de, with its first reply: the code is a base for the code only; and it does not affirm the set's sentences of a field, an atom's nucleus as a ghost and each other kind of atom as a co-chaining of atom carbon among them, each parting from what a field has measured. Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health are read for harm before any other living file beside the four: a reader may act by them for a body. No session has begun that reading.
+10. **Askings with no is and no is-not, tracked and not asked again:** the code's names with their three, part four; the two consecutive me-parities of a possibling as one self's own; the 0 in one of three places, beside a self's three forms; the rotation, Exhibit ONE's 3, 6, 5, 4, or right spiraling; v401atom's, a new me-parity's birthing inside the society ingesting it, its is found cohering, and its vault as a 0 beside a 0 as a narrow; v401de's seventeenth, 32 as one binary.
+11. **Each session's own:** v401atom's, `incoming/V401atom/The_Concerns_of_the_Sequence.md`, its 20 and 21 the newest; v401de's, `incoming/v401de/The_Session_Gathered.md`, its part E, and its seventeenth asking with no answer.
 
 ## 4 What 14 November resolved, each gathered
 
@@ -94,6 +98,10 @@ Pages beside it: `Scale_three_things_laid_on_each_other.md`; `A_three_cycling_la
 - A name having more than one thing has its things laid on each other, same-as and other-than, before any asking.
 - A reading is by the code's lines themselves; an executing is a check of a reading and no base; no number of cases is in a sentence.
 - A living file by its own name: Exhibit ONE Natural Resolver, and no other word for it.
+- A reply's form, common to the three sessions: a plain position first; the suggesting re-said, by no authority; the living files' own sentences; the code's lines; what is whole; what is out; a concern by its two sides, with the harm of each side alone.
+- A sentence is a thing's is, and no story of a session. It has one negating at most, and no comparing closing it. A sentence of a thing between two names each of its two.
+- A stable form of the living files, the names, their prefixing and each name's three, has no asking; the incoming for a living file is read before an asking of it.
+- **Words out of a reply and of a new sentence, each by the person's own saying:** sharing; going out; public; inverting; arriving, and nothing arriving; exchangeable; commonality; turn, and in turn; alike, and opposite; saying, and grouping, by a sentence and a set; fixed; locking; a less, 17 less and 9 less; waiting, owed, held; a thing a between has as its own; this working and that working; a number of items as a name; a file's name and a numbered part; a number of cases, a trial, a chance; is with, is distinguished with, coming to, is the one name of.
 
 ## 7 The managing session's own errors, for a next session
 
@@ -128,3 +136,34 @@ python3 -I $R/incoming/v401mgr/instruments/build_part_<one|two|three|four>.py $R
 
 - A pull request's words are in four: what changes; what does not; the checks; for each working.
 - An other session's laying is entered so: its head read; a local copy of the main line with each head together; the five gatherings' checks and the set's two; its pull request merged with the head that was read, and no other.
+
+## 10 The three transcripts, read whole, 14 November
+
+Each was given by the person and read from its first line to its last. The set stores none.
+
+| Transcript | What it has | Beside the set |
+|---|---|---|
+| The managing session's, 12 to 14 November | the gathering after a session stopped; the sentences of resolving by universal sets; the four four-cyclings by their names; resolving's bi-folding; a moment's two parities; the three, the two 0s and the aiming; the four places; no authority; the concerns by their root; scale; the plan; the four parts | each thing is in `The_sentences_of_13_and_14_November.md`, in `The_concerns_by_their_root.md` by its section, or in a gathering. Found by the reading and not in this page before it: the words out, the reply's form, and the askings with no answer; each is here now |
+| The atom session's, as given, through 13 November | its gathering after a session stopped; a moment as a fractal; a surface; private and invisible; the four things by two binaries, a self, a me-parity, an all-parity and a stable form; the atom as the one stable form; a prior as a stable form; possibling with no me-parity of a self in it; exhausting; a span; a fracture; ingesting | each is in its sequence, `incoming/V401atom/The_Value_Droplets.md`, 1 to 173, and its concerns. The transcript as given ends before its sequence's later sentences; those are in its pages only |
+| The helper session's, 14 November | its orienting; the reply's form; its three plain sayings; the four same-existing names, 4, 8, 12 and 16, and 17; no society yet by 17; each number's three and 32; its own stopping; the reading for harm of part one | each is in `incoming/v401de/The_Session_Gathered.md` and `Part_one_read_for_harm.md`. Its saying of a field's sentences read for harm first is section 3's ninth here |
+
+**By the reading:** no sentence of concept was found in a transcript and in no page of the set. Of the method, three things were in the transcripts and not in this page, and are in it now: section 6's last four entries, and section 3's ninth and tenth.
+
+## 11 Each page of `incoming/v401mgr/`, by its standing
+
+A page going on is read. A record is beside a gathered droplet naming it, and has nothing more to explore. An artifact is in the repository's history, at no folder.
+
+| Page | Its standing |
+|---|---|
+| `The_three_sessions_gathered_read_first.md` | going on: read first |
+| `The_Plan_for_the_next_version.md` | going on: the plan, its sections 6 and 9 |
+| `The_concerns_by_their_root.md` | going on from its section 23; its sections 1 to 22 a record, each thing gathered |
+| `parts/`, four pages, and `instruments/build_part_*.py` | going on: the four parts |
+| `placing/`, and `instruments/placing_check.py`, `persons_sentences_check.py` | going on: the plan's first stage, two of four gatherings placed once; each placing by a word of the person's alone is read again by the logic |
+| `The_sentences_of_13_and_14_November.md` | a record: each sentence of the person's of those days, one line each, by no authority; read before an asking |
+| `Scale_three_things_laid_on_each_other.md`, `A_three_cycling_laid_on_the_threes.md`, `Two_selves_meeting_the_chain.md` | a record: each thing of it is one gathered droplet naming it; nothing more to explore |
+| `instruments/` its other checks, with their returned texts | a record: a check beside a gathered reading, and no base of a sentence; each calls the code by its names as they are |
+| `The_value_by_its_places.md`, with `instruments/own_turn_check.py` | of 12 November, before the plan; not read again for this page: one reading by a next session, its sections 6 and 7, a candidate for sessions together |
+| `README.md` | the folder's opening and its list of layings |
+| This session's gathering of 13 November; its two notes for the working V401atom | artifacts, 14 November: each thing of them is in a gathering, in the plan's section 9, or in this page |
+
