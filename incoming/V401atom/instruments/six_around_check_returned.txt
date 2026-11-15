@@ -1,8 +1,0 @@
-1 the names 17-next-existing's lines have from a self to an other: [6, 9, 10]
-  the names a self has from its others: 2, given to 1-now-existing: True ; 14, each other's co-possibling added to it in 17: True ; 17, returning each self's next: True
-  the six names between selves: [2, 6, 9, 10, 14, 17] · Exhibit ONE's own six: True
-2 its pairs 8 apart: [(2, 10), (6, 14), (9, 17)] · three, each of the six in one: True
-  each pair has one name to an other and one name from an other: True
-  a name and its name 8 apart are a now name and its next name: True
-3 Exhibit ONE's own pairs, a self's name to its other's name: 6 to 2, 10 to 14, 9 to 17 · in its lines: True
-  each is one name to an other and one name from an other; 6 to 2 by two now names, 10 to 14 by two next names, 9 to 17 along: True

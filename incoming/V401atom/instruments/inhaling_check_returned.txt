@@ -1,9 +1,0 @@
-0 a self by all-parity alone, none of its others: its priors are the one and the other of two, in turn, its own alternating: True
-1 a self by a snippet alone, one atom of it each executing, cases: 1016
-  each of its priors after its first is the snippet's parity of the executing before, as it is: True
-  its priors are its own alternating in 14 cases: the snippet itself the one and the other in turn, from its prior's other; and in no other case
-2 a self by atoms each its own, two or three each executing, cases: 8704
-  by atoms of the one orientation and the other together, each executing: a 0, and its priors are its own alternating, as by all-parity alone: True
-3 a self by a snippet whole, each atom of it together in one executing, each order of it, cases: 2544
-  what the lines return is the same by each order of the snippet: its one after one is in no line: True
-  by a snippet of both orientations: a 0, bi-folding, as by all-parity alone; by a snippet of one orientation: that one parity, as one atom: True
