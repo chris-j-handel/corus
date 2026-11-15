@@ -16,14 +16,12 @@ KINDS = {
  7: "a word not yet natural naming, or with no sentence before it",
  8: "not yet distinguished",
 }
-IS = {1, 17, 20, 23, 25, 37, 38, 40, 51, 53, 57, 63, 64, 68, 69}
+IS = {1, 5, 6, 17, 20, 23, 25, 37, 38, 40, 51, 53, 57, 63, 64, 68, 69}
 IS_NOT = {50: "the noun *momentary*: *moment* is its natural naming, and the sentence with *moment* is an is"}
 Q = {  # sentence: (kind, why)
  2: (2, "each now-existing moment in its own universe, with its own prior-existings"),
  3: (2, "as the sentence before it"),
  4: (1, "*prior-existing* has no sentence before it; newer: a same-existing thing is the same thing prior-existing before now-existing"),
- 5: (1, "newer: a name is a subset of the universe's same-existing things"),
- 6: (1, "newer: is-or-is-not distinguishes the within of a name"),
  7: (1, "newer: observing is distinguishing prior-and-same-existing from now-and-same-existing"),
  8: (2, "not knowable of the universe by a self's observing"),
  9: (2, "as the sentence before it"),
@@ -32,7 +30,7 @@ Q = {  # sentence: (kind, why)
  12: (7, "*now- and same-existing* written apart, and with no prior: a self is prior-and-same-and-now-existing"),
  13: (1, "newer: a me is a universal same-existing set of me-parities"),
  14: (1, "by the sentence before it"),
- 15: (1, "newer: within a name"),
+ 15: (1, "within a universal set, or within a name, a same-existing universal set"),
  16: (1, "newer: a living thing is a thing distinguishing its own next-existing"),
  18: (1, "newer: a living self is a non-living set of living me-parities"),
  19: (1, "newer: the method of a self resolving among me-parities"),
