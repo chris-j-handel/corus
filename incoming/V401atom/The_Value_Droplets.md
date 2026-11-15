@@ -220,6 +220,12 @@ From Exhibit FOUR and Exhibit THREE read, each in by the sentences above:
 165. A stable form emanating from living is a bi-tri-involution: an opposite form, of the hand other than living's. Exhaled atoms co-chaining, spiraling, are one. [70, 119] *Exhibit THIRTY's sentence of a stable-forming emanation's form; Exhibit TWENTY's of bi-tri-involutioning.*
 166. Ingesting is same-as: a stable form is in a self as it is, a co-chaining of priors, prior-and-same-existing. Of a bi-tri-involution of the self's own scale it is harming only: the self's priors are an opposite form's. One scale inward, through a society's selves, it is ingestible. [80, 86, 135, 142, 165] *Exhibit THIRTY's sentences of harm with its own scale, and of ingestible one scale inward.*
 167. Inhaling is other-than: by atoms each its own, a stable form each, other-than the co-chaining they were. It is after a fracture, and improving only: a self by them is resolving by its own. An other-than is of a stable form before it. [54, 136, 137, 157, 166]
+168. A stable form is by what it is of, one of three. A universe's is the atom. An all-parity's is its atoms, a co-chaining of priors. A me-parity's is a parity as it is, a first prior. [24, 83, 139, 140]
+169. Inhaling is of a universe's stable form, the atom: the method of stable-forming, a next from a prior by a fold. Ingesting is of an all-parity's stable form. Inheriting is of a me-parity's stable form, unrelationing from its all-parity's: an other-than-all-parity, after all-parity only. [84, 120, 142, 167, 168]
+170. An atom each its own is *free*: uncoupling from each now-existing thing other-than it, touching no atom, and no bump its own. It is floating and neutralling, orienting in all-parity's alternating, the one and the other of two. Exhaled atoms co-chaining are other-than *free*: each is touching its others. [66, 136, 140, 150, 165] *Natural Intelligence's sentence of floating neutralling.*
+171. *Free* is each its own, by each scale. An atom's own is its orientation, uncoupling. A living self's own is its resolving of its next-existing, inside its bi-couplings: a natural intelligence network, each self resolving its own, is *free*. [140, 141, 170] *The opening's sentence of a natural intelligence network free.*
+172. In folds one after one, between a 0 and its next is the middle of a four, nothing in it. It is farther from each of its four atoms than a 0 is from each of its three. From 0 to 0 a 0 is a narrow and a four's middle a bulge, in turn: a tunneling. [31, 117, 119]
+173. A vault is a bulge in a tunneling: inside a tunnel, all-parity inside it. A four's middle is its beginning, the first bulge. [81, 95, 172]
 
 ---
 
@@ -298,6 +304,8 @@ Each is out by the sentence named, or is from no sentence before it. An out thin
 | *a 1 to 17 before* and *a 1 to 17 apart*, of two executings | 109: an executing is one moment of one 1 |
 | a span as two things, a self's eight names and atoms one after one | 110: one is, ones one after one of one same parity |
 | *inhaled as a snippet*: one name of two things | 137, 166, 167: a stable form in as it is, ingesting; by its atoms each its own, inhaling |
+| ingesting, a fracture and inhaling as one after one of one stable form | 168, 169: each is by its stable form, an all-parity's and a universe's |
+| a four's middle as the five of its four-cycling | by no sentence: it is not known |
 
 ---
 

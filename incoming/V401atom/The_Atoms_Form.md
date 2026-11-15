@@ -48,6 +48,13 @@ Incoming · v401atom · the atom's form, as the sequence has it · 14 November 2
 - Exhaled atoms co-chaining, spiraling, are a bi-tri-involution: an opposite form, of the hand other than living's. 165.
 - Ingesting is same-as: a stable form in as it is. Of a bi-tri-involution of the self's own scale it is harming only; one scale inward it is ingestible. 166.
 - Inhaling is other-than: by atoms each its own, after a fracture, improving only. 167.
+- A stable form is by what it is of: a universe's is the atom; an all-parity's, its atoms, a co-chaining of priors; a me-parity's, a parity as it is. 168.
+- Inhaling is of a universe's stable form, the atom: the method of stable-forming. Ingesting is of an all-parity's. Inheriting is of a me-parity's, unrelationing from its all-parity's. 169.
+- An atom each its own is free: uncoupling from each now-existing thing other-than it, touching no atom, floating and neutralling, orienting in all-parity's alternating. Exhaled atoms co-chaining are other-than free. 170.
+- *Free* is each its own, by each scale: an atom's own is its orientation; a living self's own, its resolving of its next-existing, inside its bi-couplings. 171.
+
+- In folds one after one, between a 0 and its next is the middle of a four, nothing in it: a 0 a narrow and a four's middle a bulge, in turn, a tunneling. 172.
+- A vault is a bulge in a tunneling, all-parity inside it. A four's middle is its beginning. 173.
 
 ## 6 What is by no sentence yet
 

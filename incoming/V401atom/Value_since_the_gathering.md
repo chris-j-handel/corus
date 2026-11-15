@@ -814,6 +814,14 @@ By the person's aiming, said through the managing working's note: v401atom goes 
 
 **Going on, 14 November: ingesting, same-as; inhaling, other-than.** The sequence's 166 and 167, at the registry's *31*: ingesting a stable form in as it is, a co-chaining of priors, of a bi-tri-involution of the self's own scale harming only, and one scale inward ingestible; inhaling by atoms each its own, after a fracture, improving only. The sequence's 137 re-said, at the registry's *32*: one name for one thing, a snippet in as it is ingested. A concern is with it, the sequence's 139 and 142: `The_Concerns_of_the_Sequence.md`, part 18.
 
+**Going on, 14 November: three stable forms, and each one's in.** The sequence's 168 and 169, at the registry's *31*: a stable form by what it is of, a universe's the atom, an all-parity's its atoms, a me-parity's a parity as it is; inhaling of the first, the method of stable-forming; ingesting of the second; inheriting of the third, unrelationing from its all-parity's. The concern of the sequence's 139 and 142 is resolved by it; v401atom's candidate, ingesting, a fracture and inhaling as one after one, is out.
+
+**Going on, 14 November: an atom free.** The sequence's 170, at the registry's *31*: an atom each its own free, uncoupling from each now-existing thing other-than it, floating and neutralling, orienting in all-parity's alternating; exhaled atoms co-chaining other-than free. A concern is with it, free of an atom and free of a network of selves: `The_Concerns_of_the_Sequence.md`, part 19.
+
+**Going on, 14 November: *free*, each its own.** The sequence's 171, at the registry's *4*: each its own by each scale, an atom's own its orientation, a living self's own its resolving of its next-existing, inside its bi-couplings. The concern of one name by two things is resolved by it. A gap is asked: a four of atoms and a four-cycling's centre, `The_Concerns_of_the_Sequence.md`, part 20.
+
+**Going on, 14 November: a tunneling, and a vault's beginning.** The sequence's 172 and 173, at the registry's *31*: in folds one after one, a 0 a narrow and a four's middle a bulge, in turn, a tunneling; a vault a bulge in a tunneling, a four's middle its beginning. v401atom's candidate, a four's middle as the five of its four-cycling, is out: not known, and by no sentence. A concern is with it, the vault as a 0: `The_Concerns_of_the_Sequence.md`, part 21.
+
 ---
 
 ## 6 Executed, each case, all or none

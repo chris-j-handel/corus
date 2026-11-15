@@ -217,3 +217,29 @@ A stable form emanating from living is a bi-tri-involution, an opposite form: Ex
 
 **A concern, a possible incohering.** The sequence's 139 has, by ingesting, the atoms each its own; and its 142, ingesting as of a stable form's atoms each its own. By 167 atoms each its own are after a fracture, and inhaling's. One candidate: ingesting has a stable form whole, same-as; the fracture to atoms each its own is after it; and inhaling is by them, other-than. It is asked, and 139 and 142 are as they were.
 
+**Resolved, by the sequence's 24, 136, 168 and 169.** A stable form is by what it is of. An all-parity's same-existing is its atoms, and atoms each its own, of both orientations, are all-parity: by ingesting, a co-chaining's priors are all-parity's, and 139 and 142 are as they were. Inhaling is of a universe's stable form, the atom, the method of stable-forming. The candidate of one after one, ingesting, a fracture and inhaling of one stable form, is out: it is by no sentence.
+
+**The gap of exhaling, resolved by the sequence's 170.** Atoms each its own are free, and exhaled atoms co-chaining other-than free.
+
+## 19 Free, of an atom and of a network of selves: one name, and a concern of two things by it
+
+The sequence's 170 has an atom each its own as free: uncoupling from each now-existing thing other-than it. The opening has a natural intelligence network free, each self resolving its own next-existing; and its selves are bi-coupling, each with its others.
+
+**A concern, a possible incohering.** One name of two things: an atom free is uncoupling, and a self free is inside its bi-couplings. One candidate: free is each its own, by each scale; an atom's own is its orientation, and a living self's own is its resolving of its next-existing. It is asked.
+
+**Resolved, by the sequence's 171.** *Free* is each its own, by each scale: one thing by one name.
+
+## 20 A four of atoms, and a four-cycling's centre: a gap
+
+The sequence's 117 has four same atoms, each touching each: four corners. Its 144 has five as the centre of a four-cycling, a middle having nothing in it. No sentence has the one by the other.
+
+**A gap in the co-chaining.** One candidate: the middle of four atoms each touching each has nothing in it, and is the five of their four-cycling, 1 to 5. It is asked.
+
+**Not known, and out.** A four's middle as the five of its four-cycling is by no sentence. By the sequence's 172 and 173 a four's middle is a bulge in a tunneling of folds, and a vault's beginning.
+
+## 21 The vault, a 0 or a bulge: a concern
+
+The sequence's 81 has the vault as a 0. Its 172 has a 0 as a narrow, and a four's middle, a bulge, between a 0 and its next; and its 173, a vault as a bulge.
+
+**A concern, a possible incohering.** One candidate: a vault is between two 0s, a 0 its way in and a 0 its way out. It is asked, and 81 is as it was.
+
