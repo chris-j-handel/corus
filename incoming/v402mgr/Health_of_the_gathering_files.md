@@ -112,6 +112,7 @@ Not yet read: each other concept of the opening's part; each part of the six; th
 
 - A name is non-living.
 - Me-parity is prior, both-parity is now and all-parity is next.
+- The 9/8, of three threes interacting, is the one move's 9 less and 8 up.
 - Other-parity now-existing, the second of the five dimensions, is both-parity now-existing.
 - Same-existing is a self's only, and the universe is no same-existing thing: met by all-parity as not-other-than same-existing; the universe as a same-existing set, in three living sentences, is not yet distinguished.
 - Both-parity with none of a self's others.
