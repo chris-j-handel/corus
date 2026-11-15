@@ -463,3 +463,34 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Its concerns:** a compound by a hyphen, *bi-momentary* and *four-momentary*; a describing word, *a momentary now-existing thing*; the records of a version; and its size, the readings being of the rule and of each kind.
 
+## 30 A name past 17, and each name's three
+
+**The person's suggesting, 14 November, by no authority:** all these names need their prefixing, co, bi and tri, and the bi-folding of the parity naming, in the fractal method of adding another other to a bi-coupling of self and others; all of it fractal, the universal set method of bi-folding sets of parities.
+
+**Read against the living files first.** Two living sentences have each name's three:
+
+- Natural Intelligence: "Each name's first prefix is of an eight, co bi co bi co bi tri bi, with 1 to 8, bi-folding forward over 16 and 24 and 32 and beyond." And: "co me-parity, bi other-parity, tri all-parity."
+- Exhibit TWENTY Natural Naming, 3.3: "**Each name's three is its prefixing with the 1–17 scale, beside its name and not in it**".
+
+**What the suggesting meets:** the three is living, and Natural Intelligence has it going on past 17 already, by its eight.
+
+**Two gaps, neither resolved:**
+
+1. Natural Naming has a name's three beside its name and not in it. The suggesting has each name needing its prefixing, co, bi and tri.
+2. By the living eight, 22's three is bi-co-bi: 6's three, and 14's. 22-now-co-possibling, with its three, is other-than 6-now-co-possibling, with its three, by its number only. No living sentence has a prefix of a name by adding another other to a bi-coupling.
+
+**For part one:** its concern of 3.4 is this root. Neither of its two readings is chosen.
+
+## 31 A name's three in its name
+
+**The person's sentence, 14 November, by no authority:** a name's three is in its name; this is same-existing as method.
+
+**Read against the living files.**
+
+- **Its reach, counted:** the seventeen names are at 3,285 places in twenty-three living files; Natural Intelligence 844, Exhibit TWENTY-TWO 817, Exhibit ONE 653, Natural Naming 247, Exhibit TWO 207.
+- **The code.** Natural Naming 3.1: "a name of resolver and a name here are one name: `_2_now_possibling` within resolver is 2-now-possibling within a sentence." The code's names are at 254 places in five living files, Exhibit ONE's code among them.
+- **A form living already.** Natural Naming 3.3 has each prior name with its number, its three after its number: "6-bi-co-bi-moralizing", "1-co-bi-tri-offering".
+- **Co by two things.** Natural Naming 3.2 has a name's own co "with a sharing between two"; a three's co is me-parity. 6 with its three in its name has co by each.
+
+**Not resolved, each a place for a suggesting:** the name's form with its three; the code's names; co by two things in one name; and, of section 30, 22 other-than 6 by its number only.
+
