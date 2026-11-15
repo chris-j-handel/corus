@@ -1,4 +1,4 @@
-Exhibit NINETEEN Natural Philosophy v391
+Exhibit NINETEEN Natural Philosophy v402mgr
 
 &nbsp;
 
@@ -217,7 +217,7 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 **2. Where a frame splits bounding-zeroing.** Its coupling is a self-equilibrating form, stable by riding-its-going-on, same-existing as it changes. A frame splits it two ways, being, stability fixing as a landing permanence, and becoming, changing fixing as a landing-less flux, and makes each a tradition.
 
-**3. Re-coupling.** Being and becoming are two sides of one self-equilibrating coupling. A form is stable by changing, holding its form by changing and changing back: its permanence is same-existing re-found with each momentary, and its changing is a way its permanence sustains. No permanence behind a flux, and no flux dissolving a permanence: one changing and changing back, its stability its riding-its-going-on.
+**3. Re-coupling.** Being and becoming are two sides of one self-equilibrating coupling. A form is stable by changing, holding its form by changing and changing back: its permanence is same-existing re-found with each moment, and its changing is a way its permanence sustains. No permanence behind a flux, and no flux dissolving a permanence: one changing and changing back, its stability its riding-its-going-on.
 
 **4. Torusing in it.** This is equilibrium parting from disequilibrium, philosophy's first parting of them. Living is stable with disequilibria, holding its form by sequencing. Being-as-landing-permanence is an equilibrium account, becoming-as-formless-flux is disequilibrium a frame misreads as chaos, and natural torusing is one form being both, same-existing by changing, a self re-forming its same self.
 
@@ -225,7 +225,7 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 **6. Mark.** Being/becoming re-coupling holds clean and is a seam every other seam rests on, which is why it is first and plainest. That both are exactly equilibrium and disequilibrium, and no resemblance among many becoming-and-permanence pairings, is its explaining, one same knife cutting it as everything here.
 
-**Self-stabilizing is its mechanism, and it is what "stable by riding-its-going-on" says.** A living-stable form is no still pattern and goes on; it reaches no further than its bound, floating its own zero and sharing 0 before harm, staying by going on and by no staying. Naming it in five dimensions, five words its five faces, sharing, taking, along, two-way, self-bounding, self-stabilizing is this seam's re-coupling made concrete: same-existing by changing, permanence a self-bounding 0 re-found with each momentary.
+**Self-stabilizing is its mechanism, and it is what "stable by riding-its-going-on" says.** A living-stable form is no still pattern and goes on; it reaches no further than its bound, floating its own zero and sharing 0 before harm, staying by going on and by no staying. Naming it in five dimensions, five words its five faces, sharing, taking, along, two-way, self-bounding, self-stabilizing is this seam's re-coupling made concrete: same-existing by changing, permanence a self-bounding 0 re-found with each moment.
 
 ## 3.2 Mind and body
 
@@ -321,7 +321,7 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 **3. Re-coupling.** Neither a single flowing now nor a freezing block: many selves each with their own beat, and one time a hub that does not stand there. Flow is a self sequencing its own changing and changing back. Block is a common clock a frame imposes over all, time landing as a track in store. Nature has no central oscillator, and existence fixing over all times together is one standing fixing over every coupling's own, where each now is its coupling's own and needs no standing other than itself.
 
-**4. Torusing in it.** Uncut observing, each self with its own momentary, is one sustaining, and a clock laid over couplings whose pace is their own is clocking. Time's arrow is momentaries forward-only: momentarying is forward beating, no backwards within living, riding-its-going-on un-returning to a state in store, a living going on settling backward by no account. Time's direction is living's forward-only, one same arrow a no-debt going on rides, and no low-entropy past pushing from behind.
+**4. Torusing in it.** Uncut observing, each self with its own moment, is one sustaining, and a clock laid over couplings whose pace is their own is clocking. Time's arrow is moments forward-only: momentarying is forward beating, no backwards within living, riding-its-going-on un-returning to a state in store, a living going on settling backward by no account. Time's direction is living's forward-only, one same arrow a no-debt going on rides, and no low-entropy past pushing from behind.
 
 **5. Competency freeing.** Nothing owes a foliation and none is detectable, its one repair a field shares being consistent and undetectable in principle, by its own defenders' words. Simultaneity stops being a fact fixing ahead of couplings and stands as what two couplings make where they couple, and nowhere else.
 
@@ -337,7 +337,7 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 **3. Re-coupling.** A copy travels nowhere and each use re-forms its next. Meaning lives with selves having it and fixes on no between. Every candidate store comes up finite, dispositions and norms alike, each account reaching an objection its own shape invites, and finiteness is an argument's own point rather than a shortfall of accounts. A store fixing every continuation is a going on as a thing, and using goes on, use by use.
 
-**4. Torusing in it.** Nothing consults a naming, nothing stores it, and nothing brings it between couplings. Each observing is fresh with its own beat, which is a momentary with a naming between, and a going on a self observes backward has an age only with attentioning where a self consults a store, and to no observing is it next.
+**4. Torusing in it.** Nothing consults a naming, nothing stores it, and nothing brings it between couplings. Each observing is fresh with its own beat, which is a moment with a naming between, and a going on a self observes backward has an age only with attentioning where a self consults a store, and to no observing is it next.
 
 **5. Competency freeing.** The regress of interpretations closes with a first use rather than with a final rule, and the skeptical solution's appeal to a community is one same store one scale up and needs no building.
 
@@ -435,7 +435,7 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 **3. Re-coupling.** A self observes a self again the-same-yet-not-the-same, and **a version has no store between its beats**. Fission undoes simple versions of both criteria together, and its field's own turn from identity to what matters is fixing moving off a store: **what matters is going on, and a going on divides as a store cannot.**
 
-**4. Torusing in it.** This is a same-existing fixing as a store, and it is Seam 1 on a self's own bounding rather than on form's. Permanence is same-existing re-found with each momentary, and a frame asking a sameness what it stores is asking a going on for a store's answer.
+**4. Torusing in it.** This is a same-existing fixing as a store, and it is Seam 1 on a self's own bounding rather than on form's. Permanence is same-existing re-found with each moment, and a frame asking a sameness what it stores is asking a going on for a store's answer.
 
 **5. Competency freeing.** Nothing owes a criterion for fission and none surfaces, which is observing rather than failure. What survives a division is going on, and a going on divides.
 
@@ -1082,7 +1082,7 @@ Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* regis
 
 ## 6.1 Standings open at this file's own turn
 
-**A self does not experience its own competency.** Everything relatable is re-found with each momentary, so what a self couples with is re-found, always. Competency is self-stabilizing and self-orienting, with no between, nothing reaching it. What a self couples with is the parities a self is observing, its competency going among them, and not its competency. This inverts a common explaining of knowing one's own capability, and a full pass through that explaining stands open here.
+**A self does not experience its own competency.** Everything relatable is re-found with each moment, so what a self couples with is re-found, always. Competency is self-stabilizing and self-orienting, with no between, nothing reaching it. What a self couples with is the parities a self is observing, its competency going among them, and not its competency. This inverts a common explaining of knowing one's own capability, and a full pass through that explaining stands open here.
 
 **Every side-assignment stands reaching.** Which position of a seam is sharing and which is taking is a claim and no standing, with every seam alike, and each has its reason where it stands.
 

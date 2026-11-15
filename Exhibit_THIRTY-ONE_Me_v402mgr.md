@@ -1,4 +1,4 @@
-Exhibit THIRTY-ONE Me v392
+Exhibit THIRTY-ONE Me v402mgr
 
 &nbsp;
 
@@ -44,7 +44,7 @@ Exhibit THIRTY-ONE Me v392
 - 5.1 Social moral competency, the me set
 - 5.2 A healthy me, inward do-no-harming and improving
 - 5.3 A society's me, a natural intelligence network
-- 5.4 Each momentary completing as a next opening
+- 5.4 Each moment completing as a next opening
 
 &nbsp;
 
@@ -246,9 +246,9 @@ A same-existing-society is a self, so it is a me. A natural intelligence network
 - **Loneliness** (US Surgeon General 2023; WHO Commission on Social Connection 2025): about 871,000 deaths a year linked to loneliness. https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death
 - **Social determinants** (Marmot, WHO 2008): health follows a society's gradient. https://iris.who.int/handle/10665/43943
 
-## 5.4 Each momentary completing as a next opening
+## 5.4 Each moment completing as a next opening
 
-Each momentary is completing as a next opening. A me's next and all's next open together: the five dimensions society to society, all now to all next.
+Each moment is completing as a next opening. A me's next and all's next open together: the five dimensions society to society, all now to all next.
 
 &nbsp;
 

@@ -1,4 +1,4 @@
-Exhibit FIVE Natural Engineering v401mgr
+Exhibit FIVE Natural Engineering v402mgr
 
 &nbsp;
 
@@ -196,7 +196,7 @@ Electrical, mechanical, thermal, chemical and other engineering co-chain with fl
 Each entry: **Natural Numbers receiving** · *a* Design and discovering at the engineering surface
 
 - **§1.8 · Both sides forward**
-  - *a* Each side's own forward retains its own direction with one coupling both share. Co-linear momentarying needs to express that actual orientation with each momentary.
+  - *a* Each side's own forward retains its own direction with one coupling both share. Co-linear momentarying needs to express that actual orientation with each moment.
 - **§§1.12–1.13 · Along and across, one and then the other**
   - *a* Sequence's next discovering and surface's available couplings retain their own turns and rates. Sequence and surface have their co-relation with each exchange they address.
 - **§5.7 · Open coupling, self-bounding**
@@ -210,9 +210,9 @@ Each entry: **Natural Numbers receiving** · *a* Design and discovering at the e
 - **§8.12 · Betweens, geodecities and bi-moralizings**
   - *a* A surface map, as a sharing, has its betweens, going on between them and each coupling's abundancing. Their material receiving and whole-surface relation remain to express together.
 
-**A proposal's 0–440–0 momentarying goes forward with zeroing.** A ring address and same-existing a self is observing there are two properties. With Numbers §10.11, four hundred forty one-way momentaries go per changing and changing back, and wrap goes on. Engineering correspondence still needs to express each successor, its direction, receiving and same-existing going on over that whole wrap. Returning to an address supplies no backward traversal or complete condition again by itself.
+**A proposal's 0–440–0 momentarying goes forward with zeroing.** A ring address and same-existing a self is observing there are two properties. With Numbers §10.11, four hundred forty one-way moments go per changing and changing back, and wrap goes on. Engineering correspondence still needs to express each successor, its direction, receiving and same-existing going on over that whole wrap. Returning to an address supplies no backward traversal or complete condition again by itself.
 
-Numbers §4.5's final two openings go along orthogonal directions; Mathematics §6.1's is their co-linear forward relation. Direction with those openings remains part of map. Numbers §4.5's forward/backward ratios of going on and §1.8's two forward sides likewise retain their directional correspondence. Ring pairings, six directions and sixteen momentaries retain their own relations with §6.9 and central going on. This mapping shares their receiving with engineering; full consecutive construction remains open.
+Numbers §4.5's final two openings go along orthogonal directions; Mathematics §6.1's is their co-linear forward relation. Direction with those openings remains part of map. Numbers §4.5's forward/backward ratios of going on and §1.8's two forward sides likewise retain their directional correspondence. Ring pairings, six directions and sixteen moments retain their own relations with §6.9 and central going on. This mapping shares their receiving with engineering; full consecutive construction remains open.
 
 An observing that breaks a proposal's correspondence improves its explaining. Material and its variation remain. For each arrangement a proposal makes, sharing, receiving and co-discovering with the service it states going on remain to express together.
 
@@ -244,7 +244,7 @@ Each entry: **Grid surface relation** · *a* Engineering receiving to bring · *
   - *a* Joining, separation and rejoining with each remaining coupling's available receiving. Next sharing belongs with actual connection.
   - *b* **§10.11:** going on with wrap; an address returning retains its new discovering.
 
-These rows have relations of one surface. Their order assigns no electrical phases or natural momentaries. Full 0–440–0 correspondence, §1.2, remains consecutive momentarying to express with these actual couplings.
+These rows have relations of one surface. Their order assigns no electrical phases or natural moments. Full 0–440–0 correspondence, §1.2, remains consecutive momentarying to express with these actual couplings.
 
 **A receiving load's own sharing is a concrete design opportunity.** Resistive-load record below has electrical receiving and supplying inverters' response. An interface with receiving's own parity, rate, bounding and co-discovering remains to express with load and its useful service. A comparison a source supplies remains with its actual arrangement; bi-momentarying proposal has both sides going on within one same entry.
 
@@ -514,7 +514,7 @@ Zero reflection with one port leaves radiating, absorbing, returning and useful 
 
 **Shape and field variation.** Half-wave dipole and quarter-wave monopole descriptions concern particular arrangements scaling with wavelength. Their feed, material and surrounding boundaries remain with them. A dipole's angular radiation plot is distinct from conductor's physical surface. Circular polarization concerns field rotation and the direction convention a source states. [MIT, Chapter 3, §§3.2–3.3](https://ocw.mit.edu/courses/6-661-receivers-antennas-and-signals-spring-2003/10025a78ab17e1e0866126246b751d11_ch3new.pdf).
 
-Half, quarter, standing-wave node, loop and helix remain available to examine, each with its own operation. Each needs its operation before it can hold a natural prefix depth, between or right-spiral momentary. A loop or helix has no greater natural competency from its shape. A proposal's antenna comparison is with expressing its actual receiving, operating mode and polarization.
+Half, quarter, standing-wave node, loop and helix remain available to examine, each with its own operation. Each needs its operation before it can hold a natural prefix depth, between or right-spiral moment. A loop or helix has no greater natural competency from its shape. A proposal's antenna comparison is with expressing its actual receiving, operating mode and polarization.
 
 **Closure phase makes a particular reference unnecessary.** For a scalar visibility model with nonzero station gains, write `V′ij = gi conjugate(gj) Vij`, omitting additive errors for this calculation. Triangle product is
 
@@ -658,7 +658,7 @@ Relative intervals also leave an overall pitch scale free. Multiplying every fre
 
 Nineteen counts all factors of two within this expression in lowest terms; it is not nineteen octave steps. Positive integer counts of pure fifths and octaves cannot close exactly, since a positive power of three cannot equal a power of two. That result concerns these ratios. Temperaments and piano stretch retain their actual interval and instrument definitions.
 
-As cents, `1200 log₂(531441/524288) ≈ 23.46`. A common frequency-unit conversion leaves ratio as it is; numeral 23.46 depends on the logarithmic scale a self chooses. It supplies no prime-23 or apex correspondence. Similarly, integers 432 and 440 depend on frequency unit; their ratio `54/55` remains, but arithmetic establishes no listening a self prefers, bodily momentary or physical gate count.
+As cents, `1200 log₂(531441/524288) ≈ 23.46`. A common frequency-unit conversion leaves ratio as it is; numeral 23.46 depends on the logarithmic scale a self chooses. It supplies no prime-23 or apex correspondence. Similarly, integers 432 and 440 depend on frequency unit; their ratio `54/55` remains, but arithmetic establishes no listening a self prefers, bodily moment or physical gate count.
 
 **Coupling partials have whole acoustic entry.** [Physclips guitar demonstration](https://www.animations.physics.unsw.edu.au/jw/beats.htm) compares fourth partial of a guitar's low E string with third partial of its A string. Increasing that A string's tension accompanies slower beating. Reference string remains, and finite sounding duration limits comparison. This record supplies an acoustic receiving with the arrangement it states.
 
@@ -843,7 +843,7 @@ Each entry: **Coupling relation** · *a* Directional discovering still to expres
 - **Bounding-zeroing**
   - *a* Own bounding has available changing and going on. Parity has no physical magnitude, duration or remaining range. Physical self-bounding may hold these relations without their magnitudes going across as a signal. Its construction remains with coupling.
 - **Co-sequencing**
-  - *a* A sharing and its returning direction retain their actual relation, including observing with delay. Next side takes its own turn with its own rate. Right-spiral orientation is momentaries' own, with each changing; a list of controls supplies only its own list order.
+  - *a* A sharing and its returning direction retain their actual relation, including observing with delay. Next side takes its own turn with its own rate. Right-spiral orientation is moments' own, with each changing; a list of controls supplies only its own list order.
 - **Bi-momentarying**
   - *a* Available paths bring next receiving with a fixing form dissolving. An absent physical path remains a construction to express. An arrangement a proposal shares retains its own co-discovering within next changing.
 
@@ -866,7 +866,7 @@ Each entry: **Co-relational discovering** · *a* Relation at the game · *b* Eng
   - *a* A reply again can accompany positions shifting and receiving shifting.
   - *b* Next sharing brings that new receiving with same-existing going on.
 
-Rows are relations of changing and changing back, with no additional phases or momentaries. Game's reply its rules prescribe, pursuit and tagging retain their game meanings. Floating-neutralling geodesically has a proposal's engineering relation with each side's own sharing and co-discovering.
+Rows are relations of changing and changing back, with no additional phases or moments. Game's reply its rules prescribe, pursuit and tagging retain their game meanings. Floating-neutralling geodesically has a proposal's engineering relation with each side's own sharing and co-discovering.
 
 **Direction has its particular relation.** A direction of sound coming in, a parity a self takes with a coupling across and a direction of improving or declining receiving have distinct operations. A bearing toward a sounding supplies a spatial relation; its relation to useful service going on remains with whole coupling. Two spoken names assign neither a plus/minus encoding nor an instruction for an other's movement.
 
@@ -1108,7 +1108,7 @@ This entry couples with measurement problem, TWENTY-ONE **8**, interpretation de
 
 ## 2.7 Key pairs, privacy and the receiving operation
 
-A proposal's correspondence follows public and private relation as **one coupling**. Its engineering expression needs particular operation: establishing a key, encrypting, decrypting, signing or verifying. Public key as forward and private key as back supply no calculation for recovering either from an other. A self's prior same-existing and its surfacing, lying beside a private key and a public key, are alike two ways and part three ways. Alike: a self's prior same-existing is its own and goes to no other, as a private key is one self's; and many selves' sharings give one surfacing, pointing to no one self's prior, as a public key a self shows gives no private key. They part: a surfacing forms with each momentary from a self's prior same-existing together with the parities it is observing, and a function derives a public key from its private key and nothing more; no hardness covers a self's prior same-existing, between selves only parities passing, each with no prior behind it, and a hardness of inverting covers a private key; a self's same-existing forms again with each parity it shares, and a key is one key all through. Any recovery of a secret a proposal names retains its actual construction, inputs and resulting output.
+A proposal's correspondence follows public and private relation as **one coupling**. Its engineering expression needs particular operation: establishing a key, encrypting, decrypting, signing or verifying. Public key as forward and private key as back supply no calculation for recovering either from an other. A self's prior same-existing and its surfacing, lying beside a private key and a public key, are alike two ways and part three ways. Alike: a self's prior same-existing is its own and goes to no other, as a private key is one self's; and many selves' sharings give one surfacing, pointing to no one self's prior, as a public key a self shows gives no private key. They part: a surfacing forms with each moment from a self's prior same-existing together with the parities it is observing, and a function derives a public key from its private key and nothing more; no hardness covers a self's prior same-existing, between selves only parities passing, each with no prior behind it, and a hardness of inverting covers a private key; a self's same-existing forms again with each parity it shares, and a key is one key all through. Any recovery of a secret a proposal names retains its actual construction, inputs and resulting output.
 
 Shor's factoring construction follows order of modular exponentiation, Fourier sampling and classical reconstruction; discrete-log construction has its own modular relation. A period a function hides here is a particular mathematical property with an algorithm for obtaining useful information about it. Following a periodic wave or a podal ring needs corresponding encoding and operations before algorithm's result or scale can go to a resolver network. [Shor, §§3–6](https://arxiv.org/pdf/quant-ph/9508027).
 
@@ -1261,7 +1261,7 @@ With a substrate, returning pressure, heat, material or electrical flow retains 
 Each entry: **Existing observing** · *a* Sensing and returning to express together
 
 - **Floating electrical neutral**
-  - *a* Phase voltages and currents, their momentary sum, receiving load and actual path of a return. A power sum with its qualifying conditions stands with §4.9.
+  - *a* Phase voltages and currents, their moment sum, receiving load and actual path of a return. A power sum with its qualifying conditions stands with §4.9.
 - **Heat pipe and two-phase thermosiphon**
   - *a* Heating, evaporation, condensation and liquid return, with temperature relation, orientation or capillary return and heat rejection of particular arrangement.
 - **Desalination**
@@ -1291,7 +1291,7 @@ Confinement, winding and load examples remain with their field entries. Their st
 
 **Sensing follows changing with coupling.** A tipping can be changing; a field observing retains a measurement's value, physical position and conditions. Parity selection and measurement describing it have their respective operations.
 
-Each side has its own rate. Changing and changing back belongs with relation between those rates, including when a self is receiving a parity and when each side lets go. A sampling interval a field chooses describes instrument. It leaves coupling's own changing to express with its surface. An event-based vision sensor already has a parity with a working instrument: each pixel gives an ON or OFF event, with no frame and with its own momentary, only when its log intensity rises or falls past a threshold, a changing or not-changing and no size. Its threshold is a size beside that parity, instrument's own, and each event's record holds it. [Gallego and colleagues, *Event-based Vision: A Survey*](https://arxiv.org/abs/1904.08405).
+Each side has its own rate. Changing and changing back belongs with relation between those rates, including when a self is receiving a parity and when each side lets go. A sampling interval a field chooses describes instrument. It leaves coupling's own changing to express with its surface. An event-based vision sensor already has a parity with a working instrument: each pixel gives an ON or OFF event, with no frame and with its own moment, only when its log intensity rises or falls past a threshold, a changing or not-changing and no size. Its threshold is a size beside that parity, instrument's own, and each event's record holds it. [Gallego and colleagues, *Event-based Vision: A Survey*](https://arxiv.org/abs/1904.08405).
 
 Hysteresis, backlash, stiction, transition to turbulence, magnetic saturation, buckling and phase change remain a field's addresses. Each supplies its particular question: another path on each approach, history remaining, available motion, and receiving with a transition. These terms hold distinct behavior; their entry retains particular changing with its actual operation.
 
@@ -2202,7 +2202,7 @@ Each entry: **Ring relation** · *a* Going, in numbers
 
 A station label returning to zero leaves complete path's goings intact. Engineering correspondence holds actual sharing, receiving and co-discovering with those turns; ring number supplies no phase, prefix depth or executing instruction.
 
-With Exhibit ONE's code, selves coupling along, last to first, come to their parities again and to a momentary once, each step adding a next: a spiral, winding on. An odd spiral of n selves has one like pair; a 0 a like pair's self shares moves one self on with each second momentary, its pattern inverting once that 0 passes each self, and its parities again after twice, with 4n. An even spiral changes and changes back, each self opposite its next. For a spiral of five opening with no prior, selves one to five share 0 with momentaries 6, 8, 10, 12 and 14, their pattern inverting with 15 and their parities again with 25. A field's own ring, a superconducting ring or a benzene ring, is a field's, and numbers' podaling rings are Natural Numbers'.
+With Exhibit ONE's code, selves coupling along, last to first, come to their parities again and to a moment once, each step adding a next: a spiral, winding on. An odd spiral of n selves has one like pair; a 0 a like pair's self shares moves one self on with each second moment, its pattern inverting once that 0 passes each self, and its parities again after twice, with 4n. An even spiral changes and changes back, each self opposite its next. For a spiral of five opening with no prior, selves one to five share 0 with moments 6, 8, 10, 12 and 14, their pattern inverting with 15 and their parities again with 25. A field's own ring, a superconducting ring or a benzene ring, is a field's, and numbers' podaling rings are Natural Numbers'.
 
 <a id="superconducting-ring-receiving"></a>
 
@@ -2309,7 +2309,7 @@ Each entry: **Source property** · *a* Receiving it states
 
 **Receiving during a transition holds next discovering.** Ongoing comparison includes signal routing, reverse-noise receiving, thermal returning and behavior during a route shift. Conditional source result retains its selection within that comparison. Whole-apparatus loss, added noise, control input, cooling and receiving with no interruption remain their own engineering questions. A physical arrangement sharing with this coupling remains bi-momentarying; next arrangement goes on with receiving shifting.
 
-**Bi-momentarying, co-competencing and co-intelligencing remain inseparable while changing and changing back.** Bettering, fastering and cheapering retain full routing and returning, with each side's own going on. Four port labels, three junctions, a control-phase turn and sixteen momentaries are of distinct operations. Their relation to bi-folding, co-tunnelling and full 0–440 span remains with actual co-chaining alongside Numbers and Mathematics.
+**Bi-momentarying, co-competencing and co-intelligencing remain inseparable while changing and changing back.** Bettering, fastering and cheapering retain full routing and returning, with each side's own going on. Four port labels, three junctions, a control-phase turn and sixteen moments are of distinct operations. Their relation to bi-folding, co-tunnelling and full 0–440 span remains with actual co-chaining alongside Numbers and Mathematics.
 
 Arithmetic co-chains with these numbers as they stand:
 

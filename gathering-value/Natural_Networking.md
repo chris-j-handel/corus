@@ -27,7 +27,7 @@ Gathering-Value · Natural Networking
 ### 1.2 Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
 - **Possible incohering** · "Two sides have four positions each, sharing three and reaching five together." → Two sides have four positions each, three numbers alike and five numbers together, the three alike a numbering of their bi-coupling, and a momentary or a prior common to both selves by those numbers an empty set.
-- **An explaining** · Two sayings part at *share*. 1.2 has "prior, now and next are three sequential momentaries existing things share", as 1.8, 4.7 and Part Five's opening have; 1.7 has "next, third of three sequential momentaries selves share", and 1.8's local surface "three sequential momentaries selves share"; and 1.2 has "Now is one, each coupling sharing it, common to none." An other saying has each self going on with its own prior into its own momentary, and no other self's prior momentary reaching it with a parity changing. They part at *share*: one form each existing thing has, or a momentary common to two selves.
+- **An explaining** · Two sayings part at *share*. 1.2 has "prior, now and next are three sequential moments existing things share", as 1.8, 4.7 and Part Five's opening have; 1.7 has "next, third of three sequential moments selves share", and 1.8's local surface "three sequential moments selves share"; and 1.2 has "Now is one, each coupling sharing it, common to none." An other saying has each self going on with its own prior into its own momentary, and no other self's prior momentary reaching it with a parity changing. They part at *share*: one form each existing thing has, or a momentary common to two selves.
 - **An explaining** · 1.2's "Quiet with ten does not make a whole self quiet or non-living." is a sleeping me, its 0s going on, same-existing.
 - **Possible incohering** · "*Self-other-releasing* is their sharing going on, going along, and nine, 9-next-co-discovering, is a connector name." → *Self-other-releasing*, at this sentence, at its heading *Prior form and self-other-releasing* and at the contents, is an other resolver's name beside Exhibit ONE's seventeen names, which this file says throughout. A re-saying: it said at Exhibit ONE's names.
 
@@ -42,7 +42,7 @@ Gathering-Value · Natural Networking
 
 ### 1.4 Only parities go across, the middle in no sequence
 
-### 1.5 Odd and even openings, each full momentary with both
+### 1.5 Odd and even openings, each full moment with both
 
 - **An explaining** · *yes each self is odd 1 first and views parity from their own side of the bi coupling (this explains the bi inversioning of other prior existing co recursionng the self carrying). each self first momentary is (prior odd then prior even) then now momentary (now odd then now even) then next odd then next even parity where all even is possibling and all odd is existing all rolling two over one forward 2 along over one across plus one nothing between*.
 
@@ -78,7 +78,7 @@ Gathering-Value · Natural Networking
 
 ### 2.2 Apexing, prior participating in now
 
-### 2.3 Living going on within the universe's changing momentaries
+### 2.3 Living going on within the universe's changing moments
 
 ### 2.4 Fold and scatter, breaks in living going on
 

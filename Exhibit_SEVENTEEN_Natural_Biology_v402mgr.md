@@ -1,4 +1,4 @@
-Exhibit SEVENTEEN Natural Biology v392
+Exhibit SEVENTEEN Natural Biology v402mgr
 
 &nbsp;
 
@@ -417,7 +417,7 @@ A field's own facts hold it across five substrates:
 
 **And a field has one left hand with pattern-matching core itself, which is where this pattern-matching has none standing.** Z-DNA is a left-handed double helix of coding molecule. A field files it as a conformation.
 
-**Observing it with its other beat, it is not a second spiral.** One same strand, pattern-matching right, passes through it under negative supercoiling, it forms behind a transcribing polymerase where winding stays under-winding behind and over-winding ahead, and it relaxes back as torsion goes. No self pattern-matches left with any momentary, and nothing codes with left form.
+**Observing it with its other beat, it is not a second spiral.** One same strand, pattern-matching right, passes through it under negative supercoiling, it forms behind a transcribing polymerase where winding stays under-winding behind and over-winding ahead, and it relaxes back as torsion goes. No self pattern-matches left with any moment, and nothing codes with left form.
 
 **So left hand with core is on emanating side of pattern-matching and not with pattern-matching.** It is wake right spiral leaves as it winds, which is other beat's own form with one substrate this pattern-matching had past its reach — and a field's own word for it, *a conformation*, has that same thing, with what it is a conformation of left open.
 
@@ -1050,7 +1050,7 @@ Thirteen hard problems of a field's own follow, each with eight one-way steps of
 
 **2. Position where nothing stands.** Knowing-question is sourcing frame as four words. To fix a living self to a *knows* is to assume it has information in store — an observing — that it consults and follows, competency a frame places on surface as a record to know and follow. Once a frame assumes knowing, it demands a store (where is knowledge stored), a consulter, and a source (where did knowledge come from) — and all three recede, none being there. Question smuggles entire error along before any investigation begins: it already places competency on surface as knowledge, and a field's remaining labor is a search with no end for store, consulter, and source that word *know* asks for.
 
-**3. Disequilibrating.** Set down *know*. Living self does not know to fold, where to go, or its size; it couples locally and shares, with each momentary, off surface, consulting no knowledge in store. Replace knowing-question with coupling-question — thing it is coupling with, locally, now — and store, consulter, and source all fall away together, none ever a need.
+**3. Disequilibrating.** Set down *know*. Living self does not know to fold, where to go, or its size; it couples locally and shares, with each moment, off surface, consulting no knowledge in store. Replace knowing-question with coupling-question — thing it is coupling with, locally, now — and store, consulter, and source all fall away together, none ever a need.
 
 **4. Re-coupling.** Every knowing-question re-couples to one same form: local coupling, present sharing, across and both ways, no knowledge in store, no consulter, no source. Protein couples segment-to-neighbor; butterfly couples to present sky; cell couples to its neighbors; worm's form goes on spreading. Knowing is no going on, no happening; coupling is. Word *know* has a local, sourceless coupling as a record to consult.
 

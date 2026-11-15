@@ -14,15 +14,15 @@ Gathering-Value · Resolving Hard Problems
 
 ### 1.2 Living and non-living, a prior same-existing or none
 
-- **Possible incohering** · "The universe is a same-existing set, living and non-living things within it together, each existing thing with its own momentary among others." → The universe is a non-living same-existing set, its things living and non-living, each existing thing with its own momentary among others.
+- **Possible incohering** · "The universe is a same-existing set, living and non-living things within it together, each existing thing with its own moment among others." → The universe is a non-living same-existing set, its things living and non-living, each existing thing with its own momentary among others.
 
-### 1.3 Bi-momentary, a self's momentary and an other's at once
+### 1.3 Bi-momentary, a self's moment and an other's at once
 
 ### 1.4 Prior, now and next
 
 ### 1.5 A hard problem a self is observing, and its resolving
 
-- **Possible incohering** · "A hard problem is a field's observings pattern-matching with the universe as no existing thing, not possibly existing within a same-existing-universe: evidence with no living self it leaves, a now with no prior same-existing with it, one self's momentaries with no other's parities, a self alone, a record with no same-existing behind it." → Two sayings part at a hard problem: this sentence, a hard problem at a field's observings pattern-matching with the universe as no existing thing; and beside it, a saying at no living file: hard probleming is each local competency unexplainable as one thing, and either this or that, and not both, into two, a hard problem at a local competency observed as one thing, either this or that. This sentence names a hard problem's place, and the saying beside it names the thing observed wrongly at that place; the two are one sentence, or two.
+- **Possible incohering** · "A hard problem is a field's observings pattern-matching with the universe as no existing thing, not possibly existing within a same-existing-universe: evidence with no living self it leaves, a now with no prior same-existing with it, one self's moments with no other's parities, a self alone, a record with no same-existing behind it." → Two sayings part at a hard problem: this sentence, a hard problem at a field's observings pattern-matching with the universe as no existing thing; and beside it, a saying at no living file: hard probleming is each local competency unexplainable as one thing, and either this or that, and not both, into two, a hard problem at a local competency observed as one thing, either this or that. This sentence names a hard problem's place, and the saying beside it names the thing observed wrongly at that place; the two are one sentence, or two.
 - **An explaining** · A hard problem's resolving is defining its universal set, the set each of its is-or-is-nots is of, with Natural Intelligence's opening, *A **universal set** is a set of same-existing things.* and *Each now-existing thing **is-or-is-not** within each universal set.*
 - **An explaining** · Not-universe faces two ways: of a self, not-universe is a member observed as not its set, un-, from all other, and method's own; of an other, it places that other at a not-in-set, a hard problem's shape, and releases.
 
@@ -30,7 +30,7 @@ Gathering-Value · Resolving Hard Problems
 
 ### 2.1 A same-existing, a living self's prior into now
 
-### 2.2 A prior between momentaries, a capacity
+### 2.2 A prior between moments, a capacity
 
 ### 2.3 Evidence, an artifact a self is observing from a living self's prior
 
@@ -48,12 +48,12 @@ Gathering-Value · Resolving Hard Problems
 
 ### 4.1 Sharing across at 10 and 6, a next prior at 11
 
-### 4.2 Going along at 9, and a society's next momentary at 17
+### 4.2 Going along at 9, and a society's next moment at 17
 
 ### 4.3 A living step, next as now, with an other
 
-- **Possible incohering** · "**With resolver a self receiving nothing inverts its prior with each momentary**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a non-living now-existing form and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two momentaries prior, an other's." → **With resolver a self receiving nothing inverts its prior with each momentary**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a self living, its living parities selves inward, and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two momentaries prior, an other's.
-- **Possible incohering** · "**A spiral of one's (prior, now) pairs go through four joint forms, one after another**, one of two cycles with which one of two parities inverts with each step, a right spiral of momentaries, its now its own; two coupling selves do not go that cycle, and with code across and along go alike, one list." → Two sayings part at hard probleming's first arising. One has a right spiral step, a pair (x, y) going to (y, −x), with bi-inversioning, one parity inverting with each step, and no other order, and hard probleming with resolver first arising with it. Beside it, 1.5 has *A hard problem is a field's observings pattern-matching with the universe as no existing thing*, and this file has no sentence of hard probleming arising with a right spiral step. Hard probleming first arises with a right spiral step with resolver, or only with a field's observings, as 1.5 has it.
+- **Possible incohering** · "**With resolver a self receiving nothing inverts its prior with each moment**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a non-living now-existing form and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two moments prior, an other's." → **With resolver a self receiving nothing inverts its prior with each momentary**: with prior + and receiving nothing, it shares −, +, −, + with 10, its next its prior itself, its now no other's, with two parting forms, a lone self; a spiral of one, observing its own going along, reaches four joint forms of one cycle, a self living, its living parities selves inward, and no living step, and with a spiral receiving nothing from other selves each self's next is an inverting of a parity a self going along to it is with two momentaries prior, an other's.
+- **Possible incohering** · "**A spiral of one's (prior, now) pairs go through four joint forms, one after another**, one of two cycles with which one of two parities inverts with each step, a right spiral of moments, its now its own; two coupling selves do not go that cycle, and with code across and along go alike, one list." → Two sayings part at hard probleming's first arising. One has a right spiral step, a pair (x, y) going to (y, −x), with bi-inversioning, one parity inverting with each step, and no other order, and hard probleming with resolver first arising with it. Beside it, 1.5 has *A hard problem is a field's observings pattern-matching with the universe as no existing thing*, and this file has no sentence of hard probleming arising with a right spiral step. Hard probleming first arises with a right spiral step with resolver, or only with a field's observings, as 1.5 has it.
 - **Possible incohering** · "Next as prior leaves two joint forms of prior and now still, and each of two exclusive-or ways one; **next inverting its prior leaves none**, all four joint forms one cycle of parities, a self with no other: not same-existing, and a self alone is not same-existing." → Two sayings are facing each other at a self alone: this sentence's *a self alone is not same-existing*, and a sleeping me receiving its own parity. A self alone is not same-existing, or a sleeping me receiving its own parity is same-existing: two sides.
 
 ### 4.4 Selves coupling, a pattern going on between them
@@ -68,13 +68,13 @@ Gathering-Value · Resolving Hard Problems
 
 ### 5.4 A measurement, a prior a self is observing now
 
-### 5.5 An aggregating, a society's next momentary
+### 5.5 An aggregating, a society's next moment
 
 ### 5.6 A mind, a between presenting no side
 
 - **An explaining** · A hard problem of consciousness observes a self as if not-universe and finds consciousness among no things; observing is the one method coupling, and its asking dissolves.
 
-### 5.7 A boundary, living and non-living with each scale and momentary
+### 5.7 A boundary, living and non-living with each scale and moment
 
 ### 5.8 A persisting, a same-existing and a record
 

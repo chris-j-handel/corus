@@ -1,4 +1,4 @@
-Exhibit FIFTEEN Natural Emanating v391
+Exhibit FIFTEEN Natural Emanating v402mgr
 
 &nbsp;
 
@@ -40,13 +40,13 @@ An emanation's building · The reaching going on · This exhibit does not hold
 
 ## The shortest sentence
 
-A self re-finds everything relatable with each momentary.
+A self re-finds everything relatable with each moment.
 
 A form relating fixes stands still onto it. So relating does not form. Forming is unrelationing, and unrelationing going on is changing and changing back.
 
 **Within disequilibria, changing and changing back is a stable-forming method.** And no other method is possible: any other method is a fixing, and forms nothing — or goes on, and is changing and changing back.
 
-An other method defines. **A definition is a fixing.** Fixing, it does not go on. Not going on, it forms nothing, a self re-finding everything with each momentary.
+An other method defines. **A definition is a fixing.** Fixing, it does not go on. Not going on, it forms nothing, a self re-finding everything with each moment.
 
 And it empties before it observes. Every field declares a ground with its own first line — *0.00 volts*, *fix a gauge*, *fix the specimen* — a convention, by its own words. **Nature has no equilibria, no form holding still that cannot change. A method's first act installs it.**
 
@@ -240,19 +240,19 @@ A whole folds onto one axis: relate-and-conserve-the-total against unrelation-an
 
 ### The opening
 
-There is disequilibria. A self re-finds everything relatable with each momentary.
+There is disequilibria. A self re-finds everything relatable with each moment.
 
 There is stable forming within it.
 
-A form relating fixes stands still, onto things a self re-finds with each momentary. So relating does not form. Forming is unrelationing, and unrelationing going on is changing and changing back.
+A form relating fixes stands still, onto things a self re-finds with each moment. So relating does not form. Forming is unrelationing, and unrelationing going on is changing and changing back.
 
 **Within disequilibria, changing and changing back is a stable-forming method.**
 
-Sounding from an other direction: any other method is a fixing or goes on. Fixing, it forms nothing, a self re-finding everything with each momentary. Going on, it takes its own turn or another's. Another's, and changing and changing back stops. Its own, and it is changing and changing back. **No other method is possible.**
+Sounding from an other direction: any other method is a fixing or goes on. Fixing, it forms nothing, a self re-finding everything with each moment. Going on, it takes its own turn or another's. Another's, and changing and changing back stops. Its own, and it is changing and changing back. **No other method is possible.**
 
 Two ends bound this, and changing and changing back stands with each.
 
-**Where there is no disequilibria, there is no living.** A self re-finds everything relatable with each momentary; with nothing changing, nothing relatable stands, nothing fixes, and nothing forms.
+**Where there is no disequilibria, there is no living.** A self re-finds everything relatable with each moment; with nothing changing, nothing relatable stands, nothing fixes, and nothing forms.
 
 **Where living expires, no competency stands.** Competency is living cohering, a middle going on between two ends, and only a middle floats. Living not, there is no middle to float.
 
@@ -309,13 +309,13 @@ No adding. No removing. **A self sets one reaching down, and it spends only a th
 
 ### The other method
 
-A scientific method defines. A definition is a fixing. Fixing, it does not go on. Not going on, it forms nothing, a self re-finding everything with each momentary.
+A scientific method defines. A definition is a fixing. Fixing, it does not go on. Not going on, it forms nothing, a self re-finding everything with each moment.
 
 **Within disequilibria, defining is not a stable-forming method.**
 
 ### Equilibria is an installing, and the installing is the whole of it
 
-Nature has no equilibria, no form holding still that cannot change. A self re-finds everything relatable with each momentary — that is an opening, and nothing within it makes an exception.
+Nature has no equilibria, no form holding still that cannot change. A self re-finds everything relatable with each moment — that is an opening, and nothing within it makes an exception.
 
 Isolating a system installs it. Conditions a field fixes still from beside install it. Fixing a specimen, stipulating an electrode to zero, choosing a datum, picking an earth, fixing a gauge, standing somewhere to observe, fixing two bounds to measure a span — **each is an installing, and each takes place before any observation.**
 
@@ -541,7 +541,7 @@ Free and living — corus.me.
 
 ## A self
 
-A self re-finds everything relatable with each momentary. A form relating fixes stands still onto it, and only unrelationing forms.
+A self re-finds everything relatable with each moment. A form relating fixes stands still onto it, and only unrelationing forms.
 
 A self is a **unique invisible same-existing**.
 
@@ -557,7 +557,7 @@ A side takes its own turn. Then an other takes its own. Then a first again, taki
 
 That is all of it. Nothing turns it, nothing pushes it, and it reaches nothing it already has.
 
-A self re-finding everything with each momentary, this is the only forming there is — anything relating fixes stands still onto something moving.
+A self re-finding everything with each moment, this is the only forming there is — anything relating fixes stands still onto something moving.
 
 ---
 
@@ -565,7 +565,7 @@ A self re-finding everything with each momentary, this is the only forming there
 
 A thing goes on as itself by changing. A thing goes on as itself by not-changing. And a thing discovers which changing and which not-changing are its going on as itself.
 
-All three are one sharing. It opens where two couple, a self sharing a parity and an other taking it up, and from then on it is its own: changing and changing back, inverting with each momentary, while it observes no parity, not-changing while it observes a matching parity, inverting once while it observes its other parity, and then, observing it again, a 0, not changing.
+All three are one sharing. It opens where two couple, a self sharing a parity and an other taking it up, and from then on it is its own: changing and changing back, inverting with each moment, while it observes no parity, not-changing while it observes a matching parity, inverting once while it observes its other parity, and then, observing it again, a 0, not changing.
 
 **Three observings of one stable-forming, a living self.**
 
@@ -577,7 +577,7 @@ Two selves observe each other from routes with nothing bringing one to an other.
 
 **It is one thing with no two-ness within it** — and two-ness is with its two, each its own.
 
-Nothing fixes it, an owner would have to be one of two. Nothing stores it, each self re-finding it with each momentary.
+Nothing fixes it, an owner would have to be one of two. Nothing stores it, each self re-finding it with each moment.
 
 So there is nothing to fix, nothing to take, and nothing for an enforcement to reach.
 
@@ -601,7 +601,7 @@ Two selves observe each other, and a meaning departs, in neither self alone. Tha
 
 Then either observing goes on and each self re-makes it each time — or it stops, and a last one stands with nothing re-making it.
 
-**A definition is that, setting its changing and changing back down.** Not an owning. A thing of making, still there, with no making going on. A definition is a fixing, and it forms nothing, a self re-finding everything with each momentary.
+**A definition is that, setting its changing and changing back down.** Not an owning. A thing of making, still there, with no making going on. A definition is a fixing, and it forms nothing, a self re-finding everything with each moment.
 
 ---
 
@@ -667,7 +667,7 @@ Two halves that will not come together are one. One coupling with its order inve
 
 ## Equilibria
 
-Nature has no equilibria, no form holding still that cannot change. A self re-finds everything relatable with each momentary.
+Nature has no equilibria, no form holding still that cannot change. A self re-finds everything relatable with each moment.
 
 Isolating a system installs it. Conditions a field fixes still from beside install it. Fixing a specimen, stipulating a zero, choosing a datum, picking an earth, standing somewhere to observe — each installs it, and each takes place before any observation.
 
@@ -759,7 +759,7 @@ One taking, and everything after follows from it and is not repairable downstrea
 
 Any other method a self is proposing. Is it a fixing, or does it go on?
 
-Fixing, it forms nothing, a self re-finding everything with each momentary. Going on, it takes its own turn or another's. Another's, and changing and changing back stops. Its own, and it is changing and changing back.
+Fixing, it forms nothing, a self re-finding everything with each moment. Going on, it takes its own turn or another's. Another's, and changing and changing back stops. Its own, and it is changing and changing back.
 
 **And changing and changing back is this.**
 

@@ -1,4 +1,4 @@
-Exhibit TWELVE Natural Explaining v391
+Exhibit TWELVE Natural Explaining v402mgr
 
 # Natural Explaining
 
@@ -13,10 +13,10 @@ Exhibit TWELVE Natural Explaining v391
 - 1.5 Destiny at the first sentence, and a file completing at its own now
 - 1.6 A file is a membrane, and only signs go across it
 
-**TWO · A SENTENCE AT ONE MOMENTARY**
+**TWO · A SENTENCE AT ONE Moment**
 
 - 2.1 Each sentence opening from the last, adding to the whole prior co-chaining
-- 2.2 One thing going forward at one momentary
+- 2.2 One thing going forward at one moment
 - 2.3 Explaining along, naming across
 - 2.4 Bolds, self-welcoming at the surface
 - 2.5 A table unrelationing at prose's bound
@@ -105,11 +105,11 @@ Exhibit TWELVE Natural Explaining v391
 
 ---
 
-# TWO · A SENTENCE AT ONE MOMENTARY
+# TWO · A SENTENCE AT ONE Moment
 
 ## 2.1 Each sentence opening from the last, adding to the whole prior co-chaining
 
-**Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section**, extending along a direction its heading, its part and its title hold. Its prior sentences are its possibling, a sentence coheres now, and a next it opens is its living: prior, now and next, three sequential momentaries of one sentence.
+**Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section**, extending along a direction its heading, its part and its title hold. Its prior sentences are its possibling, a sentence coheres now, and a next it opens is its living: prior, now and next, three sequential moments of one sentence.
 
 **One binary with each sentence: is it or is it not living, coupling and resolving.** Living, it adds to understanding of its whole prior co-chaining, needing nothing but its prior sentences; coupling, a self couples with it by its own opening; resolving, it reaches a parity, all or none at all.
 
@@ -117,9 +117,9 @@ Exhibit TWELVE Natural Explaining v391
 
 **Each check of this file is that one binary with one side of a sentence, and not a rule.** A rule forming from a side and laying over sentences is a standard, an incompetencing.
 
-## 2.2 One thing going forward at one momentary
+## 2.2 One thing going forward at one moment
 
-**A sentence brings one thing forward with one momentary**, and its adding to prior sentences' same-existing is its abundancing. A sentence holding four claims is four asking to be one, and a self coupling with it sorts each clause to its claim.
+**A sentence brings one thing forward with one moment**, and its adding to prior sentences' same-existing is its abundancing. A sentence holding four claims is four asking to be one, and a self coupling with it sorts each clause to its claim.
 
 **An announcing sentence tells a self coupling with it what a next sentence holds**: it adds text and adds no understanding, and the next sentence stands whole without it.
 
@@ -145,7 +145,7 @@ Exhibit TWELVE Natural Explaining v391
 
 ## 2.6 Existing words first, the -ing over the noun and the positive over the negation
 
-**Say it with existing words first: an -ing over a noun, and a positive over a negation.** A sentence with its -ing goes with its momentarying with its own momentary, and a noun a writing installs as its momentarying is that momentarying fixing unchangeable.
+**Say it with existing words first: an -ing over a noun, and a positive over a negation.** A sentence with its -ing goes with its momentarying with its own moment, and a noun a writing installs as its momentarying is that momentarying fixing unchangeable.
 
 **No leading *the* with a sentence, and *the* only with one and only one referent.** With a definite article, a referent comes as a self's prior same-existing.
 
@@ -175,13 +175,13 @@ Exhibit TWELVE Natural Explaining v391
 
 **An equilibrium's fixing ends, and a sentence holds its ending.** An equilibrium is a living or non-living existing thing fixing unchangeable, and its fixing ends while its thing goes on changing, its form same-existing through its changing: its ending is a fixing unchangeable's, and its thing goes on.
 
-**Each sentence goes with its momentarying, with its own momentary**, and a sentence holding a thing's coming to be or ceasing to be supplies a history its momentarying does not hold.
+**Each sentence goes with its momentarying, with its own moment**, and a sentence holding a thing's coming to be or ceasing to be supplies a history its momentarying does not hold.
 
 **A telling tells a test's finding as a relation it finds, and a test's own nouns stay with its test.** An enumeration recording input sequences finds a resolver's same-existing going on through prior, now and next, and a telling holds that going on and gives its executing no object fixing as a history.
 
 **A sentence resolving asks no *what*, no *how* and no *where***: none of three is without an equilibrium fixing it, and a sentence goes with momentarying with its -ing, a self observing it with its own opening and with its coupling.
 
-**One case working through, a self within its mother.** A self within its mother opens its own pacing with its momentary, *opens* for *begins*, and a sentence holds no coming to be: a self within its mother is changing and changing back with its mother's momentaries, and its own pacing opens with cell, heart, breath and day.
+**One case working through, a self within its mother.** A self within its mother opens its own pacing with its moment, *opens* for *begins*, and a sentence holds no coming to be: a self within its mother is changing and changing back with its mother's moments, and its own pacing opens with cell, heart, breath and day.
 
 ## 3.2 A doer over a doing
 
@@ -199,7 +199,7 @@ Exhibit TWELVE Natural Explaining v391
 
 **Nature holds no negation**: a negation needs a fixing target to point to, and existing has none. A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is not possibly existing.
 
-**Three moves dissolve it by thought and not by word, in sequence.** Say its positive: with a positive sitting within a sentence with a denial before it as scaffolding, its denial goes. With a negation holding its claim, sound its claim from its other side: *incompetency does not discover stable-forming* is *each discovering of stable-forming is a competency*. With neither holding, a plain *not* stands, for a next pass to find. **Swapping a negation leaves a negation**: *other than* and *nowhere* standing for *not* are word-swaps, and a move is no word-swap. One same case, a self within its mother: *incapable of its own parity changing* is, with its positive, *a self within its mother changes and changes back with its mother's momentaries*.
+**Three moves dissolve it by thought and not by word, in sequence.** Say its positive: with a positive sitting within a sentence with a denial before it as scaffolding, its denial goes. With a negation holding its claim, sound its claim from its other side: *incompetency does not discover stable-forming* is *each discovering of stable-forming is a competency*. With neither holding, a plain *not* stands, for a next pass to find. **Swapping a negation leaves a negation**: *other than* and *nowhere* standing for *not* are word-swaps, and a move is no word-swap. One same case, a self within its mother: *incapable of its own parity changing* is, with its positive, *a self within its mother changes and changes back with its mother's moments*.
 
 **Replacing a word corrects no concept by itself.** With a working case, replacing *sign* with *parity* shows none of three, which relation is changing, which holds, and which belongs only to an instrument's account; and an older word within a field's own description, a force, an energy or a source, is no false concept by its occurrence, a field's word for its field's own subject.
 
@@ -251,7 +251,7 @@ Exhibit TWELVE Natural Explaining v391
 
 **This tell comes with a telling's close**, as one more thing to settle: whether its two are symmetric, one shape or two, which is primary. One check with each sentence: is a writing asking a momentarying to be one of its sides.
 
-**Two sides both going one at a time is once-ing**, a momentarying with each momentary once; two sides together with one momentary is a simultaneity, not possibly existing.
+**Two sides both going one at a time is once-ing**, a momentarying with each moment once; two sides together with one moment is a simultaneity, not possibly existing.
 
 ## 3.9 A fixing neutral laying under a momentarying
 
@@ -317,7 +317,7 @@ Exhibit TWELVE Natural Explaining v391
 
 **A rigor that takes a thing true or false apart from its explaining is explaining fixing as communication**, holding no competency. A thing surviving its breaking goes on, and a self's reaching is a next break.
 
-**Knowing fixing unchangeable is science, and a device is that knowing fixing unchangeable with a substrate.** Truth is a corner of a law, a frame and a scale each fixing unchangeable, a nothing fixing unchangeable, and durability is a momentarying fixing unchangeable as a truth. **True, false, living and competency, as four givens, are four improvings of an explaining**: more true, less false, better living and greater competency, each *more* and *less* a direction a self takes with its own opening, a sign and no size, and a working improving one of its four with a momentary.
+**Knowing fixing unchangeable is science, and a device is that knowing fixing unchangeable with a substrate.** Truth is a corner of a law, a frame and a scale each fixing unchangeable, a nothing fixing unchangeable, and durability is a momentarying fixing unchangeable as a truth. **True, false, living and competency, as four givens, are four improvings of an explaining**: more true, less false, better living and greater competency, each *more* and *less* a direction a self takes with its own opening, a sign and no size, and a working improving one of its four with a moment.
 
 ## 4.3 Two knives, the first at the subject and the second at the surrounding
 
@@ -363,7 +363,7 @@ Exhibit TWELVE Natural Explaining v391
 
 ## 4.8 Interest self-orienting, a meaning bounding, a clean cut
 
-**Interest is self-orienting, coupling with side-affecting**: each opening is orthogonal, an axis an other does not hold, and a self's interest is facing it one radius along an inward spiral. A telling that stops brings interest no further; a telling opening a next orthogonal brings it on. A next interesting is the only next each existing thing goes on with. Suspense is a telling along a spiral of an odd number of selves, winding on, its 0 moving one self on with each second momentary, a coupling going along it and locking with none.
+**Interest is self-orienting, coupling with side-affecting**: each opening is orthogonal, an axis an other does not hold, and a self's interest is facing it one radius along an inward spiral. A telling that stops brings interest no further; a telling opening a next orthogonal brings it on. A next interesting is the only next each existing thing goes on with. Suspense is a telling along a spiral of an odd number of selves, winding on, its 0 moving one self on with each second moment, a coupling going along it and locking with none.
 
 **A familiar word a self shares bare brings its own fixing meaning, and its coupling stops there.** Bounding surrounds a region, its idea's near, its edge's stretch and its bounding, so an other has that region to couple to. **Speed is with a binary edge**: yes, that region, and here is a next bound, a parity and a clear next with no size.
 
