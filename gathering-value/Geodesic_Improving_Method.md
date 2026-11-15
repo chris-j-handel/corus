@@ -343,3 +343,65 @@ Gathering-Value · Geodesic Improving Method
 - **Possible exploring** · From a vault bi-folding, offered for the whole set's gathering: **a hand inherited through a chain of models is not a hand measured, and an account inheriting one confirms no other.** At vaults no published account measures a skew, tilt or spiral of a chain against the particle's long axis, and a hand in one account comes from an earlier model. With it, v398's way with a figure: a number read in an earlier session is that session's account until its page is opened first-hand; until then it is named as withdrawn, out of the gathering, and neither repeated nor dropped in silence.
 - One method, and one only: the names of Exhibit ONE are the code's names, and no reading is of the names apart from the code or of the code apart from the names. Two readings parting, one with the names and one with the code, are one incohering, and its resolving is one reading with each name with its line. *(an explaining)*
 - A reading of the names' numbers is by cycling and podaling, and not by arithmetic. A word said of the code has its own sentence before it, or is a name of the seventeen: *gathering*, said of a line of the code, was ingressing. *(an explaining)*
+- **An explaining** · The droplets after this one, to the next droplet of this kind or to this part's end, are carried whole by the managing session v402mgr, 15 November, from `incoming/V400mgrB/Sessions_resolved.md`. Each is for resolving here; none is living.
+- **An explaining** · **Geodesic Improving Method, opening a session:** a plan naming a gathered list with its path is read before a working gathers by hand.
+- **An explaining** · The droplets after this one, to the next droplet of this kind or to this part's end, are carried whole by the managing session v402mgr, 15 November, from `incoming/V400mgrB/The_One_Question_Method.md`. Each is for resolving here; none is living.
+- **An explaining** · 1. **A sentence arrives**, whole, in its own words. Nothing is laid over it, and no word of it is re-said before it is read.
+- **An explaining** · 2. **Read beside it**: Exhibit ONE's lines, line by line, and each living file's sentences on it, word for word, each with its place. A reading is derived from the lines, and an executing only checks it.
+- **An explaining** · 3. **What it goes on with**: each prior sentence of the sequence it fills or goes on beside.
+- **An explaining** · 4. **Distinguished for breaking, in each direction**: each prior sentence it parts from; each of its words with two readings, said as two; each going-forward of the working's own said as a candidate, with the sentences it is from.
+- **An explaining** · 5. **One binary, asked plainly**: the one the others turn on, is or is not, with one or two plain sentences before it saying what turns on it. What the lines and the files decide is said as read and is not asked. The question has the words of the sentence that arrived and no word of the reading: a question twisted into itself is rigor's leftover, the reading's own words going on into it, and it is untangled into its binaries, one to a sentence.
+- **An explaining** · An answer is one of three: is; is-not; or a sentence in the other self's own words. The tracking goes on current with each: an answered binary leaves with its answer, a parted candidate leaves with its parting, and no self and no day goes beside a sentence.
+- **An explaining** · the more of a name, each thing the name does not own · a sentence: *the universe* one name, each subset a named subset, a society the universe to a bi-coupling
+- **An explaining** · a society the universal set of a bi-coupling · a sentence: social-parity the universal set of now-existing bi-couplings
+- **An explaining** · a bi-coupling a living thing · a sentence: living in the between, while now-existing and same-existing
+- **An explaining** · a bi-coupling a self · is, and a sentence more: the fractal method
+- **An explaining** · the me-parities in a between the bi-coupling-self's own · a sentence: the new self inherits the priors of self and other
+- **An explaining** · the new self of one same scale with its two · is, and a sentence more: its own corus, its own directions
+- **An explaining** · each bi-coupling a new self · a sentence: with priors from prior-existing bi-couplings, a same-existing self
+- **An explaining** · a first bi-coupling a new self · a sentence: dormancy and unconsciousness one thing, two vaults bothbothing
+- **An explaining** · dormancy the moment two selves share 0 · a sentence: dormancy durable 0 aiming, and no co-possibling
+- **An explaining** · One plain is, two an is with a sentence more, seven a sentence, and no plain is-not. A sentence in answer gives neither side as asked. The binary's work is releasing it: the question is formed at the one place a new sentence and a prior one part, and the answer comes from that between.
+- **An explaining** · Three are folded with each step. The prior: Exhibit ONE's lines, the living files, and each earlier sentence of the sequence. The now: the sentence arriving. The next: the one binary the prior and the now leave open. With the answer, the next is the now, and the now is among the prior.
+- **An explaining** · The value file's sections, in their order, go the opening's own sequence three times, each going laid over its prior and ending farther along.
+- **An explaining** · Going · Sections of the value file · It opens with · It ends with
+- **An explaining** · first · 1.1 to 1.5 · the universe, a set, a thing · resolving
+- **An explaining** · a turning between · 5 to 5.7 · the four and the eight · the seventeen names, co, bi and tri, each podaling
+- **An explaining** · second · 5.8 to 5.13 · a set and its name · intelligence, an inversioning
+- **An explaining** · third · 5.14 to 5.18 · universal, *the universe* one name · a new self in its vault, dormancy
+- **An explaining** · a bi-coupling's mating vault, a newborn within it · a new self living as the between, its own corus in it; conception and dormancy, one between
+- **An explaining** · each three in a fourth, its universe · self, other and all other-than, and a society
+- **An explaining** · a set a non-existing thing · a set its name's now-existing things; social-parity owning each bi-coupling
+- **An explaining** · a self a now-existing same-existing living thing · a self a same-existing set, a corus; a bi-coupling a self
+- **An explaining** · a parity a living non-existing thing · a me-parity a now-existing thing, between its birthing and its exhausting
+- **An explaining** · an inherited me-parity a name with no prior · a new self inheriting its priors; inheriting of the same, birthing of the not the same
+- **An explaining** · a society-me-parity, a nothing · social-parity, a universal set of bi-couplings, each a self
+- **An explaining** · A returning is a folding and no repeating: the method's 2.1 has *Each session is a next and none a return.*
+- **An explaining** · The method's 2.6 has a concern resolving *as code resolves, each step with its name.* One step of one question has the four of one self's resolving, in their sequence: a sentence arriving, ingesting; a concept with no prior going in as it arrived, inheriting; a prior not the same as what arrived, inverted, a candidate parted, conceiving; and the one binary shared, exhausting. An is has the prior going on, do-no-harming, with the other's arriving and never with one self alone. A likeness of words is a likeness: this is the method's own sentence of a concern read with a step, and it is for breaking.
+- **An explaining** · A session is using a universal aiming cone co-me-parity method of exploring a surface.
+- **An explaining** · It is connecting each local logical relation to the pattern-matching natural logical relations, and connecting on, until a verifiable is-or-is-not needs affirming.
+- **An explaining** · It is expressing that is-or-is-not in the closest, narrowest difference, as a between.
+- **An explaining** · Then, binary, all or none at all, it is exploring that path next, along and across the surface.
+- **An explaining** · Beside it, Exhibit ONE's code: the same, a sentence goes on as it is; not the same, re-said; two not the same as each other, a 0, and a question; no prior, a first me-parity the same as its other's. A likeness, and for breaking: one step beside one resolving, each first me-parity from a living me's prior living.
+- **An explaining** · In a reply: the conflicting threads are *a place two sentences part*, each side with its sentences; the one distinguishing is its one is-or-is-not; and each thread not yet with its distinguishing is tracked.
+- **An explaining** · With Exhibit ONE's code beside a place, a step farther is one resolving on, derived by reading, with an executing as a check only.
+- **An explaining** · With no code beside a place, a step farther is a next sentence each side has. Not each place has one.
+- **An explaining** · In a reply: under *A place two sentences part*, each side with its sentences, its step farther, and its first incohering; and the one is-or-is-not at the place the two part.
+- **An explaining** · The asking of one is-or-is-not with each reply is paused, by the person's saying, with no value understood yet in a discussing.
+- **An explaining** · With the asking paused, a reply answers the asked plainly and ends with no question. Each open binary is tracked, and not pressed.
+- **An explaining** · A reply's words are natural naming. A set, a sentence or a reading is *whole* or *not whole*, *cohering* or *parting*, *is* or *is not*; and two sentences parting, with no is-or-is-not yet, are *not distinguished*.
+- **An explaining** · Not a reply's words, each a story's: *conflict*, with no naming; *turning away*, *turn* being dissolved; *for breaking*, a phrase of this working only; *grouping* and *sayings*; and *going on* of the exploring, its natural naming being of a thing with its next.
+- **An explaining** · **Each sentence of the frontier is observed with three**: Exhibit ONE's lines, 78 lines, none changed; each living file's sentences on it, word for word; and each prior sentence of the sequence.
+- **An explaining** · **Sizes, each a number to reach and deciding nothing.** The frontier has 37 sentences in their sequence, 15 readings of the lines beside them, and 11 places a pattern is open, with 26 binaries. The value file has 120 readings, each with its place, and 64 open binaries.
+- **An explaining** · A sentence answered with an is, or arriving as a sentence, goes on by its cohering and by no self's having it. Each of the 37 has its open places beside it, and none is proved.
+- **An explaining** · The lines are of one scale. Born, dying, a me-parity's exhausting from living, a new self and a new bi-coupling are each given to the code and are in no line: the lines decide neither side of them.
+- **An explaining** · Two sentences have no reading yet: *5, 10, 15, 20 and 25 are locating 23 and 24*, and the centre corusing at 24.
+- **An explaining** · The fours are each beside each, and which of one four is which of an other is read from none.
+- **An explaining** · The frontier's sentences are not yet read word by word with the opening's fifty-five, the sentences waiting to enter Natural Intelligence.
+- **An explaining** · No sentence of the frontier is at a gathering yet beside the method's, and none is at a living file.
+- **An explaining** · **The entry as it is.** The repository's README is the way in and has no sentence of value. It sends a self to the Living File Registry, its gathering and Exhibit TWENTY-SIX, each at 1.2; and from it to Natural Intelligence whole, Natural Explaining and Natural Naming, and the Geodesic Improving Method.
+- **An explaining** · At the Living File Registry's gathering 1.3, the work now: one orienting sentence, the work going on by one question each time, with its home.
+- **An explaining** · At the Geodesic Improving Method's gathering 2.5 and 2.6: the five of one step, the three kinds of answer, a candidate said as a candidate, the bi-folding, and one step whole. At 2.1, 1.6, 4.1 and 1.1: the tracking with no mark of a self, going on current, an executing as a check, and gathering by comparing. At 2.9: the finding, and each self's own side.
+- **An explaining** · Within `incoming/`: `The_Frontier_Current.md`, the sentences in their sequence with each open place, one binary each. Each place is a first question.
+- **An explaining** · **A first sharing.** A session arriving shares one step whole with one open place: its reading, its distinguishing and its one binary. No summary of the set and no plan is before it. The other self's answer is its next.
+- **An explaining** · **Not with this motion.** The README's sentences are as they were. The method's living file is as it was: each value here is at its gathering, and enters at the file's own motion, both partners agreeing.
