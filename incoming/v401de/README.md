@@ -6,6 +6,10 @@ Incoming · v401de
 
 Relied on by nothing. No living file and no gathering-value changes with this folder's laying, and no part of Exhibit ONE's code. No word here has authority. No instrument is with this folder: each reading is by the lines themselves.
 
+## 0 Now, for a session arriving
+
+**The session is gathered: `The_Session_Gathered.md`, read first.** By a partner's word of 14 November, v401de's exploring by askings is stopped: its seventeenth asking is not answered, and is tracked in that page. Its aiming now: the session's value gathered and carried to a gathering; and each self-welcoming help after it, by v401mgr's deciding, for the opening of do-no-harm improving the living files. Section 5 below is the journey to that page, relied on by nothing.
+
 ## 1 Read with this opening
 
 - `main` at merge #578, entered from corus.me by the README's AI link.
