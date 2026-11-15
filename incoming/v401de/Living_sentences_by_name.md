@@ -116,7 +116,40 @@ Natural Intelligence 4.15 has the second and the third of 1.2 in one section: "S
 - **The opening waiting, gathered and not living.** Its thirteenth, possibling as distinguishing a same-existing before a next-existing; and its twenty-fourth, a me-parity the same as an other's as other-parity, and not the same, universal-parity.
 - **By names, a suggesting's is of 13 November, by no authority.** 3 other-than and 4 same-as; 7 other-than and 8 same-as. By it each same-existing name is prior to the next observing name: 4 to 7, 8 to 11, 12 to 15, and 16, through 17, to the next 3.
 
-## 4 The edges
+## 4 Each number's three, and 32
+
+### 4.1 Each place
+
+- **The table of seventeen.** Exhibit ONE Natural Resolver, *Seventeen names*, has each name's three, 1 to 17. Natural Naming 3.3 has the same, each prior name by its number beside it.
+- **The rule, of each number.** Exhibit ONE: "Each name's first prefix is of an eight, co bi co bi co bi tri bi, with 1 to 8, bi-folding forward over 16 and 24 and 32 and beyond." and "Each name then has its three, a new prefix first and its name before's first two one slot on, in the order next, now, prior."
+- **A name past 17.** Natural Naming 3.4: sixteen up is its same name by a next round: "17 to 24 is a self's span again and 25 to 32 a same-existing-society's" Its two named: 22-now-co-possibling and 27-next-co-observing.
+- **32 by fours.** Natural Naming 5.50: "16, 32, 48 and 64 are four 16s, each four times its one inward" Exhibit ONE has 16, 32, 48 and 64 as 4, 8, 12 and 16 again.
+- **Exhibit THREE Natural Numbers** has no prefix in it, and one name past 17, 27-next-co-observing.
+
+### 4.2 By the rule, a form, deciding nothing
+
+No living table has the three of a number past 17. By the rule each is said, and the rule has each of the table's seventeen.
+
+- Each eighth, 8, 16, 24, 32 and on: bi-tri-bi. Each number 1 more: co-bi-tri. Each 1 fewer: tri-bi-co. Each other odd number: co-bi-co. Each other even number: bi-co-bi.
+- 25 to 32, by sixteen up and by the rule: 25-next-co-discovering, co-bi-tri; 26-next-co-possibling, bi-co-bi; 27-next-co-observing, co-bi-co; 28-next-co-same-existing, bi-co-bi; 29-next-discovering, co-bi-co; 30-next-possibling, bi-co-bi; 31-next-observing, tri-bi-co; 32-next-same-existing, bi-tri-bi.
+
+### 4.3 Beside a suggesting of 14 November with v401de, by no authority
+
+**The suggesting, re-said in natural naming.** 32 is 8 by 4. 8 is the fractal four-cycling of a self by its other-than-self, same-existing. 32 is one four-cycling more: a self, its other-than-self and all-selves; and the number of other-than-selves is not known.
+
+- **Whole.** 32 as four of 8: Natural Naming 5.50's sentence. The number of a self's others in no line: 16 has each number of selves.
+- **Parting.** By the rule 8 and 32 have one same three, bi-tri-bi. By the suggesting 8 is of two, and 32 of three.
+- **Out, v401de's own.** A society by 32 as of one added other.
+- **A name out, by a partner's own sentence after it.** *All-selves* is no natural naming; its binary is to find.
+
+### 4.4 The binary of it, by the living files and the lines
+
+- **The living opening, Natural Intelligence.** "For a self, each now-existing thing is-or-is-not within its me." and "A bi-coupling is a self." and "For a self, each self it is bi-coupling with is an other."
+- **A particular other, and all other as one.** Natural Naming 4.10: "Bi- couples with a particular other and uni- with all other, and both are two"
+- **By the code's lines themselves.** Each self is-or-is-not of 16, by 17's line of each self; and each bi-coupling is-or-is-not within 5. No line has a number of selves.
+- **By the sequence's own form, a candidate of v401de's own.** 4, me by other-than-me. 8, a self by its other-than-self. 32, the bi-coupling, a self, by its other-than-self: one binary, each self of it or other-than it, and no number.
+
+## 5 The edges
 
 - A match is of a name's letters: a sentence of a scale with no *scale* in it is not here, but the one of 1.2's fourth.
 - The four living files are not read whole. The seven of 1.2 are v401de's sorting, a candidate, deciding nothing.
