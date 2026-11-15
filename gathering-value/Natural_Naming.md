@@ -108,6 +108,7 @@ Gathering-Value · Natural Naming
 ### 3.3 Seventeen names, each three and each prior name with its number
 
 - **Possible incohering** · "co is self, bi is other and tri is all" → A concern by its two sides, of bi. One side, this sentence: bi is other. Its other side: bi is both, a me and an other self together, and bi is no other. A re-saying, a candidate: co is me, bi is both and tri is all. And of all reached from a me, a candidate: all is reached from a me only through both. Each droplet of this gathering file having bi as other or as other-parity in a name's three is read again by it: 16, bi-tri-bi, is all between both and both, and 12, bi-co-bi, is a me between both and both.
+- **Possible exploring** · is-or-is-not? Other-parity now-existing, the second of same-existing's five dimensions, is both-parity now-existing. Why it is open: the three parities are me-parity, both-parity and all-parity, and the five dimensions have other-parity, self-parity and social-parity in their names, in Exhibit ONE Natural Resolver, Natural Intelligence and this file.
 - **Possible exploring** · The table has 7 and 15 with a prior name *corusing*, and 8 and 16 *torusing*, a number of its own with each going. Beside it: a self's own corus is with 4, and 24, twenty up; 23 and 25 are corusing and torusing, bothbothing; and corusing is a going through the corus, with no spot and no number of its own named.
 - **An explaining** · 1-now-existing, 5-now-co-existing, 10-next-co-possibling, 15-next-observing and 17-next-existing have four betweens, and each between has its corus at its same-existing name: 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing. A corus is with a name of each between, and "a self's own corus with 4" is the first of the four.
 - **An explaining** · 16 is bi-tri-bi, and this is all-parity in this universal set: all between other and other, with no co in its three. Read from Exhibit ONE's code, 16 has each self a key, the set of all members. And 12's three, bi-co-bi, is self between other and other, with no tri: 12 is between self and other, and not between self and universe.
@@ -763,6 +764,7 @@ Gathering-Value · Natural Naming
 ## Is-not
 
 - **Is-not** · Bi as other, or as other-parity: bi is both, a me and an other self together.
+- **Is-not** · *Other-parity*, *other-than-parity* and *universal-parity* as names of a parity: the three parities are me-parity, both-parity and all-parity.
 - **Is-not** · *Observed*, of a thing: a dead form with no going on. Observing is a self's, now, with its -ing.
 - **Is-not** · *A momentary*, a noun: *a moment* is its natural naming.
 - **Is-not** · *The* universal set: a universal set is one of many, and none is named as the only one.

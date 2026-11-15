@@ -9,7 +9,7 @@ R = sys.argv[1]
 KINDS = {
  1: "a newer line waits for its concept, in the opening at its newest",
  2: "the universe as same-existing, and one universe or each one's own",
- 3: "a parity's names: a self's parity, a me-parity, same-as and other-than, all-parity and both-parity",
+ 3: "a parity's names: the three parities are me-parity, both-parity and all-parity, and the sentence has none of them",
  4: "by the code executed, not the same",
  5: "a 0",
  6: "one name with more than one sentence",
