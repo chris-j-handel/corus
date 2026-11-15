@@ -494,3 +494,11 @@ The four gatherings have more droplets than at the placing's first reading. One 
 
 **Not resolved, each a place for a suggesting:** the name's form with its three; the code's names; co by two things in one name; and, of section 30, 22 other-than 6 by its number only.
 
+## 32 Part four, laid: a name's three in its name
+
+**The person's sentence, by no authority:** 6's name with its three in it is 6-bi-co-bi-now-co-possibling, to the best of all naming and only one, nothing fuzzying.
+
+**Laid as a part, and rehearsed two ways on a copy:** the set's own check is whole by each; with the code's names having their three, 1 returns same-as by each naming.
+
+**Its concerns:** the code's names; co by two things in one name; 22 other-than 6 by its number only; a name with no number; the records of a version; the gatherings.
+
