@@ -61,6 +61,8 @@ What is executed here, each by its own lines:
      with one kind as the other.
   26 No-other-and-not-prior, the gathered dual of 7 and of 11: its two names in the code's lines of 1-now-existing
      only; and 1-now-existing with no other, its next prior not its prior.
+  27 Self, other and both, all three observing: the code's three lines of 7-now-observing, each with 4, over 2, 3
+     and 10; the four bubbles by Exhibit ONE's sides; and selves sharing one way round, one line, three with twelve.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -160,7 +162,18 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (gathering('Natural_Resolver'), "7 and 11 are together inside the code's lines of 1-now-existing"),
                    (gathering('Natural_Resolver'), 'other or no-other first is observing'),
                    (ni, 'Each is one side observing where two sides live: a parity, its prior an empty set, to selves whose bi-coupling asks a prior with each side.'),
-                   (chem, 'Two electrons share one orbital only with opposite spins, their pair with zero net spin')):
+                   (chem, 'Two electrons share one orbital only with opposite spins, their pair with zero net spin'),
+                   (one, "- **7** · each parity a self is observing: a parity's, a prior's, a sharing's"),
+                   (one, 'one parity at its time: prior over 3, now over 2, next over 10'),
+                   (one, 'each parity, sharing now and prior, co-linear recursioning forward along observing'),
+                   (one, 'co me-parity, bi other-parity, tri all-parity. 7, tri-bi-co, is all-parity observing, after other-parity possibling, after me-parity existing.'),
+                   (ni, "A self's line and an other's are co-linear. Their co-linearizing between self and other with bi-couplings across is co-competencing, bi-co-momentarying."),
+                   (ni, "The two observing are a self's own prior with 3 and an other's parity with 2."),
+                   (ni, 'With each sharing its prior and its parity agreeing, 12 is a 0, a between of moments. Its prior is same-existing.'),
+                   (naming, 'With resolver, co-competencing is 5-now-co-existing, bi-couplings, in neither self alone'),
+                   (four, 'Linearizing draws a surface to a line, along; parallelizing spreads a line to a surface, across.'),
+                   (living('Exhibit_EIGHT_Natural_Exploring'), 'Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.'),
+                   (living('Exhibit_EIGHT_Natural_Exploring'), 'these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially')):
     assert said in text, said
 
 bad = 0
@@ -938,5 +951,57 @@ say(sorted(m for m in DUAL if DUAL[m] == 'no-other-and-not-prior') == [7, 11] an
     "by the gathered duals no-other-and-not-prior is with 7 and with 11 and with no other name, each observing by its root; their threes are tri-bi-co and co-bi-co, alike but with next; by four parities 7 is a film and 11 the point, 7 with the second and fourth bubbles more; and 7 and 11 are in the code's lines of 1-now-existing, and in no line of its two other functions")
 say(all(ONE_([('s', p_)], [])[1] == [('s', -p_)] and ONE_([('s', p_)], [('s', p_)])[1] == [('s', p_)] for p_ in (1, -1)),
     "1-now-existing with no other, nothing arriving: its next prior, its 11, is not its prior, each prior; with an other alike arriving, its next prior is its prior")
+
+# ---- 27 ---------------------------------------------------------------------------------------------------------
+print('27 · Self, other and both, all three observing, and one line:')
+import ast
+tree_ = ast.parse(code_text); fn_ = {f_.name: f_ for f_ in tree_.body if isinstance(f_, ast.FunctionDef)}
+bound_ = [([e_.id for e_ in n_.target.elts], n_.iter.id) for n_ in fn_['_1_now_existing'].body if isinstance(n_, ast.For)]
+binds7 = [n_ for n_ in ast.walk(tree_) if isinstance(n_, ast.Name) and n_.id == '_7_now_observing' and isinstance(n_.ctx, ast.Store)]
+made_ = [int(n_.targets[0].id.split('_')[1]) for n_ in fn_['_1_now_existing'].body if isinstance(n_, ast.Assign)]
+say(bound_ == [(['_4_now_co_same_existing', '_7_now_observing'], x_) for x_ in ('_2_now_possibling', '_3_now_co_observing', '_10_next_co_possibling')]
+    and len(binds7) == 3 and made_ == [14, 12, 10, 11]
+    and all([len(o_), len([('s', p_)]), len(ONE_([('s', p_)], o_)[0])] == [len(o_), 1, 1] for p_ in (1, -1) for o_ in ([], [('s', 1)], [('s', -1)])),
+    "the code has 7-now-observing in three lines and no other, each with 4-now-co-same-existing, each within 1-now-existing: over 2-now-possibling, an other's parities; over 3-now-co-observing, a self's prior; over 10-next-co-possibling, the sharing of the two; one and then the next, making 14, 12, 10 and 11; with no other its first is over nothing, two of three")
+say([KIND[len(with_(m))] for m in (2, 3, 10, 7)] == ['a bubble', 'a film', 'a line', 'a film']
+    and with_(2) < with_(7) < with_(10) and with_(7) == with_(2) | with_(8) and with_(3) | with_(7) == with_(6)
+    and [m for m in range(1, 17) if len(with_(m)) == 3 and 4 in with_(m)] == sorted(made_[:3]) and len(with_(made_[3])) == 4,
+    "by four parities the three are one of each: 2 a bubble, 3 a film, 10 a line; 7 is the film of 2's bubble and 8's, 10 one of its two lines, and 3 a film with it on its other line, 6; and the four made are the three lines of the fourth bubble, 14, 12 and 10, and then the point, 11")
+SIDE_ = {}
+for l_ in one.split('\n'):
+    h_ = re.match(r'\*\*(\d+)\*\* · \d+-', l_)
+    if h_: cur_ = int(h_.group(1))
+    elif l_.startswith('- *Sides*: '): SIDE_[cur_] = l_[len('- *Sides*: '):]
+assert sorted(SIDE_) == list(range(1, 18))
+starts_ = lambda *w_: [m for m in range(1, 17) if SIDE_[m].startswith(w_)]
+say([m for m in range(1, 17) if len(with_(m)) == 1] == [2, 4, 8, 16]
+    and SIDE_[2].startswith('others to self:') and SIDE_[4].startswith('self and other:') and SIDE_[8].startswith('self:') and SIDE_[16].startswith('a same-existing-society:')
+    and starts_('other to self', 'others to self') == [2, 7, 14, 15] and all(with_(2) <= with_(m) for m in (2, 7, 14, 15))
+    and starts_('self and other') == [4, 5] and all(with_(4) <= with_(m) for m in (4, 5))
+    and starts_('self to other') == [6, 9, 10] and all(with_(8) <= with_(m) for m in (6, 9, 10))
+    and [m for m in range(1, 17) if 'same-existing-society' in SIDE_[m]] == [13, 16] and all(with_(16) <= with_(m) for m in (13, 16))
+    and starts_('self:') == [1, 3, 8, 11, 12] and [with_(8) <= with_(m) for m in (1, 3, 8, 11, 12)] == [False, False, True, True, True]
+    and with_(6) == with_(2) | with_(4) | with_(8) and with_(3) == with_(2) | with_(4) and with_(5) == with_(4) | with_(8)
+    and (ROOT_[3], ROOT_[7], ROOT_[5]) == ('observing', 'observing', 'existing'),
+    "by Exhibit ONE Natural Resolver's sides each bubble alone has its own: 2 others to self, 4 self and other, 8 self, 16 a same-existing-society; each name other to self or others to self, 2, 7, 14 and 15, is of 2's bubble; each self and other or self and others, 4 and 5, of 4's; each self to other, 6, 9 and 10, of 8's; each of a same-existing-society within 1 to 16, 13 and 16, of 16's; the names with self alone first, 1, 3, 8, 11 and 12, are not each of 8's; and round 6, the line of 2's, 4's and 8's, the film of 2's and 8's is 7 and of 2's and 4's is 3, each observing by its root, and of 4's and 8's is 5, existing")
+def round_(priors, moments):
+    s_ = 'ABCDEFG'[:len(priors)]; sh, pr = through(dict(zip(s_, priors)), {(s_[i], 10): s_[(i + 1) % len(s_)] for i in range(len(s_))}, moments)
+    return [sh[x_] for x_ in s_], [pr[x_] for x_ in s_]
+def one_line(priors):
+    n_ = len(priors); L_, P_ = round_(priors, 16 * n_)
+    if not all(L_[(i + 1) % n_][m] == -L_[i][m - 2] for i in range(n_) for m in range(2, 16 * n_)): return False        # each next self: two moments on, inverted
+    once = all(l_[2 * n_ + 2:] == [(-v if n_ % 2 else v) for v in l_[2:-2 * n_]] for l_ in L_)                       # once round: inverted with an odd ring
+    return once and all(l_[4 * n_:] == l_[:-4 * n_] for l_ in L_)                                                   # twice round: again
+say(all(one_line(p_) for n_ in (2, 3, 4, 5, 6, 7) for p_ in itertools.product((1, -1), repeat=n_)),
+    "selves each sharing with its next, one way round, two to seven of them, each start: from its third moment each self's sharing is its prior self's of two moments before, inverted, one line each shares; once round, an odd ring's line is inverted and an even ring's is its own; twice round, each is its own again: three with twelve moments, five with twenty, seven with twenty-eight")
+def of_three(priors):
+    L_, P_ = round_(priors, 48); zs = [[i for i in range(3) if L_[i][m] == 0] for m in range(48)]
+    if not all(P_[i][m + 1] == (P_[i][m] if L_[i][m] == 0 else -P_[i][m]) for i in range(3) for m in range(48)): return False   # at a 0 a prior is its next prior
+    if len(set(priors)) == 1: return all(len(zs[m]) == (3 if m % 2 else 0) for m in range(48))
+    return (all(len(zs[m]) == (1 if m % 2 else 0) for m in range(48)) and all(zs[m + 2][0] == (zs[m][0] + 1) % 3 for m in range(1, 45, 2))
+            and all(l_[m] == -l_[m - 1] for l_ in L_ for m in range(1, 48) if l_[m] and l_[m - 1]))
+say(all(of_three(p_) for p_ in itertools.product((1, -1), repeat=3))
+    and all(0 not in l_ for a_ in (1, -1) for l_ in round_((a_, -a_), 48)[0]),
+    "three selves one way round, each start not all alike: a 0 is with one self at each second moment and with none between, with one self and then its next, the way of the sharing; at its 0 a self's prior is its next prior, and with each other sharing its prior inverts; with three alike the 0 is with all three together; and two unlike, each with the other, have no 0")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
