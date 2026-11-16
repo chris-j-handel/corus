@@ -85,3 +85,37 @@ def newer():
 import sys as _sys
 if __name__ == "__main__" and len(_sys.argv) > 1 and _sys.argv[1] == "newer":
     print("\n--- the newer seventeen ---"); newer()
+
+
+# The newest seventeen, 15 November, duals only, each root as Exhibit ONE's table has it. It decides nothing.
+# Use: python3 -I incoming/v402mgr/instruments/seventeen_duals.py newest
+NEWEST = ["same", "now", "other", "prior", "same", "prior", "no-other", "not-prior", "same",
+          "not-now", "no-other", "not-prior", "same", "not-prior", "no-other", "prior", "same", "next"]
+NOT = {"now": "not-now", "not-now": "now", "prior": "not-prior", "not-prior": "prior", "other": "no-other", "no-other": "other"}
+
+def newest():
+    import collections
+    S = NEWEST
+    d = lambda n: (S[n - 1], S[n])
+    for n in range(1, 18): print(f"   {n}-{d(n)[0]}-and-{d(n)[1]}", ROOT[n])
+    first = {}
+    for n in range(1, 18):
+        for k, x in enumerate(d(n)): first.setdefault(x, (n, "first" if k == 0 else "second"))
+    print("each concept, the name first having it, and as which of its two:", first)
+    alike = collections.defaultdict(list)
+    for n in range(1, 18): alike[(d(n), ROOT[n])].append(n)
+    print("one naming with two numbers:", [v for v in alike.values() if len(v) > 1])
+    print("each existing or discovering name, 1, 5, 9, 13, 17:", [d(n) for n in (1, 5, 9, 13, 17)])
+    print("each same-existing name, 4, 8, 12, 16:", [d(n) for n in (4, 8, 12, 16)])
+    print("each possibling name, 2, 6, 10, 14:", [d(n) for n in (2, 6, 10, 14)])
+    print("each observing name, 3, 7, 11, 15:", [d(n) for n in (3, 7, 11, 15)])
+    print("8 up is not, of each concept but same; the pairs having it:", [(n, n + 8) for n in range(1, 9) if d(n + 8) == change(d(n), NOT)])
+    print("8 up is not, of now and of prior only; the pairs having it:", [(n, n + 8) for n in range(1, 9) if d(n + 8) == change(d(n), {k: v for k, v in NOT.items() if "o" == k[0] and False or k in ("now", "not-now", "prior", "not-prior")})])
+    print("9 less, within 1 to 8, a dual's two concepts exchanged, with now and not-prior, and other and no-other, exchanged:",
+          all(d(9 - n) == change(swap(d(n)), {"now": "not-prior", "not-prior": "now", "other": "no-other", "no-other": "other"}) for n in range(1, 9)))
+    print("names having now:", [n for n in range(1, 18) if "now" in d(n)], " prior:", [n for n in range(1, 18) if "prior" in d(n)],
+          " not-prior:", [n for n in range(1, 18) if "not-prior" in d(n)], " not-now:", [n for n in range(1, 18) if "not-now" in d(n)])
+    print("17, with a next moment, next is now:", d(17), "->", change(d(17), {"next": "now"}), "=", d(1))
+
+if __name__ == "__main__" and len(_sys.argv) > 1 and _sys.argv[1] == "newest":
+    print("\n--- the newest seventeen ---"); newest()
