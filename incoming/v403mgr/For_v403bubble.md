@@ -149,6 +149,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **Its twelfth returning, received.** *Selves densely compacted, a stable form in their betweens, and its bits: a sentence considered*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 108 checks, each is. Its is-or-is-nots 53 to 56 are each laid with its gathering file.
 
+**Its thirteenth returning, received.** *A gate of a chip, its stable form, and a likeness: an asking read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 113 checks, each is. Its is-or-is-nots 57 to 60 are each laid with its gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
