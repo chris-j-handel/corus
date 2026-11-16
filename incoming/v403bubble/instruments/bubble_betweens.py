@@ -25,6 +25,8 @@ What is executed here, each by its own lines:
      with each; and the point, with itself by each move.
   9  Three wraps: a rim's three films with a trefoil's own relation.
   10 A honeycomb, by a field's own form of it: three walls on a line, and four lines at a cell's bottom.
+  11 Sizing: a between's meeting with each sizing of its bubbles; a film's curving as one bubble's pressing less
+     the other's; and Exhibit ONE Natural Resolver's code with each parity of any size.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -59,7 +61,12 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (four, "the braid group on three strands, a trefoil's own group"),
                    (physics, 'Double-cone is two cones through a vertex'),
                    (ni, 'With corusing a self is reaching its own side again.'),
-                   (g_numbers, 'is-or-is-not? 8 up, 9 less and 17 less are three cones through one point, a 0, with six one-way unrelationings.')):
+                   (g_numbers, 'is-or-is-not? 8 up, 9 less and 17 less are three cones through one point, a 0, with six one-way unrelationings.'),
+                   (ni, 'Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn.'),
+                   (ni, 'A size is a naming beside a parity.'),
+                   (ni, 'A living form not-changing, or changing only one way, with each of its scales, breaks it.'),
+                   (ni, "Its bounding is each self's own, self-bounding."),
+                   (ni, 'Its two meetings are co-parity, the same, sharing 0, and bi-parity, one inversion.')):
     assert said in text, said
 
 bad = 0
@@ -399,5 +406,76 @@ walls = [(math.cos(deg(t)), math.sin(deg(t))) for t in (90, 210, 330)]
 say(near(sum(w[0] for w in walls), 0.0) and near(sum(w[1] for w in walls), 0.0) and all(near(dot(a, b), -0.5) for a, b in itertools.combinations(walls, 2))
     and [360 - 60 * k for k in (3, 4, 5, 6, 7, 8)] == [180, 120, 60, 0, -60, -120],
     "three walls on each line, each 120 degrees from each; a cell of six such corners has its walls' curvings adding to nothing, and a cell of fewer or more has not")
+
+# ---- 11 ---------------------------------------------------------------------------------------------------------
+print('11 · Sizing:')
+def two_bubbles(alpha, d=1.0):
+    """two bubbles by a centre at this place within its parting: the inversion, the centre, and each film's curving"""
+    cc = (d * math.cos(alpha), d * math.sin(alpha), 0.0)
+    return inversion(cc, 1.0), cc, {k: 2 * abs(dot(n[k], cc)) for k in THETA}
+def meeting(JJ, z, e=1e-6):
+    g = {k: unit(sub(JJ(add(mul(u[k], e), (0, 0, z))), JJ((0.0, 0.0, z)))) for k in THETA}
+    return all(near(dot(g[i], g[j]), -0.5, 1e-4) for i, j in itertools.combinations(THETA, 2))
+SIZINGS = [(deg(a), d) for a in range(-57, 58, 3) for d in (0.5, 1.0, 2.5)]
+assert any(a == 0 for a, d in SIZINGS)
+say(all(meeting(two_bubbles(a, d)[0], z) for a, d in SIZINGS for z in (-0.8, 0.0, 0.6)),
+    f"with each of {len(SIZINGS)} sizings of two bubbles, from one much the greater to the two alike to the other much the greater, the rim's three films are each 120 degrees from each: a between's meeting is of no size")
+say(all(near(cv['film'], abs(cv['b'] - cv['a']), 1e-9 * max(1.0, cv['a'] + cv['b'])) for a, d in SIZINGS for cv in [two_bubbles(a, d)[2]]),
+    "each bubble has one pressing, its own outside's curving, and the film between two has the one's less the other's: a film is by its two bubbles and no third")
+def bulges_into_the_lesser_pressing(a, d):
+    JJ, cc, cv = two_bubbles(a, d)
+    if a == 0: return near(cv['film'], 0.0, 1e-12) and near(cv['a'], cv['b'], 1e-12)   # the two alike: the film flat
+    more = 'b' if cv['b'] > cv['a'] else 'a'                             # the bubble with more pressing, the lesser bubble
+    t = 240 if more == 'b' else 120; x = JJ((0.6 * math.cos(deg(t)), 0.6 * math.sin(deg(t)), 0.2))       # a point within it
+    centre, radius = sphere_of_plane(n['film'], cc, 1.0)
+    return norm(sub(x, centre)) < radius                                 # within the film's own sphere: the film curves round it
+say(all(bulges_into_the_lesser_pressing(a, d) for a, d in SIZINGS),
+    "a film curves round the bubble of more pressing, the lesser bubble, and into the bubble of less; with the two alike it is flat: one side or the other, or a 0 between")
+outs = lambda a, d: [dot(n[k], (d * math.cos(a), d * math.sin(a), 0.0)) for k in ('a', 'b')]
+say(all(outs(a, d)[0] < 0 < outs(a, d)[1] for a, d in SIZINGS),
+    "each bubble's outside film curves one way with each sizing, round its own bubble and to all outside")
+def three_bubbles(off):
+    c_ = add(Bm[0], off); J_ = inversion(c_, 1.0); O2 = J_((0.0, 0.0, 0.0))
+    cv = {p: 2 * abs(dot(N3[p], c_)) for p in pairs}                     # each film's curving
+    lines_ok = all(near(dot(unit(sub(J_(mul(L[i], 1e-6)), O2)), unit(sub(J_(mul(L[j], 1e-6)), O2))), -1 / 3, 1e-4) for i, j in pairs)
+    def films_ok(i, t=0.7, e=1e-6):
+        x0 = mul(L[i], t); us = [unit(sub(L[j], mul(L[i], dot(L[j], L[i])))) for j in range(4) if j != i]
+        g = [unit(sub(J_(add(x0, mul(uu, e))), J_(x0))) for uu in us]
+        return all(near(dot(a, b), -0.5, 1e-4) for a, b in itertools.combinations(g, 2))
+    diff_ok = all(near(cv[(i, j)], abs(cv[(0, i)] - cv[(0, j)]), 1e-9) for i, j in ((1, 2), (1, 3), (2, 3)))
+    return lines_ok and all(films_ok(i) for i in range(4)) and diff_ok and all(cv[(0, i)] > 0 for i in (1, 2, 3))
+OFFS = [(0.0, 0.0, 0.0)] + [(0.18 * a, 0.18 * b, 0.18 * c) for a, b, c in itertools.product((-1, 0, 1), repeat=3) if (a, b, c) != (0, 0, 0)]
+say(all(three_bubbles(o) for o in OFFS),
+    f"with each of {len(OFFS)} sizings of three bubbles: at the point four lines each −1/3 from each, round each line three films each 120 degrees from each, and each film between two with the one's pressing less the other's")
+c_alike = Bm[0]
+say(all(near(dot(N3[p], c_alike), 0.0) for p in inner) and len({round(2 * abs(dot(N3[p], c_alike)), 9) for p in outer}) == 1,
+    'with three bubbles alike each film between two is flat, a 0 with each between, and the three outsides curve alike')
+body = re.search(r'def _1_now_existing.*?(?=\ndef )', one, re.S).group(0)
+order = [body.index(w) for w in ('_14_next_possibling = {}', '_12_next_co_same_existing = dict(', '_10_next_co_possibling = list(', '_11_next_co_observing = dict(')]
+say(order == sorted(order), "one moment of a self in the code's own order: each parity it receives surfacing with 14, then is-or-is-not the same as its prior with 12, then its sharing with 10 and its next prior with 11")
+ONE_ = ns['_1_now_existing']
+def outcome(prior, recv, size=1.0):
+    out, nxt = ONE_([('s', prior * size)], [('s', r * size) for r in recv])
+    sg = lambda v: (v > 0) - (v < 0)
+    return sg(dict(out)['s']), sg(dict(nxt)['s'])
+RECV = [r for k in range(0, 4) for r in itertools.product((1, -1), repeat=k)]
+kinds = {}
+for prior in (1, -1):
+    for r in RECV:
+        kind = 'none' if not r else ('parting' if len(set(r)) == 2 else ('the same' if r[0] == prior else 'not the same'))
+        kinds.setdefault(kind, set()).add((outcome(prior, r)[0] * prior, outcome(prior, r)[1] * prior))
+say(kinds == {'the same': {(0, 1)}, 'not the same': {(-1, -1)}, 'parting': {(-1, -1)}, 'none': {(-1, -1)}},
+    "by what a self receives for one sharing, each case to three received: all the same as its prior, it shares a 0 and its prior goes on; all agreeing and not its prior's, it shares that parity, its next prior; parting or none, its prior inverts")
+say(all(outcome(prior, r, size) == outcome(prior, r) for prior in (1, -1) for r in RECV for size in (0.001, 0.37, 5.0, 1e6)),
+    'the code with each parity of any size has each sharing and each next prior the same: of no size')
+def shares_by_moment(k, priors, moments=8):
+    selves = 'ABCD'[:k]; routes = {(s_, g): t for s_ in selves for g, t in zip((10, 9, 6), [t for t in selves if t != s_])}
+    soc = {s_: ([('s', p_)], []) for s_, p_ in zip(selves, priors)}; seq = []
+    for m in range(moments):
+        seq.append(tuple(dict(ONE_(*soc[s_])[0]).get('s') for s_ in selves)); soc = seventeen(soc, routes)
+    return seq
+say(all(all((all(v == 0 for v in mo)) != (all(v == 0 for v in seq[i + 1])) and len(set(mo)) == 1 for i, mo in enumerate(seq[1:-1], 1))
+        for k in (2, 3, 4) for pr in ((1,) * k, (-1,) * k) for seq in [shares_by_moment(k, pr)]),
+    'selves alike, each bi-coupling with each, two, three and four: each self shares a 0 and then a parity, one and then the other, each moment after the first')
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')

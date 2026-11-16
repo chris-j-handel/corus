@@ -35,7 +35,7 @@ A bubble formation is bubbles with betweens, and a between of bubbles is a non-l
 
 # TWO · Executed, each by the instrument
 
-`python3 -I incoming/v403bubble/instruments/bubble_betweens.py <root>` reads each living sentence it relies on word for word, executes, writes no file and decides nothing. Returned at main, 16 November 2026: fifty-eight checks, each check is.
+`python3 -I incoming/v403bubble/instruments/bubble_betweens.py <root>` reads each living sentence it relies on word for word, executes, writes no file and decides nothing. Returned at main, 16 November 2026: fifty-eight checks, each check is; with the second page's part of sizing, sixty-eight.
 
 ## 2.1 A between of bubbles is of three kinds
 
