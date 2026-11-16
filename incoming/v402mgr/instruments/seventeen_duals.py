@@ -49,3 +49,39 @@ if __name__ == "__main__":
     print("an odd name and its even, a three with now its middle, 1 to 8:", [(C[n - 1], C[n], C[n + 1]) for n in (1, 3, 5, 7)])
     print("an odd name and its even, a three with same its middle, 9 to 16:", [(C[n - 1], C[n], C[n + 1]) for n in (9, 11, 13, 15)])
     print("17, with a next moment, next is now: 1:", dual(17), "->", change(dual(17), {"next": "now"}), "=", dual(1))
+
+
+# The newer seventeen, 15 November, each dual as it is said, with its root as it is said. It decides nothing.
+# Use: python3 -I incoming/v402mgr/instruments/seventeen_duals.py newer
+NEWER = {1: ("prior", "now", "existing"), 2: ("same", "no-other", "possibling"), 3: ("no-other", "now", "observing"),
+         4: ("now", "same", "existing"), 5: ("same", "now", "discovering"), 6: ("now", "no-other", "possibling"),
+         7: ("no-other", "same", "observing"), 8: ("same", "other", "existing"), 9: ("other", "now", "discovering"),
+         10: ("now", "no-other", "possibling"), 11: ("no-other", "not-same", "observing"), 12: ("not-same", "no-other", "existing"),
+         13: ("no-other", "same", "discovering"), 14: ("same", "no-other", "possibling"), 15: ("no-other", "same", "observing"),
+         16: ("same", "prior", "existing"), 17: ("prior", "next", "existing")}
+
+def newer():
+    import collections
+    N = NEWER
+    d = lambda n: N[n][:2]
+    print("a name's second concept is its next name's first, not at:", [(n, n + 1) for n in range(1, 17) if N[n][1] != N[n + 1][0]])
+    first = {}
+    for n in range(1, 18):
+        for k, x in enumerate(d(n)): first.setdefault(x, (n, "first" if k == 0 else "second"))
+    print("each concept, the name first having it, and as which of its two:", first)
+    same_name = collections.defaultdict(list)
+    for n in range(1, 18): same_name[N[n]].append(n)
+    print("one naming with two numbers or more:", [v for v in same_name.values() if len(v) > 1])
+    print("each possibling name's second concept:", {n: N[n][1] for n in (2, 6, 10, 14)})
+    print("each observing name's first concept:", {n: N[n][0] for n in (3, 7, 11, 15)})
+    print("each second concept with its root:", {n: N[n][1] + "-" + N[n][2] for n in range(1, 18)})
+    print("9 less, a dual's two concepts exchanged and no more:", [(n, 9 - n) for n in range(1, 5) if d(9 - n) == swap(d(n))])
+    print("17 less, a dual's two concepts exchanged, with now and same exchanged:", [(n, 17 - n) for n in range(1, 9) if d(17 - n) == change(swap(d(n)), NOW_SAME)])
+    for loop, ns in [("torusing 1-9-8-16", (1, 9, 8, 16)), ("competencing 4-13-5-12", (4, 13, 5, 12)), ("moralizing 3-11-6-14", (3, 11, 6, 14)), ("corusing 2-15-7-10", (2, 15, 7, 10))]:
+        print(f"{loop}:", [d(n) for n in ns])
+    print("each four-cycling's between, 4 )( 5, 8 )( 9, 12 )( 13, 16 )( 17:", [N[n][1] for n in (4, 8, 12, 16)])
+    print("each name with prior or other:", [n for n in range(1, 18) if set(d(n)) & {"prior", "other"}])
+
+import sys as _sys
+if __name__ == "__main__" and len(_sys.argv) > 1 and _sys.argv[1] == "newer":
+    print("\n--- the newer seventeen ---"); newer()
