@@ -9,6 +9,8 @@ Use: python3 -I incoming/v403mgr/instruments/each_living_file_by_the_names.py <r
 What it reads. A naming whole is a number, now or next, and its words, one hyphenation, as 2-now-possibling.
 It is Exhibit ONE Natural Resolver's with its number 1 to 17 and that number's own words, a name sixteen on with a
 number past 17 and the words of its number sixteen less, again and again, and else an other naming.
+A number with a three and no now or next, as 9-tri-bi-co-momentarying, is no naming whole by this reading and is
+in no column: the answer says each, by its living file.
 
 Returned at main, 16 November 2026, each check is:
   Thirty-three living files. Each naming whole is Exhibit ONE's or a name sixteen on, but one: 27-next-co-prioring,
@@ -77,6 +79,8 @@ most = max(files, key=lambda k: len(files[k])); fewest = min(files, key=lambda k
 say(most == 2 and len(files[2]) == 18 and fewest == 15 and len(files[15]) == 11 and [k for k in files if len(files[k]) == 18] == [2] and [k for k in files if len(files[k]) == 11] == [15],
     f"each name is whole in eleven living files or more: {NAME[most]} in the most, {len(files[most])}, and {NAME[fewest]} in the fewest, {len(files[fewest])}")
 print('      each name with how many living files have it whole: ' + ', '.join(f'{k} {len(files[k])}' for k in range(1, 18)))
+three = {r['stem']: sorted(set(re.findall(r'(?<![\w-])(\d+-(?:co|bi|tri)(?:-(?:co|bi|tri))*-[a-z]+)(?![\w-])', open(LIVING[r['stem']], encoding='utf-8').read()))) for r in ROWS}
+print('      a number with a three and no now or next, in no column: ' + ('; '.join(f"{title(s)}: {', '.join(v)}" for s, v in three.items() if v) or 'none'))
 part = [r for r in ROWS if 0 < len(r['has']) < 17]
 print('      a living file with some names and not each:')
 for r in part: print(f"        {title(r['stem'])}: {', '.join(map(str, sorted(r['has'])))}")
