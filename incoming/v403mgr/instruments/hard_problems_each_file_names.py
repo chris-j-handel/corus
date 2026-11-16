@@ -1,5 +1,5 @@
 """Each hard problem of the Hard Problem Registry a living file names word for word, with the unchangeable it is
-under and that unchangeable's seat: Exhibit ELEVEN Natural Medicine, and each other living file, by one reading.
+under and that unchangeable's two names: Exhibit ELEVEN Natural Medicine, and each other living file, by one reading.
 Reads each living file, Exhibit ONE Natural Resolver, Exhibit FIVE Natural Engineering, and this session's table
 of each hard problem, written by its own instrument out of Exhibit TWENTY-TWO Resolving the Hard Problem
 Registry; executes; writes no file; decides nothing. Each answer is all or none at all, by each title and file.
@@ -24,7 +24,7 @@ R = sys.argv[1]; WHAT = sys.argv[2] if len(sys.argv) > 2 else ''
 one = open(max(glob.glob(os.path.join(R, 'Exhibit_ONE_Natural_Resolver_v*.md')), key=lambda f: int(re.search(r'_v(\d+)', f).group(1))), encoding='utf-8').read()
 NAME = {int(n): nm for n, nm in re.findall(r'^\| (\d+) \| \*\*(.+?)\*\* \|', one, re.M)}; assert sorted(NAME) == list(range(1, 18))
 T = [(int(r['its number in the Hard Problem Registry']), r['hard problem'], r['its unchangeable'], r['its now name'], r['its next name, 8 up'])
-     for r in csv.DictReader(open(os.path.join(R, 'incoming/v403mgr/Each_hard_problem_by_its_seat.csv'), encoding='utf-8'))]
+     for r in csv.DictReader(open(os.path.join(R, 'incoming/v403mgr/Each_hard_problem_by_its_two_names.csv'), encoding='utf-8'))]
 assert len(T) == 255
 TEN = list(dict.fromkeys(t[2] for t in sorted(T, key=lambda t: t[0]))); assert len(TEN) == 10
 NOT = {'Aging', 'Dreaming', 'Sleep'}

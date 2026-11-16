@@ -1,17 +1,17 @@
 """Exhibit NINETEEN Natural Philosophy in the table: each of its seams and each of its dilemmas with the
-unchangeable it names and that unchangeable's seat among the seventeen names.
+unchangeable it names and that unchangeable's two names among the seventeen.
 Reads Exhibit NINETEEN Natural Philosophy, Exhibit TWENTY-TWO Resolving the Hard Problem Registry and Exhibit ONE
 Natural Resolver; executes; writes no file; decides nothing. Each answer is all or none at all, by each seam
 and each dilemma.
 
-Use: python3 -I incoming/v403mgr/instruments/philosophy_by_its_seats.py <root>          each check
-     python3 -I incoming/v403mgr/instruments/philosophy_by_its_seats.py <root> csv      one line with each dilemma
-     python3 -I incoming/v403mgr/instruments/philosophy_by_its_seats.py <root> json     each seam, for a sheet
+Use: python3 -I incoming/v403mgr/instruments/philosophy_by_its_two_names.py <root>          each check
+     python3 -I incoming/v403mgr/instruments/philosophy_by_its_two_names.py <root> csv      one line with each dilemma
+     python3 -I incoming/v403mgr/instruments/philosophy_by_its_two_names.py <root> json     each seam, for a sheet
 
 Returned at main, 16 November 2026, each check is:
   Thirty-seven seams: each of the twenty-nine from 3.9 names one of the ten unchangeables in its own Torusing in
   it, 3.25 two; the first eight name none in their own lines. Eight of the ten are with a seam; a parity fixing
-  as a magnitude and a rate fixing as a value, the two seated with 7 and 15, are with no seam and no dilemma.
+  as a magnitude and a rate fixing as a value, the two with 7 and 15, are with no seam and no dilemma.
   Sixty-six dilemmas in seven branches: forty-one with one of the ten as the fixing each is at, twenty-five
   written none, no observing. Each dilemma reaching with a seam that names one of the ten has that seam's
   unchangeable.
@@ -64,7 +64,7 @@ for s in SEAMS:
     for t in s['ten']: by.setdefault(t, []).append(s['number'] + ' ' + s['seam'])
 say(len(by) == 8 and {t for t in SEAT if t not in by} == {'a parity fixing as a magnitude', 'a rate fixing as a value'} and SEAT['a parity fixing as a magnitude'] == SEAT['a rate fixing as a value'] == (7, 15)
     and not any(t in d['ten'] for d in D for t in ('a parity fixing as a magnitude', 'a rate fixing as a value')),
-    'eight of the ten are with a seam; a parity fixing as a magnitude and a rate fixing as a value, the two seated with 7 and 15, are with no seam and with no dilemma')
+    'eight of the ten are with a seam; a parity fixing as a magnitude and a rate fixing as a value, the two with 7 and 15, are with no seam and with no dilemma')
 for t in SEAT: print(f"      {t}, {SEAT[t][0]} and {SEAT[t][1]}: {'; '.join(by.get(t, [])) or 'none'}")
 with_ten = [d for d in D if d['ten']]; others = sorted({d['fixing'] for d in D if not d['ten']})
 say(len(D) == 66 and len(with_ten) == 41 and others == ['none, no observing'] and len({d['branch'] for d in D}) == 7,

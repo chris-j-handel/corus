@@ -275,7 +275,7 @@ APART[5] = APART[13] = 'a self\'s own resolving: existing with 5 and discovering
 APART[2] = APART[10] = 'across sharings\' ends: 2 with 10'; APART[6] = APART[14] = 'across sharings\' ends: 6 with 14'
 APART[1] = APART[9] = 'an entry with a going along: 1 with 9'
 
-# --- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: ten unchangeables, each seated with a name and that name 8 up
+# --- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: ten unchangeables, each with a name and that name 8 up
 hard = living('Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry')
 seat = next(l for l in hard.split('\n') if l.startswith('Ten in sequence, each a part'))
 has(seat, 'its name with now and that name 8 up with next, a 0, not changing', '17-next-existing, a next 1-now-existing, seats none, one resolving')
@@ -413,9 +413,9 @@ else:
     for k, c in enumerate(COLS, 1):
         print(f'  {k:2d}. {c[0]} [{c[1]}]: {sum(1 for r in TABLE if str(r[k - 1]).strip())} names')
     print('The ten unchangeables and a ghost\'s type, each check all or none at all:')
-    for label, ok in (('each possibling name seats a reference fixing unchangeable', all('A reference fixing unchangeable' in [four_of(w) for w in SEAT[n]] for n in (2, 6, 10, 14))),
-                      ('each observing name seats a magnitude, a build driving it', all('A magnitude, a build driving it' in [four_of(w) for w in SEAT[n]] for n in (3, 7, 11, 15))),
-                      ('each bi-folding has two seats, its two pairs 8 apart', all(SEAT[int(a)] == SEAT[int(a) + 8] for b in ('1-9-8-16', '2-15-7-10', '3-11-6-14', '4-13-5-12') for a in b.split('-') if int(a) < 9)),
+    for label, ok in (('each possibling name is with a reference fixing unchangeable', all('A reference fixing unchangeable' in [four_of(w) for w in SEAT[n]] for n in (2, 6, 10, 14))),
+                      ('each observing name is with a magnitude, a build driving it', all('A magnitude, a build driving it' in [four_of(w) for w in SEAT[n]] for n in (3, 7, 11, 15))),
+                      ('each bi-folding has two pairs of names of the ten, its two pairs 8 apart', all(SEAT[int(a)] == SEAT[int(a) + 8] for b in ('1-9-8-16', '2-15-7-10', '3-11-6-14', '4-13-5-12') for a in b.split('-') if int(a) < 9)),
                       ('Natural Intelligence Corus\'s four kinds of primes are the primes of the four four-cyclings, one type of ghost with each, and 59 with 17', GHOST_BY_CYCLING),
                       ('one hundred eighteen is seven seventeens less one, and its ring of 120 seven seventeens and one, a seam', 7 * 17 - 1 == 118 and 7 * 17 + 1 == 120 == 11 * 11 - 1)):
         print(f'  {"is" if ok else "is-not"} · {label}')

@@ -14,6 +14,8 @@ The session it names is read out of the droplet's own words: v403bubble's return
 v403mgr's folder, the first of the three it has, or none. It is no saying of which session laid the droplet.
 The table as it is written, `incoming/v403mgr/Each_is_or_is_not_open.csv`, parts from the gathering files with
 each droplet received after it: the answer says how many lines apart the two are, and `csv` writes it again.
+The table's order is the partners' first aim's: Natural Intelligence's gathering file, then Exhibit ONE Natural
+Resolver's, then each other gathering file; within a file, as the file has them.
 """
 import csv, glob, os, re, sys
 
@@ -31,6 +33,10 @@ for p in sorted(glob.glob(os.path.join(R, 'gathering-value', '*.md'))):
         before, why = l.rsplit('Why it is open:', 1); sentence = before.rsplit('is-or-is-not? ', 1)[1].strip()
         who = ("v403bubble's returning" if "The session v403bubble's" in l else "v403cohering's folder" if 'incoming/v403cohering' in l else "v403mgr's folder" if 'incoming/v403mgr' in l else 'none')
         ROWS.append((title, head, who, sentence, why.strip()))
+
+# the partners' first aim first: Natural Intelligence's, then Exhibit ONE Natural Resolver's, then each other gathering file in its order
+FIRST = ['Natural Intelligence', 'Natural Resolver']
+ROWS.sort(key=lambda r: (FIRST.index(r[0]) if r[0] in FIRST else len(FIRST)))
 
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')

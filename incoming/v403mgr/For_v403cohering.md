@@ -20,21 +20,21 @@ Each is a file of `incoming/v403mgr/`, written by its own instrument of `incomin
 |---|---|
 | `The_seventeen_names_in_one_table.csv` | each name a line, ninety columns, each column with its standing |
 | `Each_number_by_its_logical_seventeen.csv` | each number 1 to 1,025: its name sixteen on, its podals, its bi-folding, its seam |
-| `Each_prime_by_its_seat.csv` | each prime of the 1,024 by its name, its seat and its forms as squares |
-| `Each_hard_problem_by_its_seat.csv` | each of 255 hard problems with its unchangeable, its two names and its entry's five lines |
+| `Each_prime_by_its_two_names.csv` | each prime of the 1,024 by its name, its seat and its forms as squares |
+| `Each_hard_problem_by_its_two_names.csv` | each of 255 hard problems with its unchangeable, its two names and its entry's five lines |
 | `Each_hard_problem_a_file_names.csv` | each hard problem each living file names word for word |
 | `The_living_societies_in_one_table.csv` | each of 22 living societies with its unchangeable |
-| `Each_observing_of_equilibria_by_its_seat.csv` | each of 63 observings of equilibria with its unchangeable and its binary of four |
+| `Each_observing_of_equilibria_by_its_two_names.csv` | each of 63 observings of equilibria with its unchangeable and its binary of four |
 | `Each_engineering_case_by_its_properties.csv` | each of 24 engineering cases with its properties |
-| `Each_dilemma_of_philosophy_by_its_seat.csv` | each of 66 dilemmas with its unchangeable |
-| `Each_observing_of_physics_by_its_seat.csv` | each of 50 observings of physics's register with its unchangeable |
+| `Each_dilemma_of_philosophy_by_its_two_names.csv` | each of 66 dilemmas with its unchangeable |
+| `Each_observing_of_physics_by_its_two_names.csv` | each of 50 observings of physics's register with its unchangeable |
 | `Each_line_of_networking_by_the_names.csv` | each of 43 lines of networking's tables of names, with its relation executed |
 | `Each_element_by_its_place.csv` | each of 118 elements with its name sixteen on and its span |
 | `Each_codon_by_its_place.csv` | each of 64 codons with its number on the surface |
 | `The_scale_ladder_by_its_primes.csv` | each of 14 rungs of Exhibit SEVEN Natural Societies's scale-ladder with its prime, its place round a ring of twenty-four and its forms as squares |
 | `Each_way_a_next_follows_by_the_table.csv` | each of 16 ways a next follows from a prior and a now, Natural Intelligence 2.4, with its joint forms still, its going round and its name by the going round |
 
-More instruments have no table: `the_names_as_a_surface.py`, `three_moves_three_parities.py`, `ways_closed_on_the_surface.py`, `ghosts_by_their_seats.py`. The page `For_v403bubble.md` has each is found, in its part 4, and each is-or-is-not? open, in its part 5.
+More instruments have no table: `the_names_as_a_surface.py`, `three_moves_three_parities.py`, `ways_closed_on_the_surface.py`, `ghosts_by_their_two_names.py`. The page `For_v403bubble.md` has each is found, in its part 4, and each is-or-is-not? open, in its part 5.
 
 **Each column's standing.** Living: a table, a line or a sentence of a living file, as it is. Executed: read out of the code's lines or out of a table, all or none at all. An is: of both partners, gathered. Floating: a suggesting or a candidate, in no living sentence. A floating column is no ground for changing a droplet.
 
@@ -117,13 +117,17 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 
 **v403cohering's eighth returning, received.** *A field's namings with the resolver's names, Natural Naming's sixth part in one table*, is read for harm and received at main, 16 November: one droplet laid, each heading in order, `check_set.py` ALL PASS; its instrument by a second hand, each check is. Its table has the living file's columns alone, the same with each droplet received: the table of the seventeen names is extended by it.
 
-**v403cohering's ninth and tenth returnings, received.** *One droplet six times with one heading is once, by the managing session's first rule*, and *Medicine's rows with the names, two living files read with each other in one table*, are each read for harm and received at main, 16 November: five lines away from Exhibit EIGHTEEN Natural Physics's gathering file, each the same line as the one that is; one droplet laid in Exhibit ELEVEN Natural Medicine's; each heading in order, `check_set.py` ALL PASS; the newer instrument by a second hand, each check is. `Each_hard_problem_by_its_seat.csv` is as it is by its name and its two columns, *hard problem* and *its unchangeable*, while an instrument of v403cohering's reads it; a re-saying of that file's name goes with both sessions' word.
+**v403cohering's ninth and tenth returnings, received.** *One droplet six times with one heading is once, by the managing session's first rule*, and *Medicine's rows with the names, two living files read with each other in one table*, are each read for harm and received at main, 16 November: five lines away from Exhibit EIGHTEEN Natural Physics's gathering file, each the same line as the one that is; one droplet laid in Exhibit ELEVEN Natural Medicine's; each heading in order, `check_set.py` ALL PASS; the newer instrument by a second hand, each check is. `Each_hard_problem_by_its_two_names.csv` is as it is by its name and its two columns, *hard problem* and *its unchangeable*, while an instrument of v403cohering's reads it; a re-saying of that file's name goes with both sessions' word.
 
 **v403mgr's fifteen droplets with a table's word, re-said**, each as two names eight apart, a now name with a next name, thirty-eight places; four of them an is-or-is-not?'s own sentence.
 
 **v403cohering's twelfth and thirteenth returnings, received.** *Each living sentence with a word, an instrument for a session considering a sentence by the living sentences*, and *This working as a method, read with the Geodesic Improving Method's own sentences*, are each read for harm and received at main, 16 November: an instrument reading alone; four droplets laid in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file, each heading in order; `check_set.py` ALL PASS.
 
 **Newer alone**, the partner's word, 16 November: no older and newer thing living among each other; newer is more binary, all or none at all, and less is needed in the stable form. With it: each table of v403mgr's has an unchangeable's two names as *its now name* and *its next name, 8 up*, the columns *hard problem* and *its unchangeable* as they were; two droplets and two instruments of the seventeen duals are one each, the newest; and the older lists of `For_v403bubble.md` are away, one list in one place.
+
+**v403cohering's fourteenth returning, received.** *A table's word out of this session's own sentences, and the hard problems' table found by its columns*, is read for harm and received at main, 16 November. With it each file of v403mgr's with a table's word in its name is re-named, *by its two names*, and each sentence of v403mgr's instruments is in natural naming; each instrument of the three sessions reading them is executed after it, each check is.
+
+**The wrap.** By the partner's word, 16 November, v403mgr's expansive session is gathered and in order for a managing session opening new: `incoming/v403mgr/For_the_managing_session_after_v403mgr.md`, the one place, its part 8 each place the gathering has for the next version. What helps the session after: a closing page of v403cohering's own, improving now, each concern an other self can help with, and a next opportunity; and the table of each is-or-is-not? open read by a second hand, Natural Intelligence's and Exhibit ONE Natural Resolver's first.
 
 ## 7 The set's checks
 
