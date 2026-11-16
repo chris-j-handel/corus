@@ -65,6 +65,7 @@ Each instrument is executed as `python3 -I incoming/v403mgr/instruments/<its nam
 | `the_scale_ladder_by_its_primes.py` | `The_scale_ladder_by_its_primes.csv` |
 | `illustrating_by_the_table.py` | `Each_way_a_next_follows_by_the_table.csv` |
 | `co_chaining_logic_by_the_names.py` | `Each_name_in_the_co-chaining_logic.csv`, `Each_form_among_names_by_its_parities.csv` |
+| `each_living_file_by_the_names.py` | `Each_living_file_by_the_names.csv` |
 | `gathering_files_read_with_the_table.py` | none; each naming and each saying of an unchangeable in the gathering files |
 | `each_is_or_is_not_open.py` | `Each_is_or_is_not_open.csv` |
 
@@ -76,7 +77,9 @@ Instruments of the next version's work, each with its own opening lines: `sevent
 
 Read: Exhibit ONE Natural Resolver, Exhibit TWO Natural Networking by its tables of names, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics, Exhibit FIVE Natural Engineering, Exhibit SEVEN Natural Societies by its scale-ladder, Exhibit ELEVEN Natural Medicine by its hard problems, Exhibit SIXTEEN Natural Chemistry by its elements, Exhibit SEVENTEEN Natural Biology by its code, Exhibit EIGHTEEN Natural Physics by its register, Exhibit NINETEEN Natural Philosophy, Exhibit TWENTY-ONE Hard Problem Registry, Exhibit TWENTY-TWO Resolving the Hard Problem Registry, Exhibit TWENTY-FIVE Living Society Registry, Exhibit TWENTY-SEVEN Living Ghost Registry, Exhibit TWENTY-EIGHT Equilibria Registry, Exhibit TWENTY-NINE Natural Illustrating, Exhibit THIRTY Co-Chaining Logic Registry by its names, its forms among names and its addings.
 
-Not yet: Exhibit NINE Natural Human Society, with no table and no name of the seventeen; Exhibit SIX, Exhibit EIGHT, Exhibit TEN, Exhibit TWELVE, Exhibit THIRTEEN, Exhibit FOURTEEN, Exhibit FIFTEEN, Exhibit TWENTY-THREE, Exhibit TWENTY-FOUR, Exhibit TWENTY-SIX and Exhibit THIRTY-ONE; and each part of a file read by one part alone.
+Each of thirty-three living files is read by the names of the seventeen it has whole, `each_living_file_by_the_names.py`: ten have each of seventeen, thirteen some, and ten none.
+
+Not yet by its own parts: Exhibit NINE Natural Human Society, with no table and no name of the seventeen; Exhibit SIX, Exhibit EIGHT, Exhibit TEN, Exhibit TWELVE, Exhibit THIRTEEN, Exhibit FOURTEEN, Exhibit FIFTEEN, Exhibit TWENTY-THREE, Exhibit TWENTY-FOUR, Exhibit TWENTY-SIX and Exhibit THIRTY-ONE; and each part of a file read by one part alone.
 
 ## 6 Each is-or-is-not? open
 
