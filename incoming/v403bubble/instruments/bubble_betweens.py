@@ -55,6 +55,8 @@ What is executed here, each by its own lines:
      one and only one going through; one four of the eight as two lattices, each the other's by three inverting
      together; and one gate with its own now, and two each with the other's, beside the code's selves.
   23 A diamond's faces by a field, eight, or eight and six: the goings to the betweens of four and of six.
+  24 Names 6 and 7: their threes by Exhibit ONE Natural Resolver's table; 7 as 6 with the second bubble fewer,
+     no-other with both by the gathered duals; and 7 with 11 one dual.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -145,7 +147,10 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (ni, 'A living form not-changing, or changing only one way, with each of its scales, breaks it.'),
                    (physics, "a diamond cubic lattice is two interpenetrating face-centered cubic lattices displaced a quarter of a cube's body diagonal"),
                    (physics, 'diamond uses only one of its two tetrahedral-void sets, leaving its other un-occupied'),
-                   (chem, 'Carbon was living in higher-scale selves, outward of it.')):
+                   (chem, 'Carbon was living in higher-scale selves, outward of it.'),
+                   (naming, "A ghost is one moment's form installing as an existing thing."),
+                   (naming, "the periodic table's one hundred eighteen elements are a field's own result with one same numeral, Natural Numbers 7.1, and no number of a method"),
+                   (gathering('Natural_Chemistry'), "an element's own number has carbon a 6-now-co-possibling")):
     assert said in text, said
 
 bad = 0
@@ -889,5 +894,15 @@ print("23 · A diamond's faces:")
 say(len(cube) == 8 and sorted(one_four + [neg(c_) for c_ in one_four]) == sorted(cube) and all(len(of_four(c_)) == 3 for c_ in cube)
     and len(of_six) == 6 and all(dot(e_, c_) != 0 for e_ in of_six for c_ in cube) and len(cube) + len(of_six) == 14,
     "a field's eight faces of a diamond of the earth are by the cube's eight corners, each a going to a between of four round a self: the one four of the lattice and its inverse four, all eight, with one four only inside; a field's eight and six faces of a diamond grown by pressing are by the eight and by the six goings to the betweens of six: fourteen")
+
+# ---- 24 ---------------------------------------------------------------------------------------------------------
+print('24 · Names 6 and 7:')
+THREE_ = {int(r_[0]): r_[5].strip() for r_ in rows_one}
+say(THREE_[7] == 'tri-bi-co' and THREE_[6] == 'bi-co-bi' and ROOT_[7] == 'observing' and ROOT_[6] == 'possibling',
+    "by Exhibit ONE Natural Resolver's table 7-now-observing has its three tri-bi-co, next, now and prior, and 6-now-co-possibling bi-co-bi")
+say(with_(7) == with_(6) - {2} and KIND[len(with_(6))] == 'a line' and KIND[len(with_(7))] == 'a film' and changing[6] == 2
+    and DUAL[6].endswith('-and-no-other') and DUAL[7].startswith('no-other-and-') and DUAL[7] == DUAL[11]
+    and with_(5) == with_(6) - {1} and sorted(name_of[with_(6) - {k}] for k in with_(6)) == [3, 5, 7],
+    "by four parities 7 is 6 with the second bubble fewer, a line to one of its three films, and by the gathered duals 6 and 7 have no-other with both; 5 is 6 with the first fewer; the three films round 6 are 3, 5 and 7; and 7 and 11, the point, are one dual")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
