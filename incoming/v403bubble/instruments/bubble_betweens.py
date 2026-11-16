@@ -63,6 +63,8 @@ What is executed here, each by its own lines:
      only; and 1-now-existing with no other, its next prior not its prior.
   27 Self, other and both, all three observing: the code's three lines of 7-now-observing, each with 4, over 2, 3
      and 10; the four bubbles by Exhibit ONE's sides; and selves sharing one way round, one line, three with twelve.
+  28 One inversion with the code; 7 to 11 by four parities, the middle bi-folding 7-11-6-10; and three selves one
+     way round with the seventeen names: a -, a 0 and a + with each even name, the 0's path two alike selves' line.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -173,7 +175,18 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (naming, 'With resolver, co-competencing is 5-now-co-existing, bi-couplings, in neither self alone'),
                    (four, 'Linearizing draws a surface to a line, along; parallelizing spreads a line to a surface, across.'),
                    (living('Exhibit_EIGHT_Natural_Exploring'), 'Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.'),
-                   (living('Exhibit_EIGHT_Natural_Exploring'), 'these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially')):
+                   (living('Exhibit_EIGHT_Natural_Exploring'), 'these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially'),
+                   (ni, 'With each sharing its parity parting from its prior, its possibling an empty set, or the parities a self receives parting, 12 inverts its prior.'),
+                   (ni, 'The same is 0 with 12. Its inverse, one inversion, is 12 its prior inverting.'),
+                   (ni, 'Two, same-as, is **bi-tri-exchanging**, three, a self, an other and a self one on.'),
+                   (ni, 'Of the names between selves, the four across are even, 2, 6, 10 and 14.'),
+                   (four, 'The sign flip is its own inverse, (−1)² = 1. A right spiral step, i, opens a perpendicular: i² = −1 and i⁴ = 1.'),
+                   (four, 'Two right spiral steps are one sign flip.'),
+                   (four, 'An idealized mode inverted with each period T, q(t + T) = −q(t), is again itself after two, q(t + 2T) = q(t)'),
+                   (four, 'Bi-inversioning-co-recursioning is two consecutive inversions on different axes'),
+                   (one, '- *Middle bi-folding*: 7-11-6-10'), (one, '- *Middle bi-folding*: 9-5-12-8'),
+                   (living('Exhibit_THIRTY_Co-Chaining_Logic_Registry'), "Further forms' moves of 4, step 694, are four: 9 with 5 about 7, 12 with 8 about 10, 7 with 11 about 9 and 6 with 10 about 8."),
+                   (living('Exhibit_THIRTY_Co-Chaining_Logic_Registry'), 'middle bi-foldings 9-5-12-8 and 7-11-6-10 by 4 and 17 less, twice')):
     assert said in text, said
 
 bad = 0
@@ -1003,5 +1016,53 @@ def of_three(priors):
 say(all(of_three(p_) for p_ in itertools.product((1, -1), repeat=3))
     and all(0 not in l_ for a_ in (1, -1) for l_ in round_((a_, -a_), 48)[0]),
     "three selves one way round, each start not all alike: a 0 is with one self at each second moment and with none between, with one self and then its next, the way of the sharing; at its 0 a self's prior is its next prior, and with each other sharing its prior inverts; with three alike the 0 is with all three together; and two unlike, each with the other, have no 0")
+
+# ---- 28 ---------------------------------------------------------------------------------------------------------
+print('28 · One inversion, 7 to 11, and three selves one way round with the seventeen names:')
+arrivings = [list(o_) for n_ in range(4) for o_ in itertools.product((1, -1, 0), repeat=n_)]
+def alike_only(p_, o_): nz_ = [v for v in o_ if v]; return bool(nz_) and all(v == p_ for v in nz_)
+say(len(arrivings) == 40 and all(ONE_([('s', p_)], [('s', v) for v in o_]) == ([('s', 0 if alike_only(p_, o_) else -p_)], [('s', p_ if alike_only(p_, o_) else -p_)])
+                                  for p_ in (1, -1) for o_ in arrivings),
+    "one place, each prior, each of forty arrivings of none to three: a self's next prior is its prior, and its sharing a 0, only with each parity arriving alike to it; with no other, with a 0 arriving, with an other unlike, and with both parities arriving, its next prior is not its prior, one inversion")
+e24 = [frozenset(c) for r in range(3) for c in itertools.combinations((2, 4), r)]
+say(with_(7) ^ with_(11) == {2, 4} == with_(6) ^ with_(10) and all(len(with_(a_) ^ with_(b_)) == 1 for a_ in (7, 11) for b_ in (6, 10))
+    and {with_(m) for m in (7, 11, 6, 10)} == {frozenset({1, 3}) | e for e in e24} and {with_(m) for m in (9, 5, 12, 8)} == {frozenset({3}) | e for e in e24}
+    and [m for m in range(1, 17) if 3 in with_(m)] == list(range(5, 13))
+    and all(with_(m) ^ with_(m + 4) == ({2, 3} if (m - 1) // 4 % 2 == 0 else {2, 4}) for m in range(1, 17))
+    and DUAL[7] == DUAL[11] == '-and-'.join({'other': 'no-other', 'prior': 'not-prior'}[c] for c in DUAL[3].split('-and-')),
+    "Exhibit ONE Natural Resolver's middle bi-folding 7-11-6-10 is by four parities the film of the first and third bubbles with each of four ways of the second and fourth: 7 to 11 is two parities inverting, the second and the fourth, by 6 or by 10, the two co-possiblings, each one inversion from 7 and one from 11; its other middle bi-folding, 9-5-12-8, is the third bubble with the same four; the two are each name of the third bubble, 5 to 12; each name to its fourth next is two parities inverting, the second with the third from 1 to 4 and from 9 to 12, the second with the fourth from 5 to 8 and from 13 to 16; and by the gathered duals 7's and 11's one dual is 3's, other-and-prior, with each of its two inverted")
+starts3 = [p_ for p_ in itertools.product((1, -1), repeat=3) if len(set(p_)) == 2]
+def named(priors):
+    L_, P_ = round_(priors, 17); return lambda i, m: L_[i][m - 1]                    # a self's sharing with each name, one moment each
+def zero_self(nm, m): return next(i for i in range(3) if nm(i, m) == 0)
+def even_and_odd(priors):
+    nm = named(priors)
+    return (all(sorted(nm(i, m) for i in range(3)) == [-1, 0, 1] for m in range(2, 17, 2))
+            and all(0 not in [nm(i, m) for i in range(3)] and abs(sum(nm(i, m) for i in range(3))) == 1 for m in range(1, 18, 2))
+            and all(nm(zero_self(nm, m - 1), m) == nm(zero_self(nm, m + 1), m) for m in range(3, 16, 2)))
+say(all(even_and_odd(p_) for p_ in starts3),
+    "three selves one way round, each start not all alike, the seventeen names one moment each: with each even name the three are a −, a 0 and a +, each once; with each odd name two are alike and one unlike, the two alike the self from its 0 and the self to its 0")
+def right_spiral(priors):
+    nm = named(priors); z = {m: zero_self(nm, m) for m in range(2, 17, 2)}; most = 1 if sum(priors) > 0 else -1
+    path = [0 if m % 2 == 0 else nm(z[m + 1] if m < 17 else z[16], m) for m in range(1, 18)]
+    by_root_ = {'existing': -most, 'discovering': -most, 'possibling': 0, 'observing': most, 'same-existing': 0}
+    return (path == round_((most, most), 17)[0][0] and path[4:] == path[:-4] and path[2:] == [-v for v in path[:-2]]
+            and all(path[m - 1] == by_root_[ROOT_[m].split(',')[0]] for m in range(1, 18))                 # 17 is existing, a next 1
+            and all((nm(z[m], m - 1), nm(z[m], m + 1)) == ((-most, most) if ROOT_[m] == 'possibling' else (most, -most)) for m in range(2, 17, 2))
+            and all(z[m + 2] == (z[m] + 1) % 3 for m in range(2, 15, 2)) and all(z[m + 8] == (z[m] + 1) % 3 for m in range(2, 9, 2)))
+say(all(right_spiral(p_) for p_ in starts3),
+    "the 0 followed from self to self through the seventeen names is the line of two selves alike, each with the other, of the prior two of the three have: one parity, a 0, its inverse, a 0, inverted after two and again after four; by root, each existing and each discovering name has the one parity, each possibling name a 0, each observing name the inverse, each same-existing name a 0; with each possibling name the 0's self has the one parity prior and its inverse next, with each same-existing name the other order; the 0 is with the next self with each second name, and with a name's 8 up")
+def of_seventeen(priors):
+    nm = named(priors); most = 1 if sum(priors) > 0 else -1; unlike = next(i for i in range(3) if priors[i] != most)
+    if [i for i in range(3) if nm(i, 6) == 0 and nm(i, 12) == 0] != [(unlike + 1) % 3]: return False
+    l_ = [nm((unlike + 1) % 3, m) for m in range(1, 18)]
+    if not (l_[0:5] == [-most, most, -most, most, -most] and l_[6:11] == [-v for v in l_[0:5]] and l_[12:17] == l_[0:5]): return False
+    L_, P_ = round_(priors, 24)
+    for l12 in L_:
+        plus = [m for m in range(12) if l12[m] == 1]
+        if len(plus) != 5 or sorted(tuple(l12[(plus[k] + d) % 12] for d in range(1, (plus[(k + 1) % 5] - plus[k]) % 12)) for k in range(5)) != [(-1,), (-1,), (-1,), (-1, 0), (0, -1)]: return False
+    return all(L_[(i + 2) % 3][m] == L_[i][m - 4] and L_[i][m] == -L_[i][m - 6] for i in range(3) for m in range(6, 24))
+say(all(of_seventeen(p_) for p_ in starts3),
+    "one self of the three has its 0s with 6 and with 12, the self the unlike one shares with: its seventeen are five parities one and then its inverse, a 0, the five inverted, a 0, and the five again, its 7 to 11 its 1 to 5 inverted; each self's twelve from one + to its next are three of two and two of three, one with − prior to 0 and one with 0 prior to −; and each self's sharing is its second next self's four moments on, and its own six moments on inverted")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
