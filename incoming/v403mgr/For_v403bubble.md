@@ -137,6 +137,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **Its sixth returning, received.** *Betweens, nothings, and what accumulates in them: a sentence read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: seventy-six checks, each is. Its is-or-is-nots 30 to 33 are laid with Natural Intelligence's gathering file.
 
+**Its seventh returning, received.** *Nothing, all-parity, and an origin into something: a sentence read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 80 checks, each is. Its is-or-is-nots 34 to 36 are each laid with its gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
