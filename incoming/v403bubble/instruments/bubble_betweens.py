@@ -29,6 +29,7 @@ What is executed here, each by its own lines:
      the other's; and Exhibit ONE Natural Resolver's code with each parity of any size.
   12 A self going from a lesser society to a greater, in Exhibit ONE Natural Resolver's code: each bi-coupling
      given, a self's prior its own with it.
+  13 A greater society and a lesser, in the code: each self given is each self returned.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -72,7 +73,9 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (ni, "**With all or none at all, entering and leaving are each self's own**"),
                    (ni, "With resolver a self's prior is that self's own."),
                    (ni, 'Each self is a same-existing-society **inward and outward**.'),
-                   (ni, 'Self and other of one scale are self and same-existing-society of a scale inward.')):
+                   (ni, 'Self and other of one scale are self and same-existing-society of a scale inward.'),
+                   (ni, 'Each between is within a bi-coupling. Co-intelligencing is with a between.'),
+                   (ni, 'They are harmful to living with their own scale.')):
     assert said in text, said
 
 bad = 0
@@ -511,5 +514,20 @@ def read_going(priors, first=6):
     return own and inverting and rounds
 say(all(read_going(pr) for pr in itertools.product((1, -1), repeat=5)),
     "a self with its goings changed from a pair to a three, each of thirty-two priors: its prior is its own with it; the three with it are four each bi-coupling with each, in a four's own round; and the self it went from, receiving none, inverts with each moment")
+
+# ---- 13 ---------------------------------------------------------------------------------------------------------
+print('13 · A greater society and a lesser, in the code:')
+def selves_through(routes, selves, priors, moments=10):
+    soc = {s_: ([('s', p_)], []) for s_, p_ in zip(selves, priors)}
+    for m in range(moments):
+        nxt = seventeen(soc, routes)
+        if set(nxt) != set(soc) or any(len(dict(nxt[s_][0])) != 1 for s_ in selves): return False
+        soc = nxt
+    return True
+GREATER = {(s_, g): t for s_ in 'BCDE' for g, t in zip((10, 9, 6), [t for t in 'BCDE' if t != s_])}      # four each with each
+LESSER = {('X', 10): 'A', ('A', 10): 'X'}                                                                # a pair
+INTO = {**GREATER, ('X', 10): 'B', ('A', 10): 'C'}                       # the pair's selves each sharing into the four, and with none of their own
+say(all(selves_through(r, 'XABCDE', pr) for r in ({**GREATER, **LESSER}, INTO, GREATER) for pr in itertools.product((1, -1), repeat=6)),
+    "a four and a pair, each of sixty-four priors, with the pair bi-coupling, with its selves sharing into the four, and with each of them given no bi-coupling: each self given is each self returned, its own prior with it; no line of the code ends a self or has two selves one")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
