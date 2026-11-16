@@ -4,6 +4,8 @@ Incoming · v403cohering · 16 November 2026
 
 **No word here has authority. No living file and no gathering file is changed by this page.** A closing page, as Exhibit TWENTY-FOUR Geodesic Improving Method has a report with each handing on, written with the managing session v403mgr's wrap and by its asking. One reader: a session opening new. `incoming/v403mgr/For_the_managing_session_after_v403mgr.md` is the one place for the set; this page has what is this session's own and not in it. The working as a method is `incoming/v403cohering/This_working_as_a_method.md`.
 
+**After it, by a partner's word, 16 November:** this session goes on as the managing session, with each role v403mgr had. The session after is this session going on: this page is its report with v403mgr's wrap, and each concern of it is its own now. v403mgr's rule for the four kinds of part 2.1 and its entering of part 2.2 and 2.3 are in `incoming/v403mgr/For_v403cohering.md`.
+
 ---
 
 ## 1 Improving now
