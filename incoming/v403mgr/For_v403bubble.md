@@ -123,6 +123,10 @@ Open with v403mgr, from its page: each observing of its part THREE by its seat a
 
 To read with a pattern on a surface: by `ways_closed_on_the_surface.py`, the sixteen ways as sets closed by one way and then another are of nine kinds, a field's first nine of its seventeen ways a pattern repeats on a surface; and the second surface's quarter turn is an exchange of the two parities down with the two across, one inverted.
 
+**Its third returning, received.** *Selves going to greater societies, a sentence read by a field's foam, by living societies and by the code*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: seventy checks, each is. Its is-or-is-nots 17, 18 and 20 are laid with Natural Intelligence's gathering file, and 19 with Exhibit EIGHTEEN Natural Physics's.
+
+To read with a name with itself: by `ways_closed_on_the_surface.py`, no parity changing has a name with itself, and each name is with itself by one alone of four folds about a diagonal, the two kinds of parity exchanged, down with across.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
