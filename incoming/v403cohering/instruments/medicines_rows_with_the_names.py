@@ -3,8 +3,10 @@ the fixing the file has it of, that one of the ten as Exhibit TWENTY-TWO Resolvi
 it, its two names eight apart, a now name with a next name, and the hard problem of the registry by its title.
 Two living files read with each other: medicine's own sorting of its rows, and the registry's.
 Reads Exhibit ELEVEN Natural Medicine, Exhibit TWENTY-TWO Resolving the Hard Problem Registry, Exhibit ONE
-Natural Resolver, and `incoming/v403mgr/Each_hard_problem_by_its_seat.csv`, written by its own instrument out of
-Exhibit TWENTY-TWO; executes; writes no file; decides nothing. All or none at all, by each row.
+Natural Resolver, and the managing session's table of each hard problem, a file of `incoming/v403mgr` written by
+its own instrument out of Exhibit TWENTY-TWO; executes; writes no file; decides nothing. All or none at all, by
+each row. That table is found by its two columns, *hard problem* and *its unchangeable*, one table and no other,
+and by no name of its file: its file's name is re-said with no change here.
 No sentence of Exhibit ELEVEN Natural Medicine for a body is read, changed or said again by it: a row is a name.
 
 Use: python3 -I incoming/v403cohering/instruments/medicines_rows_with_the_names.py <root>        each check, and each row
@@ -31,8 +33,8 @@ def newest(stem):
 one = newest('Exhibit_ONE_Natural_Resolver')
 NAME = {int(n): nm for n, nm in re.findall(r'^\| (\d+) \| \*\*(.+?)\*\* \|', one, re.M)}; assert sorted(NAME) == list(range(1, 18))
 hard = newest('Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry')
-seat = next(l for l in hard.split('\n') if l.startswith('Ten in sequence, each a part'))
-TEN = {t: (f'{h} fixing {t}', int(a), int(b)) for h, t, a, b in re.findall(r'(an? [a-z-]+) fixing ([a-z ]+?), with (\d+)(?:-[a-z-]+)? and (\d+)', seat)}
+ten_line = next(l for l in hard.split('\n') if l.startswith('Ten in sequence, each a part'))
+TEN = {t: (f'{h} fixing {t}', int(a), int(b)) for h, t, a, b in re.findall(r'(an? [a-z-]+) fixing ([a-z ]+?), with (\d+)(?:-[a-z-]+)? and (\d+)', ten_line)}
 assert len(TEN) == 10
 
 FIXINGS = []                                   # (its name, as written, its ending, its rows)
@@ -42,7 +44,11 @@ for l in newest('Exhibit_ELEVEN_Natural_Medicine').split('\n'):
         first = re.split(r'(?<=[a-z\)])\. ', m.group(4), maxsplit=1)[0]
         FIXINGS.append((m.group(1), m.group(2), m.group(3), [x.strip().rstrip('.') for x in first.split(' · ')]))
 
-H = list(csv.reader(open(os.path.join(R, 'incoming/v403mgr/Each_hard_problem_by_its_seat.csv'), encoding='utf-8', newline='')))
+def head(p):
+    with open(p, encoding='utf-8', newline='') as f: return next(csv.reader(f), [])
+TABLES = [p for p in sorted(glob.glob(os.path.join(R, 'incoming', 'v403mgr', '*.csv'))) if {'hard problem', 'its unchangeable'} <= set(head(p))]
+assert len(TABLES) == 1, f'the table of each hard problem is one table by its two columns, and {len(TABLES)} are found'
+H = list(csv.reader(open(TABLES[0], encoding='utf-8', newline='')))
 ti, ui = H[0].index('hard problem'), H[0].index('its unchangeable')
 def key(s): return re.sub(r'\s+', ' ', re.sub(r"[^a-z' ]", ' ', re.sub(r'^(a|an|the) ', '', s.lower()))).strip()
 TITLES = [(key(h[ti]), h) for h in H[1:]]
@@ -58,9 +64,9 @@ for name, written, ending, rows in FIXINGS:
                      f'{h[0]} · {h[ti]}' if h else ('' if not hits else f'{len(hits)} titles'), ('the same' if h[ui] == ten[0] else h[ui]) if h and ten else ''])
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(["medicine's row, a field's naming whole [living ELEVEN]", 'its fixing, as written [living ELEVEN]', 'that one of the ten [living TWENTY-TWO]',
-                'its name with now [living TWENTY-TWO]', 'that name 8 up, with next [living TWENTY-TWO]',
-                'the hard problem of the registry by its title, with its number [executed]', 'the one of the ten the registry has it with [executed]'])
+    w.writerow(["medicine's row, a field's naming whole [living ELEVEN]", 'its fixing, as written [living ELEVEN]', 'its unchangeable [living TWENTY-TWO]',
+                'its now name [living TWENTY-TWO]', 'its next name, 8 up [living TWENTY-TWO]',
+                'the hard problem of the registry by its title, with its number [executed]', 'its unchangeable by the registry [executed]'])
     w.writerows(ROWS); sys.exit()
 
 print(f"{len(FIXINGS)} fixings of Exhibit ELEVEN Natural Medicine with rows, {len(ROWS)} rows")
