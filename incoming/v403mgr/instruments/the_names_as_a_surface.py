@@ -23,6 +23,11 @@ Returned at main, 16 November 2026, each check is:
   1 to 17, each eight by eight a 1 to 65, each sixteen by sixteen a 1 to 257; 1,025 less is top with bottom, 513
   less with each five hundred twelve is left with right, and 512 apart is through the centre.
   Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a going round an edge of the second surface.
+  9 less and then 17 less, one and then the other, take each name round its bi-folding's square: by the right with
+  the first and third four-cyclings, by its other hand with the second and fourth; with 17 less first, the other way.
+  The surface folds in onto 1-now-existing by 1,025 less and on to 17 less, 9 less, 5 less and 3 less, a line across
+  and a line down one and then the other, each with no number with itself; each going out, 1 up to 512 up, is a
+  part's turn through its own centre.
   Prior two added comes to its names again with twenty-four numbers and with no fewer; 4, 6, 10, 12 and 14 are with
   none of them. A sunflower's 21 and 34 are a 5 and a 2, and its 34 and 55 a 2 and a 7.
 """
@@ -99,6 +104,37 @@ say(fold(big, 32, lambda n: 1025 - n) == 'top with bottom', '1,025 less is top w
 say(fold(big, 32, lambda n: 513 - n if n < 513 else 1537 - n) == 'left with right', '513 less, with each five hundred twelve, is left with right')
 say(fold(big, 32, lambda n: n + 512 if n < 513 else n - 512) == 'through the centre', '512 apart is through the centre')
 Pb = {n: rc for rc, n in big.items()}
+chain = living('Exhibit_THIRTY_Co-Chaining_Logic_Registry'); physics = living('Exhibit_EIGHTEEN_Natural_Physics')
+for text, s in ((chain, '8 up is third and fourth parities inverting, 9 less and 17 less in sequence'), (three, 'podaling with each span gives a span below it'),
+                (four, 'Bi-inversioning-co-recursioning is two consecutive inversions on different axes'), (physics, 'A drying drop leaves concentric rings')): assert s in text, s
+print('8 up, 9 less and 17 less on the second surface: its turn through the centre and its two folds:')
+f9 = lambda n: 9 - n if n < 9 else 25 - n
+f17 = lambda n: 17 - n
+def round_by(n, first, second):   # one fold and then the other, four times: the names it reaches, and its hand
+    seq = [n]
+    for k in range(4): seq.append((first if k % 2 == 0 else second)(seq[-1]))
+    (r0, c0), (r1, c1), (r2, c2) = P[seq[0]], P[seq[1]], P[seq[2]]
+    across = 1 if c1 > c0 else -1 if c1 < c0 else 0; down = 1 if r2 > r1 else -1 if r2 < r1 else 0
+    if across == 0: down = 1 if r1 > r0 else -1; across = 1 if c2 > c1 else -1; turn_ = -down * across
+    else: turn_ = across * down
+    return seq, 'by the right' if turn_ > 0 else 'by its other hand'
+say(all(round_by(n, f9, f17)[0][4] == n and set(round_by(n, f9, f17)[0]) == next(v for v in BF.values() if n in v) for n in range(1, 17)),
+    '9 less and then 17 less, one and then the other, take each name round its bi-folding\'s square, to its name again with the fourth')
+say(all((round_by(n, f9, f17)[1] == 'by the right') == ((n - 1) // 4 in (0, 2)) and round_by(n, f17, f9)[1] != round_by(n, f9, f17)[1] for n in range(1, 17)),
+    'by the right with each name of the first and third four-cyclings, and by its other hand with each name of the second and fourth; with 17 less first, each the other way')
+say(all(len({next(k for k, v in BF.items() if n in v) for n in c}) == 4 for c in CYC), 'each four-cycling has one name with each of the four bi-foldings: corner, edge, centre, edge')
+print('The surface folding in onto 1-now-existing, and opening out from it, on by fours:')
+ok_fold = ok_turn = True; lines = []
+for j in range(10, 0, -1):
+    cells = [Pb[n] for n in range(1, 2 ** j + 1)]; rows = sorted({r for r, c in cells}); cols = sorted({c for r, c in cells})
+    ok_fold &= len(rows) * len(cols) == 2 ** j and rows == list(range(rows[0], rows[0] + len(rows))) and cols == list(range(cols[0], cols[0] + len(cols)))
+    about_across = all(Pb[2 ** j + 1 - n] == (rows[0] + rows[-1] - Pb[n][0], Pb[n][1]) for n in range(1, 2 ** j + 1))
+    about_down = all(Pb[2 ** j + 1 - n] == (Pb[n][0], cols[0] + cols[-1] - Pb[n][1]) for n in range(1, 2 ** j + 1))
+    ok_fold &= about_across != about_down; lines.append('across' if about_across else 'down')
+    ok_turn &= all(Pb[n + 2 ** (j - 1)] == (rows[0] + rows[-1] - Pb[n][0], cols[0] + cols[-1] - Pb[n][1]) for n in range(1, 2 ** (j - 1) + 1)) if j > 1 else True
+say(ok_fold and lines == ['across', 'down'] * 5, 'the numbers 1 to 1,024, to 512, to 256 and on to 1 to 2 are each one whole part of the surface about one corner, and 1,025 less, 513 less, 257 less and on to 17 less, 9 less, 5 less and 3 less each fold that part about its middle line, a line across and a line down one and then the other, with no number with itself')
+say(ok_turn, 'each going out, 1 up, 2 up, 4 up, 8 up and on to 512 up, is that part\'s turn through its own centre: its two folds, one and then the other')
+say([(2 ** j + 2) // 2 for j in range(10, 0, -1)] == [2 ** (j - 1) + 1 for j in range(10, 0, -1)], 'each span is the span outward of it folded: 1,025, 513, 257, 129, 65, 33, 17, 9, 5, 3 and 2, Exhibit THREE Natural Numbers\'s chain')
 biology = living('Exhibit_SEVENTEEN_Natural_Biology'); assert 'consecutive Fibonacci numbers, 21 and 34, 34 and 55' in biology
 print('Prior two added, each by its name among seventeen, sixteen on:')
 f = [1, 1]
