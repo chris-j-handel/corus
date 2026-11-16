@@ -22,10 +22,10 @@ Returned at main, 16 November 2026, each check is:
   orders: prior and now agreeing and an exclusive or are the surface's two slides, 7 and 13; next as prior, next
   inverting its prior, next as now and next inverting now are its four turns, 3, 5, 9 and 15; next always + and
   next always - are 1 and 11.
-  Ten at five places. Exhibit TWENTY-NINE 2.7 and 7.1 name each of ten word for word as the seating has it;
-  Exhibit TWENTY-EIGHT Equilibria Registry 3.3 seats each of ten with a name of 1 to 8 and that name 8 up, each
-  seat Exhibit TWENTY-TWO's; 2.7's five pairs, 2 and 10 to 6 and 14, are five of the eight seats, six of ten with
-  them, and four of ten, with 1 and 9, 7 and 15, and 8 and 16, with none of the five.
+  Ten at five places. Exhibit TWENTY-NINE 2.7 and 7.1 name each of ten word for word as Exhibit TWENTY-TWO has
+  it; Exhibit TWENTY-EIGHT Equilibria Registry 3.3 has each of ten with a name of 1 to 8 and that name 8 up, each
+  as Exhibit TWENTY-TWO has it; 2.7's five pairs, 2 and 10 to 6 and 14, are five of the eight pairs of names, six
+  of ten with them, and four of ten, with 1 and 9, 7 and 15, and 8 and 16, with none of the five.
   Seventeen names. 2.8 has each of seventeen names as Exhibit ONE has it; each name's side is Exhibit ONE's own
   with sixteen, and with 7-now-observing Exhibit ONE has other to self and 2.8 others to self. Each of four
   bi-foldings is the four names of one first and one second parity, 8 up the third and fourth parities together
@@ -165,17 +165,17 @@ SEAT = {what: (int(a), int(b)) for what, a, b in re.findall(r'(an? [a-z-]+ fixin
 i27 = part(ill, '2.7 '); i71 = part(ill, '7.1 ')
 ten27 = re.findall(r'(an? [a-z-]+ fixing [a-z ]+?)[,.]', i27.split('each has its one name:', 1)[1].split('\n', 1)[0])
 ten71 = [t[0].lower() + t[1:] for t in re.findall(r'(?m)^- \*\*(.+?)\.\*\*', i71)]
-say(len(ten27) == 10 and set(ten27) == set(SEAT) and ten71 == ten27, "2.7 names each of ten word for word as Exhibit TWENTY-TWO's seating has it, and 7.1's ten drawings are the same ten in the same order")
+say(len(ten27) == 10 and set(ten27) == set(SEAT) and ten71 == ten27, "2.7 names each of ten word for word as Exhibit TWENTY-TWO has it, and 7.1's ten drawings are the same ten in the same order")
 e33 = part(eq, '3.3 ')
 EQ = {what: (int(a), int(b)) for line in re.findall(r'(?m)^  - \*b\* (.+)$', e33) for whats, a, b in re.findall(r'((?:an? [a-z-]+ fixing [a-z ]+?(?: and )?)+), with (\d+) · (\d+)', line) for what in whats.split(' and ')}
 say(len(EQ) == 10 and EQ == SEAT and all(b == a + 8 and 1 <= a <= 8 for a, b in EQ.values()) and len(set(EQ.values())) == 8,
-    "Exhibit TWENTY-EIGHT Equilibria Registry 3.3 seats each of ten with a name of 1 to 8 and that name 8 up, eight seats, each of ten with the seat Exhibit TWENTY-TWO's seating has")
+    "Exhibit TWENTY-EIGHT Equilibria Registry 3.3 has each of ten with a name of 1 to 8 and that name 8 up, eight pairs of names, each of ten with the two names Exhibit TWENTY-TWO has it with")
 m = re.search(r"Equilibria Registry 3\.3: ten pair with five names 2 to 6, .*?with Exhibit ONE's names ((?:\d+ and \d+(?:, )?)+)", i27)
 five = [tuple(map(int, x)) for x in re.findall(r'(\d+) and (\d+)', m.group(1))] if m else []
 on = [t for t in SEAT if SEAT[t] in five]; off = [t for t in SEAT if SEAT[t] not in five]
 say(five == [(2, 10), (3, 11), (4, 12), (5, 13), (6, 14)] and all(p in set(SEAT.values()) for p in five) and len(on) == 6 and len(off) == 4
     and sorted({SEAT[t] for t in off}) == [(1, 9), (7, 15), (8, 16)],
-    "2.7 has Equilibria Registry 3.3 as ten with five names 2 to 6, and its five pairs, 2 and 10 to 6 and 14, are five of the Registry's eight seats: six of ten are with them, and four of ten, with 1 and 9, 7 and 15, and 8 and 16, are with none of the five")
+    "2.7 has Equilibria Registry 3.3 as ten with five names 2 to 6, and its five pairs, 2 and 10 to 6 and 14, are five of the Registry's eight pairs of names: six of ten are with them, and four of ten, with 1 and 9, 7 and 15, and 8 and 16, are with none of the five")
 print(f"      with a place of the five: {'; '.join(on)}\n      with none: {'; '.join(f'{t}, {SEAT[t][0]} and {SEAT[t][1]}' for t in off)}")
 
 print('\nSeventeen names, their sides, bi-foldings and cycles: Exhibit TWENTY-NINE 2.8 and 2.3, Exhibit ONE Natural Resolver')

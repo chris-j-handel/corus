@@ -1,20 +1,20 @@
-"""Each entry of the Living Ghost Registry by its seats among the seventeen names: its ten unchangeables, each seated
+"""Each entry of the Living Ghost Registry by its unchangeables' names among the seventeen: its ten unchangeables, each
 with a name and that name 8 up, and its ten ghost positions. Reads Exhibit TWENTY-SEVEN Living Ghost Registry's
 entries, each one's two lines of signature as they are, and Exhibit TWENTY-TWO Resolving the Hard Problem Registry's
 sentence of the ten in sequence; executes; writes no file; decides nothing. Each answer is all or none at all.
 
-Use: python3 -I incoming/v403mgr/instruments/ghosts_by_their_seats.py <root>         each entry, and each check
-     python3 -I incoming/v403mgr/instruments/ghosts_by_their_seats.py <root> json    the entries, for a sheet
+Use: python3 -I incoming/v403mgr/instruments/ghosts_by_their_two_names.py <root>         each entry, and each check
+     python3 -I incoming/v403mgr/instruments/ghosts_by_their_two_names.py <root> json    the entries, for a sheet
 
 An entry's signature names an unchangeable by its gathering, store-seeking or value-pinning; an unchangeable not
 named in it is not read as absent from the observing, only as not in the entry's line.
 
 Returned at main, 16 November 2026, each check is:
   Thirteen entries. Each has premature closure among its ghost positions. No entry has criterion-regressing: the
-  seat of an opening fixing as a place, 1-now-existing and 9-next-co-discovering, has no entry.
+  two names of an opening fixing as a place, 1-now-existing and 9-next-co-discovering, has no entry.
   Of molecular chemistry's seven entries, entropy, equilibrium, the single native state and the single catalytic
   transition-state stroke have value-pinning; each of medicine's three has value-pinning and line-demanding. The
-  seat they share is a rate fixing as a value, 7-now-observing and 15-next-observing.
+  unchangeable they share is a rate fixing as a value, 7-now-observing and 15-next-observing.
 """
 import glob, json, os, re, sys
 
@@ -47,11 +47,11 @@ assert all(x in E for x in CHEMISTRY + MEDICINE)
 if WHAT == 'json':
     json.dump({'unchangeables': [[g, FIX[g], list(SEAT[FIX[g]])] for g in KEY], 'positions': POS, 'entries': [[n, u, p] for n, (u, p) in E.items()]}, sys.stdout, ensure_ascii=False); sys.exit()
 say = lambda ok, label: print(f'  {"is" if ok else "is-not"} · {label}')
-print(f'{len(E)} entries, each by its ten unchangeables in the order of their seating, and its ghost positions:')
+print(f'{len(E)} entries, each by its ten unchangeables in the order of Exhibit TWENTY-TWO\'s sentence of the ten, and its ghost positions:')
 for n, (u, p) in E.items(): print(f'  {n[:44]:44s} ' + ''.join('X' if g in u else '.' for g in KEY) + '  ' + ''.join('X' if x in p else '.' for x in POS))
 print('Each check, all or none at all, of the entries\' own lines:')
 say(all('premature closure' in p for u, p in E.values()), 'each entry has premature closure among its ghost positions')
-say(all('criterion-regressing' not in u for u, p in E.values()), 'no entry has criterion-regressing: the seat of an opening fixing as a place, 1-now-existing and 9-next-co-discovering, has no entry')
+say(all('criterion-regressing' not in u for u, p in E.values()), 'no entry has criterion-regressing: the two names of an opening fixing as a place, 1-now-existing and 9-next-co-discovering, has no entry')
 with_value = [n for n in CHEMISTRY if 'value-pinning' in E[n][0]]
 say(with_value == ['Entropy', 'Equilibrium', 'The single native state', 'The single catalytic transition-state stroke'], 'of molecular chemistry\'s seven entries, four have value-pinning: entropy, equilibrium, the single native state, the single catalytic transition-state stroke')
 say(all({'value-pinning', 'line-demanding'} <= set(E[n][0]) for n in MEDICINE), 'each of medicine\'s three entries has value-pinning and line-demanding')

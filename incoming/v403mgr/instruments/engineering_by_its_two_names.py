@@ -1,19 +1,19 @@
 """Exhibit FIVE Natural Engineering in the table: each engineering case with its properties, as it is written,
-and each engineering hard problem with the unchangeable it is under and that unchangeable's seat.
+and each engineering hard problem with the unchangeable it is under and that unchangeable's two names.
 Reads Exhibit FIVE Natural Engineering, Exhibit TWENTY-TWO Resolving the Hard Problem Registry and Exhibit ONE
 Natural Resolver, and this session's table of each hard problem, written by its own instrument out of Exhibit
 TWENTY-TWO; executes; writes no file; decides nothing. Each answer is all or none at all, by each entry.
 
-Use: python3 -I incoming/v403mgr/instruments/engineering_by_its_seats.py <root>          each check
-     python3 -I incoming/v403mgr/instruments/engineering_by_its_seats.py <root> csv      one line with each engineering case
-     python3 -I incoming/v403mgr/instruments/engineering_by_its_seats.py <root> json     each engineering hard problem, for a sheet
+Use: python3 -I incoming/v403mgr/instruments/engineering_by_its_two_names.py <root>          each check
+     python3 -I incoming/v403mgr/instruments/engineering_by_its_two_names.py <root> csv      one line with each engineering case
+     python3 -I incoming/v403mgr/instruments/engineering_by_its_two_names.py <root> json     each engineering hard problem, for a sheet
 
 Returned at main, 16 November 2026, each check is:
   Twenty-four engineering cases, each with each of four properties: arrangement and goal; its particular coupling
   and fixing form; residue; observing. Each has one alone of a fifth: a proposal's arrangement and remaining work,
   with twelve, or an arrangement sharing, with twelve.
   Seventeen engineering hard problems, 5.4: each has one of the ten unchangeables with the two names Exhibit
-  TWENTY-TWO Resolving the Hard Problem Registry seats it with, and each is under the unchangeable its number is
+  TWENTY-TWO Resolving the Hard Problem Registry has it with, and each is under the unchangeable its number is
   under in that registry. Eight of the ten have one or more; an observing fixing from behind and a sequencing
   fixing to one beat have none.
 """
@@ -55,7 +55,7 @@ PROPS = ['Arrangement and goal', 'Its particular coupling and fixing form', 'Res
 b54 = eng.split('\n## 5.4 ', 1)[1].split('\n# ', 1)[0]
 HP = [dict(observing=o, number=int(n), section=s, ten=t, a=int(a), b=int(b), receiving=r) for o, n, s, t, a, b, r in
       re.findall(r'(?m)^- \*\*(.+?)\*\*\n  - \*a\* (\d+) → §([\d.]+); (an? [a-z-]+ fixing [a-z ]+?), with (\d+)-[a-z-]+ and (\d+)-[a-z-]+\n  - \*b\* (.+)$', b54)]
-table = {int(r['its number in the Hard Problem Registry']): r for r in csv.DictReader(open(os.path.join(R, 'incoming/v403mgr/Each_hard_problem_by_its_seat.csv'), encoding='utf-8'))}
+table = {int(r['its number in the Hard Problem Registry']): r for r in csv.DictReader(open(os.path.join(R, 'incoming/v403mgr/Each_hard_problem_by_its_two_names.csv'), encoding='utf-8'))}
 key = 'its unchangeable'
 
 if WHAT == 'csv':
@@ -78,7 +78,7 @@ say(all((PROPS[4] in c['props']) != (PROPS[5] in c['props']) for c in CASES), f"
 for c in CASES: print(f"      {c['section'][:44]:44} · {c['case'][:60]}")
 print('Its engineering hard problems, 5.4:')
 say(all(h['ten'] in SEAT and SEAT[h['ten']] == (h['a'], h['b']) for h in HP) and len(HP) > 0,
-    'each has one of the ten unchangeables, with the two names Exhibit TWENTY-TWO Resolving the Hard Problem Registry seats it with')
+    'each has one of the ten unchangeables, with the two names Exhibit TWENTY-TWO Resolving the Hard Problem Registry has it with')
 part = [h for h in HP if table[h['number']][key] != h['ten']]
 say(not part, "each is under the unchangeable its number is under in Exhibit TWENTY-TWO Resolving the Hard Problem Registry, by this session's table of each hard problem")
 for h in part: print(f"      parting: {h['observing']}, {h['number']}: here {h['ten']}; in the table {table[h['number']][key]}")

@@ -1,11 +1,11 @@
 """Each observing of Exhibit TWENTY-EIGHT Equilibria Registry, a conception of equilibria as it is written, by
-the unchangeable it is with and that unchangeable's seat among the seventeen names.
+the unchangeable it is with and that unchangeable's two names among the seventeen.
 Reads Exhibit TWENTY-EIGHT Equilibria Registry, Exhibit TWENTY-TWO Resolving the Hard Problem Registry, Exhibit
 ONE Natural Resolver and Exhibit FOUR Natural Mathematics; executes; writes no file; decides nothing.
 Each answer is all or none at all, by each observing and by each name.
 
-Use: python3 -I incoming/v403mgr/instruments/equilibria_by_their_seats.py <root>        each check
-     python3 -I incoming/v403mgr/instruments/equilibria_by_their_seats.py <root> csv    one line with each observing
+Use: python3 -I incoming/v403mgr/instruments/equilibria_by_their_two_names.py <root>        each check
+     python3 -I incoming/v403mgr/instruments/equilibria_by_their_two_names.py <root> csv    one line with each observing
 
 Returned at main, 16 November 2026, each check is:
   Sixty-three observings, forty-two conceptions selves propose and twenty-one specifying accounts and prior
@@ -17,7 +17,7 @@ Returned at main, 16 November 2026, each check is:
   The four binaries, now, existing, same and all, each with two names of 1 to 8 and those names 8 up, are the
   four forms of two parities of the reflected order, the third and the second, one changing from each binary
   to its next and round to the first: a cycle of four.
-  8 up brings each of the ten onto its own seat. 9 less and 17 less each bring each of now onto one of all and
+  8 up brings each of the ten onto its own two names again. 9 less and 17 less each bring each of now onto one of all and
   each of existing onto one of same: an opening with a same-existing, an observing with a parity and a rate,
   a two-way with a completing, a sequencing with a between and a middle.
 """
@@ -33,7 +33,7 @@ for text, said in ((eq, 'Sixty-three observings, forty-two conceptions selves pr
     assert said in text, said
 NAME = {int(n): nm for n, nm in re.findall(r'^\| (\d+) \| \*\*(.+?)\*\* \|', one, re.M)}; assert sorted(NAME) == list(range(1, 18))
 
-# --- the ten, each with its two names: Exhibit TWENTY-TWO's seating
+# --- the ten, each with its two names: Exhibit TWENTY-TWO's sentence of the ten
 seat = next(l for l in hard.split('\n') if l.startswith('Ten in sequence, each a part'))
 SEAT = {what: (int(a), int(b)) for what, a, b in re.findall(r'(an? [a-z-]+ fixing [a-z ]+?), with (\d+)(?:-[a-z-]+)? and (\d+)', seat)}; assert len(SEAT) == 10
 FOLD4 = {'A reference fixing unchangeable': ('an observing fixing from behind', 'a completing fixing as a last', 'a middle fixing as an end'),
@@ -110,7 +110,7 @@ say(all(len(v) == 1 for v in form.values()) and len({next(iter(v)) for v in form
     'the four binaries, now, existing, same and all, each with two names of 1 to 8 and those names 8 up, are the four forms of two parities, the third and the second, one changing from each binary to its next and round to the first: a cycle of four')
 moves = {'9 less': lambda n: (9 if n < 9 else 25) - n, '17 less': lambda n: 17 - n, '8 up': lambda n: n + 8 if n < 9 else n - 8}
 of = lambda n: frozenset(u for u, s in SEAT.items() if n in s)
-say(all(of(moves['8 up'](n)) == of(n) for n in range(1, 17)), '8 up brings each of the ten onto its own seat')
+say(all(of(moves['8 up'](n)) == of(n) for n in range(1, 17)), '8 up brings each of the ten onto its own two names again')
 swap = {'now': 'all', 'all': 'now', 'existing': 'same', 'same': 'existing'}
 say(all(BINARY[moves[m](n)] == swap[BINARY[n]] for m in ('9 less', '17 less') for n in range(1, 17)),
     '9 less and 17 less each bring each of now onto one of all, and each of existing onto one of same')

@@ -1,17 +1,17 @@
-"""Each hard problem by its seat among the seventeen names. Reads Exhibit TWENTY-TWO Resolving the Hard Problem
+"""Each hard problem by its unchangeable's two names among the seventeen. Reads Exhibit TWENTY-TWO Resolving the Hard Problem
 Registry's ten parts, each an unchangeable with its two names and each hard problem under it with its number, and
 Exhibit TWENTY-ONE Hard Problem Registry's entries; executes; writes no file; decides nothing.
 
-Use: python3 -I incoming/v403mgr/instruments/hard_problems_by_their_seats.py <root>        each part, and each check
-     python3 -I incoming/v403mgr/instruments/hard_problems_by_their_seats.py <root> csv    each hard problem, a line
+Use: python3 -I incoming/v403mgr/instruments/hard_problems_by_their_two_names.py <root>        each part, and each check
+     python3 -I incoming/v403mgr/instruments/hard_problems_by_their_two_names.py <root> csv    each hard problem, a line
 
 Returned at main, 16 November 2026, each check is:
   255 hard problems under ten unchangeables, each under one and no more: from behind 33, as a place 24, as a last
   33, as a store 9, as an end 25, as a magnitude 19, to one beat 20, as a value 16, to one side 43, as a cut 33.
-  By seat: 1 and 9, 24; 2 and 10, 33; 3 and 11, 43; 4 and 12, 20; 5 and 13, 58; 6 and 14, 33; 7 and 15, 35;
+  By two names: 1 and 9, 24; 2 and 10, 33; 3 and 11, 43; 4 and 12, 20; 5 and 13, 58; 6 and 14, 33; 7 and 15, 35;
   8 and 16, 9. Each is an entry of Exhibit TWENTY-ONE Hard Problem Registry but 172, of no entry; each entry is
   under one of the ten but 166, under part twelve. Each entry has its line of a conserving relation, a conserving
-  reach, a reach, an unreachability and a persistence, each in the table with its seat; an unreachability has its
+  reach, a reach, an unreachability and a persistence, each in the table with its two names; an unreachability has its
   words with 174 entries and none with 81. 160 of 255 conserving reaches open with a whole.
 """
 import csv, glob, os, re, sys
@@ -55,4 +55,4 @@ whole = sum(1 for n in entries if OWN[n]['Conserving reach'].split()[0].strip(',
 print(f'  a conserving reach opening with all, every, each or any: {whole} of {len(entries)} entries')
 by_seat = {}
 for r in rows: by_seat.setdefault((r[4], r[5]), []).append(r[0])
-print('  each seat with its hard problems:', {f'{a.split("-")[0]} and {b.split("-")[0]}': len(v) for (a, b), v in sorted(by_seat.items(), key=lambda x: int(x[0][0].split('-')[0]))})
+print('  each two names with their hard problems:', {f'{a.split("-")[0]} and {b.split("-")[0]}': len(v) for (a, b), v in sorted(by_seat.items(), key=lambda x: int(x[0][0].split('-')[0]))})

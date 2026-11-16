@@ -27,7 +27,7 @@ Returned at main, 16 November 2026, each check is:
   A fold about no number has no name with itself; a ring's fold has two, 8 apart and of one root; each seam's ring
   has same-existing names with themselves and no other. Two and one hundred eighteen on a ring of 120 are a 2 with
   a 6, parity's unit square's across edge; the elements' turn with 60 is a 12-next-co-same-existing.
-  A ring's two names with themselves are one seat of Exhibit TWENTY-TWO Resolving the Hard Problem Registry's ten
+  A ring's two names with themselves are the two names of one of ten in Exhibit TWENTY-TWO Resolving the Hard Problem Registry's ten
   unchangeables with each ring: a ring of 8, 24, 120, 360 or 440, a sequencing fixing to one beat; a ring of 16, 48,
   80 or 880, a same-existing fixing as a store.
 """
@@ -148,7 +148,7 @@ hard = living('Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry'); seat = 
 SEAT = {}
 for what, a, b in re.findall(r'(an? [a-z-]+ fixing [a-z ]+?), with (\d+)(?:-[a-z-]+)? and (\d+)', seat): SEAT.setdefault((int(a), int(b)), []).append(what)
 say(len(SEAT) == 8 and sum(len(v) for v in SEAT.values()) == 10 and all(tuple(fixed(c)) in SEAT for c in range(2, 1026, 2)),
-    'a ring\'s two names with themselves are one seat of Exhibit TWENTY-TWO Resolving the Hard Problem Registry\'s ten unchangeables, a name with now and that name 8 up, with each ring; and each of its eight seats is some ring\'s')
+    'a ring\'s two names with themselves are the two names of one of ten in Exhibit TWENTY-TWO Resolving the Hard Problem Registry\'s ten unchangeables, a name with now and that name 8 up, with each ring; and each of its eight pairs of names is some ring\'s')
 for N_ in (8, 24, 120, 360, 440, 16, 48, 80, 880, 60, 118): print(f'    a ring of {N_}: {" and ".join(NAME[x] for x in fixed(N_))}: {" · ".join(SEAT[tuple(fixed(N_))])}')
 print('The elements, Exhibit EIGHTEEN Natural Physics, each number by its name:')
 say(place(2) == 2 and place(118) == 6 and (2, 6) in pairs(120), 'two and one hundred eighteen, podal on a ring of 120, are a 2-now-possibling with a 6-now-co-possibling: parity\'s unit square\'s across edge, 6 with 2')

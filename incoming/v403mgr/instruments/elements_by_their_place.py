@@ -27,7 +27,7 @@ Returned at main, 16 November 2026, each check is:
   twenty, the fifth seam, an 8-now-same-existing sixteen on; the elements are these less the last two.
   A shell's 1, 4, 9 and 16, the odd numbers added from one, are the four names of squares, and twice them the
   rows' 2, 8, 18 and 32, adding to sixty.
-  The element under each element is 2, 8, 18 or 32 up from it, a row's length: 8 up is one seat, and 32 up
+  The element under each element is 2, 8, 18 or 32 up from it, a row's length: 8 up is a name with its name 8 apart, and 32 up
   one name.
   The sixteen from lithium to argon, rows two and three, the first row's two before them: lithium, sodium and
   potassium are 1, 9 and 17. The four same-existing names, 4, 8, 12 and 16, are carbon, neon, silicon and argon,
@@ -134,7 +134,7 @@ say(ups == {2, 8, 18, 32} and all(e['under'] for e in E if e['row'] < 7 and not 
     "the element under each element is 2, 8, 18 or 32 up from it, a row's length")
 say(all(name_of(e['under']['z']) == name_of(e['z']) for e in E if e['under'] and e['under']['z'] - e['z'] == 32)
     and all(name_of(e['under']['z']) == (name_of(e['z']) + 7) % 16 + 1 for e in E if e['under'] and e['under']['z'] - e['z'] == 8),
-    '32 up, the element under it has its name; 8 up, the element under it has the name 8 apart, one seat')
+    '32 up, the element under it has its name; 8 up, the element under it has the name 8 apart')
 print('      8 up:', ' '.join(f"{SYMBOLS[e['z'] - 1]}-{SYMBOLS[e['under']['z'] - 1]}" for e in E if e['under'] and e['under']['z'] - e['z'] == 8))
 print('      closings by name:', ', '.join(f'{z} a {name_of(z)}' for z in closing))
 

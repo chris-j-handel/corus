@@ -1,15 +1,15 @@
 """Exhibit EIGHTEEN Natural Physics in the table: each observing of its register with the fixing it is at, the
-unchangeable of ten that fixing is, and that unchangeable's seat among the seventeen names.
+unchangeable of ten that fixing is, and that unchangeable's two names among the seventeen.
 Reads Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY-TWO Resolving the Hard Problem Registry, Exhibit FIVE
 Natural Engineering and Exhibit ONE Natural Resolver; executes; writes no file; decides nothing. Each answer is
 all or none at all, by each observing.
 
-Use: python3 -I incoming/v403mgr/instruments/physics_by_its_seats.py <root>          each check
-     python3 -I incoming/v403mgr/instruments/physics_by_its_seats.py <root> csv      one line with each observing
+Use: python3 -I incoming/v403mgr/instruments/physics_by_its_two_names.py <root>          each check
+     python3 -I incoming/v403mgr/instruments/physics_by_its_two_names.py <root> csv      one line with each observing
 
 Returned at main, 16 November 2026, each check is:
   Fifty observings of the register, each with the fixing it is at: forty-eight with one of the ten unchangeables,
-  thirty-seven in the seating's own words and eleven in other words, a rate fixing to a value with six and a
+  thirty-seven in Exhibit TWENTY-TWO's own words and eleven in other words, a rate fixing to a value with six and a
   bound fixing as a last with five; two this file's own, with no registry entry. Each observing's register is
   with a section of this file or standing. Nine of the ten have an observing; an opening fixing as a place has
   none. Work and waste heat has one unchangeable here and in Exhibit FIVE Natural Engineering.
@@ -49,11 +49,11 @@ def say(ok, label):
 print(f"Exhibit EIGHTEEN Natural Physics, its register: {len(E)} observings")
 own = [e for e in E if not e['ten']]; worded = [e for e in E if e['other']]
 say(len(E) == 50 and all(len(e['ten']) == 1 or e['fixing'].startswith("this file's own") for e in E) and len(own) == 2 and len(worded) == 11,
-    "fifty observings, each with the fixing it is at: forty-eight with one of the ten unchangeables, thirty-seven in the seating's own words and eleven in other words, and two this file's own, with no registry entry")
+    "fifty observings, each with the fixing it is at: forty-eight with one of the ten unchangeables, thirty-seven in Exhibit TWENTY-TWO's own words and eleven in other words, and two this file's own, with no registry entry")
 say(all(e['section'] in sections for e in E if e['section']) and all(e['section'] or e['register'].startswith('standing') for e in E),
     f"each observing's register is with a section of this file, with {sum(1 for e in E if e['section'])}, or standing, with {sum(1 for e in E if not e['section'])}")
-print(f"      a fixing said in other words than Exhibit TWENTY-TWO Resolving the Hard Problem Registry's seating has it, {len(worded)}:")
-for w_ in sorted({(e['fixing'], e['other'][0]) for e in worded}): print(f"        *{w_[0]}* · the seating: {w_[1]}")
+print(f"      a fixing said in other words than Exhibit TWENTY-TWO Resolving the Hard Problem Registry has it, {len(worded)}:")
+for w_ in sorted({(e['fixing'], e['other'][0]) for e in worded}): print(f"        *{w_[0]}* · Exhibit TWENTY-TWO: {w_[1]}")
 by = {}
 for e in E:
     for t in e['ten']: by.setdefault(t, []).append(e['observing'])
