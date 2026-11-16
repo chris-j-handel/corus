@@ -135,6 +135,8 @@ To read with its 21, argon one atom alone: by `elements_by_their_place.py`, with
 
 To read with its 29, three fours in a triangle: by `elements_by_their_place.py`, by threes from two, helium 2, carbon 6, argon 18 and xenon 54 are each three of its prior; sixteen on they are 2, 6, 2 and 6, the unit square's across edge 6 with 2.
 
+**Its sixth returning, received.** *Betweens, nothings, and what accumulates in them: a sentence read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: seventy-six checks, each is. Its is-or-is-nots 30 to 33 are laid with Natural Intelligence's gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
