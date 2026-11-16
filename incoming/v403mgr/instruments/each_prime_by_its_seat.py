@@ -90,9 +90,9 @@ FORMS = (('a square and a square', two_squares, {1, 5, 9, 13}, lambda x, y: f'{x
 
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(['prime', 'its position among primes', 'its name, sixteen on', 'its root', 'the unchangeable seated with its name and that name 8 apart',
+    w.writerow(['prime', 'its position among primes', 'its name, sixteen on', 'its root', 'its unchangeable, with its name and that name 8 apart',
                 "its ring of the second surface's diagonals", 'a square and a square', 'a square and two of a square', 'a square less two of a square',
-                'its line down, of thirty-two', 'its line across, of thirty-two', '8 up from it, a prime of its seat', '2 up from it, a prime'])
+                'its line down, of thirty-two', 'its line across, of thirty-two', '8 up from it, a prime of its two names', '2 up from it, a prime'])
     for i, p in enumerate(P, 1):
         n = name_of(p)
         w.writerow([p, i, NAME[n], ROOT[n], ' · '.join(SEAT[n]), RING.get(line(p), '2-6-12-16' if n in (2, 6, 12, 16) else '8-4-14-10')]

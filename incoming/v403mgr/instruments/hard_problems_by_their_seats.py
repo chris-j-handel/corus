@@ -37,7 +37,7 @@ for i in range(1, len(body), 2):
     OWN[int(body[i])] = {m.group(1): m.group(2) for l in body[i + 1].split('\n') for m in [re.match(r'\*\*(' + '|'.join(FIVE) + r')\.\*\* ?(.*)', l)] if m}
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(['its number in the Hard Problem Registry', 'hard problem', 'part', 'its unchangeable', 'seated with, now', 'and 8 up, next', 'ten fold to four: its fixing by a coarser grain', 'its conserving relation', 'its conserving reach', 'its reach', 'its unreachability', 'its persistence'])
+    w.writerow(['its number in the Hard Problem Registry', 'hard problem', 'part', 'its unchangeable', 'its now name', 'its next name, 8 up', 'ten fold to four: its fixing by a coarser grain', 'its conserving relation', 'its conserving reach', 'its reach', 'its unreachability', 'its persistence'])
     w.writerows(r + [OWN.get(r[0], {}).get(k, '') for k in FIVE] for r in sorted(rows)); sys.exit()
 say = lambda ok, label: print(f'  {"is" if ok else "is-not"} · {label}')
 print(f'{len(rows)} hard problems under ten unchangeables; {len(entries)} entries in Exhibit TWENTY-ONE Hard Problem Registry.')

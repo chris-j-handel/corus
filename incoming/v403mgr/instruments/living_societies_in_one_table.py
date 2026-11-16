@@ -37,7 +37,7 @@ def among(f):
     k = next((k for k in OPENS if s.startswith(k + ',')), None)
     return next(u for u in SEAT if u.endswith(OPENS[k])) if k else None
 if WHAT == 'csv':
-    w = csv.writer(sys.stdout, lineterminator='\n'); w.writerow(['its place in the Living Society Registry', 'society', 'the unchangeable its standing opens with', 'seated with, now', 'and 8 up, next'] + [x[0].lower() + x[1:] for x in labels])
+    w = csv.writer(sys.stdout, lineterminator='\n'); w.writerow(['its place in the Living Society Registry', 'society', 'the unchangeable its standing opens with', 'its now name', 'its next name, 8 up'] + [x[0].lower() + x[1:] for x in labels])
     w.writerows([n, title, among(f), NAME[SEAT[among(f)][0]], NAME[SEAT[among(f)][1]]] + [f.get(k, '') for k in labels] for n, title, f in E); sys.exit()
 print(f'{len(E)} societies; {len(labels)} lines of an entry:', ', '.join(labels))
 print('Each check, all or none at all:')
