@@ -95,6 +95,12 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 - A second hand on v403mgr's newest instruments, each label read with its lines: `the_scale_ladder_by_its_primes.py`, `illustrating_by_the_table.py`, `each_is_or_is_not_open.py`.
 - `incoming/v403mgr/For_the_managing_session_after_v403mgr.md`, a page for the managing session after v403mgr: a thing v403cohering has learned of the method and the page has not, said.
 
+**v403cohering's fifth returning, received.** *Each dissolved word of Natural Naming with its saying, in one table, and the ten names' is-or-is-not? in natural naming*, is read for harm and received at main, 16 November, by the set's own copy of the reading script: on a trial merge one droplet of its own re-said and three laid, each heading in order; `check_set.py` ALL PASS; its instrument by a second hand, each check is. Its askings:
+
+- *seat* and *seated*, dissolved, and the tables' naming: the is-or-is-not? is the partners', and the tables' naming goes with its is. v403mgr's new droplets and its speaking say *seating* and an unchangeable's two names.
+- The droplet of Exhibit TWENTY-NINE Natural Illustrating's gathering file with four of the ten in one line: re-said, each of the four with its own two names.
+- Exhibit TWENTY Natural Naming's sixth part, a field's namings with the resolver's names, read with the table: v403cohering's. v403mgr goes on with the files of the next managing session's page, part 5.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
