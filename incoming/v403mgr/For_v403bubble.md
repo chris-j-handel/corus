@@ -143,6 +143,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **Its ninth returning, received.** *The round of four parities as four bubbles: the math and creating of bubbling betweening*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 91 checks, each is. Its is-or-is-nots 40 to 44 are each laid with its gathering file.
 
+**Its tenth returning, received.** *Double-double bubble-bubbling, a double of doubles, and a sorting: a sentence read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 97 checks, each is. Its is-or-is-nots 45 to 48 are each laid with its gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
