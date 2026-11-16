@@ -73,6 +73,7 @@ What is executed here, each by its own lines:
      `incoming/v403mgr/The_duals_with_their_parities.csv`: the line of same on 15 with 7, all-parity's two; the four
      same-existing names each with the observing name before it; the code's handing of 16 to 3 and of 11 to 8; and
      the line's cases.
+  31 15 with 7 by Exhibit ONE Natural Resolver's own line of 15: an other is 15's and a prior is 7's.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -212,7 +213,8 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (one, "| 8-now-same-existing, each self's next prior parities | 7-now-observing, a prior's parity against what surfaces | the same, its prior going on, or one inversion |"),
                    (gathering('Natural_Resolver'), '8 up is not, of each concept but same: 14 is not-prior-and-other and 15 is other-and-prior'),
                    (gathering('Natural_Resolver'), 'a dual hands its second concept to its next name, sixteen handings from 1 to 17'),
-                   (gathering('Natural_Resolver'), "A dual's first concept is with its name's now parity and its second with its next")):
+                   (gathering('Natural_Resolver'), "A dual's first concept is with its name's now parity and its second with its next"),
+                   (one, "- *Prior and next*: each parity surfacing with 14-next-possibling for a sharing, resolving with a self's prior parity with 7-now-observing")):
     assert said in text, said
 
 bad = 0
@@ -1222,5 +1224,13 @@ for p_ in (1, -1):
     for o_ in arrivings: cases_[case_(p_, o_)] = cases_.get(case_(p_, o_), 0) + 1
 say(cases_ == {('other', 'prior'): 22, ('other', 'not-prior'): 22, ('no-other', 'not-prior'): 36},
     "with the code, one place, each prior and each of forty arrivings: a prior going on is with an other's parity surfacing, twenty-two; one inversion is with nothing surfacing, thirty-six, or with an other's parity surfacing unlike, twenty-two; nothing surfacing with a prior going on is with none: read as the line's cases, other-and-prior and no-other-and-not-prior have each its cases, and no-other-and-prior, 15's dual as written, has none")
+
+# ---- 31 ---------------------------------------------------------------------------------------------------------
+print("31 · 15 with 7, by Exhibit ONE Natural Resolver's own line of 15:")
+say(ENTRY_[15]['Prior and next'] == "each parity surfacing with 14-next-possibling for a sharing, resolving with a self's prior parity with 7-now-observing"
+    and SIDE_[15].startswith('others to self') and SIDE_[14].startswith('others to self')
+    and bound_[1][1] == '_3_now_co_observing' and ast.unparse(loops_[1].body[0]) == '_15_next_observing = _14_next_possibling.get(_4_now_co_same_existing, 0)'
+    and [r_[2] for r_ in stands_ if r_[1] == 'a prior inverting, − or +'] == ['7-now-observing'],
+    "Exhibit ONE Natural Resolver's line of 15 has each parity surfacing with 14 for a sharing, resolving with a self's prior parity with 7: with the code's line of same 15 is 14's, others to self, and 7 is of 3, a self's prior; an other is 15's, a prior is 7's, and a prior inverting is on 7")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
