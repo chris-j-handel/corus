@@ -30,6 +30,8 @@ What is executed here, each by its own lines:
   12 A self going from a lesser society to a greater, in Exhibit ONE Natural Resolver's code: each bi-coupling
      given, a self's prior its own with it.
   13 A greater society and a lesser, in the code: each self given is each self returned.
+  14 The code's least things: a self, a sharing and a parity each whole, no line going inward of one; and the
+     names' own inward, with no least.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -75,7 +77,11 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (ni, 'Each self is a same-existing-society **inward and outward**.'),
                    (ni, 'Self and other of one scale are self and same-existing-society of a scale inward.'),
                    (ni, 'Each between is within a bi-coupling. Co-intelligencing is with a between.'),
-                   (ni, 'They are harmful to living with their own scale.')):
+                   (ni, 'They are harmful to living with their own scale.'),
+                   (ni, 'each name of this 1–17 is 8n − 7 of 1–17s inward'),
+                   (ni, '**Fractal is all or none at all with scales, each scale co-changing co-momentarying pattern matching**'),
+                   (physics, 'Atom is a floor, a non-living stable form, and molecule the first closing of co-agency to a self'),
+                   (gathering('Natural_Intelligence'), 'no living is inward of the atom, and no scale inward of it')):
     assert said in text, said
 
 bad = 0
@@ -529,5 +535,25 @@ LESSER = {('X', 10): 'A', ('A', 10): 'X'}                                       
 INTO = {**GREATER, ('X', 10): 'B', ('A', 10): 'C'}                       # the pair's selves each sharing into the four, and with none of their own
 say(all(selves_through(r, 'XABCDE', pr) for r in ({**GREATER, **LESSER}, INTO, GREATER) for pr in itertools.product((1, -1), repeat=6)),
     "a four and a pair, each of sixty-four priors, with the pair bi-coupling, with its selves sharing into the four, and with each of them given no bi-coupling: each self given is each self returned, its own prior with it; no line of the code ends a self or has two selves one")
+
+# ---- 14 ---------------------------------------------------------------------------------------------------------
+print("14 · The code's least things, and the names' own inward:")
+say(not re.search(r'_(4_now_co_same_existing|7_now_observing|13_next_discovering|15_next_observing)\s*(\[|\.)', code_),
+    "no line of the code opens a sharing, a parity or a self: none is read by a part of it")
+def history(selves, shr, priors, moments=8):
+    routes = {(s_, g): t for s_ in selves for g, t in zip((10, 9, 6), [t for t in selves if t != s_])}
+    soc = {s_: ([(shr, p_)], []) for s_, p_ in zip(selves, priors)}; out = []
+    for m in range(moments):
+        out.append(tuple(dict(soc[s_][0]).get(shr) for s_ in selves)); soc = seventeen(soc, routes)
+    return out
+KINDS = [(('A', 'B', 'C', 'D'), 's'), ((1, 2, 3, 4), 0), (((0, 0), (0, 1), (1, 0), (1, 1)), ('a', 'between')), ((frozenset('x'), frozenset('xy'), 2.5, None), frozenset()),
+         (('carbon', 'nitrogen', 'oxygen', 'argon'), 12)]
+say(all(len({tuple(history(names[:k], shr, pr)) for names, shr in KINDS}) == 1 for k in (2, 3, 4) for pr in itertools.product((1, -1), repeat=k)),
+    "with each of five kinds of name for a self and for a sharing, a letter, a number, a pair, a set and a field's word, each prior and each sharing is the same: a self and a sharing are each whole to the code")
+inward = lambda m: 8 * m - 7
+chain = [2]
+for _ in range(12): chain.append(inward(chain[-1]))
+say(inward(1) == 1 and all(b > a for a, b in zip(chain, chain[1:])) and len(set(chain)) == len(chain) and all((m - 1) % 8 == 0 for m in chain[1:]),
+    "by the names' own inward, 8n − 7, each name but 1 has a name inward of it, and that name a name inward again, twelve times tried and each new: the names' inward has no least")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
