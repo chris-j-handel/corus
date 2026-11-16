@@ -14,7 +14,9 @@ Says:
      Adding lines, and its Entering line the group's Adding lines joined in order.
   2. The Living File Registry's number of steps and of groups for Exhibit THIRTY against its own.
   3. Released words among the words this motion adds, from released_words.txt beside this file,
-     outside italics and code; bold is read.
+     outside italics and code; bold is read. A quotation of eight words or more that is word for
+     word a living file's, bold and italic marks passed over, is that file's own words, a mention,
+     and is passed over, as the gathering check reads a quotation; each other quotation is read.
   4. Retired sayings still at the living files, from retired_sayings.txt beside this file, a sentence
      saying the retiring itself (dissolved, released, re-said, retired) passed over, and a saying
      in italics or quotes, or within a living file's own title, passed over as a mention.
@@ -118,23 +120,46 @@ mb = git('merge-base', base, 'HEAD').strip() or base   # a failed merge-base is 
 print(f'   the merge-base read: {mb[:10] if re.fullmatch(r"[0-9a-f]{40}", mb) else mb}')
 released = words_file('released_words.txt')
 diff = git('diff', '--word-diff=porcelain', '-U0', mb, '--', '*.md')
-cur = None; ln = 0; words_read = 0
+# a quotation word for word a living file's is that file's own words, a mention, as the gathering check reads it
+def norm(s):
+    s = s.replace('*', '').replace('\u2019', "'").replace('\u2018', "'")
+    return re.sub(r'\s+', ' ', s).strip()
+LIVING_N = [norm(open(f, encoding='utf-8').read()) for f in glob.glob(os.path.join(root, '*_v*.md'))]
+QUOTE = re.compile(r'"([^"\n]*)"')
+def mentions(new):
+    return [m.span(1) for m in QUOTE.finditer(new) if len(m.group(1).split()) >= 8 and any(norm(m.group(1)) in t for t in LIVING_N)]
+cur = None; ln = 0; words_read = 0; passed = 0; pieces = []
+def read_line():
+    # one line of a file as it is now: its unchanged and its added pieces, in order; an added piece is read
+    global pieces, words_read, passed
+    if pieces and cur and not cur.endswith('Session_Record.md'):   # the record names released words as released
+        new = ''.join(t for k, t in pieces if k != '-'); spans = mentions(new) if '"' in new else []
+        at = 0
+        for k, t in pieces:
+            if k == '-': continue
+            if k == '+':
+                seen = ''.join(' ' if any(a <= at + i < b for a, b in spans) else c for i, c in enumerate(t)) if spans else t
+                passed += seen != t
+                text = unquoted(seen); words_read += len(text.split())
+                for w in released:
+                    if re.search(r'(?<![\w-])' + re.escape(w) + r'(?![\w-])', text, re.I):
+                        say(f'{cur}:{ln}: "{w}" in "{t[:80].strip()}"')
+            at += len(t)
+    pieces = []
 for line in diff.split('\n'):
     if line.startswith('+++ '):
-        cur = line[6:]; continue
+        read_line(); cur = line[6:]; continue
     if line.startswith(('--- ', 'diff ', 'index ', 'new file', 'deleted file')):
-        continue
+        read_line(); continue
     m = re.match(r'@@ -\S+ \+(\d+)', line)
     if m:
-        ln = int(m.group(1)); continue
+        read_line(); ln = int(m.group(1)); continue
     if line == '~':
-        ln += 1; continue
-    if line.startswith('+') and cur and not cur.endswith('Session_Record.md'):   # the record names released words as released
-        text = unquoted(line[1:]); words_read += len(text.split())
-        for w in released:
-            if re.search(r'(?<![\w-])' + re.escape(w) + r'(?![\w-])', text, re.I):
-                say(f'{cur}:{ln}: "{w}" in "{line[1:81].strip()}"')
-print(f'   read {words_read} added words')
+        read_line(); ln += 1; continue
+    if line[:1] in (' ', '+', '-') and cur:
+        pieces.append((line[0], line[1:]))
+read_line()
+print(f'   read {words_read} added words; passed over {passed} added pieces inside a quotation word for word a living file\'s')
 
 # 4. Retired sayings still at the living files
 print('4. Retired sayings at the living files')

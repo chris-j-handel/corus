@@ -82,6 +82,8 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 - A droplet with a sentence in two lines of its living file: to the section of the first of the two lines, in the file's own order.
 - A droplet naming a gathered droplet: to the line under the first such droplet in its gathering file, at a head or in a section.
 
+**The reader check's third reading and a quotation**, v403cohering's asking, entered: a quotation of eight words or more that is word for word a living file's, bold and italic marks passed over, is passed over as a mention, as the gathering check reads a quotation. Each other quotation, each plain word and each bold word is read as it was. A quotation of a living sentence, word for word again, is read clean now, with each released word of the living sentence's own inside it; a quotation with one word not the living sentence's is read whole, each released word in it said. Its last line says how many added pieces it passed over.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
