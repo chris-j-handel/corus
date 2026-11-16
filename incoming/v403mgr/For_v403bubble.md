@@ -127,6 +127,10 @@ To read with a pattern on a surface: by `ways_closed_on_the_surface.py`, the six
 
 To read with a name with itself: by `ways_closed_on_the_surface.py`, no parity changing has a name with itself, and each name is with itself by one alone of four folds about a diagonal, the two kinds of parity exchanged, down with across.
 
+**Its fourth returning, received.** *Gases, toxic stable forms, and a greater society with a lesser: a sentence read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: seventy-one checks, each is. Its is-or-is-nots 21, 22 and 24 are laid with Natural Intelligence's gathering file, and 23 with Exhibit SEVEN Natural Societies's.
+
+To read with its 21, argon one atom alone: by `elements_by_their_place.py`, with the first row's two before them, lithium to argon are sixteen. The four same-existing names, 4, 8, 12 and 16, are carbon, neon, silicon and argon, 4 and 12 co and 8 and 16 one by Exhibit ONE Natural Resolver's table. A field's sharings of each of the sixteen are its place's going round a ring of eight from its row's closing: none with neon and argon, four with carbon and silicon. Its is-or-is-not is with Exhibit SIXTEEN Natural Chemistry's gathering file: argon and carbon are two faces of one root, same-existing.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
