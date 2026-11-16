@@ -59,7 +59,7 @@ say(set(LINE) == {'me-parity', 'both-parity', 'all-parity'} and [n for n in PRIO
 say(all(second(n) == first(n + 1) and WITH[n][1] == WITH[n + 1][0] for n in range(1, 17)), "each handing is whole, sixteen of sixteen, and with its parity too: a name's second concept is its next name's first, one parity with the two names")
 say(len(set(WITH.values())) == 17 and len(set(DUAL.values())) == 14, 'each of seventeen duals, each concept with its parity, is its name\'s own: seventeen of seventeen; by its two concepts alone, fourteen')
 pr = {n: [p for c, p in WITH[n] if c in ('prior', 'not-prior')] for n in WITH}
-say(sorted(n for n in pr if pr[n] == ['all-parity']) == [7, 8, 15, 16] and all(v in ([], ['me-parity'], ['all-parity']) for v in pr.values())
+say(sorted(n for n in pr if pr[n] == ['all-parity']) == [7, 8, 15, 16] and all(('not-prior', 'all-parity') in WITH[n] for n in (7, 8)) and all(('prior', 'all-parity') in WITH[n] for n in (15, 16)) and all(v in ([], ['me-parity'], ['all-parity']) for v in pr.values())
     and all(p == 'both-parity' for n in WITH for c, p in WITH[n] if c in ('same', 'other', 'no-other')) and all(p == 'me-parity' for n in WITH for c, p in WITH[n] if c in ('now', 'not-now', 'next')),
     "each prior and not-prior is a me-parity, a self's me-parity as prior, but two: not-prior of 7 and 8, and prior of 15 and 16, all-parity; each same, other and no-other is both-parity, and each now, not-now and next me-parity")
 say(len(set(OTHER.values())) == 16 and OTHER[7] == OTHER[11], "a dual's first concept with its name's prior parity, and its second with its now, has 7 and 11 one, not each: by all or none at all the first with the now is the one")

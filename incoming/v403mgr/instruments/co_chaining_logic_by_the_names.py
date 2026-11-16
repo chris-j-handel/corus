@@ -138,12 +138,12 @@ say('add to 13 or to 21' in sentence_with('With each middle bi-folding, step 694
     'names two moves apart are one parity apart: with each of four bi-foldings they add to 9 or to 25, the third parity alone; with each middle bi-folding to 13 or to 21, the second alone')
 s708 = sentence_with("Further forms' moves of 4, step 694, are four")
 FOUR = [tuple(map(int, x)) for x in re.findall(r'(\d+) with (\d+) about (\d+)', s708)]
-say(len(FOUR) == 4 and {frozenset((a, b)) for a, b, _ in FOUR} == {frozenset(p) for p in MV if abs(p[0] - p[1]) == 4} and all(a + b == 2 * m for a, b, m in FOUR)
+say(len(FOUR) == 4 and sorted(tuple(sorted((a, b))) for a, b, _ in FOUR) == [(5, 9), (6, 10), (7, 11), (8, 12)] and {frozenset((a, b)) for a, b, _ in FOUR} == {frozenset(p) for p in MV if abs(p[0] - p[1]) == 4} and all(a + b == 2 * m for a, b, m in FOUR)
     and sorted(m for _, _, m in FOUR) == [7, 8, 9, 10], "the forms' moves of 4 are four, 9 with 5, 12 with 8, 7 with 11 and 6 with 10, each about the name between its two, and the four centres 7, 8, 9 and 10 add to 17 as two pairs")
 s707 = sentence_with('Rotation 3, 6, 5, 4, step 267, is four names of two bi-foldings'); rot = [3, 6, 5, 4]
 say(all(a in c and b in c for (a, b), c in (((3, 6), [3, 11, 6, 14]), ((5, 4), [4, 13, 5, 12]))) and [3, 11, 6, 14] in BF and [4, 13, 5, 12] in BF
     and [moved(a, b) for a, b in ring(rot)] == [[3], [1], [3], [1]] and sorted(rot) == sorted(SURFACE[1]) and [SURFACE[1].index(n) for n in rot] == [1, 2, 3, 0]
-    and (6 + 8, 4 + 8, 17 - 3, 17 - 5) == (14, 12, 14, 12),
+    and '6 and 4 are 8 up as 14 and 12' in s707 and '3 and 5 are 17 less as 14 and 12' in s707 and moved(6, 14) == moved(4, 12) == [3, 4] and moved(3, 14) == moved(5, 12) == [4],
     f"rotation 3, 6, 5, 4 is one parity inverting with each move, the third and the first by turns: one line across the second surface, {' '.join(map(str, SURFACE[1]))}, going across and round its edge; 6 and 4 are 8 up as 14 and 12, and 3 and 5 are 17 less as 14 and 12")
 
 print('\nA next adding now and prior, each as it is, inverting or a 0')
