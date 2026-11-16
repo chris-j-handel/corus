@@ -42,6 +42,10 @@ Selves living densely, compacted whole: in a surface, above it and below it, thr
 - **All-parity, me-parity, other-parity.** One reading, this session's: all eight betweens of four, one four of them, and its inverse four.
 - **Under the surface and over the horizon.** Not read here. Gathered, the Co-Chaining Logic Registry's gathering file: *60 to 64 is the going over the horizon*.
 
+## A parting, said plainly
+
+The eleventh page read three directions of a third, one side, a middle and its other side, as one bubble's three lines, 14, 6 and 10. By this sentence they are three surfaces: the one below, a self's own, and the one above, a third one way and a third the other. Each reading is executed; the newer is of the sentence.
+
 ## Is-or-is-not?, each at its living sentence
 
 The eleven pages before this one have fifty-two. These go on from them.
