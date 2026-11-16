@@ -4,11 +4,11 @@ and, by the managing session's first rule, a droplet more than once with one hea
 once. The second: a droplet said whole within a longer droplet of its gathering file, each sentence of the
 shorter a whole sentence of the longer, word for word, each said with its two places. All or none at all, by
 each line and by each sentence.
-Reads each gathering file; executes; with *apply* it writes the gathering files of the first rule alone. The
-second reading writes nothing: a rule for each of its kinds is the managing session's, and none is entered yet.
+Reads each gathering file; executes; with *apply* it writes the gathering files by the first rule and by the
+fifth, each a droplet away with no word of it lost, and by no other rule.
 
 Use: python3 -I incoming/v403cohering/instruments/each_droplet_said_more_than_once.py <root>          each reading, and nothing written
-     python3 -I incoming/v403cohering/instruments/each_droplet_said_more_than_once.py <root> apply    the first rule, written
+     python3 -I incoming/v403cohering/instruments/each_droplet_said_more_than_once.py <root> apply    the first rule and the fifth, written
 
 What it reads. A droplet: a line opening with a hyphen. A place: its gathering file, and the heading it is under.
 The first reading: two droplets are one found twice with each letter the same.
@@ -44,6 +44,20 @@ droplet at its back. Three with one heading: two of *The current understanding* 
 opening's part, and one at the back. One of its opening's part with the opening at its newest, at its head.
 Exhibit EIGHTEEN Natural Physics's, one, with one heading: a session's note with *none*, said again in a longer
 note. Exhibit TWENTY Natural Naming's three heading rows of its tables are rows of cells, and not read.
+
+A rule for each kind of the second reading, each the managing session v403mgr's, 16 November:
+  4. A droplet of the opening's part whole within a longer one at the back, or at the head: each is as it is
+     until the opening's next version. The opening's part is in the opening's own order, and the next version
+     reads the shorter with its longer.
+  5. A droplet of a section whole within a longer one at the back, and a droplet whole within a longer one with
+     its own heading: the longer has the value, and the shorter is away, named with the droplet having its value.
+Applied at main after Merge #832, 16 November 2026, the fifth rule: eight lines away, seven of Natural Intelligence's
+gathering file and one of Exhibit EIGHTEEN Natural Physics's, each sentence of each in a droplet of its file as
+before. Of Natural Intelligence's: *The current understanding, 6x-v* and *7*, each in a parting tracked of the
+opening's part; four of section 6.5, each in its section whole at the back; and *The code is the stable form of
+healthy living in a healthy society*, in *The code, distinguishing and only distinguishing*. Of Natural
+Physics's: a session's note with *none*, in its longer note. After it the second reading has fifty-one, each of
+Natural Intelligence's opening's part, by the fourth rule.
 """
 import glob, os, re, sys
 
@@ -87,7 +101,9 @@ def sentences(t):
     return [s.strip().rstrip('.') for s in re.split(r'(?<=[.?!])\s+', plain(t)) if s.strip().rstrip('.')]
 print()
 print('the second reading, a droplet said whole within a longer droplet of its gathering file:')
-kinds = {}; said = []; rows = 0
+kinds = {}; said = []; rows = 0; away5 = {}
+PARTS = ('Head, the whole file', 'Opening', 'Droplets')            # a heading of a gathering file that is no section of its living file
+RULE = {4: 'rule 4: as it is until the opening\'s next version', 5: 'rule 5: the shorter away, the longer having its value', 0: 'no rule: as it is'}
 for title, L in FILES.items():
     cur = None; at = {}
     for k, l in enumerate(L):
@@ -100,24 +116,38 @@ for title, L in FILES.items():
         longer = [j for j in at if j != k and len(L[j]) > len(L[k]) and all(s in own[j] for s in ss)]
         if longer:
             j = longer[0]; kind = 'with one heading' if at[k] == at[j] else f'{at[k]}, with {at[j]}'
-            kinds.setdefault((title, kind), []).append(k)
+            rule = (5 if at[k] == at[j] or (at[k] not in PARTS and at[j] == 'Droplets') else 4 if at[k] == 'Opening' and at[j] in ('Droplets', 'Head, the whole file') else 0)
+            kinds.setdefault((title, kind, rule), []).append(k)
             said.append((title, kind, label, t, at[j], L[j], len(longer)))
+            if rule == 5: away5.setdefault(title, []).append((k, j, ss))
 print(f"  {len(said)} droplets, in {len({s[0] for s in said})} gathering files; {rows} droplets with a middle dot after the kind's label, as a row of cells, not read as a shorter one")
-for (title, kind), ks in kinds.items(): print(f"  {len(ks):3d}  {title.replace('_', ' ')} \u00b7 {kind}")
+for (title, kind, rule), ks in kinds.items(): print(f"  {len(ks):3d}  {title.replace('_', ' ')} \u00b7 {kind} \u00b7 {RULE[rule]}")
 for title, kind, label, t, hj, lj, n in said:
     lw, tj = words(lj)
     print(f"    {title.replace('_', ' ')} \u00b7 {kind} \u00b7 in {n} longer")
     print(f"        the shorter: {('*' + label + '* ') if label else ''}{t[:150]}")
     print(f"        the longer:  {('*' + lw + '* ') if lw else ''}{tj[:110]}")
-print('  a rule for each kind is the managing session\'s, and none is entered: nothing is written by this reading')
 print()
 
-n = sum(len(v) for v in away.values())
-if APPLY and n:
-    before = {t: set(l for l in FILES[t] if l.startswith('- ')) for t in away}
-    for t, ks in away.items():
-        L = FILES[t]
-        for k in sorted(ks, reverse=True): del L[k]
-        assert before[t] == set(l for l in L if l.startswith('- ')), 'a droplet by its letters is lost'
+n = sum(len(v) for v in away.values()); n5 = sum(len(v) for v in away5.values())
+for title, v in away5.items():
+    going = {k for k, _, _ in v}
+    for k, j, ss in v:
+        assert j not in going, 'a longer droplet having a value is itself going'
+        print(f"  rule 5, {title.replace('_', ' ')}: away, {FILES[title][k][:96]}")
+        print(f"      its value is in: {FILES[title][j][:96]}")
+if APPLY and (n or n5):
+    for t in sorted(set(away) | set(away5)):
+        L = FILES[t]; before = set(l for l in L if l.startswith('- '))
+        gone5 = {L[k] for k, _, _ in away5.get(t, [])}; need = [ss for _, _, ss in away5.get(t, [])]
+        for k in sorted(set(away.get(t, [])) | {k for k, _, _ in away5.get(t, [])}, reverse=True): del L[k]
+        after = set(l for l in L if l.startswith('- '))
+        assert before - after == gone5, 'a droplet by its letters is lost, and no rule has it away'
+        here = set()
+        for l in L:
+            if l.startswith('- '): here |= set(sentences(' '.join(words(l)))) | set(sentences(words(l)[1]))
+        assert all(s in here for ss in need for s in ss), 'a sentence of a droplet away is in no droplet of its gathering file'
         open(os.path.join(GV, t + '.md'), 'w', encoding='utf-8').write('\n'.join(L))
-print(('written, ' if APPLY and n else '') + f"rule 1: {n} lines {'away' if APPLY else 'to go'}" + (': ' + ', '.join(f"{t.replace('_', ' ')} {len(v)}" for t, v in away.items()) if n else ''))
+w = 'written, ' if APPLY and (n or n5) else ''
+print(w + f"rule 1: {n} lines {'away' if APPLY else 'to go'}" + (': ' + ', '.join(f"{t.replace('_', ' ')} {len(v)}" for t, v in away.items()) if n else ''))
+print(w + f"rule 5: {n5} lines {'away' if APPLY else 'to go'}" + (': ' + ', '.join(f"{t.replace('_', ' ')} {len(v)}" for t, v in away5.items()) if n5 else ''))
