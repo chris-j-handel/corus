@@ -147,6 +147,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **Its eleventh returning, received.** *The tunneling and the bubbling at a point: a looking explored*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 102 checks, each is. Its is-or-is-nots 49 to 52 are each laid with its gathering file.
 
+**Its twelfth returning, received.** *Selves densely compacted, a stable form in their betweens, and its bits: a sentence considered*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 108 checks, each is. Its is-or-is-nots 53 to 56 are each laid with its gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
