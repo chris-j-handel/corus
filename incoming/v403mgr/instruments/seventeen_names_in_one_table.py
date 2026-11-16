@@ -11,6 +11,7 @@ Each column has its standing after its name:
   [living THREE]   a sentence, a table or a list of Exhibit THREE Natural Numbers, as it is
   [living FOUR]    a sentence of Exhibit FOUR Natural Mathematics, as it is
   [living TWENTY-TWO]  a sentence of Exhibit TWENTY-TWO Resolving the Hard Problem Registry, as it is
+  [living CORUS]   a sentence of Natural Intelligence Corus, as it is, with each name's prime by its position
   [executed]       read out of the code's lines or out of the table, all or none at all
   [an is]          an is of the partners, gathered in Exhibit ONE Natural Resolver's gathering file
   [floating]       a suggesting or a candidate, in no living sentence
@@ -22,7 +23,7 @@ each root of three, existing with discovering, possibling, observing; a height b
 four-cycling's same-existing name on the line of the turn. Each check of it is all or none at all, below.
 
 Returned at main, 15 November 2026:
-  89 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is. Twenty columns are
+  90 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is. Twenty columns are
   of Exhibit THREE Natural Numbers and Exhibit FOUR Natural Mathematics, each living sentence read as it is.
   The planes, each check: is. Each four-cycling's three names are one triangle at one height. Each rectangle's
   along sides are through its next rectangle, each passing forward. A right-hand turn of a third brings each name
@@ -289,6 +290,17 @@ FOLD4 = {'A reference fixing unchangeable': ('an observing fixing from behind', 
 for k, v in FOLD4.items(): has(hard, f'**{k}** — ' + v[0])
 four_of = lambda what: next(k for k, v in FOLD4.items() if what in v)
 
+# --- Natural Intelligence Corus: a ghost's type going outward through primes, read with each name's prime by its position
+corus = living('Natural_Intelligence_Corus')
+ghost = next(l for l in corus.split('\n') if l.startswith('Ghost type migrates outward through primes'))
+has(corus, '7n − 1 = 118 with n = 17', 'Five switches, two one-way projections each, ten ghosts')
+GHOST = {}
+SWITCH = {'3a': 'imposing affirmation, with inversioning', '2b': 'tradition blocking, with first inseparating', '1a': 'false inclusion, with bothbothing', '4a': 'premature closure, with second inseparating'}
+for kind, what, primes in re.findall(r'(\d[ab]) with (\w+) primes \(([\d,]+)\)', ghost):
+    for q in primes.split(','): GHOST[PRIME.index(int(q)) + 1] = f'{kind}, {SWITCH[kind]}: {what} primes {primes.replace(",", ", ")}'
+assert len(GHOST) == 17
+GHOST_BY_CYCLING = all(len({GHOST[n][:2] for n in range(4 * k + 1, 4 * k + 5)}) == 1 for k in range(4)) and len({GHOST[n][:2] for n in (1, 5, 9, 13)}) == 4 and GHOST[17][:2] == GHOST[16][:2]
+
 RING = {}   # a ring of N folds k with N less k: a name is with itself with N sixteen on from twice its number
 for n in range(1, 17):
     first = 2 * n % 16 or 16
@@ -385,6 +397,7 @@ COLS = [
     ('with itself by a ring\'s fold', 'executed', lambda n: RING[(n - 1) % 16 + 1]),
     ('the unchangeable seated with it and its name 8 apart', 'living TWENTY-TWO', lambda n: ' · '.join(SEAT[n]) or 'seats none, one resolving'),
     ('ten fold to four: its fixing by a coarser grain', 'living TWENTY-TWO', lambda n: ' · '.join(dict.fromkeys(four_of(w) for w in SEAT[n]))),
+    ('a ghost\'s type going outward through primes, with its prime', 'living CORUS', lambda n: GHOST[n]),
 ]
 used = {k for n in N for k in F[n]} | {'Bi-folding'}
 read = {'Parity, span', 'Sides', 'Co-sequencing', '8 up', '8 down', '9 less', '17 less', 'Bi-folding', 'Middle bi-folding', 'Six-cycle',
@@ -400,6 +413,13 @@ else:
     print(f'{len(COLS)} columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: {used <= read}' + ('' if used <= read else f' {sorted(used - read)}'))
     for k, c in enumerate(COLS, 1):
         print(f'  {k:2d}. {c[0]} [{c[1]}]: {sum(1 for r in TABLE if str(r[k - 1]).strip())} names')
+    print('The ten unchangeables and a ghost\'s type, each check all or none at all:')
+    for label, ok in (('each possibling name seats a reference fixing unchangeable', all('A reference fixing unchangeable' in [four_of(w) for w in SEAT[n]] for n in (2, 6, 10, 14))),
+                      ('each observing name seats a magnitude, a build driving it', all('A magnitude, a build driving it' in [four_of(w) for w in SEAT[n]] for n in (3, 7, 11, 15))),
+                      ('each bi-folding has two seats, its two pairs 8 apart', all(SEAT[int(a)] == SEAT[int(a) + 8] for b in ('1-9-8-16', '2-15-7-10', '3-11-6-14', '4-13-5-12') for a in b.split('-') if int(a) < 9)),
+                      ('Natural Intelligence Corus\'s four kinds of primes are the primes of the four four-cyclings, one type of ghost with each, and 59 with 17', GHOST_BY_CYCLING),
+                      ('one hundred eighteen is seven seventeens less one, and its ring of 120 seven seventeens and one, a seam', 7 * 17 - 1 == 118 and 7 * 17 + 1 == 120 == 11 * 11 - 1)):
+        print(f'  {"is" if ok else "is-not"} · {label}')
     print('The planes, a candidate, each check all or none at all:')
     for label, ok in CHECKS: print(f'  {"is" if ok else "is-not"} · {label}')
     print('Through the corus from each other, each two names with their duals; a same-existing name by its height on the line:')
