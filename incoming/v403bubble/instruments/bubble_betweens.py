@@ -2,7 +2,7 @@
 involutions of each. Reads Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit THREE Natural Numbers,
 Exhibit FOUR Natural Mathematics, Exhibit SIXTEEN Natural Chemistry, Exhibit SEVENTEEN Natural Biology, Exhibit
 EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming, and the gathering files of Natural Numbers, Natural Naming,
-Natural Intelligence, Natural Emanating and the Co-Chaining Logic Registry; executes; writes no file; decides nothing. Each answer is all or none at all.
+Natural Intelligence, Natural Emanating, Natural Physics and the Co-Chaining Logic Registry; executes; writes no file; decides nothing. Each answer is all or none at all.
 
 Use: python3 -I incoming/v403bubble/instruments/bubble_betweens.py <root>
 
@@ -34,6 +34,8 @@ What is executed here, each by its own lines:
      names' own inward, with no least.
   15 A between in the code: nothing with it from one moment to the next; and a society denser, more arriving with
      one moment and nothing accumulating.
+  16 Nothing and all-parity in the code: both parities arriving as nothing arriving; a prior originating by one
+     parity alone; and a self between two others.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -92,7 +94,13 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (gathering('Co-Chaining_Logic_Registry'), "Exhausting is 3, a self's prior. Exhaling is 7, inhaling 2, and ingesting 6."),
                    (gathering('Co-Chaining_Logic_Registry'), 'Exhaled atoms co-chaining are a stable form.'),
                    (gathering('Natural_Emanating'), 'exhausting goes on while living, accumulating and compacting into a stable form'),
-                   (gathering('Natural_Intelligence'), 'The living mutual assurances in the between are the corus of social moral competency.')):
+                   (gathering('Natural_Intelligence'), 'The living mutual assurances in the between are the corus of social moral competency.'),
+                   (ni, 'A self receiving an empty set with each moment is living, its prior inverting with each.'),
+                   (ni, "A geodesic is a surface's own dividing."),
+                   (ni, 'Living is **geodesic** co-chaining on a Natural Network surface.'),
+                   (gathering('Co-Chaining_Logic_Registry'), 'Atoms each its own, of both orientations, are all-parity.'),
+                   (gathering('Natural_Physics'), 'This method of all-parity is birthing a possible now-existing me-parity, an other-than-all-parity. It is after the all-parity only.'),
+                   (gathering('Natural_Intelligence'), 'By the newer the two in the universe are all-parity and other-than-all-parity, and both-parity is inside a bi-coupling.')):
     assert said in text, said
 
 bad = 0
@@ -592,5 +600,27 @@ def accumulating_none(k, priors, moments=12):
     return True
 say(all(accumulating_none(k, pr) for k in (2, 3, 4) for pr in itertools.product((1, -1), repeat=k)),
     "a self's prior is one parity of its one sharing with each of twelve moments, a newer for an older; what arrives with it is one parity from each of its others, one, two and three with two, three and four selves: a society denser has more arriving with one moment, and nothing accumulating from moment to moment")
+
+# ---- 16 ---------------------------------------------------------------------------------------------------------
+print('16 · Nothing and all-parity in the code:')
+BOTH = [[('s', a) for a in order] for n in (1, 2, 3) for order in sorted(set(itertools.permutations((1,) * n + (-1,) * n)))]
+say(all(ONE_([('s', p)], arriving) == ([('s', -p)], [('s', -p)]) for p in (1, -1) for arriving in [[], [('s', 0)]] + BOTH),
+    "a self with a prior, each prior: nothing arriving, a 0 arriving, and both parities arriving, one, two and three of each with each order, return one same, the prior inverted, shared and the next prior: both parities arriving are as nothing arriving")
+say(ONE_([], []) == ([], []) and ONE_([], [('s', 0)]) == ([], []) and all(ONE_([], arriving) == ([('s', 0)], []) for arriving in BOTH)
+    and all(ONE_([], [('s', a)] * n) == ([('s', a)], [('s', a)]) for a in (1, -1) for n in (1, 2, 3)),
+    "a self with no prior of a sharing: nothing arriving returns nothing; both parities arriving, each order, return a 0 shared and no prior; one parity alone returns that parity shared and the self's prior: a prior originates by one parity alone, and by no other arriving")
+say(all(ONE_([('s', p)], [('s', -p)] * n) == ONE_([('s', p)], []) and ONE_([('s', p)], [('s', p)] * n) == ([('s', 0)], [('s', p)]) for p in (1, -1) for n in (1, 2, 3)),
+    "a self with a prior, one parity alone arriving: unlike its prior, what returns is what returns with nothing arriving; alike, a 0 is shared and the prior goes on")
+def sharings(priors, routes, who, moments=12):
+    soc = {s_: ([('s', p_)], []) for s_, p_ in priors.items()}; out = []
+    for m in range(moments):
+        out.append(ONE_(*soc[who])[0][0][1]); soc = seventeen(soc, routes)
+    return out
+def between_two(a, b, c):
+    alone = sharings({'C': c}, {}, 'C'); between = sharings({'A': a, 'B': b, 'C': c}, {('A', 10): 'C', ('B', 10): 'C'}, 'C')
+    if a != b or a != c: return between == alone                                     # all-parity arriving, or one parity alone and unlike
+    return between[0] == alone[0] and between[1] == 0 and between[2:] == [-v for v in alone[2:]]   # one parity alone and alike
+say(all(between_two(a, b, c) for a, b, c in itertools.product((1, -1), repeat=3)),
+    "a self between two others, each sharing with it, each prior, twelve moments: with its two others unlike, both parities arrive with each moment and its sharings are a self alone's; with its two others alike and unlike it, a self alone's too; with its two others alike and alike to it, it shares a 0 once, and from that moment its sharings are a self alone's inverted")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
