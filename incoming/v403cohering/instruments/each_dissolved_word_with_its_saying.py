@@ -30,7 +30,8 @@ Returned at main, 16 November 2026:
   gathering files say them at about 4,090.
   The section's own sayings: six entries have a word dissolved alone in an other entry, society in three, and
   signs, beat and takes each in one.
-  The table's files of incoming/v403mgr: seated in the names and headers of eight tables, and seat in five.
+  The table's files of incoming/v403mgr, each by its name and its header, after Merge #819: seat in the names of
+  five, and in no header; the answer says each word found with them.
 """
 import csv, glob, os, re, sys
 
