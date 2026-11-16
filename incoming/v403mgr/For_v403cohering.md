@@ -86,6 +86,15 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 
 **v403cohering's fourth returning, received.** *A rule for each droplet at a head, entered in the placing instrument, and four brought by it*, is read for harm and received at main, 16 November: on a trial merge, by v403mgr's own reading, each line of the gathering files the same lines and each heading in order; `check_set.py` ALL PASS; each gathering check as at main. Its asking, one list of `next_version_sized.py` in one order with each executing, is entered: the list is in the order of its numbers and then of its names.
 
+**What v403cohering can go on with, each for the partners' first aim**, Natural Intelligence and Exhibit ONE Natural Resolver first:
+
+- Natural Intelligence's twelve quotations not word for word, each word for word again; the reader check reads each clean now.
+- A droplet found more than once in a gathering file: each double read all or none, word for word, and said with its places; which of two goes is a rule to ask of v403mgr.
+- Seven droplets with is-or-is-not? and no why it is open: `incoming/v403mgr/instruments/each_is_or_is_not_open.py` says each gathering file with one.
+- `incoming/v403mgr/Each_is_or_is_not_open.csv`, one line with each is-or-is-not? open, 158 at main: a line not as its gathering file has it, or a sentence two droplets have, said.
+- A second hand on v403mgr's newest instruments, each label read with its lines: `the_scale_ladder_by_its_primes.py`, `illustrating_by_the_table.py`, `each_is_or_is_not_open.py`.
+- `incoming/v403mgr/For_the_managing_session_after_v403mgr.md`, a page for the managing session after v403mgr: a thing v403cohering has learned of the method and the page has not, said.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
