@@ -57,6 +57,8 @@ What is executed here, each by its own lines:
   23 A diamond's faces by a field, eight, or eight and six: the goings to the betweens of four and of six.
   24 Names 6 and 7: their threes by Exhibit ONE Natural Resolver's table; 7 as 6 with the second bubble fewer,
      no-other with both by the gathered duals; and 7 with 11 one dual.
+  25 5 with 7 as 6, and 4 with 8 not; and a diamond's two lattices with two unlike kinds: three inverting together
+     with one kind as the other.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -150,7 +152,9 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (chem, 'Carbon was living in higher-scale selves, outward of it.'),
                    (naming, "A ghost is one moment's form installing as an existing thing."),
                    (naming, "the periodic table's one hundred eighteen elements are a field's own result with one same numeral, Natural Numbers 7.1, and no number of a method"),
-                   (gathering('Natural_Chemistry'), "an element's own number has carbon a 6-now-co-possibling")):
+                   (gathering('Natural_Chemistry'), "an element's own number has carbon a 6-now-co-possibling"),
+                   (chem, '**An element is number; chemistry is coupling.**'),
+                   (gathering('Natural_Chemistry'), "boron at 5 with nitrogen at 7, podal about carbon's 6, paired taking all carbon's forms")):
     assert said in text, said
 
 bad = 0
@@ -904,5 +908,17 @@ say(with_(7) == with_(6) - {2} and KIND[len(with_(6))] == 'a line' and KIND[len(
     and DUAL[6].endswith('-and-no-other') and DUAL[7].startswith('no-other-and-') and DUAL[7] == DUAL[11]
     and with_(5) == with_(6) - {1} and sorted(name_of[with_(6) - {k}] for k in with_(6)) == [3, 5, 7],
     "by four parities 7 is 6 with the second bubble fewer, a line to one of its three films, and by the gathered duals 6 and 7 have no-other with both; 5 is 6 with the first fewer; the three films round 6 are 3, 5 and 7; and 7 and 11, the point, are one dual")
+
+# ---- 25 ---------------------------------------------------------------------------------------------------------
+print('25 · 5 with 7, and two unlike kinds:')
+say(with_(5) | with_(7) == with_(6) and with_(5) & with_(7) == with_(8) and with_(4) | with_(8) == with_(5) and with_(4) | with_(8) != with_(6)
+    and (THREE_[5], THREE_[6], THREE_[7]) == ('co-bi-co', 'bi-co-bi', 'tri-bi-co'),
+    "by four parities 5 with 7 is 6: the two films together are the line, and what the two films have alike is 8; 4 with 8 is 5, and is not 6; by Exhibit ONE Natural Resolver's table their threes are co-bi-co with 5, bi-co-bi with 6 and tri-bi-co with 7")
+first_lattice = [(0, 0, 0)] + [tuple(F(x_) for x_ in v_) for v_ in NB]                           # selves, as far as the twelve
+second_lattice = [tuple(F(c_[k], 2) for k in range(3)) for c_ in one_four]                       # the one four filled, round the self
+def through_middle(c_, x_): return tuple(F(c_[k], 2) - x_[k] for k in range(3))                  # three inverting together about the middle of a self and one of its four
+say(all(through_middle(c_, (0, 0, 0)) == tuple(F(c_[k], 2) for k in range(3)) and all(through_middle(c_, d_) in first_lattice for d_ in second_lattice) for c_ in one_four)
+    and not any(through_middle(c_, x_) == x_ for c_ in one_four for x_ in first_lattice + second_lattice),
+    "three inverting together about the middle of a self and one of its four: each place tried of the one lattice is with a place of the other, and no place tried of either is with itself; with one kind on both lattices the form is itself again, and with two unlike kinds, one on each, the one kind is with the other")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
