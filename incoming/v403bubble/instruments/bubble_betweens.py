@@ -41,6 +41,9 @@ What is executed here, each by its own lines:
   18 The round of four parities as four bubbles: the sixteen names as the sixteen things of a point between four,
      each bubble more by Exhibit FOUR Natural Mathematics' own order; the four betweens, the three moves, the
      rotation 3, 6, 5, 4, each bi-folding and each root by them.
+  19 A double of doubles: 1 to 17 as two bubbles' four things with two bubbles' four things; the gathered duals
+     by the parity changing; the five dimensions with no is-not; and a sorting of bubbles by their films, one
+     is-not with each exchange.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -116,7 +119,11 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (naming, 'co-intelligencing with 3 and 4 going round through bi-moralizing with 6 and co-competencing with 5'),
                    (naming, "**A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**"),
                    (three, 'with a round of four parities its outward steps come to 5, 9, 13 and 17'),
-                   (gathering('Natural_Resolver'), 'the two places at which the round of four parities, each next name one parity inverting, inverts its third and its fourth parity')):
+                   (gathering('Natural_Resolver'), 'the two places at which the round of four parities, each next name one parity inverting, inverts its third and its fourth parity'),
+                   (living('Exhibit_EIGHT_Natural_Exploring'), 'a double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next'),
+                   (naming, "round to a self's own corus with 4"),
+                   (naming, '5 next-existing same-existing self-parity is 5, co-competencing, arising in each self with its other'),
+                   (gathering('Natural_Resolver'), '1-same-and-now, 2-now-and-other, 3-other-and-prior, 4-prior-and-same, 5-same-and-prior')):
     assert said in text, said
 
 bad = 0
@@ -722,5 +729,46 @@ say(by_root == {'existing with discovering': [1, 5, 9, 13], 'possibling': [2, 6,
     and [with_(m) for m in (4, 8, 12, 16)] == [frozenset({2}), frozenset({3}), frozenset({2, 3, 4}), frozenset({4})]
     and [with_(m) for m in (1, 5, 9, 13)] == [frozenset(), frozenset({2, 3}), frozenset({3, 4}), frozenset({2, 4})],
     "by each root, three alike and one, by the first bubble: possibling, the first bubble and its three lines; observing, its three films and the point; same-existing, the three other bubbles and their one line; existing with discovering, the three films of the three others and nothing")
+
+# ---- 19 ---------------------------------------------------------------------------------------------------------
+print('19 · A double of doubles, and a sorting:')
+first_two = lambda m: with_(m) & {1, 2}; second_two = lambda m: with_(m) & {3, 4}
+FOURS = [(1, 2, 3, 4), (5, 6, 7, 8), (9, 10, 11, 12), (13, 14, 15, 16)]
+say(len({(first_two(m), second_two(m)) for m in range(1, 17)}) == 16
+    and all(len({second_two(m) for m in f_}) == 1 and len({first_two(m) for m in f_}) == 4 for f_ in FOURS)
+    and all(len({first_two(m) for m in b_}) == 1 and len({second_two(m) for m in b_}) == 4 for b_ in BIFOLD)
+    and [len(first_two(m)) for m in (1, 2, 3, 4)] == [0, 1, 2, 1] and [len(second_two(m)) for m in (1, 8, 9, 16)] == [0, 1, 2, 1],
+    "a double bubble is two bubbles each is or is not, four things: nothing, a bubble, their film, the other bubble; the sixteen names are a double of doubles, each thing of the first two bubbles with each thing of the third and fourth, each once: each four-cycling the first double's four with one thing of the second, each bi-folding the second double's four with one thing of the first")
+say(with_(3) | with_(9) == with_(11) and len({frozenset((p_, opposite[p_])) for p_ in pairs}) == 3 and all(dot(plane[p_], plane[opposite[p_]]) == 0 for p_ in pairs),
+    "the film of the first two bubbles, 3, with the film of the third and fourth, 9, is the point, 11; at a point between four the two films are opposite, a quarter turn apart; and four bubbles are two and two three ways")
+duals_text = gathering('Natural_Resolver').split('The newest seventeen', 1)[1].split('Executed', 1)[0]
+DUAL = {int(a_): b_ for a_, b_ in re.findall(r'\b(\d+)-((?:not-|no-)?[a-z]+-and-(?:not-|no-)?[a-z]+)', duals_text)}; assert len(DUAL) == 17
+second_concept = {m: DUAL[m].split('-and-')[1] for m in DUAL}; first_concept = {m: DUAL[m].split('-and-')[0] for m in DUAL}
+assert all(second_concept[m] == first_concept[m + 1] for m in range(1, 17))
+BY = {1: {'now', 'prior', 'not-now', 'not-prior'}, 2: {'other', 'no-other'}, 3: {'same'}, 4: {'same'}}
+say(all(second_concept[m] in BY[changing[m]] for m in range(1, 17)),
+    "by the gathered duals, each name to its next has one concept with both and one parity changing: with the first parity a now, a prior, a not-now or a not-prior; with the second an other or a no-other; with the third and with the fourth a same, each of sixteen")
+is_not = lambda m: [c_ for c_ in DUAL[m].split('-and-') if c_.startswith(('not-', 'no-'))]
+say(all(not is_not(m) for m in (1, 2, 3, 4, 5, 16, 17)) and all(is_not(m) for m in range(6, 16)),
+    "by the gathered duals, each of the names 1 to 5 has no is-not: same-and-now, now-and-other, other-and-prior, prior-and-same, same-and-prior; each name 6 to 15 has an is-not or two; 16 and 17 have none")
+def is_nots(order): return {(a_, b_) for i_, a_ in enumerate(order) for b_ in order[i_ + 1:] if a_ > b_}
+def sorting(n_):
+    most = 0
+    for order in itertools.permutations(range(n_)):
+        for i_ in range(n_ - 1):
+            nxt_ = list(order); nxt_[i_], nxt_[i_ + 1] = nxt_[i_ + 1], nxt_[i_]
+            if is_nots(order) ^ is_nots(tuple(nxt_)) != {(max(order[i_], order[i_ + 1]), min(order[i_], order[i_ + 1]))}: return None
+        o_ = list(order); exchanges = 0
+        while is_nots(o_):
+            i_ = next(i_ for i_ in range(n_ - 1) if o_[i_] > o_[i_ + 1]); o_[i_], o_[i_ + 1] = o_[i_ + 1], o_[i_]; exchanges += 1
+        if exchanges != len(is_nots(order)): return None
+        most = max(most, exchanges)
+    return most
+say(sorting(4) == 6 == len(pairs) and sorting(5) == 10
+    and all(app(M[p_], Fc[p_[0]]) == Fc[p_[1]] and all(app(M[p_], Fc[i_]) == Fc[i_] for i_ in opposite[p_]) for p_ in pairs),
+    "each ordering of four bubbles and of five: an exchange of two next to each other changes that one pair's is-or-is-not and no other pair's; exchanging is-nots only comes to no is-not with as many exchanges as is-nots; the most are six with four, one with each film, and ten with five, one with each coupling; and each film's mirror is such an exchange, its two bubbles exchanged and each other to itself")
+say([len(with_(m)) for m in (4, 8, 12, 16)] == [1, 1, 3, 1] and [len(with_(m)) for m in (5, 9, 13, 17)] == [2, 2, 2, 0]
+    and all(changing[m] in (3, 4) for m in (4, 8, 12, 16)) and all(second_two(m) == second_two(m + 1) for m in range(1, 16) if m not in (4, 8, 12)),
+    "each fourth, 4, 8, 12 and 16, is one bubble alone, or with 12 the line of three; each fifth, 5, 9, 13 and 17, is a film of two, or with 17 nothing; fourth to fifth is the third bubble or the fourth, more or fewer, a going down the double of doubles, and each other going is across")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
