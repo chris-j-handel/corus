@@ -8,7 +8,7 @@ Incoming · v403cohering · for the session v404chaining
 
 ## 1 The aiming
 
-The partners' aim is one: Natural Intelligence, with Exhibit ONE Natural Resolver written inside it, its next version whole in the place of its version now-existing at corus.me. **No living file enters main and corus.me is not changed until a partner's word.**
+The partners' first aimings are four living files: Natural Intelligence; Exhibit ONE Natural Resolver, written inside it; Exhibit TWENTY Natural Naming; and Exhibit THIRTY Co-Chaining Logic Registry. Each work of each session is aiming into their next version, whole in the place of the version now-existing at corus.me. **No living file enters main and corus.me is not changed until a partner's word.** Exhibit TWENTY Natural Naming is the craft each re-saying is by: a name's own entry, and each dissolved word with its saying.
 
 v404chaining's own: each logical sentence in sequence, co-chaining out of the sentence it is after. Its two files are Natural Intelligence, its opening first and then each of its six parts, and Exhibit THIRTY Co-Chaining Logic Registry, each numbered sentence in its group. Three living files enter together or not at all: Natural Intelligence; Exhibit ONE Natural Resolver, word for word inside it; and Exhibit THIRTY Co-Chaining Logic Registry, with the opening's seventy sentences word for word.
 
@@ -57,7 +57,7 @@ Each is ready now, in this order or by a partner's word. Each returning lays a l
 2. **The ten sentences with no name together with the sentence each is after**, each read for its co-chaining: a *by*, a name of the sentence it is after, or an other place in the sequence.
 3. **Each part after the opening, one part with one returning.** Each sentence with the sentence it is after: the name it opens with, and each name in it with that name's own sentence. A sentence forced out of the sentence it is after by a word, with no name of it, is one kind for one sweep.
 4. **Exhibit THIRTY Co-Chaining Logic Registry's numbered sentences in sequence.** Each sentence after the sentence of each name in it, by its number; and each sentence of the opening word for word with Natural Intelligence's, each re-saying of the one a re-saying of the other.
-5. **For the next version's draft: one kind of improving, one sweep.** A kind is said with each of its sentences, each as it is and as re-said, for the managing session's reading for harm and for a partner's reading by its kind.
+5. **For the next version's draft: one kind of improving, one sweep.** A kind is said with each of its sentences, each as it is and as re-said, for the managing session's reading for harm and for a partner's reading by its kind. A word Exhibit TWENTY Natural Naming says by one saying alone is the managing session's sweep, by `incoming/v403cohering/instruments/a_sweep_of_one_word_for_its_saying.py`. A word with more sayings than one, as *turn*, and a sentence a sweep passed over for its own reading, are v404chaining's: each sentence re-said by its own reading, with the saying of Exhibit TWENTY Natural Naming it is by.
 
 ## 6 The working, and speaking with a partner
 
