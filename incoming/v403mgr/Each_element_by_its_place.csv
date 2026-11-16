@@ -1,119 +1,119 @@
-number,element,"its name, sixteen on",its row of the table,"its span, by a field's filling order","its span's length, a possibling name",its place in its span,"its going, each odd twice","its group of eight, by n and l added",that group's length,the element under it,up to the element under it,"its line down, of thirty-two","its line across, of thirty-two"
-1,H,1-now-existing,1,1s,2-now-possibling,1,first,1,2,3 Li,2,1,1
-2,He,2-now-possibling,1,1s,2-now-possibling,2,second,1,2,4 Be,2,1,2
-3,Li,3-now-co-observing,2,2s,2-now-possibling,1,first,2,2,11 Na,8,2,2
-4,Be,4-now-co-same-existing,2,2s,2-now-possibling,2,second,2,2,12 Mg,8,2,1
-5,B,5-now-co-existing,2,2p,6-now-co-possibling,1,first,3,8,13 Al,8,2,4
-6,C,6-now-co-possibling,2,2p,6-now-co-possibling,2,first,3,8,14 Si,8,2,3
-7,N,7-now-observing,2,2p,6-now-co-possibling,3,first,3,8,15 P,8,1,3
-8,O,8-now-same-existing,2,2p,6-now-co-possibling,4,second,3,8,16 S,8,1,4
-9,F,9-next-co-discovering,2,2p,6-now-co-possibling,5,second,3,8,17 Cl,8,4,4
-10,Ne,10-next-co-possibling,2,2p,6-now-co-possibling,6,second,3,8,18 Ar,8,4,3
-11,Na,11-next-co-observing,3,3s,2-now-possibling,1,first,3,8,19 K,8,3,3
-12,Mg,12-next-co-same-existing,3,3s,2-now-possibling,2,second,3,8,20 Ca,8,3,4
-13,Al,13-next-discovering,3,3p,6-now-co-possibling,1,first,4,8,31 Ga,18,3,1
-14,Si,14-next-possibling,3,3p,6-now-co-possibling,2,first,4,8,32 Ge,18,3,2
-15,P,15-next-observing,3,3p,6-now-co-possibling,3,first,4,8,33 As,18,4,2
-16,S,16-next-same-existing,3,3p,6-now-co-possibling,4,second,4,8,34 Se,18,4,1
-17,Cl,1-now-existing,3,3p,6-now-co-possibling,5,second,4,8,35 Br,18,4,8
-18,Ar,2-now-possibling,3,3p,6-now-co-possibling,6,second,4,8,36 Kr,18,4,7
-19,K,3-now-co-observing,4,4s,2-now-possibling,1,first,4,8,37 Rb,18,3,7
-20,Ca,4-now-co-same-existing,4,4s,2-now-possibling,2,second,4,8,38 Sr,18,3,8
-21,Sc,5-now-co-existing,4,3d,10-next-co-possibling,1,first,5,18,39 Y,18,3,5
-22,Ti,6-now-co-possibling,4,3d,10-next-co-possibling,2,first,5,18,40 Zr,18,3,6
-23,V,7-now-observing,4,3d,10-next-co-possibling,3,first,5,18,41 Nb,18,4,6
-24,Cr,8-now-same-existing,4,3d,10-next-co-possibling,4,first,5,18,42 Mo,18,4,5
-25,Mn,9-next-co-discovering,4,3d,10-next-co-possibling,5,first,5,18,43 Tc,18,1,5
-26,Fe,10-next-co-possibling,4,3d,10-next-co-possibling,6,second,5,18,44 Ru,18,1,6
-27,Co,11-next-co-observing,4,3d,10-next-co-possibling,7,second,5,18,45 Rh,18,2,6
-28,Ni,12-next-co-same-existing,4,3d,10-next-co-possibling,8,second,5,18,46 Pd,18,2,5
-29,Cu,13-next-discovering,4,3d,10-next-co-possibling,9,second,5,18,47 Ag,18,2,8
-30,Zn,14-next-possibling,4,3d,10-next-co-possibling,10,second,5,18,48 Cd,18,2,7
-31,Ga,15-next-observing,4,4p,6-now-co-possibling,1,first,5,18,49 In,18,1,7
-32,Ge,16-next-same-existing,4,4p,6-now-co-possibling,2,first,5,18,50 Sn,18,1,8
-33,As,1-now-existing,4,4p,6-now-co-possibling,3,first,5,18,51 Sb,18,8,8
-34,Se,2-now-possibling,4,4p,6-now-co-possibling,4,second,5,18,52 Te,18,8,7
-35,Br,3-now-co-observing,4,4p,6-now-co-possibling,5,second,5,18,53 I,18,7,7
-36,Kr,4-now-co-same-existing,4,4p,6-now-co-possibling,6,second,5,18,54 Xe,18,7,8
-37,Rb,5-now-co-existing,5,5s,2-now-possibling,1,first,5,18,55 Cs,18,7,5
-38,Sr,6-now-co-possibling,5,5s,2-now-possibling,2,second,5,18,56 Ba,18,7,6
-39,Y,7-now-observing,5,4d,10-next-co-possibling,1,first,6,18,71 Lu,32,8,6
-40,Zr,8-now-same-existing,5,4d,10-next-co-possibling,2,first,6,18,72 Hf,32,8,5
-41,Nb,9-next-co-discovering,5,4d,10-next-co-possibling,3,first,6,18,73 Ta,32,5,5
-42,Mo,10-next-co-possibling,5,4d,10-next-co-possibling,4,first,6,18,74 W,32,5,6
-43,Tc,11-next-co-observing,5,4d,10-next-co-possibling,5,first,6,18,75 Re,32,6,6
-44,Ru,12-next-co-same-existing,5,4d,10-next-co-possibling,6,second,6,18,76 Os,32,6,5
-45,Rh,13-next-discovering,5,4d,10-next-co-possibling,7,second,6,18,77 Ir,32,6,8
-46,Pd,14-next-possibling,5,4d,10-next-co-possibling,8,second,6,18,78 Pt,32,6,7
-47,Ag,15-next-observing,5,4d,10-next-co-possibling,9,second,6,18,79 Au,32,5,7
-48,Cd,16-next-same-existing,5,4d,10-next-co-possibling,10,second,6,18,80 Hg,32,5,8
-49,In,1-now-existing,5,5p,6-now-co-possibling,1,first,6,18,81 Tl,32,5,1
-50,Sn,2-now-possibling,5,5p,6-now-co-possibling,2,first,6,18,82 Pb,32,5,2
-51,Sb,3-now-co-observing,5,5p,6-now-co-possibling,3,first,6,18,83 Bi,32,6,2
-52,Te,4-now-co-same-existing,5,5p,6-now-co-possibling,4,second,6,18,84 Po,32,6,1
-53,I,5-now-co-existing,5,5p,6-now-co-possibling,5,second,6,18,85 At,32,6,4
-54,Xe,6-now-co-possibling,5,5p,6-now-co-possibling,6,second,6,18,86 Rn,32,6,3
-55,Cs,7-now-observing,6,6s,2-now-possibling,1,first,6,18,87 Fr,32,5,3
-56,Ba,8-now-same-existing,6,6s,2-now-possibling,2,second,6,18,88 Ra,32,5,4
-57,La,9-next-co-discovering,6,4f,14-next-possibling,1,first,7,32,89 Ac,32,8,4
-58,Ce,10-next-co-possibling,6,4f,14-next-possibling,2,first,7,32,90 Th,32,8,3
-59,Pr,11-next-co-observing,6,4f,14-next-possibling,3,first,7,32,91 Pa,32,7,3
-60,Nd,12-next-co-same-existing,6,4f,14-next-possibling,4,first,7,32,92 U,32,7,4
-61,Pm,13-next-discovering,6,4f,14-next-possibling,5,first,7,32,93 Np,32,7,1
-62,Sm,14-next-possibling,6,4f,14-next-possibling,6,first,7,32,94 Pu,32,7,2
-63,Eu,15-next-observing,6,4f,14-next-possibling,7,first,7,32,95 Am,32,8,2
-64,Gd,16-next-same-existing,6,4f,14-next-possibling,8,second,7,32,96 Cm,32,8,1
-65,Tb,1-now-existing,6,4f,14-next-possibling,9,second,7,32,97 Bk,32,8,16
-66,Dy,2-now-possibling,6,4f,14-next-possibling,10,second,7,32,98 Cf,32,8,15
-67,Ho,3-now-co-observing,6,4f,14-next-possibling,11,second,7,32,99 Es,32,7,15
-68,Er,4-now-co-same-existing,6,4f,14-next-possibling,12,second,7,32,100 Fm,32,7,16
-69,Tm,5-now-co-existing,6,4f,14-next-possibling,13,second,7,32,101 Md,32,7,13
-70,Yb,6-now-co-possibling,6,4f,14-next-possibling,14,second,7,32,102 No,32,7,14
-71,Lu,7-now-observing,6,5d,10-next-co-possibling,1,first,7,32,103 Lr,32,8,14
-72,Hf,8-now-same-existing,6,5d,10-next-co-possibling,2,first,7,32,104 Rf,32,8,13
-73,Ta,9-next-co-discovering,6,5d,10-next-co-possibling,3,first,7,32,105 Db,32,5,13
-74,W,10-next-co-possibling,6,5d,10-next-co-possibling,4,first,7,32,106 Sg,32,5,14
-75,Re,11-next-co-observing,6,5d,10-next-co-possibling,5,first,7,32,107 Bh,32,6,14
-76,Os,12-next-co-same-existing,6,5d,10-next-co-possibling,6,second,7,32,108 Hs,32,6,13
-77,Ir,13-next-discovering,6,5d,10-next-co-possibling,7,second,7,32,109 Mt,32,6,16
-78,Pt,14-next-possibling,6,5d,10-next-co-possibling,8,second,7,32,110 Ds,32,6,15
-79,Au,15-next-observing,6,5d,10-next-co-possibling,9,second,7,32,111 Rg,32,5,15
-80,Hg,16-next-same-existing,6,5d,10-next-co-possibling,10,second,7,32,112 Cn,32,5,16
-81,Tl,1-now-existing,6,6p,6-now-co-possibling,1,first,7,32,113 Nh,32,5,9
-82,Pb,2-now-possibling,6,6p,6-now-co-possibling,2,first,7,32,114 Fl,32,5,10
-83,Bi,3-now-co-observing,6,6p,6-now-co-possibling,3,first,7,32,115 Mc,32,6,10
-84,Po,4-now-co-same-existing,6,6p,6-now-co-possibling,4,second,7,32,116 Lv,32,6,9
-85,At,5-now-co-existing,6,6p,6-now-co-possibling,5,second,7,32,117 Ts,32,6,12
-86,Rn,6-now-co-possibling,6,6p,6-now-co-possibling,6,second,7,32,118 Og,32,6,11
-87,Fr,7-now-observing,7,7s,2-now-possibling,1,first,7,32,,,5,11
-88,Ra,8-now-same-existing,7,7s,2-now-possibling,2,second,7,32,,,5,12
-89,Ac,9-next-co-discovering,7,5f,14-next-possibling,1,first,8,32,,,8,12
-90,Th,10-next-co-possibling,7,5f,14-next-possibling,2,first,8,32,,,8,11
-91,Pa,11-next-co-observing,7,5f,14-next-possibling,3,first,8,32,,,7,11
-92,U,12-next-co-same-existing,7,5f,14-next-possibling,4,first,8,32,,,7,12
-93,Np,13-next-discovering,7,5f,14-next-possibling,5,first,8,32,,,7,9
-94,Pu,14-next-possibling,7,5f,14-next-possibling,6,first,8,32,,,7,10
-95,Am,15-next-observing,7,5f,14-next-possibling,7,first,8,32,,,8,10
-96,Cm,16-next-same-existing,7,5f,14-next-possibling,8,second,8,32,,,8,9
-97,Bk,1-now-existing,7,5f,14-next-possibling,9,second,8,32,,,1,9
-98,Cf,2-now-possibling,7,5f,14-next-possibling,10,second,8,32,,,1,10
-99,Es,3-now-co-observing,7,5f,14-next-possibling,11,second,8,32,,,2,10
-100,Fm,4-now-co-same-existing,7,5f,14-next-possibling,12,second,8,32,,,2,9
-101,Md,5-now-co-existing,7,5f,14-next-possibling,13,second,8,32,,,2,12
-102,No,6-now-co-possibling,7,5f,14-next-possibling,14,second,8,32,,,2,11
-103,Lr,7-now-observing,7,6d,10-next-co-possibling,1,first,8,32,,,1,11
-104,Rf,8-now-same-existing,7,6d,10-next-co-possibling,2,first,8,32,,,1,12
-105,Db,9-next-co-discovering,7,6d,10-next-co-possibling,3,first,8,32,,,4,12
-106,Sg,10-next-co-possibling,7,6d,10-next-co-possibling,4,first,8,32,,,4,11
-107,Bh,11-next-co-observing,7,6d,10-next-co-possibling,5,first,8,32,,,3,11
-108,Hs,12-next-co-same-existing,7,6d,10-next-co-possibling,6,second,8,32,,,3,12
-109,Mt,13-next-discovering,7,6d,10-next-co-possibling,7,second,8,32,,,3,9
-110,Ds,14-next-possibling,7,6d,10-next-co-possibling,8,second,8,32,,,3,10
-111,Rg,15-next-observing,7,6d,10-next-co-possibling,9,second,8,32,,,4,10
-112,Cn,16-next-same-existing,7,6d,10-next-co-possibling,10,second,8,32,,,4,9
-113,Nh,1-now-existing,7,7p,6-now-co-possibling,1,first,8,32,,,4,16
-114,Fl,2-now-possibling,7,7p,6-now-co-possibling,2,first,8,32,,,4,15
-115,Mc,3-now-co-observing,7,7p,6-now-co-possibling,3,first,8,32,,,3,15
-116,Lv,4-now-co-same-existing,7,7p,6-now-co-possibling,4,second,8,32,,,3,16
-117,Ts,5-now-co-existing,7,7p,6-now-co-possibling,5,second,8,32,,,3,13
-118,Og,6-now-co-possibling,7,7p,6-now-co-possibling,6,second,8,32,,,3,14
+number,element,a field's name of it,"its place among the sixteen from lithium, a name","its sharings, by a field","its name, sixteen on",its row of the table,"its span, by a field's filling order","its span's length, a possibling name",its place in its span,"its going, each odd twice","its group of eight, by n and l added",that group's length,the element under it,up to the element under it,"its line down, of thirty-two","its line across, of thirty-two"
+1,H,hydrogen,,,1-now-existing,1,1s,2-now-possibling,1,first,1,2,3 Li,2,1,1
+2,He,helium,,,2-now-possibling,1,1s,2-now-possibling,2,second,1,2,4 Be,2,1,2
+3,Li,lithium,1-now-existing,1,3-now-co-observing,2,2s,2-now-possibling,1,first,2,2,11 Na,8,2,2
+4,Be,beryllium,2-now-possibling,2,4-now-co-same-existing,2,2s,2-now-possibling,2,second,2,2,12 Mg,8,2,1
+5,B,boron,3-now-co-observing,3,5-now-co-existing,2,2p,6-now-co-possibling,1,first,3,8,13 Al,8,2,4
+6,C,carbon,4-now-co-same-existing,4,6-now-co-possibling,2,2p,6-now-co-possibling,2,first,3,8,14 Si,8,2,3
+7,N,nitrogen,5-now-co-existing,3,7-now-observing,2,2p,6-now-co-possibling,3,first,3,8,15 P,8,1,3
+8,O,oxygen,6-now-co-possibling,2,8-now-same-existing,2,2p,6-now-co-possibling,4,second,3,8,16 S,8,1,4
+9,F,fluorine,7-now-observing,1,9-next-co-discovering,2,2p,6-now-co-possibling,5,second,3,8,17 Cl,8,4,4
+10,Ne,neon,8-now-same-existing,0,10-next-co-possibling,2,2p,6-now-co-possibling,6,second,3,8,18 Ar,8,4,3
+11,Na,sodium,9-next-co-discovering,1,11-next-co-observing,3,3s,2-now-possibling,1,first,3,8,19 K,8,3,3
+12,Mg,magnesium,10-next-co-possibling,2,12-next-co-same-existing,3,3s,2-now-possibling,2,second,3,8,20 Ca,8,3,4
+13,Al,aluminium,11-next-co-observing,3,13-next-discovering,3,3p,6-now-co-possibling,1,first,4,8,31 Ga,18,3,1
+14,Si,silicon,12-next-co-same-existing,4,14-next-possibling,3,3p,6-now-co-possibling,2,first,4,8,32 Ge,18,3,2
+15,P,phosphorus,13-next-discovering,3,15-next-observing,3,3p,6-now-co-possibling,3,first,4,8,33 As,18,4,2
+16,S,sulfur,14-next-possibling,2,16-next-same-existing,3,3p,6-now-co-possibling,4,second,4,8,34 Se,18,4,1
+17,Cl,chlorine,15-next-observing,1,1-now-existing,3,3p,6-now-co-possibling,5,second,4,8,35 Br,18,4,8
+18,Ar,argon,16-next-same-existing,0,2-now-possibling,3,3p,6-now-co-possibling,6,second,4,8,36 Kr,18,4,7
+19,K,potassium,17-next-existing,,3-now-co-observing,4,4s,2-now-possibling,1,first,4,8,37 Rb,18,3,7
+20,Ca,calcium,,,4-now-co-same-existing,4,4s,2-now-possibling,2,second,4,8,38 Sr,18,3,8
+21,Sc,scandium,,,5-now-co-existing,4,3d,10-next-co-possibling,1,first,5,18,39 Y,18,3,5
+22,Ti,titanium,,,6-now-co-possibling,4,3d,10-next-co-possibling,2,first,5,18,40 Zr,18,3,6
+23,V,vanadium,,,7-now-observing,4,3d,10-next-co-possibling,3,first,5,18,41 Nb,18,4,6
+24,Cr,chromium,,,8-now-same-existing,4,3d,10-next-co-possibling,4,first,5,18,42 Mo,18,4,5
+25,Mn,manganese,,,9-next-co-discovering,4,3d,10-next-co-possibling,5,first,5,18,43 Tc,18,1,5
+26,Fe,iron,,,10-next-co-possibling,4,3d,10-next-co-possibling,6,second,5,18,44 Ru,18,1,6
+27,Co,cobalt,,,11-next-co-observing,4,3d,10-next-co-possibling,7,second,5,18,45 Rh,18,2,6
+28,Ni,nickel,,,12-next-co-same-existing,4,3d,10-next-co-possibling,8,second,5,18,46 Pd,18,2,5
+29,Cu,copper,,,13-next-discovering,4,3d,10-next-co-possibling,9,second,5,18,47 Ag,18,2,8
+30,Zn,zinc,,,14-next-possibling,4,3d,10-next-co-possibling,10,second,5,18,48 Cd,18,2,7
+31,Ga,gallium,,,15-next-observing,4,4p,6-now-co-possibling,1,first,5,18,49 In,18,1,7
+32,Ge,germanium,,,16-next-same-existing,4,4p,6-now-co-possibling,2,first,5,18,50 Sn,18,1,8
+33,As,arsenic,,,1-now-existing,4,4p,6-now-co-possibling,3,first,5,18,51 Sb,18,8,8
+34,Se,selenium,,,2-now-possibling,4,4p,6-now-co-possibling,4,second,5,18,52 Te,18,8,7
+35,Br,bromine,,,3-now-co-observing,4,4p,6-now-co-possibling,5,second,5,18,53 I,18,7,7
+36,Kr,krypton,,,4-now-co-same-existing,4,4p,6-now-co-possibling,6,second,5,18,54 Xe,18,7,8
+37,Rb,rubidium,,,5-now-co-existing,5,5s,2-now-possibling,1,first,5,18,55 Cs,18,7,5
+38,Sr,strontium,,,6-now-co-possibling,5,5s,2-now-possibling,2,second,5,18,56 Ba,18,7,6
+39,Y,yttrium,,,7-now-observing,5,4d,10-next-co-possibling,1,first,6,18,71 Lu,32,8,6
+40,Zr,zirconium,,,8-now-same-existing,5,4d,10-next-co-possibling,2,first,6,18,72 Hf,32,8,5
+41,Nb,niobium,,,9-next-co-discovering,5,4d,10-next-co-possibling,3,first,6,18,73 Ta,32,5,5
+42,Mo,molybdenum,,,10-next-co-possibling,5,4d,10-next-co-possibling,4,first,6,18,74 W,32,5,6
+43,Tc,technetium,,,11-next-co-observing,5,4d,10-next-co-possibling,5,first,6,18,75 Re,32,6,6
+44,Ru,ruthenium,,,12-next-co-same-existing,5,4d,10-next-co-possibling,6,second,6,18,76 Os,32,6,5
+45,Rh,rhodium,,,13-next-discovering,5,4d,10-next-co-possibling,7,second,6,18,77 Ir,32,6,8
+46,Pd,palladium,,,14-next-possibling,5,4d,10-next-co-possibling,8,second,6,18,78 Pt,32,6,7
+47,Ag,silver,,,15-next-observing,5,4d,10-next-co-possibling,9,second,6,18,79 Au,32,5,7
+48,Cd,cadmium,,,16-next-same-existing,5,4d,10-next-co-possibling,10,second,6,18,80 Hg,32,5,8
+49,In,indium,,,1-now-existing,5,5p,6-now-co-possibling,1,first,6,18,81 Tl,32,5,1
+50,Sn,tin,,,2-now-possibling,5,5p,6-now-co-possibling,2,first,6,18,82 Pb,32,5,2
+51,Sb,antimony,,,3-now-co-observing,5,5p,6-now-co-possibling,3,first,6,18,83 Bi,32,6,2
+52,Te,tellurium,,,4-now-co-same-existing,5,5p,6-now-co-possibling,4,second,6,18,84 Po,32,6,1
+53,I,iodine,,,5-now-co-existing,5,5p,6-now-co-possibling,5,second,6,18,85 At,32,6,4
+54,Xe,xenon,,,6-now-co-possibling,5,5p,6-now-co-possibling,6,second,6,18,86 Rn,32,6,3
+55,Cs,caesium,,,7-now-observing,6,6s,2-now-possibling,1,first,6,18,87 Fr,32,5,3
+56,Ba,barium,,,8-now-same-existing,6,6s,2-now-possibling,2,second,6,18,88 Ra,32,5,4
+57,La,lanthanum,,,9-next-co-discovering,6,4f,14-next-possibling,1,first,7,32,89 Ac,32,8,4
+58,Ce,cerium,,,10-next-co-possibling,6,4f,14-next-possibling,2,first,7,32,90 Th,32,8,3
+59,Pr,praseodymium,,,11-next-co-observing,6,4f,14-next-possibling,3,first,7,32,91 Pa,32,7,3
+60,Nd,neodymium,,,12-next-co-same-existing,6,4f,14-next-possibling,4,first,7,32,92 U,32,7,4
+61,Pm,promethium,,,13-next-discovering,6,4f,14-next-possibling,5,first,7,32,93 Np,32,7,1
+62,Sm,samarium,,,14-next-possibling,6,4f,14-next-possibling,6,first,7,32,94 Pu,32,7,2
+63,Eu,europium,,,15-next-observing,6,4f,14-next-possibling,7,first,7,32,95 Am,32,8,2
+64,Gd,gadolinium,,,16-next-same-existing,6,4f,14-next-possibling,8,second,7,32,96 Cm,32,8,1
+65,Tb,terbium,,,1-now-existing,6,4f,14-next-possibling,9,second,7,32,97 Bk,32,8,16
+66,Dy,dysprosium,,,2-now-possibling,6,4f,14-next-possibling,10,second,7,32,98 Cf,32,8,15
+67,Ho,holmium,,,3-now-co-observing,6,4f,14-next-possibling,11,second,7,32,99 Es,32,7,15
+68,Er,erbium,,,4-now-co-same-existing,6,4f,14-next-possibling,12,second,7,32,100 Fm,32,7,16
+69,Tm,thulium,,,5-now-co-existing,6,4f,14-next-possibling,13,second,7,32,101 Md,32,7,13
+70,Yb,ytterbium,,,6-now-co-possibling,6,4f,14-next-possibling,14,second,7,32,102 No,32,7,14
+71,Lu,lutetium,,,7-now-observing,6,5d,10-next-co-possibling,1,first,7,32,103 Lr,32,8,14
+72,Hf,hafnium,,,8-now-same-existing,6,5d,10-next-co-possibling,2,first,7,32,104 Rf,32,8,13
+73,Ta,tantalum,,,9-next-co-discovering,6,5d,10-next-co-possibling,3,first,7,32,105 Db,32,5,13
+74,W,tungsten,,,10-next-co-possibling,6,5d,10-next-co-possibling,4,first,7,32,106 Sg,32,5,14
+75,Re,rhenium,,,11-next-co-observing,6,5d,10-next-co-possibling,5,first,7,32,107 Bh,32,6,14
+76,Os,osmium,,,12-next-co-same-existing,6,5d,10-next-co-possibling,6,second,7,32,108 Hs,32,6,13
+77,Ir,iridium,,,13-next-discovering,6,5d,10-next-co-possibling,7,second,7,32,109 Mt,32,6,16
+78,Pt,platinum,,,14-next-possibling,6,5d,10-next-co-possibling,8,second,7,32,110 Ds,32,6,15
+79,Au,gold,,,15-next-observing,6,5d,10-next-co-possibling,9,second,7,32,111 Rg,32,5,15
+80,Hg,mercury,,,16-next-same-existing,6,5d,10-next-co-possibling,10,second,7,32,112 Cn,32,5,16
+81,Tl,thallium,,,1-now-existing,6,6p,6-now-co-possibling,1,first,7,32,113 Nh,32,5,9
+82,Pb,lead,,,2-now-possibling,6,6p,6-now-co-possibling,2,first,7,32,114 Fl,32,5,10
+83,Bi,bismuth,,,3-now-co-observing,6,6p,6-now-co-possibling,3,first,7,32,115 Mc,32,6,10
+84,Po,polonium,,,4-now-co-same-existing,6,6p,6-now-co-possibling,4,second,7,32,116 Lv,32,6,9
+85,At,astatine,,,5-now-co-existing,6,6p,6-now-co-possibling,5,second,7,32,117 Ts,32,6,12
+86,Rn,radon,,,6-now-co-possibling,6,6p,6-now-co-possibling,6,second,7,32,118 Og,32,6,11
+87,Fr,francium,,,7-now-observing,7,7s,2-now-possibling,1,first,7,32,,,5,11
+88,Ra,radium,,,8-now-same-existing,7,7s,2-now-possibling,2,second,7,32,,,5,12
+89,Ac,actinium,,,9-next-co-discovering,7,5f,14-next-possibling,1,first,8,32,,,8,12
+90,Th,thorium,,,10-next-co-possibling,7,5f,14-next-possibling,2,first,8,32,,,8,11
+91,Pa,protactinium,,,11-next-co-observing,7,5f,14-next-possibling,3,first,8,32,,,7,11
+92,U,uranium,,,12-next-co-same-existing,7,5f,14-next-possibling,4,first,8,32,,,7,12
+93,Np,neptunium,,,13-next-discovering,7,5f,14-next-possibling,5,first,8,32,,,7,9
+94,Pu,plutonium,,,14-next-possibling,7,5f,14-next-possibling,6,first,8,32,,,7,10
+95,Am,americium,,,15-next-observing,7,5f,14-next-possibling,7,first,8,32,,,8,10
+96,Cm,curium,,,16-next-same-existing,7,5f,14-next-possibling,8,second,8,32,,,8,9
+97,Bk,berkelium,,,1-now-existing,7,5f,14-next-possibling,9,second,8,32,,,1,9
+98,Cf,californium,,,2-now-possibling,7,5f,14-next-possibling,10,second,8,32,,,1,10
+99,Es,einsteinium,,,3-now-co-observing,7,5f,14-next-possibling,11,second,8,32,,,2,10
+100,Fm,fermium,,,4-now-co-same-existing,7,5f,14-next-possibling,12,second,8,32,,,2,9
+101,Md,mendelevium,,,5-now-co-existing,7,5f,14-next-possibling,13,second,8,32,,,2,12
+102,No,nobelium,,,6-now-co-possibling,7,5f,14-next-possibling,14,second,8,32,,,2,11
+103,Lr,lawrencium,,,7-now-observing,7,6d,10-next-co-possibling,1,first,8,32,,,1,11
+104,Rf,rutherfordium,,,8-now-same-existing,7,6d,10-next-co-possibling,2,first,8,32,,,1,12
+105,Db,dubnium,,,9-next-co-discovering,7,6d,10-next-co-possibling,3,first,8,32,,,4,12
+106,Sg,seaborgium,,,10-next-co-possibling,7,6d,10-next-co-possibling,4,first,8,32,,,4,11
+107,Bh,bohrium,,,11-next-co-observing,7,6d,10-next-co-possibling,5,first,8,32,,,3,11
+108,Hs,hassium,,,12-next-co-same-existing,7,6d,10-next-co-possibling,6,second,8,32,,,3,12
+109,Mt,meitnerium,,,13-next-discovering,7,6d,10-next-co-possibling,7,second,8,32,,,3,9
+110,Ds,darmstadtium,,,14-next-possibling,7,6d,10-next-co-possibling,8,second,8,32,,,3,10
+111,Rg,roentgenium,,,15-next-observing,7,6d,10-next-co-possibling,9,second,8,32,,,4,10
+112,Cn,copernicium,,,16-next-same-existing,7,6d,10-next-co-possibling,10,second,8,32,,,4,9
+113,Nh,nihonium,,,1-now-existing,7,7p,6-now-co-possibling,1,first,8,32,,,4,16
+114,Fl,flerovium,,,2-now-possibling,7,7p,6-now-co-possibling,2,first,8,32,,,4,15
+115,Mc,moscovium,,,3-now-co-observing,7,7p,6-now-co-possibling,3,first,8,32,,,3,15
+116,Lv,livermorium,,,4-now-co-same-existing,7,7p,6-now-co-possibling,4,second,8,32,,,3,16
+117,Ts,tennessine,,,5-now-co-existing,7,7p,6-now-co-possibling,5,second,8,32,,,3,13
+118,Og,oganesson,,,6-now-co-possibling,7,7p,6-now-co-possibling,6,second,8,32,,,3,14
