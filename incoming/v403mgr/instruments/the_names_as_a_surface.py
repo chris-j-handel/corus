@@ -28,6 +28,9 @@ Returned at main, 16 November 2026, each check is:
   The surface folds in onto 1-now-existing by 1,025 less and on to 17 less, 9 less, 5 less and 3 less, a line across
   and a line down one and then the other, each with no number with itself; each going out, 1 up to 512 up, is a
   part's turn through its own centre.
+  The second surface's four diagonals are four rings, of odd names and of even names one and then the other:
+  1-3-11-9, 2-6-12-16, 7-5-13-15, 8-4-14-10. The routing 1, 3, 11, 9, 17, 19, 27, 25 is each number with a name
+  1, 3, 11 or 9: 2 up, 8 up, 2 down, 8 up; each sixteen's four are one diagonal of its four by four.
   Prior two added comes to its names again with twenty-four numbers and with no fewer; 4, 6, 10, 12 and 14 are with
   none of them. A sunflower's 21 and 34 are a 5 and a 2, and its 34 and 55 a 2 and a 7.
 """
@@ -135,6 +138,25 @@ for j in range(10, 0, -1):
 say(ok_fold and lines == ['across', 'down'] * 5, 'the numbers 1 to 1,024, to 512, to 256 and on to 1 to 2 are each one whole part of the surface about one corner, and 1,025 less, 513 less, 257 less and on to 17 less, 9 less, 5 less and 3 less each fold that part about its middle line, a line across and a line down one and then the other, with no number with itself')
 say(ok_turn, 'each going out, 1 up, 2 up, 4 up, 8 up and on to 512 up, is that part\'s turn through its own centre: its two folds, one and then the other')
 say([(2 ** j + 2) // 2 for j in range(10, 0, -1)] == [2 ** (j - 1) + 1 for j in range(10, 0, -1)], 'each span is the span outward of it folded: 1,025, 513, 257, 129, 65, 33, 17, 9, 5, 3 and 2, Exhibit THREE Natural Numbers\'s chain')
+assert '8 up: 2 and 23 with 1 and 9 add to five squared, 5 and 31 with 3 and 11 to six squared, 17 and 47 with 7 and 15 to eight squared' in three
+print('The second surface by its diagonals, each a ring round its edges:')
+say(all((B[(r, c)] + B[(r, (c + 1) % 4)]) % 2 == 1 and (B[(r, c)] + B[((r + 1) % 4, c)]) % 2 == 1 for r in range(4) for c in range(4))
+    and all((big[(r, c)] + big[(r, (c + 1) % 32)]) % 2 == 1 and (big[(r, c)] + big[((r + 1) % 32, c)]) % 2 == 1 for r in range(32) for c in range(32)),
+    'each two numbers next to each other, along or across, are one odd and one even, with sixteen names and with 1,024 numbers')
+DIAG = [[B[(k, (k + s) % 4)] for k in range(4)] for s in range(4)]
+say(DIAG == [[1, 3, 11, 9], [2, 6, 12, 16], [7, 5, 13, 15], [8, 4, 14, 10]], f'its four diagonals are four rings, of odd names and of even names one and then the other: {DIAG}')
+up8 = lambda n: n + 8 if n < 9 else n - 8
+say(all({up8(n) for n in DIAG[s]} == set(DIAG[s]) for s in (0, 2)) and {up8(n) for n in DIAG[1]} == set(DIAG[3]),
+    '8 apart brings each ring of odd names onto itself, 1 with 9 and 3 with 11, 5 with 13 and 7 with 15, and each ring of even names onto the other')
+say({f9(n) for n in DIAG[0]} == {f17(n) for n in DIAG[0]} == {8, 6, 14, 16} == {B[(k, 3 - k)] for k in range(4)},
+    '9 less and 17 less each bring the diagonal 1, 3, 11, 9 onto the square\'s other diagonal, 8, 6, 14, 16, the two crossing in the centre')
+route = [n for n in range(1, 1025) if (n - 1) % 16 + 1 in (1, 3, 11, 9)]; route = [x for k in range(0, len(route), 4) for x in (route[k], route[k + 1], route[k + 3], route[k + 2])]
+steps = [b - a for a, b in zip(route, route[1:])]
+say(route[:8] == [1, 3, 11, 9, 17, 19, 27, 25] and steps[:4] * (len(steps) // 4) == steps[:len(steps) // 4 * 4] and steps[:4] == [2, 8, -2, 8],
+    'the routing 1, 3, 11, 9, 17, 19, 27, 25 and on is each number with a name 1, 3, 11 or 9: 2 up, 8 up, 2 down, 8 up, and again')
+diag_of_block = all(sorted((abs(Pb[route[k + i]][0] - Pb[route[k + i + 1]][0]), abs(Pb[route[k + i]][1] - Pb[route[k + i + 1]][1])) for i in range(3)) == [(1, 1)] * 3 for k in range(0, len(route), 4))
+say(diag_of_block, 'with 1,024 numbers each sixteen\'s four of the routing are one diagonal of its four by four, each next to its next by one line down and one line across: two parities with each move')
+say(all((big[(k, k)] - 1) % 16 + 1 in (1, 3, 9, 11) for k in range(32)), 'each number on the whole surface\'s diagonal, corner to corner, has a name 1, 3, 9 or 11')
 biology = living('Exhibit_SEVENTEEN_Natural_Biology'); assert 'consecutive Fibonacci numbers, 21 and 34, 34 and 55' in biology
 print('Prior two added, each by its name among seventeen, sixteen on:')
 f = [1, 1]
