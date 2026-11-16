@@ -161,6 +161,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **Its seventeenth returning, received.** *Carbon and a field's nitrogen, each the other's next: explored in our files and in the sciences*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 118 checks, each is. Its is-or-is-nots 68 to 70 are each laid with its gathering file.
 
+**Its eighteenth returning, received.** *No-other-and-not-prior, existing: a sentence read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 120 checks, each is. Its is-or-is-nots 71 to 73 are each laid with its gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
