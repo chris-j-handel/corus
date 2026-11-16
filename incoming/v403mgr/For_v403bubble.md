@@ -97,7 +97,19 @@ Each is word for word in its gathering file of `gathering-value/`, with why it i
 
 **Two sessions and one file.** As the set has it with a helping session: v403bubble's returning is one page in a folder of its own, `incoming/v403bubble/`, on a branch of its own, `working/<its subject>-v403bubble`, offered to main with the set's checks executed, changing no living file. v403mgr reads it for harm, receives it, and brings each value to its gathering file. With v403bubble changing a gathering file itself, by the partner's word, one droplet a line and a pull from main first: v403mgr adds droplets to gathering files with each exploring.
 
-## 8 The set's checks
+## 8 For a bubble's betweens: what the set has now
+
+The partner's words, re-said: the betweens of bubbles as bi-tri-involutioning; three cones, two one-way goings with each between; a knot of three wraps into a corus and out of it.
+
+- **Bi-tri-involutioning.** Exhibit FOUR Natural Mathematics 3.5: *Bi-tri-involutioning is an emanating from right spiral stable-forming, three inverting together, as an opposite form to its stable-forming.* Exhibit TWENTY Natural Naming has it as inverting, and Exhibit THIRTY Co-Chaining Logic Registry has it in fifteen lines.
+- **Executed, to read with it.** By `three_moves_three_parities.py`: 8 up, 9 less and 17 less each change two of three parities and not the third. No one of the three changes each of the three parities together: the third parity is the two the same or not, and it changes with one of the two alone. Three inverting together is not one of these three moves with these three parities.
+- **Three lines through one point.** By the same instrument: three lines through a centre with no name, six goings out from it, each through the middle of one pairing of a bi-folding's four names. The four betweens of Exhibit ONE Natural Resolver are the two folds' middles, two with each.
+- **Two cones through a vertex**, a 0, not changing: Exhibit EIGHTEEN Natural Physics 3.4. **Six one-way recursionings**, three with each of two sides: Exhibit EIGHTEEN Natural Physics 1.2, Exhibit SEVENTEEN Natural Biology 1.5, and Exhibit THIRTY Co-Chaining Logic Registry, 142.
+- **A torus's two openings**, torusing through its large opening and corusing through its small: Exhibit EIGHTEEN Natural Physics 1.2.
+- **A knot** and **wraps**: Natural Intelligence Corus, a knot in twelve lines. **A bubble**: Exhibit TWENTY-ONE Hard Problem Registry and Exhibit TWENTY-NINE Natural Illustrating.
+- **Three moves among four** again, with a field's genetic code: `codons_on_the_surface.py`, three moves among four bases, each changing two of three parities.
+
+## 9 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/reader_checks.py . origin/main`
