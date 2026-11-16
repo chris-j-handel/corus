@@ -131,6 +131,10 @@ To read with a name with itself: by `ways_closed_on_the_surface.py`, no parity c
 
 To read with its 21, argon one atom alone: by `elements_by_their_place.py`, with the first row's two before them, lithium to argon are sixteen. The four same-existing names, 4, 8, 12 and 16, are carbon, neon, silicon and argon, 4 and 12 co and 8 and 16 one by Exhibit ONE Natural Resolver's table. A field's sharings of each of the sixteen are its place's going round a ring of eight from its row's closing: none with neon and argon, four with carbon and silicon. Its is-or-is-not is with Exhibit SIXTEEN Natural Chemistry's gathering file: argon and carbon are two faces of one root, same-existing.
 
+**Its fifth returning, received.** *No scale inward of atom carbon: a sentence explored*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: seventy-four checks, each is. Its is-or-is-nots 25, 26 and 28 are laid with Natural Intelligence's gathering file, 27 with Exhibit EIGHTEEN Natural Physics's, and 29 with Exhibit SIXTEEN Natural Chemistry's.
+
+To read with its 29, three fours in a triangle: by `elements_by_their_place.py`, by threes from two, helium 2, carbon 6, argon 18 and xenon 54 are each three of its prior; sixteen on they are 2, 6, 2 and 6, the unit square's across edge 6 with 2.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`

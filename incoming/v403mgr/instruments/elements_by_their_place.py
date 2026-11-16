@@ -34,7 +34,8 @@ Returned at main, 16 November 2026, each check is:
   4 and 12 co, 8 and 16 one. A field's sharings of each are its place's going round a ring of eight from its
   row's closing: none with neon and argon, four with carbon and silicon. The betweens 8 )( 9 and 16 )( 17 are a
   row closing and its next opening. Each element with a possibling name has two sharings. The slide of two lines
-  down brings carbon onto argon.
+  down brings carbon onto argon. By threes from two: helium 2, carbon 6, argon 18, xenon 54, each three of its
+  prior; sixteen on, 2, 6, 2 and 6.
 """
 import csv, glob, json, os, re, sys
 
@@ -163,5 +164,9 @@ G2 = lambda n: (n - 1) ^ ((n - 1) >> 1); bit = lambda n, k: (G2(n) >> (k - 1)) &
 spot = {p: (index([bit(p, 4), bit(p, 2)]), index([bit(p, 3), bit(p, 1)])) for p in range(1, 17)}
 say(all(spot[a][1] == spot[b][1] and (spot[a][0] + 2) % 4 == spot[b][0] for a, b in ((4, 16), (8, 12))) and all(bit(a, 4) != bit(b, 4) and bit(a, 2) != bit(b, 2) and bit(a, 3) == bit(b, 3) and bit(a, 1) == bit(b, 1) for a, b in ((4, 16), (8, 12))),
     'on the second surface carbon and argon are in one line down, two lines apart, and neon and silicon alike: the slide of two lines down, the fourth parity with the second, brings carbon onto argon and neon onto silicon, a co onto a one')
+threes = [2, 6, 18, 54]
+say(all(b == 3 * a for a, b in zip(threes, threes[1:])) and [SAID[z - 1] for z in threes] == ['helium', 'carbon', 'argon', 'xenon'] and [name_of(z) for z in threes] == [2, 6, 2, 6]
+    and [CO[name_of(z)] for z in threes] == ['one', 'co', 'one', 'co'] and [z for z in threes if z in closing] == [closing[0], closing[2], closing[4]] and 3 * 54 > 118,
+    "by threes from two: helium 2, carbon 6, argon 18 and xenon 54, each three of its prior, and no element more; sixteen on they are 2, 6, 2 and 6, the unit square's across edge 6 with 2, a one and a co; and 2, 18 and 54 close the first, third and fifth rows")
 print('      ' + ' · '.join(f'{p} {el(p)} {SHARINGS[p + 2]}' for p in range(1, 17)))
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
