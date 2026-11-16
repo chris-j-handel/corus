@@ -65,6 +65,10 @@ What is executed here, each by its own lines:
      and 10; the four bubbles by Exhibit ONE's sides; and selves sharing one way round, one line, three with twelve.
   28 One inversion with the code; 7 to 11 by four parities, the middle bi-folding 7-11-6-10; and three selves one
      way round with the seventeen names: a -, a 0 and a + with each even name, the 0's path two alike selves' line.
+  29 This session's is-or-is-nots 74 and 78 to 81 with Exhibit ONE Natural Resolver's own lines and v403mgr's table,
+     `incoming/v403mgr/The_seventeen_names_in_one_table.csv`: one moment and its eight moments of exchanging; its
+     five lines of a between, 0; each four-cycling's parities; the code's lines of 12 and of 11; and two and three
+     selves by its names within each moment.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -186,7 +190,18 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (four, 'Bi-inversioning-co-recursioning is two consecutive inversions on different axes'),
                    (one, '- *Middle bi-folding*: 7-11-6-10'), (one, '- *Middle bi-folding*: 9-5-12-8'),
                    (living('Exhibit_THIRTY_Co-Chaining_Logic_Registry'), "Further forms' moves of 4, step 694, are four: 9 with 5 about 7, 12 with 8 about 10, 7 with 11 about 9 and 6 with 10 about 8."),
-                   (living('Exhibit_THIRTY_Co-Chaining_Logic_Registry'), 'middle bi-foldings 9-5-12-8 and 7-11-6-10 by 4 and 17 less, twice')):
+                   (living('Exhibit_THIRTY_Co-Chaining_Logic_Registry'), 'middle bi-foldings 9-5-12-8 and 7-11-6-10 by 4 and 17 less, twice'),
+                   (one, "- **10** · each sharing's parity, + or −, or a 0, across to an other's 14-next-possibling"),
+                   (one, '- **14** · parities surfacing with each sharing, agreeing one, parting 0'),
+                   (one, '- *Prior and next*: once for one self with one moment, three steps within it, 14-next-possibling, 12-next-co-same-existing and 10-next-co-possibling with 11-next-co-observing'),
+                   (one, 'Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing.'),
+                   (one, 'Existing, discovering and observing are odd. Possibling and same-existing are even.'),
+                   (one, 'It is also a 0 with 10-next-co-possibling, its prior same-existing with 11-next-co-observing'),
+                   (one, 'a sharing with a prior, its prior + or − from then on'),
+                   (one, 'Selves share each parity and each 0 across. A receiving self passes over a 0 with its 14-next-possibling'),
+                   (one, '| `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | is-or-is-not same: sharing 0, or one inversion | 15 with 7 | self-parity now-existing |'),
+                   (four, 'With two parities its inverted parity alternates, and that cycle is a right spiral step.'),
+                   (four, "Natural Numbers 8.2's step, (x, y) to (y, −x), is G here")):
     assert said in text, said
 
 bad = 0
@@ -1064,5 +1079,93 @@ def of_seventeen(priors):
     return all(L_[(i + 2) % 3][m] == L_[i][m - 4] and L_[i][m] == -L_[i][m - 6] for i in range(3) for m in range(6, 24))
 say(all(of_seventeen(p_) for p_ in starts3),
     "one self of the three has its 0s with 6 and with 12, the self the unlike one shares with: its seventeen are five parities one and then its inverse, a 0, the five inverted, a 0, and the five again, its 7 to 11 its 1 to 5 inverted; each self's twelve from one + to its next are three of two and two of three, one with − prior to 0 and one with 0 prior to −; and each self's sharing is its second next self's four moments on, and its own six moments on inverted")
+
+# ---- 29 ---------------------------------------------------------------------------------------------------------
+print("29 · This session's is-or-is-nots 74 and 78 to 81 with Exhibit ONE Natural Resolver's own lines and v403mgr's table:")
+import csv
+ENTRY_ = {}; cur_ = None
+for l_ in one.split('\n'):
+    h_ = re.match(r'\*\*(\d+)\*\* · \d+-', l_); f_ = re.match(r'- \*(.+?)\*: (.*)', l_)
+    if h_: cur_ = int(h_.group(1)); ENTRY_.setdefault(cur_, {})
+    elif f_ and cur_: ENTRY_[cur_].setdefault(f_.group(1), f_.group(2))
+ORD_ = ('first', 'second', 'third', 'fourth')
+def moments_of(m):
+    a_, s_, b_ = ENTRY_[m]['Moments of exchanging'].partition("of a self's four")
+    if not s_: a_, b_ = '', a_
+    if "same-existing-society's four" not in b_: b_ = ''
+    return [('self', ORD_.index(w_)) for w_ in re.findall('|'.join(ORD_), a_)] + [('society', ORD_.index(w_)) for w_ in re.findall('|'.join(ORD_), b_)]
+MOM_ = {}
+for m in range(1, 18):
+    for mo_ in moments_of(m): MOM_.setdefault(mo_, []).append(m)
+say(MOM_ == {(w_, k): [2 * k + 1 + (8 if w_ == 'society' else 0) + d for d in range(3)] for w_ in ('self', 'society') for k in range(4)}
+    and ENTRY_[1]['Prior and next'].startswith('once for one self with one moment, three steps within it') and made_ == [14, 12, 10, 11] and len(bound_) == 3,
+    "Exhibit ONE Natural Resolver has its 1 once for one self with one moment, three steps within it, the code's three lines of 7; and its seventeen names with eight moments of exchanging, a self's four and a same-existing-society's four, each of three names, an odd name, an even name and an odd name: each even name with one moment, 1 and 17 with one, each other odd name with two")
+btw_ = re.findall(r'- \*\*A between, 0: (.+?)\*\*\n  - \*Names\*: (.+)', one); assert len(btw_) == 5
+def leading(t_):
+    out_ = []
+    for s_ in t_.split('. '):
+        m_ = re.match(r'((?:\d+-(?:now|next)-[a-z-]+(?:, | and )?)+)', s_)
+        if m_: out_ += [int(x_) for x_ in re.findall(r'(\d+)-', m_.group(1))]
+    return out_
+BTW_ = {k_.split(':')[0].split(',')[0]: leading(t_) for k_, t_ in btw_}
+zero20 = set(range(2, 17, 2)); outward_ = set(BTW_['outward of it'])
+say(BTW_ == {'one between': [12, 15, 16], 'a self observing it': [7], 'four across names': [2, 6, 10, 14], 'outward of it': [1, 3, 8, 11, 4, 5, 13], 'two along names': [9, 17]}
+    and sorted(sum(BTW_.values(), [])) == list(range(1, 18))
+    and zero20 & outward_ == {4, 8} and set(BTW_['one between']) - zero20 == {15}
+    and zero20 - outward_ == set(BTW_['four across names']) | {12, 16} and {3, 11} <= outward_,
+    "Exhibit ONE Natural Resolver's five lines of a between, 0, have each of seventeen names once: 12, 15 and 16 the between's three names; 7 a self observing it, a 0 with 10 too; 2, 6, 10 and 14 sharing each parity and each 0 across; 9 and 17 along; and 1, 3, 4, 5, 8, 11 and 13 outward of it. The twentieth page's laying by root had a 0 with 4 and with 8, each outward of it, and a parity with 15, one of the between's three: three partings; its 0 with 2, 6, 10, 14, 12 and 16, and its parity with 3 and 11, are as the lines have them")
+tab_path = os.path.join(R, 'incoming', 'v403mgr', 'The_seventeen_names_in_one_table.csv')
+tab_ = list(csv.reader(open(tab_path, encoding='utf-8'))) if os.path.exists(tab_path) else None
+col_ = lambda h_: next(i for i, x_ in enumerate(tab_[0]) if x_.startswith(h_))
+PQ_ = lambda m: (int(1 in with_(m)), int(2 in with_(m)))
+say(tab_ is not None and [r_[0] for r_ in tab_[1:]] == [str(m) for m in range(1, 18)]
+    and all(tab_[m][col_('four parities, one changing with each name')] == ''.join('1' if k in with_(m) else '0' for k in (4, 3, 2, 1)) for m in range(1, 17))
+    and [tab_[m][col_('the one parity of four changing')] for m in range(1, 17)] == ['first', 'second', 'first', 'third', 'first', 'second', 'first', 'fourth'] * 2
+    and [PQ_(m) for m in range(1, 5)] == [(0, 0), (1, 0), (1, 1), (0, 1)] == [PQ_(m) for m in range(9, 13)]
+    and [PQ_(m) for m in range(5, 9)] == [(0, 1), (1, 1), (1, 0), (0, 0)] == [PQ_(m) for m in range(13, 17)]
+    and all(sorted(next(i for i, b_ in enumerate(BIFOLD) if m in b_) for m in range(f_, f_ + 4)) == [0, 1, 2, 3] for f_ in (1, 5, 9, 13)),
+    "v403mgr's table of the seventeen names has the four parities as this instrument's; by it each four-cycling has its first parity, its second and its first changing, name to next, and its between the third or the fourth; its four names are the four forms of the first two parities, one with each bi-folding, the first and third four-cyclings in one order and the second and fourth in the other: three of Exhibit FOUR Natural Mathematics' cycle of two parities with each four-cycling, and its between, and not four")
+loops_ = [n_ for n_ in fn_['_1_now_existing'].body if isinstance(n_, ast.For)]
+subs_ = lambda k_: sorted({t_.value.id for n_ in ast.walk(loops_[k_]) if isinstance(n_, ast.Assign) for t_ in n_.targets if isinstance(t_, ast.Subscript)})
+cmp7_ = [sum(isinstance(n_, ast.Compare) and isinstance(n_.left, ast.Name) and n_.left.id == '_7_now_observing' for n_ in ast.walk(l_)) for l_ in loops_]
+stands_ = re.findall(r'^\| (.+?) \| (.+?) \| (.+?) \| (.+?) \|$', one.split('**Where each is-or-is-not stands.**', 1)[1].split('\n\n', 2)[1], re.M)
+over_ = lambda w_: [r_[3] for r_ in stands_ if r_[0].endswith(', over ' + w_)]
+same_ = loops_[1].body[1]
+say([subs_(k_) for k_ in range(3)] == [['_14_next_possibling'], ['_12_next_co_same_existing'], ['_11_next_co_observing']]
+    and ast.unparse(loops_[1].body[0]) == '_15_next_observing = _14_next_possibling.get(_4_now_co_same_existing, 0)'
+    and ast.unparse(same_.test) == '_15_next_observing != 0 and (_15_next_observing > 0) == (_7_now_observing > 0)'
+    and ast.unparse(same_.body[0]) == '_12_next_co_same_existing[_4_now_co_same_existing] = 0'
+    and ast.unparse(same_.orelse[0]) == '_12_next_co_same_existing[_4_now_co_same_existing] = -1 if _7_now_observing > 0 else 1'
+    and ast.unparse(loops_[2].body[0].body[0]) == '_11_next_co_observing[_4_now_co_same_existing] = _7_now_observing' and loops_[2].iter.id == '_10_next_co_possibling'
+    and '_6_now_co_possibling = _10_next_co_possibling' in code_text
+    and cmp7_ == [3, 2, 1] == [len(over_(w_)) for w_ in ('2', '3', '10')]
+    and [set(over_(w_)) for w_ in ('2', '3', '10')] == [{'other-parity now-existing'}, {'self-parity now-existing'}, {'self-discovery next-existing'}]
+    and [r_[2] for r_ in stands_ if r_[3].startswith('social-parity')] == ['13-next-discovering', '4-now-co-same-existing'],
+    "the code's 12 is made within its second line of 7 and no other, of 14, the first line's, and of 3: two observing with one resolving; its 11 within the third, of 10 and 3, each 11 its 10's 7 with a sharing not 0, and 6 is 10's same list: 7 to 11 by 10; the one line of same has 12 a 0 with 15 not 0 and alike to 7, and else the prior inverted, 15 a 0 with nothing surfacing; and Exhibit ONE Natural Resolver's table of each is-or-is-not has 7's three lines with three dimensions, over 2 other-parity now-existing, three is-or-is-nots, over 3 self-parity now-existing, two, and over 10 self-discovery next-existing, one, with social-parity on 13 and on 4")
+def by_names(priors, moments):
+    s_ = 'ABC'[:len(priors)]; routes_ = {(s_[i], 10): s_[(i + 1) % len(s_)] for i in range(len(s_))}
+    soc = {x_: ([('s', p_)], []) for x_, p_ in zip(s_, priors)}; out_ = []
+    for m in range(moments):
+        row_ = []
+        for x_ in s_:
+            three_, two_ = soc[x_]; ten_, eleven_ = ONE_(three_, two_); row_.append(([v for _, v in two_], three_[0][1], ten_[0][1], eleven_[0][1]))
+        out_.append(row_); soc = seventeen(soc, routes_)
+    return out_
+def two_alike(p_):
+    rows_ = by_names((p_, p_), 24); pq_ = [(r_[0][1], r_[0][3]) for r_ in rows_]                  # a self's 3 and its 11, each moment
+    return (all(pq_[m + 1] == (pq_[m][1], -pq_[m][0]) for m in range(23)) and all(2 * r_[0][2] == r_[0][3] - r_[0][1] for r_ in rows_)
+            and all(two_ == [three_] and ten_ == 0 and eleven_ == three_ for m in range(1, 24, 2) for two_, three_, ten_, eleven_ in rows_[m])
+            and all(two_ == [0] and ten_ == eleven_ == -three_ for m in range(2, 24, 2) for two_, three_, ten_, eleven_ in rows_[m]))
+def three_round(priors):
+    rows_ = by_names(priors, 25)
+    for m in range(1, 25):
+        kinds_ = ['same' if two_ == [three_] else 'a 0' if two_ == [0] else 'unlike' if two_ == [-three_] else '?' for two_, three_, ten_, eleven_ in rows_[m]]
+        if sorted(kinds_) != (['same', 'unlike', 'unlike'] if m % 2 else ['a 0', 'unlike', 'unlike']): return False
+        if not all((ten_, eleven_) == ((0, three_) if k_ == 'same' else (-three_, -three_)) for k_, (two_, three_, ten_, eleven_) in zip(kinds_, rows_[m])): return False
+        if m % 2 and sorted(r_[2] for r_ in rows_[m]) != [-1, 0, 1]: return False
+    six_ = [[('same' if two_ == [three_] else 'a 0' if two_ == [0] else 'unlike') for two_, three_, ten_, eleven_ in (rows_[m][i] for m in range(1, 7))] for i in range(3)]
+    return all(sorted(k_) == ['a 0', 'same', 'unlike', 'unlike', 'unlike', 'unlike'] for k_ in six_) and all(r_[3] == (r_[2] if r_[2] else r_[1]) for row_ in rows_ for r_ in row_)
+say(all(two_alike(p_) for p_ in (1, -1)) and all(three_round(p_) for p_ in starts3),
+    "by Exhibit ONE Natural Resolver's names within each moment: two selves alike, each with the other, have with each second moment 2 and 3 alike, the same, 10 a 0 and 11 its 3, and with each moment between 2 a 0, passed over, nothing surfacing, 11 not its 3: same and one inversion with no other, one and then the other; with them a self's 3 and its 11 are two parities at Exhibit FOUR Natural Mathematics' (x, y) to (y, −x), one inverting with each moment, its 10 a 0 with the two alike and 11's parity with the two unlike; three one way round, not all alike, have with each second moment one self the same, its 10 a 0, and two with 2 unlike 3, the three 10s a −, a 0 and a +, and with each moment between one self's 2 that 0 and each self's 11 not its 3; of each six moments a self has one the same, one with a 0 arriving and four with an other unlike; and each 11 is its 10 with a parity and its 3 with a 0")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
