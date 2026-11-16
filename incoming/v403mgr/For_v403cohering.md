@@ -31,6 +31,8 @@ Each is a file of `incoming/v403mgr/`, written by its own instrument of `incomin
 | `Each_line_of_networking_by_the_names.csv` | each of 43 lines of networking's tables of names, with its relation executed |
 | `Each_element_by_its_place.csv` | each of 118 elements with its name sixteen on and its span |
 | `Each_codon_by_its_place.csv` | each of 64 codons with its number on the surface |
+| `The_scale_ladder_by_its_primes.csv` | each of 14 rungs of Exhibit SEVEN Natural Societies's scale-ladder with its prime, its place round a ring of twenty-four and its forms as squares |
+| `Each_way_a_next_follows_by_the_table.csv` | each of 16 ways a next follows from a prior and a now, Natural Intelligence 2.4, with its joint forms still, its going round and its name by the going round |
 
 More instruments have no table: `the_names_as_a_surface.py`, `three_moves_three_parities.py`, `ways_closed_on_the_surface.py`, `ghosts_by_their_seats.py`. The page `For_v403bubble.md` has each is found, in its part 4, and each is-or-is-not? open, in its part 5.
 
