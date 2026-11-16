@@ -5,7 +5,7 @@ once. The second: a droplet said whole within a longer droplet of its gathering 
 shorter a whole sentence of the longer, word for word, each said with its two places. All or none at all, by
 each line and by each sentence.
 Reads each gathering file; executes; with *apply* it writes the gathering files by the first rule and by the
-fifth, each a droplet away with no word of it lost, and by no other rule.
+fifth, each a droplet away with its sentences and its place in a droplet of its file after, and by no other rule.
 
 Use: python3 -I incoming/v403cohering/instruments/each_droplet_said_more_than_once.py <root>          each reading, and nothing written
      python3 -I incoming/v403cohering/instruments/each_droplet_said_more_than_once.py <root> apply    the first rule and the fifth, written
@@ -45,19 +45,27 @@ opening's part, and one at the back. One of its opening's part with the opening 
 Exhibit EIGHTEEN Natural Physics's, one, with one heading: a session's note with *none*, said again in a longer
 note. Exhibit TWENTY Natural Naming's three heading rows of its tables are rows of cells, and not read.
 
-A rule for each kind of the second reading, each the managing session v403mgr's, 16 November:
-  4. A droplet of the opening's part whole within a longer one at the back, or at the head: each is as it is
-     until the opening's next version. The opening's part is in the opening's own order, and the next version
-     reads the shorter with its longer.
-  5. A droplet of a section whole within a longer one at the back, and a droplet whole within a longer one with
-     its own heading: the longer has the value, and the shorter is away, named with the droplet having its value.
-Applied at main after Merge #832, 16 November 2026, the fifth rule: eight lines away, seven of Natural Intelligence's
-gathering file and one of Exhibit EIGHTEEN Natural Physics's, each sentence of each in a droplet of its file as
-before. Of Natural Intelligence's: *The current understanding, 6x-v* and *7*, each in a parting tracked of the
-opening's part; four of section 6.5, each in its section whole at the back; and *The code is the stable form of
-healthy living in a healthy society*, in *The code, distinguishing and only distinguishing*. Of Natural
-Physics's: a session's note with *none*, in its longer note. After it the second reading has fifty-one, each of
-Natural Intelligence's opening's part, by the fourth rule.
+A rule for each kind of the second reading, the managing session's. A droplet has its words and its place: its
+number in the opening's own order, the section of its living file. The second reading is of its words.
+  4. A droplet of the opening's part, whole within a longer one: it is as it is until the opening's next
+     version. The opening's part is in the opening's own order, a label with its number is a droplet's place,
+     and the next version reads the shorter with its longer.
+  5. A droplet and its longer with one heading, not the opening's part, the shorter with no label in italics:
+     the longer has the value and the place, and the shorter is away, named with the droplet having its value.
+  6. Each other: a droplet with a place its longer has not, its section or a label with its number. It is as it
+     is until its longer has that place, with the reading of its concept's droplets together.
+The fourth and the fifth were v403mgr's, 16 November, the fifth with a section's droplet away too. Applied at
+main after Merge #832: eight lines away, seven of Natural Intelligence's gathering file and one of Exhibit
+EIGHTEEN Natural Physics's, each sentence of each in a droplet of its file as before.
+Mended at main after Merge #836, 16 November 2026, with the helping session v404helping's second hand,
+`incoming/v404helping/A_second_hand_on_the_rule_for_a_droplet_whole_within_a_longer_one.md`: seven of the eight
+each had a place its longer has not. Six are with their places again, each line as it was: *The current
+understanding, 6x-v* and *7*, each of the opening's part and each whole within a longer one at the back too;
+and four of section 6.5. Two are away as they were: *The code is the stable form of healthy living in a healthy
+society*, with its longer at the back; and a session's note with *none*, a sentence of a gathering's journey.
+The rules are as above with it, and a droplet's rule is by each longer one it has: the fourth goes first.
+After it the second reading has fifty-seven, each of Natural Intelligence's gathering file: fifty-three by the
+fourth rule and four by the sixth.
 """
 import glob, os, re, sys
 
@@ -103,7 +111,7 @@ print()
 print('the second reading, a droplet said whole within a longer droplet of its gathering file:')
 kinds = {}; said = []; rows = 0; away5 = {}
 PARTS = ('Head, the whole file', 'Opening', 'Droplets')            # a heading of a gathering file that is no section of its living file
-RULE = {4: 'rule 4: as it is until the opening\'s next version', 5: 'rule 5: the shorter away, the longer having its value', 0: 'no rule: as it is'}
+RULE = {4: 'rule 4: as it is until the opening\'s next version', 5: 'rule 5: the shorter away, the longer having its value and its place', 6: 'rule 6: as it is until its longer has its place'}
 for title, L in FILES.items():
     cur = None; at = {}
     for k, l in enumerate(L):
@@ -116,7 +124,9 @@ for title, L in FILES.items():
         longer = [j for j in at if j != k and len(L[j]) > len(L[k]) and all(s in own[j] for s in ss)]
         if longer:
             j = longer[0]; kind = 'with one heading' if at[k] == at[j] else f'{at[k]}, with {at[j]}'
-            rule = (5 if at[k] == at[j] or (at[k] not in PARTS and at[j] == 'Droplets') else 4 if at[k] == 'Opening' and at[j] in ('Droplets', 'Head, the whole file') else 0)
+            same = [x for x in longer if at[x] == at[k]]                 # a longer one with the shorter's own heading: it has the shorter's place
+            rule = 4 if at[k] == 'Opening' else 5 if same and not label else 6
+            if rule == 5: j = same[0]
             kinds.setdefault((title, kind, rule), []).append(k)
             said.append((title, kind, label, t, at[j], L[j], len(longer)))
             if rule == 5: away5.setdefault(title, []).append((k, j, ss))
