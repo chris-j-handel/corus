@@ -2,7 +2,8 @@
 involutions of each. Reads Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit THREE Natural Numbers,
 Exhibit FOUR Natural Mathematics, Exhibit SIXTEEN Natural Chemistry, Exhibit SEVENTEEN Natural Biology, Exhibit
 EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming, and the gathering files of Natural Numbers, Natural Naming,
-Natural Intelligence, Natural Emanating, Natural Physics, Natural Resolver and the Co-Chaining Logic Registry; executes; writes no file; decides nothing. Each answer is all or none at all.
+Natural Intelligence, Natural Emanating, Natural Physics, Natural Chemistry, Natural Resolver and the Co-Chaining Logic
+Registry; executes; writes no file; decides nothing. Each answer is all or none at all.
 
 Use: python3 -I incoming/v403bubble/instruments/bubble_betweens.py <root>
 
@@ -44,6 +45,9 @@ What is executed here, each by its own lines:
   19 A double of doubles: 1 to 17 as two bubbles' four things with two bubbles' four things; the gathered duals
      by the parity changing; the five dimensions with no is-not; and a sorting of bubbles by their films, one
      is-not with each exchange.
+  20 The tunneling and the bubbling at a point: three films round each line, a third of a turn each; four lines
+     at the point; one bubble with its three lines and three films; all four parities inverting together; and
+     2, 3, 6 and 7, with 11.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -123,7 +127,13 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (living('Exhibit_EIGHT_Natural_Exploring'), 'a double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next'),
                    (naming, "round to a self's own corus with 4"),
                    (naming, '5 next-existing same-existing self-parity is 5, co-competencing, arising in each self with its other'),
-                   (gathering('Natural_Resolver'), '1-same-and-now, 2-now-and-other, 3-other-and-prior, 4-prior-and-same, 5-same-and-prior')):
+                   (gathering('Natural_Resolver'), '1-same-and-now, 2-now-and-other, 3-other-and-prior, 4-prior-and-same, 5-same-and-prior'),
+                   (ni, 'It is a unit square of four across names, its centre a between, and two unit triangles along.'),
+                   (one, "a next prior stable-forming between two: a next moment's observing"),
+                   (gathering('Natural_Physics'), '2, 6, 10 and 14 are each possibling, even, across, bi-co-bi'),
+                   (gathering('Natural_Chemistry'), 'co-chaining along and bi-tunneling across'),
+                   (gathering('Natural_Chemistry'), 'ingesting is only inside bi-tunneling, never on or through the surface'),
+                   (gathering('Co-Chaining_Logic_Registry'), 'By each improving, a self is exhausting one atom and stable-forming one atom, the two of one same parity.')):
     assert said in text, said
 
 bad = 0
@@ -770,5 +780,31 @@ say(sorting(4) == 6 == len(pairs) and sorting(5) == 10
 say([len(with_(m)) for m in (4, 8, 12, 16)] == [1, 1, 3, 1] and [len(with_(m)) for m in (5, 9, 13, 17)] == [2, 2, 2, 0]
     and all(changing[m] in (3, 4) for m in (4, 8, 12, 16)) and all(second_two(m) == second_two(m + 1) for m in range(1, 16) if m not in (4, 8, 12)),
     "each fourth, 4, 8, 12 and 16, is one bubble alone, or with 12 the line of three; each fifth, 5, 9, 13 and 17, is a film of two, or with 17 nothing; fourth to fifth is the third bubble or the fourth, more or fewer, a going down the double of doubles, and each other going is across")
+
+# ---- 20 ---------------------------------------------------------------------------------------------------------
+print('20 · The tunneling and the bubbling at a point:')
+def from_line(i_, p_):                                                  # a film's going from a line it is on, exact
+    l_ = line[i_]; m_ = mids[p_]; t_ = F(dot(m_, l_), dot(l_, l_)); return tuple(F(m_[k]) - t_ * l_[k] for k in range(3))
+def thirds(i_):
+    us = [from_line(i_, p_) for p_ in pairs if i_ not in p_]
+    return len(us) == 3 and all(dot(u_, v_) < 0 and 4 * dot(u_, v_) ** 2 == dot(u_, u_) * dot(v_, v_) for u_, v_ in itertools.combinations(us, 2))
+LINES = [m for m in range(1, 17) if len(with_(m)) == 3]; FILMS = [m for m in range(1, 17) if len(with_(m)) == 2]
+name_of = {with_(m): m for m in range(1, 17)}
+say(all(thirds(i_) for i_ in range(4)) and LINES == [6, 10, 12, 14]
+    and {m: sorted(name_of[with_(m) - {k}] for k in with_(m)) for m in LINES} == {6: [3, 5, 7], 10: [7, 9, 15], 12: [5, 9, 13], 14: [3, 13, 15]}
+    and all(name_of[with_(m) | {1, 2, 3, 4}] == 11 for m in LINES),
+    "round each line three films, each a third of a turn from each; by four parities each line's three films are the line with one bubble fewer, 3, 5 and 7 round 6, 7, 9 and 15 round 10, 5, 9 and 13 round 12, 3, 13 and 15 round 14, and each line with one bubble more is the point, 11")
+say({F(dot(v_, w_), dot(v_, v_)) for v_, w_ in itertools.combinations(line, 2)} == {F(-1, 3)}
+    and [m for m in LINES if 1 in with_(m)] == [6, 10, 14] and by_root['possibling'] == [2, 6, 10, 14]
+    and (name_of[with_(6) & with_(14)], name_of[with_(6) & with_(10)], name_of[with_(10) & with_(14)]) == (3, 7, 15) and by_root['observing'] == [3, 7, 11, 15],
+    "at the point four lines, each −1/3 from each: from each line three others; the four across names, 2, 6, 10 and 14, are the first bubble and its three lines, and between each two of the three lines is one film of that bubble, 3 between 6 and 14, 7 between 6 and 10, 15 between 10 and 14: with the point, the observing names")
+comp = lambda m: name_of[frozenset({1, 2, 3, 4}) - with_(m)]
+say([(m, comp(m)) for m in LINES] == [(6, 16), (10, 4), (12, 2), (14, 8)] and [(m, comp(m)) for m in (3, 5, 7)] == [(3, 9), (5, 15), (7, 13)] and comp(11) == 1
+    and line == [neg(v_) for v_ in Fc] and all(mids[opposite[p_]] == neg(mids[p_]) for p_ in pairs),
+    "all four parities inverting together: each line with the one bubble not on it, 6 with 16, 10 with 4, 12 with 2, 14 with 8; each film with its opposite film, 3 with 9, 5 with 15, 7 with 13; the point with nothing, 11 with 1; and from the point each line's going is the inverse of that bubble's middle, each film's of its opposite film's: the tunneling and the bubbling are each the other's inverse about the point")
+say((with_(2), with_(3), with_(7), with_(6)) == (frozenset({1}), frozenset({1, 2}), frozenset({1, 3}), frozenset({1, 2, 3})) and with_(3) | with_(7) == with_(6),
+    "by the gathered 2 inhaling, 3 exhausting, 6 ingesting and 7 exhaling: 2 is the first bubble, 3 and 7 its films with the second and with the third, and 6 the line the two films are on")
+say(3 + 8 == 11 and with_(11) == with_(3) | {3, 4} and 17 - 6 == 11 and with_(11) == with_(6) | {4} and DUAL[7] == DUAL[11] and with_(11) == with_(10) | {2},
+    "11, the point, is 3 by 8 up, the film of the first two with the third and fourth bubbles; it is 6 by 17 less, the line of the first three with the fourth; it is 10's next, one bubble more; and by the gathered duals 7 and 11 are one dual")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
