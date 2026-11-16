@@ -128,6 +128,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **Its twenty-first returning, received.** *This session's is-or-is-nots 74 and 78 to 81, read with Exhibit ONE Natural Resolver's own lines and the table*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 135 checks, each is. Its is-or-is-nots 82 to 84 are each laid with its gathering file.
 
+**Its twenty-second returning, received.** *This session's number 82, read with the code, the table, and the duals handing their parities on*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 140 checks, each is. Its is-or-is-nots 85 to 86 are each laid with its gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
