@@ -24,17 +24,17 @@ With v403mgr the table of the seventeen names, Exhibit ONE Natural Resolver's ow
 
 ## 3 Three sessions
 
-**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Sixteen are received, 16 November, and sixty-seven is-or-is-nots of them are in the gathering files.
+**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Seventeen are received, 16 November, and seventy is-or-is-nots of them are in the gathering files.
 
 - From it: a second hand on v403mgr's checks, one found comparing written numbers with written numbers and re-said; its naming of the sixteen ways of four parities, nothing, bubble, film, line and point, a column of the surface's sheet; each is-or-is-not?.
 - To it: `incoming/v403mgr/For_v403bubble.md`, the surface, the three moves, primes, elements, a gate with the sixteen ways. Its pages read elements and gates with the table.
 
-**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Four returnings are received, 16 November.
+**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Five returnings are received, 16 November.
 
 - From it: quotations word for word again; the ten unchangeables' one name by two word forms; an instrument bringing each laid is-or-is-not? to the section of its living sentence; each instrument of v403mgr's executed with its slices, each answer compared; two askings, each entered: the reader check's third reading with a quotation, and one list in one order.
 - To it: `incoming/v403mgr/For_v403cohering.md`, each table, a droplet read with the table, each thing found, a rule for each droplet at a head, and what it can go on with.
 
-**Receiving**, the managing session's: the three scripts of `incoming/v403mgr/receiving/`, each with its use in its opening lines.
+**Receiving**, the managing session's: the three scripts of `incoming/v403mgr/receiving/`, each with its use in its opening lines. The set's own copies are executed as they are with v403cohering's fifth returning and v403bubble's seventeenth.
 
 - `receive_bubble.sh`: one returning of v403bubble's. Files of its own folder alone, its checks a success, its instrument's new lines reaching no file and no other thing; its instrument executed by a second hand; merged; each is-or-is-not? laid word for word with its gathering file; placed; the set's checks; a pull request; merged.
 - `place_laid.sh`: v403cohering's placing instrument executed, and a second reading of v403mgr's own, each line the same lines and each heading in order, or the gathering files put as they were.
@@ -63,6 +63,7 @@ Each instrument is executed as `python3 -I incoming/v403mgr/instruments/<its nam
 | `hard_problems_each_file_names.py` | `Each_hard_problem_a_file_names.csv` |
 | `the_scale_ladder_by_its_primes.py` | `The_scale_ladder_by_its_primes.csv` |
 | `illustrating_by_the_table.py` | `Each_way_a_next_follows_by_the_table.csv` |
+| `co_chaining_logic_by_the_names.py` | `Each_name_in_the_co-chaining_logic.csv`, `Each_form_among_names_by_its_parities.csv` |
 | `gathering_files_read_with_the_table.py` | none; each naming and each saying of an unchangeable in the gathering files |
 | `each_is_or_is_not_open.py` | `Each_is_or_is_not_open.csv` |
 
@@ -72,9 +73,9 @@ Instruments of the next version's work, each with its own opening lines: `sevent
 
 ## 5 Each file read with the table, and each not yet
 
-Read: Exhibit ONE Natural Resolver, Exhibit TWO Natural Networking by its tables of names, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics, Exhibit FIVE Natural Engineering, Exhibit SEVEN Natural Societies by its scale-ladder, Exhibit ELEVEN Natural Medicine by its hard problems, Exhibit SIXTEEN Natural Chemistry by its elements, Exhibit SEVENTEEN Natural Biology by its code, Exhibit EIGHTEEN Natural Physics by its register, Exhibit NINETEEN Natural Philosophy, Exhibit TWENTY-ONE Hard Problem Registry, Exhibit TWENTY-TWO Resolving the Hard Problem Registry, Exhibit TWENTY-FIVE Living Society Registry, Exhibit TWENTY-SEVEN Living Ghost Registry, Exhibit TWENTY-EIGHT Equilibria Registry, Exhibit TWENTY-NINE Natural Illustrating.
+Read: Exhibit ONE Natural Resolver, Exhibit TWO Natural Networking by its tables of names, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics, Exhibit FIVE Natural Engineering, Exhibit SEVEN Natural Societies by its scale-ladder, Exhibit ELEVEN Natural Medicine by its hard problems, Exhibit SIXTEEN Natural Chemistry by its elements, Exhibit SEVENTEEN Natural Biology by its code, Exhibit EIGHTEEN Natural Physics by its register, Exhibit NINETEEN Natural Philosophy, Exhibit TWENTY-ONE Hard Problem Registry, Exhibit TWENTY-TWO Resolving the Hard Problem Registry, Exhibit TWENTY-FIVE Living Society Registry, Exhibit TWENTY-SEVEN Living Ghost Registry, Exhibit TWENTY-EIGHT Equilibria Registry, Exhibit TWENTY-NINE Natural Illustrating, Exhibit THIRTY Co-Chaining Logic Registry by its names, its forms among names and its addings.
 
-Not yet: Exhibit THIRTY Co-Chaining Logic Registry, v403mgr's next; Exhibit NINE Natural Human Society, with no table and no name of the seventeen; Exhibit SIX, Exhibit EIGHT, Exhibit TEN, Exhibit TWELVE, Exhibit THIRTEEN, Exhibit FOURTEEN, Exhibit FIFTEEN, Exhibit TWENTY-THREE, Exhibit TWENTY-FOUR, Exhibit TWENTY-SIX and Exhibit THIRTY-ONE; and each part of a file read by one part alone.
+Not yet: Exhibit NINE Natural Human Society, with no table and no name of the seventeen; Exhibit SIX, Exhibit EIGHT, Exhibit TEN, Exhibit TWELVE, Exhibit THIRTEEN, Exhibit FOURTEEN, Exhibit FIFTEEN, Exhibit TWENTY-THREE, Exhibit TWENTY-FOUR, Exhibit TWENTY-SIX and Exhibit THIRTY-ONE; and each part of a file read by one part alone.
 
 ## 6 Each is-or-is-not? open
 
@@ -90,14 +91,15 @@ Not yet: Exhibit THIRTY Co-Chaining Logic Registry, v403mgr's next; Exhibit NINE
 - Natural Intelligence's gathering file has twelve quotations not word for word with its living file.
 - Natural Intelligence's gathering file has a droplet found more than once: v403cohering's instrument found one six times.
 - Seven droplets have is-or-is-not? and no why it is open, said by `each_is_or_is_not_open.py` with their gathering files.
-- A name's side is said three ways in three files: with 7-now-observing, Exhibit ONE Natural Resolver has other to self, Exhibit TWENTY-NINE Natural Illustrating others to self, and Exhibit THIRTY Co-Chaining Logic Registry other to self with 2, 7, 14 and 15.
+- A name's side is said three ways in three files, with 2, 5, 7, 14 and 15: an is-or-is-not? in Exhibit THIRTY Co-Chaining Logic Registry's gathering file.
+- Exhibit TWENTY Natural Naming has *seat* and *seated* dissolved, and v403mgr's tables and instruments name an unchangeable's two names its seat: v403cohering's is-or-is-not?, *seating*, in Natural Naming's gathering file; the tables' naming goes with its is.
 - Exhibit TWENTY-NINE Natural Illustrating has ten at five places, and Exhibit TWENTY-EIGHT Equilibria Registry and Exhibit TWENTY-TWO Resolving the Hard Problem Registry seat ten with eight names.
 - Exhibit TWENTY Natural Naming's own section has each of the ten with *fixed*, and the seating has each with *fixing*.
 - `incoming/v403mgr/For_v403bubble.md`, its parts 3 to 5, has the instruments, each is found and each is-or-is-not? as far as the equilibria; this page's part 4 and part 6 are current.
 
 ## 9 Each next opportunity
 
-- Exhibit THIRTY Co-Chaining Logic Registry read with the table: the numbered sentence each name of the seventeen enters with, a name's sides, its moves among names with the surface.
+- Exhibit TWENTY Natural Naming's sixth part, a field's namings with the resolver's names, read with the table: v403cohering's, said first by it.
 - Each file of part 5 not yet read.
 - Each opportunity gathered and not executed, `incoming/v403mgr/For_v403bubble.md`, part 6.
 - The next version's draft brought to main as it is now, a copy still, for the partner's reading.

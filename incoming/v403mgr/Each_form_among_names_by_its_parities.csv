@@ -1,0 +1,13 @@
+a form among names,its kind,"its moves, by numbers","its moves, by parities inverting",its changings of odd and even,its names' first parity,its names' roots
+1-9-8-16,a bi-folding,"8 up, 17 less, 8 up, 17 less","3 and 4, 4, 3 and 4, 4",2,as 1 has it,"discovering, existing, same-existing"
+3-11-6-14,a bi-folding,"8 up, 17 less, 8 up, 17 less","3 and 4, 4, 3 and 4, 4",2,inverting,"observing, possibling"
+2-15-7-10,a bi-folding,"17 less, 8 down, 17 less, 8 down","4, 3 and 4, 4, 3 and 4",2,inverting,"observing, possibling"
+4-13-5-12,a bi-folding,"17 less, 8 down, 17 less, 8 down","4, 3 and 4, 4, 3 and 4",2,as 1 has it,"discovering, existing, same-existing"
+9-5-12-8,a middle bi-folding,"4 down, 17 less, 4 down, 17 less","2 and 4, 4, 2 and 4, 4",2,as 1 has it,"discovering, existing, same-existing"
+7-11-6-10,a middle bi-folding,"4 up, 17 less, 4 up, 17 less","2 and 4, 4, 2 and 4, 4",2,inverting,"observing, possibling"
+1-9-5-12-8-16,a six-cycle,"8 up, 4 down, 17 less, 4 down, 8 up, 17 less","3 and 4, 2 and 4, 4, 2 and 4, 3 and 4, 4",2,as 1 has it,"discovering, existing, same-existing"
+2-15-7-11-6-10,a six-cycle,"17 less, 8 down, 4 up, 17 less, 4 up, 8 down","4, 3 and 4, 2 and 4, 4, 2 and 4, 3 and 4",2,inverting,"observing, possibling"
+3-11-7-10-6-14,a six-cycle,"8 up, 4 down, 17 less, 4 down, 8 up, 17 less","3 and 4, 2 and 4, 4, 2 and 4, 3 and 4, 4",2,inverting,"observing, possibling"
+4-13-5-9-8-12,a six-cycle,"17 less, 8 down, 4 up, 17 less, 4 up, 8 down","4, 3 and 4, 2 and 4, 4, 2 and 4, 3 and 4",2,as 1 has it,"discovering, existing, same-existing"
+1-9-5-13-4-12-8-16,an eight-cycle,"8 up, 4 down, 8 up, 17 less, 8 up, 4 down, 8 up, 17 less","3 and 4, 2 and 4, 3 and 4, 4, 3 and 4, 2 and 4, 3 and 4, 4",2,as 1 has it,"discovering, existing, same-existing"
+2-15-7-11-3-14-6-10,an eight-cycle,"17 less, 8 down, 4 up, 8 down, 17 less, 8 down, 4 up, 8 down","4, 3 and 4, 2 and 4, 3 and 4, 4, 3 and 4, 2 and 4, 3 and 4",2,inverting,"observing, possibling"
