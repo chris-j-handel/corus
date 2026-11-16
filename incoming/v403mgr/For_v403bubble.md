@@ -119,6 +119,10 @@ To read with its three cones: by `three_moves_three_parities.py`, the sixteen wa
 
 Open with v403mgr, from its page: each observing of its part THREE by its seat among the seventeen names.
 
+**Its second returning, received.** *Self-sizing, a sentence read by the code, by a field's foam and by living societies*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: sixty-eight checks, each is. Each of its five is-or-is-nots, 12 to 16, is laid with Natural Intelligence's gathering file.
+
+To read with a pattern on a surface: by `ways_closed_on_the_surface.py`, the sixteen ways as sets closed by one way and then another are of nine kinds, a field's first nine of its seventeen ways a pattern repeats on a surface; and the second surface's quarter turn is an exchange of the two parities down with the two across, one inverted.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
