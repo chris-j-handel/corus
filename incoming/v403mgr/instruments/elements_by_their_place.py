@@ -29,6 +29,12 @@ Returned at main, 16 November 2026, each check is:
   rows' 2, 8, 18 and 32, adding to sixty.
   The element under each element is 2, 8, 18 or 32 up from it, a row's length: 8 up is one seat, and 32 up
   one name.
+  The sixteen from lithium to argon, rows two and three, the first row's two before them: lithium, sodium and
+  potassium are 1, 9 and 17. The four same-existing names, 4, 8, 12 and 16, are carbon, neon, silicon and argon,
+  4 and 12 co, 8 and 16 one. A field's sharings of each are its place's going round a ring of eight from its
+  row's closing: none with neon and argon, four with carbon and silicon. The betweens 8 )( 9 and 16 )( 17 are a
+  row closing and its next opening. Each element with a possibling name has two sharings. The slide of two lines
+  down brings carbon onto argon.
 """
 import csv, glob, json, os, re, sys
 
@@ -52,6 +58,17 @@ SYMBOLS = ('H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V Cr Mn Fe 
            'Cs Ba La Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu Hf Ta W Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn Fr Ra Ac Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr '
            'Rf Db Sg Bh Hs Mt Ds Rg Cn Nh Fl Mc Lv Ts Og').split()
 assert len(SYMBOLS) == 118 == len(set(SYMBOLS))
+SAID = ('hydrogen helium lithium beryllium boron carbon nitrogen oxygen fluorine neon sodium magnesium aluminium silicon phosphorus sulfur chlorine argon potassium calcium '
+        'scandium titanium vanadium chromium manganese iron cobalt nickel copper zinc gallium germanium arsenic selenium bromine krypton rubidium strontium yttrium zirconium '
+        'niobium molybdenum technetium ruthenium rhodium palladium silver cadmium indium tin antimony tellurium iodine xenon caesium barium lanthanum cerium praseodymium '
+        'neodymium promethium samarium europium gadolinium terbium dysprosium holmium erbium thulium ytterbium lutetium hafnium tantalum tungsten rhenium osmium iridium '
+        'platinum gold mercury thallium lead bismuth polonium astatine radon francium radium actinium thorium protactinium uranium neptunium plutonium americium curium '
+        'berkelium californium einsteinium fermium mendelevium nobelium lawrencium rutherfordium dubnium seaborgium bohrium hassium meitnerium darmstadtium roentgenium '
+        'copernicium nihonium flerovium moscovium livermorium tennessine oganesson').split()
+assert len(SAID) == 118 == len(set(SAID)) and SAID[5] == 'carbon' and SAID[17] == 'argon'
+# a field's sharings of each of the sixteen from lithium to argon: the hydrogens of its simplest hydride, LiH, BeH2, BH3, CH4, NH3, H2O, HF, and none with neon; and the same with the next eight
+SHARINGS = dict(zip(range(3, 19), (1, 2, 3, 4, 3, 2, 1, 0) * 2))
+sixteen = lambda z: z - 2 if 3 <= z <= 19 else None           # an element's place among the sixteen from lithium, the first row's two before them; potassium the seventeenth
 
 # --- a field's filling order: each span by its n and l added, and then by its n; a span's length twice an odd number
 LETTER = 'spdf'
@@ -82,12 +99,12 @@ if WHAT == 'json':
     json.dump({'rows': [[next((f"{e['z']} {SYMBOLS[e['z'] - 1]}|{LETTER[e['l']]}" for e in E if e['row'] == r and order[e['l']] + e['k'] - 1 == c), None) for c in range(32)] for r in range(1, 8)]}, sys.stdout); sys.exit()
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(['number', 'element', 'its name, sixteen on', 'its row of the table', "its span, by a field's filling order", "its span's length, a possibling name", 'its place in its span',
+    w.writerow(['number', 'element', "a field's name of it", 'its place among the sixteen from lithium, a name', "its sharings, by a field", 'its name, sixteen on', 'its row of the table', "its span, by a field's filling order", "its span's length, a possibling name", 'its place in its span',
                 'its going, each odd twice', 'its group of eight, by n and l added', "that group's length", 'the element under it', 'up to the element under it',
                 'its line down, of thirty-two', 'its line across, of thirty-two'])
     for e in E:
         u = e['under']
-        w.writerow([e['z'], SYMBOLS[e['z'] - 1], NAME[name_of(e['z'])], e['row'], e['span'], NAME[e['length']], e['k'], 'first' if e['k'] <= e['length'] // 2 else 'second', e['group'],
+        w.writerow([e['z'], SYMBOLS[e['z'] - 1], SAID[e['z'] - 1], NAME[sixteen(e['z'])] if sixteen(e['z']) else '', SHARINGS.get(e['z'], ''), NAME[name_of(e['z'])], e['row'], e['span'], NAME[e['length']], e['k'], 'first' if e['k'] <= e['length'] // 2 else 'second', e['group'],
                     sum(1 for x in ALL if x['group'] == e['group']), f"{u['z']} {SYMBOLS[u['z'] - 1]}" if u else '', u['z'] - e['z'] if u else '', *place(e['z'])])
     sys.exit()
 
@@ -119,4 +136,32 @@ say(all(name_of(e['under']['z']) == name_of(e['z']) for e in E if e['under'] and
     '32 up, the element under it has its name; 8 up, the element under it has the name 8 apart, one seat')
 print('      8 up:', ' '.join(f"{SYMBOLS[e['z'] - 1]}-{SYMBOLS[e['under']['z'] - 1]}" for e in E if e['under'] and e['under']['z'] - e['z'] == 8))
 print('      closings by name:', ', '.join(f'{z} a {name_of(z)}' for z in closing))
+
+print('The sixteen from lithium to argon, rows two and three, the first row\'s two before them:')
+assert 'four-of-eight an exact middle number' in chem and '**Octet is eight-fold self with one chemical register.**' in chem
+CO = {int(n): co for n, co in re.findall(r'^\| (\d+) \| \*\*[^*]+\*\* \| [^|]+ \| [^|]+ \| (co|one) \|', one, re.M)}; assert len(CO) == 17
+el = lambda p: SAID[p + 1]                                    # the element with a place among the sixteen
+say([e['z'] for e in E if e['row'] in (2, 3)] == list(range(3, 19)) and [sum(1 for e in E if e['row'] == r) for r in (2, 3)] == [8, 8],
+    'lithium to argon are sixteen, rows two and three, each an eight')
+say([sixteen(min(e['z'] for e in E if e['row'] == r)) for r in (2, 3, 4)] == [1, 9, 17] and [el(p) for p in (1, 9, 17)] == ['lithium', 'sodium', 'potassium'],
+    'the elements opening rows two, three and four, lithium, sodium and potassium, are 1-now-existing, 9-next-co-discovering, its 8 up, and 17-next-existing, a next 1')
+same = [p for p in range(1, 17) if ROOT[p] == 'same-existing']
+say(same == [4, 8, 12, 16] and [el(p) for p in same] == ['carbon', 'neon', 'silicon', 'argon'] and [CO[p] for p in same] == ['co', 'one', 'co', 'one'],
+    "the four same-existing names, 4, 8, 12 and 16, are carbon, neon, silicon and argon; by Exhibit ONE Natural Resolver's table 4 and 12 are co and 8 and 16 are one")
+ring8 = lambda p: min(p % 8, (8 - p) % 8)                    # a place's going round a ring of eight from the row's closing, the lesser way
+say(all(SHARINGS[p + 2] == ring8(p) for p in range(1, 17)) and [SHARINGS[p + 2] for p in same] == [4, 0, 4, 0],
+    "a field's sharings of each of the sixteen are its place's going round a ring of eight from its row's closing, the lesser way: none with neon and argon, and four, the far side, with carbon and silicon")
+betweens = [(int(a), int(b)) for a, b in re.findall(r'(\d+) \)\( (\d+)', next(l for l in one.split('\n') if l.startswith('Existing, discovering and observing are odd.')))]
+say(betweens == [(4, 5), (8, 9), (12, 13), (16, 17)] and [(el(a), el(b)) for a, b in betweens] == [('carbon', 'nitrogen'), ('neon', 'sodium'), ('silicon', 'phosphorus'), ('argon', 'potassium')]
+    and all(next(e['row'] for e in E if e['z'] == a + 2) + 1 == next(e['row'] for e in E if e['z'] == b + 2) for a, b in ((8, 9), (16, 17))),
+    "of Exhibit ONE Natural Resolver's four betweens, 8 )( 9 and 16 )( 17 are a row closing and its next opening, neon to sodium and argon to potassium; 4 )( 5 and 12 )( 13 are each row's middle, carbon to nitrogen and silicon to phosphorus")
+roots = {r: [p for p in range(1, 17) if ROOT[p] in r] for r in (('existing', 'discovering'), ('possibling',), ('observing',), ('same-existing',))}
+say(all(SHARINGS[p + 2] == 2 for p in roots[('possibling',)]) and [el(p) for p in roots[('possibling',)]] == ['beryllium', 'oxygen', 'magnesium', 'sulfur']
+    and all(SHARINGS[p + 2] + SHARINGS[p + 6] == 4 for p in (1, 2, 3, 4, 9, 10, 11, 12)) and all(ROOT[p].replace('discovering', 'existing') == ROOT[p + 4].replace('discovering', 'existing') for p in (1, 2, 3, 4, 9, 10, 11, 12)),
+    "each element with a possibling name has two sharings, beryllium, oxygen, magnesium and sulfur, the unit square's four dots; and each root's two elements of a row, 4 apart, have four sharings together")
+G2 = lambda n: (n - 1) ^ ((n - 1) >> 1); bit = lambda n, k: (G2(n) >> (k - 1)) & 1
+spot = {p: (index([bit(p, 4), bit(p, 2)]), index([bit(p, 3), bit(p, 1)])) for p in range(1, 17)}
+say(all(spot[a][1] == spot[b][1] and (spot[a][0] + 2) % 4 == spot[b][0] for a, b in ((4, 16), (8, 12))) and all(bit(a, 4) != bit(b, 4) and bit(a, 2) != bit(b, 2) and bit(a, 3) == bit(b, 3) and bit(a, 1) == bit(b, 1) for a, b in ((4, 16), (8, 12))),
+    'on the second surface carbon and argon are in one line down, two lines apart, and neon and silicon alike: the slide of two lines down, the fourth parity with the second, brings carbon onto argon and neon onto silicon, a co onto a one')
+print('      ' + ' · '.join(f'{p} {el(p)} {SHARINGS[p + 2]}' for p in range(1, 17)))
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
