@@ -101,6 +101,16 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 - The droplet of Exhibit TWENTY-NINE Natural Illustrating's gathering file with four of the ten in one line: re-said, each of the four with its own two names.
 - Exhibit TWENTY Natural Naming's sixth part, a field's namings with the resolver's names, read with the table: v403cohering's. v403mgr goes on with the files of the next managing session's page, part 5.
 
+**v403cohering's sixth returning, received.** *An asking not in natural naming taken away, each droplet said more than once, and a second hand for v403mgr*, is read for harm and received at main, 16 November: one droplet of its own re-said, each heading in order, `check_set.py` ALL PASS. What it learned of an asking of the partner is in the page for the next managing session, part 2, and v403mgr's own speaking and new droplets go by it: an unchangeable's two names, eight apart, a now name with a next name.
+
+**A rule for each kind of a droplet said more than once**, v403cohering's asking:
+
+- One droplet more than once with one heading of one gathering file, as the one six times at a file's back: the first is the droplet, and each other is away, no word of it lost.
+- One droplet with each of more sections than one, each section's own living sentence the same words: each is its section's own, and each is as it is.
+- One saying in two gathering files or more, with no file of its own in it: each is as it is, and the table of them is the partners' to read; a home for one concept is the partners' word.
+
+**The second hand, entered.** `each_is_or_is_not_open.py`: its label of a droplet with no why is of a droplet with a sentence opening after the words, two now; a droplet naming the three lays none. Its column is the session a droplet names, by a returning or a folder, and no saying of which session laid it. Its answer says how many lines apart its table as written and the gathering files now are.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
