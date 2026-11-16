@@ -87,6 +87,7 @@ Gathering-Value · Natural Mathematics
 
 ### 3.8 The halfway pairing and the fold, two involutions fixing nothing at each scale
 
+- **An explaining** · This file's reflected order and its two involutions are in the table of the seventeen names and in each number's table, `incoming/v403mgr/The_seventeen_names_in_one_table.csv` and `incoming/v403mgr/Each_number_by_its_logical_seventeen.csv`: four parities with one changing by each name, first, second, first, third, first, second, first, fourth, and again; 8 apart, a pairing fixing none, each pair by its roots; and with each doubling span, 1 to 8, 1 to 16 and on to 1 to 1,024, a pairing 4s up or down and a fold, one and then the other, reaching four numbers and the first again: with 1 to 8 the two loops of four names of Exhibit TWENTY Natural Naming, with 1 to 16 the four bi-foldings, and with 1 to 512 three hundred sixty with 104, 409 and 153. This file has no sentence with a name of the seventeen; its relations are with a name's number.
 ## FOUR · BOUNDING
 
 ### 4.1 Gap is the step squared at each centre, and the span between the two either side at two
