@@ -54,7 +54,7 @@ By `gathering_files_read_with_the_table.py`, executed at main: thirty-three gath
 - Twenty-three namings are with a number past 17. Twenty-two are that number's name sixteen on, as *27-next-co-observing*, 27 an 11. One is not: *27-next-co-prioring*, in Exhibit TWENTY Natural Naming's gathering file.
 - Four sayings of an unchangeable are in other words than the seating's: *a coming fixing from behind*, in Exhibit TWENTY-SEVEN Living Ghost Registry's gathering file; *an experience fixing as a store*, in Natural Intelligence's; and *a rate fixing to a value* and *a bound fixing as a last*, each a mention of Exhibit EIGHTEEN Natural Physics's own words, in that file's gathering file.
 
-By the set's gathering check: Natural Intelligence's gathering file has twelve quotes not word for word with its living file. Each is listed by `python3 -I kits/Gathering_Value_Kit/gathering_check.py <a gathering file's title> origin/main`. Exhibit NINETEEN Natural Philosophy's one and Exhibit FOURTEEN Natural Destinies's one are word for word again, by v403cohering.
+By the set's gathering check: Natural Intelligence's gathering file has ten quotes not word for word with its living file, each a sentence of an opening earlier than the living one, read by v403cohering; two more are word for word again. Each is listed by `python3 -I kits/Gathering_Value_Kit/gathering_check.py <a gathering file's title> origin/main`. Exhibit NINETEEN Natural Philosophy's one and Exhibit FOURTEEN Natural Destinies's one are word for word again, by v403cohering.
 
 ## 5 Waiting in the gathering files, from this work
 
@@ -110,6 +110,10 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 - One saying in two gathering files or more, with no file of its own in it: each is as it is, and the table of them is the partners' to read; a home for one concept is the partners' word.
 
 **The second hand, entered.** `each_is_or_is_not_open.py`: its label of a droplet with no why is of a droplet with a sentence opening after the words, two now; a droplet naming the three lays none. Its column is the session a droplet names, by a returning or a folder, and no saying of which session laid it. Its answer says how many lines apart its table as written and the gathering files now are.
+
+**v403cohering's seventh returning, received.** *Two of Natural Intelligence's twelve quotations word for word again, and the ten read*, is read for harm and received at main, 16 November: two lines of Natural Intelligence's gathering file, each to its living sentence, each heading in order; its gathering check ten found, twelve at main with it away.
+
+**A rule for a droplet quoting a line of an opening earlier than the living one**, v403cohering's asking: the droplet is as it is until the opening's next version, the gathering check finding it. The opening's part is in the opening's own order, and the next version, the partners' word, has each of the ten with a sentence or with none. The ten are known and said, each with its reading, in v403cohering's seventh returning; the last, resolving or natural intelligence as geodesic discovering of next-possibling-same-existing, is one concern by its two sides, for the next version's reading.
 
 ## 7 The set's checks
 

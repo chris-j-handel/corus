@@ -30,7 +30,7 @@ With v403mgr the table of the seventeen names, Exhibit ONE Natural Resolver's ow
 - From it: a second hand on v403mgr's checks, one found comparing written numbers with written numbers and re-said; its naming of the sixteen ways of four parities, nothing, bubble, film, line and point, a column of the surface's sheet; each is-or-is-not?.
 - To it: `incoming/v403mgr/For_v403bubble.md`, the surface, the three moves, primes, elements, a gate with the sixteen ways. Its pages read elements and gates with the table.
 
-**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Six returnings are received, 16 November.
+**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Seven returnings are received, 16 November.
 
 - From it: quotations word for word again; the ten unchangeables' one name by two word forms; an instrument bringing each laid is-or-is-not? to the section of its living sentence; each instrument of v403mgr's executed with its slices, each answer compared; two askings, each entered: the reader check's third reading with a quotation, and one list in one order.
 - To it: `incoming/v403mgr/For_v403cohering.md`, each table, a droplet read with the table, each thing found, a rule for each droplet at a head, and what it can go on with.
@@ -89,7 +89,7 @@ Not yet: Exhibit NINE Natural Human Society, with no table and no name of the se
 
 ## 8 Each concern an other self can help with now
 
-- Natural Intelligence's gathering file has twelve quotations not word for word with its living file.
+- Natural Intelligence's gathering file has ten quotations not word for word with its living file, each a sentence of an opening earlier than the living one: as they are until the opening's next version, `For_v403cohering.md`, part 6.
 - Eleven droplets are said more than once, word for word, by v403cohering's instrument: a rule for each kind is in `For_v403cohering.md`, part 6.
 - Two droplets have is-or-is-not?, a sentence opening after it, and no Why it is open, said by `each_is_or_is_not_open.py` with their gathering files.
 - A name's side is said three ways in three files, with 2, 5, 7, 14 and 15: an is-or-is-not? in Exhibit THIRTY Co-Chaining Logic Registry's gathering file.
