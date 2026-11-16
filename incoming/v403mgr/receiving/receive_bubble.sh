@@ -19,6 +19,8 @@ for x in $FILES; do case "$x" in incoming/v403bubble/*) ;; *) echo "STOP: a file
 s=$(gh api repos/chris-j-handel/corus/pulls/$PR --jq '.head.sha'); c=$(gh api repos/chris-j-handel/corus/commits/$s/check-runs --jq '[.check_runs[] | .conclusion // "-"] | join(" ")')
 echo "its checks: $c"; echo "$c" | grep -q success || { echo "STOP: checks"; exit 1; }
 H=$(git diff main...FETCH_HEAD -- incoming/v403bubble/instruments/ | grep "^+" | grep "^+import\|^+from\|subprocess\|os\.system\|open(\|urllib\|socket\|eval(\|exec(\|write(\|remove\|shutil")
+# a line read by hand and said in ALLOW, as: export ALLOW="+import ast", is passed over, word for word; each other is a stop
+[ -n "$ALLOW" ] && { H=$(echo "$H" | grep -vxF -- "$ALLOW"); echo "passed over, read by hand: $ALLOW"; }
 [ -n "$H" ] && { echo "STOP: the instrument's new lines reach:"; echo "$H" | cut -c1-200; exit 1; }
 D=$RUN/b$PR; rm -rf $D; mkdir -p $D; git show FETCH_HEAD:incoming/v403bubble/instruments/bubble_betweens.py > $D/bubble_betweens.py
 (cd $RUN && python3 -I $D/bubble_betweens.py $ROOT > $D/out.txt 2>&1)
