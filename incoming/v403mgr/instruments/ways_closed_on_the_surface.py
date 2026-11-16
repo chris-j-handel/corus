@@ -23,6 +23,11 @@ Returned at main, 16 November 2026, each check is:
   inverted: no way of the sixteen. It exchanges odd and even; twice, it is 8 up; four times, none. Its rings are
   four, 1-8-9-16, 3-6-11-14, 2-5-10-13 and 4-7-12-15, each going on by 7 and 1 or by 3 and 5, one and then the
   other, each two adding to 8.
+  The thirty-two, the sixteen ways and the sixteen with the two kinds of parity exchanged: of the exchanged,
+  eight are quarter turns, four are folds about a diagonal line and four such folds with a slide. Each name is
+  with itself by one alone of the four folds about a diagonal: 1, 3, 9 and 11; 5, 7, 13 and 15; 2, 4, 10 and
+  12; 6, 8, 14 and 16. Each set of the thirty-two with a quarter turn is one of a field's three, each found:
+  twelve of a field's seventeen are found on the second surface.
   With its undoing first and the quarter turn after it, each fold about a line down is a fold about a line
   across. With the bi-foldings 1-9-8-16 and 3-11-6-14 the quarter turn is 9 less and 17 less, one and then the
   other; the bi-foldings 2-15-7-10 and 4-13-5-12 it brings each onto the other.
@@ -136,4 +141,57 @@ say(all(quarter(at[(where[back[m]][0], LINE[c](where[back[m]][1]))]) == at[(LINE
 less9 = lambda n: (9 if n < 9 else 25) - n; less17 = lambda n: 17 - n
 say(all(quarter(n) == (less9(n) if n % 2 else less17(n)) for n in (1, 8, 9, 16, 3, 6, 11, 14)) and {quarter(n) for n in (2, 15, 7, 10)} == {4, 13, 5, 12} and {quarter(n) for n in (4, 13, 5, 12)} == {2, 15, 7, 10},
     'with the bi-foldings 1-9-8-16 and 3-11-6-14, about the corner and about the centre, the quarter turn is 9 less and 17 less, one and then the other, each gone round; the bi-foldings 2-15-7-10 and 4-13-5-12 it brings each onto the other')
+
+print('The thirty-two: the sixteen ways, and the sixteen with the two kinds of parity exchanged, down with across:')
+POS = [(r, c) for r in range(4) for c in range(4)]
+def act(m):                                                  # a move by its three: exchanged or not, its move of the first line, of the second
+    sw, fr, fc = m
+    return tuple((LINE[fr](c), LINE[fc](r)) if sw else (LINE[fr](r), LINE[fc](c)) for r, c in POS)
+MOVES32 = [(sw, fr, fc) for sw in (0, 1) for fr in 'iABs' for fc in 'iABs']
+PERM = {act(m): m for m in MOVES32}; assert len(PERM) == 32
+compose = lambda p, q: tuple(p[POS.index(q[i])] for i in range(16))        # q, and then p
+assert all(compose(p, q) in PERM for p in PERM for q in PERM) and PERM[tuple((c, 3 - r) for r, c in POS)] == (1, 'i', 'B')
+flips = lambda m: (m[1] in 'AB') + (m[2] in 'AB')
+itself = lambda m: sorted(at[POS[i]] for i in range(16) if act(m)[i] == POS[i])
+quarters = [m for m in MOVES32 if m[0] and flips(m) == 1]
+diag_folds = [m for m in MOVES32 if m[0] and flips(m) != 1 and itself(m)]
+diag_glides = [m for m in MOVES32 if m[0] and flips(m) != 1 and not itself(m)]
+say(len(quarters) == 8 and len(diag_folds) == 4 and len(diag_glides) == 4 and all(not itself(m) for m in quarters) and all(len(itself(m)) == 4 for m in diag_folds),
+    'of the sixteen exchanged, eight are quarter turns, one parity inverted; four are folds about a diagonal line, each with four names with itself; four are folds about a diagonal line with a slide along it, with none')
+fixed = sorted(itself(m) for m in diag_folds)
+say(fixed == [[1, 3, 9, 11], [2, 4, 10, 12], [5, 7, 13, 15], [6, 8, 14, 16]] and sorted(n for v in fixed for n in v) == list(N)
+    and all(not itself((0, r, c)) for r in 'iABs' for c in 'iABs' if (r, c) != ('i', 'i')),
+    'each name is with itself by one alone of the four folds about a diagonal: 1, 3, 9 and 11; 5, 7, 13 and 15; 2, 4, 10 and 12; 6, 8, 14 and 16; and by no way of the sixteen but none')
+cyc = lambda n: (n - 1) // 4 + 1
+say(all(len({n % 2 for n in v}) == 1 and {cyc(n) for n in v} in ({1, 3}, {2, 4}) for v in fixed),
+    'each of the four is the odd names or the even names of the first and third four-cyclings, or of the second and fourth')
+ident = act((0, 'i', 'i'))
+def closure(gens):
+    h = {ident} | set(gens)
+    while True:
+        more = {compose(p, q) for p in h for q in h} - h
+        if not more: return frozenset(h)
+        h |= more
+ALL32, grow = {frozenset({ident})}, [frozenset({ident})]
+while grow:
+    h = grow.pop()
+    for p in PERM:
+        k = closure(h | {p})
+        if k not in ALL32: ALL32.add(k); grow.append(k)
+inverse = lambda p: next(q for q in PERM if compose(p, q) == ident)
+FOLDS = {act(m) for m in MOVES32 if (not m[0] and flips(m) == 1 and 'i' in m[1:]) or m in diag_folds}
+QUART = {act(m) for m in quarters}
+def kind4(h):
+    if not h & QUART: return None
+    if not h & FOLDS: return 'p4'
+    return 'p4m' if any(compose(m, compose(t, m)) == inverse(t) for m in h & FOLDS for t in h & QUART) else 'p4g'
+with4 = {}
+for h in ALL32:
+    if kind4(h): with4.setdefault(kind4(h), []).append(h)
+say(sorted(with4) == ['p4', 'p4g', 'p4m'] == sorted(name for name, t in FIELD if t == 4),
+    "each set of the thirty-two with a quarter turn is one of a field's three with a quarter turn, its 10 to 12, and each of the three is found: quarter turns and no fold; folds, one through a quarter turn's point; folds, and none through a quarter turn's point")
+print(f"      sets closed, of the thirty-two: {len(ALL32)} · with a quarter turn: " + ', '.join(f"a field's {k} {len(v)}" for k, v in sorted(with4.items())))
+four_times = lambda p: compose(p, compose(p, compose(p, p)))
+say(len({kind(h) for h in SETS} | set(with4)) == 12 and [name for name, t in FIELD if t in (3, 6)] == [name for name, _ in FIELD[12:]] and all(four_times(p) == ident for p in PERM),
+    "twelve of a field's seventeen are found on the second surface, its 1 to 12; its 13 to 17 each have a turn of a third, and no move of the thirty-two is one: each comes to none with four times")
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
