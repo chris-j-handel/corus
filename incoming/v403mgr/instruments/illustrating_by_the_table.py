@@ -90,15 +90,16 @@ def name_of(w, order=ROUND, sign=1):          # a way as a name: joint forms in 
     return BY_BITS[frozenset(k + 1 for k, f in enumerate(order) if w[f] == sign)]
 def its_prior(w): return 'going on whole' if whole(w) else 'lost, next from now alone' if from_now(w) else 'going on with one value of now'
 
+ROUNDS8 = [(ROUND[k:] + ROUND[:k])[::d] for k in range(4) for d in (1, -1)]
 if WHAT == 'csv':
     wr = csv.writer(sys.stdout, lineterminator='\n')
     wr.writerow(['a way a next follows from a prior and a now', 'next with ++', 'next with +−', 'next with −−', 'next with −+', 'its prior', 'joint forms still', 'its going round',
-                 'how many of its four answers are +', "the surface's way, + a parity inverting", 'its name by the going round, + a parity inverting', 'its name by the going round, − a parity inverting'])
+                 'how many of its four answers are +', 'the names of the sixteen it is, with each of eight round orders and with + or − a parity inverting'])
     for w in sorted(WAYS, key=lambda w: (len(plus(w)), name_of(w))):
         cyc, off = cycles(w)
         wr.writerow([words(w)] + ['+' if w[f] == 1 else '−' for f in ROUND] + [its_prior(w), ' · '.join(s(f) for f in still(w)) or 'none',
                     '; '.join(' to '.join(s(f) for f in c) for c in cyc if len(c) > 1) + ('' if not off else ('; ' if any(len(c) > 1 for c in cyc) else '') + 'passing on once: ' + ' · '.join(s(f) for f in off)),
-                    len(plus(w)), kind(bits(name_of(w))), NAME[name_of(w)], NAME[name_of(w, sign=-1)]])
+                    len(plus(w)), ', '.join(map(str, sorted({name_of(w, o, sg) for o in ROUNDS8 for sg in (1, -1)})))])
     sys.exit()
 
 bad = 0
@@ -155,8 +156,8 @@ say(len({tuple(o) for o in ROUNDS}) == 8 and all({name_of(AGREE, o, sg), name_of
                                               and {name_of(ALWAYS_PLUS, o, sg), name_of(ALWAYS_MINUS, o, sg)} == {1, 11} for o in ROUNDS for sg in (1, -1))
     and all(kind(bits(n)).endswith('a slide') for n in (7, 13)) and all(kind(bits(n)).endswith('a turn') for n in (3, 5, 9, 15)),
     "with the going round ++, +−, −−, −+ as the first to the fourth parity, in each of its eight round orders and with + or − a parity inverting: prior and now agreeing and an exclusive or are the surface's two slides, 7 and 13; next as prior, next inverting its prior, next as now and next inverting now its four turns, 3, 5, 9 and 15; next always + and next always −, 1 and 11")
-print('      by the going round as written, from ++, + a parity inverting · and − a parity inverting:')
-for w in sorted(WAYS, key=lambda w: (len(plus(w)), name_of(w))): print(f'        {words(w)} · {NAME[name_of(w)]} · {NAME[name_of(w, sign=-1)]}')
+print('      each way with the names of the sixteen it is, with each of eight round orders and with + or − a parity inverting:')
+for w in sorted(WAYS, key=lambda w: (len(plus(w)), name_of(w))): print(f"        {words(w)} · {', '.join(map(str, sorted({name_of(w, o, sg) for o in ROUNDS for sg in (1, -1)})))}")
 
 print('\nTen at five places: Exhibit TWENTY-NINE 2.7 and 7.1, Exhibit TWENTY-EIGHT Equilibria Registry 3.3, Exhibit TWENTY-TWO')
 seat = next(l for l in hard.split('\n') if l.startswith('Ten in sequence, each a part'))

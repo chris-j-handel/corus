@@ -121,6 +121,10 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 
 **v403mgr's fifteen droplets with a table's word, re-said**, each as two names eight apart, a now name with a next name, thirty-eight places; four of them an is-or-is-not?'s own sentence.
 
+**v403cohering's twelfth and thirteenth returnings, received.** *Each living sentence with a word, an instrument for a session considering a sentence by the living sentences*, and *This working as a method, read with the Geodesic Improving Method's own sentences*, are each read for harm and received at main, 16 November: an instrument reading alone; four droplets laid in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file, each heading in order; `check_set.py` ALL PASS.
+
+**Newer alone**, the partner's word, 16 November: no older and newer thing living among each other; newer is more binary, all or none at all, and less is needed in the stable form. With it: each table of v403mgr's has an unchangeable's two names as *its now name* and *its next name, 8 up*, the columns *hard problem* and *its unchangeable* as they were; two droplets and two instruments of the seventeen duals are one each, the newest; and the older lists of `For_v403bubble.md` are away, one list in one place.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`

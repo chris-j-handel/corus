@@ -76,7 +76,7 @@ for subject, rows in re.findall(r'(?ms)^- \*\*(.+?)\*\*\n(.*?)(?=^- \*\*|\Z)', f
 
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(['observing', 'its own words', 'the unchangeable it is with, of ten', 'seated with, now', 'and 8 up, next', 'its binary of four', 'ten fold to four: its fixing by a coarser grain',
+    w.writerow(['observing', 'its own words', 'the unchangeable it is with, of ten', 'its now name', 'its next name, 8 up', 'its binary of four', 'ten fold to four: its fixing by a coarser grain',
                 'what is fixing unchangeable', 'a conception a self proposes, or a specifying account', 'field', 'the changing it has', 'subject', 'one conception, a further one, or another claim',
                 'its subject and fields, in the table of fields at ten'])
     for e in E:
