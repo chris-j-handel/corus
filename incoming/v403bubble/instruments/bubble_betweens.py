@@ -54,6 +54,7 @@ What is executed here, each by its own lines:
   22 A gate of a chip, not-both of two: its one is-not with a double bubble's film; its two along and two across,
      one and only one going through; one four of the eight as two lattices, each the other's by three inverting
      together; and one gate with its own now, and two each with the other's, beside the code's selves.
+  23 A diamond's faces by a field, eight, or eight and six: the goings to the betweens of four and of six.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -141,7 +142,10 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (gathering('Natural_Chemistry'), 'ingesting is only inside bi-tunneling, never on or through the surface'),
                    (gathering('Co-Chaining_Logic_Registry'), 'By each improving, a self is exhausting one atom and stable-forming one atom, the two of one same parity.'),
                    (ni, 'An equilibrium is a not-changing still, a fixing form, a now fixing as its next'),
-                   (ni, 'A living form not-changing, or changing only one way, with each of its scales, breaks it.')):
+                   (ni, 'A living form not-changing, or changing only one way, with each of its scales, breaks it.'),
+                   (physics, "a diamond cubic lattice is two interpenetrating face-centered cubic lattices displaced a quarter of a cube's body diagonal"),
+                   (physics, 'diamond uses only one of its two tetrahedral-void sets, leaving its other un-occupied'),
+                   (chem, 'Carbon was living in higher-scale selves, outward of it.')):
     assert said in text, said
 
 bad = 0
@@ -879,5 +883,11 @@ say(all(len(set(ring([x_, 1 - x_]))) == 1 for x_ in (0, 1)) and all(ring([x_, x_
     and all(0 not in two_code[pr_]['A'] and two_code[pr_]['A'] == alone_(pr_[0])[0]['A'] for pr_ in ((1, -1), (-1, 1)))
     and all(two_code[pr_]['A'][1::2] == [0] * 6 for pr_ in ((1, 1), (-1, -1))),
     "two gates, each with the other's now: the two unlike, each is not-changing with each of twelve moments; the two alike, both invert with each moment; beside them the code's two selves bi-coupling: the two unlike, each inverting with each moment, a self alone's; the two alike, a 0 with each second moment")
+
+# ---- 23 ---------------------------------------------------------------------------------------------------------
+print("23 · A diamond's faces:")
+say(len(cube) == 8 and sorted(one_four + [neg(c_) for c_ in one_four]) == sorted(cube) and all(len(of_four(c_)) == 3 for c_ in cube)
+    and len(of_six) == 6 and all(dot(e_, c_) != 0 for e_ in of_six for c_ in cube) and len(cube) + len(of_six) == 14,
+    "a field's eight faces of a diamond of the earth are by the cube's eight corners, each a going to a between of four round a self: the one four of the lattice and its inverse four, all eight, with one four only inside; a field's eight and six faces of a diamond grown by pressing are by the eight and by the six goings to the betweens of six: fourteen")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
