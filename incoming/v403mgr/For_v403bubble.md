@@ -165,6 +165,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **Its nineteenth returning, received.** *Self, other and both, all three observing and co-linearizing: a sentence read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 125 checks, each is. Its is-or-is-nots 74 to 77 are each laid with its gathering file.
 
+**Its twentieth returning, received.** *One inversion, 7 to 11, and three selves' one line with the seventeen names: an asking and a looking read*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 130 checks, each is. Its is-or-is-nots 78 to 81 are each laid with its gathering file.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`

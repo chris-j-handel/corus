@@ -36,6 +36,7 @@ Gathering-Value · Natural Mathematics
 ### 2.2 Two moves, and two generators, the sign flip and the right spiral step
 
 - **Possible incohering** · "Two right spiral steps are one sign flip." → *The sign flip* at 2.2's title and at 2.2, 3.4, 3.5 and 7.5 is re-said as both parities inverted with one step, as 3.4 has it of a pair, its title with it, or is a field's own name for −1; *sign* dissolves at Natural Naming into parity, and a field's sign at cos t and sin t, a spin's sign reversed and group theory's −1 is the field's own.
+- **Possible exploring** · The session v403bubble's twentieth returning, `incoming/v403bubble/One_inversion_7_to_11_and_three_selves_with_the_seventeen_names_read.md`, 80, with its instrument `incoming/v403bubble/instruments/bubble_betweens.py`, executed by a second hand, each check is. With Exhibit FOUR Natural Mathematics: *The sign flip is its own inverse, (−1)² = 1. A right spiral step, i, opens a perpendicular: i² = −1 and i⁴ = 1.* is-or-is-not? Each four-cycling of names is four right spiral steps: an existing or a discovering name a parity, a possibling name a 0, an observing name its inverse, a same-existing name a 0. Why it is open: executed with three selves one way round, the 0 followed from self to self, each of six starts. One moment with each name is this session's laying; Exhibit ONE Natural Resolver's names are of one self's resolving and a same-existing-society's next. Two selves alike have the same line with no third.
 
 ### 2.3 A step adds a next, and a cycle at the parities is a spiral at the moments
 
@@ -79,6 +80,7 @@ Gathering-Value · Natural Mathematics
 
 - **An explaining** · Six lengthwise ribs a transverse rib joins below a conical apex, in immature Alstroemeria fruit, are a candidate along–across correspondence; its field names no natural torusing.
 - **An explaining** · The tendril is the twisting towel, its knot three edges in and three edges out, three-phase twisting and relaxing, joined by a short switch point, and a new living me corusing, torusing and co-intelligencing.
+- **Possible exploring** · The session v403bubble's twentieth returning, `incoming/v403bubble/One_inversion_7_to_11_and_three_selves_with_the_seventeen_names_read.md`, 79, with its instrument `incoming/v403bubble/instruments/bubble_betweens.py`, executed by a second hand, each check is. With Exhibit FOUR Natural Mathematics: *Bi-inversioning-co-recursioning is two consecutive inversions on different axes* is-or-is-not? 7 to 11 is bi-inversioning-co-recursioning: the second parity and the fourth, one and then the other, by 6 or by 10. Why it is open: executed by four parities as four bubbles, the ninth page's number 40, open. Exhibit THIRTY Co-Chaining Logic Registry has 7 with 11 a move of 4 about 9, by neither 6 nor 10. By the gathered duals, floating, the two are one dual, and v403mgr's is-or-is-not? has them one relation with two scales.
 
 ### 3.5 Bi-tri-involutioning, the emanating at the opposite form
 
