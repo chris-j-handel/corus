@@ -59,6 +59,8 @@ What is executed here, each by its own lines:
      no-other with both by the gathered duals; and 7 with 11 one dual.
   25 5 with 7 as 6, and 4 with 8 not; and a diamond's two lattices with two unlike kinds: three inverting together
      with one kind as the other.
+  26 No-other-and-not-prior, the gathered dual of 7 and of 11: its two names in the code's lines of 1-now-existing
+     only; and 1-now-existing with no other, its next prior not its prior.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -154,7 +156,11 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (naming, "the periodic table's one hundred eighteen elements are a field's own result with one same numeral, Natural Numbers 7.1, and no number of a method"),
                    (gathering('Natural_Chemistry'), "an element's own number has carbon a 6-now-co-possibling"),
                    (chem, '**An element is number; chemistry is coupling.**'),
-                   (gathering('Natural_Chemistry'), "boron at 5 with nitrogen at 7, podal about carbon's 6, paired taking all carbon's forms")):
+                   (gathering('Natural_Chemistry'), "boron at 5 with nitrogen at 7, podal about carbon's 6, paired taking all carbon's forms"),
+                   (gathering('Natural_Resolver'), "7 and 11 are together inside the code's lines of 1-now-existing"),
+                   (gathering('Natural_Resolver'), 'other or no-other first is observing'),
+                   (ni, 'Each is one side observing where two sides live: a parity, its prior an empty set, to selves whose bi-coupling asks a prior with each side.'),
+                   (chem, 'Two electrons share one orbital only with opposite spins, their pair with zero net spin')):
     assert said in text, said
 
 bad = 0
@@ -920,5 +926,17 @@ def through_middle(c_, x_): return tuple(F(c_[k], 2) - x_[k] for k in range(3)) 
 say(all(through_middle(c_, (0, 0, 0)) == tuple(F(c_[k], 2) for k in range(3)) and all(through_middle(c_, d_) in first_lattice for d_ in second_lattice) for c_ in one_four)
     and not any(through_middle(c_, x_) == x_ for c_ in one_four for x_ in first_lattice + second_lattice),
     "three inverting together about the middle of a self and one of its four: each place tried of the one lattice is with a place of the other, and no place tried of either is with itself; with one kind on both lattices the form is itself again, and with two unlike kinds, one on each, the one kind is with the other")
+
+# ---- 26 ---------------------------------------------------------------------------------------------------------
+print('26 · No-other-and-not-prior:')
+code_text = one.split('```python', 1)[1].split('```', 1)[0]
+bodies = {name_: body_ for name_, body_ in re.findall(r'def (_\d+_\w+)\((.*?)(?=\ndef |\Z)', code_text, re.S)}
+say(sorted(m for m in DUAL if DUAL[m] == 'no-other-and-not-prior') == [7, 11] and ROOT_[7] == ROOT_[11] == 'observing'
+    and (THREE_[7], THREE_[11]) == ('tri-bi-co', 'co-bi-co') and with_(11) == with_(7) | {2, 4} and 7 + 4 == 11
+    and all(n_ in bodies['_1_now_existing'] for n_ in ('_7_now_observing', '_11_next_co_observing'))
+    and not any(n_ in bodies[f_] for n_ in ('_7_now_observing', '_11_next_co_observing') for f_ in ('_9_next_co_discovering', '_17_next_existing')),
+    "by the gathered duals no-other-and-not-prior is with 7 and with 11 and with no other name, each observing by its root; their threes are tri-bi-co and co-bi-co, alike but with next; by four parities 7 is a film and 11 the point, 7 with the second and fourth bubbles more; and 7 and 11 are in the code's lines of 1-now-existing, and in no line of its two other functions")
+say(all(ONE_([('s', p_)], [])[1] == [('s', -p_)] and ONE_([('s', p_)], [('s', p_)])[1] == [('s', p_)] for p_ in (1, -1)),
+    "1-now-existing with no other, nothing arriving: its next prior, its 11, is not its prior, each prior; with an other alike arriving, its next prior is its prior")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
