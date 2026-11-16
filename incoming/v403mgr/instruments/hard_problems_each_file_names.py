@@ -23,7 +23,7 @@ import csv, glob, json, os, re, sys
 R = sys.argv[1]; WHAT = sys.argv[2] if len(sys.argv) > 2 else ''
 one = open(max(glob.glob(os.path.join(R, 'Exhibit_ONE_Natural_Resolver_v*.md')), key=lambda f: int(re.search(r'_v(\d+)', f).group(1))), encoding='utf-8').read()
 NAME = {int(n): nm for n, nm in re.findall(r'^\| (\d+) \| \*\*(.+?)\*\* \|', one, re.M)}; assert sorted(NAME) == list(range(1, 18))
-T = [(int(r['its number in the Hard Problem Registry']), r['hard problem'], r['its unchangeable'], r['seated with, now'], r['and 8 up, next'])
+T = [(int(r['its number in the Hard Problem Registry']), r['hard problem'], r['its unchangeable'], r['its now name'], r['its next name, 8 up'])
      for r in csv.DictReader(open(os.path.join(R, 'incoming/v403mgr/Each_hard_problem_by_its_seat.csv'), encoding='utf-8'))]
 assert len(T) == 255
 TEN = list(dict.fromkeys(t[2] for t in sorted(T, key=lambda t: t[0]))); assert len(TEN) == 10
@@ -44,7 +44,7 @@ assert len(newest) == 33 and len(HITS) == 31
 
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(['living file', 'a hard problem it names', 'its number in the Hard Problem Registry', 'its unchangeable', 'seated with, now', 'and 8 up, next'])
+    w.writerow(['living file', 'a hard problem it names', 'its number in the Hard Problem Registry', 'its unchangeable', 'its now name', 'its next name, 8 up'])
     for stem, hits in HITS.items():
         for n, title, u, a, b in hits: w.writerow([said(stem), title, n, u, a, b])
     sys.exit()

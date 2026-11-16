@@ -37,7 +37,7 @@ sections = set(re.findall(r'(?m)^## (\d+\.\d+) ', phys))
 
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(['observing', 'the fixing it is at, as written', 'its unchangeable, of ten', 'seated with, now', 'and 8 up, next', 'its register'])
+    w.writerow(['observing', 'the fixing it is at, as written', 'its unchangeable, of ten', 'its now name', 'its next name, 8 up', 'its register'])
     for e in E:
         t = e['ten'][0] if e['ten'] else ''
         w.writerow([e['observing'], e['fixing'], ' · '.join(e['ten']), NAME[SEAT[t][0]] if t else '', NAME[SEAT[t][1]] if t else '', e['register']])

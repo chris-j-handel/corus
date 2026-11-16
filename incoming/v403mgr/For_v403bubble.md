@@ -23,56 +23,15 @@ No living file enters main and corus.me is not changed until the partner's word.
 
 ## 3 Each instrument and its table
 
-Each is executed as `python3 -I incoming/v403mgr/instruments/<its name>.py .`, and with `csv` or `json` after the root as its own opening lines say. Each table is a file of `incoming/v403mgr/`.
-
-| Instrument | Its table | What it has |
-|---|---|---|
-| `seventeen_names_in_one_table.py` | `The_seventeen_names_in_one_table.csv` | each name a line, ninety columns, each column with its standing: living, executed, an is, or floating |
-| `each_number_by_its_logical_seventeen.py` | `Each_number_by_its_logical_seventeen.csv` | each number 1 to 1,025 by its name sixteen on, its place by fours, its podals, its bi-folding, its seam |
-| `the_names_as_a_surface.py` | none; `json` for a sheet | three surfaces of the sixteen names; the second on by fours to 1,024; each fold and each turn; the four diagonals |
-| `three_moves_three_parities.py` | none | 8 up, 9 less and 17 less as three parities and three lines through one point |
-| `each_prime_by_its_seat.py` | `Each_prime_by_its_seat.csv` | each prime of the 1,024 by its name, its seat, its forms as squares and its place |
-| `ghosts_by_their_seats.py` | none; `json` for a sheet | each entry of Exhibit TWENTY-SEVEN Living Ghost Registry by the ten unchangeables and the ten ghost positions |
-| `hard_problems_by_their_seats.py` | `Each_hard_problem_by_its_seat.csv` | each of 255 hard problems with its unchangeable, its two names and its entry's five lines |
-| `living_societies_in_one_table.py` | `The_living_societies_in_one_table.csv` | each of 22 living societies with its unchangeable and each line of its entry |
-| `equilibria_by_their_seats.py` | `Each_observing_of_equilibria_by_its_seat.csv` | each of 63 observings of Exhibit TWENTY-EIGHT Equilibria Registry with its unchangeable, its two names and its binary of four |
-| `a_naming_of_the_code_executes_the_same.py` | none | a naming of the code by the newest seventeen duals, exchanged one for one and exchanged again, is the code line by line |
-
-The tables are in one workbook of sheets too, open with the partner: Seventeen names, Each column, Each number, Surface, Ghosts, Hard problems, Living societies, Each prime, Each sheet.
+Each instrument with its table is one list, in `incoming/v403mgr/For_the_managing_session_after_v403mgr.md`, part 4. Each is executed as `python3 -I incoming/v403mgr/instruments/<its name>.py .`, and its opening lines say what it reads, its use and each thing it returned at main.
 
 ## 4 Each is found, executed
 
-**The surface.** Exhibit FOUR Natural Mathematics's reflected order has one parity changing with each number. With four parities, two down and two across, the sixteen names are one surface, each two names next to each other one parity apart, along, across and round each edge. Four parities part two and two three ways, three surfaces. With the second, `1 2 7 8 / 4 3 6 5 / 13 14 11 12 / 16 15 10 9`, each four-cycling is a square of four gone round by the right, and each bi-folding the square about one meeting of the four four-cyclings. On by fours, 1,024 numbers are thirty-two by thirty-two.
-
-**Folds and turns.** 9 less folds the second surface about its middle line down and 17 less about its middle line across; 8 up is the turn through the centre, the two folds one and then the other. With the reflected order 9 less changes the third parity alone, 17 less the fourth alone, and 8 up the two together. With 1,024 numbers each fold, 3 less to 1,025 less, changes one parity alone, the first to the tenth. No fold has a number with itself.
-
-**Diagonals.** The second surface's four diagonals are four rings round its edges, of odd names and of even names one and then the other: 1-3-11-9, 2-6-12-16, 7-5-13-15, 8-4-14-10. The partner's routing 1, 3, 11, 9, 17, 19, 27, 25 is each number with a name 1, 3, 11 or 9.
-
-**Seams and rings.** Each seam of Exhibit THREE Natural Numbers, 8, 24, 48, 80, 120, 168, 224, 288, 360, 440, is an 8-now-same-existing or a 16-next-same-existing. A ring's fold has two names with themselves, 8 apart and of one root.
-
-**Seats.** Exhibit TWENTY-TWO Resolving the Hard Problem Registry seats each of ten unchangeables with a name and that name 8 up, and 17-next-existing seats none. Each of the ten is with a living society, with observings of equilibria, and with hard problems. Each seat of two odd names has its own forms of a prime as squares: 1 and 9 each of three, 3 and 11 a square and two of a square alone, 5 and 13 a square and a square alone, 7 and 15 a square less two of a square alone.
+Each is found is in its instrument's own opening lines, *Returned at main*, and in the droplet of its gathering file: one place each, the newest.
 
 ## 5 Each is-or-is-not? open, with the gathering file it is in
 
-Each is word for word in its gathering file of `gathering-value/`, with why it is open; a search of the file for `v403mgr` finds it.
-
-| Gathering file | The is-or-is-not? |
-|---|---|
-| Natural_Resolver | The second surface is the names' own surface: a right spiral of four right spirals, and on by fours. |
-| Natural_Resolver | The seventeen names are on three planes through a corus, a plane by each root of three and each four-cycling's same-existing name on the line of the turn. |
-| Natural_Resolver | A ring on a surface heals by its two folds, one and then the other, each fixing none. |
-| Natural_Resolver | A 0 goes along a surface's diagonal, between two rings of even names, two parities changing with each move and no even name met. |
-| Natural_Resolver | A name of the seventeen, in the code and in a sentence, is its number and its dual, its root read out of its dual. |
-| Natural_Numbers | A prime's seat is its forms as squares. |
-| Natural_Numbers | 8 up, 9 less and 17 less are three cones through one point, a 0, with six one-way unrelationings. |
-| Natural_Numbers | A self a chain adds is a same-existing name 4 down, and four selves a whole four-cycling of same-existing. |
-| Natural_Mathematics | A conserving is a fold with a name with itself, a same-existing fixed as a place; nature's unrelationing is each fold fixing none. |
-| Natural_Physics | The one hundred eighteen elements are one going and one return of possibling about a same-existing turn. |
-| Resolving_the_Hard_Problem_Registry | An unchangeable is a ring a naming closes: its two names with themselves are its seat, a 0 not changing, and each podaling fixing none is the changing going through it. |
-| Hard_Problem_Registry | Each hard problem is one conserving relation with its reach a whole, a law past its extreme, and its seat the two names its unchangeable fixes. |
-| Living_Ghost_Registry | Pharmacology's ghosts are molecular chemistry's ghosts going on by one seat, a rate fixing as a value. |
-| Natural_Intelligence_Corus | A type of ghost is one four-cycling fixed: one square of the surface. |
-| Equilibria_Registry | The four binaries are a right spiral of two parities, now to existing to same to all and to now again. |
+Each is one line of `incoming/v403mgr/Each_is_or_is_not_open.csv`, written by `incoming/v403mgr/instruments/each_is_or_is_not_open.py` out of the gathering files as they are: its gathering file, the section it is with, the sentence, and why it is open.
 
 ## 6 Each opportunity gathered and not executed
 

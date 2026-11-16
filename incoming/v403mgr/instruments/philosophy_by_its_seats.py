@@ -43,7 +43,7 @@ of_seam = {s['number']: s for s in SEAMS}
 
 if WHAT == 'csv':
     w = csv.writer(sys.stdout, lineterminator='\n')
-    w.writerow(['its branch of philosophy', 'dilemma', 'the one coupling it splits', 'its register', 'the seam it reaches with', 'the fixing it is at, as written', 'its unchangeable, of ten', 'seated with, now', 'and 8 up, next'])
+    w.writerow(['its branch of philosophy', 'dilemma', 'the one coupling it splits', 'its register', 'the seam it reaches with', 'the fixing it is at, as written', 'its unchangeable, of ten', 'its now name', 'its next name, 8 up'])
     for d in D:
         t = d['ten'][0] if d['ten'] else ''
         w.writerow([d['branch'], d['dilemma'], d['splits'], d['register'], (d['seam'] + ' ' + of_seam[d['seam']]['seam']) if d['seam'] else '', d['fixing'], ' · '.join(d['ten']),

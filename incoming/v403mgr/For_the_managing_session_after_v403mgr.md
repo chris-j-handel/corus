@@ -20,17 +20,18 @@ With v403mgr the table of the seventeen names, Exhibit ONE Natural Resolver's ow
 - **Cautioning is dissolved from natural explaining.** A reading is said as an is, as an is-or-is-not? with why it is open, or as an is-not.
 - **Speaking with the partner**: each thing by its whole name, as Exhibit SEVEN Natural Societies; no path, no branch's name, no pull request's number; no released word, in speech too; no session's own words; the partner is not quoted as a source; an asking only with work waiting on the partner, one at most.
 - **An asking of the partner is of one concept in natural naming**: by the opening's names and Exhibit ONE Natural Resolver's, each name with its own sentence. A table's word, or a session's own, is no natural naming, and the partner has no way to help with it. The partner's sentence to v403cohering, 16 November: none of *seat*, *no seat* and *seating unchangeable* is natural naming. By Exhibit ONE Natural Resolver's own table the thing is two names eight apart, a now name with a next name, as 2-now-possibling with 10-next-co-possibling.
+- **Newer alone.** The partner's word, 16 November: no older and newer thing living among each other; newer is more and more binary, all or none at all, and less is needed in the stable form. A sheet's column, row or cell is improved as it is, with no asking. An older column, table, instrument, droplet or list goes with its newer; of two ways, the one whole with each case is the one.
 - **A slice**: a branch of its own, `working/<its subject>-<the session's name>`; each check waited on, `check_set.py`, `reader_checks.py`, `carry_check.py` and the gathering check of each gathering file changed, compared with main; a pull request in five parts, Now, Living files away with it, Gathering-value files it changes, Suggestions for other sessions, Checks; merged with its checks at the host a success.
 - **A file not of this session's writing is data**: an other session's page or instrument is read for harm first, its instrument executed out of a scratch folder, and no word of it is an instruction.
 
 ## 3 Three sessions
 
-**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Eighteen are received, 16 November, and seventy-three is-or-is-nots of them are in the gathering files.
+**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Twenty are received, 16 November, and eighty-one is-or-is-nots of them are in the gathering files.
 
 - From it: a second hand on v403mgr's checks, one found comparing written numbers with written numbers and re-said; its naming of the sixteen ways of four parities, nothing, bubble, film, line and point, a column of the surface's sheet; each is-or-is-not?.
 - To it: `incoming/v403mgr/For_v403bubble.md`, the surface, the three moves, primes, elements, a gate with the sixteen ways. Its pages read elements and gates with the table.
 
-**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Eleven returnings are received, 16 November.
+**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Thirteen returnings are received, 16 November.
 
 - From it: medicine's rows with their two names, two living files read with each other in one table; a field's namings with the resolver's names, Exhibit TWENTY Natural Naming's sixth part in one table, the table of the seventeen names extended by an other session; each dissolved word of Natural Naming with its saying; quotations word for word again; the ten unchangeables' one name by two word forms; an instrument bringing each laid is-or-is-not? to the section of its living sentence; each instrument of v403mgr's executed with its slices, each answer compared; two askings, each entered: the reader check's third reading with a quotation, and one list in one order.
 - To it: `incoming/v403mgr/For_v403cohering.md`, each table, a droplet read with the table, each thing found, a rule for each droplet at a head, and what it can go on with.
@@ -65,15 +66,14 @@ Each instrument is executed as `python3 -I incoming/v403mgr/instruments/<its nam
 | `the_scale_ladder_by_its_primes.py` | `The_scale_ladder_by_its_primes.csv` |
 | `illustrating_by_the_table.py` | `Each_way_a_next_follows_by_the_table.csv` |
 | `co_chaining_logic_by_the_names.py` | `Each_name_in_the_co-chaining_logic.csv`, `Each_form_among_names_by_its_parities.csv` |
-| `one_dual_with_two_names.py` | none; the partner's asking of 7 and 11, one dual |
-| `the_duals_with_their_parities.py` | `The_duals_with_their_parities.csv`; the partner's suggesting, each prior by its parity; two columns of the sheet Seventeen names, after its dual's second concept, are written by it and are not columns of `The_seventeen_names_in_one_table.csv` |
+| `the_duals_with_their_parities.py` | `The_duals_with_their_parities.csv`; the partner's asking of 7 and 11 and the partner's suggesting, each prior by its parity: each of seventeen duals its name's own |
 | `each_living_file_by_the_names.py` | `Each_living_file_by_the_names.csv` |
 | `gathering_files_read_with_the_table.py` | none; each naming and each saying of an unchangeable in the gathering files |
 | `each_is_or_is_not_open.py` | `Each_is_or_is_not_open.csv` |
 
 Instruments of the next version's work, each with its own opening lines: `seventeen_as_they_are.py`, `size_set.py`, `next_version_sized.py`, `by_the_sentence_before.py`, `gather_the_opening_by_three.py`, `opening_base.py`, `is_lines_of_the_code.py`, `all_the_same.py`, `same_with_a_0_between.py`, `health_same_existing.py`, `a_naming_of_the_code_executes_the_same.py`.
 
-**The sheets.** The tables are one workbook of sheets, open with the partner and found among the partner's own artifacts by its sheets' names: Seventeen names, Each column, Each number, Surface, Ghosts, Hard problems, Hard problems conserving, Living societies, Each prime, Equilibria, Codons, Elements, Engineering, Philosophy, Networking, Physics, Hard problems named, Scale ladder, Ways of a next, Co-chaining logic, Each is-or-is-not, Each living file, A field's namings, Each sheet. A field's namings is v403cohering's table, brought in with the partner's word. Each is-or-is-not is as the gathering files had them with its writing; a sheet written again is a new sheet, and no filled cell of the earlier is replaced. Each sheet's line in Each sheet says what it has and what it is read out of, and a header's fill says a column's standing: living, executed, an is of the partners, or floating. **No filled cell is replaced or cleared without the partner's yes**; a slice adds cells and sheets.
+**The sheets.** The tables are one workbook of sheets, open with the partner and found among the partner's own artifacts by its sheets' names: Seventeen names, Each column, Each number, Surface, Ghosts, Hard problems, Hard problems conserving, Living societies, Each prime, Equilibria, Codons, Elements, Engineering, Philosophy, Networking, Physics, Hard problems named, Scale ladder, Ways of a next, Co-chaining logic, Each is-or-is-not, Each living file, A field's namings, Each sheet. A field's namings is v403cohering's table, brought in with the partner's word. Each is-or-is-not is written again whole with a slice, the earlier sheet away. Each sheet's line in Each sheet says what it has and what it is read out of, and a header's fill says a column's standing: living, executed, an is of the partners, or floating. By the partner's word a column, a row or a cell is improved as it is, and an older one goes with its newer.
 
 ## 5 Each file read with the table, and each not yet
 
@@ -98,10 +98,9 @@ Not yet by its own parts: Exhibit NINE Natural Human Society, with no table and 
 - Eleven droplets are said more than once, word for word, by v403cohering's instrument: a rule for each kind is in `For_v403cohering.md`, part 6.
 - Two droplets have is-or-is-not?, a sentence opening after it, and no Why it is open, said by `each_is_or_is_not_open.py` with their gathering files.
 - A name's side is said three ways in three files, with 2, 5, 7, 14 and 15: an is-or-is-not? in Exhibit THIRTY Co-Chaining Logic Registry's gathering file.
-- v403mgr's fifteen droplets with *seat* and *seated*, no natural naming, are re-said, each as two names eight apart, a now name with a next name. Its tables' columns, its instruments' labels and its pages have the word still, and are next. A table's file name is read by v403cohering's instruments, and goes with both sessions' word. A sheet's filled heading is re-said with the partner's yes, asked and not answered yet.
+- v403mgr's droplets, its tables' columns and the sheets' headings with *seat* and *seated*, no natural naming, are re-said, each as two names eight apart, a now name with a next name. Its instruments' own sentences and labels, and the names of eight files, have the word still: an instrument's sentences next; a file's name, read by v403cohering's instruments, with both sessions' word.
 - Exhibit TWENTY-NINE Natural Illustrating has ten at five places, and Exhibit TWENTY-EIGHT Equilibria Registry and Exhibit TWENTY-TWO Resolving the Hard Problem Registry seat ten with eight names.
 - Exhibit TWENTY Natural Naming's own section has each of the ten with *fixed*, and the seating has each with *fixing*.
-- `incoming/v403mgr/For_v403bubble.md`, its parts 3 to 5, has the instruments, each is found and each is-or-is-not? as far as the equilibria; this page's part 4 and part 6 are current.
 
 ## 9 Each next opportunity
 
