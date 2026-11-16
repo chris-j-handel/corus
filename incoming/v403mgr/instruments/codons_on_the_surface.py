@@ -10,9 +10,10 @@ Use: python3 -I incoming/v403mgr/instruments/codons_on_the_surface.py <root>    
 
 The logic. Exhibit SEVENTEEN Natural Biology: a codon has six binary sharings, 2⁶ = 4³ = 64 codons, four bases,
 twenty amino acids. Exhibit FOUR Natural Mathematics: the reflected order, one parity changing with each number;
-with two parities a cycle is four. Exhibit SIXTEEN Natural Chemistry's caution goes with each line here: a
-table-to-table pattern is two drawings. A field's table, the standard genetic code, is nature's observing here,
-written whole in this instrument, in a field's own order of bases, U, C, A, G.
+with two parities a cycle is four. Exhibit SIXTEEN Natural Chemistry has the genetic code as another table with
+another substrate, a table-to-table pattern two drawings; here the code is read by the names' own logic, each
+answer an is or an is-not. A field's table, the standard genetic code, is nature's observing here, written whole
+in this instrument, in a field's own order of bases, U, C, A, G.
 
 Returned at main, 16 November 2026, each check is:
   Sixty-four codons, twenty amino acids and a stop. A field's order U, C, A, G is the reflected order of two
