@@ -6,7 +6,6 @@ Gathering-Value · Natural Exploring
 
 ## Head, the whole file
 
-- **Possible exploring** · The session v403bubble's tenth returning, `incoming/v403bubble/A_double_of_doubles_and_a_sorting_read.md`, 45, with its instrument `incoming/v403bubble/instruments/bubble_betweens.py`, executed by a second hand, each check is. With Exhibit EIGHT Natural Exploring: *a double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next* is-or-is-not? Double-double bubble-bubbling is 1 to 17 whole: two bubbles' four things with two bubbles' four things, sixteen. Why it is open: three readings are in the set now. Natural Naming's gathering file has it the four possibling names. Natural Explaining's gathering file has it two doubles, 6 with 10, and 4 and 8 with 12 and 16. This page has it the sixteen. The living sentence has two binaries; four parities are two and two binaries.
 - **An explaining** · Each *momentary*, *sharing* and *surfacing* of this file is said at its improving as Natural Naming has it, one concept with one name: *moment*, one now-existing in a same-existing sequence, 2.1, with *momentary* going on only as a qualifier, a momentary now-existing thing; *sharing*, one sense, one item of Exhibit ONE's list, a key, 4-now-co-same-existing, with its parity, 7-now-observing, going from a self across with 6 and 10 or along with 9, 2.5; and *surfacing*, one sense, a parity arriving for a key with 14-next-possibling, 2.5. A *sharing* or a *surfacing* with a sense other than these is said with the naming of its own concept at its sentence, and *surface*, a Natural Network surface, is its own concept.
 - **An explaining** · Its *double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next* read with Exhibit ONE's four possibling names: co or of one, and now or next, 6-now-co-possibling, 10-next-co-possibling, 2-now-possibling and 14-next-possibling, inhaling and exhaling; and its *each changing opening a middle* with the two places a 0 arises inside the code, with 14-next-possibling and with 12-next-co-same-existing.
 
@@ -83,6 +82,8 @@ Gathering-Value · Natural Exploring
 ### 4.4 Six protecting, three each way
 
 ### 4.5 Three questions bi-inversioning, three activities of one resolving
+
+- **Possible exploring** · The session v403bubble's tenth returning, `incoming/v403bubble/A_double_of_doubles_and_a_sorting_read.md`, 45, with its instrument `incoming/v403bubble/instruments/bubble_betweens.py`, executed by a second hand, each check is. With Exhibit EIGHT Natural Exploring: *a double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next* is-or-is-not? Double-double bubble-bubbling is 1 to 17 whole: two bubbles' four things with two bubbles' four things, sixteen. Why it is open: three readings are in the set now. Natural Naming's gathering file has it the four possibling names. Natural Explaining's gathering file has it two doubles, 6 with 10, and 4 and 8 with 12 and 16. This page has it the sixteen. The living sentence has two binaries; four parities are two and two binaries.
 
 ### 4.6 A reaching's competency constant, a gathering's climbing
 
