@@ -350,6 +350,8 @@ Gathering-Value · Natural Naming
 
 ### 6.2 Science and society namings with eight clusters
 
+- **Possible exploring** · This section's namings of science and same-existing-society, and the field namings, families and field words of this part's last section, in one table with the resolver's names this file has with each: `incoming/v403cohering/A_fields_namings_with_the_names.csv`, one line with each field's naming, whole as the field has it, written by `incoming/v403cohering/instruments/a_fields_namings_with_the_names.py` out of this file as it is, all or none at all by each entry. A field's word goes on whole with its own result, and its gathering is with it: each line has the field's naming, its gathering, its relation or its receiving, each resolver name with it and an invisible under it. 27 entries and 118 of a field's namings; each resolver name written is Exhibit ONE Natural Resolver's name of its number; no field's naming is in two gatherings. With eleven of the seventeen names: 11-next-co-observing 58, 1-now-existing 55, 2-now-possibling 49, 4-now-co-same-existing 49, 3-now-co-observing 34, 6-now-co-possibling 23, 10-next-co-possibling 16, 16-next-same-existing 12, 8-now-same-existing 11, 14-next-possibling 8 and 12-next-co-same-existing 6. With no field's naming: 5-now-co-existing, 7-now-observing, 9-next-co-discovering, 13-next-discovering, 15-next-observing and 17-next-existing. A number of it sizes a reading and decides nothing.
+
 ### 6.3 Set namings gathering, one name with each cluster
 
 ### 6.4 Engine, families and field words with their receiving
