@@ -27,6 +27,9 @@ Returned at main, 16 November 2026, each check is:
   A fold about no number has no name with itself; a ring's fold has two, 8 apart and of one root; each seam's ring
   has same-existing names with themselves and no other. Two and one hundred eighteen on a ring of 120 are a 2 with
   a 6, parity's unit square's across edge; the elements' turn with 60 is a 12-next-co-same-existing.
+  A ring's two names with themselves are one seat of Exhibit TWENTY-TWO Resolving the Hard Problem Registry's ten
+  unchangeables with each ring: a ring of 8, 24, 120, 360 or 440, a sequencing fixing to one beat; a ring of 16, 48,
+  80 or 880, a same-existing fixing as a store.
 """
 import csv, glob, os, re, sys
 
@@ -141,6 +144,12 @@ say(all(len(fixed(c)) == 2 and fixed(c)[1] - fixed(c)[0] == 8 and ROOT[fixed(c)[
     'a ring\'s fold has two names with themselves, 8 apart and of one root, existing with discovering as one')
 say(all(fixed(s) in ([4, 12], [8, 16]) for s in SEAM), 'each seam\'s ring has same-existing names with themselves and no other: 4 with 12, or 8 with 16, its origin and its waist')
 print('  a ring of 120, of 440, of 880, of 118, of 60:', {N: [NAME[x] for x in fixed(N)] for N in (120, 440, 880, 118, 60)})
+hard = living('Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry'); seat = next(l for l in hard.split('\n') if l.startswith('Ten in sequence, each a part'))
+SEAT = {}
+for what, a, b in re.findall(r'(an? [a-z-]+ fixing [a-z ]+?), with (\d+)(?:-[a-z-]+)? and (\d+)', seat): SEAT.setdefault((int(a), int(b)), []).append(what)
+say(len(SEAT) == 8 and sum(len(v) for v in SEAT.values()) == 10 and all(tuple(fixed(c)) in SEAT for c in range(2, 1026, 2)),
+    'a ring\'s two names with themselves are one seat of Exhibit TWENTY-TWO Resolving the Hard Problem Registry\'s ten unchangeables, a name with now and that name 8 up, with each ring; and each of its eight seats is some ring\'s')
+for N_ in (8, 24, 120, 360, 440, 16, 48, 80, 880, 60, 118): print(f'    a ring of {N_}: {" and ".join(NAME[x] for x in fixed(N_))}: {" · ".join(SEAT[tuple(fixed(N_))])}')
 print('The elements, Exhibit EIGHTEEN Natural Physics, each number by its name:')
 say(place(2) == 2 and place(118) == 6 and (2, 6) in pairs(120), 'two and one hundred eighteen, podal on a ring of 120, are a 2-now-possibling with a 6-now-co-possibling: parity\'s unit square\'s across edge, 6 with 2')
 say([place(n) for n in (59, 60, 61)] == [11, 12, 13] and fixed(120) == [4, 12], 'its going to 59, an 11-next-co-observing; its turn with 60, a 12-next-co-same-existing, with itself on its ring; its back from 61, a 13-next-discovering')

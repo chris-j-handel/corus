@@ -10,6 +10,7 @@ Each column has its standing after its name:
   [living TWENTY]  a sentence of Exhibit TWENTY Natural Naming, as it is
   [living THREE]   a sentence, a table or a list of Exhibit THREE Natural Numbers, as it is
   [living FOUR]    a sentence of Exhibit FOUR Natural Mathematics, as it is
+  [living TWENTY-TWO]  a sentence of Exhibit TWENTY-TWO Resolving the Hard Problem Registry, as it is
   [executed]       read out of the code's lines or out of the table, all or none at all
   [an is]          an is of the partners, gathered in Exhibit ONE Natural Resolver's gathering file
   [floating]       a suggesting or a candidate, in no living sentence
@@ -21,7 +22,7 @@ each root of three, existing with discovering, possibling, observing; a height b
 four-cycling's same-existing name on the line of the turn. Each check of it is all or none at all, below.
 
 Returned at main, 15 November 2026:
-  87 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is. Twenty columns are
+  89 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is. Twenty columns are
   of Exhibit THREE Natural Numbers and Exhibit FOUR Natural Mathematics, each living sentence read as it is.
   The planes, each check: is. Each four-cycling's three names are one triangle at one height. Each rectangle's
   along sides are through its next rectangle, each passing forward. A right-hand turn of a third brings each name
@@ -273,6 +274,21 @@ APART[5] = APART[13] = 'a self\'s own resolving: existing with 5 and discovering
 APART[2] = APART[10] = 'across sharings\' ends: 2 with 10'; APART[6] = APART[14] = 'across sharings\' ends: 6 with 14'
 APART[1] = APART[9] = 'an entry with a going along: 1 with 9'
 
+# --- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: ten unchangeables, each seated with a name and that name 8 up
+hard = living('Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry')
+seat = next(l for l in hard.split('\n') if l.startswith('Ten in sequence, each a part'))
+has(seat, 'its name with now and that name 8 up with next, a 0, not changing', '17-next-existing, a next 1-now-existing, seats none, one resolving')
+SEAT = {n: [] for n in N}
+for what, a, b in re.findall(r'(an? [a-z-]+ fixing [a-z ]+?), with (\d+)(?:-[a-z-]+)? and (\d+)', seat):
+    assert int(b) == int(a) + 8; SEAT[int(a)].append(what); SEAT[int(b)].append(what)
+assert sum(len(v) for v in SEAT.values()) == 20 and not SEAT[17]
+FOLD4 = {'A reference fixing unchangeable': ('an observing fixing from behind', 'a completing fixing as a last', 'a middle fixing as an end'),
+         'A rate fixing unchangeable': ('a sequencing fixing to one beat', 'a rate fixing as a value'),
+         'A magnitude, a build driving it': ('a parity fixing as a magnitude', 'a two-way fixing to one side'),
+         'A parity going along, entering as cost': ('an opening fixing as a place', 'a same-existing fixing as a store', 'a between fixing as a cut')}
+for k, v in FOLD4.items(): has(hard, f'**{k}** — ' + v[0])
+four_of = lambda what: next(k for k, v in FOLD4.items() if what in v)
+
 RING = {}   # a ring of N folds k with N less k: a name is with itself with N sixteen on from twice its number
 for n in range(1, 17):
     first = 2 * n % 16 or 16
@@ -367,6 +383,8 @@ COLS = [
     ('of the chain three, five, nine, seventeen', 'living THREE', lambda n: CHAIN.get(n, '')),
     ('8 apart, a pairing fixing none, by its roots', 'living FOUR', lambda n: APART[n]),
     ('with itself by a ring\'s fold', 'executed', lambda n: RING[(n - 1) % 16 + 1]),
+    ('the unchangeable seated with it and its name 8 apart', 'living TWENTY-TWO', lambda n: ' · '.join(SEAT[n]) or 'seats none, one resolving'),
+    ('ten fold to four: its fixing by a coarser grain', 'living TWENTY-TWO', lambda n: ' · '.join(dict.fromkeys(four_of(w) for w in SEAT[n]))),
 ]
 used = {k for n in N for k in F[n]} | {'Bi-folding'}
 read = {'Parity, span', 'Sides', 'Co-sequencing', '8 up', '8 down', '9 less', '17 less', 'Bi-folding', 'Middle bi-folding', 'Six-cycle',
