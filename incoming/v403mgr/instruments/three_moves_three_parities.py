@@ -3,7 +3,8 @@ Reads Exhibit ONE Natural Resolver, Exhibit THREE Natural Numbers, Exhibit FOUR 
 EIGHTEEN Natural Physics; executes; writes no file; decides nothing. Each answer is all or none at all, by each
 name of sixteen, or by each number of 1,024.
 
-Use: python3 -I incoming/v403mgr/instruments/three_moves_three_parities.py <root>
+Use: python3 -I incoming/v403mgr/instruments/three_moves_three_parities.py <root>         each check
+     python3 -I incoming/v403mgr/instruments/three_moves_three_parities.py <root> json    the sixteen ways, for a sheet
 
 The logic, each a living sentence. Exhibit THREE Natural Numbers: bi-inversioning-co-recursioning is one move
 of three, 8 up and down, 17 less, and 9 less, 17 less and 8 down together. Exhibit FOUR Natural Mathematics: two
@@ -30,11 +31,17 @@ Returned at main, 16 November 2026, each check is:
   17 less between 8 and 9 and between 16 and 17.
   With 1,024 numbers each fold, 3 less to 1,025 less, with each of its span, changes one parity alone, the first
   to the tenth; each turn, 2 apart to 512 apart, changes two parities next to each other together.
+  The sixteen ways of changing a name's four parities together, on the second surface round its edges: each name
+  is reached from 1-now-existing by one way alone. One parity is a fold; two are a slide of two lines or a turn;
+  three are a fold with a slide along its own line, Exhibit FOUR Natural Mathematics's three inverting together;
+  four are a slide both ways. One and three exchange odd and even, and two and four do not. No way but none has
+  a name with itself.
 """
 import glob, itertools, os, re, sys
 from fractions import Fraction as F
 
-R = sys.argv[1]
+R = sys.argv[1]; WHAT = sys.argv[2] if len(sys.argv) > 2 else ''
+if WHAT == 'json': out = sys.stdout; sys.stdout = open(os.devnull, 'w')      # the sixteen ways alone, for a sheet
 def living(stem):
     return open(max(glob.glob(os.path.join(R, stem + '_v*.md')), key=lambda f: int(re.search(r'_v(\d+)', f).group(1))), encoding='utf-8').read()
 one = living('Exhibit_ONE_Natural_Resolver'); three = living('Exhibit_THREE_Natural_Numbers')
@@ -125,4 +132,47 @@ say(all(fold(n, j) == (2 ** j) * (2 * ((n - 1) >> j)) + 2 ** j + 1 - n for j in 
 say(all({k for k in range(1, 11) if par(turn(n, j), k) != par(n, k)} == {j, j + 1} for j in range(1, 10) for n in range(1, 1025))
     and all(turn(n, j) == fold(fold(n, j), j + 1) for j in range(1, 10) for n in range(1, 1025)),
     'each turn, 2 apart to 512 apart, changes two parities next to each other together: its two folds, one and then the other')
+
+print("The sixteen ways of changing a name's four parities together, on the second surface round its edges:")
+assert 'Bi-tri-involutioning is an emanating from right spiral stable-forming, three inverting together, as an opposite form to its stable-forming' in four
+assert 'A fold about a lays n on 2a less n, and a fold about a and then about b lays n on n more by twice b less a: two folds in sequence are no fold' in three
+def index(bits):
+    i = 0
+    for b in bits: i = i * 2 + (b ^ (i & 1))
+    return i
+where = {n: (index([par(n, 4), par(n, 2)]), index([par(n, 3), par(n, 1)])) for n in N}; at = {v: n for n, v in where.items()}
+assert [[at[(r, c)] for c in range(4)] for r in range(4)] == [[1, 2, 7, 8], [4, 3, 6, 5], [13, 14, 11, 12], [16, 15, 10, 9]]
+def way(n, ks):                                              # a name with the parities ks changing together
+    g = G(n)
+    for k in ks: g ^= 1 << (k - 1)
+    return next(m for m in N if G(m) == g)
+def line(xs):                                                # one line's move of four places: none, a fold, or a slide of two
+    if all(v == x for x, v in xs.items()): return 'none'
+    if all(v == (x + 2) % 4 for x, v in xs.items()): return 'slide'
+    assert any(all(v == (c - x) % 4 for x, v in xs.items()) for c in (1, 3)); return 'fold'
+SAID = {('none', 'none'): 'none', ('fold', 'none'): 'a fold about a line across', ('none', 'fold'): 'a fold about a line down',
+        ('slide', 'none'): 'a slide of two lines down', ('none', 'slide'): 'a slide of two lines across', ('fold', 'fold'): 'a turn about a meeting of four names',
+        ('fold', 'slide'): 'a fold about a line across with a slide of two along it', ('slide', 'fold'): 'a fold about a line down with a slide of two along it',
+        ('slide', 'slide'): 'a slide of two lines both ways'}
+WAYS = []
+for size in range(5):
+    for ks in itertools.combinations((4, 3, 2, 1), size):
+        down = line({where[n][0]: where[way(n, ks)][0] for n in N}); across = line({where[n][1]: where[way(n, ks)][1] for n in N})
+        assert all(where[way(n, ks)] == (({'none': r, 'slide': (r + 2) % 4}.get(down, None) if down != 'fold' else where[way(n, ks)][0]), where[way(n, ks)][1]) for n in N for r in [where[n][0]])
+        WAYS.append(dict(parities=ks, said=SAID[(down, across)], onto=way(1, ks), odd_even=all((way(n, ks) - n) % 2 == 1 for n in N), itself=any(way(n, ks) == n for n in N)))
+if WHAT == 'json':
+    import json
+    ordinal_k = {4: 'fourth', 3: 'third', 2: 'second', 1: 'first'}
+    json.dump([[' and '.join(ordinal_k[k] for k in w['parities']) or 'none', len(w['parities']), w['said'], w['onto'], 'exchanges odd and even' if w['odd_even'] else 'odd to odd, even to even'] for w in WAYS], out); sys.exit()
+say(sorted(w['onto'] for w in WAYS) == list(N), 'each name is reached from 1-now-existing by one way alone of the sixteen')
+kinds = lambda size: sorted(w['said'].split(' about ')[0].split(' of two')[0] + (' with a slide' if 'with a slide' in w['said'] else '') for w in WAYS if len(w['parities']) == size)
+say(kinds(1) == ['a fold'] * 4 and kinds(2) == ['a slide'] * 2 + ['a turn'] * 4 and kinds(3) == ['a fold with a slide'] * 4 and kinds(4) == ['a slide'] and kinds(0) == ['none'],
+    'one parity is a fold; two are a slide of two lines, the third with the first or the fourth with the second, or a turn, one parity of each way; three are a fold with a slide of two along its own line; four are a slide of two lines both ways')
+say(all(w['odd_even'] == (len(w['parities']) % 2 == 1) for w in WAYS) and all(all((way(n, w['parities']) - n) % 2 == 0 for n in N) for w in WAYS if len(w['parities']) % 2 == 0),
+    'one parity and three parities changing exchange odd and even, an opposite form; two and four do not')
+say(all(not w['itself'] for w in WAYS if w['parities']), 'no way but none has a name with itself: each fold about a line between two lines of names, each turn about a meeting of four names')
+turns = {w['parities']: {tuple(sorted({n, way(n, w['parities'])})) for n in N} for w in WAYS if w['said'].startswith('a turn')}
+say(all(way(n, (4, 3)) == MOVES['8 up'](n) for n in N) and all(way(n, (2, 1)) == ((n - 1) ^ 2) + 1 for n in N),
+    "of the four turns, the fourth with the third is 8 up, about the middle of each bi-folding's square, and the second with the first is 2 apart, about the middle of each four-cycling's square")
+for w in WAYS: print(f"      {' and '.join(map(str, w['parities'])) or 'none'}: {w['said']}; 1 onto {w['onto']}")
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
