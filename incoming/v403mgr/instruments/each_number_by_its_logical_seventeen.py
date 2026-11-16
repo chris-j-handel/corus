@@ -24,6 +24,9 @@ Returned at main, 16 November 2026, each check is:
   Parity's unit square: its across edges are the fold of a ring of 440, its diagonals the fold of a ring of 880,
   its edges 8 apart the halfway pairing. Two folds, one and then the other, are a going on.
   Each two hundred twenty on is a same-existing name, 4 down: 220 a 12, 440 an 8, 660 a 4, 880 a 16.
+  A fold about no number has no name with itself; a ring's fold has two, 8 apart and of one root; each seam's ring
+  has same-existing names with themselves and no other. Two and one hundred eighteen on a ring of 120 are a 2 with
+  a 6, parity's unit square's across edge; the elements' turn with 60 is a 12-next-co-same-existing.
 """
 import csv, glob, os, re, sys
 
@@ -126,6 +129,22 @@ say([place(k) for k in (220, 440, 660, 880)] == [12, 8, 4, 16] and all(ROOT[plac
 say(row(22)[17] == '19-27-22-30' and row(22)[2] == NAME[6], 'twenty-two is a 6-now-co-possibling sixteen on, on 19-27-22-30, as Exhibit THREE Natural Numbers has it')
 say(sorted(doubling(n)[1] for n in (3, 4)) == [[3, 7, 2, 6], [4, 8, 1, 5]] and all(sorted(doubling(n)[1]) == sorted(BF[n]) for n in range(9, 17)),
     'a halfway pairing and a fold with 1 to 8 are the two loops of four names, and with 1 to 16 the four bi-foldings')
+four = living('Exhibit_FOUR_Natural_Mathematics'); physics = living('Exhibit_EIGHTEEN_Natural_Physics')
+for text, s in ((four, 'A declaring of zero is a fixed set fixing as a place'), (four, 'An accounting with an empty fixed set has nothing for an accounting to number from'),
+                (physics, 'Two and one hundred eighteen stand podal'), (physics, 'Its going has 2 to 59, a turn stands with 60, its back has 61 to 118')): assert s in text, s
+print('A fold with a name with itself, and a fold fixing none:')
+fixed = lambda c: sorted(p for p in range(1, 17) if place(c - p) == p)
+say(all(fixed(c) == [] for c in range(1, 1026, 2)) and all(p % 2 != place(c - p) % 2 for c in (9, 17) for p in range(1, 17)),
+    'a fold about no number, 9 less, 17 less and each odd one, has no name with itself, and exchanges odd and even')
+say(all(place(p + 8) != p and place(p + 8) % 2 == p % 2 for p in range(1, 17)), '8 apart has no name with itself, and has odd with odd and even with even')
+say(all(len(fixed(c)) == 2 and fixed(c)[1] - fixed(c)[0] == 8 and ROOT[fixed(c)[0]].replace('discovering', 'existing') == ROOT[fixed(c)[1]].replace('discovering', 'existing') for c in range(2, 1026, 2)),
+    'a ring\'s fold has two names with themselves, 8 apart and of one root, existing with discovering as one')
+say(all(fixed(s) in ([4, 12], [8, 16]) for s in SEAM), 'each seam\'s ring has same-existing names with themselves and no other: 4 with 12, or 8 with 16, its origin and its waist')
+print('  a ring of 120, of 440, of 880, of 118, of 60:', {N: [NAME[x] for x in fixed(N)] for N in (120, 440, 880, 118, 60)})
+print('The elements, Exhibit EIGHTEEN Natural Physics, each number by its name:')
+say(place(2) == 2 and place(118) == 6 and (2, 6) in pairs(120), 'two and one hundred eighteen, podal on a ring of 120, are a 2-now-possibling with a 6-now-co-possibling: parity\'s unit square\'s across edge, 6 with 2')
+say([place(n) for n in (59, 60, 61)] == [11, 12, 13] and fixed(120) == [4, 12], 'its going to 59, an 11-next-co-observing; its turn with 60, a 12-next-co-same-existing, with itself on its ring; its back from 61, a 13-next-discovering')
+print('  two, ten, eighteen, thirty-six, fifty-four, eighty-six, one hundred eighteen:', [place(n) for n in (2, 10, 18, 36, 54, 86, 118)])
 print('Eight numbers, each by its logical 1 to 17: its name, then outward, its 1 to 17 as a name, and its 1 to 257 as a name:')
 for n in (220, 360, 361, 440, 441, 660, 880, 881):
     r = row(n); print(f'  {n}: {r[2]} · {r[10]} · {r[11]}; by fours {r[5]}, {r[6]}, {r[7]}, {r[8]}, {r[9]}; {r[13] or r[12]}; far side on 440 {r[21]}, {r[22]}; on 880 {r[24]}, {r[25]}')
