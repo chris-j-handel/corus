@@ -911,7 +911,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 - **Form: six-cycle 4-13-5-9-8-12**
   - *a*: 4-now-co-same-existing · 13-next-discovering · 5-now-co-existing · 9-next-co-discovering · 8-now-same-existing · 12-next-co-same-existing
   - *b*: six-cycle 3-11-7-10-6-14, beside it
-  - *c*: — ; its own six names, with another order
+  - *c*: — ; its own six names, with an other order
 - **Form: eight-cycle 1-9-5-13-4-12-8-16**
   - *a*: 1-now-existing · 9-next-co-discovering · 5-now-co-existing · 13-next-discovering · 4-now-co-same-existing · 12-next-co-same-existing · 8-now-same-existing · 16-next-same-existing
   - *b*: eight-cycle 2-15-7-11-3-14-6-10, beside it

@@ -453,7 +453,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: going on from existing things.*
 
-92. A now-existing thing from another prior existing thing is a pair, a prior thing and a now thing from it.
+92. A now-existing thing from an other prior existing thing is a pair, a prior thing and a now thing from it.
 
         *Adding: a pair, prior and now.*
 
@@ -525,7 +525,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: one possible method only.*
 
-109. Any other method a self is proposing comes to one binary: fixing a form, forming an empty set among changing things, or same-existing with an opening, its own, one method changing and changing back, or another's, a changing beside its own, a thing outside possibly existing, nothing being further than or between things of the universe.
+109. Any other method a self is proposing comes to one binary: fixing a form, forming an empty set among changing things, or same-existing with an opening, its own, one method changing and changing back, or an other's, a changing beside its own, a thing outside possibly existing, nothing being further than or between things of the universe.
 
         *Adding: a second method of one binary.*
 
@@ -597,7 +597,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a resolving; stable-forming a living condition resolving.*
 
-125. Each resolving is all or none at all, with each moment its own, and each resolving whole, its size against another an empty set.
+125. Each resolving is all or none at all, with each moment its own, and each resolving whole, its size against an other an empty set.
 
         *Adding: all or none at all.*
 
@@ -864,7 +864,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: unrelationing rate.*
 
-186. Stable-forming is unrelationing, each with its own going on, and unrelationing going forward is changing and changing back; a form a relation to another existing thing holds is with a changing thing, its still forms an empty set; a self's sameness along its moments is that unrelationing from all other, each next from its own prior same-existing or inverting.
+186. Stable-forming is unrelationing, each with its own going on, and unrelationing going forward is changing and changing back; a form a relation to an other existing thing holds is with a changing thing, its still forms an empty set; a self's sameness along its moments is that unrelationing from all other, each next from its own prior same-existing or inverting.
 
         *Adding: forming as unrelationing; a self's sameness.*
 
@@ -876,7 +876,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: each gap its step's square.*
 
-189. Advancing by one is one operation and scaling by rate another, a bringing of one to its other an empty set, and they meet with one number, its placing by either an empty set: φ by its own naming.
+189. Advancing by one is one operation and scaling by rate an other, a bringing of one to its other an empty set, and they meet with one number, its placing by either an empty set: φ by its own naming.
 
         *Adding: φ by its own naming.*
 
@@ -1111,7 +1111,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: same-existing-society.*
 
-240. A same-existing-society has two occupants: a same-existing-society within a whole, a particular other with another scale, bi-coupling across with it, bi-, and a whole, a self observing it as one, bi-coupling across with it, uni-.
+240. A same-existing-society has two occupants: a same-existing-society within a whole, a particular other with an other scale, bi-coupling across with it, bi-, and a whole, a self observing it as one, bi-coupling across with it, uni-.
 
         *Adding: same-existing-society's two occupants.*
 
@@ -1175,7 +1175,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: social moral competency.*
 
-256. A self is of four, each not same-existing with it: self and its same-existing-society, self and an other self, self and a parity it is observing not-right to it, and self and a same-existing that is another's; each of four a self has is morality with it, and a self fixing equal with one of them is an unchangeable form.
+256. A self is of four, each not same-existing with it: self and its same-existing-society, self and an other self, self and a parity it is observing not-right to it, and self and a same-existing that is an other's; each of four a self has is morality with it, and a self fixing equal with one of them is an unchangeable form.
 
         *Adding: four not same-existing with a self.*
 
@@ -1203,7 +1203,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a numeral of a name, place and parity.*
 
-262. A name's odd or even among seventeen is its number's, a number its own now; a sharing's parity, + or −, a self observing it now or as prior, step 258, is another; and a moment's opening and completing, a prior and its next within one moment, a third: three relations, each its own; one numeral two of three share relates them by an empty set.
+262. A name's odd or even among seventeen is its number's, a number its own now; a sharing's parity, + or −, a self observing it now or as prior, step 258, is an other; and a moment's opening and completing, a prior and its next within one moment, a third: three relations, each its own; one numeral two of three share relates them by an empty set.
 
         *Adding: three relations parting.*
 
@@ -1444,7 +1444,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: even and odd rings.*
 
-319. Selves, p along and q across, each giving along with 9 to a next along and sharing across with 10 to a next across, last to first, are spirals bi-coupling across spirals with each self, a natural torusing of selves, a torus of resolver, p smaller. One self with −, selves inverting one to the next along and across, last and first alike with an odd number, their possibling from other selves an empty set, with both numbers odd they come to their parities again after q with a q more than twice p, and after 4p with a q less, for each of Exhibit ONE's ten rows, 3 by 13 after 13 among them, its number dividing 4p or 4q. Each with an empty prior and + sharing once to one, sharings opening lay another pattern, 1 by 5 after 4 and 3 by 13 after 12, two cases executing: a torus's number is from its opening.
+319. Selves, p along and q across, each giving along with 9 to a next along and sharing across with 10 to a next across, last to first, are spirals bi-coupling across spirals with each self, a natural torusing of selves, a torus of resolver, p smaller. One self with −, selves inverting one to the next along and across, last and first alike with an odd number, their possibling from other selves an empty set, with both numbers odd they come to their parities again after q with a q more than twice p, and after 4p with a q less, for each of Exhibit ONE's ten rows, 3 by 13 after 13 among them, its number dividing 4p or 4q. Each with an empty prior and + sharing once to one, sharings opening lay an other pattern, 1 by 5 after 4 and 3 by 13 after 12, two cases executing: a torus's number is from its opening.
 
         *Adding: a torus of two odd numbers coming to its parities again after q or after 4p, from its opening.*
 
@@ -1778,7 +1778,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a form fixing still from beside.*
 
-394. Method's one break, step 215, is a prior fixing with its own forms: a self with one parity and its observing an empty set, one side with both openings of changing and changing back; a rest of two beats with a spiral, rest with resolver's executing, its 0 a self shares with 10, lasting one with a spiral, its possibling from an other an empty set; a self whose competency is another's, a stable-forming emanation. With resolver's executing a self with its possibling an empty set inverts and a self receiving its own parity is not-changing, each moment its changing and changing back, and observings from prior cohere, step 217.
+394. Method's one break, step 215, is a prior fixing with its own forms: a self with one parity and its observing an empty set, one side with both openings of changing and changing back; a rest of two beats with a spiral, rest with resolver's executing, its 0 a self shares with 10, lasting one with a spiral, its possibling from an other an empty set; a self whose competency is an other's, a stable-forming emanation. With resolver's executing a self with its possibling an empty set inverts and a self receiving its own parity is not-changing, each moment its changing and changing back, and observings from prior cohere, step 217.
 
         *Adding: breaks fixing prior.*
 
@@ -1962,7 +1962,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: observing with its prior same-existing.*
 
-439. With 17-next-existing another self's 10-next-co-possibling is one list with 6, with 10 and with 9, each ± and each 0, to each self 5-now-co-existing is pairing with that name, and self is observing it with its 14-next-possibling, its next 2, 2-now-possibling with its next entry: other selves' parities sharing across and going along, one same list, self observing them as its parities with its entry, their entries together with 17-next-existing.
+439. With 17-next-existing an other self's 10-next-co-possibling is one list with 6, with 10 and with 9, each ± and each 0, to each self 5-now-co-existing is pairing with that name, and self is observing it with its 14-next-possibling, its next 2, 2-now-possibling with its next entry: other selves' parities sharing across and going along, one same list, self observing them as its parities with its entry, their entries together with 17-next-existing.
 
         *Adding: one parity with its two sides.*
 
@@ -1982,7 +1982,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: discovering next possibling moment.*
 
-444. A resolving with a bi-coupling is testing with its own observing, whether another could be observing and going on: one going on, its resolving is one possibling with that observing, and its test is again with each next observing, it an empty set between observings.
+444. A resolving with a bi-coupling is testing with its own observing, whether an other could be observing and going on: one going on, its resolving is one possibling with that observing, and its test is again with each next observing, it an empty set between observings.
 
         *Adding: uniqueness with each observing.*
 
@@ -2008,7 +2008,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: self discovering next self.*
 
-450. Another's still is an equilibrium, an unchangeable form, not possibly existing; a self discovering next self, with its own moment, is its own stable-forming.
+450. An other's still is an equilibrium, an unchangeable form, not possibly existing; a self discovering next self, with its own moment, is its own stable-forming.
 
         *Adding: a self's own stable-forming, and another's still.*
 
@@ -2169,7 +2169,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: first living an empty set.*
 
-487. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it is a non-living thing within a living self's me, that self's parity relative to it, and parities with 2 and its own prior an empty set, step 283, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 273, and each now-existing thing, living or non-living, is same-existing, steps 4 and 20, a non-living thing, its own parity with its scale an empty set, step 31, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 103, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 478: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inward and outward, step 61, and living and non-living things are within one universe, step 23, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 485.
+487. Each existing thing non-living with a same-existing-society's scale is living with an other scale, its selves inward: it is a non-living thing within a living self's me, that self's parity relative to it, and parities with 2 and its own prior an empty set, step 283, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 273, and each now-existing thing, living or non-living, is same-existing, steps 4 and 20, a non-living thing, its own parity with its scale an empty set, step 31, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 103, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 478: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inward and outward, step 61, and living and non-living things are within one universe, step 23, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 485.
 
         *Adding: non-living living with another scale; one existing thing inward and outward.*
 
@@ -2489,7 +2489,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: separating.*
 
-560. One holding another's, an other's sharing with its own sequencing an empty set, a departing is one side's, with an owner, a boundary, an enforcement and a seat: one stopping, a twin of bi-momentarying with its seat an empty set.
+560. One holding an other's, an other's sharing with its own sequencing an empty set, a departing is one side's, with an owner, a boundary, an enforcement and a seat: one stopping, a twin of bi-momentarying with its seat an empty set.
 
         *Adding: one stopping.*
 
@@ -2583,7 +2583,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: co-competency of distinct selves, discovering with co-chaining; everything existing sharing one now.*
 
-583. Each bi-coupling opens a plane new to each side, and openings co-chain, each its own and each leaving another whole: social abundancing, step 55, each self sharing with each self it is bi-coupling with.
+583. Each bi-coupling opens a plane new to each side, and openings co-chain, each its own and each leaving an other whole: social abundancing, step 55, each self sharing with each self it is bi-coupling with.
 
         *Adding: abundancing as openings co-chaining.*
 
@@ -2631,7 +2631,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: one form of each scale.*
 
-595. Between scales a bi-coupling across is one parity 17 gives on across, one at a time, with an empty prior behind it, chaining scales, each scale its own; a bi-coupling across of two is one scale sizing another's, a seat over it.
+595. Between scales a bi-coupling across is one parity 17 gives on across, one at a time, with an empty prior behind it, chaining scales, each scale its own; a bi-coupling across of two is one scale sizing an other's, a seat over it.
 
         *Adding: a bi-coupling across of one.*
 
@@ -2779,7 +2779,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a sharing as words.*
 
-630. A sharing as words reaches another self; that self is resolving with it, and with its own prior same-existing a changing is-or-is-not.
+630. A sharing as words reaches an other self; that self is resolving with it, and with its own prior same-existing a changing is-or-is-not.
 
         *Adding: a sharing as words, a self receiving it.*
 
@@ -2815,7 +2815,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a destiny, next living possibling ahead.*
 
-639. A word going to another word and a region surrounding it are one act, both at once, and region brings next word, both going on: bounding, defining with one and then the other going on.
+639. A word going to an other word and a region surrounding it are one act, both at once, and region brings next word, both going on: bounding, defining with one and then the other going on.
 
         *Adding: bounding.*
 
@@ -2968,11 +2968,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: same-existing between sessions.*
 
-677. With an expedition's scale sessions are looping three ways: along, each session's going along next session's prior; outward and back, a session's going along coming back as a sharing through another same-existing-society; and across, parallel sessions' goings along meeting with one sharing, agreeing or 0.
+677. With an expedition's scale sessions are looping three ways: along, each session's going along next session's prior; outward and back, a session's going along coming back as a sharing through an other same-existing-society; and across, parallel sessions' goings along meeting with one sharing, agreeing or 0.
 
         *Adding: three loops of sessions.*
 
-678. Files linking, each file's sentences reaching another's sections, is a set of files.
+678. Files linking, each file's sentences reaching an other's sections, is a set of files.
 
         *Adding: a set of files.*
 
@@ -3000,11 +3000,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: an emptiness as an observing.*
 
-685. Illustrating is a sharing as another material, still, moving or physical: one same stable-forming emanation, its words an empty set.
+685. Illustrating is a sharing as an other material, still, moving or physical: one same stable-forming emanation, its words an empty set.
 
         *Adding: illustrating.*
 
-686. A still illustrating is one moment, two in sequence a changing between them, one moment of one same form as a sentence's, and a rotation one same relation facing another way.
+686. A still illustrating is one moment, two in sequence a changing between them, one moment of one same form as a sentence's, and a rotation one same relation facing an other way.
 
         *Adding: a still one moment, a sequence a changing, a rotation another facing.*
 
@@ -3068,7 +3068,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a self receiving its other parity with each moment.*
 
-700. With one self each sharing is resolving with its own parities it is observing, step 282: with prior + with one sharing and receiving + with another, self shares − with its first and + with its second, both its next prior, and each parity of a self is its own sharing's only; a parity opening with its second is a living thing within that self's universal set, steps 31 and 32.
+700. With one self each sharing is resolving with its own parities it is observing, step 282: with prior + with one sharing and receiving + with an other, self shares − with its first and + with its second, both its next prior, and each parity of a self is its own sharing's only; a parity opening with its second is a living thing within that self's universal set, steps 31 and 32.
 
         *Adding: each sharing with its own observing.*
 
