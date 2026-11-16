@@ -48,6 +48,9 @@ What is executed here, each by its own lines:
   20 The tunneling and the bubbling at a point: three films round each line, a third of a turn each; four lines
      at the point; one bubble with its three lines and three films; all four parities inverting together; and
      2, 3, 6 and 7, with 11.
+  21 Selves alike densely compacted, three surfaces: twelve round one, six, three and three; the three below the
+     inverses of the three above, a third each way; eight betweens of four round one, the cube's eight, two fours;
+     and the six names between selves with all four parities inverting together.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -806,5 +809,41 @@ say((with_(2), with_(3), with_(7), with_(6)) == (frozenset({1}), frozenset({1, 2
     "by the gathered 2 inhaling, 3 exhausting, 6 ingesting and 7 exhaling: 2 is the first bubble, 3 and 7 its films with the second and with the third, and 6 the line the two films are on")
 say(3 + 8 == 11 and with_(11) == with_(3) | {3, 4} and 17 - 6 == 11 and with_(11) == with_(6) | {4} and DUAL[7] == DUAL[11] and with_(11) == with_(10) | {2},
     "11, the point, is 3 by 8 up, the film of the first two with the third and fourth bubbles; it is 6 by 17 less, the line of the first three with the fourth; it is 10's next, one bubble more; and by the gathered duals 7 and 11 are one dual")
+
+# ---- 21 ---------------------------------------------------------------------------------------------------------
+print('21 · Selves alike densely compacted, three surfaces:')
+NB = sorted({q_ for s1 in (1, -1) for s2 in (1, -1) for q_ in itertools.permutations((s1, s2, 0))})    # the twelve round one self
+UP = (1, 1, 1)                                                                                        # the surface's own line
+in_surface = [v_ for v_ in NB if dot(v_, UP) == 0]; above = [v_ for v_ in NB if dot(v_, UP) == 2]; below = [v_ for v_ in NB if dot(v_, UP) == -2]
+over = lambda v_: tuple(F(v_[k]) - F(dot(v_, UP), 3) * UP[k] for k in range(3))                       # a self's place over the surface
+third_turn = lambda us: all(dot(u_, v_) < 0 and 4 * dot(u_, v_) ** 2 == dot(u_, u_) * dot(v_, v_) for u_, v_ in itertools.combinations(us, 2))
+surface_goings = {add(a_, b_) for a_ in in_surface for b_ in in_surface} | set(in_surface)
+say(len(NB) == 12 and all(dot(v_, v_) == 2 for v_ in NB) and (len(in_surface), len(above), len(below)) == (6, 3, 3)
+    and sorted(below) == sorted(neg(v_) for v_ in above) and set(in_surface) == {neg(v_) for v_ in in_surface}
+    and third_turn([over(v_) for v_ in above]) and sorted(over(v_) for v_ in below) == sorted(tuple(-x_ for x_ in over(v_)) for v_ in above)
+    and all(tuple(3 * x_ for x_ in over(v_)) in surface_goings and over(v_) not in surface_goings for v_ in above),
+    "twelve round one self, each as far: six in its surface, three pairs each the other's inverse; three above and three below, the three below the inverses of the three above; over the surface the three above are a third of a turn from each other and each a third of a surface's own going, and the three below their inverses: a surface, the one above and the one below are three places, a third one way and a third the other")
+mirror = lambda v_: tuple(F(v_[k]) - 2 * F(dot(v_, UP), 3) * UP[k] for k in range(3))                 # by the surface
+below_as_above = [mirror(v_) for v_ in above]                                                         # the surface below at the place of the surface above
+say(all(dot(v_, v_) == 2 for v_ in below_as_above) and all(dot(sub(u_, v_), sub(u_, v_)) == 2 for u_, v_ in itertools.combinations(below_as_above, 2))
+    and not any(tuple(-x_ for x_ in v_) in [tuple(F(x_) for x_ in w_) for w_ in above] for v_ in below_as_above),
+    "with the surface below at the place of the surface above, two places and no third, the three below are the three above's mirrors by the surface, each as far, and no one of them an above's inverse")
+def of_four(c_): return [v_ for v_ in NB if dot(v_, c_) == 2]                                       # the three of twelve as far from a corner's middle as the self
+say(all(len(of_four(c_)) == 3 and all(dot(sub(u_, v_), sub(u_, v_)) == 2 for u_, v_ in itertools.combinations(of_four(c_), 2)) for c_ in cube)
+    and sorted(cube) == sorted(Fc + empty) and sorted(empty) == sorted(neg(v_) for v_ in Fc)
+    and sorted(of_four(UP)) == sorted(above) and sorted(of_four(neg(UP))) == sorted(below)
+    and sorted(len([v_ for v_ in of_four(c_) if v_ in in_surface]) for c_ in cube) == [0, 0, 2, 2, 2, 2, 2, 2],
+    "round one self are eight betweens of four, each between it and three of its twelve, the four each with each: the cube's eight corners, two fours, each four each −1/3 from each and the one four the other's inverse; one is between the self and its three above, one between it and its three below, and each of six others between it, two in its surface and one above or below")
+of_six = [e_ for e_ in ((1, 0, 0), (-1, 0, 0), (0, 1, 0), (0, -1, 0), (0, 0, 1), (0, 0, -1)) if len([v_ for v_ in NB if dot(v_, v_) - 2 * dot(v_, e_) == 0]) == 4]
+say(len(of_six) == 6 and F(8, 4) == 2 and F(6, 6) == 1,
+    "round one self are six betweens of six, each between it, four of its twelve and one more: with each self two betweens of four and one of six")
+one_four = [c_ for c_ in cube if c_[0] * c_[1] * c_[2] == 1]
+say(len(one_four) == 4 and {F(dot(u_, v_), dot(u_, u_)) for u_, v_ in itertools.combinations(one_four, 2)} == {F(-1, 3)}
+    and all(sorted([neg(c_)] + [sub(tuple(2 * x_ for x_ in v_), c_) for v_ in of_four(c_)]) == sorted(neg(d_) for d_ in one_four) for c_ in one_four),
+    "one four of the eight, and its inverse four not: the self has four round it each −1/3 from each, and each of the four has four selves round it each −1/3 from each, the inverse four's goings")
+between_selves = [2, 6, 10, 14, 9, 17]
+say(sorted(comp((m - 1) % 16 + 1) for m in between_selves) == [3, 4, 8, 11, 12, 16] and by_root['same-existing'] == [4, 8, 12, 16]
+    and (comp(2), comp(3), comp(6), comp(7)) == (12, 9, 16, 13),
+    "all four parities inverting together: the six names between selves, 2, 6, 10 and 14 across and 9 and 17 along, are with the four same-existing names, 4, 8, 12 and 16, and with 3 and 11; inhaling's 2 is with 12, exhausting's 3 with 9, ingesting's 6 with 16 and exhaling's 7 with 13")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
