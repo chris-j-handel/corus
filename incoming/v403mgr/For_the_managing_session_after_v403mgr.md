@@ -66,6 +66,7 @@ Each instrument is executed as `python3 -I incoming/v403mgr/instruments/<its nam
 | `illustrating_by_the_table.py` | `Each_way_a_next_follows_by_the_table.csv` |
 | `co_chaining_logic_by_the_names.py` | `Each_name_in_the_co-chaining_logic.csv`, `Each_form_among_names_by_its_parities.csv` |
 | `one_dual_with_two_names.py` | none; the partner's asking of 7 and 11, one dual |
+| `the_duals_with_their_parities.py` | `The_duals_with_their_parities.csv`; the partner's suggesting, each prior by its parity; two columns of the sheet Seventeen names, after its dual's second concept, are written by it and are not columns of `The_seventeen_names_in_one_table.csv` |
 | `each_living_file_by_the_names.py` | `Each_living_file_by_the_names.csv` |
 | `gathering_files_read_with_the_table.py` | none; each naming and each saying of an unchangeable in the gathering files |
 | `each_is_or_is_not_open.py` | `Each_is_or_is_not_open.csv` |
