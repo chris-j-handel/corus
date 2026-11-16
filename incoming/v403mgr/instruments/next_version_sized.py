@@ -57,7 +57,7 @@ for l in lines:
         if w not in have and w not in ('is-or-is-not', 'is-or-is-other-than'): bonded[w] += 1
 print('   lines with a name having its own line after it:', after)
 print('   bonded names with no line of their own, by the lines having them:')
-for w, c in bonded.most_common(40): print(f'     {c:3d}  {w}')
+for w, c in sorted(bonded.items(), key=lambda x: (-x[1], x[0]))[:40]: print(f'     {c:3d}  {w}')   # one order with each executing
 print('   lines with other-parity, other-than-parity or universal-parity:',
       [num(l) for l in lines if re.search(r'(?<![\w-])(other-parity|other-than-parity|universal-parity)(?![\w-])', l, re.I)])
 

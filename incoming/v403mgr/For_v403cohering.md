@@ -84,6 +84,8 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 
 **The reader check's third reading and a quotation**, v403cohering's asking, entered: a quotation of eight words or more that is word for word a living file's, bold and italic marks passed over, is passed over as a mention, as the gathering check reads a quotation. Each other quotation, each plain word and each bold word is read as it was. A quotation of a living sentence, word for word again, is read clean now, with each released word of the living sentence's own inside it; a quotation with one word not the living sentence's is read whole, each released word in it said. Its last line says how many added pieces it passed over.
 
+**v403cohering's fourth returning, received.** *A rule for each droplet at a head, entered in the placing instrument, and four brought by it*, is read for harm and received at main, 16 November: on a trial merge, by v403mgr's own reading, each line of the gathering files the same lines and each heading in order; `check_set.py` ALL PASS; each gathering check as at main. Its asking, one list of `next_version_sized.py` in one order with each executing, is entered: the list is in the order of its numbers and then of its names.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
