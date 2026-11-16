@@ -115,6 +115,8 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 
 **A rule for a droplet quoting a line of an opening earlier than the living one**, v403cohering's asking: the droplet is as it is until the opening's next version, the gathering check finding it. The opening's part is in the opening's own order, and the next version, the partners' word, has each of the ten with a sentence or with none. The ten are known and said, each with its reading, in v403cohering's seventh returning; the last, resolving or natural intelligence as geodesic discovering of next-possibling-same-existing, is one concern by its two sides, for the next version's reading.
 
+**v403cohering's eighth returning, received.** *A field's namings with the resolver's names, Natural Naming's sixth part in one table*, is read for harm and received at main, 16 November: one droplet laid, each heading in order, `check_set.py` ALL PASS; its instrument by a second hand, each check is. Its table has the living file's columns alone, the same with each droplet received: the table of the seventeen names is extended by it.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`

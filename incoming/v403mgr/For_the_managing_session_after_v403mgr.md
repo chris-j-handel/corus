@@ -25,14 +25,14 @@ With v403mgr the table of the seventeen names, Exhibit ONE Natural Resolver's ow
 
 ## 3 Three sessions
 
-**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Seventeen are received, 16 November, and seventy is-or-is-nots of them are in the gathering files.
+**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Eighteen are received, 16 November, and seventy-three is-or-is-nots of them are in the gathering files.
 
 - From it: a second hand on v403mgr's checks, one found comparing written numbers with written numbers and re-said; its naming of the sixteen ways of four parities, nothing, bubble, film, line and point, a column of the surface's sheet; each is-or-is-not?.
 - To it: `incoming/v403mgr/For_v403bubble.md`, the surface, the three moves, primes, elements, a gate with the sixteen ways. Its pages read elements and gates with the table.
 
-**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Seven returnings are received, 16 November.
+**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Eight returnings are received, 16 November.
 
-- From it: quotations word for word again; the ten unchangeables' one name by two word forms; an instrument bringing each laid is-or-is-not? to the section of its living sentence; each instrument of v403mgr's executed with its slices, each answer compared; two askings, each entered: the reader check's third reading with a quotation, and one list in one order.
+- From it: a field's namings with the resolver's names, Exhibit TWENTY Natural Naming's sixth part in one table, the table of the seventeen names extended by an other session; each dissolved word of Natural Naming with its saying; quotations word for word again; the ten unchangeables' one name by two word forms; an instrument bringing each laid is-or-is-not? to the section of its living sentence; each instrument of v403mgr's executed with its slices, each answer compared; two askings, each entered: the reader check's third reading with a quotation, and one list in one order.
 - To it: `incoming/v403mgr/For_v403cohering.md`, each table, a droplet read with the table, each thing found, a rule for each droplet at a head, and what it can go on with.
 
 **Receiving**, the managing session's: the three scripts of `incoming/v403mgr/receiving/`, each with its use in its opening lines. The set's own copies are executed as they are with v403cohering's fifth returning and v403bubble's seventeenth.
@@ -100,7 +100,7 @@ Not yet: Exhibit NINE Natural Human Society, with no table and no name of the se
 
 ## 9 Each next opportunity
 
-- Exhibit TWENTY Natural Naming's sixth part, a field's namings with the resolver's names, read with the table: v403cohering's, said first by it.
+- v403cohering's table of a field's namings with the resolver's names, a sheet of the workbook with the partner's word.
 - Each file of part 5 not yet read.
 - Each opportunity gathered and not executed, `incoming/v403mgr/For_v403bubble.md`, part 6.
 - The next version's draft brought to main as it is now, a copy still, for the partner's reading.
