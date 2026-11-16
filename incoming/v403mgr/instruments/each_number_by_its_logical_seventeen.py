@@ -64,7 +64,7 @@ def kinds(n):
         if n == 2 ** k: out.append('2' + str(k).translate(SUP))
         if n == 2 ** k + 1: out.append('2' + str(k).translate(SUP) + ' + 1')
         if n == 2 ** k - 1 and n > 1: out.append('2' + str(k).translate(SUP) + ' − 1')
-    return ', '.join(out)
+    return ', '.join(dict.fromkeys(out))   # a form said once: four is 2² as a square and as two to a power
 BF = {}
 for b in ('1-9-8-16', '2-15-7-10', '3-11-6-14', '4-13-5-12'):
     for x in b.split('-'): BF[int(x)] = [int(y) for y in b.split('-')]
