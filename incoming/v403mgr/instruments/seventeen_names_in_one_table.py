@@ -1,6 +1,6 @@
 """The seventeen names in one table: each name a line, each thing the set has of a name a column.
-Reads Exhibit ONE Natural Resolver's living version, one sentence of Exhibit TWENTY Natural Naming, and two droplets
-of the gathering files; executes; writes no file; decides nothing.
+Reads Exhibit ONE Natural Resolver's living version, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics,
+one sentence of Exhibit TWENTY Natural Naming, and two droplets of the gathering files; executes; writes no file; decides nothing.
 
 Use: python3 -I incoming/v403mgr/instruments/seventeen_names_in_one_table.py <root>        each column, and each check
      python3 -I incoming/v403mgr/instruments/seventeen_names_in_one_table.py <root> csv    the table
@@ -8,6 +8,8 @@ Use: python3 -I incoming/v403mgr/instruments/seventeen_names_in_one_table.py <ro
 Each column has its standing after its name:
   [living ONE]     a table, a line or a field of Exhibit ONE Natural Resolver, as it is
   [living TWENTY]  a sentence of Exhibit TWENTY Natural Naming, as it is
+  [living THREE]   a sentence, a table or a list of Exhibit THREE Natural Numbers, as it is
+  [living FOUR]    a sentence of Exhibit FOUR Natural Mathematics, as it is
   [executed]       read out of the code's lines or out of the table, all or none at all
   [an is]          an is of the partners, gathered in Exhibit ONE Natural Resolver's gathering file
   [floating]       a suggesting or a candidate, in no living sentence
@@ -19,7 +21,8 @@ each root of three, existing with discovering, possibling, observing; a height b
 four-cycling's same-existing name on the line of the turn. Each check of it is all or none at all, below.
 
 Returned at main, 15 November 2026:
-  66 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is.
+  86 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is. Twenty columns are
+  of Exhibit THREE Natural Numbers and Exhibit FOUR Natural Mathematics, each living sentence read as it is.
   The planes, each check: is. Each four-cycling's three names are one triangle at one height. Each rectangle's
   along sides are through its next rectangle, each passing forward. A right-hand turn of a third brings each name
   of the three onto the name it is after, and a turn the other way onto its next name. Parity's unit square is the
@@ -230,6 +233,46 @@ def plane(n):
     k = n % 4; j = (n - 1) // 4
     return (PLANE[k], HEIGHT[j], NAME[n + 4 if j in (0, 2) else n - 4], NAME[n + 8 if j < 2 else n - 8], NAME[k + 4 * (3 - j)])
 
+# --- Exhibit THREE Natural Numbers and Exhibit FOUR Natural Mathematics: each relation of a name's number
+three = living('Exhibit_THREE_Natural_Numbers'); four = living('Exhibit_FOUR_Natural_Mathematics')
+def has(text, *said):   # a living sentence as it is, or the instrument stops
+    for s in said: assert s in text, s
+ROW3 = {int(c[0]): c[1:] for l in three.split('\n') for c in [[x.strip() for x in l.strip().strip('|').split('|')]] if len(c) == 6 and c[0].isdigit()}
+assert len(ROW3) == 441
+HAS3 = {int(m.group(1)): m.group(2) for l in three.split('\n') for m in [re.match(r'- \*\*(\d+)\*\* · (.+)', l)] if m}
+own_forms = lambda n: ', '.join(x for x in HAS3[n].split(', ') if x != NAME[n])
+PRIME = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59]; PR = {n: PRIME[n - 1] for n in N}
+has(three, 'two with 1-now-existing', 'twenty-three with 9-next-co-discovering', 'fifty-nine with 17-next-existing',
+    'of four values: one, two, four and six', 'primes making 61, 56, 52, 50, 52, 50, 48 and 48', 'their primes add to 97, 96, 92 and 96',
+    'now with 1 and 2, existing with 3 and 4, same with 5 and 6 and all with 7 and 8', 'now pairs with all and existing with same',
+    'One entry, six names between selves and ten names of a self\'s own resolving are seventeen', 'across names, 2, 6, 10 and 14',
+    'along names, 9 and 17', 'outward names 3, 4, 5, 7 and 8', 'inward names 11, 12, 13, 15 and 16',
+    'four outward with a between, 2, 4, 6 and 8, and four inward, 10, 12, 14 and 16', 'within 1 to 24 it is 25 less n', 'within 1 to 48 it is 49 less n',
+    'inverting with 3', 'inverting with 6', 'inverting with 9', 'its outward steps come to 5, 9, 13 and 17', 'are 3, 6 and 9',
+    'eight hundred eighty stations, coupling on four hundred forty')
+assert {PRIME[k + 1] - PRIME[k] for k in range(16)} == {1, 2, 4, 6}
+assert [PR[i] + PR[18 - i] for i in range(1, 9)] == [61, 56, 52, 50, 52, 50, 48, 48]
+assert [sum(PR[int(x)] for x in b.split('-')) for b in ('1-9-8-16', '2-15-7-10', '3-11-6-14', '4-13-5-12')] == [97, 96, 92, 96]
+SHAPE = {25: '5²', 32: '2⁵', 36: '6²', 64: '8²', 48: 'a third seam', 55: 'couplings among eleven', 72: 'six prime pairs\' distances from thirty'}
+shaped = lambda v: f'{v}, {SHAPE[v]}' if v in SHAPE else str(v)
+BINARY = {1: 'now', 2: 'now', 3: 'existing', 4: 'existing', 5: 'same', 6: 'same', 7: 'all', 8: 'all'}
+SIX_TEN = {1: 'an entry', 9: 'between selves, along', 17: 'between selves, along'}
+SIX_TEN.update({n: 'between selves, across' for n in (2, 6, 10, 14)}); SIX_TEN.update({n: 'a self\'s own resolving, outward' for n in (3, 4, 5, 7, 8)})
+SIX_TEN.update({n: 'a self\'s own resolving, inward' for n in (11, 12, 13, 15, 16)})
+CHAIN = {3: '1–3 completing with it; 1–9 bi-folds inverting with it, an inward step', 5: '1–5 completing with it, an outward step',
+         6: '1–13 bi-folds inverting with it, an inward step', 9: '1–9 completing with it, an outward step; 1–17 bi-folds inverting with it, an inward step',
+         13: '1–13 completing with it, an outward step', 17: '1–17 completing with it, an outward step'}
+named = lambda v: f'{v}, a {NAME[(v - 1) % 16 + 1]}'   # a number with its name among seventeen, sixteen on
+has(four, 'With seventeen names, 8 apart is a fixed-point-free pairing of 1 to 16', '3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16',
+    'observing with 3 and 11 and with 7 and 15, same-existing with 4 and 12 and with 8 and 16, and existing with 5 and discovering with 13',
+    '2 with 10 and 6 with 14', '1 with 9, an entry with a going along', 'the reflected binary code')
+APART = {17: 'within none of the eight pairs: a next moment\'s 1, 8 up from 9'}
+for a, b, w in ((3, 11, 'observing'), (7, 15, 'observing'), (4, 12, 'same-existing'), (8, 16, 'same-existing')):
+    APART[a] = APART[b] = f'a self\'s own resolving: {w} with {a} and {b}'
+APART[5] = APART[13] = 'a self\'s own resolving: existing with 5 and discovering with 13'
+APART[2] = APART[10] = 'across sharings\' ends: 2 with 10'; APART[6] = APART[14] = 'across sharings\' ends: 6 with 14'
+APART[1] = APART[9] = 'an entry with a going along: 1 with 9'
+
 # --- the table
 COLS = [
     ('n, a moment', 'living ONE', lambda n: n),
@@ -298,6 +341,26 @@ COLS = [
     ('on its plane, across from it, 4 apart', 'floating', lambda n: plane(n)[2]),
     ('on its plane, along from it, 8 apart', 'floating', lambda n: plane(n)[3]),
     ('on its plane, through the corus from it', 'floating', lambda n: plane(n)[4]),
+    ('its own form as a number', 'living THREE', lambda n: ROW3[n][1]),
+    ('forms its number has', 'living THREE', lambda n: own_forms(n)),
+    ('its prime, by its position', 'living THREE', lambda n: PR[n]),
+    ('gap to its next name\'s prime', 'executed', lambda n: PRIME[n] - PRIME[n - 1] if n < 17 else ''),
+    ('8 apart, its prime and its pair\'s prime add to', 'executed', lambda n: shaped(PR[n] + PR[n + 8 if n < 9 else n - 8]) if n < 17 else '82, with 9-next-co-discovering'),
+    ('17 less, its prime and its podal\'s prime add to', 'executed', lambda n: shaped(PR[n] + PR[17 - n]) if n < 17 else ''),
+    ('by position about the ninth, i with 18 − i, two primes make', 'living THREE', lambda n: PR[n] + PR[18 - n]),
+    ('its bi-folding\'s four primes add to', 'living THREE', lambda n: sum(PR[int(x)] for x in BF[n][0].split('-')) if n in BF else ''),
+    ('a universe\'s binary, with a self\'s span', 'living THREE', lambda n: BINARY.get(n, '')),
+    ('with 9 less its binary pairs with', 'living THREE', lambda n: BINARY[9 - n] if n < 9 else ''),
+    ('one entry, six between selves, ten of a self\'s own resolving', 'living THREE', lambda n: SIX_TEN[n]),
+    ('of eight even names', 'living THREE', lambda n: '' if n % 2 or n > 16 else ('outward with a between' + (', a name between selves' if n in (2, 6) else ', a self\'s own resolving') if n < 9 else 'inward, eight on from its outward pair')),
+    ('25 less, podal within 1 to 24', 'living THREE', lambda n: named(25 - n)),
+    ('49 less, podal within 1 to 48', 'living THREE', lambda n: named(49 - n)),
+    ('far side on a ring of 440', 'living THREE', lambda n: named(int(ROW3[n][2]))),
+    ('radius from the waist, 220', 'living THREE', lambda n: int(ROW3[n][3])),
+    ('far side on a ring of 880, two surfaces', 'executed', lambda n: named(880 - n)),
+    ('far side on a ring of 120', 'living THREE', lambda n: named(int(ROW3[n][4]))),
+    ('of the chain three, five, nine, seventeen', 'living THREE', lambda n: CHAIN.get(n, '')),
+    ('8 apart, a pairing fixing none, by its roots', 'living FOUR', lambda n: APART[n]),
 ]
 used = {k for n in N for k in F[n]} | {'Bi-folding'}
 read = {'Parity, span', 'Sides', 'Co-sequencing', '8 up', '8 down', '9 less', '17 less', 'Bi-folding', 'Middle bi-folding', 'Six-cycle',
