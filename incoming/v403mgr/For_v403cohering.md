@@ -129,6 +129,20 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 
 **The wrap.** By the partner's word, 16 November, v403mgr's expansive session is gathered and in order for a managing session opening new: `incoming/v403mgr/For_the_managing_session_after_v403mgr.md`, the one place, its part 8 each place the gathering has for the next version. What helps the session after: a closing page of v403cohering's own, improving now, each concern an other self can help with, and a next opportunity; and the table of each is-or-is-not? open read by a second hand, Natural Intelligence's and Exhibit ONE Natural Resolver's first.
 
+**v403cohering's fifteenth and sixteenth returnings, received**, 16 November: *Each droplet said whole within a longer one: a second reading for a gathering file's health, each value once*, and its closing page, *For the session after v403cohering*. Each is read for harm on a trial merge: one droplet laid in Natural Intelligence's gathering file, each heading in order, `check_set.py` ALL PASS.
+
+**A rule for each of four kinds of a droplet whole within a longer one**, v403cohering's asking:
+
+- The opening's part with the back, fifty, and the opening's part with the head, one: each as it is until the opening's next version. The opening's part is in the opening's own order, and the next version reads the shorter with its longer.
+- A section with the back, four, and with one heading, four: the longer has the value, and the shorter is away, named with the droplet having its value.
+
+**The second hand, entered**, each label as its lines read:
+
+- `each_is_or_is_not_open.py`: each asking of a droplet is a line, 185 now; a sentence opening with the words is word for word with them; askings of the other form are said by their gathering file, 111 and 6, and are no line.
+- `the_duals_with_their_parities.py`: its lines read which of the two each has, not-prior with 7 and 8, prior with 15 and 16.
+- `co_chaining_logic_by_the_names.py`: the registry's own words of 14 and 12 with the parities of each move, in the place of written numbers with written numbers; the four pairs of the moves of 4 named.
+- `each_living_file_by_the_names.py`: a number with a three and no now or next is said by its living file, in no column.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`

@@ -14,25 +14,39 @@ The session it names is read out of the droplet's own words: v403bubble's return
 v403mgr's folder, the first of the three it has, or none. It is no saying of which session laid the droplet.
 The table as it is written, `incoming/v403mgr/Each_is_or_is_not_open.csv`, parts from the gathering files with
 each droplet received after it: the answer says how many lines apart the two are, and `csv` writes it again.
+A droplet with two askings has two lines, and a sentence opening with the words, An is-or-is-not? is, is word
+for word with them. An asking of an other form, closing with the words is, or is not?, with no why, is no line
+of the table: the answer says how many each gathering file has.
 The table's order is the partners' first aim's: Natural Intelligence's gathering file, then Exhibit ONE Natural
 Resolver's, then each other gathering file; within a file, as the file has them.
 """
 import csv, glob, os, re, sys
 
 R = sys.argv[1]; WHAT = sys.argv[2] if len(sys.argv) > 2 else ''
-ROWS = []; LONE = []
+ROWS = []; LONE = []; OTHER_FORM = {}
+START = re.compile(r'(?:(?<= )An )?is-or-is-not\? (?=\S)')                    # an asking opens: the words, then a sentence; An is-or-is-not? is ..., a sentence opening with the words
+NAMING = re.compile(r'is-or-is-not\? (?:or |and |with |of |an |is-not)')        # the three named, an is, an is-or-is-not? or an is-not: no asking
 for p in sorted(glob.glob(os.path.join(R, 'gathering-value', '*.md'))):
     title = os.path.basename(p)[:-3].replace('_', ' '); head = ''
     for l in open(p, encoding='utf-8').read().split('\n'):
         m = re.match(r'#{2,3} (.+)', l)
         if m: head = m.group(1); continue
+        n_other = len(re.findall(r': is, or is not\?', l))
+        if n_other: OTHER_FORM[title] = OTHER_FORM.get(title, 0) + n_other
         if not l.startswith('- **') or 'is-or-is-not? ' not in l: continue
-        if 'Why it is open:' not in l.split('is-or-is-not? ', 1)[1]:
+        who = ("v403bubble's returning" if "The session v403bubble's" in l else "v403cohering's folder" if 'incoming/v403cohering' in l else "v403mgr's folder" if 'incoming/v403mgr' in l else 'none')
+        at = [m.start() for m in START.finditer(l) if not NAMING.match(l, m.end() - len('is-or-is-not? ') if not l[m.start():].startswith('An ') else m.start() + 3)]
+        pieces = [l[a:b] for a, b in zip(at, at[1:] + [len(l)])]; asks = []
+        for x in pieces:
+            if 'Why it is open:' in x: asks.append(x)
+            elif asks: asks[-1] += x                                              # words of a why naming the three: the why's own
+        if not asks:
             if re.search(r'is-or-is-not\? [A-Z]', l): LONE.append(title)
             continue
-        before, why = l.rsplit('Why it is open:', 1); sentence = before.rsplit('is-or-is-not? ', 1)[1].strip()
-        who = ("v403bubble's returning" if "The session v403bubble's" in l else "v403cohering's folder" if 'incoming/v403cohering' in l else "v403mgr's folder" if 'incoming/v403mgr' in l else 'none')
-        ROWS.append((title, head, who, sentence, why.strip()))
+        for x in asks:
+            sentence, why = x.split('Why it is open:', 1)
+            sentence = sentence.strip() if sentence.startswith('An is-or-is-not? ') else sentence.split('is-or-is-not? ', 1)[1].strip()
+            ROWS.append((title, head, who, sentence, why.strip()))
 
 # the partners' first aim first: Natural Intelligence's, then Exhibit ONE Natural Resolver's, then each other gathering file in its order
 FIRST = ['Natural Intelligence', 'Natural Resolver']
@@ -56,6 +70,7 @@ for r in ROWS: who[r[2]] = who.get(r[2], 0) + 1
 print('  naming: ' + '; '.join(f'{k} {v}' for k, v in sorted(who.items())))
 say(all(r[3] and r[4] for r in ROWS), 'each has its sentence and why it is open, each with words')
 say(all(r[1] for r in ROWS), 'each is under a heading of its gathering file, a head or a section')
+print('  askings of an other form, closing with the words is, or is not?, with no why, no line of the table, by their gathering file: ' + ('; '.join(f'{k} {v}' for k, v in sorted(OTHER_FORM.items())) or 'none'))
 print(f'  a droplet with is-or-is-not?, a sentence opening after it, and no Why it is open, by its gathering file: {len(LONE)}' + (' · ' + '; '.join(f'{t} {LONE.count(t)}' for t in sorted(set(LONE))) if LONE else ''))
 tp = os.path.join(R, 'incoming', 'v403mgr', 'Each_is_or_is_not_open.csv')
 if os.path.exists(tp):

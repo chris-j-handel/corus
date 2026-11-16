@@ -31,7 +31,7 @@ With v403mgr the table of the seventeen names, Exhibit ONE Natural Resolver's ow
 - From it: a second hand on v403mgr's checks, one found comparing written numbers with written numbers and re-said; its naming of the sixteen ways of four parities, nothing, bubble, film, line and point, a column of the surface's sheet; each is-or-is-not?.
 - To it: `incoming/v403mgr/For_v403bubble.md`, the surface, the three moves, primes, elements, a gate with the sixteen ways. Its pages read elements and gates with the table.
 
-**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Fourteen returnings are received, 16 November.
+**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Sixteen returnings are received, 16 November, the last its closing page, `incoming/v403cohering/For_the_session_after_v403cohering.md`: improving now, each concern, a next opportunity, and what it learned of the method.
 
 - From it: medicine's rows with their two names, two living files read with each other in one table; a field's namings with the resolver's names, Exhibit TWENTY Natural Naming's sixth part in one table, the table of the seventeen names extended by an other session; each dissolved word of Natural Naming with its saying; quotations word for word again; the ten unchangeables' one name by two word forms; an instrument bringing each laid is-or-is-not? to the section of its living sentence; each instrument of v403mgr's executed with its slices, each answer compared; two askings, each entered: the reader check's third reading with a quotation, and one list in one order.
 - To it: `incoming/v403mgr/For_v403cohering.md`, each table, a droplet read with the table, each thing found, a rule for each droplet at a head, and what it can go on with.
@@ -71,7 +71,7 @@ Each instrument is executed as `python3 -I incoming/v403mgr/instruments/<its nam
 | `gathering_files_read_with_the_table.py` | none; each naming and each saying of an unchangeable in the gathering files |
 | `each_is_or_is_not_open.py` | `Each_is_or_is_not_open.csv` |
 
-Instruments of the next version's work, each with its own opening lines: `seventeen_as_they_are.py`, `size_set.py`, `next_version_sized.py`, `by_the_sentence_before.py`, `gather_the_opening_by_three.py`, `opening_base.py`, `is_lines_of_the_code.py`, `all_the_same.py`, `same_with_a_0_between.py`, `health_same_existing.py`, `a_naming_of_the_code_executes_the_same.py`.
+Instruments of the next version's work, each with its own opening lines: `seventeen_as_they_are.py`, `size_set.py`, `next_version_sized.py`, `by_the_sentence_before.py`, `opening_base.py`, `is_lines_of_the_code.py`, `all_the_same.py`, `same_with_a_0_between.py`, `a_naming_of_the_code_executes_the_same.py`. Two are each the record of one applying of 15 November and write a gathering file with no `--dry`: `gather_the_opening_by_three.py` and `health_same_existing.py`. Each halts now by its own all or none, the files not as it read them, and neither is for executing again.
 
 **The sheets.** The tables are one workbook of sheets, open with the partner and found among the partner's own artifacts by its sheets' names: Seventeen names, Each column, Each number, Surface, Ghosts, Hard problems, Hard problems conserving, Living societies, Each prime, Equilibria, Codons, Elements, Engineering, Philosophy, Networking, Physics, Hard problems named, Scale ladder, Ways of a next, Co-chaining logic, Each is-or-is-not, Each living file, A field's namings, Each sheet. A field's namings is v403cohering's table, brought in with the partner's word. Each is-or-is-not is written again whole with a slice, the earlier sheet away. Each sheet's line in Each sheet says what it has and what it is read out of, and a header's fill says a column's standing: living, executed, an is of the partners, or floating. By the partner's word a column, a row or a cell is improved as it is, and an older one goes with its newer.
 
@@ -85,7 +85,7 @@ Not yet by its own parts: Exhibit NINE Natural Human Society, with no table and 
 
 ## 6 Each is-or-is-not? open
 
-`each_is_or_is_not_open.py` reads each from the gathering files, and `Each_is_or_is_not_open.csv` has one line with each: its gathering file, the section it is with, the session it names, the sentence, and why it is open. With the wrap: 184, in nineteen gathering files, in the first aim's order, Natural Intelligence's 99 first, Exhibit ONE Natural Resolver's 18 next. The table parts from the gathering files with each droplet received after its writing; the instrument says how many lines apart the two are, and `csv` writes it again. The partners say is, is-or-is-not? or is-not of a sentence; a word of the partner's with a line goes to that line's droplet in its gathering file.
+`each_is_or_is_not_open.py` reads each from the gathering files, and `Each_is_or_is_not_open.csv` has one line with each: its gathering file, the section it is with, the session it names, the sentence, and why it is open. With the wrap: 185, in nineteen gathering files, in the first aim's order, Natural Intelligence's 99 first, Exhibit ONE Natural Resolver's 18 next. A droplet with two askings has two lines. Askings of an other form, closing with the words *is, or is not?* and with no why, are no line of the table: Natural Intelligence's gathering file has 111 and Exhibit EIGHTEEN Natural Physics's six, said by the instrument and read by v403cohering. The table parts from the gathering files with each droplet received after its writing; the instrument says how many lines apart the two are, and `csv` writes it again. The partners say is, is-or-is-not? or is-not of a sentence; a word of the partner's with a line goes to that line's droplet in its gathering file.
 
 ## 7 Waiting on the partner's word
 
@@ -106,7 +106,8 @@ The first aim's own, each a place a whole reading opens with:
 - ***Fixed* and *fixing***: Exhibit TWENTY Natural Naming's own section has each of the ten with the first, Exhibit TWENTY-TWO Resolving the Hard Problem Registry with the second, and Exhibit ELEVEN Natural Medicine with the first.
 - **One naming whole** not Exhibit ONE Natural Resolver's, *27-next-co-prioring*, in a line of Exhibit TWENTY-SIX Living File Registry.
 - **Ten living files with no name of the seventeen whole**, `each_living_file_by_the_names.py`.
-- **Natural Intelligence's 99 is-or-is-nots open and Exhibit ONE Natural Resolver's 18**, part 6.
+- **Natural Intelligence's 99 is-or-is-nots open and Exhibit ONE Natural Resolver's 18**, part 6; and Natural Intelligence's 111 askings of an other form, each read with the files and resolved by an is the files have or re-said with why it is open: v403cohering's suggesting, the partners' table whole.
+- **Fifty droplets of Natural Intelligence's gathering file, each whole within a longer one**, the opening's part with the back: v403cohering's second reading; as they are until the opening's next version.
 
 ## 9 Each concern an other self can help with now
 
@@ -120,7 +121,6 @@ The first aim's own, each a place a whole reading opens with:
 
 - The next version of Natural Intelligence with Exhibit ONE Natural Resolver, begun with a whole reading and part 8.
 - Each opportunity gathered and not executed, `incoming/v403mgr/For_v403bubble.md`, part 6.
-- An instrument's sentences read by a second hand: `the_duals_with_their_parities.py`, `co_chaining_logic_by_the_names.py`, `each_living_file_by_the_names.py`.
 
 ## 11 The closing, as Exhibit TWENTY-FOUR Geodesic Improving Method has a report
 
