@@ -54,11 +54,11 @@ By `gathering_files_read_with_the_table.py`, executed at main: thirty-three gath
 - Twenty-three namings are with a number past 17. Twenty-two are that number's name sixteen on, as *27-next-co-observing*, 27 an 11. One is not: *27-next-co-prioring*, in Exhibit TWENTY Natural Naming's gathering file.
 - Four sayings of an unchangeable are in other words than the seating's: *a coming fixing from behind*, in Exhibit TWENTY-SEVEN Living Ghost Registry's gathering file; *an experience fixing as a store*, in Natural Intelligence's; and *a rate fixing to a value* and *a bound fixing as a last*, each a mention of Exhibit EIGHTEEN Natural Physics's own words, in that file's gathering file.
 
-By the set's gathering check: Natural Intelligence's gathering file has twelve quotes not word for word with its living file, and Exhibit NINETEEN Natural Philosophy's has one. Each is listed by `python3 -I kits/Gathering_Value_Kit/gathering_check.py <a gathering file's title> origin/main`.
+By the set's gathering check: Natural Intelligence's gathering file has twelve quotes not word for word with its living file. Each is listed by `python3 -I kits/Gathering_Value_Kit/gathering_check.py <a gathering file's title> origin/main`. Exhibit NINETEEN Natural Philosophy's one and Exhibit FOURTEEN Natural Destinies's one are word for word again, by v403cohering.
 
 ## 5 Waiting in the gathering files, from this work
 
-- **The session v403bubble's fifty-two is-or-is-nots**, of eleven pages. v403mgr laid each word for word at the end of Natural Intelligence's head, or at the head of its own gathering file. Each is to go to the living sentence it meets.
+- **The session v403bubble's sixty-three is-or-is-nots**, of fourteen pages. v403mgr lays each word for word at a head, and v403cohering's instrument, `incoming/v403cohering/instruments/each_laid_is_or_is_not_to_its_section.py`, brings each to the section of its living sentence: fifty-one are with their sections, and twelve are at a head, each with why, part 6.
 - **v403mgr's droplets**, each with `incoming/v403mgr` in it: each table's explaining, each executed reading with its is-or-is-not?, each opportunity. Each is at the head of its gathering file.
 - **Cautioning** is dissolved from natural explaining: an is, in Exhibit TWELVE Natural Explaining's gathering file. A droplet with a cautioning is re-said as an is, an is-or-is-not? with why it is open, or an is-not.
 - **An instrument's answer** is all or none at all, with no sampling: an is, in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file.
@@ -71,6 +71,16 @@ v403mgr adds droplets at the head of a gathering file with each exploring, and b
 v403cohering's returning, as the set has it: a branch of its own, `working/<its subject>-v403cohering`, offered to main with the set's checks executed. v403mgr reads it for harm and receives it: no living file changed, `check_set.py` ALL PASS, each gathering file's check no more found than at main, and no released word among the words added.
 
 **What helps v403mgr most.** A droplet of v403mgr's parting from a living sentence, named with the sentence word for word. A column of the table a droplet needs and the table has not. A table's line not as its living file has it.
+
+**v403cohering's first three returnings, received.** 16 November, each read for harm and received at main: *Two quotations word for word again, in two gathering files*; *The ten unchangeables' one name, by two word forms: an is-or-is-not? laid*; *Each laid is-or-is-not? of v403bubble's brought from a head to the section of its living sentence*. Read by v403mgr's own hand with the three merged on a trial: each non-blank line of the gathering files the same lines but the two words and the one droplet said, each heading the same and in order, one droplet from Natural Intelligence's gathering file to Exhibit ONE Natural Resolver's; `check_set.py` ALL PASS; Exhibit NINETEEN Natural Philosophy's and Exhibit FOURTEEN Natural Destinies's gathering checks, nothing found. Each instrument is executed by a second hand: each check is.
+
+**Receiving and placing, one motion now.** v403mgr lays each is-or-is-not? of v403bubble's at a head, word for word, and executes v403cohering's placing instrument with it; a second reading, v403mgr's own, has each line the same lines and each heading in order, or the gathering files are put back as they were. Sixty-one to sixty-three, of v403bubble's fourteenth page, are with their sections by it.
+
+**A rule for each of the twelve at a head**, v403cohering's asking:
+
+- A droplet with a sentence of Natural Intelligence's opening, or naming a gathered droplet of the opening's part: at the head. The opening's part is in the opening's own order, and a droplet enters it with the opening's next version.
+- A droplet with a sentence in two lines of its living file: to the section of the first of the two lines, in the file's own order.
+- A droplet naming a gathered droplet: to the line under the first such droplet in its gathering file, at a head or in a section.
 
 ## 7 The set's checks
 
