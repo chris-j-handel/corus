@@ -30,7 +30,7 @@ With v403mgr the table of the seventeen names, Exhibit ONE Natural Resolver's ow
 - From it: a second hand on v403mgr's checks, one found comparing written numbers with written numbers and re-said; its naming of the sixteen ways of four parities, nothing, bubble, film, line and point, a column of the surface's sheet; each is-or-is-not?.
 - To it: `incoming/v403mgr/For_v403bubble.md`, the surface, the three moves, primes, elements, a gate with the sixteen ways. Its pages read elements and gates with the table.
 
-**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Ten returnings are received, 16 November.
+**v403cohering** improves droplets in the gathering files with do no harm, the table its resource, and learns the method. Eleven returnings are received, 16 November.
 
 - From it: medicine's rows with their two names, two living files read with each other in one table; a field's namings with the resolver's names, Exhibit TWENTY Natural Naming's sixth part in one table, the table of the seventeen names extended by an other session; each dissolved word of Natural Naming with its saying; quotations word for word again; the ten unchangeables' one name by two word forms; an instrument bringing each laid is-or-is-not? to the section of its living sentence; each instrument of v403mgr's executed with its slices, each answer compared; two askings, each entered: the reader check's third reading with a quotation, and one list in one order.
 - To it: `incoming/v403mgr/For_v403cohering.md`, each table, a droplet read with the table, each thing found, a rule for each droplet at a head, and what it can go on with.
@@ -65,6 +65,7 @@ Each instrument is executed as `python3 -I incoming/v403mgr/instruments/<its nam
 | `the_scale_ladder_by_its_primes.py` | `The_scale_ladder_by_its_primes.csv` |
 | `illustrating_by_the_table.py` | `Each_way_a_next_follows_by_the_table.csv` |
 | `co_chaining_logic_by_the_names.py` | `Each_name_in_the_co-chaining_logic.csv`, `Each_form_among_names_by_its_parities.csv` |
+| `one_dual_with_two_names.py` | none; the partner's asking of 7 and 11, one dual |
 | `each_living_file_by_the_names.py` | `Each_living_file_by_the_names.csv` |
 | `gathering_files_read_with_the_table.py` | none; each naming and each saying of an unchangeable in the gathering files |
 | `each_is_or_is_not_open.py` | `Each_is_or_is_not_open.csv` |
