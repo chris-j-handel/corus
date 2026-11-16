@@ -1,35 +1,33 @@
-"""A naming of Exhibit ONE's code, executed with the code as it is: the same, or other. Reads Exhibit ONE Natural
-Resolver's living version and each file of the set, executes, and writes none; it decides nothing.
+"""A naming of Exhibit ONE's code, read with the code as it is: the same code, or another, all or none at all.
+Reads Exhibit ONE Natural Resolver's living version and each file of the set; writes none; it decides nothing.
 
 Use: python3 -I incoming/v403mgr/instruments/a_naming_of_the_code_executes_the_same.py <root>
 
-1. The code as it is, and the same code with each of its names by one map, three maps: a name as its number and its
+1. The code as it is, and the code with each of its names by one map, three maps: a name as its number and its
    dual; as its number, its dual and its root; and as its dual and its root with no number. The duals are the newest
-   seventeen, a candidate. Each is executed with the same societies: selves, sharings, priors, parities arriving,
-   and couplings with 6, 10 and 9, by one seed, moment by moment, and each next of the two is read together.
+   seventeen, a candidate. A naming with no two names alike, each name exchanged one for one and exchanged again,
+   is the code line by line: the same code by other names, with no case to execute. A naming with two names alike
+   inside one function is another code. No sampling of cases is in it: an answer is all or none at all.
 2. Each dual read with Exhibit ONE's table: its two concepts by kind, its root, co or one, and its three.
 3. The places of a name of the seventeen across the set, a name in a sentence and a name of the code: each place
    of a naming of the code, all or none at all.
 4. Sentences of Exhibit ONE Natural Resolver explaining by a name's own word, *now*, *next* or *co*: each for a
    reading, by no map.
 
-Returned at main, Merge #719, 15 November 2026:
+Returned at main, 15 November 2026:
   1. 17 names in the code's lines. A name as its number and its dual, and as its number, its dual and its root:
-     no two alike; 3,000 societies, 25,675 moments, each next the same as the code's. A name as its dual and its
-     root with no number: alike 4 with 16, 7 with 11, and 8 with 12; 7 with 11 together inside the code's
-     function of 1-now-existing, and 4 with 16 inside its function of 17-next-existing; a next other than the
-     code's with 2,998 of 3,000 societies.
+     no two alike, is the same code. A name as its dual and its root with no number: alike 4 with 16, 7 with 11,
+     and 8 with 12; 7 with 11 together inside the code's function of 1-now-existing, and 4 with 16 inside its
+     function of 17-next-existing: is-not the same code.
   2. Each odd name's dual is from one of same, other, no-other to one of now, not-now, prior, not-prior, next,
      and each even name's from one of the five to one of the three. A root read out of its dual is the table's
      root with 17 of 17. 4 and 16, 7 and 11, 8 and 12: each two are a co name with a name of one, and the threes
      of each two are other at one of next, now, prior only: co and tri.
   3. living files: 3,285 places of a name in a sentence, in 23, and 254 of a name of the code, in 5.
-     gathering files: 1,443 in 33, and 25 in 4. incoming pages and instruments, this one not with them: 46 in 7,
-     and 11 in 3. kits: 445 in 1, a version of Exhibit ONE Natural Resolver waiting, and 75 in 2. In the living
-     files a name of 9 to 16, each with next as its own word, is in 1,696 places, and 17-next-existing in 136.
+     gathering files, incoming pages and kits: as executed, each read as it is now.
   4. 28 sentences of Exhibit ONE Natural Resolver explain by a name's own word, now, next or co.
 """
-import glob, json, os, random, re, sys
+import ast, glob, json, os, re, sys
 
 R = sys.argv[1]
 one = open(max(glob.glob(os.path.join(R, 'Exhibit_ONE_Natural_Resolver_v*.md')),
@@ -51,31 +49,20 @@ maps = {'its number and its dual': {o: f'_{num(o)}_' + DUAL[num(o)].replace('-',
         'its number, its dual and its root': {o: f'_{num(o)}_' + with_root(num(o)).replace('-', '_') for o in old},
         'its dual and its root, no number': {o: '_' + with_root(num(o)).replace('-', '_') for o in old}}
 
-def societies(count):
-    rng = random.Random(403)
-    for s in range(count):
-        selves = [f's{i}' for i in range(rng.randint(1, 7))]; keys = ['k', 'm', 'n'][:rng.randint(1, 3)]
-        state = {x: ([(k, rng.choice([1, -1])) for k in keys if rng.random() < 0.7],
-                     [(rng.choice(keys), rng.choice([1, -1, 0])) for _ in range(rng.randint(0, 4))]) for x in selves}
-        five = {(x, n): rng.choice(selves) for x in selves for n in (6, 10, 9) if rng.random() < 0.6}
-        yield state, five, rng.randint(1, 16)
+def same_code(m):   # all or none at all: each name exchanged one for one, and exchanged again, is the code line by line
+    if len(set(m.values())) < len(m): return False
+    there = re.sub(r'_(?:1[0-7]|[1-9])_[a-z_]+', lambda x: m[x.group(0)], code); back = {v: k for k, v in m.items()}
+    again = re.sub('|'.join(sorted((re.escape(v) + r'\b' for v in back), key=len, reverse=True)), lambda x: back[x.group(0)], there)
+    t1, t2 = ast.parse(code), ast.parse(there)
+    for x in ast.walk(t2):
+        for field in ('id', 'arg', 'name'):
+            if getattr(x, field, None) in back: setattr(x, field, back[getattr(x, field)])
+    return again == code and ast.dump(t1) == ast.dump(t2)
 
-a = {}; exec(code, a); fa = a['_17_next_existing']
-print(f'1. {len(old)} names in the code\'s lines. The code as it is with the same code by a naming, 3000 societies:')
+print(f'1. {len(old)} names in the code\'s lines. The code by a naming, each name exchanged one for one and exchanged again: the code, line by line, or another code.')
 for label, m in maps.items():
     alike = sorted(sorted(num(o) for o in old if m[o] == v) for v in set(m.values()) if list(m.values()).count(v) > 1)
-    moments = other = 0
-    try:
-        b = {}; exec(re.sub(r'_(?:1[0-7]|[1-9])_[a-z_]+', lambda x: m[x.group(0)], code), b); fb = b[m['_17_next_existing']]
-        for state, five, span in societies(3000):
-            sa = sb = state
-            try:
-                for _ in range(span):
-                    sa = fa(sa, five); sb = fb(sb, five); moments += 1
-                    if repr(sa) != repr(sb): raise ValueError
-            except Exception: other += 1
-    except Exception: other = 3000
-    print(f'   a name as {label}: names alike {alike or "none"}; societies with a next other than the code\'s {other}' + (f'; {moments} moments, each next the same' if not other else ''))
+    print(f'   a name as {label}: names alike {alike or "none"}; {"is" if same_code(m) else "is-not"} the same code')
 parts = re.split(r'(?m)^(?=def )', code)[1:]
 pairs = [[4, 16], [7, 11], [8, 12]]
 print('   alike with no number, and together inside one function of the code:',
