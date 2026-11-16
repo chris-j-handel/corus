@@ -27,7 +27,9 @@ D=$RUN/b$PR; rm -rf $D; mkdir -p $D; git show FETCH_HEAD:incoming/v403bubble/ins
 N=$(grep -c "  is ·" $D/out.txt); Z=$(grep -c "is-not ·" $D/out.txt); T=$(tail -1 $D/out.txt)
 echo "its instrument by a second hand: $N is, $Z is-not, '$T'"; [ "$T" = "each check is" ] && [ "$Z" = "0" ] || { echo "STOP: instrument"; exit 1; }
 PAGES=$(git diff --name-only --diff-filter=A main...FETCH_HEAD -- 'incoming/v403bubble/*.md')
-for k in 1 2 3; do m=$(gh api repos/chris-j-handel/corus/pulls/$PR/merge -X PUT -f merge_method=merge -f commit_title="Merge #$PR: $(echo "$TITLE" | sed 's/ (v403bubble)//' | cut -c1-110), read for harm and received (v403bubble, received by $MGR)" --jq '.merged' 2>/dev/null); [ "$m" = "true" ] && break; sleep 6; done
+# with the page merged by hand already: export MERGED_BY_HAND=1 and PAGES_BY_HAND="<the page's path>"; the merge here is passed over and the page said is brought
+[ -n "$PAGES_BY_HAND" ] && PAGES="$PAGES_BY_HAND"
+[ "$MERGED_BY_HAND" = "1" ] && m=true || for k in 1 2 3; do m=$(gh api repos/chris-j-handel/corus/pulls/$PR/merge -X PUT -f merge_method=merge -f commit_title="Merge #$PR: $(echo "$TITLE" | sed 's/ (v403bubble)//' | cut -c1-110), read for harm and received (v403bubble, received by $MGR)" --jq '.merged' 2>/dev/null); [ "$m" = "true" ] && break; sleep 6; done
 echo "merged: $m"; [ "$m" = "true" ] || exit 1
 git checkout -q main && git pull -q --depth=100 origin main && git checkout -q -b working/receiving-v403bubble-$ORD-$MGR
 python3 -I - "$ORD" "$N" "$MGR" "$DAY" $PAGES <<'EOF' > $RUN/receive_changed.txt
