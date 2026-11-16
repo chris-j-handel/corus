@@ -69,6 +69,10 @@ What is executed here, each by its own lines:
      `incoming/v403mgr/The_seventeen_names_in_one_table.csv`: one moment and its eight moments of exchanging; its
      five lines of a between, 0; each four-cycling's parities; the code's lines of 12 and of 11; and two and three
      selves by its names within each moment.
+  30 This session's number 82 with the code, the table and the duals with their parities, handed name to name,
+     `incoming/v403mgr/The_duals_with_their_parities.csv`: the line of same on 15 with 7, all-parity's two; the four
+     same-existing names each with the observing name before it; the code's handing of 16 to 3 and of 11 to 8; and
+     the line's cases.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -201,7 +205,14 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (one, 'Selves share each parity and each 0 across. A receiving self passes over a 0 with its 14-next-possibling'),
                    (one, '| `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | is-or-is-not same: sharing 0, or one inversion | 15 with 7 | self-parity now-existing |'),
                    (four, 'With two parities its inverted parity alternates, and that cycle is a right spiral step.'),
-                   (four, "Natural Numbers 8.2's step, (x, y) to (y, −x), is G here")):
+                   (four, "Natural Numbers 8.2's step, (x, y) to (y, −x), is G here"),
+                   (one, 'Tri is in the first slot with 7 and 15, in the middle with 8 and 16, and in the last with 9, 17 and 1: the rolling. All-parity is with observing only, 7 and 15'),
+                   (one, "Each same-existing name's is-or-is-not is an observing name beside it."),
+                   (one, "| 12-next-co-same-existing, each sharing's one binary | 11-next-co-observing, taking each 12 that is ± | each sharing's 0, its prior going on, or ±, its next prior |"),
+                   (one, "| 8-now-same-existing, each self's next prior parities | 7-now-observing, a prior's parity against what surfaces | the same, its prior going on, or one inversion |"),
+                   (gathering('Natural_Resolver'), '8 up is not, of each concept but same: 14 is not-prior-and-other and 15 is other-and-prior'),
+                   (gathering('Natural_Resolver'), 'a dual hands its second concept to its next name, sixteen handings from 1 to 17'),
+                   (gathering('Natural_Resolver'), "A dual's first concept is with its name's now parity and its second with its next")):
     assert said in text, said
 
 bad = 0
@@ -1167,5 +1178,49 @@ def three_round(priors):
     return all(sorted(k_) == ['a 0', 'same', 'unlike', 'unlike', 'unlike', 'unlike'] for k_ in six_) and all(r_[3] == (r_[2] if r_[2] else r_[1]) for row_ in rows_ for r_ in row_)
 say(all(two_alike(p_) for p_ in (1, -1)) and all(three_round(p_) for p_ in starts3),
     "by Exhibit ONE Natural Resolver's names within each moment: two selves alike, each with the other, have with each second moment 2 and 3 alike, the same, 10 a 0 and 11 its 3, and with each moment between 2 a 0, passed over, nothing surfacing, 11 not its 3: same and one inversion with no other, one and then the other; with them a self's 3 and its 11 are two parities at Exhibit FOUR Natural Mathematics' (x, y) to (y, −x), one inverting with each moment, its 10 a 0 with the two alike and 11's parity with the two unlike; three one way round, not all alike, have with each second moment one self the same, its 10 a 0, and two with 2 unlike 3, the three 10s a −, a 0 and a +, and with each moment between one self's 2 that 0 and each self's 11 not its 3; of each six moments a self has one the same, one with a 0 arriving and four with an other unlike; and each 11 is its 10 with a parity and its 3 with a 0")
+
+# ---- 30 ---------------------------------------------------------------------------------------------------------
+print("30 · This session's number 82 with the code, the table and the duals with their parities, handed name to name:")
+dp_path = os.path.join(R, 'incoming', 'v403mgr', 'The_duals_with_their_parities.csv')
+dp_ = list(csv.reader(open(dp_path, encoding='utf-8'))) if os.path.exists(dp_path) else None
+CP_ = {m: [tuple(x_.split(', ')) for x_ in dp_[m][5].split(' · ')] for m in range(1, 18)} if dp_ else {}     # each concept with its parity
+NAME_ = {int(r_[0]): r_[1] for r_ in rows_one}
+say([r_[1] for r_ in stands_ if r_[2] == '15 with 7'] == ['parities agreeing or parting', 'is-or-is-not same: sharing 0, or one inversion']
+    and [m for m in range(1, 18) if THREE_[m].startswith('tri-')] == [7, 15] and (ROOT_[7], ROOT_[15]) == ('observing', 'observing')
+    and [m for m in range(1, 18) if THREE_[m].split('-')[1] == 'tri'] == [8, 16] and [m for m in range(1, 18) if THREE_[m].endswith('-tri')] == [1, 9, 17],
+    "Exhibit ONE Natural Resolver's two is-or-is-nots of 15 with 7 are parities agreeing or parting, over 2, and same or one inversion, over 3; 7 and 15 are its two names with all-parity first, each observing; all-parity is in the middle with 8 and 16, and last with 1, 9 and 17, the rolling: the code's line of same is with all-parity's two observing names")
+say(dp_ is not None and all(dp_[m][0].startswith(f'{m}-') and dp_[m][1] == DUAL[m] for m in range(1, 18))
+    and CP_[15] == [('no-other', 'both-parity'), ('prior', 'all-parity')] and CP_[7] == [('no-other', 'both-parity'), ('not-prior', 'all-parity')]
+    and sorted((m, k_, c_) for m in range(1, 18) for k_, (c_, p_) in enumerate(CP_[m]) if p_ == 'all-parity') == [(7, 1, 'not-prior'), (8, 0, 'not-prior'), (15, 1, 'prior'), (16, 0, 'prior')]
+    and CP_[3] == [('other', 'both-parity'), ('prior', 'me-parity')] and CP_[11] == [('no-other', 'both-parity'), ('not-prior', 'me-parity')]
+    and all('-co-' in NAME_[m] for m in (3, 4, 11, 12)) and not any('-co-' in NAME_[m] for m in (7, 8, 15, 16)),
+    "by v403mgr's duals with their parities, 15 and 7, the line's two, are alike with no-other, both-parity, and part by prior and not-prior, each all-parity; the seventeen duals have all-parity with these two concepts and no other, 7's not-prior handed to 8 and 15's prior handed to 16; 3 and 11, number 82's two, part by prior and not-prior alike, each me-parity, 3 with other and 11 with no-other; 3, 4, 11 and 12 are each co, between two, and 7, 8, 15 and 16 each of one; and each pair is 8 up")
+se_ = re.findall(r'^\| (\d+)-[a-z-]+, .*? \| (\d+)-[a-z-]+, .*? \| (.*?) \|$', one.split('**Same-existing through one moment.**', 1)[1].split('\n\n', 2)[1], re.M)
+say(dp_ is not None and [(int(a_), int(b_)) for a_, b_, c_ in se_] == [(16, 15), (4, 3), (12, 11), (8, 7)]
+    and [se_[2][2], se_[3][2]] == ["each sharing's 0, its prior going on, or ±, its next prior", 'the same, its prior going on, or one inversion']
+    and [(CP_[int(b_)][1], CP_[int(a_)][0], CP_[int(a_)][1][0]) for a_, b_, c_ in se_] == [
+        (('prior', 'all-parity'), ('prior', 'all-parity'), 'same'), (('prior', 'me-parity'), ('prior', 'me-parity'), 'same'),
+        (('not-prior', 'me-parity'), ('not-prior', 'me-parity'), 'same'), (('not-prior', 'all-parity'), ('not-prior', 'all-parity'), 'same')]
+    and DUAL[8] == DUAL[12] == 'not-prior-and-same' and DUAL[4] == DUAL[16] == 'prior-and-same',
+    "Exhibit ONE Natural Resolver's same-existing through one moment has its four same-existing names in the order 16, 4, 12 and 8, each with the observing name before it, 15, 3, 11 and 7; by the duals each observing name hands its second concept to its same-existing name as its first: prior, all-parity, to 16; prior, me-parity, to 4; not-prior, me-parity, to 12; not-prior, all-parity, to 8; each same-existing name's second is same; and its lines of 12 and of 8 have each two ways, its prior going on, or its next prior or one inversion: their one dual, not-prior-and-same")
+flat_ = lambda n_: re.sub(r'[()\s]', '', ast.unparse(n_))
+f17_ = fn_['_17_next_existing']; for17_ = next(n_ for n_ in f17_.body if isinstance(n_, ast.For))
+def handing(priors):
+    rows_ = by_names(priors, 13); n_ = len(priors)
+    return all(rows_[m + 1][i][1] == rows_[m][i][3] and rows_[m + 1][(i + 1) % n_][0] == [rows_[m][i][2]] for m in range(12) for i in range(n_))
+say(flat_(for17_.target) == '_13_next_discovering,_3_now_co_observing,_2_now_possibling' and flat_(for17_.iter) == '_16_next_same_existing.items'
+    and flat_(for17_.body[0]) == '_10_next_co_possibling,_8_now_same_existing[_13_next_discovering]=_1_now_existing_3_now_co_observing,_2_now_possibling'
+    and flat_(fn_['_1_now_existing'].body[-1]) == 'return_10_next_co_possibling,list_11_next_co_observing.items'
+    and flat_(f17_.body[-1].value.value) == '_8_now_same_existing[_13_next_discovering],_14_next_possibling[_13_next_discovering]'
+    and all(handing(p_) for p_ in [(1, 1), (-1, -1)] + starts3),
+    "the code's 17-next-existing gives each self its 3 and its 2 out of 16, receives its 10 and, as 8, its 11, and returns each self's 8 and 14, a next 16; with two selves alike and with three one way round, each self's 11 is its 3 with its next moment, and its 10 its next self's 2: a prior out of 16, the line of same, a next prior into 8, and 8 the prior of a next 16")
+def case_(p_, o_):
+    nz_ = {v for v in o_ if v}; eleven_ = ONE_([('s', p_)], [('s', v) for v in o_])[1][0][1]
+    return ('other' if len(nz_) == 1 else 'no-other', 'prior' if eleven_ == p_ else 'not-prior')                     # a parity surfacing, or none; its prior going on, or not
+cases_ = {}
+for p_ in (1, -1):
+    for o_ in arrivings: cases_[case_(p_, o_)] = cases_.get(case_(p_, o_), 0) + 1
+say(cases_ == {('other', 'prior'): 22, ('other', 'not-prior'): 22, ('no-other', 'not-prior'): 36},
+    "with the code, one place, each prior and each of forty arrivings: a prior going on is with an other's parity surfacing, twenty-two; one inversion is with nothing surfacing, thirty-six, or with an other's parity surfacing unlike, twenty-two; nothing surfacing with a prior going on is with none: read as the line's cases, other-and-prior and no-other-and-not-prior have each its cases, and no-other-and-prior, 15's dual as written, has none")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
