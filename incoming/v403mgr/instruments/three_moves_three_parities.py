@@ -119,7 +119,11 @@ say(len(set(mids.values())) == 6 and all(all(m[i] == half for i in range(3) if i
     "going out from the centre each way along the three lines, the six goings are through the middles of the six pairings, one each: each line through its own move's two")
 
 print("Each fold's middle, a between:")
-say({F(9, 2), F(25, 2)} == {F(4 + 5, 2), F(12 + 13, 2)} and {F(17, 2), F(33, 2)} == {F(8 + 9, 2), F(16 + 17, 2)}
+betweens = {F(int(a) + int(a) + 1, 2) for a in re.findall(r'(\d+) \)\( \d+', next(l for l in one.split('\n') if l.startswith('Existing, discovering and observing are odd.')))}
+middles = {name: {F(n + MOVES[name](n), 2) for n in N} for name in ('9 less', '17 less')}          # a fold's middle, by each name and the name it is folded onto
+middles['17 less'] |= {F(n + MOVES['17 less'](n) + 16, 2) for n in N}                               # and round the ring of sixteen
+say(betweens == {F(9, 2), F(17, 2), F(25, 2), F(33, 2)} and middles['9 less'] == {F(9, 2), F(25, 2)} and middles['17 less'] == {F(17, 2), F(33, 2)}
+    and middles['9 less'] | middles['17 less'] == betweens
     and all(MOVES['9 less'](a) == b for a, b in ((4, 5), (12, 13))) and all(MOVES['17 less'](a) == b for a, b in ((8, 9), (16, 1))),
     '9 less has its middle between 4 and 5 and, with the second eight, between 12 and 13; 17 less between 8 and 9 and, round the ring, between 16 and 17: the four betweens of Exhibit ONE Natural Resolver, two with each fold')
 
