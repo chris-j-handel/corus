@@ -33,6 +33,10 @@ A between is the living's co-intelligencing only with co-parity in it, from bi-c
 - **Bi-folding betweens into me-parities.** Executed, with co-parity each self's prior goes two folds, one and then the other: a 0 shared with its prior going on, and its prior inverting. It is again after four moments. With no co-parity it is one fold, again after two, a self alone's. The first page has 4 up a quarter turn with one parity inverting, in the cube of three parities, and (x, y) to (y, −x) is a quarter turn.
 - **With bubbles.** Co-parity in a between is a flat film: two bubbles alike, a 0 between, each the other's mirror by the film's own inversion.
 
+## A parting, said plainly
+
+This session asked number 39 of a partner with *co-parity's own doing* in it. It is a doer over an -ing, a story inside a sentence, and no natural naming and explaining: Exhibit TWELVE Natural Explaining has *Each doer a writing installs over an -ing dissolves*. Re-said with no doer: with co-parity in a between, each self's prior is two folds in turn, a 0 shared and an inverting, again after four moments. Executed, it is. The same doer is in the second page's *the selves' own doing* and in one side of the sixth page's number 33, *a society's own doing*.
+
 ## Living sentences with it
 
 - Natural Intelligence: *Its two meetings are co-parity, the same, sharing 0, and bi-parity, one inversion.* and *Co-parity and bi-parity are a sharing's two meetings within self-parity. In them, self-parity and other-parity are same, a 0, a prior same-existing, or inverse, a changing.*
@@ -57,7 +61,7 @@ Why it is open: executed with two, three and four selves each bi-coupling with e
 
 **39 · Natural Intelligence:** *Cycles of moves of four steps are bi-foldings. Each goes two folds in turn*.
 is-or-is-not? Co-parity in a between is a bi-folding of it into its selves' me-parities: each self's prior going two folds, a 0 shared and an inverting, again after four moments.
-Why it is open: Natural Intelligence's bi-foldings are cycles of four moves of names. Executed here, a self's priors with co-parity are a four-cycling, and with none a two-cycling. Not executed: a self's four priors as one of the four bi-foldings. Two readings of a partner's *this sentence* are open with it: the sentence asked says a bi-folding, co-parity's own doing; or the sentence asked is itself folding betweens into me-parities, a saying for dissolving.
+Why it is open: Natural Intelligence's bi-foldings are cycles of four moves of names. Executed here, a self's priors with co-parity are a four-cycling, and with none a two-cycling. Not executed: a self's four priors as one of the four bi-foldings. Two readings of a partner's *this sentence* are open with it: the sentence asked is of a between bi-folding into me-parities; or the sentence asked is itself folding betweens into me-parities, a saying for dissolving.
 
 ## Sources
 
