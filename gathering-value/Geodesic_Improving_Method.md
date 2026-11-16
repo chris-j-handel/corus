@@ -110,6 +110,8 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "A version is a moment of a file: its prior same-existing goes whole to its next." → Beside it: a next version is its prior version improving at do-no-harming: the prior's value cohering further, its explaining placed at the file it explains, and its droplets from the gathering co-chained in; its check, each word and sentence of the prior at the next version or at a gathering-value, is shown with it.
 - **An explaining** · A next version improves at do-no-harm with both partners confident of the method.
 - **An explaining** · A working's tracking goes on current: a parted going-forward leaves with its parting, an answered binary leaves with its answer, and no line goes on beside what parted it. Beside it: *there can be nothing fuzzying any of this. i was seeking and suggesting and all incohering resolves out of our living value.* — at "A going on current at each closing, and no history in it"
+- **Possible exploring** · Newer alone. No older thing and newer thing are living among each other: an older table, instrument, droplet, list or page goes with its newer, its value in the newer. Of two ways, the one whole with each case is the one. Newer is more binary, all or none at all, and less is needed in a stable form. — at "A going on making a record of its journey is a going on fixing as a store."
+- **Possible exploring** · A session's value is living in its speaking with a partner, and each page a session makes is a carrying of it. A reply says each value whole, with nothing to open: a value in a file alone is with no partner reading it. — at "A going on is current with each closing"
 
 ## TWO · TWO SELVES AT THE MEMBRANE
 
