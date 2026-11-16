@@ -1001,7 +1001,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: one failing moment.*
 
-215. Method's claim stands with each observing, every one, each cohering with four moments, and is able to break: method's one break is existing other than changing.
+215. Method's claim stands with each observing, each one, each cohering with four moments, and is able to break: method's one break is existing other than changing.
 
         *Adding: cohering or a break.*
 
@@ -1498,7 +1498,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: each of ten a self reaches.*
 
-332. Eight bi-couplings are with even names, four now and four next, each 8 up: eight is two fours, one and then the other, and every eight is one eight, four twos of names, each eight joining its twos by that deriving only, apart from its number: a self's span, two names each with now; eight-cycle 1-9-5-13-4-12-8-16, eight ends; eight-cycle 2-15-7-11-3-14-6-10, eight inwards; eight even names; eight odd names.
+332. Eight bi-couplings are with even names, four now and four next, each 8 up: eight is two fours, one and then the other, and each eight is one eight, four twos of names, each eight joining its twos by that deriving only, apart from its number: a self's span, two names each with now; eight-cycle 1-9-5-13-4-12-8-16, eight ends; eight-cycle 2-15-7-11-3-14-6-10, eight inwards; eight even names; eight odd names.
 
         *Adding: eight bi-couplings, one eight with its faces.*
 
