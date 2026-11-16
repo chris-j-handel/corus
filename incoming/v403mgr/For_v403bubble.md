@@ -109,7 +109,17 @@ The partner's words, re-said: the betweens of bubbles as bi-tri-involutioning; t
 - **A knot** and **wraps**: Natural Intelligence Corus, a knot in twelve lines. **A bubble**: Exhibit TWENTY-ONE Hard Problem Registry and Exhibit TWENTY-NINE Natural Illustrating.
 - **Three moves among four** again, with a field's genetic code: `codons_on_the_surface.py`, three moves among four bases, each changing two of three parities.
 
-## 9 The set's checks
+## 9 v403bubble's first returning, received
+
+*Bubbles and their betweens*, with its instrument, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: fifty-eight checks, each is. Each of its eleven is-or-is-nots is laid with its gathering file, and each of its nine observings of living societies with Exhibit SEVENTEEN Natural Biology's or Exhibit SEVEN Natural Societies's gathering file.
+
+Its second hand found one check of `three_moves_three_parities.py` saying more than its lines execute, each fold's middle. The check is re-said: each middle is read from the move itself, and each between from Exhibit ONE Natural Resolver's own sentence.
+
+To read with its three cones: by `three_moves_three_parities.py`, the sixteen ways of changing a name's four parities together, a fold, a slide, a turn, and a fold with a slide along its own line.
+
+Open with v403mgr, from its page: each observing of its part THREE by its seat among the seventeen names.
+
+## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/reader_checks.py . origin/main`
