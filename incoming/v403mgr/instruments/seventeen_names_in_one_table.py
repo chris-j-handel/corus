@@ -21,7 +21,7 @@ each root of three, existing with discovering, possibling, observing; a height b
 four-cycling's same-existing name on the line of the turn. Each check of it is all or none at all, below.
 
 Returned at main, 15 November 2026:
-  86 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is. Twenty columns are
+  87 columns, 17 names. Each field of a name in Exhibit ONE Natural Resolver is in a column: is. Twenty columns are
   of Exhibit THREE Natural Numbers and Exhibit FOUR Natural Mathematics, each living sentence read as it is.
   The planes, each check: is. Each four-cycling's three names are one triangle at one height. Each rectangle's
   along sides are through its next rectangle, each passing forward. A right-hand turn of a third brings each name
@@ -273,6 +273,11 @@ APART[5] = APART[13] = 'a self\'s own resolving: existing with 5 and discovering
 APART[2] = APART[10] = 'across sharings\' ends: 2 with 10'; APART[6] = APART[14] = 'across sharings\' ends: 6 with 14'
 APART[1] = APART[9] = 'an entry with a going along: 1 with 9'
 
+RING = {}   # a ring of N folds k with N less k: a name is with itself with N sixteen on from twice its number
+for n in range(1, 17):
+    first = 2 * n % 16 or 16
+    RING[n] = f'a ring of {first}, {first + 16}, {first + 32} and sixteen on' + {8: ': each seam of an odd T, 8, 24, 120, 360, 440', 16: ': each seam of an even T, 48, 80, 224, 288, and 880'}.get(first, '')
+
 # --- the table
 COLS = [
     ('n, a moment', 'living ONE', lambda n: n),
@@ -361,6 +366,7 @@ COLS = [
     ('far side on a ring of 120', 'living THREE', lambda n: named(int(ROW3[n][4]))),
     ('of the chain three, five, nine, seventeen', 'living THREE', lambda n: CHAIN.get(n, '')),
     ('8 apart, a pairing fixing none, by its roots', 'living FOUR', lambda n: APART[n]),
+    ('with itself by a ring\'s fold', 'executed', lambda n: RING[(n - 1) % 16 + 1]),
 ]
 used = {k for n in N for k in F[n]} | {'Bi-folding'}
 read = {'Parity, span', 'Sides', 'Co-sequencing', '8 up', '8 down', '9 less', '17 less', 'Bi-folding', 'Middle bi-folding', 'Six-cycle',
