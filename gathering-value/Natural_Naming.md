@@ -357,7 +357,11 @@ Gathering-Value · Natural Naming
 
 ### 7.1 A moment installing as an existing thing
 
+- **Possible exploring** · The session v403bubble's sixteenth returning, `incoming/v403bubble/Nitrogen_a_ghost_of_an_unrelationing_read.md`, 66, with its instrument `incoming/v403bubble/instruments/bubble_betweens.py`, executed by a second hand, each check is. With Exhibit TWENTY Natural Naming: *A ghost is one moment's form installing as an existing thing.* is-or-is-not? A field's nitrogen inside a diamond is a ghost: an observing of an unrelationing of the lattice, one coupling of four not, installed as an existing thing. Why it is open: fields' pages have it read by light absorbed, and with three couplings and a fourth broken. They have nitrogen too an atom of its own, of the air and of living selves. Natural Intelligence's gathering file has atom carbon the only non-living thing.
+
 ### 7.2 One hundred eighteen, a going and a return
+
+- **Possible exploring** · The session v403bubble's sixteenth returning, `incoming/v403bubble/Nitrogen_a_ghost_of_an_unrelationing_read.md`, 67, with its instrument `incoming/v403bubble/instruments/bubble_betweens.py`, executed by a second hand, each check is. With Exhibit TWENTY Natural Naming: *the periodic table's one hundred eighteen elements are a field's own result with one same numeral, Natural Numbers 7.1, and no number of a method* is-or-is-not? By its own number an element is a name of the seventeen: nitrogen 7-now-observing, carbon 6-now-co-possibling, and 7 is 6 with an other fewer. Why it is open: Natural Chemistry's gathering file has two readings of one table, an element by its place from lithium, nitrogen the fifth and carbon the fourth, and by its own number. The living sentence has the elements' numeral no number of a method. A number alone joins nothing.
 
 ## EIGHT · THE UNFOLDING'S DISSOLVING
 
