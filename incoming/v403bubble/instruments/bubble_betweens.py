@@ -51,6 +51,9 @@ What is executed here, each by its own lines:
   21 Selves alike densely compacted, three surfaces: twelve round one, six, three and three; the three below the
      inverses of the three above, a third each way; eight betweens of four round one, the cube's eight, two fours;
      and the six names between selves with all four parities inverting together.
+  22 A gate of a chip, not-both of two: its one is-not with a double bubble's film; its two along and two across,
+     one and only one going through; one four of the eight as two lattices, each the other's by three inverting
+     together; and one gate with its own now, and two each with the other's, beside the code's selves.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -136,7 +139,9 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (gathering('Natural_Physics'), '2, 6, 10 and 14 are each possibling, even, across, bi-co-bi'),
                    (gathering('Natural_Chemistry'), 'co-chaining along and bi-tunneling across'),
                    (gathering('Natural_Chemistry'), 'ingesting is only inside bi-tunneling, never on or through the surface'),
-                   (gathering('Co-Chaining_Logic_Registry'), 'By each improving, a self is exhausting one atom and stable-forming one atom, the two of one same parity.')):
+                   (gathering('Co-Chaining_Logic_Registry'), 'By each improving, a self is exhausting one atom and stable-forming one atom, the two of one same parity.'),
+                   (ni, 'An equilibrium is a not-changing still, a fixing form, a now fixing as its next'),
+                   (ni, 'A living form not-changing, or changing only one way, with each of its scales, breaks it.')):
     assert said in text, said
 
 bad = 0
@@ -845,5 +850,34 @@ between_selves = [2, 6, 10, 14, 9, 17]
 say(sorted(comp((m - 1) % 16 + 1) for m in between_selves) == [3, 4, 8, 11, 12, 16] and by_root['same-existing'] == [4, 8, 12, 16]
     and (comp(2), comp(3), comp(6), comp(7)) == (12, 9, 16, 13),
     "all four parities inverting together: the six names between selves, 2, 6, 10 and 14 across and 9 and 17 along, are with the four same-existing names, 4, 8, 12 and 16, and with 3 and 11; inhaling's 2 is with 12, exhausting's 3 with 9, ingesting's 6 with 16 and exhaling's 7 with 13")
+
+# ---- 22 ---------------------------------------------------------------------------------------------------------
+print('22 · A gate of a chip, not-both of two:')
+not_both = lambda *ins: 0 if all(ins) else 1
+say([not_both(1 in with_(m), 2 in with_(m)) for m in (1, 2, 3, 4)] == [1, 1, 0, 1]
+    and [m for m in range(1, 17) if not_both(*[k in with_(m) for k in (1, 2, 3, 4)]) == 0] == [11],
+    "not-both of two, with a double bubble's four things, nothing, a bubble, their film and the other bubble: is, is, is-not, is: its one is-not is with their film, the between of the two; not-all of four, with the sixteen, is is-not with the point, 11, and with no other")
+def gate(a_, b_):
+    along = bool(a_ and b_)                 # two, one after the other: going through with both is
+    across = bool((not a_) or (not b_))     # two, one beside the other: going through with either is-not
+    return along, across
+say(all(sum(gate(a_, b_)) == 1 and (0 if gate(a_, b_)[0] else 1) == not_both(a_, b_) for a_ in (0, 1) for b_ in (0, 1)),
+    "a gate of two along and two across, each of two inputs with one of each: with each of four ways one of the two goes through and only one, the two along with both is and the two across with each other way; and what it gives is not-both")
+quarter = (1, 1, 1)
+say(all(tuple(F(c_[k] - quarter[k], 2) for k in range(3)) in [tuple(F(x_) for x_ in v_) for v_ in NB] + [(0, 0, 0)] for c_ in one_four)
+    and all(tuple(F(c_[k] - d_[k], 2) for k in range(3)) in [tuple(F(x_) for x_ in v_) for v_ in NB] + [(0, 0, 0)] for c_ in one_four for d_ in one_four),
+    "one four of the eight betweens of four, filled: the filled betweens are the selves' own lattice again, a quarter along the cube's long line; and three inverting together about the middle of a self and one of its four has each of the four as a self, and that self as one of them: two lattices, each the other's")
+def ring(states, moments=12):
+    out = [tuple(states)]
+    for m in range(moments): states = [not_both(x_, x_) for x_ in (states[1:] + states[:1] if len(states) > 1 else states)]; out.append(tuple(states))
+    return out
+plus = lambda x_: 1 if x_ else -1
+say(all([plus(st[0]) for st in ring([x_])][1:] == alone_(plus(x_))[0]['A'] for x_ in (0, 1)),
+    "one gate with its own now as its two inputs: its next is its now inverted, with each of twelve moments, as the code's self alone, its prior inverting with each")
+two_code = {pr_: through({'A': pr_[0], 'B': pr_[1]}, each_with_each('AB'))[0] for pr_ in itertools.product((1, -1), repeat=2)}
+say(all(len(set(ring([x_, 1 - x_]))) == 1 for x_ in (0, 1)) and all(ring([x_, x_])[m + 1] == tuple(1 - y_ for y_ in ring([x_, x_])[m]) for x_ in (0, 1) for m in range(12))
+    and all(0 not in two_code[pr_]['A'] and two_code[pr_]['A'] == alone_(pr_[0])[0]['A'] for pr_ in ((1, -1), (-1, 1)))
+    and all(two_code[pr_]['A'][1::2] == [0] * 6 for pr_ in ((1, 1), (-1, -1))),
+    "two gates, each with the other's now: the two unlike, each is not-changing with each of twelve moments; the two alike, both invert with each moment; beside them the code's two selves bi-coupling: the two unlike, each inverting with each moment, a self alone's; the two alike, a 0 with each second moment")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
