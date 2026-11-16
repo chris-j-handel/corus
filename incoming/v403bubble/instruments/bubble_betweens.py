@@ -2,7 +2,7 @@
 involutions of each. Reads Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit THREE Natural Numbers,
 Exhibit FOUR Natural Mathematics, Exhibit SIXTEEN Natural Chemistry, Exhibit SEVENTEEN Natural Biology, Exhibit
 EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming, and the gathering files of Natural Numbers, Natural Naming,
-Natural Intelligence, Natural Emanating, Natural Physics and the Co-Chaining Logic Registry; executes; writes no file; decides nothing. Each answer is all or none at all.
+Natural Intelligence, Natural Emanating, Natural Physics, Natural Resolver and the Co-Chaining Logic Registry; executes; writes no file; decides nothing. Each answer is all or none at all.
 
 Use: python3 -I incoming/v403bubble/instruments/bubble_betweens.py <root>
 
@@ -38,6 +38,9 @@ What is executed here, each by its own lines:
      parity alone; and a self between two others.
   17 Co-parity in a between, in the code: all or none at all with a society; a self's sharings other than a self
      alone's with it and with no other case; and going on with bi-coupling, both ways, only.
+  18 The round of four parities as four bubbles: the sixteen names as the sixteen things of a point between four,
+     each bubble more by Exhibit FOUR Natural Mathematics' own order; the four betweens, the three moves, the
+     rotation 3, 6, 5, 4, each bi-folding and each root by them.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -107,7 +110,13 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (ni, '**Alike selves step their prior parities as a right spiral**, each prior and its next, a pair (x, y), going to (y, −x) with each moment'),
                    (ni, 'Selves one parity apart step a half turn, both inverting with each moment.'),
                    (ni, 'Cycles of moves of four steps are bi-foldings. Each goes two folds in turn'),
-                   (ni, 'A receiving self passes over a 0 with its 14-next-possibling')):
+                   (ni, 'A receiving self passes over a 0 with its 14-next-possibling'),
+                   (four, '**One cycle reaching each form of n parities one parity at a time is a cycle of n − 1 parities, a new parity inverted, and its same forms with an other order.**'),
+                   (naming, "3 now-existing co-parity; 4 now-existing bi-parity, an other's now across"),
+                   (naming, 'co-intelligencing with 3 and 4 going round through bi-moralizing with 6 and co-competencing with 5'),
+                   (naming, "**A self's inverting is with 12, within its own resolving, and its rotation is 3, 6, 5, 4**"),
+                   (three, 'with a round of four parities its outward steps come to 5, 9, 13 and 17'),
+                   (gathering('Natural_Resolver'), 'the two places at which the round of four parities, each next name one parity inverting, inverts its third and its fourth parity')):
     assert said in text, said
 
 bad = 0
@@ -671,5 +680,47 @@ def one_way(a, b):
     return sh['B'].count(0) == 1 and sh['B'][1] == 0 and all(sh['B'][m] == -sh['A'][m] for m in range(2, 12))
 say(all(one_way(a, b) for a, b in itertools.product((1, -1), repeat=2)),
     "two selves, one sharing with the other and the other not with it: the sharing self's are a self alone's; the receiving self, alike, shares a 0 once and none after, unlike its other with each moment from it; unlike, none: co-parity going on is with bi-coupling, both ways, and with no one-way sharing")
+
+# ---- 18 ---------------------------------------------------------------------------------------------------------
+print('18 · The round of four parities as four bubbles:')
+rows_one = re.findall(r'^\| (\d+) \| \*\*(.+?)\*\* \| (.*?) \| (.*?) \| (.*?) \| (.*?) \|', one, re.M); assert len(rows_one) == 17
+ROOT_ = {int(r_[0]): r_[2].strip() for r_ in rows_one}
+assert all(r_[3].strip() == format(int(r_[0]) - 1, '04b') for r_ in rows_one[:16])           # Exhibit ONE's own four binary digits
+with_ = lambda m: frozenset(k for k in (1, 2, 3, 4) if (G((m - 1) % 16 + 1) >> (k - 1)) & 1)  # the bubbles a name is of, first to fourth
+KIND = {0: 'nothing', 1: 'a bubble', 2: 'a film', 3: 'a line', 4: 'the point'}
+kinds = [KIND[len(with_(m))] for m in range(1, 18)]
+say(len({with_(m) for m in range(1, 17)}) == 16 and [sum(len(with_(m)) == k for m in range(1, 17)) for k in range(5)] == [1, 4, 6, 4, 1]
+    and len(Fc) == 4 and len(pairs) == 6 and len(line) == 4
+    and all(len(with_(m)) % 2 == 0 for m in range(1, 17, 2)) and all(len(with_(m)) % 2 == 1 for m in range(2, 17, 2)),
+    "the sixteen names by their four parities are the sixteen ways of four bubbles, each once: of none one, of one four, of two six, of three four, of four one, as a point between four bubbles has four bubbles, six films, four lines and itself; each odd name is of none, two or four, and each even name of one or three")
+say(all(len(with_(m) ^ with_(m + 1)) == 1 for m in range(1, 17))
+    and kinds == ['nothing', 'a bubble', 'a film', 'a bubble', 'a film', 'a line', 'a film', 'a bubble', 'a film', 'a line', 'the point', 'a line', 'a film', 'a line', 'a film', 'a bubble', 'nothing'],
+    "each name to its next is one bubble more or one fewer: nothing, a bubble, a film, a bubble, a film, a line, a film, a bubble, a film, a line, the point, a line, a film, a line, a film, a bubble, nothing: each of the sixteen once, and each on its next or its next on it")
+say(all({with_(m) for m in range(1, 2 ** k + 1)} == {frozenset(c) for r in range(k + 1) for c in itertools.combinations(range(1, k + 1), r)}
+        and all(with_(2 ** k + 1 - m) == with_(m) | {k} for m in range(1, 2 ** (k - 1) + 1)) for k in (1, 2, 3, 4)),
+    "by Exhibit FOUR Natural Mathematics' order, each bubble more is each thing before it again, with that bubble, in the other order: two names are nothing and one bubble; four, two bubbles and their film; eight, three bubbles, three films and their line; sixteen, four bubbles, six films, four lines and their point; and 3 less, 5 less, 9 less and 17 less are each a name with its same thing of one bubble more")
+changing = {m: next(iter(with_(m) ^ with_(m + 1))) for m in range(1, 17)}
+say([(m, changing[m], changing[m] in with_(m + 1)) for m in (4, 8, 12, 16)] == [(4, 3, True), (8, 4, True), (12, 3, False), (16, 4, False)]
+    and all(changing[m] in (1, 2) for m in range(1, 17) if m not in (4, 8, 12, 16)),
+    "Exhibit ONE Natural Resolver's four betweens are a third bubble more with 4 )( 5, a fourth more with 8 )( 9, the third fewer with 12 )( 13 and the fourth fewer with 16 )( 17; each other name to its next is the first bubble or the second, more or fewer")
+say(all(with_(17 - m) == with_(m) ^ {4} for m in range(1, 17)) and all(with_(9 - m) == with_(m) ^ {3} for m in range(1, 9))
+    and all(with_(m + 8) == with_(m) ^ {3, 4} for m in range(1, 9)),
+    "of the three moves, 17 less is each name with its same thing of the fourth bubble more or fewer; 9 less, within 1 to 8, of the third; 8 up, of the third and the fourth together")
+say([with_(m) for m in (3, 6, 5, 4)] == [frozenset({1, 2}), frozenset({1, 2, 3}), frozenset({2, 3}), frozenset({2})]
+    and [next(iter(with_(a_) ^ with_(b_))) for a_, b_ in ((3, 6), (6, 5), (5, 4), (4, 3))] == [3, 1, 3, 1],
+    "the rotation 3, 6, 5, 4 is one bubble, its two films and the line the two films are on: the film of the first and second, the line of the first three, the film of the second and third, and the second bubble; one bubble more or fewer with each, the third and the first one and then the other, again after four")
+BIFOLD = {(1, 9, 8, 16): frozenset(), (2, 15, 7, 10): frozenset({1}), (3, 11, 6, 14): frozenset({1, 2}), (4, 13, 5, 12): frozenset({2})}
+say(all({with_(m) for m in b_} == {w_ | extra for extra in (frozenset(), frozenset({3}), frozenset({4}), frozenset({3, 4}))} for b_, w_ in BIFOLD.items())
+    and [KIND[len(with_(m))] for m in (3, 11, 6, 14)] == ['a film', 'the point', 'a line', 'a line']
+    and [KIND[len(with_(m))] for m in (1, 9, 8, 16)] == ['nothing', 'a film', 'a bubble', 'a bubble'],
+    "each bi-folding is one way of the first and second bubbles with each of four ways of the third and fourth: 1-9-8-16 with neither, nothing, the third and fourth bubbles and their film; 2-15-7-10 with the first; 4-13-5-12 with the second; 3-11-6-14 with both, the film of the first and second, the point, and the two lines on that film")
+by_root = {}
+for m in range(1, 17): by_root.setdefault('existing with discovering' if ROOT_[m] in ('existing', 'discovering') else ROOT_[m], []).append(m)
+say(by_root == {'existing with discovering': [1, 5, 9, 13], 'possibling': [2, 6, 10, 14], 'observing': [3, 7, 11, 15], 'same-existing': [4, 8, 12, 16]}
+    and [with_(m) for m in (2, 6, 10, 14)] == [frozenset({1}), frozenset({1, 2, 3}), frozenset({1, 3, 4}), frozenset({1, 2, 4})]
+    and [with_(m) for m in (3, 7, 11, 15)] == [frozenset({1, 2}), frozenset({1, 3}), frozenset({1, 2, 3, 4}), frozenset({1, 4})]
+    and [with_(m) for m in (4, 8, 12, 16)] == [frozenset({2}), frozenset({3}), frozenset({2, 3, 4}), frozenset({4})]
+    and [with_(m) for m in (1, 5, 9, 13)] == [frozenset(), frozenset({2, 3}), frozenset({3, 4}), frozenset({2, 4})],
+    "by each root, three alike and one, by the first bubble: possibling, the first bubble and its three lines; observing, its three films and the point; same-existing, the three other bubbles and their one line; existing with discovering, the three films of the three others and nothing")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
