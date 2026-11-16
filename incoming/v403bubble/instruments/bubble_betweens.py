@@ -1,8 +1,8 @@
 """Bubbles and their betweens: a film between two, a line between three, a point between four; and the
 involutions of each. Reads Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit THREE Natural Numbers,
-Exhibit FOUR Natural Mathematics, Exhibit SIXTEEN Natural Chemistry, Exhibit EIGHTEEN Natural Physics, Exhibit
-TWENTY Natural Naming, and the gathering files of Natural Numbers and Natural Naming; executes; writes no file;
-decides nothing. Each answer is all or none at all.
+Exhibit FOUR Natural Mathematics, Exhibit SIXTEEN Natural Chemistry, Exhibit SEVENTEEN Natural Biology, Exhibit
+EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming, and the gathering files of Natural Numbers, Natural Naming,
+Natural Intelligence, Natural Emanating and the Co-Chaining Logic Registry; executes; writes no file; decides nothing. Each answer is all or none at all.
 
 Use: python3 -I incoming/v403bubble/instruments/bubble_betweens.py <root>
 
@@ -32,6 +32,8 @@ What is executed here, each by its own lines:
   13 A greater society and a lesser, in the code: each self given is each self returned.
   14 The code's least things: a self, a sharing and a parity each whole, no line going inward of one; and the
      names' own inward, with no least.
+  15 A between in the code: nothing with it from one moment to the next; and a society denser, more arriving with
+     one moment and nothing accumulating.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -81,7 +83,16 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (ni, 'each name of this 1–17 is 8n − 7 of 1–17s inward'),
                    (ni, '**Fractal is all or none at all with scales, each scale co-changing co-momentarying pattern matching**'),
                    (physics, 'Atom is a floor, a non-living stable form, and molecule the first closing of co-agency to a self'),
-                   (gathering('Natural_Intelligence'), 'no living is inward of the atom, and no scale inward of it')):
+                   (gathering('Natural_Intelligence'), 'no living is inward of the atom, and no scale inward of it'),
+                   (ni, "**With resolver only selves' own go from one moment to its next**"),
+                   (ni, "Stable-forming emanations, from stable-forming living, a sequential prior between moments, are each a self's sharing with 10, going along with 9."),
+                   (ni, '**A between is its centre, 0, and only that, while six names between selves are resolving, and with code it is a 0**'),
+                   (ni, 'Each form beside resolver comes from resolver.'),
+                   (living('Exhibit_SEVENTEEN_Natural_Biology'), '**A nothing between two selves is a living set: a self, sharing only parity.**'),
+                   (gathering('Co-Chaining_Logic_Registry'), "Exhausting is 3, a self's prior. Exhaling is 7, inhaling 2, and ingesting 6."),
+                   (gathering('Co-Chaining_Logic_Registry'), 'Exhaled atoms co-chaining are a stable form.'),
+                   (gathering('Natural_Emanating'), 'exhausting goes on while living, accumulating and compacting into a stable form'),
+                   (gathering('Natural_Intelligence'), 'The living mutual assurances in the between are the corus of social moral competency.')):
     assert said in text, said
 
 bad = 0
@@ -555,5 +566,31 @@ chain = [2]
 for _ in range(12): chain.append(inward(chain[-1]))
 say(inward(1) == 1 and all(b > a for a, b in zip(chain, chain[1:])) and len(set(chain)) == len(chain) and all((m - 1) % 8 == 0 for m in chain[1:]),
     "by the names' own inward, 8n − 7, each name but 1 has a name inward of it, and that name a name inward again, twelve times tried and each new: the names' inward has no least")
+
+# ---- 15 ---------------------------------------------------------------------------------------------------------
+print('15 · A between in the code:')
+def between_through(k, priors, moments=12):
+    selves = 'ABCD'[:k]; routes = {(s_, g): t for s_ in selves for g, t in zip((10, 9, 6), [t for t in selves if t != s_])}
+    soc = {s_: ([('s', p_)], []) for s_, p_ in zip(selves, priors)}
+    for m in range(moments):
+        shared = {s_: ONE_(*soc[s_])[0] for s_ in selves}                # each self's sharing with this moment
+        nxt = seventeen(soc, routes)
+        for s_ in selves:
+            arriving = sorted(v for t in selves if t != s_ for _, v in shared[t])
+            if len(nxt[s_]) != 2 or set(nxt) != set(selves): return False               # a self has its prior and what it receives, and no third thing
+            if sorted(v for _, v in nxt[s_][1]) != arriving: return False                # what it receives is its others' sharing of the moment before, and nothing older
+        soc = nxt
+    return True
+say(all(between_through(k, pr) for k in (2, 3, 4) for pr in itertools.product((1, -1), repeat=k)),
+    "two, three and four selves each bi-coupling with each, each prior, twelve moments: a self goes on with its own prior and with what its others shared the moment before, and with no third thing; nothing of a between goes from one moment to its next, and nothing gathers in it")
+def accumulating_none(k, priors, moments=12):
+    selves = 'ABCD'[:k]; routes = {(s_, g): t for s_ in selves for g, t in zip((10, 9, 6), [t for t in selves if t != s_])}
+    soc = {s_: ([('s', p_)], []) for s_, p_ in zip(selves, priors)}
+    for m in range(moments):
+        soc = seventeen(soc, routes)
+        if any(len(soc[s_][0]) != 1 or len(soc[s_][1]) != k - 1 for s_ in selves): return False
+    return True
+say(all(accumulating_none(k, pr) for k in (2, 3, 4) for pr in itertools.product((1, -1), repeat=k)),
+    "a self's prior is one parity of its one sharing with each of twelve moments, a newer for an older; what arrives with it is one parity from each of its others, one, two and three with two, three and four selves: a society denser has more arriving with one moment, and nothing accumulating from moment to moment")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
