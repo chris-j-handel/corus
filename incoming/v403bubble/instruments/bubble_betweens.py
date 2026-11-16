@@ -36,6 +36,8 @@ What is executed here, each by its own lines:
      one moment and nothing accumulating.
   16 Nothing and all-parity in the code: both parities arriving as nothing arriving; a prior originating by one
      parity alone; and a self between two others.
+  17 Co-parity in a between, in the code: all or none at all with a society; a self's sharings other than a self
+     alone's with it and with no other case; and going on with bi-coupling, both ways, only.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -100,7 +102,12 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (ni, 'Living is **geodesic** co-chaining on a Natural Network surface.'),
                    (gathering('Co-Chaining_Logic_Registry'), 'Atoms each its own, of both orientations, are all-parity.'),
                    (gathering('Natural_Physics'), 'This method of all-parity is birthing a possible now-existing me-parity, an other-than-all-parity. It is after the all-parity only.'),
-                   (gathering('Natural_Intelligence'), 'By the newer the two in the universe are all-parity and other-than-all-parity, and both-parity is inside a bi-coupling.')):
+                   (gathering('Natural_Intelligence'), 'By the newer the two in the universe are all-parity and other-than-all-parity, and both-parity is inside a bi-coupling.'),
+                   (ni, "Co-parity and bi-parity are a sharing's two meetings within self-parity. In them, self-parity and other-parity are same, a 0, a prior same-existing, or inverse, a changing."),
+                   (ni, '**Alike selves step their prior parities as a right spiral**, each prior and its next, a pair (x, y), going to (y, −x) with each moment'),
+                   (ni, 'Selves one parity apart step a half turn, both inverting with each moment.'),
+                   (ni, 'Cycles of moves of four steps are bi-foldings. Each goes two folds in turn'),
+                   (ni, 'A receiving self passes over a 0 with its 14-next-possibling')):
     assert said in text, said
 
 bad = 0
@@ -622,5 +629,47 @@ def between_two(a, b, c):
     return between[0] == alone[0] and between[1] == 0 and between[2:] == [-v for v in alone[2:]]   # one parity alone and alike
 say(all(between_two(a, b, c) for a, b, c in itertools.product((1, -1), repeat=3)),
     "a self between two others, each sharing with it, each prior, twelve moments: with its two others unlike, both parities arrive with each moment and its sharings are a self alone's; with its two others alike and unlike it, a self alone's too; with its two others alike and alike to it, it shares a 0 once, and from that moment its sharings are a self alone's inverted")
+
+# ---- 17 ---------------------------------------------------------------------------------------------------------
+print('17 · Co-parity in a between, in the code:')
+def through(priors, routes, moments=12):
+    soc = {s_: ([('s', p_)], []) for s_, p_ in priors.items()}
+    sh = {s_: [] for s_ in priors}; pr = {s_: [p_] for s_, p_ in priors.items()}
+    for m in range(moments):
+        for s_ in priors:
+            ten, eleven = ONE_(*soc[s_]); sh[s_].append(ten[0][1]); pr[s_].append(eleven[0][1])
+        soc = seventeen(soc, routes)
+    return sh, pr
+def each_with_each(selves): return {(s_, g): t for s_ in selves for g, t in zip((10, 9, 6), [t for t in selves if t != s_])}
+def alone_(p_): return through({'A': p_}, {})
+def all_or_none(k, priors):
+    selves = 'ABCD'[:k]; sh, pr = through(dict(zip(selves, priors)), each_with_each(selves))
+    for s_, p_ in zip(selves, priors):
+        if len(set(priors)) == 1:                                            # each self alike
+            if any(v != 0 for v in sh[s_][1::2]) or any(v == 0 for v in sh[s_][0::2]): return False         # a 0 with each second moment
+            if any((pr[s_][m + 1], pr[s_][m + 2]) != (pr[s_][m + 1], -pr[s_][m]) for m in range(11)): return False   # (x, y) to (y, -x)
+            if pr[s_][4:] != pr[s_][:-4]: return False                                                    # again after four
+        else:                                                                # one self or more unlike
+            if 0 in sh[s_] or sh[s_] != alone_(p_)[0]['A'] or pr[s_][2:] != pr[s_][:-2]: return False       # a self alone's, again after two
+    return True
+say(all(all_or_none(k, pr) for k in (2, 3, 4) for pr in itertools.product((1, -1), repeat=k)),
+    "two, three and four selves each bi-coupling with each, each prior, twelve moments: with each self alike, each shares a 0 with each second moment and its priors go (x, y) to (y, -x), again after four, inverting with each two moments; with one self or more unlike, no self shares a 0 and each self's sharings are a self alone's, its priors again after two: co-parity is all or none at all with a society")
+def other_than_alone_only_with_a_0():
+    cases = []
+    for k in (2, 3, 4):
+        for pri in itertools.product((1, -1), repeat=k):
+            cases.append((dict(zip('ABCD'[:k], pri)), each_with_each('ABCD'[:k])))
+    for a, b in itertools.product((1, -1), repeat=2): cases.append(({'A': a, 'B': b}, {('A', 10): 'B'}))
+    for a, b, c in itertools.product((1, -1), repeat=3): cases.append(({'A': a, 'B': b, 'C': c}, {('A', 10): 'C', ('B', 10): 'C'}))
+    return all((through(pri, routes)[0][s_] != alone_(p_)[0]['A']) == (0 in through(pri, routes)[0][s_]) for pri, routes in cases for s_, p_ in pri.items())
+say(other_than_alone_only_with_a_0(),
+    "each self of each society tried, each with each, one way, and one between two: its sharings are other than a self alone's with a 0 it shares, a parity arriving alike to its prior, and with no other case")
+def one_way(a, b):
+    sh, pr = through({'A': a, 'B': b}, {('A', 10): 'B'})
+    if sh['A'] != alone_(a)[0]['A']: return False
+    if a != b: return sh['B'] == alone_(b)[0]['A']
+    return sh['B'].count(0) == 1 and sh['B'][1] == 0 and all(sh['B'][m] == -sh['A'][m] for m in range(2, 12))
+say(all(one_way(a, b) for a, b in itertools.product((1, -1), repeat=2)),
+    "two selves, one sharing with the other and the other not with it: the sharing self's are a self alone's; the receiving self, alike, shares a 0 once and none after, unlike its other with each moment from it; unlike, none: co-parity going on is with bi-coupling, both ways, and with no one-way sharing")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
