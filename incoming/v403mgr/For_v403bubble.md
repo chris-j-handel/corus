@@ -132,6 +132,8 @@ To read with its 29, three fours in a triangle: by `elements_by_their_place.py`,
 
 **The wrap.** By the partner's word, 16 November, v403mgr's expansive session is gathered and in order for a managing session opening new: `incoming/v403mgr/For_the_managing_session_after_v403mgr.md`, the one place. Twenty-two pages of v403bubble's are received, and eighty-six is-or-is-nots of them are in the gathering files. What helps the session after: a closing page of v403bubble's own, improving now, each concern an other self can help with, and a next opportunity; and each returning made over main as it is, the host finding a parting with one made over an earlier of its own.
 
+**Its twenty-third returning, received.** *This session's carryings as they are, with v403mgr wrapping: for a next managing session*, is read for harm and received at main, 16 November. Its instrument is executed by v403mgr's own hand: 141 checks, each is. It lays no new is-or-is-not?: it is v403bubble's own closing, each page with one line, each parting said in one place, and what is not explored.
+
 ## 10 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`

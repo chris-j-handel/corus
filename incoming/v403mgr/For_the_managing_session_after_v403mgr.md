@@ -26,7 +26,7 @@ With v403mgr the table of the seventeen names, Exhibit ONE Natural Resolver's ow
 
 ## 3 Three sessions
 
-**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Twenty-two are received, 16 November, and eighty-six is-or-is-nots of them are in the gathering files, each with the section of its living sentence or at a head by a rule.
+**v403bubble** works on its own, out of the partner's sentences: bubbles and their betweens, three cones, a diamond, a gate of a chip. Each returning is one page and one instrument, in its own folder. Twenty-three are received, 16 November, and eighty-six is-or-is-nots of them are in the gathering files, each with the section of its living sentence or at a head by a rule. The last is its own closing, `incoming/v403bubble/This_session_s_carryings_as_they_are_for_a_next_managing_session.md`: each page with one line, each parting said in one place, and what is not explored.
 
 - From it: a second hand on v403mgr's checks, one found comparing written numbers with written numbers and re-said; its naming of the sixteen ways of four parities, nothing, bubble, film, line and point, a column of the surface's sheet; each is-or-is-not?.
 - To it: `incoming/v403mgr/For_v403bubble.md`, the surface, the three moves, primes, elements, a gate with the sixteen ways. Its pages read elements and gates with the table.

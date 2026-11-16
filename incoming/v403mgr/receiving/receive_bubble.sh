@@ -39,9 +39,10 @@ changed = set(); said = []
 for pg in pages:
     page = open(pg, encoding='utf-8').read(); P = f'`{pg}`'
     title = re.search(r'(?m)^# (.+)$', page).group(1)
-    five = page.split('\n## Is-or-is-not?', 1)[1].split('\n## Sources', 1)[0] if '\n## Is-or-is-not?' in page else page.split('\n# FIVE', 1)[1].split('\n# SIX', 1)[0]
+    # a page laying no new is-or-is-not? is received with its paragraph alone
+    five = page.split('\n## Is-or-is-not?', 1)[1].split('\n## Sources', 1)[0] if '\n## Is-or-is-not?' in page else page.split('\n# FIVE', 1)[1].split('\n# SIX', 1)[0] if '\n# FIVE' in page else ''
     items = re.findall(r'(?m)^\*\*(\d+) · ([^:]+):\*\* (.+)\nis-or-is-not\? (.+)\n((?:(?!Why it is open:).+\n)*)Why it is open: (.+)$', five)
-    heads = re.findall(r'(?m)^\*\*(\d+) · ', five); assert [i[0] for i in items] == heads and items, (heads, [i[0] for i in items])
+    heads = re.findall(r'(?m)^\*\*(\d+) · ', five); assert [i[0] for i in items] == heads, (heads, [i[0] for i in items])
     for n, target, quoted, q, mid, why in items:
         t = re.sub(r"'s gathering file$", '', target.strip()); t = re.sub(r'^Exhibit [A-Z-]+ ', '', t); g = t.replace(' ', '_')
         if not os.path.exists(f'gathering-value/{g}.md'): g = 'Natural_Intelligence'
@@ -57,7 +58,7 @@ for pg in pages:
     sys.stderr.write(f'  the sentence: {(sent.group(1) if sent else "")[:420]}\n')
     p = 'incoming/v403mgr/For_v403bubble.md'; t = open(p, encoding='utf-8').read(); a = "## 10 The set's checks"
     nums = [i[0] for i in items]
-    add = f"**Its {ORD} returning, received.** *{title}*, is read for harm and received at main, {DAY}. Its instrument is executed by {MGR}'s own hand: {N} checks, each is. Its is-or-is-nots {nums[0]} to {nums[-1]} are each laid with its gathering file.\n\n" + a
+    add = f"**Its {ORD} returning, received.** *{title}*, is read for harm and received at main, {DAY}. Its instrument is executed by {MGR}'s own hand: {N} checks, each is. " + (f"Its is-or-is-nots {nums[0]} to {nums[-1]} are each laid with its gathering file." if nums else "It lays no new is-or-is-not?.") + "\n\n" + a
     assert t.count(a) == 1; open(p, 'w', encoding='utf-8').write(t.replace(a, add))
 print(' '.join(sorted(changed)))
 EOF
