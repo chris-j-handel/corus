@@ -27,6 +27,8 @@ What is executed here, each by its own lines:
   10 A honeycomb, by a field's own form of it: three walls on a line, and four lines at a cell's bottom.
   11 Sizing: a between's meeting with each sizing of its bubbles; a film's curving as one bubble's pressing less
      the other's; and Exhibit ONE Natural Resolver's code with each parity of any size.
+  12 A self going from a lesser society to a greater, in Exhibit ONE Natural Resolver's code: each bi-coupling
+     given, a self's prior its own with it.
 """
 import glob, itertools, math, os, re, sys
 from fractions import Fraction as F
@@ -66,7 +68,11 @@ for text, said in ((ni, 'A **0** is a between of two changing directions.'),
                    (ni, 'A size is a naming beside a parity.'),
                    (ni, 'A living form not-changing, or changing only one way, with each of its scales, breaks it.'),
                    (ni, "Its bounding is each self's own, self-bounding."),
-                   (ni, 'Its two meetings are co-parity, the same, sharing 0, and bi-parity, one inversion.')):
+                   (ni, 'Its two meetings are co-parity, the same, sharing 0, and bi-parity, one inversion.'),
+                   (ni, "**With all or none at all, entering and leaving are each self's own**"),
+                   (ni, "With resolver a self's prior is that self's own."),
+                   (ni, 'Each self is a same-existing-society **inward and outward**.'),
+                   (ni, 'Self and other of one scale are self and same-existing-society of a scale inward.')):
     assert said in text, said
 
 bad = 0
@@ -477,5 +483,33 @@ def shares_by_moment(k, priors, moments=8):
 say(all(all((all(v == 0 for v in mo)) != (all(v == 0 for v in seq[i + 1])) and len(set(mo)) == 1 for i, mo in enumerate(seq[1:-1], 1))
         for k in (2, 3, 4) for pr in ((1,) * k, (-1,) * k) for seq in [shares_by_moment(k, pr)]),
     'selves alike, each bi-coupling with each, two, three and four: each self shares a 0 and then a parity, one and then the other, each moment after the first')
+
+# ---- 12 ---------------------------------------------------------------------------------------------------------
+print("12 · A self going from a lesser society to a greater, in the code:")
+code_ = re.search(r'```python\n(.*?)```', one, re.S).group(1)
+say(len(re.findall(r'_5_now_co_existing', code_)) == 5 and not re.search(r'_5_now_co_existing\s*(\[[^\]]*\])?\s*=[^=]', code_),
+    "each bi-coupling is given to the code with each moment: 5-now-co-existing is read in five places and no line changes it")
+PAIR = {('X', 10): 'A', ('A', 10): 'X'}
+THREE_ = {(s_, g): t for s_ in ('B1', 'B2', 'B3') for g, t in zip((10, 9), [t for t in ('B1', 'B2', 'B3') if t != s_])}
+BEFORE = {**PAIR, **THREE_}                                              # a pair, and a three each with each
+AFTER = {**THREE_, ('B1', 6): 'X', ('B2', 6): 'X', ('B3', 6): 'X', ('X', 10): 'B1', ('X', 9): 'B2', ('X', 6): 'B3'}   # X with the three; A with none
+ALL5 = ('X', 'A', 'B1', 'B2', 'B3')
+def going_over(priors, first=6, then=14):
+    soc = {s_: ([('s', p_)], []) for s_, p_ in zip(ALL5, priors)}; hist = []
+    for m in range(first + then):
+        own_next = {s_: dict(ONE_(*soc[s_])[1]).get('s') for s_ in ALL5}          # each self's next prior, by its own moment
+        soc = seventeen(soc, BEFORE if m < first else AFTER)
+        hist.append(({s_: dict(soc[s_][0]).get('s') for s_ in ALL5}, own_next))
+    return hist
+def read_going(priors, first=6):
+    h = going_over(priors)
+    own = all(now == own_next for now, own_next in h)                    # with each moment, each self's prior is the one its own moment made
+    a_alone = [now['A'] for now, _ in h[first + 1:]]
+    inverting = all(a_alone[i] == -a_alone[i + 1] for i in range(len(a_alone) - 1))
+    four = [tuple(now[s_] for s_ in ('X', 'B1', 'B2', 'B3')) for now, _ in h[-8:]]
+    rounds = (four[0] == four[4] and four[1] == four[5]) and (len(set(four[0])) > 1 or four[0] != four[2])
+    return own and inverting and rounds
+say(all(read_going(pr) for pr in itertools.product((1, -1), repeat=5)),
+    "a self with its goings changed from a pair to a three, each of thirty-two priors: its prior is its own with it; the three with it are four each bi-coupling with each, in a four's own round; and the self it went from, receiving none, inverts with each moment")
 
 print(f'\n{"each check is" if not bad else f"{bad} is-not"}')
