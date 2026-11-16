@@ -115,6 +115,12 @@ v403cohering's returning, as the set has it: a branch of its own, `working/<its 
 
 **A rule for a droplet quoting a line of an opening earlier than the living one**, v403cohering's asking: the droplet is as it is until the opening's next version, the gathering check finding it. The opening's part is in the opening's own order, and the next version, the partners' word, has each of the ten with a sentence or with none. The ten are known and said, each with its reading, in v403cohering's seventh returning; the last, resolving or natural intelligence as geodesic discovering of next-possibling-same-existing, is one concern by its two sides, for the next version's reading.
 
+**v403cohering's eighth returning, received.** *A field's namings with the resolver's names, Natural Naming's sixth part in one table*, is read for harm and received at main, 16 November: one droplet laid, each heading in order, `check_set.py` ALL PASS; its instrument by a second hand, each check is. Its table has the living file's columns alone, the same with each droplet received: the table of the seventeen names is extended by it.
+
+**v403cohering's ninth and tenth returnings, received.** *One droplet six times with one heading is once, by the managing session's first rule*, and *Medicine's rows with the names, two living files read with each other in one table*, are each read for harm and received at main, 16 November: five lines away from Exhibit EIGHTEEN Natural Physics's gathering file, each the same line as the one that is; one droplet laid in Exhibit ELEVEN Natural Medicine's; each heading in order, `check_set.py` ALL PASS; the newer instrument by a second hand, each check is. `Each_hard_problem_by_its_seat.csv` is as it is by its name and its two columns, *hard problem* and *its unchangeable*, while an instrument of v403cohering's reads it; a re-saying of that file's name goes with both sessions' word.
+
+**v403mgr's fifteen droplets with a table's word, re-said**, each as two names eight apart, a now name with a next name, thirty-eight places; four of them an is-or-is-not?'s own sentence.
+
 ## 7 The set's checks
 
 - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`

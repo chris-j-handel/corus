@@ -6,6 +6,7 @@ reader check's list of released words; executes; writes no file; decides nothing
 
 Use: python3 -I incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py <root>        each check, and each reading
      python3 -I incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py <root> csv    the table, one line with each dissolved word
+     python3 -I incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py <root> file <a living file's title>    each place of a word dissolved alone in one living file, as Natural_Resolver, with the heading it is under and its line's words
 
 What it reads. An entry: an item of the section *Dissolved words, each with its saying*, with its *a*, said by.
 A dissolved word: each word or words in italics before the entry's *a*. The words beside it: the entry's own words
@@ -106,6 +107,24 @@ if WHAT == 'csv':                               # the living files' columns alon
                  "the reader check's list [executed]", 'living files saying it plainly [executed]', 'its places in them [executed]',
                  'its entry, whole [living TWENTY]'])
     wr.writerows(r[:6] + r[8:] for r in TABLE); sys.exit()
+
+if WHAT == 'file':                              # one living file, each place of a word dissolved alone
+    title = sys.argv[3]
+    path = next(p for s, p in living.items() if s == title or s.endswith('_' + title))
+    ALONE_SAID = {r[0]: r[2] for r in TABLE if r[1] == 'alone' and r[5] != ''}
+    head, fence, n = 'its opening', False, 0
+    for k, l in enumerate(open(path, encoding='utf-8').read().split('\n')):
+        if l.startswith('```'): fence = not fence; continue
+        if fence or k == 0: continue
+        if l.startswith('#'): head = l.lstrip('# ').strip(); continue
+        m0 = re.match(r'^\*\*([^*]{3,90}?)\.?\*\*', l)
+        if m0: head = m0.group(1)
+        pl = plain(' \n' + l)
+        for w, said in ALONE_SAID.items():
+            for m in re.finditer(r'(?<![\w-])' + re.escape(w).replace(r'\ ', r'\s+') + r'(?![\w-])', pl, re.I):
+                n += 1
+                print(f'{n} · {w} · with {head[:60]} · …{pl[max(0, m.start() - 70):m.end() + 70].strip()}… · said by {said[:80]}')
+    print(f'{n} places of a word dissolved alone, said plainly, in {os.path.basename(path)}'); sys.exit()
 
 print(f'{len(ENTRIES)} entries of dissolved words, {len(ROWS)} dissolved words in them, {len(WORDS)} by their letters')
 checks = [
