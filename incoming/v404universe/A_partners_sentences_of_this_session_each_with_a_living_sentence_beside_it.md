@@ -49,3 +49,24 @@ Incoming · v404universe · 17 November 2026
 1. Sections 1 and 2 say the same thing from two sides: a name is all-or-none, an observing may come fuzzy, and an explaining parts is-or-is-not. The living sentences for it are in four files and no one of them points to another.
 2. A partner's "all observings are fuzzy" is wider than Natural Biology 9.4 and Natural Medicine 5.1, which have an observing coming fuzzy near a between.
 3. A partner's "explaining can include both" and Natural Intelligence 1.5's "its opposite outside the explaining" want one reading: two explainings, each parting is-or-is-not, or one explaining holding both.
+
+## 6 Said after: a my universe, co-universes and jittering
+
+A partner said: a universe is a now-existing thing owned by a now-existing living thing, as a my-now-existing universe. And a me-parity is co-possibling co-universes with another me-parity. This is the jittering before social bi-coupling.
+
+Beside the first sentence:
+
+- Exhibit ONE Natural Resolver's gathering file: *A cone's apex, a me-parity's or a me's: a cone is a same-existing me-parity universe.* A partner's sentence has now-existing where this has same-existing.
+- Natural Intelligence 1.3: *A set of sets is only its sets, a thing of the universe.* Exhibit TWENTY-EIGHT 1.1: *The universe as one thing beside its things is exclusivity, and it is not possibly existing.* A partner's sentence is of a universe, a self's, and these are of the universe.
+- Of owning: Natural Explaining 3.2 has *A character is a verb of wanting, owning or seeking, which needs a self as a container*, and Natural Human Society 3.3 has *An owner is a self's own parity lying on an other as a thing*. The living files' word for what is a self's is *own*, as in a self's own next-existing. "My-now-existing" and "my universe" were not found.
+
+Beside the second:
+
+- Natural Intelligence's gathering file: *An is: co is me-parity, and a me-parity is the co-aiming 0, living in the resolver.* By it a co-universe is a me-parity's universe, the cone of the first sentence. "Co-universe" was not found.
+- Natural Intelligence, its opening: *A bi-coupling is two selves sharing possibling.*
+
+Beside the third:
+
+- Natural Chemistry's gathering file: *Jitter, snap and settling are a waver, a newly aiming 0, one changing and a continuing 0, and a continuing 0*.
+- Natural Networking's gathering file, a partner's sentence: *the co chaining along the tunneling backs up and the jittering begins before geodesic binary parity changing into a new tunneling*.
+- Natural Intelligence 6.4: *Bi-trupling protocol is a full social bi-coupling with natural resolver on a Natural Network surface*, its across with 6 and 10, the two co-possibling names. A partner's sentence has co-possibling as a jittering before a social bi-coupling, and 6.4 has co-possibling as the across of a full one.
