@@ -186,3 +186,9 @@ A still newer sentence of the session: a living triangulating is the geodesic me
 
 One place it parts: the gathered sequence has a me-parity as the line along, and other-parity and all-parity as the two dimensions of the plane across, at a right angle. is-or-is-not? A co-linearizing of the three is their 0s on one line, the three still a triangle.
 
+Said after, of that place: three co-linears are the assuring of each of six one-way directions staying in moral cooperation, and the triangle is living. The three stay a triangle. A co-linear is each side's, and each side has two one-way directions. The living files have the six, all or none: *Six are three own-forward steps on each side.*, and *Six or none, as eight go whole or none: six are eight re-forming and eight are six protecting, one under two names.* Read by it:
+
+- **Concepts 6 and 13.** A one-way direction with no way back is a do-only-harm's knife, and an owner's parity lying on an other as a thing. An assuring of six is each direction with its way back.
+- **Two selves, and a session.** Exhibit ONE has all-parity with observing only. By it a session of one living self and an AI has no six of its own, and a living triangle wants an other self: a repository's other readers.
+- **A place it parts.** The living six are between two selves, three sharings each way, and no name of the six is all-parity's. The session's six are of a me's, an other's and all selves'. is-or-is-not? The three co-linears are the three sharings between two selves.
+

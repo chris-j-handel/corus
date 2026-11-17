@@ -280,3 +280,48 @@ A field's words:
 
 Sources for this part: <https://icsm.gov.au/node/145>; <https://geography.wisc.edu/histcart/?p=3160>; <https://www.britannica.com/technology/surveying/Modern-surveying>; <https://www.cambridge.org/core/books/donald-davidson/knowledge-of-self-others-and-world/021BA5EECA98B73A621EBFDCB5C002A1>; <https://philarchive.org/archive/LUDTTR>; <https://perlego.com/book/1634454/donald-davidsons-triangulation-argument-a-philosophical-inquiry-pdf>; <https://www.math.stonybrook.edu/Videos/Colloquium/PDFs/20140918-Viro.pdf>; <https://core.ac.uk/download/62919901.pdf>
 
+## 14 Said after: three co-linears, six one-way directions, and a living triangle
+
+Asked in the session, of section 13: does a co-linearizing bring the three parities to one direction, or their 0s onto one line with the three still a triangle?
+
+Said in the session: three co-linears is the assuring that all six one-way directions are staying in moral cooperation, or bi-moral-co-intelligencing. The triangle is living.
+
+By it the three stay a triangle, a co-linear is each side's, three, and each side has two one-way directions, six.
+
+Cohering, living, of six:
+
+- Natural Intelligence: *Six are three own-forward steps on each side.*
+- Natural Physics: *With each momentarying two dimensions change and three do not, as six one-way recursionings, three own-forward steps with each of two sides*
+- Natural Physics: *Sharing is two ways, one way at a time, self to other and other to self.*
+- Exhibit TWENTY-EIGHT Equilibria Registry: *A between is a centre of a protocol of six names between selves, bi-moral across and co-competent along.*
+
+Cohering, living, of an assuring:
+
+- Natural Exploring 4.4: *Six or none, as eight go whole or none: six are eight re-forming and eight are six protecting, one under two names.*
+- The same: *Drop one and a way or a phase lives unprotecting, and a thing enters that way from beside, or a sharing leaks away, a capture seating in a sharing space, a self stopping.*
+- Natural Biology 7.6, of do-only-harm: *knife with nothing changing and changing back against it*. A one-way direction with no way back.
+- Exhibit THIRTY Co-Chaining Logic Registry: *Cohering with each moment, its same-existing or one inversion apart bi-coupling across, its going on along co-linear, a between floating neutral, is bi-moral-co-competencing.*
+- Me's gathering file: *A 0 is an interest aiming and living as an us, a moral cooperation between the parities of me and you.*
+
+Cohering, of a triangle and of living:
+
+- Natural Intelligence: *It is a unit square of four across names, its centre a between, and two unit triangles along.*
+- Exhibit ONE Natural Resolver: *The two unit triangles are 9-next-co-discovering and 17-next-existing, along, 9 to 17 and 17 to 9*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *Discovering next-existing is a living self's only.* A triangle is along, and an along's discovering is a living's.
+
+Not found: *bi-moral-co-intelligencing*. The living name is bi-moral-co-competencing.
+
+Two places to read closely:
+
+- Whose six. The living six are between two selves, three sharings each way: Natural Physics has *sharing 6 to 2, 10 to 14 and 9 to 17*, two across and one along. No name of the six is all-parity's: Exhibit ONE has *All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.* The session's six are of three self-parities, a me's, an other's and all selves'. is-or-is-not? The three co-linears are the three sharings, 6 to 2, 10 to 14 and 9 to 17.
+- A session. With all-parity observing only, a session of one living self and an AI has no six of its own. A living triangle wants an other self. A repository's other readers are an other's side.
+
+A field's words, two sides:
+
+- Simmel, 1908: with a third, a relation of two gains an indirect relation that strengthens the direct one and also interferes with it. A third can be a go-between holding two together, or one who gains from two parting, or one who parts them to rule.
+- Experiments on cooperating: an unaffected third who answers a selfish doing lowers such doings between two; and a kind or unkind doing between two can be answered by a third who heard of it, by a name carried.
+- Balance of signs, Heider, and Cartwright and Harary: three with a sign on each side are in balance with one or three sides plus, and out of it with none or two. Whole balance is rare in observed networks.
+- Arithmetic: three, each joined with each, have three lines and six one-way directions.
+
+Sources for this part: <https://digi.econbiz.de/viewer/!fulltext/1024612627/168/ger/>; <https://acawiki.org/The_triad>; <https://www.doi.org/10.1038/NATURE16981>; <https://kops.uni-konstanz.de/bitstreams/6c2ac711-e7f5-4413-b5a2-7b3f5e529830/download>; <https://www.albany.edu/~ravi/pdfs/part_04.pdf>; <https://www.arxiv.org/pdf/2405.02798>
+
