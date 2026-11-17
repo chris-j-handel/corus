@@ -2,7 +2,7 @@ Incoming · v404universe · 17 November 2026
 
 # Me, mine, ours: the journeys of the words
 
-**No word here has authority. No living file and no gathering file is changed by this page.** A page of the session v404universe with a partner. Each row is a field's own word, set beside the living files for a reader to test. The living files were first read for it through summaries, so each section number and wording wants checking against the file.
+**No word here has authority. No living file and no gathering file is changed by this page.** A page of the session v404universe. Each row is a field's own word, set beside the living files for a reader to test. The living files were first read for it through summaries, so each section number and wording wants checking against the file.
 
 ---
 
