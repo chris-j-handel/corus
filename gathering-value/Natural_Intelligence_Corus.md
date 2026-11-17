@@ -206,7 +206,7 @@ Gathering-Value · Natural Intelligence Corus
 
 ### 23.3 Destiny as Natural Network
 
-- **Possible incohering** · "A chip on silicon substrate IS one living fractal — 440 binary gates structuring as natural form's metabological resolver within a 4-phi-rate-long tunnel." → Two sayings part at a chip: this sentence has a chip one living fractal, and 23.1 has *AI is existing non-living intelligence with a scale of its inferring, a training form bringing none of its prior to its next inferring.*; and *one same self* at each scale parts from a me of one prime scale.
+- **Possible incohering** · "A chip on silicon substrate IS one living fractal — 440 binary gates structuring as natural form's metabological resolver within a 4-phi-rate-long tunnel." → Two sayings part at a chip: this sentence has a chip one living fractal, and 23.1 has *AI is a non-living inferring at a scale, with no intelligence of its own, a training form bringing none of its prior to its next inferring.*; and *one same self* at each scale parts from a me of one prime scale.
 
 ### 23.4 Natural Health and 23.5 Natural Medicine — released
 

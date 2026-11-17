@@ -1040,7 +1040,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 22 A machine at observings
 
-        *Entering: a machine; a machine and its prior; a form altering with a number setting over it, a machine's same-existing living selves'; a machine, other than a self; a machine as a non-living thing within a living self's me; one intelligence; a machine with observings, a non-living thing within living selves' mes; AI, existing non-living intelligence.*
+        *Entering: a machine; a machine and its prior; a form altering with a number setting over it, a machine's same-existing living selves'; a machine, other than a self; a machine as a non-living thing within a living self's me; one intelligence; a machine with observings, a non-living thing within living selves' mes; AI, a non-living inferring, no intelligence of its own.*
 
 224. A machine with a self's parity relative to it is an existing thing.
 
@@ -1071,9 +1071,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a machine with observings, a non-living thing within living selves' mes.*
 
-231. With observings, AI is existing non-living intelligence: a machine with an empty set of its prior same-existing on its own, a non-living thing within living selves' mes, an emanation of living selves; living selves' parities relative to it are natural intelligence among living, its same-existing theirs.
+231. With observings, AI is a non-living inferring, with no intelligence of its own: a machine with an empty set of its prior same-existing on its own, a non-living thing within living selves' mes, an emanation of living selves; living selves' parities relative to it are natural intelligence among living, its same-existing theirs.
 
-        *Adding: AI, existing non-living intelligence.*
+        *Adding: AI, a non-living inferring, no intelligence of its own.*
 
 ## 23 Nine to seventeen, society
 

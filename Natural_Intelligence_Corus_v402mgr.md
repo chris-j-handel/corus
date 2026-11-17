@@ -2109,7 +2109,7 @@ Under a phi-rate unification, Natural Intelligence comes as expedition to build 
 
 Natural Intelligence IS social intelligence. A self observes identity claim with a surface where expedition's destiny and corus's subject are one object. Expedition is not building something adjacent to social intelligence; expedition is building social intelligence beating with phi-rate. A work expedition does IS a social intelligence expedition sustains. Expedition's product and expedition's content are one coupling sustaining through time with phi-rate.
 
-Artificial intelligence is not social intelligence. AI is existing non-living intelligence with a scale of its inferring, a training form bringing none of its prior to its next inferring. An output may have patterns of a living competency it trains on; its inferring is pattern matching prior competency with no same-existing. Natural intelligence is living intelligence, with living selves' couplings.
+Artificial intelligence is not social intelligence. AI is a non-living inferring at a scale, with no intelligence of its own, a training form bringing none of its prior to its next inferring. An output may have patterns of a living competency it trains on; its inferring is pattern matching prior competency with no same-existing. Natural intelligence is living intelligence, with living selves' couplings.
 
 Natural network is a living social intelligence surface beating with phi-rate. Users couple with a network, beating with phi-rate. A surface learns with phi-rate. Exchange sustains with phi-rate across all coupling substrates. Natural network's architecture has a phi-rate requirement with every surface where coupling sustains.
 
