@@ -21,7 +21,7 @@ Between the two zones are papers of past sessions whose value has not been read 
 | Cluster | Past sessions and topics | Read whole |
 |---|---|---|
 | Physics | v376 and v377: physics observings and natural torusing, the proposed Natural Physics and its reviews | yes |
-| Bubbling | v403bubble | not yet |
+| Bubbling | v403bubble | yes |
 | The dossiers of open value | v392F | not yet |
 | Carbon | Carbon Dating Explaining, v396 Carbon Co-Chaining Understanding, atom and carbon with primes, carbon scale existing things and ghosts, atomic fractal exploring | not yet |
 | Chemistry | chemistry and water, v392chem | not yet |
@@ -36,7 +36,7 @@ Between the two zones are papers of past sessions whose value has not been read 
 - **Placing.** No file has it yet. It is laid as one lean note in the gathering file of the living file it is about, at the section it is about, by the gathering kit, with no session's name and no story.
 - **Carrying.** It has a term no living file has. It is laid in one gathering file that has no living file of its own. That file is made with the first passage a pass has for it.
 
-**What the first cluster taught.** Matching word for word finds almost nothing, 237 of 11,059 passages: the files' naming has been swept several times after those papers were written. A passage is compared by reading, with the living file's section open beside it. Physics came out at 15 notes placed from about 27,000 words, nothing carried, and everything else already in Natural Physics or its gathering file. Reports and README pages have the field observings: read them too.
+**What the first cluster taught.** Matching word for word finds almost nothing, 237 of 11,059 passages: the files' naming has been swept several times after those papers were written. A passage is compared by reading, with the living file's section open beside it. Physics came out at 15 notes placed from about 27,000 words, nothing carried, and everything else already in Natural Physics or its gathering file. Bubbling came out with nothing new to place: its session had laid its value in 95 notes already, and the pass re-said those 95 with no session, no page and no pointer. Reports and README pages have the field observings: read them too.
 
 `incoming/v404mgr/instruments/each_passage_of_the_past_matched.py` sizes the clusters and writes out each cluster's passages for reading. Its first lines say how to use it.
 
@@ -124,6 +124,6 @@ Plain words. Show the sentence as it is and as you changed it. Ask only when the
 - The copy is current with main and passes its checks. It has 66 lines of three living files improved by word sweeps, six of the nine sweeps waiting for a second reader, and the first sentence improved under v404chaining's lead: the opening's seventeenth, *Each self is living, and each living thing is a self.*
 - The opening's sixteenth is changed in the copy: *Living is inheriting prior-existing: a self's universal set of its prior-existing, now-existing and next-existing.* Two things are open with it before the copy enters. No sentence of the opening says intelligence is living until the nineteenth is improved. Four living sentences elsewhere say living is co-intelligencing. A reader's question is also with v404chaining: by the opening's 4, 5 and 6 the things within a universal set are now-existing, and the sixteenth reads as having prior-existing and next-existing within it.
 - AI is said in three living files of the copy as a non-living inferring, with no intelligence of its own. Exhibit TWO Natural Networking in the copy says parity in each of ten sentences, by Exhibit TWENTY Natural Naming's released words.
-- The first pass over past papers is done for one cluster of nine, Physics. The table above says which are not yet read.
-- About one gathering note in six still carries a mark of the journey, 1,121 of 6,830: a session's name, a date, a pointer to a past page or program, or the story of how it arrived. Most are in the gathering files of Natural Intelligence, Exhibit TWENTY-FOUR Geodesic Improving Method, Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry. Clearing them, the concept left whole, is a job open to a session.
+- The first pass over past papers is done for two clusters of nine, Physics and Bubbling. The table above says which are not yet read.
+- About one gathering note in seven still carries a mark of the journey, about 1,030 of 6,850: a session's name, a date, a pointer to a past page or program, or the story of how it arrived. Most are in the gathering files of Natural Intelligence, Exhibit TWENTY-FOUR Geodesic Improving Method, Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry. Clearing them, the concept left whole, is a job open to a session.
 - `incoming/v404mgr/instruments/read_for_harm.py` is what the managing session runs on each slice.
