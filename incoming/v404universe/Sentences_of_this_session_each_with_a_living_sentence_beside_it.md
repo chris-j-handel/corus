@@ -241,3 +241,42 @@ A field's words. Each line is from general knowledge and wants checking.
 - Husserl: a living now has its just-past held in it and its about-to-come.
 - Physics: each observing is of a past. Light from a thing is the thing as it was.
 
+## 13 Said after: a living triangulating, and a surface bi-folding
+
+Said in the session: living triangulating is geodesic method of co-linearizing the three self parities. Surface bi-folding is two directional, facing each other, triangulating a common geodesic. This is nature's method.
+
+Cohering, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *A self's line and an other's, co-linear, their co-linearizing between self and other with bi-couplings across, is co-competencing, bi-co-momentarying.*
+- Natural Exploring 2.6: *Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.* A line both share: a common geodesic.
+- Natural Exploring 4.5, of three questions: *these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially*. A linearizing triangle is the living files' nearest words to a triangulating.
+- Natural Mathematics: *its edges are bi-foldings, across with bi-morality and along with co-competency: two consecutive inversions on different axes with each step*.
+- Natural Medicine, of a bound's fuzz and a population's: *they are one bi-folding observed with its two sides*.
+- Natural Intelligence: *Natural intelligence is the method of living as a same-existing self.* One method.
+
+Cohering, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences:
+
+- *By a 0, an opening, all-parity its other, a self is bi-folding: its next prior is the other one of two.*
+- *A fold is the oldest of the four through the middle of its three others, to the same far on the other side.* Three others, a triangle, and its middle a 0.
+- *Through a 0 are two directions, the one and its other.* Two directional.
+- *The two cones face each other on one line, co-linear.* Facing each other.
+- *The 0s, one by each fold, are on one line along, between the two lines, each the same step from the 0 before it: a thread, straight, closing at none.* A common geodesic, of 0s.
+- *A me-parity is a fold's line, by its 0, a now moment, aiming by its cone.*
+- *a self by a non-living thing is bi-folding, and no bi-coupling*
+
+Not found: *triangulating* in a living sentence of the set's own, and *nature's method*.
+
+Two places to read closely:
+
+- Three at a right angle, or three on one line. The gathered sequence has *The plane across has two dimensions, at a right angle: the one is other-parity's orienting, and the other all-parity's. A me-parity is the line along.* The session's sentence has the three co-linearizing. They cohere with the 0s coming onto one line, one by each fold, and the three still a triangle. They part with the three parities coming to one direction.
+- Two, or three. A living co-linearizing is of two, a self's line and an other's, and Natural Chemistry has *two parities co-linearizing and neither self sharing while its other is receiving*. The session's is of three.
+
+A field's words:
+
+- Geodesy, triangulating: one length is measured, a baseline, and each other length is worked out from it by angles observed from place to place. A second baseline, measured, tests the whole. On a curved surface a triangle's angles have an excess, and it is allowed for.
+- Davidson: three knowings, of oneself, of an other's mind and of a world, with none before the others; and two creatures answering one common thing and each other, a triangle. Many of his readers hold the argument does not go through.
+- Geometry: each rigid moving of a plane is one, two or three mirror-foldings. Two make a turning or a going along.
+- Geometry of solids: a geodesic over a solid's faces is one straight line with the faces folded flat.
+
+Sources for this part: <https://icsm.gov.au/node/145>; <https://geography.wisc.edu/histcart/?p=3160>; <https://www.britannica.com/technology/surveying/Modern-surveying>; <https://www.cambridge.org/core/books/donald-davidson/knowledge-of-self-others-and-world/021BA5EECA98B73A621EBFDCB5C002A1>; <https://philarchive.org/archive/LUDTTR>; <https://perlego.com/book/1634454/donald-davidsons-triangulation-argument-a-philosophical-inquiry-pdf>; <https://www.math.stonybrook.edu/Videos/Colloquium/PDFs/20140918-Viro.pdf>; <https://core.ac.uk/download/62919901.pdf>
+

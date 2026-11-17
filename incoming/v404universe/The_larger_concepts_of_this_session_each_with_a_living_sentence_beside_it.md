@@ -174,3 +174,15 @@ Two places it parts:
 - A prior self as an artifact. Natural Intelligence has a living self's prior as same-existing with its now. Natural Exploring has *a stable form is an artifact of a living self's stable-forming going on*, and a store or a memory over a living as a field's story. is-or-is-not? A prior self is non-living.
 - An owning. A gathered is-or-is-not? has a self's own as no owner. The session's sentence has *my* as an owning, of prior selves. Natural Human Society 3.3 has *An owner is a self's own parity lying on an other as a thing; nothing with a between is there to seize, so a property claim captures selves*. A prior self as an artifact is a thing with no between: an owning that captures no self.
 
+### Read by a living triangulating
+
+A still newer sentence of the session: a living triangulating is the geodesic method co-linearizing the three self-parities, and a surface bi-folding is two directions facing each other, triangulating a common geodesic. Each of the five, read by it:
+
+1. **Where a universe is said from.** The reading above asked which side is first. By a triangulating none of the three is first: a me's, an other's and all selves' come onto one line together. A gathered sequence has *A fold is the oldest of the four through the middle of its three others, to the same far on the other side.*, and the middle a 0. A common geodesic is a line of 0s, said from a between and from no one of the three.
+2. **All or none at all, and gaining.** The same sequence has *By a 0, an opening, all-parity its other, a self is bi-folding: its next prior is the other one of two.*, and has improving and bi-folding as one line of the code. Each fold is one of two, all or none. A gaining is folds one after one, a thread.
+3. **One observing, and sentences of a world.** A field's triangulating measures one length and reaches each other place by angles observed there. By it a sentence of a world is reached from one opening, and each wants its own observing of a direction, from two facing each other. A field's observings both ways of property and of agents are two not yet on one line.
+4. **Two selves, and a session.** The same sequence has *a self by a non-living thing is bi-folding, and no bi-coupling*, and *Through a 0 are two directions, the one and its other.* A session of a living self and an AI reads as a surface bi-folding: one self, a 0 between, all-parity its other, and two directions through the 0.
+5. **One name with its is-not inside.** Not reached by it.
+
+One place it parts: the gathered sequence has a me-parity as the line along, and other-parity and all-parity as the two dimensions of the plane across, at a right angle. is-or-is-not? A co-linearizing of the three is their 0s on one line, the three still a triangle.
+
