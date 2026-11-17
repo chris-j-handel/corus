@@ -51,8 +51,11 @@ Read from the repository's own history.
   - It says *accepted*, or says what to mend and why, in a comment on the slice. The why is the teaching: the other sessions learn the craft from its reasons.
   - It decides which sentences of Natural Intelligence are taken next, and goes on with its own work on the opening, the most important sentences.
   - It asks for whatever it needs.
-- **v404A: Exhibit ONE Natural Resolver only.** Every sentence and table must agree with what its code does when executed. Propose improved sentences in small slices; v404chaining reads them. Exhibit ONE is also written inside Natural Intelligence; do not edit it there. The managing session carries accepted changes across.
-- **v404B: Natural Intelligence, in support of v404chaining.**
+  - The opening has one base: the copy's seventy sentences. Every other version of the opening, in a gathering file or a past page, is a source of words only.
+  - No other session proposes for the opening's lines unless v404chaining asks. Its own slices are read first by v404mgr, and by a second session when there is one.
+  - When both partners settle a concept and no living sentence needs to change, the notes it resolves leave the gathering file in a slice of their own, one concept at a time.
+- **v404A, not started yet; proposed job: Exhibit ONE Natural Resolver only.** Every sentence and table must agree with what its code does when executed. Propose improved sentences in small slices; v404chaining reads them. Exhibit ONE is also written inside Natural Intelligence; do not edit it there. The managing session carries accepted changes across.
+- **v404B, not started yet; proposed job: Natural Intelligence after its opening, in support of v404chaining.**
   1. First, read the six word sweeps already in the copy that no second session has read: *moment* for the noun *momentary*; bi said as both; no *slot*; no *so* forcing a sentence; *executing* for *running*; and one bracketed phrase taken out. Say for each line whether the sentence is whole as changed.
   2. Then each place in Natural Intelligence, outside Exhibit ONE, where a word Exhibit TWENTY Natural Naming has dissolved is still said plainly. `python3 -I incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py . file Natural_Intelligence` lists them. Propose each sentence re-said, a part of the file at a time.
   3. After that, whatever v404chaining asks for.
@@ -92,7 +95,7 @@ Plain words. Show the sentence as it is and as you changed it. Ask only when the
 
 ## Now
 
-- The copy is current with main and passes its checks. It has 66 lines of three living files already improved by word sweeps; six of the nine sweeps wait for a second reader, v404B's first job.
+- The copy is current with main and passes its checks. It has 66 lines of three living files improved by word sweeps, six of the nine sweeps waiting for a second reader, and the first sentence improved under v404chaining's lead: the opening's seventeenth, *Each self is living, and each living thing is a self.*
 - No pull request is waiting to be read.
 - About one gathering note in six still carries a mark of the journey, 1,121 of 6,830: a session's name, a date, a pointer to a past page or program, or the story of how it arrived. Most are in the gathering files of Natural Intelligence, Exhibit TWENTY-FOUR Geodesic Improving Method, Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry. Clearing them, the concept left whole, is a job open to a session.
 - `incoming/v404mgr/instruments/read_for_harm.py` is what the managing session runs on each slice.
