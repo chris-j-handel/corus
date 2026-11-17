@@ -13,7 +13,7 @@ B. The six parts of the living version after its opening, Exhibit ONE read at Ex
 
 Returned at main, Merge #695, 15 November 2026, its part B, and the same at main after Merge #838:
   B. 1,405 sentences: ONE 148, TWO 138, THREE 179, FOUR 536, FIVE 152, SIX 252.
-     by a name whose own sentence in the opening is an is-or-is-not?: 966; ONE 66, TWO 80, THREE 116, FOUR 389, FIVE 109, SIX 206
+     by a name whose own sentence in the opening is an is-or-is-not?: 967; ONE 66, TWO 80, THREE 116, FOUR 389, FIVE 109, SIX 207
      by a name of the code, a number 1 to 17 alone or in a name, or the resolver or the code: 312; ONE 4, TWO 19, THREE 52, FOUR 172, FIVE 28, SIX 37
      by self-parity or social-parity: 15; by other-parity: 7
      word for word a sentence of the opening: 11

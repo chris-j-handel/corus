@@ -17,10 +17,10 @@ Returned at main, Merge #714, 15 November 2026:
   1. 46 names: 11 with their own sentence an is, 34 an is-or-is-not?, 1 an is-not
   2. of the 18 with an is, 1 and 6 have each name's own sentence an is; 69 has *moment* only; each other of the 18,
      fifteen, has a name whose own sentence is an is-or-is-not?
-  3. about 1,405 sentences after the opening: 384 with no such name, 393 with one, 278 with two, 203 with three,
+  3. about 1,405 sentences after the opening: 383 with no such name, 391 with one, 278 with two, 206 with three,
      147 with four or more; a self 570, a parity 286, a moment 211, living 143, same-existing 138, a bi-coupling 129,
-     a 0 96, an other 88, a same-existing-society 87, receives 83, possibling 67, observing 65, discovering 54
-     with *moment* an is: 439 with no such name, 966 with one or more
+     a 0 104, an other 88, a same-existing-society 87, receives 83, possibling 67, observing 65, discovering 54
+     with *moment* an is: 438 with no such name, 967 with one or more
 """
 import collections, glob, os, re, sys
 
@@ -41,7 +41,7 @@ for n in sorted(sent):
 
 def forms(name):
     n = re.escape(name)
-    if name == '0': return r'(?<![\w.+-])0(?![\w.])'
+    if name == '0': return r'(?<![\w.+-])0(?!\w|\.\d)'
     if name == 'me': return r'\bmes?\b(?!-)'
     if name == 'self': return r'\bsel(f|ves)\b(?!-)'
     if name == 'other': return r'\bothers?\b(?!-)'
