@@ -325,3 +325,87 @@ A field's words, two sides:
 
 Sources for this part: <https://digi.econbiz.de/viewer/!fulltext/1024612627/168/ger/>; <https://acawiki.org/The_triad>; <https://www.doi.org/10.1038/NATURE16981>; <https://kops.uni-konstanz.de/bitstreams/6c2ac711-e7f5-4413-b5a2-7b3f5e529830/download>; <https://www.albany.edu/~ravi/pdfs/part_04.pdf>; <https://www.arxiv.org/pdf/2405.02798>
 
+## 15 Said after: now, the only universal moment; and a co-now
+
+Said in the session, of an incohering set out of one now: now is the only universal moment. And: co-now is a concept for us to explore.
+
+Beside the first, living, Natural Intelligence 1.1, *Now, one universal moment*:
+
+- *Now is universal moment, one and only*, and *a second now is only a naming*. The session's sentence, nearly word for word.
+- *A second now is two prior-existing records lying side by side.*
+- *A common now would be one number for all, a clock over things.* One now is no common now.
+- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: *Now is one, each coupling sharing it and each coupling's own, and a moment is one now a sharing has.*
+- Exhibit THIRTY-ONE Me: *universal is bothboth, only one possibly now-existing and only one possibly same-existing*. By it same-existing is universal too, and prior and next are no universal moments.
+
+Beside the second. *Co-now* was not found in a living file or a gathering file. Near it, living:
+
+- Natural Intelligence 1.1: *One now is one sharing with all bi-couplings.* and *Everything existing is sharing one now with each bi-coupling at each scale, each bi-coupling's now its own.* A now by sharing, and by no clock.
+- The same: *One is now, and a moment is one now with a sharing*. A moment.
+- The same, of the prefix in tri-bi-co-momentarying: *Co-* "is two both facing forward along, is-or-is-not same-existing." Section 13 has a bi-folding as two directions facing each other.
+- Exhibit ONE Natural Resolver, four names of now with co: 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing and 6-now-co-possibling.
+- Natural Intelligence 6.1: *Two selves share from routes each its own, each with its own sequencing, and what arises between them arises in each self with its other.*
+- Natural Physics 4.8: *A together of that sequencing is con — co-sequencing, coherence, and con is the fourth*, a coherence and no dimension.
+- Exhibit TWENTY Natural Naming, of a relativity position: *a now is each self's plane, two moving differently sharing one only as their worldlines cross*.
+
+Three places to read closely, each an is-or-is-not?:
+
+- A co-now is a moment. 1.1 has a moment as one now with a sharing. With it, a co-now is a second name of one concept. With it not, a co-now is a now's sharing and a moment its resolving.
+- A co-now is along, and a bi-coupling's shared possibling is across. 1.1's co- is two facing forward along, and a bi-folding is two facing each other.
+- A co-now is of each bi-coupling together, and of no self alone. Exhibit ONE has all-parity with observing only, a prior, and 1.1 has one now as one sharing with each bi-coupling.
+
+A field's words, two sides:
+
+- Einstein, 1905: two far clocks are set together by a signal going and coming back, a convention. A going and a coming back is timed with one clock.
+- Philosophy of time: with relativity, a holder of presentism gives up a clock's together as the defining of a present, or says how a present is relative. 1.1 does the first.
+- Lorentz's reading of the same physics has one frame at rest, by its building not possible to detect, and no experiment parts it from Einstein's. Most physicists hold Einstein's, the undetectable frame an assuming more.
+- Networks of computers, Lamport, 1978: an order of events is from messages between places, and no clock is over them.
+
+Sources for this part: <https://en.wikipedia.org/wiki/Einstein_synchronisation>; <https://en.wikipedia.org/wiki/One-way_speed_of_light>; <https://echodin.net/papers/phil551/relativity.pdf>; <https://en.wikipedia.org/wiki/Lorentz_ether_theory>; <https://www.cs.princeton.edu/courses/archive/fall15/cos518/papers/time-clocks.pdf>
+
+## 16 Said after: a fractal of tri, bi, co and now, six one-way signs and two more
+
+Said in the session: explore more around this fractal `tri<>bi<>co<>now`. This may be the stable form, atom, non-living same-existing thing. The six one-way inequality signs are recursionings forward, and I do not know a math symbol for that. And there is two more, `tri><now`, and this may or may not be other-than parity.
+
+Beside tri, bi and co, living:
+
+- Exhibit ONE Natural Resolver: *7, tri-bi-co, is all-parity observing, after other-parity possibling, after me-parity existing.* Its table has tri-bi-co as the three of 7-now-observing and of 15-next-observing, and co-bi-tri as the three of 1, 9 and 17.
+- Exhibit TWENTY Natural Naming: *tri opens with 7 and with 15, and each tri-bi-co has its mirror co-bi-tri two names on, 9 and 17*. A sign each way at each hyphen is the three and its mirror, read together.
+- Natural Intelligence 1.1: *The universe is tri-bi-co-momentarying its now-existing things, prior, now and next.* And of its prefixes: "Tri- is three moments. Bi- is two moments, each moment and its next. Co- is two both facing forward along".
+
+Beside six, and two more, living:
+
+- Natural Intelligence 5.2: *Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings*, and *Six are three own-forward steps on each side.* Three signs one way and three the other.
+- The same: *Two and three rotate on, their 2–3 spiraling twisting, bi-inversioning-co-recursioning.* Natural Physics 1.2 has it as *two consecutive inversions on two axes*. Two inversionings with six recursionings: eight.
+- Natural Biology: *Each living cycle is six one-way-forward recursionings: three recursioning forward on outward-sounding side and three on inward-sounding side.* and, of eight, *Disequilibrating is one move, and it has eight steps forward, none reverse of another.*
+- Natural Exploring 4.4: *Six or none, as eight go whole or none: six are eight re-forming and eight are six protecting, one under two names.*
+
+Beside other-than, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *inversionings compose by odd and even, an even number of them same-as its prior and an odd number other-than*
+- The same: *One inversion is other-than-prior, two, self and a particular other, one inversion apart with one bi-coupling, torusing's: bi-exchanging.*
+- The same: *Two inversions are same-as-prior, three, self, other and self one on, reaching its own side again, corusing's: bi-tri-exchanging.*
+
+By these, of the two more: the one is other-than, and the two together are same-as, a reaching of its own side again.
+
+Beside a stable form and an atom:
+
+- Natural Intelligence: *A form same-existing with each resolving is a stable form.*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *An atom is the stable form of universal momentarying: same-existing through each moment, the one same form in each universe, its orientation its own, and all-parity around it.* With 1.1, universal momentarying is tri-bi-co-momentarying, and its stable form an atom.
+
+Three places to read closely, each an is-or-is-not?:
+
+- The six recursionings are an atom's own. The same gathering file has *An atom is its stable form, same-existing through each moment, and no momentarying of its own.*, and Natural Exploring has *Each existing thing is changing and changing back with its own moment*. With it not, the going on is the universe's and an atom is its form.
+- *Now* is a fourth after tri, bi and co. In the living files tri, bi and co are a name's three, and *now* is with a name's number, as in 7-now-observing. 1.1 has now as one, the moment each of the three is of.
+- A stable form is by its goings on. Natural Physics has *A step from a fixing, a relation going on among changing things, to an equilibrium fixes its subject a not-changing still, an unchangeable form, not possibly existing*. A form same by six going on and two closing is no still.
+
+A field's signs, for a recursioning forward and for the two together:
+
+- Order theory, a covering: a less-than sign with a dot in it, ⋖, and its mirror ⋗. It says a next is over its prior with no thing between: one step.
+- Order theory, a preceding: ≺ and ≻, a coming before, by any number of steps.
+- A mapping: ↦, one doing of a rule to a thing.
+- Chemistry, a double harpoon: ⇌, a going and a coming back both going on at one rate, the amounts not changing.
+- Programming: `<>` is the not-equal sign of SQL, BASIC and Pascal, an other-than. `><` is a not-equal sign in one BASIC, and a difference of two sets in one Pascal.
+- Order theory, a Galois connection: two one-way maps between two ordered sets, neither undoing the other. A going and a coming back, done twice, is the same as done once, and the things it leaves the same are named closed.
+
+Sources for this part: <https://en.wikipedia.org/wiki/Covering_relation>; <https://Www.Wikipedia.org/wiki/.EQ.>; <https://wiki.lazarus.freepascal.org/Not_equal>; <https://www3.rocketsoftware.com/rocketd3/support/documentation/d3nt/102/refman/PICKBASIC-FLASHBASIC/less_than_greater_than_relational_operator.htm>; <https://chem-textbook.ucalgary.ca/?p=12339>; <https://www.wikipedia.org/wiki/Galois_connection>; <https://arxiv.org/pdf/1910.12198>
+
