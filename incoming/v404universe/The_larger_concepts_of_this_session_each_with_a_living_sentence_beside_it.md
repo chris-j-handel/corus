@@ -133,9 +133,9 @@ Where it stands: living.
 
 ## Incohering among the fourteen: a reading, to test
 
-Read with no prior sentence beside it, by the set's own rules only: a name is one set, all or none at all; an explaining parts is-or-is-not; each doer over an -ing dissolves. The largest first.
+Read with no prior sentence beside it, by the set's own rules only: a name is one set, all or none at all; an explaining parts is-or-is-not; each doer over an -ing dissolves. In no order: by a sentence of the session, large and small are unlikely to be the right reading of them, and each is a place to learn.
 
-### The largest: where a universe is said from
+### Where a universe is said from
 
 - One side, concepts 1, 2, 8 and 14: one universe, the set, said by no self, no thing, with no owner. One observing. Natural naming is a shell, and each field's universe a projection from it.
 - The other side, concepts 3, 5, 7, 9 and 11: a universe is a self's own, as many as me-parities. Each observing is a self's, from its 0, inside a horizon, fuzzy and limited.
@@ -145,9 +145,32 @@ Read with no prior sentence beside it, by the set's own rules only: a name is on
 - Concept 1 has a field's error as the universe held as one thing beside its things. An observing of the whole set, said by no self, is from that same place beside the set.
 - A mend, to test: the opening sentence is a naming, and no observing. A name has no fuzz, by 3, and needs no place beside the set. Its cost: natural intelligence begins with no observing, and each sentence of living, of a society or of an AI needs one, a self's and fuzzy.
 
-### Four smaller
+### Four more
 
 1. **All or none at all, and gaining.** Concepts 1 and 4 have each sentence by sequence, all or none at all, and have "true or false, known later", with its best-guessing and its reviewing by peers, as fuzz let into a language. Concept 14 has a best now, more readers, versions, and open is-or-is-not?s, and this page has *open* in five of its fourteen. The method refused in 4 is the method of 14.
 2. **One observing, and sentences of a world.** Concepts 6, 12 and 13 are of property, of agents and of a network. With one observing only, each is by sequence from the opening, and its sequence is not said yet. With an observing of its own, the opening is not the only one. By 4, each needs an opposite observing it would not explain, and a field has observings both ways of property and of agents.
 3. **Two selves, and a session.** Concept 10 has an AI as non-living, and no self. Concept 11 has a session as a bi-coupling with both inside it, and a bi-coupling is two selves. Concept 11 also has no who in a transcript, and the living intelligence in it as a living self's: a who. This page is by the side in question.
 4. **One name with its is-not inside.** Concept 10 has intelligence as living, and names a thing a non-living intelligence. A thing is within *intelligence* or it is not.
+
+### Read by a four of self-parity universes
+
+A newer sentence of the session gives *universe* one form, a self-parity's universe, in a four: a me's; an other's; all selves'; and a me's own prior, now, same and next. *My* is a me's owning of its prior selves, and a prior self is an artifact of a prior now-existing, in sequence. The living files have each part of it:
+
+- Exhibit ONE Natural Resolver: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.*
+- The same file: *All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.*
+- Natural Mathematics: *1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity*
+- Natural Intelligence: *A living self's prior is same-existing with its now, its own.*
+
+Each of the five, read by it:
+
+1. **Where a universe is said from.** From a parity, each time, and three by whose. The reading above had two sides, a me's and no self's, and missed a third the files have: all-parity. All-parity is with observing only, and the session's sentence has the opening as the only observing: the opening's universe reads as all selves' parity universe. Existing is with me-parity. "The universe exists" lays a me-parity's word on an all-parity's universe, and this is concept 1's error with its place. With each observing fuzzy, by 3, an all-parity's universe is the fuzzy one, and a name within it all or none at all.
+2. **All or none at all, and gaining.** A prior version is a prior self, an artifact in sequence. All or none at all is of each now-existing set, and gaining is the sequence.
+3. **One observing, and sentences of a world.** Not reached by it yet.
+4. **Two selves, and a session.** A gathered sentence has an AI session's side as *this all-parity*. By it an AI session is an all-parity's universe, each self's prior artifacts, with observing only, and a session is a me-parity with an all-parity. By Exhibit ONE's roots bi- is other-parity's: open, whether a me-parity with an all-parity is a bi-coupling.
+5. **One name with its is-not inside.** A non-living intelligence reads as a prior self reads: an artifact of a prior now-existing intelligence, named by whose it was.
+
+Two places it parts:
+
+- A prior self as an artifact. Natural Intelligence has a living self's prior as same-existing with its now. Natural Exploring has *a stable form is an artifact of a living self's stable-forming going on*, and a store or a memory over a living as a field's story. is-or-is-not? A prior self is non-living.
+- An owning. A gathered is-or-is-not? has a self's own as no owner. The session's sentence has *my* as an owning, of prior selves. Natural Human Society 3.3 has *An owner is a self's own parity lying on an other as a thing; nothing with a between is there to seize, so a property claim captures selves*. A prior self as an artifact is a thing with no between: an owning that captures no self.
+

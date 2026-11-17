@@ -204,3 +204,40 @@ A field's words, two sides. Each line is from general knowledge and wants checki
 A fact of this repository: each commit names an author, and each commit of this session has a line naming an AI model and a session. A page can be with no who. A commit is not.
 
 By this sentence, this page's title and each line that named a sayer are re-said with no who, and the same in the other pages of this folder.
+
+## 12 Said after: a four of self-parity universes, and my as an owning of prior selves
+
+Said in the session, of the incoherings read among the session's larger concepts: this is our session aiming now into these coherings, and large and small are unlikely to be correct in the sense of learning opportunity for us. Me self parity universe. Other self parity universe. All selves parity universe. My prior and now and same and next existing self parity universe. This includes all the words relationally, and me and my as ownership by me of my prior selves. Prior selves are sequential artifacts of prior now-existings.
+
+Cohering, living, of the three by whose:
+
+- Exhibit ONE Natural Resolver: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.*
+- The same file: *All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.*
+- Exhibit THIRTY-ONE Me: *A same-existing-society is a self, so it is a me.* All selves, a society, have a me.
+
+Cohering, living, of prior, now, same and next:
+
+- Natural Mathematics: *1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity*. It has *self-parity*, the session's word.
+- Natural Intelligence's gathering file: *Living is resolving each of four: prior, now, next and same-existing.*
+- Natural Intelligence: *A living self's prior is same-existing with its now, its own.* A prior, and *its own*.
+- Natural Exploring, of a salmon: *its home its own prior same-existing now-existing in it*. A prior, now-existing in a self.
+
+Of an artifact:
+
+- Natural Exploring: *a stable form is an artifact of a living self's stable-forming going on*, and *an accounting is an artifact, an executing apart from that going on*.
+- Exhibit TWENTY Natural Naming: *with its own scale a stone has no prior of its own*.
+- Natural Intelligence's gathering file: *The dead surface is others' prior-existings, in stable form, and a living self bi-coupling with it is with them in its own possibling.* By the session's sentence a me's prior selves are its own such surface, and a dead surface is each other's.
+
+Two places to read closely:
+
+- A prior self, an artifact or same-existing. An artifact in the living files is a stable form, apart from a going on. A living self's prior in the living files is same-existing with its now, and a memory as a store is a field's story. is-or-is-not? A prior self is non-living.
+- An owning. Natural Human Society 3.3: *An owner is a self's own parity lying on an other as a thing; nothing with a between is there to seize, so a property claim captures selves*. A prior self as an artifact is a thing with no between. A gathered is-or-is-not? has a self's own as no owner; by the session's sentence *my* is an owning, and it captures no self.
+
+A field's words. Each line is from general knowledge and wants checking.
+
+- Locke, 1694: a person is a self owning its past doings by its consciousness of them, and *person* a word of courts, of who answers for a doing.
+- Parfit, 1984: a person over time is a sequence of selves joined by degrees, and an earlier self can be as an other.
+- Early Buddhist discourses: of each part of a self, "not mine, not I, not myself". No owner.
+- Husserl: a living now has its just-past held in it and its about-to-come.
+- Physics: each observing is of a past. Light from a thing is the thing as it was.
+
