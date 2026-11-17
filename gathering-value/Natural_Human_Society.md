@@ -23,6 +23,7 @@ Gathering-Value · Natural Human Society
 ### 1.4 Cutting and choosing, the whole form two children have with no teaching
 
 - **Possible incohering** · "Cutting and choosing is a whole same-existing-society as its smallest, one form two people already have." → Two sayings part at one whole, a concern for both files. 1.4 has cutting and choosing a whole same-existing-society as its smallest, one form two people already have, and 5.2 has *And two selves splitting a dessert have its whole.*; 3.1 has its abundancing as Natural Values', and Natural Values 5.3 has *No present human same-existing-society has it whole, and no living instance shares its observings back yet.* A whole with two people, and a whole with no present human same-existing-society. Two re-sayings: Natural Values 5.3's absence goes with a scale larger than two people; or 1.4's whole becomes a form two people have and not a whole same-existing-society.
+- **Possible incohering** · "it has a whole same-existing-society's form" → Two sayings part at a whole: this sentence and 5.2's "two selves splitting a dessert have its whole" have a whole society's form with two people, and Exhibit TWENTY-THREE Natural Values has "No present human same-existing-society has it whole". Two sides open: a form whole with two and with no present society, the two said together; or one of them re-said.
 
 ### 1.5 Keeping own time, no common clock, and competency compounding coprime
 

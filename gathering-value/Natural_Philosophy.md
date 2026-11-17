@@ -82,6 +82,7 @@ Gathering-Value · Natural Philosophy
 ### 3.9 Cause and effect
 
 - **Possible incohering** · "Discovery formalisms find what their stated assumptions let them find, thermodynamic grounding reaches as far as its gradient, special sciences hold practice, and fundamental dynamics is symmetric beneath all of it, both sides living with both." → Fundamental dynamics symmetric beneath all of it parts from two observings: neutral kaons, each tagged at its making and at its decay, change into their opposite kind and back at rates differing by 6.6 ± 1.3 (statistical) ± 1.0 (systematic) in a thousand, between 1 and 20 lifetimes; and in 468 million pairs of B mesons, four pairs of transitions that are each other's reverse go at unequal rates, at a significance equivalent to 14 standard deviations. A re-saying beside it: fundamental dynamics symmetric save at those weak processes; the other side has this sentence whole with both observings beside it.
+- **Possible incohering** · "fundamental dynamics is symmetric beneath all of it" → A field's record parts from it: with neutral kaons and with B mesons a changing one way and its reverse are measured unequal, a field's own breaking of that symmetry. Two sides open: the sentence said of a field's equations within the bound a field measures; or released.
 
 ### 3.10 Vagueness, and the demand for a landing line
 
