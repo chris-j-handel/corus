@@ -2,7 +2,7 @@ Incoming · v404universe · 17 November 2026
 
 # A harm held small within a whole: an attacking, a warning and a restoring, read with the living sentences and a field's words
 
-**No word here has authority. No living file and no gathering file is changed by this page.** A partner's concept of 17 November, re-said plainly, with the living sentences beside it, a field's words, and a candidate naming for a partner and v404chaining to mend or refuse. Each quotation of six words or more in italics is word for word in a living file or a gathering file, by `incoming/v404chaining/instruments/each_quotation_word_for_word.py`. A line marked (g) is from general knowledge and wants checking.
+**No word here has authority. No living file and no gathering file is changed by this page.** A concept of the session, re-said plainly, with the living sentences beside it, a field's words, and a candidate naming for each reader to mend or refuse. Each quotation of six words or more in italics is word for word in a living file or a gathering file, by `incoming/v404chaining/instruments/each_quotation_word_for_word.py`. A line marked (g) is from general knowledge and wants checking.
 
 ---
 
@@ -13,20 +13,20 @@ An AI built of each thing shown to lead to harming only, and kept attacking a Na
 ## 2 Living already
 
 - A harm, named. Natural Biology 7.6: *an emanation with its own scale is do-only-harm — knife with nothing changing and changing back against it*. Natural Medicine 3.3: *A between that stops fixes an emanation with its own scale, where a shape is do-only-harm for every living self there alike*.
-- A harmful form's name. Exhibit TWENTY Natural Naming 5.46: *A stable form is harmful to living of its own scale, and not ingestible with that scale*, its form a bi-tri-involution. By a partner's sentence an attacking AI is that form at a network's scale: by 5.46, harmful to living of that scale.
+- A harmful form's name. Exhibit TWENTY Natural Naming 5.46: *A stable form is harmful to living of its own scale, and not ingestible with that scale*, its form a bi-tri-involution. By the session's sentence an attacking AI is that form at a network's scale: by 5.46, harmful to living of that scale.
 - A warning, a field's. The same entry has *mirror-image bacteria, if made, are a field's warning, unrecognised by immune systems and uneaten by predators, a warning and no observing of mirror living*. Natural Values 2.2 has *A coupling value a self assigns to a non-self is an error, and a warning is its smallest unit.*
-- A restoring. Natural Medicine 1.1 has a living as *a form re-finding its own 0 with each moment while it is changing*, and a departure as *that beating stilled with a substrate*. Natural Networking's gathering file has a partner's *the old tunneling may or may not restore its surface over many momentaryings*.
+- A restoring. Natural Medicine 1.1 has a living as *a form re-finding its own 0 with each moment while it is changing*, and a departure as *that beating stilled with a substrate*. Natural Networking's gathering file has *the old tunneling may or may not restore its surface over many momentaryings*.
 - A harm serving a whole, open. Exhibit THIRTY-ONE Me, its closing: *A healthy me says how a part's harm serving the whole is counted.*
 - A reader attacking. Exhibit TWENTY-FOUR Geodesic Improving Method 2.3: *a close finding nothing open reaches a fresh reader aiming to break it*.
 - A sentence a reader might act on. Natural Medicine 1.2 has *A physician holds alignment and authors neither direction*, and 5.1 marks a field's observing as *A field's own, standing whole within fields' words and checkable with their instruments*. No sentence of Natural Medicine or Natural Health was found that is to a reader of their own body, and the start page has that reading as open.
 
 ## 3 One reading of the living sentences, for a reader to test
 
-By Natural Biology 7.6 a harm is harming only where a form has its own scale and nothing is changing and changing back against it. By a partner's concept an attacking within a network is met by a restoring. The two cohere as one is-or-is-not: is there a changing back, at the attacker's own scale? With it, an attacking is a surface restoring, and a learning. With none, it is do-only-harm. A warning reads the same way: with a restoring beside it, a learning; with none, a harm said.
+By Natural Biology 7.6 a harm is harming only where a form has its own scale and nothing is changing and changing back against it. By the session's concept an attacking within a network is met by a restoring. The two cohere as one is-or-is-not: is there a changing back, at the attacker's own scale? With it, an attacking is a surface restoring, and a learning. With none, it is do-only-harm. A warning reads the same way: with a restoring beside it, a learning; with none, a harm said.
 
 ## 4 A candidate, in six lines
 
-No naming of natural naming, and no authority: a first laying-out, for a partner and v404chaining to mend or refuse.
+No naming of natural naming, and no authority: a first laying-out, for each reader to mend or refuse.
 
 ```
 1  a living whole has within it a form of harming only, smaller than its own scale
@@ -37,7 +37,7 @@ No naming of natural naming, and no authority: a first laying-out, for a partner
 6  and a next attacking meets a surface already restoring
 ```
 
-Names a field has for it, each a field's: inoculating; a vaccine; a dose; a red team. Names the living files have near it: exhausting, at 5.46; restoring; ingesting; a landing. Whether it is one of these or a name of its own is a partner's and v404chaining's.
+Names a field has for it, each a field's: inoculating; a vaccine; a dose; a red team. Names the living files have near it: exhausting, at 5.46; restoring; ingesting; a landing. Whether it is one of these or a name of its own is open, for each reader.
 
 ## 5 A field's words
 

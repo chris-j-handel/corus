@@ -2,7 +2,7 @@ Incoming · v404universe · 17 November 2026
 
 # How humanity has held the concept of a universe
 
-**No word here has authority. No living file and no gathering file is changed by this page.** A page of the session v404universe with a partner. Each row is a field's own word, set beside the living files for a reader to test. The living files were first read for it through summaries, so each section number and wording wants checking against the file.
+**No word here has authority. No living file and no gathering file is changed by this page.** A page of the session v404universe. Each row is a field's own word, set beside the living files for a reader to test. The living files were first read for it through summaries, so each section number and wording wants checking against the file.
 
 ---
 
@@ -363,7 +363,7 @@ Cited from general knowledge and not opened this session; check before quoting:
 
 ## No universe with no one observing: a field's long quarrel, and its circle
 
-A partner asked whether there is a long history of confusion here, and whether it is a chicken-and-egg circle. A field's record, each as its field says it. Lines marked (g) are from general knowledge and want checking.
+Asked in the session: is there a long history of confusion here, and is it a chicken-and-egg circle? A field's record, each as its field says it. Lines marked (g) are from general knowledge and want checking.
 
 - About 475 BCE, Parmenides: thinking and being are the same. (g)
 - 9th to 16th century, Advaita Vedānta: two doctrines that differ only in their order. In one the world is created and then seen. In the other, set out whole by Prakāśānanda about 1550 to 1600, a thing is only while it is seen, and the seeing is the creating.
