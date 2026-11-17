@@ -36,7 +36,7 @@ It says:
      places in the living files and in Natural Intelligence's gathering file
   6. each name the living opening has in bold, in a line of the candidate with no line of its own in it
 
-Returned at main, Merge #835, 16 November 2026:
+Returned at main, Merge #843, 16 November 2026, the line of a parity with a partner's newer sentences:
   1. eleven lines: 7, 9, 10, 13, 14, 15, 17, 18, 19, 27 and 33. Six by their own sentences: 7, parity; 10,
      is-or-is-not and non-living; 13, self and other; 17 and 18, me-parity; 19, parity and all-parity. Six by an
      adding: 9, 14, 15, 17, 27 and 33, line 17 by each. Line 1 has other a plain word.
@@ -46,10 +46,10 @@ Returned at main, Merge #835, 16 November 2026:
   2. two circles of lines: 10 with 11, a name and is-or-is-not; and 17, 18 and 23, a self, a me and a me-parity.
   3. thirteen parts with a name before that name's own sentence, and no circle of sentences: each circle of
      lines opens by its sentences.
-  4. 95 parts: 68 own sentences, 21 addings and 6 notes. Eighteen go to an other place, ten own sentences and
+  4. 96 parts: 69 own sentences, 21 addings and 6 notes. Eighteen go to an other place, ten own sentences and
      eight addings, and each other part is in the candidate's own order. The binary again: each part of the
      order is after the own sentence of each name in it.
-  5. eighteen bonded names with no line of their own. Seven are in no living file: non-same-existing,
+  5. nineteen bonded names with no line of their own, self-orienting the newest. Seven are in no living file: non-same-existing,
      society-self, now-and-same-existing, other-than-self-parity, prior-and-same-existing, self-interesting and
      self-other. now-existing is in twelve lines of the candidate and in seventeen living files of thirty-three.
   6. two: universal set, in lines 18, 24, 25 and 44; and stable form, in lines 17, 48 and 51.
@@ -68,7 +68,7 @@ the living opening has in bold, with now-existing, prior-existing and next-exist
   4. a place gathered already, of GATHERED, by the same two readings
   5. each sentence with a 0 and a full stop after it
 
-Returned at main, Merge #842, 16 November 2026:
+Returned at main, Merge #843, 16 November 2026:
   1. seventy sentences in four groups, opening with the first, the twelfth, the twenty-fourth and the
      fifty-second, as Exhibit THIRTY Co-Chaining Logic Registry's first four groups open. Each of seventy is
      after the own sentence of each name in it. Ten have no name together with the sentence each is after: 24,
@@ -79,8 +79,10 @@ Returned at main, Merge #842, 16 November 2026:
   2. the two sentences of a 0 after 36: nine, 31 away. 60 after 58: nine, 60 and 61 away and 59 new. 64 after
      61: eight, 62 and 64 away. 70 after 68: nine, 70 away. The four together: five, 24, 29, 44, 59 and 69.
      With each, each sentence is after the own sentence of each name in it.
-  3. with 29 and 44 re-said: three, 24, 59 and 69. With surface alone a form: two, 24 and 69, a group's
-     opening sentence and the opening's last.
+  3. with 44 re-said, opening with By resolving among parities: four, 24, 29, 59 and 69. With surface alone a
+     form: three, 24, 29 and 69, a group's opening sentence, the sentence of a 0 and the opening's last.
+     A re-saying of 29 by a parity's two directions, of this reading as it was, is away: by a partner's word,
+     at main with Merge #843, a parity is not one of two.
   4. 61 after 32: nine, 61 away and 60 as it was; and 61 is ahead of the own sentence of a same-existing-society.
   5. two: 37 and 41. By `opening_base.py`'s form a 0 with a full stop after it is no 0.
 """
@@ -94,8 +96,7 @@ GOINGS = (('the two sentences of a 0 after the sentence of an agreeing parity', 
           ('the sentence of a living file after the sentence of inward and outward', (64,), 61),
           ('the sentence of next-possibling-same-existing after the sentence of a living expedition', (70,), 68))
 GATHERED = ('the sentence of inward and outward after the sentence of a living parity\'s me', (61,), 32)
-RESAID = {29: "A **0** is a between of a parity's two changing directions.",
-          44: 'By resolving among parities, a self sharing 0 is **do-no-harming**.'}
+RESAID = {44: 'By resolving among parities, a self sharing 0 is **do-no-harming**.'}
 JOINING = set('a an the is are of with and its each it in on to as for or by one only while whose that'.split())
 
 def living_reading():
@@ -180,7 +181,7 @@ def living_reading():
         it = iter(w_.lower() for w_ in new)
         assert all(any(x == y.lower() for x in it) for y in old), ('a word of the living sentence away', n)
         resaid[n] = t
-    w = with_none(o, resaid); print('3. the four with two sentences re-said, each word of the living sentence in its re-saying in order:', len(w), w)
+    w = with_none(o, resaid); print('3. the four with one sentence re-said, each word of the living sentence in its re-saying in order:', len(w), w)
     for n, t in RESAID.items(): print(f'   {n}  {plain(sent[n])}  →  {plain(t)}')
     w = with_none(o, resaid, surface=True); print('   and with surface alone a form of a Natural Network surface:', len(w), w)
     w = with_none(living, sent, surface=True); print('   the living order with surface alone a form of it:', len(w), w)

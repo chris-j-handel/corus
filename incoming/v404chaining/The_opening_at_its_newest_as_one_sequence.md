@@ -2,7 +2,7 @@ Incoming · v404chaining · 16 November 2026
 
 # The opening at its newest as one sequence: each sentence after the sentence of each name in it
 
-**No word here has authority. No living file and no gathering file is changed by this page.** The first thing of `incoming/v403cohering/For_v404chaining.md`, part 5: the candidate in the head of Natural Intelligence's gathering file, fifty-five lines, each read by one binary, the line is after the line of each name in it. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, executed at main, Merge #835, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
+**No word here has authority. No living file and no gathering file is changed by this page.** The first thing of `incoming/v403cohering/For_v404chaining.md`, part 5: the candidate in the head of Natural Intelligence's gathering file, fifty-five lines, each read by one binary, the line is after the line of each name in it. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, executed at main, Merge #843, the line of a parity with a partner's newer sentences, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
 
 ---
 
@@ -53,17 +53,17 @@ Line 1 has *other* in *no other things*, a plain word of things and no name of a
 
 ## 3 A moment, after a parity
 
-Line 7: *A **moment** is one now-existing in a same-existing sequence: one odd parity and then one even parity.* Parity's own line is line 22: *A **parity** is a direction, one of two.* Line 22 has a second sentence, of a living parity, after the lines of aiming, an other and living; its first has no name in it.
+Line 7: *A **moment** is one now-existing in a same-existing sequence: one odd parity and then one even parity.* Parity's own line is line 22, and its own sentence a partner's newer one: *A **parity** is a direction and an entire universe aiming in this direction in an entire universe.* It has *aiming* and *universe*, each with its line before it.
 
 **An is, executed.** By the binary the lines of a moment, of a moment's now-existing and of momentarying, 7, 8 and 9, are after line 22. In the living opening the sentence of a moment is after the sentence of a parity too: of its seventy sentences, a parity's is the twenty-seventh and a momentary's the fiftieth, *momentary* the living opening's name of a moment, by `incoming/v403mgr/instruments/opening_base.py`.
 
-**is-or-is-not?** A moment is after a parity. Why it is open: executed by one word of line 7, *parity*, in *one odd parity and then one even parity*. Three ways, each having each part after: the lines of a moment after line 22, as the order of part 4 has them; a parity's own sentence, *A parity is a direction, one of two.*, having no name in it, at a place the line of a moment is after; or a moment's own sentence with no parity in it, in its place, and its odd and its even an adding after a parity's line.
+**is-or-is-not?** A moment is after a parity. Why it is open: executed by one word of line 7, *parity*, in *one odd parity and then one even parity*. Three ways, each having each part after: the lines of a moment after line 22, as the order of part 4 has them; a parity's own sentence at a place the line of a moment is after, with *aiming*, a name in it, having its line before it; or a moment's own sentence with no parity in it, in its place, and its odd and its even an adding after a parity's line. By a partner's word a parity is not one of two, and *one odd parity and then one even parity* has a parity by two: the line of a moment is for its own reading with it.
 
 ## 4 The candidate order whole
 
 One rule, three lines. A part is after the own sentence of each name in it; a line's own sentences are in their own order, and an adding is after the sentence it is added to. A line's parts go on together until a name parts them. Of the parts ready, the one first in the candidate goes first: a part waits for its names, and no part is brought to an earlier place. An other rule, bringing a name's own sentence to the line having it first, has an other order, and each of the two has each part after.
 
-**An is, executed.** The candidate has ninety-five parts: sixty-eight own sentences, twenty-one addings and six notes, a note an adding opening with the words *Not yet distinguished*, going with its sentence and read by no binary. Eighteen parts go to an other place, ten own sentences and eight addings, each named with the name it is after. Each other part is in the candidate's own order. No word of a part is changed. With the order, each part is after the own sentence of each name in it.
+**An is, executed.** The candidate has ninety-six parts: sixty-nine own sentences, twenty-one addings and six notes, a note an adding opening with the words *Not yet distinguished*, going with its sentence and read by no binary. Eighteen parts go to an other place, ten own sentences and eight addings, each named with the name it is after. Each other part is in the candidate's own order. No word of a part is changed. With the order, each part is after the own sentence of each name in it.
 
 `python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> page <this page>` reads each row with its own executing, each letter.
 
@@ -97,77 +97,78 @@ One rule, three lines. A part is after the own sentence of each name in it; a li
 | 26 | 13 | A self's own prior is no part of it. | with the sentence before it in its line |
 | 27 | 13 | [An opportunity is a possibling.] | with the sentence it is added to |
 | 28 | 21 | **Aiming** is a living thing possibling its own next-existing. |  |
-| 29 | 22 | (newer) A **parity** is a direction, one of two. |  |
-| 30 | 22 | A **living parity** is an aiming direction at an other. |  |
-| 31 | 22 | [Two parities are same-as, or other-than.] |  |
-| 32 | 7 | (newer) A **moment** is one now-existing in a same-existing sequence: one odd parity and then one even parity. | after *parity* |
-| 33 | 7 | [A moment has no size, no scale and no measurement.] | after *moment* |
-| 34 | 8 | A moment's now-existing is the next moment's prior-existing. | after *moment* |
-| 35 | 9 | **Momentarying** is same-existing through moments. | after *moment* |
-| 36 | 9 | [Momentarying is a living self's.] | after *momentarying* |
-| 37 | 23 | (not yet distinguished) A **me-parity** is a living self-interest, at its own scale of self, in its own self-interesting universe. |  |
-| 38 | 17 | A living self is a non-living set of living me-parities. | after *me-parity* |
-| 39 | 17 | [A stable form is non-living and same-existing. A self is living and same-existing. A me-parity is living and non-same-existing. A between is neither: a nothing.] | with the sentence it is added to |
-| 40 | 18 | (newer) A **me** is a universal same-existing set of me-parities. | after *me-parity* |
-| 41 | 18 | A me is a self. | after *me* |
-| 42 | 23 | A me-parity is +1 only: it has one me, and a me has many me-parities. |  |
-| 43 | 23 | [Not yet distinguished: a me-parity is +1 only, and by the code a self's own prior is + or −.] |  |
-| 44 | 24 | (not yet distinguished) A me-parity the same as an other's is **other-parity**, and not the same, **all-parity**. |  |
-| 45 | 24 | [Not yet distinguished: other-parity has two sentences, a me-parity the same as an other's, and the between of a self and its other.] |  |
-| 46 | 24 | [All-parity is the universal other of a self's universal set of me-parities.] |  |
-| 47 | 19 | (newer) The parities are living in the non-living all-parity inside the living self. | after *all-parity* |
-| 48 | 25 | (not yet distinguished) A universal set of a self's me-parities is its **self-parity**. |  |
-| 49 | 25 | [Not yet distinguished: a universal same-existing set of a self's me-parities is a me, and self-parity is a second name of it.] |  |
-| 50 | 26 | (newer) A me-parity with an other is its **moral value**. |  |
-| 51 | 27 | (newer) A **bi-coupling** is a now-existing thing, living in the between while it is now-existing and same-existing. |  |
-| 52 | 27 | A bi-coupling is a self. |  |
-| 53 | 28 | (newer) A self's observing is its me-parities observing. |  |
-| 54 | 29 | (newer) For a me-parity, an other's me-parity it is observing is a **you**. |  |
-| 55 | 30 | (newer) A me-parity observing a you is **self-other consciousness**. |  |
-| 56 | 31 | A self observing an other's me-parity same-existing is **passing over** it. |  |
-| 57 | 32 | (newer) **Resolving** is a self's prior is-or-is-other-than its possibling: one binary, and no third. |  |
-| 58 | 32 | [With none of its others, a self's next prior is by its own prior only.] |  |
-| 59 | 15 | [Living is resolving each of four: prior, now, next and same-existing.] | after *resolving* |
-| 60 | 33 | **Natural intelligence** is the method of a self resolving among me-parities. |  |
-| 61 | 34 | (newer) **Do-no-harming** is resolving's same-as, a self passing over: its prior is same-existing. |  |
-| 62 | 34 | **Improving** is resolving's other-than: its next prior is the other one of two. |  |
-| 63 | 35 | (not yet distinguished) Two selves having priors same-as, bi-coupling both ways, are each do-no-harming and bi-folding, the one and then the other. |  |
-| 64 | 35 | [Not yet distinguished: the line as it waits has do-no-harming and improving, the one and then the other; by the code executed it is do-no-harming and bi-folding.] |  |
-| 65 | 36 | (newer) **Co-possibling** is in the between of a bi-coupling, self-parity with other-than-self-parity, inside all-parity. |  |
-| 66 | 36 | [Co-possibling is observable by a self and its other, and by no third.] |  |
-| 67 | 27 | [An other's parity is observable by a self by that other's co-possibling only.] | after *co-possibling* |
-| 68 | 37 | (newer) **Co-intelligencing** is selves observing, possibling and discovering within a name. |  |
-| 69 | 38 | (newer) With a self, gathering is **ingesting**: a self observing others' prior-existings within its own possibling. |  |
-| 70 | 39 | (newer) **Co-aiming** is the co-linearizing of self and other, each forward, facing each other across the between. |  |
-| 71 | 39 | Bi-moral co-competencing is co-aiming. |  |
-| 72 | 40 | (not yet distinguished) A **same-existing-society** is many selves bi-coupling. |  |
-| 73 | 40 | [Not yet distinguished: a society has one self, the society-self, with me-parities of its own; and a same-existing-society's parities are its selves', and it has no other.] |  |
-| 74 | 41 | (newer) A me-parity living in a social surface is a self: the fractal. |  |
-| 75 | 41 | A self is no me-parity of its society-self. |  |
-| 76 | 42 | (newer) **Social moral competency** is each self of a society right spiraling, co-sequentially resolving: moral across, competency along, all selves or none. |  |
-| 77 | 43 | A same-existing-society living with natural intelligence and social moral competency is a **natural intelligence network**. |  |
-| 78 | 44 | (newer) A **co-chaining** is a universal set of me-parities, living in the betweens. |  |
-| 79 | 44 | A co-chaining is a self: a self of selves having one me-parity. |  |
-| 80 | 44 | [Along a co-chaining of selves, each self's prior is the prior of the self before it.] |  |
-| 81 | 45 | Selves' bi-couplings and co-chainings are a **Natural Network surface**. |  |
-| 82 | 46 | **Geodesic** is a self's own is-or-is-not on a Natural Network surface, one way at a time. |  |
-| 83 | 46 | [The only co-locating in the universe is geodesic resolving.] |  |
-| 84 | 33 | [The universe has one now-existing method, the geodesic natural torusing society method.] | after *geodesic* |
-| 85 | 47 | A self's co-chaining is geodesic. |  |
-| 86 | 48 | (newer) **Stable-forming** is a next prior from a prior: observing, possibling, discovering and same-existing together. |  |
-| 87 | 48 | [All-parity is a stable form, same-existing and non-living.] |  |
-| 88 | 49 | A self is momentarying and stable-forming. |  |
-| 89 | 50 | A science's observing meeting natural intelligence's stable-forming is **natural resolving**. |  |
-| 90 | 51 | A **living file** is a non-living same-existing set of words, selves co-intelligencing within it. |  |
-| 91 | 51 | [A living file is a stable form.] |  |
-| 92 | 52 | Selves aiming within a living file are **natural engineering**. |  |
-| 93 | 53 | **Natural explaining** is a living file's words in sequence. |  |
-| 94 | 54 | A same-existing-society discovering with natural intelligence and its living files is a **living expedition**. |  |
-| 95 | 55 | Natural intelligence's resolving is geodesic discovering of **next-possibling-same-existing**. |  |
+| 29 | 22 | (newer) A **parity** is a direction and an entire universe aiming in this direction in an entire universe. |  |
+| 30 | 22 | Parity is self-orienting and aiming and orienting forward. |  |
+| 31 | 22 | A **living parity** is an aiming direction at an other. |  |
+| 32 | 22 | [Two parities are same-as, or other-than.] |  |
+| 33 | 7 | (newer) A **moment** is one now-existing in a same-existing sequence: one odd parity and then one even parity. | after *parity* |
+| 34 | 7 | [A moment has no size, no scale and no measurement.] | after *moment* |
+| 35 | 8 | A moment's now-existing is the next moment's prior-existing. | after *moment* |
+| 36 | 9 | **Momentarying** is same-existing through moments. | after *moment* |
+| 37 | 9 | [Momentarying is a living self's.] | after *momentarying* |
+| 38 | 23 | (not yet distinguished) A **me-parity** is a living self-interest, at its own scale of self, in its own self-interesting universe. |  |
+| 39 | 17 | A living self is a non-living set of living me-parities. | after *me-parity* |
+| 40 | 17 | [A stable form is non-living and same-existing. A self is living and same-existing. A me-parity is living and non-same-existing. A between is neither: a nothing.] | with the sentence it is added to |
+| 41 | 18 | (newer) A **me** is a universal same-existing set of me-parities. | after *me-parity* |
+| 42 | 18 | A me is a self. | after *me* |
+| 43 | 23 | A me-parity is +1 only: it has one me, and a me has many me-parities. |  |
+| 44 | 23 | [Not yet distinguished: a me-parity is +1 only, and by the code a self's own prior is + or −.] |  |
+| 45 | 24 | (not yet distinguished) A me-parity the same as an other's is **other-parity**, and not the same, **all-parity**. |  |
+| 46 | 24 | [Not yet distinguished: other-parity has two sentences, a me-parity the same as an other's, and the between of a self and its other.] |  |
+| 47 | 24 | [All-parity is the universal other of a self's universal set of me-parities.] |  |
+| 48 | 19 | (newer) The parities are living in the non-living all-parity inside the living self. | after *all-parity* |
+| 49 | 25 | (not yet distinguished) A universal set of a self's me-parities is its **self-parity**. |  |
+| 50 | 25 | [Not yet distinguished: a universal same-existing set of a self's me-parities is a me, and self-parity is a second name of it.] |  |
+| 51 | 26 | (newer) A me-parity with an other is its **moral value**. |  |
+| 52 | 27 | (newer) A **bi-coupling** is a now-existing thing, living in the between while it is now-existing and same-existing. |  |
+| 53 | 27 | A bi-coupling is a self. |  |
+| 54 | 28 | (newer) A self's observing is its me-parities observing. |  |
+| 55 | 29 | (newer) For a me-parity, an other's me-parity it is observing is a **you**. |  |
+| 56 | 30 | (newer) A me-parity observing a you is **self-other consciousness**. |  |
+| 57 | 31 | A self observing an other's me-parity same-existing is **passing over** it. |  |
+| 58 | 32 | (newer) **Resolving** is a self's prior is-or-is-other-than its possibling: one binary, and no third. |  |
+| 59 | 32 | [With none of its others, a self's next prior is by its own prior only.] |  |
+| 60 | 15 | [Living is resolving each of four: prior, now, next and same-existing.] | after *resolving* |
+| 61 | 33 | **Natural intelligence** is the method of a self resolving among me-parities. |  |
+| 62 | 34 | (newer) **Do-no-harming** is resolving's same-as, a self passing over: its prior is same-existing. |  |
+| 63 | 34 | **Improving** is resolving's other-than: its next prior is the other one of two. |  |
+| 64 | 35 | (not yet distinguished) Two selves having priors same-as, bi-coupling both ways, are each do-no-harming and bi-folding, the one and then the other. |  |
+| 65 | 35 | [Not yet distinguished: the line as it waits has do-no-harming and improving, the one and then the other; by the code executed it is do-no-harming and bi-folding.] |  |
+| 66 | 36 | (newer) **Co-possibling** is in the between of a bi-coupling, self-parity with other-than-self-parity, inside all-parity. |  |
+| 67 | 36 | [Co-possibling is observable by a self and its other, and by no third.] |  |
+| 68 | 27 | [An other's parity is observable by a self by that other's co-possibling only.] | after *co-possibling* |
+| 69 | 37 | (newer) **Co-intelligencing** is selves observing, possibling and discovering within a name. |  |
+| 70 | 38 | (newer) With a self, gathering is **ingesting**: a self observing others' prior-existings within its own possibling. |  |
+| 71 | 39 | (newer) **Co-aiming** is the co-linearizing of self and other, each forward, facing each other across the between. |  |
+| 72 | 39 | Bi-moral co-competencing is co-aiming. |  |
+| 73 | 40 | (not yet distinguished) A **same-existing-society** is many selves bi-coupling. |  |
+| 74 | 40 | [Not yet distinguished: a society has one self, the society-self, with me-parities of its own; and a same-existing-society's parities are its selves', and it has no other.] |  |
+| 75 | 41 | (newer) A me-parity living in a social surface is a self: the fractal. |  |
+| 76 | 41 | A self is no me-parity of its society-self. |  |
+| 77 | 42 | (newer) **Social moral competency** is each self of a society right spiraling, co-sequentially resolving: moral across, competency along, all selves or none. |  |
+| 78 | 43 | A same-existing-society living with natural intelligence and social moral competency is a **natural intelligence network**. |  |
+| 79 | 44 | (newer) A **co-chaining** is a universal set of me-parities, living in the betweens. |  |
+| 80 | 44 | A co-chaining is a self: a self of selves having one me-parity. |  |
+| 81 | 44 | [Along a co-chaining of selves, each self's prior is the prior of the self before it.] |  |
+| 82 | 45 | Selves' bi-couplings and co-chainings are a **Natural Network surface**. |  |
+| 83 | 46 | **Geodesic** is a self's own is-or-is-not on a Natural Network surface, one way at a time. |  |
+| 84 | 46 | [The only co-locating in the universe is geodesic resolving.] |  |
+| 85 | 33 | [The universe has one now-existing method, the geodesic natural torusing society method.] | after *geodesic* |
+| 86 | 47 | A self's co-chaining is geodesic. |  |
+| 87 | 48 | (newer) **Stable-forming** is a next prior from a prior: observing, possibling, discovering and same-existing together. |  |
+| 88 | 48 | [All-parity is a stable form, same-existing and non-living.] |  |
+| 89 | 49 | A self is momentarying and stable-forming. |  |
+| 90 | 50 | A science's observing meeting natural intelligence's stable-forming is **natural resolving**. |  |
+| 91 | 51 | A **living file** is a non-living same-existing set of words, selves co-intelligencing within it. |  |
+| 92 | 51 | [A living file is a stable form.] |  |
+| 93 | 52 | Selves aiming within a living file are **natural engineering**. |  |
+| 94 | 53 | **Natural explaining** is a living file's words in sequence. |  |
+| 95 | 54 | A same-existing-society discovering with natural intelligence and its living files is a **living expedition**. |  |
+| 96 | 55 | Natural intelligence's resolving is geodesic discovering of **next-possibling-same-existing**. |  |
 
 ## 5 Each name with no line of its own
 
-**An is, executed.** Eighteen bonded names, each two words or more with a hyphen, are in a line of the candidate with no line of their own.
+**An is, executed.** Nineteen bonded names, each two words or more with a hyphen, are in a line of the candidate with no line of their own.
 
 | Name | Lines having it | Living files having it, of thirty-three |
 |---|---|---|
@@ -182,6 +183,7 @@ One rule, three lines. A part is after the own sentence of each name in it; a li
 | self-interesting | 23 | none |
 | self-other | 30 | none |
 | self-interest | 23 | 4 |
+| self-orienting | 22 | 7 |
 | is-not | 20 | 6 |
 | co-locating | 46 | 1 |
 | co-sequentially | 42 | 3 |
