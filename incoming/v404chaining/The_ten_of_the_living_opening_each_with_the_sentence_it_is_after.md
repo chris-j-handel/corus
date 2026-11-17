@@ -2,7 +2,7 @@ Incoming · v404chaining · 16 November 2026
 
 # The ten of the living opening, each with the sentence it is after: a by, a name, or an other place
 
-**No word here has authority. No living file and no gathering file is changed by this page.** The second thing of `incoming/v403cohering/For_v404chaining.md`, part 5: Natural Intelligence's living opening, seventy sentences, and the ten with no name together with the sentence each is after. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, its second reading, with the word *living*, executed at main, Merge #843, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
+**No word here has authority. No living file and no gathering file is changed by this page.** The second thing of `incoming/v403cohering/For_v404chaining.md`, part 5: Natural Intelligence's living opening, seventy sentences, and the ten with no name together with the sentence each is after. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, its second reading, with the word *living*, executed at main, Merge #850, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
 
 ---
 
@@ -19,7 +19,7 @@ Incoming · v404chaining · 16 November 2026
 | The sentence | The sentence it is after | Its reading |
 |---|---|---|
 | A **bi-coupling** is two selves sharing possibling. | Within the universe are living and non-living things. | A group's opening sentence. Its names' own sentences are of possibling and of a self, each of an earlier group. No by, no name and no other place is found whole. |
-| A **0** is a between of two changing directions. | A parity's two directions are + and −. | Two words together, *two* and *directions*, and no name. By a partner's word a parity is not one of two: this sentence and the sentence it is after each have a parity by two, and each is for its own reading, the sixth thing of the managing session's page. No re-saying is laid. |
+| A **0** is a between of two changing directions. | A parity's two directions are + and −. | Two words together, *two* and *directions*, and no name. A droplet of Natural Intelligence's gathering file has *a parity is one of two* out by the code executed: this sentence and the sentence it is after each have a parity by two, and each is for its own reading, the sixth thing of the managing session's page. No re-saying is laid. |
 | Each parity is a self while it is living. | A 0 is **indifferencing**. | An other place: after the sentence of a parity's two directions, by *parity*, the two sentences of a 0 going after the sentence of an agreeing parity. |
 | A self sharing 0 is **do-no-harming**. | Any second method is resolving among parities within natural intelligence. | A by, of the name new two sentences back and in the sentence it is after, *resolving among parities*: a candidate re-saying, part 3. |
 | Living is **geodesic** co-chaining on a Natural Network surface. | Each self's changing divides its surface. | One word together, *surface*, and no name. An other place: after the sentence of a surface's living parities, by *living*. |
@@ -130,7 +130,7 @@ The sequence whole, each sentence by its number in the living opening, a living 
 
 **is-or-is-not?** A group's opening sentence has a name of the last sentence of the group it is after. Why it is open: Exhibit TWELVE Natural Explaining has *Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section*; of three groups' opening sentences after the first, two have such a name, executed, and *A bi-coupling is two selves sharing possibling.* has none, after *Within the universe are living and non-living things.*
 
-**is-or-is-not?** The two sentences of a 0 are after the sentence of an agreeing parity. Why it is open: executed, with them between the sentence of a parity's two directions and the sentence of a parity as a self, that sentence has no name together with the sentence it is after; after *An agreeing parity a self receives is that self's next-existing parity.* they are the two sentences before the first sentence having *sharing 0*. Whole with it or parting: the opening at its newest has no line of a 0; and by a partner's word a parity is not one of two, with *A 0 is a between of two changing directions.* having two directions.
+**is-or-is-not?** The two sentences of a 0 are after the sentence of an agreeing parity. Why it is open: executed, with them between the sentence of a parity's two directions and the sentence of a parity as a self, that sentence has no name together with the sentence it is after; after *An agreeing parity a self receives is that self's next-existing parity.* they are the two sentences before the first sentence having *sharing 0*. The opening at its newest has no line of a 0.
 
 **is-or-is-not?** *By resolving among parities* opens the sentence of do-no-harming. Why it is open: a by is a partner's suggesting, gathered in Exhibit TWELVE Natural Explaining's gathering file, with four named, by observing, by naming, by possibling and by same-existing; this by is of none of the four, and of the name new two sentences back.
 

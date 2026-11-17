@@ -12,6 +12,12 @@ Use: python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py
          its second reading: the living opening, each sentence with the sentence it is after
      python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> living order
      python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> living page <a page>
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two
+         its third reading: a parity said by two, in Exhibit THIRTY Co-Chaining Logic Registry's numbered sentences
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two csv
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two table <its table>
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> found
+         its fourth reading: each is-or-is-not? of this session's with each sentence it is found by
 
 What it reads.
   A name: a name the candidate has in bold. Its own line is the first line with it in bold, and its own sentence
@@ -36,7 +42,7 @@ It says:
      places in the living files and in Natural Intelligence's gathering file
   6. each name the living opening has in bold, in a line of the candidate with no line of its own in it
 
-Returned at main, Merge #843, 16 November 2026, the line of a parity with a partner's newer sentences:
+Returned at main, Merge #850, 16 November 2026, the line of a parity not yet distinguished:
   1. eleven lines: 7, 9, 10, 13, 14, 15, 17, 18, 19, 27 and 33. Six by their own sentences: 7, parity; 10,
      is-or-is-not and non-living; 13, self and other; 17 and 18, me-parity; 19, parity and all-parity. Six by an
      adding: 9, 14, 15, 17, 27 and 33, line 17 by each. Line 1 has other a plain word.
@@ -46,10 +52,10 @@ Returned at main, Merge #843, 16 November 2026, the line of a parity with a part
   2. two circles of lines: 10 with 11, a name and is-or-is-not; and 17, 18 and 23, a self, a me and a me-parity.
   3. thirteen parts with a name before that name's own sentence, and no circle of sentences: each circle of
      lines opens by its sentences.
-  4. 96 parts: 69 own sentences, 21 addings and 6 notes. Eighteen go to an other place, ten own sentences and
+  4. 96 parts: 68 own sentences, 21 addings and 7 notes. Eighteen go to an other place, ten own sentences and
      eight addings, and each other part is in the candidate's own order. The binary again: each part of the
      order is after the own sentence of each name in it.
-  5. nineteen bonded names with no line of their own, self-orienting the newest. Seven are in no living file: non-same-existing,
+  5. eighteen bonded names with no line of their own. Seven are in no living file: non-same-existing,
      society-self, now-and-same-existing, other-than-self-parity, prior-and-same-existing, self-interesting and
      self-other. now-existing is in twelve lines of the candidate and in seventeen living files of thirty-three.
   6. two: universal set, in lines 18, 24, 25 and 44; and stable form, in lines 17, 48 and 51.
@@ -81,10 +87,45 @@ Returned at main, Merge #843, 16 November 2026:
      With each, each sentence is after the own sentence of each name in it.
   3. with 44 re-said, opening with By resolving among parities: four, 24, 29, 59 and 69. With surface alone a
      form: three, 24, 29 and 69, a group's opening sentence, the sentence of a 0 and the opening's last.
-     A re-saying of 29 by a parity's two directions, of this reading as it was, is away: by a partner's word,
-     at main with Merge #843, a parity is not one of two.
+     A re-saying of 29 by a parity's two directions, of this reading as it was, is away: it has a parity by
+     two, and a droplet of Natural Intelligence's gathering file has a parity as one of two out by the code
+     executed.
   4. 61 after 32: nine, 61 away and 60 as it was; and 61 is ahead of the own sentence of a same-existing-society.
-  5. two: 37 and 41. By `opening_base.py`'s form a 0 with a full stop after it is no 0.
+  5. two: 37 and 41. By `opening_base.py`'s form as it was, a 0 with a full stop after it was no 0.
+
+Its third reading, with the word two. It reads the newest Exhibit THIRTY Co-Chaining Logic Registry at the root,
+each numbered sentence, the living opening's seventy its first, and Exhibit ONE Natural Resolver's code. A form
+of two is one of FORMS, found by its own lines: + with −, by and or by or; one of two; two directions; a
+parity's other; and odd or even with a parity in its sentence. Each numbered sentence with + with −, with one
+of two or with two directions is read by hand as one of three, in OWN_TWO, TOGETHER and OTHER_TWO, each number
+of the three with a form or it halts. It says:
+  1. each form with its numbered sentences, and each sentence with a + or a − at all
+  2. the three read by hand, and the two forms more
+  3. each sentence saying a parity by two of its own, with each numbered sentence naming it by its number
+  4. the code executed, one self with two sharings, each case: a sharing with the other sharing in it and with
+     it alone; each + a − and each − a +; and each going out and each next prior by its values
+With csv it says its table, each of the fifty as it is, with each form in it and each numbered
+sentence naming it by its number: `incoming/v404chaining/Each_numbered_sentence_with_a_form_of_two.csv`.
+
+Returned at main, Merge #848, 16 November 2026:
+  1. 755 numbered sentences, the first seventy the living opening's word for word. Fifty have a form of two:
+     + with − fifteen, one of two five, two directions five, a parity's other nineteen, and odd or even with
+     a parity sixteen. Thirty-six have a + or a − at all, and of the first seventy one, 28.
+  2. eight say a parity by two of its own: 28, 29, 100, 102, 161, 162, 262 and 714. Nine have + and − of two
+     parities, together or alike. Six have two of an other thing than a parity.
+  3. 28 is named by no numbered sentence; 29 by 100 and 161; 27, the own sentence of a parity, by 100, 162,
+     193, 622 and 714; 100 by 102 and 180; 102 by 714.
+  4. 441 cases. A sharing's next is the same with the other sharing in it and with it alone. With each + a −
+     and each − a +, each next is the same with each + a − and each − a +. Each going out is a +, a − or a 0,
+     and each next prior a + or a −.
+
+Its fourth reading, with the word found. It reads each sentence of FOUND in its own file, the newest living file
+of its title or a gathering file, bold and italic marks passed over, and says each word for word or not found;
+and each line of the opening at its newest with a universal set of me-parities, and with non-same-existing.
+
+Returned at main, Merge #855, 16 November 2026: six of this session's is-or-is-nots, twenty-two sentences, each
+word for word in its file, two of Exhibit TWO Natural Networking named by v404helping's fourth returning. Lines 18, 24, 25 and 44 have a universal set of me-parities, and lines 16 and 17
+have non-same-existing.
 """
 import collections, glob, os, re, sys
 
@@ -136,7 +177,7 @@ def living_reading():
         return [n for a, n in zip(order, order[1:]) if not h[n] & h[a]]
     def early(order, text):
         at = {n: i for i, n in enumerate(order)}
-        return [(n, k) for n in order for k in has_of(text[n]) if k in own and at[own[k]] > at[n]]
+        return [(n, k) for n in order for k in sorted(has_of(text[n])) if k in own and at[own[k]] > at[n]]
     living = list(range(1, N + 1)); ten = with_none(living, sent)
     def gone(goings):
         order = list(living)
@@ -165,7 +206,7 @@ def living_reading():
         print(f'   {n}  {plain(sent[n])}')
         print(f'       after: {plain(sent[n - 1])}')
         print(f'       the new name of the sentence it is after: {", ".join(new) if new else "none"}')
-        print('       each name in it, with its own sentence: ' + ', '.join(f'{k} {own[k]}' for k in sorted(has_of(sent[n]), key=lambda k: own.get(k, 0)) if k in own))
+        print('       each name in it, with its own sentence: ' + ', '.join(f'{k} {own[k]}' for k in sorted(has_of(sent[n]), key=lambda k: (own.get(k, 0), k)) if k in own))
         print('       words together with the sentence it is after: ' + (', '.join(sorted(words(sent[n]) & words(sent[n - 1]))) or 'none'))
         near = next((m for m in range(n - 2, 0, -1) if has_of(sent[n]) & has_of(sent[m])), None)
         print(f'       the nearest sentence it has a name with: {near}, with {n - near - 1 if near else "no"} between')
@@ -192,6 +233,135 @@ def living_reading():
 
 if WORD == 'living':
     living_reading(); sys.exit(0)
+
+# the third reading: a parity said by two, in Exhibit THIRTY's numbered sentences, the living opening its first seventy
+FORMS = (('+ with −', r'\+ (?:and|or) −|− (?:and|or) \+'),
+         ('one of two', r'\bone of two\b'),
+         ('two directions', r'\btwo (?:changing )?directions\b'),
+         ("a parity's other", r"other parit(?:y|ies)|parit(?:y|ies) and its other|parity to its other|parity's other"),
+         ('a parity with odd or even', r'\b(?:odd|even)\b[^.;:]{0,40}\bparit|\bparit(?:y|ies)\b[^.;:]{0,25}\b(?:odd|even)\b'))
+# read by hand, each numbered sentence with + with − or with two directions
+OWN_TWO = {28, 29, 100, 102, 161, 162, 262, 714}                     # a parity by two of its own
+TOGETHER = {484, 717, 719, 722, 723, 726, 745, 752, 753}            # + and − of two parities, together or alike
+OTHER_TWO = {251, 391, 398, 540, 624, 651}                          # two of an other thing than a parity
+
+def two_reading():
+    plain = lambda t: re.sub(r'\*\*|\*', '', t)
+    newest = lambda pat: max(glob.glob(os.path.join(R, pat)), key=lambda f: int(re.search(r'_v(\d+)', f).group(1)))
+    thirty = open(newest('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v*.md'), encoding='utf-8').read()
+    steps = {int(m.group(1)): m.group(2) for m in re.finditer(r'^(\d+)\. (.*)$', thirty, re.M)}
+    assert sorted(steps) == list(range(1, len(steps) + 1)), 'numbered sentences 1 to N'
+    ni = open(newest('Natural_Intelligence_v*.md'), encoding='utf-8').read()
+    op = re.search(r'^# Natural Intelligence\n\n\*\*[^\n]*\*\*\n\n(.*?)\n\n\*\*ONE · ', ni, re.S | re.M).group(1)
+    sent = [l.rstrip(' \\') for l in op.split('\n') if l.strip()]
+    same = all(plain(steps[i]) == plain(t) for i, t in enumerate(sent, 1))
+    found = {n: [k for k, pat in FORMS if re.search(pat, plain(t), re.I)] for n, t in steps.items()}
+    found = {n: ks for n, ks in found.items() if ks}
+    named = collections.defaultdict(set)
+    for n, t in steps.items():
+        for m in re.finditer(r'\bsteps? (\d+(?:(?:, | and |, and )\d+)*)', plain(t), re.I):
+            for d in re.findall(r'\d+', m.group(1)): named[int(d)].add(n)
+    by = {k: sorted(n for n, ks in found.items() if k in ks) for k, _ in FORMS}
+    assert set(by['+ with −']) == (OWN_TWO | TOGETHER) & set(by['+ with −']) and set(by['+ with −']) <= OWN_TWO | TOGETHER
+    assert set(by['two directions']) <= OWN_TWO | OTHER_TWO and set(by['one of two']) <= OTHER_TWO
+    assert OWN_TWO | TOGETHER | OTHER_TWO <= set(found), 'each sentence read by hand has a form'
+    rows = [['Its number', 'Each form of two in it', 'Each numbered sentence naming it by its number', 'The sentence']]
+    rows += [[str(n), '; '.join(found[n]), ' '.join(str(m) for m in sorted(named[n])), steps[n]] for n in sorted(found)]
+    if len(sys.argv) > 3 and sys.argv[3] == 'csv':
+        import csv; csv.writer(sys.stdout, lineterminator='\n').writerows(rows); return
+    if len(sys.argv) > 4 and sys.argv[3] == 'table':
+        import csv, io
+        out = io.StringIO(); csv.writer(out, lineterminator='\n').writerows(rows)
+        theirs = open(sys.argv[4], encoding='utf-8').read()
+        print('lines of the table:', theirs.count('\n'), ' of this executing:', out.getvalue().count('\n'), ' each letter the same:', theirs == out.getvalue())
+        sys.exit(0 if theirs == out.getvalue() else 1)
+    print('Exhibit THIRTY:', len(steps), 'numbered sentences; its first', len(sent), 'the living opening\'s, word for word:', same)
+    print('1. numbered sentences with a form of two:', len(found))
+    for k, _ in FORMS: print(f'   {k}: {len(by[k])} {by[k]}')
+    sign = sorted(n for n, t in steps.items() if re.search(r'(?<!\w)\+(?!\w)|−(?![\d\w])|±', plain(t)))
+    print('   with a + or a − at all:', len(sign), ' of the first', len(sent), ':', [n for n in sign if n <= len(sent)])
+    print('2. read by hand')
+    print('   a parity by two of its own, + and − or two directions:', len(OWN_TWO), sorted(OWN_TWO))
+    print('   + and − of two parities, together or alike:', len(TOGETHER), sorted(TOGETHER))
+    print('   two of an other thing than a parity:', len(OTHER_TWO), sorted(OTHER_TWO))
+    print('   a parity\'s other:', len(by["a parity's other"]), ' a number\'s, a name\'s or a moment\'s odd or even with a parity in its sentence:', len(by['a parity with odd or even']))
+    print('3. each of the', len(OWN_TWO), 'with each numbered sentence naming it by its number')
+    for n in sorted(OWN_TWO | {27}):
+        print(f'   {n}  named by {sorted(named[n]) or "none"}  ::  {plain(steps[n])[:150]}')
+    # 4. Exhibit ONE's code, executed: two sharings of one self, and each + a − and each − a +
+    one = open(newest('Exhibit_ONE_Natural_Resolver_v*.md'), encoding='utf-8').read()
+    ns = {}; exec(compile(re.search(r'```python\n(.*?)\n```', one, re.S).group(1), 'exhibit_one', 'exec'), ns)
+    f = ns['_1_now_existing']
+    vals = (1, -1, None); recs = [[]] + [[a] for a in (1, -1)] + [[a, b] for a in (1, -1) for b in (1, -1)]
+    apart = turned = two = cases = 0
+    for px in vals:
+        for rx in recs:
+            alone = f([('x', px)] if px else [], [('x', v) for v in rx])
+            for py in vals:
+                for ry in recs:
+                    cases += 1
+                    both = f(([('x', px)] if px else []) + ([('y', py)] if py else []), [('x', v) for v in rx] + [('y', v) for v in ry])
+                    pick = lambda res, k: ([v for kk, v in res[0] if kk == k], [v for kk, v in res[1] if kk == k])
+                    apart += pick(both, 'x') == pick(alone, 'x')
+                    inv = f(([('x', -px)] if px else []) + ([('y', -py)] if py else []), [('x', -v) for v in rx] + [('y', -v) for v in ry])
+                    turned += ([(k, -v) for k, v in both[0]], [(k, -v) for k, v in both[1]]) == (inv[0], inv[1])
+                    two += all(v in (1, -1, 0) for _, v in both[0]) and all(v in (1, -1) for _, v in both[1])
+    print('4. Exhibit ONE\'s code executed, one self with two sharings, each prior a +, a − or none, and none, one or two arriving with each:', cases, 'cases')
+    print('   a sharing\'s next the same with the other sharing in it and with it alone:', apart == cases)
+    print('   with each + a − and each − a +, each next the same with each + a − and each − a +:', turned == cases)
+    print('   each going out a +, a − or a 0, and each next prior a + or a −:', two == cases)
+
+if WORD == 'two':
+    two_reading(); sys.exit(0)
+
+# the fourth reading: each is-or-is-not? of this session's with each sentence it is found by, word for word in its file
+FOUND = (
+ ('A me-parity is after a self.', 'an is', (
+   ('Natural_Intelligence_v', "A self's **parity** is the self's changing direction relative to a now-existing thing within the self's me."),
+   ('gathering-value/Natural_Intelligence', 'A **me-parity** is a living self-interest, at its own scale of self, in its own self-interesting universe.'))),
+ ('A parity is 4-now-co-same-existing.', 'an is-not', (
+   ('Exhibit_ONE_Natural_Resolver_v', 'With co, between two: 4-now-co-same-existing · 12-next-co-same-existing, each sharing'),
+   ('Exhibit_ONE_Natural_Resolver_v', 'Without co, of one: 7-now-observing · 15-next-observing, a parity'),
+   ('Exhibit_TWENTY_Natural_Naming_v', 'a key, 4-now-co-same-existing, with its parity, 7-now-observing'))),
+ ("A number's odd or even is no parity.", 'an is', (
+   ('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v', "A name's odd or even among seventeen is its number's, a number its own now; a sharing's parity, + or −, a self observing it now or as prior, step 258, is another"),
+   ('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v', 'three relations, each its own'),
+   ('Exhibit_TWENTY_Natural_Naming_v', "*parity*, a + or − with a self's scale, and one inversioning or none between a self and an other with the pair's scale"),
+   ('Exhibit_TWO_Natural_Networking_v', "A name's number is a number and no parity, distinct from a sharing's parity, + or −, and from opening and completing of a full moment."),
+   ('Exhibit_TWO_Natural_Networking_v', 'A full moment has an odd number and an even; with moments of exchanging a self opens odd and an other even, a numbering and no parity.'))),
+ ('A name is after same-existing, and is-or-is-not is after a name.', 'whole with the living order', (
+   ('Natural_Intelligence_v', 'A now-existing thing from a prior-existing same thing is a **same-existing** thing.'),
+   ('Natural_Intelligence_v', 'A **universal set** is a set of same-existing things.'),
+   ('Natural_Intelligence_v', 'Each now-existing thing **is-or-is-not** within each universal set.'),
+   ('gathering-value/Natural_Intelligence', 'A name is a same-existing universal set of same-existing things'))),
+ ('A moment is after a parity.', 'open, each side with a living sentence', (
+   ('Exhibit_TWENTY_Natural_Naming_v', "**A moment is one now-existing in a same-existing sequence**, a moment's now-existing the next moment's prior-existing."),
+   ('Natural_Intelligence_v', "Each moment is **opening** with each self's prior-existing parity and **completing** with its next-existing parity."))),
+ ('A me is a universal set, and its me-parities are same-existing things.', 'a parting by three sentences', (
+   ('Natural_Intelligence_v', 'A **universal set** is a set of same-existing things.'),
+   ('gathering-value/Natural_Intelligence', 'A **me** is a universal same-existing set of me-parities.'),
+   ('gathering-value/Natural_Intelligence', 'A me-parity is living and non-same-existing.'),
+   ('gathering-value/Natural_Intelligence', 'Same-existing and non-same-existing are one binary of a now-existing thing.'),
+   ('Natural_Intelligence_v', 'A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing.'),
+   ('Natural_Intelligence_v', 'Each parity is a self while it is living.'))),
+)
+
+def found_reading():
+    plain = lambda t: re.sub(r'\*\*|\*', '', t)
+    def text_of(key):
+        if key.startswith('gathering-value/'): return open(os.path.join(R, key + '.md'), encoding='utf-8').read()
+        return open(max(glob.glob(os.path.join(R, key + '*.md')), key=lambda f: int(re.search(r'_v(\d+)', f).group(1))), encoding='utf-8').read()
+    whole = True
+    for asked, what, sentences in FOUND:
+        print(f'{asked}  ::  {what}')
+        for key, t in sentences:
+            n = plain(text_of(key)).count(plain(t)); whole = whole and n > 0
+            place = key.split('/')[-1].rstrip('_v').replace('_', ' ') + (', its gathering file' if key.startswith('gathering-value/') else '')
+            print(f'   {"word for word" if n else "NOT FOUND"} in {place}: {plain(t)[:118]}')
+    print('each sentence word for word in its file:', whole)
+    us = sorted({num(l) for l in lines if re.search(r"universal (?:same-existing )?set of (?:a self's )?me-parities", plain(l))})
+    ns = sorted({num(l) for l in lines if 'non-same-existing' in plain(l)})
+    print('lines of the opening at its newest with a universal set of me-parities:', us, ' and with non-same-existing:', ns)
 PLAIN = ('no other things', 'each with each other', 'the other one of two', 'the one and then the other',
          'facing each other')
 
@@ -204,6 +374,9 @@ lines = [l for l in lines if re.match(r'\d{1,2}\. ', l)]
 num = lambda l: int(re.match(r'(\d+)\.', l).group(1))
 assert [num(l) for l in lines] == list(range(1, len(lines) + 1)), [num(l) for l in lines]
 plain = lambda s: re.sub(r'\*\*|\*', '', s)
+
+if WORD == 'found':
+    found_reading(); sys.exit(0)
 
 # parts: (line, place in its line) -> kind, text
 parts = {}; order0 = []

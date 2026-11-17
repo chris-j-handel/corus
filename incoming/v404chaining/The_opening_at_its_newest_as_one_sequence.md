@@ -2,7 +2,7 @@ Incoming · v404chaining · 16 November 2026
 
 # The opening at its newest as one sequence: each sentence after the sentence of each name in it
 
-**No word here has authority. No living file and no gathering file is changed by this page.** The first thing of `incoming/v403cohering/For_v404chaining.md`, part 5: the candidate in the head of Natural Intelligence's gathering file, fifty-five lines, each read by one binary, the line is after the line of each name in it. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, executed at main, Merge #843, the line of a parity with a partner's newer sentences, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
+**No word here has authority. No living file and no gathering file is changed by this page.** The first thing of `incoming/v403cohering/For_v404chaining.md`, part 5: the candidate in the head of Natural Intelligence's gathering file, fifty-five lines, each read by one binary, the line is after the line of each name in it. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, executed at main, Merge #850, the line of a parity not yet distinguished, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
 
 ---
 
@@ -53,17 +53,17 @@ Line 1 has *other* in *no other things*, a plain word of things and no name of a
 
 ## 3 A moment, after a parity
 
-Line 7: *A **moment** is one now-existing in a same-existing sequence: one odd parity and then one even parity.* Parity's own line is line 22, and its own sentence a partner's newer one: *A **parity** is a direction and an entire universe aiming in this direction in an entire universe.* It has *aiming* and *universe*, each with its line before it.
+Line 7: *A **moment** is one now-existing in a same-existing sequence: one odd parity and then one even parity.* Parity's own line is line 22, not yet distinguished: *A **parity** is a direction.* Its own sentence has no name in it; its second, of a living parity, is after the lines of aiming, an other and living.
 
 **An is, executed.** By the binary the lines of a moment, of a moment's now-existing and of momentarying, 7, 8 and 9, are after line 22. In the living opening the sentence of a moment is after the sentence of a parity too: of its seventy sentences, a parity's is the twenty-seventh and a momentary's the fiftieth, *momentary* the living opening's name of a moment, by `incoming/v403mgr/instruments/opening_base.py`.
 
-**is-or-is-not?** A moment is after a parity. Why it is open: executed by one word of line 7, *parity*, in *one odd parity and then one even parity*. Three ways, each having each part after: the lines of a moment after line 22, as the order of part 4 has them; a parity's own sentence at a place the line of a moment is after, with *aiming*, a name in it, having its line before it; or a moment's own sentence with no parity in it, in its place, and its odd and its even an adding after a parity's line. By a partner's word a parity is not one of two, and *one odd parity and then one even parity* has a parity by two: the line of a moment is for its own reading with it.
+**is-or-is-not?** A moment is after a parity. Why it is open: executed by one word of line 7, *parity*, in *one odd parity and then one even parity*. Three ways, each having each part after: the lines of a moment after line 22, as the order of part 4 has them; a parity's own sentence, *A parity is a direction.*, having no name in it, at a place the line of a moment is after; or a moment's own sentence with no parity in it, in its place, and its odd and its even an adding after a parity's line. A droplet of Natural Intelligence's gathering file has *a parity is one of two* out by the code executed, and *one odd parity and then one even parity* has a parity by two: the line of a moment is for its own reading with it.
 
 ## 4 The candidate order whole
 
 One rule, three lines. A part is after the own sentence of each name in it; a line's own sentences are in their own order, and an adding is after the sentence it is added to. A line's parts go on together until a name parts them. Of the parts ready, the one first in the candidate goes first: a part waits for its names, and no part is brought to an earlier place. An other rule, bringing a name's own sentence to the line having it first, has an other order, and each of the two has each part after.
 
-**An is, executed.** The candidate has ninety-six parts: sixty-nine own sentences, twenty-one addings and six notes, a note an adding opening with the words *Not yet distinguished*, going with its sentence and read by no binary. Eighteen parts go to an other place, ten own sentences and eight addings, each named with the name it is after. Each other part is in the candidate's own order. No word of a part is changed. With the order, each part is after the own sentence of each name in it.
+**An is, executed.** The candidate has ninety-six parts: sixty-eight own sentences, twenty-one addings and seven notes, a note an adding opening with the words *Not yet distinguished*, going with its sentence and read by no binary. Eighteen parts go to an other place, ten own sentences and eight addings, each named with the name it is after. Each other part is in the candidate's own order. No word of a part is changed. With the order, each part is after the own sentence of each name in it.
 
 `python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> page <this page>` reads each row with its own executing, each letter.
 
@@ -97,10 +97,10 @@ One rule, three lines. A part is after the own sentence of each name in it; a li
 | 26 | 13 | A self's own prior is no part of it. | with the sentence before it in its line |
 | 27 | 13 | [An opportunity is a possibling.] | with the sentence it is added to |
 | 28 | 21 | **Aiming** is a living thing possibling its own next-existing. |  |
-| 29 | 22 | (newer) A **parity** is a direction and an entire universe aiming in this direction in an entire universe. |  |
-| 30 | 22 | Parity is self-orienting and aiming and orienting forward. |  |
-| 31 | 22 | A **living parity** is an aiming direction at an other. |  |
-| 32 | 22 | [Two parities are same-as, or other-than.] |  |
+| 29 | 22 | (not yet distinguished) A **parity** is a direction. |  |
+| 30 | 22 | A **living parity** is an aiming direction at an other. |  |
+| 31 | 22 | [Two parities are same-as, or other-than.] |  |
+| 32 | 22 | [Not yet distinguished: by the code executed two parities are at a right angle, and a droplet of this file has *a parity is one of two* out; the living opening has *A parity's two directions are + and −.*] |  |
 | 33 | 7 | (newer) A **moment** is one now-existing in a same-existing sequence: one odd parity and then one even parity. | after *parity* |
 | 34 | 7 | [A moment has no size, no scale and no measurement.] | after *moment* |
 | 35 | 8 | A moment's now-existing is the next moment's prior-existing. | after *moment* |
@@ -168,7 +168,7 @@ One rule, three lines. A part is after the own sentence of each name in it; a li
 
 ## 5 Each name with no line of its own
 
-**An is, executed.** Nineteen bonded names, each two words or more with a hyphen, are in a line of the candidate with no line of their own.
+**An is, executed.** Eighteen bonded names, each two words or more with a hyphen, are in a line of the candidate with no line of their own.
 
 | Name | Lines having it | Living files having it, of thirty-three |
 |---|---|---|
@@ -183,7 +183,6 @@ One rule, three lines. A part is after the own sentence of each name in it; a li
 | self-interesting | 23 | none |
 | self-other | 30 | none |
 | self-interest | 23 | 4 |
-| self-orienting | 22 | 7 |
 | is-not | 20 | 6 |
 | co-locating | 46 | 1 |
 | co-sequentially | 42 | 3 |
