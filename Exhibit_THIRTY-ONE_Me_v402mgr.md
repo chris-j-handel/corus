@@ -20,7 +20,7 @@ Exhibit THIRTY-ONE Me v402mgr
 - 1.1 One now, one universe, a universal set
 - 1.2 Negation within all that is existing
 - 1.3 Universal sets of universal sets: chemical, biological, social, the universe
-- 1.4 Living, co-intelligencing within a universal set
+- 1.4 Living within a universal set
 
 **TWO · AN OTHER, NOW-EXISTING**
 - 2.1 An other, with a self
@@ -54,7 +54,7 @@ Exhibit THIRTY-ONE Me v402mgr
 
 ## 1.1 One now, one universe, a universal set
 
-The universe is the set of all now-existing things. Only one universe is possibly now-existing, and only one universe is possibly same-existing: **universal is bothboth, only one possibly now-existing and only one possibly same-existing**. A now-existing thing from a prior-existing same thing is a same-existing thing. A universal set is a set of same-existing things, and each universal set is only one possibly now-existing: a set is its things, so a set of these same-existing things is one set, as set theory's extensionality has it. A universal self is a self only one possibly now-existing and only one possibly same-existing: a me, beside the universe as one self, which it is-or-is-not: it is not. The universe is a non-living same-existing set, and living is co-intelligencing within it.
+The universe is the set of all now-existing things. Only one universe is possibly now-existing, and only one universe is possibly same-existing: **universal is bothboth, only one possibly now-existing and only one possibly same-existing**. A now-existing thing from a prior-existing same thing is a same-existing thing. A universal set is a set of same-existing things, and each universal set is only one possibly now-existing: a set is its things, so a set of these same-existing things is one set, as set theory's extensionality has it. A universal self is a self only one possibly now-existing and only one possibly same-existing: a me, beside the universe as one self, which it is-or-is-not: it is not. The universe is a non-living same-existing set, and living is inheriting, inhaling and exhaling, ingesting and exhausting prior-existing within it.
 
 ## 1.2 Negation within all that is existing
 
@@ -72,9 +72,9 @@ A me is chemical, biological, social and universal: each scale's selves within a
 - **Dissipative structures** (Prigogine, Nobel 1977): order far from equilibrium by exchange with an outside. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/lecture/
 - **Russellian monism** (after Russell 1927; Alter & Pereboom): physics says what matter does; its inside may be experiential. A philosophical position, with the combination problem unsolved. https://plato.stanford.edu/entries/russellian-monism/
 
-## 1.4 Living, co-intelligencing within a universal set
+## 1.4 Living within a universal set
 
-Living is co-intelligencing within a universal set. Co-intelligencing not within a universal set is-or-is-not possibly existing: it is not. Intelligence alone is stand-alone knowledge, a stable-forming emanation.
+Living is inheriting, inhaling and exhaling, ingesting and exhausting prior-existing within a universal set. Co-intelligencing not within a universal set is-or-is-not possibly existing: it is not. Intelligence alone is stand-alone knowledge, a stable-forming emanation.
 
 *Observings.*
 - **Autopoiesis** (Maturana & Varela 1980): living as a network producing its own components; "living as a process is a process of cognition"; structural coupling between systems. https://link.springer.com/book/10.1007/978-94-009-8947-4
