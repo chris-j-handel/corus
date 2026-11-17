@@ -19,6 +19,8 @@ A living file is its sentences. The set is living while its sentences are being 
 
 **A survey of a field is artifact by three.** The living file it was made for is at its next version. Its session laid its own learning. And a field is asked again any day: by need, one question, beside the living sentence that needs it. The chemistry survey of v392chem is artifact by each of the three.
 
+**The order of the living files.** Exhibit ONE Natural Resolver first. Then Exhibit THIRTY Co-Chaining Logic Registry and Exhibit TWENTY Natural Naming, prior to Natural Intelligence, each file then in one same naming, stable form and explaining. v404chaining has the opening of Natural Intelligence, Exhibit THIRTY, and each pairing of their sentences with the other files. Each other improving of a gathering file is later.
+
 **A reply in a session is the method going on.** It has the living sentence, what met it, whether the two cohere or part, and the note laid or the sentence re-said. It has nothing of files, of sizes, or of what is not yet done.
 
 ## The job
@@ -110,7 +112,7 @@ Read from the repository's own history.
   - The opening has one base: the copy's seventy sentences. Every other version of the opening, in a gathering file or a past page, is a source of words only.
   - No other session proposes for the opening's lines unless v404chaining asks. Its own slices are read first by v404mgr, and by a second session when there is one.
   - When both partners settle a concept and no living sentence needs to change, the notes it resolves leave the gathering file in a slice of their own, one concept at a time.
-- **v404A, not started yet; proposed job: Exhibit ONE Natural Resolver only.** Every sentence and table must agree with what its code does when executed. Propose improved sentences in small slices; v404chaining reads them. Exhibit ONE is also written inside Natural Intelligence; do not edit it there. The managing session carries accepted changes across.
+- **v404A, not started yet; proposed job: Exhibit ONE Natural Resolver only.** Each sentence and table is read beside its code's logic and sequence. The code is the method's stable form and no judge: its naming can change with a do-no-harm improving, its method goes on the same, and no computing, clocking, measuring or simulating of code is in the method of living. Propose improved sentences in small slices; v404chaining reads them. Exhibit ONE is also written inside Natural Intelligence; do not edit it there. The managing session carries accepted changes across.
 - **v404B, not started yet; proposed job: Natural Intelligence after its opening, in support of v404chaining.**
   1. First, read the six word sweeps already in the copy that no second session has read: *moment* for the noun *momentary*; bi said as both; no *slot*; no *so* forcing a sentence; *executing* for *running*; and one bracketed phrase taken out. Say for each line whether the sentence is whole as changed.
   2. Then each place in Natural Intelligence, outside Exhibit ONE, where a word Exhibit TWENTY Natural Naming has dissolved is still said plainly. `python3 -I incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py . file Natural_Intelligence` lists them. Propose each sentence re-said, a part of the file at a time.
