@@ -108,7 +108,7 @@ One rule, three lines. A part is after the own sentence of each name in it; a li
 | 37 | 9 | [Momentarying is a living self's.] | after *momentarying* |
 | 38 | 23 | (not yet distinguished) A **me-parity** is a living self-interest, at its own scale of self, in its own self-interesting universe. |  |
 | 39 | 17 | A living self is a non-living set of living me-parities. | after *me-parity* |
-| 40 | 17 | [A stable form is non-living and same-existing. A self is living and same-existing. A me-parity is living and non-same-existing. A between is neither: a nothing.] | with the sentence it is added to |
+| 40 | 17 | [A stable form is non-living and same-existing. A self is living and same-existing. A between is neither: a nothing.] | with the sentence it is added to |
 | 41 | 18 | (newer) A **me** is a universal same-existing set of me-parities. | after *me-parity* |
 | 42 | 18 | A me is a self. | after *me* |
 | 43 | 23 | A me-parity is +1 only: it has one me, and a me has many me-parities. |  |

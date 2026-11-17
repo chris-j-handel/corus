@@ -129,7 +129,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: living, co-intelligencing.*
 
-17. Each self is living.
+17. Each self is living, and each living thing is a self.
 
         *Adding: each self living.*
 
