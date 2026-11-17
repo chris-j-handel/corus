@@ -24,7 +24,7 @@ Exhibit SIXTEEN Natural Chemistry v402mgr
 
 1.5  Equilibrium's own definition with both sides, and two flows at one letterform
 
-1.6  Carbon the stable form, the element the number and the chemistry the coupling
+1.6  An atom the stable form, the element the number and the chemistry the coupling
 
 1.7  Shells each odd twice about a zero, and twenty-four at carbon's own tetrahedron
 
@@ -152,9 +152,9 @@ State and flow are one changing and changing back, not possibly separating, neit
 
 Flow does two jobs across record, and they resolve as two with a between rather than converging. **An equilibria flow** is a throughput a field conserves, balancing against a floor, a field's own working word with steady state, with flux balance, with exchange current of an electrode with no net current, with fluid and circuit accounting. **Now flowing** is nature, changing and changing back, self-bounding, with no equilibrium within it, under it or beside it. Two words with one letterform, two things with one between, each whole with its own use. What reaches yet with this hinge is a chemical process whose stability has a literal rest rather than opposing changings going on, and record returns none.
 
-## 1.6 Carbon the stable form, the element the number and the chemistry the coupling
+## 1.6 An atom the stable form, the element the number and the chemistry the coupling
 
-Carbon is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set. Its stability is those opposing changings going on. Carbon was living in higher-scale selves, outward of it. It is a stable-form emanation from living. With chemical substrate it is bounding-zeroing, **a nothing its couplings surround and wrap**, a +1 its molecule wraps.
+An atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set. Its stability is those opposing changings going on. Carbon was living in higher-scale selves, outward of it. It is a stable-form emanation from living. With chemical substrate it is bounding-zeroing, **a nothing its couplings surround and wrap**, a +1 its molecule wraps.
 
 **An element is number; chemistry is coupling.** Proton number six is exact and stands with every unit. A field measures every property it writes under word *carbon* with a substance or a coupling, diamond, graphite, graphene, C₆₀, bond of methane, carbonate ion, and number has name. One number and many substances, one number and many nuclides, one number and many oxidation states is a field's own record that properties live with coupling and word with number. An interior an accounting posits inward of number is its own positing (Natural Numbers 6.10), so carbon's couplings do its chemistry and carbon does nothing.
 
