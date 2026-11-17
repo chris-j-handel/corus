@@ -98,7 +98,7 @@ Natural intelligence is geodesic discovering of **next-possibling-same-existing*
 
 - 3.1 Geodesic, a surface's own dividing
 - 3.2 Five dimensions, each binary both ways
-- 3.3 A method, a non-living existing thing
+- 3.3 A living method, its stable forms non-living existing things
 - 3.4 A sharing, its parity and a prior
 - 3.5 φ and spirals, unrelationing with numbers
 - 3.6 Exhibit ONE, the one form
@@ -264,7 +264,7 @@ Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
 
 **Five dimensions are with resolver's names, three namings**. 1 social-parity now-existing and 2 other-parity now-existing are each self entering and its others' parities. They are 1-2, bi-momentarying, sharing both ways with 1-now-existing and 2-now-possibling, a bi-coupling. 3 self-parity now-existing and 4 self-discovery next-existing are 3-4, co-intelligencing, discovering. They are a prior resolving with what surfaces and a next prior forming. 5 social-parity next-existing is 5, co-competencing, bi-co-momentarying with bi-couplings across. It is arising in each self with its other. All five are bi-moral within. All five are invisible with each place as an existing thing. A self is observing them only as co-competencing, prior-existing from this living.
 
-## 3.3 A method, a non-living existing thing
+## 3.3 A living method, its stable forms non-living existing things
 
 **One geodesic changing discovering method is living condition, its form, a now-existing thing, its priors each bi-coupling's own**: not-changing as a relation same-existing with each changing, with each bi-coupling it is with. Its applying is each bi-coupling's own. Its one name is *natural torusing*, a resolving among parities, *parity* riding within *changing*. *Geodesic changing* is its explaining. **Stable-forming is living condition resolving**, observable as natural torusing co-orienting stable-forming. **A parity travels through a 0, not-changing, while parities travel through**. With 12-next-co-same-existing a sharing whose prior and parity agree is 0, its prior same-existing, not-changing. Parities, ±, travel across with 10 and along with 9 by further sharings and selves, with one moment. This is geodesic changing and stable-forming bothbothing, bi-inversioning-co-recursioning up and down numbers. It is not-changing with a name now and changing with its same name 8 up, next. **A method is non-living with each scale, each self stable-forming its own**, living's own condition with each bi-coupling at each scale. *Technology* is a non-living thing a self is making and applying to a changing. A method is bi-couplings' own, and it is *method*. Method is with each of its bi-couplings, its place their own. Its bounding is each self's own, self-bounding. With resolver each self's entry completes its own moment. **Bi-coupling enables method, and a bi-coupling's completing completes it**: with its own completing a self completes its bi-coupling. The self's parity goes along to the next self it is bi-coupling with, a co-chaining. Its next prior goes with its next moment. Observing with it, a self is bi-coupling again.
 
