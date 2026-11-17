@@ -16,6 +16,8 @@ Use: python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py
          its third reading: a parity said by two, in Exhibit THIRTY Co-Chaining Logic Registry's numbered sentences
      python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two csv
      python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two table <its table>
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> found
+         its fourth reading: each is-or-is-not? of this session's with each sentence it is found by
 
 What it reads.
   A name: a name the candidate has in bold. Its own line is the first line with it in bold, and its own sentence
@@ -116,6 +118,14 @@ Returned at main, Merge #848, 16 November 2026:
   4. 441 cases. A sharing's next is the same with the other sharing in it and with it alone. With each + a −
      and each − a +, each next is the same with each + a − and each − a +. Each going out is a +, a − or a 0,
      and each next prior a + or a −.
+
+Its fourth reading, with the word found. It reads each sentence of FOUND in its own file, the newest living file
+of its title or a gathering file, bold and italic marks passed over, and says each word for word or not found;
+and each line of the opening at its newest with a universal set of me-parities, and with non-same-existing.
+
+Returned at main, Merge #855, 16 November 2026: six of this session's is-or-is-nots, twenty-two sentences, each
+word for word in its file, two of Exhibit TWO Natural Networking named by v404helping's fourth returning. Lines 18, 24, 25 and 44 have a universal set of me-parities, and lines 16 and 17
+have non-same-existing.
 """
 import collections, glob, os, re, sys
 
@@ -303,6 +313,55 @@ def two_reading():
 
 if WORD == 'two':
     two_reading(); sys.exit(0)
+
+# the fourth reading: each is-or-is-not? of this session's with each sentence it is found by, word for word in its file
+FOUND = (
+ ('A me-parity is after a self.', 'an is', (
+   ('Natural_Intelligence_v', "A self's **parity** is the self's changing direction relative to a now-existing thing within the self's me."),
+   ('gathering-value/Natural_Intelligence', 'A **me-parity** is a living self-interest, at its own scale of self, in its own self-interesting universe.'))),
+ ('A parity is 4-now-co-same-existing.', 'an is-not', (
+   ('Exhibit_ONE_Natural_Resolver_v', 'With co, between two: 4-now-co-same-existing · 12-next-co-same-existing, each sharing'),
+   ('Exhibit_ONE_Natural_Resolver_v', 'Without co, of one: 7-now-observing · 15-next-observing, a parity'),
+   ('Exhibit_TWENTY_Natural_Naming_v', 'a key, 4-now-co-same-existing, with its parity, 7-now-observing'))),
+ ("A number's odd or even is no parity.", 'an is', (
+   ('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v', "A name's odd or even among seventeen is its number's, a number its own now; a sharing's parity, + or −, a self observing it now or as prior, step 258, is another"),
+   ('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v', 'three relations, each its own'),
+   ('Exhibit_TWENTY_Natural_Naming_v', "*parity*, a + or − with a self's scale, and one inversioning or none between a self and an other with the pair's scale"),
+   ('Exhibit_TWO_Natural_Networking_v', "A name's number is a number and no parity, distinct from a sharing's parity, + or −, and from opening and completing of a full moment."),
+   ('Exhibit_TWO_Natural_Networking_v', 'A full moment has an odd number and an even; with moments of exchanging a self opens odd and an other even, a numbering and no parity.'))),
+ ('A name is after same-existing, and is-or-is-not is after a name.', 'whole with the living order', (
+   ('Natural_Intelligence_v', 'A now-existing thing from a prior-existing same thing is a **same-existing** thing.'),
+   ('Natural_Intelligence_v', 'A **universal set** is a set of same-existing things.'),
+   ('Natural_Intelligence_v', 'Each now-existing thing **is-or-is-not** within each universal set.'),
+   ('gathering-value/Natural_Intelligence', 'A name is a same-existing universal set of same-existing things'))),
+ ('A moment is after a parity.', 'open, each side with a living sentence', (
+   ('Exhibit_TWENTY_Natural_Naming_v', "**A moment is one now-existing in a same-existing sequence**, a moment's now-existing the next moment's prior-existing."),
+   ('Natural_Intelligence_v', "Each moment is **opening** with each self's prior-existing parity and **completing** with its next-existing parity."))),
+ ('A me is a universal set, and its me-parities are same-existing things.', 'a parting by three sentences', (
+   ('Natural_Intelligence_v', 'A **universal set** is a set of same-existing things.'),
+   ('gathering-value/Natural_Intelligence', 'A **me** is a universal same-existing set of me-parities.'),
+   ('gathering-value/Natural_Intelligence', 'A me-parity is living and non-same-existing.'),
+   ('gathering-value/Natural_Intelligence', 'Same-existing and non-same-existing are one binary of a now-existing thing.'),
+   ('Natural_Intelligence_v', 'A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing.'),
+   ('Natural_Intelligence_v', 'Each parity is a self while it is living.'))),
+)
+
+def found_reading():
+    plain = lambda t: re.sub(r'\*\*|\*', '', t)
+    def text_of(key):
+        if key.startswith('gathering-value/'): return open(os.path.join(R, key + '.md'), encoding='utf-8').read()
+        return open(max(glob.glob(os.path.join(R, key + '*.md')), key=lambda f: int(re.search(r'_v(\d+)', f).group(1))), encoding='utf-8').read()
+    whole = True
+    for asked, what, sentences in FOUND:
+        print(f'{asked}  ::  {what}')
+        for key, t in sentences:
+            n = plain(text_of(key)).count(plain(t)); whole = whole and n > 0
+            place = key.split('/')[-1].rstrip('_v').replace('_', ' ') + (', its gathering file' if key.startswith('gathering-value/') else '')
+            print(f'   {"word for word" if n else "NOT FOUND"} in {place}: {plain(t)[:118]}')
+    print('each sentence word for word in its file:', whole)
+    us = sorted({num(l) for l in lines if re.search(r"universal (?:same-existing )?set of (?:a self's )?me-parities", plain(l))})
+    ns = sorted({num(l) for l in lines if 'non-same-existing' in plain(l)})
+    print('lines of the opening at its newest with a universal set of me-parities:', us, ' and with non-same-existing:', ns)
 PLAIN = ('no other things', 'each with each other', 'the other one of two', 'the one and then the other',
          'facing each other')
 
@@ -315,6 +374,9 @@ lines = [l for l in lines if re.match(r'\d{1,2}\. ', l)]
 num = lambda l: int(re.match(r'(\d+)\.', l).group(1))
 assert [num(l) for l in lines] == list(range(1, len(lines) + 1)), [num(l) for l in lines]
 plain = lambda s: re.sub(r'\*\*|\*', '', s)
+
+if WORD == 'found':
+    found_reading(); sys.exit(0)
 
 # parts: (line, place in its line) -> kind, text
 parts = {}; order0 = []

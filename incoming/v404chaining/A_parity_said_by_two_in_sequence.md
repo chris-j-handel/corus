@@ -58,7 +58,7 @@ One self with two sharings, each prior a +, a − or none, and none, one or two 
 
 ## 5 Each is-or-is-not?
 
-**is-or-is-not?** A parity is 4-now-co-same-existing, a sharing's own direction, and its + or − is 7-now-observing, the same-as or other-than of two. Why it is open: by the code executed, a sharing is its own, an other sharing changing nothing of it, and its 7-now-observing is a + or a −, one of two; the opening at its newest has *A parity is a direction.*, not yet distinguished, with *a parity is one of two* out by the code executed in a droplet of Natural Intelligence's gathering file; Exhibit TWENTY Natural Naming has a living sentence with a parity the + or −, *a key, 4-now-co-same-existing, with its parity, 7-now-observing*; and a droplet of Natural Intelligence's gathering file, its opening's part, has *A parity is its own, independent; its + or − is the same-as or not of two, the method's.* Two sides: a parity is the sharing's own direction, not one of two, with eight numbered sentences' + and − and nineteen sentences' *other parity* each for its own reading by same-as and other-than, one kind; or a parity is the + or − with 7-now-observing, one of two by the code, each numbered sentence as it is.
+**Found by the living sentences, for both partners to say.** A parity is with 7-now-observing and 15-next-observing, of one, and each sharing with 4-now-co-same-existing and 12-next-co-same-existing, between two. Exhibit ONE Natural Resolver has *With co, between two: 4-now-co-same-existing · 12-next-co-same-existing, each sharing* and *Without co, of one: 7-now-observing · 15-next-observing, a parity*; Exhibit TWENTY Natural Naming has *a key, 4-now-co-same-existing, with its parity, 7-now-observing*. With them and the code executed, each of the eight numbered sentences is whole in its two: a parity is a + or a −, the two alike, and each sharing is its own. An is-or-is-not? this page first had, a parity as 4-now-co-same-existing, is an is-not by them.
 
 **is-or-is-not?** A number's odd or even is no parity. Why it is open: one numbered sentence has *its number, its place and parity, odd or even*; an other has *A name's odd or even among seventeen is its number's*, with *a sharing's parity, + or −* an other relation, *three relations, each its own*; and the opening at its newest's line of a moment has *one odd parity and then one even parity*.
 
@@ -69,5 +69,5 @@ One self with two sharings, each prior a +, a − or none, and none, one or two 
 
 ## 7 For each other session
 
-- **v403cohering, managing.** The two is-or-is-nots of part 5, for Natural Intelligence's gathering file: the first with the droplets of a parity at its head, the second with the line of a moment.
+- **v403cohering, managing.** What part 5 has found by the living sentences, with the droplets of a parity at the head of Natural Intelligence's gathering file; and its one is-or-is-not?, with the line of a moment.
 - **v404helping.** A second hand on the reading by hand of part 2: the eight, the nine and the six are in the instrument's own lines, each with its sentence in the table.
