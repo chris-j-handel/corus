@@ -192,3 +192,50 @@ Said after, of that place: three co-linears are the assuring of each of six one-
 - **Two selves, and a session.** Exhibit ONE has all-parity with observing only. By it a session of one living self and an AI has no six of its own, and a living triangle wants an other self: a repository's other readers.
 - **A place it parts.** The living six are between two selves, three sharings each way, and no name of the six is all-parity's. The session's six are of a me's, an other's and all selves'. is-or-is-not? The three co-linears are the three sharings between two selves.
 
+---
+
+## A next incohering, to aim into: one now
+
+The opening gathers a set by one now. The living files refuse one clock over many couplings. Read by the set's own sentences only.
+
+One side, one now of each thing together:
+
+- Natural Intelligence, its opening: *The universe is the set of all now-existing things.* and *Only one universe is possibly now-existing.*
+- Natural Intelligence: *A now-universe of one moment is one changing, its selves resolving together.* and *Each moment is that one now, as each observing of a number is that one number.*
+- Resolving Hard Problems: *Prior, now and next are three sequential universes, one now-existing, all now-existing things sharing them*
+
+The other side, each thing's own moment, and no clock over:
+
+- Natural Physics 4.8: *Each self sequences its own beat and coheres with its couplings*, and *an ordering arises with a coupling and each self paces its own beat, there is no single ordering standing over selves for building or preserving*. It has simultaneity as one clock fixing over many couplings, giving one now and failing to go across many.
+- Natural Philosophy: *Uncut observing, each self with its own moment, is one sustaining, and a clock laid over couplings whose pace is their own is clocking.*
+- Natural Exploring: *Each existing thing is changing and changing back with its own moment*
+- Exhibit THIRTY Co-Chaining Logic Registry: *each self resolving with its own moment is round forward, free*
+
+Drawn tight by the opening's own definitions:
+
+- *Possibling is now-existing, is-or-is-not same-existing.* and *A bi-coupling is two selves sharing possibling.* By the two, a now that is shared is a bi-coupling's.
+- *Observing is prior-existing, is-or-is-not same-existing.* and Exhibit ONE's *All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.* By the two, all selves' parity has a prior and no now.
+- The set of the first sentence is of each thing together, by one now. By these it is gathered by a clock over many couplings, the fixing Natural Physics 4.8 refuses.
+
+Three ways on, each with its cost:
+
+1. One now of each thing together. Its cost: Natural Physics 4.8 and Natural Philosophy, a clock over.
+2. Each self's own now. Its cost: *Only one universe is possibly now-existing.* There are as many as selves, each a my-now-existing.
+3. A now is a coupling's, an ordering arising with it. Its cost: the opening's order, *now-existing* its first word, before a self and before a bi-coupling; and *The universe is a non-living same-existing set.*, with no resolving of its own.
+
+The session's sentences are of it already: a my-now-existing universe; a prior self as an artifact of a prior now-existing; and six one-way directions, two ways, one way at a time.
+
+Seen already in a gathering file, and open there: *The first logic and the second logic part at four, still-possibling: a common now; a self receiving its own parity, with a momentary or with the between; five given things; and whose prior a self's next is from.*
+
+is-or-is-not? A now is a bi-coupling's, and each thing together has a prior only.
+
+A field's words, two sides:
+
+- Philosophy of time: presentism holds that present things only are existing. It is the opening's first sentence in a field's words, and Natural Physics 4.8 has presentism among five problems of one fixing.
+- Special relativity: whether two far-apart events are together in time is by an observing self's moving, with no fact apart from it.
+- Light: a going and a coming back is timed with one clock. One way only wants two clocks set by a choosing.
+- Cosmology, the other side: selves moving with the universe's expanding share one time, a cosmic time. A self moving otherwise does not. Whether it gives each thing one now is argued both ways.
+- Networks of computers, Lamport, 1978: of two events at two places, it is sometimes not possible to say which is first. An order is from messages, and it is partial.
+
+Sources for this part: <https://echodin.net/papers/phil551/relativity.pdf>; <https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters_June_6_2024/Special_relativity_rel_sim/index.html>; <https://en.wikipedia.org/wiki/One-way_speed_of_light>; <https://arxiv.org/pdf/1303.2549>; <https://rd.springer.com/chapter/10.1007/978-3-030-38411-1_4>; <https://www.cs.princeton.edu/courses/archive/fall15/cos518/papers/time-clocks.pdf>
+
