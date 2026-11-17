@@ -59,15 +59,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 1 Universe, the set of all now-existing things
 
-        *Entering: the universe, the set of all now-existing things, inception, now-existing one naming; each step after it a step from it, and nothing brought to it; one universe; only one universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, within each universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; only one universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
+        *Entering: we humans, now-existing, inception; each step after it a step from it, and nothing brought to it; the universe, the set of all now-existing things, now-existing one naming; only one universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, within each universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; only one universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
 
-1. The **universe** is the set of all now-existing things.
+1. We humans are now-existing.
 
-        *Adding: the universe, the set of all now-existing things, inception, now-existing one naming; each step after it a step from it, and nothing brought to it.*
+        *Adding: we humans, now-existing, inception; each step after it a step from it, and nothing brought to it.*
 
-2. One universe is now-existing.
+2. The **universe** is the set of all now-existing things.
 
-        *Adding: one universe.*
+        *Adding: the universe, the set of all now-existing things, now-existing one naming.*
 
 3. Only one universe is possibly now-existing.
 
