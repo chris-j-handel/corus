@@ -22,13 +22,13 @@ Between the two zones are papers of past sessions whose value has not been read 
 |---|---|---|
 | Physics | v376 and v377: physics observings and natural torusing, the proposed Natural Physics and its reviews | yes |
 | Bubbling | v403bubble | yes |
-| The dossiers of open value | v392F | not yet |
-| Carbon | Carbon Dating Explaining, v396 Carbon Co-Chaining Understanding, atom and carbon with primes, carbon scale existing things and ghosts, atomic fractal exploring | not yet |
-| Chemistry | chemistry and water, v392chem | not yet |
-| Forms | vault bi-folding, plane coloring and natural torusing, v386F | not yet |
-| Health, biology and medicine | v397Med, v382A | not yet |
-| Method and logic | Self Competency Binary Logic and Method Explaining, v383Op, v385A, v385R | not yet |
-| Networking and transmissioning | v384A's proposal for Exhibit SIX Natural Transmissioning, v380's Natural Networking explorings | not yet |
+| The dossiers of open value | v392F | its plan and last word, yes; 69 living sentences it quotes that no note has, not yet |
+| Carbon | Carbon Dating Explaining, v396 Carbon Co-Chaining Understanding, atom and carbon with primes, carbon scale existing things and ghosts, atomic fractal exploring | v396's last word, yes; a few passages with a field's terms no file has, not yet |
+| Chemistry | chemistry and water, v392chem | not yet: v392chem's survey of a field is the one body of the past whose terms no file has |
+| Forms | vault bi-folding, plane coloring and natural torusing, v386F | artifact: each of its terms is in the files |
+| Health, biology and medicine | v397Med, v382A | artifact: v397Med's last word is read and laid, v382A was laid whole at v387, and each of their terms is in the files |
+| Method and logic | Self Competency Binary Logic and Method Explaining, v383Op, v385A, v385R | artifact: v383Op was laid whole at v387, and each of their terms is in the files |
+| Networking and transmissioning | v384A's proposal for Exhibit SIX Natural Transmissioning, v380's Natural Networking explorings | artifact: v384A was laid whole at v387, each mend of v380's readings is in its living file, and each of their terms is in the files |
 
 **What reading has taught, by an experiment.** Forty-two past papers are read whole, about 102,000 words. Five gave notes, fifteen in all. Thirty-seven gave none.
 
@@ -44,6 +44,8 @@ Between the two zones are papers of past sessions whose value has not been read 
 2. Across all papers by instrument: a field's records whose terms no file has, and each open question a paper states. Only those passages are read.
 3. Each reading of one living file by a reader apart, read whole.
 4. Each other paper is artifact unread, unless one of the three above points into it.
+
+**The surest test, found last.** For each past session, list the terms it says twice or more that no living file and no gathering file has. A session whose only such terms are words of working has been carried forward. One session has a body of them, four hundred and more: v392chem's survey of chemistry, 250,000 words, with terms as *electronegativity*, *nitrogenase* and *quasicrystals*. Read its own digest first, *Living learning from the chemistry exploring*, then the open binaries its eight parts on a field's frontiers state.
 
 Each paper read has a guess before it and a result after it. A mark that guesses wrong is dropped. Each thing found is first matched with the notes already in the gathering file, and laid only if none has it.
 
@@ -135,6 +137,7 @@ Plain words. Show the sentence as it is and as you changed it. Ask only when the
 - The copy is current with main and passes its checks. It has 66 lines of three living files improved by word sweeps, six of the nine sweeps waiting for a second reader, and the first sentence improved under v404chaining's lead: the opening's seventeenth, *Each self is living, and each living thing is a self.*
 - The opening's sixteenth is an is of both partners at its first clause alone: *Living is inheriting prior-existing.* v404chaining enters it. The eighteenth in the copy is *A living same-existing set of inherited prior-existings is a self.* Two things are open before the copy enters: the nineteenth, for the opening to say again that intelligence is living; and four living sentences elsewhere that say living is co-intelligencing.
 - AI is said in three living files of the copy as a non-living inferring, with no intelligence of its own. Exhibit TWO Natural Networking in the copy says parity in each of ten sentences, by Exhibit TWENTY Natural Naming's released words.
-- The first pass over past papers is done for two clusters of nine, Physics and Bubbling. The table above says which are not yet read.
+- The first pass over past papers is done for two clusters of nine, Physics and Bubbling.
+- By the order of work above: a field's records with terms no file had are read across all clusters, sixteen passages, and laid; and the last words of the carbon session v396 and the medicine session v397Med are read, and what each named as waiting is laid. Not yet read: the last words of the other past sessions, and the thirty-nine readings by a reader apart. The table above says which are not yet read.
 - About one gathering note in seven still carries a mark of the journey, about 1,030 of 6,850: a session's name, a date, a pointer to a past page or program, or the story of how it arrived. Most are in the gathering files of Natural Intelligence, Exhibit TWENTY-FOUR Geodesic Improving Method, Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry. Clearing them, the concept left whole, is a job open to a session.
 - `incoming/v404mgr/instruments/read_for_harm.py` is what the managing session runs on each slice.
