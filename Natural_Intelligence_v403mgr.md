@@ -21,7 +21,7 @@ A **me** is a self's universal set. \
 For a self, each now-existing thing is-or-is-not within its me. \
 **Co-intelligencing** is selves observing, possibling and discovering within a universal set. \
 **Living** is co-intelligencing. \
-Each self is living. \
+Each self is living, and each living thing is a self. \
 A living same-existing set is a self. \
 **Natural intelligence** is the method of living as a same-existing self. \
 Living and **non-living** are one binary of each now-existing thing. \

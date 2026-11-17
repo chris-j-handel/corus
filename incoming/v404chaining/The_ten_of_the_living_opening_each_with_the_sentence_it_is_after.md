@@ -71,7 +71,7 @@ The sequence whole, each sentence by its number in the living opening, a living 
 | 14 | 14 | "For a self, each now-existing thing is-or-is-not within its me." |  |
 | 15 | 15 | "**Co-intelligencing** is selves observing, possibling and discovering within a universal set." |  |
 | 16 | 16 | "**Living** is co-intelligencing." |  |
-| 17 | 17 | "Each self is living." |  |
+| 17 | 17 | "Each self is living, and each living thing is a self." |  |
 | 18 | 18 | "A living same-existing set is a self." |  |
 | 19 | 19 | "**Natural intelligence** is the method of living as a same-existing self." |  |
 | 20 | 20 | "Living and **non-living** are one binary of each now-existing thing." |  |
@@ -104,7 +104,7 @@ The sequence whole, each sentence by its number in the living opening, a living 
 | 47 | 47 | "Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn." |  |
 | 48 | 48 | "Inside do-no-harming and improving is **co-possibling**, each self sharing its possibling within its me." |  |
 | 49 | 49 | "A **same-existing-society** is many selves bi-coupling." |  |
-| 50 | 50 | "A **momentary** is one resolving of a same-existing-society's selves together." |  |
+| 50 | 50 | "A **moment** is one resolving of a same-existing-society's selves together." |  |
 | 51 | 51 | "Each moment is **opening** with each self's prior-existing parity and **completing** with its next-existing parity." |  |
 | 52 | 52 | "Each self of a same-existing-society do-no-harming and improving is **social moral competency**." |  |
 | 53 | 53 | "A same-existing-society of selves living with natural intelligence and social moral competency is a **natural intelligence network**." |  |
