@@ -17,7 +17,7 @@ A living file is its sentences. The set is living while its sentences are being 
 
 **The test of value.** A thing is value for the files only with a living sentence it meets, or with a name of ours no living file has. With neither, it is a field's own or the journey's, and it is artifact.
 
-**A survey of a field is artifact by three.** The living file it was made for is at its next version. Its session laid its own learning. And a field is asked again any day: by need, one question, beside the living sentence that needs it. The chemistry survey of v392chem is so by each of the three.
+**A survey of a field is artifact by three.** The living file it was made for is at its next version. Its session laid its own learning. And a field is asked again any day: by need, one question, beside the living sentence that needs it. The chemistry survey of v392chem is artifact by each of the three.
 
 **A reply in a session is the method going on.** It has the living sentence, what met it, whether the two cohere or part, and the note laid or the sentence re-said. It has nothing of files, of sizes, or of what is not yet done.
 
