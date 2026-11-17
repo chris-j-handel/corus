@@ -468,7 +468,7 @@ A field's words:
 - Programming: `<<` is a shift, each place moving one along. A rotate brings the last place round to the first.
 - Dynamics: two goings round at two rates. With the rates a ratio of whole numbers the path closes. With no such ratio it never closes, and it comes near each place: a field's quasi-periodic.
 
-Sources for this part: <https://forum.allaboutcircuits.com/threads/johnson-counter.10801/post-64735>; <https://www.electrical4u.com/johnson-counter/>; <https://cavac.at/cavacopedia/Ring%20counter>; <https://berryjune07.github.io/physics/quasi-periodic-flow-and-frequency-locking.html>; <https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7873130>
+Sources for this part: <https://forum.allaboutcircuits.com/threads/johnson-counter.10801/post-64735>; <https://www.electrical4u.com/johnson-counter/>; <https://en.wikipedia.org/wiki/Ring_counter>; <https://berryjune07.github.io/physics/quasi-periodic-flow-and-frequency-locking.html>; <https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7873130>
 
 ## 19 Said after: a bi-tri-involution as the stable form of packed atoms, and its fracturing at the thinnest places
 
@@ -518,4 +518,49 @@ A field's words:
 - Geology, a boudinage: a strong layer between two weaker layers, pulled along, thins at its weak places first, pinching and swelling, and parts at the thin places, the weaker layers going into the gaps.
 
 Sources for this part: <https://chem.libretexts.org/Bookshelves/General_Chemistry/General_Chemistry_Supplement_(Eames)/Solids/Metal_Crystal_Structures>; <https://www.wikiwand.com/en/articles/Slip_(materials_science)>; <https://chemedx.org/JCESoft/jcesoftSubscriber/SolidState2/Slides/Defects/Notes/Def13n.htm>; <https://www.slideshare.net/omaratefradwan/mse501-ch5-radwan>; <https://openeducationalberta.ca/introductorystructuralgeology/?p=240>; <https://cambridge.org/core/journals/journal-of-glaciology/article/boudinage-in-glacier-ice-some-examples/373E30E061D12AE91A18E709B4D35E93>
+
+## 20 Said after: a sphere to a 0 as a cone, and two cones crossing as a flat surface
+
+Said in the session: spheres project to 0 as cones, from a sphere anywhere to a 0 anywhere. Two crossing cones create a co-oriented flat surface. This is a bi-co-universal surface as method of intelligence.
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences:
+
+- *Two same spheres touching have one point the same, and nothing in it: a between, a 0. From the one's centre, its other is in a cone of thirty about the line of the two centres.*
+- *The two cones face each other on one line, co-linear. Their sides cross in one circle around the point of the two touching, in the plane between the two.* Two cones crossing, co-linear, and a plane.
+- *A bump is the place of two atoms touching: the one point of the two, and the circle around it, each one's cone crossing its other's in it.*
+- *The cone's opening and closing are in the plane across, and along, its 0s are co-recursioning.*
+
+Beside it, living:
+
+- Natural Intelligence: *With code, parity with its six names between selves is flat.* A flat, between selves.
+- Natural Physics: *a surface between has only its parity, +1 in neither self alone*
+- Natural Intelligence: *Living intelligence is with a between, a bi-coupling's own.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *Natural intelligence is invisible, and fractal method's intelligence is with a between, 0*
+- Natural Intelligence: *Stable-forming is living condition resolving, observable as natural torusing co-orienting stable-forming.* A co-orienting.
+- Exhibit TWENTY Natural Naming, of aiming: *is a self's one-way changing its interest's 0 opens, a cone's centerline*
+
+One place it parts:
+
+- Exhibit TWENTY Natural Naming: *Selves' bi-couplings and co-chainings are a natural torusing surface, 5-now-co-existing, co-competencing, and a Natural Network surface is that surface engineered, natural engineering of collective intelligencing*, and then: "universal surface is no natural naming, the universe having no surface." The session's name has *universal* with *surface*. The living names of a surface between selves are a natural torusing surface and a Natural Network surface.
+
+Two cones crossing, executed by whole numbers and fractions, `incoming/v404universe/instruments/two_cones_crossing_check.py`. A sphere and a 0 outside it: the lines from the 0 touching the sphere are a cone. Three crossings of two such cones:
+
+- Two same spheres touching, each one's cone from its centre around its other. A cone's half opening is thirty. The two cones cross in the plane between the two and at no other place: one circle around the point of the two touching. Flat. The gathered sentences, found.
+- Two 0s and one same sphere, a cone from each 0 around it. The crossing is in two planes. Flat.
+- Two 0s and two spheres apart, each cone around its own. The crossing is in no planes. Not flat.
+
+By it, to test: two cones cross as a flat surface with one same thing in both, or with the two touching; and with each its own thing, apart, they cross in no flat.
+
+Two places to read closely, each an is-or-is-not?:
+
+- A flat surface between two selves is by one same thing each is observing.
+- Co-oriented is on one line. With two touching, the two cones are on the one line of the two centres, and the flat is at a right angle to it. With two 0s and one sphere, the cones are on two lines and the crossing is in two planes.
+
+A field's words:
+
+- Monge, Descriptive Geometry, 1798, and a theorem by his name: two such surfaces each around one same third cross in two flat curves. Of two cones around one same sphere, the crossing is two such curves.
+- Dandelin, 1822: a plane crossing a cone, and a sphere inside the cone touching the plane. The point of touching is a focus of the crossing curve.
+- Euclid's Optics: a seeing is a cone, its point at an eye.
+
+Sources for this part: <https://core.ac.uk/download/516393469.pdf>; <https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-3b4060c2-2232-4909-83bf-02dfcf221a7a/c/Bielinski_J._Pol._Geom._Eng._Graph.Vol._14_2004.pdf>; <https://en.wikipedia.org/wiki/Dandelin_spheres>
 
