@@ -70,3 +70,30 @@ Beside the third:
 - Natural Chemistry's gathering file: *Jitter, snap and settling are a waver, a newly aiming 0, one changing and a continuing 0, and a continuing 0*.
 - Natural Networking's gathering file, a partner's sentence: *the co chaining along the tunneling backs up and the jittering begins before geodesic binary parity changing into a new tunneling*.
 - Natural Intelligence 6.4: *Bi-trupling protocol is a full social bi-coupling with natural resolver on a Natural Network surface*, its across with 6 and 10, the two co-possibling names. A partner's sentence has co-possibling as a jittering before a social bi-coupling, and 6.4 has co-possibling as the across of a full one.
+
+## 7 Said after: a limited attentioning, unimaginable things, and no non-living intelligence
+
+A partner said: a me, a self, can only attention a limited set of me-parities with universes, prior, now, next and same. Similarly a society has a limited collective set of me-parities with universes. Unimaginable things remain outside all of this collectively possible human intelligence, and not many observings are helping this fuzzying to society. All of this is about living human intelligence. There is not a concept of non-living intelligence. All intelligence is living, and there is no possible non-living intelligence now-existing. There is no intelligence until it is shared with living things.
+
+Cohering:
+
+- Natural Intelligence 6.5: *Living is co-intelligencing, stable-forming a self*.
+- Exhibit THIRTY-ONE Me 1.4: *Intelligence alone is stand-alone knowledge, a stable-forming emanation.*
+- Me 2.3: *A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not.*
+- Natural Intelligence 6.5, of an AI: *Living selves' parities relative to it are natural intelligence among living selves, its same-existing theirs.*
+- Of attention: Exhibit TWENTY Natural Naming 4.7 has *attention is said by interest's 0 changing*, and 6.3 has attentioning as *a same-existing with now, with each moment, of Natural Intelligence*. No living sentence was found of an attentioning as limited.
+
+Parting, one name:
+
+- Five living sentences of three living files have *non-living intelligence*, and ten droplets of three gathering files. Natural Intelligence 6.5: *With observings, AI is existing non-living intelligence of its inferring*. Exhibit THIRTY Co-Chaining Logic Registry, its group of a machine at observings: *With observings, AI is existing non-living intelligence*. Natural Intelligence Corus 23.1: *AI is existing non-living intelligence with a scale of its inferring*.
+- A sentence as it is, and as it would be by a partner's sentence with Me's own word, for a reader to test and not made here. As it is: With observings, AI is existing non-living intelligence of its inferring. Re-said: With observings, AI is existing stand-alone knowledge of its inferring.
+
+Not found: *unimaginable* is in one living sentence, of Natural Intelligence Corus 16.1, as a word of enthusiasm to watch for. No living sentence was found of things outside each possible imagining.
+
+A field's words, two sides:
+
+- Maturana and Varela, 1970 to 1980: living systems are cognitive systems, and no cognition is apart from a living. This coheres with a partner's sentence.
+- Newell and Simon, 1976: a physical symbol system has what is needed, and all that is needed, for general intelligent action. By it a machine with no living can be intelligent. This parts from it.
+- Vygotsky: each higher function is first between people and after that within one. This coheres with no intelligence until it is shared.
+
+Sources for this part: <https://monoskop.org/log/?p=3427>; <https://en.wikipedia.org/wiki/Physical_symbol_system>; <https://es.scribd.com/document/371900577/vygotsky-foe2>
