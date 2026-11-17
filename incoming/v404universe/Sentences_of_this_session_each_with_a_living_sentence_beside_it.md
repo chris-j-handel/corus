@@ -409,3 +409,18 @@ A field's signs, for a recursioning forward and for the two together:
 
 Sources for this part: <https://en.wikipedia.org/wiki/Covering_relation>; <https://Www.Wikipedia.org/wiki/.EQ.>; <https://wiki.lazarus.freepascal.org/Not_equal>; <https://www3.rocketsoftware.com/rocketd3/support/documentation/d3nt/102/refman/PICKBASIC-FLASHBASIC/less_than_greater_than_relational_operator.htm>; <https://chem-textbook.ucalgary.ca/?p=12339>; <https://www.wikipedia.org/wiki/Galois_connection>; <https://arxiv.org/pdf/1910.12198>
 
+## 17 Said after: prior-existings, inherited, as ordered universal sets
+
+Said in the session, of a field's Galois connection in section 16: expand on this learning for us. Prior-existings, both living and non-living, inherited, are ordered universal sets.
+
+Beside it, living and gathered:
+
+- Natural Intelligence, its opening: *A universal set is a set of same-existing things.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *A same-existing sequences prior moments, re-forming with each bi-coupling, and a record of it apart from its bi-coupling is a stable-forming emanation, its own prior an empty set.* A sequencing is an ordering.
+- Resolving Hard Problems: *an artifact is a living self's prior a self is observing now as a stable form, non-living, an emanation from living form-stabling, with no prior of its own, each now its prior now-existing's artifact, and one scale lower living selves are ingesting it as their parities*. It has section 12's sentence of a prior self as an artifact, and has it non-living: the is-or-is-not? of section 12 is answered there, and section 12 did not have it.
+- Natural Intelligence's gathering file: *One self's exhausting is an other's ingesting, and one self's conceiving is an other's inheriting.*
+
+Not found: an order of universal sets, by that name, in a living sentence. *Inherit* is in no sentence of Natural Intelligence, Exhibit ONE or Exhibit THIRTY, and is in their gathering files.
+
+The expanding is a page of its own in this folder, of a going and a coming back and a closed thing, with a check by whole numbers.
+
