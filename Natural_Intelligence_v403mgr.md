@@ -4,8 +4,8 @@ Natural Intelligence v403mgr
 
 **The Universal Method of Same-Existing**
 
+We humans are now-existing. \
 The **universe** is the set of all now-existing things. \
-One universe is now-existing. \
 Only one universe is possibly now-existing. \
 A now-existing thing from a prior-existing same thing is a **same-existing** thing. \
 A **universal set** is a set of same-existing things. \
