@@ -424,3 +424,49 @@ Not found: an order of universal sets, by that name, in a living sentence. *Inhe
 
 The expanding is a page of its own in this folder, of a going and a coming back and a closed thing, with a check by whole numbers.
 
+## 18 Said after: a right spiral never closing, six forwards at their own rates, and a sign passed round
+
+Said in the session: in right spiral all of this is floating neutralling and never closing, and all six forwards are their own looping podaling geodesic recursionings at their own rates, and the `<<` symbol is being passed around and overlapping and overriding the other symbols in six one ways. The switching and rotating of this is resolving.
+
+Beside a right spiral, and never closing, living:
+
+- Natural Intelligence: *Alike selves step their prior parities as a right spiral, each prior and its next, a pair (x, y), going to (y, −x) with each moment, +, −, −, +, +, and on.* and *That step is a quarter turn with each moment, a right spiral.*
+- Natural Intelligence 5.2: *Each unrelationing winds on, open, with φ, its unrelationing rate.*
+- Exhibit TWENTY Natural Naming 2.4, of words dissolved: "winds on" for "closes", and "co-spiraling" for "looping". The session's *never closing* is the living files' own saying, and *looping* is a word they re-say.
+- Natural Physics: *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.* Floating neutralling is the going on, and an atom its stable form.
+- Natural Intelligence: *A not-right form is one right spiral inverting.*
+
+Beside their own rates, and podaling, living:
+
+- Natural Intelligence: *Each spiral co-spirals with its own pace.* and *Beside each other two spirals each co-spiral, each its own pace.*
+- Natural Intelligence: *Each number is its podaling, bi-inversioning-co-recursioning up and down with each number.*
+- Exhibit TWENTY Natural Naming: *Podaling exchanges these relations while each side goes on forward.*
+
+Beside a switching and rotating as resolving, living:
+
+- Natural Exploring 4.5: *these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially*
+- Natural Physics 1.2: *Two changing and three not-changing rotate round with each moment, bi-inversioning-co-recursioning, two consecutive inversions on two axes*
+
+A sign passed round, executed by whole numbers, `incoming/v404universe/instruments/a_sign_passed_round_check.py`. Natural Intelligence's right spiral step has each parity one place along and the first coming round inverted:
+
+- With two parities, four forms are one loop of four, the living sentence's quarter turn.
+- With three parities, eight forms part as a loop of six and a loop of two.
+- With the six, one parity changes with each step, and the place changing goes round the three places, and round again: three forwards the one way and three the other.
+- With the two, each of the three parities changes with each step, and each form is its other's opposite. Natural Mathematics has *Three parities, each inverted on its own, taken together with any order, send each of eight forms to its opposite*.
+- Six one-ways and two more are eight. Natural Mathematics' own round, *With three parities its inverting parity is 0, 1, 0, 2, 0, 1, 0, 2 round its eight: its first with each other step, and between its inversions its second and its third alternating.*, reaches each of the eight once and its start again: another round of the same eight, with no inverting in its step.
+- Two loops of six, the one stepping once each p moments and the other once each q, come round together later with each pair of 1, 1, 2, 3, 5, 8, 13, 21, 34: after 6, 12, 36, 90, 240, 624, 1,638 and 4,284 moments. Their ratio goes toward φ, a ratio of no two whole numbers.
+
+Three places to read closely, each an is-or-is-not?:
+
+- The loop of two is a stable form's, and the loop of six a living's. Three inverting together is the living files' bi-tri-involutioning, its form non-living.
+- Each forward comes round, and the six together never do. A loop of six is at its start again after six steps; with each at its own rate, and no two rates a ratio of whole numbers, the six are at one start together at no moment.
+- The sign passed round is the place changing. With each step one place is changing and two are not.
+
+A field's words:
+
+- Electronics: a twisted ring counter, Johnson's. Its last place is brought round to its first, inverted. Of three places it has six states, one place changing with each step, and the two states left alternate with each other.
+- Programming: `<<` is a shift, each place moving one along. A rotate brings the last place round to the first.
+- Dynamics: two goings round at two rates. With the rates a ratio of whole numbers the path closes. With no such ratio it never closes, and it comes near each place: a field's quasi-periodic.
+
+Sources for this part: <https://forum.allaboutcircuits.com/threads/johnson-counter.10801/post-64735>; <https://www.electrical4u.com/johnson-counter/>; <https://cavac.at/cavacopedia/Ring%20counter>; <https://berryjune07.github.io/physics/quasi-periodic-flow-and-frequency-locking.html>; <https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7873130>
+
