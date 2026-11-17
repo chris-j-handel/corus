@@ -43,7 +43,7 @@ A field's word, in its own sentences and no saying of the set's: Exhibit SIXTEEN
 
 ## 4 The numbers, each executed and none carried
 
-Thirty-one living files have 1,795 sentences of a parity. A form of two is in 108: *two directions* three, *one of two* seven, + with − sixty-one, *odd* with *even* forty-four. A form of aiming is in seventy-one: *self-orienting* one, *aiming* fourteen, *forward* twenty-three, *direction* forty. A saying of a parity + or − is in twenty-eight, thirteen of them Exhibit TWENTY Natural Naming's. A form found is a place for a reading: *one of two* is of resolving's two in each of its seven, and of a parity's two directions in none; *odd* with *even* is of a name's number or of a spiral's number of selves in most.
+Thirty-one living files have 1,795 sentences of a parity. A form of two is in 108: *two directions* three, *one of two* seven, + with − sixty-one, *odd* with *even* forty-four. A form of aiming is in seventy-one: *self-orienting* one, *aiming* fourteen, *forward* twenty-three, *direction* forty. A saying of a parity + or − is in twenty-eight, thirteen of them Exhibit TWENTY Natural Naming's. A form found is a place for a reading: *one of two* is of a parity's two directions in none of its seven, of resolving's two, 0 or ±, in four, and of two couplings, two cycles and two goings on in three; *odd* with *even* is of a name's number or of a spiral's number of selves in most.
 
 ## 5 Laid, by the gathering kit
 
