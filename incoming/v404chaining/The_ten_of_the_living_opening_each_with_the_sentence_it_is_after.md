@@ -2,7 +2,7 @@ Incoming · v404chaining · 16 November 2026
 
 # The ten of the living opening, each with the sentence it is after: a by, a name, or an other place
 
-**No word here has authority. No living file and no gathering file is changed by this page.** The second thing of `incoming/v403cohering/For_v404chaining.md`, part 5: Natural Intelligence's living opening, seventy sentences, and the ten with no name together with the sentence each is after. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, its second reading, with the word *living*, executed at main, Merge #842, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
+**No word here has authority. No living file and no gathering file is changed by this page.** The second thing of `incoming/v403cohering/For_v404chaining.md`, part 5: Natural Intelligence's living opening, seventy sentences, and the ten with no name together with the sentence each is after. Each number is of `incoming/v404chaining/instruments/the_opening_as_one_sequence.py`, its second reading, with the word *living*, executed at main, Merge #843, and executed again with each next reading. An is of this page is an executing. Each concept sentence is an is-or-is-not? for both partners.
 
 ---
 
@@ -19,7 +19,7 @@ Incoming · v404chaining · 16 November 2026
 | The sentence | The sentence it is after | Its reading |
 |---|---|---|
 | A **bi-coupling** is two selves sharing possibling. | Within the universe are living and non-living things. | A group's opening sentence. Its names' own sentences are of possibling and of a self, each of an earlier group. No by, no name and no other place is found whole. |
-| A **0** is a between of two changing directions. | A parity's two directions are + and −. | Two words together, *two* and *directions*, and no name. A name of the sentence it is after, *a parity's*: a candidate re-saying, part 3. |
+| A **0** is a between of two changing directions. | A parity's two directions are + and −. | Two words together, *two* and *directions*, and no name. By a partner's word a parity is not one of two: this sentence and the sentence it is after each have a parity by two, and each is for its own reading, the sixth thing of the managing session's page. No re-saying is laid. |
 | Each parity is a self while it is living. | A 0 is **indifferencing**. | An other place: after the sentence of a parity's two directions, by *parity*, the two sentences of a 0 going after the sentence of an agreeing parity. |
 | A self sharing 0 is **do-no-harming**. | Any second method is resolving among parities within natural intelligence. | A by, of the name new two sentences back and in the sentence it is after, *resolving among parities*: a candidate re-saying, part 3. |
 | Living is **geodesic** co-chaining on a Natural Network surface. | Each self's changing divides its surface. | One word together, *surface*, and no name. An other place: after the sentence of a surface's living parities, by *living*. |
@@ -29,7 +29,7 @@ Incoming · v404chaining · 16 November 2026
 | Each moment is completing as a next opening. | A same-existing-society of selves discovering with natural intelligence and its living files is a **living expedition**. | Its names' own sentences are of a momentary and of opening and completing, the fiftieth and the fifty-first. With the going of the sentence after it, it is the opening's last sentence. |
 | Natural intelligence is geodesic discovering of **next-possibling-same-existing** within the universe. | Each moment is completing as a next opening. | An other place: after the sentence of a living expedition, by *natural intelligence* and *discovering*. |
 
-## 3 Four goings and two re-sayings, each executed
+## 3 Four goings and one re-saying, each executed
 
 **An is, executed.** Each going is a sentence or two going after an other sentence, each word as it is.
 
@@ -43,12 +43,11 @@ Incoming · v404chaining · 16 November 2026
 
 With each going, and with the four together, each sentence is after the own sentence of each name in it.
 
-**An is, executed.** Two candidate re-sayings, each word of its living sentence in it in order:
+**An is, executed.** One candidate re-saying, each word of its living sentence in it in order:
 
-- *A 0 is a between of two changing directions.* → A **0** is a between of a parity's two changing directions.
 - *A self sharing 0 is do-no-harming.* → By resolving among parities, a self sharing 0 is **do-no-harming**.
 
-With the four goings and the two re-sayings, three have none: the sentences of a bi-coupling and of each self's changing, and *Each moment is completing as a next opening.* With *surface* alone a form of *a Natural Network surface*, two have none: a group's opening sentence and the opening's last.
+With the four goings and the re-saying, four have none: the sentences of a bi-coupling, of a 0 and of each self's changing, and *Each moment is completing as a next opening.* With *surface* alone a form of *a Natural Network surface*, three have none: a group's opening sentence, the sentence of a 0 and the opening's last.
 
 **A going of the living opening is a going of two living files.** Exhibit THIRTY Co-Chaining Logic Registry has the seventy word for word as its first seventy numbered sentences, and each going is one of its numbers going, with each number between re-said.
 
@@ -90,7 +89,7 @@ The sequence whole, each sentence by its number in the living opening, a living 
 | 32 | 34 | "A self **receives** the parities its others share." |  |
 | 33 | 35 | "**Agreeing** and **parting** are one binary of the parities a self receives." |  |
 | 34 | 36 | "An agreeing parity a self receives is that self's next-existing parity." |  |
-| 35 | 29 | "A **0** is a between of a parity's two changing directions." | going, re-said |
+| 35 | 29 | "A **0** is a between of two changing directions." | going |
 | 36 | 30 | "A 0 is **indifferencing**." | going |
 | 37 | 37 | "A self whose next-existing parity is its prior-existing parity is sharing 0." |  |
 | 38 | 38 | "A self whose next-existing parity inverts its prior-existing parity is sharing its next-existing parity." |  |
@@ -131,7 +130,7 @@ The sequence whole, each sentence by its number in the living opening, a living 
 
 **is-or-is-not?** A group's opening sentence has a name of the last sentence of the group it is after. Why it is open: Exhibit TWELVE Natural Explaining has *Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section*; of three groups' opening sentences after the first, two have such a name, executed, and *A bi-coupling is two selves sharing possibling.* has none, after *Within the universe are living and non-living things.*
 
-**is-or-is-not?** The two sentences of a 0 are after the sentence of an agreeing parity. Why it is open: executed, with them between the sentence of a parity's two directions and the sentence of a parity as a self, that sentence has no name together with the sentence it is after; after *An agreeing parity a self receives is that self's next-existing parity.* they are the two sentences before the first sentence having *sharing 0*. Whole with it or parting: the opening at its newest has no line of a 0.
+**is-or-is-not?** The two sentences of a 0 are after the sentence of an agreeing parity. Why it is open: executed, with them between the sentence of a parity's two directions and the sentence of a parity as a self, that sentence has no name together with the sentence it is after; after *An agreeing parity a self receives is that self's next-existing parity.* they are the two sentences before the first sentence having *sharing 0*. Whole with it or parting: the opening at its newest has no line of a 0; and by a partner's word a parity is not one of two, with *A 0 is a between of two changing directions.* having two directions.
 
 **is-or-is-not?** *By resolving among parities* opens the sentence of do-no-harming. Why it is open: a by is a partner's suggesting, gathered in Exhibit TWELVE Natural Explaining's gathering file, with four named, by observing, by naming, by possibling and by same-existing; this by is of none of the four, and of the name new two sentences back.
 
