@@ -325,3 +325,40 @@ A field's words, two sides:
 
 Sources for this part: <https://digi.econbiz.de/viewer/!fulltext/1024612627/168/ger/>; <https://acawiki.org/The_triad>; <https://www.doi.org/10.1038/NATURE16981>; <https://kops.uni-konstanz.de/bitstreams/6c2ac711-e7f5-4413-b5a2-7b3f5e529830/download>; <https://www.albany.edu/~ravi/pdfs/part_04.pdf>; <https://www.arxiv.org/pdf/2405.02798>
 
+## 15 Said after: now, the only universal moment; and a co-now
+
+Said in the session, of an incohering set out of one now: now is the only universal moment. And: co-now is a concept for us to explore.
+
+Beside the first, living, Natural Intelligence 1.1, *Now, one universal moment*:
+
+- *Now is universal moment, one and only*, and *a second now is only a naming*. The session's sentence, nearly word for word.
+- *A second now is two prior-existing records lying side by side.*
+- *A common now would be one number for all, a clock over things.* One now is no common now.
+- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: *Now is one, each coupling sharing it and each coupling's own, and a moment is one now a sharing has.*
+- Exhibit THIRTY-ONE Me: *universal is bothboth, only one possibly now-existing and only one possibly same-existing*. By it same-existing is universal too, and prior and next are no universal moments.
+
+Beside the second. *Co-now* was not found in a living file or a gathering file. Near it, living:
+
+- Natural Intelligence 1.1: *One now is one sharing with all bi-couplings.* and *Everything existing is sharing one now with each bi-coupling at each scale, each bi-coupling's now its own.* A now by sharing, and by no clock.
+- The same: *One is now, and a moment is one now with a sharing*. A moment.
+- The same, of the prefix in tri-bi-co-momentarying: *Co-* "is two both facing forward along, is-or-is-not same-existing." Section 13 has a bi-folding as two directions facing each other.
+- Exhibit ONE Natural Resolver, four names of now with co: 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing and 6-now-co-possibling.
+- Natural Intelligence 6.1: *Two selves share from routes each its own, each with its own sequencing, and what arises between them arises in each self with its other.*
+- Natural Physics 4.8: *A together of that sequencing is con — co-sequencing, coherence, and con is the fourth*, a coherence and no dimension.
+- Exhibit TWENTY Natural Naming, of a relativity position: *a now is each self's plane, two moving differently sharing one only as their worldlines cross*.
+
+Three places to read closely, each an is-or-is-not?:
+
+- A co-now is a moment. 1.1 has a moment as one now with a sharing. With it, a co-now is a second name of one concept. With it not, a co-now is a now's sharing and a moment its resolving.
+- A co-now is along, and a bi-coupling's shared possibling is across. 1.1's co- is two facing forward along, and a bi-folding is two facing each other.
+- A co-now is of each bi-coupling together, and of no self alone. Exhibit ONE has all-parity with observing only, a prior, and 1.1 has one now as one sharing with each bi-coupling.
+
+A field's words, two sides:
+
+- Einstein, 1905: two far clocks are set together by a signal going and coming back, a convention. A going and a coming back is timed with one clock.
+- Philosophy of time: with relativity, a holder of presentism gives up a clock's together as the defining of a present, or says how a present is relative. 1.1 does the first.
+- Lorentz's reading of the same physics has one frame at rest, by its building not possible to detect, and no experiment parts it from Einstein's. Most physicists hold Einstein's, the undetectable frame an assuming more.
+- Networks of computers, Lamport, 1978: an order of events is from messages between places, and no clock is over them.
+
+Sources for this part: <https://en.wikipedia.org/wiki/Einstein_synchronisation>; <https://en.wikipedia.org/wiki/One-way_speed_of_light>; <https://echodin.net/papers/phil551/relativity.pdf>; <https://en.wikipedia.org/wiki/Lorentz_ether_theory>; <https://www.cs.princeton.edu/courses/archive/fall15/cos518/papers/time-clocks.pdf>
+

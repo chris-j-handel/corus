@@ -239,3 +239,24 @@ A field's words, two sides:
 
 Sources for this part: <https://echodin.net/papers/phil551/relativity.pdf>; <https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters_June_6_2024/Special_relativity_rel_sim/index.html>; <https://en.wikipedia.org/wiki/One-way_speed_of_light>; <https://arxiv.org/pdf/1303.2549>; <https://rd.springer.com/chapter/10.1007/978-3-030-38411-1_4>; <https://www.cs.princeton.edu/courses/archive/fall15/cos518/papers/time-clocks.pdf>
 
+### Mended: Natural Intelligence 1.1 has it, and the reading above missed it
+
+Said in the session after: now is the only universal moment. It is Natural Intelligence 1.1, nearly word for word, and the reading above did not have 1.1 beside it:
+
+- *Now is one, and each now-existing thing is with it.*
+- *Now is universal moment, one and only*, and *a second now is only a naming*.
+- *One is now, and a moment is one now with a sharing*
+- *Everything existing is sharing one now with each bi-coupling at each scale, each bi-coupling's now its own.*
+- *A common now would be one number for all, a clock over things.*
+- *One now is one sharing with all bi-couplings.*
+
+By 1.1 one now is no common now. A clock is one number for each thing, an ordering and a pace laid over. A now is no number, no ordering and no pace: *Each moment is that one now, as each observing of a number is that one number.* The first way on, above, has no cost: Natural Physics 4.8 and Natural Philosophy refuse a clock, and 1.1 refuses it too.
+
+What stands of it, smaller:
+
+- *Now* is said two ways. Natural Physics 4.8 has *Simultaneity is one clock fixing over many couplings, with many nows*, and 1.1 has a second now as only a naming. The one is a clock's now, a reading, and the other is existing's.
+- Natural Naming has *the universe's now is the set of all now-existing moments*, moments many, beside 1.1's now, one.
+- 1.1 has two things and one name between them: one now, said, and a common now, refused. No name parts the one from the other but *common*.
+
+Said in the session after: a co-now is a concept to explore. It sits at that third place: a name for one now by each bi-coupling's sharing together, and no common now. It is in the page of the session's sentences, its section 15.
+
