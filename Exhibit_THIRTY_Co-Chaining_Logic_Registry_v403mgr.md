@@ -597,7 +597,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a resolving; stable-forming a living condition resolving.*
 
-125. Each resolving is all or none at all, with each moment its own, and each resolving whole, its size against an other an empty set.
+125. Each resolving is all or none at all, with each moment its own, and each resolving whole, its size against an other resolving an empty set.
 
         *Adding: all or none at all.*
 
@@ -876,7 +876,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: each gap its step's square.*
 
-189. Advancing by one is one operation and scaling by rate an other, a bringing of one to its other an empty set, and they meet with one number, its placing by either an empty set: φ by its own naming.
+189. Advancing by one is one operation and scaling by rate an other operation, a bringing of one to its other an empty set, and they meet with one number, its placing by either an empty set: φ by its own naming.
 
         *Adding: φ by its own naming.*
 
@@ -1203,7 +1203,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a numeral of a name, place and parity.*
 
-262. A name's odd or even among seventeen is its number's, a number its own now; a sharing's parity, + or −, a self observing it now or as prior, step 258, is an other; and a moment's opening and completing, a prior and its next within one moment, a third: three relations, each its own; one numeral two of three share relates them by an empty set.
+262. A name's odd or even among seventeen is its number's, a number its own now; a sharing's parity, + or −, a self observing it now or as prior, step 258, is an other relation; and a moment's opening and completing, a prior and its next within one moment, a third: three relations, each its own; one numeral two of three share relates them by an empty set.
 
         *Adding: three relations parting.*
 
@@ -2583,7 +2583,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: co-competency of distinct selves, discovering with co-chaining; everything existing sharing one now.*
 
-583. Each bi-coupling opens a plane new to each side, and openings co-chain, each its own and each leaving an other whole: social abundancing, step 55, each self sharing with each self it is bi-coupling with.
+583. Each bi-coupling opens a plane new to each side, and openings co-chain, each its own and each leaving an other opening whole: social abundancing, step 55, each self sharing with each self it is bi-coupling with.
 
         *Adding: abundancing as openings co-chaining.*
 
@@ -2631,7 +2631,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: one form of each scale.*
 
-595. Between scales a bi-coupling across is one parity 17 gives on across, one at a time, with an empty prior behind it, chaining scales, each scale its own; a bi-coupling across of two is one scale sizing an other's, a seat over it.
+595. Between scales a bi-coupling across is one parity 17 gives on across, one at a time, with an empty prior behind it, chaining scales, each scale its own; a bi-coupling across of two is one scale sizing an other scale's, a seat over it.
 
         *Adding: a bi-coupling across of one.*
 
@@ -2972,7 +2972,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: three loops of sessions.*
 
-678. Files linking, each file's sentences reaching an other's sections, is a set of files.
+678. Files linking, each file's sentences reaching an other file's sections, is a set of files.
 
         *Adding: a set of files.*
 
@@ -3068,7 +3068,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a self receiving its other parity with each moment.*
 
-700. With one self each sharing is resolving with its own parities it is observing, step 282: with prior + with one sharing and receiving + with an other, self shares − with its first and + with its second, both its next prior, and each parity of a self is its own sharing's only; a parity opening with its second is a living thing within that self's universal set, steps 31 and 32.
+700. With one self each sharing is resolving with its own parities it is observing, step 282: with prior + with one sharing and receiving + with an other sharing, self shares − with its first and + with its second, both its next prior, and each parity of a self is its own sharing's only; a parity opening with its second is a living thing within that self's universal set, steps 31 and 32.
 
         *Adding: each sharing with its own observing.*
 
