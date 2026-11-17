@@ -8,7 +8,7 @@ Incoming · v404bifolding · 17 November 2026
 
 ## 1 The method we began with: a surface folded flat
 
-Said in this session, re-said: a geodesic across a surface of flat faces, with each face unfolded about the edge it shares with the last, is one straight line, and a straight line on the faces laid flat, folded back, is a geodesic. Folding stretches nothing: a geodesic's length along its faces is one length folded and flat. A self walking it finds its next step on the face it is on, and finds no reaching of its line there. The one sign a surface gives at a place is a corner: its faces leave it short of a whole circle, and two geodesics passing a corner on its two sides go on at that shortness to each other and cross. A corner is a cone's apex. A cube's corners are each 90 short of 360; a tetrahedron's 180; an octahedron's 120; and each of the three, all its corners together, 720.
+Said in this session, re-said: a geodesic across a surface of flat faces, with each face unfolded about the edge it shares with the last, is one straight line, and a straight line on the faces laid flat, folded back, is a geodesic. Folding stretches nothing: a geodesic's length along its faces is one length folded and flat. A self walking it finds its next step on the face it is on, and no reaching of its line on that face. A surface's whole is with a self at one place only as a corner: its faces leave it short of a whole circle, and two geodesics passing a corner on its two sides go on at that shortness to each other and cross. A corner is a cone's apex. A cube's corners are each 90 short of 360; a tetrahedron's 180; an octahedron's 120; and each of the three, all its corners together, 720.
 
 Beside it, living:
 
@@ -22,7 +22,7 @@ They cohere. A direction carried round a closed path and coming back turned is v
 
 Living, Natural Intelligence and Exhibit ONE Natural Resolver: *Cycles of moves of four steps are bi-foldings.* *Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down.* And *Names 1 to 16 are in order as n − 1 in binary, 0000 to 1111*.
 
-- **By folding.** 1 to 16 as a strip, folded at its middle, 17 less, and folded again at its half's middle, 9 less, lies four deep, and each four lying together is a living bi-folding: 1-9-8-16, 2-15-7-10, 3-11-6-14, 4-13-5-12. The middle eight, 5 to 12, folded by 17 less and 13 less, lies as the two living middle bi-foldings, 9-5-12-8 and 7-11-6-10.
+- **By folding.** 1 to 16 as a strip, folded at its middle, 17 less, and folded again at the middle of its folded eight, 9 less, lies four deep, and each four lying together is a living bi-folding: 1-9-8-16, 2-15-7-10, 3-11-6-14, 4-13-5-12. The middle eight, 5 to 12, folded by 17 less and 13 less, lies as the two living middle bi-foldings, 9-5-12-8 and 7-11-6-10.
 - **By parities.** With each name n − 1 in binary, 17 less inverts each of four parities; 8 up or down inverts the parity of now and next alone; 9 less inverts the other three. Any two of the three, one and then the other, are the third.
 
 The living sentence's two folds, 17 less and a move of 8, are each one inversion: they cohere. This session's first reading had a move of 8 as two folds; that was the strip's picture, and not the resolving's, and it is not laid.
@@ -42,7 +42,7 @@ Beside it, living:
 They cohere, at each place this session met:
 
 - A pair's right spiral, c, c, −c, −c, inverts one parity with each step, the one and then the other: two parities orthogonal to each other.
-- In a bi-folding, 8 up inverts the parity of now and next and 9 less the other three: parities apart, orthogonal. And with 1 to 16 as a circle, 17 less inverts across one axis and 9 less across the axis orthogonal to it; the two together, 8 up, take each place to its opposite, two right spiral steps, one sign flip.
+- In a bi-folding, 8 up inverts the parity of now and next and 9 less the other three: parities apart, orthogonal. And with 1 to 16 as a circle, 17 less inverts across one axis and 9 less across the axis orthogonal to it; the two together, 8 up, carry each place to its opposite: two right spiral steps.
 
 A field's reading that a step of three parities reverses a cube's hand reads a mirror into it. It is a field's own and is not laid.
 
@@ -62,7 +62,7 @@ What met them, executed. Three parities are a cube's eight corners, each parity 
 - The six are the two bases together, and the six go one and then the other cone's base with each step.
 - Seen along the diagonal, the six are at one distance round its 0, each step a sixth of a circle the one way. The two both lie at the 0, one on each side of it, each the other's at the next moment. No form is at the 0 itself: a centre neither cone occupies.
 
-They cohere with Exhibit EIGHT 1.1 sentence by sentence: two cones; one and then the other; a centre neither occupies, in neither cone alone. A locating of the 0 by the forms is fuzzy: two forms at one place, the one and then the other each moment, and no form there. Said in this session: a flitting round the centre, a concept and not yet its naming.
+They cohere with Exhibit EIGHT 1.1 sentence by sentence: two cones; one and then the other; a centre neither occupies, in neither cone alone. A locating of the 0 by the forms is fuzzy: two forms at one place, the one and then the other each moment, and no form at the 0. Said in this session: a flitting round the centre, a concept and not yet its naming.
 
 ## 5 The 0 at each scale, fractal: a self's 0 at the projection's 0
 
@@ -98,7 +98,7 @@ Beside it, living and gathered:
 
 From this session's general knowledge; check before quoting.
 
-- **Unfolding.** A path across a surface of flat faces is a geodesic exactly where, with its faces unfolded flat along it, it is one straight segment. A shortest path between two points of such a surface, closed and convex, passes through no corner.
+- **Unfolding.** A path across a surface of flat faces, with its faces unfolded flat along it, is one straight segment if and only if it is a geodesic. A shortest path between two points of such a surface, closed and convex, passes through no corner.
 - **A corner's shortness.** Descartes: the corners of a closed convex surface of flat faces fall short of whole circles by 720 together.
 - **Folding.** One fold inverts. Two folds on axes side by side move along by twice their between; two on crossing axes carry round by twice their angle.
 - **Gray code and the twisted ring counter.** Each step one parity changing; the twisted ring counter is v404universe's, part 18 of its page of the session's sentences.
