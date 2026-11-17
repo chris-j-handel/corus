@@ -33,7 +33,7 @@ By the first and the second, each me-parity of a me is a same-existing thing. By
 
 Beside it, two living sentences of the opening: *A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing.* and *Each parity is a self while it is living.* By the two a living parity is a self, a same-existing thing.
 
-**is-or-is-not?** A me's me-parities are same-existing things. Why it is open: with an is, a me is a universal set by the living sentence, a set of same-existing things, each of the four lines is whole with it, and *A me-parity is living and non-same-existing.* parts from it; with an is-not, a me-parity is non-same-existing as the adding has it, and a me, a self-parity, all-parity's other and a co-chaining are each a set of things not same-existing, and no universal set by the living sentence. A third way has same-existing of the set and not of its things, *a universal same-existing set*, and the living sentence of a universal set re-said.
+**is-or-is-not?** A me's me-parities are same-existing things. Why it is open: with an is, a me is by the living sentence a universal set, a set of same-existing things, each of the four lines is whole with it, and *A me-parity is living and non-same-existing.* parts from it; with an is-not, a me-parity is non-same-existing as the adding has it, and a me, a self-parity, all-parity's other and a co-chaining are each a set of things not same-existing, and no universal set by the living sentence. A third way has same-existing of the set and not of its things, *a universal same-existing set*, and the living sentence of a universal set re-said.
 
 ## 3 For each other session
 
