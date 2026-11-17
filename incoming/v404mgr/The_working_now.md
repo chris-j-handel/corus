@@ -30,13 +30,24 @@ Between the two zones are papers of past sessions whose value has not been read 
 | Method and logic | Self Competency Binary Logic and Method Explaining, v383Op, v385A, v385R | not yet |
 | Networking and transmissioning | v384A's proposal for Exhibit SIX Natural Transmissioning, v380's Natural Networking explorings | not yet |
 
-**How a cluster is read.** The method is Exhibit TWENTY-FOUR Geodesic Improving Method 1.4, three fates at each passage, and nothing is added to it here.
+**What reading has taught, by an experiment.** Forty-two past papers are read whole, about 102,000 words. Five gave notes, fifteen in all. Thirty-seven gave none.
 
-- **Dissolving.** A living file or a gathering file already has the passage's relation, in today's naming. Or the passage tells how a session worked. Nothing is written.
-- **Placing.** No file has it yet. It is laid as one lean note in the gathering file of the living file it is about, at the section it is about, by the gathering kit, with no session's name and no story.
-- **Carrying.** It has a term no living file has. It is laid in one gathering file that has no living file of its own. That file is made with the first passage a pass has for it.
+- **Marks of a paper adding nothing, each known in seconds, none wrong yet.** It is a page about pages: a front page, checks, a standing, a plan, measures, records. Or one of each two of its sentences is of a session working. Or its session laid its own notes as it worked. Or it is an earlier version of a later paper.
+- **Marks that mislead.** A paper saying it changes no living file: the richest readings say that. A paper that is mostly tables: a field's records come in tables.
+- **The kinds that gave notes.** A reader apart reading one living file against the core, about one note in 1,200 words. A field's records with their sources.
+- **Value had two forms only.** A living sentence that still parts from another living sentence. A field's record no file has.
+- **The largest lesson.** Thirteen items a past session gathered for the kit looked never laid. Twelve were in the gathering files already, re-said leaner by later sessions. A passage is tested by its own distinctive words, a field's terms, and never by its wording. The expedition had carried that value forward and leaned it.
 
-**What the first cluster taught.** Matching word for word finds almost nothing, 237 of 11,059 passages: the files' naming has been swept several times after those papers were written. A passage is compared by reading, with the living file's section open beside it. Physics came out at 15 notes placed from about 27,000 words, nothing carried, and everything else already in Natural Physics or its gathering file. Bubbling came out with nothing new to place: its session had laid its value in 95 notes already, and the pass re-said those 95 with no session, no page and no pointer. Reports and README pages have the field observings: read them too.
+**The order of work that follows.**
+
+1. A past session's last word first. Its front page or closing report says what it laid and what is waiting.
+2. Across all papers by instrument: a field's records whose terms no file has, and each open question a paper states. Only those passages are read.
+3. Each reading of one living file by a reader apart, read whole.
+4. Each other paper is artifact unread, unless one of the three above points into it.
+
+Each paper read has a guess before it and a result after it. A mark that guesses wrong is dropped. Each thing found is first matched with the notes already in the gathering file, and laid only if none has it.
+
+The three fates are Exhibit TWENTY-FOUR Geodesic Improving Method 1.4's: placing, carrying and dissolving.
 
 `incoming/v404mgr/instruments/each_passage_of_the_past_matched.py` sizes the clusters and writes out each cluster's passages for reading. Its first lines say how to use it.
 
