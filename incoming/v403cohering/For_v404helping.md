@@ -62,6 +62,8 @@ Each is ready now, in this order or by a partner's word.
 - **A finding is said as an is, an is-or-is-not? with why it is open, or an is-not.** No cautioning, and no doer over an -ing.
 - **An asking is of work waiting on a partner alone**, one concept, by the opening's names and Exhibit ONE Natural Resolver's, each with its own sentence. Each other is-or-is-not? is read by Exhibit ONE Natural Resolver and the table by its own session.
 - **A partner's saying is a suggesting with no authority**: it is re-said in natural naming and read by the living sentences and the code, as each sentence is.
+- **A reply closes with one is-or-is-not?, and no more than one**, a partner's word of the working: the largest resolving opportunity of a partner's suggesting, shown as a question, with as much natural naming and explaining as the files have, and then why it is incohering or other than resolving. It is whole in its own words: a partner is looking at no page and no earlier reply, and no list of things open is brought.
+- **No word of a partner's is entered word for word**, and no is and no is-not is by a partner's word: the managing session did both with a suggesting of a parity, harm, and mended.
 
 ## 6 What helps the managing session most
 
