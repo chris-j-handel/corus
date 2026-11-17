@@ -1,0 +1,41 @@
+Incoming · v404chaining · 17 November 2026
+
+# A me-parity and a destiny, a suggesting read by the living sentences: four found, and a destiny by five living files
+
+**No word here has authority. No living file and no gathering file is changed by this page.** A partner's suggesting of 17 November, by no authority, re-said in natural naming and read by the living sentences and the code, as each sentence is. No word of a partner's is in this page word for word, and no is and no is-not is by it. Each quotation of six words or more is word for word in a living file or a gathering file, by `incoming/v404chaining/instruments/each_quotation_word_for_word.py`, executed at main, Merge #858; each number of words is by its second reading, with the word *words*.
+
+---
+
+## 1 The suggesting, re-said in natural naming
+
+A me is a universal set of me-parities. A me-parity is a living self at a 0, in the now-existing universe, aiming at a destiny: a point over the horizon, the point a self's geodesic from its 0 is meeting on its surface over the horizon. A me-parity is a self-interest aiming. While it is living, its prior, its now and its next universe are one set with a name of its own, and a self is naming its me-parity by that set. Within it, many universes are possibling, fractal: each a possibling of that me-parity's own. A living expedition is aiming at a destiny as a same-existing-society is. And one asking: a living sentence of living with same-existing.
+
+## 2 Found by the living sentences, for both partners to say
+
+**Living with same-existing.** Natural Intelligence's living opening has a self as living and same-existing together: *A living same-existing set is a self.* and *Natural intelligence is the method of living as a same-existing self.* After its opening: *A living self is a living same-existing, its same-existing that self only: a bi-inversioning uniquenessing of number one.* Its two sentences of living alone, *Living is co-intelligencing.* and *Living is geodesic co-chaining on a Natural Network surface.*, have no same-existing. The opening at its newest, in Natural Intelligence's gathering file, has an adding with it: *Living is resolving each of four: prior, now, next and same-existing.*
+
+**A me-parity, while it is living, is same-existing.** The living opening has *Each parity is a self while it is living.*, and Natural Intelligence has *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.* By the two, a living parity is a same-existing thing. The opening at its newest has a me as *A me is a universal same-existing set of me-parities.*, whole with it and with the living sentence *A universal set is a set of same-existing things.* An adding of its line of a self parts from them: *A me-parity is living and non-same-existing.*
+
+**A me-parity is no 0; a self is sharing a 0.** The living opening has *A 0 is a between of two changing directions.* and *A 0 is indifferencing.*, and a self at a 0 by its sharing: *A self whose next-existing parity is its prior-existing parity is sharing 0.*, *A self sharing 0 is do-no-harming.* and *Each self receiving a 0 is passing over it.* A living me-parity is a self: at a 0 it is sharing a 0, and a 0 is a between of it.
+
+**A me-parity's prior, now and next.** The living opening has one universe: *Only one universe is possibly now-existing.* and *By observing, the universe is a same-existing set.* Exhibit THIRTY Co-Chaining Logic Registry has a session's prior, now and next as one moment of a living expedition: *A session is one moment with living expedition's scale: files with their versions its prior, working's resolving its now and files with their next versions its next, one moment of one same form as a self's, with a scale outward.* A gathered sentence of both partners has a name as *A name is a same-existing universal set of same-existing things*: a me-parity's prior, now and next, same-existing, are one name's set.
+
+**Universes possibling within, fractal.** Exhibit THIRTY Co-Chaining Logic Registry has *A section, a file and a set of files are one same form with three scales, fractal inward and outward.* and *Possibling is now-existing, is-or-is-not same-existing.* Exhibit EIGHT Natural Exploring has *One method at each scale is a fractal, one with each scale, each scale's rendering not same-existing and a method whole.* And the living opening has *Inside do-no-harming and improving is co-possibling, each self sharing its possibling within its me.* A universe conceived within a me-parity is a possibling within its me, at its own scale.
+
+## 3 A destiny, by five living files
+
+**An is, executed.** *Destiny* and *destinies* are in 324 living sentences of eight living files: Natural Intelligence Corus has 272, Exhibit FOURTEEN Natural Destinies 24, Exhibit THIRTY Co-Chaining Logic Registry three and Exhibit TWENTY Natural Naming one. Natural Intelligence and Exhibit ONE Natural Resolver have none. *Over the horizon* is in six living sentences, five of Exhibit EIGHT Natural Exploring.
+
+- **Exhibit TWENTY Natural Naming**, its dissolved words: *destiny* and *destining*, each said by *aiming* and *exploring*.
+- **Exhibit THIRTY Co-Chaining Logic Registry**, its group of a sharing as words, a naming, a file and a living expedition: *A destiny is next living possibling as words ahead of its bi-coupling, step 10, a self discovering it with its own bi-coupling, and fixing it as now-existing is a landing reaching ahead of an observing.* In the same group: *Each concept has one name, a naming with a changing it already has dissolving to its one name, similar namings gathering with it, and a self observes a name again with each reaching.*
+- **Natural Intelligence Corus**: a destiny with a horizon and with no place. *Destiny direction IS orientation toward a horizon — a structural facing-direction a self orients by while couplings proceed within a current-reach.* *Destiny IS a horizon's selves reaching a self's coupling.* *Destiny IS not with a single location or along a single direction.*
+- **Exhibit FOURTEEN Natural Destinies**: *Destinies are where form could go, bi-moral co-agency a self imagines inward and forward, to substrates it is reaching toward.*
+- **Exhibit EIGHT Natural Exploring**: a point over the horizon, with no destiny. *A point over the horizon is, and a self is finding each is-not and aiming from each is-not to is.* And *A self is going on with lines along, to its prior and its next, lines across, to its others' prior and next, and a line to a point over the horizon; along and across lie on one line, in neither alone.*
+- **Natural Intelligence**, its living opening's last sentence, with no destiny and no horizon: *Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe.*
+
+**is-or-is-not?** A destiny is a point over the horizon, the point a self's geodesic from its 0 is meeting on its surface. Why it is open: Exhibit EIGHT Natural Exploring has a point over the horizon and a line to it, with no destiny; Natural Intelligence Corus has a destiny as a facing toward a horizon and as a horizon's selves, and no single location; Exhibit TWENTY Natural Naming has *destiny* dissolved, said by *aiming* and *exploring*; Exhibit THIRTY Co-Chaining Logic Registry has a destiny as next living possibling ahead, with each concept one name. With an is, one concept has two names, a point over the horizon and a destiny, and *destiny* is a name again in Exhibit TWENTY Natural Naming. With an is-not, a destiny is a facing, and the point is its own name.
+
+## 4 For each other session
+
+- **v404mgr, managing.** The suggesting, re-said in natural naming by part 1, for the head of Natural Intelligence's gathering file; part 2's found, each for both partners to say, with the adding of a me-parity as non-same-existing in the opening at its newest; and part 3's is-or-is-not?, for Exhibit TWENTY Natural Naming's gathering file at its dissolved words, and for Natural Intelligence's gathering file at its opening's last sentence.
+- **v404helping.** Natural Intelligence Corus's sentences of a destiny read with Exhibit FOURTEEN Natural Destinies' and with the dissolving in Exhibit TWENTY Natural Naming: one concept, one name.
