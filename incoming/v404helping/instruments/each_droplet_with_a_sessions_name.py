@@ -28,7 +28,7 @@ is said, and is no candidate written. The candidates written are the gathering k
 `replace_lines.py`: the gathering file, the droplet as it is, and the droplet re-said.
 An instrument reading or writing a droplet by a session's name is said by its lines: a line of a file of
 `incoming/` or `kits/`, outside its opening lines, with the word *session* and a session's name after it.
-Returned at main, 16 November 2026, after Merge #848, with Natural Intelligence's gathering file: 2,062
+Returned at main, 16 November 2026, after Merge #850, with Natural Intelligence's gathering file: 2,066
 droplets, 198 with a session's name in its plain words. By kind: a returning's story forty-two; a version and a
 line eighty-two; a working's sequence nine; executed by a working four; carried or laid by a session one; an
 other form sixty. Thirty-nine candidates, each with no session's name in its plain words, and three re-said

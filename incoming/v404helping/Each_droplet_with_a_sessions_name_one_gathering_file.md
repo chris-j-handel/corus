@@ -8,7 +8,7 @@ Incoming · v404helping · 16 November 2026
 
 ## 1 Natural Intelligence's gathering file, one answer
 
-**An is, executed.** Of its 2,062 droplets, 198 have a session's name in their plain words, a name within a path in code marks passed over as an address. By kind, each by its own words:
+**An is, executed.** Of its 2,066 droplets, 198 have a session's name in their plain words, a name within a path in code marks passed over as an address. By kind, each by its own words:
 
 - **A returning's story, forty-two.** A droplet opening, after its kind's label, with a session's name, its returning by its order, its page, a number, its instrument, and *executed by a second hand, each check is*, and its value after that stop.
 - **A version and a line, eighty-two.** A droplet closing with *from Exhibit ONE*, a version's name, *line* and a number, in its closing label.
