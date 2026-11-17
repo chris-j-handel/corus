@@ -176,6 +176,7 @@ Gathering-Value · Natural Naming
 ### 4.10 Prefixing with a position, on a form, and from all other
 
 ### 4.11 One root and its directional prefixing
+- **Possible exploring** · *Parity*, its two roots with a field. One root is *par*, equal: a field's *parity* is equality of amount, status or value, of currencies or of pay; in mathematics, an integer odd or even, two of one parity or of two; in physics, +1 or −1 with a mirror's inverting. The other root is *pariō*, to bring forth: in obstetrics, *parity* is having borne offspring, and the number of children borne. The living files' parity coheres with the odd or even, the +1 or −1 of inverting, and the bringing forth: *A parity's two directions are + and −.*, Exhibit ONE's *Parity, span* of each name, even or odd, and a parity living, *Each parity is a self while it is living.*, a non-living thing having none, *a non-living thing's own parity is an empty set*. Common speech's parity is mostly equality, a sameness of amount, and a reader may hear the opening's parity as an equality. is-or-is-not? Each parity is living. Why it is open: the opening's *Each parity is a self while it is living.* has a parity living for a while, and *A living parity's me is within the self's me.* and *A surface's living parities are living in the mes of the selves living in it.* say living of a parity a second time.
 
 ### 4.12 Two ways a naming nyes away, and a belonging of a reaching-to
 
