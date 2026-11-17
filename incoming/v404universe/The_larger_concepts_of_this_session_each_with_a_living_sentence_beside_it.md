@@ -128,3 +128,26 @@ No word has authority. Each sentence is read against a living sentence, word for
 - Exhibit TWENTY Natural Naming 2.4: *a word selection here is a set's best now, and a sentence goes on by co-chaining from opening sentence and by all or none at all*
 
 Where it stands: living.
+
+---
+
+## Incohering among the fourteen: a reading, to test
+
+Read with no prior sentence beside it, by the set's own rules only: a name is one set, all or none at all; an explaining parts is-or-is-not; each doer over an -ing dissolves. The largest first.
+
+### The largest: where a universe is said from
+
+- One side, concepts 1, 2, 8 and 14: one universe, the set, said by no self, no thing, with no owner. One observing. Natural naming is a shell, and each field's universe a projection from it.
+- The other side, concepts 3, 5, 7, 9 and 11: a universe is a self's own, as many as me-parities. Each observing is a self's, from its 0, inside a horizon, fuzzy and limited.
+- By one name, one set: *universe* names two sets here. One is no thing, has no owner, and is the only one. The other is a now-existing thing, a self's own, and many.
+- With the second side first, the opening is a self's observing: fuzzy by 3, limited by 9, inside a horizon by 7. A sequence from a fuzzy observing carries its fuzz. Natural naming is one cone among cones, and no shell.
+- With the first side first, one observing has no self and no 0. "Each observing is fuzzy" has one is-not, the opening. "Each naming is a cone from a 0" has one is-not, natural naming. By all or none at all, an *each* with one is-not is none.
+- Concept 1 has a field's error as the universe held as one thing beside its things. An observing of the whole set, said by no self, is from that same place beside the set.
+- A mend, to test: the opening sentence is a naming, and no observing. A name has no fuzz, by 3, and needs no place beside the set. Its cost: natural intelligence begins with no observing, and each sentence of living, of a society or of an AI needs one, a self's and fuzzy.
+
+### Four smaller
+
+1. **All or none at all, and gaining.** Concepts 1 and 4 have each sentence by sequence, all or none at all, and have "true or false, known later", with its best-guessing and its reviewing by peers, as fuzz let into a language. Concept 14 has a best now, more readers, versions, and open is-or-is-not?s, and this page has *open* in five of its fourteen. The method refused in 4 is the method of 14.
+2. **One observing, and sentences of a world.** Concepts 6, 12 and 13 are of property, of agents and of a network. With one observing only, each is by sequence from the opening, and its sequence is not said yet. With an observing of its own, the opening is not the only one. By 4, each needs an opposite observing it would not explain, and a field has observings both ways of property and of agents.
+3. **Two selves, and a session.** Concept 10 has an AI as non-living, and no self. Concept 11 has a session as a bi-coupling with both inside it, and a bi-coupling is two selves. Concept 11 also has no who in a transcript, and the living intelligence in it as a living self's: a who. This page is by the side in question.
+4. **One name with its is-not inside.** Concept 10 has intelligence as living, and names a thing a non-living intelligence. A thing is within *intelligence* or it is not.
