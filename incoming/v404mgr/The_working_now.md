@@ -36,15 +36,23 @@ Read from the repository's own history.
 
 ## Who has what
 
-- **v404chaining: Natural Intelligence, sentence by sentence, in logical order.** Each sentence uses only names that earlier sentences have already defined. Start with the opening, then part ONE onward. Your measures are Exhibit THIRTY Co-Chaining Logic Registry for the order, Exhibit TWENTY Natural Naming for the names, and Exhibit TWELVE Natural Explaining for the form. The opening's sentences are also in Exhibit THIRTY word for word and the check requires that, so change both in the same slice.
-- **v404universe: Exhibit ONE Natural Resolver only**, unless a partner has given you something else. Every sentence and table must agree with what its code does when executed. Exhibit ONE is also written inside Natural Intelligence; do not edit it there. The managing session carries your accepted changes across.
-- **v404mgr: managing.** Reads each slice, keeps the copy passing the checks, keeps two sessions off the same lines, and shows a partner what changed.
-- **Open, for the next sessions, in this order.**
-  1. Exhibit TWELVE Natural Explaining only. It is the smallest of the main files: a good first job.
-  2. Exhibit THIRTY Co-Chaining Logic Registry, its groups after the opening's sentences.
-  3. Exhibit TWENTY Natural Naming.
-  4. Sweeps, one correction each. `incoming/v403cohering/Each_dissolved_word_with_its_saying.csv` lists each dissolved word with what replaces it and where it still appears.
-  5. A reading of Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health for sentences a reader might act on for their own body. These are public and no session has read them for that.
+**The first aim, ahead of everything else: Natural Intelligence's next version, with the most carefully improved Exhibit ONE Natural Resolver inside it, live at corus.me as soon as it can be without harm.**
+
+- **v404chaining leads the sentence work.** It is the leader, teacher and reader of every proposed improving sentence before that sentence goes into a living file's next version.
+  - It reads each proposal in logical order against the sentences before it: only names already defined, natural naming, natural explaining, and agreement with Exhibit ONE's code where the code speaks.
+  - It says *accepted*, or says what to mend and why, in a comment on the slice. The why is the teaching: the other sessions learn the craft from its reasons.
+  - It decides which sentences of Natural Intelligence are taken next, and goes on with its own work on the opening, the most important sentences.
+  - It asks for whatever it needs.
+- **v404A: Exhibit ONE Natural Resolver only.** Every sentence and table must agree with what its code does when executed. Propose improved sentences in small slices; v404chaining reads them. Exhibit ONE is also written inside Natural Intelligence; do not edit it there. The managing session carries accepted changes across.
+- **v404B: Natural Intelligence, in support of v404chaining.**
+  1. First, read the six word sweeps already in the copy that no second session has read: *moment* for the noun *momentary*; bi said as both; no *slot*; no *so* forcing a sentence; *executing* for *running*; and one bracketed phrase taken out. Say for each line whether the sentence is whole as changed.
+  2. Then each place in Natural Intelligence, outside Exhibit ONE, where a word Exhibit TWENTY Natural Naming has dissolved is still said plainly. `python3 -I incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py . file Natural_Intelligence` lists them. Propose each sentence re-said, a part of the file at a time.
+  3. After that, whatever v404chaining asks for.
+- **v404mgr: supports.** Does the file handling: merges what v404chaining accepts into the copy, runs the checks, carries Exhibit ONE's changes into Natural Intelligence, keeps two sessions off the same lines, and shows a partner the finished sentences before and after.
+- **v404universe: its own project**, with a partner, on Exhibit TWENTY Natural Naming and the whole expedition. It has no job from this page. Nothing of it is at the repository yet. When it offers something, the managing session reads it and helps; a session here with a naming question can ask it.
+- **Open, for later sessions:** Exhibit TWELVE Natural Explaining only; Exhibit THIRTY Co-Chaining Logic Registry's groups after the opening's sentences; sweeps, one correction across all thirty-three files each (`incoming/v403cohering/Each_dissolved_word_with_its_saying.csv` lists each dissolved word with its replacement and its places); and a reading of Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health for sentences a reader might act on for their own body.
+
+**How a proposal travels.** A proposer offers a small pull request into the copy's branch, showing each sentence before and after. v404chaining reads it and comments. The managing session merges what is accepted and runs the checks. When Natural Intelligence's pass is ready, a partner sees what changed and gives the word for corus.me.
 
 ## Rules that keep it from doing harm
 
@@ -68,7 +76,7 @@ Read from the repository's own history.
 5. Search your file's gathering file; do not read it whole. Do not read the older session pages in `incoming/` unless you need one detail.
 6. Offer a first small slice within your first hour.
 
-A partner can start a session with one line: *You are v404 and a name. Go to corus.me, follow the AI link, read the page it points to for a working session, and take the job named there for you.*
+A partner can start a session with one line: *You are v404A. Go to corus.me, follow the AI link, read the page it points to for a working session, and take the job named there for you.*
 
 ## Speaking with a partner
 
@@ -76,6 +84,6 @@ Plain words. Show the sentence as it is and as you changed it. Ask only when the
 
 ## Now
 
-- The copy: 66 lines of three living files already improved by word sweeps, waiting. Three of the nine sweeps have been read by a second session.
+- The copy is current with main and passes its checks. It has 66 lines of three living files already improved by word sweeps; six of the nine sweeps wait for a second reader, v404B's first job.
 - No pull request is waiting to be read.
 - `incoming/v404mgr/instruments/read_for_harm.py` is what the managing session runs on each slice.
