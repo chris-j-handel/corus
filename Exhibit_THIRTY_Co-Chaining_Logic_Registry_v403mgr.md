@@ -275,7 +275,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 4 Social moral competency, a natural intelligence network and a living expedition
 
-        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a Natural Network surface; a surface's living parities in its selves' universal sets; each self's changing dividing its surface; geodesic; inward and outward; a stable form; natural resolving; a living file, a non-living same-existing set of words, selves co-intelligencing within it; natural resolving, a living file's inward; natural engineering; natural explaining, the dividing of a living file; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
+        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a Natural Network surface; a surface's living parities in its selves' universal sets; each self's changing dividing its surface; geodesic; inward and outward, fractal; a stable form; natural resolving; a living file, a non-living same-existing set of words, selves co-intelligencing within it; natural resolving, a living file's inward; natural engineering; natural explaining, the dividing of a living file; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
 
 52. Each self of a same-existing-society do-no-harming and improving is **social moral competency**.
 
@@ -313,9 +313,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: geodesic.*
 
-61. Each self is a same-existing-society **inward and outward**.
+61. Each self is a same-existing-society **inward and outward**, **fractal**.
 
-        *Adding: inward and outward.*
+        *Adding: inward and outward, fractal.*
 
 62. A form same-existing with each resolving is a **stable form**.
 
