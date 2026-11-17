@@ -40,7 +40,7 @@ It says:
      places in the living files and in Natural Intelligence's gathering file
   6. each name the living opening has in bold, in a line of the candidate with no line of its own in it
 
-Returned at main, Merge #843, 16 November 2026, the line of a parity with a partner's newer sentences:
+Returned at main, Merge #850, 16 November 2026, the line of a parity not yet distinguished:
   1. eleven lines: 7, 9, 10, 13, 14, 15, 17, 18, 19, 27 and 33. Six by their own sentences: 7, parity; 10,
      is-or-is-not and non-living; 13, self and other; 17 and 18, me-parity; 19, parity and all-parity. Six by an
      adding: 9, 14, 15, 17, 27 and 33, line 17 by each. Line 1 has other a plain word.
@@ -50,10 +50,10 @@ Returned at main, Merge #843, 16 November 2026, the line of a parity with a part
   2. two circles of lines: 10 with 11, a name and is-or-is-not; and 17, 18 and 23, a self, a me and a me-parity.
   3. thirteen parts with a name before that name's own sentence, and no circle of sentences: each circle of
      lines opens by its sentences.
-  4. 96 parts: 69 own sentences, 21 addings and 6 notes. Eighteen go to an other place, ten own sentences and
+  4. 96 parts: 68 own sentences, 21 addings and 7 notes. Eighteen go to an other place, ten own sentences and
      eight addings, and each other part is in the candidate's own order. The binary again: each part of the
      order is after the own sentence of each name in it.
-  5. nineteen bonded names with no line of their own, self-orienting the newest. Seven are in no living file: non-same-existing,
+  5. eighteen bonded names with no line of their own. Seven are in no living file: non-same-existing,
      society-self, now-and-same-existing, other-than-self-parity, prior-and-same-existing, self-interesting and
      self-other. now-existing is in twelve lines of the candidate and in seventeen living files of thirty-three.
   6. two: universal set, in lines 18, 24, 25 and 44; and stable form, in lines 17, 48 and 51.
@@ -85,8 +85,9 @@ Returned at main, Merge #843, 16 November 2026:
      With each, each sentence is after the own sentence of each name in it.
   3. with 44 re-said, opening with By resolving among parities: four, 24, 29, 59 and 69. With surface alone a
      form: three, 24, 29 and 69, a group's opening sentence, the sentence of a 0 and the opening's last.
-     A re-saying of 29 by a parity's two directions, of this reading as it was, is away: by a partner's word,
-     at main with Merge #843, a parity is not one of two.
+     A re-saying of 29 by a parity's two directions, of this reading as it was, is away: it has a parity by
+     two, and a droplet of Natural Intelligence's gathering file has a parity as one of two out by the code
+     executed.
   4. 61 after 32: nine, 61 away and 60 as it was; and 61 is ahead of the own sentence of a same-existing-society.
   5. two: 37 and 41. By `opening_base.py`'s form as it was, a 0 with a full stop after it was no 0.
 
@@ -166,7 +167,7 @@ def living_reading():
         return [n for a, n in zip(order, order[1:]) if not h[n] & h[a]]
     def early(order, text):
         at = {n: i for i, n in enumerate(order)}
-        return [(n, k) for n in order for k in has_of(text[n]) if k in own and at[own[k]] > at[n]]
+        return [(n, k) for n in order for k in sorted(has_of(text[n])) if k in own and at[own[k]] > at[n]]
     living = list(range(1, N + 1)); ten = with_none(living, sent)
     def gone(goings):
         order = list(living)
@@ -195,7 +196,7 @@ def living_reading():
         print(f'   {n}  {plain(sent[n])}')
         print(f'       after: {plain(sent[n - 1])}')
         print(f'       the new name of the sentence it is after: {", ".join(new) if new else "none"}')
-        print('       each name in it, with its own sentence: ' + ', '.join(f'{k} {own[k]}' for k in sorted(has_of(sent[n]), key=lambda k: own.get(k, 0)) if k in own))
+        print('       each name in it, with its own sentence: ' + ', '.join(f'{k} {own[k]}' for k in sorted(has_of(sent[n]), key=lambda k: (own.get(k, 0), k)) if k in own))
         print('       words together with the sentence it is after: ' + (', '.join(sorted(words(sent[n]) & words(sent[n - 1]))) or 'none'))
         near = next((m for m in range(n - 2, 0, -1) if has_of(sent[n]) & has_of(sent[m])), None)
         print(f'       the nearest sentence it has a name with: {near}, with {n - near - 1 if near else "no"} between')
