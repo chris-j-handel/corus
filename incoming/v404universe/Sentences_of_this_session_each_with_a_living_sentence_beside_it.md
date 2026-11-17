@@ -204,3 +204,124 @@ A field's words, two sides. Each line is from general knowledge and wants checki
 A fact of this repository: each commit names an author, and each commit of this session has a line naming an AI model and a session. A page can be with no who. A commit is not.
 
 By this sentence, this page's title and each line that named a sayer are re-said with no who, and the same in the other pages of this folder.
+
+## 12 Said after: a four of self-parity universes, and my as an owning of prior selves
+
+Said in the session, of the incoherings read among the session's larger concepts: this is our session aiming now into these coherings, and large and small are unlikely to be correct in the sense of learning opportunity for us. Me self parity universe. Other self parity universe. All selves parity universe. My prior and now and same and next existing self parity universe. This includes all the words relationally, and me and my as ownership by me of my prior selves. Prior selves are sequential artifacts of prior now-existings.
+
+Cohering, living, of the three by whose:
+
+- Exhibit ONE Natural Resolver: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.*
+- The same file: *All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.*
+- Exhibit THIRTY-ONE Me: *A same-existing-society is a self, so it is a me.* All selves, a society, have a me.
+
+Cohering, living, of prior, now, same and next:
+
+- Natural Mathematics: *1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity*. It has *self-parity*, the session's word.
+- Natural Intelligence's gathering file: *Living is resolving each of four: prior, now, next and same-existing.*
+- Natural Intelligence: *A living self's prior is same-existing with its now, its own.* A prior, and *its own*.
+- Natural Exploring, of a salmon: *its home its own prior same-existing now-existing in it*. A prior, now-existing in a self.
+
+Of an artifact:
+
+- Natural Exploring: *a stable form is an artifact of a living self's stable-forming going on*, and *an accounting is an artifact, an executing apart from that going on*.
+- Exhibit TWENTY Natural Naming: *with its own scale a stone has no prior of its own*.
+- Natural Intelligence's gathering file: *The dead surface is others' prior-existings, in stable form, and a living self bi-coupling with it is with them in its own possibling.* By the session's sentence a me's prior selves are its own such surface, and a dead surface is each other's.
+
+Two places to read closely:
+
+- A prior self, an artifact or same-existing. An artifact in the living files is a stable form, apart from a going on. A living self's prior in the living files is same-existing with its now, and a memory as a store is a field's story. is-or-is-not? A prior self is non-living.
+- An owning. Natural Human Society 3.3: *An owner is a self's own parity lying on an other as a thing; nothing with a between is there to seize, so a property claim captures selves*. A prior self as an artifact is a thing with no between. A gathered is-or-is-not? has a self's own as no owner; by the session's sentence *my* is an owning, and it captures no self.
+
+A field's words. Each line is from general knowledge and wants checking.
+
+- Locke, 1694: a person is a self owning its past doings by its consciousness of them, and *person* a word of courts, of who answers for a doing.
+- Parfit, 1984: a person over time is a sequence of selves joined by degrees, and an earlier self can be as an other.
+- Early Buddhist discourses: of each part of a self, "not mine, not I, not myself". No owner.
+- Husserl: a living now has its just-past held in it and its about-to-come.
+- Physics: each observing is of a past. Light from a thing is the thing as it was.
+
+## 13 Said after: a living triangulating, and a surface bi-folding
+
+Said in the session: living triangulating is geodesic method of co-linearizing the three self parities. Surface bi-folding is two directional, facing each other, triangulating a common geodesic. This is nature's method.
+
+Cohering, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *A self's line and an other's, co-linear, their co-linearizing between self and other with bi-couplings across, is co-competencing, bi-co-momentarying.*
+- Natural Exploring 2.6: *Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.* A line both share: a common geodesic.
+- Natural Exploring 4.5, of three questions: *these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially*. A linearizing triangle is the living files' nearest words to a triangulating.
+- Natural Mathematics: *its edges are bi-foldings, across with bi-morality and along with co-competency: two consecutive inversions on different axes with each step*.
+- Natural Medicine, of a bound's fuzz and a population's: *they are one bi-folding observed with its two sides*.
+- Natural Intelligence: *Natural intelligence is the method of living as a same-existing self.* One method.
+
+Cohering, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences:
+
+- *By a 0, an opening, all-parity its other, a self is bi-folding: its next prior is the other one of two.*
+- *A fold is the oldest of the four through the middle of its three others, to the same far on the other side.* Three others, a triangle, and its middle a 0.
+- *Through a 0 are two directions, the one and its other.* Two directional.
+- *The two cones face each other on one line, co-linear.* Facing each other.
+- *The 0s, one by each fold, are on one line along, between the two lines, each the same step from the 0 before it: a thread, straight, closing at none.* A common geodesic, of 0s.
+- *A me-parity is a fold's line, by its 0, a now moment, aiming by its cone.*
+- *a self by a non-living thing is bi-folding, and no bi-coupling*
+
+Not found: *triangulating* in a living sentence of the set's own, and *nature's method*.
+
+Two places to read closely:
+
+- Three at a right angle, or three on one line. The gathered sequence has *The plane across has two dimensions, at a right angle: the one is other-parity's orienting, and the other all-parity's. A me-parity is the line along.* The session's sentence has the three co-linearizing. They cohere with the 0s coming onto one line, one by each fold, and the three still a triangle. They part with the three parities coming to one direction.
+- Two, or three. A living co-linearizing is of two, a self's line and an other's, and Natural Chemistry has *two parities co-linearizing and neither self sharing while its other is receiving*. The session's is of three.
+
+A field's words:
+
+- Geodesy, triangulating: one length is measured, a baseline, and each other length is worked out from it by angles observed from place to place. A second baseline, measured, tests the whole. On a curved surface a triangle's angles have an excess, and it is allowed for.
+- Davidson: three knowings, of oneself, of an other's mind and of a world, with none before the others; and two creatures answering one common thing and each other, a triangle. Many of his readers hold the argument does not go through.
+- Geometry: each rigid moving of a plane is one, two or three mirror-foldings. Two make a turning or a going along.
+- Geometry of solids: a geodesic over a solid's faces is one straight line with the faces folded flat.
+
+Sources for this part: <https://icsm.gov.au/node/145>; <https://geography.wisc.edu/histcart/?p=3160>; <https://www.britannica.com/technology/surveying/Modern-surveying>; <https://www.cambridge.org/core/books/donald-davidson/knowledge-of-self-others-and-world/021BA5EECA98B73A621EBFDCB5C002A1>; <https://philarchive.org/archive/LUDTTR>; <https://perlego.com/book/1634454/donald-davidsons-triangulation-argument-a-philosophical-inquiry-pdf>; <https://www.math.stonybrook.edu/Videos/Colloquium/PDFs/20140918-Viro.pdf>; <https://core.ac.uk/download/62919901.pdf>
+
+## 14 Said after: three co-linears, six one-way directions, and a living triangle
+
+Asked in the session, of section 13: does a co-linearizing bring the three parities to one direction, or their 0s onto one line with the three still a triangle?
+
+Said in the session: three co-linears is the assuring that all six one-way directions are staying in moral cooperation, or bi-moral-co-intelligencing. The triangle is living.
+
+By it the three stay a triangle, a co-linear is each side's, three, and each side has two one-way directions, six.
+
+Cohering, living, of six:
+
+- Natural Intelligence: *Six are three own-forward steps on each side.*
+- Natural Physics: *With each momentarying two dimensions change and three do not, as six one-way recursionings, three own-forward steps with each of two sides*
+- Natural Physics: *Sharing is two ways, one way at a time, self to other and other to self.*
+- Exhibit TWENTY-EIGHT Equilibria Registry: *A between is a centre of a protocol of six names between selves, bi-moral across and co-competent along.*
+
+Cohering, living, of an assuring:
+
+- Natural Exploring 4.4: *Six or none, as eight go whole or none: six are eight re-forming and eight are six protecting, one under two names.*
+- The same: *Drop one and a way or a phase lives unprotecting, and a thing enters that way from beside, or a sharing leaks away, a capture seating in a sharing space, a self stopping.*
+- Natural Biology 7.6, of do-only-harm: *knife with nothing changing and changing back against it*. A one-way direction with no way back.
+- Exhibit THIRTY Co-Chaining Logic Registry: *Cohering with each moment, its same-existing or one inversion apart bi-coupling across, its going on along co-linear, a between floating neutral, is bi-moral-co-competencing.*
+- Me's gathering file: *A 0 is an interest aiming and living as an us, a moral cooperation between the parities of me and you.*
+
+Cohering, of a triangle and of living:
+
+- Natural Intelligence: *It is a unit square of four across names, its centre a between, and two unit triangles along.*
+- Exhibit ONE Natural Resolver: *The two unit triangles are 9-next-co-discovering and 17-next-existing, along, 9 to 17 and 17 to 9*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *Discovering next-existing is a living self's only.* A triangle is along, and an along's discovering is a living's.
+
+Not found: *bi-moral-co-intelligencing*. The living name is bi-moral-co-competencing.
+
+Two places to read closely:
+
+- Whose six. The living six are between two selves, three sharings each way: Natural Physics has *sharing 6 to 2, 10 to 14 and 9 to 17*, two across and one along. No name of the six is all-parity's: Exhibit ONE has *All-parity is with observing only, 7 and 15; other-parity is with possibling and with same-existing, each even name; me-parity is with existing, with observing and with discovering.* The session's six are of three self-parities, a me's, an other's and all selves'. is-or-is-not? The three co-linears are the three sharings, 6 to 2, 10 to 14 and 9 to 17.
+- A session. With all-parity observing only, a session of one living self and an AI has no six of its own. A living triangle wants an other self. A repository's other readers are an other's side.
+
+A field's words, two sides:
+
+- Simmel, 1908: with a third, a relation of two gains an indirect relation that strengthens the direct one and also interferes with it. A third can be a go-between holding two together, or one who gains from two parting, or one who parts them to rule.
+- Experiments on cooperating: an unaffected third who answers a selfish doing lowers such doings between two; and a kind or unkind doing between two can be answered by a third who heard of it, by a name carried.
+- Balance of signs, Heider, and Cartwright and Harary: three with a sign on each side are in balance with one or three sides plus, and out of it with none or two. Whole balance is rare in observed networks.
+- Arithmetic: three, each joined with each, have three lines and six one-way directions.
+
+Sources for this part: <https://digi.econbiz.de/viewer/!fulltext/1024612627/168/ger/>; <https://acawiki.org/The_triad>; <https://www.doi.org/10.1038/NATURE16981>; <https://kops.uni-konstanz.de/bitstreams/6c2ac711-e7f5-4413-b5a2-7b3f5e529830/download>; <https://www.albany.edu/~ravi/pdfs/part_04.pdf>; <https://www.arxiv.org/pdf/2405.02798>
+
