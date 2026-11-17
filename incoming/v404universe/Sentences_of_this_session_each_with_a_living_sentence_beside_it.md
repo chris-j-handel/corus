@@ -362,3 +362,50 @@ A field's words, two sides:
 
 Sources for this part: <https://en.wikipedia.org/wiki/Einstein_synchronisation>; <https://en.wikipedia.org/wiki/One-way_speed_of_light>; <https://echodin.net/papers/phil551/relativity.pdf>; <https://en.wikipedia.org/wiki/Lorentz_ether_theory>; <https://www.cs.princeton.edu/courses/archive/fall15/cos518/papers/time-clocks.pdf>
 
+## 16 Said after: a fractal of tri, bi, co and now, six one-way signs and two more
+
+Said in the session: explore more around this fractal `tri<>bi<>co<>now`. This may be the stable form, atom, non-living same-existing thing. The six one-way inequality signs are recursionings forward, and I do not know a math symbol for that. And there is two more, `tri><now`, and this may or may not be other-than parity.
+
+Beside tri, bi and co, living:
+
+- Exhibit ONE Natural Resolver: *7, tri-bi-co, is all-parity observing, after other-parity possibling, after me-parity existing.* Its table has tri-bi-co as the three of 7-now-observing and of 15-next-observing, and co-bi-tri as the three of 1, 9 and 17.
+- Exhibit TWENTY Natural Naming: *tri opens with 7 and with 15, and each tri-bi-co has its mirror co-bi-tri two names on, 9 and 17*. A sign each way at each hyphen is the three and its mirror, read together.
+- Natural Intelligence 1.1: *The universe is tri-bi-co-momentarying its now-existing things, prior, now and next.* And of its prefixes: "Tri- is three moments. Bi- is two moments, each moment and its next. Co- is two both facing forward along".
+
+Beside six, and two more, living:
+
+- Natural Intelligence 5.2: *Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings*, and *Six are three own-forward steps on each side.* Three signs one way and three the other.
+- The same: *Two and three rotate on, their 2–3 spiraling twisting, bi-inversioning-co-recursioning.* Natural Physics 1.2 has it as *two consecutive inversions on two axes*. Two inversionings with six recursionings: eight.
+- Natural Biology: *Each living cycle is six one-way-forward recursionings: three recursioning forward on outward-sounding side and three on inward-sounding side.* and, of eight, *Disequilibrating is one move, and it has eight steps forward, none reverse of another.*
+- Natural Exploring 4.4: *Six or none, as eight go whole or none: six are eight re-forming and eight are six protecting, one under two names.*
+
+Beside other-than, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *inversionings compose by odd and even, an even number of them same-as its prior and an odd number other-than*
+- The same: *One inversion is other-than-prior, two, self and a particular other, one inversion apart with one bi-coupling, torusing's: bi-exchanging.*
+- The same: *Two inversions are same-as-prior, three, self, other and self one on, reaching its own side again, corusing's: bi-tri-exchanging.*
+
+By these, of the two more: the one is other-than, and the two together are same-as, a reaching of its own side again.
+
+Beside a stable form and an atom:
+
+- Natural Intelligence: *A form same-existing with each resolving is a stable form.*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *An atom is the stable form of universal momentarying: same-existing through each moment, the one same form in each universe, its orientation its own, and all-parity around it.* With 1.1, universal momentarying is tri-bi-co-momentarying, and its stable form an atom.
+
+Three places to read closely, each an is-or-is-not?:
+
+- The six recursionings are an atom's own. The same gathering file has *An atom is its stable form, same-existing through each moment, and no momentarying of its own.*, and Natural Exploring has *Each existing thing is changing and changing back with its own moment*. With it not, the going on is the universe's and an atom is its form.
+- *Now* is a fourth after tri, bi and co. In the living files tri, bi and co are a name's three, and *now* is with a name's number, as in 7-now-observing. 1.1 has now as one, the moment each of the three is of.
+- A stable form is by its goings on. Natural Physics has *A step from a fixing, a relation going on among changing things, to an equilibrium fixes its subject a not-changing still, an unchangeable form, not possibly existing*. A form same by six going on and two closing is no still.
+
+A field's signs, for a recursioning forward and for the two together:
+
+- Order theory, a covering: a less-than sign with a dot in it, ⋖, and its mirror ⋗. It says a next is over its prior with no thing between: one step.
+- Order theory, a preceding: ≺ and ≻, a coming before, by any number of steps.
+- A mapping: ↦, one doing of a rule to a thing.
+- Chemistry, a double harpoon: ⇌, a going and a coming back both going on at one rate, the amounts not changing.
+- Programming: `<>` is the not-equal sign of SQL, BASIC and Pascal, an other-than. `><` is a not-equal sign in one BASIC, and a difference of two sets in one Pascal.
+- Order theory, a Galois connection: two one-way maps between two ordered sets, neither undoing the other. A going and a coming back, done twice, is the same as done once, and the things it leaves the same are named closed.
+
+Sources for this part: <https://en.wikipedia.org/wiki/Covering_relation>; <https://Www.Wikipedia.org/wiki/.EQ.>; <https://wiki.lazarus.freepascal.org/Not_equal>; <https://www3.rocketsoftware.com/rocketd3/support/documentation/d3nt/102/refman/PICKBASIC-FLASHBASIC/less_than_greater_than_relational_operator.htm>; <https://chem-textbook.ucalgary.ca/?p=12339>; <https://www.wikipedia.org/wiki/Galois_connection>; <https://arxiv.org/pdf/1910.12198>
+
