@@ -14,6 +14,7 @@ Gathering-Value · Natural Transmissioning
 ### 1.1 Bi-moral co-agency, coupling that transmissions
 
 - **Possible incohering** · "A coupling a self is observing with its between is a transmissioning, and transmissioning is sharing across and neutralling both, inseparable." → Sayings part at *transmissioning*'s extent. Natural Naming has "*transmissioning* is a coupling across between selves with a surface, a file's title with it". Co-Chaining Logic Registry has "a bi-coupling a self is observing with its between is transmissioning", a parity sharing across and a between floating about 0 two parities of one changing and changing back. 1.1 has transmissioning as sharing across and neutralling both, inseparable. Beside them, transmissioning is the whole binary logical explaining of the method in its doing, parity changing, corusing and torusing. They part at the name's extent: a coupling across between selves; one changing and changing back of sharing across and neutralling; and the whole method. Two sides: transmissioning this file's one changing and changing back at a between; or a whole method's explaining, with this file a common explaining for each other file.
+- **Possible incohering** · "sharing across outward sways wider than neutralling inward, outward past inward by one" → Outward past inward by one, said here and in 1.4's "parallel widening past linear tightening by one": is-or-is-not abundancing, Exhibit TWENTY Natural Naming's name with 12, or a relation of its own.
 
 ### 1.2 Sharing across, one going across about the neutral
 
