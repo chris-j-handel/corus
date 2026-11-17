@@ -98,3 +98,15 @@ By the session's sentence, the two ordered sets are of prior-existings, inherite
 - <https://classes.golem.ph.utexas.edu/category/2013/09/formal_concept_analysis.html>
 - <https://galactic.univ-lr.fr/theory/concepts.html>
 - <https://amorabonilla.quarto.pub/-conocimiento-desde-los-datos/6B_FCA.html>
+
+## 7 Mended: a closing is a stable form's, and a living winds on
+
+Said in the session after: in right spiral all of this is floating neutralling and never closing. Readings 1 and 2 above have a self as a closed thing, and they part from it. Re-said:
+
+- A stable form is a closed thing, the same by a going and a coming back. Natural Physics has *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.*
+- A living self winds on, in right spiral, and is no closed thing. Natural Intelligence 5.2 has *Each unrelationing winds on, open, with φ, its unrelationing rate.*, and Exhibit TWENTY Natural Naming 2.4 has "winds on" for "closes".
+- Of the four kinds, two stand as read: a stable form, non-living and closed; a between, non-living and not closed. A self and a me-parity are of the side that winds on.
+- Reading 3 parts with it: living has no closed things to be one to one with a non-living's.
+
+Same-existing is then said two ways, to test: a stable form's, a closing, and a living self's, a winding on that comes to its parities again. is-or-is-not? A living self's same-existing is no closing.
+

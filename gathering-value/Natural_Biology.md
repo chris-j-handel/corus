@@ -132,6 +132,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · Z-DNA forms with d(CGCGCG); ADAR1's Zα domain bound to it has a structure at 2.1 Å; in mice with Zα's function lost cells die and skin inflames, and, an anticipated observing, ADAR1's lesser activity goes with Aicardi–Goutières syndrome. Z-DNA, d(CGCGCG), ADAR1 and ZBP1 each is-not a carbon atom, each a molecule with carbon atoms in it. — at "Z-DNA is a left-handed double helix of coding molecule."
 - **An explaining** · Leaves set at about 137.5 degrees one from the next are an aiming that shades each leaf least, an explaining.
 - **An explaining** · Left-coiling snail kinds arising more often where that snake lives is the observing that grounds *adaptation to the next scale's living conditions*, an explaining. Beside it: *opposite circling among plant kinds is adaptation to the opposite stable form of the next prime scale, used for housing or living conditions.*
+- **Possible exploring** · Two maple leaves face each other folded in a bud. With a central lobe cut from one, the facing lobe curves into the opening, the side lobes as they were, and growth stops with a wounded contact. A leaf's form going into an opening beside it.
 
 ### 3.4 Hand goes both ways, and observing homochirality as a sway
 
