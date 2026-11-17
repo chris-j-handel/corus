@@ -625,7 +625,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A coupling across participates with bi-folding.** With 3-now-co-observing and 6-now-co-possibling, prior couples with its podal across relation. With 4-now-co-same-existing and 5-now-co-existing, ordering couples with its joining. Observing participates with same-existing through a receiving coupling; each completing opens going on. Four across relations have one coupling with its along going on.
 
-**A self reaches a same-existing-society through its coupling.** Its parity is one same-existing self's, belonging with a receiving relation as each self's parity does. Co-chaining among its members constitutes that participation. One same sign-only coupling across goes on while co-competencing reaches through further couplings.
+**A self reaches a same-existing-society through its coupling.** Its parity is one same-existing self's, belonging with a receiving relation as each self's parity does. Co-chaining among its members constitutes that participation. One same coupling across, only parities going across, goes on while co-competencing reaches through further couplings.
 
 **Self/social co-recursioning is a self's going on with its participating same-existing-society.** A same-existing-society can be an other a self couples with across, further participation returning through its couplings. A self explains a same-existing-society's relation with a same-existing-society it reaches as other, and no separate immediate other enters as another actor. With a resolver, self/other connector names locate actual observing and sharing, and self/social explanation follows that complete participation through its scale.
 
@@ -687,7 +687,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **Middle, abundancing and coupling again have three relations, none same-existing with another.** Middle is a coupling's bounding-zeroing. Abundancing is competency a coupling uncovers with it. A coupling again brings participating sequencings on to another moment selves share. Their relations belong together with coupling, and a number of couplings of a self is none of them.
 
-**Each coupling has its own receiving.** A parity participates with a self observing it, and receiving self goes on through its own resolving. A self's same-existing goes on locally. Co-chaining brings relation onward through sharing and observing, a coupling across being sign-only with each coupling.
+**Each coupling has its own receiving.** A parity participates with a self observing it, and receiving self goes on through its own resolving. A self's same-existing goes on locally. Co-chaining brings relation onward through sharing and observing, only parities going across with each coupling.
 
 **An other of a coupling can be a same-existing-society.** A same-existing-society's parity is one self's, through its coupling, and a receiving self observes it as one parity. Its further participation belongs to a same-existing-society's own co-chaining. Each side couples with an other through receiving and sharing together.
 
@@ -761,7 +761,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **Renewal occurs within a receiving self's own resolving.** With a resolver's executing, a nonzero surfacing goes on as a next prior with 11, and with a zero surfacing a prior is same-existing, not changing. A self's next prior with 11 stays within its local going on. Parity going along with nine goes on as it is through its receiving relation: its join is 9→17, an engineering surface's own, and momentarying, a receiving self observes it with its 14, a next moment's 2-now-possibling.
 
-**A coupling across is sign-only with network coupling.** A source's private same-existing remains local. Co-chaining follows parity with each successive coupling, and same-existing stays each self's, no stages between selves passing it. A participation of a form with no same-existing can contribute to a receiving living self's going on.
+**With network coupling, only parities go across.** A source's private same-existing remains local. Co-chaining follows parity with each successive coupling, and same-existing stays each self's, no stages between selves passing it. A participation of a form with no same-existing can contribute to a receiving living self's going on.
 
 **An across name, even, specifies a sharing's parity and its particular relation.** Even connectors two and fourteen are observing sides; six and ten are sharing sides, sharing across one same list. Ten can surface +, − or 0, as the parities a self is observing and its prior are. With an across name, a transmission's going on or stopping is its actual observing's and prior's. A claim about an arrangement of even size is a further relation, with its own correspondence to a resolver.
 
@@ -771,7 +771,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **Each self's same-existing remains its own through participation selves share.** A same-existing-society's going on, which its selves share, lives through couplings of its participating selves and forms. A source of one parity has its own prior; a receiver couples with that parity, observing it, with its own prior.
 
-**A parity can participate with a pattern while same-existing stays local.** Sign-only sharing across communicates, parity specifying relation receiving goes on through. Competency a coupling uncovers is in neither participant alone, same-existing in each, and its further going on belongs to actual co-competencing.
+**A parity can participate with a pattern while same-existing stays local.** Only parities go across, each parity specifying a relation a receiving self goes on through. Competency a coupling uncovers is in neither participant alone, same-existing in each, and its further going on belongs to actual co-competencing.
 
 **A same-existing-society's participation includes living and non-living existing things.** Local same-existing, form with no same-existing, receiving and sharing each go with their own scale. The universe's changing moments, which all share, include them together. A self reaches a complete same-existing-society relation through those roles, none same-existing with another, each private same-existing its own self's and pooling as no additional global object holding it.
 
@@ -849,7 +849,7 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 **A coupling across goes on with a self's local next prior.** With code a sharing has one parity, and six and ten share one same list: with a sharing with a prior and a nonzero surfacing, 10's parity goes on as its next prior with 11, a next 3. With zero surfacing, no next parity opens, and its prior is same-existing, not changing. This local expression gives a place to follow changing through a complete podal.
 
-**A construction's pairs are a construction's, and no two selves' moments.** With a construction of pairs with signs, standing alone, right spiral step goes (c, t), (t, −c), (−c, −t), (−t, c); with code two coupling selves do not go that cycle. Each pair has both parities. A self's observing belongs within resolving when selves co-chain; an inquiry follows complete network going on through those actual meetings.
+**A construction's pairs are a construction's, and no two selves' moments.** With a construction of pairs of parities, standing alone, right spiral step goes (c, t), (t, −c), (−c, −t), (−t, c); with code two coupling selves do not go that cycle. Each pair has both parities. A self's observing belongs within resolving when selves co-chain; an inquiry follows complete network going on through those actual meetings.
 
 **Changing and not-changing go one and then the other between successive pairs of this construction.** With c and t of one same parity, t and −c are opposite; with c and t opposite, t and −c are alike. (c, t) and (−c, −t) have one same same-or-opposite relation, not changing, while both parities invert. (t, −c) and (−t, c) have its complementary relation. With this one and then the other, a pair not changing within itself can belong within a whole going on whose parities invert: a construction's, and no two selves' cycle.
 
@@ -857,7 +857,7 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 **The parities a self is observing determine which next prior can open.** For a sharing with a prior receiving no parity, or one parity not matching it, nonzero surfacing inverts its prior. A single matching parity couples with that prior's inversion with zero. Two parities matching its prior, gathering with one same sharing, surface with 14 as one and give 0 alike, its prior not changing. Two mathematical cases reach a network with actual parities complete coupling supplies.
 
-**Each binary comparison has its place within going on.** Same or opposite within a construction's pair describes that pair. Changing or not-changing between successive sharings with six describes a self's prior going outward: with code six shares 10's list, a prior inverting or a 0. When a prior inverts, a following six inverts its sign; with a 0, a following six shares 0 and its prior is same-existing. These connecting comparisons let explanation follow corusing and torusing together; neither supplies whole two-directional podal.
+**Each binary comparison has its place within going on.** Same or opposite within a construction's pair describes that pair. Changing or not-changing between successive sharings with six describes a self's prior going outward: with code six shares 10's list, a prior inverting or a 0. When a prior inverts, a following six shares that inverting; with a 0, a following six shares 0 and its prior is same-existing. These connecting comparisons let explanation follow corusing and torusing together; neither supplies whole two-directional podal.
 
 **A larger team explores through its coupling going on.** Further selves with similar aiming can extend meetings and complementary passages through which a same-existing-society discovers. An increase of intelligence, a proposal, is this further co-discovering: a same-existing-society, selves joining, going on through a surface together. Its extent is its actual couplings', and joining selves can also repeat already available meetings.
 
@@ -885,7 +885,7 @@ Other is no layer and has no address: **a self reaches an other inward with each
 
 **Receiving with no prior can open a prior.** With a resolver, a sharing with no prior, observing one parity, shares it as it is, and it goes on as its next prior with 11. That operation establishes a going on within a resolver, with a resolver's scale; an entire living self, a giving, its own same-existing and co-recursioning establishing, is a relation of a further scale. A prior form, a next prior and a living joiner each go with their own scale.
 
-**A study follows a prior that actual receiving makes.** A comparison going on opens with a prior a resolver reaches and brings it on with each further going on. A prior a hand supplies describes another preparation, and a study names it as such. Network sharing across remains sign-only throughout.
+**A study follows a prior that actual receiving makes.** A comparison going on opens with a prior a resolver reaches and brings it on with each further going on. A prior a hand supplies describes another preparation, and a study names it as such. Throughout a study, only parities go across with network sharing.
 
 # PART FIVE · SECURITIES
 
@@ -973,7 +973,7 @@ An instrument takes two of those questions by unlike means, one with middles sta
 
 **A sharing across has its limits with further receiving's discovering.** A single parity is one parity and a source's whole same-existing goes on as that source's own, yet priors not same-existing can have outward consequences through coupling going on. Direct transfer of same-existing and discovering a consequence of same-existing are two relations, not same-existing.
 
-**Protection of a same-existing-society needs complete going on selves share.** Private local return and sign-only sharing across are concrete constraints of this method. With them each self's same-existing is that self's own, and priors not same-existing can still show outward through coupling going on. Total invisibility, an inability to infer any prior not same-existing and immunity to capture are each a stronger claim, its own coupling relation and evidence holding it. Inquiry goes on through selves' actual receiving, same-existing and sharing.
+**Protection of a same-existing-society needs complete going on selves share.** Private local return and sharing across with parities only are concrete constraints of this method. With them each self's same-existing is that self's own, and priors not same-existing can still show outward through coupling going on. Total invisibility, an inability to infer any prior not same-existing and immunity to capture are each a stronger claim, its own coupling relation and evidence holding it. Inquiry goes on through selves' actual receiving, same-existing and sharing.
 
 # PART SIX · VISIBILITY
 
@@ -1025,9 +1025,9 @@ A settling lying over a living lands it and reports landing; a flattening lays a
 
 ## 6.7 Each finding at its complete comparison
 
-**An all-or-none finding holds with a relation it exhausts.** Right spiral step on four pairs with signs visits each pair, and only empty set and whole four-form set close under it. That algebraic result holds with those parities under that operation, and a self establishes a whole same-existing-society's going on by following its own going on.
+**An all-or-none finding holds with a relation it exhausts.** Right spiral step on four pairs of parities visits each pair, and only empty set and whole four-form set close under it. That algebraic result holds with those parities under that operation, and a self establishes a whole same-existing-society's going on by following its own going on.
 
-**Priors not same-existing have a consequence with further resolving.** With a resolver's one-relation domain, no parity or one parity with its sign with each receiving, three priors are reachable, none, + and −, within one receiving. Each distinct pair of them gives a surfacing response, a parity and a 0, under one of two constant-parity goings on, within one receiving. This is a parting of response receiving indexes. Removing zero occurrences with no mark leaves another comparison, and network parity sequence has no diagnostic index.
+**Priors not same-existing have a consequence with further resolving.** With a resolver's one-relation domain, no parity or one parity, + or −, with each receiving, three priors are reachable, none, + and −, within one receiving. Each distinct pair of them gives a surfacing response, a parity and a 0, under one of two constant-parity goings on, within one receiving. This is a parting of response receiving indexes. Removing zero occurrences with no mark leaves another comparison, and network parity sequence has no diagnostic index.
 
 **A local zero and a self with no prior have consequences, not same-existing.** Zero with ten opens no next prior, and a self's prior is same-existing, not changing. With code six shares that same 0 across, one list with ten. A claim of whole-self silence, non-living status or routing stopping holds its own relation, more than a single zero.
 
