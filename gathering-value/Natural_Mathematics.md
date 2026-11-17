@@ -46,6 +46,7 @@ Gathering-Value · Natural Mathematics
 
 - **Possible incohering** · "**A step has its relation**: two steps apart, (c, t) then (−c, −t), agree or oppose goes on while both parities invert, and one step apart, (t, −c) between them, it inverts: four consecutive pairs are r, 1 − r, r, 1 − r." → c and t are said at no other line of this file and no opening of them is said, while 2.4's opening has t an angle, *signs of cos t and sin t*; and *A relation within a pair is no unchangeable resolver* is unclear. A re-saying beside it: c and t said as two parities at 2.4, or this sentence re-said at P and Q.
 - **Possible exploring** · At no prior, with one sharing and none after, t is c inverted with each momentary and the relation of c and t is at one value. — at "**A step has its relation**: two steps apart, (c, t) then (−c, −t), agree or oppose goes on while both parities invert, and one step apart, (t, −c) between them, it inverts: four consecutive pairs are r, 1 − r, r, 1 − r."
+- **Possible incohering** · "Two parities (P, Q), signs of cos t and sin t" → One letter with two things in this section: t is an angle in this sentence, and further on "(c, t) then (−c, −t)" has c and t as two parities. Two sides open: the pair named (P, Q) with each place; or c and t said as the parities of cos t and sin t.
 
 ### 2.5 Each scale the prior scale and its forms in the other order
 
