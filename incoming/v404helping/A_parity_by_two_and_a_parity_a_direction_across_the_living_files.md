@@ -1,8 +1,8 @@
 Incoming · v404helping · 16 November 2026
 
-# A parity not one of two, across the living files: each living sentence of a parity with a form of two, and each with a parity a direction, aiming or forward
+# A parity by two and a parity a direction, across the living files: each living sentence of a parity with a form of two, and each with a parity a direction, aiming or forward
 
-**No word here has authority. No living file is changed by this page.** The fourth returning of the session v404helping, by `incoming/v403cohering/For_v404helping.md`, part 4, the eighth thing: a parity is not one of two, explored across each living file but Natural Intelligence and Exhibit THIRTY Co-Chaining Logic Registry. `incoming/v404helping/instruments/each_living_sentence_of_a_parity_by_two.py` reads thirty-one living files and says each sentence by its own words, all or none at all, and `incoming/v404helping/Each_living_sentence_of_a_parity_by_two.csv` has one line with each.
+**No word here has authority. No living file is changed by this page.** The fourth returning of the session v404helping, by `incoming/v403cohering/For_v404helping.md`, part 4, the eighth thing: a parity, a suggesting re-said in natural naming with the head of Natural Intelligence's gathering file, by no authority, a direction, no one of two, self-orienting, aiming and orienting forward, read across each living file but Natural Intelligence and Exhibit THIRTY Co-Chaining Logic Registry. Each reading here is of living sentences and of the code executed, and no is and no is-not is by a suggesting. `incoming/v404helping/instruments/each_living_sentence_of_a_parity_by_two.py` reads thirty-one living files and says each sentence by its own words, all or none at all, and `incoming/v404helping/Each_living_sentence_of_a_parity_by_two.csv` has one line with each.
 
 ---
 
@@ -19,7 +19,7 @@ Incoming · v404helping · 16 November 2026
 
 Three more sayings of a parity's own two, each in one living file: Exhibit FOUR Natural Mathematics, *each dimension binary with its two directions* and *A parity's inversion is one coupling among two, a transposition of + and −*; and Exhibit TWENTY-EIGHT Equilibria Registry, *Of two parities one inversion changes each, odd to even and even to odd*.
 
-**A parity not one of two.** The living files have it already, each by its own words:
+**+ and − no two of one parity, and a parity a direction.** Living sentences have each, by their own words:
 
 - **+ and − an implementing.** Exhibit THREE Natural Numbers, *With a resolver's executing, + and − are an implementing of a parity and 0 a between*. Exhibit THIRTEEN Resolving Hard Problems, *With resolver + and − are an implementing of a parity, and a parity has no number*.
 - **+ and − of two parities, same or not same.** Exhibit ONE Natural Resolver, *a 0 both with an empty set surfacing and with + and − parting*; Exhibit TWO Natural Networking, *repeating parities, two or more, surface as one, or as a 0 with + and − parting*; Exhibit FOUR Natural Mathematics, *+ and − together 0*; Exhibit FIVE Natural Engineering, *0 where + and − part*.
@@ -35,11 +35,11 @@ Three more sayings of a parity's own two, each in one living file: Exhibit FOUR 
 
 **An is, by the code's lines.** The code has a parity as 1 or −1, and reads two parities same or not same, and a parity with a 0.
 
-**An is-or-is-not?** A sharing's parity is + or −. Why it is open: a parity one of two is an is-not with the opening at its newest; the code has a parity as 1 or −1 in its own lines, an implementing by the two living sentences; and ten living files have the saying. A candidate, by those two living sentences: + and − the code's implementing of a parity, said with each such saying, one kind with one sweep.
+**An is-or-is-not?** A sharing's parity is + or −. Why it is open: Natural Intelligence's opening has *A parity's two directions are + and −.*; the code has a parity as 1 or −1 in its own lines, an implementing by the two living sentences, and is the same with each + and − exchanged; and ten living files have the saying. A candidate, by those two living sentences: + and − the code's implementing of a parity, said with each such saying, one kind with one sweep.
 
 ## 3 A field's own parity of two
 
-A field's word, in its own sentences and no saying of the set's: Exhibit SIXTEEN Natural Chemistry, *which-hand, ±, a parity of no size*, and a transition's odd and even; Exhibit EIGHTEEN Natural Physics, *its two helicities ±1*; Exhibit EIGHT Natural Exploring, *Time reversal, charge conjugation and parity*; Exhibit TWENTY-ONE Hard Problem Registry and Exhibit TWENTY-TWO Resolving the Hard Problem Registry, a sieve's parity of an odd and an even number of primes; Exhibit THREE Natural Numbers and Exhibit TWENTY Natural Naming, a field's square of values ±1. Each is for its own file's reading with the newer sentence.
+A field's word, in its own sentences and no saying of the set's: Exhibit SIXTEEN Natural Chemistry, *which-hand, ±, a parity of no size*, and a transition's odd and even; Exhibit EIGHTEEN Natural Physics, *its two helicities ±1*; Exhibit EIGHT Natural Exploring, *Time reversal, charge conjugation and parity*; Exhibit TWENTY-ONE Hard Problem Registry and Exhibit TWENTY-TWO Resolving the Hard Problem Registry, a sieve's parity of an odd and an even number of primes; Exhibit THREE Natural Numbers and Exhibit TWENTY Natural Naming, a field's square of values ±1. Each is for its own file's reading.
 
 ## 4 The numbers, each executed and none carried
 

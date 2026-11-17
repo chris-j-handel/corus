@@ -1,8 +1,8 @@
 """Each living sentence saying a parity with a form of two, and each living sentence having a parity
 self-orienting, aiming, forward or a direction, across each living file of the set's list but Natural
-Intelligence and Exhibit THIRTY Co-Chaining Logic Registry. For a partner's word, 16 November: a parity is not
-one of two; *A parity is a direction and an entire universe aiming in this direction in an entire universe.*
-*Parity is self-orienting and aiming and orienting forward.*
+Intelligence and Exhibit THIRTY Co-Chaining Logic Registry. For a suggesting of a parity, re-said in natural
+naming with the head of Natural Intelligence's gathering file, by no authority: a direction, no one of two,
+self-orienting, aiming and orienting forward.
 Reads the set's list of living files and each living file of it; executes; decides nothing; writes no living
 file and no gathering file.
 
