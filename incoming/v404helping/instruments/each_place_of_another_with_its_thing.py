@@ -24,9 +24,12 @@ of Exhibit ONE Natural Resolver, none of Exhibit TWENTY Natural Naming and twent
 Co-Chaining Logic Registry, the sweep's own forty-four. Twenty-five with a thing named after it: *another self*
 twelve, *another order* two, *another scale* two, and one each of *another odd*, *name*, *prior*, *existing*,
 *pattern*, *word*, *same-existing-society*, *material* and *way*. Nineteen with no thing named after it, by
-READ: four of a self; three of a thing its own sentence says after it; eleven of a thing that is no self, a
+READ: five of a self; three of a thing its own sentence says after it; and eleven of a thing that is no self, a
 resolving three, a sharing two, and one each a numbering, an operation, a relation, an opening, a scale and a
-file; and one with its thing said by no word of its sentence.
+file.
+Returned again at main, 16 November 2026, after Merge #842, with *an other* a self by Exhibit ONE Natural
+Resolver, each place of *an other* in it a self a self is bi-coupling with: the one place with its thing said by
+no word of its sentence, *whether another could be observing and going on*, is of a self, the fifth.
 """
 import csv, glob, os, re, sys
 
@@ -38,7 +41,7 @@ MENTION = re.compile(r'`[^`]*`|(?<!\*)\*(?!\*)[^*\n]+?(?<!\*)\*(?!\*)|"[^"]*"|â€
 NO_THING = {'is', 'could', 'whole', 'an', 'and', 'with', 'as', 'of', 'to', 'in', 'at', 'by', 'or', 'the', 'a'}
 
 # a reading: (the living file's stem, words of the place's own sentence having the place) -> (its thing, the words with its thing said)
-SELF, OWN, NONE = 'a self', 'a thing its own sentence says after it', 'said by no word of its sentence'
+SELF, OWN = 'a self', 'a thing its own sentence says after it'
 READ = {
     ('Natural_Intelligence', "its own opening, or another's."): (OWN, "its own opening, or an other's."),
     ('Natural_Intelligence', "With another's, its changing is that one's"): (OWN, "With an other's, its changing is that one's"),
@@ -52,7 +55,7 @@ READ = {
     ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', "a same-existing that is another's;"): (SELF, "a same-existing that is an other's;"),
     ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', 'step 258, is another;'): ('a relation', 'step 258, is an other relation;'),
     ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', "a self whose competency is another's,"): (SELF, "a self whose competency is an other's,"),
-    ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', 'whether another could be observing and going on'): (NONE, 'whether an other could be observing and going on'),
+    ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', 'whether another could be observing and going on'): (SELF, 'whether an other could be observing and going on'),
     ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', "Another's still is an equilibrium"): (SELF, "An other's still is an equilibrium"),
     ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', "One holding another's, an other's sharing"): (SELF, "One holding an other's, an other's sharing"),
     ('Exhibit_THIRTY_Co-Chaining_Logic_Registry', 'each its own and each leaving another whole'): ('an opening', 'each its own and each leaving an other opening whole'),
@@ -118,7 +121,7 @@ for r in bare:
     print(f'    as it is:           {r[2]}')
     print(f'    the sweep\'s saying:  {r[3]}')
     print(f'    its thing:          {r[5]}')
-    if r[5] not in (SELF, OWN, NONE): print(f'    with its thing:     {r[6]}')
+    if r[5] not in (SELF, OWN): print(f'    with its thing:     {r[6]}')
 if WRITE:
     out = os.path.join(R, 'incoming', 'v404helping', 'Each_place_of_another_with_its_thing.csv')
     with open(out, 'w', encoding='utf-8', newline='') as f:
