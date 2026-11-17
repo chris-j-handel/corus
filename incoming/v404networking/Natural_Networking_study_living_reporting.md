@@ -6,7 +6,7 @@ This is a living reporting file. Each study adds its findings here, and a findin
 
 ## Condition now
 
-- **Resolver.** Exhibit ONE Natural Resolver's code is read from its file with each executing, and goes on as it is. It is same-existing with each study so far.
+- **Resolver.** Exhibit ONE Natural Resolver's code is read from its file with each executing, and goes on as it is. It is same-existing with each study.
 - **Layings studied.** Studied layings go from two selves to 144:
   - lone selves;
   - a spiral of one with each self;
@@ -28,7 +28,7 @@ This is a living reporting file. Each study adds its findings here, and a findin
 - **Possibling.** A hand inverts one prior, or a hand supplies one parity, once, to one self or two.
 - **Using.** A finding goes on as a note in a living file's gathering file, at its section.
 
-## Learning so far
+## Learning until now
 
 1. **Living goes on with the resolver by itself.** Living is inheriting prior-existing, and with each moment each self inherits its prior. A prior goes on same-existing only with a same parity received, and a parity comes only from a self inverting. Each self inverts again and again, and each network goes on changing. Living comes with the resolver. A study looks at its health and its co-intelligencing.
 

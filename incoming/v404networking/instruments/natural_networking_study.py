@@ -16,19 +16,23 @@ It prints four studies, each with fixed seeds, so a second executing prints the 
 
 It reads one file, Exhibit ONE's, and writes none.
 
-Use, from the repository's top folder:
-  python3 -I incoming/v404networking/instruments/natural_networking_study.py all
-  python3 -I incoming/v404networking/instruments/natural_networking_study.py third
+Use, with the repository's top folder as its first word (here "."), and a study's name or none for all:
+  python3 -I incoming/v404networking/instruments/natural_networking_study.py .
+  python3 -I incoming/v404networking/instruments/natural_networking_study.py . third
 """
 import collections
 import glob
+import os
 import random
 import re
 import sys
 
-ONE = sorted(glob.glob("Exhibit_ONE_Natural_Resolver_*.md"))
+_words = sys.argv[1:]
+ROOT = _words.pop(0) if _words and os.path.isdir(_words[0]) else \
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+ONE = sorted(glob.glob(os.path.join(ROOT, "Exhibit_ONE_Natural_Resolver_*.md")))
 if not ONE:
-    sys.exit("Use from the repository's top folder: Exhibit ONE's file is read from it.")
+    sys.exit("Give the repository's top folder as the first word: Exhibit ONE's file is read from it.")
 _code = re.search(r"```python\n(.*?)```", open(ONE[-1], encoding="utf-8").read(), re.S).group(1)
 _ns = {}
 exec(_code, _ns)
@@ -340,7 +344,9 @@ STUDIES = {"living": study_living, "growing": study_growing, "carrying": study_c
            "third": study_third}
 
 if __name__ == "__main__":
-    asked = sys.argv[1] if len(sys.argv) > 1 else "all"
+    asked = _words[0] if _words else "all"
+    if asked not in STUDIES and asked != "all":
+        sys.exit("A study's name: " + ", ".join(STUDIES) + ", or all.")
     for name, fn in STUDIES.items():
         if asked in (name, "all"):
             fn()
