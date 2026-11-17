@@ -34,7 +34,8 @@ v404chaining's own: each logical sentence in sequence, co-chaining out of the se
 Each instrument is a file of `incoming/v403mgr/instruments/`, executed as `python3 -I <its file> <root>`, and its opening lines say what it reads and each thing it returned.
 
 - **`by_the_sentence_before.py`**: each sentence of the living opening with the sentence it is after, the names the two have together. Ten sentences have no name together with the sentence each is after, and one sentence opens with *by*. Each of the ten is a place for a *by*.
-- **`next_version_sized.py`**: the opening at its newest as one sequence, and the six parts. It says each line with a name before that name's own line, each name with no line of its own, and, with each part, the sentences having a name whose own sentence in the opening is an is-or-is-not?.
+- **`incoming/v404chaining/instruments/the_opening_as_one_sequence.py`**, v404chaining's own, received: the opening at its newest as one sequence, each line after the line of each name in it, each circle of lines, a candidate order whole, and each bonded name with no line of its own. It is the one reading of it, newer alone.
+- **`next_version_sized.py`**: the six parts after the opening, each sentence by its kinds. It says, with each part, the sentences having a name whose own sentence in the opening is an is-or-is-not?.
 
 | Part | Sentences | With a name whose own sentence is an is-or-is-not? | With a name of the code | With none of the instrument's kinds |
 |---|---|---|---|---|
@@ -53,7 +54,7 @@ Each instrument is a file of `incoming/v403mgr/instruments/`, executed as `pytho
 
 Each is ready now, in this order or by a partner's word. Each returning lays a living sentence word for word with its re-saying, a possible incohering in its file's gathering file with its section; or a sequence whole, a candidate in its own folder. No living file is changed.
 
-1. **The opening as one sequence.** Each line by one binary: the line is after the line of each name in it. A candidate order whole, each line that goes to an other place named with why, and each name with no line of its own with a candidate line.
+1. **The opening as one sequence**, received: `incoming/v404chaining/The_opening_at_its_newest_as_one_sequence.md`. Its five is-or-is-nots are at the head of Natural Intelligence's gathering file, each a line of the partners' table. With each next reading its instrument is executed again; a word of a partner's with one of the five goes to its droplet.
 2. **The ten sentences with no name together with the sentence each is after**, each read for its co-chaining: a *by*, a name of the sentence it is after, or an other place in the sequence.
 3. **Each part after the opening, one part with one returning.** Each sentence with the sentence it is after: the name it opens with, and each name in it with that name's own sentence. A sentence forced out of the sentence it is after by a word, with no name of it, is one kind for one sweep.
 4. **Exhibit THIRTY Co-Chaining Logic Registry's numbered sentences in sequence.** Each sentence after the sentence of each name in it, by its number; and each sentence of the opening word for word with Natural Intelligence's, each re-saying of the one a re-saying of the other.

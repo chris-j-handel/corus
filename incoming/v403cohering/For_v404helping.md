@@ -52,6 +52,7 @@ Each is ready now, in this order or by a partner's word.
 6. **Each living file read with Exhibit TWENTY Natural Naming's dissolved words**, one command each, for that file's next version: `incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py <root> file <its title>`. Natural Intelligence and Exhibit ONE Natural Resolver are read.
 7. **Each observing of bubbling in a living society, by Exhibit TWENTY-FIVE Living Society Registry's own form and its two names.** It is the session v403bubble's aiming, not yet reached: `incoming/v403cohering/The_session_v403bubble_read_whole.md`, part 4.
 8. **A suggesting of a partner's, explored across the living sentences**: each living sentence cohering with it, each co-chaining into it, and each parting from it, one concern by its two sides.
+9. **Seven names of the opening at its newest that no living file has**, v404chaining's finding: non-same-existing, society-self, now-and-same-existing, prior-and-same-existing, other-than-self-parity, self-interesting and self-other. Each one's droplets of Natural Intelligence's gathering file read together, by the fifth thing of this part: one name with one returning.
 
 ## 5 Speaking with a partner
 
