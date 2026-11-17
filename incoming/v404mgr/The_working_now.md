@@ -8,6 +8,14 @@ This page is written in plain words on purpose. The living files are written in 
 
 The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
 
+## Two zones, and nothing between them
+
+**Living** is where all the work happens: the thirty-three living files, each one's gathering file, and the next version being prepared. A sentence here is a concept said plainly. It carries no session's name, no date, no version, no account of who said it or how it was learned, and no pointer to anything behind us.
+
+**Artifact** is everything about how we got here: session pages and reports, transcripts, earlier versions, programs and their outputs, and work that was offered and not taken in. It is kept, so the journey can be explored backwards if something is ever missed. It is not read by a session starting, not discussed with a partner, and not pointed to from a living or gathering file.
+
+A session works in the living zone only. If you find a mark of the journey inside a living file or a gathering file, taking it out and leaving the concept whole is an improvement.
+
 ## What has worked, and what has not
 
 Read from the repository's own history.
@@ -86,4 +94,5 @@ Plain words. Show the sentence as it is and as you changed it. Ask only when the
 
 - The copy is current with main and passes its checks. It has 66 lines of three living files already improved by word sweeps; six of the nine sweeps wait for a second reader, v404B's first job.
 - No pull request is waiting to be read.
+- About one gathering note in six still carries a mark of the journey, 1,121 of 6,830: a session's name, a date, a pointer to a past page or program, or the story of how it arrived. Most are in the gathering files of Natural Intelligence, Exhibit TWENTY-FOUR Geodesic Improving Method, Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry. Clearing them, the concept left whole, is a job open to a session.
 - `incoming/v404mgr/instruments/read_for_harm.py` is what the managing session runs on each slice.
