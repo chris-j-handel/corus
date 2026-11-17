@@ -14,6 +14,32 @@ The expedition's work is the thirty-three living files at corus.me. Each has a g
 
 **Artifact** is everything about how we got here: session pages and reports, transcripts, earlier versions, programs and their outputs, and work that was offered and not taken in. It is kept, so the journey can be explored backwards if something is ever missed. It is not read by a session starting, not discussed with a partner, and not pointed to from a living or gathering file.
 
+## Not yet artifact: nine clusters of past papers, read in passes
+
+Between the two zones are papers of past sessions whose value has not been read into the gathering files. They are in the `archive` branch. A cluster is artifact once it has been read whole.
+
+| Cluster | Past sessions and topics | Read whole |
+|---|---|---|
+| Physics | v376 and v377: physics observings and natural torusing, the proposed Natural Physics and its reviews | yes |
+| Bubbling | v403bubble | not yet |
+| The dossiers of open value | v392F | not yet |
+| Carbon | Carbon Dating Explaining, v396 Carbon Co-Chaining Understanding, atom and carbon with primes, carbon scale existing things and ghosts, atomic fractal exploring | not yet |
+| Chemistry | chemistry and water, v392chem | not yet |
+| Forms | vault bi-folding, plane coloring and natural torusing, v386F | not yet |
+| Health, biology and medicine | v397Med, v382A | not yet |
+| Method and logic | Self Competency Binary Logic and Method Explaining, v383Op, v385A, v385R | not yet |
+| Networking and transmissioning | v384A's proposal for Exhibit SIX Natural Transmissioning, v380's Natural Networking explorings | not yet |
+
+**How a cluster is read.** The method is Exhibit TWENTY-FOUR Geodesic Improving Method 1.4, three fates at each passage, and nothing is added to it here.
+
+- **Dissolving.** A living file or a gathering file already has the passage's relation, in today's naming. Or the passage tells how a session worked. Nothing is written.
+- **Placing.** No file has it yet. It is laid as one lean note in the gathering file of the living file it is about, at the section it is about, by the gathering kit, with no session's name and no story.
+- **Carrying.** It has a term no living file has. It is laid in one gathering file that has no living file of its own. That file is made with the first passage a pass has for it.
+
+**What the first cluster taught.** Matching word for word finds almost nothing, 237 of 11,059 passages: the files' naming has been swept several times after those papers were written. A passage is compared by reading, with the living file's section open beside it. Physics came out at 15 notes placed from about 27,000 words, nothing carried, and everything else already in Natural Physics or its gathering file. Reports and README pages have the field observings: read them too.
+
+`incoming/v404mgr/instruments/each_passage_of_the_past_matched.py` sizes the clusters and writes out each cluster's passages for reading. Its first lines say how to use it.
+
 A session works in the living zone only. If you find a mark of the journey inside a living file or a gathering file, taking it out and leaving the concept whole is an improvement.
 
 ## What has worked, and what has not
@@ -96,6 +122,6 @@ Plain words. Show the sentence as it is and as you changed it. Ask only when the
 ## Now
 
 - The copy is current with main and passes its checks. It has 66 lines of three living files improved by word sweeps, six of the nine sweeps waiting for a second reader, and the first sentence improved under v404chaining's lead: the opening's seventeenth, *Each self is living, and each living thing is a self.*
-- No pull request is waiting to be read.
+- The first pass over past papers is done for one cluster of nine, Physics. The table above says which are not yet read.
 - About one gathering note in six still carries a mark of the journey, 1,121 of 6,830: a session's name, a date, a pointer to a past page or program, or the story of how it arrived. Most are in the gathering files of Natural Intelligence, Exhibit TWENTY-FOUR Geodesic Improving Method, Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry. Clearing them, the concept left whole, is a job open to a session.
 - `incoming/v404mgr/instruments/read_for_harm.py` is what the managing session runs on each slice.
