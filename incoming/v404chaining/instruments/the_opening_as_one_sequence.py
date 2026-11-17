@@ -8,6 +8,10 @@ Use: python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py
          the candidate order whole, each of its rows as the page has them
      python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> page <a page>
          each row of a page's order read with this executing's own, each letter
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> living
+         its second reading: the living opening, each sentence with the sentence it is after
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> living order
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> living page <a page>
 
 What it reads.
   A name: a name the candidate has in bold. Its own line is the first line with it in bold, and its own sentence
@@ -49,10 +53,144 @@ Returned at main, Merge #835, 16 November 2026:
      society-self, now-and-same-existing, other-than-self-parity, prior-and-same-existing, self-interesting and
      self-other. now-existing is in twelve lines of the candidate and in seventeen living files of thirty-three.
   6. two: universal set, in lines 18, 24, 25 and 44; and stable form, in lines 17, 48 and 51.
+
+Its second reading, with the word living. It reads the newest Natural Intelligence at the root, its opening's
+seventy sentences in their groups, and Exhibit THIRTY Co-Chaining Logic Registry's first groups. A name is a name
+the living opening has in bold, with now-existing, prior-existing and next-existing, found by the word forms of
+`incoming/v403mgr/instruments/opening_base.py`, with one mended: a 0 with a full stop after it is a 0. It says:
+  1. each sentence with no name together with the sentence it is after: the sentence it is after with its new
+     name, each name in it with that name's own sentence, and each word the two have together, the joining
+     words of JOINING passed over; and the one binary of the first reading, with each of seventy
+  2. each going of GOINGS alone, a sentence or two going after an other sentence, and the four together: the
+     sentences with none after it, and the one binary again
+  3. the four with each re-saying of RESAID, each word of its living sentence in it in order; and with surface
+     alone a form of a Natural Network surface
+  4. a place gathered already, of GATHERED, by the same two readings
+  5. each sentence with a 0 and a full stop after it
+
+Returned at main, Merge #842, 16 November 2026:
+  1. seventy sentences in four groups, opening with the first, the twelfth, the twenty-fourth and the
+     fifty-second, as Exhibit THIRTY Co-Chaining Logic Registry's first four groups open. Each of seventy is
+     after the own sentence of each name in it. Ten have no name together with the sentence each is after: 24,
+     29, 31, 44, 60, 61, 62, 64, 69 and 70, the ten of `incoming/v403mgr/instruments/by_the_sentence_before.py`.
+     Of three groups' opening sentences after the first, 24 alone is of the ten. Two have a word together and
+     no name: 29, two and directions; 60, surface. Six have their nearest sentence with a name of theirs
+     with one sentence or two between: 31, 44, 60, 61, 64 and 70.
+  2. the two sentences of a 0 after 36: nine, 31 away. 60 after 58: nine, 60 and 61 away and 59 new. 64 after
+     61: eight, 62 and 64 away. 70 after 68: nine, 70 away. The four together: five, 24, 29, 44, 59 and 69.
+     With each, each sentence is after the own sentence of each name in it.
+  3. with 29 and 44 re-said: three, 24, 59 and 69. With surface alone a form: two, 24 and 69, a group's
+     opening sentence and the opening's last.
+  4. 61 after 32: nine, 61 away and 60 as it was; and 61 is ahead of the own sentence of a same-existing-society.
+  5. two: 37 and 41. By `opening_base.py`'s form a 0 with a full stop after it is no 0.
 """
 import collections, glob, os, re, sys
 
 R = sys.argv[1]; WORD = sys.argv[2] if len(sys.argv) > 2 else ''
+
+# the second reading: the living opening, each sentence with the sentence it is after
+GOINGS = (('the two sentences of a 0 after the sentence of an agreeing parity', (29, 30), 36),
+          ('the sentence of geodesic after the sentence of a surface\'s living parities', (60,), 58),
+          ('the sentence of a living file after the sentence of inward and outward', (64,), 61),
+          ('the sentence of next-possibling-same-existing after the sentence of a living expedition', (70,), 68))
+GATHERED = ('the sentence of inward and outward after the sentence of a living parity\'s me', (61,), 32)
+RESAID = {29: "A **0** is a between of a parity's two changing directions.",
+          44: 'By resolving among parities, a self sharing 0 is **do-no-harming**.'}
+JOINING = set('a an the is are of with and its each it in on to as for or by one only while whose that'.split())
+
+def living_reading():
+    plain = lambda t: re.sub(r'\*\*|\*', '', t)
+    newest = lambda pat: max(glob.glob(os.path.join(R, pat)), key=lambda f: int(re.search(r'_v(\d+)', f).group(1)))
+    ni = open(newest('Natural_Intelligence_v*.md'), encoding='utf-8').read()
+    op = re.search(r'^# Natural Intelligence\n\n\*\*[^\n]*\*\*\n\n(.*?)\n\n\*\*ONE · ', ni, re.S | re.M).group(1)
+    sent, opens = {}, []
+    for para in op.split('\n\n'):
+        rows = [l.rstrip(' \\') for l in para.split('\n') if l.strip()]
+        opens.append(len(sent) + 1)
+        for r in rows: sent[len(sent) + 1] = r
+    N = len(sent)
+    thirty = open(newest('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v*.md'), encoding='utf-8').read()
+    their = [int(m) for m in re.findall(r'^## \d+ [^\n]*\n(?:(?!^## )[^\n]*\n)*?(\d+)\. ', thirty, re.M)[:len(opens)]]
+    own = {}
+    for n in sorted(sent):
+        for b in re.findall(r'\*\*(.+?)\*\*', sent[n]): own.setdefault(b.lower(), n)
+    def forms(k, surface=False):
+        e = re.escape(k)
+        if k == '0': return r'(?<![\w.+-])0(?!\w)(?!\.\d)'      # a 0 with a full stop after it is a 0
+        if k == 'me': return r'\bmes?\b(?!-)'
+        if k == 'self': return r'\bsel(?:f|ves)\b(?!-)'
+        if k == 'other': return r'\bothers?\b(?!-)'
+        if k == 'receives': return r'\breceiv(?:es|e|ing)\b'
+        if k == 'momentary': return r'\bmoments?\b|\bmomentary\b'
+        if k == 'parity': return r'(?<![\w-])parit(?:y|ies)(?![\w-])'
+        if k in ('opening', 'completing', 'free', 'living', 'observing', 'possibling', 'discovering', 'improving',
+                 'agreeing', 'parting', 'geodesic', 'universe'): return r'(?<![\w-])' + e + r'(?![\w-])'
+        if k == 'natural network surface' and surface: return r'(?<![\w-])surfaces?(?![\w-])'
+        return r'(?<![\w-])' + e.replace(r'\ ', r'[ -]') + r's?(?![\w-])'
+    names = list(own) + ['now-existing', 'prior-existing', 'next-existing']
+    def has_of(text, surface=False):
+        return {k for k in names if re.search(forms(k, surface), plain(text), re.I)}
+    def with_none(order, text, surface=False):
+        h = {n: has_of(text[n], surface) for n in order}
+        return [n for a, n in zip(order, order[1:]) if not h[n] & h[a]]
+    def early(order, text):
+        at = {n: i for i, n in enumerate(order)}
+        return [(n, k) for n in order for k in has_of(text[n]) if k in own and at[own[k]] > at[n]]
+    living = list(range(1, N + 1)); ten = with_none(living, sent)
+    def gone(goings):
+        order = list(living)
+        for _, block, after in goings:
+            order = [n for n in order if n not in block]
+            i = order.index(after) + 1; order[i:i] = list(block)
+        assert sorted(order) == living
+        return order
+    went = {n for _, block, _ in GOINGS for n in block}
+    rows = [f'| {i} | {n} | "{RESAID.get(n, sent[n])}" | {", ".join(w for w, yes in (("going", n in went), ("re-said", n in RESAID)) if yes)} |'
+            for i, n in enumerate(gone(GOINGS), 1)]
+    if len(sys.argv) > 3 and sys.argv[3] == 'order':
+        print('\n'.join(rows)); return
+    if len(sys.argv) > 4 and sys.argv[3] == 'page':
+        theirs = [l for l in open(sys.argv[4], encoding='utf-8').read().split('\n') if re.match(r'\| \d+ \| \d+ \| ', l)]
+        print('rows of the page:', len(theirs), ' rows of this executing:', len(rows), ' each letter the same:', theirs == rows)
+        sys.exit(0 if theirs == rows else 1)
+    print('the living opening:', N, 'sentences,', len(own), 'names in bold, in', len(opens), 'groups opening with', opens,
+          '; Exhibit THIRTY\'s first groups open with', their)
+    print('1. with no name together with the sentence each is after:', len(ten), ten)
+    print('   of the groups\' opening sentences after the first, with none:', [n for n in opens[1:] if n in ten])
+    print('   each sentence after the own sentence of each name in it:', not early(living, sent), early(living, sent))
+    words = lambda t: set(re.findall(r"[a-z0-9+−-]+", plain(t).lower())) - JOINING
+    for n in ten:
+        new = re.findall(r'\*\*(.+?)\*\*', sent[n - 1])
+        print(f'   {n}  {plain(sent[n])}')
+        print(f'       after: {plain(sent[n - 1])}')
+        print(f'       the new name of the sentence it is after: {", ".join(new) if new else "none"}')
+        print('       each name in it, with its own sentence: ' + ', '.join(f'{k} {own[k]}' for k in sorted(has_of(sent[n]), key=lambda k: own.get(k, 0)) if k in own))
+        print('       words together with the sentence it is after: ' + (', '.join(sorted(words(sent[n]) & words(sent[n - 1]))) or 'none'))
+        near = next((m for m in range(n - 2, 0, -1) if has_of(sent[n]) & has_of(sent[m])), None)
+        print(f'       the nearest sentence it has a name with: {near}, with {n - near - 1 if near else "no"} between')
+    print('2. each going alone, the sentences with none after it')
+    for g in GOINGS:
+        o = gone([g]); w = with_none(o, sent)
+        print(f'   {g[0]}: {len(w)} {w}; each after the own sentence of each name in it: {not early(o, sent)}')
+    o = gone(GOINGS); w = with_none(o, sent)
+    print('   the four together:', len(w), w, '; each after the own sentence of each name in it:', not early(o, sent))
+    resaid = dict(sent)
+    for n, t in RESAID.items():
+        old, new = plain(sent[n]).rstrip('.').split(), plain(t).rstrip('.').split()
+        it = iter(w_.lower() for w_ in new)
+        assert all(any(x == y.lower() for x in it) for y in old), ('a word of the living sentence away', n)
+        resaid[n] = t
+    w = with_none(o, resaid); print('3. the four with two sentences re-said, each word of the living sentence in its re-saying in order:', len(w), w)
+    for n, t in RESAID.items(): print(f'   {n}  {plain(sent[n])}  →  {plain(t)}')
+    w = with_none(o, resaid, surface=True); print('   and with surface alone a form of a Natural Network surface:', len(w), w)
+    w = with_none(living, sent, surface=True); print('   the living order with surface alone a form of it:', len(w), w)
+    o2 = gone([GATHERED]); w = with_none(o2, sent)
+    print(f'4. gathered already, {GATHERED[0]}: {len(w)} {w}; a name with its own sentence after it: {early(o2, sent)}')
+    zero = [n for n in living if re.search(r'(?<![\w.+-])0\.(?!\d)', plain(sent[n]))]
+    print('5. sentences with a 0 and a full stop after it:', zero)
+
+if WORD == 'living':
+    living_reading(); sys.exit(0)
 PLAIN = ('no other things', 'each with each other', 'the other one of two', 'the one and then the other',
          'facing each other')
 
