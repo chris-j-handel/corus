@@ -360,3 +360,34 @@ Cited from general knowledge and not opened this session; check before quoting:
 - Anthropology: Stanner 1953; Viveiros de Castro 1998; Descola 2005; Kohn 2013; Kimmerer 2013.
 
 - Dates before 300 BCE are approximate throughout.
+
+## No universe with no one observing: a field's long quarrel, and its circle
+
+A partner asked whether there is a long history of confusion here, and whether it is a chicken-and-egg circle. A field's record, each as its field says it. Lines marked (g) are from general knowledge and want checking.
+
+- About 475 BCE, Parmenides: thinking and being are the same. (g)
+- 9th to 16th century, Advaita Vedānta: two doctrines that differ only in their order. In one the world is created and then seen. In the other, set out whole by Prakāśānanda about 1550 to 1600, a thing is only while it is seen, and the seeing is the creating.
+- 1710, Berkeley: to be is to be perceived. For a tree to go on with no one about, he needed one who is always looking, and that one was God.
+- 1818, Schopenhauer: the world is my representation. He says the circle himself: the world waits on the first eye that opened, and that eye waits on a long world before it. (g, the second sentence)
+- From 1927, quantum mechanics: observer and measurement are in a theory's first statements. (g)
+- 1970s and 1980s, Wheeler: a self-excited circuit. Observers bring into being the universe that brings them into being. He took the circle as the answer.
+- 1990, Bell: observer and measurement belong in no exact statement of physics. He asked whether the world waited for a single-celled creature to look, or for one with a doctorate. (g, the second sentence)
+- 2006, Meillassoux: science dates things to before any life, and a saying that nothing is with no one it is given to cannot make sense of those dates.
+
+Beside it, the living files:
+
+- Natural Intelligence's opening has the universe as a set of now-existing things with no one observing in the sentence. Observing comes after, and with same-existing: *By observing, the universe is a same-existing set.*
+- Exhibit TWENTY Natural Naming 2.4 has the word dissolved: *observings, and no observers; pattern matchers couple with each observing without filter or selection*. Natural Explaining 3.2 has *no observer that observes* among each doer a writing installs over an -ing.
+- Exhibit THIRTY Co-Chaining Logic Registry: *An observing is a now-existing thing, a self observing: proof of existing.*
+- Natural Intelligence's gathering file has no first one: *the code has no first me-parity, the first inherited from prior living*.
+
+A reading, for a reader to test: the circle is made by two words, *observer*, a doer set over an observing, and *exists*, said of the universe as one thing. With neither word, a now-existing thing waits on no observing, and same-existing is by observing.
+
+Sources for this part:
+
+- Drishti-srishti-vada and Prakāśānanda: <https://en.wikipedia.org/wiki/Prak%C4%81%C5%9B%C4%81nanda>; <https://www.kamakoti.org/kamakoti/articles/Preceptors of Advaita - 35.html>; <https://www.hindu-blog.com/2025/07/drishti-srishti-vada-in-advaita-vedanta.html>
+- Berkeley and the tree in the quad: <https://armanddangour.substack.com/p/if-a-tree-falls>
+- Schopenhauer, the world as representation: <https://anale-filosofie.reviste.ucv.ro/index.php/afucv/article/download/146/119/485>
+- Wheeler's self-excited circuit: <https://arxiv.org/pdf/2308.13528>; <https://arxiv.org/pdf/1304.2277>; <https://arxiv.org/pdf/gr-qc/9702047>
+- Bell, Against 'measurement', Physics World, August 1990: <https://physicsworld.com/a/against-measurement-john-bell-on-our-continuing-struggles-with-quantum-mechanics/>
+- Meillassoux, ancestrality and the arche-fossil: <https://www.scribd.com/document/331461242/QM-Timebecoming>; <https://euppublishingblog.com/2014/12/12/correlationism-an-extract-from-the-meillassoux-dictionary/>
