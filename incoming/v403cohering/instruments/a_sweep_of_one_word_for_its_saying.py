@@ -16,7 +16,9 @@ with an other saying it halts. A plain place is the word whole, capital or small
 file's version line are each passed over as a mention. A heading and its line of the contents are an address,
 and each is passed over and said: an address is re-said with each place naming it together. A capital opening
 the word is a capital opening its saying. A place its saying would be beside its own word again, as *each each*,
-is passed over and said: its sentence is for its own reading.
+is passed over and said: its sentence is for its own reading. A place within a longer word Exhibit TWENTY
+Natural Naming has dissolved, as *another* within *one another*, is that longer word's place and no place of
+this sweep: it is passed over and said, with each executing, and two sweeps have one answer in either order.
 A quotation of a gathering file is a possible incohering's opening one and a droplet's closing one, as the
 set's gathering check reads them: one word for word a living sentence, with the word in it, is re-said with its
 sentence, and is word for word after or the sweep halts with nothing written. With a possible incohering's
@@ -56,10 +58,23 @@ assert entry, f'Exhibit TWENTY Natural Naming has no entry with *{WORD}* dissolv
 assert SAYING.lower() in entry[1], f'*{SAYING}* is no saying of the entry: {entry[1]}'
 print(f"Exhibit TWENTY Natural Naming's entry: {entry[0][:120]}")
 
-PAT = re.compile(r'(?<![\w-])' + re.escape(WORD).replace(r'\ ', r'\s+') + r'(?![\w-])', re.I)
+whole = lambda w: re.compile(r'(?<![\w-])' + re.escape(w).replace(r'\ ', r'\s+') + r'(?![\w-])', re.I)
+PAT = whole(WORD)
+# each longer word the file has dissolved with this word whole within it: its places are its own sweep's
+dissolved = set()
+for i, l in enumerate(naming):
+    if not l.startswith('- '): continue
+    left = l.split(' · *a* ')[0] if ' · *a* ' in l else l if i + 1 < len(naming) and naming[i + 1].startswith('  - *a* ') else ''
+    dissolved |= {re.sub(r'\s+', ' ', w.strip().lower()) for w in ITALIC.findall(left)}
+LONGER = sorted(w for w in dissolved if w != re.sub(r'\s+', ' ', WORD.lower()) and PAT.search(w))
+LONG = [(w, whole(w)) for w in LONGER]
+WITHIN = []                                   # a place within a longer dissolved word: passed over, that word's own place
 TWICE = []                                    # a place its saying would be beside its own word again, as each each: passed over, for its own reading
 def said_by(m):
     w = m.group(0); s = m.string
+    for lw, rx in LONG:
+        if any(x.start() <= m.start() and m.end() <= x.end() for x in rx.finditer(s)):
+            WITHIN.append((lw, s[max(0, m.start() - 70):m.end() + 50])); return w
     before = re.search(r'([\w-]+)\W*$', s[:m.start()]); after = re.match(r'\W*([\w-]+)', s[m.end():])
     if (before and before.group(1).lower() == SAYING.split()[0].lower()) or (after and after.group(1).lower() == SAYING.split()[-1].lower()):
         TWICE.append(s[max(0, m.start() - 70):m.end() + 50]); return w
@@ -119,6 +134,8 @@ for stem, gtitle in FIRST:
     print(f"    quotations of its gathering file re-said with their sentences: {q}; places of those droplets' own words after a quotation, re-said with it: {own}")
 
 print(f"\n*{WORD}* said by *{SAYING}*: {total} places with the copy's files")
+if LONGER: print('  a longer word dissolved with this word whole within it, its places its own sweep\'s: ' + ', '.join(f'*{w}*' for w in LONGER))
+for lw, x in sorted(set(WITHIN)): print(f"  as it is, a place of *{lw}* and no place of this sweep: \u2026{x}\u2026")
 for x in sorted(set(TWICE)): print(f"  as it is, its saying beside its own word again, for its own reading: \u2026{x}\u2026")
 if APPLY and writes:
     for p, t in writes.items(): open(p, 'w', encoding='utf-8').write(t)
