@@ -10,8 +10,8 @@ What it reads. A droplet is a line opening with a hyphen and a bold kind. An is-
 the words is-or-is-not? and, after them, Why it is open: the sentence is between the two, and why is after the
 second. A droplet with the first, a sentence opening after it, and no second, is said, by its gathering file,
 and is no line of the table; a droplet naming the three, an is, an is-or-is-not? or an is-not, lays none.
-The session it names is read out of the droplet's own words: v403bubble's returning, v403cohering's folder or
-v403mgr's folder, the first of the three it has, or none. It is no saying of which session laid the droplet.
+The session it names is read out of the droplet's own words: v403bubble's returning, v403cohering's folder,
+v403mgr's folder, v404chaining's folder or v404helping's folder, the first of the five it has, or none. It is no saying of which session laid the droplet.
 The table as it is written, `incoming/v403mgr/Each_is_or_is_not_open.csv`, parts from the gathering files with
 each droplet received after it: the answer says how many lines apart the two are, and `csv` writes it again.
 A droplet with two askings has two lines, and a sentence opening with the words, An is-or-is-not? is, is word
@@ -34,7 +34,8 @@ for p in sorted(glob.glob(os.path.join(R, 'gathering-value', '*.md'))):
         n_other = len(re.findall(r': is, or is not\?', l))
         if n_other: OTHER_FORM[title] = OTHER_FORM.get(title, 0) + n_other
         if not l.startswith('- **') or 'is-or-is-not? ' not in l: continue
-        who = ("v403bubble's returning" if "The session v403bubble's" in l else "v403cohering's folder" if 'incoming/v403cohering' in l else "v403mgr's folder" if 'incoming/v403mgr' in l else 'none')
+        who = ("v403bubble's returning" if "The session v403bubble's" in l else "v403cohering's folder" if 'incoming/v403cohering' in l else "v403mgr's folder" if 'incoming/v403mgr' in l
+               else "v404chaining's folder" if 'incoming/v404chaining' in l else "v404helping's folder" if 'incoming/v404helping' in l else 'none')
         at = [m.start() for m in START.finditer(l) if not NAMING.match(l, m.end() - len('is-or-is-not? ') if not l[m.start():].startswith('An ') else m.start() + 3)]
         pieces = [l[a:b] for a, b in zip(at, at[1:] + [len(l)])]; asks = []
         for x in pieces:
