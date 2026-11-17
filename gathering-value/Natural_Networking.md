@@ -36,10 +36,6 @@ Gathering-Value · Natural Networking
 ### 1.3 Linear-parallelizing and parallel-linearizing, one and then the other, widening and lengthening
 
 - **Possible incohering** · "Fourteen prime scales are from five through fifty-three, five non-living and thirteen living, and fifty-nine is self-close." → Fourteen prime scales are from five through fifty-three, five non-living and seven through fifty-three living, and fifty-nine is self-close, as Natural Naming 2.2 says the prime scales; *five non-living and thirteen living* reads as two counts beside *fourteen*.
-- **Possible incohering** · "Fifteen prime entries and fifteen even gaps between sixteen primes three through fifty-nine are two countings, equally many and distinct." → Fifteen prime entries and fifteen even gaps between sixteen primes three through fifty-nine are two sets of fifteen, each its own.
-- **Possible incohering** · "A prime length and an odd completing have separate countings." → A prime length and an odd completing are two numberings of places, each its own.
-- **Possible incohering** · "Finite study verifies both countings with all fifteen prime lengths through fifty-nine." → Finite study verifies both numberings with all fifteen prime lengths through fifty-nine.
-- **Possible incohering** · "Study's domain is two countings with those lengths." → Study's domain is those two numberings at those lengths.
 - **An explaining** · *parallel linearizing is alternating linear parallizing in the four phi rate length tunnel or four momentaryings . this is local global local. this is co sequencing along as long as prime 59 looping and this is the same across as the two are bi-inversioning-co-recursioning each other every momentarying. the width and length are alternating and bothbothing co-competencing facing forward and possibling farther forward from prior behind*.
 
 ### 1.4 Only parities go across, the middle in no sequence
@@ -116,7 +112,6 @@ Gathering-Value · Natural Networking
 
 ### 4.5 Each self going on through its actual observing
 
-- **Possible incohering** · "An inquiry shows an abundancing or a capture with a coupling going on that holds it; a count of parities, few or many, supplies no conclusion about either." → An inquiry reaches an abundancing or a capture at the bi-coupling going on that has it; a number of parities, few or many, leaves each an open question, its conclusion at that bi-coupling's going on.
 - **An explaining** · An engineered surface's coupling with a network can open at each place by adding a binary parity-changing sequence at a resolver's 1-now-existing, an anticipated observing. Still-possibling: a testing observing the surface's patterns as that sequence enters at different co-locations, upstream and downstream, right and not right across, at spanning widths, a snaking treadmill of local momentarying, for the surface's parity-changing seam, its smallest arrangement two machines, each with the resolver, one parity across a wire, each machine at its own pacing. A testing is engineering's own, of the engineered surface.
 
 ### 4.6 Podaling the surface selves share, longer and wider together
@@ -187,7 +182,6 @@ Gathering-Value · Natural Networking
 
 ### 6.4 Is-or-is-not the one observing, spans and orderings in place of positions and magnitudes
 
-- **Possible incohering** · "A number of a unit a working chooses has choosing, and a pace is a unit: an observing whose parameter beats count has pacing rather than form, and an observing that parts with an other pace is observing pace." → A number of a unit a working chooses has choosing, and a pace is a unit: an observing whose parameter is a number of beats has pacing rather than form, and an observing that parts with an other pace is observing pace.
 
 ### 6.5 One prior for both, each going on bringing it onward
 
