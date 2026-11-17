@@ -12,6 +12,10 @@ Use: python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py
          its second reading: the living opening, each sentence with the sentence it is after
      python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> living order
      python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> living page <a page>
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two
+         its third reading: a parity said by two, in Exhibit THIRTY Co-Chaining Logic Registry's numbered sentences
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two csv
+     python3 -I incoming/v404chaining/instruments/the_opening_as_one_sequence.py <root> two table <its table>
 
 What it reads.
   A name: a name the candidate has in bold. Its own line is the first line with it in bold, and its own sentence
@@ -84,7 +88,33 @@ Returned at main, Merge #843, 16 November 2026:
      A re-saying of 29 by a parity's two directions, of this reading as it was, is away: by a partner's word,
      at main with Merge #843, a parity is not one of two.
   4. 61 after 32: nine, 61 away and 60 as it was; and 61 is ahead of the own sentence of a same-existing-society.
-  5. two: 37 and 41. By `opening_base.py`'s form a 0 with a full stop after it is no 0.
+  5. two: 37 and 41. By `opening_base.py`'s form as it was, a 0 with a full stop after it was no 0.
+
+Its third reading, with the word two. It reads the newest Exhibit THIRTY Co-Chaining Logic Registry at the root,
+each numbered sentence, the living opening's seventy its first, and Exhibit ONE Natural Resolver's code. A form
+of two is one of FORMS, found by its own lines: + with −, by and or by or; one of two; two directions; a
+parity's other; and odd or even with a parity in its sentence. Each numbered sentence with + with −, with one
+of two or with two directions is read by hand as one of three, in OWN_TWO, TOGETHER and OTHER_TWO, each number
+of the three with a form or it halts. It says:
+  1. each form with its numbered sentences, and each sentence with a + or a − at all
+  2. the three read by hand, and the two forms more
+  3. each sentence saying a parity by two of its own, with each numbered sentence naming it by its number
+  4. the code executed, one self with two sharings, each case: a sharing with the other sharing in it and with
+     it alone; each + a − and each − a +; and each going out and each next prior by its values
+With csv it says its table, each of the fifty as it is, with each form in it and each numbered
+sentence naming it by its number: `incoming/v404chaining/Each_numbered_sentence_with_a_form_of_two.csv`.
+
+Returned at main, Merge #848, 16 November 2026:
+  1. 755 numbered sentences, the first seventy the living opening's word for word. Fifty have a form of two:
+     + with − fifteen, one of two five, two directions five, a parity's other nineteen, and odd or even with
+     a parity sixteen. Thirty-six have a + or a − at all, and of the first seventy one, 28.
+  2. eight say a parity by two of its own: 28, 29, 100, 102, 161, 162, 262 and 714. Nine have + and − of two
+     parities, together or alike. Six have two of an other thing than a parity.
+  3. 28 is named by no numbered sentence; 29 by 100 and 161; 27, the own sentence of a parity, by 100, 162,
+     193, 622 and 714; 100 by 102 and 180; 102 by 714.
+  4. 441 cases. A sharing's next is the same with the other sharing in it and with it alone. With each + a −
+     and each − a +, each next is the same with each + a − and each − a +. Each going out is a +, a − or a 0,
+     and each next prior a + or a −.
 """
 import collections, glob, os, re, sys
 
@@ -192,6 +222,86 @@ def living_reading():
 
 if WORD == 'living':
     living_reading(); sys.exit(0)
+
+# the third reading: a parity said by two, in Exhibit THIRTY's numbered sentences, the living opening its first seventy
+FORMS = (('+ with −', r'\+ (?:and|or) −|− (?:and|or) \+'),
+         ('one of two', r'\bone of two\b'),
+         ('two directions', r'\btwo (?:changing )?directions\b'),
+         ("a parity's other", r"other parit(?:y|ies)|parit(?:y|ies) and its other|parity to its other|parity's other"),
+         ('a parity with odd or even', r'\b(?:odd|even)\b[^.;:]{0,40}\bparit|\bparit(?:y|ies)\b[^.;:]{0,25}\b(?:odd|even)\b'))
+# read by hand, each numbered sentence with + with − or with two directions
+OWN_TWO = {28, 29, 100, 102, 161, 162, 262, 714}                     # a parity by two of its own
+TOGETHER = {484, 717, 719, 722, 723, 726, 745, 752, 753}            # + and − of two parities, together or alike
+OTHER_TWO = {251, 391, 398, 540, 624, 651}                          # two of an other thing than a parity
+
+def two_reading():
+    plain = lambda t: re.sub(r'\*\*|\*', '', t)
+    newest = lambda pat: max(glob.glob(os.path.join(R, pat)), key=lambda f: int(re.search(r'_v(\d+)', f).group(1)))
+    thirty = open(newest('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v*.md'), encoding='utf-8').read()
+    steps = {int(m.group(1)): m.group(2) for m in re.finditer(r'^(\d+)\. (.*)$', thirty, re.M)}
+    assert sorted(steps) == list(range(1, len(steps) + 1)), 'numbered sentences 1 to N'
+    ni = open(newest('Natural_Intelligence_v*.md'), encoding='utf-8').read()
+    op = re.search(r'^# Natural Intelligence\n\n\*\*[^\n]*\*\*\n\n(.*?)\n\n\*\*ONE · ', ni, re.S | re.M).group(1)
+    sent = [l.rstrip(' \\') for l in op.split('\n') if l.strip()]
+    same = all(plain(steps[i]) == plain(t) for i, t in enumerate(sent, 1))
+    found = {n: [k for k, pat in FORMS if re.search(pat, plain(t), re.I)] for n, t in steps.items()}
+    found = {n: ks for n, ks in found.items() if ks}
+    named = collections.defaultdict(set)
+    for n, t in steps.items():
+        for m in re.finditer(r'\bsteps? (\d+(?:(?:, | and |, and )\d+)*)', plain(t), re.I):
+            for d in re.findall(r'\d+', m.group(1)): named[int(d)].add(n)
+    by = {k: sorted(n for n, ks in found.items() if k in ks) for k, _ in FORMS}
+    assert set(by['+ with −']) == (OWN_TWO | TOGETHER) & set(by['+ with −']) and set(by['+ with −']) <= OWN_TWO | TOGETHER
+    assert set(by['two directions']) <= OWN_TWO | OTHER_TWO and set(by['one of two']) <= OTHER_TWO
+    assert OWN_TWO | TOGETHER | OTHER_TWO <= set(found), 'each sentence read by hand has a form'
+    rows = [['Its number', 'Each form of two in it', 'Each numbered sentence naming it by its number', 'The sentence']]
+    rows += [[str(n), '; '.join(found[n]), ' '.join(str(m) for m in sorted(named[n])), steps[n]] for n in sorted(found)]
+    if len(sys.argv) > 3 and sys.argv[3] == 'csv':
+        import csv; csv.writer(sys.stdout, lineterminator='\n').writerows(rows); return
+    if len(sys.argv) > 4 and sys.argv[3] == 'table':
+        import csv, io
+        out = io.StringIO(); csv.writer(out, lineterminator='\n').writerows(rows)
+        theirs = open(sys.argv[4], encoding='utf-8').read()
+        print('lines of the table:', theirs.count('\n'), ' of this executing:', out.getvalue().count('\n'), ' each letter the same:', theirs == out.getvalue())
+        sys.exit(0 if theirs == out.getvalue() else 1)
+    print('Exhibit THIRTY:', len(steps), 'numbered sentences; its first', len(sent), 'the living opening\'s, word for word:', same)
+    print('1. numbered sentences with a form of two:', len(found))
+    for k, _ in FORMS: print(f'   {k}: {len(by[k])} {by[k]}')
+    sign = sorted(n for n, t in steps.items() if re.search(r'(?<!\w)\+(?!\w)|−(?![\d\w])|±', plain(t)))
+    print('   with a + or a − at all:', len(sign), ' of the first', len(sent), ':', [n for n in sign if n <= len(sent)])
+    print('2. read by hand')
+    print('   a parity by two of its own, + and − or two directions:', len(OWN_TWO), sorted(OWN_TWO))
+    print('   + and − of two parities, together or alike:', len(TOGETHER), sorted(TOGETHER))
+    print('   two of an other thing than a parity:', len(OTHER_TWO), sorted(OTHER_TWO))
+    print('   a parity\'s other:', len(by["a parity's other"]), ' a number\'s, a name\'s or a moment\'s odd or even with a parity in its sentence:', len(by['a parity with odd or even']))
+    print('3. each of the', len(OWN_TWO), 'with each numbered sentence naming it by its number')
+    for n in sorted(OWN_TWO | {27}):
+        print(f'   {n}  named by {sorted(named[n]) or "none"}  ::  {plain(steps[n])[:150]}')
+    # 4. Exhibit ONE's code, executed: two sharings of one self, and each + a − and each − a +
+    one = open(newest('Exhibit_ONE_Natural_Resolver_v*.md'), encoding='utf-8').read()
+    ns = {}; exec(compile(re.search(r'```python\n(.*?)\n```', one, re.S).group(1), 'exhibit_one', 'exec'), ns)
+    f = ns['_1_now_existing']
+    vals = (1, -1, None); recs = [[]] + [[a] for a in (1, -1)] + [[a, b] for a in (1, -1) for b in (1, -1)]
+    apart = turned = two = cases = 0
+    for px in vals:
+        for rx in recs:
+            alone = f([('x', px)] if px else [], [('x', v) for v in rx])
+            for py in vals:
+                for ry in recs:
+                    cases += 1
+                    both = f(([('x', px)] if px else []) + ([('y', py)] if py else []), [('x', v) for v in rx] + [('y', v) for v in ry])
+                    pick = lambda res, k: ([v for kk, v in res[0] if kk == k], [v for kk, v in res[1] if kk == k])
+                    apart += pick(both, 'x') == pick(alone, 'x')
+                    inv = f(([('x', -px)] if px else []) + ([('y', -py)] if py else []), [('x', -v) for v in rx] + [('y', -v) for v in ry])
+                    turned += ([(k, -v) for k, v in both[0]], [(k, -v) for k, v in both[1]]) == (inv[0], inv[1])
+                    two += all(v in (1, -1, 0) for _, v in both[0]) and all(v in (1, -1) for _, v in both[1])
+    print('4. Exhibit ONE\'s code executed, one self with two sharings, each prior a +, a − or none, and none, one or two arriving with each:', cases, 'cases')
+    print('   a sharing\'s next the same with the other sharing in it and with it alone:', apart == cases)
+    print('   with each + a − and each − a +, each next the same with each + a − and each − a +:', turned == cases)
+    print('   each going out a +, a − or a 0, and each next prior a + or a −:', two == cases)
+
+if WORD == 'two':
+    two_reading(); sys.exit(0)
 PLAIN = ('no other things', 'each with each other', 'the other one of two', 'the one and then the other',
          'facing each other')
 
