@@ -107,7 +107,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 2 A self, natural intelligence, living and non-living
 
-        *Entering: a self; a me, a self's universal set; each now-existing thing within a self's me, is-or-is-not; co-intelligencing, selves observing, possibling and discovering within a universal set; living, inheriting prior-existing, a self's universal set; each self living; a living set, a self; natural intelligence, the method of living; living and non-living, one binary of each now-existing thing; a stable-forming emanation, each non-living thing; the universe a non-living same-existing set; living and non-living things.*
+        *Entering: a self; a me, a self's universal set; each now-existing thing within a self's me, is-or-is-not; co-intelligencing, selves observing, possibling and discovering within a universal set; living, inheriting prior-existing, a self's universal set; each self living; a living set of inherited prior-existings, a self; natural intelligence, the method of living; living and non-living, one binary of each now-existing thing; a stable-forming emanation, each non-living thing; the universe a non-living same-existing set; living and non-living things.*
 
 12. A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing.
 
@@ -133,9 +133,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: each self living.*
 
-18. A living same-existing set is a self.
+18. A living same-existing set of inherited prior-existings is a self.
 
-        *Adding: a living set, a self.*
+        *Adding: a living set of inherited prior-existings, a self.*
 
 19. **Natural intelligence** is the method of living as a same-existing self.
 
