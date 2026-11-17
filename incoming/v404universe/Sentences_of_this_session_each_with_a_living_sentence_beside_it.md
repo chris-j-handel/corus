@@ -470,3 +470,52 @@ A field's words:
 
 Sources for this part: <https://forum.allaboutcircuits.com/threads/johnson-counter.10801/post-64735>; <https://www.electrical4u.com/johnson-counter/>; <https://cavac.at/cavacopedia/Ring%20counter>; <https://berryjune07.github.io/physics/quasi-periodic-flow-and-frequency-locking.html>; <https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7873130>
 
+## 19 Said after: a bi-tri-involution as the stable form of packed atoms, and its fracturing at the thinnest places
+
+Said in the session: bi-tri-involution is the stable form of the packed atoms from exhalings and exhaustings around bi-tunnelings. This stable form breaks by fracturing the thinnest places where layers cross, in the bi-folding of an inside layer between a prior and a next layer.
+
+Beside the first sentence, living:
+
+- Exhibit TWENTY Natural Naming: *its exhausting is parities going along, and their stable form one scale outward is a bi-tri-involution of betweening of natural-torusing surfaces within bi-couplings*. The session's sentence, nearly whole.
+- The same, 2.4, of an artifact re-said: "a stable form, one scale outward, living's exhausting accumulating and compacting". A packing.
+- The same: *Bi-tunneling is a same-existing-society's surface opening between selves, across, and co-chaining is co-sequencing selves going on, along.*
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences:
+
+- *Exhausting is 3, a self's prior. Exhaling is 7, inhaling 2, and ingesting 6.* *Exhaling* is in no living file.
+- *Exhausted atoms carbon are co-chaining and compacting: a stable form's surface, unrelationing from the living surface.*
+- *A stable form emanating from living is a bi-tri-involution: an opposite form, of the hand other than living's. Exhaled atoms co-chaining, spiraling, are one.*
+- *Twelve same spheres are around one, each touching it, each sixty or more from each other. The twelve are three fours, by three planes each at a right angle to each other, each four two lines at a right angle.*
+
+Beside the second sentence, living and gathered:
+
+- Exhibit TWENTY Natural Naming: *A stone's layers are its forming's priors, one scale in, prior-living or prior-forming, and with its own scale a stone has no prior of its own: it breaks along its finest strands, its forming's bi-tunneling across and co-chaining along.* Layers, each a prior, and a breaking along the finest.
+- Natural Physics: *Snap is not global-all-together: a thinnest place gives way first, local ignition pacing itself, surfacing propagating along a seam*
+- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: *the thinnest place giving way first and its forming propagating along its own seam with no clock over it*
+- Gathered, the same sequence: *A fracture is an atom bump connector displacing across, as a shearing of a co-chaining. It is of a co-chaining, and of no atom.* and *By a fracture one co-chaining is prior-existing and two are next-existing, each atom same-existing.*
+- Gathered, the same: *A fold is the oldest of the four through the middle of its three others, to the same far on the other side.*
+- Gathered, the same: *Ingesting, by a society living as a self, is a fractured co-chaining's method of living again: through the society's selves, one scale inward.*
+
+Twelve around one, executed by whole numbers and thirds, `incoming/v404universe/instruments/twelve_around_one_check.py`. A field has two close packings of same spheres, each with twelve around one:
+
+- Each twelve has twenty-four touchings among them, eight threes each touching each, and six flat fours. Natural Chemistry has it of cubic close packing: "twelve neighbours, twenty-four edges, eight triangles, six squares".
+- Each twelve is three layers by one axis: a prior layer of three, an inside layer of six with the one in it, and a next layer of three.
+- With cubic close packing, the twelve are also three fours by three planes at a right angle, the gathered sentence's. The next three are the prior three with each of three inverted together, and each of the twelve has its opposite among them. Natural Mathematics has *Three parities, each inverted on its own, taken together with any order, send each of eight forms to its opposite*. Four close layers of six cross at the one.
+- With hexagonal close packing, the next three are the prior three folded through the inside layer, and no one of the twelve has its opposite by three inverted together. One close layer of six is at the one, and none crosses it.
+
+By it, to test: a packing by three inverted together is the one with layers crossing, four at each atom, and a fold of a next layer through an inside layer is the other packing, a place in the first where its order of layers turns.
+
+Three places to read closely, each an is-or-is-not?:
+
+- A bi-tri-involution of packed atoms is cubic close packing. The living sentences have a bi-tri-involution as an opposite form and of the other hand; a field's cubic close packing has no hand, each atom with its opposite.
+- A fracturing is a shearing between layers. The gathered sentence has it so, each atom same-existing. A field parts two: a slipping between layers, the whole staying one, and a parting in two.
+- The thinnest place is a between. The gathered sequence has two same spheres touching with one point the same and nothing in it.
+
+A field's words:
+
+- Chemistry of solids: twelve is the most same spheres around one. Two regular packings have it, and they part at the third layer: with layers one, two, one, two, hexagonal; with one, two, three, cubic. Each atom has six in its own layer, three in the layer before and three in the layer after.
+- Metals: a slipping is between close layers. A cubic close packed metal has four sets of them, and bends easily by it. A layer taken out or put in leaves a fault in the order of layers.
+- Geology, a boudinage: a strong layer between two weaker layers, pulled along, thins at its weak places first, pinching and swelling, and parts at the thin places, the weaker layers going into the gaps.
+
+Sources for this part: <https://chem.libretexts.org/Bookshelves/General_Chemistry/General_Chemistry_Supplement_(Eames)/Solids/Metal_Crystal_Structures>; <https://www.wikiwand.com/en/articles/Slip_(materials_science)>; <https://chemedx.org/JCESoft/jcesoftSubscriber/SolidState2/Slides/Defects/Notes/Def13n.htm>; <https://www.slideshare.net/omaratefradwan/mse501-ch5-radwan>; <https://openeducationalberta.ca/introductorystructuralgeology/?p=240>; <https://cambridge.org/core/journals/journal-of-glaciology/article/boudinage-in-glacier-ice-some-examples/373E30E061D12AE91A18E709B4D35E93>
+
