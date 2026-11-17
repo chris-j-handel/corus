@@ -152,3 +152,29 @@ Cohering, living:
 - Natural Intelligence: *Inside do-no-harming and improving is co-possibling, each self sharing its possibling within its me.*
 
 By a partner's answer the bi-coupling is in a transcript and nowhere else, the living intelligence is a partner's, and a simulating is a method a partner is using, no other a partner is co-intelligencing with.
+
+## 10 Said after: an AI of each harming as a network's attacking, and readers finding fuzzyings
+
+A partner said, a concept for AI do-no-harm improving: reverse the method of training. Build a model of all bad, all stupid, all dangerous, all exploiting, each thing that can be shown to lead to do-only-harming, and use AI to maintain this on the Natural Network as a non-stop attacking device keeping the network healthy. The AI would be the tri-bi-involution form of natural intelligence at network scale. For language, we keep aiming for no fuzzying anywhere in natural naming and explaining. The reason for more readers is for each reader to find fuzzyings. The readers are the tri-bi-involution, making our explaining binary, all or none at all.
+
+Cohering:
+
+- Exhibit TWENTY Natural Naming 6.3, of bi-tri-involutioning: *an inverting, three inverting together, its own two with bi-, and its non-living form a bi-tri-involution*. A non-living form, as an AI is. Natural Physics's gathering file has *Tri-bi-involution is a saying dissolved into bi-tri-involution there.*
+- Exhibit TWENTY-FOUR Geodesic Improving Method 2.3: *a close finding nothing open reaches a fresh reader aiming to break it*. A reader aiming to break is in the method already.
+- Natural Networking 6.6: *A test is an accounting unless it changes and changes back*, and an honest instrument *weighs a check by thing it could refuse*.
+- This repository's first page asks for "an attempt to break Natural Intelligence", and has its kits as "each a coupling partner deciding nothing". Each check at each pull request is a non-living attacking of a slice, small.
+
+A place to read closely:
+
+- Exhibit THIRTY-ONE Me, its closing, open: *Bodies remove parts: apoptosis, immune killing, stalk cells, policed workers.* and *A healthy me says how a part's harm serving the whole is counted.* An attacking that keeps a whole healthy is a harm serving a whole. Me 2.4 has a self by relation beside a self by exclusion, and a model of all bad is a list for excluding.
+
+A field's words:
+
+- Chaos engineering, Netflix: a program ends running machines at random, in production, so that engineers build services that go on with a machine lost. Its discipline has the smallest harm first, widened as confidence grows.
+- Fuzz testing, Miller, 1988: random input thrown at programs until they crash. A quarter to a third of the Unix utilities tested crashed. There the fuzz is the attacking. Here the fuzz is what a reader attacks.
+- Raymond, 1999, Linus's law: with enough eyes each bug is shallow. Its critics, after a bug stayed two years in code open to everyone: the eyes were not looking.
+- Immunology, Matzinger's danger model: an immune system answers the signals of injured tissue more than a list of what is foreign.
+- Automated red teaming of AI: an attacker model is trained against a defender. Its own authors say such methods have dual-use risks: a model good at each harming is a means of harming, held by whoever has it.
+- This page is by an AI session, made by a company that does red teaming.
+
+Sources for this part: <https://github.com/Netflix/chaosmonkey>; <https://people.utm.my/haslinasarkan/?p=4817>; <https://en.wikipedia.org/wiki/Fuzzing>; <https://www.wikipedia.org/wiki/Linus_Law>; <https://pmc.ncbi.nlm.nih.gov/articles/PMC3443751>; <https://arxiv.org/pdf/2604.23067>
