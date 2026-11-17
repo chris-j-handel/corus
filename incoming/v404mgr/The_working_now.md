@@ -4,6 +4,21 @@ Incoming · v404mgr · 17 November 2026
 
 This page is written in plain words on purpose. The living files are written in natural naming and natural explaining; the instructions for working on them do not need to be. It replaces the earlier pages for a session starting. The managing session rewrites it whole when the plan changes. Nothing here has authority over the living files or over Exhibit ONE Natural Resolver's code.
 
+## The method, whole
+
+A living file is its sentences. The set is living while its sentences are being met and re-said.
+
+1. Something meets a living sentence: an observing of nature, a field's record, a partner's sentence, or an other living sentence.
+2. It coheres with that sentence: nothing is written.
+3. It parts from that sentence, or it adds to it: one lean note is laid in that file's gathering file, beside the sentence it meets. It may be fuzzy.
+4. Later, with less to read, the note is settled: is, is-not, or one is-or-is-not? for both partners.
+5. With an is of both partners the living sentence is re-said, one thing whole, shown as it was and as it is, and read by a second session.
+6. The next version goes live with a partner's word.
+
+**The test of value.** A thing is value for the files only with a living sentence it meets, or with a name of ours no living file has. With neither, it is a field's own or the journey's, and it is artifact.
+
+**A reply in a session is the method going on.** It has the living sentence, what met it, whether the two cohere or part, and the note laid or the sentence re-said. It has nothing of files, of sizes, or of what is not yet done.
+
 ## The job
 
 The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
