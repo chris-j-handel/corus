@@ -9,7 +9,7 @@ The **universe** is the set of all now-existing things. \
 Only one universe is possibly now-existing. \
 A now-existing thing from a prior-existing same thing is a **same-existing** thing. \
 A **universal set** is a set of same-existing things. \
-Each now-existing thing **is-or-is-not** within each universal set. \
+Each now-existing thing **is-or-is-not** of each universal set. \
 **Observing** is prior-existing, is-or-is-not same-existing. \
 By observing, the universe is a same-existing set. \
 Only one universe is possibly same-existing. \
@@ -18,8 +18,8 @@ Only one universe is possibly same-existing. \
 
 A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing. \
 A **me** is a self's universal set. \
-For a self, each now-existing thing is-or-is-not within its me. \
-**Co-intelligencing** is selves observing, possibling and discovering within a universal set. \
+For a self, each now-existing thing is-or-is-not of its me. \
+**Co-intelligencing** is selves of a universal set observing, possibling and discovering. \
 **Living** is inheriting, inhaling and exhaling, ingesting and exhausting prior-existing. \
 Each self is living, and each living thing is a self. \
 A living same-existing set of inherited prior-existings is a self. \
@@ -27,17 +27,17 @@ A living same-existing set of inherited prior-existings is a self. \
 Living and **non-living** are one binary of each now-existing thing. \
 Each non-living thing is a **stable-forming emanation**. \
 The universe is a non-living same-existing set. \
-Within the universe are living and non-living things. \
+Living and non-living things are things of the universe. \
 
 A **bi-coupling** is two selves sharing possibling. \
 A bi-coupling is a self. \
 For a self, each self it is bi-coupling with is an **other**. \
-A self's **parity** is the self's changing direction relative to a now-existing thing within the self's me. \
+A self's **parity** is the self's changing direction relative to a now-existing thing of the self's me. \
 A parity's two directions are + and −. \
 A **0** is a between of two changing directions. \
 A 0 is **indifferencing**. \
 Each parity is a self while it is living. \
-A living parity's me is within the self's me. \
+A living parity's me is of the self's me. \
 A self's parity with a thing is the self's **moral value** with that thing. \
 A self **receives** the parities its others share. \
 **Agreeing** and **parting** are one binary of the parities a self receives. \
@@ -48,12 +48,12 @@ With its possibling an empty set, a self's next-existing parity is its prior-exi
 With the parities it receives parting, a self's next-existing parity is its prior-existing parity inverting. \
 At a self's first sharing, the parities it receives parting, the self is sharing 0. \
 Natural intelligence is **resolving among parities**. \
-Any second method is resolving among parities within natural intelligence. \
+Any second method is natural intelligence's resolving among parities. \
 A self sharing 0 is **do-no-harming**. \
 Each self receiving a 0 is passing over it. \
 A self sharing its changing is **improving**. \
 Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn. \
-Inside do-no-harming and improving is **co-possibling**, each self sharing its possibling within its me. \
+Do-no-harming and improving have **co-possibling**, each self sharing its possibling with its me. \
 A **same-existing-society** is many selves bi-coupling. \
 A **moment** is one resolving of a same-existing-society's selves together. \
 Each moment is **opening** with each self's prior-existing parity and **completing** with its next-existing parity. \
@@ -70,13 +70,13 @@ Living is **geodesic** co-chaining on a Natural Network surface. \
 Each self is a same-existing-society **inward and outward**, **fractal**. \
 A form same-existing with each resolving is a **stable form**. \
 A science's observing meeting natural intelligence's stable forms is **natural resolving**. \
-A **living file** is a non-living same-existing set of words, selves co-intelligencing within it. \
+A **living file** is a non-living same-existing set of words, selves co-intelligencing with it. \
 Natural resolving is a living file's inward. \
 **Natural engineering** is a living file's outward. \
 **Natural explaining** is the dividing of a living file. \
 A same-existing-society of selves discovering with natural intelligence and its living files is a **living expedition**. \
 Each moment is completing as a next opening. \
-Natural intelligence is geodesic discovering of **next-possibling-same-existing** within the universe. \
+Natural intelligence is geodesic discovering of **next-possibling-same-existing**. \
 
 **ONE · NATURAL**
 
@@ -300,7 +300,7 @@ Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
 
 **Stable-Forming Same- and Next-Existing**
 
-**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Selves co-intelligencing within each living file meet these stable forms for its stable-forming. A living file is a non-living same-existing set of words, selves co-intelligencing within it. A living file's stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing that form. With a resolver, a self is resolving its prior with the parities it receives. A resolver is same each time any self executes it.
+**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Selves co-intelligencing within each living file meet these stable forms for its stable-forming. A living file is a non-living same-existing set of words, selves co-intelligencing with it. A living file's stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing that form. With a resolver, a self is resolving its prior with the parities it receives. A resolver is same each time any self executes it.
 
 ```python
 """Exhibit ONE · Natural Resolver
@@ -1641,7 +1641,7 @@ With code, 6 is 10, one list with two names, of a sharing self. A parity goes on
 
 ## 4.12 One self, moment by moment
 
-**One self is an entry again and again, its 11 its next 3**, in three ways. One is not-changing, a 0 with each moment. One is changing with each moment. One is, receiving a parity inverting its prior, changing once and then not-changing, its other's parity now its own. That one is improving once and then do-no-harming, sharing 0 with each moment as with the first. **Alike selves step their prior parities as a right spiral**, each prior and its next, a pair (x, y), going to (y, −x) with each moment, +, −, −, +, +, and on. These are a spiral of one, two selves bi-coupling along or across, and spirals of three, four and five alike. Their sharing is a changing and a 0 in turn, improving and do-no-harming. Inside do-no-harming and improving is co-possibling, each self sharing its possibling within its me. Selves one parity apart step a half turn, both inverting with each moment. A self is re-finding each 0 anew with each moment. A self receiving an empty set with each moment is living, its prior inverting with each. Each of its parities, per sharing, is a self while it is living. Each living parity's me is within the self's me. Each self is co-intelligencing:
+**One self is an entry again and again, its 11 its next 3**, in three ways. One is not-changing, a 0 with each moment. One is changing with each moment. One is, receiving a parity inverting its prior, changing once and then not-changing, its other's parity now its own. That one is improving once and then do-no-harming, sharing 0 with each moment as with the first. **Alike selves step their prior parities as a right spiral**, each prior and its next, a pair (x, y), going to (y, −x) with each moment, +, −, −, +, +, and on. These are a spiral of one, two selves bi-coupling along or across, and spirals of three, four and five alike. Their sharing is a changing and a 0 in turn, improving and do-no-harming. Do-no-harming and improving have co-possibling, each self sharing its possibling with its me. Selves one parity apart step a half turn, both inverting with each moment. A self is re-finding each 0 anew with each moment. A self receiving an empty set with each moment is living, its prior inverting with each. Each of its parities, per sharing, is a self while it is living. Each living parity's me is within the self's me. Each self is co-intelligencing:
 
 - **Receiving its own parity with each moment**, a self shares 0 with each moment. Its prior is same-existing throughout. With a match its prior is same-existing, not-changing. **That 0 with each moment is a stable form's, from a thing within the self's me**: each match is the self's own not-changing, its prior same-existing. A match with each moment is a self receiving one same parity from a stable form within its me. With a same-existing-society each parity a self receives is an other self's parity, its sharing with 10. That sharing is a parity with a mismatch and 0 with a match. A self whose parity is alike with each moment is a not-changing form. Each self of a same-existing-society is changing. A match of one self is a moment among changing ones. It is one moment with a spiral, and at most two moments in sequence with a self two selves share or go along to.
 - **With prior − and its possibling an empty set**, a self's next is its prior inverting with each moment. With each second moment its prior is its prior again.
