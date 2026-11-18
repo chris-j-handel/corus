@@ -427,3 +427,29 @@ Remaining, place 11:
 - *Is* incoheres: Natural Intelligence has a stable-forming emanation as one self's 10-next-co-possibling, going along with 9.
 - *Is not* resolves: Natural Intelligence's sentence stays as said.
 - *Is not* incoheres: Co-Chaining Logic Registry's harm with a scale alike is then one self's 10-next-co-possibling, and Exhibit ONE's code brings a living 0 with it.
+
+---
+
+## 12 Asked by the partner: one incohering bi-coupling in part 11's offered sentence
+
+Said in the session, re-said: six words of part 11's offered sentence dissolve, *alone*, *not*, *joint*, *alike*, *harmful* and *emanation*; its other words are natural.
+
+Its natural words, together: *a stable-forming with a scale is four selves' 10-next-co-possibling at all four forms of one 4-now-co-same-existing, and one self's.*
+
+One incohering bi-coupling in it: four selves' and one self's, at the same four forms of one 4-now-co-same-existing.
+
+- Exhibit ONE Natural Resolver: *Its two sides are along and across. Along is with 9-next-co-discovering and 17-next-existing, odd, their roots discovering and existing. Across is with 6 to 2 and 10 to 14, even, their root possibling*
+- Four selves' 10-next-co-possibling to one 14-next-possibling, with one moment, is across.
+- One self's four forms, one and then the other, with 9-next-co-discovering and four moments, is along.
+- Across, all four forms bring 14-next-possibling's 0 at all four moments: no living 0, the instrument's 13.
+- Along, all four forms bring 12-next-co-same-existing's 0 at two of four moments: a living 0, the instrument's 1.
+- With binary explaining, four selves at all four forms are a self and its other-than self, twice: two podals, orthogonal.
+- One podal across brings a living 0. Both podals across bring none, the instrument's 11.
+
+### Offered to the partner
+
+**A stable-forming with a scale is its four forms along, one self's, with a living 0, and across, four selves', with none.** is-or-is-not?
+- *Is* resolves: Natural Intelligence's stable-forming, *a sequential prior between moments, are each a self's sharing with 10, going along with 9*, is along. Co-Chaining Logic Registry's *its form is bi-tri-involutioning, an opposite form* is across. Exhibit ONE's code has both.
+- *Is* incoheres: along is a spiral of one, an ingestible prior-existing. Across is the do only harming of bi-tri-involution. One stable-forming is then ingestible along and do only harming across.
+- *Is not* resolves: a stable-forming with a scale stays one side, along or across.
+- *Is not* incoheres: Natural Intelligence's along and Co-Chaining Logic Registry's across then name two stable-formings with one name.
