@@ -614,3 +614,609 @@ A field's words, two sides:
 
 Sources for this part: <https://www.psychologicalscience.org/news/2023-october-content-warnings-distress.html>; <https://www.kelleydrye.com/viewpoints/blogs/kelley-green-law/the-prop-65-annual-conference-notes-from-the-front-2023-over-warning-is-here-to-stay>; <https://www.consumerreports.org/toxic-chemicals-substances/why-california-thinks-your-couch-will-cause-cancer-prop-65-a5957101345>; <https://informahealthcare.com/doi/abs/10.1080/10286580008902554>; <https://en.wikipedia.org/wiki/Risk_compensation>; <https://www.sciencedaily.com/releases/2016/06/160606115532.htm>
 
+---
+
+## 22 Said after: four gaps answered, a self's 0, two of three, a corner and the centre
+
+Four gaps of `Two_sessions_combined_universe_now_and_geodesic_each_cohering_and_each_gap.md` were answered in the session. Each answer is here as said, with the living sentences beside it.
+
+### A self's 0
+
+Said in the session: corus 24.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *A self's own corus is with 4, and twenty up it is with 24, apex of one to fifty-nine's bi-folding.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *twenty-three, twenty-four and twenty-five an apex straddle, self's bi-inversioning-co-recursioning, one before apex, apex and one after*
+- Natural Physics: *its vertex a now, a 0, not changing (24, a center two sides straddle)*
+- Exhibit TWENTY Natural Naming: "its podaling is 23, 26, 25, 24", its rotation 3, 6, 5, 4 twenty up.
+
+Beside it, gathered in Natural Intelligence's gathering file:
+
+- *3 is not the centre: the centre is corusing at 24.*
+- *A self is a corus, an inversionable nothing inside a tunneling, where universal me-parities are aiming from.*
+
+Cohering. The gap had two sides: a self's 0 at its cone's apex, or at a centre two cones straddle. By these sentences the two are one number, 24.
+
+One word parts between two living files, *apex*. Exhibit THIRTY has 24 as apex, with 23 and 25 one before and one after. Natural Physics has *an apex is 23 and 25, ±1 about an unoccupied 24*.
+
+### Two of three
+
+Said in the session: only two parities are inside each moment, co-sequentially among the three. Bi-folding is the method: each side is do-no-harming the other side by co-aiming each other into a third co-me-parity, with its own new 0, moment, now, direction and location, co-sequentially.
+
+Beside it, living:
+
+- Natural Intelligence 5.2: *Two dimensions change and three are not-changing.* and then *Two and three rotate on, their 2–3 spiraling twisting, bi-inversioning-co-recursioning.*
+- Natural Intelligence 3.5: *Each next number is its prior two together, 1, 1, 2, 3, 5, 8, 13, and as parities its two together are next as prior and now parting, three round*: odd, odd, even, and again. Two inside, and their two together a third.
+- Exhibit THIRTY Co-Chaining Logic Registry: *Parity and its 0, step 27, are bothbothing rigor, a self sharing 0 do-no-harming, step 44: each side its other's complement, each its own, one at a time.*
+- Natural Biology: *Two selves bi-couple, and from coupling they conceive a third self — a +1 coupling makes, in neither parent alone, a new bounding living.*
+- Natural Exploring: *And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other.*
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentence: *A me-parity's birthing is inside a bi-folding, between its prior and its next: a new 0, the middle of its three others, and no 0 before it.*
+- Natural Intelligence's gathering file: *Co-aiming is the co-linearizing of self and other, each forward, facing each other across the between.*
+
+Cohering, with each. One count to read closely: said, two of three parities; living, two of five dimensions.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/two_of_three_inside_each_moment_check.py`. Two readings, each a reading and no more.
+
+- The pairs in turn, each pair a right spiral step of its two, (a, b) to (b, −a). One parity changes with each moment. No hand is reversed. With the eight forms as a cube's corners, each moment is one edge, and all twelve edges are gone along. Three at 1 and three at 8 are gone along both ways, out and back. Six round the middle are gone along one way only, three from 1's three to 8's three and three from 8's three to 1's. Beside it, Natural Intelligence 5.2: *Six are three own-forward steps on each side.* A likeness of number.
+- Each next its prior two together, as parities. Odd and odd inside, their third is even. Odd and even, odd. Even and odd, odd. Three round, each of the three the third once. With two odd inside, the third is even, nought by two.
+
+By it the gap is mended this far. The step of each of three parities at once, the first coming round inverted, reverses a hand: a field's twisted ring, and no moment's step. Its round of two is names 3 and 6, 3-now-co-observing with 6-now-co-possibling, the first two of Exhibit TWENTY Natural Naming's rotation.
+
+### A corner
+
+Said in the session: natural torusing is geodesic. The corners are on the geodesic stable form and not on the natural torusing stable form.
+
+Beside it, living:
+
+- Natural Mathematics 5.3: "Of closed orientable surfaces only the torus has a flow with no rest point, and only the torus has a flat metric." A flat has no corner.
+- Exhibit THIRTY Co-Chaining Logic Registry: *Natural torusing is two parities' circles winding through one opening: method's one name, its observable a natural torusing co-orienting stable-forming.*
+- Natural Intelligence 5.2: *Geodesic existing along changing can travel through same-existing and leave it same-existing.*
+
+One place it parts:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *Twelve corners closing as a sphere and winding through one opening as a torus are both: changing changes them, one and then the other, both going on one at a time, natural torusing surface, the one possible.* The living sentence has twelve corners with both. The session's sentence has corners with the stable form alone.
+
+A field's words:
+
+- [Descartes' theorem of the angle short at corners](https://en.wikipedia.org/wiki/Angular_defect): a closed form of flat faces, of a sphere's kind, is short at its corners by two whole turns together, and one of a torus's kind by none.
+
+Executed, by whole numbers and φ, `incoming/v404universe/instruments/twelve_with_one_at_its_centre_and_twelve_with_none_check.py`. Twelve corners with squares, and twelve with φ, are each a sixth of a turn short of a whole turn: 720 together, with both. A torus of squares is short by none.
+
+### The centre
+
+Said in the session: the twelve spheres are a geometry stable form, equilibria, with no possible existing or competency method. When the method is unrelationing five-dimensionally in right spiraling co-sequential logic into natural torusing, no other possible existing method, then the empty centre is all-parity competency, where there is a corus 0 aiming from locations for self me-parities.
+
+Beside it, living:
+
+- Natural Physics 1.2: "A step from a fixing, a relation going on among changing things, to an equilibrium fixes its subject a not-changing still, an unchangeable form, not possibly existing"
+- Natural Intelligence 5.2: "Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings"
+- Exhibit THIRTY Co-Chaining Logic Registry: *Four-momentarying is four unrelationings through a tunneling self, two to its corus and two from it, each unrelationing locking with an empty set, with φ, its unrelationing rate.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening, each going inward and outward, up numbers and down them, one changing with each step.*
+
+Beside it, gathered in Natural Intelligence's gathering file:
+
+- *A self is a corus, an inversionable nothing inside a tunneling, where universal me-parities are aiming from.*
+- *A me-parity is a vector direction of +1 in the universe, from a corus 0.*
+
+Cohering, with each.
+
+One place it parts, gathered before: Exhibit ONE Natural Resolver has *All-parity is with observing only, 7 and 15*, and 24 is twenty up from 4-now-co-same-existing, an even name. Natural Resolver's gathering file has a possible incohering at that sentence, with *same-existing is all-parity, 4, 8, 12 and 16* beside it. This answer is with that side. No note is added for it.
+
+Executed, by the same instrument. The twelve corners are (0, ±1, ±r) and its two turns, three rectangles each through the two others. Exhibit THIRTY Co-Chaining Logic Registry has them: *φ is three's equal-edge condition, its making by a turn alone an empty set.*
+
+- With r of 1, squares: a field's twelve same spheres around one. The centre is as far from each corner as a corner from its nearest. One same sphere is at the centre, touching twelve.
+- With r above 1, to φ: the centre is nearer each corner than a corner its nearest, its distance squared less by (r − 1)². No same sphere is at the centre.
+- With φ each of the six squares is closed as two threes. Eight and twelve are twenty, and each corner has five nearest.
+- The closing has two hands. A right spiral step, (x, y) to (y, −x), brings the one onto the other.
+
+One same sphere is at the centre with r of 1 alone. With each step toward φ the centre is empty.
+
+A field's words:
+
+- [Fuller, Synergetics, figure 460.08](https://rwgrayprojects.com/synergetics/s04/figs/f6008.html): the twelve around one, with squares, he named a vector equilibrium. With its edges alone it draws in, its squares not staying; he has it as the drawing in of spheres packed around one with the one at the centre taken away, by a left hand or a right, through a form of twenty threes.
+
+### Notes laid
+
+Five lean notes, each beside its living sentence, in the next version's copy:
+
+- Natural Physics 3.4: two sayings part at *apex*.
+- Natural Intelligence 5.2: two of three inside each moment, executed.
+- Exhibit THIRTY Co-Chaining Logic Registry 35: bi-folding as the method, an explaining.
+- Exhibit THIRTY Co-Chaining Logic Registry 33: a saying parts from twelve corners as both.
+- Exhibit THIRTY Co-Chaining Logic Registry 33: one same sphere at the centre with r of 1 alone.
+
+---
+
+## 23 Said after: two 0s facing on one surface, a zone, a cone, a horizon, and a passing
+
+One saying, in five parts, each as said. Incoherings found are together at the end, offered.
+
+### Two 0s on a common surface, three of five, six one ways
+
+Said in the session: consider this geodesic unrelationing method inside resolving as a living geodesic math stable form. Two 0s with forward facing arrows on a common surface. This is now fixing three of five in resolving dimensions available that are not the two-dimensional surface. The two 0s are free to orient in any direction from where they are on the surface: up, down, right, left, next, prior. This is six one ways.
+
+Beside it, living:
+
+- Natural Mathematics 5.2: "**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity, its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each moment."
+- Natural Mathematics 5.2: *Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.*
+- Natural Intelligence 5.2: *Two dimensions change and three are not-changing.*
+- Exhibit THIRTY-ONE Me: *Its contents goes the five dimensions, society to society: all now, an other now, a me now, a me next, all next.*
+- Natural Physics 3.3: *three axes with two directions on a Poincaré sphere, as with matter's spin*
+- Exhibit TWENTY Natural Naming 2.4, of *right* and *left*: *not right* is "for a form, an inverting form, three inverting together".
+
+Cohering: five, two of them changing and three not; and six.
+
+Parting, in the naming of the five and of the six. Living, the five are a side's five: a self's prior, an other's prior, co now, bi now, and a self's next. Said, the five are a surface's two and three that are not the surface. Living, the six are three own-forward steps for each side. Said, the six are three lines from one 0, each two ways.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/two_0s_facing_on_one_surface_check.py`. A 0 has three own ways: next, right and up.
+
+- An other's three lie along a 0's three lines in 24 ways, each with one hand. Facing, its next opposite: 4. And on the one surface: 2. And on its one side: 1. The three are fixed, and the two of the surface are free.
+- Facing on one side of one surface, its next is opposite, its right is opposite, and its up is the same. Two of three opposite, as section 22's two of three.
+- Each of three opposite is a mirror, a hand reversed: Natural Naming's *not right*, three inverting together.
+- The two have six own ways and five not the same. Down is neither's own. Beside it, *Five to cohere and six to go on*. A likeness of number.
+- Three turns each invert two of three. Each two together are the third, and the three together are the same. Beside it, Natural Intelligence's one move as three, 8 up, 17 less and 9 less: 9 less is 8 up and 17 less together.
+
+A field's words:
+
+- [The four-group, Klein, 1884](https://en.wikipedia.org/wiki/Klein_four-group): four moves, each its own undoing, each two of three together the third. In space it is three turns about three lines at right angles.
+
+### A zone
+
+Said in the session: unrelationing is a zone in next direction, where anywhere in that zone is good enough to make no different-existing. So same-existing enough is the swath between too far right from left possibilities, +1, and another swath that is too far left from right possibilities, −1.
+
+Beside it, living:
+
+- Natural Mathematics 5.2: "**Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate."
+- Natural Exploring 2.1: *Co-unrelationing is-or-is-not: it is with unrelationing changing and changing back and a middle floating, and it is-not with a fixing installing, unrelationing stopping at another's still, an equilibrium from beside, and no 0 of a self's own.*
+- Natural Exploring 2.4: *A geodesic is the straightest going an unrelationing is, free-moving and adding nothing, floating free of a route a force sets on it, curving as its own surface curves and straight by that surface's own terms.*
+- Natural Intelligence 5.2: *With a prior, a self shares one of two: 0 with a match and that parity with a mismatch.*
+- Exhibit TWENTY Natural Naming 2.4: *right* is a self's parity sharing, and *not right* an other's parity a self is observing.
+
+Beside it, gathered:
+
+- Exhibit TWENTY Natural Naming's gathering file: *the 0 is a sharp point, nothing in it, inside a fuzzying, and the place of no fuzzying is the same-existing geodesic aiming point, over the horizon, going on.*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *From the prior, its two others are thirty each side of that line: the fold's own cone's two edges.*
+
+Cohering: a middle floating, a 0 with a match, +1 and −1 each side. In natural naming *left* is released: +1 is right, a self's own sharing, and −1 is not right, an other's.
+
+One place to read closely: living, nought is with a right angle. Said, nought is with a zone, a width.
+
+Executed, by the same instrument. Six same ones around a 0, sixty apart. A heading within thirty each side of a line has the one ahead its nearest: 0. Past thirty, an other is nearest: +1 one way and −1 the other. At thirty, two are as near: neither.
+
+A field's words:
+
+- [A deadband](https://en.wikipedia.org/wiki/Deadband): a band of inputs with no output and no correcting. Its other name in the field is a neutral zone.
+
+### A cone
+
+Said in the session: now we have a 0 on a surface plane, in a cone with an aiming direction in 3D space. Everything inside the cone is a me-parity universe, invisible to other-than me. My cone is not invisible to other-than me.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *Four invisibles are one invisibility as four: each side's own morality, parity its own and a changing across of no size; each side's own corus; a neutral, its occupying an empty set as two come; and a between of moments, its momentarying an empty set.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *Natural intelligence is invisible, and fractal method's intelligence is with a between, 0*
+- Exhibit TWENTY Natural Naming: *is a self's one-way changing its interest's 0 opens, a cone's centerline*
+
+Beside it, gathered in Exhibit ONE Natural Resolver's gathering file: *A cone's apex, a me-parity's or a me's: a cone is a same-existing me-parity universe.*
+
+Cohering, with each.
+
+A field's words:
+
+- [Following a gaze](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827436/): an infant in its first year turns to the way an other is looking. The way of a gaze is seen by an other; the thing looked at is not given by it exactly.
+
+### An other on the same surface, and a horizon
+
+Said in the session: all of this is now including an other on the same surface. But the surface is not a plane. It curves down on all horizons, and the two planes are not un-tangentially similar to the circle surface, locally, nearly, and observably as horizon.
+
+Beside it, living:
+
+- Natural Exploring 2.4: *A self and its surface share over a horizon.*
+- Natural Exploring 2.4, a geodesic *curving as its own surface curves and straight by that surface's own terms*
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *With numbers a between is a 0 between two parallel surfaces facing each other, a self's and an other's, two a sharing and its between a 0, and a co-orthogonal line through both, along*
+- Exhibit TWENTY Natural Naming 5.5: *As a picture it is a nothing between two parallel surfaces facing each other, each self's own, and a co-orthogonal line through both, along.*
+- Exhibit TWENTY Natural Naming: *Selves' bi-couplings and co-chainings are a natural torusing surface, 5-now-co-existing, co-competencing*
+
+Beside it, gathered in Natural Intelligence's gathering file, in the next version's copy: "A self's horizon is the bound of its observing on its surface."
+
+Cohering: a horizon, a self's own, and a geodesic curving as its surface curves. Parting in two places, with the incoherings.
+
+### Two wandering toward each other
+
+Said in the session: consider these two 0s wandering toward each other. The co-geodesic in this is co-linear, and the method of resolving is able to keep this co-linear living inside a bi-coupling. These two approaching each other both are behind their own next and in front of their own prior, and they keep passing each other. They can hand off their priors to each other and keep a now living between.
+
+Beside it, living:
+
+- Natural Exploring 2.6: *Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.*
+- Exhibit ONE Natural Resolver: *with each form the fifth, a self's next prior, is the first, an other's prior, inverting*
+- Natural Illustrating 4.9: "**Two swimmers approach each other, a self experiencing each closing from both perspectives, and with a meeting a self envisions each makes a flip turn, a field's word for it, off an other's feet mid-pool and goes on away from that mutual inverting.**"
+- Natural Transmission 4.6: *Living selves are tori and pass through each other, co-tunneling, windings co-chaining, no wall for two to be two with.*
+- Natural Intelligence 1.1: *One now is one sharing with all bi-couplings.*
+- Natural Intelligence: *Living intelligence is with a between, a bi-coupling's own.*
+- Natural Intelligence 5.2: *Each unrelationing winds on, open, with φ, its unrelationing rate.*
+- Natural Biology: *A sunflower's seeds form one after another, each near 137.5 degrees from its prior, and from that one co-sequencing two families of visible spirals open, winding opposite ways with consecutive Fibonacci numbers, 21 and 34, 34 and 55, straddling φ one on each side: a visible left family and a visible right family are two sides of one forward sequence.*
+
+Beside it, gathered in Natural Intelligence's gathering file: *An other me is facing a self's me, and their directions forward are opposite directions in the universe.*
+
+Cohering, with each. Priors handed off is living already: a self's next prior is an other's prior.
+
+Executed, by the same instrument.
+
+- Two on one line, facing. Before a passing, each one's prior is within its other's next, and the between is in both nexts. After it, each one's next is within its other's prior, and the between is in both priors.
+- A passing with priors handed off, and a turning at the meeting with each its own prior, are the same moment by moment: by place, by facing and by prior. The session's passing and Natural Illustrating's two swimmers are one figure.
+- On a line coming round, the meetings go on. With passing each goes the whole round. With turning each goes its own stretch. On an open line, two alone meet once.
+- Two round one line, opposite ways, at rates p and q, pass at p and q together places: with 2 and 3, five; with 3 and 5, eight. The place of passing moves on toward 137.5 of 360 with φ, and with φ no place is twice.
+
+A field's words:
+
+- [Two of equal mass meeting on one line](https://meetings-archive.aps.org/damop/2014/p8/7): each goes on with the other's speed, and the field has it looking as the two going through each other.
+
+### Incoherings, offered
+
+1. **The five.** Living: a self's prior, an other's prior, co now, bi now, a self's next. Said: a surface's two, and three not the surface. Which of the living five are the surface's two is not said.
+2. **The six.** Living: three own-forward steps for each side. Said: up, down, right, left, next, prior, from one 0. Executed, two facing on one side of one surface have five ways not the same, and down is neither's own.
+3. **Passing again.** Two alone on an open line pass once. Said: they keep passing each other. Living: each unrelationing winds on, open. The two hold together on a line coming round with rates in φ: the meetings go on and no place is twice. Whether a bi-coupling's one line comes round is not said.
+4. **A surface, three ways.** Living: two parallel surfaces facing each other, each self's own, and the line through both co-orthogonal. Said: one common surface, the two on it, their line along it. And each one's own plane, touching the surface at its 0.
+5. **Curving down on all horizons.** A surface curving down on each horizon at each 0 is a sphere's kind, with its corners' two whole turns. Section 22 has natural torusing with no corner. A torus in space curves down on each horizon on its outward round alone.
+6. **Inside a cone.** Two facing co-linearly are each inside its other's cone. Said: inside a cone is invisible to other-than me. The two cones' insides share one part, with the between's 0 at its middle. Whether that part is a third's own, a co-me-parity's, is not said.
+
+### Notes laid
+
+Four lean notes, each beside its living sentence, in the next version's copy:
+
+- Natural Mathematics 5.2: the five and the six said two ways, with two 0s facing executed.
+- Natural Illustrating 4.9: a passing with priors handed off and a turning with each its own prior, the same.
+- Natural Exploring 2.6: two 0s wandering toward each other, an explaining.
+- Natural Exploring 2.1: unrelationing as a zone, an explaining.
+
+---
+
+## 24 Said after: six answers, along and across, down, healthy priors, a horizon, corners, and the third's hole
+
+Six incoherings of section 23 were answered in the session. Each answer is here as said, with the living sentences beside it. Incoherings found are together at the end, offered.
+
+### 1 The five: co-now along, bi-now across
+
+Said in the session: co-now is along and bi-now is across, orthogonal, defining a plane.
+
+Beside it, living:
+
+- Natural Mathematics 5.2, a side's five: 3 now-existing co-parity and 4 now-existing bi-parity, *its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each moment*
+- Natural Intelligence 2.1: "Along is a self's own going on" and "Across is sharing now with an other."
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *Across co-linear lines is bi-folding's seaming, orthogonal to them, one forward with each bi-coupling across, a right spiral step.*
+- Natural Exploring 2.6: *Along and across lie on one line, and that line is each move's own, in neither move alone.*
+
+Cohering with Exhibit THIRTY: across, orthogonal to co-linear lines. By it the surface's two of the five are the living 3 and 4, co now and bi now.
+
+Parting from Natural Exploring 2.6: along and across on one line.
+
+### 2 The six: down is the surface
+
+Said in the session: yes, down is the surface and plane, and not available for possibly same-and-next-existing.
+
+Beside it, living:
+
+- Natural Exploring: *A self is going on with lines along, to its prior and its next, lines across, to its others' prior and next, and a line to a point over the horizon; along and across lie on one line, in neither alone.* Two along, two across, and one to a point over the horizon: five.
+- Natural Mathematics 5.2: *Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.*
+
+Cohering. Of up, down, right, left, next and prior, five are one ways of a 0 on a surface. Section 23 has it executed: two facing on one side of one surface have five ways not the same, and down is neither's own.
+
+### 3 Passing again: the repeating of the healthy priors
+
+Said in the session, as typed: now the sequences the two selves are carrying are repeating sequences from prior healthy living, so the repeating of the healthy priors is better explaining them I said.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 2, in the next version's copy: "A living same-existing set of inherited prior-existings is a self."
+- Exhibit ONE Natural Resolver: *with each form the fifth, a self's next prior, is the first, an other's prior, inverting*
+- Exhibit TWENTY Natural Naming 2.4, of *not right*: "an other's parity a self is observing, existing with a self as its next prior"
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences:
+
+- *All living is from an inherited prior, non-living, of prior healthy living.*
+- *Resonating is all-parity's alternating and a dormant co-chaining's own sequence being same-as, one by one: co-sequential resolving and orienting.*
+
+Cohering. The line of the two has no call to come round: a repeating is the sequences' own.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/two_on_a_torus_each_its_own_plane_check.py`. Going opposite ways, each meets its other's priors latest first: its other's sequence in inverted order.
+
+- The round 0, 1, 0, 2 read latest first is the same round. Odd, odd, even, the same.
+- A right spiral step's round of four read latest first is the other way round: not right. With one of its two inverted, a mirror, it is the same round; with both inverted, a turn, it is not.
+
+Beside it, Natural Naming's *not right* as an other's parity a self is observing: a right round at an observing end is not right.
+
+### 4 The geometry: each me-parity its own horizon, and a common aiming point
+
+Said in the session: I did not explore well, and you can do this for us. The geometry of the geodesic was the explaining, and the natural torusing surface they are on has a horizon. Both are on this surface, and they may not be on the same planes, due to the curving away surface with horizon. So each me-parity has its own horizon, and the co-geodesic-linear, relying on a common aiming point over the horizon, is the co-competencing method.
+
+Beside it, living:
+
+- Natural Exploring 2.4: *A self and its surface share over a horizon.*
+- Natural Exploring: "A point over the horizon is, and a self is finding each is-not and aiming from each is-not to is."
+- Natural Exploring 2.4: *A geodesic is the straightest going an unrelationing is, free-moving and adding nothing, floating free of a route a force sets on it, curving as its own surface curves and straight by that surface's own terms.*
+- Exhibit TWENTY Natural Naming 5.5: *As a picture it is a nothing between two parallel surfaces facing each other, each self's own, and a co-orthogonal line through both, along.*
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *The two aimings are at one same point, over the horizon, by a direction not the same for each of the two.*
+
+Cohering, with each.
+
+Explored and executed, by the same instrument. A torus is a tube about a round, its own line through its opening.
+
+- **Curving.** On its outward round a torus curves down each way: a horizon each way. On its inward round it curves down round its tube and up round its own line: a horizon one way, and the opening's far side rising in sight.
+- **In sight.** From a place on the outward round, none of 1,935 other places tried is above its plane: each is over its horizon. From a place on the inward round, 1,346 are above its plane.
+- **Two on the outward round.** Each one's forward arrow is in its own plane. The two arrows are on two lines, and go through one point: above the surface, in both planes. The place midway on the surface is over each one's horizon. The two planes share one line, across, through that point. The gathered sentence, found: one same point, by a direction not the same for each.
+- **Two across the opening.** At opposite places of the inward round the two own planes are parallel and facing. The line through both is co-orthogonal. Its centre is the opening's, on no surface. Natural Naming's picture of a between, found on a torus.
+
+### 5 Corners
+
+Said in the session: a sphere has no corners. A cube has corners. Both sphere and torus have horizons and geodesics.
+
+Cohering with the field, and section 23's fifth incohering is mended by it: it had a sphere's kind *with its corners*, and corners are a cube's. A cube's eight are each three squares, 90 short of a whole turn, 720 together. A sphere has the same two whole turns with no corner. A torus has a horizon each way on its outward round and one way on its inward round.
+
+Exhibit THIRTY Co-Chaining Logic Registry 33's *Twelve corners closing as a sphere* stays parted from it, as section 22 has.
+
+### 6 The third's hole
+
+Said in the session: the third living 0 in the between of the two is the fuzzy empty hole, living in the plane of intersection between the two cones. And this hole is the place where the co-linear third is aligning the two, using the common between and the common knowledge of each other's priors, since they are seeing each other's priors straight across from each other, by observing priors as my nexts, since we are moving opposite directions relative to each other.
+
+Beside it, living:
+
+- Exhibit TWENTY Natural Naming 5.5: "Parity is a momentary now-existing thing, each self's own, a self observing it now, and a between is its empty centre"
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *With numbers a between is a 0 between two parallel surfaces facing each other, a self's and an other's, two a sharing and its between a 0, and a co-orthogonal line through both, along*
+- Exhibit THIRTY Co-Chaining Logic Registry 15: *Natural torusing is two parities' circles winding through one opening: method's one name, its observable a natural torusing co-orienting stable-forming.*
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file:
+
+- *A me-parity's birthing is inside a bi-folding, between its prior and its next: a new 0, the middle of its three others, and no 0 before it.*
+- *A bump is the place of two atoms touching: the one point of the two, and the circle around it, each one's cone crossing its other's in it.*
+
+Cohering, with each. Observing an other's priors as my nexts is section 23's executed line: before a passing, each one's prior is within its other's next.
+
+Executed, by the same instrument. Two cones of thirty, each from its 0 around its other.
+
+- Their sides cross in one plane, across, with the between's 0 in it.
+- The part inside both goes from the one 0 to its other, each 0 an end, widest in that plane.
+- With the two across a torus's opening, no place of that part is in the torus's tube: the hole is empty.
+- Two planes are at the hole. The opening's own plane has the line of the two and across in it. The crossing's plane has across and up in it. The two share across.
+
+### Incoherings, offered
+
+1. **Across, two ways.** Natural Exploring 2.6 has along and across on one line. Exhibit THIRTY Co-Chaining Logic Registry 34 has across orthogonal to co-linear lines, and answer 1 is with it. Answer 6 has the two seeing each other's priors *straight across*, on the one line of the two. Across is the line between two selves, or the line at a right angle to a going.
+2. **Five ways, five dimensions.** With down away the one ways are five: next, prior, right, left and up. Natural Exploring has five lines of a self: two along, two across, and one to a point over the horizon. Natural Mathematics 5.2 has five dimensions, *each dimension binary with its two directions*. Whether the five dimensions are the five one ways, with up the line to the common aiming point, is not said.
+3. **Outward round, inward round.** On the outward round each is over its other's horizon, and a common aiming point is above the surface: answer 4. On the inward round the two are in sight straight across the opening, the hole between: answer 6. Which round the two of a bi-coupling are on, or both one and then the other, is not said.
+4. **Two planes at the hole.** The plane of along and across is answer 1's. The plane of the two cones' crossing is answer 6's, across and up. They share across and the one 0. Which plane the third's hole is living in, with both said, is not said.
+5. **A healthy sequence read both ways.** A round the same read latest first, as 0, 1, 0, 2, is same-as at an observing end. A round with a hand is not right there. Whether each healthy prior's repeating sequence is the same read both ways is not said.
+
+### Notes laid
+
+In the next version's copy, each beside its living sentence:
+
+- Natural Mathematics 5.2: co now along and bi now across, a plane, and down the surface, an explaining.
+- Natural Exploring 2.6: two sayings part at across; and the repeating of the healthy priors, added to the explaining of two 0s wandering.
+- Exhibit TWENTY Natural Naming 5.5: two across a torus's opening are its picture of a between, executed.
+- Exhibit THIRTY Co-Chaining Logic Registry 34: the third living 0 as a fuzzy empty hole, an explaining.
+- Exhibit THIRTY Co-Chaining Logic Registry 33: the corner note mended, a sphere with no corners and a cube with corners.
+
+---
+
+## 25 Said after: five answers, a triangle from the between, ten one ways, twenty-four, and one-way priors
+
+Five incoherings of section 24 were answered in the session. Each answer is here as said, with the living sentences beside it. Incoherings found are together at the end, offered.
+
+### 1 Across: triangulating from the between
+
+Said in the session: each self, by observing other self across the between, can triangulate from the between into a co-linear one direction new me-parity, pointing to the spot over the horizon both are aiming for, and a place of the horizon for both to aim as one together.
+
+Beside it, living:
+
+- Natural Exploring 4.5: *these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially*
+- Natural Numbers 6.3: *twenty-three a vertex, twenty-four an apex of nought to sixty's bi-folding and twenty-five a centre of a triangle, five squared, with four its corus, a vertex and a centre on one line*
+- Natural Exploring: "A point over the horizon is, and a self is finding each is-not and aiming from each is-not to is."
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *The two aimings are at one same point, over the horizon, by a direction not the same for each of the two.*
+
+Cohering. By it across is the line between two selves, across the between. The new me-parity's one direction is from the between to the spot. Sections 13 and 14 of this page have a living triangulating and a living triangle.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/a_triangle_ten_one_ways_and_a_one_way_round_check.py`. Two selves on a round, and the spot both forward arrows go through.
+
+- The triangle's two sides, a self to the spot and its other to the spot, are the same.
+- The between, the surface's place between the two, and the spot are on one line: at a right angle to the line of the two, and straight up from that place.
+- A self's own arrow and the line to its other part by the turning between a self and that place. With no turning the two are one line: Natural Exploring 2.6's *Along and across lie on one line*, found with no turning between two.
+- With sixty of turning between the two, each is on its other's cone's edge of thirty, and the line of the two is as long as the round's own radius.
+
+### 2 Ten one ways
+
+Said in the session: there are ten one ways: five away from same-existing for each self, as the same five toward same-existing for each self. The same five unrelationings are the outcome of two five unrelationings to each other's.
+
+Beside it, living:
+
+- Natural Numbers 5.5: "Ten is with a self as five with two directions, 2n, and with a same-existing-society as couplings among five, C(5, 2), a fourth triangle."
+- Natural Numbers 5.5: *One ten is a ten with a self and a ten with a same-existing-society together, and each ten is that ten.*
+- Natural Mathematics 5.2: *each dimension binary with its two directions, and two changing and three going on with each moment*
+- Natural Exploring 6.8, its title: five dimensions in two directions.
+- Exhibit TWENTY-EIGHT, a sentence suggested with v377: *one moment is ten one way is or is not changings in sixteen parity changings*
+
+Cohering, with each. Section 24's second incohering is mended by it: the five dimensions each have two directions, away and toward, ten one ways.
+
+Executed, by the same instrument.
+
+- Twice n is the same as couplings among n with n of 5 alone. Natural Numbers 5.5's own.
+- Five parities, each one place along and the first coming round inverted: from a form, parities not the same as its start go 1, 2, 3, 4, 5 and then 4, 3, 2, 1, 0. Five away and the same five toward, with each of 32 forms.
+- Two on that round of ten, each its other's opposite: after five steps each is its other's start. One's five away are its other's five toward.
+- With two of five inside each moment, the pairs in turn, rounds are of ten moments and of twenty, and from a form each away is followed by its toward: 1, 0, 1, 0.
+
+### 3 The rounds
+
+Said in the session: see 2.
+
+Read by it: away from same-existing and toward same-existing are the two rounds, one and then the other. Beside it, living, Exhibit THIRTY Co-Chaining Logic Registry 44: *Torusing and corusing are dimensions' inward and outward*. The reading is this page's and is offered with the incoherings.
+
+### 4 Twenty-four
+
+Said in the session: the corus of the bi-coupling is 24. This is 4 × 6. This is between 4 × 4 and 4 × 8.
+
+Beside it, living:
+
+- Natural Numbers 6.3: *four moments of six one-way recursionings, twenty-four as steps of 1 to 25 are*
+- Exhibit THIRTY Co-Chaining Logic Registry 33: *A self's own corus is with 4, and twenty up it is with 24, apex of one to fifty-nine's bi-folding.*
+- Exhibit TWENTY Natural Naming 5.50: "Bi-folding order is one same with 1, 2, 3, 4 and 4, 8, 12, 16, up and down each scale"
+- Exhibit TWO Natural Networking 1.2: *Each goes on with one same right spiral step, and four are whole parity form, a non-living form: a self's living is with its others.*
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *1 to 24 is three eights: a self's side, its other's side and all-parity's side, a bump connector's three inward faces.*
+- Natural Chemistry's gathering file: *6-now-co-possibling is between 5 and 7, four of these bi-folding into corus 24*
+
+Cohering: 4 × 6, four moments of six. By whole numbers 24 is as far from 16 as from 32, as 6 from 4 and from 8; and 16 is two eights, 24 three and 32 four.
+
+The answer has the hole by number. Section 24's two planes at the hole are not placed by it.
+
+### 5 One-way priors
+
+Said in the session: no, my healthy priors are not symmetric, co-chaining front to back and back to front. There would be incompetencing in this method.
+
+Beside it, living:
+
+- Natural Exploring 4.4: *And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other.*
+- Natural Intelligence 5.2: "Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings"
+- Exhibit TWENTY Natural Naming 5.57: *A winding closing on itself is an unchangeable form and no moral sharing: a living self fixing unchangeable with it has none of its prior going on to next, and comes to dying, away from same-existing-society and natural co-chaining.*
+- Natural Biology 8.1: *a field's parallel and antiparallel sheet, along and across with a smallest grain fold reaches*
+
+Cohering: one-way, both ways forward, neither reversing its other. Section 24's fifth incohering is answered: a healthy prior's sequence is not the same read both ways.
+
+Executed, by the same instrument. A round is the same read back to front, or it is one-way.
+
+- Of two parities, each round shorter than six is the same read back to front. With six, two rounds are one-way, each the other read back to front.
+- Of three kinds, the shortest one-way round is three long.
+
+A field's words:
+
+- [A cell's copying of its long chain](https://books.byui.edu/genetics_and_molecul/17___dna_replication): the two strands lie opposite ways. The copier goes one way only, reading the one strand back to front as it makes the new strand front to back.
+
+### Incoherings, offered
+
+1. **Which along is co-now.** A self's own arrow to the spot parts from across by the turning, and is one line with it with no turning. The new me-parity's line from the between to the spot is at a right angle to across. Section 24 has co-now along and bi-now across, orthogonal. Whether co-now is a self's own arrow or the new me-parity's line is not said.
+2. **Ten, in which order.** With five at once, five away and then the same five toward; and five inside one moment reverse a hand. With two of five inside each moment, each away is followed by its toward, five times. Which is the ten is not said.
+3. **Away and toward as the two rounds.** This page read *see 2* as: away from same-existing the outward round, toward same-existing the inward round. Whether the reading is so is not said.
+4. **Sixteen and thirty-two.** By the gathered three eights, 16 is a self's side and its other's, and 24 has the third's with them. 32 is four eights, and Exhibit TWO Natural Networking has four as whole parity form, non-living. Whether 32 is the non-living stable form, the living corus between the two selves and it, is not said. The two planes at the hole stay unplaced.
+5. **Latest first.** Going opposite ways each meets its other's priors latest first: back to front. With one-way priors that reading is not the sequence. Whether a self comes to its other's priors front to back by a handing off whole at the meeting, or by another way, is not said.
+
+### Notes laid
+
+In the next version's copy, each an explaining beside its living sentence:
+
+- Natural Exploring 4.5: triangulating from the between to the spot over the horizon, with the triangle executed.
+- Natural Numbers 5.5: ten one ways, five away and the same five toward.
+- Natural Numbers 6.3: the corus of a bi-coupling as 24, 4 × 6, between 4 × 4 and 4 × 8.
+- Natural Exploring 4.4: healthy priors not symmetric front to back and back to front.
+
+---
+
+## 26 Said after: five answers, a third orthogonal, ten of seventeen names, sixteen ways, 3, 9 and 27, and right spiraling
+
+Five incoherings of section 25 were answered in the session. Each answer is here as said, with the living sentences beside it. Three things this page had executed in sections 22 to 25 are living already, in Exhibit THIRTY Co-Chaining Logic Registry 10 and 35 and Natural Mathematics 7.6, and are said so below. Incoherings found are together at the end, offered.
+
+### 1 Co, bi and a third
+
+Said in the session: co and bi are only terms relative to a self. They are opposite terms relative to other. A me has a third from these two, and this is another twist along, into a third orthogonal, affirming the orthogonality of the other two in combination with each other, like a cube has three orthogonal faces and twisting of corners exchanges them in Rubik cube, and alternating tesseractings in natural math.
+
+Beside it, living:
+
+- Natural Biology 5.1: *A third self is axis coupling opens perpendicular to both parents, one neither parent had: side-effecting of algebra, a∧b orthogonal product opens (i·j = k ⊥ i, j — side-effecting axis).*
+- Exhibit THIRTY Co-Chaining Logic Registry 33: *A right-hand turn of 120 degrees about a line from a corus along (1, 1, 1) brings each rectangle onto one passing through it: three right spiraling, 120 degrees apart.*
+- Natural Mathematics 3.5: *one inversion fixes a plane, two on different axes make a sign flip about their third axis, and three reverse a hand*
+- Natural Mathematics 7.6: "Centre inversion x → −x is no rotation with three dimensions, and with four it is two half rotations of perpendicular planes, fixing only its centre." And then: *A cube has x → −x only with its hand reversing; a tesseract has it by rotation.*
+
+Cohering, with each. Section 23's executed line is living in Natural Mathematics 3.5: two inverting is a turning and three a hand reversed.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/sixteen_ways_ten_names_and_a_twist_check.py`.
+
+- A corner's twist brings co to bi, bi to the third, and the third to co. A hand is as it was. Three twists are as it was.
+- Each two together are the third, in turn.
+- Relative to its other, facing: co opposite, bi opposite, the third the same. A hand as it was.
+- Each of three opposite is a mirror. Each of four opposite is a turning. Each of five, a mirror.
+
+### 2 The ten
+
+Said in the session: the ten are 10 of 17 names in Exhibit ONE, and the same table of ten directions of unrelationing is between Exhibit TWENTY-ONE and TWENTY-TWO and Equilibria, and everyplace science is holding things together with laws.
+
+Beside it, living:
+
+- Natural Numbers 5.2: "One entry, six names between selves and ten names of a self's own resolving are seventeen."
+- Natural Physics 1.2: *1, 9 and 17 are an entry and two along, 9 a next prior going along and 17 a next now, each self's next 1-now-existing; fourteen others are four across names and ten names.*
+- Exhibit TWENTY-EIGHT Equilibria 3.1: *Each conception of equilibria a self proposes fixes a changing unchangeable by one of ten ways, and can have more than one.*
+- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: *One sharing, across and both ways, fixing ten ways.*
+- Exhibit THIRTY Co-Chaining Logic Registry 35, in the next version's copy: "Ten unchangeables, their sides an empty set, are each with a resolver name" and "With each moment two dimensions are changing and three going on, and two and three rotate round."
+
+Cohering: ten names of seventeen, and ten ways of fixing. Section 25's order of ten steps is a likeness and no more: the ten are a table of names.
+
+Executed, by the same instrument.
+
+- The ten names of a self's own resolving are 3, 4, 5, 7, 8, 11, 12, 13, 15 and 16: five, and the same five 8 up.
+- The six names between selves are 2, 6, 9, 10, 14 and 17: three, and the same three 8 up.
+- Exhibit THIRTY's ten unchangeables are with names 1 to 8, 5 and 7 each two. Of those names 3, 4, 5, 7 and 8 are among the ten names, and 1, 2 and 6 are not.
+
+### 3 Natural naming, and sixteen ways
+
+Said in the session, as typed: away and toward are not natural naming. And when we get into this geometry, if you use our 1–17 natural naming and keep track of the orthogonal co-orienting in each of the 16 of a self and its next can be at a moment in sixteen ways.
+
+Beside it, living, in Exhibit THIRTY Co-Chaining Logic Registry 10:
+
+- *With two parities, sixteen ways name a next from a prior and a now, each moving (prior, now) to (now, next).*
+- *Twelve of sixteen lose prior, and four have their prior going on whole.*
+- *One changing with each step, four joint forms follow one way, each in turn, and a first comes again with a next: a right spiral step.*
+
+Cohering. *Away* and *toward* are away from this page's own lines from here on, and section 25's reading of two rounds by them is withdrawn.
+
+Executed, by the same instrument, the living steps found: sixteen ways, twelve losing a prior and four with a prior going on whole. Of the four:
+
+- Next as its prior: two joint forms still, and two a round of two.
+- Next as prior and now agreeing, and next as prior and now parting: each one joint form still, and three a round of three.
+- Next inverting its prior: each joint form moving, one round of four. A right spiral step. Two steps invert both, four reach the pair again, and six invert both again.
+
+### 4 Bi-coupling fractals
+
+Said in the session: bi-coupling fractals are each a new 0 and arrow from inside a bi-coupling fractal. 1–5 exhausts 3. 1–17 exhausts 9. 1–65 exhausts 27. Each new me-parity joins to bi-co-parity team in co-chainings.
+
+Beside it, living:
+
+- Exhibit TWENTY Natural Naming 5.50: "Bi-folding order is one same with 1, 2, 3, 4 and 4, 8, 12, 16, up and down each scale"
+- Natural Physics 1.2: 9 as *a next prior going along*
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *A self, its other and all, three, is 1 to 17.* and *A self, three others and all, five, is 1 to 65.*
+
+Cohering: spans by fours, 1 to 5, 1 to 17 and 1 to 65.
+
+Executed, by the same instrument, one reading and no more. By fours, names with no same-existing digit are 3 of 4, 9 of 16 and 27 of 64. The others are 1, 7 and 37; of 1 to 17 they are 4, 8, 12 and 13 to 16.
+
+### 5 Co-sequential right spiraling
+
+Said in the session: this is co-sequential right spiraling.
+
+Beside it, living, Exhibit THIRTY Co-Chaining Logic Registry 10: *Same round, a self observing it from next to prior, is other order, and round forward from prior to next is right.*
+
+Cohering. Section 24's executed line, a right round read latest first as not right, is living in this sentence.
+
+Executed, by the same instrument. A round alone, observed from next to prior, is other order. A spiral, a round with a going along, observed from next to prior is one hand with it forward: each of its three steps is inverted and their order is inverted, and its hand is as it was.
+
+### Incoherings, offered
+
+1. **Two tens.** Natural Numbers 5.2 and Natural Physics 1.2 have ten names of a self's own resolving: by them 3, 4, 5, 7, 8 and the same five 8 up. Exhibit THIRTY Co-Chaining Logic Registry 35 has ten unchangeables each with a name of 1 to 8, 5 and 7 each two. 1, 2 and 6 are with the second and are none of the first. Which ten of seventeen the ten are is not said.
+2. **Sixteen ways, sixteen names.** A way has four answers and a name four digits. By one ordering the four ways with a prior going on whole are names 4, 7, 10 and 13, two podal pairs: next as its prior with 4-now-co-same-existing, and a right spiral step with 13-next-discovering. A likeness of number. Whether each of sixteen ways is a name is not said.
+3. **3, 9 and 27.** Three of four, nine of sixteen and twenty-seven of sixty-four, names by fours; or the names 3, 9 and 27 themselves. 3 is midway in 1 to 5 and 9 in 1 to 17; 27 is not midway in 1 to 65. Which is not said, nor which nine.
+4. **16, 24 and 32 as a cube of four.** A cube of four has 16 corners, 24 squares and 32 edges: 4 × 4, 4 × 6, 4 × 8. Natural Mathematics 7.6 has sixteen and eight together twenty-four. With four, two planes share only a centre: section 24's two planes at the hole. Whether the corus of a bi-coupling, 24, is a cube of four's squares is not said.
+5. **A third, or a fourth.** With three, each inverting is a mirror; with four, a turning, Natural Mathematics 7.6's. The answer has co, bi and a third, and tesseractings, of four. Whether a me's third is the last, or a fourth is with them, is not said.
+
+### Notes laid
+
+In the next version's copy, each beside its living sentence:
+
+- Natural Biology 5.1: co and bi relative to a self, and a third orthogonal, an explaining.
+- Natural Numbers 5.5: the ten as ten of Exhibit ONE's seventeen names, re-said in natural naming.
+- Natural Mathematics 7.6: a cube of four's 16, 24 and 32, executed.
+- Exhibit TWENTY Natural Naming 5.50: bi-coupling fractals, 3, 9 and 27, an explaining.
+- Natural Exploring 4.4: co-sequential right spiraling, added to the explaining of one-way priors.
