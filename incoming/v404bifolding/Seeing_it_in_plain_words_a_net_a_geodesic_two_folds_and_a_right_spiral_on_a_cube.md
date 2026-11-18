@@ -26,7 +26,7 @@ Drawing: `illustrations/a_surface_folded_flat.html`. With its slider, the path's
 
 ## 3 What an ant finds at its place
 
-An ant finds its next step on the face under it. It finds no reaching of its line there: that is the whole surface's, and the net is a map of the whole.
+An ant finds its next step on the face under it. It finds no reaching of its line on that face: its reaching is the whole surface's, and the net is a map of the whole.
 
 The one thing of the whole an ant finds at a place is a corner. Round a cube's corner its three faces make 270°, not the 360° of a flat place. Two ants walking side by side, each straight, passing a corner on its two sides, go on crossing each other at 90°. On the earth, two walking north from the equator side by side meet at the pole. A sphere is curved at each place; a polyhedron is flat at each place but its corners.
 
