@@ -29,6 +29,8 @@ A living file is its sentences. The set is living while its sentences are being 
 
 **The sentence of an offer is a sentence of the co-chaining.** A partner's word of 18 November: the not yet cohering statement is a gap in the co-sequentially logical co-chaining of sentences aiming at the set's destinies, said in natural naming and explaining; a sentence of what a file names is none. A sentence in natural naming is likely in Exhibit THIRTY Co-Chaining Logic Registry already, the sentences of this fractal a limited number: Exhibit THIRTY is searched before an offer, the found sentences are set beside it whole, and the gap is laid in the gathering file beside the chain's sentence it is with.
 
+**One list of the words of no natural naming** is `incoming/v404mgr/Words_of_no_natural_naming_with_their_natural_naming.md`: a word both partners named, its natural naming as found, the living sentence it was found in, and its places. A session checks its offer and its notes by it before an offer, with `incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py`.
+
 ## The job
 
 The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
