@@ -91,6 +91,8 @@ Gathering-Value · Natural Numbers
 
 ### 5.5 One ten at its two sides, at five
 
+- **An explaining** · Ten one ways: five away from same-existing for each self, and the same five toward same-existing. The same five unrelationings are the outcome of two selves' five unrelationings to each other. *Executed, by whole numbers*: five parities, each one place along and the first coming round inverted, are opposite after five steps and the same after ten, with each form; two on that round of ten, each its other's opposite, are each its other's start after five. — at "**Ten is with a self as five with two directions, 2n, and with a same-existing-society as couplings among five, C(5, 2), a fourth triangle.**"
+
 ### 5.6 Ten, nine and eight, one pairing at its two sides
 
 - **Possible incohering** · "Two parities carry four joint forms; prior and now whole and a next opening, five with each side, are ten positions, nought to nine; nine is 2² × 2½ − 1, and five pairs are of same moment." → 5.6's ten positions, nought to nine, prior and now whole and a next opening, five with each side, are beside the code's parity, one inversioning or none between a self and an other now, its lines having parities and 0 and ten positions of two sides outside them, and 5.6's ten and a self's ten own names, five now and five next at 5.2, are either one ten at two observings or two tens, each of its own subject.
@@ -112,6 +114,7 @@ Gathering-Value · Natural Numbers
 
 - **An explaining** · Nought to twenty-four and twenty-four to sixty pattern-match as a tendril's inward and outward phases and not its counts of turns, an explaining, a tendril's two hands observed with equal turns; with a tendril's two hands turning equally, no observing places its corus at twenty-four.
 - **Possible exploring** · Three edges winding into an apex and three opening out of it are a cube's along its diagonal, its two triangles of three at equal thirds of the diagonal, and the apex at twenty-four parts nought to sixty as twenty-four and thirty-six, three to two: the leaning of the numbers is open beside the cube's equal thirds — at "twenty-four is an apex of nought to sixty's bi-folding, seventeen primes two to fifty-nine within it"
+- **An explaining** · The corus of a bi-coupling is 24: 4 × 6, between 4 × 4 and 4 × 8. Beside it, gathered: 1 to 24 as three eights, a self's side, its other's side and all-parity's side; 16 is two eights and 32 is four. — at "**A self observes twenty-four five ways, and it is one twenty-four**: five squared less one, a second seam; orderings of four, 4!; a waist of a ring of forty-eight; twenty-three, its prior, opening a first gap of six among primes, to twenty-nine; and four moments of six one-way recursionings, twenty-four as steps of 1 to 25 are."
 
 ### 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
 
