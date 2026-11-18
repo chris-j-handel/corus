@@ -31,6 +31,8 @@ A living file is its sentences. The set is living while its sentences are being 
 
 **One list of the words of no natural naming** is `incoming/v404mgr/Words_of_no_natural_naming_with_their_natural_naming.md`: a word both partners named, its natural naming as found, the living sentence it was found in, and its places. A session checks its offer and its notes by it before an offer, with `incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py`.
 
+**A session works with a partner's word.** A partner's word of 18 November: no session is started to go on by itself, and no coming is set for one. The managing session brings in the waiting offers and the thread's sayings with a partner's next word to it.
+
 ## The job
 
 The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
