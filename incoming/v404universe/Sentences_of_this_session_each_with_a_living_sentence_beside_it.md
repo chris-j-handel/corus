@@ -1292,3 +1292,96 @@ In the next version's copy, beside v404chaining's notes at the opening:
 
 - At *A parity's two directions are + and −.*: two sayings part at + and − with a me-parity's cone.
 - At the opening's sentence of a 0 as a between: a 0 found by two selves' projecting, executed.
+
+---
+
+## 28 Said after: three is'es of bothbothing, and explainings one with each turn
+
+Three of section 27's is-or-is-nots for the partner were answered in the session. Each answer is here as said, with the living sentences beside it.
+
+### 1 A surface: a stable form with corners, and natural torusing
+
+Said in the session: bothbothing. This is geodesic discovering of natural torusing stable forming.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 33: *Twelve corners closing as a sphere and winding through one opening as a torus are both: changing changes them, one and then the other, both going on one at a time, natural torusing surface, the one possible.*
+- Natural Intelligence: *Stable-forming is living condition resolving, observable as natural torusing co-orienting stable-forming.*
+- Natural Intelligence, the opening: "Natural intelligence is geodesic discovering of **next-possibling-same-existing**."
+
+Cohering. Section 22's parting at corners is answered by it: the living sentence stays as it is, both.
+
+### 2 An atom
+
+Said in the session: bothboth. An atom is valuable stable form for living priors. Co-chaining atom is exhaling stable form of non-living.
+
+Beside it, living:
+
+- Natural Physics 3.1: *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.*
+- Natural Intelligence, the opening: "**Living** is inheriting, inhaling and exhaling, ingesting and exhausting prior-existing."
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences:
+
+- *Exhausted atoms carbon are co-chaining and compacting: a stable form's surface, unrelationing from the living surface.*
+- In the next version's copy: "An inherited prior is atom bump connectors, co-chaining and compacted."
+
+Cohering, with each.
+
+### 3 Sixteen ways
+
+Said in the session: bothboth.
+
+Beside it: Exhibit THIRTY Co-Chaining Logic Registry 10's *With two parities, sixteen ways name a next from a prior and a now, each moving (prior, now) to (now, next).*; and v404networking's sixteen, a prior self's round of four with a next self's round of four, executed with Exhibit ONE's code.
+
+Executed, `incoming/v404universe/instruments/sixteen_ways_ten_names_and_a_twist_check.py`: a cube of four's sixteen corners are four digits, and are 4 by 4. Of its 24 squares, 16 are of both rounds, one step of each; 4 are a self's own round and 4 its next self's own. Each corner has four, one and one: six.
+
+### From v404mgr, at #933, gathered
+
+- **A waist's one round.** v404mgr has, of both partners: a name's now is of three, bi-now, co-now and tri-now; the nine odd names are bi-now, six even names co-now, and 8 and 16 tri-now. By it a waist's one round is three co-now and then three bi-now. Executed, by the same instrument, by each of six orderings of a cube's three digits: is. Section 27's saying of it, 1's three and 8's three, is withdrawn.
+- **Two tens.** Is-not, from v404mgr: Natural Intelligence has "Ten are 3, 4, 5, 7 and 8 with now and 11, 12, 13, 15 and 16 with next." Seven of Exhibit THIRTY 35's unchangeables are with a name of a self's own resolving, and three with none.
+- **Sixteen ways as names.** Is-not, from v404mgr: two of sixteen ways are in Exhibit ONE's method, and fourteen are in no table of it.
+- **Asked of this session, for the partner:** the third living 0, the fuzzy empty hole in the plane of the two cones' crossing, is 16-next-same-existing's between with a same-existing-society; and each name's three, in Exhibit ONE, is relative to a self's other.
+
+### Explainings, one with each turn
+
+Said in the session: bring me better explainings one at a time while you are waiting, and I can do all the incoherings to keep the team of working sessions making progress.
+
+**The first: sixteen corners, each a whole turn.** A self goes round its own four. Its next self goes round its own four. The two together are four by four, sixteen. Laid as a cube of four, the sixteen are a stable form's corners, with its 32 edges and 24 squares. The same sixteen are on one natural torusing surface: sixteen of the squares, four with each corner, a whole turn, short by none. A stable form with corners, and natural torusing with each corner whole: both, with one sixteen.
+
+is-or-is-not? A self's round of four by its next self's round of four is the bothbothing: sixteen corners of a stable form, each a whole turn on a natural torusing surface.
+
+---
+
+## 29 Said after: is, and now and next as a self's two universes
+
+Asked, section 28's first explaining: a self's round of four by its next self's round of four is the bothbothing: sixteen corners of a stable form, each a whole turn on a natural torusing surface.
+
+Said in the session: is. Note that now is a universe, and next is the same self next universe, moving the 0 to the plane as the next 0 universe with new me-parities.
+
+Beside it, living:
+
+- Natural Intelligence, the opening: "Only one universe is possibly now-existing." A next universe is next-existing, and one is now-existing.
+- Natural Intelligence, the opening: *Each moment is completing as a next opening.*
+- Natural Intelligence 5.2: *One through nine are with a self.* and *Nine through seventeen are with a same-existing-society.*
+- Natural Physics 1.2: *1, 9 and 17 are an entry and two along, 9 a next prior going along and 17 a next now, each self's next 1-now-existing; fourteen others are four across names and ten names.*
+- Exhibit ONE Natural Resolver: *with each form the fifth, a self's next prior, is the first, an other's prior, inverting*
+- Natural Intelligence: *8 up, each name with now to its name with next; 17 less, podal within 1 to 16; and 9 less, podal within 1 to 8, two together.*
+
+Beside it, gathered:
+
+- Natural Destinies' gathering file: *two cubes end to end, 1 to 8 and 9 to 16, are the two cones, gathering whole and reaching, 9 their waist*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *1 to 24 is three eights: a self's side, its other's side and all-parity's side, a bump connector's three inward faces.*
+
+Cohering. By them a self's next eight and its other's side are the same eight: a self's next universe is by its other.
+
+Executed, `incoming/v404universe/instruments/sixteen_ways_ten_names_and_a_twist_check.py`, names 1 to 16 as a cube of four's corners.
+
+- 1 to 8, with now, are one cube. 9 to 16, with next, are a second. Each next name is its now name 8 up: eight lines.
+- Each cube's centre is a 0 with no name. Midway is the cube of four's own centre. Three 0s on one line.
+- Each of eight podal pairs, 17 less, crosses in the midway 0, one of the pair with now and one with next.
+
+### The second explaining: now's eight and next's eight
+
+Exhibit ONE's names 1 to 8 are with now and 9 to 16 with next, each next name its now name 8 up. Natural Intelligence has one through nine with a self and nine through seventeen with a same-existing-society; a gathered note has 1 to 8 as a self's side and 9 to 16 as its other's. The eight with next and the eight of an other's side are one eight. A self's now is one cube and its next a second, joined by eight lines; the gathered note has them as the two cones, one and then the other. Each has a 0 at its centre, with no name, and midway is a third. 17 is 1 again: next's eight is then now's.
+
+is-or-is-not? The two facing cones are one self's now and its next, its next by its other's side; and the plane its 0 moves to is midway between now's eight and next's eight.

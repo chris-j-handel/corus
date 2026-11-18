@@ -120,7 +120,51 @@ def main():
     print(f"  16 corners as 4 by 4, a round of four in each of two planes sharing only a centre: {on_torus}")
     print(f"  squares {len(squares)}: {len(mixed)} with one line from each plane, each corner in {at_corner} of them, a whole turn, short by none; and {len(own)}, four in each plane's own lying")
     print(f"  4 × 4, 4 × 6, 4 × 8: corners {4 * 4}, squares {4 * 6}, edges {4 * 8}")
+    a_own = [s for s, p in squares.items() if p == (0, 1)]
+    b_own = [s for s, p in squares.items() if p == (2, 3)]
+    each = sorted({(sum(1 for s in mixed if c in s), sum(1 for s in a_own if c in s), sum(1 for s in b_own if c in s)) for c in C})
+    print(f"  a self's own round: {len(a_own)} squares; its next self's own round: {len(b_own)}; of both rounds, one step of each: {len(mixed)}")
+    print(f"  each corner: of both, a self's own, its next self's own: {each[0]}, together {sum(each[0])}")
+    fails += each != [(4, 1, 1)] or (len(a_own), len(b_own)) != (4, 4)
     fails += (len(squares), len(mixed), len(own), at_corner) != (24, 16, 8, [4]) or not on_torus
+
+    print("\n   names 1 to 16 as its corners: now's eight and next's eight")
+    from fractions import Fraction as Fr
+    corner = lambda n: tuple((n - 1) >> k & 1 for k in (3, 2, 1, 0))
+    with_now = [n for n in range(1, 17) if corner(n)[0] == 0]
+    with_next = [n for n in range(1, 17) if corner(n)[0] == 1]
+    lines = [(a, b) for a, b in combinations(range(1, 17), 2) if sum(x != y for x, y in zip(corner(a), corner(b))) == 1]
+    up8 = [e for e in lines if (e[0] in with_now) != (e[1] in with_now)]
+    mid = lambda names: tuple(Fr(sum(corner(n)[k] for n in names), len(names)) for k in range(4))
+    c_now, c_next, c_all = mid(with_now), mid(with_next), mid(range(1, 17))
+    podal = [(n, 17 - n) for n in range(1, 9)]
+    crossing = all(tuple(Fr(x + y, 2) for x, y in zip(corner(a), corner(b))) == c_all for a, b in podal)
+    print(f"    with now {with_now[0]} to {with_now[-1]}, one cube; with next {with_next[0]} to {with_next[-1]}, a second; each next name its now name 8 up: {all(b == a + 8 for a, b in up8)}, {len(up8)} lines")
+    print(f"    each cube's centre and the midway one: three 0s on one line: {all(c_all[k] == (c_now[k] + c_next[k]) / 2 for k in range(4))}; a name at one of them: {any(tuple(Fr(x) for x in corner(n)) in (c_now, c_next, c_all) for n in range(1, 17))}")
+    print(f"    eight podal pairs, 17 less, each crossing in the midway 0: {crossing}; each one with now and one with next: {all((a in with_now) != (b in with_now) for a, b in podal)}")
+    fails += len(up8) != 8 or not crossing
+
+    print("\n   a cube of three's waist, its one round: a name's now co with each even name, bi with each odd name")
+    pairs3 = [(0, 1), (1, 2), (2, 0)]
+
+    def step3(form, k):
+        i, j = pairs3[k % 3]
+        out = list(form); out[i], out[j] = form[j], -form[i]
+        return tuple(out)
+
+    here, round6 = ((1, 1, -1), 0), []
+    for _ in range(6):
+        round6.append(here[0]); here = (step3(*here), (here[1] + 1) % 3)
+    all_ok = True
+    for order in permutations(range(3)):
+        names = [1 + sum((1 if f[order[i]] < 0 else 0) << (2 - i) for i in range(3)) for f in round6]
+        kinds = "".join("c" if n % 2 == 0 else "b" for n in names)
+        ok = any(kinds[i:] + kinds[:i] == "cccbbb" for i in range(6))
+        all_ok &= ok
+        if order == (0, 1, 2):
+            print(f"    by one ordering: names {names}")
+    print(f"    by each of six orderings of three digits: three co-now, one after an other, and then three bi-now: {all_ok}")
+    fails += not all_ok
 
     print("\n5  by fours: names with no same-existing digit")
     for k in (1, 2, 3):
