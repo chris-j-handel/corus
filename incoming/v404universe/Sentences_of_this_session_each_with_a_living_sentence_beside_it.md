@@ -1892,3 +1892,36 @@ The page's sentence of a zone has each direction of a zone same-existing. By the
 - Its is, incohering: the saying of a zone has it in next direction, and a now not yet a next has no next direction.
 - Its is-not, needed for resolving: a zone as same-me, a next with it the same me, same-existing enough.
 - Its is-not, incohering: same-me's next is then of three, a zone, all-parity and other-than-all-parity, and the saying has two.
+
+## 42 Said after: no zone in natural naming, and a naming and co-chaining living already
+
+Section 41's sentence of is: a zone is same-now-existing.
+
+Said in the session: there is no zone so far in natural naming, so this must be like something we already have naming and co-chaining.
+
+Found, living, the naming and its co-chaining:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *A fractal between's floating neutralling with φ, its locking an empty set, is golden floating neutralling: geodesic discovering of living's next possibling.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *A self has three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, a between; and its own aim, orientation*
+- Natural Physics: *An iron center resolves as a self-stabilizing floating neutral: two phases, ±1 about an un-occupied center, fusion and fission two sides of that one floating neutralling.* and "a narrow bounded region", "a floating neutralling and not a landing point".
+- Natural Physics 3.1: *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.*
+- Natural Exploring 2.1: "it is with unrelationing changing and changing back and a middle floating"
+- Natural Intelligence, the opening: *A 0 is indifferencing.*
+
+Cohering, with each part of the saying of section 23: unrelationing, floating neutralling; in next direction, living's next possibling; +1 and −1 each side, ±1 about a centre no thing occupies; a width and no point, a floating neutralling and not a landing point; an aim, a self's own neutral floating about its corus; and no different-existing, indifferencing.
+
+*Zone* is in five living files, each a field's word, and in no sentence of Exhibit TWENTY Natural Naming, of Exhibit THIRTY or of Natural Intelligence.
+
+The page of this session's value is re-said by it. Each word of this session's own choosing with a naming living already goes with its naming:
+
+- *zone* and *swath*: floating neutralling, a floating neutral, and +1 and −1 each side of it.
+- *fuzzying*, of the third living 0's hole: a floating neutral.
+- *triangulating* and *aligning*: co-linearizing, by *A self's line and an other's, co-linear, their co-linearizing between self and other with bi-couplings across, is co-competencing, bi-co-momentarying.*
+- *arrow*: a self's aim.
+- *in front of*: ahead of. *exhaled*: exhaling. *coruses*: each one's corus.
+
+Fifty sentences, fails 0. Thirty words of it the chain has not, each a partner's name gathered, or a word of a living file other than the chain: among them cone, horizon, hole, atom, me-parity, all-parity, same-me, co-now, bi-now.
+
+Section 41's sentence was of this session's own word, and goes with the word. The page has no sentence of which same a floating neutral is. No incohering of this resolving remains.
+
+A learning, as a sentence: a word natural naming has not is re-said by the naming living already, found before a sentence has the word.

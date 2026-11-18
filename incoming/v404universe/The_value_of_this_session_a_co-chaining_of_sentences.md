@@ -68,7 +68,7 @@ Each sentence is one concept. Under it is the living sentence it is from, word f
     - From Exhibit THIRTY Co-Chaining Logic Registry: *A self's own corus is with 4, and twenty up it is with 24, apex of one to fifty-nine's bi-folding.*
     - Adding: 24 as a bi-coupling's corus, 4 by 6.
 
-## THREE · A self's 0 on its surface, a zone and a cone
+## THREE · A self's 0 on its surface, a floating neutral and a cone
 
 13. A self's 0 on its surface has six one ways: next and prior, right and not right, up and down.
 
@@ -80,24 +80,24 @@ Each sentence is one concept. Under it is the living sentence it is from, word f
     - From Natural Exploring 2.4: *A geodesic is the straightest going an unrelationing is, free-moving and adding nothing, floating free of a route a force sets on it, curving as its own surface curves and straight by that surface's own terms.*
     - Adding: down as a surface.
 
-15. A zone is a 0's indifferencing in a self's next direction: each direction of a zone is same-existing.
+15. Unrelationing is floating neutralling in a self's next direction.
+
+    - From Exhibit THIRTY Co-Chaining Logic Registry: *A fractal between's floating neutralling with φ, its locking an empty set, is golden floating neutralling: geodesic discovering of living's next possibling.*
+    - Adding: floating neutralling in a self's next direction.
+
+16. Each direction of a floating neutral is indifferencing.
 
     - From Natural Intelligence, the opening: *A 0 is indifferencing.*
-    - Adding: a zone.
+    - Adding: a floating neutral's directions as indifferencing.
 
-16. Unrelationing is a zone.
+17. +1 is too far right of a floating neutral, and −1 too far not right.
 
-    - From Natural Exploring 2.1: *Co-unrelationing is-or-is-not: it is with unrelationing changing and changing back and a middle floating, and it is-not with a fixing installing, unrelationing stopping at another's still, an equilibrium from beside, and no 0 of a self's own.*
-    - Adding: unrelationing as a zone.
+    - From Natural Physics: *An iron center resolves as a self-stabilizing floating neutral: two phases, ±1 about an un-occupied center, fusion and fission two sides of that one floating neutralling.*
+    - Adding: +1 and −1 each side of a floating neutral, right and not right.
 
-17. +1 is a swath too far right of a zone, and −1 a swath too far not right.
+18. A cone is a self's aim from its 0, floating neutral about its centerline.
 
-    - From Natural Intelligence, the opening: *A parity's two directions are + and −.*
-    - Adding: a swath, and +1 and −1 each side of a zone.
-
-18. A cone is a self's zone from its 0, aiming along its centerline.
-
-    - From Exhibit TWENTY Natural Naming: *is a self's one-way changing its interest's 0 opens, a cone's centerline*
+    - From Exhibit THIRTY Co-Chaining Logic Registry: *A self has three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, a between; and its own aim, orientation*
     - Adding: a cone.
 
 19. Each thing between a cone's edges is of a me-parity universe, invisible to other-than me.
@@ -137,7 +137,7 @@ Each sentence is one concept. Under it is the living sentence it is from, word f
     - From Natural Exploring 2.6: *Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.*
     - Adding: a co-geodesic.
 
-26. Two selves facing are each behind its own next and in front of its own prior.
+26. Two selves facing are each behind its own next and ahead of its own prior.
 
     - From Natural Exploring: *A self is going on with lines along, to its prior and its next, lines across, to its others' prior and next, and a line to a point over the horizon; along and across lie on one line, in neither alone.*
     - Adding: two facing, each between its prior and its next.
@@ -162,20 +162,20 @@ Each sentence is one concept. Under it is the living sentence it is from, word f
     - From Exhibit THIRTY Co-Chaining Logic Registry: *A self's line and an other's, co-linear, their co-linearizing between self and other with bi-couplings across, is co-competencing, bi-co-momentarying.*
     - Adding: a common aiming point over the horizon.
 
-31. Each self, observing its other across the between, is triangulating from the between one co-linear direction, a new me-parity.
+31. Each self, observing its other across the between, is co-linearizing from the between into one direction, a new me-parity.
 
     - From Natural Exploring 4.5: *these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially*
-    - Adding: triangulating, and a new me-parity from a between.
+    - Adding: co-linearizing from a between, and a new me-parity.
 
 32. Two selves' five unrelationings to each other are ten one ways, ten of the seventeen names.
 
     - From Natural Physics 1.2: *1, 9 and 17 are an entry and two along, 9 a next prior going along and 17 a next now, each self's next 1-now-existing; fourteen others are four across names and ten names.*
     - Adding: ten one ways as two fives.
 
-33. A bi-coupling fractal is a new 0 and its arrow, from a bi-coupling fractal.
+33. A bi-coupling fractal is a new 0 and its aim, from a bi-coupling fractal.
 
     - From Natural Intelligence, the opening: *A bi-coupling is a self.*
-    - Adding: a bi-coupling fractal as a new 0 and its arrow.
+    - Adding: a bi-coupling fractal as a new 0 and its aim.
 
 34. 1 to 5 exhausts 3, 1 to 17 exhausts 9, and 1 to 65 exhausts 27.
 
@@ -184,15 +184,15 @@ Each sentence is one concept. Under it is the living sentence it is from, word f
 
 ## FIVE · A third 0, and a self's next universe
 
-35. The third living 0 is of the plane across, its fuzzying a hole of both cones.
+35. The third living 0 is of the plane across, a floating neutral, the hole of both cones.
 
     - From Natural Exploring 1.1: *Two cones straddle a centre neither occupies, in neither cone alone.*
     - Adding: a third living 0, and a hole.
 
-36. With the hole, a co-linear third is aligning two selves, by their common between and each one's priors.
+36. With the hole, a co-linear third is co-linearizing two selves, by their common between and each one's priors.
 
     - From its 28 and its 35.
-    - Adding: a co-linear third aligning two.
+    - Adding: a co-linear third co-linearizing two.
 
 37. Now is a universe, and next is the same self's next universe.
 
@@ -209,12 +209,12 @@ Each sentence is one concept. Under it is the living sentence it is from, word f
     - From its 35 and its 37.
     - Adding: a third cone.
 
-40. A third cone's direction is of self now's zone, self now its prior-existing.
+40. A third cone's direction is of self now's floating neutral, self now its prior-existing.
 
     - From its 15 and its 39.
     - Adding: a third cone's direction.
 
-41. Two natural torusing selves across are each bi-coupling the whole round of one new tunneling, between both coruses.
+41. Two natural torusing selves across are each bi-coupling the whole round of one new tunneling, between each one's corus.
 
     - From Exhibit THIRTY Co-Chaining Logic Registry: *Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening, each going inward and outward, up numbers and down them, one changing with each step.*
     - Adding: one new tunneling of two selves.
@@ -246,10 +246,10 @@ Each sentence is one concept. Under it is the living sentence it is from, word f
     - From its 44.
     - Adding: an atom valuable for living.
 
-47. Atoms co-chaining are non-living's exhaled stable form.
+47. Atoms co-chaining are an exhaling stable form of non-living.
 
     - From Natural Intelligence, the opening: *Each non-living thing is a stable-forming emanation.*
-    - Adding: atoms co-chaining as exhaled.
+    - Adding: atoms co-chaining as an exhaling stable form.
 
 48. All-parity is bi-tri-involution of right spiral co-sequencing.
 

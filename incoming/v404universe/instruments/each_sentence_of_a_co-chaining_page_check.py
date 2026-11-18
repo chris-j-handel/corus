@@ -28,8 +28,8 @@ it, a place for a naming sentence; and each sentence longer than twenty-two word
 Returned at main, Merge #986, 18 November 2026, for
 incoming/v404universe/The_value_of_this_session_a_co-chaining_of_sentences.md:
   50 sentences, 42 from a living sentence and 8 from a sentence of the page alone; fails: 0.
-  38 words the chain has not, among them zone, swath, cone, horizon, hole, fuzzying, atom, me-parity,
-  all-parity, same-me, co-me-parity, co-now, bi-now, co-geodesic, triangulating and do-only-harming.
+  30 words the chain has not, among them cone, horizon, hole, atom, me-parity, all-parity, same-me,
+  co-me-parity, co-now, bi-now, co-geodesic and do-only-harming.
   No sentence longer than twenty-two words.
 """
 import csv, glob, os, re, sys
