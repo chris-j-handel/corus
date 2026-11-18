@@ -10,6 +10,8 @@ lines of pointing back until they meet; and three 0s on the plane between two fa
   1  each one's line of up, drawn back; each one's forward arrow, drawn on
   2  the between, the surface's place and the spot: three on one line, an inversion
   3  sixty and thirty: sharing and opening
+  4  a cone from a sphere's 0 around a same sphere
+  5  a cubic packing, about the line to one touching
 
 Run:  python3 -I a_0_found_by_projecting_check.py
 """
@@ -66,6 +68,27 @@ def main():
     print("  twelve with φ: cosine of two lines φ by 2 + φ; four of φφ less than 2 + φ by 2 + φ, by 1 + φ: wider than sixty, twelve cones of sixty with none edge to edge")
     six = 6 * 60
     print(f"  six cones of sixty across round one 0 on a plane: {six} of 360, a whole turn: {six == 360}")
+
+    print("\n5  a cubic packing, about the line to one touching: each other out to distance squared 18")
+    packed = [p for p in product(range(-6, 7), repeat=3) if sum(p) % 2 == 0 and p != (0, 0, 0)]
+    line = (1, 1, 0)
+    found = {}
+    for p in packed:
+        n2 = sum(x * x for x in p)
+        along = sum(x * y for x, y in zip(p, line))
+        if n2 > 18 or along <= 0:
+            continue
+        c2 = Fr(along * along, n2 * 2)
+        kind = "on its line" if c2 == 1 else "between its edges" if c2 > Fr(3, 4) else "on an edge" if c2 == Fr(3, 4) else None
+        if kind:
+            found.setdefault(n2, {}).setdefault(kind, 0)
+            found[n2][kind] += 1
+    for n2 in sorted(found):
+        says = ", ".join(f"{v} {k}" for k, v in found[n2].items())
+        print(f"  distance squared {n2}: {says}; each one's own cone, sine squared from its line {Fr(1, 2) / n2}")
+    fails += found != {2: {"on its line": 1}, 6: {"on an edge": 4}, 8: {"on its line": 1}, 10: {"between its edges": 2},
+                       14: {"between its edges": 4}, 18: {"on its line": 1}}
+    print("  the one touching fills the cone; each other apart is beyond it, a narrower cone")
 
     print(f"\nfails: {fails}")
 
