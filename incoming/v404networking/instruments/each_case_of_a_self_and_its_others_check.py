@@ -206,6 +206,52 @@ def a_spiral_of_selves_and_its_living_0():
     return True
 
 
+def ingesting_at_sharings(layout, turns, keys_s, moments=96):
+    """Spirals of one, (13-next-discovering self, 4-now-co-same-existing) at joint forms, 10 to an ingesting self S holding
+    keys_s with 9 to itself; all openings of S's sharings. Returns the kinds its sharings come to."""
+    kinds = set()
+    for opening in itertools.product(NEXT_SELF, repeat=len(keys_s)):
+        soc, routes = {}, {}
+        for (p, key), tn in zip(layout, turns):
+            pr, ob = PRIOR_SELF[tn]
+            pri, pos = soc.get(p, ([], []))
+            soc[p] = (pri + [(key, pr)], pos + ([(key, ob)] if ob else []))
+            routes[(p, 9)] = p
+            routes[(p, 10)] = "S"
+        pri, pos = [], []
+        for key, (sp, inverted) in zip(keys_s, opening):
+            pri.append((key, sp))
+            if inverted:
+                pos.append((key, sp))
+        pos += [(key, PRIOR_SELF[tn][1]) for (p, key), tn in zip(layout, turns) if PRIOR_SELF[tn][1]]
+        soc["S"] = (pri, pos)
+        routes[("S", 9)] = "S"
+        seqs = {k: [dict(pri)[k]] for k in keys_s}
+        for _ in range(moments):
+            soc = NEXT(soc, routes)
+            now = dict(soc["S"][0])
+            for k in keys_s:
+                seqs[k].append(now.get(k, 0))
+        for k in keys_s:
+            s = steps_of(seqs[k][48:])
+            kinds.add("living 0" if all(s[i] != s[i + 1] for i in range(len(s) - 1))
+                      else "no living 0" if all(v == 1 for v in s) else "other")
+    return kinds
+
+
+def harm_at_one_sharing():
+    """Four joint forms at one 4-now-co-same-existing: no living 0. At four 4-now-co-same-existings, held by four selves
+    or by one, and one spiral of one at one: a living 0, all openings."""
+    four = [(f"P{j}", "x") for j in range(4)]
+    spread = [(f"P{j}", f"x{j}") for j in range(4)]
+    one_holding = [("P", f"x{j}") for j in range(4)]
+    keys = [f"x{j}" for j in range(4)]
+    return (ingesting_at_sharings(four, range(4), ["x"]) == {"no living 0"}
+            and ingesting_at_sharings(spread, range(4), keys) == {"living 0"}
+            and ingesting_at_sharings(one_holding, range(4), keys) == {"living 0"}
+            and all(ingesting_at_sharings([("P0", "x")], (j,), ["x"]) == {"living 0"} for j in range(4)))
+
+
 def two_both_ways(same_as):
     routes = {(0, 6): 1, (1, 6): 0}
     soc = {0: ([(K, 1)], []), 1: ([(K, 1 if same_as else -1)], [])}
@@ -248,3 +294,5 @@ say("11. A self ingesting spirals of one with a joint form of none comes to +1 0
     a_living_0_in_a_four_cycling())
 say("12. Exhibit ONE's spiral of selves, with two or four selves, has openings of no right spiral and no living 0; with three or five, its openings of no right spiral come to a cycling of its selves with one living 0",
     a_spiral_of_selves_and_its_living_0())
+say("13. Spirals of one at all four joint forms, at one 4-now-co-same-existing of an ingesting self, bring it no living 0; at four of its 4-now-co-same-existings, held by four selves or by one self, and one spiral of one at one, a living 0 at all of them",
+    harm_at_one_sharing())
