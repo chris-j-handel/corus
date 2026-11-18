@@ -1677,3 +1677,35 @@ One line of a living file parts from the saying's naming. Exhibit TWENTY Natural
 
 **Is-not, incohering.** Exhibit THIRTY's sentence then parts from all-parity as bi-tri-involution.
 
+---
+
+## 37 Said after: is, the do-only-harming of bi-tri-involution
+
+Section 36's sentence of is: all-parity is harmful to living with its own scale.
+
+Said in the session: is. This is the do only harming of bi tri involution.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 33: *Bi-tri-involutioning is harmful to living with its own scale and with that scale its ingesting outside possibly existing, and sixty to sixty-eight is unknown to living with that scale.*
+- Natural Biology: *a self's own emanation is no more and no less harmful to that self than to any other living self of its same scale*
+- Natural Intelligence, the opening: "A self sharing 0 is **do-no-harming**."
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *Of a bi-tri-involution of the self's own scale it is harming only: the self's priors are an opposite form's.*
+
+Cohering, with each. *Do-only-harming* is a name no living file has, beside the opening's do-no-harming.
+
+### The remaining incohering, one concept
+
+**The sentence of is.** No self is do-only-harming.
+
+**is-or-is-not?**
+
+**Is, needed.** Do-only-harming is bi-tri-involution's, an opposite form, non-living.
+
+**Is, incohering.** A gathered note has a cell aiming only its own as harming its others.
+
+**Is-not, needed.** A self aiming only its own is do-only-harming.
+
+**Is-not, incohering.** That self is then an opposite form, and no self.
+
