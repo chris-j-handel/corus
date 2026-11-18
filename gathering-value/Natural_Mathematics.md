@@ -171,6 +171,8 @@ Gathering-Value · Natural Mathematics
 
 ### 7.6 Cube, tesseract and four squares
 
+- **Possible exploring** · *Executed, by whole numbers*: a cube of four has 16 corners, 24 squares and 32 edges: 4 × 4, 4 × 6 and 4 × 8. Its 16 corners are 4 by 4, a round of four in each of two planes sharing only a centre. 16 of its squares have one line from each plane, each corner in four of them, a whole turn, short by none; and 8 are four in each plane's own lying. A saying beside it: the corus of a bi-coupling is 24, 4 × 6, between 4 × 4 and 4 × 8. — at "**A cube has eight vertices, twelve edges and six faces, twenty-four rotations, and forty-eight with twenty-four reversing its hand.**"
+
 ### 7.7 Two knots sharing one fibre
 
 - **Possible exploring** · With Exhibit FOUR Natural Mathematics: *the braid group on three strands, a trefoil's own group*. With it, Natural Intelligence Corus: *A cumulative beating across all selves of a surface concentrates to a central knot*. is-or-is-not? A knot of three wraps is a rim's three films' own relation: one, the other and the one again are the other, the one and the other again. Why it is open: executed as a relation of three inversions, with 120 degrees only. No film and no line of a bubble is a knot: a rim is one round, with no knot in it. A field's trefoil is a path on a ring, three rounds one way with two the other; a ring about a rim is through each of the three partings, and no path of that kind is executed. Natural Intelligence Corus's knot is a centre, and a rim is no centre. Two sides: the knot a relation of three betweens on a line; or the knot the point between four, 2.6's first line.

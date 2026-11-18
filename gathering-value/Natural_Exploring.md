@@ -86,7 +86,7 @@ Gathering-Value · Natural Exploring
 
 ### 4.4 Six protecting, three each way
 
-- **An explaining** · Healthy priors are not symmetric, co-chaining front to back and back to front: a symmetric method has incompetencing in it. *Executed, by whole numbers*: a round of two parities is the same read back to front with each length below six; with six, two rounds are not, each the other read back to front. With three kinds, with three. — at "And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other."
+- **An explaining** · Healthy priors are not symmetric, co-chaining front to back and back to front: a symmetric method has incompetencing in it. *Executed, by whole numbers*: a round of two parities is the same read back to front with each length below six; with six, two rounds are not, each the other read back to front. With three kinds, with three. A self comes to its other's priors by co-sequential right spiraling. Beside it, Exhibit THIRTY Co-Chaining Logic Registry: *Same round, a self observing it from next to prior, is other order, and round forward from prior to next is right.* *Executed, by whole numbers*: a spiral, a round with a going along, observed from next to prior is one hand with it forward. — at "And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other."
 
 ### 4.5 Three questions bi-inversioning, three activities of one resolving
 

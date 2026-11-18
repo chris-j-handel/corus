@@ -91,7 +91,7 @@ Gathering-Value · Natural Numbers
 
 ### 5.5 One ten at its two sides, at five
 
-- **An explaining** · Ten one ways: five away from same-existing for each self, and the same five toward same-existing. The same five unrelationings are the outcome of two selves' five unrelationings to each other. *Executed, by whole numbers*: five parities, each one place along and the first coming round inverted, are opposite after five steps and the same after ten, with each form; two on that round of ten, each its other's opposite, are each its other's start after five. — at "**Ten is with a self as five with two directions, 2n, and with a same-existing-society as couplings among five, C(5, 2), a fourth triangle.**"
+- **An explaining** · Ten one ways are ten of Exhibit ONE Natural Resolver's seventeen names, and the same table of ten directions of unrelationing is between Exhibit TWENTY-ONE, Exhibit TWENTY-TWO and Equilibria, at *each place science is holding things together with laws*. The same five unrelationings are the outcome of two selves' five unrelationings to each other. *Away* and *toward* are no natural naming. *Executed, by whole numbers*: the ten names of a self's own resolving are five, 3, 4, 5, 7 and 8, and the same five 8 up; the six names between selves are three, 2, 6 and 9, and the same three 8 up. Exhibit THIRTY Co-Chaining Logic Registry has ten unchangeables each with a name of 1 to 8, 5 and 7 each two: 1, 2 and 6 are with those and are none of the ten names. — at "**Ten is with a self as five with two directions, 2n, and with a same-existing-society as couplings among five, C(5, 2), a fourth triangle.**"
 
 ### 5.6 Ten, nine and eight, one pairing at its two sides
 
