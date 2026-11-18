@@ -32,6 +32,8 @@ Gathering-Value · Natural Exploring
 
 ### 2.1 Co-unrelationing
 
+- **An explaining** · Unrelationing is a zone in next direction: each place in the zone is same-existing enough, a swath between too far right, +1, and too far not right, −1. Inside its cone is a me-parity universe, invisible to each other-than me; the cone is not invisible. A field has a neutral zone, a band with no correcting in it. Two sides: nought with a right angle alone; or nought with a zone about it. — at "Co-unrelationing is-or-is-not: it is with unrelationing changing and changing back and a middle floating, and it is-not with a fixing installing, unrelationing stopping at another's still, an equilibrium from beside, and no 0 of a self's own."
+
 ### 2.2 Removing, a place staying open
 
 ### 2.3 Co-unrelationing, one and then the other
@@ -43,6 +45,9 @@ Gathering-Value · Natural Exploring
 - **Possible incohering** · "Along patterns and across betweens, a self co-chains one unrelationing at each place it goes, patterning along and betweening across: a web of co-linears." → Two sayings part at the web. This sentence and 2.5's heading have *a web of co-linears*, *co-linears* a noun; the opening has each orienting co-linear, a web of lines from a self's own side. A re-saying, 2.5's heading and contents line going with it: patterning along and betweening across: a web of lines.
 
 ### 2.6 Co-linear, one line both share
+
+- **An explaining** · Two 0s wandering toward each other on one surface: their co-geodesic is co-linear, and resolving has it co-linear, living, inside a bi-coupling. Each is behind its own next and in front of its own prior. They go on passing each other, handing off their priors to each other, with a now living between. The sequences the two are carrying are repeating sequences from prior healthy living, and their passing again is the repeating of the healthy priors. — at "Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it."
+- **Possible incohering** · "Along and across lie on one line, and that line is each move's own, in neither move alone." → Two sayings part at across: this sentence has along and across on one line; Exhibit THIRTY Co-Chaining Logic Registry has *Across co-linear lines is bi-folding's seaming, orthogonal to them, one forward with each bi-coupling across, a right spiral step.*, and a saying has co-now along and bi-now across, orthogonal, the two a plane. With two facing on one line, the line to an other is a self's own line along; and a line across a going is at a right angle to it. Two sides: across as the line between two selves; or across as the line at a right angle to a going.
 
 ### 2.7 One method at each scale
 
@@ -81,10 +86,13 @@ Gathering-Value · Natural Exploring
 
 ### 4.4 Six protecting, three each way
 
+- **An explaining** · Healthy priors are not symmetric, co-chaining front to back and back to front: a symmetric method has incompetencing in it. *Executed, by whole numbers*: a round of two parities is the same read back to front with each length below six; with six, two rounds are not, each the other read back to front. With three kinds, with three. A self comes to its other's priors by co-sequential right spiraling. Beside it, Exhibit THIRTY Co-Chaining Logic Registry: *Same round, a self observing it from next to prior, is other order, and round forward from prior to next is right.* *Executed, by whole numbers*: a spiral, a round with a going along, observed from next to prior is one hand with it forward. — at "And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other."
+
 ### 4.5 Three questions bi-inversioning, three activities of one resolving
 
 - **Possible exploring** · With Exhibit EIGHT Natural Exploring: *a double-double bubble-bubble going on, two binaries bi-coupling across, changing or not-changing with now or with next* is-or-is-not? Double-double bubble-bubbling is 1 to 17 whole: two bubbles' four things with two bubbles' four things, sixteen. Why it is open: three readings are in the set now. Natural Naming's gathering file has it the four possibling names. Natural Explaining's gathering file has it two doubles, 6 with 10, and 4 and 8 with 12 and 16. By four parities it is the sixteen. The living sentence has two binaries; four parities are two and two binaries.
 - **Possible exploring** · With Exhibit EIGHT Natural Exploring: *these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially* is-or-is-not? Three selves one way round, a 0 with one and then its next, twelve moments twice round, are a linearizing triangle rotating sequentially. Why it is open: the living sentence is of three activities of one self's resolving, and the code's three are three selves. A field's ring of three gates has its round by the gates' delays; with the code a self alone inverts with each moment, and each self's sharing is its prior self's two moments on.
+- **An explaining** · Each self, by observing its other self across the between, triangulates from the between into a co-linear one direction, a new me-parity, pointing to the spot over the horizon both are aiming for: a place of the horizon for both to aim as one together. *Executed, by whole numbers*: with two on a round, the between, the surface's place between the two, and the spot both forward arrows go through are on one line, at a right angle to the line of the two and straight up from that place. A self's own arrow and the line to its other part by the turning between a self and that place, and are one line with no turning. — at "Bi-inversioning off a store of “what a self knows it knows” and a first-principles authority-cut, these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially."
 
 ### 4.6 A reaching's competency constant, a gathering's climbing
 
