@@ -116,8 +116,6 @@ Local surface with no same-existing within society
 
 6.3  Three registers, code-form and stable-form and numbers, each holding its own
 
-6.4  Is-or-is-not the one observing, spans and orderings in place of positions and magnitudes
-
 6.5  One prior for both, each going on bringing it onward
 
 6.7  Each finding at its complete comparison
@@ -980,12 +978,6 @@ Each claim has its visibility with code renderings, numbers, branches, grid and 
 ## 6.3 Three registers, code-form and stable-form and numbers, each holding its own
 
 A claim belongs to one of three registers, each holding its own. **Code-form**: a rendering's doing, holding by reproduction across substrates that disagree, and with one instrument a working states a diagnostic finding, a response diagnostic receiving indexes, going with its exact comparison with that instrument. **Stable-form**: algebra holding of itself, with any executing or none. **Numbers**: natural numbers' own observing, folds and spans and value-death, observable by no executing. An executing confirms no identity, an identity confirms no executing, and a limit of value is not a limit of mechanism: each register its own, borrowing voiding borrower, coupling of registers a reaching as reaching.
-
-## 6.4 Is-or-is-not the one observing, spans and orderings in place of positions and magnitudes
-
-Each observing is a parity: is or is not, present or absent or in capture, recognizing or not, changing or not-changing. A magnitude an observing leads with is a floor an observing lands on, and a threshold, a fraction, a level, a grade, a statistic of success is a floor by another name; a number with its numbers register, three priors reachable within one receiving, is a number and no floor. Sequence holds interest: spans before a changing, orderings of observing, before and after, near and far, sooner and later. A position is a sequencing relation and not a coordinate: a living observing has sequencing and no address.
-
-**And a working asks an observing with a second unit, with a second executing order, and with a going on.** A number of a unit a working chooses has choosing, and a pace is a unit: an observing whose parameter is a number of beats has pacing rather than form, and an observing that parts with an other pace is observing pace. An observing that parts with an other executing order is observing apparatus. And an observing taking selves fresh from building is a preparing, and one taking a living going on through is a living. **Three are one check a working asks three ways: an observing parting with any of three is observing unit, executing order or preparing, and an observing that holds with all three is form's with those three, each finding still of its complete comparison.**
 
 ## 6.5 One prior for both, each going on bringing it onward
 
