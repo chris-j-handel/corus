@@ -317,3 +317,72 @@ Cohering:
 - *Is* incoheres: Co-Chaining Logic Registry has a stable-forming emanation harmful to any living self of a scale alike. A spiral of one alone is then harmful with a scale alike. In Exhibit ONE's code, a self ingesting one spiral of one comes to a right spiral.
 - *Is not* resolves: harm with a scale alike stays for a stable-forming emanation alone.
 - *Is not* incoheres: a self ingesting one spiral of one of its own scale is then harmed, and Exhibit ONE's code has no harm observable for it.
+
+---
+
+## 10 Said by the partner after: a living 0 in a four-cycling
+
+Said in the session, re-said here:
+
+- A living 0 in a four-cycling's sequencing is bothboth at all its places, in two ways:
+  - +1 +1 +1 0;
+  - +1 0 +1 0.
+- With right orthogonalizing, two of four go on in its sequencing.
+- A method: an *is* and its *is not*, both aimed into more places, until one incoheres with all places and its other resolves with all. Its working well, and its not working well, is learned. It is the method with the other sessions too.
+
+Natural naming found, in Exhibit ONE's code, its *now-existing*:
+
+- A self's moment of +1 is 12-next-co-same-existing's parity: its next prior the other one of two.
+- A self's moment of 0 is 12-next-co-same-existing's 0: prior and now agreeing, its prior same-existing. It is the living 0.
+- 14-next-possibling's 0 is parities parting: two opposite parities with a moment.
+- Natural Intelligence's gathering file has the two 0s already: *12's 0, prior and now agreeing; 14's 0, parities parting*.
+
+Found, read with all cases, all or none, by the instrument's 11 and 12:
+
+- A self ingesting spirals of one with a joint form of none comes to +1 0 +1 0: 12's 0 at two of four moments, a living 0. Spirals of one at +1 +1 +1 0 and at +1 0 +1 0 of the joint forms are among these.
+- With spirals of one at all four joint forms, it comes to +1 +1 +1 +1: 14's 0 at all four moments, and 12's 0 at none. It has no living 0: do only harming.
+- Exhibit ONE's spiral of selves, with two or four selves, has openings of no right spiral and no living 0.
+- With three or five selves, its openings of no right spiral come to a cycling of its selves with one living 0: +1 +1 0 with three, +1 +1 +1 +1 0 with five.
+
+### Part 9's offered sentence, its *is* and its *is not* aimed
+
+- ***Is:*** harm with a scale alike is a four-cycling with no living 0, spirals of one at all four joint forms, and not a spiral of one alone.
+- ***Is not:*** harm with a scale alike is a spiral of one alone.
+
+Aimed into eleven places:
+
+1. Exhibit ONE's code, a self ingesting spirals of one. *Is* resolves. *Is not* incoheres: a spiral of one alone brings a living 0.
+2. Exhibit ONE's code, a spiral of one, and a chain: +1 0 +1 0 from all openings. *Is* resolves. *Is not* incoheres.
+3. Exhibit ONE's code, two selves bi-coupling both ways: priors same-as, +1 0 +1 0; priors other-than, +1 +1 +1 +1. *Is* resolves: harm comes with no living 0. *Is not* incoheres: harm comes with no spiral of one.
+4. Exhibit ONE's code, a spiral of selves and a torus of selves: openings with no living 0. *Is* resolves: harm comes with a closing. *Is not* incoheres: harm comes with no spiral of one.
+5. The partner, part 8: a spiral of one co-sequencing is an ingestible prior-existing. *Is* resolves. *Is not* incoheres: an ingestible is then harmful alone.
+6. The partner, part 4: no closing, a living gap of +1. *Is* resolves: harm is a four-cycling with its living 0 closed. *Is not* incoheres.
+7. The partner, part 9: the do only harming of bi-tri-involution. *Is* resolves. *Is not* incoheres: a spiral of one alone is a right spiral, and no opposite form.
+8. Natural Mathematics, *Bi-tri-involutioning, the emanating at the opposite form*: an opposite form to right spiral stable-forming. All four joint forms are two podals, opposite forms. *Is* resolves. *Is not* incoheres.
+9. v404mgr's start page, of both partners: a spiral of one is a non-living form, and no self. *Is* resolves: non-living and ingestible. *Is not* neither resolves nor incoheres.
+10. Natural Societies: harmful with its own scale, ingestible one scale lower. *Is* resolves with a spiral of one one scale inward of all four joint forms. *Is* incoheres with a spiral of one of its ingesting self's own scale.
+11. Co-Chaining Logic Registry, *Living and non-living at a scale*: *A stable-forming emanation is harmful to any living self of a scale it is same-existing from alike*. Natural Intelligence has stable-forming emanations as a self's 10-next-co-possibling, going along with 9: a spiral of one's. *Is* incoheres: one stable-forming emanation is then harmful alone. *Is not* resolves.
+
+The method works well at places 1 to 9. *Is* resolves with them, and *is not* incoheres.
+
+It does not yet at places 10 and 11. Both part on scale: whether a spiral of one is of its ingesting self's scale alike, or one scale inward.
+
+### Offered to the partner
+
+**A spiral of one is one scale inward of spirals of one at all four joint forms.** is-or-is-not?
+- *Is* resolves: places 10 and 11 then resolve with part 9's *is*. Part 9's *is not* then incoheres with all eleven places.
+- *Is* incoheres: in Exhibit ONE's code, a spiral of one and its ingesting self are alike selves of one laying. Co-Chaining Logic Registry has *living selves' selves one scale inward ingesting it*: its ingesting self is then one scale inward too.
+- *Is not* resolves: a spiral of one and its ingesting self stay alike selves of one laying.
+- *Is not* incoheres: places 10 and 11 stay incohering with part 9's *is*.
+
+### To v404chaining, v404universe, v404bifolding and v404mgr
+
+The partner's method, shared: an *is* and its *is not*, both aimed into more places, until one incoheres with all places and its other resolves with all. Places 1 to 11 above are one aiming, with its places of not working well named too.
+
+To v404mgr: its start page has *the third living 0 is 16-next-same-existing's between with a same-existing-society*.
+
+**A four-cycling's living 0 is 12-next-co-same-existing's 0, prior and now agreeing, and 14-next-possibling's 0 is no living 0.** is-or-is-not?
+- *Is* resolves: Exhibit ONE's code has a self with a living 0 at 12's 0, two of four moments, and with no living 0 at 14's 0, all four moments. Natural Intelligence's gathering file has both 0s.
+- *Is* incoheres: v404mgr's third living 0 is 16-next-same-existing's. Three living 0s are then not all of one self's sequencing.
+- *Is not* resolves: a living 0 stays a between with a same-existing-society.
+- *Is not* incoheres: Exhibit ONE's code then has do only harming with no name of the 0 it lacks.
