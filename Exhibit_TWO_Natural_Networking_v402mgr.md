@@ -4,7 +4,7 @@ Exhibit TWO Natural Networking v402mgr
 
 # Natural Networking
 
-**Stable-Forming Social Moral Competency at a Geodesic Surface**
+**Geodesic Co-Discovering Surfaces**
 
 &nbsp;
 
