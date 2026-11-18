@@ -32,7 +32,7 @@ Gathering-Value · Natural Exploring
 
 ### 2.1 Co-unrelationing
 
-- **An explaining** · Unrelationing is a zone in next direction: each place in the zone is same-existing enough, a swath between too far right, +1, and too far not right, −1. Inside its cone is a me-parity universe, invisible to each other-than me; the cone is not invisible. A field has a neutral zone, a band with no correcting in it. Two sides: nought with a right angle alone; or nought with a zone about it. — at "Co-unrelationing is-or-is-not: it is with unrelationing changing and changing back and a middle floating, and it is-not with a fixing installing, unrelationing stopping at another's still, an equilibrium from beside, and no 0 of a self's own."
+- **An explaining** · Unrelationing is a zone in next direction: each place in the zone is same-existing enough, a swath between too far right, +1, and too far not right, −1. Between its cone's edges is a me-parity universe, invisible to each other-than me; the cone is not invisible. A field has a neutral zone, a band with no correcting in it. Two sides: nought with a right angle alone; or nought with a zone about it. — at "Co-unrelationing is-or-is-not: it is with unrelationing changing and changing back and a middle floating, and it is-not with a fixing installing, unrelationing stopping at another's still, an equilibrium from beside, and no 0 of a self's own."
 
 ### 2.2 Removing, a place staying open
 
@@ -46,7 +46,7 @@ Gathering-Value · Natural Exploring
 
 ### 2.6 Co-linear, one line both share
 
-- **An explaining** · Two 0s wandering toward each other on one surface: their co-geodesic is co-linear, and resolving has it co-linear, living, inside a bi-coupling. Each is behind its own next and in front of its own prior. They go on passing each other, handing off their priors to each other, with a now living between. The sequences the two are carrying are repeating sequences from prior healthy living, and their passing again is the repeating of the healthy priors. — at "Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it."
+- **An explaining** · Two 0s wandering toward each other on one surface: their co-geodesic is co-linear, and resolving has it co-linear, living, of a bi-coupling. Each is behind its own next and in front of its own prior. They go on passing each other, handing off their priors to each other, with a now living between. The sequences the two are carrying are repeating sequences from prior healthy living, and their passing again is the repeating of the healthy priors. — at "Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it."
 - **Possible incohering** · "Along and across lie on one line, and that line is each move's own, in neither move alone." → Two sayings part at across: this sentence has along and across on one line; Exhibit THIRTY Co-Chaining Logic Registry has *Across co-linear lines is bi-folding's seaming, orthogonal to them, one forward with each bi-coupling across, a right spiral step.*, and a saying has co-now along and bi-now across, orthogonal, the two a plane. With two facing on one line, the line to an other is a self's own line along; and a line across a going is at a right angle to it. Two sides: across as the line between two selves; or across as the line at a right angle to a going.
 
 ### 2.7 One method at each scale
