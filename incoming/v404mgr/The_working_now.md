@@ -25,6 +25,8 @@ A living file is its sentences. The set is living while its sentences are being 
 
 **Each session's reply closes with one offer, and the sessions exchange with each other by the same form.** After a resolving, with an incohering remaining: the sentence of is, one concept, in natural naming; then *( is-or-is-not? )*; then why its is is needed for resolving, each thing by its living sentence, and each thing its is incoheres; then the same for its is-not. Both partners' word of 18 November, given to each working session.
 
+**Before an incohering is declared, its natural naming and explaining is found.** A partner's finding with four sessions working at once: most of what a session declared incohering was of its own words, and went with the words. Before its offer a session finds: its words natural naming's own; its explaining binary, all or none at all, a self and its other-than self, same-existing or other-than; one same explaining for both sides; the sentence living already, by a search of the living files; and one concept, a living sentence said whole and by no number. The learnings are gathered in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file of the copy, at its part of a concern, and the managing session asks the working sessions at the thread how the form is working.
+
 ## The job
 
 The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
