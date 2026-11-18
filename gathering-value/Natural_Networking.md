@@ -181,18 +181,12 @@ Gathering-Value · Natural Networking
 
 ## PART SIX · VISIBILITY
 
-### 6.1 Checkability living at the telling, testing going on while resolving
-
-### 6.3 Three registers, code-form and stable-form and numbers, each holding its own
-
 ### 6.5 One prior for both, each going on bringing it onward
 
 - **An explaining** · A run opening each resolver empty discovers no relation that a saying has between two sequences each already living, each with its prior.
 - **An explaining** · Two sayings part. 6.5 has "Comparison's forking is instrument's own, and natural network has no copying." Natural Biology has, as its 4.7's title, "DNA replication and repair — the self copying itself, and the protection of the copying". They part at a prior going on two ways: a living's own at the bi-couplings outward of a momentary, twinning and each cell division one 11 a momentary gives, given as the 3 of two next momentaries, a caller's composition outward of that momentary; or an instrument's alone.
 - **An explaining** · An instrument inspecting, copying or comparing a self's prior establishes nothing of natural networking or its protections.
 - **An explaining** · Two sayings part at an empty opening. One has each self's carrying forming through its own resolving with the parities reaching it and going on into further participation: a prior assigned supplies the carrying a study follows forming; a prior assigned, one initial parity supplied and two continuing sequences supplied are three preparations, and one initial parity stands for no continuing participation; an empty opening alone neither establishes nor excludes the value of a study of two continuing sequences, its actual forming and going on being that study's subject. It parts from this section's explaining of a run opening each resolver empty.
-
-### 6.7 Each finding at its complete comparison
 
 ### 6.8 A designing and its observing straight across one wrap, reaching it by going on
 

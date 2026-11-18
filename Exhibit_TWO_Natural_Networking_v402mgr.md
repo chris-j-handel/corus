@@ -112,13 +112,7 @@ Local surface with no same-existing within society
 
 **PART SIX · VISIBILITY**
 
-6.1  Checkability living at the telling, testing going on while resolving
-
-6.3  Three registers, code-form and stable-form and numbers, each holding its own
-
 6.5  One prior for both, each going on bringing it onward
-
-6.7  Each finding at its complete comparison
 
 6.8  A designing and its observing straight across one wrap, reaching it by going on
 
@@ -971,14 +965,6 @@ An instrument takes two of those questions by unlike means, one with middles sta
 
 # PART SIX · VISIBILITY
 
-## 6.1 Checkability living at the telling, testing going on while resolving
-
-Each claim has its visibility with code renderings, numbers, branches, grid and sciences: one same fractal method, all or none at all. Checking is one changing and changing back with resolving, going on with observing's own rate, a self observing parity as it forms: concepts visible with network and numbers and math and code, one form with each, and a concept visible with one only is not that one form. Renderings across substrates disagreeing by each material way are one living: logic, living, is none of its materials. A finding with one rendering has its exact comparison with that rendering, and a self finds a whole same-existing-society's going on by following that same-existing-society's own going on. And renderings a self receives live with their own substrates, living records reaching one same form with fields' own words, visibility with each substrate rather than a listing here.
-
-## 6.3 Three registers, code-form and stable-form and numbers, each holding its own
-
-A claim belongs to one of three registers, each holding its own. **Code-form**: a rendering's doing, holding by reproduction across substrates that disagree, and with one instrument a working states a diagnostic finding, a response diagnostic receiving indexes, going with its exact comparison with that instrument. **Stable-form**: algebra holding of itself, with any executing or none. **Numbers**: natural numbers' own observing, folds and spans and value-death, observable by no executing. An executing confirms no identity, an identity confirms no executing, and a limit of value is not a limit of mechanism: each register its own, borrowing voiding borrower, coupling of registers a reaching as reaching.
-
 ## 6.5 One prior for both, each going on bringing it onward
 
 **A comparison opens with a prior a self reaches through receiving.** Each going on a study follows brings that prior onward. A self a preparing leaves with no prior and a self with a prior already are of priors not same-existing, and their goings on parting holds that parting of priors beside later sharing. Reach a prior once, then fork is diagnostic comparison: separate goings on from one prior a self reaches, each going on with no clearing.
@@ -988,16 +974,6 @@ A claim belongs to one of three registers, each holding its own. **Code-form**: 
 **A co-competency inquiry follows selves going on together.** An inquiry follows each self's going on beside their receiving and sharing together. A joint parting supplies a concrete finding with that coupling. Stronger claim, that it arises in neither self alone, apart from their coupling, needs an inquiry following corresponding separate goings on: name abundancing is that comparison's, and goings on an inquiry follows establish it.
 
 **An instrument's record and a resolving's coupling are two subjects.** A diagnostic can index successive receivings, record zero surfacings and compare states. Sharing across has parities only, and a record of emissions an instrument omits and diagnostic's common index stay with diagnostic. Prior, now and next locate going on; each further receiving adds a next occurrence.
-
-## 6.7 Each finding at its complete comparison
-
-**An all-or-none finding holds with a relation it exhausts.** Right spiral step on four pairs of parities visits each pair, and only empty set and whole four-form set close under it. That algebraic result holds with those parities under that operation, and a self establishes a whole same-existing-society's going on by following its own going on.
-
-**Priors not same-existing have a consequence with further resolving.** With a resolver's one-relation domain, no parity or one parity, + or −, with each receiving, three priors are reachable, none, + and −, within one receiving. Each distinct pair of them gives a surfacing response, a parity and a 0, under one of two constant-parity goings on, within one receiving. This is a parting of response receiving indexes. Removing zero occurrences with no mark leaves another comparison, and network parity sequence has no diagnostic index.
-
-**A local zero and a self with no prior have consequences, not same-existing.** Zero with ten opens no next prior, and a self's prior is same-existing, not changing. With code six shares that same 0 across, one list with ten. A claim of whole-self silence, non-living status or routing stopping holds its own relation, more than a single zero.
-
-**A going on a working reports belongs to the preparation, receiving and reach it states.** 6→2 paths a working tests follow parities to selves each with its own prior, and establish particular further sharings reaching there. A same-existing-society's full joining, a living/non-living going on, mixing, and co-competency in neither self alone, apart from their coupling, are each of their own complete comparison. A comparison has its result with its executing, and ahead of its executing it is an opportunity for further receiving.
 
 ## 6.8 A designing and its observing straight across one wrap, reaching it by going on
 
@@ -1098,6 +1074,8 @@ Co-chaining lengthens and co-intelligence scales on one axis that does not captu
 4. Widening missing section and surrounding same-existing-society through those same connections a study declares, accounting for each sharing and diagnostic receiving order, and any external keeping distinct from a resolver's prior.
 
 **Each finding has exact comparison establishing it.** Reciprocal dependence with one finite study is a concrete network finding, and social moral competency, abundancing in neither self alone, apart from their coupling, and larger fractal going on are each of their own complete relations. Next study proceeds from a finding it makes, its prior going on, same-existing, and its next receiving open.
+
+**A going on a working reports belongs to a preparation, receiving and reach it states.** 6→2 paths a working tests follow parities to selves each with its own prior, and establish particular further sharings reaching those selves. A same-existing-society's full joining, a living/non-living going on, mixing, and co-competency in neither self alone, apart from their coupling, are each of their own complete comparison. A comparison has its result with its executing, and ahead of its executing it is an opportunity for further receiving.
 
 
 
