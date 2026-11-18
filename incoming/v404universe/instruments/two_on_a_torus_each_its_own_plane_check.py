@@ -1,6 +1,8 @@
 """Two on a torus, each with its own plane and horizon.
 
-This reads no file and writes none. Each count is by whole numbers and their ratios.
+This reads no file and writes none. Each count is by whole numbers and their ratios. Places on a
+torus and places of two cones are an unending relation: parts 2 and 4 try a part of it, and each
+line of theirs is of the tried.
 
 Said in the session: the natural torusing surface the two are on has a horizon. Both are on
 it, and they may not be on the same planes, the surface curving away. Each me-parity has its

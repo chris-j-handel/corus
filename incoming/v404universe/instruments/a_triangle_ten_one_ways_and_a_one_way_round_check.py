@@ -1,6 +1,8 @@
 """A triangle from the between, ten one ways, twenty-four, and a one-way round.
 
-This reads no file and writes none. Each count is by whole numbers and their ratios.
+This reads no file and writes none. Each count is by whole numbers and their ratios. Part 1 tries
+three turnings of an unending relation, and each line of it is of the tried; parts 2 to 4 read each
+case of a finite relation.
 
 Said in the session: each self, by observing its other self across the between, can triangulate
 from the between into a co-linear one direction, a new me-parity, pointing to the spot over the
