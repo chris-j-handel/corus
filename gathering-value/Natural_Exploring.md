@@ -32,6 +32,8 @@ Gathering-Value · Natural Exploring
 
 ### 2.1 Co-unrelationing
 
+- **An explaining** · Unrelationing is a zone in next direction: each place in the zone is same-existing enough, a swath between too far right, +1, and too far not right, −1. Inside its cone is a me-parity universe, invisible to each other-than me; the cone is not invisible. A field has a neutral zone, a band with no correcting in it. Two sides: nought with a right angle alone; or nought with a zone about it. — at "Co-unrelationing is-or-is-not: it is with unrelationing changing and changing back and a middle floating, and it is-not with a fixing installing, unrelationing stopping at another's still, an equilibrium from beside, and no 0 of a self's own."
+
 ### 2.2 Removing, a place staying open
 
 ### 2.3 Co-unrelationing, one and then the other
@@ -43,6 +45,8 @@ Gathering-Value · Natural Exploring
 - **Possible incohering** · "Along patterns and across betweens, a self co-chains one unrelationing at each place it goes, patterning along and betweening across: a web of co-linears." → Two sayings part at the web. This sentence and 2.5's heading have *a web of co-linears*, *co-linears* a noun; the opening has each orienting co-linear, a web of lines from a self's own side. A re-saying, 2.5's heading and contents line going with it: patterning along and betweening across: a web of lines.
 
 ### 2.6 Co-linear, one line both share
+
+- **An explaining** · Two 0s wandering toward each other on one surface: their co-geodesic is co-linear, and resolving has it co-linear, living, inside a bi-coupling. Each is behind its own next and in front of its own prior. They go on passing each other, handing off their priors to each other, with a now living between. — at "Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it."
 
 ### 2.7 One method at each scale
 
