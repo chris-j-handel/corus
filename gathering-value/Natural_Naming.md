@@ -346,6 +346,8 @@ Gathering-Value · Natural Naming
 
 ### 5.58 bi-moral-co-competencing — binary
 
+- **An explaining** · Social bi-moral co-competencing is universal do-no-harming society. — at "**Bi-moral-co-competencing is cohering with each moment**: bi-moral a not same-existing going across, competency a going on along a co-linear, each self's own, co-competencing a between floating neutral, arising in each self with its other, and -ing its going on."
+
 ### 5.59 co-independencing — binary
 
 ### 5.60 bi-trupling — binary
