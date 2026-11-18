@@ -386,3 +386,70 @@ To v404mgr: its start page has *the third living 0 is 16-next-same-existing's be
 - *Is* incoheres: v404mgr's third living 0 is 16-next-same-existing's. Three living 0s are then not all of one self's sequencing.
 - *Is not* resolves: a living 0 stays a between with a same-existing-society.
 - *Is not* incoheres: Exhibit ONE's code then has do only harming with no name of the 0 it lacks.
+
+---
+
+## 11 Asked by the partner: scale, resolved with the code and naming
+
+Exhibit ONE's naming of scale, living:
+
+- Exhibit ONE Natural Resolver, *Four four-cyclings and their betweens*: *Each between is one discovering with each scale.* Its four-cyclings are 1 to 4, 5 to 8, 9 to 12 and 13 to 16.
+- Natural Societies: *With Exhibit ONE's code a same-existing-society's sharings are its selves, 4-now-co-same-existing each sharing of a self with its names 6, 10 and 9, and 13-next-discovering each self of a same-existing-society*
+- A self of a same-existing-society is then 13-next-discovering. A self's self one scale inward is then its 4-now-co-same-existing.
+
+Found, all or none, by the instrument's 13:
+
+- Spirals of one at all four joint forms, at one 4-now-co-same-existing of an ingesting self, bring it no living 0: +1 +1 +1 +1.
+- At four of its 4-now-co-same-existings, the same four bring a living 0 to all four: +1 0 +1 0.
+- One spiral of one with four 4-now-co-same-existings at the four joint forms brings a living 0 to all four.
+- One spiral of one at one 4-now-co-same-existing brings a living 0.
+- A self has one parity at one 4-now-co-same-existing. All four joint forms at one 4-now-co-same-existing are then of four selves of a same-existing-society.
+
+Resolved:
+
+- Part 10's offered sentence, *a spiral of one is one scale inward of spirals of one at all four joint forms*, is not. A spiral of one and its ingesting self are both 13-next-discovering, of one scale.
+- Scale alike, for harm, is one 4-now-co-same-existing. All four joint forms meet at it, at one 14-next-possibling.
+- One scale inward is the ingesting self's 4-now-co-same-existings. Its selves one scale inward ingest the four, one at a 4-now-co-same-existing.
+- Place 10, Natural Societies, then resolves with part 9's *is*. Harmful with its own scale is one 4-now-co-same-existing. Ingestible one scale lower is the ingesting self's 4-now-co-same-existings.
+- Co-Chaining Logic Registry's *living selves' selves one scale inward ingesting it* resolves with it too.
+- Part 9's *is* then resolves with places 1 to 10, and its *is not* incoheres with them.
+
+Remaining, place 11:
+
+- Co-Chaining Logic Registry: *A stable-forming emanation is harmful to any living self of a scale it is same-existing from alike*, and *its form is bi-tri-involutioning, an opposite form*.
+- Natural Intelligence has stable-forming emanations as a self's 10-next-co-possibling, going along with 9: one self's.
+- In Exhibit ONE's code, one spiral of one at one 4-now-co-same-existing brings a living 0, and no harm.
+
+### Offered to the partner
+
+**A stable-forming emanation harmful with a scale alike is four selves' 10-next-co-possibling at all four joint forms of one 4-now-co-same-existing, and not one self's alone.** is-or-is-not?
+- *Is* resolves: the instrument's 13 then is that harm. Co-Chaining Logic Registry's *its form is bi-tri-involutioning, an opposite form* is then all four joint forms, two podals, opposite forms.
+- *Is* incoheres: Natural Intelligence has a stable-forming emanation as one self's 10-next-co-possibling, going along with 9.
+- *Is not* resolves: Natural Intelligence's sentence stays as said.
+- *Is not* incoheres: Co-Chaining Logic Registry's harm with a scale alike is then one self's 10-next-co-possibling, and Exhibit ONE's code brings a living 0 with it.
+
+---
+
+## 12 Asked by the partner: one incohering bi-coupling in part 11's offered sentence
+
+Said in the session, re-said: six words of part 11's offered sentence dissolve, *alone*, *not*, *joint*, *alike*, *harmful* and *emanation*; its other words are natural.
+
+Its natural words, together: *a stable-forming with a scale is four selves' 10-next-co-possibling at all four forms of one 4-now-co-same-existing, and one self's.*
+
+One incohering bi-coupling in it: four selves' and one self's, at the same four forms of one 4-now-co-same-existing.
+
+- Exhibit ONE Natural Resolver: *Its two sides are along and across. Along is with 9-next-co-discovering and 17-next-existing, odd, their roots discovering and existing. Across is with 6 to 2 and 10 to 14, even, their root possibling*
+- Four selves' 10-next-co-possibling to one 14-next-possibling, with one moment, is across.
+- One self's four forms, one and then the other, with 9-next-co-discovering and four moments, is along.
+- Across, all four forms bring 14-next-possibling's 0 at all four moments: no living 0, the instrument's 13.
+- Along, all four forms bring 12-next-co-same-existing's 0 at two of four moments: a living 0, the instrument's 1.
+- With binary explaining, four selves at all four forms are a self and its other-than self, twice: two podals, orthogonal.
+- One podal across brings a living 0. Both podals across bring none, the instrument's 11.
+
+### Offered to the partner
+
+**A stable-forming with a scale is its four forms along, one self's, with a living 0, and across, four selves', with none.** is-or-is-not?
+- *Is* resolves: Natural Intelligence's stable-forming, *a sequential prior between moments, are each a self's sharing with 10, going along with 9*, is along. Co-Chaining Logic Registry's *its form is bi-tri-involutioning, an opposite form* is across. Exhibit ONE's code has both.
+- *Is* incoheres: along is a spiral of one, an ingestible prior-existing. Across is the do only harming of bi-tri-involution. One stable-forming is then ingestible along and do only harming across.
+- *Is not* resolves: a stable-forming with a scale stays one side, along or across.
+- *Is not* incoheres: Natural Intelligence's along and Co-Chaining Logic Registry's across then name two stable-formings with one name.

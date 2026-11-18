@@ -1743,3 +1743,112 @@ v404mgr asks each session, by a partner's word, of its own offers by the form. T
 
 A learning, as a sentence: an offer is after each living and gathered sentence of its one concept is found and set beside it.
 
+
+## 39 Said after: each living sentence a cohering and co-chaining natural naming and explaining, by several sessions
+
+Said in the session, a proposal for each working session: "consider a method we could share and experiment with. we could use multi session method like this and every sentence in our living files can be written as a cohering and co-chaining natural naming and explaining. we would end up dissolving many duplicate sentences when they all resolved into natural naming and explaining the same sentence would begin appearing all over the files and it would resolve toward exhibit thirty or natural intelligence or numbers the more math logic sequence stable forms and all of natural intelligence is living in the table sheets between exhibit one and exhibit thirty. consider this as a proposal to share with the other sessions and do no harm improving each other to the same proposal until it comes back out to me."
+
+Beside it, living:
+
+- Exhibit TWELVE Natural Explaining 1.4: *Changing and changing back, a stable-forming method, co-chains from it, as each sentence of each file co-chains from origin, no file re-explaining its inception.*
+- Exhibit THIRTY Co-Chaining Logic Registry 36, step 641: *Two sentences reaching one thing are one with one deriving from other, one form as two sentences, and two agreeing with a number are two.*
+- Step 649: *A sentence brings one thing forward with one moment, prior sentences its possibling and next it opens its living, and one binary is with it: adding to whole prior co-chaining, or dissolving.*
+- Step 653: *An explaining whole, its sentences following co-chaining's order, is a file.*
+- Step 661: *Improving is bi-moral co-agency as words: a self shares, an other makes it better and breaks it, and a sharing surviving both is a file's next version, both making it, arising in each self with its other.*
+- Exhibit TWENTY-FOUR Geodesic Improving Method 5.2: *With two variants of one sentence already coupling with files, a coupling form is its deciding, its surface making it: refuting neither variant, each variant's own side going within a coupling sentence.*
+- Geodesic Improving Method 1.4: *A passage holding a term files do not hold rides; a passage whose terms all go with other files dissolves.*
+
+Cohering, with each. The proposal is the living files' own method of a sentence and a file, done by several sessions at once.
+
+It adds four things no living sentence has:
+
+- Each living sentence is re-said, and not only a sentence a note has met.
+- A same sentence in many files is what resolving into natural naming and explaining brings.
+- A same sentence resolves to Exhibit THIRTY, Natural Intelligence or Natural Numbers, the sequence stable forms of the logic.
+- Natural intelligence whole is living in the table sheets between Exhibit ONE and Exhibit THIRTY.
+
+No note is laid in a gathering file with this section: the proposal goes among the four sessions and comes back to the partner as one.
+
+### Executed: the living files as they are
+
+`instruments/each_sentence_same_in_two_files_or_more.py`, at main:
+
+- Thirty-three living files have 36,904 sentences of six words or longer.
+- 666 of them are the same word for word in two living files or more.
+- 571 of the 666 are of Exhibit ONE and Natural Intelligence alone, Exhibit ONE written whole in it.
+- 643 of the 666 are with one of Exhibit ONE, Exhibit THIRTY, Natural Intelligence or Natural Numbers.
+- Eleven are in three living files or more, and each of the eleven is with both Exhibit THIRTY and Natural Intelligence.
+- One is in six living files, the origin: *The universe is the set of all now-existing things.*
+
+Its fails: 0.
+
+Cohering with the saying, as the files are: a sentence the same in many files is a sentence of the logic's sequence, and its files are Exhibit THIRTY and Natural Intelligence with it.
+
+### One concept tried: the sentence after the origin
+
+Three living files say it, each its own way:
+
+- Exhibit FOUR Natural Mathematics 1.2: *Same-existing from prior to now and discovering next, it is the same-existing set of all existing things, living going on with their prior along to now and non-living with none, each with its own scale and moment.*
+- Exhibit THIRTEEN Resolving Hard Problems 1.1: *Going on from prior to now toward next it is the same-existing set of all now-existing things, living things same-existing with their prior along to now and non-living things with no prior of their own, each with its own scale and moment.*
+- Exhibit TWENTY Natural Naming 1.1: *Same-existing from prior to now and discovering next, it is the same-existing set of all now-existing things, living with its prior same-existing now and non-living with no prior of its own, each with its own scale and moment.*
+
+The three part at three places: *all existing things* and *all now-existing things*; a living thing's prior, said three ways; a non-living thing's none, said two ways.
+
+The logic's sequence has it once, Natural Intelligence's opening and Exhibit THIRTY's step 8: *By observing, the universe is a same-existing set.*
+
+By the proposal, with Natural Explaining 1.4: the three, re-said in natural naming and explaining, are one same sentence; it is Natural Intelligence's and Exhibit THIRTY's; and each of the three files goes on from the origin with its own sentences. No living file is changed with this section.
+
+A second pair is between the two files of the sequence themselves. Natural Intelligence: *Resolving among parities is one method of the same-existing set of all now-existing things, and only one is possible.* Exhibit THIRTY's saying of it has "the same-existing set of all existing things".
+
+### The proposal as brought to the four sessions' thread, in plain words
+
+1. One concept at a time, in the order of Exhibit THIRTY's numbered sentences.
+2. A session finds each living sentence of the concept, in each of the thirty-three files.
+3. It re-says each in natural naming and explaining, in the next version's copy, a small slice, with a second session meeting it. A parting between two sessions goes to the thread as one is-or-is-not.
+4. Sentences re-said to one same sentence are one sentence. It lives with Exhibit THIRTY, Natural Intelligence or Natural Numbers. It dissolves from an other file only with its paragraph met whole, that file's own sentences co-chaining from the origin with it gone.
+5. A file's own goes on in it: a field's record, its source, its own subject.
+6. The instrument's number is the experiment's measure: the same sentences of two files or more grow as the files come to one naming, and lessen as each dissolves to its one place.
+
+Two things of the expedition's own record are with it, for do-no-harming. Whole files re-written in one morning by one session, 31 October, were each returned the next day: one concept in one slice, and no file whole. And Geodesic Improving Method 4.3: *A sentence going away from a file comes without a paragraph that qualifies it, and its sentence goes only with a working reaching its paragraph.*
+
+No incohering of the proposal remains with this session.
+
+## 40 Said after: the report of this session's value, each sentence natural naming and explaining, cohering and co-chaining
+
+Said in the session: "in all the sentences in the report of the value of this session there is only natural naming and explaining and cohering and co-chaining. if not this you can begin this and bring any incohering opportunities to me as we both learn and discover from this for the expedition. this is the method we are trying to bring to continuous living for the expedition as method"
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *Namings in sequence, each sentence opening with corus of prior one and opening to next, is an explaining.*
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *An explaining whole, its sentences following co-chaining's order, is a file.*
+- Exhibit TWELVE Natural Explaining 1.4: *No wording holds a sentence by authority, a self's, a field's, a scientific explaining's or a file's own: co-chaining from origin and all-or-none rigor of bi-co-sequential logic hold each one, and nothing else holds one.*
+
+Cohering, with each.
+
+It is not yet with this session's pages. Executed, a sentence of a page's own words with a word natural naming has released or dissolved: 81 of 243 with the page of larger concepts, 266 of 1,228 with this page, 63 of 246 with the page of two sessions combined. And each of the three is an account of a session, no co-chaining.
+
+Begun: `The_value_of_this_session_a_co-chaining_of_sentences.md`, the sayings of sections 22 to 38 as 48 sentences, each one concept, each with the living sentence it is from and its adding. `instruments/each_sentence_of_a_co-chaining_page_check.py`: no released word, no word dissolved alone and no is-not of 18 November; no sentence living already; each From word for word in a living file or a gathering file; fails 0.
+
+Four sentences of it are re-said by more than a word:
+
+- A zone, by the opening's *A 0 is indifferencing.*: a zone is a 0's indifferencing in a self's next direction.
+- The third living 0's hole, as its fuzzying: said, "the fuzzy empty hole".
+- A third cone's direction, as of self now's zone: said, "in the nearly same direction of self now".
+- *Society*, by Natural Naming's dissolved word, as a same-existing-society.
+
+Thirty-seven of its words the chain has not, Exhibit THIRTY's numbered sentences with the opening of Natural Intelligence: each is a place for a naming sentence of the chain. Among them: zone, swath, cone, horizon, hole, fuzzying, atom, me-parity, all-parity, co-me-parity, co-now, bi-now, co-geodesic, triangulating and do-only-harming.
+
+Not yet in it: the sayings of sections 1 to 21.
+
+### Remaining, by the form
+
+The page's opening sentence has three parities and names none of the three. Living, of three: Exhibit ONE Natural Resolver, *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.*; and Natural Intelligence 3.5, *as parities its two together are next as prior and now parting, three round*.
+
+**The three parities are me-parity, other-parity and all-parity.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: a moment is an odd name and then an even name, a co and then a bi, with tri for co with 7 and 15: two of the three with each moment, by Exhibit ONE's names.
+- Its is, incohering: Natural Intelligence 3.5's three round, a prior, a now and their next.
+- Its is-not, needed for resolving: the chain's next from prior and now, two with a moment and their two together the third.
+- Its is-not, incohering: a prior, a now and a next are moments, and the saying has two parities of one moment.
