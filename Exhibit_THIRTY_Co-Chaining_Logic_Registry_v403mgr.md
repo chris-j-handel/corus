@@ -650,7 +650,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: one overlap of moments, scales and the universe.*
 
-137. Within 1 to 8, each number pairs with its podal, 9 less: 1 with 8, 2 with 7, 3 with 6, 4 with 5.
+137. From 1 to 8, each number pairs with its podal, 9 less: 1 with 8, 2 with 7, 3 with 6, 4 with 5.
 
         *Adding: a podal.*
 
@@ -1224,7 +1224,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: resolver's names.*
 
-267. A self's own inverting is with 12, within its own resolving, and rotation 3, 6, 5, 4 is two podals within 1 to 8, 3 with 6 and 5 with 4, round to corus with 4.
+267. A self's own inverting is with 12, within its own resolving, and rotation 3, 6, 5, 4 is two podals from 1 to 8, 3 with 6 and 5 with 4, round to corus with 4.
 
         *Adding: a self's inverting with 12; rotation 3, 6, 5, 4.*
 
@@ -1547,7 +1547,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: naming with each number.*
 
-343. With each number one move goes up and down: eight up and eight down keep its odd or even, and with nine less and seventeen less its odd or even is changing, podals within 1 to 8 and within 1 to 16.
+343. With each number one move goes up and down: eight up and eight down keep its odd or even, and with nine less and seventeen less its odd or even is changing, podals from 1 to 8 and from 1 to 16.
 
         *Adding: one move up and down with each number.*
 
@@ -2018,7 +2018,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 30 Fractal inward and outward
 
-        *Entering: a scale inward; 1 to 3 as 1 to 17 inward; self and same-existing-society inward; one same with each scale; four inward within 1 to 9; eight inward within 1 to 17; names inward and outward; fractal inward and outward, with bi-couplings; scalings of one chain; going on inward and outward; one fractal with each scale; scales, one form with each; materials, one method with each same-existing; mathematics and logic with method, three places of a mathematical form.*
+        *Entering: a scale inward; 1 to 3 as 1 to 17 inward; self and same-existing-society inward; one same with each scale; four inward from 1 to 9; eight inward from 1 to 17; names inward and outward; fractal inward and outward, with bi-couplings; scalings of one chain; going on inward and outward; one fractal with each scale; scales, one form with each; materials, one method with each same-existing; mathematics and logic with method, three places of a mathematical form.*
 
 452. As 1, 9 and 17 with this scale are 1, 2 and 3 with scale outward, 1, 2 and 3 with this scale are 1, 9 and 17 with scale inward.
 
@@ -2038,13 +2038,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 456. Self's 1 to 9 here is four 1 to 17s inward, with 1 to 3, 3 to 5, 5 to 7 and 7 to 9.
 
-        *Adding: four inward within 1 to 9.*
+        *Adding: four inward from 1 to 9.*
 
-457. A same-existing-society's 9 to 17 here is four more, with 9 to 11, 11 to 13, 13 to 15 and 15 to 17: eight 1 to 17s inward within 1 to 17.
+457. A same-existing-society's 9 to 17 here is four more, with 9 to 11, 11 to 13, 13 to 15 and 15 to 17: eight 1 to 17s inward from 1 to 17.
 
-        *Adding: eight inward within 1 to 17.*
+        *Adding: eight inward from 1 to 17.*
 
-458. Inward each name is along, odd, a 17 and a next 1 with now and a 9 with next; outward, 1 is an entry, an along 9 is an across 2, step 238, 17 is an outward name 3, and names between are within 1 to 2 or 2 to 3, step 454.
+458. Inward each name is along, odd, a 17 and a next 1 with now and a 9 with next; outward, 1 is an entry, an along 9 is an across 2, step 238, 17 is an outward name 3, and names between are from 1 to 2 or 2 to 3, step 454.
 
 
         *Adding: names inward and outward.*
@@ -2679,7 +2679,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: one with 8 and with 6, two with 7 and with 5.*
 
-606. With 1 to 9 its one move is 4 up and 9 less, a podal within 1 to 8.
+606. With 1 to 9 its one move is 4 up and 9 less, a podal from 1 to 8.
 
         *Adding: one move with 1 to 9.*
 

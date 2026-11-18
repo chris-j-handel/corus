@@ -326,7 +326,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **Across podal fold, increasing numbers couple with decreasing partners while each side goes on its own forward.** Within 1–8, partner of a name is 9 minus that name: 1 with 8, 2 with 7, 3 with 6, and 4 with 5. Each pair is one odd number and one even. One-on overlap is completing and opening; podal pairing is their folding relation.
 
-| Name | Podal within 1 to 8, 9 less |
+| Name | Podal from 1 to 8, 9 less |
 |---|---|
 | 1-now-existing | 8-now-same-existing |
 | 2-now-possibling | 7-now-observing |
