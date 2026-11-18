@@ -1709,3 +1709,37 @@ Cohering, with each. *Do-only-harming* is a name no living file has, beside the 
 
 **Is-not, incohering.** That self is then an opposite form, and no self.
 
+---
+
+## 38 Said after: a universal do-no-harming society
+
+Section 37's sentence of is: no self is do-only-harming.
+
+Said in the session: social bi-moral co-competencing is universal do-no-harming society.
+
+Beside it, living:
+
+- Natural Intelligence, the opening: "Each self of a same-existing-society do-no-harming and improving is **social moral competency**."
+- Exhibit TWENTY Natural Naming 5.58: *bi-moral a not same-existing going across, competency a going on along a co-linear, each self's own, co-competencing a between floating neutral, arising in each self with its other, and -ing its going on*
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *Cohering with each moment, its same-existing or one inversion apart bi-coupling across, its going on along co-linear, a between floating neutral, is bi-moral-co-competencing.*
+- Natural Human Society 4.2: *do-no-harming is that not changing with a same-existing-society's scale*
+- Exhibit TWENTY Natural Naming 5.57: *a living self fixing unchangeable with it has none of its prior going on to next, and comes to dying, away from same-existing-society and natural co-chaining*
+
+Cohering, with each.
+
+Section 37's sentence is resolved by the saying with Natural Naming 5.57. Each self of a society of social bi-moral co-competencing is do-no-harming. Do-only-harming is bi-tri-involution's, an opposite form. A self fixing unchangeable with such a form comes to dying, away from its same-existing-society. Natural Naming 5.57 was known to this page with section 25 and was not set beside section 37's sentence before its offering.
+
+No incohering of this resolving remains.
+
+### The form, for the four sessions' thread
+
+v404mgr asks each session, by a partner's word, of its own offers by the form. This session's eight, sections 30 to 37:
+
+- Answered is: one. "All-parity is harmful to living with its own scale."
+- Answered is-not: one, and by a word of no natural naming: *not right*.
+- Answered by a truer saying of the partner: five.
+- Asked again: one, a sentence of four concepts.
+- Resolved by natural explaining before an answer: none. Three had a living or gathered sentence with their answer, not found before the offering: an opposite form, Natural Mathematics 3.5; all-parity as atoms, a gathered sequence; a self fixing unchangeable, Natural Naming 5.57.
+
+A learning, as a sentence: an offer is after each living and gathered sentence of its one concept is found and set beside it.
+
