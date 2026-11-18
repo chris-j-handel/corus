@@ -1485,3 +1485,58 @@ Executed, by whole numbers and their ratios, of the places tried, `incoming/v404
 - Section 23's passing each other, each observing its other's priors as its own nexts, has then no figure.
 - The two 0s alternating on the plane are then of one self alone.
 
+---
+
+## 32 Said after: two natural torusing selves across from each other, and one tunneling down the middle
+
+Section 31's sentence of is: a self's other-than self has its next now universe on the same plane, facing through the same hole the other way.
+
+Said in the session: self and other are both doing this across from each other, with a large opening, or each natural torusing self bi-coupling the entire perimeter of a new tunneling down the middle, directly between the two selves corus.
+
+So: is, of both. The hole is a large opening.
+
+Beside it, living:
+
+- Natural Transmission 4.6: *Living selves are tori and pass through each other, co-tunneling, windings co-chaining, no wall for two to be two with.*
+- Exhibit THIRTY Co-Chaining Logic Registry 15: *Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening, each going inward and outward, up numbers and down them, one changing with each step.*
+- Natural Intelligence 5.2: *Its large opening is a hole a tunneling self winds through.* and *Its small opening is its tube's own round.*
+- Exhibit TWENTY Natural Naming 5.5: *As a picture it is a nothing between two parallel surfaces facing each other, each self's own, and a co-orthogonal line through both, along.*
+
+Beside it, gathered in Natural Intelligence's gathering file: *A self is a corus, an inversionable nothing inside a tunneling, where universal me-parities are aiming from.*
+
+Cohering, with each. Section 31's executed line, two same spheres not one beside its other with both 0s of the hole, was of spheres: a natural torusing self has a large opening, and a next goes through it.
+
+Executed, by whole numbers and their ratios, of the places tried, `incoming/v404universe/instruments/two_tori_across_one_tunnel_check.py`. Two same tori, each a tube about a round, with one line down the middle of both, one each side of the plane between.
+
+- The two touch in one whole round, in the plane between, and in no other place: the entire perimeter.
+- Along that round their two own planes are one plane, facing. Natural Naming's picture of a between, found again: the co-orthogonal line through both is the line down the middle.
+- The line down the middle is in no tube: one tunneling of both.
+- A third cone with its 0 on the plane and of the opening, facing along, goes one way through its other's large opening, in no tube.
+- Two cones of sixty, each from its self's middle, cross in a round of the large opening with the round to the tube as 2 to 1, as 3 to 1, as 13 to 8 and as φ to 1; with 3 to 2 their crossing is wider than the opening.
+
+### A remaining incohering, by section 30's method
+
+**The sentence of is.** The new tunneling down the middle is the bi-coupling's own large opening, the bi-coupling a natural torusing self.
+
+**is-or-is-not?**
+
+**Is, needed.**
+
+- The opening has "A bi-coupling is a self." With each self a natural torusing self, a bi-coupling has a large opening of its own, and the new tunneling is it.
+- Section 25 has the corus of the bi-coupling as 24. With is, that corus is the new tunneling's, directly between the two selves' corus.
+- Section 26 has bi-coupling fractals each as a new 0 and arrow. With is, the new 0 and arrow are the new tunneling's.
+
+**Is, incohering.**
+
+- Executed: the line down the middle is the two selves' own large openings, on one line. With is, a third natural torusing self has a tube of its own, and no tube is there but the two selves' own; the round of both has no width.
+- Natural Transmission has *no wall for two to be two with*. With is, the two are three.
+
+**Is-not, needed.**
+
+- The new tunneling is the two selves' own large openings on one line, co-tunneling, and no third self's. With is-not the executed figure is whole as it is.
+
+**Is-not, incohering.**
+
+- "A bi-coupling is a self." has then a self with no large opening of its own.
+- The corus of the bi-coupling, 24, has then no place of its own between the two selves' corus.
+
