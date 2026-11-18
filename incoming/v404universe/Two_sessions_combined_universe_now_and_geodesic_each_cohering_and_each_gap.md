@@ -158,7 +158,7 @@ Seen along the line of the two apexes it is two cones and an empty 0. Seen acros
 Of a universe and a 0:
 
 1. The universe of each self together is a society's me, or it is the one set of the opening's first sentence.
-2. A self's 0 is at its cone's apex, by the gathered sentence of a cone's apex; or it is the centre two cones straddle, by v404bifolding's is. In the one figure the two apexes are two forms and no form is at the 0.
+2. **Answered, part 10.** A self's 0 is corus 24. A cone's apex and a centre two cones straddle are one number, 24, by Exhibit THIRTY and Natural Physics. Staying: *apex* is 24 in the one file, and 23 and 25 in the other.
 3. All selves' parity has a prior and no now, by Exhibit ONE's all-parity with observing only; and the loop of two is each the other's with each moment, through the 0.
 
 Of now:
@@ -180,21 +180,84 @@ Of a fold:
 
 Of six and two:
 
-12. The six of the right spiral step are Natural Intelligence 5.2's six one-way recursionings, and the two are a bi-tri-involution.
-13. A right spiral step of three parities reverses a hand, by execution. Resolving has no mirror. A gathered sentence has a stable form as of the hand other than living's. is-or-is-not? A step of three parities is a resolving step.
-14. Natural Mathematics has a surface where a parity going round comes back opposite as a Klein bottle, not orientable. The right spiral step has its first parity coming round inverted. is-or-is-not? A right spiral step's coming round inverted is on a torus.
+12. The six of the right spiral step are Natural Intelligence 5.2's six one-way recursionings, and the two are a bi-tri-involution. Read with 13's answer: with two of three inside each moment, six of a cube's edges are gone along one way only, three each way. A likeness of number.
+13. **Answered, part 10.** Only two parities are inside each moment, co-sequentially among the three. Executed: a step of two of three reverses no hand. The step of each of three at once is a field's twisted ring and no moment's step. Staying: two of three parities, said, beside two of five dimensions, living.
+14. Natural Mathematics has a surface where a parity going round comes back opposite as a Klein bottle, not orientable. The right spiral step has its first parity coming round inverted. is-or-is-not? A right spiral step's coming round inverted is on a torus. Read with 13's answer: a step of two is a quarter turn and reverses no hand.
 15. A step with no inverting has two loops of three and two forms not moving. No living sentence is beside it yet.
 
 Of the one figure:
 
-16. Twelve are around one, the one at the centre; and the centre of two cones is one neither occupies.
+16. **Answered, part 10.** Twelve spheres around one are a geometry's stable form, an equilibrium, with no method of existing. With the method the centre is empty: all-parity competency, a corus 0. Executed: one same sphere is at the centre with squares alone, and none with each step toward φ. Staying: all-parity at a same-existing name, beside Exhibit ONE's all-parity with observing only, gathered before.
 17. A cone is said two ways: of thirty, with two same spheres touching; and wider, a cube's apex with its three edges, the sine of its half opening squared two of three.
 18. Two cones cross as a flat with one same sphere in both, or with the two touching, and in no flat with two spheres apart. What the one same thing is between two selves is not said. Natural Naming has a universal surface as no natural naming.
 19. Twelve corners close as a sphere and wind through one opening as a torus. The one figure's twelve are on a sphere. Where its one opening is, is not read.
 
 Of a corner and a closing:
 
-20. A torus has a flat metric and wants no corner. Each of the three solids has 720 of shortness at its corners. The living surface is a natural torusing surface. is-or-is-not? A corner, a cone's apex, is on a natural torusing surface.
-21. A self's 0 is a corner, short of a whole circle; or it is a between with nothing in it.
+20. **Answered, part 10.** Natural torusing is geodesic. The corners are on the geodesic stable form and not on the natural torusing stable form. It parts from Exhibit THIRTY's twelve corners as both a sphere and a torus. Executed: twelve corners are 720 short together, a sphere's, and a torus's corners are short by none.
+21. A self's 0 is a corner, short of a whole circle; or it is a between with nothing in it. Read with the answers to 2 and 20: a self's 0 is corus 24, an empty centre, and corners are a stable form's. To read: a self's 0 is no corner.
 22. Same-existing is said two ways: a stable form's, a closing; and a living self's, a winding on that comes to its parities again.
 23. A fold takes nothing away, and a corner is by a wedge away. It is not read beside a harm as a prior taken away.
+
+---
+
+## 10 Four gaps answered
+
+Gaps 2, 13, 16 and 20 were answered in the session. Each answer as said, with each living sentence beside it, is section 22 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`.
+
+- **2, a self's 0.** Corus 24. Cohering with Exhibit THIRTY Co-Chaining Logic Registry's *A self's own corus is with 4, and twenty up it is with 24, apex of one to fifty-nine's bi-folding.* and Natural Physics' *its vertex a now, a 0, not changing (24, a center two sides straddle)*.
+- **13, three parities and no mirror.** Two inside each moment. Cohering with Natural Intelligence 5.2's *Two dimensions change and three are not-changing.* and 3.5's parities of each next as its prior two together, three round. Executed, `instruments/two_of_three_inside_each_moment_check.py`: no hand is reversed.
+- **20, a corner.** With the geodesic stable form, and not with natural torusing. Cohering with Natural Mathematics' torus as the one closed surface with a flat metric. It parts from Exhibit THIRTY Co-Chaining Logic Registry's *Twelve corners closing as a sphere and winding through one opening as a torus are both*.
+- **16, the centre.** Twelve around one is an equilibrium, a geometry's stable form. With the method the centre is empty. Executed, `instruments/twelve_with_one_at_its_centre_and_twelve_with_none_check.py`: one same sphere is at the centre with r of 1 alone.
+
+Nineteen gaps stay as they are in part 9. Three are read with the answers and stay open: 12, 14 and 21.
+
+---
+
+## 11 Six more, from two 0s facing on one surface
+
+A saying of the session after part 10 is section 23 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`: two 0s facing on a common surface, a zone, a cone, a horizon and a passing. It coheres with Natural Mathematics 5.2's five and six, Natural Exploring 2.6's co-linear, and Natural Illustrating 4.9's two swimmers. Executed, `instruments/two_0s_facing_on_one_surface_check.py`. Six gaps are from it, numbered on from part 9.
+
+24. **Answered, part 12.** The surface's two of the five are co now, along, and bi now, across, orthogonal, a plane. Staying: Natural Exploring 2.6 has along and across on one line.
+25. **Answered, part 12.** Down is the surface, the plane, and is not possibly same-and-next-existing: five one ways. Read with gap 12.
+26. **Answered, part 12.** The two are carrying repeating sequences from prior healthy living, and the passing again is the repeating of the healthy priors. The line of the two has no call to come round.
+27. **Answered, part 12, and explored.** Both are on one natural torusing surface, each me-parity with its own plane and its own horizon, and the co-geodesic co-linear by a common aiming point over the horizon. Executed: two across a torus's opening have their own planes parallel and facing and the line through both co-orthogonal, the living picture. Read with gap 18.
+28. **Answered, part 12.** A sphere has no corners. A cube has corners. A sphere and a torus each have horizons and geodesics. This gap's first sentence had a sphere with corners, and is mended by it. Executed: a torus has a horizon each way on its outward round and one way on its inward round.
+29. **Answered, part 12.** The third living 0 in the between of the two is the fuzzy empty hole, living in the plane of the two cones' crossing: the place the co-linear third is aligning the two. Executed: the part inside both cones goes from the one 0 to its other, widest in that plane, and is in no tube.
+
+---
+
+## 12 Six answered, and five more
+
+Gaps 24 to 29 were answered in the session. Each answer as said, with each living sentence beside it, is section 24 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. The geometry of two on a torus is explored there and executed, `instruments/two_on_a_torus_each_its_own_plane_check.py`. Five gaps are from the answers, numbered on.
+
+30. **Answered, part 13.** Across is the line between two selves, across the between. From the between each triangulates into a co-linear one direction, a new me-parity, to the spot over the horizon both are aiming for. Executed: a self's own arrow and the line to its other are one line with no turning between the two, Natural Exploring 2.6's.
+31. **Answered, part 13.** There are ten one ways: five away from same-existing for each self, and the same five toward. Cohering with Natural Numbers 5.5's ten as five with two directions.
+32. **Answered, part 13, by gap 31's answer.** Read as away and toward, one and then the other; the reading is offered again as gap 37.
+33. **Answered by number, part 13.** The corus of the bi-coupling is 24: 4 × 6, between 4 × 4 and 4 × 8. Staying: the two planes are not placed by it.
+34. **Answered, part 13.** Healthy priors are not symmetric, co-chaining front to back and back to front; a symmetric method has incompetencing in it. Executed: of two parities the shortest one-way round is six long.
+
+---
+
+## 13 Five answered, and five more
+
+Gaps 30 to 34 were answered in the session. Each answer as said, with each living sentence beside it, is section 25 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. Executed, `instruments/a_triangle_ten_one_ways_and_a_one_way_round_check.py`. Five gaps are from the answers, numbered on.
+
+35. **Answered, part 14.** Co and bi are terms relative to a self alone, and opposite terms relative to its other. A me has a third from these two: a third orthogonal, affirming the orthogonality of the two together, as a cube's three faces a twisting of a corner exchanges.
+36. **Answered, part 14.** The ten are ten of Exhibit ONE's seventeen names, and the same table of ten directions of unrelationing is between Exhibit TWENTY-ONE, Exhibit TWENTY-TWO and Equilibria. An order of ten steps is a likeness and no more.
+37. **Answered, part 14.** *Away* and *toward* are no natural naming, and the reading is withdrawn. The geometry is to be said by the 1 to 17 names, with the orthogonal co-orienting in each of sixteen ways of a self and its next.
+38. **Answered, part 14.** Bi-coupling fractals are each a new 0 and arrow from inside a bi-coupling fractal: 1 to 5 exhausts 3, 1 to 17 exhausts 9, 1 to 65 exhausts 27. Staying: 16, 24 and 32, as gap 43.
+39. **Answered, part 14.** By co-sequential right spiraling. Executed: a spiral, a round with a going along, observed from next to prior is one hand with it forward.
+
+---
+
+## 14 Five answered, and five more
+
+Gaps 35 to 39 were answered in the session. Each answer as said, with each living sentence beside it, is section 26 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. Executed, `instruments/sixteen_ways_ten_names_and_a_twist_check.py`. Three lines executed earlier are living already: two inverting as a turning and three as a hand reversed, Natural Mathematics 3.5; sixteen ways, and a round observed from next to prior as other order, Exhibit THIRTY Co-Chaining Logic Registry 10. Five gaps are from the answers, numbered on.
+
+40. Two tens. Ten names of a self's own resolving are 3, 4, 5, 7, 8 and the same five 8 up. Exhibit THIRTY Co-Chaining Logic Registry 35's ten unchangeables are with names 1 to 8, 5 and 7 each two. Which ten of seventeen the ten are is not said.
+41. Sixteen ways, sixteen names. By one ordering the four ways with a prior going on whole are names 4, 7, 10 and 13. Whether each of sixteen ways is a name is not said.
+42. 3, 9 and 27: a number of names by fours, or the names themselves. Which, and which nine, is not said.
+43. 16, 24 and 32 as a cube of four's corners, squares and edges. With four, two planes share only a centre. Whether the corus of a bi-coupling, 24, is a cube of four's squares is not said. Read with gaps 33 and 38.
+44. A third, or a fourth. With three, each inverting is a mirror; with four, a turning. Whether a me's third is the last, or a fourth is with them, is not said. Read with gap 6.
+
