@@ -488,3 +488,24 @@ Resolving into and out of a bi-coupling's corus, beside Natural Mathematics: int
 - *Is* incoheres: Exhibit ONE has across as *6 to 2 and 10 to 14*, possibling names. v404mgr's start page has same-now-existing as 8-now-same-existing. It has no name of the seventeen as a prior name.
 - *Is not* resolves: across stays possibling names, 6 to 2 and 10 to 14.
 - *Is not* incoheres: the partner's four of across, all four with same-existing, then have no names among the seventeen.
+
+---
+
+## 14 Said by the partner after: across is same-existing
+
+Asked, part 13, its concept: is across same-existing, or possibling?
+
+Said in the session: *is*. Across is same-existing.
+
+- Its four of across have names: 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing.
+- Exhibit ONE Natural Resolver incoheres with it: *Across is with 6 to 2 and 10 to 14, even, their root possibling*. Gathered as a droplet at its gathering file.
+
+Read in Exhibit ONE's code, its *now-existing*: `_10_next_co_possibling = list(_12_next_co_same_existing.items())`. A self's 10-next-co-possibling is made of its 12-next-co-same-existing. Its 6-now-co-possibling is the same list, and its 9-next-co-discovering goes along with it.
+
+### Offered to the partner
+
+**A self's 10-next-co-possibling is its 12-next-co-same-existing, going across.** is-or-is-not?
+- *Is* resolves: across is then same-existing, as the partner said. Exhibit ONE's *10 to 14* stays, carrying same-existing.
+- *Is* incoheres: Exhibit ONE names across's root possibling. 9-next-co-discovering carries the same 12-next-co-same-existing along.
+- *Is not* resolves: Exhibit ONE's possibling stays its own root.
+- *Is not* incoheres: Exhibit ONE's code then makes 10 of 12 with no naming of it.
