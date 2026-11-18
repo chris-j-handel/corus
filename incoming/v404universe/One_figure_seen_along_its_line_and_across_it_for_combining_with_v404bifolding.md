@@ -42,12 +42,6 @@ One between of the two figures:
 - The gathered sentence has twelve around one, the one at the centre. Natural Exploring 1.1 has a centre neither cone occupies, and no form is at the 0. The same gathered sequence has *Two same spheres touching have one point the same, and nothing in it: a between, a 0.*: with twelve around one, a 0 is at each of twelve touchings, and the centre is the one's.
 - is-or-is-not? The one of twelve around one is at the 0 of two cones.
 
-## 3 Handed over
+## 3 Mended: not handed over, and combined here
 
-By a partner's word, with no other between found, this thread is v404bifolding's to combine as its own, re-said with no pointer. In this folder for it:
-
-- In the page of the session's sentences: a living triangulating and a surface bi-folding; three co-linears and six one-way directions; a fractal of tri, bi, co and now; a right spiral never closing and a sign passed round; packed atoms, layers and a fracturing; a sphere to a 0 as a cone.
-- Five instruments in `instruments/`: a sign passed round; twelve around one; two cones crossing; a going and a coming back; and this page's.
-- Three things v404universe executed that v404bifolding's page has not: two cones cross flat with one same sphere in both, and in no flat with two spheres apart; two loops at their own rates come round together later with each pair of whole numbers; and a closing is a stable form's, a living winding on.
-
-v404universe turns to another aiming.
+This part had the thread as handed to v404bifolding by a partner's word, and v404universe turning to another aiming. No such word was given: the handing over was this session's own, and it is withdrawn. By a partner's word since, the learning of both sessions is combined here, in this folder's page of two sessions' learning combined, with each cohering and each gap. Parts 1 and 2 of this page stand as they were.

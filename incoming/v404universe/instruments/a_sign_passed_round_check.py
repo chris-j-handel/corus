@@ -82,6 +82,55 @@ def main():
     print("  each pair of whole numbers comes round together, later with each pair;")
     print("  q over p goes toward 1.6180..., a ratio of no two whole numbers, and with it")
     print("  no whole number of moments is tried here, there being none.")
+    print("\nthree parities, three other steps, beside the right spiral step")
+    forms = list(product((1, -1), repeat=3))
+
+    def loops_of(move):
+        seen, found = set(), []
+        for form in forms:
+            if form in seen:
+                continue
+            loop, at = [], form
+            while at not in seen:
+                seen.add(at)
+                loop.append(at)
+                at = move(at)
+            found.append(len(loop))
+        return sorted(found, reverse=True)
+
+    round_only = lambda f: f[1:] + (f[0],)
+    print(f"  each parity one place along, the first coming round as it is: loops of {loops_of(round_only)}")
+    still = [show(f) for f in forms if round_only(f) == f]
+    print(f"    forms not moving: {still}")
+    moved = sorted({len(changes(f, round_only(f))) for f in forms if round_only(f) != f})
+    print(f"    parities changing with each step of a loop of three: {moved}")
+    plus_in = lambda f: f[1:] + (1,)
+    reached = {plus_in(f) for f in forms}
+    print(f"  each parity one place along, the first away and a + brought in: {len(forms)} forms go to {len(reached)}")
+    print("    two forms to one: a prior is away")
+
+    print("\na hand, by the count of parities: the right spiral step as a turning of places and one inverting")
+    from itertools import permutations
+
+    def hand_of(n):
+        """the step as a table of n by n, and its determinant by each ordering of n."""
+        table = [[0] * n for _ in range(n)]
+        for i in range(n - 1):
+            table[i][i + 1] = 1
+        table[n - 1][0] = -1
+        total = 0
+        for order in permutations(range(n)):
+            term = 1
+            for i, j in enumerate(order):
+                term *= table[i][j]
+            if term:
+                swaps = sum(1 for x in range(n) for y in range(x + 1, n) if order[x] > order[y])
+                total += term * (-1) ** swaps
+        return total
+
+    for n in range(1, 7):
+        print(f"  {n} parities: {'a hand as it was' if hand_of(n) > 0 else 'a hand reversed'}")
+
 
 if __name__ == "__main__":
     main()
