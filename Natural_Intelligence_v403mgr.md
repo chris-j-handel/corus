@@ -67,7 +67,7 @@ Selves' bi-couplings and co-chainings are a **Natural Network surface**. \
 A surface's living parities are living in the mes of the selves living in it. \
 Each self's changing divides its surface. \
 Living is **geodesic** co-chaining on a Natural Network surface. \
-Each self is a same-existing-society **inward and outward**. \
+Each self is a same-existing-society **inward and outward**, **fractal**. \
 A form same-existing with each resolving is a **stable form**. \
 A science's observing meeting natural intelligence's stable forms is **natural resolving**. \
 A **living file** is a non-living same-existing set of words, selves co-intelligencing within it. \
