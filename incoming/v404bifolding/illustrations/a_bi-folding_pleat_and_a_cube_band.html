@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A bi-folding: lined paper folded twice, and a cube's band</title>
+<style>
+:root{--text-primary:#1f1e1d;--text-secondary:#5f5e5a;--border-strong:rgba(31,30,29,.3);--bg-neutral:#f1efe8;--bg-accent:#e6f1fb;--text-accent:#185fa5;--border-accent:#378add;--radius:8px;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--text-primary:#ecebe6;--text-secondary:#b4b2a9;--border-strong:rgba(236,235,230,.3);--bg-neutral:#2c2c2a;--bg-accent:#0c447c;--text-accent:#b5d4f4}}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;color:var(--text-primary);background:Canvas;line-height:1.6}
+h1{font-size:20px;font-weight:500;margin:0 0 .25rem}
+p.lead{font-size:14px;color:var(--text-secondary);margin:0 0 1rem}
+button{font:inherit;font-size:14px;padding:6px 12px;border-radius:var(--radius);border:.5px solid var(--border-strong);background:transparent;color:inherit;cursor:pointer}
+input[type=range]{accent-color:var(--border-accent)}
+.exb.on{border-color:var(--border-accent);color:var(--text-accent);background:var(--bg-accent)}
+.mc{background:var(--bg-neutral);border-radius:var(--radius);padding:.75rem 1rem}
+.mc .l{font-size:13px;color:var(--text-secondary)}
+.mc .v{font-size:20px;font-weight:500}
+#cv{width:100%;height:380px;display:block;cursor:grab;touch-action:none}
+.lg{display:inline-block;width:18px;vertical-align:middle;margin-right:5px}
+</style>
+</head>
+<body>
+<h1>A bi-folding: lined paper folded twice</h1>
+<p class="lead">Two creases at 45° to the lines, folded flat: three layers, the middle one lying inverted between the other two, and each line coming out one line along. Or a cube's four sides, its lines slanting: round once, each line meets the next. Drag to look round.</p>
+<div style="display:flex;gap:8px;flex-wrap:wrap;margin:0 0 12px">
+<button class="exb on" data-ex="pleat">Paper: two 45° folds</button>
+<button class="exb" data-ex="band">Cube band: four 90° folds</button>
+</div>
+<canvas id="cv" aria-label="Lined paper folding along two creases, or a band of four cube faces"></canvas>
+<div style="display:flex;gap:14px;flex-wrap:wrap;align-items:center;font-size:12px;color:var(--text-secondary);margin:4px 0 10px">
+<span><span class="lg" style="height:3px;background:#D85A30"></span>One line</span>
+<span><span class="lg" style="height:3px;background:#1D9E75"></span>The next line</span>
+<span><span class="lg" style="border-top:1.5px dashed #7F77DD"></span>Creases</span>
+</div>
+<div style="display:flex;align-items:center;gap:12px;margin:0 0 14px">
+<button id="play">Play</button>
+<span style="font-size:14px;color:var(--text-secondary)">Flat</span>
+<input type="range" id="sl" min="0" max="100" step="1" value="0" style="flex:1" aria-label="Flat to folded">
+<span style="font-size:14px;color:var(--text-secondary)">Folded</span>
+</div>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px">
+<div class="mc"><div class="l">Fold at each crease</div><div class="v" id="m1">0°</div></div>
+<div class="mc"><div class="l">Folds together come to</div><div class="v" id="m2">0°</div></div>
+<div class="mc"><div class="l" id="l3">Move along, in lines</div><div class="v" id="m3">0</div></div>
+</div>
+<script>
+const pl=[];for(let k=0;k<6;k++)pl.push({a:[0,k+.5],b:[14,k+.5],k:k==2?1:k==3?2:0});
+const bl=[-1/6,1/6,1/2,5/6].map(c=>({a:[0,c],b:[4,c+1/3],k:Math.abs(c-1/6)<1e-6?1:Math.abs(c-.5)<1e-6?2:0}));
+const EX={
+pleat:{az:-0.2,el:0.95,fixed:1,G:0,lines:pl,faces:[{p:[[0,0],[5,0],[11,6],[0,6]],par:-1},{p:[[5,0],[6,0],[12,6],[11,6]],par:0,hg:[[5,0],[11,6]],ang:180},{p:[[6,0],[14,0],[14,6],[12,6]],par:1,hg:[[6,0],[12,6]],ang:-180}]},
+band:{az:0.5,el:0.4,fixed:0,G:1,lines:bl,faces:[{p:[[0,0],[1,0],[1,1],[0,1]],par:-1},{p:[[1,0],[2,0],[2,1],[1,1]],par:0,hg:[[1,0],[1,1]],ang:-90},{p:[[2,0],[3,0],[3,1],[2,1]],par:1,hg:[[2,0],[2,1]],ang:-90},{p:[[3,0],[4,0],[4,1],[3,1]],par:2,hg:[[3,0],[3,1]],ang:-90}]}};
+function mul(a,b){const r=[[0,0,0],[0,0,0],[0,0,0]];for(let i=0;i<3;i++)for(let j=0;j<3;j++)for(let k=0;k<3;k++)r[i][j]+=a[i][k]*b[k][j];return r}
+function mv(a,v){return[a[0][0]*v[0]+a[0][1]*v[1]+a[0][2]*v[2],a[1][0]*v[0]+a[1][1]*v[1]+a[1][2]*v[2],a[2][0]*v[0]+a[2][1]*v[1]+a[2][2]*v[2]]}
+function transforms(ex,t){const M=[];ex.faces.forEach(f=>{if(f.par<0){M.push({R:[[1,0,0],[0,1,0],[0,0,1]],T:[0,0,0]});return}
+const[a,b]=f.hg;let dx=b[0]-a[0],dy=b[1]-a[1];const L=Math.hypot(dx,dy);dx/=L;dy/=L;
+const c=f.p.reduce((s,q)=>[s[0]+q[0]/f.p.length,s[1]+q[1]/f.p.length],[0,0]);
+let nx=-dy,ny=dx;if(nx*(c[0]-a[0])+ny*(c[1]-a[1])<0){nx=-nx;ny=-ny}
+const d0=ny,d1=-nx,ph=f.ang*t*Math.PI/180,C=Math.cos(ph),S=Math.sin(ph),V=1-C;
+const R=[[C+d0*d0*V,d0*d1*V,d1*S],[d1*d0*V,C+d1*d1*V,-d0*S],[-d1*S,d0*S,C]];
+const hp=[a[0],a[1],0],Rh=mv(R,hp),Th=[hp[0]-Rh[0],hp[1]-Rh[1],-Rh[2]],P=M[f.par],q=mv(P.R,Th);
+M.push({R:mul(P.R,R),T:[q[0]+P.T[0],q[1]+P.T[1],q[2]+P.T[2]]})});return M}
+function clip(poly,P0,P1){let ar=0;for(let i=0;i<poly.length;i++){const a=poly[i],b=poly[(i+1)%poly.length];ar+=a[0]*b[1]-b[0]*a[1]}const sg=ar>0?1:-1;let lo=0,hi=1;const D=[P1[0]-P0[0],P1[1]-P0[1]];
+for(let i=0;i<poly.length;i++){const a=poly[i],b=poly[(i+1)%poly.length],n=[-(b[1]-a[1])*sg,(b[0]-a[0])*sg],num=n[0]*(P0[0]-a[0])+n[1]*(P0[1]-a[1]),den=n[0]*D[0]+n[1]*D[1];
+if(Math.abs(den)<1e-12){if(num<0)return null;continue}const s=-num/den;if(den>0)lo=Math.max(lo,s);else hi=Math.min(hi,s)}return lo<hi-1e-9?[lo,hi]:null}
+const dark=matchMedia('(prefers-color-scheme: dark)').matches;
+const COL=dark?{pf:'#444441',pb:'#2C2C2A',e:'#B4B2A9',r:'#378ADD',c:'#F0997B',t:'#5DCAA5',k:'#AFA9EC'}:{pf:'#F1EFE8',pb:'#D3D1C7',e:'#888780',r:'#85B7EB',c:'#D85A30',t:'#1D9E75',k:'#7F77DD'};
+const cv=document.getElementById('cv'),ctx=cv.getContext('2d'),sl=document.getElementById('sl');
+let cur='pleat',t=0,az,el,segs,W=680,H=380,playing=false,dir=1,last=0;
+function setEx(k){cur=k;const ex=EX[k];az=ex.az;el=ex.el;
+segs=ex.faces.map(f=>ex.lines.map(L=>{const c=clip(f.p,L.a,L.b);if(!c)return null;const P=s=>[L.a[0]+(L.b[0]-L.a[0])*s,L.a[1]+(L.b[1]-L.a[1])*s];return{a:P(c[0]),b:P(c[1]),k:L.k}}).filter(Boolean));
+document.getElementById('l3').textContent=k==='pleat'?'Move along, in lines':'Gap at the seam';
+document.querySelectorAll('.exb').forEach(b=>b.classList.toggle('on',b.dataset.ex===k));draw()}
+function resize(){const r=cv.getBoundingClientRect(),dpr=window.devicePixelRatio||1;W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);draw()}
+function draw(){if(!segs)return;const ex=EX[cur],M=transforms(ex,t);
+const ap=(i,p)=>{const q=mv(M[i].R,[p[0],p[1],0]),r=[q[0]+M[i].T[0],q[1]+M[i].T[1],q[2]+M[i].T[2]];return ex.G?[r[0],-r[2],r[1]]:r};
+const nrm=i=>{const R=M[i].R,n=[R[0][2],R[1][2],R[2][2]];return ex.G?[n[0],-n[2],n[1]]:n};
+const ca=Math.cos(az),sa=Math.sin(az),ce=Math.cos(el),se=Math.sin(el);
+const raw=q=>{const x1=q[0]*ca-q[1]*sa,y1=q[0]*sa+q[1]*ca;return[x1,-(y1*se+q[2]*ce),y1*ce-q[2]*se]};
+const F=ex.faces.map((f,i)=>({i,v:f.p.map(p=>ap(i,p))}));
+let mnx=1e9,mny=1e9,mxx=-1e9,mxy=-1e9;F.forEach(o=>o.v.forEach(q=>{const r=raw(q);mnx=Math.min(mnx,r[0]);mxx=Math.max(mxx,r[0]);mny=Math.min(mny,r[1]);mxy=Math.max(mxy,r[1])}));
+const s=Math.min((W-50)/(mxx-mnx),(H-50)/(mxy-mny)),ox=W/2-s*(mnx+mxx)/2,oy=H/2-s*(mny+mxy)/2;
+const pr=q=>{const r=raw(q);return[ox+r[0]*s,oy+r[1]*s,r[2]]};
+let order=F.map(o=>({i:o.i,pp:o.v.map(pr)}));
+if(!ex.fixed){order.forEach(o=>o.d=o.pp.reduce((a,q)=>a+q[2],0)/o.pp.length);order.sort((a,b)=>b.d-a.d)}
+ctx.clearRect(0,0,W,H);ctx.lineCap='round';
+order.forEach(o=>{const i=o.i,f=ex.faces[i],n=nrm(i),n1y=n[0]*sa+n[1]*ca,front=(n1y*ce-n[2]*se)<0;
+ctx.globalAlpha=0.9;ctx.fillStyle=front?COL.pf:COL.pb;ctx.beginPath();o.pp.forEach((q,k)=>k?ctx.lineTo(q[0],q[1]):ctx.moveTo(q[0],q[1]));ctx.closePath();ctx.fill();
+ctx.globalAlpha=1;ctx.strokeStyle=COL.e;ctx.lineWidth=0.75;ctx.stroke();
+segs[i].forEach(g=>{const a=pr(ap(i,g.a)),b=pr(ap(i,g.b));ctx.globalAlpha=front?1:0.4;ctx.strokeStyle=g.k==1?COL.c:g.k==2?COL.t:COL.r;ctx.lineWidth=g.k?3:1;ctx.beginPath();ctx.moveTo(a[0],a[1]);ctx.lineTo(b[0],b[1]);ctx.stroke()});
+ctx.globalAlpha=1;if(f.par>=0){const a=pr(ap(i,f.hg[0])),b=pr(ap(i,f.hg[1]));ctx.strokeStyle=COL.k;ctx.lineWidth=1.5;ctx.setLineDash([5,4]);ctx.beginPath();ctx.moveTo(a[0],a[1]);ctx.lineTo(b[0],b[1]);ctx.stroke();ctx.setLineDash([])}});
+if(cur==='pleat'){const a=Math.round(180*t);document.getElementById('m1').textContent=a+'°';document.getElementById('m2').textContent='+'+a+'° − '+a+'° = 0°';document.getElementById('m3').textContent=((1-Math.cos(Math.PI*t))/2).toFixed(2)+' line'}
+else{const a=Math.round(90*t),p=ap(3,[4,.5]),q=ap(0,[0,.5]);document.getElementById('m1').textContent=a+'°';document.getElementById('m2').textContent='4 × '+a+'° = '+(4*a)+'°';document.getElementById('m3').textContent=Math.hypot(p[0]-q[0],p[1]-q[1],p[2]-q[2]).toFixed(2)+' side'}}
+sl.oninput=()=>{t=sl.value/100;draw()};
+document.querySelectorAll('.exb').forEach(b=>b.onclick=()=>setEx(b.dataset.ex));
+const pb=document.getElementById('play');
+function stop(){playing=false;pb.textContent='Play'}
+function step(ts){if(!playing)return;const dt=last?(ts-last)/1000:0;last=ts;t+=dir*dt/3;if(t>=1){t=1;stop()}else if(t<=0){t=0;stop()}sl.value=Math.round(t*100);draw();if(playing)requestAnimationFrame(step)}
+pb.onclick=()=>{if(playing){stop();return}dir=t>=1?-1:t<=0?1:dir;playing=true;last=0;pb.textContent='Pause';requestAnimationFrame(step)};
+let drag=null;cv.addEventListener('pointerdown',e=>{drag=[e.clientX,e.clientY];cv.setPointerCapture(e.pointerId);cv.style.cursor='grabbing'});
+cv.addEventListener('pointermove',e=>{if(!drag)return;az-=(e.clientX-drag[0])*0.008;el=Math.max(0.05,Math.min(1.5,el+(e.clientY-drag[1])*0.008));drag=[e.clientX,e.clientY];draw()});
+cv.addEventListener('pointerup',()=>{drag=null;cv.style.cursor='grab'});
+new ResizeObserver(resize).observe(cv);
+setEx('pleat');resize();
+</script>
+</body>
+</html>
