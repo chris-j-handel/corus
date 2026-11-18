@@ -453,3 +453,38 @@ One incohering bi-coupling in it: four selves' and one self's, at the same four 
 - *Is* incoheres: along is a spiral of one, an ingestible prior-existing. Across is the do only harming of bi-tri-involution. One stable-forming is then ingestible along and do only harming across.
 - *Is not* resolves: a stable-forming with a scale stays one side, along or across.
 - *Is not* incoheres: Natural Intelligence's along and Co-Chaining Logic Registry's across then name two stable-formings with one name.
+
+---
+
+## 13 Said by the partner after: is; across; a bi-coupling corus
+
+Said in the session: *is*, to part 12's offered sentence.
+
+Said after it, re-said here:
+
+- Across is no four forms. Across is a sequencing: prior-existing and same-existing; now-existing and same-existing; same-now and same-existing; next and same.
+- At least one 0, and no three, podaling across; all other moments me-parity.
+- It is resolving into and out of a bi-coupling's corus.
+
+Beside it, living:
+
+- Exhibit ONE Natural Resolver: *Existing, discovering and observing are odd. Possibling and same-existing are even.* Its four-cyclings' same-existing names are 4, 8, 12 and 16.
+- Natural Mathematics: *Corusing reaches corus from surface, and torusing reaches surface from corus, co-linear by linear parallelizing and parallel linearizing, one and then the other, each step orthogonal to its prior.*
+- Natural Naming: *Couplings wind about a nothing: bounding-zeroing, tunneling, apexing, corusing, nothing reaching it.*
+
+Read with Exhibit ONE's code, all or none:
+
+- A four-cycling with two 0s podal across, its other moments me-parity, is +1 0 +1 0: a spiral of one, a chain, a self ingesting spirals of one with a living 0.
+- A four-cycling with one 0, its other moments me-parity, is +1 +1 +1 0. By the instrument's 14, no self of one or two selves comes to it, with 9, 10 and 6 laid all ways. Three selves, laid 0 to 1 with 10, 1 to itself with 9 and to 2 with 10, 2 to 0 with 9 and to itself with 10, opening + + −, all come to it.
+- A four-cycling with no 0 is +1 +1 +1 +1: do only harming.
+- The partner's two forms of a living 0 are then both in Exhibit ONE's code.
+
+Resolving into and out of a bi-coupling's corus, beside Natural Mathematics: into the corus is corusing, and out of it is torusing, one and then the other.
+
+### Offered to the partner
+
+**Across is the four same-existing names in sequencing: 4-now-co-same-existing, prior and same; 8-now-same-existing, now and same; 12-next-co-same-existing, same now and same; 16-next-same-existing, next and same.** is-or-is-not?
+- *Is* resolves: Exhibit ONE has same-existing even, and across even. In Exhibit ONE's code, 4-now-co-same-existing is with a prior of 3-now-co-observing. 8-now-same-existing is a self's priors after its now-existing. 12-next-co-same-existing's 0 is prior and now agreeing. 16-next-same-existing is a same-existing-society, into 17-next-existing.
+- *Is* incoheres: Exhibit ONE has across as *6 to 2 and 10 to 14*, possibling names. v404mgr's start page has same-now-existing as 8-now-same-existing. It has no name of the seventeen as a prior name.
+- *Is not* resolves: across stays possibling names, 6 to 2 and 10 to 14.
+- *Is not* incoheres: the partner's four of across, all four with same-existing, then have no names among the seventeen.

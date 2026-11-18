@@ -252,6 +252,32 @@ def harm_at_one_sharing():
             and all(ingesting_at_sharings([("P0", "x")], (j,), ["x"]) == {"living 0"} for j in range(4)))
 
 
+def three_me_parities_and_one_living_0():
+    """+1 +1 +1 0 as a four-cycling: with one or two selves, 9, 10 and 6 laid all ways, all openings, none;
+    with three selves, one laying of 9 and 10 brings it to all three."""
+    def comes(n, routes, opening):
+        soc = {i: ([(K, opening[i])], []) for i in range(n)}
+        seqs = [[opening[i]] for i in range(n)]
+        for _ in range(56):
+            soc = NEXT(soc, routes)
+            for i in range(n):
+                seqs[i].append(prior(soc, i))
+        found = []
+        for i in range(n):
+            s = steps_of(seqs[i][28:])
+            found.append(all(s[j] == s[j + 4] for j in range(len(s) - 4)) and sorted(s[:4]) == [0, 1, 1, 1])
+        return found
+    for n in (1, 2):
+        slots = [(s, r) for s in range(n) for r in (9, 10, 6)]
+        for assign in itertools.product([None] + list(range(n)), repeat=len(slots)):
+            routes = {slot: to for slot, to in zip(slots, assign) if to is not None}
+            for opening in itertools.product((1, -1), repeat=n):
+                if any(comes(n, routes, opening)):
+                    return False
+    three = {(0, 10): 1, (1, 9): 1, (1, 10): 2, (2, 9): 0, (2, 10): 2}
+    return all(comes(3, three, (1, 1, -1)))
+
+
 def two_both_ways(same_as):
     routes = {(0, 6): 1, (1, 6): 0}
     soc = {0: ([(K, 1)], []), 1: ([(K, 1 if same_as else -1)], [])}
@@ -296,3 +322,5 @@ say("12. Exhibit ONE's spiral of selves, with two or four selves, has openings o
     a_spiral_of_selves_and_its_living_0())
 say("13. Spirals of one at all four joint forms, at one 4-now-co-same-existing of an ingesting self, bring it no living 0; at four of its 4-now-co-same-existings, held by four selves or by one self, and one spiral of one at one, a living 0 at all of them",
     harm_at_one_sharing())
+say("14. With one or two selves, 9, 10 and 6 laid all ways, no self comes to +1 +1 +1 0; with three selves, laid 0 to 1 with 10, 1 to itself with 9 and to 2 with 10, 2 to 0 with 9 and to itself with 10, opening + + -, all three come to it",
+    three_me_parities_and_one_living_0())
