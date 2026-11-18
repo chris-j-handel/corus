@@ -17,6 +17,8 @@ Gathering-Value · Natural Chemistry
 - **Possible incohering** · "Co-Chaining Selves Traveling Stable Societies" → Co-Chaining Selves Same-Existing as Stable Societies. *Travelling* is released at Natural Naming, said *going on, same-existing*; this file's own sentence holds "Chemistry's selves are same-existing-societies and its same-existing-societies are selves."
 - **Possible exploring** · A field's open question: with some rearrangings of organic molecules by warmth alone, between 250 and 350 kelvin, a tunnelling of a carbon atom is or is not a measurable share of the rate. Its marks are a lighter carbon reacting faster than a field's rate theory gives, and a rate bending from a straight line against inverse temperature.
 - **Possible exploring** · Zinc and iron in water exchange which of the two is eaten: zinc below about 60 degrees and iron above. Two metals' roles inverting with warmth.
+- **Possible exploring** · A field parts two orderings of one giving of an electron pair: by rates, and by the place of an equilibrium. One same molecule ranks differently by each.
+- **Possible exploring** · Hydrogen's molecule is of two forms by its two nuclear spins, alike or opposite, three to one with room warmth. The form with spins alike is higher by 1.455 kJ a mole, and its going to the other gives out heat enough to boil liquid hydrogen.
 
 ## Opening
 
@@ -123,6 +125,8 @@ Gathering-Value · Natural Chemistry
 - **An explaining** · With weight relational, carbon is a relational reference and not a weight, the declaration and the observed forms pointing to one carbon, a carbon atom.
 - **Possible exploring** · A field's spectroscopy of surfaces references each peak to the carbon peak of the carbon a surface gathers from air, as a fixed zero. That peak shifts with the surface's work function, by about an electronvolt, and a field's own survey finds errors in about 40 of 100 papers fitting peaks. A reference a field fixes is changing with its surface.
 - **Possible exploring** · One element's pull on a shared pair has many values by a field's scales, boron from 1.5 to 2.3 by nine of them, each scale with its own chosen reference. A field's scale of rates is anchored on one acid's parting in water with 25 degrees, and a field names that relation empirical. Each ranking is with its chosen reference set.
+- **Possible exploring** · Two forms of one molecule differing by a hindered turning about one bond are two things for a field only with each lasting 1000 seconds or more: two hands by a threshold of time a field chooses.
+- **Possible exploring** · A field's entropy of a solid with 0 kelvin is zero by a field's own choosing, and its theorem is re-said as 0 kelvin reached by no finite steps: a rest no cooling reaches.
 
 ### 1.4 A molecule's own sharing a coupling across, and two selves' parities releasing, the 0 between them going across
 
@@ -135,6 +139,7 @@ Gathering-Value · Natural Chemistry
 - **An explaining** · A concern, both sides open, at 1.4's own sharing: the two sides of a molecule's own sharing are two selves, the molecule's living parities, each on its side of a between, keeping 1.4's paragraphs whole with *each parity is a self while it is living*; or a molecule's own sharing is one self's stable form, two selves sharing only where molecules bi-couple, 1.4's two paragraphs re-said together.
 - **Possible incohering** · "Two selves are a single bi-coupling, each on its own side of a between, as far apart as coupling reaches, **each its other's far side and neither its own**, its parity releasing at its 9-next-co-discovering and going along at its other's 17-next-existing." → A re-saying: *Two selves, a molecule's living parities, stay with that molecule's own sharing, each on its own side of a between,*. Its reasons: with atoms non-living, the two sides within a molecule are only the molecule's living parities, each parity a self while it is living, as Natural Intelligence 4.13 has *Its living parities are selves inward*; and said as a bi-coupling, the sentence puts chaining, molecules together, into a paragraph of tunnelling's exact opposite inside one molecule.
 - **Possible exploring** · A field measures a coupling of two nuclear spins across a hydrogen bond: between the two nitrogens of a base pair, some 6 to 7 hertz, and from an amide hydrogen to a carbonyl carbon in a protein, under one hertz. A hydrogen bond, by a field's earlier account an attraction of charges with nothing shared, has a sharing measured across it.
+- **Possible exploring** · A proton beside one other proton shows two lines, each the same distance either side of its own centre, 3.5 hertz each way with a coupling of 7, and the same with each strength of a field's magnet.
 
 ### 1.5 Equilibrium's own definition with both sides, and two flows at one letterform
 
@@ -277,6 +282,8 @@ Gathering-Value · Natural Chemistry
 - **Possible exploring** · D and L name a configuration at one atom against glyceraldehyde and are-not a spiral's hand; L-amino acids and D-sugars are two chiral building blocks and are-not one left and one right spiral. Glyceraldehyde, an amino acid and a sugar each is-not a carbon atom, each a molecule with carbon atoms in it. — at "R and S are assigned by priority about a centre, D and L by reference to glyceraldehyde, (+) and (−) by sign of optical rotation, and no one of three derives from another: L-alanine is (S) while L-cysteine is (R), sulfur taking priority, and rotation's sign follows from neither label."
 - **Possible incohering** · "A living substrate's recurring pattern-matching hand is Natural Biology's; here observing stays with chemical between, where two hands reach each its own coupling." → A re-saying, *stays* an equilibria word, *stands* in its place: A living substrate's recurring pattern-matching hand is Natural Biology's; here observing stands with chemical between, where two hands reach each its own coupling.
 - **Possible exploring** · A sugar ring has two forms differing with one carbon, the ring's closing carbon. Each alone in water turns light by its own angle, +112.2 and +18.7 degrees with glucose, and each goes to one same mixture turning +52.7 degrees, about 36 of one to 64 of the other, through the ring opening to a chain and closing again. Two hands of one centre, each becoming the other through an opening, floating about one ratio.
+- **Possible exploring** · Ammonia inverts through a flat form about 3 × 10¹⁰ times a second with room warmth, a tunnelling adding about 80-fold, and an amine with three unlike groups is of two hands, each becoming the other by it.
+- **Possible exploring** · A mould in a mixture of two hands of tartrate consumed one hand, the other going on unconsumed: a field's first parting of hands by rates, 1858. By rates alone one of each two is the most recovered, unless the hands interchange while one is consumed.
 
 ### 2.3 A parity-violating lean, and a bounding-zeroing refusing to sit
 
@@ -353,6 +360,8 @@ Gathering-Value · Natural Chemistry
 - **Possible incohering** · "Decibels, stellar magnitudes and some seismological scales compress wide numerical ranges, Boltzmann and Shannon entropies use logarithms within mathematical objects of their own, and **a common logarithmic form has a pattern going across** while each definition, dimension and empirical use stays with its field." → A re-saying, *stays* an equilibria word, *stands* in its place: Decibels, stellar magnitudes and some seismological scales compress wide numerical ranges, Boltzmann and Shannon entropies use logarithms within mathematical objects of their own, and **a common logarithmic form has a pattern going across** while each definition, dimension and empirical use stands with its field.
 - **An explaining** · A concern, both sides open, at the bold *A living self sustains a pH range of its own with each membrane*: its *membrane* is a cell's own membrane, and *each between*, following the dissolved words, widens the claim.
 - **Possible exploring** · Water between two walls about one nanometre apart measures a dielectric constant of about 2, against about 80 for water among water: water beside a surface answers a field's charge far less than water in bulk.
+- **Possible exploring** · A field's neutral point of water is no one number: it is pKw divided by two, about 7.47 with 0 degrees and about 6.13 with 100, each neutral, as many of one ion as of the other. A neutral moving with warmth: a centre between two, and no fixed value.
+- **Possible exploring** · With a hydrogen bond the stretching of the bonded hydrogen slows, its proton's line moves, to about 15.5 parts per million with one enol, and its distances are shorter than two atoms touching.
 
 ### 4.2 Water's two liquids a sway a field fixes to a point, and a glass with rate and history
 
@@ -396,6 +405,7 @@ Gathering-Value · Natural Chemistry
 ### 4.5 Sixty and one hundred twenty at couplings, the closings chemistry has
 
 - **An explaining** · The twelve is geometry's: any closed cage of five- and six-rings with three couplings at each corner has exactly twelve fives, a football too, so the twelve is the form's and carbon is where chemistry observes it. A fullerene is many carbon atoms and is-not a carbon atom, and a football is-not a carbon atom.
+- **Possible incohering** · "five levels close with one hundred twenty (6.3); ring closing with one hundred twenty; turn with sixty" → *Close*, *ring* and *turn* are dissolved words of Exhibit TWENTY Natural Naming, and a closing said as a form is an equilibrium entering the explaining. Two sides open: each re-said by its own saying in Exhibit TWENTY Natural Naming; or each going on as a field's words of a table.
 
 ### 4.6 A straddle about twenty-eight, and cobalt-59 at one nuclide
 
@@ -446,6 +456,7 @@ Gathering-Value · Natural Chemistry
 - **An explaining** · An anticipated observing: palladium's cycle in that oxidation going on only within copper's and copper's within oxygen's, and rhodium and iridium carbonylation cycles going on within an iodide cycle, hydrogen iodide turning methanol back into methyl iodide. Industrial catalytic cycles nest, each catalyst there coming again with other cycles going on beside it.
 - **Possible exploring** · A field's light-driven rotary motor is one molecule turning one way about a double bond. Each whole turn is four steps: two by light, each inverting the molecule about that bond, and two by warmth, each inverting its helix and closing the way back. Two inversions of one kind and two of an other, one and then the other, and a turning one way only. A first chemically driven motor of that same year turned a third of a turn and did not repeat.
 - **Possible exploring** · A chemically fuelled rotary motor completes each part of a turn in about 85 of 100 tries and spends about 6.7 fuel molecules a turn against 2 with none wasted. A field measures its shortfall as cycles going round with no turning.
+- **Possible exploring** · Chemistry writes a thing going on changing by a flow as a cycle with its forward and reverse legs differing chemically, its ratio round the cycle other than one: with one fuelled assembly about 1.6 × 10¹⁰, some 58 kJ a mole.
 
 ### 5.2 Catalysis competency arising at the coupling, going on to its own bound
 

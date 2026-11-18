@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>An ant on a cube: a path over an edge, and two paths past a corner</title>
+<style>
+:root{--text-primary:#1f1e1d;--text-secondary:#5f5e5a;--t:#888780;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--text-primary:#ecebe6;--text-secondary:#b4b2a9;--t:#b4b2a9}}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;color:var(--text-primary);background:Canvas;line-height:1.6}
+h1{font-size:20px;font-weight:500;margin:0 0 .25rem}
+p{font-size:14px;color:var(--text-secondary);margin:0 0 1rem}
+svg{display:block;margin:0 0 2rem}
+.ts{font:12px system-ui,sans-serif;fill:var(--text-secondary)}
+.th{font:500 14px system-ui,sans-serif;fill:var(--text-primary)}
+.leader{stroke:var(--t);stroke-width:.5;stroke-dasharray:3 3;fill:none}
+.arr{stroke:var(--t);stroke-width:1.5;fill:none}
+</style>
+</head>
+<body>
+<h1>An ant on a cube</h1>
+<p>A path over an edge looks bent on the cube. Cut the cube open along other edges and lay it flat, and the same path is one straight line: the two purple squares are the same two faces.</p>
+<svg width="100%" viewBox="0 0 680 370" role="img"><title>A cube and its net with the same path drawn on both</title><desc>On the cube, a path crosses from the front face over an edge onto the top face and looks bent. On the flattened net of six squares, the same path is a single straight line through the front and top squares.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<polygon points="230,150 290,100 290,240 230,290" fill="#888780" fill-opacity="0.15" stroke="#888780" stroke-width="0.75"/>
+<polygon points="90,150 150,100 290,100 230,150" fill="#7F77DD" fill-opacity="0.3" stroke="#7F77DD" stroke-width="0.75"/>
+<polygon points="90,150 230,150 230,290 90,290" fill="#7F77DD" fill-opacity="0.2" stroke="#7F77DD" stroke-width="0.75"/>
+<path d="M130 260 L180 150 L250.7 121.4" fill="none" stroke="#D85A30" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="130" cy="260" r="4" fill="#D85A30"/>
+<circle cx="250.7" cy="121.4" r="4" fill="#D85A30"/>
+<text class="ts" x="260" y="195" text-anchor="middle" dominant-baseline="central">Face</text>
+<line class="leader" x1="110" y1="150" x2="76" y2="128"/>
+<text class="ts" x="40" y="124" dominant-baseline="central">Edge</text>
+<line class="leader" x1="290" y1="100" x2="308" y2="84"/>
+<circle cx="290" cy="100" r="2" fill="var(--t)"/>
+<text class="ts" x="312" y="78" dominant-baseline="central">Corner</text>
+<line x1="322" y1="195" x2="380" y2="195" class="arr" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text class="ts" x="351" y="180" text-anchor="middle" dominant-baseline="central">unfold</text>
+<text class="ts" x="351" y="211" text-anchor="middle" dominant-baseline="central">fold</text>
+<rect x="460" y="60" width="60" height="60" fill="#7F77DD" fill-opacity="0.3" stroke="#7F77DD" stroke-width="0.75"/>
+<rect x="460" y="120" width="60" height="60" fill="#7F77DD" fill-opacity="0.2" stroke="#7F77DD" stroke-width="0.75"/>
+<rect x="400" y="120" width="60" height="60" fill="#888780" fill-opacity="0.15" stroke="#888780" stroke-width="0.75"/>
+<rect x="520" y="120" width="60" height="60" fill="#888780" fill-opacity="0.15" stroke="#888780" stroke-width="0.75"/>
+<rect x="460" y="180" width="60" height="60" fill="#888780" fill-opacity="0.15" stroke="#888780" stroke-width="0.75"/>
+<rect x="460" y="240" width="60" height="60" fill="#888780" fill-opacity="0.15" stroke="#888780" stroke-width="0.75"/>
+<line x1="477.1" y1="167.1" x2="514.2" y2="85.7" stroke="#D85A30" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="477.1" cy="167.1" r="4" fill="#D85A30"/>
+<circle cx="514.2" cy="85.7" r="4" fill="#D85A30"/>
+<text class="th" x="190" y="322" text-anchor="middle" dominant-baseline="central">Cube</text>
+<text class="ts" x="190" y="342" text-anchor="middle" dominant-baseline="central">Path looks bent at the edge</text>
+<text class="th" x="490" y="322" text-anchor="middle" dominant-baseline="central">Net (flattened cube)</text>
+<text class="ts" x="490" y="342" text-anchor="middle" dominant-baseline="central">Same path is one straight line</text>
+</svg>
+<p>Two ants walk side by side, each walking straight. One passes the corner on the top, one on the front, and on the side face their paths cross at 90°. Laid flat round the corner, its three squares meet at 270°: the corner is a cone's apex, 90 short of a whole circle, and that shortness is the one thing of the cube's whole an ant can find at a place.</p>
+<svg width="100%" viewBox="0 0 680 370" role="img"><title>Two parallel ants pass on opposite sides of a cube corner and their paths cross</title><desc>Left: a cube with two ant paths that start parallel and cross at right angles on the right face. Right: the three squares around the corner laid flat leave a missing 90 degree gap.</desc>
+<defs><marker id="arrow2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<polygon points="210,140 280,85 280,235 210,290" fill="#888780" fill-opacity="0.2" stroke="#888780" stroke-width="0.75"/>
+<polygon points="60,140 130,85 280,85 210,140" fill="#888780" fill-opacity="0.12" stroke="#888780" stroke-width="0.75"/>
+<polygon points="60,140 210,140 210,290 60,290" fill="#888780" fill-opacity="0.07" stroke="#888780" stroke-width="0.75"/>
+<path d="M125.5 118 L238 118 L238 253" fill="none" stroke="#D85A30" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#arrow2)"/>
+<path d="M75 200 L210 200 L273 150.5" fill="none" stroke="#1D9E75" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#arrow2)"/>
+<circle cx="125.5" cy="118" r="4" fill="#D85A30"/>
+<circle cx="75" cy="200" r="4" fill="#1D9E75"/>
+<circle cx="238" cy="178" r="6" fill="none" stroke="var(--t)" stroke-width="1"/>
+<circle cx="210" cy="140" r="3.5" fill="var(--t)"/>
+<text class="ts" x="150" y="103" text-anchor="middle" dominant-baseline="central">Ant 1</text>
+<text class="ts" x="110" y="218" text-anchor="middle" dominant-baseline="central">Ant 2</text>
+<text class="ts" x="203" y="157" text-anchor="end" dominant-baseline="central">Corner</text>
+<line class="leader" x1="245" y1="178" x2="290" y2="178"/>
+<text class="ts" x="294" y="178" dominant-baseline="central">Paths cross</text>
+<rect x="430" y="80" width="90" height="90" fill="#888780" fill-opacity="0.12" stroke="#888780" stroke-width="0.75"/>
+<rect x="520" y="80" width="90" height="90" fill="#888780" fill-opacity="0.2" stroke="#888780" stroke-width="0.75"/>
+<rect x="430" y="170" width="90" height="90" fill="#888780" fill-opacity="0.07" stroke="#888780" stroke-width="0.75"/>
+<rect x="520" y="170" width="90" height="90" fill="none" stroke="#888780" stroke-width="0.75" stroke-dasharray="4 3"/>
+<circle cx="520" cy="170" r="3.5" fill="var(--t)"/>
+<text class="ts" x="498" y="148" text-anchor="middle" dominant-baseline="central">90°</text>
+<text class="ts" x="542" y="148" text-anchor="middle" dominant-baseline="central">90°</text>
+<text class="ts" x="498" y="192" text-anchor="middle" dominant-baseline="central">90°</text>
+<text class="ts" x="565" y="215" text-anchor="middle" dominant-baseline="central">Missing 90°</text>
+<text class="th" x="170" y="320" text-anchor="middle" dominant-baseline="central">On the cube</text>
+<text class="ts" x="170" y="340" text-anchor="middle" dominant-baseline="central">Start parallel, end up crossing</text>
+<text class="th" x="520" y="320" text-anchor="middle" dominant-baseline="central">Flattened around the corner</text>
+<text class="ts" x="520" y="340" text-anchor="middle" dominant-baseline="central">Only 270° fit, so a gap opens</text>
+</svg>
+</body>
+</html>

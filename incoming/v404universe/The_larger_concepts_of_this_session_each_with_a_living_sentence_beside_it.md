@@ -119,7 +119,7 @@ An attacking form within a network, readers aiming to break a sentence, and a wa
 - Exhibit TWENTY Natural Naming 5.46: *A stable form is harmful to living of its own scale, and not ingestible with that scale*
 - Exhibit TWENTY-FOUR Geodesic Improving Method 2.3: *a close finding nothing open reaches a fresh reader aiming to break it*
 
-Where it stands: living, for the form. Open: a name for it, a candidate in six lines, and a reading of Natural Medicine and Natural Health for sentences a reader might act on for their own body.
+Where it stands: living, for the form. Open: a name for it, and a candidate in six lines. Mended: this line had a reading of Natural Medicine and Natural Health for a reader's own body. No warning is carried, of any kind: Exhibit TWENTY-THREE Natural Values has *A coupling value a self assigns to a non-self is an error, and a warning is its smallest unit.*
 
 ## 14 The work's own method
 
