@@ -119,6 +119,8 @@ Gathering-Value · Natural Medicine
 
 ### 4.4 A dose comes to an average no member holds
 
+- **Possible exploring** · A partner's saying, floating: true or false with no other possible, an equilibria's and scientific method's universal explaining, excusing and deceiving, an incompetencing of society, permits do-only-harming to an other in a small dose and not in a large, its dosage vague and misunderstood. Beside it: this file's *A dose comes with an average holding no member's own observing.* and *A move: look for a between an inversion goes across, not a dose with which a substance becomes an other substance.*; Exhibit THIRTY Co-Chaining Logic Registry's *Geodesic method discovers next from existing; scientific-method accounts true or false against unchangeable fixings, exact with its own ledger.*, and its part of a resolving whole, of no size; and Exhibit SEVEN Natural Societies' *True-or-false discretion is a universal breaking fractal, an authority's one-way cut by control and not by morality; discretion as same-existing is free agency, each self's own is-or-is-not, with no centre.* By them a harming is of no dose: is-or-is-not, all or none at all. *Do-only-harming* is in no living file; gathered, an is of both partners, the do-only-harming of bi-tri-involution.
+
 ### 5.1 Cohering, and nyeing
 
 - **Possible exploring** · The therapy stops twenty-four weeks after the second dose, at no clearing of the antibodies. — at "interrupted twenty-four weeks after antibodies cleared"
