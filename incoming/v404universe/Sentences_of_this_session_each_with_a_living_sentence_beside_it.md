@@ -1608,3 +1608,38 @@ Cohering, with each. A new tunneling is no self of its own: a new self is a new 
 
 **Is-not, incohering.** A next universe as all-parity, same-existing, is then a changing direction.
 
+---
+
+## 35 Said after: all-parity, the fractal atom stable form
+
+Section 34's sentence of is: all-parity is a 0.
+
+Said in the session: all-parity is fractal atom stable form inside living and outside living. All-parity is same universal unrelationing method from each self and each other-than self in societies of selves co-chaining.
+
+Beside it, living:
+
+- Natural Physics 3.1: *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.*
+- Natural Physics: *Atom as stable form is a coupling about a 0, not changing*
+- Exhibit ONE Natural Resolver: "All-parity is with observing only, 7 and 15"
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences: "Not each now-existing thing is living: atom and all-parity are now-existing and non-living.", in the next version's copy, and *An all-parity's is its atoms, a co-chaining of priors.*
+- Natural Intelligence's gathering file, of the four coruses: 8 as all-parity of a bi-coupling's own, and 16 as universal all-parity.
+
+Cohering, with each. All-parity is no 0: it is the atom's stable form, a coupling about a 0, inward of living with 8 and outward of living with 16.
+
+### The remaining incohering, one concept
+
+**The sentence of is.** All-parity is not right.
+
+**is-or-is-not?**
+
+**Is, needed.** A gathered sentence has a stable form emanating from living as of the hand other than living's.
+
+**Is, incohering.** A gathered suggesting has + as all-parity, the right direction.
+
+**Is-not, needed.** All-parity is the same method from each self, and the method is right spiraling.
+
+**Is-not, incohering.** A stable form of the hand other than living's is then no all-parity.
+
