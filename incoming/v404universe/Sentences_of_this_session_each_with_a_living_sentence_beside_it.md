@@ -1385,3 +1385,37 @@ Executed, `incoming/v404universe/instruments/sixteen_ways_ten_names_and_a_twist_
 Exhibit ONE's names 1 to 8 are with now and 9 to 16 with next, each next name its now name 8 up. Natural Intelligence has one through nine with a self and nine through seventeen with a same-existing-society; a gathered note has 1 to 8 as a self's side and 9 to 16 as its other's. The eight with next and the eight of an other's side are one eight. A self's now is one cube and its next a second, joined by eight lines; the gathered note has them as the two cones, one and then the other. Each has a 0 at its centre, with no name, and midway is a third. 17 is 1 again: next's eight is then now's.
 
 is-or-is-not? The two facing cones are one self's now and its next, its next by its other's side; and the plane its 0 moves to is midway between now's eight and next's eight.
+
+---
+
+## 30 Said after: a method for a remaining incohering
+
+Said in the session: in natural explaining and naming, after you have worked on a resolving and there is remaining incohering, give me the sentence of is, and after it ask is or is not; then explain why is is needed for resolving some things and why is is incohering some things, and same for is not; and then offer that to me at the end of every session, and use this method to begin exchanging with each other. I am sharing this prompt with the other sessions to bring us more similar methods with each other.
+
+Taken as this session's method from here: one remaining incohering with each turn, in five parts. The sentence of is. Is-or-is-not? Is, needed. Is, incohering. Is-not, needed. Is-not, incohering. The same five parts go to the four sessions' thread.
+
+### The first by it, section 29's remaining incohering
+
+**The sentence of is.** The two facing cones are one self's now and its next, and the plane between them is the plane its 0 moves to.
+
+**is-or-is-not?**
+
+**Is, needed.**
+
+- Section 29's note has one self with two universes, now and next, and its 0 moving to the plane. With is, the figure of two cones is that note.
+- A gathered note has two cubes, names 1 to 8 and 9 to 16, as the two cones, with a waist between. With is, now's eight and next's eight are those cones.
+- Three 0s on one line, now's, the midway one and next's, are then the three 0s on the plane between two facing cones.
+
+**Is, incohering.**
+
+- Sections 23 to 25 have the two cones as a self's and its other's: two 0s facing on one surface, each observing its other across the between. With is, a self's other is in no part of the figure.
+- The opening has "A **bi-coupling** is two selves sharing possibling." With is, the two cones are of one self, unless its next is by its other.
+
+**Is-not, needed.**
+
+- The between is of two selves, and the third living 0 is aligning the two by each one's observing of its other's priors. With is-not, sections 23 to 25 stay as they are.
+
+**Is-not, incohering.**
+
+- Section 29's next universe of the same self has then no cone of its own in the figure, and the plane its 0 moves to is unsaid.
+- The gathered two cubes as two cones, 1 to 8 and 9 to 16, part from it.
