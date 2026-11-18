@@ -63,8 +63,8 @@ A same-existing-society of selves living with natural intelligence and social mo
 A natural intelligence network, each self resolving its own next-existing, is **free**. \
 Each self sharing with each self it is bi-coupling with, a free natural intelligence network is **social abundancing**. \
 A self's parity going along to the next self it is bi-coupling with is **co-chaining**. \
-Selves' bi-couplings and co-chainings are a **Natural Network surface**. \
-A surface's living parities are living in the mes of the selves living in it. \
+Selves' bi-couplings and co-chainings are on a **Natural Network surface**, non-living at the scale of the selves living on it. \
+The living parities on a surface are living in the mes of the selves living on it. \
 Each self's changing divides its surface. \
 Living is **geodesic** co-chaining on a Natural Network surface. \
 Each self is a same-existing-society **inward and outward**, **fractal**. \

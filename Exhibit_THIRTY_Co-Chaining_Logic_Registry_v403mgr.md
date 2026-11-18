@@ -275,7 +275,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 4 Social moral competency, a natural intelligence network and a living expedition
 
-        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a Natural Network surface; a surface's living parities in its selves' universal sets; each self's changing dividing its surface; geodesic; inward and outward, fractal; a stable form; natural resolving; a living file, a non-living same-existing set of words, selves co-intelligencing with it; natural resolving, a living file's inward; natural engineering; natural explaining, the dividing of a living file; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
+        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a Natural Network surface, non-living at its selves' scale; the living parities on a surface, in its selves' universal sets; each self's changing dividing its surface; geodesic; inward and outward, fractal; a stable form; natural resolving; a living file, a non-living same-existing set of words, selves co-intelligencing with it; natural resolving, a living file's inward; natural engineering; natural explaining, the dividing of a living file; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
 
 52. Each self of a same-existing-society do-no-harming and improving is **social moral competency**.
 
@@ -297,13 +297,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: co-chaining.*
 
-57. Selves' bi-couplings and co-chainings are a **Natural Network surface**.
+57. Selves' bi-couplings and co-chainings are on a **Natural Network surface**, non-living at the scale of the selves living on it.
 
-        *Adding: a Natural Network surface.*
+        *Adding: a Natural Network surface, non-living at its selves' scale.*
 
-58. A surface's living parities are living in the mes of the selves living in it.
+58. The living parities on a surface are living in the mes of the selves living on it.
 
-        *Adding: a surface's living parities in its selves' universal sets.*
+        *Adding: the living parities on a surface, in its selves' universal sets.*
 
 59. Each self's changing divides its surface.
 
