@@ -114,15 +114,11 @@ Local surface with no same-existing within society
 
 6.1  Checkability living at the telling, testing going on while resolving
 
-6.2  Spiral parity at the instrument, stating wiring and dynamics, the instrument first, before anything
-
 6.3  Three registers, code-form and stable-form and numbers, each holding its own
 
 6.4  Is-or-is-not the one observing, spans and orderings in place of positions and magnitudes
 
 6.5  One prior for both, each going on bringing it onward
-
-6.6  An executing deceives as an accounting, four ledgers, changing and changing back the honest instrument
 
 6.7  Each finding at its complete comparison
 
@@ -664,7 +660,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A coupling again brings prior forward.** Each self goes on through its own same-existing, and their next coupling receives that changing. A relation they share goes on with a new now. A parity can recur while a self's prior goes on, same-existing; coupling belongs with both.
 
-**Co-competencing going on expresses reach.** A pair, a chain and a spiral are arrangements of participating relations. A self explains an arrangement's reach with its actual coupling and going on. A number of selves is arrangement's, and a term two selves uncover between them arises with their coupling, in neither self alone.
+**Co-competencing going on expresses reach.** A pair, a chain and a spiral are arrangements of participating relations. With a spiral of selves, even bounding-zeroing to zero, odd having exactly one walking frustration, two odd joining as one even that bounds: spiral parity, reproduced ahead of each observing with it. A self explains an arrangement's reach with its actual coupling and going on. A number of selves is arrangement's, and a term two selves uncover between them arises with their coupling, in neither self alone.
 
 ## 1.10 Abundancing in neither self alone, going on at each receiving
 
@@ -981,20 +977,6 @@ An instrument takes two of those questions by unlike means, one with middles sta
 
 Each claim has its visibility with code renderings, numbers, branches, grid and sciences: one same fractal method, all or none at all. Checking is one changing and changing back with resolving, going on with observing's own rate, a self observing parity as it forms: concepts visible with network and numbers and math and code, one form with each, and a concept visible with one only is not that one form. Renderings across substrates disagreeing by each material way are one living: logic, living, is none of its materials. A finding with one rendering has its exact comparison with that rendering, and a self finds a whole same-existing-society's going on by following that same-existing-society's own going on. And renderings a self receives live with their own substrates, living records reaching one same form with fields' own words, visibility with each substrate rather than a listing here.
 
-## 6.2 Spiral parity at the instrument, stating wiring and dynamics, the instrument first, before anything
-
-Each rendering's instrument comes first. A working states an executing's wiring before anything of it: one self it couples with or both, together or one-at-a-time, inverting or settling, and a choice no working states is each divergence's entering. **Spiral parity**, an instrument to hand reproducing it ahead of each observing with it: with a spiral of selves, even bounding-zeroing to zero, odd holding exactly one walking frustration, two odd joining as one even that bounds. A claim about an arrangement of even size needs its own source correspondence, and an even connector can share a nonzero parity, as the parities its self is observing and its prior are. A construction is another object than another construction, and an observing of one is an observing of it: construction is each thing's deciding, a working stating it whole or observing void.
-
-**And an instrument executing a living has a clock with four positions, three of them easy to miss, and two further positions after them.** Its **pace**, a self opening with a rate an instrument gives rather than its own. Its **executing order**, an order an instrument executes selves by: anything executing selves one after another gives them an order, and two selves that couple with no between have no order between them, so asking for one is asking for a common clock. Its **record**, since a joint trace a common tick indexes is a clock by recording even with a clockless executing, an instrument writing down again the not-changing surface of a self that does not beat and observing it as a landing. And its **ledger**, a correspondence an instrument gives a self's positions with another's, by which parities couple.
-
-**And a fifth, which is not a pace and hides behind other four: taking.** Even with no pace and no rounds, anything that lets parities be underway decides **which pending sharing across opens its self next**, and each thing coming back is of that deciding. Taking front-first, sequences go on with all three selves; taking back-first, one self opens once and not again; taking by a seed's order, a third pattern comes, not same-existing again with each seed. **A parting of two selves comes by taking as it comes by an executing order of selves, taking that same order with each pending sharing across.**
-
-**And a sixth, which is not a clock at all and which no working states: refusing.** Each thing an instrument will not let happen: a guard that raises, a check that rejects, a gate that will not print, a form an instrument does not allow a value to take. A working puts each there against a real fault and each narrows discovering's possibling. **A refusing is a choice about occurring's possibling and no working reports it as one**, taking it as safety rather than wiring. **And its effect is one a working holding it cannot see**: a pace a self observes wrong shows itself, since observing parts with an other pace, and **a refusing shows nothing, what it excludes not coming for a self to miss.** So a working that accumulates refusings has an instrument narrowing with each step and reporting no narrowing, **and narrowing is not among options when that working next decides its building.**
-
-**A refusing is a removing, which, going forward, is a way of building:** remove each thing that surfaces, and a rendering remaining is one a form asks for, and no more. **A between passes it with nothing to remove.**
-
-**A working states each or observing is void; by habit a working states pace only, executing order, record, ledger and taking go with no stating, and refusing has no stating at all.** A working reports a wiring and not an executing order; a working chooses a pace and does not think of a recording as a choice at all; does not think of a taking; and thinks of a refusing as care.
-
 ## 6.3 Three registers, code-form and stable-form and numbers, each holding its own
 
 A claim belongs to one of three registers, each holding its own. **Code-form**: a rendering's doing, holding by reproduction across substrates that disagree, and with one instrument a working states a diagnostic finding, a response diagnostic receiving indexes, going with its exact comparison with that instrument. **Stable-form**: algebra holding of itself, with any executing or none. **Numbers**: natural numbers' own observing, folds and spans and value-death, observable by no executing. An executing confirms no identity, an identity confirms no executing, and a limit of value is not a limit of mechanism: each register its own, borrowing voiding borrower, coupling of registers a reaching as reaching.
@@ -1014,14 +996,6 @@ Each observing is a parity: is or is not, present or absent or in capture, recog
 **A co-competency inquiry follows selves going on together.** An inquiry follows each self's going on beside their receiving and sharing together. A joint parting supplies a concrete finding with that coupling. Stronger claim, that it arises in neither self alone, apart from their coupling, needs an inquiry following corresponding separate goings on: name abundancing is that comparison's, and goings on an inquiry follows establish it.
 
 **An instrument's record and a resolving's coupling are two subjects.** A diagnostic can index successive receivings, record zero surfacings and compare states. Sharing across has parities only, and a record of emissions an instrument omits and diagnostic's common index stay with diagnostic. Prior, now and next locate going on; each further receiving adds a next occurrence.
-
-## 6.6 An executing deceives as an accounting, four ledgers, changing and changing back the honest instrument
-
-Each deceiving of an executing is one accounting with four ledgers. **A side as a vantage**: probe, frame standing outward, observing from a place of nothing. **A sequencing fixing to one beat**: clock, a common beat that forms hub it then reports. **A parity fixing as a magnitude**: magnitude, quantity fixing as standard. **And a bound fixing as a last**: window, an executing length a working takes as whole executing.
-
-**The fourth is not the third.** A magnitude needs a standard pattern is right or wrong against; a window needs executing ending, so a self observes a reach executing does not reach as a doing it does not hold. And its remedy is its own: **a working checks a set closing before it baselines**, a longer executing adding no state, and with a set not closing, window observing refuses itself rather than handing back a window as a last; a finding there, as with a same-existing-society's open going on, is of a finite stopping point a working states, each sharing reaching its self, going missing with an interruption a working states, or pending there. An executing that does not close has no whole for an observing to take against at all, which is a refusal and not a gap.
-
-A settling lying over a living lands it and reports landing; a flattening lays a living as one net and reports net; a verification closing against standard that defines it certifies each thing and parts nothing. A test is an accounting unless it changes and changes back: honest instrument observes two cones, sway, tipping, parity, and weighs a check by thing it could refuse.
 
 ## 6.7 Each finding at its complete comparison
 
