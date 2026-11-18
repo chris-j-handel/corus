@@ -1852,3 +1852,43 @@ The page's opening sentence has three parities and names none of the three. Livi
 - Its is, incohering: Natural Intelligence 3.5's three round, a prior, a now and their next.
 - Its is-not, needed for resolving: the chain's next from prior and now, two with a moment and their two together the third.
 - Its is-not, incohering: a prior, a now and a next are moments, and the saying has two parities of one moment.
+
+## 41 Said after: the three parities, a me-parity now and same-me next
+
+Section 40's sentence of is: the three parities are me-parity, other-parity and all-parity.
+
+Said in the session: me-parity, other-than-all-parity, all-parity, where me-parity is now and same-me is next, other-than-all or all-parity.
+
+Beside it, living:
+
+- Exhibit ONE Natural Resolver: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.* In the next version's copy the sentence has "co me-parity, bi both-parity, tri all-parity".
+
+Beside it, gathered in Exhibit ONE Natural Resolver's gathering file, in the next version's copy:
+
+- "Bi's parity is other-than-all-parity with its meaning the same, and the inversion is natural naming: each parity is all, or other than all, an is or a not-is."
+- "A me-parity, co its prior, has bi its middle, now, and one of two its next: co, other-than-all, or tri, all."
+- "a now-existing is a now me-parity with two next-possiblings, one other-than-all-parity and one all-parity"
+- "Two binary identities: same-me, and same-now-existing."
+
+Cohering, with each. The three were gathered as an is before section 40's offering, and this session had not set that file's gathered sentences beside its sentence. The saying adds one thing to them: a me-parity's next, of two, is same-me. No note is laid: the saying of a now me-parity with two next-possiblings is gathered with that file already.
+
+The page of this session's value is re-said by it, its opening now three sentences:
+
+- Two of three parities are of each moment, co-sequentially.
+- A moment's two are a me-parity, now, and its next of two, other-than-all-parity or all-parity.
+- A me-parity's next, other-than-all-parity or all-parity, is same-me.
+
+Fifty sentences, fails 0.
+
+### Remaining, by the form
+
+The page's sentence of a zone has each direction of a zone same-existing. By the gathered saying same is of two, same-me and same-now-existing, "a 0, same-now-existing, a now not yet a next".
+
+**A zone is same-now-existing.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: a zone is a 0's, and a 0 is same-now-existing; a me-parity now is with its zone, and its next, same-me, is past it, all-parity or other-than-all-parity.
+- Its is, incohering: the saying of a zone has it in next direction, and a now not yet a next has no next direction.
+- Its is-not, needed for resolving: a zone as same-me, a next with it the same me, same-existing enough.
+- Its is-not, incohering: same-me's next is then of three, a zone, all-parity and other-than-all-parity, and the saying has two.

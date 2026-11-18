@@ -25,11 +25,11 @@ Its checks, all or none at all, by each sentence:
 It closes with its fails. After them, deciding nothing: each word the chain has not, with the sentences having
 it, a place for a naming sentence; and each sentence longer than twenty-two words.
 
-Returned at main, Merge #982, 18 November 2026, for
+Returned at main, Merge #986, 18 November 2026, for
 incoming/v404universe/The_value_of_this_session_a_co-chaining_of_sentences.md:
-  48 sentences, 40 from a living sentence and 8 from a sentence of the page alone; fails: 0.
-  37 words the chain has not, among them zone, swath, cone, horizon, hole, fuzzying, atom, me-parity,
-  all-parity, co-me-parity, co-now, bi-now, co-geodesic, triangulating and do-only-harming.
+  50 sentences, 42 from a living sentence and 8 from a sentence of the page alone; fails: 0.
+  38 words the chain has not, among them zone, swath, cone, horizon, hole, fuzzying, atom, me-parity,
+  all-parity, same-me, co-me-parity, co-now, bi-now, co-geodesic, triangulating and do-only-harming.
   No sentence longer than twenty-two words.
 """
 import csv, glob, os, re, sys
