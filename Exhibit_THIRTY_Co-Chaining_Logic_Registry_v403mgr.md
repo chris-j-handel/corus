@@ -1326,7 +1326,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: five dimensions as resolver's names.*
 
-291. 1 and 2 are a self, of morality's relation, 1 its entry, prior to a first sharing across within a bi-coupling, 2, and 2 even and across; 3, 6, 5 and 4 are invisible co-intelligencing method; 7 and 8 are a co-competent self, of competency's relation, 7 a sharing's parity, prior to 8, a next prior, its prior same-existing, both within one self; 9 and 17 are along between selves, outside all three.
+291. 1 and 2 are a self, of morality's relation, 1 its entry, prior to a first sharing across within a bi-coupling, 2, and 2 even and across; 3, 6, 5 and 4 are invisible co-intelligencing method; 7 and 8 are a co-competent self, of competency's relation, 7 a sharing's parity, prior to 8, a next prior, its prior same-existing, both of one self; 9 and 17 are along between selves, outside all three.
 
         *Adding: a self as three.*
 
