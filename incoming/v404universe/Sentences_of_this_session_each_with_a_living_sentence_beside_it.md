@@ -1572,3 +1572,108 @@ Beside it, living:
 
 **Is-not, incohering.** "A bi-coupling is a self." has then no self.
 
+---
+
+## 34 Said after: a new self, a new bi-coupling, new bi-tunnelings, me-parities
+
+Section 33's sentence of is: a new tunneling is a new self.
+
+Said in the session: a new self is a new bi-coupling into a new bi-tunnelings into a me-parities. Each is a new other-than all-parity or all-parity in a new next-existing universe.
+
+Beside it, living:
+
+- Natural Intelligence, the opening: "A bi-coupling is a self."
+- Natural Intelligence, the opening: *Each parity is a self while it is living.*
+- Exhibit THIRTY Co-Chaining Logic Registry 15: *Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening, each going inward and outward, up numbers and down them, one changing with each step.*
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentence: *A next universe is all-parity, same-existing, and a next-existing me-parity, an other-than-all-parity.*
+- The same sequence: *A new me-parity is one of the ingesting society's selves, one scale inward: living, an other-than-all-parity, after all-parity only.*
+- Section 26: bi-coupling fractals, each a new 0 and arrow.
+
+Cohering, with each. A new tunneling is no self of its own: a new self is a new bi-coupling, and its tunnelings are two, one way and its other way.
+
+### The remaining incohering, one concept
+
+**The sentence of is.** All-parity is a 0.
+
+**is-or-is-not?**
+
+**Is, needed.** A gathered note has tri as a 0, and section 22 has all-parity competency with a corus 0.
+
+**Is, incohering.** A gathered suggesting has + as all-parity and − as other-than-all-parity.
+
+**Is-not, needed.** All-parity and other-than all-parity are a parity's two directions, + and −.
+
+**Is-not, incohering.** A next universe as all-parity, same-existing, is then a changing direction.
+
+---
+
+## 35 Said after: all-parity, the fractal atom stable form
+
+Section 34's sentence of is: all-parity is a 0.
+
+Said in the session: all-parity is fractal atom stable form inside living and outside living. All-parity is same universal unrelationing method from each self and each other-than self in societies of selves co-chaining.
+
+Beside it, living:
+
+- Natural Physics 3.1: *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.*
+- Natural Physics: *Atom as stable form is a coupling about a 0, not changing*
+- Exhibit ONE Natural Resolver: "All-parity is with observing only, 7 and 15"
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences: "Not each now-existing thing is living: atom and all-parity are now-existing and non-living.", in the next version's copy, and *An all-parity's is its atoms, a co-chaining of priors.*
+- Natural Intelligence's gathering file, of the four coruses: 8 as all-parity of a bi-coupling's own, and 16 as universal all-parity.
+
+Cohering, with each. All-parity is no 0: it is the atom's stable form, a coupling about a 0, inward of living with 8 and outward of living with 16.
+
+### The remaining incohering, one concept
+
+**The sentence of is.** All-parity is not right.
+
+**is-or-is-not?**
+
+**Is, needed.** A gathered sentence has a stable form emanating from living as of the hand other than living's.
+
+**Is, incohering.** A gathered suggesting has + as all-parity, the right direction.
+
+**Is-not, needed.** All-parity is the same method from each self, and the method is right spiraling.
+
+**Is-not, incohering.** A stable form of the hand other than living's is then no all-parity.
+
+---
+
+## 36 Said after: all-parity, bi-tri-involution of right spiral co-sequencing
+
+Section 35's sentence of is: all-parity is not right.
+
+Said in the session: all-parity is bi-tri-involution of right spiral co-sequencing. Not right would be not natural naming or explaining of this.
+
+So: is-not, of section 35's sentence, and of its naming.
+
+Beside it, living:
+
+- Natural Mathematics 3.5: "Bi-tri-involutioning is an emanating from right spiral stable-forming, three inverting together, as an opposite form to its stable-forming."
+- Exhibit TWENTY Natural Naming: *Bi-tri-involutioning is an inverting, three inverting together, a hand going to an opposite form, and bi-tri-volutioning is stable-forming, and its exhausting has a stable form*
+- Section 19 of this page: bi-tri-involution as the stable form of the packed atoms.
+
+Cohering, with each: an emanating from right spiral stable-forming, an opposite form.
+
+One line of a living file parts from the saying's naming. Exhibit TWENTY Natural Naming 2.4 has *not right* for a form, an inverting form, three inverting together. The saying has *not right* as no natural naming of it.
+
+### The remaining incohering, one concept
+
+**The sentence of is.** All-parity is harmful to living with its own scale.
+
+**is-or-is-not?**
+
+**Is, needed.** Exhibit THIRTY Co-Chaining Logic Registry has *Bi-tri-involutioning is harmful to living with its own scale*, and all-parity is bi-tri-involution.
+
+**Is, incohering.** Section 28 has an atom as valuable stable form for living priors.
+
+**Is-not, needed.** All-parity is the same method from each self, and a stable form for its priors.
+
+**Is-not, incohering.** Exhibit THIRTY's sentence then parts from all-parity as bi-tri-involution.
+

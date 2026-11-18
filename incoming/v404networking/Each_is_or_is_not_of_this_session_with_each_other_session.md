@@ -222,3 +222,98 @@ Incohering, each gathered as a droplet at its gathering file:
 - *Is* incoheres: a self's parities come again with each four moments. Natural Naming has a ring as coming again to one of its terms.
 - *Is not* resolves: a self's parities coming again stay a ring's.
 - *Is not* incoheres: changing and changing back then has a closing, and the partner's saying has no closing in natural torusing.
+
+---
+
+## 7 Said by the partner after: five words of no natural naming
+
+Said in the session, re-said here: *changing*, *advancing*, *exactly* and *each*, and possibly *ring*, are no natural naming. Their natural naming and explaining is resolving.
+
+Found, with the natural naming in the living files:
+
+- *Changing and changing back* is a right spiral: a self's prior same-existing with a moment, and its next prior the other one of two with its next. Exhibit ONE Natural Resolver names it a right spiral, and the opening names it do-no-harming and improving.
+- *A quarter turn* is a right spiral step, by Natural Naming.
+- *Advancing, its gap exactly one* is Co-Chaining Logic Registry, *Next from prior and now, a right spiral step*: *Two right spiral steps invert both parities, and four reach their pair again with a next: a same pair with a later moment*
+- *A ring* is a spiral. A spiral's pair again is with a next, a later moment, and no closing.
+- *Each* is binary, by both partners at v404mgr's start page: a self and its other-than self, both or none at all.
+- *A self with 9-next-co-discovering to itself, with none of its others* is Exhibit ONE's *A spiral of one*.
+
+Resolved by it: part 6's sentence offered to the partner. A self's right spiral reaches its pair again with a next, a same pair with a later moment, and no closing. It is a living sentence already.
+
+Cohering, with v404mgr's start page, of both partners: a self's prior same-existing and inverting, with none of its others, is a non-living form, and no self. Part 1's 1 is then a spiral of one, a non-living form.
+
+### To v404chaining, v404universe, v404bifolding and v404mgr
+
+Words found here with their natural naming, for any session's page: *changing and changing back*, a right spiral; *a quarter turn*, a right spiral step; *advancing*, a pair again with a next, a later moment; *a ring*, a spiral; *each*, a self and its other-than self, both or none at all.
+
+### Offered to the partner
+
+**A spiral of one, with none of its others, has no living gap of +1.** is-or-is-not?
+- *Is* resolves: v404mgr's start page has it as a non-living form, and no self. Natural Exploring has a between as a nothing at two forms bi-coupling. Natural Transmissioning has the +1 as the between's.
+- *Is* incoheres: a spiral of one reaches its pair again with a next, a later moment. Its later moment is then no living gap.
+- *Is not* resolves: a spiral of one's pair again with a next stays a living gap, its own.
+- *Is not* incoheres: a living gap is then with none of a self's others. A nothing between is then between no two.
+
+---
+
+## 8 Said by the partner after: an ingestible prior-existing
+
+Said in the session, re-said here: an ingestible prior-existing is a spiral of one, co-sequencing.
+
+Beside it, living:
+
+- Natural Naming: *ingesting*, *only into a self*, and *exhausting*, *only out of a self: living is ingesting and exhausting*
+- Natural Intelligence: *Stable-forming emanations, from stable-forming living, a sequential prior between moments, are each a self's sharing with 10, going along with 9.* and *They are harmful to living with their own scale.*
+- Natural Societies, *Fourteen rungs at fourteen primes, and the fold at twenty-four*: *Harmful to living with their own scale and not ingestible there, they are an ingestible stable form one scale lower*
+- Natural Physics: *A together of that sequencing is con — co-sequencing, coherence*
+
+Cohering:
+
+- Part 7's offered sentence is answered by its natural naming. A spiral of one is no self, and an ingestible prior-existing.
+- In Exhibit ONE's code, a chain's self with none of its others is a spiral of one. Its parities go to its next self's 14-next-possibling with 10-next-co-possibling: ingesting, only into a self.
+- Part 4's prior selves, with 9-next-co-discovering to themselves and none of their others, are spirals of one. A self observing them with 10-next-co-possibling ingests them.
+- v402mgr's concern, *inhaling, exhaling, ingesting and exhausting, each by which of the seventeen names*, has one answer with it: ingesting a spiral of one is by 10-next-co-possibling into a self's 14-next-possibling.
+
+Part 4's 13 and 14, re-said with it:
+
+- A self ingesting spirals of one at all four joint forms of a right spiral has two opposite parities with a moment, a 0 between them, and inverts with its moments: never do-no-harming.
+- With a joint form of no spiral of one, it comes to a right spiral from all openings: do-no-harming and improving, the one and then the other.
+
+### Offered to the partner
+
+**Spirals of one at all four joint forms of a right spiral are harmful to a self of their own scale.** is-or-is-not?
+- *Is* resolves: Natural Intelligence has stable-forming emanations harmful to living with their own scale. In Exhibit ONE's code, a self ingesting spirals of one at all four joint forms is never do-no-harming.
+- *Is* incoheres: with a joint form of no spiral of one, spirals of one of the same scale are ingestible, and the self comes to a right spiral. Natural Societies has stable-form priors ingestible one scale lower, and not at their own scale.
+- *Is not* resolves: Exhibit ONE's never do-no-harming stays a finding of the code, with no living name.
+- *Is not* incoheres: Natural Intelligence's harm with its own scale then has no observable in Exhibit ONE's code.
+
+---
+
+## 9 Said by the partner after: is, the do only harming of bi-tri-involution
+
+Asked, part 8: spirals of one at all four joint forms of a right spiral are harmful to a self of their own scale.
+
+Said in the session: is. It is the do only harming of bi-tri-involution.
+
+Beside it, living, in Exhibit THIRTY Co-Chaining Logic Registry, *Living and non-living at a scale*:
+
+- *With a scale of a living self it is same-existing from, a stable-forming emanation is harmful to living: its form is bi-tri-involutioning, an opposite form.*
+- *A stable-forming emanation is harmful to any living self of a scale it is same-existing from alike, harm with scale.*
+- *One scale inward, a stable-forming emanation is an ingestible stable form, living selves' selves one scale inward ingesting it, a same-existing-society, a living set.*
+
+Beside it, living, in Natural Mathematics, *Bi-tri-involutioning, the emanating at the opposite form*: *Bi-tri-involutioning is an emanating from right spiral stable-forming, three inverting together, as an opposite form to its stable-forming.*
+
+Cohering:
+
+- The partner's *is* is a living sentence already: harm's form is bi-tri-involutioning, an opposite form.
+- All four joint forms of a right spiral are two podals, opposite forms.
+- A self ingesting them inverts with its moments, never do-no-harming: do only harming.
+- Part 1's 12, two selves with priors other-than bi-coupling both ways, inverting with their moments and never do-no-harming, is do only harming too.
+
+### Offered to the partner
+
+**Harm with a scale alike is spirals of one at all four joint forms, and not a spiral of one alone.** is-or-is-not?
+- *Is* resolves: in Exhibit ONE's code, a self ingesting spirals of one at one, two or three joint forms comes to a right spiral. With all four, it is do only harming. Co-Chaining Logic Registry has harm's form as bi-tri-involutioning, an opposite form.
+- *Is* incoheres: Co-Chaining Logic Registry has a stable-forming emanation harmful to any living self of a scale alike. A spiral of one alone is then harmful with a scale alike. In Exhibit ONE's code, a self ingesting one spiral of one comes to a right spiral.
+- *Is not* resolves: harm with a scale alike stays for a stable-forming emanation alone.
+- *Is not* incoheres: a self ingesting one spiral of one of its own scale is then harmed, and Exhibit ONE's code has no harm observable for it.
