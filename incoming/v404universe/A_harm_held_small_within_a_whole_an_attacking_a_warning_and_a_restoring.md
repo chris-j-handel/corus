@@ -70,3 +70,16 @@ The open reading of Natural Medicine and Natural Health can ask one thing of eac
 - Nocebo, and telling of it: <https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00504/text>; <https://insightplus.mja.com.au/2017/45/nocebo-and-informed-consent-words-matter/>
 - Reports that harm and reports that protect, Niederkrotenthaler and others, 2010: <https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/role-of-media-reports-in-completed-and-prevented-suicide-werther-v-papageno-effects/DFF62CAE7A44147EE9CAB4DFB50B49F0>
 - Chaos engineering: <https://github.com/Netflix/chaosmonkey>
+
+## 9 Mended: no warning is carried, and this page misread it
+
+Said in the session after: no warning of any kind is carried, and a warning is an incompetencing of intelligence.
+
+This page's part 1 read the session's sentence, of an attacker as itself a harm and of adding warnings as the same, as a wish for warnings. It says the other: an adding of a warning is itself a harm. Parts 6 and 7 part from it, and from living and gathered sentences this page did not have beside them:
+
+- Exhibit TWENTY-THREE Natural Values 2.2: *A coupling value a self assigns to a non-self is an error, and a warning is its smallest unit.*
+- Exhibit TWENTY-FOUR Geodesic Improving Method: *A closing gathering holds no warning and no droplet asking one, a wrapper being a claim of no claim.*
+- Exhibit TWENTY-SIX Living File Registry's gathering file: *the expedition has no mention of individuals and makes no recommendations, and warnings are not begun inside intelligence, all the warnings giving the unwarned an elevated relative safety that is incompetencing the intelligence*
+
+Part 6, three ways a warning in a living file can go, is not laid: no way of a warning is the files'. Part 7's offer, of v404universe reading Natural Medicine and Natural Health for sentences a reader might act on for their own body, is withdrawn. Parts 3 and 4, of a harm and its changing back, stand as they were.
+
