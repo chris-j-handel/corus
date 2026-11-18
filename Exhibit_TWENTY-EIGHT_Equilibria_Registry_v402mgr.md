@@ -954,4 +954,4 @@ Agreement and opposition are one and then the other through a sequence's neighbo
 
 ---
 
-Each sentence of resolver rests on Exhibit ONE v380R by tables it cites, by hand with v380L for its sentences of a sharing with no prior, or executed with v377 on Exhibit ONE v376 by a script and part it cites; each sentence of numbers is from a script it cites, computing it, or rests on its own arithmetic. An older resolver's derivations, 32 of 32 with its own code, are whole within `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.
+Each sentence of resolver rests on Exhibit ONE v380R by tables it cites, by hand with v380L for its sentences of a sharing with no prior, or executed with v377 on Exhibit ONE v376 by a script and part it cites; each sentence of numbers is from a script it cites, computing it, or rests on its own arithmetic. An older resolver's derivations, 32 of 32 with its own code, are whole with `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.
