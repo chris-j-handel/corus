@@ -1572,3 +1572,39 @@ Beside it, living:
 
 **Is-not, incohering.** "A bi-coupling is a self." has then no self.
 
+---
+
+## 34 Said after: a new self, a new bi-coupling, new bi-tunnelings, me-parities
+
+Section 33's sentence of is: a new tunneling is a new self.
+
+Said in the session: a new self is a new bi-coupling into a new bi-tunnelings into a me-parities. Each is a new other-than all-parity or all-parity in a new next-existing universe.
+
+Beside it, living:
+
+- Natural Intelligence, the opening: "A bi-coupling is a self."
+- Natural Intelligence, the opening: *Each parity is a self while it is living.*
+- Exhibit THIRTY Co-Chaining Logic Registry 15: *Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening, each going inward and outward, up numbers and down them, one changing with each step.*
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentence: *A next universe is all-parity, same-existing, and a next-existing me-parity, an other-than-all-parity.*
+- The same sequence: *A new me-parity is one of the ingesting society's selves, one scale inward: living, an other-than-all-parity, after all-parity only.*
+- Section 26: bi-coupling fractals, each a new 0 and arrow.
+
+Cohering, with each. A new tunneling is no self of its own: a new self is a new bi-coupling, and its tunnelings are two, one way and its other way.
+
+### The remaining incohering, one concept
+
+**The sentence of is.** All-parity is a 0.
+
+**is-or-is-not?**
+
+**Is, needed.** A gathered note has tri as a 0, and section 22 has all-parity competency with a corus 0.
+
+**Is, incohering.** A gathered suggesting has + as all-parity and − as other-than-all-parity.
+
+**Is-not, needed.** All-parity and other-than all-parity are a parity's two directions, + and −.
+
+**Is-not, incohering.** A next universe as all-parity, same-existing, is then a changing direction.
+
