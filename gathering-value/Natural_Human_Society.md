@@ -92,6 +92,7 @@ Gathering-Value · Natural Human Society
 - **An explaining** · A transition from now-existing human societies to natural human societies is everyone having less power, no free agency, and less risk, bi-moral-co-agency. A binary form beside it, no free agency and bi-moral-co-agency, each self's changing its own and its coupling owned by neither, *less* a measure the set releases.
 
 ### 4.6 The general ledger, state-flow-state a self observes whole, and the two currencies
+- **Possible incohering** · "**And the deepest danger shows itself here.**" → *Danger*, a warning's word as a file's own saying. Beside it: no warning is in a living file. Its value with no warning is the sentence after it, said as what is: *This incompetencing is invisible to the scientific method*. A re-saying: the bold line released. The other side: the bold line as it is.
 
 ### 4.7 The still-point veins at the human scale
 
