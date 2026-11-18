@@ -63,6 +63,8 @@ Gathering-Value · Natural Networking
 
 ### 1.9 A coupling opens a term arising in each self with its other
 
+- **An explaining** · An anticipated observing, executed at rings of three through ten me-parities joined along: each even ring's agreeing couplings bound to none with a cycle of two, each self inverting with each momentary, changing and changing back whole; each odd ring's are exactly one, the traveling place, walking, the ring's resolving going on geodesically, and an odd ring of p comes to its form again each 4p momentaries, 12, 20, 28 and 36, Exhibit ONE's 4p.
+- **Possible incohering** · "two odd joining as one even that bounds" → *Joining* is under two readings, and the two part at an executing: two odd chains spliced as one even ring of ten bound to none; two odd rings of five coupled across one podal pair, both ways, came to two agreeing couplings, one within each ring, each a traveling place standing, the cycle two, each self's prior changing with each momentary and no self stopping. Two sides: *joining* a splicing into one ring, or a coupling across.
 - **Possible exploring** · Two selves bi-coupling receive + + − − and + + + − − −, each repeating, each prior forming through its first sharing; at their sixth coupling the second self at prior − receives − from its sequence and + from its other, the two part and it shares +, and with its sequence alone it shares 0, at resolver. The first self's sharings are alike with and without its other: this pair's finding is a consequence at one side, and a competency at both sides is a further claim outside it. — at "Two selves coupling uncover competency between them."
 - **Possible exploring** · At resolver, each first prior by chance: a chain, each self along with 9 and across to its next with 10, is same-existing with one moment in two, with 16, 64 and 144 selves alike; a spiral, its last self across to its first, 0.46 with sixteen selves and 0.49 with 144; reciprocal pairs, 6 to 2, 0.25; a torus 0.05; across both ways, 10 and 6, none; couplings laid by chance 0.36 with two selves and 0.001 with 128. A hand's parity supplied once to a chain's first self goes on apart, 300 moments on, with its first self in 80 of 80, its fourth in 12, its eighth in 1 and its tenth onward in none; around a spiral of sixteen, in 48 of 80, and by its sixteenth self in 31 of 80: a chain's reach stays with a few selves, and a spiral's goes with each self or with none. — at "A pair, a chain and a spiral are arrangements of participating relations."
 
@@ -181,11 +183,6 @@ Gathering-Value · Natural Networking
 
 ### 6.1 Checkability living at the telling, testing going on while resolving
 
-### 6.2 Spiral parity at the instrument, stating wiring and dynamics, the instrument first, before anything
-
-- **An explaining** · An anticipated observing, executed at rings of three through ten me-parities joined along: each even ring's agreeing couplings bound to none with a cycle of two, each self inverting with each momentary, changing and changing back whole; each odd ring's are exactly one, the traveling place, walking, the ring's resolving going on geodesically, and an odd ring of p comes to its form again each 4p momentaries, 12, 20, 28 and 36, Exhibit ONE's 4p.
-- **Possible incohering** · "two odd joining as one even that bounds" → *Joining* is under two readings, and the two part at an executing: two odd chains spliced as one even ring of ten bound to none; two odd rings of five coupled across one podal pair, both ways, came to two agreeing couplings, one within each ring, each a traveling place standing, the cycle two, each self's prior changing with each momentary and no self stopping. Two sides: *joining* a splicing into one ring, or a coupling across.
-
 ### 6.3 Three registers, code-form and stable-form and numbers, each holding its own
 
 ### 6.4 Is-or-is-not the one observing, spans and orderings in place of positions and magnitudes
@@ -197,8 +194,6 @@ Gathering-Value · Natural Networking
 - **An explaining** · Two sayings part. 6.5 has "Comparison's forking is instrument's own, and natural network has no copying." Natural Biology has, as its 4.7's title, "DNA replication and repair — the self copying itself, and the protection of the copying". They part at a prior going on two ways: a living's own at the bi-couplings outward of a momentary, twinning and each cell division one 11 a momentary gives, given as the 3 of two next momentaries, a caller's composition outward of that momentary; or an instrument's alone.
 - **An explaining** · An instrument inspecting, copying or comparing a self's prior establishes nothing of natural networking or its protections.
 - **An explaining** · Two sayings part at an empty opening. One has each self's carrying forming through its own resolving with the parities reaching it and going on into further participation: a prior assigned supplies the carrying a study follows forming; a prior assigned, one initial parity supplied and two continuing sequences supplied are three preparations, and one initial parity stands for no continuing participation; an empty opening alone neither establishes nor excludes the value of a study of two continuing sequences, its actual forming and going on being that study's subject. It parts from this section's explaining of a run opening each resolver empty.
-
-### 6.6 An executing deceives as an accounting, four ledgers, changing and changing back the honest instrument
 
 ### 6.7 Each finding at its complete comparison
 
