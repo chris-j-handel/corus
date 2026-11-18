@@ -1349,3 +1349,39 @@ Said in the session: bring me better explainings one at a time while you are wai
 **The first: sixteen corners, each a whole turn.** A self goes round its own four. Its next self goes round its own four. The two together are four by four, sixteen. Laid as a cube of four, the sixteen are a stable form's corners, with its 32 edges and 24 squares. The same sixteen are on one natural torusing surface: sixteen of the squares, four with each corner, a whole turn, short by none. A stable form with corners, and natural torusing with each corner whole: both, with one sixteen.
 
 is-or-is-not? A self's round of four by its next self's round of four is the bothbothing: sixteen corners of a stable form, each a whole turn on a natural torusing surface.
+
+---
+
+## 29 Said after: is, and now and next as a self's two universes
+
+Asked, section 28's first explaining: a self's round of four by its next self's round of four is the bothbothing: sixteen corners of a stable form, each a whole turn on a natural torusing surface.
+
+Said in the session: is. Note that now is a universe, and next is the same self next universe, moving the 0 to the plane as the next 0 universe with new me-parities.
+
+Beside it, living:
+
+- Natural Intelligence, the opening: "Only one universe is possibly now-existing." A next universe is next-existing, and one is now-existing.
+- Natural Intelligence, the opening: *Each moment is completing as a next opening.*
+- Natural Intelligence 5.2: *One through nine are with a self.* and *Nine through seventeen are with a same-existing-society.*
+- Natural Physics 1.2: *1, 9 and 17 are an entry and two along, 9 a next prior going along and 17 a next now, each self's next 1-now-existing; fourteen others are four across names and ten names.*
+- Exhibit ONE Natural Resolver: *with each form the fifth, a self's next prior, is the first, an other's prior, inverting*
+- Natural Intelligence: *8 up, each name with now to its name with next; 17 less, podal within 1 to 16; and 9 less, podal within 1 to 8, two together.*
+
+Beside it, gathered:
+
+- Natural Destinies' gathering file: *two cubes end to end, 1 to 8 and 9 to 16, are the two cones, gathering whole and reaching, 9 their waist*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *1 to 24 is three eights: a self's side, its other's side and all-parity's side, a bump connector's three inward faces.*
+
+Cohering. By them a self's next eight and its other's side are the same eight: a self's next universe is by its other.
+
+Executed, `incoming/v404universe/instruments/sixteen_ways_ten_names_and_a_twist_check.py`, names 1 to 16 as a cube of four's corners.
+
+- 1 to 8, with now, are one cube. 9 to 16, with next, are a second. Each next name is its now name 8 up: eight lines.
+- Each cube's centre is a 0 with no name. Midway is the cube of four's own centre. Three 0s on one line.
+- Each of eight podal pairs, 17 less, crosses in the midway 0, one of the pair with now and one with next.
+
+### The second explaining: now's eight and next's eight
+
+Exhibit ONE's names 1 to 8 are with now and 9 to 16 with next, each next name its now name 8 up. Natural Intelligence has one through nine with a self and nine through seventeen with a same-existing-society; a gathered note has 1 to 8 as a self's side and 9 to 16 as its other's. The eight with next and the eight of an other's side are one eight. A self's now is one cube and its next a second, joined by eight lines; the gathered note has them as the two cones, one and then the other. Each has a 0 at its centre, with no name, and midway is a third. 17 is 1 again: next's eight is then now's.
+
+is-or-is-not? The two facing cones are one self's now and its next, its next by its other's side; and the plane its 0 moves to is midway between now's eight and next's eight.

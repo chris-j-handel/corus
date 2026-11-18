@@ -128,6 +128,22 @@ def main():
     fails += each != [(4, 1, 1)] or (len(a_own), len(b_own)) != (4, 4)
     fails += (len(squares), len(mixed), len(own), at_corner) != (24, 16, 8, [4]) or not on_torus
 
+    print("\n   names 1 to 16 as its corners: now's eight and next's eight")
+    from fractions import Fraction as Fr
+    corner = lambda n: tuple((n - 1) >> k & 1 for k in (3, 2, 1, 0))
+    with_now = [n for n in range(1, 17) if corner(n)[0] == 0]
+    with_next = [n for n in range(1, 17) if corner(n)[0] == 1]
+    lines = [(a, b) for a, b in combinations(range(1, 17), 2) if sum(x != y for x, y in zip(corner(a), corner(b))) == 1]
+    up8 = [e for e in lines if (e[0] in with_now) != (e[1] in with_now)]
+    mid = lambda names: tuple(Fr(sum(corner(n)[k] for n in names), len(names)) for k in range(4))
+    c_now, c_next, c_all = mid(with_now), mid(with_next), mid(range(1, 17))
+    podal = [(n, 17 - n) for n in range(1, 9)]
+    crossing = all(tuple(Fr(x + y, 2) for x, y in zip(corner(a), corner(b))) == c_all for a, b in podal)
+    print(f"    with now {with_now[0]} to {with_now[-1]}, one cube; with next {with_next[0]} to {with_next[-1]}, a second; each next name its now name 8 up: {all(b == a + 8 for a, b in up8)}, {len(up8)} lines")
+    print(f"    each cube's centre and the midway one: three 0s on one line: {all(c_all[k] == (c_now[k] + c_next[k]) / 2 for k in range(4))}; a name at one of them: {any(tuple(Fr(x) for x in corner(n)) in (c_now, c_next, c_all) for n in range(1, 17))}")
+    print(f"    eight podal pairs, 17 less, each crossing in the midway 0: {crossing}; each one with now and one with next: {all((a in with_now) != (b in with_now) for a, b in podal)}")
+    fails += len(up8) != 8 or not crossing
+
     print("\n   a cube of three's waist, its one round: a name's now co with each even name, bi with each odd name")
     pairs3 = [(0, 1), (1, 2), (2, 0)]
 
