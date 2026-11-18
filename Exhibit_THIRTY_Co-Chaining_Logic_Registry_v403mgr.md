@@ -443,7 +443,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 8 Bi-coupling, self and other, changing and changing back
 
-        *Entering: the universe, prior; going on from existing things; a pair, prior and now; self and other; living, stable-forming a self; self to other; other to self, a particular other or all other as one; prior, a stable-forming emanation with its scale, its parities living; living now with existing forms from prior living and with others living now; changing and changing back; opening and completing; overlap; parity.*
+        *Entering: the universe, prior; going on from existing things; a pair, prior and now; self and other; living, stable-forming a self; self to other; other to self, a particular other or all other as one; prior, a stable-forming emanation with its scale, its parities non-living stable forms; living now with existing forms from prior living and with others living now; changing and changing back; opening and completing; overlap; parity.*
 
 90. Prior, the universe is all existing things prior.
 
@@ -469,9 +469,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: other to self, a particular other or all other as one.*
 
-96. Each prior is a stable-forming emanation from prior living, its parities living within a self's universal set, steps 31 and 32, and a self same-existing with it now, possibling its own next-existing, is living: living now is living with existing forms from prior living and with others living now.
+96. Each prior is a stable-forming emanation from prior living, its parities non-living stable forms of a self's universal set, steps 31 and 32, and a self same-existing with it now, possibling its own next-existing, is living: living now is living with existing forms from prior living and with others living now.
 
-        *Adding: prior, a stable-forming emanation with its scale, its parities living; living now with existing forms from prior living and with others living now.*
+        *Adding: prior, a stable-forming emanation with its scale, its parities non-living stable forms; living now with existing forms from prior living and with others living now.*
 
 97. A self observing an other, and an other observing a self, are changing, one and then its other: changing and changing back.
 
@@ -2406,7 +2406,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: bi-couplings across floating and neutralling.*
 
-540. Within bi-folding, parallel surfaces and co-linear openings through them are one form, and one bi-coupling across between them meets two observing and parts two going on, one not-changing and one changing: observing, a self's own prior with 3 and an other's parity with 2; a changing with 12-next-co-same-existing, is-or-is-not; going on, one of two is not-changing, stable-forming, with each sharing's prior and parity agreeing, 12 a 0, a between of moments, its prior same-existing; and an other of two is changing, going along with 9-next-co-discovering, with each sharing an other parity, a 0 or an empty set surfacing, 12 inverting its prior, and with one parity new, 12 its parity, a changing that is, sharing with 10 and going along with 9, a stable-forming emanation, each a going along, a now-existing form of prior living, its parities living within a self's universal set, steps 31 and 32, its next prior, a self observing it with its 14, its next 2, with each of 6, 10 and 9 one same list, an observing end, a prior sharing, each prior momentarying with its own moment. One bi-coupling across is three, parity, unrelationing and changing, of one bi-coupling across; a lone self, observing an empty set of an other with its 2, has its bi-couplings across an empty set.
+540. Within bi-folding, parallel surfaces and co-linear openings through them are one form, and one bi-coupling across between them meets two observing and parts two going on, one not-changing and one changing: observing, a self's own prior with 3 and an other's parity with 2; a changing with 12-next-co-same-existing, is-or-is-not; going on, one of two is not-changing, stable-forming, with each sharing's prior and parity agreeing, 12 a 0, a between of moments, its prior same-existing; and an other of two is changing, going along with 9-next-co-discovering, with each sharing an other parity, a 0 or an empty set surfacing, 12 inverting its prior, and with one parity new, 12 its parity, a changing that is, sharing with 10 and going along with 9, a stable-forming emanation, each a going along, a now-existing form of prior living, its parities non-living stable forms of a self's universal set, steps 31 and 32, its next prior, a self observing it with its 14, its next 2, with each of 6, 10 and 9 one same list, an observing end, a prior sharing, each prior momentarying with its own moment. One bi-coupling across is three, parity, unrelationing and changing, of one bi-coupling across; a lone self, observing an empty set of an other with its 2, has its bi-couplings across an empty set.
 
         *Adding: parallel surfaces and co-linear openings, one form; one bi-coupling across, two observing and two going on, one not-changing and one changing, a changing with 12, is-or-is-not, not-changing, stable-forming, and changing going along with 9, a stable-forming emanation, a stable form; one bi-coupling across as three.*
 
