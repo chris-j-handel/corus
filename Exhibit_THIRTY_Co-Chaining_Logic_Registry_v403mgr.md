@@ -59,7 +59,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 1 Universe, the set of all now-existing things
 
-        *Entering: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it; the universe, the set of all now-existing things, now-existing one naming; only one universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, of a universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; only one universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
+        *Entering: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it; the universe, the set of all now-existing things, now-existing one naming; no universe other-than the universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, of a universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; no universe other-than the universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
 
 1. We humans are now-existing.
 
@@ -69,9 +69,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: the universe, the set of all now-existing things, now-existing one naming.*
 
-3. Only one universe is possibly now-existing.
+3. No universe other-than the universe is possibly now-existing.
 
-        *Adding: only one universe possibly.*
+        *Adding: no universe other-than the universe possibly.*
 
 4. A now-existing thing from a prior-existing same thing is a **same-existing** thing.
 
@@ -93,9 +93,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: the universe, same-existing by observing.*
 
-9. Only one universe is possibly same-existing.
+9. No universe other-than the universe is possibly same-existing.
 
-        *Adding: only one universe possibly same-existing.*
+        *Adding: no universe other-than the universe possibly same-existing.*
 
 10. **Possibling** is now-existing, is-or-is-not same-existing.
 
@@ -159,7 +159,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 3 A bi-coupling, parity, one method, a same-existing-society and a moment
 
-        *Entering: a bi-coupling, two selves; sharing; a bi-coupling, a self; an other, a self a self is bi-coupling with; parity, a self's changing direction relative to a thing of its me; + and −, a parity's two directions; a 0, a between; indifferencing; a parity, a self while it is living; a living parity's me of the self's me; moral value; receiving, the parities its others share; agreeing and parting, one binary of parities received; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting, its possibling an empty set; a prior-existing parity inverting, the parities received parting; a first sharing, sharing 0; resolving among parities; any second method, natural intelligence's resolving; do-no-harming; passing over a 0; improving; two selves alike, bi-coupling only in their pair, do-no-harming and improving in turn; co-possibling, a self sharing its possibling with its me; a same-existing-society; a moment; opening and completing.*
+        *Entering: a bi-coupling, two selves; sharing; a bi-coupling, a self; an other, a self a self is bi-coupling with; parity, a self's changing direction relative to a thing of its me; + and −, a parity's two directions; a 0, a between; indifferencing; a parity, a self while it is living; a living parity's me of the self's me; moral value; receiving, the parities its others share; agreeing and parting, one binary of parities received; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting, its possibling an empty set; a prior-existing parity inverting, the parities received parting; a first sharing, sharing 0; resolving among parities; any second method, natural intelligence's resolving; do-no-harming; passing over a 0; improving; a bi-coupling of two selves same-existing with one another, with no other, do-no-harming and improving, alternating; co-possibling, a self sharing its possibling with its me; a same-existing-society; a moment; opening and completing.*
 
 24. A **bi-coupling** is two selves sharing possibling.
 
@@ -253,9 +253,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: improving.*
 
-47. Two selves alike, bi-coupling only in their pair, are do-no-harming and improving in turn.
+47. A bi-coupling of two selves same-existing with one another, with no other, is do-no-harming and improving, alternating.
 
-        *Adding: two selves alike, bi-coupling only in their pair, do-no-harming and improving in turn.*
+        *Adding: a bi-coupling of two selves same-existing with one another, with no other, do-no-harming and improving, alternating.*
 
 48. Do-no-harming and improving have **co-possibling**, a self sharing its possibling with its me.
 

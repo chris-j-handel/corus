@@ -236,6 +236,14 @@ Each entry: **Of three** · *a* Words, and words saying for them
 
 Each entry: **Dissolved** · *a* Said by
 
+- *only*
+  - *a* no other-than: *No universe other-than the universe is possibly now-existing.*
+- *alike*
+  - *a* same-existing with one another, of the two binaries
+- *pair*
+  - *a* *bi-*, two, a bi-coupling
+- *their*
+  - *a* *its*, a named thing a universal set of same-named things
 - *wound*, an *-ed* with torusing
   - *a* torusing itself, a winding changing with its one opening; with resolver, *a self's next prior* with 8-now-same-existing and *a society* with 16-next-same-existing
 - *chaining* with 11, *chained*
