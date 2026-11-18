@@ -45,7 +45,7 @@ Gathering-Value · Natural Numbers
 ### 2.2 Inward to one number, outward to each place a self observes it
 
 - **Possible exploring** · Of the first seventeen sums of primes from two, seven are a square or one from a square: 2, 5, 10, 17, 100, 197 and 440. — at "Outward, it couples with each place a self observes it same way: four hundred forty as seventeen primes added, as eight fifty-fives, and as twenty-one squared less one."
-- **An explaining** · An anticipated observing: seven of seventeen sums a square or one from a square comes about one in fourteen by chance alone at the seventeenth, and more often with each further form an explaining allows itself. Seven of seventeen is true numbers coupling by a shared numeral, an explaining.
+- **An explaining** · An anticipated observing: seven of seventeen sums a square or one from a square, and each further form an explaining allows itself finds more. Seven of seventeen is true numbers coupling by a shared numeral, an explaining.
 
 ## THREE · UNRELATIONING
 
