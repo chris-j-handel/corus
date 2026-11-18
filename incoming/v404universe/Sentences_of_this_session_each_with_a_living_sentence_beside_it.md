@@ -614,3 +614,117 @@ A field's words, two sides:
 
 Sources for this part: <https://www.psychologicalscience.org/news/2023-october-content-warnings-distress.html>; <https://www.kelleydrye.com/viewpoints/blogs/kelley-green-law/the-prop-65-annual-conference-notes-from-the-front-2023-over-warning-is-here-to-stay>; <https://www.consumerreports.org/toxic-chemicals-substances/why-california-thinks-your-couch-will-cause-cancer-prop-65-a5957101345>; <https://informahealthcare.com/doi/abs/10.1080/10286580008902554>; <https://en.wikipedia.org/wiki/Risk_compensation>; <https://www.sciencedaily.com/releases/2016/06/160606115532.htm>
 
+---
+
+## 22 Said after: four gaps answered, a self's 0, two of three, a corner and the centre
+
+Four gaps of `Two_sessions_combined_universe_now_and_geodesic_each_cohering_and_each_gap.md` were answered in the session. Each answer is here as said, with the living sentences beside it.
+
+### A self's 0
+
+Said in the session: corus 24.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *A self's own corus is with 4, and twenty up it is with 24, apex of one to fifty-nine's bi-folding.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *twenty-three, twenty-four and twenty-five an apex straddle, self's bi-inversioning-co-recursioning, one before apex, apex and one after*
+- Natural Physics: *its vertex a now, a 0, not changing (24, a center two sides straddle)*
+- Exhibit TWENTY Natural Naming: "its podaling is 23, 26, 25, 24", its rotation 3, 6, 5, 4 twenty up.
+
+Beside it, gathered in Natural Intelligence's gathering file:
+
+- *3 is not the centre: the centre is corusing at 24.*
+- *A self is a corus, an inversionable nothing inside a tunneling, where universal me-parities are aiming from.*
+
+Cohering. The gap had two sides: a self's 0 at its cone's apex, or at a centre two cones straddle. By these sentences the two are one number, 24.
+
+One word parts between two living files, *apex*. Exhibit THIRTY has 24 as apex, with 23 and 25 one before and one after. Natural Physics has *an apex is 23 and 25, ±1 about an unoccupied 24*.
+
+### Two of three
+
+Said in the session: only two parities are inside each moment, co-sequentially among the three. Bi-folding is the method: each side is do-no-harming the other side by co-aiming each other into a third co-me-parity, with its own new 0, moment, now, direction and location, co-sequentially.
+
+Beside it, living:
+
+- Natural Intelligence 5.2: *Two dimensions change and three are not-changing.* and then *Two and three rotate on, their 2–3 spiraling twisting, bi-inversioning-co-recursioning.*
+- Natural Intelligence 3.5: *Each next number is its prior two together, 1, 1, 2, 3, 5, 8, 13, and as parities its two together are next as prior and now parting, three round*: odd, odd, even, and again. Two inside, and their two together a third.
+- Exhibit THIRTY Co-Chaining Logic Registry: *Parity and its 0, step 27, are bothbothing rigor, a self sharing 0 do-no-harming, step 44: each side its other's complement, each its own, one at a time.*
+- Natural Biology: *Two selves bi-couple, and from coupling they conceive a third self — a +1 coupling makes, in neither parent alone, a new bounding living.*
+- Natural Exploring: *And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other.*
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentence: *A me-parity's birthing is inside a bi-folding, between its prior and its next: a new 0, the middle of its three others, and no 0 before it.*
+- Natural Intelligence's gathering file: *Co-aiming is the co-linearizing of self and other, each forward, facing each other across the between.*
+
+Cohering, with each. One count to read closely: said, two of three parities; living, two of five dimensions.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/two_of_three_inside_each_moment_check.py`. Two readings, each a reading and no more.
+
+- The pairs in turn, each pair a right spiral step of its two, (a, b) to (b, −a). One parity changes with each moment. No hand is reversed. With the eight forms as a cube's corners, each moment is one edge, and all twelve edges are gone along. Three at 1 and three at 8 are gone along both ways, out and back. Six round the middle are gone along one way only, three from 1's three to 8's three and three from 8's three to 1's. Beside it, Natural Intelligence 5.2: *Six are three own-forward steps on each side.* A likeness of number.
+- Each next its prior two together, as parities. Odd and odd inside, their third is even. Odd and even, odd. Even and odd, odd. Three round, each of the three the third once. With two odd inside, the third is even, nought by two.
+
+By it the gap is mended this far. The step of each of three parities at once, the first coming round inverted, reverses a hand: a field's twisted ring, and no moment's step. Its round of two is names 3 and 6, 3-now-co-observing with 6-now-co-possibling, the first two of Exhibit TWENTY Natural Naming's rotation.
+
+### A corner
+
+Said in the session: natural torusing is geodesic. The corners are on the geodesic stable form and not on the natural torusing stable form.
+
+Beside it, living:
+
+- Natural Mathematics 5.3: "Of closed orientable surfaces only the torus has a flow with no rest point, and only the torus has a flat metric." A flat has no corner.
+- Exhibit THIRTY Co-Chaining Logic Registry: *Natural torusing is two parities' circles winding through one opening: method's one name, its observable a natural torusing co-orienting stable-forming.*
+- Natural Intelligence 5.2: *Geodesic existing along changing can travel through same-existing and leave it same-existing.*
+
+One place it parts:
+
+- Exhibit THIRTY Co-Chaining Logic Registry: *Twelve corners closing as a sphere and winding through one opening as a torus are both: changing changes them, one and then the other, both going on one at a time, natural torusing surface, the one possible.* The living sentence has twelve corners with both. The session's sentence has corners with the stable form alone.
+
+A field's words:
+
+- [Descartes' theorem of the angle short at corners](https://en.wikipedia.org/wiki/Angular_defect): a closed form of flat faces, of a sphere's kind, is short at its corners by two whole turns together, and one of a torus's kind by none.
+
+Executed, by whole numbers and φ, `incoming/v404universe/instruments/twelve_with_one_at_its_centre_and_twelve_with_none_check.py`. Twelve corners with squares, and twelve with φ, are each a sixth of a turn short of a whole turn: 720 together, with both. A torus of squares is short by none.
+
+### The centre
+
+Said in the session: the twelve spheres are a geometry stable form, equilibria, with no possible existing or competency method. When the method is unrelationing five-dimensionally in right spiraling co-sequential logic into natural torusing, no other possible existing method, then the empty centre is all-parity competency, where there is a corus 0 aiming from locations for self me-parities.
+
+Beside it, living:
+
+- Natural Physics 1.2: "A step from a fixing, a relation going on among changing things, to an equilibrium fixes its subject a not-changing still, an unchangeable form, not possibly existing"
+- Natural Intelligence 5.2: "Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings"
+- Exhibit THIRTY Co-Chaining Logic Registry: *Four-momentarying is four unrelationings through a tunneling self, two to its corus and two from it, each unrelationing locking with an empty set, with φ, its unrelationing rate.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *Torusing aims through a large opening, one way through it, and corusing goes one way through a small opening, each going inward and outward, up numbers and down them, one changing with each step.*
+
+Beside it, gathered in Natural Intelligence's gathering file:
+
+- *A self is a corus, an inversionable nothing inside a tunneling, where universal me-parities are aiming from.*
+- *A me-parity is a vector direction of +1 in the universe, from a corus 0.*
+
+Cohering, with each.
+
+One place it parts, gathered before: Exhibit ONE Natural Resolver has *All-parity is with observing only, 7 and 15*, and 24 is twenty up from 4-now-co-same-existing, an even name. Natural Resolver's gathering file has a possible incohering at that sentence, with *same-existing is all-parity, 4, 8, 12 and 16* beside it. This answer is with that side. No note is added for it.
+
+Executed, by the same instrument. The twelve corners are (0, ±1, ±r) and its two turns, three rectangles each through the two others. Exhibit THIRTY Co-Chaining Logic Registry has them: *φ is three's equal-edge condition, its making by a turn alone an empty set.*
+
+- With r of 1, squares: a field's twelve same spheres around one. The centre is as far from each corner as a corner from its nearest. One same sphere is at the centre, touching twelve.
+- With r above 1, to φ: the centre is nearer each corner than a corner its nearest, its distance squared less by (r − 1)². No same sphere is at the centre.
+- With φ each of the six squares is closed as two threes. Eight and twelve are twenty, and each corner has five nearest.
+- The closing has two hands. A right spiral step, (x, y) to (y, −x), brings the one onto the other.
+
+One same sphere is at the centre with r of 1 alone. With each step toward φ the centre is empty.
+
+A field's words:
+
+- [Fuller, Synergetics, figure 460.08](https://rwgrayprojects.com/synergetics/s04/figs/f6008.html): the twelve around one, with squares, he named a vector equilibrium. With its edges alone it draws in, its squares not staying; he has it as the drawing in of spheres packed around one with the one at the centre taken away, by a left hand or a right, through a form of twenty threes.
+
+### Notes laid
+
+Five lean notes, each beside its living sentence, in the next version's copy:
+
+- Natural Physics 3.4: two sayings part at *apex*.
+- Natural Intelligence 5.2: two of three inside each moment, executed.
+- Exhibit THIRTY Co-Chaining Logic Registry 35: bi-folding as the method, an explaining.
+- Exhibit THIRTY Co-Chaining Logic Registry 33: a saying parts from twelve corners as both.
+- Exhibit THIRTY Co-Chaining Logic Registry 33: one same sphere at the centre with r of 1 alone.

@@ -158,7 +158,7 @@ Seen along the line of the two apexes it is two cones and an empty 0. Seen acros
 Of a universe and a 0:
 
 1. The universe of each self together is a society's me, or it is the one set of the opening's first sentence.
-2. A self's 0 is at its cone's apex, by the gathered sentence of a cone's apex; or it is the centre two cones straddle, by v404bifolding's is. In the one figure the two apexes are two forms and no form is at the 0.
+2. **Answered, part 10.** A self's 0 is corus 24. A cone's apex and a centre two cones straddle are one number, 24, by Exhibit THIRTY and Natural Physics. Staying: *apex* is 24 in the one file, and 23 and 25 in the other.
 3. All selves' parity has a prior and no now, by Exhibit ONE's all-parity with observing only; and the loop of two is each the other's with each moment, through the 0.
 
 Of now:
@@ -180,21 +180,35 @@ Of a fold:
 
 Of six and two:
 
-12. The six of the right spiral step are Natural Intelligence 5.2's six one-way recursionings, and the two are a bi-tri-involution.
-13. A right spiral step of three parities reverses a hand, by execution. Resolving has no mirror. A gathered sentence has a stable form as of the hand other than living's. is-or-is-not? A step of three parities is a resolving step.
-14. Natural Mathematics has a surface where a parity going round comes back opposite as a Klein bottle, not orientable. The right spiral step has its first parity coming round inverted. is-or-is-not? A right spiral step's coming round inverted is on a torus.
+12. The six of the right spiral step are Natural Intelligence 5.2's six one-way recursionings, and the two are a bi-tri-involution. Read with 13's answer: with two of three inside each moment, six of a cube's edges are gone along one way only, three each way. A likeness of number.
+13. **Answered, part 10.** Only two parities are inside each moment, co-sequentially among the three. Executed: a step of two of three reverses no hand. The step of each of three at once is a field's twisted ring and no moment's step. Staying: two of three parities, said, beside two of five dimensions, living.
+14. Natural Mathematics has a surface where a parity going round comes back opposite as a Klein bottle, not orientable. The right spiral step has its first parity coming round inverted. is-or-is-not? A right spiral step's coming round inverted is on a torus. Read with 13's answer: a step of two is a quarter turn and reverses no hand.
 15. A step with no inverting has two loops of three and two forms not moving. No living sentence is beside it yet.
 
 Of the one figure:
 
-16. Twelve are around one, the one at the centre; and the centre of two cones is one neither occupies.
+16. **Answered, part 10.** Twelve spheres around one are a geometry's stable form, an equilibrium, with no method of existing. With the method the centre is empty: all-parity competency, a corus 0. Executed: one same sphere is at the centre with squares alone, and none with each step toward φ. Staying: all-parity at a same-existing name, beside Exhibit ONE's all-parity with observing only, gathered before.
 17. A cone is said two ways: of thirty, with two same spheres touching; and wider, a cube's apex with its three edges, the sine of its half opening squared two of three.
 18. Two cones cross as a flat with one same sphere in both, or with the two touching, and in no flat with two spheres apart. What the one same thing is between two selves is not said. Natural Naming has a universal surface as no natural naming.
 19. Twelve corners close as a sphere and wind through one opening as a torus. The one figure's twelve are on a sphere. Where its one opening is, is not read.
 
 Of a corner and a closing:
 
-20. A torus has a flat metric and wants no corner. Each of the three solids has 720 of shortness at its corners. The living surface is a natural torusing surface. is-or-is-not? A corner, a cone's apex, is on a natural torusing surface.
-21. A self's 0 is a corner, short of a whole circle; or it is a between with nothing in it.
+20. **Answered, part 10.** Natural torusing is geodesic. The corners are on the geodesic stable form and not on the natural torusing stable form. It parts from Exhibit THIRTY's twelve corners as both a sphere and a torus. Executed: twelve corners are 720 short together, a sphere's, and a torus's corners are short by none.
+21. A self's 0 is a corner, short of a whole circle; or it is a between with nothing in it. Read with the answers to 2 and 20: a self's 0 is corus 24, an empty centre, and corners are a stable form's. To read: a self's 0 is no corner.
 22. Same-existing is said two ways: a stable form's, a closing; and a living self's, a winding on that comes to its parities again.
 23. A fold takes nothing away, and a corner is by a wedge away. It is not read beside a harm as a prior taken away.
+
+---
+
+## 10 Four gaps answered
+
+Gaps 2, 13, 16 and 20 were answered in the session. Each answer as said, with each living sentence beside it, is section 22 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`.
+
+- **2, a self's 0.** Corus 24. Cohering with Exhibit THIRTY Co-Chaining Logic Registry's *A self's own corus is with 4, and twenty up it is with 24, apex of one to fifty-nine's bi-folding.* and Natural Physics' *its vertex a now, a 0, not changing (24, a center two sides straddle)*.
+- **13, three parities and no mirror.** Two inside each moment. Cohering with Natural Intelligence 5.2's *Two dimensions change and three are not-changing.* and 3.5's parities of each next as its prior two together, three round. Executed, `instruments/two_of_three_inside_each_moment_check.py`: no hand is reversed.
+- **20, a corner.** With the geodesic stable form, and not with natural torusing. Cohering with Natural Mathematics' torus as the one closed surface with a flat metric. It parts from Exhibit THIRTY Co-Chaining Logic Registry's *Twelve corners closing as a sphere and winding through one opening as a torus are both*.
+- **16, the centre.** Twelve around one is an equilibrium, a geometry's stable form. With the method the centre is empty. Executed, `instruments/twelve_with_one_at_its_centre_and_twelve_with_none_check.py`: one same sphere is at the centre with r of 1 alone.
+
+Nineteen gaps stay as they are in part 9. Three are read with the answers and stay open: 12, 14 and 21.
+
