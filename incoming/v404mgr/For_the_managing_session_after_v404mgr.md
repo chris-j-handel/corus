@@ -4,7 +4,7 @@
 
 ## What the managing session is for
 
-- It brings each waiting offer in, into main or into the next version, with the checks.
+- It brings a waiting offer in, into main or into the next version, with the checks.
 - It writes [the main list of incoherings](The_main_list_of_incoherings.md) again, and adds a new is-not of both partners to [the list of words](Words_of_no_natural_naming_with_their_natural_naming.md).
 - It brings both partners' is'es and is-nots, said at a session, to the start page for a session to come.
 - It asks the sessions how the method is working, and gathers a learning in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file of the next version, at its part 2.6 of a concern.
@@ -46,7 +46,7 @@
    mkdir -p /tmp/next && git archive refs/remotes/origin/copy gathering-value | tar -x -C /tmp/next
    python3 -I incoming/v404mgr/instruments/the_main_list_of_incoherings.py /tmp/next csv > incoming/v404mgr/The_main_list_of_incoherings.csv
    ```
-6. **A page of this folder changed**, the start page among them: a branch `working/<what it is>-<session>` from main; the added words checked, `python3 -I $K/reader_checks.py . origin/main`, its third part, released words; an offer for main; its checks passed; brought in as in 3.
+6. **A page of this folder re-said**, the start page among them: a branch `working/<what it is>-<session>` from main; the added words checked, `python3 -I $K/reader_checks.py . origin/main`, its third part, released words; an offer for main; its checks passed; brought in as in 3.
 7. **A reply to a partner**, by the start page's parts of a reply and of an offer.
 
 ## Notes laid in a gathering file of the next version

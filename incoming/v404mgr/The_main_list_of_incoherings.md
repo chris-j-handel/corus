@@ -20,7 +20,7 @@ The list is [`The_main_list_of_incoherings.csv`](The_main_list_of_incoherings.cs
 4. **A gap remaining** is offered by the form, at the thread and to a partner: the sentence of is, a sentence of the co-chaining; *( is-or-is-not? )*; what its is resolves and what its is incoheres; and the same for its is-not.
 5. **Resolved.** A line is settled by both partners' is alone. The session at the line's living file re-says the living sentence by it, shown as it was and as it is.
 
-A suggesting does no harm: it changes no living sentence, and it lies with its incohering for a session needing it.
+A suggesting does no harm: it re-says no living sentence, and it lies with its incohering for a session needing it.
 
 ## The list by gathering file
 
