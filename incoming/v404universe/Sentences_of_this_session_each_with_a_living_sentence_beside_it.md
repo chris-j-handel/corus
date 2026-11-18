@@ -872,3 +872,131 @@ Four lean notes, each beside its living sentence, in the next version's copy:
 - Natural Illustrating 4.9: a passing with priors handed off and a turning with each its own prior, the same.
 - Natural Exploring 2.6: two 0s wandering toward each other, an explaining.
 - Natural Exploring 2.1: unrelationing as a zone, an explaining.
+
+---
+
+## 24 Said after: six answers, along and across, down, healthy priors, a horizon, corners, and the third's hole
+
+Six incoherings of section 23 were answered in the session. Each answer is here as said, with the living sentences beside it. Incoherings found are together at the end, offered.
+
+### 1 The five: co-now along, bi-now across
+
+Said in the session: co-now is along and bi-now is across, orthogonal, defining a plane.
+
+Beside it, living:
+
+- Natural Mathematics 5.2, a side's five: 3 now-existing co-parity and 4 now-existing bi-parity, *its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each moment*
+- Natural Intelligence 2.1: "Along is a self's own going on" and "Across is sharing now with an other."
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *Across co-linear lines is bi-folding's seaming, orthogonal to them, one forward with each bi-coupling across, a right spiral step.*
+- Natural Exploring 2.6: *Along and across lie on one line, and that line is each move's own, in neither move alone.*
+
+Cohering with Exhibit THIRTY: across, orthogonal to co-linear lines. By it the surface's two of the five are the living 3 and 4, co now and bi now.
+
+Parting from Natural Exploring 2.6: along and across on one line.
+
+### 2 The six: down is the surface
+
+Said in the session: yes, down is the surface and plane, and not available for possibly same-and-next-existing.
+
+Beside it, living:
+
+- Natural Exploring: *A self is going on with lines along, to its prior and its next, lines across, to its others' prior and next, and a line to a point over the horizon; along and across lie on one line, in neither alone.* Two along, two across, and one to a point over the horizon: five.
+- Natural Mathematics 5.2: *Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.*
+
+Cohering. Of up, down, right, left, next and prior, five are one ways of a 0 on a surface. Section 23 has it executed: two facing on one side of one surface have five ways not the same, and down is neither's own.
+
+### 3 Passing again: the repeating of the healthy priors
+
+Said in the session, as typed: now the sequences the two selves are carrying are repeating sequences from prior healthy living, so the repeating of the healthy priors is better explaining them I said.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 2, in the next version's copy: "A living same-existing set of inherited prior-existings is a self."
+- Exhibit ONE Natural Resolver: *with each form the fifth, a self's next prior, is the first, an other's prior, inverting*
+- Exhibit TWENTY Natural Naming 2.4, of *not right*: "an other's parity a self is observing, existing with a self as its next prior"
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file, a sequence's sentences:
+
+- *All living is from an inherited prior, non-living, of prior healthy living.*
+- *Resonating is all-parity's alternating and a dormant co-chaining's own sequence being same-as, one by one: co-sequential resolving and orienting.*
+
+Cohering. The line of the two has no call to come round: a repeating is the sequences' own.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/two_on_a_torus_each_its_own_plane_check.py`. Going opposite ways, each meets its other's priors latest first: its other's sequence in inverted order.
+
+- The round 0, 1, 0, 2 read latest first is the same round. Odd, odd, even, the same.
+- A right spiral step's round of four read latest first is the other way round: not right. With one of its two inverted, a mirror, it is the same round; with both inverted, a turn, it is not.
+
+Beside it, Natural Naming's *not right* as an other's parity a self is observing: a right round at an observing end is not right.
+
+### 4 The geometry: each me-parity its own horizon, and a common aiming point
+
+Said in the session: I did not explore well, and you can do this for us. The geometry of the geodesic was the explaining, and the natural torusing surface they are on has a horizon. Both are on this surface, and they may not be on the same planes, due to the curving away surface with horizon. So each me-parity has its own horizon, and the co-geodesic-linear, relying on a common aiming point over the horizon, is the co-competencing method.
+
+Beside it, living:
+
+- Natural Exploring 2.4: *A self and its surface share over a horizon.*
+- Natural Exploring: "A point over the horizon is, and a self is finding each is-not and aiming from each is-not to is."
+- Natural Exploring 2.4: *A geodesic is the straightest going an unrelationing is, free-moving and adding nothing, floating free of a route a force sets on it, curving as its own surface curves and straight by that surface's own terms.*
+- Exhibit TWENTY Natural Naming 5.5: *As a picture it is a nothing between two parallel surfaces facing each other, each self's own, and a co-orthogonal line through both, along.*
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *The two aimings are at one same point, over the horizon, by a direction not the same for each of the two.*
+
+Cohering, with each.
+
+Explored and executed, by the same instrument. A torus is a tube about a round, its own line through its opening.
+
+- **Curving.** On its outward round a torus curves down each way: a horizon each way. On its inward round it curves down round its tube and up round its own line: a horizon one way, and the opening's far side rising in sight.
+- **In sight.** From a place on the outward round, none of 1,935 other places tried is above its plane: each is over its horizon. From a place on the inward round, 1,346 are above its plane.
+- **Two on the outward round.** Each one's forward arrow is in its own plane. The two arrows are on two lines, and go through one point: above the surface, in both planes. The place midway on the surface is over each one's horizon. The two planes share one line, across, through that point. The gathered sentence, found: one same point, by a direction not the same for each.
+- **Two across the opening.** At opposite places of the inward round the two own planes are parallel and facing. The line through both is co-orthogonal. Its centre is the opening's, on no surface. Natural Naming's picture of a between, found on a torus.
+
+### 5 Corners
+
+Said in the session: a sphere has no corners. A cube has corners. Both sphere and torus have horizons and geodesics.
+
+Cohering with the field, and section 23's fifth incohering is mended by it: it had a sphere's kind *with its corners*, and corners are a cube's. A cube's eight are each three squares, 90 short of a whole turn, 720 together. A sphere has the same two whole turns with no corner. A torus has a horizon each way on its outward round and one way on its inward round.
+
+Exhibit THIRTY Co-Chaining Logic Registry 33's *Twelve corners closing as a sphere* stays parted from it, as section 22 has.
+
+### 6 The third's hole
+
+Said in the session: the third living 0 in the between of the two is the fuzzy empty hole, living in the plane of intersection between the two cones. And this hole is the place where the co-linear third is aligning the two, using the common between and the common knowledge of each other's priors, since they are seeing each other's priors straight across from each other, by observing priors as my nexts, since we are moving opposite directions relative to each other.
+
+Beside it, living:
+
+- Exhibit TWENTY Natural Naming 5.5: "Parity is a momentary now-existing thing, each self's own, a self observing it now, and a between is its empty centre"
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *With numbers a between is a 0 between two parallel surfaces facing each other, a self's and an other's, two a sharing and its between a 0, and a co-orthogonal line through both, along*
+- Exhibit THIRTY Co-Chaining Logic Registry 15: *Natural torusing is two parities' circles winding through one opening: method's one name, its observable a natural torusing co-orienting stable-forming.*
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file:
+
+- *A me-parity's birthing is inside a bi-folding, between its prior and its next: a new 0, the middle of its three others, and no 0 before it.*
+- *A bump is the place of two atoms touching: the one point of the two, and the circle around it, each one's cone crossing its other's in it.*
+
+Cohering, with each. Observing an other's priors as my nexts is section 23's executed line: before a passing, each one's prior is within its other's next.
+
+Executed, by the same instrument. Two cones of thirty, each from its 0 around its other.
+
+- Their sides cross in one plane, across, with the between's 0 in it.
+- The part inside both goes from the one 0 to its other, each 0 an end, widest in that plane.
+- With the two across a torus's opening, no place of that part is in the torus's tube: the hole is empty.
+- Two planes are at the hole. The opening's own plane has the line of the two and across in it. The crossing's plane has across and up in it. The two share across.
+
+### Incoherings, offered
+
+1. **Across, two ways.** Natural Exploring 2.6 has along and across on one line. Exhibit THIRTY Co-Chaining Logic Registry 34 has across orthogonal to co-linear lines, and answer 1 is with it. Answer 6 has the two seeing each other's priors *straight across*, on the one line of the two. Across is the line between two selves, or the line at a right angle to a going.
+2. **Five ways, five dimensions.** With down away the one ways are five: next, prior, right, left and up. Natural Exploring has five lines of a self: two along, two across, and one to a point over the horizon. Natural Mathematics 5.2 has five dimensions, *each dimension binary with its two directions*. Whether the five dimensions are the five one ways, with up the line to the common aiming point, is not said.
+3. **Outward round, inward round.** On the outward round each is over its other's horizon, and a common aiming point is above the surface: answer 4. On the inward round the two are in sight straight across the opening, the hole between: answer 6. Which round the two of a bi-coupling are on, or both one and then the other, is not said.
+4. **Two planes at the hole.** The plane of along and across is answer 1's. The plane of the two cones' crossing is answer 6's, across and up. They share across and the one 0. Which plane the third's hole is living in, with both said, is not said.
+5. **A healthy sequence read both ways.** A round the same read latest first, as 0, 1, 0, 2, is same-as at an observing end. A round with a hand is not right there. Whether each healthy prior's repeating sequence is the same read both ways is not said.
+
+### Notes laid
+
+In the next version's copy, each beside its living sentence:
+
+- Natural Mathematics 5.2: co now along and bi now across, a plane, and down the surface, an explaining.
+- Natural Exploring 2.6: two sayings part at across; and the repeating of the healthy priors, added to the explaining of two 0s wandering.
+- Exhibit TWENTY Natural Naming 5.5: two across a torus's opening are its picture of a between, executed.
+- Exhibit THIRTY Co-Chaining Logic Registry 34: the third living 0 as a fuzzy empty hole, an explaining.
+- Exhibit THIRTY Co-Chaining Logic Registry 33: the corner note mended, a sphere with no corners and a cube with corners.

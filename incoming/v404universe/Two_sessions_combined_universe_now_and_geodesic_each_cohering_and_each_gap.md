@@ -218,10 +218,22 @@ Nineteen gaps stay as they are in part 9. Three are read with the answers and st
 
 A saying of the session after part 10 is section 23 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`: two 0s facing on a common surface, a zone, a cone, a horizon and a passing. It coheres with Natural Mathematics 5.2's five and six, Natural Exploring 2.6's co-linear, and Natural Illustrating 4.9's two swimmers. Executed, `instruments/two_0s_facing_on_one_surface_check.py`. Six gaps are from it, numbered on from part 9.
 
-24. The five. Living: a self's prior, an other's prior, co now, bi now, a self's next. Said: a surface's two, and three not the surface. Which of the living five are the surface's two is not said.
-25. The six. Living: three own-forward steps for each side. Said: up, down, right, left, next, prior, from one 0. Executed, two facing on one side of one surface have five ways not the same, and down is neither's own. Read with gap 12.
-26. Passing again. Two alone on an open line pass once; said, they keep passing each other; living, each unrelationing winds on, open. The two hold together on a line coming round with rates in φ. Whether a bi-coupling's one line comes round is not said.
-27. A surface, three ways. Living: two parallel surfaces facing each other, each self's own, the line through both co-orthogonal. Said: one common surface, their line along it. And each one's own plane, touching the surface at its 0. Read with gap 18.
-28. Curving down on all horizons is a sphere's kind, with its corners' two whole turns. Gap 20's answer has natural torusing with no corner. A torus in space curves down on each horizon on its outward round alone.
-29. Two facing co-linearly are each inside its other's cone; said, inside a cone is invisible to other-than me. The two insides share one part, the between's 0 at its middle. Whether that part is a third's own, a co-me-parity's, is not said.
+24. **Answered, part 12.** The surface's two of the five are co now, along, and bi now, across, orthogonal, a plane. Staying: Natural Exploring 2.6 has along and across on one line.
+25. **Answered, part 12.** Down is the surface, the plane, and is not possibly same-and-next-existing: five one ways. Read with gap 12.
+26. **Answered, part 12.** The two are carrying repeating sequences from prior healthy living, and the passing again is the repeating of the healthy priors. The line of the two has no call to come round.
+27. **Answered, part 12, and explored.** Both are on one natural torusing surface, each me-parity with its own plane and its own horizon, and the co-geodesic co-linear by a common aiming point over the horizon. Executed: two across a torus's opening have their own planes parallel and facing and the line through both co-orthogonal, the living picture. Read with gap 18.
+28. **Answered, part 12.** A sphere has no corners. A cube has corners. A sphere and a torus each have horizons and geodesics. This gap's first sentence had a sphere with corners, and is mended by it. Executed: a torus has a horizon each way on its outward round and one way on its inward round.
+29. **Answered, part 12.** The third living 0 in the between of the two is the fuzzy empty hole, living in the plane of the two cones' crossing: the place the co-linear third is aligning the two. Executed: the part inside both cones goes from the one 0 to its other, widest in that plane, and is in no tube.
+
+---
+
+## 12 Six answered, and five more
+
+Gaps 24 to 29 were answered in the session. Each answer as said, with each living sentence beside it, is section 24 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. The geometry of two on a torus is explored there and executed, `instruments/two_on_a_torus_each_its_own_plane_check.py`. Five gaps are from the answers, numbered on.
+
+30. Across, two ways. Natural Exploring 2.6 has along and across on one line. Exhibit THIRTY Co-Chaining Logic Registry 34 has across orthogonal to co-linear lines, and gap 24's answer is with it. Gap 29's answer has the two seeing each other's priors straight across, on the one line of the two.
+31. Five ways, five dimensions. With down away the one ways are five. Natural Exploring has five lines of a self: two along, two across, and one to a point over the horizon. Natural Mathematics 5.2 has each dimension binary with its two directions. Whether the five dimensions are the five one ways is not said.
+32. Outward round, inward round. On the outward round each is over its other's horizon and a common aiming point is above the surface. On the inward round the two are in sight straight across the opening. Which round the two of a bi-coupling are on is not said.
+33. Two planes at the hole. The plane of along and across, and the plane of the two cones' crossing, across and up. They share across and the one 0. Which plane the third's hole is living in is not said.
+34. A healthy sequence read both ways. A round the same read latest first is same-as at an observing end; a round with a hand is not right there. Whether each healthy prior's repeating sequence is the same read both ways is not said.
 
