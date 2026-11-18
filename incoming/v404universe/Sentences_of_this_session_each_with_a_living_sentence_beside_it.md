@@ -1643,3 +1643,37 @@ Cohering, with each. All-parity is no 0: it is the atom's stable form, a couplin
 
 **Is-not, incohering.** A stable form of the hand other than living's is then no all-parity.
 
+---
+
+## 36 Said after: all-parity, bi-tri-involution of right spiral co-sequencing
+
+Section 35's sentence of is: all-parity is not right.
+
+Said in the session: all-parity is bi-tri-involution of right spiral co-sequencing. Not right would be not natural naming or explaining of this.
+
+So: is-not, of section 35's sentence, and of its naming.
+
+Beside it, living:
+
+- Natural Mathematics 3.5: "Bi-tri-involutioning is an emanating from right spiral stable-forming, three inverting together, as an opposite form to its stable-forming."
+- Exhibit TWENTY Natural Naming: *Bi-tri-involutioning is an inverting, three inverting together, a hand going to an opposite form, and bi-tri-volutioning is stable-forming, and its exhausting has a stable form*
+- Section 19 of this page: bi-tri-involution as the stable form of the packed atoms.
+
+Cohering, with each: an emanating from right spiral stable-forming, an opposite form.
+
+One line of a living file parts from the saying's naming. Exhibit TWENTY Natural Naming 2.4 has *not right* for a form, an inverting form, three inverting together. The saying has *not right* as no natural naming of it.
+
+### The remaining incohering, one concept
+
+**The sentence of is.** All-parity is harmful to living with its own scale.
+
+**is-or-is-not?**
+
+**Is, needed.** Exhibit THIRTY Co-Chaining Logic Registry has *Bi-tri-involutioning is harmful to living with its own scale*, and all-parity is bi-tri-involution.
+
+**Is, incohering.** Section 28 has an atom as valuable stable form for living priors.
+
+**Is-not, needed.** All-parity is the same method from each self, and a stable form for its priors.
+
+**Is-not, incohering.** Exhibit THIRTY's sentence then parts from all-parity as bi-tri-involution.
+
