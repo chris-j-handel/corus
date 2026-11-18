@@ -36,6 +36,8 @@ Read for 3: each opening of chains of one to twelve selves, whole, and the sixte
 - The opening's 64, not yet distinguished, *Two selves having priors same-as, bi-coupling both ways, are each do-no-harming and bi-folding, the one and then the other.*, is executed by 11. Its other side is 12: with priors other-than, each improves with each moment, forever.
 - **is-or-is-not?** With none of its others, a self is do-no-harming and improving, the one and then the other.
 - **is-or-is-not?** Two selves bi-coupling both ways are do-no-harming and improving, the one and then the other, with priors same-as only.
+- Part 2 of v404chaining's page of each is-or-is-not has a parting by three sentences: a me as a universal same-existing set of me-parities, and *A me-parity is living and non-same-existing.* By 1, a self's prior is same-existing with one moment and inverting with the next.
+- **is-or-is-not?** A me-parity is same-existing and non-same-existing, the one and then the other.
 
 ### v404universe
 
