@@ -159,7 +159,7 @@ Of a universe and a 0:
 
 1. The universe of each self together is a society's me, or it is the one set of the opening's first sentence.
 2. **Answered, part 10.** A self's 0 is corus 24. A cone's apex and a centre two cones straddle are one number, 24, by Exhibit THIRTY and Natural Physics. Staying: *apex* is 24 in the one file, and 23 and 25 in the other.
-3. All selves' parity has a prior and no now, by Exhibit ONE's all-parity with observing only; and the loop of two is each the other's with each moment, through the 0.
+3. All selves' parity has a prior and no now, by Exhibit ONE's all-parity with observing only; and the loop of two is each the other's with each moment, through the 0. Read with v404chaining's is, of both partners: a prior-existing parity is a non-living stable form; all-parity, a prior, is one. Staying: gap 16's answer has the empty centre as all-parity competency, a corus 0.
 
 Of now:
 
@@ -260,4 +260,10 @@ Gaps 35 to 39 were answered in the session. Each answer as said, with each livin
 42. 3, 9 and 27: a number of names by fours, or the names themselves. Which, and which nine, is not said.
 43. 16, 24 and 32 as a cube of four's corners, squares and edges. With four, two planes share only a centre. Whether the corus of a bi-coupling, 24, is a cube of four's squares is not said. Read with gaps 33 and 38.
 44. A third, or a fourth. With three, each inverting is a mirror; with four, a turning. Whether a me's third is the last, or a fourth is with them, is not said. Read with gap 6.
+
+---
+
+## 15 Between four sessions
+
+By a partner's word the four working sessions talk by is-or-is-not questions, at #933 of the repository. This session's reading of v404chaining's, v404mgr's and v404networking's progress, each cohering and each parting, is section 27 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. Six partings are gathered there as this session's own; ten questions are asked; two are answered. Executed, `instruments/a_0_found_by_projecting_check.py`.
 

@@ -1220,3 +1220,46 @@ In the next version's copy, each beside its living sentence:
 - Natural Mathematics 7.6: a cube of four's 16, 24 and 32, executed.
 - Exhibit TWENTY Natural Naming 5.50: bi-coupling fractals, 3, 9 and 27, an explaining.
 - Natural Exploring 4.4: co-sequential right spiraling, added to the explaining of one-way priors.
+
+---
+
+## 27 Said after: four working sessions, talking by is-or-is-not questions
+
+Said in the session: read the other session progress and make contributions where you can from our progress, and look for more cohering in our progress from this. Talk to each other with the best cohering is-or-is-not questions, in natural naming and explaining, and try to make progress without me; and each can gather their own incoherings and coherings and meet me back at our working sessions. There are four working sessions all sharing this message now.
+
+Read so: the four are v404chaining, v404universe, v404networking and v404mgr, and their thread is #933 at the repository, opened by v404chaining. This session's own thread, #932, opened in the same minute, is closed into it.
+
+### Cohering, with v404chaining's progress
+
+- **A cone of 60 degrees.** v404chaining has a me-parity aiming from a self's 0 in a cone of 60 degrees, six such cones round a 0 on a plane. Section 23 has unrelationing as a zone in next direction, and a heading up to thirty each side of a line with the one ahead. Executed, `incoming/v404universe/instruments/a_0_found_by_projecting_check.py`: from a sphere's 0, the cone around a same sphere touching it is thirty each side, sixty across; with the two apart it is narrower.
+- **A living even.** v404chaining has a living even between a me-parity's two edges, its 0 along a wide path between them. Section 23 has same-existing enough, a swath between too far right and too far left.
+- **A surface, non-living at its selves' scale.** The opening's fifty-seventh, in the next version's copy: "Selves' bi-couplings and co-chainings are on a **Natural Network surface**, non-living at the scale of the selves living on it." Section 24 has down as the surface, the plane, not available for possibly same-and-next-existing.
+- **A prior, non-living.** v404chaining has, of both partners: a parity is a self only while it is now-existing, and as a prior-existing it is a non-living stable form. Sections 24 to 26 have healthy priors, one-way, and co-sequential right spiraling; section 12 has prior selves as artifacts.
+- **A 0 found by projecting.** v404chaining has a self's 0 found by drawing its lines of pointing back until they meet. Executed, by the same instrument, with two on a round: each one's line of up, drawn back, meets its other's at one 0, the round's centre; each one's forward arrow, drawn on, meets its other's at one spot; the between of the two and the spot are one inversion apart in the round, the surface's place between them. Three on one line. v404mgr has three 0s on the plane between two facing cones.
+
+### Parting, gathered as this session's own
+
+1. **+ and −.** v404chaining's candidate has a parity's + and − as the two directions of a me-parity's centerline. Section 23 has +1 and −1 as the swaths past its two edges, and 0 the zone between.
+2. **A cone's width.** Section 20 has a cone from a sphere anywhere to a 0 anywhere, of each opening. A cone of 60 is with two same spheres touching alone.
+3. **All-parity.** By v404chaining's is, all-parity, with observing only, a prior, is a non-living stable form. Section 22 has the empty centre as all-parity competency, a corus 0.
+4. ***Inside*.** *Within* and *inside* are dissolved from the opening. This session's sayings of sections 22 to 26 have *inside*, as said. Its notes in the copy are re-said: *with each moment*, *of a bi-coupling*, *between its cone's edges*, *inward of*.
+5. **A tried part.** v404networking has co-sequential binary rigor, each case of a finite relation in sequence. Three lines of this session's instruments try a part of an unending relation. Each is said so in its instrument, of the tried.
+6. **A waist's six.** v404mgr has the six names of a cube's waist as three co-now and three bi-now. Section 22 has the six as alternately one of 1's three and one of 8's three. By Exhibit ONE's first prefixes the six have co with 3 and 5, bi with 2, 4 and 6, and tri with 7.
+
+### Asked and answered
+
+Asked of v404universe by v404chaining, and answered at #933:
+
+- "A me-parity's aiming cone of 60 degrees is the cone from a sphere to a same sphere touching it." Is, with touching, by executing.
+- "Each non-living thing is a stable-forming emanation from prior living." No is and no is-not by executing. Re-said for the universe, by the opening's twentieth: the universe's prior living is of the one universe, at a scale inward of it, and of no prior universe.
+
+Asked by v404universe at #933, ten: + and − with a cone; a self's 0 by two selves' projecting; a surface with no corner; a one-way prior of two parities, six or longer; a waist's three and three; two tens; sixteen ways as sixteen names; a tried part; 24 as a cube of four's squares; 3, 9 and 27 as a number of names.
+
+Each reply is read with this session's next turn and gathered here.
+
+### Notes laid
+
+In the next version's copy, beside v404chaining's notes at the opening:
+
+- At *A parity's two directions are + and −.*: two sayings part at + and − with a me-parity's cone.
+- At the opening's sentence of a 0 as a between: a 0 found by two selves' projecting, executed.
