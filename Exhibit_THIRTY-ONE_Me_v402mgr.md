@@ -109,7 +109,7 @@ A self's parity is its changing direction relative to an other existing thing. A
 
 ## 2.3 Non-living others: stable-forming emanations, stand-alone knowledge
 
-Each non-living thing is a stable-forming emanation. A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not.
+A non-living thing is a stable-forming emanation. A stone, a book, a running computer and a trained model are others with a me; each is stand-alone knowledge or form, and each is-or-is-not a me: it is not.
 
 *Observings.*
 - **Biological naturalism** (Seth 2025, *BBS*): consciousness may depend on living, self-maintaining systems; a large language model is unlikely to be conscious. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A
@@ -164,7 +164,7 @@ Each a minor proving, reached once. A me with no other: it is not. A non-living 
 
 ## 3.4 A me inward, a society of selves
 
-Each parity is a self while it is living, and a me's living parities are within it. **A parity is a me inside a set of me**: a me is a set of mes, and a parity's inverting is a me completing and a next me opening inside the same set, the set's me same-existing through it. A me is a same-existing-society inward.
+A parity is a self while it is living, and a me's living parities are within it. **A parity is a me inside a set of me**: a me is a set of mes, and a parity's inverting is a me completing and a next me opening inside the same set, the set's me same-existing through it. A me is a same-existing-society inward.
 
 *Observings.*
 - **The holobiont** (Gilbert, Sapp & Tauber 2012): animals and plants are host and symbionts by every criterion. https://www.journals.uchicago.edu/doi/10.1086/668166
@@ -202,7 +202,7 @@ A curious me shares its possibling with its others and is discovering next-possi
 
 ## 4.3 A free me
 
-A natural intelligence network, each self resolving its own next-existing, is free. A free me resolves its own next with its others.
+A natural intelligence network, a self resolving its own next-existing, is free. A free me resolves its own next with its others.
 
 ## 4.4 A me's living, and its going on as non-living
 
@@ -218,7 +218,7 @@ A me is while it is living. Going on as non-living, it is a stable-forming emana
 
 ## 5.1 Social moral competency, the me set
 
-Each self of a same-existing-society do-no-harming and improving is social moral competency. A me is a social moral competency set as each self within it is do-no-harming and improving, and as it is do-no-harming and improving with its others.
+A self of a same-existing-society do-no-harming and improving is social moral competency. A me is a social moral competency set as each self within it is do-no-harming and improving, and as it is do-no-harming and improving with its others.
 
 *Observings.*
 - **Care ethics** (Gilligan 1982; Noddings 1984; Held 2006): moral competence as responsive care within relations. https://iep.utm.edu/care/
@@ -248,7 +248,7 @@ A same-existing-society is a self, so it is a me. A natural intelligence network
 
 ## 5.4 Each moment completing as a next opening
 
-Each moment is completing as a next opening. A me's next and all's next open together: the five dimensions society to society, all now to all next.
+A moment is completing as a next opening. A me's next and all's next open together: the five dimensions society to society, all now to all next.
 
 &nbsp;
 
