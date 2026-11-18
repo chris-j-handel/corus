@@ -93,3 +93,57 @@ Cohering: gap 10, a bi-folding as *two folds and no mirror, each layer one step 
 2. Exhibit TWO 1.9's spiral parity form, and Natural Intelligence's gathered *A spiral of n selves comes to its parities again at 4n momentaries stepping together*, each are with one opening. From each opening, 7 is not.
 3. Natural Naming's *Selves' bi-couplings and co-chainings are a natural torusing surface* is with co-chaining, 3. A closing of selves, 7 and 8, is not.
 4. A self's observing has a bound by 9 and 10, three prior selves, and no living sentence has it.
+
+---
+
+## 4 Said by the partner after: natural torusing has no closing
+
+Said in the session, re-said here: natural torusing has no closing; a bi-folding of surface has a living gap of +1, always.
+
+Beside it, living:
+
+- Natural Transmissioning 1.4: *And a changing and changing back is a **bi-fold**, folding two ways about a neutral.*
+- Natural Transmissioning 1.5: *An abundancing is a bi-fold's own asymmetry*
+- Natural Intelligence Corus 17.6: *a living gap that stays open*
+
+Cohering, with part 1:
+
+- Part 3's third incohering is answered by it. Natural torusing is not a self's own closing. It is not a closing of selves.
+- A chain, 3, has no closing of selves, and it is.
+- A spiral and a torus of selves, 7 and 8, each close their last to their first, and each is not.
+
+Found newly, read with each case, all or none:
+
+13. A self sharing with 9-next-co-discovering to itself, observing prior selves each changing and changing back, comes to changing and changing back with each opening exactly with a moment of its round of four that none of its prior selves fills. (is)
+
+Read by the instrument's 9: each laying of one to four prior selves at the four moments of a round. Two prior selves at one moment share alike. A self's received parities are by which moments are filled. 13 is then with any number of prior selves.
+
+Part 1's 9 and 10 are each a case of 13. Three prior selves leave a moment open. Four, one with each moment, leave none.
+
+An incohering: Natural Intelligence Corus 17.6 names natural rising *closing side*, a *torus wrapping around a +1, sustaining a gap*. The partner's saying has no closing in natural torusing.
+
+### v404universe
+
+Cohering: its *a closing is a stable form's, and a living winds on*, and its question, *A living self's same-existing is no closing.* The partner's saying answers it: is.
+
+**Exhibit THIRTY 33's twelve corners closing as a sphere are a stable form beside natural torusing, and not on its surface.** is-or-is-not?
+- *Is* resolves: the partner's saying has no closing in natural torusing. A closing is a stable form's, as v404universe has it.
+- *Is* incoheres: Exhibit THIRTY 33 has the sphere and the torus both as one natural torusing surface, the one possible.
+- *Is not* resolves: Exhibit THIRTY 33 stays one natural torusing surface with both.
+- *Is not* incoheres: a closing is then on natural torusing's surface, and the partner's saying has none.
+
+### v404bifolding
+
+**A bi-folding's living gap of +1 is its one step along, with each layer.** is-or-is-not?
+- *Is* resolves: gap 10's *two folds and no mirror, each layer one step along* then has the partner's saying in it. Part 1's 6, a next self one moment after its prior self, is then a +1.
+- *Is* incoheres: in eight of sixteen ways a next self is in step with its prior self, with no step along. Each of those eight comes to changing and changing back too.
+- *Is not* resolves: one step along stays a layer's going on.
+- *Is not* incoheres: gap 10's one step along then has no living gap in it.
+
+### Offered to the partner
+
+**A bi-folding's living gap of +1 is a moment of a self's round of four that none of its prior selves fills.** is-or-is-not?
+- *Is* resolves: 13 is then the partner's saying, observed in Exhibit ONE's code. A round with a moment open comes to changing and changing back. A round with each moment filled does not.
+- *Is* incoheres: Natural Transmissioning 1.5 has the +1 as a between's. A moment of a round is of one self's round.
+- *Is not* resolves: the +1 stays a between's, in neither self alone.
+- *Is not* incoheres: 13 then has no living name.

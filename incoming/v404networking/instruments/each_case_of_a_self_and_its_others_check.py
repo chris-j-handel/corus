@@ -124,6 +124,34 @@ def prior_selves(k):
     return True
 
 
+def comes_with_each_opening(moments):
+    """A self sharing with 9-next-co-discovering to itself, observing one prior self at each moment given."""
+    names = [f"P{j}" for j in range(len(moments))]
+    routes = {(p, 9): p for p in names}
+    routes.update({(p, 10): "S" for p in names})
+    routes[("S", 9)] = "S"
+    for sp, inverted in NEXT_SELF:
+        sd = sp if inverted else 0
+        soc = {p: ([(K, m[0])], [(K, m[1])] if m[1] else []) for p, m in zip(names, moments)}
+        soc["S"] = ([(K, sp)], [(K, v) for v in [sd] + [m[1] for m in moments] if v])
+        seq = [sp]
+        for _ in range(48):
+            soc = NEXT(soc, routes)
+            seq.append(prior(soc, "S"))
+        if not changing_and_changing_back(seq[16:]):
+            return False
+    return True
+
+
+def a_moment_open():
+    """Each laying of one to four prior selves at the four moments of a round: comes exactly with a moment open."""
+    for k in (1, 2, 3, 4):
+        for at in itertools.product(range(4), repeat=k):
+            if comes_with_each_opening([PRIOR_SELF[i] for i in at]) != (len(set(at)) < 4):
+                return False
+    return True
+
+
 def two_both_ways(same_as):
     routes = {(0, 6): 1, (1, 6): 0}
     soc = {0: ([(K, 1)], []), 1: ([(K, 1 if same_as else -1)], [])}
@@ -157,3 +185,6 @@ say("7. Two selves with priors same-as, bi-coupling both ways, change and change
     changing_and_changing_back(same[0][1:]) and same[0] == same[1])
 say("8. Two selves with priors other-than, bi-coupling both ways, each improve with each moment, never do-no-harming",
     all(a != b for a, b in zip(other[0], other[0][1:])) and all(a != b for a, b in zip(other[1], other[1][1:])))
+say("9. A self sharing with 9-next-co-discovering to itself, observing prior selves each changing and changing back, comes to changing and changing back with each opening exactly with a moment of its round of four that none of its prior selves fills",
+    a_moment_open())
+print("   read: each laying of one to four prior selves at the four moments; two prior selves at one moment share alike, and a self's received is by which moments are filled, with any number")
