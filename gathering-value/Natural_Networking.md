@@ -185,9 +185,6 @@ Gathering-Value · Natural Networking
 
 ### 6.3 Three registers, code-form and stable-form and numbers, each holding its own
 
-### 6.4 Is-or-is-not the one observing, spans and orderings in place of positions and magnitudes
-
-
 ### 6.5 One prior for both, each going on bringing it onward
 
 - **An explaining** · A run opening each resolver empty discovers no relation that a saying has between two sequences each already living, each with its prior.
