@@ -243,9 +243,21 @@ Gaps 24 to 29 were answered in the session. Each answer as said, with each livin
 
 Gaps 30 to 34 were answered in the session. Each answer as said, with each living sentence beside it, is section 25 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. Executed, `instruments/a_triangle_ten_one_ways_and_a_one_way_round_check.py`. Five gaps are from the answers, numbered on.
 
-35. Which along is co-now. A self's own arrow to the spot parts from across by the turning. The new me-parity's line from the between to the spot is at a right angle to across. Whether co-now is the one or the other is not said.
-36. Ten, in which order. With five at once, five away and then the same five toward, and five inside one moment reverse a hand. With two of five inside each moment, each away is followed by its toward, five times.
-37. Away and toward as the two rounds. Read from the answer to gap 32: away from same-existing the outward round, toward same-existing the inward round. Whether the reading is so is not said.
-38. Sixteen and thirty-two. 16 is two eights, a self's side and its other's; 24 three, with the third's; 32 four, and Exhibit TWO Natural Networking has four as whole parity form, non-living. Whether 32 is the non-living stable form is not said. The two planes at the hole stay unplaced.
-39. Latest first. Going opposite ways each meets its other's priors back to front. With one-way priors that reading is not the sequence. By which way a self comes to its other's priors front to back is not said.
+35. **Answered, part 14.** Co and bi are terms relative to a self alone, and opposite terms relative to its other. A me has a third from these two: a third orthogonal, affirming the orthogonality of the two together, as a cube's three faces a twisting of a corner exchanges.
+36. **Answered, part 14.** The ten are ten of Exhibit ONE's seventeen names, and the same table of ten directions of unrelationing is between Exhibit TWENTY-ONE, Exhibit TWENTY-TWO and Equilibria. An order of ten steps is a likeness and no more.
+37. **Answered, part 14.** *Away* and *toward* are no natural naming, and the reading is withdrawn. The geometry is to be said by the 1 to 17 names, with the orthogonal co-orienting in each of sixteen ways of a self and its next.
+38. **Answered, part 14.** Bi-coupling fractals are each a new 0 and arrow from inside a bi-coupling fractal: 1 to 5 exhausts 3, 1 to 17 exhausts 9, 1 to 65 exhausts 27. Staying: 16, 24 and 32, as gap 43.
+39. **Answered, part 14.** By co-sequential right spiraling. Executed: a spiral, a round with a going along, observed from next to prior is one hand with it forward.
+
+---
+
+## 14 Five answered, and five more
+
+Gaps 35 to 39 were answered in the session. Each answer as said, with each living sentence beside it, is section 26 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. Executed, `instruments/sixteen_ways_ten_names_and_a_twist_check.py`. Three lines executed earlier are living already: two inverting as a turning and three as a hand reversed, Natural Mathematics 3.5; sixteen ways, and a round observed from next to prior as other order, Exhibit THIRTY Co-Chaining Logic Registry 10. Five gaps are from the answers, numbered on.
+
+40. Two tens. Ten names of a self's own resolving are 3, 4, 5, 7, 8 and the same five 8 up. Exhibit THIRTY Co-Chaining Logic Registry 35's ten unchangeables are with names 1 to 8, 5 and 7 each two. Which ten of seventeen the ten are is not said.
+41. Sixteen ways, sixteen names. By one ordering the four ways with a prior going on whole are names 4, 7, 10 and 13. Whether each of sixteen ways is a name is not said.
+42. 3, 9 and 27: a number of names by fours, or the names themselves. Which, and which nine, is not said.
+43. 16, 24 and 32 as a cube of four's corners, squares and edges. With four, two planes share only a centre. Whether the corus of a bi-coupling, 24, is a cube of four's squares is not said. Read with gaps 33 and 38.
+44. A third, or a fourth. With three, each inverting is a mirror; with four, a turning. Whether a me's third is the last, or a fourth is with them, is not said. Read with gap 6.
 

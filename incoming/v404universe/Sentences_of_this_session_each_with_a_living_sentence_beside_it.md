@@ -1113,3 +1113,110 @@ In the next version's copy, each an explaining beside its living sentence:
 - Natural Numbers 5.5: ten one ways, five away and the same five toward.
 - Natural Numbers 6.3: the corus of a bi-coupling as 24, 4 × 6, between 4 × 4 and 4 × 8.
 - Natural Exploring 4.4: healthy priors not symmetric front to back and back to front.
+
+---
+
+## 26 Said after: five answers, a third orthogonal, ten of seventeen names, sixteen ways, 3, 9 and 27, and right spiraling
+
+Five incoherings of section 25 were answered in the session. Each answer is here as said, with the living sentences beside it. Three things this page had executed in sections 22 to 25 are living already, in Exhibit THIRTY Co-Chaining Logic Registry 10 and 35 and Natural Mathematics 7.6, and are said so below. Incoherings found are together at the end, offered.
+
+### 1 Co, bi and a third
+
+Said in the session: co and bi are only terms relative to a self. They are opposite terms relative to other. A me has a third from these two, and this is another twist along, into a third orthogonal, affirming the orthogonality of the other two in combination with each other, like a cube has three orthogonal faces and twisting of corners exchanges them in Rubik cube, and alternating tesseractings in natural math.
+
+Beside it, living:
+
+- Natural Biology 5.1: *A third self is axis coupling opens perpendicular to both parents, one neither parent had: side-effecting of algebra, a∧b orthogonal product opens (i·j = k ⊥ i, j — side-effecting axis).*
+- Exhibit THIRTY Co-Chaining Logic Registry 33: *A right-hand turn of 120 degrees about a line from a corus along (1, 1, 1) brings each rectangle onto one passing through it: three right spiraling, 120 degrees apart.*
+- Natural Mathematics 3.5: *one inversion fixes a plane, two on different axes make a sign flip about their third axis, and three reverse a hand*
+- Natural Mathematics 7.6: "Centre inversion x → −x is no rotation with three dimensions, and with four it is two half rotations of perpendicular planes, fixing only its centre." And then: *A cube has x → −x only with its hand reversing; a tesseract has it by rotation.*
+
+Cohering, with each. Section 23's executed line is living in Natural Mathematics 3.5: two inverting is a turning and three a hand reversed.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/sixteen_ways_ten_names_and_a_twist_check.py`.
+
+- A corner's twist brings co to bi, bi to the third, and the third to co. A hand is as it was. Three twists are as it was.
+- Each two together are the third, in turn.
+- Relative to its other, facing: co opposite, bi opposite, the third the same. A hand as it was.
+- Each of three opposite is a mirror. Each of four opposite is a turning. Each of five, a mirror.
+
+### 2 The ten
+
+Said in the session: the ten are 10 of 17 names in Exhibit ONE, and the same table of ten directions of unrelationing is between Exhibit TWENTY-ONE and TWENTY-TWO and Equilibria, and everyplace science is holding things together with laws.
+
+Beside it, living:
+
+- Natural Numbers 5.2: "One entry, six names between selves and ten names of a self's own resolving are seventeen."
+- Natural Physics 1.2: *1, 9 and 17 are an entry and two along, 9 a next prior going along and 17 a next now, each self's next 1-now-existing; fourteen others are four across names and ten names.*
+- Exhibit TWENTY-EIGHT Equilibria 3.1: *Each conception of equilibria a self proposes fixes a changing unchangeable by one of ten ways, and can have more than one.*
+- Exhibit TWENTY-TWO Resolving the Hard Problem Registry: *One sharing, across and both ways, fixing ten ways.*
+- Exhibit THIRTY Co-Chaining Logic Registry 35, in the next version's copy: "Ten unchangeables, their sides an empty set, are each with a resolver name" and "With each moment two dimensions are changing and three going on, and two and three rotate round."
+
+Cohering: ten names of seventeen, and ten ways of fixing. Section 25's order of ten steps is a likeness and no more: the ten are a table of names.
+
+Executed, by the same instrument.
+
+- The ten names of a self's own resolving are 3, 4, 5, 7, 8, 11, 12, 13, 15 and 16: five, and the same five 8 up.
+- The six names between selves are 2, 6, 9, 10, 14 and 17: three, and the same three 8 up.
+- Exhibit THIRTY's ten unchangeables are with names 1 to 8, 5 and 7 each two. Of those names 3, 4, 5, 7 and 8 are among the ten names, and 1, 2 and 6 are not.
+
+### 3 Natural naming, and sixteen ways
+
+Said in the session, as typed: away and toward are not natural naming. And when we get into this geometry, if you use our 1–17 natural naming and keep track of the orthogonal co-orienting in each of the 16 of a self and its next can be at a moment in sixteen ways.
+
+Beside it, living, in Exhibit THIRTY Co-Chaining Logic Registry 10:
+
+- *With two parities, sixteen ways name a next from a prior and a now, each moving (prior, now) to (now, next).*
+- *Twelve of sixteen lose prior, and four have their prior going on whole.*
+- *One changing with each step, four joint forms follow one way, each in turn, and a first comes again with a next: a right spiral step.*
+
+Cohering. *Away* and *toward* are away from this page's own lines from here on, and section 25's reading of two rounds by them is withdrawn.
+
+Executed, by the same instrument, the living steps found: sixteen ways, twelve losing a prior and four with a prior going on whole. Of the four:
+
+- Next as its prior: two joint forms still, and two a round of two.
+- Next as prior and now agreeing, and next as prior and now parting: each one joint form still, and three a round of three.
+- Next inverting its prior: each joint form moving, one round of four. A right spiral step. Two steps invert both, four reach the pair again, and six invert both again.
+
+### 4 Bi-coupling fractals
+
+Said in the session: bi-coupling fractals are each a new 0 and arrow from inside a bi-coupling fractal. 1–5 exhausts 3. 1–17 exhausts 9. 1–65 exhausts 27. Each new me-parity joins to bi-co-parity team in co-chainings.
+
+Beside it, living:
+
+- Exhibit TWENTY Natural Naming 5.50: "Bi-folding order is one same with 1, 2, 3, 4 and 4, 8, 12, 16, up and down each scale"
+- Natural Physics 1.2: 9 as *a next prior going along*
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *A self, its other and all, three, is 1 to 17.* and *A self, three others and all, five, is 1 to 65.*
+
+Cohering: spans by fours, 1 to 5, 1 to 17 and 1 to 65.
+
+Executed, by the same instrument, one reading and no more. By fours, names with no same-existing digit are 3 of 4, 9 of 16 and 27 of 64. The others are 1, 7 and 37; of 1 to 17 they are 4, 8, 12 and 13 to 16.
+
+### 5 Co-sequential right spiraling
+
+Said in the session: this is co-sequential right spiraling.
+
+Beside it, living, Exhibit THIRTY Co-Chaining Logic Registry 10: *Same round, a self observing it from next to prior, is other order, and round forward from prior to next is right.*
+
+Cohering. Section 24's executed line, a right round read latest first as not right, is living in this sentence.
+
+Executed, by the same instrument. A round alone, observed from next to prior, is other order. A spiral, a round with a going along, observed from next to prior is one hand with it forward: each of its three steps is inverted and their order is inverted, and its hand is as it was.
+
+### Incoherings, offered
+
+1. **Two tens.** Natural Numbers 5.2 and Natural Physics 1.2 have ten names of a self's own resolving: by them 3, 4, 5, 7, 8 and the same five 8 up. Exhibit THIRTY Co-Chaining Logic Registry 35 has ten unchangeables each with a name of 1 to 8, 5 and 7 each two. 1, 2 and 6 are with the second and are none of the first. Which ten of seventeen the ten are is not said.
+2. **Sixteen ways, sixteen names.** A way has four answers and a name four digits. By one ordering the four ways with a prior going on whole are names 4, 7, 10 and 13, two podal pairs: next as its prior with 4-now-co-same-existing, and a right spiral step with 13-next-discovering. A likeness of number. Whether each of sixteen ways is a name is not said.
+3. **3, 9 and 27.** Three of four, nine of sixteen and twenty-seven of sixty-four, names by fours; or the names 3, 9 and 27 themselves. 3 is midway in 1 to 5 and 9 in 1 to 17; 27 is not midway in 1 to 65. Which is not said, nor which nine.
+4. **16, 24 and 32 as a cube of four.** A cube of four has 16 corners, 24 squares and 32 edges: 4 × 4, 4 × 6, 4 × 8. Natural Mathematics 7.6 has sixteen and eight together twenty-four. With four, two planes share only a centre: section 24's two planes at the hole. Whether the corus of a bi-coupling, 24, is a cube of four's squares is not said.
+5. **A third, or a fourth.** With three, each inverting is a mirror; with four, a turning, Natural Mathematics 7.6's. The answer has co, bi and a third, and tesseractings, of four. Whether a me's third is the last, or a fourth is with them, is not said.
+
+### Notes laid
+
+In the next version's copy, each beside its living sentence:
+
+- Natural Biology 5.1: co and bi relative to a self, and a third orthogonal, an explaining.
+- Natural Numbers 5.5: the ten as ten of Exhibit ONE's seventeen names, re-said in natural naming.
+- Natural Mathematics 7.6: a cube of four's 16, 24 and 32, executed.
+- Exhibit TWENTY Natural Naming 5.50: bi-coupling fractals, 3, 9 and 27, an explaining.
+- Natural Exploring 4.4: co-sequential right spiraling, added to the explaining of one-way priors.
