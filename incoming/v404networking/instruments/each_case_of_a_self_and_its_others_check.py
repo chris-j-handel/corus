@@ -155,7 +155,7 @@ def at_each_quarter_turn():
 
 def an_empty_set_at_a_quarter_turn():
     """Each laying of one to four prior selves at the four quarter turns: changing and changing back with each opening
-    exactly with an empty set at a quarter turn."""
+    exactly with a quarter turn of no prior self."""
     for k in (1, 2, 3, 4):
         for turns in itertools.product(range(4), repeat=k):
             comes = all(changing_and_changing_back(observing_at(turns, sp, inverted, 48)[0][16:])
@@ -200,6 +200,6 @@ say("8. Two selves with priors other-than, bi-coupling both ways, each improve w
     all(a != b for a, b in zip(other[0], other[0][1:])) and all(a != b for a, b in zip(other[1], other[1][1:])))
 say("9. A self sharing with 9-next-co-discovering to itself, observing prior selves at each of a right spiral's four quarter turns, observes two opposite parities with each moment, a 0 between them, and is its own inverting with each moment, from each opening",
     at_each_quarter_turn())
-say("10. With an empty set at a quarter turn, it comes to changing and changing back with each opening, one at a time, an empty set between",
+say("10. With a quarter turn of no prior self, it comes to changing and changing back with each opening, one at a time, a nothing between",
     an_empty_set_at_a_quarter_turn())
 print("   read: each laying of one to four prior selves at the four quarter turns; two prior selves at one quarter turn share alike, and a self's surfacing is by its quarter turns, with any number")
