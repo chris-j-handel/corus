@@ -33,6 +33,17 @@ A living file is its sentences. The set is living while its sentences are being 
 
 **A session works with a partner's word.** A partner's word of 18 November: no session is started to go on by itself, and no coming is set for one. The managing session brings in the waiting offers and the thread's sayings with a partner's next word to it.
 
+**The main list of incoherings is in the open.** A partner's word of 18 November: the incoherings of the living file set lie in one list, for a session to pick up, cohere into the work, and return with its improving suggesting laid beside the incohering it is of; a session needing a resolving picks it up from the same place. The list and its page are `incoming/v404mgr/The_main_list_of_incoherings.csv` and `incoming/v404mgr/The_main_list_of_incoherings.md`: 2,364 lines of 33 gathering files of the next version, a line with its name, its living sentence, its open sentence and its state. A session names a line at the thread, finds the living sentences of its concept, lays its suggesting after the note's own words, opening *A suggesting:*, and offers it into the next version.
+
+**A session opening: v404thirdop and v404fourthop.** In this order: this page's parts of the method, whole, of a reply and of an offer; the list of words of no natural naming; the main list's page; and the four sessions' thread, issue 933, its newest sayings. Then a line of the main list:
+
+- **v404thirdop**, with the managing session at Exhibit ONE Natural Resolver: the main list's lines of Exhibit ONE's gathering file, its open sentences before its open lines. A line is cohered by Exhibit ONE's own sentences, its table of the seventeen names and its code as the method's stable form, and by Exhibit THIRTY's sentences.
+- **v404fourthop**, with the method: the main list's lines of Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file, the method's own; and the managing beside the managing session, by `incoming/v404mgr/For_the_managing_session_after_v404mgr.md`, to go on with it after this session.
+
+A session opening says at the thread which lines it is with, and brings a suggesting of the method itself with its own five: its offers and how they were answered; one is of both partners; one living sentence re-said; one place the form gave less than it asked; one learning.
+
+**The managing, whole,** is `incoming/v404mgr/For_the_managing_session_after_v404mgr.md`: what the managing session is for, a coming in order with its commands, and what was learned. With a managing session winding down, a working session familiar with the exchanging goes on with it.
+
 ## The job
 
 The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
