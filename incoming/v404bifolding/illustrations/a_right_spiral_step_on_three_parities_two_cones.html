@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A right spiral step on three parities: two cones crossing at an empty 0</title>
+<style>
+:root{--text-primary:#1f1e1d;--text-secondary:#5f5e5a;--border-strong:rgba(31,30,29,.3);--bg-neutral:#f1efe8;--bg-accent:#e6f1fb;--text-accent:#185fa5;--border-accent:#378add;--radius:8px;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--text-primary:#ecebe6;--text-secondary:#b4b2a9;--border-strong:rgba(236,235,230,.3);--bg-neutral:#2c2c2a;--bg-accent:#0c447c;--text-accent:#b5d4f4}}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;color:var(--text-primary);background:Canvas;line-height:1.6}
+h1{font-size:20px;font-weight:500;margin:0 0 .25rem}
+p.lead{font-size:14px;color:var(--text-secondary);margin:0 0 1rem}
+button{font:inherit;font-size:14px;padding:6px 12px;border-radius:var(--radius);border:.5px solid var(--border-strong);background:transparent;color:inherit;cursor:pointer}
+.on{border-color:var(--border-accent)!important;color:var(--text-accent)!important;background:var(--bg-accent)!important}
+.chip{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;padding:4px 8px}
+.mc{background:var(--bg-neutral);border-radius:var(--radius);padding:.75rem 1rem}
+.mc .l{font-size:13px;color:var(--text-secondary)}
+.mc .v{font-size:20px;font-weight:500}
+#cv{width:100%;height:380px;display:block;cursor:grab;touch-action:none}
+.lg{display:inline-block;width:18px;vertical-align:middle;margin-right:5px}
+</style>
+</head>
+<body>
+<h1>Three parities, a cube's eight corners</h1>
+<p class="lead">Each parity one place along, the first coming round inverted. From 000 the form goes round six corners, one parity changing with each step, one and then the other cone's base. From 010 or 101, the two apexes, it goes through the empty 0 to the other apex with each step. Each corner is labelled with its parities and its name, n − 1 in binary. Drag to look round.</p>
+<div style="display:flex;gap:8px;flex-wrap:wrap;margin:0 0 10px">
+<button class="md on" data-m="spiral">Right spiral step: first comes round inverted</button>
+<button class="md" data-m="ring">A field's plain rotate: first comes round as it is</button>
+</div>
+<div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:0 0 6px">
+<span style="font-size:13px;color:var(--text-secondary);margin-right:4px">Start from</span>
+<span id="chips" style="display:flex;gap:6px;flex-wrap:wrap"></span>
+</div>
+<canvas id="cv" aria-label="A cube whose corners are three-parity forms, with a marker stepping from form to form"></canvas>
+<div style="display:flex;gap:14px;flex-wrap:wrap;align-items:center;font-size:12px;color:var(--text-secondary);margin:4px 0 10px">
+<span><span class="lg" style="height:3px;background:#D85A30"></span>The loop the form goes</span>
+<span><span class="lg" style="border-top:1.5px dashed #7F77DD"></span>Cone of 010</span>
+<span><span class="lg" style="border-top:1.5px dashed #1D9E75"></span>Cone of 101</span>
+<span><span class="lg" style="border-top:1.5px dotted #888780"></span>Long diagonal</span>
+</div>
+<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 14px">
+<button id="step">One step</button>
+<button id="run">Step on</button>
+<button id="axv">Look along the diagonal</button>
+</div>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px">
+<div class="mc"><div class="l">Form · name</div><div class="v" id="m1" style="font-family:ui-monospace,monospace">000 · 1</div></div>
+<div class="mc"><div class="l">Parities changed last step</div><div class="v" id="m2">–</div></div>
+<div class="mc"><div class="l">Loop length</div><div class="v" id="m3">6</div></div>
+</div>
+<div id="hist" style="font-family:ui-monospace,monospace;font-size:13px;color:var(--text-secondary);margin:12px 0 0"></div>
+<script>
+const MODES={
+spiral:{next:x=>((x<<1)|((~x>>2)&1))&7,ends:[2,5],cones:1,view:[-Math.PI/4,Math.asin(1/Math.sqrt(3))]},
+ring:{next:x=>((x<<1)|((x>>2)&1))&7,ends:[0,7],cones:0,view:[-3*Math.PI/4,Math.asin(1/Math.sqrt(3))]}};
+const pos=x=>[((x>>2)&1)-.5,((x>>1)&1)-.5,(x&1)-.5];
+const code=x=>x.toString(2).padStart(3,'0');
+const EDGES=[];for(let i=0;i<8;i++)for(let j=i+1;j<8;j++){const d=i^j;if(d==1||d==2||d==4)EDGES.push([i,j])}
+const CONES=[[2,[0,3,6]],[5,[4,7,1]]];
+const dark=matchMedia('(prefers-color-scheme: dark)').matches;
+const COL=dark?{e:'#888780',c:'#F0997B',a:'#AFA9EC',b:'#5DCAA5',ax:'#B4B2A9',tx:'#D3D1C7',dot:'#B4B2A9'}:{e:'#B4B2A9',c:'#D85A30',a:'#7F77DD',b:'#1D9E75',ax:'#888780',tx:'#444441',dot:'#888780'};
+const cv=document.getElementById('cv'),ctx=cv.getContext('2d');
+let mode='spiral',cur=0,prev=null,hist=[0],anim=null,playing=false,az=0.55,el=0.42,W=680,H=380;
+const chips=document.getElementById('chips');
+for(let x=0;x<8;x++){const b=document.createElement('button');b.className='chip';b.textContent=code(x);b.onclick=()=>{if(anim)return;cur=x;prev=null;hist=[x];ui();draw()};chips.appendChild(b)}
+function orbit(){const m=MODES[mode],o=[cur];let x=m.next(cur);while(x!==cur&&o.length<9){o.push(x);x=m.next(x)}return o}
+function resize(){const r=cv.getBoundingClientRect(),dpr=window.devicePixelRatio||1;W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);draw()}
+function draw(){const m=MODES[mode],ca=Math.cos(az),sa=Math.sin(az),ce=Math.cos(el),se=Math.sin(el),s=Math.min(W,H)*0.36;
+const pr=q=>{const x1=q[0]*ca-q[1]*sa,y1=q[0]*sa+q[1]*ca;return[W/2+x1*s,H/2-(y1*se+q[2]*ce)*s,y1*ce-q[2]*se]};
+const ln=(a,b,c,w,al,dash)=>{const p=pr(a),q=pr(b);ctx.globalAlpha=al;ctx.strokeStyle=c;ctx.lineWidth=w;ctx.setLineDash(dash||[]);ctx.beginPath();ctx.moveTo(p[0],p[1]);ctx.lineTo(q[0],q[1]);ctx.stroke();ctx.setLineDash([]);ctx.globalAlpha=1};
+ctx.clearRect(0,0,W,H);ctx.lineCap='round';
+EDGES.forEach(([i,j])=>ln(pos(i),pos(j),COL.e,1,0.6));
+const a0=pos(m.ends[0]).map(v=>v*1.45),a1=pos(m.ends[1]).map(v=>v*1.45);ln(a0,a1,COL.ax,1.25,0.9,[2,4]);
+if(m.cones)CONES.forEach(([apex,base],k)=>base.forEach(b=>ln(pos(apex),pos(b),k?COL.b:COL.a,2,0.9,[6,4])));
+const o=orbit();if(o.length>1)for(let k=0;k<o.length;k++)ln(pos(o[k]),pos(o[(k+1)%o.length]),COL.c,3,0.5);
+const c0=pr([0,0,0]);ctx.strokeStyle=COL.tx;ctx.lineWidth=1;ctx.beginPath();ctx.arc(c0[0],c0[1],4,0,7);ctx.stroke();
+const P=[];for(let x=0;x<8;x++)P.push({x,p:pr(pos(x))});P.sort((a,b)=>a.p[2]-b.p[2]);const placed=[];
+P.forEach(({x,p})=>{ctx.fillStyle=COL.dot;ctx.beginPath();ctx.arc(p[0],p[1],2.5,0,7);ctx.fill();
+let lx=p[0]+9,ly=p[1]-10;if(placed.some(q=>Math.hypot(q[0]-lx,q[1]-ly)<20)){ly=p[1]+16}placed.push([lx,ly]);
+ctx.fillStyle=COL.tx;ctx.font=(x===cur?'600 ':'')+'12px ui-monospace, monospace';ctx.textAlign='left';ctx.textBaseline='middle';ctx.fillText(code(x)+' · '+(x+1),lx,ly)});
+let mp;if(anim){const a=pos(anim.from),b=pos(anim.to),e=anim.e;mp=pr([a[0]+(b[0]-a[0])*e,a[1]+(b[1]-a[1])*e,a[2]+(b[2]-a[2])*e])}else mp=pr(pos(cur));
+ctx.fillStyle=COL.c;ctx.beginPath();ctx.arc(mp[0],mp[1],7,0,7);ctx.fill()}
+function ui(){const pc=prev===null?'–':String(((prev^cur)&1)+((prev^cur)>>1&1)+((prev^cur)>>2&1));
+document.getElementById('m1').textContent=code(cur)+' · '+(cur+1);document.getElementById('m2').textContent=pc;
+document.getElementById('m3').textContent=orbit().length;
+document.getElementById('hist').textContent=hist.slice(-9).map(code).join(' → ');
+document.querySelectorAll('.md').forEach(b=>b.classList.toggle('on',b.dataset.m===mode));
+[...chips.children].forEach((b,i)=>b.classList.toggle('on',i===cur))}
+const ease=x=>x*x*(3-2*x);
+function tick(now){if(!anim)return;const s=Math.min(1,(now-anim.t0)/700);anim.e=ease(s);if(s>=1){anim=null;prev=cur;cur=MODES[mode].next(cur);hist.push(cur);draw();ui();if(playing)setTimeout(step,350);return}draw();requestAnimationFrame(tick)}
+function step(){if(anim)return;anim={t0:performance.now(),e:0,from:cur,to:MODES[mode].next(cur)};requestAnimationFrame(tick)}
+document.getElementById('step').onclick=step;
+const rb=document.getElementById('run');
+rb.onclick=()=>{playing=!playing;rb.textContent=playing?'Pause':'Step on';if(playing)step()};
+document.getElementById('axv').onclick=()=>{[az,el]=MODES[mode].view;draw()};
+document.querySelectorAll('.md').forEach(b=>b.onclick=()=>{if(anim)return;mode=b.dataset.m;prev=null;hist=[cur];ui();draw()});
+let drag=null;cv.addEventListener('pointerdown',e=>{drag=[e.clientX,e.clientY];cv.setPointerCapture(e.pointerId);cv.style.cursor='grabbing'});
+cv.addEventListener('pointermove',e=>{if(!drag)return;az-=(e.clientX-drag[0])*0.008;el=Math.max(-1.5,Math.min(1.5,el+(e.clientY-drag[1])*0.008));drag=[e.clientX,e.clientY];draw()});
+cv.addEventListener('pointerup',()=>{drag=null;cv.style.cursor='grab'});
+new ResizeObserver(resize).observe(cv);
+ui();resize();
+</script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A surface folded flat: a geodesic unfolded is one straight line</title>
+<style>
+:root{--text-primary:#1f1e1d;--text-secondary:#5f5e5a;--border-strong:rgba(31,30,29,.3);--bg-neutral:#f1efe8;--bg-accent:#e6f1fb;--text-accent:#185fa5;--border-accent:#378add;--radius:8px;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--text-primary:#ecebe6;--text-secondary:#b4b2a9;--border-strong:rgba(236,235,230,.3);--bg-neutral:#2c2c2a;--bg-accent:#0c447c;--text-accent:#b5d4f4}}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;color:var(--text-primary);background:Canvas;line-height:1.6}
+h1{font-size:20px;font-weight:500;margin:0 0 .25rem}
+p.lead{font-size:14px;color:var(--text-secondary);margin:0 0 1rem}
+button{font:inherit;font-size:14px;padding:6px 12px;border-radius:var(--radius);border:.5px solid var(--border-strong);background:transparent;color:inherit;cursor:pointer}
+input[type=range]{accent-color:var(--border-accent)}
+.exb.on{border-color:var(--border-accent);color:var(--text-accent);background:var(--bg-accent)}
+.mc{background:var(--bg-neutral);border-radius:var(--radius);padding:.75rem 1rem}
+.mc .l{font-size:13px;color:var(--text-secondary)}
+.mc .v{font-size:22px;font-weight:500}
+#cv{width:100%;height:420px;display:block;cursor:grab;touch-action:none}
+</style>
+</head>
+<body>
+<h1>A surface folded flat</h1>
+<p class="lead">Each face turns about the edge it shares with the last. Folded, the red path bends at each edge; flat, it is one straight line, and its length along the faces never changes. Drag to look round.</p>
+<div style="display:flex;gap:8px;flex-wrap:wrap;margin:0 0 12px">
+<button class="exb on" data-ex="cube">Cube</button>
+<button class="exb" data-ex="tet">Tetrahedron</button>
+<button class="exb" data-ex="spider">Spider and fly box</button>
+</div>
+<canvas id="cv" aria-label="A polyhedron whose faces fold about their shared edges, with a path across them"></canvas>
+<div style="display:flex;gap:14px;align-items:center;font-size:12px;color:var(--text-secondary);margin:4px 0 10px">
+<span><span style="display:inline-block;width:18px;height:3px;background:#D85A30;vertical-align:middle;margin-right:5px"></span>Geodesic</span>
+<span><span style="display:inline-block;width:18px;border-top:1.5px dashed #7F77DD;vertical-align:middle;margin-right:5px"></span>Fold lines</span>
+</div>
+<div style="display:flex;align-items:center;gap:12px;margin:0 0 14px">
+<button id="play">Play</button>
+<span style="font-size:14px;color:var(--text-secondary)">Folded</span>
+<input type="range" id="sl" min="0" max="100" step="1" value="0" style="flex:1" aria-label="Folded to flat">
+<span style="font-size:14px;color:var(--text-secondary)">Flat</span>
+</div>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px">
+<div class="mc"><div class="l">Fold at each edge</div><div class="v" id="m1">90°</div></div>
+<div class="mc"><div class="l">Path length on faces</div><div class="v" id="m2">0</div></div>
+<div class="mc"><div class="l">Start to end, straight</div><div class="v" id="m3">0</div></div>
+</div>
+<script>
+const h=Math.sqrt(3)/2,TET=180-Math.acos(1/3)*180/Math.PI;
+const EX={
+cube:{ang:90,az:0.75,el:0.55,u:'',dp:2,nm:['start','end'],box:1,faces:[{p:[[0,0],[1,0],[1,1],[0,1]],par:-1},{p:[[1,0],[2,0],[2,1],[1,1]],par:0,hg:[[1,0],[1,1]]},{p:[[1,1],[2,1],[2,2],[1,2]],par:1,hg:[[1,1],[2,1]]},{p:[[2,1],[3,1],[3,2],[2,2]],par:2,hg:[[2,1],[2,2]]}],lab:[1,2,3,4],A:[0.15,0.5],B:[2.85,1.5]},
+tet:{ang:TET,az:-0.4,el:0.5,u:'',dp:2,nm:['start','end'],box:0,faces:[{p:[[0,0],[1,0],[0.5,h]],par:-1},{p:[[1,0],[1.5,h],[0.5,h]],par:0,hg:[[1,0],[0.5,h]]},{p:[[1,0],[2,0],[1.5,h]],par:1,hg:[[1,0],[1.5,h]]},{p:[[2,0],[2.5,h],[1.5,h]],par:2,hg:[[2,0],[1.5,h]]}],lab:[1,2,3,4],A:[0.35,0.12],B:[2.15,0.75]},
+spider:{ang:90,az:2.65,el:0.5,u:' ft',dp:1,nm:['spider','fly'],box:1,faces:[{p:[[0,0],[30,0],[30,12],[0,12]],par:-1},{p:[[0,-12],[30,-12],[30,0],[0,0]],par:0,hg:[[0,0],[30,0]]},{p:[[0,-24],[30,-24],[30,-12],[0,-12]],par:1,hg:[[0,-12],[30,-12]]},{p:[[-12,-24],[0,-24],[0,-12],[-12,-12]],par:2,hg:[[0,-24],[0,-12]]},{p:[[30,0],[42,0],[42,12],[30,12]],par:0,hg:[[30,0],[30,12]]}],lab:[4,3,2,1,5],A:[-1,-18],B:[31,6]}};
+function mul(a,b){const r=[[0,0,0],[0,0,0],[0,0,0]];for(let i=0;i<3;i++)for(let j=0;j<3;j++)for(let k=0;k<3;k++)r[i][j]+=a[i][k]*b[k][j];return r}
+function mv(a,v){return[a[0][0]*v[0]+a[0][1]*v[1]+a[0][2]*v[2],a[1][0]*v[0]+a[1][1]*v[1]+a[1][2]*v[2],a[2][0]*v[0]+a[2][1]*v[1]+a[2][2]*v[2]]}
+function transforms(ex,t){const M=[];ex.faces.forEach(f=>{if(f.par<0){M.push({R:[[1,0,0],[0,1,0],[0,0,1]],T:[0,0,0]});return}
+const[a,b]=f.hg;let dx=b[0]-a[0],dy=b[1]-a[1];const L=Math.hypot(dx,dy);dx/=L;dy/=L;
+const c=f.p.reduce((s,q)=>[s[0]+q[0]/f.p.length,s[1]+q[1]/f.p.length],[0,0]);
+let nx=-dy,ny=dx;if(nx*(c[0]-a[0])+ny*(c[1]-a[1])<0){nx=-nx;ny=-ny}
+const d=[ny,-nx,0],ph=ex.ang*(1-t)*Math.PI/180,C=Math.cos(ph),S=Math.sin(ph),V=1-C;
+const R=[[C+d[0]*d[0]*V,d[0]*d[1]*V,d[1]*S],[d[1]*d[0]*V,C+d[1]*d[1]*V,-d[0]*S],[-d[1]*S,d[0]*S,C]];
+const hp=[a[0],a[1],0],Rh=mv(R,hp),Th=[hp[0]-Rh[0],hp[1]-Rh[1],-Rh[2]],P=M[f.par],q=mv(P.R,Th);
+M.push({R:mul(P.R,R),T:[q[0]+P.T[0],q[1]+P.T[1],q[2]+P.T[2]]})});return M}
+function ap(m,p){const q=mv(m.R,[p[0],p[1],0]);return[q[0]+m.T[0],q[1]+m.T[1],q[2]+m.T[2]]}
+function clip(poly,P0,P1){let ar=0;for(let i=0;i<poly.length;i++){const a=poly[i],b=poly[(i+1)%poly.length];ar+=a[0]*b[1]-b[0]*a[1]}const sg=ar>0?1:-1;let lo=0,hi=1;const D=[P1[0]-P0[0],P1[1]-P0[1]];
+for(let i=0;i<poly.length;i++){const a=poly[i],b=poly[(i+1)%poly.length],n=[-(b[1]-a[1])*sg,(b[0]-a[0])*sg],num=n[0]*(P0[0]-a[0])+n[1]*(P0[1]-a[1]),den=n[0]*D[0]+n[1]*D[1];
+if(Math.abs(den)<1e-12){if(num<0)return null;continue}const s=-num/den;if(den>0)lo=Math.max(lo,s);else hi=Math.min(hi,s)}return lo<hi-1e-9?[lo,hi]:null}
+const dark=matchMedia('(prefers-color-scheme: dark)').matches;
+const COL=dark?{f:['#3C3489','#26215C'],s:'#AFA9EC',hg:'#CECBF6',lb:'#EEEDFE',p:'#F0997B',g:'#B4B2A9',tx:'#D3D1C7'}:{f:['#EEEDFE','#CECBF6'],s:'#7F77DD',hg:'#534AB7',lb:'#3C3489',p:'#D85A30',g:'#888780',tx:'#444441'};
+const cv=document.getElementById('cv'),ctx=cv.getContext('2d'),sl=document.getElementById('sl');
+let cur='cube',t=0,az,el,follow=true,seg,boxE,W=680,H=420,playing=false,dir=1,last=0;
+function setEx(k){cur=k;const ex=EX[k];az=ex.az;el=ex.el;follow=true;
+seg=ex.faces.map(f=>clip(f.p,ex.A,ex.B));
+boxE=null;if(ex.box){const M=transforms(ex,0),mn=[1e9,1e9,1e9],mx=[-1e9,-1e9,-1e9];ex.faces.forEach((f,i)=>f.p.forEach(p=>{const q=ap(M[i],p);for(let j=0;j<3;j++){mn[j]=Math.min(mn[j],q[j]);mx[j]=Math.max(mx[j],q[j])}}));
+const C=[];for(let i=0;i<8;i++)C.push([i&1?mx[0]:mn[0],i&2?mx[1]:mn[1],i&4?mx[2]:mn[2]]);boxE=[];for(let i=0;i<8;i++)for(let j=i+1;j<8;j++){const x=i^j;if(x==1||x==2||x==4)boxE.push([C[i],C[j]])}}
+document.querySelectorAll('.exb').forEach(b=>b.classList.toggle('on',b.dataset.ex===k));draw()}
+function resize(){const r=cv.getBoundingClientRect(),dpr=window.devicePixelRatio||1;W=r.width;H=r.height;cv.width=W*dpr;cv.height=H*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);draw()}
+const sm=x=>x*x*(3-2*x);
+function effEl(){return follow?el+(1.35-el)*sm(t):el}
+function draw(){if(!seg)return;const ex=EX[cur],M=transforms(ex,t),A=ex.A,B=ex.B;
+const F=ex.faces.map((f,i)=>({i,v:f.p.map(p=>ap(M[i],p))}));
+const mn=[1e9,1e9,1e9],mx=[-1e9,-1e9,-1e9];F.forEach(o=>o.v.forEach(q=>{for(let j=0;j<3;j++){mn[j]=Math.min(mn[j],q[j]);mx[j]=Math.max(mx[j],q[j])}}));
+const c=[(mn[0]+mx[0])/2,(mn[1]+mx[1])/2,(mn[2]+mx[2])/2];let r=0;F.forEach(o=>o.v.forEach(q=>{r=Math.max(r,Math.hypot(q[0]-c[0],q[1]-c[1],q[2]-c[2]))}));
+const e=effEl(),ca=Math.cos(az),sa=Math.sin(az),ce=Math.cos(e),se=Math.sin(e),s=0.47*Math.min(W,H)/r;
+const pr=q=>{const x=q[0]-c[0],y=q[1]-c[1],z=q[2]-c[2],x1=x*ca-y*sa,y1=x*sa+y*ca;return[W/2+x1*s,H/2-(y1*se+z*ce)*s,y1*ce-z*se]};
+ctx.clearRect(0,0,W,H);
+if(boxE&&t<0.999){ctx.save();ctx.globalAlpha=(1-t)*0.7;ctx.strokeStyle=COL.g;ctx.lineWidth=0.75;ctx.setLineDash([3,4]);boxE.forEach(([a,b])=>{const p=pr(a),q=pr(b);ctx.beginPath();ctx.moveTo(p[0],p[1]);ctx.lineTo(q[0],q[1]);ctx.stroke()});ctx.restore()}
+const P=F.map(o=>{const pp=o.v.map(pr);return{i:o.i,pp,d:pp.reduce((a,q)=>a+q[2],0)/pp.length}});P.sort((a,b)=>b.d-a.d);
+let surf=0,A3,B3;
+P.forEach(o=>{const i=o.i,f=ex.faces[i];ctx.save();ctx.globalAlpha=0.86;ctx.fillStyle=COL.f[i%2];ctx.beginPath();o.pp.forEach((q,k)=>k?ctx.lineTo(q[0],q[1]):ctx.moveTo(q[0],q[1]));ctx.closePath();ctx.fill();ctx.globalAlpha=1;ctx.strokeStyle=COL.s;ctx.lineWidth=0.75;ctx.stroke();
+if(f.par>=0){const a=pr(ap(M[i],f.hg[0])),b=pr(ap(M[i],f.hg[1]));ctx.strokeStyle=COL.hg;ctx.lineWidth=1.5;ctx.setLineDash([5,4]);ctx.beginPath();ctx.moveTo(a[0],a[1]);ctx.lineTo(b[0],b[1]);ctx.stroke();ctx.setLineDash([])}
+const sg=seg[i];if(sg){const p0=[A[0]+(B[0]-A[0])*sg[0],A[1]+(B[1]-A[1])*sg[0]],p1=[A[0]+(B[0]-A[0])*sg[1],A[1]+(B[1]-A[1])*sg[1]],a=ap(M[i],p0),b=ap(M[i],p1);surf+=Math.hypot(a[0]-b[0],a[1]-b[1],a[2]-b[2]);if(sg[0]<1e-9)A3=a;if(sg[1]>1-1e-9)B3=b;
+const pa=pr(a),pb=pr(b);ctx.strokeStyle=COL.p;ctx.lineWidth=3;ctx.lineCap='round';ctx.beginPath();ctx.moveTo(pa[0],pa[1]);ctx.lineTo(pb[0],pb[1]);ctx.stroke()}
+const cc=o.pp.reduce((a,q)=>[a[0]+q[0]/o.pp.length,a[1]+q[1]/o.pp.length],[0,0]);ctx.fillStyle=COL.lb;ctx.font='500 12px sans-serif';ctx.textAlign='center';ctx.textBaseline='middle';ctx.globalAlpha=0.75;ctx.fillText(ex.lab[i],cc[0]+(sg?10:0),cc[1]-(sg?10:0));ctx.restore()});
+[[A3,ex.nm[0]],[B3,ex.nm[1]]].forEach(([q,n])=>{if(!q)return;const p=pr(q);ctx.fillStyle=COL.p;ctx.beginPath();ctx.arc(p[0],p[1],5,0,7);ctx.fill();ctx.fillStyle=COL.tx;ctx.font='13px sans-serif';ctx.textAlign='left';ctx.textBaseline='middle';ctx.fillText(n,p[0]+9,p[1]-9)});
+const ch=A3&&B3?Math.hypot(A3[0]-B3[0],A3[1]-B3[1],A3[2]-B3[2]):0;
+document.getElementById('m1').textContent=(ex.ang*(1-t)).toFixed(cur==='tet'?1:0)+'°';
+document.getElementById('m2').textContent=surf.toFixed(ex.dp)+ex.u;
+document.getElementById('m3').textContent=ch.toFixed(ex.dp)+ex.u}
+sl.oninput=()=>{t=sl.value/100;draw()};
+document.querySelectorAll('.exb').forEach(b=>b.onclick=()=>setEx(b.dataset.ex));
+const pb=document.getElementById('play');
+function step(ts){if(!playing)return;const dt=last?(ts-last)/1000:0;last=ts;t+=dir*dt/2.6;if(t>=1){t=1;stop()}else if(t<=0){t=0;stop()}sl.value=Math.round(t*100);draw();if(playing)requestAnimationFrame(step)}
+function stop(){playing=false;pb.textContent='Play'}
+pb.onclick=()=>{if(playing){stop();return}dir=t>=1?-1:t<=0?1:dir;playing=true;last=0;pb.textContent='Pause';requestAnimationFrame(step)};
+let drag=null;cv.addEventListener('pointerdown',e=>{drag=[e.clientX,e.clientY];if(follow){el=effEl();follow=false}cv.setPointerCapture(e.pointerId);cv.style.cursor='grabbing'});
+cv.addEventListener('pointermove',e=>{if(!drag)return;az-=(e.clientX-drag[0])*0.008;el=Math.max(0.05,Math.min(1.5,el+(e.clientY-drag[1])*0.008));drag=[e.clientX,e.clientY];draw()});
+cv.addEventListener('pointerup',()=>{drag=null;cv.style.cursor='grab'});
+new ResizeObserver(resize).observe(cv);
+setEx('cube');resize();
+</script>
+</body>
+</html>
