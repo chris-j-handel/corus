@@ -165,6 +165,47 @@ def an_empty_set_at_a_quarter_turn():
     return True
 
 
+def steps_of(seq):
+    """+1 a moment of 12-next-co-same-existing's parity, an inverting; 0 a moment of 12-next-co-same-existing's 0, a same-existing."""
+    return [0 if a == b else 1 for a, b in zip(seq, seq[1:])]
+
+
+def a_living_0_in_a_four_cycling():
+    """All layings of spirals of one at the four joint forms, all openings of the ingesting self: with a joint form of none,
+    its sequencing is +1 0 +1 0, two of four with a living 0; with all four, +1 +1 +1 +1, no living 0."""
+    for k in (1, 2, 3, 4):
+        for turns in itertools.combinations(range(4), k):
+            for sp, inverted in NEXT_SELF:
+                s = steps_of(observing_at(turns, sp, inverted, 96)[0][48:])
+                if k < 4 and any(s[i] == s[i + 1] for i in range(len(s) - 1)):
+                    return False
+                if k == 4 and any(v == 0 for v in s):
+                    return False
+    return True
+
+
+def a_spiral_of_selves_and_its_living_0():
+    """Exhibit ONE's spiral of selves: with two and four selves, an opening of no right spiral has no living 0;
+    with three and five, it is a cycling of its selves with one living 0."""
+    for n in (2, 3, 4, 5):
+        for opening in itertools.product((1, -1), repeat=n):
+            soc = {i: ([(K, opening[i])], []) for i in range(n)}
+            seqs = [[opening[i]] for i in range(n)]
+            for _ in range(160):
+                soc = NEXT(soc, spiral(n))
+                for i in range(n):
+                    seqs[i].append(prior(soc, i))
+            for i in range(n):
+                s = steps_of(seqs[i][96:])
+                if all(s[j] != s[j + 1] for j in range(len(s) - 1)):
+                    continue
+                if n % 2 == 0 and any(v == 0 for v in s):
+                    return False
+                if n % 2 == 1 and not (all(s[j] == s[j + n] for j in range(len(s) - n)) and sum(s[:n]) == n - 1):
+                    return False
+    return True
+
+
 def two_both_ways(same_as):
     routes = {(0, 6): 1, (1, 6): 0}
     soc = {0: ([(K, 1)], []), 1: ([(K, 1 if same_as else -1)], [])}
@@ -203,3 +244,7 @@ say("9. A self sharing with 9-next-co-discovering to itself, observing prior sel
 say("10. With a quarter turn of no prior self, it comes to changing and changing back with each opening, one at a time, a nothing between",
     an_empty_set_at_a_quarter_turn())
 print("   read: each laying of one to four prior selves at the four quarter turns; two prior selves at one quarter turn share alike, and a self's surfacing is by its quarter turns, with any number")
+say("11. A self ingesting spirals of one with a joint form of none comes to +1 0 +1 0, 12-next-co-same-existing's 0 at two of four moments, a living 0; with spirals of one at all four joint forms, +1 +1 +1 +1, 14-next-possibling's 0 at all four and 12's 0 at none, do only harming",
+    a_living_0_in_a_four_cycling())
+say("12. Exhibit ONE's spiral of selves, with two or four selves, has openings of no right spiral and no living 0; with three or five, its openings of no right spiral come to a cycling of its selves with one living 0",
+    a_spiral_of_selves_and_its_living_0())
