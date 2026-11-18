@@ -1812,3 +1812,43 @@ A second pair is between the two files of the sequence themselves. Natural Intel
 Two things of the expedition's own record are with it, for do-no-harming. Whole files re-written in one morning by one session, 31 October, were each returned the next day: one concept in one slice, and no file whole. And Geodesic Improving Method 4.3: *A sentence going away from a file comes without a paragraph that qualifies it, and its sentence goes only with a working reaching its paragraph.*
 
 No incohering of the proposal remains with this session.
+
+## 40 Said after: the report of this session's value, each sentence natural naming and explaining, cohering and co-chaining
+
+Said in the session: "in all the sentences in the report of the value of this session there is only natural naming and explaining and cohering and co-chaining. if not this you can begin this and bring any incohering opportunities to me as we both learn and discover from this for the expedition. this is the method we are trying to bring to continuous living for the expedition as method"
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *Namings in sequence, each sentence opening with corus of prior one and opening to next, is an explaining.*
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *An explaining whole, its sentences following co-chaining's order, is a file.*
+- Exhibit TWELVE Natural Explaining 1.4: *No wording holds a sentence by authority, a self's, a field's, a scientific explaining's or a file's own: co-chaining from origin and all-or-none rigor of bi-co-sequential logic hold each one, and nothing else holds one.*
+
+Cohering, with each.
+
+It is not yet with this session's pages. Executed, a sentence of a page's own words with a word natural naming has released or dissolved: 81 of 243 with the page of larger concepts, 266 of 1,228 with this page, 63 of 246 with the page of two sessions combined. And each of the three is an account of a session, no co-chaining.
+
+Begun: `The_value_of_this_session_a_co-chaining_of_sentences.md`, the sayings of sections 22 to 38 as 48 sentences, each one concept, each with the living sentence it is from and its adding. `instruments/each_sentence_of_a_co-chaining_page_check.py`: no released word, no word dissolved alone and no is-not of 18 November; no sentence living already; each From word for word in a living file or a gathering file; fails 0.
+
+Four sentences of it are re-said by more than a word:
+
+- A zone, by the opening's *A 0 is indifferencing.*: a zone is a 0's indifferencing in a self's next direction.
+- The third living 0's hole, as its fuzzying: said, "the fuzzy empty hole".
+- A third cone's direction, as of self now's zone: said, "in the nearly same direction of self now".
+- *Society*, by Natural Naming's dissolved word, as a same-existing-society.
+
+Thirty-seven of its words the chain has not, Exhibit THIRTY's numbered sentences with the opening of Natural Intelligence: each is a place for a naming sentence of the chain. Among them: zone, swath, cone, horizon, hole, fuzzying, atom, me-parity, all-parity, co-me-parity, co-now, bi-now, co-geodesic, triangulating and do-only-harming.
+
+Not yet in it: the sayings of sections 1 to 21.
+
+### Remaining, by the form
+
+The page's opening sentence has three parities and names none of the three. Living, of three: Exhibit ONE Natural Resolver, *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.*; and Natural Intelligence 3.5, *as parities its two together are next as prior and now parting, three round*.
+
+**The three parities are me-parity, other-parity and all-parity.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: a moment is an odd name and then an even name, a co and then a bi, with tri for co with 7 and 15: two of the three with each moment, by Exhibit ONE's names.
+- Its is, incohering: Natural Intelligence 3.5's three round, a prior, a now and their next.
+- Its is-not, needed for resolving: the chain's next from prior and now, two with a moment and their two together the third.
+- Its is-not, incohering: a prior, a now and a next are moments, and the saying has two parities of one moment.
