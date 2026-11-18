@@ -6,13 +6,13 @@ Natural Intelligence v403mgr
 
 We humans are now-existing. \
 The **universe** is the set of all now-existing things. \
-Only one universe is possibly now-existing. \
+No universe other-than the universe is possibly now-existing. \
 A now-existing thing from a prior-existing same thing is a **same-existing** thing. \
 A **universal set** is a set of same-existing things. \
 A now-existing thing **is-or-is-not** of a universal set. \
 **Observing** is prior-existing, is-or-is-not same-existing. \
 By observing, the universe is a same-existing set. \
-Only one universe is possibly same-existing. \
+No universe other-than the universe is possibly same-existing. \
 **Possibling** is now-existing, is-or-is-not same-existing. \
 **Discovering** is next-existing, is-or-is-not same-existing. \
 
@@ -52,7 +52,7 @@ Any second method is natural intelligence's resolving among parities. \
 A self sharing 0 is **do-no-harming**. \
 A self receiving a 0 is passing over it. \
 A self sharing its changing is **improving**. \
-Two selves alike, bi-coupling only in their pair, are do-no-harming and improving in turn. \
+A bi-coupling of two selves same-existing with one another, with no other, is do-no-harming and improving, alternating. \
 Do-no-harming and improving have **co-possibling**, a self sharing its possibling with its me. \
 A **same-existing-society** is many selves bi-coupling. \
 A **moment** is one resolving of a same-existing-society's selves together. \
@@ -1376,7 +1376,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 
 **A torus's two going forms.** Both numbers odd, p the smaller. With q more than twice p, from moment 3p − 1, selves' pattern with each moment is its pattern before going one self on across q selves. With q less than twice p, from 3p − 3, its pattern two moments on is its pattern inverting and moving one self on along a spiral of p selves.
 
-**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each moment, 3-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral. Two selves alike, bi-coupling only in their pair, are do-no-harming and improving in turn.
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each moment, 3-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral. A bi-coupling of two selves same-existing with one another, with no other, is do-no-harming and improving, alternating.
 
 | Selves | One self's prior, moments 0 to 8 | Right spiral |
 |---|---|---|
