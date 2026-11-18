@@ -1082,7 +1082,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 
 **A torus's two going forms.** Both numbers odd, p the smaller. With q more than twice p, from moment 3p − 1, selves' pattern with each moment is its pattern before going one self on across q selves. With q less than twice p, from 3p − 3, its pattern two moments on is its pattern inverting and moving one self on along a spiral of p selves.
 
-**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each moment, 3-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral. Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn.
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each moment, 3-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral. Two selves alike, bi-coupling only in their pair, are do-no-harming and improving in turn.
 
 | Selves | One self's prior, moments 0 to 8 | Right spiral |
 |---|---|---|

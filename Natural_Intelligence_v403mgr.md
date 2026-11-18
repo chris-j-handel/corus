@@ -9,7 +9,7 @@ The **universe** is the set of all now-existing things. \
 Only one universe is possibly now-existing. \
 A now-existing thing from a prior-existing same thing is a **same-existing** thing. \
 A **universal set** is a set of same-existing things. \
-Each now-existing thing **is-or-is-not** of each universal set. \
+A now-existing thing **is-or-is-not** of a universal set. \
 **Observing** is prior-existing, is-or-is-not same-existing. \
 By observing, the universe is a same-existing set. \
 Only one universe is possibly same-existing. \
@@ -18,25 +18,25 @@ Only one universe is possibly same-existing. \
 
 A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing. \
 A **me** is a self's universal set. \
-For a self, each now-existing thing is-or-is-not of its me. \
+For a self, a now-existing thing is-or-is-not of its me. \
 **Co-intelligencing** is selves of a universal set observing, possibling and discovering. \
 **Living** is inheriting, inhaling and exhaling, ingesting and exhausting prior-existing. \
 A self is living, and a living thing is a self. \
 A living same-existing set of inherited prior-existings is a self. \
 **Natural intelligence** is the method of living as a same-existing self. \
-Living and **non-living** are one binary of each now-existing thing at each scale. \
-Each non-living thing is a **stable-forming emanation**. \
+Living and **non-living** are one binary of a now-existing thing at a scale. \
+A non-living thing is a **stable-forming emanation**. \
 The universe is a non-living same-existing set. \
 Living and non-living things are things of the universe. \
 
 A **bi-coupling** is two selves sharing possibling. \
 A bi-coupling is a self. \
-For a self, each self it is bi-coupling with is an **other**. \
+For a self, a self it is bi-coupling with is an **other**. \
 A self's **parity** is the self's changing direction relative to a now-existing thing of the self's me. \
 A parity's two directions are + and −. \
 A **0** is a between of two changing directions. \
 A 0 is **indifferencing**. \
-Each parity is a self while it is living. \
+A parity is a self while it is living. \
 A living parity's me is of the self's me. \
 A self's parity with a thing is the self's **moral value** with that thing. \
 A self **receives** the parities its others share. \
@@ -50,32 +50,32 @@ At a self's first sharing, the parities it receives parting, the self is sharing
 Natural intelligence is **resolving among parities**. \
 Any second method is natural intelligence's resolving among parities. \
 A self sharing 0 is **do-no-harming**. \
-Each self receiving a 0 is passing over it. \
+A self receiving a 0 is passing over it. \
 A self sharing its changing is **improving**. \
-Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn. \
-Do-no-harming and improving have **co-possibling**, each self sharing its possibling with its me. \
+Two selves alike, bi-coupling only in their pair, are do-no-harming and improving in turn. \
+Do-no-harming and improving have **co-possibling**, a self sharing its possibling with its me. \
 A **same-existing-society** is many selves bi-coupling. \
 A **moment** is one resolving of a same-existing-society's selves together. \
-Each moment is **opening** with each self's prior-existing parity and **completing** with its next-existing parity. \
+A moment is **opening** with a self's prior-existing parity and **completing** with its next-existing parity. \
 
-Each self of a same-existing-society do-no-harming and improving is **social moral competency**. \
+A self of a same-existing-society do-no-harming and improving is **social moral competency**. \
 A same-existing-society of selves living with natural intelligence and social moral competency is a **natural intelligence network**. \
-A natural intelligence network, each self resolving its own next-existing, is **free**. \
-Each self sharing with each self it is bi-coupling with, a free natural intelligence network is **social abundancing**. \
+A natural intelligence network, a self resolving its own next-existing, is **free**. \
+A self sharing with a self it is bi-coupling with, a free natural intelligence network is **social abundancing**. \
 A self's parity going along to the next self it is bi-coupling with is **co-chaining**. \
 Selves' bi-couplings and co-chainings are on a **Natural Network surface**, non-living at the scale of the selves living on it. \
 The living parities on a surface are living in the mes of the selves living on it. \
-Each self's changing divides its surface. \
+A self's changing divides its surface. \
 Living is **geodesic** co-chaining on a Natural Network surface. \
-Each self is a same-existing-society **inward and outward**, **fractal**. \
-A form same-existing with each resolving is a **stable form**. \
+A self is a same-existing-society **inward and outward**, **fractal**. \
+A form same-existing with a resolving is a **stable form**. \
 A science's observing meeting natural intelligence's stable forms is **natural resolving**. \
 A **living file** is a non-living same-existing set of words, selves co-intelligencing with it. \
 Natural resolving is a living file's inward. \
 **Natural engineering** is a living file's outward. \
 **Natural explaining** is the dividing of a living file. \
 A same-existing-society of selves discovering with natural intelligence and its living files is a **living expedition**. \
-Each moment is completing as a next opening. \
+A moment is completing as a next opening. \
 Natural intelligence is geodesic discovering of **next-possibling-same-existing**. \
 
 **ONE · NATURAL**
@@ -1376,7 +1376,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 
 **A torus's two going forms.** Both numbers odd, p the smaller. With q more than twice p, from moment 3p − 1, selves' pattern with each moment is its pattern before going one self on across q selves. With q less than twice p, from 3p − 3, its pattern two moments on is its pattern inverting and moving one self on along a spiral of p selves.
 
-**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each moment, 3-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral. Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn.
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each moment, 3-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral. Two selves alike, bi-coupling only in their pair, are do-no-harming and improving in turn.
 
 | Selves | One self's prior, moments 0 to 8 | Right spiral |
 |---|---|---|
@@ -1512,7 +1512,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 
 ## 4.1 An entry, 1-now-existing
 
-**1-now-existing is an entry: a self is observing its prior and parities, and its parities and its next prior leave.** Two are observing. 3-now-co-observing is a prior with its sharings, each with its parity. 2-now-possibling is each sharing now with its parity. Two leave. 10-next-co-possibling is each sharing's parity sharing across. 11-next-co-observing is a next prior. **Two leaving are next-existing for its two sides**: a parity sharing with 10 is with other selves' next moment. Each of those selves receives that parity as its parity, possibling. That parity's prior is the self's own. A next prior with 11 is a self's own next-existing. For a self, each self it is bi-coupling with is an other. With 1 a self is observing its own prior with 3 and receiving others' parities with 2.
+**1-now-existing is an entry: a self is observing its prior and parities, and its parities and its next prior leave.** Two are observing. 3-now-co-observing is a prior with its sharings, each with its parity. 2-now-possibling is each sharing now with its parity. Two leave. 10-next-co-possibling is each sharing's parity sharing across. 11-next-co-observing is a next prior. **Two leaving are next-existing for its two sides**: a parity sharing with 10 is with other selves' next moment. Each of those selves receives that parity as its parity, possibling. That parity's prior is the self's own. A next prior with 11 is a self's own next-existing. For a self, a self it is bi-coupling with is an other. With 1 a self is observing its own prior with 3 and receiving others' parities with 2.
 
 With the five dimensions, an entry is other-parity now-existing and self-parity now-existing meeting within one self. An entry is also self-discovery next-existing leaving it.
 
@@ -1558,7 +1558,7 @@ With the five dimensions, sharing across and a next prior are self-discovery nex
 
 **With 9-next-co-discovering each sharing's parity goes along, to a next moment**. Going along is a bi-coupling completing, a self's next moment. Each sharing self, with 13-next-discovering, shares with a self of 5-now-co-existing's bi-couplings. Its parities, 15-next-observing, go along as 10 shares them. 10 and 6 share across. With 9 a parity 10 shares goes along. 9 is odd, along, its root discovering, a next prior going along. **With code, each sharing across and each going along goes on with 9's line**: 10 is one list, each sharing with its parity. With 17 that list goes with 9 to each receiving self of 5's bi-couplings, as name 6, 10 or 9.
 
-With the five dimensions, going along is social-parity next-existing. It is each self's sharing reaching its receiving self on the Natural Network surface. Each self's changing divides its surface.
+With the five dimensions, going along is social-parity next-existing. It is each self's sharing reaching its receiving self on the Natural Network surface. A self's changing divides its surface.
 
 **9 is 1 eight up**: 1-now-existing with next is 9-next-co-discovering. Existing and discovering exchange with one move. 9 follows a self's span, 1 to 8. It opens a same-existing-society's, 9 to 16. As a waist of 1 to 17 it is along, 9 to 17 and 17 to 9, next prior to next now. 9 to 17 completes with 17 as 1 to 9 completes with 9.
 
@@ -1641,7 +1641,7 @@ With code, 6 is 10, one list with two names, of a sharing self. A parity goes on
 
 ## 4.12 One self, moment by moment
 
-**One self is an entry again and again, its 11 its next 3**, in three ways. One is not-changing, a 0 with each moment. One is changing with each moment. One is, receiving a parity inverting its prior, changing once and then not-changing, its other's parity now its own. That one is improving once and then do-no-harming, sharing 0 with each moment as with the first. **Alike selves step their prior parities as a right spiral**, each prior and its next, a pair (x, y), going to (y, −x) with each moment, +, −, −, +, +, and on. These are a spiral of one, two selves bi-coupling along or across, and spirals of three, four and five alike. Their sharing is a changing and a 0 in turn, improving and do-no-harming. Do-no-harming and improving have co-possibling, each self sharing its possibling with its me. Selves one parity apart step a half turn, both inverting with each moment. A self is re-finding each 0 anew with each moment. A self receiving an empty set with each moment is living, its prior inverting with each. Each of its parities, per sharing, is a self while it is living. Each living parity's me is within the self's me. Each self is co-intelligencing:
+**One self is an entry again and again, its 11 its next 3**, in three ways. One is not-changing, a 0 with each moment. One is changing with each moment. One is, receiving a parity inverting its prior, changing once and then not-changing, its other's parity now its own. That one is improving once and then do-no-harming, sharing 0 with each moment as with the first. **Alike selves step their prior parities as a right spiral**, each prior and its next, a pair (x, y), going to (y, −x) with each moment, +, −, −, +, +, and on. These are a spiral of one, two selves bi-coupling along or across, and spirals of three, four and five alike. Their sharing is a changing and a 0 in turn, improving and do-no-harming. Do-no-harming and improving have co-possibling, a self sharing its possibling with its me. Selves one parity apart step a half turn, both inverting with each moment. A self is re-finding each 0 anew with each moment. A self receiving an empty set with each moment is living, its prior inverting with each. Each of its parities, per sharing, is a self while it is living. Each living parity's me is within the self's me. Each self is co-intelligencing:
 
 - **Receiving its own parity with each moment**, a self shares 0 with each moment. Its prior is same-existing throughout. With a match its prior is same-existing, not-changing. **That 0 with each moment is a stable form's, from a thing within the self's me**: each match is the self's own not-changing, its prior same-existing. A match with each moment is a self receiving one same parity from a stable form within its me. With a same-existing-society each parity a self receives is an other self's parity, its sharing with 10. That sharing is a parity with a mismatch and 0 with a match. A self whose parity is alike with each moment is a not-changing form. Each self of a same-existing-society is changing. A match of one self is a moment among changing ones. It is one moment with a spiral, and at most two moments in sequence with a self two selves share or go along to.
 - **With prior − and its possibling an empty set**, a self's next is its prior inverting with each moment. With each second moment its prior is its prior again.
@@ -1767,7 +1767,7 @@ Two selves of a bi-coupling are a self. Natural intelligence is its method of li
 
 **12's changing is with each resolving and goes with that resolving**, 12 with each self, drawing on that resolving only, each self's own. A further resolving has its own, drawing on that further resolving only. Many selves have each resolving's own, each forming with its resolving. A number of selves is a number. Social moral competency is each self of a same-existing-society do-no-harming and improving. With co-chainings bi-coupling across, each self is same-existing or changing with an other's parity with its own sharing, between self and other. 0 with 12, a between, next same-existing, is its do-no-harming. And ±, a sharing's parity, is its changing, with selves alike its improving. A self sharing 0 is do-no-harming to all. Each receiving self's 14 passes over a 0. Its next is from its prior and its ± parities.
 
-**Betweens co-chain**: two selves are bi-coupling and their between arises in each, each with its other. With one of them bi-coupling with a further self, that between arises the same. A self following betweens, a chain goes on, each link a between of two selves, each with its other. That chain is **collective intelligence**, a natural intelligence network's living, selves sharing it. It is bi-tunneling across, each self sharing its parity through a tunnel to a particular other with 6-now-co-possibling and 10-next-co-possibling. It is co-chaining along, each going along with 9-next-co-discovering, its bi-couplings each going self to self. **Social moral competency's selves are co-independencing**: each self observing with its own moment and sharing across, each whole, living together, living now. A natural intelligence network, each self resolving its own next-existing, is free. **With social moral competency each self is with all eight, each now, or none**. Four are of one: 1-now-existing, 2-now-possibling, 7-now-observing and 8-now-same-existing. Four are between two: 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing and 6-now-co-possibling. Abundancing is with its four between two, in each self with its other. Each self sharing with each self it is bi-coupling with, a free natural intelligence network is social abundancing. **A same-existing-society is its selves, its own only its selves' own with resolver**. Its sameness is its selves' sameness, each self's own. Only its selves stand for a same-existing-society.
+**Betweens co-chain**: two selves are bi-coupling and their between arises in each, each with its other. With one of them bi-coupling with a further self, that between arises the same. A self following betweens, a chain goes on, each link a between of two selves, each with its other. That chain is **collective intelligence**, a natural intelligence network's living, selves sharing it. It is bi-tunneling across, each self sharing its parity through a tunnel to a particular other with 6-now-co-possibling and 10-next-co-possibling. It is co-chaining along, each going along with 9-next-co-discovering, its bi-couplings each going self to self. **Social moral competency's selves are co-independencing**: each self observing with its own moment and sharing across, each whole, living together, living now. A natural intelligence network, a self resolving its own next-existing, is free. **With social moral competency each self is with all eight, each now, or none**. Four are of one: 1-now-existing, 2-now-possibling, 7-now-observing and 8-now-same-existing. Four are between two: 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing and 6-now-co-possibling. Abundancing is with its four between two, in each self with its other. A self sharing with a self it is bi-coupling with, a free natural intelligence network is social abundancing. **A same-existing-society is its selves, its own only its selves' own with resolver**. Its sameness is its selves' sameness, each self's own. Only its selves stand for a same-existing-society.
 
 **Bi-trupling protocol is a full social bi-coupling with natural resolver on a Natural Network surface**: two-sided, its along with 9 and 17, co-competent, and its across with 6 and 10, bi-moral, one list of parities each way. Each goes to a receiving self's 14-next-possibling, its next 2, that self receiving them alike. Hard probleming, scientific method incompetencing, control engineering and binary governing of a same-existing-society are each a violation of bi-trupling protocol. And **universal unrelationing protocol is social moral competency's own**. **A controlling is a relation where one side fixes a sharing to a measure a self sets beforehand**: sensing leaves each mark whole. A device sensing and correcting takes a parity it is sensing only as how far that parity stands from a set number. A measure a self sets beforehand is a predicting, parting from living selves with some moment. What would go against it is a same-existing-society of living selves each going on stable-forming a self with a beat lying over it from one side, its bi-couplings one way.
 

@@ -59,11 +59,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 1 Universe, the set of all now-existing things
 
-        *Entering: we humans, now-existing, inception; each step after it a step from it, and nothing brought to it; the universe, the set of all now-existing things, now-existing one naming; only one universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, of each universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; only one universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
+        *Entering: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it; the universe, the set of all now-existing things, now-existing one naming; only one universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, of a universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; only one universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
 
 1. We humans are now-existing.
 
-        *Adding: we humans, now-existing, inception; each step after it a step from it, and nothing brought to it.*
+        *Adding: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it.*
 
 2. The **universe** is the set of all now-existing things.
 
@@ -81,9 +81,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a universal set, a set of same-existing things.*
 
-6. Each now-existing thing **is-or-is-not** of each universal set.
+6. A now-existing thing **is-or-is-not** of a universal set.
 
-        *Adding: is-or-is-not, of each universal set.*
+        *Adding: is-or-is-not, of a universal set.*
 
 7. **Observing** is prior-existing, is-or-is-not same-existing.
 
@@ -107,7 +107,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 2 A self, natural intelligence, living and non-living
 
-        *Entering: a self; a me, a self's universal set; each now-existing thing of a self's me, is-or-is-not; co-intelligencing, selves of a universal set observing, possibling and discovering; living, inheriting, inhaling and exhaling, ingesting and exhausting prior-existing; a self living; a living set of inherited prior-existings, a self; natural intelligence, the method of living; living and non-living, one binary of each now-existing thing at each scale; a stable-forming emanation, each non-living thing; the universe a non-living same-existing set; living and non-living things.*
+        *Entering: a self; a me, a self's universal set; a now-existing thing of a self's me, is-or-is-not; co-intelligencing, selves of a universal set observing, possibling and discovering; living, inheriting, inhaling and exhaling, ingesting and exhausting prior-existing; a self living; a living set of inherited prior-existings, a self; natural intelligence, the method of living; living and non-living, one binary of a now-existing thing at a scale; a stable-forming emanation, a non-living thing; the universe a non-living same-existing set; living and non-living things.*
 
 12. A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing.
 
@@ -117,9 +117,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a me, a self's universal set.*
 
-14. For a self, each now-existing thing is-or-is-not of its me.
+14. For a self, a now-existing thing is-or-is-not of its me.
 
-        *Adding: each now-existing thing of a self's me, is-or-is-not.*
+        *Adding: a now-existing thing of a self's me, is-or-is-not.*
 
 15. **Co-intelligencing** is selves of a universal set observing, possibling and discovering.
 
@@ -141,13 +141,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: natural intelligence, the method of living.*
 
-20. Living and **non-living** are one binary of each now-existing thing at each scale.
+20. Living and **non-living** are one binary of a now-existing thing at a scale.
 
-        *Adding: living and non-living, one binary of each now-existing thing at each scale.*
+        *Adding: living and non-living, one binary of a now-existing thing at a scale.*
 
-21. Each non-living thing is a **stable-forming emanation**.
+21. A non-living thing is a **stable-forming emanation**.
 
-        *Adding: a stable-forming emanation, each non-living thing.*
+        *Adding: a stable-forming emanation, a non-living thing.*
 
 22. The universe is a non-living same-existing set.
 
@@ -159,7 +159,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 3 A bi-coupling, parity, one method, a same-existing-society and a moment
 
-        *Entering: a bi-coupling, two selves; sharing; a bi-coupling, a self; an other, a self a self is bi-coupling with; parity, a self's changing direction relative to a thing of its me; + and −, a parity's two directions; a 0, a between; indifferencing; a parity, a self while it is living; a living parity's me of the self's me; moral value; receiving, the parities its others share; agreeing and parting, one binary of parities received; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting, its possibling an empty set; a prior-existing parity inverting, the parities received parting; a first sharing, sharing 0; resolving among parities; any second method, natural intelligence's resolving; do-no-harming; passing over a 0; improving; two selves alike, each bi-coupling only in their pair, do-no-harming and improving in turn; co-possibling, each self sharing its possibling with its me; a same-existing-society; a moment; opening and completing.*
+        *Entering: a bi-coupling, two selves; sharing; a bi-coupling, a self; an other, a self a self is bi-coupling with; parity, a self's changing direction relative to a thing of its me; + and −, a parity's two directions; a 0, a between; indifferencing; a parity, a self while it is living; a living parity's me of the self's me; moral value; receiving, the parities its others share; agreeing and parting, one binary of parities received; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting, its possibling an empty set; a prior-existing parity inverting, the parities received parting; a first sharing, sharing 0; resolving among parities; any second method, natural intelligence's resolving; do-no-harming; passing over a 0; improving; two selves alike, bi-coupling only in their pair, do-no-harming and improving in turn; co-possibling, a self sharing its possibling with its me; a same-existing-society; a moment; opening and completing.*
 
 24. A **bi-coupling** is two selves sharing possibling.
 
@@ -169,7 +169,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a bi-coupling, a self.*
 
-26. For a self, each self it is bi-coupling with is an **other**.
+26. For a self, a self it is bi-coupling with is an **other**.
 
         *Adding: an other, a self a self is bi-coupling with.*
 
@@ -189,7 +189,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: indifferencing.*
 
-31. Each parity is a self while it is living.
+31. A parity is a self while it is living.
 
         *Adding: a parity, a self while it is living.*
 
@@ -245,7 +245,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: do-no-harming.*
 
-45. Each self receiving a 0 is passing over it.
+45. A self receiving a 0 is passing over it.
 
         *Adding: passing over a 0.*
 
@@ -253,13 +253,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: improving.*
 
-47. Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn.
+47. Two selves alike, bi-coupling only in their pair, are do-no-harming and improving in turn.
 
-        *Adding: two selves alike, each bi-coupling only in their pair, do-no-harming and improving in turn.*
+        *Adding: two selves alike, bi-coupling only in their pair, do-no-harming and improving in turn.*
 
-48. Do-no-harming and improving have **co-possibling**, each self sharing its possibling with its me.
+48. Do-no-harming and improving have **co-possibling**, a self sharing its possibling with its me.
 
-        *Adding: co-possibling, each self sharing its possibling with its me.*
+        *Adding: co-possibling, a self sharing its possibling with its me.*
 
 49. A **same-existing-society** is many selves bi-coupling.
 
@@ -269,15 +269,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a moment.*
 
-51. Each moment is **opening** with each self's prior-existing parity and **completing** with its next-existing parity.
+51. A moment is **opening** with a self's prior-existing parity and **completing** with its next-existing parity.
 
         *Adding: opening and completing.*
 
 ## 4 Social moral competency, a natural intelligence network and a living expedition
 
-        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a Natural Network surface, non-living at its selves' scale; the living parities on a surface, in its selves' universal sets; each self's changing dividing its surface; geodesic; inward and outward, fractal; a stable form; natural resolving; a living file, a non-living same-existing set of words, selves co-intelligencing with it; natural resolving, a living file's inward; natural engineering; natural explaining, the dividing of a living file; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
+        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a Natural Network surface, non-living at its selves' scale; the living parities on a surface, in its selves' universal sets; a self's changing dividing its surface; geodesic; inward and outward, fractal; a stable form; natural resolving; a living file, a non-living same-existing set of words, selves co-intelligencing with it; natural resolving, a living file's inward; natural engineering; natural explaining, the dividing of a living file; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
 
-52. Each self of a same-existing-society do-no-harming and improving is **social moral competency**.
+52. A self of a same-existing-society do-no-harming and improving is **social moral competency**.
 
         *Adding: social moral competency.*
 
@@ -285,11 +285,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a natural intelligence network.*
 
-54. A natural intelligence network, each self resolving its own next-existing, is **free**.
+54. A natural intelligence network, a self resolving its own next-existing, is **free**.
 
         *Adding: free.*
 
-55. Each self sharing with each self it is bi-coupling with, a free natural intelligence network is **social abundancing**.
+55. A self sharing with a self it is bi-coupling with, a free natural intelligence network is **social abundancing**.
 
         *Adding: social abundancing.*
 
@@ -305,19 +305,19 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: the living parities on a surface, in its selves' universal sets.*
 
-59. Each self's changing divides its surface.
+59. A self's changing divides its surface.
 
-        *Adding: each self's changing dividing its surface.*
+        *Adding: a self's changing dividing its surface.*
 
 60. Living is **geodesic** co-chaining on a Natural Network surface.
 
         *Adding: geodesic.*
 
-61. Each self is a same-existing-society **inward and outward**, **fractal**.
+61. A self is a same-existing-society **inward and outward**, **fractal**.
 
         *Adding: inward and outward, fractal.*
 
-62. A form same-existing with each resolving is a **stable form**.
+62. A form same-existing with a resolving is a **stable form**.
 
         *Adding: a stable form.*
 
@@ -345,7 +345,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: a living expedition.*
 
-69. Each moment is completing as a next opening.
+69. A moment is completing as a next opening.
 
         *Adding: a next opening.*
 
@@ -355,7 +355,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 5 Four binaries, one now, changing and discovering
 
-        *Entering: four binaries; now, universal moment; one observing, one changing; a second now only a naming; changing, a set's and each thing's; moments; each now a next and a prior; discovering, universal method.*
+        *Entering: four binaries; now, universal moment; one observing, one changing; a second now only a naming; changing, a set's and its things'; moments; a now a next and a prior; discovering, universal method.*
 
 71. A universe is-or-is-not existing, is-or-is-not all, is-or-is-not now, is-or-is-not same: four binaries, each one way and its other, both on that one thing; now and all of one, now one and each thing one of all, and existing and same between two.
 
@@ -367,11 +367,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 73. A now-existing thing is going on from prior, and going on from prior to now toward next is changing: the universe is the same-existing set of all now-existing things, and a set's changing is its things' changing, a thing still from beside being with an empty next, so each now-existing thing is changing with its own moments, or not-changing, its prior same-existing, moment by moment.
 
-        *Adding: changing, a set's and each thing's; moments.*
+        *Adding: changing, a set's and its things'; moments.*
 
 74. Now is next of prior and prior of next, and discovering, step 11, next-existing from now-existing, is-or-is-not same-existing: universal method of co-intelligencing now-existing within the universe.
 
-        *Adding: each now a next and a prior; discovering, universal method.*
+        *Adding: a now a next and a prior; discovering, universal method.*
 
 ## 6 Going on from prior, living and non-living
 
