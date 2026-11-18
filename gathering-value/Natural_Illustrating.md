@@ -85,6 +85,7 @@ Gathering-Value · Natural Illustrating
 ### 3.2 A ratio alternating about φ, and two windings
 
 - **An explaining** · Cups, conical forms, two opposing swimmers inverting with no wall, golden rectangles, a spiral's hand, a φ rate and an angle of about 29.5 degrees are still-possibling correspondences of natural torusing, none of them an observed carbon atom. An angle, a rate and an ordering each ask their own relation, one illustration having them together unites none of them, and each correspondence asks which geometric operation brings it and which observing fixes its scale, angle and hand.
+- **Possible incohering** · "A file's own caution for any animation: a finite floating-point rate is no exact irrational." → *A file's own caution*: a cautioning, dissolved from natural explaining. Its value with no cautioning, an is: a finite floating-point rate is no exact irrational.
 
 ### 3.3 A pentagon, rectangles and an icosahedron
 
