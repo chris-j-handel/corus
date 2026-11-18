@@ -24,7 +24,7 @@ For a self, each now-existing thing is-or-is-not of its me. \
 Each self is living, and each living thing is a self. \
 A living same-existing set of inherited prior-existings is a self. \
 **Natural intelligence** is the method of living as a same-existing self. \
-Living and **non-living** are one binary of each now-existing thing. \
+Living and **non-living** are one binary of each now-existing thing at each scale. \
 Each non-living thing is a **stable-forming emanation**. \
 The universe is a non-living same-existing set. \
 Living and non-living things are things of the universe. \
