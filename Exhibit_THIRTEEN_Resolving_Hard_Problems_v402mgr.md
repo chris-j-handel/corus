@@ -6,7 +6,7 @@ Exhibit THIRTEEN Resolving Hard Problems v402mgr
 
 **ONE · AN EXISTING UNIVERSE**
 
-- 1.1 The universe, the set of all now-existing things
+- 1.1 The universe, the set of now-existing things
 - 1.2 Living and non-living, a prior same-existing or none
 - 1.3 Bi-momentary, a self's moment and an other's at once
 - 1.4 Prior, now and next
@@ -53,9 +53,9 @@ Exhibit THIRTEEN Resolving Hard Problems v402mgr
 
 # ONE · AN EXISTING UNIVERSE
 
-## 1.1 The universe, the set of all now-existing things
+## 1.1 The universe, the set of now-existing things
 
-**The universe is the set of all now-existing things.** Going on from prior to now toward next it is the same-existing set of all now-existing things, living things same-existing with their prior along to now and non-living things with no prior of their own, each with its own scale and moment. Changing, it is now-existing as its things are, a changing being a thing's own, and nothing adds around its things or between them. Its existing is its things co-sequencing, moment by moment, and its changing is their changing, one and then an other. **Resolving hard problems is social moral competency discovering next living with each coupling**, and it opens here, with an existing universe: each resolving is the universe's things co-sequencing with a field's coupling, with that coupling's own moment.
+**The universe is the set of now-existing things.** Going on from prior to now toward next it is the set of now-existing things, living things same-existing with their prior along to now and non-living things with no prior of their own, each with its own scale and moment. Changing, it is now-existing as its things are, a changing being a thing's own, and nothing adds around its things or between them. Its existing is its things co-sequencing, moment by moment, and its changing is their changing, one and then an other. **Resolving hard problems is social moral competency discovering next living with each coupling**, and it opens here, with an existing universe: each resolving is the universe's things co-sequencing with a field's coupling, with that coupling's own moment.
 
 **A living existing thing is its own stable-forming same-existing, and a non-living existing thing is one same method with no same-existing, changing with existing things now**, each existing and changing together, and the universe is that going on of all its things: each going on to its next existing together with others. No container adds to its things, and no number lying over it is its size: it is its things, one existing thing with each moment. A field's no set of all sets is exact for its own subject, sets of sets, and the universe is a set of now-existing things, existing as they exist.
 

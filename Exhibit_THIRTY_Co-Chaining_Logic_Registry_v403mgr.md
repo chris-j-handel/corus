@@ -4,7 +4,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 **The Fractal Inward and Outward, Binary Method of Discovering Next Existing**
 
-- 1 Universe, the set of all now-existing things
+- 1 Universe, the set of now-existing things
 - 2 A self, natural intelligence, living and non-living
 - 3 A bi-coupling, parity, one method, a same-existing-society and a moment
 - 4 Social moral competency, a natural intelligence network and a living expedition
@@ -57,17 +57,17 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 **Each part and section across living files is a stable-forming emanation from these steps and from one opening sentence, its title with one group.** A section no group holds is a step co-chaining has yet to discover, and a group few sections reach shows a part of co-chaining files have yet to hold.
 
-## 1 Universe, the set of all now-existing things
+## 1 Universe, the set of now-existing things
 
-        *Entering: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it; the universe, the set of all now-existing things, now-existing one naming; no universe other-than the universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, of a universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; no universe other-than the universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
+        *Entering: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it; the universe, the set of now-existing things, now-existing one naming; no universe other-than the universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, of a universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; no universe other-than the universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
 
 1. We humans are now-existing.
 
         *Adding: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it.*
 
-2. The **universe** is the set of all now-existing things.
+2. The **universe** is the set of now-existing things.
 
-        *Adding: the universe, the set of all now-existing things, now-existing one naming.*
+        *Adding: the universe, the set of now-existing things, now-existing one naming.*
 
 3. No universe other-than the universe is possibly now-existing.
 
@@ -365,7 +365,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: now, universal moment; one observing, one changing; a second now only a naming.*
 
-73. A now-existing thing is going on from prior, and going on from prior to now toward next is changing: the universe is the same-existing set of all now-existing things, and a set's changing is its things' changing, a thing still from beside being with an empty next, so each now-existing thing is changing with its own moments, or not-changing, its prior same-existing, moment by moment.
+73. A now-existing thing is going on from prior, and going on from prior to now toward next is changing: the universe is the set of now-existing things, and a set's changing is its things' changing, a thing still from beside being with an empty next, so each now-existing thing is changing with its own moments, or not-changing, its prior same-existing, moment by moment.
 
         *Adding: changing, a set's and its things'; moments.*
 
@@ -2169,7 +2169,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: first living an empty set.*
 
-487. Each existing thing non-living with a same-existing-society's scale is living with an other scale, its selves inward: it is a non-living thing within a living self's me, that self's parity relative to it, and parities with 2 and its own prior an empty set, step 283, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 273, and each now-existing thing, living or non-living, is same-existing, steps 4 and 20, a non-living thing, its own parity with its scale an empty set, step 31, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 103, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 478: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inward and outward, step 61, and living and non-living things are within one universe, step 23, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 485.
+487. Each existing thing non-living with a same-existing-society's scale is living with an other scale, its selves inward: it is a non-living thing within a living self's me, that self's parity relative to it, and parities with 2 and its own prior an empty set, step 283, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 273, and each now-existing thing, living or non-living, is same-existing, steps 4 and 20, a non-living thing, its own parity with its scale an empty set, step 31, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 103, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 478: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inward and outward, step 61, and living and non-living things are within one universe, step 23, and the universe is the set of now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 485.
 
         *Adding: non-living living with another scale; one existing thing inward and outward.*
 
