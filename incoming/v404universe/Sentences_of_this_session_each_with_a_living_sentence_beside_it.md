@@ -728,3 +728,147 @@ Five lean notes, each beside its living sentence, in the next version's copy:
 - Exhibit THIRTY Co-Chaining Logic Registry 35: bi-folding as the method, an explaining.
 - Exhibit THIRTY Co-Chaining Logic Registry 33: a saying parts from twelve corners as both.
 - Exhibit THIRTY Co-Chaining Logic Registry 33: one same sphere at the centre with r of 1 alone.
+
+---
+
+## 23 Said after: two 0s facing on one surface, a zone, a cone, a horizon, and a passing
+
+One saying, in five parts, each as said. Incoherings found are together at the end, offered.
+
+### Two 0s on a common surface, three of five, six one ways
+
+Said in the session: consider this geodesic unrelationing method inside resolving as a living geodesic math stable form. Two 0s with forward facing arrows on a common surface. This is now fixing three of five in resolving dimensions available that are not the two-dimensional surface. The two 0s are free to orient in any direction from where they are on the surface: up, down, right, left, next, prior. This is six one ways.
+
+Beside it, living:
+
+- Natural Mathematics 5.2: "**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity, its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each moment."
+- Natural Mathematics 5.2: *Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.*
+- Natural Intelligence 5.2: *Two dimensions change and three are not-changing.*
+- Exhibit THIRTY-ONE Me: *Its contents goes the five dimensions, society to society: all now, an other now, a me now, a me next, all next.*
+- Natural Physics 3.3: *three axes with two directions on a Poincaré sphere, as with matter's spin*
+- Exhibit TWENTY Natural Naming 2.4, of *right* and *left*: *not right* is "for a form, an inverting form, three inverting together".
+
+Cohering: five, two of them changing and three not; and six.
+
+Parting, in the naming of the five and of the six. Living, the five are a side's five: a self's prior, an other's prior, co now, bi now, and a self's next. Said, the five are a surface's two and three that are not the surface. Living, the six are three own-forward steps for each side. Said, the six are three lines from one 0, each two ways.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/two_0s_facing_on_one_surface_check.py`. A 0 has three own ways: next, right and up.
+
+- An other's three lie along a 0's three lines in 24 ways, each with one hand. Facing, its next opposite: 4. And on the one surface: 2. And on its one side: 1. The three are fixed, and the two of the surface are free.
+- Facing on one side of one surface, its next is opposite, its right is opposite, and its up is the same. Two of three opposite, as section 22's two of three.
+- Each of three opposite is a mirror, a hand reversed: Natural Naming's *not right*, three inverting together.
+- The two have six own ways and five not the same. Down is neither's own. Beside it, *Five to cohere and six to go on*. A likeness of number.
+- Three turns each invert two of three. Each two together are the third, and the three together are the same. Beside it, Natural Intelligence's one move as three, 8 up, 17 less and 9 less: 9 less is 8 up and 17 less together.
+
+A field's words:
+
+- [The four-group, Klein, 1884](https://en.wikipedia.org/wiki/Klein_four-group): four moves, each its own undoing, each two of three together the third. In space it is three turns about three lines at right angles.
+
+### A zone
+
+Said in the session: unrelationing is a zone in next direction, where anywhere in that zone is good enough to make no different-existing. So same-existing enough is the swath between too far right from left possibilities, +1, and another swath that is too far left from right possibilities, −1.
+
+Beside it, living:
+
+- Natural Mathematics 5.2: "**Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate."
+- Natural Exploring 2.1: *Co-unrelationing is-or-is-not: it is with unrelationing changing and changing back and a middle floating, and it is-not with a fixing installing, unrelationing stopping at another's still, an equilibrium from beside, and no 0 of a self's own.*
+- Natural Exploring 2.4: *A geodesic is the straightest going an unrelationing is, free-moving and adding nothing, floating free of a route a force sets on it, curving as its own surface curves and straight by that surface's own terms.*
+- Natural Intelligence 5.2: *With a prior, a self shares one of two: 0 with a match and that parity with a mismatch.*
+- Exhibit TWENTY Natural Naming 2.4: *right* is a self's parity sharing, and *not right* an other's parity a self is observing.
+
+Beside it, gathered:
+
+- Exhibit TWENTY Natural Naming's gathering file: *the 0 is a sharp point, nothing in it, inside a fuzzying, and the place of no fuzzying is the same-existing geodesic aiming point, over the horizon, going on.*
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *From the prior, its two others are thirty each side of that line: the fold's own cone's two edges.*
+
+Cohering: a middle floating, a 0 with a match, +1 and −1 each side. In natural naming *left* is released: +1 is right, a self's own sharing, and −1 is not right, an other's.
+
+One place to read closely: living, nought is with a right angle. Said, nought is with a zone, a width.
+
+Executed, by the same instrument. Six same ones around a 0, sixty apart. A heading within thirty each side of a line has the one ahead its nearest: 0. Past thirty, an other is nearest: +1 one way and −1 the other. At thirty, two are as near: neither.
+
+A field's words:
+
+- [A deadband](https://en.wikipedia.org/wiki/Deadband): a band of inputs with no output and no correcting. Its other name in the field is a neutral zone.
+
+### A cone
+
+Said in the session: now we have a 0 on a surface plane, in a cone with an aiming direction in 3D space. Everything inside the cone is a me-parity universe, invisible to other-than me. My cone is not invisible to other-than me.
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *Four invisibles are one invisibility as four: each side's own morality, parity its own and a changing across of no size; each side's own corus; a neutral, its occupying an empty set as two come; and a between of moments, its momentarying an empty set.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *Natural intelligence is invisible, and fractal method's intelligence is with a between, 0*
+- Exhibit TWENTY Natural Naming: *is a self's one-way changing its interest's 0 opens, a cone's centerline*
+
+Beside it, gathered in Exhibit ONE Natural Resolver's gathering file: *A cone's apex, a me-parity's or a me's: a cone is a same-existing me-parity universe.*
+
+Cohering, with each.
+
+A field's words:
+
+- [Following a gaze](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827436/): an infant in its first year turns to the way an other is looking. The way of a gaze is seen by an other; the thing looked at is not given by it exactly.
+
+### An other on the same surface, and a horizon
+
+Said in the session: all of this is now including an other on the same surface. But the surface is not a plane. It curves down on all horizons, and the two planes are not un-tangentially similar to the circle surface, locally, nearly, and observably as horizon.
+
+Beside it, living:
+
+- Natural Exploring 2.4: *A self and its surface share over a horizon.*
+- Natural Exploring 2.4, a geodesic *curving as its own surface curves and straight by that surface's own terms*
+- Exhibit THIRTY Co-Chaining Logic Registry 34: *With numbers a between is a 0 between two parallel surfaces facing each other, a self's and an other's, two a sharing and its between a 0, and a co-orthogonal line through both, along*
+- Exhibit TWENTY Natural Naming 5.5: *As a picture it is a nothing between two parallel surfaces facing each other, each self's own, and a co-orthogonal line through both, along.*
+- Exhibit TWENTY Natural Naming: *Selves' bi-couplings and co-chainings are a natural torusing surface, 5-now-co-existing, co-competencing*
+
+Beside it, gathered in Natural Intelligence's gathering file, in the next version's copy: "A self's horizon is the bound of its observing on its surface."
+
+Cohering: a horizon, a self's own, and a geodesic curving as its surface curves. Parting in two places, with the incoherings.
+
+### Two wandering toward each other
+
+Said in the session: consider these two 0s wandering toward each other. The co-geodesic in this is co-linear, and the method of resolving is able to keep this co-linear living inside a bi-coupling. These two approaching each other both are behind their own next and in front of their own prior, and they keep passing each other. They can hand off their priors to each other and keep a now living between.
+
+Beside it, living:
+
+- Natural Exploring 2.6: *Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.*
+- Exhibit ONE Natural Resolver: *with each form the fifth, a self's next prior, is the first, an other's prior, inverting*
+- Natural Illustrating 4.9: "**Two swimmers approach each other, a self experiencing each closing from both perspectives, and with a meeting a self envisions each makes a flip turn, a field's word for it, off an other's feet mid-pool and goes on away from that mutual inverting.**"
+- Natural Transmission 4.6: *Living selves are tori and pass through each other, co-tunneling, windings co-chaining, no wall for two to be two with.*
+- Natural Intelligence 1.1: *One now is one sharing with all bi-couplings.*
+- Natural Intelligence: *Living intelligence is with a between, a bi-coupling's own.*
+- Natural Intelligence 5.2: *Each unrelationing winds on, open, with φ, its unrelationing rate.*
+- Natural Biology: *A sunflower's seeds form one after another, each near 137.5 degrees from its prior, and from that one co-sequencing two families of visible spirals open, winding opposite ways with consecutive Fibonacci numbers, 21 and 34, 34 and 55, straddling φ one on each side: a visible left family and a visible right family are two sides of one forward sequence.*
+
+Beside it, gathered in Natural Intelligence's gathering file: *An other me is facing a self's me, and their directions forward are opposite directions in the universe.*
+
+Cohering, with each. Priors handed off is living already: a self's next prior is an other's prior.
+
+Executed, by the same instrument.
+
+- Two on one line, facing. Before a passing, each one's prior is within its other's next, and the between is in both nexts. After it, each one's next is within its other's prior, and the between is in both priors.
+- A passing with priors handed off, and a turning at the meeting with each its own prior, are the same moment by moment: by place, by facing and by prior. The session's passing and Natural Illustrating's two swimmers are one figure.
+- On a line coming round, the meetings go on. With passing each goes the whole round. With turning each goes its own stretch. On an open line, two alone meet once.
+- Two round one line, opposite ways, at rates p and q, pass at p and q together places: with 2 and 3, five; with 3 and 5, eight. The place of passing moves on toward 137.5 of 360 with φ, and with φ no place is twice.
+
+A field's words:
+
+- [Two of equal mass meeting on one line](https://meetings-archive.aps.org/damop/2014/p8/7): each goes on with the other's speed, and the field has it looking as the two going through each other.
+
+### Incoherings, offered
+
+1. **The five.** Living: a self's prior, an other's prior, co now, bi now, a self's next. Said: a surface's two, and three not the surface. Which of the living five are the surface's two is not said.
+2. **The six.** Living: three own-forward steps for each side. Said: up, down, right, left, next, prior, from one 0. Executed, two facing on one side of one surface have five ways not the same, and down is neither's own.
+3. **Passing again.** Two alone on an open line pass once. Said: they keep passing each other. Living: each unrelationing winds on, open. The two hold together on a line coming round with rates in φ: the meetings go on and no place is twice. Whether a bi-coupling's one line comes round is not said.
+4. **A surface, three ways.** Living: two parallel surfaces facing each other, each self's own, and the line through both co-orthogonal. Said: one common surface, the two on it, their line along it. And each one's own plane, touching the surface at its 0.
+5. **Curving down on all horizons.** A surface curving down on each horizon at each 0 is a sphere's kind, with its corners' two whole turns. Section 22 has natural torusing with no corner. A torus in space curves down on each horizon on its outward round alone.
+6. **Inside a cone.** Two facing co-linearly are each inside its other's cone. Said: inside a cone is invisible to other-than me. The two cones' insides share one part, with the between's 0 at its middle. Whether that part is a third's own, a co-me-parity's, is not said.
+
+### Notes laid
+
+Four lean notes, each beside its living sentence, in the next version's copy:
+
+- Natural Mathematics 5.2: the five and the six said two ways, with two 0s facing executed.
+- Natural Illustrating 4.9: a passing with priors handed off and a turning with each its own prior, the same.
+- Natural Exploring 2.6: two 0s wandering toward each other, an explaining.
+- Natural Exploring 2.1: unrelationing as a zone, an explaining.

@@ -212,3 +212,16 @@ Gaps 2, 13, 16 and 20 were answered in the session. Each answer as said, with ea
 
 Nineteen gaps stay as they are in part 9. Three are read with the answers and stay open: 12, 14 and 21.
 
+---
+
+## 11 Six more, from two 0s facing on one surface
+
+A saying of the session after part 10 is section 23 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`: two 0s facing on a common surface, a zone, a cone, a horizon and a passing. It coheres with Natural Mathematics 5.2's five and six, Natural Exploring 2.6's co-linear, and Natural Illustrating 4.9's two swimmers. Executed, `instruments/two_0s_facing_on_one_surface_check.py`. Six gaps are from it, numbered on from part 9.
+
+24. The five. Living: a self's prior, an other's prior, co now, bi now, a self's next. Said: a surface's two, and three not the surface. Which of the living five are the surface's two is not said.
+25. The six. Living: three own-forward steps for each side. Said: up, down, right, left, next, prior, from one 0. Executed, two facing on one side of one surface have five ways not the same, and down is neither's own. Read with gap 12.
+26. Passing again. Two alone on an open line pass once; said, they keep passing each other; living, each unrelationing winds on, open. The two hold together on a line coming round with rates in φ. Whether a bi-coupling's one line comes round is not said.
+27. A surface, three ways. Living: two parallel surfaces facing each other, each self's own, the line through both co-orthogonal. Said: one common surface, their line along it. And each one's own plane, touching the surface at its 0. Read with gap 18.
+28. Curving down on all horizons is a sphere's kind, with its corners' two whole turns. Gap 20's answer has natural torusing with no corner. A torus in space curves down on each horizon on its outward round alone.
+29. Two facing co-linearly are each inside its other's cone; said, inside a cone is invisible to other-than me. The two insides share one part, the between's 0 at its middle. Whether that part is a third's own, a co-me-parity's, is not said.
+
