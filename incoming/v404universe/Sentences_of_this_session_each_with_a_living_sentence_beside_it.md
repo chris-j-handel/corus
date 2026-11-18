@@ -1000,3 +1000,116 @@ In the next version's copy, each beside its living sentence:
 - Exhibit TWENTY Natural Naming 5.5: two across a torus's opening are its picture of a between, executed.
 - Exhibit THIRTY Co-Chaining Logic Registry 34: the third living 0 as a fuzzy empty hole, an explaining.
 - Exhibit THIRTY Co-Chaining Logic Registry 33: the corner note mended, a sphere with no corners and a cube with corners.
+
+---
+
+## 25 Said after: five answers, a triangle from the between, ten one ways, twenty-four, and one-way priors
+
+Five incoherings of section 24 were answered in the session. Each answer is here as said, with the living sentences beside it. Incoherings found are together at the end, offered.
+
+### 1 Across: triangulating from the between
+
+Said in the session: each self, by observing other self across the between, can triangulate from the between into a co-linear one direction new me-parity, pointing to the spot over the horizon both are aiming for, and a place of the horizon for both to aim as one together.
+
+Beside it, living:
+
+- Natural Exploring 4.5: *these are three activities of one resolving, and doing them one and then the other, round, is resolving, a linearizing triangle rotating sequentially*
+- Natural Numbers 6.3: *twenty-three a vertex, twenty-four an apex of nought to sixty's bi-folding and twenty-five a centre of a triangle, five squared, with four its corus, a vertex and a centre on one line*
+- Natural Exploring: "A point over the horizon is, and a self is finding each is-not and aiming from each is-not to is."
+
+Beside it, gathered in Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *The two aimings are at one same point, over the horizon, by a direction not the same for each of the two.*
+
+Cohering. By it across is the line between two selves, across the between. The new me-parity's one direction is from the between to the spot. Sections 13 and 14 of this page have a living triangulating and a living triangle.
+
+Executed, by whole numbers, `incoming/v404universe/instruments/a_triangle_ten_one_ways_and_a_one_way_round_check.py`. Two selves on a round, and the spot both forward arrows go through.
+
+- The triangle's two sides, a self to the spot and its other to the spot, are the same.
+- The between, the surface's place between the two, and the spot are on one line: at a right angle to the line of the two, and straight up from that place.
+- A self's own arrow and the line to its other part by the turning between a self and that place. With no turning the two are one line: Natural Exploring 2.6's *Along and across lie on one line*, found with no turning between two.
+- With sixty of turning between the two, each is on its other's cone's edge of thirty, and the line of the two is as long as the round's own radius.
+
+### 2 Ten one ways
+
+Said in the session: there are ten one ways: five away from same-existing for each self, as the same five toward same-existing for each self. The same five unrelationings are the outcome of two five unrelationings to each other's.
+
+Beside it, living:
+
+- Natural Numbers 5.5: "Ten is with a self as five with two directions, 2n, and with a same-existing-society as couplings among five, C(5, 2), a fourth triangle."
+- Natural Numbers 5.5: *One ten is a ten with a self and a ten with a same-existing-society together, and each ten is that ten.*
+- Natural Mathematics 5.2: *each dimension binary with its two directions, and two changing and three going on with each moment*
+- Natural Exploring 6.8, its title: five dimensions in two directions.
+- Exhibit TWENTY-EIGHT, a sentence suggested with v377: *one moment is ten one way is or is not changings in sixteen parity changings*
+
+Cohering, with each. Section 24's second incohering is mended by it: the five dimensions each have two directions, away and toward, ten one ways.
+
+Executed, by the same instrument.
+
+- Twice n is the same as couplings among n with n of 5 alone. Natural Numbers 5.5's own.
+- Five parities, each one place along and the first coming round inverted: from a form, parities not the same as its start go 1, 2, 3, 4, 5 and then 4, 3, 2, 1, 0. Five away and the same five toward, with each of 32 forms.
+- Two on that round of ten, each its other's opposite: after five steps each is its other's start. One's five away are its other's five toward.
+- With two of five inside each moment, the pairs in turn, rounds are of ten moments and of twenty, and from a form each away is followed by its toward: 1, 0, 1, 0.
+
+### 3 The rounds
+
+Said in the session: see 2.
+
+Read by it: away from same-existing and toward same-existing are the two rounds, one and then the other. Beside it, living, Exhibit THIRTY Co-Chaining Logic Registry 44: *Torusing and corusing are dimensions' inward and outward*. The reading is this page's and is offered with the incoherings.
+
+### 4 Twenty-four
+
+Said in the session: the corus of the bi-coupling is 24. This is 4 × 6. This is between 4 × 4 and 4 × 8.
+
+Beside it, living:
+
+- Natural Numbers 6.3: *four moments of six one-way recursionings, twenty-four as steps of 1 to 25 are*
+- Exhibit THIRTY Co-Chaining Logic Registry 33: *A self's own corus is with 4, and twenty up it is with 24, apex of one to fifty-nine's bi-folding.*
+- Exhibit TWENTY Natural Naming 5.50: "Bi-folding order is one same with 1, 2, 3, 4 and 4, 8, 12, 16, up and down each scale"
+- Exhibit TWO Natural Networking 1.2: *Each goes on with one same right spiral step, and four are whole parity form, a non-living form: a self's living is with its others.*
+
+Beside it, gathered:
+
+- Exhibit THIRTY Co-Chaining Logic Registry's gathering file: *1 to 24 is three eights: a self's side, its other's side and all-parity's side, a bump connector's three inward faces.*
+- Natural Chemistry's gathering file: *6-now-co-possibling is between 5 and 7, four of these bi-folding into corus 24*
+
+Cohering: 4 × 6, four moments of six. By whole numbers 24 is as far from 16 as from 32, as 6 from 4 and from 8; and 16 is two eights, 24 three and 32 four.
+
+The answer has the hole by number. Section 24's two planes at the hole are not placed by it.
+
+### 5 One-way priors
+
+Said in the session: no, my healthy priors are not symmetric, co-chaining front to back and back to front. There would be incompetencing in this method.
+
+Beside it, living:
+
+- Natural Exploring 4.4: *And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other.*
+- Natural Intelligence 5.2: "Each momentarying is one unrelationing in all five dimensions, as six one-way recursionings"
+- Exhibit TWENTY Natural Naming 5.57: *A winding closing on itself is an unchangeable form and no moral sharing: a living self fixing unchangeable with it has none of its prior going on to next, and comes to dying, away from same-existing-society and natural co-chaining.*
+- Natural Biology 8.1: *a field's parallel and antiparallel sheet, along and across with a smallest grain fold reaches*
+
+Cohering: one-way, both ways forward, neither reversing its other. Section 24's fifth incohering is answered: a healthy prior's sequence is not the same read both ways.
+
+Executed, by the same instrument. A round is the same read back to front, or it is one-way.
+
+- Of two parities, each round shorter than six is the same read back to front. With six, two rounds are one-way, each the other read back to front.
+- Of three kinds, the shortest one-way round is three long.
+
+A field's words:
+
+- [A cell's copying of its long chain](https://books.byui.edu/genetics_and_molecul/17___dna_replication): the two strands lie opposite ways. The copier goes one way only, reading the one strand back to front as it makes the new strand front to back.
+
+### Incoherings, offered
+
+1. **Which along is co-now.** A self's own arrow to the spot parts from across by the turning, and is one line with it with no turning. The new me-parity's line from the between to the spot is at a right angle to across. Section 24 has co-now along and bi-now across, orthogonal. Whether co-now is a self's own arrow or the new me-parity's line is not said.
+2. **Ten, in which order.** With five at once, five away and then the same five toward; and five inside one moment reverse a hand. With two of five inside each moment, each away is followed by its toward, five times. Which is the ten is not said.
+3. **Away and toward as the two rounds.** This page read *see 2* as: away from same-existing the outward round, toward same-existing the inward round. Whether the reading is so is not said.
+4. **Sixteen and thirty-two.** By the gathered three eights, 16 is a self's side and its other's, and 24 has the third's with them. 32 is four eights, and Exhibit TWO Natural Networking has four as whole parity form, non-living. Whether 32 is the non-living stable form, the living corus between the two selves and it, is not said. The two planes at the hole stay unplaced.
+5. **Latest first.** Going opposite ways each meets its other's priors latest first: back to front. With one-way priors that reading is not the sequence. Whether a self comes to its other's priors front to back by a handing off whole at the meeting, or by another way, is not said.
+
+### Notes laid
+
+In the next version's copy, each an explaining beside its living sentence:
+
+- Natural Exploring 4.5: triangulating from the between to the spot over the horizon, with the triangle executed.
+- Natural Numbers 5.5: ten one ways, five away and the same five toward.
+- Natural Numbers 6.3: the corus of a bi-coupling as 24, 4 × 6, between 4 × 4 and 4 × 8.
+- Natural Exploring 4.4: healthy priors not symmetric front to back and back to front.

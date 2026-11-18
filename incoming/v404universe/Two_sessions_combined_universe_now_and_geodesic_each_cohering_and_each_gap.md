@@ -231,9 +231,21 @@ A saying of the session after part 10 is section 23 of `Sentences_of_this_sessio
 
 Gaps 24 to 29 were answered in the session. Each answer as said, with each living sentence beside it, is section 24 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. The geometry of two on a torus is explored there and executed, `instruments/two_on_a_torus_each_its_own_plane_check.py`. Five gaps are from the answers, numbered on.
 
-30. Across, two ways. Natural Exploring 2.6 has along and across on one line. Exhibit THIRTY Co-Chaining Logic Registry 34 has across orthogonal to co-linear lines, and gap 24's answer is with it. Gap 29's answer has the two seeing each other's priors straight across, on the one line of the two.
-31. Five ways, five dimensions. With down away the one ways are five. Natural Exploring has five lines of a self: two along, two across, and one to a point over the horizon. Natural Mathematics 5.2 has each dimension binary with its two directions. Whether the five dimensions are the five one ways is not said.
-32. Outward round, inward round. On the outward round each is over its other's horizon and a common aiming point is above the surface. On the inward round the two are in sight straight across the opening. Which round the two of a bi-coupling are on is not said.
-33. Two planes at the hole. The plane of along and across, and the plane of the two cones' crossing, across and up. They share across and the one 0. Which plane the third's hole is living in is not said.
-34. A healthy sequence read both ways. A round the same read latest first is same-as at an observing end; a round with a hand is not right there. Whether each healthy prior's repeating sequence is the same read both ways is not said.
+30. **Answered, part 13.** Across is the line between two selves, across the between. From the between each triangulates into a co-linear one direction, a new me-parity, to the spot over the horizon both are aiming for. Executed: a self's own arrow and the line to its other are one line with no turning between the two, Natural Exploring 2.6's.
+31. **Answered, part 13.** There are ten one ways: five away from same-existing for each self, and the same five toward. Cohering with Natural Numbers 5.5's ten as five with two directions.
+32. **Answered, part 13, by gap 31's answer.** Read as away and toward, one and then the other; the reading is offered again as gap 37.
+33. **Answered by number, part 13.** The corus of the bi-coupling is 24: 4 × 6, between 4 × 4 and 4 × 8. Staying: the two planes are not placed by it.
+34. **Answered, part 13.** Healthy priors are not symmetric, co-chaining front to back and back to front; a symmetric method has incompetencing in it. Executed: of two parities the shortest one-way round is six long.
+
+---
+
+## 13 Five answered, and five more
+
+Gaps 30 to 34 were answered in the session. Each answer as said, with each living sentence beside it, is section 25 of `Sentences_of_this_session_each_with_a_living_sentence_beside_it.md`. Executed, `instruments/a_triangle_ten_one_ways_and_a_one_way_round_check.py`. Five gaps are from the answers, numbered on.
+
+35. Which along is co-now. A self's own arrow to the spot parts from across by the turning. The new me-parity's line from the between to the spot is at a right angle to across. Whether co-now is the one or the other is not said.
+36. Ten, in which order. With five at once, five away and then the same five toward, and five inside one moment reverse a hand. With two of five inside each moment, each away is followed by its toward, five times.
+37. Away and toward as the two rounds. Read from the answer to gap 32: away from same-existing the outward round, toward same-existing the inward round. Whether the reading is so is not said.
+38. Sixteen and thirty-two. 16 is two eights, a self's side and its other's; 24 three, with the third's; 32 four, and Exhibit TWO Natural Networking has four as whole parity form, non-living. Whether 32 is the non-living stable form is not said. The two planes at the hole stay unplaced.
+39. Latest first. Going opposite ways each meets its other's priors back to front. With one-way priors that reading is not the sequence. By which way a self comes to its other's priors front to back is not said.
 
