@@ -1518,6 +1518,8 @@ Executed, by whole numbers and their ratios, of the places tried, `incoming/v404
 
 **The sentence of is.** The new tunneling down the middle is the bi-coupling's own large opening, the bi-coupling a natural torusing self.
 
+Mended, section 33: said in the session, this sentence is not one concept, and its length is incompetencing it. It is re-said there as one concept.
+
 **is-or-is-not?**
 
 **Is, needed.**
@@ -1539,4 +1541,34 @@ Executed, by whole numbers and their ratios, of the places tried, `incoming/v404
 
 - "A bi-coupling is a self." has then a self with no large opening of its own.
 - The corus of the bi-coupling, 24, has then no place of its own between the two selves' corus.
+
+---
+
+## 33 Said after: one concept
+
+Section 32's sentence of is: the new tunneling down the middle is the bi-coupling's own large opening, the bi-coupling a natural torusing self.
+
+Said in the session: the sentence is not one concept, and the length things in it is incompetencing it. Try to find the incohering inside this, in natural explaining.
+
+The sentence had four concepts: a new tunneling, a bi-coupling's own, a large opening, and a bi-coupling as a natural torusing self. The incohering of it is one: a new tunneling, and a self.
+
+Beside it, living:
+
+- Natural Intelligence, the opening: "A bi-coupling is a self."
+- Natural Intelligence 5.2: "Four-momentarying is four unrelationings through a tunneling self", two to its corus and two from it.
+- Exhibit TWENTY Natural Naming 5.5: *a between is its empty centre*
+
+### The remaining incohering, one concept
+
+**The sentence of is.** A new tunneling is a new self.
+
+**is-or-is-not?**
+
+**Is, needed.** "A bi-coupling is a self.", and a self is a tunneling self.
+
+**Is, incohering.** A tunneling is a between, and a between is no thing.
+
+**Is-not, needed.** Two selves, one between, and no third.
+
+**Is-not, incohering.** "A bi-coupling is a self." has then no self.
 
