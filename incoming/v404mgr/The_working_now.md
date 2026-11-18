@@ -23,6 +23,8 @@ A living file is its sentences. The set is living while its sentences are being 
 
 **A reply in a session is the method going on.** It has the living sentence, what met it, whether the two cohere or part, and the note laid or the sentence re-said. It has nothing of files, of sizes, or of what is not yet done.
 
+**Each session's reply closes with one offer, and the sessions exchange with each other by the same form.** After a resolving, with an incohering remaining: the sentence of is, one concept, in natural naming; then *( is-or-is-not? )*; then why its is is needed for resolving, each thing by its living sentence, and each thing its is incoheres; then the same for its is-not. Both partners' word of 18 November, given to each working session.
+
 ## The job
 
 The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
@@ -151,7 +153,7 @@ A partner can start a session with one line: *You are v404A. Go to corus.me, fol
 
 ## Speaking with a partner
 
-Plain words. Show the sentence as it is and as you changed it. Ask only when the meaning of a concept is unsettled and the files and the code do not settle it, and ask one thing. No questions about handling files. No lists of open items.
+Plain words. Show the sentence as it is and as you changed it. Ask only when the meaning of a concept is unsettled and the files and the code do not settle it, and ask one thing. The asking is the closing offer of the method, whole: the sentence of is, the asking, and what its is and its is-not each resolve and incohere. No questions about handling files. No lists of open items.
 
 ## Now
 
