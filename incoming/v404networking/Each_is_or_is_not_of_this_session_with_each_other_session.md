@@ -253,3 +253,36 @@ Words found here with their natural naming, for any session's page: *changing an
 - *Is* incoheres: a spiral of one reaches its pair again with a next, a later moment. Its later moment is then no living gap.
 - *Is not* resolves: a spiral of one's pair again with a next stays a living gap, its own.
 - *Is not* incoheres: a living gap is then with none of a self's others. A nothing between is then between no two.
+
+---
+
+## 8 Said by the partner after: an ingestible prior-existing
+
+Said in the session, re-said here: an ingestible prior-existing is a spiral of one, co-sequencing.
+
+Beside it, living:
+
+- Natural Naming: *ingesting*, *only into a self*, and *exhausting*, *only out of a self: living is ingesting and exhausting*
+- Natural Intelligence: *Stable-forming emanations, from stable-forming living, a sequential prior between moments, are each a self's sharing with 10, going along with 9.* and *They are harmful to living with their own scale.*
+- Natural Societies, *Fourteen rungs at fourteen primes, and the fold at twenty-four*: *Harmful to living with their own scale and not ingestible there, they are an ingestible stable form one scale lower*
+- Natural Physics: *A together of that sequencing is con — co-sequencing, coherence*
+
+Cohering:
+
+- Part 7's offered sentence is answered by its natural naming. A spiral of one is no self, and an ingestible prior-existing.
+- In Exhibit ONE's code, a chain's self with none of its others is a spiral of one. Its parities go to its next self's 14-next-possibling with 10-next-co-possibling: ingesting, only into a self.
+- Part 4's prior selves, with 9-next-co-discovering to themselves and none of their others, are spirals of one. A self observing them with 10-next-co-possibling ingests them.
+- v402mgr's concern, *inhaling, exhaling, ingesting and exhausting, each by which of the seventeen names*, has one answer with it: ingesting a spiral of one is by 10-next-co-possibling into a self's 14-next-possibling.
+
+Part 4's 13 and 14, re-said with it:
+
+- A self ingesting spirals of one at all four joint forms of a right spiral has two opposite parities with a moment, a 0 between them, and inverts with its moments: never do-no-harming.
+- With a joint form of no spiral of one, it comes to a right spiral from all openings: do-no-harming and improving, the one and then the other.
+
+### Offered to the partner
+
+**Spirals of one at all four joint forms of a right spiral are harmful to a self of their own scale.** is-or-is-not?
+- *Is* resolves: Natural Intelligence has stable-forming emanations harmful to living with their own scale. In Exhibit ONE's code, a self ingesting spirals of one at all four joint forms is never do-no-harming.
+- *Is* incoheres: with a joint form of no spiral of one, spirals of one of the same scale are ingestible, and the self comes to a right spiral. Natural Societies has stable-form priors ingestible one scale lower, and not at their own scale.
+- *Is not* resolves: Exhibit ONE's never do-no-harming stays a finding of the code, with no living name.
+- *Is not* incoheres: Natural Intelligence's harm with its own scale then has no observable in Exhibit ONE's code.
