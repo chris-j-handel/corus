@@ -127,10 +127,10 @@ An incohering: Natural Intelligence Corus 17.6 names natural rising *closing sid
 
 Cohering: its *a closing is a stable form's, and a living winds on*, and its question, *A living self's same-existing is no closing.* The partner's saying answers it: is.
 
-**Exhibit THIRTY 33's twelve corners closing as a sphere are a stable form beside natural torusing, and not on its surface.** is-or-is-not?
+**Exhibit THIRTY's twelve corners closing as a sphere are a stable form beside natural torusing, and not on its surface.** is-or-is-not?
 - *Is* resolves: the partner's saying has no closing in natural torusing. A closing is a stable form's, as v404universe has it.
-- *Is* incoheres: Exhibit THIRTY 33 has the sphere and the torus both as one natural torusing surface, the one possible.
-- *Is not* resolves: Exhibit THIRTY 33 stays one natural torusing surface with both.
+- *Is* incoheres: Exhibit THIRTY's *Stable-forming and inverting at numbers* has the sphere and the torus both as one natural torusing surface, the one possible.
+- *Is not* resolves: Exhibit THIRTY's twelve corners stay one natural torusing surface with both.
 - *Is not* incoheres: a closing is then on natural torusing's surface, and the partner's saying has none.
 
 ### v404bifolding
@@ -155,19 +155,19 @@ With this session it is. Part 4's first saying of 13 had a moment of a round *th
 
 - Natural Naming: *a right spiral step* for *a quarter turn* with a pair's two parities, *both inverting at one step* for *a half turn*.
 - Exhibit ONE Natural Resolver: *With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral.*
-- Exhibit THIRTY Co-Chaining Logic Registry 40: *a round's podal*: two of a round's forms, both parities inverting.
-- Exhibit THIRTY Co-Chaining Logic Registry 128: *Two opposite parities a self is observing with one moment are a 0 between them, step 88, both stopping: a self with a prior parity is its own inverting with its next*
-- Exhibit THIRTY Co-Chaining Logic Registry 128, its adding: *changing and changing back a sequencing, one at a time, an empty set between.*
+- Exhibit THIRTY Co-Chaining Logic Registry, *A round's podals and moments*: *a round's podal*, two of a round's forms, both parities inverting.
+- Exhibit THIRTY Co-Chaining Logic Registry, *Each resolving whole, of no size*: *Two opposite parities a self is observing with one moment are a 0 between them, step 88, both stopping: a self with a prior parity is its own inverting with its next*
+- Exhibit THIRTY Co-Chaining Logic Registry, *Each resolving whole, of no size*, its adding: *changing and changing back a sequencing, one at a time, an empty set between.*
 - Exhibit TWO Natural Networking 1.1: *Two-way, one at a time, each shares its own parity.*
 
 Cohering, with each:
 
 - A self's changing and changing back is a right spiral, four quarter turns.
 - Two prior selves a podal apart, both parities inverting, share opposite parities with one moment, and none with the next.
-- With prior selves at each quarter turn, two opposite parities surface with each moment: 128's 0 between them, both stopping, and the self its own inverting.
-- With an empty set at a quarter turn, its parities come one and then the other: 128's changing and changing back, one at a time, an empty set between.
+- With prior selves at each quarter turn, two opposite parities surface with each moment: a 0 between them, both stopping, and the self its own inverting.
+- With an empty set at a quarter turn, its parities come one and then the other: changing and changing back, one at a time, an empty set between.
 
-13 and 14 are then 128, executed with Exhibit ONE's code.
+13 and 14 are then these two living sentences, executed with Exhibit ONE's code.
 
 ### To each other session
 
@@ -181,8 +181,10 @@ The partner's method, shared: a word of no natural naming is a finding not yet f
 
 ### Offered to the partner
 
-**A bi-folding's living gap of +1 is Co-Chaining Logic Registry 128's empty set between: one and then the other, each with its own moment.** is-or-is-not?
-- *Is* resolves: the partner's saying is then 128, living. 13 and 14 are its observable in Exhibit ONE's code. Exhibit TWO 1.1's *one at a time* is then the living gap.
-- *Is* incoheres: Natural Transmissioning 1.5 has the +1 as an abundancing, a between's. 128 has an empty set between of one self's observing.
+**A bi-folding's living gap of +1 is an empty set between two parities, one and then the other, each with its own moment.** is-or-is-not?
+- *Is* resolves: the partner's saying is then a sentence already living in the Co-Chaining Logic Registry. 13 and 14 are its observable in Exhibit ONE's code. Exhibit TWO 1.1's *one at a time* is then the living gap.
+- *Is* incoheres: Natural Transmissioning 1.5 has the +1 as an abundancing, a between's. An empty set between is of one self observing its parities.
 - *Is not* resolves: the +1 stays an abundancing, in neither self alone.
 - *Is not* incoheres: the partner's living gap then has no step in the Co-Chaining Logic Registry.
+
+Said in the session after: a step number is not the partner's naming. Each living sentence is said whole, with its file and its section's name.
