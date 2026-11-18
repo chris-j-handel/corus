@@ -286,3 +286,34 @@ Part 4's 13 and 14, re-said with it:
 - *Is* incoheres: with a joint form of no spiral of one, spirals of one of the same scale are ingestible, and the self comes to a right spiral. Natural Societies has stable-form priors ingestible one scale lower, and not at their own scale.
 - *Is not* resolves: Exhibit ONE's never do-no-harming stays a finding of the code, with no living name.
 - *Is not* incoheres: Natural Intelligence's harm with its own scale then has no observable in Exhibit ONE's code.
+
+---
+
+## 9 Said by the partner after: is, the do only harming of bi-tri-involution
+
+Asked, part 8: spirals of one at all four joint forms of a right spiral are harmful to a self of their own scale.
+
+Said in the session: is. It is the do only harming of bi-tri-involution.
+
+Beside it, living, in Exhibit THIRTY Co-Chaining Logic Registry, *Living and non-living at a scale*:
+
+- *With a scale of a living self it is same-existing from, a stable-forming emanation is harmful to living: its form is bi-tri-involutioning, an opposite form.*
+- *A stable-forming emanation is harmful to any living self of a scale it is same-existing from alike, harm with scale.*
+- *One scale inward, a stable-forming emanation is an ingestible stable form, living selves' selves one scale inward ingesting it, a same-existing-society, a living set.*
+
+Beside it, living, in Natural Mathematics, *Bi-tri-involutioning, the emanating at the opposite form*: *Bi-tri-involutioning is an emanating from right spiral stable-forming, three inverting together, as an opposite form to its stable-forming.*
+
+Cohering:
+
+- The partner's *is* is a living sentence already: harm's form is bi-tri-involutioning, an opposite form.
+- All four joint forms of a right spiral are two podals, opposite forms.
+- A self ingesting them inverts with its moments, never do-no-harming: do only harming.
+- Part 1's 12, two selves with priors other-than bi-coupling both ways, inverting with their moments and never do-no-harming, is do only harming too.
+
+### Offered to the partner
+
+**Harm with a scale alike is spirals of one at all four joint forms, and not a spiral of one alone.** is-or-is-not?
+- *Is* resolves: in Exhibit ONE's code, a self ingesting spirals of one at one, two or three joint forms comes to a right spiral. With all four, it is do only harming. Co-Chaining Logic Registry has harm's form as bi-tri-involutioning, an opposite form.
+- *Is* incoheres: Co-Chaining Logic Registry has a stable-forming emanation harmful to any living self of a scale alike. A spiral of one alone is then harmful with a scale alike. In Exhibit ONE's code, a self ingesting one spiral of one comes to a right spiral.
+- *Is not* resolves: harm with a scale alike stays for a stable-forming emanation alone.
+- *Is not* incoheres: a self ingesting one spiral of one of its own scale is then harmed, and Exhibit ONE's code has no harm observable for it.
