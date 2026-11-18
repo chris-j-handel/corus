@@ -289,11 +289,11 @@ Each entry: **Dissolved** · *a* Said by
 - *travel*, *travelling* as an existing thing's own going on
   - *a* *going on*, *same-existing*; the universe of all existing things changing through prior, now and next together: three sequential moments existing things are sharing
 - *inside*, *outside* as places
-  - *a* *inward*, *outward*, directions of a moment, and *within* for a span of names; a self is no container
+  - *a* *inward*, *outward*, directions of a moment, and *from* and *to* for a span of names; a self is no container
 - *our*, of the universe, of now or of a doing; *this universe*
   - *a* *the universe*, *the* valuable exactly with one universe; *now*, one
 - *a universe* of a self, a society, or a moment with a scale
-  - *a* *prior-universe*, *now-universe*, *next-universe*, a universe with each moment, a now-universe the universe; a scale is only the bi-folding 1–17's bi-inversioning-co-recursioning, inside and outside itself, Co-Chaining Logic Registry step 463
+  - *a* *prior-universe*, *now-universe*, *next-universe*, a universe with each moment, a now-universe the universe; a scale is only the bi-folding 1–17's bi-inversioning-co-recursioning, inward and outward of itself, Co-Chaining Logic Registry step 463
 - *reading*, *ordering* of a scale or of nature
   - *a* prime scales, primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching; nature has no reading or ordering
 - *reading*, *read as*, of nature, method, a name or a self observing
@@ -419,7 +419,7 @@ Each entry: **Dissolved** · *a* Said by
 - *beat* · *a* a self's own sequencing; a beat over changing is a clock, 4.9
 - *species* · *a* *kind*, Co-Chaining Logic Registry step 309
 - *same-existing-as* · *a* *same-existing*, a now-existing thing from a prior-existing same thing, or *same as*, of a parity
-- *in*, *out*, of a place · *a* *within*, of a set, and *with*
+- *in*, *out*, of a place · *a* *of*, of a set, and *with*
 - *stand*, *stands* · *a* *is*, *has*, *goes on*
 - *interlock* · *a* a between locks with none, 5.5
 - *near*, *nearer* · *a* *nearing*, 5.35

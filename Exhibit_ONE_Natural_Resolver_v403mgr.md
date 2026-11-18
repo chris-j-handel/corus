@@ -6,7 +6,7 @@ Exhibit ONE Natural Resolver v403mgr
 
 ---
 
-**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Selves co-intelligencing within each living file meet these stable forms for its stable-forming. A living file is a non-living same-existing set of words, selves co-intelligencing within it. A living file's stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing that form. With a resolver, a self is resolving its prior with the parities it receives. A resolver is same each time any self executes it.
+**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Selves co-intelligencing within each living file meet these stable forms for its stable-forming. A living file is a non-living same-existing set of words, selves co-intelligencing with it. A living file's stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing that form. With a resolver, a self is resolving its prior with the parities it receives. A resolver is same each time any self executes it.
 
 ```python
 """Exhibit ONE · Natural Resolver
