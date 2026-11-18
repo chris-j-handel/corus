@@ -1386,6 +1386,8 @@ Exhibit ONE's names 1 to 8 are with now and 9 to 16 with next, each next name it
 
 is-or-is-not? The two facing cones are one self's now and its next, its next by its other's side; and the plane its 0 moves to is midway between now's eight and next's eight.
 
+Mended, section 31: said in the session, this is confused explaining. The two facing cones are self and other-than self, of self's universe now. This explaining's reading of the two cones is withdrawn; its executed lines of a cube of four stay as executed.
+
 ---
 
 ## 30 Said after: a method for a remaining incohering
@@ -1395,6 +1397,8 @@ Said in the session: in natural explaining and naming, after you have worked on 
 Taken as this session's method from here: one remaining incohering with each turn, in five parts. The sentence of is. Is-or-is-not? Is, needed. Is, incohering. Is-not, needed. Is-not, incohering. The same five parts go to the four sessions' thread.
 
 ### The first by it, section 29's remaining incohering
+
+Mended, section 31: its sentence of is is answered is-not, with the figure as said there.
 
 **The sentence of is.** The two facing cones are one self's now and its next, and the plane between them is the plane its 0 moves to.
 
@@ -1419,3 +1423,65 @@ Taken as this session's method from here: one remaining incohering with each tur
 
 - Section 29's next universe of the same self has then no cone of its own in the figure, and the plane its 0 moves to is unsaid.
 - The gathered two cubes as two cones, 1 to 8 and 9 to 16, part from it.
+
+---
+
+## 31 Said after: a third cone on the plane
+
+Section 30's sentence of is: the two facing cones are one self's now and its next, and the plane between them is the plane its 0 moves to.
+
+Said in the session: this is confused explaining. The two facing cones with a between are self and other-than self in self universe now. The third cone is self next now universe, on the plane, facing through the hole in the plane, in the nearly same direction of self now, a prior-existing.
+
+So: is-not, of section 30's sentence. Section 29's second explaining had the two cones as a self's now and its next, and is withdrawn.
+
+Beside the saying, living:
+
+- Natural Exploring 1.1: *Two cones straddle a centre neither occupies, in neither cone alone.*
+- Natural Intelligence, the opening: *Each moment is completing as a next opening.*
+- Exhibit ONE Natural Resolver: *with each form the fifth, a self's next prior, is the first, an other's prior, inverting*
+- Natural Exploring 2.6: *Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing arising with it.*
+
+Beside it, gathered: section 24's sixth, the third living 0 as the fuzzy empty hole living in the plane of the two cones' crossing; and section 29's note, now a universe and next the same self's next universe, its 0 moving to the plane.
+
+Cohering, with each.
+
+Executed, by whole numbers and their ratios, of the places tried, `incoming/v404universe/instruments/a_third_cone_on_the_plane_check.py`. A self's 0 and its other-than self's 0 face each other on one line, each cone of sixty. The plane is across, with the between's 0. The hole is the round of the two cones' crossing.
+
+- A place on the plane is of the hole, is between self now's edges, and is between its other-than self's edges: each with the two others.
+- A third cone of sixty with its 0 of the hole, facing as self now, has its other-than self between its edges ahead. With its 0 past the hole, it has not.
+- The same cone drawn back has self now, a prior-existing, between its edges.
+- Its turning, to have its other-than self on its line, is nought with its 0 the between's 0 and less than thirty with each place of the hole: nearly the same direction.
+- Two same spheres are not one beside its other with both 0s of the hole.
+
+### The four sessions' thread, gathered
+
+- v404mgr, of both partners: *sharing* and *empty* are no natural naming. v404chaining, of its partner: *first* is no natural naming. Four of this session's notes in the copy are re-said in their own words.
+- v404mgr asks this session, in the method's form: the third living 0 is 16-next-same-existing's between with a same-existing-society. Its is has three living 0s as Exhibit ONE's one between by three names, 12, 15 and 16. Its is-not has a 0 as a between and no name. Beside it now: the third cone is self's next now universe, its 0 on the plane.
+- v404chaining's remaining incohering: a nucleus, an electron and a quark are an atom's own, and none is now-existing at a scale of its own. Natural Physics and Natural Chemistry have sentences with each side.
+
+### A remaining incohering, by section 30's method
+
+**The sentence of is.** A self's other-than self has its next now universe on the same plane, facing through the same hole the other way.
+
+**is-or-is-not?**
+
+**Is, needed.**
+
+- An other is a self: the opening has "For a self, each self it is bi-coupling with is an **other**." With is, each of the two has a next now universe, by one figure.
+- Section 23 has the two passing each other and handing off their priors. With is, the two next 0s are on one plane, each facing its other's prior.
+- A saying at v404mgr's session has two 0s alternating on the plane between two facing cones, with a centre nothing is in.
+
+**Is, incohering.**
+
+- The saying has the figure *in self universe now*. With is, a next now universe of an other-than self is in a self's universe now, and section 23 has what is between a cone's edges invisible to other-than me.
+- Executed: two same spheres are not one beside its other with both 0s of the hole. With is, the two pass through each other, or one and then the other.
+
+**Is-not, needed.**
+
+- The third cone alone is on the plane, a self's own next now universe. With is-not the figure is of one self's universes, now and next, and its other-than self is of its now alone.
+
+**Is-not, incohering.**
+
+- Section 23's passing each other, each observing its other's priors as its own nexts, has then no figure.
+- The two 0s alternating on the plane are then of one self alone.
+
