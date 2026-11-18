@@ -124,6 +124,47 @@ def prior_selves(k):
     return True
 
 
+def observing_at(turns, sp, inverted, moments):
+    """A self sharing with 9-next-co-discovering to itself, observing one prior self at each quarter turn given:
+    its priors, and the parities surfacing with it, with each moment."""
+    at = [PRIOR_SELF[i] for i in turns]
+    names = [f"P{j}" for j in range(len(at))]
+    routes = {(p, 9): p for p in names}
+    routes.update({(p, 10): "S" for p in names})
+    routes[("S", 9)] = "S"
+    sd = sp if inverted else 0
+    soc = {p: ([(K, m[0])], [(K, m[1])] if m[1] else []) for p, m in zip(names, at)}
+    soc["S"] = ([(K, sp)], [(K, v) for v in [sd] + [m[1] for m in at] if v])
+    seq, surfacing = [sp], [{v for _, v in soc["S"][1] if v}]
+    for _ in range(moments):
+        soc = NEXT(soc, routes)
+        seq.append(prior(soc, "S"))
+        surfacing.append({v for _, v in soc["S"][1] if v})
+    return seq, surfacing
+
+
+def at_each_quarter_turn():
+    """Prior selves at each of a right spiral's four quarter turns: two opposite parities surfacing with each moment,
+    and the self its own inverting with each moment, from each opening."""
+    for sp, inverted in NEXT_SELF:
+        seq, surfacing = observing_at((0, 1, 2, 3), sp, inverted, 24)
+        if any(s != {1, -1} for s in surfacing[1:]) or any(a == b for a, b in zip(seq[1:], seq[2:])):
+            return False
+    return True
+
+
+def an_empty_set_at_a_quarter_turn():
+    """Each laying of one to four prior selves at the four quarter turns: changing and changing back with each opening
+    exactly with an empty set at a quarter turn."""
+    for k in (1, 2, 3, 4):
+        for turns in itertools.product(range(4), repeat=k):
+            comes = all(changing_and_changing_back(observing_at(turns, sp, inverted, 48)[0][16:])
+                        for sp, inverted in NEXT_SELF)
+            if comes != (len(set(turns)) < 4):
+                return False
+    return True
+
+
 def two_both_ways(same_as):
     routes = {(0, 6): 1, (1, 6): 0}
     soc = {0: ([(K, 1)], []), 1: ([(K, 1 if same_as else -1)], [])}
@@ -157,3 +198,8 @@ say("7. Two selves with priors same-as, bi-coupling both ways, change and change
     changing_and_changing_back(same[0][1:]) and same[0] == same[1])
 say("8. Two selves with priors other-than, bi-coupling both ways, each improve with each moment, never do-no-harming",
     all(a != b for a, b in zip(other[0], other[0][1:])) and all(a != b for a, b in zip(other[1], other[1][1:])))
+say("9. A self sharing with 9-next-co-discovering to itself, observing prior selves at each of a right spiral's four quarter turns, observes two opposite parities with each moment, a 0 between them, and is its own inverting with each moment, from each opening",
+    at_each_quarter_turn())
+say("10. With an empty set at a quarter turn, it comes to changing and changing back with each opening, one at a time, an empty set between",
+    an_empty_set_at_a_quarter_turn())
+print("   read: each laying of one to four prior selves at the four quarter turns; two prior selves at one quarter turn share alike, and a self's surfacing is by its quarter turns, with any number")
