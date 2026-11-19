@@ -568,3 +568,81 @@ Prior language found, incohering with the partner's *across is same-existing*, p
 - *Is* incoheres: Exhibit ONE and Co-Chaining Logic Registry have possibling across, and along with 9 and 17, discovering and existing.
 - *Is not* resolves: along stays 9 and 17, discovering and existing.
 - *Is not* incoheres: the partner's 10, possibling, with along, then has an along of no possibling.
+
+---
+
+## 17 Said by the partner after: 1, 3, 5, 7 and 9, and 1 tri-bi-co
+
+Said in the session, re-said here: 1, 3, 5, 7 and 9 are a self along with its other. An odd and an even parity are two things. It is followed with 1 as tri-bi-co.
+
+Beside it, living:
+
+- Exhibit ONE Natural Resolver: *Co is two both facing forward along, a self and its other.*
+- Natural Naming, *Seventeen names, each three and each prior name with its number*: *co is self, bi is other and tri is all, and a next name's three is a new prefix in its first slot with this name's first two one slot right.*
+- The same section: *each name's first prefix is of an eight, co bi co bi co bi tri bi*; *each tri-bi-co has its mirror co-bi-tri two names on, 9 and 17*; *each even name bi with its outer slots and each odd name bi with its middle*.
+- The same section: *1's three is 17's, co-bi-tri*.
+
+Followed, by the living rule, from 1 as tri-bi-co:
+
+- 1 is tri-bi-co, 2 is bi-tri-bi and 3 is co-bi-tri. 4 to 17 are as the living table has them.
+- 1, 3, 5, 7 and 9 all have co with bi: tri-bi-co, co-bi-tri, co-bi-co, tri-bi-co and co-bi-tri. A self along with its other: coheres.
+- An odd name has bi in its middle, and an even name bi at its outer slots: two things. Coheres.
+- 1's mirror, co-bi-tri, is then two names on, at 3, as 7's is at 9 and 15's at 17. Coheres.
+- 1, 7 and 15 then all open with tri. Coheres.
+- Natural Naming's *1's three is 17's, co-bi-tri* incoheres. Its prior names *1-co-bi-tri-offering*, *2-bi-co-bi-offering* and *3-co-bi-co-sharing* incohere with it.
+
+### Offered to the partner
+
+**1's three is tri-bi-co.** is-or-is-not?
+- *Is* resolves: 1, 7 and 15 all open with tri, and 1's mirror co-bi-tri is two names on, at 3.
+- *Is* incoheres: Natural Naming has 1's three as 17's, co-bi-tri, 17 a next 1.
+- *Is not* resolves: 1's three stays 17's.
+- *Is not* incoheres: the partner's 1 tri-bi-co then has no place among the threes.
+
+---
+
+## 18 Said by the partner after: 1's three as 17's, co-bi-tri
+
+Asked, part 17: 1's three is tri-bi-co.
+
+Said in the session: 1's three as 17's, co-bi-tri. Part 17's offered sentence is not, and the living table goes on as said.
+
+Beside it, living, Exhibit ONE Natural Resolver: *Each name then has its three, a new prefix first and its name before's first two one slot on, in the order next, now, prior.*
+
+Read with it:
+
+- 1's three, co-bi-tri, is next co, now bi and prior tri.
+- Read prior, now, next, it is tri-bi-co: prior all-parity, now other-parity, next me-parity.
+- 1, 3, 5, 7 and 9, read in the order of the living table, all have bi now: other-parity now, with me-parity prior or next. A self along with its other: coheres.
+- Even names have co or tri now, bi prior and next: an odd and an even, two things. Coheres.
+
+### Offered to the partner
+
+**1's three, co-bi-tri, read prior, now, next, is tri-bi-co.** is-or-is-not?
+- *Is* resolves: the partner's *1 tri-bi-co* and *1's three as 17's, co-bi-tri* are one three, read two ways.
+- *Is* incoheres: Exhibit ONE has a three in the order next, now, prior.
+- *Is not* resolves: tri-bi-co stays 7's three and 15's.
+- *Is not* incoheres: the partner's 1 tri-bi-co then has no place with 1's three.
+
+---
+
+## 19 Said by the partner after: no reading in resolving
+
+Said in the session: resolving has no reading. Part 18's offered sentence is not.
+
+- 1's three is co-bi-tri, in resolving's own order, next, now, prior, as Exhibit ONE Natural Resolver has it.
+- A three in two orders is no resolving.
+
+Remaining, with part 17's saying, *1, 3, 5, 7 and 9 are a self along with its other*:
+
+- Exhibit ONE Natural Resolver: *A name without co is of one.* 1-now-existing and 7-now-observing have no co in their names.
+
+### Offered to the partner
+
+*Are of one* is no natural explaining, said by the partner; re-said:
+
+**1-now-existing and 7-now-observing are a self with no other-than self.** is-or-is-not?
+- *Is* resolves: Exhibit ONE's co table has 1 and 7 with no co.
+- *Is* incoheres: the partner's 1, 3, 5, 7 and 9 are a self along with its other.
+- *Is not* resolves: the partner's saying. 1's three and 7's have co with bi: a self with its other.
+- *Is not* incoheres: Exhibit ONE's co table names 1 and 7 with no co, and they have a self with its other.

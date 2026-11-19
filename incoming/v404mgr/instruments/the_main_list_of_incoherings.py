@@ -6,6 +6,11 @@ Usage:  python3 -I the_main_list_of_incoherings.py ROOT          a sizing, by ga
 
 ROOT is a folder with gathering-value/*.md, the next version's copy for the list as it is worked.
 A line of the list is a note opening `- **Possible incohering**`, or a note with an asking, `is-or-is-not? `.
+An asking is `is-or-is-not? ` and the sentence after it; the three named as a word, an article or a list
+before it, as *An is-or-is-not? is*, or a word of relation after it, as *is-or-is-not? as a doubt*, is
+no asking. With two askings in a note its open sentence is the newer, the later one.
+The living sentence a line is beside is the one its note quotes at its opening, `"…" → `, or else the one
+its note names at its closing, `— at "…"`.
 
 A line's name is its gathering file's title and six letters of its note's opening: it goes on the same
 while the note's opening goes on the same, a suggesting laid after it, and a session names a line by it
@@ -13,6 +18,8 @@ at the thread.
 
 A line's state, by the note's own words:
   answered            an is or an is-not of both partners, or an answering or a resolving, is said in it
+  an open sentence, a suggesting returned
+                      an asking is in it, a session's *A suggesting:* laid after it, and no answer
   an open sentence    an asking is in it, `is-or-is-not? `, and no answer
   a suggesting in it  a suggesting, a candidate or a re-saying is in it, and no asking
   open                a possible incohering with none of these
@@ -29,8 +36,18 @@ import sys
 ANSWERED = re.compile(r"An is, both partners'|An is, of both partners|An is-not, both partners'|An is-not, of both partners|"
                       r"Two is-nots, both partners'|Answered by|Answered, |Resolved by|Resolved, by|is resolved by|An is-not, by a saying")
 SUGGESTING = re.compile(r"A suggesting|a suggesting|A candidate|a candidate|A re-saying|a re-saying|Its re-saying")
+SUGGESTING_RETURNED = re.compile(r"A suggesting:")
+AT_ITS_SENTENCE = re.compile(r'— at "([^"]+)"\s*$')
 ASKING = re.compile(r"is-or-is-not\? (?=\S)")
-NAMING_THE_THREE = re.compile(r"is-or-is-not\? (?:or |and |with |of |an |is-not)")
+NAMING_THE_THREE = re.compile(r"is-or-is-not\? (?:or |and |with |of |an |is-not|as |in |is the |has |resolves |goes |for |by )")
+THE_THREE_AS_A_WORD = re.compile(r"\b(?:[Aa]n|[Tt]he|[Ee]ach|[Oo]ne|[Aa]|gathered|or|and|its|an other)\s$")
+
+
+def askings(line):
+    """The askings of a note: the three named as a word, before it or after it, passed over."""
+    return [a for a in ASKING.finditer(line)
+            if not NAMING_THE_THREE.match(line, a.start())
+            and not THE_THREE_AS_A_WORD.search(line[max(0, a.start() - 14):a.start()])]
 
 
 def lines_of(root):
@@ -45,12 +62,15 @@ def lines_of(root):
             if not line.startswith("- "):
                 continue
             possible = line.startswith("- **Possible incohering**")
-            asks = [a for a in ASKING.finditer(line) if not NAMING_THE_THREE.match(line, a.start())]
+            asks = askings(line)
             if not possible and not asks:
                 continue
             body = re.sub(r"^- \*\*[^*]+\*\* · ", "", line)
             q = re.match(r'"(.+?)" → (.*)$', body) if possible else None
             beside = q.group(1) if q else ""
+            if not beside:
+                at = AT_ITS_SENTENCE.search(line)
+                beside = at.group(1) if at else ""
             rest = q.group(2) if q else body
             ask = ""
             if asks:
@@ -58,6 +78,8 @@ def lines_of(root):
                 ask = re.split(r"(?<=[.])\s+(?=Its is |Why it is open|Its is-not |[A-Z])", tail, maxsplit=1)[0].strip()
             if ANSWERED.search(line):
                 state = "answered"
+            elif asks and SUGGESTING_RETURNED.search(line):
+                state = "an open sentence, a suggesting returned"
             elif asks:
                 state = "an open sentence"
             elif SUGGESTING.search(line):
