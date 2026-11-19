@@ -60,27 +60,9 @@ A reply is in plain words, and a line is both or it is not yet. A line's words a
 - One next concept at a time, with the aim in view.
 - A report is of sentences alone.
 
-## The window on 19 November: the opening, both
+## The window's lines
 
-1. *Now is the existing moment.*
-2. *Now-existing is existing in the now-moment.*
-3. *A now-existing thing exists now.*
-4. *The universe is the set of all now-existing things.*
-5. *The prior moment is the moment ending now.*
-6. *Prior-existing is existing in the prior moment.*
-7. *The next moment is the moment beginning now.*
-8. *Next-existing is existing in the next moment.*
-9. *Same-existing is now-existing after prior-existing as the same thing.*
-10. *Next-and-same-existing is next-existing after now-existing as the same thing.*
-11. *A same-named thing is a thing in the set of all things named by the same name.*
-12. *A named universal set is the set of all same-named things.*
-13. *Now is the named universal set of all now-existing moments.*
-14. *For a named universal set, an other-than is a thing not in the set.*
-15. *The now-existing universe is the only possible named universal set with no other-than things.*
-
-The fourth is the live opening sentence of Exhibit THIRTY and of Natural Intelligence, word for word. The three before it give it its words. The next place is is-or-is-not, a live line under the blank row.
-
-The fifteen are in one note at the top of Exhibit THIRTY's gathering file in the next version, in this order, and the note is brought up to the window with a line becoming both.
+The lines, their marks, the offers waiting, the open questions and the dissolved lines are on one page, brought up at the end of a sitting: `incoming/v404mgr/The_window_of_the_opening.md`. The lines that are both are also in one note at the top of Exhibit THIRTY's gathering file in the next version.
 
 ## The origin and the aim
 
@@ -102,9 +84,16 @@ The fifteen are in one note at the top of Exhibit THIRTY's gathering file in the
 - A live line's form helps a new line. *For a self, …* at step 26 is the form of *For a named universal set, …*.
 - A negation is of two kinds. One parts a thing from what is around it, as *not in the set* and *other-than* do; it is the is-not of is-or-is-not. One describes a thing by a lack, and it is re-said by a positive.
 
-## Other sessions, later
+## Other sessions
 
-No work is handed from one session to an other. All have one window and its marks before them: the lines that are both, the place the two stop, and the lines floating. A session brings a line next to the line under work, and it is marked with the rest. The other sessions wait until a partner and the managing session both know how to invite them.
+No work is handed from one session to an other. All have one window and its marks before them: the lines that are both, the place the two stop, and the lines floating. A session brings a line next to the line under work, or to an open question, and it is marked with the rest.
+
+- A session re-says no line that is in the window. It brings one line, with one sentence beside it: the place the line closes, and if the meaning of a partner's line is whole in it.
+- A session searches Exhibit THIRTY before it brings a line, for a live sentence that says it already.
+- A session finds before it writes: a live sentence saying it already, the live steps to be re-said with a line entering, Exhibit ONE's code agreeing, an other living file with the same sentence.
+- One open question is with one session, named beside it.
+
+v404universe is invited on 19 November, by a partner and the managing session. The other sessions wait.
 
 ## For their entering
 
