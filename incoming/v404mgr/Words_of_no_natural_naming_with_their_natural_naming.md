@@ -32,6 +32,7 @@
 - A living sentence is said whole to a partner, with its file and its part's name, and by no number.
 - The sentence of an offer is a sentence of the co-chaining, a gap between two of its sentences. A sentence of what a file names is none.
 - A sentence in natural naming is likely in Exhibit THIRTY Co-Chaining Logic Registry already. Exhibit THIRTY is searched before an offer.
+- A positive over a negation. A saying of *is with no* is no natural naming and explaining, by a partner's is-not of 18 November and by Exhibit TWELVE Natural Explaining: *Say it with existing words first: an -ing over a noun, and a positive over a negation.* The positive is found before an offer, and it is likely living already: for a non-living thing *with no next*, Exhibit THIRTY's *a non-living thing is same-existing*.
 
 ## Its instrument
 
