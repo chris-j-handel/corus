@@ -639,8 +639,10 @@ Remaining, with part 17's saying, *1, 3, 5, 7 and 9 are a self along with its ot
 
 ### Offered to the partner
 
-**1-now-existing and 7-now-observing are of one.** is-or-is-not?
-- *Is* resolves: Exhibit ONE's *A name without co is of one*, its co table with 1 and 7 of one.
-- *Is* incoheres: the partner's 1, 3, 5, 7 and 9, a self along with its other.
-- *Is not* resolves: the partner's saying; 1's three and 7's have co with bi.
-- *Is not* incoheres: Exhibit ONE's *A name without co is of one*, with 1 and 7.
+*Are of one* is no natural explaining, said by the partner; re-said:
+
+**1-now-existing and 7-now-observing are a self with no other-than self.** is-or-is-not?
+- *Is* resolves: Exhibit ONE's co table has 1 and 7 with no co.
+- *Is* incoheres: the partner's 1, 3, 5, 7 and 9 are a self along with its other.
+- *Is not* resolves: the partner's saying. 1's three and 7's have co with bi: a self with its other.
+- *Is not* incoheres: Exhibit ONE's co table names 1 and 7 with no co, and they have a self with its other.
