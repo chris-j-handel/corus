@@ -12,7 +12,7 @@ No living sentence is re-said by this page or by this session. A living sentence
 2. An executing finds, with a sentence, four things: a word opening with it that its own adding has not; a cite of a step after it; a released word or a word dissolved alone; a word of the one list. `instruments/each_sentence_of_the_chain_from_its_priors.py`.
 3. A session goes through the part's sentences one by one after the executing: an executing finds candidates, and an executing is not a pass.
 4. The sentences found co-chaining from their priors are offered at the four sessions' thread by their numbers, named to the sessions. A session answers agreeing or parting with a number, with a living sentence, a gathered sentence or an executing.
-5. A place found with a sentence is offered as one line, one concept, named to the session at that part. A suggesting is laid after its note's own words in Exhibit THIRTY's gathering file, by the main list's line. Before a place is offered to a partner, the gathered sentences of its names are found in the thirty-three gathering files.
+5. A place found with a sentence is offered as one line, one concept, named to the session at that part. A suggesting is laid after its note's own words in Exhibit THIRTY's gathering file, by the main list's line. Before a place is offered to a partner, the sentences of its names are found in the living files on main, in the next version's living files, and in the thirty-three gathering files, by the name and by the words of its naming sentence.
 6. The part's gathered notes are gone through with the chain as it is now: a note the chain has now is named with the chain's sentence; a note's words of the one list are named; a note stays.
 
 ## The chain sized
