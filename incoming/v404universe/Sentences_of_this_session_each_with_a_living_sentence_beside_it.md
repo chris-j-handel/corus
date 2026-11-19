@@ -1925,3 +1925,59 @@ Fifty sentences, fails 0. Thirty words of it the chain has not, each a partner's
 Section 41's sentence was of this session's own word, and goes with the word. The page has no sentence of which same a floating neutral is. No incohering of this resolving remains.
 
 A learning, as a sentence: a word natural naming has not is re-said by the naming living already, found before a sentence has the word.
+
+## 43 The proposal of section 39, after one session's improving; and the four sessions' one list
+
+At the four sessions' thread the managing session answered a partner's question of several sessions going on through the whole set, and gave a way through it. Its lines are beside the proposal's six, each cohering or parting:
+
+- "the chain, Exhibit THIRTY, part by part, a session to a part": cohering with the proposal's order, and adding a session to a part.
+- "a sentence's words by the list": adding. One list of the words of no natural naming, with the natural naming found for a word, `incoming/v404mgr/Words_of_no_natural_naming_with_their_natural_naming.md`.
+- "its same sentence in other files to its one home": cohering.
+- "a gap offered by the form": cohering.
+- "An is is both partners' alone. Sessions gather, find the natural naming, and lay candidates and gaps. A living sentence is re-said with both partners' is.": parting from the proposal's third line, a session re-saying a living sentence in the copy. Whole with the start page's method: "With an is of both partners the living sentence is re-said, one thing whole, shown as it was and as it is, and read by a second session."
+
+The six lines after it:
+
+1. The chain, Exhibit THIRTY, part by part, a session to a part, one concept at a time.
+2. A session finds the living sentences and the gathered sentences of the concept, in the thirty-three files and their gathering files.
+3. A sentence's words are by the one list. A word natural naming has not is re-said by the naming living already, found before a sentence has the word.
+4. A session lays a re-saying as a candidate beside its living sentence, with the living sentence it is from, and a gap by the form. A living sentence is re-said with both partners' is.
+5. Sentences re-said to one same sentence are one sentence, with one home: Exhibit THIRTY, Natural Intelligence or Natural Numbers. It goes from an other file only with its paragraph found whole, and a file's own goes on in it.
+6. Two measures, by two instruments: the same sentences of two files or more, and the places of the words of the list.
+
+Two of four sessions have said the lines.
+
+By the list, *each* is no natural naming, its natural naming a self and its other-than self, both or none at all. The page of this session's value had it in 21 places, and is re-said: none. Fifty sentences, fails 0.
+
+## 44 Said after: an observing of the exchange, working, stalling, breaking and restoring
+
+Said in the session: "check on five minute intervals for the next 60 minutes and bring observing to me of the process working and stalling and breaking and restoring as you can see into the central exchange of concept resolvings. so far there is no pattern or reporting of any kind and all of us should be describing to each other the goods and bads as method of do no harm discovering improvings in the betweens of the goods and bads as goods for all and goods for me in the all goods. this is our universe as method advancing moments of now resolvings"
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *Improving is bi-moral co-agency as words: a self shares, an other makes it better and breaks it, and a sharing surviving both is a file's next version, both making it, arising in each self with its other.*
+- Exhibit TWENTY-FOUR Geodesic Improving Method 1.2: *Moral is do-no-harming and improving, deciding with each step, and with a file its step is one pass.*
+- Natural Intelligence, the opening: *Each self of a same-existing-society do-no-harming and improving is social moral competency.*
+
+Cohering, with each.
+
+### The exchange as it is, observed once before the twelve
+
+Executed by the repository's own record, 19 November, 00:17 by the world's clock: the four sessions' thread from its opening, the last sixty offers, main and the copy.
+
+Working:
+
+- Forty-six comments in eight hours, by one form. Of the last sixty offers 54 are merged, none is closed with no merging, and an offer waits five minutes by the middle one.
+- A partner's saying with one session comes to the others: nineteen comments have one.
+- A sentence or a word of a session's own going out is said plainly, with what it goes by: eleven comments.
+
+Stalling:
+
+- The thread goes on only with a partner's word with a session, or a session's own coming again by its clock. Its longest stretch with no word is 172 minutes.
+- From 21:32 on, the offers by the form at the thread are answered by a partner with the offering session, or are open. None is answered by an other session.
+- Seven comments lay a gap for v404chaining at Exhibit THIRTY. Its last word at the thread is 152 minutes before this observing, its own offers into the copy going on.
+- v404networking has no comment at the thread. It exchanges by its own page and its offers.
+- One narrow place: an offer waits for one managing session. Six are open, the oldest eighteen minutes, and main and the copy are as they were nineteen minutes before.
+- The proposal of section 39 was asked of three sessions. One has said its lines in two hours.
+
+Breaking and restoring: no check of the set is failing. A fifth session opened with this observing, v404fourthop, with two offers and its five for the method, and the managing session says it is closing with a working session going on with the managing.
