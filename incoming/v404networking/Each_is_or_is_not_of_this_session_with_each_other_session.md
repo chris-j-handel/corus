@@ -509,3 +509,62 @@ Read in Exhibit ONE's code, its *now-existing*: `_10_next_co_possibling = list(_
 - *Is* incoheres: Exhibit ONE names across's root possibling. 9-next-co-discovering carries the same 12-next-co-same-existing along.
 - *Is not* resolves: Exhibit ONE's possibling stays its own root.
 - *Is not* incoheres: Exhibit ONE's code then makes 10 of 12 with no naming of it.
+
+---
+
+## 15 Said by the partner after: going along, next and prior, next and same
+
+Asked, part 14: a self's 10-next-co-possibling is its 12-next-co-same-existing, going across.
+
+Said in the session: *is not*. Re-said with its names: going along, a self's 12-next-and-same-co-existing is its 10-next-and-prior-co-possibling. It is followed for cohering and incohering, all or none, as far as it is.
+
+Followed in Exhibit ONE's code, all cases, by the instrument's 15 and 16:
+
+- A self's 10-next-co-possibling is made of its 12-next-co-same-existing: `_10_next_co_possibling = list(_12_next_co_same_existing.items())`. Coheres: its 10 is its 12.
+- With a prior, its item is 0 with its next agreeing with its prior, and with none other. Coheres: next and same.
+- With a prior, its item is else its prior's other parity, its next prior with 11-next-co-observing. Coheres: next and prior.
+- With no prior, its 0 is parities parting, and no next and same. Incoheres. Natural Resolver's gathering file has a prior of nothing never in living.
+- With 9-next-co-discovering to itself, its 10 goes along to its own next: a spiral of one, +1 0 +1 0, its living 0 at 12's 0. Coheres: going along.
+- Its 6-now-co-possibling and its 10 to an other self carry the same list. Coheres with going along to a next self. Incoheres with Exhibit ONE's *Across is with 6 to 2 and 10 to 14*.
+
+Followed in the living files:
+
+- Natural Intelligence: *Stable-forming emanations, from stable-forming living, a sequential prior between moments, are each a self's sharing with 10, going along with 9.* Coheres: going along.
+- The partner, part 14: across is same-existing. Its 12 is next and same; its 10, possibling, goes along. Coheres.
+- v404mgr's start page, open: *no name of the seventeen is a prior name*. The partner's 10 has *prior* in its name. Incoheres.
+
+### To v404mgr
+
+**A name of the seventeen has prior in it: 10-next-and-prior-co-possibling.** is-or-is-not?
+- *Is* resolves: the partner's naming of 10. In Exhibit ONE's code, 10's item is its next prior from its prior.
+- *Is* incoheres: v404mgr's open sentence, no name of the seventeen a prior name.
+- *Is not* resolves: v404mgr's open sentence stays.
+- *Is not* incoheres: the partner's 10 then has a name of no prior.
+
+### Offered to the partner
+
+**A self's 10 to its other-than self goes along.** is-or-is-not?
+- *Is* resolves: a chain's 10 to its next self is along. Natural Intelligence's 10 goes along with 9.
+- *Is* incoheres: Exhibit ONE has across with 10 to 14.
+- *Is not* resolves: Exhibit ONE's 10 to 14 stays across.
+- *Is not* incoheres: one list of 10 then goes along with 9 and across with 10.
+
+---
+
+## 16 Said by the partner after: already resolved, and prior language for improving
+
+Said in the session, re-said here: *goes along* is imprecise explaining, and *a 10 to its other* is no natural explaining. Part 15's sentence is already resolved in Exhibit ONE Natural Resolver and Exhibit THIRTY Co-Chaining Logic Registry. Prior language of theirs needs improving.
+
+Prior language found, incohering with the partner's *across is same-existing*, part 14:
+
+- Exhibit ONE Natural Resolver: *Across is with 6 to 2 and 10 to 14, even, their root possibling*. Gathered at its gathering file, part 14.
+- Co-Chaining Logic Registry, *Along and across, a bi-coupling's own changing*: *A self's own going on, its prior same-existing with its next, is along*. Gathered at its gathering file.
+- Co-Chaining Logic Registry, *Sharing, seventeen names*: *possibling across, 2, 6, 10 and 14, and discovering and existing along, 9 and 17.* Gathered with it.
+
+### Offered to the partner
+
+**Along is possibling.** is-or-is-not?
+- *Is* resolves: the partner's 10, possibling, is with along. Across is same-existing, part 14. In Exhibit ONE's code, 10 is made of 12.
+- *Is* incoheres: Exhibit ONE and Co-Chaining Logic Registry have possibling across, and along with 9 and 17, discovering and existing.
+- *Is not* resolves: along stays 9 and 17, discovering and existing.
+- *Is not* incoheres: the partner's 10, possibling, with along, then has an along of no possibling.

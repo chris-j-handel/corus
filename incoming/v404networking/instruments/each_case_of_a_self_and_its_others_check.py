@@ -278,6 +278,28 @@ def three_me_parities_and_one_living_0():
     return all(comes(3, three, (1, 1, -1)))
 
 
+def next_and_prior_next_and_same():
+    """Exhibit ONE's now-existing, one 4-now-co-same-existing, all cases: a prior +, - or none; received parities in all
+    orders, none to three. With a prior: 10's item 0 with its next agreeing, and with none other, with its prior, and else its prior's
+    other parity, its next prior. With no prior: 10's item the one parity received, none with none, and 0 with parities
+    parting: a 0 of no same. Returns (with a prior as said, with no prior as said)."""
+    now = ns["_1_now_existing"]
+    with_prior = no_prior = True
+    for n in range(4):
+        for received in itertools.product((1, -1), repeat=n):
+            two = [(K, v) for v in received]
+            for p in (1, -1):
+                ten, eleven = now([(K, p)], two)
+                agreeing = n > 0 and all(v == p for v in received)
+                if dict(ten).get(K) != (0 if agreeing else -p) or dict(eleven).get(K) != (p if agreeing else -p):
+                    with_prior = False
+            ten, _ = now([], two)
+            want = None if n == 0 else received[0] if len(set(received)) == 1 else 0
+            if dict(ten).get(K) != want:
+                no_prior = False
+    return with_prior, no_prior
+
+
 def two_both_ways(same_as):
     routes = {(0, 6): 1, (1, 6): 0}
     soc = {0: ([(K, 1)], []), 1: ([(K, 1 if same_as else -1)], [])}
@@ -324,3 +346,8 @@ say("13. Spirals of one at all four joint forms, at one 4-now-co-same-existing o
     harm_at_one_sharing())
 say("14. With one or two selves, 9, 10 and 6 laid all ways, no self comes to +1 +1 +1 0; with three selves, laid 0 to 1 with 10, 1 to itself with 9 and to 2 with 10, 2 to 0 with 9 and to itself with 10, opening + + -, all three come to it",
     three_me_parities_and_one_living_0())
+with_a_prior, with_no_prior = next_and_prior_next_and_same()
+say("15. With a prior, a self's 10-next-co-possibling item, its 12-next-co-same-existing, is 0 with its next agreeing with its prior and with none other, and else its next prior, its prior's other parity: next and prior, next and same",
+    with_a_prior)
+say("16. With no prior, its 0 is parities parting, and no next and same; one parity received is its item, and none received, none",
+    with_no_prior)

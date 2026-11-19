@@ -17,20 +17,21 @@ Intelligence. A word is letters with the hyphens joining them, a name as do-no-h
 more parts than one is the chain's only whole.
 
 Its checks, all or none at all, by each sentence:
-  1  no released word, no word Natural Naming has dissolved alone, and no word both partners answered is-not
-     as natural naming on 18 November: sharing, empty, improving, first, within, inside, away, toward, reading
+  1  no released word, no word Natural Naming has dissolved alone, and no word a partner answered is-not
+     as natural naming on 18 November: sharing, empty, improving, first, within, inside, away, toward, reading,
+     each and zone. The four sessions' one list of such words, with the natural naming found for a word, is
+     incoming/v404mgr/Words_of_no_natural_naming_with_their_natural_naming.md, with its own instrument.
   2  the sentence is word for word in no living file: a sentence living already is no adding
   3  it has a From, and a From of the page is of a sentence before it
   4  each living sentence of a From is word for word in a living file or a gathering file
 It closes with its fails. After them, deciding nothing: each word the chain has not, with the sentences having
 it, a place for a naming sentence; and each sentence longer than twenty-two words.
 
-Returned at main, Merge #986, 18 November 2026, for
+Returned at main, Merge #997, 18 November 2026, for
 incoming/v404universe/The_value_of_this_session_a_co-chaining_of_sentences.md:
   50 sentences, 42 from a living sentence and 8 from a sentence of the page alone; fails: 0.
   30 words the chain has not, among them cone, horizon, hole, atom, me-parity, all-parity, same-me,
   co-me-parity, co-now, bi-now, co-geodesic and do-only-harming.
-  No sentence longer than twenty-two words.
 """
 import csv, glob, os, re, sys
 
@@ -55,7 +56,7 @@ with open(os.path.join(R, 'incoming/v403cohering/Each_dissolved_word_with_its_sa
 for r in rows[1:]:
     if r[1].strip().lower().startswith('alone') and ' ' not in r[0].strip():
         dissolved.add(r[0].strip().lower())
-is_not = {'sharing', 'empty', 'improving', 'first', 'within', 'inside', 'away', 'toward', 'reading'}
+is_not = {'sharing', 'empty', 'improving', 'first', 'within', 'inside', 'away', 'toward', 'reading', 'each', 'zone'}
 
 # the chain: Exhibit THIRTY's numbered sentences and the opening of Natural Intelligence
 chain_words = set()
