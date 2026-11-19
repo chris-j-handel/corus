@@ -59,7 +59,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
 ## 1 Universe, the set of now-existing things
 
-        *Entering: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it; the universe, the set of now-existing things, now-existing one naming; no universe other-than the universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, of a universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; no universe other-than the universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
+        *Entering: we humans, now-existing, inception; a step after it a step from it, and nothing brought to it; the universe, the set of now-existing things, now-existing one naming; no universe other-than the universe possibly; same-existing, same-named; a universal set, a set of same-existing things; is-or-is-not, of a universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; no universe other-than the universe possibly same-existing; possibling, now-existing; discovering, next-existing.*
 
 1. We humans are now-existing.
 
@@ -73,9 +73,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: no universe other-than the universe possibly.*
 
-4. A now-existing thing from a prior-existing same thing is a **same-existing** thing.
+4. **Same-existing** is same-named.
 
-        *Adding: prior-existing; same-existing, from a same thing.*
+        *Adding: same-existing, same-named.*
 
 5. A **universal set** is a set of same-existing things.
 
@@ -1716,7 +1716,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v403mgr
 
         *Adding: discovering.*
 
-380. Now same-existing is invisible and dissolving with next existing: same-existing, from a prior-existing same thing, step 4, is-or-is-notting next existing, and geodesic existing along changing can travel through same-existing and leave it same-existing.
+380. Now same-existing is invisible and dissolving with next existing: same-existing, same-named, step 4, is-or-is-notting next existing, and geodesic existing along changing can travel through same-existing and leave it same-existing.
 
 
         *Adding: now same-existing, invisible, dissolving with next existing.*
