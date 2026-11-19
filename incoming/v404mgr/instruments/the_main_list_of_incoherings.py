@@ -12,9 +12,9 @@ no asking. With two askings in a note its open sentence is the newer, the later 
 The living sentence a line is beside is the one its note quotes at its opening, `"…" → `, or else the one
 its note names at its closing, `— at "…"`.
 
-A line's name is its gathering file's title and six letters of its note's opening: it goes on the same
-while the note's opening goes on the same, a suggesting laid after it, and a session names a line by it
-at the thread.
+A line's name is its gathering file's title and six letters of its note's opening, its own words before
+a suggesting laid after it: it goes on the same while the note's own opening goes on the same, a suggesting
+laid after a short note too, and a session names a line by it at the thread.
 
 A line's state, by the note's own words:
   answered            an is or an is-not of both partners, or an answering or a resolving, is said in it
@@ -37,6 +37,7 @@ ANSWERED = re.compile(r"An is, both partners'|An is, of both partners|An is-not,
                       r"Two is-nots, both partners'|Answered by|Answered, |Resolved by|Resolved, by|is resolved by|An is-not, by a saying")
 SUGGESTING = re.compile(r"A suggesting|a suggesting|A candidate|a candidate|A re-saying|a re-saying|Its re-saying")
 SUGGESTING_RETURNED = re.compile(r"A suggesting:")
+SUGGESTING_LAID = " A suggesting"
 AT_ITS_SENTENCE = re.compile(r'— at "([^"]+)"\s*$')
 ASKING = re.compile(r"is-or-is-not\? (?=\S)")
 NAMING_THE_THREE = re.compile(r"is-or-is-not\? (?:or |and |with |of |an |is-not|as |in |is the |has |resolves |goes |for |by )")
@@ -86,7 +87,8 @@ def lines_of(root):
                 state = "a suggesting in it"
             else:
                 state = "open"
-            opening = (beside + " → " + rest[:120]) if q else body[:200]
+            own = (rest if q else body).split(SUGGESTING_LAID)[0]
+            opening = (beside + " → " + own[:120]) if q else own[:200]
             name = title + " " + hashlib.sha1(opening.encode("utf-8")).hexdigest()[:6]
             kind = "possible incohering" if possible else "an asking"
             yield [name, title, part, kind, beside[:300], ask[:260], rest[:220], state]

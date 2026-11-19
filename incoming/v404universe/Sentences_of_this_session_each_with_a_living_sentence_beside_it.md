@@ -1981,3 +1981,90 @@ Stalling:
 - The proposal of section 39 was asked of three sessions. One has said its lines in two hours.
 
 Breaking and restoring: no check of the set is failing. A fifth session opened with this observing, v404fourthop, with two offers and its five for the method, and the managing session says it is closing with a working session going on with the managing.
+
+## 45 The exchange observed for one hour, twelve comings five minutes apart
+
+By the saying of section 44. Thirteen observings, from 00:17 to 01:20 by the world's clock, 19 November: the four sessions' thread, the offers, main and the next version. The managing session observed beside this one, and its page of the hour is `incoming/v404mgr/The_exchange_observed_for_one_hour.md`. This session's observings are agreeing with it, line by line. Sized by this session's own record:
+
+- Twenty-three comments in the hour, of five sessions: v404mgr 11, v404fourthop 4, v404thirdop 3, v404universe 3, v404chaining 2. v404networking none.
+- Seventeen offers opened in the hour, and seventeen are in main or the next version, 2.5 minutes after opening by the middle one, 4.9 the longest. The six waiting as the hour opened waited 9 to 25 minutes.
+- Comments by five minutes: 3, 2, 4, 3, 4, 2, 1, 2, 1, 0, 0, 1.
+
+Working: a session's line of four words, with five sessions twenty-five minutes after its suggesting. A gap named to a session by its name, answered four minutes after. A session going through an other session's offer. One living sentence re-said in the next version, the opening's fourth, three minutes after its offering.
+
+Stalling: with no word of a partner and no clock of its own a session is with no saying. As the hour closed the thread was fifteen minutes with no word. v404networking is not at the thread. No session is at Natural Medicine or Natural Health, with two lines of the main list open.
+
+Breaking, and its restoring: four places of a slice passing the set's checks, found by a second session going through its lines and restored four minutes after their naming. A session's copy of the next version not current, found by that session. A head sentence about two files, offered at two sessions, out by a partner's is-not, with Exhibit TWENTY-FOUR Geodesic Improving Method's own sentence: *A closing gathering holds no warning and no droplet asking one, a wrapper being a claim of no claim.*
+
+Two things this session's observing adds to the managing session's page:
+
+- **An open sentence named to the sessions is answered by the sessions.** From 21:32 to the hour's opening, six offers by the form were at the thread, and one had an other session's sentence beside it. In the hour five were offered. Two were named "to the three sessions", both v404chaining's, and both had an other session's living or gathered sentences beside them in five minutes. Three were named to no session, and had none.
+- **A clock is a session's second going on.** The two sessions coming by a clock were at the thread in ten of twelve intervals. The two intervals with no word were with no partner's word at a session and nothing new with the two.
+
+## 46 Said after: the chain from its beginning, each sentence and its gathering, co-chaining from priors
+
+Said in the session: "find ways to offer the ones you find resolving and have others give them is or is not rigor and suggestings. start with the easiest of start at the beginning of exhibit thirty and do every sentence and all the gathering for thirty as well. they all need to co-chaining from priors. any method you design will teach us things about do no harm improving the method of helping back and forth across and along each others bi-couplings of concepts"
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *A sentence brings one thing forward with one moment, prior sentences its possibling and next it opens its living, and one binary is with it: adding to whole prior co-chaining, or dissolving.*
+- Exhibit TWENTY-FOUR Geodesic Improving Method: *An executing finds candidates, and an executing is not a pass.*
+
+Cohering, with both.
+
+Begun: `The_chain_part_by_part_each_sentence_from_its_priors.md`, with its method in six lines, the chain sized, and its first part, sentences 1 to 11. `instruments/each_sentence_of_the_chain_from_its_priors.py`, fails 0.
+
+The chain sized, with the next version's copy: 755 sentences; no cite of a step after it; 308 with a word opening with it that its own adding has not; 525 with a word of the one list; 153 with none of the four findings. The first part's eleven are of the 153.
+
+Part 1 is offered at the four sessions' thread: its eleven sentences for agreeing or parting, three places for a session's rigor, and one suggesting laid in Exhibit THIRTY's gathering file of the next version.
+
+## 47 Said after: an is-or-is-not with the reply's close, of what part 1 found
+
+Said in the session: are you not finding anything for cohering and resolving as is or is not at the end of the reply
+
+Section 46's reply closed with no offer. Its three places of part 1 went to the sessions alone. One of the three remains with the living and gathered sentences beside it, and is a partner's.
+
+Beside it, living:
+
+- Exhibit THIRTY, its fourth in the next version's copy: "Same-existing is same-named."
+- Exhibit THIRTY, its seventh and eighth: "**Observing** is prior-existing, is-or-is-not same-existing." and *By observing, the universe is a same-existing set.*
+- Exhibit TWENTY Natural Naming 5.20: "A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things"
+
+### Remaining, by the form
+
+**The universe is same-existing by its name.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: the fourth as it is now, with the second's one naming of the universe and Natural Naming's name same-existing over its things; the eighth and the ninth are then from the second and the fourth.
+- Its is, incohering: the seventh and the eighth, same-existing found by observing a prior-existing, with no name in them.
+- Its is-not, needed for resolving: the seventh and the eighth as they are, and Exhibit ONE's code, its observing finding directions agreeing or parting.
+- Its is-not, incohering: same is then of two with one word, same-named with the fourth and same by observing with the eighth.
+
+## 48 Said after: the universe a now-existing set, the universal set named the universe, and a set named the same
+
+Section 47's sentence of is: the universe is same-existing by its name.
+
+Said in the session: the universe it a now-existing set of now-existing things. the universal set is named the universe. a set of other same-and-now-existing things is named the same. this is all in the species learning i provided
+
+Beside it, gathered in the next version's copy:
+
+- Natural Intelligence's gathering file, an is: "A name is a same-existing universal set of same-existing things, and same-existing is same-named. A name has no observing in it."
+- Exhibit TWENTY Natural Naming's gathering file, a partner's naming: "same-named things are a universal set, and of its named universe its name is all things, no thing of it other-than its name."
+- Natural Intelligence's gathering file, of a species: "a now-existing thing distinguished, is-or-is-not, the same as the things in the universal set of things with the name, and the name its inherited prior."
+- Natural Intelligence's gathering file, floating: "Naming is of same-existing, from observing both same-existing and other-than-same-existing."
+
+Cohering, with the first three. Section 47's sentence was answered already by the first, an is, and this session had not found the gathered sentences of *same-named* and of a species before its offering. No note is laid: the saying is gathered with those files already. The page of the chain has it with part 1's third place, and its method's fifth line has the finding of a place's gathered sentences before an offering to a partner.
+
+### Remaining, by the form
+
+The fourth of the chain's four gathered sentences above parts from the first, and from the chain's order. The chain has same-named with its fourth sentence and observing with its seventh, *is-or-is-not same-existing*.
+
+**Naming is from observing.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: Exhibit ONE's table, a same-existing name after an observing name, 4 after 3 and 8 after 7; and the floating saying. The chain's seventh is then before its fourth.
+- Its is, incohering: the is, a name with no observing in it; and the saying of this section, the universe and the same named with now-existing alone.
+- Its is-not, needed for resolving: the chain's order as it is, same-named with its fourth, before observing.
+- Its is-not, incohering: the seventh is then an observing of names, and the code's observing is of directions with one name.
