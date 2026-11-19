@@ -2198,3 +2198,41 @@ The sentence has now as the particle and as the self named me. Living, of the tw
 - Its is, incohering: the window's aim has the atom, and Natural Physics has an atom non-living.
 - Its is-not, needed for resolving: the particle as the atom, all-parity's stable form, non-living, inward and outward of living.
 - Its is-not, incohering: now, named me, is then a non-living me, and Exhibit THIRTY-ONE Me has that it is not.
+
+## 52 Said after: a universal set of me-parities is named a me-now
+
+Section 51's sentence of is: the particle of now is living.
+
+Said in the session: A universal set of me-parities is named a me-now.
+
+Searched before a line: *me-now* is in no living sentence and in no gathered sentence. Beside the saying, living:
+
+- Exhibit THIRTY's step 13: *A me is a self's universal set.*
+- Its step 14: *For a self, each now-existing thing is-or-is-not within its me.*
+- Exhibit THIRTY-ONE Me 3.1: *A me is now-existing, and same-existing from a prior-existing same me.*
+
+Beside it, gathered in the next version:
+
+- With Exhibit ONE, a partner's saying of 18 November: "the name of a universal set of me-parities is a me: same-me, a naming for same-existing in the whole set"
+- With Natural Intelligence: "A self's **now** is the universal set of the me-parities it is observing." and "Now is the one moment all-parity and me-parity are both existing in."
+
+Cohering: a universal set of me-parities, a self's now, with its own name. By it section 51's sentence is answered by a truer saying: the living universal set of now is named a me-now, and the particle of now is an other name, all-parity's, both existing in one now.
+
+Parting at one name: the gathered saying of 18 November has the name of a universal set of me-parities as a me, and the saying of this section has it as a me-now.
+
+Its threads, by the window's method. Back: *universal set* is line 12's and *named* line 11's; *me-parities* is of no line of the window and of no step of the chain; *me-now* is the name it names. Forward: steps 13 and 14, and Me 3.1.
+
+Brought to the window: the saying as said is with the aimings laid in the window's document, and at the exchange for the managing session to write in, a partner's line.
+
+### Remaining, by the form
+
+A me, with steps 13 and 14, and a me-now, with this section, are two names.
+
+**A me is a same-existing me-now.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: by the window's line 9 a me-now after a prior me-now as the same is same-existing, a me, same-me; step 13 and Me 3.1 are as they are, and the two sayings are one.
+- Its is, incohering: step 14 has a me's things as now-existing things, and a me-now's are me-parities.
+- Its is-not, needed for resolving: a me and a me-now as two universal sets, of now-existing things and of me-parities.
+- Its is-not, incohering: one self is then with two universal sets, and Me 3.1 has a me only one possibly now-existing.
