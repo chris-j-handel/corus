@@ -29,6 +29,7 @@ WORDS = [
     ("exactly", r"\bexactly\b"),
     ("ring", r"\brings?\b"),
     ("zone", r"\bzones?\b"),
+    ("warning, wrapper", r"\b(?:warnings?|wrappers?)\b"),
     ("joint", r"\bjoint\b"),
     ("meeting", r"\bmeet(?:ing|ings|s)?\b"),
     ("within", r"\bwithin\b"),

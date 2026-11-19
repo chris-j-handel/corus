@@ -21,6 +21,7 @@
 | *reading*, in resolving | none: no reading of a kind is in natural resolving | | v404mgr | 413 |
 | *not right*, of a form | an opposite form | Exhibit FOUR Natural Mathematics | v404universe | |
 | *zone* | floating neutralling | Exhibit THIRTY: *A fractal between's floating neutralling with φ, its locking an empty set, is golden floating neutralling: geodesic discovering of living's next possibling.* | v404universe | |
+| *warning*, *wrapper*, of a file or a sentence | do-no-harming with resolving: a sentence is resolved as a sentence, and no sentence is laid about it | Exhibit TWENTY-FOUR Geodesic Improving Method: *A closing gathering holds no warning and no droplet asking one, a wrapper being a claim of no claim.* | v404fourthop | |
 | *has*, of a thing in a file | *is in*, or is not | | v404mgr | |
 
 ## Sayings of form, with the words

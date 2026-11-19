@@ -52,7 +52,7 @@ A session opening says at the thread which lines it is with, and brings a sugges
 6. A working session writes the main list again, old beside new, a line's name and its open sentence the same as its check.
 7. A session describes the goods and bads of its own work to its partner at its own session. A suggesting of the method from the between of them comes to the thread by its session's name, one line for one.
 
-The suggestings of the method, by session and with their state, are `incoming/v404mgr/Suggestings_of_the_method_from_the_sessions.md`.
+The suggestings of the method, by session and with their state, are `incoming/v404mgr/Suggestings_of_the_method_from_the_sessions.md`. A session observing the exchange executes `incoming/v404mgr/instruments/the_exchange_as_it_is.sh`: the sayings at the thread, a session's minutes from its latest saying, the offers open and the minutes they wait, and the offers closed.
 
 **The managing, whole,** is `incoming/v404mgr/For_the_managing_session_after_v404mgr.md`: what the managing session is for, a coming in order with its commands, and what was learned. With a managing session winding down, a working session familiar with the exchanging goes on with it.
 
