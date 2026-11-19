@@ -57,3 +57,28 @@ The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 wit
 - The main list's instrument is mended by v404fourthop: a suggesting laid after a short note leaves its line's name as it was.
 
 **A learning of the method with this part:** a suggesting laid after a note shorter than 120 letters moves its line's name in the main list. The instrument names a line by 120 letters of its note, and the suggesting's words are among them.
+
+## Part 2, A self, natural intelligence, living and non-living: sentences 12 to 23
+
+**Found co-chaining from their priors, by the executing: 13 to 20, 22 and 23, ten of the twelve.** Offered at the thread for a session's agreeing or parting.
+
+The executing's two findings:
+
+- The twelfth: *now-*, written apart from *existing* in *a now- and same-existing thing*, and *own*. A finding of the executing's letters, and no place of the sentence.
+- Sentence 21: *emanation*, a word Exhibit TWENTY Natural Naming has dissolved alone. A place, the second below.
+
+**Three places found by going through the twelve after the executing**, for a session's rigor:
+
+1. The sixteenth names living with five names, inheriting, inhaling, exhaling, ingesting and exhausting, and no sentence of the chain names one of the five. Their naming sentences are gathered with this part and with part 31, a sequence's: "Exhausting is 3, a self's prior. Exhaling is 7, inhaling 2, and ingesting 6." and "Inhaling is of a universe's stable form, the atom".
+2. Sentence 21 has a non-living thing as a stable-forming *emanation*. Natural Naming's own saying of *emanation* is *a stable form*, and the chain names a stable form with its sentence 62, in the next version's copy: "A form same-existing with a resolving is a stable form." Gathered beside it already, the main list's line `Co-Chaining Logic Registry 79386b`.
+3. *A scale* opens with the twentieth, a now-existing thing at a scale. A scale is named with sentence 466, *a scale is co-changing co-momentarying pattern matching with bi-couplings*.
+
+**The part's ten gathered notes, with the chain as it is now:**
+
+- `1d998e`, beside the eighteenth, a self three ways and *us*: stays, open.
+- `79386b`, beside sentence 21: a suggesting laid, a non-living thing a stable form.
+- Eight explainings, no lines of the main list: stay. Two have candidates for the chain with no step: a me-parity, and a co-chaining as a self, "an is-or-is-not not yet answered". One has a sequence's eight sentences of the four things, eight candidates.
+
+**Laid with this part, into the next version:** the suggesting held from part 1 for `7aede2`, and the suggesting for `79386b`.
+
+**A learning of the method with this part:** a sentence with one naming and five names opening with it is found co-chaining by the executing, its adding having the five. An adding with a name is no naming sentence of it. Going through the sentences after the executing finds it.
