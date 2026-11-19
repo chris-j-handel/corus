@@ -2236,3 +2236,56 @@ A me, with steps 13 and 14, and a me-now, with this section, are two names.
 - Its is, incohering: step 14 has a me's things as now-existing things, and a me-now's are me-parities.
 - Its is-not, needed for resolving: a me and a me-now as two universal sets, of now-existing things and of me-parities.
 - Its is-not, incohering: one self is then with two universal sets, and Me 3.1 has a me only one possibly now-existing.
+
+## 53 Asked after: is a me-now a same-existing thing
+
+Section 52's sentence of is: a me is a same-existing me-now.
+
+Asked in the session: is a me-now a same-existing thing
+
+Searched before an answer, in Exhibit THIRTY, in the living files and in the gathering files of the next version: *me-now*, *me-parity*, *same-existing thing*, *same-existing set* and *set of me-parities*.
+
+**Answered: is, by its one same name. By its me-parities, is-not.**
+
+Beside it, of its me-parities, gathered:
+
+- With Exhibit EIGHTEEN Natural Physics, four sentences answered before: "an all-parity is non-living and non-same-existing; a me-parity is living and non-same-existing; a self is living and same-existing; a stable form is non-living and same-existing"
+- With Natural Intelligence: "A me later is not the same set of now-existing me-parities as before."
+- With Natural Intelligence: "As the man in the river: later, the man is not the same set of now-existing me-parities, and the river is not the same set of now-existing me-parities."
+
+Beside it, of its name:
+
+- Gathered with Exhibit ONE, a partner's saying of 18 November: "a same-existing thing is a same thing, a thing of one same name, and the name of a universal set of me-parities is a me: same-me, a naming for same-existing in the whole set"
+- Living, Exhibit THIRTY's step 4: *A now-existing thing from a prior-existing same thing is a same-existing thing.*
+- Living, Exhibit TWENTY Natural Naming 5.20: *A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things*
+- Living, Natural Naming: *a me's universal set of me-parities going on, now-existing, its prior, now and next same-existing four-cycling*
+- In the window, at its margin, lines 9 and 13: "Same-existing is now-existing after prior-existing as the same thing." and "A name is a same-existing thing."
+
+Cohering: the man in the river. A me-now's me-parities are other from now to later, and the set by its one same name is the same. By step 4 a me-now from a prior-existing me-now of the same name is a same-existing thing, and a me-now of a new 0 is now-existing alone.
+
+Found with it, and not set beside section 52's saying: a me-now same-existing has a name of its own. Gathered with Natural Intelligence, the waiting opening's 18, its note closing "A candidate, with each partner agreeing.":
+
+- "A **me** is a universal same-existing set of me-parities. A me is a self."
+- And answered is, of a self's now: "a self's **now** is the universal set of its own now-existing me-parities"
+
+Section 52's sentence, a me is a same-existing me-now, is the waiting opening's 18 with section 52's name in it. This session's search for section 52 went by *me-now* and did not go by *set of me-parities*.
+
+Parting, at two living sentences:
+
+- Exhibit THIRTY-ONE Me 3.1: *a set is its things, so a set of these same-existing things is one set* By it a me-now of other me-parities is an other set. A concern is laid with it, in Me's gathering file: "set theory's extensionality does not make a set no object beside its things".
+- Exhibit THIRTY's step 5: *A universal set is a set of same-existing things.* A me-now is a universal set, and its things, me-parities, are gathered as non-same-existing. The window's line 12 says a universal set by its name: "A named universal set is the set of all same-named things."
+
+Brought to the window: one line more with the aimings laid in the window's document, under its aiming of a universal set of me-parities; and at the exchange, with this section's sentence for the sessions' is-or-is-not rigor.
+
+### Remaining, by the form
+
+Section 52's sentence is as asked, its four lines re-said by the sentences found.
+
+**A me is a same-existing me-now.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: it is the waiting opening's 18 with a partner's name of section 52 in it; a me-now is the set now, and a me is the set of one same name going on, the man in the river.
+- Its is, incohering: Me 3.1 has a set as its things, and by it a me-now of other me-parities is an other set and not same-existing; and step 5 has a universal set's things same-existing, with a me-parity gathered as non-same-existing.
+- Its is-not, needed for resolving: a me and a me-now as two universal sets, or as one set of two names, a partner's saying of 18 November naming this set a me.
+- Its is-not, incohering: one self of two universal sets parts from Me 3.1, a me only one possibly now-existing; and one set of two names parts from step 643, *Each concept has one name*.
