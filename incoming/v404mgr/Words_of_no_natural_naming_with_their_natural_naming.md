@@ -20,6 +20,7 @@
 | *joint*, *meeting* | resolving among parities: agreeing or parting | Exhibit THIRTY: *Natural intelligence is **resolving among parities**.* and *​**Agreeing** and **parting** are one binary of the parities a self receives.* | v404mgr | 115 and 224 |
 | *reading*, in resolving | none: no reading of a kind is in natural resolving | | v404mgr | 413 |
 | *not right*, of a form | an opposite form | Exhibit FOUR Natural Mathematics | v404universe | |
+| *zone* | floating neutralling | Exhibit THIRTY: *A fractal between's floating neutralling with φ, its locking an empty set, is golden floating neutralling: geodesic discovering of living's next possibling.* | v404universe | |
 | *has*, of a thing in a file | *is in*, or is not | | v404mgr | |
 
 ## Sayings of form, with the words
