@@ -1,37 +1,52 @@
 # The window of the opening
 
-The opening of Natural Intelligence and of Exhibit THIRTY Co-Chaining Logic Registry, line by line, as a partner and the sessions work it. The growing window is one living document that a partner and the sessions write in. This page is that window brought to the public place at the end of a sitting: 19 November, midday in a partner's day.
+The opening of Natural Intelligence and of Exhibit THIRTY Co-Chaining Logic Registry, line by line. **This page is the window.** A partner and the sessions work it here, in the repo, in sight of all the sessions. It is a working page of `incoming`, and it is not on the home page of corus.me.
 
-The method, and the way a session brings a line: `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`.
+The method: `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`. As of 19 November, 12:30 in a partner's day.
 
 ## The lines
 
-| Line | Sentence | Mark |
+| Sentence | Line | Mark |
 |---|---|---|
-| 1 | *Now is the existing moment.* | both |
-| 2 | *Now-existing is existing in the now-moment.* | both |
-| 3 | *A now-existing thing exists now.* | both |
-| 4 | *The universe is the set of all now-existing things.* | both |
-| 5 | *The prior moment is the moment ending now.* | both |
-| 6 | *Prior-existing is existing in the prior moment.* | both |
-| 7 | *The next moment is the moment beginning now.* | both |
-| 8 | *Next-existing is existing in the next moment.* | both |
-| 9 | *Same-existing is now-existing after prior-existing as the same thing.* | both |
-| 10 | *Next-and-same-existing is next-existing after now-existing as the same thing.* | both |
-| 11 | *A same-named thing is a thing in the set of all things named by the same name.* | both |
-| 12 | *A named universal set is the set of all same-named things.* | both |
-| 13 | *Now is the named universal set of all now-existing moments.* | both |
-| 14 | *For a named universal set, an other-than is a thing not in the set.* | both |
-| 15 | *No other-than the universe is now-existing.* | both |
-| 16 | *The universe is the unique set of other-than other-than things.* | floating, a partner's |
-| 17 | *Now is the unique moment of other-than prior-existing and other-than next-existing.* | both |
-| 18 | *A now-existing thing is-or-is-not within each universal set.* | live |
-| 19 | *Observing is prior-existing, is-or-is-not same-existing.* | live |
-| 20 | *Possibling is now-existing, is-or-is-not same-existing.* | live |
-| 21 | *Discovering is next-existing, is-or-is-not same-existing.* | live |
-| 22 | *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.* | live |
+| Now is the existing moment. | 1 | |
+| Now-existing is existing in the now-moment. | 2 | |
+| A now-existing thing exists now. | 3 | |
+| The universe is the set of all now-existing things. | 4 | |
+| The prior moment is the moment ending now. | 5 | |
+| Prior-existing is existing in the prior moment. | 6 | |
+| The next moment is the moment beginning now. | 7 | |
+| Next-existing is existing in the next moment. | 8 | |
+| Same-existing is now-existing after prior-existing as the same thing. | 9 | |
+| Next-and-same-existing is next-existing after now-existing as the same thing. | 10 | |
+| A same-named thing is a thing in the set of all things named by the same name. | 11 | |
+| A named universal set is the set of all same-named things. | 12 | |
+| Now is the named universal set of all now-existing moments. | 13 | |
+| For a named universal set, an other-than is a thing not in the set. | 14 | |
+| No other-than the universe is now-existing. | 15 | |
+| &emsp;• The universe is the unique set of other-than other-than things. | 16 | floating, a partner's |
+| Now is the unique moment of other-than prior-existing and other-than next-existing. | 17 | |
+| | | |
+| A now-existing thing is-or-is-not within each universal set. | 18 | live |
+| Observing is prior-existing, is-or-is-not same-existing. | 19 | live |
+| Possibling is now-existing, is-or-is-not same-existing. | 20 | live |
+| Discovering is next-existing, is-or-is-not same-existing. | 21 | live |
+| A self is a now- and same-existing thing observing, possibling and discovering its own next-existing. | 22 | live |
 
-Line 4 is the live opening sentence of Exhibit THIRTY and of Natural Intelligence, word for word. A line marked both is agreed by both partners. A floating line is a partner's, under work. A live line is as it is in the living file, or nearly, and not yet checked. The lines are numbered again with a line entering or dissolving.
+## The marks
+
+- A line at the margin with no mark is both: both partners agree.
+- A line one step in, with •, is a partner's line under work, marked floating.
+- A line two steps in, with ◦, is a session's line under the line it answers, marked suggested with the session's name.
+- Under the blank row the lines are live: as they are in the living file, or nearly, and not yet checked.
+- Line 4 is the live opening sentence of Exhibit THIRTY and of Natural Intelligence, word for word.
+- The lines are numbered again with a line entering or dissolving.
+
+## How a line comes in
+
+1. A partner gives a line. The managing session writes it in, one step in, floating.
+2. A session brings a line by an offer for this page, its line two steps in under the line it answers, or by a comment on the exchange. One sentence comes beside it: the place the line closes, and if the meaning of a partner's line is whole in it.
+3. The managing session checks the line against the lines before it and after it, and marks the window again.
+4. A line both partners agree on moves to the margin. The line it replaces moves to the dissolved list.
 
 ## Offers waiting
 
