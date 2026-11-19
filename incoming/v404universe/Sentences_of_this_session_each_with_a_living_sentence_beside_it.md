@@ -2068,3 +2068,38 @@ The fourth of the chain's four gathered sentences above parts from the first, an
 - Its is, incohering: the is, a name with no observing in it; and the saying of this section, the universe and the same named with now-existing alone.
 - Its is-not, needed for resolving: the chain's order as it is, same-named with its fourth, before observing.
 - Its is-not, incohering: the seventh is then an observing of names, and the code's observing is of directions with one name.
+
+## 49 Said after: distinguishing same-existing is naming same, and observing is-or-is-not other-than same-named
+
+Section 48's sentence of is: naming is from observing.
+
+Said in the session: distinguishing same-existing is naming same and observing is-or-is-not other-than same named
+
+Beside it, living:
+
+- Exhibit TWENTY Natural Naming: *Observing* is "distinguishing same-as, is or is not, a prior or a parity".
+- Exhibit THIRTY, its fourth in the next version's copy, "Same-existing is same-named.", and its seventh, "**Observing** is prior-existing, is-or-is-not same-existing."
+
+Beside it, gathered in the next version's copy:
+
+- Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file: "observing has both, same-existing and other-than-same-existing, an is-or-is-not?; naming is of same-existing, same-and-now-existing, all-parity, an is"
+- Exhibit THIRTY's gathering file, a sequence's sentence: "Observing is distinguishing prior-and-same-existing from now-and-same-existing."
+
+Cohering: naming with same-existing, an is, and observing with an is-or-is-not. Section 48's sentence is answered by it: naming is distinguishing same-existing, from no observing, and observing is of other-than same-named, after naming. The chain's order, same-named with its fourth and observing with its seventh, is with the saying.
+
+Parting at one word: Natural Naming's living sentence has observing as the distinguishing of same. The saying has the distinguishing of same as naming, and observing as the is-or-is-not of other-than.
+
+Laid, into the next version: one suggesting beside the chain's seventh, at the main list's line `Co-Chaining Logic Registry d1e626`.
+
+### Remaining, by the form
+
+The saying has observing with no prior-existing. The chain's seventh opens with it, and its tenth and eleventh are of one form with it: possibling now-existing, discovering next-existing. Gathered with Exhibit ONE, a partner's saying: "a now-existing is not comparable to a prior-existing". Exhibit ONE's four names of observing are 3-now-co-observing, 7-now-observing, 11-next-co-observing and 15-next-observing.
+
+**Observing is prior-existing.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: the chain's three as they are, observing prior-existing, possibling now-existing and discovering next-existing; and Natural Naming's observing of a prior.
+- Its is, incohering: the saying of this section, with no prior; a now-existing not comparable to a prior-existing; and Exhibit ONE's four names of observing, two now and two next.
+- Its is-not, needed for resolving: the seventh from the fourth alone, observing as is-or-is-not other-than same-named.
+- Its is-not, incohering: possibling and discovering are then now-existing and next-existing with no prior-existing of the three.
