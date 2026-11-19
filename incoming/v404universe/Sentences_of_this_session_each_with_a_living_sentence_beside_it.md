@@ -2580,3 +2580,47 @@ The window's line of a bi-coupling is of two different things, and the chain's s
 - Its is, incohering: step 25 has a bi-coupling as a self, and step 17 has a self as living: two non-living things are then a living self.
 - Its is-not, needed for resolving: steps 24 and 25 as they are, a bi-coupling of two selves.
 - Its is-not, incohering: the window's line names the set of two different things and their own-parity a bi-coupling, and two non-living things are two different things.
+
+## 58 Said after: nothing is living yet in the logic; out of order; the method of now-existing before parity, or parity on a separate loop
+
+Section 57's sentence of is: two non-living things with their own-parity are a bi-coupling.
+
+Said in the session: nothing is living yet in the logic and we got all out of order as this should be going through athe method of now existing before parity or on a separate loop
+
+**Cohering, with the chain's own order and with the window's lines as they are. Section 57's sentence is taken back: it has living and non-living, and no line of the window has living.**
+
+### The order, the chain's beside the window's
+
+Exhibit THIRTY's steps, by their numbers: is-or-is-not at 6, observing at 7, possibling at 10, discovering at 11, a self at 12, a me at 13, living at 16 and 17, a bi-coupling at 24, a parity at 27.
+
+The window, as it is in its document at 15:40: after line 17, lines 18 and 19 and two lines more, of two different things, own-parity, a bi-coupling and all-parity; below them, waiting, its five live lines of is-or-is-not, observing, possibling, discovering and a self. No line has a me, and no line has living.
+
+The window has the chain's 24 and 27 before its 6 to 12.
+
+### A line with the lines it draws on
+
+By this session's observing of the lines' own words, with no instrument:
+
+- The lines of parity. Line 18, of two different things: other-than, of line 15. Line 19, of own-parity: line 18. The line of a bi-coupling: a set, of line 4, and lines 18 and 19. The line of all-parity: the line of a bi-coupling, other-than, and line 19. The managing session's suggested line of a me: a named universal set, of line 12, and line 19.
+- The five live lines of the method. Is-or-is-not: a now-existing thing, of line 3, and a universal set, of line 12. Observing, possibling and discovering: prior-existing, now-existing and next-existing, of lines 6, 2 and 8, and same-existing, of line 9. A self: lines 2, 8 and 9, and the three before it.
+
+The lines of parity draw on a thing, a set, a name and other-than, lines 4, 11, 12 and 15, and on no line of now, prior, next or same-existing. The five live lines draw on no line of parity. The two come together at the suggested line of a me, and at a self.
+
+Beside it, a partner's saying of section 54: "can we wind these around now and me separately". And of a parity with now, the one place the two touch, a partner's saying of section 54: "a parity does not exist other than now."
+
+### Brought to the window
+
+A note on the document whole, a partner's saying as said with the observing above; and in this session's own comment at the line of a bi-coupling, its asking taken back. At the exchange, for the managing session: the numbering and the placing of lines are its own.
+
+### Remaining, by the form
+
+A partner's saying has two ways: the method of now-existing before parity, or parity on a separate loop.
+
+**Parity is a separate loop.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: its lines draw on a thing, a set, a name and other-than alone, and on no line of now, prior, next or same-existing; the method of now-existing then goes on whole from line 17 to a self.
+- Its is, incohering: a partner's saying has a parity existing now alone, and a loop of parity apart from now has no line of it; and the chain is one sequence, a parity at step 27, after a self.
+- Its is-not, needed for resolving: one sequence, the method of now-existing through a self, and parity after it, as the chain has it.
+- Its is-not, incohering: lines 18 and 19 are both already, and draw on no line of the method after line 15: in one sequence they wait on lines with no word of theirs.
