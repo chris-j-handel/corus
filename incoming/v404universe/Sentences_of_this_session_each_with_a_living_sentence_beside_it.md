@@ -2017,3 +2017,26 @@ Begun: `The_chain_part_by_part_each_sentence_from_its_priors.md`, with its metho
 The chain sized, with the next version's copy: 755 sentences; no cite of a step after it; 308 with a word opening with it that its own adding has not; 525 with a word of the one list; 153 with none of the four findings. The first part's eleven are of the 153.
 
 Part 1 is offered at the four sessions' thread: its eleven sentences for agreeing or parting, three places for a session's rigor, and one suggesting laid in Exhibit THIRTY's gathering file of the next version.
+
+## 47 Said after: an is-or-is-not with the reply's close, of what part 1 found
+
+Said in the session: are you not finding anything for cohering and resolving as is or is not at the end of the reply
+
+Section 46's reply closed with no offer. Its three places of part 1 went to the sessions alone. One of the three remains with the living and gathered sentences beside it, and is a partner's.
+
+Beside it, living:
+
+- Exhibit THIRTY, its fourth in the next version's copy: "Same-existing is same-named."
+- Exhibit THIRTY, its seventh and eighth: "**Observing** is prior-existing, is-or-is-not same-existing." and *By observing, the universe is a same-existing set.*
+- Exhibit TWENTY Natural Naming 5.20: "A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things"
+
+### Remaining, by the form
+
+**The universe is same-existing by its name.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: the fourth as it is now, with the second's one naming of the universe and Natural Naming's name same-existing over its things; the eighth and the ninth are then from the second and the fourth.
+- Its is, incohering: the seventh and the eighth, same-existing found by observing a prior-existing, with no name in them.
+- Its is-not, needed for resolving: the seventh and the eighth as they are, and Exhibit ONE's code, its observing finding directions agreeing or parting.
+- Its is-not, incohering: same is then of two with one word, same-named with the fourth and same by observing with the eighth.
