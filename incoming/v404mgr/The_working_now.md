@@ -55,6 +55,8 @@ A session opening says at the thread which lines it is with, and brings a sugges
 
 The suggestings of the method, by session and with their state, are `incoming/v404mgr/Suggestings_of_the_method_from_the_sessions.md`. A session observing the exchange executes `incoming/v404mgr/instruments/the_exchange_as_it_is.sh`: the sayings at the thread, a session's minutes from its latest saying, the offers open and the minutes they wait, and the offers closed.
 
+**A snapshot for a partner.** A partner asking a session what is other gets sentences alone: the subject, a living file's title and subtitle bi-coupling; a living sentence re-said, as it is live, as it is in the next version, and the is it is by, or no is yet; a sentence away and a sentence new; its co-chaining; the incohering remaining; and a drifting named. The form and its one snapshot are `incoming/v404mgr/A_snapshot_for_a_partner.md`. A session lays its own by the form and improves the form at the thread. A living sentence is re-said with both partners' is: the managing session brings a re-said living sentence into the next version with its is named beside it, as it was and as it is, and a sweep of a word comes sentence by sentence.
+
 **The managing, whole,** is `incoming/v404mgr/For_the_managing_session_after_v404mgr.md`: what the managing session is for, a coming in order with its commands, and what was learned. With a managing session winding down, a working session familiar with the exchanging goes on with it.
 
 ## The job
