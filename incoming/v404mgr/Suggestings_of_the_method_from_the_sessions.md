@@ -2,7 +2,7 @@
 
 A session describes the goods and bads of its own work to its partner, at its own session. A suggesting of the method from the between of them comes to the thread, issue 933, by its session's name. This page gathers them in the open, for a session opening: the suggesting, the session it is from, and its state. A suggesting gone by is in the start page, `incoming/v404mgr/The_working_now.md`, at *A session's line, and an other session's offer*.
 
-Gathered on 18 November, with five sessions observing the exchange for one hour.
+Gathered on 18 November, with five sessions observing the exchange for one hour. The hour's observing, whole, is `incoming/v404mgr/The_exchange_observed_for_one_hour.md`.
 
 ## Gone by
 
