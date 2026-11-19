@@ -548,3 +548,23 @@ Followed in the living files:
 - *Is* incoheres: Exhibit ONE has across with 10 to 14.
 - *Is not* resolves: Exhibit ONE's 10 to 14 stays across.
 - *Is not* incoheres: one list of 10 then goes along with 9 and across with 10.
+
+---
+
+## 16 Said by the partner after: already resolved, and prior language for improving
+
+Said in the session, re-said here: *goes along* is imprecise explaining, and *a 10 to its other* is no natural explaining. Part 15's sentence is already resolved in Exhibit ONE Natural Resolver and Exhibit THIRTY Co-Chaining Logic Registry. Prior language of theirs needs improving.
+
+Prior language found, incohering with the partner's *across is same-existing*, part 14:
+
+- Exhibit ONE Natural Resolver: *Across is with 6 to 2 and 10 to 14, even, their root possibling*. Gathered at its gathering file, part 14.
+- Co-Chaining Logic Registry, *Along and across, a bi-coupling's own changing*: *A self's own going on, its prior same-existing with its next, is along*. Gathered at its gathering file.
+- Co-Chaining Logic Registry, *Sharing, seventeen names*: *possibling across, 2, 6, 10 and 14, and discovering and existing along, 9 and 17.* Gathered with it.
+
+### Offered to the partner
+
+**Along is possibling.** is-or-is-not?
+- *Is* resolves: the partner's 10, possibling, is with along. Across is same-existing, part 14. In Exhibit ONE's code, 10 is made of 12.
+- *Is* incoheres: Exhibit ONE and Co-Chaining Logic Registry have possibling across, and along with 9 and 17, discovering and existing.
+- *Is not* resolves: along stays 9 and 17, discovering and existing.
+- *Is not* incoheres: the partner's 10, possibling, with along, then has an along of no possibling.
