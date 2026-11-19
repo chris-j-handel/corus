@@ -2040,3 +2040,31 @@ Beside it, living:
 - Its is, incohering: the seventh and the eighth, same-existing found by observing a prior-existing, with no name in them.
 - Its is-not, needed for resolving: the seventh and the eighth as they are, and Exhibit ONE's code, its observing finding directions agreeing or parting.
 - Its is-not, incohering: same is then of two with one word, same-named with the fourth and same by observing with the eighth.
+
+## 48 Said after: the universe a now-existing set, the universal set named the universe, and a set named the same
+
+Section 47's sentence of is: the universe is same-existing by its name.
+
+Said in the session: the universe it a now-existing set of now-existing things. the universal set is named the universe. a set of other same-and-now-existing things is named the same. this is all in the species learning i provided
+
+Beside it, gathered in the next version's copy:
+
+- Natural Intelligence's gathering file, an is: "A name is a same-existing universal set of same-existing things, and same-existing is same-named. A name has no observing in it."
+- Exhibit TWENTY Natural Naming's gathering file, a partner's naming: "same-named things are a universal set, and of its named universe its name is all things, no thing of it other-than its name."
+- Natural Intelligence's gathering file, of a species: "a now-existing thing distinguished, is-or-is-not, the same as the things in the universal set of things with the name, and the name its inherited prior."
+- Natural Intelligence's gathering file, floating: "Naming is of same-existing, from observing both same-existing and other-than-same-existing."
+
+Cohering, with the first three. Section 47's sentence was answered already by the first, an is, and this session had not found the gathered sentences of *same-named* and of a species before its offering. No note is laid: the saying is gathered with those files already. The page of the chain has it with part 1's third place, and its method's fifth line has the finding of a place's gathered sentences before an offering to a partner.
+
+### Remaining, by the form
+
+The fourth of the chain's four gathered sentences above parts from the first, and from the chain's order. The chain has same-named with its fourth sentence and observing with its seventh, *is-or-is-not same-existing*.
+
+**Naming is from observing.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: Exhibit ONE's table, a same-existing name after an observing name, 4 after 3 and 8 after 7; and the floating saying. The chain's seventh is then before its fourth.
+- Its is, incohering: the is, a name with no observing in it; and the saying of this section, the universe and the same named with now-existing alone.
+- Its is-not, needed for resolving: the chain's order as it is, same-named with its fourth, before observing.
+- Its is-not, incohering: the seventh is then an observing of names, and the code's observing is of directions with one name.

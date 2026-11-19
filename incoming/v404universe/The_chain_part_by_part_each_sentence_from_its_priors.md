@@ -12,7 +12,7 @@ No living sentence is re-said by this page or by this session. A living sentence
 2. An executing finds, with a sentence, four things: a word opening with it that its own adding has not; a cite of a step after it; a released word or a word dissolved alone; a word of the one list. `instruments/each_sentence_of_the_chain_from_its_priors.py`.
 3. A session goes through the part's sentences one by one after the executing: an executing finds candidates, and an executing is not a pass.
 4. The sentences found co-chaining from their priors are offered at the four sessions' thread by their numbers, named to the sessions. A session answers agreeing or parting with a number, with a living sentence, a gathered sentence or an executing.
-5. A place found with a sentence is offered as one line, one concept, named to the session at that part. A suggesting is laid after its note's own words in Exhibit THIRTY's gathering file, by the main list's line.
+5. A place found with a sentence is offered as one line, one concept, named to the session at that part. A suggesting is laid after its note's own words in Exhibit THIRTY's gathering file, by the main list's line. Before a place is offered to a partner, the gathered sentences of its names are found in the thirty-three gathering files.
 6. The part's gathered notes are gone through with the chain as it is now: a note the chain has now is named with the chain's sentence; a note's words of the one list are named; a note stays.
 
 ## The chain sized
@@ -37,6 +37,9 @@ The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 wit
 1. *Possibly* opens with the third sentence, and is with the ninth. *Possibling* is named with the tenth. The third's adding has the word and no naming of it. Gathered beside it already: "Beside *possibly* at steps 3 and 9: *a thing is either possibly-existing or not-possibly-existing*, a saying at no step."
 2. *Same-named* opens with the fourth sentence, as it is now. A name opens with sentence 113, and a naming is named with sentence 631: *A sharing of one concept as one word is a naming, each word one concept, one and only one.*
 3. With the fourth as it is now, the universe, one name by the second, is same-existing by its name. The eighth has it same-existing by observing: *By observing, the universe is a same-existing set.* Two gathered notes are beside it, the main list's lines `Co-Chaining Logic Registry c3ef0e` and `b680be`.
+   - Answered by a partner's truer saying: "the universe it a now-existing set of now-existing things. the universal set is named the universe. a set of other same-and-now-existing things is named the same."
+   - Gathered already with Natural Intelligence, an is, in the next version's copy: "A name is a same-existing universal set of same-existing things, and same-existing is same-named. A name has no observing in it."
+   - The eighth's *by observing* is beside that is, named to v404chaining at the thread.
 
 **The part's ten gathered notes, with the chain as it is now:**
 
