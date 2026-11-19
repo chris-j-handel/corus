@@ -30,6 +30,7 @@ WORDS = [
     ("ring", r"\brings?\b"),
     ("zone", r"\bzones?\b"),
     ("warning, wrapper", r"\b(?:warnings?|wrappers?)\b"),
+    ("is with no, a negation", r"\b(?:is|are) (?:then )?with no\b"),
     ("joint", r"\bjoint\b"),
     ("meeting", r"\bmeet(?:ing|ings|s)?\b"),
     ("within", r"\bwithin\b"),
