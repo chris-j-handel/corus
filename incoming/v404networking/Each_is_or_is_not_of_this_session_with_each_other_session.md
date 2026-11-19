@@ -673,3 +673,26 @@ Beside it, living:
 - *Is* incoheres: in Exhibit ONE's next-existing, 4 names a bi-coupling, a self with 6, 10 or 9, and a receiving self.
 - *Is not* resolves: 4 stays a bi-coupling in 17-next-existing.
 - *Is not* incoheres: the partner's 4 inside and 8 outside then has no inside.
+
+---
+
+## 21 Said by the partner after: is, 4 inside a self
+
+Asked, part 20: 4-now-co-same-existing is same-existing inside a self.
+
+Said in the session: *is*.
+
+Remaining, Exhibit ONE's code, its *next-existing*:
+
+- `(_13_next_discovering, 6)`, `(_13_next_discovering, 10)` and `(_13_next_discovering, 9)` are named `_4_now_co_same_existing`: a self with 6, 10 or 9.
+- After 9-next-co-discovering, `_4_now_co_same_existing` names a receiving self, and `_14_next_possibling[_4_now_co_same_existing]` is its list.
+- In the same function, `_14_next_possibling` is made with `_13_next_discovering` for a self, and its return is by `_13_next_discovering`.
+- 4 then names a bi-coupling and a receiving self, both between selves. Gathered as a droplet at Natural Resolver's gathering file.
+
+### Offered to the partner
+
+**A receiving self is a 13-next-discovering.** is-or-is-not?
+- *Is* resolves: 4 stays same-existing inside a self. In Exhibit ONE's next-existing, 14-next-possibling has its list for a self by its 13.
+- *Is* incoheres: Exhibit ONE's code names a receiving self 4. Its table has 4 in 17 as a bi-coupling, a self with 6, 10 or 9, and a receiving self.
+- *Is not* resolves: Exhibit ONE's code and table go on as written.
+- *Is not* incoheres: 4 is then same-existing inside a self, and a receiving self between selves.
