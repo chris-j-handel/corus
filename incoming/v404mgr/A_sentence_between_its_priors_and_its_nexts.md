@@ -60,6 +60,15 @@ The fifth is the live opening sentence of Exhibit THIRTY and of Natural Intellig
 
 The five are at the top of Exhibit THIRTY's gathering file in the next version, one note for one, and at the top of Natural Intelligence's.
 
+## Learnings, as the test goes
+
+- An opening sentence can use only words a reader has by reading. *Now* and *existing* are such words.
+- A new origin closes old gaps. A word used before any sentence gave it, as *now-existing* and *same-named* were, is given by the origin's sentences.
+- A live sentence stays word for word if sentences before it can give it its words. The universe's sentence stayed.
+- The most needed next concept is found by threading forward from the sentences that are both: the name the next sentences need and no sentence yet gives.
+- A sentence that passes can make a later sentence a duplicate, two names for one concept. The check looks forward for that too.
+- The surface is traveled again. A sentence already checked is checked again with a new sentence before it or after it.
+
 ## For their entering
 
 - The chain cites its own sentences by number. Four sentences before the live opening move a sentence's number by four, and a cite of it moves with it.
