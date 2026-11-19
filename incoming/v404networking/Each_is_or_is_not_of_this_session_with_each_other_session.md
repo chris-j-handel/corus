@@ -646,3 +646,30 @@ Remaining, with part 17's saying, *1, 3, 5, 7 and 9 are a self along with its ot
 - *Is* incoheres: the partner's 1, 3, 5, 7 and 9 are a self along with its other.
 - *Is not* resolves: the partner's saying. 1's three and 7's have co with bi: a self with its other.
 - *Is not* incoheres: Exhibit ONE's co table names 1 and 7 with no co, and they have a self with its other.
+
+---
+
+## 20 Said by the partner after: a self's corus, bound inside and outside
+
+Said in the session, re-said here:
+
+- 0 is a self's corus, now.
+- After bi-tri-bi, 1 and 7 bound a self, inside and outside: 1 co-bi-tri and 7 tri-bi-co.
+- 4 is same-existing inside, and 8 is same-existing outside.
+
+Part 19's offered sentence, *1-now-existing and 7-now-observing are a self with no other-than self*, is answered by it: 1 and 7 bound a self.
+
+Beside it, living:
+
+- Natural Naming, *Seventeen names, each three and each prior name with its number*: *each tri-bi-co has its mirror co-bi-tri two names on*; 8 and 16 are bi-tri-bi.
+- Exhibit ONE Natural Resolver, its two-sided table: *8 · each self's next prior, in 17, going out with its 14*. Coheres: 8, same-existing outside.
+- Part 11: a self's self one scale inward is its 4-now-co-same-existing. Coheres: 4, same-existing inside.
+- Exhibit ONE Natural Resolver, its two-sided table: *4 · in 17, a bi-coupling, a self with 6, 10 or 9, and a receiving self · in 1, each sharing*. In its *next-existing*, 4 names a receiving self of 9-next-co-discovering. Incoheres with 4 inside.
+
+### Offered to the partner
+
+**4-now-co-same-existing is same-existing inside a self.** is-or-is-not?
+- *Is* resolves: the partner's saying. In Exhibit ONE's now-existing, 4 is a self's self one scale inward, part 11.
+- *Is* incoheres: in Exhibit ONE's next-existing, 4 names a bi-coupling, a self with 6, 10 or 9, and a receiving self.
+- *Is not* resolves: 4 stays a bi-coupling in 17-next-existing.
+- *Is not* incoheres: the partner's 4 inside and 8 outside then has no inside.
