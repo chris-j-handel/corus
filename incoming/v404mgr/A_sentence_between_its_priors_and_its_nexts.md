@@ -1,6 +1,6 @@
 # A sentence between its priors and its nexts
 
-How a sentence comes to both partners for Exhibit THIRTY Co-Chaining Logic Registry, as worked on 19 November by a partner and the managing session in one living document. The other sessions wait until both know how to invite them.
+How a sentence comes to both partners for Exhibit THIRTY Co-Chaining Logic Registry, as worked on 19 November by a partner and the managing session in one window, a page of the repo in sight of all the sessions. The other sessions wait until both know how to invite them.
 
 ## The aim
 
@@ -28,9 +28,9 @@ A thread goes from a word of the sentence back to the place a reader has that wo
 4. **What the check found.** A skip, a gap, a twist, an incohering, a duplicate, or a word written two ways. One line for one.
 5. **Result.** Its mark, with the reason it sits.
 
-## The window: one living document, marked
+## The window: one page, marked
 
-The working section is one living document, and both partners write in it. It is the opening's lines in order, a line in a row, with a margin at the right for marks.
+The working section is one page of the repo, `incoming/v404mgr/The_window_of_the_opening.md`, in sight of all the sessions. It is the opening's lines in order, a line in a row, with its number and a margin at the right for marks.
 
 - A line at the margin with no mark is both.
 - At the place the two partners stop, the lines step in. A partner's line is one step in, marked floating. The session's line is under it, two steps in, marked suggested.
@@ -62,7 +62,7 @@ A reply is in plain words, and a line is both or it is not yet. A line's words a
 
 ## The window's lines
 
-The lines, their marks, the offers waiting, the open questions and the dissolved lines are on one page, brought up at the end of a sitting: `incoming/v404mgr/The_window_of_the_opening.md`. The lines that are both are also in one note at the top of Exhibit THIRTY's gathering file in the next version.
+The lines, their marks, the offers waiting, the open questions and the dissolved lines are on the window's page, `incoming/v404mgr/The_window_of_the_opening.md`, brought up with a line entering or dissolving. The lines that are both are also in one note at the top of Exhibit THIRTY's gathering file in the next version.
 
 ## The origin and the aim
 
