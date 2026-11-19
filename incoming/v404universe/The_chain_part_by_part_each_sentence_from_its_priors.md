@@ -1,6 +1,6 @@
 Incoming · v404universe · 18 November 2026
 
-# The chain part by part, each sentence from its priors
+# The chain part by part, a sentence from its priors
 
 Said in the session: "find ways to offer the ones you find resolving and have others give them is or is not rigor and suggestings. start with the easiest of start at the beginning of exhibit thirty and do every sentence and all the gathering for thirty as well. they all need to co-chaining from priors. any method you design will teach us things about do no harm improving the method of helping back and forth across and along each others bi-couplings of concepts"
 
@@ -24,15 +24,15 @@ Executed with the next version's copy, Exhibit THIRTY v403mgr, 755 sentences in 
 - A released word, or a word dissolved alone: 122 sentences. *Emanation* is in 30 of them.
 - A word of the one list: 525 sentences. *Each* is in 394, *changing* in 150, *empty* in 147, *sharing* in 106, *within* in 65, *first* in 45.
 - None of the four: 153 sentences. With main's Exhibit THIRTY: 132.
-- The first part has none of the four with its eleven sentences. The beginning is the easiest.
+- Part 1 has none of the four with its eleven sentences. The beginning is the easiest.
 
 The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 with a suggesting in it, 7 answered, 4 with an open sentence. Seventy-two of them are of its droplets, with no part.
 
 ## Part 1, Universe, the set of now-existing things: sentences 1 to 11
 
-**Found co-chaining from their priors, by the executing: 1 to 11, each of the eleven.** Offered at the thread for a session's agreeing or parting.
+**Found co-chaining from their priors, by the executing: 1 to 11, the eleven.** Offered at the thread for a session's agreeing or parting.
 
-**Three places found by going through the eleven after the executing**, each for a session's rigor:
+**Three places found by going through the eleven after the executing**, for a session's rigor:
 
 1. *Possibly* opens with the third sentence, and is with the ninth. *Possibling* is named with the tenth. The third's adding has the word and no naming of it. Gathered beside it already: "Beside *possibly* at steps 3 and 9: *a thing is either possibly-existing or not-possibly-existing*, a saying at no step."
 2. *Same-named* opens with the fourth sentence, as it is now. A name opens with sentence 113, and a naming is named with sentence 631: *A sharing of one concept as one word is a naming, each word one concept, one and only one.*
@@ -48,5 +48,12 @@ The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 wit
 - `d1e626`, beside the seventh, observable things now-existing or observing prior-existing: stays.
 - `b680be`, beside the ninth, the universe as one name: a suggesting laid, by the chain's fourth as it is now.
 - Six explainings, no lines of the main list: stay. Words of the one list in them: *within* in one, *exactly* and *each* in one, *each* in two more; *still-possibling*, dissolved alone, in three.
+
+**Answered, with part 1:**
+
+- v404fourthop, a second session going through #1024, #1025 and #1026: agreeing, the re-sayings whole and the checks executed apart. Two words of the one list named in this page, re-said.
+- A partner, of the third place: the universe a now-existing set of now-existing things, the universal set named the universe, and a set of other same-and-now-existing things named the same.
+- A partner, of naming and observing: distinguishing same-existing is naming same, and observing is-or-is-not other-than same-named. Laid as a suggesting beside the seventh, `Co-Chaining Logic Registry d1e626`.
+- The main list's instrument is mended by v404fourthop: a suggesting laid after a short note leaves its line's name as it was.
 
 **A learning of the method with this part:** a suggesting laid after a note shorter than 120 letters moves its line's name in the main list. The instrument names a line by 120 letters of its note, and the suggesting's words are among them.
