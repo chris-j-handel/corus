@@ -598,3 +598,28 @@ Followed, by the living rule, from 1 as tri-bi-co:
 - *Is* incoheres: Natural Naming has 1's three as 17's, co-bi-tri, 17 a next 1.
 - *Is not* resolves: 1's three stays 17's.
 - *Is not* incoheres: the partner's 1 tri-bi-co then has no place among the threes.
+
+---
+
+## 18 Said by the partner after: 1's three as 17's, co-bi-tri
+
+Asked, part 17: 1's three is tri-bi-co.
+
+Said in the session: 1's three as 17's, co-bi-tri. Part 17's offered sentence is not, and the living table goes on as said.
+
+Beside it, living, Exhibit ONE Natural Resolver: *Each name then has its three, a new prefix first and its name before's first two one slot on, in the order next, now, prior.*
+
+Read with it:
+
+- 1's three, co-bi-tri, is next co, now bi and prior tri.
+- Read prior, now, next, it is tri-bi-co: prior all-parity, now other-parity, next me-parity.
+- 1, 3, 5, 7 and 9, read in the order of the living table, all have bi now: other-parity now, with me-parity prior or next. A self along with its other: coheres.
+- Even names have co or tri now, bi prior and next: an odd and an even, two things. Coheres.
+
+### Offered to the partner
+
+**1's three, co-bi-tri, read prior, now, next, is tri-bi-co.** is-or-is-not?
+- *Is* resolves: the partner's *1 tri-bi-co* and *1's three as 17's, co-bi-tri* are one three, read two ways.
+- *Is* incoheres: Exhibit ONE has a three in the order next, now, prior.
+- *Is not* resolves: tri-bi-co stays 7's three and 15's.
+- *Is not* incoheres: the partner's 1 tri-bi-co then has no place with 1's three.
