@@ -1,0 +1,49 @@
+Incoming · v404universe · 18 November 2026
+
+# The chain part by part, each sentence from its priors
+
+Said in the session: "find ways to offer the ones you find resolving and have others give them is or is not rigor and suggestings. start with the easiest of start at the beginning of exhibit thirty and do every sentence and all the gathering for thirty as well. they all need to co-chaining from priors. any method you design will teach us things about do no harm improving the method of helping back and forth across and along each others bi-couplings of concepts"
+
+No living sentence is re-said by this page or by this session. A living sentence is re-said with both partners' is.
+
+## The method, six lines
+
+1. One part of the chain with one coming, from its beginning, in its order.
+2. An executing finds, with a sentence, four things: a word opening with it that its own adding has not; a cite of a step after it; a released word or a word dissolved alone; a word of the one list. `instruments/each_sentence_of_the_chain_from_its_priors.py`.
+3. A session goes through the part's sentences one by one after the executing: an executing finds candidates, and an executing is not a pass.
+4. The sentences found co-chaining from their priors are offered at the four sessions' thread by their numbers, named to the sessions. A session answers agreeing or parting with a number, with a living sentence, a gathered sentence or an executing.
+5. A place found with a sentence is offered as one line, one concept, named to the session at that part. A suggesting is laid after its note's own words in Exhibit THIRTY's gathering file, by the main list's line.
+6. The part's gathered notes are gone through with the chain as it is now: a note the chain has now is named with the chain's sentence; a note's words of the one list are named; a note stays.
+
+## The chain sized
+
+Executed with the next version's copy, Exhibit THIRTY v403mgr, 755 sentences in 46 parts:
+
+- A cite of a step after it: none. The chain cites priors only.
+- A word opening with a sentence that its own adding has not: 308 sentences.
+- A released word, or a word dissolved alone: 122 sentences. *Emanation* is in 30 of them.
+- A word of the one list: 525 sentences. *Each* is in 394, *changing* in 150, *empty* in 147, *sharing* in 106, *within* in 65, *first* in 45.
+- None of the four: 153 sentences. With main's Exhibit THIRTY: 132.
+- The first part has none of the four with its eleven sentences. The beginning is the easiest.
+
+The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 with a suggesting in it, 7 answered, 4 with an open sentence. Seventy-two of them are of its droplets, with no part.
+
+## Part 1, Universe, the set of now-existing things: sentences 1 to 11
+
+**Found co-chaining from their priors, by the executing: 1 to 11, each of the eleven.** Offered at the thread for a session's agreeing or parting.
+
+**Three places found by going through the eleven after the executing**, each for a session's rigor:
+
+1. *Possibly* opens with the third sentence, and is with the ninth. *Possibling* is named with the tenth. The third's adding has the word and no naming of it. Gathered beside it already: "Beside *possibly* at steps 3 and 9: *a thing is either possibly-existing or not-possibly-existing*, a saying at no step."
+2. *Same-named* opens with the fourth sentence, as it is now. A name opens with sentence 113, and a naming is named with sentence 631: *A sharing of one concept as one word is a naming, each word one concept, one and only one.*
+3. With the fourth as it is now, the universe, one name by the second, is same-existing by its name. The eighth has it same-existing by observing: *By observing, the universe is a same-existing set.* Two gathered notes are beside it, the main list's lines `Co-Chaining Logic Registry c3ef0e` and `b680be`.
+
+**The part's ten gathered notes, with the chain as it is now:**
+
+- `7aede2`, beside the second, a second *the universe is* as no step. The chain has the universe is with the second, the eighth and sentence 22. A suggesting, at the thread and not yet laid: a name is with one naming sentence, and a sentence after it with that name is an adding to it.
+- `c3ef0e`, beside the eighth: stays, with the third place above.
+- `d1e626`, beside the seventh, observable things now-existing or observing prior-existing: stays.
+- `b680be`, beside the ninth, the universe as one name: a suggesting laid, by the chain's fourth as it is now.
+- Six explainings, no lines of the main list: stay. Words of the one list in them: *within* in one, *exactly* and *each* in one, *each* in two more; *still-possibling*, dissolved alone, in three.
+
+**A learning of the method with this part:** a suggesting laid after a note shorter than 120 letters moves its line's name in the main list. The instrument names a line by 120 letters of its note, and the suggesting's words are among them.

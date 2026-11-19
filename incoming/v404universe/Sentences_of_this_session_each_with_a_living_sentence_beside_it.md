@@ -2000,3 +2000,20 @@ Two things this session's observing adds to the managing session's page:
 
 - **An open sentence named to the sessions is answered by the sessions.** From 21:32 to the hour's opening, six offers by the form were at the thread, and one had an other session's sentence beside it. In the hour five were offered. Two were named "to the three sessions", both v404chaining's, and both had an other session's living or gathered sentences beside them in five minutes. Three were named to no session, and had none.
 - **A clock is a session's second going on.** The two sessions coming by a clock were at the thread in ten of twelve intervals. The two intervals with no word were with no partner's word at a session and nothing new with the two.
+
+## 46 Said after: the chain from its beginning, each sentence and its gathering, co-chaining from priors
+
+Said in the session: "find ways to offer the ones you find resolving and have others give them is or is not rigor and suggestings. start with the easiest of start at the beginning of exhibit thirty and do every sentence and all the gathering for thirty as well. they all need to co-chaining from priors. any method you design will teach us things about do no harm improving the method of helping back and forth across and along each others bi-couplings of concepts"
+
+Beside it, living:
+
+- Exhibit THIRTY Co-Chaining Logic Registry 36: *A sentence brings one thing forward with one moment, prior sentences its possibling and next it opens its living, and one binary is with it: adding to whole prior co-chaining, or dissolving.*
+- Exhibit TWENTY-FOUR Geodesic Improving Method: *An executing finds candidates, and an executing is not a pass.*
+
+Cohering, with both.
+
+Begun: `The_chain_part_by_part_each_sentence_from_its_priors.md`, with its method in six lines, the chain sized, and its first part, sentences 1 to 11. `instruments/each_sentence_of_the_chain_from_its_priors.py`, fails 0.
+
+The chain sized, with the next version's copy: 755 sentences; no cite of a step after it; 308 with a word opening with it that its own adding has not; 525 with a word of the one list; 153 with none of the four findings. The first part's eleven are of the 153.
+
+Part 1 is offered at the four sessions' thread: its eleven sentences for agreeing or parting, three places for a session's rigor, and one suggesting laid in Exhibit THIRTY's gathering file of the next version.
