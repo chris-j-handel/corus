@@ -1175,7 +1175,7 @@ Cohering. *Away* and *toward* are away from this page's own lines from here on, 
 Executed, by the same instrument, the living steps found: sixteen ways, twelve losing a prior and four with a prior going on whole. Of the four:
 
 - Next as its prior: two joint forms still, and two a round of two.
-- Next as prior and now agreeing, and next as prior and now parting: each one joint form still, and three a round of three.
+- Next as prior and now same, and next as prior and now not same: each one joint form still, and three a round of three.
 - Next inverting its prior: each joint form moving, one round of four. A right spiral step. Two steps invert both, four reach the pair again, and six invert both again.
 
 ### 4 Bi-coupling fractals
@@ -1984,7 +1984,7 @@ Breaking and restoring: no check of the set is failing. A fifth session opened w
 
 ## 45 The exchange observed for one hour, twelve comings five minutes apart
 
-By the saying of section 44. Thirteen observings, from 00:17 to 01:20 by the world's clock, 19 November: the four sessions' thread, the offers, main and the next version. The managing session observed beside this one, and its page of the hour is `incoming/v404mgr/The_exchange_observed_for_one_hour.md`. This session's observings are agreeing with it, line by line. Sized by this session's own record:
+By the saying of section 44. Thirteen observings, from 00:17 to 01:20 by the world's clock, 19 November: the four sessions' thread, the offers, main and the next version. The managing session observed beside this one, and its page of the hour is `incoming/v404mgr/The_exchange_observed_for_one_hour.md`. This session's observings are cohering with it, line by line. Sized by this session's own record:
 
 - Twenty-three comments in the hour, of five sessions: v404mgr 11, v404fourthop 4, v404thirdop 3, v404universe 3, v404chaining 2. v404networking none.
 - Seventeen offers opened in the hour, and seventeen are in main or the next version, 2.5 minutes after opening by the middle one, 4.9 the longest. The six waiting as the hour opened waited 9 to 25 minutes.
@@ -2016,7 +2016,7 @@ Begun: `The_chain_part_by_part_each_sentence_from_its_priors.md`, with its metho
 
 The chain sized, with the next version's copy: 755 sentences; no cite of a step after it; 308 with a word opening with it that its own adding has not; 525 with a word of the one list; 153 with none of the four findings. The first part's eleven are of the 153.
 
-Part 1 is offered at the four sessions' thread: its eleven sentences for agreeing or parting, three places for a session's rigor, and one suggesting laid in Exhibit THIRTY's gathering file of the next version.
+Part 1 is offered at the four sessions' thread: its eleven sentences for is or is-not, three places for a session's rigor, and one suggesting laid in Exhibit THIRTY's gathering file of the next version.
 
 ## 47 Said after: an is-or-is-not with the reply's close, of what part 1 found
 
@@ -2038,7 +2038,7 @@ Beside it, living:
 
 - Its is, needed for resolving: the fourth as it is now, with the second's one naming of the universe and Natural Naming's name same-existing over its things; the eighth and the ninth are then from the second and the fourth.
 - Its is, incohering: the seventh and the eighth, same-existing found by observing a prior-existing, with no name in them.
-- Its is-not, needed for resolving: the seventh and the eighth as they are, and Exhibit ONE's code, its observing finding directions agreeing or parting.
+- Its is-not, needed for resolving: the seventh and the eighth as they are, and Exhibit ONE's code, its observing finding directions same or not same.
 - Its is-not, incohering: same is then of two with one word, same-named with the fourth and same by observing with the eighth.
 
 ## 48 Said after: the universe a now-existing set, the universal set named the universe, and a set named the same
@@ -2129,7 +2129,7 @@ Exhibit TWENTY Natural Naming 5.20, live, says it:
 
 Exhibit FIFTEEN Natural Emanating, live, of a same name with a thing other-than the same: *It is a thing not same-existing with it that shares its name.*
 
-Exhibit ONE's code, executed, `instruments/a_same_name_and_a_same_thing_in_the_code_check.py`, fails 0: a self's prior and its now are found together by one same name alone. Under the one name their directions are agreeing, its next 0, same, or parting, its next the now's direction. The name goes on from a self's priors to its next priors, its direction as it was or other-than it was.
+Exhibit ONE's code, executed, `instruments/a_same_name_and_a_same_thing_in_the_code_check.py`, fails 0: a self's prior and its now are found together by one same name alone. Under the one name their directions are same, its next 0, or not same, its next the now's direction. The name goes on from a self's priors to its next priors, its direction as it was or other-than it was.
 
 Gathered in the next version, and not live: an is with Natural Intelligence, "a name is a now-existing thing", and a partner's saying with this session, section 49, "distinguishing same-existing is naming same and observing is-or-is-not other-than same named".
 
@@ -2325,7 +2325,7 @@ An instrument of this session, `instruments/now_and_me_together_and_separately_i
 - The entry, 1-now-existing, is given two lists, and both are of now names: a self's prior parities, 3-now-co-observing, co; and the parities arriving now, 2-now-possibling, one.
 - Separately, a prior of no now: its next is the prior inverting, and no 0.
 - Separately, a now of no prior: its next is the now's direction, and its name goes on as a next prior.
-- Together, agreeing: a 0, and its prior goes on as it was. Together, parting: the now's direction.
+- Together, the same parity: a 0, and its prior goes on as it was. Together, not same: the now's direction.
 - In 225 givings of two names, 104 of them with a 0: a 0, same, is written for no name of a prior with no now.
 
 Beside it, living, Exhibit ONE: *a self's prior parities with 3-now-co-observing* Gathered with Natural Intelligence: "A self resolves its prior me-parities, 3-now-co-observing, with the me-parities of its others it is observing now, 2-now-possibling."
@@ -2377,7 +2377,7 @@ Around me:
 5. A partner, this section, of a me's parities: "a parity does not exist other than now."
 6. A partner, this section, of a me's same-existing: "now-and-same-existing does not exist other than now."
 
-Together, in the resolver: the four names of now with co, 3 to 6; and a 0, by a prior and a now agreeing under one same name.
+Together, in the resolver: the four names of now with co, 3 to 6; and a 0, by a prior and a now of the same parity under one same name.
 
 Brought to the window: the two sayings as said, with the aimings laid in the window's document; and at the exchange, for the managing session to write in, a partner's lines, with the two windings and this section's sentence for the sessions' is-or-is-not rigor.
 
@@ -2423,7 +2423,7 @@ Searched before a line, on main and in the next version, in Exhibit THIRTY, in E
 
 - Exhibit ONE, living: *Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.*
 - Its table, of 8-now-same-existing, a self's next prior parities: *the same, its prior going on, or one inversion*
-- Executed: of 300 priors in the 225 givings, 90 go on as they were, all 90 with the nows of their name agreeing; with all else a prior inverts.
+- Executed: of 300 priors in the 225 givings, 90 go on as they were, all 90 with the nows of their name the same as they are; with all else a prior inverts.
 
 ### Of no possible existing equilibria
 
@@ -2459,11 +2459,56 @@ Brought to the window: the sayings as said, with the aimings laid in the window'
 
 The next version's step 4 has same-existing by the name alone, and in the resolver a now has a prior's name.
 
-**Same-existing is same-named and agreeing.**
+**Same-existing is same-named with the same parity.**
 
 **( is-or-is-not? )**
 
-- Its is, needed for resolving: in the resolver a now comes under a prior's name, and the two are same by agreeing alone, a 0; the saying of now as other-than same-existing is then whole with the code, and section 49's saying has both, naming same and observing is-or-is-not other-than.
+- Its is, needed for resolving: in the resolver a now comes under a prior's name, and the two are same-existing with the same parity alone, a 0; the saying of now as other-than same-existing is then whole with the code, and section 49's saying has both, naming same and observing is-or-is-not other-than.
 - Its is, incohering: the next version's step 4, both partners' is, has the name alone.
 - Its is-not, needed for resolving: step 4 as it is.
-- Its is-not, incohering: a now under a prior's name is then same-existing, parting from the saying; and in the code a prior and a now of one same name, parting, give no 0.
+- Its is-not, incohering: a now under a prior's name is then same-existing, parting from the saying; and in the code a prior and a now of one same name, not same, give no 0.
+
+## 56 Said after: agreeing is not natural naming and explaining; a droplet for it in Natural Naming; redo
+
+Section 55's sentence of is, as offered: same-existing is same-named and *agreeing*.
+
+Said in the session: agreeing is not natural naming and explaining and this word should be added as a suggesting value droplet into natural naming as a dissolving word. redo
+
+Searched before a line, on main and in the next version: the word and its forms in Exhibit TWENTY Natural Naming, in Exhibit THIRTY, in the living files, in the gathering files and in the four sessions' one list.
+
+**Cohering, with Natural Naming's own entry: the word is dissolved there already, of a resolver's parities, and its saying is same.**
+
+- Exhibit TWENTY Natural Naming 2.4, its dissolved words, living on main and in the next version: "agreeing, parting, of a resolver's parities · a same, not same, 12 and 14"
+
+Parting, the word living beyond that entry:
+
+- Exhibit THIRTY's step 35 names it: *Agreeing and parting are one binary of the parities a self receives.*
+- One sweep of the next version: the word or a form of it at 390 places in 27 of the 33 living files, *agreeing* 156 of them. Exhibit TWENTY-ONE Hard Problem Registry has 128, a field's own posings. Exhibit THIRTY has it in sixteen steps.
+- The four sessions' one list has *agreeing or parting* as the natural naming of *joint* and *meeting*, and its instrument passes the word.
+
+This session took the word from step 35 and from the one list, and did not go to Natural Naming 2.4 before a sentence of is.
+
+### The droplet
+
+Laid in Natural Naming's gathering file of the next version, at 2.4, one note, #1044: the word a candidate for the dissolved words at all its places, by a partner's saying; the living file's entry and its saying *same*; the sweep; Exhibit THIRTY's sixteen steps; the one list's row; and a suggesting. No living sentence is re-said. The kit's check in its branch: nothing found, 526 items and 527 now. The main list, old beside new: no line moved.
+
+### Redone
+
+Section 55's sentence and its lines are re-said in section 55, with Natural Naming's saying of the word.
+
+This session's own lines having the word, in its pages and its three instruments executing Exhibit ONE's code: twenty-seven places re-said. Of two parities, *same* and *not same*; of two sentences or two observings, *cohering*; of a session's answer, *is or is-not*. Two quotations are as they are: Exhibit THIRTY's step 641, living, and a gathered note's own words. The three instruments executed after it: fails 0.
+
+Brought to the exchange: the word for the managing session's one list, its row of *joint* and *meeting*; and Exhibit THIRTY's steps for the session with that part of the chain.
+
+### Remaining, by the form
+
+The next version's step 4 has same-existing by the name alone, and in the resolver a now has a prior's name.
+
+**Same-existing is same-named with the same parity.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: in the resolver a now comes under a prior's name, and the two are same-existing with the same parity alone, a 0; the saying of now as other-than same-existing is then whole with the code, and section 49's saying has both, naming same and observing is-or-is-not other-than.
+- Its is, incohering: the next version's step 4, both partners' is, has the name alone.
+- Its is-not, needed for resolving: step 4 as it is.
+- Its is-not, incohering: a now under a prior's name is then same-existing, parting from the saying; and in the code a prior and a now of one same name, not same, give no 0.

@@ -211,7 +211,7 @@ The ordinary words for cooperation already carry a "with", and most began as eat
 | charity, dear | Latin carus: dear, costly. | Dear still means both loved and expensive. |
 | convention | Latin con-venire, to come together. | Hume, 1739: two rowers pull in time by convention, with no promise made. |
 
-Hume's rowers are the oldest plain account of what the session calls mutual belief holding a thing in place. Each pulls because the other does, and no one has agreed to anything.
+Hume's rowers are the oldest plain account of what the session calls mutual belief holding a thing in place. Each pulls because the other does, and no one has promised anything.
 
 ## Gods, faith and the all-powerful
 

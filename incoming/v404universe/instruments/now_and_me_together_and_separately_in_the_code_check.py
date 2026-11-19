@@ -20,16 +20,16 @@ Nine checks, all or none at all:
   2  the entry is given two lists, and both are of now names: 3-now-co-observing and 2-now-possibling
   3  separately, a prior of no now: its next is the prior inverting, and no 0
   4  separately, a now of no prior: its next is the now's direction, and its name goes on as a next prior
-  5  together, agreeing: its next is 0, and its prior goes on as it was
-  6  together, parting: its next is the now's direction, and its next prior is the now's
+  5  together, the same parity: its next is 0, and its prior goes on as it was
+  6  together, not same: its next is the now's direction, and its next prior is the now's
   7  in all givings of two names, a 0 is written for a name of a now, and for no name of a prior alone
   8  in all givings, a name of a prior is a name of a next prior: me, going on by its names
-  9  in all givings, a prior's direction goes on as it was with the nows of its name agreeing with it, and with
+  9  in all givings, a prior's direction goes on as it was with the nows of its name the same as it, and with
      all else it inverts: with no now, no prior goes on as it was
 It closes with its fails.
 
 Returned at main and in the next version, 19 November 2026: the nine as said; 225 givings, 104 with a 0, a 0
-for no name of a prior alone; 300 priors, 90 going on as they were, all 90 with a now agreeing; fails: 0.
+for no name of a prior alone; 300 priors, 90 going on as they were, all 90 with a now the same; fails: 0.
 """
 import glob, inspect, itertools, os, re, sys
 
@@ -74,10 +74,10 @@ nxt, pri = entry([], [('b', 1)])
 check(4, "separately, a now of no prior: its next is the now's direction, and it is a next prior",
       dict(nxt)['b'] == 1 and dict(pri)['b'] == 1)
 nxt, pri = entry([('a', 1)], [('a', 1)])
-check(5, "together, agreeing: its next is 0, and its prior goes on as it was",
+check(5, "together, the same parity: its next is 0, and its prior goes on as it was",
       dict(nxt)['a'] == 0 and dict(pri)['a'] == 1)
 nxt, pri = entry([('a', 1)], [('a', -1)])
-check(6, "together, parting: its next is the now's direction, and its next prior is the now's",
+check(6, "together, not same: its next is the now's direction, and its next prior is the now's",
       dict(nxt)['a'] == -1 and dict(pri)['a'] == -1)
 
 # 7: all givings of two names, a prior of +, - or none, and nows of none, +, -, + and -, or + and +
@@ -105,14 +105,14 @@ for pa, na, pb, nb in itertools.product(priors, nows, priors, nows):
     pri = dict(entry(p, n)[1])
     for k, v in p:
         arriving = {'a': na, 'b': nb}[k]
-        agreeing = bool(arriving) and set(arriving) == {v}
+        same_now = bool(arriving) and set(arriving) == {v}
         priors_seen += 1
         names_on += 1 if k in pri else 0
         same += 1 if pri.get(k) == v else 0
         same_no_now += 1 if pri.get(k) == v and not arriving else 0
-        other_than_said += 0 if pri.get(k) == (v if agreeing else -v) else 1
+        other_than_said += 0 if pri.get(k) == (v if same_now else -v) else 1
 print(f"     priors: {priors_seen}; going on as they were: {same}; of them with no now: {same_no_now}")
 check(8, "in all givings a name of a prior is a name of a next prior", names_on == priors_seen)
-check(9, "a prior's direction goes on as it was with its nows agreeing, and with all else it inverts",
+check(9, "a prior's direction goes on as it was with its nows the same as it, and with all else it inverts",
       other_than_said == 0 and same_no_now == 0 and same > 0)
 print(f"fails: {fails}")

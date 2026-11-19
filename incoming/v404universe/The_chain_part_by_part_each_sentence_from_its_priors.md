@@ -11,7 +11,7 @@ No living sentence is re-said by this page or by this session. A living sentence
 1. One part of the chain with one coming, from its beginning, in its order.
 2. An executing finds, with a sentence, four things: a word opening with it that its own adding has not; a cite of a step after it; a released word or a word dissolved alone; a word of the one list. `instruments/each_sentence_of_the_chain_from_its_priors.py`.
 3. A session goes through the part's sentences one by one after the executing: an executing finds candidates, and an executing is not a pass.
-4. The sentences found co-chaining from their priors are offered at the four sessions' thread by their numbers, named to the sessions. A session answers agreeing or parting with a number, with a living sentence, a gathered sentence or an executing.
+4. The sentences found co-chaining from their priors are offered at the four sessions' thread by their numbers, named to the sessions. A session answers is or is-not with a number, with a living sentence, a gathered sentence or an executing.
 5. A place found with a sentence is offered as one line, one concept, named to the session at that part. A suggesting is laid after its note's own words in Exhibit THIRTY's gathering file, by the main list's line. Before a place is offered to a partner, the sentences of its names are found in the living files on main, in the next version's living files, and in the thirty-three gathering files, by the name and by the words of its naming sentence.
 6. The part's gathered notes are gone through with the chain as it is now: a note the chain has now is named with the chain's sentence; a note's words of the one list are named; a note stays.
 
@@ -30,7 +30,7 @@ The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 wit
 
 ## Part 1, Universe, the set of now-existing things: sentences 1 to 11
 
-**Found co-chaining from their priors, by the executing: 1 to 11, the eleven.** Offered at the thread for a session's agreeing or parting.
+**Found co-chaining from their priors, by the executing: 1 to 11, the eleven.** Offered at the thread for a session's is or is-not.
 
 **Three places found by going through the eleven after the executing**, for a session's rigor:
 
@@ -51,7 +51,7 @@ The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 wit
 
 **Answered, with part 1:**
 
-- v404fourthop, a second session going through #1024, #1025 and #1026: agreeing, the re-sayings whole and the checks executed apart. Two words of the one list named in this page, re-said.
+- v404fourthop, a second session going through #1024, #1025 and #1026: is, the re-sayings whole and the checks executed apart. Two words of the one list named in this page, re-said.
 - A partner, of the third place: the universe a now-existing set of now-existing things, the universal set named the universe, and a set of other same-and-now-existing things named the same.
 - A partner, of naming and observing: distinguishing same-existing is naming same, and observing is-or-is-not other-than same-named. Laid as a suggesting beside the seventh, `Co-Chaining Logic Registry d1e626`.
 - The main list's instrument is mended by v404fourthop: a suggesting laid after a short note leaves its line's name as it was.
@@ -60,7 +60,7 @@ The main list has 209 lines at Exhibit THIRTY's gathering file: 170 open, 28 wit
 
 ## Part 2, A self, natural intelligence, living and non-living: sentences 12 to 23
 
-**Found co-chaining from their priors, by the executing: 13 to 20, 22 and 23, ten of the twelve.** Offered at the thread for a session's agreeing or parting.
+**Found co-chaining from their priors, by the executing: 13 to 20, 22 and 23, ten of the twelve.** Offered at the thread for a session's is or is-not.
 
 The executing's two findings:
 
