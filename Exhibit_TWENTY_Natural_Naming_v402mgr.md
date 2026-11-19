@@ -426,7 +426,7 @@ Each entry: **Dissolved** · *a* Said by
 - *coefficient one* · *a* a sharing with nothing beside it, + or − alone, no magnitude
 - *beat* · *a* a self's own sequencing; a beat over changing is a clock, 4.9
 - *species* · *a* *kind*, Co-Chaining Logic Registry step 309
-- *same-existing-as* · *a* *same-existing*, a now-existing thing from a prior-existing same thing, or *same as*, of a parity
+- *same-existing-as* · *a* *same-existing*, same-named, or *same as*, of a parity
 - *in*, *out*, of a place · *a* *of*, of a set, and *with*
 - *stand*, *stands* · *a* *is*, *has*, *goes on*
 - *interlock* · *a* a between locks with none, 5.5

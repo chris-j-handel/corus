@@ -7,7 +7,7 @@ Natural Intelligence v403mgr
 We humans are now-existing. \
 The **universe** is the set of now-existing things. \
 No universe other-than the universe is possibly now-existing. \
-A now-existing thing from a prior-existing same thing is a **same-existing** thing. \
+**Same-existing** is same-named. \
 A **universal set** is a set of same-existing things. \
 A now-existing thing **is-or-is-not** of a universal set. \
 **Observing** is prior-existing, is-or-is-not same-existing. \
@@ -1702,7 +1702,7 @@ With code, 6 is 10, one list with two names, of a sharing self. A parity goes on
 
 **Discovering is next-existing, is-or-is-not same-existing, directionally.**
 
-**Now same-existing is invisible and dissolving with next existing**. Same-existing, a now-existing thing from a prior-existing same thing, is-or-is-notting next existing. Geodesic existing along changing can travel through same-existing and leave it same-existing. **Existing is possibling other**. Possibling travels through existing, and existing through possibling.
+**Now same-existing is invisible and dissolving with next existing**. Same-existing, same-named, is-or-is-notting next existing. Geodesic existing along changing can travel through same-existing and leave it same-existing. **Existing is possibling other**. Possibling travels through existing, and existing through possibling.
 
 **Four-momentarying is one fractal method, discovering next existing within the universe and next living with self, other and same-existing-society**: four moments of exchanging. One through nine are with a self. Nine through seventeen are with a same-existing-society. Each passes through, torusing through a large opening and corusing through a small. **Four-momentarying is four unrelationings through a tunneling self**, two to its corus and two from it. Each unrelationing winds on, open, with φ, its unrelationing rate.
 
