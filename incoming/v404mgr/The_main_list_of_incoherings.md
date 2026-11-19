@@ -2,7 +2,7 @@
 
 *The session v404mgr, 18 November, by a partner's word: the incoherings of the living file set lie in the open, in one list, for a session to pick up, cohere into the work, and return with its improving suggesting laid beside the incohering it is of. A session needing a resolving picks it up from the same place.*
 
-The list is [`The_main_list_of_incoherings.csv`](The_main_list_of_incoherings.csv), beside this page: one line for one note of a gathering file of the next version, a possible incohering or an asking. On 18 November it is 2364 lines of 33 gathering files: a suggesting in it 355, an open sentence 241, answered 11, open 1757.
+The list is [`The_main_list_of_incoherings.csv`](The_main_list_of_incoherings.csv), beside this page: one line for one note of a gathering file of the next version, a possible incohering or an asking. On 18 November, written again from the next version with offers 999, 1000 and 1002 and main's 1001 in it, it is 2364 lines of 33 gathering files: a suggesting in it 355, an open sentence 239, answered 11, open 1759.
 
 ## A line
 
@@ -26,15 +26,15 @@ A suggesting does no harm: it re-says no living sentence, and it lies with its i
 
 | A gathering file | Lines | Open | A suggesting in it | An open sentence | Answered |
 |---|---|---|---|---|---|
-| Natural Intelligence | 641 | 433 | 71 | 135 | 2 |
+| Natural Intelligence | 642 | 433 | 71 | 136 | 2 |
 | Natural Naming | 350 | 308 | 23 | 18 | 1 |
-| Co-Chaining Logic Registry | 208 | 169 | 28 | 4 | 7 |
+| Co-Chaining Logic Registry | 209 | 170 | 28 | 4 | 7 |
 | Me | 193 | 190 | 3 | 0 | 0 |
 | Natural Chemistry | 115 | 44 | 62 | 9 | 0 |
-| Geodesic Improving Method | 112 | 81 | 23 | 7 | 1 |
+| Geodesic Improving Method | 109 | 81 | 23 | 4 | 1 |
 | Natural Physics | 85 | 78 | 1 | 6 | 0 |
 | Natural Societies | 78 | 45 | 30 | 3 | 0 |
-| Natural Resolver | 62 | 33 | 5 | 24 | 0 |
+| Natural Resolver | 63 | 34 | 5 | 24 | 0 |
 | Natural Intelligence Corus | 56 | 24 | 31 | 1 | 0 |
 | Natural Biology | 51 | 44 | 6 | 1 | 0 |
 | Natural Explaining | 50 | 45 | 4 | 1 | 0 |
