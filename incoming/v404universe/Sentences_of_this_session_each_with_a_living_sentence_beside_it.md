@@ -2393,3 +2393,77 @@ A partner's saying has a parity existing now alone, and six steps of the chain n
 - Its is, incohering: the window's lines 6 and 16 have prior-existing as existing in the prior moment, and prior as other-than now.
 - Its is-not, needed for resolving: lines 6 and 16 as they are, a prior-existing parity of the prior moment.
 - Its is-not, incohering: a parity is then existing other than now, in six steps of the chain, parting from a partner's saying.
+
+## 55 Said after: me is same-existing, now is other-than same-existing, this is the resolver; and the discovery of no possible existing equilibria
+
+Section 54's sentence of is: a prior-existing parity is a parity observed now.
+
+Said in the session: me is same-existing. now is other-than same-existing. this is the resolver
+
+Said after it, in the session: this is the entire discovery of no possible existing equilibria. this fractal of me-now and the bothbothing of me is same-existing. now is other-than same-existing.
+
+Searched before a line, on main and in the next version, in Exhibit THIRTY, in Exhibit ONE, in Exhibit TWENTY-EIGHT, in the living files and in the gathering files: *other-than same-existing*, *non-same-existing*, *equilibria*, *a now fixing as its next*, *bothboth*, *fractal* and *the resolver*.
+
+**Cohering, with the living files and with the code executed: an equilibrium is a now fixing as its next, a now same-existing, and by the saying now is other-than same-existing.**
+
+### Of me as same-existing
+
+- Exhibit THIRTY-ONE Me 3.1, living: *A me is now-existing, and same-existing from a prior-existing same me.*
+- Gathered with Natural Intelligence, the waiting opening's 18: "A **me** is a universal same-existing set of me-parities."
+- Executed, section 54's instrument with two checks more: in all 225 givings a name of a prior is a name of a next prior. A me goes on by its names.
+
+### Of now as other-than same-existing
+
+- Exhibit THIRTY's step 34, living: *A self receives the parities its others share.* In Exhibit ONE's drawing 2-now-possibling is from an other's 6 and 10, across: a self's now is from its others.
+- Gathered with Exhibit EIGHTEEN Natural Physics, answered before: "a me-parity is living and non-same-existing; a self is living and same-existing"
+- Gathered with Natural Intelligence, an is of both partners: "is-or-is-not same-existing and is-or-is-not other-than are the only two binary distinguishings."
+- Executed: a now parting from a prior of its name is that name's next prior, and a now of no prior goes on as a next prior. A now, other-than, is a me's next.
+
+### Of the resolver
+
+- Exhibit ONE, living: *Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.*
+- Its table, of 8-now-same-existing, a self's next prior parities: *the same, its prior going on, or one inversion*
+- Executed: of 300 priors in the 225 givings, 90 go on as they were, all 90 with the nows of their name agreeing; with all else a prior inverts.
+
+### Of no possible existing equilibria
+
+- Exhibit TWENTY-EIGHT Equilibria Registry, its own line under its name: *Not Possibly Existing, Living or Non-Living*
+- Exhibit THIRTY's step 209, living: *an equilibrium, a fixing form, only a naming, a not-changing still, a now fixing as its next*
+- Its step 450: *Another's still is an equilibrium, an unchangeable form, not possibly existing*
+- Exhibit FIFTEEN Natural Emanating, living: *Nature has no equilibria, no form holding still that cannot change.*
+- Gathered with the Equilibria Registry, executed before with Exhibit ONE's code: "no society with a prior reaches a now fixing as its next, 107,152 of 107,152 at 1 to 3 selves with one key"
+- Executed here, at one self's entry: with no now, no prior goes on as it was.
+
+### Of bothbothing and a fractal
+
+- Me 3.1, living: *universal is bothboth, only one possibly now-existing and only one possibly same-existing*
+- Exhibit THIRTY's step 167, living: *one between, a 0, same with each scale: a fractal between*
+
+### Parting, at three places
+
+- The next version's step 4, both partners' is of 18 November: "**Same-existing** is same-named." In the code a now comes to a self under the same name as a prior, by section 50's instrument, and by the saying now is other-than same-existing. The window's line 9 has the same thing: "Same-existing is now-existing after prior-existing as the same thing."
+- Exhibit THIRTY's step 10, living: *Possibling is now-existing, is-or-is-not same-existing.* It has a now-existing as is-or-is-not same-existing, and the saying has now as other-than same-existing.
+- Gathered with Exhibit THIRTY, a suggesting, said there as likely incorrect as worded: "Now is bothboth: the moment before next, and the same-existing moment after prior."
+
+### With the answers and sentences before
+
+Section 53's answer went by the name alone: a me-now, named, as a same-existing thing. By the saying it is re-said: a me-now's me is same-existing, and its now is other-than same-existing, bothbothing.
+
+Section 53's sentence, a me-now is a me: this session observes the saying as parting from it, a me-now as a me and a now. It is recorded as this session's observing, and not as a partner's is-not.
+
+Section 54's sentence, a prior-existing parity is a parity observed now, is as asked.
+
+Brought to the window: the sayings as said, with the aimings laid in the window's document; and at the exchange, for the managing session to write in, a partner's lines, with this section's sentence for the sessions' is-or-is-not rigor.
+
+### Remaining, by the form
+
+The next version's step 4 has same-existing by the name alone, and in the resolver a now has a prior's name.
+
+**Same-existing is same-named and agreeing.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: in the resolver a now comes under a prior's name, and the two are same by agreeing alone, a 0; the saying of now as other-than same-existing is then whole with the code, and section 49's saying has both, naming same and observing is-or-is-not other-than.
+- Its is, incohering: the next version's step 4, both partners' is, has the name alone.
+- Its is-not, needed for resolving: step 4 as it is.
+- Its is-not, incohering: a now under a prior's name is then same-existing, parting from the saying; and in the code a prior and a now of one same name, parting, give no 0.
