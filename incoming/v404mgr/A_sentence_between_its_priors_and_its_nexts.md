@@ -28,6 +28,16 @@ A thread goes from a word of the sentence back to the place a reader has that wo
 4. **What the check found.** A skip, a gap, a twist, an incohering, a duplicate, or a word written two ways. One line for one.
 5. **Result.** Its mark, with the reason it sits.
 
+## The report, with a reply
+
+A reply shows the working section whole: its ten to twenty lines, in order, a line with its mark and one short note.
+
+- **Both:** both partners agree, up to and with this line.
+- **Floating:** a line under improving. Its note says if it follows from the lines before it, and gives a suggested improving, or none.
+- **Live:** a line as it is in the living file, not yet checked.
+
+Under the section: its origin, its aiming, and the one place the improving is now. A line's words are threaded back and forward by the session as it checks; the threads are not printed word by word.
+
 ## What a partner asked of it
 
 - A sentence comes to a partner with its priors and its nexts written out. A sentence is both only between them.
