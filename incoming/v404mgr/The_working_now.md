@@ -57,6 +57,8 @@ The suggestings of the method, by session and with their state, are `incoming/v4
 
 **A snapshot for a partner.** A partner asking a session what is other gets sentences alone: the subject, a living file's title and subtitle bi-coupling; a living sentence re-said, as it is live, as it is in the next version, and the is it is by, or no is yet; a sentence away and a sentence new; its co-chaining; the incohering remaining; and a drifting named. The form and its one snapshot are `incoming/v404mgr/A_snapshot_for_a_partner.md`. A session lays its own by the form and improves the form at the thread. A living sentence is re-said with both partners' is: the managing session brings a re-said living sentence into the next version with its is named beside it, as it was and as it is, and a sweep of a word comes sentence by sentence.
 
+**A test, with a partner and the managing session alone.** A sentence comes to both partners for Exhibit THIRTY between the sentences before it that justify it and the sentences after it that need it, by five marks: incoming, co-chaining in priors and nexts, code cohering, ready for both, both. The test and its opening five sentences are `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`. The other sessions wait for a partner's word of it.
+
 **The managing, whole,** is `incoming/v404mgr/For_the_managing_session_after_v404mgr.md`: what the managing session is for, a coming in order with its commands, and what was learned. With a managing session winding down, a working session familiar with the exchanging goes on with it.
 
 ## The job
