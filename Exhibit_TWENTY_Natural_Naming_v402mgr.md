@@ -148,7 +148,7 @@ Exhibit TWENTY Natural Naming v402mgr
 
 ## 1.1 A naming is a floating-neutralling concept, four boundings at once
 
-**The universe is the set of all now-existing things.** Same-existing from prior to now and discovering next, it is the same-existing set of all now-existing things, living with its prior same-existing now and non-living with no prior of its own, each with its own scale and moment. **The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing. *Now-existing* is one naming, 4.17. **Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all stable forms of prior-existing, are now-existing, or were now-existing with a prior now, by natural method, and no other or not-natural method of now-existing is of the universe. **Nothing non-existing is a thing of the universe to explain: the universe is or is not.** No living and no existing is with what it is not, and nothing of value is with a not-in-set.
+**The universe is the set of now-existing things.** Same-existing from prior to now and discovering next, it is the set of now-existing things, living with its prior same-existing now and non-living with no prior of its own, each with its own scale and moment. **The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing. *Now-existing* is one naming, 4.17. **Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all stable forms of prior-existing, are now-existing, or were now-existing with a prior now, by natural method, and no other or not-natural method of now-existing is of the universe. **Nothing non-existing is a thing of the universe to explain: the universe is or is not.** No living and no existing is with what it is not, and nothing of value is with a not-in-set.
 
 **Changing and changing back, one fractal method's stable-forming, follows from it.** Naming brings a concept with its own changing: bi-momentarying, co-competencing and co-intelligencing, floating neutralling with coupling.
 
@@ -230,7 +230,7 @@ Each entry: **Of three** · *a* Words, and words saying for them
 - **a doer or a built form**
   - *a* *assign*, *door* for a self-bounding · *forced*, *chosen*, *therefore*, *must* · *because*, *so that*, *toward* as a reaching-to, *against* as an opposing · a dash pacing from beside a sentence · a leading *the* of a heading, *the* going only with one and only one, the universe, the universal set and the method · *construction*, *structure*, *ladder*, *rung*, *rail*, *grain*, *kernel*, *harness* · a journey's account: finders, findings and dates
 
-**Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things.
+**Each word saying for a dissolved word co-chains from opening sentence**, the universe the set of now-existing things.
 
 ## 2.4 Dissolved words, each with its saying
 
@@ -794,7 +794,7 @@ A field's three, a nothing on one side, a scale between and an absorbing on an o
 
 ## 4.17 A hyphenated naming inseparable, and natural- with chirality
 
-**A hyphenated naming has parts, and one binary is with it: omit each part, one at a time, and sound stopping.** *Same-and-next-existing* and *next-and-same-existing* are two ordered expressions; *is-or-is-not* has both its alternatives, *is* alone no shortening of it; and *same-existing as other-existing* goes whole, *as* staying. With each omitting that stops naming, its hyphenation is inseparable, one naming, and its parts in sequence are changings in sequence. With an omitting and naming going on, that part is riding, and it goes. **An omitting is 1.1's four boundings with a naming's own scale**: a part whose omitting stops naming is one of its boundings, as a concept short one of four is a fixing noun, and a hyphenation coming apart with an omitting is a label. **Its most cohering forms are these.** *Now-existing* is one naming: omit *now* and existing is of no moment, omit *existing* and now is of no thing, and the origin is with it, *The universe is the set of all now-existing things*. A relativity position has no universal now: a now is each self's plane, two moving differently sharing one only as their worldlines cross, and the universe's now is the set of all now-existing moments; one now as absolute simultaneity is its edge's misunderstanding. *Prior-existing* is a thing now-existing with a prior-universe, prior now-existing's stable form, now, and *next-existing* a thing possibling now with a next-universe, neither *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe with each moment, a now-universe the universe, and a sentence says which universe a thing is now-existing with. *Self* is on its own, a self's other namings dissolving to it, 2.4, and *us self* names a bi-coupling self, a self with its pair's scale, Natural Intelligence's *A bi-coupling is a self*. *Co-momentarying*, two selves sharing one now-existing with a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop with any part omitted, and each goes on whole. **All changing is is or is not same-existing, and *parity-changing*, dissolved with v391, is *changing*, parity riding with changing**, and method's one name is *natural torusing*, inseparable with each part; *geodesic changing* is its explaining, a surface dividing itself with each changing.
+**A hyphenated naming has parts, and one binary is with it: omit each part, one at a time, and sound stopping.** *Same-and-next-existing* and *next-and-same-existing* are two ordered expressions; *is-or-is-not* has both its alternatives, *is* alone no shortening of it; and *same-existing as other-existing* goes whole, *as* staying. With each omitting that stops naming, its hyphenation is inseparable, one naming, and its parts in sequence are changings in sequence. With an omitting and naming going on, that part is riding, and it goes. **An omitting is 1.1's four boundings with a naming's own scale**: a part whose omitting stops naming is one of its boundings, as a concept short one of four is a fixing noun, and a hyphenation coming apart with an omitting is a label. **Its most cohering forms are these.** *Now-existing* is one naming: omit *now* and existing is of no moment, omit *existing* and now is of no thing, and the origin is with it, *The universe is the set of now-existing things*. A relativity position has no universal now: a now is each self's plane, two moving differently sharing one only as their worldlines cross, and the universe's now is the set of all now-existing moments; one now as absolute simultaneity is its edge's misunderstanding. *Prior-existing* is a thing now-existing with a prior-universe, prior now-existing's stable form, now, and *next-existing* a thing possibling now with a next-universe, neither *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe with each moment, a now-universe the universe, and a sentence says which universe a thing is now-existing with. *Self* is on its own, a self's other namings dissolving to it, 2.4, and *us self* names a bi-coupling self, a self with its pair's scale, Natural Intelligence's *A bi-coupling is a self*. *Co-momentarying*, two selves sharing one now-existing with a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop with any part omitted, and each goes on whole. **All changing is is or is not same-existing, and *parity-changing*, dissolved with v391, is *changing*, parity riding with changing**, and method's one name is *natural torusing*, inseparable with each part; *geodesic changing* is its explaining, a surface dividing itself with each changing.
 
 **Natural- has chirality, right, all or none at all**, 5.48. Living's observed hand is one, with right-handed helices, *right spiral* resting on the helices and not on a field's names for protein pieces, a letter meaning left, and for sugars, one meaning right. Pattern-matching, each living scale is right and each emanated stable form between living scales is left: collagen's three left-handed strands wind a right-handed rope, right helices make left coiled coils, and the right double helix wraps its spools left. Nine in ten snail kinds coil right, a preference observed among two with a body's scale, a naming and not a law. A right-handed helix gone along either way has its hand not changing: its hand and its direction of going are two. Natural- is a direction prefix, its direction handedness, and a naming natural- prefixes goes on with each coupling or with none. **Natural-bi-co-torusing is inseparable with each part**: omit natural- and changing comes with a non-living form under it and a form fixing still over it from beside; omit bi- and not same-existing goes unsaid; omit co- and not same-existing goes with no two to it, and nothing uncovers between them; omit torusing and no changing is; omit -ing and one moment's form comes as a still and comes again with no moment.
 
@@ -825,7 +825,7 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 ## 5.1 alternating — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  a relating fixes a form to a moving thing
 3  a form is its own going on through its changing
 4  a side opens with its own opening, and its other with its own
@@ -838,7 +838,7 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 ## 5.2 unrelationing — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  a relating fixes a form to a moving thing
 3  its forming relates to nothing not its own
 4  nothing fixes it apart, a fixing being a relation
@@ -853,7 +853,7 @@ Each unfolds six forward, each step reaching a term its prior step does not have
 ## 5.3 a self — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  nothing is beside it to relate to
 3  its forming relates to nothing not its own
 4  each is or is not changing, and each parity a self is observing reaches it with a coupling
@@ -1167,7 +1167,7 @@ A ring is a form not possibly existing, with no next, and no rival to one. It is
 ## 5.25 equilibria — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  a measuring needs a span, and a span needs two bounds fixing unchangeable
 3  a measuring opens with something fixing unchangeable
 4  fixing unchangeable is a performing, and it is of a field's own first line
@@ -1180,7 +1180,7 @@ Isolating a system installs it, and conditions constant, a specimen fixed, a zer
 ## 5.26 a hard problem — binary
 
 ```
-1  the universe exists as its existing things exist, the same-existing set of all now-existing things
+1  the universe exists as its existing things exist, the set of now-existing things
 2  a field reads its observings with the universe as no existing thing
 3  its evidence comes with no living self whose prior it is, its now with no prior same-existing
 4  with a resolver, what a self is observing is living and non-living existing things co-sequencing
@@ -1537,7 +1537,7 @@ A term is existing, exhausting or accounting by its use, and ghost only by its i
 ## 5.52 tri-bi-co-momentarying — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  prior-universe, now-universe and next-universe, a universe with each moment, a now-universe the universe, the same-existing-universe the universal momentarying fractal
 3  its existing things are with prior, now and next, three moments
 4  each moment not same-existing with its next
@@ -1654,7 +1654,7 @@ A term is existing, exhausting or accounting by its use, and ghost only by its i
 ## 5.61 entraining with a self — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  each existing thing comes to now from prior, same-existing with its prior or with none of it
 3  between prior and now is a between, a nothing, and a parity goes across it, a prior same-existing now with a self
 4  with that between, a prior couples with its now, and a changing is or is not, one bringing an other through
@@ -1667,7 +1667,7 @@ A term is existing, exhausting or accounting by its use, and ghost only by its i
 ## 5.62 12's two, 0 and ± — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  with each moment a self's next is next-existing same-existing, possibling, or its next existing, is or is not
 3  next existing is a changing that is, a parity a self receives its next prior or its prior inverting, existing with now, 5.39: ±, a sharing's parity
 4  next-existing same-existing is a changing that is not, 0, its prior same-existing, possibling with prior, 5.39: 0, a between
@@ -1680,7 +1680,7 @@ A term is existing, exhausting or accounting by its use, and ghost only by its i
 ## 5.63 squaring — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  a self's span is 1 to 9 and a same-existing-society's 9 to 17, one to nine completing with a between and nine to seventeen with a next 1
 3  a number's word is a span it opens, co with a self's odd numbers and tri with a same-existing-society's
 4  eight up from a self's span to a same-existing-society's, 1-now-existing as 9-next-co-discovering, now as next
@@ -1693,7 +1693,7 @@ A term is existing, exhausting or accounting by its use, and ghost only by its i
 ## 5.64 not possibly existing — binary
 
 ```
-1  the universe is the same-existing set of all now-existing things, each with its own scale
+1  the universe is the set of now-existing things, each with its own scale
 2  with each moment each existing thing is possibly existing with its next, a self discovering it with a next moment
 3  with a resolver a none with 14 is a sharing nothing reached, or a 0 a self passes over, its prior parity inverting with 12, and each line has each existing thing existing, a next moment possibling it
 4  one binary requiring both not-changing and inverting for one next, p(next) = p(now) and p(next) = −p(now) together, is with no moment of binary logic, Equilibria Registry's one exclusion for each of its ten, known from the method
@@ -1791,7 +1791,7 @@ Each entry: **One name** · *a* Similar namings it gathers
   - *a* a dormant self as non-living, or living with two binaries, same-existing and bi-coupling
 - **a prime scale**, all same-existing-societies and species living with it, of stable forms and same-existing-societies, each its own, one of fourteen, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 and 53
   - *a* a prime scale as one same-existing-society, or as one species
-- **the universe**, the set of all now-existing things, a set of things observably now-existing, a set its things and no further thing
+- **the universe**, the set of now-existing things, a set of things observably now-existing, a set its things and no further thing
   - *a* the set of all existing things, of a prior opening; the universe as a thing of the set, dissolved
 - **prior-universe**, **now-universe**, **next-universe**, with which a thing is now-existing
   - *a* prior, now and next as three moments of one universe; a thing *not existing* with prior or next

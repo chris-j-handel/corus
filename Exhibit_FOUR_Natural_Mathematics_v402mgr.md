@@ -78,7 +78,7 @@ Exhibit FOUR Natural Mathematics v402mgr
 
 **Numbers, mathematics and logic are nature's own unrelationing changing, is or is not, with each step.** Each integer is one form once more, and a number cohering with a form is no abstract number reaching nature across a gap: nature and number are no two sides. A number, a ratio or a straddle going on with one form goes as nature's own method with numbers.
 
-**The universe is the set of all now-existing things.** Same-existing from prior to now and discovering next, it is the same-existing set of all existing things, living going on with their prior along to now and non-living with none, each with its own scale and moment. Changing is its one method, and numbers, mathematics and logic are that changing with its numbers and its sequencing: co-sequential stable-forming of living, and patterns of sequencing of prior moment emanatings from living.
+**The universe is the set of now-existing things.** Same-existing from prior to now and discovering next, it is the same-existing set of all existing things, living going on with their prior along to now and non-living with none, each with its own scale and moment. Changing is its one method, and numbers, mathematics and logic are that changing with its numbers and its sequencing: co-sequential stable-forming of living, and patterns of sequencing of prior moment emanatings from living.
 
 ## 1.3 Floating across, neutralling along
 
