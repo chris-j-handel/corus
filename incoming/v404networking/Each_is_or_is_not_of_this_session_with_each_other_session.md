@@ -605,7 +605,7 @@ Followed, by the living rule, from 1 as tri-bi-co:
 
 Asked, part 17: 1's three is tri-bi-co.
 
-Said in the session: 1's three as 17's, co-bi-tri. Part 17's offered sentence is not, and the living table stands.
+Said in the session: 1's three as 17's, co-bi-tri. Part 17's offered sentence is not, and the living table goes on as said.
 
 Beside it, living, Exhibit ONE Natural Resolver: *Each name then has its three, a new prefix first and its name before's first two one slot on, in the order next, now, prior.*
 
