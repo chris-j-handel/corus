@@ -2512,3 +2512,71 @@ The next version's step 4 has same-existing by the name alone, and in the resolv
 - Its is, incohering: the next version's step 4, both partners' is, has the name alone.
 - Its is-not, needed for resolving: step 4 as it is.
 - Its is-not, incohering: a now under a prior's name is then same-existing, parting from the saying; and in the code a prior and a now of one same name, not same, give no 0.
+
+## 57 Said after: is not; see the own-parity concept and resume helping
+
+Section 56's sentence of is: same-existing is same-named with the same parity.
+
+Said in the session: is not. see the own-parity concept and resume helping
+
+**A partner's is-not: same-existing is same-named with the same parity, is not.**
+
+### The own-parity concept, as it is in the window
+
+The window's document, a partner's lines with the managing session, after its line 17:
+
+- Line 18: "Two different things are two things other-than one another."
+- Line 19: "For two different things, their own-parity is the thing between them."
+- With no number yet: "A bi-coupling is a set of two different things and their own-parity."
+- In its writing: a line of all-parity, for a bi-coupling.
+
+*Own-parity*, as one name, is in no living sentence and in no gathered sentence, on main and in the next version.
+
+### With section 56's sentence
+
+This session's observing, and no partner's saying: section 56's sentence had two parities, a prior's and a now's, set beside one another as same. By line 19 two different things have one, their own-parity, the thing between them.
+
+### Searched, in Exhibit THIRTY before all else, and found living
+
+*Own parity*, as two words, is in nineteen steps of the chain, a self's own. Of them, and with them:
+
+- Step 180: *Each parity is its own exchanging, between two: a self and an other, same or one inversioning between them, step 100.*
+- Step 390: *A living self receiving its own parity shares 0 with 10, a not-changing, and is same-existing*
+- Step 286: *bi-couplings, each self's own with each self it is bi-coupling with, each parity going on to a self it reaches, and what two selves share arising only in both together*
+- Steps 24 and 25: *A bi-coupling is two selves sharing possibling.* and *A bi-coupling is a self.*
+- Exhibit ONE: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.*
+- Exhibit ONE, of a self's now and of its prior: *2 other-parity now-existing, other selves' parities reaching a self with 2-now-possibling* and *3 self-parity now-existing, a self's prior parities with 3-now-co-observing*
+
+Step 390 is the living sentence section 56's sentence went toward: a self receiving its own parity is same-existing. This session's search for sections 55 and 56 went by *parity* with *now*, and did not go by *own parity*.
+
+### Executed
+
+An instrument of this session, `instruments/their_own_parity_between_two_selves_in_the_code_check.py`, takes Exhibit ONE's code as it is: a self and its other with one name, a self's 6 going to its other, four openings and 24 moments of 17-next-existing for one opening. On main and in the next version: five checks, fails 0.
+
+- In all moments a self and its other both have the name, with a direction, in their own priors.
+- Between the two is one of two, same or one inversion, as step 180 has it, and it is as it opened in all 96 moments.
+- No direction of a self goes on as it was through two moments.
+- A 0 goes between the two from both together or from none: 24 moments of the 96, all of them with same between the two.
+
+Cohering with line 19 and with a partner's saying of section 55: the thing between the two goes on the same through all moments, and a self's own direction of it does not.
+
+### Parting, one place
+
+The window's line has a bi-coupling as a set of two different things and their own-parity. Steps 24 and 25, above, have a bi-coupling as two selves, and as a self.
+
+### Brought to the window
+
+Two comments in the window's document, with no line re-said: at line 19, step 180 and the executing; at the line of a bi-coupling, steps 24 and 25. And at the exchange, for the sessions.
+
+### Remaining, by the form
+
+The window's line of a bi-coupling is of two different things, and the chain's steps 24 and 25 are of two selves.
+
+**Two non-living things with their own-parity are a bi-coupling.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: the window's line as it is, of two different things, with living needed at me-parity alone, by a partner's note in that line.
+- Its is, incohering: step 25 has a bi-coupling as a self, and step 17 has a self as living: two non-living things are then a living self.
+- Its is-not, needed for resolving: steps 24 and 25 as they are, a bi-coupling of two selves.
+- Its is-not, incohering: the window's line names the set of two different things and their own-parity a bi-coupling, and two non-living things are two different things.
