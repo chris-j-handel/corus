@@ -2140,3 +2140,12 @@ By these: the same thing of lines 9 and 10 is the name. A name is same-existing,
 **A name is a same-existing thing.**
 
 The place it closes: open question 4, after line 12. By line 9 a name is now-existing after prior-existing as the same thing, and by lines 11 and 12 its things are the things named by it. It is Natural Naming 5.20's live sentence in the window's words, and it brings no other meaning to a line of the window.
+
+Said in the session after it: "yes add this and we can continue do no harm improving on the team with the other session and asking helping and commenting about the method itself as we have four other waiting sessions when we like the method of working this way."
+
+Added by it, in the window's document: one row under line 12, the line one step in, its mark *suggested 3, v404universe*, with its reason as the third footnote. Its row is with no number: the lines' numbers are cited by the footnotes and the open questions, and the managing session numbers the window again.
+
+Found with the adding, of the method:
+
+- The document and the window's page part: a partner has re-said lines 2 and 3 in the document after the page's hour, and the page's open question 4 says *co-chain* and the document's says *meet*.
+- The window's page has a session's line two steps in under the line it answers. The method's page and the document have a line a session suggests in an opening one step in. This session's line is of an opening, one step in.
