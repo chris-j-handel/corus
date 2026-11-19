@@ -38,7 +38,7 @@ THE_THREE_AS_A_WORD = re.compile(r"\b(?:[Aa]n|[Tt]he|[Ee]ach|[Oo]ne|[Aa]|gathere
 
 
 def askings(line):
-    """Each asking of a note: the three named as a word, before it or after it, passed over."""
+    """The askings of a note: the three named as a word, before it or after it, passed over."""
     return [a for a in ASKING.finditer(line)
             if not NAMING_THE_THREE.match(line, a.start())
             and not THE_THREE_AS_A_WORD.search(line[max(0, a.start() - 14):a.start()])]
