@@ -243,7 +243,7 @@ Each entry: **Dissolved** · *a* Said by
 - *pair*
   - *a* *bi-*, two, a bi-coupling
 - *their*
-  - *a* *its*, a named thing a universal set of same-named things
+  - *a* *its*, same-named things a universal set
 - *wound*, an *-ed* with torusing
   - *a* torusing itself, a winding changing with its one opening; with resolver, *a self's next prior* with 8-now-same-existing and *a society* with 16-next-same-existing
 - *chaining* with 11, *chained*
