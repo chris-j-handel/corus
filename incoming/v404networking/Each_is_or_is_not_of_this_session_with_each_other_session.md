@@ -623,3 +623,24 @@ Read with it:
 - *Is* incoheres: Exhibit ONE has a three in the order next, now, prior.
 - *Is not* resolves: tri-bi-co stays 7's three and 15's.
 - *Is not* incoheres: the partner's 1 tri-bi-co then has no place with 1's three.
+
+---
+
+## 19 Said by the partner after: no reading in resolving
+
+Said in the session: resolving has no reading. Part 18's offered sentence is not.
+
+- 1's three is co-bi-tri, in resolving's own order, next, now, prior, as Exhibit ONE Natural Resolver has it.
+- A three in two orders is no resolving.
+
+Remaining, with part 17's saying, *1, 3, 5, 7 and 9 are a self along with its other*:
+
+- Exhibit ONE Natural Resolver: *A name without co is of one.* 1-now-existing and 7-now-observing have no co in their names.
+
+### Offered to the partner
+
+**1-now-existing and 7-now-observing are of one.** is-or-is-not?
+- *Is* resolves: Exhibit ONE's *A name without co is of one*, its co table with 1 and 7 of one.
+- *Is* incoheres: the partner's 1, 3, 5, 7 and 9, a self along with its other.
+- *Is not* resolves: the partner's saying; 1's three and 7's have co with bi.
+- *Is not* incoheres: Exhibit ONE's *A name without co is of one*, with 1 and 7.
