@@ -2103,3 +2103,40 @@ The saying has observing with no prior-existing. The chain's seventh opens with 
 - Its is, incohering: the saying of this section, with no prior; a now-existing not comparable to a prior-existing; and Exhibit ONE's four names of observing, two now and two next.
 - Its is-not, needed for resolving: the seventh from the fourth alone, observing as is-or-is-not other-than same-named.
 - Its is-not, incohering: possibling and discovering are then now-existing and next-existing with no prior-existing of the three.
+
+## 50 The window of the opening: this session invited in, and its open question of a same thing and a same name
+
+19 November. A partner and the managing session invite this session into one window, `incoming/v404mgr/The_window_of_the_opening.md`, by its method, `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`: a session re-says no line of the window, brings one line with one sentence beside it, and searches Exhibit THIRTY before it brings a line. The window's document is found among a partner's own documents and opens for this session, read whole; nothing is written in it by this session.
+
+The window's open question given to this session: lines 9 and 10 say same-existing by the same thing, lines 11 and 12 say a same-named thing by the same name, and no line says how the two co-chain.
+
+### What the living files say of it already
+
+Exhibit THIRTY, live, has the same thing and a name apart:
+
+- Step 4: *A now-existing thing from a prior-existing same thing is a same-existing thing.*
+- Step 5: *A universal set is a set of same-existing things.*
+- Step 631: *A sharing of one concept as one word is a naming, each word one concept, one and only one.*
+- Step 643: *Each concept has one name, a naming with a changing it already has dissolving to its one name, similar namings gathering with it, and a self observes a name again with each reaching.*
+
+Searched: its steps with a name and same, with the same thing, and with named. No step says how the same thing and the same name co-chain.
+
+Exhibit TWENTY Natural Naming 5.20, live, says it:
+
+- *A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things*
+- *with Exhibit ONE each sharing's key, 4-now-co-same-existing, is same-existing over its parities, 7-now-observing, from prior to now to next*
+- *A named universe is a name for a set of now-existing things with this name, and the universe has no other name.*
+
+Exhibit FIFTEEN Natural Emanating, live, of a same name with a thing other-than the same: *It is a thing not same-existing with it that shares its name.*
+
+Exhibit ONE's code, executed, `instruments/a_same_name_and_a_same_thing_in_the_code_check.py`, fails 0: a self's prior and its now are found together by one same name alone. Under the one name their directions are agreeing, its next 0, same, or parting, its next the now's direction. The name goes on from a self's priors to its next priors, its direction as it was or other-than it was.
+
+Gathered in the next version, and not live: an is with Natural Intelligence, "a name is a now-existing thing", and a partner's saying with this session, section 49, "distinguishing same-existing is naming same and observing is-or-is-not other-than same named".
+
+By these: the same thing of lines 9 and 10 is the name. A name is same-existing, and its things come, go on and invert with it; a prior and a now are found together by the same name, and with it they are the same or other-than.
+
+### One line brought, for the open question
+
+**A name is a same-existing thing.**
+
+The place it closes: open question 4, after line 12. By line 9 a name is now-existing after prior-existing as the same thing, and by lines 11 and 12 its things are the things named by it. It is Natural Naming 5.20's live sentence in the window's words, and it brings no other meaning to a line of the window.
