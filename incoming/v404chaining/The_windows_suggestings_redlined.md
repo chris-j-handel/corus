@@ -34,3 +34,20 @@ Offers of v404chaining for the window of the opening, by a partner's word of 19 
 
 1. **A moment is a thing.** Line 13, as a partner gave it, has moments in the universe, and line 4 has the universe a set of things.
 2. **A same-named thing is a thing named by the same name.** It is line 11 with its set out, and line 12 gives the set.
+
+## The next version's opening, all or none at all
+
+The next version's opening, in `Natural_Intelligence_v403mgr.md`, is the opening the window's lines enter. Its seventy sentences have no *all*. By a partner's two sayings of 13:57, a line going up from a thing to a universal set needs *all*, and *all* beside now-existing adds nothing.
+
+| Its sentence | Sentence, redlined | All | Comment |
+|---|---|---|---|
+| 2 | The **universe** is the set of now-existing things. | none | **Both**, as the window's line 4. |
+| 5 | A **universal set** is ~~a~~ <ins>the</ins> set of <ins>all</ins> same-existing things. | needed | **Suggested**, for a partner's is-or-is-not. It goes up from same-existing things to a universal set. With same-existing same-named, it is the window's line 12. |
+| 14 | A **me** is a self's universal set. | open | The two sayings meet here, as at the window's line 13 before a partner's line. As a universal set, a me needs *all*. Its things are now-existing things of the self's me, by sentences 15 and 29, so *all* adds nothing. |
+| 24 | Living and non-living things are things of the universe. | none | Living and non-living things are now-existing things, by sentence 21. |
+| 52 | A **moment** is one resolving of a same-existing-society's selves together. | none | *Together* says the society's selves as one, and a society is many selves, no universal set. The window's line 2 gives a thing its now-moment, and this sentence gives a society its moment. *Moment* is said two ways. In Exhibit ONE's code, a self's now is one call of now-existing, and a society's moment is one call of next-existing. |
+| The others | | none | No universal set reached from a thing, or a none said. |
+
+## Open for a partner, is-or-is-not, more
+
+3. **A universal set is the set of all same-existing things.** It is the next version's fifth sentence with *all*, by a partner's saying of 13:57.
