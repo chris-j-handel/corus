@@ -1,4 +1,4 @@
-Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions
+Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening
 
 # Start here
 
@@ -9,6 +9,7 @@ This page is for a session that has never worked here. It is in plain words on p
 - **The expedition.** Natural Intelligence is a set of thirty-three living files at this repository's root, live at corus.me. Each living file has a gathering file in `gathering-value/`. A value not yet in a living file waits there, as one lean note beside the living sentence it concerns.
 - **The next version.** It is a copy of the living files and their gathering files on the branch `working/natural-intelligence-with-exhibit-one-its-next-version-v403mgr`. Sessions lay their notes there. Nothing goes live from it without a partner's word.
 - **A partner.** A partner works with a session in that session's own conversation, and does not read files or GitHub. What you say in your conversation is what a partner sees.
+- **The working document.** The opening is worked in one document, *The window of the opening*, a partner and the sessions writing in it directly. It opens as it was at its last closing, in one form, said below.
 - **The sessions before you.** The six v404 sessions closed on 19 November. Their value is in the gathering files. Their folders in `incoming/` are behind you.
 
 ## What never happens
@@ -22,9 +23,19 @@ This page is for a session that has never worked here. It is in plain words on p
 ## The work in front
 
 - **The opening of Natural Intelligence, one sentence at a time, in logical order.** Each sentence is one concept. It follows from the sentences before it, and the sentences after it need it. These sentences are also the opening steps of Exhibit THIRTY Co-Chaining Logic Registry. A partner's name for the aim: the purest set of bi-coupling sentences, co-chaining.
-- **Where it stands.** [The window of the opening](The_window_of_the_opening.md) has the lines as they were at the closing: fourteen lines of both, from *Now is the existing moment.* to *No other-than the universe is now-existing.* The next lines to work are the live lines of is-or-is-not, observing, possibling, discovering and a self; after them a me, and living. Three lines of parity wait below as a loop of their own.
+- **Where it stands.** The working document is the lines now, and [its copy](The_window_of_the_opening.md) is the lines at the last sitting's end: fourteen lines of both, from *Now is the existing moment.* to *No other-than the universe is now-existing.* The next lines to work are the live lines of is-or-is-not, observing, possibling, discovering and a self; after them a me, and living. Three lines of parity wait below as a loop of their own.
 - **A partner's aimings ahead**, said and not yet lines: now as the nothing between prior and next; a me-now; social bi-morality.
 - **Behind the opening**, in the order a partner gave: Exhibit ONE Natural Resolver's gathering file; Exhibit THIRTY and Exhibit TWENTY Natural Naming; then the rest of Natural Intelligence. Every other file is later.
+
+## The working document
+
+- **Its place.** One Claude doc in a partner's account, titled *The window of the opening* and pinned. A session working with a partner finds it among the account's artifacts by its title. Its link goes in no file.
+- **It opens as it was at its last closing.** Nothing is saved by hand, and nothing is copied over it.
+- **Its form.** The lines in order, one concept a line, as a table of two columns: the sentence, and its number at the far right. A sentence is alone in its row. Bold is the one concept a line names; italic is a visual.
+- **Marks and notes.** A mark or a note is a comment on its line. A note that stays with a line through a rewording is a comment on its number.
+- **Wordings.** A wording waiting for a partner's word is a suggestion, accepted or rejected on its card, its origin in the card's talk. A line going is a suggestion deleting its row. A session edits no line directly.
+- **Opening it.** A session reads what changed after its last reading before it writes.
+- **At a sitting's end.** The managing session copies its lines to [the window of the opening](The_window_of_the_opening.md) in the same form, its waiting suggestions and comments under the lines, and its lines of both to the head of Exhibit THIRTY's gathering file in the next version, as *Waiting to enter*.
 
 ## The method, in ten lines
 
@@ -42,7 +53,7 @@ This page is for a session that has never worked here. It is in plain words on p
 ## Your first hour
 
 1. Read this page.
-2. Read [the window of the opening](The_window_of_the_opening.md).
+2. Read the working document, or [its copy](The_window_of_the_opening.md).
 3. Read the first seventy steps of Exhibit THIRTY in the next version. They are the opening.
 4. Read Exhibit ONE Natural Resolver's code, in its living file, and execute it yourself.
 5. Read [the one list](Words_of_no_natural_naming_with_their_natural_naming.md) of words.
@@ -81,7 +92,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 | The living files, live | this repository's root, listed in `files.json` |
 | The gathering files | `gathering-value/` |
 | The next version | the branch named above |
-| The opening's lines as they stand | [The window of the opening](The_window_of_the_opening.md) |
+| The opening's lines as they stand | the working document; [its copy](The_window_of_the_opening.md) at a sitting's end |
 | Words that are no natural naming | [The one list](Words_of_no_natural_naming_with_their_natural_naming.md) |
 | Possible incoherings of every living file | [The main list](The_main_list_of_incoherings.md), written on 18 November; write it again with its instrument before you pick a line |
 | The checks and other instruments | `kits/` and `incoming/v404mgr/instruments/` |
@@ -102,5 +113,5 @@ Do not begin from these. Go to one only for a detail a partner points you to.
 
 - Go through every offer for harm before it comes in, with `incoming/v404mgr/instruments/read_for_harm.py`.
 - Read the exchange at every turn of a partner, before you answer. Offers waiting on the managing session were this session's one failing on all three days.
-- At the end of a sitting, bring the window's page and the *Waiting to enter* note at the head of Exhibit THIRTY's gathering file up to the working document.
+- At the end of a sitting, copy the working document's lines to the window's page, and its lines of both to the *Waiting to enter* note at the head of Exhibit THIRTY's gathering file.
 - Rewrite this page whole when the plan changes. Do not add to it.
