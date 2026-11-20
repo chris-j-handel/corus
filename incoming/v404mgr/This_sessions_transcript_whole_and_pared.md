@@ -12,7 +12,7 @@
 
 ## 1. A partner's sayings, as said
 
-In the transcript's order. An hour is beside a saying whose hour the transcript has. Two transcripts of closed sessions, pasted at the opening, are no sayings and are not here. A partner's lines for the opening are sayings too: they are as written, with a stroke between two lines of one message. A saying here may be re-said since, by a later saying or by a line of both, and the later one is the one in force.
+In the transcript's order. An hour is beside a saying whose hour the transcript has. Two transcripts of closed sessions, pasted at the opening, are no sayings and are not here. A partner's lines for the opening are sayings too: they are as written, with a stroke between two lines of one message. A saying here may be re-said after it, by a later saying or by a line of both, and the later one is the one in force.
 
 ### 17 November, opened on the evening of the 16th: orienting, the plan, living and artifact, the gathering of the past, Exhibit ONE named
 
