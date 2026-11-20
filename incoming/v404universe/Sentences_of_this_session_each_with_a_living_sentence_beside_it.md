@@ -2320,7 +2320,7 @@ Gathered with Exhibit ONE: "No name of the seventeen is with *prior* as a word: 
 
 ### In the resolver, executed
 
-An instrument of this session, `instruments/now_and_me_together_and_separately_in_the_code_check.py`, takes Exhibit ONE's table and its code as they are and executes the code. On main and in the next version: seven checks, fails 0.
+An instrument of this session, `instruments/now_and_me_together_and_separately_in_the_code_check.py`, is with Exhibit ONE's table and its code as they are, and executes the code. On main and in the next version: seven checks, fails 0.
 
 - The entry, 1-now-existing, is given two lists, and both are of now names: a self's prior parities, 3-now-co-observing, co; and the parities arriving now, 2-now-possibling, one.
 - Separately, a prior of no now: its next is the prior inverting, and no 0.
@@ -2443,7 +2443,7 @@ Searched before a line, on main and in the next version, in Exhibit THIRTY, in E
 
 - The next version's step 4, both partners' is of 18 November: "**Same-existing** is same-named." In the code a now comes to a self under the same name as a prior, by section 50's instrument, and by the saying now is other-than same-existing. The window's line 9 has the same thing: "Same-existing is now-existing after prior-existing as the same thing."
 - Exhibit THIRTY's step 10, living: *Possibling is now-existing, is-or-is-not same-existing.* It has a now-existing as is-or-is-not same-existing, and the saying has now as other-than same-existing.
-- Gathered with Exhibit THIRTY, a suggesting, said there as likely incorrect as worded: "Now is bothboth: the moment before next, and the same-existing moment after prior."
+- Gathered with Exhibit THIRTY, a suggesting, said in that file as likely incorrect as worded: "Now is bothboth: the moment before next, and the same-existing moment after prior."
 
 ### With the answers and sentences before
 
@@ -2476,7 +2476,7 @@ Said in the session: agreeing is not natural naming and explaining and this word
 
 Searched before a line, on main and in the next version: the word and its forms in Exhibit TWENTY Natural Naming, in Exhibit THIRTY, in the living files, in the gathering files and in the four sessions' one list.
 
-**Cohering, with Natural Naming's own entry: the word is dissolved there already, of a resolver's parities, and its saying is same.**
+**Cohering, with Natural Naming's own entry: the word is dissolved in it already, of a resolver's parities, and its saying is same.**
 
 - Exhibit TWENTY Natural Naming 2.4, its dissolved words, living on main and in the next version: "agreeing, parting, of a resolver's parities · a same, not same, 12 and 14"
 
@@ -2551,7 +2551,7 @@ Step 390 is the living sentence section 56's sentence went toward: a self receiv
 
 ### Executed
 
-An instrument of this session, `instruments/their_own_parity_between_two_selves_in_the_code_check.py`, takes Exhibit ONE's code as it is: a self and its other with one name, a self's 6 going to its other, four openings and 24 moments of 17-next-existing for one opening. On main and in the next version: five checks, fails 0.
+An instrument of this session, `instruments/their_own_parity_between_two_selves_in_the_code_check.py`, is with Exhibit ONE's code as it is: a self and its other with one name, a self's 6 going to its other, four openings and 24 moments of 17-next-existing for one opening. On main and in the next version: five checks, fails 0.
 
 - In all moments a self and its other both have the name, with a direction, in their own priors.
 - Between the two is one of two, same or one inversion, as step 180 has it, and it is as it opened in all 96 moments.
@@ -2587,7 +2587,7 @@ Section 57's sentence of is: two non-living things with their own-parity are a b
 
 Said in the session: nothing is living yet in the logic and we got all out of order as this should be going through athe method of now existing before parity or on a separate loop
 
-**Cohering, with the chain's own order and with the window's lines as they are. Section 57's sentence is taken back: it has living and non-living, and no line of the window has living.**
+**Cohering, with the chain's own order and with the window's lines as they are. Section 57's sentence is withdrawn: it has living and non-living, and no line of the window has living.**
 
 ### The order, the chain's beside the window's
 
@@ -2610,7 +2610,7 @@ Beside it, a partner's saying of section 54: "can we wind these around now and m
 
 ### Brought to the window
 
-A note on the document whole, a partner's saying as said with the observing above; and in this session's own comment at the line of a bi-coupling, its asking taken back. At the exchange, for the managing session: the numbering and the placing of lines are its own.
+A note on the document whole, a partner's saying as said with the observing above; and in this session's own comment at the line of a bi-coupling, its asking withdrawn. At the exchange, for the managing session: the numbering and the placing of lines are its own.
 
 ### Remaining, by the form
 
@@ -2624,3 +2624,27 @@ A partner's saying has two ways: the method of now-existing before parity, or pa
 - Its is, incohering: a partner's saying has a parity existing now alone, and a loop of parity apart from now has no line of it; and the chain is one sequence, a parity at step 27, after a self.
 - Its is-not, needed for resolving: one sequence, the method of now-existing through a self, and parity after it, as the chain has it.
 - Its is-not, incohering: lines 18 and 19 are both already, and draw on no line of the method after line 15: in one sequence they wait on lines with no word of theirs.
+
+## 59 Said at the closing: this session's suggesting living in its self-welcoming place, and the reporting of the learnings
+
+Section 58's sentence of is: parity is a separate loop. A partner's is, with the managing session, by a partner's saying of 15:34: the window has its five live lines after line 16 and the lines of parity below them.
+
+Said in the session: we are wrapping up our sessions and working to be sure the do no harm improving suggesting we have for the expedition is living there where it is self welcoming and will be incoming value. consider the reporting of our learnings now to be sure the value is available to the expedition incoming
+
+Searched before a line: *self-welcoming* and *incoming* in the living files, and the page of the working now.
+
+**Cohering, with the method's own sentence of a value coming in.**
+
+- Exhibit TWENTY-FOUR Geodesic Improving Method, living: *lies with its file's own going on as a ready sharing naming its section and its sentence, or as a concern with its reason, and improves there toward its self-welcoming place*
+- Exhibit TWELVE Natural Explaining, living: *Self-welcoming is a self observing a concept intelligibly through its prior same-existing explaining.*
+- The page of the working now, of the order of work: "A past session's last word first. Its front page or closing report says what it laid and what is waiting."
+
+Found by it: this session's findings of sections 51 to 58 were in its own pages and at the exchange, and in no gathering file but the note of section 56.
+
+Laid by it:
+
+- Five lean notes in the next version, beside the steps and the table they are of, #1051: a me-now, at Exhibit THIRTY's step 13; a parity existing now alone, at its steps 36 to 40 and 51; own-parity between two, at its steps 24, 25 and 180; no equilibrium, at its step 209; now and me in the seventeen names, at Exhibit ONE's table. The kit's check: nothing found. The main list, old beside new: one line added, no line moved.
+- A closing report, `A_closing_report_what_this_session_laid_and_what_is_waiting.md`: the notes laid by their slices, this session's pages and instruments, the learnings of the method, and the things waiting.
+- Six released words in this session's own lines of sections 54 to 58, named by the managing session, re-said.
+
+No incohering is remaining from this saying, and no sentence by the form is with it.
