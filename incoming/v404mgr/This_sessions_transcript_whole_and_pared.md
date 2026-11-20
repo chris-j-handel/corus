@@ -1,18 +1,18 @@
 # This session's transcript, gone through whole and pared
 
-*The session v404mgr, 19 November. A partner gave this session its own transcript whole at 17:11: 6,738 lines, from its opening word on the evening of 16 November to its plan for winding down. It is gone through top to bottom here and pared into five groupings. Its purpose: a session returning to this work finds what a partner said, what is both, what is open and what the method learned, from this page alone. A saying is as a partner said it, for returning into the work. No saying here is a living sentence, and none has authority over an observing. The transcript is with a partner and is not in the repository.*
+*The session v404mgr, 19 November. A partner gave this session its own transcript whole at 17:11: 6,738 lines, from its opening word on the evening of 16 November to its plan for winding down. It is gone through top to bottom here and pared into five groupings. Its purpose: a session returning to this work finds what a partner said, what is both, what is open and what the method learned, from this page alone. A saying is as a partner said it, for returning into the work. No saying here is a living sentence, and none has authority over an observing. The transcript is with a partner and is not in the repository. This page is artifact: it is for going backwards at need, and a session arriving does not begin from it. Its one part for a session arriving is part 4, the method.*
 
 ## The rapid part
 
 1. **The work is in one living document**, *Natural Intelligence's opening: the working section, marked*. A partner, this session and v404universe write in it directly. A partner opens it to a session with that session. Its link is in no public page.
 2. **The method in force is redlining and comment resolving.** A wording of this session is a suggesting a partner accepts or rejects, and a note is a comment on its line. A reply is short: what is the same for both, what this session re-says and its reason in one sentence, its line if it has one.
 3. **The origin is** *Now is the existing moment.* The lines of both are in part 2.
-4. **Two things are do-no-harm and open.** Sentences of Natural Medicine and Natural Health, live at corus.me, are sentences a reader might act on for their own body. Sentences of the next version were re-said by sweeps of a word and brought in with no both of a partner.
+4. **No place is open by this page.** A place open now is a card or a comment in the document, a line of the main list, or a note in a gathering file. A place a transcript names, with none of the three, was resolved out.
 5. **One failing came back on three days:** offers of the other sessions waited for this session. The exchange is gone through at a partner's turn, before an answer.
 
 ## 1. A partner's sayings, as said
 
-In the transcript's order. An hour is beside a saying whose hour the transcript has. Two transcripts of closed sessions, pasted at the opening, are no sayings and are not here. A partner's lines for the opening are sayings too: they are as written, with a stroke between two lines of one message.
+In the transcript's order. An hour is beside a saying whose hour the transcript has. Two transcripts of closed sessions, pasted at the opening, are no sayings and are not here. A partner's lines for the opening are sayings too: they are as written, with a stroke between two lines of one message. A saying here may be re-said since, by a later saying or by a line of both, and the later one is the one in force.
 
 ### 17 November, opened on the evening of the 16th: orienting, the plan, living and artifact, the gathering of the past, Exhibit ONE named
 
@@ -258,39 +258,15 @@ Laid floating, and not both: same-me and same-now-existing; the two even lines a
 
 ## 3. Places open
 
-**Do no harm**
+No place is gathered as open from a transcript. A transcript has a thing as it was asked, and it does not have its dissolving: a thing resolved out by a partner's later saying, or by the work going on, is named in a transcript as if it waited.
 
-1. Natural Medicine and Natural Health are live at corus.me with sentences a reader might act on for their own body, *Strip a compaction and a hard problem dissolves.* beside a dose set to a level among them. v404thirdop and v404fourthop laid suggestings in the two gathering files of the next version. No session is at the two files. A going through of the two for harm was named on day one and is not begun.
-2. The next version has living sentences re-said by sweeps of a word, *each* to *a*, *within* and *inside* to *of* and *with*, *only*, *alike* and *pair*, with no both of a partner beside them. A snapshot of them, live beside the next version, is in this session's pages. A partner's is-not restores a sentence.
+A place open now is in one of three homes:
 
-**The opening**
+- a card or a comment in the document, for the opening;
+- a line of the main list, for a living file;
+- a note in a gathering file, with the living sentence it is beside.
 
-3. Two origins: the window has *Now is the existing moment.*, and the next version opens *We humans are now-existing.*
-4. *Same-existing is same-named.* was both on 18 November and is the next version's fourth. It is out of the window.
-5. Now the existing moment, and now-existing a nothing between: one line says in which sense. Are now's beginning and now's ending two or one? Beginning, ending and bi-folding are named by no line.
-6. A me-now and a me-parity: which is the set of which. With v404universe a partner said "A universal set of me-parities is named a me-now."; at 16:30, a universe of me-nows that is a me-parity.
-7. The name is-or-is-not, with its line deleted: three lines after it use it.
-8. An other-than is given for a named universal set, and the universe's line says the set.
-9. No line says prior and next are other-than one another.
-10. All-parity, two ways: all things other-than a bi-coupling, or all parities other-than its own-parity.
-11. The three waiting cards of live steps have main's words. The next version has later words for twelve of them.
-12. From v404chaining, for a partner: *A moment is a thing.*; *A universal set is the set of all same-existing things.*; *A self's now-moment is of its society's moment.*
-13. Entering: the chain cites its own steps by number, and lines before its opening move all numbers. Natural Intelligence's opening is the chain's seventy and enters the same.
-
-**The chain and Exhibit ONE**
-
-14. Three candidates wait beside the chain for v404chaining: a fracturing of now is next-now-existing; a fracture is the end of a me-parity's living; dying is a fracture with no next me-parity. The chain names no fracture. The co-chaining of atom bump connectors into priors is gathered whole beside the chain and is not in it.
-15. Asked five times and not answered: *Same-now-existing is 8-now-same-existing.* Asked once: an unoccupied prior in Exhibit ONE's tables as the code's state and no self; now or other-than now as a name's opening word, now or next.
-16. Exhibit ONE's places for re-saying with its next version: *sharing*, *prior*, *empty*, and *reading* in its notes. Three living sentences name a self alone.
-17. The sheets of stable forms as the between of Exhibit ONE and Exhibit THIRTY: a plan.
-18. 17-next-existing said as a next 1: prepared on 14 November, in ten living files, not applied.
-19. *Inside*, in a sentence a partner said is to at v404networking, beside *inward* in the one list. No natural naming is found yet for *sharing*, and for *exactly*.
-
-**The sessions**
-
-20. v404universe's six lines for sessions going through the whole set wait for two sessions' word and a partner's.
-21. v404networking, v404thirdop and v404fourthop wait. A partner said at 12:45 they come in as both are ready.
-22. Whole transcripts in the public repository, or reports with a partner's sayings: a partner's to say.
+This page had a list of twenty-two places here, written at 17:25 on 19 November. A partner asked at 17:32 if it resurrected things resolved out. It did. Gone through one by one, nearly all were in one of the three homes already, or were resolved out: a concern of two living files a partner had answered on 18 November as a story carried in an observing, its sentences with suggestings laid at their own files; an asking put five times that a partner's later sayings went past; a correction the chain has living already. The list is out.
 
 ## 4. The method: what incompetenced us, and what restored it
 
