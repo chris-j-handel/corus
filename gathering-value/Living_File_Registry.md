@@ -149,6 +149,8 @@ Gathering-Value · Living File Registry
 
 ### 5.11 Destinies and expedition continuing
 
+- **An explaining** · v405now, by a partner's word of 20 November: at the next version, Exhibit FOURTEEN is Natural Intelligence Living Expedition Destinies, its subtitle Our Observings, Possiblings and Discoverings, the expedition's log of its destinies gathered from the whole living file set. Its receiving into other living files goes on as its rows' homes, and this section's plan is said again with it.
+
 ### 5.12 Transmissioning, societies and human society
 
 - **Possible incohering** · "SEVEN and NINE are retained with clarified subjects, and its plan is a complete receiving of SIX to common method, Networking and substrate exhibits." → Two sayings part at Exhibit SIX. 5.12 has its plan a complete receiving of SIX, *A separate name for crossing on its own supplies no further subject.* and *Each contribution and its needed conceptual prior are received before SIX dissolves as a separate exhibit.*; Natural Transmissioning has *A transmissioning develops whole here, and each exhibit is its own bounding context only, a transmissioning drawing from here.*, and a re-forming has SIX whole at thirty section headings with a source route for each living subject. Beside both: each file relies on Natural Transmissioning, or it is no file apart. They part at the reason: a shared explaining said at other files shows no absence of a purpose at SIX, and neither side is chosen by a place located, by words repeated or by names gathered. Two sides: SIX received into its receiving files and released, or SIX the common explaining's own place, re-formed whole.
