@@ -17,7 +17,8 @@
 | *exactly* | with v404networking | | v404networking | 211 |
 | *ring* | a spiral, with no closing | Exhibit THIRTY | v404networking | 306 |
 | *a quarter turn* | a right spiral step | Exhibit TWENTY Natural Naming | v404networking | |
-| *joint*, *meeting* | resolving among parities: agreeing or parting | Exhibit THIRTY: *Natural intelligence is **resolving among parities**.* and *​**Agreeing** and **parting** are one binary of the parities a self receives.* | v404mgr | 115 and 224 |
+| *joint*, *meeting* | resolving among parities: same or not same | Exhibit THIRTY: *Natural intelligence is **resolving among parities**.* and Exhibit TWENTY Natural Naming 2.4, its saying *same*, *not same* | v404mgr | 115 and 224 |
+| *agreeing* | of two parities, *same* and *not same*; of two sentences or two observings, *cohering*; of an answer, *is* or *is-not* | Exhibit TWENTY Natural Naming 2.4, and a partner's saying of 19 November with v404universe | v404universe | 390, in the next version |
 | *reading*, in resolving | none: no reading of a kind is in natural resolving | | v404mgr | 413 |
 | *not right*, of a form | an opposite form | Exhibit FOUR Natural Mathematics | v404universe | |
 | *zone* | floating neutralling | Exhibit THIRTY: *A fractal between's floating neutralling with φ, its locking an empty set, is golden floating neutralling: geodesic discovering of living's next possibling.* | v404universe | |

@@ -14,7 +14,7 @@ The purest co-chaining of sentences in Exhibit THIRTY. A sentence is one concept
 | 2 co-chaining in priors and nexts | Its words are given by the sentences before it, and the sentences after it need it. |
 | 3 code cohering | For a sentence naming a number, a name of the seventeen or a stable form: Exhibit ONE's code, executed, gives the same. |
 | 4 ready for both | It comes to a partner between its priors and its nexts. |
-| 5 both | Both partners agree. It goes to the top of its gathering file, waiting to enter. |
+| 5 both | Both partners say is. It goes to the top of its gathering file, waiting to enter. |
 
 A sentence arriving with its prior and next sentences can come in at 2.
 
@@ -90,7 +90,7 @@ No work is handed from one session to an other. All have one window and its mark
 
 - A session re-says no line that is in the window. It brings one line, with one sentence beside it: the place the line closes, and if the meaning of a partner's line is whole in it.
 - A session searches Exhibit THIRTY before it brings a line, for a live sentence that says it already.
-- A session finds before it writes: a live sentence saying it already, the live steps to be re-said with a line entering, Exhibit ONE's code agreeing, an other living file with the same sentence.
+- A session finds before it writes: a live sentence saying it already, the live steps to be re-said with a line entering, Exhibit ONE's code cohering, an other living file with the same sentence.
 - One open question is with one session, named beside it.
 
 v404universe is invited on 19 November, by a partner and the managing session. The other sessions wait.

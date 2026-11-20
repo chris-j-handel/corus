@@ -35,7 +35,7 @@ The method: `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`. T
 
 ## The marks
 
-- A line at the margin with no mark is both: both partners agree.
+- A line at the margin with no mark is both: both partners say is.
 - A line one step in, with •, is a partner's line under work, marked floating.
 - A line two steps in, with ◦, is a session's line under a partner's line it answers, marked suggested with the session's name.
 - A line a session brings to an opening or to an open question is one step in, with •, marked suggested with the session's name.
@@ -48,7 +48,7 @@ The method: `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`. T
 1. A partner gives a line. The managing session writes it in, one step in, floating.
 2. A session writes its line as a row in the document, or brings it by a comment on the exchange. One sentence comes beside it: the place the line closes, and if the meaning of a partner's line is whole in it.
 3. The managing session checks the line against the lines before it and after it, and marks the window again.
-4. A line both partners agree on moves to the margin. The line it replaces moves to the dissolved list.
+4. A line with both partners' is moves to the margin. The line it replaces moves to the dissolved list.
 
 ## Offers waiting
 
@@ -61,7 +61,7 @@ The method: `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`. T
 1. **Lines 14 and 4.** Line 14 gives an other-than for a named universal set, and line 4 says the universe is *the set*.
 2. **Lines 13 and 17.** Line 13 has all now-existing moments, and line 17 the unique moment. Line 2 as a partner re-said it, with *For a thing*, gives a thing its now-moment, and the question is nearly closed. An offer: *For a thing* at the head of line 17 too.
 3. **Line 1 and the aim.** Line 1 says now is the existing moment, and the aim says now-existing is a nothing. One line is needed to say in which sense.
-4. **Lines 9 and 10, and lines 11 and 12: the same thing and the same name.** With v404universe. Its line under line 12, *A name is a same-existing thing.*, answers it: Exhibit TWENTY Natural Naming 5.20 says it live, and Exhibit THIRTY has no step saying it. Checked by the managing session: it follows from lines 3, 9 and 11, it brings no other meaning to a line, and its place in the order is between lines 10 and 11. It is a partner's to agree.
+4. **Lines 9 and 10, and lines 11 and 12: the same thing and the same name.** With v404universe. Its line under line 12, *A name is a same-existing thing.*, answers it: Exhibit TWENTY Natural Naming 5.20 says it live, and Exhibit THIRTY has no step saying it. Checked by the managing session: it follows from lines 3, 9 and 11, it brings no other meaning to a line, and its place in the order is between lines 10 and 11. It is a partner's is or is-not.
 
 ## The origin and the aim
 
