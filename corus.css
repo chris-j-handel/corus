@@ -10,3 +10,15 @@
 .ai-access button:hover{color:var(--ink)}
 @media(max-width:650px){.ai-access a{font-size:19px}}
 @media print{.ai-access{display:none!important}}
+
+.aims{margin:6px 0 22px;padding:0 0 16px;border-bottom:1px solid var(--rule)}
+.aims h2{font-size:30px;font-weight:400;line-height:1.25;margin:10px 0 2px;text-align:center}
+.aims-lead{text-align:center;color:var(--muted);font-size:17px;margin:0 0 14px}
+.aims-clusters{columns:2;column-gap:36px}
+.aims-cluster{break-inside:avoid}
+.aims-cluster h3{font:12px/1.4 system-ui,sans-serif;letter-spacing:.065em;text-transform:uppercase;color:var(--muted);margin:0 0 4px;padding-top:14px}
+.aims-cluster ul{list-style:none;margin:0;padding:0}
+.aims-cluster li{font-size:16px;line-height:1.45;margin:0 0 6px;overflow-wrap:anywhere}
+.aims-cluster strong{font-weight:700}
+@media(max-width:650px){.aims-clusters{columns:1}.aims h2{font-size:26px}}
+@media print{.aims-clusters{columns:1}}
