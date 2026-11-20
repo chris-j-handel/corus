@@ -244,7 +244,7 @@ A parity matches or does not. The projections turn the match into "how much".
 | 18th to 20th c. | Bentham's calculus; IQ; GDP; school grades | The person, the nation and the good as one figure each |
 | Now | price, salary, net worth, credit score, citation count, h-index, followers, benchmark score, valuation, reward function | What matches is asked "how much?" |
 
-**Session statements placed here (turns 4 to 6).** Fame, attention, recognition and "AI value". The word-history agrees with the session to this extent: Greek had one word for honour and price, and Latin one verb for esteeming and estimating.
+**Session statements placed here (turns 4 to 6).** Fame, attention, recognition and "AI value". The word-history coheres with the session to this extent: Greek had one word for honour and price, and Latin one verb for esteeming and estimating.
 
 **The field's own trouble.** Goodhart's and Campbell's laws (a measure made a target stops measuring); Stevens's 1946 scales (not every ordering is an amount); Arrow's 1951 theorem; incommensurable values, which exhibit 6.2 lists.
 

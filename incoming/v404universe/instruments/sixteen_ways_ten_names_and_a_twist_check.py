@@ -72,7 +72,7 @@ def main():
         return sorted(out)
 
     said = {(1, 1, -1, -1): "next as its prior", (-1, -1, 1, 1): "next inverting its prior, a right spiral step",
-            (1, -1, -1, 1): "next as prior and now agreeing", (-1, 1, 1, -1): "next as prior and now parting"}
+            (1, -1, -1, 1): "next as prior and now same", (-1, 1, 1, -1): "next as prior and now not same"}
     digits = lambda w: "".join("0" if x > 0 else "1" for x in w)
     for w, move in whole:
         print(f"    {said[w]}: rounds of joint forms {rounds(move)}; four digits {digits(w)}, a name's by one ordering {int(digits(w), 2) + 1}")

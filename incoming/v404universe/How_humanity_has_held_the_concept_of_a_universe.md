@@ -234,7 +234,7 @@ Other traditions never took two values as the whole of reasoning.
 
 - Mathematics: Brouwer, from 1907, accepts the excluded middle only for finite, decidable matters and admits no completed infinite. Natural Mathematics 6.3 already carries him.
 
-On discovering, standard philosophy of science agrees with a narrow form of Natural Intelligence 5.4. Peirce (1903), Popper (1934) and Reichenbach (1938) each separate the finding of a hypothesis from its testing. They place only the testing inside the method's logic.
+On discovering, standard philosophy of science coheres with a narrow form of Natural Intelligence 5.4. Peirce (1903), Popper (1934) and Reichenbach (1938) each separate the finding of a hypothesis from its testing. They place only the testing inside the method's logic.
 
 They do not conclude that science cannot discover. They conclude that its discovering is not done by its true-or-false step.
 

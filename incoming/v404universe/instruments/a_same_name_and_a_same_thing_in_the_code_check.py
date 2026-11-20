@@ -12,8 +12,8 @@ In the code a self's priors and its now are two lists of a name with a direction
 and the direction 7-now-observing, +1 or -1. Its giving back is a self's next by name and its next priors by name.
 
 Five checks, all or none at all:
-  1  one name with a prior and with a now, their directions agreeing: its next is 0, same
-  2  one name with a prior and with a now, their directions parting: its next is the now's direction
+  1  one name with a prior and with a now, their directions same: its next is 0
+  2  one name with a prior and with a now, their directions not same: its next is the now's direction
   3  a now with a name of no prior is found with no prior: the prior of an other name is not its prior
   4  a name goes on from a self's priors to its next priors, in the four givings with a prior
   5  under one name going on, its direction is as it was with 1, and other-than it was with 2
@@ -37,10 +37,10 @@ def check(n, said, ok):
     print(f"  {n}  {said}: {'is' if ok else 'IS NOT'}")
 
 nxt, pri = now_existing([('a', 1)], [('a', 1)])
-check(1, "one name, a prior and a now agreeing: its next is 0, same", dict(nxt)['a'] == 0)
+check(1, "one name, a prior and a now of the same direction: its next is 0", dict(nxt)['a'] == 0)
 same_prior = dict(pri)['a']
 nxt, pri = now_existing([('a', 1)], [('a', -1)])
-check(2, "one name, a prior and a now parting: its next is the now's direction", dict(nxt)['a'] == -1)
+check(2, "one name, a prior and a now not same: its next is the now's direction", dict(nxt)['a'] == -1)
 other_prior = dict(pri)['a']
 nxt, pri = now_existing([('a', 1)], [('b', -1)])
 check(3, "a now with a name of no prior is found with no prior", dict(nxt)['b'] == -1 and dict(nxt)['a'] == -1)
