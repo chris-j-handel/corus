@@ -134,6 +134,7 @@ Gathering-Value · Natural Medicine
 
 - **Possible exploring** · The therapy stops twenty-four weeks after the second dose, at no clearing of the antibodies. — at "interrupted twenty-four weeks after antibodies cleared"
 - **Possible exploring** · Twenty-eight selves, each rebounding within twenty weeks of an earlier stopping, given two doses of two long-acting antibodies twenty weeks apart: a stopping of therapy comes twenty-four weeks past the second dose, and twenty-four weeks past a clearing of those antibodies from a body is a separate thing a timing was not set by. — at "twenty-eight selves who had all rebounded on placebo, given two long-acting antibodies and interrupted twenty-four weeks after antibodies cleared, more than half staying past twenty weeks and two past a year"
+- **Possible incohering** · "near a between an excluded and a not-yet-reached read alike, an observing coming fuzzy is coming to a right place and one coming sharp has landed." → Two sayings part at fuzz: this sentence has fuzz with an observing at a between, and a partner's saying of 17 November has all observings fuzzy, nothing fuzzy beyond observing, and a naming all or none at all. is-or-is-not? An observing is fuzzy, and a naming is all or none at all.
 
 ### 5.2 A between with Natural Health
 

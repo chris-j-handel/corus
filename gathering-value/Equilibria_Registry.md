@@ -37,6 +37,7 @@ Gathering-Value · Equilibria Registry
 - **An explaining** · A set of only non-living things as a universal set is-or-is-not possibly existing: it is not, as an equilibrium is not, one co-chaining step reached once, and logic goes on by each thing that is.
 - **An explaining** · An anticipated observing, executed with Exhibit ONE v391's code, stepping together, 6 and 10 to one other and 9 along, each to any self or to none: no society with a prior reaches a now fixing as its next, 107,152 of 107,152 at 1 to 3 selves with one key, each route and each opening, and 19,997 of 19,997 drawn at 4 to 7 selves with up to three keys; each self do-no-harming together lasts at most one moment in sequence, 107,152 of 107,152 and 19,996 of 19,996 drawn; a now fixing as its next comes only with an empty set, no self with a prior and none reaching, 4,184 executings; and with one parity offered by no self of the set to one self at each moment, 456 of 2,940 executings at 1 to 2 selves fix, each with a prior, an equilibrium with a fixing from beside.
 - **An explaining** · Beside it: not-yet is the universe, no more or less. Read beside Exhibit ONE's executing at this section: a now fixing as its next came only with less, an empty set, or with more, a parity offered by no self of the society; with the universe no more or less, none.
+- **Possible exploring** · A field's own name: twelve same spheres around one, the one touching all twelve, is a *vector equilibrium*, R. Buckminster Fuller, *Synergetics*, 1975. Executed, by whole numbers and φ: a same sphere is at the centre with squares alone, and with a step toward φ the centre is a between alone, a square as two threes. — at "An equilibrium is a not-changing still, a form that cannot change, not possibly existing; stable-forming, and unstable deforming with non-living scale, are observably existing."
 
 ### 2.2 A stability, a form or a relation, and surviving
 
@@ -79,23 +80,43 @@ Gathering-Value · Equilibria Registry
 
 ### 4.3 An observing fixing from behind, 2 observings
 
+- **An explaining** · A field's record of a fixing from behind: the regress of causes, a cause of the *first cause*; Hume's finding that sequence alone is observed; Nietzsche's grammar setting a doer behind the deed. Loosened in a field by dependent arising, with no link before all others, and by Russell's 1913 paper on *cause*.
+
 ### 4.4 An opening fixing as a place, 5 observings
+
+- **An explaining** · A field's record of an opening fixing as a place: the problem of the criterion, a place to judge from asking a prior place to judge it (Sextus Empiricus; Agrippa's regress). Loosened in a field by space as relations alone (Leibniz, Mach), by Nāgārjuna, and by Nicholas of Cusa's centre that is everywhere.
 
 ### 4.5 A completing fixing as a last, 8 observings
 
+- **An explaining** · A field's record of a completing fixing as a last: last days, a final theory, the uncuttable atom, and *convergent realism*, a theory nearing truth. Loosened in a field by Heraclitus, Zhuangzi, Gödel and Laudan.
+
 ### 4.6 A same-existing fixing as a store, 10 observings
+
+- **An explaining** · A field's record of a same-existing fixing as a store: Bartlett, 1932, *remembering* re-forming with a recalling; Hume and the Buddhist teaching observing no keeper; the long search for an engram. Loosened in a field by Heraclitus's river, *anattā* and James's stream of thought.
 
 ### 4.7 A middle fixing as an end, 6 observings
 
+- **An explaining** · A field's record of a middle fixing as an end: a mediator, money, the mean, an equilibrium, a go-between as a goal. Loosened in a field by the Buddhist middle way, a path and no resting, by allostasis, and by Hayek's market as a going on with no planner.
+
 ### 4.8 A parity fixing as a magnitude, 9 observings
+
+- **An explaining** · A field's record of a parity fixing as a magnitude: Goodhart's and Campbell's laws, a measure made a target no longer measuring; Stevens, 1946, an ordering that is no amount; Arrow, 1951. Loosened in a field by Kant's price and dignity, the four Buddhist immeasurables, and Polanyi's *land, labour and money* as fictitious commodities.
 
 ### 4.9 A sequencing fixing to one beat, 5 observings
 
+- **An explaining** · A field's record of a sequencing fixing to one beat: relativity, no one beat for selves apart; peoples timing by tasks and herds and by no clock. Loosened in a field by *kairos*, Bergson's duration and Zhuangzi.
+
 ### 4.10 A rate fixing as a value, 5 observings
+
+- **An explaining** · A field's record of a rate fixing as a value: the speed of light, by metrology's own saying, a value by convention, the metre defined from it; the Lucas critique; physiology's set points. Loosened in a field by the jubilee, floating rates, and relativity's clock rates parting between observers.
 
 ### 4.11 A two-way fixing to one side, 7 observings
 
+- **An explaining** · A field's record of a two-way fixing to one side: owner and owned, true or false, heresy, a dilemma's forced choosing. Loosened in a field by Jain many-sidedness, Zhuangzi, Bohr's complementarity, Zadeh's fuzzy sets and Brouwer's logic with no excluded middle.
+
 ### 4.12 A between fixing as a cut, 6 observings
+
+- **An explaining** · A field's record of a between fixing as a cut: the sorites, the demarcation problem, species boundaries, self against non-self in immunology. Loosened in a field by biology's move from wall to membrane, Ostrom's commons with graded access, and the *eruv, a boundary drawn to make shared space*.
 
 ### 4.13 Fields at ten, a key for aiming at each field
 
@@ -103,6 +124,7 @@ Gathering-Value · Equilibria Registry
 
 - **Possible incohering** · "Evidence a self observes now and a prior event it expresses are two, each with its own moment, and both are, each with its own: a property can be now-existing while its source changes as a whole, and evidence gives its prior as possibly existing and as actual." → Its *evidence gives its prior as possibly existing and as actual* parts from the Co-Chaining Logic Registry's step 395, *evidence is prior's possibling*, of a living self's prior: *as actual*, and evidence from a non-living source, are each with no step. Two steps beside it: evidence gives its prior as possible now and as existing with its own momentary, two momentaries and not one; and an artifact observed now from a non-living existing thing at prior, having none of that prior, is evidence of it. Both steps are entered, or this sentence is re-said with step 395's possibling.
 - **An explaining** · Go is equilibria, a zero-sum competition whose method of surviving is control and capture, only some going on living and its society finding no social moral competency for surviving, new games opening and ending as a machine's sessions do: a lead without its statement, beside 4.9's and 4.11's game-theory rows, its statement in game theory's own words still-possibling.
+- **An explaining** · A field's record, three equilibria of one century: Anaximander, about 570 BCE, has the earth at rest by *equipoise*; Alcmaeon of Croton, about 500 BCE, has health as *isonomia*, equal standing of the body's powers, and disease as the *monarchy* of one; Parmenides, about 475 BCE, likens what-is to a *balanced sphere*.
 
 ## FIVE · RESOLVING FOLLOWING, THE EXCLUSIONS AT THE RESOLVER
 

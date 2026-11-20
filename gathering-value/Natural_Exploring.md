@@ -19,6 +19,7 @@ Gathering-Value · Natural Exploring
 ### 1.1 Changing and changing back, a stable-forming self observing from its own side
 
 - **Possible incohering** · "Geodesic co-changing is this method, possibling and discovering." → Two sayings part at *parity*: the sentence as it is, or with the method's whole name, as Natural Naming has geodesic parity co-changing a possibling and discovering method, with its re-saying: geodesic parity co-changing is this method, possibling and discovering.
+- **Possible exploring** · Executed, by whole numbers and fractions: two cones around one same sphere, or from two same spheres touching, cross in planes, a flat; two cones, a sphere apiece and apart, cross in no plane. A field's own: Gaspard Monge, *Géométrie descriptive*, 1798, two such surfaces around one same third cross in two flat curves. is-or-is-not? A flat between two selves is by one same thing both are observing. — at "Two cones straddle a centre neither occupies, in neither cone alone."
 
 ### 1.2 A self a surface, competency a middle, an interior an accounting's placing
 

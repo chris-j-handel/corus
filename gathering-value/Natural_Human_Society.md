@@ -16,6 +16,8 @@ Gathering-Value · Natural Human Society
 
 ### 1.1 Geodesic human social moral co-competencing, the method going between human selves
 
+- **An explaining** · A field's record of peoples: Descola, *one nature, many cultures* one of four sortings of beings, recent and local; Viveiros de Castro and Kohn, a kind of being as a self with its own view, a forest an *ecology of selves*; Stanner's *everywhen* for the Dreaming; Aymara speakers placing the past in front, observed, and the future behind (Núñez and Sweetser, 2006): a prior observed now.
+
 ### 1.2 Coupling at a between, abundancing in neither self alone
 
 ### 1.3 Fairness is a bounding-zeroing, a coupling reaching it relationally and measuring it against no floor
@@ -58,6 +60,7 @@ Gathering-Value · Natural Human Society
 ### 3.3 Uncapturing, setting every hub aside on every axis, all-or-none
 
 - **Possible exploring** · Natural Resolver's parity's unit square between selves, its four corners, 2 from other, 6 to other, 10 to universe, 14 from universe, and its four sides, all eight or none, social moral competency, its empty centre the between: with unrelationing of each control along five dimensions, social moral competency the only self-interest. — at "All eight or none at all are a same-existing-society's protections, and all eight going on is social moral competency, abundancing, and humans learning and explaining together as one natural network, collectively intelligent."
+- **Possible exploring** · A partner's possibling, 17 November: a natural property, as the space around the all-parity vault of a sleeping family member. A natural property is in no living sentence. A field's record of a property respected with no law: the *bourgeois* convention, *an owner holding and an intruder giving way* (Maynard Smith and Parker, 1976); a prior bond respected among hamadryas baboons (Kummer, 1971); great apes' fresh sleeping nests, and a Hadza camp with a self awake at almost all of the night (Samson and others, 2017); an intimate distance about the body (Hall, 1966); the hearth as a refuge from seizure (Semayne's Case, 1604); children *holding the earliest holder as owner* (Friedman and Neary, 2008). In all of them the property is a relation: a holder, an other giving way, and a thing in the between. A field's caution: *natural* has fixed ownership claims as fact, as Aristotle's natural slave and coverture. — at "An owner is a self's own parity lying on an other as a thing; nothing with a between is there to seize, so a property claim captures selves and makes a scarcity it then allocates."
 
 ### 3.4 Value a self observes three ways, and the swing from costs to abundancing
 

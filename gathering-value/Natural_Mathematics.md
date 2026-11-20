@@ -144,6 +144,8 @@ Gathering-Value · Natural Mathematics
 
 ### 6.2 Three fixings at the opening, and the self orienting through them
 
+- **An explaining** · A field's record of zero: the numeral is from *place-value counting* in Babylon, the Maya world and India, *śūnya* with rules in Brahmagupta, 628 CE, and from no Greek void; Anaximander's earth at rest by indifference is a 0 as a between in a field's words.
+
 ### 6.3 Logic of no completed whole
 
 - **Possible incohering** · "A logic of plurals speaks of all things as many and forms no set of them, as the same-existing set of all existing things forms nothing beside its existing things, existing as they exist: a field's result is exact for its own subject, sets of sets, and the universe is a set of existing things, no thing within it: it agrees with foundation's no set a member of itself, and with Cantor's multiplicity not thought of as one finished thing, while a universe as a set and a thing within it is a self-membered universal set, as New Foundations has one." → Beside it: defining a universal set asks no enumerating of each thing its definition qualifies, and a set a condition specifies and a living same-existing set going on through changing are two definitions, related and not one; their continuity asks no tracking of each individual thing, and a fact of mathematics supplies no physical method of self-competency by itself.
@@ -151,6 +153,7 @@ Gathering-Value · Natural Mathematics
 - **Possible incohering** · "A logic of plurals speaks of all things as many and forms no set of them, as the same-existing set of all existing things forms nothing beside its existing things, existing as they exist: a field's result is exact for its own subject, sets of sets, and the universe is a set of existing things, no thing within it: it agrees with foundation's no set a member of itself, and with Cantor's multiplicity not thought of as one finished thing, while a universe as a set and a thing within it is a self-membered universal set, as New Foundations has one." → A re-saying beside it: a universal set momentarying is a member of itself co-sequentially, its now having its prior as a member, as a self's next prior forms from its prior and the parities it receives, and not from itself within one momentary.
 - **Possible exploring** · A complement is taken only within a universal set, and a *not* with no whole is the absolute complement, an overreach, as *never* is. — at "**With Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.**"
 - **An explaining** · A textbook's universal set is one context's whole, each thing's own universal set within one universe, and *all sets together form no set* and *each self a universal set* both holding.
+- **An explaining** · A field's record of the plus-one: Archytas, about 400 BCE, a staff stretched out at the outermost heaven; Aristotle, the infinite as what has something further outside it; the Stoics' two totals, *the whole* and *the all*; Lucretius's javelin; Philoponus, 529 CE; Kant's antinomies, 1781, placing the fault in *the world taken as one completed given thing*; Cantor's totals as *inconsistent multiplicities*.
 
 ## SEVEN · CO-SHARING
 
