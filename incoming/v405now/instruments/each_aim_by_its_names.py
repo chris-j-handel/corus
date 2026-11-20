@@ -1,73 +1,77 @@
 #!/usr/bin/env python3
 """Each aim of the expedition by its names: the log's table, written from the aims page.
 
-Usage: python3 -I each_aim_by_its_names.py AIMS.md NEXT_ROOT WORDS.py > Each_aim_by_its_names.csv
-  AIMS.md   the aims page, read from its "# The aims, by cluster" heading if it has one, its bands as "## " headings and its aims as "- **Aim.** words *homes*" bullets
-  NEXT_ROOT a checkout of the next version, its Natural Intelligence and gathering-value/
-  WORDS.py  incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py
+Usage: python3 -I each_aim_by_its_names.py AIMS.md NEXT_ROOT WORDS.py WINDOW.json AREAS.json > Each_aim_by_its_names.csv
+       python3 -I each_aim_by_its_names.py --spine WINDOW.json > the window's names under the log, a markdown table
+  AIMS.md     the aims page, read from its "# The aims, by cluster" heading, its bands as "## " headings and
+              its aims as "- **Aim.** sentence *homes*" bullets
+  NEXT_ROOT   a checkout of the next version: its gathering-value/ and Exhibit THIRTY
+  WORDS.py    incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py
+  WINDOW.json window_lines_now.json: the window's names, their lines, their statuses, and the names
+              a line's sentence uses
+  AREAS.json  aims_areas.json: an aim's areas on its path, and what a pass re-said of its row
 
-A row is an aim. Observing, of 7 and 15: the window's lines its words reach now, through the
-opening's named concepts. Possibling, of 2 and 14: the open notes, possible explorings and possible
-incoherings, at its homes' gathering sections, named by place. Discovering, of 13 and 9: the opening's concepts its
-chain opens next, which no window line names yet, a name of the one list marked. A concept carried with no bold name of the opening
-is missed; the table sizes a chain and decides nothing.
+A row is an aim, and its areas are the sub-concepts its path crosses. The three columns sort the areas
+by the window as it is now. Observing, of 7 and 15: an area a numbered line names, or a word the lines
+use as given. Possibling, of 2 and 14: an area a suggestion names, or a numbered line with an improving
+on offer; then the open notes, possible explorings and possible incoherings, at its homes' gathering
+sections, named by place; then a note a pass laid. Discovering, of 13 and 9: an area no line and no
+suggestion names, in italics, a word of the one list marked. The window's lines carry their reasons by
+the lines before them, back to line 1; --spine prints them. The table sizes a chain and decides nothing.
 """
-import csv, glob, os, re, sys
+import csv, glob, json, os, re, sys
 
-aims_md, root, wordsmod = sys.argv[1:4]
+
+def spine(window):
+    w = json.load(open(window, encoding='utf-8'))
+    names = w['names']
+
+    def num(v):
+        m = re.match(r'(\d+)', v['line'])
+        return int(m.group(1)) if m else 999
+
+    rows = [(k, v) for k, v in names.items() if v['status'] != 'given']
+    rows.sort(key=lambda kv: (kv[1]['status'] == 'suggested' and 'below' in kv[1]['line'],
+                              'below' in kv[1]['line'], num(kv[1])))
+    out = ['| Line | Name | Said with |', '| --- | --- | --- |']
+    for k, v in rows:
+        under = ', '.join(f"{u}, given" if names[u]['status'] == 'given' else
+                          f"{u} {names[u]['line'].split(' ')[0]}" if re.match(r'\d', names[u]['line']) else
+                          f"{u} below the lines" for u in v['under'])
+        if not under:
+            under = 'the origin' if k == 'now' else 'given words only'
+        line = v['line']
+        if v['status'] == 'suggested':
+            line += ', suggested' if 'below' not in line else ''
+            if v.get('offer'):
+                line += f", {v['offer']} on offer"
+        out.append(f'| {line} | **{k}** | {under} |')
+    given = [k for k, v in names.items() if v['status'] == 'given']
+    out.append('')
+    out.append(', '.join(given[:-1]).capitalize() + ' and ' + given[-1] +
+               ' are words the lines use and no line names: given words.')
+    return '\n'.join(out)
+
+
+if sys.argv[1] == '--spine':
+    print(spine(sys.argv[2]))
+    sys.exit(0)
+
+aims_md, root, wordsmod, window, areas_json = sys.argv[1:6]
 import importlib.util
 _spec = importlib.util.spec_from_file_location('w', wordsmod)
 _w = importlib.util.module_from_spec(_spec); _spec.loader.exec_module(_w)
 LISTED = [re.compile(p, re.I) for _, p in _w.WORDS]
 
+
 def mark(k):
     return k + ' (of the one list)' if any(rx.search(k) for rx in LISTED) else k
 
-WINDOW = {'now': '1', 'now-existing': '2', 'universe': '3', 'prior': '4', 'prior-existing': '5',
-          'next': '6', 'next-existing': '7', 'same-existing': '8', 'same-named': '9',
-          'universal set': '10', 'other-than': '12', 'nothing': '13', 'different things': '14',
-          'own-parity': '15', 'bi-coupling': '16', 'moment': '1', 'is-or-is-not': 'live', 'observing': 'live',
-          'possibling': 'live', 'discovering': 'live', 'self': 'live'}
 
-ni = sorted(glob.glob(os.path.join(root, 'Natural_Intelligence_v*.md')))
-ni = [p for p in ni if 'Corus' not in p][-1]
-names, order = {}, []
-for line in open(ni, encoding='utf-8').read().split('\n')[:80]:
-    s = line.rstrip(' \\').strip()
-    for b in re.findall(r'\*\*([^*]+)\*\*', s):
-        k = b.strip().lower()
-        if len(k) > 40 or k in names:
-            continue
-        names[k] = s
-        order.append(k)
-keys = sorted(set(names) | set(WINDOW), key=len, reverse=True)
+W = json.load(open(window, encoding='utf-8'))['names']
+AREAS = json.load(open(areas_json, encoding='utf-8'))
 
-def concepts(text):
-    t = ' ' + text.lower() + ' '
-    found = []
-    for k in keys:
-        pat = r'(?<![\w-])' + re.escape(k) + r's?(?![\w-])'
-        if re.search(pat, t):
-            found.append(k)
-            t = re.sub(pat, ' ', t)
-    return found
-
-def chain(text):
-    seen, todo = [], concepts(text)
-    while todo:
-        k = todo.pop(0)
-        if k in seen:
-            continue
-        seen.append(k)
-        if k in WINDOW or k not in names:
-            continue
-        todo += [c for c in concepts(names[k]) if c != k]
-    return seen
-
-def line_key(v):
-    return (1, 0) if v == 'live' else (0, int(v))
-
-# The gathering files and their sections.
+# The gathering files and their sections' open notes.
 gdir = os.path.join(root, 'gathering-value')
 gath = {}
 for p in glob.glob(os.path.join(gdir, '*.md')):
@@ -93,43 +97,143 @@ for l in open(thirty, encoding='utf-8'):
     if m and g:
         step_group[int(m.group(1))] = g
 
-ALIAS = {'Exhibit THIRTY': 'Co-Chaining Logic Registry', 'Natural Intelligence Corus': 'Natural Intelligence Corus'}
+THIS = 'Natural Intelligence Living Expedition Destinies'
 TITLES = sorted(gath, key=len, reverse=True)
+
 
 def section_count(title, sec):
     secs = gath.get(title, {})
     hit = [h for h in secs if h == sec or h.startswith(sec + ' ')]
-    return (hit[0], secs[hit[0]]) if hit else (None, 0)
+    return sum(secs[h] for h in hit)
 
-def possibling(homes):
-    found = []
+
+def possessive(t):
+    return t + ("'" if t.endswith('s') else "'s")
+
+
+def nums(s):
+    out = []
+    for a, b in re.findall(r'(\d+)\s+to\s+(\d+)', s):
+        out += list(range(int(a), int(b) + 1))
+    out += [int(x) for x in re.findall(r'\d+', re.sub(r'(\d+)\s+to\s+(\d+)', ' ', s))]
+    return out
+
+
+def notes(homes):
+    found, at_home, parts = [], 0, 0
     for part in re.split(r';', homes):
         part = part.strip()
-        if 'gathering' in part:
-            found.append(('a gathering note', None))
+        if not part:
             continue
-        m = re.match(r'Exhibit THIRTY, (steps?|group|groups) ([\d ,toand]+)', part)
+        parts += 1
+        if re.search(r",? and its gathering", part):
+            at_home = -1
+            part = re.split(r",? and its gathering", part)[0]
+        elif 'gathering' in part:
+            at_home = at_home + 1 if at_home >= 0 else at_home
+            continue
+        if part.startswith('Exhibit THIRTY, the whole'):
+            found.append(("Exhibit THIRTY's gathering", ''))
+            continue
+        m = re.match(r'Exhibit THIRTY, (steps?|groups?) (.+)', part)
         if m:
-            nums = [int(n) for n in re.findall(r'\d+', m.group(2))]
-            groups = sorted({str(n) for n in nums} if m.group(1).startswith('group') else
-                            {step_group.get(n) for n in nums if step_group.get(n)}, key=int)
+            groups = sorted({str(n) for n in nums(m.group(2))} if m.group(1).startswith('group') else
+                            {step_group.get(n) for n in nums(m.group(2).split(' and group')[0]) if step_group.get(n)},
+                            key=int)
+            if 'group' in m.group(2) and m.group(1).startswith('step'):
+                groups = sorted(set(groups) | {str(n) for n in nums(m.group(2).split('group')[1])}, key=int)
             for gr in groups:
-                h, c = section_count('Co-Chaining Logic Registry', gr)
-                if c:
-                    found.append((f"Exhibit THIRTY's gathering, group {gr}", c))
+                if section_count('Co-Chaining Logic Registry', gr):
+                    found.append(("Exhibit THIRTY's gathering", f"group {gr}"))
+            continue
+        m = re.match(r'[Tt]his exhibit, (\d+)', part)
+        if m:
+            if section_count(THIS, m.group(1)):
+                found.append(("this exhibit's gathering", m.group(1)))
             continue
         for t in TITLES:
-            if part.startswith(t + ' '):
-                for sec in re.findall(r'(\d+(?:\.\d+)?)', part[len(t):]):
-                    h, c = section_count(t, sec)
-                    if c:
-                        found.append((f"{t}'s gathering, {sec}", c))
+            if part.startswith(t + "'s opening") or part.startswith(t + ', opening'):
+                if section_count(t, 'Opening'):
+                    found.append((f"{possessive(t)} gathering", 'its opening'))
                 break
-    if not found:
-        return 'an opportunity: a note at its home'
-    return 'is: ' + '; '.join(dict.fromkeys(f for f, _ in found))
+            if part.startswith(t + ', ') and not re.search(r'\d', part):
+                core = re.sub(r"^(the|a|an) ", '', part[len(t) + 2:].lower()).split(' ')[0]
+                core = re.sub(r"'s$", '', core)
+                hit = [h for h in gath.get(t, {}) if core and core in h.lower()]
+                if hit and gath[t][hit[0]]:
+                    found.append((f"{possessive(t)} gathering", hit[0].split(' — ')[0].lower()))
+                break
+            if part.startswith(t + ' '):
+                rest = part[len(t):]
+                ks = []
+                for a, x, y in re.findall(r'(\d+)\.(\d+) to (?:\d+)\.(\d+)', rest):
+                    ks += [f'{a}.{i}' for i in range(int(x), int(y) + 1)]
+                ks += re.findall(r'\d+\.\d+', re.sub(r'\d+\.\d+ to \d+\.\d+', ' ', rest))
+                for sec in dict.fromkeys(ks):
+                    if section_count(t, sec):
+                        found.append((f"{possessive(t)} gathering", sec))
+                break
+    return list(dict.fromkeys(found)), ('all' if at_home == parts else 'some' if at_home else '')
 
-rows, band = [], None
+
+def cell_observing(areas):
+    out = []
+    for a in areas:
+        v = W.get(a)
+        if not v or v['status'] == 'suggested':
+            continue
+        n = int(re.match(r'\d+', v['line']).group(0))
+        if v['status'] == 'line':
+            out.append((n, f"{a} {v['line']}"))
+        elif v['status'] == 'given':
+            out.append((n, f"{a}, given at {v['line']}"))
+        else:
+            out.append((n, f"{a}, {v['line']}"))
+    return '; '.join(t for _, t in sorted(out, key=lambda x: x[0]))
+
+
+def cell_possibling(areas, homes, note):
+    sug = []
+    for a in areas:
+        v = W.get(a)
+        if not v or v['status'] != 'suggested':
+            continue
+        if re.fullmatch(r'\d+', v['line']):
+            sug.append(f"{a}, suggested at {v['line']}")
+        elif v['line'] == 'below the lines':
+            sug.append(f"{a}, a suggestion below the lines")
+        else:
+            sug.append(f"{a}, {v['line']}" + (f", {v['offer']} on offer" if v.get('offer') else ''))
+    parts = []
+    if sug:
+        s = '; '.join(sug)
+        parts.append(s[0].upper() + s[1:] + '.')
+    found, at_home = notes(homes)
+    if at_home == 'all':
+        parts.append('Its home is a gathering note.')
+    elif at_home:
+        parts.append('A gathering note is among its homes.')
+    if found:
+        byfile = {}
+        for f, sec in found:
+            byfile.setdefault(f, []).append(sec)
+        said = []
+        for f, secs in byfile.items():
+            secs = [x for x in secs if x]
+            if len(secs) > 1 and all(x.startswith('group ') for x in secs):
+                secs = ['groups ' + secs[0][6:]] + [x[6:] for x in secs[1:]]
+            said.append(f + (', ' + (', '.join(secs[:-1]) + ' and ' + secs[-1] if len(secs) > 1 else secs[0]) if secs else ''))
+        parts.append('Open notes at ' + '; '.join(said) + '.')
+    if note:
+        parts.append(note)
+    return ' '.join(parts)
+
+
+def cell_discovering(areas):
+    return ', '.join(f'*{mark(a)}*' for a in areas if a not in W)
+
+
+rows, band, missing = [], None, []
 _lines = open(aims_md, encoding='utf-8').read().split('\n')
 _start = next((i for i, l in enumerate(_lines) if l.startswith('# The aims, by cluster')), -1)
 for l in _lines[_start + 1:]:
@@ -140,15 +244,23 @@ for l in _lines[_start + 1:]:
     m = re.match(r'^- \*\*(.+?)\*\*\s*(.*?)\s*(?:\*([^*]+)\*)?\s*$', l.strip())
     if m and band:
         aim, words, homes = m.group(1).rstrip('.,: '), m.group(2), m.group(3) or ''
-        path = chain(aim + ' ' + words)
-        lines = sorted({WINDOW[k] for k in path if k in WINDOW}, key=line_key)
-        nxt = [k for k in order if k in path and k not in WINDOW][:4]
-        nums = [x for x in lines if x != 'live']
-        obs = (('is: line ' if len(nums) == 1 else 'is: lines ') + ', '.join(nums) if nums else 'is: its home') \
-            + ('; the live lines' if 'live' in lines else '')
-        disc = ', '.join(mark(k) for k in nxt) if nxt else "its own line, said with the window's words"
-        rows.append([band, aim, words, homes, obs, possibling(homes), disc])
+        c = AREAS.get(aim)
+        if not c:
+            missing.append(aim)
+            continue
+        aim = c.get('aim_said', aim)
+        words = c.get('sentence', words)
+        homes = c.get('homes', homes)
+        areas = c['areas']
+        obs = cell_observing(areas)
+        rows.append([band, aim, words, ', '.join(areas), homes,
+                     (obs[0].upper() + obs[1:] + '.') if obs else '—',
+                     cell_possibling(areas, homes, c.get('note', '')) or '—',
+                     cell_discovering(areas) or '—'])
+if missing:
+    sys.exit('aims with no areas: ' + '; '.join(missing))
 
 w = csv.writer(sys.stdout)
-w.writerow(['band', 'aim', 'areas on its path', 'home', 'observing, 7 and 15', 'possibling, 2 and 14', 'discovering, 13 and 9'])
+w.writerow(['band', 'destiny', 'its sentence', 'areas on its path', 'home',
+            'observing, 7 and 15', 'possibling, 2 and 14', 'discovering, 13 and 9'])
 w.writerows(rows)
