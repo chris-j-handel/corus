@@ -61,6 +61,7 @@ The ten clusters below are the log's bands, from one origin to the expedition it
 - The Living File Registry's 5.11, said again with the log.
 - The window's self, line 16, has no living and no observing in it: by its words a living file is a named self, and the river's two sayings are the same opportunity.
 - Same-existing-society is the area the destinies cross most often with no window line naming it: the largest discovering opportunity in the log.
+- Exhibit THIRTY's whole chain, by v405co-chain's threads table (#1075), rests on five steps: 2, the universe; 4, same-existing; 16, living; 20, living and non-living; 29, a 0. The window carries the universe and same-existing to line 1 now, at lines 3 and 8; living is suggested at 27, and a self's 0 is below the lines at 36; non-living is in no line. Those three are what the whole chain needs to reach now is the existing moment.
 
 ### The log among the betweens
 
