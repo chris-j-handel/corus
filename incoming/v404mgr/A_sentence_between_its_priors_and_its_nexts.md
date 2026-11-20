@@ -2,6 +2,8 @@
 
 How a sentence comes to both partners for Exhibit THIRTY Co-Chaining Logic Registry, as worked on 19 November by a partner and the managing session in one window, a page of the repo in sight of all the sessions. The other sessions wait until both know how to invite them.
 
+**At the closing, 19 November.** [Start here](The_working_now.md) has the method in ten lines as it is in force. This page is the longer telling of the morning of 19 November. Its marks of 1 to 5 and its form of a reply were re-said after it, and with the two parting, Start here is in force.
+
 ## The aim
 
 The purest co-chaining of sentences in Exhibit THIRTY. A sentence is one concept. It is justified by the sentences before it, and the sentences after it need it. Other living files receive what this work finds, as notes in their gathering files.
