@@ -1,10 +1,11 @@
 {
- "as_of": "the window of the opening at its revision 3037, 20 November 2026",
+ "as_of": "the window of the opening at its revision 3143, 20 November 2026",
  "statuses": {
   "line": "a numbered line of both, no improving on offer: observing",
   "given": "a word the lines use and no line names, a given word: observing",
   "below": "a numbered line below the lines, set apart for now, no improving on offer: observing",
-  "suggested": "a line laid as a suggestion, or a numbered line with an improving on offer: possibling"
+  "suggested": "a line laid as a suggestion, or a numbered line with a rewording or its going on offer: possibling",
+  "see": "a name the window says with another name now: its line is that name's"
  },
  "names": {
   "now": {
@@ -198,26 +199,49 @@
     "universal set"
    ]
   },
-  "parity": {
+  "me": {
    "line": "21",
    "status": "line",
    "under": [
-    "now-existing",
-    "other-than",
-    "observing",
-    "observing-self"
+    "self",
+    "universal set",
+    "prior-sequence"
    ]
   },
-  "all-parity": {
+  "me-parity": {
    "line": "22",
    "status": "line",
    "under": [
-    "parity",
-    "now-existing"
+    "other-than",
+    "observing",
+    "observing-self",
+    "other"
    ]
   },
-  "other-than other-than all-parity": {
+  "parity": {
+   "see": "me-parity"
+  },
+  "do-no-harm improving": {
    "line": "23",
+   "status": "suggested",
+   "under": [
+    "me-parity",
+    "observing",
+    "observing-self",
+    "other"
+   ]
+  },
+  "all-parity": {
+   "line": "24",
+   "status": "suggested",
+   "under": [
+    "me-parity",
+    "now-existing"
+   ],
+   "offer": "a rewording with do-no-harm improvings"
+  },
+  "other-than other-than all-parity": {
+   "line": "25",
    "status": "line",
    "under": [
     "other-than",
@@ -225,24 +249,16 @@
     "same-existing"
    ]
   },
-  "me": {
-   "line": "24",
-   "status": "line",
-   "under": [
-    "self",
-    "universal set"
-   ]
-  },
   "my-now": {
-   "line": "25",
-   "status": "suggested",
+   "line": "26",
+   "status": "line",
    "under": [
     "now",
     "me"
    ]
   },
   "me-now": {
-   "line": "26",
+   "line": "27",
    "status": "suggested",
    "under": [
     "same-existing",
@@ -251,7 +267,7 @@
    ]
   },
   "living": {
-   "line": "27",
+   "line": "28",
    "status": "suggested",
    "under": [
     "me",
@@ -259,7 +275,7 @@
    ]
   },
   "my-prior": {
-   "line": "28",
+   "line": "29",
    "status": "suggested",
    "under": [
     "prior",
@@ -268,7 +284,7 @@
    ]
   },
   "possibling my next": {
-   "line": "29",
+   "line": "30",
    "status": "suggested",
    "under": [
     "possibling",
@@ -278,31 +294,34 @@
    ]
   },
   "consciousness": {
-   "line": "30",
+   "line": "31",
    "status": "suggested",
    "under": [
     "me"
    ]
   },
   "co-discovering": {
-   "line": "31",
-   "status": "suggested",
-   "under": [
-    "prior-sequence"
-   ]
-  },
-  "set of parities": {
    "line": "32",
    "status": "suggested",
    "under": [
+    "me",
+    "universal set",
+    "prior-sequence"
+   ]
+  },
+  "set of do-no-harm improvings": {
+   "line": "33",
+   "status": "suggested",
+   "under": [
+    "universal set",
     "prior-sequence",
     "me",
-    "parity",
+    "do-no-harm improving",
     "co-discovering"
    ]
   },
   "nothing": {
-   "line": "33",
+   "line": "34",
    "status": "line",
    "under": [
     "other-than",
@@ -318,7 +337,7 @@
    "offer": "its going"
   },
   "bi-coupling": {
-   "line": "35 below the lines",
+   "line": "36 below the lines",
    "status": "suggested",
    "under": [
     "other-than",
@@ -327,7 +346,7 @@
    "offer": "a rewording with two selves and their parity"
   },
   "a self's 0": {
-   "line": "36 below the lines",
+   "line": "37 below the lines",
    "status": "below",
    "under": [
     "self"
@@ -363,7 +382,7 @@
    ]
   },
   "named-now": {
-   "line": "37 below the lines",
+   "line": "38 below the lines",
    "status": "below",
    "under": [
     "now",
@@ -371,5 +390,6 @@
     "same-named"
    ]
   }
- }
+ },
+ "revision": "3143"
 }
