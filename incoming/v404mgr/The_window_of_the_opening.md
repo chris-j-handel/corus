@@ -9,7 +9,7 @@ The working document of Natural Intelligence's opening. A partner, and the sessi
 - The lines are in order, one concept a line. A line's number is in the narrow column at the far right, and a sentence is alone in its row.
 - A line with a number is a line of both: a partner proposed or accepted it, and no session is offering an improving for it.
 - Bold is the one concept a line names. Italic is a visual.
-- A mark or a note is a comment on its line. A note that stays with a line through a rewording is a comment on its number. A comment opens with its line's number, then its exact change, the words from and the words to or no change, then its exact logical reason, the lines it rests on by number; its explaining comes after them. Its numbers move with the lines' numbers.
+- A mark or a note is a comment on its line. A note that stays with a line through a rewording is a comment on its number. A comment opens with its line's number and the line as offered, then says in plain sentences of natural naming how it follows from the lines before, by their numbers. One comment for a line, in one voice. Its numbers move with the lines' numbers.
 - A wording waiting for a partner's word is a suggestion, accepted or rejected on its card, its origin in the card's talk. A line going is a suggestion deleting its row.
 - A session lays its wordings as suggestions and its notes as comments, and edits no line directly.
 - The lines under *The lines to go on with* are the live opening, word for word, not yet worked.
