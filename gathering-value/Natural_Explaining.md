@@ -92,6 +92,7 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "Say it with existing words first: an -ing over a noun, and a positive over a negation." → Two sayings part at this file's own sentences: this sentence has a positive over a negation, and this file's own prose says with floating negations. Both stand.
 - **Possible incohering** · "**A new naming opens with its first coupling, its least plain words beside it**, existing words first and a set's naming resting on them; bare, a self observes it as a coordinate." → Beside it, the rest of the carbon-atom naming: a name says whether it is a carbon atom or is-not at its first use, and a name of a form of many atoms says which atoms are in it and whether carbon atoms are among them.
 - **An explaining** · Explaining says the positive with its place: explaining is existing, the line inside a cone, the is side alone, and each is-not is the cone's surface, naming's. A negation within an explaining is a surface word carried inside.
+- **An explaining** · An is of both partners, 19 November: a negation that separates is the is-not of is-or-is-not, as *not in the set* and *other-than*; a negation by a lack is re-said by a positive. With it the two sayings parting at this file's own floating negations go on as the two kinds.
 
 ### 2.7 A reference at a plain name, and no capital for the set's concepts
 
