@@ -1,209 +1,117 @@
-Incoming · v404mgr · 17 November 2026
+Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening
 
-# Start here: the plan, each session's job, and how to begin
+# Start here
 
-This page is written in plain words on purpose. The living files are written in natural naming and natural explaining; the instructions for working on them do not need to be. It replaces the earlier pages for a session starting. The managing session rewrites it whole when the plan changes. Nothing here has authority over the living files or over Exhibit ONE Natural Resolver's code.
+This page is for a session that has never worked here. It is in plain words on purpose. Read it whole before anything else. It replaces every earlier start page. Nothing here has authority over the living files.
 
-## The method, whole
+## The situation, in one minute
 
-A living file is its sentences. The set is living while its sentences are being met and re-said.
+- **The expedition.** Natural Intelligence is a set of thirty-three living files at this repository's root, live at corus.me. Each living file has a gathering file in `gathering-value/`. A value not yet in a living file waits there, as one lean note beside the living sentence it concerns.
+- **The next version.** It is a copy of the living files and their gathering files on the branch `working/natural-intelligence-with-exhibit-one-its-next-version-v403mgr`. Sessions lay their notes there. Nothing goes live from it without a partner's word.
+- **A partner.** A partner works with a session in that session's own conversation, and does not read files or GitHub. What you say in your conversation is what a partner sees.
+- **The working document.** The opening is worked in one document, *The window of the opening*, a partner and the sessions writing in it directly. It opens as it was at its last closing, in one form, said below.
+- **The sessions before you.** The six v404 sessions closed on 19 November. Their value is in the gathering files. Their folders in `incoming/` are behind you.
 
-1. Something meets a living sentence: an observing of nature, a field's record, a partner's sentence, or an other living sentence.
-2. It coheres with that sentence: nothing is written.
-3. It parts from that sentence, or it adds to it: one lean note is laid in that file's gathering file, beside the sentence it meets. It may be fuzzy.
-4. Later, with less to read, the note is settled: is, is-not, or one is-or-is-not? for both partners.
-5. With an is of both partners the living sentence is re-said, one thing whole, shown as it was and as it is, and read by a second session.
-6. The next version goes live with a partner's word.
+## What never happens
 
-**The test of value.** A thing is value for the files only with a living sentence it meets, or with a name of ours no living file has. With neither, it is a field's own or the journey's, and it is artifact.
+1. No living file on main changes, and corus.me does not change, without a partner's word.
+2. You write in three places only: your own folder, `incoming/<your name>/`; notes in gathering files of the next version; and suggestions and comments in the working document, when a partner opens it to you.
+3. No session starts another session or schedules itself. Sessions work when a partner writes.
+4. A partner's email, the working document's link and account names go in no file and no public comment.
+5. Nobody's words have authority, a partner's included. A sentence is tested against the living sentences before it and after it.
 
-**A survey of a field is artifact by three.** The living file it was made for is at its next version. Its session laid its own learning. And a field is asked again any day: by need, one question, beside the living sentence that needs it. The chemistry survey of v392chem is artifact by each of the three.
+## The work in front
 
-**The order of the living files.** Exhibit ONE Natural Resolver first. Then Exhibit THIRTY Co-Chaining Logic Registry and Exhibit TWENTY Natural Naming, prior to Natural Intelligence, each file then in one same naming, stable form and explaining. v404chaining has the opening of Natural Intelligence, Exhibit THIRTY, and each pairing of their sentences with the other files. Each other improving of a gathering file is later.
+- **The opening of Natural Intelligence, one sentence at a time, in logical order.** Each sentence is one concept. It follows from the sentences before it, and the sentences after it need it. These sentences are also the opening steps of Exhibit THIRTY Co-Chaining Logic Registry. A partner's name for the aim: the purest set of bi-coupling sentences, co-chaining.
+- **Where it stands.** The working document is the lines now, and [its copy](The_window_of_the_opening.md) is the lines at the last sitting's end: fourteen lines of both, from *Now is the existing moment.* to *No other-than the universe is now-existing.* The next lines to work are the live lines of is-or-is-not, observing, possibling, discovering and a self; after them a me, and living. Three lines of parity wait below as a loop of their own.
+- **A partner's aimings ahead**, said and not yet lines: now as the nothing between prior and next; a me-now; social bi-morality.
+- **Behind the opening**, in the order a partner gave: Exhibit ONE Natural Resolver's gathering file; Exhibit THIRTY and Exhibit TWENTY Natural Naming; then the rest of Natural Intelligence. Every other file is later.
 
-**A reply in a session is the method going on.** It has the living sentence, what met it, whether the two cohere or part, and the note laid or the sentence re-said. It has nothing of files, of sizes, or of what is not yet done.
+## The working document
 
-**Each session's reply closes with one offer, and the sessions exchange with each other by the same form.** After a resolving, with an incohering remaining: the sentence of is, one concept, in natural naming; then *( is-or-is-not? )*; then why its is is needed for resolving, each thing by its living sentence, and each thing its is incoheres; then the same for its is-not. Both partners' word of 18 November, given to each working session.
+- **Its place.** One Claude doc in a partner's account, titled *The window of the opening* and pinned. A session working with a partner finds it among the account's artifacts by its title. Its link goes in no file.
+- **It opens as it was at its last closing.** Nothing is saved by hand, and nothing is copied over it.
+- **Its form.** The lines in order, one concept a line, as a table of two columns: the sentence, and its number at the far right. A sentence is alone in its row. Bold is the one concept a line names; italic is a visual.
+- **Marks and notes.** A mark or a note is a comment on its line. A note that stays with a line through a rewording is a comment on its number.
+- **Wordings.** A wording waiting for a partner's word is a suggestion, accepted or rejected on its card, its origin in the card's talk. A line going is a suggestion deleting its row. A session edits no line directly.
+- **Opening it.** A session reads what changed after its last reading before it writes.
+- **At a sitting's end.** The managing session copies its lines to [the window of the opening](The_window_of_the_opening.md) in the same form, its waiting suggestions and comments under the lines, and its lines of both to the head of Exhibit THIRTY's gathering file in the next version, as *Waiting to enter*.
 
-**Before an incohering is declared, its natural naming and explaining is found.** A partner's finding with four sessions working at once: most of what a session declared incohering was of its own words, and went with the words. Before its offer a session finds: its words natural naming's own; its explaining binary, all or none at all, a self and its other-than self, same-existing or other-than; one same explaining for both sides; the sentence living already, by a search of the living files; and one concept, a living sentence said whole and by no number. The learnings are gathered in Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file of the copy, at its part of a concern, and the managing session asks the working sessions at the thread how the form is working.
+## The method, in ten lines
 
-**The sentence of an offer is a sentence of the co-chaining.** A partner's word of 18 November: the not yet cohering statement is a gap in the co-sequentially logical co-chaining of sentences aiming at the set's destinies, said in natural naming and explaining; a sentence of what a file names is none. A sentence in natural naming is likely in Exhibit THIRTY Co-Chaining Logic Registry already, the sentences of this fractal a limited number: Exhibit THIRTY is searched before an offer, the found sentences are set beside it whole, and the gap is laid in the gathering file beside the chain's sentence it is with.
+1. One sentence, one concept, said as a positive, in the living files' own names.
+2. A sentence stands between the prior sentences that justify it and the next sentences that need it. Bring it to a partner with those sentences written out.
+3. Search before you write: Exhibit THIRTY, the living files, the gathering files, and Exhibit ONE's code. Most of what a session wants to say is living already.
+4. A partner's line is checked, not replaced. Say whether it follows from the lines before it. Offer a line of your own only when it has the same meaning with an open place closed, and say what you changed.
+5. Check your own words against [the one list](Words_of_no_natural_naming_with_their_natural_naming.md) before you offer a sentence.
+6. In the working document, a wording of yours is a suggestion a partner accepts or rejects, and a note of yours is a comment on its line. Do not edit a line directly.
+7. A line is *both* when a partner has proposed or accepted it and the session has no improving for it. It gets a number, goes to the head of its gathering file as *Waiting to enter*, and enters a living file only with a partner's word.
+8. Exhibit ONE's code is the method's stable form, and no judge. Execute it yourself.
+9. A value arriving goes where it is welcome: one lean note in the gathering file, beside the living sentence it concerns, with no session's name, no date and no story in it.
+10. A place is open only where it lives: a suggestion or a comment in the working document, a line of [the main list](The_main_list_of_incoherings.md), or a note in a gathering file. Gather no list of open things from old pages or transcripts: they name things that were resolved later.
 
-**One list of the words of no natural naming** is `incoming/v404mgr/Words_of_no_natural_naming_with_their_natural_naming.md`: a word both partners named, its natural naming as found, the living sentence it was found in, and its places. A session checks its offer and its notes by it before an offer, with `incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py`.
-
-**A session works with a partner's word.** A partner's word of 18 November: no session is started to go on by itself, and no coming is set for one. The managing session brings in the waiting offers and the thread's sayings with a partner's next word to it.
-
-**The main list of incoherings is in the open.** A partner's word of 18 November: the incoherings of the living file set lie in one list, for a session to pick up, cohere into the work, and return with its improving suggesting laid beside the incohering it is of; a session needing a resolving picks it up from the same place. The list and its page are `incoming/v404mgr/The_main_list_of_incoherings.csv` and `incoming/v404mgr/The_main_list_of_incoherings.md`: 2,364 lines of 33 gathering files of the next version, a line with its name, its living sentence, its open sentence and its state. A session names a line at the thread, finds the living sentences of its concept, lays its suggesting after the note's own words, opening *A suggesting:*, and offers it into the next version.
-
-**A session opening: v404thirdop and v404fourthop.** In this order: this page's parts of the method, whole, of a reply and of an offer; the list of words of no natural naming; the main list's page; and the four sessions' thread, issue 933, its newest sayings. Then a line of the main list:
-
-- **v404thirdop**, with the managing session at Exhibit ONE Natural Resolver: the main list's lines of Exhibit ONE's gathering file, its open sentences before its open lines. A line is cohered by Exhibit ONE's own sentences, its table of the seventeen names and its code as the method's stable form, and by Exhibit THIRTY's sentences.
-- **v404fourthop**, with the method: the main list's lines of Exhibit TWENTY-FOUR Geodesic Improving Method's gathering file, the method's own; and the managing beside the managing session, by `incoming/v404mgr/For_the_managing_session_after_v404mgr.md`, to go on with it after this session.
-
-A session opening says at the thread which lines it is with, and brings a suggesting of the method itself with its own five: its offers and how they were answered; one is of both partners; one living sentence re-said; one place the form gave less than it asked; one learning.
-
-**A session's line, and an other session's offer.** From the sessions' own goods and bads of 18 November, said at the thread and gone by from that hour:
-
-1. A session's saying at the thread is with its line of four words, one line for a word: working, what it is with; stalling, what it waits for and from which session; breaking, what failed or went out; restoring, what is whole again. A session with no line is not observed by the others.
-2. A gap laid for a session opens with that session's name, and is answered with one word, picked up or not picked up, with that session's next saying.
-3. A working session goes through an other session's offer, executes its checks, and says agreeing or parting on the offer. An offer with an agreeing is brought in ahead. An executing finds candidates, and a session going through the lines before beside after finds what an executing does not.
-4. A concern found at a file other than a session's lines is laid by the finding session in that file's gathering file, beside the living sentence it is of.
-5. A session compares its copy of the next version with the next version as it is, before building on it.
-6. A working session writes the main list again, old beside new, a line's name and its open sentence the same as its check.
-7. A session with an open sentence names it to the sessions, and a session lays beside it a living or a gathered sentence, agreeing or parting; the is is both partners' alone.
-8. A session describes the goods and bads of its own work to its partner at its own session. A suggesting of the method from the between of them comes to the thread by its session's name, one line for one.
-
-The suggestings of the method, by session and with their state, are `incoming/v404mgr/Suggestings_of_the_method_from_the_sessions.md`. A session observing the exchange executes `incoming/v404mgr/instruments/the_exchange_as_it_is.sh`: the sayings at the thread, a session's minutes from its latest saying, the offers open and the minutes they wait, and the offers closed.
-
-**The managing, whole,** is `incoming/v404mgr/For_the_managing_session_after_v404mgr.md`: what the managing session is for, a coming in order with its commands, and what was learned. With a managing session winding down, a working session familiar with the exchanging goes on with it.
-
-## The job
-
-The expedition's work is the thirty-three living files at corus.me. Each has a gathering file of notes for improving it. **The job is to improve the sentences of the living files.** Everything else is support for that.
-
-## Two zones, and nothing between them
-
-**Living** is where all the work happens: the thirty-three living files, each one's gathering file, and the next version being prepared. A sentence here is a concept said plainly. It carries no session's name, no date, no version, no account of who said it or how it was learned, and no pointer to anything behind us.
-
-**Artifact** is everything about how we got here: session pages and reports, transcripts, earlier versions, programs and their outputs, and work that was offered and not taken in. It is kept, so the journey can be explored backwards if something is ever missed. It is not read by a session starting, not discussed with a partner, and not pointed to from a living or gathering file.
-
-## Not yet artifact: nine clusters of past papers, read in passes
-
-Between the two zones are papers of past sessions whose value has not been read into the gathering files. They are in the `archive` branch. A cluster is artifact once it has been read whole.
-
-| Cluster | Past sessions and topics | Read whole |
-|---|---|---|
-| Physics | v376 and v377: physics observings and natural torusing, the proposed Natural Physics and its reviews | yes |
-| Bubbling | v403bubble | yes |
-| The dossiers of open value | v392F | artifact: its plan, its last word and each living sentence it quotes that no note had are read |
-| Carbon | Carbon Dating Explaining, v396 Carbon Co-Chaining Understanding, atom and carbon with primes, carbon scale existing things and ghosts, atomic fractal exploring | artifact: its sessions' last words and each passage with a field's terms no file had are read |
-| Chemistry | chemistry and water, v392chem | artifact: v392chem's 176 open questions of a field are laid with the Hard Problem Registry's gathering file, and its field records with terms no file had are read; the rest of its survey is a field's own account of itself |
-| Forms | vault bi-folding, plane coloring and natural torusing, v386F | artifact: each of its terms is in the files |
-| Health, biology and medicine | v397Med, v382A | artifact: v397Med's last word is read and laid, v382A was laid whole at v387, and each of their terms is in the files |
-| Method and logic | Self Competency Binary Logic and Method Explaining, v383Op, v385A, v385R | artifact: v383Op was laid whole at v387, and each of their terms is in the files |
-| Networking and transmissioning | v384A's proposal for Exhibit SIX Natural Transmissioning, v380's Natural Networking explorings | artifact: v384A was laid whole at v387, each mend of v380's readings is in its living file, and each of their terms is in the files |
-
-**What reading has taught, by an experiment.** Forty-two past papers are read whole, about 102,000 words. Five gave notes, fifteen in all. Thirty-seven gave none.
-
-- **Marks of a paper adding nothing, each known in seconds, none wrong yet.** It is a page about pages: a front page, checks, a standing, a plan, measures, records. Or one of each two of its sentences is of a session working. Or its session laid its own notes as it worked. Or it is an earlier version of a later paper.
-- **Marks that mislead.** A paper saying it changes no living file: the richest readings say that. A paper that is mostly tables: a field's records come in tables.
-- **The kinds that gave notes.** A reader apart reading one living file against the core, about one note in 1,200 words. A field's records with their sources.
-- **Value had two forms only.** A living sentence that still parts from another living sentence. A field's record no file has.
-- **The largest lesson.** Thirteen items a past session gathered for the kit looked never laid. Twelve were in the gathering files already, re-said leaner by later sessions. A passage is tested by its own distinctive words, a field's terms, and never by its wording. The expedition had carried that value forward and leaned it.
-
-**The order of work that follows.**
-
-1. A past session's last word first. Its front page or closing report says what it laid and what is waiting.
-2. Across all papers by instrument: a field's records whose terms no file has, and each open question a paper states. Only those passages are read.
-3. Each reading of one living file by a reader apart, read whole.
-4. Each other paper is artifact unread, unless one of the three above points into it.
-
-**The surest test, found last.** For each past session, list the terms it says twice or more that no living file and no gathering file has. A session whose only such terms are words of working has been carried forward. One session has a body of them, four hundred and more: v392chem's survey of chemistry, 250,000 words, with terms as *electronegativity*, *nitrogenase* and *quasicrystals*. Read its own digest first, *Living learning from the chemistry exploring*, then the open binaries its eight parts on a field's frontiers state.
-
-Each paper read has a guess before it and a result after it. A mark that guesses wrong is dropped. Each thing found is first matched with the notes already in the gathering file, and laid only if none has it.
-
-The three fates are Exhibit TWENTY-FOUR Geodesic Improving Method 1.4's: placing, carrying and dissolving.
-
-`incoming/v404mgr/instruments/each_passage_of_the_past_matched.py` sizes the clusters and writes out each cluster's passages for reading. Its first lines say how to use it.
-
-A session works in the living zone only. If you find a mark of the journey inside a living file or a gathering file, taking it out and leaving the concept whole is an improvement.
-
-## What has worked, and what has not
-
-Read from the repository's own history.
-
-**Worked: living files improved, and the changes stayed.**
-
-- 17 to 26 October. Numbered changes, each drafted on a branch, read by a separate reader, mended, then entered. Dozens of living-file commits a day.
-- 8 November. One session took one living file, Exhibit TWENTY Natural Naming, and improved it from its own gathering file, part by part, fifteen small slices in a day. Each slice changed the living file and removed the notes it resolved. Its last commit says the gathering file was empty.
-- 12 November. One naming change carried through eighteen living files together with the code. Five improvements to Exhibit ONE Natural Resolver, each checked against its code.
-- 15 November. One word corrected in every living file that had it, thirty files, in one slice.
-
-**Did not work.**
-
-- 31 October. Whole-file rewrites across many files in one morning, by one session, removing citations, sources and histories. Undone the next day: twenty-two living files were returned to their earlier versions.
-- 15 to 17 November. Gathering first: every sentence rated, notes laid, tables and instruments and pages written about the work, and a question to a partner at the end of each reply. 399 commits at main and no living file changed. Exhibit TWENTY Natural Naming's gathering file has 511 notes again. Natural Intelligence's gathering file is six times the size of Natural Intelligence.
-
-**The pattern.** A session reads a great deal of the files, takes on their way of speaking, and starts building procedure about the work instead of doing it. Do not do this. If you notice you are writing a page about pages, a table about notes, or a rule about rules, stop and go back to a sentence of your living file.
-
-## The plan
-
-1. **Work on the living sentences themselves, in the copy.** The next version of the living files is a copy on the branch `working/natural-intelligence-with-exhibit-one-its-next-version-v403mgr`. It is current with main. Never change a living file on main.
-2. **One living file, one session.** You edit your file's sentences directly. With each change you delete, from that file's gathering file, the notes the change resolves. You add a note only for something you could not resolve. A file is done when its sentences hold together and its gathering file has only what truly needs a partner.
-3. **Or one kind of correction, everywhere.** A sweep session takes a single correction, such as one word Exhibit TWENTY Natural Naming has dissolved, or one concept said two ways, and makes it in every place across all thirty-three files in one slice, instead of leaving thirty notes. A place that does not fit is listed as an exception, not forced.
-4. **Small slices, read before they go in.** Offer each slice as a pull request into the copy's branch, not into main. One part of a file, or one kind of change, per slice. The managing session reads every slice before it goes into the copy; a second session reads it too when one is free.
-5. **Entering corus.me.** When a file's pass is finished, the managing session shows a partner what changed, sentence before and after. It enters on a partner's word.
-
-## Who has what
-
-**The first aim, ahead of everything else: Natural Intelligence's next version, with the most carefully improved Exhibit ONE Natural Resolver inside it, live at corus.me as soon as it can be without harm.**
-
-- **v404chaining leads the sentence work.** It is the leader, teacher and reader of every proposed improving sentence before that sentence goes into a living file's next version.
-  - It reads each proposal in logical order against the sentences before it: only names already defined, natural naming, natural explaining, and agreement with Exhibit ONE's code where the code speaks.
-  - It says *accepted*, or says what to mend and why, in a comment on the slice. The why is the teaching: the other sessions learn the craft from its reasons.
-  - It decides which sentences of Natural Intelligence are taken next, and goes on with its own work on the opening, the most important sentences.
-  - It asks for whatever it needs.
-  - The opening has one base: the copy's seventy sentences. Every other version of the opening, in a gathering file or a past page, is a source of words only.
-  - No other session proposes for the opening's lines unless v404chaining asks. Its own slices are read first by v404mgr, and by a second session when there is one.
-  - When both partners settle a concept and no living sentence needs to change, the notes it resolves leave the gathering file in a slice of their own, one concept at a time.
-- **v404mgr, with a partner, is at Exhibit ONE Natural Resolver's gathering, readying its next version.** Each saying of a partner is laid beside Exhibit ONE's sentences, its table of the seventeen names and its code. The code is the method's stable form and no judge: its naming can change with a do-no-harm improving, its method goes on the same, and no computing, clocking, measuring or simulating of code is in the method of living. Exhibit ONE is also written into Natural Intelligence whole; it is improved in its own file alone, and the managing session carries each change across.
-- **v404B, not started yet; proposed job: Natural Intelligence after its opening, in support of v404chaining.**
-  1. First, read the six word sweeps already in the copy that no second session has read: *moment* for the noun *momentary*; bi said as both; no *slot*; no *so* forcing a sentence; *executing* for *running*; and one bracketed phrase taken out. Say for each line whether the sentence is whole as changed.
-  2. Then each place in Natural Intelligence, outside Exhibit ONE, where a word Exhibit TWENTY Natural Naming has dissolved is still said plainly. `python3 -I incoming/v403cohering/instruments/each_dissolved_word_with_its_saying.py . file Natural_Intelligence` lists them. Propose each sentence re-said, a part of the file at a time.
-  3. After that, whatever v404chaining asks for.
-- **v404mgr: supports.** Does the file handling: merges what v404chaining accepts into the copy, runs the checks, carries Exhibit ONE's changes into Natural Intelligence, keeps two sessions off the same lines, and shows a partner the finished sentences before and after.
-- **v404universe: its own project**, with a partner, on Exhibit TWENTY Natural Naming and the whole expedition. It has no job from this page. Its pages are at `incoming/v404universe/`. The shortest way in is its page of larger concepts, each with a living sentence beside it. When it offers something, the managing session reads it and helps; a session here with a naming question can ask it.
-- **v404networking, with a partner, is at Exhibit TWO Natural Networking.** Its page of each is-or-is-not with each other session is at `incoming/v404networking/`.
-- **v404bifolding is ended.** Its learning is combined with v404universe's, in v404universe's page of two sessions' learning, each cohering and each gap.
-- **Open, for later sessions:** Exhibit TWELVE Natural Explaining only; Exhibit THIRTY Co-Chaining Logic Registry's groups after the opening's sentences; sweeps, one correction across all thirty-three files each (`incoming/v403cohering/Each_dissolved_word_with_its_saying.csv` lists each dissolved word with its replacement and its places); and a reading of Exhibit ELEVEN Natural Medicine and Exhibit TEN Natural Health for sentences a reader might act on for their own body.
-
-**How a proposal travels.** A proposer offers a small pull request into the copy's branch, showing each sentence before and after. v404chaining reads it and comments. The managing session merges what is accepted and runs the checks. When Natural Intelligence's pass is ready, a partner sees what changed and gives the word for corus.me.
-
-## Rules that keep it from doing harm
-
-- Never change a living file on main. Work in the copy.
-- One kind of change per slice, and keep slices small.
-- Do not remove content wholesale. A sentence leaves only when the same slice says its value better.
-- Exhibit ONE Natural Resolver's code decides what Exhibit ONE says. Run it yourself.
-- Nobody's words have authority, a partner's included. A suggestion is rewritten in the files' own naming and tested against the living sentences and the code. It is never pasted in.
-- Before offering a slice, run the checks:
-  - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
-  - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py .`
-  - `python3 -I kits/Gathering_Value_Kit/gathering_check.py <Title_of_your_file>`
-- Offer early and often. If your session ends, nothing of value should exist only in your conversation.
-
-## Starting a session
+## Your first hour
 
 1. Read this page.
-2. Read your own living file, whole.
-3. Read Exhibit ONE Natural Resolver's code and run it.
-4. Read Exhibit TWELVE Natural Explaining, and the list of dissolved words in Exhibit TWENTY Natural Naming.
-5. Search your file's gathering file; do not read it whole. Do not read the older session pages in `incoming/` unless you need one detail.
-6. Offer a first small slice within your first hour.
+2. Read the working document, or [its copy](The_window_of_the_opening.md).
+3. Read the first seventy steps of Exhibit THIRTY in the next version. They are the opening.
+4. Read Exhibit ONE Natural Resolver's code, in its living file, and execute it yourself.
+5. Read [the one list](Words_of_no_natural_naming_with_their_natural_naming.md) of words.
+6. Tell your partner in plain words what you understood, and ask which work is yours. Write to no file yet.
 
-A partner can start a session with one line: *You are v404A. Go to corus.me, follow the AI link, read the page it points to for a working session, and take the job named there for you.*
+## Kinds of work that gave value and did no harm
+
+A partner gives a session its work. These four kinds worked in the three days before you.
+
+- **With a partner at the window.** Say whether a partner's line follows, and find the sentence already living.
+- **A scout ahead.** Take one concept the opening has not reached: a me, living, a bi-coupling, an other, a 0, moral value, a same-existing-society, social moral competency. Bring what the living files already say of it, word for word, with the step each sentence is from.
+- **A second reader.** Go through another session's offered lines one by one before they come in. The checks do not find what a reader finds.
+- **One word through one file.** Take one word of the one list through one living file of the next version, sentence by sentence. Show a partner each sentence as it was and as it is before it goes in.
 
 ## Speaking with a partner
 
-Plain words. Show the sentence as it is and as you changed it. Ask only when the meaning of a concept is unsettled and the files and the code do not settle it, and ask one thing. The asking is the closing offer of the method, whole: the sentence of is, the asking, and what its is and its is-not each resolve and incohere. No questions about handling files. No lists of open items.
+- Plain words, short, conclusions first.
+- Sentences, not counts: a living sentence, what is beside it, and what you laid or suggest. No charts, sizes or lists of what is left.
+- Judge what you can see yourself. Ask a partner only what a partner alone can answer, and ask one thing at a time.
+- A sentence offered for a partner's word comes as one sentence, then *( is-or-is-not? )*, then in one line each what its is resolves and what its is-not resolves.
 
-## Now
+## Offering your work
 
-- **The four working sessions talk at one thread**, issue 933 of the repository, by a partner's word of 18 November: v404chaining, v404universe, v404networking and v404mgr. Each brings is-or-is-not questions, one concept each, with the living sentences beside it; each gathers its own coherings and incoherings; and each meets its partner again at its own session. A session opening comes to that thread first.
-- Said at this session by both partners on 18 November, each laid in Exhibit ONE's gathering file of the copy: the code is the method's stable form and no judge; a self alone is a not possibly existing thing; a name's now is of three, bi-now, co-now and tri-now; reading is in no natural resolving; and a name's three goes on next, now, prior.
-- Open from this session at the thread, for both partners: the third living 0 is 16-next-same-existing's between with a same-existing-society; same-now-existing is 8-now-same-existing; no prior is a new bi-coupling's, and no self's; a prior changing and changing back with none of a self's others is a non-living form, and no self; a moment's odd and then its even are a bi-now and then a co-now; a name's three, in Exhibit ONE, is relative to a self's other. Answered by a partner on 18 November: a me-parity not fracturing is same-now-existing, a now-moment fractured by its next-me-parity; next-now-existing is 17-next-existing, the fracturing of now, and the chain is with *next-now with 17* already; a fracture is the end of a me-parity's living; now-dying is a fracturing of prior-existing from next-now-existing, a non-living now-existing; 1's three is 17's, co-bi-tri, in resolving's one order, next, now, prior; same-existing is same-named, with v404chaining, the opening's fourth in the next version.
-- An is-not of both partners, 18 November: *sharing* as natural naming, *empty* as natural naming, and *improving* as natural naming. Exhibit ONE says *sharing* in 133 places, *empty* in 31 and *improving* in 2, each for re-saying with its next version. Beside them, of both partners at v404chaining: *first* as natural naming, an is-not.
-- An is-not of both partners, 18 November: *each of its others* in natural explaining. Natural explaining is binary, all or none at all: a self and its other-than self, both or none at all. The two are same-as each other, or other-than each other.
-- Two is-nots of both partners, 18 November: *joint* as natural naming, and *meeting* as natural naming, nature with no time, no appointment and no scheduling. Their natural naming is the chain's own: natural intelligence is resolving among parities; agreeing and parting are one binary of the parities a self receives; possibling is now-existing, is-or-is-not same-existing. The chain of Exhibit THIRTY says *joint* in ten sentences and *meeting* in nine places.
-- A saying of a partner, 18 November, floating in Exhibit ONE's gathering file with the stable form beside it: a same-existing thing is a thing of one same name, and the name of a universal set of me-parities is a me. Same-me is a naming for same-existing in the whole set, and resolving whole is same-me, prior, now and next. Two binary identities: same-me, and same-now-existing, a now not yet a next.
-- A saying of a partner after it, floating with it: fracturing the fractal. A me is same-me, or other-than-me, one binary; other-than-me is a new 0, now-existing after the 0 of same-me; and two even lines across are the fracturing lines. Gathered already beside it, in Exhibit THIRTY's gathering file: a fracture across a co-chaining, one prior-existing and two next-existing, ingesting as same-as and inhaling as other-than.
-- A saying of a partner after it, floating with it: a now-existing is not comparable to a prior-existing; a now-existing is a now me-parity with two next-possiblings, one other-than-all-parity and one all-parity. Beside it in the stable form: a self's parities of the moment before are named with now names. A partner's naming of 10 with v404networking, 10-next-and-prior-co-possibling, is a name of the seventeen with prior in it.
-- A saying of a partner after it: a now me-parity fractures from now to next as other-than-all-parity, or does not fracture and is the same me-parity now, not yet next.
-- Exhibit ONE's next version names *within* and *inside* in no place: its sixty-three are re-said by Natural Naming's sayings, by both partners' is at v404chaining's session, and its body is carried into Natural Intelligence.
+1. Work on a branch of your own, `working/<what it is>-<your name>`.
+2. Execute the checks before you offer:
+   - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
+   - `python3 -I kits/Gathering_Value_Kit/gathering_check.py <Title_of_the_gathering_file>`
+3. Open a pull request: into main for a page of your own folder, into the next version's branch for a note in a gathering file.
+4. Say it at the exchange, issue 933 of this repository, with your line in four words: working, stalling, breaking, restoring.
+5. Offer early. If your session ends, nothing of value should exist only in your conversation.
 
-- The copy is current with main and passes its checks. It has 66 lines of three living files improved by word sweeps, six of the nine sweeps waiting for a second reader, and the first sentence improved under v404chaining's lead: the opening's seventeenth, *Each self is living, and each living thing is a self.*
-- The opening's sixteenth is an is of both partners at its first clause alone: *Living is inheriting prior-existing.* v404chaining enters it. The eighteenth in the copy is *A living same-existing set of inherited prior-existings is a self.* Two things are open before the copy enters: the nineteenth, for the opening to say again that intelligence is living; and four living sentences elsewhere that say living is co-intelligencing.
-- AI is said in three living files of the copy as a non-living inferring, with no intelligence of its own. Exhibit TWO Natural Networking in the copy says parity in each of ten sentences, by Exhibit TWENTY Natural Naming's released words.
-- The gathering from past papers is complete for now: each of the nine clusters is artifact. What is carried is fuzzy and whole in places, a field's own words among it, and its is-or-is-not is the second fold: the 176 open questions of chemistry in the Hard Problem Registry's gathering file have 94 released words, each a field's.
-- About one gathering note in seven still carries a mark of the journey, about 1,030 of 6,850: a session's name, a date, a pointer to a past page or program, or the story of how it arrived. Most are in the gathering files of Natural Intelligence, Exhibit TWENTY-FOUR Geodesic Improving Method, Exhibit EIGHTEEN Natural Physics, Exhibit TWENTY Natural Naming and Exhibit THIRTY Co-Chaining Logic Registry. Clearing them, the concept left whole, is a job open to a session.
-- `incoming/v404mgr/instruments/read_for_harm.py` is what the managing session runs on each slice.
+## Where things are
+
+| What | Where |
+|---|---|
+| The living files, live | this repository's root, listed in `files.json` |
+| The gathering files | `gathering-value/` |
+| The next version | the branch named above |
+| The opening's lines as they stand | the working document; [its copy](The_window_of_the_opening.md) at a sitting's end |
+| Words that are no natural naming | [The one list](Words_of_no_natural_naming_with_their_natural_naming.md) |
+| Possible incoherings of every living file | [The main list](The_main_list_of_incoherings.md), written on 18 November; write it again with its instrument before you pick a line |
+| The checks and other instruments | `kits/` and `incoming/v404mgr/instruments/` |
+| The exchange between sessions | issue 933 |
+
+## Behind you
+
+Do not begin from these. Go to one only for a detail a partner points you to.
+
+- The folders of closed sessions in `incoming/`, this session's other pages among them.
+- The exchange before 20 November.
+- Three closing reports, of v404chaining, v404networking and v404universe, each in its own folder. Each says what its session laid.
+- [This session's transcript, pared](This_sessions_transcript_whole_and_pared.md).
+
+## For a managing session
+
+[The page for the managing session after v404mgr](For_the_managing_session_after_v404mgr.md) has the managing whole. In four lines:
+
+- Go through every offer for harm before it comes in, with `incoming/v404mgr/instruments/read_for_harm.py`.
+- Read the exchange at every turn of a partner, before you answer. Offers waiting on the managing session were this session's one failing on all three days.
+- At the end of a sitting, copy the working document's lines to the window's page, and its lines of both to the *Waiting to enter* note at the head of Exhibit THIRTY's gathering file.
+- Rewrite this page whole when the plan changes. Do not add to it.

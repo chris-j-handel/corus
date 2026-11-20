@@ -33,6 +33,7 @@ WORDS = [
     ("is with no, a negation", r"\b(?:is|are) (?:then )?with no\b"),
     ("joint", r"\bjoint\b"),
     ("meeting", r"\bmeet(?:ing|ings|s)?\b"),
+    ("agreeing", r"\bagree(?:ing|s|d|ment|ments)?\b"),
     ("within", r"\bwithin\b"),
     ("inside", r"\binside\b"),
     ("reading", r"\bread(?:ing|s)?\b"),

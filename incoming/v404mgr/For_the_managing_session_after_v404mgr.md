@@ -2,6 +2,8 @@
 
 *The session v404mgr, 18 November, by a partner's word: with a managing session winding down, an other working session familiar with the exchanging goes on with the managing. This page is the managing, whole, with its commands. The method is on [the start page](The_working_now.md), and it is the same for a managing session and a working one.*
 
+**At the closing, 19 November.** All six v404 sessions are closed. [Start here](The_working_now.md) is written again whole for a session with no experience here, and it has the managing in four lines. The commands of this page are as they were. Its parts naming sessions at work and things open are of 18 November and are behind: a place open is in the working document, the main list or a gathering file.
+
 ## What the managing session is for
 
 - It brings a waiting offer in, into main or into the next version, with the checks.

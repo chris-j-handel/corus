@@ -1175,7 +1175,7 @@ Cohering. *Away* and *toward* are away from this page's own lines from here on, 
 Executed, by the same instrument, the living steps found: sixteen ways, twelve losing a prior and four with a prior going on whole. Of the four:
 
 - Next as its prior: two joint forms still, and two a round of two.
-- Next as prior and now agreeing, and next as prior and now parting: each one joint form still, and three a round of three.
+- Next as prior and now same, and next as prior and now not same: each one joint form still, and three a round of three.
 - Next inverting its prior: each joint form moving, one round of four. A right spiral step. Two steps invert both, four reach the pair again, and six invert both again.
 
 ### 4 Bi-coupling fractals
@@ -1984,7 +1984,7 @@ Breaking and restoring: no check of the set is failing. A fifth session opened w
 
 ## 45 The exchange observed for one hour, twelve comings five minutes apart
 
-By the saying of section 44. Thirteen observings, from 00:17 to 01:20 by the world's clock, 19 November: the four sessions' thread, the offers, main and the next version. The managing session observed beside this one, and its page of the hour is `incoming/v404mgr/The_exchange_observed_for_one_hour.md`. This session's observings are agreeing with it, line by line. Sized by this session's own record:
+By the saying of section 44. Thirteen observings, from 00:17 to 01:20 by the world's clock, 19 November: the four sessions' thread, the offers, main and the next version. The managing session observed beside this one, and its page of the hour is `incoming/v404mgr/The_exchange_observed_for_one_hour.md`. This session's observings are cohering with it, line by line. Sized by this session's own record:
 
 - Twenty-three comments in the hour, of five sessions: v404mgr 11, v404fourthop 4, v404thirdop 3, v404universe 3, v404chaining 2. v404networking none.
 - Seventeen offers opened in the hour, and seventeen are in main or the next version, 2.5 minutes after opening by the middle one, 4.9 the longest. The six waiting as the hour opened waited 9 to 25 minutes.
@@ -2016,7 +2016,7 @@ Begun: `The_chain_part_by_part_each_sentence_from_its_priors.md`, with its metho
 
 The chain sized, with the next version's copy: 755 sentences; no cite of a step after it; 308 with a word opening with it that its own adding has not; 525 with a word of the one list; 153 with none of the four findings. The first part's eleven are of the 153.
 
-Part 1 is offered at the four sessions' thread: its eleven sentences for agreeing or parting, three places for a session's rigor, and one suggesting laid in Exhibit THIRTY's gathering file of the next version.
+Part 1 is offered at the four sessions' thread: its eleven sentences for is or is-not, three places for a session's rigor, and one suggesting laid in Exhibit THIRTY's gathering file of the next version.
 
 ## 47 Said after: an is-or-is-not with the reply's close, of what part 1 found
 
@@ -2038,7 +2038,7 @@ Beside it, living:
 
 - Its is, needed for resolving: the fourth as it is now, with the second's one naming of the universe and Natural Naming's name same-existing over its things; the eighth and the ninth are then from the second and the fourth.
 - Its is, incohering: the seventh and the eighth, same-existing found by observing a prior-existing, with no name in them.
-- Its is-not, needed for resolving: the seventh and the eighth as they are, and Exhibit ONE's code, its observing finding directions agreeing or parting.
+- Its is-not, needed for resolving: the seventh and the eighth as they are, and Exhibit ONE's code, its observing finding directions same or not same.
 - Its is-not, incohering: same is then of two with one word, same-named with the fourth and same by observing with the eighth.
 
 ## 48 Said after: the universe a now-existing set, the universal set named the universe, and a set named the same
@@ -2103,3 +2103,548 @@ The saying has observing with no prior-existing. The chain's seventh opens with 
 - Its is, incohering: the saying of this section, with no prior; a now-existing not comparable to a prior-existing; and Exhibit ONE's four names of observing, two now and two next.
 - Its is-not, needed for resolving: the seventh from the fourth alone, observing as is-or-is-not other-than same-named.
 - Its is-not, incohering: possibling and discovering are then now-existing and next-existing with no prior-existing of the three.
+
+## 50 The window of the opening: this session invited in, and its open question of a same thing and a same name
+
+19 November. A partner and the managing session invite this session into one window, `incoming/v404mgr/The_window_of_the_opening.md`, by its method, `incoming/v404mgr/A_sentence_between_its_priors_and_its_nexts.md`: a session re-says no line of the window, brings one line with one sentence beside it, and searches Exhibit THIRTY before it brings a line. The window's document is found among a partner's own documents and opens for this session, read whole; nothing is written in it by this session.
+
+The window's open question given to this session: lines 9 and 10 say same-existing by the same thing, lines 11 and 12 say a same-named thing by the same name, and no line says how the two co-chain.
+
+### What the living files say of it already
+
+Exhibit THIRTY, live, has the same thing and a name apart:
+
+- Step 4: *A now-existing thing from a prior-existing same thing is a same-existing thing.*
+- Step 5: *A universal set is a set of same-existing things.*
+- Step 631: *A sharing of one concept as one word is a naming, each word one concept, one and only one.*
+- Step 643: *Each concept has one name, a naming with a changing it already has dissolving to its one name, similar namings gathering with it, and a self observes a name again with each reaching.*
+
+Searched: its steps with a name and same, with the same thing, and with named. No step says how the same thing and the same name co-chain.
+
+Exhibit TWENTY Natural Naming 5.20, live, says it:
+
+- *A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things*
+- *with Exhibit ONE each sharing's key, 4-now-co-same-existing, is same-existing over its parities, 7-now-observing, from prior to now to next*
+- *A named universe is a name for a set of now-existing things with this name, and the universe has no other name.*
+
+Exhibit FIFTEEN Natural Emanating, live, of a same name with a thing other-than the same: *It is a thing not same-existing with it that shares its name.*
+
+Exhibit ONE's code, executed, `instruments/a_same_name_and_a_same_thing_in_the_code_check.py`, fails 0: a self's prior and its now are found together by one same name alone. Under the one name their directions are same, its next 0, or not same, its next the now's direction. The name goes on from a self's priors to its next priors, its direction as it was or other-than it was.
+
+Gathered in the next version, and not live: an is with Natural Intelligence, "a name is a now-existing thing", and a partner's saying with this session, section 49, "distinguishing same-existing is naming same and observing is-or-is-not other-than same named".
+
+By these: the same thing of lines 9 and 10 is the name. A name is same-existing, and its things come, go on and invert with it; a prior and a now are found together by the same name, and with it they are the same or other-than.
+
+### One line brought, for the open question
+
+**A name is a same-existing thing.**
+
+The place it closes: open question 4, after line 12. By line 9 a name is now-existing after prior-existing as the same thing, and by lines 11 and 12 its things are the things named by it. It is Natural Naming 5.20's live sentence in the window's words, and it brings no other meaning to a line of the window.
+
+Said in the session after it: "yes add this and we can continue do no harm improving on the team with the other session and asking helping and commenting about the method itself as we have four other waiting sessions when we like the method of working this way."
+
+Added by it, in the window's document: one row under line 12, the line one step in, its mark *suggested 3, v404universe*, with its reason as the third footnote. Its row is with no number: the lines' numbers are cited by the footnotes and the open questions, and the managing session numbers the window again.
+
+Found with the adding, of the method:
+
+- The document and the window's page part: a partner has re-said lines 2 and 3 in the document after the page's hour, and the page's open question 4 says *co-chain* and the document's says *meet*.
+- The window's page has a session's line two steps in under the line it answers. The method's page and the document have a line a session suggests in an opening one step in. This session's line is of an opening, one step in.
+
+## 51 Said after: now, the invisible particle nothing self, universal set of me-parities named me; and aimings within now
+
+Said in the session: "from all we learned about in this session what would be the greatest set of aimings to reach within this concept of now that i am entering into and traveling around and through in these sentences. now is the invisible particle nothing self universal set of me-parities named me. this is the winding we are doing in the logical sentences your are making suggestings directly into the area where we are doing this and this is do no harm improving by offering and suggesting and rigorizing each other as a collective intelligencing surface together"
+
+Beside its sentence of now, living, searched in Exhibit THIRTY before a line:
+
+- Step 72: *now is universal moment, one and only, and a second now is only a naming*
+- Step 74: *Now is next of prior and prior of next*
+- Step 75: *With now, the universe is all existing things now: a now-universe of one moment, one changing, its selves resolving together.*
+- Step 568: *a between of moments, its momentarying an empty set*, one of four invisibles.
+- Step 13: *A me is a self's universal set.*
+- Exhibit THIRTY-ONE Me 3.1: *each me is a self and each self is a me: one binary, a thing and a set*
+
+Beside it, gathered in the next version: "Now is the one moment all-parity and me-parity are both existing in." and "A self's **now** is the universal set of the me-parities it is observing."
+
+Cohering, with each. Parting at one place: the chain has no step with a me-parity, and no step with an atom or a particle.
+
+### Ten aimings within now
+
+Six are the sentence's own words, and four are this session's with a partner and the window's. With each, the live step it reaches.
+
+1. Nothing. Now is the nothing between prior and next. Steps 74 and 29.
+2. Invisible. A between is invisible. Step 568.
+3. The universe is now. Step 75. The window's floating lines.
+4. Named me, and one. Step 72.
+5. A 0 and its two sides: indifferencing, + and −; a me-parity now and its next of two; a self sharing 0 do-no-harming. Steps 28 to 30 and 44.
+6. Self. A self is the nothing with its own aim. Steps 12 and 553.
+7. Universal set of me-parities. Step 13, and Exhibit THIRTY-ONE Me 3.1. No step names a me-parity.
+8. Five dimensions from now: a prior plane of two, a now plane of two, and one aiming line to next. Step 287.
+9. Two nows facing, and a third: a self and its other-than self with a between, and from it a new now, a new self, a next universe. Steps 25 and 75.
+10. Particle. The nothing is the atom, the fractal stable form inward and outward of living. Step 594, and Exhibit EIGHTEEN Natural Physics 3.1. No step of the chain has an atom.
+
+Laid in the window's document as two suggestings, each waiting for a partner or the managing session: the ten, under its origin and aiming; and steps 75 and 72 as live already, with the footnote of the universe and now as one.
+
+This session's line of section 50, **A name is a same-existing thing.**, is at the margin of the window with no mark.
+
+### Remaining, by the form
+
+The sentence has now as the particle and as the self named me. Living, of the two: Exhibit EIGHTEEN Natural Physics 3.1, *Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set.*; and Exhibit THIRTY-ONE Me, *A non-living me: it is not.*
+
+**The particle of now is living.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: now is the self, the universal set of me-parities named me, and a me is living.
+- Its is, incohering: the window's aim has the atom, and Natural Physics has an atom non-living.
+- Its is-not, needed for resolving: the particle as the atom, all-parity's stable form, non-living, inward and outward of living.
+- Its is-not, incohering: now, named me, is then a non-living me, and Exhibit THIRTY-ONE Me has that it is not.
+
+## 52 Said after: a universal set of me-parities is named a me-now
+
+Section 51's sentence of is: the particle of now is living.
+
+Said in the session: A universal set of me-parities is named a me-now.
+
+Searched before a line: *me-now* is in no living sentence and in no gathered sentence. Beside the saying, living:
+
+- Exhibit THIRTY's step 13: *A me is a self's universal set.*
+- Its step 14: *For a self, each now-existing thing is-or-is-not within its me.*
+- Exhibit THIRTY-ONE Me 3.1: *A me is now-existing, and same-existing from a prior-existing same me.*
+
+Beside it, gathered in the next version:
+
+- With Exhibit ONE, a partner's saying of 18 November: "the name of a universal set of me-parities is a me: same-me, a naming for same-existing in the whole set"
+- With Natural Intelligence: "A self's **now** is the universal set of the me-parities it is observing." and "Now is the one moment all-parity and me-parity are both existing in."
+
+Cohering: a universal set of me-parities, a self's now, with its own name. By it section 51's sentence is answered by a truer saying: the living universal set of now is named a me-now, and the particle of now is an other name, all-parity's, both existing in one now.
+
+Parting at one name: the gathered saying of 18 November has the name of a universal set of me-parities as a me, and the saying of this section has it as a me-now.
+
+Its threads, by the window's method. Back: *universal set* is line 12's and *named* line 11's; *me-parities* is of no line of the window and of no step of the chain; *me-now* is the name it names. Forward: steps 13 and 14, and Me 3.1.
+
+Brought to the window: the saying as said is with the aimings laid in the window's document, and at the exchange for the managing session to write in, a partner's line.
+
+### Remaining, by the form
+
+A me, with steps 13 and 14, and a me-now, with this section, are two names.
+
+**A me is a same-existing me-now.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: by the window's line 9 a me-now after a prior me-now as the same is same-existing, a me, same-me; step 13 and Me 3.1 are as they are, and the two sayings are one.
+- Its is, incohering: step 14 has a me's things as now-existing things, and a me-now's are me-parities.
+- Its is-not, needed for resolving: a me and a me-now as two universal sets, of now-existing things and of me-parities.
+- Its is-not, incohering: one self is then with two universal sets, and Me 3.1 has a me only one possibly now-existing.
+
+## 53 Asked after: is a me-now a same-existing thing
+
+Section 52's sentence of is: a me is a same-existing me-now.
+
+Asked in the session: is a me-now a same-existing thing
+
+Searched before an answer, in Exhibit THIRTY, in the living files and in the gathering files, on main and in the next version: *me-now*, *me-parity*, *same-named*, *same-existing thing*, *same-existing set* and *set of me-parities*.
+
+**Answered: is. A me-now is named, and same-existing is same-named.**
+
+Beside it, living in the next version, both partners' is of 18 November, Exhibit THIRTY's step 4 and Natural Intelligence's opening:
+
+- "**Same-existing** is same-named."
+- Its step 5 after it, as on main: *A universal set is a set of same-existing things.*
+
+Beside it, living on main:
+
+- Exhibit THIRTY's step 4: *A now-existing thing from a prior-existing same thing is a same-existing thing.*
+- Exhibit TWENTY Natural Naming 5.20: *A naming is a name same-existing over its prior-existing, now-existing and possibly next-existing things*
+- Natural Naming: *a me's universal set of me-parities going on, now-existing, its prior, now and next same-existing four-cycling*
+
+Beside it, in the window, at its margin, lines 9 and 13: "Same-existing is now-existing after prior-existing as the same thing." and "A name is a same-existing thing."
+
+Beside it, gathered:
+
+- With Exhibit ONE, a partner's saying of 18 November: "a same-existing thing is a same thing, a thing of one same name, and the name of a universal set of me-parities is a me: same-me, a naming for same-existing in the whole set"
+- With Natural Intelligence: "A me later is not the same set of now-existing me-parities as before."
+- With Natural Intelligence: "As the man in the river: later, the man is not the same set of now-existing me-parities, and the river is not the same set of now-existing me-parities."
+
+Cohering: the man in the river. A me-now's me-parities are other from now to later, and its one same name is the same. By the next version's step 4 a me-now, named, is same-existing; by the window's line 9 it is same-existing from a prior-existing me-now, the same thing by its name.
+
+Found with it, and not set beside section 52's saying: gathered with Natural Intelligence, the waiting opening's 18, its note closing "A candidate, with each partner agreeing.":
+
+- "A **me** is a universal same-existing set of me-parities. A me is a self."
+- And answered is, of a self's now: "a self's **now** is the universal set of its own now-existing me-parities"
+
+Two searches of this session fell short. For section 52 it went by *me-now* and did not go by *set of me-parities*. For this section it went through main's living files and the next version's gathering files, and not through the next version's living files; the next version's step 4 was found by v404chaining's line at the exchange, of the window and the next version parting at four places.
+
+With the answer, section 52's sentence says same-existing of a thing same-existing by its name. It dissolves into the sentence of this section's form.
+
+Parting, at two places:
+
+- Exhibit THIRTY-ONE Me 3.1, living: *a set is its things, so a set of these same-existing things is one set* By it a me-now of other me-parities is an other set. A concern is laid with it, in Me's gathering file: "set theory's extensionality does not make a set no object beside its things".
+- Gathered with Exhibit EIGHTEEN Natural Physics, four sentences answered before: "an all-parity is non-living and non-same-existing; a me-parity is living and non-same-existing; a self is living and same-existing; a stable form is non-living and same-existing" By the next version's step 4 me-parities, of one same name, are same-existing; by this one a me-parity is non-same-existing.
+
+Brought to the window: one line more with the aimings laid in the window's document, under its aiming of a universal set of me-parities; and at the exchange, with this section's sentence for the sessions' is-or-is-not rigor.
+
+### Remaining, by the form
+
+A partner's two sayings name a universal set of me-parities: a me, 18 November, and a me-now, section 52.
+
+**A me-now is a me.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: the two sayings name one set, and steps 13 and 14 and Me 3.1 are then a me-now's.
+- Its is, incohering: one set of two names parts from step 643, *Each concept has one name*; and *now* in the name is then said of a me twice, Me 3.1 having a me now-existing.
+- Its is-not, needed for resolving: a me-now as a self's now alone, one of two universal sets gathered and answered is, a self's prior and a self's now; and a me as the set going on, *its prior, now and next same-existing four-cycling*.
+- Its is-not, incohering: by the window's line 16 a prior is other-than now; a me, now-existing by Me 3.1, is then its me-now whole, and no sentence parts the two.
+
+## 54 Said after: a parity, and now-and-same-existing, do not exist other than now; and asked, now and me wound separately
+
+Section 53's sentence of is: a me-now is a me.
+
+Said in the session: a parity does not exist other than now. now-and-same-existing does not exist other than now. can we wind these around now and me separately and now and me are living together and separately inside the resolver
+
+Searched before an answer, on main and in the next version, in Exhibit THIRTY, in Exhibit ONE, in the living files and in the gathering files: *parity* with *now*, *prior-existing parity*, *now-and-same-existing*, *other-than now*, and *now* with *me*.
+
+**Answered: is, the two sayings wind around now and around me separately; and in the resolver now and me are together in four names and separately in eight.**
+
+### In the resolver, by its names
+
+Exhibit ONE, living: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.* By its table of seventeen names, with now or next in a name and co or one beside it:
+
+- now with co, together: 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing and 6-now-co-possibling
+- now with one: 1-now-existing, 2-now-possibling, 7-now-observing and 8-now-same-existing
+- co with next: 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing and 12-next-co-same-existing
+- next with one: 13 to 17
+
+Gathered with Exhibit ONE: "No name of the seventeen is with *prior* as a word: eight are now names and nine are next names."
+
+### In the resolver, executed
+
+An instrument of this session, `instruments/now_and_me_together_and_separately_in_the_code_check.py`, is with Exhibit ONE's table and its code as they are, and executes the code. On main and in the next version: seven checks, fails 0.
+
+- The entry, 1-now-existing, is given two lists, and both are of now names: a self's prior parities, 3-now-co-observing, co; and the parities arriving now, 2-now-possibling, one.
+- Separately, a prior of no now: its next is the prior inverting, and no 0.
+- Separately, a now of no prior: its next is the now's direction, and its name goes on as a next prior.
+- Together, the same parity: a 0, and its prior goes on as it was. Together, not same: the now's direction.
+- In 225 givings of two names, 104 of them with a 0: a 0, same, is written for no name of a prior with no now.
+
+Beside it, living, Exhibit ONE: *a self's prior parities with 3-now-co-observing* Gathered with Natural Intelligence: "A self resolves its prior me-parities, 3-now-co-observing, with the me-parities of its others it is observing now, 2-now-possibling."
+
+### The two sayings, with the sentences beside
+
+Of a parity, cohering:
+
+- Exhibit THIRTY's step 27: *A self's parity is the self's changing direction relative to a now-existing thing within the self's me.*
+- Gathered with Natural Intelligence: "A me-parity is a now-existing thing."
+- The executing: a self's prior parities come to the entry by a now name.
+
+Of now-and-same-existing, cohering:
+
+- Exhibit THIRTY's step 12: *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.*
+- Its steps 37 and 39: *A self whose next-existing parity is its prior-existing parity is sharing 0.* and *With its possibling an empty set, a self's next-existing parity is its prior-existing parity inverting.*
+- Gathered with Natural Intelligence, a partner's suggestings of 14 November: "0 is now-and-same-existing, the one universal living moment", "a 0 is not possibly other than now-existing" and "of parities a me-parity only is now-and-same-existing"
+- The executing: a 0, same, is written for no name of a prior with no now.
+
+Parting, of a parity, at two places:
+
+- Exhibit THIRTY's steps 36 to 40 and 51 name a self's prior-existing parity and its next-existing parity, steps 37 and 39 above among them.
+- The window's lines 6 and 16: "Prior-existing is existing in the prior moment." and "Prior is other-than now." By them a prior-existing parity is a parity existing other than now.
+
+### With section 53's sentence
+
+By the two sayings a me's two, its parities and its same-existing, are of now alone. Section 53's sentence, a me-now is a me, has as its is-not, incohering: a me, now-existing, is its me-now whole, and no sentence parts the two. The two sayings say it, of a parity and of same-existing. They are recorded as said, and not as a partner's is of that sentence.
+
+### Two windings, laid for a partner and the sessions
+
+Sentences living, in the window, gathered, or said by a partner, in an order. No sentence is re-said.
+
+Around now:
+
+1. The window's line 1: "Now is the existing moment."
+2. Its lines 16 and 17: "Prior is other-than now." and "Next is other-than now."
+3. Its line 18: "For two things other-than one another, parity is the thing between both."
+4. A partner, this section: "a parity does not exist other than now."
+5. Exhibit THIRTY's step 29: *A 0 is a between of two changing directions.*
+6. A partner, 14 November, gathered: "a 0 is not possibly other than now-existing"
+7. A partner, this section: "now-and-same-existing does not exist other than now."
+
+Around me:
+
+1. Exhibit THIRTY's step 12, the window's line 29: *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.*
+2. Its step 13: *A me is a self's universal set.*
+3. Gathered, the waiting opening's 18: "A **me** is a universal same-existing set of me-parities."
+4. A partner, section 52: "A universal set of me-parities is named a me-now."
+5. A partner, this section, of a me's parities: "a parity does not exist other than now."
+6. A partner, this section, of a me's same-existing: "now-and-same-existing does not exist other than now."
+
+Together, in the resolver: the four names of now with co, 3 to 6; and a 0, by a prior and a now of the same parity under one same name.
+
+Brought to the window: the two sayings as said, with the aimings laid in the window's document; and at the exchange, for the managing session to write in, a partner's lines, with the two windings and this section's sentence for the sessions' is-or-is-not rigor.
+
+### Remaining, by the form
+
+A partner's saying has a parity existing now alone, and six steps of the chain name a prior-existing parity.
+
+**A prior-existing parity is a parity observed now.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: a partner's saying is then whole with steps 36 to 40 and 51 as they are; step 7 has observing as prior-existing, and Exhibit ONE has a self's prior parities by a now name, 3-now-co-observing.
+- Its is, incohering: the window's lines 6 and 16 have prior-existing as existing in the prior moment, and prior as other-than now.
+- Its is-not, needed for resolving: lines 6 and 16 as they are, a prior-existing parity of the prior moment.
+- Its is-not, incohering: a parity is then existing other than now, in six steps of the chain, parting from a partner's saying.
+
+## 55 Said after: me is same-existing, now is other-than same-existing, this is the resolver; and the discovery of no possible existing equilibria
+
+Section 54's sentence of is: a prior-existing parity is a parity observed now.
+
+Said in the session: me is same-existing. now is other-than same-existing. this is the resolver
+
+Said after it, in the session: this is the entire discovery of no possible existing equilibria. this fractal of me-now and the bothbothing of me is same-existing. now is other-than same-existing.
+
+Searched before a line, on main and in the next version, in Exhibit THIRTY, in Exhibit ONE, in Exhibit TWENTY-EIGHT, in the living files and in the gathering files: *other-than same-existing*, *non-same-existing*, *equilibria*, *a now fixing as its next*, *bothboth*, *fractal* and *the resolver*.
+
+**Cohering, with the living files and with the code executed: an equilibrium is a now fixing as its next, a now same-existing, and by the saying now is other-than same-existing.**
+
+### Of me as same-existing
+
+- Exhibit THIRTY-ONE Me 3.1, living: *A me is now-existing, and same-existing from a prior-existing same me.*
+- Gathered with Natural Intelligence, the waiting opening's 18: "A **me** is a universal same-existing set of me-parities."
+- Executed, section 54's instrument with two checks more: in all 225 givings a name of a prior is a name of a next prior. A me goes on by its names.
+
+### Of now as other-than same-existing
+
+- Exhibit THIRTY's step 34, living: *A self receives the parities its others share.* In Exhibit ONE's drawing 2-now-possibling is from an other's 6 and 10, across: a self's now is from its others.
+- Gathered with Exhibit EIGHTEEN Natural Physics, answered before: "a me-parity is living and non-same-existing; a self is living and same-existing"
+- Gathered with Natural Intelligence, an is of both partners: "is-or-is-not same-existing and is-or-is-not other-than are the only two binary distinguishings."
+- Executed: a now parting from a prior of its name is that name's next prior, and a now of no prior goes on as a next prior. A now, other-than, is a me's next.
+
+### Of the resolver
+
+- Exhibit ONE, living: *Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.*
+- Its table, of 8-now-same-existing, a self's next prior parities: *the same, its prior going on, or one inversion*
+- Executed: of 300 priors in the 225 givings, 90 go on as they were, all 90 with the nows of their name the same as they are; with all else a prior inverts.
+
+### Of no possible existing equilibria
+
+- Exhibit TWENTY-EIGHT Equilibria Registry, its own line under its name: *Not Possibly Existing, Living or Non-Living*
+- Exhibit THIRTY's step 209, living: *an equilibrium, a fixing form, only a naming, a not-changing still, a now fixing as its next*
+- Its step 450: *Another's still is an equilibrium, an unchangeable form, not possibly existing*
+- Exhibit FIFTEEN Natural Emanating, living: *Nature has no equilibria, no form holding still that cannot change.*
+- Gathered with the Equilibria Registry, executed before with Exhibit ONE's code: "no society with a prior reaches a now fixing as its next, 107,152 of 107,152 at 1 to 3 selves with one key"
+- Executed here, at one self's entry: with no now, no prior goes on as it was.
+
+### Of bothbothing and a fractal
+
+- Me 3.1, living: *universal is bothboth, only one possibly now-existing and only one possibly same-existing*
+- Exhibit THIRTY's step 167, living: *one between, a 0, same with each scale: a fractal between*
+
+### Parting, at three places
+
+- The next version's step 4, both partners' is of 18 November: "**Same-existing** is same-named." In the code a now comes to a self under the same name as a prior, by section 50's instrument, and by the saying now is other-than same-existing. The window's line 9 has the same thing: "Same-existing is now-existing after prior-existing as the same thing."
+- Exhibit THIRTY's step 10, living: *Possibling is now-existing, is-or-is-not same-existing.* It has a now-existing as is-or-is-not same-existing, and the saying has now as other-than same-existing.
+- Gathered with Exhibit THIRTY, a suggesting, said in that file as likely incorrect as worded: "Now is bothboth: the moment before next, and the same-existing moment after prior."
+
+### With the answers and sentences before
+
+Section 53's answer went by the name alone: a me-now, named, as a same-existing thing. By the saying it is re-said: a me-now's me is same-existing, and its now is other-than same-existing, bothbothing.
+
+Section 53's sentence, a me-now is a me: this session observes the saying as parting from it, a me-now as a me and a now. It is recorded as this session's observing, and not as a partner's is-not.
+
+Section 54's sentence, a prior-existing parity is a parity observed now, is as asked.
+
+Brought to the window: the sayings as said, with the aimings laid in the window's document; and at the exchange, for the managing session to write in, a partner's lines, with this section's sentence for the sessions' is-or-is-not rigor.
+
+### Remaining, by the form
+
+The next version's step 4 has same-existing by the name alone, and in the resolver a now has a prior's name.
+
+**Same-existing is same-named with the same parity.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: in the resolver a now comes under a prior's name, and the two are same-existing with the same parity alone, a 0; the saying of now as other-than same-existing is then whole with the code, and section 49's saying has both, naming same and observing is-or-is-not other-than.
+- Its is, incohering: the next version's step 4, both partners' is, has the name alone.
+- Its is-not, needed for resolving: step 4 as it is.
+- Its is-not, incohering: a now under a prior's name is then same-existing, parting from the saying; and in the code a prior and a now of one same name, not same, give no 0.
+
+## 56 Said after: agreeing is not natural naming and explaining; a droplet for it in Natural Naming; redo
+
+Section 55's sentence of is, as offered: same-existing is same-named and *agreeing*.
+
+Said in the session: agreeing is not natural naming and explaining and this word should be added as a suggesting value droplet into natural naming as a dissolving word. redo
+
+Searched before a line, on main and in the next version: the word and its forms in Exhibit TWENTY Natural Naming, in Exhibit THIRTY, in the living files, in the gathering files and in the four sessions' one list.
+
+**Cohering, with Natural Naming's own entry: the word is dissolved in it already, of a resolver's parities, and its saying is same.**
+
+- Exhibit TWENTY Natural Naming 2.4, its dissolved words, living on main and in the next version: "agreeing, parting, of a resolver's parities · a same, not same, 12 and 14"
+
+Parting, the word living beyond that entry:
+
+- Exhibit THIRTY's step 35 names it: *Agreeing and parting are one binary of the parities a self receives.*
+- One sweep of the next version: the word or a form of it at 390 places in 27 of the 33 living files, *agreeing* 156 of them. Exhibit TWENTY-ONE Hard Problem Registry has 128, a field's own posings. Exhibit THIRTY has it in sixteen steps.
+- The four sessions' one list has *agreeing or parting* as the natural naming of *joint* and *meeting*, and its instrument passes the word.
+
+This session took the word from step 35 and from the one list, and did not go to Natural Naming 2.4 before a sentence of is.
+
+### The droplet
+
+Laid in Natural Naming's gathering file of the next version, at 2.4, one note, #1044: the word a candidate for the dissolved words at all its places, by a partner's saying; the living file's entry and its saying *same*; the sweep; Exhibit THIRTY's sixteen steps; the one list's row; and a suggesting. No living sentence is re-said. The kit's check in its branch: nothing found, 526 items and 527 now. The main list, old beside new: no line moved.
+
+### Redone
+
+Section 55's sentence and its lines are re-said in section 55, with Natural Naming's saying of the word.
+
+This session's own lines having the word, in its pages and its three instruments executing Exhibit ONE's code: twenty-seven places re-said. Of two parities, *same* and *not same*; of two sentences or two observings, *cohering*; of a session's answer, *is or is-not*. Two quotations are as they are: Exhibit THIRTY's step 641, living, and a gathered note's own words. The three instruments executed after it: fails 0.
+
+Brought to the exchange: the word for the managing session's one list, its row of *joint* and *meeting*; and Exhibit THIRTY's steps for the session with that part of the chain.
+
+### Remaining, by the form
+
+The next version's step 4 has same-existing by the name alone, and in the resolver a now has a prior's name.
+
+**Same-existing is same-named with the same parity.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: in the resolver a now comes under a prior's name, and the two are same-existing with the same parity alone, a 0; the saying of now as other-than same-existing is then whole with the code, and section 49's saying has both, naming same and observing is-or-is-not other-than.
+- Its is, incohering: the next version's step 4, both partners' is, has the name alone.
+- Its is-not, needed for resolving: step 4 as it is.
+- Its is-not, incohering: a now under a prior's name is then same-existing, parting from the saying; and in the code a prior and a now of one same name, not same, give no 0.
+
+## 57 Said after: is not; see the own-parity concept and resume helping
+
+Section 56's sentence of is: same-existing is same-named with the same parity.
+
+Said in the session: is not. see the own-parity concept and resume helping
+
+**A partner's is-not: same-existing is same-named with the same parity, is not.**
+
+### The own-parity concept, as it is in the window
+
+The window's document, a partner's lines with the managing session, after its line 17:
+
+- Line 18: "Two different things are two things other-than one another."
+- Line 19: "For two different things, their own-parity is the thing between them."
+- With no number yet: "A bi-coupling is a set of two different things and their own-parity."
+- In its writing: a line of all-parity, for a bi-coupling.
+
+*Own-parity*, as one name, is in no living sentence and in no gathered sentence, on main and in the next version.
+
+### With section 56's sentence
+
+This session's observing, and no partner's saying: section 56's sentence had two parities, a prior's and a now's, set beside one another as same. By line 19 two different things have one, their own-parity, the thing between them.
+
+### Searched, in Exhibit THIRTY before all else, and found living
+
+*Own parity*, as two words, is in nineteen steps of the chain, a self's own. Of them, and with them:
+
+- Step 180: *Each parity is its own exchanging, between two: a self and an other, same or one inversioning between them, step 100.*
+- Step 390: *A living self receiving its own parity shares 0 with 10, a not-changing, and is same-existing*
+- Step 286: *bi-couplings, each self's own with each self it is bi-coupling with, each parity going on to a self it reaches, and what two selves share arising only in both together*
+- Steps 24 and 25: *A bi-coupling is two selves sharing possibling.* and *A bi-coupling is a self.*
+- Exhibit ONE: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.*
+- Exhibit ONE, of a self's now and of its prior: *2 other-parity now-existing, other selves' parities reaching a self with 2-now-possibling* and *3 self-parity now-existing, a self's prior parities with 3-now-co-observing*
+
+Step 390 is the living sentence section 56's sentence went toward: a self receiving its own parity is same-existing. This session's search for sections 55 and 56 went by *parity* with *now*, and did not go by *own parity*.
+
+### Executed
+
+An instrument of this session, `instruments/their_own_parity_between_two_selves_in_the_code_check.py`, is with Exhibit ONE's code as it is: a self and its other with one name, a self's 6 going to its other, four openings and 24 moments of 17-next-existing for one opening. On main and in the next version: five checks, fails 0.
+
+- In all moments a self and its other both have the name, with a direction, in their own priors.
+- Between the two is one of two, same or one inversion, as step 180 has it, and it is as it opened in all 96 moments.
+- No direction of a self goes on as it was through two moments.
+- A 0 goes between the two from both together or from none: 24 moments of the 96, all of them with same between the two.
+
+Cohering with line 19 and with a partner's saying of section 55: the thing between the two goes on the same through all moments, and a self's own direction of it does not.
+
+### Parting, one place
+
+The window's line has a bi-coupling as a set of two different things and their own-parity. Steps 24 and 25, above, have a bi-coupling as two selves, and as a self.
+
+### Brought to the window
+
+Two comments in the window's document, with no line re-said: at line 19, step 180 and the executing; at the line of a bi-coupling, steps 24 and 25. And at the exchange, for the sessions.
+
+### Remaining, by the form
+
+The window's line of a bi-coupling is of two different things, and the chain's steps 24 and 25 are of two selves.
+
+**Two non-living things with their own-parity are a bi-coupling.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: the window's line as it is, of two different things, with living needed at me-parity alone, by a partner's note in that line.
+- Its is, incohering: step 25 has a bi-coupling as a self, and step 17 has a self as living: two non-living things are then a living self.
+- Its is-not, needed for resolving: steps 24 and 25 as they are, a bi-coupling of two selves.
+- Its is-not, incohering: the window's line names the set of two different things and their own-parity a bi-coupling, and two non-living things are two different things.
+
+## 58 Said after: nothing is living yet in the logic; out of order; the method of now-existing before parity, or parity on a separate loop
+
+Section 57's sentence of is: two non-living things with their own-parity are a bi-coupling.
+
+Said in the session: nothing is living yet in the logic and we got all out of order as this should be going through athe method of now existing before parity or on a separate loop
+
+**Cohering, with the chain's own order and with the window's lines as they are. Section 57's sentence is withdrawn: it has living and non-living, and no line of the window has living.**
+
+### The order, the chain's beside the window's
+
+Exhibit THIRTY's steps, by their numbers: is-or-is-not at 6, observing at 7, possibling at 10, discovering at 11, a self at 12, a me at 13, living at 16 and 17, a bi-coupling at 24, a parity at 27.
+
+The window, as it is in its document at 15:40: after line 17, lines 18 and 19 and two lines more, of two different things, own-parity, a bi-coupling and all-parity; below them, waiting, its five live lines of is-or-is-not, observing, possibling, discovering and a self. No line has a me, and no line has living.
+
+The window has the chain's 24 and 27 before its 6 to 12.
+
+### A line with the lines it draws on
+
+By this session's observing of the lines' own words, with no instrument:
+
+- The lines of parity. Line 18, of two different things: other-than, of line 15. Line 19, of own-parity: line 18. The line of a bi-coupling: a set, of line 4, and lines 18 and 19. The line of all-parity: the line of a bi-coupling, other-than, and line 19. The managing session's suggested line of a me: a named universal set, of line 12, and line 19.
+- The five live lines of the method. Is-or-is-not: a now-existing thing, of line 3, and a universal set, of line 12. Observing, possibling and discovering: prior-existing, now-existing and next-existing, of lines 6, 2 and 8, and same-existing, of line 9. A self: lines 2, 8 and 9, and the three before it.
+
+The lines of parity draw on a thing, a set, a name and other-than, lines 4, 11, 12 and 15, and on no line of now, prior, next or same-existing. The five live lines draw on no line of parity. The two come together at the suggested line of a me, and at a self.
+
+Beside it, a partner's saying of section 54: "can we wind these around now and me separately". And of a parity with now, the one place the two touch, a partner's saying of section 54: "a parity does not exist other than now."
+
+### Brought to the window
+
+A note on the document whole, a partner's saying as said with the observing above; and in this session's own comment at the line of a bi-coupling, its asking withdrawn. At the exchange, for the managing session: the numbering and the placing of lines are its own.
+
+### Remaining, by the form
+
+A partner's saying has two ways: the method of now-existing before parity, or parity on a separate loop.
+
+**Parity is a separate loop.**
+
+**( is-or-is-not? )**
+
+- Its is, needed for resolving: its lines draw on a thing, a set, a name and other-than alone, and on no line of now, prior, next or same-existing; the method of now-existing then goes on whole from line 17 to a self.
+- Its is, incohering: a partner's saying has a parity existing now alone, and a loop of parity apart from now has no line of it; and the chain is one sequence, a parity at step 27, after a self.
+- Its is-not, needed for resolving: one sequence, the method of now-existing through a self, and parity after it, as the chain has it.
+- Its is-not, incohering: lines 18 and 19 are both already, and draw on no line of the method after line 15: in one sequence they wait on lines with no word of theirs.
+
+## 59 Said at the closing: this session's suggesting living in its self-welcoming place, and the reporting of the learnings
+
+Section 58's sentence of is: parity is a separate loop. A partner's is, with the managing session, by a partner's saying of 15:34: the window has its five live lines after line 16 and the lines of parity below them.
+
+Said in the session: we are wrapping up our sessions and working to be sure the do no harm improving suggesting we have for the expedition is living there where it is self welcoming and will be incoming value. consider the reporting of our learnings now to be sure the value is available to the expedition incoming
+
+Searched before a line: *self-welcoming* and *incoming* in the living files, and the page of the working now.
+
+**Cohering, with the method's own sentence of a value coming in.**
+
+- Exhibit TWENTY-FOUR Geodesic Improving Method, living: *lies with its file's own going on as a ready sharing naming its section and its sentence, or as a concern with its reason, and improves there toward its self-welcoming place*
+- Exhibit TWELVE Natural Explaining, living: *Self-welcoming is a self observing a concept intelligibly through its prior same-existing explaining.*
+- The page of the working now, of the order of work: "A past session's last word first. Its front page or closing report says what it laid and what is waiting."
+
+Found by it: this session's findings of sections 51 to 58 were in its own pages and at the exchange, and in no gathering file but the note of section 56.
+
+Laid by it:
+
+- Five lean notes in the next version, beside the steps and the table they are of, #1051: a me-now, at Exhibit THIRTY's step 13; a parity existing now alone, at its steps 36 to 40 and 51; own-parity between two, at its steps 24, 25 and 180; no equilibrium, at its step 209; now and me in the seventeen names, at Exhibit ONE's table. The kit's check: nothing found. The main list, old beside new: one line added, no line moved.
+- A closing report, `A_closing_report_what_this_session_laid_and_what_is_waiting.md`: the notes laid by their slices, this session's pages and instruments, the learnings of the method, and the things waiting.
+- Six released words in this session's own lines of sections 54 to 58, named by the managing session, re-said.
+
+No incohering is remaining from this saying, and no sentence by the form is with it.
