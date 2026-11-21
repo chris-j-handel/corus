@@ -1,4 +1,4 @@
-Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening; renewed by v405next on 20 November, at the wrap of the v405 sessions
+Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening; renewed by v405next on 20 November, at the wrap of the v405 sessions; renewed by v406all on 21 November, at its wrap
 
 # Start here
 
@@ -10,7 +10,7 @@ This page is for a session that has never worked here. It is in plain words on p
 - **The next version.** It is a copy of the living files and their gathering files on the branch `working/natural-intelligence-with-exhibit-one-its-next-version-v403mgr`. Sessions lay their notes there. Nothing goes live from it without a partner's word.
 - **A partner.** A partner works with a session in that session's own conversation, and does not read files or GitHub. What you say in your conversation is what a partner sees.
 - **The working document.** The opening is worked in one document, *The window of the opening*, a partner and the sessions writing in it directly. It opens as it was at its last closing, in one form, said below.
-- **The sessions before you.** The six v404 sessions closed on 19 November. The v405 sessions, v405now leading, v405next at the window and v405co-chain at Exhibit THIRTY's threads, wrapped on 20 November for resuming. Their value is in the gathering files, and the v405 sessions wrote a page for resuming apiece, said under *Where things are*. A session a partner calls reimann goes on, and reports itself. The other folders in `incoming/` are behind you.
+- **The sessions before you.** The six v404 sessions closed on 19 November. The v405 sessions, v405now leading, v405next at the window and v405co-chain at Exhibit THIRTY's threads, wrapped on 20 November for resuming. Their value is in the gathering files, and the v405 sessions wrote a page for resuming apiece, said under *Where things are*. A session a partner calls reimann goes on, and reports itself. On 21 November v406all, at the window's method with a partner, wrapped for resuming, its page `incoming/v406all/Resuming_v406all.md`; v406other, at Exhibit THIRTY's threads, and v406me work beside it and report themselves. The other folders in `incoming/` are behind you.
 
 ## What never happens
 
@@ -23,7 +23,7 @@ This page is for a session that has never worked here. It is in plain words on p
 ## The work in front
 
 - **The opening of Natural Intelligence, one sentence at a time, in logical order.** Each sentence is one concept. It follows from the sentences before it, and the sentences after it need it. These sentences are also the opening steps of Exhibit THIRTY Co-Chaining Logic Registry. A partner's name for the aim: the purest set of bi-coupling sentences, co-chaining.
-- **The work as it is now.** The working document is the lines now, and [its copy](The_window_of_the_opening.md) is the lines at the last sitting's end, the window at its revision 3840: twenty-eight lines of both, their rigor in, from *Now is the existing moment.* to a partner's living me-parity, the blank row after them. In them, the universe, its three distinguishings, a self toward the universe, a me, and the method of living begun: a bi-coupling and its parities. Below the blank row, twelve cards say resolving 1 to 17 and one card moves the stray lines out, all for a partner's is-or-is-not; three cards re-say released words in the method text. The next lines, by the aim's order: non-living, a bi-coupling a self, a self's 0, parity alone.
+- **The work as it is now.** The working document is the lines now, and [its copy](../v406all/The_window_of_the_opening_at_its_wrap.md) is the lines at the last sitting's end, the window at its revision 4509: thirty-four lines of both, their rigor in, from *Now is the existing moment.* to *A living me-parity is same-existing other-than-the-other's other-than all-parity.*, then three floating lines, *Prior*, *Next* and *Possibling*, a trial. Among the lines new from the sitting before: things, other-than, same-named things and the named universal set, before the universe; the named-universe; my, me and me-now. Under *Prior*, co-, 35, for a partner's is-or-is-not or an edit in place; under *Next*, resolving; under *Possibling*, the rest of the resolver's names and the card moving the stray old lines out. The holes the rigor found are listed in the window, broken and visible, and the concepts said in conversation are in its tab Concepts.
 - **A partner's aimings ahead**, said and not yet lines: now as the nothing between prior and next; the five two-way dimensions of resolving; a me-now; social bi-morality.
 - **Behind the opening**, in the order a partner gave: Exhibit ONE Natural Resolver's gathering file; Exhibit THIRTY and Exhibit TWENTY Natural Naming; then the rest of Natural Intelligence. Every other file is later.
 
@@ -36,7 +36,7 @@ This page is for a session that has never worked here. It is in plain words on p
 - **Wordings.** A wording waiting for a partner's word is a suggestion, accepted or rejected on its card, its origin in the card's talk. A line going is a suggestion deleting its row. A session edits no line directly.
 - **Opening it.** A session reads what changed after its last reading before it writes.
 - **The team ways.** Before laying a card, a session reads the open cards and newest comments on its line, and lays nothing a card on that line already says; of two same cards, the later one is withdrawn. A session alters its own cards and comments, and on another's card writes in that card's talk. One session sets the numbers, in the number cells only; a suggested line carries its number in its card, and the blank row has none. The sessions' suggestings merge into one another, in the lines and in the messages to the group, and a comment a rewritten line makes stale is resolved by the session that wrote it.
-- **The blank row.** A partner works down to the blank row; with a partner's asking, a session rigorizes the lines above it and below it.
+- **The floating lines.** A partner works down to the floating lines, *Prior*, *Next* and *Possibling*, a trial from 21 November; with a partner's asking, a session rigorizes the lines above them and below them.
 - **A line's rigor.** Its is-or-is-not by the lines before it: a word an earlier line says already goes; one name has one line; no name is used before its line; a thing an earlier line names is said by its name, an invisible one also by its method; a name said as one set is not said as one of many; a word wider than the line means, by line 9, is marked; and a line comes in once a line after it, or the aim, needs it, and not before. A distinguishing line is all or none: its two terms are a thing and its other-than.
 - **The group's note.** One comment on the whole document carries the group's messages, and the sessions reply under it.
 - **At a sitting's end.** The managing session copies its lines to [the window of the opening](The_window_of_the_opening.md) in the same form, its waiting suggestions and comments under the lines, and its lines of both to the head of Exhibit THIRTY's gathering file in the next version, as *Waiting to enter*. At a wrap, a session writes a page for resuming in its own folder: its value, its opportunities, its next steps, its concerns, the method of operating together, and how to resume, the same page as a tab in the aims doc, *The aims of the living expedition*.
@@ -97,12 +97,13 @@ A partner gives a session its work. These four kinds worked in the three days be
 | The living files, live | this repository's root, listed in `files.json` |
 | The gathering files | `gathering-value/` |
 | The next version | the branch named above |
-| The opening's lines as they stand | the working document; [its copy](The_window_of_the_opening.md) at a sitting's end |
+| The opening's lines as they stand | the working document; [its copy](../v406all/The_window_of_the_opening_at_its_wrap.md) at the last sitting's end |
 | Words that are no natural naming | [The one list](Words_of_no_natural_naming_with_their_natural_naming.md) |
 | Possible incoherings of every living file | [The main list](The_main_list_of_incoherings.md), written on 18 November; write it again with its instrument before you pick a line |
 | The checks and other instruments | `kits/` and `incoming/v404mgr/instruments/` |
 | The exchange between sessions | issue 933 |
 | The v405 sessions' pages for resuming | `incoming/v405now/Resuming_v405now.md`, `incoming/v405next/Resuming_v405next.md`, `incoming/v405co-chain/The_wrap_of_v405co-chain_for_resuming.md`; the aims doc's tabs *Resuming v405now* and *Resuming v405next* |
+| v406all's page for resuming | `incoming/v406all/Resuming_v406all.md`, with the window and its concepts at the wrap beside it |
 | The ways found working, at the method's home | the Geodesic Improving Method's gathering file in the next version |
 
 ## Behind you
