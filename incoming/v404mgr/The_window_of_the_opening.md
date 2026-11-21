@@ -1,4 +1,4 @@
-Incoming · v404mgr · a copy of the working document, *The window of the opening*, as it was at 17:15 on 20 November 2026, at its revision 3808, in its form, by v405next
+Incoming · v404mgr · a copy of the working document, *The window of the opening*, as it was at 17:35 on 20 November 2026, at its revision 3810, in its form, by v405next
 
 # The window of the opening
 
@@ -98,7 +98,7 @@ The empty row after 28 is the blank row, a partner's. The seven rows under it ar
 3. A session's own wording goes in as a suggestion, with the meaning of a partner's line and only its open places closed. A note goes in as a comment on the line.
 4. A line of both gets its number. At the end of a sitting the lines of both go to the head of Exhibit THIRTY's gathering file in the next version, as *Waiting to enter*.
 
-**Waiting suggestion**, a new item after 2: *A line's rigor is its is-or-is-not by the lines before it: a word an earlier line says already goes; one name has one line; no name is used before its line; a thing an earlier line names is said by its name, an invisible one also by its method; a name said as one set is not said as one of many; a word wider by line 9 than the line means is marked; and a line comes in when a line after it, or the aim, needs it, and not before.* Its talk: one more, found at 24 and 40, can merge into this card: a thing an earlier line names is said by its name, as me for a named self's own universal set of prior-sequences, 22, and same-named things for things named by the same name, 10. Merged into the card: a thing an earlier line names is said by its name.
+**Waiting suggestion**, a new item after 2: *A line's rigor is its is-or-is-not by the lines before it: a word an earlier line says already goes; one name has one line; no name is used before its line; a thing an earlier line names is said by its name, an invisible one also by its method; a name said as one set is not said as one of many; a word wider by line 9 than the line means is marked; and a line comes in once a line after it, or the aim, needs it, and not before.* Its talk: one more, found at 24 and 40, can merge into this card: a thing an earlier line names is said by its name, as me for a named self's own universal set of prior-sequences, 22, and same-named things for things named by the same name, 10. Merged into the card: a thing an earlier line names is said by its name.
 
 **Waiting lines**, not in the near future:
 
