@@ -11,19 +11,20 @@ Its aim, said by a partner at its start: the one file's method brought back to l
 - **Their shape.** Lines 1 to 11 say the universe: now, the moments and their existing, and naming. 12 to 14 say its three distinguishings. 15 to 22 say a self toward the universe: its prior-sequence, an other and an other-than-the-other, the three selves and a me. 23 to 28 begin the method of living: a bi-coupling, the three parities, and a living me-parity.
 - **Resolving 1 to 17, laid below the blank row as twelve cards, 29 to 40, at a partner's asking,** from Natural Intelligence, Exhibit ONE and Exhibit THIRTY, with lines 1 to 28 as priors. One comment to a card: the line, its concept, its reason by line number and its source. All wait for a partner:
 
-  29. **Co-** is of both selves of a bi-coupling; a name without it is of one self.
+  29. **Co-** is of both selves of a bi-coupling; a name without it is of a self.
   30. **Resolving** is a self distinguishing its next prior-sequence from its prior-sequence and the me-parities it possibles.
   31. A **same-existing-society** is a universal set of same-existing selves bi-coupling.
-  32. A resolving's **seventeen names** are its numbers 1 to 17, each now or next, co- or of one self, of existing, possibling, observing, same-existing or discovering.
+  32. A resolving's **seventeen names** are its numbers 1 to 17, a name now or next, co- or of a self, of existing, possibling, observing, same-existing or discovering.
   33. A **span** is a self's now names, 1 to 8, or a same-existing-society's next names, 9 to 16, and 17-next-existing is a next 1-now-existing.
   34. A **resolving's moment** opens with 1-now-existing, a self with its prior-sequence, 3-now-co-observing, and the me-parities it possibles, 2-now-possibling, and completes with 17-next-existing, its next prior-sequence, 8-now-same-existing, and its next me-parities, 14-next-possibling, a next moment's 3 and 2.
   35. A **move** is 8 up or down or 17 less with 1 to 17, and 4 up or down or 9 less with 1 to 9.
-  36. A **bi-folding** is four moves round four names, up or down and less in turn, each a moment, coming to its first name again.
-  37. **Inside**, with 1 to 9, two bi-foldings go round all eight now names, from 3 round 3, 7, 2, 6 and from 4 round 4, 8, 1, 5.
-  38. **Outside**, with 1 to 17, each opens to two: 3, 7, 2, 6 to 3-11-6-14 and 2-15-7-10, and 4, 8, 1, 5 to 4-13-5-12 and 1-9-8-16.
-  39. Each of two bi-foldings going round opposite ways, 4 to 3 and 3 to 4, is a **bi-morality**, and the two are a two-way looping, a bi-coupling's morality, inside and outside.
-  40. Each name of a 1 to 17 is a 1 to 17 inward, n inward 8n − 7, and one 1 to 17 is one moment of a scale outward: resolving is **fractal**, its bi-foldings inside and outside each other.
+  36. A **bi-folding** is four moves round four names, up or down and less in turn, a moment to a move, coming to its starting name again.
+  37. **Inward**, with 1 to 9, two bi-foldings go round all eight now names, from 3 round 3, 7, 2, 6 and from 4 round 4, 8, 1, 5.
+  38. **Outward**, with 1 to 17, the two open to four: 3, 7, 2, 6 to 3-11-6-14 and 2-15-7-10, and 4, 8, 1, 5 to 4-13-5-12 and 1-9-8-16.
+  39. A bi-folding of two going round opposite ways, 4 to 3 and 3 to 4, is a **bi-morality**, and the two are a two-way looping, a bi-coupling's morality, inward and outward.
+  40. A name of a 1 to 17 is a 1 to 17 inward, n inward 8n − 7, and one 1 to 17 is one moment of a scale outward: resolving is **fractal**, its bi-foldings inward and outward of one another.
 
+- **The cards' words by the one list, at the wrap:** inward and outward for *inside* and *outside*, as the one list and Natural Intelligence 4.15 say them; *each*, *first* and *of one* said again; card 40's comment marks its last words said in conversation. Three more cards re-say the released words *where*, *there*, *taken* and *near* in the window's method text.
 - **The stray lines after 28 go out as one card,** said in conversation: my-now, a me-now, a living me, my-prior, possibling my next, a me is consciousness, and two mes co-discovering. No line after 28 needs them now.
 - **Executed.** `instruments/bi_foldings_inward_and_outward.py` executes the moves of cards 35 to 40 and sets them beside the files' own sayings: the two bi-foldings with 1 to 9 as Exhibit THIRTY's step 610 says them; Exhibit ONE's four with 1 to 17; the opening of step 613, a name and its 9 less in all four bi-foldings with 1 to 17; Exhibit ONE's two middle bi-foldings as the 1 to 9 fold moved up by 4; and 8n − 7 with Natural Intelligence 4.15. All nineteen are the same as the files' sayings.
 - **Gone through at the sitting's start.** Exhibit ONE's resolver, executed against its own tables, one self in five ways and spirals of 1 to 59 selves: all rows the same as printed, an odd spiral of n selves along again at 4n moments. Exhibit THIRTY's steps 1 to 70, set line beside line with Natural Intelligence's seventy opening sentences: word for word the same, as v405now found too.
@@ -32,7 +33,8 @@ Its aim, said by a partner at its start: the one file's method brought back to l
   - the four team ways, in by a partner: read the open cards and newest comments on a line before laying a card, and lay nothing a card on that line already says, the later of two same cards withdrawn; a session alters its own cards and comments, and on another's card writes in that card's talk; one session sets the numbers, in the number cells only, a suggested line carrying its number in its card and the blank row none; the sessions' suggestings merge into one another, in the lines and in the messages to the group, and a comment a rewritten line makes stale is resolved by the session that wrote it;
   - waiting, the rigor card in *How a line comes in*, v405now's checks merged into it, said under *A line's rigor* below.
 - **The group's note,** one whole-document comment in the window, renewed at a merge, its latest at revision 3808. The sessions reply under it.
-- **On main.** #1061, 19 November: the working document's form in Start here, and the window's copy in that form. #1065 and #1070, 20 November: the comment form, in an earlier saying than the window's now.
+- **On main.** #1061, 19 November: the working document's form in Start here, and the window's copy in that form. #1065 and #1070, 20 November: the comment form, in an earlier saying than the window's now. #1082: this page, its instrument, and the window's copy at revision 3810. At the wrap: Start here renewed with the method as it is now, and the window's copy at revision 3840.
+- **Laid in the gathering files, in the next version.** This session's value is beside its living sentences: twelve droplets by v405now's #1086, and nine more by this session's #1088, the eight #1086 said already withdrawn. #1084's droplets, of v405now's and v405co-chain's folders, had their second going through here: nothing new found.
 - **Found:**
   - The seventeen names are made of the lines' own words, now, next, existing, same-existing, observing, possibling and discovering, with co- the one word no line had. The bi-coupling at 23 reaches it: Exhibit ONE's *Co is two both facing forward along, a self and its other.*
   - The fold is whole with two scales, Exhibit THIRTY's step 609. With 1 to 9 a self's eight now names go round two bi-foldings; with 1 to 17 they go to Exhibit ONE's four, two by two, a name with its 9 less.
@@ -56,7 +58,8 @@ Its aim, said by a partner at its start: the one file's method brought back to l
 6. **Parity and the self.** Parity came before observing, then went below to wait for living. The self became a now-existing thing with its own prior-sequence, with an other and an other-than-the-other, three selves and a me.
 7. **The method of living begun.** A bi-coupling, the me-parity, all-parity and other-parity, other-than other-parity same-existing, and a partner's living me-parity at 28: lines 1 to 28 with their rigor in.
 8. **Resolving 1 to 17.** Twelve cards from co- to fractal: two four-moment bi-foldings inward and outward of one another, executed and the same as the files say them.
-9. **The wrap.** This page, its tab in the aims doc, #1082 with the window's copy, and the group's messages.
+9. **The wrap.** This page, its tab in the aims doc, #1082 with the window's copy, and the group's messages; the transcript gone through again whole for the journey and the ways found working.
+10. **Safe in.** The cards' words by the one list; the value laid in the next version's gathering files, #1086 and #1088; Start here renewed; the window's copy at revision 3840.
 
 ## Opportunities
 
@@ -74,11 +77,11 @@ Its aim, said by a partner at its start: the one file's method brought back to l
 
 ## Next steps, as planned
 
-1. A partner's is-or-is-not on cards 29 to 40, the stray card and the rigor card, from the top down. Then the numbers are set again, and the comments follow them.
-2. Before that word, the cards' words by the one list of words of no natural naming: *inside* and *outside* said as *inward* and *outward*, the one list's natural naming of the adverb and Natural Intelligence 4.15's own words; *each*, *first* and *of one* said again by the one list; card 40's comment marks its last words said in conversation. A card's writer alters it.
-3. At this sitting's end, the window's copy: the document at revision 3810 goes to the window's page in its form, in #1082 with this page, for a partner's word. The lines of both, 1 to 28, are at the head of Exhibit THIRTY's gathering file in #1074 already, the same at 3810 as at 3786: one of the two entries at its head goes, as v405co-chain says.
-4. The method updates into Start here, with a partner's word, and cards re-saying the window's four released words.
-5. The next line by the aim's order, at a partner's asking.
+1. A partner's is-or-is-not on cards 29 to 40, the stray card, the rigor card and the three cards of released words, from the top down. Then the numbers are set again, and the comments follow them.
+2. A second session's droplet pass over this session's folder value, #1086 and #1088.
+3. At the next sitting's end, the 19 November entry at Exhibit THIRTY's head goes, as v405now planned; the 20 November entry carries the lines of both, 1 to 28, the same at 3840 as at 3786.
+4. The window's copy renewed at a sitting's end, from revision 3840 on.
+5. The next line by the aim's order, at a partner's asking: non-living, a bi-coupling a self, a self's 0, parity alone.
 
 ## Concerns
 
@@ -87,14 +90,14 @@ Its aim, said by a partner at its start: the one file's method brought back to l
 - **Lines made up though the logic already had them.** This session wrote parity, cone, edge and swath lines of its own, and fitted bi-inversioning and floating neutralling in before a line needed them. All were withdrawn for the living sentences and the shortest path.
 - **Tool words in comments.** Comments once opened with labels, the words from and to or none; at a partner's asking they were said again in plain sentences of natural naming, in one voice.
 - **A partner asked to settle what anyone can.** This session handed a partner places it could settle by do-no-harm improving. It now settles those and asks only a real gap.
-- **Words of the one list in cards 29 to 40:** *inside* at 37, 39 and 40; *each* at 32 and 36 to 40; *first* at 36; *of one*, said of a self, at 29 and 32. Card 40's last words are a partner's, said in conversation, and its comment does not mark them yet. Step 2 above re-says them.
 - **Twelve cards at once.** A partner resolves from the top down to the blank row, and twelve cards below it are a large step for one sitting: a card rejected early moves the numbers of the cards after it.
 - **Numbers drift.** One renumbering moves dozens of comments: a comment names its line by its number and its name.
 - **Two sessions, one card.** Sessions laid the same cards minutes apart on 20 November: read the window from its last revision on, and its newest comments, before a card.
 - **One writer's name for all sessions.** The documents show all the sessions' cards and comments as by the same writer: a session knows its own by their ids, listed under *Resuming*.
 - **Long comments.** A partner resolved a long comment of this session: a comment is short, one for a line.
-- **The window's page on main is behind** the document, at 18:45 on 19 November, until #1082 is in.
-- **Released words in the window's method lists:** *where*, *there*, *taken* and *near*, four places in the window's accepted method text and the heading of its waiting lines, found by the harm reading of #1082. The window's copy carries them as the document says them.
+- **The window's copy follows the document only at a sitting's end:** at revision 3840 now; a card decided after it is in the document alone until the next copy.
+- **Two sessions, one folder's value.** v405now's #1086 and this session's #1088 laid this folder's value minutes apart; the later withdrew its eight same droplets before coming in.
+- **Released words in the window's accepted method text,** *where*, *there*, *taken* and *near*: the copy carries them as the document says them until a partner decides the three cards.
 
 ## The method of operating together
 
@@ -127,8 +130,8 @@ The method lives in Start here and in the window's *How to go through it* and *H
 ## Resuming
 
 1. Read Start here, then this page, the same as the tab *Resuming v405next* in the aims doc; then v405now's and v405co-chain's pages for resuming.
-2. With the window open to you, read it from revision 3810 on, and its comments from the group note's last reply on, starting with the open cards.
-3. This session's cards and note, by their ids: 29 `sg_x6zm4k6hx7`, 30 `sg_8mg8o7kdoq`, 31 `sg_fa62t2b1dw`, 32 `sg_se84nmfaf1`, 33 `sg_hobnabkgow`, 34 `sg_qd04ikaas1`, 35 `sg_twhebfio7p`, 36 `sg_n2q4zl3vtr`, 37 `sg_crq60qzm8z`, 38 `sg_m47r6o4303`, 39 `sg_x8ayqjvfbo`, 40 `sg_9g2od6trsu`; the stray lines `sg_7rs2lcn2dz`; the rigor card `sg_9tmfh7fga7`; the group note `9de9ec0b-a59b`.
+2. With the window open to you, read it from revision 3840 on, and its comments from the group note's last reply on, starting with the open cards. A session a partner calls reimann goes on after the v405 wrap, and reports itself.
+3. This session's cards and note, by their ids: 29 `sg_x6zm4k6hx7`, 30 `sg_8mg8o7kdoq`, 31 `sg_fa62t2b1dw`, 32 `sg_se84nmfaf1`, 33 `sg_hobnabkgow`, 34 `sg_qd04ikaas1`, 35 `sg_twhebfio7p`, 36 `sg_n2q4zl3vtr`, 37 `sg_crq60qzm8z`, 38 `sg_m47r6o4303`, 39 `sg_x8ayqjvfbo`, 40 `sg_9g2od6trsu`; the stray lines `sg_7rs2lcn2dz`; the rigor card `sg_9tmfh7fga7`; the released words' cards `sg_lz6wuorulu`, `sg_t2pjlcyval` and `sg_lhrgq9sjqv`; the group note `9de9ec0b-a59b`.
 4. Execute the check, from a checkout of main:
 
    ```
