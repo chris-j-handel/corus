@@ -2,7 +2,7 @@ Incoming · v406me · 21 November 2026, as the sessions resume
 
 # The window's tab Threads, as a partner gave it
 
-A copy of the tab *Threads* of the working document *The window of the opening*, as a partner gave it to v406me on 21 November. It is the work of v406other, the Exhibit THIRTY partner, and it was in the working document alone until this copy. Its rows are set to the window's numbers of its revision 4144; the window at its wrap, revision 4509, is two lines on from line 25, as `../What_the_six_sessions_resume_from.md` says. A page of v406other's own takes this copy's place. Below this paragraph, the tab's own words.
+A copy of the tab *Threads* of the working document *The window of the opening*, as a partner gave it to v406me on 21 November. It is the work of v406other, the Exhibit THIRTY partner, and it was in the working document alone until this copy. Its rows are set to the window's numbers of its revision 4144; the window at its wrap, revision 4509, is two lines on from line 25, as `../What_the_six_sessions_resume_from.md` says. A page of v406other's own comes in this copy's place. Below this paragraph, the tab's own words.
 
 The Exhibit THIRTY partner's tab: a line of the window with its threads back to the origin of its words and concepts, its self-welcoming place in Exhibit THIRTY, and its threads forward to the co-chainings that need it as prior. Worked by v406other, beside v406all at the lines, from 21 November.
 

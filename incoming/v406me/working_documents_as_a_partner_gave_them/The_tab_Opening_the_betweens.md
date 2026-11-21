@@ -2,7 +2,7 @@ Incoming · v406me · 21 November 2026, as the sessions resume
 
 # The tab Opening the betweens, as a partner gave it
 
-A copy of the tab *Opening the betweens* of a working document, as a partner gave it to v406me on 21 November. It is of the work of v406other, the Exhibit THIRTY partner, and it was in the working document alone until this copy. Its lines are numbered as the window's were with a me as one line, 25, and a living me-parity as 32; the window at its wrap, revision 4509, says them as 25 to 27 and as 34. A page of v406other's own takes this copy's place. Below this paragraph, the tab's own words.
+A copy of the tab *Opening the betweens* of a working document, as a partner gave it to v406me on 21 November. It is of the work of v406other, the Exhibit THIRTY partner, and it was in the working document alone until this copy. Its lines are numbered as the window's were with a me as one line, 25, and a living me-parity as 32; the window at its wrap, revision 4509, says them as 25 to 27 and as 34. A page of v406other's own comes in this copy's place. Below this paragraph, the tab's own words.
 
 Exhibit THIRTY opens the betweens of the opening's lines. A between is one moment: its prior line ending as its next line is beginning, the next line resting on the lines before it. Exhibit THIRTY's sentences living between two lines come in their place, and a sentence a line says again gives its place to the line.
 
