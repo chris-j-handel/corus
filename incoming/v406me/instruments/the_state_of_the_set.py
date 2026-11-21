@@ -17,6 +17,9 @@ It executes the set's own checks and instruments, each with -I, and says what ea
   5 words_of_no_natural_naming_in_a_page.py --set, with LIVE and with NEXT
   6 the notes of NEXT's gathering files that name a page of incoming, by the folder named:
     a folder LIVE has, or a folder gone to the set's history
+  7 all the living files by the set's four roots, as the Living File Registry's gathering file
+    places them at its PART THREE, a living file with its live version, its next draft and
+    the notes in its gathering file
 
 It writes the page to standard output. It writes no file, reaches no network and decides
 nothing. The open offers and the thread are not in it: they are gone through at the exchange.
@@ -31,6 +34,34 @@ import sys
 K = "kits/Living_File_Registry_TWENTY-SIX_Improving_Kit"
 G = "kits/Gathering_Value_Kit"
 V = "incoming/v404mgr/instruments"
+
+
+ROOTS = [
+    ("Same-existing, through all: the one method, its code, its co-chaining and a me",
+     ["Natural_Intelligence", "Exhibit_ONE_Natural_Resolver", "Exhibit_THIRTY_Co-Chaining_Logic_Registry", "Exhibit_THIRTY-ONE_Me"]),
+    ("Observing, prior-existing, along: a self and the universe",
+     ["Exhibit_THREE_Natural_Numbers", "Exhibit_FOUR_Natural_Mathematics", "Exhibit_EIGHTEEN_Natural_Physics",
+      "Exhibit_SIXTEEN_Natural_Chemistry", "Exhibit_SEVENTEEN_Natural_Biology", "Exhibit_NINETEEN_Natural_Philosophy",
+      "Exhibit_TWENTY-FIVE_Living_Society_Registry", "Exhibit_TWENTY-ONE_Hard_Problem_Registry",
+      "Exhibit_TWENTY-SEVEN_Living_Ghost_Registry", "Exhibit_TWENTY-EIGHT_Equilibria_Registry"]),
+    ("Possibling, now-existing, across: a self and an other",
+     ["Exhibit_SIX_Natural_Transmissioning", "Exhibit_TWO_Natural_Networking", "Exhibit_FIVE_Natural_Engineering",
+      "Exhibit_TEN_Natural_Health", "Exhibit_SEVEN_Natural_Societies", "Exhibit_NINE_Natural_Human_Society",
+      "Exhibit_TWENTY-THREE_Natural_Values", "Exhibit_FOURTEEN", "Natural_Intelligence_Corus"]),
+    ("Discovering, next-existing, along",
+     ["Exhibit_FIFTEEN_Natural_Emanating", "Exhibit_TWENTY_Natural_Naming", "Exhibit_TWELVE_Natural_Explaining",
+      "Exhibit_EIGHT_Natural_Exploring", "Exhibit_TWENTY-FOUR_Geodesic_Improving_Method",
+      "Exhibit_TWENTY-SIX_Living_File_Registry", "Exhibit_TWENTY-NINE_Natural_Illustrating",
+      "Exhibit_ELEVEN_Natural_Medicine", "Exhibit_THIRTEEN_Resolving_Hard_Problems",
+      "Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry"]),
+]
+
+
+def of_stem(root, stem):
+    found = [f for f in glob.glob(os.path.join(root, stem + "_*v*.md")) + glob.glob(os.path.join(root, stem + "_v*.md"))
+             if re.match(re.escape(stem) + r"(_v\d+\w*\.md$|_[A-Z][A-Za-z_-]*_v\d+\w*\.md$)", os.path.basename(f))]
+    exact = [f for f in found if re.match(re.escape(stem) + r"_v\d+\w*\.md$", os.path.basename(f))]
+    return (exact or found or [None])[0]
 
 
 def ex(args, cwd=None, t=300):
@@ -167,6 +198,41 @@ def main(argv):
     say.append(f"- Notes naming a folder the live set has: {notes_here}" + (", by the folder named: " + ", ".join(f"{n} {c}" for n, c in here.most_common()) + "." if here else "."))
     say.append(f"- Notes naming a folder gone to the set's history: {notes_gone}" + (", by the folder named: " + ", ".join(f"{n} {c}" for n, c in gone.most_common()) + "." if gone else "."))
     say.append("")
+
+    say.append("## All the living files, by the set's four roots")
+    say.append("")
+    say.append("*The roots are as the Living File Registry's gathering file places the files at its PART THREE. A next draft is a living file of the next version: of another version, with lines re-said, or the same as live.*")
+    say.append("")
+    for root, stems in ROOTS:
+        say.append(f"**{root}**")
+        say.append("")
+        say.append("| A living file | Live | Its next draft | Notes in its gathering file |")
+        say.append("|---|---|---|---|")
+        for stem in stems:
+            a, b = of_stem(live, stem), of_stem(nxt, stem)
+            if not a or not b:
+                say.append(f"| {stem.replace('_', ' ')} | not found | | |")
+                continue
+            na, nb = os.path.basename(a), os.path.basename(b)
+            va, vb = re.search(r"_v(\d+\w*)\.md$", na).group(1), re.search(r"_v(\d+\w*)\.md$", nb).group(1)
+            la, lb = open(a, encoding="utf-8").read().split("\n"), open(b, encoding="utf-8").read().split("\n")
+            if na != nb:
+                draft = f"another version, v{vb}" + ("" if title_of(na) == title_of(nb) else ", as " + re.sub(r"^Exhibit [A-Z-]+ ", "", title_of(nb).replace("_", " ")))
+            elif la != lb:
+                seen = collections.Counter(la)
+                more = 0
+                for l in lb:
+                    if seen[l] > 0:
+                        seen[l] -= 1
+                    else:
+                        more += 1
+                draft = f"{more} line re-said" if more == 1 else f"{more} lines re-said"
+            else:
+                draft = "the same as live"
+            g = os.path.join(nxt, "gathering-value", re.sub(r"^Exhibit_[A-Z-]+_", "", title_of(nb)) + ".md")
+            notes = sum(1 for l in open(g, encoding="utf-8") if l.startswith("- ")) if os.path.exists(g) else "no gathering file found"
+            say.append(f"| {title_of(na).replace('_', ' ')} | v{va} | {draft} | {notes} |")
+        say.append("")
     print("\n".join(say))
     return 0
 

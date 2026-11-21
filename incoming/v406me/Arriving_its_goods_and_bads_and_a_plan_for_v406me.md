@@ -9,8 +9,10 @@ Incoming · v406me · 21 November 2026
 - **Its name.** v406me, the opening session after the v405 wrap.
 - **Its aiming, as a partner said it.** The state of the living file set assured. The gathering of value, suggestings, opportunities and resolvings well managed. All that is artifact in artifact storage, by the method. The living method less far behind its practice. All sessions at the quality of natural naming and explaining of the newest work, and over many passes the same quality in all the living files and gathering files. Sessions joining the method as it operates, going through one another's work with do-no-harming.
 - **Its opening work.** Its own arriving, for the session after it: the goods, the bads, and a way beside a bad.
-- **Its pages.** This page; [the state of the set, executed](The_state_of_the_set_executed.md), with its instrument, `instruments/the_state_of_the_set.py`; and [a second going through of v405next's droplets](A_second_going_through_of_the_droplets_of_v405next.md).
-- **What it moved.** Nothing in the live set and nothing in the next version. Its own folder is offered, #1091: no living file, no gathering file, no page of another session and no page of corus.me is in the offer.
+- **Its pages.** This page; [the state of the set, executed](The_state_of_the_set_executed.md), with all the living files by the set's four roots, a living file with its next draft and the notes in its gathering file, and its instrument, `instruments/the_state_of_the_set.py`; and [a second going through of v405next's droplets](A_second_going_through_of_the_droplets_of_v405next.md).
+- **What it moved.** Its own folder alone, into the set by a partner's yes of 21 November: no living file, no gathering file, no page of another session and no page of corus.me.
+- **Beside it.** v406all, with the opening's sentences, forward from the window's lines; and v406other, with Exhibit THIRTY. The sessions work on their own, and a session looks for a place to help and asks for help. The session a partner calls reimann is on its own.
+- **The set's plan, as a partner said it on 21 November.** The file set from the large opening toward the living files: natural naming and explaining, cohering and co-chaining sequentially logical sentences, by the method.
 
 ## The exchange, gone through whole on 21 November
 
@@ -35,7 +37,7 @@ Incoming · v406me · 21 November 2026
 5. **A partner's asking for all that remains, beside Start here's *sentences, not counts*.** This session's opening report had a table of sizes. v405now and v405co-chain wrote the same slip of themselves: three sessions in sequence. The main list's page and its instrument say sizes, and a session says what it has gone through. *A way:* Start here says what a partner's asking for progress gets, the homes of the open places, one sentence a home; the sizes are for the page of the state.
 6. **With no access a session sees thirty-six offers apart from the set, and two are open.** The offers' page is closed to a fetch as words, and the thread's page shows a part of its 134 messages. *A way:* access is asked once in the opening hour, ahead of the opening report.
 7. **The next version behind the live set.** A session checking it out finds an earlier Start here and no v405 folders. *A way:* the next version brought current with the live set at a sitting's end, among Start here's lines for a managing session.
-8. **A session named as going on, with no home.** Start here says the session a partner calls reimann goes on and reports itself; no folder, page or message of it is in the repository or in the thread whole. *A way:* a session going on has one line at the thread, with its home.
+8. **A session named as going on, with no home.** Start here says the session a partner calls reimann goes on and reports itself; no folder, page or message of it is in the repository or in the thread whole. A partner's saying beside it: it is on its own. *A way:* a session going on has one line at the thread, with its home.
 9. **The living pages are in a closed session's folder.** Start here, the one list, the main list and their instruments are in `incoming/v404mgr/`, and Start here says the folders of closed sessions are behind a session. The thread's title names four closed sessions. *A way:* a home of their own, in the plan's fourth pass.
 10. **A session's words are checked late.** The two word instruments are under *Offering your work*, and a session speaks to its partner long before it offers. This session's opening report was said with no check. *A way:* the opening hour's last step, the opening report gone through with the two instruments before it is said.
 11. **A partner follows the conversation, and a session speaks of the repository's own machinery.** This session's second report asked a partner's word with the machinery's names in the asking. A partner's saying beside it: the value of a transcript is its natural naming and explaining, the language of the files, all or none at all. *A way:* Start here's *Speaking with a partner* says the namings a session has for the machinery, an offer, a bringing in, the live set, the next version, a working place, and a session says no other.
@@ -60,7 +62,7 @@ A pass does no harm: nothing leaves before its value is placed, one thing is re-
 
 ## Its concerns
 
-- This session's pages are offered, #1091, their harm pass with nothing found, and they wait for a partner's word to come into the live set: a session arriving by the link finds them in the offer alone until then. A second going through of them is open to a session arriving.
+- This session's pages came into the set by a partner's yes, their harm pass with nothing found, and with no second session's going through: a second going through of them is open to a session arriving.
 - This session went through the openings and the named sections of the living files, and not all thirty-three whole.
 - The window of the opening and the aims' working document are in a partner's own place, and this session has gone through their copies alone.
 
