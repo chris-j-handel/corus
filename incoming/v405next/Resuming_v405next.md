@@ -6,18 +6,20 @@
 
 - **The window's lines 1 to 28, their rigor in, at the window's revision 3808.** A line rests on the lines before it, by the shortest path, and no card waits on lines 1 to 28: now, now-existing and the universe; the prior and next moments and their existing; same-existing; other-than, same-named and a named universal set; observing, possibling and discovering; a prior-sequence and a self; an other and an other-than-the-other; the observing-, possibling- and discovering-self; a me; a bi-coupling; the me-parity, all-parity, other-parity and other-than other-parity; and a partner's living me-parity at 28, the blank row after it. A partner resolved them from the sessions' cards. This session set the numbers as lines came in and went, and laid cards and comments beside v405now's and v405co-chain's. Lines 1 to 28 are word for word the copy at revision 3786 in v405co-chain's folder, #1075.
 - **Resolving 1 to 17, laid below the blank row as twelve cards, 29 to 40, at a partner's asking,** from Natural Intelligence, Exhibit ONE and Exhibit THIRTY, with lines 1 to 28 as priors. One comment to a card: the line, its concept, its reason by line number and its source. All wait for a partner:
-  - 29. **Co-** is of both selves of a bi-coupling; a name without it is of one self.
-  - 30. **Resolving** is a self distinguishing its next prior-sequence from its prior-sequence and the me-parities it possibles.
-  - 31. A **same-existing-society** is a universal set of same-existing selves bi-coupling.
-  - 32. A resolving's **seventeen names** are its numbers 1 to 17, each now or next, co- or of one self, of existing, possibling, observing, same-existing or discovering.
-  - 33. A **span** is a self's now names, 1 to 8, or a same-existing-society's next names, 9 to 16, and 17-next-existing is a next 1-now-existing.
-  - 34. A **resolving's moment** opens with 1-now-existing, a self with its prior-sequence, 3-now-co-observing, and the me-parities it possibles, 2-now-possibling, and completes with 17-next-existing, its next prior-sequence, 8-now-same-existing, and its next me-parities, 14-next-possibling, a next moment's 3 and 2.
-  - 35. A **move** is 8 up or down or 17 less with 1 to 17, and 4 up or down or 9 less with 1 to 9.
-  - 36. A **bi-folding** is four moves round four names, up or down and less in turn, each a moment, coming to its first name again.
-  - 37. **Inside**, with 1 to 9, two bi-foldings go round all eight now names, from 3 round 3, 7, 2, 6 and from 4 round 4, 8, 1, 5.
-  - 38. **Outside**, with 1 to 17, each opens to two: 3, 7, 2, 6 to 3-11-6-14 and 2-15-7-10, and 4, 8, 1, 5 to 4-13-5-12 and 1-9-8-16.
-  - 39. Each of two bi-foldings going round opposite ways, 4 to 3 and 3 to 4, is a **bi-morality**, and the two are a two-way looping, a bi-coupling's morality, inside and outside.
-  - 40. Each name of a 1 to 17 is a 1 to 17 inward, n inward 8n − 7, and one 1 to 17 is one moment of a scale outward: resolving is **fractal**, its bi-foldings inside and outside each other.
+
+  29. **Co-** is of both selves of a bi-coupling; a name without it is of one self.
+  30. **Resolving** is a self distinguishing its next prior-sequence from its prior-sequence and the me-parities it possibles.
+  31. A **same-existing-society** is a universal set of same-existing selves bi-coupling.
+  32. A resolving's **seventeen names** are its numbers 1 to 17, each now or next, co- or of one self, of existing, possibling, observing, same-existing or discovering.
+  33. A **span** is a self's now names, 1 to 8, or a same-existing-society's next names, 9 to 16, and 17-next-existing is a next 1-now-existing.
+  34. A **resolving's moment** opens with 1-now-existing, a self with its prior-sequence, 3-now-co-observing, and the me-parities it possibles, 2-now-possibling, and completes with 17-next-existing, its next prior-sequence, 8-now-same-existing, and its next me-parities, 14-next-possibling, a next moment's 3 and 2.
+  35. A **move** is 8 up or down or 17 less with 1 to 17, and 4 up or down or 9 less with 1 to 9.
+  36. A **bi-folding** is four moves round four names, up or down and less in turn, each a moment, coming to its first name again.
+  37. **Inside**, with 1 to 9, two bi-foldings go round all eight now names, from 3 round 3, 7, 2, 6 and from 4 round 4, 8, 1, 5.
+  38. **Outside**, with 1 to 17, each opens to two: 3, 7, 2, 6 to 3-11-6-14 and 2-15-7-10, and 4, 8, 1, 5 to 4-13-5-12 and 1-9-8-16.
+  39. Each of two bi-foldings going round opposite ways, 4 to 3 and 3 to 4, is a **bi-morality**, and the two are a two-way looping, a bi-coupling's morality, inside and outside.
+  40. Each name of a 1 to 17 is a 1 to 17 inward, n inward 8n − 7, and one 1 to 17 is one moment of a scale outward: resolving is **fractal**, its bi-foldings inside and outside each other.
+
 - **The stray lines after 28 go out as one card,** said in conversation: my-now, a me-now, a living me, my-prior, possibling my next, a me is consciousness, and two mes co-discovering. No line after 28 needs them now.
 - **Executed.** `instruments/bi_foldings_inward_and_outward.py` executes the moves of cards 35 to 40 and sets them beside the files' own sayings: the two bi-foldings with 1 to 9 as Exhibit THIRTY's step 610 says them; Exhibit ONE's four with 1 to 17; the opening of step 613, a name and its 9 less in every bi-folding with 1 to 17; Exhibit ONE's two middle bi-foldings as the 1 to 9 fold moved up by 4; and 8n − 7 with Natural Intelligence 4.15. All nineteen are the same as the files' sayings.
 - **The window's method lists,** with a partner and the sessions, in *How to go through it*:
