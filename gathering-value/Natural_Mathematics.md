@@ -98,6 +98,7 @@ Gathering-Value · Natural Mathematics
 ### 3.7 Three, a total against its parts, and a tipping no accounting has
 
 - **An explaining** · A subset changing within a same-existing set and each thing of that subset changing are two qualifyings. A whole less its not-changing subset names a remainder and says nothing alone of the whole set going on as one same-existing set, and a set's same-existing and its things' sameness are two questions.
+- **Possible exploring** · The gain is in a summed squared error over all the means, a size, and Natural Intelligence 2.5 has a resolving of no size. Another explaining: the gain is the set's and no one mean's alone, in neither alone at the set's scale, and the sum is the field's own ground, the installing Natural Emanating names. — at "With a third coming, a coupling's abundancing opens for estimating."
 
 ### 3.8 The halfway pairing and the fold, two involutions fixing nothing at each scale
 

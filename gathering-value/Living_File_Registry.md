@@ -112,6 +112,7 @@ Gathering-Value · Living File Registry
 
 - **Possible incohering** · "**Across**, one same relation reaches a different subject." → Beside it: across is following one concept through the files, saying at each the file's saying of it and the places the sayings part; the registries are the across, and exploring a concept is that saying.
 - **Possible incohering** · "TWENTY-SIX gathers files and seams; THIRTY gathers co-chaining's steps; Living Improving Value carries next work for each receiving file." → TWENTY-SIX gathers files and seams; THIRTY gathers co-chaining's steps; each living file's gathering-value carries next work for its file.
+- **An explaining** · A design of the exhibits around the opening: Natural Intelligence's opening and Exhibit THIRTY's steps 1 to 70 are one opening, said once in both files at a sitting's end by the lines of both; Exhibit THIRTY carries the chain, citing the lines; Exhibit ONE's code executes the parity lines; Me carries the me's lines; Natural Naming the new names and the dissolved ones; and Exhibit FOURTEEN, the log, the aims.
 
 ### 4.6 Scales, observed societies and installed accountings
 
@@ -128,6 +129,7 @@ Gathering-Value · Living File Registry
 ### 5.4 Incoming value at each receiving
 
 - **Possible incohering** · "**Living Improving Value carries unfinished seams and proposed edits for their receiving files.**" → Each living file's gathering-value carries unfinished seams and proposed edits for its file, each proposed edit a possible incohering with its sentence and its re-saying.
+- **An explaining** · A closing session's incoming folder goes through a second session's droplet pass, its value placed beside its living sentences in the gathering files. The earlier sessions' folders whose value is in the gathering files can go to the archive at a partner's word, incoming then carrying only what is open; Start here and the one list, in v404mgr's folder, stay at the place the sessions look for them.
 
 ### 5.5 Expedition and shared human collective discovering
 
