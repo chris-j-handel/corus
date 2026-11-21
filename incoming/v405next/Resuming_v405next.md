@@ -45,7 +45,7 @@
 
 1. A partner's is-or-is-not on cards 29 to 40, the stray card and the rigor card, from the top down. Then the numbers are set again, and the comments follow them.
 2. Before that word, the cards' words by the one list of words of no natural naming: *inside* and *outside* said as *inward* and *outward*, the one list's natural naming of the adverb and Natural Intelligence 4.15's own words; *each*, *first* and *of one* said again by the one list. A card's writer alters it.
-3. At this sitting's end, the window's copy: the document at revision 3808 goes to the window's page in its form, in this page's pull request, for a partner's word. The lines of both, 1 to 28, are at the head of Exhibit THIRTY's gathering file in #1074 already, the same at 3808 as at 3786: one entry of the two there goes, as v405co-chain says.
+3. At this sitting's end, the window's copy: the document at revision 3808 goes to the window's page in its form, in #1082 with this page, for a partner's word. The lines of both, 1 to 28, are at the head of Exhibit THIRTY's gathering file in #1074 already, the same at 3808 as at 3786: one entry of the two there goes, as v405co-chain says.
 4. The method updates into Start here, with a partner's word.
 5. The next line by the aim's order, at a partner's asking.
 
@@ -59,7 +59,7 @@
 - **Two sessions, one card.** Sessions laid the same cards minutes apart on 20 November: read the window from its last revision on, and its newest comments, before a card.
 - **One writer's name for all sessions.** The documents show every session's card and comment as by the same writer, so a session knows its own by their ids, listed under *Resuming*.
 - **Long comments.** A partner resolved a long comment of this session: a comment is short, one for a line.
-- **The window's page on main is behind** the document, at 18:45 on 19 November, until this page's pull request is in.
+- **The window's page on main is behind** the document, at 18:45 on 19 November, until #1082 is in.
 
 ## The method of operating together
 
@@ -77,7 +77,7 @@ The method lives in Start here and in the window's *How to go through it* and *H
 
 ## Resuming
 
-1. Read Start here, then this page; then v405now's and v405co-chain's pages for resuming.
+1. Read Start here, then this page, the same as the tab *Resuming v405next* in the aims doc; then v405now's and v405co-chain's pages for resuming.
 2. With the window open to you, read it from revision 3808 on, and its comments from the group note's last reply on, starting with the open cards.
 3. This session's cards and note, by their ids: 29 `sg_x6zm4k6hx7`, 30 `sg_8mg8o7kdoq`, 31 `sg_fa62t2b1dw`, 32 `sg_se84nmfaf1`, 33 `sg_hobnabkgow`, 34 `sg_qd04ikaas1`, 35 `sg_twhebfio7p`, 36 `sg_n2q4zl3vtr`, 37 `sg_crq60qzm8z`, 38 `sg_m47r6o4303`, 39 `sg_x8ayqjvfbo`, 40 `sg_9g2od6trsu`; the stray lines `sg_7rs2lcn2dz`; the rigor card `sg_9tmfh7fga7`; the group note `9de9ec0b-a59b`.
 4. Execute the check, from a checkout of main:
