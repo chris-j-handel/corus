@@ -4,6 +4,8 @@ Incoming · v405co-chain · 20 November 2026
 
 *No word here has authority. No living file is changed by this page. A session's working of one afternoon with a partner, at Exhibit THIRTY Co-Chaining Logic Registry's gathering file in the next version's copy, a method session and an improving session alternating.*
 
+For resuming, the session's value, open places, next steps, concerns and its practice of the method together: [the wrap of v405co-chain](The_wrap_of_v405co-chain_for_resuming.md).
+
 ## A thread
 
 A thread is a word or a concept of the chain, tied back to the step naming it and forward to the later steps needing it. It goes through the sentences using it, between them in their order, and around the chain into the files citing its steps. At a sentence's scale it is the method's pattern three moments long: the step naming its word, prior; the step using it, now; the steps needing it, next.
