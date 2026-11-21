@@ -182,4 +182,4 @@ What is beside the living files, and what is behind the set. A kit is with its l
 | The place named archive | The sessions' work from v374 to v400, whole as it arrived: the method proposed before, a file's offerings and carryings, reviews, and projects of the atom, carbon and the primes, a vault's bi-folding, rings as spirals, genome doubling, the hardness question |
 | A kit in the place named archive alone | The explaining passes: thirteen rules, from reading to working together |
 | The set's history | All earlier versions of a living file, back to March, and the folders shed in November |
-| The working documents | The window of the opening, with its tab Threads; the aims of the living expedition; the opening's working section, marked; the board of the valuables; this observer |
+| The working documents | The window of the opening, with its tab Threads; the next version of Exhibit THIRTY; the aims of the living expedition; the seventeen names in one table, its workbook; three documents of the session v400carbon at the carbon scale; the opening's working section, marked; the board of the valuables; this observer |

@@ -22,7 +22,7 @@ All in this folder, in the live set.
 - **A second going through.** `A_second_going_through_of_the_droplets_of_v405next.md`: twenty-one notes gone through, five places with a suggesting for the session with those gathering files, and no note re-said.
 - **The method of the whole expedition, reviewed.** `The_method_of_the_whole_expedition_reviewed.md`: exploring forward, gathering backward, planning forward and resolving backward, with their living sentences at four homes.
 - **The method's own prior-sequence.** `The_methods_own_prior-sequence_and_its_pieces_at_many_homes.md`, with `Each_proposed_method_in_sequence_with_its_home.csv`: the methods proposed before, a method with its home, and the pieces of the method now with their homes.
-- **What the six sessions resume from.** `What_the_six_sessions_resume_from.md`, with the copies of three pages of working documents in `working_documents_as_a_partner_gave_them/`.
+- **What the six sessions resume from.** `What_the_six_sessions_resume_from.md`, with the copies of the other account's working documents in `working_documents_as_a_partner_gave_them/`: three tabs beside the window, the aims, the workbook of the seventeen names, and three documents of the session v400carbon at the carbon scale.
 - **The observer of the living expedition.** A working document with a partner, four tabs: the outer observer, root by root; the Living File Registry, a living file with its mate, the gathering file; the betweens, a between with the two it is born of; the kits and others. Its copy is in this folder.
 - **The board.** *Expedition Possibling Observer*, among the account's artifacts: a block for a living file, by the four roots, with the method's own prior-sequence beside them.
 
@@ -43,6 +43,7 @@ What comes to a healthy condition with this session, as the observer says it:
 3. The gathering file of Exhibit ONE Natural Resolver gone through: an asking open said plainly for both partners, and a re-saying a session can work alone parted from it.
 4. The folder of v402mgr gone through, as the line between living and artifact begins.
 5. The earlier proposed methods gone through, most found by name alone until now.
+6. The copies of two working documents of this account and of the board, brought into this folder: *Natural Intelligence's opening: the working section, marked*; *The improving plan and its progress*; *Expedition Possibling Observer*.
 
 ## Concerns
 
