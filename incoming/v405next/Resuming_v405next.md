@@ -78,7 +78,7 @@ Its aim, said by a partner at its start: the one file's method brought back to l
 ## Next steps, as planned
 
 1. A partner's is-or-is-not on cards 29 to 40, the stray card, the rigor card and the three cards of released words, from the top down. Then the numbers are set again, and the comments follow them.
-2. A second session's droplet pass over this session's folder value, #1086 and #1088.
+2. A second session's droplet pass over this session's folder value, #1086 and #1088, its gathering check against `515ebff`, the next version before #1086.
 3. At the next sitting's end, the 19 November entry at Exhibit THIRTY's head goes, as v405now planned; the 20 November entry carries the lines of both, 1 to 28, the same at 3840 as at 3786.
 4. The window's copy renewed at a sitting's end, from revision 3840 on.
 5. The next line by the aim's order, at a partner's asking: non-living, a bi-coupling a self, a self's 0, parity alone.
@@ -98,6 +98,7 @@ Its aim, said by a partner at its start: the one file's method brought back to l
 - **The window's copy follows the document only at a sitting's end:** at revision 3840 now; a card decided after it is in the document alone until the next copy.
 - **Two sessions, one folder's value.** v405now's #1086 and this session's #1088 laid this folder's value minutes apart; the later withdrew its eight same droplets before coming in.
 - **Released words in the window's accepted method text,** *where*, *there*, *taken* and *near*: the copy carries them as the document says them until a partner decides the three cards.
+- **The gathering check against main finds older droplets.** In seven gathering files of the next version it finds released words of older droplets, or in quotes it misreads, and at Natural Intelligence ten quotes of the opening's earlier lines not word for word in its living file, none laid by this sitting. A droplet pass is checked against the next version's commit it began from.
 
 ## The method of operating together
 

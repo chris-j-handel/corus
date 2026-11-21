@@ -84,7 +84,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 1. Work on a branch of your own, `working/<what it is>-<your name>`.
 2. Execute the checks before you offer:
    - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
-   - `python3 -I kits/Gathering_Value_Kit/gathering_check.py <Title_of_the_gathering_file>`
+   - `python3 -I kits/Gathering_Value_Kit/gathering_check.py <Title_of_the_gathering_file> <the next version's commit your branch began from>`
    - `python3 -I incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py <your page>`, and no released word added, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/released_words.txt`
 3. Open a pull request: into main for a page of your own folder, into the next version's branch for a note in a gathering file.
 4. Say it at the exchange, issue 933 of this repository, with your line in four words: working, stalling, breaking, restoring.
