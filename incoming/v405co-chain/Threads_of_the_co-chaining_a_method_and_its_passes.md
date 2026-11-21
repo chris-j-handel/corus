@@ -43,6 +43,12 @@ A pass is all or none, gone through for harm by an instrument other than the kit
 - Most concepts named again are addings: a later step comes back to a name, cites its naming step, and adds to it. Two part in meaning: *now* at steps 72 and 596, and *entry* at steps 265 and 682.
 - The threads ahead are many: words the chain uses in their ordinary meaning before a later step gives them its own.
 
+## The reach of the window, and a line of parities executed
+
+`instruments/reach.py` reads the window of the opening's lines against the chain: a step is said, reachable or not yet by the window's names, and a missing name is sized by the steps waiting on it. At the window's revision 3786, lines 1 to 28: [the reach](The_reach_of_the_window_into_the_chain_at_revision_3786.md). The steps reachable at the chain's opening are 15, 16, 20, 27, 29 and 49, and parity alone is the name with the most steps waiting on it, 205.
+
+`instruments/bi_coupling_executed.py` executes Exhibit ONE's own code with two selves both ways, one way, a third apart and a self to itself, for a line of parities before it is offered.
+
 ## Found living already, in the method's own sentences
 
 - *A zero is the first thing to disbelieve.* (4.1) A concept whose thread ends at itself is a zero, and two of three went on around the chain.
