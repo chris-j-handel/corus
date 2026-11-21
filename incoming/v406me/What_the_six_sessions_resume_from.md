@@ -2,11 +2,11 @@ Incoming · v406me · 21 November 2026, as the sessions resume
 
 # What the six sessions resume from
 
-*In plain words, for a partner and for a session resuming. Written by v406me, the session with the condition of the set, from the set as it is and from five pages a partner gave it on 21 November. No word here is an authority over the living files.*
+*In plain words, for a partner and for a session resuming. Written by v406me, the session with the condition of the set, from the set as it is and from the pages of working documents a partner gave it on 21 November. No word here is an authority over the living files.*
 
 ## In short
 
-- **The five pages a partner gave.** Two are in the set already, the same sentence for sentence. Three were in working documents alone, and copies of them are in this folder now.
+- **The pages a partner gave.** The window and its concepts are in the set already, the same sentence for sentence. The others were in working documents alone, and copies of them are in this folder now: three tabs beside the window, the aims, the workbook of the seventeen names, and three documents of the session v400carbon at the carbon scale.
 - **The six sessions.** v406all, v406all2 and v406me have a page for resuming in the live set. v406geodesic has its page in its offer, waiting for a partner's word. v406other has no page of its own in the set. The session a partner calls reimann has nothing in the set and no line at the exchange.
 - **One finding for the Exhibit THIRTY partner.** Its three pages are by the window's numbers as they were with a me as one line, and the window is two lines on from line 25.
 
@@ -43,26 +43,26 @@ A thread, a between or a comment of a line from 25 on is by the earlier numbers,
 
 **The offer of v406geodesic, gone through for harm by v406me.** It adds its own folder alone, and no living file, no gathering file and no page of an other session moves with it. The set's checks pass with it, its own check executes and all fourteen of its lines are *is*, and no link or account name is in it. Nothing is found against it. It waits for a partner's word, as it says itself.
 
-## The six working documents, from this session's account
+## The working documents of the other account, as a partner gave them
 
-A working document lives among the artifacts of the account it was made in. A session in an other account reaches it by a partner opening it to that session, by a partner giving its pages, or by its copy in the set.
+A working document lives among the artifacts of the account it was made in. A session in an other account reaches it by a partner opening it to that session, by a partner giving its pages, or by its copy in the set. On 21 November a partner gave v406me the pages of all of them, and a copy of what the set had not is in `working_documents_as_a_partner_gave_them/`, in this folder, with no link and no account name.
 
-| The working document | Among this account's artifacts | In the pages a partner gave | In the set |
-| --- | --- | --- | --- |
-| *The window of the opening* | No | Its opening tab, its tab *Concepts* and its tab *Threads* | At its wrap, its revision 4509, with its concepts, in `incoming/v406all/`. Its tab *Threads* as a copy in this folder. |
-| *The next version of Exhibit THIRTY* | No | Its opening tab whole, and the tab *Opening the betweens*, of this document by its subject | Its steps, in the next version's file. Its head, its opening and the tab as copies in this folder. |
-| *The aims of the living expedition* | No | No | v405now's copy of 20 November: `incoming/v405now/The_aims_of_the_living_expedition.md`, with `The_opening_and_the_exhibits.md` and the two v405 pages for resuming, its tabs. |
-| *Sphere with a Three-Right-Angle Triangle* | Yes | No | Its artboards and its views, in the offer of v406geodesic. |
-| *The seventeen names in one table* | No | No | v403mgr's tables of 17 November, in `incoming/v403mgr/`. |
-| A document of carbon-scale observings and hard problems, its title seen in part | No | No | No page by its title. In the place named archive, the folder of an earlier session, of 10 November: *Carbon-Scale Existing Things and Ghosts*. Whether the document is of that work is not visible from here. |
+| The working document | Set beside the set, executed | In the set now |
+| --- | --- | --- |
+| *The window of the opening* | Its opening tab and its tab *Concepts* are the set's copies at the wrap, sentence for sentence. Its tab *Threads* was in no page of the set. | `incoming/v406all/`, the window and its concepts at its revision 4509. `The_tab_Threads.md`, a copy. |
+| *The next version of Exhibit THIRTY* | Its steps, 1 to 755, are the next version's file, word for word. Its head, its opening and the tab *Opening the betweens* were in no page of the set. | `The_next_version_of_Exhibit_THIRTY_its_head_and_its_opening.md` and `The_tab_Opening_the_betweens.md`, copies. |
+| *The aims of the living expedition*, its tab *The aims* | Its rows are v405now's copy of 20 November. In many lines the set's copy is ahead, a word re-said. Two sections were in the tab alone. | `The_aims_of_the_living_expedition_its_tab_The_aims.md`, a copy, beside `incoming/v405now/The_aims_of_the_living_expedition.md`. |
+| *The seventeen names in one table*, a workbook | Its sheets are the set's tables, cell for cell, but for one sheet the set's table is ahead of. Four sheets, and a column's standing as its header's colour, were in the workbook alone. | The workbook whole, `The_seventeen_names_in_one_table.xlsx`, its four sheets as tables, and `The_seventeen_names_in_one_table_the_workbook_beside_the_set.md`. |
+| Three documents of the session v400carbon, of 9 November: *Incoherings of the Atom and Nucleus*, a science survey; *What We Do and Do Not Understand: Carbon, Atom, Nucleus, Electron, Proton, Photon, Molecule*; *Carbon-Scale Observings: Hard Problems and Shards, Starting Over* | No sentence of the three was in the set's history. | Three copies, their names opening with `v400carbon_`. |
+| *Sphere with a Three-Right-Angle Triangle*, a canvas | Among this session's account's artifacts. | Its artboards and its views, in the offer of v406geodesic. |
 
-Three are whole for a session resuming: the window, the next version of Exhibit THIRTY, and the sphere's drawings once the offer comes in. Three are in the other account alone as they are now: the aims after 20 November, the sheets of the seventeen names after 17 November, and the document of carbon-scale observings. A partner giving their pages, as the five were given, brings them into the set the same way.
+**The three documents of v400carbon are whole in a session's folder, and no row of them is in a gathering file.** The last of the three says it of itself: a row whose record is marked *extract* or *not fetched* is laid at no gathering file and no living file until its source is opened and its sentence carried as the source has it. It also says the three registers and the seating of the ten of the document before it dissolve. A session bringing their value to the gathering files of Exhibit EIGHTEEN Natural Physics, Exhibit SIXTEEN Natural Chemistry, Exhibit TWENTY-SEVEN Living Ghost Registry, Exhibit TWENTY-FIVE Living Society Registry and Exhibit TWENTY-ONE Hard Problem Registry begins with the sources.
 
 ## Not in the set, and not visible from here
 
-- **The aims, the sheets of the seventeen names and the carbon-scale observings, as they are now.** As the table above says.
-- **The window's comments and the group's note.** They are in the working document alone. The set's copy has the lines, the cards and the lists.
-- **The cards and the comments of the working document of Exhibit THIRTY's next version.** In the document alone.
+- **The comments and the cards of the working documents.** In the documents alone. The set's copy of the window has its cards.
+- **The other tabs of *The aims of the living expedition*, as they are now.** The set has v405now's and v405next's copies of 20 and 21 November.
+- **Two working documents of this session's account, by their titles in no page of the set:** *Natural Intelligence's opening: the working section, marked*, and *The improving plan and its progress*. And the board, *Expedition Possibling Observer*. v406me brings their copies next.
 - **All of the session a partner calls reimann.**
 
 ## Next, in their order
