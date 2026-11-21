@@ -21,8 +21,8 @@ The working document of Natural Intelligence's opening. A partner, and the sessi
 
 **Waiting suggestions** in *How to go through it*, each with its talk:
 
-- *and its source where one is needed* as *and its source if one is needed*: the same meaning, with no released word; where is a released word, found by the harm reading at the sitting's wrap, Natural Naming 2.4.
-- *lays nothing a card there already says* as *lays nothing a card on that line already says*, and *the later one is taken back* as *the later one is withdrawn*: the same meaning, with no released word; there and taken are released words, found by the harm reading at the sitting's wrap, Natural Naming 2.4.
+- *and its source where one is needed* as *and its source if one is needed*: the same meaning, with no released word; *where* is a released word, found by the harm reading at the sitting's wrap, Natural Naming 2.4.
+- *lays nothing a card there already says* as *lays nothing a card on that line already says*, and *the later one is taken back* as *the later one is withdrawn*: the same meaning, with no released word; *there* and *taken* are released words, found by the harm reading at the sitting's wrap, Natural Naming 2.4.
 
 On this page, the document's waiting suggestions and comments are under the lines they are on.
 
@@ -118,6 +118,6 @@ The empty row after 28 is the blank row, a partner's. The seven rows under it ar
 
 **Waiting suggestions:**
 
-- **The heading**, *not in the near future* as *for a later sitting*: the same meaning, with no released word; near is a released word, found by the harm reading at the sitting's wrap, Natural Naming 2.4.
+- **The heading**, *not in the near future* as *for a later sitting*: the same meaning, with no released word; *near* is a released word, found by the harm reading at the sitting's wrap, Natural Naming 2.4.
 - **42**, *changing directions* as *directions*. Its talk: Directions for *changing directions*: *changing* is a word of the one list, an is-not of both partners, its natural naming resolving. Natural Intelligence's opening says *A parity's two directions are + and −.*
 - **The discovery line**, *not prior-existing* as *other-than prior-existing*. Its talk: Other-than for not, as 12 says now-and-other-than-prior-existing: Exhibit TWELVE Natural Explaining, *Say it with existing words first: an -ing over a noun, and a positive over a negation.*
