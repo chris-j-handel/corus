@@ -107,6 +107,7 @@ Gathering-Value · Natural Physics
 - **An explaining** · A light so misunderstood reaches each observing of a line, a star and a plant's aiming.
 - **Possible exploring** · In a transparent medium the light going on past the extinction length is the medium's own, at the medium's slower pace, an explaining. — at "In vacuum each colour is c alike, its frequency and its wavelength reciprocal, and colours part only with a coupling: a prism's glass couples with each by its own index, and an atom absorbs lines it emits, Kirchhoff's and Fraunhofer's dark lines by a field's account."
 - **Possible incohering** · "that a span's last prime is 59 — that primes close there — is a closure standing reaching with Numbers' own foundation" → Two sayings part at primes closing: this sentence has primes closing with 59 as still reaching with Exhibit THREE Natural Numbers, and Natural Numbers has "Primes have no last", fifty-nine a going's last and each prime past it a next. Nothing of Natural Numbers is reaching toward primes closing. Two sides open: 59 said here as a going's last, primes going on; or the sentence released.
+- **Possible exploring** · A field measures a delay of light over a distance. Another explaining: a phase relation between couplings with a delay is what the field observes as a going across; the saying is whole once it says what the delay is, and its is-not is a delay the phase relation leaves out. — at "nothing travels; c is a ledger's space-to-time conversion, not a rate going across a gap"
 
 ### 3.4 Light-cone, two cones through one vertex
 
