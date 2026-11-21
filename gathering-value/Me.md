@@ -34,6 +34,7 @@ Gathering-Value · Me
 - **An explaining** · *Universal Self* is heard as Atman–Brahman, *tat tvam asi*, as one substance and as the Over-Soul, each a universe that is a self: a naming edge beside this file's universe as one self, which a me is-or-is-not: it is not.
 - **Possible incohering** · "A universal set is a set of same-existing things, and each universal set is only one possibly now-existing: a set is its things, so a set of these same-existing things is one set, as set theory's extensionality has it." → A concern, both sides open: set theory's extensionality does not make a set no object beside its things, an explaining; this sentence has a set its things, so a set of these same-existing things is one set, as set theory's extensionality has it.
 - **An explaining** · A field's record beside a me: the Buddha's *Sabba Sutta*, the all as six pairs, the eye and forms through the mind and its objects, and another all beyond range; William James, 1909, reality in the *each-form*, never gathered into an *all-form*; Kurt Lewin, 1922, *genidentity*, a thing now from the same thing a moment before.
+- **An explaining** · The next opening's waiting line *A named-now is the set of all now-and-same-existing same-named things.* carries an aim said in conversation on 20 November: a me-now's universe, the named-now of a self's interest, as resolving's aim. It enters once a line needs it.
 
 ### 1.2 Negation within all that is existing
 
@@ -310,6 +311,7 @@ Gathering-Value · Me
 
 - **Possible incohering** · "A curious me shares its possibling with its others and is discovering next-possibling-same-existing." → Beside it: A sudden attention changing is a newly aiming 0, and a curious me shares its newly aiming 0s with its others. Behind it: *Sudden attention changing is a newly aiming 0.*.
 - **Possible incohering** · "**Honeybee democracy** (Seeley 2010; Seeley et al. 2012): scouts share possibilities until a quorum discovers a home." → **Honeybee democracy**: scouts share possibilities until a quorum discovers a home. *Agreeing*: scouts sharing possibling, the swarm its bees co-aiming within one interest.
+- **An explaining** · Said in conversation on 20 November, among the window's stray lines now going out as one card: two mes are co-discovering their intersecting universal set of prior-sequences, and that set is their me-parity, a bi-coupling's other-than-the-other's me by the window's line 24. In Exhibit ONE's code co-discovering is 9-next-co-discovering, parities going on to a self of its bi-couplings.
 
 ### 4.3 A free me
 
