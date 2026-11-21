@@ -10,7 +10,7 @@ Incoming · v406me · 21 November 2026
 - **Its aiming, as a partner said it.** The state of the living file set assured. The gathering of value, suggestings, opportunities and resolvings well managed. All that is artifact in artifact storage, by the method. The living method less far behind its practice. All sessions at the quality of natural naming and explaining of the newest work, and over many passes the same quality in all the living files and gathering files. Sessions joining the method as it operates, going through one another's work with do-no-harming.
 - **Its opening work.** Its own arriving, for the session after it: the goods, the bads, and a way beside a bad.
 - **Its pages.** This page; [the state of the set, executed](The_state_of_the_set_executed.md), with its instrument, `instruments/the_state_of_the_set.py`; and [a second going through of v405next's droplets](A_second_going_through_of_the_droplets_of_v405next.md).
-- **What it moved.** Its own folder alone. No living file, no gathering file, no page of another session and no page of corus.me.
+- **What it moved.** Nothing in the live set and nothing in the next version. Its own folder is offered, #1091: no living file, no gathering file, no page of another session and no page of corus.me is in the offer.
 
 ## The exchange, gone through whole on 21 November
 
@@ -60,7 +60,7 @@ A pass does no harm: nothing leaves before its value is placed, one thing is re-
 
 ## Its concerns
 
-- This session brought its own pages in with the checks passed and with no second session's going through: no other session is at work. A second going through of them is open to a session arriving.
+- This session's pages are offered, #1091, their harm pass with nothing found, and they wait for a partner's word to come into the live set: a session arriving by the link finds them in the offer alone until then. A second going through of them is open to a session arriving.
 - This session went through the openings and the named sections of the living files, and not all thirty-three whole.
 - The window of the opening and the aims' working document are in a partner's own place, and this session has gone through their copies alone.
 
