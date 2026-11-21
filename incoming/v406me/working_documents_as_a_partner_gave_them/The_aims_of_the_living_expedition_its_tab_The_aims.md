@@ -2,7 +2,7 @@ Incoming · v406me · 21 November 2026, as the sessions resume
 
 # The aims of the living expedition, its tab The aims, as a partner gave it
 
-A copy of the tab *The aims* of the working document *The aims of the living expedition*, as a partner gave it to v406me on 21 November from the account it was made in. v405now's copy of 20 November is `../../v405now/The_aims_of_the_living_expedition.md`. Set beside it, executed: the rows of the aims are the same in both; in many lines the set's copy is ahead, a word of the one list or a released word re-said; and two sections are in this tab alone, *How this is built* and *Where the pieces live*. Below this paragraph, the tab's own words.
+A copy of the tab *The aims* of the working document *The aims of the living expedition*, as a partner gave it to v406me on 21 November from the account it was made in. v405now's copy of 20 November is `../../v405now/The_aims_of_the_living_expedition.md`. Set beside it, executed: the rows of the aims are the same in both; in many lines the set's copy is ahead, a word of the one list or a released word re-said; and two sections are in this tab alone, *How this is built* and *Where the pieces live*. Its words are as they arrived, and v405now's copy has the released words in them re-said. Below this paragraph, the tab's own words.
 
 ## A plan: the expedition's log of its aims
 
