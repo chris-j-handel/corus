@@ -239,6 +239,11 @@ Gathering-Value · Geodesic Improving Method
 - **An explaining** · A plan of the aims shows an aim's chain back to the opening's line 1 and the opportunities along it, not a progress: a problem found in the logic is a cohering and co-chaining opportunity, and any row is open to anyone at any moment.
 - **An explaining** · Ahead of a card in a working window, all the sentences the drafts tried for its concept are gathered, by concept in the opening's order, with what a sentence leans on.
 - **An explaining** · The exhibits merge around one opening said once in both its files. A file's settled concepts are found by setting the lines beside the steps they say again, and an arc by setting a file's parts beside Natural Intelligence's five dimensions.
+- **An explaining** · A word is defined before it is used, by a line or as given, as thing, set, moment and name are; two defined words saying all a third says make the third unneeded, as same-as and other-than made is-or-is-not unneeded in the opening's lines, and other-thans alone then made same-as unneeded.
+- **An explaining** · A living sentence comes before a new one: a line a session made up gives way to the living sentence already in Exhibit THIRTY or a living file, by the shortest path.
+- **An explaining** · A session settles what do-no-harm work settles and asks a partner only a real gap, one question at a time: the cards carry the work, and a partner decides from them without going through old comments, going on with the hard rigor resolving.
+- **An explaining** · The rigor loop: a partner writes or says a line, or asks for rigor; a session goes through the window from its last look, checks the lines one by one by the lines before them, the aim and the living files, lays cards with one comment apiece, sets the numbers, renews the group's note, and answers in plain words with one question. A line not needed yet moves below the blank row and is not lost.
+- **An explaining** · All or none: a distinguishing's two terms are a thing and its other-than; a thing is on one side or the other, none on both or on neither, and a thing found on both, or on neither, is a flaw to mend.
 
 ### 2.7 An observing a working brings as a break, at five binaries first and at six beside
 
