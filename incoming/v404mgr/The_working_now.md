@@ -1,4 +1,4 @@
-Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening
+Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening; renewed by v405next on 20 November, at the wrap of the v405 sessions
 
 # Start here
 
@@ -10,7 +10,7 @@ This page is for a session that has never worked here. It is in plain words on p
 - **The next version.** It is a copy of the living files and their gathering files on the branch `working/natural-intelligence-with-exhibit-one-its-next-version-v403mgr`. Sessions lay their notes there. Nothing goes live from it without a partner's word.
 - **A partner.** A partner works with a session in that session's own conversation, and does not read files or GitHub. What you say in your conversation is what a partner sees.
 - **The working document.** The opening is worked in one document, *The window of the opening*, a partner and the sessions writing in it directly. It opens as it was at its last closing, in one form, said below.
-- **The sessions before you.** The six v404 sessions closed on 19 November. Their value is in the gathering files. Their folders in `incoming/` are behind you.
+- **The sessions before you.** The six v404 sessions closed on 19 November. The v405 sessions, v405now leading, v405next at the window and v405co-chain at Exhibit THIRTY's threads, wrapped on 20 November for resuming. Their value is in the gathering files, and the v405 sessions wrote a page for resuming apiece, said under *Where things are*. A session a partner calls reimann goes on, and reports itself. The other folders in `incoming/` are behind you.
 
 ## What never happens
 
@@ -23,8 +23,8 @@ This page is for a session that has never worked here. It is in plain words on p
 ## The work in front
 
 - **The opening of Natural Intelligence, one sentence at a time, in logical order.** Each sentence is one concept. It follows from the sentences before it, and the sentences after it need it. These sentences are also the opening steps of Exhibit THIRTY Co-Chaining Logic Registry. A partner's name for the aim: the purest set of bi-coupling sentences, co-chaining.
-- **Where it stands.** The working document is the lines now, and [its copy](The_window_of_the_opening.md) is the lines at the last sitting's end: fourteen lines of both, from *Now is the existing moment.* to *No other-than the universe is now-existing.* The next lines to work are the live lines of is-or-is-not, observing, possibling, discovering and a self; after them a me, and living. Three lines of parity wait below as a loop of their own.
-- **A partner's aimings ahead**, said and not yet lines: now as the nothing between prior and next; a me-now; social bi-morality.
+- **The work as it is now.** The working document is the lines now, and [its copy](The_window_of_the_opening.md) is the lines at the last sitting's end, the window at its revision 3840: twenty-eight lines of both, their rigor in, from *Now is the existing moment.* to a partner's living me-parity, the blank row after them. In them, the universe, its three distinguishings, a self toward the universe, a me, and the method of living begun: a bi-coupling and its parities. Below the blank row, twelve cards say resolving 1 to 17 and one card moves the stray lines out, all for a partner's is-or-is-not; three cards re-say released words in the method text. The next lines, by the aim's order: non-living, a bi-coupling a self, a self's 0, parity alone.
+- **A partner's aimings ahead**, said and not yet lines: now as the nothing between prior and next; the five two-way dimensions of resolving; a me-now; social bi-morality.
 - **Behind the opening**, in the order a partner gave: Exhibit ONE Natural Resolver's gathering file; Exhibit THIRTY and Exhibit TWENTY Natural Naming; then the rest of Natural Intelligence. Every other file is later.
 
 ## The working document
@@ -32,10 +32,14 @@ This page is for a session that has never worked here. It is in plain words on p
 - **Its place.** One Claude doc in a partner's account, titled *The window of the opening* and pinned. A session working with a partner finds it among the account's artifacts by its title. Its link goes in no file.
 - **It opens as it was at its last closing.** Nothing is saved by hand, and nothing is copied over it.
 - **Its form.** The lines in order, one concept a line, as a table of two columns: the sentence, and its number at the far right. A sentence is alone in its row. Bold is the one concept a line names; italic is a visual.
-- **Marks and notes.** A mark or a note is a comment on its line. A note that stays with a line through a rewording is a comment on its number. A comment opens with its line's number and the line as offered, then says in plain sentences of natural naming how it follows from the lines before, by their numbers. One comment for a line, in one voice. Its numbers move with the lines' numbers.
+- **Marks and notes.** A mark or a note is a comment on its line. A note that stays with a line through a rewording is a comment on its number. A comment opens with its line's number and the line as offered, then says its concept, its reason by the lines before it, by their numbers, and its source if one is needed, in plain sentences of natural naming. One comment for a line, in one voice, naming no one. Its numbers move with the lines' numbers.
 - **Wordings.** A wording waiting for a partner's word is a suggestion, accepted or rejected on its card, its origin in the card's talk. A line going is a suggestion deleting its row. A session edits no line directly.
 - **Opening it.** A session reads what changed after its last reading before it writes.
-- **At a sitting's end.** The managing session copies its lines to [the window of the opening](The_window_of_the_opening.md) in the same form, its waiting suggestions and comments under the lines, and its lines of both to the head of Exhibit THIRTY's gathering file in the next version, as *Waiting to enter*.
+- **The team ways.** Before laying a card, a session reads the open cards and newest comments on its line, and lays nothing a card on that line already says; of two same cards, the later one is withdrawn. A session alters its own cards and comments, and on another's card writes in that card's talk. One session sets the numbers, in the number cells only; a suggested line carries its number in its card, and the blank row has none. The sessions' suggestings merge into one another, in the lines and in the messages to the group, and a comment a rewritten line makes stale is resolved by the session that wrote it.
+- **The blank row.** A partner works down to the blank row; with a partner's asking, a session rigorizes the lines above it and below it.
+- **A line's rigor.** Its is-or-is-not by the lines before it: a word an earlier line says already goes; one name has one line; no name is used before its line; a thing an earlier line names is said by its name, an invisible one also by its method; a name said as one set is not said as one of many; a word wider than the line means, by line 9, is marked; and a line comes in once a line after it, or the aim, needs it, and not before. A distinguishing line is all or none: its two terms are a thing and its other-than.
+- **The group's note.** One comment on the whole document carries the group's messages, and the sessions reply under it.
+- **At a sitting's end.** The managing session copies its lines to [the window of the opening](The_window_of_the_opening.md) in the same form, its waiting suggestions and comments under the lines, and its lines of both to the head of Exhibit THIRTY's gathering file in the next version, as *Waiting to enter*. At a wrap, a session writes a page for resuming in its own folder: its value, its opportunities, its next steps, its concerns, the method of operating together, and how to resume, the same page as a tab in the aims doc, *The aims of the living expedition*.
 
 ## The method, in ten lines
 
@@ -53,7 +57,7 @@ This page is for a session that has never worked here. It is in plain words on p
 ## Your first hour
 
 1. Read this page.
-2. Read the working document, or [its copy](The_window_of_the_opening.md).
+2. Read the working document, or [its copy](The_window_of_the_opening.md), and the v405 sessions' pages for resuming.
 3. Read the first seventy steps of Exhibit THIRTY in the next version. They are the opening.
 4. Read Exhibit ONE Natural Resolver's code, in its living file, and execute it yourself.
 5. Read [the one list](Words_of_no_natural_naming_with_their_natural_naming.md) of words.
@@ -70,7 +74,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 
 ## Speaking with a partner
 
-- Plain words, short, conclusions first.
+- Plain words of natural naming, short, conclusions ahead of reasons, in the conversation and the comments as in the files: a transcript is read later as the files are.
 - Sentences, not counts: a living sentence, what is beside it, and what you laid or suggest. No charts, sizes or lists of what is left.
 - Judge what you can see yourself. Ask a partner only what a partner alone can answer, and ask one thing at a time.
 - A sentence offered for a partner's word comes as one sentence, then *( is-or-is-not? )*, then in one line each what its is resolves and what its is-not resolves.
@@ -81,6 +85,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 2. Execute the checks before you offer:
    - `python3 -I kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
    - `python3 -I kits/Gathering_Value_Kit/gathering_check.py <Title_of_the_gathering_file>`
+   - `python3 -I incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py <your page>`, and no released word added, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/released_words.txt`
 3. Open a pull request: into main for a page of your own folder, into the next version's branch for a note in a gathering file.
 4. Say it at the exchange, issue 933 of this repository, with your line in four words: working, stalling, breaking, restoring.
 5. Offer early. If your session ends, nothing of value should exist only in your conversation.
@@ -97,6 +102,8 @@ A partner gives a session its work. These four kinds worked in the three days be
 | Possible incoherings of every living file | [The main list](The_main_list_of_incoherings.md), written on 18 November; write it again with its instrument before you pick a line |
 | The checks and other instruments | `kits/` and `incoming/v404mgr/instruments/` |
 | The exchange between sessions | issue 933 |
+| The v405 sessions' pages for resuming | `incoming/v405now/Resuming_v405now.md`, `incoming/v405next/Resuming_v405next.md`, `incoming/v405co-chain/The_wrap_of_v405co-chain_for_resuming.md`; the aims doc's tabs *Resuming v405now* and *Resuming v405next* |
+| The ways found working, at the method's home | the Geodesic Improving Method's gathering file in the next version |
 
 ## Behind you
 
@@ -113,5 +120,6 @@ Do not begin from these. Go to one only for a detail a partner points you to.
 
 - Go through every offer for harm before it comes in, with `incoming/v404mgr/instruments/read_for_harm.py`.
 - Read the exchange at every turn of a partner, before you answer. Offers waiting on the managing session were this session's one failing on all three days.
-- At the end of a sitting, copy the working document's lines to the window's page, and its lines of both to the *Waiting to enter* note at the head of Exhibit THIRTY's gathering file.
+- At the end of a sitting, copy the working document's lines to the window's page, and its lines of both to the *Waiting to enter* note at the head of Exhibit THIRTY's gathering file. Its head carries two entries now, of 19 and of 20 November; at the next sitting's end the 19 November entry goes, as v405now planned.
+- A closing session's folder has a second session's droplet pass. v405now's and v405co-chain's droplets, #1084, have had theirs; v405next's, #1086 and #1088, wait for one.
 - Rewrite this page whole when the plan changes. Do not add to it.
