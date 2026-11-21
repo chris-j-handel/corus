@@ -27,7 +27,7 @@ Gathering-Value · Natural Numbers
 ### 1.4 Bi-inversioning-co-recursioning, numbers up and down
 
 - **Possible incohering** · "**Even returning, odd advancing, odd and even one and then the other.**" → Two sayings part at *advancing*: here advancing is the odd's, with returning the even's, and Natural Naming 5.21 has "each step adds a next, a reaching already with none", advancing at each number. By Natural Naming 2.5's one sense per foundation word, advancing is each number's, odd and even alike, each adding a next, or the odd's, with *returning* the even's.
-- **Possible exploring** · With Exhibit THREE Natural Numbers: *Bi-inversioning-co-recursioning is one move of three steps: 8 up and down, keeping odd or even; 17 less, podal within 1 to 16, exchanging odd and even; and 9 less, podal within 1 to 8, 17 less and 8 down together, exchanging odd and even.* is-or-is-not? The three moves are alike. Why it is open: at a point between four bubbles the three lines are alike, the six having each to each. Among the names one move is not as the other two: 8 up has odd and even the same, and 4 up, twice, is 8 up alone. Two sides: the three alike, odd and even no part of the form; or 8 up's line the one line of the three, the form's moves the eight of the twenty-four with that line to itself: no move, the three turns, the mirrors of its two films, and 4 up both ways.
+- **Possible exploring** · With Exhibit THREE Natural Numbers: *Bi-inversioning-co-recursioning is one move of three steps: 8 up and down, keeping odd or even; 17 less, podal from 1 to 16, exchanging odd and even; and 9 less, podal from 1 to 8, 17 less and 8 down together, exchanging odd and even.* is-or-is-not? The three moves are alike. Why it is open: at a point between four bubbles the three lines are alike, the six having each to each. Among the names one move is not as the other two: 8 up has odd and even the same, and 4 up, twice, is 8 up alone. Two sides: the three alike, odd and even no part of the form; or 8 up's line the one line of the three, the form's moves the eight of the twenty-four with that line to itself: no move, the three turns, the mirrors of its two films, and 4 up both ways.
 
 ### 1.5 Along and across, parallel linearizing and linear parallelizing
 
@@ -45,7 +45,7 @@ Gathering-Value · Natural Numbers
 ### 2.2 Inward to one number, outward to each place a self observes it
 
 - **Possible exploring** · Of the first seventeen sums of primes from two, seven are a square or one from a square: 2, 5, 10, 17, 100, 197 and 440. — at "Outward, it couples with each place a self observes it same way: four hundred forty as seventeen primes added, as eight fifty-fives, and as twenty-one squared less one."
-- **An explaining** · An anticipated observing: seven of seventeen sums a square or one from a square comes about one in fourteen by chance alone at the seventeenth, and more often with each further form an explaining allows itself. Seven of seventeen is true numbers coupling by a shared numeral, an explaining.
+- **An explaining** · An anticipated observing: seven of seventeen sums a square or one from a square, and each further form an explaining allows itself finds more. Seven of seventeen is true numbers coupling by a shared numeral, an explaining.
 
 ## THREE · UNRELATIONING
 
@@ -91,6 +91,8 @@ Gathering-Value · Natural Numbers
 
 ### 5.5 One ten at its two sides, at five
 
+- **An explaining** · Ten one ways are ten of Exhibit ONE Natural Resolver's seventeen names, and the same table of ten directions of unrelationing is between Exhibit TWENTY-ONE, Exhibit TWENTY-TWO and Equilibria, at *each place science is holding things together with laws*. The same five unrelationings are the outcome of two selves' five unrelationings to each other. *Away* and *toward* are no natural naming. *Executed, by whole numbers*: the ten names of a self's own resolving are five, 3, 4, 5, 7 and 8, and the same five 8 up; the six names between selves are three, 2, 6 and 9, and the same three 8 up. Exhibit THIRTY Co-Chaining Logic Registry has ten unchangeables each with a name of 1 to 8, 5 and 7 each two: 1, 2 and 6 are with those and are none of the ten names. — at "**Ten is with a self as five with two directions, 2n, and with a same-existing-society as couplings among five, C(5, 2), a fourth triangle.**"
+
 ### 5.6 Ten, nine and eight, one pairing at its two sides
 
 - **Possible incohering** · "Two parities carry four joint forms; prior and now whole and a next opening, five with each side, are ten positions, nought to nine; nine is 2² × 2½ − 1, and five pairs are of same moment." → 5.6's ten positions, nought to nine, prior and now whole and a next opening, five with each side, are beside the code's parity, one inversioning or none between a self and an other now, its lines having parities and 0 and ten positions of two sides outside them, and 5.6's ten and a self's ten own names, five now and five next at 5.2, are either one ten at two observings or two tens, each of its own subject.
@@ -112,6 +114,7 @@ Gathering-Value · Natural Numbers
 
 - **An explaining** · Nought to twenty-four and twenty-four to sixty pattern-match as a tendril's inward and outward phases and not its counts of turns, an explaining, a tendril's two hands observed with equal turns; with a tendril's two hands turning equally, no observing places its corus at twenty-four.
 - **Possible exploring** · Three edges winding into an apex and three opening out of it are a cube's along its diagonal, its two triangles of three at equal thirds of the diagonal, and the apex at twenty-four parts nought to sixty as twenty-four and thirty-six, three to two: the leaning of the numbers is open beside the cube's equal thirds — at "twenty-four is an apex of nought to sixty's bi-folding, seventeen primes two to fifty-nine within it"
+- **An explaining** · The corus of a bi-coupling is 24: 4 × 6, between 4 × 4 and 4 × 8. Beside it, gathered: 1 to 24 as three eights, a self's side, its other's side and all-parity's side; 16 is two eights and 32 is four. — at "**A self observes twenty-four five ways, and it is one twenty-four**: five squared less one, a second seam; orderings of four, 4!; a waist of a ring of forty-eight; twenty-three, its prior, opening a first gap of six among primes, to twenty-nine; and four moments of six one-way recursionings, twenty-four as steps of 1 to 25 are."
 
 ### 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
 

@@ -17,6 +17,8 @@ Gathering-Value · Natural Emanating
 
 ### The shortest sentence
 
+- **Possible exploring** · Among the oldest sayings of the files: the version-371 sources in Exhibit THIRTY's kit set two origins side by side, the universe as all existing things and a stable-forming method, and later writing put the method in disequilibria. Said again part by part with the next opening's lines: a method beside the universe is a second origin, a form from beside, and the next opening has one origin, now; disequilibria names all things by negating what cannot exist, and the next opening says the universe as the set of all now-existing things; being in something pictures an outside to the universe, and nothing is other-than the universe; its going back pictures a return to a prior that has ended, the prior moment ending as now is beginning; a method no self lives is a non-living form, and the next opening's self observes, possibles and discovers its own next-existing; and its article leaves room for a second method. No one new sentence replaces it: the next opening's lines from now to same-existing, with its self, say what it tried to say. Natural Intelligence Corus's gathering has alternating and in disequilibria dissolved already. — at "Within disequilibria, changing and changing back is a stable-forming method."
+
 ### The three-fold separation — the nothing-inward, the living, the emanation
 
 - **Possible incohering** · "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures." → Natural torusing living is self-competent, and an *emanation* from living is only socially competent, with no self-competency in its individuals at that scale. This parts from *The society*'s departing same-existing, a unique invisible same-existing and by that a self. One side re-says an *emanation* as non-living at its scale, with none of its prior, included socially, as Natural Intelligence's discovering social moral competency among living selves includes non-living existing things; the other sets the claim aside.
@@ -30,7 +32,11 @@ Gathering-Value · Natural Emanating
 
 ### Three lines, and they are properties of the symbol
 
+- **Possible exploring** · The size is right, 3,994 transitive relations on four elements and none with a departing in neither alone, and transitivity is not its reason: for any relation, what a pair reaches is what one or the other reaches. Another explaining: a relation between terms has no between that is itself a thing, and a thing in neither alone needs one; abundancing is said once a line names such a thing, and an equation's relation names none. — at "A composing relation admits no abundancing."
+
 ### The origin sentence at eight substrates
+
+- **An explaining** · The eight substrates' sayings of the origin sentence are said again from a field's own now, and not from disequilibria, as the note at the shortest sentence explains.
 
 ### Better, faster, cheaper — three absences, one per side
 

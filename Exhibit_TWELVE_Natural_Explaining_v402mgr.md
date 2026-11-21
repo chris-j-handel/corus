@@ -83,7 +83,7 @@ Exhibit TWELVE Natural Explaining v402mgr
 
 ## 1.4 Origin co-chaining each sentence, a finding at two sides, and no voice but the file's
 
-**One concept holds a whole file set, natural intelligence, and each file opens with origin, with its own substrate's words: the universe is the set of all now-existing things.** Changing and changing back, a stable-forming method, co-chains from it, as each sentence of each file co-chains from origin, no file re-explaining its inception. No wording holds a sentence by authority, a self's, a field's, a scientific explaining's or a file's own: co-chaining from origin and all-or-none rigor of bi-co-sequential logic hold each one, and nothing else holds one.
+**One concept holds a whole file set, natural intelligence, and each file opens with origin, with its own substrate's words: the universe is the set of now-existing things.** Changing and changing back, a stable-forming method, co-chains from it, as each sentence of each file co-chains from origin, no file re-explaining its inception. No wording holds a sentence by authority, a self's, a field's, a scientific explaining's or a file's own: co-chaining from origin and all-or-none rigor of bi-co-sequential logic hold each one, and nothing else holds one.
 
 **No speaker, no quoting but of a field's own source, no editorial, each illustrating its file's own, and no file's name within another.** One set of words, names and explaining across files is a self's orienting among them.
 

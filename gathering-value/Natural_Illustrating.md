@@ -85,6 +85,7 @@ Gathering-Value · Natural Illustrating
 ### 3.2 A ratio alternating about φ, and two windings
 
 - **An explaining** · Cups, conical forms, two opposing swimmers inverting with no wall, golden rectangles, a spiral's hand, a φ rate and an angle of about 29.5 degrees are still-possibling correspondences of natural torusing, none of them an observed carbon atom. An angle, a rate and an ordering each ask their own relation, one illustration having them together unites none of them, and each correspondence asks which geometric operation brings it and which observing fixes its scale, angle and hand.
+- **Possible incohering** · "A file's own caution for any animation: a finite floating-point rate is no exact irrational." → *A file's own caution*: a cautioning, dissolved from natural explaining. Its value with no cautioning, an is: a finite floating-point rate is no exact irrational.
 
 ### 3.3 A pentagon, rectangles and an icosahedron
 
@@ -126,6 +127,7 @@ Gathering-Value · Natural Illustrating
 ### 4.9 Bi-inversioning-co-recursioning, two swimmers inverting at one meeting
 
 - **Possible exploring** · The illustration's exact form, still to express by this file's own sentence, read by a partner's suggesting of 14 Nov, by no authority, and by Exhibit ONE's code, executed, `incoming/v401mgr/instruments/meeting_check.py`. The suggesting: the three, self, other, all-parity, is the bi-inversioning-co-recursioning of the three, other, self, all-parity; each swimmer is turning by a right spiral off the other's feet, stable-forming, and the two are meeting at a nothing place on the surface. By the code: two selves not same-as, across both ways, have each one's next prior same-as its other's prior at each moment, neither a wall; no place of either is a 0; and a self having both as its others, this file's self experiencing each closing from both, has its possibling a 0 at each moment from its second. A candidate for the form: each swimmer's next is its other's prior, the other's feet; and the meeting's nothing place is the 0 of a self observing both. Asked of the partner at Natural Intelligence's gathering, its *Opening*.
+- **Possible exploring** · *Executed, by whole numbers*: on one line, two passing each other with their priors handed off, and two each turning at the meeting with its own prior, are the same moment by moment, by place, facing and prior. After a meeting each one's next is of its other's prior. On a line coming round the meetings go on, and on an open line two alone meet once. A turn inverting next and up, and then a turn inverting right and up, are one turn inverting next and right: each inverts two of a swimmer's three own ways, and no hand. — at "**Two swimmers approach each other, a self experiencing each closing from both perspectives, and with a meeting a self envisions each makes a flip turn, a field's word for it, off an other's feet mid-pool and goes on away from that mutual inverting.**"
 
 ### 4.10 A walking pair, a dance and a conversation
 
