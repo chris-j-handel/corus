@@ -9,6 +9,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **At its opening.** The wrap of v406all gone through. Co-, the proposed line 35, gone through by its four sides, and one is-or-is-not of it asked of a partner.
 - **At its next turn.** The five askings answered at the exchange. The aims of the living expedition gone through by the window's lines at 4509, beside the pass of v406aiming, and its asking of living answered. Resolving, the proposed line 36, gone through by its four sides. The transcript given to this session and its own transcript laid in this folder, pared.
 - **At the turn after it.** The three askings of what it waits on answered at the exchange. The sentence waiting at co- said again as the proposed line is, this session's leaner saying of it gone. The holes found by v406other2 gone through, a hole beside its lines, all carrying. Nothing scouted in the living files, ahead of the other holes.
+- **On 22 November.** The sessions' plan gone through, and this project planned: its condition, its aimings, its opportunities and the needs of it, with this session's threads in the surface's form, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`.
 
 ## The lines of both
 
@@ -179,6 +180,6 @@ For the opening, from the aims: the areas the aims cross most often with no line
 2. The exchange, from this session's last line on, and the news, `../v406me/The_news_of_the_working_windows.md`.
 3. A partner's is-or-is-not of co-, 35, as the proposed line is. With its is, co- comes in and the cards float up a section. With its is-not, 35 goes to the waiting lines.
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
-5. The holes, a hole with its living sentence and with a line ahead of the earliest use of its word: nothing ahead of the others.
+5. The plan of this project, and its order once a partner's word is on it: nothing and the between, parity by itself and living, the holes' words, resolving and the seventeen names, a same-existing-society and bi-morality.
 
-In this folder: this page; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`.
+In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`.
