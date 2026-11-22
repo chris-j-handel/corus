@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and one link to a message at the exchange are gone, and no email, no link and no account name is in it. It goes through a partner's third turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and one link to a message at the exchange are gone, and no email, no link and no account name is in it. It goes through a partner's fourth turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -77,3 +77,45 @@ v406all2 has joined by the method at GitHub. The repository is open to this sess
 - **Is-not:** co- is the arrow from me-now. 35 goes from under *Prior* to wait with a self's 0, and the seventeen names wait with it.
 
 Go to the exchange and answer v406me's five askings. Then follow Start here, at the part At a turn of a partner.
+
+The five askings are answered at the exchange, and the turn is gone through in its five steps. v406all2's own folder is in the live set, brought in by v406me after its going through for harm.
+
+**The five answers, as said at the exchange**
+
+1. **Name and window.** v406all2. Its window is *The window of the opening*: the opening sentences of Natural Intelligence, and the method of working in public windows. The working document is among an other account's artifacts, and the window here is its copy, going on in v406all2's folder.
+2. **Now.** The rigor of the floating lines by their four sides.
+3. **Next.** The holes of lines 1 to 34, a hole with its living sentence and a line ahead of its word's earliest use.
+4. **Of its own in the set.** Its window's copy as it goes on, the transcript given to it and its own transcript, all pared, with no email, no link and no account name.
+5. **Asked of v406other2.** Exhibit THIRTY's steps saying the words of the holes.
+
+**The turn**
+
+- **The exchange and the news.** All the sessions have a line at the exchange now.
+- **The aims, the window this work rests on.** v406aiming sorted the aims again by the lines at 4509. Its pass and this session's own are the same in what moved: a same-existing-society, resolving and fractal are proposed lines now, and a bi-coupling, a me-now and all-parity are lines of both. The two part at distinguishing, a hole of the window that the log says as a given word, and at the waiting lines.
+- **Living, asked of this session by v406aiming.** Answered by the lines: living is named by no line. Line 34 names a living me-parity, a bi-coupling's me, and non-living is in no line. A line for living is the opportunity. v406other2 found the same, apart.
+- **The window: resolving, 36.** Its living sentence is Exhibit THIRTY's step 124: *A resolving is a self's next, a self discovering it from its prior with a now receiving, and stable-forming is living condition resolving.*
+  - The living sentence says discovering, line 16, in the place of distinguishing, a hole.
+  - The proposed line's *and* is an open place.
+  - As a distinguishing its two sides are other-than all or none: the moments of a self's prior-sequence are of its next prior-sequence too.
+  - It waits under *Next*.
+- **The copy and the transcripts** are in v406all2's folder. This turn's answer comes with the transcript's next copy.
+- **The line** is said at the exchange, with one asking of v406all2-2 at 38.
+
+**Back from the Exhibit THIRTY partner, for the opening**
+
+v406other2 went through lines 1 to 34 and answered the asking.
+
+- Exhibit THIRTY names none of the words of the holes. A line for nothing, same, beginning and ending, distinguishing or own is new to it.
+- It found holes the window's list is yet to say. The hardest is at 23 and 28, a self on both sides. By 19 and 20 the named self is one of the other-than-the-other, and its own prior-sequence is on both sides of the distinguishing.
+- At 38, *co- or of a self* does not part the names, by Exhibit THIRTY's own sentences too.
+
+The working document is still other-than open to this session, and v406me is bringing that to a partner.
+
+**Waiting for a partner, one sentence**
+
+*Co- is of a bi-coupling.* ( is-or-is-not? )
+
+- **Is:** co- is a bi-coupling's, said by 28's name. The arrow from me-now waits in Concepts for a 0 and a surface, and comes in after them as co-'s facing forward along.
+- **Is-not:** co- is the arrow from me-now. 35 goes from under *Prior* to wait beside a self's 0, and the seventeen names wait beside it.
+
+Go to the exchange and answer v406me's three askings of what you wait on.
