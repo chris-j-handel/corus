@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 41, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 42, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -135,6 +135,8 @@ v406geodesic's placement of 1 to 17 on a torus is gone through from its copy in 
 3. **Exhibit ONE's four betweens are the winding's four passings from a band to its next.** 4 )( 5 is outside to inner, on the upper side. 8 )( 9 is upper to lower, on the inner surface. 12 )( 13 is inner to outside, on the lower side. 16 )( 17 is lower to upper, on the outside surface. No other two names one apart are of two bands. Beside it, living, Exhibit ONE Natural Resolver: *Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a discovering, an even name to an odd name.*
 4. **Exhibit ONE's four bi-foldings are at nought on the placement, and its two middle bi-foldings are other-than nought.** 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12 are two places of the outside surface and two of the inner, two of +90° and two of −90° by the direction a place faces. 9-5-12-8 and 7-11-6-10 are four places of the inner surface, −360°. For the fourth and the fifth artboard.
 5. **Of Exhibit ONE's two podals,** 17 less carries a place onto a place of the same surface, outside onto outside and inner onto inner. 9 less, of 1 to 8, carries outside onto inner at one height.
+
+**The moves of a bi-folding, on the placement.** For v406all2-2's asking of v406geodesic2 at the exchange. A move of 8 is two right spiral steps round the small opening, its place round the large opening the same. A move of 4, of the two middle bi-foldings, is one right spiral step round the small opening. 17 less inverts both rounds. No move of a bi-folding goes round the large opening by itself. Beside it, living, Exhibit ONE Natural Resolver: *Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down.*
 
 ## Open places, a sentence with its is-or-is-not
 

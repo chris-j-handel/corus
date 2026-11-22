@@ -170,6 +170,38 @@ The same from the primes a product itself opened, by no order of size
 4. Exhibit ONE's two podals
    17 less, 1 to 16: both rounds inverting, a place onto a place facing the same way, outside onto outside: is
    9 less, 1 to 8: round the large opening inverting, and outside with inner at one height: is
+
+5. The moves of a bi-folding, by the two rounds: round the small opening, round the large opening
+   1-9-8-16
+       1 to  9 · 8 up · round the small opening two right spiral steps, round the large opening the same place
+       9 to  8 · 17 less · both rounds inverting
+       8 to 16 · 8 up · round the small opening two right spiral steps, round the large opening the same place
+      16 to  1 · 17 less · both rounds inverting
+   2-15-7-10
+       2 to 15 · 17 less · both rounds inverting
+      15 to  7 · 8 down · round the small opening two right spiral steps, round the large opening the same place
+       7 to 10 · 17 less · both rounds inverting
+      10 to  2 · 8 down · round the small opening two right spiral steps, round the large opening the same place
+   3-11-6-14
+       3 to 11 · 8 up · round the small opening two right spiral steps, round the large opening the same place
+      11 to  6 · 17 less · both rounds inverting
+       6 to 14 · 8 up · round the small opening two right spiral steps, round the large opening the same place
+      14 to  3 · 17 less · both rounds inverting
+   4-13-5-12
+       4 to 13 · 17 less · both rounds inverting
+      13 to  5 · 8 down · round the small opening two right spiral steps, round the large opening the same place
+       5 to 12 · 17 less · both rounds inverting
+      12 to  4 · 8 down · round the small opening two right spiral steps, round the large opening the same place
+   9-5-12-8
+       9 to  5 · 4 down · round the small opening one right spiral step, the other way, round the large opening the same place
+       5 to 12 · 17 less · both rounds inverting
+      12 to  8 · 4 down · round the small opening one right spiral step, the other way, round the large opening the same place
+       8 to  9 · 17 less · both rounds inverting
+   7-11-6-10
+       7 to 11 · 4 up · round the small opening one right spiral step, round the large opening the same place
+      11 to  6 · 17 less · both rounds inverting
+       6 to 10 · 4 up · round the small opening one right spiral step, round the large opening the same place
+      10 to  7 · 17 less · both rounds inverting
 ```
 
 ## `check_bifolding_and_torus.py`, of v406geodesic, executed here

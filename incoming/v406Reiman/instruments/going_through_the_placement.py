@@ -57,3 +57,21 @@ if __name__ == "__main__":
           "is" if seventeen and all(outside(n) == outside(17 - n) for n in range(1, 17)) else "is-not")
     print("   9 less, 1 to 8: round the large opening inverting, and outside with inner at one height:",
           "is" if nine and all(outside(n) != outside(9 - n) and upper(n) == upper(9 - n) for n in range(1, 9)) else "is-not")
+    print()
+    print("5. The moves of a bi-folding, by the two rounds: round the small opening, round the large opening")
+
+    def move(a, b):
+        (ja, qa), (jb, qb) = place(a), place(b)
+        if (jb, qb) == (3 - ja, 3 - qa):
+            return "both rounds inverting"
+        small = (jb - ja) % 4
+        large = (qb - qa) % 4
+        steps = {0: "the same place", 1: "one right spiral step", 2: "two right spiral steps", 3: "one right spiral step, the other way"}
+        return f"round the small opening {steps[small]}, round the large opening {steps[large]}"
+
+    for names in ((1, 9, 8, 16), (2, 15, 7, 10), (3, 11, 6, 14), (4, 13, 5, 12), (9, 5, 12, 8), (7, 11, 6, 10)):
+        ring = list(names) + [names[0]]
+        print("   " + "-".join(map(str, names)))
+        for a, b in zip(ring, ring[1:]):
+            kind = "17 less" if a + b == 17 else f"{abs(a - b)} {'up' if b > a else 'down'}"
+            print(f"      {a:>2} to {b:>2} · {kind} · {move(a, b)}")
