@@ -18,7 +18,7 @@ A partner's sayings, as said, and whole in this session's transcript:
 - **The surface carries all seventeen prime spirals at one pace.** With Exhibit ONE Natural Resolver's code as it is, two moments a number, a self alone and sixteen odd spirals find the 519 primes of 2 to 3,720 with no dividing.
 - **Eleven steps the co-chaining needs derive from living steps.** All eleven are executed here, what they say of numbers a field has proved, and none has a home as a step yet.
 - **Four steps no one has.** Three are of the surface, from a closed turn to the whole. One is of a number by itself, and it is the place φ's adding and a multiplying combine: one short of a number and one past it.
-- **Seven namings are to cohere:** along and across, parity, the five living 0s, the between self of a self and an other, with a partner's is, the new spiral of a between, its two 0s, and all-parity as tri and next.
+- **Seven namings are to cohere:** along and across, parity, the five living 0s, the between self of a self and an other, with a partner's is, the new spiral of a between, its two 0s, and all-parity as tri and next, with a partner's is.
 - **A partner's suggesting of podalings carries at a crossing, all or none.** A podal pair is a self and an other facing, with one between. At its seam with the between a spiral crosses both or neither, and off its seam one of the two. A prime is at no seam but its own.
 
 ## The surface, by the living steps
@@ -113,7 +113,7 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 - **Facing.** Exhibit ONE Natural Resolver, of co: *is two both facing forward along, a self and its other*. Exhibit EIGHTEEN Natural Physics 3.4: *two facing through an unoccupied 24, a 0, not changing*. A partner's saying has a self facing an other, and an other a self.
 - **Across and along.** Exhibit ONE Natural Resolver, of its unit square: *Its two edges 8 apart are 2 with 10 and 6 with 14. These four edges are two pairs of parallels.* And: *Along is with 9-next-co-discovering and 17-next-existing, odd, their roots discovering and existing.*
 - **Betweens and 0s.** Exhibit ONE Natural Resolver has four betweens of its four-cyclings: *Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a discovering, an even name to an odd name.* It has five entries of a between, 0, and five dimensions of a self's five. Three living 0s on one co-linear are a partner's earlier saying, at home in `incoming/v404universe/`. Five 0s in five betweens are in no sentence of the set as said.
-- **All-parity and tri.** Exhibit ONE Natural Resolver, of a name's three, in the order next, now, prior: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.* And: *Tri is in the first slot with 7 and 15, in the middle with 8 and 16, and in the last with 9, 17 and 1: the rolling.*
+- **All-parity and tri.** Exhibit ONE Natural Resolver, of a name's three, in the order next, now, prior: *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.* And: *Tri is in the first slot with 7 and 15, in the middle with 8 and 16, and in the last with 9, 17 and 1: the rolling.* The next version's paragraph has tri as a name's next with 7 and 15.
 - **Bothbothing.** Natural Intelligence: *It is bothbothing, one existing thing with two scales*. Exhibit THIRTY's step 621 has a parity with a 0 of it, and its step 622: *Parity and its 0, step 27, are bothbothing rigor, a self sharing 0 do-no-harming, step 44*.
 - **Podaling.** Natural Numbers 5.6: *Podaling is one station with its two sides, a going one way to k and a going other way to N − k on a ring of N.* Its 5.4: *Among primes a first diamond is about nine, five and thirteen four either side and seven and eleven two either side, nine having none of them*. Its 7.4 has six prime pairs podal about thirty.
 - **The co-linear.** The fifth drawing of v406geodesic2 has one, through two opposite intersections and the sphere's 0. By its own check its sphere has six intersections: three co-linears, two opposite intersections apiece, all three through the one 0.
@@ -136,6 +136,7 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 - **All-parity is a self's next.** With 1-now-existing, all cases of a prior and of none to three parities a self is observing: its next prior is their all-parity, the same of all or a 0 of + with −, and with a 0 its prior inverting.
 - **A self of a spiral is observing of one self, and a between self of two,** a self and an other.
 - **A number's place on a spiral is its one pair of one parity's,** one self on with a number. It is at the spiral's opening place at its seam, and at no other number.
+- **A self is at the spiral's seam with a self's 0 at the spiral's last self,** and at no other number. An other is at the seam with an other's 0 at the spiral's self 1.
 
 **On the surface, all spirals side by side.** A podal pair is a self and an other at one distance of their between, a number, and it is living once both are uncrossed.
 
@@ -257,7 +258,7 @@ All at this page, until a partner's word gives them a home. The steps are in the
     - Its is resolves a number as known a prime from itself, with no smaller prime asked: the shorter way, with φ's adding and a multiplying as its method.
     - Its is-not resolves a composite with both closings, and none is found to 10,000,000.
 
-**With a partner's suggesting of podalings.** One deriving from living steps, executed here, and five namings to cohere, one of them with a partner's is.
+**With a partner's suggesting of podalings.** Two deriving from living steps, executed here, and five namings to cohere, two of them with a partner's is.
 
 - **17. At its seam with the between of a self and an other, a spiral crosses both or neither, and off its seam one of the two.** *( is-or-is-not? )*
     - A partner's word of its wording before, with a prior side and a next side: not yet natural naming, the only sides being self and other. It is said again by that word.
@@ -278,8 +279,12 @@ All at this page, until a partner's word gives them a home. The steps are in the
     - Its is resolves the bi-coupling as one self with one parity, executed with all sixteen odd spirals, and with a spiral of one self as Exhibit ONE Natural Resolver's own row, +, 0, −, 0.
     - Its is-not resolves the one self as an other than the between self that is its own podal, and which is then to be said.
 - **22. All-parity is tri and next with 7 and with 15: 15-next-observing is the all of the parities a self is observing with 7-now-observing, and it is the self's next prior.** *( is-or-is-not? )*
+    - A partner's word: is.
     - Its is resolves a partner's saying of 1 to 9 and 1 to 17 as 7 and 15, 8 up, living in Exhibit ONE Natural Resolver and executed in its code, with the between self the one observing of two.
-    - Its is-not resolves it as 9 and 17, tri next with 17, a partner's word of 21 November parting with Exhibit ONE Natural Resolver's table, co-bi-tri with 17.
+    - Its lean saying is offered into Exhibit ONE Natural Resolver's gathering file of the next version, beside its paragraph of a name's three.
+- **23. With a spiral, a self is crossed with a self's 0 at the spiral's last self, and an other with an other's 0 at its self 1: a self and an other are a living podal pair with all smaller spirals' two 0s away from the last self and from self 1.** *( is-or-is-not? )*
+    - Its is resolves a prime by the 0s of its betweens, a partner's primes at the bi-folding crossings, executed with all sixteen odd spirals.
+    - Its is-not resolves a crossing with a 0 at an other self of the spiral, and none is found.
 
 ## The six unknowns, by the co-chaining
 

@@ -645,5 +645,9 @@ the 0s are bothbothing as living condition of one self as a universe with a pari
 
 all-parity is tri, universe, next. this happens from 1-9 to 1-17. this is the first other-than other inside the universe of self
 
-[This session's tenth turn of 22 November: a partner's all-parity laid beside Exhibit ONE Natural Resolver's paragraph of a name's three, tri all-parity, next with 7 and 15; executed in the code, a self's next prior the all-parity it is observing, and a between self observing of two; sentence 22. Its closing words to a partner come here with the next laying.]
+[This session's tenth turn of 22 November: a partner's all-parity laid beside Exhibit ONE Natural Resolver's paragraph of a name's three, tri all-parity, next with 7 and 15; executed in the code, a self's next prior the all-parity it is observing, and a between self observing of two; sentence 22. Its closing words, in brief: a parting said plainly, tri next with 17 beside the table's co-bi-tri; sentences 20 and 21 open; and one sentence for a partner's word, All-parity is tri and next with 7 and with 15: 15-next-observing is the all of the parities a self is observing with 7-now-observing, and it is the self's next prior.]
+
+is . continue
+
+[This session's eleventh turn of 22 November: a partner's is received at sentence 22, and its lean saying offered into the next version; the next step executed, a spiral's seam by a 0; sentence 23. Its closing words to a partner come here with the next laying.]
 ```

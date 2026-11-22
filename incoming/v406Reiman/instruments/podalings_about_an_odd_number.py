@@ -156,7 +156,7 @@ def two_0s_in_the_between(step, q):
     """The 0s of a self and of an other, as the between selves receive them with a number."""
     by_number = a_spiral_alone(step, q, 5 * q)
     opening = its_priors(by_number[q], q)
-    one_and_one = at_the_pair = one_self_on = together_once = parts_the_between = place = True
+    one_and_one = at_the_pair = one_self_on = together_once = parts_the_between = place = seam_by_a_0 = True
     for k in range(q, 5 * q + 1):                       # a number's place on its spiral
         was = its_priors(by_number[k], q)
         pair = [i for i in range(q) if was[i] == was[(i + 1) % q]]
@@ -186,6 +186,9 @@ def two_0s_in_the_between(step, q):
             if not one_and_one:
                 continue
             s0, o0 = of_a_self[0], of_an_other[0]
+            a_self, an_other = its_priors(society, q, "self"), its_priors(society, q, "other")
+            at = lambda p: p == opening or p == tuple(-x for x in opening)
+            seam_by_a_0 = seam_by_a_0 and (s0 == q - 1) == at(a_self) and (o0 == 0) == at(an_other)
             if d == 1:
                 at_the_pair = at_the_pair and (o0, s0) == (j, (j + 1) % q)
             one_self_on = one_self_on and s0 == (j + d) % q and o0 == (j + 1 - d) % q
@@ -204,7 +207,7 @@ def two_0s_in_the_between(step, q):
             else:
                 of_the_pair = arcs[0] if j in arcs[0] else arcs[1]
             parts_the_between = parts_the_between and parting == of_the_pair and same == set(range(q)) - of_the_pair - {s0, o0}
-    return one_and_one, at_the_pair, one_self_on, together_once, parts_the_between, place
+    return one_and_one, at_the_pair, one_self_on, together_once, parts_the_between, place, seam_by_a_0
 
 
 def one_parity_of_the_between(step, q):
@@ -304,7 +307,7 @@ if __name__ == "__main__":
     print(f"   a new spiral in the between: with 10-next-co-possibling of a self and of an other alone, the between selves have the between spiral's own priors, all inverting, with the next number: {is_or_is_not(born)}")
     print(f"   the new spiral, with its own 9-next-co-discovering and 10 of no other, is the spiral on, number with number, all inverting: {is_or_is_not(on_alone)}")
     print(f"   with 10 of a self and of an other still, and its own 9, the between is no spiral on: {is_or_is_not(not on_with_both)}")
-    z = [True] * 6
+    z = [True] * 7
     for q in odd_spirals:
         z = [a and b for a, b in zip(z, two_0s_in_the_between(step, q))]
     all_is = all_is and all(z)
@@ -314,6 +317,7 @@ if __name__ == "__main__":
     print(f"   the two 0s are with one between self once a turn of the spiral, and it is the one that is its own podal: {is_or_is_not(z[3])}")
     print(f"   the two 0s part the between: on the side of its pair of one parity a self and an other are + with -, and on the side of its own podal self the same: {is_or_is_not(z[4])}")
     print(f"   a number's place on a spiral: its one pair of one parity is one self on with a number, and at the spiral's opening place at its seam and at no other number: {is_or_is_not(z[5])}")
+    print(f"   a self is at the spiral's seam with a self's 0 at the spiral's last self, and at no other number; an other, with an other's 0 at the spiral's self 1: {is_or_is_not(z[6])}")
     own_prior = all(one_parity_of_the_between(step, q)[0] for q in odd_spirals)
     of_one = one_parity_of_the_between(step, 1)[1][:8]
     one_self = of_one in ([1, 0, -1, 0, 1, 0, -1, 0], [-1, 0, 1, 0, -1, 0, 1, 0])
