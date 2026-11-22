@@ -364,3 +364,35 @@ All is.
    2 to 1000: the same uncrossed numbers, 168 primes, and the same seams of all the spirals: is
 All is.
 ```
+
+## `the_living_sayings_of_primes_executed.py`, executed on 22 November
+
+```text
+Exhibit THREE Natural Numbers
+   1.6 · a step of k round N reaches N over their greatest factor of both; round a prime all steps but nought reach all; nine with a step of two reaches all: is
+   1.6 · no power of two above one is a power of three, to two hundred of them; two and three multiplied less two and three added is one: is
+   2.1 · phi cubed less one over phi cubed is four; fifty-five is couplings among eleven, the tenth triangle and the tenth of prior two added: is
+   3.1 · phi squared is phi and one; ratios of prior two added are above phi and below it in turn: is
+   3.4 · a next as now and prior added, with +1, -1 or none: now with +1 closes after one, with -1 after two; prior with +1 after two, with -1 after four; both with -1 after three; now +1 and prior -1 after six; and none after five: is
+   6.3 · primes part about twenty-four as nine behind and eight ahead; fifteen of sixteen gaps among seventeen primes are even: is
+   6.4 · twenty-four is five squared less one, twenty-seven three cubed, thirty-two two to the fifth: is
+   7.1 · seventeen primes, two to fifty-nine; added they are four hundred forty, eight fifty-fives, twenty-one squared less one; sixty has no prime; sixty-one and sixty-seven are primes: is
+   7.1 · 5, 7, 11, 17 and 19 add to fifty-nine: is
+   7.2 · two odd spirals of distinct primes come to their parities again together by four times the two multiplied; nine and twenty-five by 900, three and five by 60, nine and fifteen by 180: is
+   7.2 · sixteen odd prime spirals come to their parities again together by 3,845,520,700,308,425,278,140 moments, twice the seventeen multiplied: is
+   7.3 · sixteen gaps of four values, one, two, four and six; six gaps of two, 3 and 5, 5 and 7, 11 and 13, 17 and 19, 29 and 31, 41 and 43, and past 3 and 5 about a multiple of six: is
+   7.3 · from five to fifty-three are fourteen primes; five to fifty-nine are fifteen, all odd: is
+   7.4 · six prime pairs about thirty, 7 with 53, 13 with 47, 17 with 43, 19 with 41, 23 with 37, 29 with 31, of twelve primes; eleven is with forty-nine, seven squared: is
+   7.6 · prime pairs about one hundred twenty at seven, eleven, seventeen and nineteen; 111 is 3 by 37 and 129 is 3 by 43; 115 is 5 by 23 and 125 five cubed; 117 is 9 by 13 and 123 is 3 by 41; 127 is two to the seventh less one: is
+   7.7 · primes by position about twenty-three make 61, 56, 52, 50, 52, 50, 48 and 48; a self's one to nine has primes adding to one hundred, and nine to seventeen to three hundred sixty-three, three by eleven squared: is
+   7.7 · 8 up: 2 and 23 add to five squared, 5 and 31 to six squared, 17 and 47 to eight squared, 3 and 29 to two to the fifth, 19 and 53 to seventy-two: is
+   9.3 · ten primes leave two by threes, and their far sides of four hundred forty three divides; three's far side is 19 by 23; 7, 19, 31 and 43 have prime far sides, 433, 421, 409 and 397; five's far side is fifteen primes added and couplings among thirty: is
+   9.4 · sixteen gaps step one ring once, two rings six times, four rings five times and six rings four times, fifty-seven rings together, fifty-nine less two: is
+   9.5 · fourteen primes five to fifty-three add to three hundred seventy-six, and two, three and fifty-nine to sixty-four, eight squared: is
+Exhibit FOUR Natural Mathematics
+   its rounds · two rounds of m and n stations stepped together reach m by n over their greatest factor of both of their pairs; with no factor of both, all their pairs: is
+   its roots · the square roots of two, three and five are a square's diagonal, a cube's body diagonal and within a pentagon's diagonal over its side: is
+   its groups · the largest sporadic group's order has fifteen primes, two to seventy-one: of the seventeen all but thirty-seven, forty-three and fifty-three, and seventy-one: is
+   Exhibit SEVEN Natural Societies · a prime from five on is one before a multiple of six or one after it; of fourteen, five to fifty-three, eight are one before and six one after: is
+All is, of the 24 gone through.
+```

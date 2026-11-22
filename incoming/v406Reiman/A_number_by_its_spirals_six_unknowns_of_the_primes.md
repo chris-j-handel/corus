@@ -111,6 +111,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *the resolver code can be written with only nand*, with *two in a row is bi-inversioning co-recursioning and all of the resolver code is this and only this*
 - *use natural naming and explaining*, with *a nand is*, and *deciding is not natural naming*
 - *is-not would be incohering*, with *the resolving of this is already known to your posing of this question*
+- *how much explaining to the world about prime numbers will be novel to the world and how much will be cohering with the world and how none will be incohering with the world of prime numbers*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -296,34 +297,42 @@ All at this page, until a partner's word gives them a home. The steps are in the
 
 **Deriving from living steps.** All ten are executed here, and what they say of numbers a field has proved.
 
-- **1. A number is two moments: an odd spiral's one pair of one parity is one self on with a number, and at its seam again with the spiral's own number of numbers.** *( is-or-is-not? )*
+- **1. A number is two moments: an odd spiral's one pair of one parity is one self on with a number, and at its seam again with the spiral's own number of numbers.** *Self resolving, asking nothing.*
+    - Living already: Natural Intelligence 4.13, and Natural Numbers 7.2.
     - Its is resolves numbers on the surface with no dividing, from Natural Numbers 7.2 and steps 306 and 737.
     - Its is-not resolves an other pace, and at four moments a number two is not carried.
 - **2. Two is a self alone inverting, and all odd spirals with it.** *( is-or-is-not? )*
     - Its is resolves seventeen primes at one pace, sixteen spirals and a self alone.
     - Its is-not resolves a spiral of two of its own, as Natural Numbers 7.2 has it, again with all numbers at this pace.
-- **3. A number is crossed once a spiral smaller than it is at its seam with it, and an uncrossed number is a prime.** *( is-or-is-not? )*
+- **3. A number is crossed once a spiral smaller than it is at its seam with it, and an uncrossed number is a prime.** *Self resolving, asking nothing.*
+    - Living already: Natural Numbers 1.6 and Natural Naming 2.2. It is a field's sieve, and an is-not of it is incohering with numbers' own arithmetic.
     - Its is resolves steps 191, 192 and 311 as one step of the surface.
     - Its is-not resolves an uncrossed number that is no prime, and none is found to 3,720.
-- **4. Side by side, spirals of numbers with no factor of both come to all their places together once a turn.** *( is-or-is-not? )*
+- **4. Side by side, spirals of numbers with no factor of both come to all their places together once a turn.** *Self resolving, asking nothing.*
+    - Living already: Natural Numbers 7.2, and Natural Mathematics, *its two rounds are one round of mn*.
     - Its is resolves step 310's coming again together as a turn with all places in it.
     - Its is-not resolves two numbers of a turn with the same places, and none is found to 2,310.
 - **5. A number's priors are its places on the spirals smaller than its square root.** *( is-or-is-not? )*
     - Its is resolves placing the 0 on a number as with its priors.
     - Its is-not resolves a number's priors as other-than its places, and what they are is then to be said.
-- **6. In a closed turn the pairs two apart are its odd spirals' places less two, multiplied, and never none.** *( is-or-is-not? )*
+- **6. In a closed turn the pairs two apart are its odd spirals' places less two, multiplied, and never none.** *Self resolving, asking nothing.*
+    - By numbers' own arithmetic, executed, and a field has it.
     - Its is resolves 1, 3, 15 and 135, and the pairs 4 apart as many, and the pairs 6 apart twice as many.
     - Its is-not resolves a turn with none, and none is found.
-- **7. A closed turn's uncrossed numbers are primes as far as the square of the next uncrossed number, and no farther.** *( is-or-is-not? )*
+- **7. A closed turn's uncrossed numbers are primes as far as the square of the next uncrossed number, and no farther.** *Self resolving, asking nothing.*
+    - By numbers' own arithmetic, executed, and a field's sieve has it.
     - Its is resolves a turn as the primes' opening stretch alone: 24, 48, 120, 168.
     - Its is-not resolves a turn that is the primes farther on.
-- **8. All the prime spirals side by side are again together with no number: the whole closes at none.** *( is-or-is-not? )*
+- **8. All the prime spirals side by side are again together with no number: the whole closes at none.** *Self resolving, asking nothing.*
+    - Living already: Natural Numbers 7.1 and 7.2.
     - Its is resolves the primes as unrelationing, beside step 185 and Natural Numbers 7.1, and a tie of φ and primes in group 16.
     - Its is-not resolves a number bringing all prime spirals again together, and a last prime.
-- **9. Doubling, round a prime above two, closes by one short of it.** *( is-or-is-not? )*
+- **9. Doubling, round a prime above two, closes by one short of it.** *A field's, proved, and said with a field's doubling.*
+    - By a partner's word at sentence 26, to be said by the resolver's own, or let go.
     - Its is resolves a multiplying's closing round a prime as a step.
     - Its is-not resolves a prime with an other closing, and none is found to 1,000,000.
-- **10. Prior two added, round a prime, closes: by one short of a prime ending in 1 or 9, and by twice one past a prime ending in 3 or 7.** *( is-or-is-not? )*
+- **10. Prior two added, round a prime, closes: by one short of a prime ending in 1 or 9, and by twice one past a prime ending in 3 or 7.** *A field's, proved, and said with a field's adding.*
+    - By a partner's word at sentence 26, to be said by the resolver's own, or let go.
     - Its is resolves step 183's adding with step 191's prime in one step, the tie group 16's title names.
     - Its is-not resolves φ's adding as open round a prime too.
 
@@ -338,16 +347,16 @@ All at this page, until a partner's word gives them a home. The steps are in the
 
 **The steps no one has.** No step here derives them, and a field has no proof of them.
 
-- **13. What a closed turn has with never none, the whole has with no last.** *( is-or-is-not? )*
+- **13. What a closed turn has with never none, the whole has with no last.** *Not yet understood by the world.*
     - Its is resolves pairs two apart with no last, and the pairs 2, 4 and 6 apart as one, one and two without end.
     - Its is-not resolves a pattern of a closed turn with a last in the whole, and which is then to be found.
-- **14. From all numbers above one, a distance with both sides uncrossed is short of the number.** *( is-or-is-not? )*
+- **14. From all numbers above one, a distance with both sides uncrossed is short of the number.** *Not yet understood by the world.*
     - Its is resolves a prime on both sides at one distance, from all numbers.
     - Its is-not resolves a number with none, and none is found to 1,860 and about three far numbers.
-- **15. Between two neighbouring squares is an uncrossed number.** *( is-or-is-not? )*
+- **15. Between two neighbouring squares is an uncrossed number.** *Not yet understood by the world.*
     - Its is resolves the nearest prime as no farther than twice a number's square root and one.
     - Its is-not resolves two neighbouring squares with none between, and none is found to 61 squared.
-- **16. An odd number ending in 3 or 7 with both closings, doubling by one short of it and prior two added by one past it, is a prime.** *( is-or-is-not? )*
+- **16. An odd number ending in 3 or 7 with both closings, doubling by one short of it and prior two added by one past it, is a prime.** *Not yet understood by the world.*
     - Its is resolves a number as known a prime from itself, with no smaller prime asked: the shorter way, with φ's adding and a multiplying as its method.
     - Its is-not resolves a composite with both closings, and none is found to 10,000,000.
 
@@ -411,6 +420,50 @@ All at this page, until a partner's word gives them a home. The steps are in the
 
 By sentence 25, all six ask of spirals at their seam with a number: stable forms, observed one scale outward.
 
+## The world of the primes, and this explaining beside it
+
+A partner's aiming of 22 November: what of this explaining is novel to the world, what coheres with the world, and none of it incohering with the world of the primes. Natural Numbers and Natural Mathematics are gone through for it, with `the_living_sayings_of_primes_executed.py`.
+
+**Cohering with the world: a field has it proved, in its own words.**
+
+- **A prime.** Natural Numbers 1.6: *A prime is a self no equal smaller selves above one add up to*. It is a field's prime, a number no smaller number above one divides.
+- **Primes have no last.** Natural Numbers 7.1. A field's, by Euclid.
+- **The surface.** A number with a smaller spiral at its seam is crossed, sentence 3. It is a field's sieve, by Eratosthenes. A field has rows of cells that say the primes moment with moment too, by Fischer, 1965.
+- **Spirals with no factor of both come to all their places once a turn,** sentence 4. Natural Mathematics: *With coprime m and n its one winding reaches each pair, and its two rounds are one round of mn*. A field's Chinese remainder theorem.
+- **A prime from five on is one before a multiple of six or one after it,** Exhibit SEVEN Natural Societies. A field's 6k − 1 and 6k + 1.
+- **A prime in a doubling span.** A field's, by Chebyshev, 1852.
+- **The step of the seam, and a closed turn's pairs,** sentences 17 and 6. A field's, by Hardy and Littlewood, 1923.
+- **The two closings round a prime,** sentences 9 and 10. A field's, by Fermat and by Wall, 1960, and said with a field's doubling and adding.
+- **φ.** Natural Numbers 3.1 to 3.3: its own equation, a pentagon's diagonal over its side, and *No rate is neared more slowly by rationals than φ*. A field's, by Hurwitz, 1891.
+- **No adding closes after five,** Natural Numbers 3.4. A field's crystallographic restriction.
+- **One is-or-is-not alone makes all two-valued logic.** A field's nand, by Sheffer, 1913.
+
+**Novel to the world, by this session's searching.** A few searches and no survey of a field: found in no field's page.
+
+- **The resolver's own is-or-is-not finds the primes:** spirals of selves side by side, a self's is-or-is-not of a co-parity alone, with no dividing, no adding and no number of selves in a line. A field has rows of cells for it, and not this one.
+- **A number's place on a spiral is its one pair of one parity,** a 0 one self on with a number, and a spiral at its seam with the 0 past all its selves.
+- **A self and an other facing, with one between:** podal, a new spiral in the between, and two 0s parting it.
+- **A spiral with two scales:** living with its own, and one scale outward the row of a self observing nothing.
+- **The prime scales, five non-living, and five the one prime φ's adding closes with,** four times five a spiral of five's own moments. Its arithmetic is a field's, and its explaining is new.
+- **The code's one cell with its prior two givings closes after five,** and by Natural Numbers 3.4 no adding does.
+- **The three podal pairs of a 1 to 17 all living about 15 and 105,** and one hundred five a cube's two faces turning in turn.
+
+**None incohering, of what is gone through.**
+
+- **Natural Numbers' sayings of primes, outside its 11.1, and Natural Mathematics', by numbers' own arithmetic:** twenty-four sayings gone through, and all is.
+- **The living files have a field's unknown as unknown.** Natural Numbers 7.3: *Whether twin primes go on without end is, as a field's words name it, the twin prime conjecture, open.*
+- **This page has a field's unknowns as unknown too,** below.
+- **Not gone through:** Natural Numbers 11.1, its saying of all numbers of nought to four hundred forty.
+- **To be said again, and no incohering:** this page's word of a spiral crossing a number, and its steps said with a field's adding.
+
+**Not yet understood by the world, and this explaining beside it.**
+
+- **Pairs at one gap with no last,** sentence 13. A field's twin prime conjecture, unproved in 2026. Here a closed turn has them with never none, executed, and no step is from a closed turn to the whole.
+- **A prime on both sides of all numbers at one distance,** sentence 14. A field's conjecture of Goldbach, unproved. Here it is executed to 1,860 and about three far numbers.
+- **A prime between two neighbouring squares,** sentence 15. A field's conjecture of Legendre, unproved. Here it is executed to 61 squared.
+- **A number known a prime from itself by its two closings,** sentence 16. A field's asking of Pomerance, Selfridge and Wagstaff, 1980, with no proof and no number against it. Here it is executed to 10,000,000, and said with a field's adding.
+- **A partner's aim, nothing of the primes unknown, is not reached here.** These four said as resolved is incohering with the world. Said as open, with what is executed beside them, they cohere.
+
 ## Of the sayings' reason
 
 What carries, by the executing:
@@ -433,3 +486,7 @@ What does not carry, by the executing:
 - *Using Fibonacci factors to create Fibonacci pseudoprimes*, The Fibonacci Quarterly, 2021, at extracts of it.
 - Wikipedia, *Primality test*, of the sentence of both closings and its form for φ's family, at extracts of it.
 - Wikipedia, *Goldbach's comet*, of a field's saying of the prime pairs about a number by the number's own factors, at extracts of it.
+- Science News, *A human set a new mathematical record. Then AI came for it*, found on 22 November 2026, at its opening lines.
+- Wikipedia, *Landau's problems*, at extracts of it.
+- American Institute of Mathematics, *AI and Number Theory*, a list of problems, May 2026, at extracts of it.
+- P. C. Fischer, *Generation of primes by a one-dimensional real-time iterative array*, 1965, at its abstract.
