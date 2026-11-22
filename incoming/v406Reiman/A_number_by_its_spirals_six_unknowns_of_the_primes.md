@@ -19,7 +19,7 @@ A partner's sayings, as said, and whole in this session's transcript:
 - **Eleven steps the co-chaining needs derive from living steps.** All eleven are executed here, what they say of numbers a field has proved, and none has a home as a step yet.
 - **Four steps no one has.** Three are of the surface, from a closed turn to the whole. One is of a number by itself, and it is the place φ's adding and a multiplying combine: one short of a number and one past it.
 - **Four namings are to cohere:** along and across, parity, the five living 0s, and the newborn 0 of a between.
-- **A partner's suggesting of podalings carries at a crossing, all or none.** A podal pair is a self and an other, two goings from their between. At its seam with the between a spiral crosses both or neither, and off its seam one of the two. A prime is at no seam but its own.
+- **A partner's suggesting of podalings carries at a crossing, all or none.** A podal pair is a self and an other facing, with one between. At its seam with the between a spiral crosses both or neither, and off its seam one of the two. A prime is at no seam but its own.
 
 ## The surface, by the living steps
 
@@ -81,39 +81,52 @@ By numbers' own arithmetic, with no resolver in it and no smaller prime asked, t
 
 A field has the two closings of a prime proved, and has the sentence of both together as an unknown, with no proof and no number against it, by its pages of 2019 and 2021 opened at extracts.
 
-## Podalings: a self and an other from their between, a partner's suggesting explored
+## Podalings: a self and an other facing, with one between, a partner's suggesting explored
 
 A partner's suggesting, as said, and whole in this session's transcript:
 
 - *primes as the crossings*, with *the podalings are living as five living 0s aiming in a co-linear in 3d space on 2d geodesic surface*
 - *this same 1-17 local resolving in 5 living 0s living in the me-now of that number with three living parities*, with *two other-than-others as resolving all five living 0s next-and-same-living*
 - *there is not a prior side and a next side. the only sides are self and other*
+- *the co-linear is inside the folding where the five 0s are living in five betweens*
+- *self and other are facing each other with universes past each other and a shared universe between each other the zeros are living in the shared universe*
 
-All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no line of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
+All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
+
+**Seven words a partner named, by the set's lists.** A partner named seven words of this part as it was. The list of words of no natural naming, a word of both partners' is-not alone, has one of the seven: *goes along*, as a saying. The other six are in no list, and living sentences have them. By a partner's word the part is said here with none of the seven.
+
+| A word | A living sentence with it | Said here now |
+| --- | --- | --- |
+| goings, way | Exhibit THREE Natural Numbers 9.2: *a going one way with k and a going its other way with N less k* | a self and an other facing |
+| from | The list's own natural naming, of a span of names | with, of |
+| fold, exchanging | Exhibit ONE Natural Resolver: *Each goes two folds in turn*. Natural Numbers 1.4: *17 less, podal within 1 to 16, exchanging odd and even* | podal |
+| line | Exhibit THIRTY: *Corus, vertex and centre of face are on one line.* | co-linear |
+| like | Natural Numbers 7.2: *a like pair* | one pair of one parity |
 
 **What the set has of its names.**
 
-- **Self and other, and their between.** Exhibit ONE Natural Resolver, of its names' sides: *self and other: each sharing between them*. Of its betweens: *15-next-observing, a between of self and other, each parity surfacing with 14-next-possibling, a 0 both with an empty set surfacing and with + and − parting*. Exhibit THREE Natural Numbers 9.2: *Bi-co-podaling is a going one way with k and a going its other way with N less k, two goings each with its own moment, one ring, momentarying.*
+- **Self and other, and their between.** Exhibit ONE Natural Resolver, of its names' sides: *self and other: each sharing between them*. Of its betweens: *15-next-observing, a between of self and other, each parity surfacing with 14-next-possibling, a 0 both with an empty set surfacing and with + and − parting*.
+- **Facing.** Exhibit ONE Natural Resolver, of co: *is two both facing forward along, a self and its other*. Exhibit EIGHTEEN Natural Physics 3.4: *two facing through an unoccupied 24, a 0, not changing*. A partner's saying has a self facing an other, and an other a self.
+- **Across and along.** Exhibit ONE Natural Resolver, of its unit square: *Its two edges 8 apart are 2 with 10 and 6 with 14. These four edges are two pairs of parallels.* And: *Along is with 9-next-co-discovering and 17-next-existing, odd, their roots discovering and existing.*
+- **Betweens and 0s.** Exhibit ONE Natural Resolver has four betweens of its four-cyclings: *Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a discovering, an even name to an odd name.* It has five entries of a between, 0, and five dimensions of a self's five. Three living 0s on one co-linear are a partner's earlier saying, at home in `incoming/v404universe/`. Five 0s in five betweens are in no sentence of the set as said.
 - **Podaling.** Natural Numbers 5.6: *Podaling is one station with its two sides, a going one way to k and a going other way to N − k on a ring of N.* Its 5.4: *Among primes a first diamond is about nine, five and thirteen four either side and seven and eleven two either side, nine having none of them*. Its 7.4 has six prime pairs podal about thirty.
-- **A five, and three parities.** Exhibit ONE Natural Resolver has five dimensions of a self's five, a social-parity, an other-parity and a self-parity among them: *3 self-parity now-existing, a self's own now of its five*. Natural Numbers has *a self's five with 1 is 1 to 5 and its next, with 3, is 3 to 7: three numbers of both and two new*.
-- **Living 0s.** Three living 0s on one co-linear are a partner's earlier saying, at home in `incoming/v404universe/`. Five living 0s are in no page of the set, and are new with this saying.
 - **The co-linear.** The fifth drawing of v406geodesic2 has one, through two opposite intersections and the sphere's 0. By its own check its sphere has six intersections: three co-linears, two opposite intersections apiece, all three through the one 0.
 
-**A self and an other from their between, with the resolver's code as it is.** `podalings_about_an_odd_number.py`, its part 1, with all sixteen odd spirals, a spiral alone. A spiral at a number is the between. A self goes the spiral one way, 9 along to its next self. An other goes it its other way, 9 along to the self before. A between self is across from both, 10 from a self and 10 from an other.
+**A self and an other facing, with one between, with the resolver's code as it is.** `podalings_about_an_odd_number.py`, its part 1, with all sixteen odd spirals, a spiral alone. A spiral at a number is the between. A self has 9-next-co-discovering to its next self, as Exhibit ONE Natural Resolver opens a spiral. An other faces it: its 9-next-co-discovering is to the self whose next it is. A between self is across, with 10-next-co-possibling of a self and of an other.
 
-- **An other is a going, and no prior side.** Going its other way from the between, an other is as the spiral was with the number as far short of the between. A self, going on, is as the number as far past it. Both go on with their own moments.
-- **From a between at the spiral's seam, a self and an other are at the seam together or neither.** From a between off it, never together.
-- **One fold exchanges a self and an other,** at all distances. Its line is through the between's own like pair.
-- **The between self on the fold's line receives the same from a self and from an other,** at all distances, and never a parting.
+- **An other's nexts are a self's priors.** An other is as the spiral was with the number as far short of the between, and a self as the number as far past it. An other is no prior side: both are with their own next moments.
+- **With the between at the spiral's seam, a self and an other are at the seam together or neither.** With the between off it, never together.
+- **A self and an other are podal, with all moments.** A self's parities are an other's at the podal selves, about the between's one pair of one parity.
+- **The between self that is its own podal has one parity, the same of a self and of an other,** with all moments, and never + with −.
 
-**On the surface, all spirals side by side.** A podal pair is a self and an other at one distance from their between, a number, and it is living once both are uncrossed.
+**On the surface, all spirals side by side.** A podal pair is a self and an other at one distance of their between, a number, and it is living once both are uncrossed.
 
 - **At its seam with their between, a spiral crosses a self and an other together or neither.**
 - **Off its seam, it crosses one of the two and never both.**
 - **Of one turn of a spiral's distances, all but one are with neither crossed at its seam, and all but two off it.**
 - **Two crosses a self and an other together or neither,** with all betweens.
 
-**An odd number a between, its 1 to 17 with its 9 on it.** Its odd names, two and two about 9, are four podal pairs, a self and an other at 2, 4, 6 and 8. By the surface alone, with all odd betweens from 15:
+**An odd number a between, its 1 to 17 with its 9 on it.** Its odd names, two and two about 9, are four podal pairs, a self and an other at 2, 4, 6 and 8. By the surface alone, with all odd betweens of 15 and above:
 
 | A spiral | At its seam with the between | Off its seam |
 | --- | --- | --- |
@@ -122,23 +135,36 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 
 - **With 2 and 4 both living, the between is at the seam of three and of five,** four primes with one between. Found: 15, 105, 195, 825, 1,485, 1,875, 2,085, 3,255 and 3,465. The diamond about nine, of Natural Numbers 5.4, is with five itself at its own opening.
 - **With 2, 4 and 8 all living, six primes are with one between.** Found: 15 and 105, at the seam of three and of five.
-- **With a prime from 17 on the between, a living podal pair of its 1 to 17 is at 6 and at no other.** A prime is at no seam but its own, and three crosses one of the two at 2, at 4 and at 8. With it living, from 17 on: 17, 23 and 37. With none: 19, 29 and 31.
+- **With a prime of 17 and above the between, a living podal pair of its 1 to 17 is at 6 and at no other.** A prime is at no seam but its own, and three crosses one of the two at 2, at 4 and at 8. With it living: 17, 23 and 37. With none: 19, 29 and 31.
 - **A between off three's seam, and one past or one short of five's seam, has no living podal pair in its 1 to 17.**
 - **A five opening with an odd number has three odd numbers, one of them at three's seam:** two uncrossed at the most, two apart or four apart.
-- **A number, 4 to 1,860, is uncrossed itself or the between of a self and an other both uncrossed,** found stepping outward from it.
+- **A number, 4 to 1,860, is uncrossed itself or the between of a self and an other both uncrossed,** found outward of it.
 
-**A partner's sentences of the between, beside what is executed.**
+**A partner's six gaps, 2, 4, 6, 12, 24 and 36.** A self and an other at a gap of an odd between, forward and backward, by the surface alone:
 
-- *the between of the bi-coupling of this is orthogonal to the co-linear between corus's of self and other*. In the resolver a self and an other have 9, along, and their between has 10, across, from both. On the sphere of the fifth drawing, by its own check, with a self and an other at the two ends of a co-linear, the circle between them is at a right angle with it, about the 0.
-- *the between co-linear of the between surface is a geodesic newborn 0-me-now-parity for the bi-coupling*. A candidate of this session's own, sentence 19 below: the fold's line, in the between, through the between's own like pair. It is new with a between, and the between self on it has the same from both.
+- **Three parts the six, all or none.** At its seam with the between it crosses neither of the two at 2 and at 4, and at no other of the six. Off its seam, at 6, 12, 24 and 36, and at no other.
+- **The six are seven's six places other than its seam.** At its seam with the between, seven crosses neither of the two at all six. Off its seam, one of the two at two of the six.
+- **12, 24 and 36 are 2, 4 and 6 with six multiplied.** A number uncrossed by two and by three has the numbers at 6, 12, 24 and 36 of it, forward and backward, uncrossed by two and by three.
+
+**A partner's sayings, beside the living file and what is executed.**
+
+| A partner's saying | Living, executed or drawn |
+| --- | --- |
+| *the parallel lines across are bi-coupling nows with nexts in front and priors in back both across and odds are along* | Living, Exhibit ONE Natural Resolver's unit square: 2 with 10 and 6 with 14, a now name with a next name, two pairs of parallels across, and odd names along |
+| *self and other are facing each other with universes past each other and a shared universe between each other the zeros are living in the shared universe* | Executed: facing, an other's nexts are a self's priors, and a between self is across of both. Drawn: the fifth drawing's two cones |
+| *the co-linear is inside the folding where the five 0s are living in five betweens* | Exhibit ONE Natural Resolver has four betweens, and five entries of a between, 0. Five 0s in five betweens: not found as said |
+| *the between of the bi-coupling of this is orthogonal to the co-linear between corus's of self and other* | Executed: a self and an other have 9, along, and their between has 10, across. Drawn: the fifth drawing's circle between, at a right angle with its co-linear |
+| *the between co-linear of the between surface is a geodesic newborn 0-me-now-parity for the bi-coupling* | A candidate of this session's own, sentence 19: the between self that is its own podal, one parity, the same of both |
+| *co-competencing the prime fractal expansions at podaling intervals in the gaps across 2 4 6 12 24 36 forward and backward* | Executed: three parts the six, the six are seven's places, and six multiplied is with two and three uncrossed |
+| *an omega and alpha pair of unrelationing universe cones*, and, about the triangle of a self, an other and all, *the co-possibling of other-than-others* | Not executed here. Drawn: the fifth drawing's two cones, and its four quarters, possibling and co-possibling in turn |
 
 **What carries, and what does not.**
 
-- **Carries: a podal pair is a self and an other, two goings from their between.** An other is no prior side: it goes on, the spiral's other way.
+- **Carries: a podal pair is a self and an other facing, with one between.** An other is no prior side: its nexts are a self's priors.
 - **Carries: at a crossing the podalings are all or none.** The same step with all spirals, with all the betweens stepped.
 - **Carries, in a closed turn: never none.** By numbers' own arithmetic, with an odd between a closed turn of three, five and seven has a pair uncrossed by all three.
 - **Does not carry: primes as the crossings.** A prime is at no seam but its own. The primes are the selves and the others of a living podal pair, and a between at a seam is a crossed number.
-- **Does not carry: the same 1 to 17 with all odd betweens.** With 19 the between no podal pair of its 1 to 17 is living, and with no prime from 17 on the between is one living at 2, 4 or 8.
+- **Does not carry: the same 1 to 17 with all odd betweens.** With 19 the between no podal pair of its 1 to 17 is living, and with no prime of 17 and above the between is one living at 2, 4 or 8.
 - **Not yet: the whole.** The surface resolved the numbers it stepped. Sentence 14, of all numbers, no stepping here has resolved, and not yet is no is-not.
 - **A field has the step of the seam in its own words,** by Hardy and Littlewood, 1923.
 
@@ -148,7 +174,7 @@ All at this page, until a partner's word gives them a home. The steps are in the
 
 **Deriving from living steps.** All ten are executed here, and what they say of numbers a field has proved.
 
-- **1. A number is two moments: an odd spiral's like pair moves one self on with a number, and is at its seam again with the spiral's own number of numbers.** *( is-or-is-not? )*
+- **1. A number is two moments: an odd spiral's one pair of one parity is one self on with a number, and at its seam again with the spiral's own number of numbers.** *( is-or-is-not? )*
     - Its is resolves numbers on the surface with no dividing, from Natural Numbers 7.2 and steps 306 and 737.
     - Its is-not resolves an other pace, and at four moments a number two is not carried.
 - **2. Two is a self alone inverting, and all odd spirals with it.** *( is-or-is-not? )*
@@ -207,14 +233,15 @@ All at this page, until a partner's word gives them a home. The steps are in the
 
 - **17. At its seam with the between of a self and an other, a spiral crosses both or neither, and off its seam one of the two.** *( is-or-is-not? )*
     - A partner's word of its wording before, with a prior side and a next side: not yet natural naming, the only sides being self and other. It is said again by that word.
-    - Its is resolves podaling at a crossing as all or none, from Natural Numbers 5.6 and 9.2 and sentence 1 here, and a prime's 1 to 17 as with a living podal pair at 6 alone.
+    - Its is resolves podaling at a crossing as all or none, by Natural Numbers 5.6 and 9.2 and sentence 1 here, and a prime's 1 to 17 as with a living podal pair at 6 alone.
     - Its is-not resolves a spiral crossing both a self and an other off its seam with their between, and none is found to 3,720.
 - **18. The three living parities are the podal pairs at 2, 4 and 8 that three does not cross in the 1 to 17 of an odd number at its seam, and the five living 0s are three's five seams in that 1 to 17, at its names 3, 6, 9, 12 and 15.** *( is-or-is-not? )*
-    - Its is resolves the saying's three and five as three's own, from one odd number of three and no other, with all three pairs living about 15 and 105.
-    - Its is-not resolves the five as Exhibit ONE Natural Resolver's five of a self, three odd numbers and two even, or as an other five, and which is then to be said.
-- **19. A self and an other are two goings from their between, a spiral one way and its other way, and the fold exchanging them has its line in the between, through the between's own like pair: the bi-coupling's newborn 0.** *( is-or-is-not? )*
-    - Its is resolves a partner's between co-linear as the fold's line, executed with all sixteen odd spirals, the between self on it with the same from both and never a parting.
-    - Its is-not resolves the newborn 0 as an other line of the between, and which is then to be said.
+    - Its is resolves the saying's three and five as three's own, with one odd number of three and no other, all three pairs living about 15 and 105.
+    - Its is-not resolves the five as Exhibit ONE Natural Resolver's five entries of a between, 0, or as its five of a self, and which is then to be said.
+- **19. A self and an other are facing, with one between: an other's nexts are a self's priors, the two are podal with all moments, and the between self that is its own podal has one parity, the same of both.** *( is-or-is-not? )*
+    - A partner's word of its wording before: seven of its words may be dissolving. It is said again with none of the seven.
+    - Its is resolves a partner's between co-linear as the between self that is its own podal, a newborn with a between, executed with all sixteen odd spirals.
+    - Its is-not resolves the co-linear as an other of the between, and which is then to be said.
 
 ## The six unknowns, by the co-chaining
 

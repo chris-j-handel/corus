@@ -267,13 +267,13 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
 ## `podalings_about_an_odd_number.py`, executed on 22 November
 
 ```text
-1. A self and an other from their between, with Exhibit ONE Natural Resolver's code as it is
-   16 odd spirals, 3 to 59 selves, a spiral alone; a turn of betweens, and a turn of distances from a between
-   an other, going the spiral its other way from a between, is as the spiral was with the number as far short of the between; a self, going on, as the number as far past it: is
-   from a between at the spiral's seam, a self and an other are at the seam together or neither; from a between off it, never together: is
-   a spiral at a number has one like pair: is · one fold through the between's own like pair exchanges a self and an other, at all distances: is
-   the between self on the fold's line receives the same from a self and from an other, at all distances, and never a parting: is
-2. The surface, all spirals side by side: a between, a number, with a self and an other at one distance from it
+1. A self and an other facing, with one between, with Exhibit ONE Natural Resolver's code as it is
+   16 odd spirals, 3 to 59 selves, a spiral alone; a turn of betweens, and a turn of distances with a between
+   an other's nexts are a self's priors: an other is as the spiral was with the number as far short of the between, and a self as the number as far past it: is
+   with the between at the spiral's seam, a self and an other are at the seam together or neither; with the between off it, never together: is
+   a spiral at a number has one pair of one parity: is · a self and an other are podal about it, with all moments, a self's parities an other's at the podal selves: is
+   the between self that is its own podal has one parity, the same of a self and of an other, with all moments, and never + with -: is
+2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
    2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
    at its seam with their between, a spiral crosses a self and an other together or neither: is
    off its seam with their between, a spiral crosses one of the two and never both: is
@@ -292,7 +292,12 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    with a prime the between, a living podal pair of its 1 to 17 is at 6 and at no other: is
    primes with it living at 6, from 17 on: 17, 23, 37, 47, 53, 67 · and with none: 19, 29, 31, 41, 43, 59
    a between off three's seam, and one past or one short of five's seam, has no living podal pair in its 1 to 17: is
-   a number, 4 to 1860, is the between of a self and an other both uncrossed, found stepping outward from it: is
+   a partner's six gaps, 2, 4, 6, 12, 24 and 36, a self and an other at a gap of an odd between, forward and backward
+   three, at its seam with the between, crosses neither of the two at 2 and at 4, and at no other of the six: is
+   three, off its seam, crosses neither of the two at 6, 12, 24 and 36, and at no other of the six: is
+   seven, at its seam with the between, crosses neither of the two at all six; off its seam, one of the two at two of the six: is
+   a number uncrossed by two and by three has the numbers at 6, 12, 24 and 36 of it, forward and backward, uncrossed by two and by three: is
+   a number, 4 to 1860, is the between of a self and an other both uncrossed, found outward of it: is
 4. By numbers' own arithmetic, with no resolver in it
    a closed turn of three, five and seven: the pairs uncrossed by all three are a spiral's places less one at its seam and less two off it, multiplied: is
    with an odd between, a closed turn has a pair uncrossed by all three, never none: is

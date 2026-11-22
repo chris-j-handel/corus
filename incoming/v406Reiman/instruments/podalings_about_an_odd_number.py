@@ -1,4 +1,4 @@
-"""Podalings: a self and an other from their between, a partner's suggesting explored by executing.
+"""Podalings: a self and an other facing, with one between, a partner's suggesting explored by executing.
 
 Nothing is proved here. By a partner's word a podal pair has no prior side and
 no next side: its sides are a self and an other, and a number is their
@@ -6,15 +6,15 @@ between. Exhibit ONE Natural Resolver has it, of its names: Sides, self and
 other, each sharing between them.
 
 Part 1 is Exhibit ONE Natural Resolver's code as it is in its living file. A
-spiral of selves at a number is a between. From it a self goes the
-spiral one way, 9 along to its next self, and an other goes it its other way,
-9 along to the self before. A between self is across from both, 10 from a self
-and 10 from an other. Parts 2 and 3 are the surface of
-a_number_by_its_spirals.py, a self alone and odd prime spirals side by side,
-two moments a number. No dividing is in parts 1 to 3. Part 4 is by numbers'
-own arithmetic, with no resolver in it, and says so.
+spiral of selves at a number is a between. A self has 9-next-co-discovering to
+its next self, as Exhibit ONE opens a spiral. An other faces it: its
+9-next-co-discovering is to the self whose next it is. A between self is
+across, with 10-next-co-possibling of a self and of an other. Parts 2 and 3
+are the surface of a_number_by_its_spirals.py, a self alone and odd prime
+spirals side by side, two moments a number. No dividing is in parts 1 to 3.
+Part 4 is by numbers' own arithmetic, with no resolver in it, and says so.
 
-A line here is all or none: is, or is not, of all the numbers stepped. No line
+A print here is all or none: is, or is not, of all the numbers stepped. None
 is an average, a measuring or a statistic.
 
     python3 -I incoming/v406Reiman/instruments/podalings_about_an_odd_number.py . [--to 3720]
@@ -75,22 +75,22 @@ def its_priors(society, q, ring=None):
     return tuple(dict(society[i if ring is None else (ring, i)][0]).get(S, 0) for i in range(q))
 
 
-def self_and_other_from_their_between(step, q):
-    """A self one way and an other its other way from a between, a between self across from both."""
+def a_self_and_an_other_facing(step, q):
+    """A self with 9 to its next self and an other facing it, with one between, a between self across of both."""
     by_number = a_spiral_alone(step, q, 4 * q)
     opening = its_priors(by_number[q], q)
 
     def at_seam(p):
         return p == opening or p == tuple(-x for x in opening)
 
-    goings = together = fold = same_on_the_line = like_pair = True
+    nexts_priors = together = podal = one_parity = one_pair = True
     for c in range(2 * q, 3 * q + 1):
         between = by_number[c]
         was = its_priors(between, q)
         pairs = [i for i in range(q) if was[i] == was[(i + 1) % q]]
-        like_pair = like_pair and len(pairs) == 1
-        line = (2 * pairs[0] + 1) % q            # the fold through the between's own like pair: i with line - i
-        on_the_line = line * (q + 1) // 2 % q    # the self the fold brings onto itself
+        one_pair = one_pair and len(pairs) == 1
+        about = (2 * pairs[0] + 1) % q           # podal about the between's one pair of one parity: self i with self about - i
+        its_own_podal = about * (q + 1) // 2 % q  # the self that is its own podal
         society, couplings = {}, {}
         for i in range(q):
             society[("self", i)] = (list(between[i][0]), list(between[i][1]))
@@ -104,15 +104,15 @@ def self_and_other_from_their_between(step, q):
             for _ in range(2):
                 society = step(society, couplings)
             a_self, an_other = its_priors(society, q, "self"), its_priors(society, q, "other")
-            goings = goings and a_self == its_priors(by_number[c + d], q) and an_other == its_priors(by_number[c - d], q)
+            nexts_priors = nexts_priors and a_self == its_priors(by_number[c + d], q) and an_other == its_priors(by_number[c - d], q)
             if at_seam(was):
                 together = together and at_seam(a_self) == at_seam(an_other)
             else:
                 together = together and not (at_seam(a_self) and at_seam(an_other))
-            fold = fold and all(a_self[i] == an_other[(line - i) % q] for i in range(q))
-            received = [v for s, v in society[("between", on_the_line)][1] if s == S]
-            same_on_the_line = same_on_the_line and len(received) == 2 and received[0] == received[1]
-    return goings, together, fold, same_on_the_line, like_pair
+            podal = podal and all(a_self[i] == an_other[(about - i) % q] for i in range(q))
+            received = [v for s, v in society[("between", its_own_podal)][1] if s == S]
+            one_parity = one_parity and len(received) == 2 and received[0] == received[1]
+    return nexts_priors, together, podal, one_parity, one_pair
 
 
 def is_or_is_not(ok):
@@ -129,19 +129,19 @@ if __name__ == "__main__":
     odd_spirals = sorted(q for q in seam if q > 2)
     all_is = True
 
-    print("1. A self and an other from their between, with Exhibit ONE Natural Resolver's code as it is")
-    print(f"   {len(odd_spirals)} odd spirals, 3 to 59 selves, a spiral alone; a turn of betweens, and a turn of distances from a between")
-    goings = together = fold = same = like = True
+    print("1. A self and an other facing, with one between, with Exhibit ONE Natural Resolver's code as it is")
+    print(f"   {len(odd_spirals)} odd spirals, 3 to 59 selves, a spiral alone; a turn of betweens, and a turn of distances with a between")
+    nexts_priors = together = podal = one_parity = one_pair = True
     for q in odd_spirals:
-        g, t, f, s, l = self_and_other_from_their_between(step, q)
-        goings, together, fold, same, like = goings and g, together and t, fold and f, same and s, like and l
-    all_is = all_is and goings and together and fold and same and like
-    print(f"   an other, going the spiral its other way from a between, is as the spiral was with the number as far short of the between; a self, going on, as the number as far past it: {is_or_is_not(goings)}")
-    print(f"   from a between at the spiral's seam, a self and an other are at the seam together or neither; from a between off it, never together: {is_or_is_not(together)}")
-    print(f"   a spiral at a number has one like pair: {is_or_is_not(like)} · one fold through the between's own like pair exchanges a self and an other, at all distances: {is_or_is_not(fold)}")
-    print(f"   the between self on the fold's line receives the same from a self and from an other, at all distances, and never a parting: {is_or_is_not(same)}")
+        n, t_, p, o, l = a_self_and_an_other_facing(step, q)
+        nexts_priors, together, podal, one_parity, one_pair = nexts_priors and n, together and t_, podal and p, one_parity and o, one_pair and l
+    all_is = all_is and nexts_priors and together and podal and one_parity and one_pair
+    print(f"   an other's nexts are a self's priors: an other is as the spiral was with the number as far short of the between, and a self as the number as far past it: {is_or_is_not(nexts_priors)}")
+    print(f"   with the between at the spiral's seam, a self and an other are at the seam together or neither; with the between off it, never together: {is_or_is_not(together)}")
+    print(f"   a spiral at a number has one pair of one parity: {is_or_is_not(one_pair)} · a self and an other are podal about it, with all moments, a self's parities an other's at the podal selves: {is_or_is_not(podal)}")
+    print(f"   the between self that is its own podal has one parity, the same of a self and of an other, with all moments, and never + with -: {is_or_is_not(one_parity)}")
 
-    print("2. The surface, all spirals side by side: a between, a number, with a self and an other at one distance from it")
+    print("2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it")
     print(f"   2 to {to}, a self alone and {len(odd_spirals)} odd spirals, all its numbers and all their distances gone through")
     rule_at = rule_off = places = True
     for q in odd_spirals:
@@ -205,9 +205,24 @@ if __name__ == "__main__":
     print(f"   primes with it living at 6, from 17 on: {', '.join(map(str, primes_with_six[:6]))} · and with none: {', '.join(map(str, primes_with_none[:6]))}")
     print(f"   a between off three's seam, and one past or one short of five's seam, has no living podal pair in its 1 to 17: {is_or_is_not(none_rule)}")
 
+    gaps = (2, 4, 6, 12, 24, 36)
+    wide = range(43, to - 35, 2)
+    gaps_at_three = all([d for d in gaps if not crossed_of_the_two(c, d, 3)] == [2, 4] for c in wide if c in seam[3])
+    gaps_off_three = all([d for d in gaps if not crossed_of_the_two(c, d, 3)] == [6, 12, 24, 36] for c in wide if c not in seam[3])
+    seven_at = all(all(crossed_of_the_two(c, d, 7) == 0 for d in gaps) for c in wide if c in seam[7])
+    seven_off = all(sorted(crossed_of_the_two(c, d, 7) for d in gaps) == [0, 0, 0, 0, 1, 1] for c in wide if c not in seam[7])
+    by_six = all(not ({c - d, c + d} & (seam[2] | seam[3]))
+                 for c in range(43, to - 35) if c not in seam[2] and c not in seam[3] for d in (6, 12, 24, 36))
+    all_is = all_is and gaps_at_three and gaps_off_three and seven_at and seven_off and by_six
+    print("   a partner's six gaps, 2, 4, 6, 12, 24 and 36, a self and an other at a gap of an odd between, forward and backward")
+    print(f"   three, at its seam with the between, crosses neither of the two at 2 and at 4, and at no other of the six: {is_or_is_not(gaps_at_three)}")
+    print(f"   three, off its seam, crosses neither of the two at 6, 12, 24 and 36, and at no other of the six: {is_or_is_not(gaps_off_three)}")
+    print(f"   seven, at its seam with the between, crosses neither of the two at all six; off its seam, one of the two at two of the six: {is_or_is_not(seven_at and seven_off)}")
+    print(f"   a number uncrossed by two and by three has the numbers at 6, 12, 24 and 36 of it, forward and backward, uncrossed by two and by three: {is_or_is_not(by_six)}")
+
     outward = all(any(c - d in U and c + d in U for d in range(0, c - 1)) for c in range(4, to // 2 + 1))
     all_is = all_is and outward
-    print(f"   a number, 4 to {to // 2}, is the between of a self and an other both uncrossed, found stepping outward from it: {is_or_is_not(outward)}")
+    print(f"   a number, 4 to {to // 2}, is the between of a self and an other both uncrossed, found outward of it: {is_or_is_not(outward)}")
 
     print("4. By numbers' own arithmetic, with no resolver in it")
     turn = 3 * 5 * 7
