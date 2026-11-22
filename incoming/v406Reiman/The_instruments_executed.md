@@ -301,6 +301,8 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    a self of a spiral is observing of one self, and a between self of two, a self and an other: is
    by Exhibit ONE Natural Resolver's own table of its seventeen names, a name's three is a new prefix with its name before's two, one slot on, all seventeen: is
    17-next-existing is co-bi-tri, co with 16-next-same-existing's bi-tri, and 1-now-existing is as 17: is
+   by Exhibit ONE Natural Resolver's code's own syntax, no line adds, multiplies or divides, and no line has a number of selves: its numbers are 0, 1 and -1, and its names' 6, 9 and 10; a seam and a prime are in no line of it: is
+   all 16 odd spirals side by side are, spiral with spiral, the spiral alone, moment with moment: no self is observing a self of an other spiral, and a number uncrossed is observed from beside, of no self: is
 2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
    2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
    at its seam with their between, a spiral crosses a self and an other together or neither: is

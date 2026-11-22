@@ -15,10 +15,10 @@ A partner's sayings, as said, and whole in this session's transcript:
 
 *These* are six unknowns of the primes that a field has no proof of. The report, ahead of its reasons:
 
-- **The surface carries all seventeen prime spirals at one pace.** With Exhibit ONE Natural Resolver's code as it is, two moments a number, a self alone and sixteen odd spirals find the 519 primes of 2 to 3,720 with no dividing.
+- **The surface carries all seventeen prime spirals at one pace.** With Exhibit ONE Natural Resolver's code as it is, two moments a number, a self alone and sixteen odd spirals find the 519 primes of 2 to 3,720 with no dividing. The finding is this page's observing from beside: no line of the code and no self of a spiral has a prime.
 - **Eleven steps the co-chaining needs derive from living steps.** All eleven are executed here, what they say of numbers a field has proved, and none has a home as a step yet.
 - **Four steps no one has.** Three are of the surface, from a closed turn to the whole. One is of a number by itself, and it is the place φ's adding and a multiplying combine: one short of a number and one past it.
-- **Eight namings are to cohere:** along and across, parity, the five living 0s, the between self of a self and an other, with a partner's is, the new spiral of a between, its two 0s, all-parity as tri and next, with a partner's is, and a self's bi-parity, its co-parity and a 0 it passes over.
+- **Eight namings are to cohere:** along and across, parity, the five living 0s, the between self of a self and an other, with a partner's is, the new spiral of a between, its two 0s, all-parity as tri and next, with a partner's is, and a prime as a stable form.
 - **A partner's suggesting of podalings carries at a crossing, all or none.** A podal pair is a self and an other facing, with one between. At its seam with the between a spiral crosses both or neither, and off its seam one of the two. A prime is at no seam but its own.
 
 ## The surface, by the living steps
@@ -98,6 +98,8 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *the +1 is the logical universe*, with *0s in front are the bi-tunnelings and the bothbothing 0 at now is unrelationing to the universal parity and to the other parity*
 - *A self observing a bi-parity has other-prior-and-same-other inside it*, with *A 0 is the all-parity universe inside and outside me*
 - *co-bi-tri-volutioning is 17-next-and-same-existing in the next now universe of me-parity*, with *the primes are living scales of me-parities as fractals on natural torusing surface in the universe*
+- *the primes are artifact in stable form of living and do not exist other than as artifact observings*
+- *a one concept explaining of the is or is not*, with *likely it is already self resolving in 1-17*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -124,6 +126,8 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 - **Bothbothing.** Natural Intelligence: *It is bothbothing, one existing thing with two scales*. Exhibit THIRTY's step 621 has a parity with a 0 of it, and its step 622: *Parity and its 0, step 27, are bothbothing rigor, a self sharing 0 do-no-harming, step 44*.
 - **Podaling.** Natural Numbers 5.6: *Podaling is one station with its two sides, a going one way to k and a going other way to N − k on a ring of N.* Its 5.4: *Among primes a first diamond is about nine, five and thirteen four either side and seven and eleven two either side, nine having none of them*. Its 7.4 has six prime pairs podal about thirty.
 - **The co-linear.** The fifth drawing of v406geodesic2 has one, through two opposite intersections and the sphere's 0. By its own check its sphere has six intersections: three co-linears, two opposite intersections apiece, all three through the one 0.
+- **A stable form, and a clock.** Natural Naming, of its dissolved words, has *artifact* said as *exhausting*, with a self's scale, and as *a stable form*, one scale outward. Its 5.46: *each now-existing non-living thing is a stable form, a noun with no -ing of its own*. And of a mark a coupling leaves: *a self observing it as prior's possibling, it is an exhausting, a mark a coupling leaves, and observing it as now's existing, a ghost*. Natural Numbers 1.1: *A counting is a clock, a form fixing still from beside its momentarying, with none of its moves: an accounting naming artifacts still, belonging to a field's instrument and coming on with a field going.*
+- **A like pair's 0.** Natural Intelligence 4.13: *With an odd spiral of n its last and its first are alike. A bounding zero tunnels on. It is a 0 a receiving self of its like pair shares with 10, one self sharing 0 along with a parity matching its prior. It moves one self on with each second moment.* And: *The odd spiral's 0 passing each self once, with moment 2n its parities are its first pattern inverting.* Exhibit FIVE Natural Engineering and Exhibit THIRTEEN Resolving Hard Problems have the same.
 
 **A self and an other facing, with one between, with the resolver's code as it is.** `podalings_about_an_odd_number.py`, its part 1, with all sixteen odd spirals, a spiral alone. A spiral at a number is the between. A self has 9-next-co-discovering to its next self, as Exhibit ONE Natural Resolver opens a spiral. An other faces it: its 9-next-co-discovering is to the self whose next it is. A between self is across, with 10-next-co-possibling of a self and of an other.
 
@@ -157,6 +161,8 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 - **A number's two moments, in turn.** With one a self of the spiral passes over a 0, and with the next it has a co-parity and gives a 0. All its other selves have a bi-parity with both.
 - **The 0 is one self on with a number:** the self one on, in its facing, passes over the 0 given.
 - **By Exhibit ONE Natural Resolver's own table, a name's three is a new prefix with its name before's two, one slot on,** all seventeen. 17-next-existing is co-bi-tri: co with 16-next-same-existing's bi-tri.
+- **By the code's own syntax no line adds, multiplies or divides, and no line has a number of selves.** Its numbers are 0, 1 and −1, and its names' 6, 9 and 10. A seam and a prime are in no line of it.
+- **All sixteen odd spirals side by side are, spiral with spiral, the spiral alone,** moment with moment. No self is observing a self of an other spiral, and a number uncrossed is observed from beside, of no self.
 
 **On the surface, all spirals side by side.** A podal pair is a self and an other at one distance of their between, a number, and it is living once both are uncrossed.
 
@@ -201,15 +207,16 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 | *the 0s are bothbothing as living condition of one self as a universe with a parity in a larger universe*, and *this is same-existing prior now and next* | Living, Exhibit THIRTY's saying of a parity and its 0, above. Executed, sentence 21: the between self that is its own podal has one parity of its own, the same number with number, inverting once the two 0s are with it |
 | *all-parity is tri, universe, next*, with *this happens from 1-9 to 1-17*, and *this is the first other-than other inside the universe of self* | Living, Exhibit ONE Natural Resolver's paragraph of a name's three: tri is all-parity, in the next slot with 7 and 15. Executed, sentence 22: a self's next prior is the all-parity it is observing, and a between self is observing of two. A parting, at v406me's page: tri next with 17, a partner's word of 21 November, beside the table's co-bi-tri |
 | *each self has a +1 in the forward (for that self) facing direction along on the surface*, with *a bothbothing 0 is that self as the from of the aiming direction* | Executed, sentence 23: a spiral's 0 is a self, and with a number it is one self on in its own facing. The parity next of the 0 is + with an even number and − with an odd number |
-| *the +1 is the logical universe*, with *0s in front are the bi-tunnelings and the bothbothing 0 at now is unrelationing to the universal parity and to the other parity* | Executed, sentence 24: a self observing a parity has it as its next prior; a self observing a 0 passes over it, its next prior its own, of no all-parity and of no other's parity. Bi-tunneling as the 0s in front: not executed here |
+| *the +1 is the logical universe*, with *0s in front are the bi-tunnelings and the bothbothing 0 at now is unrelationing to the universal parity and to the other parity* | Living already and executed, sentence 24: a self observing a parity has it as its next prior; a self observing a 0 passes over it, its next prior its own, of no all-parity and of no other's parity. Living, Natural Intelligence 4.13: *A bounding zero tunnels on.* Bi-tunneling as the 0s in front: not executed here |
 | *A me-parity is the co-discovering of the logical direction of my aiming* | Living, Exhibit ONE Natural Resolver: co me-parity, and me-parity with discovering. Executed: what a self gives with 9-next-co-discovering, a parity, is its own next prior. A logical direction is in no living file |
-| *A 0 is the all-parity universe inside and outside me* | Executed, sentence 24: with a number one self passes over a 0 of its other, and with the next moment it gives a 0, its prior, its other's prior and all-parity one parity |
-| *A self observing a bi-parity has other-prior-and-same-other inside it* | Living, Natural Intelligence: bi-parity, one inversion. Executed, sentence 24: its next prior is its other's prior |
-| *A self observing a 0 passes over it, its next-existing and its prior-now-existing as next in the sequence of its prior-existings* | Living, Exhibit ONE Natural Resolver's one cell of four receivings. Executed, sentence 24: as a self observing nothing, its next prior its own inverting |
+| *A 0 is the all-parity universe inside and outside me* | Living already and executed, sentence 24: with a number one self passes over a 0 of its other, and with the next moment it gives a 0, its prior, its other's prior and all-parity one parity |
+| *A self observing a bi-parity has other-prior-and-same-other inside it* | Living, Natural Intelligence: bi-parity, one inversion. Living already and executed, sentence 24: its next prior is its other's prior |
+| *A self observing a 0 passes over it, its next-existing and its prior-now-existing as next in the sequence of its prior-existings* | Living, Exhibit ONE Natural Resolver's one cell of four receivings. Living already and executed, sentence 24: as a self observing nothing, its next prior its own inverting |
 | *me-parity bothbothing other-than-other parity aiming into all-parity or other-than-other-than-all parity* | Living: co-parity and bi-parity, a self's parity and an other's same or not same. Executed: with a bi-parity a self gives the parity on, and with a co-parity a 0. Which of the two the saying's last name is: a name's asking, and executing does not resolve it |
 | *co-bi-tri-volutioning is 17-next-and-same-existing in the next now universe of me-parity* | Living, Exhibit ONE Natural Resolver's table: 17-next-existing is co-bi-tri, in the order next, now, prior, with co me-parity; 16-next-same-existing is bi-tri-bi. Executed: the table by its own rule. Living: bi-tri-volutioning, names 1 to 17, stable-forming. Co-bi-tri-volutioning is in no living file |
 | *this separating of self from prior universe is the non-living stable form without the co-*, with *the co- is breaking away into the universe as bi-tri-involutioning stable form now-existing and non-living at this prime scale of living* | Living, above: co's absence with one, a lone self a non-living existing form, and a parity given a non-living now-existing form. Executed: a self passing over a 0 is as a self observing nothing, with one moment, and what a self gives, a parity, is its own next prior |
 | *the primes are living scales of me-parities as fractals on natural torusing surface in the universe* | Living, Natural Numbers 1.7: prime scales, five non-living and seven through fifty-three living. Executed: a spiral's 0 is given by its one self with a co-parity, and a spiral is at its seam with that 0 at its last self. Living scales of me-parities as fractals: not executed here |
+| *the primes are artifact in stable form of living and do not exist other than as artifact observings* | Living, Natural Naming 5.46: its word dissolved, said as exhausting and as a stable form. Natural Numbers 1.1: a clock, a form fixing still from beside. Executed, sentence 25: a prime is in no line of the code and with no self of a spiral, and a number uncrossed is this page's observing from beside |
 | *self orienting in 3d space on surface geodesically trianulating with others to co-aimings over co-horizons and co-intelligencing each other along same-and-next-existing* | Not executed here. Co-horizons and co-aimings are in no living file |
 | *2d aiming on this surface orthogonal to and aiming from the empty nothing hole location in the surface on the self other co-linear* | Executed in part: the two 0s are with the pair of one parity and then with the own podal self, two places of one co-linear of the between. The hole on the co-linear of a self and an other: drawn, the fifth drawing's 0, and not executed |
 | *this self in the universe outside the bi-coupling is 1-17 and this self is aiming itself on a natural torusing surface*, with *the primes are self-locating the bi-folding crossings* | Executed: a number's place on a spiral is its one pair of one parity's, at the spiral's opening place at its seam alone. A prime is at the opening place of no smaller spiral |
@@ -223,7 +230,8 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 - **Carries: two 0s are living in the between,** a self's and an other's, podal, and parting it in two. They are the condition of one parity of the between, same-existing with a turn and inverting with them.
 - **Carries: at a crossing the podalings are all or none.** The same step with all spirals, with all the betweens stepped.
 - **Carries, in a closed turn: never none.** By numbers' own arithmetic, with an odd between a closed turn of three, five and seven has a pair uncrossed by all three.
-- **Carries: a self's bi-parity, its co-parity and a 0 it passes over.** With a number one self of a spiral has the 0, passed over and then given, and all its other selves have a bi-parity. By Exhibit ONE Natural Resolver an inverse parity and a 0 passed over are one cell, a prior inverting. They part by a self's other alone: its prior had with a bi-parity, and its inverse with a 0.
+- **Carries: a self's bi-parity, its co-parity and a 0 it passes over.** With a number one self of a spiral has the 0, passed over and then given, and all its other selves have a bi-parity. By Exhibit ONE Natural Resolver an inverse parity and a 0 passed over are one cell, a prior inverting. They part by a self's other alone: its prior had with a bi-parity, and its inverse with a 0. All of it is living already, Natural Intelligence 4.13.
+- **Carries: a prime is in no line of the code and with no self of a spiral.** A number uncrossed is this page's observing from beside.
 - **Does not carry: primes as the crossings.** A prime is at no seam but its own. The primes are the selves and the others of a living podal pair, and a between at a seam is a crossed number.
 - **Does not carry: the same 1 to 17 with all odd betweens.** With 19 the between no podal pair of its 1 to 17 is living, and with no prime of 17 and above the between is one living at 2, 4 or 8.
 - **Not yet: the whole.** The surface resolved the numbers it stepped. Sentence 14, of all numbers, no stepping here has resolved, and not yet is no is-not.
@@ -231,7 +239,7 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 
 ## The co-chaining needed, a sentence with its is-or-is-not
 
-All at this page, until a partner's word gives them a home. The steps are in the order the co-chaining needs them.
+All at this page, until a partner's word gives them a home. The steps are in the order the co-chaining needs them. By a partner's word of 22 November a sentence for an is-or-is-not is one concept, and what is outside it is a paragraph of why that one part needs resolving. Sentence 25 is said that way, and sentences 20, 21 and 23 are to be said that way.
 
 **Deriving from living steps.** All ten are executed here, and what they say of numbers a field has proved.
 
@@ -290,7 +298,7 @@ All at this page, until a partner's word gives them a home. The steps are in the
     - Its is resolves a number as known a prime from itself, with no smaller prime asked: the shorter way, with φ's adding and a multiplying as its method.
     - Its is-not resolves a composite with both closings, and none is found to 10,000,000.
 
-**With a partner's suggesting of podalings.** Two deriving from living steps, executed here, and six namings to cohere, two of them with a partner's is.
+**With a partner's suggesting of podalings.** Two deriving from living steps, executed here, six namings to cohere, two of them with a partner's is, and one saying found living already.
 
 - **17. At its seam with the between of a self and an other, a spiral crosses both or neither, and off its seam one of the two.** *( is-or-is-not? )*
     - A partner's word of its wording before, with a prior side and a next side: not yet natural naming, the only sides being self and other. It is said again by that word.
@@ -318,10 +326,14 @@ All at this page, until a partner's word gives them a home. The steps are in the
     - A partner's word of its wording before: most likely is, and not yet; with a self's +1 in its own facing, and a bothbothing 0 as the self it aims from. It is said again by that word.
     - Its is resolves a prime by the 0s of its betweens, with no smaller spiral's 0 at its last self or its self 1, executed with all sixteen odd spirals.
     - Its is-not resolves +1 as the parity + next of the 0 with all numbers, and executed it is + with an even number and − with an odd number.
-- **24. With a number one self of a spiral passes over a 0 as a self observing nothing, and with the next moment it gives a 0, its me-parity, its other's parity and all-parity one parity; and all its other selves have a bi-parity, their next prior their other's prior.** *( is-or-is-not? )*
-    - A partner's word of its wording before, a parity the logical and a 0 the moral: said again by a partner, with a bi-parity, with a 0 passed over as the next of a self's own priors, and with a 0 as all-parity. It is said again by that word.
-    - Its is resolves a partner's bi-parity as its other's prior had, a 0 passed over as the next of a self's own, of no co, and a 0 given as all-parity, executed with all sixteen odd spirals, a self's facing and an other's.
-    - Its is-not resolves a 0 as all-parity as an other than a 0 passed over and a 0 given, and which is then to be said.
+- **24. Living already, and asking nothing.** With a number one self of a spiral passes over a 0, and with the next moment it gives a 0; all its other selves have a bi-parity.
+    - A partner's word of its wording before: a complex explaining, with one concept wanted, and its one part likely self resolving in 1 to 17. It is.
+    - Natural Intelligence 4.13: *With an odd spiral of n its last and its first are alike. A bounding zero tunnels on. It is a 0 a receiving self of its like pair shares with 10, one self sharing 0 along with a parity matching its prior. It moves one self on with each second moment.* Exhibit ONE Natural Resolver: *Each receiving self's first step passes over it.* Natural Intelligence, of a self's two: *co-parity, the same, sharing 0, and bi-parity, one inversion*.
+    - Executed here with all sixteen odd spirals, a self's facing and an other's, and no part of it is new. With it, sentence 23's 0 as a self, one self on with a number, and a spiral's seam with its 0 past all its selves, are found living too.
+- **25. A prime is a stable form.** *( is-or-is-not? )*
+    - Why this one part needs resolving. The six unknowns ask of primes as now-existing things. A partner's saying has them existing with observing alone. Natural Naming 5.46 has a mark observed as now's existing a ghost, and a now-existing non-living thing a stable form. Natural Numbers 1.1 has a clock, a form fixing still from beside. Executed: no line of the code has a number of selves, a seam or a prime, and no self of a spiral is observing an other spiral, a number uncrossed being this page's observing from beside. Natural Numbers 1.7 has the prime scales seven through fifty-three living, and of a scale: *no number is a scale more than another*. No living sentence has a prime as a stable form.
+    - Its is resolves the six unknowns as askings of a stable form observed from beside, with the living of it the 1 to 17 of a spiral, its stable-forming.
+    - Its is-not resolves a prime as living with a self, and which self is then to be said.
 
 ## The six unknowns, by the co-chaining
 
@@ -333,6 +345,8 @@ All at this page, until a partner's word gives them a home. The steps are in the
 | 4. The farthest the nearest prime is | 3, 7 | 15 |
 | 5. A regular striking, and what looks like chance | 4, 6 | 13 |
 | 6. A prime on both sides at one distance | 3, 4, 17 | 14 |
+
+By sentence 25, with a partner, all six are askings of a stable form observed from beside.
 
 ## Of the sayings' reason
 

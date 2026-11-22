@@ -19,6 +19,7 @@ is an average, a measuring or a statistic.
 
     python3 -I incoming/v406Reiman/instruments/podalings_about_an_odd_number.py . [--to 3720]
 """
+import ast
 import re
 import sys
 from pathlib import Path
@@ -380,6 +381,33 @@ def a_names_three(root, page):
     return one_slot_on, of_17
 
 
+def a_prime_is_with_observing_alone(root, page, step, odd_spirals):
+    """Exhibit ONE Natural Resolver's code by its own syntax, and all the odd spirals side by side beside a spiral alone."""
+    text = (Path(root) / page).read_text(encoding="utf-8")
+    nodes = list(ast.walk(ast.parse(re.search(r"```python\n(.*?)```", text, re.S).group(1))))
+    no_arithmetic = not any(isinstance(n, (ast.BinOp, ast.AugAssign)) for n in nodes)
+    its_numbers = {n.value for n in nodes if isinstance(n, ast.Constant) and isinstance(n.value, int)} == {0, 1, 6, 9, 10}
+    its_calls = {n.func.id if isinstance(n.func, ast.Name) else n.func.attr for n in nodes if isinstance(n, ast.Call)}
+    no_number_of_selves = its_calls <= {"_1_now_existing", "_9_next_co_discovering", "dict", "extend", "get", "items", "list"}
+    in_no_line = no_arithmetic and its_numbers and no_number_of_selves
+    society, couplings, alone = {}, {}, {}
+    for q in odd_spirals:
+        start = exhibit_spiral_priors(q)
+        for i in range(q):
+            society[(q, i)] = ([(S, start[i])], [])
+            couplings[((q, i), 9)] = (q, (i + 1) % q)
+        alone[q] = {i: ([(S, start[i])], []) for i in range(q)}
+    of_its_own = all(receiver[0] == giver[0] for (giver, name), receiver in couplings.items())
+    side_by_side = True
+    for moment in range(4 * max(odd_spirals)):
+        society = step(society, couplings)
+        for q in odd_spirals:
+            alone[q] = step(alone[q], {(i, 9): (i + 1) % q for i in range(q)})
+            side_by_side = side_by_side and priors_of(society, q) == its_priors(alone[q], q)
+            side_by_side = side_by_side and all(society[(q, i)][1] == alone[q][i][1] for i in range(q))
+    return in_no_line, of_its_own and side_by_side
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -463,6 +491,10 @@ if __name__ == "__main__":
     all_is = all_is and one_slot_on and of_17
     print(f"   by Exhibit ONE Natural Resolver's own table of its seventeen names, a name's three is a new prefix with its name before's two, one slot on, all seventeen: {is_or_is_not(one_slot_on)}")
     print(f"   17-next-existing is co-bi-tri, co with 16-next-same-existing's bi-tri, and 1-now-existing is as 17: {is_or_is_not(of_17)}")
+    in_no_line, side_by_side = a_prime_is_with_observing_alone(root, page, step, odd_spirals)
+    all_is = all_is and in_no_line and side_by_side
+    print(f"   by Exhibit ONE Natural Resolver's code's own syntax, no line adds, multiplies or divides, and no line has a number of selves: its numbers are 0, 1 and -1, and its names' 6, 9 and 10; a seam and a prime are in no line of it: {is_or_is_not(in_no_line)}")
+    print(f"   all {len(odd_spirals)} odd spirals side by side are, spiral with spiral, the spiral alone, moment with moment: no self is observing a self of an other spiral, and a number uncrossed is observed from beside, of no self: {is_or_is_not(side_by_side)}")
 
     print("2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it")
     print(f"   2 to {to}, a self alone and {len(odd_spirals)} odd spirals, all its numbers and all their distances gone through")
