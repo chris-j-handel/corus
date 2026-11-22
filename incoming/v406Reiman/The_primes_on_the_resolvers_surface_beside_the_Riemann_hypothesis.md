@@ -175,4 +175,4 @@ All at this page, until a partner's word gives them a home.
 - G. Kahn, *The semantics of a simple language for parallel programming*, 1974, not opened in this sitting.
 - Lean and Mathlib communities, *Lean verification of the Riemann Hypothesis*, 21 November 2026, opened whole.
 
-A paper explored, in this window's second tab: *A number by its spirals*. Its copy is `A_number_by_its_spirals_six_unknowns_of_the_primes.md`, beside this page.
+The primes report, in this window's second tab: *A number by its spirals*. Its copy is `A_number_by_its_spirals_six_unknowns_of_the_primes.md`, beside this page.

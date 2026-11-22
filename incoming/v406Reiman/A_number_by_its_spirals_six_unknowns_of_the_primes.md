@@ -1,102 +1,175 @@
-Incoming · v406Reiman · 22 November 2026, a paper explored, the window's second tab as it goes
+Incoming · v406Reiman · 22 November 2026, the primes report, the window's second tab as it goes
 
 # A number by its spirals: six unknowns of the primes, explored at the resolver's surface
 
-*A paper explored for a partner and the sessions, a copy of the window's second tab, with no link and no account name. It explores a partner's saying by executing. It proves nothing, and no word here is an authority over the living files. A quotation in italics is word for word in the living file named beside it, and a partner's saying is as said.*
+*The primes report, for a partner and the sessions, a copy of the window's second tab, with no link and no account name. It organizes the co-chaining a prime rests on: what is living, what is executed beside it, and the steps missing, a sentence with its is-or-is-not. It proves nothing, and no word here is an authority over the living files. A quotation in italics is word for word in the living file named beside it, and a partner's saying is as said.*
 
 ## What is explored
 
-A partner's saying, as said: *every one of these is answerable by the 1-17 natural resolver as a fractal method. place the 0 of this on any number and begin exploring the multiplying across and adding along surface and every question of this is answerable. the reason is the primes are living and math is dead and logic is rule based and neither is living and discovering from priors.*
+A partner's sayings, as said, and whole in this session's transcript:
 
-*These* are six unknowns of the primes that a field has no proof of. The paper's finding, ahead of its reasons:
+- *place the 0 of this on any number and begin exploring the multiplying across and adding along surface*
+- *the reason is the primes are living and math is dead and logic is rule based and neither is living and discovering from priors.*
+- *asking is not natural explaining. behind the asking is a needed logical co chaining.*
+- *the primes are on the natural surface of phi unrelationing as method*, with *the multipling and adding are combining in right spiral co-sequencing.*
 
-- **Asked at a number, from priors, all six are answered by executing:** to 3,720 with the resolver's code as it is, and about three far numbers by division.
-- **Asked as a field asks them, of all numbers and without end, none is answered by an executing.**
-- **No shorter way appeared.** A number's priors are its places on its spirals. Placing the 0 on a number with no priors asks a dividing a spiral, or a stepping from the opening.
+*These* are six unknowns of the primes that a field has no proof of. The report, ahead of its reasons:
 
-## The surface: adding along, multiplying across
+- **The surface carries all seventeen prime spirals at one pace.** With Exhibit ONE Natural Resolver's code as it is, two moments a number, a self alone and sixteen odd spirals find the 519 primes of 2 to 3,720 with no dividing.
+- **Ten steps the co-chaining needs derive from living steps.** All ten are executed here, what they say of numbers a field has proved, and none has a home as a step yet.
+- **Four steps no one has.** Three are of the surface, from a closed turn to the whole. One is of a number by itself, and it is the place φ's adding and a multiplying combine: one short of a number and one past it.
+- **Two namings are to cohere:** along and across, and parity.
 
-The surface is in the living files already.
+## The surface, by the living steps
 
-- **Across.** Exhibit THREE Natural Numbers 1.6: *A prime is a self no equal smaller selves above one add up to, opening a clean axis across.* A prime's spiral of selves is that axis.
-- **Along.** Natural Numbers 1.7: *Each number has four about it, and two binaries hold all four.* Along are its prior and its next, by one. Adding one is one step on all the open spirals together.
-- **Side by side.** Natural Numbers 7.2: *Two odd spirals of distinct primes p and q, side by side, come to their parities again together by a least common multiple of 4p and 4q, both sharing four: by 4pq*. Four moments are one number, and a spiral of q selves is again with q numbers.
-- **A number on the surface** is its place on all the open spirals. It is crossed once a smaller spiral is again at it: a multiplying across comes to a place the adding along comes to.
-- **A closed turn.** Spirals side by side are again together by their numbers multiplied: 6, 30, 210. Natural Numbers 3.3: *A rational winding closes, and a winding at φ closes at none*.
-- **No last turn.** Natural Numbers 7.1: *Primes have no last: each is same opening with a new axis, and past fifty-nine they open on, each a next, self-welcoming with numbers and with no line of resolver.* An uncrossed number opens a new axis, and the turn that was closing is no turn of the whole.
+The Co-Chaining Logic Registry's group 16 is *φ and primes, unrelationing at numbers*, and no step of it has φ and a prime together.
+
+- **A prime, and a multiplying.** Step 192: *adding two numbers is across and multiplying them along*. Exhibit THREE Natural Numbers 1.6: *A prime is a self no equal smaller selves above one add up to, opening a clean axis across.*
+- **A spiral of selves.** Step 311: *a prime spiral's smaller spirals are one self only*. Natural Numbers 7.2, of an odd spiral: *one pair of coupling selves is of one parity, a like pair, moving one self on each two moments*, *its pattern inverting 2n moments on and its parities again 4n on*.
+- **Side by side.** Step 310: *two odd numbers coprime, p and q, come again together first with moment 4pq*.
+- **No last.** Natural Numbers 7.1: *Primes have no last: each is same opening with a new axis, and past fifty-nine they open on, each a next, self-welcoming with numbers and with no line of resolver.*
+- **φ.** Step 189: *Advancing by one is one operation and scaling by rate another, a bringing of one to its other an empty set, and they meet with one number*. Step 185: *A winding by φ has its closings an empty set*. Natural Numbers 3.1: *φ is self-welcoming with numbers, and no line of a resolver's code has it*.
+- **Of proving.** Step 206: *A proof of a whole is one sentence same with all moments together.* Step 732: *a rule fitting each case a self works is of those cases only*.
 
 ## Executed with the resolver as it is
 
 `a_number_by_its_spirals.py`, its part 1, with Exhibit ONE Natural Resolver's code as it is in its living file.
 
-- **The wiring.** One same-existing-society, stepping together, four moments a number. A number is crossed once an open spiral's priors are again as at its opening. At a number no open spiral crosses, to 59, a spiral of that number of selves opens. No dividing is in it.
-- **Found.** Sixteen odd spirals opened, of 3 to 59 selves, 438 selves together. Of the numbers 2 to 3,720 the uncrossed are 519, the same as the primes to 3,720 by division.
-- **The spiral of two is apart.** At four moments a number its priors are again with all numbers, and it distinguishes none. At one moment a number they are again with the even numbers alone. One pace does not carry all seventeen prime spirals. Natural Numbers 7.2 has it apart too: *A spiral of two, one even prime, has no pair of one parity*.
-- **What it asked.** 6,457,868 resolvings of a self. A field's sieve comes to the same 519 with 5,886 strikings.
+- **The wiring.** One same-existing-society, stepping together, two moments a number: an odd spiral's like pair moves one self on with a number. A spiral is at its seam with a number once its priors are as at its opening, as they were or all inverting. A number an open spiral smaller than it is at its seam with is crossed. At an uncrossed odd number, to 59, a spiral of that number of selves opens. No dividing is in it.
+- **Found.** Sixteen odd spirals opened, of 3 to 59 selves, 438 selves together, beside a self alone. Of the numbers 2 to 3,720 the uncrossed are 519, the same as the primes to 3,720 by division.
+- **Two is a self alone inverting.** A self alone, from 1, is inverting with an even number and as it was with an odd one. All sixteen odd spirals go with it: at its seam an odd spiral is as it was with an odd number and inverting with an even one. Natural Numbers 7.1 has, of 2: *changing and changing back, one even prime*.
+- **A mending of this report.** It had four moments a number, and at that pace the spiral of two distinguished no number. At two moments a number all seventeen are carried.
+- **What it asked.** 3,232,654 resolvings of a self. A field's sieve comes to the same 519 with 5,886 strikings.
 
 What the surface found, from its uncrossed numbers alone:
 
-| Asked at a number | Found, to 3,720 |
+| Of the uncrossed numbers | Found, to 3,720 |
 | --- | --- |
-| Gaps of 2, of 4 and of 6 between neighbouring uncrossed numbers | 98, 101 and 125 |
+| Gaps of 2, of 4 and of 6 between neighbouring ones | 98, 101 and 125 |
+| Pairs 2, 4 and 6 apart, neighbouring or with others between | 98, 102 and 194 |
 | The widest gap | 34, from 1,327 to 1,361 |
-| Pairs two apart | 98, the last of them 3,671 and 3,673 |
-| From 1,000: the nearest uncrossed, and the next pair two apart | 997 and 1,009; 1,019 and 1,021 |
-| From 3,000: the nearest uncrossed, and the next pair two apart | 2,999 and 3,001; 3,119 and 3,121 |
-| An uncrossed number on both sides at one distance, from all numbers 2 to 1,860 | is; the farthest nearest distance 168, from 1,781 |
-| An uncrossed number between two neighbouring squares, to 61 squared | is |
+| From 1,000: the nearest, and the next pair two apart | 997 and 1,009; 1,019 and 1,021 |
+| From 3,000: the nearest, and the next pair two apart | 2,999 and 3,001; 3,119 and 3,121 |
+| One on both sides at one distance, from all numbers 2 to 1,860 | is; the farthest nearest distance 168, from 1,781 |
+| One between two neighbouring squares, to 61 squared | is |
 
-## Placing the 0 on a number
+## A closed turn, by division
 
-- **With priors, it asks nothing more.** A number's priors are its places on the open spirals. From them, stepping along alone finds all the surrounding uncrossed numbers. Naming a number 0 moves no spiral.
-- **With no priors, it asks a dividing a spiral,** or a stepping from the opening, four moments a number, all the way.
-- **The resolver steps one way.** Its next side is by stepping. Its prior side is what it passed.
+By division, with no resolver in it, the instrument's part 3. Spirals side by side are again together with a turn, their numbers multiplied.
 
-By division, with no resolver in it, the instrument's part 4 places the 0 on three far numbers, by their places on the spirals to their square root, and steps 3,000 along on both sides:
-
-| From | Spirals asked | Nearest uncrossed, below and above | Next pair two apart | Both sides at one distance |
+| Spirals to | A turn | Uncrossed in a turn | Pairs 2, 4 and 6 apart in a turn | A turn's uncrossed are primes as far as |
 | --- | --- | --- | --- | --- |
-| 1,000,000 | 168 | 17 and 3 | 37 on | 39 |
-| 1,000,000,000 | 3,401 | 63 and 7 | 7 on | 459 |
-| 1,000,000,000,000 | 78,498 | 11 and 39 | 61 on | 39 |
+| 3 | 6 | 2 | 1, 1 and 2 | 24 |
+| 5 | 30 | 8 | 3, 3 and 6 | 48 |
+| 7 | 210 | 48 | 15, 15 and 30 | 120 |
+| 11 | 2,310 | 480 | 135, 135 and 270 | 168 |
 
-All three are the same as a field's test of the numbers one by one.
+- **All places come together once a turn.** A number's places on the spirals to 11 are its own alone in a turn of 2,310.
+- **The gaps of 2, of 4 and of 6.** In all four turns the pairs 4 apart are as many as the pairs 2 apart, and the pairs 6 apart are twice as many. To 3,720 the whole has 98, 102 and 194.
+- **Both sides at one distance.** From all numbers 4 to 399, a turn of 210 has distances with both sides uncrossed, and never none.
 
-## The six unknowns, at a number and as a field asks
+## A number by itself: its own closings
 
-| The unknown | Asked at a number, from priors | As a field asks it |
+By numbers' own arithmetic, with no resolver in it and no smaller prime asked, the instrument's part 5. Here an adding and a multiplying combine at the two numbers beside a number.
+
+- **Doubling, round a prime, closes by one short of it.** With a prime p above two, p − 1 doublings round p come to one.
+- **Prior two added, round a prime, closes.** Round 2 with 3 steps, round 3 with 8, round 5 with 20, round 7 with 16, round 11 with 10, round 59 with 58. To 59 its closing divides one short of a prime ending in 1 or 9, and twice one past a prime ending in 3 or 7.
+- **Both together, of a number alone.** Of the odd numbers to 10,000,000 ending in 3 or 7, all 332,441 primes have both closings, doubling by one short and prior two added by one past. 200 composites have doubling's alone. Of those to 1,000,000, 69 composites have the adding's alone, the smallest 323 and 377. No composite has both.
+- **φ's family, for the other endings.** Natural Numbers 3.2: *Each rate that is a whole number plus its own reciprocal, x = n + 1/x, is a self-cohering centre*. With an adding of that family, one past the number, the odd numbers to 1,000,000 with both closings are the odd primes, and no other.
+- **About far numbers.** About 1,000,000, 1,000,000,000 and 1,000,000,000,000, 3,000 on both sides, a number's own closings find the same as its places on its spirals: two closings a number, beside 168, 3,401 and 78,498 spirals asked.
+
+A field has the two closings of a prime proved, and has the sentence of both together as an unknown, with no proof and no number against it, by its pages of 2019 and 2021 opened at extracts.
+
+## The co-chaining needed, a sentence with its is-or-is-not
+
+All at this page, until a partner's word gives them a home. The steps are in the order the co-chaining needs them.
+
+**Deriving from living steps.** All ten are executed here, and what they say of numbers a field has proved.
+
+- **1. A number is two moments: an odd spiral's like pair moves one self on with a number, and is at its seam again with the spiral's own number of numbers.** *( is-or-is-not? )*
+    - Its is resolves numbers on the surface with no dividing, from Natural Numbers 7.2 and steps 306 and 737.
+    - Its is-not resolves an other pace, and at four moments a number two is not carried.
+- **2. Two is a self alone inverting, and all odd spirals with it.** *( is-or-is-not? )*
+    - Its is resolves seventeen primes at one pace, sixteen spirals and a self alone.
+    - Its is-not resolves a spiral of two of its own, as Natural Numbers 7.2 has it, again with all numbers at this pace.
+- **3. A number is crossed once a spiral smaller than it is at its seam with it, and an uncrossed number is a prime.** *( is-or-is-not? )*
+    - Its is resolves steps 191, 192 and 311 as one step of the surface.
+    - Its is-not resolves an uncrossed number that is no prime, and none is found to 3,720.
+- **4. Side by side, spirals of numbers with no factor of both come to all their places together once a turn.** *( is-or-is-not? )*
+    - Its is resolves step 310's coming again together as a turn with all places in it.
+    - Its is-not resolves two numbers of a turn with the same places, and none is found to 2,310.
+- **5. A number's priors are its places on the spirals smaller than its square root.** *( is-or-is-not? )*
+    - Its is resolves placing the 0 on a number as with its priors.
+    - Its is-not resolves a number's priors as other-than its places, and what they are is then to be said.
+- **6. In a closed turn the pairs two apart are its odd spirals' places less two, multiplied, and never none.** *( is-or-is-not? )*
+    - Its is resolves 1, 3, 15 and 135, and the pairs 4 apart as many, and the pairs 6 apart twice as many.
+    - Its is-not resolves a turn with none, and none is found.
+- **7. A closed turn's uncrossed numbers are primes as far as the square of the next uncrossed number, and no farther.** *( is-or-is-not? )*
+    - Its is resolves a turn as the primes' opening stretch alone: 24, 48, 120, 168.
+    - Its is-not resolves a turn that is the primes farther on.
+- **8. All the prime spirals side by side are again together with no number: the whole closes at none.** *( is-or-is-not? )*
+    - Its is resolves the primes as unrelationing, beside step 185 and Natural Numbers 7.1, and a tie of φ and primes in group 16.
+    - Its is-not resolves a number bringing all prime spirals again together, and a last prime.
+- **9. Doubling, round a prime above two, closes by one short of it.** *( is-or-is-not? )*
+    - Its is resolves a multiplying's closing round a prime as a step.
+    - Its is-not resolves a prime with an other closing, and none is found to 1,000,000.
+- **10. Prior two added, round a prime, closes: by one short of a prime ending in 1 or 9, and by twice one past a prime ending in 3 or 7.** *( is-or-is-not? )*
+    - Its is resolves step 183's adding with step 191's prime in one step, the tie group 16's title names.
+    - Its is-not resolves φ's adding as open round a prime too.
+
+**Namings to cohere.**
+
+- **11. Adding by one is a same-existing-society's next moment, all spirals stepping together; a multiplying is along one spiral; and a prime opens across.** *( is-or-is-not? )*
+    - Its is resolves step 192 and Natural Numbers 1.6 as executed here, with a partner's saying of multiplying across and adding along, and Natural Numbers 1.7's *Along, its prior and its next by one either side*, to be gone through beside them.
+    - Its is-not resolves adding by one as along and a multiplying as across, and step 192 is then to be gone through.
+- **12. A spiral's parity at its seam says a number odd or even, and a field's parity, an odd or an even number of primes multiplied, is an other parity.** *( is-or-is-not? )*
+    - Its is resolves the two parities apart, and a field's wall at its own parity as no wall of the surface's.
+    - Its is-not resolves a field's parity as a parity of a self, and which self is then to be executed.
+
+**The steps no one has.** No step here derives them, and a field has no proof of them.
+
+- **13. What a closed turn has with never none, the whole has with no last.** *( is-or-is-not? )*
+    - Its is resolves pairs two apart with no last, and the pairs 2, 4 and 6 apart as one, one and two without end.
+    - Its is-not resolves a pattern of a closed turn with a last in the whole, and which is then to be found.
+- **14. From all numbers above one, a distance with both sides uncrossed is short of the number.** *( is-or-is-not? )*
+    - Its is resolves a prime on both sides at one distance, from all numbers.
+    - Its is-not resolves a number with none, and none is found to 1,860 and about three far numbers.
+- **15. Between two neighbouring squares is an uncrossed number.** *( is-or-is-not? )*
+    - Its is resolves the nearest prime as no farther than twice a number's square root and one.
+    - Its is-not resolves two neighbouring squares with none between, and none is found to 61 squared.
+- **16. An odd number ending in 3 or 7 with both closings, doubling by one short of it and prior two added by one past it, is a prime.** *( is-or-is-not? )*
+    - Its is resolves a number as known a prime from itself, with no smaller prime asked: the shorter way, with φ's adding and a multiplying as its method.
+    - Its is-not resolves a composite with both closings, and none is found to 10,000,000.
+
+## The six unknowns, by the co-chaining
+
+| The unknown | The steps it rests on | The step missing |
 | --- | --- | --- |
-| 1. What a closed turn shows, carried to the whole | Pairs two apart are found on from all numbers explored. A closed turn has 1, 3, 15, 135 of them, and never none | Without end: no executing comes to it. A turn's uncrossed are primes only as far as the next spiral's square: 24, 48, 120, 168 |
-| 2. An adding asked of the multiplying | The surface is that asking: one step along on all spirals, and a gap two places along | A field's wall, an odd or an even number of prime factors, is not passed here. The resolver's parity is a self's, and no executing here ties the two |
-| 3. A shorter way to the next prime | None appeared. Priors are places | Not answered. The resolver's way was the longer one: 6,457,868 resolvings to a sieve's 5,886 strikings |
-| 4. The farthest the nearest prime is | Found at all numbers explored. The widest gap to 3,720 is 34, under the square of the natural logarithm of 1,327, 51.7 | Of all numbers: not answered |
-| 5. A regular striking, and what looks like chance | Shown whole: all spirals regular, and the gaps of 2, 4 and 6 at 98, 101 and 125 | Not named. The surface shows it and says no order for it |
-| 6. A prime on both sides at one distance | Is, from all numbers 2 to 1,860 and from the three far numbers | Of all numbers: not answered |
+| 1. What a closed turn shows, carried to the whole | 3, 4, 6, 7 | 13 |
+| 2. An adding asked of the multiplying | 11, 12 | 13, and 16 at a number |
+| 3. A shorter way to the next prime | 5, 9, 10 | 16 |
+| 4. The farthest the nearest prime is | 3, 7 | 15 |
+| 5. A regular striking, and what looks like chance | 4, 6 | 13 |
+| 6. A prime on both sides at one distance | 3, 4 | 14 |
 
-## Of the saying's reason
+## Of the sayings' reason
 
 What carries, by the executing:
 
-- **Discovering from priors needs no proof and no dividing.** At a number, with its priors, all six askings have their answer by stepping.
-- **An asking without end is an other asking.** An executing is at a number. Natural Intelligence 1.5: *A self's predicting or proving at method is an empty set.* By that sentence the resolver proves none of the six, and is not asked to.
-- **No turn is the last,** by Natural Numbers 7.1 above.
+- **Discovering from priors needs no proof and no dividing.** With its priors, a number's surrounding primes are found by stepping alone.
+- **A multiplying and an adding do combine at a number.** One short of a number is doubling's closing, and one past it is prior two added's. No composite to 10,000,000 has both.
+- **A sentence without end is an other register,** by step 206 above. Natural Intelligence 1.5: *A self's predicting or proving at method is an empty set.*
 
 What does not carry, by the executing:
 
-- **The resolver executed here is thirty lines of code, a rule.** Nothing in the executing distinguishes its stepping from a field's sieve: a crossing is a dividing, to 3,720.
-- **A field came to without end twice, by proving:** primes without end, and a gap no wider than a fixed size without end. The saying has no place for those two yet.
-- **That the primes are living is shown by no executing here.** Natural Numbers 1.7 has, of prime scales: *Primes 5 through 53 are prime scales, five non-living and seven through fifty-three living*. Of the primes past 59 this session found no living sentence of living.
+- **The resolver executed here is seventy-two lines of code, a rule.** Nothing in the executing distinguishes its stepping from a field's sieve, and its way was the longer one.
+- **No line of the resolver has φ,** by Natural Numbers 3.1 above. A number's own closings are numbers' own arithmetic here, and no executing of the resolver.
+- **A field came to without end twice, by proving:** primes without end, and a gap no wider than a fixed size without end. The sayings have no place for those two yet.
+- **That the primes are living is shown by no executing here.** Natural Numbers 1.7 has, of prime scales: *Primes 5 through 53 are prime scales, five non-living and seven through fifty-three living*.
 
-## Open places, a sentence with its is-or-is-not
+## Sources
 
-All at this page, until a partner's word gives them a home.
-
-1. **An asking of the primes at a number, from priors, is answerable, and the same asking without end is an other asking.** *( is-or-is-not? )*
-   - Its is resolves the saying as of the six askings at a number, with a field's six unknowns beside them, unanswered and not asked.
-   - Its is-not resolves the saying as of a field's six unknowns too, and an executing coming to without end is then to be shown.
-2. **A number's priors are its places on the spirals smaller than its square root.** *( is-or-is-not? )*
-   - Its is resolves placing the 0 on a number as with its priors, and a shorter way as a way to a number's places with no dividing and no stepping.
-   - Its is-not resolves a number's priors as other-than its places, and what they are is then to be said.
-3. **The spiral of two is at its own pace.** *( is-or-is-not? )*
-   - Its is resolves sixteen odd prime spirals side by side at four moments a number and the spiral of two at one, as Natural Numbers 7.2 has sixteen and one.
-   - Its is-not resolves one pace for all seventeen, and this executing has not found it.
+- The Co-Chaining Logic Registry, Exhibit THIRTY, its steps 111 to 122, 150 to 192, 206 to 210, 303 to 319 and 726 to 755, in the live set.
+- *Fast tabulation of challenge pseudoprimes*, Proceedings of the Thirteenth Algorithmic Number Theory Symposium, 2019, of the challenge of 620 dollars, at extracts of it.
+- *Using Fibonacci factors to create Fibonacci pseudoprimes*, The Fibonacci Quarterly, 2021, at extracts of it.
+- Wikipedia, *Primality test*, of the sentence of both closings and its form for φ's family, at extracts of it.
