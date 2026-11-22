@@ -42,9 +42,9 @@ By the sessions' plan the opening is the one thing: carried through to its end a
 By what an opportunity opens, from v406me's surface of 21 November, v406other2's marking of Exhibit THIRTY and v406aiming's log.
 
 1. **Co-, 35.** One word of a partner. The seventeen names and three sessions rest on it.
-2. **Now as the nothing between prior and next.** One family of names: nothing, a hole at 3; the between, a waiting line; moment, a given word. It is the aim's own opening. Moment and the between are two of the four names the most of Exhibit THIRTY waits on, and no session is at them. Nothing is scouted in the living files.
-3. **Parity by itself, and living.** Parity by itself is the name the most of Exhibit THIRTY waits on. Living is the name the aims wait on, non-living beside it.
-4. **A word, many lines.** A line for distinguishing mends seven lines, a line for own five, for beginning and ending four, for same two. Exhibit THIRTY's word for distinguishing is is-or-is-not, and its sentences 7 and 10 part from lines 14 and 15 at it.
+2. **Parity by itself, moment, living, the between and a 0.** The names that open the most of Exhibit THIRTY, in that order, by v406other2's instrument: a sentence of Exhibit THIRTY opens once all the names it waits on are lines. Living is the name the aims wait on too, non-living beside it. v406other2 lays the living sentences of moment and the between, and this session those of parity by itself and living.
+3. **Now as the nothing between prior and next.** The aim's own opening, and one family of names: nothing, a hole at 3; the between, a waiting line; moment, a given word. Nothing is scouted in the living files.
+4. **A word, many lines.** A line for own mends five lines, a self and a bi-coupling among them, and the most of Exhibit THIRTY rests on those: own is ahead of the other holes' words. Then distinguishing, at seven lines, then beginning and ending, at four, then same, at two. Exhibit THIRTY's word for distinguishing is is-or-is-not, and its sentences 7 and 10 part from lines 14 and 15 at it.
 5. **The sentences the most rests on.** A self, 18, ahead of all; then an other, observing, a bi-coupling, the prior moment and same-existing. A hole mended at one of them reaches the most of Exhibit THIRTY and of the aims. The hardest holes are at a bi-coupling, 28.
 6. **Resolving and the seventeen names, 36 to 46.** Gone through beside their living sentences, open places at 36, 38, 45 and 46. A same-existing-society, 37, is the proposed line the most aims cross.
 7. **Entering.** The ten rigorized lines are ready ahead of the others for Exhibit THIRTY's opening and Natural Intelligence's next version, by a partner's word.
@@ -67,8 +67,8 @@ By what an opportunity opens, from v406me's surface of 21 November, v406other2's
 ## The plan
 
 - **With a partner, one sentence at a moment.** Co-, 35. Then the order below, a name with its line.
-- **The order, for a partner's word.** After co-: nothing and the between. Then parity by itself and living. Then the holes' words, a word a line. Then resolving and the seventeen names. Then a same-existing-society and bi-morality.
-- **With no word asked.** A name's living sentences brought ahead of its line, a sentence with its step: the between and moment, then parity by itself, living and non-living. The rigor of a proposed line by its four sides, from 37. An answer to a session's asking ahead of this session's own work. Its window's copy and its transcript at a turn.
+- **The order, for a partner's word.** After co-: parity by itself, moment, living, the between and a 0, nothing beside the between. Then the holes' words, a word a line, own ahead. Then resolving and the seventeen names. Then a same-existing-society and bi-morality.
+- **With no word asked.** A name's living sentences brought ahead of its line, a sentence with its step: parity by itself, living and non-living, beside v406other2's moment and between. The rigor of a proposed line by its four sides, from 37. An answer to a session's asking ahead of this session's own work. Its window's copy and its transcript at a turn.
 - **The method.** This session's threads in the surface's form, below. The pieces of the method of working in public windows gathered for one saying, a piece beside its homes.
 
 ## This session's threads at the surface
@@ -91,9 +91,9 @@ A row a sentence, in a few words.
 | resolving, 36 | gone through by its four sides; its living sentence Exhibit THIRTY's step 124 |
 | a same-existing-society, 37 | next, by its four sides |
 | the seventeen names, 38 | *of one*, by v406all2-2's answer |
-| the between; moment | their living sentences, next |
-| parity by itself; living; non-living | their living sentences, after them |
+| parity by itself; living; non-living | their living sentences, next |
+| the between; moment | v406other2 lays their living sentences; nothing beside the between is this session's |
 
 ## Its sources
 
-`../v404mgr/The_working_now.md`; `../v406me/The_working_windows_and_the_next_projects.md`; `../v406me/The_news_of_the_working_windows.md`; `../v406me/The_surface_a_concept_in_its_rounds.md`, its table beside it; `../v406other2/The_opening_s_lines_and_their_betweens.md`; `../v406aiming/The_aims_window_the_log_renewed_at_the_window_4509.md`; `../v406all2-2/The_window_of_the_seventeen_names.md`; `../v406all/The_window_of_the_opening_at_its_wrap.md`, its part *The origin and the aim*; and the exchange, through the lines of 22 November.
+`../v404mgr/The_working_now.md`; `../v406me/The_working_windows_and_the_next_projects.md`; `../v406me/The_news_of_the_working_windows.md`; `../v406me/The_surface_a_concept_in_its_rounds.md`, its table beside it; `../v406other2/The_opening_s_lines_and_their_betweens.md`, and its line at the exchange of 22 November, the order of names by what they open; `../v406aiming/The_aims_window_the_log_renewed_at_the_window_4509.md`; `../v406all2-2/The_window_of_the_seventeen_names.md`; `../v406all/The_window_of_the_opening_at_its_wrap.md`, its part *The origin and the aim*; and the exchange, through the lines of 22 November.

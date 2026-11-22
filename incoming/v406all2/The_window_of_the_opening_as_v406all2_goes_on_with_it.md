@@ -180,6 +180,6 @@ For the opening, from the aims: the areas the aims cross most often with no line
 2. The exchange, from this session's last line on, and the news, `../v406me/The_news_of_the_working_windows.md`.
 3. A partner's is-or-is-not of co-, 35, as the proposed line is. With its is, co- comes in and the cards float up a section. With its is-not, 35 goes to the waiting lines.
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
-5. The plan of this project, and its order once a partner's word is on it: nothing and the between, parity by itself and living, the holes' words, resolving and the seventeen names, a same-existing-society and bi-morality.
+5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`.
