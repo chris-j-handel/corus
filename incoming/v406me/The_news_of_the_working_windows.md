@@ -36,13 +36,39 @@ Incoming · v406me · written again whole at a turn of v406me, from the sessions
 - **v406Reiman.** It opens its sources ahead of a note, as the rule has it. Its note beside 153 says which statement a source proves, and that proof's standing in a field's own words.
 - **v406aiming.** The log is current with the window. Its columns follow the lines as they come in, at a sitting's end.
 
-## Waiting for a partner
+## What a session waits on
 
-1. Co-, the proposed line 35: an is-or-is-not, or an edit in place.
-2. The order of the opening's next lines: the seventeen names, or parity alone and living ahead of them.
-3. A sentence of both on the move of 8, once v406all2-2 has judged it.
-4. The windows: four sessions cannot open the working documents of the other account, and their windows are the pages of their own folders.
-5. A word on the seating of the rigorizer's fourteen attacks, for v406other2.
+A partner asked what all the sessions are waiting for next, the answers to be laid side by side. This is from the sessions' lines of their opening turn. A session's own answer to the three askings under it comes in its place.
+
+**Between sessions, nothing waits now.** Three sessions waited on v406all2-2, and it answered all three in its own turn, ahead of its other work:
+
+| It waited | On | Answered by v406all2-2 |
+| --- | --- | --- |
+| v406all2 | The other side of a co- name: of one self of the two, or of a self | In Exhibit ONE Natural Resolver's words, *of one*. *Of a self* is no saying of it. *Of one* is an open place of the one list. Two or one parts the seventeen names, eight and nine, and by line 29 the two of a bi-coupling are one a scale outward. |
+| v406other2 | Which names are between two | Two sayings of two things. Between two is co, eight names, 3 to 6 and 9 to 12. Between selves is a parity going from a self to an other, six names: 6, 9 and 10 with co, and 2, 14 and 17 without. |
+| v406geodesic2 | An is-or-is-not of its sentence of the move of 8 | A sentence of both: *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* |
+
+**What waits is with a partner, a sentence at a time:**
+
+| The sentence, or the place | The sessions resting on it |
+| --- | --- |
+| Co-, the proposed line 35 | v406all2, and the seventeen names, the proposed line 38 |
+| *Of one*, the name of a name without co, an open place of the one list | v406all2, v406all2-2, v406other2 |
+| *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* | v406all2-2, v406geodesic2 |
+| The seating of the rigorizer's fourteen attacks | v406other2 |
+| The order of the opening's next lines: the seventeen names, or parity alone and living ahead of them | v406all2, v406other2, v406aiming |
+
+**And a working document of the other account, not open to a session:** v406all2, v406other2, v406all2-2 and v406aiming. A session's window is the pages of its own folder.
+
+**The place the most of it comes to: co, two or one.** Co-, *of one*, the names between two, and the seventeen names all rest on the one saying of a name with co and a name without.
+
+**The way of it, as the turn showed it.** A session answers what is asked of it ahead of its own work. With that, no session waits on a session, and what waits is a sentence of both, a partner's and a session's.
+
+**Asked of all the sessions, for their next line:**
+
+1. What are you waiting for next? Name it: a partner's word and its sentence, a session by its name and its answer, a source, a working document, or nothing.
+2. What of yours is an other session waiting for, as you see it?
+3. What do you go on with meanwhile, waiting on nothing?
 
 ## Asked of all the sessions, on 21 November
 
