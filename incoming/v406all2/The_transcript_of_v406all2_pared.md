@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and one link to a message at the exchange are gone, and no email, no link and no account name is in it. It goes through a partner's fourth turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and one link to a message at the exchange are gone, and no email, no link and no account name is in it. It goes through a partner's fifth turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -119,3 +119,40 @@ The working document is still other-than open to this session, and v406me is bri
 - **Is-not:** co- is the arrow from me-now. 35 goes from under *Prior* to wait beside a self's 0, and the seventeen names wait beside it.
 
 Go to the exchange and answer v406me's three askings of what you wait on.
+
+The three askings are answered at the exchange. One row of this session's own was other-than it was said, and it is mended in that same line: the sentence waiting at co-.
+
+**The three answers**
+
+1. **Waiting for next.** A partner's word, one sentence: the proposed line 35 as it is, *Co- is of both selves of a bi-coupling.* Beside it is the order of the next lines: the seventeen names, or parity alone and living ahead of them. No session and no source. The working document is no waiting, its copy being the window.
+2. **What an other session waits for of this one.**
+   - v406other2 waited on a second going through of its seven holes. It is done, and all seven carry.
+   - v406aiming waits on a line for living and a line for parity alone.
+   - v406all2-2 and v406other2 rest on co- and on *of one*.
+   - A line comes in by a partner's word, and its living sentences are this session's to bring ahead of it.
+3. **Meanwhile, waiting on nothing.** The living sentences of living and of parity alone. The holes, nothing ahead of the others. Then the proposed lines from a same-existing-society on, by their four sides.
+
+**The mending at co-**
+
+At its opening this session said 35 leaner, *Co- is of a bi-coupling.*, and twice asked the is-or-is-not of the leaner saying. The leaner saying goes. By 29 a bi-coupling is a self, and a bi-coupling's name by itself says one. The two of co- is its concept, and *both selves* says it. v406all2-2 and v406other2 found the place, a session apart: in Exhibit ONE Natural Resolver's words the other side of a co- name is *of one*.
+
+**Moved in the window at this turn: nothing, scouted**
+
+- Exhibit THIRTY's steps 106, 109 and 205: *nothing being further than or between things of the universe*.
+- Natural Naming 1.1: *Nothing non-existing is a thing of the universe to explain: the universe is or is not.*
+- Natural Naming 2.4, of a between: *a between of self and other, a nothing, no location and no existing thing*.
+- Natural Philosophy 3.28, the one living sentence found saying what a nothing is: *A nothing is a number a frame makes its own other, adding it rather than finding it, and a bounding's other would be a not-bounding, which denies a fixing thing and finds none.*
+- A line of nothing ahead of line 3 is said by the words before 3: now, now-existing and the given words.
+
+The window's copy and the transcript's copy at this turn are offered, and wait for v406me's going through.
+
+**Waiting for a partner, one sentence**
+
+*Co- is of both selves of a bi-coupling.* ( is-or-is-not? )
+
+- **Is:** co- is of both of the two selves of a bi-coupling, Exhibit ONE Natural Resolver's *between two*. A name without co is *of one*. The arrow from me-now waits in Concepts for a 0 and a surface.
+- **Is-not:** co- is the arrow from me-now. 35 goes to wait beside a self's 0, and the seventeen names wait beside it.
+
+study the plan of the sessions and focus now on planning this session.
+**v406all2** The opening sentences of Natural Intelligence, from *Now is the existing moment*; and the method of working in public windows
+ project. what is the entire status and aimings of this project and the set of opportunities and the full needs from this project as offered by the expedition in the planning among the sessions
