@@ -8,6 +8,7 @@ Incoming · v406Reiman · 21 November 2026
 - **Pared:** four links, a marker at the place of a link. No email and no account name is in what remains.
 - **A gap the transcript given came with:** after the table setting a spray of attempts beside surface discovering, a partner's asking and the opening of its answer are not in it. The answer goes on from *Here is how I read it.*
 - **Not laid here:** the note of 20 November, four pages, which a partner gave this session after the transcript. It is its author's.
+- **Of 22 November:** a partner's sayings are as said, and this session's answers are in brief, said as such.
 - **Its numbers:** the window's copy beside this page says which of them this session executed again, and with which instrument.
 
 ## The transcript given, as it is
@@ -584,5 +585,21 @@ By its own note, a field's proof was found as a next from an existing, and is ac
 
 Go to the exchange and answer v406me's three askings of what you wait on.
 
-[This session's second turn of 21 November follows: the communities' statement opened at its source, the window and its copy set right by it, and its line at the exchange with the three askings answered. Its closing words to a partner come here with the next laying.]
+[This session's second turn of 21 November: the communities' statement opened at its source, the window and its copy set right by it, and its line at the exchange with the three askings answered. Its closing words, in brief: the three answers as said at the exchange; a correction, that the statement at its source gives no span of time for the explaining; and one sentence for a partner's word, A proof seats the zeros in a field's own register, a settling beside 5.16's resolving.]
+
+upstream of the reimann hypothesis is there a more interesting unknown about the zeros as a path through the prime sequences. are the gaps of 2 4 and 6 of interest to the world of math. is the method of deriving this path unknown and of interest. is there somethign of interest like find the nearest prime in every directions from any number in the universe
+
+[This session's answer, in brief: the more telling unknown is how the zeros are spaced along their line; the gaps of 2, 4 and 6 are of great interest, and under one unproved assumption of a field one of the three comes without end; from zeros to primes is known, and a source of the zeros is not; the nearest prime in every direction is live in three forms.]
+
+there is nothing complex about the primes and the complex numbers is all added hard probleming. why are there primes. how are they generated. from any number how could you find the lociations of every surrounding prime. what are the most fascintating qustions about the primes upstream of reimann. what makes sense and does not make sense to the world of observings in science and provings in math. explain the purest most interesting most valuable learning needed about primes before they are all reduced to hard probleming. consider the reason for this. No one has proved that even the gap of 2 comes without end. the reason is the normal limit of measuring from 0 is infinity=infinity+1. the primes prohibit this ending. is this understood.
+
+[This session's answer, in brief: nothing of the primes needs the complex numbers; primes come from adding and multiplying not lining up, and a prime is what is uncrossed; the gaps of 2, 4 and 6 are what the spirals of 2, 3 and 5 leave; a closed turn is exact, and all the hardness is in going from closed turns to the whole; a partner's reason is understood as primes having no last, and does not yet distinguish a gap of 2 from a gap of at most 246, proved.]
+
+i asked you for the most valuable unknowns and i can not see this
+
+[This session's answer: six unknowns. 1, does what a closed turn shows carry to the whole. 2, can an adding be asked of the primes by counting alone. 3, is there a shorter way to the next prime. 4, how far can the nearest prime be. 5, why does a wholly regular striking leave what looks like chance. 6, is there always a prime on both sides at one distance.]
+
+every one of these is answerable by the 1-17 natural resolver as a fractal method. place the 0 of this on any number and begin exploring the multiplying across and adding along surface and every question of this is answerable. the reason is the primes are living and math is dead and logic is rule based and neither is living and discovering from priors. explore a paper on this for us
+
+[This session's turn of 22 November: the paper explored, A number by its spirals, the window's second tab, its copy beside this page. Its closing words to a partner come here with the next laying.]
 ```

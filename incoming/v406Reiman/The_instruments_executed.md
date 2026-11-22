@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026
 
 # The instruments of v406Reiman, executed
 
-*What the five instruments beside this page printed on 21 November, from the set's root, with Exhibit ONE Natural Resolver's code as it is in its living file. A session executing them again finds the same lines. No word here is an authority over the living files.*
+*What the instruments beside this page printed, five on 21 November and one on 22 November, from the set's root, with Exhibit ONE Natural Resolver's code as it is in its living file. A session executing them again finds the same lines. No word here is an authority over the living files.*
 
 ## `resolver_as_it_is.py`
 
@@ -208,4 +208,40 @@ The same from the primes a product itself opened, by no order of size
 
 ```text
 all: is (14 of 14)
+```
+
+## `a_number_by_its_spirals.py`, executed on 22 November
+
+```text
+1. Odd prime spirals side by side, four moments a number, a spiral opening at an uncrossed number
+   spirals opened, beside the spiral of two: 16, of 3 to 59 selves, 438 selves together
+   numbers gone through: 2 to 3720 · uncrossed: 519 · the primes to 3720 by division: the same
+   resolvings of a self executed: 6,457,868
+   beside it, by division: a field's sieve comes to the same with 5,886 strikings, a prime striking from its square on
+   the spiral of two at four moments a number, its priors again with all numbers, distinguishing none: is
+   the spiral of two at one moment a number, its priors again with the even numbers alone: is
+
+2. What the surface found, from its uncrossed numbers alone
+   gaps between neighbouring uncrossed numbers · of 1: 1 · of 2: 98 · of 4: 101 · of 6: 125 · of 8: 48 · of 10: 49 · of 12: 38 · of 14: 20 · wider: 38
+   the widest gap: 34, from 1327 to 1361 · the square of the natural logarithm of 1327: 51.7
+   pairs two apart: 98 · the last of them: 3671 and 3673
+   from 1000 · nearest uncrossed: 997 and 1009 · next pair two apart: 1019 and 1021
+   from 2000 · nearest uncrossed: 1999 and 2003 · next pair two apart: 2027 and 2029
+   from 3000 · nearest uncrossed: 2999 and 3001 · next pair two apart: 3119 and 3121
+   an uncrossed number on both sides at one distance, from all numbers 2 to 1860: is · the farthest such nearest distance: 168, from 1781
+   an uncrossed number between two neighbouring squares, to 61 squared: is
+
+3. By division, no resolver in it: spirals side by side again together, a closed turn
+   spirals to  2 · a turn of    2 · uncrossed in a turn:   1 · pairs two apart in a turn:   1 · the turn's uncrossed are primes as far as 8, and 9 is crossed by a spiral not yet open
+   spirals to  3 · a turn of    6 · uncrossed in a turn:   2 · pairs two apart in a turn:   1 · the turn's uncrossed are primes as far as 24, and 25 is crossed by a spiral not yet open
+   spirals to  5 · a turn of   30 · uncrossed in a turn:   8 · pairs two apart in a turn:   3 · the turn's uncrossed are primes as far as 48, and 49 is crossed by a spiral not yet open
+   spirals to  7 · a turn of  210 · uncrossed in a turn:  48 · pairs two apart in a turn:  15 · the turn's uncrossed are primes as far as 120, and 121 is crossed by a spiral not yet open
+   spirals to 11 · a turn of 2310 · uncrossed in a turn: 480 · pairs two apart in a turn: 135 · the turn's uncrossed are primes as far as 168, and 169 is crossed by a spiral not yet open
+
+4. By division, no resolver in it: the 0 placed on a far number, its places on its spirals, then stepping alone
+   from 1,000,000 · spirals asked: 168 · nearest uncrossed: 17 below and 3 above · next pair two apart: 37 on · both sides at one distance: 39 · the square of its natural logarithm: 191 · the same as a field's test of the numbers one by one: is
+   from 1,000,000,000 · spirals asked: 3,401 · nearest uncrossed: 63 below and 7 above · next pair two apart: 7 on · both sides at one distance: 459 · the square of its natural logarithm: 429 · the same as a field's test of the numbers one by one: is
+   from 1,000,000,000,000 · spirals asked: 78,498 · nearest uncrossed: 11 below and 39 above · next pair two apart: 61 on · both sides at one distance: 39 · the square of its natural logarithm: 763 · the same as a field's test of the numbers one by one: is
+
+All is.
 ```
