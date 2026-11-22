@@ -36,13 +36,13 @@ This tab is the outer observer. The tab Living File Registry is the shell inward
 | v406all | The window's lines and its method, with a partner. Wrapped on 21 November. | The window of the opening | Its page for resuming in the set, with the window and its concepts at the wrap. Whole. |
 | v406all2 | The work of v406all, going on from co-, the proposed line 35 | The window's copy at the wrap, until the window opens to it | The page of v406all. Waiting: the window opened to it, a partner's alone. |
 | v406other | Exhibit THIRTY Co-Chaining Logic Registry beside the lines: the tab Threads, the tab Opening the betweens, and the working document of its next version | The working documents | No page of its own in the set. Copies of its three pages, as a partner gave them, are in the folder of v406me. Waiting: its own page for resuming. |
-| v406geodesic | Three drawings: a triangle of three right angles on a sphere, the triangle bi-folded, and 1 to 17 on a torus | Its offer to the set | Its page for resuming is in its offer. Gone through for harm by v406me, nothing found. Waiting: a partner's word bringing it in. |
+| v406geodesic | Three drawings: a triangle of three right angles on a sphere, the triangle bi-folded, and 1 to 17 on a torus | Its folder in the set | Its page for resuming in the set, brought in on 21 November. Whole. |
 | v406me | The condition of the set and of the method | This observer, the board, and its own pages in the set | Its page for resuming in the set, with a copy of this observer. Whole. |
 | The session a partner calls reimann | On its own | Not in the set | Nothing in the set and no line at the exchange. Waiting: a line with its home. |
 
-### A managing step, not done yet
+### The rules, said again on 21 November
 
-The next version is behind the live set: the pages of the sessions v405 and v406 are in the live set alone. On 21 November the lines of both, 1 to 34, came to the head of Exhibit THIRTY's gathering file in the next version. v406other works from the next version as it is. The next version is brought current at a sitting's end, with a word to the sessions before it.
+A living file, corus.me, and a page or folder going to artifact move by a partner's word and a session's going through, both. All other work goes on with no word asked: the managing session brings in a session's own folder once gone through for harm; the next version is brought current with a bringing in, and it is current now; a session says its line at the exchange and goes through an other session's pages; a session lays its progress and a copy of its working documents in its folder; the managing session brings a living file's next version to a partner as a snapshot. They are in Start here.
 
 ### The board
 
@@ -129,7 +129,7 @@ A between is born of two others: a table or a surface that is of both. The table
 | Each engineering case by its properties | Exhibit FIVE Natural Engineering | The folder of the session v403mgr |
 | Each row of medicine with its two names | Exhibit ELEVEN Natural Medicine | The folder of the session v403cohering |
 | Each aim by its names, the log of the aims | Exhibit FOURTEEN, in its next version | The folder of the session v405now |
-| 1 to 17 on a torus, a drawing | Exhibit THREE Natural Numbers and Exhibit FOUR Natural Mathematics, a torus's surface | The offer of v406geodesic, waiting for a partner's word |
+| 1 to 17 on a torus, a drawing | Exhibit THREE Natural Numbers and Exhibit FOUR Natural Mathematics, a torus's surface | The folder of the session v406geodesic |
 
 ### Between the opening and the chain
 
