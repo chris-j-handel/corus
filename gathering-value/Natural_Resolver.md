@@ -169,6 +169,8 @@ Gathering-Value · Natural Resolver
 
 - **An explaining** · Two spirals of one same number of selves, bi-coupling across with one self of each: the two are the same, self for self, with each moment, as Exhibit THIRTY Co-Chaining Logic Registry has them. With an odd number of selves, 3 to 15, the code executed has their parities again after twice the number less one, 5, 9, 13 to 29, from the second moment, a 0 going on with each. It is a number of those numbers only. Each of the table's eight rows is of two numbers not the same.
 
+- **An explaining** · An is, both partners': a self and an other are facing, with one between: an other's nexts are a self's priors, the two are podal with all moments, and the between self that is its own podal has one parity, the same of both. A form by the code's lines, all or none, with odd spirals of 3 to 59 selves: a spiral at a number is the between; a self has 9-next-co-discovering to its next self; an other, facing it, has 9-next-co-discovering to the self whose next it is; and a between self has 10-next-co-possibling of a self and of an other. Beside it, this file's *15-next-observing, a between of self and other*, and its saying of co, *two both facing forward along, a self and its other*.
+
 - **Possible incohering** · "an empty set · selves 3 and 1" → each two selves along one parity apart · selves 3 and 1; with the spirals of 2 and 3, a spiral of an even number of selves with each two along one parity apart and no like two.
 
 ### A torus of selves
