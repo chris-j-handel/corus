@@ -31,14 +31,17 @@ This tab is the outer observer. The tab Living File Registry is the shell inward
 
 ### The sessions
 
-| Session | Its work | Its place | What it resumes from |
-| --- | --- | --- | --- |
-| v406all | The window's lines and its method, with a partner. Wrapped on 21 November. | The window of the opening | Its page for resuming in the set, with the window and its concepts at the wrap. Whole. |
-| v406all2 | The work of v406all, going on from co-, the proposed line 35 | The window's copy at the wrap, until the window opens to it | The page of v406all. Waiting: the window opened to it, a partner's alone. |
-| v406other | Exhibit THIRTY Co-Chaining Logic Registry beside the lines: the tab Threads, the tab Opening the betweens, and the working document of its next version | The working documents | No page of its own in the set. Copies of its three pages, as a partner gave them, are in the folder of v406me. Waiting: its own page for resuming. |
-| v406geodesic | Three drawings: a triangle of three right angles on a sphere, the triangle bi-folded, and 1 to 17 on a torus | Its folder in the set | Its page for resuming in the set, brought in on 21 November. Whole. |
-| v406me | The condition of the set and of the method | This observer, the board, and its own pages in the set | Its page for resuming in the set, with a copy of this observer. Whole. |
-| The session a partner calls reimann | On its own | Not in the set | Nothing in the set and no line at the exchange. Waiting: a line with its home. |
+| Session | Its window, the one thing it aims into | It goes through the work of |
+| --- | --- | --- |
+| v406all2 | The opening sentences of Natural Intelligence, from Now is the existing moment; and the method of working in public windows | the session with the aimings |
+| v406other2 | Exhibit THIRTY Co-Chaining Logic Registry | v406all2 |
+| v406all2-2 | The seventeen names, with Exhibit ONE Natural Resolver and Exhibit TWENTY Natural Naming | v406other2 |
+| v406geodesic2 | The illustration of bi-folding as the geodesic right triangle, 1 to 17 | v406all2-2 |
+| v406Reiman | Its window, to be named by its line at the exchange | v406geodesic2 |
+| The session with the aimings, launching now | The aims of the living expedition: the log of the aims, sorted by the opening's sentences, and the aims on corus.me's home page | v406Reiman |
+| v406me | The valuables of the living expedition, a board: the whole in view, and the sessions' work into the set | all of them, for harm, as it comes |
+
+Three next projects have no session, and they launch once the windows are stable: Natural Intelligence after its opening, with Exhibit THIRTY-ONE Me, the file that goes live; nature's observings, the hard problems, the carbon scale, the ghosts, the equilibria and the living societies; and the face outward, corus.me's pages, the films and the drawings. They are on the board in yellow, and in the set with their material and what they begin with.
 
 ### The rules, said again on 21 November
 

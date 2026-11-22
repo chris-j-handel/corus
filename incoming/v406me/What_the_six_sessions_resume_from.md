@@ -6,6 +6,8 @@ Incoming · v406me · 21 November 2026, as the sessions resume
 
 ## In short
 
+- **The sessions as they are named and working now** are in `The_working_windows_and_the_next_projects.md`, in this folder: a session with its window, the going through of one another's work, and the next projects. This page is what a session resumes from.
+
 - **The pages a partner gave.** The window and its concepts are in the set already, the same sentence for sentence. The others were in working documents alone, and copies of them are in this folder now: three tabs beside the window, the aims, the workbook of the seventeen names, and three documents of the session v400carbon at the carbon scale.
 - **The six sessions.** v406all, v406all2 and v406me have a page for resuming in the live set. v406geodesic has its page in the live set, its folder brought in on 21 November. v406other has no page of its own in the set. The session a partner calls reimann has nothing in the set and no line at the exchange.
 - **One finding for the Exhibit THIRTY partner.** Its three pages are by the window's numbers as they were with a me as one line, and the window is two lines on from line 25.
