@@ -289,10 +289,18 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    a self of a spiral observing a parity has it as its next prior, a self's facing and an other's, all moments: is
    a self observing a 0 passes over it: its next prior is its own prior inverting, of no other's parity: is
    with a number one self of a spiral is observing a 0, and all its other selves a parity: is
+   with a bi-parity, an other's parity not its own, a self's next prior is its other's prior, its own inverting, and it gives it on: is
+   with a co-parity, its own parity of its other, a self gives a 0, its prior same-existing: its prior, its other's prior and the all-parity it is observing are one parity: is
+   a 0 a self passes over as a self with nothing observed: its next prior is its own inverting, by 1-now-existing with no parity, and with a 0 it is the inverse of its other's prior: is
+   what a self gives with 9-next-co-discovering, a parity, is its own next prior: is
+   a number's two moments, in turn: with one a self of the spiral passes over a 0, with the next a self has a co-parity, and all its other selves have a bi-parity with both: is
+   it is one self: the self passing over a 0 gives a 0 with the next moment, and the self one on in its facing passes over it: is
    the between self that is its own podal has its own prior, one parity, the same number with number, and inverting with the number next after the two 0s are with it: is
    with a spiral of one self, the between self receives of both +, 0, -, 0, moment with moment, Exhibit ONE Natural Resolver's own row of one self: is
    all-parity is next: with 1-now-existing, all cases of a prior and of none to three parities a self is observing, its next prior is their all-parity, the same of all or a 0 of + with -, and with a 0 its prior inverting: is
    a self of a spiral is observing of one self, and a between self of two, a self and an other: is
+   by Exhibit ONE Natural Resolver's own table of its seventeen names, a name's three is a new prefix with its name before's two, one slot on, all seventeen: is
+   17-next-existing is co-bi-tri, co with 16-next-same-existing's bi-tri, and 1-now-existing is as 17: is
 2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
    2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
    at its seam with their between, a spiral crosses a self and an other together or neither: is

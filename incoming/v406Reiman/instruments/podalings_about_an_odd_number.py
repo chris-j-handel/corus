@@ -19,6 +19,7 @@ is an average, a measuring or a statistic.
 
     python3 -I incoming/v406Reiman/instruments/podalings_about_an_odd_number.py . [--to 3720]
 """
+import re
 import sys
 from pathlib import Path
 
@@ -325,6 +326,60 @@ def a_parity_had_and_a_0_passed_over(step, q):
     return had, passed, one_0
 
 
+def a_co_parity_a_bi_parity_and_a_0(now, step, q):
+    """A spiral, a self's facing and an other's: a self's parity beside its other's, a co-parity or a bi-parity, and a 0, moment with moment."""
+    co = bi = a_0 = gives_its_next = in_turn = one_self = True
+    for facing in (1, -1):
+        society = {i: ([(S, exhibit_spiral_priors(q)[i])], []) for i in range(q)}
+        along = {(i, 9): (i + facing) % q for i in range(q)}
+        moments = []
+        for moment in range(1, 8 * q + 1):
+            before = its_priors(society, q)
+            observing = [[v for s, v in society[i][1] if s == S] for i in range(q)]
+            society = step(society, along)
+            after = its_priors(society, q)
+            its_three = []
+            for i in range(q):
+                its_other = (i - facing) % q
+                given = [v for s, v in society[(i + facing) % q][1] if s == S][0]
+                parity = observing[i][0] if observing[i] else 0
+                if given != 0:
+                    gives_its_next = gives_its_next and given == after[i]
+                if parity and parity == before[i]:
+                    its_three.append("co")
+                    co = co and given == 0 and after[i] == before[i] and before[its_other] == before[i]
+                elif parity:
+                    its_three.append("bi")
+                    bi = bi and after[i] == before[its_other] == -before[i] and given == after[i]
+                else:
+                    its_three.append("0" if observing[i] else "nothing")
+                    alone_10, alone_11 = now([(S, before[i])], [])
+                    a_0 = a_0 and given == after[i] == -before[i]
+                    a_0 = a_0 and dict(alone_10)[S] == given and dict(alone_11)[S] == after[i]
+                    if observing[i]:
+                        a_0 = a_0 and before[its_other] == before[i]
+            moments.append(its_three)
+        for m in range(2, len(moments) - 2, 2):
+            passing, giving, passing_next = moments[m], moments[m + 1], moments[m + 2]
+            in_turn = in_turn and sorted(passing) == ["0"] + ["bi"] * (q - 1)
+            in_turn = in_turn and sorted(giving) == ["bi"] * (q - 1) + ["co"]
+            one_self = one_self and passing.index("0") == giving.index("co")
+            one_self = one_self and passing_next.index("0") == (giving.index("co") + facing) % q
+    return co, bi, a_0, gives_its_next, in_turn, one_self
+
+
+def a_names_three(root, page):
+    """Exhibit ONE Natural Resolver's own table of its seventeen names, a name's three beside its name before's."""
+    text = (Path(root) / page).read_text(encoding="utf-8")
+    rows = re.findall(r"^\| (\d+) \| \*\*[^*]+\*\* \| [^|]+ \| [^|]+ \| [^|]+ \| ([a-z-]+) \|$", text, re.M)
+    three = {int(n): its_three.split("-") for n, its_three in rows}
+    if sorted(three) != list(range(1, 18)):
+        return False, False
+    one_slot_on = all(three[n][1:] == three[n - 1][:2] for n in range(2, 18))
+    of_17 = three[17] == ["co", "bi", "tri"] == three[1] and three[16][:2] == ["bi", "tri"]
+    return one_slot_on, of_17
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -384,6 +439,16 @@ if __name__ == "__main__":
     print(f"   a self of a spiral observing a parity has it as its next prior, a self's facing and an other's, all moments: {is_or_is_not(g[0])}")
     print(f"   a self observing a 0 passes over it: its next prior is its own prior inverting, of no other's parity: {is_or_is_not(g[1])}")
     print(f"   with a number one self of a spiral is observing a 0, and all its other selves a parity: {is_or_is_not(g[2])}")
+    h = [True] * 6
+    for q in odd_spirals:
+        h = [a and b for a, b in zip(h, a_co_parity_a_bi_parity_and_a_0(names["_1_now_existing"], step, q))]
+    all_is = all_is and all(h)
+    print(f"   with a bi-parity, an other's parity not its own, a self's next prior is its other's prior, its own inverting, and it gives it on: {is_or_is_not(h[1])}")
+    print(f"   with a co-parity, its own parity of its other, a self gives a 0, its prior same-existing: its prior, its other's prior and the all-parity it is observing are one parity: {is_or_is_not(h[0])}")
+    print(f"   a 0 a self passes over as a self with nothing observed: its next prior is its own inverting, by 1-now-existing with no parity, and with a 0 it is the inverse of its other's prior: {is_or_is_not(h[2])}")
+    print(f"   what a self gives with 9-next-co-discovering, a parity, is its own next prior: {is_or_is_not(h[3])}")
+    print(f"   a number's two moments, in turn: with one a self of the spiral passes over a 0, with the next a self has a co-parity, and all its other selves have a bi-parity with both: {is_or_is_not(h[4])}")
+    print(f"   it is one self: the self passing over a 0 gives a 0 with the next moment, and the self one on in its facing passes over it: {is_or_is_not(h[5])}")
     own_prior = all(one_parity_of_the_between(step, q)[0] for q in odd_spirals)
     of_one = one_parity_of_the_between(step, 1)[1][:8]
     one_self = of_one in ([1, 0, -1, 0, 1, 0, -1, 0], [-1, 0, 1, 0, -1, 0, 1, 0])
@@ -394,6 +459,10 @@ if __name__ == "__main__":
     all_is = all_is and next_rule and of_two
     print(f"   all-parity is next: with 1-now-existing, all cases of a prior and of none to three parities a self is observing, its next prior is their all-parity, the same of all or a 0 of + with -, and with a 0 its prior inverting: {is_or_is_not(next_rule)}")
     print(f"   a self of a spiral is observing of one self, and a between self of two, a self and an other: {is_or_is_not(of_two)}")
+    one_slot_on, of_17 = a_names_three(root, page)
+    all_is = all_is and one_slot_on and of_17
+    print(f"   by Exhibit ONE Natural Resolver's own table of its seventeen names, a name's three is a new prefix with its name before's two, one slot on, all seventeen: {is_or_is_not(one_slot_on)}")
+    print(f"   17-next-existing is co-bi-tri, co with 16-next-same-existing's bi-tri, and 1-now-existing is as 17: {is_or_is_not(of_17)}")
 
     print("2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it")
     print(f"   2 to {to}, a self alone and {len(odd_spirals)} odd spirals, all its numbers and all their distances gone through")
