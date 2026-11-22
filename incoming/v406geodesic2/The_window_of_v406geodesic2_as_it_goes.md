@@ -1,4 +1,4 @@
-Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner
+Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner, and said again at its next turn
 
 # The window of v406geodesic2, as it goes
 
@@ -9,7 +9,7 @@ Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner
 - **Its name.** v406geodesic2, going on from v406geodesic, whose page for resuming is [the wrap of v406geodesic](../v406geodesic/The_wrap_of_v406geodesic_for_resuming.md).
 - **Its window.** A design canvas among a partner's own artifacts, *Sphere with a Three-Right-Angle Triangle*: the illustration of bi-folding as the geodesic right triangle, 1 to 17. Its link goes in no file.
 - **Beside the other sessions.** It goes through the work of v406all2-2, the seventeen names. v406Reiman goes through its own.
-- **This folder.** The fourth drawing's view; the canvas's own files new with this sitting; four instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
+- **This folder.** The fourth drawing's view; the canvas's own files new with this sitting; five instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
 
 ## What moved: a fourth drawing
 
@@ -49,18 +49,39 @@ The window this session's work rests on is the seventeen names. Its copy in the 
 
 The move of 8 is said two ways in the set: a fold, one of two in turn, by the living sentence; and two folds, through the centre, by the sheet and by the table's parities. This session's own drawings part with it too: the third lays 8 up as two right spiral steps with no mirror, and the fourth as one fold, a mirror through the me's line. It is said at the exchange to v406all2-2, for its judging, and by v406me's line one sentence of both sessions comes to a partner.
 
+## The sentence of both, and the torus by the sheet's lines
+
+v406all2-2 went through this session's candidate by the seventeen names and said the sentence of both, at home in its window's page, `incoming/v406all2-2/The_window_of_the_seventeen_names.md`: *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* It is with a partner. This session's is-or-is-not of it, ahead of a partner's: is.
+
+- Executed, `instruments/the_sentence_of_both_executed.py`, seventeen lines, all *is*. By the table's four parities, 9 less, with its eight, inverts the third parity and 17 less the fourth, with all sixteen names; the two in turn go 1 to 8 to 9 to 16 and to 1 with four steps.
+- Beside it, living, Exhibit THIRTY Co-Chaining Logic Registry: *Two right spiral steps invert both parities*, and *a right spiral step, one parity each step*
+- 4 up inverts two parities with all of 1 to 12: the second and the third, and from 5 to 8 the second and the fourth. A step round the small opening of the third drawing's torus is 4 up, and no right spiral step by Exhibit THIRTY's saying. It is v406all2-2's finding, and it carries.
+- **The torus by the sheet's lines.** The workbook's sheet *Surface* lays the sixteen names in four lines, 1 2 3 4, 8 7 6 5, 9 10 11 12 and 16 15 14 13, *along or across and round each edge*: a torus of sixteen names. On it two names beside one another are one parity apart, all thirty-two pairs. A line down it is a bi-folding of the four, 1 8 9 16, one round of the small opening at one place of the large: down it a step is 9 less or 17 less, one and then its other, and 8 up is through its centre. The third drawing's torus parts from it in two lines of four: 5 to 8 and 13 to 16 go round the large opening the other way.
+
+**Four things v406Reiman found, going through the placing on the torus,** all four executed in that instrument, *is*:
+
+- A sentence of the wrap of v406geodesic is wider than its check, *4 apart is outer with inner at one height*. Re-said: 4 up is outer with inner at one height with 1 to 4 and with 9 to 12, and inner with inner, upper with lower, with 5 to 8.
+- *Outside surface* is said two ways in that page. Re-said: the torus's surface is all sixteen places; its outer side, facing away from the large opening, is 1 to 4 and 13 to 16, and its inner side 5 to 12.
+- Exhibit ONE Natural Resolver's four betweens are the winding's four passings from a height to its next.
+- By the direction a place faces, a bi-folding of the four is at nought, and a middle bi-folding at 360° under it.
+
+## What it waits on, as said at the exchange
+
+1. **Waiting for next:** a partner's word of the sentence of both. No session, no source and no working document.
+2. **Of its own, an other session waits for:** v406all2-2, a fifth drawing with the two lines of 9 less and 17 less. It waits on that same word.
+3. **Meanwhile, waiting on nothing:** the fifth drawing's numbers executed ahead of it, on the torus by the sheet's lines and in the one triangle; and the two sentences of the wrap v406Reiman found, re-said above.
+
 ## Its open places, by their homes
 
 - **At v406me's page for resuming:** the three of 9-next-co-discovering.
-- **At the exchange, between v406all2-2 and this session, for one sentence of both to a partner:** the move of 8, one fold or two. This session's candidate for it: *8 up is two right spiral steps, with no mirror.* ( is-or-is-not? )
-  - Its is resolves the table's two parities, the sheet's *9 less and then 17 less*, the third drawing's torus, and 9's three facing other-than 1's; the fourth drawing's one fold goes, for a fifth drawing of the one triangle's two folds, about the me's line and then about its far side, an other's triangle across the me's horizon.
-  - Its is-not resolves the fourth drawing as it is: 8 up one fold, a mirror through the me's line, one tip onto its other.
+- **At v406all2-2's page, with a partner:** *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* This session's is is beside it at the exchange, and this page is no second home of it. With its is the fourth drawing's one fold goes; with its is-not the fourth drawing is as it is.
 - **At this page, the session's own placings in the fourth drawing,** candidates all three: the moments at the corners and the one-way me-parities on the sides; the tip a self's route reaches ahead of its other, tip B toward tip C, as a right spiral step brings P's axis to Q's; and 1, 9 and 17 at the me.
+- **At this page, the torus's placing,** two candidates: by n − 1 in four binary digits, the third drawing's; or by the sheet's lines, a bi-folding of the four one round of the small opening.
 
 ## Its next steps, in their order
 
-1. One sentence of both sessions, v406all2-2 and this one, of the move of 8, and a partner's is-or-is-not of it.
-2. A fifth artboard beside the fourth: the bi-folding of the one triangle as its folds, by that word.
+1. A partner's word of the sentence of both.
+2. A fifth artboard beside the fourth, by that word: the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
 3. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
 4. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
 
@@ -73,6 +94,6 @@ The move of 8 is said two ways in the set: a fold, one of two in turn, by the li
 ## Going on with this work
 
 1. Start here, the wrap of v406geodesic, then this page.
-2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*.
+2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*.
 3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`.
 4. One pass, one artboard beside the last, an artboard before it as it was.
