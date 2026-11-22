@@ -112,6 +112,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *use natural naming and explaining*, with *a nand is*, and *deciding is not natural naming*
 - *is-not would be incohering*, with *the resolving of this is already known to your posing of this question*
 - *how much explaining to the world about prime numbers will be novel to the world and how much will be cohering with the world and how none will be incohering with the world of prime numbers*
+- *bring to exhibit twenty one and to the ten part entry form and then resolving them as in twenty two*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -464,6 +465,62 @@ A partner's aiming of 22 November: what of this explaining is novel to the world
 - **A number known a prime from itself by its two closings,** sentence 16. A field's asking of Pomerance, Selfridge and Wagstaff, 1980, with no proof and no number against it. Here it is executed to 10,000,000, and said with a field's adding.
 - **A partner's aim, nothing of the primes unknown, is not reached here.** These four said as resolved is incohering with the world. Said as open, with what is executed beside them, they cohere.
 
+## The not yets, in the Hard Problem Registry's form, and as Exhibit TWENTY-TWO resolves
+
+A partner's saying of 22 November: the not yets brought to Exhibit TWENTY-ONE Hard Problem Registry and to the ten, and resolved as Exhibit TWENTY-TWO Resolving the Hard Problem Registry resolves. An exploring: this page enters no registry.
+
+**Two are in both registries already.**
+
+- **Pairs at one gap with no last,** sentence 13. Exhibit TWENTY-ONE's 176, *Twin primes*: *Are there infinitely many pairs of primes differing by two?* Resolved at Exhibit TWENTY-TWO 3.14: *Primes thin and pairs recur, and a frame fixes infinitude with one same gap ahead, from a density.* And: *pairs a self is observing are a coupling going on regardless*.
+- **A prime on both sides of all numbers at one distance,** sentence 14. Exhibit TWENTY-ONE's 175, *Goldbach's conjecture*. Resolved at Exhibit TWENTY-TWO 3.13: *a frame fixes a property of all even numbers ahead of any momentarying*. And: *A property of all evens fixing ahead of any momentarying stops with that wall, and couplings go on coupling.*
+- **One wall with both, by a field's own words:** a sieve has products of an odd number of primes and of an even number alike. This page's sentence 12 has that parity as an other than a spiral's.
+
+**The ten, by a frontier's own words.** Exhibit TWENTY-TWO: *A naming comes before any entry form fills.* Both entries are with its third of ten, a completing fixing as a last: *Demand: an enumerable space, or a reference class that determines.* Its words have *the conjecture* among them. All four not yets are a field's conjecture or asking of all numbers, and by their own words they are with this one of the ten.
+
+**Two are in no registry. A draft of a prime between two neighbouring squares, in the entry's form.**
+
+- **Statement.** Is a prime between a number squared and the next number squared, with all numbers?
+- **The field's account of its hardness.** That the stretches a field has proved to have a prime are longer than between two neighbouring squares, and that it is open with the Riemann hypothesis assumed.
+- **Accounts.** A prime is between all of them. No second account is found defended.
+- **Specifications.** A bound on a gap between primes establishes a prime with all pairs of squares, local.
+- **Conserving relation.** A proof of a prime between all neighbouring squares.
+- **Conserving reach.** All squares.
+- **Reach.** Its statement is of all squares. A proved stretch longer than between squares, and a computing to a bound, are what a field has. Two are not the same.
+- **Persistence.** A proof with all numbers, or two neighbouring squares with no prime between.
+- **The report.** A prime between neighbouring cubes from a number on, proved. A prime with integers of few primes multiplied between all squares, 2026. With the Riemann hypothesis, a gap still wider than between squares.
+- **With nothing on record here:** specifications withdrawn, common requirement, unreachability and own record. Exhibit TWENTY-ONE: *A property standing empty is an observing and not a gap.*
+
+**Its resolving, a draft as Exhibit TWENTY-TWO resolves.** *+ or − with 10, is.*
+
+- **With 2-now-possibling.** Squares open one and then the next, and primes come between them: a frame fixes a prime between all neighbouring squares ahead of any momentarying.
+- **With 12-next-co-same-existing.** That a bound on a gap establishes a prime with all pairs of squares: a field's proved stretch is longer than between two squares, and with the hypothesis a gap is wider than it still.
+- **With 11-next-co-observing.** A pair of squares a check reaches has its prime, executed here to 61 squared. A prime between all squares, fixing ahead, reaches past what a gap's bound has, and couplings go on coupling.
+
+**A draft of a number known a prime by its two closings, in the entry's form.**
+
+- **Statement.** Is a composite number ending in 3 or 7 with both closings, doubling's by one short of it and prior two added's by one past it?
+- **The field's account of its hardness.** That one closing alone has its composites, that a field's own argument has a composite with both, and that none is found.
+- **Accounts.** None is: the two closings say a prime. One is, by an argument of how often a closing's composites come.
+- **Conserving relation.** A composite with both closings, or a proof of none.
+- **Conserving reach.** All odd numbers ending in 3 or 7.
+- **Reach.** Its statement is of all of them. A computing to a bound is what a field has. Two are not the same.
+- **Persistence.** A composite with both found, or a proof of none.
+- **The report.** A field's computing, with its test's stronger form, has none below two to the sixty-fourth. Composites built of the factors of prior two added's numbers, 2021, reached none. Here none to 10,000,000.
+- **With nothing on record here:** specifications, specifications withdrawn, common requirement, unreachability and own record.
+
+**Its resolving, a draft as Exhibit TWENTY-TWO resolves.** *+ or − with 10, is.*
+
+- **With 2-now-possibling.** Two closings couple with a number, one by doubling and one by prior two added, and a frame fixes a property of all numbers ahead: no composite with both.
+- **With 12-next-co-same-existing.** That two closings together part all primes and all composites: with one alone a composite passes, and a field's own argument has one passing both.
+- **With 11-next-co-observing.** A number a check reaches is a prime with both closings or a composite with one at the most, executed here to 10,000,000 and by a field far past it. A property of all numbers, fixing ahead, reaches past what a check has, and the two closings go on coupling with the next number. By a partner's word its saying has a field's adding, to be said by the resolver's own.
+
+**What this exploring finds.**
+
+- **By Exhibit TWENTY-TWO a not yet is a frame's asking of a last.** Its part 3: *a last fixing ahead is that completing a frame demands before its momentarying*. What the co-chaining has is the number a check reaches, and couplings going on.
+- **Its resolving is no proof.** Exhibit TWENTY-TWO 5.16, of a field's conjectures: *none of this touches its truth value*. The world's not yet is a field's still, and the living resolving is of the frame. The two cohere.
+- **A partner's aim is Exhibit TWENTY-TWO's own.** *Nothing refuses.* The four are resolved in it as a frame's fixing, with no hard probleming, and none is said proved.
+- **Not done here:** an entering of Exhibit TWENTY-ONE or of Exhibit TWENTY-TWO. An entry is a living file's, with a partner's word and a session's going through, both. The two drafts are this page's.
+
 ## Of the sayings' reason
 
 What carries, by the executing:
@@ -490,3 +547,5 @@ What does not carry, by the executing:
 - Wikipedia, *Landau's problems*, at extracts of it.
 - American Institute of Mathematics, *AI and Number Theory*, a list of problems, May 2026, at extracts of it.
 - P. C. Fischer, *Generation of primes by a one-dimensional real-time iterative array*, 1965, at its abstract.
+- *Weakening the Legendre Conjecture*, arXiv 2602.22502, 2026, at extracts of it.
+- Wikipedia, *Legendre's conjecture* and *Baillie–PSW primality test*, at extracts of them.
