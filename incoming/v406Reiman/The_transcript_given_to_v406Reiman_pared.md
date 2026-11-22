@@ -601,5 +601,13 @@ i asked you for the most valuable unknowns and i can not see this
 
 every one of these is answerable by the 1-17 natural resolver as a fractal method. place the 0 of this on any number and begin exploring the multiplying across and adding along surface and every question of this is answerable. the reason is the primes are living and math is dead and logic is rule based and neither is living and discovering from priors. explore a paper on this for us
 
-[This session's turn of 22 November: the paper explored, A number by its spirals, the window's second tab, its copy beside this page. Its closing words to a partner come here with the next laying.]
+[This session's turn of 22 November: the paper explored, A number by its spirals, the window's second tab, its copy beside this page. Its closing words, in brief: the saying carries at a number, from priors, and does not carry without end; no shorter way appeared; the spiral of two did not go with the one pace; and one sentence for a partner's word, An asking of the primes at a number, from priors, is answerable, and the same asking without end is an other asking.]
+
+asking is not natural explaining. behind the asking is a needed logical co chaining.
+
+we are going to need all the co-chaining logic to answer all the valuable prime questions. this is our aiming for this session. we can do this by your organizing the logic needed to answer all the questions from the 1-17 resolver. all the missing logic is going to come one is-or-is-not? natural naming and explaining written by you statement that would be needed and is not yet co-chainng or cohering and needs a suggesting. this is our geodesic method of explroing and discovering and this is the primes are on the natural surface of phi unrelationing as method where the multipling and adding are combining in right spiral co-sequencing.
+
+continue do no harm improving our primes report
+
+[This session's second turn of 22 November: the primes report written anew, the co-chaining a prime rests on organized in it, sixteen sentences with their is-or-is-not. Its closing words to a partner come here with the next laying.]
 ```
