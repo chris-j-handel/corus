@@ -348,3 +348,19 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    two adjacent faces of the cube turning in turn are again with one hundred five, three, five and seven multiplied, its rounds of three, of seven and of fifteen: is
 All is.
 ```
+
+## `the_resolver_with_nand_alone.py`, executed on 22 November
+
+```text
+1. Its own lines
+   a cell and its three, other-than, both and either, have no deciding in their lines but nand: no and, no or, no not, no if and no comparing: is
+2. A cell, case with case, beside 1-now-existing as it is
+   a prior +, a prior - and no prior, with none to four observed of +, - and 0, 363 cases: its giving and its next prior are the living code's: is
+3. Societies, moment with moment, beside 17-next-existing as it is
+   spirals of 1 to 59 selves, as Exhibit ONE Natural Resolver opens them, four times their number of moments and four more: the same society, moment with moment: is
+   tori of 3 by 5, 5 by 7, 4 by 6 and 7 by 11 selves, 9 along and 10 across: the same society, moment with moment: is
+   a self and an other facing, with one between of no prior, spirals of 3, 5, 7, 11 and 13: the same priors and the same observed, a 0 passed over, moment with moment: is
+4. The surface, a self alone and the odd spirals side by side
+   2 to 1000: the same uncrossed numbers, 168 primes, and the same seams of all the spirals: is
+All is.
+```
