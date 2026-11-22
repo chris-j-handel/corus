@@ -254,3 +254,47 @@ all: is (14 of 14)
 
 All is.
 ```
+
+## `check_one_triangle.py` and `check_the_co-linear_and_its_two_cones.py`, of v406geodesic2, executed here
+
+The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says them, their last lines:
+
+```text
+24 of 24 are is
+21 of 21 are is
+```
+
+## `podalings_about_an_odd_number.py`, executed on 22 November
+
+```text
+1. A self and an other from their between, with Exhibit ONE Natural Resolver's code as it is
+   16 odd spirals, 3 to 59 selves, a spiral alone; a turn of betweens, and a turn of distances from a between
+   an other, going the spiral its other way from a between, is as the spiral was with the number as far short of the between; a self, going on, as the number as far past it: is
+   from a between at the spiral's seam, a self and an other are at the seam together or neither; from a between off it, never together: is
+   a spiral at a number has one like pair: is · one fold through the between's own like pair exchanges a self and an other, at all distances: is
+   the between self on the fold's line receives the same from a self and from an other, at all distances, and never a parting: is
+2. The surface, all spirals side by side: a between, a number, with a self and an other at one distance from it
+   2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
+   at its seam with their between, a spiral crosses a self and an other together or neither: is
+   off its seam with their between, a spiral crosses one of the two and never both: is
+   of one turn of a spiral's distances, all but one are with neither crossed at its seam, and all but two off it: is
+   the self alone, two, crosses a self and an other together or neither, with all betweens: is
+3. An odd number a between, by the surface's uncrossed numbers and its seams alone
+   a five opening with an odd number: three odd numbers and two even, and of its three odd numbers one is at three's seam: is
+   a five above 3 has two uncrossed at the most, two apart or four apart: is
+   a 1 to 17 with its 9 on an odd number, the between: its odd names two and two about 9 are four podal pairs, a self and an other at 2, 4, 6 and 8
+   three, at its seam with the between, crosses neither of the two at 2, 4 and 8, and both at 6: is
+   three, off its seam, crosses one of the two at 2, at 4 and at 8, and neither at 6: is
+   five, at its seam with the between, crosses neither of the two at all four: is
+   five, off its seam, crosses one of the two at two of the four, and neither at its other two: is
+   with 2 and 4 both living, the between is at the seam of three and of five: is · found: 15, 105, 195, 825, 1485, 1875, 2085, 3255, 3465
+   with 2, 4 and 8 all living, six primes with one between: found 15 and 105, at the seam of three and of five: is
+   with a prime the between, a living podal pair of its 1 to 17 is at 6 and at no other: is
+   primes with it living at 6, from 17 on: 17, 23, 37, 47, 53, 67 · and with none: 19, 29, 31, 41, 43, 59
+   a between off three's seam, and one past or one short of five's seam, has no living podal pair in its 1 to 17: is
+   a number, 4 to 1860, is the between of a self and an other both uncrossed, found stepping outward from it: is
+4. By numbers' own arithmetic, with no resolver in it
+   a closed turn of three, five and seven: the pairs uncrossed by all three are a spiral's places less one at its seam and less two off it, multiplied: is
+   with an odd between, a closed turn has a pair uncrossed by all three, never none: is
+All is.
+```
