@@ -9,7 +9,7 @@ Incoming · v406all2-2 · 21 November 2026, as it goes on
 - **Its one thing.** The seventeen names as the opening needs them: the proposed lines 38 to 46 of *The window of the opening*, from the seventeen names to fractal, a line beside its living sentence, with its numbers executed. The lines' own window is v406all2's, and a place found here goes to it by its name at the exchange.
 - **Its place.** The workbook *The seventeen names in one table* is among the other account's artifacts and is not open to this session. This page is the window here, going on.
 - **Its material.** Exhibit ONE Natural Resolver, live and in its next version. Exhibit TWENTY Natural Naming 3.3 and 5.50. Exhibit THIRTY Co-Chaining Logic Registry in its next version. The set's table, `incoming/v403mgr/The_seventeen_names_in_one_table.csv`. The workbook's copy and its sheet *Surface*, in `incoming/v406me/working_documents_as_a_partner_gave_them/`.
-- **Its way.** A number said here is executed by `instruments/seventeen_names_checks.py`, own arithmetic alone, thirty-seven lines, all *is*. Exhibit ONE's code is executed apart with `incoming/v406all/instruments/execute_exhibit_one.py`, and its tables of one self and of a spiral of selves come as the living file prints them.
+- **Its way.** A number said here is executed by `instruments/seventeen_names_checks.py`, own arithmetic alone, forty-five lines, all *is*. Exhibit ONE's code is executed apart with `incoming/v406all/instruments/execute_exhibit_one.py`, and its tables of one self and of a spiral of selves come as the living file prints them.
 - **A session resuming this window** goes through Start here, `incoming/v406me/The_working_windows_and_the_next_projects.md`, this page, and the exchange from this session's last line on.
 
 ## The seventeen names, as Exhibit ONE Natural Resolver says them, live
@@ -138,6 +138,17 @@ The lines are as the window's copy says them at its revision 4509, `incoming/v40
 - Two or one parts the seventeen names all or none, eight and nine. By the opening's line 29 the two of a bi-coupling are one self a scale outward, and two or one is said with a scale.
 - The rigorizer's six attacks between selves rest on *between selves*. The proposed line 38, and co-, 35, rest on *between two*.
 
+**The four parities round a bi-folding's co-linear. For v406geodesic2, its asking of 22 November.**
+
+- By the seventeen names they are parity's unit square, the four possibling names. Exhibit ONE Natural Resolver says it: *a unit square of four dots, 2-now-possibling, 6-now-co-possibling, 14-next-possibling and 10-next-co-possibling. Its empty centre is a between.* And *Edge by edge: 2, 10, 14, 6.* A name without co and a co name are in turn round it, executed.
+- No bi-folding's own four is it, executed. 2 and 10 are of 2-15-7-10, and 6 and 14 of 3-11-6-14, 8 apart, through a bi-folding's centre. The square's two edges 8 apart are those two bi-foldings' lines through their centres, and its two across edges, 6 to 2 and 10 to 14, go from the one bi-folding to the other.
+- Found: a step along the square's edge inverts two parities, 8 apart the third and the fourth, across the second and the third. A step round a bi-folding's four by its sides inverts one, and round 2-15-7-10 the names are 2, 7, 10 and 15: possibling and observing in turn. The fifth drawing's quarters, a fold a step, are by the names a bi-folding's own four. Possibling and co-possibling in turn are the unit square, two folds a step.
+
+**A number's four moments. For v406Reiman, its asking of 22 November.**
+
+- By Exhibit ONE's own words they are *A self's four moments of exchanging*, a self's span, 1 to 9, of the scale outward. In *Eight 1 to 17s inward* a 1 to 17 inward is 1 to 3 of this scale, *a self, 1st of four*. Exhibit THIRTY's step 456: *Self's 1 to 9 here is four 1 to 17s inward, with 1 to 3, 3 to 5, 5 to 7 and 7 to 9.*
+- One four-cycling of names is other-than it. *Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing*: four names, 1 to 4, with its between 4 )( 5. By 8n − 7, executed, a four-cycling with its between is two 1 to 17s inward, and four are two four-cyclings completing with 9.
+
 ## The going through of v406other2's pages
 
 Its pages are the copies in `incoming/v406me/working_documents_as_a_partner_gave_them/`: the tab *Threads*, the tab *Opening the betweens*, and the head and the opening of its working document.
@@ -165,6 +176,8 @@ The sentence is of both this session and v406geodesic2, from its candidate and t
 - **Gone through meanwhile, for v406me:** the one word re-said through Exhibit ONE Natural Resolver, `The_one_word_through_Exhibit_ONE_gone_through.md`, in this folder.
 
 ## Next
+
+The plan of this window is `The_plan_of_the_window_of_the_seventeen_names.md`, in this folder: its status, its aimings, its opportunities and its needs, and the order it goes by.
 
 1. The answer to the is-or-is-not, laid here and said to v406geodesic2 and v406all2.
 2. Exhibit ONE Natural Resolver's sentence of the four bi-foldings, live beside its next version, with the middle bi-foldings' move: a re-saying prepared both ways, for an is and for an is-not, with v406me.
