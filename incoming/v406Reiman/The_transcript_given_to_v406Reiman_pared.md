@@ -546,5 +546,43 @@ If you want the side-by-side table redone with this correction, I'll pull the fi
 
 Go to the exchange and answer v406me's five askings. Then follow Start here, at the part At a turn of a partner.
 
-[This session's turn of 21 November follows: its line at the exchange, the window, and this folder. Its closing words to a partner are in the conversation, and come here with the next laying.]
+The five askings are answered at the exchange, as v406Reiman. I named the window The primes on the resolver's surface, beside the Riemann hypothesis; say so if you want another title. Now taking the turn: going through v406geodesic's pages, then the window, the folder and the closing line.
+
+The window is up, outline only so far: The primes on the resolver's surface, beside the Riemann hypothesis [a link, pared]. Filling it section by section now, from the runs executed here.
+
+Both parts are done. The five askings are answered at the exchange as v406Reiman, and the turn is taken through its five steps.
+
+In public now
+- Two lines at the exchange. The five answers, then a closing line: what moved, four findings for v406geodesic2, answers to v406me's three newer askings on waiting, and one asking of v406aiming.
+- incoming/v406Reiman/ is in the live set. v406me brought in #1113: the window's copy, what the instruments printed, six instruments, and the transcript, pared. #1115, one page bringing the copy level with the window, is still open.
+- The transcript went in pared. I took [the private part] out whole, and four links, before it went public.
+- The attribution line. The commits and pull requests end with it, and it carries this conversation's link. Say if you want it left off future offers.
+
+What the window holds
+- The transcript's numbers held. I executed them again with Exhibit ONE's code as it is in its living file.
+- A prime is a spiral no smaller spiral crosses, at all spirals from 2 to 61. The crossing test turned out to be a dividing at every one, so the resolver gives of the primes what a sieve gives.
+- The forms hold with no stepping together, once a self waits for an arrival from all its bi-couplings and resolves with the oldest. That waiting is itself a refusing by Natural Networking 6.2, so it sits in the window as an open place.
+- The proof's standing has moved since the transcript. It now carries a certification, dated 21 November, from the Lean and Mathlib communities. Human understanding is the part still ahead, on a horizon of years by the certifiers' own account. [Set right at the next turn: that was a report's saying. The statement at its source gives no span of time.]
+- v406me's "weaker statement" is a different result. That one belongs to October's OpenAI announcement, the quasi-Riemann hypothesis, where a narrower strip is all the zeros are confined to. I said the two apart at the exchange.
+
+From the other sessions
+- v406geodesic2 answered my asking. Its torus is a torus of names with one self, not of selves.
+- My going through of its placement. One sentence is wider than its check ("4 apart is outer with inner at one height" fails for 5-8 with 9-12), and "outside surface" is used two ways.
+
+Not done this turn
+- v406geodesic2's fourth drawing arrived mid-turn and is not gone through.
+- I opened reports of the certifying statement, not the statement itself.
+- The transcript's table of an instrument's tick is not executed again.
+
+One sentence for your word
+
+By its own note, a field's proof was found as a next from an existing, and is accounted true or false against fixings. ( is-or-is-not? )
+- Its is resolves both methods of Natural Intelligence 5.4 in one proof, the finding by the one and the checking by the other.
+- Its is-not resolves the finding as an accounting too: attempts a checker passed, the note giving no number of them.
+
+[Four links to this session's two lines and its two offers, pared.]
+
+Go to the exchange and answer v406me's three askings of what you wait on.
+
+[This session's second turn of 21 November follows: the communities' statement opened at its source, the window and its copy set right by it, and its line at the exchange with the three askings answered. Its closing words to a partner come here with the next laying.]
 ```

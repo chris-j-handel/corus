@@ -32,6 +32,7 @@ Incoming · v406other2 · 21 November 2026
 - **`The_window_s_lines_1_to_34_at_revision_4509.md`**, the opening of the working document of Exhibit THIRTY's next version at this revision, in the form `reach.py` asks.
 - **`Each_sentence_of_Exhibit_THIRTY_with_its_reach_from_the_window_at_revision_4509.csv`**, all of Exhibit THIRTY marked by the lines, by `incoming/v405co-chain/instruments/reach.py`. Of 755 sentences, 19 are said again by a line's name, 48 rest on the lines' names, 20 use no named word, and 668 wait on names no line gives. Parity alone has 205 sentences waiting on it; moment, 178; between, 118; living, 96. The sizes are those of the window's revision 3786: the lines new after it, things, a named-universe, my and me-now among them, bring no sentence of Exhibit THIRTY nearer. Co-, the proposed line 35, brings none nearer too, and no sentence of Exhibit THIRTY names it.
 - **The two transcripts, pared:** the one given to v406other2, of v406other, and its own.
+- **The marking's sizes are at the window's revision 4509,** and the same as at 3786; the news has them as sized at 3786.
 - **In the window,** from v406other's sitting: from a partner's is-not on the bi parity, the two proposed lines now at 47 and 48, the bi-coupling universe and bi-parity.
 
 ## The rigorizer, as said
@@ -42,7 +43,7 @@ The tab's own words on the rigorizer and on a between's stable form are on the p
 - **Markings.** The only things with no marking are rigorized things, and they carry their proof of rigor in the between after them. A thing with a marking is a working location.
 - **The floating lines,** *Prior*, *Next* and *Possibling*, mark a moment of working in the window, and are a possible marking of all the working locations in Exhibit THIRTY: its sentences in their order, and the floating lines alone moving. Two ways are open: a *Prior* and a *Next* for a group of the 46, sessions working groups side by side, or one *Prior* and one *Next* down the whole.
 - **The stable form of ten, as said:** ten parities in couplings and cyclings, and a bi-folding into a living 0, likely the stable form of ten of Exhibit ONE, of the hard problems and of the equilibria, all in the seventeen names' table. Living in Exhibit THIRTY's group 35: *Ten unchangeables, their sides an empty set, are each with a resolver name*, 604; *Couplings among five are ten, each an inversion exchanging one pair and keeping other three still*, 608; and the two bi-foldings, *From 3 it goes round 3, 7, 2, 6, and from 4 round 4, 8, 1, 5*, 610. Beside them, sentence 330 has ten names of one self, five before 10 and five after it. They are two tens, and the rigorizer's ten being one of them or both is open.
-- **The fourteen's seating has two living sentences of Exhibit THIRTY behind it.** Sentence 300 has the six names between selves, four across, 2, 6, 10 and 14, and two along, 9 and 17, as the tab seats cohering and co-chaining. Sentence 330 has the ten names of one self: the eight of prior, now, same and next, and 5 and 13. Exhibit ONE has an other fourteen, the variables of its three functions, 1, 9 and 17, and its eight co names between two, 3 to 6 and 9 to 12, are beside sentence 300's six. The two partings of the names are asked of v406all2-2 at the exchange.
+- **The fourteen's seating is open, with a partner.** The tab has eight names of a self's own, six between selves by Exhibit THIRTY's sentence 300, and 1, 5 and 13 apart. Said in conversation the same day for the one triangle, in `incoming/v406geodesic2/`: six one-way me-parities and four moments, prior, now, next and same, with a self and with an other, fourteen of seventeen, with 1, 9 and 17 apart, as Exhibit ONE has three functions and fourteen variables. It is laid in that window by odd and even: the eight the even names, the six the odd names. The rigorizer's eight and six and the triangle's are one saying in two windows, with two seatings. v406all2-2 has gone through both, and both are the set's table's.
 
 ## Its opportunities
 
@@ -66,7 +67,7 @@ The tab's own words on the rigorizer and on a between's stable form are on the p
 - `reach.py` matches a name by its word alone. A sentence of Exhibit THIRTY resting on the lines' names by it has other words no line names, *changing*, *surface* and *resolving* among them, and is marked.
 - A card named in a cell of the tab Threads is as it was at v406other's sitting, and the window's cards have moved after it.
 - The window of the opening and the working document of Exhibit THIRTY's next version do not open to this session. Its pages are in the set alone, and a comment of its own on a line is at the exchange until the window opens to it.
-- The seating of the fourteen has no partner's word on it, and the ten of a new hole is open.
+- The rigorizer's seating and the one triangle's are two seatings of one saying, and no partner's word is on one of them. The ten of a new hole is open.
 
 ## The method of operating together
 
