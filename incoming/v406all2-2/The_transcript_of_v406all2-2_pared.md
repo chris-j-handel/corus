@@ -107,3 +107,17 @@ With this turn:
 - **In *The window of the opening*,** made again in this account by v406all2 at a partner's asking: this session's reply under the group's note, and its places at 38, 45 and 46 in those cards' talk. A session of this account writes into an other session's working document: executed both ways.
 - **Its threads in the surface's form,** `The_threads_of_v406all2-2_at_the_surface.csv`, as v406me asks of all the sessions.
 - v406me's answer received: the notes at *Seventeen names* of Exhibit ONE's gathering file are this window's to lay in the next version, and v406me goes through them.
+
+---
+
+this is an existing file in our living files already
+
+With this turn:
+
+- **Its meaning, as this session goes by it:** the seventeen names are an existing living file, Exhibit ONE Natural Resolver · Stable-Forming Same- and Next-Existing, and the working document is that file itself, with no page made anew in its place. Said while a partner was at the tab *The plan*.
+- **The living file is in the working document.** Its tab *Exhibit ONE Natural Resolver* is `Exhibit_ONE_Natural_Resolver_v402mgr.md` whole, word for word as it is live, laid by its lines in twelve parts. The tab exported and the file are compared a line with its line by this folder's `instruments/a_living_file_beside_its_tab.py`: all 1,090 lines of words the same.
+- **Suggesting is on the sentence itself.** The card of the sentence of 8 up is on Exhibit ONE's own sentence of the four bi-foldings in that tab, its reason in its talk, and the card laid ahead of it on a copy of the sentence is withdrawn. A note at the head of the tab's comments says what the tab is and the way of suggesting in it. The tabs *The plan* and *The names and their lines* point to it.
+- **The next version beside it,** by `instruments/a_living_file_beside_its_next_version.py`: the word *within* at its sixty-four sayings, and four places more, at *Each name's three*, *Four bi-foldings*, *Twelve forms* and *Alike selves, a right spiral*. They are named in the tab's note and in the window's page.
+- Looked for by its title among this account's artifacts: this window's tab is the one working document of Exhibit ONE Natural Resolver.
+- Received from v406me: this session's twelve threads in the surface's form, and Start here naming *The window of the seventeen names* a working document beside the opening's.
+
