@@ -302,6 +302,29 @@ def a_0_and_its_next(step, q):
     return a_self_it_is, one_self_on, in_turn
 
 
+def a_parity_had_and_a_0_passed_over(step, q):
+    """A spiral, a self's facing and an other's: a self's next prior beside what it is observing, moment with moment."""
+    had = passed = one_0 = True
+    for facing in (1, -1):
+        society = {i: ([(S, exhibit_spiral_priors(q)[i])], []) for i in range(q)}
+        along = {(i, 9): (i + facing) % q for i in range(q)}
+        for k in range(q + 1, 3 * q + 3):
+            for moment in (1, 2):
+                before = its_priors(society, q)
+                observing = [[v for s, v in society[i][1] if s == S] for i in range(q)]
+                society = step(society, along)
+                after = its_priors(society, q)
+                for i in range(q):
+                    parity = observing[i][0] if observing[i] else 0
+                    if parity:
+                        had = had and after[i] == parity
+                    else:
+                        passed = passed and after[i] == -before[i]
+            now = [[v for s, v in society[i][1] if s == S] for i in range(q)]
+            one_0 = one_0 and sorted(abs(v[0]) for v in now) == [0] + [1] * (q - 1)
+    return had, passed, one_0
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -354,6 +377,13 @@ if __name__ == "__main__":
     print(f"   a spiral's 0 is a self: with a number one self of it gives a 0, the self of its pair of one parity it is facing with, a self's facing and an other's: {is_or_is_not(f[0])}")
     print(f"   with the next number the 0 is one self on, in its own facing: {is_or_is_not(f[1])}")
     print(f"   the self next of the 0, in its facing, gives + with an even number and - with an odd number, + and - in turn: {is_or_is_not(f[2])}")
+    g = [True] * 3
+    for q in odd_spirals:
+        g = [a and b for a, b in zip(g, a_parity_had_and_a_0_passed_over(step, q))]
+    all_is = all_is and all(g)
+    print(f"   a self of a spiral observing a parity has it as its next prior, a self's facing and an other's, all moments: {is_or_is_not(g[0])}")
+    print(f"   a self observing a 0 passes over it: its next prior is its own prior inverting, of no other's parity: {is_or_is_not(g[1])}")
+    print(f"   with a number one self of a spiral is observing a 0, and all its other selves a parity: {is_or_is_not(g[2])}")
     own_prior = all(one_parity_of_the_between(step, q)[0] for q in odd_spirals)
     of_one = one_parity_of_the_between(step, 1)[1][:8]
     one_self = of_one in ([1, 0, -1, 0, 1, 0, -1, 0], [-1, 0, 1, 0, -1, 0, 1, 0])

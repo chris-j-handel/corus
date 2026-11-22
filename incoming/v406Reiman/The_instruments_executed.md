@@ -286,6 +286,9 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    a spiral's 0 is a self: with a number one self of it gives a 0, the self of its pair of one parity it is facing with, a self's facing and an other's: is
    with the next number the 0 is one self on, in its own facing: is
    the self next of the 0, in its facing, gives + with an even number and - with an odd number, + and - in turn: is
+   a self of a spiral observing a parity has it as its next prior, a self's facing and an other's, all moments: is
+   a self observing a 0 passes over it: its next prior is its own prior inverting, of no other's parity: is
+   with a number one self of a spiral is observing a 0, and all its other selves a parity: is
    the between self that is its own podal has its own prior, one parity, the same number with number, and inverting with the number next after the two 0s are with it: is
    with a spiral of one self, the between self receives of both +, 0, -, 0, moment with moment, Exhibit ONE Natural Resolver's own row of one self: is
    all-parity is next: with 1-now-existing, all cases of a prior and of none to three parities a self is observing, its next prior is their all-parity, the same of all or a 0 of + with -, and with a 0 its prior inverting: is
