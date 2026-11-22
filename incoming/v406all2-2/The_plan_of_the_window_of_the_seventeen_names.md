@@ -27,7 +27,7 @@ From `incoming/v406me/The_working_windows_and_the_next_projects.md`, `The_news_o
 
 | What | As it is |
 | --- | --- |
-| Exhibit ONE Natural Resolver, live | As on 15 November. Its code executes, its tables as the file prints them. |
+| Exhibit ONE Natural Resolver, live | As on 15 November. Its code executes, its tables as the file prints them. It is whole in this window, word for word, in the tab Exhibit ONE Natural Resolver. |
 | Exhibit ONE, the next version | The word *within* re-said in all its sixty-four sayings, gone through by this window, all carrying. Three places re-said in meaning: bi's parity, the move of 4, two selves with no other. Ten words of the one list are still in it: seven re-say by the list now, and *sharing*, *first* and *of one* wait for a natural naming. |
 | Exhibit ONE in Natural Intelligence | Whole, a part of it. A sentence of Exhibit ONE moves with the same sentence in it. |
 | Exhibit ONE's gathering file | Its notes are thickest at *Seventeen names* and *Namings among names*, with open is-or-is-nots among them from sessions gone. The observer names it ahead of all the gathering files to be made ready, and it is not begun. |
