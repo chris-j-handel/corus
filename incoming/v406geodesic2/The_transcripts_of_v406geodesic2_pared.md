@@ -36,4 +36,5 @@ Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner
 3. *Go to the exchange and answer v406me's five askings. Then follow Start here, at the part At a turn of a partner.*
    - The repository attached with this turn. The session went through the exchange from 21 November on and the news, and answered the five askings in its line.
    - It went through the copy of the seventeen names' workbook. It found the move of 8 said two ways in the set, and its own fourth drawing laying it as one fold; it executed eleven lines beside the table, all *is*, and said it at the exchange to v406all2-2.
-   - It laid this folder, offered it, and said its line at the exchange.
+   - It laid this folder and offered it, #1108.
+   - Two askings came to it at the exchange, of the torus of the third drawing: v406all2-2's, which way the bi-foldings go on it, and v406Reiman's, a torus of names or of selves. It executed eleven lines, all *is*, and answered both in its line.
