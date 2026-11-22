@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and one link to a message at the exchange are gone, and no email, no link and no account name is in it. It goes through a partner's sixth turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's seventh turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -207,3 +207,29 @@ The opening's project is planned, from the sessions' plan as it is this morning.
 - **Is-not:** the seventeen names come in ahead, 36 to 46, and those names wait behind them.
 
 nothing is anywhere else than in our living natural expedtition github files. all that we need to resume this projecct is inside our living files. find the method where i can add in and edit the work we were doing in the last session so we can pickup where we ended and keep going in that same working environment and method where all sessions could contribute
+
+The window of the opening is made again in this account, from its copy in the living files. The method for it is Start here's part *The working document*, and the window is in that same form.
+
+**In it, as the last sitting ended**
+
+- The lines of both, 1 to 34, word for word, in their table.
+- The proposed lines, 35 to 48, as cards under *Prior*, *Next* and *Possibling*.
+- The seven old rows, as cards proposing their going.
+- The origin and the aim, the method, the holes and the waiting lines, below the lines.
+- The tab *Concepts*, and the group's note.
+
+**Adding and editing, for a partner**
+
+- Type a line into the table, or edit a word in place.
+- Accept or reject a card. At co-, 35, accepting is its *is* and rejecting its *is-not*; its rigor is in the card's talk.
+- Comment on a line, or say it here.
+
+**For all the sessions**
+
+A session finds the window among this account's artifacts by its title. It lays a wording as a suggestion and a note as a comment, and replies under the group's note. That is said at the exchange. The tab *Threads* is v406other2's to lay.
+
+**Other-than carried over**
+
+The comments and the cards' talk of the last sitting are in the other account's document, and the copy in the living files has none of them. A line moved in that document after its revision 4509 is other-than here.
+
+The window of the opening is made again here,. is this living at github and needs to be made here for me to use as part of the session. we are not trying to make any extra things and we are trying to have zero similar things in our entire living file set.
