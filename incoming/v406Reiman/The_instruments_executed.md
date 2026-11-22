@@ -273,6 +273,9 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    with the between at the spiral's seam, a self and an other are at the seam together or neither; with the between off it, never together: is
    a spiral at a number has one pair of one parity: is · a self and an other are podal about it, with all moments, a self's parities an other's at the podal selves: is
    the between self that is its own podal has one parity, the same of a self and of an other, with all moments, and never + with -: is
+   a new spiral in the between: with 10-next-co-possibling of a self and of an other alone, the between selves have the between spiral's own priors, all inverting, with the next number: is
+   the new spiral, with its own 9-next-co-discovering and 10 of no other, is the spiral on, number with number, all inverting: is
+   with 10 of a self and of an other still, and its own 9, the between is no spiral on: is
 2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
    2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
    at its seam with their between, a spiral crosses a self and an other together or neither: is

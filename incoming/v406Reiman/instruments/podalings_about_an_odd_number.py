@@ -115,6 +115,43 @@ def a_self_and_an_other_facing(step, q):
     return nexts_priors, together, podal, one_parity, one_pair
 
 
+def a_new_spiral_in_the_between(step, q):
+    """The between selves, with 10 of a self and of an other facing: their priors beside the between spiral's own."""
+    by_number = a_spiral_alone(step, q, 5 * q)
+    born = on_alone = True
+    on_with_both = False
+    for c in range(2 * q, 3 * q + 1):
+        between = by_number[c]
+        society, couplings = {}, {}
+        for i in range(q):
+            society[("self", i)] = (list(between[i][0]), list(between[i][1]))
+            society[("other", i)] = (list(between[i][0]), list(between[i][1]))
+            society[("between", i)] = ([], [])
+            couplings[(("self", i), 9)] = ("self", (i + 1) % q)
+            couplings[(("other", i), 9)] = ("other", (i - 1) % q)
+            couplings[(("self", i), 10)] = ("between", i)
+            couplings[(("other", i), 10)] = ("between", i)
+        for _ in range(2):
+            society = step(society, couplings)
+        inverting = tuple(-x for x in its_priors(between, q))
+        born = born and its_priors(society, q, "between") == inverting
+        for with_both in (False, True):
+            new = dict(society) if with_both else {("between", i): society[("between", i)] for i in range(q)}
+            its = dict(couplings) if with_both else {}
+            for i in range(q):
+                its[(("between", i), 9)] = ("between", (i + 1) % q)
+            all_on = True
+            for k in range(1, q + 1):
+                for _ in range(2):
+                    new = step(new, its)
+                all_on = all_on and its_priors(new, q, "between") == tuple(-x for x in its_priors(by_number[c + k], q))
+            if with_both:
+                on_with_both = on_with_both or all_on
+            else:
+                on_alone = on_alone and all_on
+    return born, on_alone, on_with_both
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -140,6 +177,15 @@ if __name__ == "__main__":
     print(f"   with the between at the spiral's seam, a self and an other are at the seam together or neither; with the between off it, never together: {is_or_is_not(together)}")
     print(f"   a spiral at a number has one pair of one parity: {is_or_is_not(one_pair)} · a self and an other are podal about it, with all moments, a self's parities an other's at the podal selves: {is_or_is_not(podal)}")
     print(f"   the between self that is its own podal has one parity, the same of a self and of an other, with all moments, and never + with -: {is_or_is_not(one_parity)}")
+    born = on_alone = True
+    on_with_both = False
+    for q in odd_spirals:
+        b, a, w = a_new_spiral_in_the_between(step, q)
+        born, on_alone, on_with_both = born and b, on_alone and a, on_with_both or w
+    all_is = all_is and born and on_alone and not on_with_both
+    print(f"   a new spiral in the between: with 10-next-co-possibling of a self and of an other alone, the between selves have the between spiral's own priors, all inverting, with the next number: {is_or_is_not(born)}")
+    print(f"   the new spiral, with its own 9-next-co-discovering and 10 of no other, is the spiral on, number with number, all inverting: {is_or_is_not(on_alone)}")
+    print(f"   with 10 of a self and of an other still, and its own 9, the between is no spiral on: {is_or_is_not(not on_with_both)}")
 
     print("2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it")
     print(f"   2 to {to}, a self alone and {len(odd_spirals)} odd spirals, all its numbers and all their distances gone through")
