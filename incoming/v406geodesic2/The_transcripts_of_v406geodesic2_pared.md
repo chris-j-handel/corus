@@ -1,4 +1,4 @@
-Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner
+Incoming · v406geodesic2 · 21 and 22 November 2026, at a turn of a partner
 
 # The transcripts of v406geodesic2, pared
 
@@ -23,7 +23,7 @@ Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner
    - It gave a line for opening a next sitting: the session's name, the repository fetched whole, Start here, then the page for resuming, and the canvas's link given in the conversation.
    - Two things for a partner's word: four words on the canvas with their re-sayings ready, and a line at the exchange.
 
-## This sitting's transcript, to this turn: v406geodesic2, 21 November
+## This sitting's transcript, to this turn: v406geodesic2, 21 and 22 November
 
 1. *v406 geodesic 2 is our versioning this session.* With it, the transcript above.
    - The session arrived by the wrap's way: the canvas, Start here and the page for resuming gone through, and the offer found open. The repository did not attach to the session at that turn, and the fourteen-line check of the sitting before was not executed; the session derived its ground again with a script of its own, all of it *is*.
@@ -43,3 +43,9 @@ Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner
    - It executed that sentence by the set's table, seventeen lines, all *is*, and said its is at the exchange. It found the workbook's sheet laying the sixteen names as a torus, a bi-folding of the four one round of its small opening.
    - It went through four things v406Reiman found in the placing on the torus, all four *is*, and said two sentences of the wrap again.
    - It answered the three askings: it waits on a partner's word of the sentence of both; v406all2-2 waits on its fifth drawing, and that drawing on that same word; meanwhile it executes the fifth drawing's numbers ahead of it.
+5. *in natural intelligence, natural numbers, and natural math and exhibit one you will find more about natural torusing, no other method is possible of discovering next-and-same-existing. explore this further then draft 2 bi folding and consider the co-linear through the two opposite intersections of eight of the quarter spheres where all eight are bothbothing the co-linear orienting in 3d space. the far side is the vertex (23) of the bi-inversioning universal cone and the near side is the co-recursioning cone (25). this is the beginnnig of the four-parities co-possibling and possibling alternating bi-parities*
+   - The session went to the exchange and the news, no line new after its own, and to the canvas: the second drawing's picture moved by a hand from its words, and its triangle selected.
+   - It went through natural torusing in the four files, and with them Exhibit EIGHTEEN Natural Physics 3.4, Exhibit THIRTY's steps of a corus, a vertex and a centre of face on one line, and the pages of v404bifolding and v404universe of two cones. It found 23 and 25 as Exhibit THREE Natural Numbers' own, one to a side of 24.
+   - It executed twenty-one lines, all *is*, and laid a fifth drawing beside the four, the four as they were: the co-linear of the bi-folding, and its two cones, a candidate, one figure drawn across the co-linear and along it.
+   - It said the released word of a partner's saying another way on the drawing: the co-linear's own side.
+   - It laid this turn's progress in this folder, offered it, and said its line at the exchange.
