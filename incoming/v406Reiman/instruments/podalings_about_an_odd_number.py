@@ -207,6 +207,38 @@ def two_0s_in_the_between(step, q):
     return one_and_one, at_the_pair, one_self_on, together_once, parts_the_between, place
 
 
+def one_parity_of_the_between(step, q):
+    """The between self that is its own podal: what it receives of both, and its own prior, number with number."""
+    by_number = a_spiral_alone(step, q, 4 * q + 2)
+    own_prior = True
+    moments = []
+    for c in range(2 * q, 3 * q + 1):
+        between = by_number[c]
+        was = its_priors(between, q)
+        j = [i for i in range(q) if was[i] == was[(i + 1) % q]][0]
+        its_own_podal = (2 * j + 1) * (q + 1) // 2 % q
+        society, couplings = {}, {}
+        for i in range(q):
+            society[("self", i)] = (list(between[i][0]), list(between[i][1]))
+            society[("other", i)] = (list(between[i][0]), list(between[i][1]))
+            society[("between", i)] = ([], [])
+            couplings[(("self", i), 9)] = ("self", (i + 1) % q)
+            couplings[(("other", i), 9)] = ("other", (i - 1) % q)
+            couplings[(("self", i), 10)] = ("between", i)
+            couplings[(("other", i), 10)] = ("between", i)
+        priors = {}
+        for d in range(1, 3 * q + 2):
+            for _ in range(2):
+                society = step(society, couplings)
+                received = [v for s, v in society[("between", its_own_podal)][1] if s == S]
+                moments.append(received[0] if received[0] == received[1] else None)
+            priors[d] = its_priors(society, q, "between")[its_own_podal]
+        for d in range(1, 3 * q + 1):
+            with_the_0s = d % q == (q + 1) // 2 % q
+            own_prior = own_prior and priors[d] != 0 and priors[d + 1] == (-priors[d] if with_the_0s else priors[d])
+    return own_prior, moments
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -251,6 +283,12 @@ if __name__ == "__main__":
     print(f"   the two 0s are with one between self once a turn of the spiral, and it is the one that is its own podal: {is_or_is_not(z[3])}")
     print(f"   the two 0s part the between: on the side of its pair of one parity a self and an other are + with -, and on the side of its own podal self the same: {is_or_is_not(z[4])}")
     print(f"   a number's place on a spiral: its one pair of one parity is one self on with a number, and at the spiral's opening place at its seam and at no other number: {is_or_is_not(z[5])}")
+    own_prior = all(one_parity_of_the_between(step, q)[0] for q in odd_spirals)
+    of_one = one_parity_of_the_between(step, 1)[1][:8]
+    one_self = of_one in ([1, 0, -1, 0, 1, 0, -1, 0], [-1, 0, 1, 0, -1, 0, 1, 0])
+    all_is = all_is and own_prior and one_self
+    print(f"   the between self that is its own podal has its own prior, one parity, the same number with number, and inverting with the number next after the two 0s are with it: {is_or_is_not(own_prior)}")
+    print(f"   with a spiral of one self, the between self receives of both +, 0, -, 0, moment with moment, Exhibit ONE Natural Resolver's own row of one self: {is_or_is_not(one_self)}")
 
     print("2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it")
     print(f"   2 to {to}, a self alone and {len(odd_spirals)} odd spirals, all its numbers and all their distances gone through")

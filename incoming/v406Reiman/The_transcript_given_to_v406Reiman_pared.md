@@ -637,5 +637,9 @@ is. the new self is living in the between with self other bi-parity across the n
 
 1-9 is the new bi-coupling as the universe of self other and between where between is other-than self and other-than-other inside the bi-coupling universe of self and other. living inside this is the original 0 of universal all-parity inside the bi-coupling and a second 0 is now living and this is the orienting of the bi-coupling bi-parity on the surface plane of the between. this is 2d aiming on this surface orthogonal to and aiming from the empty nothing hole location in the surface on the self other co-linear. this self in the universe outside the bi-coupling is 1-17 and this self is aiming itself on a natural torusing surface where the primes are self-locating the bi-folding crossings
 
-[This session's eighth turn of 22 November: a partner's two 0s of the between executed, a self's and an other's, newborn with the between's pair of one parity, podal, and parting the between; a number's place on a spiral executed; sentence 21. Its closing words to a partner come here with the next laying.]
+[This session's eighth turn of 22 November: a partner's two 0s of the between executed, a self's and an other's, newborn with the between's pair of one parity, podal, and parting the between; a number's place on a spiral executed; sentence 21. Its closing words, in brief: the hole on the co-linear of a self and an other is a 0 of no self, drawn and not executed; a bi-coupling as 1 to 9 is not executed; sentence 20 is open; and one sentence for a partner's word, sentence 21 as it was then.]
+
+the 0s are bothbothing as living condition of one self as a universe with a parity in a larger universe. this is same-existing prior now and next
+
+[This session's ninth turn of 22 November: a partner's word received at sentence 21, and it is said again by that word; the one parity of the between executed, the same number with number and inverting with the two 0s, and with a spiral of one self Exhibit ONE Natural Resolver's own row. Its closing words to a partner come here with the next laying.]
 ```

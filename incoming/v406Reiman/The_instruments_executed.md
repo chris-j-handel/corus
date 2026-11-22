@@ -282,6 +282,8 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    the two 0s are with one between self once a turn of the spiral, and it is the one that is its own podal: is
    the two 0s part the between: on the side of its pair of one parity a self and an other are + with -, and on the side of its own podal self the same: is
    a number's place on a spiral: its one pair of one parity is one self on with a number, and at the spiral's opening place at its seam and at no other number: is
+   the between self that is its own podal has its own prior, one parity, the same number with number, and inverting with the number next after the two 0s are with it: is
+   with a spiral of one self, the between self receives of both +, 0, -, 0, moment with moment, Exhibit ONE Natural Resolver's own row of one self: is
 2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
    2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
    at its seam with their between, a spiral crosses a self and an other together or neither: is
