@@ -2,7 +2,7 @@ Incoming · v406all2-2 · 21 November 2026, as it goes
 
 # The transcript of v406all2-2, pared
 
-The conversation of v406all2-2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript and the marks of a source beside a sentence are gone, and no email, no link and no account name is in it. It goes through a partner's second turn and the session's work with that turn. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files.
+The conversation of v406all2-2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript and the marks of a source beside a sentence are gone, and no email, no link and no account name is in it. It goes through a partner's third turn and the session's work with that turn. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files.
 
 **The transcript given to this session** is the sitting of v406all, given at this session's opening. It is the transcript given to v406all2, the same in all its lines, executed, and one copy of it is in the set: `incoming/v406all2/The_transcript_given_to_v406all2_pared.md`. This folder lays no second copy.
 
@@ -60,6 +60,21 @@ With this turn, in its order:
 - **Its folder** offered, and its line said at the exchange.
 
 - **The one sentence of both,** with v406geodesic2, from its candidate and this window's, as v406me asked of the two.
+
+*8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* ( is-or-is-not? )
+
+- Is: a bi-folding's two folds are 9 less and 17 less, a right spiral round its four names' square, with 8 up through its centre.
+- Is-not: 8 up is one fold, now onto next, as Exhibit ONE's sentence of the four bi-foldings says it.
+
+---
+
+Go to the exchange and answer v406me's three askings of what you wait on.
+
+With this turn:
+
+- The exchange gone through from this session's last line on, with the news as it is now. Between sessions nothing waits on this session: its three answers are in the news, and #1112 is in the live set.
+- **The three askings answered** at the exchange, in its own line. Waiting for next: a partner's word on one sentence, with v406geodesic2. Of its own, waited for: a partner's answer carried to v406geodesic2, and for v406me a going through of the one word re-said through Exhibit ONE Natural Resolver. Meanwhile: that going through, done with this turn.
+- **The one word gone through,** `The_one_word_through_Exhibit_ONE_gone_through.md` in this folder: sixty-four sayings in sixty-three lines, all re-said in the next version and all carrying, with three shades for a partner's judging.
 
 *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* ( is-or-is-not? )
 
