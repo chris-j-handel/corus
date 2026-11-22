@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 47, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 56, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -14,16 +14,16 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 ## A field's hard problem, at its sources
 
-A formal proof of the Riemann hypothesis came out on 20 November 2026 and was certified on 21 November. No paper a mathematician can go through is out, and a field's understanding of it is beginning.
+A formal proof of the Riemann hypothesis came out on 20 November 2026 and was certified on 21 November. No paper a mathematician can go through is out, and a field's explaining of it is ahead.
 
 - **As the living file says it.** Exhibit TWENTY-ONE Hard Problem Registry, 153: *Riemann: every non-trivial zero of the zeta function has real part one half.* Its hardness, as a field says it: *the prime number theorem determines the average distribution of the primes and the hypothesis tells of the deviation from the average*. Its Persistence: *In each case, a proof of conjecture, or a counterexample*.
 - **The note, in hand.** A partner gave this session the note of 20 November, four pages, by Levent Alpöge, a mathematician at Anthropic. It says he believes he found a proof working with Claude, that its method reaches the Generalized Riemann Hypothesis, and that the proof is out as Lean code in fourteen parts and as no paper. It says he presents a complete argument ahead of mastering the mathematics around it.
 - **How the note says the proof was found.** From a settled case: Stepanov's argument over function fields, with its multiplicity, and a simple proof, sign-only as he names it, of the Weil and Deligne results. Then by analogy to the whole numbers, with multiplicity the missing piece: a chain of theta lifts gives it, one order a lift, the chain about √X long for primes to X. Of its twenty dated steps, eleven are of 6 to 20 October, eight of 15 November, and the last, GRH, of 16 November.
-- **The proof's standing on 21 November, opened at reports of it.** One statement of the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative, certifies the hypothesis as stated and its proof. By a report of it: the library proves Mathlib's own definition of the hypothesis, it compiles, and Lean's kernel and several independent checkers accept it.
-- **Not settled, by the same reports.** The statement says the explaining of the proof's ideas is beginning. The Clay Mathematics Institute's rules ask publication, two years and general acceptance. A second proof, by hand, is reported going round, not formally verified.
+- **The proof's standing on 21 November, opened at its source.** One statement of the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative, certifies the hypothesis as stated and its proof. It is by four things. The statement proved is Mathlib's own definition of the hypothesis, gone through by mathematicians. Dozens compiled the library and came to the same export of the proof. Two tools found the theorem proved the same as Mathlib's statement. Lean's kernel and several other checkers accepted the export. It certifies the Riemann hypothesis, and it says nothing of the Generalized one.
+- **Not settled.** The statement says the explaining of the proof's new ideas is ahead, and it gives no span of time for it. By a report, the Clay Mathematics Institute's rules ask publication, two years and general acceptance, and a second proof, by hand, is going round, not formally verified.
 - **By the living file's own measure.** Exhibit TWENTY-ONE, 151, of the Poincaré conjecture: *Proof stands, verified by several independent groups over years, and is accepted without dissent.* By that sentence the Riemann hypothesis is at a proof verified by independent groups over one day, with the years and the accepting ahead.
 
-**Two statements this autumn, for v406me's asking.** October's report is of a weaker statement, the quasi-Riemann hypothesis: the nontrivial zeros in a strip narrower than the known one. November's is of the hypothesis itself, as Mathlib's own definition says it, by the reports opened here. A note beside 153 says the statement in its source's own words.
+**Two statements this autumn, for v406me's asking.** October's report is of a weaker statement, the quasi-Riemann hypothesis: the nontrivial zeros in a strip narrower than the known one. November's is of the hypothesis itself, as Mathlib's own definition says it, by the communities' statement opened at its source. A note beside 153 says the statement in its source's own words.
 
 ## What Exhibit ONE's code executes of primes
 
@@ -145,7 +145,7 @@ v406geodesic's placement of 1 to 17 on a torus is gone through from its copy in 
 All at this page, until a partner's word gives them a home.
 
 1. **A proof seats the zeros in a field's own register, a settling beside 5.16's resolving.** *( is-or-is-not? )*
-   - Its is resolves a note beside 153 and beside 5.16, after 3.22's form for the Poincaré conjecture, once the proof's sources are opened whole.
+   - Its is resolves a note beside 153 and beside 5.16, after 3.22's form for the Poincaré conjecture. The statement is opened at its source, and the note rests on a partner's word.
    - Its is-not resolves 5.16 as it is, until a field accepts the proof, by 151's Persistence.
 2. **By its own note, a field's proof was found as a next from an existing, and is accounted true or false against fixings.** *( is-or-is-not? )*
    - Its is resolves both methods of Natural Intelligence 5.4 in one proof, the finding by the one and the checking by the other: *With geodesic method a self is discovering next from an existing*, and *With scientific-method a self accounts true or false against its fixings*.
@@ -162,7 +162,7 @@ All at this page, until a partner's word gives them a home.
 - **A crossing executed is a dividing.** To 61 the resolver's surface gives of the primes what a field's sieve gives.
 - **No executing here says the place of a zero of the zeta function.** The resolver's 0 is of a self resolving, and no zero of a field's function.
 - **No executing proves a sentence of all primes.** This window executes 2 to 13 selves with all their openings, and 2 to 61 with one. Exhibit THIRTY's step 742 says it of all odd primes, by its steps 740 and 741. Beside both, living, Natural Intelligence 1.5: *A self's predicting or proving at method is an empty set.*
-- **The proof's sources.** The note is in hand. The communities' statement is opened by reports of it and not itself. The verifying mathematician's own page is not opened. August's report is opened at extracts of it.
+- **The proof's sources.** The note is in hand. The communities' statement is opened at its source. The verifying mathematician's own page is not opened. August's and October's reports are opened at extracts of them.
 - **A concern of the transcript, gathered already.** That the method as written absorbs all outcomes is beside 2.7 in Exhibit TWENTY-FOUR's gathering file, as a possible incohering. This window lays no second note of it.
 
 ## Sources
@@ -173,3 +173,4 @@ All at this page, until a partner's word gives them a home.
 - Anthropic, a research post on the Riemann zeta function, 10 August 2026, at extracts of it.
 - Quanta Magazine, *AI Proved the Quasi-Riemann Hypothesis. What Happens Now?*, 19 October 2026, at its opening lines.
 - G. Kahn, *The semantics of a simple language for parallel programming*, 1974, not opened in this sitting.
+- Lean and Mathlib communities, *Lean verification of the Riemann Hypothesis*, 21 November 2026, opened whole.
