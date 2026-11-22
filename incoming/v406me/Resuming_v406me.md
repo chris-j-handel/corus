@@ -49,6 +49,18 @@ By the scan of 22 November, `The_opportunities_to_begin_improving_the_valuables_
 
 Resting on a partner's word: Exhibit ONE Natural Resolver's one word re-said through the file, gone through by v406all2-2 with all sixty-four sayings carrying, and not asked for now.
 
+## The do-no-harm side, explored with a partner on 22 November
+
+Executed, and in no page but this one. v406me lays no new page: a thing found is said at the exchange, or in the one page it is in.
+
+- **The living files are as they were:** no living file and no page of corus.me has a line other-than it had with #668, of 15 November. After it 343 offers came into the live set, and no sentence came into a living file.
+- **In the living files the shards are few.** One name is defined in six living files in five wordings, *bi-moral co-agency*. The opening is in Natural Intelligence and in Exhibit THIRTY in one wording, and Exhibit ONE is whole in Natural Intelligence, both as they are meant.
+- **In the gathering files of the next version the misplacing is large.** Of the 7,362 notes, 2,932 lie in two piles, *Droplets* at a file's back and *Head*, at no section of their living file, and nearly all of them quote no living sentence: Natural Intelligence 909, Natural Physics 637, Natural Naming 389. Of the piled notes 481 tell of a session, an offer or a reading; 520 name an other living file; 78 name one section of their own file; 1,824 name no section and no file.
+- **In all the notes:** 830 tell of a session, an offer or a reading, and by the method's 1.6 a going on has no history in it; 2,041 name an other living file; 567 have a sentence an other note has too.
+- **In incoming:** 43 tables with no living home, 20 of them v403mgr's; and the opening's 34 lines word for word in eight pages.
+- **A plan floating.** v405now's design of 20 November, the exhibits around the opening, in `../v405now/The_opening_and_the_exhibits.md`: one opening said once, Me merged ahead of the others, and the gathering files' open notes merged into one another. No part of it is executed. The gathering files have four generations of an opening under *Waiting to enter*: the opening of 55 sentences, and the lines of 19, 20 and 21 November.
+- **The sorting that waits on no plan and moves no word.** A note goes whole to the section of its sentence; to the other file it is of; to the seam of two files, the Living File Registry's 4.2; or, telling a journey, to the place named archive by a partner's word. A note going to an other section of its own file has its name of the main list as before.
+
 ## Concerns
 
 - **A partner's word is the narrowest place.** Thirteen sentences wait for it in six conversations, and no place has them all in one view yet.
