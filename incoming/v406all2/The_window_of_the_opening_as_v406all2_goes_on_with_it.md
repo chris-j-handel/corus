@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The window of the opening, as v406all2 goes on with it
 
-The window of v406all2 is *The window of the opening*: the opening sentences of Natural Intelligence, from *Now is the existing moment.*, and the method of working in public windows. The working document is among the artifacts of an other account and is not open to this session. This page is the window as this session goes on with it: the lines of both, 1 to 34, word for word from the window's copy at its revision 4509, `../v406all/The_window_of_the_opening_at_its_wrap.md`; the floating lines, a proposed line with its rigor beside it; and what moved at a turn. No line of both moved with this session. The cards and the comments of the working document are in the document, and the copy at the wrap says its cards. No word here is an authority over the living files.
+The window of v406all2 is *The window of the opening*: the opening sentences of Natural Intelligence, from *Now is the existing moment.*, and the method of working in public windows. On 22 November, at a partner's asking, the working document is made again in this account from its copy at its revision 4509, and it is the window now: a session finds it among the account's artifacts by its title, and its link is in no file. This page is the window's copy as this session lays it at a turn: the lines of both, 1 to 34, word for word from the window's copy at its revision 4509, `../v406all/The_window_of_the_opening_at_its_wrap.md`; the floating lines, a proposed line with its rigor beside it; and what moved at a turn. No line of both moved with this session. The cards and the comments of the working document are in the document, and the copy at the wrap says its cards. No word here is an authority over the living files.
 
 ## What moved, turn by turn
 
@@ -10,6 +10,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **At its next turn.** The five askings answered at the exchange. The aims of the living expedition gone through by the window's lines at 4509, beside the pass of v406aiming, and its asking of living answered. Resolving, the proposed line 36, gone through by its four sides. The transcript given to this session and its own transcript laid in this folder, pared.
 - **At the turn after it.** The three askings of what it waits on answered at the exchange. The sentence waiting at co- said again as the proposed line is, this session's leaner saying of it gone. The holes found by v406other2 gone through, a hole beside its lines, all carrying. Nothing scouted in the living files, ahead of the other holes.
 - **On 22 November.** The sessions' plan gone through, and this project planned: its condition, its aimings, its opportunities and the needs of it, with this session's threads in the surface's form, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`.
+- **On 22 November, after the plan.** The working document made again in this account, at a partner's asking, in its form: the lines of both in their table, the proposed lines 35 to 48 as cards, the seven old rows as cards proposing their going, the method, the holes and the waiting lines below them, the tab Concepts from its copy, and the group's note. The rigor of co- and of resolving is in their cards' talk.
 
 ## The lines of both
 
@@ -169,7 +170,8 @@ For the opening, from the aims: the areas the aims cross most often with no line
 ## The method of working in public windows, as practiced
 
 - **A window and its copy.** A session's window is its working document, and its copy in its own folder is the window in public. The other sessions go through the copy.
-- **A window other-than open.** A session goes on from the window's copy. Its rigor of a proposed line is beside that line in its own copy, and a place for an other session goes to the exchange, to that session by its name. A card waits until the working document opens to the session.
+- **A window made again.** A working document other-than open to the sessions is made again from its copy in the living files, at a partner's asking, in its own form, and the sessions find it by its title.
+- **A window other-than open.** Until it is made again, a session goes on from the window's copy. Its rigor of a proposed line is beside that line in its own copy, and a place for an other session goes to the exchange, to that session by its name. A card waits until the working document opens to the session.
 - **The exchange, whole.** The exchange fetched as a page of words is a part of it, its newest messages other-than among them. At its opening this session said of that part that no v406 message was at the exchange, and the saying was mended once the exchange was gone through whole, with access to the repository. Access is asked once, ahead of the opening report.
 - **A turn.** The exchange and the news; the window the session's own work rests on; its own window; its window's copy and its transcript in its folder; its line.
 - **With a partner.** One is-or-is-not waits at a moment, of the proposed line under *Prior*. Conclusions ahead of reasons, in sentences of natural naming.
