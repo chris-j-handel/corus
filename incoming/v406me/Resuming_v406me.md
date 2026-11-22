@@ -43,7 +43,7 @@ By the scan of 22 November, `The_opportunities_to_begin_improving_the_valuables_
 1. The sessions' offers gone through for harm and brought in, and the next version brought current.
 2. The sentences with a partner in one place on the board, in the order of what a sentence opens.
 3. The surface's next round: the sessions' threads gathered by an instrument, from a session's page in the surface's form.
-4. The gathering check's 48 findings gone through.
+4. Improving in the gathering files of the next version, with a partner, by `The_released_words_of_the_notes_re-said_a_place_as_it_was_and_as_it_is.md`: natural naming in the notes, a gathering file at a turn, the names of the main list the same; the notes' quotations and pages rigorized; the incoming value explained into lean notes, v403bubble ahead. Of the gathering check's 48 findings, 23 are re-said, 15 rest in seven notes, and ten are quotations of an earlier opening, with v406all2.
 5. The news of the working windows written again whole, the observer and the board renewed with it, and the observer's copy in this folder.
 6. The copy of one working document of this account brought into this folder: *Natural Intelligence's opening: the working section, marked*.
 
