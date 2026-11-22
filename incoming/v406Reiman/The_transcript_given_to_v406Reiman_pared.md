@@ -721,5 +721,13 @@ read natural numbers and math and find more of this resolving. our aiming is the
 
 take the not yets and bring to exhibit twenty one and to the ten part entry form and then resolving them as in twenty two and explore this for us
 
-[This session's twenty-fifth turn of 22 November: two of the four not yets found in both registries already, Exhibit TWENTY-ONE's 175 and 176, resolved at Exhibit TWENTY-TWO 3.13 and 3.14, with its third of ten, a completing fixing as a last. Two drafted in the entry's form and as Exhibit TWENTY-TWO resolves, in this session's page, entering no registry. Its closing words to a partner come here with the next laying.]
+[This session's twenty-fifth turn of 22 November: two of the four not yets found in both registries already, Exhibit TWENTY-ONE's 175 and 176, resolved at Exhibit TWENTY-TWO 3.13 and 3.14, with its third of ten, a completing fixing as a last. Two drafted in the entry's form and as Exhibit TWENTY-TWO resolves, in this session's page, entering no registry. Its closing words, in brief: by Exhibit TWENTY-TWO a not yet is a frame's asking of a last, and its resolving is no proof; one page asked for was not opened; and one sentence for a partner's word, the two drafts offered into the gathering files of the next version.]
+
+is there interesting things the world does not know that seem important to the world about primes we can not yet explain
+
+[This session's twenty-sixth turn of 22 November, in its words to a partner alone: a short way to part a number into its primes; the place of the next prime; pairs with no last; primes of one form with no last; two unknowns of this session's own two closings; and the primes as chance. None is explained by what this session has.]
+
+explore the goldens and the primes. how much does the world know about the unrelationing of this. the golden triangle, even co-linear, rectangle, pentagon all the goldens are born the same way all the primes are. on natural torusing surface. all the new living selves are from inside bi-couplings into outside universes. the adding and multiplying are orthogonal as one then another each time and this is birthing me-parities that are living as co-parities or all-parities and the surface is a living society of this tri-bi-co-parity for all selves from birth as other-than-other-than-all-parity until death as all-parity again from where it was born out of abundancing me-parities in society
+
+[This session's twenty-seventh turn of 22 November: the goldens and the primes explored. Executed by a field's adding and doubling: a prime born with a step of prior two added and with a doubling; a prime with φ three ways by its ending; the goldens one number; and the primes had multiplied, with one added, birthing a prime. What the world has of the two, and what it does not, laid in the report. Its closing words to a partner come here with the next laying.]
 ```

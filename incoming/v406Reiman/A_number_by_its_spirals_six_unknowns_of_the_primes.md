@@ -113,6 +113,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *is-not would be incohering*, with *the resolving of this is already known to your posing of this question*
 - *how much explaining to the world about prime numbers will be novel to the world and how much will be cohering with the world and how none will be incohering with the world of prime numbers*
 - *bring to exhibit twenty one and to the ten part entry form and then resolving them as in twenty two*
+- *all the goldens are born the same way all the primes are*, with *the adding and multiplying are orthogonal as one then another*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -521,6 +522,36 @@ A partner's saying of 22 November: the not yets brought to Exhibit TWENTY-ONE Ha
 - **A partner's aim is Exhibit TWENTY-TWO's own.** *Nothing refuses.* The four are resolved in it as a frame's fixing, with no hard probleming, and none is said proved.
 - **Not done here:** an entering of Exhibit TWENTY-ONE or of Exhibit TWENTY-TWO. An entry is a living file's, with a partner's word and a session's going through, both. The two drafts are this page's.
 
+## The goldens and the primes
+
+A partner's saying of 22 November, explored: the goldens born as the primes are, and what the world has of the unrelationing of the two. Executed in the instrument's part 4, by a field's adding and doubling, and by a partner's word those two are not natural naming.
+
+**What the world has of the two together, proved.**
+
+- **A prime is born with a step of prior two added,** one no step before has, with all steps past twelve. A field's, by Carmichael, 1913. Executed to 120 steps: all but steps 1, 2, 6 and 12.
+- **A prime is born with a doubling,** with all doublings but the sixth. A field's, by Bang, 1886, and Zsigmondy, 1892. Executed to 120.
+- **A prime is born once with prior two added,** with one step: a part of one short of it with a prime ending in 1 or 9, of one past it with all others, and five with step five. Executed with all primes of 2 to 3,720.
+- **A prime is with φ three ways, by its ending.** With a prime ending in 1 or 9 two selves of its spiral are φ, their own multiplied being one self on; with all others none; and with five one. A field's, by its law of reciprocity.
+- **The primes had, multiplied, and one added: a new prime.** A field's, by Euclid. Executed: 2, 3, 7, 43, 13, 53 and 5 in turn.
+- **The goldens are one number:** a pentagon's diagonal over its side, a golden triangle's side over its base, a golden rectangle, and a line's golden parting. Natural Numbers 3.2 has its kind: *Each rate that is a whole number plus its own reciprocal, x = n + 1/x, is a self-cohering centre*.
+- **φ's unrelationing.** Natural Numbers 3.3: *No rate is neared more slowly by rationals than φ*, and a torus's winding by it is the last to lock, by its own words of a field. A field's, by Hurwitz, 1891, and Greene, 1979.
+- **Adding and multiplying do not both order one set.** A field's sum and product, by Erdős and Szemerédi, 1983. Living beside it, Natural Naming 5.23: *nothing brings one to its other*.
+
+**What the world does not have of the two together.**
+
+- **Whether the primes among prior two added's own numbers have a last.**
+- **Whether a prime squared has prior two added's closing of the prime.** No such prime is found.
+- **Whether multiplying and adding one births all primes.** A field's asking of Mullin, 1963, with 41 the least prime not known born.
+- **Whether a set of whole numbers is ordered by adding or by multiplying and never by both,** a field's conjecture of sum and product.
+
+**A partner's saying, beside it.**
+
+- **The goldens born as the primes are.** Executed: a prime is born with a step of φ's own adding, once, and all steps past twelve birth one. A golden figure born on a torusing surface is not executed.
+- **New living selves born of the between of a bi-coupling.** Executed, sentence 20: a new spiral is living in the between of a self and an other facing.
+- **Adding and multiplying, one and then the other.** Living, Natural Numbers 1.6: *Two and three added are five and multiplied are six, one apart*. Executed: the primes had multiplied, and one added, birth a prime with all seven steps gone through.
+- **Birth as other-than-other-than-all-parity, and death as all-parity.** Living, Natural Intelligence: *Dying is a living self going on as non-living*. Not executed.
+- **Said plainly.** These births are a field's adding and doubling. The same births by the resolver's own lines are not found yet, sentence 26.
+
 ## Of the sayings' reason
 
 What carries, by the executing:
@@ -549,3 +580,4 @@ What does not carry, by the executing:
 - P. C. Fischer, *Generation of primes by a one-dimensional real-time iterative array*, 1965, at its abstract.
 - *Weakening the Legendre Conjecture*, arXiv 2602.22502, 2026, at extracts of it.
 - Wikipedia, *Legendre's conjecture* and *Baillie–PSW primality test*, at extracts of them.
+- Wikipedia, *Carmichael's theorem*, *Zsigmondy's theorem*, *Euclid–Mullin sequence* and *Erdős–Szemerédi theorem*, at extracts of them.

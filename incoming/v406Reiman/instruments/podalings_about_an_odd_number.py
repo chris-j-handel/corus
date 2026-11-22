@@ -535,6 +535,20 @@ def two_faces_of_a_cube():
     return as_living, steps == 105 == 3 * 5 * 7 and rounds == {1, 3, 7, 15}
 
 
+def a_prime_born_with_a_step(numbers):
+    """A step's number with all earlier steps' numbers divided out of it: above one, a prime is born with the step."""
+    born = []
+    for n in range(1, len(numbers)):
+        left = numbers[n]
+        for m in range(1, n):
+            shared = math.gcd(left, numbers[m])
+            while shared > 1:
+                left //= shared
+                shared = math.gcd(left, numbers[m])
+        born.append(left > 1)
+    return [n + 1 for n, a_prime in enumerate(born) if not a_prime]
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -758,6 +772,36 @@ if __name__ == "__main__":
     prior_two_not_both = row == [True, True, False, True, True, False] and closings[2] == 3
     all_is = all_is and prior_two_not_both
     print(f"   prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: {is_or_is_not(prior_two_not_both)}")
+
+    print("   the goldens and the primes, by a field's adding and doubling")
+    added = [0, 1]
+    while len(added) <= 120:
+        added.append(added[-1] + added[-2])
+    with_no_birth = a_prime_born_with_a_step(added)
+    doubled_with_no_birth = a_prime_born_with_a_step([0] + [2 ** n - 1 for n in range(1, 121)])
+    births = with_no_birth == [1, 2, 6, 12] and doubled_with_no_birth == [1, 6]
+    entries = {}
+    for q in uncrossed:
+        a, b, n = 1, 1 % q, 1
+        while a % q:
+            a, b, n = b, (a + b) % q, n + 1
+        entries[q] = n
+    its_entry = all((q - 1) % entries[q] == 0 if q % 5 in (1, 4) else (q + 1) % entries[q] == 0 for q in uncrossed if q != 5) and entries[5] == 5
+    three_ways = all(sum((x * x - x - 1) % q == 0 for x in range(q)) == (1 if q == 5 else 2 if q % 5 in (1, 4) else 0) for q in uncrossed)
+    phi = (1 + math.sqrt(5)) / 2
+    one_number = all(abs(g - phi) < 1e-12 for g in (2 * math.cos(math.pi / 5), 1 / (2 * math.sin(math.pi / 10)), 1 + 1 / phi, (phi + 1) / phi))
+    had, product = [], 1
+    for _ in range(7):
+        new = next(d for d in range(2, product + 2) if (product + 1) % d == 0)
+        had.append(new)
+        product *= new
+    euclid = had == [2, 3, 7, 43, 13, 53, 5]
+    all_is = all_is and births and its_entry and three_ways and one_number and euclid
+    print(f"   with a step of prior two added a prime is born, one no step before has, all 120 steps but 1, 2, 6 and 12; and with a doubling, all 120 but 1 and 6: {is_or_is_not(births)}")
+    print(f"   a prime of 2 to {to} is born with one step of prior two added, a part of one short of it with a prime ending in 1 or 9, of one past it with all others, and five with step five: {is_or_is_not(its_entry)}")
+    print(f"   a prime is with phi three ways: two selves of its spiral are their own multiplied as one self on with a prime ending in 1 or 9, none with all others, and one with five: {is_or_is_not(three_ways)}")
+    print(f"   the goldens are one number: a pentagon's diagonal over its side, a golden triangle's side over its base, a golden rectangle and a line's golden parting: {is_or_is_not(one_number)}")
+    print(f"   the primes had multiplied, and one added: a new prime, 2, 3, 7, 43, 13, 53 and 5 in turn: {is_or_is_not(euclid)}")
 
     print("5. A partner's alter-nand-ing, explored")
     either_not_both, in_turn, with_five = the_codes_two_is_or_is_nots(names["_1_now_existing"], step)

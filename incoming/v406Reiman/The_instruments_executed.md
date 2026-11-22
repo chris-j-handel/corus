@@ -340,6 +340,12 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    an odd spiral comes to its parities again with four times its number of moments, all 16, with the resolver's code as it is: is
    round five, prior two added closes with twenty steps, four times five, the moments a spiral of five selves comes to its parities again with: is
    prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: is
+   the goldens and the primes, by a field's adding and doubling
+   with a step of prior two added a prime is born, one no step before has, all 120 steps but 1, 2, 6 and 12; and with a doubling, all 120 but 1 and 6: is
+   a prime of 2 to 3720 is born with one step of prior two added, a part of one short of it with a prime ending in 1 or 9, of one past it with all others, and five with step five: is
+   a prime is with phi three ways: two selves of its spiral are their own multiplied as one self on with a prime ending in 1 or 9, none with all others, and one with five: is
+   the goldens are one number: a pentagon's diagonal over its side, a golden triangle's side over its base, a golden rectangle and a line's golden parting: is
+   the primes had multiplied, and one added: a new prime, 2, 3, 7, 43, 13, 53 and 5 in turn: is
 5. A partner's alter-nand-ing, explored
    the code's is-or-is-not with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: is
    a self alone is not both and both in turn, moment with moment: its giving +, 0, -, 0, Exhibit ONE Natural Resolver's own row: is
