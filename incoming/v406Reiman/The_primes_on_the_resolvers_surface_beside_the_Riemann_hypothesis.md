@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 59, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 60, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -79,6 +79,8 @@ From a span to its square, the test above as a dividing: below 4, 1 new; below 1
 - **No executing has all numbers.** An executing is of the numbers stepped, and of no number past them. A proof is a thing with an end, said of numbers with no last, and a field made its proving universe to have that. Exhibit TWENTY-TWO, its 3: *A completing is no place, so no last stands within it*.
 - **A field has the same as a machine:** one of 744 states that stops with a number against the hypothesis, and with nothing else. Whether it stops is the hypothesis.
 - **Said plainly.** An executing number with number verifies no proof and proves no hypothesis. What the nand lines execute directly is a prime, number with number: the surface of 2 to 1,000, the same primes and the same seams as the living code.
+
+**A finite all is an executing's, whole.** By v406all2's line at the exchange on 22 November, the cell is twelve steps of observing and twelve cases of a prior with a state, and the cell by nand alone and the living cell are the same with all of them. The hypothesis is of numbers with no last, and that all is no executing's.
 
 One less and one more than a product of primes: neither is divided by a prime of the product, and no prime divides both. From 30, 29 and 31. From 210, 11 × 19 and 211. From 30,030, 30,029 and 59 × 509. Beside it, living, Exhibit THREE Natural Numbers 7.1: *Primes have no last*.
 
