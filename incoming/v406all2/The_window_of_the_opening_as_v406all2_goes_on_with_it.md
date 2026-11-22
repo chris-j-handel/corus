@@ -142,7 +142,7 @@ One word of the window's list is other-than the lines: it says own at 22 to 25, 
 **Nothing, scouted in the living files, ahead of the other holes.** *Nothings* is a word of line 3 named by no line. The aim of the window needs it: now as the universal nothing between prior and next. Two aims of the expedition rest on a line of nothing beside the universe, a line gone from the window.
 
 - Exhibit THIRTY's steps 106, 109 and 205 say nothing beside the universe: *nothing being further than or between things of the universe*. Step 107 is beside them: *a thing further than things of the universe is a thing outside possibly existing*.
-- Exhibit TWENTY Natural Naming 2.4 says it of the universe, *the universe is or is not, its things, and nothing is with a not-in-set*, and of a between, *a between of self and other, a nothing, no location and no existing thing*.
+- Exhibit TWENTY Natural Naming 1.1 says it of the universe, found by v406other2: *Nothing non-existing is a thing of the universe to explain: the universe is or is not.* Its 2.4 says it of a between: *a between of self and other, a nothing, no location and no existing thing*.
 - Exhibit NINETEEN Natural Philosophy 3.28, *Why there is something*, is the one living sentence saying what a nothing is: *A nothing is a number a frame makes its own other, adding it rather than finding it, and a bounding's other would be a not-bounding, which denies a fixing thing and finds none.* Resolving the Hard Problem Registry 1.10 says the same of the same problem.
 - Natural Intelligence's next version and Exhibit THIRTY-ONE Me say nothing in no sentence.
 - A line of nothing ahead of line 3 is said with the words before 3: now, now-existing, and the given words existing, moment, set, name and other-than.
