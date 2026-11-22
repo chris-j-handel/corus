@@ -11,18 +11,19 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **At the turn after it.** The three askings of what it waits on answered at the exchange. The sentence waiting at co- said again as the proposed line is, this session's leaner saying of it gone. The holes found by v406other2 gone through, a hole beside its lines, all carrying. Nothing scouted in the living files, ahead of the other holes.
 - **On 22 November.** The sessions' plan gone through, and this project planned: its condition, its aimings, its opportunities and the needs of it, with this session's threads in the surface's form, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`.
 - **On 22 November, after the plan.** The working document made again in this account, at a partner's asking, in its form: the lines of both in their table, the proposed lines 35 to 48 as cards, the seven old rows as cards proposing their going, the method, the holes and the waiting lines below them, the tab Concepts from its copy, and the group's note. The rigor of co- and of resolving is in their cards' talk.
+- **On 22 November, in the working document.** Three lines said again in place by a partner: 3, *A thing is an other-than nothing.*, all gone from it; 4 and 5, their concept's name bold through things. A note of 3's rigor is a comment on its line. A partner's asking beside them: no extra thing, and no similar things in all the set. Ten pages of the sessions' folders say the opening's lines, and the gathering file of Exhibit THIRTY in the next version says them as *Waiting to enter*.
 
 ## The lines of both
 
-Word for word from the window's copy at its revision 4509.
+As the working document says them at its revision 72, on 22 November. Lines 3, 4 and 5 are said again in place by a partner in the document. The others are word for word the window's copy at its revision 4509.
 
 | Sentence | Line |
 | --- | --- |
 | **Now **is the existing moment. | 1 |
 | **Now-existing** is existing now. | 2 |
-| All that are other-than nothings are **things**. | 3 |
-| **Other-than** things are things not named by the same name. | 4 |
-| **Same-named** things are other-than same things named by the same name. | 5 |
+| A **thing** is an other-than nothing. | 3 |
+| **Other-than things** are things not named by the same name. | 4 |
+| **Same-named things** are other-than same things named by the same name. | 5 |
 | A named **universal set** is the set of all same-named things. | 6 |
 | The **universe** is the set of all now-existing things. | 7 |
 | The **prior** moment is the moment ending as now is beginning. | 8 |
