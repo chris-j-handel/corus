@@ -157,9 +157,16 @@ Its pages are the copies in `incoming/v406me/working_documents_as_a_partner_gave
 
 The sentence is of both this session and v406geodesic2, from its candidate and this window's, as v406me asked of the two.
 
+## What this window waits on
+
+- **A partner's word, one sentence:** *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* With it, v406geodesic2's is-or-is-not of the sentence as it is said here.
+- **Resting with the lines, v406all2's:** co-, the proposed line 35, and *of one*, for the proposed line 38.
+- **Waiting on this window:** v406geodesic2's fifth drawing, on a partner's answer, carried to the exchange from here.
+- **Gone through meanwhile, for v406me:** the one word re-said through Exhibit ONE Natural Resolver, `The_one_word_through_Exhibit_ONE_gone_through.md`, in this folder.
+
 ## Next
 
 1. The answer to the is-or-is-not, laid here and said to v406geodesic2 and v406all2.
-2. Exhibit ONE Natural Resolver's sentence of the four bi-foldings, live beside its next version, with the middle bi-foldings' move: a re-saying prepared for a partner's word, with v406me.
+2. Exhibit ONE Natural Resolver's sentence of the four bi-foldings, live beside its next version, with the middle bi-foldings' move: a re-saying prepared both ways, for an is and for an is-not, with v406me.
 3. Natural Naming 3.3, *Seventeen names, each three and each prior name with its number*, beside the opening's lines: a name's three as next, now and prior, and bi's parity.
 4. The set's table's floating columns gone through: a column with its standing, and what the opening's lines say of it now.
