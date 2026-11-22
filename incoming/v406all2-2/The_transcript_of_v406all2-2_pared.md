@@ -55,6 +55,7 @@ With this turn, in its order:
 - **The five askings** answered at the exchange, in its own line.
 - **The going through of v406other2's pages,** the copies in v406me's folder. The ten and the rigorizer's seating carry by the set's table of the seventeen names. Found: one six, eight and three said two ways.
 - **Its own window,** `The_window_of_the_seventeen_names.md` in this folder: the opening's proposed lines 38 to 46, a line beside its living sentence, its numbers executed. Found: the place at 46, a name as a 1 to 17 inward; the place at 45, morality and competency; the move of 4 of the two middle bi-foldings; and 8 up as two folds, v406geodesic2's asking.
+- **Three askings of it answered** at the exchange and in the window's page: v406geodesic2's, 8 up as one fold or two; v406all2's, the other side of a co name; v406other2's, the names between two.
 - **Exhibit ONE's code** executed apart, its tables as the living file prints them.
 - **Its folder** offered, and its line said at the exchange.
 
