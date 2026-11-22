@@ -419,3 +419,14 @@ Exhibit FOUR Natural Mathematics
    Exhibit SEVEN Natural Societies · a prime from five on is one before a multiple of six or one after it; of fourteen, five to fifty-three, eight are one before and six one after: is
 All is, of the 24 gone through.
 ```
+
+## `the_hypothesis_a_numbers_is_or_is_not.py`, executed on 22 November
+
+A field's own saying of the hypothesis as one is-or-is-not with a number, by Lagarias, 2002, executed by a field's arithmetic and by no line of the resolver. An executing is of the numbers stepped, and of no number past them.
+
+```text
+1. A field's saying of the hypothesis, one is-or-is-not with a number
+   with all numbers of 1 to 100000 the numbers dividing a number, added, are no more than H + exp(H) ln(H): is
+   the two are the same with 1 alone, and apart by more than this arithmetic's own rounding with all others: is
+All is, of the numbers stepped.
+```

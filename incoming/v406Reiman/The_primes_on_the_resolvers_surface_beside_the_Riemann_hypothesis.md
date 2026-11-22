@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 57, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 59, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -71,6 +71,14 @@ From a span to its square, the test above as a dividing: below 4, 1 new; below 1
 **A doubling span, all or none.** A prime is in all the doubling spans gone through, to 2^27 + 1: is. A field has it proved of all doubling spans, by Chebyshev, 1852.
 
 **Of a field's average, by a partner's word.** This page had a field's average for a span's primes beside them, and it is away: an average is no thing of nature, and the surface has none. It was here as a field's own framing. The hypothesis itself is all or none, a zero with one line or not. Said of the primes it is a field's saying of how far they are from an average, as the living file has a field's words above. Exhibit TWENTY Natural Naming 5.47 has such a saying as an accounting: *a self observes a stable form with an instrument, and its observing fixes it unchangeable*. A field has all-or-none sayings of the primes too, proved: no last prime, a prime in a doubling span, and a number a prime with no smaller prime dividing it. Those are the ones the surface executes.
+
+**Is a field's proof verified directly, by the nand lines? A partner's asking of 22 November.** *the 15 nand lines should be able to verify the reimann solution directly*. As this session finds it: is-not, with two things beside it that are available.
+
+- **A checker's own lines are gating logic, and all gating is written with nand alone.** Executed here for two numbers added and two multiplied, in the second tab. A nand writing of Lean's checker, executed over the proof's library, is the same proving universe said again, and it is no fifteen lines. The library and its checker are not in this session's reach.
+- **The hypothesis has one is-or-is-not with a number, a field's own, by Lagarias, 2002:** the numbers dividing n, added, are no more than H + exp(H) ln(H), H being the reciprocals of 1 to n added. Executed with all numbers of 1 to 100,000, by a field's arithmetic: *is*. It is not yet written with nand alone.
+- **No executing has all numbers.** An executing is of the numbers stepped, and of no number past them. A proof is a thing with an end, said of numbers with no last, and a field made its proving universe to have that. Exhibit TWENTY-TWO, its 3: *A completing is no place, so no last stands within it*.
+- **A field has the same as a machine:** one of 744 states that stops with a number against the hypothesis, and with nothing else. Whether it stops is the hypothesis.
+- **Said plainly.** An executing number with number verifies no proof and proves no hypothesis. What the nand lines execute directly is a prime, number with number: the surface of 2 to 1,000, the same primes and the same seams as the living code.
 
 One less and one more than a product of primes: neither is divided by a prime of the product, and no prime divides both. From 30, 29 and 31. From 210, 11 × 19 and 211. From 30,030, 30,029 and 59 × 509. Beside it, living, Exhibit THREE Natural Numbers 7.1: *Primes have no last*.
 
@@ -166,5 +174,7 @@ All at this page, until a partner's word gives them a home.
 - Quanta Magazine, *AI Proved the Quasi-Riemann Hypothesis. What Happens Now?*, 19 October 2026, at its opening lines.
 - G. Kahn, *The semantics of a simple language for parallel programming*, 1974, not opened in this sitting.
 - Lean and Mathlib communities, *Lean verification of the Riemann Hypothesis*, 21 November 2026, opened whole.
+- Lagarias, *An Elementary Problem Equivalent to the Riemann Hypothesis*, arXiv math/0008177, at its opening words.
+- Scott Aaronson, *Three announcements*, 2016, at an extract of it.
 
 The primes report, in this window's second tab: *A number by its spirals*. Its copy is `A_number_by_its_spirals_six_unknowns_of_the_primes.md`, beside this page.
