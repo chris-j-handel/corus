@@ -162,7 +162,7 @@ What carries, by the executing:
 
 What does not carry, by the executing:
 
-- **The resolver executed here is thirty lines of code, a rule.** Nothing in the executing distinguishes its stepping from a field's sieve, and its way was the longer one.
+- **The resolver executed here is seventy-two lines of code, a rule.** Nothing in the executing distinguishes its stepping from a field's sieve, and its way was the longer one.
 - **No line of the resolver has φ,** by Natural Numbers 3.1 above. A number's own closings are numbers' own arithmetic here, and no executing of the resolver.
 - **A field came to without end twice, by proving:** primes without end, and a gap no wider than a fixed size without end. The sayings have no place for those two yet.
 - **That the primes are living is shown by no executing here.** Natural Numbers 1.7 has, of prime scales: *Primes 5 through 53 are prime scales, five non-living and seven through fifty-three living*.
