@@ -87,6 +87,27 @@ say("a name to its next name is eight inward, a span, 1 to 9", all(inward(n + 1)
 say("an odd name to its next odd name is sixteen inward, a 1 to 17", all(inward(n + 2) - inward(n) == 16 for n in range(1, 16, 2)))
 say("eight 1 to 17s inward are with 1 to 17: 1 to 3, 3 to 5, on to 15 to 17", len(range(1, 16, 2)) == 8)
 
+# 8b. Four moments and a four-cycling, by 8n − 7.
+say("four 1 to 17s inward are a span of this scale, 1 to 9: a self's four moments of exchanging", inward(9) - inward(1) == 4 * 16)
+say("a four-cycling with its between, 1 to 5, is two 1 to 17s inward", inward(5) - inward(1) == 2 * 16)
+
+# 8c. Parity's unit square, the four possibling names, edge by edge 2, 10, 14, 6.
+root = {1: "existing", 2: "possibling", 3: "observing", 4: "same-existing", 5: "existing", 6: "possibling", 7: "observing",
+        8: "same-existing", 9: "discovering", 10: "possibling", 11: "observing", 12: "same-existing", 13: "discovering",
+        14: "possibling", 15: "observing", 16: "same-existing"}
+co_names = {3, 4, 5, 6, 9, 10, 11, 12}
+square = [2, 10, 14, 6]
+say("the unit square's four dots are the four possibling names", sorted(square) == sorted(n for n in root if root[n] == "possibling"))
+say("edge by edge, 2, 10, 14, 6, a name without co and a co name in turn", [n in co_names for n in square] == [False, True, False, True])
+edges = [gray(square[i]) ^ gray(square[(i + 1) % 4]) for i in range(4)]
+say("an edge of the unit square inverts two parities: 8 apart the third and the fourth, across the second and the third", edges == [12, 6, 12, 6])
+say("no bi-folding of the four is of four possibling names", all(sum(root[n] == "possibling" for n in f) < 4 for f in four))
+say("2 and 10 are of 2-15-7-10, and 6 and 14 of 3-11-6-14, 8 apart through a bi-folding's centre",
+    {2, 10} <= {2, 15, 7, 10} and {6, 14} <= {3, 11, 6, 14} and 10 - 2 == 8 and 14 - 6 == 8)
+sides = round_of(2, [less9, less17, less9, less17])[:4]
+say("round 2-15-7-10 by its sides, a fold a step: 2, 7, 10, 15, possibling and observing in turn",
+    sides == [2, 7, 10, 15] and [root[n] for n in sides] == ["possibling", "observing", "possibling", "observing"])
+
 # 9. The set's table, if given: its columns of the three, the bi-foldings, the loops and the middle bi-foldings.
 if len(sys.argv) > 1:
     rows = list(csv.reader(open(sys.argv[1], encoding="utf-8")))
