@@ -273,6 +273,35 @@ def all_parity_is_next(now, step):
     return rule, of_one and of_two
 
 
+def a_0_and_its_next(step, q):
+    """A spiral facing as Exhibit ONE opens it, and a spiral facing it: its 0 with a number, and the self next of the 0."""
+    a_self_it_is = one_self_on = in_turn = True
+    for facing in (1, -1):
+        society = {i: ([(S, exhibit_spiral_priors(q)[i])], []) for i in range(q)}
+        along = {(i, 9): (i + facing) % q for i in range(q)}
+        before = None
+        for k in range(q + 1, 3 * q + 3):
+            for _ in range(2):
+                society = step(society, along)
+            gives = [None] * q
+            for i in range(q):
+                received = [v for s, v in society[i][1] if s == S]
+                gives[(i - facing) % q] = received[0] if received else None
+            priors = its_priors(society, q)
+            pair = [i for i in range(q) if priors[i] == priors[(i + 1) % q]]
+            zero = [i for i in range(q) if gives[i] == 0]
+            if len(pair) != 1 or len(zero) != 1:
+                a_self_it_is = False
+                continue
+            first_of_the_pair = pair[0] if facing == 1 else (pair[0] + 1) % q
+            a_self_it_is = a_self_it_is and zero[0] == first_of_the_pair
+            if before is not None:
+                one_self_on = one_self_on and zero[0] == (before + facing) % q
+            before = zero[0]
+            in_turn = in_turn and gives[(zero[0] + facing) % q] == (1 if k % 2 == 0 else -1)
+    return a_self_it_is, one_self_on, in_turn
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -318,6 +347,13 @@ if __name__ == "__main__":
     print(f"   the two 0s part the between: on the side of its pair of one parity a self and an other are + with -, and on the side of its own podal self the same: {is_or_is_not(z[4])}")
     print(f"   a number's place on a spiral: its one pair of one parity is one self on with a number, and at the spiral's opening place at its seam and at no other number: {is_or_is_not(z[5])}")
     print(f"   a self is at the spiral's seam with a self's 0 at the spiral's last self, and at no other number; an other, with an other's 0 at the spiral's self 1: {is_or_is_not(z[6])}")
+    f = [True] * 3
+    for q in odd_spirals:
+        f = [a and b for a, b in zip(f, a_0_and_its_next(step, q))]
+    all_is = all_is and all(f)
+    print(f"   a spiral's 0 is a self: with a number one self of it gives a 0, the self of its pair of one parity it is facing with, a self's facing and an other's: {is_or_is_not(f[0])}")
+    print(f"   with the next number the 0 is one self on, in its own facing: {is_or_is_not(f[1])}")
+    print(f"   the self next of the 0, in its facing, gives + with an even number and - with an odd number, + and - in turn: {is_or_is_not(f[2])}")
     own_prior = all(one_parity_of_the_between(step, q)[0] for q in odd_spirals)
     of_one = one_parity_of_the_between(step, 1)[1][:8]
     one_self = of_one in ([1, 0, -1, 0, 1, 0, -1, 0], [-1, 0, 1, 0, -1, 0, 1, 0])

@@ -94,6 +94,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *the original 0 of universal all-parity inside the bi-coupling and a second 0 is now living and this is the orienting of the bi-coupling bi-parity on the surface plane of the between*
 - *the 0s are bothbothing as living condition of one self as a universe with a parity in a larger universe*, with *this is same-existing prior now and next*
 - *all-parity is tri, universe, next*, with *this is the first other-than other inside the universe of self*
+- *each self has a +1 in the forward (for that self) facing direction along on the surface*, with *a bothbothing 0 is that self as the from of the aiming direction*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -137,6 +138,9 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 - **A self of a spiral is observing of one self, and a between self of two,** a self and an other.
 - **A number's place on a spiral is its one pair of one parity's,** one self on with a number. It is at the spiral's opening place at its seam, and at no other number.
 - **A self is at the spiral's seam with a self's 0 at the spiral's last self,** and at no other number. An other is at the seam with an other's 0 at the spiral's self 1.
+- **A spiral's 0 is a self.** With a number one self of it gives a 0: the self of its pair of one parity it is facing with, in a self's facing and in an other's.
+- **With the next number the 0 is one self on, in its own facing.**
+- **The self next of the 0, in its facing, gives + with an even number and − with an odd number,** + and − in turn.
 
 **On the surface, all spirals side by side.** A podal pair is a self and an other at one distance of their between, a number, and it is living once both are uncrossed.
 
@@ -180,6 +184,7 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 | *the original 0 of universal all-parity inside the bi-coupling and a second 0 is now living and this is the orienting of the bi-coupling bi-parity on the surface plane of the between* | Executed, sentence 21: two 0s in the between, a self's and an other's, newborn with its pair of one parity, podal, and parting the between, + with − on one side and the same on its other |
 | *the 0s are bothbothing as living condition of one self as a universe with a parity in a larger universe*, and *this is same-existing prior now and next* | Living, Exhibit THIRTY's saying of a parity and its 0, above. Executed, sentence 21: the between self that is its own podal has one parity of its own, the same number with number, inverting once the two 0s are with it |
 | *all-parity is tri, universe, next*, with *this happens from 1-9 to 1-17*, and *this is the first other-than other inside the universe of self* | Living, Exhibit ONE Natural Resolver's paragraph of a name's three: tri is all-parity, in the next slot with 7 and 15. Executed, sentence 22: a self's next prior is the all-parity it is observing, and a between self is observing of two. A parting, at v406me's page: tri next with 17, a partner's word of 21 November, beside the table's co-bi-tri |
+| *each self has a +1 in the forward (for that self) facing direction along on the surface*, with *a bothbothing 0 is that self as the from of the aiming direction* | Executed, sentence 23: a spiral's 0 is a self, and with a number it is one self on in its own facing. The parity next of the 0 is + with an even number and − with an odd number |
 | *2d aiming on this surface orthogonal to and aiming from the empty nothing hole location in the surface on the self other co-linear* | Executed in part: the two 0s are with the pair of one parity and then with the own podal self, two places of one co-linear of the between. The hole on the co-linear of a self and an other: drawn, the fifth drawing's 0, and not executed |
 | *this self in the universe outside the bi-coupling is 1-17 and this self is aiming itself on a natural torusing surface*, with *the primes are self-locating the bi-folding crossings* | Executed: a number's place on a spiral is its one pair of one parity's, at the spiral's opening place at its seam alone. A prime is at the opening place of no smaller spiral |
 | *co-competencing the prime fractal expansions at podaling intervals in the gaps across 2 4 6 12 24 36 forward and backward* | Executed: three parts the six, the six are seven's places, and six multiplied is with two and three uncrossed |
@@ -282,9 +287,10 @@ All at this page, until a partner's word gives them a home. The steps are in the
     - A partner's word: is.
     - Its is resolves a partner's saying of 1 to 9 and 1 to 17 as 7 and 15, 8 up, living in Exhibit ONE Natural Resolver and executed in its code, with the between self the one observing of two.
     - Its lean saying is offered into Exhibit ONE Natural Resolver's gathering file of the next version, beside its paragraph of a name's three.
-- **23. With a spiral, a self is crossed with a self's 0 at the spiral's last self, and an other with an other's 0 at its self 1: a self and an other are a living podal pair with all smaller spirals' two 0s away from the last self and from self 1.** *( is-or-is-not? )*
-    - Its is resolves a prime by the 0s of its betweens, a partner's primes at the bi-folding crossings, executed with all sixteen odd spirals.
-    - Its is-not resolves a crossing with a 0 at an other self of the spiral, and none is found.
+- **23. A spiral's 0 is a self, the from of its aiming, and with a number it is +1, one self on in its own facing: a self is crossed with its 0 at the spiral's last self, an other with its 0 at self 1, and a living podal pair is with neither.** *( is-or-is-not? )*
+    - A partner's word of its wording before: most likely is, and not yet; with a self's +1 in its own facing, and a bothbothing 0 as the self it aims from. It is said again by that word.
+    - Its is resolves a prime by the 0s of its betweens, with no smaller spiral's 0 at its last self or its self 1, executed with all sixteen odd spirals.
+    - Its is-not resolves +1 as the parity + next of the 0 with all numbers, and executed it is + with an even number and − with an odd number.
 
 ## The six unknowns, by the co-chaining
 

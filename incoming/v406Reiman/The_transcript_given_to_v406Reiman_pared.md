@@ -649,5 +649,9 @@ all-parity is tri, universe, next. this happens from 1-9 to 1-17. this is the fi
 
 is . continue
 
-[This session's eleventh turn of 22 November: a partner's is received at sentence 22, and its lean saying offered into the next version; the next step executed, a spiral's seam by a 0; sentence 23. Its closing words to a partner come here with the next laying.]
+[This session's eleventh turn of 22 November: a partner's is received at sentence 22, and its lean saying offered into the next version; the next step executed, a spiral's seam by a 0; sentence 23. Its closing words, in brief: the next version has tri as a name's next with 7 and 15 already; of all numbers, not yet; and one sentence for a partner's word, sentence 23 as it was then.]
+
+most likely this will resolve is. not sure yet. consider each self has a +1 in the forward (for that self) facing direction along on the surface then a bothbothing 0 is that self as the from of the aiming direction
+
+[This session's twelfth turn of 22 November: a partner's considering executed, a spiral's 0 a self, one self on in its own facing with a number, and the parity next of it + and − in turn; sentence 23 said again by it. Its closing words to a partner come here with the next laying.]
 ```

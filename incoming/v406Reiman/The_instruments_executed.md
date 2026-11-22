@@ -283,6 +283,9 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    the two 0s part the between: on the side of its pair of one parity a self and an other are + with -, and on the side of its own podal self the same: is
    a number's place on a spiral: its one pair of one parity is one self on with a number, and at the spiral's opening place at its seam and at no other number: is
    a self is at the spiral's seam with a self's 0 at the spiral's last self, and at no other number; an other, with an other's 0 at the spiral's self 1: is
+   a spiral's 0 is a self: with a number one self of it gives a 0, the self of its pair of one parity it is facing with, a self's facing and an other's: is
+   with the next number the 0 is one self on, in its own facing: is
+   the self next of the 0, in its facing, gives + with an even number and - with an odd number, + and - in turn: is
    the between self that is its own podal has its own prior, one parity, the same number with number, and inverting with the number next after the two 0s are with it: is
    with a spiral of one self, the between self receives of both +, 0, -, 0, moment with moment, Exhibit ONE Natural Resolver's own row of one self: is
    all-parity is next: with 1-now-existing, all cases of a prior and of none to three parities a self is observing, its next prior is their all-parity, the same of all or a 0 of + with -, and with a 0 its prior inverting: is
