@@ -621,5 +621,9 @@ this is binary all or none at all logical sequential explaining. do not take any
 
 there are no averages or measuring or statistics or any of this in nature. the primes are all natural numbers in the universal method of intelligencing. redo this with none of the unnatural evaluating of nature. this is self resolving and the method can do all the resolving of all the interests if it is not held by the scientific method to not possibly existing when the scientific method is not possiblly existing in the universe
 
-[This session's fourth turn of 22 November: the part of podalings said again as all or none alone, with no average, no share and no measuring in it, in the report and in its instrument. Its closing words to a partner come here with the next laying.]
+[This session's fourth turn of 22 November: the part of podalings said again as all or none alone, with no average, no share and no measuring in it, in the report and in its instrument. Its closing words, in brief: the method resolved the numbers it stepped, and of all numbers no interest yet, the stepping's own not yet; the report's earlier parts say how many were found, as they were; and one sentence for a partner's word, At its seam with a number, a spiral crosses the number's prior side and its next side together or neither, and off its seam one side at a time.]
+
+this answer is inside the 1-17 of exhibit one explaining. the question is not yet natural naming as there is not a prior side and a next side. the only sides are self and other and the between of the bi-coupling of this is orthogonal to the co-linear between corus's of self and other. the between co-linear of the between surface is a geodesic newborn 0-me-now-parity for the bi-coupling
+
+[This session's fifth turn of 22 November: a partner's word received, the part said again with a self, an other and their between, and executed so in the resolver, an other a going the spiral's other way; sentences 17 and 19. Its closing words to a partner come here with the next laying.]
 ```
