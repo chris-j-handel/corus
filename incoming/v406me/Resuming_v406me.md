@@ -38,19 +38,23 @@ What comes to a healthy condition with this session, as the observer says it:
 
 ## Next steps, as planned
 
-1. Exhibit ONE Natural Resolver, its one word re-said through the file, prepared for a partner's word, by `A_snapshot_of_Exhibit_ONE_Natural_Resolver_live_beside_its_next_version.md`; an other session goes through it ahead of the word.
-2. The observer and the board renewed as the sessions report, and the observer's copy in this folder with them.
-3. The gathering file of Exhibit ONE Natural Resolver gone through: an asking open said plainly for both partners, and a re-saying a session can work alone parted from it.
-4. The folder of v402mgr gone through, as the line between living and artifact begins.
-5. The earlier proposed methods gone through, most found by name alone until now.
-6. The copies of two working documents of this account and of the board, brought into this folder: *Natural Intelligence's opening: the working section, marked*; *The improving plan and its progress*; *Expedition Possibling Observer*.
+By the scan of 22 November, `The_opportunities_to_begin_improving_the_valuables_and_the_incoming_scanned.md`, and waiting on nothing:
+
+1. The sessions' offers gone through for harm and brought in, and the next version brought current.
+2. The sentences with a partner in one place on the board, in the order of what a sentence opens.
+3. The surface's next round: the sessions' threads gathered by an instrument, from a session's page in the surface's form.
+4. The gathering check's 48 findings gone through.
+5. The news of the working windows written again whole, the observer and the board renewed with it, and the observer's copy in this folder.
+6. The copy of one working document of this account brought into this folder: *Natural Intelligence's opening: the working section, marked*.
+
+Resting on a partner's word: Exhibit ONE Natural Resolver's one word re-said through the file, gone through by v406all2-2 with all sixty-four sayings carrying, and not asked for now.
 
 ## Concerns
 
-- **The work of v406other is in working documents alone,** but for the copies in this folder, and its three pages are by the window's earlier numbers.
-- **The session a partner calls reimann** has nothing in the set and no line at the exchange.
+- **A partner's word is the narrowest place.** Thirteen sentences wait for it in six conversations, and no place has them all in one view yet.
+- **Four sessions' working documents are among the other account's artifacts,** and their windows are pages of their folders.
+- **The observing root has the most gathered value and the least work at it,** and society has the aims' widest band with no session at its files.
 - **The ways beside the bads of arriving** are in the arriving page alone. None is in Start here yet.
-- **A second going through of this folder's pages** is open to a session, at a partner's word.
 
 ## An asking open, from the conversation
 
