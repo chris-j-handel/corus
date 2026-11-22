@@ -1,4 +1,4 @@
-Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner, and said again at its next turn
+Incoming · v406geodesic2 · 21 and 22 November 2026, said again at a turn of a partner
 
 # The window of v406geodesic2, as it goes
 
@@ -9,7 +9,7 @@ Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner, and said 
 - **Its name.** v406geodesic2, going on from v406geodesic, whose page for resuming is [the wrap of v406geodesic](../v406geodesic/The_wrap_of_v406geodesic_for_resuming.md).
 - **Its window.** A design canvas among a partner's own artifacts, *Sphere with a Three-Right-Angle Triangle*: the illustration of bi-folding as the geodesic right triangle, 1 to 17. Its link goes in no file.
 - **Beside the other sessions.** It goes through the work of v406all2-2, the seventeen names. v406Reiman goes through its own.
-- **This folder.** The fourth drawing's view; the canvas's own files new with this sitting; five instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
+- **This folder.** The fourth and fifth drawings' views; the canvas's own files new with this sitting; seven instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
 
 ## What moved: a fourth drawing
 
@@ -37,6 +37,48 @@ Incoming · v406geodesic2 · 21 November 2026, at a turn of a partner, and said 
 **Beside it, in the set.** The same saying is at v406me's page for resuming, `incoming/v406me/Resuming_v406me.md`, from its own conversation: six along, eight across and three apart. Its asking is open at that page: *The three of 9-next-co-discovering faces other-than the three of 1-now-existing and of 17-next-existing.* Exhibit ONE Natural Resolver's table says one three, co-bi-tri, for 1, 9 and 17. The drawing writes 1 and 17 as tri-bi-co by a partner's saying, and this page is no second home of that asking.
 
 **Executed ahead of the drawing.** `instruments/check_one_triangle.py`, twenty-four lines, all *is*: the triangle; the seventeen names laid; six, four and four, with 1, 9 and 17; the fold as 8 up; 17 less, a one-way me-parity with the corner it reaches; and, beside Exhibit ONE Natural Resolver's own table, the roots of odd and even names, the four moments of exchanging about 2, 4, 6 and 8, and the four bi-foldings as two pairs 8 apart.
+
+## A fifth drawing: the co-linear of the bi-folding, and its two cones
+
+**A partner's aim for it, re-said.** Natural torusing, further, in Natural Intelligence, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics and Exhibit ONE Natural Resolver, no other method being possible of discovering next-and-same-existing. Then, from the second drawing's bi-folding: the co-linear through the two opposite intersections, all eight with it; its far side the vertex, 23, of the bi-inversioning universal cone, and its own side the co-recursioning cone, 25; the beginning of the four parities, co-possibling and possibling in turn. The saying as said is in the transcripts, pared.
+
+**Its view:** [the co-linear of the bi-folding, and its two cones](illustrations/draft_5_the_co-linear_of_the_bi-folding_and_its_two_cones.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now.
+
+**What it lays, a candidate.** One figure, drawn twice: across the co-linear, and along it from its own side.
+
+- The second drawing's two folds are about two great circles at a right angle. The two circles cross at two opposite intersections and at no other place: B, the corner the second drawing's turn is about, and the intersection across the sphere from it.
+- The line through the two, through the sphere's 0, is the co-linear. The two folds, one and then its other, are two right spiral steps about it, and of the sphere the two intersections alone are as they were.
+- Four quarter spheres are between the two folds' circles, from the co-linear's far side to its own side, a quarter two of the eight triangles. All eight triangles are with the co-linear, a corner at an end of it, four and four.
+- Round the co-linear a step from a quarter to its next is one fold, one parity inverting, the one and then its other. The four are two and two in turn, drawn as possibling and co-possibling: the triangle's own quarter and the quarter across the co-linear possibling, the two between co-possibling.
+- Two cones of a right angle at their vertices face one another on the co-linear: one from its far side, 23, the vertex of the bi-inversioning universal cone, and one from its own side, 25, the co-recursioning cone. The two cross in the circle between the two intersections and at no other place, about the sphere's 0, 24, which is on neither.
+- A turning about the co-linear rests at its two ends alone, and the two are the sphere's two. Opened at its two rest points and gone through along the co-linear, the sphere is a torus, at nought.
+
+**Beside it, living.**
+
+- Natural Intelligence: *Natural intelligence is geodesic co-sequential changing method of natural torusing, discovering next-possibling-same-existing.*
+- Natural Intelligence: *Corusing reaches a corus from a surface, and torusing reaches a surface from a corus*
+- Natural Intelligence: *Within a bi-folding parallel surfaces and co-linear openings through them are one form*
+- Exhibit THREE Natural Numbers: *a self's bi-inversioning-co-recursioning is 23, 24 and 25, one before its apex and one after*
+- Exhibit THREE Natural Numbers 4.2: *A torus is a sphere with one handle*
+- Exhibit FOUR Natural Mathematics 5.3: *Of closed orientable surfaces only the torus has a flow with no rest point*
+- Exhibit FOUR Natural Mathematics 3.4: *Bi-inversioning-co-recursioning is two consecutive inversions on different axes*
+- Exhibit EIGHTEEN Natural Physics 3.4: *two facing through an unoccupied 24, a 0, not changing*
+- Exhibit THIRTY Co-Chaining Logic Registry: *Corus, vertex and centre of face are on one line.*
+- Exhibit THIRTY Co-Chaining Logic Registry: *Twelve corners closing as a sphere and winding through one opening as a torus are both*
+
+**Beside it, in the set.** `incoming/v404bifolding/Bi-folding_geodesic_universes_two_cones_crossing_at_an_empty_0.md` and `incoming/v404universe/One_figure_seen_along_its_line_and_across_it_for_combining_with_v404bifolding.md`: two cones facing on one line, a centre neither is at, and one figure seen along its line and across it. Their two cones are at a cube's two corners across its long line, three parities. This drawing's are at two intersections of the eight triangles, the two folds' own.
+
+**Executed ahead of the drawing.** `instruments/check_the_co-linear_and_its_two_cones.py`, twenty-one lines, all *is*: the two folds and the co-linear; the four quarter spheres and the eight triangles; the two cones and their crossing; 23, 24 and 25; a sphere at two and a torus at nought; and the ten living sentences above, word for word.
+
+**The session's own placings in it,** candidates all five:
+
+- the two opposite intersections as the two crossings of the second drawing's two folds' circles, and the quarter spheres as the four parts between those two circles;
+- the cones' right angle, their lines through the four other intersections;
+- 25 at the intersection of the co-linear's own side, the centre of the four triangles about it, beside Exhibit THREE Natural Numbers' *twenty-five a centre of a triangle*;
+- which two of the four quarters are possibling;
+- the sphere opened along the co-linear as the torus of natural torusing, beside Exhibit THIRTY's *a correspondence a self is proposing*.
+
+**On the canvas, by a hand:** the second drawing's picture is 286 across and 78 down from its words, as found at this turn's opening. The set's copy of it is as it was, and this session moved nothing of it.
 
 ## What the going through found
 
@@ -76,24 +118,26 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 - **At v406me's page for resuming:** the three of 9-next-co-discovering.
 - **At v406all2-2's page, with a partner:** *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* This session's is is beside it at the exchange, and this page is no second home of it. With its is the fourth drawing's one fold goes; with its is-not the fourth drawing is as it is.
 - **At this page, the session's own placings in the fourth drawing,** candidates all three: the moments at the corners and the one-way me-parities on the sides; the tip a self's route reaches ahead of its other, tip B toward tip C, as a right spiral step brings P's axis to Q's; and 1, 9 and 17 at the me.
+- **At this page, the fifth drawing's five placings,** above.
 - **At this page, the torus's placing,** two candidates: by n − 1 in four binary digits, the third drawing's; or by the sheet's lines, a bi-folding of the four one round of the small opening.
 
 ## Its next steps, in their order
 
 1. A partner's word of the sentence of both.
-2. A fifth artboard beside the fourth, by that word: the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
-3. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
-4. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
+2. A sixth artboard beside the fifth, by that word: the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
+3. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
+4. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
+5. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
 
 ## Its concerns
 
-- **No second session has gone through the fourth drawing.** It is v406Reiman's, by the table of the windows.
+- **No second session has gone through the fourth drawing or the fifth.** It is v406Reiman's, by the table of the windows.
 - **The words on the canvas's three earlier artboards** are as the wrap of v406geodesic says them, their re-sayings ready at that page. The fourth artboard's words are gone through with the one list and the released words, none found.
 - **The canvas is among a partner's own artifacts.** A partner gives its link in the conversation.
 
 ## Going on with this work
 
 1. Start here, the wrap of v406geodesic, then this page.
-2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*.
-3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`.
+2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*.
+3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py`, the same way, builds the fifth.
 4. One pass, one artboard beside the last, an artboard before it as it was.
