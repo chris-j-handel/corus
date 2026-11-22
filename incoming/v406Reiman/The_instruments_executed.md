@@ -108,12 +108,7 @@ All is, of the seven forms.
 ## `spans_and_straddles_by_division.py`
 
 ```text
-The primes of a doubling span, beside a field's average for it
-             9 to          17 ·         3 primes · average          3.2 · their difference over the square root of the span's end -0.04
-            65 to         129 ·        13 primes · average         14.1 · their difference over the square root of the span's end -0.09
-         8,193 to      16,385 ·       872 primes · average        872.1 · their difference over the square root of the span's end -0.00
-     1,048,577 to   2,097,153 ·    73,586 primes · average     73,602.4 · their difference over the square root of the span's end -0.01
-    67,108,865 to 134,217,729 · 3,645,744 primes · average  3,646,033.6 · their difference over the square root of the span's end -0.02
+A doubling span, all or none
    a prime in all the doubling spans to 2^27 + 1: is
 
 One less and one more than the product of the primes to a prime
@@ -303,6 +298,8 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    17-next-existing is co-bi-tri, co with 16-next-same-existing's bi-tri, and 1-now-existing is as 17: is
    by Exhibit ONE Natural Resolver's code's own syntax, no line adds, multiplies or divides, and no line has a number of selves: its numbers are 0, 1 and -1, and its names' 6, 9 and 10; a seam and a prime are in no line of it: is
    all 16 odd spirals side by side are, spiral with spiral, the spiral alone, moment with moment: no self is observing a self of an other spiral, and a number uncrossed is observed from beside, of no self: is
+   a self's prior is inverting with not both: with 1-now-existing, all cases of a prior and of none to three observed, with both, a parity surfacing and the same as its prior, a self gives a 0, its prior same-existing, and with not both its prior is inverting: is
+   by the code's own syntax it has one line of both, and no line of either and no line of not: is
    a spiral with two scales: with its own, number with number of one turn, its selves' priors are never its opening's and never their inverse: is
    one scale outward, a turn of it for one moment, a spiral is the row of a self observing nothing, its priors inverting turn with turn, by 1-now-existing with no parity: is
 2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
@@ -329,6 +326,11 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    three, off its seam, crosses neither of the two at 6, 12, 24 and 36, and at no other of the six: is
    seven, at its seam with the between, crosses neither of the two at all six; off its seam, one of the two at two of the six: is
    a number uncrossed by two and by three has the numbers at 6, 12, 24 and 36 of it, forward and backward, uncrossed by two and by three: is
+   a self and an other six apart, a field's sexy primes
+   with six numbers on, a self alone and a spiral of three are again as they were, by the resolver's code as it is: is
+   from five on, no spiral is at its seam with both of two numbers six apart, 2 to 3720: is
+   on a spiral of five the number six on is one self on, and on a spiral of seven one self back, by the place of its one pair of one parity: is
+   a living pair six apart, from five on, is two primes both one short of a six or both one past it: is · found: 5 and 11, 7 and 13, 11 and 17, 13 and 19, 17 and 23, 23 and 29, 31 and 37, 37 and 43
    a number, 4 to 1860, is the between of a self and an other both uncrossed, found outward of it: is
 4. By numbers' own arithmetic, with no resolver in it
    a closed turn of three, five and seven: the pairs uncrossed by all three are a spiral's places less one at its seam and less two off it, multiplied: is
@@ -337,5 +339,6 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    its closing is one short of the prime, or twice one past it, or a part of one of the two, all but five: is
    an odd spiral comes to its parities again with four times its number of moments, all 16, with the resolver's code as it is: is
    round five, prior two added closes with twenty steps, four times five, the moments a spiral of five selves comes to its parities again with: is
+   prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: is
 All is.
 ```

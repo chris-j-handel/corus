@@ -20,6 +20,7 @@ is an average, a measuring or a statistic.
     python3 -I incoming/v406Reiman/instruments/podalings_about_an_odd_number.py . [--to 3720]
 """
 import ast
+import itertools
 import re
 import sys
 from pathlib import Path
@@ -435,6 +436,42 @@ def prior_two_added_closing(n):
             return steps
 
 
+def inverting_is_with_not_both(root, page, now):
+    """1-now-existing, all cases of a prior and of none to three observed: a self's giving beside two is-or-is-nots, a parity surfacing and the same as its prior."""
+    with_both = with_not_both = True
+    for prior in (1, -1):
+        for k in range(4):
+            for observed in itertools.product((1, -1, 0), repeat=k):
+                gives, its_next = (dict(x)[S] for x in now([(S, prior)], [(S, v) for v in observed]))
+                a_parity = (1 in observed) != (-1 in observed)
+                both = a_parity and (1 if 1 in observed else -1) == prior
+                with_both = with_both and (gives == 0 and its_next == prior) == both
+                with_not_both = with_not_both and (gives == -prior and its_next == -prior) == (not both)
+    text = (Path(root) / page).read_text(encoding="utf-8")
+    nodes = list(ast.walk(ast.parse(re.search(r"```python\n(.*?)```", text, re.S).group(1))))
+    one_line_of_both = sum(isinstance(n, ast.And) for n in nodes) == 1 and not any(isinstance(n, (ast.Or, ast.Not)) for n in nodes)
+    return with_both and with_not_both, one_line_of_both
+
+
+def six_apart(step, seam, to):
+    """A number and the number six on: a self alone and a spiral of three with six, and a spiral of five and of seven with it."""
+    again = True
+    for q in (1, 3):
+        by_number = a_spiral_alone(step, q, 8 * 6)
+        again = again and all(its_priors(by_number[k + 6], q) == its_priors(by_number[k], q) for k in range(max(q, 2), 8 * 6 - 6))
+    never_both = all(not (n in seam[q] and n + 6 in seam[q]) for q in seam if q >= 5 for n in range(2, to - 5))
+    on_and_back = True
+    for q, facing in ((5, 1), (7, -1)):
+        by_number = a_spiral_alone(step, q, 8 * q)
+        place = {}
+        for k, society in by_number.items():
+            priors = its_priors(society, q)
+            place[k] = [i for i in range(q) if priors[i] == priors[(i + 1) % q]]
+        on_and_back = on_and_back and all(len(place[k]) == 1 for k in place)
+        on_and_back = on_and_back and all(place[k + 6][0] == (place[k][0] + facing) % q for k in range(q, 8 * q - 6))
+    return again, never_both, on_and_back
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -522,6 +559,10 @@ if __name__ == "__main__":
     all_is = all_is and in_no_line and side_by_side
     print(f"   by Exhibit ONE Natural Resolver's code's own syntax, no line adds, multiplies or divides, and no line has a number of selves: its numbers are 0, 1 and -1, and its names' 6, 9 and 10; a seam and a prime are in no line of it: {is_or_is_not(in_no_line)}")
     print(f"   all {len(odd_spirals)} odd spirals side by side are, spiral with spiral, the spiral alone, moment with moment: no self is observing a self of an other spiral, and a number uncrossed is observed from beside, of no self: {is_or_is_not(side_by_side)}")
+    not_both, one_line_of_both = inverting_is_with_not_both(root, page, names["_1_now_existing"])
+    all_is = all_is and not_both and one_line_of_both
+    print(f"   a self's prior is inverting with not both: with 1-now-existing, all cases of a prior and of none to three observed, with both, a parity surfacing and the same as its prior, a self gives a 0, its prior same-existing, and with not both its prior is inverting: {is_or_is_not(not_both)}")
+    print(f"   by the code's own syntax it has one line of both, and no line of either and no line of not: {is_or_is_not(one_line_of_both)}")
     two = [True] * 2
     for q in odd_spirals:
         two = [a and b for a, b in zip(two, a_spiral_with_two_scales(names["_1_now_existing"], step, q))]
@@ -608,6 +649,15 @@ if __name__ == "__main__":
     print(f"   seven, at its seam with the between, crosses neither of the two at all six; off its seam, one of the two at two of the six: {is_or_is_not(seven_at and seven_off)}")
     print(f"   a number uncrossed by two and by three has the numbers at 6, 12, 24 and 36 of it, forward and backward, uncrossed by two and by three: {is_or_is_not(by_six)}")
 
+    again, never_both, on_and_back = six_apart(step, seam, to)
+    living_six = [n for n in uncrossed if n + 6 in U]
+    one_side = all(n % 6 == (n + 6) % 6 and n % 6 in (1, 5) for n in living_six if n >= 5)
+    all_is = all_is and again and never_both and on_and_back and one_side
+    print("   a self and an other six apart, a field's sexy primes")
+    print(f"   with six numbers on, a self alone and a spiral of three are again as they were, by the resolver's code as it is: {is_or_is_not(again)}")
+    print(f"   from five on, no spiral is at its seam with both of two numbers six apart, 2 to {to}: {is_or_is_not(never_both)}")
+    print(f"   on a spiral of five the number six on is one self on, and on a spiral of seven one self back, by the place of its one pair of one parity: {is_or_is_not(on_and_back)}")
+    print(f"   a living pair six apart, from five on, is two primes both one short of a six or both one past it: {is_or_is_not(one_side)} · found: {', '.join(f'{n} and {n + 6}' for n in living_six[:8])}")
     outward = all(any(c - d in U and c + d in U for d in range(0, c - 1)) for c in range(4, to // 2 + 1))
     all_is = all_is and outward
     print(f"   a number, 4 to {to // 2}, is the between of a self and an other both uncrossed, found outward of it: {is_or_is_not(outward)}")
@@ -637,5 +687,13 @@ if __name__ == "__main__":
     print(f"   its closing is one short of the prime, or twice one past it, or a part of one of the two, all but five: {is_or_is_not(beside)}")
     print(f"   an odd spiral comes to its parities again with four times its number of moments, all {len(odd_spirals)}, with the resolver's code as it is: {is_or_is_not(four_times)}")
     print(f"   round five, prior two added closes with twenty steps, four times five, the moments a spiral of five selves comes to its parities again with: {is_or_is_not(five)}")
+
+    a, b, row = True, True, []
+    for _ in range(6):
+        row.append(a)
+        a, b = b, not (a and b)
+    prior_two_not_both = row == [True, True, False, True, True, False] and closings[2] == 3
+    all_is = all_is and prior_two_not_both
+    print(f"   prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: {is_or_is_not(prior_two_not_both)}")
 
     print("All is." if all_is else "NOT ALL IS.")

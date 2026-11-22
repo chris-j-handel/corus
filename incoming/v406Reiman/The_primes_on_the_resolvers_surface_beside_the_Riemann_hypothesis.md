@@ -68,17 +68,9 @@ A spiral of a composite number is again as the smaller spiral laid along it. A s
 
 From a span to its square, the test above as a dividing: below 4, 1 new; below 16, 4 new; below 256, 48 new; below 65,536, 6,488 new, 6,542 together. With the resolver itself this sitting executes to 61.
 
-The primes of a doubling span beside a field's average for it:
+**A doubling span, all or none.** A prime is in all the doubling spans gone through, to 2^27 + 1: is. A field has it proved of all doubling spans, by Chebyshev, 1852.
 
-| A span | Its primes | A field's average | Their difference over the square root of the span's end |
-| --- | --- | --- | --- |
-| 9 to 17 | 3 | 3.2 | −0.04 |
-| 65 to 129 | 13 | 14.1 | −0.09 |
-| 8,193 to 16,385 | 872 | 872.1 | −0.00 |
-| 1,048,577 to 2,097,153 | 73,586 | 73,602.4 | −0.01 |
-| 67,108,865 to 134,217,729 | 3,645,744 | 3,646,033.6 | −0.02 |
-
-A prime is in all the doubling spans gone through, to 2^27 + 1. The hypothesis says of all spans what this page finds of five.
+**Of a field's average, by a partner's word.** This page had a field's average for a span's primes beside them, and it is away: an average is no thing of nature, and the surface has none. It was here as a field's own framing. The hypothesis itself is all or none, a zero with one line or not. Said of the primes it is a field's saying of how far they are from an average, as the living file has a field's words above. Exhibit TWENTY Natural Naming 5.47 has such a saying as an accounting: *a self observes a stable form with an instrument, and its observing fixes it unchangeable*. A field has all-or-none sayings of the primes too, proved: no last prime, a prime in a doubling span, and a number a prime with no smaller prime dividing it. Those are the ones the surface executes.
 
 One less and one more than a product of primes: neither is divided by a prime of the product, and no prime divides both. From 30, 29 and 31. From 210, 11 × 19 and 211. From 30,030, 30,029 and 59 × 509. Beside it, living, Exhibit THREE Natural Numbers 7.1: *Primes have no last*.
 

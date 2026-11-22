@@ -1,8 +1,9 @@
 """Spans and straddles, by division. No resolver is in this page.
 
-A field's arithmetic, executed for the window's own numbers: the primes of a
-doubling span beside a field's average for it, and the two numbers beside a
-product of primes, one less and one more.
+A field's arithmetic, executed for the window's own numbers: a prime in a
+doubling span, all or none, and the two numbers beside a product of primes,
+one less and one more. By a partner's word of 22 November no average and no
+measuring is in it: an average is no thing of nature.
 
     python3 -I incoming/v406Reiman/instruments/spans_and_straddles_by_division.py
 """
@@ -18,13 +19,6 @@ def sieve(n):
         if s[i]:
             s[i * i :: i] = bytearray(len(range(i * i, n + 1, i)))
     return s
-
-
-def average(a, b, parts=20000):
-    """A field's average for the primes from a to b: the sum of 1 over ln t."""
-    h = (b - a) / parts
-    f = lambda t: 1.0 / math.log(t)
-    return (h / 3) * (f(a) + f(b) + 4 * sum(f(a + (2 * i - 1) * h) for i in range(1, parts // 2 + 1)) + 2 * sum(f(a + 2 * i * h) for i in range(1, parts // 2)))
 
 
 def is_prime(n):
@@ -90,13 +84,8 @@ if __name__ == "__main__":
     rng = random.Random(17)
     top = 2 ** 27 + 1
     s = sieve(top)
-    print("The primes of a doubling span, beside a field's average for it")
-    for k in (3, 6, 13, 20, 26):
-        a, b = 2 ** k + 1, 2 ** (k + 1) + 1
-        count = sum(s[a : b + 1])
-        avg = average(a, b)
-        print(f"   {a:>11,} to {b:>11,} · {count:>9,} primes · average {avg:>12,.1f} · their difference over the square root of the span's end {(count - avg) / math.sqrt(b):+.2f}")
-    spans_all = all(sum(s[2 ** k + 1 : 2 ** (k + 1) + 2]) > 0 for k in range(1, 27))
+    print("A doubling span, all or none")
+    spans_all = all(any(s[2 ** k + 1 : 2 ** (k + 1) + 2]) for k in range(1, 27))
     print("   a prime in all the doubling spans to 2^27 + 1:", "is" if spans_all else "is-not")
     print()
     print("One less and one more than the product of the primes to a prime")
