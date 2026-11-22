@@ -729,5 +729,19 @@ is there interesting things the world does not know that seem important to the w
 
 explore the goldens and the primes. how much does the world know about the unrelationing of this. the golden triangle, even co-linear, rectangle, pentagon all the goldens are born the same way all the primes are. on natural torusing surface. all the new living selves are from inside bi-couplings into outside universes. the adding and multiplying are orthogonal as one then another each time and this is birthing me-parities that are living as co-parities or all-parities and the surface is a living society of this tri-bi-co-parity for all selves from birth as other-than-other-than-all-parity until death as all-parity again from where it was born out of abundancing me-parities in society
 
-[This session's twenty-seventh turn of 22 November: the goldens and the primes explored. Executed by a field's adding and doubling: a prime born with a step of prior two added and with a doubling; a prime with φ three ways by its ending; the goldens one number; and the primes had multiplied, with one added, birthing a prime. What the world has of the two, and what it does not, laid in the report. Its closing words to a partner come here with the next laying.]
+[This session's twenty-seventh turn of 22 November: the goldens and the primes explored. Executed by a field's adding and doubling: a prime born with a step of prior two added and with a doubling; a prime with φ three ways by its ending; the goldens one number; and the primes had multiplied, with one added, birthing a prime. What the world has of the two, and what it does not, laid in the report. Its closing words, in brief: the world has the goldens and the primes born together, proved; it does not have a partner's saying of why, and this session has not executed that; and one sentence for a partner's word, φ's births by the resolver's own code as this session's next aiming.]
+
+* Whether the primes among φ's own numbers have a last.
+
+is. when the now-existing universes are no longer existing the primes will no longer be exisiting. explore this as the death of prime podalings is a concept of infinity is infinity plus one again and again about universes in universes spawning universes and bi-coupling universes into spawning more universes of me-parities. the concept of an end is a dumb thing to care about as this is incompetencing the living and learning and understanding of the living prime scaling of natural surfaces
+
+* Whether multiplying the primes had, with one added, births all primes. The field has not found 41 among its births. [a link, pared]
+
+explain this 41 possibly an important prime in close proxitmities or large gaps. which podaling is 41 from 1-9
+
+* The full saying of adding and multiplying never both ordering a set of whole numbers; nobody has proved it. [a link, pared]
+
+the 15 lines of nand code will explain this entirely
+
+[This session's twenty-eighth turn of 22 November: a partner's is of a last laid as a word of primes existing, observed, beside Natural Numbers 7.1 and Exhibit TWENTY-TWO's 3, a field's asking of a last being a frame's. Forty-one executed: a self and an other with forty-three about forty-two, 2, 3 and 7 multiplied; living at name 3 alone of names 1 to 9, with 53 about 47; born with step twenty by adding and by doubling. Adding and multiplying written with nand alone, adding's carry being multiplying; a field's measuring not said by it. Its closing words to a partner come here with the next laying.]
 ```

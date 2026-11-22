@@ -90,6 +90,31 @@ def step_with_nand(society, couplings):
     return {a_self: (next_priors[a_self], next_observing[a_self]) for a_self in society}
 
 
+def adding_with_nand(a, b):
+    """Two numbers added, place with place: a place is either and not both, and its carry is both, one place on."""
+    carry, added = False, []
+    for one, other in zip(a, b):
+        apart = both(either(one, other), nand(one, other))
+        added.append(both(either(apart, carry), nand(apart, carry)))
+        carry = either(both(one, other), both(apart, carry))
+    added.append(carry)
+    return added
+
+
+def multiplying_with_nand(a, b):
+    """Two numbers multiplied: a place with a place is both, a row a place on with a place of its other, and the rows added."""
+    multiplied = [False for _ in a]
+    multiplied.extend(False for _ in b)
+    on = []
+    for place in b:
+        row = list(on)
+        row.extend(both(one, place) for one in a)
+        row.extend(False for _ in multiplied)
+        multiplied = adding_with_nand(multiplied, row)
+        on.append(False)
+    return multiplied
+
+
 def as_observed(a_list):
     """A list as a self observes it: a 0 passed over."""
     return sorted((k, v) for k, v in a_list if v != 0)
@@ -175,5 +200,54 @@ if __name__ == "__main__":
     surface_is = living_surface == with_nand_surface
     all_is = all_is and surface_is
     print(f"   2 to {to}: the same uncrossed numbers, {len(living_surface[0])} primes, and the same seams of all the spirals: {is_or_is_not(surface_is)}")
+
+    print("5. Adding and multiplying of numbers, a partner's saying of sum and product explored")
+    two = (False, True)
+    in_turn = all(both(a, b) == other_than(nand(a, b)) and either(a, b) == nand(other_than(a), other_than(b))
+                  and other_than(either(a, b)) == both(other_than(a), other_than(b)) and other_than(both(a, b)) == either(other_than(a), other_than(b))
+                  for a in two for b in two)
+    all_is = all_is and in_turn
+    print(f"   both is nand and then other-than, either is other-than and then nand, and other-than of the one is the other of the other-thans: {is_or_is_not(in_turn)}")
+    lines_is = True
+    for node in tree.body:
+        if isinstance(node, ast.FunctionDef) and node.name in ("adding_with_nand", "multiplying_with_nand"):
+            lines_is = lines_is and not any(isinstance(n, tests) for n in ast.walk(node))
+            called = {n.func.id for n in ast.walk(node) if isinstance(n, ast.Call) and isinstance(n.func, ast.Name)}
+            lines_is = lines_is and called <= {"nand", "both", "either", "zip", "list", "adding_with_nand"}
+
+    def its_places(n, wide):
+        return [(n >> i) % 2 == 1 for i in range(wide)]
+
+    def its_number(places):
+        return sum(PLACES[place] << i for i, place in enumerate(places))
+
+    adding_is = all(its_number(adding_with_nand(its_places(a, 7), its_places(b, 7))) == a + b for a in range(128) for b in range(128))
+    multiplying_is = all(its_number(multiplying_with_nand(its_places(a, 6), its_places(b, 6))) == a * b for a in range(64) for b in range(64))
+    all_is = all_is and lines_is and adding_is and multiplying_is
+    print(f"   two numbers added and two multiplied, with nand alone in their lines: the same as numbers' own adding, all pairs of 0 to 127, and as numbers' own multiplying, all pairs of 0 to 63: {is_or_is_not(lines_is and adding_is and multiplying_is)}")
+    carry_is = True
+    for a in range(128):
+        for b in range(128):
+            one, other = its_places(a, 7), its_places(b, 7)
+            apart = [both(either(x, y), nand(x, y)) for x, y in zip(one, other)]
+            carried = [False] + [both(x, y) for x, y in zip(one, other)]
+            carry_is = carry_is and its_number(adding_with_nand(apart + [False], carried)) == a + b
+    all_is = all_is and carry_is
+    print(f"   adding's carry is multiplying: two numbers added are their places either and not both, added with their places both, one place on, all pairs of 0 to 127: {is_or_is_not(carry_is)}")
+    no_three = not any(b + b == a + c and b * b == a * c for a in range(1, 201) for b in range(a + 1, 201) for c in range(b + 1, 201))
+    all_is = all_is and no_three
+    print(f"   with no turn, no three numbers of 1 to 200 are in one step by adding and in one step by multiplying: {is_or_is_not(no_three)}")
+    with_a_turn = True
+    for n in range(2, 251):
+        a_prime = all(n % d for d in range(2, n))
+        one_self = False
+        for g in range(1, n):
+            x, been = g, 1
+            while x != 1 and x != 0 and been < n:
+                x, been = x * g % n, been + 1
+            one_self = one_self or (x == 1 and been == n - 1)
+        with_a_turn = with_a_turn and one_self == a_prime
+    all_is = all_is and with_a_turn
+    print(f"   with a turn, a number of 2 to 250 is a prime with one self's multiplying being with all its selves but 0, and with no other number is one, by numbers' own arithmetic: {is_or_is_not(with_a_turn)}")
 
     print("All is." if all_is else "NOT ALL IS.")

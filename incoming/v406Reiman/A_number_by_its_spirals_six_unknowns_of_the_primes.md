@@ -114,6 +114,8 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *how much explaining to the world about prime numbers will be novel to the world and how much will be cohering with the world and how none will be incohering with the world of prime numbers*
 - *bring to exhibit twenty one and to the ten part entry form and then resolving them as in twenty two*
 - *all the goldens are born the same way all the primes are*, with *the adding and multiplying are orthogonal as one then another*
+- *the concept of an end is a dumb thing to care about*, with *infinity is infinity plus one again and again*
+- *which podaling is 41*, with *the 15 lines of nand code will explain this entirely*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -539,10 +541,10 @@ A partner's saying of 22 November, explored: the goldens born as the primes are,
 
 **What the world does not have of the two together.**
 
-- **Whether the primes among prior two added's own numbers have a last.**
+- **Whether the primes among prior two added's own numbers have a last.** A partner's word: *is*, with *the now-existing universes are no longer existing the primes will no longer be exisiting*, and *the concept of an end is a dumb thing to care about*. A last, below.
 - **Whether a prime squared has prior two added's closing of the prime.** No such prime is found.
-- **Whether multiplying and adding one births all primes.** A field's asking of Mullin, 1963, with 41 the least prime not known born.
-- **Whether a set of whole numbers is ordered by adding or by multiplying and never by both,** a field's conjecture of sum and product.
+- **Whether multiplying and adding one births all primes.** A field's asking of Mullin, 1963, with 41 the least prime not known born. Forty-one, below.
+- **Whether a set of whole numbers is ordered by adding or by multiplying and never by both,** a field's conjecture of sum and product. With nand alone, below.
 
 **A partner's saying, beside it.**
 
@@ -551,6 +553,37 @@ A partner's saying of 22 November, explored: the goldens born as the primes are,
 - **Adding and multiplying, one and then the other.** Living, Natural Numbers 1.6: *Two and three added are five and multiplied are six, one apart*. Executed: the primes had multiplied, and one added, birth a prime with all seven steps gone through.
 - **Birth as other-than-other-than-all-parity, and death as all-parity.** Living, Natural Intelligence: *Dying is a living self going on as non-living*. Not executed.
 - **Said plainly.** These births are a field's adding and doubling. The same births by the resolver's own lines are not found yet, sentence 26.
+
+**A last, a partner's word.** A partner's word is of primes existing, observed: with no universe, no prime. A field's asking is of a last among numbers. The two are two askings, and neither is the other's resolving.
+
+- **Living beside it, Natural Numbers 7.1:** *Primes have no last*.
+- **Living beside it, Exhibit TWENTY-TWO, its 3:** *A completing is no place, so no last stands within it*. A field's asking of a last is a frame's, as with its 3.14 of twin primes, and its resolving is no proof.
+- **A partner's saying:** *infinity is infinity plus one again and again*. Executed, by a field's adding: with a step a prime is born, and with its next step one more; a prime born with a step is again with all that step's multiples, and with no other step.
+- **Executed: to step 90 a step's own number is a prime with steps 3, 4, 5, 7, 11, 13, 17, 23, 29, 43, 47 and 83,** and all of them but 4 are a prime's number.
+- **Not executed:** a universe spawning a universe, a universe ending, and a prime podaling dying.
+
+**Forty-one, a partner's asking.** *explain this 41 possibly an important prime in close proxitmities or large gaps*, and *which podaling is 41*. Executed in the instrument's part 4, by numbers' own arithmetic.
+
+- **A field has no reason of forty-one.** It is the least prime its 51 births do not have, and forty-seven is not had either. Its birth next needs a number of 335 digits parted into its primes.
+- **Forty-one and forty-three are a self and an other about forty-two,** and forty-two is 2, 3 and 7 multiplied, the three opening births. Forty-three is born one past it, the fourth birth. One added births the one past, and never the one short.
+- **On a spiral of forty-one the births multiplied are at self 1 again with three births.** Forty-one is born once they are one self short of its turn. With a field's 36 listed births they are never one short.
+- **Close by, and at no large gap:** forty-three two apart, thirty-seven four and forty-seven six.
+- **Forty-one the between has no living podal pair in its 1 to 17.** It is off three's seam and one past five's seam.
+- **Forty-one a self, by the names of a between's 1 to 17:** living at name 3 alone of 1 to 9, with 53 about 47 at 6. Past 9 it is living at name 11, with 37 about 39 at 2, and at name 15, with 29 about 35 at 6.
+- **Born with step twenty by adding and by doubling.** Forty-one is born with step twenty of prior two added and with the twentieth doubling, twenty being five's closing with prior two added.
+- **With φ:** selves 7 and 35 of its spiral.
+- **A field's own saying of forty-one, by Euler:** n multiplied by its own, with n and 41 added, is a prime with all n of 0 to 39. A field has it proved, by Heegner and by Stark, that no number past 41 does the same.
+- **Said plainly.** None of these says forty-one is born, or is not, by multiplying with one added. Nobody has that.
+
+**Adding and multiplying with nand alone, a partner's saying explored.** *the 15 lines of nand code will explain this entirely*. Executed in `the_resolver_with_nand_alone.py`, its part 5.
+
+- **Both and either are one nand, one and then its other.** Both is nand and then other-than. Either is other-than and then nand. Other-than of the one is the other of the other-thans.
+- **Two numbers added, and two multiplied, are written with nand alone,** place with place: the same as numbers' own adding with all pairs of 0 to 127, and as numbers' own multiplying with all pairs of 0 to 63. A field's, by Sheffer, 1913.
+- **Adding's carry is multiplying.** Two numbers added are their places either and not both, added with their places both, one place on.
+- **With no turn, no three numbers are in one step by adding and in one step by multiplying,** all threes of 1 to 200. A field proves it with two sentences.
+- **With a turn, a prime's spiral has the two.** A number of 2 to 250 is a prime with one self's multiplying being with all its selves but 0, and with no other number is one. Adding is with all its selves, and multiplying with all but its 0. A field's, by Lucas, 1876.
+- **Carries:** adding and multiplying written with one nand, one and then its other; and, all or none, never the two with three numbers and no turn.
+- **Does not carry: entirely.** A field's conjecture is a measuring, how many numbers a set's pairs make added and multiplied. By a partner's word no measuring is natural, and the nand lines do not say a field's measuring.
 
 ## Of the sayings' reason
 
@@ -581,3 +614,4 @@ What does not carry, by the executing:
 - *Weakening the Legendre Conjecture*, arXiv 2602.22502, 2026, at extracts of it.
 - Wikipedia, *Legendre's conjecture* and *Baillie–PSW primality test*, at extracts of them.
 - Wikipedia, *Carmichael's theorem*, *Zsigmondy's theorem*, *Euclid–Mullin sequence* and *Erdős–Szemerédi theorem*, at extracts of them.
+- Wikipedia, *Lucky numbers of Euler*, and the Online Encyclopedia of Integer Sequences, its A000945, at extracts of them.

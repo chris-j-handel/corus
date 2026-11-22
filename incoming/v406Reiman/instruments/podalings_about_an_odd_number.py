@@ -549,6 +549,30 @@ def a_prime_born_with_a_step(numbers):
     return [n + 1 for n, a_prime in enumerate(born) if not a_prime]
 
 
+def a_prime_by_a_fields_test(n):
+    """A field's test of a prime with twelve bases, a field's own proof having it right with all numbers this instrument gives it."""
+    bases = (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37)
+    if n < 2:
+        return False
+    for base in bases:
+        if n % base == 0:
+            return n == base
+    odd, twos = n - 1, 0
+    while odd % 2 == 0:
+        odd, twos = odd // 2, twos + 1
+    for base in bases:
+        x = pow(base, odd, n)
+        if x in (1, n - 1):
+            continue
+        for _ in range(twos - 1):
+            x = x * x % n
+            if x == n - 1:
+                break
+        else:
+            return False
+    return True
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -802,6 +826,41 @@ if __name__ == "__main__":
     print(f"   a prime is with phi three ways: two selves of its spiral are their own multiplied as one self on with a prime ending in 1 or 9, none with all others, and one with five: {is_or_is_not(three_ways)}")
     print(f"   the goldens are one number: a pentagon's diagonal over its side, a golden triangle's side over its base, a golden rectangle and a line's golden parting: {is_or_is_not(one_number)}")
     print(f"   the primes had multiplied, and one added: a new prime, 2, 3, 7, 43, 13, 53 and 5 in turn: {is_or_is_not(euclid)}")
+
+    print("   a last, and forty-one, a partner's sayings of 22 November")
+    again = all((added[n] % q == 0) == (n % entries[q] == 0) for q in uncrossed if q < 60 for n in range(1, 121))
+    primes = set(uncrossed)
+    its_own = [n for n in range(1, 91) if a_prime_by_a_fields_test(added[n])]
+    own_is = its_own == [3, 4, 5, 7, 11, 13, 17, 23, 29, 43, 47, 83] and all(n in primes for n in its_own if n != 4)
+    doubling = next(n for n in range(1, 41) if pow(2, n, 41) == 1)
+    twenty = entries[41] == 20 and doubling == 20 and entries[5] * 4 == 20
+    about = 2 * 3 * 7 == 42 and had[:4] == [2, 3, 7, 43] and 41 in primes
+    listed = [2, 3, 7, 43, 13, 53, 5, 6221671, 38709183810571, 139, 2801, 11, 17, 5471, 52662739, 23003, 30693651606209, 37, 1741,
+              1313797957, 887, 71, 7127, 109, 23, 97, 159227, 643679794963466223081509857, 103, 1079990819, 9539, 3143065813, 29, 3847, 89, 19]
+    product, a_part, at = 1, True, []
+    for new in listed:
+        a_part = a_part and (product + 1) % new == 0 and a_prime_by_a_fields_test(new)
+        product *= new
+        at.append(product % 41)
+    awaiting = a_part and at[2] == 1 and 40 not in at and all(q in listed for q in uncrossed if q < 41 and q != 31)
+    close = 43 in primes and 37 in primes and 47 in primes
+    euler = all(n * n + n + 41 in primes for n in range(40)) and 40 * 40 + 40 + 41 == 41 * 41
+    the_between = not any(41 - d in primes and 41 + d in primes for d in (2, 4, 6, 8))
+    to_nine = [name for name in (1, 3, 5, 7) if 41 + 2 * (9 - name) in primes]
+    past_nine = [name for name in (11, 13, 15, 17) if 41 - 2 * (name - 9) in primes]
+    a_self = to_nine == [3] and past_nine == [11, 15]
+    with_phi = [x for x in range(41) if (x * x - x - 1) % 41 == 0] == [7, 35]
+    all_is = all_is and again and own_is and twenty and about and awaiting and close and euler and the_between and a_self and with_phi
+    print(f"   a prime born with a step of prior two added is again with all that step's multiples and with no other step, primes to 59 and steps to 120: {is_or_is_not(again)}")
+    print(f"   to step 90 a step's own number is a prime with steps 3, 4, 5, 7, 11, 13, 17, 23, 29, 43, 47 and 83, by a field's test, and all of them but 4 are a prime's number: {is_or_is_not(own_is)}")
+    print(f"   forty-one is born with step twenty of prior two added and with the twentieth doubling, twenty being five's closing: {is_or_is_not(twenty)}")
+    print(f"   forty-one and forty-three are a self and an other about forty-two, 2, 3 and 7 multiplied, and forty-three is born one past it, the fourth birth: {is_or_is_not(about)}")
+    print(f"   a field's 36 listed births are primes and a part, one and all, of the births before multiplied with one added; on a spiral of forty-one the births multiplied are at self 1 again with three births and never one short of its turn: {is_or_is_not(awaiting)}")
+    print(f"   forty-one's primes close by: forty-three two apart, thirty-seven four and forty-seven six: {is_or_is_not(close)}")
+    print(f"   n multiplied by its own, with n and 41 added, is a prime with all n of 0 to 39, and forty-one multiplied by its own with 40: {is_or_is_not(euler)}")
+    print(f"   forty-one the between has no living podal pair in its 1 to 17: {is_or_is_not(the_between)}")
+    print(f"   forty-one a self, by the names of a between's 1 to 17: living at name 3 alone of 1 to 9, with 53 about 47 at 6, and past 9 at name 11, with 37 about 39 at 2, and at name 15, with 29 about 35 at 6: {is_or_is_not(a_self)}")
+    print(f"   on a spiral of forty-one phi is with selves 7 and 35: {is_or_is_not(with_phi)}")
 
     print("5. A partner's alter-nand-ing, explored")
     either_not_both, in_turn, with_five = the_codes_two_is_or_is_nots(names["_1_now_existing"], step)

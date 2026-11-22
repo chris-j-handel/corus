@@ -346,6 +346,17 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    a prime is with phi three ways: two selves of its spiral are their own multiplied as one self on with a prime ending in 1 or 9, none with all others, and one with five: is
    the goldens are one number: a pentagon's diagonal over its side, a golden triangle's side over its base, a golden rectangle and a line's golden parting: is
    the primes had multiplied, and one added: a new prime, 2, 3, 7, 43, 13, 53 and 5 in turn: is
+   a last, and forty-one, a partner's sayings of 22 November
+   a prime born with a step of prior two added is again with all that step's multiples and with no other step, primes to 59 and steps to 120: is
+   to step 90 a step's own number is a prime with steps 3, 4, 5, 7, 11, 13, 17, 23, 29, 43, 47 and 83, by a field's test, and all of them but 4 are a prime's number: is
+   forty-one is born with step twenty of prior two added and with the twentieth doubling, twenty being five's closing: is
+   forty-one and forty-three are a self and an other about forty-two, 2, 3 and 7 multiplied, and forty-three is born one past it, the fourth birth: is
+   a field's 36 listed births are primes and a part, one and all, of the births before multiplied with one added; on a spiral of forty-one the births multiplied are at self 1 again with three births and never one short of its turn: is
+   forty-one's primes close by: forty-three two apart, thirty-seven four and forty-seven six: is
+   n multiplied by its own, with n and 41 added, is a prime with all n of 0 to 39, and forty-one multiplied by its own with 40: is
+   forty-one the between has no living podal pair in its 1 to 17: is
+   forty-one a self, by the names of a between's 1 to 17: living at name 3 alone of 1 to 9, with 53 about 47 at 6, and past 9 at name 11, with 37 about 39 at 2, and at name 15, with 29 about 35 at 6: is
+   on a spiral of forty-one phi is with selves 7 and 35: is
 5. A partner's alter-nand-ing, explored
    the code's is-or-is-not with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: is
    a self alone is not both and both in turn, moment with moment: its giving +, 0, -, 0, Exhibit ONE Natural Resolver's own row: is
@@ -368,6 +379,12 @@ All is.
    a self and an other facing, with one between of no prior, spirals of 3, 5, 7, 11 and 13: the same priors and the same observed, a 0 passed over, moment with moment: is
 4. The surface, a self alone and the odd spirals side by side
    2 to 1000: the same uncrossed numbers, 168 primes, and the same seams of all the spirals: is
+5. Adding and multiplying of numbers, a partner's saying of sum and product explored
+   both is nand and then other-than, either is other-than and then nand, and other-than of the one is the other of the other-thans: is
+   two numbers added and two multiplied, with nand alone in their lines: the same as numbers' own adding, all pairs of 0 to 127, and as numbers' own multiplying, all pairs of 0 to 63: is
+   adding's carry is multiplying: two numbers added are their places either and not both, added with their places both, one place on, all pairs of 0 to 127: is
+   with no turn, no three numbers of 1 to 200 are in one step by adding and in one step by multiplying: is
+   with a turn, a number of 2 to 250 is a prime with one self's multiplying being with all its selves but 0, and with no other number is one, by numbers' own arithmetic: is
 All is.
 ```
 
