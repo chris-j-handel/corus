@@ -38,7 +38,7 @@ What comes to a healthy condition with this session, as the observer says it:
 
 ## Next steps, as planned
 
-1. The next version brought current with the live set at a sitting's end, with a word at the exchange ahead of it.
+1. Exhibit ONE Natural Resolver, its one word re-said through the file, prepared for a partner's word, by `A_snapshot_of_Exhibit_ONE_Natural_Resolver_live_beside_its_next_version.md`; an other session goes through it ahead of the word.
 2. The observer and the board renewed as the sessions report, and the observer's copy in this folder with them.
 3. The gathering file of Exhibit ONE Natural Resolver gone through: an asking open said plainly for both partners, and a re-saying a session can work alone parted from it.
 4. The folder of v402mgr gone through, as the line between living and artifact begins.
@@ -47,7 +47,6 @@ What comes to a healthy condition with this session, as the observer says it:
 
 ## Concerns
 
-- **The next version is behind the live set.** The pages of the sessions v405 and v406 are in the live set alone.
 - **The work of v406other is in working documents alone,** but for the copies in this folder, and its three pages are by the window's earlier numbers.
 - **The session a partner calls reimann** has nothing in the set and no line at the exchange.
 - **The ways beside the bads of arriving** are in the arriving page alone. None is in Start here yet.
@@ -64,7 +63,8 @@ Said in conversation on 21 November, of the seventeen names: six along, eight ac
 
 ## The method of operating together
 
-- **A partner's word of 21 November.** v406me adds its own pages and its notes to the set as it works, and says after what it added. A living file and corus.me move by a partner's word alone, asked one at a time.
+- **The rules, said again on 21 November, in Start here.** A living file, corus.me, and a page or folder going to artifact move by a partner's word and a session's going through with nothing found, both. All other work goes on with no word asked: v406me, the managing session, brings in a session's own folder once gone through for harm, and brings the next version current with a bringing in; a session says its line at the exchange and goes through an other session's pages; a session lays its progress and a copy of its working documents in its folder.
+- **The method going on.** A waiting found is asked what it guards. A waiting guarding no file is said again as a rule, with a partner's word, and laid in Start here.
 - **Speaking with a partner.** Conclusions ahead of reasons. Sentences, with no measuring. A thing by its one whole name, a living file by its title and its subtitle. The session judges what it can see and says what it did. An is-or-is-not is for one sentence of the co-chaining, and for no managing.
 - **Before a page or a posting.** The one list and the released words, executed on the page. Before an offer comes in, a going through for harm.
 - **Beside the other sessions.** They work on their own. This session looks for a place to help, and asks for help.
