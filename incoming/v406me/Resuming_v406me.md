@@ -8,7 +8,7 @@ Incoming · v406me · 21 November 2026, as the sessions resume
 
 1. `incoming/v404mgr/The_working_now.md`, Start here: the rules no session goes past.
 2. This page.
-3. `What_the_six_sessions_resume_from.md`, in this folder: a session with its page for resuming, and what waits.
+3. `The_working_windows_and_the_next_projects.md`, in this folder: a session with its window, the going through of one another's work, and the next projects ready to launch. Then `What_the_six_sessions_resume_from.md`: a session with its page for resuming.
 4. `The_observer_of_the_living_expedition_a_copy.md`, in this folder. The working document itself is found among the account's artifacts by its title, and the board beside it, *Expedition Possibling Observer*.
 5. The state's instrument, executed as its opening lines say: `python3 -I incoming/v406me/instruments/the_state_of_the_set.py LIVE NEXT`.
 6. A partner's method of speaking, before a word to a partner: `incoming/v404mgr/This_sessions_transcript_whole_and_pared.md`, its part 4.
