@@ -430,3 +430,26 @@ A field's own saying of the hypothesis as one is-or-is-not with a number, by Lag
    the two are the same with 1 alone, and apart by more than this arithmetic's own rounding with all others: is
 All is, of the numbers stepped.
 ```
+
+## `passes_about_verifying_with_nand.py`, executed on 22 November
+
+Three passes: a turn closing an all; a society of the living code's cells gating a question of places, two moments; and a field's whole-number saying of the hypothesis, by nand alone with n of 1 to 4.
+
+```text
+1. A turn closes an all
+   a spiral of 3 to 59 selves comes again, the living code and the cell by nand alone the same, and its moments past are its moments before, a turn on: is
+   one turn has all numbers: of six, a prime past three is one short of or one past its multiple; of three, one of three odd numbers two apart is at three's seam; of twenty-four, such a prime multiplied by its own is one past its multiple; of ten, a prime past five ends in 1, 3, 7 or 9; and the primes to 10000 beside them: is
+   the surface has no turn: in a turn of the spirals of 2 to p side by side, p of 3 to 17, a number past p is at no seam of them, and a spiral opens with it: is
+2. A society of the living code's cells, gating
+   a cell with a prior + gives - with none of its others giving +, and nothing with one of them giving, none to three others: is
+   a nand of two: the society's answer is the question's with all its cases, two moments, by the living code and by the cell by nand alone: is
+   a place added, with a carry in and a carry out: the society's answer is the question's with all its cases, two moments, by the living code and by the cell by nand alone: is
+   two numbers of 0 to 3 added: the society's answer is the question's with all its cases, two moments, by the living code and by the cell by nand alone: is
+   two numbers of 0 to 3 multiplied: the society's answer is the question's with all its cases, two moments, by the living code and by the cell by nand alone: is
+   the cell by nand alone, a prior and two observed: the society's answer is the question's with all its cases, two moments, by the living code and by the cell by nand alone: is
+3. A field's whole-number saying of the hypothesis
+   its delta with n of 1 to 8, made of the primes of the primes' powers: 1, 1, 2, 12, 144, 8640, 518400 and 217728000: is
+   with n of 1 to 4, by nand alone, reciprocals of 1 to delta added, multiplying and less: is; the same as numbers' own arithmetic: is
+   with n of 5 and 6 by numbers' own arithmetic, and of 7 by a field's rounding: is
+All is, of the cases and numbers stepped.
+```
