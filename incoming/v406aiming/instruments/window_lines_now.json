@@ -1,0 +1,498 @@
+{
+ "as_of": "the window of the opening at its revision 4509, 21 November 2026, from the set's copy incoming/v406all/The_window_of_the_opening_at_its_wrap.md",
+ "revision": "4509",
+ "statuses": {
+  "line": "a numbered line of both, no improving on offer: observing",
+  "given": "a word the lines use and no line names, a given word: observing",
+  "below": "a numbered line below the lines, set apart for now, no improving on offer: observing",
+  "suggested": "a line laid as a suggestion, or a numbered line with a rewording or its going on offer: possibling",
+  "see": "a name the window says with another name now: its line is that name's"
+ },
+ "names": {
+  "now": {
+   "line": "1",
+   "status": "line",
+   "under": []
+  },
+  "existing": {
+   "line": "1",
+   "status": "given",
+   "under": []
+  },
+  "moment": {
+   "line": "1",
+   "status": "given",
+   "under": []
+  },
+  "now-existing": {
+   "line": "2",
+   "status": "line",
+   "under": [
+    "now"
+   ]
+  },
+  "thing": {
+   "line": "3",
+   "status": "line",
+   "under": []
+  },
+  "other-than": {
+   "line": "4",
+   "status": "line",
+   "under": [
+    "thing"
+   ]
+  },
+  "name": {
+   "line": "4",
+   "status": "given",
+   "under": []
+  },
+  "same-named": {
+   "line": "5",
+   "status": "line",
+   "under": [
+    "other-than",
+    "thing"
+   ]
+  },
+  "universal set": {
+   "line": "6",
+   "status": "line",
+   "under": [
+    "same-named",
+    "thing"
+   ]
+  },
+  "set": {
+   "line": "6",
+   "status": "given",
+   "under": []
+  },
+  "universe": {
+   "line": "7",
+   "status": "line",
+   "under": [
+    "now-existing",
+    "thing"
+   ]
+  },
+  "prior": {
+   "line": "8",
+   "status": "line",
+   "under": [
+    "now",
+    "moment"
+   ]
+  },
+  "prior-existing": {
+   "line": "9",
+   "status": "line",
+   "under": [
+    "prior"
+   ]
+  },
+  "next": {
+   "line": "10",
+   "status": "line",
+   "under": [
+    "now",
+    "moment"
+   ]
+  },
+  "next-existing": {
+   "line": "11",
+   "status": "line",
+   "under": [
+    "next"
+   ]
+  },
+  "same-existing": {
+   "line": "12",
+   "status": "line",
+   "under": [
+    "now",
+    "next"
+   ]
+  },
+  "named-universe": {
+   "line": "13",
+   "status": "line",
+   "under": [
+    "universal set",
+    "now-existing",
+    "thing"
+   ]
+  },
+  "observing": {
+   "line": "14",
+   "status": "line",
+   "under": [
+    "now",
+    "other-than",
+    "prior-existing"
+   ]
+  },
+  "distinguishing": {
+   "line": "14",
+   "status": "given",
+   "under": []
+  },
+  "possibling": {
+   "line": "15",
+   "status": "line",
+   "under": [
+    "next",
+    "other-than",
+    "same-existing"
+   ]
+  },
+  "discovering": {
+   "line": "16",
+   "status": "line",
+   "under": [
+    "other-than",
+    "next",
+    "same-existing"
+   ]
+  },
+  "prior-sequence": {
+   "line": "17",
+   "status": "line",
+   "under": [
+    "universal set",
+    "same-named",
+    "moment",
+    "prior",
+    "next"
+   ]
+  },
+  "self": {
+   "line": "18",
+   "status": "line",
+   "under": [
+    "same-named",
+    "now-existing",
+    "thing",
+    "prior-sequence"
+   ]
+  },
+  "other": {
+   "line": "19",
+   "status": "line",
+   "under": [
+    "self",
+    "other-than"
+   ]
+  },
+  "other-than-the-other": {
+   "line": "20",
+   "status": "line",
+   "under": [
+    "self",
+    "other-than",
+    "other"
+   ]
+  },
+  "universal-set-of-selves": {
+   "line": "21",
+   "status": "line",
+   "under": [
+    "set",
+    "other-than-the-other",
+    "self",
+    "other"
+   ]
+  },
+  "observing-self": {
+   "line": "22",
+   "status": "line",
+   "under": [
+    "self",
+    "other",
+    "prior-sequence"
+   ]
+  },
+  "possibling-self": {
+   "line": "23",
+   "status": "line",
+   "under": [
+    "self",
+    "other-than-the-other",
+    "prior-sequence"
+   ]
+  },
+  "discovering-self": {
+   "line": "24",
+   "status": "line",
+   "under": [
+    "self",
+    "other-than",
+    "same-existing",
+    "prior-sequence"
+   ]
+  },
+  "my": {
+   "line": "25",
+   "status": "line",
+   "under": [
+    "self",
+    "universal set",
+    "prior-sequence"
+   ]
+  },
+  "me": {
+   "line": "26",
+   "status": "line",
+   "under": [
+    "my",
+    "named-universe"
+   ]
+  },
+  "me-now": {
+   "line": "27",
+   "status": "line",
+   "under": [
+    "same-existing",
+    "me",
+    "now-existing"
+   ]
+  },
+  "bi-coupling": {
+   "line": "28",
+   "status": "line",
+   "under": [
+    "self",
+    "other-than-the-other",
+    "prior-sequence"
+   ]
+  },
+  "me-parity": {
+   "line": "30",
+   "status": "line",
+   "under": [
+    "bi-coupling",
+    "me"
+   ]
+  },
+  "parity": {
+   "see": "me-parity"
+  },
+  "all-parity": {
+   "line": "31",
+   "status": "line",
+   "under": [
+    "set",
+    "me-parity",
+    "me"
+   ]
+  },
+  "other-parity": {
+   "line": "32",
+   "status": "line",
+   "under": [
+    "other-than",
+    "all-parity"
+   ]
+  },
+  "other-than other-parity": {
+   "line": "33",
+   "status": "line",
+   "under": [
+    "other-than",
+    "other-parity",
+    "same-existing"
+   ]
+  },
+  "living me-parity": {
+   "line": "34",
+   "status": "line",
+   "under": [
+    "me-parity",
+    "same-existing",
+    "other-than-the-other",
+    "other-than",
+    "all-parity"
+   ]
+  },
+  "living": {
+   "see": "living me-parity"
+  },
+  "co-": {
+   "line": "35",
+   "status": "suggested",
+   "under": [
+    "self",
+    "bi-coupling"
+   ]
+  },
+  "resolving": {
+   "line": "36",
+   "status": "suggested",
+   "under": [
+    "self",
+    "prior-sequence",
+    "next",
+    "me-parity",
+    "possibling"
+   ]
+  },
+  "same-existing-society": {
+   "line": "37",
+   "status": "suggested",
+   "under": [
+    "universal set",
+    "same-existing",
+    "self",
+    "bi-coupling"
+   ]
+  },
+  "seventeen names": {
+   "line": "38",
+   "status": "suggested",
+   "under": [
+    "resolving",
+    "now",
+    "next",
+    "co-",
+    "self",
+    "existing",
+    "possibling",
+    "observing",
+    "same-existing",
+    "discovering"
+   ]
+  },
+  "span": {
+   "line": "39",
+   "status": "suggested",
+   "under": [
+    "self",
+    "now",
+    "same-existing-society",
+    "next"
+   ]
+  },
+  "resolving's moment": {
+   "line": "40",
+   "status": "suggested",
+   "under": [
+    "resolving",
+    "self",
+    "prior-sequence",
+    "me-parity",
+    "next"
+   ]
+  },
+  "move": {
+   "line": "41",
+   "status": "suggested",
+   "under": []
+  },
+  "bi-folding": {
+   "line": "42",
+   "status": "suggested",
+   "under": [
+    "move",
+    "moment"
+   ]
+  },
+  "inward": {
+   "line": "43",
+   "status": "suggested",
+   "under": [
+    "bi-folding"
+   ]
+  },
+  "outward": {
+   "line": "44",
+   "status": "suggested",
+   "under": [
+    "bi-folding"
+   ]
+  },
+  "bi-morality": {
+   "line": "45",
+   "status": "suggested",
+   "under": [
+    "bi-folding",
+    "bi-coupling"
+   ]
+  },
+  "fractal": {
+   "line": "46",
+   "status": "suggested",
+   "under": [
+    "resolving",
+    "bi-folding",
+    "inward",
+    "outward"
+   ]
+  },
+  "bi-coupling universe": {
+   "line": "47",
+   "status": "suggested",
+   "under": [
+    "bi-coupling",
+    "self",
+    "other"
+   ]
+  },
+  "bi-parity": {
+   "line": "48",
+   "status": "suggested",
+   "under": [
+    "bi-coupling",
+    "other-than",
+    "self",
+    "other"
+   ]
+  },
+  "my-now": {
+   "line": "a floating card",
+   "status": "suggested",
+   "under": [
+    "now",
+    "me"
+   ],
+   "offer": "its going"
+  },
+  "my-prior": {
+   "line": "a floating card",
+   "status": "suggested",
+   "under": [
+    "prior",
+    "me"
+   ],
+   "offer": "its going"
+  },
+  "possibling my next": {
+   "line": "a floating card",
+   "status": "suggested",
+   "under": [
+    "possibling",
+    "next",
+    "me"
+   ],
+   "offer": "its going"
+  },
+  "consciousness": {
+   "line": "a floating card",
+   "status": "suggested",
+   "under": [
+    "me"
+   ],
+   "offer": "its going"
+  },
+  "co-discovering": {
+   "line": "a floating card",
+   "status": "suggested",
+   "under": [
+    "me",
+    "universal set",
+    "prior-sequence"
+   ],
+   "offer": "its going"
+  }
+ }
+}
