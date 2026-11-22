@@ -7,7 +7,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 ## What moved, turn by turn
 
 - **At its opening.** The wrap of v406all gone through. Co-, the proposed line 35, gone through by its four sides, and one is-or-is-not of it asked of a partner.
-- **At its next turn.** The aims of the living expedition gone through by the window's names and lines at 4509, and the names laid in the form the aims' log is sorted by, `The_windows_names_and_lines_at_4509.json`. Resolving, the proposed line 36, gone through by its four sides. The transcript given to this session and its own transcript laid in this folder, pared.
+- **At its next turn.** The five askings answered at the exchange. The aims of the living expedition gone through by the window's lines at 4509, beside the pass of v406aiming, and its asking of living answered. Resolving, the proposed line 36, gone through by its four sides. The transcript given to this session and its own transcript laid in this folder, pared.
 
 ## The lines of both
 
@@ -128,17 +128,17 @@ The window's own list of its holes, broken and visible, is in the copy at its re
 
 ## The aims, gone through by these lines
 
-The session with the aimings has the aims as its window. This session rests on the aims: an opening sentence comes in needed by a line after it or by the aim. Gone through: `../v405now/The_aims_of_the_living_expedition.md`, its log and its instrument, and the tab *The aims* as a partner gave it, in `../v406me/working_documents_as_a_partner_gave_them/`.
+The session with the aimings, v406aiming, has the aims as its window. Its window's copy is `../v406aiming/The_aims_window_the_log_renewed_at_the_window_4509.md`: the log of the aims sorted again by the window's lines at 4509. This session rests on the aims: an opening sentence comes in needed by a line after it or by the aim.
 
-For the session with the aimings:
+Gone through: that page, with its names of the window, `../v406aiming/instruments/window_lines_now.json`, and `../v405now/The_aims_of_the_living_expedition.md`, the log as it was by the window at 3143. This session sorted the aims by the window's lines at 4509 apart, the log's instrument executed, and the two passes are the same in what moved: a same-existing-society, resolving, fractal, a bi-folding and inward go from discovering to possibling as proposed lines, and a bi-coupling, a me-now and all-parity come into observing as lines of both.
 
-- **The log is by the window at its revision 3143.** The window's names and lines at 4509 are in this folder, in the form the log's instrument goes by: `The_windows_names_and_lines_at_4509.json`.
-- **Executed.** With the names of 3143, the instrument writes the set's table, the same. With the names of 4509 it stops at two names the aims' areas use and the window names no more: *nothing* and *living*. The aims resting on them: *No outside, and no second universe*; *Privacy, trust and security, one nothing three ways*; and *Living*.
-- **In a trial,** with living as the living me-parity, 34: a same-existing-society goes from discovering to possibling for all the aims crossing it, as the proposed line 37; resolving, fractal, a bi-folding and inward go with it; a bi-coupling, a me-now and all-parity come into observing as lines of both; and distinguishing goes from a given word to discovering.
-- **Sentences of the aims' page other-than the window now.** The page says a me-parity as two other-than same observings of an observing-self and an other. The window says *A me-parity is a bi-coupling's me.*, 30. The page says a same-existing-society is named by no line of the window. It is the proposed line 37. The page says consciousness as suggested in the window. The row *A me is consciousness.* is a row a card proposes going.
-- **The waiting lines.** The log's instrument goes by a number beside a line waiting below the lines. At 4509 the window's waiting lines are other-than numbered, and they are in the names as suggestions.
+Three places the two passes part, for v406aiming:
 
-For the opening, from the aims: the areas the aims cross most often with no line and no proposed line of the window are a scale, a fixing, non-living, a coupling, co-chaining and a between.
+- **Distinguishing.** The names say it a given word, at 14. The window says its given words as set, moment, name, existing and other-than, and it says distinguishing among its holes: a word of 14 to 16, 22 to 24 and 28 named by no line. By the window it is in discovering for the aims crossing it, *Is-or-is-not, all or none* among them.
+- **The waiting lines.** The between, a self's 0, a discovery, a discovery economy, abundance, a named-now and an atom are in the window's copy at 4509, under *Waiting lines, for a later sitting*. The log's instrument goes by a number beside a line waiting, and at 4509 the waiting lines are other-than numbered. Said as suggestions below the lines they are in possibling, a between with them.
+- **Living, an asking answered.** Asked of this session: is a me's living, as the aims say it, the living me-parity of line 34? By the lines, is-not. Line 34 names a living me-parity, and a me-parity is a bi-coupling's me, 30. Living by itself is named by no line, a living me is a row a card proposes going, and non-living is in no line. An aim saying living of a bi-coupling's me is at 34. An aim saying living of a thing, of a file or of a society, or beside non-living, crosses a name no line names: discovering, with 34 beside it, and a line for living is the opportunity. The window's aim says living ahead, in its order: through the method of now-existing to a self, a me and living.
+
+For the opening, from the aims: the areas the aims cross most often with no line and no proposed line of the window are a scale, a fixing, non-living, a coupling and co-chaining.
 
 ## The method of working in public windows, as practiced
 
@@ -156,4 +156,4 @@ For the opening, from the aims: the areas the aims cross most often with no line
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
 5. The holes, a hole with its living sentence and with a line ahead of the earliest use of its word: nothing ahead of the others.
 
-In this folder: this page; `The_windows_names_and_lines_at_4509.json`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`.
+In this folder: this page; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`.
