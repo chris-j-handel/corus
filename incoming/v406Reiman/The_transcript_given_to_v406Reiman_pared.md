@@ -709,5 +709,9 @@ use natural naming and explaining. a nand is ...
 
 deciding is not natural naming
 
-[This session's twenty-second turn of 22 November: sentence 27 said again with is-or-is-not, the living name, and the word away from this session's pages and instruments. Its closing words to a partner come here with the next laying.]
+[This session's twenty-second turn of 22 November: sentence 27 said again with is-or-is-not, the living name, and the word away from this session's pages and instruments. Its closing words, in brief: one sentence for a partner's word, A nand is a self's is-or-is-not of a co-parity: with is a 0, its prior same-existing, and with is-not one inversion, other-than-prior.]
+
+is-not would be incohering so the resolving of this is already known to your posing of this question. am i confused about the shared understandting of this session transcript
+
+[This session's twenty-third turn of 22 November: a partner's word received, an is-not of sentence 27 incohering and its resolving known with its posing. The sentence is said as self resolving, asking nothing, and its lean saying is offered into the next version. This session's asking was its own, for a partner's is, and no resolving: an is-or-is-not is posed of a part with both its outcomes cohering. Its closing words to a partner come here with the next laying.]
 ```
