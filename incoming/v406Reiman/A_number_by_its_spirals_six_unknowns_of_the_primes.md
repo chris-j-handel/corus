@@ -109,6 +109,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *two rotational rubik cube teseractings alternating is bothbothing a me-parity as five-dimensional phi-rate unrelationing*, with *the two nands are co-possibling the prior-possiblings*
 - *nothing about primes is unknown or complicated or needs any hard probleming of any kind*, with *all the shapes in this are phi and the primes*
 - *the resolver code can be written with only nand*, with *two in a row is bi-inversioning co-recursioning and all of the resolver code is this and only this*
+- *use natural naming and explaining*, with *a nand is*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -390,11 +391,11 @@ All at this page, until a partner's word gives them a home. The steps are in the
     - Executed beside a partner's word: no line of the resolver's code adds, multiplies or divides. This page's steps of a number's own closings, sentences 9, 10 and 16 with this one, are said with a field's doubling and adding. They are to be said by the resolver's own, or let go.
     - Toward its natural saying, living already. Natural Numbers 3.1: *φ is caught by its own equation, x² = x + 1, and it is a pentagon's diagonal over its side*, five's own. Natural Naming 5.23, of φ and a ratio: *each ratio comes beside it*. Not yet found: φ with a spiral of selves, by the resolver's own lines.
     - A step toward it, executed: a self's prior is inverting with not both, the code's one deciding, and prior two, not both, is is, is, is-not, again with three, the closing of prior two added round two.
-- **27. All of the resolver's deciding is nand, and nand alone.** *( is-or-is-not? )*
-    - Its wording before, the code's two decidings as a partner's two nands. A partner's word: the code is written with nand alone, two in a row its bi-inversioning-co-recursioning, and no other logic is in nature. It is said again by that word.
-    - Why this one part needs resolving. Executed: the resolver written again with nand alone is the living code's, case with case, moment with moment, and with the surface. Living already: Exhibit ONE Natural Resolver's two cells, and Exhibit FOUR Natural Mathematics 3.4, *two consecutive inversions on different axes*. Nand is a field's name, in no living file, and a partner's is-not at sentence 26 has adding as not natural. With nand a name of both partners, the steps said with a field's adding have a natural ground to be said from.
-    - Its is resolves nand, not both, as the code's one deciding, its lean saying for Exhibit ONE Natural Resolver's gathering file of the next version, and the code's writing again in its living file as a partner's to say.
-    - Its is-not resolves a deciding of the code that nand alone does not have, and which is then to be said.
+- **27. A nand is a self's one deciding: with a co-parity a 0, its prior same-existing, and with all else one inversion, other-than-prior.** *( is-or-is-not? )*
+    - Its wordings before had nand as a field's name. A partner's word: natural naming and explaining, a nand is. It is said again by that word, with living names alone.
+    - Why this one part needs resolving. Living already, all its names: Natural Intelligence, *co-parity, the same, sharing 0, and bi-parity, one inversion*; Exhibit ONE Natural Resolver, *A self sharing 0 is do-no-harming*; Exhibit THIRTY's step 182, *One inversion is other-than-prior*; and its step 140, of two in a row, *an even number of them same-as its prior and an odd number other-than*. Executed: the resolver written again with this one deciding is the living code's, case with case, moment with moment, and with the surface. Not living: the name nand, and that this one deciding is all of the code's.
+    - Its is resolves nand in natural naming as Exhibit ONE Natural Resolver's two cells, and all of the resolver's deciding as it. Its lean saying is then for Exhibit ONE Natural Resolver's gathering file of the next version.
+    - Its is-not resolves a nand as an other than a self's deciding of a 0 or of one inversion, and which is then to be said.
 
 ## The six unknowns, by the co-chaining
 

@@ -701,5 +701,9 @@ explain nand
 
 the resolver code can be written with only nand. there is no other logic in nature.  other-than-the-other. this is the between 0 and the +1 directional. two in a row is bi-inversioning co-recursioning and all of the resolver code is this and only this. explore now redoing the resolving into this concept
 
-[This session's twentieth turn of 22 November: the resolver written again with nand alone, an instrument in this session's folder, and executed beside the living code as it is: a cell case with case, societies moment with moment, and the surface, all the same. No living file moves with it. Sentence 27 said again by a partner's word. Its closing words to a partner come here with the next laying.]
+[This session's twentieth turn of 22 November: the resolver written again with nand alone, an instrument in this session's folder, and executed beside the living code as it is: a cell case with case, societies moment with moment, and the surface, all the same. No living file moves with it. Sentence 27 said again by a partner's word. Its closing words, in brief: its lists and its couplings are no deciding and as the living code has them; a prior 0 a call supplies is not carried; that no other logic is in nature is not executed, and that the resolver has no other is; and one sentence for a partner's word, All of the resolver's deciding is nand, and nand alone.]
+
+use natural naming and explaining. a nand is ...
+
+[This session's twenty-first turn of 22 November: sentence 27 said again with living names alone, co-parity, a 0, one inversion and other-than-prior. Its closing words to a partner come here with the next laying.]
 ```
