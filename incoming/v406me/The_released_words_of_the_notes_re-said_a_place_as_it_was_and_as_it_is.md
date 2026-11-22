@@ -66,7 +66,7 @@ Executed over all the notes, and not the added lines alone: 7,362 notes; 1,084 o
 
 1. **Natural naming in the notes.** The 1,846 places, a gathering file at a turn, a place as it was beside the place as it is, the names of the main list the same, an other session going through it.
 2. **Rigorizing the notes.** The ten quotations of an earlier opening; and 129 notes naming a page of a folder gone to the set's history, a note's page found again at its place.
-3. **Explaining the incoming value into the gathering files.** Lean notes, a note beside its living sentence, by the kit, with the gathering check: v403bubble, 23 pages of carbon, nitrogen and a diamond with one note at a gathering file; v404universe, 14 pages of the journeys of the words with two; v404bifolding, with none; and the sessions' findings of 21 and 22 November, a session laying its own.
+3. **Explaining the incoming value: a closed folder's carrying, executed.** By the method a page's value is placed a sentence at a turn, and a note names no session. For a closed folder: its sentences found in the gathering files or not found, and what is on its pages and in no sentence, a field's observing with its source or an opportunity gathered and not executed. v403bubble's askings are in the gathering files, 79 of 87 word for word. This page said its pages had one note; that was a size of the notes naming a folder, and it is set right in the scan's page.
 
 ## Its sources
 
