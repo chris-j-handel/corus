@@ -473,7 +473,7 @@ def six_apart(step, seam, to):
     return again, never_both, on_and_back
 
 
-def the_codes_two_decidings(now, step):
+def the_codes_two_is_or_is_nots(now, step):
     """1-now-existing: with what a self is observing, and with its prior; a self alone; and the one cell with its prior two givings."""
     either_not_both = True
     for prior in (1, -1):
@@ -760,10 +760,10 @@ if __name__ == "__main__":
     print(f"   prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: {is_or_is_not(prior_two_not_both)}")
 
     print("5. A partner's alter-nand-ing, explored")
-    either_not_both, in_turn, with_five = the_codes_two_decidings(names["_1_now_existing"], step)
+    either_not_both, in_turn, with_five = the_codes_two_is_or_is_nots(names["_1_now_existing"], step)
     as_living, a_hundred_five = two_faces_of_a_cube()
     all_is = all_is and either_not_both and in_turn and with_five and as_living and a_hundred_five
-    print(f"   the code's deciding with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: {is_or_is_not(either_not_both)}")
+    print(f"   the code's is-or-is-not with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: {is_or_is_not(either_not_both)}")
     print(f"   a self alone is not both and both in turn, moment with moment: its giving +, 0, -, 0, Exhibit ONE Natural Resolver's own row: {is_or_is_not(in_turn)}")
     print(f"   the code's one cell with its prior two givings, its giving before as its prior and its last as what it is observing, comes from all nine openings to one round, +, +, 0, -, 0, again with five; it has a prior 0 a call supplies: {is_or_is_not(with_five)}")
     print(f"   a cube of fifty-four stickers by its own turns, as Exhibit FOUR Natural Mathematics 3.6 has it: two adjacent faces, each moved and each undone, are again with six and move eighteen stickers, and two opposite faces' turns in either order are one: {is_or_is_not(as_living)}")

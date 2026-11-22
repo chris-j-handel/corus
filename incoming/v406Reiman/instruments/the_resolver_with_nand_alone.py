@@ -1,13 +1,13 @@
 """The resolver with nand alone, a partner's saying explored.
 
 A partner's saying of 22 November: the resolver code can be written with only
-nand. Here Exhibit ONE Natural Resolver's deciding is written again with one
-deciding alone, nand, not both, and executed beside the living code as it is:
+nand. Here Exhibit ONE Natural Resolver's is-or-is-nots are written again with
+one alone, nand, not both, and executed beside the living code as it is:
 case with case, and moment with moment. No line of the living code is altered,
 and this page is no living file.
 
 What is nand here: a parity is two is-or-is-nots, a + and a -; a 0 is neither.
-What is no deciding here: lists and couplings, which self's giving is which
+What is no is-or-is-not here: lists and couplings, which self's giving is which
 self's observing. They are as the living code has them.
 Not carried: a prior 0 a call supplies, which no line of the code makes.
 
@@ -108,15 +108,15 @@ if __name__ == "__main__":
 
     print("1. Its own lines")
     tree = ast.parse(Path(__file__).read_text(encoding="utf-8"))
-    deciding = (ast.BoolOp, ast.Not, ast.Compare, ast.If, ast.IfExp, ast.BinOp, ast.While)
+    tests = (ast.BoolOp, ast.Not, ast.Compare, ast.If, ast.IfExp, ast.BinOp, ast.While)
     by_nand_alone = True
     for node in tree.body:
         if isinstance(node, ast.FunctionDef) and node.name in ("other_than", "both", "either", "a_cell"):
-            by_nand_alone = by_nand_alone and not any(isinstance(n, deciding) for n in ast.walk(node))
+            by_nand_alone = by_nand_alone and not any(isinstance(n, tests) for n in ast.walk(node))
             called = {n.func.id for n in ast.walk(node) if isinstance(n, ast.Call)}
             by_nand_alone = by_nand_alone and called <= {"nand", "other_than", "both", "either"}
     all_is = all_is and by_nand_alone
-    print(f"   a cell and its three, other-than, both and either, have no deciding in their lines but nand: no and, no or, no not, no if and no comparing: {is_or_is_not(by_nand_alone)}")
+    print(f"   a cell and its three, other-than, both and either, have no is-or-is-not in their lines but nand: no and, no or, no not, no if and no comparing: {is_or_is_not(by_nand_alone)}")
 
     print("2. A cell, case with case, beside 1-now-existing as it is")
     cases = same_giving = same_next = 0

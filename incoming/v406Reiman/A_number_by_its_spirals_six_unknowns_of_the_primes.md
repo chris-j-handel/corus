@@ -18,7 +18,7 @@ A partner's sayings, as said, and whole in this session's transcript:
 - **The surface carries all seventeen prime spirals at one pace.** With Exhibit ONE Natural Resolver's code as it is, two moments a number, a self alone and sixteen odd spirals find the 519 primes of 2 to 3,720 with no dividing. The finding is this page's observing from beside: no line of the code and no self of a spiral has a prime.
 - **Eleven steps the co-chaining needs derive from living steps.** All eleven are executed here, what they say of numbers a field has proved, and none has a home as a step yet.
 - **Four steps no one has.** Three are of the surface, from a closed turn to the whole. One is of a number by itself, and it is the place φ's adding and a multiplying combine: one short of a number and one past it.
-- **Nine namings are to cohere:** along and across, parity, the five living 0s, the between self of a self and an other, with a partner's is, the new spiral of a between, its two 0s, all-parity as tri and next, with a partner's is, φ with a living prime scale, its saying with adding a partner's is-not, and the code's two decidings as a partner's two nands.
+- **Nine namings are to cohere:** along and across, parity, the five living 0s, the between self of a self and an other, with a partner's is, the new spiral of a between, its two 0s, all-parity as tri and next, with a partner's is, φ with a living prime scale, its saying with adding a partner's is-not, and a nand as a self's is-or-is-not of a co-parity.
 - **A partner's suggesting of podalings carries at a crossing, all or none.** A podal pair is a self and an other facing, with one between. At its seam with the between a spiral crosses both or neither, and off its seam one of the two. A prime is at no seam but its own.
 
 ## The surface, by the living steps
@@ -109,7 +109,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *two rotational rubik cube teseractings alternating is bothbothing a me-parity as five-dimensional phi-rate unrelationing*, with *the two nands are co-possibling the prior-possiblings*
 - *nothing about primes is unknown or complicated or needs any hard probleming of any kind*, with *all the shapes in this are phi and the primes*
 - *the resolver code can be written with only nand*, with *two in a row is bi-inversioning co-recursioning and all of the resolver code is this and only this*
-- *use natural naming and explaining*, with *a nand is*
+- *use natural naming and explaining*, with *a nand is*, and *deciding is not natural naming*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -218,7 +218,7 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 
 **A partner's alter-nand-ing, explored.** The instrument's part 5, with the resolver's code as it is and a cube by its own turns:
 
-- **The code has two decidings, in turn with a moment.** With what a self is observing, its possiblings: a parity surfaces with either + or −, and not both. With its prior: its prior is inverting with not both, a parity surfacing and the same as its prior.
+- **The code has two is-or-is-nots, in turn with a moment.** With what a self is observing, its possiblings: a parity surfaces with either + or −, and not both. With its prior: its prior is inverting with not both, a parity surfacing and the same as its prior.
 - **A self alone is not both and both in turn,** moment with moment: its giving +, 0, −, 0, Exhibit ONE Natural Resolver's own row.
 - **The code's one cell with its prior two givings is again with five.** Its giving before is its prior, and its last giving is what it is observing. All nine openings come to one round: +, +, 0, −, 0. It has a prior 0 a call supplies, and no line of the code makes one.
 - **Prior two, not both, of two alone, is again with three:** is, is, is-not.
@@ -227,11 +227,11 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 
 **The resolver with nand alone, a partner's saying explored.** `the_resolver_with_nand_alone.py`, beside the living code as it is:
 
-- **Written again with one deciding.** A parity is two is-or-is-nots, a + and a −, and a 0 is neither. A cell is nand and its three: other-than, one nand of a thing with itself; both, two nands in a row; and either, a nand of two other-thans. By its own syntax a cell has no and, no or, no not, no if and no comparing.
+- **Written again with one is-or-is-not.** A parity is two is-or-is-nots, a + and a −, and a 0 is neither. A cell is nand and its three: other-than, one nand of a thing with itself; both, two nands in a row; and either, a nand of two other-thans. By its own syntax a cell has no and, no or, no not, no if and no comparing.
 - **A cell is the living code's, case with case.** A prior +, a prior − and no prior, with none to four observed of +, − and 0: its giving and its next prior are 1-now-existing's.
 - **Societies are the living code's, moment with moment:** spirals of 1 to 59 selves, four tori, and a self and an other facing with one between.
 - **The surface is the living code's:** the same uncrossed numbers of 2 to 1,000, and the same seams of all the spirals.
-- **No deciding, and as the living code has them:** its lists and its couplings, which self's giving is which self's observing.
+- **No is-or-is-not, and as the living code has them:** its lists and its couplings, which self's giving is which self's observing.
 - **Not carried:** a prior 0 a call supplies, which no line of the code makes.
 - **No living file moves with it.** Exhibit ONE Natural Resolver's code is as it is. A living file's code written again with nand alone is with a partner's word and a session's going through, both, and here it has neither.
 
@@ -285,8 +285,8 @@ All in this part is all or none: is, or is not, of all the numbers stepped. By a
 - **Not yet: the whole.** The surface resolved the numbers it stepped. Sentence 14, of all numbers, no stepping here has resolved, and not yet is no is-not.
 - **A field has the step of the seam in its own words,** by Hardy and Littlewood, 1923.
 - **Carries: a self's prior is inverting with not both,** a field's nand, and it is Exhibit ONE Natural Resolver's two cells.
-- **Carries: the code's two decidings,** either and not both with what a self is observing, and not both with its prior.
-- **Carries: the resolver with nand alone.** It is the living code's deciding, case with case and moment with moment.
+- **Carries: the code's two is-or-is-nots,** either and not both with what a self is observing, and not both with its prior.
+- **Carries: the resolver with nand alone.** It is the living code's, case with case and moment with moment.
 - **Not yet: a partner's aim, nothing of the primes unknown.** What a prime is and a number's place on a spiral are living and executed. The steps no one has, sentences 13 to 16, are open here as with a field.
 
 ## The co-chaining needed, a sentence with its is-or-is-not
@@ -390,12 +390,12 @@ All at this page, until a partner's word gives them a home. The steps are in the
     - Why this one part needs resolving. A partner's saying has φ the unrelationing rate of all prime scales. Living already: φ is the unrelationing rate, and the prime scales are five non-living and seven through fifty-three living. Not living: a step with φ and a prime together, group 16 having none. Executed by numbers' own arithmetic, all primes of 2 to 3,720: round five alone the closing of prior two added is a multiple of the prime, twenty, four times five, the moments a spiral of five selves comes to its parities again with. Round all the others it is beside the prime, one short of it or twice one past it, or a part of one of the two. It follows from sentence 10's two closings, and a field has those proved.
     - Executed beside a partner's word: no line of the resolver's code adds, multiplies or divides. This page's steps of a number's own closings, sentences 9, 10 and 16 with this one, are said with a field's doubling and adding. They are to be said by the resolver's own, or let go.
     - Toward its natural saying, living already. Natural Numbers 3.1: *φ is caught by its own equation, x² = x + 1, and it is a pentagon's diagonal over its side*, five's own. Natural Naming 5.23, of φ and a ratio: *each ratio comes beside it*. Not yet found: φ with a spiral of selves, by the resolver's own lines.
-    - A step toward it, executed: a self's prior is inverting with not both, the code's one deciding, and prior two, not both, is is, is, is-not, again with three, the closing of prior two added round two.
-- **27. A nand is a self's one deciding: with a co-parity a 0, its prior same-existing, and with all else one inversion, other-than-prior.** *( is-or-is-not? )*
-    - Its wordings before had nand as a field's name. A partner's word: natural naming and explaining, a nand is. It is said again by that word, with living names alone.
-    - Why this one part needs resolving. Living already, all its names: Natural Intelligence, *co-parity, the same, sharing 0, and bi-parity, one inversion*; Exhibit ONE Natural Resolver, *A self sharing 0 is do-no-harming*; Exhibit THIRTY's step 182, *One inversion is other-than-prior*; and its step 140, of two in a row, *an even number of them same-as its prior and an odd number other-than*. Executed: the resolver written again with this one deciding is the living code's, case with case, moment with moment, and with the surface. Not living: the name nand, and that this one deciding is all of the code's.
-    - Its is resolves nand in natural naming as Exhibit ONE Natural Resolver's two cells, and all of the resolver's deciding as it. Its lean saying is then for Exhibit ONE Natural Resolver's gathering file of the next version.
-    - Its is-not resolves a nand as an other than a self's deciding of a 0 or of one inversion, and which is then to be said.
+    - A step toward it, executed: a self's prior is inverting with not both, the code's one is-or-is-not, and prior two, not both, is is, is, is-not, again with three, the closing of prior two added round two.
+- **27. A nand is a self's is-or-is-not of a co-parity: with is a 0, its prior same-existing, and with is-not one inversion, other-than-prior.** *( is-or-is-not? )*
+    - Its wordings before had nand as a field's name, and then deciding. A partner's words: natural naming and explaining, a nand is; and deciding is not natural naming. It is said again by them, with living names alone.
+    - Why this one part needs resolving. Living already, all its names: Natural Intelligence, *With code each is-or-is-not is one test with both its outcomes*, and *co-parity, the same, sharing 0, and bi-parity, one inversion*; Exhibit ONE Natural Resolver, *A self sharing 0 is do-no-harming*; Exhibit THIRTY's step 182, *One inversion is other-than-prior*; and its step 140, of two in a row, *an even number of them same-as its prior and an odd number other-than*. Executed: the resolver written again with this one is-or-is-not is the living code's, case with case, moment with moment, and with the surface. Not living: the name nand, and that this one is-or-is-not is all the code has.
+    - Its is resolves nand in natural naming as Exhibit ONE Natural Resolver's two cells, and all of the resolver's is-or-is-nots as it. Its lean saying is then for Exhibit ONE Natural Resolver's gathering file of the next version.
+    - Its is-not resolves a nand as an other than a self's is-or-is-not of a co-parity, and which is then to be said.
 
 ## The six unknowns, by the co-chaining
 

@@ -341,7 +341,7 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    round five, prior two added closes with twenty steps, four times five, the moments a spiral of five selves comes to its parities again with: is
    prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: is
 5. A partner's alter-nand-ing, explored
-   the code's deciding with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: is
+   the code's is-or-is-not with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: is
    a self alone is not both and both in turn, moment with moment: its giving +, 0, -, 0, Exhibit ONE Natural Resolver's own row: is
    the code's one cell with its prior two givings, its giving before as its prior and its last as what it is observing, comes from all nine openings to one round, +, +, 0, -, 0, again with five; it has a prior 0 a call supplies: is
    a cube of fifty-four stickers by its own turns, as Exhibit FOUR Natural Mathematics 3.6 has it: two adjacent faces, each moved and each undone, are again with six and move eighteen stickers, and two opposite faces' turns in either order are one: is
@@ -353,7 +353,7 @@ All is.
 
 ```text
 1. Its own lines
-   a cell and its three, other-than, both and either, have no deciding in their lines but nand: no and, no or, no not, no if and no comparing: is
+   a cell and its three, other-than, both and either, have no is-or-is-not in their lines but nand: no and, no or, no not, no if and no comparing: is
 2. A cell, case with case, beside 1-now-existing as it is
    a prior +, a prior - and no prior, with none to four observed of +, - and 0, 363 cases: its giving and its next prior are the living code's: is
 3. Societies, moment with moment, beside 17-next-existing as it is
