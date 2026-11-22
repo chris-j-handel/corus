@@ -239,6 +239,37 @@ def one_parity_of_the_between(step, q):
     return own_prior, moments
 
 
+def all_parity_is_next(now, step):
+    """Exhibit ONE Natural Resolver's 1-now-existing: a self's next prior beside the all-parity it is observing."""
+    import itertools
+    rule = True
+    for prior in (1, -1):
+        for size in (0, 1, 2, 3):
+            for observing in itertools.product((-1, 0, 1), repeat=size):
+                parities = [v for v in observing if v]
+                all_parity = parities[0] if parities and all(v == parities[0] for v in parities) else 0
+                _, next_prior = now([(S, prior)], [(S, v) for v in observing])
+                rule = rule and dict(next_prior)[S] == (all_parity if all_parity else -prior)
+    of_one = of_two = True
+    q = 5
+    by_number = a_spiral_alone(step, q, 3 * q)
+    of_one = all(len(by_number[k][i][1]) <= 1 for k in by_number for i in range(q))
+    between = by_number[2 * q]
+    society, couplings = {}, {}
+    for i in range(q):
+        society[("self", i)] = (list(between[i][0]), list(between[i][1]))
+        society[("other", i)] = (list(between[i][0]), list(between[i][1]))
+        society[("between", i)] = ([], [])
+        couplings[(("self", i), 9)] = ("self", (i + 1) % q)
+        couplings[(("other", i), 9)] = ("other", (i - 1) % q)
+        couplings[(("self", i), 10)] = ("between", i)
+        couplings[(("other", i), 10)] = ("between", i)
+    for _ in range(4 * q):
+        society = step(society, couplings)
+        of_two = of_two and all(len(society[("between", i)][1]) == 2 for i in range(q))
+    return rule, of_one and of_two
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -289,6 +320,10 @@ if __name__ == "__main__":
     all_is = all_is and own_prior and one_self
     print(f"   the between self that is its own podal has its own prior, one parity, the same number with number, and inverting with the number next after the two 0s are with it: {is_or_is_not(own_prior)}")
     print(f"   with a spiral of one self, the between self receives of both +, 0, -, 0, moment with moment, Exhibit ONE Natural Resolver's own row of one self: {is_or_is_not(one_self)}")
+    next_rule, of_two = all_parity_is_next(names["_1_now_existing"], step)
+    all_is = all_is and next_rule and of_two
+    print(f"   all-parity is next: with 1-now-existing, all cases of a prior and of none to three parities a self is observing, its next prior is their all-parity, the same of all or a 0 of + with -, and with a 0 its prior inverting: {is_or_is_not(next_rule)}")
+    print(f"   a self of a spiral is observing of one self, and a between self of two, a self and an other: {is_or_is_not(of_two)}")
 
     print("2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it")
     print(f"   2 to {to}, a self alone and {len(odd_spirals)} odd spirals, all its numbers and all their distances gone through")

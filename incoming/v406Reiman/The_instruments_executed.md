@@ -284,6 +284,8 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    a number's place on a spiral: its one pair of one parity is one self on with a number, and at the spiral's opening place at its seam and at no other number: is
    the between self that is its own podal has its own prior, one parity, the same number with number, and inverting with the number next after the two 0s are with it: is
    with a spiral of one self, the between self receives of both +, 0, -, 0, moment with moment, Exhibit ONE Natural Resolver's own row of one self: is
+   all-parity is next: with 1-now-existing, all cases of a prior and of none to three parities a self is observing, its next prior is their all-parity, the same of all or a 0 of + with -, and with a 0 its prior inverting: is
+   a self of a spiral is observing of one self, and a between self of two, a self and an other: is
 2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
    2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
    at its seam with their between, a spiral crosses a self and an other together or neither: is
