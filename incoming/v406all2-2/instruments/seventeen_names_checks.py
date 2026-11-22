@@ -67,13 +67,13 @@ for start, names in ((2, {2, 15, 7, 10}), (3, {3, 11, 6, 14}), (4, {4, 13, 5, 12
     r = round_of(start, [less9, less17, less9, less17])
     say(f"the two folds in turn from {start} go round {sorted(names)}", set(r) == names and r[-1] == start)
 
-# 7. The four parities of a name, one changing with a name (the table's own, executed): a fold changes one, 8 up two.
+# 7. The four parities of a name, one inverting with a name (the table's own, executed): a fold inverts one, 8 up two.
 gray = lambda n: (n - 1) ^ ((n - 1) >> 1)
-bits = lambda x: bin(x).count("1")
-say("a name to its next name changes one parity of four, 1 to 16", all(bits(gray(n) ^ gray(n + 1)) == 1 for n in range(1, 16)))
-say("17 less changes one parity of four, the fourth", all(gray(n) ^ gray(less17(n)) == 8 for n in range(1, 17)))
-say("9 less, with an eight, changes one parity of four, the third", all(gray(n) ^ gray(less9(n)) == 4 for n in range(1, 17)))
-say("8 apart changes two parities of four, the third and the fourth", all(gray(n) ^ gray(n + 8) == 12 for n in range(1, 9)))
+bits = lambda x: sum(int(d) for d in bin(x)[2:])
+say("a name to its next name inverts one parity of four, 1 to 16", all(bits(gray(n) ^ gray(n + 1)) == 1 for n in range(1, 16)))
+say("17 less inverts one parity of four, the fourth", all(gray(n) ^ gray(less17(n)) == 8 for n in range(1, 17)))
+say("9 less, with an eight, inverts one parity of four, the third", all(gray(n) ^ gray(less9(n)) == 4 for n in range(1, 17)))
+say("8 apart inverts two parities of four, the third and the fourth", all(gray(n) ^ gray(n + 8) == 12 for n in range(1, 9)))
 
 # 8. Inward: a name n is the inward name 8n − 7; a name to its next name is eight inward names, a span;
 #    a 1 to 17 inward is two names' going, an odd name to its next odd name; eight of them with 1 to 17.
