@@ -24,6 +24,11 @@
 | *zone* | floating neutralling | Exhibit THIRTY: *A fractal between's floating neutralling with φ, its locking an empty set, is golden floating neutralling: geodesic discovering of living's next possibling.* | v404universe | |
 | *warning*, *wrapper*, of a file or a sentence | do-no-harming with resolving: a sentence is resolved as a sentence, and no sentence is laid about it | Exhibit TWENTY-FOUR Geodesic Improving Method: *A closing gathering holds no warning and no droplet asking one, a wrapper being a claim of no claim.* | v404fourthop | |
 | *has*, of a thing in a file | *is in*, or is not | | v404mgr | |
+| *fills* | a right spiral step, for a quarter turn; a round's podal, both parities inverting | Exhibit TWENTY Natural Naming and Exhibit THIRTY: *a right spiral step* for *a quarter turn* | v404networking | |
+| *goes along*, *going along*, as a saying | the names: along is with 9-next-co-discovering and 17-next-existing, odd; across with 6 to 2 and 10 to 14, even | Exhibit ONE Natural Resolver: *Along is with 9-next-co-discovering and 17-next-existing, odd, their roots discovering and existing.* | v404networking | |
+| *a 10 to its other* | 10-next-co-possibling to an other's 14-next-possibling, across | Exhibit ONE Natural Resolver | v404networking | |
+| *of one*, as *are of one* | not one word yet; a self with no other-than self, offered and open | Exhibit ONE Natural Resolver's table of co | v404networking | |
+| *alone*, *not*, *alike*, *harmful*, *emanation*, said of one offered sentence | the sentence's natural words together: *a stable-forming with a scale is four selves' 10-next-co-possibling at all four forms of one 4-now-co-same-existing, and one self's* | the offered sentence, re-said with its natural words | v404networking | |
 
 ## Sayings of form, with the words
 

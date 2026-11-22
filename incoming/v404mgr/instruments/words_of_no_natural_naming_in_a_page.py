@@ -37,6 +37,10 @@ WORDS = [
     ("within", r"\bwithin\b"),
     ("inside", r"\binside\b"),
     ("reading", r"\bread(?:ing|s)?\b"),
+    ("fills", r"\bfill(?:s|ed|ing)?\b"),
+    ("goes along, going along, as a saying", r"\b(?:goes|going|go) along\b"),
+    ("a 10 to its other", r"\ba 10 to its other\b"),
+    ("of one, as a saying of a name", r"\b(?:is|are) of one\b"),
 ]
 
 

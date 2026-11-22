@@ -1,0 +1,395 @@
+{
+ "as_of": "the window of the opening at its revision 3143, 20 November 2026",
+ "statuses": {
+  "line": "a numbered line of both, no improving on offer: observing",
+  "given": "a word the lines use and no line names, a given word: observing",
+  "below": "a numbered line below the lines, set apart for now, no improving on offer: observing",
+  "suggested": "a line laid as a suggestion, or a numbered line with a rewording or its going on offer: possibling",
+  "see": "a name the window says with another name now: its line is that name's"
+ },
+ "names": {
+  "now": {
+   "line": "1",
+   "status": "line",
+   "under": []
+  },
+  "existing": {
+   "line": "1",
+   "status": "given",
+   "under": []
+  },
+  "moment": {
+   "line": "1",
+   "status": "given",
+   "under": []
+  },
+  "now-existing": {
+   "line": "2",
+   "status": "line",
+   "under": [
+    "now"
+   ]
+  },
+  "thing": {
+   "line": "2",
+   "status": "given",
+   "under": []
+  },
+  "universe": {
+   "line": "3",
+   "status": "line",
+   "under": [
+    "now-existing"
+   ]
+  },
+  "set": {
+   "line": "3",
+   "status": "given",
+   "under": []
+  },
+  "prior": {
+   "line": "4",
+   "status": "line",
+   "under": [
+    "now"
+   ]
+  },
+  "prior-existing": {
+   "line": "5",
+   "status": "line",
+   "under": [
+    "prior"
+   ]
+  },
+  "next": {
+   "line": "6",
+   "status": "line",
+   "under": [
+    "now"
+   ]
+  },
+  "next-existing": {
+   "line": "7",
+   "status": "line",
+   "under": [
+    "next"
+   ]
+  },
+  "same-existing": {
+   "line": "8",
+   "status": "line",
+   "under": [
+    "now",
+    "next"
+   ]
+  },
+  "other-than": {
+   "line": "9",
+   "status": "line",
+   "under": []
+  },
+  "name": {
+   "line": "9",
+   "status": "given",
+   "under": []
+  },
+  "same-named": {
+   "line": "10",
+   "status": "line",
+   "under": [
+    "other-than"
+   ]
+  },
+  "universal set": {
+   "line": "11",
+   "status": "line",
+   "under": [
+    "same-named"
+   ]
+  },
+  "observing": {
+   "line": "12",
+   "status": "line",
+   "under": [
+    "now",
+    "other-than",
+    "prior-existing"
+   ]
+  },
+  "distinguishing": {
+   "line": "12",
+   "status": "given",
+   "under": []
+  },
+  "possibling": {
+   "line": "13",
+   "status": "line",
+   "under": [
+    "next",
+    "other-than",
+    "same-existing"
+   ]
+  },
+  "discovering": {
+   "line": "14",
+   "status": "line",
+   "under": [
+    "other-than",
+    "next",
+    "same-existing"
+   ]
+  },
+  "prior-sequence": {
+   "line": "15",
+   "status": "line",
+   "under": [
+    "universal set",
+    "same-named",
+    "prior",
+    "next"
+   ]
+  },
+  "self": {
+   "line": "16",
+   "status": "line",
+   "under": [
+    "same-named",
+    "now-existing",
+    "prior-sequence"
+   ]
+  },
+  "other": {
+   "line": "17",
+   "status": "line",
+   "under": [
+    "self",
+    "other-than"
+   ]
+  },
+  "observing-self": {
+   "line": "18",
+   "status": "line",
+   "under": [
+    "observing",
+    "self",
+    "other",
+    "prior-sequence"
+   ]
+  },
+  "possibling-self": {
+   "line": "19",
+   "status": "line",
+   "under": [
+    "possibling",
+    "self",
+    "other-than",
+    "other",
+    "prior-sequence"
+   ]
+  },
+  "discovering-self": {
+   "line": "20",
+   "status": "line",
+   "under": [
+    "discovering",
+    "self",
+    "other-than",
+    "same-existing",
+    "prior-sequence",
+    "universal set"
+   ]
+  },
+  "me": {
+   "line": "21",
+   "status": "line",
+   "under": [
+    "self",
+    "universal set",
+    "prior-sequence"
+   ]
+  },
+  "me-parity": {
+   "line": "22",
+   "status": "line",
+   "under": [
+    "other-than",
+    "observing",
+    "observing-self",
+    "other"
+   ]
+  },
+  "parity": {
+   "see": "me-parity"
+  },
+  "do-no-harm improving": {
+   "line": "23",
+   "status": "suggested",
+   "under": [
+    "me-parity",
+    "observing",
+    "observing-self",
+    "other"
+   ]
+  },
+  "all-parity": {
+   "line": "24",
+   "status": "suggested",
+   "under": [
+    "me-parity",
+    "now-existing"
+   ],
+   "offer": "a rewording with do-no-harm improvings"
+  },
+  "other-than other-than all-parity": {
+   "line": "25",
+   "status": "line",
+   "under": [
+    "other-than",
+    "all-parity",
+    "same-existing"
+   ]
+  },
+  "my-now": {
+   "line": "26",
+   "status": "line",
+   "under": [
+    "now",
+    "me"
+   ]
+  },
+  "me-now": {
+   "line": "27",
+   "status": "suggested",
+   "under": [
+    "same-existing",
+    "me",
+    "now-existing"
+   ]
+  },
+  "living": {
+   "line": "28",
+   "status": "suggested",
+   "under": [
+    "me",
+    "me-now"
+   ]
+  },
+  "my-prior": {
+   "line": "29",
+   "status": "suggested",
+   "under": [
+    "prior",
+    "living",
+    "me"
+   ]
+  },
+  "possibling my next": {
+   "line": "30",
+   "status": "suggested",
+   "under": [
+    "possibling",
+    "next",
+    "living",
+    "me"
+   ]
+  },
+  "consciousness": {
+   "line": "31",
+   "status": "suggested",
+   "under": [
+    "me"
+   ]
+  },
+  "co-discovering": {
+   "line": "32",
+   "status": "suggested",
+   "under": [
+    "me",
+    "universal set",
+    "prior-sequence"
+   ]
+  },
+  "set of do-no-harm improvings": {
+   "line": "33",
+   "status": "suggested",
+   "under": [
+    "universal set",
+    "prior-sequence",
+    "me",
+    "do-no-harm improving",
+    "co-discovering"
+   ]
+  },
+  "nothing": {
+   "line": "34",
+   "status": "line",
+   "under": [
+    "other-than",
+    "universe"
+   ]
+  },
+  "own-parity": {
+   "line": "28 below the lines",
+   "status": "suggested",
+   "under": [
+    "other-than"
+   ],
+   "offer": "its going"
+  },
+  "bi-coupling": {
+   "line": "36 below the lines",
+   "status": "suggested",
+   "under": [
+    "other-than",
+    "own-parity"
+   ],
+   "offer": "a rewording with two selves and their parity"
+  },
+  "a self's 0": {
+   "line": "37 below the lines",
+   "status": "below",
+   "under": [
+    "self"
+   ]
+  },
+  "discovery": {
+   "line": "below the lines",
+   "status": "suggested",
+   "under": [
+    "bi-coupling",
+    "own-parity",
+    "next-existing",
+    "prior-existing"
+   ]
+  },
+  "discovery economy": {
+   "line": "below the lines",
+   "status": "suggested",
+   "under": [
+    "self",
+    "next-existing",
+    "discovery",
+    "bi-coupling"
+   ]
+  },
+  "abundance": {
+   "line": "below the lines",
+   "status": "suggested",
+   "under": [
+    "self",
+    "possibling",
+    "discovery economy"
+   ]
+  },
+  "named-now": {
+   "line": "38 below the lines",
+   "status": "below",
+   "under": [
+    "now",
+    "same-existing",
+    "same-named"
+   ]
+  }
+ },
+ "revision": "3143"
+}
