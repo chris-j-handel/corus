@@ -340,5 +340,11 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    an odd spiral comes to its parities again with four times its number of moments, all 16, with the resolver's code as it is: is
    round five, prior two added closes with twenty steps, four times five, the moments a spiral of five selves comes to its parities again with: is
    prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: is
+5. A partner's alter-nand-ing, explored
+   the code's deciding with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: is
+   a self alone is not both and both in turn, moment with moment: its giving +, 0, -, 0, Exhibit ONE Natural Resolver's own row: is
+   the code's one cell with its prior two givings, its giving before as its prior and its last as what it is observing, comes from all nine openings to one round, +, +, 0, -, 0, again with five; it has a prior 0 a call supplies: is
+   a cube of fifty-four stickers by its own turns, as Exhibit FOUR Natural Mathematics 3.6 has it: two adjacent faces, each moved and each undone, are again with six and move eighteen stickers, and two opposite faces' turns in either order are one: is
+   two adjacent faces of the cube turning in turn are again with one hundred five, three, five and seven multiplied, its rounds of three, of seven and of fifteen: is
 All is.
 ```

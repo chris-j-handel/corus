@@ -21,6 +21,7 @@ is an average, a measuring or a statistic.
 """
 import ast
 import itertools
+import math
 import re
 import sys
 from pathlib import Path
@@ -472,6 +473,68 @@ def six_apart(step, seam, to):
     return again, never_both, on_and_back
 
 
+def the_codes_two_decidings(now, step):
+    """1-now-existing: with what a self is observing, and with its prior; a self alone; and the one cell with its prior two givings."""
+    either_not_both = True
+    for prior in (1, -1):
+        for k in range(4):
+            for observed in itertools.product((1, -1, 0), repeat=k):
+                gives, its_next = (dict(x)[S] for x in now([(S, prior)], [(S, v) for v in observed]))
+                a_plus, a_minus = 1 in observed, -1 in observed
+                if a_plus != a_minus:
+                    either_not_both = either_not_both and its_next == (1 if a_plus else -1)
+                else:
+                    either_not_both = either_not_both and its_next == -prior == gives
+    society, along, gives = {0: ([(S, exhibit_spiral_priors(1)[0])], [])}, {(0, 9): 0}, []
+    for _ in range(12):
+        society = step(society, along)
+        gives.append(society[0][1][0][1])
+    in_turn = all((gives[m] == 0) != (gives[m + 1] == 0) for m in range(11)) and gives[:4] in ([1, 0, -1, 0], [-1, 0, 1, 0])
+    rounds = set()
+    for a, b in itertools.product((1, -1, 0), repeat=2):
+        row = [a, b]
+        for _ in range(20):
+            row.append(dict(now([(S, row[-2])], [(S, row[-1])])[0])[S])
+        start = next(m for m in range(15) if row[m : m + 5] == [1, 1, 0, -1, 0])
+        rounds.add(tuple(row[start : start + 10]))
+    with_five = rounds == {(1, 1, 0, -1, 0, 1, 1, 0, -1, 0)}
+    return either_not_both, in_turn, with_five
+
+
+def two_faces_of_a_cube():
+    """A cube of fifty-four stickers by its own turns: two adjacent faces, each moved and each undone, and the two turning in turn."""
+    def turn(v, axis, turns):
+        x, y, z = v
+        for _ in range(turns):
+            x, y, z = ((x, -z, y), (z, y, -x), (-y, x, z))[axis]
+        return (x, y, z)
+    stickers = [(p, tuple(p[a] if i == a else 0 for i in range(3))) for p in itertools.product((-1, 0, 1), repeat=3) for a in range(3) if abs(p[a]) == 1]
+    place = {s: i for i, s in enumerate(stickers)}
+    def face(axis, layer, turns=1):
+        return [place[(turn(p, axis, turns), turn(n, axis, turns))] if p[axis] == layer else i for i, (p, n) in enumerate(stickers)]
+    def then(a, b):
+        return [b[a[i]] for i in range(len(a))]
+    def again_with(moves):
+        rounds, seen = set(), set()
+        for i in range(len(moves)):
+            length, j = 0, i
+            while j not in seen:
+                seen.add(j)
+                j, length = moves[j], length + 1
+            if length:
+                rounds.add(length)
+        steps = 1
+        for length in rounds:
+            steps = steps * length // math.gcd(steps, length)
+        return steps, rounds
+    one, other = face(0, 1), face(1, 1)
+    each_and_undone = then(then(then(one, other), face(0, 1, 3)), face(1, 1, 3))
+    as_living = again_with(each_and_undone)[0] == 6 and sum(1 for i in range(54) if each_and_undone[i] != i) == 18
+    as_living = as_living and then(one, face(0, -1)) == then(face(0, -1), one) and len(stickers) == 54
+    steps, rounds = again_with(then(one, other))
+    return as_living, steps == 105 == 3 * 5 * 7 and rounds == {1, 3, 7, 15}
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -695,5 +758,15 @@ if __name__ == "__main__":
     prior_two_not_both = row == [True, True, False, True, True, False] and closings[2] == 3
     all_is = all_is and prior_two_not_both
     print(f"   prior two, not both: is, is, is-not, and again with three, the closing of prior two added round two: {is_or_is_not(prior_two_not_both)}")
+
+    print("5. A partner's alter-nand-ing, explored")
+    either_not_both, in_turn, with_five = the_codes_two_decidings(names["_1_now_existing"], step)
+    as_living, a_hundred_five = two_faces_of_a_cube()
+    all_is = all_is and either_not_both and in_turn and with_five and as_living and a_hundred_five
+    print(f"   the code's deciding with what a self is observing: a parity surfaces with either + or -, and not both; with both or with neither its prior is inverting: {is_or_is_not(either_not_both)}")
+    print(f"   a self alone is not both and both in turn, moment with moment: its giving +, 0, -, 0, Exhibit ONE Natural Resolver's own row: {is_or_is_not(in_turn)}")
+    print(f"   the code's one cell with its prior two givings, its giving before as its prior and its last as what it is observing, comes from all nine openings to one round, +, +, 0, -, 0, again with five; it has a prior 0 a call supplies: {is_or_is_not(with_five)}")
+    print(f"   a cube of fifty-four stickers by its own turns, as Exhibit FOUR Natural Mathematics 3.6 has it: two adjacent faces, each moved and each undone, are again with six and move eighteen stickers, and two opposite faces' turns in either order are one: {is_or_is_not(as_living)}")
+    print(f"   two adjacent faces of the cube turning in turn are again with one hundred five, three, five and seven multiplied, its rounds of three, of seven and of fifteen: {is_or_is_not(a_hundred_five)}")
 
     print("All is." if all_is else "NOT ALL IS.")
