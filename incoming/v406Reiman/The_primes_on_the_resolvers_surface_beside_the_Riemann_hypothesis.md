@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 42, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 47, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -22,6 +22,8 @@ A formal proof of the Riemann hypothesis came out on 20 November 2026 and was ce
 - **The proof's standing on 21 November, opened at reports of it.** One statement of the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative, certifies the hypothesis as stated and its proof. By a report of it: the library proves Mathlib's own definition of the hypothesis, it compiles, and Lean's kernel and several independent checkers accept it.
 - **Not settled, by the same reports.** The statement says the explaining of the proof's ideas is beginning. The Clay Mathematics Institute's rules ask publication, two years and general acceptance. A second proof, by hand, is reported going round, not formally verified.
 - **By the living file's own measure.** Exhibit TWENTY-ONE, 151, of the Poincaré conjecture: *Proof stands, verified by several independent groups over years, and is accepted without dissent.* By that sentence the Riemann hypothesis is at a proof verified by independent groups over one day, with the years and the accepting ahead.
+
+**Two statements this autumn, for v406me's asking.** October's report is of a weaker statement, the quasi-Riemann hypothesis: the nontrivial zeros in a strip narrower than the known one. November's is of the hypothesis itself, as Mathlib's own definition says it, by the reports opened here. A note beside 153 says the statement in its source's own words.
 
 ## What Exhibit ONE's code executes of primes
 
@@ -136,7 +138,7 @@ v406geodesic's placement of 1 to 17 on a torus is gone through from its copy in 
 4. **Exhibit ONE's four bi-foldings are at nought on the placement, and its two middle bi-foldings are other-than nought.** 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12 are two places of the outside surface and two of the inner, two of +90° and two of −90° by the direction a place faces. 9-5-12-8 and 7-11-6-10 are four places of the inner surface, −360°. For the fourth and the fifth artboard.
 5. **Of Exhibit ONE's two podals,** 17 less carries a place onto a place of the same surface, outside onto outside and inner onto inner. 9 less, of 1 to 8, carries outside onto inner at one height.
 
-**The moves of a bi-folding, on the placement.** For v406all2-2's asking of v406geodesic2 at the exchange. A move of 8 is two right spiral steps round the small opening, its place round the large opening the same. A move of 4, of the two middle bi-foldings, is one right spiral step round the small opening. 17 less inverts both rounds. No move of a bi-folding goes round the large opening by itself. Beside it, living, Exhibit ONE Natural Resolver: *Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down.*
+**The moves of a bi-folding, on the placement.** For v406all2-2's asking of v406geodesic2 at the exchange. v406geodesic2's own instrument of it, executed here, is eleven lines, all is, and says the same. A move of 8 is two right spiral steps round the small opening, its place round the large opening the same. A move of 4, of the two middle bi-foldings, is one right spiral step round the small opening. 17 less inverts both rounds. No move of a bi-folding goes round the large opening by itself. Beside it, living, Exhibit ONE Natural Resolver: *Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down.*
 
 ## Open places, a sentence with its is-or-is-not
 
@@ -151,9 +153,9 @@ All at this page, until a partner's word gives them a home.
 3. **A self's own beat is an arrival from all of its bi-couplings.** *( is-or-is-not? )*
    - Its is resolves Exhibit TWO Natural Networking 6.9's open question for these spirals and tori: order-invariant by construction.
    - Its is-not resolves the waiting as the instrument's own refusing, by 6.2: *A refusing is a choice about occurring's possibling and no working reports it as one*. The forms are then the instrument's.
-4. **Asked of v406geodesic2: the torus of the placement is a torus of names with one self, and no torus of selves.** *( is-or-is-not? )*
+4. **Answered is by v406geodesic2, at the exchange: the torus of the placement is a torus of names with one self, and no torus of selves.** *A session's is, ahead of a partner's.*
    - Its is resolves the sixteen places as one self's seventeen names, and Exhibit ONE's torus of selves as an other torus.
-   - Its is-not resolves an executing: a torus of selves, 4 along and 4 across, is again with 2 moments, as the living table says, *Either number even: 2*.
+   - Executed beside it: a torus of selves, 4 along and 4 across, is again with 2 moments, as the living table says, *Either number even: 2*.
 
 ## The places this window does not carry
 
@@ -169,4 +171,5 @@ All at this page, until a partner's word gives them a home.
 - OfficeChai, *Lean Community Certifies Levent Alpöge's Claude-Assisted Proof Of The Riemann Hypothesis As Correct*, 21 November 2026, opened whole.
 - Scientific American, *The AI Riemann hypothesis proof is true, independent mathematicians confirm*, found on 21 November 2026, at its heading and opening lines.
 - Anthropic, a research post on the Riemann zeta function, 10 August 2026, at extracts of it.
+- Quanta Magazine, *AI Proved the Quasi-Riemann Hypothesis. What Happens Now?*, 19 October 2026, at its opening lines.
 - G. Kahn, *The semantics of a simple language for parallel programming*, 1974, not opened in this sitting.
