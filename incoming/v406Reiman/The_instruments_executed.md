@@ -303,6 +303,8 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
    17-next-existing is co-bi-tri, co with 16-next-same-existing's bi-tri, and 1-now-existing is as 17: is
    by Exhibit ONE Natural Resolver's code's own syntax, no line adds, multiplies or divides, and no line has a number of selves: its numbers are 0, 1 and -1, and its names' 6, 9 and 10; a seam and a prime are in no line of it: is
    all 16 odd spirals side by side are, spiral with spiral, the spiral alone, moment with moment: no self is observing a self of an other spiral, and a number uncrossed is observed from beside, of no self: is
+   a spiral with two scales: with its own, number with number of one turn, its selves' priors are never its opening's and never their inverse: is
+   one scale outward, a turn of it for one moment, a spiral is the row of a self observing nothing, its priors inverting turn with turn, by 1-now-existing with no parity: is
 2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it
    2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
    at its seam with their between, a spiral crosses a self and an other together or neither: is
@@ -331,5 +333,9 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
 4. By numbers' own arithmetic, with no resolver in it
    a closed turn of three, five and seven: the pairs uncrossed by all three are a spiral's places less one at its seam and less two off it, multiplied: is
    with an odd between, a closed turn has a pair uncrossed by all three, never none: is
+   prior two added, round a prime, closes with no multiple of the prime, all 518 primes of 2 to 3720 but five: is
+   its closing is one short of the prime, or twice one past it, or a part of one of the two, all but five: is
+   an odd spiral comes to its parities again with four times its number of moments, all 16, with the resolver's code as it is: is
+   round five, prior two added closes with twenty steps, four times five, the moments a spiral of five selves comes to its parities again with: is
 All is.
 ```

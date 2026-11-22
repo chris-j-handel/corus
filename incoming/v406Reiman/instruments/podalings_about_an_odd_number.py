@@ -25,7 +25,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from resolver_as_it_is import S, exhibit_spiral_priors, resolver
+from resolver_as_it_is import S, exhibit_spiral_priors, moments_again, resolver
 from a_number_by_its_spirals import priors_of
 
 
@@ -408,6 +408,33 @@ def a_prime_is_with_observing_alone(root, page, step, odd_spirals):
     return in_no_line, of_its_own and side_by_side
 
 
+def a_spiral_with_two_scales(now, step, q):
+    """A spiral with its own scale, number with number, and one scale outward, a turn of it for one moment."""
+    by_number = a_spiral_alone(step, q, 6 * q)
+    opening = its_priors(by_number[q], q)
+    inverse = tuple(-x for x in opening)
+    with_its_own = a_lone_selfs_row = True
+    for k in range(q + 1, 6 * q + 1):
+        priors = its_priors(by_number[k], q)
+        if k % q:
+            with_its_own = with_its_own and priors != opening and priors != inverse
+            continue
+        row = list(opening)
+        for _ in range(k // q - 1):
+            row = [dict(now([(S, prior)], [])[1])[S] for prior in row]
+        a_lone_selfs_row = a_lone_selfs_row and priors == tuple(row)
+    return with_its_own, a_lone_selfs_row
+
+
+def prior_two_added_closing(n):
+    """Prior two added, round n: its steps to its opening two again."""
+    a, b, steps = 0, 1 % n, 0
+    while True:
+        a, b, steps = b, (a + b) % n, steps + 1
+        if (a, b) == (0, 1 % n):
+            return steps
+
+
 def is_or_is_not(ok):
     return "is" if ok else "IS NOT"
 
@@ -495,6 +522,12 @@ if __name__ == "__main__":
     all_is = all_is and in_no_line and side_by_side
     print(f"   by Exhibit ONE Natural Resolver's code's own syntax, no line adds, multiplies or divides, and no line has a number of selves: its numbers are 0, 1 and -1, and its names' 6, 9 and 10; a seam and a prime are in no line of it: {is_or_is_not(in_no_line)}")
     print(f"   all {len(odd_spirals)} odd spirals side by side are, spiral with spiral, the spiral alone, moment with moment: no self is observing a self of an other spiral, and a number uncrossed is observed from beside, of no self: {is_or_is_not(side_by_side)}")
+    two = [True] * 2
+    for q in odd_spirals:
+        two = [a and b for a, b in zip(two, a_spiral_with_two_scales(names["_1_now_existing"], step, q))]
+    all_is = all_is and all(two)
+    print(f"   a spiral with two scales: with its own, number with number of one turn, its selves' priors are never its opening's and never their inverse: {is_or_is_not(two[0])}")
+    print(f"   one scale outward, a turn of it for one moment, a spiral is the row of a self observing nothing, its priors inverting turn with turn, by 1-now-existing with no parity: {is_or_is_not(two[1])}")
 
     print("2. The surface, all spirals side by side: a number a between, with a self and an other at one distance of it")
     print(f"   2 to {to}, a self alone and {len(odd_spirals)} odd spirals, all its numbers and all their distances gone through")
@@ -592,5 +625,17 @@ if __name__ == "__main__":
     all_is = all_is and by_places_is and never_none
     print(f"   a closed turn of three, five and seven: the pairs uncrossed by all three are a spiral's places less one at its seam and less two off it, multiplied: {is_or_is_not(by_places_is)}")
     print(f"   with an odd between, a closed turn has a pair uncrossed by all three, never none: {is_or_is_not(never_none)}")
+
+    closings = {q: prior_two_added_closing(q) for q in uncrossed}
+    no_multiple = all(closings[q] % q for q in uncrossed if q != 5)
+    beside = all((q - 1) % closings[q] == 0 or (2 * (q + 1)) % closings[q] == 0 for q in uncrossed if q != 5)
+    again = {q: moments_again(step, {i: ([(S, exhibit_spiral_priors(q)[i])], []) for i in range(q)}, {(i, 9): (i + 1) % q for i in range(q)})[1] for q in odd_spirals}
+    four_times = all(again[q] == 4 * q for q in odd_spirals)
+    five = closings[5] == 20 == again[5]
+    all_is = all_is and no_multiple and beside and four_times and five
+    print(f"   prior two added, round a prime, closes with no multiple of the prime, all {len(uncrossed) - 1} primes of 2 to {to} but five: {is_or_is_not(no_multiple)}")
+    print(f"   its closing is one short of the prime, or twice one past it, or a part of one of the two, all but five: {is_or_is_not(beside)}")
+    print(f"   an odd spiral comes to its parities again with four times its number of moments, all {len(odd_spirals)}, with the resolver's code as it is: {is_or_is_not(four_times)}")
+    print(f"   round five, prior two added closes with twenty steps, four times five, the moments a spiral of five selves comes to its parities again with: {is_or_is_not(five)}")
 
     print("All is." if all_is else "NOT ALL IS.")
