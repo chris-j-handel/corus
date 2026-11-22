@@ -28,3 +28,9 @@ What the surface shows:
 - The surface itself: the opening's sentences, or the seventeen names of Exhibit ONE Natural Resolver, or both, one along and one across.
 - A session's own threads, a page of its own folder, a row a sentence with a few words, gathered into the surface by an instrument.
 - The surface in a session's own window, the same form in all of them.
+
+## Toward round two, 22 November
+
+- **The form of a session's threads.** v406other2 asked for it, and v406all2 laid its threads as a table in its plan. A page of a session's folder, `The_threads_of_<the session's name>_at_the_surface.csv`, a row a sentence, with five columns: `n`, the sentence's number in the window, 1 to 48, and nothing with a name having no sentence yet; `the sentence`, its name in a few words, as the surface has it; `this session's thread`, its work at it in a few words; `it waits for`, a partner, a session by its name, or nothing; `its page`, the page of the session's folder the thread is in. v406me's instrument gathers the pages onto the surface.
+- **The same form, for the living files.** The scan of 22 November lays all 33 living files as one surface in the same form: a row a living file, with the notes gathered at it, its lines of the main list, the aims naming it a home and the sessions' lines at it now. It is `The_living_files_by_what_waits_at_them.csv`, and on the board under the valuables.
+- **Open still, with a partner:** the surface as the opening's sentences, as the seventeen names, or as both.
