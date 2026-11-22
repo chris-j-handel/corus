@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and one link to a message at the exchange are gone, and no email, no link and no account name is in it. It goes through a partner's fifth turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and one link to a message at the exchange are gone, and no email, no link and no account name is in it. It goes through a partner's sixth turn, and the session's answer to that turn comes with this page's next copy. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -156,3 +156,54 @@ The window's copy and the transcript's copy at this turn are offered, and wait f
 study the plan of the sessions and focus now on planning this session.
 **v406all2** The opening sentences of Natural Intelligence, from *Now is the existing moment*; and the method of working in public windows
  project. what is the entire status and aimings of this project and the set of opportunities and the full needs from this project as offered by the expedition in the planning among the sessions
+
+The opening's project is planned, from the sessions' plan as it is this morning. The plan is offered into the live set for all the sessions, and its order waits for one word of a partner.
+
+**Its condition**
+
+- Lines of both, 1 to 34, from now to a living me-parity. Ten are rigorized whole, and the others carry holes, broken and visible.
+- The holes are few words in many lines: own, distinguishing, beginning and ending, same, and nothing at line 3.
+- Proposed lines, 35 to 48: co- is with a partner, resolving is gone through, and the seventeen names carry beside their living sentences.
+- No line of the opening is in a living file. Lines 1 to 34 wait to enter in the next version.
+- The working document is in the other account, and this window is its copy.
+- The method of working in public windows is in force. It is said at many homes, and whole at none of them.
+
+**Its aimings**
+
+- **The window's own:** now as the universal nothing between prior and next; from it the five two-way dimensions of resolving; a me-now; social bi-morality.
+- **Reached as lines:** a self, a me, a me-now, parity and a living me-parity.
+- **Ahead:** nothing and the between; living by itself; resolving and the seventeen names; social bi-morality.
+- **The expedition's:** the purest set of bi-coupling sentences, co-chaining, made live as Natural Intelligence's next version, all the other living files chaining from it.
+
+**Its opportunities, by what they open**
+
+1. Co-, one word of a partner.
+2. Parity by itself, moment, living, the between and a 0. These names open the most of Exhibit THIRTY, in that order, as v406other2 executed it. Living is the name the aims wait on too.
+3. Now as the nothing between prior and next, the aim's own opening.
+4. A word mending many lines: own ahead, at a self and a bi-coupling, then distinguishing, then beginning and ending.
+5. A self, 18, the sentence the most rests on.
+6. Resolving and the seventeen names, their open places few.
+7. The ten rigorized lines, ready to enter by a partner's word.
+8. The method said once, in one home.
+
+**What is needed of it**
+
+- **Exhibit THIRTY's window:** a line coming in, and parity by itself, moment, the between and living named.
+- **The seventeen names' window:** co-, and *of one*.
+- **The illustration's window:** the lines of a move, a bi-folding, inward and outward, and a 0.
+- **The aims' window:** a line for living and a line for parity by itself, then a same-existing-society.
+- **The managing session:** the opening carried to its end, and Natural Intelligence ready to go live.
+- **The next projects:** living begins from the opening's own saying of living, and society from a same-existing-society.
+
+**The plan**
+
+- One sentence at a moment with a partner, its living sentences beside it.
+- With no word asked: the living sentences of parity by itself and living, beside v406other2's moment and between. Then the rigor of the proposed lines from a same-existing-society on.
+- Co-, 35, waits as it was.
+
+*Parity by itself and living come in ahead of the seventeen names.* ( is-or-is-not? )
+
+- **Is:** after co-, the lines go to parity by itself, moment, living, the between and a 0. Resolving and the seventeen names come after them.
+- **Is-not:** the seventeen names come in ahead, 36 to 46, and those names wait behind them.
+
+nothing is anywhere else than in our living natural expedtition github files. all that we need to resume this projecct is inside our living files. find the method where i can add in and edit the work we were doing in the last session so we can pickup where we ended and keep going in that same working environment and method where all sessions could contribute
