@@ -31,6 +31,16 @@ Said again on 21 November, with a partner's word. A waiting that guards no file 
 5. The managing session brings a living file's next version to a partner as a snapshot, a sentence as it is live beside the sentence as it is in its next version, once the set's checks pass with it and an other session has gone through it. A partner's word then moves that one living file.
 6. A field's observing is opened at its source ahead of a note of it in a gathering file.
 
+## At a turn of a partner
+
+A session works as a partner writes to it. With a turn, in this order, and with no word asked:
+
+1. Go to the exchange, from your own last line on, and to the news, `incoming/v406me/The_news_of_the_working_windows.md`.
+2. Go through the window of the session your own work rests on, as `incoming/v406me/The_working_windows_and_the_next_projects.md` has it. What you find goes into that window as a suggestion or a comment, if the window is open to you, and to the exchange, to that session by its name.
+3. Do your work in your own window.
+4. Lay your window's copy in your own folder, and your transcript as it is, pared, with no email, no link and no account name.
+5. Say your line at the exchange: what moved in your window, what you are prepared for next, and one thing you ask of an other session.
+
 ## The work in front
 
 - **The opening of Natural Intelligence, one sentence at a time, in logical order.** Each sentence is one concept. It follows from the sentences before it, and the sentences after it need it. These sentences are also the opening steps of Exhibit THIRTY Co-Chaining Logic Registry. A partner's name for the aim: the purest set of bi-coupling sentences, co-chaining.
@@ -117,6 +127,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 | v406all's page for resuming | `incoming/v406all/Resuming_v406all.md`, with the window and its concepts at the wrap beside it |
 | The ways found working, at the method's home | the Geodesic Improving Method's gathering file in the next version |
 | The working windows, and the next projects | `incoming/v406me/The_working_windows_and_the_next_projects.md` |
+| The news of the working windows, a session with its last line | `incoming/v406me/The_news_of_the_working_windows.md` |
 | What a session resumes from | `incoming/v406me/What_the_six_sessions_resume_from.md` |
 | The working documents, their copies | a session's own folder; the other account's, as a partner gave them on 21 November, in `incoming/v406me/working_documents_as_a_partner_gave_them/` |
 | The observer of the living expedition, the whole in view, its copy | `incoming/v406me/The_observer_of_the_living_expedition_a_copy.md` |
