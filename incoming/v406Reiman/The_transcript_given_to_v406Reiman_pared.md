@@ -609,5 +609,13 @@ we are going to need all the co-chaining logic to answer all the valuable prime 
 
 continue do no harm improving our primes report
 
-[This session's second turn of 22 November: the primes report written anew, the co-chaining a prime rests on organized in it, sixteen sentences with their is-or-is-not. Its closing words to a partner come here with the next laying.]
+[This session's second turn of 22 November: the primes report written anew, the co-chaining a prime rests on organized in it, sixteen sentences with their is-or-is-not. Its closing words, in brief: ten derive from living steps, two are namings to cohere, four are steps no one has; nothing is proved; and one sentence for a partner's word, A number is two moments: an odd spiral's like pair moves one self on with a number, and is at its seam again with the spiral's own number of numbers.]
+
+explain the concept of nothing is proved. what is the statement that needs proving for each of these interest. proof is equilibria and is not possibly existing. true or false no other possible is scientifc method and the method fails sequentially logical living. we can prove nothing is provable and this is more valuable as co-chaining and cohering with the universe is the source of the prime numbers prior to the hard probleming invention of proof in the universe without a method of discovering competency in the universe
+
+[This session's answer, in brief: nothing is proved says how far the report reaches, a last number, and no more; six interests are four statements, 13 to 16; that the primes are prior to proof carries, and that true or false alone fails a self stepping, a third condition being not yet; that nothing is provable does not carry, a proof of it being one proof; and one sentence for a partner's word, Not yet is other-than is and other-than is-not.]
+
+this is binary all or none at all logical sequential explaining. do not take any words of mine or your training as authority over the logical co-chaining of this. my suggesting is all the available explaining from the history of explainings in this is going to be missing the logic of primes as the crossings where the podalings are living as five living 0s aiming in a co-linear in 3d space on 2d geodesic surface. from every odd number along the numbers this same 1-17 local resolving in 5 living 0s living in the me-now of that number with three living parities each with two other-than-others as resolving all five living 0s next-and-same-living. explore this for us
+
+[This session's third turn of 22 November: a partner's suggesting of podalings explored by executing, a part of the primes report, with sentences 17 and 18. Its closing words to a partner come here with the next laying.]
 ```
