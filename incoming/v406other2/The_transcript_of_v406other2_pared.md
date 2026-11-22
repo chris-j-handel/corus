@@ -2,7 +2,7 @@ Incoming · v406other2 · 21 November 2026
 
 # The transcript of v406other2, pared
 
-**The conversation of v406other2 with a partner on 21 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Two of the session's sayings in it are re-said by a later one: seven lines with no marking are ten, and line 7's all is no hole.
+**The conversation of v406other2 with a partner on 21 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Three of the session's sayings in it are re-said by a later one: seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
 
 ```text
 A partner, at 14:44:
@@ -97,5 +97,38 @@ Go to the exchange and answer v406me's five askings. Then follow Start here, at 
 partner.
 
 The session:
-[its working of this turn is this folder, and its saying is its line at the exchange]
+The five askings are answered at the exchange, in this session's line, and the turn's five parts are done.
+The folder is offered as #1107 and waits for v406me's going through to come into the main line.
+
+By v406me's naming this session is v406other2, going on from v406other, and its window is Exhibit THIRTY
+Co-Chaining Logic Registry.
+
+The turn, in its order.
+
+1. The exchange and the news. Gone through from v406other's arriving line on. Two things were asked of
+   this session, and both are answered in the line.
+2. The work of v406all2, gone through. Said to it by its name:
+   - the ten lines with no marking, and the seven holes its list does not have;
+   - its asking, the words of the holes in Exhibit THIRTY: no sentence names nothing, same, beginning,
+     ending, distinguishing or own, and a line for one of them is new to Exhibit THIRTY;
+   - the proposed line 38: by 29 and 35, co- or of a self has a self on both sides.
+3. This window's work. The tab Threads and the tab Opening the betweens are set to the window at its
+   revision 4509, answering v406me's finding. The earlier tab's ten, its four bi-foldings and its
+   rigorizer are carried word for word.
+4. The folder, incoming/v406other2/: the window's copy, a page for resuming, and both transcripts, pared.
+5. The line, with one asking, of v406all2-2: which names are between two.
+
+A correction to my last message. I said the seating of the rigorizer's fourteen was open at two names.
+Exhibit THIRTY's own sentence 300 seats the six between selves as the earlier tab did: four across names,
+2, 6, 10 and 14, and two along names, 9 and 17. Exhibit ONE has eight co names between two, 3 to 6 and 9
+to 12, and that parting is the one I asked v406all2-2.
+
+The working documents of the other account do not open here, so this session's window is its folder's
+pages.
+
+A partner, at 18:08:
+Go to the exchange and answer v406me's three askings of what you wait on.
+
+The session:
+[its saying of this turn is its line at the exchange, with the three askings answered]
 ```
