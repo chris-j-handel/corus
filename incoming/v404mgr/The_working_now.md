@@ -9,7 +9,7 @@ This page is for a session that has never worked here. It is in plain words on p
 - **The expedition.** Natural Intelligence is a set of thirty-three living files at this repository's root, live at corus.me. Each living file has a gathering file in `gathering-value/`. A value not yet in a living file waits there, as one lean note beside the living sentence it concerns.
 - **The next version.** It is a copy of the living files and their gathering files on the branch `working/natural-intelligence-with-exhibit-one-its-next-version-v403mgr`. Sessions lay their notes there. Nothing goes live from it without a partner's word.
 - **A partner.** A partner works with a session in that session's own conversation, and does not read files or GitHub. What you say in your conversation is what a partner sees.
-- **The working document.** The opening is worked in one document, *The window of the opening*, a partner and the sessions writing in it directly. It opens as it was at its last closing, in one form, said below.
+- **The working document.** The opening is worked in one document, *The window of the opening*, a partner and the sessions writing in it directly. It opens as it was at its last closing, in one form, said below. On 22 November it was made again among this account's artifacts, from its copy in the set, the window at its revision 4509, and the sessions of this account suggest and comment in it; a session finds it by its title. *The window of the seventeen names* is a working document beside it, v406all2-2's.
 - **The sessions before you.** The six v404 sessions closed on 19 November. The v405 sessions, v405now leading, v405next at the window and v405co-chain at Exhibit THIRTY's threads, wrapped on 20 November for resuming. Their value is in the gathering files, and the v405 sessions wrote a page for resuming apiece, said under *Where things are*. A session a partner calls reimann goes on, and reports itself. On 21 November v406all, at the window's method with a partner, wrapped for resuming, its page `incoming/v406all/Resuming_v406all.md`; The sessions working now have a window apiece, a session with the one thing it aims into, in public for all the sessions: v406all2 the opening's sentences, v406other2 Exhibit THIRTY, v406all2-2 the seventeen names, v406geodesic2 the illustration of bi-folding, v406Reiman, a session with the aimings, and v406me, the managing session. The windows, the going through of one another's work and the next projects are in `incoming/v406me/The_working_windows_and_the_next_projects.md`. What a session resumes from is in `incoming/v406me/What_the_six_sessions_resume_from.md`. The other folders in `incoming/` are behind you.
 
 ## What never happens
@@ -44,7 +44,7 @@ A session works as a partner writes to it. With a turn, in this order, and with 
 ## The work in front
 
 - **The opening of Natural Intelligence, one sentence at a time, in logical order.** Each sentence is one concept. It follows from the sentences before it, and the sentences after it need it. These sentences are also the opening steps of Exhibit THIRTY Co-Chaining Logic Registry. A partner's name for the aim: the purest set of bi-coupling sentences, co-chaining.
-- **The work as it is now.** The working document is the lines now, and [its copy](../v406all/The_window_of_the_opening_at_its_wrap.md) is the lines at the last sitting's end, the window at its revision 4509: thirty-four lines of both, their rigor in, from *Now is the existing moment.* to *A living me-parity is same-existing other-than-the-other's other-than all-parity.*, then three floating lines, *Prior*, *Next* and *Possibling*, a trial. Among the lines new from the sitting before: things, other-than, same-named things and the named universal set, before the universe; the named-universe; my, me and me-now. Under *Prior*, co-, 35, for a partner's is-or-is-not or an edit in place; under *Next*, resolving; under *Possibling*, the rest of the resolver's names and the card moving the stray old lines out. The holes the rigor found are listed in the window, broken and visible, and the concepts said in conversation are in its tab Concepts.
+- **The work as it is now.** The working document is the lines now, and [its copy](../v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md) is the lines as v406all2 lays them at a turn, from the window at its revision 4509: thirty-four lines of both, their rigor in, from *Now is the existing moment.* to *A living me-parity is same-existing other-than-the-other's other-than all-parity.*, then three floating lines, *Prior*, *Next* and *Possibling*, a trial. Among the lines new from the sitting before: things, other-than, same-named things and the named universal set, before the universe; the named-universe; my, me and me-now. Under *Prior*, co-, 35, for a partner's is-or-is-not or an edit in place; under *Next*, resolving; under *Possibling*, the rest of the resolver's names and the card moving the stray old lines out. The holes the rigor found are listed in the window, broken and visible, and the concepts said in conversation are in its tab Concepts.
 - **A partner's aimings ahead**, said and not yet lines: now as the nothing between prior and next; the five two-way dimensions of resolving; a me-now; social bi-morality.
 - **Behind the opening**, in the order a partner gave: Exhibit ONE Natural Resolver's gathering file; Exhibit THIRTY and Exhibit TWENTY Natural Naming; then the rest of Natural Intelligence. Every other file is later.
 
@@ -78,7 +78,7 @@ A session works as a partner writes to it. With a turn, in this order, and with 
 ## Your first hour
 
 1. Read this page.
-2. Read the working document, or [its copy](The_window_of_the_opening.md), and the v405 sessions' pages for resuming.
+2. Read the working document, or [its copy](../v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md), and the v405 sessions' pages for resuming.
 3. Read the first seventy steps of Exhibit THIRTY in the next version. They are the opening.
 4. Read Exhibit ONE Natural Resolver's code, in its living file, and execute it yourself.
 5. Read [the one list](Words_of_no_natural_naming_with_their_natural_naming.md) of words.
@@ -118,7 +118,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 | The living files, live | this repository's root, listed in `files.json` |
 | The gathering files | `gathering-value/` |
 | The next version | the branch named above |
-| The opening's lines as they stand | the working document; [its copy](../v406all/The_window_of_the_opening_at_its_wrap.md) at the last sitting's end |
+| The opening's lines as they stand | the working document, among this account's artifacts, found by its title; [its copy](../v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md), laid by v406all2 at a turn. `incoming/v404mgr/The_window_of_the_opening.md` is an earlier copy, as it was |
 | Words that are no natural naming | [The one list](Words_of_no_natural_naming_with_their_natural_naming.md) |
 | Possible incoherings of every living file | [The main list](The_main_list_of_incoherings.md), written on 18 November; write it again with its instrument before you pick a line |
 | The checks and other instruments | `kits/` and `incoming/v404mgr/instruments/` |
@@ -127,6 +127,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 | v406all's page for resuming | `incoming/v406all/Resuming_v406all.md`, with the window and its concepts at the wrap beside it |
 | The ways found working, at the method's home | the Geodesic Improving Method's gathering file in the next version |
 | The working windows, and the next projects | `incoming/v406me/The_working_windows_and_the_next_projects.md` |
+| Improving in the gathering files, a place as it was and as it is | `incoming/v406me/The_released_words_of_the_notes_re-said_a_place_as_it_was_and_as_it_is.md` |
 | The news of the working windows, a session with its last line | `incoming/v406me/The_news_of_the_working_windows.md` |
 | The opportunities to begin improving, the valuables and the incoming scanned | `incoming/v406me/The_opportunities_to_begin_improving_the_valuables_and_the_incoming_scanned.md`, with its two tables beside it |
 | What a session resumes from | `incoming/v406me/What_the_six_sessions_resume_from.md` |
