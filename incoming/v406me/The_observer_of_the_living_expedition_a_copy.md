@@ -41,7 +41,7 @@ This tab is the outer observer. The tab Living File Registry is the shell inward
 | The session with the aimings, launching now | The aims of the living expedition: the log of the aims, sorted by the opening's sentences, and the aims on corus.me's home page | v406Reiman |
 | v406me | The valuables of the living expedition, a board: the whole in view, and the sessions' work into the set | all of them, for harm, as it comes |
 
-Three next projects have no session, and they launch once the windows are stable: Natural Intelligence after its opening, with Exhibit THIRTY-ONE Me, the file that goes live; nature's observings, the hard problems, the carbon scale, the ghosts, the equilibria and the living societies; and the face outward, corus.me's pages, the films and the drawings. They are on the board in yellow, and in the set with their material and what they begin with.
+Six next projects have no session, and they launch once the windows are stable, by the bands of the aims: Natural Intelligence after its opening, with Exhibit THIRTY-ONE Me, the file that goes live; nature's observings; living; society; natural network engineering and the destinies; and the face outward. They are on the board in yellow, and in the set with their material and what they begin with.
 
 ### The rules, said again on 21 November
 
