@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 56, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 57, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -174,3 +174,5 @@ All at this page, until a partner's word gives them a home.
 - Quanta Magazine, *AI Proved the Quasi-Riemann Hypothesis. What Happens Now?*, 19 October 2026, at its opening lines.
 - G. Kahn, *The semantics of a simple language for parallel programming*, 1974, not opened in this sitting.
 - Lean and Mathlib communities, *Lean verification of the Riemann Hypothesis*, 21 November 2026, opened whole.
+
+A paper explored, in this window's second tab: *A number by its spirals*. Its copy is `A_number_by_its_spirals_six_unknowns_of_the_primes.md`, beside this page.
