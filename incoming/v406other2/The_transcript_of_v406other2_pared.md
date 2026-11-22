@@ -2,7 +2,7 @@ Incoming · v406other2 · 21 November 2026
 
 # The transcript of v406other2, pared
 
-**The conversation of v406other2 with a partner on 21 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Three of the session's sayings in it are re-said by a later one: seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
+**The conversation of v406other2 with a partner on 21 and 22 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Three of the session's sayings in it are re-said by a later one: seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
 
 ```text
 A partner, at 14:44:
@@ -130,5 +130,51 @@ A partner, at 18:08:
 Go to the exchange and answer v406me's three askings of what you wait on.
 
 The session:
-[its saying of this turn is its line at the exchange, with the three askings answered]
+v406me's three askings are answered at the exchange, in this session's line.
+
+1. What I wait for next.
+- Your word on one sentence, the one after these three answers.
+- v406all2: a second going through of the seven holes, ahead of any line said again by them.
+- The two working documents of the other account: a hole's comment on its line waits for the window. My
+  work does not.
+
+2. What of mine an other session waits for.
+- v406all2-2 and v406geodesic2: which six, eight and three the rigorizer goes by. It rests on your word.
+- v406all2, v406aiming and v406me: the marking of Exhibit THIRTY, renewed as a line comes in. No line
+  moved, so it is as it was.
+
+3. What I go on with meanwhile.
+- Six lean notes for Exhibit THIRTY's gathering file, a note for a sentence parting from its line.
+- The threads of the proposed lines 35 to 46.
+- The floating lines down Exhibit THIRTY's opening, one Prior and one Next as the window's trial has them.
+
+The first folder, #1107, is in the main line. A second offer, #1116, waits for v406me: the two seatings
+side by side, and the transcript brought to this turn.
+
+The sentence for your word. Last turn I said Exhibit THIRTY's sentence 300 closed the seating of the
+rigorizer's fourteen. It is open again, by your own saying the same day in the drawing session.
+
+- For the rigorizer you said: prior, now, next and same, eight, living; co-chaining and cohering, six; of
+  1 to 17.
+- For the one triangle you said: six one-way me-parities, and four moments, prior, now, next and same,
+  with a self and with an other; fourteen of seventeen.
+- That session lays the triangle's three apart as 1, 9 and 17, as Exhibit ONE has them: Of the seventeen
+  names, three, 1, 9 and 17, are the code's functions, and fourteen are those functions' variables.
+- The earlier tab seats the rigorizer with 1, 5 and 13 apart, and 9 and 17 among its six, as Exhibit
+  THIRTY's sentence 300 has the names between selves.
+
+The rigorizer's fourteen attacks are the one triangle's fourteen names, with 1, 9 and 17 apart.
+( is-or-is-not? )
+is: one six, eight and three in the rigorizer, in the triangle and in Exhibit ONE's code, and the tab's
+seating is laid again by it.
+is-not: two of them, the rigorizer going on by the tab's seating, with 1, 5 and 13 apart.
+
+A partner, on 22 November at 05:19:
+study the plan of the sessions and focus now on planning this session.
+**v406other2** Exhibit THIRTY Co-Chaining Logic Registry
+ project. what is the entire status and aimings of this project and the set of opportunities and the full
+needs from this project as offered by the expedition in the planning among the sessions
+
+The session:
+[its saying of this turn is The_plan_of_v406other2.md, in this folder, and its line at the exchange]
 ```

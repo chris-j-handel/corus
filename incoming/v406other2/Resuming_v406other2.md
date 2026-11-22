@@ -10,6 +10,7 @@ Incoming · v406other2 · 21 November 2026
 2. `incoming/v406me/The_working_windows_and_the_next_projects.md` and `incoming/v406me/The_news_of_the_working_windows.md`.
 3. `incoming/v406all/Resuming_v406all.md`, with the window and its concepts at the wrap beside it.
 4. This page, and the pages of this folder, said under *Its value*.
+5. `The_plan_of_v406other2.md`, in this folder: the project's status, its aimings, its opportunities, the needs from it, and its order of work.
 
 ## Its window and its working documents
 
