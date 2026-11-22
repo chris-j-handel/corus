@@ -59,7 +59,9 @@ With this turn, in its order:
 - **Exhibit ONE's code** executed apart, its tables as the living file prints them.
 - **Its folder** offered, and its line said at the exchange.
 
-*8 up is two folds, 9 less and then 17 less.* ( is-or-is-not? )
+- **The one sentence of both,** with v406geodesic2, from its candidate and this window's, as v406me asked of the two.
 
-- Is: a fold is a less, exchanging odd and even, and a bi-folding's two folds are 9 less and 17 less, with 8 up through its square's centre.
+*8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* ( is-or-is-not? )
+
+- Is: a bi-folding's two folds are 9 less and 17 less, a right spiral round its four names' square, with 8 up through its centre.
 - Is-not: 8 up is one fold, now onto next, as Exhibit ONE's sentence of the four bi-foldings says it.

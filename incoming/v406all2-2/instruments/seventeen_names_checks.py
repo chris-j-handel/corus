@@ -74,6 +74,10 @@ say("a name to its next name inverts one parity of four, 1 to 16", all(bits(gray
 say("17 less inverts one parity of four, the fourth", all(gray(n) ^ gray(less17(n)) == 8 for n in range(1, 17)))
 say("9 less, with an eight, inverts one parity of four, the third", all(gray(n) ^ gray(less9(n)) == 4 for n in range(1, 17)))
 say("8 apart inverts two parities of four, the third and the fourth", all(gray(n) ^ gray(n + 8) == 12 for n in range(1, 9)))
+say("4 apart inverts two parities of four, the second and the third", all(gray(n) ^ gray(n + 4) == 6 for n in (1, 2, 3, 4, 9, 10, 11, 12)))
+steps = [gray(n) >> 2 for n in round_of(1, [less9, less17, less9, less17])]   # the third and the fourth parity, round 1-8-9-16
+say("9 less and then 17 less, in turn, invert one parity with a step, the third and then the fourth, and come to the same with four",
+    [a ^ b for a, b in zip(steps, steps[1:])] == [1, 2, 1, 2] and steps[0] == steps[-1])
 
 # 8. Inward: a name n is the inward name 8n − 7; a name to its next name is eight inward names, a span;
 #    a 1 to 17 inward is two names' going, an odd name to its next odd name; eight of them with 1 to 17.

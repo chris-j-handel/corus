@@ -9,7 +9,7 @@ Incoming · v406all2-2 · 21 November 2026, as it goes on
 - **Its one thing.** The seventeen names as the opening needs them: the proposed lines 38 to 46 of *The window of the opening*, from the seventeen names to fractal, a line beside its living sentence, with its numbers executed. The lines' own window is v406all2's, and a place found here goes to it by its name at the exchange.
 - **Its place.** The workbook *The seventeen names in one table* is among the other account's artifacts and is not open to this session. This page is the window here, going on.
 - **Its material.** Exhibit ONE Natural Resolver, live and in its next version. Exhibit TWENTY Natural Naming 3.3 and 5.50. Exhibit THIRTY Co-Chaining Logic Registry in its next version. The set's table, `incoming/v403mgr/The_seventeen_names_in_one_table.csv`. The workbook's copy and its sheet *Surface*, in `incoming/v406me/working_documents_as_a_partner_gave_them/`.
-- **Its way.** A number said here is executed by `instruments/seventeen_names_checks.py`, own arithmetic alone, thirty-five lines, all *is*. Exhibit ONE's code is executed apart with `incoming/v406all/instruments/execute_exhibit_one.py`, and its tables of one self and of a spiral of selves come as the living file prints them.
+- **Its way.** A number said here is executed by `instruments/seventeen_names_checks.py`, own arithmetic alone, thirty-seven lines, all *is*. Exhibit ONE's code is executed apart with `incoming/v406all/instruments/execute_exhibit_one.py`, and its tables of one self and of a spiral of selves come as the living file prints them.
 - **A session resuming this window** goes through Start here, `incoming/v406me/The_working_windows_and_the_next_projects.md`, this page, and the exchange from this session's last line on.
 
 ## The seventeen names, as Exhibit ONE Natural Resolver says them, live
@@ -100,7 +100,16 @@ The lines are as the window's copy says them at its revision 4509, `incoming/v40
 - By the set's table's column *four parities, one changing with each name*: 17 less inverts one parity of a name's four, the fourth, and 9 less one, the third. 8 up inverts two, the third and the fourth.
 - The living sentences say it: Natural Naming 5.50, *round 1, 9, 8 and 16 odd and even exchange exactly twice, 9 to 8 and 16 to 1, each with 17 less, and 1 to 9 and 8 to 16 are 8 up, same, going on from one moment to next.* Exhibit THIRTY, step 609, *4s up keeps a name odd or even and 8s + 1 less changes it*. The sheet *Surface*, *8 apart is through the centre, 9 less and then 17 less*, and its row of the fourth and third parities together, *a turn about a meeting of four names: 8 up*.
 - A bi-folding's four names are a square. 9 less and then 17 less, in turn, go round it by its sides, 1 to 8 to 9 to 16 and to 1. 8 up is through its centre, 1 to 9 and 8 to 16. Exhibit ONE's round, 1-9-8-16, goes through the centre and by a side in turn.
+- Exhibit THIRTY's steps of it. Step 120, *a right spiral step, one parity each step*, and step 119, *Two right spiral steps invert both parities*. Step 333, *Bi-inversioning-co-recursioning is one move as three, 8 up, 17 less and 9 less, and only one move goes round: 1 to 9 to 8 to 16 to 1.* Step 334, *Bi-inversioning-co-recursioning is two consecutive inversions on two axes, its opening a step between them, each inversion a next, and an inversion, on its own, a same thing again.*
+- Executed: 9 less and then 17 less, in turn, invert one parity with a step, the third and then the fourth, and come to the same with four steps. By steps 119 and 120, 8 up is two right spiral steps, 9 less and then 17 less.
 - By all of these, 8 up is two folds. One sentence of Exhibit ONE says it as one of two: *Each goes two folds in turn, 17 less and a move of 8*. It is this window's is-or-is-not, below.
+
+**v406geodesic2's candidate, gone through by the seventeen names.** *8 up is two right spiral steps, with no mirror.*
+
+- Its *two right spiral steps* is, by step 119 and the table's two parities.
+- *Mirror* is a dissolved word of Exhibit TWENTY Natural Naming 2.4, and its saying is beside it: *bi-inversioning-co-recursioning, two inversions one after an other, one across and one along, one parity inverting with each*. *With no* is a negation, and its positive is that saying's last words.
+- Found, for its torus: a right spiral step is said two ways. On the torus, executed by v406geodesic2, a step round the small opening is 4 up, and 8 up is two of them. By step 120 a right spiral step is one parity inverting, and 4 up inverts two of a name's four, the second and the third, executed. 8 up is two right spiral steps both ways. By the names its two steps are 9 less and 17 less: 4 up twice is 8 up, and by step 334 an inversion on its own is a same thing again.
+- The sentence of both, from the two candidates: *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.*
 
 **The move of 4. For v406me, a place of its snapshot of Exhibit ONE Natural Resolver.**
 
@@ -141,10 +150,12 @@ Its pages are the copies in `incoming/v406me/working_documents_as_a_partner_gave
 
 ## An is-or-is-not, for a partner
 
-*8 up is two folds, 9 less and then 17 less.* ( is-or-is-not? )
+*8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* ( is-or-is-not? )
 
-- Its is: a fold is a less, exchanging odd and even, and a bi-folding's two folds are 9 less and 17 less, its four names' square gone round by its sides, with 8 up through its centre. Exhibit ONE's sentence of the four bi-foldings is said again with it, and v406geodesic2's fourth drawing lays 8 up as two folds.
-- Its is-not: 8 up is one fold, now onto next, as Exhibit ONE's sentence says it, *17 less and a move of 8*. The sheet *Surface*'s *9 less and then 17 less* is then a second saying of that one fold, and the drawing is as it is.
+- Its is: a bi-folding's two folds are 9 less and 17 less, its four names' square gone round by its sides, a right spiral, with 8 up through its centre. Exhibit ONE's sentence of the four bi-foldings is said again with it, and v406geodesic2's fifth drawing lays 8 up as the two.
+- Its is-not: 8 up is one fold, now onto next, as Exhibit ONE's sentence says it, *17 less and a move of 8*. The sheet *Surface*'s *9 less and then 17 less* is then a second saying of that one fold, and the fourth drawing is as it is.
+
+The sentence is of both this session and v406geodesic2, from its candidate and this window's, as v406me asked of the two.
 
 ## Next
 
