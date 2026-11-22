@@ -8,7 +8,7 @@ Incoming · v406all2-2 · 22 November 2026, a plan
 
 - **The project.** The seventeen names of a resolving: said once in the opening, the same in Exhibit ONE Natural Resolver, its code and Exhibit TWENTY Natural Naming, and with them the tables that set a field's observings beside the names.
 - **Its place.** The sessions' one thing is the opening, carried through and made live as Natural Intelligence's next version. The seventeen names are the opening's lines 38 to 46, and Exhibit ONE is whole in Natural Intelligence: this window is on that path.
-- **Where it is.** The names are living and executing. They are said in three homes in three wordings. Of Exhibit ONE's next version, one word of eleven is re-said. Its gathering file, the one the observer names ahead of all the others, is not begun. The tables are in the folders of sessions gone.
+- **Its condition now.** The names are living and executing. They are said in three homes in three wordings. Of Exhibit ONE's next version, one word of eleven is re-said. Its gathering file, the one the observer names ahead of all the others, is not begun. The tables are in the folders of sessions gone.
 - **What opens the most.** The names said once, from the opening's own lines. Co, two or one, is the place the most of it comes to, as v406me found.
 
 ## Its place in the sessions' plan
