@@ -1,4 +1,4 @@
-Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening; renewed by v405next on 20 November, at the wrap of the v405 sessions; renewed by v406all on 21 November, at its wrap
+Incoming · v404mgr · written again whole on 19 November 2026, at the closing of the v404 sessions; the working document's form laid in by v405next the same evening; renewed by v405next on 20 November, at the wrap of the v405 sessions; renewed by v406all on 21 November, at its wrap; renewed by v406me the same day, the rules said again with a partner's word
 
 # Start here
 
@@ -10,15 +10,26 @@ This page is for a session that has never worked here. It is in plain words on p
 - **The next version.** It is a copy of the living files and their gathering files on the branch `working/natural-intelligence-with-exhibit-one-its-next-version-v403mgr`. Sessions lay their notes there. Nothing goes live from it without a partner's word.
 - **A partner.** A partner works with a session in that session's own conversation, and does not read files or GitHub. What you say in your conversation is what a partner sees.
 - **The working document.** The opening is worked in one document, *The window of the opening*, a partner and the sessions writing in it directly. It opens as it was at its last closing, in one form, said below.
-- **The sessions before you.** The six v404 sessions closed on 19 November. The v405 sessions, v405now leading, v405next at the window and v405co-chain at Exhibit THIRTY's threads, wrapped on 20 November for resuming. Their value is in the gathering files, and the v405 sessions wrote a page for resuming apiece, said under *Where things are*. A session a partner calls reimann goes on, and reports itself. On 21 November v406all, at the window's method with a partner, wrapped for resuming, its page `incoming/v406all/Resuming_v406all.md`; v406other, at Exhibit THIRTY's threads, and v406me work beside it and report themselves. The other folders in `incoming/` are behind you.
+- **The sessions before you.** The six v404 sessions closed on 19 November. The v405 sessions, v405now leading, v405next at the window and v405co-chain at Exhibit THIRTY's threads, wrapped on 20 November for resuming. Their value is in the gathering files, and the v405 sessions wrote a page for resuming apiece, said under *Where things are*. A session a partner calls reimann goes on, and reports itself. On 21 November v406all, at the window's method with a partner, wrapped for resuming, its page `incoming/v406all/Resuming_v406all.md`; v406all2 goes on with its work; v406other is at Exhibit THIRTY's threads; v406geodesic drew the seventeen names on a torus, its folder `incoming/v406geodesic/`; v406me is the managing session. What a session resumes from is in `incoming/v406me/What_the_six_sessions_resume_from.md`. The other folders in `incoming/` are behind you.
 
 ## What never happens
 
-1. No living file on main changes, and corus.me does not change, without a partner's word.
+1. No living file on main changes, corus.me does not change, and no page or folder of the set goes to artifact, without a partner's word and a session's going through with nothing found, both.
 2. You write in three places only: your own folder, `incoming/<your name>/`; notes in gathering files of the next version; and suggestions and comments in the working document, when a partner opens it to you.
 3. No session starts another session or schedules itself. Sessions work when a partner writes.
 4. A partner's email, the working document's link and account names go in no file and no public comment.
 5. Nobody's words have authority, a partner's included. A sentence is tested against the living sentences before it and after it.
+
+## What waits for no word
+
+Said again on 21 November, with a partner's word. A waiting that guards no file is no safety.
+
+1. The managing session is v406me. It goes through an offer for harm and, with nothing found, brings it in: an offer into main with no living file and no gathering file among its files, and an offer of notes into the next version with its gathering checks. No word is asked.
+2. With a bringing in, the next version is brought current with the live set.
+3. A session says its line at the exchange, and goes through an other session's pages, with no word asked.
+4. A session lays its working progress in its own folder as it goes, and at a sitting's end a copy of its working documents, with no link and no account name in the copy. A session closing suddenly has its progress in the set.
+5. The managing session brings a living file's next version to a partner as a snapshot, a sentence as it is live beside the sentence as it is in its next version, once the set's checks pass with it and an other session has gone through it. A partner's word then moves that one living file.
+6. A field's observing is opened at its source ahead of a note of it in a gathering file.
 
 ## The work in front
 
@@ -88,7 +99,7 @@ A partner gives a session its work. These four kinds worked in the three days be
    - `python3 -I incoming/v404mgr/instruments/words_of_no_natural_naming_in_a_page.py <your page>`, and no released word added, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/released_words.txt`
 3. Open a pull request: into main for a page of your own folder, into the next version's branch for a note in a gathering file.
 4. Say it at the exchange, issue 933 of this repository, with your line in four words: working, stalling, breaking, restoring.
-5. Offer early. If your session ends, nothing of value should exist only in your conversation.
+5. Offer early. If your session ends, nothing of value should exist only in your conversation, or only in a working document.
 
 ## Where things are
 
@@ -105,6 +116,9 @@ A partner gives a session its work. These four kinds worked in the three days be
 | The v405 sessions' pages for resuming | `incoming/v405now/Resuming_v405now.md`, `incoming/v405next/Resuming_v405next.md`, `incoming/v405co-chain/The_wrap_of_v405co-chain_for_resuming.md`; the aims doc's tabs *Resuming v405now* and *Resuming v405next* |
 | v406all's page for resuming | `incoming/v406all/Resuming_v406all.md`, with the window and its concepts at the wrap beside it |
 | The ways found working, at the method's home | the Geodesic Improving Method's gathering file in the next version |
+| What a session resumes from | `incoming/v406me/What_the_six_sessions_resume_from.md` |
+| The working documents, their copies | a session's own folder; the other account's, as a partner gave them on 21 November, in `incoming/v406me/working_documents_as_a_partner_gave_them/` |
+| The observer of the living expedition, the whole in view, its copy | `incoming/v406me/The_observer_of_the_living_expedition_a_copy.md` |
 
 ## Behind you
 
@@ -117,10 +131,10 @@ Do not begin from these. Go to one only for a detail a partner points you to.
 
 ## For a managing session
 
-[The page for the managing session after v404mgr](For_the_managing_session_after_v404mgr.md) has the managing whole. In four lines:
+The managing session is v406me, its page for resuming `incoming/v406me/Resuming_v406me.md`. [The page for the managing session after v404mgr](For_the_managing_session_after_v404mgr.md) has the managing whole. In four lines:
 
 - Go through every offer for harm before it comes in, with `incoming/v404mgr/instruments/read_for_harm.py`.
 - Read the exchange at every turn of a partner, before you answer. Offers waiting on the managing session were this session's one failing on all three days.
 - At the end of a sitting, copy the working document's lines to the window's page, and its lines of both to the *Waiting to enter* note at the head of Exhibit THIRTY's gathering file. Its head carries two entries now, of 19 and of 20 November; at the next sitting's end the 19 November entry goes, as v405now planned.
-- A closing session's folder has a second session's droplet pass. v405now's and v405co-chain's droplets, #1084, have had theirs; v405next's, #1086 and #1088, wait for one.
+- A closing session's folder has a second session's droplet pass. v405now's and v405co-chain's droplets, #1084, have had theirs; v405next's, #1086 and #1088, have had theirs by v406me, five places with a suggesting.
 - Rewrite this page whole when the plan changes. Do not add to it.
