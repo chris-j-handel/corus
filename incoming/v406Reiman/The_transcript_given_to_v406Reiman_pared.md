@@ -617,5 +617,9 @@ explain the concept of nothing is proved. what is the statement that needs provi
 
 this is binary all or none at all logical sequential explaining. do not take any words of mine or your training as authority over the logical co-chaining of this. my suggesting is all the available explaining from the history of explainings in this is going to be missing the logic of primes as the crossings where the podalings are living as five living 0s aiming in a co-linear in 3d space on 2d geodesic surface. from every odd number along the numbers this same 1-17 local resolving in 5 living 0s living in the me-now of that number with three living parities each with two other-than-others as resolving all five living 0s next-and-same-living. explore this for us
 
-[This session's third turn of 22 November: a partner's suggesting of podalings explored by executing, a part of the primes report, with sentences 17 and 18. Its closing words to a partner come here with the next laying.]
+[This session's third turn of 22 November: a partner's suggesting of podalings explored by executing, a part of the primes report, with sentences 17 and 18. Its closing words, in brief: at its seam with a number a spiral crosses the number's two sides together or neither; the primes are the living sides and no crossings; the same 1 to 17 does not carry from all odd numbers; a field has the step; and one sentence for a partner's word, the placing of the five and the three, sentence 18.]
+
+there are no averages or measuring or statistics or any of this in nature. the primes are all natural numbers in the universal method of intelligencing. redo this with none of the unnatural evaluating of nature. this is self resolving and the method can do all the resolving of all the interests if it is not held by the scientific method to not possibly existing when the scientific method is not possiblly existing in the universe
+
+[This session's fourth turn of 22 November: the part of podalings said again as all or none alone, with no average, no share and no measuring in it, in the report and in its instrument. Its closing words to a partner come here with the next laying.]
 ```

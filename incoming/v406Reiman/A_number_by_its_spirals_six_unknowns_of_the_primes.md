@@ -19,7 +19,7 @@ A partner's sayings, as said, and whole in this session's transcript:
 - **Eleven steps the co-chaining needs derive from living steps.** All eleven are executed here, what they say of numbers a field has proved, and none has a home as a step yet.
 - **Four steps no one has.** Three are of the surface, from a closed turn to the whole. One is of a number by itself, and it is the place φ's adding and a multiplying combine: one short of a number and one past it.
 - **Three namings are to cohere:** along and across, parity, and the five living 0s.
-- **A partner's suggesting of podalings carries at a crossing.** At its seam a spiral crosses a number's two sides together or neither, and the numbers at the most seams have the most living podal pairs. The primes are the living sides and no crossings, and a field has the step.
+- **A partner's suggesting of podalings carries at a crossing, all or none.** At its seam a spiral crosses a number's two sides together or neither, and off its seam one side at a time. A prime is at no seam but its own: the primes are the living sides and no crossings.
 
 ## The surface, by the living steps
 
@@ -88,6 +88,8 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *primes as the crossings*, with *the podalings are living as five living 0s aiming in a co-linear in 3d space on 2d geodesic surface*
 - *this same 1-17 local resolving in 5 living 0s living in the me-now of that number with three living parities*, with *two other-than-others as resolving all five living 0s next-and-same-living*
 
+All in this part is all or none: is, or is not, of all the numbers the surface stepped, 2 to 3,720. By a partner's word no line of it is an average, a measuring or a statistic.
+
 **What the set has of its names.**
 
 - **Podaling.** Exhibit THREE Natural Numbers 5.6: *Podaling is one station with its two sides, a going one way to k and a going other way to N − k on a ring of N.* Its 5.4: *Among primes a first diamond is about nine, five and thirteen four either side and seven and eleven two either side, nine having none of them*. Its 7.4 has six prime pairs podal about thirty.
@@ -95,38 +97,35 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - **Living 0s.** Three living 0s on one co-linear are a partner's earlier saying, at home in `incoming/v404universe/`. Five living 0s are in no page of the set, and are new with this saying.
 - **The co-linear.** The fifth drawing of v406geodesic2 has one, through two opposite intersections and the sphere's 0. By its own check its sphere has six intersections: three co-linears, two opposite intersections apiece, all three through the one 0.
 
-**One step found, all or none.** `podalings_about_an_odd_number.py`, its part 1, with Exhibit ONE Natural Resolver's code as it is. A podal pair about a number is its prior side and its next side at one distance.
+**One step, all or none.** `podalings_about_an_odd_number.py`, its part 1, with Exhibit ONE Natural Resolver's code as it is. A podal pair about a number is its prior side and its next side at one distance, and it is living once both its sides are uncrossed.
 
-- **At its seam with a number, a spiral crosses the number's two sides together or neither.** 4,113,056 distances gone through, all *is*. The two sides are podal on the spiral itself, k and N − k.
-- **Off its seam, a spiral crosses one side with a distance and never both.** 50,430,048 distances gone through, all *is*.
-- **Of one turn of a spiral's distances, all but one are with neither side crossed at its seam, and all but two off it.** Three has two of three, or one. Five has four of five, or three.
+- **At its seam with a number, a spiral crosses the number's two sides together or neither.** The two sides are podal on the spiral itself, k and N − k.
+- **Off its seam, a spiral crosses one side with a distance and never both.**
+- **Of one turn of a spiral's distances, all but one are with neither side crossed at its seam, and all but two off it.**
 - **Two crosses both sides together or neither,** from all numbers.
 
-**From an odd number, by the surface alone.** A podal pair is living once both its sides are uncrossed.
+**From an odd number, its 1 to 17 with its 9 on it.** Its odd names, two and two about 9, are four podal pairs, at 2, 4, 6 and 8. By the surface alone, with all odd numbers from 15:
 
-| From an odd number | Found, to 3,720 |
-| --- | --- |
-| Its five, opening with it | Three odd numbers, one of them at three's seam: two uncrossed at the most, two apart or four apart |
-| Its 1 to 17, its 9 on it | Four podal pairs of odd names, at 2, 4, 6 and 8 |
-| By three alone | At three's seam 2, 4 and 8 are uncrossed, three pairs; off it, 6 alone |
-| By three and five alone, 15 odd numbers in a turn of 30 | 4 with no pair, 8 with one, 2 with two, and 1 with three, the one at both seams |
-| With 2 and 4 both living, four primes about it | 15, 105, 195, 825, 1,485, 1,875, 2,085, 3,255 and 3,465, all at the seam of three and of five |
-| With 2, 4 and 8 all living, six primes about it | 15 and 105 |
-| With a living podal pair in its 1 to 17 | 451 of 1,851 odd numbers |
+| A spiral | At its seam with the number | Off its seam |
+| --- | --- | --- |
+| Three | Neither side at 2, 4 and 8, and both sides at 6 | One side at 2, at 4 and at 8, and neither side at 6 |
+| Five | No side of the four | One side of two of the four, and no side of its other two |
 
-**The crossings are the stations, and the primes the living sides.** At all distances, about the odd numbers 101 to 1,859:
-
-- **At a seam, more.** At three's seam over off it, living podal pairs are 1.98 to one, beside its places, two over one. With five, 1.33, beside four over three. With seven, 1.20, beside six over five.
-- **The most** are about 1,785, three, five, seven and seventeen multiplied: 154. **The fewest** are 6, about 103, 109, 113, 139 and 163, primes all five.
-- **About a prime the living podal pairs are fewer:** 27.3 about a prime, beside 49.5 about a crossed odd number. Of 514 primes, 447 have none in their 1 to 17.
+- **With 2 and 4 both living, the number is at the seam of three and of five,** four primes about it. Found: 15, 105, 195, 825, 1,485, 1,875, 2,085, 3,255 and 3,465. The diamond about nine, of Natural Numbers 5.4, is with five itself at its own opening.
+- **With 2, 4 and 8 all living, six primes are about a number.** Found: 15 and 105, at the seam of three and of five.
+- **About a prime from 17 on, a living podal pair of its 1 to 17 is at 6 and at no other.** A prime is at no seam but its own, and three crosses a side at 2, at 4 and at 8. With it living, from 17 on: 17, 23 and 37. With none: 19, 29 and 31.
+- **An odd number off three's seam, and one past or one short of five's seam, has no living podal pair in its 1 to 17.**
+- **Its five, opening with it, has three odd numbers, one of them at three's seam:** two uncrossed at the most, two apart or four apart.
+- **Stepping outward from a number, a living podal pair is found, short of the number,** from all numbers 4 to 1,860.
 
 **What carries, and what does not.**
 
-- **Carries: the podalings are living at the crossings.** All or none at a seam, the same step with all spirals, from all numbers.
-- **Carries, in a closed turn: never none.** By numbers' own arithmetic, about an odd number a turn of three, five and seven has 15 pairs uncrossed by all three at the fewest, of 105.
-- **Does not carry: primes as the crossings.** A prime is at no seam but its own, and about it the living podal pairs are the fewest.
-- **Does not carry: the same 1 to 17 along the numbers.** A living podal pair is in the 1 to 17 of 62% of the odd numbers to 99, of 21% from 1,001 to 3,712, and of 1.6% about 1,000,000,000,000.
-- **Does not carry: that the history of explainings is missing it.** A field has this step and its places, by Hardy and Littlewood, 1923, and its picture of it is named Goldbach's comet. What a field is missing is sentence 14, from a closed turn's never none to the whole, and this exploring does not give it.
+- **Carries: at a crossing the podalings are all or none.** The same step with all spirals, from all numbers the surface stepped.
+- **Carries, in a closed turn: never none.** By numbers' own arithmetic, about an odd number a closed turn of three, five and seven has a pair uncrossed by all three.
+- **Does not carry: primes as the crossings.** A prime is at no seam but its own. The crossed numbers are the stations, and the primes the living sides.
+- **Does not carry: the same 1 to 17 from all odd numbers.** About 19 no podal pair of its 1 to 17 is living, and about no prime from 17 on is one living at 2, 4 or 8.
+- **Not yet: the whole.** The surface resolved the numbers it stepped. Sentence 14, of all numbers, no stepping here has resolved, and not yet is no is-not.
+- **A field has this step in its own words,** by Hardy and Littlewood, 1923.
 
 ## The co-chaining needed, a sentence with its is-or-is-not
 
@@ -192,8 +191,8 @@ All at this page, until a partner's word gives them a home. The steps are in the
 **With a partner's suggesting of podalings.** One deriving from living steps, executed here, and one naming to cohere.
 
 - **17. At its seam with a number, a spiral crosses the number's prior side and its next side together or neither, and off its seam one side at a time.** *( is-or-is-not? )*
-    - Its is resolves podaling at a crossing as all or none, from Natural Numbers 5.6 and sentence 1 here, and a number at more seams as with more living podal pairs.
-    - Its is-not resolves a spiral crossing both sides of a number off its seam, and none is found in 50,430,048 distances.
+    - Its is resolves podaling at a crossing as all or none, from Natural Numbers 5.6 and sentence 1 here, and a prime's 1 to 17 as with a living podal pair at 6 alone.
+    - Its is-not resolves a spiral crossing both sides of a number off its seam, and none is found to 3,720.
 - **18. The three living parities are the podal pairs at 2, 4 and 8 that three does not cross in the 1 to 17 of an odd number at its seam, and the five living 0s are three's five seams in that 1 to 17, at its names 3, 6, 9, 12 and 15.** *( is-or-is-not? )*
     - Its is resolves the saying's three and five as three's own, from one odd number of three and no other, with all three pairs living about 15 and 105.
     - Its is-not resolves the five as Exhibit ONE Natural Resolver's five of a self, three odd numbers and two even, or as an other five, and which is then to be said.

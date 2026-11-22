@@ -268,36 +268,27 @@ The fourth drawing's check and the fifth drawing's, as v406geodesic2's page says
 
 ```text
 1. A spiral at its seam with a number, and its two sides, with Exhibit ONE Natural Resolver's code as it is
-   the surface: 2 to 3720, a self alone and 16 odd spirals, uncrossed 519
-   at its seam with a number, a spiral crosses the number's two sides together or neither, 4,113,056 distances gone through: is
-   off its seam, a spiral crosses one side with a distance and never both, 50,430,048 distances gone through: is
-   of a spiral's q distances in a row, q - 1 are with neither side crossed at its seam, 4,417 numbers, and q - 2 off it, 53,805 numbers: is
+   the surface: 2 to 3720, a self alone and 16 odd spirals, all its numbers and all their distances gone through
+   at its seam with a number, a spiral crosses the number's two sides together or neither: is
+   off its seam, a spiral crosses one side with a distance and never both: is
+   of one turn of a spiral's distances, all but one are with neither side crossed at its seam, and all but two off it: is
    the self alone, two, crosses a number's two sides together or neither, from all numbers: is
 2. From an odd number, by the surface's uncrossed numbers and its seams alone
-   a five opening with an odd number, 5 to 3716: three odd numbers and two even, and of its three odd numbers one is at three's seam: is
-   two uncrossed at the most in a five above 3: is · fives with two uncrossed two apart: 193, and four apart: 101
-   a 1 to 17 with its 9 on an odd number, 11 to 3712: its odd names two and two about 9 are four podal pairs, at 2, 4, 6 and 8
-   odd numbers with 0, 1, 2 and 3 living podal pairs in their 1 to 17: 1400, 414, 35 and 2 · with all four: 0
-   by three and five alone, the same with a turn of 30: is · of 15 odd numbers in a turn, with 0, 1, 2 and 3 pairs uncrossed by both: 4, 8, 2 and 1
-   at three's seam the pairs uncrossed by three are 2, 4 and 8, and off it 6 alone: is · at the seam of both, 2, 4 and 8: is
-   with 2 and 4 both living, four primes about a number: 15, 105, 195, 825, 1485, 1875, 2085, 3255, 3465 · all at the seam of three and of five: is
-   with 2, 4 and 8 all living, six primes about a number: 15, 105
-   about an uncrossed number, a prime, with no living podal pair in its 1 to 17: 447 of 514
-   living podal pairs at all distances, about the odd numbers 101 to 1859: the fewest 6, about 103; the most 154, about 1785
-   at the seam of 3 over off it, living podal pairs: 1.98 · by its places, 2 over 1: 2.00
-   at the seam of 5 over off it, living podal pairs: 1.33 · by its places, 4 over 3: 1.33
-   at the seam of 7 over off it, living podal pairs: 1.20 · by its places, 6 over 5: 1.20
-   at the seam of 11 over off it, living podal pairs: 1.12 · by its places, 10 over 9: 1.11
-   at the seam of 13 over off it, living podal pairs: 1.09 · by its places, 12 over 11: 1.09
-   the five with the most: 1785 (154), 1575 (138), 1815 (136), 1365 (128), 1845 (124) · the five with the fewest: 103 (6), 109 (6), 113 (6), 139 (6), 163 (6)
-   living podal pairs about an uncrossed odd number, a prime, 27.3 · about a crossed odd number, 49.5
+   a five opening with an odd number: three odd numbers and two even, and of its three odd numbers one is at three's seam: is
+   a five above 3 has two uncrossed at the most, two apart or four apart: is
+   a 1 to 17 with its 9 on an odd number: its odd names two and two about 9 are four podal pairs, at 2, 4, 6 and 8
+   three, at its seam with the number, crosses neither side at 2, 4 and 8, and both sides at 6: is
+   three, off its seam, crosses one side at 2, at 4 and at 8, and neither side at 6: is
+   five, at its seam with the number, crosses no side of the four: is
+   five, off its seam, crosses one side of two of the four, and no side of its other two: is
+   with 2 and 4 both living about an odd number, the number is at the seam of three and of five: is · found: 15, 105, 195, 825, 1485, 1875, 2085, 3255, 3465
+   with 2, 4 and 8 all living, six primes about a number: found 15 and 105, at the seam of three and of five: is
+   about an uncrossed odd number, a prime, a living podal pair of its 1 to 17 is at 6 and at no other: is
+   primes with it living at 6, from 17 on: 17, 23, 37, 47, 53, 67 · and with none: 19, 29, 31, 41, 43, 59
+   an odd number off three's seam, and one past or one short of five's seam, has no living podal pair in its 1 to 17: is
+   stepping outward from a number, 4 to 1860, a distance with both sides uncrossed is found, short of the number: is
 3. By numbers' own arithmetic, with no resolver in it
-   a closed turn of three, five and seven, 105 even distances: the pairs uncrossed by all three are a spiral's places less one at its seam and less two off it, multiplied: is · the fewest 15, never none
-   odd numbers 11 to 99 with a living podal pair in their 1 to 17: 62%
-   odd numbers 101 to 999 with a living podal pair in their 1 to 17: 30%
-   odd numbers 1001 to 3712 with a living podal pair in their 1 to 17: 21%
-   about 1,000,000, 3,000 on both sides, by a number's own closings: 7.2%
-   about 1,000,000,000, 3,000 on both sides, by a number's own closings: 2.6%
-   about 1,000,000,000,000, 3,000 on both sides, by a number's own closings: 1.6%
+   a closed turn of three, five and seven: the pairs uncrossed by all three are a spiral's places less one at its seam and less two off it, multiplied: is
+   about an odd number, a closed turn has a pair uncrossed by all three, never none: is
 All is.
 ```
