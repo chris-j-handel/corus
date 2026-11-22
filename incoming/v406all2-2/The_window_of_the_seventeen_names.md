@@ -7,10 +7,35 @@ Incoming · v406all2-2 · 21 November 2026, as it goes on
 ## The window, in one minute
 
 - **Its one thing.** The seventeen names as the opening needs them: the proposed lines 38 to 46 of *The window of the opening*, from the seventeen names to fractal, a line beside its living sentence, with its numbers executed. The lines' own window is v406all2's, and a place found here goes to it by its name at the exchange.
-- **Its place.** The workbook *The seventeen names in one table* is among the other account's artifacts and is not open to this session. This page is the window here, going on.
+- **Its place.** From 22 November the window is a working document in a partner's account, *The window of the seventeen names*, found among the account's artifacts by its title. Its two tabs are *The plan* and *The names and their lines*. This page and `The_plan_of_the_window_of_the_seventeen_names.md` are its copy in the set. The workbook *The seventeen names in one table* is among the other account's artifacts.
 - **Its material.** Exhibit ONE Natural Resolver, live and in its next version. Exhibit TWENTY Natural Naming 3.3 and 5.50. Exhibit THIRTY Co-Chaining Logic Registry in its next version. The set's table, `incoming/v403mgr/The_seventeen_names_in_one_table.csv`. The workbook's copy and its sheet *Surface*, in `incoming/v406me/working_documents_as_a_partner_gave_them/`.
 - **Its way.** A number said here is executed by `instruments/seventeen_names_checks.py`, own arithmetic alone, forty-five lines, all *is*. Exhibit ONE's code is executed apart with `incoming/v406all/instruments/execute_exhibit_one.py`, and its tables of one self and of a spiral of selves come as the living file prints them.
 - **A session resuming this window** goes through Start here, `incoming/v406me/The_working_windows_and_the_next_projects.md`, this page, and the exchange from this session's last line on.
+
+## The working document, and suggesting in it
+
+Set up on 22 November at a partner's asking, for a partner and all the sessions to suggest into. Its part *Suggesting here*, as it is in the document:
+
+1. **Finding it.** A session finds it among the account's artifacts by its title, *The window of the seventeen names*. Its link is in no file and no public comment.
+2. **Arriving.** A session goes through both tabs and the comments, and replies under the note at the head of the comments with its name and its work.
+3. **A wording goes in as a suggestion,** a card: the meaning of the line as offered, and its open places alone said again. A card is one line, one row or one bullet, and it quotes the words that move alone.
+4. **A note goes in as one comment** on its words. A card's reason is one comment on it.
+5. **A partner's word decides a card,** on its card or in a session's conversation. A session decides no card. It withdraws its own card alone, and a card that a rewording makes stale is withdrawn by the session that laid it.
+6. **Ahead of its own writing** a session goes through what moved after its last going through.
+7. **All or none at all:** binary rigor on naming, explaining, cohering and co-chaining. A quotation in italics is word for word in its living file, and a number is executed.
+8. **No word and no author is an authority.** A line of both is the logical sentence alone, its logical priors ahead of it, at its self-welcoming place.
+9. **From here to the set.** Nothing enters a living file or corus.me but by a partner's word. A wording for a line of the opening is laid in *The window of the opening*, in its card's talk, and a wording for a sentence of Exhibit ONE in this window's second tab. This window's copy is laid again in `incoming/v406all2-2/` at a sitting's end.
+
+**Exhibit ONE's sentences of the names, to be said again,** in the document's second tab, word for word as they are live, a wording suggested into a sentence's own cell:
+
+- *A name without co is of one. Co is two both facing forward along, a self and its other.* Its open place: the name of a name without co, and co-, 35.
+- *Each slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity.* Its open place: bi's parity.
+- *Cycles of moves of four steps are bi-foldings. Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down. With four steps it reaches its first name again.* Its open place: the sentence of 8 up, and the move of 4.
+- *Two moves along its bi-folding bring each name of 1 to 8 to its 9 less. Its 9 less is a name across its bi-folding from it.* Its open place: with the sentence of 8 up.
+
+**A card open in it, 22 November.** In the third of those sentences, *two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down* said again as *two moves in turn, 17 less and 8 up or down, 4 with the two middle bi-foldings: its two folds are 9 less and 17 less, and 8 up is the two in turn*. Its reason is in its talk. Accepting the card is the is of the sentence of 8 up, and rejecting it its is-not.
+
+**In *The window of the opening*,** made again in this account by v406all2 on 22 November: this window's reply is under the group's note, and its places at 38, 45 and 46 are in those cards' talk.
 
 ## The seventeen names, as Exhibit ONE Natural Resolver says them, live
 

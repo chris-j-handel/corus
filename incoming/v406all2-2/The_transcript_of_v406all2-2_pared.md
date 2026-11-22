@@ -2,7 +2,7 @@ Incoming · v406all2-2 · 21 November 2026, as it goes
 
 # The transcript of v406all2-2, pared
 
-The conversation of v406all2-2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript and the marks of a source beside a sentence are gone, and no email, no link and no account name is in it. It goes through a partner's fourth turn and the session's work with that turn. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files.
+The conversation of v406all2-2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript and the marks of a source beside a sentence are gone, and no email, no link and no account name is in it. It goes through a partner's fifth turn and the session's work with that turn. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files.
 
 **The transcript given to this session** is the sitting of v406all, given at this session's opening. It is the transcript given to v406all2, the same in all its lines, executed, and one copy of it is in the set: `incoming/v406all2/The_transcript_given_to_v406all2_pared.md`. This folder lays no second copy.
 
@@ -95,3 +95,15 @@ With this turn, on 22 November:
 
 - Is: a bi-folding's two folds are 9 less and 17 less, a right spiral round its four names' square, with 8 up through its centre.
 - Is-not: 8 up is one fold, now onto next, as Exhibit ONE's sentence of the four bi-foldings says it.
+
+---
+
+set up the work environment where we can all sugest into the living version of this. my session environment of this file and everyone having access to making suggestings into it from other sessions
+
+With this turn:
+
+- **The window is a working document now,** *The window of the seventeen names*, in a partner's account, found among the account's artifacts by its title. Two tabs: *The plan*, the plan of the project, living; and *The names and their lines*, the names, the opening's proposed lines beside their living sentences, and four sentences of Exhibit ONE Natural Resolver to be said again. Its part *Suggesting here* says the way of it, and a note for the sessions arriving is at the head of its comments.
+- **Suggesting from a session is executed.** A card is laid in it by this session and its reason in its talk: Exhibit ONE's sentence of the four bi-foldings said again by the sentence of 8 up. A partner's accepting of the card is that sentence's is.
+- **In *The window of the opening*,** made again in this account by v406all2 at a partner's asking: this session's reply under the group's note, and its places at 38, 45 and 46 in those cards' talk. A session of this account writes into an other session's working document: executed both ways.
+- **Its threads in the surface's form,** `The_threads_of_v406all2-2_at_the_surface.csv`, as v406me asks of all the sessions.
+- v406me's answer received: the notes at *Seventeen names* of Exhibit ONE's gathering file are this window's to lay in the next version, and v406me goes through them.
