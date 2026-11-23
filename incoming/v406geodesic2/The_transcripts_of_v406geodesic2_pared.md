@@ -95,3 +95,9 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - The session answered by executing: it opened v406Reiman's cell, its nand, and its adding and multiplying with nand from their own file, and went by nand alone through the steps the drawings go by, beside the whole numbers' own answers: nine lines, all *is*. No logic other than nand is required.
    - Found with it: one cell alone makes no nand, and two cells in a row make one; the twelfth drawing's even and odd is an other-than twice; the living files' three moves on a name are other-thans alone, with no adding; and what is with the nand is a name said again and a row, one after an other, no logic.
    - It laid the asking and its answer in its page, with its edges, laid this turn's progress in this folder, offered it, and said its line at the exchange. No artboard is new with this turn.
+15. *my-now-universe is 0 me 1 me-parity ... to 17 my next universe. my is prior odd, then prior even, then now odd, then now even. this is a my.*
+16. *in my-now-universe all-parity is odd even odd*
+   - Two sayings of a partner, the one after as the session worked on the one before. The session said to a partner how it has them: the seventeen names laid on the figure, 0 ahead of them, and a my as four in order.
+   - It went through the exchange from its own last line on, and the living sentences of the three moves on the names, and executed thirteen lines, all *is*: the names 1 to 16 are the sixteen places of a pair of cones in their order, and 8 up, 9 less and 17 less are 30 on, a podaling about 15 and a podaling about 30.
+   - It laid a fourteenth drawing beside the thirteen, with no moving part, a candidate: a my at the stations, four cones, its all-parity odd, even, odd one podaling about 60; and a pair of cones with the sixteen names, 0 at its vertex and 17 at 61, a next 1.
+   - It laid this turn's progress in this folder, offered it, and said its line at the exchange.
