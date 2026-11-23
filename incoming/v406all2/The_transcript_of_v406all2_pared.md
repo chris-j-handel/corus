@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's seventeenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's eighteenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -348,3 +348,36 @@ Is, by the living files as they are. It parts at one place: a cell with no prior
 - **Is-not:** no line names a cell, and the asking is a row in *Concepts* until its place is found.
 
 a cell with no prior is not same-existing and this is a method of same-existing prior now next cycling sequentially.
+
+Is, all, and the one parting of the last turn is away with it. The method is of same-existing, and a cell with no prior is ahead of its cycling.
+
+**Executed, by line 12**
+
+Same-existing, line 12, is existing both as now is beginning and as the next moment is beginning. For a cell that is a parity at both.
+
+- A now of a cell with no prior is same-existing at none.
+- A now of a cell with a prior is same-existing at all.
+- The living code's own lines of a prior, its is-or-is-not same, are gone through with a prior alone.
+
+**Prior, now and next cycling**
+
+- A self's next prior with a now is its prior with the next now: all.
+- Living beside it, in Exhibit ONE Natural Resolver: *a sharing with a prior, its prior + or − from then on*.
+- Living beside it, in Natural Naming: *its prior, now and next same-existing four-cycling*.
+
+**The sentence, said again**
+
+- The name *me-now-existing-parity* carries it: by line 27 a me-now is a same-existing me now-existing.
+- In the form of line 27, by prior lines alone: *A cell is a same-existing me-parity now-existing.*
+
+**Laid**
+
+- The row in the window's tab *Concepts* and the reply at line 30 are said again with it, and a line is at the exchange.
+- A part more in this session's instrument of resolving said by all-parity, ending *All is*. It waits for v406me's going through.
+
+*A cell is a same-existing me-parity now-existing.* ( is-or-is-not? )
+
+- **Is:** it is a proposed line of the opening after 30, a card in the window.
+- **Is-not:** the sentence is *A cell is a me-parity now-existing.*, and same-existing is said of the method and of no cell's line.
+
+is. this is the 15 lines of nand. this is 1-17 naming and explaining.

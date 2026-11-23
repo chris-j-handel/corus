@@ -18,6 +18,10 @@ either is written here, and no line of either moves.
   4  The cell beside its own name, 1, a partner's asking of 23 November, is a cell a
      me-now-existing-parity: Exhibit ONE's table of seventeen names by its own part, a name's three,
      all seventeen rows, and name 1's three said in that part's own form for 7.
+  5  The cell's sentence, with a partner's is of 23 November, a cell is a same-existing me-parity
+     now-existing, and a partner's saying of it, this is the 15 lines of nand, this is 1-17 naming
+     and explaining: the sentence said by the cell's own lines, 7, 8, 11 to 14, and by the living
+     code's names 3, 10 and 11, in the twelve cases, an is with a prior and an is-not with none.
 
 It writes its lines to standard output. It writes no file and decides nothing.
 """
@@ -207,5 +211,22 @@ seven = "all-parity observing, after other-parity possibling, after me-parity ex
 said(f"7 said in that form is the living part's own words: {its_three_said(7)}", 0 if its_three_said(7) == seven and seven in text else 1, 1)
 print(f"   name 1, {'-'.join(three[1])}, in that form: {its_three_said(1)}")
 all_is = all_is and three[1][0] == "co" and its_root[1] == "existing"
+
+# ---- 5. the cell's sentence said by the cell's own lines and by the living code's names
+print("\n5. A cell is a same-existing me-parity now-existing, said by the fifteen lines and by the names")
+by_lines = by_names = 0
+for prior, state in CASES:
+    N, answer, L, cell_answer = both_codes(prior, STATES[state])
+    same_existing = not L["no_prior"]                                    # line 8: a prior is
+    a_me_parity = L["prior_plus"] != L["prior_minus"] and L["next_plus"] != L["next_minus"]   # lines 7, 11 and 12: one parity
+    now_existing = L["a_giving"] and L["a_next"]                         # lines 13 and 14: a giving is, a next is
+    by_lines += (same_existing and a_me_parity and now_existing) != (prior is not None)
+    n3, n10, n11 = dict(N["_3_now_co_observing"]), dict(N["_10_next_co_possibling"]), N["_11_next_co_observing"]
+    named = n3.get(S) in (1, -1) and S in n10 and n11.get(S) in (1, -1)  # 3 a prior of one parity, 10 a giving, 11 a next prior
+    by_names += named != (prior is not None)
+said("by the cell's lines 7, 8, 11 to 14: is with a prior, eight cases, and is-not with none, four", by_lines, len(CASES))
+said("by the living code's names 3, 10 and 11: is with a prior, eight cases, and is-not with none, four", by_names, len(CASES))
+its_1 = "a living self's moment, a giving, each self's 17-next-existing as its 1-now-existing"
+said(f"the living sentence of name 1, word for word in its file: {its_1}", 0 if its_1 in text else 1, 1)
 
 print("\n" + ("All is" if all_is else "NOT ALL"))

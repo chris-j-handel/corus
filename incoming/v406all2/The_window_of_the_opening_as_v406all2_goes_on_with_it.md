@@ -17,6 +17,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, a chat a cell.** A partner's saying, a chat is a cell, and its asking, how a cell came to be natural naming. A cell is living in Exhibit ONE Natural Resolver, in its table *One self, one moment*, and Natural Naming's 5.44, *surfacing*, says that table cell by cell in six lines, in the live set ahead of the cell by nand. Executed: the six lines are said of the living code's named things and of the cell's fifteen lines, all, and the six carry the fifteen, by 14, 12, 10 and 11. Executed: two selves facing with one prior or none, both observing one other, are one cell, two nows a moment of it, with one parity or none observed; with a prior, and + and − together observed, the two invert two nows in a row and part from a cell. No line of the opening names a cell.
 - **On 23 November, a cell a me-parity now-existing.** A partner's asking, *is a cell a me-now-existing-parity*. By Exhibit ONE Natural Resolver's living part of a name's three: is. The cell is the code of name 1, 1-now-existing, and name 1's own slot is co, me-parity, with its root, existing. Its three, co-bi-tri, in that part's own form for 7: me-parity existing, after other-parity same-existing, after all-parity observing. Executed: the table's seventeen rows by the part's own saying, all; and a cell's parity now by now, with no prior none until a parity is surfacing, and once a parity one parity at all its next nows, all. It parts at one place: with no prior, a cell's parity is none yet. The name's parts are lines of both, a me-parity, 30, and now-existing, 2, and no line names a cell.
 - **On 23 November, same-existing.** A partner's saying: *a cell with no prior is not same-existing and this is a method of same-existing prior now next cycling sequentially*. Executed, by the opening's line 12, a parity both as now is beginning and as the next moment is beginning: a now of a cell with no prior is same-existing at none, and a now of a cell with a prior at all. The living code's own lines of a prior, its is-or-is-not same, are gone through with a prior alone. A self's next prior with a now is its prior with the next now, all. The one parting of the cell's sentence is away with it: the method is of same-existing, and a cell with no prior is ahead of it. Beside it, living: Exhibit ONE Natural Resolver's *a sharing with a prior, its prior + or − from then on*.
+- **On 23 November, the cell's line.** A partner's word of *A cell is a same-existing me-parity now-existing.*: *is*. It is the card 49, a proposed line after 30, in *The floating lines*. A partner's saying with it: *this is the 15 lines of nand. this is 1-17 naming and explaining.* Executed: the sentence said by the cell's own lines and by the living code's names, is with a prior and is-not with none, all twelve cases.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -62,6 +63,23 @@ As the working document says them at its revision 72, on 22 November. Lines 3, 4
 | A **living me-parity** is same-existing other-than-the-other's other-than all-parity. | 34 |
 
 ## The floating lines
+
+### After 30
+
+| Sentence | Line |
+| --- | --- |
+| A **cell** is a same-existing me-parity now-existing. *(card)* | 49 |
+
+Laid at the working document's revision 73, on 23 November, with a partner's word: *is*. A partner's saying with it: *this is the 15 lines of nand. this is 1-17 naming and explaining.*
+
+Its rigor, by its four sides:
+
+- **Back.** Its words reach now-existing, 2, same-existing, 12, and a me-parity, 30. It is in the form of 27, *Me-now is a same-existing me now-existing.*
+- **Inward.** A cell is a new name of the opening: no line of both and no other card names it. Its sentence is said by prior lines alone.
+- **Forward.** The seventeen names, 38, and a resolving's moment, 40, say the cell's code by its names: 40 opens with 1-now-existing and completes with 17-next-existing.
+- **Outward.** Exhibit ONE Natural Resolver: the cell is the code of name 1, *a living self's moment, a giving, each self's 17-next-existing as its 1-now-existing*; name 1's own slot is co, *co me-parity*; and its table *One self, one moment* is the cell, said in six lines by Natural Naming's 5.44, *surfacing*. Beside the table's cell, Natural Biology names a living cell, *a cell a same-existing-society of molecules*.
+
+Executed, in `instruments/`: the sentence said by the cell's own lines, 8 a prior, 7, 11 and 12 one parity, 13 and 14 a giving and a next, and by the living code's names 3, 10 and 11, is with a prior and is-not with none, all twelve cases. A now of a cell with no prior is same-existing at none, and a now of a cell with a prior at all.
 
 ### Prior
 
@@ -191,6 +209,6 @@ For the opening, from the aims: the areas the aims cross most often with no line
 3. A partner's is-or-is-not of co-, 35, as the proposed line is. With its is, co- comes in and the cards float up a section. With its is-not, 35 goes to the waiting lines.
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
-6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and of *A cell is a same-existing me-parity now-existing.* as a proposed line of the opening, after 30. The instruments are in `instruments/`, executed from the set's root.
+6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, four of them.
