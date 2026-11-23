@@ -15,6 +15,9 @@ number, a name in bold. No line is written here, and no line moves.
   2  A distinguishing's two sides: its side with other-than, with that other-than away, is its
      other side word for word, or is-not.
   3  A line hanging on the word of: its saying is with is of, and names no thing its name is.
+  4  The names of 25 to 31, a partner's saying of 23 November, the me and self is circular with all
+     living and the names are too many in 25-31: back, the prior lines a line's saying uses; forward,
+     the later lines and cards saying its name; and the lines saying own, and living.
 
 It writes its lines to standard output. It writes no file and decides nothing.
 """
@@ -24,11 +27,14 @@ from pathlib import Path
 
 page = Path(sys.argv[1]) / "incoming" / "v406all2" / "The_window_of_the_opening_as_v406all2_goes_on_with_it.md"
 rows = re.findall(r"^\| (.+?) \| (\d+) \|$", page.read_text(encoding="utf-8"), flags=re.M)
-lines = {}
+lines, cards_after = {}, {}
 for sentence, n in rows:
     n = int(n)
+    its_saying = re.sub(r"\*\*(.+?) \*\*", r"**\1** ", sentence).replace(" *(card)*", "").strip()
     if n not in lines and (n <= 35 or n == 49):
-        lines[n] = re.sub(r"\*\*(.+?) \*\*", r"**\1** ", sentence).replace(" *(card)*", "").strip()
+        lines[n] = its_saying
+    elif n not in lines and n not in cards_after:
+        cards_after[n] = its_saying                    # the cards 36 to 48, for a name's later sayings alone
 ORDER = [n for n in range(1, 31)] + [49] + [31, 32, 33, 34, 35]       # the card of a cell is after 30
 
 FORMS = {"things": "thing", "selves": "self", "others": "other", "parities": "parity", "sequences": "sequence",
@@ -118,3 +124,33 @@ hanging = [n for n in ORDER if re.search(r"\bis of\b", lines[n])]
 for n in hanging:
     print(f"   {n:2}  {re.sub(r'[*]', '', lines[n])}")
 print(f"   lines with is of: {hanging or 'none'}")
+
+
+def names_said(saying, prior):
+    """The prior lines' names a saying says, by its words: all its best partings together."""
+    words = parts_of(re.sub(r"[.,:;]", " ", re.sub(r"\*\*", "", saying)))
+    return {(part, by) for holes, size, parting in partings(words, prior) for part, by in parting if isinstance(by, int)}
+
+
+print("\n4. The names of 25 to 31: back, and forward")
+its_name = {n: re.sub(r"^(a|an|the) ", "", (re.findall(r"\*\*(.+?)\*\*", lines[n]) or ["no name"])[0].strip().lower()) for n in ORDER}
+later = {n: [] for n in ORDER}
+for at, n in enumerate(ORDER):
+    for part, by in names_said(re.sub(r"\*\*.+?\*\*", " ", lines[n]) if its_name[n] != "no name" else lines[n], set(ORDER[:at])):
+        later[by].append(n)
+for n, saying in sorted(cards_after.items()):
+    for part, by in names_said(saying, set(ORDER)):
+        later[by].append(n)
+few = []
+for at, n in enumerate(ORDER):
+    if n in (25, 26, 27, 28, 29, 30, 49, 31):
+        back = sorted(names_said(re.sub(r"\*\*.+?\*\*", " ", lines[n]) if its_name[n] != "no name" else lines[n], set(ORDER[:at])), key=lambda x: x[1])
+        forward = sorted(set(later[n]), key=lambda m: ORDER.index(m) if m in ORDER else 100 + m)
+        print(f"   {n:2}  {its_name[n]:12} back: {', '.join(f'{part} {by}' for part, by in back)}")
+        print(f"       {'':12} forward: {', '.join(map(str, forward)) or 'no later line'}")
+        if its_name[n] != "no name" and len(forward) < 2:
+            few.append(f"{its_name[n]}, {n}: {', '.join(map(str, forward)) or 'none'}")
+print(f"   a name said by one later line or none: {'; '.join(few)}")
+for word in ("own", "living"):
+    saying_it = [n for n in ORDER if re.search(rf"\b{word}\b", re.sub(r"\*\*", "", lines[n]).lower())]
+    print(f"   lines saying {word}: {saying_it}")

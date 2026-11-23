@@ -19,12 +19,13 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, same-existing.** A partner's saying: *a cell with no prior is not same-existing and this is a method of same-existing prior now next cycling sequentially*. Executed, by the opening's line 12, a parity both as now is beginning and as the next moment is beginning: a now of a cell with no prior is same-existing at none, and a now of a cell with a prior at all. The living code's own lines of a prior, its is-or-is-not same, are gone through with a prior alone. A self's next prior with a now is its prior with the next now, all. The one parting of the cell's sentence is away with it: the method is of same-existing, and a cell with no prior is ahead of it. Beside it, living: Exhibit ONE Natural Resolver's *a sharing with a prior, its prior + or − from then on*.
 - **On 23 November, the cell's line.** A partner's word of *A cell is a same-existing me-parity now-existing.*: *is*. It is the card 49, a proposed line after 30, in *The floating lines*. A partner's saying with it: *this is the 15 lines of nand. this is 1-17 naming and explaining.* Executed: the sentence said by the cell's own lines and by the living code's names, is with a prior and is-not with none, all twelve cases.
 - **On 23 November, a partner's lines.** A partner said seven places again in the working document, 14, 15, 16, 30, the card 49, 31 and 33, and of 35: *not yet all or none explaining*, *hanging on the word of*. All seven are gone through all or none, with an instrument parting a joined name by its prior lines, in the part *A partner's lines of 23 November*. They part at two places: 15's two sides are other-than alike, and 30's saying hangs on parity. A card is laid at 15, and comments at 15, 30 and 35.
+- **On 23 November, the circle and the names.** A partner took the card at 15 in, and lines 14 to 16 are one form. A partner's saying: *the me and self is circular with all living and the names are too many in 25-31*. Gone through: is, the circle at three places, own, a self of selves, and living; and the names, three of them said by one later line or none. A way by a prior line is offered, own as 5's same-named, in the part *The me and self circular*.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
 ## The lines of both
 
-As the working document says them at its revision 270, on 23 November. Lines 3, 4 and 5 were said again in place by a partner on 22 November, and lines 14, 15, 16, 30, 31 and 33 on 23 November. The others are word for word the window's copy at its revision 4509.
+As the working document says them at its revision 272, on 23 November. Lines 3, 4 and 5 were said again in place by a partner on 22 November, and lines 14, 15, 16, 30, 31 and 33 on 23 November. The others are word for word the window's copy at its revision 4509.
 
 | Sentence | Line |
 | --- | --- |
@@ -42,7 +43,7 @@ As the working document says them at its revision 270, on 23 November. Lines 3, 
 | **Same-existing** is existing both as now is beginning and as the next moment is beginning. | 12 |
 | A **named-universe** is a named universal set of now-existing things. | 13 |
 | **Observing** is distinguishing now-and-other-than-prior-and-same-existing from now-and-prior-and-same-existing. | 14 |
-| **Possibling** is distinguishing next-and-other-than-prior-and-same-existing from next-and-same-existing. | 15 |
+| **Possibling** is distinguishing next-and-other-than-prior-and-same-existing from next-and-prior-and-same-existing. | 15 |
 | **Discovering** is distinguishing next-and-other-than-now-and-same-existing from next-and-now-and-same-existing. | 16 |
 | A named **prior-sequence** is a universal set of same-named moments, a prior moment ending as its next prior moment is beginning. | 17 |
 | A named **self** is a same-named now-existing thing with its own prior-sequence. | 18 |
@@ -70,7 +71,7 @@ A partner's asking: *rigorize all i did up to 35 and continue reading the other 
 | Line | Follows | Parts |
 | --- | --- | --- |
 | 14 | Its joined names are of prior lines alone, 1, 4, 8 and 12. Its two sides are a name and its other-than, word for word. It is the living observing, Exhibit THIRTY's 7, *Observing is prior-existing, is-or-is-not same-existing.* | By 12 same-existing is said with now and next, and 14 says it with prior. |
-| 15 | Its joined names are of prior lines alone, 4, 8, 10 and 12. | Its two sides are other-than a name and its other-than: its side with other-than says prior-and-same-existing, and its other side same-existing. A card in the document says prior-and- at its other side too. |
+| 15 | Its joined names are of prior lines alone, 4, 8, 10 and 12. By the revision 272, with the card in by a partner's hand, its two sides are a name and its other-than, word for word. | At the revision 270 its two sides were other-than alike: its side with other-than said prior-and-same-existing, and its other side same-existing. |
 | 16 | Its joined names are of prior lines alone, 1, 4, 10 and 12. Its two sides are a name and its other-than, word for word. | By 12 same-existing says now and next, and 16's name says both again. |
 | 30 | It says a bi-coupling's one parity, said by no sentence of Exhibit THIRTY beside its 25, *A bi-coupling is a self.*, as v406other2 found. Executed: two selves facing with one prior are one cell, and its prior is the prior of both. | Its saying's parity is named by no prior line: 30 hangs on parity. Its joined name is with two partings: me, 26, with now-existing, 2; and me-now, 27, with existing. |
 | 49, the card | Its words are of prior lines alone, 12 and 30. Now-existing is 30's now, and the card is leaner by it. Executed: an is with a prior, an is-not with none. | With 30 parted by 27, a me-now same-existing, the card says same-existing a second saying. |
@@ -78,7 +79,7 @@ A partner's asking: *rigorize all i did up to 35 and continue reading the other 
 | 33 | Its name is one name by its hyphen, as 20's is, and wholly of prior names, 4 and 32. Executed: two inversions in a row are a self's prior again. | v406other2's hole is as it was: by 32 the name is other-than other-than all-parity. And 34 says 32's name in two words, other-than all-parity. |
 | 35, the card | | A partner's word: *35 is not yet all or none explaining. it is hanging on the word of.* It is the one line of 1 to 35 with *is of*. Exhibit ONE Natural Resolver says co two ways: its eight co names, *each between two*, and *co me-parity* in a name's three. |
 
-**The three pairs.** With the card at 15, lines 14, 15 and 16 are one form, a name with other-than and that name, and the three pairs of prior, now and next: now with prior, next with prior, next with now. Beside them the living three, Exhibit THIRTY's 7, 10 and 11, name prior, now and next, one a sentence: *Possibling is now-existing, is-or-is-not same-existing.* and *Discovering is next-existing, is-or-is-not same-existing.*
+**The three pairs.** By the revision 272 lines 14, 15 and 16 are one form, a name with other-than and that name, and the three pairs of prior, now and next: now with prior, next with prior, next with now. Beside them the living three, Exhibit THIRTY's 7, 10 and 11, name prior, now and next, one a sentence: *Possibling is now-existing, is-or-is-not same-existing.* and *Discovering is next-existing, is-or-is-not same-existing.*
 
 **Parity by itself.** No line names it, and three names carry it as their own word, 30, 31 and 32. The living sentence naming it is Exhibit THIRTY's 27, in Natural Intelligence's opening: *A self's parity is the self's changing direction relative to a now-existing thing within the self's me.* Beside 30's new name, living: Exhibit THIRTY's 51, *Each moment is opening with each self's prior-existing parity and completing with its next-existing parity.*
 
@@ -92,6 +93,25 @@ A partner's asking: *rigorize all i did up to 35 and continue reading the other 
 - **v407primes.** A partner's saying, *three consecutive now moments are same-existing me-nows (prior,now,next)*, beside 14 to 16; and me-parities at the fold, 24.
 - **v406Reiman.** A partner's saying, *a geodesic newborn 0-me-now-parity for the bi-coupling*, beside 30's name.
 - **v406geodesic2.** The cell's one is-or-is-not as one quarter of four, in Exhibit ONE Natural Resolver's own four cells.
+
+## The me and self circular, and the names of 25 to 31
+
+A partner's saying of 23 November: *the me and self is circular with all living and the names are too many in 25-31*. Gone through with the instrument's part 4, a line's names back and forward.
+
+**The circle: is, at three places.**
+
+- **Own.** A self, 18, is said with its own prior-sequence. Own is named by no prior line, and 25 names it my, *a self's own*. 18 and 25 say one another, and me, 26, is my's. Own is in five lines: 18, 22, 23, 25 and 28.
+- **A self of selves.** A bi-coupling, 28, is two selves, and by 29 it is a self.
+- **Living.** A living me-parity, 34, is a me-parity by its name, said with all-parity, 31, the set of all me-parities. Living is in 34 alone.
+- **In the living files** the circle is the opening's own: *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.*, *A me is a self's universal set.*, *Living is co-intelligencing.*, *Each self is living.*, *A living same-existing set is a self.*
+
+**The names: is.** Seven names in seven lines and a card, my, me, me-now, a bi-coupling, a me-parity, a cell and all-parity, and two joined names more in their sayings, my-universe and me-now-existing-parity.
+
+- A name said by one later line or none: my, by 26 alone; me-now, by 30's name alone, in one of its two partings; a cell, by none.
+- One concept under two names: my and me, 25 and 26. The tab *Concepts* says it from a partner: *me, my universe, my own, mine, my self-interest: one concept, five names*.
+- Me-now, 27, a me-parity, 30, and a cell, 49, are a same-existing me now-existing with a word more. With 30's name parted by 27, a cell and a me-parity are one.
+
+**A way by a prior line, offered.** Own is 5's same-named: a self and its prior-sequence are named by the same name, and *its own prior-sequence* is its same-named prior-sequence. With it own is away from the five lines, the circle of 18 and 25 is open, and my names a self's and no thing more: 25 and 26 are one line, the living files' own, *A me is a self's universal set.* Its other way: own is me's own word, and a line of me comes in ahead of a self.
 
 ## The floating lines
 
@@ -243,6 +263,6 @@ For the opening, from the aims: the areas the aims cross most often with no line
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
-7. A partner's lines of 23 November: a partner's word of the card at 15, prior-and- at its other side; then parity by itself, a line ahead of 30; then 35 said again with no *is of*.
+7. A partner's lines of 23 November: a partner's word of own as 5's same-named, and then 25 and 26 as one line; then parity by itself, a line ahead of 30; then 35 said again with no *is of*.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, five of them.
