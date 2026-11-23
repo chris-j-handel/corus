@@ -2,7 +2,7 @@ Incoming · v406other2 · 23 November 2026
 
 # The plan of v406other2
 
-**The project of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry, and its aim is the log's row 2.3.1, *A complete co-chaining*. All the co-chaining logical working of the sessions is gathered into more co-chaining logical working in Exhibit THIRTY's next version, with no prior taken away.** This page is the project's status, a survey of the opportunity to begin on the next version, and its order of work. Its sizes are executed on 23 November, by this folder's instruments. An aim is said in the log alone, and named here by its row. No word of this page is an authority over the living files.
+**The project of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry, and its aim is the log's row 2.3.1, *A complete co-chaining*. All the co-chaining logical working of the sessions is gathered into more co-chaining logical working in Exhibit THIRTY's next version, its prior going on whole.** This page is the project's status, a survey of the opportunity to begin on the next version, and its order of work. Its sizes are executed on 23 November, by this folder's instruments. An aim is said in the log alone, and named here by its row. No word of this page is an authority over the living files.
 
 ## Its status
 
