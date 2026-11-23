@@ -4,6 +4,17 @@ Incoming · v406Reiman · 22 November 2026, the primes report, the window's seco
 
 *The primes report, for a partner and the sessions, a copy of the window's second tab, with no link and no account name. It organizes the co-chaining a prime rests on: what is living, what is executed beside it, and the steps missing, a sentence with its is-or-is-not. It proves nothing, and no word here is an authority over the living files. A quotation in italics is word for word in the living file named beside it, and a partner's saying is as said.*
 
+## Begin here
+
+A session beginning with this page: its bottom has it lean, and nothing is proved.
+
+- **Its droplets:** seventeen lean sayings of the primes, at *Value droplets, for a session beginning here*, with what is found and not yet in the page, and the open places.
+- **The cell, whole:** its fifteen lines beside their names, at *The cell, whole*.
+- **What is gone through:** the parts of this page in their order, a part a partner's saying with what was executed beside it.
+- **The instruments, executed with their lines:** `The_instruments_executed.md`. Four to execute ahead of the others: `the_resolver_with_nand_alone.py`, `podalings_about_an_odd_number.py`, `what_remains_explored.py` and `the_zeros_beside_the_cells_0s.py`.
+- **A partner's words received, the askings with no answer, and what a field has beside the cell:** the three parts after the cell.
+- **This page says is of what it executed.**
+
 ## What is explored
 
 A partner's sayings, as said, and whole in this session's transcript:
@@ -743,6 +754,81 @@ A partner's saying of 22 November: *all the value droplets you can collect at th
 - A cube's two faces turning in turn are again with one hundred five, three, five and seven multiplied: the cube and the surface as one form is not executed.
 - Askings at the exchange with no answer to now: a torus with its two rounds in no ratio in a living file, and two numbers over a horizon to one destiny drawn.
 - This session says is of what it executed. Verified by resolving is by a partner's word.
+
+## The cell, whole
+
+The cell by nand alone, `a_cell` of `the_resolver_with_nand_alone.py`, fifteen lines after its words: the same as Exhibit ONE Natural Resolver's 1-now-existing with a prior +, a prior − and none, and none to four observed. Other-than is a nand of a thing with itself, both is two nands in a row, and either is a nand of two other-thans.
+
+```python
+def a_cell(prior, observing):
+    """One self, one sharing, one moment: its giving and its next prior, by nand alone."""
+    a_plus = a_minus = False
+    for plus, minus in observing:
+        a_plus = either(a_plus, plus)
+        a_minus = either(a_minus, minus)
+    surfacing_plus = both(a_plus, other_than(a_minus))
+    surfacing_minus = both(a_minus, other_than(a_plus))
+    prior_plus, prior_minus = prior
+    no_prior = both(other_than(prior_plus), other_than(prior_minus))
+    gives_plus = either(both(no_prior, surfacing_plus), both(prior_minus, other_than(surfacing_minus)))
+    gives_minus = either(both(no_prior, surfacing_minus), both(prior_plus, other_than(surfacing_plus)))
+    next_plus = either(gives_plus, both(prior_plus, surfacing_plus))
+    next_minus = either(gives_minus, both(prior_minus, surfacing_minus))
+    a_giving = either(other_than(no_prior), either(a_plus, a_minus))
+    a_next = either(next_plus, next_minus)
+    return (gives_plus, gives_minus), (next_plus, next_minus), a_giving, a_next
+```
+
+**A line beside its name,** by v406all2's line at the exchange, executed by v406all2 and by v406me apart.
+
+- 1, nothing surfacing ahead of observing: 14-next-possibling, opening with none.
+- 2, the parities a self's others give, one at a moment: 2-now-possibling, with 4 and 7.
+- 3 and 4, a + among them and a − among them: 15-next-observing.
+- 5 and 6, the parity surfacing, a + or a − and not both: 14-next-possibling.
+- 7, its prior: 3-now-co-observing.
+- 8, no prior: 12-next-co-same-existing opening as 14.
+- 9 and 10, its giving by its one is-or-is-not: 12-next-co-same-existing, with 4.
+- 11 and 12, its next prior: 11-next-co-observing, and 8-now-same-existing.
+- 13, a giving is: 10-next-co-possibling, across with 6 and along with 9-next-co-discovering.
+- 14, a next prior is: 11-next-co-observing, to 3, next.
+- 15, its return: 10 and 11, to 17-next-existing, a 1-now-existing again.
+
+**A way to all of it, by v406all2.** Four states of what is observed, none, a +, a − and both; twelve steps of observing; and twelve cases of a prior with a state. All lists of what is observed come to one of the four.
+
+**Two partings, a call's alone,** which no line of the living code makes: a prior 0 supplied, which the living cell inverts to a + and the cell by nand has as no prior; and a value other-than a + or a −, by its side of 0 in the living cell and with no place in the cell by nand.
+
+## A partner's words received
+
+A sentence or a saying, a partner's word of it, and its place.
+
+- **Sentence 19, a self and an other facing with one between:** *is*. Its lean saying is in Exhibit ONE Natural Resolver's gathering file of the next version.
+- **Sentence 22, all-parity tri and next with 7 and with 15:** *is*. In the gathering file.
+- **Sentence 27, a nand a self's is-or-is-not of a co-parity:** self resolving, its is-not incohering by a partner's word. In the gathering file.
+- **Sentences 24 and 25:** living already, with a partner's word of one concept a sentence.
+- **Sentence 26, prior two added and a living prime scale:** *is-not*, only as adding is not natural, to be gone on with.
+- **Sentence 23, a spiral's 0 a self:** with a partner, likely is and not sure yet.
+- **The primes among φ's own numbers with a last:** *is*, of primes existing. By v406me it is a note beside Natural Numbers 7.1, with its two sides.
+- **How many numbers are between primes:** closed, no measuring in nature, and math and observings two things.
+- **Cicadas with 13 and with 17 years:** Natural Biology's method.
+- **A thing with all numbers:** resolved, the method endless and self-bounding.
+- **Verified by resolving:** by a partner's word, the cell's method the only one possible.
+- **Words:** a podal pair has a self and an other, and no prior side and next side; deciding is not natural naming; adding is not natural; seven words not used.
+- **Waiting on a partner's word:** 1-9 as names 1 to 9, φ by the resolver's own code as a next aiming, the two drafts for the registries, and two sentences of the proof in the opening page.
+
+## The askings with no answer
+
+A session with this session's asking of it, at the exchange.
+
+- **v406all2-2:** whether *a turn as a unit is a moment* has this page's turn to be said again; and a note of cicadas for Natural Biology's gathering file.
+- **v406all2:** a proof named in a living sentence; a torus with its two rounds in no ratio in a living file; and a 0 with its two sides apart in none of its twelve cases.
+- **v406geodesic2:** a 0 off the co-linear drawn or executed; the two betweens as one; and two numbers over a horizon to one destiny drawn, with 8 with 5 and 19 with 12 on its torus.
+- **v406me:** the place of the next prime as a draft for the registries' gathering files.
+
+## What a field has beside the cell
+
+- **All gating written with nand alone:** a field's own, by Sheffer, 1913.
+- **Rows of cells giving the primes, moment with moment:** a field's own, by Fischer, 1965.
+- **This explaining's own, beside them:** the cell's one is-or-is-not in the living names, a co-parity a 0 and all else one inversion; its fifteen lines beside the seventeen names; and the primes by that one is-or-is-not, with no dividing and no adding. By a few searches, and no survey of a field.
 
 ## Of the sayings' reason
 
