@@ -9,7 +9,7 @@ A sentence is one concept, and rests on the sentences before it alone. A sentenc
 - **The story rests on** v406Reiman's report, `incoming/v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, and v406me's coaching into it, `incoming/v406me/Resuming_v406me.md`.
 - **Execute ahead of a word of your own:** `python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .`, and v406me's `the_staircase_flipped_on_itself_and_the_spans_of_24.py`.
 - **A partner's word of 23 November:** an is-or-is-not whose both outcomes a session has executed is resolved already, and asks nothing. A session asks what needs resolving, with a full explaining of what is not yet resolving and a suggestion.
-- **Not yet resolving, with a suggestion:** at the story's foot, four places: the two partings of 37, a gathering note of 19, the span's five, and sentence 46.
+- **Not yet resolving, with a suggestion:** at the story's foot, three places: a gathering note of 19, the span's five, and sentence 46.
 
 ## The primes, from the spirals
 
@@ -241,10 +241,20 @@ A partner's sayings of 23 November: *prime 37 is the only living scale of a me-p
 79. **Observed along (1, 1, 1), the corner is the hexagon's centre, the edges three lines of 3 at turns of 120 degrees, and the faces three parts of 9 between them.** *Self resolving, with sentence 75.*
     - The hexagon's rounds, 1, 6, 12 and 18, and the cube's other-thans, 1, 9 and 27, are two partings of one 37.
 
-## The two partings of 37, not yet resolving, with a suggestion
+## The two partings of 37, one me-parity
 
-- **What is not yet resolving.** 37 parts by rounds, 1, 6, 12 and 18, a self's prior, now and next about it, sentence 73; and by other-thans, 1, 9 and 27, the three ways, sentence 76. How the two partings are one living me-parity is not executed.
-- **A suggestion, bothboth.** The rounds are the three me-nows, a self's prior, now and next, and the other-thans the three ways of all-parity. 37 is the one scale with both whole and one self, at the hexagon's centre and the cube's corner. Executing it: the 37 selves of the torus of sentence 74 laid on the cube's shell, a self's round beside its other-thans, all 37.
+80. **Observed along (1, 1, 1), the 37 selves of the shell are the 37 of the hexagon one to one, the corner its centre; a round has three selves other-than twice, one on a way's line, and the others between them other-than once.** *Executed.*
+    - Round 0, the one self, other-than thrice. Rounds 1, 2 and 3, a self's prior, now and next: three other-than twice in all three, one on a way's line at turns of 120 degrees, and 3, 9 and 15 other-than once between them.
+    - The two partings are one: a me-parity at the centre, the three ways of all-parity in all three me-nows, and the between of the ways the rest of a round. The suggestion of sentence 79 is executed, and is.
+81. **Stepped by the living code as a torus, couplings 9 and 10 along two of the hexagon's lines, 7 and 37 come again with their own number of moments from most openings, and 19 and 61 with four times theirs.** *Executed.*
+    - 7, all 128 openings: 126 again with 7, and 2 with 4. 37, openings at random: with 37 the most, and with 148 or 2 a few. 19: with 76 or 2. 61, in a session's executing: with 244 or 2.
+    - A hexagon with an odd number of rounds, one or three, comes again with its own selves' number: its whole one moment. With two or four rounds, four times: the quarter turn's four, sentence 36. 7 has it too.
+
+## For illustrating, with v406geodesic2
+
+- **Its drawings and this story are one figure.** v406geodesic2's fifth drawing has two cones facing on the co-linear, *23 at the far vertex* and *25 at its own side's*, crossing *about 24, a 0*: Natural Societies' fold, 24, with 23, the cell, one before it, sentence 56.
+- **Offered for its canvas:** `for_illustrating/the_37.json`, the 37 selves with their hexagon and cube places, round and other-thans, from sentence 80; and the model page *Tori of the primes*, a view of the 37 among its views.
+- **Do no harm:** nothing of v406geodesic2's folder or canvas is written here. A drawing is its own, by a partner's word.
 
 ## A gathering note, not yet resolving, with a suggestion
 

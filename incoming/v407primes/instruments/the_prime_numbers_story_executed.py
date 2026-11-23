@@ -349,6 +349,40 @@ def main():
     line(77, "37 is the one shell whose other-thans are its inner cube's own again, once its cube and twice its square, n of 1 to 10,000: n = 3",
          [n for n in range(1, 10_001) if 3 * n * n == n ** 3 and 3 * n == n * n] == [3] and all(shell(n)[1] != n ** 3 for n in (1, 2, 4, 5)))
 
+    shell37 = [c for c in cube_of(range(4), repeat=3) if max(c) == 3]
+    onto = {(x - y, y - z, z - x): (x, y, z) for x, y, z in shell37}
+    by_round = {}
+    for hx, c in onto.items():
+        r_ = max(abs(v) for v in hx)
+        by_round.setdefault(r_, {1: 0, 2: 0, 3: 0})[sum(1 for v in c if v == 3)] += 1
+    line(80, "observed along (1, 1, 1) the 37 of the shell are the 37 of the hexagon one to one, the corner its centre; a round of it has three selves other-than twice, one on a way's line, and 3, 9 and 15 other-than once",
+         len(onto) == 37 and onto[(0, 0, 0)] == (3, 3, 3) and by_round == {0: {1: 0, 2: 0, 3: 1}, 1: {1: 3, 2: 3, 3: 0}, 2: {1: 9, 2: 3, 3: 0}, 3: {1: 15, 2: 3, 3: 0}})
+    def hex_torus(k):
+        cl = sorted({(a, b) for a in range(-k, k + 1) for b in range(-k, k + 1) if max(abs(a), abs(b), abs(a + b)) <= k})
+        w1, w2, cset = (2 * k + 1, -k), (k, k + 1), set(cl)
+        def hm(a, b):
+            return next(c for x in range(-4, 5) for y in range(-4, 5)
+                        for c in [(a - x * w1[0] - y * w2[0], b - x * w1[1] - y * w2[1])] if c in cset)
+        return cl, {**{((a, b), 9): hm(a + 1, b) for a, b in cl}, **{((a, b), 10): hm(a, b + 1) for a, b in cl}}
+    from itertools import product as openings_of
+    cl7, ch7 = hex_torus(1)
+    seven = {}
+    for pat in openings_of((1, -1), repeat=7):
+        m7 = moments_again(step, opening(cl7, dict(zip(cl7, pat))), ch7)[1]
+        seven[m7] = seven.get(m7, 0) + 1
+    random.seed(80)
+    found_ = {}
+    for k, tries in ((2, 20), (3, 20)):
+        cl, ch = hex_torus(k)
+        found_[len(cl)] = {}
+        for _ in range(tries):
+            m_ = moments_again(step, opening(cl, {v: random.choice((1, -1)) for v in cl}), ch, most=4000)[1]
+            found_[len(cl)][m_] = found_[len(cl)].get(m_, 0) + 1
+    ok = seven == {4: 2, 7: 126} and set(found_[19]) <= {2, 76} and set(found_[37]) <= {2, 37, 148}
+    ok = ok and max(found_[37], key=found_[37].get) == 37 and max(found_[19], key=found_[19].get) == 76
+    line(81, f"the hexagon tori stepped by the living code, couplings 9 and 10 along two of its lines, from most openings: 7 and 37 come again with their own number of moments, 19 with four times its; "
+             f"7, all 128 openings, {seven}; 19, {found_[19]}; 37, {found_[37]}", ok)
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
