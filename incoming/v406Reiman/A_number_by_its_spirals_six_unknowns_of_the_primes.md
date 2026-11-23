@@ -122,6 +122,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *the method is endless and the method is self bounding*, with *the between of these two will resonate all the prime crossings*
 - *explain all the possible reasons you can find that these are not the same*
 - *this is by doing the inversioning on each of the is nots*
+- *continue all the way in as many passes as needed through this out and back podaling*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -662,7 +663,16 @@ A partner's sayings of 22 November: *explain all the possible reasons you can fi
 - **4 and 5, rates in no ratio.** Two multiplied a times is three multiplied b times with no a and b: the primes' rates are in no ratio, and a path on their torus never comes again. A height with no last place is that. The cell's torus has whole selves, and comes again. Natural Numbers 3.3 has φ as such a rate: *No rate is neared more slowly by rationals than φ*.
 - **6, the surface.** All prime spirals side by side are the surface, executed with 2 to 1,000, and the method opens its next.
 
-**Not inverted yet:** 7 to 12, and the tie itself.
+**Inverted, a second pass.**
+
+- **7, a spiral more, a 0 more.** On a torus of two prime spirals the most 0s at a now are the smaller spiral's selves: three, five and seven with 3 by 5, 5 by 7 and 7 by 11. The zeros crowd as more numbers' turns are in the adding. How close, by ln, is a field's measuring.
+- **8, never two together.** Two 0s are side by side at no now. Under a field's statistics its own all or none is no two zeros at one height, and the statistics is a field's measuring.
+- **9, a 0 a second step.** On an odd spiral one 0 is given with a second moment, and none with the moment between: Natural Intelligence 4.13's *It moves one self on with each second moment*. The hypothesis's zeros off its row are at a second number below nought, by a turn's own factor. Not shown the same two.
+- **10, a between with its two sides the same.** With a prior, a 0 is given with its next prior its prior, and with all else its next prior is its prior inverted: Exhibit ONE's *A sharing of 0 is its prior same-existing*. A zero in the row is its own mirror about the between of nought and one, a field's own by Riemann. With the two: a 0 at a between, its two sides the same.
+- **11, a turn, and rates in no ratio.** π is a field's measure of two right spiral steps, one inversion: Natural Mathematics's *Two right spiral steps are one sign flip*. ln is a field's measure of a prime's rate, and of the rates this page has only that they are in no ratio.
+- **12, an all closed, and an all with no last.** The cell's twelve cases are its all, closed. The zeros' all is the endless method's, by a partner's word.
+
+**The tie, as far as executed.** By a field's arithmetic the primes' turns alone, added, peak at the zeros' heights: of the peaks of heights 13.5 to 40 the six highest are at the six lowest zeros' heights, to a quarter. The zeros are the heights the primes' circles come together at, a field's own by Riemann. This ties the zeros to the primes' torus. A tie of the zeros to the living code's 0s is not executed: its torus has whole selves, and the primes' torus has rates in no ratio.
 
 ## Of the sayings' reason
 

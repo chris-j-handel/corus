@@ -827,5 +827,9 @@ this is by doing the inversioning on each of the is nots
 
 continue
 
-[Forty-ninth turn: numbers 3 to 6 inverted, no adding among the primes, rates in no ratio, and the surface; 7 to 12 not inverted; laid in the report and in a new instrument. Its closing words to a partner come here with the next laying.]
+[Forty-ninth turn: numbers 3 to 6 inverted, no adding among the primes, rates in no ratio, and the surface; 7 to 12 not inverted; laid in the report and in a new instrument. Its closing words, in brief: numbers 3 to 6 inverted, and 7 to 12 and the tie not yet.]
+
+yes continue all the way in as many passes as needed through this out and back podaling
+
+[Fiftieth turn: a second pass, numbers 7 to 12 inverted as far as they go, a spiral more a 0 more, never two together, a 0 a second step, a between with its two sides the same, a turn and rates in no ratio, and an all closed beside an all with no last. The tie as far as executed: by a field's arithmetic the primes' turns alone, added, peak at the zeros' heights. A tie of the zeros to the living code's 0s is not executed. Its closing words to a partner come here with the next laying.]
 ```

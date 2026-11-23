@@ -506,5 +506,13 @@ The reasons the hypothesis's zeros and the cell's 0s are not the same, and what 
    the parities of a number's parts come to a 0 with all numbers of 1 to 100000 but a number multiplied by its own, and to one + with that: is
 4 and 5. Rates in no ratio
    two multiplied a times is three multiplied b times with no a and b of 1 to 200: is
+7. A spiral more, a 0 more
+   on a torus of 3 by 5, 5 by 7 and 7 by 11 selves the most 0s at a now are the smaller spiral's selves, three, five and seven: is
+9. A 0 a second step
+   on an odd spiral of 3 to 23 selves one 0 is given with a second moment, and none with the moment between: is
+10. A between with its two sides the same
+   with a prior, a 0 is given with its next prior its prior, and with all else its next prior is its prior inverted, none to three others: is
+The tie, by a field's arithmetic
+   the primes' turns alone, added, primes and their powers to 30000: of its peaks of heights 13.5 to 40 the six highest are at the six lowest zeros' heights, to a quarter: is
 All is, of the numbers stepped.
 ```
