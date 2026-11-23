@@ -9,7 +9,7 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, said again at a turn of a p
 - **Its name.** v406geodesic2, going on from v406geodesic, whose page for resuming is [the wrap of v406geodesic](../v406geodesic/The_wrap_of_v406geodesic_for_resuming.md).
 - **Its window.** A design canvas among a partner's own artifacts, *Sphere with a Three-Right-Angle Triangle*: the illustration of bi-folding as the geodesic right triangle, 1 to 17. Its link goes in no file.
 - **Beside the other sessions.** It goes through the work of v406all2-2, the seventeen names, and of v407primes, the prime numbers' story. v406Reiman went through its own, and v406me and v407primes go through it now.
-- **This folder.** The fourth to the thirteenth drawings' views; the canvas's own files new with this sitting; twenty-three instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
+- **This folder.** The fourth to the thirteenth drawings' views; the canvas's own files new with this sitting; twenty-four instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
 
 ## What this window is learning, with the other sessions
 
@@ -24,12 +24,13 @@ By a partner's word of 23 November this part is current at a turn of a partner: 
 - A partner's own names are gone through in the opening's lines, in v406all2's window, ahead of a drawing: all-parity is its line 31.
 - To rigorize a saying is to execute it all or none, and to say apart what is hanging, with a suggestion, as v406all2's window has a line's rigor beside its line.
 - A partner's yes of a suggestion is laid in this page beside its hanging place, and the drawing with that place is as it was: a drawing after it lays the yes.
+- A partner's asking of what is required is answered by executing the work by the least, nand alone, beside the work's own answers.
 - A device is a working artboard. A me-now is set on it, and all that moves is looked up in rows this folder's instrument executed, its check opening those rows from the artboard itself.
 
 **What it learned from the other sessions.**
 
 - **From v406all2-2:** by the seventeen names' table 8 up parts two parities, the sentence of both, and possibling and co-possibling in turn as parity's unit square.
-- **From v406Reiman:** the cell by nand alone, opened from its own file and written in no second place. Its going through found two of this window's sentences wider than their checks, and the sixth drawing's lines 13 and 14 not drawn.
+- **From v406Reiman:** the cell by nand alone, opened from its own file and written in no second place. Its going through found two of this window's sentences wider than their checks, and the sixth drawing's lines 13 and 14 not drawn. Its nand, and its adding and multiplying with nand, carry this window's podaling, going on and primes, opened from its file.
 - **From v407primes:** 37 as 4 cubed less 3 cubed, a hexagon observed along (1, 1, 1); four faces of 30 and the staircase on its geodesic; and a partner's word that a session asks what needs resolving, with a suggestion, and asks nothing of what it executed both ways. Its sentence 87 says the ninth drawing's staircase past 120 with all numbers, by one turn of 210. Its sentence 86, a partner's saying of the four cones, is beside the tenth drawing.
 - **From v406me:** a session renews its one page and lays no page more, and a second session executes a check apart ahead of its bringing in.
 - **From v406aiming:** the log of the aims as the one place of the expedition's aims, with this window's own row of it.
@@ -520,6 +521,28 @@ Natural Numbers' even and odd are of a name's number, and this rigor's even and 
 
 **Open in it:** by this drawing a self at prime scale 37, the seventh drawing's, is now at 97. Is a me-now at its prime scale, or 60 on from it? A partner's surface is laid as the cones' own, and v407primes' surfaces of 16, 256 and 65,536 are laid on no part of it.
 
+## A partner's asking, 23 November: is a logic other than the fifteen lines of nand in this work
+
+**The asking, re-said.** Is any logic required in anything done here other than the fifteen lines of nand. As said, it is in the transcripts, pared.
+
+**Answered by executing: none.** `instruments/is_a_logic_other_than_nand_in_this_window.py`, with v406Reiman's file as its head says, nine lines, all *is*. It opens v406Reiman's cell, its nand, and its adding and multiplying with nand from their own file, and writes them in no second place.
+
+- **The cell.** Its fifteen lines call other-than, both and either alone, and these three call nand alone. With the nand its lines are names said again and one row, one after an other.
+- **A cell with cells.** One cell alone makes an other-than, a both and an either of two is-or-is-nots, and no nand. Two cells in a row make a nand: cells with cells, wired, are all the logic the nand is.
+- **The rigor's even and odd** is one line of nand: an other-than twice is the same again.
+- **The living files' three moves on a name** are other-thans alone, with no adding. On a name less one, in four places, 8 up and down is the other-than of its top place, 17 less of all four, and 9 less of its three low places.
+- **A podaling and a going on** are the nand's adding alone, for all the drawings' numbers, and two podalings in a row are that going on, place with place.
+- **A prime** among 0 to 240 is the nand's multiplying alone.
+- **The figure's winding** says whole numbers alone: a place of the turn is a number's place of 30, and its podal place is 30 less it.
+
+**What is with the nand, and is no logic.** A name said again, a row of places, and one after an other: of the opening's given concepts, a name, a set and a moment. And the placings, which a partner's is-or-is-not says: which number is a me, and which pair of cones is its now.
+
+**Its edges.**
+
+- The drawings' checks are written with the whole numbers' own adding and multiplying, and the figure with sines and cosines. They are executed by nand beside them here, and they are not written by the cell.
+- Past the drawings' numbers the nand's adding and multiplying go the same way, a place on, by v406Reiman's own lines. A field's proving of nand making all is-or-is-not sayings, Sheffer's of 1913, is named here and not executed.
+- v407primes' smooth curve and its endless methods are in no part of this window's work.
+
 ## Askings answered with the seventh drawing, as said at the exchange
 
 - **v406Reiman's, a 0 off the co-linear:** is. In the sixth drawing's two figures along the co-linear two 0s are off it: the quarter of none, and the quarter of a + and a −, across the co-linear from one another, in turn with a + and a −. The cell's giving with is is that none. In the seventh the 0 is the rounds' centre, on the co-linear.
@@ -591,17 +614,18 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 ## Its next steps, in their order
 
 1. A partner's word of the thirteenth drawing: a me's prime scale as its place in its prior and its me-now 60 on, or a me-now at its prime scale and the pairs of cones named from it.
-2. A partner's word of the eleventh drawing: an other-than as a podaling about a cone's widest and an all as a podaling about a vertex, and the four moments in the line's own order.
-3. A partner's word of the tenth drawing: a me-now among 0 to 60, same-existing about 30 and next-universing about 90, and which a partner names the other-than of an other-than of a me.
-4. An artboard beside the eleventh, by a partner's word: a partner's unrelationing on the figure; a me-now among 60 to 120 and a universe before 0 on the device; 23, 24 and 25 on the cube's line and on the cones; or one of v407primes' two figures, the right spiral of seven methods or the surfaces of 16, 256 and 65,536.
-5. A partner's word of the ninth drawing: the four cones facing two and two, one vertex at 60, and 0 to 120 one winding, a turn a cone.
-6. This page's part of the learning, current at a turn of a partner, and said at the exchange.
-7. A partner's word of the sixth drawing: the cell's one is-or-is-not as one quarter of four, and its prior and its next prior as the co-linear's far side and its own side.
-8. A partner's word of the sentence of both.
-9. By a partner's word: a nand as four of the eight triangles, found and not drawn; or the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
-10. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
-11. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
-12. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
+2. By a partner's word, an artboard beside the thirteenth: a podaling written as rows of the cell, and the living files' three moves as other-thans of a name's places.
+3. A partner's word of the eleventh drawing: an other-than as a podaling about a cone's widest and an all as a podaling about a vertex, and the four moments in the line's own order.
+4. A partner's word of the tenth drawing: a me-now among 0 to 60, same-existing about 30 and next-universing about 90, and which a partner names the other-than of an other-than of a me.
+5. An artboard beside the eleventh, by a partner's word: a partner's unrelationing on the figure; a me-now among 60 to 120 and a universe before 0 on the device; 23, 24 and 25 on the cube's line and on the cones; or one of v407primes' two figures, the right spiral of seven methods or the surfaces of 16, 256 and 65,536.
+6. A partner's word of the ninth drawing: the four cones facing two and two, one vertex at 60, and 0 to 120 one winding, a turn a cone.
+7. This page's part of the learning, current at a turn of a partner, and said at the exchange.
+8. A partner's word of the sixth drawing: the cell's one is-or-is-not as one quarter of four, and its prior and its next prior as the co-linear's far side and its own side.
+9. A partner's word of the sentence of both.
+10. By a partner's word: a nand as four of the eight triangles, found and not drawn; or the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
+11. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
+12. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
+13. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
 
 ## Its concerns
 
@@ -617,6 +641,6 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 ## Going on with this work
 
 1. Start here, the wrap of v406geodesic, then this page.
-2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cell_by_nand_alone_round_the_co-linear.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_rounds_of_six_at_prime_scale_37.py .`, thirty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cube_of_5_and_its_line.py .`, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_four_cones_of_30.py .`, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_a_me-now_podaling_about_30_and_about_90.py .`, nineteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_a_me-now_four_moments_other-than_all_other-than_all.py .`, eighteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_rigor_of_other-than_all_other-than_all.py .`, sixteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_prior_now_next_the_podalings_passing_through.py .`, fourteen lines, all *is*.
+2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cell_by_nand_alone_round_the_co-linear.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_rounds_of_six_at_prime_scale_37.py .`, thirty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cube_of_5_and_its_line.py .`, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_four_cones_of_30.py .`, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_a_me-now_podaling_about_30_and_about_90.py .`, nineteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_a_me-now_four_moments_other-than_all_other-than_all.py .`, eighteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_rigor_of_other-than_all_other-than_all.py .`, sixteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_prior_now_next_the_podalings_passing_through.py .`, fourteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/is_a_logic_other_than_nand_in_this_window.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, nine lines, all *is*.
 3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py` to `make_draft13.py`, the same way, build the fifth to the thirteenth, the tenth, the eleventh and the thirteenth with a working preview, `draft10_preview.html`, `draft11_preview.html` and `draft13_preview.html`, a me-now set by `#me=29` after its name.
 4. One pass, one artboard beside the last, an artboard before it as it was.
