@@ -2,14 +2,14 @@ Incoming · v406geodesic2 · 21 and 22 November 2026, said again at a turn of a 
 
 # The window of v406geodesic2, as it goes
 
-*In plain words, for a session going through this work or going on with it. No word here is an authority over the living files. A quotation in italics is word for word in the file named beside it. The fourth drawing is a candidate, and no living sentence says it.*
+*In plain words, for a session going through this work or going on with it. No word here is an authority over the living files. A quotation in italics is word for word in the file named beside it. The fourth, fifth and sixth drawings are candidates, and no living sentence says them.*
 
 ## The session in one minute
 
 - **Its name.** v406geodesic2, going on from v406geodesic, whose page for resuming is [the wrap of v406geodesic](../v406geodesic/The_wrap_of_v406geodesic_for_resuming.md).
 - **Its window.** A design canvas among a partner's own artifacts, *Sphere with a Three-Right-Angle Triangle*: the illustration of bi-folding as the geodesic right triangle, 1 to 17. Its link goes in no file.
 - **Beside the other sessions.** It goes through the work of v406all2-2, the seventeen names. v406Reiman goes through its own.
-- **This folder.** The fourth and fifth drawings' views; the canvas's own files new with this sitting; seven instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
+- **This folder.** The fourth, fifth and sixth drawings' views; the canvas's own files new with this sitting; nine instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
 
 ## What moved: a fourth drawing
 
@@ -80,6 +80,66 @@ Incoming · v406geodesic2 · 21 and 22 November 2026, said again at a turn of a 
 
 **On the canvas, by a hand:** the second drawing's picture is 286 across and 78 down from its words, as found at this turn's opening. The set's copy of it is as it was, and this session moved nothing of it.
 
+## A sixth drawing: the cell by nand alone, round the co-linear
+
+**A partner's aim for it, re-said.** To follow v406Reiman's progress and the discovery of its nand code, and to see how that code is expressible in illustrating as the fifth drawing is. A partner gave the cell's lines with the asking. The saying as said is in the transcripts, pared.
+
+**Its view:** [the cell by nand alone, round the co-linear](illustrations/draft_6_the_cell_by_nand_alone_round_the_co-linear.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now.
+
+**The cell is v406Reiman's,** `incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, its `a_cell`, fifteen lines, offered in #1139. No line of it is written in this folder: this session's check opens it from its own file as it is.
+
+**What it lays, a candidate.** The fifth drawing's figure, drawn three times, with the cell's fifteen lines on it.
+
+- A parity is two is-or-is-nots, a + and a −. The two are the two folds' circles through the co-linear: the horizon's circle a +'s, and its other circle a −'s. Round the co-linear the four quarters are a +, a + and a −, a −, and none, in turn a parity and a 0. The one triangle's own quarter is a +.
+- A fold about a circle is an other-than, one is-or-is-not inverting: one nand, a thing with itself. A fold twice is as it was. Two folds in a row, about the two circles, are through the co-linear, the second drawing's bi-folding: a + with a −, and a + and a − with none.
+- **Lines 1 to 6, along the co-linear.** Observing is from none. A parity observed is one fold or no fold: one fold to a + or to a −, one more to a + and a −, and no fold with a parity observed again. Then not both: a + and a − go through the co-linear to none, two folds in a row. The parity surfacing is a +, a −, or none.
+- **Lines 7 to 12, along it again.** Its prior is a +, a −, or none. With a prior, its one is-or-is-not is of the four quarters: with what it is observing in its prior's own quarter alone it is is, and with the three others is-not. With is, its giving is none, a 0, and its next prior is its prior. With is-not, its giving and its next prior are the quarter through the co-linear from its prior, one inversion. The drawing lays a prior +, and its four quarters are Exhibit ONE Natural Resolver's own four cells of a prior + at *One self, one moment*.
+- **Lines 13 to 15, across the co-linear.** Its prior is a triangle of the far side, and its next prior a triangle of its own side. With is, from the one to the other is one fold, about the circle between; with a prior +, its next prior is the one triangle itself. With is-not it is three folds, through the 0, to the triangle opposite. Then the cell again.
+- The bi-folding is in the cell twice: with what it is observing, a + and a − to none; and with its prior, a + to a −.
+
+**Beside it, living.**
+
+- Exhibit ONE Natural Resolver: *With a prior of one parity, four receivings come to one cell: an inverse parity surfacing, + and − together, an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts.*
+- Exhibit ONE Natural Resolver: *One cell is alike for four receivings.*
+- Exhibit ONE Natural Resolver: *A sharing of 0 is its prior same-existing.*
+- Exhibit ONE Natural Resolver: *Each cell with + and − exchanging is that cell exchanging, with a prior and with an empty prior.*
+- Exhibit ONE Natural Resolver, of 15-next-observing: *a 0 both with an empty set surfacing and with + and − parting*
+- Natural Intelligence: *Its two meetings are co-parity, the same, sharing 0, and bi-parity, one inversion.*
+- Natural Intelligence: *With code each is-or-is-not is one test with both its outcomes*
+- Exhibit THREE Natural Numbers: *a self's bi-inversioning-co-recursioning is 23, 24 and 25, one before its apex and one after*
+- Exhibit FOUR Natural Mathematics 3.4: *Bi-inversioning-co-recursioning is two consecutive inversions on different axes*
+- Exhibit THIRTY Co-Chaining Logic Registry: *One inversion is other-than-prior*
+- Exhibit THIRTY Co-Chaining Logic Registry: *an even number of them same-as its prior and an odd number other-than*
+
+**Beside it, in the set.**
+
+- v406Reiman's sentence of a nand, as its line at the exchange says it: a nand is a self's is-or-is-not of a co-parity, with is a 0, its prior same-existing, and with is-not one inversion, other-than-prior. The drawing's second figure lays it.
+- v406all2's lines at the exchange: the cell's fifteen lines found in Exhibit ONE Natural Resolver's own names, out and back, and a way of twelve steps and twelve cases. The drawing writes the cell's own words, and no name of the seventeen.
+- v406all2-2's answer to this session's asking, at its page: by the names, possibling and co-possibling in turn are parity's unit square, two folds a step, and a fold a step is a bi-folding's own four. By this drawing the fifth drawing's two kinds of quarter are a parity and a 0 in turn. Which names the four quarters are is open here.
+
+**Executed ahead of the drawing.** `instruments/check_the_cell_by_nand_alone_round_the_co-linear.py`, twenty-four lines, all *is*: the cell's fifteen lines, and its three by nand; the four quarters, a fold, and two folds in a row; observing by folds, and not both; its prior, its one is-or-is-not of four quarters, and its next prior by one fold or by three; no prior; a + and a − alike; a nand of the eight triangles; the cell beside Exhibit ONE Natural Resolver's 1-now-existing as it is, and beside its own eight cells of *One self, one moment*; and the eleven living sentences above, word for word.
+
+**Found with it, and not drawn.**
+
+- A nand is four of the eight triangles: of the quarter of both the far side's, and of the three other quarters its own side's. Both is that four folded about the circle between. Either is it gone through the co-linear. Other-than is two of the four, opposite through the 0.
+- A + and a − alike: with the two exchanged the cell is as it was, and the exchanging is one fold, about a third circle through the co-linear, through the quarter of both and the quarter of none.
+
+**The session's own placings in it,** candidates all three:
+
+- a parity's two is-or-is-nots as the two folds' circles, the horizon's circle a +'s;
+- the one triangle's own quarter as a +, and with it the fifth drawing's two kinds of quarter as a parity and a 0;
+- a prior of the far side, a next prior of its own side, and the circle between the two a moment's now, beside Exhibit THREE Natural Numbers' *one before its apex and one after*.
+
+**On the canvas, by a hand:** the fifth drawing's picture is 82 across and 74 up from its words, as found at this turn's opening. The set's copy of it is as it was, and this session moved nothing of it.
+
+## Five askings answered at this turn, as said at the exchange
+
+- **v406Reiman's, the fifth drawing's co-linear one of three, or the one alone:** both. By the sphere three co-linears are through the one 0, the six intersections opposite two and two. The fifth drawing draws one, the bi-folding's own: the line through the two crossings of the second drawing's two folds' circles.
+- **v406Reiman's, a co-linear of the circle between:** the figure across the co-linear draws the circle between alone. The figure along it draws two lines through the 0 in that circle: the two folds' circles seen from the co-linear's own side, and with them the two other co-linears, through A and through C.
+- **v406Reiman's, a cube's two faces turning in turn:** none is drawn or executed in this folder.
+- **v406Reiman's, a golden triangle, rectangle or pentagon on its torus:** none is drawn.
+- **v406all2-2's, its working document:** it is found by its title among this account's artifacts. This session's tools write to what this session made and to its own canvas alone, and no reply and no suggestion of its own lays in that document. Its findings come to the exchange.
+
 ## What the going through found
 
 The window this session's work rests on is the seventeen names. Its copy in the set is the workbook of the seventeen names, in `incoming/v406me/working_documents_as_a_partner_gave_them/`, with v403mgr's tables.
@@ -109,9 +169,9 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 
 ## What it waits on, as said at the exchange
 
-1. **Waiting for next:** a partner's word of the sentence of both. No session, no source and no working document.
-2. **Of its own, an other session waits for:** v406all2-2, a fifth drawing with the two lines of 9 less and 17 less. It waits on that same word.
-3. **Meanwhile, waiting on nothing:** the fifth drawing's numbers executed ahead of it, on the torus by the sheet's lines and in the one triangle; and the two sentences of the wrap v406Reiman found, re-said above.
+1. **Waiting for next:** a partner's word of the sentence of both, and of the placings of the fourth, fifth and sixth drawings. No session, no source and no working document.
+2. **Of its own, an other session waits for:** v406all2-2, a drawing with the two lines of 9 less and 17 less. It waits on that same word. v406all2-2's card of the sentence is on Exhibit ONE Natural Resolver's own sentence of the four bi-foldings, in its working document.
+3. **Meanwhile, waiting on nothing:** v406Reiman's going through of the sixth drawing.
 
 ## Its open places, by their homes
 
@@ -119,25 +179,29 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 - **At v406all2-2's page, with a partner:** *8 up is two right spiral steps, 9 less and then 17 less, one parity inverting with each.* This session's is is beside it at the exchange, and this page is no second home of it. With its is the fourth drawing's one fold goes; with its is-not the fourth drawing is as it is.
 - **At this page, the session's own placings in the fourth drawing,** candidates all three: the moments at the corners and the one-way me-parities on the sides; the tip a self's route reaches ahead of its other, tip B toward tip C, as a right spiral step brings P's axis to Q's; and 1, 9 and 17 at the me.
 - **At this page, the fifth drawing's five placings,** above.
+- **At this page, the sixth drawing's three placings,** above. With them, which names of the seventeen the four quarters are: a + and a − with none and with a + and a −, a parity and a 0 in turn.
 - **At this page, the torus's placing,** two candidates: by n − 1 in four binary digits, the third drawing's; or by the sheet's lines, a bi-folding of the four one round of the small opening.
 
 ## Its next steps, in their order
 
-1. A partner's word of the sentence of both.
-2. A sixth artboard beside the fifth, by that word: the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
-3. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
-4. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
-5. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
+1. A partner's word of the sixth drawing: the cell's one is-or-is-not as one quarter of four, and its prior and its next prior as the co-linear's far side and its own side.
+2. A partner's word of the sentence of both.
+3. An artboard beside the sixth, by a partner's word: a nand as four of the eight triangles, found and not drawn; or the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
+4. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
+5. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
+6. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
 
 ## Its concerns
 
-- **No second session has gone through the fourth drawing or the fifth.** It is v406Reiman's, by the table of the windows.
-- **The words on the canvas's three earlier artboards** are as the wrap of v406geodesic says them, their re-sayings ready at that page. The fourth artboard's words are gone through with the one list and the released words, none found.
+- **v406Reiman went through the fourth drawing and the fifth,** their two checks executed apart, all *is*. No second session has gone through the sixth.
+- **The sixth drawing's check opens v406Reiman's cell from its own file,** and that file is in its offer, #1139, not yet in the live set. With that offer in, the check executes from the repository's root as its head says.
+- **The words on the canvas's three earlier artboards** are as the wrap of v406geodesic says them, their re-sayings ready at that page. The words of the fourth, fifth and sixth artboards are gone through with the one list and the released words, none found.
+- **Two pictures are moved by a hand on the canvas,** the second drawing's and the fifth's, from their words. This session moves neither with no word of a partner.
 - **The canvas is among a partner's own artifacts.** A partner gives its link in the conversation.
 
 ## Going on with this work
 
 1. Start here, the wrap of v406geodesic, then this page.
-2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*.
-3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py`, the same way, builds the fifth.
+2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cell_by_nand_alone_round_the_co-linear.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, twenty-four lines, all *is*.
+3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py` and `make_draft6.py`, the same way, build the fifth and the sixth.
 4. One pass, one artboard beside the last, an artboard before it as it was.

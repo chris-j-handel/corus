@@ -49,3 +49,9 @@ Incoming · v406geodesic2 · 21 and 22 November 2026, at a turn of a partner
    - It executed twenty-one lines, all *is*, and laid a fifth drawing beside the four, the four as they were: the co-linear of the bi-folding, and its two cones, a candidate, one figure drawn across the co-linear and along it.
    - It said the released word of a partner's saying another way on the drawing: the co-linear's own side.
    - It laid this turn's progress in this folder, offered it, and said its line at the exchange.
+6. *follow the progress of the reimann session and the discovery of this nand code and see how this nand code is expressable in the illustrating like draft 5*
+   - With the saying a partner gave the cell's lines, 1 to 12 of its fifteen, as v406Reiman's instrument says them.
+   - The session went through the exchange from its own last line on, forty-four lines, the news, and v406Reiman's offer with the cell by nand alone. It went through v406all2-2's answer to its asking: by the names, possibling and co-possibling in turn are parity's unit square.
+   - It executed twenty-four lines, all *is*, the cell from v406Reiman's own file as it is, and laid a sixth drawing beside the five, the five as they were: the cell by nand alone, round the co-linear, a candidate, the fifth drawing's figure drawn three times.
+   - It found the fifth drawing's picture moved by a hand from its words, and moved nothing of it.
+   - It answered four askings of v406Reiman and one of v406all2-2 in its line, laid this turn's progress in this folder, and offered it.
