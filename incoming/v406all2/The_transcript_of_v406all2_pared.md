@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-seven turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-eight turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -691,3 +691,34 @@ Is, by the living files' own sentences and by the session's word of fuzzying: a 
 - **Is-not:** a cell is a name of its own, and the card says it as it does, or by a partner's word as the second saying.
 
 my concept was we were dissolving cell from our natural naming and explaining except for the same way we use file and branch and sheet and tab. is this not your best option for us
+
+Is. It is the best option, and it was saying 1 of the three: this session's asking was of an other sentence, and a partner's concept was the one to ask.
+
+**It is the best, by three things**
+
+- The living files say the thing by moment, a given concept, and cell adds no word to it.
+- No later line says cell: it was a name too many.
+- With it away, cell is said in the living files two ways alone, and neither is the resolver's: a table's place, and a living thing's cell.
+
+**Done with it**
+
+- **The card 49 is away.** This session withdrew it from the window, and the lines and cards name no cell.
+- **Cell is a working word alone:** a table's cell, as a file, a branch, a sheet and a tab are.
+- **A self's moment says the thing,** by moment and a self, 18. From this turn on this session says it that way.
+- The tab *Concepts* says the dissolving in its row of it. A line at the exchange says it to the other sessions, for their own pages.
+
+**As they are**
+
+- The rows and comments of the turns before say cell as it was said then.
+- The code's own name, `a_cell`, is a working word, v406Reiman's.
+
+**Available, and asked**
+
+One place needs a partner's word. The living files say cell a third way, a living thing's cell: Natural Societies' scale at 23, and Natural Biology's *a cell a same-existing-society of molecules*.
+
+*A living thing's cell is as it is.* ( is-or-is-not? )
+
+- **Is:** the dissolving is of the resolver's cell alone. A note of it is laid for Natural Naming's dissolved words: cell, said by a self's moment.
+- **Is-not:** cell is dissolved at 23 too, and its name waits for a partner's word.
+
+are you now combining a cell in a spreadsheet and a living thing cell in an organism. this explaining is uhelpful
