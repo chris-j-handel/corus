@@ -391,6 +391,16 @@ A partner's sayings of 23 November: *the 15 lines of nand code is the phi unrela
     - Rigorized, bothboth. Of the cell's lines as φ's rates of the prime stepping: is, sentences 47 and 109. Of the stepping as never ending away and of the horizon: is, as far as stepped, sentences 106 and 108. Of the fractal method and φ's rate as the proving with all numbers: is-not shown here, its steps executed and its all the endless method's own, the field's proving its own register. Of φ's closings tied to the smooth curve's zeros: not executed, and a field ties φ's closings to the primes by its tests of a prime, sentence 46, and not by the zeros.
     - The primes stepped are prior-existings' stable forms, the stepping a prior prime observing of them, sentence 4.
 
+## φ, ten one-ways, and the zeros coming into existing
+
+A partner's saying of 23 November: *phi is the ten one ways of unrelationing the surface bi-folding where the zeros come into existing*.
+
+111. **Round ten, φ's walk comes again with 60, and its zeros come into existing four times, at 15, 30, 45 and 60: at a zero the walk goes on turned by 7, ten's quarter turn, 7, 9, 3, 1.** *Executed.*
+    - Four zeros, four quarter turns, one 60: the span of 60, sentence 6, as φ's own round ten. Round ten is round 2 and round 5 side by side, walks of 3 and of 20, the torus of ten its two spirals' tori, sentence 48: ten one-ways, a bi-folding of 2 and 5.
+112. **Round a prime, φ's zero comes into existing at a whole part of one short of it with an ending of 1 or 9, and of one past it with 3 or 7; its walk comes again with the zero's place times its turn's span: none, a flip or a quarter turn.** *Executed with primes 7 to 5,000, and to 3,000 in the instrument.*
+    - A prime's ending round ten decides the place φ's zero comes into existing at, and the turn at a zero is the two pieces' own, sentences 40 to 42. Round 5, φ's zero is at 5 and its walk again with 20.
+    - Rigorized: is, of φ's zeros, the zeros of its walk on a surface round ten and round all primes; not executed, of the smooth curve's zeros.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.

@@ -592,6 +592,31 @@ def main():
     line(109, "a staircase at phi's rate, whole numbers alone, steps 1 or 2, never a step past its line, with no span repeating to 500; its two staircases, at phi and at phi by its own, part the numbers 1 to 75,000",
          set(st_) == {1, 2} and all(st_[:20000] != st_[d:20000 + d] for d in range(1, 501)) and all((m in S1) != (m in S2) for m in range(1, 75001)))
 
+    def phi_zero_turn(n):
+        x, y, k = 0, 1, 0
+        while True:
+            x, y, k = y, (x + y) % n, k + 1
+            if x == 0:
+                return k, y
+    walk10, zeros10, x, y = 0, [], 0, 1
+    while True:
+        x, y, walk10 = y, (x + y) % 10, walk10 + 1
+        if x == 0:
+            zeros10.append(walk10)
+        if (x, y) == (0, 1):
+            break
+    z10, t10 = phi_zero_turn(10)
+    line(111, f"phi's walk round ten comes again with {walk10}, its zeros come into existing at {zeros10}, and at a zero it goes on turned by {t10}, ten's quarter turn {[pow(t10, j, 10) for j in range(1, 5)]}",
+         walk10 == 60 and zeros10 == [15, 30, 45, 60] and t10 == 7 and [pow(7, j, 10) for j in range(1, 5)] == [7, 9, 3, 1])
+    ok = True
+    for q in PRIMES[3:]:
+        if q > 3000:
+            break
+        a, t = phi_zero_turn(q)
+        span = next(j for j in (1, 2, 4) if pow(t, j, q) == 1)
+        ok = ok and phi_closing(q) == a * span and ((q - 1) % a == 0 if q % 10 in (1, 9) else (q + 1) % a == 0)
+    line(112, "round a prime, phi's zero comes into existing at a whole part of one short of it, ending 1 or 9, and of one past it, ending 3 or 7; its walk comes again with the zero's place times its turn's span, none, a flip or a quarter turn, primes 7 to 3,000", ok)
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
