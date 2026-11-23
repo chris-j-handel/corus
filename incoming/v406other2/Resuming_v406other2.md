@@ -10,7 +10,7 @@ Incoming · v406other2 · 21 November 2026
 2. `incoming/v406me/The_working_windows_and_the_next_projects.md` and `incoming/v406me/The_news_of_the_working_windows.md`.
 3. `incoming/v406all/Resuming_v406all.md`, with the window and its concepts at the wrap beside it.
 4. This page, and the pages of this folder, said under *Its value*.
-5. `The_plan_of_v406other2.md`, in this folder: the project's status, its aimings, its opportunities, the needs from it, and its order of work.
+5. `The_plan_of_v406other2.md`, in this folder: the project's status, the survey of 23 November of the opportunity to begin on the next version, and its order of work. Beside it: `Exhibit_THIRTY_a_group_a_row.csv`, `The_notes_at_no_group_with_their_groups.csv` and `The_threads_of_v406other2_at_the_surface.csv`.
 
 ## Its window and its working documents
 
@@ -48,7 +48,7 @@ The tab's own words on the rigorizer and on a between's stable form are on the p
 
 ## Its opportunities
 
-- **A hole closing is a line going unmarked.** The deepest holes are the window's: the words no line names, nothings, same, beginning and ending, distinguishing and own. With them closed, lines 5, 8, 10, 12, 14 to 18, 22, 24 and 25 have no other hole.
+- **A hole closing is a line going unmarked.** The deepest holes are the window's: the words no line names, nothing, same, beginning and ending, distinguishing and own. With them closed, lines 5, 8, 10, 12, 14 to 18, 22, 24 and 25 have no other hole.
 - **A sentence of Exhibit THIRTY parting from its line** is a working location of Exhibit THIRTY: six of them, at the lines 6, 12, 14, 15, 19 and 28. At the lines' entering, the sentence is said again by its line.
 - **Parity's own line.** It is the name with the most sentences of Exhibit THIRTY waiting on it, and the me-parity, 30, carries it unnamed.
 - **The seven holes in the window.** They are on this folder's page and at the exchange; a hole's place is a comment on its line, once the window opens to this session.

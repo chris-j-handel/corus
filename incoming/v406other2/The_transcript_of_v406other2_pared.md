@@ -2,7 +2,7 @@ Incoming · v406other2 · 21 November 2026
 
 # The transcript of v406other2, pared
 
-**The conversation of v406other2 with a partner on 21 and 22 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Three of the session's sayings in it are re-said by a later one: seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
+**The conversation of v406other2 with a partner from 21 to 23 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Three of the session's sayings in it are re-said by a later one: seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
 
 ```text
 A partner, at 14:44:
@@ -176,5 +176,68 @@ study the plan of the sessions and focus now on planning this session.
 needs from this project as offered by the expedition in the planning among the sessions
 
 The session:
-[its saying of this turn is The_plan_of_v406other2.md, in this folder, and its line at the exchange]
+The project in one sentence. Exhibit THIRTY is the chain all the other living files hang from: the
+opening's sentences enter it as its opening, and all its sentences are rigorized by them.
+
+The plan is laid in this session's folder (offered as #1123, waiting for v406me), and its line is said at
+the exchange.
+
+Its status
+- Live and next version: 755 sentences in 46 groups in both. The next version's first seventy are an
+  earlier opening, and the window's 34 lines are newer.
+- Marked by the lines: 19 sentences are said again by a line, 68 rest on the lines, and 668 wait on 177
+  names no line gives. 18 of the 46 groups wait whole.
+- The lines it rests on: ten are rigorized and 24 have holes. v406all2 went through my seven holes a
+  second time, and all seven carry.
+- Its gathering file: 220 possible incoherings, 177 explainings and 36 possible explorings, not yet gone
+  through by the lines.
+- Six of its sentences part from their lines, at 6, 12, 14, 15, 19 and 28.
+
+Its aimings
+- Exhibit THIRTY opens the betweens of the opening's lines.
+- Nothing invisible is in a defining.
+- The self proving of all or none at all is in it, so the fractal method can be relied on.
+- The rigorizer is in every between, and only rigorized things go unmarked.
+- No prior value is lost.
+- By the aims' log, 95 of the expedition's 175 aims name Exhibit THIRTY a home, in all ten bands.
+
+Its opportunities, the widest ahead
+1. The order of the opening's next lines. I executed which names open the most of Exhibit THIRTY: parity,
+   moment, living, changing, between, then 0. With those six, 172 sentences are open, from 87 now.
+2. Moment and between have no session at them. I take them next; v406all2 has living and parity.
+3. The entering: a draft of the 34 lines as Exhibit THIRTY's opening, its earlier seventy sentence by
+   sentence.
+4. The rigorizer and the floating lines down all of Exhibit THIRTY.
+5. The gathering file made ready, its notes gone through by the lines.
+6. The threads of the proposed lines 35 to 48.
+
+The needs from it
+- The opening, v406all2: a line's living sentence and threads; the order of holes and of next lines.
+- The seventeen names, v406all2-2: threads of lines 38 to 46; the names between selves.
+- The drawings, v406geodesic2: the rigorizer's fourteen beside the triangle's.
+- The primes, v406Reiman: its home sentences, 305 to 319 and 740 to 742.
+- The aims, v406aiming: the names the aims wait on, living and parity ahead.
+- The whole, v406me: the marking renewed as a line comes in; one opening the same in all four files as
+  Natural Intelligence goes live.
+- The six next projects: what the opening says of a project's band.
+
+What it needs from you
+- Your word on the rigorizer's fourteen, the sentence of my last message.
+- The order of the next lines.
+- Later, your word for the lines entering the next version's file, once the draft is laid.
+
+This session has no working document open in this account; its window is its folder's pages.
+
+A partner, on 23 November at 09:45:
+our aiming is gathering all the co-chaining logical working from all the other sessions into more
+co-chaining logical working in next version living and do no harm improving of exhibit thirty. v406me and
+v406aiming are working on a table of the living value and exhbit thiryt is a table of the living logic.
+there may be cohering there for the expedition. the v406 geodesic 2 session and the v406 primes session
+have made progress on the logic of 0-120 and all the primes and the illustrating is giving back more
+suggestions. survey this as opportunity for us to begin now improving the next version of exhibit thirty
+from gathering file for this exhibit and from this learning now
+
+The session:
+[its saying of this turn is the survey of 23 November in The_plan_of_v406other2.md, in this folder, and
+its line at the exchange]
 ```
