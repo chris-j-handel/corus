@@ -97,6 +97,15 @@ v406Reiman winds down on 22 November, and a partner goes on with the primes repo
 - **The cell, out and back,** with `passes_about_verifying_with_nand.py`: the cell is written with nand alone, and a society of the living code's own cells, as they are, is a nand, adds two numbers and multiplies them. The one is made of the other, scale with scale.
 - **What verifying is here:** a finite all is an executing's, whole, the cell's twelve cases; a turn closes an all, and a saying of spirals with one turn is with all numbers; the surface has no turn, a spiral opening in a turn of the spirals before it.
 
+**A partner's sayings of 23 November, explored with whole numbers alone,** by `instruments/the_staircase_flipped_on_itself_and_the_spans_of_24.py`, ending *All is*. A partner's word with them: the exploring of the primes is of whole numbers and a binary's resolving in its sequence, with no smooth curve, no logarithm and no decimal measuring.
+
+- **The longest span of primes is to 23.** One short and one past the multiples of six, in their order, 5, 7, 11, 13, 17, 19 and 23 are seven in a row all primes, and 25 is 5 by 5. No other seven in a row is, with any number, by one turn of 30.
+- **Out and back from 24.** With the spirals of 2 to p side by side, the uncrossed numbers are primes as far as one short of the next prime multiplied by its own, and that is a whole number of 24s: 24, 48, 120, 168, 288, 360 and on, 1, 2, 5, 7, 12 and 15 of 24.
+- **The staircase flipped upside down and backwards fits itself in a section of 60.** Of the numbers no spiral of 2, 3 or 5 crosses, a number and its number from the section's other end are both uncrossed or both crossed, in all sections of 60, with all numbers by one turn. Of the primes of 0 to 60, all fit but 11 with 49, 7 by 7, with 1 and 59 and with 2, 3 and 5 themselves. Past it the primes fit themselves flipped in 273 of 19,998 sections to 1,200,000, a spiral of 7 or more crossing one of a pair in the others.
+- **A spiral more, a section more:** the uncrossed of 2 and 3 in sections of 12, of 2 to 7 in 420, of 2 to 11 in 4,620.
+- **Not executed:** a partner's saying of a stable form atom compacting into a spiral lattice by this fit.
+- A field has these: its sieve, its wheels of 6, 30 and 210, and a prime multiplied by its own one past a multiple of 24.
+
 **Three sayings of a session beginning, beside the report.**
 
 - *The surface gives what a field's sieve gives:* is, of the numbers found, and the report has it as cohering with the world. Its own beside it: found by the living code as it is, one is-or-is-not of a co-parity a number, with no dividing and no adding.
