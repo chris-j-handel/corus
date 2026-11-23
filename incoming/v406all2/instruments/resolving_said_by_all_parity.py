@@ -15,6 +15,12 @@ Said, and gone through in a prior with a state, three priors and four states:
     prior again, other-than other-than.
   - Its giving is its next prior once other-than its prior, and a 0 once its prior.
 
+And a cell's parity now by now, with a partner's asking of 23 November, is a cell a
+me-now-existing-parity: from a prior of none, a + and a -, all it is observing of one to six nows,
+none, a +, a - or both a now. With no prior its parity is none until a parity is surfacing, and that
+parity is its own with the next now; once with a parity it is with one parity, a + or a -, at all its
+next nows.
+
 It writes its lines to standard output. It writes no file and decides nothing.
 """
 import sys
@@ -53,4 +59,23 @@ for now in range(6):
 print("a self observing none, its prior now by now, from a +:", row)
 again = all(row[n] == (1 if n % 2 else -1) for n in range(6))
 print("two nows in a row are its prior again:", "is" if again else "is-not")
-print("\n" + ("All is" if not parted and again else "NOT ALL"))
+import itertools
+
+gone = partings = births = 0
+for prior in (None, 1, -1):
+    for nows in range(1, 7):
+        for observings in itertools.product(STATES, repeat=nows):
+            its_prior, was = [(S, prior)] if prior else [], prior
+            gone += 1
+            for state in observings:
+                giving, its_prior = cell(its_prior, [(S, v) for v in STATES[state]])
+                now = dict(its_prior).get(S)
+                if was is None:
+                    as_said = now == ALL_PARITY[state]          # none until a parity is surfacing, then that parity
+                    births += now is not None
+                else:
+                    as_said = now in (1, -1)                    # once a parity, one parity at all next nows
+                partings += not as_said
+                was = now
+print(f"a cell's parity now by now: {gone} gone through, {partings} parting; a parity opening from no prior, {births} of them")
+print("\n" + ("All is" if not parted and again and not partings else "NOT ALL"))

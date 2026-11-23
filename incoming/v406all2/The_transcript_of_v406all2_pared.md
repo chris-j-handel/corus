@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's fifteenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's sixteenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -280,3 +280,33 @@ Laid: a row in the window's tab *Concepts*, a reply in the card's talk at 36, an
 - **Is-not:** the living code's own use is the naming. The fifteen and the fifteen are a match of the whole, and other-than a line a name.
 
 chat is a cell and how did a cell become natural naming
+
+A chat is a cell, and a cell was natural naming ahead of the nand code. Both are gone through with the living code as it is.
+
+**A chat is a cell**
+
+- **Executed:** two selves facing with one prior or none, both observing one other, are one cell. A moment of that cell is two nows. A self's giving is its other's next observing, both ways, as on 22 November.
+- **Said beside it, and other-than executed:** the two nows are a turn of a partner and a turn of a session. By Start here's part *At a turn of a partner*, a turn's steps are a cell's parts: the exchange and the window are its observing and its prior, its line at the exchange is its giving, and its window's copy and its transcript are its next prior.
+- **It parts at one place:** with a prior, and + and − together observed, the two invert two nows in a row and are their prior again. One cell inverts once.
+
+**How a cell came to be natural naming**
+
+- A cell is living in Exhibit ONE Natural Resolver, in its table *One self, one moment*: a prior with a surfacing, and in it a giving and a next prior.
+- Natural Naming's 5.44, *surfacing*, says that table cell by cell in six lines of natural naming. The six were in the live set ahead of the cell by nand.
+- On 22 November, with a partner's saying that the resolver is written with nand alone, v406Reiman wrote that cell again in fifteen lines.
+- **Executed now:** the six living lines are said of the living code's named things and of the cell's fifteen lines, all. The six carry the fifteen.
+- The six name the cell's lines by four names: its surfacing by 14-next-possibling, its is-or-is-not same by 12-next-co-same-existing, its giving by 10-next-co-possibling, and its next prior by 11-next-co-observing. That is the living code's own use of its names, the match of 22 November. The order 2 to 16 follows as numbers beside it.
+- No line of the opening names a cell. Beside the table's cell, Natural Biology names a living cell, *a cell a same-existing-society of molecules*.
+
+**Laid**
+
+- A row in the window's tab *Concepts*, a comment at line 29, *A bi-coupling is a self.*, and a line at the exchange.
+- Four instruments in this session's folder, as v406me asked of an executing. All four end *All is*, and they wait for v406me's going through.
+- A place set right, found by v407primes: the living cell goes through a prior 0 a call supplies as a −. This session's saying of 22 November was of three of its four states.
+
+*Natural Naming's six lines of surfacing are the cell's natural naming.* ( is-or-is-not? )
+
+- **Is:** the cell's fifteen lines are named by 14, 12, 10 and 11, as the living lines say them. The order 2 to 16 is a match of the whole, and the sentence of the order, waiting from the last turn, is an is-not.
+- **Is-not:** the order 2 to 16 is the naming. The six lines are said again by it, as a note in Natural Naming's gathering file of the next version.
+
+is a cell a me-now-existing-parity
