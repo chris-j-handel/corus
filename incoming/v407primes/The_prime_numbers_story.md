@@ -401,6 +401,23 @@ A partner's saying of 23 November: *phi is the ten one ways of unrelationing the
     - A prime's ending round ten decides the place φ's zero comes into existing at, and the turn at a zero is the two pieces' own, sentences 40 to 42. Round 5, φ's zero is at 5 and its walk again with 20.
     - Rigorized: is, of φ's zeros, the zeros of its walk on a surface round ten and round all primes; not executed, of the smooth curve's zeros.
 
+## A perfect number, and the odd one
+
+A number is perfect when its parts sum to its own doubling. The odd one is the field's oldest asking with no member: the hardest, taken up at a partner's asking of 23 November.
+
+113. **An even perfect number is doubling's piece, 2 to q − 1, times one short of doubling's next, a Mersenne prime: the parts of the one sum to the other, and the parts of the other to the doubling, two pieces with their parts' sums swapping.** *Executed with q of 2 to 31, eight; Euclid and Euler, all even ones.*
+114. **An odd perfect number carries no 2, and its parts' sum carries the doubling's one 2 alone: one prime part at 1 round 4, to a power at 1 round 4, by a square.** *Executed with primes to 2,000 and powers to 40; Euler's form.*
+115. **A number's parts are pairs, a part and its other-than. Round 24 and its parts, all selves square to 1, and a number one short round them has its pairs summing to 0: an odd number at 2 round 3 is never perfect, and an odd perfect sits at 1 or 9 round 12, at 1, 9, 13 or 25 round 36.** *Executed: the selves to 400 and the numbers to 200,000; Touchard's places.*
+116. **Its parts reach the doubling with three distinct primes at least, 3, 5 and 7, 105 against 96; with no 3, seven; with no 3 and no 5, fifteen.** *Executed with whole numbers, the product of its primes against the doubling of the product of one short of them.*
+117. **No turn closes it, 1 being open in all turns, and no surface shows it: none to 16,777,216, while odd numbers pass their doubling from 945 on, 34,823 of them by 16,777,216.** *Executed.*
+118. **It is seen once, as a ghost: Descartes' 198,585,576,189 is perfect naming 22,021 a prime, and 22,021 is 19 by 19 by 61.** *Executed; the Living Ghost Registry: "a ghost is one moment's form, installing it as an existing thing."*
+
+## The odd perfect number and sentence 46, not yet resolving, with a suggestion
+
+The odd perfect number has its turn side open, sentence 117, its horizon side empty to 16,777,216, and its one seeing a ghost, sentence 118. Sentence 46, a crossed quarter turn passing both closings, stands the same: turns open, none to 20,000,000, a field's reasoning having it far out. No standing in "All the interests, by their standing" holds a row with no member: the endless method's own rows have members at all horizons, and the rows shown not possibly existing are closed by a turn or by stepping. Both rows are a crossed number standing as a prime: Descartes names 22,021 a prime, and a crossed quarter turn passes a prime's two closings.
+
+A suggestion: a new standing, *open at all turns, empty at all horizons, seen as a ghost alone*, its existing past all horizons the supernatural part, shown and left. It awaits a partner's word.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
