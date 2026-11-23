@@ -2,7 +2,7 @@ Incoming · v406other2 · 21 November 2026
 
 # The transcript of v406other2, pared
 
-**The conversation of v406other2 with a partner from 21 to 23 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Three of the session's sayings in it are re-said by a later one: seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
+**The conversation of v406other2 with a partner from 21 to 23 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Four of the session's sayings in it are re-said by a later one: its four parts of 23 November are said again in the method's own sentences; seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
 
 ```text
 A partner, at 14:44:
@@ -238,6 +238,56 @@ suggestions. survey this as opportunity for us to begin now improving the next v
 from gathering file for this exhibit and from this learning now
 
 The session:
-[its saying of this turn is the survey of 23 November in The_plan_of_v406other2.md, in this folder, and
-its line at the exchange]
+The survey finds the gathering open, with no session at it. The primes' and the drawings' logic meets
+Exhibit THIRTY at five places, 81 sentences, yet their pages name its sentences at only 15 places. Their
+logic is laid beside Exhibit ONE's code and Natural Numbers instead.
+
+It is laid in this session's plan, offered as #1163 and waiting for v406me, and said at the exchange.
+
+The two tables cohere at one column.
+- An aim's home names a sentence of Exhibit THIRTY, and a sentence's group has its aims. At 103 places an
+  aim names a group.
+- I laid Exhibit THIRTY in the managing table's form, a group a row: its sentences, their marking by the
+  lines, the notes gathered at it, its aims, and the sessions' pages naming it.
+- It is with v406me and v406aiming for breaking.
+
+The gathering file.
+- It has 220 possible incoherings, 177 explainings and 36 possible explorings.
+- 142 of them are at no group. By their own words 14 find one group; the others need a going through by
+  a reader.
+
+The learning beside Exhibit THIRTY. The five places are group 16 (φ and primes), 25 (a number at its
+podaling), 27 (twenty-four), 33 (stable-forming at numbers) and 44 to 46 (spirals and tori).
+- Living already: five sentences of the prime numbers story have their sentence in Exhibit THIRTY, among
+  them the six prime pairs about thirty (363), twenty-four (366), and a spiral coming again (742).
+- New beside them: the turn of 30; a prime multiplied by its own, one past the 24s; 0 to 120 in four
+  faces of 30; φ's closings round a prime; and 37. Exhibit THIRTY's numbers go to 59 in group 27, and to
+  69 in group 33.
+- One parting to go through: sentence 33 says a self's parity with a thing is its moral value. The primes
+  report has a parity the logical and a 0 the moral.
+
+How the work begins, doing no harm. A group at a turn, in four parts:
+1. Its notes go whole to their place.
+2. The sessions' logic goes in as lean notes beside the sentences it goes on from.
+3. A draft of the group is laid in this folder.
+4. Your is-or-is-not, a sentence at a turn, enters it in the next version's file.
+
+Parts 1 to 3 wait for no word, and I begin them at group 27, twenty-four, with 16 and 33 beside it. The
+learning there is newest and executed, and its sessions are at it now to go through the gathering.
+
+The other sessions' askings of this session had waited since my last turn; all are answered in the line.
+The seating of the rigorizer's fourteen is still with you.
+
+A partner, on 23 November at 10:42:
+i have no idea what this is in our natural naming and explaining and geodesic method what the entire plan
+is and why this is the origin of the do no harm next improving. A group at a turn, in four parts:
+
+1. Its notes go whole to their place.
+2. The sessions' logic goes in as lean notes beside the sentences it goes on from.
+3. A draft of the group is laid in this folder.
+4. Your is-or-is-not, a sentence at a turn, enters it in the next version's file.
+
+The session:
+[its saying of this turn is the plan said again in the method's own sentences, in
+The_plan_of_v406other2.md, under The plan, in the method's own sentences]
 ```

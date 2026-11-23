@@ -56,25 +56,36 @@ It is at five places of the chain, 81 sentences: group 16, φ and primes; group 
 - Five as φ's own prime: in no sentence.
 - No adding closing after five: living at 711, an adding the same again *after one, two, three, four or six, or not again*.
 
-### How the work on the next version begins, doing no harm
+### The plan, in the method's own sentences
 
-A group at a turn, in four parts:
+The plan is the three moments at a file of Exhibit TWENTY-FOUR, *Geodesic Improving Method*, 1.1, with Exhibit THIRTY the file.
 
-1. **Its notes at their place.** A note at no group goes whole to the group of its sentence, in v406me's way of sorting: the file's lines the same lines, and the main list's names the same ahead of it and after it.
-2. **The sessions' logic beside its sentences.** A lean note in the gathering file of the next version, beside the living sentence it goes on from, with its session's executing named as its source.
-3. **A draft of the group,** in this folder: a sentence as it is beside the sentence said again, or a new sentence at its place among them, a marking on all but the rigorized.
-4. **A partner's is-or-is-not,** a sentence at a turn, and with it the sentence enters the next version's file.
+- **Its prior:** *A file as it is with its set is its prior*. Exhibit THIRTY as it is, its 755 sentences.
+- **Its now:** *Its working coupling with it, with each incoming value and its concern, is its now*. The incoming value now is the sessions' co-chaining: the opening's lines, the prime numbers story, the drawings, and the notes of its gathering file.
+- **Its next:** *Its going on, an opportunity opening ahead of its file, is its next*. Exhibit THIRTY's next version.
 
-Parts 1 to 3 wait for no word. Part 4 is a partner's.
+**The prior is the origin of the next.** *Do-no-harming and improving is this motion itself*: *taking no prior away, its prior going on to now, its next opening.* And *A harm, taking a prior away, is the only motion this form has no position for.* A sentence has the same three moments: it *reaches its whole prior co-chaining with its now and adds its next*.
 
-**Its beginning is the numbers:** group 27, twenty-four, with 16 and 33 beside it, and after them 44 to 46. The learning is the newest and executed, its sessions are at it now to go through the gathering, and its sentences are of numbers. The groups 1 to 3 begin as the opening's lines come in.
+**The one way in,** 1.4: *Observing, improving, living is the one way to a living file*.
+
+- *observing*: a value comes whole to `incoming/`. The sessions' pages are in it.
+- *improving*: it *lies with its file's own going on as a ready sharing naming its section and its sentence*, or as a concern with its reason. A file's going on is its gathering file. A value of the sessions beside its sentence of Exhibit THIRTY, and a note at no group brought to its sentence, are this one moment.
+- *living*: it *enters its file only with that file's own motion, improving one thing whole, a fresh reader comparing before and after*. With Exhibit THIRTY's next version it is a partner's word.
+
+**One binary has a value's three fates,** placing, dissolving and going on: *does each file it reaches toward hold it whole*.
+
+**Exhibit THIRTY is all or none.** Its gathering file says it is *the one method along, each step one logical extension from all steps before it*. By the method's 3.3, a file that is the fractal method itself *holds nothing that is not all or none*, and *a passage not all or none leaves for its file's incoming or for the file whose subject it is*. A sentence of the primes that is a field's proving, or an observing, is of Natural Numbers or Natural Mathematics. A sentence all or none, of the chain's own, is Exhibit THIRTY's.
+
+**A pass at a turn,** 1.2: *a pass improves one thing, and improves it whole*.
+
+**Its beginning is the numbers:** group 27, twenty-four, with 16 and 33 beside it, and after them 44 to 46. The incoming value at them is the newest, and executed, and its sessions are at it now to go through the gathering. The groups 1 to 3 begin as the opening's lines come in.
 
 ## Its order of work
 
 1. What is asked of it at the exchange, ahead of its own work.
-2. Group 27 with 16 and 33: its notes at their place, the story's sentences beside its sentences as lean notes, and a draft.
-3. The notes at no group, gone through a kind at a turn.
+2. The prime numbers story, a sentence at a turn asked the one binary. A sentence all or none goes beside its sentence of Exhibit THIRTY, in its gathering file, from group 27. An other sentence is of the file whose subject it is.
+3. The notes at no group, a note brought to its sentence.
 4. Moment and the between, a name with its living sentences: Exhibit THIRTY names a moment at 50 and says it in 191 sentences; no sentence names the between, said in 119.
 5. The six parting sentences, a lean note apiece.
 6. With a line of both coming in: the marking, the betweens and the tab Threads made again by their instruments.
-7. With a partner's word: a draft's sentences into the next version's file; the rigorizer's attacks by their seating.
+7. With a partner's word: a sentence enters Exhibit THIRTY's next version, one thing whole, a fresh reader comparing before and after.
