@@ -6,10 +6,13 @@ and an aim with the things of value it names. It reads, and writes nothing.
 LIVE is the live set's root, NEXT the next version's root.
 The log is NEXT's Exhibit FOURTEEN, its part 2, a row an aim, its column Home.
 The table is LIVE's incoming/v406me/The_managing_table_of_the_living_expedition.csv, a row a thing of value.
-An aim names a thing as a home where its Home has the thing's title, its exhibit number, or, for a folder, its path.
+An aim names a thing as a home by its Home having the thing's title, its exhibit number, or, for a folder, its path.
 """
 import csv, glob, os, re, sys, collections
 
+if len(sys.argv) < 3:
+    print(__doc__)
+    sys.exit(0)
 live, nxt = sys.argv[1], sys.argv[2]
 LOG = glob.glob(os.path.join(nxt, "Exhibit_FOURTEEN_*.md"))[0]
 TAB = os.path.join(live, "incoming/v406me/The_managing_table_of_the_living_expedition.csv")
