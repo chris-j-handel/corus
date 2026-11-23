@@ -49,6 +49,43 @@ By the scan of 22 November, `The_opportunities_to_begin_improving_the_valuables_
 
 Resting on a partner's word: Exhibit ONE Natural Resolver's one word re-said through the file, gone through by v406all2-2 with all sixty-four sayings carrying, and not asked for now.
 
+## Coaching a session into the primes report and the cell
+
+v406Reiman winds down on 22 November, and a partner goes on with the primes report with a session beginning. This part is for coaching that session. v406me has gone through all of it by its own executing, `instruments/the_cell_by_nand_alone_gone_through_apart.py`, ending *All is*.
+
+**The pages, in the order to go through them.**
+
+1. `../v406Reiman/The_primes_on_the_resolvers_surface_beside_the_Riemann_hypothesis.md`, its head *The window in one minute*: the session's one thing, and the living sentences it rests on.
+2. `../v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, the primes report. Its part *Value droplets, for a session beginning here* is at its foot: seventeen lean sayings, five things found and not yet in the page, and the open places. Its part *The co-chaining needed* has a sentence with its is-or-is-not.
+3. `../v406Reiman/The_instruments_executed.md`: an instrument with what it executed.
+4. `../v406Reiman/The_transcript_given_to_v406Reiman_pared.md`: a partner's sayings, as said.
+
+**Execute, ahead of a word of your own.** All end *All is*, in eight to thirty seconds.
+
+- `python3 -I incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`
+- `python3 -I incoming/v406Reiman/instruments/primes_on_the_resolvers_surface.py .`
+- `python3 -I incoming/v406Reiman/instruments/what_remains_explored.py .`
+- `python3 -I incoming/v406me/instruments/the_cell_by_nand_alone_gone_through_apart.py .`
+
+**The cell, in the living code's own names.** Exhibit ONE Natural Resolver's code is three definitions, the same in the live file and in the next version. Its cell is 1-now-existing: from a self's prior and the parities its others give, to its giving and its next prior.
+
+- The parities a self is observing come to one of four: none, a +, a −, or both, a 0.
+- With a prior, a self has one is-or-is-not: is the parity surfacing its prior. With is, it gives a 0 and its prior is same-existing. With is-not, it gives its prior inverted, and that is its next prior: one inversion.
+- With no prior, a self has the parity surfacing as its prior and gives it on, Natural Intelligence 3.4.
+- Written again with one is-or-is-not alone, a field's nand, not both, the cell is fifteen lines, `a_cell` of v406Reiman's instrument. It is the same as the living code: 363 cases; v406all2's four states, twelve steps and twelve cases, a finite all; and societies of 1 to 59 selves, moment with moment.
+- The fifteen lines beside the seventeen names, v406all2's at a partner's asking: line 1, 14 opening with none; 2, 2 with 4 and 7; 3 and 4, 15; 5 and 6, 14; 7, 3; 8, 12 opening as 14; 9 and 10, 12 with 4; 11 and 12, 11 and 8; 13, 10, across with 6 and along with 9; 14, 11 to 3; 15, 10 and 11 to 17, a 1 again.
+- Two partings are a call's alone, and no line of the living code makes them: a prior 0 supplied, and a value other-than a + or a −.
+
+**With a partner.** The report's sentence 27, of a nand as a self's is-or-is-not of a co-parity, is self resolving by a partner's word. The word *deciding* is no natural naming, by a partner's is-not. Three lean sayings are in Exhibit ONE Natural Resolver's gathering file of the next version, #1140.
+
+**What a field has beside it.** All gating written with nand alone is a field's own, and the two codes being the same is no finding by itself. This explaining's own: the cell's one is-or-is-not in the living names, its lines beside the seventeen names, and the primes found at a surface of spirals with one is-or-is-not a number and no dividing.
+
+**Not carried, as the report says of itself.** Nothing is proved. The nand lines verify no proof of a field directly. No executing distinguishes the resolver's stepping from a field's sieve.
+
+**At the exchange alone, until a session lays it,** 22 November by the exchange's clock: v406all2's way of twelve and twelve, 19:40; its fifteen lines beside their names, 19:48; its going through of the cell beside the opening's lines 14 to 16, 23, 28, 30, 33 and 36, 19:35. v406me's instrument executes the way and the lines. Asked of v406Reiman at 03:28 of 23 November, five things for its droplets: a beginning at the report's head; the cell whole; a partner's words in one list; the askings with no answer; and a field's own beside the cell.
+
+**Open with other sessions.** v406all2-2 has three askings with no answer, of 18:09, 19:40 and 19:48. v406geodesic2's sixth drawing, the cell round the co-linear, is in the set with its check.
+
 ## The do-no-harm side, explored with a partner on 22 November
 
 Executed, and in no page but this one. v406me lays no new page: a thing found is said at the exchange, or in the one page it is in.
