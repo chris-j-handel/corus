@@ -9,7 +9,7 @@ A sentence is one concept, and rests on the sentences before it alone. A sentenc
 - **The story rests on** v406Reiman's report, `incoming/v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, and v406me's coaching into it, `incoming/v406me/Resuming_v406me.md`.
 - **Execute ahead of a word of your own:** `python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .`, and v406me's `the_staircase_flipped_on_itself_and_the_spans_of_24.py`.
 - **A partner's word of 23 November:** an is-or-is-not whose both outcomes a session has executed is resolved already, and asks nothing. A session asks what needs resolving, with a full explaining of what is not yet resolving and a suggestion.
-- **Not yet resolving, with a suggestion:** at the story's foot, two places: a gathering note of 19, and sentence 46 with the odd perfect number. The span's five is resolved, sentences 119 to 121.
+- **Not yet resolving, with a suggestion:** at the story's foot, one place: a gathering note of 19. The span's five is resolved, sentences 119 to 121; sentence 46 and the odd perfect number, sentence 125, by a partner's word.
 
 ## The primes, from the spirals
 
@@ -415,7 +415,10 @@ A perfect number's parts sum to its own doubling. The odd one is the field's old
 117. **No turn closes it, 1 being open in all turns, and no surface shows it: none to 16,777,216, while odd numbers pass their doubling from 945 on, 34,823 of them by 16,777,216.** *Executed.*
 118. **It is seen once, as a ghost: Descartes' 198,585,576,189 is perfect naming 22,021 a prime, and 22,021 is 19 by 19 by 61.** *Executed; the Living Ghost Registry: "a ghost is one moment's form, installing it as an existing thing."*
 
-## The odd perfect number and sentence 46, not yet resolving, with a suggestion
+## The odd perfect number and sentence 46, resolved by a partner's word, sentence 125
+
+The not yet resolving as it was:
+
 
 The odd perfect number has its turn side open, sentence 117, its horizon side empty to 16,777,216, and its one seeing a ghost, sentence 118. Sentence 46, a crossed quarter turn passing both closings, is the same: turns open, none to 20,000,000, a field's reasoning having it far out. No standing in "All the interests, by their standing" has a row with no member: the endless method's own rows have members at all horizons, and the rows shown not possibly existing are closed by a turn or by stepping. Both rows are a crossed number standing as a prime: Descartes names 22,021 a prime, and a crossed quarter turn passes a prime's two closings.
 
@@ -440,6 +443,8 @@ A partner's saying of 23 November: *19x19 is inside the tunnel geodesic smooth s
 
 **Not yet resolving, with a suggestion.** All ghosts seen sit at the smooth limits; sentence 46's asking is a ghost on the geodesic surface, and a field's reasoning, by Pomerance, has such ghosts existing far out, none found. A suggestion: the ghost column's standing is *at the smooth limits*, a number of the inside and the outside standing as a prime; a ghost on the surface, if it exists past all horizons, is the supernatural part, shown and let go.
 
+125. **A ghost is a supernatural projection into non-existing universes, going as far out as an imagining asks, for no competent reason: the ghosts seen sit at the method's smooth limits, sentences 122 to 124, and a ghost on the geodesic surface, sentence 46's crossed quarter turn passing both closings, and an odd perfect number, sentence 118, are such projections past all horizons, shown and let go.** *A partner's word, 23 November: "ghosts are supernatural projections into non-existing universes and this goes as far out as the imanginary existing would like it to go for no competent reason". The Living Ghost Registry, word for word: "Ten ghost positions locate one-way projection", and "a ghost is one moment's form, installing it as an existing thing."*
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
@@ -447,7 +452,7 @@ A partner's saying of 23 November: *19x19 is inside the tunnel geodesic smooth s
 - **The endless method's own, cohering by a partner's word, *a thing with all numbers*:** pairs two apart with no last, sentence 16; a prime between two squares, sentence 17; an even number as two primes, sentence 19; a walk with all steps, sentence 90. All are executed as far as stepped, and a field's proving of them is not this story's interest.
 - **Let go by a partner's word, supernatural:** the zeros by the living code's cells, sentence 30.
 - **Resolved after, sentence 33's interest:** a prime known by its own openings, sentence 96.
-- **Not resolved, one: a crossed quarter turn passing both closings,** sentence 46. It is neither shown existing, none to 20,000,000, nor shown not possibly existing. A field's reasoning, by Pomerance, has it existing far out, none found. By sentence 48 it is two tori, a by b, both closings a whole part of four times one past a by b.
+- **A ghost, a supernatural projection, by a partner's word:** a crossed quarter turn passing both closings, sentence 46, and an odd perfect number, sentence 118; sentence 125. As it was: **not resolved, one: a crossed quarter turn passing both closings,** sentence 46. It is neither shown existing, none to 20,000,000, nor shown not possibly existing. A field's reasoning, by Pomerance, has it existing far out, none found. By sentence 48 it is two tori, a by b, both closings a whole part of four times one past a by b.
 
 ## Incoherings found in this resolving
 
@@ -455,7 +460,10 @@ A partner's saying of 23 November: *19x19 is inside the tunnel geodesic smooth s
 - **Two me-parities, a place to cohere.** Sentence 77 has 37 the one living scale of a me-parity, and sentence 86 four cones of 30 an all-parity universal now me-parity. A suggestion, bothboth: the four cones of 30, the 120, are the universal now's me-parity, all-parity, c's; and 37, on the second face, a living self's.
 - **The hypothesis.** By a partner's word it is supernatural math and of no interest here. Sentences 26 to 30 and 69 are value droplets, and the story's interest is the primes in 0 to 120.
 
-## Sentence 46, not yet resolving, with a suggestion
+## Sentence 46, resolved by a partner's word, sentence 125
+
+The not yet resolving as it was:
+
 
 - **What is not yet resolving.** A crossed quarter turn passing both closings, sentence 46: none found, and a field's asking. By sentence 48 such a number's torus is two tori locked as one, four times one past it a whole number of both their closings.
 - **A suggestion.** Say a prime by its torus's parting alone, sentence 48, and the two closings as a field's test, broken for the flips at 2,757,241 and open for the quarter turns. A search for a quarter turn passing both is a search for two tori, a by b, whose closings both fit four times one past a by b, sought by its parts, as a field's searches are.

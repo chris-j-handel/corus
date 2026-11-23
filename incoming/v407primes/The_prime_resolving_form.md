@@ -54,7 +54,7 @@ A row's resolving is its fixing set down at the prime living's next moment, carr
 
 ## Not yet resolving, with a suggestion
 
-- **The ghost column**, the odd perfect number and sentence 46: a suggestion, a standing *open at all turns, empty at all horizons, seen as a ghost alone*.
+- **The ghost column**, the odd perfect number and sentence 46: resolved, story sentence 125, a supernatural projection.
 - **Montgomery and Dyson, and the hypothesis for pieces**, row 5: no story sentence carries them. A suggestion: the hypothesis for pieces is sentence 106 said round a piece, the parity lead of a piece at its side; Montgomery and Dyson is how φ's zeros and the spirals' comings again space on a surface, sentences 111 and 112.
 - **Erdős and Kac**, row 6, torus: no story sentence. A suggestion: a number's prime parts are its tori (48), and their spread on a surface is the parity lead's spread, sentence 107's one prime past the horizon.
 - **Bounded gaps and Cramér**, row 7: no story sentence. A suggestion: a gap is a turn's open place unfilled to its horizon, and sentence 105's new spiral between a side and its double carries Cramér's widest gaps.
@@ -95,3 +95,5 @@ A partner's sayings of 23 November: *1 of 3 is (1x3 ) this is location on a surf
 ## The ghost column at the method's smooth limits
 
 By a partner's saying of 23 November, story sentences 122 to 124: inside the tunnel, squares folding to 1 and 49 round 120, and outside, 61, a next 1, are the method's smooth limits; all ghosts seen, Descartes' 22,021 = 19 by 19 by 61 and the three crossed numbers passing both closings at 1, 49 and 61 round 120, sit at them. The odd perfect number's form is the two limits, a square by one prime part at 1 round 4. Sentence 46's asking is a ghost on the geodesic surface. *Suggestion: the ghost column's standing is at the smooth limits.*
+
+**Resolved by a partner's word, story sentence 125:** *ghosts are supernatural projections into non-existing universes and this goes as far out as the imanginary existing would like it to go for no competent reason*. The ghost column's standing: a supernatural projection; the odd perfect number and sentence 46, shown and let go.
