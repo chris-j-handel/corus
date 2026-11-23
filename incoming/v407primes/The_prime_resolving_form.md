@@ -71,3 +71,13 @@ A partner's asking of 23 November: the not yet resolving, explored by the drawin
 - **Erdős and Kac.** The twelfth drawing: a word is stations in a row, an even number a me and an odd an other. *Suggestion: a number's prime parts are a word's stations, their number its word's length, and its me or other its parity, sentence 107.*
 - **Bounded gaps and Cramér.** The names' gaps in a pair of cones are 2, 4 and 6, never past 6. *Suggestion: a gap of primes is a names' gap with open circles in it, bounded gaps the names' gaps never closing, Cramér's widest the most open circles in a row by a surface.*
 - **Brun.** Twins in a pair of cones are six name pairs, 11 and 13, 17 and 19, 29 and 31, 41 and 43, 47 and 49, 59 and 61, one with an open circle. *Suggestion: Brun's natural side is the twin names a pair of cones, its sum the supernatural part.*
+
+## Ten other-thans, of two of three pairs of moments
+
+A partner's saying of 23 November: *there are ten sequential other-thans where each is of two of three pairs of moments. self prior now and other prior now and all prior now.*
+
+- **Laid on the thirteenth drawing.** The three pairs are its three pairs of cones, one pair's now the next pair's prior: self 0 to 60, other 60 to 120, all 120 to 180, four moments, 0, 60, 120 and 180, the partner's four consecutive now-moments. An other-than is a moment of one pair with a moment of another; a moment with itself, 60 or 120, is same-existing, the twelfth drawing's *a number with itself*. Of two of three pairs, four moments each, are twelve, less the two moments with themselves: ten. *Executed.*
+- **Their podalings.** About 30 once, about 60 twice, about 90 four times, about 120 twice and about 150 once: five on a side of 90, across to the opposite side, the partner's saying of five from each side. Ten other-thans by three pairs by four moments is 120. *Executed.*
+- **A me at 37.** Its ten other-thans land at 23, 83 twice, 143 four times, 203 twice and 263: four at primes, six at ghosts, the ghosts at about 90 and about 120, 143 being 11 by 13 and 203 being 7 by 29. A podaling keeps a piece: 37 is a quarter turn, its ten in the quarter turn piece, and its ghosts are crossed numbers of one flip part and one quarter turn part, sentence 46's kind. *Executed.*
+
+**Not yet resolving, with a suggestion.** The ten rows of the form are Resolving the Hard Problem Registry's ten, eight names now and eight next, 5 and 13 and 7 and 15 with two each; the ten other-thans here are four moments' pairings, 1, 2, 4, 2 and 1 by podaling. Their one seating is not yet found. A suggestion: a row's names now and next are a pairing's two moments, and the four about 90, next-universing, are the four names with two or with a next, a partner's word deciding.

@@ -131,3 +131,26 @@ small = [p for p in range(2, 41) if all(p % d for d in range(2, p))]
 print("\nEuler's 41: round all primes below 41, n*n + n + 41 never at 0 in one turn:",
       all((n * n + n + 41) % p for p in small for n in range(p)), "| primes for n of 0 to 39:",
       all(is_p(n * n + n + 41) for n in range(40)), "| n = 40:", 40 * 40 + 40 + 41, "= 41 x 41")
+
+# A partner's saying: ten sequential other-thans, each of two of three pairs of moments,
+# self prior now, other prior now, all prior now. The three pairs laid as the thirteenth
+# drawing's three pairs of cones, one pair's now the next pair's prior: 0-60, 60-120, 120-180.
+pairs = {"self": (0, 60), "other": (60, 120), "all": (120, 180)}
+names = list(pairs)
+ots = []
+for i in range(3):
+    for j in range(i + 1, 3):
+        for a in pairs[names[i]]:
+            for b in pairs[names[j]]:
+                if a != b:  # a moment with itself is same-existing, not an other-than
+                    ots.append((names[i], names[j], a, b, (a + b) // 2))
+about = {}
+for *_, c in ots:
+    about[c] = about.get(c, 0) + 1
+print("\nTen other-thans of two of three pairs:", len(ots), "| podalings about:", dict(sorted(about.items())),
+      "| five each side of 90:", sum(v for c, v in about.items() if c < 90) + about[90] // 2,
+      sum(v for c, v in about.items() if c > 90) + about[90] // 2,
+      "| 10 x 3 x 4 =", len(ots) * 3 * 4)
+me = 37
+print("  a me at 37, its ten other-thans land at:", [2 * c - me for *_, c in ots],
+      "primes:", [2 * c - me for *_, c in ots if is_p(2 * c - me)])
