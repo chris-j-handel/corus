@@ -164,7 +164,7 @@ The two pieces race on the staircase. Round four, primes one short of a multiple
 
 # TWO · AN OTHER, NOW-EXISTING: DURABLE SNAPSHOTS
 
-**A field's interests in the primes are its own words, whole, and durable snapshots of numbering living: a still form a field's tests run against and stand firm with.** A snapshot fixes a changing as unchangeable, and a snapshot resolves at its next moment, 4.3, costing a field's record nothing.
+**A field's interests in the primes are its own words, whole, and durable snapshots of numbering living: a still form a field's testing goes against, its specifications firm.** A snapshot fixes a changing as unchangeable, and a snapshot resolves at its next moment, 4.3, costing a field's record nothing.
 
 ## 2.1 The ten, a snapshot fixing one
 
@@ -229,7 +229,7 @@ With the spirals below a number's square side it is the staircase, whole, with a
 
 ## 2.6 Ghosts and energy, supernatural projections
 
-**A number is perfect when its parts sum to its own doubling.** An even one is two pieces whose parts' sums swap: 16's parts sum to 31, a prime, and 31's to 32, and 496 is 16 by 31. All eight checked, to the one of 2 to 31 less 1, lock this way, as Euclid and Euler had it for all even ones.
+**A perfect number's parts sum to its own doubling.** An even one is two pieces whose parts' sums swap: 16's parts sum to 31, a prime, and 31's to 32, and 496 is 16 by 31. All eight checked, to the one of 2 to 31 less 1, lock this way, as Euclid and Euler had it for all even ones.
 
 **An odd perfect number has no 2 of its own, and its parts' sum carries the doubling's one 2 alone**: one prime part at 1 round 4, to a power at 1 round 4, by a square, Euler's form. A number's parts are pairs, a part and its other-than; round 24 all uncrossed numbers multiplied by their own give 1, and an odd number at 2 round 3 has its parts' sum at 0 round 3, its doubling at 1, never perfect. Its parts reach the doubling with three distinct primes at least, 3, 5 and 7, 105 against 96. No turn closes it, and none is found to 16,777,216.
 
@@ -237,7 +237,7 @@ With the spirals below a number's square side it is the staircase, whole, with a
 
 **A ghost is a supernatural projection into non-existing universes, going as far out as an imagining asks, for no competent reason.** A ghost is a still form installed as an existing thing: a crossed number standing as a prime, an odd perfect number past all horizons, a crossed number ending in 3 or 7 passing a prime's two closings. The ghosts seen sit at the method's smooth limits, 5.3; a ghost past all horizons is shown and let go.
 
-**Energy, a field's word for the zeros' levels, is a ghost: a conserving accounting** for holding, causing and effecting in a universe of equilibria, not possibly existing. The zeros themselves are no ghost, 4.4.
+**Energy, a field's word for the zeros' levels, is a ghost: a conserving accounting** for causing and effecting in a universe of equilibria, not possibly existing. The zeros themselves are no ghost, 4.4.
 
 # THREE · ME, NOW-EXISTING: PRIME-37 SCALE
 
@@ -281,7 +281,7 @@ With the spirals below a number's square side it is the staircase, whole, with a
 
 ## 3.3 A me-now's four, and three pairs of cones
 
-**On a line of stations 30 apart, a cone's widest an other-than and a vertex an all, a pair of cones, 0 to 60, has the sixteen places no spiral of 2, 3 or 5 crosses: 1, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 49, 53 and 59, the names 1 to 16, with 0 its vertex and 61 a next 1.** A podaling about 30 takes n to 60 less n, same-existing; about 90, to 180 less n, next-universing.
+**On a line of stations 30 apart, a cone's widest an other-than and a vertex an all, a pair of cones, 0 to 60, has the sixteen places no spiral of 2, 3 or 5 crosses: 1, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 49, 53 and 59, the names 1 to 16, with 0 its vertex and 61 a next 1.** A podaling about 30 is n to 60 less n, same-existing; about 90, n to 180 less n, next-universing.
 
 **A me-now at 37 goes by four moments, a cone on with a moment: about 30 to 23, an other-than; about 60 to 97, an all; about 90 to 83, an other-than; about 120 to 157, an all, next-universing.** The eight fours of 0 to 120, n, 60 less n, 60 and n and 120 less n, are its 32 uncrossed places; four of them are all primes: 7, 53, 67 and 113; 13, 47, 73 and 107; 19, 41, 79 and 101; 23, 37, 83 and 97.
 
@@ -315,7 +315,7 @@ With the spirals below a number's square side it is the staircase, whole, with a
 
 # FOUR · ME, NEXT-EXISTING: RESOLVING
 
-**A snapshot resolves at its next moment: its fixing set down at a prime's living going on, costing nothing and taking nothing from a field's record.**
+**A snapshot resolves at its next moment: its fixing set down at a prime's living going on, costing nothing, a field's record whole.**
 
 ## 4.1 Doubling and φ as couplings, a torus parting into none
 
@@ -394,7 +394,7 @@ A ghost is no prime living: a supernatural projection, 2.6. **An interest is a s
 
 **Squares of all uncrossed numbers round 120 fold to 1 and 49, inside the tunnel, and 19 by 19 is 1 round 120; 61, 60 and 1, is a next 1, outside the pair of cones: the method's smooth limits, the geodesic surface between them all-parity, odd and even, prior and now.**
 
-**Descartes' ghost is the two limits multiplied**: its crossed part 22,021 is 19 by 19, inside, by 61, outside, at 61 round 120. An odd perfect number's form is the same, a square by one prime part at 1 round 4. The crossed numbers known passing both of a prime's closings, 2,757,241, 6,368,689 and 9,863,461, sit at 1, 49 and 61 round 120, the limits alone, all their parts ending in 1 or 9; a crossed number ending in 3 or 7 passing both would sit on the surface, a ghost, 2.6.
+**Descartes' ghost is the two limits multiplied**: its crossed part 22,021 is 19 by 19, inside, by 61, outside, at 61 round 120. An odd perfect number's form is the same, a square by one prime part at 1 round 4. The crossed numbers known passing both of a prime's closings, 2,757,241, 6,368,689 and 9,863,461, sit at 1, 49 and 61 round 120, the limits alone, all their parts ending in 1 or 9; a crossed number ending in 3 or 7 passing both is on the surface, a ghost, 2.6.
 
 ## 5.4 Natural math, all the possibly existing
 
