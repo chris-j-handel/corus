@@ -305,6 +305,20 @@ def main():
     line(56, "below the fold the scales are podal about it: the origin with cell, atom with organelle, molecule with gene, macromolecule with protein-fold, "
              "one before six and one after", ok)
 
+    U120 = [q for q in range(120) if q % 2 and q % 3 and q % 5]
+    line(60, "all primes past 5 to 1,000,000 are on the 32 places of 120, and all 32 places have primes",
+         all(q % 120 in U120 for q in PRIMES[3:]) and all(any(prime(n) for n in range(q, TO, 120)) for q in U120))
+    row = (0, 4, 6, 10, 12, 16, 22)
+    allowed = [q for q in U120 if all((q + d) % 2 and (q + d) % 3 and (q + d) % 5 for d in row)]
+    found = [n for n in range(2, TO - 22) if all(prime(n + d) for d in row)]
+    line(61, f"the row {row}: the 120 leaves it uncrossed from {allowed[:3]} and more, and the spiral of 7 crosses one of its seven places from all starts; all primes once, from 7: {found}",
+         len({d % 7 for d in row}) == 7 and allowed and found == [7])
+    found5 = [n for n in range(2, TO - 18) if all(prime(n + d) for d in (0, 2, 6, 8, 12, 14, 18))]
+    line(62, f"one scale before: the row 5 to 23 one short and one past six, the spiral of 5 crossing one of its seven from all starts; all primes once, from 5: {found5}",
+         len({d % 5 for d in (0, 2, 6, 8, 12, 14, 18)}) == 5 and found5 == [5])
+    line(63, "four quarter turns close all primes past 5 with 240, two 120s, and not with 480",
+         all(pow(q, 4, 240) == 1 for q in PRIMES[3:]) and not all(pow(q, 4, 480) == 1 for q in PRIMES[3:]))
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
