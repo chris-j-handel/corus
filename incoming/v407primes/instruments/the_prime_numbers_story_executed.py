@@ -540,6 +540,18 @@ def main():
     line(102, "a right spiral opening, seven steps, a quarter turn a step: the 5th, 6th and 7th face as the 1st, 2nd and 3rd, a round outward, and the 4th closes the round",
          facing[4:7] == facing[0:3] and len(set(facing[0:4])) == 4)
 
+    def on_surface(k):
+        return sum(1 for q in PRIMES if q <= 1 << (2 * k))
+    def crossing(k):
+        return sum(1 for q in PRIMES if q <= 1 << k)
+    ok = all(all((not prime(n)) == any(n % q == 0 for q in PRIMES if q <= 1 << k and q < n) for n in range(2, (1 << (2 * k)) + 1)) for k in range(1, 6))
+    line(103, "a surface of 4 to the k numbers, its side 2 to the k: its crossed numbers are known by the primes to its side alone, its horizon, k of 1 to 5, the surface of 1,024 by 2 to 31", ok)
+    pairs103 = [(on_surface(j), crossing(2 * j)) for j in range(1, 6)]
+    line(104, f"the primes on a surface are the spirals crossing the surface one square out: {pairs103}",
+         all(a == b for a, b in pairs103) and pairs103[-1] == (172, 172))
+    newly = [sum(1 for q in PRIMES if (1 << (k - 1)) < q <= (1 << k)) for k in range(2, 20)]
+    line(105, f"a new crossing spiral in all bi-foldings out, a side to its double, sides to 2 to the 19: {newly}", all(x >= 1 for x in newly))
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 

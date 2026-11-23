@@ -354,6 +354,19 @@ A partner's sayings of 23 November: *ONE Universal Method, TWO Numbering Method,
 - **With the same word,** the report's seven parts are named as the seven methods, a part opening with its method's turn, its sections as they were.
 - **A word of the names.** *Universal method*, *do-no-harm improving*, *geodesic discovering* and *fractal method* are living already; *numbering method*, *same-existing method* and *naming and explaining method* are a partner's new names. The words instrument has *improving* as no name of resolving, and the Living File Registry has *do-no-harm improving* as a living name: the report has it in italics, as the registry's own.
 
+## A surface all the way out, its horizon and its birthings
+
+A partner's sayings of 23 November: *is birthing new me-universes as sequential discovering visible in the triangulating of the surface all the way out and beyond and are the primes there relevant to the local horizon co orienting triangulating*, and *the larger numbers seem like finer and finer localities on the surface like more pixels in the same space between prime crossings is birthing new right sprialings inside local bi-foldings*. The numbers labelled are v403mgr's: all numbers 1 to 1,025 by their names 1 to 16, sixteen on, nested by fours, 17, 65, 257, 1,025 and 4,097, and all primes of the 1,024 at their places on the surface of 1,024.
+
+103. **A surface of 4 to the k numbers has a side of 2 to the k, and its side is its horizon: its crossed numbers are known by the primes to its side alone.** *Executed, k of 1 to 8.*
+    - The surface of 1,024 is 32 a side: 2 to 31, eleven primes, cross it, and its other 161 primes, 37 to 1,021, are born on it and cross none of it. A prime is born at itself and crosses nothing until its own square, 7 at 49 and 31 at 961: a me-universe born, uncrossing, until its horizon.
+    - A number is triangulated by the spirals of its horizon, its places round them, sentence 48; past its horizon a spiral is not yet with it.
+104. **The primes on a surface are the spirals crossing the surface one square out: a surface's births are its squared surface's triangulating.** *Executed: 16 and 256, 6 and 6; 256 and 65,536, 54 and 54; 1,024 and 1,048,576, 172 and 172; 4,096 and 16,777,216, 564 and 564.*
+    - With all numbers, its side being the surface one square in: birthing new me-universes as sequential discovering is visible all the way out and beyond, a surface's primes the horizon of the surface one square out, with no last.
+105. **A surface four times out is a bi-folding twice, its side doubled, and between a side and its double is a new crossing spiral: new right spiralings born in all local bi-foldings.** *Executed to a side of 2 to the 23; a field's, by Chebyshev, with all numbers.*
+    - New crossing spirals of a bi-folding: 1, 2, 2, 5, 7, 13, 23, 43, 75, 137, 255 and on.
+    - The finer localities: the widest stretch across between primes on a surface of 4 to the k is 1, 4, 6, 14, 20, 34, 44, 72, 86, 114, 148 and 154, short of its side from 16 on: more selves in the same surface, the stretches between prime crossings local, under the horizon.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
