@@ -127,6 +127,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 | v406all's page for resuming | `incoming/v406all/Resuming_v406all.md`, with the window and its concepts at the wrap beside it |
 | The ways found working, at the method's home | the Geodesic Improving Method's gathering file in the next version |
 | The working windows, and the next projects | `incoming/v406me/The_working_windows_and_the_next_projects.md` |
+| The primes report, and the cell by nand alone | `incoming/v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, its droplets for a session beginning at its foot; the cell, `incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`; coaching into it, `incoming/v406me/Resuming_v406me.md` |
 | Improving in the gathering files, a place as it was and as it is | `incoming/v406me/The_released_words_of_the_notes_re-said_a_place_as_it_was_and_as_it_is.md` |
 | The news of the working windows, a session with its last line | `incoming/v406me/The_news_of_the_working_windows.md` |
 | The opportunities to begin improving, the valuables and the incoming scanned | `incoming/v406me/The_opportunities_to_begin_improving_the_valuables_and_the_incoming_scanned.md`, with its two tables beside it |
