@@ -1,11 +1,11 @@
-# Known interests in the primes, kept for later
+# Known interests in the primes, for later
 
-Kept here at our partner's asking, 23 November 2026, for later use. None of these is yet in the report.
+Held here at our partner's asking, 23 November 2026, for later use. None of these is yet in the report.
 
 ## The field's askings not yet gone through
 
 - Landau's fourth: primes one past a square, n × n + 1, asked to have no last.
-- Primitive roots and Artin: round 11, 13, 19 and 29 doubling's spiral passes through every self; round how many primes does it?
+- Primitive roots and Artin: round 11, 13, 19 and 29 doubling's spiral passes through all selves; round how many primes does it?
 - Fermat primes: 3, 5, 17, 257, 65,537; 2^32 + 1 = 641 × 6,700,417; Gauss's 17-sided figure.
 - Perfect numbers: 6, 28, 496, 8,128, 33,550,336, one from each Mersenne prime; an odd one asked.
 - Wieferich primes: 1,093 and 3,511, doubling closing round the prime's own square.
@@ -28,4 +28,4 @@ Kept here at our partner's asking, 23 November 2026, for later use. None of thes
 
 - The field explaining the proof's new ideas.
 
-Executed for these so far: `instruments/rows_through_turns_executed.py`.
+Executed for these to now: `instruments/rows_through_turns_executed.py`.
