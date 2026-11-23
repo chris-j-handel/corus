@@ -202,9 +202,17 @@ def main():
     again = lambda n, pri: moments_again(step, opening(range(n), pri), spiral_couplings(n))[1]
     line(36, "a self alone, by the living code, comes again with 4 moments: the quarter turn's four", again(1, {0: 1}) == 4)
     random.seed(23)
-    odd = all(again(n, exhibit_spiral_priors(n)) == 4 * n for n in (3, 5, 7, 9, 11, 15))
-    even = all(again(n, {i: random.choice((1, -1)) for i in range(n)}) == 2 * n for n in (4, 8, 10, 24, 30, 60))
-    line(37, "by the living code an odd spiral comes again with four times its selves, and an even spiral opened other than all inverting with twice", odd and even)
+    from itertools import product as all_openings
+    def by_its_span(pat):
+        n = len(pat)
+        for h in range(1, n, 2):
+            if n % (2 * h) == 0 and all(pat[(i + h) % n] == -pat[i] for i in range(n)):
+                return 2 * h
+        d = next(d for d in range(1, n + 1) if n % d == 0 and all(pat[i] == pat[(i + d) % n] for i in range(n)))
+        return 4 * d if d % 2 else 2 * d
+    ok = all(again(n, dict(enumerate(pat))) == by_its_span(pat) for n in range(1, 11) for pat in all_openings((1, -1), repeat=n))
+    line(37, "said again: by the living code a spiral comes again with its opening's own span, four times an odd span, twice an even span, "
+             "and twice an odd span its opening inverts after: all 2,046 openings of 1 to 10 selves", ok)
     c = {**{(("a", i), 9): ("a", (i + 1) % 15) for i in range(15)}, **{(("b", i), 9): ("b", (i + 1) % 4) for i in range(4)}}
     pri = {**{("a", i): (-1 if i % 2 == 0 else 1) for i in range(15)}, **{("b", i): v for i, v in enumerate((1, 1, -1, 1))}}
     line(38, "a partner's 120: a spiral of 60 selves comes again with 120 moments, and a spiral of 15 beside a spiral of 4, one society, with 120",
@@ -257,8 +265,24 @@ def main():
         return (n - 1) % phi_closing(n) == 0 if n % 10 in (1, 9) else (2 * (n + 1)) % phi_closing(n) == 0
     line(45, "phi's pair step on a torus round a prime closes by one short of it as a flip, and by twice one past it as a quarter turn, primes 7 to 20,000",
          all(phis_piece(p) for p in PRIMES[3:] if p < 20_000))
-    both = [n for n in range(9, 30_001, 2) if n % 5 and not prime(n) and len(doubling_lengths(n)) == 1 and phis_piece(n)]
-    line(46, "a crossed number with doubling's one length and phi's closing of its piece, to 30,000: none", both == [])
+    from math import lcm
+    def closing_of(q):
+        x, y, k = 0, 1, 0
+        while True:
+            x, y, k = y, (x + y) % q, k + 1
+            if (x, y) == (0, 1):
+                return k
+    def ord2(q):
+        k, x = 1, 2 % q
+        while x != 1:
+            x, k = x * 2 % q, k + 1
+        return k
+    breaks = {2757241: (461, 5981), 6368689: (1129, 5641), 9863461: (2221, 4441)}
+    ok = all(a * b == n and prime(a) and prime(b) and ord2(a) == ord2(b) and pow(2, n - 1, n) == 1 and n % 10 in (1, 9)
+             and (n - 1) % lcm(closing_of(a), closing_of(b)) == 0 for n, (a, b) in breaks.items())
+    quarter = [n for n in range(9, TO, 2) if n % 10 in (3, 7) and not prime(n) and pow(2, n - 1, n) == 1 and phis_piece(n)]
+    line(46, f"said again: crossed flips with doubling's one length and phi's closing of their piece, {sorted(breaks)}; "
+             f"a crossed quarter turn closing by doubling and by phi's piece, to 1,000,000: {quarter}", ok and quarter == [])
 
     from math import lcm
     random.seed(45)

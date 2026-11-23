@@ -2,7 +2,7 @@
 
 v407primes, opened by a partner on 22 November 2026 to go on with v406Reiman's primes report. A partner's aiming of 23 November: *the leanest sequentially logical natural naming and explaining of all interests in the primes*, and *the prime numbers are the stable form of natural intelligence living*. A partner's word of 23 November, by v406me: whole numbers and a binary's resolving in its sequence, with no smooth curve, no logarithm and no decimal measuring.
 
-A sentence is one concept, and rests on the sentences before it alone. A sentence's mark says its standing: *living already*, *self resolving*, *a field's, proved*, *( is-or-is-not? )* for a partner's word, or *not yet understood by the world*. Executed: `instruments/the_prime_numbers_story_executed.py`, its line by the sentence's number, *All is* in thirty seconds. Nothing is proved here.
+A sentence is one concept, and rests on the sentences before it alone. A sentence's mark says its standing: *living already*, *self resolving*, *a field's, proved*, *( is-or-is-not? )* for a partner's word, or *not yet understood by the world*. Executed: `instruments/the_prime_numbers_story_executed.py`, its line by the sentence's number, *All is* in ten seconds. Nothing is proved here.
 
 ## Begin here
 
@@ -110,8 +110,9 @@ A partner's saying of 23 November: *there are ten one-way other-thans in each no
 36. **A quarter turn is a self alone: it gives +, 0, −, 0, and comes again with 4 moments.** *A partner's word: bothboth.*
     - Exhibit ONE Natural Resolver: *a pair (x, y), step to (y, −x). That step is a quarter turn with each moment, a right spiral.* Natural Mathematics: *Two right spiral steps are one sign flip.* Exhibit THIRTY's step 119: *four reach their pair again with a next*.
     - The right spiral's four quarter turns and a bi-coupling's four now-moments are one four.
-37. **An odd spiral comes again with four times its selves, and an even spiral, opened other than all inverting along, with twice its selves.** *Executed with the living code as it is.*
-    - Natural Intelligence has the odd: *comes to its parities again with each 4n-th moment*. The even, opened as Exhibit ONE opens it, comes again with 2; opened other than that, with 2n: 4 selves with 8, the eight; 8 selves with 16.
+37. **A spiral comes again with its opening's own span: four times an odd span, twice an even span, and twice an odd span its opening inverts after.** *Said again, executed with all openings of 1 to 12 selves, 8,190, the living code as it is.*
+    - Its wording before, *an even spiral, opened other than all inverting along, with twice its selves*, was wider than its truth: an opening repeating along a shorter span comes again sooner, 12 selves with 6, 8 and 12 as well as 24.
+    - Natural Intelligence has the odd: *comes to its parities again with each 4n-th moment*. A self alone, a span of 1, is 4, sentence 36; an opening all inverting, inverting after a span of 1, is 2; an even spiral of no shorter span, 2n: 4 selves with 8, the eight; 8 selves with 16.
 38. **A partner's 120 is the living code's own: a spiral of 60 selves comes again with 120 moments, and a spiral of 15 beside a spiral of 4, one society, with 120.** *Executed.*
     - No spiral or torus opened as Exhibit ONE opens them comes again with 120. The spiral of 15 comes again with 60, 4 by 3 by 5, and the spiral of 4 with 8.
 39. **Numbers' own quarter turn is five's doubling, 2, 4, 3, 1, and ten's 3, 9, 7, 1.** *Self resolving.*
@@ -125,11 +126,14 @@ A partner's saying of 23 November: *there are ten one-way other-thans in each no
     - v406me's spans of 24 are the two quarter turns' closing, and all primes past 5 close with four quarter turns with no last.
 44. **Doubling laid as couplings, a self's 9 going to the self twice its place round a prime, steps spirals of one length, one short of the prime a whole number of them.** *Executed.*
     - The living code steps that society with no line multiplying, round 7, 11, 13 and 23: the couplings carry the multiplying. Sentence 22's closing, by the resolver's own.
+    - With most openings, by sentence 37's span: round 7, 120 of its 128 openings come again with 12, four times a spiral's 3, and the 8 of one parity along both spirals with 4.
     - Its is-not, of a prime known by one length: 2,047, 23 by 89, and 3,277, 4,033 and 8,321, with one length and crossed.
 45. **φ's pair step, (x, y) to (y, x + y), laid on a torus round a prime, closes by one short of it with a flip, and by twice one past it with a quarter turn: the two pieces are φ's two closings.** *Executed with primes to 20,000.*
     - The quarter turn's pair step, (x, y) to (y, −x), closes with 4 round all numbers. φ's step and the quarter turn's are two pair steps, the one adding and the other inverting. The report's sentence 10, said with pairs on a torus.
-46. **A crossed number with doubling's one length and φ's closing of its piece is none.** *Not yet understood by the world.*
-    - Executed: none to 100,000 here, and none to 30,000 in the instrument. The report's sentence 16, said with the couplings. A field has found none.
+46. **A crossed flip passes both closings, and a crossed quarter turn passing both is a field's open asking.** *Said again, executed to 20,000,000.*
+    - Its wording before, *is none*, has its is-not: 2,757,241, 461 by 5,981, ends in 1, a flip, and has doubling's one length, 460 and 460, and φ's closing, 230, a whole part of one short of it. 6,368,689, 1,129 by 5,641, and 9,863,461, 2,221 by 4,441, have both too.
+    - With a quarter turn, ending in 3 or 7, none is found to 20,000,000. A field's asking of 1980, by Pomerance, Selfridge and Wagstaff, with a prize of $620: a crossed number ending in 3 or 7 closing by doubling and with φ's step one past it, or a proof of none. None is known.
+    - The report's sentence 16, said with the couplings, has its is for the quarter turns as far as executed, and its is-not for the flips.
 
 47. **φ's couplings on a torus of n by n selves, a self (x, y) with its 9 going to (y, x + y), stepped by the living code as it is, come again with twice φ's closing, and round a prime its piece's closing is a whole number of it.** *Executed.*
     - Round 7, 11, 13 and 19 here, and round all primes 7 to 41 in a session's executing: twice one short of a flip, four times one past a quarter turn. Round 9 and 21, crossed, not. The two pieces lock by the living code's own cells, a torus of whole selves.
@@ -268,8 +272,27 @@ A partner's sayings of 23 November: *prime 37 is the only living scale of a me-p
 
 ## Sentence 46, not yet resolving, with a suggestion
 
-- **What is not yet resolving: sentence 46.** By sentence 48 a crossed number's torus is its parts' tori side by side. With its two closings it passes for a prime only with its piece's closing a whole number of both its parts' tori, and its parts' doubling spirals of one length. None is found to 100,000, and a field's own reasoning, by Pomerance, has such numbers far out, none found. Sentence 46 is the last place a prime is known by its closings and not by its parting.
-- **A suggestion.** Say a prime by its torus's parting alone, sentence 48, and the two closings as a field's test that can be passed by two tori locking as one. The search for such a number is then a search for two tori, a by b, whose closings both fit the piece of a by b: a lock of parts, sought with its parts, as a field's searches are, and not number by number.
+- **What is not yet resolving.** A crossed quarter turn passing both closings, sentence 46: none found, and a field's asking. By sentence 48 such a number's torus is two tori locked as one, four times one past it a whole number of both their closings.
+- **A suggestion.** Say a prime by its torus's parting alone, sentence 48, and the two closings as a field's test, broken for the flips at 2,757,241 and open for the quarter turns. A search for a quarter turn passing both is a search for two tori, a by b, whose closings both fit four times one past a by b, sought by its parts, as a field's searches are.
+
+## Incoherings found, and resolvings, 23 November
+
+**Resolved here, the story's own sentences said again by executing.**
+
+- Sentence 37: a spiral's coming again is its opening's own span, all 8,190 openings of 1 to 12 selves; its wording before was wider than its truth.
+- Sentence 44: the living code steps doubling's society with most openings, and not all.
+- Sentence 46: *none* broken for the flips at 2,757,241, 461 by 5,981; the quarter turns a field's open asking.
+- Sentence 81: 37 comes again with its own number from most openings, and with 148 or 2 from a few.
+
+**Brought to a partner: incoherings needing a partner's word.**
+
+- **The story with sentence 70.** Sentences 53, *the living prime scales*, 54, *a self of the scale below living*, 55, *a gene is living with 17*, and 67, a bacterium a cell *living on its own*, were said ahead of a partner's *37 organism is the only living self*. Said again by sentence 70, they are of societies of the atom's stable form, and a living scale of 37 alone.
+- **37 and 7.** By rounds and by a torus, 7 is as 37 is, sentences 73, 74 and 81. By the other-thans 37 alone is, sentence 77. A partner's *37 is the only scale of natural torusing self living* is with the other-thans, and incohering with the rounds and the torus alone.
+- **Natural Biology and Natural Societies.** Natural Biology has *Seating of genetic code on a prime ladder (protein-fold with 13, organism-fold with 37, numbers along seventeen primes) is reading, not cohering — a possibling.* Natural Societies lays the ladder as its scales, and a partner's 37 rests on it.
+- **Natural Physics and a partner's c.** *c is a ledger's space-to-time conversion, not a rate going across a gap*, beside a partner's *c is the all-parity rate*: cohering as a rate of no crossing, and the word rate to be gone through.
+- **Three living sentences and sentence 70,** asked of v406me at the exchange: Natural Numbers' *seven through fifty-three living*, Natural Societies' 23, *the first metabolic living self*, Natural Intelligence's *A same-existing-society is a living set, a self*.
+- **The report and its coaching,** of the prior 0: the living cell has a prior 0 as a −; v406all2 has it set right, and v406Reiman's report and v406me's coaching have it as a + still.
+- **Natural Societies' 19,** *self*, beside the organelle as a ghost of a between: a gathering note waiting on a partner's word.
 
 ## What this story has, said plainly
 
