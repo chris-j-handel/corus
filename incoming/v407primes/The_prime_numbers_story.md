@@ -426,7 +426,7 @@ A suggestion: a new standing, *open at all turns, empty at all horizons, seen as
 A partner's sayings of 23 November: *1 of 3 is (1x3 ) this is location on a surface with up forward and right orthogonals is 3d space*; *2 of 3 is (2x3) this is bi-moral-co-agency 6 geodesic parities living around five dimensions of surface and orienting*; *3 of 3 this is a still self not observing a next universe*; and a partner's yes to the five being the line's five still selves.
 
 119. **The span's five is the cube of 5's line: five still selves, (1, 1, 1) to (5, 5, 5), walked one way down, 23 to 19, and one way up, 19 to 23.** *A partner's yes; the line executed.*
-120. **The cube of 5 about its line is its five still selves taken two and three: two in order, 5 by 4, twenty threes, a location; three, ten sixes, six geodesic parities living about the line: 60 and 60, the 120 about it.** *Executed.*
+120. **The cube of 5 about its line is its five still selves by twos and by threes: two in order, 5 by 4, twenty threes, a location; three, ten sixes, six geodesic parities living about the line: 60 and 60, the 120 about it.** *Executed.*
 121. **From a cube's corner, 1 of 3 is three edges, up, forward and right; 2 of 3 is six geodesics across three faces; 3 of 3 is its line, its six orders ending at one, a still self: the ten, 3 by 3 and 1.** *Executed; a partner's sayings.*
     - 37, the shell of 4 less 3, is one still self, six threes and three sixes, 1 and 18 and 18, sentence 98's cube of 4 and 3 with 37's own.
 
