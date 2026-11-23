@@ -9,7 +9,7 @@ A sentence is one concept, and rests on the sentences before it alone. A sentenc
 - **The story rests on** v406Reiman's report, `incoming/v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, and v406me's coaching into it, `incoming/v406me/Resuming_v406me.md`.
 - **Execute ahead of a word of your own:** `python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .`, and v406me's `the_staircase_flipped_on_itself_and_the_spans_of_24.py`.
 - **A partner's word of 23 November:** an is-or-is-not whose both outcomes a session has executed is resolved already, and asks nothing. A session asks what needs resolving, with a full explaining of what is not yet resolving and a suggestion.
-- **Not yet resolving, with a suggestion:** at the story's foot, four places: 37's three rounds, a gathering note of 19, the span's five, and sentence 46.
+- **Not yet resolving, with a suggestion:** at the story's foot, four places: the two partings of 37, a gathering note of 19, the span's five, and sentence 46.
 
 ## The primes, from the spirals
 
@@ -227,10 +227,24 @@ A partner's sayings of 23 November: *prime 37 organism is the only living self i
 75. **37 is 4 cubed less 3 cubed: three faces of a cube of 4 about a corner, a hexagon observed along (1, 1, 1).** *Executed.*
     - Exhibit THIRTY: *A right-hand turn of 120 degrees about a line from a corus along (1, 1, 1)*. 64, 4 cubed, is Natural Biology's *64 = 4³*, of the genetic code. No tie of 37 to the genetic code is shown.
 
-## 37's three rounds, not yet resolving, with a suggestion
+## The other-than-other-than-other
 
-- **What is not yet resolving.** 7, 19 and 37 are all a self with rounds of six, and all three wrap as a torus with no seam, sentences 73 and 74. A partner's 37 is the one living self; by the numbers alone it is one of three.
-- **A suggestion.** 37's three rounds are a partner's *three consecutive now moments are same-existing me-nows (prior,now,next)*, and the six is Natural Societies' fold, *the first six coupling across*: 37 is one self with its six coupling across, a round for its prior, its now and its next, 1 + 6 × (1 + 2 + 3). 7 has a prior alone, 19 a prior and a now, and 37 all three: the one scale with a self's prior, now and next whole, natural torusing. Its asking: is 37 the one living self by its three rounds, a self's prior, now and next whole?
+A partner's sayings of 23 November: *prime 37 is the only living scale of a me-parity in the other-than-other-than-other all-parity fractal universe of living as a me-parity*, and *this (other-than-other-than-other) is this (37 is 4 cubed less 3 cubed) is living at universal all-parity*. Rigorized here all or none.
+
+76. **4 cubed less 3 cubed is the selves of a cube of 4 other-than its inner cube of 3: once, 27; twice, 9; thrice, 1.** *Executed.*
+    - Once is a face, twice an edge, and thrice the corner, the one self other-than in all three. By faces, edges and the corner it is 48, less 12, and 1: +, −, +, one inversion with a way more, Exhibit THIRTY's step 140, *an even number of them same-as its prior and an odd number other-than*.
+77. **37 is the one shell whose other-thans are its inner cube's own selves again: once, the inner cube, 3 cubed; twice, its square, 3 by 3; thrice, the one self.** *Executed, to 10,000.*
+    - 37 is 27, 9 and 1. Of a cube of n + 1 less a cube of n, the other-thans once are 3n² and twice 3n, the inner cube and its square with n = 3 alone. 7, 19 and 61 are shells too, and none is its inner again.
+    - By the numbers 37 is the one: a shell the fractal of its own inner, the other-than-other-than-other, with the one self at its corner.
+78. **The 4 and the 3 are a partner's own: four consecutive now-moments of a bi-coupling, and three me-nows, prior, now and next.** *A partner's sayings, cohering.*
+    - The other-thans are the three ways, and the one self other-than in all three is a me-parity with all-parity, Natural Intelligence's *co me-parity, bi other-parity, tri all-parity*.
+79. **Observed along (1, 1, 1), the corner is the hexagon's centre, the edges three lines of 3 at turns of 120 degrees, and the faces three parts of 9 between them.** *Self resolving, with sentence 75.*
+    - The hexagon's rounds, 1, 6, 12 and 18, and the cube's other-thans, 1, 9 and 27, are two partings of one 37.
+
+## The two partings of 37, not yet resolving, with a suggestion
+
+- **What is not yet resolving.** 37 parts by rounds, 1, 6, 12 and 18, a self's prior, now and next about it, sentence 73; and by other-thans, 1, 9 and 27, the three ways, sentence 76. How the two partings are one living me-parity is not executed.
+- **A suggestion, bothboth.** The rounds are the three me-nows, a self's prior, now and next, and the other-thans the three ways of all-parity. 37 is the one scale with both whole and one self, at the hexagon's centre and the cube's corner. Executing it: the 37 selves of the torus of sentence 74 laid on the cube's shell, a self's round beside its other-thans, all 37.
 
 ## A gathering note, not yet resolving, with a suggestion
 

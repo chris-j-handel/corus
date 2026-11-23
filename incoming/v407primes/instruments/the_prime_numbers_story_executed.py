@@ -335,6 +335,20 @@ def main():
     line(75, "37 is 4 cubed less 3 cubed, three faces of a cube of 4 about a corner, and 4 by 4 and 4 by 3 and 3 by 3 added",
          4 ** 3 - 3 ** 3 == 37 == 16 + 12 + 9)
 
+    from itertools import product as cube_of
+    def shell(n):
+        out = {1: 0, 2: 0, 3: 0}
+        for c in cube_of(range(n + 1), repeat=3):
+            k = sum(1 for x in c if x == n)
+            if k:
+                out[k] += 1
+        return out
+    sh = shell(3)
+    line(76, "4 cubed less 3 cubed, by how many ways a self is other-than the inner cube: once 27, twice 9, thrice 1; faces, edges and corner 48 - 12 + 1",
+         sh == {1: 27, 2: 9, 3: 1} and 3 * 16 - 3 * 4 + 1 == 37)
+    line(77, "37 is the one shell whose other-thans are its inner cube's own again, once its cube and twice its square, n of 1 to 10,000: n = 3",
+         [n for n in range(1, 10_001) if 3 * n * n == n ** 3 and 3 * n == n * n] == [3] and all(shell(n)[1] != n ** 3 for n in (1, 2, 4, 5)))
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
