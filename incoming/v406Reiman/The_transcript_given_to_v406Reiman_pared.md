@@ -811,5 +811,21 @@ again start with the progress resolving and be very clear explaining any remaing
 
 this is the same concept you keep bringing up is this endless. yes the method is endless. we already resolved the method is endless and the method is self bounding bothboth. what is remaining in this stepping frame. zoom in to any number is the universe of all possible numbers and the resolving fractal there will be 1-17 and find any other number same. and the between of these two will resonate all the prime crossings
 
-[Forty-fifth turn: resolved already by a partner's word, the method endless and self-bounding; the between of two numbers executed; all of the evening laid in the report and in a new instrument. Its closing words to a partner come here with the next laying.]
+[Forty-fifth turn: resolved already by a partner's word, the method endless and self-bounding; the between of two numbers executed; all of the evening laid in the report and in a new instrument. Its closing words, in brief: one concept, resolved, the method endless and self-bounding; of the world's interests brought nothing remaining; and not all the world's interests gone through.]
+
+search all of math. if there are also natural observings keep them separated from math of primes. is there any remaining interest in the reimann hypothesis. is resolving by triangulating geodesically like in the v406 geodesic 2,   draft 6 is the best so far concept of this.
+
+[Forty-sixth turn: a field's lists searched, two kinds resolved by a partner's words and the Riemann hypothesis's why remaining, its proof being code with no account a person follows; natural observings apart; v406geodesic2's sixth drawing gone through by the cell and answered at the exchange; no tie of the hypothesis's zeros to the cell's 0s executed.]
+
+the hypothesis's zeros to the cell's 0s. explain all the possible reasons you can find that these are not the same. as many as you can see. take them one at a time and the collection will only resolve as each will be natural torusing, no other is possible.
+
+[Forty-seventh turn: twelve reasons found; number 1 inverted, a plane to a path on the primes' torus, a field's own by Bohr.]
+
+this is by doing the inversioning on each of the is nots
+
+[Forty-eighth turn: number 2 inverted, a + with a - to none; with a prime an inversion the parities of a number's parts come to a 0, or to one +.]
+
+continue
+
+[Forty-ninth turn: numbers 3 to 6 inverted, no adding among the primes, rates in no ratio, and the surface; 7 to 12 not inverted; laid in the report and in a new instrument. Its closing words to a partner come here with the next laying.]
 ```

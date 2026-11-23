@@ -120,6 +120,8 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *next time i ask there will be less*
 - *one at a time the hardest first*, with *there is no measuring in nature*
 - *the method is endless and the method is self bounding*, with *the between of these two will resonate all the prime crossings*
+- *explain all the possible reasons you can find that these are not the same*
+- *this is by doing the inversioning on each of the is nots*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -633,6 +635,35 @@ A partner's sayings of 22 November: *one at a time the hardest first*, *there is
 
 **Said plainly.** Of the world's interests brought here one at a time, none remains unresolved by a partner's word. Not all the world's interests in the primes are gone through.
 
+## The hypothesis's zeros beside the cell's 0s
+
+A partner's sayings of 22 November: *explain all the possible reasons you can find that these are not the same*, and *this is by doing the inversioning on each of the is nots*. A reason is an is-not, and its resolving its one inversion. Executed in `the_zeros_beside_the_cells_0s.py`. Nothing is proved, and no tie of the two is shown.
+
+**The reasons found.**
+
+1. The zeros are on a plane, and the cell's 0s on a spiral or a torus.
+2. A zero is a height with all numbers' turns added to nothing, and a cell's 0 one self's giving at a now.
+3. The zeros are of an adding with no last, and the cell has no adding.
+4. A zero's height has no last place, and the cell's 0s are at whole selves and whole moments.
+5. The zeros never come again, and the cell's 0s come again with a turn.
+6. The zeros are of all primes at once, and the cell's 0s executed are with one spiral or with two.
+7. The zeros crowd closer with height, and the cell's 0s do not.
+8. The zeros' sameness with nuclei is a statistics, and the cell's is all or none.
+9. The hypothesis has two kinds of zeros and the cell two ways to a 0, not shown the same two.
+10. The zeros are in one row at the between of nought and one, and the cell's 0 at the between of a prior and its next prior: the two betweens not shown the same.
+11. The zeros are tied to the primes with π and ln, a field's measurings, and the cell has neither.
+12. All zeros in one row is proved by code, with no last, and all the cell's 0s on the co-linear is executed with its twelve cases.
+
+**Inverted, one at a time.**
+
+- **1, a path on the primes' torus.** A field's own, by Bohr: along a row of its plane the hypothesis's function is a path on a torus of circles, one circle a prime's. Executed: a number's turn is its primes' turns, one after another. At the heights of the two lowest zeros all the numbers' turns added come to nothing, and at heights 15 and 20 they do not.
+- **2, a + with a − to none.** With a prime an inversion, Exhibit THIRTY's *an even number of them same-as its prior and an odd number other-than*, the parities of a number's parts come to a 0 with all numbers of 1 to 100,000 but a number multiplied by its own, and to one + with that. A number has the cell's own giving, a 0 or a parity.
+- **3, no adding among the primes.** A field's own, by Euler: the adding over all numbers is a multiplying over the primes, a prime its own round. A number's turn is its primes' turns one after another, and adding a place is written with nand alone. With no last is the method's own.
+- **4 and 5, rates in no ratio.** Two multiplied a times is three multiplied b times with no a and b: the primes' rates are in no ratio, and a path on their torus never comes again. A height with no last place is that. The cell's torus has whole selves, and comes again. Natural Numbers 3.3 has φ as such a rate: *No rate is neared more slowly by rationals than φ*.
+- **6, the surface.** All prime spirals side by side are the surface, executed with 2 to 1,000, and the method opens its next.
+
+**Not inverted yet:** 7 to 12, and the tie itself.
+
 ## Of the sayings' reason
 
 What carries, by the executing:
@@ -664,3 +695,4 @@ What does not carry, by the executing:
 - Wikipedia, *Carmichael's theorem*, *Zsigmondy's theorem*, *Euclid–Mullin sequence* and *Erdős–Szemerédi theorem*, at extracts of them.
 - Wikipedia, *Lucky numbers of Euler*, and the Online Encyclopedia of Integer Sequences, its A000945, at extracts of them.
 - Wikipedia, *Ulam spiral* and *Baillie–PSW primality test*; *From Prime Numbers to Nuclear Physics and Beyond*, a page of the institute at Princeton; and Scientific American, *The 17-Year Itch*, at extracts of them.
+- Hedenmalm, Lindqvist and Seip, *A Hilbert space of Dirichlet series and systems of dilated functions*, arXiv math/9512211, and the pages of 22 November on the proof's checking, at extracts of them.

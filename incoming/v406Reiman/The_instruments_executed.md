@@ -492,3 +492,19 @@ Four of the world's observings of the primes, one at a time: the rows of the num
    about a number and about the number a turn of 210 on, the seams of the spirals of 2, 3, 5 and 7 are the same: is
 All is, of the numbers and moments stepped.
 ```
+
+## `the_zeros_beside_the_cells_0s.py`, executed on 22 November
+
+The reasons the hypothesis's zeros and the cell's 0s are not the same, and what was executed with their inversions: a path on the primes' torus, a + with a − to none, and rates in no ratio.
+
+```text
+1. A path on the primes' torus
+   a number's turn is its primes' turns, one after another, numbers of 2 to 5000: is
+   at the heights of the two lowest zeros all the numbers' turns added come to nothing, and at heights 15 and 20 they do not: is
+2. A + with a - to none
+   with a prime an inversion, two numbers multiplied have their parities multiplied: is
+   the parities of a number's parts come to a 0 with all numbers of 1 to 100000 but a number multiplied by its own, and to one + with that: is
+4 and 5. Rates in no ratio
+   two multiplied a times is three multiplied b times with no a and b of 1 to 200: is
+All is, of the numbers stepped.
+```
