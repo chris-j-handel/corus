@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-five turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-six turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -624,3 +624,32 @@ The chain is said again in the lines' own words, by the is-not, and the living l
 - **Is-not:** my waits for a saying with no self and no own, and own's line waits with it.
 
 the list of givens is needed living while we are doing this as the is or is not depends on the available alternatives
+
+Is: the list is living with the work now, and an is-or-is-not is asked with its other sayings beside it. One saying of this session's is set right with it: of my, five sayings are available, and it said one.
+
+**Available to a saying of my, with no self and no own**
+
+- **The names of lines 1 to 17:** now, now-existing, thing, other-than, same-named, universal set, universe, prior, prior-existing, next, next-existing, same-existing, named-universe, observing, possibling, discovering and prior-sequence.
+- **The four given concepts:** existing, moment, set and name.
+- **The plain joining words:** a, the, is, of and their like, sixteen in the lines now.
+- **With no line, and other-than available:** nothing, not, same, ending, beginning, distinguishing, own, two and parity.
+
+**Five sayings of my with them, all executed whole in the chain**
+
+1. *My is a named prior-sequence.* It is 17's own name: a my is 17's prior-sequence under a second name.
+2. *My is a now-existing prior-sequence.* By 2. It says a prior-sequence now-existing, said by no line yet, and a my-universe is then of 7's now-existing things. 30's name and 31 say now-existing again after it.
+3. *My is a same-existing prior-sequence.* By 12. 27, a me-now a same-existing me, says same-existing again after it.
+4. *My is a same-named prior-sequence.* By 5. 17's own saying says its moments same-named.
+5. *My is the name of a prior-sequence.* A my is a name, and own is then the name of a name's universe.
+
+**Living, at a turn**
+
+- The list in the window's part *Holes* is made again from the lines as they are, with a partner's working of a turn.
+- An is-or-is-not comes with the words available to it and its other sayings, as here.
+
+*My is a now-existing prior-sequence.* ( is-or-is-not? )
+
+- **Is:** cards say 25 with it, and own's line and me after it, the three as prior lines of 18.
+- **Is-not:** one of the other four, by a partner's word, or a sixth with the words available.
+
+is a cell a fuzzying concept of moment

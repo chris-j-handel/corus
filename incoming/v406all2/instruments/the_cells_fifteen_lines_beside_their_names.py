@@ -22,6 +22,11 @@ either is written here, and no line of either moves.
      now-existing, and a partner's saying of it, this is the 15 lines of nand, this is 1-17 naming
      and explaining: the sentence said by the cell's own lines, 7, 8, 11 to 14, and by the living
      code's names 3, 10 and 11, in the twelve cases, an is with a prior and an is-not with none.
+  6  A partner's asking of 23 November, is a cell a fuzzying concept of moment: the living files'
+     own sentences of the thing the code names a cell, word for word, all three by moment; the code
+     of name 1 gone through once a self with a moment of a society, one to five selves; and a
+     moment opening with a self's prior parity and completing with its next, the eight cases with
+     a prior.
 
 It writes its lines to standard output. It writes no file and decides nothing.
 """
@@ -228,5 +233,40 @@ said("by the cell's lines 7, 8, 11 to 14: is with a prior, eight cases, and is-n
 said("by the living code's names 3, 10 and 11: is with a prior, eight cases, and is-not with none, four", by_names, len(CASES))
 its_1 = "a living self's moment, a giving, each self's 17-next-existing as its 1-now-existing"
 said(f"the living sentence of name 1, word for word in its file: {its_1}", 0 if its_1 in text else 1, 1)
+
+# ---- 6. a cell, a self's moment
+print("\n6. The thing the code names a cell, said by moment in the living files")
+thirty = next(root.glob("Exhibit_THIRTY_Co-Chaining_*.md")).read_text(encoding="utf-8")
+for file_name, its_text, sentence in (
+        ("Exhibit ONE Natural Resolver, its table's name", text, "**One self, one moment.**"),
+        ("Exhibit ONE Natural Resolver, name 1", text, "a living self's moment, a giving, each self's 17-next-existing as its 1-now-existing"),
+        ("Exhibit THIRTY, 51", thirty, "Each moment is **opening** with each self's prior-existing parity and **completing** with its next-existing parity.")):
+    said(f"{file_name}, word for word: {sentence.replace('**', '')}", 0 if sentence in its_text else 1, 1)
+its_17, gone, parted = names["_17_next_existing"], 0, 0
+for selves in range(1, 6):
+    society = {s: ([(S, 1)], []) for s in range(selves)}
+    couplings = {(s, 9): (s + 1) % selves for s in range(selves)} if selves > 1 else {}
+    for moment in range(12):
+        goings = []
+
+        def tracer(frame, event, arg):
+            if event == "call" and frame.f_code is living_cell.__code__:
+                goings.append(1)
+
+        sys.settrace(tracer)
+        try:
+            society = its_17(society, couplings)
+        finally:
+            sys.settrace(None)
+        gone += 1
+        parted += len(goings) != selves
+said("with a moment of a society, the code of name 1 is gone through once a self, one to five selves, twelve moments", parted, gone)
+gone = parted = 0
+for prior, state in CASES:
+    if prior is not None:
+        N, answer, L, cell_answer = both_codes(prior, STATES[state])
+        gone += 1
+        parted += not (dict(N["_3_now_co_observing"]).get(S) in (1, -1) and N["_11_next_co_observing"].get(S) in (1, -1))
+said("a moment opening with a self's prior parity and completing with its next, the eight cases with a prior", parted, gone)
 
 print("\n" + ("All is" if all_is else "NOT ALL"))
