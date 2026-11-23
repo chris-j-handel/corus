@@ -270,6 +270,25 @@ A partner's sayings of 23 November: *prime 37 is the only living scale of a me-p
 - **What is not yet resolving.** The span 23 to 19 is a self's five by the numbers, sentence 57. Natural Intelligence's five dimensions are of a same-existing-society to its next: *social-parity now-existing; other-parity now-existing; self-parity now-existing; self-discovery next-existing; social-parity next-existing*, three now and two next. Exhibit THIRTY's self's five is two prior, two now and one next. Which five is a partner's five-dimensional span is not resolved.
 - **A suggestion, bothboth.** One way down, 23 to 19, is a self's five, prior opening to next opening, ending at the living surface. One way up, 19 to 23, is a same-existing-society's five dimensions, its now to its next, ending at the cell. Its asking: is the span one way down a self's five, and one way up the five dimensions?
 
+## Four faces of 30, 0 to 120
+
+A partner's words of 23 November: *all prior explaining that is incohering is a value droplet aiming at do no harm improving that prior explaining*; *my only now interest here is the incoherings in this resolving all there is worth knowing about the primes*; *reimann is supernnatural uninteresting math*; *the step fractal is four faces each 30 along*; *geodesically orienting on surface is the prime unrelationings inside 0-120*; and *four cones of 30 is an all-parity universal now me-parity*.
+
+82. **The step fractal is four faces of 30 along: their places are the turn's eight, the same on all four, and the primes on them are 10, 7, 7 and 6, 30 in all.** *Executed.*
+83. **In 0 to 120 the primes are the numbers uncrossed by 2, 3, 5 and 7: the four faces' places less 7's four crossings, 49, 77, 91 and 119, and less 1, with 2, 3 and 5.** *Executed.*
+    - 7 crosses 7 by 7, 11, 13 and 17, the turn's four places past 1. 121, 11 by 11, is the lowest crossing past 120: the 120 is the span whose primes are known by its own four spirals.
+84. **Oriented geodesically on the four faces, the staircase leads the geodesic, a rise of one face across, 30, for the four faces along, 120, and meets it at 120 for the last time.** *Executed to 1,000,000.*
+    - At the faces' corners, 30, 60, 90 and 120, the staircase is 10, 17, 24 and 30, and the geodesic a quarter of the four. They meet at 96, 100 and 120, and past 120 never: a field has it past 1,000,000, by its smooth curve, the primes fewer than one in four with all numbers.
+    - A partner's *the natural math of interest in the primes fractures at 120*: is, by the staircase and its geodesic.
+85. **The primes flipped about 60, 0 to 120, fit but at the turn's own 2, 3 and 5 and at 7's crossings: 29 with 91, 43 with 77, and 49 with 71.** *Executed.*
+86. **Four cones of 30 are an all-parity universal now me-parity.** *A partner's saying, a figure for v406geodesic2's canvas, not executed here.*
+
+## Incoherings found in this resolving
+
+- **Sentence 61, a value droplet.** It had the 120 as numbers round 120, the turn of 2, 3 and 5 alone, and a partner's *beyond 120 there is no intelligence in the primes* as an is-not, by a row the spiral of 7 bars. In 0 to 120 the spirals are 2, 3, 5 and 7, sentence 83, and 7's barring is the 120's own. Said again: is, with the 120 as the span 0 to 120 and its four spirals, the staircase leaving the geodesic past it, sentence 84.
+- **Two me-parities, a place to cohere.** Sentence 77 has 37 the one living scale of a me-parity, and sentence 86 four cones of 30 an all-parity universal now me-parity. A suggestion, bothboth: the four cones of 30, the 120, are the universal now's me-parity, all-parity, c's; and 37, on the second face, a living self's.
+- **The hypothesis.** By a partner's word it is supernatural math and of no interest here. Sentences 26 to 30 and 69 are value droplets, and the story's interest is the primes in 0 to 120.
+
 ## Sentence 46, not yet resolving, with a suggestion
 
 - **What is not yet resolving.** A crossed quarter turn passing both closings, sentence 46: none found, and a field's asking. By sentence 48 such a number's torus is two tori locked as one, four times one past it a whole number of both their closings.

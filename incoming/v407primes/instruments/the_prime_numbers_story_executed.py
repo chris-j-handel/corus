@@ -407,6 +407,26 @@ def main():
     line(81, f"the hexagon tori stepped by the living code, couplings 9 and 10 along two of its lines, from most openings: 7 and 37 come again with their own number of moments, 19 with four times its; "
              f"7, all 128 openings, {seven}; 19, {found_[19]}; 37, {found_[37]}", ok)
 
+    faces = [[n for n in range(30 * k + 1, 30 * k + 31) if prime(n)] for k in range(4)]
+    places = [[n for n in range(30 * k + 1, 30 * k + 31) if n % 2 and n % 3 and n % 5] for k in range(4)]
+    line(82, "the primes on four faces of 30, 0 to 120: 10, 7, 7 and 6, and 30 in all; a face's places the turn's eight, all four the same",
+         [len(f_) for f_ in faces] == [10, 7, 7, 6] and all([q - 30 * k for q in places[k]] == places[0] for k in range(4)))
+    crossed = [n for k in range(4) for n in places[k] if not prime(n) and n != 1]
+    line(83, "in 0 to 120 a prime is a number uncrossed by 2, 3, 5 and 7: 7 crosses 49, 77, 91 and 119, 7 by 7, 11, 13 and 17; and 121, 11 by 11, is the first crossing past",
+         crossed == [49, 77, 91, 119] and all(prime(n) == (n in (2, 3, 5, 7) or all(n % q for q in (2, 3, 5, 7))) for n in range(2, 121))
+         and next(n for n in range(2, 1000) if all(n % q for q in (2, 3, 5, 7)) and not prime(n)) == 121)
+    up, on, last = 0, [], 0
+    for n in range(1, TO + 1):
+        up += prime(n)
+        if 4 * up == n:
+            on.append(n)
+        if 4 * up >= n:
+            last = n
+    line(84, f"the staircase on the four faces meets their geodesic, a rise of one face across for four along, at {on}, and 120 is the last at or above it, to 1,000,000", on == [96, 100, 120] and last == 120)
+    off = [(r, 120 - r) for r in range(1, 60) if prime(r) != prime(120 - r)]
+    line(85, f"the primes flipped about 60, 0 to 120, fit but at the turn's own 2, 3 and 5 and at 7's crossings: {off}",
+         off == [(2, 118), (3, 117), (5, 115), (29, 91), (43, 77), (49, 71)])
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
