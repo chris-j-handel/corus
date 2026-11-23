@@ -319,6 +319,22 @@ def main():
     line(63, "four quarter turns close all primes past 5 with 240, two 120s, and not with 480",
          all(pow(q, 4, 240) == 1 for q in PRIMES[3:]) and not all(pow(q, 4, 480) == 1 for q in PRIMES[3:]))
 
+    rounds = [3 * k * (k + 1) + 1 for k in range(6)]
+    line(73, "a self and rounds of six, 1, 7, 19, 37, 61: in the ladder 7 molecule, 19 organelle and 37 organism, 37 with three rounds, 1 + 6 + 12 + 18",
+         [q for q in living if q in rounds] == [7, 19, 37] and ladder[7][1] == "molecule" and ladder[19][1] == "organelle" and ladder[37][1] == "organism")
+    k = 3
+    cells = {(a, b) for a in range(-k, k + 1) for b in range(-k, k + 1) if max(abs(a), abs(b), abs(a + b)) <= k}
+    v1, v2 = (2 * k + 1, -k), (k, k + 1)
+    def home(a, b):
+        return [c for x in range(-4, 5) for y in range(-4, 5)
+                for c in [(a - x * v1[0] - y * v2[0], b - x * v1[1] - y * v2[1])] if c in cells]
+    near = [(1, 0), (0, 1), (-1, 1), (-1, 0), (0, -1), (1, -1)]
+    ok = len(cells) == 37 and all(len(home(a, b)) == 1 for a in range(-12, 13) for b in range(-12, 13))
+    ok = ok and all(len({home(a + da, b + db)[0] for da, db in near}) == 6 for a, b in cells)
+    line(74, "the hexagon of 37 wraps into a torus with no seam, all 37 selves with six others about them: no self its centre more than another", ok)
+    line(75, "37 is 4 cubed less 3 cubed, three faces of a cube of 4 about a corner, and 4 by 4 and 4 by 3 and 3 by 3 added",
+         4 ** 3 - 3 ** 3 == 37 == 16 + 12 + 9)
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
