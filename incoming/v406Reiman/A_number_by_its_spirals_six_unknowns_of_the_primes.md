@@ -118,6 +118,8 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *which podaling is 41*, with *the 15 lines of nand code will explain this entirely*
 - *what of interest remains unexplained about the entire stable forming method of primes*
 - *next time i ask there will be less*
+- *one at a time the hardest first*, with *there is no measuring in nature*
+- *the method is endless and the method is self bounding*, with *the between of these two will resonate all the prime crossings*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -614,6 +616,23 @@ A partner's sayings of 22 November: *what of interest remains unexplained about 
 - **The shapes of the surface,** its geodesic and its bi-folding, and a golden figure on it. Not executed, and by v406geodesic2's line none is drawn.
 - **A field's own unknowns as a field asks them.** A frame's asking resolved is no proof, and a field wanting a proof has none of these by this session.
 
+## The world's interests, one at a time
+
+A partner's sayings of 22 November: *one at a time the hardest first*, *there is no measuring in nature*, and *the method is endless and the method is self bounding*. Executed in `one_at_a_time_executed.py`. Nothing is proved.
+
+**Resolved, one at a time.**
+
+- **How many numbers are between a prime and its next.** A field's measuring, and by a partner's word no measuring is in nature. The method is one is-or-is-not a number: with no spiral before it at its seam, a spiral opens with it.
+- **Cicadas with 13 and with 17 years.** By a partner's word, Natural Biology's method. The word cicada is in no living file.
+- **The primes along slanting rows of the number spiral,** a field's observing by Ulam, 1963. With all n, by one turn of a spiral of 2 to 37, the row of n·n + n + 41 is at no seam of them: a row at no seam of the small spirals.
+- **The primes' zeros beside the energy levels of heavy nuclei.** On a torus of two prime spirals coupling across, by the living code, two 0s are side by side at no now: a field's repelling, with no statistics. Natural Intelligence 4.13: *A bounding zero tunnels on*. A field's sameness of spacing past that is its statistics.
+- **The two closings a prime has, a field's asking of 1980.** By a partner's saying, *24 now, 68 next*, the podal pairs of Exhibit ONE's names 2 to 8 about 5 are 4 and 6, 3 and 7, 2 and 8. The two closings are a podal pair about the number, doubling one short of it and prior two added one past it, and one short and one past have no part in both but two. In all ninety-two numbers of no prime that close with doubling, a smaller spiral's prior-two round is no part of one past. It says why the two seldom fail with one number. It does not say never, and a field's own reasoning, by Pomerance, has such numbers far out.
+- **A thing with all numbers.** By a partner's word it is resolved already: the method is endless, and self-bounding.
+
+**A partner's saying of the between.** *the between of these two will resonate all the prime crossings*. Executed: with a prime spiral at its seam with one of two numbers, it is at its seam with the other with it at its seam with their between, and with no other. About a number and about the number a turn on, the seams are the same.
+
+**Said plainly.** Of the world's interests brought here one at a time, none remains unresolved by a partner's word. Not all the world's interests in the primes are gone through.
+
 ## Of the sayings' reason
 
 What carries, by the executing:
@@ -644,3 +663,4 @@ What does not carry, by the executing:
 - Wikipedia, *Legendre's conjecture* and *Baillie–PSW primality test*, at extracts of them.
 - Wikipedia, *Carmichael's theorem*, *Zsigmondy's theorem*, *Euclid–Mullin sequence* and *Erdős–Szemerédi theorem*, at extracts of them.
 - Wikipedia, *Lucky numbers of Euler*, and the Online Encyclopedia of Integer Sequences, its A000945, at extracts of them.
+- Wikipedia, *Ulam spiral* and *Baillie–PSW primality test*; *From Prime Numbers to Nuclear Physics and Beyond*, a page of the institute at Princeton; and Scientific American, *The 17-Year Itch*, at extracts of them.

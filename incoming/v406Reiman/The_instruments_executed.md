@@ -472,3 +472,23 @@ Four places of what remains unexplained: a society of cells deeper than a table 
    the primes of 2 to 59 are seventeen, and sixty is no prime: is
 All is, of the cases and numbers stepped.
 ```
+
+## `one_at_a_time_executed.py`, executed on 22 November
+
+Four of the world's observings of the primes, one at a time: the rows of the number spiral; the 0s on a torus of two prime spirals; the two closings, one short and one past; and the between of two numbers.
+
+```text
+1. The rows of the number spiral
+   with all n, by one turn of a spiral of 2 to 37, n multiplied by its own with n and 41 added is at no seam of them: is
+2. The 0s on a torus of two prime spirals
+   3 by 5, 5 by 7 and 7 by 11 selves, by the living code: two 0s are side by side at no now, and the 0s come again with four moments a self of the smaller spiral: is
+3. The two closings, one short and one past
+   one short of an odd number and one past it have no part in both but two, odd numbers of 3 to 200001: is
+   a prime ending in 3 or 7, to 20000: its doubling round is a part of one short of it, and its prior-two round a part of one past it: is
+   of the numbers of no prime ending in 3 or 7, to 2000000, ninety-two close with doubling and none of them with prior two added: is
+   in all ninety-two, the smaller spirals' doubling rounds are parts of one short, and one smaller spiral's prior-two round is no part of one past: is
+4. The between of two numbers
+   with two numbers of 1 to 299 and a prime spiral at its seam with the one: it is at its seam with the other with it at its seam with their between, and with no other: is
+   about a number and about the number a turn of 210 on, the seams of the spirals of 2, 3, 5 and 7 are the same: is
+All is, of the numbers and moments stepped.
+```
