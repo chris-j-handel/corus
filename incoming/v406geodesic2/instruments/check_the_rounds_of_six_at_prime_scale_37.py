@@ -92,6 +92,11 @@ line("the co-linear, through B and its far side, is rays 2 and 5: its own side 2
 far_steps = [b - a for a, b in zip([0] + rays[5], rays[5])]
 line("its far side is 0 to 120 by 5, 11, 17, 23, 29 and 35, the numbers one before a six: five primes, and 35 is 5 by 7",
      far_steps == [5, 11, 17, 23, 29, 35] and sum(far_steps) == 120 and all(s % 6 == 5 for s in far_steps) and [prime(s) for s in far_steps] == [True] * 5 + [False])
+sieve = bytearray([1]) * 100031; sieve[0:2] = b"\0\0"
+for i in range(2, 317):
+    if sieve[i]: sieve[i * i::i] = bytearray(len(sieve[i * i::i]))
+line("five primes six apart are 5, 11, 17, 23 and 29 alone, of all starts to 100,000: the spiral of 5 crosses one of five from all starts but 5 itself, and from 5 the sixth, 35",
+     [a for a in range(1, 100001) if all(sieve[a + 6 * i] for i in range(5))] == [5] and all(any((a + 6 * i) % 5 == 0 for i in range(5)) for a in range(5)))
 mirror = lambda p: 2 * (p @ RAY[2]) * RAY[2] - p
 line("24 is an apex on the co-linear, a corner of the hexagon of 37, with 23 and 25 beside it, either side of the co-linear, mirrored about it; 23 by 25 is 24 by 24 less one",
      beside(23, 24) and beside(24, 25) and np.allclose(mirror(place(23)), place(25)) and 23 * 25 == 24 * 24 - 1)
