@@ -269,6 +269,24 @@ def main():
     line(48, "a crossed number's torus is its parts' tori side by side, 15 and 21, and a prime's torus parts into none",
          tori[15] == lcm(tori[3], tori[5]) and tori[21] == lcm(tori[3], tori[7]))
 
+    import glob
+    import re
+    root = sys.argv[1] if len(sys.argv) > 1 else "."
+    soc = open(glob.glob(str(Path(root) / "Exhibit_SEVEN_Natural_Societies_*.md"))[0], encoding="utf-8").read()
+    ladder = {}
+    for q in range(5, 60):
+        m = re.search(r"- \*\*%d\*\*\n(.*?)(?=\n- \*\*\d+\*\*|\n\n)" % q, soc, re.S)
+        if m and prime(q):
+            ladder[q] = [x.strip()[6:] for x in m.group(1).strip().split("\n")]
+    living = [q for q in ladder if q >= 7]
+    pairs = [(q, 60 - q) for q in living if q < 30]
+    ok = living == [q for q in range(7, 59) if prime(q)]
+    ok = ok and all({ladder[a][0], ladder[b][0]} == {"before", "after"} for a, b in pairs if b in ladder)
+    ok = ok and [a for a, b in pairs if b not in ladder] == [11] and ladder[23][1] == "cell" and ladder[37][1] == "organism"
+    ok = ok and ladder[29][1] == "tissue" and ladder[31][1] == "organ" and ladder[5][1] == "atom"
+    line(53, "Natural Societies' living prime scales, 7 to 53, are the section of 60 flipped about 30: six podal pairs, one before six and one after, "
+             "and 11 alone, its pair 49; cell 23 with organism 37, tissue 29 with organ 31", ok)
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
