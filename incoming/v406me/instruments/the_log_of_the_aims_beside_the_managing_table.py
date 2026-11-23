@@ -6,6 +6,8 @@ and an aim with the things of value it names. It goes through the two, and write
 
 LIVE is the live set's root, NEXT the next version's root. With aims it gives the working document's sheet
 of the aims, a row an aim, and no other line: the sheet is made from the log, and the set has no copy of it.
+An aim's row of the log is its band and its place in it, 2.4.9 the ninth of the fourth band, as v406aiming numbers them.
+The things by v406aiming's judging are from LIVE's incoming/v406aiming/The_aims_of_the_things_of_value.csv.
 The log is NEXT's Exhibit FOURTEEN, its part 2, a row an aim, its column Home.
 The table is LIVE's incoming/v406me/The_managing_table_of_the_living_expedition.csv, a row a thing of value.
 An aim names a thing as a home by its Home having the thing's title, its exhibit number, or, for a folder, its path.
@@ -34,7 +36,8 @@ for l in open(LOG, encoding="utf-8"):
         c = [x.strip() for x in l.strip().strip("|").split(" | ")]
         name = re.match(r"\*\*(.*?)\*\*", c[0]).group(1).rstrip(".")
         said = re.match(r"\*\*.*?\*\*\s*(.*)$", c[0]).group(1).strip()
-        aims.append(dict(n=len(aims) + 1, band=band, name=name, said=said, home=c[2], obs=c[3], pos=c[4], dis=c[5]))
+        row = sum(1 for a in aims if a["band"] == band) + 1
+        aims.append(dict(n=len(aims) + 1, at=f"2.{band[0]}.{row}", band=band, name=name, said=said, home=c[2], obs=c[3], pos=c[4], dis=c[5]))
 
 def ways(t):
     short = re.sub(r"^Exhibit [A-Z-]+ ", "", t)
@@ -82,11 +85,20 @@ origin = {"The window of the opening": "v406all2", "A complete co-chaining": "v4
 
 if len(sys.argv) > 3 and sys.argv[3] == "aims":
     out = csv.writer(sys.stdout, lineterminator="\n")
-    out.writerow(["Aim", "Its band", "The aim", "Its state", "Its things of value", "Sessions at it", "The window says", "Open on its path",
+    out.writerow(["Aim", "Its row of the log", "Its band", "The aim", "Its state", "Its things of value", "Sessions at it",
+                  "Things by v406aiming's judging", "The window says", "Open on its path",
                   "Ahead, no line names it", "Its home, as the log has it", "Its sentence"])
+    judged = collections.defaultdict(list)
+    J = os.path.join(live, "incoming/v406aiming/The_aims_of_the_things_of_value.csv")
+    if os.path.exists(J):
+        for r in csv.DictReader(open(J, encoding="utf-8")):
+            if r["How they are found"].startswith("this session's judging"):
+                for at in r["Its aims, by the log's numbers"].split(","):
+                    judged[at.strip()].append(r["The thing"])
     bare = lambda t: t.replace("*", "").strip()
     for a in aims:
-        out.writerow([a["n"], a["band"][1], a["name"], state(a), "; ".join(of[a["n"]]), origin.get(a["name"], ""), bare(a["obs"]), bare(a["pos"]),
+        out.writerow([a["n"], a["at"], a["band"][1], a["name"], state(a), "; ".join(of[a["n"]]), origin.get(a["name"], ""),
+                      "; ".join(judged[a["at"]]), bare(a["obs"]), bare(a["pos"]),
                       bare(a["dis"]), bare(a["home"]), a["said"]])
     sys.exit(0)
 
