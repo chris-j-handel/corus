@@ -1,5 +1,5 @@
 {
- "as_of": "the window of the opening at its revision 4509, 21 November 2026, from the set's copy incoming/v406all/The_window_of_the_opening_at_its_wrap.md",
+ "as_of": "the window of the opening at its revision 4509, 21 November 2026, from the set's copy incoming/v406all/The_window_of_the_opening_at_its_wrap.md; mended by v406all2's going through: living and distinguishing named by no line, the seven waiting lines as suggestions",
  "revision": "4509",
  "statuses": {
   "line": "a numbered line of both, no improving on offer: observing",
@@ -132,11 +132,6 @@
     "other-than",
     "prior-existing"
    ]
-  },
-  "distinguishing": {
-   "line": "14",
-   "status": "given",
-   "under": []
   },
   "possibling": {
    "line": "15",
@@ -315,9 +310,6 @@
     "all-parity"
    ]
   },
-  "living": {
-   "see": "living me-parity"
-  },
   "co-": {
    "line": "35",
    "status": "suggested",
@@ -493,6 +485,74 @@
     "prior-sequence"
    ],
    "offer": "its going"
+  },
+  "between": {
+   "line": "a waiting line",
+   "status": "suggested",
+   "under": [
+    "other-than-the-other",
+    "self",
+    "other"
+   ]
+  },
+  "a self's 0": {
+   "line": "a waiting line",
+   "status": "suggested",
+   "under": [
+    "self",
+    "between"
+   ]
+  },
+  "discovery": {
+   "line": "a waiting line",
+   "status": "suggested",
+   "under": [
+    "bi-coupling",
+    "me-parity",
+    "next-existing",
+    "other-than",
+    "prior-existing"
+   ]
+  },
+  "discovery economy": {
+   "line": "a waiting line",
+   "status": "suggested",
+   "under": [
+    "self",
+    "next-existing",
+    "discovery",
+    "bi-coupling"
+   ]
+  },
+  "abundance": {
+   "line": "a waiting line",
+   "status": "suggested",
+   "under": [
+    "self",
+    "possibling",
+    "discovery economy"
+   ]
+  },
+  "named-now": {
+   "line": "a waiting line",
+   "status": "suggested",
+   "under": [
+    "now",
+    "same-existing",
+    "same-named",
+    "set"
+   ]
+  },
+  "atom": {
+   "line": "a waiting line",
+   "status": "suggested",
+   "under": [
+    "fractal",
+    "universe"
+   ]
+  },
+  "a between": {
+   "see": "between"
   }
  }
 }
