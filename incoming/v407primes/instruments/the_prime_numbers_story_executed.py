@@ -480,6 +480,45 @@ def main():
     line(90, f"a walk out from 1 + i on the plane's primes, steps of length squared 2, 4 and 8, is bounded, its farthest at {farthest}: a walk to all distances with them not possibly existing",
          all(v < 140 * 140 for v in farthest.values()))
 
+    from functools import lru_cache
+    from itertools import combinations
+    from math import comb
+    from fractions import Fraction
+    @lru_cache(maxsize=None)
+    def uncrossed_to(x, a):
+        if a == 0 or x == 0:
+            return x
+        return uncrossed_to(x, a - 1) - uncrossed_to(x // PRIMES[a - 1], a - 1)
+    up, by_parities = 0, True
+    for n in range(1, 5001):
+        up += prime(n)
+        a = sum(1 for q in PRIMES if q * q <= n)
+        by_parities = by_parities and (n < 2 or uncrossed_to(n, a) + a - 1 == up)
+    sixteen = sum((-1) ** len(c) * (120 // prod(c)) for k in range(5) for c in combinations((2, 3, 5, 7), k))
+    line(93, f"the staircase exactly by the alternating parities of its spirals' crossings: to 120, 16 terms of 2, 3, 5 and 7, {sixteen} uncrossed and 30 primes; all n to 5,000",
+         sixteen == 27 and by_parities)
+    t_, slope = Fraction(1), []
+    for q in PRIMES[:6]:
+        t_ *= Fraction(q - 1, q)
+        slope.append(t_)
+    line(94, f"the staircase's slope by turns, whole numbers: {[str(x) for x in slope]}", [str(x) for x in slope] == ["1/2", "1/3", "4/15", "8/35", "16/77", "192/1001"])
+    lead4, change = 0, None
+    for q in PRIMES[1:]:
+        lead4 += 1 if q % 4 == 3 else -1
+        if lead4 < 0 and change is None:
+            change = q
+    line(95, f"the race of the two pieces round four: one short of a multiple of four leads, to {change}", change == 26861)
+    own = {}
+    for n in (3, 5, 7, 9, 11):
+        own[n] = sorted({again(n, dict(enumerate(pat))) for pat in all_openings((1, -1), repeat=n)})
+    line(96, f"a prime known by its own openings, by the living code: a spiral of n comes again with 4 and 4n alone from all openings with n a prime: {own}",
+         all((own[n] == [4, 4 * n]) == prime(n) for n in own))
+    line(97, "the geodesics of a square grid, n steps with k across, are a whole number of n for all k but none and all, with n a prime alone, n to 500",
+         all(all(comb(n, k) % n == 0 for k in range(1, n)) == prime(n) for n in range(2, 501)))
+    line(98, "a cube of n about its (1, 1, 1) line is n cubed less n, n's prior, now and next multiplied: 3, 4 and 5 give 24, 60 and 120",
+         all(n ** 3 - n == (n - 1) * n * (n + 1) for n in range(2, 50)) and [n ** 3 - n for n in (3, 4, 5)] == [24, 60, 120]
+         and len([c for c in cube_of(range(5), repeat=3) if not (c[0] == c[1] == c[2])]) == 120)
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 

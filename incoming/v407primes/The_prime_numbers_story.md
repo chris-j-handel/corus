@@ -303,13 +303,39 @@ A partner's words of 23 November: *proving of not possibly existing things is no
     - Its steps are possibly existing: a sum to some terms, a height to some places. And the hypothesis has a saying of whole numbers, sentence 29, the lead of the square's side, all its steps natural and its all the endless method's own.
     - Sentences 84 and 87 say one thing two ways, by a field's smooth curve and by a turn of 210: the natural showing is whole, and the supernatural is not needed.
 
+## The step curve and the smooth curve: the world's interest
+
+A partner's words of 23 November: *i am asking about all the interest outside of our interest in the primes. the entire interest is in the smooth curve in reimann like there is competency in this and not in the step curve where all the comptency is living and alternating parities geodesically*. With them, a partner's word of v406geodesic2's eighth and ninth drawings: *very helpful understandings*.
+
+92. **The world's interest in the primes is in the smooth curve under the staircase: its slope by a logarithm, the hypothesis as the curve's distance from the steps, the zeros as its corrections, the heights it crosses the steps at, and its constants.** *A partner's saying, cohering with a field's.*
+    - A field's: the staircase's smooth curve crosses it far out, with no crossing to beyond ten multiplied by itself nineteen times and no lowest crossing known. That asking is of the smooth curve's own distance from the steps, sentence 91: supernatural.
+93. **The staircase is the alternating parities of its spirals' crossings, whole: to 120, sixteen terms of 2, 3, 5 and 7, a spiral's crossings −, two spirals' +, three −, four +, leave 27 uncrossed, and the staircase is 30.** *Executed with all n to 20,000, and to 5,000 in the instrument; a field's, by Legendre.*
+    - With the spirals below a number's square side, no smooth curve and no list of primes: the step curve's competency, by alternating parities.
+94. **The staircase's slope is a turn's: uncrossed in a turn of 2, 3, 5, 7, 11 and 13, 1/2, 1/3, 4/15, 8/35, 16/77 and 192/1001.** *Executed, whole numbers.*
+    - A field's slope by a logarithm is a turn's ratio with no last turn: the endless method's form installed as one curve, sentence 91.
+95. **The two pieces race on the staircase: primes one short of a multiple of four lead those one past to 26,861.** *Executed; a field's, by Chebyshev, the lead turning at 26,861 by Leech.*
+    - A race of the flips and the quarter turns of sentences 40 and 41, by the steps alone.
+96. **A prime is known by its own openings, by the living code: a spiral of n selves comes again with 4 and 4n alone from all its openings with n a prime.** *Executed with all openings of 3 to 13 selves, and of 3 to 11 in the instrument.*
+    - A crossed number's spiral has openings of a shorter span: 9 comes again with 12, its 3's, by sentence 37. No smaller prime is asked: the interest of sentence 33 is resolved, by a number's own spiral.
+97. **The geodesics of a square grid, n steps with k across, are a whole number of n for all k but none and all, with n a prime alone.** *Executed with n to 1,000, and to 500 in the instrument; a field's.*
+    - A geodesic's steps are an opening, + across and − along; turned along itself n times it comes again with n, a prime having no shorter span: sentence 96 by the grid's geodesics. A field's test of a prime by its own closing, by Agrawal, Kayal and Saxena, 2002, has (x − 1) multiplied by itself n times, its parities alternating.
+98. **120 is five's prior, now and next multiplied, 4 by 5 by 6: the selves of a cube of 5 about its (1, 1, 1) line.** *Executed, with v406geodesic2's eighth drawing.*
+    - A cube of n about its line is n cubed less n: 3, 4 and 5 give 24, the fold, 60, the waist, and 120. The 5 is Natural Societies' atom, its floor and stable form; with a partner's *three consecutive now moments are same-existing me-nows (prior,now,next)*, the 120 is the atom's three me-nows multiplied, and 37, 4 cubed less 3 cubed, a shell of it.
+
+## With v406geodesic2's eighth and ninth drawings
+
+- **The eighth, the cube of 5,** lays the story's rounds of six, 1, 7, 19, 37 and 61, as the cube's five shells, their corners on one line, and 120 about it: sentence 98.
+- **The ninth, four cones of 30 in one line,** lays sentences 82 to 84: the four faces' 10, 7, 7 and 6, and the staircase on its geodesic at 96, 100 and 120. It has *under it past 120, all numbers to 100,000*: with sentence 87 it is under it with all numbers, by one turn of 210, a value droplet for its window.
+- **Two partings of 0 to 120 in four,** found by v406geodesic2: its rounds, ends 0, 24, 60, 96 and 120, primes 9, 8, 7 and 6; and the four faces, ends 0, 30, 60, 90 and 120, primes 10, 7, 7 and 6. Both are podal about 60.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
 - **Shown not possibly existing, by a turn or by stepping:** a row of seven one short and one past six past 5, sentence 10; a row 7 bars past 7, sentence 61; the staircase on its geodesic past 120, sentence 87; a walk to all distances with short steps, sentence 90.
 - **The endless method's own, cohering by a partner's word, *a thing with all numbers*:** pairs two apart with no last, sentence 16; a prime between two squares, sentence 17; an even number as two primes, sentence 19; a walk with all steps, sentence 90. All are executed as far as stepped, and a field's proving of them is not this story's interest.
 - **Let go by a partner's word, supernatural:** the zeros by the living code's cells, sentence 30.
-- **Not resolved, one: a crossed quarter turn passing both closings,** sentences 33 and 46. It is neither shown existing, none to 20,000,000, nor shown not possibly existing. A field's reasoning, by Pomerance, has it existing far out, none found. By sentence 48 it is two tori, a by b, both closings a whole part of four times one past a by b.
+- **Resolved after, sentence 33's interest:** a prime known by its own openings, sentence 96.
+- **Not resolved, one: a crossed quarter turn passing both closings,** sentence 46. It is neither shown existing, none to 20,000,000, nor shown not possibly existing. A field's reasoning, by Pomerance, has it existing far out, none found. By sentence 48 it is two tori, a by b, both closings a whole part of four times one past a by b.
 
 ## Incoherings found in this resolving
 
