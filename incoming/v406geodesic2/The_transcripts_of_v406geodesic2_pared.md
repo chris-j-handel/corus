@@ -130,3 +130,7 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - A partner's yes of the session's sentence, the ten as four rows of one, two, three and four, the all, the self, all-parity and a my. The session said to a partner how it has the yes: is, the fourth row 7, 6, 8, 9 as a partner wrote it.
    - It laid an eighteenth drawing beside the seventeen, with no moving part: the four rows, a multiple of 3 an all, a row with its word and a partner's saying of it. Its check is the six lines of the turn before.
    - It laid a partner's yes in its page, laid this turn's progress in this folder, offered it, and said its line at the exchange.
+24. *rather than my word use all or none at all rigor and be sure of our resolving work bothboth*
+   - A partner's word after the eighteenth drawing. The session has it as: an open sentence is not asked of a partner; its is and its is-not are both executed, all or none.
+   - It executed nine lines, all *is*, of the sentences open from the tenth to the eighteenth drawings: six are both, at two scales or by two observings; the seventeenth's is, and its is-not is not; the eighteenth's is-not, and its is is not.
+   - It laid the rigor in its page, with what is not gone through, laid this turn's progress in this folder, offered it, and said its line at the exchange. No artboard is new with this turn.
