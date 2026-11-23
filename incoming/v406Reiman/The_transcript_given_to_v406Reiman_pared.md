@@ -840,4 +840,32 @@ yes continue this exploring.   notice this possibility for us. we can use two nu
 we are not trying to execute my words. we are trying to have a method of rapidly verifying the proposed proving of the existing in this recent work we started our session discussing. go back to that
 
 [Fifty-second turn, in its words to a partner: back to the proof, code accepted by its checkers and with no why. A method of rapidly verifying said in natural naming: a proof a society of steps, a step one is-or-is-not with its priors, steps with their priors verified all at one moment, layer after layer, and verified all or none. Its files are not in this session's reach and a checker's rules as cells are not written. One sentence for a partner's word: the verifying wanted is the why, and not a faster check of the code.]
+
+we do not care at all about the proof. we only are verifying the claimed answer, not the journey of hard probleiming this. what is the answer to the hypothesis. start with this answer and rapidly show why and ignore the entire subject of proving and verify the proving.
+
+[Fifty-third turn: the answer said with zeros and a row, and a why of four steps by the cell.]
+
+The answer: is. All the hypothesis's zeros, but those at a second number below nought, are in one row, at the between of nought and one. this is unhelpful explaining as none of this is natural naming and explaining. redo this include a hypothesis about the primes and the answer to the hypothesis now claimed by the recent work. make this very all or none at all clear.
+
+[Fifty-fourth turn: the hypothesis said of the primes, a prime an inversion and the lead of a parity of the square's side; the claimed answer, is; and a why of three steps.]
+
+this is not said plainly and it needs to be better than this. there is no clear statement in this about is or is not the proving verified by resolving
+
+[Fifty-fifth turn: is-not, plainly, with the one step missing named.]
+
+phi squared is unrelationing parity from phi +1. the +1 is living and podaling the primes.
+
+[Fifty-sixth turn: corrected, a step is between the two addings and it is exact, the lead at a number by the leads at its smaller scales and its square's side.]
+
+do the inversions from any number and there is only one of that number and all of that is the same one number. take the is-not of It does not, by its own, say. this is nonsense as nothing does anyting in nature on its own and this is a not possibly existing equilibria demand on the living prime scales. find every possible way to say this is-not and all will inversions to is and no other is possible
+
+[Fifty-seventh turn: the inversions done with one number, the lead as the sides of its squares at all its scales; four ways to say the is-not, all coming to one, a 0 with its two sides apart, and the cell giving no such 0.]
+
+why do you keep saying is not executed
+
+[Fifty-eighth turn: its one rule said, is only of what it ran and observed; said once, and not repeated.]
+
+continue to resolve all that is of interest to the world about the reimann hypothesis and the prime numbers and surfaces
+
+[Fifty-ninth turn: the living code run with the primes' parities, a number's parts in pairs of a + with a - giving a 0; all of these turns laid in the report and its instrument. Its closing words to a partner come here with the next laying.]
 ```

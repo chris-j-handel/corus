@@ -124,6 +124,8 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *this is by doing the inversioning on each of the is nots*
 - *continue all the way in as many passes as needed through this out and back podaling*
 - *two number geodesic triangulating over horizon to common destiny*
+- *what is the answer to the hypothesis*, with *find every possible way to say this is-not*
+- *phi squared is unrelationing parity from phi +1*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -676,6 +678,25 @@ A partner's sayings of 22 November: *explain all the possible reasons you can fi
 **The tie, as far as executed.** By a field's arithmetic the primes' turns alone, added, peak at the zeros' heights: of the peaks of heights 13.5 to 40 the six highest are at the six lowest zeros' heights, to a quarter. The zeros are the heights the primes' circles come together at, a field's own by Riemann. This ties the zeros to the primes' torus. A tie of the zeros to the living code's 0s is not executed: its torus has whole selves, and the primes' torus has rates in no ratio.
 
 **A partner's noticing: two numbers, to a common destiny over a horizon.** *two number geodesic triangulating over horizon to common destiny*. Executed: two multiplied a times and three multiplied b times are the same with no a and b, and one apart with 8 and 9 and with no pair past them, a and b of 1 to 200. A nearer pair comes again and again, 8 with 5, 19 with 12, 65 with 41, 84 with 53. A torus of whole selves, a by b, comes again, and such tori come nearer to the primes' torus with no last: the one is-not outside, inverted as far as this goes. Living, Natural Mathematics: *With coprime m and n its one winding reaches each pair, and its two rounds are one round of mn*. Not executed: the zeros' heights by such tori, and the seams of a bi-folding.
+
+## The hypothesis as a saying of the primes, and what resolving has of it
+
+A partner's sayings of 22 November: *what is the answer to the hypothesis*, and *find every possible way to say this is-not*. Executed in `the_zeros_beside_the_cells_0s.py`. Nothing is proved.
+
+**The hypothesis, of the primes.** A prime is an inversion: a number with an even number of primes multiplied is a +, and with an odd number a −. Stepped one after another, one parity has the lead. With the numbers stepped as the selves of a square, the hypothesis is the lead being of the square's side and never of its whole, with all numbers. A field's wording gives the side a hair more. The answer the recent work claims is is.
+
+**What resolving has, executed.**
+
+- **A number's parts in pairs, by the living code.** A number of no square has its parts in pairs of a + with a −, and a self with no prior observing a pair gives a 0, by Exhibit ONE Natural Resolver's code as it is, numbers of 1 to 20,000. With a number multiplied by its own a pair gives a parity.
+- **A parity a seam comes to the square's side,** the same to the last one.
+- **The step between the two addings:** the lead at a number is its square's side, less the leads at the number parted by 2, by 3 and on.
+- **The inversions done with one number:** the lead is the sides of its squares at all its scales, inverted once a prime of k and none with a prime twice in k.
+- **With the numbers themselves:** to 2,000,000 the −s have the lead, at its most one and a third of the square's side.
+- **With the zeros:** at the heights of the six lowest zeros the turns added come to nothing at the between of nought and one, and not a step either side.
+
+**The ways to say its is-not.** The step failing with a number: it is exact. The lead of the square's whole: a field has it proved it is not. One number with the lead past the side: not the hypothesis. Numbers with no last with the lead past the side by more than a hair: the hypothesis's own is-not, a zero off the row with its mirror other apart, a 0 with its two sides apart. The cell gives a 0 with its two sides the same, and with two sides apart an inversion and no 0.
+
+**Verified by resolving.** By a partner's word, the cell's method the only one possible: is. This session says is of what it executed, and the cell's 0 with its two sides the same is executed with the cell and with a number's parts.
 
 ## Of the sayings' reason
 

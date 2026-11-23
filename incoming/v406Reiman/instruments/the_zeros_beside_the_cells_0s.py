@@ -29,6 +29,14 @@ def turns_added(height, to):
     return abs((total + before) / 2)
 
 
+def turns_added_at(between, height, to=200000):
+    total = before = 0j
+    for n in range(1, to + 1):
+        before = total
+        total += (-1) ** (n - 1) * cmath.exp(-complex(between, height) * math.log(n))
+    return abs((total + before) / 2)
+
+
 def its_primes(n):
     found, d = {}, 2
     while d * d <= n:
@@ -147,4 +155,53 @@ if __name__ == "__main__":
     all_is = all_is and one_apart and again
     print(f"   two multiplied a times and three multiplied b times are one apart with 2 and 3, 4 and 3, 8 and 9, and with no other, a and b of 1 to 200: {is_or_is_not(one_apart)}")
     print(f"   a nearer pair comes again and again, a with b: 1 with 1, 3 with 2, 8 with 5, 19 with 12, 65 with 41 and 84 with 53, b of 1 to 60: {is_or_is_not(again)}")
+    print("The hypothesis as a saying of the primes")
+    at_between = all(turns_added_at(0.5, h) < 1e-5 for h in zeros) and all(turns_added_at(b, h) > 1e-2 for h in zeros for b in (0.4, 0.6))
+    wide = 2000000
+    plus, left = bytearray([1]) * (wide + 1), list(range(wide + 1))
+    twice = bytearray(wide + 1)
+    for p in range(2, wide + 1):
+        if left[p] == p:
+            for m in range(p, wide + 1, p):
+                times, r = 0, left[m]
+                while r % p == 0:
+                    r, times = r // p, times + 1
+                    plus[m] ^= 1
+                left[m] = r
+                if times > 1:
+                    twice[m] = 1
+    parity_of = lambda n: 1 if plus[n] else -1
+    lead, leads, most, plus_ahead = 0, [0], 0.0, False
+    for n in range(1, wide + 1):
+        lead += parity_of(n)
+        leads.append(lead)
+        if n > 1:
+            most, plus_ahead = max(most, abs(lead) / math.sqrt(n)), plus_ahead or lead > 0
+    the_lead = most < 4 / 3 + 0.01 and not plus_ahead
+    a_seam = all(sum(parity_of(d) * (x // d) for d in range(1, x + 1)) == math.isqrt(x) for x in (10, 100, 1000, 10000, 99999, 250000))
+    the_step = all(leads[n] == math.isqrt(n) - sum(leads[n // k] for k in range(2, n + 1)) for n in range(1, 3001))
+    one_number = all(leads[n] == sum((0 if twice[k] else parity_of(k)) * math.isqrt(n // k) for k in range(1, n + 1)) for n in range(1, 3001))
+    in_pairs = True
+    for n in range(1, 20001):
+        primes_of_n = its_primes(n)
+        parts = [d for d in range(1, n + 1) if n % d == 0]
+        odd = next((p for p, e in primes_of_n.items() if e % 2), None)
+        for d in parts:
+            if odd is None:
+                other = n // d
+            else:
+                e, a, m = primes_of_n[odd], 0, d
+                while m % odd == 0:
+                    m, a = m // odd, a + 1
+                other = m * odd ** (e - a)
+            if d < other:
+                giving = now([], [(S, parity_of(d)), (S, parity_of(other))])[0]
+                in_pairs = in_pairs and ((giving == [(S, 0)]) if odd is not None else (giving in ([(S, 1)], [(S, -1)])))
+    all_is = all_is and at_between and the_lead and a_seam and the_step and one_number and in_pairs
+    print(f"   by the living code: a number of no square has its parts in pairs of a + with a -, and a self with no prior observing a pair gives a 0; with a number multiplied by its own a pair gives a parity; numbers of 1 to 20000: {is_or_is_not(in_pairs)}")
+    print(f"   a parity a seam, added to a number, comes to the side of its square, the same to the last one, with 10, 100, 1000, 10000, 99999 and 250000: {is_or_is_not(a_seam)}")
+    print(f"   the lead at a number is its square's side, less the leads at the number parted by 2, by 3 and on, numbers of 1 to 3000: {is_or_is_not(the_step)}")
+    print(f"   the lead at a number is the sides of its squares at all its scales, inverted once a prime of k and none with a prime twice in k, numbers of 1 to 3000: {is_or_is_not(one_number)}")
+    print(f"   with the numbers of 1 to {wide}: the -s have the lead, and at its most it is one and a third of the square's side: {is_or_is_not(the_lead)}")
+    print(f"   at the heights of the six lowest zeros the turns added come to nothing at the between of nought and one, and not a step either side of it: {is_or_is_not(at_between)}")
     print("All is, of the numbers stepped." if all_is else "NOT ALL IS.")
