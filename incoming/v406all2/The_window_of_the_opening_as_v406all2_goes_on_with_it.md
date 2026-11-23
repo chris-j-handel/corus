@@ -26,12 +26,13 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, own said again in the lines' own words, and the living list.** A partner's *is-not*, and of this session's *comes in ahead of*: no natural explaining of it. Said again: a line is said with its prior lines' names, and a name is said after its line. By the is-not my is said with no self, *My is a named prior-sequence.*, and own and me are prior lines of 18. A partner's saying: *keep this as a living list*, the words of the lines' sayings named by no prior line. It is in the working document's part *Holes*, and in the part of that name here, made by the instrument at a turn.
 - **On 23 November, the sayings available.** A partner's saying: *the list of givens is needed living while we are doing this as the is or is not depends on the available alternatives*. The words available to a saying are its prior lines' names, the four given concepts and the plain joining words, and an is-or-is-not is asked with its other sayings beside it. For my, with no self and no own, five sayings are laid, all executed whole; this session's saying of one alone is set right.
 - **On 23 November, a cell a fuzzying of moment.** A partner's asking: *is a cell a fuzzying concept of moment*. Gone through: is. The living files name the thing by moment, *One self, one moment.* and *a living self's moment*, and a cell in them is a place of a table; the sessions said the place as a thing. Executed: the code of name 1 is gone through once a self with a moment of a society. Asked of a partner, with the sayings available: a cell a self's moment, and the card 49 away with it.
+- **On 23 November, cell dissolved.** A partner's word: *my concept was we were dissolving cell from our natural naming and explaining except for the same way we use file and branch and sheet and tab. is this not your best option for us*. Is: it is the best of the three sayings, and this session's asking was of an other sentence. The card 49 is away, withdrawn by this session; a self's moment says the thing; cell is a working word alone, a table's cell.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
 ## The lines of both
 
-As the working document says them at its revision 384, on 23 November. Lines 3, 4 and 5 were said again in place by a partner on 22 November, and lines 14, 15, 16, 25, 26, 27, 30, 31 and 33 on 23 November. The others are word for word the window's copy at its revision 4509.
+As the working document says them at its revision 387, on 23 November. Lines 3, 4 and 5 were said again in place by a partner on 22 November, and lines 14, 15, 16, 25, 26, 27, 30, 31 and 33 on 23 November. The others are word for word the window's copy at its revision 4509.
 
 | Sentence | Line |
 | --- | --- |
@@ -217,22 +218,14 @@ A partner's saying of 23 November: *keep this as a living list. words of the lin
 
 ## The floating lines
 
-### After 30
+### After 30, a card away
 
-| Sentence | Line |
-| --- | --- |
-| A **cell** is a same-existing me-parity. *(card)* | 49 |
+The card 49, *A cell is a same-existing me-parity.*, is away from the working document at its revision 387, by a partner's word of 23 November: *my concept was we were dissolving cell from our natural naming and explaining except for the same way we use file and branch and sheet and tab*.
 
-Laid at the working document's revision 73, on 23 November, as *A cell is a same-existing me-parity now-existing.*, with a partner's word: *is*. A partner's saying with it: *this is the 15 lines of nand. this is 1-17 naming and explaining.* Said again by a partner in the card, by the revision 270: now-existing is away from it and is in 30's name.
-
-Its rigor, by its four sides:
-
-- **Back.** Its words reach same-existing, 12, and a me-parity, 30, and by 30 as it is now, now-existing, 2. It is in the form of 27, *Me-now is a same-existing me now-existing.*
-- **Inward.** A cell is a new name of the opening: no line of both and no other card names it. Its sentence is said by prior lines alone.
-- **Forward.** The seventeen names, 38, and a resolving's moment, 40, say the cell's code by its names: 40 opens with 1-now-existing and completes with 17-next-existing.
-- **Outward.** Exhibit ONE Natural Resolver: the cell is the code of name 1, *a living self's moment, a giving, each self's 17-next-existing as its 1-now-existing*; name 1's own slot is co, *co me-parity*; and its table *One self, one moment* is the cell, said in six lines by Natural Naming's 5.44, *surfacing*. Beside the table's cell, Natural Biology names a living cell, *a cell a same-existing-society of molecules*.
-
-Executed, in `instruments/`: the sentence said by the cell's own lines, 8 a prior, 7, 11 and 12 one parity, 13 and 14 a giving and a next, and by the living code's names 3, 10 and 11, is with a prior and is-not with none, all twelve cases. A now of a cell with no prior is same-existing at none, and a now of a cell with a prior at all.
+- **Cell is a working word alone:** a table's cell, as a file, a branch, a sheet and a tab are. Exhibit ONE Natural Resolver says it that way, a place of its table *One self, one moment.*
+- **A self's moment says the thing,** by the given concept moment and a self, 18, as the living files do: *a living self's moment*.
+- **In this session's sayings** from this turn on, a cell is a self's moment. Its pages' rows before this turn say cell as it was said, and its instruments say the code's own name, `a_cell`, v406Reiman's.
+- **One place asked of a partner:** a living thing's cell, Natural Societies' scale at 23, is a third saying of the word in the living files.
 
 ### Prior
 
@@ -365,6 +358,6 @@ For the opening, from the aims: the areas the aims cross most often with no line
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
-7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Waiting too: a partner's word of *A cell is a self's moment.*, the card 49 away with its is.
+7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Cell is dissolved by a partner's word, and a partner's word of a living thing's cell at 23 is asked.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, five of them.

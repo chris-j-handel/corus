@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""A joined name parted by the prior lines, all or none: the opening's lines 1 to 34, the card at 35 and
-the card after 30, as this session's copy of the window says them.
+"""A joined name parted by the prior lines, all or none: the opening's lines 1 to 34 and the card at 35,
+as this session's copy of the window says them.
 
     python3 -I incoming/v406all2/instruments/a_joined_name_parted_by_the_prior_lines.py .
 
@@ -48,7 +48,7 @@ for sentence, n in rows:
         lines[n] = its_saying
     elif n not in lines and n not in cards_after:
         cards_after[n] = its_saying                    # the cards 36 to 48, for a name's later sayings alone
-ORDER = [n for n in range(1, 31)] + [49] + [31, 32, 33, 34, 35]       # the card of a cell is after 30
+ORDER = [n for n in list(range(1, 31)) + [49, 31, 32, 33, 34, 35] if n in lines]   # a card at 49, with one in the page, is after 30
 
 FORMS = {"things": "thing", "selves": "self", "others": "other", "parities": "parity", "sequences": "sequence",
          "mes": "me", "sets": "set", "moments": "moment", "names": "name"}
@@ -235,7 +235,7 @@ for label, the_order in (("own's line a prior line of 25", [n for n in ORDER if 
                          ("own's line after 26", [n for n in ORDER if n <= 26 and n != 49] + [OWN] + [n for n in ORDER if n > 26 or n == 49])):
     found = words_given(with_own, the_order)[None]
     print(f"   the lines as they are, {label}: own named by no prior line at {found.get('own', [])}, my at {found.get('my', [])}")
-REST = [27, 28, 29, 30, 49, 31, 32, 33, 34, 35]
+REST = [n for n in (27, 28, 29, 30, 49, 31, 32, 33, 34, 35) if n in lines]
 for label, sayings, the_order, shown in (
         ("by a partner's is-not, my said with 17 alone: 1 to 17, my, own, me, 18 to 24, 27 to 35", by_is_not,
          list(range(1, 18)) + [25, OWN, 26] + list(range(18, 25)) + REST, (25, OWN, 26, 18)),

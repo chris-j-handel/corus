@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-six turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-seven turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -653,3 +653,41 @@ Is: the list is living with the work now, and an is-or-is-not is asked with its 
 - **Is-not:** one of the other four, by a partner's word, or a sixth with the words available.
 
 is a cell a fuzzying concept of moment
+
+Is, by the living files' own sentences and by the session's word of fuzzying: a going-on said as a thing.
+
+**The living files name it by moment**
+
+- Exhibit ONE Natural Resolver's table is *One self, one moment.*
+- Its name 1, the code the sessions call a cell, is *a living self's moment, a giving, each self's 17-next-existing as its 1-now-existing*.
+- Exhibit THIRTY's 51 is *Each moment is opening with each self's prior-existing parity and completing with its next-existing parity.*
+
+**A cell in the living files is a place of a table**
+
+- In Exhibit ONE a cell is a place of that table: a prior with a surfacing.
+- The sessions said the place as a thing, with a prior and a giving of its own: v406Reiman's code, this session at the most places, and the card 49.
+
+**Executed**
+
+- With a moment of a society, the code of name 1 is gone through once a self: all.
+- A moment opens with a self's prior parity and completes with its next: all eight cases with a prior.
+
+**Available to the card's saying**
+
+- The names of lines 1 to 30, the four given concepts, moment among them, and the plain joining words.
+- Three sayings with them:
+  1. No card. A self's moment is said by moment and a self, 18.
+  2. *A cell is a self's moment.* The card stays, a second name of it.
+  3. *A cell is a same-existing me-parity.* The card as it is.
+
+**Laid**
+
+- A row in the window's tab *Concepts*, a reply at line 30, and a line at the exchange.
+- A part more in this session's instrument, ending *All is*. The living list is as it was: no line moved at this turn.
+
+*A cell is a self's moment.* ( is-or-is-not? )
+
+- **Is:** moment says it with a self, and the card 49 is away. No line names a cell.
+- **Is-not:** a cell is a name of its own, and the card says it as it does, or by a partner's word as the second saying.
+
+my concept was we were dissolving cell from our natural naming and explaining except for the same way we use file and branch and sheet and tab. is this not your best option for us
