@@ -133,4 +133,18 @@ if __name__ == "__main__":
     tied = all(abs(peak - zero) < 0.25 for peak, zero in zip(sorted(h for _, h in peaks), zeros))
     all_is = all_is and tied
     print(f"   the primes' turns alone, added, primes and their powers to {to}: of its peaks of heights 13.5 to 40 the six highest are at the six lowest zeros' heights, to a quarter: {is_or_is_not(tied)}")
+    print("Two numbers, to a common destiny over a horizon")
+    from fractions import Fraction
+    one_apart = sorted((2 ** a, 3 ** b) for a in range(1, 201) for b in range(1, 201) if abs(2 ** a - 3 ** b) == 1) == [(2, 3), (4, 3), (8, 9)]
+    nearer, nearest = [], None
+    for b in range(1, 61):
+        a = min(range(b, 2 * b + 1), key=lambda a: abs(2 ** a - 3 ** b))
+        apart = Fraction(abs(2 ** a - 3 ** b), 3 ** b)
+        if nearest is None or apart < nearest:
+            nearest = apart
+            nearer.append((a, b))
+    again = nearer == [(1, 1), (3, 2), (8, 5), (19, 12), (65, 41), (84, 53)]
+    all_is = all_is and one_apart and again
+    print(f"   two multiplied a times and three multiplied b times are one apart with 2 and 3, 4 and 3, 8 and 9, and with no other, a and b of 1 to 200: {is_or_is_not(one_apart)}")
+    print(f"   a nearer pair comes again and again, a with b: 1 with 1, 3 with 2, 8 with 5, 19 with 12, 65 with 41 and 84 with 53, b of 1 to 60: {is_or_is_not(again)}")
     print("All is, of the numbers stepped." if all_is else "NOT ALL IS.")

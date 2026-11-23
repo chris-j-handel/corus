@@ -123,6 +123,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *explain all the possible reasons you can find that these are not the same*
 - *this is by doing the inversioning on each of the is nots*
 - *continue all the way in as many passes as needed through this out and back podaling*
+- *two number geodesic triangulating over horizon to common destiny*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -673,6 +674,8 @@ A partner's sayings of 22 November: *explain all the possible reasons you can fi
 - **12, an all closed, and an all with no last.** The cell's twelve cases are its all, closed. The zeros' all is the endless method's, by a partner's word.
 
 **The tie, as far as executed.** By a field's arithmetic the primes' turns alone, added, peak at the zeros' heights: of the peaks of heights 13.5 to 40 the six highest are at the six lowest zeros' heights, to a quarter. The zeros are the heights the primes' circles come together at, a field's own by Riemann. This ties the zeros to the primes' torus. A tie of the zeros to the living code's 0s is not executed: its torus has whole selves, and the primes' torus has rates in no ratio.
+
+**A partner's noticing: two numbers, to a common destiny over a horizon.** *two number geodesic triangulating over horizon to common destiny*. Executed: two multiplied a times and three multiplied b times are the same with no a and b, and one apart with 8 and 9 and with no pair past them, a and b of 1 to 200. A nearer pair comes again and again, 8 with 5, 19 with 12, 65 with 41, 84 with 53. A torus of whole selves, a by b, comes again, and such tori come nearer to the primes' torus with no last: the one is-not outside, inverted as far as this goes. Living, Natural Mathematics: *With coprime m and n its one winding reaches each pair, and its two rounds are one round of mn*. Not executed: the zeros' heights by such tori, and the seams of a bi-folding.
 
 ## Of the sayings' reason
 
