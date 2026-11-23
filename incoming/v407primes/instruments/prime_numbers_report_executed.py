@@ -20,6 +20,7 @@ ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()
 HERE = Path(__file__).resolve().parent
 
 SECTIONS = {
+    "The seven parts' openings, a method a turn of the prime cascade, a right spiral opening": [100, 101, 102],
     "1.4 A prime, no smaller spiral at its seam": [5],
     "2.1 A staircase, one up at a prime and across at a crossed number": [5],
     "2.2 A turn, spirals side by side coming again together": [6, 14, 16],
@@ -45,6 +46,7 @@ SECTIONS = {
     "6.2 Scales podal about 30 and about the fold": [53, 56],
     "6.3 A living span, 23 to 19, and its living surface": [55],
     "6.5 37, one living self, and c, one all-parity": [73, 74, 76, 77],
+    "7.1 Natural math, all the possibly existing": [87, 100, 102],
     "7.2 Shown not possibly existing": [10, 11, 61, 87, 90],
     "7.3 One asking open": [46],
 }

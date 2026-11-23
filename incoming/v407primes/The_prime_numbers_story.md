@@ -348,11 +348,11 @@ A partner's sayings of 23 November: *ONE Universal Method, TWO Numbering Method,
 102. **A right spiral opening of seven steps, a quarter turn a step: four steps a round, the 5th, 6th and 7th facing as the 1st, 2nd and 3rd, a round outward, and the 4th closing the round.** *Executed; living already.*
     - Exhibit THIRTY: *a right spiral opening on to each next*, and its step 119, *four reach their pair again with a next*. The universal method faces as the naming and explaining method, the numbering method as the geodesic discovering, and the same-existing as the natural intelligence fractal, a round out: from a me's now-existing universe outward. The *do-no-harm improving* method, the 4th, closes the round, four quarter turns reaching their pair again, a 0 its giving.
 
-## Seven methods, not yet resolving, with a suggestion
+## Seven methods, a method a turn
 
-- **What is not yet resolving.** Seven methods, seven primes and seven turns, sentences 99 to 101, and which method is which prime's turn is not resolved.
-- **A suggestion, a method a turn in order.** The universal method, 2, one place, a me; the numbering method, 6, two places, a number two moments; the same-existing method, 30, eight places, a turn its own inversion; the *do-no-harm improving* method, 210, the spiral of 7 crossing in 0 to 120 and the fracture past it; the naming and explaining method, 2,310; the geodesic discovering method, 30,030; and the natural intelligence fractal method, 510,510, of 2 to 17. Its asking: is a method a turn, in order, the seventh at 17?
-- **A word of the names.** *Universal method*, *do-no-harm improving*, *geodesic discovering* and *fractal method* are living already; *numbering method*, *same-existing method* and *naming and explaining method* are a partner's new names. The words instrument has *improving* as no name of resolving, and the Living File Registry has *do-no-harm improving* as a living name.
+- **A partner's word of 23 November on the suggestion, a method a turn in order, the seventh at 17:** *yes continue this*. The universal method, the turn of 2; the numbering method, 6; the same-existing method, 30; the *do-no-harm improving* method, 210; the naming and explaining method, 2,310; the geodesic discovering method, 30,030; and the natural intelligence fractal method, 510,510, of 2 to 17.
+- **With the same word,** the report's seven parts are named as the seven methods, a part opening with its method's turn, its sections as they were.
+- **A word of the names.** *Universal method*, *do-no-harm improving*, *geodesic discovering* and *fractal method* are living already; *numbering method*, *same-existing method* and *naming and explaining method* are a partner's new names. The words instrument has *improving* as no name of resolving, and the Living File Registry has *do-no-harm improving* as a living name: the report has it in italics, as the registry's own.
 
 ## All the interests, by their standing
 

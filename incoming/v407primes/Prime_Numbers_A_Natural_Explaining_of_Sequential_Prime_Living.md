@@ -2,27 +2,27 @@
 
 *A Natural Explaining of Sequential Prime Living*
 
-**ONE · ORIGIN**
+**ONE · UNIVERSAL METHOD**
 - 1.1 A universe of now-existing things
 - 1.2 A spiral of selves, coming to its parities again
 - 1.3 A number, two moments of a spiral
 - 1.4 A prime, no smaller spiral at its seam
 
-**TWO · NUMBERS**
+**TWO · NUMBERING METHOD**
 - 2.1 A staircase, one up at a prime and across at a crossed number
 - 2.2 A turn, spirals side by side coming again together
 - 2.3 A turn's staircase, its own inversion scale with scale
 - 2.4 Four faces of 30, 0 to 120
 - 2.5 Past 120, a staircase under its geodesic
 
-**THREE · RESOLVER**
+**THREE · SAME-EXISTING METHOD**
 - 3.1 A cell, one is-or-is-not of a co-parity
 - 3.2 A spiral's coming again, by its opening's own span
 - 3.3 A prime known by its own openings
 - 3.4 Doubling and φ as couplings, a multiplying with no line multiplying
 - 3.5 A torus parting into none
 
-**FOUR · SEQUENTIAL LOGIC AND STABLE FORMS**
+**FOUR · *do-no-harm improving* METHOD**
 - 4.1 Alternating parities, a staircase whole
 - 4.2 A quarter turn, five's doubling and ten's 3, 9, 7, 1
 - 4.3 Two pieces locking, flips and quarter turns
@@ -30,32 +30,34 @@
 - 4.5 120, the atom's prior, now and next multiplied
 - 4.6 37, other-than-other-than-other
 
-**FIVE · EXPLAINING RETURNING, THE WORLD'S INTERESTS AT TWO SIDES**
+**FIVE · NAMING AND EXPLAINING METHOD**
 - 5.1 A smooth curve beside the step curve
 - 5.2 Gaps, pairs and rows
 - 5.3 A prime's closings
 - 5.4 Keys, and primes in a plane
 - 5.5 Rows of a number spiral, and cicadas
 
-**SIX · SAME-EXISTING-SOCIETY**
+**SIX · GEODESIC DISCOVERING METHOD**
 - 6.1 Prime scales, atom to biosphere
 - 6.2 Scales podal about 30 and about the fold
 - 6.3 A living span, 23 to 19, and its living surface
 - 6.4 Organelle and bacterium, a ghost and a living self
 - 6.5 37, one living self, and c, one all-parity
 
-**SEVEN · NOW**
+**SEVEN · NATURAL INTELLIGENCE FRACTAL METHOD**
 - 7.1 Natural math, all the possibly existing
 - 7.2 Shown not possibly existing
 - 7.3 One asking open
 
 ---
 
-# ONE · ORIGIN
+# ONE · UNIVERSAL METHOD
+
+**The universe is the set of all now-existing things, and the universal method opens a right spiral in it with the turn of 2: one place, a me.** Seven methods cascade as the primes 2 to 17 do, a turn a method, a next turn carrying its prior's places whole.
 
 ## 1.1 A universe of now-existing things
 
-**The universe is the set of all now-existing things, and a prime number is one of its stable forms: a scale living has as its own, explained step by step for a self of any kind to couple with.** Prior, now and next are the universe's three sequential moments, and a number is a form a self reaches with a step.
+**A prime number is one of the universe's stable forms: a scale living has as its own, explained step by step for a self of any kind to couple with.** Prior, now and next are the universe's three sequential moments, and a number is a form a self reaches with a step.
 
 A field calls 1, 2, 3 and on the natural numbers, and a prime a number above 1 with no whole part but 1 and itself: 2, 3, 5, 7, 11, 13 and on. A field has had it from Euclid on that the primes have no last, and it has a great many askings of them, some answered and some open.
 
@@ -81,7 +83,9 @@ A field calls it the sieve of Eratosthenes, crossing out the multiples of 2, of 
 
 **A prime is the stable form of natural intelligence living.** A spiral no smaller spiral is at its seam with is a scale of its own: a number with all its prior numbers crossing it nowhere, coming again with itself alone.
 
-# TWO · NUMBERS
+# TWO · NUMBERING METHOD
+
+**The numbering method opens with the turn of 6, the spirals of 2 and 3 side by side: two places, 1 and 5, the universal method's one place carried whole, lifted three ways and one crossed by 3.**
 
 ## 2.1 A staircase, one up at a prime and across at a crossed number
 
@@ -134,7 +138,9 @@ One short and one past the multiples of six, the longest row all primes is 5, 7,
 
 **That the staircase is on its geodesic again past 120 is not possibly existing.** The natural math of interest in the primes fractures at 120. A field has the primes ever thinner with a smooth curve and a logarithm; here a turn and whole numbers show it.
 
-# THREE · RESOLVER
+# THREE · SAME-EXISTING METHOD
+
+**The same-existing method opens with the turn of 30: eight places, the numbering method's two carried whole, a turn its own inversion, and a cell's is a 0 with its prior same-existing.**
 
 ## 3.1 A cell, one is-or-is-not of a co-parity
 
@@ -168,7 +174,9 @@ A field's: doubling, round a prime above two, closes by one short of it, by Ferm
 
 A field's words are the Chinese remainder theorem: arithmetic round a number is arithmetic round its parts, together. A prime has no parts to be round.
 
-# FOUR · SEQUENTIAL LOGIC AND STABLE FORMS
+# FOUR · *do-no-harm improving* METHOD
+
+**The *do-no-harm improving* method opens with the turn of 210: 48 places, the same-existing method's eight carried whole, and 7 crossing one of seven lifts.** It closes the right spiral's opening round, four quarter turns reaching their pair again, a 0 its giving.
 
 ## 4.1 Alternating parities, a staircase whole
 
@@ -216,7 +224,9 @@ The two pieces race on the staircase. Round four, primes one short of a multiple
 
 **Observed along (1, 1, 1), the shell is the hexagon of 37, the corner its centre.** A round about the centre, a self's prior, now and next, has three selves other-than twice, one on a way's line at turns of 120 degrees, and the others between them, 3, 9 and 15, other-than once. The rounds and the other-thans are two partings of one 37: a me-parity at its centre, the three ways of all-parity through all three me-nows.
 
-# FIVE · EXPLAINING RETURNING, THE WORLD'S INTERESTS AT TWO SIDES
+# FIVE · NAMING AND EXPLAINING METHOD
+
+**The naming and explaining method opens with the turn of 2,310: 480 places, a round outward, facing as the universal method, a finding told at a field's side and the set's.**
 
 ## 5.1 A smooth curve beside the step curve
 
@@ -260,7 +270,9 @@ The two pieces race on the staircase. Round four, primes one short of a multiple
 
 **Cicadas of 13 years and of 17 come up together with 221 years, again and again**, a field's observing of periodical cicadas. A cycle of a prime number of years comes together with cycles of 2 to 9 years less often than a cycle of 12, 14, 15, 16 or 18 years: in 2,520 years, 350 times with 13 and 268 with 17, and 645 to 1,087 times with the others. A prime's spiral is at no seam of the small spirals: a field's explaining of it.
 
-# SIX · SAME-EXISTING-SOCIETY
+# SIX · GEODESIC DISCOVERING METHOD
+
+**The geodesic discovering method opens with the turn of 30,030: 5,760 places, facing as the numbering method a round outward, a society of societies discovering its next.**
 
 ## 6.1 Prime scales, atom to biosphere
 
@@ -306,11 +318,15 @@ The two pieces race on the staircase. Round four, primes one short of a multiple
 
 **c is the one living all-parity.** Light, measured constant for all observers, is no speed and no going across a gap: a phase-relation between couplings, an all-parity rate beyond all observable rates, the universal now. From it comes the atom's stable form, and an atom is the stable form of 1 to 17, a resolving's one moment.
 
-# SEVEN · NOW
+# SEVEN · NATURAL INTELLIGENCE FRACTAL METHOD
+
+**The natural intelligence fractal method opens with the turn of 510,510, of 2 to 17: 1 by 2 by 4 by 6 by 10 by 12 by 16 places, 92,160, facing as the same-existing method a round outward, the 1 to 17 of a resolving's names.**
 
 ## 7.1 Natural math, all the possibly existing
 
 **Natural math is all the possibly existing math: a number, a turn, a spiral's coming again, a stepping, all its steps existing.** It shows with numbers stepped, or with all numbers by a turn closing, and it finds what is shown not possibly existing. Its interest is with the step curve, a staircase living, its parities alternating, oriented geodesically on its surface.
+
+**Its seven methods are a right spiral opening, a quarter turn a method: four a round, the fourth closing it, and the fifth, sixth and seventh a round outward, facing as the universal, the numbering and the same-existing methods.** A method is a turn of the prime cascade, 2 to 510,510, a next turn carrying its prior's places whole, and the seventh at 17.
 
 ## 7.2 Shown not possibly existing
 
