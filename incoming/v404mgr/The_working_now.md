@@ -129,7 +129,8 @@ A partner gives a session its work. These four kinds worked in the three days be
 | The working windows, and the next projects | `incoming/v406me/The_working_windows_and_the_next_projects.md` |
 | The primes report, and the cell by nand alone | `incoming/v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, its droplets for a session beginning at its foot; the cell, `incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`; coaching into it, `incoming/v406me/Resuming_v406me.md` |
 | Improving in the gathering files, a place as it was and as it is | `incoming/v406me/The_released_words_of_the_notes_re-said_a_place_as_it_was_and_as_it_is.md` |
-| The news of the working windows, a session with its last line | `incoming/v406me/The_news_of_the_working_windows.md` |
+| The managing table: all the expedition's value in rows, the living at its top and the artifact the farthest down | among this account's artifacts, *The managing table of the living expedition*; its copy, `incoming/v406me/The_managing_table_of_the_living_expedition.csv` |
+| The news of the working windows, of 22 November, behind the managing table | `incoming/v406me/The_news_of_the_working_windows.md` |
 | The opportunities to begin improving, the valuables and the incoming scanned | `incoming/v406me/The_opportunities_to_begin_improving_the_valuables_and_the_incoming_scanned.md`, with its two tables beside it |
 | What a session resumes from | `incoming/v406me/What_the_six_sessions_resume_from.md` |
 | The working documents, their copies | a session's own folder; the other account's, as a partner gave them on 21 November, in `incoming/v406me/working_documents_as_a_partner_gave_them/` |
