@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """The prime numbers story, executed: each sentence of the story that numbers can execute.
 
-Usage:  python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py
+Usage:  python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .
 
 With whole numbers alone, by a partner's word of 23 November: no smooth curve, no logarithm and
 no decimal measuring. The numbers here are crossed by numbers' own dividing. v406Reiman's
@@ -10,8 +10,14 @@ Natural Resolver's code as it is. Nothing is proved: a line here says is of the 
 
 It writes its lines to standard output. It writes no file, reaches no network and decides nothing.
 """
+import random
+import re
 import sys
 from math import isqrt, prod
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "v406Reiman" / "instruments"))
+from resolver_as_it_is import moments_again, opening, resolver, spiral_couplings, exhibit_spiral_priors  # noqa: E402
 
 TO = 1_000_000
 crossed = bytearray(TO + 1)
@@ -47,6 +53,11 @@ def parts(n):
             n //= p
         p += 1
     return found + ([n] if n > 1 else [])
+
+
+def ladder_fold(text):
+    m = re.search(r"- \*\*24\*\*\n(.*?)(?=\n- \*\*\d+\*\*|\n\n)", text, re.S)
+    return bool(m) and "the fold" in m.group(1)
 
 
 def main():
@@ -184,6 +195,193 @@ def main():
 
     line(28, "primes evenly apart, as many in a row as asked: seven, 7 to 907 by 150; ten, 199 to 2089 by 210",
          all(prime(7 + 150 * k) for k in range(7)) and all(prime(199 + 210 * k) for k in range(10)))
+
+    # A partner's 120, bothboth: by Exhibit ONE Natural Resolver's code as it is.
+    names, _ = resolver(sys.argv[1] if len(sys.argv) > 1 else ".")
+    step = names["_17_next_existing"]
+    again = lambda n, pri: moments_again(step, opening(range(n), pri), spiral_couplings(n))[1]
+    line(36, "a self alone, by the living code, comes again with 4 moments: the quarter turn's four", again(1, {0: 1}) == 4)
+    random.seed(23)
+    odd = all(again(n, exhibit_spiral_priors(n)) == 4 * n for n in (3, 5, 7, 9, 11, 15))
+    even = all(again(n, {i: random.choice((1, -1)) for i in range(n)}) == 2 * n for n in (4, 8, 10, 24, 30, 60))
+    line(37, "by the living code an odd spiral comes again with four times its selves, and an even spiral opened other than all inverting with twice", odd and even)
+    c = {**{(("a", i), 9): ("a", (i + 1) % 15) for i in range(15)}, **{(("b", i), 9): ("b", (i + 1) % 4) for i in range(4)}}
+    pri = {**{("a", i): (-1 if i % 2 == 0 else 1) for i in range(15)}, **{("b", i): v for i, v in enumerate((1, 1, -1, 1))}}
+    line(38, "a partner's 120: a spiral of 60 selves comes again with 120 moments, and a spiral of 15 beside a spiral of 4, one society, with 120",
+         again(60, {i: random.choice((1, -1)) for i in range(60)}) == 120 and moments_again(step, opening(list(pri), pri), c)[1] == 120)
+    line(39, "numbers' own quarter turn: five's doubling 2, 4, 3, 1, and ten's 3, 9, 7, 1, two quarter turns one short of five and of ten",
+         [pow(2, k, 5) for k in range(1, 5)] == [2, 4, 3, 1] and [pow(3, k, 10) for k in range(1, 5)] == [3, 9, 7, 1])
+    U = [r for r in range(1, 120) if r % 2 and r % 3 and r % 5]
+    flips, quarters = [r for r in U if r * r % 120 == 1], [r for r in U if r * r % 120 == 49]
+    line(40, "in 120 the uncrossed numbers are two pieces of 16, squared 1 or 49, and four quarter turns close all",
+         len(flips) == len(quarters) == 16 and all(pow(r, 4, 240) == 1 for r in U))
+    line(41, "a prime ending in 1 or 9 is a flip, and ending in 3 or 7 a quarter turn, primes 7 to 1,000,000",
+         all((p * p % 120 == 1) == (p % 10 in (1, 9)) for p in PRIMES[3:]))
+    line(42, "a quarter turn, 7, lays the flips onto the quarter turns, and two lay them back: the two pieces lock",
+         sorted(7 * r % 120 for r in flips) == quarters and sorted(49 * r % 120 for r in flips) == flips)
+    from math import gcd
+    def closes_all(m, k):
+        return all(pow(x, k, m) == 1 for x in range(1, m) if gcd(x, m) == 1)
+    line(43, "two multiplyings close all uncrossed numbers with 24 at the widest, and four with 240",
+         max(m for m in range(2, 2000) if closes_all(m, 2)) == 24 and max(m for m in range(2, 2000) if closes_all(m, 4)) == 240)
+
+    def doubling_lengths(n):
+        seen, lengths = set(), set()
+        for i in range(1, n):
+            if i not in seen:
+                j, k = i, 0
+                while j not in seen:
+                    seen.add(j)
+                    j, k = 2 * j % n, k + 1
+                lengths.add(k if j == i else -1)
+        return lengths
+    ok = all(len(doubling_lengths(p)) == 1 and (p - 1) % next(iter(doubling_lengths(p))) == 0 for p in PRIMES[1:] if p < 10_000)
+    lying = [n for n in range(9, 10_001, 2) if not prime(n) and len(doubling_lengths(n)) == 1]
+    stepped = True
+    random.seed(5)
+    for q, length in ((7, 3), (11, 10), (13, 12), (23, 11)):
+        cq = {(i, 9): 2 * i % q for i in range(q)}
+        a = moments_again(step, opening(range(q), {i: random.choice((1, -1)) for i in range(q)}), cq)[1]
+        stepped = stepped and a == (4 * length if length % 2 else 2 * length)
+    ok = ok and stepped
+    line(44, f"doubling as couplings round a prime steps spirals of one length, one short of the prime a whole number of them, primes to 10,000, and the living code steps them with no line multiplying, round 7, 11, 13 and 23; "
+             f"crossed numbers with one length to 10,000: {lying}", ok and lying == [2047, 3277, 4033, 8321])
+
+    def phi_closing(n):
+        x, y, k = 0, 1, 0
+        while True:
+            x, y, k = y, (x + y) % n, k + 1
+            if (x, y) == (0, 1):
+                return k
+    def phis_piece(n):
+        return (n - 1) % phi_closing(n) == 0 if n % 10 in (1, 9) else (2 * (n + 1)) % phi_closing(n) == 0
+    line(45, "phi's pair step on a torus round a prime closes by one short of it as a flip, and by twice one past it as a quarter turn, primes 7 to 20,000",
+         all(phis_piece(p) for p in PRIMES[3:] if p < 20_000))
+    both = [n for n in range(9, 30_001, 2) if n % 5 and not prime(n) and len(doubling_lengths(n)) == 1 and phis_piece(n)]
+    line(46, "a crossed number with doubling's one length and phi's closing of its piece, to 30,000: none", both == [])
+
+    from math import lcm
+    random.seed(45)
+    def phis_torus(n):
+        sel = [(x, y) for x in range(n) for y in range(n)]
+        cn = {((x, y), 9): (y, (x + y) % n) for x, y in sel}
+        return moments_again(step, opening(sel, {v: random.choice((1, -1)) for v in sel}), cn, most=5000)[1]
+    tori = {n: phis_torus(n) for n in (3, 5, 7, 9, 11, 13, 15, 19, 21)}
+    pieces = lambda n: 2 * (n - 1) if n % 10 in (1, 9) else 4 * (n + 1)
+    ok = all(tori[n] == 2 * phi_closing(n) and pieces(n) % tori[n] == 0 for n in (7, 11, 13, 19))
+    ok = ok and all(pieces(n) % tori[n] for n in (9, 21))
+    line(47, "phi's couplings on a torus of n by n selves, stepped by the living code, come again with twice phi's closing, "
+             "a prime's piece's closing a whole number of it round 7, 11, 13 and 19, and not round 9 and 21", ok)
+    line(48, "a crossed number's torus is its parts' tori side by side, 15 and 21, and a prime's torus parts into none",
+         tori[15] == lcm(tori[3], tori[5]) and tori[21] == lcm(tori[3], tori[7]))
+
+    import glob
+    import re
+    root = sys.argv[1] if len(sys.argv) > 1 else "."
+    soc = open(glob.glob(str(Path(root) / "Exhibit_SEVEN_Natural_Societies_*.md"))[0], encoding="utf-8").read()
+    ladder = {}
+    for q in range(5, 60):
+        m = re.search(r"- \*\*%d\*\*\n(.*?)(?=\n- \*\*\d+\*\*|\n\n)" % q, soc, re.S)
+        if m and prime(q):
+            ladder[q] = [x.strip()[6:] for x in m.group(1).strip().split("\n")]
+    living = [q for q in ladder if q >= 7]
+    pairs = [(q, 60 - q) for q in living if q < 30]
+    ok = living == [q for q in range(7, 59) if prime(q)]
+    ok = ok and all({ladder[a][0], ladder[b][0]} == {"before", "after"} for a, b in pairs if b in ladder)
+    ok = ok and [a for a, b in pairs if b not in ladder] == [11] and ladder[23][1] == "cell" and ladder[37][1] == "organism"
+    ok = ok and ladder[29][1] == "tissue" and ladder[31][1] == "organ" and ladder[5][1] == "atom"
+    line(53, "Natural Societies' living prime scales, 7 to 53, are the section of 60 flipped about 30: six podal pairs, one before six and one after, "
+             "and 11 alone, its pair 49; cell 23 with organism 37, tissue 29 with organ 31", ok)
+
+    U24 = [q for q in range(1, 24) if q % 2 and q % 3]
+    line(54, "at the fold, 24, all its uncrossed numbers are their own podal by multiplying, 1, 5, 7, 11, 13, 17, 19 and 23",
+         all(q * q % 24 == 1 for q in U24) and ladder_fold(soc))
+    line(55, "23, 22, 21, 20 and 19 are 24 less a self's five, 1 to 5: 19 and 23 living scales, and 20, 21 and 22 crossed",
+         [24 - k for k in range(1, 6)] == [23, 22, 21, 20, 19] and prime(19) and prime(23) and not any(prime(n) for n in (20, 21, 22)))
+    named = {1: ("after", "the origin"), **{q: (ladder[q][0], ladder[q][1]) for q in ladder}}
+    ok = all({named[a][0], named[24 - a][0]} == {"before", "after"} for a in (1, 5, 7, 11))
+    ok = ok and [(named[a][1], named[24 - a][1]) for a in (1, 5, 7, 11)] == [
+        ("the origin", "cell"), ("atom", "organelle"), ("molecule", "gene"), ("macromolecule", "protein-fold")]
+    line(56, "below the fold the scales are podal about it: the origin with cell, atom with organelle, molecule with gene, macromolecule with protein-fold, "
+             "one before six and one after", ok)
+
+    U120 = [q for q in range(120) if q % 2 and q % 3 and q % 5]
+    line(60, "all primes past 5 to 1,000,000 are on the 32 places of 120, and all 32 places have primes",
+         all(q % 120 in U120 for q in PRIMES[3:]) and all(any(prime(n) for n in range(q, TO, 120)) for q in U120))
+    row = (0, 4, 6, 10, 12, 16, 22)
+    allowed = [q for q in U120 if all((q + d) % 2 and (q + d) % 3 and (q + d) % 5 for d in row)]
+    found = [n for n in range(2, TO - 22) if all(prime(n + d) for d in row)]
+    line(61, f"the row {row}: the 120 leaves it uncrossed from {allowed[:3]} and more, and the spiral of 7 crosses one of its seven places from all starts; all primes once, from 7: {found}",
+         len({d % 7 for d in row}) == 7 and allowed and found == [7])
+    found5 = [n for n in range(2, TO - 18) if all(prime(n + d) for d in (0, 2, 6, 8, 12, 14, 18))]
+    line(62, f"one scale before: the row 5 to 23 one short and one past six, the spiral of 5 crossing one of its seven from all starts; all primes once, from 5: {found5}",
+         len({d % 5 for d in (0, 2, 6, 8, 12, 14, 18)}) == 5 and found5 == [5])
+    line(63, "four quarter turns close all primes past 5 with 240, two 120s, and not with 480",
+         all(pow(q, 4, 240) == 1 for q in PRIMES[3:]) and not all(pow(q, 4, 480) == 1 for q in PRIMES[3:]))
+
+    rounds = [3 * k * (k + 1) + 1 for k in range(6)]
+    line(73, "a self and rounds of six, 1, 7, 19, 37, 61: in the ladder 7 molecule, 19 organelle and 37 organism, 37 with three rounds, 1 + 6 + 12 + 18",
+         [q for q in living if q in rounds] == [7, 19, 37] and ladder[7][1] == "molecule" and ladder[19][1] == "organelle" and ladder[37][1] == "organism")
+    k = 3
+    cells = {(a, b) for a in range(-k, k + 1) for b in range(-k, k + 1) if max(abs(a), abs(b), abs(a + b)) <= k}
+    v1, v2 = (2 * k + 1, -k), (k, k + 1)
+    def home(a, b):
+        return [c for x in range(-4, 5) for y in range(-4, 5)
+                for c in [(a - x * v1[0] - y * v2[0], b - x * v1[1] - y * v2[1])] if c in cells]
+    near = [(1, 0), (0, 1), (-1, 1), (-1, 0), (0, -1), (1, -1)]
+    ok = len(cells) == 37 and all(len(home(a, b)) == 1 for a in range(-12, 13) for b in range(-12, 13))
+    ok = ok and all(len({home(a + da, b + db)[0] for da, db in near}) == 6 for a, b in cells)
+    line(74, "the hexagon of 37 wraps into a torus with no seam, all 37 selves with six others about them: no self its centre more than another", ok)
+    line(75, "37 is 4 cubed less 3 cubed, three faces of a cube of 4 about a corner, and 4 by 4 and 4 by 3 and 3 by 3 added",
+         4 ** 3 - 3 ** 3 == 37 == 16 + 12 + 9)
+
+    from itertools import product as cube_of
+    def shell(n):
+        out = {1: 0, 2: 0, 3: 0}
+        for c in cube_of(range(n + 1), repeat=3):
+            k = sum(1 for x in c if x == n)
+            if k:
+                out[k] += 1
+        return out
+    sh = shell(3)
+    line(76, "4 cubed less 3 cubed, by how many ways a self is other-than the inner cube: once 27, twice 9, thrice 1; faces, edges and corner 48 - 12 + 1",
+         sh == {1: 27, 2: 9, 3: 1} and 3 * 16 - 3 * 4 + 1 == 37)
+    line(77, "37 is the one shell whose other-thans are its inner cube's own again, once its cube and twice its square, n of 1 to 10,000: n = 3",
+         [n for n in range(1, 10_001) if 3 * n * n == n ** 3 and 3 * n == n * n] == [3] and all(shell(n)[1] != n ** 3 for n in (1, 2, 4, 5)))
+
+    shell37 = [c for c in cube_of(range(4), repeat=3) if max(c) == 3]
+    onto = {(x - y, y - z, z - x): (x, y, z) for x, y, z in shell37}
+    by_round = {}
+    for hx, c in onto.items():
+        r_ = max(abs(v) for v in hx)
+        by_round.setdefault(r_, {1: 0, 2: 0, 3: 0})[sum(1 for v in c if v == 3)] += 1
+    line(80, "observed along (1, 1, 1) the 37 of the shell are the 37 of the hexagon one to one, the corner its centre; a round of it has three selves other-than twice, one on a way's line, and 3, 9 and 15 other-than once",
+         len(onto) == 37 and onto[(0, 0, 0)] == (3, 3, 3) and by_round == {0: {1: 0, 2: 0, 3: 1}, 1: {1: 3, 2: 3, 3: 0}, 2: {1: 9, 2: 3, 3: 0}, 3: {1: 15, 2: 3, 3: 0}})
+    def hex_torus(k):
+        cl = sorted({(a, b) for a in range(-k, k + 1) for b in range(-k, k + 1) if max(abs(a), abs(b), abs(a + b)) <= k})
+        w1, w2, cset = (2 * k + 1, -k), (k, k + 1), set(cl)
+        def hm(a, b):
+            return next(c for x in range(-4, 5) for y in range(-4, 5)
+                        for c in [(a - x * w1[0] - y * w2[0], b - x * w1[1] - y * w2[1])] if c in cset)
+        return cl, {**{((a, b), 9): hm(a + 1, b) for a, b in cl}, **{((a, b), 10): hm(a, b + 1) for a, b in cl}}
+    from itertools import product as openings_of
+    cl7, ch7 = hex_torus(1)
+    seven = {}
+    for pat in openings_of((1, -1), repeat=7):
+        m7 = moments_again(step, opening(cl7, dict(zip(cl7, pat))), ch7)[1]
+        seven[m7] = seven.get(m7, 0) + 1
+    random.seed(80)
+    found_ = {}
+    for k, tries in ((2, 20), (3, 20)):
+        cl, ch = hex_torus(k)
+        found_[len(cl)] = {}
+        for _ in range(tries):
+            m_ = moments_again(step, opening(cl, {v: random.choice((1, -1)) for v in cl}), ch, most=4000)[1]
+            found_[len(cl)][m_] = found_[len(cl)].get(m_, 0) + 1
+    ok = seven == {4: 2, 7: 126} and set(found_[19]) <= {2, 76} and set(found_[37]) <= {2, 37, 148}
+    ok = ok and max(found_[37], key=found_[37].get) == 37 and max(found_[19], key=found_[19].get) == 76
+    line(81, f"the hexagon tori stepped by the living code, couplings 9 and 10 along two of its lines, from most openings: 7 and 37 come again with their own number of moments, 19 with four times its; "
+             f"7, all 128 openings, {seven}; 19, {found_[19]}; 37, {found_[37]}", ok)
 
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
