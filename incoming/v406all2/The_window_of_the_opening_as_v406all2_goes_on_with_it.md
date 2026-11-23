@@ -22,6 +22,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, the circle and the names.** A partner took the card at 15 in, and lines 14 to 16 are one form. A partner's saying: *the me and self is circular with all living and the names are too many in 25-31*. Gone through: is, the circle at three places, own, a self of selves, and living; and the names, three of them said by one later line or none. A way by a prior line is offered, own as 5's same-named, in the part *The me and self circular*.
 - **On 23 November, a partner's working of 25, 26 and 27.** A partner said the three again, with self-named for a self's own and *the name of* away. Gone through: all three of prior lines alone; own in four lines still, 18, 22, 23 and 28; self-named a second saying at 26; me-now said by 30's name alone. Cards at 22 and 23 say self-named for own, and a saying of 18 by 5 and 17 is offered.
 - **On 23 November, a partner's working again.** 25 and 26 are said with own-named, and the cards at 22 and 23 are away by a partner's hand. Gone through: the circle of a self and a my is open, 25 saying no self; own is named by no line and is in six lines, 18, 22, 23, 25, 26 and 28. Asked of a partner: own as a given word.
+- **On 23 November, own into the chain.** A partner's saying: *own is the name of my universe*, with four given concepts alone, existing, moment, set and name. Gone through: as the lines are it closes a circle of two, own and my; it enters the chain whole in one way found, a self said with no own, my a self's, then own and me, ahead of 22. The words named by no prior line and none of the four are listed, nine of them, own among them as the lines are.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -130,6 +131,22 @@ A partner's saying of 23 November: *the me and self is circular with all living 
 - **Parts.** Own is named by no line, and six lines say it: 18, 22, 23, 25, 26 and 28. 25 and 26 hang on own as 30 hangs on parity and 35 on of. 26 says own-named a second saying, a my own-named by 25.
 - **As it was.** My is said by 26 alone, me-now by 30's name alone, and a cell by no later line.
 - **Asked of a partner:** own as a given word, with existing, moment, set and name.
+
+**A partner's saying of own, by the revision 384.** *own is the name of my universe. rigorize this into our chain if possible and have only four given concepts. existing, moment, set and name*. Gone through with the instrument's parts 5 and 6.
+
+- **As the lines are, it closes a circle of two.** Own is said by my-universe, and my, 25, is said by own-named. With own's line ahead of 25, its my is named by no prior line; with it after 26, the own of 18, 22, 23, 25 and 26 is.
+- **It enters the chain whole in one way found,** with three sayings and their order. A self is said with no own, by 5 and 17. My is a self's, as a partner said it at the revision 358. Own is a partner's saying. Me is as it is. My, own and me come in ahead of 22.
+
+| Sentence | Its place |
+| --- | --- |
+| A named **self** is a now-existing thing same-named with a prior-sequence. | at 18 |
+| **My** is a self-named prior-sequence. | at 25 |
+| **Own** is the name of my-universe. | at 50 |
+| **Me** is an own-named my-universe. | at 26 |
+
+- **Executed, the chain offered,** in the order 1 to 21, my, own, me, 22 to 24, 27 and on: the lines saying own, 26, 22, 23 and 28, are all after its line, and own and my are named by prior lines at all their sayings.
+- **The other way:** my ahead of a self, by 17 alone. A my is then 17's prior-sequence under a second name.
+- **Four given concepts.** With existing, moment, set and name alone given, the instrument's part 5 lists the words of the lines' sayings named by no prior line: nothing, at 3; not, at 4; same, at 4 and 5; ending and beginning, at 8, 10, 12 and 17; distinguishing, at 14 to 16, 22 to 24 and 28; own, at 18, 22, 23, 25, 26 and 28; two, at 28; and parity, at 30. Other-than is said at 3, ahead of its line, 4. In the chain offered own is away from them.
 
 ## The floating lines
 
@@ -281,6 +298,6 @@ For the opening, from the aims: the areas the aims cross most often with no line
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
-7. A partner's lines of 23 November: a partner's word of own as a given word; then parity by itself, a line ahead of 30; then 35 said again with no *is of*.
+7. A partner's lines of 23 November: a partner's word of a self ahead of a my, the chain offered for own; then the words named by no line and none of the four given, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, five of them.
