@@ -187,3 +187,15 @@ for p in product(range(1, 6), repeat=3):
 print("  the cube of 5 from its line: ones", sorted(lv[1]), "| threes, two still selves in order:",
       len(lv[3]), "= 5 x 4 | sixes, three still selves:", len(lv[6]), "= 5 x 4 x 3 / 6 |",
       "1 x 5 + 3 x 20 + 6 x 10 =", 5 + 60 + 60)
+
+# A partner's saying: 19 x 19 inside the tunnel, 61 outside, the smooth limits of the method.
+from math import gcd as _g
+units120 = [r for r in range(120) if _g(r, 30) == 1]
+sq = sorted({r * r % 120 for r in units120})
+D = 3 ** 2 * 7 ** 2 * 11 ** 2 * 13 ** 2
+print("\nSquares of all uncrossed places round 120 fold to", sq, "| 19 x 19 round 120:", 19 * 19 % 120,
+      "| 61 = 60 + 1, name 17 | 22,021 = 19 x 19 x 61 round 120:", 22021 % 120, "round 4:", 22021 % 4)
+print("  Descartes: square part round 120", D % 120, "| its odd prime part 22,021, one past 4's:",
+      22021 % 4 == 1, "| ghosts passing both closings round 120:",
+      [x % 120 for x in (2757241, 6368689, 9863461)], "| quarter turns at 1, 49 or 61:",
+      [r for r in (1, 49, 61) if r * r % 120 == 49])

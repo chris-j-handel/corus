@@ -91,3 +91,7 @@ A partner's sayings of 23 November: *1 of 3 is (1x3 ) this is location on a surf
 - **37, the shell of 4 less 3.** One still self at (4, 4, 4), six threes and three sixes: 1 and 18 and 18. *Executed.*
 
 **Resolved by a partner's yes, story sentences 119 to 121.** *Five dimensions of surface.* The cube of 5 has five still selves on its line, its sixes living about them; a partner's five of an earlier saying, a span of 23, 22, 21, 20 and 19, is the story's span's five, not yet resolving. The five a sixes' orienting lives about is the line's five still selves, the cube of 5's own; the cube of 5 is its five by ones, by twos in order and by threes, 5, 20 threes and 10 sixes. *Executed.*
+
+## The ghost column at the method's smooth limits
+
+By a partner's saying of 23 November, story sentences 122 to 124: inside the tunnel, squares folding to 1 and 49 round 120, and outside, 61, a next 1, are the method's smooth limits; all ghosts seen, Descartes' 22,021 = 19 by 19 by 61 and the three crossed numbers passing both closings at 1, 49 and 61 round 120, sit at them. The odd perfect number's form is the two limits, a square by one prime part at 1 round 4. Sentence 46's asking is a ghost on the geodesic surface. *Suggestion: the ghost column's standing is at the smooth limits.*

@@ -430,6 +430,16 @@ A partner's sayings of 23 November: *1 of 3 is (1x3 ) this is location on a surf
 121. **From a cube's corner, 1 of 3 is three edges, up, forward and right; 2 of 3 is six geodesics across three faces; 3 of 3 is its line, its six orders ending at one, a still self: the ten, 3 by 3 and 1.** *Executed; a partner's sayings.*
     - 37, the shell of 4 less 3, is one still self, six threes and three sixes, 1 and 18 and 18, sentence 98's cube of 4 and 3 with 37's own.
 
+## The smooth limits of the method, and the ghosts at them
+
+A partner's saying of 23 November: *19x19 is inside the tunnel geodesic smooth surfacing and 61 is outside geodesic smooth surfacing. these are the smooth limits of the method as all-parity is odd even now and prior on this entire geodesic surface*.
+
+122. **Squares of all uncrossed places round 120 fold to 1 and 49, inside the tunnel, and 19 by 19 is 1 round 120; 61, 60 and 1, is name 17, outside the pair of cones, a next 1: the method's smooth limits, the geodesic surface between them all-parity, odd and even, prior and now.** *Executed; a partner's saying.*
+123. **Descartes' ghost is the two limits multiplied: its crossed part 22,021 is 19 by 19, inside, by 61, outside, at 61 round 120 and at 1 round 4; an odd perfect number's form is the same, a square by one prime part at 1 round 4, sentence 114.** *Executed.*
+124. **The crossed numbers known passing both closings sit at 1, 49 and 61 round 120, the limits alone; a crossed quarter turn, sentence 46's asking, is at none of them, on the geodesic surface.** *Executed with the three known.*
+
+**Not yet resolving, with a suggestion.** All ghosts seen sit at the smooth limits; sentence 46's asking is a ghost on the geodesic surface, and a field's reasoning, by Pomerance, has such ghosts existing far out, none found. A suggestion: the ghost column's standing is *at the smooth limits*, a number of the inside and the outside standing as a prime; a ghost on the surface, if it exists past all horizons, is the supernatural part, shown and let go.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
