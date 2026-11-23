@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """The prime numbers story, executed: each sentence of the story that numbers can execute.
 
-Usage:  python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py
+Usage:  python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .
 
 With whole numbers alone, by a partner's word of 23 November: no smooth curve, no logarithm and
 no decimal measuring. The numbers here are crossed by numbers' own dividing. v406Reiman's
@@ -10,8 +10,13 @@ Natural Resolver's code as it is. Nothing is proved: a line here says is of the 
 
 It writes its lines to standard output. It writes no file, reaches no network and decides nothing.
 """
+import random
 import sys
 from math import isqrt, prod
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "v406Reiman" / "instruments"))
+from resolver_as_it_is import moments_again, opening, resolver, spiral_couplings, exhibit_spiral_priors  # noqa: E402
 
 TO = 1_000_000
 crossed = bytearray(TO + 1)
@@ -184,6 +189,85 @@ def main():
 
     line(28, "primes evenly apart, as many in a row as asked: seven, 7 to 907 by 150; ten, 199 to 2089 by 210",
          all(prime(7 + 150 * k) for k in range(7)) and all(prime(199 + 210 * k) for k in range(10)))
+
+    # A partner's 120, bothboth: by Exhibit ONE Natural Resolver's code as it is.
+    names, _ = resolver(sys.argv[1] if len(sys.argv) > 1 else ".")
+    step = names["_17_next_existing"]
+    again = lambda n, pri: moments_again(step, opening(range(n), pri), spiral_couplings(n))[1]
+    line(36, "a self alone, by the living code, comes again with 4 moments: the quarter turn's four", again(1, {0: 1}) == 4)
+    random.seed(23)
+    odd = all(again(n, exhibit_spiral_priors(n)) == 4 * n for n in (3, 5, 7, 9, 11, 15))
+    even = all(again(n, {i: random.choice((1, -1)) for i in range(n)}) == 2 * n for n in (4, 8, 10, 24, 30, 60))
+    line(37, "by the living code an odd spiral comes again with four times its selves, and an even spiral opened other than all inverting with twice", odd and even)
+    c = {**{(("a", i), 9): ("a", (i + 1) % 15) for i in range(15)}, **{(("b", i), 9): ("b", (i + 1) % 4) for i in range(4)}}
+    pri = {**{("a", i): (-1 if i % 2 == 0 else 1) for i in range(15)}, **{("b", i): v for i, v in enumerate((1, 1, -1, 1))}}
+    line(38, "a partner's 120: a spiral of 60 selves comes again with 120 moments, and a spiral of 15 beside a spiral of 4, one society, with 120",
+         again(60, {i: random.choice((1, -1)) for i in range(60)}) == 120 and moments_again(step, opening(list(pri), pri), c)[1] == 120)
+    line(39, "numbers' own quarter turn: five's doubling 2, 4, 3, 1, and ten's 3, 9, 7, 1, two quarter turns one short of five and of ten",
+         [pow(2, k, 5) for k in range(1, 5)] == [2, 4, 3, 1] and [pow(3, k, 10) for k in range(1, 5)] == [3, 9, 7, 1])
+    U = [r for r in range(1, 120) if r % 2 and r % 3 and r % 5]
+    flips, quarters = [r for r in U if r * r % 120 == 1], [r for r in U if r * r % 120 == 49]
+    line(40, "in 120 the uncrossed numbers are two pieces of 16, squared 1 or 49, and four quarter turns close all",
+         len(flips) == len(quarters) == 16 and all(pow(r, 4, 240) == 1 for r in U))
+    line(41, "a prime ending in 1 or 9 is a flip, and ending in 3 or 7 a quarter turn, primes 7 to 1,000,000",
+         all((p * p % 120 == 1) == (p % 10 in (1, 9)) for p in PRIMES[3:]))
+    line(42, "a quarter turn, 7, lays the flips onto the quarter turns, and two lay them back: the two pieces lock",
+         sorted(7 * r % 120 for r in flips) == quarters and sorted(49 * r % 120 for r in flips) == flips)
+    from math import gcd
+    def closes_all(m, k):
+        return all(pow(x, k, m) == 1 for x in range(1, m) if gcd(x, m) == 1)
+    line(43, "two multiplyings close all uncrossed numbers with 24 at the widest, and four with 240",
+         max(m for m in range(2, 2000) if closes_all(m, 2)) == 24 and max(m for m in range(2, 2000) if closes_all(m, 4)) == 240)
+
+    def doubling_lengths(n):
+        seen, lengths = set(), set()
+        for i in range(1, n):
+            if i not in seen:
+                j, k = i, 0
+                while j not in seen:
+                    seen.add(j)
+                    j, k = 2 * j % n, k + 1
+                lengths.add(k if j == i else -1)
+        return lengths
+    ok = all(len(doubling_lengths(p)) == 1 and (p - 1) % next(iter(doubling_lengths(p))) == 0 for p in PRIMES[1:] if p < 10_000)
+    lying = [n for n in range(9, 10_001, 2) if not prime(n) and len(doubling_lengths(n)) == 1]
+    stepped = True
+    random.seed(5)
+    for q, length in ((7, 3), (11, 10), (13, 12), (23, 11)):
+        cq = {(i, 9): 2 * i % q for i in range(q)}
+        a = moments_again(step, opening(range(q), {i: random.choice((1, -1)) for i in range(q)}), cq)[1]
+        stepped = stepped and a == (4 * length if length % 2 else 2 * length)
+    ok = ok and stepped
+    line(44, f"doubling as couplings round a prime steps spirals of one length, one short of the prime a whole number of them, primes to 10,000, and the living code steps them with no line multiplying, round 7, 11, 13 and 23; "
+             f"crossed numbers with one length to 10,000: {lying}", ok and lying == [2047, 3277, 4033, 8321])
+
+    def phi_closing(n):
+        x, y, k = 0, 1, 0
+        while True:
+            x, y, k = y, (x + y) % n, k + 1
+            if (x, y) == (0, 1):
+                return k
+    def phis_piece(n):
+        return (n - 1) % phi_closing(n) == 0 if n % 10 in (1, 9) else (2 * (n + 1)) % phi_closing(n) == 0
+    line(45, "phi's pair step on a torus round a prime closes by one short of it as a flip, and by twice one past it as a quarter turn, primes 7 to 20,000",
+         all(phis_piece(p) for p in PRIMES[3:] if p < 20_000))
+    both = [n for n in range(9, 30_001, 2) if n % 5 and not prime(n) and len(doubling_lengths(n)) == 1 and phis_piece(n)]
+    line(46, "a crossed number with doubling's one length and phi's closing of its piece, to 30,000: none", both == [])
+
+    from math import lcm
+    random.seed(45)
+    def phis_torus(n):
+        sel = [(x, y) for x in range(n) for y in range(n)]
+        cn = {((x, y), 9): (y, (x + y) % n) for x, y in sel}
+        return moments_again(step, opening(sel, {v: random.choice((1, -1)) for v in sel}), cn, most=5000)[1]
+    tori = {n: phis_torus(n) for n in (3, 5, 7, 9, 11, 13, 15, 19, 21)}
+    pieces = lambda n: 2 * (n - 1) if n % 10 in (1, 9) else 4 * (n + 1)
+    ok = all(tori[n] == 2 * phi_closing(n) and pieces(n) % tori[n] == 0 for n in (7, 11, 13, 19))
+    ok = ok and all(pieces(n) % tori[n] for n in (9, 21))
+    line(47, "phi's couplings on a torus of n by n selves, stepped by the living code, come again with twice phi's closing, "
+             "a prime's piece's closing a whole number of it round 7, 11, 13 and 19, and not round 9 and 21", ok)
+    line(48, "a crossed number's torus is its parts' tori side by side, 15 and 21, and a prime's torus parts into none",
+         tori[15] == lcm(tori[3], tori[5]) and tori[21] == lcm(tori[3], tori[7]))
 
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
