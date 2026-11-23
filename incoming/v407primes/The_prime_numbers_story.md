@@ -378,6 +378,19 @@ A partner's saying of 23 November: *this is a more complete understanding of the
     - A surface's parities are its horizon's triangulating, the primes to its side, sentence 103, and the newborn me-universes beyond it, a number inverted once by one of them. The lead is their alternating, and the hypothesis is that it stays of the horizon.
     - A partner's saying: is, a more complete understanding, with whole numbers and the horizon of sentences 103 to 105. Nothing is proved here, and the field's proving is its own register.
 
+## The cell's lines, φ's rate and the stepping never ending away
+
+A partner's sayings of 23 November: *the 15 lines of nand code is the phi unrelationing rates of the prime stepping to the smooth prime curving zeta function*, and *the fractal method and phi rate unrelationing are the proving that the stepping is never ending away from the zeta fuction during prime scale living in in prime scale stable form artifacts prior prime observings of prior-existings*. Rigorized here all or none.
+
+108. **The stepping is never ending away: the lead of the numbers with no square part returns to 0 on all surfaces, more the farther out, its last return close to a surface's end.** *Executed on the surfaces of 64 to 1,048,576.*
+    - Returns past the surface before: 3, 18, 76, 109, 330, 602, 1,575 and 2,647; last returns 58, 254, 1,018, 3,613, 15,270, 65,205, 260,557 and 973,828. With sentence 106 it returns and stays of the horizon.
+    - A field's, with all numbers: the staircase and its smooth curve are on one side and the other with no last, by Littlewood, 1914; and the lead's returns with no last.
+109. **A staircase at φ's rate never ends away from its line and closes at none: it steps 1 or 2, never a step past its line, with no span repeating, and its two staircases, at φ and at φ by its own, part the numbers.** *Executed with whole numbers alone, to 200,000 and 150,000.*
+    - Exhibit THREE Natural Numbers: *A rational winding closes, and a winding at φ closes at none*, and *No rate is neared more slowly by rationals than φ*. A field's by Beatty and Rayleigh, the two staircases parting the numbers.
+110. **The cell's lines step φ's rates round the primes: φ's couplings stepped by the living code come again with φ's closings, its piece's closing a whole number of them round all primes stepped.** *Executed, sentence 47; the tie to the smooth curve not executed.*
+    - Rigorized, bothboth. Of the cell's lines as φ's rates of the prime stepping: is, sentences 47 and 109. Of the stepping as never ending away and of the horizon: is, as far as stepped, sentences 106 and 108. Of the fractal method and φ's rate as the proving with all numbers: is-not shown here, its steps executed and its all the endless method's own, the field's proving its own register. Of φ's closings tied to the smooth curve's zeros: not executed, and a field ties φ's closings to the primes by its tests of a prime, sentence 46, and not by the zeros.
+    - The primes stepped are prior-existings' stable forms, the stepping a prior prime observing of them, sentence 4.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.

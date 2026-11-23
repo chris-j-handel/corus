@@ -573,6 +573,25 @@ def main():
     line(107, "a number on a surface of n has at most one prime part beyond the horizon, the square's side of n, numbers to 20,000: a prime born past the horizon inverts a parity once",
          all(beyond(n) <= 1 for n in range(2, 20001)))
 
+    mu_ = [0, 1] + [0] * (TO - 1)
+    for n in range(2, TO + 1):
+        q_ = least[n]
+        mu_[n] = 0 if (n // q_) % q_ == 0 else -mu_[n // q_]
+    M_, since_, rows_, k = 0, 0, [], 3
+    for n in range(1, (1 << 18) + 1):
+        M_ += mu_[n]
+        since_ += M_ == 0
+        if n == 1 << (2 * k):
+            rows_.append(since_)
+            since_, k = 0, k + 1
+    line(108, f"the lead of the numbers with no square part returns to 0 on all surfaces of 4 to the k, 64 to 262,144, more the farther out: {rows_}",
+         all(r > 0 for r in rows_) and rows_ == sorted(rows_))
+    B_ = [(n + isqrt(5 * n * n)) // 2 for n in range(1, 50001)]
+    st_ = bytes(b - a for a, b in zip(B_, B_[1:]))
+    S1, S2 = set(B_), {n + b for n, b in zip(range(1, 50001), B_)}
+    line(109, "a staircase at phi's rate, whole numbers alone, steps 1 or 2, never a step past its line, with no span repeating to 500; its two staircases, at phi and at phi by its own, part the numbers 1 to 75,000",
+         set(st_) == {1, 2} and all(st_[:20000] != st_[d:20000 + d] for d in range(1, 501)) and all((m in S1) != (m in S2) for m in range(1, 75001)))
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
