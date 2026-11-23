@@ -171,3 +171,19 @@ print("  a unit cube from a corner: 1 of 3,", len(seq1), "edges; 2 of 3,", len(s
       "geodesics across 3 faces; 3 of 3,", len(seq3), "geodesics to one corner, its line")
 o4 = orbits(4, top=4)
 print("  37, the shell of 4 less 3:", o4, "=", o4[1] + 3 * o4[3] + 6 * o4[6])
+# The cube of 5's orbits are its line's five still selves taken one, two or three:
+# a one is a still self; a three, (a, a, b), two still selves, a then b; a six, three still selves.
+lv = {1: set(), 3: set(), 6: set()}
+seen = set()
+for p in product(range(1, 6), repeat=3):
+    if p in seen:
+        continue
+    o = set(permutations(p)); seen |= o
+    k = len(o)
+    if k == 1: lv[1].add(p[0])
+    elif k == 3:
+        a = max(set(p), key=p.count); b = min(set(p), key=p.count); lv[3].add((a, b))
+    else: lv[6].add(tuple(sorted(p)))
+print("  the cube of 5 from its line: ones", sorted(lv[1]), "| threes, two still selves in order:",
+      len(lv[3]), "= 5 x 4 | sixes, three still selves:", len(lv[6]), "= 5 x 4 x 3 / 6 |",
+      "1 x 5 + 3 x 20 + 6 x 10 =", 5 + 60 + 60)

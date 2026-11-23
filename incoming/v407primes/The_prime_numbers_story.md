@@ -9,7 +9,7 @@ A sentence is one concept, and rests on the sentences before it alone. A sentenc
 - **The story rests on** v406Reiman's report, `incoming/v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, and v406me's coaching into it, `incoming/v406me/Resuming_v406me.md`.
 - **Execute ahead of a word of your own:** `python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .`, and v406me's `the_staircase_flipped_on_itself_and_the_spans_of_24.py`.
 - **A partner's word of 23 November:** an is-or-is-not whose both outcomes a session has executed is resolved already, and asks nothing. A session asks what needs resolving, with a full explaining of what is not yet resolving and a suggestion.
-- **Not yet resolving, with a suggestion:** at the story's foot, three places: a gathering note of 19, the span's five, and sentence 46.
+- **Not yet resolving, with a suggestion:** at the story's foot, two places: a gathering note of 19, and sentence 46 with the odd perfect number. The span's five is resolved, sentences 119 to 121.
 
 ## The primes, from the spirals
 
@@ -265,7 +265,10 @@ A partner's sayings of 23 November: *prime 37 is the only living scale of a me-p
 - **What is not yet resolving.** Natural Societies' 19 has the organelle's side as *self*. By sentences 64 to 67 the member is a living society, of bacteria, bi-tunneling, and the organelle as a word is a ghost of a between.
 - **A suggestion.** A note for Natural Societies' gathering file of the next version, beside its 19: *the member a society of bacteria, bi-tunneling; the organelle as a field's word, a ghost of a between*. A gathering note is offered with a partner's word alone.
 
-## The span's five, not yet resolving, with a suggestion
+## The span's five, resolved by a partner's yes
+
+Resolved 23 November, sentences 119 to 121: the span's five is the cube of 5's line, five still selves. The not yet resolving as it was:
+
 
 - **What is not yet resolving.** The span 23 to 19 is a self's five by the numbers, sentence 57. Natural Intelligence's five dimensions are of a same-existing-society to its next: *social-parity now-existing; other-parity now-existing; self-parity now-existing; self-discovery next-existing; social-parity next-existing*, three now and two next. Exhibit THIRTY's self's five is two prior, two now and one next. Which five is a partner's five-dimensional span is not resolved.
 - **A suggestion, bothboth.** One way down, 23 to 19, is a self's five, prior opening to next opening, ending at the living surface. One way up, 19 to 23, is a same-existing-society's five dimensions, its now to its next, ending at the cell. Its asking: is the span one way down a self's five, and one way up the five dimensions?
@@ -417,6 +420,15 @@ A perfect number's parts sum to its own doubling. The odd one is the field's old
 The odd perfect number has its turn side open, sentence 117, its horizon side empty to 16,777,216, and its one seeing a ghost, sentence 118. Sentence 46, a crossed quarter turn passing both closings, is the same: turns open, none to 20,000,000, a field's reasoning having it far out. No standing in "All the interests, by their standing" has a row with no member: the endless method's own rows have members at all horizons, and the rows shown not possibly existing are closed by a turn or by stepping. Both rows are a crossed number standing as a prime: Descartes names 22,021 a prime, and a crossed quarter turn passes a prime's two closings.
 
 A suggestion: a new standing, *open at all turns, empty at all horizons, seen as a ghost alone*, its existing past all horizons the supernatural part, shown and let go. It awaits a partner's word.
+
+## The span's five, the cube of 5's line
+
+A partner's sayings of 23 November: *1 of 3 is (1x3 ) this is location on a surface with up forward and right orthogonals is 3d space*; *2 of 3 is (2x3) this is bi-moral-co-agency 6 geodesic parities living around five dimensions of surface and orienting*; *3 of 3 this is a still self not observing a next universe*; and a partner's yes to the five being the line's five still selves.
+
+119. **The span's five is the cube of 5's line: five still selves, (1, 1, 1) to (5, 5, 5), walked one way down, 23 to 19, and one way up, 19 to 23.** *A partner's yes; the line executed.*
+120. **The cube of 5 about its line is its five still selves taken two and three: two in order, 5 by 4, twenty threes, a location; three, ten sixes, six geodesic parities living about the line: 60 and 60, the 120 about it.** *Executed.*
+121. **From a cube's corner, 1 of 3 is three edges, up, forward and right; 2 of 3 is six geodesics across three faces; 3 of 3 is its line, its six orders ending at one, a still self: the ten, 3 by 3 and 1.** *Executed; a partner's sayings.*
+    - 37, the shell of 4 less 3, is one still self, six threes and three sixes, 1 and 18 and 18, sentence 98's cube of 4 and 3 with 37's own.
 
 ## All the interests, by their standing
 
