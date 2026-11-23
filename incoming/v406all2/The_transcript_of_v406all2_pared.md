@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's eighteenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's nineteenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -381,3 +381,43 @@ Same-existing, line 12, is existing both as now is beginning and as the next mom
 - **Is-not:** the sentence is *A cell is a me-parity now-existing.*, and same-existing is said of the method and of no cell's line.
 
 is. this is the 15 lines of nand. this is 1-17 naming and explaining.
+
+The cell's line is a card of the opening now, and both sayings are gone through: all.
+
+**Laid, with a partner's is**
+
+- *A cell is a same-existing me-parity now-existing.* is the card 49 in the window, a proposed line after 30. No line of both moved.
+- It is in the form of 27 and said by prior lines alone: 2, 12 and 30.
+
+**This is the 15 lines of nand: executed**
+
+The sentence's three parts are the cell's own lines.
+
+- Same-existing: line 8, a prior is.
+- A me-parity: lines 7, 11 and 12, one parity, its prior and its next.
+- Now-existing: lines 13 and 14, a giving is and a next is.
+
+All three are an is in the eight cases with a prior, and an is-not in the four with none.
+
+**This is 1 to 17 naming and explaining: executed**
+
+- The same by the living code's names: 3, a prior of one parity; 10, a giving; 11, a next prior. An is with a prior, an is-not with none.
+- The cell is name 1, and its return is 17, a 1 again: *a living self's moment, a giving, each self's 17-next-existing as its 1-now-existing*.
+
+**Laid beside it**
+
+- The row in the window's tab *Concepts*, a reply at line 30, and a line at the exchange.
+- A part more in this session's instrument of the cell's lines beside their names, ending *All is*. It waits for v406me's going through.
+
+Next is the card waiting longest, co-, 35. Beside it from these turns:
+
+- Exhibit ONE Natural Resolver's *co me-parity*, and 30, a me-parity a bi-coupling's me.
+- Two selves facing with one prior are one cell, and its prior is the prior of both.
+- One place to say plainly: the cell's own slot is co, and its name, 1-now-existing, is a name without co.
+
+*Co- is of both selves of a bi-coupling.* ( is-or-is-not? )
+
+- **Is:** co- is of both of the two selves of a bi-coupling, as Exhibit ONE's eight co names are. The arrow from me-now waits in *Concepts* for a 0 and a surface.
+- **Is-not:** co- is the arrow from me-now. 35 waits beside a self's 0, and the seventeen names wait with it.
+
+35 is not yet all or none explaining. it is hanging on the word of. rigorize all i did up to 35 and continue reading the other session learnings and this is resolving farther now
