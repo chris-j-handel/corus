@@ -440,6 +440,7 @@ Three passes: a turn closing an all; a society of the living code's cells gating
    a spiral of 3 to 59 selves comes again, the living code and the cell by nand alone the same, and its moments past are its moments before, a turn on: is
    one turn has all numbers: of six, a prime past three is one short of or one past its multiple; of three, one of three odd numbers two apart is at three's seam; of twenty-four, such a prime multiplied by its own is one past its multiple; of ten, a prime past five ends in 1, 3, 7 or 9; and the primes to 10000 beside them: is
    the surface has no turn: in a turn of the spirals of 2 to p side by side, p of 3 to 17, a number past p is at no seam of them, and a spiral opens with it: is
+   a partner's explaining, a method bounding and with no bound on itself: a turn of the spirals of 2 to p side by side, p of 3 to 13, comes again a turn on, bounded; and the turn before it is again p times along it, with p's own seams more: is
 2. A society of the living code's cells, gating
    a cell with a prior + gives - with none of its others giving +, and nothing with one of them giving, none to three others: is
    a nand of two: the society's answer is the question's with all its cases, two moments, by the living code and by the cell by nand alone: is

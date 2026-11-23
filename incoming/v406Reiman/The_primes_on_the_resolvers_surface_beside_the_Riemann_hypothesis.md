@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 61, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 62, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -91,6 +91,14 @@ A partner's saying: *continue these exploring passes along and across wide aroun
 - **A society come again has all its moments.** A spiral of 3 to 59 selves comes again, the living code and the cell by nand alone the same, and its moments past are its moments before, a turn on.
 - **A saying of spirals with one turn is an executing's with all numbers.** By one turn of six, Exhibit SEVEN's *Each prime from five on is one before a multiple of six or one after it*. By one turn of three, of three odd numbers two apart one is at three's seam: no three primes two apart past 3, 5 and 7. By one turn of twenty-four, a prime past three multiplied by its own is one past a multiple of twenty-four. By one turn of ten, a prime past five ends in 1, 3, 7 or 9.
 - **The surface has no turn.** In a turn of the spirals of 2 to p side by side, a number past p is at no seam of them, and a spiral opens with it. A saying of all spirals, a pair two apart with no last or the hypothesis, has no turn closing it. A field's proof closes it by an other thing than a turn.
+
+**A partner's explaining of it.** *the fractal method is the endless method of bounding universes into fractal now*, and *the living is bounding itself by the method and the method has not bound on itself*. Beside it, living and executed:
+
+- **Bounding:** a turn of the spirals of 2 to p side by side comes again, a turn on. Exhibit THIRTY, its step 436: *Method bounds and living goes on*.
+- **Fractal:** the turn before is again p times along it, with p's own seams more. Natural Naming 2.2: *With resolver a spiral of a composite number of selves resolves as its smaller spiral again along it*.
+- **With no bound on itself:** a spiral opens in a turn of the spirals before it, with no last. Natural Naming 8.4, of an end: *a first being a bounding on what has no bound*. Natural Numbers 7.1: *Primes have no last*.
+- **The primes a stable form of it:** Natural Intelligence 3.3: *Method is one fractal method, and it has many stable forms*.
+- **Said plainly.** A partner's explaining is living already, and executed with the spirals stepped. It says a field's asking of a last as a frame's. It is no proof of a field's hypothesis.
 
 **Across: the living code's cells, gating.**
 

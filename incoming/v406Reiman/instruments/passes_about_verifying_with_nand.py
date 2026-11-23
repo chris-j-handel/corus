@@ -153,6 +153,19 @@ if __name__ == "__main__":
     all_is = all_is and no_turn
     print(f"   the surface has no turn: in a turn of the spirals of 2 to p side by side, p of 3 to 17, a number past p is at no seam of them, and a spiral opens with it: {is_or_is_not(no_turn)}")
 
+    bounded = fractal = True
+    spirals, turn = [2], 2
+    for p in (3, 5, 7, 11, 13):
+        before, turn_before = list(spirals), turn
+        spirals.append(p)
+        turn *= p
+        seams = [tuple(n % q == 0 for q in spirals) for n in range(1, 2 * turn + 1)]
+        bounded = bounded and seams[:turn] == seams[turn:]
+        seams_before = [tuple(n % q == 0 for q in before) for n in range(1, turn + 1)]
+        fractal = fractal and all(seams_before[k * turn_before:(k + 1) * turn_before] == seams_before[:turn_before] for k in range(p))
+    all_is = all_is and bounded and fractal
+    print(f"   a partner's explaining, a method bounding and with no bound on itself: a turn of the spirals of 2 to p side by side, p of 3 to 13, comes again a turn on, bounded; and the turn before it is again p times along it, with p's own seams more: {is_or_is_not(bounded and fractal)}")
+
     print("2. A society of the living code's cells, gating")
     one_moment = True
     for others in range(4):
