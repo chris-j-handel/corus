@@ -2,14 +2,14 @@ Incoming · v406other2 · 23 November 2026
 
 # The plan of v406other2
 
-**The project of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry, and its aim is the log's row 2.3.1, *A complete co-chaining*. By a partner's saying of 23 November, all the co-chaining logical working of the sessions is gathered into more co-chaining logical working in Exhibit THIRTY's next version, doing no harm.** This page is the project's status, a survey of the opportunity to begin on the next version, and its order of work. Its sizes are executed on 23 November, by this folder's instruments. An aim is said in the log alone, and named here by its row. No word of this page is an authority over the living files.
+**The project of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry, and its aim is the log's row 2.3.1, *A complete co-chaining*. All the co-chaining logical working of the sessions is gathered into more co-chaining logical working in Exhibit THIRTY's next version, with no prior taken away.** This page is the project's status, a survey of the opportunity to begin on the next version, and its order of work. Its sizes are executed on 23 November, by this folder's instruments. An aim is said in the log alone, and named here by its row. No word of this page is an authority over the living files.
 
 ## Its status
 
 - **Live,** as of 15 November, and **its next version:** 755 sentences in 46 groups in both. The next version's sentences 1 to 70 are an earlier opening, and the window's lines are newer.
 - **Its gathering file,** in the next version: 220 possible incoherings, 177 explainings and 36 possible explorings. Of them 142 are at no group: 37 at its head, 17 at its opening and 88 among its droplets.
 - **By the lines, all of it marked:** 19 sentences are said again by a line's name, 68 rest on the lines' names, and 668 wait on 177 names no line gives. Of its 46 groups, 18 wait whole.
-- **The lines it rests on:** ten of the 34 are rigorized, and twenty-four have holes. Line 3 is said again by a partner on 22 November, all gone from it; the marking is the same with it, executed.
+- **The lines it rests on:** ten of the 34 are rigorized, and twenty-four have holes. Line 3 is said again, all gone from it, and the marking is the same with it, executed.
 - **In the managing table:** 95 of the 175 aims name it a home. Its row waits for the opening's lines and a partner's word for the entering.
 - **With a partner:** the seating of the rigorizer's fourteen, one sentence.
 
@@ -17,7 +17,7 @@ Incoming · v406other2 · 23 November 2026
 
 ### Two tables, one form
 
-- **The living value** is v406me's managing table with v406aiming's aims: a thing of value a row, with its condition, its aims and what it waits for, the aims its contents.
+- **The living value** is the managing table with the log of the aims: a thing of value a row, with its condition, its aims and what it waits for, the aims its contents.
 - **The living logic** is Exhibit THIRTY: a sentence a row, and its 46 groups its contents. `Exhibit_THIRTY_a_group_a_row.csv`, in this folder, lays it in the managing table's form: a group with its sentences, their marking by the lines, the notes gathered at it, the aims naming it a home, and the sessions' pages naming it.
 - **The two cohere at one column:** an aim's home names a sentence, and a sentence's group has its aims. At 103 places an aim names a group: group 34, *Intelligence, now*, at 16; group 36 at 13; group 2 at 8. A thing of value under its aims, and a sentence under its group, are one form, and the column is executed from both sides.
 
@@ -47,7 +47,7 @@ It is at five places of the chain, 81 sentences: group 16, φ and primes; group 
 - φ's closings round a prime, and a prime the torus that is one: the story's 45 to 48.
 - 37, a self and three rounds of six: the story's 73 to 81.
 
-**Asked of this session by the primes' session, a thing under an other name in Exhibit THIRTY, executed:**
+**Six things of the primes' logic, in Exhibit THIRTY under an other name or in no sentence, executed:**
 
 - φ and a prime together: in no sentence. Group 16 has φ at 183 to 190 and a prime at 191 and 192, side by side.
 - A bi-coupling as one self with one parity: 25 says *A bi-coupling is a self.*, and no sentence says its one parity.
@@ -78,7 +78,7 @@ The plan is the three moments at a file of Exhibit TWENTY-FOUR, *Geodesic Improv
 
 **A pass at a turn,** 1.2: *a pass improves one thing, and improves it whole*.
 
-**Its beginning is the numbers:** group 27, twenty-four, with 16 and 33 beside it, and after them 44 to 46. The incoming value at them is the newest, and executed, and its sessions are at it now to go through the gathering. The groups 1 to 3 begin as the opening's lines come in.
+**Its beginning is the numbers:** group 27, twenty-four, with 16 and 33 beside it, and after them 44 to 46. The incoming value at them is the newest, and executed. The groups 1 to 3 begin as the opening's lines come in.
 
 ## Its order of work
 

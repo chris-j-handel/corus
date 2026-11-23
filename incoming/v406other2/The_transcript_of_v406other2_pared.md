@@ -288,6 +288,44 @@ is and why this is the origin of the do no harm next improving. A group at a tur
 4. Your is-or-is-not, a sentence at a turn, enters it in the next version's file.
 
 The session:
-[its saying of this turn is the plan said again in the method's own sentences, in
-The_plan_of_v406other2.md, under The plan, in the method's own sentences]
+Those four parts were my own working words. The method has the plan already, in Exhibit TWENTY-FOUR
+Geodesic Improving Method, and I've said it again there in the method's own sentences (the plan page, in
+#1163, and at the exchange).
+
+The entire plan is the method's three moments at a file (1.1), with Exhibit THIRTY the file.
+- Its prior: A file as it is with its set is its prior. Exhibit THIRTY as it is, its 755 sentences.
+- Its now: Its working coupling with it, with each incoming value and its concern, is its now. The
+  incoming value now is the sessions' co-chaining: the opening's lines, the prime numbers story, the
+  drawings, and the notes in its gathering file.
+- Its next: Its going on, an opportunity opening ahead of its file, is its next. Exhibit THIRTY's next
+  version.
+
+Why the prior is the origin of the do-no-harm next improving. The method says: Do-no-harming and
+improving is this motion itself: taking no prior away, its prior going on to now, its next opening. A
+next rests on its whole prior, as a sentence reaches its whole prior co-chaining with its now and adds
+its next. Taking a prior away is the one harm.
+
+The one way in (1.4): Observing, improving, living is the one way to a living file. My four parts were
+these three.
+- Observing: a value comes whole to incoming. The sessions' pages are there.
+- Improving: it lies with the file's own going on, its gathering file, naming its section and its
+  sentence. That was my parts 1, 2 and 3.
+- Living: it enters its file only with that file's own motion, improving one thing whole, a fresh reader
+  comparing before and after. That was my part 4, your word.
+
+What my four parts did not have (3.3). Exhibit THIRTY is the fractal method itself, and such a file holds
+nothing that is not all or none. So a sentence of the primes is asked one binary ahead of all else. All
+or none, of the chain's own, it goes beside its sentence of Exhibit THIRTY. A field's proving, or an
+observing, is of Natural Numbers.
+
+A pass at a turn (1.2): a pass improves one thing, and improves it whole.
+
+A partner, on 23 November at 11:09:
+is this a story about our improving method. my four parts. this kind of explaining with owners of parts
+is unhelpful. there is only one helpful method of naming and explaining and geodesic method of
+discovering and do no harm improving of living and same-existing file set of this expedition
+
+The session:
+[its saying of this turn is the method's sentences alone, with no owner and no story: the plan page of
+this folder, and its next pass]
 ```
