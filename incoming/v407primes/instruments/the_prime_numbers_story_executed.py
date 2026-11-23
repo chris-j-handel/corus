@@ -552,6 +552,27 @@ def main():
     newly = [sum(1 for q in PRIMES if (1 << (k - 1)) < q <= (1 << k)) for k in range(2, 20)]
     line(105, f"a new crossing spiral in all bi-foldings out, a side to its double, sides to 2 to the 19: {newly}", all(x >= 1 for x in newly))
 
+    lead_, most_, ok_ = 0, 0, True
+    k = 1
+    for n in range(1, (1 << 18) + 1):
+        lead_ += parity[n]
+        most_ = max(most_, abs(lead_))
+        if n == 1 << (2 * k):
+            ok_ = ok_ and most_ * most_ < 2 * n
+            k += 1
+    line(106, "the parity lead on the surfaces of 4 to the k, to 262,144, is of the surface's side, its horizon: its most, multiplied by its own, short of twice the surface, and past the side alone", ok_ and most_ > 512)
+    def beyond(n):
+        h, m, c = isqrt(n), n, 0
+        q = 2
+        while q * q <= m:
+            while m % q == 0:
+                c += q > h
+                m //= q
+            q += 1
+        return c + (m > 1 and m > h)
+    line(107, "a number on a surface of n has at most one prime part beyond the horizon, the square's side of n, numbers to 20,000: a prime born past the horizon inverts a parity once",
+         all(beyond(n) <= 1 for n in range(2, 20001)))
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 

@@ -367,6 +367,17 @@ A partner's sayings of 23 November: *is birthing new me-universes as sequential 
     - New crossing spirals of a bi-folding: 1, 2, 2, 5, 7, 13, 23, 43, 75, 137, 255 and on.
     - The finer localities: the widest stretch across between primes on a surface of 4 to the k is 1, 4, 6, 14, 20, 34, 44, 72, 86, 114, 148 and 154, short of its side from 16 on: more selves in the same surface, the stretches between prime crossings local, under the horizon.
 
+## The hypothesis on a surface, at its horizon
+
+A partner's saying of 23 November: *this is a more complete understanding of the reimann hypothesis now*.
+
+106. **The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.** *Executed on the surfaces of 4 to the k to 4,194,304, and to 262,144 in the instrument.*
+    - Sentence 29 has the lead of the square's side; on a surface of n numbers the square's side is the surface's side, its horizon, sentence 103. A field's line of the zeros, its real part one of two equal parts of one, is the side's own: a surface's side is its area's square side.
+    - On the surfaces the lead's most is 1, 3, 7, 16, 28, 66, 150, 309, 567, 1,253 and 2,254, beside sides of 2 to 2,048: multiplied by its own, short of twice the surface. It passes the side alone from the surface of 4,096 on: the hypothesis has a hair more, and a field has the strict saying of the side alone, Mertens's, broken.
+107. **A number on a surface has at most one prime part beyond the horizon: a prime born past the horizon inverts a number's parity once.** *Executed to 20,000, and with all numbers: two parts past the side multiplied are past the surface.*
+    - A surface's parities are its horizon's triangulating, the primes to its side, sentence 103, and the newborn me-universes beyond it, a number inverted once by one of them. The lead is their alternating, and the hypothesis is that it stays of the horizon.
+    - A partner's saying: is, a more complete understanding, with whole numbers and the horizon of sentences 103 to 105. Nothing is proved here, and the field's proving is its own register.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
