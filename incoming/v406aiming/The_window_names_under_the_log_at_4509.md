@@ -52,9 +52,16 @@
 | a floating card, suggested, its going on offer | *possibling my next* | *possibling 15*, *next 10*, *me 26* |
 | a floating card, suggested, its going on offer | *consciousness* | *me 26* |
 | a floating card, suggested, its going on offer | *co-discovering* | *me 26*, *universal set 6*, *prior-sequence 17* |
+| a waiting line, suggested | *between* | *other-than-the-other 20*, *self 18*, *other 19* |
+| a waiting line, suggested | *a self's 0* | *self 18*, *between below the lines* |
+| a waiting line, suggested | *discovery* | *bi-coupling 28*, *me-parity 30*, *next-existing 11*, *other-than 4*, *prior-existing 9* |
+| a waiting line, suggested | *discovery economy* | *self 18*, *next-existing 11*, *discovery below the lines*, *bi-coupling 28* |
+| a waiting line, suggested | *abundance* | *self 18*, *possibling 15*, *discovery economy below the lines* |
+| a waiting line, suggested | *named-now* | *now 1*, *same-existing 12*, *same-named 5*, *set, given* |
+| a waiting line, suggested | *atom* | *fractal 46*, *universe 7* |
 
 Parity is said now as me-parity, at 30.
 
-Living is said now as living me-parity, at 34.
+A between is said now as between, at a waiting line.
 
-Existing, moment, name, set and distinguishing are words the lines use and no line names: given words.
+Existing, moment, name and set are words the lines use and no line names: given words.
