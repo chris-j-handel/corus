@@ -1,6 +1,7 @@
 """The managing table's sheet The method, beside the seventeen names' own.
 
 Usage: python3 -I the_method_sheet_beside_the_seventeen_names.py <the sheet, a csv> <Exhibit ONE, the living file> <the set's table of the seventeen names, a csv>
+   or: python3 -I the_method_sheet_beside_the_seventeen_names.py <a clone of the set>
 
 It goes through the sheet two ways, by executing. Its sayings: a name's
 saying beside Exhibit ONE's own, in Code with a name, and beside the set's
@@ -9,12 +10,20 @@ moves, roots, bi-foldings and unit square, and the pairs of the log of the
 aims. It prints a line an is or an is-not, and writes nothing.
 """
 import csv
+import glob
+import os
 import re
 import sys
 
-sheet = [r for r in csv.reader(open(sys.argv[1], encoding='utf-8')) if r and r[0].strip().isdigit()]
-living = re.sub(r'[*`]', '', ''.join(open(sys.argv[2], encoding='utf-8')))
-table = list(csv.reader(open(sys.argv[3], encoding='utf-8')))
+paths = sys.argv[1:4]
+if len(paths) == 1 and os.path.isdir(paths[0]):
+    clone = paths[0]
+    paths = [os.path.join(clone, 'incoming/v406me/The_managing_table_its_sheet_The_method.csv'),
+             sorted(glob.glob(os.path.join(clone, 'Exhibit_ONE_Natural_Resolver_v*.md')))[0],
+             os.path.join(clone, 'incoming/v403mgr/The_seventeen_names_in_one_table.csv')]
+sheet = [r for r in csv.reader(open(paths[0], encoding='utf-8')) if r and r[0].strip().isdigit()]
+living = re.sub(r'[*`]', '', ''.join(open(paths[1], encoding='utf-8')))
+table = list(csv.reader(open(paths[2], encoding='utf-8')))
 code_column = next(i for i, h in enumerate(table[0]) if h.startswith('code with its name'))
 of_the_table = {int(r[0]): r for r in table[1:]}
 
