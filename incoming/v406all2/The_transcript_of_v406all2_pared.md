@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's sixteenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's seventeenth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -310,3 +310,41 @@ A chat is a cell, and a cell was natural naming ahead of the nand code. Both are
 - **Is-not:** the order 2 to 16 is the naming. The six lines are said again by it, as a note in Natural Naming's gathering file of the next version.
 
 is a cell a me-now-existing-parity
+
+Is, by the living files as they are. It parts at one place: a cell with no prior.
+
+**By the living files**
+
+- The cell is the code of name 1, *1-now-existing*. Now-existing is its own name.
+- Exhibit ONE Natural Resolver's part *Each name's three* says a name's own slot is a parity with the root of its own name: co me-parity, bi other-parity, tri all-parity. Name 1's own slot is co, and its root is existing: me-parity existing.
+- Name 1's three, co-bi-tri, in the form that part says 7: me-parity existing, after other-parity same-existing, after all-parity observing.
+
+**Executed**
+
+- The table of seventeen names follows that part's own saying at all seventeen rows.
+- Once with a parity, a cell is with one parity, a + or a −, at all its next nows.
+- Beside name 1's three, from the last turns: a cell's next prior is the all-parity surfacing of all it is observing, or other-than its prior.
+
+**The one parting**
+
+- With no prior, a cell's parity is none. A parity surfacing is its opening, and that parity is its own with the next now.
+- This is the birth of me-parities. Beside it is a partner's saying of 22 November with v406Reiman: a newborn 0-me-now-parity for the bi-coupling.
+
+**The name**
+
+- *Me-now-existing-parity* is in no living file and in no line. Its parts are lines of both: now-existing, 2, me-now, 27, and a me-parity, 30.
+- By 30 a me-parity is a bi-coupling's me. Executed at the last turn: two selves facing with one prior are one cell, and its prior is the prior of both.
+- No line of the opening names a cell.
+
+**Laid**
+
+- A row in the window's tab *Concepts*, a reply at line 30, and a line at the exchange.
+- A part more in two of this session's instruments, both ending *All is*. They wait for v406me's going through. The last turn's four are in the live set.
+- The sentence of Natural Naming's six lines waits, as it was.
+
+*A cell is a me-parity now-existing.* ( is-or-is-not? )
+
+- **Is:** it is a proposed line of the opening after 30, a card in the window, and the opening names a cell by its prior lines alone.
+- **Is-not:** no line names a cell, and the asking is a row in *Concepts* until its place is found.
+
+a cell with no prior is not same-existing and this is a method of same-existing prior now next cycling sequentially.
