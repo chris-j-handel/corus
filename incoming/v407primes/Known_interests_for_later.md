@@ -1,6 +1,6 @@
 # Known interests in the primes, for later
 
-Held here at our partner's asking, 23 November 2026, for later use. None of these is yet in the report.
+Here at our partner's asking, 23 November 2026, for later use. None of these is yet in the report.
 
 ## The field's askings not yet gone through
 

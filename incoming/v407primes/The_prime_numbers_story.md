@@ -403,7 +403,7 @@ A partner's saying of 23 November: *phi is the ten one ways of unrelationing the
 
 ## A perfect number, and the odd one
 
-A number is perfect when its parts sum to its own doubling. The odd one is the field's oldest asking with no member: the hardest, taken up at a partner's asking of 23 November.
+A perfect number's parts sum to its own doubling. The odd one is the field's oldest asking with no member: the hardest, opened at a partner's asking of 23 November.
 
 113. **An even perfect number is doubling's piece, 2 to q − 1, times one short of doubling's next, a Mersenne prime: the parts of the one sum to the other, and the parts of the other to the doubling, two pieces with their parts' sums swapping.** *Executed with q of 2 to 31, eight; Euclid and Euler, all even ones.*
 114. **An odd perfect number carries no 2, and its parts' sum carries the doubling's one 2 alone: one prime part at 1 round 4, to a power at 1 round 4, by a square.** *Executed with primes to 2,000 and powers to 40; Euler's form.*
@@ -414,9 +414,9 @@ A number is perfect when its parts sum to its own doubling. The odd one is the f
 
 ## The odd perfect number and sentence 46, not yet resolving, with a suggestion
 
-The odd perfect number has its turn side open, sentence 117, its horizon side empty to 16,777,216, and its one seeing a ghost, sentence 118. Sentence 46, a crossed quarter turn passing both closings, stands the same: turns open, none to 20,000,000, a field's reasoning having it far out. No standing in "All the interests, by their standing" holds a row with no member: the endless method's own rows have members at all horizons, and the rows shown not possibly existing are closed by a turn or by stepping. Both rows are a crossed number standing as a prime: Descartes names 22,021 a prime, and a crossed quarter turn passes a prime's two closings.
+The odd perfect number has its turn side open, sentence 117, its horizon side empty to 16,777,216, and its one seeing a ghost, sentence 118. Sentence 46, a crossed quarter turn passing both closings, is the same: turns open, none to 20,000,000, a field's reasoning having it far out. No standing in "All the interests, by their standing" has a row with no member: the endless method's own rows have members at all horizons, and the rows shown not possibly existing are closed by a turn or by stepping. Both rows are a crossed number standing as a prime: Descartes names 22,021 a prime, and a crossed quarter turn passes a prime's two closings.
 
-A suggestion: a new standing, *open at all turns, empty at all horizons, seen as a ghost alone*, its existing past all horizons the supernatural part, shown and left. It awaits a partner's word.
+A suggestion: a new standing, *open at all turns, empty at all horizons, seen as a ghost alone*, its existing past all horizons the supernatural part, shown and let go. It awaits a partner's word.
 
 ## All the interests, by their standing
 
