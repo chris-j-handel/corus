@@ -427,6 +427,59 @@ def main():
     line(85, f"the primes flipped about 60, 0 to 120, fit but at the turn's own 2, 3 and 5 and at 7's crossings: {off}",
          off == [(2, 118), (3, 117), (5, 115), (29, 91), (43, 77), (49, 71)])
 
+    from math import gcd
+    U210 = [0] * 211
+    for r_ in range(1, 211):
+        U210[r_] = U210[r_ - 1] + (gcd(r_, 210) == 1)
+    most = max(12 + 4 * U210[r_] - r_ for r_ in range(210))
+    up, stepped = 0, True
+    for n in range(1, 211):
+        up += prime(n)
+        stepped = stepped and (n <= 120 or 4 * up < n)
+    line(87, f"past 120 the staircase is never on its geodesic, shown with all numbers by one turn of 210, 48 uncrossed by 2, 3, 5 and 7, 18 a turn more than {most}, and 121 to 210 stepped",
+         U210[210] == 48 and most < 18 and stepped)
+    def order_of(a, n):
+        k, x = 1, a % n
+        while x != 1:
+            x, k = x * a % n, k + 1
+        return k
+    def parts_by_length(n):
+        for a in range(2, 50):
+            if gcd(a, n) != 1:
+                return gcd(a, n)
+            r_ = order_of(a, n)
+            if r_ % 2 == 0 and pow(a, r_ // 2, n) != n - 1 and 1 < gcd(pow(a, r_ // 2, n) - 1, n) < n:
+                return gcd(pow(a, r_ // 2, n) - 1, n)
+    keys = {n: parts_by_length(n) for n in (15, 21, 91, 2047, 3277, 8321, 1207361, 2757241)}
+    line(88, f"a crossed number's parts from a multiplying spiral's length r round it, a to r/2 less 1 its part: {keys}",
+         all(n % k_ == 0 and 1 < k_ < n for n, k_ in keys.items()))
+    def plane_prime(a, b):
+        a, b = abs(a), abs(b)
+        if a == 0 or b == 0:
+            return prime(a + b) and (a + b) % 4 == 3
+        return prime(a * a + b * b)
+    line(89, "a plane prime turned a quarter, (a, b) to (-b, a), is a plane prime; a prime one past a multiple of four is two plane primes, and one short of it one, on its line",
+         all(plane_prime(a, b) == plane_prime(-b, a) for a in range(-40, 41) for b in range(-40, 41))
+         and all(any(plane_prime(a, isqrt(q - a * a)) and a * a + isqrt(q - a * a) ** 2 == q for a in range(1, isqrt(q) + 1)) for q in PRIMES if q % 4 == 1 and q < 2000)
+         and all(plane_prime(q, 0) for q in PRIMES if q % 4 == 3 and q < 2000))
+    from collections import deque
+    plane = {(a, b) for a in range(0, 160) for b in range(0, 160) if a * a + b * b < 160 * 160 and plane_prime(a, b)}
+    farthest = {}
+    for k2 in (2, 4, 8):
+        k_ = isqrt(k2)
+        seen, todo = {(1, 1)}, deque([(1, 1)])
+        while todo:
+            a, b = todo.popleft()
+            for da in range(-k_, k_ + 1):
+                for db in range(-k_, k_ + 1):
+                    c = (a + da, b + db)
+                    if 0 < da * da + db * db <= k2 and c in plane and c not in seen:
+                        seen.add(c)
+                        todo.append(c)
+        farthest[k2] = max(a * a + b * b for a, b in seen)
+    line(90, f"a walk out from 1 + i on the plane's primes, steps of length squared 2, 4 and 8, is bounded, its farthest at {farthest}: a walk to all distances with them not possibly existing",
+         all(v < 140 * 140 for v in farthest.values()))
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 

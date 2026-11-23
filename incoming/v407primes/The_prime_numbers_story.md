@@ -100,8 +100,8 @@ A sentence is one concept, and rests on the sentences before it alone. A sentenc
     - Executed: the row n·n + n + 41 is at no seam of the spirals 2 to 37, with all n by one turn, and all primes for n of 0 to 39. Ulam, 1963, and Euler before him.
 32. **Cicadas of 13 and of 17 years** are Natural Biology's, by a partner's word.
 33. **A number known a prime by its own closings,** with no smaller prime asked, is the report's sentence 16, *not yet understood by the world*.
-34. **Two large primes multiplied are found again from their product by a search alone,** a field's keys. *Not executed here.*
-35. **Primes in a plane, and a walk outward among them,** a field's asking of 1962. *Not gone through.*
+34. **Two large primes multiplied are found again from their product by a search alone,** a field's keys. *Said again: is-not, sentence 88.*
+35. **Primes in a plane, and a walk outward among them,** a field's asking of 1962. *Gone through, sentences 89 and 90.*
 
 ## A partner's 120, bothboth
 
@@ -278,10 +278,38 @@ A partner's words of 23 November: *all prior explaining that is incohering is a 
 83. **In 0 to 120 the primes are the numbers uncrossed by 2, 3, 5 and 7: the four faces' places less 7's four crossings, 49, 77, 91 and 119, and less 1, with 2, 3 and 5.** *Executed.*
     - 7 crosses 7 by 7, 11, 13 and 17, the turn's four places past 1. 121, 11 by 11, is the lowest crossing past 120: the 120 is the span whose primes are known by its own four spirals.
 84. **Oriented geodesically on the four faces, the staircase leads the geodesic, a rise of one face across, 30, for the four faces along, 120, and is on it at 120 for the last time.** *Executed to 1,000,000.*
-    - At the faces' corners, 30, 60, 90 and 120, the staircase is 10, 17, 24 and 30, and the geodesic a quarter of the four. The two are one at 96, 100 and 120, and past 120 never: a field has it past 1,000,000, by its smooth curve, the primes fewer than one in four with all numbers.
+    - At the faces' corners, 30, 60, 90 and 120, the staircase is 10, 17, 24 and 30, and the geodesic a quarter of the four. The two are one at 96, 100 and 120, and past 120 never: a field has it past 1,000,000, by its smooth curve, the primes fewer than one in four with all numbers. Said again by whole numbers, sentence 87.
     - A partner's *the natural math of interest in the primes fractures at 120*: is, by the staircase and its geodesic.
 85. **The primes flipped about 60, 0 to 120, fit but at the turn's own 2, 3 and 5 and at 7's crossings: 29 with 91, 43 with 77, and 49 with 71.** *Executed.*
 86. **Four cones of 30 are an all-parity universal now me-parity.** *A partner's saying, a figure for v406geodesic2's canvas, not executed here.*
+
+## Natural math, all the possibly existing
+
+A partner's words of 23 November: *proving of not possibly existing things is not our interest and we simply show what is not possibly existing and let others decide what to be interested in from there*, *my concept of natural math is all the possilbly existing math*, and *my comment about supernatural needs rigorizing as not possibly existing math is-or-is-not?*
+
+87. **Past 120 the staircase is never on its geodesic, shown with all numbers by one turn of 210 and with no smooth curve.** *Executed with whole numbers alone.*
+    - A turn of 210 has 48 numbers uncrossed by 2, 3, 5 and 7, fewer than one in four. With n a whole number of turns q and r more, four times the staircase is at most 12, 192q and four times the turn's uncrossed to r; it is short of n with 18q more than 12 and four times those to r, less r, and that is 15 at the most. From 210 on, then, all numbers; 121 to 210 are stepped.
+    - That the staircase is on the geodesic again past 120 is not possibly existing, shown by a turn.
+88. **A crossed number's parts are found from a multiplying spiral's length round it: with a spiral of r, a multiplied by itself r parted by two times, less 1, has a part of the number with it.** *Executed: 15, 21, 91, 2,047, 3,277, 8,321, 1,207,361 and 2,757,241.*
+    - Round 2,047, multiplying by 3 has a spiral of 88, and 3 multiplied by itself 44 times, less 1, has 23 with 2,047: 23 by 89. The parts are the torus's parting, sentence 48, by a spiral's length, sentence 44.
+    - A field's, by Shor, 1994: the length found by a quantum computer, and here by stepping. Sentence 34's *a search alone* is an is-not.
+89. **A plane prime turned a quarter, (a, b) to (−b, a), is a plane prime; a prime one past a multiple of four is two plane primes, and one short of it one, on its line.** *Executed.*
+    - The quarter turn of sentence 36 is the plane's own, and sentence 24's two squares are a prime's parting in the plane.
+90. **A walk out from 1 + i on the plane's primes with steps of length squared 2, 4 or 8 is bounded: a walk to all distances with those steps is not possibly existing.** *Executed by stepping.*
+    - The farthest reached: 137, 2,053 and 8,737, length squared. With longer steps the walk is a field's open asking, and a walk with all steps is the endless method's own.
+91. **Supernatural math is the endless method's form installed as an existing thing: as not possibly existing math, is, of its things, and is-not, of its steps.** *Rigorized, bothboth.*
+    - Natural math, a partner's *all the possilbly existing math*: a number, a turn, a spiral's length, a stepping, all its steps existing.
+    - Supernatural math has a thing with no last as one existing thing: a sum of all its terms as done, a height with no last place as one number, a smooth curve under the staircase with all numbers. As an existing thing it is not possibly existing: Exhibit TWENTY-SEVEN Living Ghost Registry, of Natural Naming's 7.1, *a ghost is one moment's form, installing it as an existing thing.*
+    - Its steps are possibly existing: a sum to some terms, a height to some places. And the hypothesis has a saying of whole numbers, sentence 29, the lead of the square's side, all its steps natural and its all the endless method's own.
+    - Sentences 84 and 87 say one thing two ways, by a field's smooth curve and by a turn of 210: the natural showing is whole, and the supernatural is not needed.
+
+## All the interests, by their standing
+
+- **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
+- **Shown not possibly existing, by a turn or by stepping:** a row of seven one short and one past six past 5, sentence 10; a row 7 bars past 7, sentence 61; the staircase on its geodesic past 120, sentence 87; a walk to all distances with short steps, sentence 90.
+- **The endless method's own, cohering by a partner's word, *a thing with all numbers*:** pairs two apart with no last, sentence 16; a prime between two squares, sentence 17; an even number as two primes, sentence 19; a walk with all steps, sentence 90. All are executed as far as stepped, and a field's proving of them is not this story's interest.
+- **Let go by a partner's word, supernatural:** the zeros by the living code's cells, sentence 30.
+- **Not resolved, one: a crossed quarter turn passing both closings,** sentences 33 and 46. It is neither shown existing, none to 20,000,000, nor shown not possibly existing. A field's reasoning, by Pomerance, has it existing far out, none found. By sentence 48 it is two tori, a by b, both closings a whole part of four times one past a by b.
 
 ## Incoherings found in this resolving
 
