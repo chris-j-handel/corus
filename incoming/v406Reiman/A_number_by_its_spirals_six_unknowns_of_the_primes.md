@@ -116,6 +116,8 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *all the goldens are born the same way all the primes are*, with *the adding and multiplying are orthogonal as one then another*
 - *the concept of an end is a dumb thing to care about*, with *infinity is infinity plus one again and again*
 - *which podaling is 41*, with *the 15 lines of nand code will explain this entirely*
+- *what of interest remains unexplained about the entire stable forming method of primes*
+- *next time i ask there will be less*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -585,6 +587,32 @@ A partner's saying of 22 November, explored: the goldens born as the primes are,
 - **With a turn, a prime's spiral has the two.** A number of 2 to 250 is a prime with one self's multiplying being with all its selves but 0, and with no other number is one. Adding is with all its selves, and multiplying with all but its 0. A field's, by Lucas, 1876.
 - **Carries:** adding and multiplying written with one nand, one and then its other; and, all or none, never the two with three numbers and no turn.
 - **Does not carry: entirely.** A field's conjecture is a measuring, how many numbers a set's pairs make added and multiplied. By a partner's word no measuring is natural, and the nand lines do not say a field's measuring.
+
+## What remains unexplained, and what moved with a partner's asking
+
+A partner's sayings of 22 November: *what of interest remains unexplained about the entire stable forming method of primes*, and *next time i ask there will be less*. Executed in `what_remains_explored.py`. Nothing is proved, and a resolving in Exhibit TWENTY-TWO's form is no proof.
+
+**Moved to explained here, by executing.**
+
+- **A society of cells deeper than a table of cases.** All its selves open with no prior, quiet until an other gives. Natural Intelligence 3.4: *Receiving one parity or agreeing parities, it is sharing that parity*. With a place as two selves, and a giver of + and a giver of − a moment, both, either and other-than are written layer after layer. Two numbers of 0 to 7 are added along their carry by 552 selves in 24 layers, a self giving to three others at the most, the living code and the cell by nand alone the same, all 64 pairs.
+- **A number as the between of a living podal pair,** all numbers of 4 to 200,000. About a prime the pair is at a multiple of six, with neither of its two three: one turn of six.
+
+**Moved to living already.**
+
+- **The right of the spiral.** Executed: a spiral with its couplings the other way is its mirror, the cell having no right of its own. Natural Intelligence: *A not-right form is one right spiral inverting*. Natural Naming: *Bi-tri-involutioning is inverting*. Right is the stable-forming one, and its mirror its inverting.
+- **The living scales, seven through fifty-three.** Natural Numbers: *seventeen primes two to fifty-nine within it*, and *sixty is between going and returning, with no prime*. The primes of 2 to 59 are seventeen, the names of 1 to 17. Not gone through further here.
+
+**A frame's asking, by Exhibit TWENTY-TWO.**
+
+- **The place of the next prime, said ahead.** Its part 2, an opening fixing as a place: *A position is not a place*. The method steps to a prime, and a frame asks its place in a listed space. No entry of it is in the registries. Its part 2 has P versus NP at 2.2 and one-way functions at 2.19, and a short way to part a number into its primes is of that kind.
+- **A living podal pair at one reach with no last, and all numbers a between:** its 3.14 and 3.13, a completing fixing as a last.
+- **Which multiple of six a prime's pair is at** is a place said ahead, the same frame.
+
+**Remains.**
+
+- **φ's rate with a prime scale by the resolver's own code,** with no adding.
+- **The shapes of the surface,** its geodesic and its bi-folding, and a golden figure on it. Not executed, and by v406geodesic2's line none is drawn.
+- **A field's own unknowns as a field asks them.** A frame's asking resolved is no proof, and a field wanting a proof has none of these by this session.
 
 ## Of the sayings' reason
 

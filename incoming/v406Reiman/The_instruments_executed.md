@@ -454,3 +454,21 @@ Three passes: a turn closing an all; a society of the living code's cells gating
    with n of 5 and 6 by numbers' own arithmetic, and of 7 by a field's rounding: is
 All is, of the cases and numbers stepped.
 ```
+
+## `what_remains_explored.py`, executed on 22 November
+
+Four places of what remains unexplained: a society of cells deeper than a table of cases, all its selves with no prior; a number the between of a living podal pair; a spiral with its couplings the other way; and Natural Numbers' own seventeen primes.
+
+```text
+1. A society of cells deeper than a table of cases
+   a self with no prior, observing nothing, gives nothing and has no prior next; observing, it gives the parity its others give with one parity among them, and a 0 with two, none to three others: is
+   two numbers of 0 to 7 added along their carry by a society of 552 selves of no prior, 24 layers, a self giving to three others at the most: its answer is the numbers' own adding with all 64 pairs, by the living code and by the cell by nand alone: is
+2. A number the between of a living podal pair
+   a number of 4 to 200000 is the between of a living podal pair: is
+   about a prime of 5 to 2000 a living podal pair with neither of its two three is at a multiple of six, all its pairs: is
+3. A spiral with its couplings the other way
+   a spiral of 5 to 23 selves with its couplings the other way is its mirror, moment with moment, the cell having no right of its own: is
+4. Natural Numbers' own seventeen
+   the primes of 2 to 59 are seventeen, and sixty is no prime: is
+All is, of the cases and numbers stepped.
+```
