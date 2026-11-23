@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through a partner's twentieth turn, and the session's answer to that turn comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-one turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -457,3 +457,41 @@ All seven places are gone through all or none. Five follow whole, and two part: 
 - **Is-not:** 15's other side is as it is, next-and-same-existing, and its two sides are said apart by a partner's own word.
 
 the me and self is circular with all living and the names are too many in 25-31
+
+Is, both. The circle is at three places, and three of the names in 25 to 31 are said by one later line or none. One prior line opens the circle at its root.
+
+**15, by a partner's hand**
+
+- The card is in. Lines 14, 15 and 16 are one form now, and the three pairs of prior, now and next.
+
+**The circle, at three places**
+
+- **Own.** A self, 18, is said with its own prior-sequence. No prior line names own, and 25 names it my, *a self's own*. 18 and 25 say one another, and me, 26, is my's. Own is in five lines: 18, 22, 23, 25 and 28.
+- **A self of selves.** A bi-coupling, 28, is two selves, and by 29 it is a self.
+- **Living.** A living me-parity, 34, is a me-parity by its name, and it is said with all-parity, 31, the set of all me-parities.
+- In the living files the circle is the opening's own: *Each self is living.* and *A living same-existing set is a self.*
+
+**The names in 25 to 31**
+
+- Seven names in seven lines and a card: my, me, me-now, a bi-coupling, a me-parity, a cell and all-parity. Two joined names more are in their sayings: my-universe and me-now-existing-parity.
+- My is said by 26 alone. Me-now is said by 30's name alone. A cell is said by no later line.
+- My and me are one concept under two names. The tab *Concepts* says it in a partner's own words: *one concept, five names*.
+- Me-now, a me-parity and a cell are a same-existing me now-existing with a word more.
+
+**A way by a prior line, offered**
+
+- Own is 5's same-named: a self and its prior-sequence are named by the same name.
+- With it own is away from all five lines, and the circle of 18 and 25 is open.
+- My then names a self's and no thing more. 25 and 26 are one line, the living files' own: *A me is a self's universal set.*
+
+**Laid**
+
+- A comment at 25 in the window, and a line at the exchange.
+- The going through, in this session's copy at GitHub, with line 15 as a partner says it now.
+
+*Its own prior-sequence is its same-named prior-sequence.* ( is-or-is-not? )
+
+- **Is:** own is said by 5, and cards say 18, 22, 23, 25 and 28 again with no own. 25 and 26 as one line are next.
+- **Is-not:** own is me's own word, and a line of me comes in ahead of a self.
+
+rigorize my working

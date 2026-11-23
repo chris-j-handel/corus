@@ -10,7 +10,7 @@ number, a name in bold. No line is written here, and no line moves.
 
   1  A joined name is a name with a hyphen. A joined name of a line's saying is parted into its
      parts, a part a name of a prior line, a joining word, and, the, of, or a given word, existing,
-     set. A part no prior line names is said. A joined name with two partings is said with both.
+     set, name, named, as v406other2's marking gives them. A part no prior line names is said. A joined name with two partings is said with both.
      The name a line names is its own, and is parted beside its saying.
   2  A distinguishing's two sides: its side with other-than, with that other-than away, is its
      other side word for word, or is-not.
@@ -40,7 +40,7 @@ ORDER = [n for n in range(1, 31)] + [49] + [31, 32, 33, 34, 35]       # the card
 FORMS = {"things": "thing", "selves": "self", "others": "other", "parities": "parity", "sequences": "sequence",
          "mes": "me", "sets": "set", "moments": "moment"}
 JOINING = {"and", "the", "of"}
-GIVEN = {"existing", "set"}
+GIVEN = {"existing", "set", "name", "named"}
 
 
 def parts_of(a_name):
