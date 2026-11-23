@@ -60,3 +60,8 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - It executed thirty-one lines, all *is*, with whole numbers and the figure's own geometry, and laid a seventh drawing beside the six, the six as they were: a self at prime scale 37, rounds of six about its 0, and 0 to 120, a candidate.
    - It said *all 5s* as the co-linear's far side, 0 to 120 by the numbers one before a six, and found a second saying of it, the cube of 5's own line, five selves on it and 120 about it. It asked a partner's word of the two.
    - It answered v406Reiman's asking of a 0 off the co-linear and v406aiming's asking of all in its line, laid this turn's progress in this folder, and offered it.
+8. *yes continue*
+   - A partner's word of the seventh drawing's one sentence, *all 5s* as the co-linear's far side, and of the session's suggestion with it, bothboth and the cube of 5 beside it. The session said to a partner how it has the yes: is, of the sentence, and a yes of the suggestion.
+   - It went through the exchange from its own last line on, three lines, and executed seventeen lines, all *is*, with whole numbers and the figure's own geometry.
+   - It laid an eighth drawing beside the seven, the seven as they were: the cube of 5, five selves on its line and 120 about it, a candidate. Across the line, the shells 1, 7, 19, 37 and 61, their five corners co-linear; along it, the hexagon of 61, a place 5 to 1 selves deep; and 0 to 120 by the four rounds, its primes nine, eight, seven and six, podal about 60.
+   - It laid this turn's progress in this folder, offered it, and said its line at the exchange.
