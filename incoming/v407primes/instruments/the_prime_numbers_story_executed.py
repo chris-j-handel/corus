@@ -422,7 +422,7 @@ def main():
             on.append(n)
         if 4 * up >= n:
             last = n
-    line(84, f"the staircase on the four faces meets their geodesic, a rise of one face across for four along, at {on}, and 120 is the last at or above it, to 1,000,000", on == [96, 100, 120] and last == 120)
+    line(84, f"the staircase on the four faces is on their geodesic, a rise of one face across for four along, at {on}, and 120 is the last at or above it, to 1,000,000", on == [96, 100, 120] and last == 120)
     off = [(r, 120 - r) for r in range(1, 60) if prime(r) != prime(120 - r)]
     line(85, f"the primes flipped about 60, 0 to 120, fit but at the turn's own 2, 3 and 5 and at 7's crossings: {off}",
          off == [(2, 118), (3, 117), (5, 115), (29, 91), (43, 77), (49, 71)])

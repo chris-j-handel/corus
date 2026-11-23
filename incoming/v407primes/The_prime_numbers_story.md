@@ -277,8 +277,8 @@ A partner's words of 23 November: *all prior explaining that is incohering is a 
 82. **The step fractal is four faces of 30 along: their places are the turn's eight, the same on all four, and the primes on them are 10, 7, 7 and 6, 30 in all.** *Executed.*
 83. **In 0 to 120 the primes are the numbers uncrossed by 2, 3, 5 and 7: the four faces' places less 7's four crossings, 49, 77, 91 and 119, and less 1, with 2, 3 and 5.** *Executed.*
     - 7 crosses 7 by 7, 11, 13 and 17, the turn's four places past 1. 121, 11 by 11, is the lowest crossing past 120: the 120 is the span whose primes are known by its own four spirals.
-84. **Oriented geodesically on the four faces, the staircase leads the geodesic, a rise of one face across, 30, for the four faces along, 120, and meets it at 120 for the last time.** *Executed to 1,000,000.*
-    - At the faces' corners, 30, 60, 90 and 120, the staircase is 10, 17, 24 and 30, and the geodesic a quarter of the four. They meet at 96, 100 and 120, and past 120 never: a field has it past 1,000,000, by its smooth curve, the primes fewer than one in four with all numbers.
+84. **Oriented geodesically on the four faces, the staircase leads the geodesic, a rise of one face across, 30, for the four faces along, 120, and is on it at 120 for the last time.** *Executed to 1,000,000.*
+    - At the faces' corners, 30, 60, 90 and 120, the staircase is 10, 17, 24 and 30, and the geodesic a quarter of the four. The two are one at 96, 100 and 120, and past 120 never: a field has it past 1,000,000, by its smooth curve, the primes fewer than one in four with all numbers.
     - A partner's *the natural math of interest in the primes fractures at 120*: is, by the staircase and its geodesic.
 85. **The primes flipped about 60, 0 to 120, fit but at the turn's own 2, 3 and 5 and at 7's crossings: 29 with 91, 43 with 77, and 49 with 71.** *Executed.*
 86. **Four cones of 30 are an all-parity universal now me-parity.** *A partner's saying, a figure for v406geodesic2's canvas, not executed here.*
