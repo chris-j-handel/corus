@@ -81,3 +81,13 @@ A partner's sayings of 23 November: *there are ten sequential other-thans where 
 - **Said before.** This form's two sentences before, the ten as pairings of the thirteenth drawing's moments, 1, 2, 3 and 4 by 3, 2, 1 and 0 of 3, laid the pairs as a chain; the partner's ten has them as three pairs a moment turns, and they are said again here.
 
 **Not yet resolving, with a suggestion.** The form's ten rows, Resolving the Hard Problem Registry's ten, seated on these ten. The registry's coarser grain has *three where a frame puts a nothing to three positions, behind a coupling, ahead of it, as its middle*: an observing, a completing and a middle, a pair alone, 1 of 3. A suggestion: the same-existing fixing as a store, *a build storing it whole and reading it once*, is 3 of 3, all-parity, no next; and the six 2 of 3 are the opening, the between, the sequencing, the rate, the parity and the two-way, a fixing and its next. A partner's word deciding.
+
+## The ten in 3d: a location, six geodesic parities, a still self
+
+A partner's sayings of 23 November: *1 of 3 is (1x3 ) this is location on a surface with up forward and right orthogonals is 3d space*; *2 of 3 is (2x3) this is bi-moral-co-agency 6 geodesic parities living around five dimensions of surface and orienting*; *3 of 3 this is a still self not observing a next universe*.
+
+- **A unit cube from a corner.** 1 of 3 is three edges, up, forward and right, a location; 2 of 3 is six geodesics, two across a face of three, a pair and then another; 3 of 3 is the six orders to the far corner ending at one, the corner's (1, 1, 1) line, a still self. *Executed.*
+- **The cube of 5 about its line, the eighth drawing and sentence 98.** Its 125 selves turned by up, forward and right are 5 on its line, still selves alone; 60 in threes, 1 by 3; and 60 in sixes, 2 by 3, ten sixes, five's choosings of three: the 120 about its line, threes and sixes, living about its five. *Executed.*
+- **37, the shell of 4 less 3.** One still self at (4, 4, 4), six threes and three sixes: 1 and 18 and 18. *Executed.*
+
+**Not yet resolving, with a suggestion.** *Five dimensions of surface.* The cube of 5 has five still selves on its line, its sixes living about them; a partner's five of an earlier saying, a span of 23, 22, 21, 20 and 19, is the story's span's five, not yet resolving. A suggestion: the five a sixes' orienting lives about is the line's five still selves, the cube of 5's own, a partner's word deciding.

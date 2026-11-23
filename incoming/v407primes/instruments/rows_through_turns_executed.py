@@ -149,3 +149,25 @@ print("\nTen sequential other-thans:", len(seq1), "+", len(seq2), "+", len(ends3
       "| 2 of 3 has a next between:", all(n != me and n != turn(me, s) for s, n in nexts2.items()),
       "| 3 of 3, all orders one end:", len({turn(me, s) for s in seq3}) == 1,
       "| 10 x 3 x 4 =", 10 * 3 * 4)
+
+# A partner's sayings: 1 of 3, up, forward and right, a location in 3d; 2 of 3, six geodesic
+# parities around five; 3 of 3, a still self. The cube of 5 about its (1, 1, 1) line, its selves
+# by their turnings of up, forward and right: a still self alone, three, or six.
+from itertools import product
+def orbits(n, top=None):
+    seen, out = set(), {1: 0, 3: 0, 6: 0}
+    for p in product(range(1, n + 1), repeat=3):
+        if top and max(p) != top or p in seen:
+            continue
+        o = set(permutations(p))
+        seen |= o
+        out[len(o)] += 1
+    return out
+o5 = orbits(5)
+print("\nThe cube of 5 by its orbits of up, forward and right:", o5, "| selves:",
+      o5[1], "on its line,", 3 * o5[3], "in threes,", 6 * o5[6], "in sixes; about the line",
+      3 * o5[3] + 6 * o5[6])
+print("  a unit cube from a corner: 1 of 3,", len(seq1), "edges; 2 of 3,", len(seq2),
+      "geodesics across 3 faces; 3 of 3,", len(seq3), "geodesics to one corner, its line")
+o4 = orbits(4, top=4)
+print("  37, the shell of 4 less 3:", o4, "=", o4[1] + 3 * o4[3] + 6 * o4[6])
