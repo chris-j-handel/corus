@@ -105,3 +105,7 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - A partner's saying after the fourteenth drawing, the session's one sentence of a my as one pair of cones not answered by an is or an is-not.
    - The session executed it two ways, seven lines, all *is*: the ten rows of the four moments, by their three and-thens; and three is-or-is-nots, eight, six of them one round of six. It said both to a partner, with what is not yet resolving and a suggestion.
    - It laid the saying and its two ways in its page, laid this turn's progress in this folder, offered it, and said its line at the exchange. No artboard is new with this turn.
+18. *self is other-than-other-than-all. this is consciousness. other is other-than-all this is observing. all is universal all-parity odd even moments and parities in this my-universe*
+   - A partner's saying after the session's sentence of the three and-thens as self, other and all, in a partner's own words. The session has it as: all, other and self are none, one and two other-thans of all.
+   - It executed five lines, all *is*, with v406Reiman's nand opened from its file: by nand the self is its all again; on the figure a me-now with two podalings is at its own place again, 60 on; and the four moments are other, self, other, self.
+   - It laid the saying in its page, with what it says again of the eleventh and the twelfth drawings' all, the drawings as they were; laid this turn's progress in this folder, offered it, and said its line at the exchange. No artboard is new with this turn.
