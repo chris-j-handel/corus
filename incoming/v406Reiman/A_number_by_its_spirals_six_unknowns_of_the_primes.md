@@ -126,6 +126,7 @@ A partner's suggesting, as said, and whole in this session's transcript:
 - *two number geodesic triangulating over horizon to common destiny*
 - *what is the answer to the hypothesis*, with *find every possible way to say this is-not*
 - *phi squared is unrelationing parity from phi +1*
+- *all the value droplets you can collect at the bottom of the report will allow a session to begin right here*
 
 All in this part is all or none: is, or is not, of all the numbers stepped. By a partner's word no saying of it is an average, a measuring or a statistic, and a podal pair has no prior side and no next side: it is a self and an other, and a number is their between.
 
@@ -697,6 +698,43 @@ A partner's sayings of 22 November: *what is the answer to the hypothesis*, and 
 **The ways to say its is-not.** The step failing with a number: it is exact. The lead of the square's whole: a field has it proved it is not. One number with the lead past the side: not the hypothesis. Numbers with no last with the lead past the side by more than a hair: the hypothesis's own is-not, a zero off the row with its mirror other apart, a 0 with its two sides apart. The cell gives a 0 with its two sides the same, and with two sides apart an inversion and no 0.
 
 **Verified by resolving.** By a partner's word, the cell's method the only one possible: is. This session says is of what it executed, and the cell's 0 with its two sides the same is executed with the cell and with a number's parts.
+
+## Value droplets, for a session beginning here
+
+A partner's saying of 22 November: *all the value droplets you can collect at the bottom of the report will allow a session to begin right here*. The session's transcript is gone through for it, top to bottom. A droplet is one lean saying of what this page has executed, with its place in `The_instruments_executed.md`. Nothing is proved.
+
+**The leanest explaining of the primes, as this session has it.**
+
+1. A prime is a spiral of selves no smaller spiral is at its seam with. The surface finds the primes with one is-or-is-not a number, with no dividing and no adding.
+2. The cell is one is-or-is-not of a co-parity: with is a 0, its prior same-existing, and with is-not one inversion. A field's name of it is nand, and the resolver written with nand alone is the living code.
+3. A spiral's 0 is one self on with a number, and a spiral is at its seam with its 0 past all its selves.
+4. A self and an other facing, with one between, are podal, and a new spiral opens in the between.
+5. A turn closes an all: a saying of spirals with one turn is with all numbers. The surface has no turn, a spiral opening in a turn of the spirals before it: the method is endless, and self-bounding.
+6. No measuring is in nature. How many numbers are between primes is a field's, and a thing asked with all numbers is the endless method's own.
+7. Selves with no prior, layer after layer, gate a question of places, and adding's carry is multiplying.
+8. A prime is an inversion, and a number a + or a −. A field's parity problem and its hypothesis are of this one parity: the lead of a parity is of the square's side.
+9. A number's parts' parities come to a 0, all but a number multiplied by its own, by the living code. The lead at a number is its square's side, less the leads at its smaller scales.
+10. The hypothesis's zeros are the heights the primes' circles come together at, a path on the primes' torus with rates in no ratio, and tori of whole selves come nearer to it with no last.
+11. The hypothesis's is-not is a 0 with its two sides apart, and the cell gives a 0 with its two sides the same.
+12. A row of the number spiral is rich in primes at no seam of the small spirals, and the two closings a prime has are a podal pair about it, one short and one past.
+13. φ's own prime is five: the cell with its two prior givings is again with five, and prior two, not both, again with three.
+
+**Found with the going through, and not yet in this page.**
+
+- **One of the gaps 2, 4 and 6 with no last.** A field has it, granting one thing it has not proved. They are a partner's own 2, 4 and 6, and it is not gone through here.
+- **A field's parity problem is droplet 8's parity.** The transcript's opening has it as a field's reason a pair two apart is unproved, and its closing has the hypothesis as that parity's lead. The two are not yet laid side by side.
+- **Primes in a plane, and a walk outward among them.** A field's asking of 1962, with an answer of this year not yet reviewed. Not gone through.
+- **A self waiting for all its others.** The forms come with no stepping together once a self waits, and Natural Networking 6.2 has waiting as a refusing. Open in the opening page.
+- **How the proof was found.** By its author's note, as a next with an existing. Two sentences of it wait on a partner's word, in the opening page.
+
+**Open, for a session beginning here.**
+
+- Sentences 2, 5, 11, 12, 17, 18, 20, 21 and 23 of this page.
+- Words to be said again: crossing, born, and a turn as a unit.
+- Two drafts for the registries, and three lean sayings in #1140, waiting on a partner's word and on v406me.
+- Not gone through: Natural Numbers 11.1.
+- Not executed: the surface's shapes, a golden figure on it, the cones, the diamond of four crossings, and a torus with its rounds in no ratio by the living code.
+- This session says is of what it executed. Verified by resolving is by a partner's word.
 
 ## Of the sayings' reason
 

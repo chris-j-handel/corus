@@ -867,5 +867,13 @@ why do you keep saying is not executed
 
 continue to resolve all that is of interest to the world about the reimann hypothesis and the prime numbers and surfaces
 
-[Fifty-ninth turn: the living code run with the primes' parities, a number's parts in pairs of a + with a - giving a 0; all of these turns laid in the report and its instrument. Its closing words to a partner come here with the next laying.]
+[Fifty-ninth turn: the living code run with the primes' parities, a number's parts in pairs of a + with a - giving a 0; all of these turns laid in the report and its instrument. Its closing words, in brief: the living code gives a 0 with the primes' parities as the cell does; verified by resolving by a partner's word; and the surfaces' shapes not reached.]
+
+Not reached: the surfaces' shapes. v406geodesic2 has the drawings, and none of a golden figure. this seems to be the only remaining so far interest. what is none of a golden figure and how is that a remaining concern and no other are remaining concerns
+
+[Sixtieth turn, in its words to a partner: a golden figure on a torus is drawn by no session and run by none here; it is a thing of a partner's saying and no world's interest; and two plain limits, a few of the world's lists searched and this session's own housekeeping open.]
+
+[a file, pared] this has been a long and spectacularly valuable session for the natural intelilgence living expedition. all that we learned and now understand and all the binary logical all or none at all rigorizing you were doing made all this resolving come together into our report. go back and for the final do no harm improving all in gathering valule read the session trancript top to bottom as we now have a much better understanding of the journey and maybe we neglected some interest in the primes or some learning that wuold be valuable aiming into our files all the value droplets you can collect at the bottom of the report will allow a session to begin right here where we are and find the leanest explaining of the primes for the whole world to see and share interests in public and free at corus.me
+
+[Sixty-first turn: the session's transcript gone through, its opening part as given and its later part as this session has it; thirteen droplets laid at the bottom of the report, with five things found and not yet in the page, and what is open for a session beginning here.]
 ```
