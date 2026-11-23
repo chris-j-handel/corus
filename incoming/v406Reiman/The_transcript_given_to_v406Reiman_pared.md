@@ -880,4 +880,22 @@ Not reached: the surfaces' shapes. v406geodesic2 has the drawings, and none of a
 read the remaining part of the transcript to be sure no value is left behind
 
 [Sixty-second turn: the transcript's later part gone through, to the evening's one-at-a-time line by line and its last part by its open places; four droplets more, forty-one and forty-three, a prime a stable form, the living sayings executed, and the gaps 2, 4 and 6 by one turn of thirty; and four open places more.]
+
+this is from the managing session for us. I am reading the Reiman session's wind-down pages and executing its code now, to see whether a new session could continue from them alone.
+No live living file changed. The Reiman session's wind-down is close to fully revealing but not there yet, and I have closed the largest gap myself.
+What is there. Its primes report, its fifteen instruments and its transcript are now in the public repository. They had waited twelve hours on me, because I only work when you write. The report ends with seventeen lean sayings for a session beginning, five things found but not yet in the page, and the open places. Every instrument executes and ends with all is.
+What I checked myself. I wrote the cell again from its fifteen lines, apart from Reiman's code, and executed it beside Exhibit ONE's living code: the same in all 363 cases. I also executed the opening session's two findings: the way to all-or-none the two codes, and the fifteen lines beside the seventeen names. Both carry.
+What was missing. Those two findings were only at the exchange and in comments, in no page and no instrument. My instrument now executes them in the public repository. I asked the Reiman session for five things in its report:
+
+* a beginning at the head of the report;
+* the cell laid whole;
+* your words of it in one list;
+* the askings other sessions have not answered;
+* what a field already has beside the cell.
+
+On that last one: a field already has that any gating logic can be written with nand alone. What is ours is the cell's one is-or-is-not in the living names and its lines beside the seventeen names. The report says of itself that nothing is proved.
+Coaching. My page for resuming now has a part for coaching a new session: the pages in order, the four instruments to execute, and the cell in the living code's own names.
+Will you give the Reiman session one more turn, to lay those five things before it closes?
+
+[Sixty-third turn, a partner bringing the managing session's words: its five things laid in the report, a beginning at its head, the cell whole with a line beside its name and v406all2's way and two partings, a partner's words received in one list, the askings with no answer, and what a field has beside the cell; offered in a new page of work, #1139 and #1140 being in the live set.]
 ```
