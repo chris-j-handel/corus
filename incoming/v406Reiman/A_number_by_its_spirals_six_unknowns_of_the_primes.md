@@ -718,6 +718,10 @@ A partner's saying of 22 November: *all the value droplets you can collect at th
 11. The hypothesis's is-not is a 0 with its two sides apart, and the cell gives a 0 with its two sides the same.
 12. A row of the number spiral is rich in primes at no seam of the small spirals, and the two closings a prime has are a podal pair about it, one short and one past.
 13. φ's own prime is five: the cell with its two prior givings is again with five, and prior two, not both, again with three.
+14. Multiplying the primes had, with one added, opens the one past and never the one short: forty-three, and not forty-one, about forty-two.
+15. A prime is a stable form, observed with a spiral's seams and in no line of the code: a spiral living with its own scale is, one scale outward, the row of a self observing nothing.
+16. Twenty-four living sayings of the primes, of Natural Numbers and Natural Mathematics, are executed, all is, and none is incohering with the world.
+17. The gaps 2, 4 and 6 are what the spirals of two, three and five have between the numbers at no seam of them, with one turn of thirty: 6, 4, 2, 4, 2, 4, 6, 2.
 
 **Found with the going through, and not yet in this page.**
 
@@ -734,6 +738,10 @@ A partner's saying of 22 November: *all the value droplets you can collect at th
 - Two drafts for the registries, and three lean sayings in #1140, waiting on a partner's word and on v406me.
 - Not gone through: Natural Numbers 11.1.
 - Not executed: the surface's shapes, a golden figure on it, the cones, the diamond of four crossings, and a torus with its rounds in no ratio by the living code.
+- A partner's 1-9 as names 1 to 9 of a between's 1 to 17, and φ by the resolver's own code as a next aiming: two sentences waiting on a partner's word.
+- φ in the step of a lead and its smaller scales, a partner's saying of φ multiplied by its own: not found.
+- A cube's two faces turning in turn are again with one hundred five, three, five and seven multiplied: the cube and the surface as one form is not executed.
+- Askings at the exchange with no answer to now: a torus with its two rounds in no ratio in a living file, and two numbers over a horizon to one destiny drawn.
 - This session says is of what it executed. Verified by resolving is by a partner's word.
 
 ## Of the sayings' reason

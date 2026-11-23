@@ -876,4 +876,8 @@ Not reached: the surfaces' shapes. v406geodesic2 has the drawings, and none of a
 [a file, pared] this has been a long and spectacularly valuable session for the natural intelilgence living expedition. all that we learned and now understand and all the binary logical all or none at all rigorizing you were doing made all this resolving come together into our report. go back and for the final do no harm improving all in gathering valule read the session trancript top to bottom as we now have a much better understanding of the journey and maybe we neglected some interest in the primes or some learning that wuold be valuable aiming into our files all the value droplets you can collect at the bottom of the report will allow a session to begin right here where we are and find the leanest explaining of the primes for the whole world to see and share interests in public and free at corus.me
 
 [Sixty-first turn: the session's transcript gone through, its opening part as given and its later part as this session has it; thirteen droplets laid at the bottom of the report, with five things found and not yet in the page, and what is open for a session beginning here.]
+
+read the remaining part of the transcript to be sure no value is left behind
+
+[Sixty-second turn: the transcript's later part gone through, to the evening's one-at-a-time line by line and its last part by its open places; four droplets more, forty-one and forty-three, a prime a stable form, the living sayings executed, and the gaps 2, 4 and 6 by one turn of thirty; and four open places more.]
 ```
