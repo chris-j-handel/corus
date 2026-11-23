@@ -6,6 +6,7 @@ Usage, from the repository's root:
 A partner's saying of 23 November, as said in the transcripts, pared. Re-said: self is the other-than of an other-than of all, and it
 is consciousness; other is the other-than of all, and it is observing; all is the universal all-parity, the odd and even moments
 and the parities of a my-universe.
+And a saying after it: observing and distinguishing the other-than of all from self and from all is a conscious me, in its universe of all me-parity.
 It opens v406Reiman's nand from its own file, and the living files, and writes none.
 All or none: with one line not is, the check is not.
 """
@@ -35,6 +36,10 @@ line("of the ten rows of the four moments, four are of an even number of other-t
      sum(len(r) % 2 == 0 for r in rows) == 4 and sum(len(r) % 2 == 1 for r in rows) == 6
      and all((by(7, r) - 7 in (60, 120)) == (len(r) % 2 == 0) for r in rows))
 
+line("observing and distinguishing: along the co-linear the other is at one place of the turn and the self and the all at an other, one fold apart, for a me-now off the fold's own line",
+     all(place(by(n, FOUR[:1])) != place(n) and place(by(n, FOUR[:2])) == place(n) == place(by(n, ())) for n in range(61) if place(n) not in (0, 15)))
+line("a me-now at 37 is at place 7 of the turn, with its selves 97 and 157; its others, 23 and 83, are at place 23",
+     [by(37, FOUR[:k]) for k in range(5)] == [37, 23, 97, 83, 157] and [place(m) for m in (37, 97, 157)] == [7, 7, 7] and [place(m) for m in (23, 83)] == [23, 23])
 text = lambda pattern: next(root.glob(pattern)).read_text(encoding="utf-8")
 ME_FILE, NUMBERS_FILE = text("Exhibit_THIRTY-ONE_*.md"), text("Exhibit_THREE_*.md")
 line("three living sentences beside it are word for word in their files",
