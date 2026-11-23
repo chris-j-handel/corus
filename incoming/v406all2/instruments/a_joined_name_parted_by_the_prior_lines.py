@@ -18,13 +18,14 @@ number, a name in bold. No line is written here, and no line moves.
   4  The names of 25 to 31, a partner's saying of 23 November, the me and self is circular with all
      living and the names are too many in 25-31: back, the prior lines a line's saying uses; forward,
      the later lines and cards saying its name; and the lines saying own, and living.
-  5  Four given concepts, a partner's saying of 23 November, existing, moment, set and name: a word
-     of a line's saying that is no prior line's name, no word of the line's own name, none of the
-     four and no plain joining word. The plain joining words are listed with it.
-  6  A partner's saying of 23 November, own is the name of my universe, gone through into the chain:
-     the lines as they are with own's line ahead of 25 and after 26; and a chain offered, its
-     sayings the page's rows at a number, a self said with no own, my a self's, own, and me, the
-     three ahead of 22.
+  5  The living list, a partner's saying of 23 November: words of the lines' sayings named by no prior
+     line, all words given, meaning not of the lines' definings. Lines 1 to 34. The four
+     given concepts, existing, moment, set and name; the words with no line; and the plain joining
+     words, a, the, is and their like, listed by the instrument.
+  6  A partner's saying of 23 November, own is the name of my universe, gone through into the chain.
+     The lines as they are, with own's line a prior line of 25, and with it after 26. Then two chains,
+     their sayings the page's rows at a number: by a partner's is-not, my said with 17 alone, and
+     my, own and me prior lines of a self; and its other, my said with a self, and a self with no own.
 
 It writes its lines to standard output. It writes no file and decides nothing.
 """
@@ -172,48 +173,78 @@ for word in ("own", "living"):
     print(f"   lines saying {word}: {saying_it}")
 
 
-def words_no_line_names(the_lines, the_order):
-    """A word of a saying that is no prior line's name, no word of its own name, no given and no plain word."""
+def words_given(the_lines, the_order, its_lines=None):
+    """A saying's words that are no prior line's name and no word of its own name: the given, the plain, and the others."""
     its_names = names_of(the_lines, the_order)
-    found = {}
+    found = {"given": {}, "joining": {}, None: {}}
     for at, n in enumerate(the_order):
+        if its_lines is not None and n not in its_lines:
+            continue
         words = parts_of(re.sub(r"[.,:;]", " ", re.sub(r"\*\*", "", the_lines[n])))
         holes, size, parting = partings(words, set(the_order[:at + 1]), its_names, PLAIN)[0]
         for word, by in parting:
-            if by is None:
-                found.setdefault(word, [])
-                if n not in found[word]:
-                    found[word].append(n)
+            if not isinstance(by, int):
+                word = "name" if word == "named" else word
+                at_lines = found[by].setdefault(word, [])
+                if n not in at_lines:
+                    at_lines.append(n)
     return found
 
 
+def in_stretches(numbers):
+    """Line numbers said in stretches: 1 to 3, 6, 8 to 12."""
+    stretches, numbers = [], sorted(numbers)
+    for n in numbers:
+        if stretches and n == stretches[-1][1] + 1:
+            stretches[-1][1] = n
+        else:
+            stretches.append([n, n])
+    return ", ".join(str(a) if a == b else f"{a} and {b}" if b == a + 1 else f"{a} to {b}" for a, b in stretches)
+
+
 def said_whole(found):
-    return "; ".join(f"{word}, at {', '.join(map(str, at))}" for word, at in found.items()) or "none"
+    return "; ".join(f"{word}, at {in_stretches(at)}" for word, at in found.items()) or "none"
 
 
-print("\n5. Four given concepts: existing, moment, set and name")
-print(f"   the plain joining words: {', '.join(sorted(PLAIN))}")
-as_they_are = words_no_line_names(lines, ORDER)
-print(f"   a word no prior line names and none of the four, as the lines are: {said_whole(as_they_are)}")
+print("\n5. The living list: words of the lines' sayings named by no prior line, lines 1 to 34")
+LINES_OF_BOTH = list(range(1, 35))
+living = words_given(lines, ORDER, LINES_OF_BOTH)
+print("   the four given concepts:")
+for word in ("existing", "moment", "set", "name"):
+    print(f"      {word:15} {in_stretches(living['given'].get(word, []))}")
+print("   words with no line:")
+for word, at in living[None].items():
+    print(f"      {word:15} {in_stretches(at)}")
+print("   the plain joining words:")
+for word, at in sorted(living["joining"].items()):
+    print(f"      {word:15} {in_stretches(at)}")
 
 print("\n6. Own is the name of my universe, into the chain")
-offered = {int(n): saying.strip() for saying, n in re.findall(r"^\| (.+?) \| at (\d+) \|$", page.read_text(encoding="utf-8"), flags=re.M)}
+text = page.read_text(encoding="utf-8")
+by_is_not = {int(n): saying.strip() for saying, n in re.findall(r"^\| (.+?) \| at (\d+) \|$", text, flags=re.M)}
+its_other = {int(n): saying.strip() for saying, n in re.findall(r"^\| (.+?) \| its other, at (\d+) \|$", text, flags=re.M)}
 OWN = 50                                               # the number of own's line here, a line of no number yet
 with_own = dict(lines)
-with_own[OWN] = offered[OWN]
-for label, the_order in (("own's line ahead of 25", [n for n in ORDER if n < 25] + [OWN] + [n for n in ORDER if n >= 25 and n != 49] ),
+with_own[OWN] = by_is_not[OWN]
+for label, the_order in (("own's line a prior line of 25", [n for n in ORDER if n < 25] + [OWN] + [n for n in ORDER if n >= 25 and n != 49]),
                          ("own's line after 26", [n for n in ORDER if n <= 26 and n != 49] + [OWN] + [n for n in ORDER if n > 26 or n == 49])):
-    the_order = [n for n in the_order if n in with_own]
-    found = words_no_line_names(with_own, the_order)
+    found = words_given(with_own, the_order)[None]
     print(f"   the lines as they are, {label}: own named by no prior line at {found.get('own', [])}, my at {found.get('my', [])}")
-a_chain = dict(lines)
-a_chain.update(offered)
-A_CHAIN = list(range(1, 22)) + [25, OWN, 26, 22, 23, 24, 27, 28, 29, 30, 49, 31, 32, 33, 34, 35]
-for n in (18, 25, OWN, 26):
-    print(f"   {n:2}  {re.sub(r'[*]', '', a_chain[n])}")
-found = words_no_line_names(a_chain, A_CHAIN)
-saying_own = [n for n in A_CHAIN if n != OWN and re.search(r"\bown\b", re.sub(r"\*\*", "", a_chain[n]).lower())]
-after = all(A_CHAIN.index(n) > A_CHAIN.index(OWN) for n in saying_own)
-print(f"   the chain offered, 1 to 21, 25, own, 26, 22 to 24, 27 and on: the lines saying own, {saying_own}, all after its line: {'is' if after else 'is-not'}")
-print(f"   own or my named by no prior line in it: {sorted(n for w in ('own', 'my') for n in found.get(w, [])) or 'none'}")
-print(f"   a word no prior line names and none of the four, in the chain offered: {said_whole(found)}")
+REST = [27, 28, 29, 30, 49, 31, 32, 33, 34, 35]
+for label, sayings, the_order, shown in (
+        ("by a partner's is-not, my said with 17 alone: 1 to 17, my, own, me, 18 to 24, 27 to 35", by_is_not,
+         list(range(1, 18)) + [25, OWN, 26] + list(range(18, 25)) + REST, (25, OWN, 26, 18)),
+        ("its other, my said with a self: 1 to 21, my, own, me, 22 to 24, 27 to 35", its_other,
+         list(range(1, 22)) + [25, OWN, 26, 22, 23, 24] + REST, (18, 25, OWN, 26))):
+    a_chain = dict(lines)
+    a_chain.update(sayings)
+    a_chain[OWN] = by_is_not[OWN]
+    print(f"   the chain {label}")
+    for n in shown:
+        print(f"      {n:2}  {re.sub(r'[*]', '', a_chain[n])}")
+    found = words_given(a_chain, the_order)[None]
+    saying_own = [n for n in the_order if n != OWN and re.search(r"\bown\b", re.sub(r"\*\*", "", a_chain[n]).lower())]
+    after = all(the_order.index(n) > the_order.index(OWN) for n in saying_own)
+    print(f"      the lines saying own, {saying_own}, all after its line: {'is' if after else 'is-not'}")
+    print(f"      own or my named by no prior line: {sorted(n for w in ('own', 'my') for n in found.get(w, [])) or 'none'}")
+    print(f"      words with no line: {said_whole(found)}")

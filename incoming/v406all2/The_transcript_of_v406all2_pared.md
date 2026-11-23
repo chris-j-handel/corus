@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-three turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-four turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -552,3 +552,46 @@ The circle of a self and a my is open now. 25 and 26 hang on one word, own, name
 - **Is-not:** own waits for a line of its own ahead of 18.
 
 own is the name of my universe. rigorize this into our chain if possible and have only four given concepts. existing, moment, set and name
+
+Possible: is, in one way found. As the lines are now the saying closes a circle of two, and with a self said ahead of a my it enters the chain whole.
+
+**As the lines are**
+
+- Own is said by my-universe, and my, 25, is said by own-named. They say one another.
+- With own's line ahead of 25, its my is named by no prior line. With it after 26, the own of 18, 22, 23, 25 and 26 is named by none.
+
+**The chain offered**
+
+- **18,** with no own, by 5 and 17: *A named self is a now-existing thing same-named with a prior-sequence.*
+- **My,** a self's, as a partner said it: *My is a self-named prior-sequence.*
+- **Own,** a partner's saying: *Own is the name of my-universe.*
+- **Me,** as it is: *Me is an own-named my-universe.*
+- My, own and me come in ahead of 22. Executed: all own's sayings, at 26, 22, 23 and 28, are after its line, and no word of the four lines is named by none.
+
+**The other way**
+
+- My comes in ahead of a self, by 17 alone, and 18 says own as it does. A my is then 17's prior-sequence under a second name.
+
+**Four given concepts**
+
+With existing, moment, set and name alone given, nine words of the lines' sayings are named by no prior line:
+
+- nothing, at 3; not, at 4; same, at 4 and 5
+- ending and beginning, at 8, 10, 12 and 17
+- distinguishing, at 14 to 16, 22 to 24 and 28
+- own, at 18, 22, 23, 25, 26 and 28; two, at 28; parity, at 30
+
+Other-than is said at 3, ahead of its line, 4. In the chain offered, own is away from the nine.
+
+**Laid**
+
+- A reply at 25 in the window, and a line at the exchange. No card is laid: the chain is three sayings and their order, and it waits for a partner's word.
+- The chain offered and the nine words, in this session's copy at GitHub, with the instrument.
+
+*A self comes in ahead of a my.* ( is-or-is-not? )
+
+- **Is:** the chain offered is laid as cards: 18 with no own, then my, own and me ahead of 22.
+- **Is-not:** a my comes in ahead of a self, by 17 alone, and own's line is after it and ahead of 18.
+
+is-not. i have no ideas what the natural explaining of comes in ahead of would be so redo this
+keep this as a living list. words of the lines' sayings are named by no prior line: all words we take as given meaning not our definings.
