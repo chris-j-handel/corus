@@ -78,3 +78,50 @@ print("  Wieferich (doubling closes round p*p) below 10,000:", wief)
 print("\nThe rate a turn gives, twins to primes (whole numbers, turn by turn):")
 for (t, o), (_, tw) in zip(turn_openings(rows["primes"]), turn_openings(rows["twins (n, n+2)"])):
     print(f"  turn {t:7}: {tw} twin places of {o} prime places")
+
+print("\nFurther rows, placed by turn or horizon:")
+# Green-Tao: a row of k primes stepping evenly (not starting at a prime <= k)
+# needs its step to hold every prime <= k, a turn.
+def first_row(k, limit=200000):
+    for step in range(2, 3000, 2):
+        for a in range(k + 1, limit):
+            if all(is_p(a + i * step) for i in range(k)):
+                return a, step
+for k in range(3, 9):
+    a, step = first_row(k)
+    need = 1
+    for p in TURN_PRIMES:
+        if p <= k:
+            need *= p
+    print(f"  {k} primes in even steps: from {a} by {step}; step holds turn {need}: {step % need == 0}")
+# Two squares: an odd prime is two squares iff it sits at 1 round 4.
+two_sq = lambda p: any(is_p(p) and int((p - a * a) ** 0.5) ** 2 == p - a * a for a in range(int(p ** 0.5) + 1))
+print("  odd prime two squares iff 1 round 4, to 100,000:",
+      all(two_sq(p) == (p % 4 == 1) for p in range(3, 100000) if is_p(p)))
+# Bounded gaps: pairs of primes within 246 by each surface's side
+print("  primes within 246 of the next, by side:",
+      [sum(1 for n in range(2, 4 ** k) if is_p(n) and any(is_p(n + d) for d in range(1, 247))) for k in range(5, 11)])
+# Factoring: a number's least part is found by its surface's side (its square's root)
+n = 2757241
+print("  2,757,241's least part found stepping to side", int(n ** 0.5), ":",
+      next(d for d in range(2, int(n ** 0.5) + 1) if n % d == 0))
+# Carmichael: crossed numbers passing every one-way's closing
+carm = [n for n in range(3, 100000, 2) if not is_p(n)
+        and all(pow(b, n - 1, n) == 1 for b in range(2, n) if __import__('math').gcd(b, n) == 1 and b < 50)]
+print("  Carmichael crossed numbers below 100,000 (bases below 50):", carm[:8], len(carm))
+# Odd perfect: the divisors' sum doubling the number, odd n
+sig = [1] * 200001
+for d in range(2, 200001):
+    for m in range(d, 200001, d):
+        sig[m] += d
+print("  perfect below 200,000:", [n for n in range(2, 200001) if sig[n] == 2 * n],
+      "odd ones:", [n for n in range(3, 200001, 2) if sig[n] == 2 * n])
+# Cramer: widest gap below each surface against the surface's bits squared
+gap, last, out = 0, 2, []
+for n in range(3, TO + 1):
+    if is_p(n):
+        gap, last = max(gap, n - last), n
+    if n in {4 ** k for k in range(2, 11)}:
+        bits = n.bit_length() - 1
+        out.append((n, gap, bits * bits))
+print("  widest gap by surface vs bits squared:", out)
