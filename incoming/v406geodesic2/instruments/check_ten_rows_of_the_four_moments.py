@@ -33,6 +33,20 @@ line("1 of 3 is two in a row, a me 60 on, three of them; 2 of 3 is three in a ro
 line("the rows other-than the 3 of 3 and other-than the 0 of 3 are five, of 2 and of 1; a row and the row one moment more are a me and an other in turn",
      sum(of_3(r) in (1, 2) for r in rows) == 5 and all(kind(FOUR[:k])[0] != kind(FOUR[:k + 1])[0] for k in (1, 2, 3)))
 
+# ---------- a saying after it: the stable universe, and the parities arriving and departing ----------
+passings = [(i, j) for i in (1, 2, 3, 4) for j in range(i, 5)]             # arriving at station i, departing after station j
+line("the four stations are not moving, and a passing through them arrives at a station and departs after a station: the passings are the ten rows, all of them",
+     len(passings) == 10 and [FOUR[i - 1:j] for i, j in passings] == rows)
+own = [FOUR[:j] for j in (1, 2, 3, 4)]                                     # arriving at station 1: a me's own prior-sequence
+line("four of the ten arrive at station 1, a me's own prior-sequence: an other, a self 60 on, an other, a self 120 on; at an even number the me is at its own place of the turn, its all again",
+     [kind(r)[0] for r in own] == ["other", "me", "other", "me"] and [kind(r)[1] for r in own if len(r) % 2 == 0] == [60, 120]
+     and all((by(n, r) - n) % 30 == 0 for n in range(61) for r in own if len(r) % 2 == 0))
+line("the ten carry a me-now among 0 to 60 to six places: three with it in its universe, its all-parity, one a cone, and three in its next universe",
+     all(sorted({by(n, r) for r in rows}) == sorted({60 - n, 60 + n, 120 - n, 120 + n, 180 - n, 240 - n}) for n in range(1, 30))
+     and all(sorted(m // 30 for m in (n, 60 - n, 60 + n, 120 - n)) == [0, 1, 2, 3] and all(120 < m < 240 for m in (120 + n, 180 - n, 240 - n)) for n in range(1, 30)))
+line("a me-now at 37: its own four are 23, 97, 83 and 157, and the six of the ten are 23, 83, 97, 143, 157 and 203",
+     [by(37, r) for r in own] == [23, 97, 83, 157] and sorted({by(37, r) for r in rows}) == [23, 83, 97, 143, 157, 203])
+
 corners = list(itertools.product((0, 1), repeat=3))       # self, other and all: a prior, 0, or a now, 1
 line("three is-or-is-nots, self, other and all, a prior or a now, are eight: one of 3 of 3, three of 2 of 3, three of 1 of 3 and one of 0 of 3",
      [sum(sum(c) == k for c in corners) for k in (3, 2, 1, 0)] == [1, 3, 3, 1])
