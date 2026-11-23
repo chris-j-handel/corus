@@ -27,7 +27,7 @@ A partner's asking of 23 November: a resolving stable form for the primes, like 
 | **A middle fixing as an end**, 5 · 13 | | the hypothesis [5.16] | Montgomery and Dyson, φ's four zeros in 60 | | the hypothesis for pieces | |
 | **A parity fixing as a magnitude**, 7 · 15 | the parity wall, named in 3.13 and 3.14 | Mertens, Littlewood's turning | | | | Erdős and Kac |
 | **A sequencing fixing to one beat**, 4 · 12 | bounded gaps | Bertrand, Legendre, Cramér | | | the staircase, four faces of 30 | |
-| **A rate fixing as a value**, 7 · 15 | Hardy and Littlewood, Brun | the count of primes by its smooth curve | φ's rate never ending away | | the race's 26,861 | |
+| **A rate fixing as a value**, 7 · 15 | Hardy and Littlewood, Brun | the primes' staircase by its smooth curve | φ's rate never ending away | | the race's 26,861 | |
 | **A two-way fixing to one side**, 3 · 11 | random or ordered | step or smooth | | | Chebyshev's race | cicadas' 13 and 17 |
 | **A between fixing as a cut**, 5 · 13 | | natural or supernatural, a horizon | a prime known by its own openings, 1 not a prime | prime or crossed | 120's fracture | primes of the plane |
 
