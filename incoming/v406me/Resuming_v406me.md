@@ -9,7 +9,7 @@ Incoming · v406me · 21 November 2026, as the sessions resume
 1. `incoming/v404mgr/The_working_now.md`, Start here: the rules no session goes past.
 2. This page.
 3. `The_working_windows_and_the_next_projects.md`, in this folder: a session with its window, the going through of one another's work, and the next projects ready to launch. Then `What_the_six_sessions_resume_from.md`: a session with its page for resuming.
-4. `The_observer_of_the_living_expedition_a_copy.md`, in this folder. The working document itself is found among the account's artifacts by its title, and the board beside it, *Expedition Possibling Observer*.
+4. The managing table, *The managing table of the living expedition*, among the account's artifacts, and its copy in this folder, `The_managing_table_of_the_living_expedition.csv`: all the expedition's value in rows, the living at its top and the artifact the farthest down, a row with its standing, its condition, its aiming and what it waits for. Then `The_observer_of_the_living_expedition_a_copy.md`, in this folder, behind the table. The working document itself is found among the account's artifacts by its title, and the board beside it, *Expedition Possibling Observer*.
 5. The state's instrument, executed as its opening lines say: `python3 -I incoming/v406me/instruments/the_state_of_the_set.py LIVE NEXT`.
 6. A partner's method of speaking, before a word to a partner: `incoming/v404mgr/This_sessions_transcript_whole_and_pared.md`, its part 4.
 
@@ -38,14 +38,15 @@ What comes to a healthy condition with this session, as the observer says it:
 
 ## Next steps, as planned
 
-By the scan of 22 November, `The_opportunities_to_begin_improving_the_valuables_and_the_incoming_scanned.md`, and waiting on nothing:
+By a partner's words of 23 November. v406me is the session of the large picture. No work in the gathering files or in incoming begins with an is of v406me alone: a partner and v406me have an is of it, both. Work of one thing after an other goes to sessions in groups, in a way both have an is of.
 
 1. The sessions' offers gone through for harm and brought in, and the next version brought current.
-2. The sentences with a partner in one place on the board, in the order of what a sentence opens.
-3. The surface's next round: the sessions' threads gathered by an instrument, from a session's page in the surface's form.
-4. Improving in the gathering files of the next version, with a partner, by `The_released_words_of_the_notes_re-said_a_place_as_it_was_and_as_it_is.md`: natural naming in the notes, a gathering file at a turn, the names of the main list the same; the notes' quotations and pages rigorized; a closed folder's carrying executed, a folder at a turn, with `instruments/the_askings_of_a_folder_in_the_gathering_files.py`. Of the gathering check's 48 findings, 23 are re-said, 15 rest in seven notes, and ten are quotations of an earlier opening, with v406all2.
-5. The news of the working windows written again whole, the observer and the board renewed with it, and the observer's copy in this folder.
-6. The copy of one working document of this account brought into this folder: *Natural Intelligence's opening: the working section, marked*.
+2. The managing table going on living: a row's condition renewed by a session's line and by an executing, a row's standing by a partner's word, and its copy laid in this folder at a turn.
+3. With a partner, in the table: the priority of its rows; the binary for a note, to its section, to the other file it is of, into the note it repeats, or to artifact; what needs no word and what needs a partner's word; and how a word is given, as once for a listed batch after a second session's going through.
+4. With a partner's word, v406me's own tables of the managing dissolving to artifact, the managing table having their rows: the news, the surface, and the scan's two tables.
+5. The copy of one working document of this account brought into this folder: *Natural Intelligence's opening: the working section, marked*.
+
+Begun and stopped, 23 November: six of Natural Mathematics' twelve piled notes moved whole to their sections, #1147. They stay as moved, by no word against it.
 
 Resting on a partner's word: Exhibit ONE Natural Resolver's one word re-said through the file, gone through by v406all2-2 with all sixty-four sayings carrying, and not asked for now.
 
@@ -74,7 +75,7 @@ v406Reiman winds down on 22 November, and a partner goes on with the primes repo
 - With no prior, a self has the parity surfacing as its prior and gives it on, Natural Intelligence 3.4.
 - Written again with one is-or-is-not alone, a field's nand, not both, the cell is fifteen lines, `a_cell` of v406Reiman's instrument. It is the same as the living code: 363 cases; v406all2's four states, twelve steps and twelve cases, a finite all; and societies of 1 to 59 selves, moment with moment.
 - The fifteen lines beside the seventeen names, v406all2's at a partner's asking: line 1, 14 opening with none; 2, 2 with 4 and 7; 3 and 4, 15; 5 and 6, 14; 7, 3; 8, 12 opening as 14; 9 and 10, 12 with 4; 11 and 12, 11 and 8; 13, 10, across with 6 and along with 9; 14, 11 to 3; 15, 10 and 11 to 17, a 1 again.
-- Two partings are a call's alone, and no line of the living code makes them: a prior 0 supplied, and a value other-than a + or a −.
+- Two partings are a call's alone, and no line of the living code makes them: a prior 0 supplied, and a value other-than a + or a −. A prior 0 supplied, the living cell has as a −, by its side of 0, and the cell by nand as no prior: found by v407primes, executed in all four states at the foot of `../v406all2/instruments/the_two_codes_one_method_all_or_none.py`.
 
 **With a partner.** The report's sentence 27, of a nand as a self's is-or-is-not of a co-parity, is self resolving by a partner's word. The word *deciding* is no natural naming, by a partner's is-not. Three lean sayings are in Exhibit ONE Natural Resolver's gathering file of the next version, #1140.
 
