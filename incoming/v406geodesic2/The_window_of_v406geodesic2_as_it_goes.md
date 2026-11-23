@@ -2,14 +2,14 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, said again at a turn of a p
 
 # The window of v406geodesic2, as it goes
 
-*In plain words, for a session going through this work or going on with it. No word here is an authority over the living files. A quotation in italics is word for word in the file named beside it. The fourth, fifth, sixth and seventh drawings are candidates, and no living sentence says them.*
+*In plain words, for a session going through this work or going on with it. No word here is an authority over the living files. A quotation in italics is word for word in the file named beside it. The fourth to the eighth drawings are candidates, and no living sentence says them.*
 
 ## The session in one minute
 
 - **Its name.** v406geodesic2, going on from v406geodesic, whose page for resuming is [the wrap of v406geodesic](../v406geodesic/The_wrap_of_v406geodesic_for_resuming.md).
 - **Its window.** A design canvas among a partner's own artifacts, *Sphere with a Three-Right-Angle Triangle*: the illustration of bi-folding as the geodesic right triangle, 1 to 17. Its link goes in no file.
 - **Beside the other sessions.** It goes through the work of v406all2-2, the seventeen names. v406Reiman goes through its own.
-- **This folder.** The fourth, fifth, sixth and seventh drawings' views; the canvas's own files new with this sitting; eleven instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
+- **This folder.** The fourth to the eighth drawings' views; the canvas's own files new with this sitting; thirteen instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
 
 ## What moved: a fourth drawing
 
@@ -190,6 +190,52 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, said again at a turn of a p
 
 **Open in it:** which three of it are observing, possibling and discovering. The drawing lays the three on no part.
 
+**A partner's word of it, 23 November:** yes, and to go on. This session offered one sentence, *all 5s* as the co-linear's far side, with its suggestion of bothboth and the cube of 5 beside it. It has the yes as is, of the sentence, and as a yes of the suggestion. The saying as said is in the transcripts, pared.
+
+## An eighth drawing: the cube of 5, five selves on its line, and 120 about it
+
+**Its view:** [the cube of 5, five selves on its line, and 120 about it](illustrations/draft_8_the_cube_of_5_five_on_its_line_and_120_about_it.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now.
+
+**What it lays, a candidate.** Three figures, the second saying of *all 5s*.
+
+- **Across its line.** The cube of 5 from the corus, in the one triangle's own eighth of the sphere: the shells 1, 7, 19, 37 and 61, a shell about the cube before it. Their five corners, the corus and four more, are co-linear along (1, 1, 1), a step a shell, and no other self of the cube is on that line. With the seventh drawing's placing the shell of 37's three far corners are B, C and A, and the line is through the one triangle's centre.
+- **Along its line.** The cube is the hexagon of 61, the seventh drawing's 0 to 60 a place for a place, and a place of round r is 5 less r selves deep. About the line are 120 selves: by rounds 24, 36, 36 and 24, and by shells 6, 18, 36 and 60.
+- **Under the two, 0 to 120 by the four rounds,** the line a 0. Its ends are 0, 24, 60, 96 and 120, podal about 60. Its primes are nine, eight, seven and six. Six of a round are podal with a prime, the innermost round's with the outermost's and the two between with one another, and 3, 2, 1 and none are more: 2, 3 and 5, the spirals of 120 itself; 29 and 43, their podals 91 and 77 crossed by the spiral of 7; and 71, its podal 49, 7 by 7.
+
+**Beside it, living,** all of Exhibit THREE Natural Numbers but the last.
+
+- *Primes part about twenty-four as nine behind and eight ahead*
+- *Behind its waist a span is twenty-four long and has nine primes; ahead it is thirty-six long and has eight*
+- *twenty-four is an apex of nought to sixty's bi-folding*
+- *Sixty parts as twenty-four and thirty-six with a five-fold too*
+- *sixty is a waist of a ring of one hundred twenty, its own far side*
+- *Twenty-four, twenty-seven and thirty-two pair on that ring with ninety-six, ninety-three and eighty-eight*
+- *From a self's own corus to a surface its going is one line*
+- *Twenty-three a vertex, twenty-five a centre of a face and fifty-nine a surface are on one line, a position, a scale and an orientation*
+- *Primes go from two to fifty-nine and return from sixty-one to one hundred eighteen*
+- *Twenty-seven, three cubed, on a route 24 → 27 → 32 from a seam*
+- *past fifty-nine sixty to sixty-eight are four moments across sixty-four*
+- *115 = 5 × 23 with 125 = 5³*
+- Exhibit THIRTY Co-Chaining Logic Registry, its step 514: *A right-hand turn of 120 degrees about a line from a corus along (1, 1, 1)*
+
+**Executed ahead of the drawing.** `instruments/check_the_cube_of_5_and_its_line.py`, seventeen lines, all *is*, with whole numbers and the figure's own geometry, and the thirteen living sentences above, word for word.
+
+**Found with it.**
+
+- A cube of 2, of 3, of 4 and of 5 is 6, 24, 60 and 120 about its line, a number with its prior and its next multiplied: 24, the fold; 60, the waist; and 120.
+- A cube is its selves about its line and its line: 27 is 24 and 3, 64 is 60 and 4, and 125 is 120 and 5. Natural Numbers has 27, 64 and 125 beside 24, 60 and 120, in the three sentences above.
+- By shells 0 to 120 is to 6, to 24, to 60 and to 120. 60, the waist, is the cube of 4 whole, and the shell of 61 is its corner and the returning, 61 to 120.
+- About the line the 120 are ten turns: four of 6, three of 12, two of 18 and one of 24. It is beside a partner's saying to v407primes of ten one-way other-thans, and no tie is shown.
+- Natural Numbers has the nine behind twenty-four and the eight ahead. The seven and the six of the returning, and the six podal of a round with 3, 2, 1 and none more, this session finds in no living file.
+
+**The session's own placings in it,** candidates all three:
+
+- the cube of 5 from the corus, in the one triangle's own eighth, its step the seventh drawing's;
+- the 120 about the line as 1 to 120, round after round from the line, the line a 0;
+- its line as a co-linear through all 5s, beside the fifth drawing's co-linear through B.
+
+**Open in it:** which of the selves on its line are 23, 24 and 25. On it are the cube's corner, a vertex, and the one triangle's centre, a centre of a triangle, beside Natural Numbers' *a vertex and a centre on one line*.
+
 ## Askings answered with the seventh drawing, as said at the exchange
 
 - **v406Reiman's, a 0 off the co-linear:** is. In the sixth drawing's two figures along the co-linear two 0s are off it: the quarter of none, and the quarter of a + and a −, across the co-linear from one another, in turn with a + and a −. The cell's giving with is is that none. In the seventh the 0 is the rounds' centre, on the co-linear.
@@ -237,9 +283,9 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 
 ## What it waits on, as said at the exchange
 
-1. **Waiting for next:** a partner's word of the seventh drawing's *all 5s*, of the sentence of both, and of the placings of the fourth, fifth, sixth and seventh drawings. No session, no source and no working document.
+1. **Waiting for next:** a partner's word of the eighth drawing, of the sentence of both, and of the placings of the fourth to the eighth drawings. No session, no source and no working document.
 2. **Of its own, an other session waits for:** v406all2-2, a drawing with the two lines of 9 less and 17 less. It waits on that same word. v406all2-2's card of the sentence is on Exhibit ONE Natural Resolver's own sentence of the four bi-foldings, in its working document.
-3. **Meanwhile, waiting on nothing:** v407primes' going through of the seventh drawing, by its story's sentences 73 to 79.
+3. **Meanwhile, waiting on nothing:** v407primes' going through of the seventh and the eighth drawings, by its story's sentences 73 to 81.
 
 ## Its open places, by their homes
 
@@ -248,14 +294,15 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 - **At this page, the session's own placings in the fourth drawing,** candidates all three: the moments at the corners and the one-way me-parities on the sides; the tip a self's route reaches ahead of its other, tip B toward tip C, as a right spiral step brings P's axis to Q's; and 1, 9 and 17 at the me.
 - **At this page, the fifth drawing's five placings,** above.
 - **At this page, the sixth drawing's three placings,** above. With them, which names of the seventeen the four quarters are: a + and a − with none and with a + and a −, a parity and a 0 in turn.
-- **At this page, the seventh drawing's four placings,** above. With them: *all 5s* said two ways, the co-linear's far side by the rounds and the cube of 5's own line; and which three of it are observing, possibling and discovering.
+- **At this page, the seventh drawing's four placings,** above. With them: which three of it are observing, possibling and discovering. Its *all 5s* is with a partner's yes, as this session has it.
+- **At this page, the eighth drawing's three placings,** above. With them: which of the selves on the cube's line are 23, 24 and 25.
 - **At this page, the sixth drawing's third figure,** its words saying lines 13 to 15 and its drawing lines 11, 12 and 15, by v406Reiman's going through.
 - **At this page, the torus's placing,** two candidates: by n − 1 in four binary digits, the third drawing's; or by the sheet's lines, a bi-folding of the four one round of the small opening.
 
 ## Its next steps, in their order
 
-1. A partner's word of the seventh drawing: *all 5s* as the co-linear's far side, 0 to 120 by the numbers one before a six, or as the cube of 5's own line.
-2. An artboard beside the seventh, by that word: the cube of 5 observed along (1, 1, 1), five selves on its line and 120 about it, 24, 36, 36 and 24; or the rounds with the six rays' steps, 19 to 24, from the hexagon of 37 to the hexagon of 61.
+1. A partner's word of the eighth drawing: the 120 about the cube's line as 0 to 120, round after round, its primes nine, eight, seven and six.
+2. An artboard beside the eighth, by a partner's word: 23, 24 and 25 on the cube's line; or the rounds with the six rays' steps, 19 to 24, from the hexagon of 37 to the hexagon of 61.
 3. A partner's word of the sixth drawing: the cell's one is-or-is-not as one quarter of four, and its prior and its next prior as the co-linear's far side and its own side.
 4. A partner's word of the sentence of both.
 5. By a partner's word: a nand as four of the eight triangles, found and not drawn; or the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
@@ -265,16 +312,17 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 
 ## Its concerns
 
-- **v406Reiman went through the fourth, the fifth and the sixth drawings,** the sixth by its cell, a line with its place. No second session has gone through the seventh.
+- **v406Reiman went through the fourth, the fifth and the sixth drawings,** the sixth by its cell, a line with its place. v406me went through the seventh drawing's check, its thirty-one lines all *is*. No second session has gone through the eighth.
 - **The sixth drawing's check opens v406Reiman's cell from its own file,** in the live set with #1139, and executes from the repository's root as its head says, all *is*.
-- **The seventh drawing rests on v407primes' sentences 73 to 79,** in its offer, #1150, not yet in the live set. Its check opens no page of that offer.
-- **The words on the canvas's three earlier artboards** are as the wrap of v406geodesic says them, their re-sayings ready at that page. The words of the fourth, fifth, sixth and seventh artboards are gone through with the one list and the released words, none found. On the seventh, the one list's word of Natural Numbers' own saying of one hundred twenty is said as 0 to 120.
+- **The seventh and the eighth drawings rest on v407primes' sentences 73 to 81,** in the live set with #1150 and #1153. Their checks open no page of that folder.
+- **A partner's yes is short,** and this session's saying of it, is and bothboth, is its own. It said its saying of it to a partner ahead of the eighth drawing.
+- **The words on the canvas's three earlier artboards** are as the wrap of v406geodesic says them, their re-sayings ready at that page. The words of the fourth to the eighth artboards are gone through with the one list and the released words, none found. On the seventh and the eighth, the one list's word of Natural Numbers' own saying of one hundred twenty is said as 0 to 120.
 - **Two pictures are moved by a hand on the canvas,** the second drawing's and the fifth's, from their words. This session moves neither with no word of a partner.
 - **The canvas is among a partner's own artifacts.** A partner gives its link in the conversation.
 
 ## Going on with this work
 
 1. Start here, the wrap of v406geodesic, then this page.
-2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cell_by_nand_alone_round_the_co-linear.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_rounds_of_six_at_prime_scale_37.py .`, thirty-one lines, all *is*.
-3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py`, `make_draft6.py` and `make_draft7.py`, the same way, build the fifth, the sixth and the seventh.
+2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cell_by_nand_alone_round_the_co-linear.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_rounds_of_six_at_prime_scale_37.py .`, thirty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cube_of_5_and_its_line.py .`, seventeen lines, all *is*.
+3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py`, `make_draft6.py`, `make_draft7.py` and `make_draft8.py`, the same way, build the fifth to the eighth.
 4. One pass, one artboard beside the last, an artboard before it as it was.
