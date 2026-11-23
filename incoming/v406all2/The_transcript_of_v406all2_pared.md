@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-four turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-five turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -595,3 +595,32 @@ Other-than is said at 3, ahead of its line, 4. In the chain offered, own is away
 
 is-not. i have no ideas what the natural explaining of comes in ahead of would be so redo this
 keep this as a living list. words of the lines' sayings are named by no prior line: all words we take as given meaning not our definings.
+
+The chain is said again in the lines' own words, by the is-not, and the living list is laid in the window.
+
+**The words set right**
+
+- A line is said with its prior lines' names, and a name is said after its line. *Comes in ahead of* is away from this session's sayings.
+
+**Own, by the is-not: my is said with no self**
+
+- With own the name of my-universe, my is said with no own: own is said with my.
+- By the is-not my is said with no self too. With 17 and the four given concepts alone, one saying of my is found: *My is a named prior-sequence.*
+- Own and me are as a partner says them: *Own is the name of my-universe.* and *Me is an own-named my-universe.*
+- The three are prior lines of a self, 18. Lines 18, 22, 23, 26 and 28 are as they are, and all own's sayings are after its line: executed.
+- One place to say plainly: a my is then 17's named prior-sequence under a second name.
+
+**The living list**
+
+- It is in the window's part *Holes*: a word, the lines saying it, and its kind. It is made from lines 1 to 34 at a turn.
+- The four given concepts: existing, moment, set and name.
+- Ten words with no line: other-than at 3, nothing, not, same, ending, beginning, distinguishing, own, two and parity.
+- Sixteen plain joining words: a, all, an, and, are, as, both, by, from, in, is, its, of, the, their and with.
+- With own's line, own is away from the ten.
+
+*My is a named prior-sequence.* ( is-or-is-not? )
+
+- **Is:** cards say 25 with it, and own's line and me after it, the three as prior lines of 18.
+- **Is-not:** my waits for a saying with no self and no own, and own's line waits with it.
+
+the list of givens is needed living while we are doing this as the is or is not depends on the available alternatives

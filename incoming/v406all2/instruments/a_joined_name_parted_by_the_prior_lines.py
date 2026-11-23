@@ -26,6 +26,11 @@ number, a name in bold. No line is written here, and no line moves.
      The lines as they are, with own's line a prior line of 25, and with it after 26. Then two chains,
      their sayings the page's rows at a number: by a partner's is-not, my said with 17 alone, and
      my, own and me prior lines of a self; and its other, my said with a self, and a self with no own.
+  7  The words available to a saying, a partner's saying of 23 November, the is or is not depends on
+     the available alternatives: at my's place, with no self and no own, the names of lines 1 to 17,
+     the four given concepts and the plain joining words; and the sayings of my with them, the
+     page's rows of that name, gone through in the chain of part 6: a saying's names, its words with
+     no line, and its names 17's own saying says too.
 
 It writes its lines to standard output. It writes no file and decides nothing.
 """
@@ -248,3 +253,29 @@ for label, sayings, the_order, shown in (
     print(f"      the lines saying own, {saying_own}, all after its line: {'is' if after else 'is-not'}")
     print(f"      own or my named by no prior line: {sorted(n for w in ('own', 'my') for n in found.get(w, [])) or 'none'}")
     print(f"      words with no line: {said_whole(found)}")
+
+print("\n7. The words available to a saying of my, with no self and no own")
+MY_PRIOR = list(range(1, 18))
+available = {}
+for its_parts, n in names_of(lines, ORDER).items():
+    if n in MY_PRIOR:
+        available.setdefault(n, []).append(" ".join(its_parts) if its_parts == ("universal", "set") else "-".join(its_parts))
+print("   the names of lines 1 to 17: " + "; ".join(f"{min(v, key=len)} {n}" for n, v in sorted(available.items())))
+print("   the four given concepts: existing, moment, set, name")
+print(f"   the plain joining words: {', '.join(sorted(PLAIN))}")
+in_17 = {by for part, by in names_said(re.sub(r"\*\*.+?\*\*", " ", lines[17]), set(range(1, 17)))}
+B_ORDER = list(range(1, 18)) + [25, OWN, 26] + list(range(18, 25)) + REST
+for saying in re.findall(r"^\| (.+?) \| a saying of my \|$", text, flags=re.M):
+    a_chain = dict(lines)
+    a_chain.update({25: saying.strip(), OWN: by_is_not[OWN]})
+    its_names = names_of(a_chain, B_ORDER)
+    words = parts_of(re.sub(r"[.,:;]", " ", re.sub(r"\*\*.+?\*\*", " ", saying)))
+    holes, size, parting = partings(words, set(MY_PRIOR), its_names, PLAIN)[0]
+    said_with = [f"{part} {by}" for part, by in parting if isinstance(by, int)] + [f"{part}, given" for part, by in parting if by == "given"]
+    no_line = [part for part, by in parting if by is None]
+    again = sorted(by for part, by in parting if isinstance(by, int) and by in in_17 and by != 17)
+    found = words_given(a_chain, B_ORDER)[None]
+    whole = not no_line and "own" not in found and "my" not in found
+    print(f"   {re.sub(r'[*]', '', saying.strip())}")
+    print(f"      said with: {'; '.join(said_with)} · words with no line: {', '.join(no_line) or 'none'} · the chain whole with it: {'is' if whole else 'is-not'}"
+          + (f" · 17's own saying says {again} too" if again else "") + (" · 17's own name is a named prior-sequence" if ("named", "given") in parting else ""))

@@ -24,6 +24,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, a partner's working again.** 25 and 26 are said with own-named, and the cards at 22 and 23 are away by a partner's hand. Gone through: the circle of a self and a my is open, 25 saying no self; own is named by no line and is in six lines, 18, 22, 23, 25, 26 and 28. Asked of a partner: own as a given word.
 - **On 23 November, own into the chain.** A partner's saying: *own is the name of my universe*, with four given concepts alone, existing, moment, set and name. Gone through: as the lines are it closes a circle of two, own and my; it enters the chain whole in one way found, a self said with no own, my a self's, then own and me, prior lines of 22. The words named by no prior line and none of the four are listed, nine of them, own among them as the lines are.
 - **On 23 November, own said again in the lines' own words, and the living list.** A partner's *is-not*, and of this session's *comes in ahead of*: no natural explaining of it. Said again: a line is said with its prior lines' names, and a name is said after its line. By the is-not my is said with no self, *My is a named prior-sequence.*, and own and me are prior lines of 18. A partner's saying: *keep this as a living list*, the words of the lines' sayings named by no prior line. It is in the working document's part *Holes*, and in the part of that name here, made by the instrument at a turn.
+- **On 23 November, the sayings available.** A partner's saying: *the list of givens is needed living while we are doing this as the is or is not depends on the available alternatives*. The words available to a saying are its prior lines' names, the four given concepts and the plain joining words, and an is-or-is-not is asked with its other sayings beside it. For my, with no self and no own, five sayings are laid, all executed whole; this session's saying of one alone is set right.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -152,6 +153,22 @@ A partner's saying of 23 November: *the me and self is circular with all living 
 | --- | --- |
 | A named **self** is a now-existing thing same-named with a prior-sequence. | its other, at 18 |
 | **My** is a self-named prior-sequence. | its other, at 25 |
+
+**The sayings of my available, with no self and no own.** A partner's saying of 23 November: *the list of givens is needed living while we are doing this as the is or is not depends on the available alternatives*. This session said one saying of my was found, and more are sayable with the words available: its saying of one alone is set right here. Available at my's place are the names of lines 1 to 17, the four given concepts and the plain joining words, listed by the instrument's part 7. Five sayings of my with them, all five executed in the chain, whole:
+
+| Sentence | Its kind |
+| --- | --- |
+| **My** is a named prior-sequence. | a saying of my |
+| **My** is a now-existing prior-sequence. | a saying of my |
+| **My** is a same-existing prior-sequence. | a saying of my |
+| **My** is a same-named prior-sequence. | a saying of my |
+| **My** is the name of a prior-sequence. | a saying of my |
+
+- **A named prior-sequence.** It is 17's own name: a my is 17's prior-sequence under a second name.
+- **A now-existing prior-sequence.** By 2. It says a prior-sequence now-existing, said by no line yet, and a my-universe is then of 7's now-existing things: v406other2's hole at 26 is away with it. 30's name and 31 say now-existing again after it.
+- **A same-existing prior-sequence.** By 12. 27, a me-now a same-existing me, says same-existing again after it.
+- **A same-named prior-sequence.** By 5. 17's own saying says its moments same-named.
+- **The name of a prior-sequence.** A my is a name, and own, the name of my-universe, is then the name of a name's universe.
 
 ## The living list: words of the lines' sayings named by no prior line
 
@@ -340,6 +357,6 @@ For the opening, from the aims: the areas the aims cross most often with no line
 4. Resolving, 36, to *Prior*, with its rigor as it is here.
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
-7. A partner's lines of 23 November: a partner's word of *My is a named prior-sequence.*, the chain for own by a partner's is-not; then the words named by no line and none of the four given, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*.
+7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, five of them.
