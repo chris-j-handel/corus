@@ -2,7 +2,7 @@ Incoming · v406Reiman · 21 November 2026, the window's copy as it goes
 
 # The primes on the resolver's surface, beside the Riemann hypothesis
 
-*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 57, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
+*A copy of the window of v406Reiman, the session a partner calls reimann, as it was at its revision 62, with no link and no account name. The window is a working document among a partner's artifacts, found by its title.*
 
 ## The window in one minute
 
@@ -68,17 +68,52 @@ A spiral of a composite number is again as the smaller spiral laid along it. A s
 
 From a span to its square, the test above as a dividing: below 4, 1 new; below 16, 4 new; below 256, 48 new; below 65,536, 6,488 new, 6,542 together. With the resolver itself this sitting executes to 61.
 
-The primes of a doubling span beside a field's average for it:
+**A doubling span, all or none.** A prime is in all the doubling spans gone through, to 2^27 + 1: is. A field has it proved of all doubling spans, by Chebyshev, 1852.
 
-| A span | Its primes | A field's average | Their difference over the square root of the span's end |
-| --- | --- | --- | --- |
-| 9 to 17 | 3 | 3.2 | −0.04 |
-| 65 to 129 | 13 | 14.1 | −0.09 |
-| 8,193 to 16,385 | 872 | 872.1 | −0.00 |
-| 1,048,577 to 2,097,153 | 73,586 | 73,602.4 | −0.01 |
-| 67,108,865 to 134,217,729 | 3,645,744 | 3,646,033.6 | −0.02 |
+**Of a field's average, by a partner's word.** This page had a field's average for a span's primes beside them, and it is away: an average is no thing of nature, and the surface has none. It was here as a field's own framing. The hypothesis itself is all or none, a zero with one line or not. Said of the primes it is a field's saying of how far they are from an average, as the living file has a field's words above. Exhibit TWENTY Natural Naming 5.47 has such a saying as an accounting: *a self observes a stable form with an instrument, and its observing fixes it unchangeable*. A field has all-or-none sayings of the primes too, proved: no last prime, a prime in a doubling span, and a number a prime with no smaller prime dividing it. Those are the ones the surface executes.
 
-A prime is in all the doubling spans gone through, to 2^27 + 1. The hypothesis says of all spans what this page finds of five.
+**Is a field's proof verified directly, by the nand lines? A partner's asking of 22 November.** *the 15 nand lines should be able to verify the reimann solution directly*. As this session finds it: is-not, with two things beside it that are available.
+
+- **A checker's own lines are gating logic, and all gating is written with nand alone.** Executed here for two numbers added and two multiplied, in the second tab. A nand writing of Lean's checker, executed over the proof's library, is the same proving universe said again, and it is no fifteen lines. The library and its checker are not in this session's reach.
+- **The hypothesis has one is-or-is-not with a number, a field's own, by Lagarias, 2002:** the numbers dividing n, added, are no more than H + exp(H) ln(H), H being the reciprocals of 1 to n added. Executed with all numbers of 1 to 100,000, by a field's arithmetic: *is*. It is not yet written with nand alone.
+- **No executing has all numbers.** An executing is of the numbers stepped, and of no number past them. A proof is a thing with an end, said of numbers with no last, and a field made its proving universe to have that. Exhibit TWENTY-TWO, its 3: *A completing is no place, so no last stands within it*.
+- **A field has the same as a machine:** one of 744 states that stops with a number against the hypothesis, and with nothing else. Whether it stops is the hypothesis.
+- **Said plainly.** An executing number with number verifies no proof and proves no hypothesis. What the nand lines execute directly is a prime, number with number: the surface of 2 to 1,000, the same primes and the same seams as the living code.
+
+**A finite all is an executing's, whole.** By v406all2's line at the exchange on 22 November, the cell is twelve steps of observing and twelve cases of a prior with a state, and the cell by nand alone and the living cell are the same with all of them. The hypothesis is of numbers with no last, and that all is no executing's.
+
+## Exploring passes about verifying, 22 November
+
+A partner's saying: *continue these exploring passes along and across wide around this important subject and the nand fractal code method*. Executed in `passes_about_verifying_with_nand.py`. Nothing is proved.
+
+**Along: a turn closes an all.** An all with no last is an executing's once a turn closes it.
+
+- **A society come again has all its moments.** A spiral of 3 to 59 selves comes again, the living code and the cell by nand alone the same, and its moments past are its moments before, a turn on.
+- **A saying of spirals with one turn is an executing's with all numbers.** By one turn of six, Exhibit SEVEN's *Each prime from five on is one before a multiple of six or one after it*. By one turn of three, of three odd numbers two apart one is at three's seam: no three primes two apart past 3, 5 and 7. By one turn of twenty-four, a prime past three multiplied by its own is one past a multiple of twenty-four. By one turn of ten, a prime past five ends in 1, 3, 7 or 9.
+- **The surface has no turn.** In a turn of the spirals of 2 to p side by side, a number past p is at no seam of them, and a spiral opens with it. A saying of all spirals, a pair two apart with no last or the hypothesis, has no turn closing it. A field's proof closes it by an other thing than a turn.
+
+**A partner's explaining of it.** *the fractal method is the endless method of bounding universes into fractal now*, and *the living is bounding itself by the method and the method has not bound on itself*. Beside it, living and executed:
+
+- **Bounding:** a turn of the spirals of 2 to p side by side comes again, a turn on. Exhibit THIRTY, its step 436: *Method bounds and living goes on*.
+- **Fractal:** the turn before is again p times along it, with p's own seams more. Natural Naming 2.2: *With resolver a spiral of a composite number of selves resolves as its smaller spiral again along it*.
+- **With no bound on itself:** a spiral opens in a turn of the spirals before it, with no last. Natural Naming 8.4, of an end: *a first being a bounding on what has no bound*. Natural Numbers 7.1: *Primes have no last*.
+- **The primes a stable form of it:** Natural Intelligence 3.3: *Method is one fractal method, and it has many stable forms*.
+- **Said plainly.** A partner's explaining is living already, and executed with the spirals stepped. It says a field's asking of a last as a frame's. It is no proof of a field's hypothesis.
+
+**Across: the living code's cells, gating.**
+
+- **A cell is a field's nor in one moment:** with a prior + it gives − with none of its others giving +, and nothing with one of them giving.
+- **A question of places is a society of cells, two moments:** a cell a case with which its answer is not, and one cell over them. Executed with Exhibit ONE Natural Resolver's code as it is, and with the cell by nand alone, all cases: a nand of two; a place added, with a carry in and a carry out; two numbers of 0 to 3 added, and multiplied; and the cell itself, a prior and two observed.
+- **Out and back.** The cell is written with nand alone, and a nand is a society of cells: the one is made of the other, scale with scale.
+- **Said plainly.** Its inputs are given with their other-thans. A cell a case is a table of all cases, the brute forcing a partner names. A third layer is not executed: a cell with a prior and nothing observed is a clock, Exhibit EIGHTEEN's *A lone self receiving nothing inverts its prior, moment by moment*, and a layer's prior at its moment is by that clock.
+
+**Wide: the hypothesis in whole numbers, with no exp and no ln.** A field's, by Davis, Matijasevič and Robinson, 1976: with all n, (H − n·n/2) multiplied by its own is less than 36·n·n·n, H being the reciprocals of 1 to δ added. δ is made of the primes: the prime of a prime's power, multiplied along.
+
+- **By nand alone, with n of 1 to 4:** reciprocals added, multiplying and less, written with nand: *is*, the same as numbers' own arithmetic.
+- **With n of 5 and 6 by numbers' own arithmetic, and of 7 by a field's rounding:** *is*.
+- **δ with 8 is past two hundred million, and with 9 past a hundred thousand million.** An executing has a handful of its numbers. A field's machine of 5,372 states is this saying, stepped with no end, and a later one has 744.
+
+**What the passes find.** An executing has a finite all whole, and an all with no last once a turn closes it. The cell gates a question of places as a table of its cases. Neither verifies a field's proof directly, and neither says the hypothesis of all numbers.
 
 One less and one more than a product of primes: neither is divided by a prime of the product, and no prime divides both. From 30, 29 and 31. From 210, 11 × 19 and 211. From 30,030, 30,029 and 59 × 509. Beside it, living, Exhibit THREE Natural Numbers 7.1: *Primes have no last*.
 
@@ -174,5 +209,10 @@ All at this page, until a partner's word gives them a home.
 - Quanta Magazine, *AI Proved the Quasi-Riemann Hypothesis. What Happens Now?*, 19 October 2026, at its opening lines.
 - G. Kahn, *The semantics of a simple language for parallel programming*, 1974, not opened in this sitting.
 - Lean and Mathlib communities, *Lean verification of the Riemann Hypothesis*, 21 November 2026, opened whole.
+- Lagarias, *An Elementary Problem Equivalent to the Riemann Hypothesis*, arXiv math/0008177, at its opening words.
+- Scott Aaronson, *Three announcements*, 2016, at an extract of it.
+- Martin Davis, *Riemann Hypothesis as Pi-0-1 arithmetic proposition*, a post of 2017, at an extract of it.
+- Aran Nayebi, *On the Riemann Hypothesis and Hilbert's Tenth Problem*, arXiv 2311.09464, at extracts of it.
+- Yedidia and Aaronson, *A Relatively Small Turing Machine Whose Behavior Is Independent of Set Theory*, arXiv 1605.04343, at extracts of it.
 
 The primes report, in this window's second tab: *A number by its spirals*. Its copy is `A_number_by_its_spirals_six_unknowns_of_the_primes.md`, beside this page.
