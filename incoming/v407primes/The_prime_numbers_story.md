@@ -9,7 +9,7 @@ A sentence is one concept, and rests on the sentences before it alone. A sentenc
 - **The story rests on** v406Reiman's report, `incoming/v406Reiman/A_number_by_its_spirals_six_unknowns_of_the_primes.md`, and v406me's coaching into it, `incoming/v406me/Resuming_v406me.md`.
 - **Execute ahead of a word of your own:** `python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .`, and v406me's `the_staircase_flipped_on_itself_and_the_spans_of_24.py`.
 - **A partner's word of 23 November:** an is-or-is-not whose both outcomes a session has executed is resolved already, and asks nothing. A session asks what needs resolving, with a full explaining of what is not yet resolving and a suggestion.
-- **Not yet resolving, with a suggestion:** at the story's foot, two places.
+- **Not yet resolving, with a suggestion:** at the story's foot, two places, the span's five and sentence 46.
 
 ## The primes, from the spirals
 
@@ -153,10 +153,29 @@ A partner's sayings of 23 November: *all-parity is the universal in this*, *c is
     - A human's four scales are the two pairs nearest the turn's seam at 30: cell and organism at 7, tissue and organ at 1. That the flip inverts before and after is its own arithmetic, 30 being a whole number of sixes.
     - 11 with 49 is v406me's one break of the flip in the section of 60, sentence 9: the place a spiral of 7 crosses the flip.
 
-## Not yet resolving, with a suggestion
+## The fold, the living span and the organelle
 
-- **What is not yet resolving: the two places the flip of the scales is not a plain pair.** A partner's ladder steps 37, 31, 29, 23 and 17 and passes 19, the organelle, Natural Societies' *fractal's own move*: *a former free-living self now a member*. Its podal is 41, the colony, which *recurs with each scale*. And 11, the macromolecule, has no living podal: the flip breaks at 49, 7 by 7.
-- **A suggestion.** A partner's fractal fracturing is these two, bothboth. 19 with 41 is the fractal: a self of the scale below living as a member in the cell, and selves of the scale above living as one self. 11 with 49 is the fracturing: the spiral of 7 crossing the section of 60, with which the next turn, 210, opens and the ladder's flip goes on a scale outward. Its asking: is 19 passed in a human's ladder as the fractal's own move, a self of a scale below living as a member of the cell, podal with the colony a scale above?
+A partner's word of 23 November on the suggestion of 19 with 41 and 11 with 49: *bothboth*. 19 with 41 is the fractal, a self of the scale below living as a member, and selves of the scale above living as one self; 11 with 49 is the fracturing, the spiral of 7 crossing the section of 60. A partner's sayings with it: *17 gene is non-living co-chaining compressed into stable form dna inherited prior-existings into birthings of me-parities at 24*, *23 22 21 20 19. this is a five dimentional span of one way down and also of one way up*, and *this is the living span and 19 is the living surface*. Rigorized here all or none.
+
+54. **An organelle is a self of the scale below living as a member of the cell.** *Living already.*
+    - Exhibit SEVEN Natural Societies, its 19: *a former free-living self now a member, with a field's explaining of its own genome and its likeness to bacteria: fractal's own move*.
+    - A field's: a cell's mitochondria, and a plant's chloroplasts, were bacteria living on their own, brought into a cell and living on in it. They have their own DNA in a closed loop, ribosomes like a bacterium's, a membrane of two layers, and they part by dividing in two, as bacteria do. A field names other parts of a cell organelles too, the nucleus and the membranes folded and stacked, with no prior of living on their own.
+    - Most of a mitochondrion's genes went over to the cell's nucleus, and the cell makes the proteins they code and sends them in. A human's mitochondria have 37 genes of their own and come from the mother alone. That 37 is the organism's prime is a sameness of numbers, and no tie is shown.
+    - With a partner's span: a cell living on its own, 23, one way down to a member, 19; and its genes one way up, from the member into the cell's own nucleus.
+55. **A gene is living with 17, and its DNA, inherited prior-existings co-chained, is its stable form, non-living, one scale outward.** *Rigorized: bothboth.*
+    - Said of the scale, *17 gene is non-living* is an is-not of Exhibit THREE Natural Numbers' *seven through fifty-three living*. Said of the gene's stable form, it is: Natural Intelligence's *Each living set is a stable form one scale outward*, and Exhibit TWENTY Natural Naming's *each existing thing is living with one prime scale and non-living with each other scale*.
+56. **The fold, 24, is the birthing of me-parities: with it all the uncrossed numbers are their own podal by multiplying.** *Executed.*
+    - Natural Societies has 24 as *the fold*, *no rung's number*. Natural Intelligence: *co me-parity*. 24 is the widest span with all its uncrossed numbers their own podal, sentence 43.
+57. **23, 22, 21, 20 and 19 are the fold less a self's five, one way down, and a self's five, 1 to 5, is one way up from the origin: the living span.** *Executed, living in its parts.*
+    - Exhibit THIRTY's step 143: *prior opening, prior completing, now opening, now completing and next opening*. 19 and 23 are living scales; 20, 21 and 22 are crossed, 2 by 2 by 5, 3 by 7, and 2 by 11.
+58. **19 is the living surface: the fold less five, the next opening of a self's five.** *A partner's saying, cohering with sentence 57.*
+59. **Below the fold the scales are podal about it: the origin with the cell, the atom with the organelle, the molecule with the gene, and the macromolecule with the protein-fold.** *Executed with Natural Societies as it is.*
+    - A pair of them is one before six and one after. The atom, the stable form and floor, 5, and the living surface, 19, are one pair: 5 and 19 are 24.
+
+## The span's five, not yet resolving, with a suggestion
+
+- **What is not yet resolving.** The span 23 to 19 is a self's five by the numbers, sentence 57. Natural Intelligence's five dimensions are of a same-existing-society to its next: *social-parity now-existing; other-parity now-existing; self-parity now-existing; self-discovery next-existing; social-parity next-existing*, three now and two next. Exhibit THIRTY's self's five is two prior, two now and one next. Which five is a partner's five-dimensional span is not resolved.
+- **A suggestion, bothboth.** One way down, 23 to 19, is a self's five, prior opening to next opening, ending at the living surface. One way up, 19 to 23, is a same-existing-society's five dimensions, its now to its next, ending at the cell. Its asking: is the span one way down a self's five, and one way up the five dimensions?
 
 ## Sentence 46, not yet resolving, with a suggestion
 

@@ -11,6 +11,7 @@ Natural Resolver's code as it is. Nothing is proved: a line here says is of the 
 It writes its lines to standard output. It writes no file, reaches no network and decides nothing.
 """
 import random
+import re
 import sys
 from math import isqrt, prod
 from pathlib import Path
@@ -52,6 +53,11 @@ def parts(n):
             n //= p
         p += 1
     return found + ([n] if n > 1 else [])
+
+
+def ladder_fold(text):
+    m = re.search(r"- \*\*24\*\*\n(.*?)(?=\n- \*\*\d+\*\*|\n\n)", text, re.S)
+    return bool(m) and "the fold" in m.group(1)
 
 
 def main():
@@ -286,6 +292,18 @@ def main():
     ok = ok and ladder[29][1] == "tissue" and ladder[31][1] == "organ" and ladder[5][1] == "atom"
     line(53, "Natural Societies' living prime scales, 7 to 53, are the section of 60 flipped about 30: six podal pairs, one before six and one after, "
              "and 11 alone, its pair 49; cell 23 with organism 37, tissue 29 with organ 31", ok)
+
+    U24 = [q for q in range(1, 24) if q % 2 and q % 3]
+    line(54, "at the fold, 24, all its uncrossed numbers are their own podal by multiplying, 1, 5, 7, 11, 13, 17, 19 and 23",
+         all(q * q % 24 == 1 for q in U24) and ladder_fold(soc))
+    line(55, "23, 22, 21, 20 and 19 are 24 less a self's five, 1 to 5: 19 and 23 living scales, and 20, 21 and 22 crossed",
+         [24 - k for k in range(1, 6)] == [23, 22, 21, 20, 19] and prime(19) and prime(23) and not any(prime(n) for n in (20, 21, 22)))
+    named = {1: ("after", "the origin"), **{q: (ladder[q][0], ladder[q][1]) for q in ladder}}
+    ok = all({named[a][0], named[24 - a][0]} == {"before", "after"} for a in (1, 5, 7, 11))
+    ok = ok and [(named[a][1], named[24 - a][1]) for a in (1, 5, 7, 11)] == [
+        ("the origin", "cell"), ("atom", "organelle"), ("molecule", "gene"), ("macromolecule", "protein-fold")]
+    line(56, "below the fold the scales are podal about it: the origin with cell, atom with organelle, molecule with gene, macromolecule with protein-fold, "
+             "one before six and one after", ok)
 
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
