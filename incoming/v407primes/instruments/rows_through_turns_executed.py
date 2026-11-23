@@ -125,3 +125,9 @@ for n in range(3, TO + 1):
         bits = n.bit_length() - 1
         out.append((n, gap, bits * bits))
 print("  widest gap by surface vs bits squared:", out)
+
+# Euler's 41, its turn table: round each prime below 41, one turn of n, n*n + n + 41 never at 0.
+small = [p for p in range(2, 41) if all(p % d for d in range(2, p))]
+print("\nEuler's 41: round all primes below 41, n*n + n + 41 never at 0 in one turn:",
+      all((n * n + n + 41) % p for p in small for n in range(p)), "| primes for n of 0 to 39:",
+      all(is_p(n * n + n + 41) for n in range(40)), "| n = 40:", 40 * 40 + 40 + 41, "= 41 x 41")
