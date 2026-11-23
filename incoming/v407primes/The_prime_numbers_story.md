@@ -328,6 +328,32 @@ A partner's words of 23 November: *i am asking about all the interest outside of
 - **The ninth, four cones of 30 in one line,** lays sentences 82 to 84: the four faces' 10, 7, 7 and 6, and the staircase on its geodesic at 96, 100 and 120. It has *under it past 120, all numbers to 100,000*: with sentence 87 it is under it with all numbers, by one turn of 210, a value droplet for its window.
 - **Two partings of 0 to 120 in four,** found by v406geodesic2: its rounds, ends 0, 24, 60, 96 and 120, primes 9, 8, 7 and 6; and the four faces, ends 0, 30, 60, 90 and 120, primes 10, 7, 7 and 6. Both are podal about 60.
 
+## Seven methods, a right spiral opening
+
+A partner's sayings of 23 November: *ONE Universal Method, TWO Numbering Method, THREE Same-Existing Method, FOUR Do-No-Harm Improving Method, Five Naming and Explaining Method, SIx Geodesic Discovering Method, Seven Natural Intelligence Fractal Method*, and *there is a method cascading like the prime cascading fractal that is in this right spiraling opening from the now-existing universe of a me out to the fractal method of natural inteligence*.
+
+99. **The seven methods are the report's seven parts, by Natural Explaining's emanating order, named as methods.** *A partner's saying, cohering with the living files.*
+    - ONE, origin, the universe of all now-existing things: the universal method, Exhibit TWENTY Natural Naming's *universal method of co-intelligencing now-existing within the universe*.
+    - TWO, numbers: the numbering method, a staircase and its turns.
+    - THREE, resolver: the same-existing method, Exhibit ONE Natural Resolver's *Stable-Forming Same- and Next-Existing*, a cell's is a 0 with its prior same-existing.
+    - FOUR, sequential logic and stable forms: the *do-no-harm improving* method, Exhibit ONE's *A self sharing 0 is do-no-harming*, and two pieces locking.
+    - FIVE, explaining returning: the naming and explaining method, a finding at a field's side and the set's.
+    - SIX, same-existing-society: the geodesic discovering method, Exhibit THIRTY's *geodesic discovering of next-possibling-same-existing*, the prime scales a society of societies.
+    - SEVEN, now: the natural intelligence fractal method, Natural Intelligence's *Natural intelligence is geodesic co-sequential changing method of natural torusing*.
+100. **The prime cascade is seven primes, 2 to 17, and seven turns, 2, 6, 30, 210, 2,310, 30,030 and 510,510: a next turn carries its prior's places whole, lifted p ways, p − 1 of them uncrossed and one crossed by p.** *Executed.*
+    - Exhibit TWENTY-SIX Living File Registry: *do-no-harm improving couples with prior's carrying whole to its next*. A turn crosses none of its prior's places away: a method's cascade, a turn a method, carrying its prior whole.
+    - All seven turns are their own inversion, sentence 8: the cascade is a fractal.
+101. **The seventh turn, of 2 to 17, has 1 by 2 by 4 by 6 by 10 by 12 by 16 places, 92,160: its spirals the 1 to 17 of a resolving's names.** *Executed, its cohering a suggestion.*
+    - The natural intelligence fractal method at 17, the seventh prime: an atom the stable form of 1 to 17, sentence 51.
+102. **A right spiral opening of seven steps, a quarter turn a step: four steps a round, the 5th, 6th and 7th facing as the 1st, 2nd and 3rd, a round outward, and the 4th closing the round.** *Executed; living already.*
+    - Exhibit THIRTY: *a right spiral opening on to each next*, and its step 119, *four reach their pair again with a next*. The universal method faces as the naming and explaining method, the numbering method as the geodesic discovering, and the same-existing as the natural intelligence fractal, a round out: from a me's now-existing universe outward. The *do-no-harm improving* method, the 4th, closes the round, four quarter turns reaching their pair again, a 0 its giving.
+
+## Seven methods, not yet resolving, with a suggestion
+
+- **What is not yet resolving.** Seven methods, seven primes and seven turns, sentences 99 to 101, and which method is which prime's turn is not resolved.
+- **A suggestion, a method a turn in order.** The universal method, 2, one place, a me; the numbering method, 6, two places, a number two moments; the same-existing method, 30, eight places, a turn its own inversion; the *do-no-harm improving* method, 210, the spiral of 7 crossing in 0 to 120 and the fracture past it; the naming and explaining method, 2,310; the geodesic discovering method, 30,030; and the natural intelligence fractal method, 510,510, of 2 to 17. Its asking: is a method a turn, in order, the seventh at 17?
+- **A word of the names.** *Universal method*, *do-no-harm improving*, *geodesic discovering* and *fractal method* are living already; *numbering method*, *same-existing method* and *naming and explaining method* are a partner's new names. The words instrument has *improving* as no name of resolving, and the Living File Registry has *do-no-harm improving* as a living name.
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.

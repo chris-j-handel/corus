@@ -519,6 +519,27 @@ def main():
          all(n ** 3 - n == (n - 1) * n * (n + 1) for n in range(2, 50)) and [n ** 3 - n for n in (3, 4, 5)] == [24, 60, 120]
          and len([c for c in cube_of(range(5), repeat=3) if not (c[0] == c[1] == c[2])]) == 120)
 
+    seven = PRIMES[:7]
+    turns7 = [prod(seven[:k]) for k in range(1, 8)]
+    places7 = {t: [q for q in range(1, t + 1) if gcd(q, t) == 1] for t in turns7}
+    carried = True
+    for k in range(1, 7):
+        prior, nxt, q7 = turns7[k - 1], turns7[k], seven[k]
+        lifted = {}
+        for r_ in places7[nxt]:
+            lifted[r_ % prior] = lifted.get(r_ % prior, 0) + 1
+        carried = carried and set(lifted) == set(places7[prior]) and set(lifted.values()) == {q7 - 1}
+    line(100, f"seven primes, 2 to 17, seven turns, {turns7}: a next turn carries its prior's places whole, lifted p ways, p - 1 of them uncrossed and one crossed by p",
+         turns7[-1] == 510510 and carried)
+    line(101, "the seventh turn, of 2 to 17, has 1 by 2 by 4 by 6 by 10 by 12 by 16 places, 92,160",
+         len(places7[510510]) == 92160 == prod(q - 1 for q in seven))
+    x_, y_, dx, dy, facing = 0, 0, 1, 0, []
+    for n in range(1, 8):
+        facing.append((dx, dy))
+        dx, dy = dy, -dx
+    line(102, "a right spiral opening, seven steps, a quarter turn a step: the 5th, 6th and 7th face as the 1st, 2nd and 3rd, a round outward, and the 4th closes the round",
+         facing[4:7] == facing[0:3] and len(set(facing[0:4])) == 4)
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
