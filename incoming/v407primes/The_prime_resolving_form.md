@@ -34,7 +34,7 @@ A partner's asking of 23 November: a resolving stable form for the primes, like 
 ## What the table shows
 
 - All interests named in the story, the report and "Known interests for later" have a cell, and none needs an eleventh row or a seventh column.
-- The two not yet resolving, the odd perfect number and sentence 46, are both in the ghost column.
+- The two not yet resolving at its drafting, the odd perfect number and sentence 46, are both in the ghost column, resolved by story sentence 125.
 - Empty cells are the form's own askings: possibly existing interests at a fixing and a living with none named.
 
 ## The ten resolvings, a row a sentence
