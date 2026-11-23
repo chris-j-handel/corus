@@ -122,3 +122,7 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - A partner's saying after the sixteenth drawing, the session's one sentence of a parity as one place not answered by an is or an is-not. The session has it as: the four stations not moving, and the parities flowing through by ten passings, arriving at a station and departing after a station.
    - It executed four lines more of the ten rows, eleven in all, all *is*: the passings are the ten rows; four arrive at station 1, a me's own prior-sequence; and the ten carry a me-now to six places.
    - It laid a seventeenth drawing beside the sixteen, with no moving part, a candidate; laid this turn's progress in this folder, offered it, and said its line at the exchange.
+22. *1x3 and 2x3 is 9 and ten is 0 same. 0124357689*
+   - A partner's saying after the seventeenth drawing, the session's one sentence of the next-existing universe not answered by an is or an is-not. The session has it as: a multiple of 3 an all, and the ten in a partner's order as rows of one, two, three and four.
+   - It executed six lines, all *is*: the rows say all; other-than, other-than; other-than, all, other-than; and other-than, all, other-than, all, four words of a partner's sayings before it; four of the ten are an all and six an other-than.
+   - It laid the saying in its page with what is open in it, laid this turn's progress in this folder, offered it, and said its line at the exchange. No artboard is new with this turn.
