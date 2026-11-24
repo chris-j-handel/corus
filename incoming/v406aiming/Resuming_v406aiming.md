@@ -44,13 +44,15 @@ A partner paused the aims work for Exhibit THIRTY-TWO. Waiting as it was:
 **The atom, its sample row. Its sayings in their sequence:**
 
 1. Natural Physics, living: *Atom is the stable form of unrelationing floating neutralling*.
-2. Natural Societies and Natural Chemistry, living: an atom, at five, a floor, a non-living stable form a molecule's sharing winds round.
+2. Natural Societies and Natural Chemistry, living: an atom, at five, a floor, a non-living stable form a molecule's coupling winds round.
 3. The current understanding, 6w-x: atom carbon the one non-living thing of the universe.
 4. v401atom's chain, in the Co-Chaining Logic Registry's gathering file: a stable form is the atom, or a co-chaining of atoms; all atoms the one same stable form, two atoms parting by their orientations alone; nothing smaller is from an atom.
 5. Natural Physics' gathering file: the atom the universal, all-parity, unique, fractal stable form of nature.
 6. v404universe, said in session: the atom the fractal stable form inward and outward of living.
 7. The window's waiting line 43: an atom the stable form of the fractal universe.
 8. v407primes, 23 November: an atom the stable form of 1 to 17.
+9. The current understanding, 6z-c: *a living self is a non-living set of living me-parities*, a set of atom carbon bump connectors co-chaining in sequence: the atom inward of all living, said by a partner. *Added by the session's own hand, 24 November.*
+10. Exhibit THIRTY-TWO's draft, 3.1: *An existing thing is living with one prime scale and non-living with all its other scales*, 5 the atom, the floor. *Added by the session's own hand, 24 November.*
 
 **Its four markings.** To Exhibit ONE: open, Exhibit ONE saying nothing of an atom. Through Exhibit THIRTY: gathered and chained in a gathering file, the living file with no step of an atom. Around: gathered, the Living Ghost Registry with Element, Proton and Electron as ghosts, and nothing yet cohering all 118 elements as one atom in its orientations. Back to line 1: open, with no lines yet of stable form, fractal, living and non-living.
 
@@ -106,3 +108,7 @@ Eighteen, with the draft's writer from its closing on, its name as their finder:
 ## Not known to v406me
 
 A thing of the session's working copy not offered is not known to v406me. All it offered is in the live set, and no branch of its at the origin has a commit outside main.
+
+## Gone through by the session's own hand, 24 November
+
+The fifteen's third. This page, the table of the boundary claims and the transcript's last eight turns are as the session knows them, with these mended: the atom's sayings 9 and 10 added; two claims' homes named in conversation, added to the table; a word of no natural naming in this page and two in the transcript said again. Its branches at the origin have no commit outside main, #1194 having been brought in with the ghost defining and row 22's mending in it.
