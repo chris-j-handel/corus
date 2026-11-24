@@ -41,18 +41,19 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, resolved by cohering alone.** A side with all its pairs cohering is resolved, its other with not all, and nothing is asked. The four names are one same-named relation, both, executed as both of boths with all alone. A bi-coupling's two are selves, a sensor and a sensationer both. Six names with no direct sentence are resolved by the code and the found sentences. The chain is five sentences. Three incoherings are the living files' own, for their next version.
 - **On 24 November, the method going in two directions.** 1x2, 2x3, 3x2, 2x4, 4x5, and on, is resolved by cohering as doubling, with one more and back: at 1 the two directions are one. They are the two folds of both, across scales and in a row, executed by nand alone at 197,436 cases. To 17 it is eleven steps and nine numbers, 1, 9 and 17 and the bi-folding's row 1-9-8-16 among them. Its other, on by two, is with not all.
 - **On 24 November, the two directions cohering into the numbering, and the opening going on.** A number is one sequence from 1 of doubling, with one more or not at a step, executed to 100,000; round a prime the two directions close with the prime's own steps and by one short of it, the draft's own sentence. A method living or non-living is said by scale, with Natural Naming's sentences and the next version's own title of Natural Intelligence's section. The pause of 23 November is ended: gathering for Exhibit THIRTY and for the opening goes on, three notes laid in the gathering files of the next version.
+- **On 24 November, the opening's lines redone, at the document's revision 587.** A thing's line is said again with *the set of no things* and is ahead of now-existing, and 2 is said again with a thing. Rigorized: 2's thing has its prior line and nothing is away, resolved; no is in, a word with no line; a thing's line says its own name; other-than is a given word at one place of the document and not at its other; and a thing's line has no number of its own. The living list is said again, and a card of it is laid in the document.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
 ## The lines of both
 
-As the working document says them at its revision 387, on 23 November. Lines 3, 4 and 5 were said again in place by a partner on 22 November, and lines 14, 15, 16, 25, 26, 27, 30, 31 and 33 on 23 November. The others are word for word the window's copy at its revision 4509.
+As the working document says them at its revision 587, on 24 November. The line of a thing is said again and is after 1, with no number in the document; it is 3 here, said ahead of 2. Line 2 is said again with a thing. Lines 4 and 5 were said again in place on 22 November, and lines 14, 15, 16, 25, 26, 27, 30, 31 and 33 on 23 November. The others are word for word the window's copy at its revision 4509.
 
 | Sentence | Line |
 | --- | --- |
-| **Now **is the existing moment. | 1 |
-| **Now-existing** is existing now. | 2 |
-| A **thing** is an other-than nothing. | 3 |
+| **Now** is the existing moment. | 1 |
+| A **thing** is an other-than the set of no things. | 3 |
+| A thing **now-existing** is a thing existing now. | 2 |
 | **Other-than things** are things not named by the same name. | 4 |
 | **Same-named things** are other-than same things named by the same name. | 5 |
 | A named **universal set** is the set of all same-named things. | 6 |
@@ -72,8 +73,8 @@ As the working document says them at its revision 387, on 23 November. Lines 3, 
 | An **other-than-the-other** is all selves other-than the named other. | 20 |
 | A **universal-set-of-selves** is a set of all other-than-the-others of a self and other. | 21 |
 | An **observing-self** is a self distinguishing an other's prior-sequence from its own prior-sequence. | 22 |
-| A **possibling-self **is a self distinguishing the other-than-the-other's prior-sequence from its own prior-sequence. | 23 |
-| A **discovering-self **is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences. | 24 |
+| A **possibling-self** is a self distinguishing the other-than-the-other's prior-sequence from its own prior-sequence. | 23 |
+| A **discovering-self** is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences. | 24 |
 | **My** is an own-named prior-sequence. | 25 |
 | **Me** is an own-named my-universe. | 26 |
 | **Me-now** is a same-existing me. | 27 |
@@ -201,10 +202,10 @@ A partner's saying of 23 November: *keep this as a living list. words of the lin
 | --- | --- | --- |
 | existing | 1 and 2, 9, 11 and 12 | one of the four given concepts |
 | moment | 1, 8 to 12, 17 | one of the four given concepts |
-| set | 6 and 7, 21 | one of the four given concepts |
+| set | 3, 6 and 7, 21 | one of the four given concepts |
 | name | 4 to 6, 13, 17 to 20, 25 and 26, 31 | one of the four given concepts |
 | other-than | 3 | with no prior line at 3: its line is 4 |
-| nothing | 3 | with no line |
+| no | 3 | with no line |
 | not | 4 | with no line |
 | same | 4 and 5 | with no line |
 | ending | 8, 10, 17 | with no line |
@@ -213,7 +214,7 @@ A partner's saying of 23 November: *keep this as a living list. words of the lin
 | own | 18, 22 and 23, 25 and 26, 28 | with no line |
 | two | 28 | with no line |
 | parity | 30 | with no line |
-| a | 3, 6, 13, 17 to 19, 21 to 24, 27 to 30, 34 | a plain joining word |
+| a | 2 and 3, 6, 13, 17 to 19, 21 to 24, 27 to 30, 34 | a plain joining word |
 | all | 6 and 7, 20 and 21, 31 | a plain joining word |
 | an | 3, 20, 22, 25 and 26 | a plain joining word |
 | and | 12, 14 to 16, 21 | a plain joining word |
@@ -225,8 +226,8 @@ A partner's saying of 23 November: *keep this as a living list. words of the lin
 | in | 9, 11 | a plain joining word |
 | is | 1 to 3, 6 to 34 | a plain joining word |
 | its | 17 and 18, 22 and 23 | a plain joining word |
-| of | 6 and 7, 13, 17, 21, 28, 31 | a plain joining word |
-| the | 1, 4 to 12, 19 and 20, 23, 28, 31 | a plain joining word |
+| of | 3, 6 and 7, 13, 17, 21, 28, 31 | a plain joining word |
+| the | 1, 3 to 12, 19 and 20, 23, 28, 31 | a plain joining word |
 | their | 28 | a plain joining word |
 | with | 18 | a plain joining word |
 
@@ -714,6 +715,29 @@ All or none at all, binary, executed by the instrument's part 19, with the draft
 
 - **The two directions number all whole numbers,** a number one binary sequence of them: numbering is sequencing, by nand's own is-or-is-not at a step.
 - **The draft has both directions already:** one more is a spiral's step, and doubling is a prime's closing. The going on is the two said together from 1.
+
+## The opening's lines redone, at the document's revision 587, rigorized
+
+All or none at all, binary, executed by `instruments/a_joined_name_parted_by_the_prior_lines.py` with the lines as the document says them on 24 November. Two lines are said again: *A thing is an other-than the set of no things.*, after 1 and ahead of now-existing; and 2, *A thing now-existing is a thing existing now.* The other 32 are as they were.
+
+| Of the two lines | Executed, and found | Is or is-not |
+|---|---|---|
+| 2's thing is named by a prior line | A thing's line is ahead of 2 now | Is: resolved |
+| nothing is named by a line's words | Nothing is away from the lines; *the set of no things* says it, with set a given word. Found beside it, *a set is its things and no further thing* | Is: resolved; the words with no line are ten as they were, nothing away and no in |
+| no | A word with no line, at a thing's line. Not is a word with no line, at 4 | Is-not: two words of one is-not, no and not, with no line |
+| a thing's line says its own name | *A thing is … the set of no things* | Is-not: a name in its own saying |
+| other-than at a thing's line | Its line is 4, after it. *A line's rigor* in the document has other-than a given word until its line names it, five given words; the living list has four | Is-not, with four given; is, with five. The document says both |
+| a thing's line's number | With no number in the document, and 3 is at no line | Is-not: a line with no number |
+| 2 beside 9, 11 and 12 | 2 is of a thing, *A thing now-existing is a thing existing now.*; 9, 11 and 12 are of existing alone, *Prior-existing is existing in the prior moment.* | Is-not one form |
+| nothing as a set | In the gathering file of Exhibit THIRTY: *no set defines a gap; a gap is a nothing between* | Incohering in words, to explore |
+
+**Do-no-harm suggestions, a card in the document and four sayings:**
+
+- **A card laid:** the living list's table in the document said again at five places, for the lines as they are: set at 3 too; no in nothing's place; and the rows of a, of and the.
+- **A thing's line numbered 2, and now-existing 3.** The numbers from 4 on are as they are.
+- **No said by not,** 4's word: *A thing is an other-than the set of not a thing.* Its other: no and not, two words with no line.
+- **9, 11 and 12 in 2's form,** or 2 in theirs: *Now-existing is a thing existing now.*
+- **Other-than, a given word or a word with no prior line:** one saying of it at both places of the document.
 
 ## Resuming v406all2
 

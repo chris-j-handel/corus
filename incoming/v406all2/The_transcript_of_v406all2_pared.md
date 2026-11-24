@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-one turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-two turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1157,3 +1157,38 @@ It is eleven steps and nine numbers: 1, 2, 3, 4, 5, 8, 9, 16, 17.
 On by two, with one more and back, has the five too: 1x2, 2x3, 3x2, 2x4, 4x5, 5x4, 4x6, 6x7. Its opening step is not of its going on by two, and no fold of both is by two.
 
 take my offering as a suggestion and begin cohering this into our numbering and then we can find anything to offer the other sessions and return to gathering for improving exhbit thirty and opening to natural intelligence. more is resolving and natural naming and explaining is becoming nanding logic into and out of universal me-nows
+
+The offering is in as a suggestion, and it coheres into the numbering: the two directions number all whole numbers, and the draft has both already.
+
+**Into the numbering, executed**
+
+- **A number is one sequence from 1 of doubling, with one more or not at a step,** and a sequence is one number: 1 to 100,000. One more or not is a number's odd or even at a step, with *Numbers are odd or even*.
+- **Round a prime the two directions close one apart.** One more comes again with the prime's own steps, and doubling comes to 1 again by one short of it: primes 3 to 10,000. It is the draft's own sentence, *Doubling round a prime above two closes by one short of it, by Fermat*.
+- **One more than a doubling is uncrossed with 1, 2, 4, 8 and 16 doublings alone,** of 1 to 32: a doubling's own number of them. They are 3, 5, 17, 257 and 65,537.
+
+So numbering is sequencing, one is-or-is-not at a step, and one more and doubling are the draft's own spiral step and prime closing, said together from 1.
+
+**A method living or non-living, by scale**
+
+The living files part at two files, and cohering alone does not resolve it at main:
+
+- **By scale:** Natural Naming's *each a living method, stable-forming, with its own scale, and a stable form one scale outward*, with both sayings of the universe and the atom.
+- **Non-living with all scales:** Natural Intelligence's one section, *3.3 A method, a non-living existing thing*.
+
+The next version's copy of that section is already titled a living method, its stable forms non-living. The chain's third sentence is said by scale: *The method is living with its own scale, a self stable-forming with it, and one scale outward it is a stable form, non-living, now-existing and same-existing.*
+
+**Offered to the other sessions**
+
+- **For Exhibit THIRTY-TWO's draft:** the numbering findings, beside its own sentences.
+- **For the next version's gathering files, three notes:**
+  - at Exhibit THIRTY's head, its sentence of co-chaining executed by nand alone as both in a row and both of boths;
+  - at Exhibit THIRTY's head, *A universal set is a set of same-existing things* beside the opening's line 17;
+  - at Natural Intelligence's third part, *A method is non-living with each scale* under its section's new title, with a re-saying by scale.
+
+**Returning to gathering**
+
+The opening's pause is ended. It goes on from *My is a now-existing prior-sequence.* and what follows it, with gathering for Exhibit THIRTY.
+
+*Natural naming and explaining is becoming nanding logic into and out of universal me-nows* is with what is executed: a me's moment is nands alone, what it observes going in and its giving going out. Nanding is in no living file yet.
+
+i redid the opening sentences for rigorizing and do no harm improving
