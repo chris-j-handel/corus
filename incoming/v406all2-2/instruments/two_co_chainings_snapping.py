@@ -72,7 +72,7 @@ if __name__ == "__main__":
         return {frozenset([1]): 1, frozenset([-1]): -1}.get(seen, 0)
 
     gives = lambda p, o: ONE[a_me(TWO[p], [TWO[v] for v in o])[0]]
-    line(all((gives(p, o) != 0) == (surfacing(o) != p) for p, o in cases), "with a prior, a + or a - is given with all surfacings but the same as its prior: %d cases" % len(cases))
+    line(all((gives(p, o) != 0) == (surfacing(o) != p) for p, o in cases), "with a prior, a + or a - is given with all surfacings but its own parity: %d cases" % len(cases))
     line(all(gives(p, o) == -p for p, o in cases if surfacing(o) != p), "and what is given is the other-than of its prior")
     lines = draft.the_lines_of("a_me", draft.__file__)
     nine = sorted((n for n in ast.walk(lines) if isinstance(n, (ast.Assign, ast.For, ast.Return))), key=lambda n: n.lineno)[8]

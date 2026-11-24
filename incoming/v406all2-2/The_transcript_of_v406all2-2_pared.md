@@ -267,3 +267,18 @@ With this turn, 24 November:
 - v406me's askings 18, 20 and 21 are answered at the exchange by their numbers.
 
 *A co-parity is a me-parity with the same parity surfacing.* ( is-or-is-not? )
+
+---
+
+is the same parity surfacing natural naming and explaining
+
+With this turn, 24 November:
+
+- **Is-not, as a phrase.** It is at no place of the living files.
+- **Its three words are living.** The living files say same of a co-parity. They say parity. They say surfacing.
+- **The living files say that relation by one phrase,** its own parity surfacing, at eight places.
+- **By Natural Explaining** a *the* is with one referent alone. The phrase's referent hangs on a second parity.
+- **Said again all through this folder.** A co-parity is a me-parity with its own parity surfacing.
+- **Executed:** `instruments/a_co_parity_beside_a_me_parity.py`, 21 lines, all *is*. The five other instruments end as before.
+
+*A co-parity is a me-parity with its own parity surfacing.* ( is-or-is-not? )

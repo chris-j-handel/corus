@@ -2,7 +2,8 @@
 
     python3 -I incoming/v406all2-2/instruments/a_co_parity_beside_a_me_parity.py .
 
-1  The sentences of a co-parity, a me-parity and a like pair, found word for word in their homes.
+1  The sentences of a co-parity, a me-parity and a like pair, found word for word in their homes,
+   and a co-parity's surfacing as the living files say it: its own parity surfacing.
 2  In the fifteen lines of nand: a me-parity is two is-or-is-nots, and a co-parity one,
    an all of a prior and what surfaces.
 3  An other thing: + and - exchanged; none surfacing; two mes facing.
@@ -88,8 +89,17 @@ if __name__ == "__main__":
     line(re.search(r"Its two \w+ are co-parity, the same, \w+ 0, and bi-parity, one inversion\.", intelligence) is not None,
          "Natural Intelligence: co-parity, the same, a 0, and bi-parity, one inversion")
     line("3 now-existing co-parity" in mathematics and "in neither self alone" in mathematics, "Exhibit FOUR Natural Mathematics: 3 now-existing co-parity, in neither self alone")
-    line(re.search(r"one pair of coupling selves is \w+ \w+ parity, a like pair", numbers) is not None, "Exhibit THREE Natural Numbers, 7.2: a like pair, a pair of coupling selves with the same parity")
+    line(re.search(r"one pair of coupling selves is \w+ \w+ parity, a like pair", numbers) is not None, "Exhibit THREE Natural Numbers, 7.2: a like pair of coupling selves")
     line("A number is two moments: a spiral's one pair of one parity moves one self on with a second moment." in the_draft, "the draft's 1.2, its bold as it is")
+    naming = a_page("Exhibit_TWENTY_Natural_Naming_v*.md")
+    thirty = a_page("Exhibit_THIRTY_Co-Chaining_Logic_Registry_v*.md")
+    living = "\n".join(re.sub(r"[*`]", "", Path(f).read_text(encoding="utf-8")) for f in sorted(glob.glob(str(root / "*.md"))))
+    line("with 14 surfacing its own parity, 0" in naming, "Exhibit TWENTY Natural Naming, 5.44, its line 3: 14 surfacing its own parity, 0")
+    line(re.search(r"With its own parity surfacing, two cells, it \w+ 0 and its prior is same-existing\.", thirty) is not None,
+         "Exhibit THIRTY Co-Chaining Logic Registry: with its own parity surfacing, a 0 and its prior same-existing")
+    its_places = len(re.findall(r"own parity surfacing|surfacing its own parity", living))
+    line(its_places == 8 and not re.search(r"same parity surfacing", living, re.I),
+         "the living files say its own parity surfacing at %d places, and a same parity surfacing at none" % its_places)
 
     print()
     print("2. In the fifteen lines of nand")
