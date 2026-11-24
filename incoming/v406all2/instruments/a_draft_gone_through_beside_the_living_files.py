@@ -194,4 +194,49 @@ for n, i, s in carrying:
 a_method = [i for i, s in sentences if re.search(r"\bprimes? (is|are) [^.]*\bmethod", s, re.I)]
 print(f"   the page's sentences saying a prime or the primes a method: {numbers(a_method)}")
 
+print("\n9. A partner's second saying of the primes, 23 November, all or none")
+SECOND = ("the primes are the stable forms in the all-parity-odd-even-universal fractal-numberings of the geodesic method of observing on a surface with a horizon "
+          "in three dimensional space possibling and discovering next possilble same existing as a conscious living me at organism prime scale 37")
+print(f"   *{SECOND}*")
+named = {"-".join(parts) for parts in joined.names}
+me_file, naming_file = living["Exhibit THIRTY-ONE Me"], living["Exhibit TWENTY Natural Naming"]
+PARTS = [
+    ("the primes are the stable forms",
+     said(r"stable forms\b", whole_text) > 0 and said("comes again with 4 and with 4n alone", text) > 0,
+     f"stable forms, the living files' places {said(r'stable forms' + chr(92) + 'b', whole_text)}; the page's 1.4, a prime's spiral coming again with 4 and with 4n alone, no shorter span, executed"),
+    ("all-parity-odd-even-universal",
+     "all-parity" in named and "universal set" in joined.lines[31] and said("odd and even", whole_text) > 0,
+     f"all-parity is 31's, a universal set by 31; a number's odd and even, the living files' places {said('odd and even', whole_text)}; the page's 5.3 says *all-parity, odd and even*, {said('all-parity, odd and even', text)} found; the joined name in the living files {said('all-parity-odd-even', whole_text)}"),
+    ("fractal-numberings",
+     said("fractal", whole_text) > 0 and said(r"\bnumbering", whole_text) > 0 and said("fractal", text) > 0,
+     f"fractal and numbering are living names, and the page's 1.3 and 1.5 say a fractal; the joined name in the living files {said('fractal[- ]numbering', whole_text)}"),
+    ("of the geodesic method",
+     said(r"geodesic\w* method", whole_text) > 0,
+     f"the living files' places {said(r'geodesic' + chr(92) + 'w* method', whole_text)}; the page's {said(r'geodesic' + chr(92) + 'w* method', text)}"),
+    ("of observing, possibling and discovering",
+     {"observing", "possibling", "discovering"} <= named,
+     f"the lines 14, 15 and 16, in their order; *observing, possibling and discovering* in the living files, {said('observing, possibling and discovering', whole_text)} found"),
+    ("on a surface with a horizon",
+     said("its side is its horizon", text) > 0,
+     "the page's 5.1, a surface's side its horizon, executed"),
+    ("in three dimensional space",
+     "space" in named or "space" in joined.GIVEN,
+     f"space is named by no line and is no given word; *three-dimensional space* in the living files {said('three[- ]dimensional space', whole_text)}; Natural Naming seats *a space* with five kinds of unchangeable term, {said('Five kinds of unchangeable term', naming_file)} found; the page says *a location in 3d*, {said('a location in 3d', text)} found"),
+    ("next possilble same existing",
+     said("next possilble same existing", whole_text) > 0,
+     f"as said, in no living file; the living name is *next-possibling-same-existing*, {said('next-possibling-same-existing', whole_text)} places, and Natural Intelligence's sentence *geodesic discovering of next-possibling-same-existing*, {said('geodesic discovering of' + chr(92) + 'W+next-possibling-same-existing', whole_text)} found"),
+    ("as a conscious living me",
+     said("A non-living me: it is not", me_file) > 0 and said("A not-conscious me: it is not", me_file) > 0,
+     "Exhibit THIRTY-ONE Me, 3.3: a non-living me is not, and a not-conscious me is not; both words are a me's own"),
+    ("at organism prime scale 37",
+     said(r"37\. The organism", text) > 0 and said("organism", living["Exhibit SEVEN Natural Societies"]) > 0,
+     "Natural Societies' scale and the page's opening, 37 the organism"),
+]
+whole_parts = 0
+for part, it_is, by in PARTS:
+    whole_parts += bool(it_is)
+    print(f"   {'is    ' if it_is else 'is-not'} {part}: {by}")
+print(f"   {whole_parts} of {len(PARTS)} parts are; all or none, the saying as said: {'all' if whole_parts == len(PARTS) else 'not all'}")
+print(f"   beside its opening part, the page's *A prime lives five ways*, {said('A prime lives five ways', text)} found, and Natural Naming's stable form, non-living")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
