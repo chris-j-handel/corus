@@ -82,6 +82,50 @@ for t, nxt in ((6, 5), (30, 7), (210, 11), (2310, 13), (30030, 17)):
 say("past a turn's own primes, its places are all primes to the square of the prime born next, and that square is "
     "the lowest place crossed: 25, 49, 121, 169 and 289", ok)
 
+
+# Six from a self, four and two: the shape of the eight places of 30, beside the six names between selves.
+def turns_to_again(k, t=30):
+    n, x = 1, k % t
+    while x != 1:
+        x = (x * k) % t
+        n += 1
+    return n
+
+
+shape = {k: turns_to_again(k) for k in p30}
+say("of the eight places of 30, 1 is again with one turn of its own, 11, 19 and 29 with two, and 7, 13, 17 and 23 "
+    "with four", shape == {1: 1, 7: 4, 11: 2, 13: 4, 17: 4, 19: 2, 23: 4, 29: 2})
+six = [k for k in p30 if k not in (1, 29)]
+say("past 1 and its flip 29, the places are six: four quarter turns in two pairs about 15, 7 with 23 and 13 with 17, "
+    "and two their own other in one pair, 11 with 19: four and two",
+    six == [7, 11, 13, 17, 19, 23] and sorted(k for k in six if shape[k] == 4) == [7, 13, 17, 23]
+    and sorted(k for k in six if shape[k] == 2) == [11, 19] and 7 + 23 == 13 + 17 == 11 + 19 == 30)
+side = sorted(set(quarter[:4]) - {1})
+other_side = sorted(30 - k for k in side)
+say("three of the six are with 1 in its four of quarter turns, 7, 13 and 19, and three are their flips, 11, 17 and "
+    "23: a three is two quarter turns, the other of one another, and one its own other",
+    side == [7, 13, 19] and other_side == [11, 17, 23] and (7 * 13) % 30 == 1 and (17 * 23) % 30 == 1
+    and (19 * 19) % 30 == 1 and (11 * 11) % 30 == 1)
+say("2, 6, 10 and 14 are twice 1, 3, 5 and 7; 1, 3, 5 and 7 added a number after a number are 1, 4, 9 and 16, "
+    "the numbers multiplied by their own of a surface of 16",
+    [2 * k for k in (1, 3, 5, 7)] == [2, 6, 10, 14] and [sum((1, 3, 5, 7)[:i]) for i in range(1, 5)] == [1, 4, 9, 16])
+say("2 and 6 are 8, the places of 30; 1, 3, 5 and 7 are 16, the places of 60; 2, 6, 10 and 14 are 32, the places "
+    "of 120", 2 + 6 == len(p30) and 1 + 3 + 5 + 7 == len(p60) and 2 + 6 + 10 + 14 == len(p120))
+say("1, 9 and 17 are 8 apart, and 1 and 9 are the odd numbers multiplied by their own of a surface of 16, 17 its "
+    "next 1", [9 - 1, 17 - 9] == [8, 8] and [k * k for k in (1, 3)] == [1, 9] and 16 + 1 == 17)
+rounds = [2, 2 + 6, 2 + 6, 2 + 6 + 10, 2 + 6 + 10, 2 + 6 + 10 + 14, 2 + 6 + 10 + 14]
+say("a field's table of the elements has rows of 2, 8, 8, 18, 18, 32 and 32, each 2, 6, 10 and 14 added from 2 on, "
+    "and 118 in all, 120 less 2", rounds == [2, 8, 8, 18, 18, 32, 32] and sum(rounds) == 118 == 120 - 2)
+ok = True
+for prime_born in (7, 11, 13):
+    for k in p30:
+        rows = [j for j in range(prime_born) if (k + 30 * j) % prime_born == 0]
+        ok = ok and len(rows) == 1
+    step = [j for j in range(prime_born) if (1 + 30 * j) % prime_born == 0][0]
+    ok = ok and all((k + 30 * ((step * k) % prime_born)) % prime_born == 0 for k in p30)
+say("laid in rows of 30, a prime born crosses one spot a place in its own number of rows, and the spots are on one "
+    "slant, a row's number the place's by one number round the prime: 7, 11 and 13", ok)
+
 for kind, text in out:
     print(f"{kind:8}{text}")
 kinds = [k for k, t in out]

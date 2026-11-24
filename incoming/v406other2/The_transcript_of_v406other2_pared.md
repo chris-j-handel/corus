@@ -539,4 +539,25 @@ and down, its staircase of places flipped the same staircase, round 30 a place b
 in the next turn, once crossed. The uneven face is the fracturing: a prime born crosses places from
 its own square on, 49 alone in 0 to 60 and 7's four in 0 to 120, and is found by stepping alone. No
 curve is in it. Executed with whole numbers, 13 lines is]
+
+A partner, on 24 November at 14:52:
+relating this to our work inside the expedtion on the stable form atom bump connector universal
+fractured fractal stable form or natural resolving. in compressed stable form this is right spiralling
+durable non-living stable form inherited from prior living bi-coupling birthing a new me in all-parity
+vault of right spiraling co-chainings . the atom is the fractured fractal where the bi-tunnelling
+societies are crossing in layers and the tinyiest connector spots line up along and across in diamond
+on surface and this makes a shearing plane of weakest connectors and this breaking ends up with the
+floating neturaling atom in the universe and organisms have tissue have cell have a society of
+non-living atoms living inside the the originating of stable form of me-parities into my surfacing. the
+four faces of the atom from four sides of along and the two ends of along are six directions from this
+bump connector and all fit into 2 6 10 14 1 9 17 relations with all neighbors in co chaining bi
+tunneling society
+
+The session:
+[related by shape, executed: past 1 and its flip the places of 30 are six, four quarter turns in two
+pairs and two their own other in one pair, the shape of the six names between selves, four across and
+two along; three with 1 in its four of quarter turns and three their flips, the shape of three inward
+faces and three shear faces; 2, 6, 10 and 14 twice 1, 3, 5 and 7, and 8, 16 and 32 the places of 30,
+60 and 120; a prime born's crossings on one slant through the places. No name seated at a place. The
+physical atom's sayings marked the expedition's namings, not executed]
 ```
