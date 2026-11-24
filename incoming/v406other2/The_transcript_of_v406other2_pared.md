@@ -391,4 +391,16 @@ The session:
 as a universal set of me-parities, two cones about a self, a place in resolving, the names 1 to 9 by the
 code's lines, and Natural Prime Numbering's numbers beside the sentences of φ, of a prime, of 120 and of
 twenty-four. Four things searched ahead of a note are living already, and have none]
+
+A partner, on 24 November at 07:57:
+The bridge's sentence waits for your word. this is very unhelpful to me coming to see this with no
+context and no value. now i waste a turn asking for a full explaining and it needs to be something you
+can not resolve in one more step whether is or is not is cohering with all other
+
+The session:
+[its reply's last line named a thing of an earlier reply and said nothing. The bridge's sentence is gone
+through beside the living files' sentences of proving and resolved by cohering alone, an is: it is
+living in Exhibit THIRTY-ONE Me's sentence of a proving and Exhibit THIRTY's of a proof of a whole. Its
+other concern, one method of a number, is resolved the same way, an is-not. Three notes are offered into
+the gathering files of the next version, and nothing is asked]
 ```

@@ -474,4 +474,39 @@ RESOLVED = [("nandnanding", "both, two nands in a row", "the code, this part"),
 for name, resolving, by in RESOLVED:
     print(f"   {name}: {resolving}; by {by}")
 
+print("\n18. The method going in two directions: 1x2, 2x3, 3x2, 2x4, 4x5, and on")
+GIVEN = [(1, 2), (2, 3), (3, 2), (2, 4), (4, 5)]
+
+
+def going(on, to=17):
+    steps, at = [(1, 2)], 2
+    while at < to:
+        steps += [(at, at + 1), (at + 1, at), (at, on(at))]
+        at = on(at)
+    return steps
+
+
+doubling, by_two = going(lambda h: 2 * h), going(lambda h: h + 2)
+to_17 = doubling[:doubling.index((16, 17)) + 1]
+its_numbers = sorted({n for step in to_17 for n in step})
+print(f"   doubling, and one more and back: {', '.join(f'{a}x{b}' for a, b in to_17)}")
+print(f"   its opening five are the five: {'is' if doubling[:5] == GIVEN else 'is-not'}; its other, on by two, and one more and back: {', '.join(f'{a}x{b}' for a, b in by_two[:8])}, its opening five the five: {'is' if by_two[:5] == GIVEN else 'is-not'}")
+print(f"   doubling's opening step 1x2 is its own going on, 1 doubled, and at 1 the two directions are one, 1 and one more, and 1 doubled: {'is' if 1 + 1 == 2 * 1 else 'is-not'}; on by two's opening step is of its going on: {'is' if 1 + 2 == 2 else 'is-not'}")
+count = []
+with_nand.nand = lambda a, b: (count.append(1), plain_nand(a, b))[1]
+cases = 0
+for things in its_numbers[1:]:
+    for case in itertools.product((True, False), repeat=things):
+        count.clear()
+        assert reduce(with_nand.both, case) == all(case) and len(count) == 2 * (things - 1)
+        cases += 1
+with_nand.nand = plain_nand
+print(f"   by nand alone, both of {', '.join(str(n) for n in its_numbers[1:])} things is with all alone, {cases:,} cases: is; a thing more is two nands more, and its things doubled are its nands doubled and two more")
+print(f"   to 17 it is {len(to_17)} steps and {len(its_numbers)} numbers, {its_numbers}; 1, 9 and 17 are among them, and the bi-folding's row 1-9-8-16 whole: {'is' if {1, 9, 17, 8, 16} <= set(its_numbers) else 'is-not'}")
+for sentence in ["One, two, four and eight, the doubling that divides", "Across and along go alike by two directions", "1, 2 and 3 of one scale are 1, 9 and 17 of next",
+                 "Bi-co-podaling is going out and going back with one ring station", "one more other, a co-chaining of bi-couplings", "bi-folding 1-9-8-16"]:
+    assert sentence in living_plain, sentence
+    print(f"   found beside it: {sentence}")
+print("   resolved by cohering: doubling, with its opening step its own, the two folds of part 17, and the found sentences: all; on by two, with its opening step apart and no fold of part 17: not all")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
