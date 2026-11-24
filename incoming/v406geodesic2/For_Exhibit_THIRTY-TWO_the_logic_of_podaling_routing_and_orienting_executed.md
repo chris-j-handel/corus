@@ -146,6 +146,7 @@ The four sentences are this session's own, and are in no file but this page.
 - **The right spiral's way round,** by 7 or by 3: a mirror's choice.
 - **The 24 of sentence 22 beside the draft's fold at 24:** one number, and no execution says they are one thing.
 - **All places of all the drawings,** by sentence 34: a number's place on a cone, a name's place on a diamond, a line's end on a sphere. A partner's saying of 24 November: in resolving the resolver alone has a place, and the resolver is the me.
+- **Snap, at sentence 21 and beside sentence 26,** a partner's word of the 22nd drawing's saying. By a partner's word of 24 November, in v406all2-2's line, snapping is not yet natural naming: an exploring word here, in no sentence offered for the draft.
 - **My-prior universes behind a me and my-next universes ahead of it,** the 26th drawing's naming of the two cones. By sentence 38 a me's next prior comes from the me further back, and its own opening prior goes ahead: a partner's to say which are my-next universes.
 - **All-parity as all a me observes,** by Exhibit ONE Natural Resolver's *All-parity is with observing only, 7 and 15* and the living code's 7. With the two, all a me observes is its one other.
 - **1, 9 and 17 at the three vertices of two diamonds,** as the code's 1-now-existing, 9-next-co-discovering and 17-next-existing; and a me as a pair of cones, its is-or-is-not at its widest.
