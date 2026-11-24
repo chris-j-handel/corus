@@ -239,4 +239,35 @@ for part, it_is, by in PARTS:
 print(f"   {whole_parts} of {len(PARTS)} parts are; all or none, the saying as said: {'all' if whole_parts == len(PARTS) else 'not all'}")
 print(f"   beside its opening part, the page's *A prime lives five ways*, {said('A prime lives five ways', text)} found, and Natural Naming's stable form, non-living")
 
+print("\n10. The named concepts the sentence of the primes needs, found, all or none at all")
+CHAIN = [("parity", "Parity is each self's own, now"), ("a spiral", "a winding of parities is a spiral of moments"), ("a number", "Numbers are odd or even"),
+         ("a dimension", "A dimension is no measure and no place, and a number's odd or even is no side's"), ("a surface", "a surface is a between"),
+         ("a geodesic", "A geodesic is a surface's own dividing"), ("a method", "Geodesic is its own existing thing, and a method is its stable form"),
+         ("stable forms", "Method is one fractal method, and it has many stable forms"), ("a scale", "A scale is a bi-inversioning-co-recursioning: prior and next along, inward or outward across"),
+         ("fractal", "Fractal is all or none at all with scales"),
+         ("the atom", "Atom is the stable form of unrelationing floating neutralling"), ("a horizon", "A horizon IS a same-existing-society a self is not yet reaching, possibling to couple"),
+         ("a prime", "A prime is a self no equal smaller selves above one add up to"),
+         ("natural intelligence", "Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe"),
+         ("self-welcoming", "Self-welcoming is a self observing a concept intelligibly through its prior same-existing explaining")]
+NOT_FOUND = [("conscious", r"\b(conscious|consciousness) is (a|an|the|its|one|no) "), ("space", r"(^|[.*] )(a |the )?space is (a|an|the|its|one|no) ")]
+plain_text = (whole_text + "\n" + text).replace("**", "")
+known = set(named) | {w for w in joined.GIVEN} | set(joined.PLAIN)
+found_all, needed = True, Counter()
+for name, sentence in CHAIN:
+    is_found = sentence in plain_text
+    found_all = found_all and is_found
+    words = [joined.FORMS.get(w, w) for w in re.findall(r"[a-z]+(?:-[a-z]+)*", sentence.lower().replace("'s", ""))]
+    its_own = set(re.findall(r"[a-z]+(?:-[a-z]+)*", name.lower())) | {joined.FORMS.get(w, w) for w in re.findall(r"[a-z]+", name.lower())} | {w + "s" for w in re.findall(r"[a-z]+", name.lower())}
+    holes = [w for w in dict.fromkeys(words) if w not in known and w not in its_own and no_line(w)]
+    needed.update(holes)
+    print(f"   {'is    ' if is_found else 'is-not'} found: {sentence}. Its words with no prior line: {', '.join(holes) or 'none'}")
+    known |= set(re.findall(r"[a-z]+(?:-[a-z]+)*", name.lower())) - {"a", "the"} | {name.replace("a ", "").replace("the ", "")}
+    known |= {w + "s" for w in re.findall(r"[a-z]+", name.lower())}
+for name, pattern in NOT_FOUND:
+    n = len(re.findall(pattern, plain_text, re.I | re.M))
+    found_all = found_all and n > 0
+    print(f"   {'is    ' if n else 'is-not'} found: a direct sentence of {name}, {n}")
+print(f"   all or none at all: {'all' if found_all and not needed else 'not all'}; {len(CHAIN)} concepts found with a direct sentence, {sum(1 for name, pattern in NOT_FOUND if not re.search(pattern, plain_text, re.I | re.M))} with none; "
+      f"{len(needed)} words of the found sentences are named by no prior line")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
