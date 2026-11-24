@@ -44,6 +44,21 @@ A partner's sentences of 24 November, re-said one relation a sentence: in a now 
 22. **A me observing itself has the three sentences at one moment in two.** Its next is the other-than of its prior, the right spiral.
 23. **On a path of mes closing the three sentences are a me's at all moments with ten of 2,046 openings.** They are the parities in turn of 2, 4, 6, 8 and 10 mes. With all openings, a me's now is the other-than of its prior from an even moment to the odd after it.
 
+## Resolved forward, by one relation more: a me's next
+
+Going on from a partner's sentence, next is other-than now, and from the two is-nots yet open. Executed beside v406Reiman's fifteen lines and the living code: `python3 -I incoming/v406geodesic2/instruments/check_a_mes_next_what_surfaces_to_it_or_the_other-than_of_its_now.py incoming/v406Reiman/instruments/resolver_as_it_is.py . incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, six lines, all *is*. Its drawing is the 34th, `illustrations/draft_34_a_mes_next_what_surfaces_to_it_or_the_other-than_of_its_now.png`.
+
+24. **A me's next is the parity surfacing to it.**
+25. **With none surfacing, a me's next is the other-than of its now.** A none's other-than is a none, two wires crossed.
+26. **A me lays its next, with its next other-than its now.**
+27. **By nand, the two lines are the fifteen lines' own laying and next, case with case.** It is with a now of the three, and none, one and two observed of the three, all 39 cases.
+28. **The two lines are 26 nands with none observed, for the fifteen lines' 46.** Both are 6 more a thing observed. The 26 is one form's, with no search of a least.
+29. **The two lines' moments are the living code's with all societies gone through.** They are 4,097 openings: paths closing, with priors and with newborns; paths with an end me; and tori of 2 by 2, 2 by 3 and 3 by 3.
+30. **The sentences 10 to 12 of this page are resolved forward.** A birth is a surfacing as it is. A + and a − observed together surface none, and two alike surface the one. All four is-nots of the lean line are this relation's own.
+31. **With both wires as a now or observed, the two lines part from the fifteen lines.** It is with 21 of 45 cases. Both wires, v407nanding's vault, are none of the three parities.
+
+**Said already, by its file.** v407nanding's page, The now and same-existing me-parity, has *With no prior, a me-parity is born with a surfacing.* and *At all else, a me's now is other-than its prior.*, a me with a prior and a me with none said apart. Here the two are one relation, by a none's other-than a none. The fifteen lines, and a + and a − surfacing none, are v406Reiman's.
+
 ## A parity of two wires
 
 14. **The other-than of a parity of two wires is a crossing of its wires.** It is no nand. A + is a −, a − is a +, and a none is a none.

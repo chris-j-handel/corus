@@ -221,4 +221,11 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - Their is-not: a me observing itself has its next as the other-than of its prior, the right spiral; and on a path of mes closing the three are a me's at all moments with ten of 2,046 openings, the parities in turn.
    - Resolved forward: the three sentences are v407nanding's lean line with a me its own other, by its prior at its opening and by its now a moment on. Two of the lean line's four is-nots, its opening and its end me, are the lean line's own.
    - A 33rd drawing, a candidate, beside the 32nd. The session's placing in it: a now universe with a sequence of prior nows as a me with none observed.
+44. *continue*
+   - A partner's word of 24 November. The session went on from a partner's sentence, next is other-than now, and from the lean line's two is-nots yet open, a none in the path and a me observing two.
+   - Found and executed, six lines, all *is*: a me's next is the parity surfacing to it, and with none surfacing the other-than of its now, a none's other-than a none; a me lays its next, with its next other-than its now. By nand the two lines are v406Reiman's fifteen lines' own laying and next, case with case, 26 nands for its 46. Their moments are the living code's with all 4,097 openings of the societies gone through.
+   - All four is-nots of v407nanding's lean line are resolved forward: its opening, its end me, a birth and a me observing two are this relation's own.
+   - Its is-not: with both wires as a now or observed, v407nanding's vault, the two lines part from the fifteen lines with 21 of 45 cases.
+   - Looked for ahead of it: v407nanding's page has a me with a prior and a me with none said apart; they are named by their file.
+   - A 34th drawing, a candidate, beside the 33rd.
 
