@@ -666,4 +666,15 @@ about 136,279,841 multiplyings of a number of 41,024,320 places. Done here: the 
 past the record crossed by all spirals of 2 to 2,000,000 selves, 387,419 not crossed, the lowest the
 record and 22, 70, 100, 126 and 136 more, none tested. Past the old records the next primes are
 8,209, 131,101, 524,309 and 2,147,483,659, tested by the explorer below]
+
+A partner, on 24 November at 15:46:
+1 5 17 65 261 we can go to any number at this rate. we can get to the largest number and all the
+betweens traveling at this rate of increasing travel rate in the numbers
+
+The session:
+[261 gone by as 257, a surface's next 1 a bi-folding after a bi-folding. Is: the record is on the
+surface of 68,139,921 bi-foldings, and past 2 multiplied by its own 28 times. A between past a far
+surface is tested exactly with the number below it k by the surface: past 8, 32, 128 and 512
+bi-foldings, k of 1, 25, 207 and 1,125, primes of 5, 21, 80 and 312 places. Its marks: a between with
+no known primes beside it is reached and not tested exactly; a step's own size is the number's]
 ```
