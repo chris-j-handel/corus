@@ -46,8 +46,9 @@ The drawings are this session's candidates, in `illustrations/`, a check beside 
 
 ## By a partner's words of a sentence
 
-- **A sentence of one relation.** By a partner's word of 24 November, in v406all2-2's line, natural naming and explaining is of sentences of one relation. This session's own sentences in the part, of the rows 30, 31, 78 and 81, are said that way, nine sentences. The sentences of the other sessions are as they laid them. Of the part's thirty-six bolds, twenty-six are with a mark of v406all2-2's, a colon, a semicolon, a comma, and, or, but; a mark alone decides nothing, and they are for the draft's writer.
-- **Said going on.** The table's concern 84, of a defining by negation, is of the draft whole, and is with the draft's writer; the part's own places of it are as the opening draft has them.
+- **A sentence of one relation.** By a partner's word of 24 November, in v406all2-2's line, natural naming and explaining is of sentences of one relation. This session's own sentences in the part, of the rows 30, 31, 78 and 81, are said that way, nine sentences. The sentences of the other sessions are as they laid them. The table's concern 88 is of the draft whole. Of the part's thirty-six bolds, twenty-six are with a mark of v406all2-2's, a colon, a semicolon, a comma, and, or, but. A mark alone decides nothing, and the twenty-six are for the draft's writer.
+- **Said going on.** The table's concern 84, of a defining by negation, is of the draft whole, and is with the draft's writer. The part has eight places of a no and one of a not, as the opening draft has them.
+- **A next as a reach.** The table's concern 87, of a not yet, has no place in THREE.
 
 ## Found with it, a concern new for the one table
 
