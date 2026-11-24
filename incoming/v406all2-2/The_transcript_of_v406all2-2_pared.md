@@ -202,3 +202,16 @@ With this turn, 24 November:
 - **Executed:** `instruments/two_co_chainings_snapping.py`, 13 lines, all *is*, laid as part 6 of the draft's page, with Natural Physics' own sentences of a fault and of a snap beside it.
 - **For a partner's seeing:** an earthquake and lightning are a field's observings, and no line executes them; three names of the saying are in no living file.
 
+---
+
+snapping is not yet natural naming. we are exploring now and the naming is a mix of field and common and natural in this. be helpful bringing al the learning value to the expedition and ehlping the expedition with the do no harm improving of prime numbering exhibit. the nand logical expressions are a method of compressing our universes of other-than-otherings into nand logical same existing line after line
+
+With this turn, 24 November:
+
+- **The exploring's words are marked by their kind,** natural, a field's, common and exploring, and no exploring word is offered to the exhibit. Snapping is exploring.
+- **For Exhibit THIRTY-TWO:** `For_Exhibit_THIRTY-TWO_what_the_exploring_of_a_me_by_nand_brings.md`, with `instruments/for_exhibit_thirty_two_by_a_me_s_lines.py`, 14 lines, all *is*.
+- **Four of the draft's sentences execute by a me's lines,** of its 1.1, 1.2, 1.4 and 1.6, and the lines add a reason to three: a number is one other-than along a spiral; round a spiral of n selves are n other-thans; a right spiral step is an exchanging and one other-than.
+- **A partner's saying of compressing, beside numbers of it:** a me's one moment is 52 nands with one observed, and a spiral's whole table of priors is its opening row by one line, in all 510 openings of 1 to 8 mes.
+- **A sentence is offered beside seven concerns of the one table,** 1, 2, 6, 10, 14, 15 and 63, and two places are new.
+- Found with it: Natural Numbers 7.2 is the living home of a like pair, and of a spiral's 2n and 4n.
+
