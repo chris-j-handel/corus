@@ -43,7 +43,7 @@ say("couplings among two, three, four, five and sixteen are one, three, six, ten
     [among(n) for n in (2, 3, 4, 5, 16)] == [1, 3, 6, 10, 120])
 say("four in a row have six couplings forward, one with a later one, and a fifth has four more: six and four, ten",
     among(4) == 6 and among(5) == among(4) + 4)
-say("of the ten among five in a row, four are of neighbours and six go forward past a neighbour: over two, over three and over four, three, two and one",
+say("of the ten among five in a row, four are of two next along and six go forward past a next one: over two, over three and over four, three, two and one",
     [sum(1 for a, b in combinations(range(5), 2) if b - a == d) for d in (1, 2, 3, 4)] == [4, 3, 2, 1])
 say("couplings among seventeen are 136: the 120 among sixteen, and sixteen more with a seventeenth", among(17) == 136 == among(16) + 16)
 
