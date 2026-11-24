@@ -2,12 +2,14 @@
 
     python3 -I incoming/v406all2-2/instruments/a_co_parity_beside_a_me_parity.py .
 
-1  The sentences of a co-parity, a me-parity and a like pair, found word for word in their homes.
+1  The sentences of a co-parity, a me-parity and a like pair, found word for word in their homes,
+   and a co-parity's surfacing as the living files say it: its own parity surfacing.
 2  In the fifteen lines of nand: a me-parity is two is-or-is-nots, and a co-parity one,
    an all of a prior and what surfaces.
 3  An other thing: + and - exchanged; none surfacing; two mes facing.
 4  On rounds of 1 to 9 mes, all their openings: a me-parity with all mes at all moments,
    and a co-parity at a like pair, one moment of two.
+5  Surfacing, one step more: whose parity surfaces with a me.
 
 The fifteen lines and the snaps are this folder's, of a_me_by_nand_other_thans_and_alls.py,
 and the step is v406Reiman's as it is. It prints a line an is or an is-not, and writes nothing.
@@ -88,8 +90,17 @@ if __name__ == "__main__":
     line(re.search(r"Its two \w+ are co-parity, the same, \w+ 0, and bi-parity, one inversion\.", intelligence) is not None,
          "Natural Intelligence: co-parity, the same, a 0, and bi-parity, one inversion")
     line("3 now-existing co-parity" in mathematics and "in neither self alone" in mathematics, "Exhibit FOUR Natural Mathematics: 3 now-existing co-parity, in neither self alone")
-    line(re.search(r"one pair of coupling selves is \w+ \w+ parity, a like pair", numbers) is not None, "Exhibit THREE Natural Numbers, 7.2: a like pair, a pair of coupling selves with the same parity")
+    line(re.search(r"one pair of coupling selves is \w+ \w+ parity, a like pair", numbers) is not None, "Exhibit THREE Natural Numbers, 7.2: a like pair of coupling selves")
     line("A number is two moments: a spiral's one pair of one parity moves one self on with a second moment." in the_draft, "the draft's 1.2, its bold as it is")
+    naming = a_page("Exhibit_TWENTY_Natural_Naming_v*.md")
+    thirty = a_page("Exhibit_THIRTY_Co-Chaining_Logic_Registry_v*.md")
+    living = "\n".join(re.sub(r"[*`]", "", Path(f).read_text(encoding="utf-8")) for f in sorted(glob.glob(str(root / "*.md"))))
+    line("with 14 surfacing its own parity, 0" in naming, "Exhibit TWENTY Natural Naming, 5.44, its line 3: 14 surfacing its own parity, 0")
+    line(re.search(r"With its own parity surfacing, two cells, it \w+ 0 and its prior is same-existing\.", thirty) is not None,
+         "Exhibit THIRTY Co-Chaining Logic Registry: with its own parity surfacing, a 0 and its prior same-existing")
+    its_places = len(re.findall(r"own parity surfacing|surfacing its own parity", living))
+    line(its_places == 8 and not re.search(r"same parity surfacing", living, re.I),
+         "the living files say its own parity surfacing at %d places, and a same parity surfacing at none" % its_places)
 
     print()
     print("2. In the fifteen lines of nand")
@@ -138,3 +149,37 @@ if __name__ == "__main__":
     line(odd_moment and even_moment, "a co-parity is at a like pair alone, with one moment of its two: a 0 given, and with its other moment none")
     like_one = [along(n, values, 2)[0][0] for n in (3, 5, 7, 9) for values in itertools.product((1, -1), repeat=n)]
     line(all(sum(1 for i in range(len(p)) if p[i] == p[i - 1]) % 2 == 1 for p in like_one), "a round of an odd number is with a like pair at all its openings, an odd number of them")
+
+    print()
+    print("5. Surfacing, one step more: whose parity surfaces with a me")
+    line("other selves' parities reaching a self with 2-now-possibling, surfacing with 14-next-possibling" in one,
+         "Exhibit ONE Natural Resolver, five dimensions: other selves' parities reaching a self with 2, surfacing with 14")
+    line(re.search(r"An other's direction, a self \w+ it now, is the same as the self's own, or one inversion from it\.", intelligence) is not None,
+         "Natural Intelligence, of a parity: an other's direction is the same as the self's own, or one inversion from it")
+    line(all(next_prior(0, o) == surfacing(o) for o in observed_lists) and next_prior(0, [1, 1]) == 1 and next_prior(0, [1, -1]) == 0,
+         "by the fifteen lines: with all the parities observed the same that parity surfaces, and with a + beside a - a 0")
+    line(all(gives(p, o) == next_prior(p, o) for p, o in cases if gives(p, o)), "a + or a - given is its giver's next me-parity, at all cases of a parity given")
+    an_other_s = all(receiver != giver for n in range(2, 10) for (giver, _), receiver in a_co_chaining(n).items())
+    an_other_s = an_other_s and all(receiver != giver for (giver, _), receiver in draft.a_surface(3, 3).items())
+    line(an_other_s, "with a round of two or more mes, and with a surface, what a me observes is given by an other me: at no connector its own")
+
+    def surfacing_along(n, values, moments):
+        mes = list(range(n))
+        society = {me: ([(S, v)], []) for me, v in zip(mes, values)}
+        connectors, rows = a_co_chaining(n), []
+        for _ in range(moments):
+            priors = [dict(society[me][0]).get(S, 0) for me in mes]
+            rows.append((priors, [surfacing([v for _, v in society[me][1]]) for me in mes]))
+            society = step(society, connectors)
+        return rows
+
+    of_an_other = two_the_same = True
+    for n in range(2, 10):
+        for values in itertools.product((1, -1), repeat=n):
+            rows = surfacing_along(n, values, 4 * n + 2)
+            for t in range(1, 4 * n + 2):
+                priors, surfaces = rows[t]
+                of_an_other = of_an_other and all(surfaces[i] in (priors[i - 1], 0) for i in range(n))
+                two_the_same = two_the_same and all(priors[i] == priors[i - 1] for i in range(n) if a_co_parity(priors[i], [surfaces[i]]))
+    line(of_an_other, "on rounds of 2 to 9 mes: a parity surfacing with a me is the me-parity, now, of the me it observes, and with all else a 0")
+    line(two_the_same, "with a co-parity two me-parities are the same: a me's own, and an other's it observes")
