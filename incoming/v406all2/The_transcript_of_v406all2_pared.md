@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-one turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1124,3 +1124,36 @@ Three incoherings are the living files' own, two found sentences parting in each
 - *A universal set is a set of same-existing things*, beside line 17, a universal set of prior moments, same-named and not same-existing.
 
 1x2, 2x3, 3x2, 2x4, 4x5, ... this is the method going in two directions
+
+The method's two directions are doubling, and one more and back. Resolved by cohering, with nothing asked.
+
+**The going on, from 1**
+
+1x2, 2x3, 3x2, 2x4, 4x5, 5x4, 4x8, 8x9, 9x8, 8x16, 16x17.
+
+- **Its opening five are the five as said.**
+- **At 1 the two directions are one:** 1 and one more, and 1 doubled, are both 2, and 1x2 is said once.
+- **From 2 on they part:** one more and back, to 3, 5, 9 and 17; and doubling, to 4, 8 and 16.
+
+**The two directions are the two folds of both**
+
+- **Doubling is both of boths,** across scales: *One, two, four and eight, the doubling that divides*.
+- **One more is both in a row,** a link more: *one more other, a co-chaining of bi-couplings*.
+- **Out and back** is *Bi-co-podaling is going out and going back with one ring station*.
+- **Executed by nand alone:** both of 2, 3, 4, 5, 8, 9, 16 and 17 things is with all alone, 197,436 cases. A thing more is two nands more, and its things doubled are its nands doubled and two more.
+
+The chain's second sentence has both directions: *all or none at all with scales* is the doubling, and *co-chaining* is the one more.
+
+**To 17**
+
+It is eleven steps and nine numbers: 1, 2, 3, 4, 5, 8, 9, 16, 17.
+
+- **1, 9 and 17 are among them,** with *1, 2 and 3 of one scale are 1, 9 and 17 of next*.
+- **The bi-folding's row 1-9-8-16 is whole in them.**
+- **No found sentence says these nine are the diamond of nine.** It is said to v406geodesic2 for a drawing: a line of doubling, and a one more and back at 2, 4, 8 and 16.
+
+**Its other, with not all**
+
+On by two, with one more and back, has the five too: 1x2, 2x3, 3x2, 2x4, 4x5, 5x4, 4x6, 6x7. Its opening step is not of its going on by two, and no fold of both is by two.
+
+take my offering as a suggestion and begin cohering this into our numbering and then we can find anything to offer the other sessions and return to gathering for improving exhbit thirty and opening to natural intelligence. more is resolving and natural naming and explaining is becoming nanding logic into and out of universal me-nows

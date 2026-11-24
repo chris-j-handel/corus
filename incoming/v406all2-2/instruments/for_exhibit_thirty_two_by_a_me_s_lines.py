@@ -46,7 +46,7 @@ if __name__ == "__main__":
         seen = frozenset(v for v in observed if v)
         return {frozenset([1]): 1, frozenset([-1]): -1}.get(seen, 0)
 
-    print("1.1  A self with its prior: the same, a 0 and its prior same-existing; other than its prior, one inversion")
+    print("1.1  A self with its prior: the same surfacing, a 0 and its prior same-existing; all other surfacings, one inversion")
     with_prior = [(p, o) for p in (1, -1) for o in observed_lists]
     gives = lambda p, o: ONE[a_me(*in_two(p, o))[0]]
     next_prior = lambda p, o: ONE[a_me(*in_two(p, o))[1]]
