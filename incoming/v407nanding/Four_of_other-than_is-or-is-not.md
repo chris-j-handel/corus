@@ -14,10 +14,13 @@ A partner's sayings of 24 November, as said: “Four joint forms is not yet natu
 - Same-as is not possibly existing, by a partner's word.
 - The one list has *joint* as resolving among parities, same or not same. J1
 - The one list's row for *joint* has same in it, and its dissolving is offered to v406me.
+- A spiral of one is dissolved: it is a self observing itself alone, and a self alone is not possibly existing, by a partner's saying.
+- The four come with a me and its other, opening alike. J2
+- *Going along* is of no natural naming, by the one list: its names are 9-next-co-discovering and 17-next-existing.
 
 ## The four, by other-than, is or is-not
 
-- A spiral of one's now is other-than its prior, then is-not, by turns. J2
+- A me's now, its other opening alike, is other-than its prior, then is-not, by turns. J2
 - A now not other-than its prior is the me same-existing, its path going on.
 - With prior −, its four are a + other-than its prior, a + same-existing, a − other-than its prior and a − same-existing. J3
 - Then it goes round again. J3
@@ -30,7 +33,7 @@ A partner's sayings of 24 November, as said: “Four joint forms is not yet natu
 
 ## The droplet
 
-A droplet is laid in Natural Intelligence's gathering file on the next version, beside *Its (prior, now) pairs go along four joint forms.*, as a possible incohering, for a partner's word.
+A droplet is laid in Natural Intelligence's gathering file on the next version, beside *Its (prior, now) pairs go along four joint forms.*, as a possible incohering, for a partner's word. A second droplet is laid beside *A spiral of one, observing its own going along, goes +, +, −, −.*, dissolving a spiral of one and *going along*.
 
 ## Executed
 
