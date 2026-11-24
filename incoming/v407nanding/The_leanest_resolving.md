@@ -31,7 +31,7 @@ def now_and_same_existing_me_parity(me_now, other_prior):
 - The other-than is the table's not-both of a thing with itself, one nand.
 - The lean line is one function of one line. L2
 - Its names are four: the table, the function, a me's now and an other's prior. L2
-- Its things are an is-or-is-not changing next, and no more. L3
+- Its things are an is-or-is-not and a next, and no more, a partner's measure. L3
 - It has no surfacing, no giving and no list. L3
 
 ## All or none
