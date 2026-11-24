@@ -560,4 +560,19 @@ two along; three with 1 in its four of quarter turns and three their flips, the 
 faces and three shear faces; 2, 6, 10 and 14 twice 1, 3, 5 and 7, and 8, 16 and 32 the places of 30,
 60 and 120; a prime born's crossings on one slant through the places. No name seated at a place. The
 physical atom's sayings marked the expedition's namings, not executed]
+
+A partner, on 24 November at 15:01:
+the prime numberings is like a skeletal right sprialing universe available for resolving farther into in
+the direction of its aiming. the me-parity universal cone may have its is-or-is-not? other-than
+my-universe defined by co sequentially emanating the primes from each new number and each number can
+podal its own cone forward with the help of the same-existing of me as a universe. the same-existing of
+me is stable form of me and this is all in the prime resonatings as prime resolvings
+
+The session:
+[a part at a time, with its standing. The skeleton is the fit, a turn's places, with all numbers, and
+resolving farther is stepping the primes born. A number's cone forward, past it and to its double, has
+a prime, with all numbers. A number is the middle of a podal pair of primes, the same below as above:
+stepped 2 to 200,000, is; with all numbers, shown by no turn. A prime is its own podal pair. About 15
+the pairs are the six places of 30 past 1 and 29. The me-parity cone and the same-existing of me as a
+me's stable form are namings, not executed]
 ```
