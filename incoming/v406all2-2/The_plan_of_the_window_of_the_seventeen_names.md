@@ -46,20 +46,13 @@ From `incoming/v406me/The_working_windows_and_the_next_projects.md`, `The_news_o
 
 ## Aimings: what the expedition aims with it
 
-From v406aiming's log, `incoming/v406aiming/Each_aim_by_its_names.csv`, an aim with its sentence as the log says it.
+The expedition's aims are said once, in the log of the aims, in Exhibit FOURTEEN's next version. This plan names the log's rows by their numbers, as v406aiming numbers them in `incoming/v406aiming/The_aims_of_the_things_of_value.csv`, and says no aim again.
 
-| The aim | Its sentence | Its home |
-| --- | --- | --- |
-| A universal natural resolver | *The method as executing code, a stable form any science's observings are pattern-matched with.* | Exhibit ONE; Exhibit THIRTY, steps 263, 264 and 339 |
-| Seventeen names in four four-cyclings | *All its names made of now and next, existing, possibling, observing, discovering and same-existing, the window's own words.* | Natural Intelligence 4.8 and 4.9; Exhibit THIRTY, step 259 |
-| One hand | *A right spiral step, handedness from the method itself.* | Exhibit THIRTY, steps 118 to 122 |
-| Natural naming | *One name for one concept, named from its inception, offered to all files and all sessions ahead of any use.* | Natural Naming 2.5 and 4.6 |
-| A positive before a negation; dissolved words and the one list; naming across, explaining along | | Natural Naming 1.3 and 2.4; the one list |
-| All fields and the one form | A field's observings pattern-matched with the resolver | The field exhibits; Exhibit ONE |
-| The ten fixings, the resolver's own ten | | Resolving the Hard Problem Registry; Equilibria Registry |
-| Odd and even, exchanging; the torus; a fractal through numbers | | Exhibit THIRTY, steps 138 to 140, 174 to 176, 348 |
-| Code as the method's engineering; the bi-trupling protocol | *A stable form of the method* | Natural Intelligence's gathering; Exhibit THIRTY, step 584 |
-| The seventeen names' tables, by a partner's suggesting | *Hosted with corus.me's home page, after the universe as all now-existing things.* | Living File Registry's gathering, its head |
+- **This window's origin destiny:** 2.2.8, *Seventeen names in four four-cyclings*.
+- **Its tables:** 2.10.13, *The seventeen names' tables, by a partner's suggesting*.
+- **With Exhibit ONE Natural Resolver:** 2.2.7 and 2.5.1; 2.2.12; 2.5.3; 2.9.10 and 2.9.11.
+- **With Exhibit TWENTY Natural Naming:** 2.3.3 to 2.3.6.
+- **With numbers:** 2.4.2, 2.4.3 and 2.4.13.
 
 The log's own three columns are named by names of the seventeen: observing, 7 and 15; possibling, 2 and 14; discovering, 13 and 9.
 
