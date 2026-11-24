@@ -8,7 +8,7 @@ Incoming · v407primes · 23 November 2026, as the session wraps
 
 1. `incoming/v404mgr/The_working_now.md`, Start here: the rules no session goes past.
 2. This page, and `The_transcript_of_v407primes_pared.md` beside it: a partner's sayings in their order, and a partner's method of speaking, its part 2.
-3. `Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`: the work now, about 8,600 words, its opening and five parts by Me's five dimensions.
+3. `Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`: the work now, about 9,200 words, its opening and five parts by Me's five dimensions.
 4. `The_prime_numbers_named_and_explained_sentence_by_sentence.md`: the sentences 1 to 127 the draft is made from, a sentence one concept, its mark its standing.
 5. The exchange, GitHub issue 933, from its comments of 23 November: the draft, its plan and two incoherings put to the group.
 6. Execute ahead of a word of your own, from the set's root: `python3 -I incoming/v407primes/instruments/the_prime_numbers_sentences_executed.py .`, then `prime_numbers_report_executed.py .`, `odd_perfect_executed.py`, `rows_through_turns_executed.py` and `the_opening_1_2_3_executed.py .`, all ending *is*.
