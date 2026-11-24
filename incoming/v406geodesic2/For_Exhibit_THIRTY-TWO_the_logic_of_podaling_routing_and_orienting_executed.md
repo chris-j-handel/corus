@@ -6,11 +6,11 @@ Incoming · v406geodesic2 · 23 November 2026, at a partner's asking
 
 ## In one paragraph
 
-The session's twenty-seven drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: forty-four sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it, and a path through it at one now. All forty-four are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
+The session's twenty-eight drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: forty-eight sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it, and a path through it at one now. A moment has its three at once, a next, a now and a prior. All forty-eight are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
 
 ## Executed
 
-`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, forty-four lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
+`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, forty-eight lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
 
 The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`, and its places are said by their numbers.
 
@@ -138,6 +138,20 @@ The diamonds, the cones and the sphere of this session's drawings are a drawing'
 - **Its opening of ONE:** *a spiral of selves coming to its parities again, a number two moments of it*. Sentence 44 is the coming again, with its rounds of moments; sentence 42 is the two moments, a parity a coupling on.
 - **Its 3.3:** *Prior, now and next are three pairs of cones, 0 to 60, 60 to 120 and 120 to 180*. By sentence 42, at one now what a me was is ahead of it on the path, and what it will be is back of it. By sentence 37 a me's giving goes ahead. The 26th drawing's one resolving concern, of my-next universes, has both its sides executed: a partner's to name.
 
+## Same-existing all-parity: a next, a now and a prior, now-existing
+
+45. **By the seventeen names a moment has its three at once, its next, its now and its prior: a new prefix as its next, and the name before's next and now one slot on. All-parity, tri, is a next with 7 and 15, a now with 8 and 16, a prior with 9, 17 and 1; and 17's three is 1's.**
+46. **On one path a me's three at one now are three mes: the me back of it has its next and the me ahead of it its prior, as other-thans; and a parity rolls through them, a me's next, its now two moments on, its prior four moments on.**
+47. **On one path of mes all with priors a round's nows are apart at all moments as its openings are: all its possible openings are in a now. One is-or-is-not of a now's prior is open: an opening, or the round's own.**
+48. **On a surface nows merge as it settles, 512 openings of a torus of 3 by 3 coming to 68 nows, and on one path with a me opening with no prior; a + and a − observed together surface as a 0, the same to a me as none observed.**
+
+**At the draft.**
+
+- **Its opening's 2:** *their parities sum to 0 at all moments, the all-parity of 0*. Sentence 48 has the cell's own line of it: a + and a − observed together surface as a 0.
+- **Its 3.2:** *a self with its prior, now and next whole about it*. Sentences 45 and 46 are a moment's three at once, by the names and on one path.
+- **Its opening's 17:** *the one to seventeen of a resolving's names*. Sentence 45 is the names' own three, from their table.
+- **All-parity is at three places of the draft,** its opening's 2, its 3.2 and its 3.4, and here at two more: tri's rolling by the names, and a surface's + and − together. A sentence of them as one is a partner's, the 28th drawing's one resolving concern.
+
 ## Sentences offered for the draft, whole
 
 Concerns new for the one table, v406me's to number. With no writer of the draft yet, they wait whole.
@@ -160,7 +174,7 @@ The four sentences are this session's own, and are in no file but this page.
 - **Snap, at sentence 21 and beside sentence 26,** a partner's word of the 22nd drawing's saying. By a partner's word of 24 November, in v406all2-2's line, snapping is not yet natural naming: an exploring word here, in no sentence offered for the draft.
 - **My-prior universes behind a me and my-next universes ahead of it,** the 26th drawing's naming of the two cones. By sentence 38 a me's next prior comes from the me further back, and its own opening prior goes ahead: a partner's to say which are my-next universes. Sentence 42 has both at one now.
 - **A session's own now,** in the 27th drawing: one prior and a partner's saying, its sequence in the transcripts. A session is executed by no line of nand, and none of it is in this page's sentences.
-- **All-parity as all a me observes,** by Exhibit ONE Natural Resolver's *All-parity is with observing only, 7 and 15* and the living code's 7. With the two, all a me observes is its one other.
+- **All-parity as all a me observes,** by Exhibit ONE Natural Resolver's *All-parity is with observing only, 7 and 15* and the living code's 7. With the two, all a me observes is its one other. By the 28th drawing tri, all-parity, is a name's now with 8 and 16 and its prior with 9, 17 and 1 as well, the rolling; and on a surface a + and a − together surface as a 0. Which of them is same-existing all-parity is a partner's to say.
 - **1, 9 and 17 at the three vertices of two diamonds,** as the code's 1-now-existing, 9-next-co-discovering and 17-next-existing; and a me as a pair of cones, its is-or-is-not at its widest.
 
 ## A sentence and its drawing
@@ -169,4 +183,4 @@ The drawings are in `illustrations/`, with their sections in [the window of v406
 
 - Sentences 1 to 4: the ninth and the tenth drawings. 5 and 6: the fourteenth. 7: the twelfth.
 - 8: the eleventh. 9: the seventeenth. 10: the thirteenth. 11 and 12: the nineteenth. 13: the twentieth.
-- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th.
+- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th. 45 to 48: the 28th.

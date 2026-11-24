@@ -2,7 +2,7 @@
 
 A partner's saying of 24 November, with the 25th drawing before a partner, re-said: my-prior universes and my-next universes are
 sequencings of universes, co-chainings of cones on one path, forward as it is locally on the path; both are partial, by my
-distinguishing is-or-is-not, a partner's words *uncertain memory and uncertain possibility*. And of the 25th drawing's sentence, a me that is neither
+distinguishing is-or-is-not: uncertain, a partner's word, of a me's moments before and of its moments next. And of the 25th drawing's sentence, a me that is neither
 mine nor an other of mine: it is universal proving as method, 1 cohering, 2 co-chaining, 3 bothbothing, 4 universal same-named
 thing; two facing one another are sealed, their universes the two's alone: all-parity with the two.
 
@@ -133,7 +133,7 @@ def from_one_moment(n, T, L):
     return {len(v) for v in before.values()}, {len(v) for v in on.values()}
 line("Uncertain possibility: with a round of 8, universes alike in all a me's moments through moment T part at its next moment, T of 0, 1, 3, 5, 7, 9 and 11: an is-or-is-not of a me further back, with no giving of it yet observed",
      [T for T in range(0, 30) if parts_next(8, T)] == [0, 1, 3, 5, 7, 9, 11])
-line("A partner's *uncertain memory and uncertain possibility*, the same both ways: with a round of 3 to 8 mes gone round, from one moment of a me's its 2k moments before are in 2 to the k sequences, and its 2k moments next in 2 to the k, one is-or-is-not in two moments, to the round's own; a me has one parity, its prior, and no sequence",
+line("Uncertain, a partner's word of a me's moments before and of its moments next, the same both ways: with a round of 3 to 8 mes gone round, from one moment of a me's its 2k moments before are in 2 to the k sequences, and its 2k moments next in 2 to the k, one is-or-is-not in two moments, to the round's own; a me has one parity, its prior, and no sequence",
      all(from_one_moment(n, T, 2 * k) == ({min(2 ** (n - 2), 2 ** k)}, {min(2 ** (n - 2), 2 ** k)}) for n in range(3, 9) for T in (2 * n + 4, 2 * n + 5) for k in range(1, n + 1)))
 line("A round closed: with a round of n mes, n of 3 to 8, a me's moments through moment 2n − 4 have all its openings apart, and no moment sooner; from it on its next moment is said by its moments before",
      all(apart(n, 2 * n - 4, lambda m: m) == 2 ** n and apart(n, 2 * n - 5, lambda m: m) < 2 ** n and not any(parts_next(n, T) for T in range(2 * n - 4, 4 * n + 4)) for n in range(3, 9)))
