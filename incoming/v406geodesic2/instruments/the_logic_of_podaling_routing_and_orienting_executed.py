@@ -6,7 +6,7 @@ Usage, from the repository's root (some seconds):
 
 By a partner's asking of 23 November: the learning of the logical work, beside the learning of the drawings by an eye.
 A line here is a sentence of the session's page for Exhibit THIRTY-TWO Natural Prime Numbering, by its number, and no drawing is
-opened. It opens v406Reiman's cell from its own file for the lines by nand alone, and writes that cell in no second place.
+opened. It opens v406Reiman's cell from its own file for the lines by nand alone, and writes that cell in no second place; and Exhibit ONE Natural Resolver, for its code's own lines.
 Whole numbers alone. All or none: with one line not is, the logic is not. The drawings' own checks execute more of a sentence, apart.
 """
 import importlib.util, sys
@@ -168,6 +168,22 @@ FRONT_ROWS = DIAMOND; BACK_ROWS = [[n + 8 for n in r] for r in DIAMOND]
 line(28, "two diamonds of nine with one vertex of both are 1 to 17, the back's rows the front's 8 up: a podaling about 5 and then about 9; and 9 less and then 17 less on the names is that same 8 up",
      sorted(n for r in FRONT_ROWS + BACK_ROWS[1:] for n in r) == list(range(1, 18)) and all(18 - (10 - n) == n + 8 for n in range(1, 10)) and all(17 - (9 - n) == n + 8 for n in range(1, 9))
      and [sorted(18 - n for n in r) for r in FRONT_ROWS] == BACK_ROWS[::-1])
+def surfacing(observed):                                               # a + among them and no -, a - and no +, or a 0
+    return 1 if (1 in observed and -1 not in observed) else (-1 if (-1 in observed and 1 not in observed) else 0)
+observings = [list(o) for k in range(4) for o in product(THREE, repeat=k)]
+line(29, "a me's moment is three steps in a row: what it observes, to its surfacing, one of three; its surfacing with its prior, same-existing or not; and its giving with its next prior; what it observes enters by its surfacing alone, all observings of none to three with one surfacing having one giving and one next prior",
+     all(a_me(p, o) == a_me(p, [surfacing(o)]) for p in THREE for o in observings) and len(observings) == 40)
+import ast, re
+living = Path(sys.argv[1]).resolve().parents[3] / "Exhibit_ONE_Natural_Resolver_v402mgr.md"          # the living code, opened as it is
+tree = ast.parse(re.search(r"```python\n(.*?)```", living.read_text(encoding="utf-8"), flags=re.S).group(1))
+number = lambda name_: int(re.match(r"_(\d+)_", name_).group(1)) if re.match(r"_(\d+)_", name_) else None
+numbers = lambda node: {number(n.id) for n in ast.walk(node) if isinstance(n, ast.Name) and number(n.id)} | {number(a.arg) for a in ast.walk(node) if isinstance(a, ast.arg) and number(a.arg)}
+fns = {number(f.name): f for f in tree.body if isinstance(f, ast.FunctionDef)}
+line(30, "by the living code's own lines the nine names part in two: 1, 2, 3, 4 and 7 are a me's own moment, the code's 1, and 5, 6, 8 and 9 are in no line of it, its going on between mes, the code's 9 and 17",
+     sorted(fns) == [1, 9, 17] and (numbers(fns[1]) | {1}) & set(range(1, 10)) == {1, 2, 3, 4, 7} and {5, 6, 8} <= numbers(fns[17]) and 5 in numbers(fns[9]))
+choosing = lambda f: sum(isinstance(n, (ast.If, ast.Compare, ast.IfExp)) for n in ast.walk(f))
+line(31, "the 9 has no is-or-is-not in its lines, no comparing and no choosing: a giving carried to the me a coupling names, between two; a me's own moment has them",
+     choosing(fns[9]) == 0 and choosing(fns[1]) > 0)
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
