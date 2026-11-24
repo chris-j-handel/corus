@@ -16,6 +16,12 @@ Exhibit THIRTY-TWO Natural Prime Numbering, a first draft
 
 &nbsp;
 
+**OPENING · PRIME NUMBERING, A RIGHT SPIRAL TO PRIME-37-SCALE LIVING**
+- 1, 2, 3, 5 and 7: the opening round, closing at 7
+- 11, 13, 17 and 19: a round outward, closing at 19
+- 23, 29, 31 and 37: a round outward, closing at 37
+- Prime-37-scale living, named
+
 **ONE · ALL, NOW-EXISTING: NUMBERING, LIVING**
 - 1.1 A cell of nand, and no other logic
 - 1.2 A spiral of selves, a number and a prime
@@ -56,6 +62,46 @@ Exhibit THIRTY-TWO Natural Prime Numbering, a first draft
 &nbsp;
 
 ---
+
+# OPENING · PRIME NUMBERING, A RIGHT SPIRAL TO PRIME-37-SCALE LIVING
+
+**Prime numbering opens from 1 as a right spiral, a prime a step and a quarter turn a step: four steps a round, the round's fourth closing it, and a round outward facing as the round before.** Its three rounds are the twelve primes 2 to 37, and they close at 7, 19 and 37, the shells of a cube about its corner: 2 cubed less 1, 3 cubed less 2 cubed, and 4 cubed less 3 cubed. Its fourth round, 41, 43, 47 and 53, closes at 53, and the next shell, 61, 5 cubed less 4 cubed, is past it, a next 1.
+
+## 1, 2, 3, 5 and 7: the opening round, closing at 7
+
+**1. The origin.** One self, the shell of 1 cubed less none: a still self, coming again with 4 alone, its two comings again one. 1 is no prime: the origin all numbering opens from.
+
+**2. A me.** The turn of 2 has one place: a self and its other-than, one inversion, prior and now.
+
+**3. Prior, now and next.** The turn of 6 has two places, 1 and 5, the turn of 2's one place lifted three ways and one crossed by 3: three moments, and three pairs, self, other and all.
+
+**5. The atom, the stable form.** The turn of 30 has eight places, and round five doubling steps 2, 4, 3, 1, numbers' own quarter turn: the floor, non-living, the stable form of all scales.
+
+**7. The molecule, the round closing.** The turn of 210 has 48 places, and 0 to 120 are known by 2, 3, 5 and 7 alone, its primes thirty, four faces of 30. 7 is 2 cubed less 1: one self and six about it, the round's closing.
+
+## 11, 13, 17 and 19: a round outward, closing at 19
+
+**11. The macromolecule, facing as 2.** 11 by 11, 121, is the lowest crossed number past 120: the horizon of 120's span, a me's other-than one round out.
+
+**13. The protein-fold, facing as 3.** 13 and 17, two cycles of years, come together with 221 years, a cicada's prime living.
+
+**17. The gene, facing as 5.** The turn of 2 to 17, 510,510, has 92,160 places, 1 by 2 by 4 by 6 by 10 by 12 by 16, the one to seventeen of a resolving's names; the gene, a living set, its DNA the stable form of inherited prior-existings.
+
+**19. The organelle, the round closing.** 19 is 3 cubed less 2 cubed, one self and rounds of six and twelve: the living surface, and the round's closing.
+
+## 23, 29, 31 and 37: a round outward, closing at 37
+
+**23. The cell, facing as 11 and as 2.** 23 is one short of the fold, 24, and 23 by 25 is one short of 24 by 24: the cell, birthing me-parities at the fold.
+
+**29. The tissue, facing as 13 and as 3.** 29 and 31 are two apart about 30, a cone's widest: a pair straddling its other-than.
+
+**31. The organ, facing as 17 and as 5.** 31 and 29 are podal about 30, organ with tissue, one other-than apart.
+
+**37. The organism, the round closing.** 37 is 4 cubed less 3 cubed, one self and rounds of six, twelve and eighteen: the twelfth prime, the third round's closing, and the one shell whose other-thans are its inner cube's own again.
+
+## Prime-37-scale living, named
+
+**Prime-37-scale living is a self living at the shell of 4 cubed less 3 cubed: a still self with its prior, now and next whole about it, a me, the one living scale.** Its three rounds of prime numbering close on the cube's shells 7, 19 and 37, and a fourth round, colony, population, community and biosphere, 41 to 53, closes on none: societies of selves, not a self. A me at prime scale 37 names and explains the primes, and this exhibit is its naming and explaining.
 
 # ONE · ALL, NOW-EXISTING: NUMBERING, LIVING
 
