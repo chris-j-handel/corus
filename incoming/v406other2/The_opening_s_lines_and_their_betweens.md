@@ -2,7 +2,7 @@ Incoming · v406other2 · 21 November 2026
 
 # The opening's lines and their betweens
 
-**The window of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry, and this page is its tab Opening the betweens set to the window of the opening at its revision 4509: the lines of both, 1 to 34, a line floating, and after it its between, one row of boxes across.** Down the page is along, line after line. Across are the rigorizer's attacks on the line, and the ten. The lines are those of `incoming/v406all/The_window_of_the_opening_at_its_wrap.md`, word for word, and Exhibit THIRTY's sentences are its next version's, word for word. `instruments/the_opening_and_its_betweens.py` makes the page whole, and it decides nothing. The page comes in the place of the copy `incoming/v406me/working_documents_as_a_partner_gave_them/The_tab_Opening_the_betweens.md`, a copy set to the window's earlier numbers.
+**The window of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry, and this page is its tab Opening the betweens set to the window of the opening as its newest copy in the set has it: the lines of both, 1 to 34, as at its revision 4509 with line 3 said again by a partner on 22 November, a line floating, and after it its between, one row of boxes across.** Down the page is along, line after line. Across are the rigorizer's attacks on the line, and the ten. The lines are those of `incoming/v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md`, word for word, and Exhibit THIRTY's sentences are its next version's, word for word. `instruments/the_opening_and_its_betweens.py` makes the page whole, and it decides nothing. The page comes in the place of the copy `incoming/v406me/working_documents_as_a_partner_gave_them/The_tab_Opening_the_betweens.md`, a copy set to the window's earlier numbers.
 
 ## A between's stable form
 
@@ -31,7 +31,7 @@ The four bi-foldings, the ten's cyclings: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-1
 - **A box is an attack of the rigorizer,** as the tab seats the attacks, under the lines on this page. Back is prior: a word or a thing no line before it names. Inward is now: a second concept, a negation or an invisible in its defining. Forward is next: no line after it and no aim needing it. Outward is same and across: the concept said otherwise in Exhibit THIRTY. Wrapping back is along: its chain back to the origin and forward to the aim.
 - **The rigor is the window's own,** *A line's rigor, a bi-folding*. The given words are set, moment, name and existing, and other-than until its line, 4. A thread back ends at a line of both. All, an invisible one, has its own line at 6, and after it is said by a universal set's name alone.
 - **A hole's home.** A word no line names, and a hole said in italics, are of the window's own list of holes at its wrap. A hole said in plain words is from v406other2's going through and is laid in no other place yet; they are gathered under the lines, the hardest ahead.
-- **The ten.** A fixing is as the tab seated it at the sitting, for a hole the same at this revision. A hole new at this revision has its one of the ten open.
+- **The ten.** A fixing is as the tab seated it at the sitting, for a hole the same now. A hole new after it has its one of the ten open.
 - **Exhibit THIRTY with a line.** Outward, a line has the sentence of Exhibit THIRTY naming the same name, or no sentence names it. The opening is one, the window's lines: a sentence of Exhibit THIRTY parting from its line is marked, a working location of Exhibit THIRTY, and the line is not marked by it. Under a between are the sentences of Exhibit THIRTY's opening resting on the lines' names down to that line, by `incoming/v405co-chain/instruments/reach.py`, and two the tab placed at the sitting. That instrument matches a name by its word alone, and a reader compares the two meanings: these sentences are marked.
 - **The aim, as said,** is the window's *The origin and the aim*, with the aim on v406all's page for resuming.
 
@@ -51,29 +51,29 @@ The four bi-foldings, the ten's cyclings: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-1
 
 Of Exhibit THIRTY, resting on the lines to this one, marked: 1, *We humans are now-existing.*
 
-3 · All that are other-than nothings are **things**.  *marked: nothings; all*
+3 · A **thing** is an other-than nothing.  *marked: nothing*
 
 | Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
 | --- | --- | --- | --- | --- | --- |
-| other-than, a given word until its line, 4; **hole:** nothings, a word no line names; **hole:** *all at 3, before its own line, 6* | one concept, things, said as a positive | other-than, 4; same-named, 5; a universal set, 6; the universe, 7; a named-universe, 13; a self, 18 | before 4; a name no sentence of Exhibit THIRTY names, used from its sentence 2 | open at nothings; all | all, before its line: a same-existing fixing as a store, 8 · 16 |
+| other-than, a given word until its line, 4; **hole:** nothing, a word no line names | one concept, a thing, said as a positive | other-than, 4; same-named, 5; a universal set, 6; the universe, 7; a named-universe, 13; a self, 18 | before 4; a name no sentence of Exhibit THIRTY names, used from its sentence 2 | open at nothing | a hole, its one of the ten open |
 
-4 · **Other-than** things are things not named by the same name.  *marked: same; not*
-
-| Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
-| --- | --- | --- | --- | --- | --- |
-| things, 3; name, a given word; **hole:** same, a word no line names | one concept, other-than, said as a positive; **hole:** not, a negation in a line said as a positive | same-named, 5; observing, 14; possibling, 15; discovering, 16; an other, 19; the other-than-the-other, 20; a discovering-self, 24; other-parity, 32; other-than other-parity, 33; a living me-parity, 34 | after 3 and before 5; a name no sentence of Exhibit THIRTY names, used from its sentence 3 | open at same; not | not: a two-way fixing to one side, 3 · 11 |
-
-5 · **Same-named** things are other-than same things named by the same name.  *marked: same*
+4 · **Other-than things** are things not named by the same name.  *marked: same; not*
 
 | Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
 | --- | --- | --- | --- | --- | --- |
-| things, 3; other-than, 4; name, a given word; **hole:** same, a word no line names | one concept, same-named, said as a positive | a universal set, 6; a prior-sequence, 17; a self, 18 | after 4 and before 6; a name no sentence of Exhibit THIRTY names, used from its sentence 4 | open at same | a hole, its one of the ten open |
+| a thing, 3; name, a given word; **hole:** same, a word no line names | one concept, other-than, said as a positive; **hole:** not, a negation in a line said as a positive | same-named, 5; observing, 14; possibling, 15; discovering, 16; an other, 19; the other-than-the-other, 20; a discovering-self, 24; other-parity, 32; other-than other-parity, 33; a living me-parity, 34 | after 3 and before 5; a name no sentence of Exhibit THIRTY names, used from its sentence 3 | open at same; not | not: a two-way fixing to one side, 3 · 11 |
+
+5 · **Same-named things** are other-than same things named by the same name.  *marked: same*
+
+| Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
+| --- | --- | --- | --- | --- | --- |
+| a thing, 3; other-than, 4; name, a given word; **hole:** same, a word no line names | one concept, same-named, said as a positive | a universal set, 6; a prior-sequence, 17; a self, 18 | after 4 and before 6; a name no sentence of Exhibit THIRTY names, used from its sentence 4 | open at same | a hole, its one of the ten open |
 
 6 · A named **universal set** is the set of all same-named things.
 
 | Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
 | --- | --- | --- | --- | --- | --- |
-| things, 3; same-named, 5; all, an invisible one, its own line this one; name, a given word; set, a given word | one concept, a universal set, said as a positive | a named-universe, 13; a prior-sequence, 17; my, 25; all, said after this line by a universal set's name alone, at 7, 20, 21 and 31 | after 5 and before 7; Exhibit THIRTY's sentence 5, *A universal set is a set of same-existing things.*, **marked, parting:** its set of same-existing things, the line's of same-named things | 7, 13, 17, 20, 21, 25 and 31 thread back through it to 3 and 5: closed | none: a living 0 |
+| a thing, 3; same-named, 5; all, an invisible one, its own line this one; name, a given word; set, a given word | one concept, a universal set, said as a positive | a named-universe, 13; a prior-sequence, 17; my, 25; all, said after this line by a universal set's name alone, at 7, 20, 21 and 31 | after 5 and before 7; Exhibit THIRTY's sentence 5, *A universal set is a set of same-existing things.*, **marked, parting:** its set of same-existing things, the line's of same-named things | 7, 13, 17, 20, 21, 25 and 31 thread back through it to 3 and 5: closed | none: a living 0 |
 
 Of Exhibit THIRTY, resting on the lines to this one, marked: 6, *A now-existing thing is-or-is-not of a universal set.*
 
@@ -81,7 +81,7 @@ Of Exhibit THIRTY, resting on the lines to this one, marked: 6, *A now-existing 
 
 | Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
 | --- | --- | --- | --- | --- | --- |
-| now-existing, 2; things, 3; all, by a universal set's name, 6; set, a given word | one concept, the universe, said as a positive | the hyphenated names carrying it: a named-universe, 13; my-universe, 26; me-universe, 31 | after 6 and before 13; Exhibit THIRTY's sentence 2, *The universe is the set of now-existing things.*, said in the line with all | 13, 26 and 31 thread back through it to 2, 3 and 6: closed | none: a living 0 |
+| now-existing, 2; a thing, 3; all, by a universal set's name, 6; set, a given word | one concept, the universe, said as a positive | the hyphenated names carrying it: a named-universe, 13; my-universe, 26; me-universe, 31 | after 6 and before 13; Exhibit THIRTY's sentence 2, *The universe is the set of now-existing things.*, said in the line with all | 13, 26 and 31 thread back through it to 2, 3 and 6: closed | none: a living 0 |
 
 Of Exhibit THIRTY, resting on the lines to this one, marked: 3, *No universe other-than the universe is possibly now-existing.*, its no a two-way fixing to one side, 3 · 11
 
@@ -123,7 +123,7 @@ Of Exhibit THIRTY, resting on the lines to this one, marked: 9, *No universe oth
 
 | Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
 | --- | --- | --- | --- | --- | --- |
-| now-existing, 2; things, 3; a universal set, 6; the universe, 7, carried by its name; name, a given word | one concept, a named-universe, said as a positive | the hyphenated names carrying it: my-universe, 26; me-universe, 31 | after 7 and before 26; a name no sentence of Exhibit THIRTY names | 26 and 31 thread back through it to 2, 3, 6 and 7: closed | none: a living 0 |
+| now-existing, 2; a thing, 3; a universal set, 6; the universe, 7, carried by its name; name, a given word | one concept, a named-universe, said as a positive | the hyphenated names carrying it: my-universe, 26; me-universe, 31 | after 7 and before 26; a name no sentence of Exhibit THIRTY names | 26 and 31 thread back through it to 2, 3, 6 and 7: closed | none: a living 0 |
 
 14 · **Observing** is distinguishing now-and-other-than-prior-existing from now-and-prior-existing.  *marked: distinguishing*
 
@@ -155,7 +155,7 @@ Of Exhibit THIRTY, resting on the lines to this one, marked: 8, *By observing, t
 
 | Back, prior | Inward, now | Forward, next | Outward, same and across | Wrapping back, along | The ten |
 | --- | --- | --- | --- | --- | --- |
-| now-existing, 2; things, 3; same-named, 5; a prior-sequence, 17; name, a given word; **hole:** own, a word no line names | one concept, a self, said as a positive | an other, 19; the other-than-the-other, 20; a universal-set-of-selves, 21; an observing-self, 22; a possibling-self, 23; a discovering-self, 24; my, 25; a bi-coupling, 28; a bi-coupling, a self, 29 | after 17 and before 19; Exhibit THIRTY's sentence 12, *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.*, one concept said two ways | open at own | a hole, its one of the ten open |
+| now-existing, 2; a thing, 3; same-named, 5; a prior-sequence, 17; name, a given word; **hole:** own, a word no line names | one concept, a self, said as a positive | an other, 19; the other-than-the-other, 20; a universal-set-of-selves, 21; an observing-self, 22; a possibling-self, 23; a discovering-self, 24; my, 25; a bi-coupling, 28; a bi-coupling, a self, 29 | after 17 and before 19; Exhibit THIRTY's sentence 12, *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.*, one concept said two ways | open at own | a hole, its one of the ten open |
 
 Of Exhibit THIRTY, resting on the lines to this one, marked: 15, *Co-intelligencing is selves of a universal set observing, possibling and discovering.*; 46, *A self sharing its changing is improving.*; 59, *A self's changing divides its surface.*
 
