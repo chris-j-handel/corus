@@ -43,6 +43,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, the two directions cohering into the numbering, and the opening going on.** A number is one sequence from 1 of doubling, with one more or not at a step, executed to 100,000; round a prime the two directions close with the prime's own steps and by one short of it, the draft's own sentence. A method living or non-living is said by scale, with Natural Naming's sentences and the next version's own title of Natural Intelligence's section. The pause of 23 November is ended: gathering for Exhibit THIRTY and for the opening goes on, three notes laid in the gathering files of the next version.
 - **On 24 November, the opening's lines redone, at the document's revision 587.** A thing's line is said again with *the set of no things* and is ahead of now-existing, and 2 is said again with a thing. Rigorized: 2's thing has its prior line and nothing is away, resolved; no is in, a word with no line; a thing's line says its own name; other-than is a given word at one place of the document and not at its other; and a thing's line has no number of its own. The living list is said again, and a card of it is laid in the document.
 - **On 24 November, the numbering and the living list done in the document.** This session numbers, rigorizes and resolves with no harm, and brings a partner an is-or-is-not alone that it is unable to resolve, explained. A thing's line is numbered 2 and now-existing 3; the living list's table is said again in place; other-than is given until its line, the document's two sayings one.
+- **On 24 November, the circle of my and own resolved in the document.** 25 is *My is a named prior-sequence.*, said with 17 and name alone. Own is a given word until its line, as other-than is. The living list is said again at three rows. One is-or-is-not is asked, the hardest: own's line in after 25, with nine lines a number more, or own with no line.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -76,7 +77,7 @@ As the working document says them at its revision 587, on 24 November. The line 
 | An **observing-self** is a self distinguishing an other's prior-sequence from its own prior-sequence. | 22 |
 | A **possibling-self** is a self distinguishing the other-than-the-other's prior-sequence from its own prior-sequence. | 23 |
 | A **discovering-self** is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences. | 24 |
-| **My** is an own-named prior-sequence. | 25 |
+| **My** is a named prior-sequence. | 25 |
 | **Me** is an own-named my-universe. | 26 |
 | **Me-now** is a same-existing me. | 27 |
 | A **bi-coupling** is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences. | 28 |
@@ -212,12 +213,12 @@ A partner's saying of 23 November: *keep this as a living list. words of the lin
 | ending | 8, 10, 17 | with no line |
 | beginning | 8, 10, 12, 17 | with no line |
 | distinguishing | 14 to 16, 22 to 24, 28 | with no line |
-| own | 18, 22 and 23, 25 and 26, 28 | with no line |
+| own | 18, 22 and 23, 26, 28 | with no line |
 | two | 28 | with no line |
 | parity | 30 | with no line |
-| a | 2 and 3, 6, 13, 17 to 19, 21 to 24, 27 to 30, 34 | a plain joining word |
+| a | 2 and 3, 6, 13, 17 to 19, 21 to 25, 27 to 30, 34 | a plain joining word |
 | all | 6 and 7, 20 and 21, 31 | a plain joining word |
-| an | 2, 20, 22, 25 and 26 | a plain joining word |
+| an | 2, 20, 22, 26 | a plain joining word |
 | and | 12, 14 to 16, 21 | a plain joining word |
 | are | 4 and 5 | a plain joining word |
 | as | 8, 10, 12, 17 | a plain joining word |
@@ -738,6 +739,10 @@ All or none at all, binary, executed by `instruments/a_joined_name_parted_by_the
 - **The living list,** said again from the lines as they are, in the document's own table: existing at 3; set, other-than, no, an, of and the at 2.
 - **Other-than, resolved by cohering.** The document's two sayings are one: a word named by no prior line is given, and it leaves the given words once its line names it. Other-than is given until its line, 4, and the four given concepts are the words no line names at all.
 - **The card of 17:10 is withdrawn,** its five places in the table now.
+
+**The circle of my and own, resolved in the document on 24 November.** 25 is said again, *My is a named prior-sequence.*, with 17 and name alone: own is away from it, and my is said by no own. Of the five sayings of my, all with the chain whole, it is the one adding no word to 25 as it was but for own, and it is 17's own name. Own is at 18, 22, 23, 26 and 28, a given word until its line, as other-than is at 2 until 4, by the document's own rule and the lines as redone. The living list is said again in the document at own, a and an.
+
+**The hardest, asked:** own's line, *Own is the name of my-universe.*, after 25 with the lines from 26 on a number more, or own a given word with no line and its sentence floating.
 
 **Not done, with no one saying of them cohering alone:** no beside not; a thing's line saying its own name; and one form for 3, 9, 11 and 12. They are rigor's findings, in the table above, and nothing is asked of them.
 
