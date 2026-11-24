@@ -413,8 +413,10 @@ separate intelligence from the universe. this keeps happening llike the field ca
 as no one tells them what they are doing is incompetent. do this again
 
 The session:
-[its sentence gave a field a standing of its own, and is away. Said again by the living naming of
-Exhibit FOUR Natural Mathematics, a form's use placing it at one of three: Riemann's hypothesis with its
-natural use, the parity lead stepped; its unnatural use, measuring, a smooth curve; and its supernatural
-use, formal, its proof. Gone through beside the living sentences ahead of its offering, all cohering]
+[its sentence gave a field a standing of its own, and is away. Said again, a relation a sentence:
+what is proved in resolving, a check of a number a step reached once, stepping to its horizon and a
+turn with all numbers; what is not possibly existing in resolving, a smooth curve as one whole thing
+and a proof of a whole; and Riemann's hypothesis by these, of a smooth curve and of whole numbers.
+Its living home, Exhibit FOUR Natural Mathematics' three places. Gone through beside the living
+sentences ahead of its offering, all cohering, and nothing asked]
 ```
