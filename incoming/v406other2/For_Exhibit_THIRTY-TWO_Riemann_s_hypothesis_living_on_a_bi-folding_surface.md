@@ -4,7 +4,35 @@ Incoming · v406other2 · 24 November 2026 · for Exhibit THIRTY-TWO, Riemann's 
 
 **Riemann's hypothesis is said here whole with whole numbers, on a surface of numbers.** A sentence in bold is the explaining. Under it is its executing, or the living sentence beside it. A sentence is marked: shown with all numbers, stepped to its horizon, or a naming not executed.
 
-**Its one sentence: on a surface of numbers the −s and the +s are apart by its side, and a hair more.**
+**Its one sentence, all or none: on a surface, all spirals' crossings with their parities are its squares, one for one.**
+
+**By a partner's word of 24 November: a hair more is fuzzying, nature is all or none at all, and nature has no bounds.** A bound sets a size beside a size, a measuring. Natural Mathematics: *On the surface it is natural: parity, position and ratio, and no magnitude.* A sentence of this page with a hair or a short-of is a field's measuring, and is marked that way.
+
+---
+
+## All or none: a thing and its other
+
+**A part of a number has its other: the two multiplied are the number.** In 12, 1 is with 12, 2 with 6, and 3 with 4.
+
+**A number has a part its own other, or has none.** In 16, 4 is its own other. Stepped, 1 to 100,000: a number's parts are an odd number with a number multiplied by its own alone.
+
+**A number with a part its own other is a square, and that part is its side.**
+
+**A + has its other, a −.** A prime an inversion, a number's parts pair by one prime more, a + with a −. All pair, or one is over, and one is over at a square alone.
+
+**On a surface, all parts' parities are its squares, one for one.** None is over and none is short.
+
+**A zero has its other across the between.** Resolving the Hard Problem Registry: *a symmetry pairs its zeros about an axis of balance, seating none on it by itself*.
+
+**A zero on the line is its own other.**
+
+**Riemann's hypothesis, all or none: all zeros are their own other.**
+
+**A field's 1/2 is the side: the one place a thing and its other are the same.** A naming, not executed.
+
+**A hair comes with a part sized alone.** A surface's +s less its −s, with its folds', are its squares. Sized with no fold, the surface's own are set beside the side, and the side alone is passed: 2,254 beside 2,048. A field then loosens the side by a little with no size named.
+
+**The +s and the −s are other-than, and their between, a 0, is other-than-other-than.** It is a partner's saying.
 
 ---
 
@@ -104,9 +132,9 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 ## SIX · Riemann's hypothesis, living on the surface
 
-**Riemann's hypothesis of whole numbers has a surface's parity lead of its side, and a hair more.** The draft: *The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.*
+**A field's measuring of it has a surface's parity lead under its side, loosened by a hair.** A measuring, and no sentence of the natural universe. The draft: *The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.*
 
-**The hair, said by k:** with k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on.
+**The hair, said by k, a field's measuring:** with k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on.
 
 **Stepped, the lead multiplied by its own is short of twice its number.** All numbers of 2 to 4,194,304.
 
@@ -176,7 +204,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **Riemann's hypothesis of a smooth curve is the curve's distance from the steps.** It is the draft's, of 1859.
 
-**Its saying of whole numbers is the staircase's own: the lead of its side, and a hair more.** Natural Mathematics: *On the surface it is natural: parity, position and ratio, and no magnitude.*
+**Its saying of whole numbers is the staircase's own: all spirals' crossings with their parities are a surface's squares.** Natural Mathematics: *On the surface it is natural: parity, position and ratio, and no magnitude.*
 
 **Riemann's zeros are the curve's corrections.** It is the draft's.
 
@@ -196,7 +224,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **A naming, not executed:** stepping as the 1 to 17 repeating; a prime born as a next universe; a crossing as a fracturing; a smooth curve as the geodesics said as one; smoothing as a made method; a zero as a coupling about a between.
 
-**Not shown here:** the lead of its side and a hair more with all numbers. No turn shows it.
+**A field's measuring, stepped alone:** the lead beside its side.
 
 ## Gone through beside the living sentences
 
@@ -210,7 +238,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **Two sayings of the 1 to 17 are both living, and cohere.** Natural Numbers has seventeen primes, 2 to 59, at seventeen names: *A going from nought to sixty has seventeen primes and sixteen betweens, one and then the other*. Natural Naming has the 1 to 17 bi-folding: *an unrelationing of 1 to 17, 1 to 65 and 1 to 257*. This page goes by the second, and 0 to 60 has its seventeen primes, executed.
 
-**Executed:** `python3 -I incoming/v406other2/instruments/riemann_s_hypothesis_living_on_a_bi_folding_surface_executed.py`, 36 lines is, none is-not, 3 sized, with whole numbers alone.
+**Executed:** `python3 -I incoming/v406other2/instruments/riemann_s_hypothesis_living_on_a_bi_folding_surface_executed.py`, 37 lines is, none is-not, 3 sized, with whole numbers alone.
 
 ## The beginning of the interest, for the explaining's opening
 
@@ -224,7 +252,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **A smooth curve was fitted to the primes' numbering.** The question came to be the numbering's straying from the curve.
 
-**Riemann, in 1859, guessed the straying as small as it can be: the square side of the number, and a hair more.** That guess is the hypothesis.
+**Riemann, in 1859, guessed all the curve's zeros on one line.** That guess is the hypothesis, all or none. With it a field measures the straying under the square side, loosened by a hair.
 
 **The interest then went to the curve and its zeros.** What was wanted is in the steps.
 
@@ -241,14 +269,14 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **Is, in the natural universe:**
 
-- **Its aim is this explaining's sentence: the numbering straying by the side, and a hair more.**
+- **Its statement is all or none: all zeros with a real part of 1/2.**
 - **Its side is this side: a number and its other, x over it, are the same at the side.**
-- **Chebyshev's argument is the seams of spirals on a surface.** A prime's part in the middle number of 1 to 2n is the powers of it with an odd number of seams on 1 to 2n, a parity. The middle number is short of 4 to the n. The primes past n and to 2n are in it once. It is the draft's *between a side and its double is a new crossing spiral*.
+- **Chebyshev's argument is the seams of spirals on a surface.** A prime's part in the middle number of 1 to 2n is the powers of it with an odd number of seams on 1 to 2n, a parity. The primes past n and to 2n are in it once. Its short of 4 to the n is a bound, a measuring. It is the draft's *between a side and its double is a new crossing spiral*.
 - **Chebyshev's own better number is a turn of 30.** A number less its seams of 2, of 3 and of 5, and its seams of 30 more, is 1 or 0 alone, and comes again with 30. It is 1 at all eight places of 30 no spiral of 2, 3 or 5 crosses.
 - **A character is a parity: +, − or 0.**
 - **Its checking is a cell's stepping, a line a check.**
 
-**Of smooth things, and no thing of the natural universe:** its better whole number, made of theta series; its weights by a logarithm; its curve and its zeros; its inequality with all numbers past a number, by no turn.
+**Of smooth things and of measuring, and no thing of the natural universe:** its outline's steps, bounds loosened by a hair; its better whole number, made of theta series; its weights by a logarithm; its curve and its zeros; its inequality with all numbers past a number, by no turn.
 
 **Not opened:** the inequality's own proving. That explaining has it from the Lean files alone.
 

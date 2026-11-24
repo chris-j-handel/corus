@@ -468,4 +468,17 @@ explaining's sentence, its side the same side, its method Chebyshev's, a whole n
 the seams of spirals on a surface, executed here with whole numbers. Its better whole number, its
 curve and its with all numbers by no turn are of smooth things. Its main inequality's proving is not
 opened]
+
+A partner, on 24 November at 13:39:
+Fuzzying is this hair more concept. Nature is all or none at all. What is this
+
+A partner, on 24 November at 13:40:
+There are no bounds . This is other than
+
+The session:
+[the hair is a field's loosened edge of a bound, a measuring, and is away. Said all or none: a part
+and its other, a square's side the part its own other; a + and its other, a −; all parts' parities on
+a surface its squares, one for one; a zero and its other across the between, and the hypothesis every
+zero its own other. A hair comes with a part sized alone. The offered proving's statement is all or
+none, and its outline's steps are bounds loosened by a hair, a measuring]
 ```

@@ -65,16 +65,21 @@ surfaces = [4 ** k for k in range(1, 12)]
 M = 100_000
 parts = [0] * (M + 1)
 partsq = [0] * (M + 1)
+many = [0] * (M + 1)
 for d in range(1, M + 1):
     s, t = par[d], nsq[d]
     for m in range(d, M + 1, d):
         parts[m] += s
+        many[m] += 1
         if t:
             partsq[m] += t
 say(f"a number's parts' parities come to 1 with a number multiplied by its own and to 0 with all other numbers, "
     f"1 to {num(M)}", all(parts[n] == (1 if isqrt(n) ** 2 == n else 0) for n in range(1, M + 1)))
 say(f"a number's parts with no square part have parities coming to 0, all but 1's own, 1 to {num(M)}",
     all(partsq[n] == (1 if n == 1 else 0) for n in range(1, M + 1)))
+say(f"a number's parts pair, a part with its other, the two multiplied the number, and a number multiplied by its "
+    f"own alone has a part its own other, its side: its parts an odd number, 1 to {num(M)}",
+    all((many[n] % 2 == 1) == (isqrt(n) ** 2 == n) for n in range(1, M + 1)))
 ok = True
 for p in (2, 3, 5, 7, 11, 13):
     q, k = 1, 0
