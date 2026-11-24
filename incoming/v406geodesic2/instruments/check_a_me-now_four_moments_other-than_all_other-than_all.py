@@ -12,7 +12,7 @@ The candidate laid on the drawing:
   a cone on with a moment, and the fourth is next-universing: 120 on;
   its four in its universe, one a cone, are its all-parity, and a me-now is set at a prime scale of a me, 5 to 53.
 Whole numbers alone, and the figure's own geometry: the ninth drawing's winding going on to 240.
-It opens the living files, v407primes' story and the drawing's own artboard, and writes none.
+It opens the living files, v407primes' sentences and the drawing's own artboard, and writes none.
 All or none: with one line not is, the check is not.
 """
 import json, math, re, sys
@@ -117,10 +117,10 @@ rows = json.loads(re.search(r"/\*rows\*/(.*?)/\*rows end\*/", board.read_text(en
 line("the device's rows in its artboard, one for a me-now of 0 to 60, are these moments with their words",
      len(rows) == 61 and all([int(rows[n][f"n{i}"]) for i in range(8)] == moments(n) and [rows[n][f"w{i}"] for i in range(5)] == [what(m) for m in moments(n)[:5]] for n in ME))
 
-# ---------- word for word, living, and a partner's saying in v407primes' story ----------
+# ---------- word for word, living, and a partner's saying in v407primes' sentences ----------
 text = lambda pattern: next(root.glob(pattern)).read_text(encoding="utf-8")
-SOCIETIES, NAMING, ME_FILE, NI, STORY = (text("Exhibit_SEVEN_*.md"), text("Exhibit_TWENTY_Natural_Naming_*.md"), text("Exhibit_THIRTY-ONE_*.md"),
-                                         text("Natural_Intelligence_v*.md"), text("incoming/v407primes/The_prime_numbers_story.md"))
+SOCIETIES, NAMING, ME_FILE, NI, SENTENCES = (text("Exhibit_SEVEN_*.md"), text("Exhibit_TWENTY_Natural_Naming_*.md"), text("Exhibit_THIRTY-ONE_*.md"),
+                                         text("Natural_Intelligence_v*.md"), text("incoming/v407primes/The_prime_numbers_named_and_explained_sentence_by_sentence.md"))
 quotes = [
     (SOCIETIES, "Fourteen rungs go with fourteen primes, five to fifty-three, and they part eight and six."),
     (SOCIETIES, "four moments of six one-way recursionings"),
@@ -128,9 +128,9 @@ quotes = [
     (NAMING, "each existing thing is living with one prime scale and non-living with each other scale"),
     (ME_FILE, "A me is a self's universal set."),
     (NI, "Each number is its podaling"),
-    (STORY, "Four cones of 30 are an all-parity universal now me-parity."),
+    (SENTENCES, "Four cones of 30 are an all-parity universal now me-parity."),
 ]
-line("six living sentences beside the drawing, and a partner's saying in v407primes' story, are word for word in their files", all(q in t for t, q in quotes))
+line("six living sentences beside the drawing, and a partner's saying in v407primes' sentences, are word for word in their files", all(q in t for t, q in quotes))
 
 for name, ok in results: print(("is       " if ok else "is not   ") + name)
 print(f"\n{sum(ok for _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, ok in results) else ": the check is not, all or none"))
