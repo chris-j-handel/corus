@@ -15,13 +15,19 @@ a trial copy outside the set, for the instruments of an exhibit's form to execut
 With --part and a part's name, or "the whole", it says the open rows of the one table at that part, a row with its
 place, its concern, the words offered for it, the four shown of them, and its source: all a part's writer goes
 through, in one place.
+
+    python3 -I incoming/v406me/instruments/the_next_draft_of_exhibit_thirty-two_by_its_parts.py ROOT --beside TWO
+
+With --beside and a part's name it lays a next draft's part beside the opening draft's own lines of that part:
+the lines of the two that are the same, the opening draft's lines said again, and the next draft's lines of them.
 """
 import csv, glob, os, re, sys
 
 PARTS = ["OPENING", "ONE", "TWO", "THREE", "FOUR", "FIVE"]
 root = sys.argv[1] if len(sys.argv) > 1 else "."
 one = sys.argv[3] if len(sys.argv) > 3 and sys.argv[2] == "--part" else None
-out = sys.argv[2] if len(sys.argv) > 2 and not one else None
+beside = sys.argv[3] if len(sys.argv) > 3 and sys.argv[2] == "--beside" else None
+out = sys.argv[2] if len(sys.argv) > 2 and not one and not beside else None
 draft = os.path.join(root, "incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md")
 table = os.path.join(root, "incoming/v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv")
 
@@ -58,6 +64,33 @@ for r in rows[1:]:
         by_part[p].append(r)
 
 words = lambda lines: sum(len(l.split()) for l in lines)
+if beside:
+    import difflib
+    if beside not in nexts:
+        sys.exit("a next draft's part laid is one of: " + ", ".join(nexts))
+    f, new = nexts[beside]
+    old = [l for l in L[starts[beside]:ends[beside]]]
+    while old and not old[-1].strip():
+        old.pop()
+    new = list(new)
+    while new and not new[-1].strip():
+        new.pop()
+    same = was = now = 0
+    for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, old, new, autojunk=False).get_opcodes():
+        if tag == "equal":
+            same += i2 - i1
+            continue
+        was += sum(1 for l in old[i1:i2] if l.strip())
+        now += sum(1 for l in new[j1:j2] if l.strip())
+        for l in old[i1:i2]:
+            if l.strip():
+                print("  the opening draft's: " + l)
+        for l in new[j1:j2]:
+            if l.strip():
+                print("  a next draft's:      " + l)
+        print()
+    print(f"{beside}, {os.path.relpath(f, root)}: {same} lines the same as the opening draft's, {was} of its lines said again as {now}.")
+    sys.exit(0)
 if one:
     if one not in by_part:
         sys.exit("a part is one of: " + ", ".join(by_part))
