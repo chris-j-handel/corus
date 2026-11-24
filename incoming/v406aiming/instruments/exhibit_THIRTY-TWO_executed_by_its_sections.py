@@ -1,4 +1,11 @@
-"""Execute the number claims of Exhibit THIRTY-TWO's first draft, whole numbers alone."""
+"""Exhibit THIRTY-TWO Natural Prime Numbering, its draft executed by its own sections.
+
+Whole numbers alone, to 20,000,000; it writes nothing and reaches no network.
+A line: the draft's section, is or IS-NOT, the saying, and a note. Grouped by the
+draft's sections in their order, for its kit, the one table's concern 69.
+
+Usage: python3 -I exhibit_THIRTY-TWO_executed_by_its_sections.py
+"""
 from math import gcd, isqrt
 from fractions import Fraction
 N = 20_000_000
@@ -127,9 +134,9 @@ for p in P:
     if p > 4_194_304: break
     for m in range(p, 4_194_305, p): mu[m] = -mu[m]
     for m in range(p * p, 4_194_305, p * p): mu[m] = 0
-M = 0; mx = []; k = 1; best = 0
+M = 0; mx = []; k = 1; best = 0; sum_m = [0] * 4_194_305
 for n in range(1, 4_194_305):
-    M += mu[n]; best = max(best, abs(M))
+    M += mu[n]; best = max(best, abs(M)); sum_m[n] = M
     if n == 4 ** k: mx.append(best); k += 1
 say('5.2', "the lead's most on surfaces 4 to 4^11, as the lead of the numbers with no square part (Mertens)", mx == [1, 3, 7, 16, 28, 66, 150, 309, 567, 1253, 2254], str(mx) + ': it is the other lead')
 spf = list(range(4_194_305))
@@ -139,13 +146,64 @@ for i in range(2, isqrt(4_194_304) + 1):
             if spf[j] == j: spf[j] = i
 lam = [1] * 4_194_305
 for n in range(2, 4_194_305): lam[n] = -lam[n // spf[n]]
-L = 0; best = 0; lx = []; k = 1
+L = 0; best = 0; lx = []; k = 1; sum_l = [0] * 4_194_305
 for n in range(1, 4_194_305):
-    L += lam[n]; best = max(best, abs(L))
+    L += lam[n]; best = max(best, abs(L)); sum_l[n] = L
     if n == 4 ** k: lx.append(best); k += 1
 say('5.2', "the lead's most on surfaces 4 to 4^11, as the parity lead of 2.2 (Liouville)", lx == [1, 3, 7, 16, 28, 66, 150, 309, 567, 1253, 2254], str(lx))
 say('5.2', 'its square short of twice the surface', all(m * m < 2 * 4 ** (i + 1) for i, m in enumerate(lx)))
 say('5.2', 'it passes the side alone from the surface of 4,096 on', [4 ** (i + 1) for i, m in enumerate(lx) if m > 2 ** (i + 1)][0] == 4096)
+
+# 4.3 and 4.4, the parity lead's returns to 0, and the other lead's: the one table's concern 39
+z_l = [n for n in range(1, 4_194_305) if sum_l[n] == 0]
+say('4.3', 'the parity lead returns to 0 at nine numbers, the last 586', z_l == [2, 4, 6, 10, 16, 26, 40, 96, 586], str(z_l))
+say('4.3', 'it returns on no surface from 4,096 to 4,194,304', not [n for n in z_l if n > 586])
+ring = [sum(1 for n in range(4 ** (k - 1) + 1, 4 ** k + 1) if sum_m[n] == 0) for k in range(1, 12)]
+say('4.3', 'the lead of the numbers with no square part returns to 0 between all surfaces from 16 to 4,194,304', all(ring[2:]), f'returns between the surfaces 1 to 4,194,304: {ring}; none between 4 and 16')
+# 5.1, the widest stretch short of its side: concern 42
+say('5.1', 'the widest stretch short of its side from 16 on', all(g < 2 ** (k + 1) for k, g in enumerate(gaps) if 4 ** (k + 1) >= 16), 'on the surface of 16 it is 4, its side; from 64 on it is short')
+say('5.1', 'the widest stretch short of its side from 64 on', all(g < 2 ** (k + 1) for k, g in enumerate(gaps) if 4 ** (k + 1) >= 64))
+# 2.4, the walk on the plane's primes
+def gp(a, b):
+    if a == 0 or b == 0:
+        m = abs(a or b); return m < len(s) and s[m] == 1 and m % 4 == 3
+    return s[a * a + b * b] == 1
+walks = []
+for kk in (2, 4, 8):
+    st = [(dx, dy) for dx in range(-3, 4) for dy in range(-3, 4) if 0 < dx * dx + dy * dy <= kk]
+    seen = {(1, 1)}; todo = [(1, 1)]; far = 2
+    while todo:
+        a, b = todo.pop()
+        for dx, dy in st:
+            q = (a + dx, b + dy)
+            if q not in seen and gp(*q):
+                seen.add(q); todo.append(q); far = max(far, q[0] ** 2 + q[1] ** 2)
+    walks.append(far)
+say('2.4', 'walks from 1 + i with steps of length squared 2, 4, 8 bounded at 137, 2,053, 8,737', walks == [137, 2053, 8737], str(walks))
+# 5.3, the crossed numbers passing both of a prime's closings, by the draft's own closing of phi
+def closes(n):
+    e = n - 1 if n % 5 in (1, 4) else 2 * (n + 1)
+    return pow(2, n - 1, n) == 1 and fib(e, n) == 0 and fib(e + 1, n) == 1
+def pf(n):
+    f = set(); d = 3
+    while d * d <= n:
+        while n % d == 0: f.add(d); n //= d
+        d += 2
+    if n > 1: f.add(n)
+    return f
+def order2(p):
+    k = 1; x = 2 % p
+    while x != 1: x = x * 2 % p; k += 1
+    return k
+bothall = [n for n in range(3, N + 1, 2) if not s[n] and n % 5 and closes(n)]
+say('5.3', 'crossed numbers passing both to 20,000,000: 46, the lowest 219,781', len(bothall) == 46 and bothall[0] == 219781, f'{len(bothall)}, the lowest {bothall[0]}')
+one = [n for n in bothall if len({order2(p) for p in pf(n)}) == 1]
+say('5.3', "the draft's three are the ones with doubling's spiral of one length round all their parts", one == [2757241, 6368689, 9863461], str(one))
+say('5.3', 'none of them ends in 3 or 7', not [n for n in bothall if n % 10 in (3, 7)])
+
 say('5.3', 'the three passing both at 1, 49 or 61 round 120', all(both(n) for n in (2757241, 6368689, 9863461)) and {n % 120 for n in (2757241, 6368689, 9863461)} <= {1, 49, 61}, str([n % 120 for n in (2757241, 6368689, 9863461)]))
-for o_ in out: print(' | '.join(o_))
+order = ['1.3', '1.4', '1.5', '1.6', '2.2', '2.3', '2.4', '2.5', '2.6', '3.2', '3.3', '3.5', '4.1', '4.3', '4.4', '5.1', '5.2', '5.3']
+for sec in order:
+    for o_ in out:
+        if o_[0] == sec: print(' | '.join(o_))
 print('IS-NOT:', sum(1 for o_ in out if o_[1] != 'is'), 'of', len(out))
