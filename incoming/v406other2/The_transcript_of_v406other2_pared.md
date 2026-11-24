@@ -614,4 +614,15 @@ the prime parts of the number below it, stepped 3 to 2,000. The explorer above t
 alone. A prime one more than a turn is tested by its turn's primes alone. A prime's test is a tree of
 primes below it, to 2. A field's names for it given. Its cost: the finding of the prime parts beside a
 number]
+
+A partner, on 24 November at 15:18:
+this can crab walk itself using nand code from 1 to anywhere in the universe of all numbers by walking
+the primes
+
+The session:
+[is, executed with one cell alone, nand of two bits, wired as adding, multiplying, a number round a
+number and comparing: from 2 the walk finds the primes to 61, a prime tested by the primes walked
+ahead of it; no number is passed over; nand is at its two bits 37,393,404 times. With all numbers the
+walk has no last. Its marks: it begins at 2; the explorer below alone walked; the number of
+multiplyings is numbered by the walk; its length to a number is the primes below it]
 ```
