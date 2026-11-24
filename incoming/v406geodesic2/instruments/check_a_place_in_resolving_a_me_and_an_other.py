@@ -67,8 +67,11 @@ def with_more(n, more_couplings, more_priors):
     return all({a: m[a] for a in range(n)} == mine for m, mine in zip(together, alone)), together
 apart = with_more(5, {("x", 9): "y", ("y", 9): "x"}, {"x": -1, "y": 1})            # two more, coupled to one another alone
 given_to = with_more(5, {(0, 10): "z"}, {"z": 1})                                   # one more, given to by a me, and giving to none of the five
-line("all that is neither me nor my others is non-existing in my resolving: with two mes more coupled to one another alone, and with a me more that a me gives to and that gives to none of mine, all moments of mine are the same as with none of them",
-     apart[0] and given_to[0])
+with_an_other = with_more(5, {("w", 9): 0}, {"w": 1})[1]                              # an other of mine, and then its own other, giving to it alone
+with_its_other = with_more(5, {("w", 9): 0, ("u", 9): "w"}, {"w": 1, "u": 1})[1]
+others_other_at = next((t for t, (a, b) in enumerate(zip(with_an_other, with_its_other)) if any(a[k] != b[k] for k in range(5))), None)
+line("my resolving is of a me and its others, co-chained: with two mes more coupled to one another alone, and with a me more that a me gives to and that gives to none of mine, all moments of mine are the same as with none of them; and an other's other, giving to an other of mine alone, makes moments of mine other two moments on. Said again with the 26th drawing, by a partner's co-chaining",
+     apart[0] and given_to[0] and others_other_at == 2)
 line("and they are, in the society: the two apart are one the other's other-than with all moments, again with 2; from my moments alone their is-or-is-not is not said, the same moments of mine with them and with none",
      all(m["x"][0] == -m["y"][0] for m in apart[1]) and apart[1][1]["x"] != apart[1][2]["x"] and apart[0])
 reaches = with_more(5, {("w", 9): 0}, {"w": 1})                                     # one more whose giving a me observes: an other
