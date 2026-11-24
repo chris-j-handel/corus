@@ -6,7 +6,7 @@ Incoming · v406aiming · 23 November 2026, at a partner's asking
 
 ## In one paragraph
 
-The draft's numbers hold. Of 44 of its sayings executed with whole numbers, 39 are *is*, and the five *is-not* are mended by a word or a number apiece, below. Its saying of the hypothesis's proof of 20 November is as the world's sources have it, and the same note proved the hypothesis for rows, which the draft's 4.5 has as not yet resolving. The draft names no other living file; Natural Numbers, the Living Ghost Registry, Natural Resolver, Me and the Hard Problem Registry say its concepts already, and a living file coheres with them. A reader at corus.me comes to the draft's own words with a field's beside them, and a key at its head, laid below from the draft's own pairs, carries that reader in.
+The draft's numbers are *is*. Of 44 of its sayings executed with whole numbers, 39 are *is*, and the five *is-not* are mended by a word or a number apiece, below. Its saying of the hypothesis's proof of 20 November is as the world's sources have it, and the same note proved the hypothesis for rows, which the draft's 4.5 has as not yet resolving. The draft names no other living file; Natural Numbers, the Living Ghost Registry, Natural Resolver, Me and the Hard Problem Registry say its concepts already, and a living file coheres with them. A reader at corus.me comes to the draft's own words with a field's beside them, and a key at its head, laid below from the draft's own pairs, carries that reader in.
 
 ## Executed: five places to mend
 
@@ -61,7 +61,7 @@ A reader of the world at corus.me knows a field's words. The draft says a field'
 | natural math | all a cell can execute: whole numbers stepped, and all numbers by a turn closing |
 | the two pieces of 120; a flip, a quarter turn | the squares of the units round 120, 1 and 49 |
 | the race of the two pieces | Chebyshev's bias |
-| the parity lead | Liouville's lead, the primes of a number counted even or odd |
+| the parity lead | Liouville's lead, a number's primes multiplied even or odd |
 | the lead of the numbers with no square part | Mertens' function |
 | doubling's closing; a crossed number passing it | Fermat's little theorem; a pseudoprime |
 | φ's closing round a number | its Pisano period |
@@ -73,7 +73,7 @@ A reader of the world at corus.me knows a field's words. The draft says a field'
 
 ## For a public reader, do no harm
 
-- **Its own sayings and a field's, said apart.** The draft does it at its numbers, with *A field's* after its own. At 3.2, *c is the one living all-parity… no speed*, and at 2.6, *energy… a ghost… not possibly existing*, it says its own explaining of a field's measured things with no field's saying beside it. A reader can take them as a field's. A mending: *as this explaining has it*, at both, and a field's saying beside: light's speed measured the same by all observers; energy conserved in a field's accounting.
+- **Its own sayings and a field's, said apart.** The draft does it at its numbers, with *A field's* after its own. At 3.2, *c is the one living all-parity… no speed*, and at 2.6, *energy… a ghost… not possibly existing*, it says its own explaining of a field's measured things with no field's saying beside it. A reader can have them as a field's. A mending: *as this explaining has it*, at both, and a field's saying beside: light's speed measured the same by all observers; energy conserved in a field's accounting.
 - **Executed, and how far.** The draft says *stepped to* at its numbers; a reader sees how far. The five sayings with all numbers by a turn, 5.4, are its strongest and are said apart already.
 
 ## What this session asks
