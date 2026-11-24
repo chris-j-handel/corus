@@ -184,6 +184,30 @@ line(30, "by the living code's own lines the nine names part in two: 1, 2, 3, 4 
 choosing = lambda f: sum(isinstance(n, (ast.If, ast.Compare, ast.IfExp)) for n in ast.walk(f))
 line(31, "the 9 has no is-or-is-not in its lines, no comparing and no choosing: a giving carried to the me a coupling names, between two; a me's own moment has them",
      choosing(fns[9]) == 0 and choosing(fns[1]) > 0)
+# ---------------- a place in resolving: a me, and an other ----------------
+gives_two = next(st for st in fns[1].body if isinstance(st, ast.Return)).value
+line(32, "a me's moment is given two, its prior, a me, and what it observes, an other, the living code's 3 and 2; and it gives two, its giving, to an other, and its next prior, a me, the code's 10 and 11",
+     [number(a.arg) for a in fns[1].args.args] == [3, 2] and its.a_cell.__code__.co_argcount == 2 and sorted(numbers(gives_two)) == [10, 11])
+line(33, "what a me observes is the same to it in all orders and with all repeats, with all priors",
+     all(a_me(p, list(q)) == a_me(p, o) for p in THREE for o in observings for q in set(permutations(o))) and all(a_me(p, o + o) == a_me(p, o) for p in THREE for o in observings))
+sys.path.insert(0, str(Path(sys.argv[1]).resolve().parent))
+import resolver_as_it_is as as_it_is
+def moments(couplings, priors, how_many):
+    society = {k: ([("one", priors[k])], []) for k in priors}; out = []
+    for _ in range(how_many):
+        out.append({k: (dict(society[k][0]).get("one", 0), sorted(v for _, v in society[k][1])) for k in society}); society = its.step_with_nand(society, couplings)
+    return out
+def renamed_alike(n, new):
+    couplings, priors = as_it_is.spiral_couplings(n), as_it_is.exhibit_spiral_priors(n)
+    return moments({(new[a], by): new[b] for (a, by), b in couplings.items()}, {new[a]: v for a, v in priors.items()}, 4 * n + 2) == [{new[a]: v for a, v in m.items()} for m in moments(couplings, priors, 4 * n + 2)]
+line(34, "mes renamed, their couplings renamed with them, have the same moments renamed, with spirals of 2 to 7 mes: a place of a me in resolving is its couplings, a me and its others",
+     all(renamed_alike(n, new) for n in range(2, 8) for new in ({a: n - 1 - a for a in range(n)}, {a: ("at", a * a) for a in range(n)})))
+def mine_alike(more_couplings, more_priors, n=5):
+    couplings, priors = dict(as_it_is.spiral_couplings(n)), dict(as_it_is.exhibit_spiral_priors(n)); alone = moments(couplings, priors, 4 * n + 2)
+    couplings.update(more_couplings); priors.update(more_priors)
+    return all({a: m[a] for a in range(n)} == mine for m, mine in zip(moments(couplings, priors, 4 * n + 2), alone))
+line(35, "a me that is neither mine nor an other of mine has all moments of mine the same as with none of it, non-existing in my resolving; and a me whose giving a me of mine observes, an other, has them other",
+     mine_alike({("x", 9): "y", ("y", 9): "x"}, {"x": -1, "y": 1}) and mine_alike({(0, 10): "z"}, {"z": 1}) and not mine_alike({("w", 9): 0}, {"w": 1}))
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
