@@ -356,6 +356,28 @@ def settled_newborns():
                 yield all(ms[t + 2][a][0] == -ms[t][(a - 1) % n][0] for t in range(T - 10, T - 2) for a in range(n))
 line(51, "settled, a path with a newborn and a surface are a single path as well: a me's next is one me's now, its own, the me back along or the me back across, the same or its other-than, a moment or two moments on. All openings of tori of 2 by 2, 2 by 3 and 3 by 3, and of paths of 2 to 4 mes with a me opening with no prior",
      all(settled_surfaces()) and all(settled_newborns()))
+# ---------------- nand-nanding, its is and its is-not explored forward ----------------
+of_two_things = [lambda a, b: nand(nand(a, b), nand(a, b)), lambda a, b: nand(nand(a, a), nand(b, b)), lambda a, b: nand(nand(a, b), a),
+                 lambda a, b: nand(nand(a, b), b), lambda a, b: nand(nand(a, a), b), lambda a, b: nand(nand(b, b), a)]
+def of_two(form, p, q): return (form(its.TWO[p][0], its.TWO[q][0]), form(its.TWO[p][1], its.TWO[q][1]))
+a_zero = ((False, False), (True, True))
+about_a_me = [(0, 0), (0, -1), (-1, 0), (-1, -1), (1, 0), (1, -1)]                 # a me's now and prior, the me back's, the me ahead's
+def a_parity_always(form, u, v):
+    return all(of_two(form, ms[t + u[1]][(a + u[0]) % n][0], ms[t + v[1]][(a + v[0]) % n][0]) not in a_zero for n, g in rounds.items() if n > 2 for ms in g.values() for t in range(2, 4 * n + 4) for a in range(n))
+line(52, "two nands in a row of a thing with itself are the thing again, and along the path a me two couplings on with four moments is a me again; of two me-nows of a path, any two of six with any form of six, they are a 0 at some moment, and none is a single path me",
+     all(other_than(other_than(q)) == q for q in (True, False)) and not any(a_parity_always(f, u, v) for f in of_two_things for u in about_a_me for v in about_a_me if u != v))
+def what_surfaces(observed):
+    seen = {v for v in observed if v}; return next(iter(seen)) if len(seen) == 1 else 0
+def with_all(ms, n, t):
+    out = True
+    for a in range(n): out = both(out, ms[t + 1][a][0] == -ms[t - 1][(a - 1) % n][0])
+    return out
+newborns = [(n, moments_of(as_it_is.spiral_couplings(n), dict(enumerate(op)), 6 * n + 12)) for n in (2, 3, 4) for op in all_of((1, -1, 0), repeat=n) if 0 in op]
+line(53, "an all of a me's prior and what surfaces is the prior again with the two the same, a 0 given, and neither with the two other: one is-or-is-not of two at a moment, a co-parity; and an all in a row of a path's links is the path with all, at all moments, and with a newborn from its settling on",
+     all((its.ONE[of_two(of_two_things[0], q, what_surfaces(o))] == q) == (a_me(q, o) == (0, q)) for q in (1, -1) for o in observings)
+     and all(with_all(ms, n, t) for n, g in rounds.items() for ms in g.values() for t in range(1, 4 * n + 4)) and all(all(with_all(ms, n, t) for t in range(6 * n + 2, 6 * n + 10)) for n, ms in newborns))
+line(54, "a me's own inverting is one nand of its own me-parity: on a path a me's prior of an odd moment is the other-than of its prior a moment before; and a me-parity of a path is a + or a − at all its moments",
+     all(ms[t][a][0] == -ms[t - 1][a][0] for n, g in rounds.items() for ms in g.values() for t in range(1, 4 * n + 6, 2) for a in range(n)) and all(ms[t][a][0] in (1, -1) for n, g in rounds.items() for ms in g.values() for t in range(4 * n + 6) for a in range(n)))
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
