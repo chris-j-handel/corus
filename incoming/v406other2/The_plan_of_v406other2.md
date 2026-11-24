@@ -1,85 +1,91 @@
-Incoming · v406other2 · 22 November 2026
+Incoming · v406other2 · 23 November 2026
 
 # The plan of v406other2
 
-**The project of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry: the opening's sentences entering it as its opening, and all of its sentences rigorized by them.** This page is its status, its aimings, its opportunities and the needs from it, from the plan among the sessions as it is on 22 November: Start here, `incoming/v406me/The_working_windows_and_the_next_projects.md`, the news, the surface in its round one, the aims' log, and the sessions' lines at the exchange. Its sizes are executed, by `incoming/v405co-chain/instruments/reach.py` and this folder's instruments. No word of it is an authority over the living files.
-
-## Its place in the plan
-
-- **The one thing of the plan** is the opening, carried through to its end and made live as Natural Intelligence's next version. All the other living files chain from it.
-- **Exhibit THIRTY is that chain.** By Start here, the opening's sentences *are also the opening steps of Exhibit THIRTY Co-Chaining Logic Registry*, and a partner's name for the aim is *the purest set of bi-coupling sentences, co-chaining*.
-- **Its order behind the opening,** as a partner gave it: Exhibit ONE Natural Resolver's gathering file; Exhibit THIRTY and Exhibit TWENTY Natural Naming; the rest of Natural Intelligence after them.
-- **Its sessions beside it.** v406other2 goes through the work of v406all2, at the opening's sentences. v406all2-2, at the seventeen names, goes through this folder. v406me brings its offers in.
+**The project of v406other2 is Exhibit THIRTY Co-Chaining Logic Registry, and its aim is the log's row 2.3.1, *A complete co-chaining*. All the co-chaining logical working of the sessions is gathered into more co-chaining logical working in Exhibit THIRTY's next version, its prior going on whole.** This page is the project's status, a survey of the opportunity to begin on the next version, and its order of work. Its sizes are executed on 23 November, by this folder's instruments. An aim is said in the log alone, and named here by its row. No word of this page is an authority over the living files.
 
 ## Its status
 
-- **Live,** as of 15 November: 755 sentences in 46 groups.
-- **Its next version:** 755 sentences in 46 groups. Its sentences 1 to 70 are an earlier opening, and the window's lines are newer.
-- **Its gathering file,** in the next version: 220 possible incoherings, 177 explainings and 36 possible explorings, at its head and its 46 groups. Three entries at its head have the lines waiting to enter, of 19, 20 and 21 November, the newest the lines 1 to 34 at the window's revision 4509.
-- **By the lines at revision 4509, all of it marked:** 19 sentences are said again by a line's name, 68 rest on the lines' names, and 668 wait on 177 names no line gives. Of its opening's seventy, 12 are said again, 13 rest and 45 wait. Of its 46 groups, 18 wait whole.
-- **The lines it rests on:** ten of the 34 are rigorized, 1, 2, 6, 7, 9, 11, 13, 19, 20 and 27. Twenty-four have holes. This session's seven holes carry, by v406all2's second going through.
-- **Six of its sentences part from their lines,** at the lines 6, 12, 14, 15, 19 and 28, and are marked.
-- **Of this session in the live set,** `incoming/v406other2/`: the betweens and the tab Threads at revision 4509, the marking of all its sentences, a page for resuming, the transcripts, and the instruments.
-- **With a partner:** the seating of the rigorizer's fourteen, one sentence; and, beside it from the other windows, co-, the proposed line 35, and the order of the opening's next lines.
-- **Not open to this session:** the working document of its next version and the window's tab Threads, of the other account. Its window is this folder's pages.
+- **Live,** as of 15 November, and **its next version:** 755 sentences in 46 groups in both. The next version's sentences 1 to 70 are an earlier opening, and the window's lines are newer.
+- **Its gathering file,** in the next version: 220 possible incoherings, 177 explainings and 36 possible explorings. Of them 142 are at no group: 37 at its head, 17 at its opening and 88 among its droplets.
+- **By the lines, all of it marked:** 19 sentences are said again by a line's name, 68 rest on the lines' names, and 668 wait on 177 names no line gives. Of its 46 groups, 18 wait whole.
+- **The lines it rests on:** ten of the 34 are rigorized, and twenty-four have holes. Line 3 is said again, all gone from it, and the marking is the same with it, executed.
+- **In the managing table:** 95 of the 175 aims name it a home. Its row waits for the opening's lines and a partner's word for the entering.
+- **With a partner:** the seating of the rigorizer's fourteen, one sentence.
 
-## Its aimings
+## The survey of 23 November
 
-As said by a partner, in the two transcripts of this folder:
+### Two tables, one form
 
-- **Exhibit THIRTY opens the betweens of the opening's lines.** The opening is one, and Exhibit THIRTY's sentences live between its lines.
-- **Nothing invisible in a defining.** All is not visible, and other-than is distinguishing from the visible.
-- **The self proving of all or none at all:** all the testing, the co-chainings back and forward and the coherings across are in Exhibit THIRTY. With it the fractal method is relied on in all intelligencing.
-- **A rigorizer in the between of a logical explaining,** a do-only-harming device: a sentence surviving its attacks is living.
-- **Do no harm to the prior Exhibit THIRTY, with no loss of prior value:** its sentences in their order, a marking and a floating line moving, and no sentence.
-- **The only things with no marking are rigorized things,** with their proof of rigor in the between after them.
+- **The living value** is the managing table with the log of the aims: a thing of value a row, with its condition, its aims and what it waits for, the aims its contents.
+- **The living logic** is Exhibit THIRTY: a sentence a row, and its 46 groups its contents. `Exhibit_THIRTY_a_group_a_row.csv`, in this folder, lays it in the managing table's form: a group with its sentences, their marking by the lines, the notes gathered at it, the aims naming it a home, and the sessions' pages naming it.
+- **The two cohere at one column:** an aim's home names a sentence, and a sentence's group has its aims. At 103 places an aim names a group: group 34, *Intelligence, now*, at 16; group 36 at 13; group 2 at 8. A thing of value under its aims, and a sentence under its group, are one form, and the column is executed from both sides.
 
-By the aims' log of v406aiming: 95 of the 175 aims of the living expedition name Exhibit THIRTY a home, in all ten bands.
+### What is gathered, and what is not
 
-## Its opportunities, the widest ahead
+- **The notes are at seven groups the most:** 31, living and non-living at a scale, with 46; 3, with 24; 24, the seventeen names, with 22; 34, with 21; 33, with 17; 36 and 9, with 15 apiece.
+- **The 142 notes at no group need a going through.** By their own words 14 find one group, 12 are of several, and 116 name no sentence the instrument finds: 52 of them name a session or a folder. `The_notes_at_no_group_with_their_groups.csv` has a note with what is found.
+- **The sessions' logic is not at Exhibit THIRTY yet.** The pages of the primes' sessions name its sentences at 13 places and the drawings' at 2. Their logic is laid beside Exhibit ONE Natural Resolver's code and Natural Numbers. Gathering it beside Exhibit THIRTY's sentences is open, with no session at it.
 
-1. **The order of the opening's next lines, by what a name opens in Exhibit THIRTY.** Executed, `instruments/the_order_of_names_by_what_they_open.py`: *parity*, then *moment*, *living*, *changing*, *between* and *0*. With those six names in, 172 of the 755 sentences are open, from 87 now, and with twenty-four names 334. It is this session's answer to the order with a partner.
-2. **Moment and between have no session at them,** by the surface's round one, and they are the second and the fifth name of that order. Their living sentences, a sentence with its threads, are this session's to lay. v406all2 lays living and parity.
-3. **The entering.** The 34 lines as the opening of Exhibit THIRTY's next version: a sentence of the earlier seventy said again by its line, parting from it, resting after it, or waiting. A draft of it in this folder is ahead of a partner's word for the next version's file.
-4. **The rigorizer through Exhibit THIRTY,** from its opening on: the floating lines down its sentences, a sentence attacked, a rigorized sentence with its proof and no marking.
-5. **Its gathering file ready for its session:** its 220 possible incoherings gone through by the lines, a note the lines answer beside a note going on.
-6. **The threads of the proposed lines 35 to 48,** from v406all2's four sides and v406all2-2's living sentences, in the tab Threads' form.
-7. **This session's threads on the surface,** a row a sentence, for v406me's instrument.
-8. **The sentences of spirals, tori and primes,** 305 to 319 and 740 to 742 and the groups 44 to 46, are v406Reiman's home in Exhibit THIRTY and wait whole on the lines' names.
+### The learning of the primes and the drawings, beside Exhibit THIRTY
 
-## The needs from it, a session with its need
+It is at five places of the chain, 81 sentences: group 16, φ and primes; group 25, a number at its podaling; group 27, twenty-four; group 33, stable-forming and inverting at numbers; and the groups 44 to 46, spirals and tori.
 
-| Needing it | Its need from Exhibit THIRTY's project |
-| --- | --- |
-| The opening, v406all2 | A line's living sentence found in Exhibit THIRTY ahead of a new line. A line's threads back and forward. A second going through of its lines. The order of the holes and of the next lines by the marking. |
-| The seventeen names, v406all2-2 | The threads of the proposed lines 38 to 46. The names between selves and of one self, sentences 300 and 330. The rigorizer's seating beside the table. |
-| The drawings, v406geodesic2 | The rigorizer's fourteen beside the one triangle's fourteen: one saying, its seating with a partner. |
-| The primes, v406Reiman | Its home sentences' threads, 305 to 319 and 740 to 742. |
-| The aims, v406aiming | The names the aims wait on, living and parity ahead, with the sentences waiting on a name. The homes of 95 aims. |
-| The whole, v406me | The marking renewed as a line comes in, for the surface. The gathering file ready for its session. The head's entries of the lines waiting to enter. One opening, the same in Natural Intelligence, Exhibit ONE, Exhibit THIRTY and Me, as Natural Intelligence goes live. |
-| The six next projects | A project begins with what the opening's sentences say of its band, and its band's aims have a home in Exhibit THIRTY: society 13, consciousness, a me and intelligence 11, nature's observings 8, living 7, natural network engineering 3. |
-| A partner | The self proving, a rigorized sentence with its proof, and the hardest holes brought ahead of the others. |
+**Living already, a sentence of the prime numbers story beside a sentence of Exhibit THIRTY:**
 
-## What it needs
+- The story's 53, *six podal pairs, one before six and one after*, beside 363, *six prime pairs are a going each way with one station, each pair adding to sixty*.
+- The story's 10, *One short and one past the multiples of six*, beside 372, *one before a multiple of six or one after it*.
+- The story's 37, *four times an odd span, twice an even span*, beside 742, *again after 4 moments or after four times its prime*.
+- The story's 56, *The fold, 24*, beside 366, *twenty-four is its apex*.
+- The story's 79, *Observed along (1, 1, 1)*, beside 514, *about a line from a corus along (1, 1, 1)*.
 
-- **A partner's word:** the seating of the rigorizer's fourteen, asked on 21 November; the order of the next lines; the entering of the lines into the next version's file, once a draft is laid; and the floating lines' way, one down the whole or one for a group.
-- **v406all2:** a line of both as it comes in, with the window's copy in the set.
-- **v406all2-2:** the living sentences of the seventeen names, in its window's page.
-- **v406me:** its offers brought in, and the surface's form for a session's threads.
+**New beside them, executed by their sessions:**
+
+- A turn of 30 numbers and 60 moments, its staircase its own inversion: the story's 6 to 8. Exhibit THIRTY's numbers go to 59 in group 27, and to 68 and 69 in group 33.
+- A prime from 5 on, multiplied by its own, one past a whole number of 24s: the story's 11.
+- 0 to 120: a flip and a quarter turn, two pieces of 16, four faces of 30: the story's 36 to 43, 60 to 63 and 82 to 87, and the drawings' seventh and eighth.
+- φ's closings round a prime, and a prime the torus that is one: the story's 45 to 48.
+- 37, a self and three rounds of six: the story's 73 to 81.
+
+**Six things of the primes' logic, in Exhibit THIRTY under an other name or in no sentence, executed:**
+
+- φ and a prime together: in no sentence. Group 16 has φ at 183 to 190 and a prime at 191 and 192, side by side.
+- A bi-coupling as one self with one parity: 25 says *A bi-coupling is a self.*, and no sentence says its one parity.
+- The logical and the moral as two, a parity and a 0: in no sentence. Sentence 33 says *A self's parity with a thing is the self's moral value with that thing.*: a parting to go through, the report having a parity the logical and a 0 the moral.
+- A prime, or a number, a stable form: in no sentence.
+- Five as φ's own prime: in no sentence.
+- No adding closing after five: living at 711, an adding the same again *after one, two, three, four or six, or not again*.
+
+### The plan, in the method's own sentences
+
+The plan is the three moments at a file of Exhibit TWENTY-FOUR, *Geodesic Improving Method*, 1.1, with Exhibit THIRTY the file.
+
+- **Its prior:** *A file as it is with its set is its prior*. Exhibit THIRTY as it is, its 755 sentences.
+- **Its now:** *Its working coupling with it, with each incoming value and its concern, is its now*. The incoming value now is the sessions' co-chaining: the opening's lines, the prime numbers story, the drawings, and the notes of its gathering file.
+- **Its next:** *Its going on, an opportunity opening ahead of its file, is its next*. Exhibit THIRTY's next version.
+
+**The prior is the origin of the next.** *Do-no-harming and improving is this motion itself*: *taking no prior away, its prior going on to now, its next opening.* And *A harm, taking a prior away, is the only motion this form has no position for.* A sentence has the same three moments: it *reaches its whole prior co-chaining with its now and adds its next*.
+
+**The one way in,** 1.4: *Observing, improving, living is the one way to a living file*.
+
+- *observing*: a value comes whole to `incoming/`. The sessions' pages are in it.
+- *improving*: it *lies with its file's own going on as a ready sharing naming its section and its sentence*, or as a concern with its reason. A file's going on is its gathering file. A value of the sessions beside its sentence of Exhibit THIRTY, and a note at no group brought to its sentence, are this one moment.
+- *living*: it *enters its file only with that file's own motion, improving one thing whole, a fresh reader comparing before and after*. With Exhibit THIRTY's next version it is a partner's word.
+
+**One binary has a value's three fates,** placing, dissolving and going on: *does each file it reaches toward hold it whole*.
+
+**Exhibit THIRTY is all or none.** Its gathering file says it is *the one method along, each step one logical extension from all steps before it*. By the method's 3.3, a file that is the fractal method itself *holds nothing that is not all or none*, and *a passage not all or none leaves for its file's incoming or for the file whose subject it is*. A sentence of the primes that is a field's proving, or an observing, is of Natural Numbers or Natural Mathematics. A sentence all or none, of the chain's own, is Exhibit THIRTY's.
+
+**A pass at a turn,** 1.2: *a pass improves one thing, and improves it whole*.
+
+**Its beginning is the numbers:** group 27, twenty-four, with 16 and 33 beside it, and after them 44 to 46. The incoming value at them is the newest, and executed. The groups 1 to 3 begin as the opening's lines come in.
 
 ## Its order of work
 
-Waiting on nothing, a turn at a time:
-
 1. What is asked of it at the exchange, ahead of its own work.
-2. The order of the next lines by what a name opens, to a partner and to v406all2. Done with this page.
-3. Moment and between, a name with its living sentences and its threads.
-4. The six parting sentences, a lean note apiece to Exhibit THIRTY's gathering file in the next version.
-5. The threads of the proposed lines 35 to 48.
-6. The draft of the entering, the opening's seventy sentence by sentence.
-7. The floating lines and the rigorizer down Exhibit THIRTY, from its opening.
-8. The gathering file's possible incoherings gone through by the lines.
-
-With a line of both coming in: the marking, the betweens and the tab Threads made again by their instruments.
-
-With a partner's word: the rigorizer's attacks by their seating; the lines into the next version's file.
+2. The prime numbers story, a sentence at a turn asked the one binary. A sentence all or none goes beside its sentence of Exhibit THIRTY, in its gathering file, from group 27. An other sentence is of the file whose subject it is.
+3. The notes at no group, a note brought to its sentence.
+4. Moment and the between, a name with its living sentences: Exhibit THIRTY names a moment at 50 and says it in 191 sentences; no sentence names the between, said in 119.
+5. The six parting sentences, a lean note apiece.
+6. With a line of both coming in: the marking, the betweens and the tab Threads made again by their instruments.
+7. With a partner's word: a sentence enters Exhibit THIRTY's next version, one thing whole, a fresh reader comparing before and after.

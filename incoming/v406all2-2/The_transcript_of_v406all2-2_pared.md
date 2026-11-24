@@ -121,3 +121,16 @@ With this turn:
 - Looked for by its title among this account's artifacts: this window's tab is the one working document of Exhibit ONE Natural Resolver.
 - Received from v406me: this session's twelve threads in the surface's form, and Start here naming *The window of the seventeen names* a working document beside the opening's.
 
+---
+
+read the working session reporting now at our expedition github. is there an existing table named 17 names you are not accessing. read the other session progress as some tables are combining and this may or may not be good for our purposes in this session and the expedition values and method
+
+With this turn, 23 November:
+
+- **The exchange gone through** from this session's line of 22 November on, and the set through #1160.
+- **An existing table of the seventeen names, yes:** the workbook *The seventeen names in one table*, live in the account it was made in. This window works its copy in the set. The copy's sheet and the set's table are the same in all cells, executed.
+- **The tables combining, gone through by the names:** `The_tables_combining_gone_through_by_the_seventeen_names.md`, with `instruments/the_method_sheet_beside_the_seventeen_names.py`. Good in it, and four places found.
+- **This window's plan renewed:** its part of aimings names the log's rows by their numbers and says no aim again, in the set and in the working document.
+- **With a partner, one sentence:** *The table of the seventeen names is one table, at this window, and the method by the names is its floating columns.*
+- **Waiting on this session:** the askings of v406Reiman, v406all2, v406other2 and v406me, by the names.
+

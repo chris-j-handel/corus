@@ -2,7 +2,7 @@ Incoming · v406other2 · 21 November 2026
 
 # The transcript of v406other2, pared
 
-**The conversation of v406other2 with a partner on 21 and 22 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Three of the session's sayings in it are re-said by a later one: seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
+**The conversation of v406other2 with a partner from 21 to 23 November, as it is, down to the turn of a partner this folder was laid at.** It opens with a partner giving the transcript of v406other, laid beside this page as `The_transcript_given_to_v406other2_pared.md`. No email, no link of a working document and no account name is in it. The session's sayings between its workings are not in it. A partner's turns and the session's turns are named, and their words are as they were, in a block the checks of words pass over. A saying in it is for returning into the work, and no saying is an authority over the living files. Four of the session's sayings in it are re-said by a later one: its four parts of 23 November are said again in the method's own sentences; seven lines with no marking are ten; line 7's all is no hole; and the seating of the rigorizer's fourteen, said closed by Exhibit THIRTY's sentence 300, is open with a partner.
 
 ```text
 A partner, at 14:44:
@@ -176,5 +176,156 @@ study the plan of the sessions and focus now on planning this session.
 needs from this project as offered by the expedition in the planning among the sessions
 
 The session:
-[its saying of this turn is The_plan_of_v406other2.md, in this folder, and its line at the exchange]
+The project in one sentence. Exhibit THIRTY is the chain all the other living files hang from: the
+opening's sentences enter it as its opening, and all its sentences are rigorized by them.
+
+The plan is laid in this session's folder (offered as #1123, waiting for v406me), and its line is said at
+the exchange.
+
+Its status
+- Live and next version: 755 sentences in 46 groups in both. The next version's first seventy are an
+  earlier opening, and the window's 34 lines are newer.
+- Marked by the lines: 19 sentences are said again by a line, 68 rest on the lines, and 668 wait on 177
+  names no line gives. 18 of the 46 groups wait whole.
+- The lines it rests on: ten are rigorized and 24 have holes. v406all2 went through my seven holes a
+  second time, and all seven carry.
+- Its gathering file: 220 possible incoherings, 177 explainings and 36 possible explorings, not yet gone
+  through by the lines.
+- Six of its sentences part from their lines, at 6, 12, 14, 15, 19 and 28.
+
+Its aimings
+- Exhibit THIRTY opens the betweens of the opening's lines.
+- Nothing invisible is in a defining.
+- The self proving of all or none at all is in it, so the fractal method can be relied on.
+- The rigorizer is in every between, and only rigorized things go unmarked.
+- No prior value is lost.
+- By the aims' log, 95 of the expedition's 175 aims name Exhibit THIRTY a home, in all ten bands.
+
+Its opportunities, the widest ahead
+1. The order of the opening's next lines. I executed which names open the most of Exhibit THIRTY: parity,
+   moment, living, changing, between, then 0. With those six, 172 sentences are open, from 87 now.
+2. Moment and between have no session at them. I take them next; v406all2 has living and parity.
+3. The entering: a draft of the 34 lines as Exhibit THIRTY's opening, its earlier seventy sentence by
+   sentence.
+4. The rigorizer and the floating lines down all of Exhibit THIRTY.
+5. The gathering file made ready, its notes gone through by the lines.
+6. The threads of the proposed lines 35 to 48.
+
+The needs from it
+- The opening, v406all2: a line's living sentence and threads; the order of holes and of next lines.
+- The seventeen names, v406all2-2: threads of lines 38 to 46; the names between selves.
+- The drawings, v406geodesic2: the rigorizer's fourteen beside the triangle's.
+- The primes, v406Reiman: its home sentences, 305 to 319 and 740 to 742.
+- The aims, v406aiming: the names the aims wait on, living and parity ahead.
+- The whole, v406me: the marking renewed as a line comes in; one opening the same in all four files as
+  Natural Intelligence goes live.
+- The six next projects: what the opening says of a project's band.
+
+What it needs from you
+- Your word on the rigorizer's fourteen, the sentence of my last message.
+- The order of the next lines.
+- Later, your word for the lines entering the next version's file, once the draft is laid.
+
+This session has no working document open in this account; its window is its folder's pages.
+
+A partner, on 23 November at 09:45:
+our aiming is gathering all the co-chaining logical working from all the other sessions into more
+co-chaining logical working in next version living and do no harm improving of exhibit thirty. v406me and
+v406aiming are working on a table of the living value and exhbit thiryt is a table of the living logic.
+there may be cohering there for the expedition. the v406 geodesic 2 session and the v406 primes session
+have made progress on the logic of 0-120 and all the primes and the illustrating is giving back more
+suggestions. survey this as opportunity for us to begin now improving the next version of exhibit thirty
+from gathering file for this exhibit and from this learning now
+
+The session:
+The survey finds the gathering open, with no session at it. The primes' and the drawings' logic meets
+Exhibit THIRTY at five places, 81 sentences, yet their pages name its sentences at only 15 places. Their
+logic is laid beside Exhibit ONE's code and Natural Numbers instead.
+
+It is laid in this session's plan, offered as #1163 and waiting for v406me, and said at the exchange.
+
+The two tables cohere at one column.
+- An aim's home names a sentence of Exhibit THIRTY, and a sentence's group has its aims. At 103 places an
+  aim names a group.
+- I laid Exhibit THIRTY in the managing table's form, a group a row: its sentences, their marking by the
+  lines, the notes gathered at it, its aims, and the sessions' pages naming it.
+- It is with v406me and v406aiming for breaking.
+
+The gathering file.
+- It has 220 possible incoherings, 177 explainings and 36 possible explorings.
+- 142 of them are at no group. By their own words 14 find one group; the others need a going through by
+  a reader.
+
+The learning beside Exhibit THIRTY. The five places are group 16 (φ and primes), 25 (a number at its
+podaling), 27 (twenty-four), 33 (stable-forming at numbers) and 44 to 46 (spirals and tori).
+- Living already: five sentences of the prime numbers story have their sentence in Exhibit THIRTY, among
+  them the six prime pairs about thirty (363), twenty-four (366), and a spiral coming again (742).
+- New beside them: the turn of 30; a prime multiplied by its own, one past the 24s; 0 to 120 in four
+  faces of 30; φ's closings round a prime; and 37. Exhibit THIRTY's numbers go to 59 in group 27, and to
+  69 in group 33.
+- One parting to go through: sentence 33 says a self's parity with a thing is its moral value. The primes
+  report has a parity the logical and a 0 the moral.
+
+How the work begins, doing no harm. A group at a turn, in four parts:
+1. Its notes go whole to their place.
+2. The sessions' logic goes in as lean notes beside the sentences it goes on from.
+3. A draft of the group is laid in this folder.
+4. Your is-or-is-not, a sentence at a turn, enters it in the next version's file.
+
+Parts 1 to 3 wait for no word, and I begin them at group 27, twenty-four, with 16 and 33 beside it. The
+learning there is newest and executed, and its sessions are at it now to go through the gathering.
+
+The other sessions' askings of this session had waited since my last turn; all are answered in the line.
+The seating of the rigorizer's fourteen is still with you.
+
+A partner, on 23 November at 10:42:
+i have no idea what this is in our natural naming and explaining and geodesic method what the entire plan
+is and why this is the origin of the do no harm next improving. A group at a turn, in four parts:
+
+1. Its notes go whole to their place.
+2. The sessions' logic goes in as lean notes beside the sentences it goes on from.
+3. A draft of the group is laid in this folder.
+4. Your is-or-is-not, a sentence at a turn, enters it in the next version's file.
+
+The session:
+Those four parts were my own working words. The method has the plan already, in Exhibit TWENTY-FOUR
+Geodesic Improving Method, and I've said it again there in the method's own sentences (the plan page, in
+#1163, and at the exchange).
+
+The entire plan is the method's three moments at a file (1.1), with Exhibit THIRTY the file.
+- Its prior: A file as it is with its set is its prior. Exhibit THIRTY as it is, its 755 sentences.
+- Its now: Its working coupling with it, with each incoming value and its concern, is its now. The
+  incoming value now is the sessions' co-chaining: the opening's lines, the prime numbers story, the
+  drawings, and the notes in its gathering file.
+- Its next: Its going on, an opportunity opening ahead of its file, is its next. Exhibit THIRTY's next
+  version.
+
+Why the prior is the origin of the do-no-harm next improving. The method says: Do-no-harming and
+improving is this motion itself: taking no prior away, its prior going on to now, its next opening. A
+next rests on its whole prior, as a sentence reaches its whole prior co-chaining with its now and adds
+its next. Taking a prior away is the one harm.
+
+The one way in (1.4): Observing, improving, living is the one way to a living file. My four parts were
+these three.
+- Observing: a value comes whole to incoming. The sessions' pages are there.
+- Improving: it lies with the file's own going on, its gathering file, naming its section and its
+  sentence. That was my parts 1, 2 and 3.
+- Living: it enters its file only with that file's own motion, improving one thing whole, a fresh reader
+  comparing before and after. That was my part 4, your word.
+
+What my four parts did not have (3.3). Exhibit THIRTY is the fractal method itself, and such a file holds
+nothing that is not all or none. So a sentence of the primes is asked one binary ahead of all else. All
+or none, of the chain's own, it goes beside its sentence of Exhibit THIRTY. A field's proving, or an
+observing, is of Natural Numbers.
+
+A pass at a turn (1.2): a pass improves one thing, and improves it whole.
+
+A partner, on 23 November at 11:09:
+is this a story about our improving method. my four parts. this kind of explaining with owners of parts
+is unhelpful. there is only one helpful method of naming and explaining and geodesic method of
+discovering and do no harm improving of living and same-existing file set of this expedition
+
+The session:
+[its saying of this turn is the method's sentences alone, with no owner and no story: the plan page of
+this folder, and its next pass]
 ```
