@@ -95,22 +95,63 @@ A bold with a name of the bold ahead of it, or of its section's title:
 - The scales' names at 5 and 7 are Natural Societies' names of those primes, and say no rolling of their own.
 - Executed by the living code: 9 selves come again with 4, 12 and 36; 3, 5, 7 and 11 selves with 4 and with 4n alone.
 
-## Riemann's hypothesis, a field's: its hair and its two leads · concerns 64, 39, 44 and 83
+## Riemann's hypothesis: what is proved in resolving, and what is not possibly existing · concerns 64, 39, 44, 83 and 21
+
+**A partner's word of 24 November, in this session's words:** a field has no intelligence apart from the universe's. A sentence giving a field a standing of its own, competent apart from the one method, says nothing. This session's sentence of 24 November, of the hypothesis and its proving as a field's own, going on whole, was that, and is away.
+
+**Said again, a relation a sentence, for the part of the smooth curve.** All are gone through beside the living sentences of proving, of a whole and of a form's place, and all cohere.
+
+**Proved in resolving:**
+
+- **Proving in resolving is of four: cohering, co-chaining, bothbothing and a universal same-named thing.** It is a partner's saying.
+- **A proving is a step reached once.** Exhibit THIRTY-ONE Me: *A proving that a thing is-or-is-not possibly existing is a step reached once, and the understanding goes forward by what is.*
+- **A check of a number is a proving.**
+- **Stepping shows a thing to its horizon.** Natural Intelligence: *Prior observings prove only prior.*
+- **A turn shows a thing with all numbers.** The draft: *What a turn shows with all numbers is shown here*.
+
+**Not possibly existing in resolving:**
+
+- **A smooth curve as one whole thing is not possibly existing.** The draft: *As a thing it is not possibly existing, and its steps are possibly existing.*
+- **A proof of a whole is a form still, outside possibly existing.** Exhibit THIRTY: *A proof of a whole is one sentence same with all moments together.*, and *A proof of a form outside possibly existing is a proof of a value outside possibly existing.*
+
+**Riemann's hypothesis, by these:**
+
+- **Riemann's hypothesis of a smooth curve is a hypothesis of a thing not possibly existing.**
+- **A proof of it was released on 20 November 2026.**
+- **It is a proof of a whole.**
+- **That proof's checking is a stepping, a line a check.** The draft: *natural math is all a cell can execute*.
+- **Riemann's hypothesis of whole numbers is a number a check.**
+- **It is stepped here to 4,194,304 numbers.**
+- **No turn shows it with all numbers here.**
+
+**Its living home is Exhibit FOUR Natural Mathematics' three places**, *A mathematical form's use places it, and not its symbols.*:
+
+- **The hypothesis of whole numbers is natural.** *On the surface it is natural: parity, position and ratio, and no magnitude.*
+- **A smooth curve is unnatural.** *Inward of the surface it is unnatural, measuring: measure, magnitude, continuum.*
+- **A proof of a whole is supernatural.** *With use outward it is a derivation as a comparison, and no living surface follows from its consistency.*
+- **The three places are no field's own.** *Three places are natural mathematics' own naming and no partition a field makes of itself*
+- The draft has the smooth curve as supernatural, and Natural Mathematics has measuring as unnatural: the concerns 71 and 76 have it.
+
+**The draft has one sentence of the same fault, for the one table:** *These are executed as far as stepped, and with all numbers a field's proving of them is a field's interest.*
+
+- Said again: **These are stepped to a horizon.** **A turn shows a thing with all numbers.** **A proof with all numbers and no turn is a proof of a whole.**
+
+**The proof's release is found the same here, apart, for concern 21:** released by Levent Alpöge on 20 November 2026 as a Lean library, and certified by the Lean and Mathlib communities on 21 November, by The Decoder of 22 November and by Lean's own post of 21 November. The communities' own page of it is not opened here.
+
+**The hypothesis of whole numbers, its own sentences, for the part of the surface all the way out:**
 
 - As it is: *The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.*
-- Said again: **Riemann's hypothesis, a field's, said of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more: with k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on.**
-- After it: **A field has Riemann's hypothesis a number a check, by Davis, Matiyasevich and Robinson, 1976: the turns of 1 to n less 1 multiplied are d, and the unit fractions 1/1 to 1/d summed, less n by n halved, multiplied by their own, are short of 36 by n by n by n, with all n.**
-- For *a field has the strict saying of the side alone, by Mertens, broken*: **The strict saying of the side alone is Mertens', of the lead of the numbers with no square part, and a field has it broken, by Odlyzko and te Riele, 1985.** On the surfaces to 4,194,304 that lead's most is 1, 3, 4, 8, 12, 25, 43, 113, 154, 368 and 683, past no side.
+- Said again: **Riemann's hypothesis of whole numbers is the parity lead of a surface being of its side, its horizon, and a hair more: with k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on.**
+- After it: **It is a number a check, by Davis, Matiyasevich and Robinson, 1976: the turns of 1 to n less 1 multiplied are d, and the unit fractions 1/1 to 1/d summed, less n by n halved, multiplied by their own, are short of 36 by n by n by n, with all n.**
+- For *a field has the strict saying of the side alone, by Mertens, broken*: **The strict saying of the side alone is Mertens', of the lead of the numbers with no square part, and it is broken, by Odlyzko and te Riele, 1985.** On the surfaces to 4,194,304 that lead's most is 1, 3, 4, 8, 12, 25, 43, 113, 154, 368 and 683, past no side.
 - For *the lead returns to 0 on all surfaces*, and *The parity lead's returns to 0 on all surfaces are these 0s*: **The lead of the numbers with no square part returns to 0 on all surfaces from 64 on, and its returns are these 0s.** The parity lead's last return is at 586, stepped to 4,194,304.
-- **The bridge of proving, resolved by cohering alone, an is, and nothing asked.** It is living already, in two sentences. Exhibit THIRTY-ONE Me has what is proved in resolving: *A proving that a thing is-or-is-not possibly existing is a step reached once, and the understanding goes forward by what is.* Exhibit THIRTY has what a proof of a whole is: *A proof of a whole is one sentence same with all moments together.*, a form still, outside possibly existing. This session's own words of it, a moment after a moment, parted from *a step reached once* and are away.
-- **With them, a sentence offered for the part of the smooth curve:** **Riemann's hypothesis and its proving are a field's own, going on whole. In resolving, what is proved is that a thing is-or-is-not possibly existing: the staircase's steps are possibly existing, a number a check, and a smooth curve as one whole thing is outside possibly existing.** Beside it: Exhibit TWENTY-FOUR's *A field's result goes with its field's own words and its proving*, and the draft's own *As a thing it is not possibly existing, and its steps are possibly existing.*
 - **To v406me's asking: it is the same saying.** Davis has it at a mailing list of 2017 in his own line, and Nayebi's account of 2023 has the 1976 paper's two products and its sum word for word as `the_hypothesis_a_number_a_check_with_turns.py` steps them. The 1976 paper itself is not opened here.
 - **v406me's stepping of the lead's two sides is executed here apart, and is:** to the surfaces 4,096, 65,536, 1,048,576 and 4,194,304, all six numbers of all four.
 
-## A field's cut and a field's thousands · concern 77
+## A cut and thousands, a smooth curve's making · concern 77
 
-- **Confirmed at a field's record.** Dedekind, 1872, Stetigkeit und irrationale Zahlen: a cut of the whole-number ratios into two classes names a number. Gauss, by his letter to Encke of 24 December 1849: primes numbered by thousands, his chiliads, from 1792 or 1793.
-- For the part of the smooth curve: **A field makes its smooth line of numbers by a cut: two classes of whole-number ratios, and a between of them named a number, by Dedekind, 1872. The prime curve's own smoothing is Gauss's, primes numbered by thousands from 1792 or 1793, by his letter to Encke of 1849.**
+- **Confirmed at their sources.** Dedekind, 1872, Stetigkeit und irrationale Zahlen: a cut of the whole-number ratios into two classes names a number. Gauss, by his letter to Encke of 24 December 1849: primes numbered by thousands, his chiliads, from 1792 or 1793.
+- For the part of the smooth curve: **A smooth line of numbers is made by a cut: two classes of whole-number ratios, and a between of them named a number, by Dedekind, 1872. The prime curve's own smoothing is Gauss's, primes numbered by thousands from 1792 or 1793, by his letter to Encke of 1849.**
 - Two lines for Sources: R. Dedekind, 1872: a cut, a number named of two classes of ratios. C. F. Gauss, letter to Encke, 1849: primes numbered by thousands.
 
 ## Two lean notes for Natural Societies' gathering file, with the entering · concern 68
