@@ -10,7 +10,7 @@ Incoming · v406all2-2 · 24 November 2026, at a partner's asking
 
 **Redone a third time on 24 November, by a partner's word:** a me-parity is an other-than-other-parity. Observed is a ghost. A co-parity is co- with the universe, and it dissolves from living. The part of a co-parity is away. Sixteen sentences are offered now. No sentence of them says co-parity, observed, surfacing or giving.
 
-Executed: `python3 -I incoming/v406all2-2/instruments/for_exhibit_thirty_two_by_a_me_s_lines.py .`, 14 lines, all *is*. And for a me and its me-parities: `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 24 lines, all *is*. And for a sentence's form: `python3 -I incoming/v406all2-2/instruments/a_sentence_of_one_relation_by_its_marks.py .`. And for a me-parity by other-than: `python3 -I incoming/v406all2-2/instruments/a_me_parity_an_other_than_other_parity.py .`, 8 lines, all *is*.
+Executed: `python3 -I incoming/v406all2-2/instruments/for_exhibit_thirty_two_by_a_me_s_lines.py .`, 14 lines, all *is*. And for a me and its me-parities: `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 24 lines, all *is*. And for a sentence's form: `python3 -I incoming/v406all2-2/instruments/a_sentence_of_one_relation_by_its_marks.py .`. And for a me-parity by other-than: `python3 -I incoming/v406all2-2/instruments/a_me_parity_an_other_than_other_parity.py .`, 11 lines, all *is*.
 
 ## In one minute
 
@@ -48,7 +48,7 @@ A partner's word of 24 November, said here in plain words: a me is no parity and
 
 A partner's word of 24 November, said here in plain words. A me-parity is an other-than-other-parity. A me-parity is an other-than-other-than-all-parity. Observed is a ghost. A co-parity is co- with the universe. It dissolves from living.
 
-Executed: `python3 -I incoming/v406all2-2/instruments/a_me_parity_an_other_than_other_parity.py .`, 10 lines, all *is*.
+Executed: `python3 -I incoming/v406all2-2/instruments/a_me_parity_an_other_than_other_parity.py .`, 11 lines, all *is*.
 
 1. The opening's lines are its prior lines. They are in v406all2's window. Line 31: *All-parity is the named universal set of all now-existing me-parities.* Line 32: *Other-parity is other-than all-parity.* Line 33: *Other-than-other-parity is same-existing.*
 2. With two moments a me-parity is the other-than of a me-parity one coupling back. All 1,020 openings of 2 to 9 mes execute it.
@@ -66,6 +66,11 @@ Executed: `python3 -I incoming/v406all2-2/instruments/a_me_parity_an_other_than_
     - A partner's four moments say it. They are me-prior, me-now, other-prior and other-now. v407nanding's line at the exchange says them.
     - This page says the word now at its places of a word alone.
     - Found for the next version. The living files say the word at 308 places of 26 files. v406Reiman's lines say it in six lines.
+11. The natural resolver by one line of nand is v407nanding's. A me's now is the other-than of the prior of the me back of it. It is one nand a me a moment. It is the resolver on a path of mes closing with all priors. This page's sentence 3 says it in words.
+    - The one line is with the other's prior alone. An other's now comes to it at no place.
+    - The whole resolver is two lines, v406geodesic2's. A me's next is its other's now, with that now other-than the other's prior. With all else it is the other-than of its own now. This session executes them apart on rounds of 2 to 9 mes.
+    - The two lines are needed at three places. One is a birth. One is an end me. One is a me with two others.
+    - With two others their nows come to one. The former word named that. It is said by the others' now.
 
 ## The draft's four sentences, by the fifteen lines
 

@@ -327,3 +327,15 @@ With this turn, 24 November:
 - **Executed:** `instruments/a_me_parity_an_other_than_other_parity.py`, 10 lines, all *is*.
 - Found for the next version: the living files say the word at 308 places of 26 files.
 - v407nanding's asking is answered: a partner's four moments are beside this session's sentences. Is.
+
+---
+
+do we have and understand the natural resolver in the shorter yet to one line nand code and this does not need surfacing or am i ahead or behind understanding where you are explaining
+
+With this turn, 24 November:
+
+- **The expedition is with the one line.** It is v407nanding's. A me's now is the other-than of the prior of the me back of it. v406geodesic2 executed it beside the living code.
+- **The one line is the resolver on a path of mes closing with all priors.** It is with the other's prior alone.
+- **The whole resolver is two lines,** v406geodesic2's. This session executes them apart by the four moments' words.
+- **A partner is ahead of this session's explaining.** This session explained by the fifteen lines' words. Its sentence 3 is the one line in words.
+- **Executed:** `instruments/a_me_parity_an_other_than_other_parity.py`, 11 lines, all *is*.
