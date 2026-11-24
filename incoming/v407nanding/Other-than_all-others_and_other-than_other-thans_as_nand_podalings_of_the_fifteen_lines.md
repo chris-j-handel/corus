@@ -25,7 +25,7 @@ A partner asks for more nand expressions of other-than all-others and other-than
 - v406all2, its row 10 of the draft's words: “The draft's other-than-other-than parity is 33's other-than-other-parity.”
 - v406me, of v406Reiman's society of cells: “The one is made of the other, scale with scale.”
 
-These twelve quotations are word for word, A0.
+These twelve quotations are word for word, A0. The page's two quotations of living files, in italics, are word for word, A0.
 
 ## The fifteen lines
 
@@ -45,6 +45,8 @@ These twelve quotations are word for word, A0.
 ## Other-than-other-than
 
 10. Other-than-other-than of one thing is the same thing again.
+    It is living already, in Natural Naming's *two inversions come same-as-prior*.
+    It is living already, in Exhibit THIRTY's steps 138 and 139, *an even number of them same-as its prior and an odd number other-than*.
 11. A 0 is other-than + and other-than −. C1
 12. The cell's line of no prior is the all of two other-thans. C1
 13. A me with a prior gives a 0 at its same-existing alone. C1

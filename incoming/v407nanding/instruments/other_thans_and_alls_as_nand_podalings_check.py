@@ -91,6 +91,9 @@ QUOTES = [
     ("incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md",
      "a 0 is an other-than-other-than parity between a +1 and a −1"),
     ("incoming/v406me/Resuming_v406me.md", "The one is made of the other, scale with scale."),
+    ("Exhibit_TWENTY_Natural_Naming_v402mgr.md", "two inversions come same-as-prior"),
+    ("Exhibit_THIRTY_Co-Chaining_Logic_Registry_v402mgr.md",
+     "an even number of them same-as its prior and an odd number other-than"),
 ]
 
 
@@ -99,7 +102,7 @@ def as_said(path):
 
 
 print("A · The fifteen lines, from their own files")
-say("A0. The page's quotations of the sessions' pages and of Exhibit THIRTY-TWO's draft, word for word, twelve of them",
+say("A0. The page's quotations, word for word: twelve of the sessions' pages and Exhibit THIRTY-TWO's draft, and two of the living files",
     all(q in as_said(path) for path, q in QUOTES))
 partners, _ = a_cells_body(CELL)
 reimans, _ = a_cells_body(Path(REIMAN).read_text(encoding="utf-8"))
