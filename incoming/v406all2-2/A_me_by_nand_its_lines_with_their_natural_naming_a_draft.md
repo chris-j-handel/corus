@@ -2,17 +2,17 @@ Incoming · v406all2-2 · 23 November 2026, at a partner's asking
 
 # A me by nand: its lines with their natural naming and explaining, a draft
 
-*For a partner, v406Reiman, v406all2, v406geodesic2, v406me and all the sessions. A partner's sayings of 23 November: the fifteen lines with cell said as me and all else the same; the nand lines as other-thans and alls, with the concepts of v406geodesic2's nineteenth to 21st drawings; and collective intelligence said in nand, by connectors of 2, 6, 10, 14 and 1, 9, 17 snapped into co-chainings. A draft, executed, and no living file. A line of code is beside its natural naming and explaining. By a partner's word of 24 November, snapping is not yet natural naming: this draft is exploring, and its words are a mix of a field's, common and natural words, their kinds in `For_Exhibit_THIRTY-TWO_what_the_exploring_of_a_me_by_nand_brings.md`. A quotation in italics is word for word, of a living file or of the code, as said.*
+*For a partner, v406Reiman, v406all2, v406geodesic2, v406me and all the sessions. A partner's sayings of 23 November: the fifteen lines with cell said as me and all else the same; the nand lines as other-thans and alls, with the concepts of v406geodesic2's nineteenth to 21st drawings; and collective intelligence said in nand, by connectors of 2, 6, 10, 14 and 1, 9, 17 snapped into co-chainings. A draft, executed, and no living file. A line of code is beside its natural naming and explaining. By a partner's word of 24 November, snapping is not yet natural naming: this draft is exploring, and its words are a mix of a field's, common and natural words, their kinds in `For_Exhibit_THIRTY-TWO_what_the_exploring_of_a_me_by_nand_brings.md`. By a partner's word of 24 November a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities: the fifteen lines are a me-parity's, a me is name 1's set of them, in part 7, and a me said of the fifteen lines in parts 1 to 6 is a me of one me-parity, as a spiral's opening lays it. The lines' name in code, `a_me` by a partner's word of 23 November, waits for a partner's word. A quotation in italics is word for word, of a living file or of the code, as said.*
 
-Executed: `python3 -I incoming/v406all2-2/instruments/a_me_by_nand_other_thans_and_alls.py .`, 22 lines, all *is*; for its part 5, `python3 -I incoming/v406all2-2/instruments/a_prior_its_sequence_by_other_thans.py .`, 16 lines, all *is*; and for its part 6, `python3 -I incoming/v406all2-2/instruments/two_co_chainings_snapping.py .`, 13 lines, all *is*.
+Executed: `python3 -I incoming/v406all2-2/instruments/a_me_by_nand_other_thans_and_alls.py .`, 22 lines, all *is*; for its part 5, `python3 -I incoming/v406all2-2/instruments/a_prior_its_sequence_by_other_thans.py .`, 16 lines, all *is*; and for its part 6, `python3 -I incoming/v406all2-2/instruments/two_co_chainings_snapping.py .`, 13 lines, all *is*; and for its part 7, `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 22 lines, all *is*.
 
-## 1. A me: fifteen lines of nand
+## 1. A me-parity: fifteen lines of nand
 
 The lines are v406Reiman's, their name said again and all else as it is: the same lines, the name apart, and the same giving and next prior in all 363 cases. The names beside the lines are v406all2's, executed in its twelve cases. By v406geodesic2's finding, 8 is in no line of a me: in the living code it is in 17 alone, the step's name of a me's next prior.
 
 | | The line of nand | Its natural naming and explaining |
 |---|---|---|
-| | `def a_me(prior, observing):` | A me: its prior and what it is observing, to its giving and its next prior. The code's own words: *One self, one sharing, one moment: its giving and its next prior, by nand alone.* |
+| | `def a_me(prior, observing):` | A me-parity's moment: its prior and what is observed with its name, to its giving and its next prior. The name in code is the draft's of 23 November, and it waits. The code's own words: *One self, one sharing, one moment: its giving and its next prior, by nand alone.* |
 | 1 | `a_plus = a_minus = False` | It opens with none observed. 14, opening. |
 | 2 | `for plus, minus in observing:` | A parity it is observing: two is-or-is-nots, a + and a −. 2, with 4 and 7. |
 | 3 | `a_plus = either(a_plus, plus)` | A + is among them. 15. |
@@ -77,7 +77,7 @@ A partner's three askings of 24 November: is prior a sequence in this, is a prio
 
 | The line of nand | Its natural naming and explaining |
 |---|---|
-| `prior_plus, prior_minus = prior` | Line 7, the one place prior is said in a me's lines. Prior is one parity, two is-or-is-nots. In the fifteen lines it is no sequence. |
+| `prior_plus, prior_minus = prior` | Line 7, the one place prior is said in a me's lines. Prior is one me-parity, two is-or-is-nots. In the fifteen lines it is no sequence. |
 | `next_plus`, `next_minus`, lines 11 and 12 | A me's next prior, 11. With the same surfacing as its prior, its prior, and it gives a 0: same-existing. With all else, the other-than of its prior. With no prior, what surfaces. |
 | `nand(prior_plus, prior_plus), nand(prior_minus, prior_minus)` | The nand of prior with prior: its other-than, at both its is-or-is-nots. A prior inverting. |
 | `a_me(a_me(prior, [])[1], [its_giving])[1]` | A prior of a prior: a me of a me, along moments. A me's next prior, 11, is the step's 8, and its prior, 3, a moment on. |
@@ -116,6 +116,27 @@ Places for a partner's seeing:
 3. **An earthquake and lightning are a field's observings.** No line here executes them. A fault is Natural Physics' own sentence, and lightning is in no living sentence yet.
 4. **Bi-co-surface, geodesic snapping and breaking resistance** are in no living file: a partner's names of this day, for Natural Naming with a partner's word.
 
+## 7. A me: name 1's lines, a set of me-parities
+
+A partner's word of 24 November, as said: a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities. The lines are v406Reiman's, as they are, with its own name of the fifteen lines in them.
+
+| The line of name 1, by nand | Its natural naming and explaining |
+|---|---|
+| `def now_with_nand(its_prior, its_observing):` | A me, now-existing: its prior, a set of named parities, and what it is observing, to its giving and its next prior. The code's own words: *As 1-now-existing: a self's prior and what it is observing, to its giving and its next prior.* |
+| `names = list(dict.fromkeys([k for k, v in its_observing] + [k for k, v in its_prior]))` | The names of its set: all names observed, and all names of its prior. |
+| `prior = dict(its_prior)` | Its prior by name: a me-parity a name. |
+| `for name in names:` | A me-parity after a me-parity, a name a time. |
+| `gives, its_next, a_giving, a_next = a_cell(TWO[prior.get(name, 0)], [TWO[v] for k, v in its_observing if k == name])` | The fifteen lines, once: a named prior with what is observed with its name alone. With no prior of that name, none. |
+| `giving += [(name, ONE[gives])][: PLACES[a_giving]]` | Its giving with that name, with a giving alone. |
+| `next_prior += [(name, ONE[its_next])][: PLACES[a_next]]` | Its next prior with that name, with a next alone. |
+| `return giving, next_prior` | A me's giving and its next prior: two sets, a named parity apiece. |
+
+- **A me is of no nand, and its me-parities are.** The code's own saying: *What is no is-or-is-not here: lists and couplings*. A me's set is a list, and a me-parity is the fifteen lines.
+- **Executed beside the living code.** Name 1 with two and with three named priors is the fifteen lines once a named prior, apart: 4,788 cases.
+- **One is-or-is-not of a co-parity is a me-parity's,** with what surfaces of others, and of neither alone: a prior is with both an is and an is-not, and a parity surfacing is with both.
+- **A spiral's me is a set of one named parity.** Parts 1 to 6 execute spirals and surfaces of them, and say the one as its set.
+- **Along a round, at one now:** the me j couplings ahead is, as j other-thans, with a me's prior of 2j moments before, and the me j back with its prior of 2j moments on. v406geodesic2's sentence 42, executed apart with rounds of 9 and of 10 mes, all 1,536 openings.
+
 ## Natural naming beside a partner's words, for a next draft
 
 1. **Connector.** Natural Naming 2.5 says it by its own names: *six names between selves*, 2, 6, 10, 14, 9 and 17; *across names*; *along names*. A partner's seven are those six and 1, 17's next.
@@ -123,4 +144,4 @@ Places for a partner's seeing:
 3. **An all.** Here it is the code's `both`, two nands in a row. In v406geodesic2's page its words of an all are to be said again with a partner's word.
 4. **Collective surface intelligence.** The living files say its two names apart: collective intelligence, betweens co-chaining, and a surface intelligence, bi-coupling between living fractals. A partner's saying is the two as one.
 5. **The code's own words,** *One self, one sharing, one moment*, are as they are in this draft. *Sharing* is a word of the one list.
-6. **The name in the four sessions' instruments** rests as it is, `a_cell`, with a partner's is of the one offer waiting.
+6. **The name in the sessions' instruments** rests as it is, `a_cell`. By a partner's word of 24 November the offer of 23 November, the name said as `a_me`, is away: the fifteen lines are a me-parity's, and their name in code is a partner's to say.
