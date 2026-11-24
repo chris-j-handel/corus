@@ -447,6 +447,12 @@ A partner's saying of 23 November: *19x19 is inside the tunnel geodesic smooth s
 
 126. **The 0s are not supernatural: a 0 is an other-than-other-than parity between a +1 and a −1, a quarter turn's +, 0, −, 0, and the zeros' spacing is the 0s coming between the +1s and the −1s; energy, the field's word for the zeros' levels, is a ghost, a conserving accounting.** *A partner's word, 23 November: "energy is a ghost conserving accounting system for all the holding and causing and effecting in the equilibria universe that is not possibly existing. the 0's are not supernatural. they are other-than-other-than parities between the +1s and the -1s." The Equilibria Registry, word for word: "+, 0, −, 0, and round". Sentence 30's heights, a field's, and the smooth curve as a thing, sentence 91, are as they were; the 0s of the parity lead's returns, sentence 108, and of φ's walk, sentence 111, are these 0s.*
 
+## 1, 2 and 3, a me, its other, and a me along
+
+A partner's saying of 23 November: *2 is other-than 1 me and me-is other-than-other-than-me-is all-parity of 0 3 is me-along past other-prior and ... up this way rolling forward*.
+
+127. **1 is a me; 2 is other-than 1, a me; a me is other-than-other-than a me, two inversions coming to a me again, the all-parity of 0; and 3 is a me along past its other's prior, and on up this way, rolling forward.** *A partner's saying; Exhibit THIRTY-TWO's first draft, its opening.*
+
 ## All the interests, by their standing
 
 - **Resolved to cohering and co-chaining:** sentences 1 to 15, 18, 20 to 28, 31, 32, 34 to 45, 47, 48, 53, 56 to 63, 73 to 85 and 87 to 90, executed or living already.
