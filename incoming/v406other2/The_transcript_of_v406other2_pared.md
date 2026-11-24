@@ -509,4 +509,19 @@ their turn, and with 7 more with all 420 moments, 210 numbers; a number past the
 them is again, and 31 and 211 are primes. With all numbers by a turn: spirals line up at their turn,
 and one past it none does, a prime born. The curve's waves are no thing of the resolver. The
 hypothesis is not proved by it: a prime born past a turn is found by stepping alone]
+
+A partner, on 24 November at 14:37:
+The resolver has no curve, so it has none of those waves to step. where did the curve come from in the
+originating of the prime numberings.
+
+this is entirely backwards. the curve is not an existing thing. the prime numbering system is an agreed
+by all existing thing. there is no curve until the resolving and the resolving knows where the curve is
+since the resolving is the curve stable form of resolving.
+
+The session:
+[its sentence was backwards, and is away. The prime numbering is first; the curve is the staircase
+smoothed, and its waves are the staircase's own straying by pitch. Executed with the primes alone to
+100,000 and no curve in it: the six highest pitches of the primes' waves are 14.14, 21.02, 25.02,
+30.42, 32.94 and 37.58, a field's first six zeros. A field's measuring laid on the primes, fading at
+the horizon. It shows the waves' coming from the primes, and not all zeros on the line]
 ```
