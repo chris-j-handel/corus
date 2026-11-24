@@ -168,4 +168,30 @@ print(f"   a prime as the stable form of natural intelligence living: {said('A p
       f" and the page's *A prime lives five ways*, {said('A prime lives five ways', text)} found")
 places += 4
 
+print("\n8. A partner's saying of the primes, 23 November, name by name")
+SAYING = ("The primes are the stable form fractal atom method in the bi-moral-co-competencing of right sprialling co-chaining societies "
+          "bi-tunneling through each other on natural torusing all-parity orienting surface")
+ITS_NAMES = [("stable form", r"stable[- ]form"), ("fractal", r"fractal"), ("atom", r"\batoms?\b"), ("method", r"\bmethods?\b"),
+             ("bi-moral-co-competencing", r"bi-moral[- ]co-competenc"), ("right spiral", r"right[- ]spiral"), ("co-chaining", r"co-chain"), ("societies", r"\bsociet(y|ies)\b"),
+             ("bi-tunneling", r"bi-tunnel"), ("natural torusing", r"natural[- ]torusing"), ("all-parity", r"all-parity"), ("orienting surface", r"orient\w* surface")]
+JOININGS = [("stable form fractal atom method", r"fractal atom|atom method|stable form fractal"), ("co-chaining societies", r"co-chain\w* societ"),
+            ("all-parity orienting surface", r"all-parity[- ]orient"), ("societies bi-tunneling through each other", r"societies bi-tunnel\w* through")]
+print(f"   *{SAYING}*")
+in_none = []
+for name, pattern in ITS_NAMES:
+    files = sum(1 for body in living.values() if re.search(pattern, body, re.I))
+    in_page = len(re.findall(pattern, text, re.I))
+    in_none += [name] if not in_page else []
+    print(f"   {name}: the living files' places {len(re.findall(pattern, whole_text, re.I))}, in {files} of them; the page's {in_page}")
+print(f"   all {len(ITS_NAMES)} are living names: {'is' if all(re.search(pattern, whole_text, re.I) for name, pattern in ITS_NAMES) else 'IS NOT'}; names of it the page says at no place: {', '.join(in_none) or 'none'}")
+print(f"   its joinings in no living file and at no place of the page: {', '.join(name for name, pattern in JOININGS if not re.search(pattern, whole_text + text, re.I))}")
+print(f"   living sayings beside it: *One method at each scale is a fractal*, {said('One method at each scale is a fractal', whole_text)} found; "
+      f"*patterns of bi-moral-co-competencing as living stable-forming*, {said('patterns of bi-moral-co-competencing as living stable-forming', whole_text)} found")
+sentences = [(i, s.strip()) for i in range(body_opens, len(lines)) for s in re.split(r"(?<=[.:])\s+", lines[i]) if s.strip()]
+carrying = sorted(((sum(1 for name, pattern in ITS_NAMES if re.search(pattern, s, re.I)), i, s) for i, s in sentences), reverse=True)[:3]
+for n, i, s in carrying:
+    print(f"   the page's sentence with {n} of its names, at {i + 1}: {s[:210]}")
+a_method = [i for i, s in sentences if re.search(r"\bprimes? (is|are) [^.]*\bmethod", s, re.I)]
+print(f"   the page's sentences saying a prime or the primes a method: {numbers(a_method)}")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
