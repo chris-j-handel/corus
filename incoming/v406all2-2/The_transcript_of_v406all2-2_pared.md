@@ -298,3 +298,17 @@ With this turn, 24 November:
 - Breaking: this session's last answer went by the number of living places. Restoring: decided by the code, one step more.
 
 *A co-parity is a me-parity the same as a me-parity observed.* ( is-or-is-not? )
+
+---
+
+a me-parity is an other-than-other-parity and an other-than-other-than-all-parity. how does observed ghost help this. a co-parity is co- with the universe so it dissolves from living.
+
+With this turn, 24 November:
+
+- **Received.** A me-parity is an other-than-other-parity. A co-parity dissolves from living. Observed is a ghost.
+- **Executed.** With two moments a me-parity is the other-than of a me-parity one coupling back. With four moments it is a me-parity two couplings back. All 1,020 openings of 2 to 9 mes.
+- **A co-parity is in neither.** The two are the same with a prior same-existing between the two moments. They are the same with none.
+- **Observed helps nothing.** A coupling says which me. An other-than says which parity.
+- **Sixteen sentences are offered now.** None says co-parity, observed, surfacing or giving.
+- **Executed:** `instruments/a_me_parity_an_other_than_other_parity.py`, 8 lines, all *is*.
+- A page for resuming is laid. This conversation's room is short.

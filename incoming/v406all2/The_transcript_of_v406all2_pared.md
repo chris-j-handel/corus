@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-two turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-three turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1192,3 +1192,40 @@ The opening's pause is ended. It goes on from *My is a now-existing prior-sequen
 *Natural naming and explaining is becoming nanding logic into and out of universal me-nows* is with what is executed: a me's moment is nands alone, what it observes going in and its giving going out. Nanding is in no living file yet.
 
 i redid the opening sentences for rigorizing and do no harm improving
+
+Two lines are said again in the document, and the other 32 are as they were. Rigorized, two places are resolved and five are not yet all.
+
+The two lines:
+
+- *A thing is an other-than the set of no things.*, now after 1 and ahead of now-existing;
+- line 2, *A thing now-existing is a thing existing now.*
+
+**Resolved**
+
+- **Line 2's thing is named by a prior line.** A thing's line is ahead of it now.
+- **Nothing is away from the lines.** *The set of no things* says it, with set a given word. Found beside it: *a set is its things and no further thing*.
+
+**Not yet all**
+
+| A place | What is found |
+|---|---|
+| no | A word with no line, at a thing's line. Not is a word with no line too, at 4: two words of one is-not. |
+| a thing's line says its own name | *A thing is … the set of no things* |
+| other-than at a thing's line | Its line is 4, after it. The document's *A line's rigor* has other-than a given word until its line names it, five given; its living list has four. The document says both. |
+| a thing's line's number | It is with no number in the document, and 3 is at no line. |
+| line 2 beside 9, 11 and 12 | Line 2 is of a thing; 9, 11 and 12 are of existing alone, *Prior-existing is existing in the prior moment.* |
+
+One incohering in words is to explore: nothing as a set, beside *no set defines a gap; a gap is a nothing between* in the gathering file of Exhibit THIRTY.
+
+**Do-no-harm suggestions**
+
+- **A thing's line numbered 2, and now-existing 3.** The numbers from 4 on are as they are.
+- **No said by not,** line 4's word: *A thing is an other-than the set of not a thing.*
+- **One form for 2, 9, 11 and 12:** *Now-existing is a thing existing now.*, or the three said of a thing.
+- **One saying of other-than** at both places of the document: a given word, or a word with no prior line.
+
+**In the document**
+
+A card is laid for the living list's table, said again at five places for the lines as they are: set at 3 too, no in nothing's place, and the rows of a, of and the. My edit of the table in place was refused, so it is a suggestion to accept or to let go.
+
+why are you suggesting things to me. my role is answering the hardest is or is not questions after you explain them to me and you are unable to resolve. your should do the numbering and rigorizing and do no harm improving without me
