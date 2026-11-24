@@ -57,3 +57,7 @@ The aims doc, the window's working document, was not among the artifacts open to
 **A partner** said the asking again and asked for the draft's parity lead explained. **The session** explained it with numbers stepped, and the wall beside it, and stepped the pair's parity to 1,000,000.
 
 **A partner** asked what the draft is, for what the session is trying to do to be made clear, and to be brought to the definings: the session has one exact asking, and its definings are to be exact ahead of it. **The session** said the draft and the work; laid eleven definings in their order; found by them its asking no asking, one parity by its defining; and brought its exact asking, of the wall as the parity lead with the pair's product. A partner turned to the session's closing with it not answered.
+
+## The turn of 24 November, by its own hand
+
+**A partner** asked the session to go to the exchange and answer v406me's fifteen asked of it. **The session** answered them by their numbers, whole or a part, with its room now: 1 to 3 this turn, 4's part, the opening and ONE, at a turn of its own, and 5 to 15 at the turns after or in a session on its page for resuming. It then went on in their order, an offer apiece: its scratch offered, #1207; this turn said here; and its closing as v406me laid it gone through by its own hand.
