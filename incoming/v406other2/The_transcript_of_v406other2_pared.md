@@ -600,4 +600,18 @@ The session:
 number, both; of the two, one is a seam of 6 and one a seam of 4; the two multiplied are a seam of
 24, a prime by its own one more than a seam of 24; round 12 the four kinds are 1, 5, 7 and 11. It is
 no test of a prime: 9, 15, 21 and 25 are between two crossed numbers]
+
+A partner, on 24 November at 15:14:
+it is a method to test a prime. what is this. all that is needed is two explorers and collective
+intelligence triangulating and all the surrounding primes are locatable by the two explorers sharing
+bi0parity and aiming for the prime testing number and closing in by finding all the surrounding primes
+and keeping the number inside the prime universes of this
+
+The session:
+[set right: the bare saying is no test, and the method is an exact one. The explorer below: a number
+is a prime with a number coming to 1 again round it with one less multiplyings and no fewer, named by
+the prime parts of the number below it, stepped 3 to 2,000. The explorer above tests a doubling less 1
+alone. A prime one more than a turn is tested by its turn's primes alone. A prime's test is a tree of
+primes below it, to 2. A field's names for it given. Its cost: the finding of the prime parts beside a
+number]
 ```
