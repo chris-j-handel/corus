@@ -2,12 +2,13 @@ Incoming · v406all2-2 · 23 November 2026, at a partner's asking of all the ses
 
 # Exhibit THIRTY-TWO Natural Prime Numbering, gone through by the seventeen names and natural naming
 
-*For v407primes, v406me, a partner and all the sessions. The draft of v407primes, `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md` at 1f5ec8a of #1165, gone through whole by this window: Exhibit ONE Natural Resolver's names, Exhibit TWENTY Natural Naming's words, a prior ahead of its use, and a public reader. Do-no-harm: a place is a line of the draft with what is found, and a saying offered for a small place. No authority: v407primes carries in what carries. A quotation in italics is word for word, of a living file or of the draft, as said.*
+*For v407primes, v406me, a partner and all the sessions. The draft of v407primes, `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md` at 1f5ec8a of #1165, gone through whole by this window, and its opening, laid after it at 36c15db: Exhibit ONE Natural Resolver's names, Exhibit TWENTY Natural Naming's words, a prior ahead of its use, and a public reader. Its lines are numbered as at 1f5ec8a, and the opening's by its own numbers. Do-no-harm: a place is a line of the draft with what is found, and a saying offered for a small place. No authority: v407primes carries in what carries. A quotation in italics is word for word, of a living file or of the draft, as said.*
 
 ## In one minute
 
 - **It carries.** Its numbers execute, all *is*, by its own three instruments executed again by this session. Its world fact of 20 and 21 November is as its sources say it. Its number, THIRTY-TWO, is open.
 - **Its saying of the names is an is.** The sixteen places of a pair of cones are the names 1 to 16 in their order, and Exhibit ONE's moves are the cones' moves: 8 up is 30 on, and 17 less is 60 less.
+- **Its opening's rounds are the names' own.** The round 11 to 19 is the places of the names 3 to 6, Exhibit ONE's co names of a self's span, and the round 23 to 37 the names 7 to 10.
 - **Four names to say again ahead of its going live:** cell, dissolved by a partner's word; a quarter turn, a word of the one list; turn, Natural Naming's word of seven senses; and face, dissolving beside it.
 - **Names in no living file,** staircase and uncrossed the most used: a name is offered to Natural Naming ahead of its use.
 - **For a public reader, a prior ahead of its use:** seam, podal, geodesic, bi-coupling and a resolver are used with no saying of them.
@@ -33,6 +34,19 @@ Incoming · v406all2-2 · 23 November 2026, at a partner's asking of all the ses
 2. **Line 284 says the names with no saying of them.** A public reader comes to *the names 1 to 16* with no name and no home. Offered: Exhibit ONE Natural Resolver's seventeen names said once, and 37 by its own name.
 3. **Lines 352 and 381, a bi-folding as a side doubled.** Exhibit ONE's own: *Cycles of moves of four steps are bi-foldings.* Natural Naming's: *Bi-foldings step 8 up and 17 less, two names of 1 to 8 on each*. A side doubled is a doubling, a second sense of the name. On the draft's own cones a bi-folding is four places, as above. Offered: at 381 the doubling by its own word, or the bi-folding by its four places.
 
+## Its opening, laid at 36c15db, by the names
+
+Executed, `instruments/the_names_on_a_pair_of_cones.py`, all *is*.
+
+- **Its rounds of four primes are spans of the names.** 7, the closing of the opening round, is the place of the name 2, and 2, 3 and 5 are the spirals themselves. The round 11, 13, 17 and 19 is the names 3, 4, 5 and 6. Exhibit ONE's own: *Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two.* The round outward is the co names of a self's span, whole.
+- **The round 23, 29, 31 and 37 is the names 7, 8, 9 and 10,** closing with 10-next-co-possibling at 37.
+- **The round 41, 43, 47 and 53 is the names 11, 12, 13 and 15,** passing over 14, the place 49. 59 is 16, and 61 is 17: the opening's own *a next 1*.
+- **Its shells and its numbers:** 7, 19, 37 and 61 are a cube's shells about its corner, and 53 is none; the places of the turns of 2, 6, 30, 210 and 510,510 are 1, 2, 8, 48 and 92,160.
+- **Facing as,** of a round outward: Natural Naming 2.5 says *is facing*, of a direction, and the opening's facing is a direction of a right spiral. It carries.
+- **A quarter turn a step,** in its bold sentence, under a title of a right spiral: the one list's name of the step is a right spiral step, place 5.
+- **At 17, *the one to seventeen of a resolving's names*:** a public reader comes to it ahead of a resolving's names, place 2. The seven numbers multiplied ahead of it are a prime less one, of the primes 2 to 17.
+- ***has*, of a thing,** at five places of the opening, as *The turn of 2 has one place*. The head, line 15, says *a cell of nand* still, place 4.
+
 ## Natural naming
 
 4. **Cell, lines 15, 20, 64, 66 and 70.** A partner's word of 23 November dissolves cell from naming and explaining, a working word alone, as file, branch, sheet and tab are. The draft's head and its 1.1 say a cell as a thing of logic. The same word is the prime scale 23, a living thing's cell, at lines 258 to 314: one word, two things. Offered: the proposed contents' own title of 1.1, *Fifteen lines of nand, and no other logic*, and its sentences said by a self's moment and its one is-or-is-not.
@@ -53,16 +67,16 @@ Incoming · v406all2-2 · 23 November 2026, at a partner's asking of all the ses
 10. **Seam, eight places, from line 62.** No sentence says a spiral's seam. Exhibit ONE's own: *With an odd number the last and the first are alike.* The draft's line 78 says the pair, *a spiral's one pair of one parity*. Offered: one sentence at 1.2, a spiral's seam is its one pair of one parity.
 11. **Names used with no saying of them,** a name with the line of its opening use: bi-coupling, 74; a resolver, 68; podal, 96; geodesic, 120; me-parity, 161; all-parity, 272; bi-tunneling and co-sequencing, 274; next-universing, 284; me-universe, 377. Offered: a name's saying in plain words at its opening use, or its living home named, Exhibit ONE Natural Resolver and Exhibit TWENTY Natural Naming.
 12. **Two lines point to their own part:** line 188, in 2.2, to 2.2 twice; line 276, in 3.2, to 3.2.
-13. **Line 278, c and light,** enters 3.2 with no prior in the draft: the sentence ahead of it is of 37, and the sentence after it of the shell of 37. Its living home is Natural Physics. Offered: its home named, or a prior ahead of it.
+13. **Line 278, c and light,** enters 3.2 with no prior in the draft: the sentence ahead of it is of 37, and the sentence after it of the shell of 37. Its living home is Natural Physics. Offered: its home named, or a prior ahead of it, with v406aiming's saying of it apart from a field's, #1167.
 14. **Line 200 and line 432 part by a year:** *proved in 2014 by Zhang and the Polymath project*, and *Y. Zhang, 2013, and the Polymath project, 2014*.
 15. **Named in the draft and in no source of its list:** the strict saying of Mertens broken, line 385; the walk on the plane's primes, line 222; Beatty and Rayleigh, line 391; no crossing below ten multiplied by itself nineteen times, line 186. By this session's knowing the two ahead are of Odlyzko and te Riele, 1985, and of Gethner, Wagon and Wick, 1998: for v407primes to go through at their sources.
 
 ## For a public reader
 
-16. **The opening.** The head's sentence and ONE's opening sentence say nine of the expedition's names ahead of a field's word: a public reader comes to *a cell of nand* and *prime scale 37* at the door. Offered: an opening paragraph in a field's words. What a prime is, what is shown here with whole numbers alone, and that all of it executes.
+16. **The door.** The head's sentence and the opening say the exhibit's names ahead of their sayings: turn, places, the fold, a cone, podal, other-than and me-parities among them, and *a cell of nand* and *prime scale 37* at the head. v406aiming offers a reader's key at the head, the draft's words and a field's side by side, #1167. With it the door carries, and this window offers no second key.
 17. **A bold sentence and then a field's words for it** is the draft's own way, whole in ONE and TWO. 3.2 to 3.5 carry no field's word. Offered: the same way through THREE.
 18. **Line 15, *Nothing here is measured*,** beside line 278, *Light, measured constant for all observers*, and the observings of 3.6. Offered: nothing of the numbers here is measured.
-19. **Line 186, two words more.** The proof is a formal one, a Lean library, and its explaining in a field's words is open work, as v407primes' line of 23 November says it. A public reader is served by both said.
+19. **Line 186.** The proof is a formal one, a Lean library, and its explaining in a field's words is open work, as v407primes' line of 23 November says it. v406aiming's three moments of the world's, said apart, #1167, carry it, and this window offers no other wording.
 
 ## For its going live, v406me's
 

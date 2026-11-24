@@ -78,3 +78,24 @@ fours = [[n, 60 - n, 60 + n, 120 - n] for n in places if n < 30]
 whole = [f for f in fours if all(prime(n) for n in f)]
 line(len(fours) == 8 and sorted(n for f in fours for n in f) == [n for n in range(121) if n % 2 and n % 3 and n % 5], 'they are the 32 places of 0 to 120')
 line(whole == [[7, 53, 67, 113], [13, 47, 73, 107], [19, 41, 79, 101], [23, 37, 83, 97]], 'four of them are all primes: ' + '; '.join(', '.join(str(n) for n in f) for f in whole))
+
+print()
+print("The draft's opening: rounds of four primes, by the names")
+primes = [n for n in range(2, 62) if prime(n)]
+rounds = [primes[0:4], primes[4:8], primes[8:12], primes[12:16]]
+name_of = {p: k for k, p in place.items()}
+line(rounds == [[2, 3, 5, 7], [11, 13, 17, 19], [23, 29, 31, 37], [41, 43, 47, 53]], 'four rounds of four primes: ' + '; '.join(', '.join(str(n) for n in r) for r in rounds))
+line([7, 19, 37, 61] == [(k + 1) ** 3 - k ** 3 for k in range(1, 5)], "a cube's shells about its corner, 7, 19, 37 and 61; 53 is no shell")
+line([1 + 6, 1 + 6 + 12, 1 + 6 + 12 + 18] == [7, 19, 37], 'a self and rounds of six: 7, 19 and 37')
+for r in rounds:
+    print('       ', ', '.join(str(n) for n in r).ljust(16), 'the names', ', '.join(str(name_of[n]) if n in name_of else 'a spiral' for n in r))
+co = sorted(int(n) for n in re.findall(r'^- (\d+) · \d+-(?:now|next)-co-', living, re.M)) or sorted(k for k, v in names.items() if '-co-' in v)
+line(co == [3, 4, 5, 6, 9, 10, 11, 12] and 'eight co names, 3 to 6 and 9 to 12' in living, "Exhibit ONE's eight co names, 3 to 6 and 9 to 12")
+line([name_of[n] for n in rounds[1]] == [3, 4, 5, 6], "the round 11 to 19 is the names 3 to 6, the co names of a self's span")
+line([name_of[n] for n in rounds[2]] == [7, 8, 9, 10], 'the round 23 to 37 is the names 7 to 10, closing with 10')
+line([name_of[n] for n in rounds[3]] == [11, 12, 13, 15] and name_of[49] == 14, 'the round 41 to 53 is the names 11, 12, 13 and 15, passing over 14, the place 49')
+line(name_of[59] == 16 and name_of[61] == 17, '59 is 16, and 61 is 17, a next 1')
+turns = {2: 1, 6: 2, 30: 8, 210: 48, 510510: 92160}
+line(all(sum(1 for n in range(1, t + 1) if all(n % p for p in (2, 3, 5, 7, 11, 13, 17) if t % p == 0)) == c for t, c in turns.items()) and 1 * 2 * 4 * 6 * 10 * 12 * 16 == 92160, 'the places of the turns of 2, 6, 30, 210 and 510,510: 1, 2, 8, 48 and 92,160')
+line(121 == 11 * 11 and all(prime(n) or any(n % p == 0 for p in (2, 3, 5, 7)) for n in range(2, 121)), '121, 11 by 11, is the lowest crossed number that 2, 3, 5 and 7 cross not')
+line(13 * 17 == 221 and 23 * 25 == 24 * 24 - 1 and primes.index(37) + 1 == 12, '13 by 17 is 221; 23 by 25 is one short of 24 by 24; 37 is the twelfth prime')
