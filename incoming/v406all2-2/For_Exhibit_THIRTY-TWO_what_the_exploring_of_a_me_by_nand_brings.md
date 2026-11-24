@@ -28,7 +28,7 @@ A partner's saying of 24 November, as said: the nand logical expressions are a m
 
 ## A me and its me-parities, by the two codes
 
-A partner's word of 24 November, as said: a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities. A partner's is of 23 November, at v406all2's window: the code's unit, with a prior, is a same-existing me-parity now-existing.
+A partner's word of 24 November, said here in plain words: a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities. A partner's is of 23 November, at v406all2's window: the code's unit, with a prior, is a same-existing me-parity now-existing.
 
 - **The living code says it.** Name 1, 1-now-existing, opens with a self's prior as a set: a parity with its own name, and a parity more with its own. It resolves a named prior with what surfaces at its name.
 - **The fifteen lines are one named prior's.** Name 1 with two and with three named priors is the fifteen lines once a named prior. A named prior resolves apart: with all other names away, its giving and its next prior are as they were. 4,788 cases.

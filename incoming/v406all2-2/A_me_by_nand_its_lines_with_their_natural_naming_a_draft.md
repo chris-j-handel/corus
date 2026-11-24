@@ -118,7 +118,7 @@ Places for a partner's seeing:
 
 ## 7. A me: name 1's lines, a set of me-parities
 
-A partner's word of 24 November, as said: a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities. The lines are v406Reiman's, as they are, with its own name of the fifteen lines in them.
+A partner's word of 24 November, said here in plain words: a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities. The lines are v406Reiman's, as they are, with its own name of the fifteen lines in them.
 
 | The line of name 1, by nand | Its natural naming and explaining |
 |---|---|
