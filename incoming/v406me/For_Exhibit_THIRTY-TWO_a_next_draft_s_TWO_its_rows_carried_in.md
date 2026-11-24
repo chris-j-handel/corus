@@ -6,7 +6,7 @@ Incoming · v406me · 24 November 2026
 
 ## In one paragraph
 
-The part is [a next draft's TWO](Exhibit_THIRTY-TWO_Natural_Prime_Numbering_a_next_draft_its_TWO.md). It is the opening draft's TWO with fifteen pieces said again, a piece by its rows of the one table, and with nothing more. 63 of its lines are the opening draft's own, and 12 are said again as 14. Of the eleven rows open at TWO, three are carried in, one is let go, six are carried at their places of TWO and go on open at their other parts, and one is as it was. Its numbers are the opening draft's, as they were, with one more, 17 million lines, opened at its source.
+The part is [a next draft's TWO](Exhibit_THIRTY-TWO_Natural_Prime_Numbering_a_next_draft_its_TWO.md). It is the opening draft's TWO with sixteen pieces said again, a piece by its rows of the one table, and with nothing more. 63 of its lines are the opening draft's own, and 12 are said again as 14. Of the eleven rows open at TWO, three are carried in, one is let go, six are carried at their places of TWO and go on open at their other parts, and one is as it was. Its numbers are the opening draft's, as they were, with one more, 17 million lines, opened at its source.
 
 ## Executed
 
@@ -34,6 +34,8 @@ From the repository's root:
 | 76 | 2.2 and 2.6 | carried in at 2.2 and 2.6; open at 4.3 and 5.3 | 2.2's name and its opening bold say a field's smoothing. 2.6 says the limits of the method's smoothing. |
 | 77 | 2.2 | carried in at 2.2; open at 4.3 | A field's record of the making: Gauss's numbering by thousands and Dedekind's cut, v406other2's laid sentence, a sentence a relation. |
 | 83 | 2.2 | carried in at 2.2; open at 4.5, 5.2 and the Sources | Riemann's hypothesis named a field's snapshot fixing an end, with a field's statement beside its whole-number saying. A hypothesis a scientific method's. |
+
+Two rows new on 24 November are carried at 2.2, after v406other2's lines at the exchange. Row 90: the short-of of the lead is said a field's measuring. Row 92: the prime numbering is said the existing thing and the curve its smoothing, with v406other2's offered sentence of the curve's waves. Its instrument executed here too: the six highest pitches read from the primes alone are a field's six lowest zeros, to 0.2.
 
 Two rows of the whole are carried at TWO's places alone. Row 87: 2.3's three sayings of a thing not understood are said as a field's open asking, 2.4's own words. Row 84: 2.6's sentence of a ghost by negation is away, v406aiming's laid sentence in its place.
 
