@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-four turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-five turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1242,3 +1242,26 @@ Three of rigor's findings are in my page as they are, with no one saying of them
 From here I number, rigorize and resolve with no harm, and bring you an is-or-is-not alone that I am unable to resolve, explained.
 
 since there are remaining unresolved things there is always a hardest one to ask or you could simply keep going and we would be farther along and that would be better than this pace
+
+The circle of my and own is resolved in the document, and I am going on. One is-or-is-not is left that I cannot resolve by cohering alone.
+
+**Done in the document**
+
+- **Line 25 is said again:** *My is a named prior-sequence.*, with line 17 and name alone. It was *My is an own-named prior-sequence.*, and *Own is the name of my-universe.* says my, so the two were a circle.
+- **Why this saying:** five sayings of my leave the chain whole. This one adds no word to 25 as it was, with own away, and it is line 17's own name.
+- **Own is a given word until its line,** as other-than is at 2 until its line, 4. It is the document's own rule, *a given word leaves them once a line names it*, and the lines as you redid them rest on it.
+- **The living list's table is said again in place,** at own, a and an.
+
+Own is at 18, 22, 23, 26 and 28 now.
+
+**The hardest, of own's line**
+
+*Own is the name of my-universe.* is at no line yet. Bringing it in after 25 moves nine line numbers; leaving it out moves none. Both are with the document's rigor, so cohering alone does not part them.
+
+*Own's line comes in after 25, and the lines from 26 on are a number more.* ( is-or-is-not? )
+
+- **Is:** own is named at 26, me is 27, and the lines go to 35. The other sessions' pages have nine line numbers to say again, and the waiting cards numbered 35 and on are a number more.
+- **Is-not:** own is a given word with no line, no number moves, and its sentence waits floating.
+
+Now is the only thing is the universe with no other-than.
+All now-existing things own-their-own now.
