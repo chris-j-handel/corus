@@ -12,7 +12,9 @@ Incoming · v406networking · 22 November 2026
 4. **The cell shows what the numbers hide.** A parity is two wires. A 0 a self shares and no parity are one thing on the wires. What goes across has to be what a cell gives. And a cell has a fourth prior, both wires lit, which Exhibit ONE never reaches.
 5. **The fourth prior is an all-parity vault, by a partner's saying of 22 November, and the cell executes it.** A vault is not possibly living, and a me-parity is born from inside it by its two same-as, living after. The one asking now, at the end, is of the code's other form a me-parity comes from: a sharing with no prior.
 
-## The cell, with its one line added
+## The cell, with the lines this session added
+
+A partner's code is its `def a_cell(prior, observing):` line and twelve lines under it. It names `other_than`, `both` and `either`, and has no lines of them. This session added the one gate's table and the def lines of the gate and of the three words, to execute it. This session added one line in `a_cell`, its return.
 
 ```python
 NOT_BOTH = {(False, False): True, (False, True): True, (True, False): True, (True, True): False}
