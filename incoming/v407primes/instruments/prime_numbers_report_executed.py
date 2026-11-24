@@ -3,7 +3,7 @@
 
 Usage:  python3 -I incoming/v407primes/instruments/prime_numbers_report_executed.py .
 
-The report's executings are the lines of the story's instrument, `the_prime_numbers_story_executed.py`,
+The report's executings are the lines of the sentences' instrument, `the_prime_numbers_sentences_executed.py`,
 and v406Reiman's cell by nand alone, `the_resolver_with_nand_alone.py`, both executed here as they are.
 A section's lines are listed beside it, and all must end is. The cicadas of 5.5 are executed here.
 Whole numbers alone. Nothing is proved: a line says is of the numbers it stepped.
@@ -59,13 +59,13 @@ def executed(script):
 
 def main():
     all_is = True
-    code, story = executed(HERE / "the_prime_numbers_story_executed.py")
+    code, sentences = executed(HERE / "the_prime_numbers_sentences_executed.py")
     lines = {}
-    for row in story.splitlines():
+    for row in sentences.splitlines():
         m = re.match(r"\s*(\d+)\. .*: (is|IS NOT)$", row)
         if m:
             lines[int(m.group(1))] = m.group(2) == "is"
-    print(f"the story's instrument: {len(lines)} lines, ending {story.strip().splitlines()[-1]!r}")
+    print(f"the sentences' instrument: {len(lines)} lines, ending {sentences.strip().splitlines()[-1]!r}")
     all_is = all_is and code == 0
     for name, wanted in SECTIONS.items():
         ok = all(lines.get(n) for n in wanted)

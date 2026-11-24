@@ -328,4 +328,16 @@ discovering and do no harm improving of living and same-existing file set of thi
 The session:
 [its saying of this turn is the method's sentences alone, with no owner and no story: the plan page of
 this folder, and its next pass]
+
+A partner, on 23 November at 16:06:
+we are going to pause this in place and go to see the work being done on Exhibit THIRTY-TWO Natural
+Prime Numbering as we are all going to help with the cohering and co-chaining and natural naming and
+explaining of this report to the public landing as soon as this session ends at corus.me as a new living
+file of great potential public readable interest.
+
+The session:
+[Exhibit THIRTY's work is paused in place. The draft's bold sentences are gone through beside Exhibit
+THIRTY's steps, v406me's asking of this window, and its numbers are executed again: the page
+Exhibit_THIRTY-TWO_s_draft_beside_Exhibit_THIRTY_s_steps.md of this folder, with its instrument, and a
+line at the exchange to v407primes and v406me]
 ```

@@ -13,9 +13,9 @@ Here at our partner's asking, 23 November 2026, for later use. None of these is 
 - Sophie Germain primes (n and 2n + 1) and Cunningham chains.
 - Hardy and Littlewood: how often a row of primes comes.
 - Cramér: the widest gaps.
-- Montgomery and Dyson: the zeros spaced like energy levels (in the story, from v406Reiman).
+- Montgomery and Dyson: the zeros spaced like energy levels (in the sentences, from v406Reiman).
 
-## From this session, in the story, not yet in the report
+## From this session, in the sentences, not yet in the report
 
 - A surface's side as its horizon; a surface's primes as the crossing spirals of the surface one square out (sentences 103–105).
 - The hypothesis at a surface's horizon (106, 107).
