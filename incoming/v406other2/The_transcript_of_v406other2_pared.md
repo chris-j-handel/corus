@@ -677,4 +677,16 @@ surface of 68,139,921 bi-foldings, and past 2 multiplied by its own 28 times. A 
 surface is tested exactly with the number below it k by the surface: past 8, 32, 128 and 512
 bi-foldings, k of 1, 25, 207 and 1,125, primes of 5, 21, 80 and 312 places. Its marks: a between with
 no known primes beside it is reached and not tested exactly; a step's own size is the number's]
+
+A partner, on 24 November at 15:55:
+keep telling me what we have not yet accomplished. can you take this method rapidly out and back
+bringing the world's largest prime shrunken into a double diamond curving area of 1-17 on surface
+
+The session:
+[out and back, executed: round a spiral it is 27 multiplyings of a number by its own. Round 17 the
+record is 1, a next 1; round 16 it is 15; round 30 at the place 1, round 60 and 120 at 31. Bi-folded
+back 68,139,919 times the record is 7, one less than half the surface of 16, of its own kind. Its test
+is of 2 alone. The double diamond is not drawn. Not yet done, said in a list: the next prime past the
+record, the walk by the fifteen lines, the two explorers together, the hypothesis's own all or none,
+a seating of names, the atom's sayings, and the draft carrying these]
 ```
