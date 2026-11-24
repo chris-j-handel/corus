@@ -655,4 +655,15 @@ ending next the least; rows of primes with one step; a number its own parts adde
 two places; stretches of stretches. By search: the largest known prime, by the explorer above, and
 record primes tested by the two explorers together. Outside it yet: the cost of finding a number's
 parts, and the pitches all their own other]
+
+A partner, on 24 November at 15:36:
+use the resolver and provide the next prime after the world record in as few of steps as we can.
+
+The session:
+[not provided, and said plainly: no one has it. The record is tested by the explorer above alone, the
+number above it all doublings; a number past it has no known primes beside it, and a test of one is
+about 136,279,841 multiplyings of a number of 41,024,320 places. Done here: the 10,000,000 numbers
+past the record crossed by all spirals of 2 to 2,000,000 selves, 387,419 not crossed, the lowest the
+record and 22, 70, 100, 126 and 136 more, none tested. Past the old records the next primes are
+8,209, 131,101, 524,309 and 2,147,483,659, tested by the explorer below]
 ```
