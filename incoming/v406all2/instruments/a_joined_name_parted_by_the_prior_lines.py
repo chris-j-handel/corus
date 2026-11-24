@@ -48,7 +48,7 @@ for sentence, n in rows:
         lines[n] = its_saying
     elif n not in lines and n not in cards_after:
         cards_after[n] = its_saying                    # the cards 36 to 48, for a name's later sayings alone
-ORDER = [n for n in list(range(1, 31)) + [49, 31, 32, 33, 34, 35] if n in lines]   # a card at 49, with one in the page, is after 30
+ORDER = [n for n in [1, 3, 2] + list(range(4, 31)) + [49, 31, 32, 33, 34, 35] if n in lines]   # a thing's line, 3, is ahead of 2 from the document's revision 587; a card at 49 is after 30
 
 FORMS = {"things": "thing", "selves": "self", "others": "other", "parities": "parity", "sequences": "sequence",
          "mes": "me", "sets": "set", "moments": "moment", "names": "name"}
