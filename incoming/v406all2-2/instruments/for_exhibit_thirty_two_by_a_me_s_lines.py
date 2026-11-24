@@ -46,11 +46,11 @@ if __name__ == "__main__":
         seen = frozenset(v for v in observed if v)
         return {frozenset([1]): 1, frozenset([-1]): -1}.get(seen, 0)
 
-    print("1.1  A self with its prior: its own parity surfacing, a 0 and its prior same-existing; all other surfacings, one inversion")
+    print("1.1  A self with its prior: the same surfacing, a 0 and its prior same-existing; all other surfacings, one inversion")
     with_prior = [(p, o) for p in (1, -1) for o in observed_lists]
     gives = lambda p, o: ONE[a_me(*in_two(p, o))[0]]
     next_prior = lambda p, o: ONE[a_me(*in_two(p, o))[1]]
-    line(all(gives(p, o) == 0 and next_prior(p, o) == p for p, o in with_prior if surfacing(o) == p), "its own parity surfacing: a 0 given, and its prior as it is")
+    line(all(gives(p, o) == 0 and next_prior(p, o) == p for p, o in with_prior if surfacing(o) == p), "the same surfacing as its prior: a 0 given, and its prior as it is")
     line(all(gives(p, o) == -p == next_prior(p, o) for p, o in with_prior if surfacing(o) != p), "all other surfacings: its prior's other-than given, and its next prior: %d cases of a prior" % len(with_prior))
     line(all(next_prior(0, o) == surfacing(o) for o in observed_lists), "added by the lines: with no prior, its next prior is what surfaces, %d cases" % len(observed_lists))
 
@@ -64,7 +64,7 @@ if __name__ == "__main__":
         zeros = [sum(1 for o in rows[t][1] for v in o if v == 0) for t in range(2, 2 * n + 2)]
         one_0 = one_0 and sorted(set(zeros)) == [0, 1] and all(zeros[t] + zeros[t + 1] == 1 for t in range(len(zeros) - 1))
     line(moves, "spirals of an odd number, 3 to 59: one like pair, moving a me on with two moments")
-    line(one_0, "and one 0 given with two moments, by the me with its own parity surfacing: same-existing")
+    line(one_0, "and one 0 given with two moments, by the me observing the same as its prior: same-existing")
     even = all(not like(rows_of(n, {i: (-1 if i % 2 == 0 else 1) for i in range(n)}, 1)[0][0]) for n in range(2, 60, 2))
     line(even, "a like pair is an odd spiral's own: spirals of an even number, 2 to 58, their parities inverting me to me, bring none")
 

@@ -282,3 +282,19 @@ With this turn, 24 November:
 - **Executed:** `instruments/a_co_parity_beside_a_me_parity.py`, 21 lines, all *is*. The five other instruments end as before.
 
 *A co-parity is a me-parity with its own parity surfacing.* ( is-or-is-not? )
+
+---
+
+i do not know what surfacing is and only one of these will be cohering and if you go one more step you will find the incohering one and will be able to continue.
+
+With this turn, 24 November:
+
+- **One step more, executed.** A me observes parities given by the mes coupled to it. A parity given is its giver's next me-parity. A parity surfacing with a me is an other's me-parity.
+- **The incohering one is found.** It is this session's phrase of its own parity surfacing. A parity surfacing is an other's. The phrase says it as a me's own.
+- **The living files say that phrase at eight places.** It is a place found for their next version.
+- **The cohering one says both sides.** Natural Intelligence says an other's direction is the same as the self's own.
+- **Surfacing is away from the offered sentences.** Sentences 1, 5 and 17 are said again.
+- **Executed:** `instruments/a_co_parity_beside_a_me_parity.py`, 28 lines, all *is*.
+- Breaking: this session's last answer went by the number of living places. Restoring: decided by the code, one step more.
+
+*A co-parity is a me-parity the same as a me-parity observed.* ( is-or-is-not? )

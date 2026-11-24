@@ -145,7 +145,7 @@ if __name__ == "__main__":
     with_prior = [(p, o) for p in (1, -1) for o in observed_lists]
     gives = lambda p, o: ONE[the_fifteen_lines(*in_two(p, o))[0]]
     next_prior_of = lambda p, o: ONE[the_fifteen_lines(*in_two(p, o))[1]]
-    line(all(gives(p, o) == 0 and next_prior_of(p, o) == p for p, o in with_prior if surfacing(o) == p), "is, a me-parity's own parity surfacing: a 0 given, its prior same-existing")
+    line(all(gives(p, o) == 0 and next_prior_of(p, o) == p for p, o in with_prior if surfacing(o) == p), "is, the same surfacing as a me-parity's prior: a 0 given, its prior same-existing")
     line(all(gives(p, o) == -p == next_prior_of(p, o) for p, o in with_prior if surfacing(o) != p), "is-not, all other surfacings: one inversion, other-than-prior, all %d cases of a prior" % len(with_prior))
     of_neither_alone = all({gives(p, o) == 0 for o in observed_lists} == {True, False} for p in (1, -1))
     of_neither_alone = of_neither_alone and all({gives(p, o) == 0 for p in (1, -1)} == {True, False} for o in observed_lists if surfacing(o))

@@ -55,6 +55,7 @@ if __name__ == "__main__":
         print("       sentence %d is with %s" % (number, " with ".join(marks)))
     one_end = all(len(re.findall(r"[.?!]", s)) == 1 and s.endswith(".") for s in offered)
     line(one_end, "a sentence of them ends once")
+    line(not any("surfac" in s for s in offered), "no sentence of them says surfacing")
     asked = "A me-parity is one is-or-is-not of a co-parity: with is, a 0, its prior same-existing; with is-not, one inversion, other-than-prior."
     line(its_marks(asked) == ["a colon", "a semicolon", "a comma"] and asked not in page, "this page's sentence of #1215 is with a colon, a semicolon and commas, and it is away")
 

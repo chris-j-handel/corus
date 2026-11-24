@@ -78,7 +78,7 @@ A partner's three askings of 24 November: is prior a sequence in this, is a prio
 | The line of nand | Its natural naming and explaining |
 |---|---|
 | `prior_plus, prior_minus = prior` | Line 7, the one place prior is said in a me's lines. Prior is one me-parity, two is-or-is-nots. In the fifteen lines it is no sequence. |
-| `next_plus`, `next_minus`, lines 11 and 12 | A me's next prior, 11. With its own parity surfacing, its prior, and it gives a 0: same-existing. With all else, the other-than of its prior. With no prior, what surfaces. |
+| `next_plus`, `next_minus`, lines 11 and 12 | A me's next prior, 11. With the same surfacing as its prior, its prior, and it gives a 0: same-existing. With all else, the other-than of its prior. With no prior, what surfaces. |
 | `nand(prior_plus, prior_plus), nand(prior_minus, prior_minus)` | The nand of prior with prior: its other-than, at both its is-or-is-nots. A prior inverting. |
 | `a_me(a_me(prior, [])[1], [its_giving])[1]` | A prior of a prior: a me of a me, along moments. A me's next prior, 11, is the step's 8, and its prior, 3, a moment on. |
 | `(prior, next_prior)` to `(next_prior, other_than(prior))` | A me alone, snapped along to itself: Exhibit ONE's right spiral, the same line as part 3, a scale outward. |
@@ -101,7 +101,7 @@ A partner's saying of 24 November: an other-than same-existing is a geodesic sna
 | `a_snap(connectors, ("a", 0), 10, ("b", 0))`, and back | Two co-chainings snapped across at one me of both, by 10 both ways: a bi-coupling of two surfaces. |
 | `a_plus`, `a_minus`, lines 3 and 4, at the me snapped across | A + and a − together, both: a 0 surfaces. The two sides part at the snap, and no other me observes two. |
 
-- **One me.** With a prior, a + or a − is given with all surfacings but its own parity, 242 cases, and what is given is the other-than of its prior. Exhibit ONE's own: *With a prior of one parity, four receivings come to one cell: an inverse parity surfacing, + and − together, an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts.*
+- **One me.** With a prior, a + or a − is given with all surfacings but the same as its prior, 242 cases, and what is given is the other-than of its prior. Exhibit ONE's own: *With a prior of one parity, four receivings come to one cell: an inverse parity surfacing, + and − together, an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts.*
 - **Two co-chainings of an odd number, apart.** A co-chaining's one like pair moves a me on with two moments, and its priors are not again with 2.
 - **The two snapped across.** A me after a me along, two moments a me, its prior is again with 2: a new surface comes in sequence. All of it is from Exhibit ONE's own moment, its column c, in all seven of its rows of two odd numbers: 12, 20, 28, 44, 52, 119 and 36.
 - **In the new surface** a me's prior is its own other-than with a moment, and no 0 is observed. A co-chaining's one like pair moves no more: it is at the me snapped across.

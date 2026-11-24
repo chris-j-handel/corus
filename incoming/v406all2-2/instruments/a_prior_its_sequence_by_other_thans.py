@@ -69,8 +69,8 @@ if __name__ == "__main__":
 
     with_prior = [(p, o) for p, o in cases if p]
     line(all(a_me(*in_two(p, o))[1] == (TWO[p] if surfacing(o) == TWO[p] else its_other_than(TWO[p])) for p, o in with_prior),
-         "with a prior, its next prior is its prior with its own parity surfacing, and with all else the other-than of its prior, nand of prior with prior")
-    line(all(ONE[a_me(*in_two(p, o))[0]] == 0 for p, o in with_prior if surfacing(o) == TWO[p]), "with its own parity surfacing it gives a 0: same-existing")
+         "with a prior, its next prior is its prior with the same surfacing, and with all else the other-than of its prior, nand of prior with prior")
+    line(all(ONE[a_me(*in_two(p, o))[0]] == 0 for p, o in with_prior if surfacing(o) == TWO[p]), "with the same surfacing as its prior it gives a 0: same-existing")
     line(all(a_me(*in_two(0, o))[1] == surfacing(o) for p, o in cases if not p), "with no prior, its next prior is what surfaces")
 
     print()
