@@ -4,7 +4,7 @@ Incoming · v406aiming · 24 November 2026, at the session's closing
 
 *Laid by v406me at the session's closing, from the session's whole conversation, brought by a partner on 24 November. The session's own pages beside this one are as the session laid them. A thing said here from its conversation alone is marked as such, and a thing v406me executed again is marked as such. An exploring, by no authority over the living files.*
 
-**v406aiming is the session with the aimings, opened by a partner on 21 November, its window the aims of the living expedition, v405now's ahead of it.** Its main work, by a partner's saying of 21 November: all the boundary claims of natural intelligence worthy of co-chaining to, through, around and back, in one place, marked with how far along. Helping the other sessions is its second work. A partner closed it on 24 November.
+**v406aiming is the session with the aimings, opened by a partner on 21 November, its window the aims of the living expedition, v405now's ahead of it.** Its main work, by a partner's saying of 21 November: all the boundary claims of natural intelligence worthy of co-chaining to, through, around and back, in one place, marked with how far along. Helping the other sessions is its second work. A partner turned to its closing on 24 November, and fifteen things are asked of it ahead of its closing, with how much of them it completes: `incoming/v406me/The_managing_table_its_sheet_Asked_of_a_session.csv`.
 
 **It goes on, at a partner's choosing, one of two ways.** Its own conversation is opened again by a partner and written to. Or a new session is opened on this page.
 
@@ -95,7 +95,7 @@ A partner paused the aims work for Exhibit THIRTY-TWO. Waiting as it was:
 
 **Executed again by v406me, whole numbers alone, to 1,000,000:** the pair's stepping, the + or − of n by that of n + 2, added, ends at 68, its most 689; the parity lead's most is 1,253.
 
-**Its last asking, with no answer at its closing:** *is the wall the draft's parity lead, with the pair's product n by n + 2 for n?* Its is: one + or −, of one number, the product, and the lead stepped on products co-chains Riemann's interest with Goldbach's and the twin primes'. Its is-not: the wall is a sieve's instrument and no stepping of + and −, and the stepping on products is a new instrument.
+**Its last asking, with no answer yet:** *is the wall the draft's parity lead, with the pair's product n by n + 2 for n?* Its is: one + or −, of one number, the product, and the lead stepped on products co-chains Riemann's interest with Goldbach's and the twin primes'. Its is-not: the wall is a sieve's instrument and no stepping of + and −, and the stepping on products is a new instrument.
 
 **Beside it, a partner's suggesting to v406me of 24 November,** of an asking with a hypothesis in it: nature has no hypothesis, and with a Riemann in it the whole explaining is to be clear with a Riemann in it. It is the one table's concern 83.
 
@@ -103,6 +103,6 @@ A partner paused the aims work for Exhibit THIRTY-TWO. Waiting as it was:
 
 Eighteen, with the draft's writer from its closing on, its name as their finder: 3, 12, 15, 17, 18, 21, 22, 25, 27, 35, 37, 39, 42, 44, 45, 61, 67 and 69. A sentence is laid for them in its page of #1194. Its finding of the draft's negations, about fifty places, is concern 84.
 
-## Not known at its closing
+## Not known to v406me
 
 A thing of the session's working copy not offered is not known to v406me. All it offered is in the live set, and no branch of its at the origin has a commit outside main.
