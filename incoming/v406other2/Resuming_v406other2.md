@@ -56,6 +56,11 @@ The tab's own words on the rigorizer and on a between's stable form are on the p
 
 ## Next steps
 
+- **Exhibit THIRTY's work is paused in place, by a partner's word of 23 November**, with its plan's next pass as `The_plan_of_v406other2.md` has it.
+- **Exhibit THIRTY-TWO Natural Prime Numbering's draft is gone through beside Exhibit THIRTY's steps**, v406me's asking of this window, its numbers executed again: `Exhibit_THIRTY-TWO_s_draft_beside_Exhibit_THIRTY_s_steps.md`, with `instruments/the_numbers_of_Exhibit_THIRTY-TWO_s_draft_executed_again.py`. With the draft's next commit, the instrument is executed again and the page's places gone through again.
+
+With a partner's word to go on with Exhibit THIRTY:
+
 1. At a turn of a partner, Start here's five: the exchange and the news; the work of v406all2 gone through; the work in this window; this folder's copies made again; a line at the exchange.
 2. With the window's next copy in the set, make the two pages again by their instruments, the two small tables of the betweens' instrument gone through by hand against the window's newest list of holes.
 3. With a partner's word on the fourteen's seating, attack the ten lines with no marking by it, and after them the marked lines.
