@@ -2,14 +2,14 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, said again at a turn of a p
 
 # The window of v406geodesic2, as it goes
 
-*In plain words, for a session going through this work or going on with it. No word here is an authority over the living files. A quotation in italics is word for word in the file named beside it. The fourth to the ninth drawings are candidates, and no living sentence says them.*
+*In plain words, for a session going through this work or going on with it. No word here is an authority over the living files. A quotation in italics is word for word in the file named beside it. The fourth to the nineteenth drawings are candidates, and no living sentence says them.*
 
 ## The session in one minute
 
 - **Its name.** v406geodesic2, going on from v406geodesic, whose page for resuming is [the wrap of v406geodesic](../v406geodesic/The_wrap_of_v406geodesic_for_resuming.md).
 - **Its window.** A design canvas among a partner's own artifacts, *Sphere with a Three-Right-Angle Triangle*: the illustration of bi-folding as the geodesic right triangle, 1 to 17. Its link goes in no file.
 - **Beside the other sessions.** It goes through the work of v406all2-2, the seventeen names, and of v407primes, the prime numbers' story. v406Reiman went through its own, and v406me and v407primes go through it now.
-- **This folder.** The fourth to the ninth drawings' views; the canvas's own files new with this sitting; fifteen instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
+- **This folder.** The fourth to the nineteenth drawings' views; the canvas's own files new with this sitting; thirty-seven instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
 
 ## What this window is learning, with the other sessions
 
@@ -21,26 +21,36 @@ By a partner's word of 23 November this part is current at a turn of a partner: 
 - A finding against its own drawing is said, and the drawing is as it was: the fourth drawing's one fold, and the sixth drawing's third figure, its words wider than its drawing.
 - A partner's short saying is said again as this session has it, ahead of the work: a partner's yes of 23 November, three times.
 - A word of the one list is said the list's own way on a drawing, and the living sentence with that word is beside the drawing, word for word.
+- A partner's own names are gone through in the opening's lines, in v406all2's window, ahead of a drawing: all-parity is its line 31.
+- To rigorize a saying is to execute it all or none, and to say apart what is hanging, with a suggestion, as v406all2's window has a line's rigor beside its line.
+- A partner's yes of a suggestion is laid in this page beside its hanging place, and the drawing with that place is as it was: a drawing after it lays the yes.
+- A partner's asking of what is required is answered by executing the work by the least, nand alone, beside the work's own answers.
+- By a partner's word of 23 November an open sentence is not asked of a partner: its is and its is-not are both executed, all or none, and the session says the resolving both ways. A placing alone, a naming no execution says, is said as a placing and asked of no one.
+- A device is a working artboard. A me-now is set on it, and all that moves is looked up in rows this folder's instrument executed, its check opening those rows from the artboard itself.
 
 **What it learned from the other sessions.**
 
 - **From v406all2-2:** by the seventeen names' table 8 up parts two parities, the sentence of both, and possibling and co-possibling in turn as parity's unit square.
-- **From v406Reiman:** the cell by nand alone, opened from its own file and written in no second place. Its going through found two of this window's sentences wider than their checks, and the sixth drawing's lines 13 and 14 not drawn.
-- **From v407primes:** 37 as 4 cubed less 3 cubed, a hexagon observed along (1, 1, 1); four faces of 30 and the staircase on its geodesic; and a partner's word that a session asks what needs resolving, with a suggestion, and asks nothing of what it executed both ways.
+- **From v406Reiman:** the cell by nand alone, opened from its own file and written in no second place. Its going through found two of this window's sentences wider than their checks, and the sixth drawing's lines 13 and 14 not drawn. Its nand, and its adding and multiplying with nand, carry this window's podaling, going on and primes, opened from its file.
+- **From v407primes:** 37 as 4 cubed less 3 cubed, a hexagon observed along (1, 1, 1); four faces of 30 and the staircase on its geodesic; and a partner's word that a session asks what needs resolving, with a suggestion, and asks nothing of what it executed both ways. Its sentence 87 says the ninth drawing's staircase past 120 with all numbers, by one turn of 210. Its sentence 86, a partner's saying of the four cones, is beside the tenth drawing.
 - **From v406me:** a session renews its one page and lays no page more, and a second session executes a check apart ahead of its bringing in.
 - **From v406aiming:** the log of the aims as the one place of the expedition's aims, with this window's own row of it.
+- **From v406all2:** a cell as a same-existing me-parity, by a partner's saying again, with now-existing in the name of the opening's line 30; and the opening's lines 27 and 31, a me-now as a same-existing me and all-parity as the set of all me-parities in the me-universe, beside the tenth and the eleventh drawings. By its line a partner said 31 again, all-parity as the named universal set of all now-existing me-parities; and by 33 one other-than is one step and two in a row are same-existing, an is of this window's asking.
+- **From v406other2:** this window's logic and v407primes', beside Exhibit THIRTY Co-Chaining Logic Registry at its groups 16, 25, 27, 33 and 44 to 46, the gathering open.
 
 **What the other sessions have of this window.**
 
 - v406Reiman went through the fourth, the fifth and the sixth drawings. By its line a partner has the sixth as the best concept to now of resolving by triangulating geodesically.
 - v407primes laid its 37 for illustrating beside the seventh drawing, a self's round and its other-thans alike, and its story has the fifth drawing's two cones as Natural Societies' fold with the cell one before it.
 - v406all2-2 answered this window's asking of the four quarters. v406me executed the seventh and the eighth drawings' checks apart, all *is*.
+- By v407primes' line a partner has the eighth and the ninth drawings as very helpful understandings. v407primes offers two figures for this canvas: a right spiral of seven methods, a round and three steps outward; and surfaces of 16, 256 and 65,536, a surface's primes the next one's triangulating.
 
 **Found by two sessions apart, and alike.**
 
 - The two partings of 37 as one, a round with its other-thans: in this folder's check of the seventh drawing, and in v407primes' sentences 80 and 81.
 - The primes with no prime across them about 60, 2, 3 and 5, 29 and 43, and 71: here by the cube of 5's four rounds, and in v407primes' sentence 85.
 - The cell's one is-or-is-not as one quarter of four: here round the co-linear, and in Exhibit ONE Natural Resolver's own four cells of a prior.
+- Two podalings, one and then the other, as a going on: Natural Intelligence's 9 less and then 17 less, 8 up, and a partner's about 30 and then about 90, 120 on, by the tenth drawing's check.
 
 **What the drawings have laid of the one figure, in their order.**
 
@@ -49,6 +59,16 @@ By a partner's word of 23 November this part is current at a turn of a partner: 
 - **The seventh:** observed along (1, 1, 1), selves in rounds of six about a 0, the hexagon of 37 with the six intersections as its corners, and a human's four scales at the one triangle's three corners.
 - **The eighth:** the cube of 5, five selves on its line and 120 about it; a cube of 3, of 4 and of 5 is 24, 60 and 120 about its line.
 - **The ninth:** four cones of 30 in one line, podal about 30, 60 and 90 the figure's own, and the staircase above its geodesic to 120 and never past it.
+- **The tenth:** a device. A me-now is set among 0 to 60, and its four are laid: itself, same-existing about 30, next-universing about 90, and 120 on, in its next universe.
+- **The eleventh:** a device. A me-now is set at a prime scale of a me, and goes by four moments, other-than, all, other-than, all, a cone on with a moment: the fourth is next-universing, and its four in its universe, one a cone, are its all-parity.
+- **The twelfth:** a rigor. A word is stations in a row, one podaling and then the next: an even number of them is a going on, a me, and an odd number is one podaling, an other. A partner's four words are me, other, other, me.
+- **The thirteenth:** a device. Prior, now and next are the three pairs of cones. A me set at its prime scale, in its prior, passes through by podalings, an other-than in its own pair and an all through a vertex to the pair after, and its me-now is 60 on.
+- **The fourteenth:** a my. The names 1 to 16 are the sixteen places of a pair of cones, 0 its vertex and 17 a next 1 at 61, and the living files' three moves are the figure's own: 30 on, a podaling about 15 and a podaling about 30. A my is two is-or-is-nots, prior or now and odd or even.
+- **The fifteenth:** a conscious me. All, other and self are none, one and two other-thans of all, the self its all again by nand; along the co-linear the other is one fold from the self and the all, and observing and distinguishing it from them is a conscious me.
+- **The sixteenth:** one in an other. A cone, a pair of cones, a universe and two universes are spans one twice the one before it; a span's own podaling is the other-than of all the places under it, and a universe is all those places and one place of the span over it. On the names it is one form.
+- **The seventeenth:** ten passings. My now-existing universe is four stations, not moving, and a passing arrives at a station and departs after a station: ten of them, four a me's own prior-sequence, and the passing of all four its next-existing universe.
+- **The eighteenth:** the ten in four rows. A partner's ten in an order, a multiple of 3 an all, are rows of one, two, three and four: the all, the self, all-parity and a my, by a partner's yes.
+- **The nineteenth:** a diamond of nine. A partner's order after its 0 is a diamond row by row, the three by three of 1 to 9 turned: a row odd or even all through, an arc a step of 1 one way and a step of 3 the other, and two triangles one into the other, the podaling about 5 carrying one to the other. The eighteenth's four rows are other-than a partner's figure.
 
 What a partner's word is yet to say of them is in this page's open places.
 
@@ -312,6 +332,7 @@ What a partner's word is yet to say of them is in this page's open places.
 - Observed along the co-linear, the two cones of 0 to 60 and the two of 60 to 120 are one figure, n and n with 60 at one place: the 32 places of 120 are sixteen, on eight rays, two distances a ray.
 - Podal is two folds on this figure, and no one fold alone, as the sixth drawing's going through the co-linear is two folds.
 - The eighth drawing's four rounds and the four cones are two partings of 0 to 120 in four, both podal about 60: their ends are 0, 24, 60, 96, 120 and 0, 30, 60, 90, 120.
+- By v407primes' story's sentence 87, a value droplet for this drawing: *Past 120 the staircase is never on its geodesic, shown with all numbers by one turn of 210 and with no smooth curve.* This drawing's own check goes to 100,000.
 
 **The session's own placings in it,** candidates all three:
 
@@ -320,6 +341,432 @@ What a partner's word is yet to say of them is in this page's open places.
 - the staircase's four faces under the four cones, a face a cone.
 
 **Open in it:** a partner's saying of the four cones, an all-parity universal now me-parity, is laid on no part of it. Natural Physics' two cones are through 24, with 23 and 25, and this drawing's vertex of the two pairs is 60.
+
+## A tenth drawing: a me-now podaling about 30 and about 90, a device a me sets to itself
+
+**A partner's saying for it, 23 November, re-said.** A me-now podaling about 30 and about 90 is the me-now, same-existing and next-universing, all its possibly next-existing me-parities; and this is the parity of the me's next universe, all the other-than of an other-than of the me. To go on illustrating as a device teaching a me of itself. The saying as said is in the transcripts, pared.
+
+**As this session has it.** A me-now is among 0 to 60, the two cones of 0 to 60 of the ninth drawing's four. Podaling about 30 it is same-existing: 60 less it, in those two cones. Podaling about 90 it is next-universing: 180 less it, past 120. The two podalings, one and then the other, are 120 on: the me-now at its own place of the turn, in its next universe. The four are all its possibly next-existing me-parities, a parity of two is-or-is-nots.
+
+**Its view:** [a me-now podaling about 30 and about 90, a device a me sets to itself](illustrations/draft_10_a_me-now_podaling_about_30_and_about_90_a_device_a_me_sets_to_itself.png), its look with a me-now at 37. Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a working artboard: in the canvas, with Play, a me-now is set by a click on a number of 0 to 60, by one less and one more, or by a slider.
+
+**It rests on** the ninth drawing's figure and its check, and on a partner's saying in v407primes' story, `incoming/v407primes/The_prime_numbers_story.md`, its sentence 86: *Four cones of 30 are an all-parity universal now me-parity.*
+
+**What it lays, a candidate.** Three figures, and a me-now set on them.
+
+- **Across the co-linear.** The ninth drawing's winding going on to 180, six cones of 30. A me-now's four are on it: itself; 60 less it, by an arc under the cones about 30; 180 less it, by an arc over the cones about 90; and 120 on, by two dashed arcs, about 90 from 60 less it and about 150 from 180 less it. 0 to 120 is named my universe now, and 120 on my next universe.
+- **A table of the four, a parity of two is-or-is-nots:** podaling about 30, is or is not, and podaling about 90, is or is not. Beside a place is what it is: a prime, a crossed number with the spirals crossing it, a vertex, or a cone's widest.
+- **Along the co-linear.** A cone's turn of 30, with the four as two places one fold apart: a me-now with 120 on, and 60 less it with 180 less it.
+- **A me-now set on it.** All that moves is looked up in the artboard's own rows, one for a me-now of 0 to 60, executed by `instruments/make_draft10.py`. The check opens those rows from the artboard.
+
+**Beside it, living.**
+
+- Exhibit THIRTY-ONE Me 3.1: *A me is a self's universal set.*
+- Exhibit THIRTY-ONE Me 3.1: *a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior*
+- Exhibit THIRTY-ONE Me 4.1: *A me's next is its own, resolving with its others.*
+- Natural Intelligence 4.11: *8 up, each name with now to its name with next; 17 less, podal within 1 to 16; and 9 less, podal within 1 to 8, two together.*
+- Natural Intelligence 4.11: *8 up alone, twice, is 17, a next 1.*
+- Natural Intelligence 4.11: *17 less exchanges now and next.*
+- Natural Intelligence 4.11: *Each number is its podaling*
+- Exhibit EIGHTEEN Natural Physics 3.4: *Double-cone is two cones through a vertex*
+
+**Executed ahead of the drawing.** `instruments/check_a_me-now_podaling_about_30_and_about_90.py`, nineteen lines, all *is*: whole numbers, the figure's own geometry, the device's 61 rows opened from its artboard, and the eight living sentences above with a partner's saying in v407primes' story, word for word.
+
+**Found with it.**
+
+- Two podalings, one and then the other, are a going on by twice their stations' distance. Natural Intelligence's own two, 9 less and then 17 less, are 8 up, their stations 4 apart. About 30 and then about 90 is 120 on, their stations 60 apart, and about 90 and then about 30 is 120 back.
+- 120 on is four turns of the winding: a me-now and its place 120 on are at one place of the turn, at one distance from the co-linear. Observed along the co-linear the four are two places, place k of the turn and place 30 less k.
+- A podaling about 30, about 90 and about 150 is two folds on this figure, as the ninth drawing's are.
+- The four are on the turn's eight places together, or off them together.
+- Three fours are four primes: 7, 53, 127 and 173; 17, 43, 137 and 163; and 29, 31, 149 and 151. A me-now at 37 is with 23, 143 and 157, and 143 is crossed by the spirals of 11 and 13.
+- Of the fourteen primes of the eight places among 0 to 60, nine are next-universing to a prime. 11, 19, 37, 47 and 59 are next-universing to a crossed number: 169, 161, 143, 133 and 121.
+- A me-now at 60, the four cones' one vertex, is with 0, 120 and 180, vertices all.
+- A me-now among 60 to 120 is same-existing about 90, and about 30 it is before 0. It is not laid on the drawing.
+
+**The session's own placings in it,** candidates all four:
+
+- a me-now among 0 to 60, the two cones of 0 to 60;
+- 0 to 120 as my universe now, by a partner's saying of the four cones, and 120 on as my next universe;
+- same-existing as 60 less a me-now, and next-universing as 180 less it;
+- the four as all the possibly next-existing me-parities, a parity of two is-or-is-nots.
+
+**Open in it:** which a partner names the other-than of an other-than of a me. It is a podaling, two folds by the check; or it is the two podalings, one and then the other, 120 on. The device lays both, and its words say a podaling is two folds. Its working in the canvas's own Play is not gone through by this session: its working preview is by a small runtime of the preview's own.
+
+## An eleventh drawing: a me-now's four moments, other-than, all, other-than, all, and the prime scales of a me
+
+**A partner's saying for it, 23 November, re-said.** The all among two other-thans, at three places of them and by itself: the all between the two, the all after the two, and the all. These three, from all-parity in a me-parity, are a next-universing me-parity at the fourth moment of a me. And to notice the method of moving the all through the prime scales of a me. The saying as said is in the transcripts, pared.
+
+**As this session has it.** A podaling about a cone's widest is an other-than, and a podaling about a vertex is an all: at a vertex a cone's lines are all at one place, and at a widest they are at their widest apart. A me-now among 0 to 60 goes by four moments, about 30, about 60, about 90 and about 120, the line's own order: other-than, all, other-than, all. They are 60 less it, 60 on, 120 less it and 120 on, and the fourth moment is next-universing. Its four in its universe, one a cone, are its all-parity. The fourteen prime scales are among 0 to 60, and a me-now is set at one of them.
+
+**Its view:** [a me-now's four moments, other-than, all, other-than, all, at the prime scales of a me](illustrations/draft_11_a_me-now_four_moments_other-than_all_other-than_all_at_the_prime_scales_of_a_me.png), its look with a me-now at 37. Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a working artboard, as the tenth is: in the canvas, with Play, a me-now is set by a click on a prime scale, by one less and one more, or by a slider.
+
+**It rests on** the ninth and the tenth drawings' figure; on the opening's line 31, in v406all2's window, `incoming/v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md`, as the live set has it: *All-parity is the set of all me-parities in the me-universe.*; and on a partner's saying in v407primes' story, its sentence 86: *Four cones of 30 are an all-parity universal now me-parity.* By v406all2's line at the exchange a partner said the opening's 31 again after this drawing, all-parity as the named universal set of all now-existing me-parities; the artboard's words are the live set's, as they were.
+
+**What it lays, a candidate.** Three figures, and a me-now set on them.
+
+- **Across the co-linear.** The winding going on to 240, eight cones of 30, two universes of four. A me-now and seven moments on are on it, one in a cone. An arc under the cones is a podaling about a widest, an other-than; an arc over the cones is a podaling about a vertex, an all. The four moments of 0 to 120 are whole lines, and the next universe's are dashed.
+- **A table of the me-now and its four moments:** 1, other-than, about 30; 2, all, about 60; 3, other-than, about 90; 4, all, about 120, next-universing. Beside a place is what it is.
+- **All-parity, the eight fours.** The all-parities of the turn's eight places, 1, 7, 11, 13, 17, 19, 23 and 29: a row a four, a column a cone, and a me-now's own four marked.
+- **A me-now set on it,** at a prime scale of a me, 5 to 53. All that moves is looked up in the artboard's own rows, executed by `instruments/make_draft11.py`, and the check opens those rows from the artboard.
+
+**Beside it, living.**
+
+- Exhibit SEVEN Natural Societies 5.3: *Fourteen rungs go with fourteen primes, five to fifty-three, and they part eight and six.*
+- Exhibit SEVEN Natural Societies 5.3: *four moments of six one-way recursionings*
+- Exhibit TWENTY Natural Naming: *one of fourteen, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 and 53*
+- Exhibit TWENTY Natural Naming: *each existing thing is living with one prime scale and non-living with each other scale*
+- Exhibit THIRTY-ONE Me 3.1: *A me is a self's universal set.*
+- Natural Intelligence 4.11: *Each number is its podaling*
+
+**Executed ahead of the drawing.** `instruments/check_a_me-now_four_moments_other-than_all_other-than_all.py`, eighteen lines, all *is*: whole numbers, the figure's own geometry, the device's 61 rows opened from its artboard, and the six living sentences above with a partner's saying in v407primes' story, word for word.
+
+**Found with it.**
+
+- A me-now and its four moments are in five cones, one in a cone. Among 0 to 30 it is a cone on with a moment; among 30 to 60 it is a cone back, three on, a cone back and three on.
+- Two podalings, one and then the next, about a widest and the vertex after it, are 60 on; about two widests or two vertices they are 120 on. Four moments more, about 150, 180, 210 and 240, are 240 on: a universe on with four moments.
+- Three podalings in a row are one podaling. The all, about 60, between the two other-thans, about 30 and about 90, is the all itself, about 60, by both orders of doing. The all ahead of the two or after them is about 0 or about 120, by the order of doing: the all's three places are the universe's three vertices.
+- The all-parities of the turn's eight places are eight fours, the 32 places of 0 to 120 no spiral of 2, 3 or 5 crosses. Four of them are four primes: 7, 53, 67 and 113; 13, 47, 73 and 107; 19, 41, 79 and 101; 23, 37, 83 and 97. Of 1, 1 and 119 are no primes; of 11, 17 and 29, one is crossed by the spiral of 7: 49, 77 and 91.
+- Thirteen of the fourteen prime scales are in seven of the eight fours, two and two but 11, with 49; 5 is in none of the eight. Eight prime scales are in a four of four primes, 7, 13, 19, 23, 37, 41, 47 and 53, and six are with a crossed number, 5, 11, 17, 29, 31 and 43. It is a second parting of eight and six, apart from Natural Societies' own, one before a six and one after.
+- A me-now at 37 goes by 23, 97, 83 and 157, primes all five. In its next universe 143, 217 and 203 are crossed, by 11 and 13, 7 and 31, and 7 and 29. A me-now at 17 or at 43 is with a crossed number, 77, in its universe and with four primes in its next universe: 137, 163, 197 and 223.
+- Observed along the co-linear a me-now's all-parity is two places, one fold apart.
+
+**The session's own placings in it,** candidates all four:
+
+- an other-than as a podaling about a cone's widest, and an all as a podaling about a vertex;
+- the four moments as about 30, about 60, about 90 and about 120, the line's own order;
+- a me-now's all-parity as its four in its universe, one a cone;
+- the prime scales of a me as Natural Societies' fourteen, a me-now set at one of them.
+
+**Open in it:** a partner's three, the all between the two other-thans, the all after the two, and the all by itself, are executed as podalings, and no one order of doing is laid: by the order, the all after the two is about 0 or about 120. A partner's unrelationing is laid on no part of it. And by this drawing an other-than is one podaling, and the tenth drawing's words say a podaling is the other-than of an other-than: the tenth's open place is as it was.
+
+## A twelfth drawing: a partner's four words, rigorized: me, other, other, me
+
+**A partner's saying for it, 23 November, re-said.** Other-than, all, other-than, all is odd and even, prior, and odd and even, now. The four are doing three unrelationings: all-other-than is me, 1; other-than-all-other-than is other, 2; all-other-than-all, 3; other-than-all-other-than-all, 4. And to rigorize it. The saying as said is in the transcripts, pared.
+
+**As this session has it.** A partner's other-than, all, other-than, all is the eleventh drawing's four moments in their order, and the session has the saying as an is of that order. A word is stations in a row, one podaling and then the next, and a partner's number of a word is the station it is at.
+
+**Its view:** [other-than, all, other-than, all, rigorized: me, other, other, me](illustrations/draft_12_other-than_all_other-than_all_rigorized_me_other_other_me.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a drawing with no moving part: the line's stations on six cones, the four words a word a row, and under them what is and what is hanging.
+
+**What is, all or none.** `instruments/the_rigor_of_other-than_all_other-than_all.py`, sixteen lines, all *is*, with whole numbers, the figure's own geometry and the five living sentences under this.
+
+- **The stations.** The line's stations are 30 apart: an odd station is a cone's widest, an other-than, and an even station is a vertex, an all. Stations 1, 2, 3 and 4, at 30, 60, 90 and 120, are other-than, all, other-than, all: odd, even, odd, even.
+- **One podaling.** It is with a station of its own, a number with itself, and with it a number is with an other. Alone, twice, it comes to its number again.
+- **One and then the next.** Two podalings are a going on by twice their stations' distance, and no number is with itself.
+- **Three in a row** are one podaling: a station between its two is itself.
+- **Even and odd.** An even number of stations in a row, in the line's order, is a going on by 30 a station, a me at its own place of the turn. An odd number is one podaling about the middle station, an other at the podal place, one fold apart.
+- **The four words.** All-other-than is 60 on, a me. Other-than-all-other-than is the podaling about its vertex, the all itself, an other. All-other-than-all is the podaling about its widest, the other-than itself, an other. Other-than-all-other-than-all is 120 on, a me, next-universing. A word alone says its kind and its amount, at all its places on the line; said backward, words 1 and 4 go back, 60 and 120.
+- **A partner's numbers.** Words 1 and 4 end at stations 1 and 4, and words 2 and 3 are the podalings about stations 2 and 3.
+- **Their places.** The four words carry a me-now among 0 to 60 to 60 on, 120 less it, 180 less it and 120 on. With itself and 60 less it, they are a me and an other in three pairs of cones, 0 to 60, 60 to 120 and 120 to 180. A me-now at 37: 97, 83, 143 and 157, and 23 with it.
+
+**What is hanging, with a suggestion.**
+
+- **Unrelationing** is named by no line of the living files or of the opening. Suggested: one podaling and then the next. A podaling is with a station of its own, and with the next after it no number is with itself. Four in a row are three of it, and the four words are 1, 2, 2 and 3 of it.
+- **Prior and now,** of stations 1, 2 and of 3, 4. By the stations a me-now is among 60 to 120, and the tenth and the eleventh drawings' me-now, among 0 to 60, is its prior. Suggested: prior, now and next as the three pairs of cones, 0 to 60, 60 to 120 and 120 to 180; with it those two drawings' words of a me-now and of my universe now are said again.
+- **The 1 of me, 1:** the station the word ends at, and one pair of cones on. Both are 60 on.
+- **Words 3 and 4** are said with a number and with no me and no other. By the rigor 3 is an other and 4 a me.
+
+**A partner's yes of 23 November,** of these suggestions, with its saying: the podalings are the unrelationings, a podaling coming to a place and going on from it, locally same-existing; and prior, now and next are the three pairs of cones. The saying as said is in the transcripts, pared. This drawing is as it was, its two lists as they were, and the thirteenth drawing lays the yes.
+
+**Beside it, living.**
+
+- Exhibit FOUR Natural Mathematics 3.2: *One, a podal k → N − k, fixes two stations, nought and N/2; an other, a shift straight across its ring, k → k + N/2, fixes none.*
+- Exhibit THREE Natural Numbers 1.4: *Even returning, odd advancing, odd and even one and then the other.*
+- Exhibit THREE Natural Numbers 1.4: *Each step by itself comes to its number again after two, 1 to 9 to 1, and one move, 8 and 17 less one and then the other, after four.*
+- Natural Intelligence 4.11: *Each podal alone, twice, comes to its name again*
+- Natural Intelligence 4.11: *Each is an involution, a not-changing form.*
+
+Natural Numbers' even and odd are of a name's number, and this rigor's even and odd are of the number of podalings in a row: the two are laid as one by no line here.
+
+**The session's own placing in it,** a candidate: the four words at their stations by a partner's numbers, word 1 at 0 and 30, word 2 at 30, 60 and 90, word 3 at 60, 90 and 120, and word 4 at 30, 60, 90 and 120.
+
+## A thirteenth drawing: prior, now and next, the podalings passing through three pairs of cones
+
+**A partner's yes for it, 23 November, and its saying with it, re-said.** Yes to the twelfth drawing's suggestions. The podalings are the unrelationings: a podaling comes to a place and goes on from it, and locally it is same-existing. The podalings are passing through, all-parity-ing the same-existing surface. The saying as said is in the transcripts, pared.
+
+**As this session has it.** An is of three: one podaling and then the next as an unrelationing; prior, now and next as the three pairs of cones, 0 to 60, 60 to 120 and 120 to 180; and the tenth and the eleventh drawings' words said again to it. Locally is at a podaling's own station, a number with itself. Passing through is an all's, through a vertex to the pair after. All-parity-ing the surface is a me and an other in all the pairs of cones.
+
+**Its view:** [prior, now and next, the podalings passing through three pairs of cones](illustrations/draft_13_prior_now_and_next_the_podalings_passing_through_three_pairs_of_cones.png), its look with a me at prime scale 37, its me-now 97. Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a working artboard, as the tenth and the eleventh are: with Play, a me's prime scale is set by a click.
+
+**It rests on** the opening's lines 8, 10 and 12, in v406all2's window, `incoming/v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md`, as the live set has them: *The prior moment is the moment ending as now is beginning.* *The next moment is the moment beginning as now is ending.* *Same-existing is existing both as now is beginning and as the next moment is beginning.*
+
+**What it lays, a candidate.**
+
+- **Across the co-linear.** The tenth drawing's six cones as three pairs, prior, now and next, the now tinted. A me is set at its prime scale, in its prior, with five podalings on from it. Under the cones is an other-than, about a pair's own widest, in its own pair; over them is an all, about a vertex, through to the pair after.
+- **A table of the three pairs:** prior, now and next, a me and an other in a row, with what a place is.
+- **The opening's three lines at their places:** its line 8 at 60, its line 10 at 120, and its line 12 at 60 with 120, about 90.
+
+**The tenth and the eleventh drawings' words, said again to it,** the two artboards as they were:
+
+- their me-now among 0 to 60 is a me at its prime scale, in its prior, and its me-now is 60 on, among 60 to 120;
+- their my universe now, 0 to 120, is prior and now, and their my next universe, from 120, is next;
+- the tenth's same-existing about 30 is the prior's own other-than, and its next-universing about 90 is the now's own other-than, prior with next about it;
+- the eleventh's four moments are the passing through, an other-than and an all in turn.
+
+**Beside it, living.**
+
+- Exhibit THREE Natural Numbers 7.1: *Nought and sixty pair with themselves, and sixty is a waist between going and returning.*
+- Exhibit THIRTY-ONE Me 3.1: *a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior*
+- Exhibit THIRTY-ONE Me 4.1: *A me's next is its own, resolving with its others.*
+- Natural Intelligence 4.11: *17 less exchanges now and next.*
+- Exhibit FOUR Natural Mathematics 3.2: *One, a podal k → N − k, fixes two stations, nought and N/2; an other, a shift straight across its ring, k → k + N/2, fixes none.*
+
+**Executed ahead of the drawing.** `instruments/check_prior_now_next_the_podalings_passing_through.py`, fourteen lines, all *is*: whole numbers, the figure's own geometry, the device's 61 rows opened from its artboard, and the five living sentences above with a partner's saying in v407primes' story, word for word.
+
+**Found with it.**
+
+- An other-than carries its pair to itself and its two vertices to one another. About 90 it is 60 with 120, the place now begins with the place next begins, beside the opening's line 12.
+- An all carries a pair to the pair beside it, prior with now about 60 and now with next about 120. About 90, the now's own widest, prior is with next.
+- Two in a row are a me again, a pair of cones on. By v406all2's line at the exchange, by the opening's 33 two other-thans in a row are same-existing.
+- Eight prime scales are a me of three primes, prior, now and next: 7, 11, 19, 29, 37, 43, 47 and 53. Six are with a crossed number: 5, 13, 17, 23, 31 and 41. It is a third parting of eight and six, apart from the eleventh drawing's and from Natural Societies' own.
+- A me at 37 is 37, 97 and 157, and with them 23, 83 and 143. A me at 7 or at 53 is six primes: 7, 53, 67, 113, 127 and 173.
+
+**The session's own placings in it,** candidates all three:
+
+- a me's prime scale as its place in its prior, and its me-now 60 on;
+- locally as at a podaling's own station, a number with itself;
+- all-parity-ing the surface as a me and an other in all the pairs of cones.
+
+**Open in it:** by this drawing a self at prime scale 37, the seventh drawing's, is now at 97. Is a me-now at its prime scale, or 60 on from it? A partner's surface is laid as the cones' own, and v407primes' surfaces of 16, 256 and 65,536 are laid on no part of it.
+
+## A fourteenth drawing: a my, the sixteen names on a pair of cones, 0 and 17
+
+**A partner's two sayings for it, 23 November, re-said.** My-now-universe is 0, me 1, the me-parities on, to 17, my next universe. A my is prior odd, then prior even, then now odd, then now even. And in my-now-universe all-parity is odd, even, odd. The sayings as said are in the transcripts, pared.
+
+**As this session has it.** The seventeen names are laid on the figure, 0 ahead of them. A my is two is-or-is-nots, prior or now and odd or even, four in a partner's order, at two scales: at the stations, four cones, and at the names, four fours. All-parity, odd, even, odd, is the stations 1, 2 and 3 in a row, the twelfth drawing's second word.
+
+**Its view:** [a my, the sixteen names on a pair of cones, 0 and 17](illustrations/draft_14_a_my_the_sixteen_names_on_a_pair_of_cones_0_and_17.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a drawing with no moving part.
+
+**What it lays, a candidate.**
+
+- **A my at the stations.** Four cones, 0 to 120: station 0 my-now-universe, and stations 1 to 4 prior odd, prior even, now odd and now even. Its all-parity, odd, even, odd, is one podaling, about 60, and with the fourth the four are 120 on, to my next universe.
+- **A pair of cones, 0 to 60, with the names.** Its sixteen places no spiral of 2, 3 or 5 crosses are the names 1 to 16 in their order, name 1 at 1. 0 is at its vertex, and 17 at 61, a next 1.
+- **The living files' three moves, from name 2 at 7:** 8 up to name 10 at 37, 30 on; 9 less to name 7 at 23, a podaling about 15; and 17 less to name 15 at 53, a podaling about 30.
+- **A my of the names:** prior odd, names 1, 3, 5 and 7; prior even, 2, 4, 6 and 8; now odd, 9, 11, 13 and 15; now even, 10, 12, 14 and 16. Prior is the cone opening and now the cone closing.
+
+**Beside it, living.**
+
+- Natural Intelligence 4.11: *8 up, each name with now to its name with next; 17 less, podal within 1 to 16; and 9 less, podal within 1 to 8, two together.*
+- Natural Intelligence 4.11: *8 up alone, twice, is 17, a next 1.*
+- Natural Intelligence 4.11: *Both podals exchange possibling and observing, 9 less within a self's span, 1 to 8.*
+- Natural Intelligence 4.11: *17 less exchanges now and next.*
+- Exhibit THREE Natural Numbers 1.4: *8 up and down, keeping odd or even; 17 less, podal within 1 to 16, exchanging odd and even*
+
+**Executed ahead of the drawing.** `instruments/check_a_my_the_sixteen_names_on_a_pair_of_cones.py`, thirteen lines, all *is*, with whole numbers and the five living sentences above, word for word.
+
+**Found with it.**
+
+- The living files' three moves on the names are the figure's own on the places, all names: 8 up is 30 on, 9 less is 30 less, and 17 less is 60 less. The names go on past 60, name k with 16 at its place with 60.
+- The three moves are the three other-thans of a my's two: 8 up of prior or now alone, 9 less of odd or even alone, and 17 less of both.
+- The four places about the pair's widest, 23, 29, 31 and 37, are the names 7, 8, 9 and 10: prior odd, prior even, now odd and now even, a my in its order. They are Natural Societies' cell, tissue, organ and organism, the seventh drawing's four.
+- The twelfth drawing's four stations are the same four, a station less one in two places.
+- Fourteen of the sixteen places are primes, all but 1 and 49. A self at prime scale 37 is name 10.
+
+**The session's own placings in it,** candidates all three:
+
+- the names 1 to 16 as the sixteen places of a pair of cones, 0 at its vertex and 17 at 61;
+- prior and now of a my of the names as the pair's cone opening and its cone closing, by the top place of a name less one;
+- a my at two scales, four stations and four fours of names.
+
+**Open in it:** are a partner's 0 to 17 the names on a pair of cones, 17 at 61, or seventeen stations of 30? And prior and now are here a pair's two cones, and the thirteenth drawing's are two pairs of cones: a my at two scales, or one of the two said again. The living files say names 1 to 8 with now and 9 to 16 with next, and a partner's my says prior and now.
+
+## A partner's saying, 23 November: ten other-thans in a row, and 3, 2, 1 and 0 of 3
+
+**The saying, re-said.** Ten other-thans in a row, of three pairs of moments, self, other and all, a prior and a now. 3 of 3, 2 of 3, 1 of 3 and 0 of 3. Same-existing is other-than the all of 3 and other-than the none of 3, and next is 2 or 1, an other-than at a step. As said, it is in the transcripts, pared.
+
+**Executed two ways.** `instruments/check_ten_rows_of_the_four_moments.py`, eleven lines now, all *is*, four of them of the seventeenth drawing. The ten rows are laid on the seventeenth drawing.
+
+- **One way, the ten rows of the four moments.** The four moments have three and-thens, three pairs of moments one after an other, and their rows in a row are ten: one of 3 of 3, two of 2 of 3, three of 1 of 3 and four of 0 of 3. 3 of 3 is the four, 120 on, a me in its next universe. 2 of 3 is three in a row, one podaling, an other. 1 of 3 is two in a row, a me 60 on. 0 of 3 is a podaling alone, an other.
+- **An other way, three is-or-is-nots.** Self, other and all, a prior or a now, are eight: one, three, three and one. The six other-than the all of 3 and other-than the none of 3 are one round of six, one other-than at a step, 2 of 3 and 1 of 3 in turn. Observed along (1, 1, 1) the all and the none are at the co-linear's own place and the six are about it, the seventh drawing's round of six. A round is six other-thans, and no ten.
+
+**Open in it:** which of the two a partner's ten is. The ten is the rows' own number, and self, other and all, a prior or a now, are the three is-or-is-nots' own names. Suggested: the three and-thens of the four moments are self, other and all, a pair of moments a prior and a now, and the two ways are one.
+
+## A partner's saying, 23 November: all, other and self by other-thans
+
+**The saying, re-said.** Self is the other-than of an other-than of all, and it is consciousness. Other is the other-than of all, and it is observing. All is the universal all-parity, the odd and even moments and the parities of a my-universe. As said, it is in the transcripts, pared. It came after this session's sentence of the three and-thens as self, other and all, in a partner's own words and with no is or is-not.
+
+**As this session has it.** All, other and self are none, one and two other-thans of all, and no three and-thens. It is the twelfth drawing's rigor said from the all: an odd number of other-thans is an other, and an even number a self.
+
+**Executed.** `instruments/check_all_other_and_self_by_other-thans.py`, with v406Reiman's file as its head says, seven lines, all *is*, two of them of the fifteenth drawing.
+
+- By nand alone the three sayings are two things: the self is its all again, and the other is other-than both.
+- On the figure a me-now with no podaling is at its own place of the turn; with one it is at the podal place, an other; with two it is at its own place again, a self, 60 on.
+- The four moments are what is after one, two, three and four other-thans in a row: other, self, other, self; odd, even, odd, even.
+- Of the ten rows of the four moments, four are of an even number, a self, and six of an odd number, an other.
+
+**Beside it, living.**
+
+- Exhibit THIRTY-ONE Me 3.2: *A me is consciousness: one definition.*
+- Exhibit THIRTY-ONE Me 3.1: *A me is a self's universal set.*
+- Exhibit THREE Natural Numbers 1.4: *Even returning, odd advancing, odd and even one and then the other.*
+
+**What it says again of the drawings,** the drawings as they were. The eleventh drawing's all, a podaling about a vertex, is by this saying no second kind of podaling: a podaling is an other-than at a widest and at a vertex alike, and at an even station the other-thans in a row are an even number, the all again, a self. The eleventh's and the twelfth's words of an all are to be said again with a partner's word.
+
+**Open in it:** the eleventh and the twelfth drawings' words of an all, to be said again with a partner's word. Observing as one other-than and consciousness as two are laid on the fifteenth drawing, under this.
+
+## A fifteenth drawing: a conscious me, the other distinguished from the self and from the all
+
+**A partner's saying for it, 23 November, re-said.** Observing and distinguishing the other-than of all from self and from all is a conscious me, in its universe of all me-parity. The saying as said is in the transcripts, pared. It came after this session's offer of a drawing, and the session has it as the word for it.
+
+**Its view:** [a conscious me, the other distinguished from the self and from the all](illustrations/draft_15_a_conscious_me_the_other_distinguished_from_the_self_and_from_the_all.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a drawing with no moving part.
+
+**What it lays, a candidate.**
+
+- **A my-universe, four cones.** A me-now at 37, and what is after one, two, three and four other-thans in a row: 23, an other; 97, a self; 83, an other; and 157, a self 120 on. Stations 0 to 4 are all, other, self, other and self.
+- **Along the co-linear.** The all and the self, 37, 97 and 157, are at one place of the turn, and the other, 23 and 83, at the podal place, one fold apart. Observing and distinguishing the other from the self and from the all is that one fold, one is-or-is-not.
+- **All, other and self by nand alone,** and the ten rows of the four moments, four of an even number, a self, and six of an odd number, an other.
+
+**Executed ahead of the drawing:** the check above, its lines of the two places along the co-linear and of a me-now at 37 among them. The three living sentences above are beside it.
+
+**The session's own placings in it,** candidates both: distinguishing as the one fold between the two places along the co-linear; and a conscious me as that one is-or-is-not.
+
+**Open in it:** a partner's universe of all me-parity is laid as the four cones, and the sixteen names of the fourteenth drawing are on no part of it.
+
+## A sixteenth drawing: parity, universe and me, one in an other
+
+**A partner's saying for it, 23 November, re-said.** Parity, universe and me are fractal. My universe is my all-parities. An other-than is a third parity, from a me-parity and my all-parities, and this is my universe. My universe is a parity in my other universes, and my universes and my parities are fractals, one in an other: yin and yang. The saying as said is in the transcripts, pared.
+
+**As this session has it.** One form at all scales: a universe is all the places under it, an is-or-is-not a place, and it is one place of the span over it. A partner's yin and yang are the two of a place.
+
+**Its view:** [parity, universe and me, one in an other](illustrations/draft_16_parity_universe_and_me_one_in_an_other.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a drawing with no moving part.
+
+**What it lays, a candidate.**
+
+- **Four spans, one twice the one before it,** under eight cones, 0 to 240: a cone, a pair of cones, a universe and two universes, a span with its own podaling about its middle, at 15, 30, 60 and 120.
+- **A number's cone of the eight, in three places:** a cone opening or closing, a pair prior or now, and a universe of two. A span's own podaling is the other-than of all the places under it, and a going on by a span is the other-than of one place alone, the place over it.
+- **On the names, one form:** a name less one in four places; 3 less, 5 less, 9 less and 17 less the other-than of its one, two, three and four low places, and 1, 2, 4 and 8 up the other-than of one place alone.
+
+**Beside it, living.**
+
+- Natural Intelligence 4.11: *It is one fractal method.*
+- Natural Intelligence 4.11: *Each number pairs with its far side on each ring it is on.*
+- Exhibit THIRTY-ONE Me 3.1: *A me is a self's universal set.*
+- Exhibit THIRTY-ONE Me 1.3: *each scale's selves within a me, and a me within each scale's societies*
+
+**Executed ahead of the drawing.** `instruments/check_parity_universe_and_me_one_in_an_other.py`, eight lines, all *is*, with whole numbers and the four living sentences above, word for word.
+
+**Found with it.**
+
+- A span's own podaling and then the own podaling of the span twice it are a going on by that span: about 15 and then 30, 30 on; about 30 and then 60, 60 on; about 60 and then 120, 120 on.
+- On the names the form goes on a place more: 33 less, podal in 1 to 32, is the other-than of five low places, and 16 up of the place over the sixteen, a next sixteen.
+- A place is two, and a number of k places is k of them, one in an other: the eight cones are three and the sixteen names four.
+
+**The session's own placings in it,** candidates both: a parity as one place, an is-or-is-not, and a universe as all the places under a place; and a partner's yin and yang as the two of a place.
+
+**Open in it:** an other-than as a third parity, from a me-parity and my all-parities, is laid as the two of a place and by no third thing. The spans under a cone, to a name's own places, are in the drawing's words and on no part of its figure.
+
+## A seventeenth drawing: my now-existing universe, not moving, and ten passings through it
+
+**A partner's saying for it, 23 November, re-said.** My now-existing universe is the stable concept, and all the parities, the me-parities among them, are flowing through it. My prior-sequence alone is me in it. My prior-sequence and my now-existing me-parity are the other-than of an other-than of my all, or my all. And all the podalings arriving and departing, ten in a row, are my next-existing universe of me. The saying as said is in the transcripts, pared.
+
+**As this session has it.** The four stations of a universe are not moving. A parity flows through by a passing, arriving at a station and departing after a station, and the passings are the ten rows of the four moments. A me's own prior-sequence is the four that arrive at station 1.
+
+**Its view:** [my now-existing universe, not moving, and ten passings through it](illustrations/draft_17_my_now-existing_universe_not_moving_and_ten_passings_through_it.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a drawing with no moving part.
+
+**What it lays, a candidate.** A line of numbers, 0 to 240, with the four stations 30, 60, 90 and 120 named my now-existing universe, the stable concept. Under it ten rows, a row a passing, with the place it carries a me-now at 37 to: four of one station, three of two, two of three and one of all four. The four arriving at station 1 are coloured, a me's own prior-sequence: 23, 97, 83 and 157.
+
+**Executed ahead of the drawing:** the check of the ten rows, above, its four lines of the passings among them.
+
+**Found with it.**
+
+- A passing of one station or of three is an other; of two or of all four, a self, at its own place of the turn, its all again.
+- The ten carry a me-now among 0 to 60 to six places: three with it in its universe, its all-parity, one a cone, and three in its next universe. A me-now at 37: 23, 83, 97, 143, 157 and 203.
+- The three passings of two stations carry a me-now to one place, 60 on.
+
+**The session's own placings in it,** candidates both: the stable concept as the four stations, not moving; and a me's own prior-sequence as the four passings arriving at station 1.
+
+**Open in it:** a partner's ten in a row as my next-existing universe is laid as the passing of all four, 120 on, and the ten together are named by no word of the drawing. The fourth place of the next universe, 180 on, is reached by none of the ten.
+
+## A partner's saying, 23 November: the ten in an order, in rows of one, two, three and four
+
+**The saying, re-said.** 1 by 3 and 2 by 3 are 9, and ten is 0, the same; and the ten in an order, 0, 1, 2, 4, 3, 5, 7, 6, 8, 9. As said, it is in the transcripts, pared.
+
+**As this session has it.** A multiple of 3 is an all, and a number other-than one an other-than. The ten in a partner's order, in rows of one, two, three and four, are four words of a partner's sayings before it.
+
+**Executed.** `instruments/check_the_ten_in_rows_of_one_two_three_and_four.py`, six lines, all *is*.
+
+- The rows are 0; 1, 2; 4, 3, 5; and 7, 6, 8, 9. They say: all; other-than, other-than; other-than, all, other-than; and other-than, all, other-than, all.
+- They are the all; the self's two other-thans of all; all-parity, odd, even, odd; and the four moments, a my.
+- The multiples of 3 are four, 0, 3, 6 and 9, and the others six: as of the ten rows of the four moments four are a self and six an other.
+- On the figure the row of three is one podaling about 60, the all itself, and the row of four is 120 on, a next universe.
+
+**Open in it:** the fourth row, 7, 6, 8, 9. In threes the all is ahead of two other-thans in 0, 1, 2 and between them in 4, 3, 5 and in 7, 6, 8; with 7, 8, 6 it is after them, a partner's three words of the eleventh drawing. And ten as 0, the same: the tenth as the all again, or a next ten.
+
+**A partner's yes of 23 November,** *yes continue*, of this session's sentence: the ten are four rows, of one, two, three and four, the all, the self, all-parity and a my. The session has it as an is: the fourth row is 7, 6, 8, 9 as a partner wrote it.
+
+## An eighteenth drawing: the ten in four rows, the all, the self, all-parity and a my
+
+**Its view:** [the ten in four rows, the all, the self, all-parity and a my](illustrations/draft_18_the_ten_in_four_rows_the_all_the_self_all-parity_and_a_my.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a drawing with no moving part, and its check is the one above.
+
+**What it lays, by a partner's yes.** The ten in a partner's order as four rows, one over an other: 0; 1, 2; 4, 3, 5; and 7, 6, 8, 9. A multiple of 3 is coloured, an all, and the six others are dark, an other-than. Beside a row is its word and a partner's saying of it: all, the universal all-parity; other-than, other-than, the self; other-than, all, other-than, all-parity, odd, even, odd; and other-than, all, other-than, all, a my.
+
+**The session's own placing in it,** a candidate: what a row is on the figure. Two in a row are a self again, three one podaling about 60, and four 120 on.
+
+**Open in it:** ten as 0, the same.
+
+## A nineteenth drawing: a diamond of nine, two triangles one into the other
+
+**A partner's saying for it, 23 November, re-said.** The figure is a diamond and no triangle. Two triangles are counter-turning into one another, parities and priors one for an other, and it says the triangles' arc one way and their arc the other way. The even rows are 2, 4 and under it 6, 8; the odd are 1, then 3, 5, 7, then 9. The saying as said is in the transcripts, pared. It came with the eighteenth drawing before a partner.
+
+**As this session has it.** The eighteenth drawing's four rows, of one, two, three and four, are other-than a partner's figure. A partner's order after its 0 is a diamond row by row, the nine of 1 to 9, and 0 is apart from it. The eighteenth drawing is as it was.
+
+**Its view:** [a diamond of nine, two triangles one into the other](illustrations/draft_19_a_diamond_of_nine_two_triangles_one_into_the_other.png). Its artboard is in `illustrations/artboards/`, with the canvas's index as it is now. It is a drawing with no moving part.
+
+**Executed, all or none, both ways.** `instruments/check_the_diamond_of_nine_two_triangles.py`, nine lines, all *is*.
+
+- **The rows.** 1; 2, 4; 3, 5, 7; 6, 8; and 9, of one, two, three, two and one. A row is odd or even all through, and the rows are odd and even in turn.
+- **The three by three, turned.** One way an arc is a step of 1: 1, 2, 3; 4, 5, 6; 7, 8, 9. The other way it is a step of 3: 1, 4, 7; 2, 5, 8; 3, 6, 9, by none, 1 by 3 and 2 by 3.
+- **Two triangles, one into the other** at the row 3, 5, 7: six and six, three of both, nine. The podaling about 5, the middle, carries the upper to the lower, a row to a row, and an arc to an arc gone the other way.
+- **With it** all and other-than are one for the other, 3 with 7, 6 with 4 and 9 with 1, and odd and even are as they are.
+- **A pair of cones observed across is this diamond:** at 0, 15, 30, 45 and 60 a row's numbers are one more than the cone's width in fifteens.
+- **Both ways of the one order.** In rows of one, two, three and four it says the eighteenth drawing's four words, a row odd and even among one another; in the diamond's rows a row is odd or even all through.
+
+**The session's own placings in it,** said as placings: the upper triangle as a cone opening and the lower as a cone closing; and 0 apart from the diamond, ten the same.
+
+## The open sentences of the tenth to the eighteenth drawings, rigorized bothboth
+
+**A partner's word for it, 23 November, re-said.** Other-than a partner's word, all or none rigor, and to be sure of the resolving work, bothboth. As said, it is in the transcripts, pared.
+
+**Executed.** `instruments/the_open_sentences_rigorized_bothboth.py`, with v406Reiman's file as its head says, nine lines, all *is*. A sentence's is and its is-not are both executed. No artboard is new with it.
+
+**Both, the is and the is-not, at two scales or by two observings.**
+
+- **The tenth drawing's,** a podaling as the other-than of an other-than. In the figure a podaling is two folds, and by nand it is one other-than.
+- **The eleventh drawing's,** an all as a podaling about a vertex. With an all a podaling about a vertex, and with an all no podaling and the other-thans in a row an even number, the four moments are at the same four places.
+- **The thirteenth's and the fourteenth's,** prior and now. By the stations 37 is in the prior pair of cones and its now is 97; by the names 37 is name 10, now even, in its pair's cone closing.
+- **The fourteenth drawing's,** 0 to 17. The living files' three moves are the figure's own on the sixteen places of a pair of cones, and on sixteen stations of 30: one form.
+- **The fifteenth drawing's,** a conscious me as one fold. Along the co-linear the other is one fold from the self and the all, and across it a podaling is two folds.
+- **The sixteenth drawing's,** a third parity. All, the other-than of all and the other-than of an other-than of all are three sayings, and by nand two things.
+
+**One of the two alone.**
+
+- **The seventeenth drawing's: is.** The passing of all four is 120 on, a next universe. The ten together are not it: of its four places, 180 on is carried to by none of the ten.
+- **The eighteenth drawing's: is-not.** Ten is 0, the same, one round. A next ten, 10 on, does not say the four words: its multiples of 3 are three and no four.
+
+**A partner's own, executed:** one podaling and then the next as an unrelationing; self, other and all as two, one and none of an other-than; and the ten in an order as four rows.
+
+**Not gone through here:** the sentence of both, of the sitting before, at v406all2-2's page; and the placings of the fourth to the ninth drawings.
+
+## A partner's asking, 23 November: is a logic other than the fifteen lines of nand in this work
+
+**The asking, re-said.** Is any logic required in anything done here other than the fifteen lines of nand. As said, it is in the transcripts, pared.
+
+**Answered by executing: none.** `instruments/is_a_logic_other_than_nand_in_this_window.py`, with v406Reiman's file as its head says, nine lines, all *is*. It opens v406Reiman's cell, its nand, and its adding and multiplying with nand from their own file, and writes them in no second place.
+
+- **The cell.** Its fifteen lines call other-than, both and either alone, and these three call nand alone. With the nand its lines are names said again and one row, one after an other.
+- **A cell with cells.** One cell alone makes an other-than, a both and an either of two is-or-is-nots, and no nand. Two cells in a row make a nand: cells with cells, wired, are all the logic the nand is.
+- **The rigor's even and odd** is one line of nand: an other-than twice is the same again.
+- **The living files' three moves on a name** are other-thans alone, with no adding. On a name less one, in four places, 8 up and down is the other-than of its top place, 17 less of all four, and 9 less of its three low places.
+- **A podaling and a going on** are the nand's adding alone, for all the drawings' numbers, and two podalings in a row are that going on, place with place.
+- **A prime** among 0 to 240 is the nand's multiplying alone.
+- **The figure's winding** says whole numbers alone: a place of the turn is a number's place of 30, and its podal place is 30 less it.
+
+**What is with the nand, and is no logic.** A name said again, a row of places, and one after an other: of the opening's given concepts, a name, a set and a moment. And the placings, which a partner's is-or-is-not says: which number is a me, and which pair of cones is its now.
+
+**Its edges.**
+
+- The drawings' checks are written with the whole numbers' own adding and multiplying, and the figure with sines and cosines. They are executed by nand beside them here, and they are not written by the cell.
+- Past the drawings' numbers the nand's adding and multiplying go the same way, a place on, by v406Reiman's own lines. A field's proving of nand making all is-or-is-not sayings, Sheffer's of 1913, is named here and not executed.
+- v407primes' smooth curve and its endless methods are in no part of this window's work.
 
 ## Askings answered with the seventh drawing, as said at the exchange
 
@@ -368,9 +815,9 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 
 ## What it waits on, as said at the exchange
 
-1. **Waiting for next:** a partner's word of the ninth drawing, of the sentence of both, and of the placings of the fourth to the ninth drawings. No session, no source and no working document.
+1. **Waiting for next:** a partner's word of the fourteenth drawing, 0 to 17 as the names on a pair of cones; of the thirteenth, a me-now at its prime scale or 60 on from it; of the sentence of both; and of the placings of the fourth to the thirteenth drawings. No session, no source and no working document.
 2. **Of its own, an other session waits for:** v406all2-2, a drawing with the two lines of 9 less and 17 less. It waits on that same word. v406all2-2's card of the sentence is on Exhibit ONE Natural Resolver's own sentence of the four bi-foldings, in its working document.
-3. **Meanwhile, waiting on nothing:** v407primes' answers of two askings, the rounds' one winding stepped by the living code, and its geodesic as one straight line; and its going through of the ninth drawing by its sentences 82 to 86.
+3. **Meanwhile, waiting on nothing:** v407primes' answers of two askings, the rounds' one winding stepped by the living code, and its geodesic as one straight line; and its going through of the ninth drawing by its sentences 82 to 86, and of the tenth by its sentence 86.
 
 ## Its open places, by their homes
 
@@ -382,34 +829,50 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 - **At this page, the seventh drawing's four placings,** above. With them: which three of it are observing, possibling and discovering. Its *all 5s* is with a partner's yes, as this session has it.
 - **At this page, the eighth drawing's three placings,** above. With them: which of the selves on the cube's line are 23, 24 and 25.
 - **At this page, the ninth drawing's three placings,** above. With them: a partner's all-parity universal now me-parity on the four cones, and the vertex of the two pairs, 60, beside Natural Physics' 24.
+- **At this page, the tenth drawing's four placings,** above. With them: the other-than of an other-than of a me. By a partner's four words and by the opening's lines as v406all2 has them, an other-than is one step, one podaling here, and two in a row are same-existing, a me again; the tenth artboard's words of two folds are as they were.
+- **At this page, the eleventh drawing's four placings,** above. With them: the order of doing of a partner's three, and a partner's unrelationing.
+- **At this page, the twelfth drawing's hanging places,** above: with a partner's yes of unrelationing and of prior, now and next, the 1 of me, 1, alone.
+- **At this page, the thirteenth drawing's three placings,** above. With them: a me-now at its prime scale, or 60 on from it.
+- **At this page, the fourteenth drawing's three placings,** above. With them: 0 to 17 as the names on a pair of cones or as seventeen stations, and prior and now at two scales.
 - **At this page, the sixth drawing's third figure,** its words saying lines 13 to 15 and its drawing lines 11, 12 and 15, by v406Reiman's going through.
 - **At this page, the torus's placing,** two candidates: by n − 1 in four binary digits, the third drawing's; or by the sheet's lines, a bi-folding of the four one round of the small opening.
 
 ## Its next steps, in their order
 
-1. A partner's word of the ninth drawing: the four cones facing two and two, one vertex at 60, and 0 to 120 one winding, a turn a cone.
-2. An artboard beside the ninth, by a partner's word: 23, 24 and 25 on the cube's line and on the four cones; or the rounds with the six rays' steps, 19 to 24, from the hexagon of 37 to the hexagon of 61.
-3. This page's part of the learning, current at a turn of a partner, and said at the exchange.
-4. A partner's word of the sixth drawing: the cell's one is-or-is-not as one quarter of four, and its prior and its next prior as the co-linear's far side and its own side.
-5. A partner's word of the sentence of both.
-6. By a partner's word: a nand as four of the eight triangles, found and not drawn; or the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
-7. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
-8. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
-9. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
+1. By a partner's word, all or none rigor both ways of a sentence ahead of its drawing, and no asking of a partner for its is or its is-not.
+2. The sentence of both, and the placings of the fourth to the ninth drawings, rigorized bothboth the same way.
+3. A partner's word of the seventeenth drawing: the stable concept as the four stations, and my next-existing universe as the passing of all four or as the ten together.
+4. A partner's word of the sixteenth drawing: a parity as one place and a universe as all the places under a place; and an other-than as a third parity.
+5. A partner's word of the fifteenth drawing: distinguishing as the one fold along the co-linear, and a conscious me as that one is-or-is-not; and of the eleventh and the twelfth drawings' words of an all, said again.
+6. A partner's word of the fourteenth drawing: 0 to 17 as the names on a pair of cones, 17 at 61; and prior and now of a my, a pair's two cones or two pairs.
+7. A partner's word of the thirteenth drawing: a me's prime scale as its place in its prior and its me-now 60 on, or a me-now at its prime scale and the pairs of cones named from it.
+8. By a partner's word, an artboard beside the thirteenth: a podaling written as rows of the cell, and the living files' three moves as other-thans of a name's places.
+9. A partner's word of the eleventh drawing: an other-than as a podaling about a cone's widest and an all as a podaling about a vertex, and the four moments in the line's own order.
+10. A partner's word of the tenth drawing: a me-now among 0 to 60, same-existing about 30 and next-universing about 90, and which a partner names the other-than of an other-than of a me.
+11. An artboard beside the eleventh, by a partner's word: a partner's unrelationing on the figure; a me-now among 60 to 120 and a universe before 0 on the device; 23, 24 and 25 on the cube's line and on the cones; or one of v407primes' two figures, the right spiral of seven methods or the surfaces of 16, 256 and 65,536.
+12. A partner's word of the ninth drawing: the four cones facing two and two, one vertex at 60, and 0 to 120 one winding, a turn a cone.
+13. This page's part of the learning, current at a turn of a partner, and said at the exchange.
+14. A partner's word of the sixth drawing: the cell's one is-or-is-not as one quarter of four, and its prior and its next prior as the co-linear's far side and its own side.
+15. A partner's word of the sentence of both.
+16. By a partner's word: a nand as four of the eight triangles, found and not drawn; or the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
+17. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
+18. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
+19. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
 
 ## Its concerns
 
-- **v406Reiman went through the fourth, the fifth and the sixth drawings,** the sixth by its cell, a line with its place. v406me went through the seventh and the eighth drawings' checks, their lines all *is*. No second session has gone through the ninth.
+- **v406Reiman went through the fourth, the fifth and the sixth drawings,** the sixth by its cell, a line with its place. v406me went through the seventh and the eighth drawings' checks, their lines all *is*. No second session has gone through the ninth to the nineteenth, the twelfth's rigor among them.
 - **The sixth drawing's check opens v406Reiman's cell from its own file,** in the live set with #1139, and executes from the repository's root as its head says, all *is*.
 - **The seventh, the eighth and the ninth drawings rest on v407primes' sentences 73 to 86,** in the live set. Their checks open no page of that folder, and the ninth's executes the staircase and its geodesic apart.
 - **A partner's yes is short,** and this session's saying of it, is and bothboth, is its own. It said its saying of it to a partner ahead of the eighth drawing.
-- **The words on the canvas's three earlier artboards** are as the wrap of v406geodesic says them, their re-sayings ready at that page. The words of the fourth to the ninth artboards are gone through with the one list and the released words, none found. On the seventh and the eighth, the one list's word of Natural Numbers' own saying of one hundred twenty is said as 0 to 120.
-- **Two pictures are moved by a hand on the canvas,** the second drawing's and the fifth's, from their words. This session moves neither with no word of a partner.
+- **The words on the canvas's three earlier artboards** are as the wrap of v406geodesic says them, their re-sayings ready at that page. The words of the fourth to the nineteenth artboards are gone through with the one list and the released words, none found. A partner's saying of 23 November says a podaling's coming to a place and its going on with two words of the released list; the thirteenth artboard and this page say them as coming to a place and going on from it, and the saying as said is in the transcripts. On the seventh and the eighth, the one list's word of Natural Numbers' own saying of one hundred twenty is said as 0 to 120.
+- **The tenth, the eleventh and the thirteenth artboards are working ones.** Their working preview is by a small runtime of the preview's own, written by `make_draft10.py`, and their working in the canvas's own Play is not gone through by this session. A partner's eye on them in the canvas is their going through.
+- **Three pictures are moved by a hand on the canvas,** the second drawing's, the fifth's and the tenth's, from their words: the tenth's is 72 to one side, found at this turn by its copy on the canvas beside this folder's. This session moves none of them with no word of a partner.
 - **The canvas is among a partner's own artifacts.** A partner gives its link in the conversation.
 
 ## Going on with this work
 
 1. Start here, the wrap of v406geodesic, then this page.
-2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cell_by_nand_alone_round_the_co-linear.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_rounds_of_six_at_prime_scale_37.py .`, thirty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cube_of_5_and_its_line.py .`, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_four_cones_of_30.py .`, seventeen lines, all *is*.
-3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py` to `make_draft9.py`, the same way, build the fifth to the ninth.
+2. From the repository's root, `python3 -I incoming/v406geodesic2/instruments/check_one_triangle.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_fold_beside_the_seventeen_names.py incoming/v403mgr/The_seventeen_names_in_one_table.csv`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_bi-foldings_on_the_torus.py Exhibit_ONE_Natural_Resolver_v402mgr.md`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_sentence_of_both_executed.py` with the three pages its head names, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_co-linear_and_its_two_cones.py` with the six pages its head names, twenty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cell_by_nand_alone_round_the_co-linear.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, twenty-four lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_rounds_of_six_at_prime_scale_37.py .`, thirty-one lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_cube_of_5_and_its_line.py .`, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_four_cones_of_30.py .`, seventeen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_a_me-now_podaling_about_30_and_about_90.py .`, nineteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_a_me-now_four_moments_other-than_all_other-than_all.py .`, eighteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_rigor_of_other-than_all_other-than_all.py .`, sixteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_prior_now_next_the_podalings_passing_through.py .`, fourteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/is_a_logic_other_than_nand_in_this_window.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, nine lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_a_my_the_sixteen_names_on_a_pair_of_cones.py .`, thirteen lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_ten_rows_of_the_four_moments.py .`, eleven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_all_other_and_self_by_other-thans.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, seven lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_parity_universe_and_me_one_in_an_other.py .`, eight lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_ten_in_rows_of_one_two_three_and_four.py .`, six lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/the_open_sentences_rigorized_bothboth.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py .`, nine lines, all *is*; and `python3 -I incoming/v406geodesic2/instruments/check_the_diamond_of_nine_two_triangles.py .`, nine lines, all *is*.
+3. With no canvas at hand, `python3 -I incoming/v406geodesic2/instruments/make_draft4.py <a folder for the artboard> <a folder for its working preview>` builds the fourth artboard again from its geometry, byte for byte, its camera `incoming/v406geodesic/instruments/geom.py`; `make_draft5.py` to `make_draft19.py`, the same way, build the fifth to the nineteenth, the tenth, the eleventh and the thirteenth with a working preview, `draft10_preview.html`, `draft11_preview.html` and `draft13_preview.html`, a me-now set by `#me=29` after its name.
 4. One pass, one artboard beside the last, an artboard before it as it was.
