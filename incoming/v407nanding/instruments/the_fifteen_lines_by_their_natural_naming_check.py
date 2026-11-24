@@ -117,6 +117,17 @@ comments = [k for k in tokenize.generate_tokens(io.StringIO(NATURAL_CODE).readli
 docstrings = [n for n in ast.walk(tree) if isinstance(n, ast.Expr) and isinstance(n.value, ast.Constant)]
 say("L7. The code carries no story: no docstring and no comment in its lines", not comments and not docstrings)
 
+QUOTES = [
+    ("Exhibit_EIGHT_Natural_Exploring_v402mgr.md", "One method at each scale is a fractal, one with each scale, each scale's rendering not same-existing and a method whole."),
+    ("Exhibit_EIGHT_Natural_Exploring_v402mgr.md", "A rendering is not same-existing scale to scale; a method floats one."),
+    ("Exhibit_EIGHT_Natural_Exploring_v402mgr.md", "a scientific method's story"),
+    ("incoming/v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md", "Same-named things are other-than same things named by the same name."),
+    ("incoming/v406all2/The_window_of_the_opening_as_v406all2_goes_on_with_it.md", "A named universal set is the set of all same-named things."),
+]
+said = lambda path: re.sub(r"\s+", " ", (root / path).read_text(encoding="utf-8").replace("**", ""))
+say("L8. The page's quotations of why the code carries no story are word for word: three of Exhibit EIGHT and the window's lines 5 and 6",
+    all(q in said(path) for path, q in QUOTES))
+
 broken = {}
 exec(NATURAL_CODE.replace("next_observing_plus = either(next_observing_plus, now_observing_plus)",
                           "next_observing_plus = both(next_observing_plus, now_observing_plus)"), broken)

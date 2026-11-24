@@ -66,6 +66,20 @@ def now_existing(now_co_observing, now_possibling):
             is_next_co_possibling, is_next_co_observing)
 ```
 
+## Why the code carries no story
+
+- A story begins fuzzying the fractal's same names, by a partner's word of 24 November.
+- The fractal is always more universal than a story can carry, by a partner's word.
+- It is living already, in Exhibit EIGHT's 2.7: *One method at each scale is a fractal, one with each scale, each scale's rendering not same-existing and a method whole.*
+- Exhibit EIGHT has its rendering: *A rendering is not same-existing scale to scale; a method floats one.*
+- Exhibit EIGHT has a field's one cause as *a scientific method's story*.
+- A story is a rendering at one scale.
+- The window's line 5 is “Same-named things are other-than same things named by the same name.”
+- The window's line 6 is “A named universal set is the set of all same-named things.”
+- The fifteen lines' names are the same names at all scales, by this session's page of the fifteen lines named now, its N3 to N5.
+- A docstring of the lines says one scale alone, a name's.
+- Two of the lines in a row are a nand, at the scale under a name.
+
 ## The places and their living names
 
 - `a_cell` is `now_existing`, the living code's 1.
@@ -83,7 +97,7 @@ def now_existing(now_co_observing, now_possibling):
 
 ## Executed
 
-`python3 -I incoming/v407nanding/instruments/the_fifteen_lines_by_their_natural_naming_check.py .` is eight lines, all *is*. It opens v406Reiman's lines from their own file, and Exhibit ONE's code from its living file. What it gave is beside it, in `the_fifteen_lines_by_their_natural_naming_check_returned.txt`. Its M1 is broken on purpose, and it says is-not.
+`python3 -I incoming/v407nanding/instruments/the_fifteen_lines_by_their_natural_naming_check.py .` is nine lines, all *is*. It opens v406Reiman's lines from their own file, and Exhibit ONE's code from its living file. What it gave is beside it, in `the_fifteen_lines_by_their_natural_naming_check_returned.txt`. Its M1 is broken on purpose, and it says is-not.
 
 ## What is not said here
 
