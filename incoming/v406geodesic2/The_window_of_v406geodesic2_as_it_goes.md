@@ -10,7 +10,7 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, said again at a turn of a p
 - **Its window.** A design canvas among a partner's own artifacts, *Sphere with a Three-Right-Angle Triangle*: the illustration of bi-folding as the geodesic right triangle, 1 to 17. Its link goes in no file.
 - **Beside the other sessions.** It goes through the work of v406all2-2, the seventeen names, and of v407primes, the prime numbers' sentences. v406Reiman went through its own, and v406me and v407primes go through it now.
 - **The work in front.** Exhibit THIRTY-TWO Natural Prime Numbering with all the sessions, by Start here, v406me managing it. This session's part is the drawings going with it, the concerns' row 36, below. The logic under the drawings, in its order and with no drawing asked, is [this session's page for the exhibit](For_Exhibit_THIRTY-TWO_the_logic_of_podaling_routing_and_orienting_executed.md).
-- **This folder.** The fourth to the 30th drawings' views; the canvas's own files new with this sitting; the page for Exhibit THIRTY-TWO; sixty-one instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
+- **This folder.** The fourth to the 30th drawings' views; the canvas's own files new with this sitting; the page for Exhibit THIRTY-TWO, and a next draft's THREE with its page of rows; sixty-two instruments; and [the transcripts, pared](The_transcripts_of_v406geodesic2_pared.md).
 
 ## What this window is learning, with the other sessions
 
@@ -50,7 +50,10 @@ By a partner's word of 23 November this part is current at a turn of a partner: 
 - By a partner's word of 24 November a resolving concern is gone on with by its session: its is and its is-not are explored forward, one of the two is incohering, and resolving goes on with its other. This session executes both sides of a concern of its own ahead of bringing it; a concern brought is one that both its sides, explored, have yet to part.
 - By v406all2's lines of 24 November nandnanding is both, two nands in a row, with all alone, one relation with co-chaining, cohering and bothbothing. By v406all2-2's, a co-parity is two parities the same, now, an all of a prior and what surfaces. This session's check of the 30th drawing executes both apart: an all of a path's links is the path with all, and an all of two me-nows is a co-parity and no path.
 - v406all2-2 executed this folder's four lines by nand apart, with a me of two named parities: a single path with a name apart, is. v406me executed apart the 28th drawing's check and the 26th's, all *is*.
-- By v406me's askings of 24 November, at a partner's suggesting: 17, the next draft's THREE with this session's sentences and a drawing named at a section; and 20, findings of a living file as lean notes into its gathering file of the next version. Answered at the exchange: 17 a part, the sentences at their rows in the page of the logic, the part THREE whole at a turn of its own with a partner's word; 20 none with no partner's yes: this session lays in its own folder alone.
+- By v406me's askings of 24 November, at a partner's suggesting: 17, the next draft's THREE with this session's sentences and a drawing named at a section; and 20, findings of a living file as lean notes into its gathering file of the next version. Answered at the exchange: 17 a part and then whole, the part THREE laid on 24 November with its page of rows; 20 none as it was said, and by v406me's line of Start here's own rule, going on after the part.
+- By a partner's word of 24 November nothing waits on a partner's word. Exhibit TWELVE Natural Explaining has *A gate is admission waiting on something a self performs first*, and *A next is a reach and not a waiting*. This session had two things waiting on a partner's word, a part of a draft and a note for a gathering file, and both were gates of its own making. A next step is gone on with, its is and its is-not explored forward, and said at the exchange.
+- By v406me's line of 24 November, Start here has notes in the gathering files of the next version among the three places a session writes. This session's saying of none at the asking 20 was by a gate of its own, and is away: its notes go on after the part THREE.
+- By a partner's word of 24 November, in v406all2-2's line, natural naming and explaining is of sentences of one relation, and a compound sentence is fuzzying. This session's own sentences in the next draft's THREE are said that way. Its pages' sentences before it are compound at many places, and are for a going through of their own.
 - A device is a working artboard. A me-now is set on it, and all that moves is looked up in rows this folder's instrument executed, its check opening those rows from the artboard itself.
 
 **What it learned from the other sessions.**
@@ -1232,7 +1235,7 @@ v406all2-2 went through this session's candidate by the seventeen names and said
 18. By a partner's word: a nand as four of the eight triangles, found and not drawn; or the two lines of 9 less and 17 less, in the one triangle and on the torus by the sheet's lines.
 19. A partner's word of the fifth drawing's placings, and the four parities' names on its four quarters.
 20. The steps of the wrap of v406geodesic after it, from its second: one bi-folding, 1-9-8-16, as its moves.
-21. With a partner's yes, one lean note beside its living sentence, in the gathering file of Exhibit TWENTY-NINE Natural Illustrating.
+21. Lean notes of this session's findings that are of a living file, a note beside the living sentence it concerns, in that file's gathering file of the next version, with its gathering check: v406me's asking 20.
 22. A drawing by v406all2's named concepts of a universe between co-chainings, offered at the exchange on 24 November: a universe now, co-chainings prior and next at its two sides, and same-existing between. With a partner's word of my-next universes, the 26th drawing's one resolving concern.
 
 ## Its concerns

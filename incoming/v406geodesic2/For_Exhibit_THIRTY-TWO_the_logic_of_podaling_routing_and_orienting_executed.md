@@ -125,7 +125,7 @@ The diamonds, the cones and the sphere of this session's drawings are a drawing'
 - **Its 1.2:** *A number is two moments: a spiral's one pair of one parity moves one self on with a second moment.* Sentence 38 is beside it from a me: its prior is of the me one coupling back, two moments on.
 - **Its 3.3:** *Prior, now and next are three pairs of cones, 0 to 60, 60 to 120 and 120 to 180*. Sentences 36 and 37 are two cones about a me by its couplings alone, back and ahead. The stations' cones are a drawing's; the two as one is a partner's to say.
 - **Its opening of ONE,** the universe as the set of all now-existing things. Sentence 36 has my universe as a me with all mes of a co-chaining of givings to it. Exhibit THIRTY-ONE Me has *A me is a self's universal set.*
-- **A sentence for its 3.3** waits on a partner's word of my-next universes, the 26th drawing's one resolving concern.
+- **A sentence for its 3.3,** of my-next universes, is gone on with by this session, both its sides executed with the 27th drawing.
 
 ## A path of universes through a me, at one now
 
