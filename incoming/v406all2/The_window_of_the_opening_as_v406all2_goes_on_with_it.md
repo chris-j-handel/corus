@@ -45,6 +45,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, the numbering and the living list done in the document.** This session numbers, rigorizes and resolves with no harm, and brings a partner an is-or-is-not alone that it is unable to resolve, explained. A thing's line is numbered 2 and now-existing 3; the living list's table is said again in place; other-than is given until its line, the document's two sayings one.
 - **On 24 November, the circle of my and own resolved in the document.** 25 is *My is a named prior-sequence.*, said with 17 and name alone. Own is a given word until its line, as other-than is. The living list is said again at three rows. One is-or-is-not is asked, the hardest: own's line in after 25, with nine lines a number more, or own with no line.
 - **On 24 November, two lines of now and own in at their places.** *All now-existing things own-their-own now.* is after 3, numbered 50, and own is named ahead of all its uses: the hardest of own's line is resolved with no number moving. *Now is the only thing, and is the universe with no other-than.* is after 7, numbered 51. The living list is said again in the document.
+- **On 24 November, parity and co- in at their places.** *Co- is both selves of a bi-coupling.* is after 29, numbered 35, its card withdrawn and no line hanging on is of. *Parity is a self's own now.* is after it, numbered 52, by the found *Parity is each self's own, now* and own's line. The words with no line are eight.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -85,6 +86,8 @@ As the working document says them at its revision 587, on 24 November. The line 
 | **Me-now** is a same-existing me. | 27 |
 | A **bi-coupling** is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences. | 28 |
 | A bi-coupling is a self. | 29 |
+| **Co-** is both selves of a bi-coupling. | 35 |
+| **Parity** is a self's own now. | 52 |
 | A **me-parity** is a bi-coupling's me-now-existing-parity. | 30 |
 | **All-parity** is the named universal set of all now-existing me-parities. | 31 |
 | **Other-parity** is other-than all-parity. | 32 |
@@ -219,7 +222,7 @@ A partner's saying of 23 November: *keep this as a living list. words of the lin
 | distinguishing | 14 to 16, 22 to 24, 28 | with no line |
 | own | 50, 18, 22 and 23, 26, 28 | named at 50, after 3 |
 | two | 28 | with no line |
-| parity | 30 | with no line |
+| parity | 30 | named at 52, after 29 |
 | a | 2 and 3, 6, 13, 17 to 19, 21 to 25, 27 to 30, 34 | a plain joining word |
 | all | 6 and 7, 20 and 21, 31 | a plain joining word |
 | an | 2, 20, 22, 26 | a plain joining word |
@@ -756,6 +759,16 @@ All or none at all, binary, executed by `instruments/a_joined_name_parted_by_the
 - **No number moves.** The two lines are in order at their places and are numbered with the next numbers, 50 and 51, as a card at 49 was after 30.
 - **The hardest of own's line is resolved, a third way:** own is named by now and now-existing things, ahead of all its uses. Its line is not after 25, and it is no given word. The sentence of 23 November, *Own is the name of my-universe.*, is with it: a my-universe's name is its own.
 - **The living list is said again in the document:** own is named at 50, and only is in, at 51.
+
+**Parity and co-, in at their places on 24 November, with nothing asked.**
+
+| A line, as it is laid in the document | Its place, and its number | Executed, and found |
+|---|---|---|
+| *Co- is both selves of a bi-coupling.* | After 29, numbered 35, its card's own number | It was the card 35, *Co- is of both selves of a bi-coupling.*, hanging on the word of. Said with no of, its words are 18's and 28's with both, a plain joining word: no line hangs on is of now. The card is withdrawn |
+| *Parity is a self's own now.* | After 29 and 35, numbered 52 | Found: *Parity is each self's own, now*. Its words are 18's, 50's and 1's, and own was named at 50 on this day. Parity is named ahead of 30, 31, 32 and 33, and is away from the words with no line |
+
+- **The words with no line are eight,** of lines 1 to 34: other-than until its line, no, not, same, ending, beginning, distinguishing and two; and only, at 51.
+- **No number moves.** The living list is said again in the document at parity.
 
 **Not done, with no one saying of them cohering alone:** no beside not; a thing's line saying its own name; and one form for 3, 9, 11 and 12. They are rigor's findings, in the table above, and nothing is asked of them.
 

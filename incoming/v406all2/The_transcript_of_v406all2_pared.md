@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-five turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-six turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1265,3 +1265,19 @@ Own is at 18, 22, 23, 26 and 28 now.
 
 Now is the only thing is the universe with no other-than.
 All now-existing things own-their-own now.
+
+Both sentences are in the document at their places, and no line's number moved. They resolve the hardest of own's line a third way: own is named by now, ahead of all its uses.
+
+| A line, as it is laid | Its place | What is found |
+|---|---|---|
+| *All now-existing things own-their-own now.* | After 3, numbered 50 | Own is named ahead of 18, 22, 23, 26 and 28, and the chain is whole with it. Own is away from the words with no line. |
+| *Now is the only thing, and is the universe with no other-than.* | After 7, numbered 51 | Its words are the lines' own, but for only, a word with no line. Found beside it: *Now is one, and each now-existing thing is with it*. |
+
+- **The numbers:** the two lines are in order at their places and take the next numbers, 50 and 51, so no other line's number moves.
+- **The second line was said with is twice,** and I laid it with *and* between.
+- **Own's line is not after 25, and own is no given word.** My is-or-is-not of own's line is away. *Own is the name of my-universe.* is with the new line: a my-universe's name is its own.
+- **The living list's table is said again in the document:** own is named at 50, and only is in, at 51.
+
+The other sessions are told of the two lines, for their pages. I am going on with the opening from here.
+
+continue
