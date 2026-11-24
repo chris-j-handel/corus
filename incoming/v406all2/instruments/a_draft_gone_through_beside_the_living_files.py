@@ -383,4 +383,35 @@ print(f"   incohering: a universal same-named now-existing thing, beside *A ghos
       f"6 has universal as a set's, and 7 the universe as a set")
 print(f"   found at no place: fractured, the living files' places {said('fractured', living_plain)}; a bi-coupling of bi-couplings, {said(r'bi-coupl\w+ (of )?bi-couplings', living_plain)}")
 
+print("\n15. A sensor and its sensationer, and an atom stable form: a universal bi-coupling explored as method")
+BESIDE = [("a sensor and a sensationer, two sides", "A sensor and its sensationer have these two sides", True),
+          ("a sensor-sensationer, a bi-coupling", "sensor-sensationer bi-coupling transmissioning", True),
+          ("sensationing, a parity given, a + or a - alone", "it sensations, sharing a parity a body's couplings tip on, sign-only and taken or not", True),
+          ("binary sequential, backward to 440 binary sequential other-thans", "binary co-sequential sensor-sensationing: an observing with a between of two", True),
+          ("a bi-coupling", "A bi-coupling is two selves sharing possibling", True),
+          ("a method, a relation", "Method is a relation, each self stable-forming with it", True),
+          ("a method with a bi-coupling, non-living", "living's own condition with each bi-coupling at each scale", True),
+          ("an atom stable form", "An atom is a non-living stable form a molecule's sharing winds round", True)]
+for name, sentence, cohering in BESIDE:
+    assert sentence in living_plain, sentence
+    print(f"   cohering  : {name}; found: {sentence}")
+moments, givings = 0, set()
+for prior_a in (1, -1):
+    for prior_b in (1, -1):
+        give_a = give_b = None
+        for moment in range(12):
+            observed_a = [] if give_b is None else [with_nand.TWO[give_b]]
+            observed_b = [] if give_a is None else [with_nand.TWO[give_a]]
+            ga, next_a, a_gives, a_next = with_nand.a_cell(with_nand.TWO[prior_a], observed_a)
+            gb, next_b, b_gives, b_next = with_nand.a_cell(with_nand.TWO[prior_b], observed_b)
+            assert a_gives and b_gives and (moment == 0 or (observed_a and observed_b))
+            give_a, give_b, prior_a, prior_b = with_nand.ONE[ga], with_nand.ONE[gb], with_nand.ONE[next_a], with_nand.ONE[next_b]
+            givings |= {give_a, give_b}
+            moments += 1
+print(f"   by the code, two selves bi-coupled, four openings, {moments} moments: a self observes the other's giving and gives at all moments, a sensor and a sensationer both; "
+      f"a giving is one of {sorted(givings)}, a parity alone and no magnitude: is")
+print(f"   found at no place: a universal bi-coupling, the living files' places {said('universal bi-coupl', living_plain)}; fractured-fractal, {said('fractured[- ]fractal', living_plain)}; fractured, {said('fractured', living_plain)}")
+print(f"   28: {joined.lines[28]}")
+print("   incohering, to explore: 28 has a bi-coupling as both of two selves; an atom stable form is non-living, and 18 has a self with its own prior-sequence")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")

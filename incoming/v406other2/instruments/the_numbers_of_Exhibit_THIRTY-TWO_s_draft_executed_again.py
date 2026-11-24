@@ -235,6 +235,9 @@ say("3.5", "a cube of n about its line is 24, 60 and 120 with n of 3, 4 and 5, a
     [n ** 3 - n for n in (3, 4, 5)] == [24, 60, 120] and 5 * 4 * 3 + 10 * 6 == 120)
 
 # Parts FOUR and FIVE.
+say("4.1", "round a prime ending in 1 or 9 phi closes by a whole part of one short of it, and round a prime ending in 3 or 7 by a whole part of twice one past it, primes 7 to 10,000",
+    all((q - 1) % phi_closing(q) == 0 for q in range(7, 10_000) if sieve[q] and q % 10 in (1, 9))
+    and all((2 * (q + 1)) % phi_closing(q) == 0 for q in range(7, 10_000) if sieve[q] and q % 10 in (3, 7)))
 say("4.1", "phi's closings round 3, 5, 7, 11, 15 and 21 are 8, 20, 16, 10, 40 and 16", [phi_closing(n) for n in (3, 5, 7, 11, 15, 21)] == [8, 20, 16, 10, 40, 16])
 if len(sys.argv) > 1:
     import random

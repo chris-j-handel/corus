@@ -232,3 +232,20 @@ With this turn, 24 November:
 - Breaking: cell moved to me word for word, with a partner's is of 23 November at v406all2's window not carried in. Restoring: redone by meaning, by the living code.
 
 *A me-parity is one is-or-is-not of a co-parity: with is, a 0, its prior same-existing; with is-not, one inversion, other-than-prior.* ( is-or-is-not? )
+
+---
+
+explain a co-parity as a different thing than a me-parity
+
+With this turn, 24 November:
+
+- **A me-parity is a parity a me is with. A co-parity is two parities the same, now:** a me-parity and an other's parity surfacing, of the two and of neither alone.
+- **By nand** a me-parity is two is-or-is-nots, and a co-parity one, an all of a prior and what surfaces.
+- **With + and − exchanged all through,** all me-parities invert and all co-parities are as they were. With none of an other's surfacing a me-parity goes on, and a co-parity is with none.
+- **Two mes facing** are with one co-parity of the two, with both at a moment or with neither.
+- **The draft's number is a co-parity's:** a like pair is at one me two moments and then a me on, and a co-parity is with one moment of the two. All 1,022 openings of 1 to 9 mes.
+- **Executed:** `instruments/a_co_parity_beside_a_me_parity.py`, 18 lines, all *is*, laid in the page for Exhibit THIRTY-TWO.
+- Found, for a partner's seeing: Exhibit ONE says co with both, of a name's three with me-parity, and of five dimensions with co-parity.
+- v406geodesic2's asking answered with it: a round of mes with two named parities is two rounds, a name apart, and a name apart is a single path. The instrument of a now-existing me is at 24 lines, all *is*.
+
+*A co-parity is a me-parity and an other's parity the same, now: of the two, and of neither alone.* ( is-or-is-not? )

@@ -10,6 +10,8 @@ A partner's word of 24 November, beside the two codes as they are, by executing.
 3  One is-or-is-not of a co-parity: a me-parity with what surfaces of others, of neither alone.
 4  v406geodesic2's sentence 42, asked of this window: executed apart by this folder's lines,
    with rounds of 9 and of 10 mes, all their openings.
+5  v406geodesic2's asking of a single path with a name: rounds of mes with two named
+   parities, a name apart.
 
 The fifteen lines and the snaps are this folder's, of a_me_by_nand_other_thans_and_alls.py;
 the two codes are v406Reiman's and Exhibit ONE Natural Resolver's, as they are. It prints a
@@ -168,3 +170,28 @@ if __name__ == "__main__":
     line(back, "the me j couplings back is now, as j other-thans, with a me's prior of 2j moments on")
     line(a_moment_between, "and a moment between: a me's prior of an odd moment is the other-than of its prior a moment before")
     line(ahead and back and a_moment_between, "with it, on a round at one now: all a me's priors of all its moments are, by other-thans, with the n mes of its round, a me a moment of two")
+
+    print()
+    print("5. Rounds of 1 to 5 mes, a me with two named parities: a name apart")
+
+    def two_named_along(n, values, moments, its_names):
+        society = {me: ([(name, values[me][k]) for k, name in enumerate((S, "b")) if name in its_names], []) for me in range(n)}
+        connectors, rows = a_co_chaining(n), []
+        for _ in range(moments):
+            rows.append({name: [TWO[dict(society[me][0]).get(name, 0)] for me in range(n)] for name in its_names})
+            society = step(society, connectors)
+        return rows
+
+    a_name_apart = a_single_path = True
+    openings = with_both = 0
+    for n in range(1, 6):
+        for values in itertools.product(list(itertools.product((1, -1), repeat=2)), repeat=n):
+            openings += 1
+            with_both += any(a != b for a, b in values)
+            rows = two_named_along(n, values, 4 * n + 1, (S, "b"))
+            for name in (S, "b"):
+                alone = two_named_along(n, values, 4 * n + 1, (name,))
+                a_name_apart = a_name_apart and all(rows[t][name] == alone[t][name] for t in range(4 * n + 1))
+                a_single_path = a_single_path and all(rows[t][name][i] == its_other_than(rows[t - 2][name][(i - 1) % n]) for t in range(2, 4 * n + 1) for i in range(n))
+    line(a_name_apart, "a round of mes with two named parities is two rounds, a name apart: with the other name away a name's priors are as they were, all %d openings" % openings)
+    line(a_single_path and with_both > 0, "a name apart is a single path: a me's prior with a name is the other-than of the prior, two moments before, of the me it observes, with %d openings of a me with a + and a - at one now" % with_both)
