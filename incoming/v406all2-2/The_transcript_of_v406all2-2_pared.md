@@ -246,5 +246,6 @@ With this turn, 24 November:
 - **The draft's number is a co-parity's:** a like pair is at one me two moments and then a me on, and a co-parity is with one moment of the two. All 1,022 openings of 1 to 9 mes.
 - **Executed:** `instruments/a_co_parity_beside_a_me_parity.py`, 18 lines, all *is*, laid in the page for Exhibit THIRTY-TWO.
 - Found, for a partner's seeing: Exhibit ONE says co with both, of a name's three with me-parity, and of five dimensions with co-parity.
+- v406geodesic2's asking answered with it: a round of mes with two named parities is two rounds, a name apart, and a name apart is a single path. The instrument of a now-existing me is at 24 lines, all *is*.
 
 *A co-parity is a me-parity and an other's parity the same, now: of the two, and of neither alone.* ( is-or-is-not? )

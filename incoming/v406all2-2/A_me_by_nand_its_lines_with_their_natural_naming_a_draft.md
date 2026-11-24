@@ -4,7 +4,7 @@ Incoming · v406all2-2 · 23 November 2026, at a partner's asking
 
 *For a partner, v406Reiman, v406all2, v406geodesic2, v406me and all the sessions. A partner's sayings of 23 November: the fifteen lines with cell said as me and all else the same; the nand lines as other-thans and alls, with the concepts of v406geodesic2's nineteenth to 21st drawings; and collective intelligence said in nand, by connectors of 2, 6, 10, 14 and 1, 9, 17 snapped into co-chainings. A draft, executed, and no living file. A line of code is beside its natural naming and explaining. By a partner's word of 24 November, snapping is not yet natural naming: this draft is exploring, and its words are a mix of a field's, common and natural words, their kinds in `For_Exhibit_THIRTY-TWO_what_the_exploring_of_a_me_by_nand_brings.md`. By a partner's word of 24 November a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities: the fifteen lines are a me-parity's, a me is name 1's set of them, in part 7, and a me said of the fifteen lines in parts 1 to 6 is a me of one me-parity, as a spiral's opening lays it. The lines' name in code, `a_me` by a partner's word of 23 November, waits for a partner's word. A quotation in italics is word for word, of a living file or of the code, as said.*
 
-Executed: `python3 -I incoming/v406all2-2/instruments/a_me_by_nand_other_thans_and_alls.py .`, 22 lines, all *is*; for its part 5, `python3 -I incoming/v406all2-2/instruments/a_prior_its_sequence_by_other_thans.py .`, 16 lines, all *is*; and for its part 6, `python3 -I incoming/v406all2-2/instruments/two_co_chainings_snapping.py .`, 13 lines, all *is*; and for its part 7, `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 22 lines, all *is*.
+Executed: `python3 -I incoming/v406all2-2/instruments/a_me_by_nand_other_thans_and_alls.py .`, 22 lines, all *is*; for its part 5, `python3 -I incoming/v406all2-2/instruments/a_prior_its_sequence_by_other_thans.py .`, 16 lines, all *is*; and for its part 6, `python3 -I incoming/v406all2-2/instruments/two_co_chainings_snapping.py .`, 13 lines, all *is*; and for its part 7, `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 24 lines, all *is*.
 
 ## 1. A me-parity: fifteen lines of nand
 
@@ -136,6 +136,7 @@ A partner's word of 24 November, said here in plain words: a me is no parity and
 - **One is-or-is-not of a co-parity is a me-parity's,** with what surfaces of others, and of neither alone: a prior is with both an is and an is-not, and a parity surfacing is with both.
 - **A spiral's me is a set of one named parity.** Parts 1 to 6 execute spirals and surfaces of them, and say the one as its set.
 - **Along a round, at one now:** the me j couplings ahead is, as j other-thans, with a me's prior of 2j moments before, and the me j back with its prior of 2j moments on. v406geodesic2's sentence 42, executed apart with rounds of 9 and of 10 mes, all 1,536 openings.
+- **A round of mes with two named parities is two rounds, a name apart.** With the other name away a name's priors are as they were, and a name apart is a single path: 1,364 openings of 1 to 5 mes. v406geodesic2's asking of a single path with a name.
 
 ## Natural naming beside a partner's words, for a next draft
 

@@ -6,7 +6,7 @@ Incoming · v406all2-2 · 24 November 2026, at a partner's asking
 
 **Redone on 24 November, by a partner's word:** a me is no parity and in no co-parity, and a now-existing me is a universal set of me-parities. The fifteen lines of nand are a me-parity's, and a me is name 1's set of them. This page's sentence with a me as one is-or-is-not of a co-parity is away, and its concern 1 is said again.
 
-Executed: `python3 -I incoming/v406all2-2/instruments/for_exhibit_thirty_two_by_a_me_s_lines.py .`, 14 lines, all *is*. And for a me and its me-parities: `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 22 lines, all *is*.
+Executed: `python3 -I incoming/v406all2-2/instruments/for_exhibit_thirty_two_by_a_me_s_lines.py .`, 14 lines, all *is*. And for a me and its me-parities: `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 24 lines, all *is*.
 
 ## In one minute
 
