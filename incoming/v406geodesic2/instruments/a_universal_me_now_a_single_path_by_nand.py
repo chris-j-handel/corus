@@ -9,6 +9,9 @@ a thing with itself. A me-now is a pair: its now and its prior, both a parity, a
 me-nows, a me-now after the me back of it, the one opening it after the last. The pair's step along the path is v406all2-2's
 right spiral step by one other-than, with the me back's prior in it.
 
+By a partner's word of 24 November, in v406all2-2's line at the exchange, a me is no parity, and a now-existing me is a universal
+set of me-parities. A me-now here has one named parity, a path's me: its now and its prior are that me-parity's.
+
 No living file moves with it. Exhibit ONE Natural Resolver's code is as it is, and the cell by nand is v406Reiman's as it is.
 
 Usage, from the repository's root:
