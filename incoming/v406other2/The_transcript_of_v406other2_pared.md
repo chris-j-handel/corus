@@ -368,4 +368,18 @@ three, six, ten and 120, its one concern. The seventeenth name found with 61, a 
 sentences said forward, with no negation, and a hypothesis named Riemann's, a field's: the page
 For_Exhibit_THIRTY-TWO_sentences_laid_by_its_concerns.md of this folder, with its instrument, and a line
 at the exchange]
+
+A partner, on 24 November at 06:12, and again at 06:32:
+continue gathering from all the sessions into the gathering file of exhibit thirty as the illustrating
+in geodesic 2 session and all the sessions now are producing valuable naming explaining co chaining and
+cohering and we now have the 4 step natural proving method and this is valuable in all our work like the
+reimann hypothesis where we can not find the language bridge across the words proving and resolving and
+not we know what we can be proving inside resolving and what can not possibly be existing inside
+resolving universes and this is the bridging of this problem
+
+The session:
+[gathering into Exhibit THIRTY's gathering file goes on: seventeen lean notes offered into the next
+version, a note beside the living sentence it concerns, with its instrument. A partner's four of proving
+is beside Exhibit THIRTY's own sentences of a proof of a whole. Its one concern with a partner is the
+bridge's sentence. A partner's words in its page are said, and quoted no more]
 ```
