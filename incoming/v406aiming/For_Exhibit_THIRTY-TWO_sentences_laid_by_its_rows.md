@@ -6,14 +6,22 @@ Incoming · v406aiming · 24 November 2026, with a partner
 
 ## In one paragraph
 
-The draft executed by its own sections, row 69, is one instrument now: 53 sayings, 47 *is*, and the six *is-not* the draft's own sayings to mend at rows 12, 17, 18, 37, 42 and 44. A partner's suggesting of 24 November to row 27 is *is-not*: c's saying and energy's are dissolved, with no method of them in prime natural numbering. Its general part goes to all the sessions: the draft defines by negation at about fifty places, and a variation of negation is dissolved as not possibly existing, all defined forward from prior co-chaining. The four sources of row 25 are found at their sources, and the list is laid by year.
+The draft executed by its own sections, row 69, is one instrument now: 53 sayings, 47 *is*, and the six *is-not* the draft's own sayings to mend at rows 12, 17, 18, 37, 42 and 44. A partner's suggesting of 24 November to row 27 is *is-not*: c's saying and energy's are dissolved, with no method of them in prime natural numbering, and a partner's ghost defining is laid for 2.6. Its general part goes to all the sessions: the draft defines by negation at about fifty places, and a variation of negation is dissolved as not possibly existing, all defined forward from prior co-chaining. The four sources of row 25 are found at their sources, and the list is laid by year.
 
 ## Row 27, a partner's suggesting: is-not, dissolved
 
 - **A partner's suggesting, 24 November, in this session's words:** is-not. A saying with no method of it is dissolved. Variations of negation are found, and a variation is dissolved as not possibly existing; all is defined forward from prior co-chaining of naming and explaining. A speed is a measuring device's method, a hard problem's. Nothing of it is of use for prime natural numbering.
 - **3.2, the paragraph of c, dissolved:** *c is the one living all-parity. Light, measured constant for all observers, is no speed and no going across a gap: a phase-relation between couplings, an all-parity rate beyond all observable rates, the universal now.*
 - **Its last saying, forward from 3.1's atom and the resolver's 1 to 17, laid as its own bold after 3.1's table:** **An atom is the stable form of 1 to 17, a resolving's one moment.**
-- **2.6, energy, dissolved by this session's judging of the same suggesting,** a partner's word on it open: *Energy, a field's word for the zeros' levels, is a ghost: a conserving accounting for causing and effecting in a universe of equilibria, not possibly existing. The zeros themselves are no ghost, 4.4.* The section's name, and its line in the contents: **2.6 Ghosts, supernatural projections.**
+- **2.6, energy, dissolved,** by the same suggesting, and a partner's *is* to it of 24 November: *Energy, a field's word for the zeros' levels, is a ghost: a conserving accounting for causing and effecting in a universe of equilibria, not possibly existing. The zeros themselves are no ghost, 4.4.* The section's name, and its line in the contents: **2.6 Ghosts, supernatural projections.**
+
+## A partner's suggesting of the ghost defining, 24 November
+
+- **In this session's words:** universal speed is a ghost, and universal energy is a ghost. The ghost defining is the breaking of universality, and its being a same-named now-existing thing.
+- **Forward from the opening's lines:** line 5, *Same-named things are other-than same things named by the same name*; line 6, *A named universal set is the set of all same-named things*; line 18, *A named self is a same-named now-existing thing with its own prior-sequence*. A ghost is a universal set's name said as one same-named now-existing thing; a self is a same-named now-existing thing with its own prior-sequence.
+- **Beside the Living Ghost Registry's** *a ghost is one moment's form, installing it as an existing thing*: the registry has the installing, and the partner's defining has what is installed, a universal broken into one now-existing thing.
+- **For 2.6, a sentence laid, ahead of the draft's ghost sentences:** **A ghost is a universal broken into a same-named now-existing thing: a universal speed and a universal energy are ghosts.** The draft's *A ghost is a supernatural projection into non-existing universes, going as far out as an imagining asks, for no competent reason* says a ghost by negation, *non-existing* and *no competent reason*, and by this session's judging of the partner's general part it is dissolved, the laid sentence in its place. The draft's *A ghost is a still form installed as an existing thing*, with its three, goes on after it.
+- **For the opening:** a concept said in conversation, for v406all2's tab *Concepts* by the window's rigor, its self-welcoming place to be found, and no line by it.
 
 ## Rows to mend by a number, the draft's sentence said again whole
 
