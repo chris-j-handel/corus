@@ -129,4 +129,43 @@ print(f"   a pointer at its own section: lines {numbers(own)}")
 print(f"   a source with a year earlier than its prior line's: lines {numbers(turning)}")
 print(f"   the kit's rigorizer: {seated.strip().splitlines()[-1].split(':', 1)[-1].strip()}; its released words in the page: {', '.join(released) or 'none'}")
 
+print("\n7. The page's joined names by the opening's lines, 1 to 34, and four names v406me asked of")
+import contextlib
+import importlib.util
+import io
+from collections import Counter
+spec = importlib.util.spec_from_file_location("joined", ROOT / "incoming/v406all2/instruments/a_joined_name_parted_by_the_prior_lines.py")
+joined = importlib.util.module_from_spec(spec)
+argv, sys.argv = sys.argv, [sys.argv[0], str(ROOT)]
+with contextlib.redirect_stdout(io.StringIO()):
+    spec.loader.exec_module(joined)
+sys.argv = argv
+the_lines = set(joined.LINES_OF_BOTH)
+
+
+def no_line(a_name):
+    holes, size, parting = joined.partings(joined.parts_of(a_name), the_lines)[0]
+    return [word for word, kind in parting if kind is None]
+
+
+found = Counter(m.lower() for m in re.findall(r"\b[A-Za-z]+(?:-[A-Za-z]+)+\b", text))
+whole = sorted(name for name in found if not no_line(name))
+parts = Counter(word for name in found for word in set(no_line(name)))
+print(f"   {len(found)} joined names; {len(whole)} are said whole by the lines' names and the four given: {', '.join(whole)}")
+print(f"   parts named by no line, with their joined names: {', '.join(f'{w} {n}' for w, n in parts.most_common(14))}")
+whole_text = " ".join(living.values())
+print(f"   durable snapshot: parts with no line {no_line('durable snapshot')}; the page's places {said('durable snapshot', text)}, the living files' {said('durable snapshot', whole_text)};"
+      f" beside it Exhibit TWENTY-SEVEN's *a ghost is one moment's form, installing it as an existing thing*, {said('a ghost is one moment.s form, installing it as an existing thing', whole_text)} found")
+beside_same = [i for i in range(body_opens, len(lines)) if "next-universing" in lines[i] and "same-existing" in lines[i]]
+print(f"   next-universing: parts with no line {no_line('next-universing')}; the page's places {said('next-universing', text)}, the living files' {said('universing', whole_text)};"
+      f" said beside same-existing, 12, at {numbers(beside_same)}, and next-existing, 11, is the lines' name beside 12")
+print(f"   other-than-other-than: parts with no line {no_line('other-than-other-than') or 'none'}; the page's *other-than-other-than parity* {said('other-than-other-than parity', text)} found, a 0;"
+      f" the lines' own name *other-than-other-parity*, 33, same-existing, in the page {said('other-than-other-parity', text)}; and the page's 1.1 says a 0 with same-existing, {said('a 0, its prior same-existing', text)} found")
+stable = [i for i in range(body_opens, len(lines)) for m in re.finditer(r"[^.:;]*stable form[^.:;]*", lines[i])]
+non_living = sum("non-living" in m.group(0) for i in range(body_opens, len(lines)) for m in re.finditer(r"[^.;]*stable form[^.;]*", lines[i]))
+print(f"   a prime as the stable form of natural intelligence living: {said('A prime is the stable form of natural intelligence living', text)} found; stable form in the page {len(stable)} places,"
+      f" {non_living} of them with non-living; Natural Naming's *a non-living existing form with no same-existing for stable-forming*, {said('non-living existing form with no same-existing for stable-forming', whole_text)} found;"
+      f" and the page's *A prime lives five ways*, {said('A prime lives five ways', text)} found")
+places += 4
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
