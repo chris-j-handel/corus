@@ -48,14 +48,15 @@ if __name__ == "__main__":
     part = page.split("## The offered sentences, a relation a sentence")[1].split("\n## ")[0]
     offered = re.findall(r"^\d+\. \*\*(.+?)\*\*$", part, re.M)
     numbered = [int(n) for n in re.findall(r"^(\d+)\. \*\*", part, re.M)]
-    line(len(offered) == 22 and numbered == list(range(1, 23)), "its offered sentences are numbered 1 to %d, a sentence a line" % len(offered))
+    line(len(offered) == 16 and numbered == list(range(1, 17)), "its offered sentences are numbered 1 to %d, a sentence a line" % len(offered))
     with_a_mark = [(k + 1, its_marks(s)) for k, s in enumerate(offered) if its_marks(s)]
     line(not with_a_mark, "a sentence of them is with none of the marks: a colon, a semicolon, a comma, and, or, but")
     for number, marks in with_a_mark:
         print("       sentence %d is with %s" % (number, " with ".join(marks)))
     one_end = all(len(re.findall(r"[.?!]", s)) == 1 and s.endswith(".") for s in offered)
     line(one_end, "a sentence of them ends once")
-    line(not any("surfac" in s for s in offered), "no sentence of them says surfacing")
+    away = ("co-parit", "observed", "surfac", "giving", "gives", "given")
+    line(not any(word in s.lower() for s in offered for word in away), "no sentence of them says co-parity, observed, surfacing or giving")
     asked = "A me-parity is one is-or-is-not of a co-parity: with is, a 0, its prior same-existing; with is-not, one inversion, other-than-prior."
     line(its_marks(asked) == ["a colon", "a semicolon", "a comma"] and asked not in page, "this page's sentence of #1215 is with a colon, a semicolon and commas, and it is away")
 
