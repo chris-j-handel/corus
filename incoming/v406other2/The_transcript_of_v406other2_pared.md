@@ -575,4 +575,20 @@ a prime, with all numbers. A number is the middle of a podal pair of primes, the
 stepped 2 to 200,000, is; with all numbers, shown by no turn. A prime is its own podal pair. About 15
 the pairs are the six places of 30 past 1 and 29. The me-parity cone and the same-existing of me as a
 me's stable form are namings, not executed]
+
+A partner, on 24 November at 15:07:
+returning to reimann hypothesis and there is no more available to know about this stable form math
+question about the prime numbering system that is an existing and agreed set of numbers with a method
+of generating that involves each number has both adding+1  and mulitplying and if there is no adding +1
+the prime is dead and the resolving continues and the resolving method is podaling to all the plus ones
+so this method is direct to the primes and back no matter how large the prime. is this all or none at
+all
+
+The session:
+[a part at a time. Is, with all numbers: a number has adding 1 and multiplying; multiplying alone has
+no prime born; a prime is born with adding 1, one past a turn; a prime past 3 is one less or one more
+than a seam of 6, with all sizes of prime, and back by one step. Is-not as said: one less or one more
+than a seam being a prime, at 25, 35, 49 and 55, found by stepping alone; and no more to know of the
+hypothesis. These sentences are all of its source, and not its answer: all zeros their own other is
+said by none of them]
 ```

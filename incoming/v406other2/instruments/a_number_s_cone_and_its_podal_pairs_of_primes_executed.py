@@ -52,6 +52,39 @@ say(f"about 60 they are {len(pairs(60))}, and about 120, {len(pairs(120))}; abou
 say("a number's pair has one prime below it and one in its cone forward, a prime born past it: 4 to 2,000, "
     "all numbers no prime", all(all(a < n < b <= 2 * n for a, b in pairs(n)) for n in range(4, 2001) if not sieve[n]))
 
+
+# Adding 1 and multiplying: a prime born with adding 1, and the plus ones and less ones of the seams of 6.
+say(f"a prime past 3 is one less or one more than a seam of 6, a podal pair about the seam: to {2 * N:,}",
+    all(m % 6 in (1, 5) for m in range(5, 2 * N + 1) if sieve[m]))
+ones = [m for m in range(5, 2 * N + 1) if m % 6 in (1, 5)]
+say(f"one less and one more than the seams of 6, to {2 * N:,}, are {len(ones):,} numbers, and {sum(sieve[m] for m in ones):,} "
+    f"of them are primes; the lowest no prime are {', '.join(str(m) for m in ones if not sieve[m])[:14]}", "sized")
+say("one less or one more than a seam of 6 is no prime at 25, 35, 49 and 55, 5 by 5, 5 by 7, 7 by 7 and 5 by 11",
+    [m for m in ones if not sieve[m]][:4] == [25, 35, 49, 55])
+
+
+def lowest(n):
+    d = 2
+    while d * d <= n:
+        if n % d == 0:
+            return d
+        d += 1
+    return n
+
+
+turn, rows = 1, []
+for q in (2, 3, 5, 7, 11, 13):
+    turn *= q
+    rows.append((turn, lowest(turn - 1), lowest(turn + 1), q))
+say("a turn's primes multiplied are crossed by them alone, and one less and one more are crossed by none of them, "
+    "their lowest parts all past the turn's primes: the turns of 2 to 30,030",
+    all(lo > q and hi > q for t, lo, hi, q in rows[1:]))
+say("one less and one more than the turns 6, 30 and 2,310 are primes, 5 and 7, 29 and 31, 2,309 and 2,311; "
+    "209 is 11 by 19 and 30,031 is 59 by 509, primes born past their turns",
+    [(t, lo == t - 1, hi == t + 1) for t, lo, hi, q in rows[1:]]
+    == [(6, True, True), (30, True, True), (210, False, True), (2310, True, True), (30030, True, False)]
+    and 209 == 11 * 19 and 30031 == 59 * 509)
+
 for kind, text in out:
     print(f"{kind:8}{text}")
 kinds = [k for k, t in out]
