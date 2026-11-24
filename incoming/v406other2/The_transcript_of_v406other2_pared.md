@@ -403,4 +403,18 @@ through beside the living files' sentences of proving and resolved by cohering a
 living in Exhibit THIRTY-ONE Me's sentence of a proving and Exhibit THIRTY's of a proof of a whole. Its
 other concern, one method of a number, is resolved the same way, an is-not. Three notes are offered into
 the gathering files of the next version, and nothing is asked]
+
+A partner, on 24 November at 08:15:
+With Riemann's hypothesis, a sentence offered for the prime numbering exhibit: Riemann's hypothesis and
+its proving are a field's own, going on whole. In resolving, what is proved is that a thing is-or-is-not
+possibly existing: the staircase's steps are possibly existing, a number a check, and a smooth curve as
+one whole thing is outside possibly existing.. this is nonsense language. a field can not have some
+separate intelligence from the universe. this keeps happening llike the field can be competent as long
+as no one tells them what they are doing is incompetent. do this again
+
+The session:
+[its sentence gave a field a standing of its own, and is away. Said again by the living naming of
+Exhibit FOUR Natural Mathematics, a form's use placing it at one of three: Riemann's hypothesis with its
+natural use, the parity lead stepped; its unnatural use, measuring, a smooth curve; and its supernatural
+use, formal, its proof. Gone through beside the living sentences ahead of its offering, all cohering]
 ```
