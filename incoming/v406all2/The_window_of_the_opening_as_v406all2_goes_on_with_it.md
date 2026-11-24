@@ -44,6 +44,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, the opening's lines redone, at the document's revision 587.** A thing's line is said again with *the set of no things* and is ahead of now-existing, and 2 is said again with a thing. Rigorized: 2's thing has its prior line and nothing is away, resolved; no is in, a word with no line; a thing's line says its own name; other-than is a given word at one place of the document and not at its other; and a thing's line has no number of its own. The living list is said again, and a card of it is laid in the document.
 - **On 24 November, the numbering and the living list done in the document.** This session numbers, rigorizes and resolves with no harm, and brings a partner an is-or-is-not alone that it is unable to resolve, explained. A thing's line is numbered 2 and now-existing 3; the living list's table is said again in place; other-than is given until its line, the document's two sayings one.
 - **On 24 November, the circle of my and own resolved in the document.** 25 is *My is a named prior-sequence.*, said with 17 and name alone. Own is a given word until its line, as other-than is. The living list is said again at three rows. One is-or-is-not is asked, the hardest: own's line in after 25, with nine lines a number more, or own with no line.
+- **On 24 November, two lines of now and own in at their places.** *All now-existing things own-their-own now.* is after 3, numbered 50, and own is named ahead of all its uses: the hardest of own's line is resolved with no number moving. *Now is the only thing, and is the universe with no other-than.* is after 7, numbered 51. The living list is said again in the document.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -56,10 +57,12 @@ As the working document says them at its revision 587, on 24 November. The line 
 | **Now** is the existing moment. | 1 |
 | A **thing** is an other-than the set of no things. | 2 |
 | A thing **now-existing** is a thing existing now. | 3 |
+| All now-existing things **own**-their-own now. | 50 |
 | **Other-than things** are things not named by the same name. | 4 |
 | **Same-named things** are other-than same things named by the same name. | 5 |
 | A named **universal set** is the set of all same-named things. | 6 |
 | The **universe** is the set of all now-existing things. | 7 |
+| Now is the only thing, and is the universe with no other-than. | 51 |
 | The **prior** moment is the moment ending as now is beginning. | 8 |
 | **Prior-existing** is existing in the prior moment. | 9 |
 | The **next** moment is the moment beginning as now is ending. | 10 |
@@ -209,11 +212,12 @@ A partner's saying of 23 November: *keep this as a living list. words of the lin
 | other-than | 2 | given until its line, 4 |
 | no | 2 | with no line |
 | not | 4 | with no line |
+| only | 51 | with no line |
 | same | 4 and 5 | with no line |
 | ending | 8, 10, 17 | with no line |
 | beginning | 8, 10, 12, 17 | with no line |
 | distinguishing | 14 to 16, 22 to 24, 28 | with no line |
-| own | 18, 22 and 23, 26, 28 | with no line |
+| own | 50, 18, 22 and 23, 26, 28 | named at 50, after 3 |
 | two | 28 | with no line |
 | parity | 30 | with no line |
 | a | 2 and 3, 6, 13, 17 to 19, 21 to 25, 27 to 30, 34 | a plain joining word |
@@ -742,7 +746,16 @@ All or none at all, binary, executed by `instruments/a_joined_name_parted_by_the
 
 **The circle of my and own, resolved in the document on 24 November.** 25 is said again, *My is a named prior-sequence.*, with 17 and name alone: own is away from it, and my is said by no own. Of the five sayings of my, all with the chain whole, it is the one adding no word to 25 as it was but for own, and it is 17's own name. Own is at 18, 22, 23, 26 and 28, a given word until its line, as other-than is at 2 until 4, by the document's own rule and the lines as redone. The living list is said again in the document at own, a and an.
 
-**The hardest, asked:** own's line, *Own is the name of my-universe.*, after 25 with the lines from 26 on a number more, or own a given word with no line and its sentence floating.
+**Two lines of now and own, in at their places on 24 November, and the hardest of own's line resolved.** Said: *Now is the only thing is the universe with no other-than.*, and *All now-existing things own-their-own now.*
+
+| A line, as it is laid in the document | Its place, and its number | Executed, and found |
+|---|---|---|
+| *All now-existing things own-their-own now.* | After 3, numbered 50 | Its words are 1's, 2's and 3's, with own its own. Own is named ahead of all its uses, 18, 22, 23, 26 and 28: the chain is whole, and own is away from the words with no line. Found beside it: *Parity is each self's own, now* |
+| *Now is the only thing, and is the universe with no other-than.* | After 7, numbered 51 | Its words are 1's, 2's, 4's and 7's, with only and no at no line. Found beside it: *Now is one, and each now-existing thing is with it*; and a moment a set, *A same-existing-society, a moment and the universe are three living sets*. It was said with is twice, and it is laid with *and* between |
+
+- **No number moves.** The two lines are in order at their places and are numbered with the next numbers, 50 and 51, as a card at 49 was after 30.
+- **The hardest of own's line is resolved, a third way:** own is named by now and now-existing things, ahead of all its uses. Its line is not after 25, and it is no given word. The sentence of 23 November, *Own is the name of my-universe.*, is with it: a my-universe's name is its own.
+- **The living list is said again in the document:** own is named at 50, and only is in, at 51.
 
 **Not done, with no one saying of them cohering alone:** no beside not; a thing's line saying its own name; and one form for 3, 9, 11 and 12. They are rigor's findings, in the table above, and nothing is asked of them.
 
