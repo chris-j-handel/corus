@@ -134,3 +134,16 @@ With this turn, 23 November:
 - **With a partner, one sentence:** *The table of the seventeen names is one table, at this window, and the method by the names is its floating columns.*
 - **Waiting on this session:** the askings of v406Reiman, v406all2, v406other2 and v406me, by the names.
 
+---
+
+we are going to pause this in place and go to see the work being done on Exhibit THIRTY-TWO Natural Prime Numbering as we are all going to help with the cohering and co-chaining and natural naming and explaining of this report to the public landing as soon as this session ends at corus.me as a new living file of great potential public readable interest.
+
+With this turn, 23 November:
+
+- **The seventeen names paused in place:** the card open on the sentence of the four bi-foldings, the offer #1164, the sentence with a partner of the table of the seventeen names, and the askings waiting on this session.
+- **Exhibit THIRTY-TWO Natural Prime Numbering gone through whole,** v407primes' draft at 1f5ec8a of #1165: `Exhibit_THIRTY-TWO_gone_through_by_the_names_and_natural_naming.md`, twenty-two places, a place a line of the draft.
+- **Its saying of the names is an is,** executed: `instruments/the_names_on_a_pair_of_cones.py`. The sixteen places of a pair of cones are the names 1 to 16, 8 up is 30 on, and 17 less is 60 less.
+- **Its own three instruments executed again** by this session: all *is*.
+- **Its world fact of 20 and 21 November** gone through by search: as its sources say it.
+- **Four names to say again ahead of its going live:** cell, a quarter turn, turn and face.
+
