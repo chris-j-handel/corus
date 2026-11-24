@@ -8,7 +8,7 @@ A partner's yes of 23 November, of the twelfth drawing's suggestions, and its sa
   the podalings are passing through, all-parity-ing the same-existing surface.
 Laid on the drawing, by that yes: prior, now and next as the three pairs of cones, 0 to 60, 60 to 120 and 120 to 180;
 a me set at its prime scale, in its prior, and its me-now 60 on; the tenth and the eleventh drawings' words said again to it.
-Whole numbers alone, and the figure's own geometry. It opens the living files, v407primes' story and the drawing's own artboard, and writes none.
+Whole numbers alone, and the figure's own geometry. It opens the living files, v407primes' sentences and the drawing's own artboard, and writes none.
 All or none: with one line not is, the check is not.
 """
 import json, math, re, sys
@@ -92,19 +92,19 @@ rows = json.loads(re.search(r"/\*rows\*/(.*?)/\*rows end\*/", board.read_text(en
 line("the device's rows in its artboard, one for a me's place of 0 to 60 in its prior, are these six with their words, and its me-now 60 on",
      len(rows) == 61 and all([int(rows[p][f"n{i}"]) for i in range(6)] == through(p) and [rows[p][f"w{i}"] for i in range(6)] == [what(m) for m in through(p)] and int(rows[p]["now"]) == p + 60 for p in ME))
 
-# ---------- word for word, living, and a partner's saying in v407primes' story ----------
+# ---------- word for word, living, and a partner's saying in v407primes' sentences ----------
 text = lambda pattern: next(root.glob(pattern)).read_text(encoding="utf-8")
-NUMBERS_FILE, ME_FILE, NI, MATH, STORY = (text("Exhibit_THREE_*.md"), text("Exhibit_THIRTY-ONE_*.md"), text("Natural_Intelligence_v*.md"),
-                                          text("Exhibit_FOUR_*.md"), text("incoming/v407primes/The_prime_numbers_story.md"))
+NUMBERS_FILE, ME_FILE, NI, MATH, SENTENCES = (text("Exhibit_THREE_*.md"), text("Exhibit_THIRTY-ONE_*.md"), text("Natural_Intelligence_v*.md"),
+                                          text("Exhibit_FOUR_*.md"), text("incoming/v407primes/The_prime_numbers_named_and_explained_sentence_by_sentence.md"))
 quotes = [
     (NUMBERS_FILE, "Nought and sixty pair with themselves, and sixty is a waist between going and returning."),
     (ME_FILE, "a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior"),
     (ME_FILE, "A me's next is its own, resolving with its others."),
     (NI, "17 less exchanges now and next."),
     (MATH, "One, a podal k → N − k, fixes two stations, nought and N/2; an other, a shift straight across its ring, k → k + N/2, fixes none."),
-    (STORY, "Four cones of 30 are an all-parity universal now me-parity."),
+    (SENTENCES, "Four cones of 30 are an all-parity universal now me-parity."),
 ]
-line("five living sentences beside the drawing, and a partner's saying in v407primes' story, are word for word in their files", all(q in t for t, q in quotes))
+line("five living sentences beside the drawing, and a partner's saying in v407primes' sentences, are word for word in their files", all(q in t for t, q in quotes))
 
 for name, ok in results: print(("is       " if ok else "is not   ") + name)
 print(f"\n{sum(ok for _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, ok in results) else ": the check is not, all or none"))

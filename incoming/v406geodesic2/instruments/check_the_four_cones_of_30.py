@@ -7,7 +7,7 @@ The candidate laid on the drawing, by a partner's yes of its one sentence:
   four cones of 30 in one line, the co-linear, their ends at 0, 30, 60, 90 and 120, facing two and two:
   two crossing at 30 and two at 90, as the fifth drawing's two cones cross, and the two pairs through one vertex at 60;
   0 to 120 one right-hand winding about the co-linear, a turn a cone, a number 12 degrees on from the one before it.
-The staircase and its geodesic are v407primes' story's sentence 84, executed here apart.
+The staircase and its geodesic are v407primes' sentence 84, executed here apart.
 Whole numbers alone, and the figure's own geometry. It opens the living files and writes none.
 All or none: with one line not is, the check is not.
 """
