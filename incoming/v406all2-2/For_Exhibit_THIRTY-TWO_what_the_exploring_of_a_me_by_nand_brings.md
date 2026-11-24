@@ -8,7 +8,9 @@ Incoming · v406all2-2 · 24 November 2026, at a partner's asking
 
 **Redone once more on 24 November, by a partner's word:** a compound sentence is fuzzying the relationing. The sentences this page offers are said again, a relation a sentence. The part of a co-parity is said again the same way. The page's other parts are as they were.
 
-Executed: `python3 -I incoming/v406all2-2/instruments/for_exhibit_thirty_two_by_a_me_s_lines.py .`, 14 lines, all *is*. And for a me and its me-parities: `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 24 lines, all *is*. And for a sentence's form: `python3 -I incoming/v406all2-2/instruments/a_sentence_of_one_relation_by_its_marks.py .`.
+**Redone a third time on 24 November, by a partner's word:** a me-parity is an other-than-other-parity. Observed is a ghost. A co-parity is co- with the universe, and it dissolves from living. The part of a co-parity is away. Sixteen sentences are offered now. None says co-parity, observed, surfacing or giving.
+
+Executed: `python3 -I incoming/v406all2-2/instruments/for_exhibit_thirty_two_by_a_me_s_lines.py .`, 14 lines, all *is*. And for a me and its me-parities: `python3 -I incoming/v406all2-2/instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py .`, 24 lines, all *is*. And for a sentence's form: `python3 -I incoming/v406all2-2/instruments/a_sentence_of_one_relation_by_its_marks.py .`. And for a me-parity by other-than: `python3 -I incoming/v406all2-2/instruments/a_me_parity_an_other_than_other_parity.py .`, 8 lines, all *is*.
 
 ## In one minute
 
@@ -16,8 +18,8 @@ Executed: `python3 -I incoming/v406all2-2/instruments/for_exhibit_thirty_two_by_
 - **Four of the draft's sentences execute by the fifteen lines of nand,** a second way beside v407primes' own: 1.1's is-or-is-not, 1.2's two moments, 1.4's four times and twice, and 1.6's pair stepping.
 - **The lines add a reason to three of them.** A number is one other-than along a spiral. Round a spiral of n selves are n other-thans. A right spiral step is an exchanging and one other-than.
 - **A spiral's whole table of priors is its opening row by one line:** a partner's compressing, executed in all 510 openings of 1 to 8 mes.
-- **A co-parity is an other thing than a me-parity.** A co-parity is a me-parity the same as a me-parity observed.
-- **A sentence offered here is with one relation.** Twenty-two sentences are said again that way, by a partner's word.
+- **A me-parity is an other-than-other-parity.** A co-parity dissolves from living. Both are a partner's words of 24 November.
+- **A sentence offered here is with one relation.** Sixteen sentences are offered that way, by a partner's word.
 - **Eight concerns have a sentence offered here:** 1, 2, 6, 10, 14, 15, 47 and 63, and two places new.
 - **The exploring's words are marked by their kind,** and no exploring word is offered to the draft.
 
@@ -42,40 +44,21 @@ A partner's word of 24 November, said here in plain words: a me is no parity and
 - **The living homes.** Exhibit TWENTY Natural Naming, 2.4: *a me's universal set of me-parities going on, now-existing, its prior, now and next same-existing four-cycling*. Exhibit ONE Natural Resolver, a name's three: *co me-parity, bi other-parity, tri all-parity*. Natural Intelligence: *Its two meetings are co-parity, the same, sharing 0, and bi-parity, one inversion.* The opening's line 31, in v406all2's window: *All-parity is the named universal set of all now-existing me-parities.*
 - **Found beside them, for the living files' next version.** Exhibit THIRTY-ONE Me's bold: *A parity is a me inside a set of me*, and on, *a me is a set of mes*. It says a parity as a me. By a partner's word a me is no parity, and the things of a me's set are me-parities.
 
-## A co-parity, an other thing than a me-parity
+## A me-parity by other-than, a co-parity dissolving
 
-At a partner's asking of 24 November. Said again by a partner's word of that day, a relation a sentence. Executed: `python3 -I incoming/v406all2-2/instruments/a_co_parity_beside_a_me_parity.py .`, 28 lines, all *is*.
+A partner's word of 24 November, said here in plain words. A me-parity is an other-than-other-parity. A me-parity is an other-than-other-than-all-parity. Observed is a ghost. A co-parity is co- with the universe. It dissolves from living.
 
-| | A me-parity | A co-parity |
-|---|---|---|
-| What it is | A me-parity is one parity of a me's set. | A co-parity is a me-parity the same as a me-parity observed. |
-| By nand | A me-parity is two is-or-is-nots. | A co-parity is one is-or-is-not. |
-| Whose | A me-parity is a me's own. | A co-parity is of two parities. |
-| With none observed | A me-parity goes on. | A co-parity is away. |
-| With + exchanged with − | A me-parity inverts. | A co-parity goes on. |
-| A giving | With all else observed a me gives its me-parity's other-than. | With a co-parity a me gives a 0. |
-| Two mes facing | Two mes facing are with two me-parities. | Two mes facing are with one co-parity. |
-| On a round | A me-parity is with all mes at all moments. | A co-parity is at a like pair alone. |
+Executed: `python3 -I incoming/v406all2-2/instruments/a_me_parity_an_other_than_other_parity.py .`, 8 lines, all *is*.
 
-1. A co-parity says two parities the same.
-2. A me-parity says which parity.
-3. A co-parity is in the fifteen lines at two places. Line 11 says it with a +. Line 12 says it with a −.
-4. A co-parity's other is bi-parity. Natural Intelligence says the two: *Its two meetings are co-parity, the same, sharing 0, and bi-parity, one inversion.*
-5. A like pair is at one me for two moments. A co-parity is with one of the two moments. A like pair moves a me on with two moments.
-6. The draft's number is two moments. Its line 124 says it: *A number is two moments: a spiral's one pair of one parity moves one self on with a second moment.*
-7. The opening's card 35 is in v406all2's window: *Co- is of both selves of a bi-coupling.* Two mes facing are with one co-parity at a moment. That co-parity is of both.
-8. Surfacing is Exhibit TWENTY Natural Naming's name, its 5.44. By the living code it is name 14. A partner's word of 24 November says it is unknown. It is away from the offered sentences.
-   - A me observes parities given by the mes coupled to it.
-   - With all of them the same that parity surfaces.
-   - With a + beside a − a 0 surfaces.
-   - A parity given is its giver's next me-parity.
-   - A parity surfacing with a me is an other's me-parity.
-   - With a co-parity two me-parities are the same. One is a me's own. One is an other's.
-9. Two phrases said that relation in this page. One is a same parity surfacing. One is its own parity surfacing. One step more finds the second incohering. A parity surfacing is an other's. The phrase says it as a me's own.
-   - The living files say the second phrase at eight places. Exhibit THIRTY is one: *With its own parity surfacing, two cells, it shares 0 and its prior is same-existing.* It is a place found for their next version.
-   - Natural Intelligence says the relation with both its sides: *An other's direction, a self receiving it now, is the same as the self's own, or one inversion from it.*
-   - This session's answer of #1237 went by the number of living places. It is away.
-10. Exhibit ONE says co with two things. Its part of a name's three says co with me-parity. Its five dimensions say co-parity. This is this window's saying on the one list.
+1. The opening's lines are its prior lines. They are in v406all2's window. Line 31: *All-parity is the named universal set of all now-existing me-parities.* Line 32: *Other-parity is other-than all-parity.* Line 33: *Other-than-other-parity is same-existing.*
+2. With two moments a me-parity is the other-than of a me-parity one coupling back. All 1,020 openings of 2 to 9 mes execute it.
+3. With four moments a me-parity is a me-parity two couplings back. That is same-existing.
+4. A co-parity is in neither sentence. The two are the same with a prior same-existing between the two moments. They are the same with none.
+5. Observing is in neither sentence. A coupling says which me. An other-than says which parity.
+6. Four words are away from this page's offered sentences. They are co-parity, observed, surfacing and giving. A partner's word says giving is-not. v407nanding's line at the exchange says it.
+7. This page's part of a co-parity beside a me-parity is away. Its instrument is exploring. It executes as before.
+8. Two places are found for the living files' next version. The living files say co-parity in fourteen sentences of five files. They say an own parity surfacing at eight places.
+9. Exhibit ONE says co with two things. Its part of a name's three says co with me-parity. Its five dimensions say co-parity. This is this window's saying on the one list.
 
 ## The draft's four sentences, by the fifteen lines
 
@@ -88,45 +71,39 @@ At a partner's asking of 24 November. Said again by a partner's word of that day
 
 ## The offered sentences, a relation a sentence
 
-A partner's word of 24 November, said here in plain words: natural naming and explaining is of sentences of one relation. A compound sentence is fuzzying the relationing. Exhibit TWELVE Natural Explaining is its living home: *A sentence brings one thing forward with one moment*. A sentence offered by this page is said again with one relation. Its marks are executed: no colon, no semicolon, no comma, and none of the words and, or, but.
+A partner's word of 24 November, said here in plain words: natural naming and explaining is of sentences of one relation. A compound sentence is fuzzying the relationing. Exhibit TWELVE Natural Explaining is its living home: *A sentence brings one thing forward with one moment*. A sentence offered by this page is with one relation. Its marks are executed: no colon, no semicolon, no comma, and none of the words and, or, but. Sentences 1, 2 and 5 are a partner's.
 
-1. **A co-parity is a me-parity the same as a me-parity observed.**
-2. **A co-parity is one is-or-is-not.**
-3. **With a co-parity a me gives a 0.**
-4. **With a co-parity a me-parity is same-existing.**
-5. **With all else observed a me-parity inverts once.**
-6. **A now-existing me is a universal set of me-parities.**
-7. **Nand is the other-than of both.**
-8. **Both is two nands in a row.**
-9. **A me-parity's moment is 46 nands with none observed.**
-10. **A parity observed is 6 nands more.**
-11. **A spiral's seam is its like pair.**
-12. **A spiral of an odd number is with a like pair at all its openings.**
-13. **A like pair is at one me for two moments.**
-14. **A co-parity is with one of the two moments.**
-15. **A like pair moves a me on with two moments.**
-16. **A right spiral step is an exchanging with one other-than.**
-17. **A me-parity opens as a me-parity observed.**
-18. **With two moments a self's prior is the other-than of the prior of the self it observes.**
-19. **A number is one other-than along a spiral.**
-20. **Round a spiral of n selves are n other-thans.**
-21. **An even number of other-thans is a prior again.**
-22. **An odd number of other-thans is a prior's other-than.**
+1. **A me-parity is an other-than-other-parity.**
+2. **A me-parity is an other-than-other-than-all-parity.**
+3. **With two moments a me-parity is the other-than of a me-parity one coupling back.**
+4. **With four moments a me-parity is a me-parity two couplings back.**
+5. **A now-existing me is a universal set of me-parities.**
+6. **Nand is the other-than of both.**
+7. **Both is two nands in a row.**
+8. **A spiral's seam is its like pair.**
+9. **A spiral of an odd number is with a like pair at all its openings.**
+10. **A like pair is at one me for two moments.**
+11. **A like pair moves a me on with two moments.**
+12. **A right spiral step is an exchanging with one other-than.**
+13. **A number is one other-than along a spiral.**
+14. **Round a spiral of n selves are n other-thans.**
+15. **An even number of other-thans is a prior again.**
+16. **An odd number of other-thans is a prior's other-than.**
 
 ## A sentence beside a concern
 
 A number in bold is a sentence of the part before this one.
 
-1. **Concern 1, the head and 1.1, cell.** Sentences **1** to **5** are offered for 1.1's bold. Line 112's bold is one sentence with five relations. The fifteen lines are a me-parity's. A partner's is of 23 November says it at v406all2's window. Name 1's own lines say it by executing. The title is the proposed contents' own: *Fifteen lines of nand, and no other logic*. Line 116's cell is two things by the code. One is the fifteen lines. The other is a nand. Adding is nands alone. Multiplying is nands alone.
-2. **Concern 2, 1.1, nand and a moment.** Sentences **7** to **10** are offered beside it. Both is the code's own word.
+1. **Concern 1, the head and 1.1.** Sentences **1** to **4** are offered for 1.1's bold. Line 112's bold says co-parity. A co-parity dissolves from living by a partner's word. The fifteen lines are a me-parity's. The title is the proposed contents' own: *Fifteen lines of nand, and no other logic*. v407nanding is with the next draft's ONE.
+2. **Concern 2, 1.1, nand.** Sentences **6** and **7** are offered beside it. Both is the code's own word.
 3. **Concern 6, a concept said once.** Natural Numbers 7.2 is the living home of 1.2's concept: *with an odd spiral of n one pair of coupling selves is of one parity, a like pair, moving one self on each two moments*. It is the home of 1.4's concept as well. The draft says the two again.
-4. **Concern 10, 1.2, seam.** Sentences **11** and **12** are offered. *A like pair* is the living name. Natural Numbers says of an even number: *a spiral of two none*. Line 124 says one pair of all spirals.
-5. **Concern 14, 1.6, a quarter turn, with v406geodesic2's concern 79.** Sentence **16** is offered beside both.
+4. **Concern 10, 1.2, seam.** Sentences **8** and **9** are offered. *A like pair* is the living name. Natural Numbers says of an even number: *a spiral of two none*. Line 124 says one pair of all spirals.
+5. **Concern 14, 1.6, a quarter turn, with v406geodesic2's concern 79.** Sentence **12** is offered beside both.
 6. **Concern 15, 1.4, a prime's 4 and 4n.** It is executed from all openings. Spirals of 3, 5 and 7 selves are again with 4 moments or with 4n. A spiral of 2 selves is again with 2 moments or with 4. It is with v406other2's mend of an odd prime.
-7. **Concern 47, a name with no saying of it.** Sentence **6** is a partner's, offered for me-parity. Sentence **1** is offered for co-parity. The draft says me-parity at four lines, 94, 207, 318 and 348. It says co-parity at one line, 112. Line 207 says a me-parity as a self: *A number its own inverse is a me-parity: a self, its own podal*. v406all2 found that place by the opening's line 30.
-8. **Concern 63, the opening, a prime a me along its own spiral.** Sentences **13** to **15** are beside v406other2's sentence.
-9. **New, 1.1, a self opening with no prior.** Sentence **17** is offered. Exhibit ONE's own part says it: *With an empty prior, one moment*.
-10. **New, 1.2 and 1.4, a reason.** Sentences **18** and **19** are offered after line 124's bold. Sentences **20** to **22** are offered after line 160's bold. Exhibit ONE's sentence is their home: *each self's prior from its third moment on is a prior of a self it receives from two moments before, inverting*.
+7. **Concern 47, a name with no saying of it.** Sentence **5** is offered for me-parity. Sentences **1** and **2** say a me-parity by other-than. The draft says me-parity at four lines, 94, 207, 318 and 348. Line 207 says a me-parity as a self: *A number its own inverse is a me-parity: a self, its own podal*. v406all2 found that place by the opening's line 30.
+8. **Concern 63, the opening, a prime a me along its own spiral.** Sentences **10** and **11** are beside v406other2's sentence.
+9. **New, 1.2 and 1.4, a reason.** Sentences **3** and **13** are offered after line 124's bold. Sentences **14** to **16** are offered after line 160's bold. Exhibit ONE's sentence is their home: *each self's prior from its third moment on is a prior of a self it receives from two moments before, inverting*.
+10. **Let go.** Three former sentences said observed. One was of a self opening with no prior. Two were of a moment's nands. v406all2 is with the numbers of nand.
 
 ## Not in the draft, and no sentence offered
 

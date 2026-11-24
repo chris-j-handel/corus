@@ -1,6 +1,7 @@
 """A sentence of one relation, by its marks: a partner's word of 24 November, executed.
 
     python3 -I incoming/v406all2-2/instruments/a_sentence_of_one_relation_by_its_marks.py .
+    python3 -I incoming/v406all2-2/instruments/a_sentence_of_one_relation_by_its_marks.py . FILE
 
 A partner's word, said in plain words: natural naming and explaining is of sentences of one
 relation, a compound sentence fuzzying the relationing.
@@ -11,6 +12,9 @@ relation, a compound sentence fuzzying the relationing.
 3  The draft's sentences in bold, by the same marks: a finding for its writer. A mark alone
    decides nothing: by Natural Explaining a sentence of one claim with its instances listed
    is whole with its marks.
+
+4  With a FILE after the set's place: that page's sentences in bold by the same marks, a
+   sentence with a mark a line. A finding for its session, and no gate.
 
 It prints a line an is or an is-not, and a line found. It writes nothing.
 """
@@ -48,14 +52,15 @@ if __name__ == "__main__":
     part = page.split("## The offered sentences, a relation a sentence")[1].split("\n## ")[0]
     offered = re.findall(r"^\d+\. \*\*(.+?)\*\*$", part, re.M)
     numbered = [int(n) for n in re.findall(r"^(\d+)\. \*\*", part, re.M)]
-    line(len(offered) == 22 and numbered == list(range(1, 23)), "its offered sentences are numbered 1 to %d, a sentence a line" % len(offered))
+    line(len(offered) == 16 and numbered == list(range(1, 17)), "its offered sentences are numbered 1 to %d, a sentence a line" % len(offered))
     with_a_mark = [(k + 1, its_marks(s)) for k, s in enumerate(offered) if its_marks(s)]
     line(not with_a_mark, "a sentence of them is with none of the marks: a colon, a semicolon, a comma, and, or, but")
     for number, marks in with_a_mark:
         print("       sentence %d is with %s" % (number, " with ".join(marks)))
     one_end = all(len(re.findall(r"[.?!]", s)) == 1 and s.endswith(".") for s in offered)
     line(one_end, "a sentence of them ends once")
-    line(not any("surfac" in s for s in offered), "no sentence of them says surfacing")
+    away = ("co-parit", "observed", "surfac", "giving", "gives", "given")
+    line(not any(word in s.lower() for s in offered for word in away), "no sentence of them says co-parity, observed, surfacing or giving")
     asked = "A me-parity is one is-or-is-not of a co-parity: with is, a 0, its prior same-existing; with is-not, one inversion, other-than-prior."
     line(its_marks(asked) == ["a colon", "a semicolon", "a comma"] and asked not in page, "this page's sentence of #1215 is with a colon, a semicolon and commas, and it is away")
 
@@ -69,3 +74,13 @@ if __name__ == "__main__":
     print("found  ", "by a mark: " + ", ".join("%s %d" % (name, of_a_kind[name]) for name, _ in MARKS))
     its_1_1 = "A cell is one is-or-is-not of a co-parity: with is, a 0, its prior same-existing; with is-not, one inversion, other-than-prior."
     line(its_1_1 in bolds and its_marks(its_1_1) == ["a colon", "a semicolon", "a comma"], "the draft's 1.1, its bold: one sentence with a colon, a semicolon and commas")
+
+    if len(sys.argv) > 2:
+        print()
+        print("4. A page's sentences in bold, by the same marks:", sys.argv[2])
+        its_page = Path(sys.argv[2]).read_text(encoding="utf-8")
+        its_bolds = [b for b in re.findall(r"\*\*([^*\n]+?)\*\*", its_page) if len(b.split()) > 4 and b.rstrip().endswith(".")]
+        its_marked = [(b, its_marks(b)) for b in its_bolds if its_marks(b)]
+        print("found  ", "its sentences in bold: %d, and %d of them with a mark" % (len(its_bolds), len(its_marked)))
+        for b, marks in its_marked:
+            print("found  ", "with %s: %s" % (" with ".join(marks), b[:90]))
