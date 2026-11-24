@@ -1,0 +1,61 @@
+code: Exhibit_ONE_Natural_Resolver_v402mgr.md and Exhibit_TWO_Natural_Networking_v402mgr.md
+
+A · One gate
+A1. not-both is lit with each way of two wires but one, both lit (is)
+A2. other_than, not-both of a wire with itself, is its other (is)
+A3. both, other_than of not-both, is lit with both lit and with no other way (is)
+A4. either, not-both of two other_thans, is lit with one or both lit, and dark with both dark (is)
+A5. The cell's own lines do nothing with a parity but the gate: no and, or, not, if, else, is, comparing or counting (is)
+
+B · The cell beside Exhibit ONE's 1-now-existing
+B1. With one 4-now-co-same-existing, a prior +, - or none, and each list of received parities +, - and 0, none to five, in each order: the cell's two returns are Exhibit ONE's two, 10-next-co-possibling and 11-next-co-observing, item for item and in order (is)
+B2. With two 4-now-co-same-existings, each prior of each, in both orders, and each list of received parities none to four: the same, each sharing its own cell (is)
+B3. The cell's sixteen ways: a prior, by what surfaces from its observing, with what it gives and its next prior
+   prior none | nothing: gives none, next none · + alone: gives +, next + · - alone: gives -, next - · + and - parting: gives none, next none
+   prior +    | nothing: gives -, next - · + alone: gives none, next + · - alone: gives -, next - · + and - parting: gives -, next -
+   prior -    | nothing: gives +, next + · + alone: gives +, next + · - alone: gives none, next - · + and - parting: gives +, next +
+   prior both | nothing: gives both, next both · + alone: gives +, next + · - alone: gives -, next - · + and - parting: gives both, next both   (a prior Exhibit ONE has no form of)
+
+C · Cells as a network beside Exhibit ONE's 17-next-existing
+C1. A self with 9-next-co-discovering to itself and with none of its others: from each opening, the same at each of forty moments (is)
+C2. Two selves bi-coupling both ways, 6-now-co-possibling each to the other: the same, each opening, forty moments (is)
+C3. A chain of one to eight selves, 9 to itself and 10 to its next: the same, each opening, each moment (is)
+C4. A spiral of two to eight selves, 10 to its next and its last to its first, with 9 to itself and with none: the same (is)
+C5. A torus of two by two and of three by three selves, 9 to itself, 10 along a row and 6 along a column: the same (is)
+C6. The v404networking instrument, executed with cells in Exhibit ONE's place, says each of its sentences, and the same is or is not of each, as with Exhibit ONE's code (is)
+   with cells: 1 is · 2 is · 3 is · 4 is not · 5 is not · 6.1 is · 6.2 is · 6.3 is · 6.4 is not · 7 is · 8 is · 9 is · 10 is · 11 is · 12 is · 13 is · 14 is · 15 is · 16 is
+
+D · Exhibit TWO's sentences of a self's resolving, executed with the cell
+D0. Each quotation below is in Exhibit TWO's newest living file, word for word (is)
+D1. 1.2: *with a prior + and no parity a self is observing, each shares −* (is)
+D2. 1.2: *with a prior +1 and a +1 a self is observing, ten shares 0, its prior same-existing +1 with 11, and six shares one same 0* (is)
+D3. 1.4's four ways with one prior, each with what 10 shares and the next prior with 11: agreeing, 0 and its prior; one inversion apart, that parity twice; no parity, its prior inverting twice; no prior, that parity twice (is)
+D4. 1.4: *two + surface as one + with 14, and against that prior give a 0 alike*; and each list of + and -, one to five, is as its parities said once (is)
+D5. 1.4: *With a 0 a self shares its prior is same-existing; with none and with a 0 it is observing, a self's prior inverts; and parities stay two* (is)
+D6. 1.6: *Zero is positive and negative parting, or a prior and a parity same, an empty centre*: with a prior, it gives nothing exactly with the prior's own parity surfacing alone; with no prior and parities observed, exactly with + and - parting (is)
+D7. Smaller fold within one through nine: *its next priors go two by two, c, c, −c, −c*, and *Its (prior, now) pairs are (c, c), (c, −c), (−c, −c), (−c, c)*: cells, from each opening (is)
+D8. Binary stable-forming: *map (x,y) → (y,−x) follows consecutive overlapping pairs*: with cells, each (prior, now) pair goes on as (now, the prior's other) (is)
+D9. 1.4: *Only parities go across*: from a prior of none, + or -, with each list of the four ways of two wires, none to four, what a cell gives is a +, a - or nothing, and never both (is)
+
+E · What the cell opens
+E1. Each wire of the next prior is chosen by the prior's other wire: next plus is, with the prior's minus wire lit, the other of surfacing minus, and else surfacing plus; next minus is, with the prior's plus wire lit, the other of surfacing plus, and else surfacing minus; each prior of four, each list of the four ways of two wires, none to three (is)
+E2. From a prior of none, + or -, with each list of the four ways of two wires, none to four, no next prior is both wires lit (is)
+E3. A prior of both wires gives and goes on as a prior + and a prior - at once, each wire the either of the two: with each list of the four ways of two wires, none to three (is)
+E4. A prior of both wires is both until one parity surfaces alone, and then it is that parity; with none surfacing it gives both wires, and a self observing them has + and - parting (is)
+E5. What goes across is what a cell gives: wired with what it gives, a cell with its own wiring to itself goes two by two, as Exhibit ONE's self with 9-next-co-discovering to itself; wired with its next prior, it is the same with each moment after its first, a not-changing still; from each opening (is)
+E6. As written, a cell is 36 not-both gates, and 6 more with each parity it observes: none to eight (is)
+
+F · The instrument with a cell broken on purpose: an instrument that can say is-not
+F1. With a cell broken on purpose, the same-existing of + wired to its prior's minus wire, B1 says is-not and C3 says is-not (is)
+F2. With a cell broken on purpose, giving its next prior in place of what it gives, B1 says is-not and C3 says is-not (is)
+
+G · A partner's saying of 22 November, re-said: all birthing of me-parities is from inside all-parity vaults, and the vault is not possibly living
+G0. Each quotation of this part is in its gathering file word for word: the Co-Chaining Logic Registry's 81, 82 and 84, and Natural Intelligence's, of a partner's suggesting of 14 November (is)
+G1. A society of cells with wires throughout goes on as Exhibit ONE's, prior for prior at each moment, from each opening of + and -: a chain and a spiral of one to six selves (is)
+G2. The vault, both wires lit, and the neither, both wires dark, are each a not-changing still while no parity surfaces alone, not possibly living: with each list of the four ways of two wires, none to three, with no parity alone in it, the vault gives both wires, a 0 at each self observing it, and is the vault, and the neither gives nothing and is the neither; and a self with its own wiring to itself or with none, a chain, a spiral and a torus, each self of it a vault, or each the neither, is the same at each of 24 moments (is)
+G3. A me-parity comes from the vault or the neither only by one parity surfacing alone, and is that parity as it is; with no parity alone, each is itself: with each list of the four ways of two wires, none to four (is)
+G4. 82: *A new self's birthing is its inheriting, by its two same-as. By its two other-than nothing is inherited: a 0, an opening.*: the vault is a prior + and a prior - at once; with each list of the four ways of two wires, none to four, its two come to the same exactly with one parity surfacing alone, and the vault is then that me-parity; with its two other-than it gives both wires, a 0, and is the vault again, an opening (is)
+G5. 84: *A new me-parity is one of the ingesting society's selves, one scale inward: living, an other-than-all-parity, after all-parity only.*: a vault observing a self with its own wiring to itself is the vault until a parity reaches it alone, is born that moment as that parity, and from then on is in step with that self, a right spiral, its prior changing and changing back; from each opening of the self, its prior + or - with nothing, + or - observed (is)
+G6. A vault observing its own giving is never born: its own both wires part each parity reaching it, with each list of others' wires, none to three; and observing itself and a self beside it, it is the vault at each of forty moments, from each opening of that self (is)
+G7. No me-parity goes back into a vault, or to the neither: from + or -, with each list of the four ways of two wires, none to four, the next prior is + or - (is)
+G8. Exhibit ONE's code has no vault: each prior of a chain and a spiral of one to six selves, from each opening of + and -, at each of 30 moments, is + or -; and its only first prior is at a 4 with no item in 3, the neither: with one 4-now-co-same-existing and each list of received parities, none to five, a first prior comes exactly with one parity surfacing alone, as it is (is)
