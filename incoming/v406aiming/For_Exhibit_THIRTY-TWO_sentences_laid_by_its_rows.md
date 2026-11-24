@@ -47,7 +47,7 @@ Four named in the draft and in no source of its list, found at their sources:
 ## Rows 21 and 22, a field's side of the proof
 
 - **21, 2.2:** **On 20 November 2026 Levent Alpöge announced a proof of the Riemann hypothesis, found with Claude; on 21 November the Lean and Mathlib communities certified its statement and its proof.** A field's own going through of it comes after them: three moments, said apart.
-- **22, 4.5 and 2.1:** **The hypothesis for rows, Dirichlet's, a field's, was announced proved with the hypothesis on 20 November.** A suggestion of this explaining's own: a row's parity lead at its side, the hypothesis said round one name's line through the cones. It goes from 4.5's *not yet resolving* to 2.1's ends, both.
+- **22, 4.5:** **The hypothesis for rows, Dirichlet's, a field's, was announced proved with the hypothesis on 20 November; the certification of 21 November is of the hypothesis alone.** A suggestion of this explaining's own: a row's parity lead at its side, the hypothesis said round one name's line through the cones. It stays at 4.5, announced and not certified, as v407primes' known interests have it. *Mended 24 November: this page had it go to 2.1's ends.*
 
 ## Rows 3 and 35, a public's door
 
