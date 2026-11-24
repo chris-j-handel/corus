@@ -5,8 +5,8 @@ Usage, from the repository's root:
 
 A partner's sayings of 24 November: is-not-other-than-other-than-all-other, is-same; is-not-other-than-other,
 is-not-other-than, is-same; near, not correct and not in order, and resolving in this right spiraling co-sequencing of
-self and other. A right spiral step is v406geodesic2's, a pair (x, y) to (y, -x): the self takes the other's place, and
-the other takes the self's other-than. The other-than is the fifteen lines' own, opened from this session's file of
+self and other. A right spiral step is v406geodesic2's, a pair (x, y) to (y, -x): the self comes to the other's place, and
+the other comes to the self's other-than. The other-than is the fifteen lines' own, opened from this session's file of
 their natural naming. A saying is said of the self's place: is-W, the place is W; is-not-other-than-W, the place is not
 W's other-than. With one other, all other is the other. A saying is is at a step with all four openings, all or none.
 """

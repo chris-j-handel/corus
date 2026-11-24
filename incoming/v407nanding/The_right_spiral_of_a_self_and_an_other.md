@@ -25,8 +25,8 @@ A partner's sayings of 24 November, as said:
 ## Found
 
 - A right spiral step is v406geodesic2's: a pair (x, y) to (y, −x).
-- The self takes the other's place in a step.
-- The other takes the self's other-than in a step.
+- The self comes to the other's place in a step.
+- The other comes to the self's other-than in a step.
 - A step is one exchange and one other-than. S1
 - Four steps on, the self and the other are as they opened. S1
 - The partner's sayings are is at the steps 1, 3 and 4. S7
