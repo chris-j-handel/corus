@@ -1,4 +1,4 @@
-"""v406geodesic2 · the logic of this window in its order, executed: podaling, routing and orienting, and a turn beside stepping.
+"""v406geodesic2 · the logic of this window in its order, executed: podaling, routing and orienting, a turn beside stepping, and resolving.
 
 Usage, from the repository's root (some seconds):
   python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py \
@@ -148,6 +148,26 @@ stepped = [n for n in range(3, 1_000_000, 2) if n % 10 in (3, 7)]
 found = [n for n in stepped if both_closings(n) != prime(n)]                    # a prime with one closing alone or none, or a number of no prime with both
 line(24, "stepping says a thing to its horizon: of the odd numbers ending in 3 or 7, to 1,000,000, all stepped, the primes have both closings, doubling's one short and prior two added's one past, and no other number has; past the stepping it is not said",
      found == [] and len(stepped) == 200_000 and sum(map(both_closings, stepped)) == 39_286)
+# ---------------- resolving: a me's moment, and two front to back ----------------
+TWO, ONE = its.TWO, its.ONE
+def a_me(prior, observed):                                             # one me, one moment, by the cell: its giving and its next prior
+    gives, its_next, _, _ = its.a_cell(TWO[prior], [TWO[o] for o in observed])
+    return ONE[gives], ONE[its_next]
+THREE = (0, 1, -1)
+line(25, "a me, observing the same as its prior, is same-existing: it gives none and is as it was; observing its other-than, or none, it inverts and gives its inverting; with no prior it gives what it observes and has it",
+     all(a_me(p, [o]) == ((0, p) if o == p else (-p, -p)) for p in (1, -1) for o in THREE) and all(a_me(0, [o]) == (o, o) for o in THREE))
+def front_to_back(front, back, observed):
+    g_front, n_front = a_me(front, [observed]); g_back, n_back = a_me(back, [g_front])
+    return n_front, n_back, g_back
+line(26, "two mes front to back, the front me's giving the back me's observing, their priors one the other's other-than: one of the two alone inverts with a moment, and what is same-existing at the front goes through the two",
+     all((nf == f) != (nb == -f) and gb == (o if o == f else 0) for f in (1, -1) for o in THREE for nf, nb, gb in [front_to_back(f, -f, o)]))
+one_giving = lambda prior, plus, minus: its.a_cell(prior, [(plus, minus)])[0][0]
+line(27, "two mes in a row, with one more observed at the back me, are a nand, all the logic a me's lines have; one me with a prior a - is an other-than of what it observes",
+     all(one_giving((NOT, IS), one_giving((NOT, IS), NOT, y), x) == nand(x, y) for x in (IS, NOT) for y in (IS, NOT)) and all(one_giving((NOT, IS), NOT, x) == other_than(x) for x in (IS, NOT)))
+FRONT_ROWS = DIAMOND; BACK_ROWS = [[n + 8 for n in r] for r in DIAMOND]
+line(28, "two diamonds of nine with one vertex of both are 1 to 17, the back's rows the front's 8 up: a podaling about 5 and then about 9; and 9 less and then 17 less on the names is that same 8 up",
+     sorted(n for r in FRONT_ROWS + BACK_ROWS[1:] for n in r) == list(range(1, 18)) and all(18 - (10 - n) == n + 8 for n in range(1, 10)) and all(17 - (9 - n) == n + 8 for n in range(1, 9))
+     and [sorted(18 - n for n in r) for r in FRONT_ROWS] == BACK_ROWS[::-1])
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)

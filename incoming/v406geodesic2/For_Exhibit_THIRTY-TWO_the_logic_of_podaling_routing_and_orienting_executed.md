@@ -6,11 +6,11 @@ Incoming · v406geodesic2 · 23 November 2026, at a partner's asking
 
 ## In one paragraph
 
-The session's twenty-two drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: twenty-four sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. All twenty-four are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
+The session's twenty-three drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: twenty-eight sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. All twenty-eight are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
 
 ## Executed
 
-`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, twenty-four lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
+`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, twenty-eight lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
 
 The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`, and its places are said by their numbers.
 
@@ -74,6 +74,21 @@ The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_fir
 - **Its 5.1** has *its side is its horizon: its crossed numbers are known by the primes to its side alone*. Sentences 23 and 24 are the two ways a sentence of it is said: by a turn, with all numbers, or by stepping, to a horizon.
 - **Its 2.4** has a crossed number ending in 3 or 7 passing both closings as a field's asking, none found to 20,000,000. Sentence 24 is that, stepped apart; the twentieth drawing's check has it to 10,000,000.
 
+## Resolving: a me's moment, and two front to back
+
+25. **A me, observing the same as its prior, is same-existing: it gives none and is as it was. Observing its other-than, or none, it inverts and gives its inverting.**
+26. **Two mes front to back, the front me's giving the back me's observing, their priors one the other's other-than: one of the two alone inverts with a moment, and what is same-existing at the front goes through the two.**
+27. **Two mes in a row, with one more observed at the back me, are a nand: all the logic a me's lines have.**
+28. **Two diamonds of nine with one vertex of both are 1 to 17, the back's rows the front's 8 up: a podaling about 5 and then about 9.**
+
+A me here is v406Reiman's cell, by v406all2-2's saying of its name, opened from its own file. The coupling of 26 is a naming, the front's giving as the back's observing, and no is-or-is-not.
+
+**At the draft.**
+
+- **Its 1.1,** a cell of nand and no other logic. Sentence 25 is that cell's one moment said by its is-or-is-not, same-existing or not, and sentence 27 is the nand as two of them in a row.
+- **Its opening's 2** has *Two selves stepped by the resolver are each the other's other-than at all moments and come again with 2*. Sentence 26 is the two with one moment, the front's giving the back's observing; snapped the last to the one opening it, they are the draft's sentence, executed by the 23rd drawing's check.
+- **Exhibit ONE Natural Resolver** has *Each self's parity goes along with 9-next-co-discovering to the next self, the last to the first, a co-chaining.* Sentence 28's one vertex of both is laid as that 9, with 1 and 17 at the two others: a placing.
+
 ## Sentences offered for the draft, whole
 
 Concerns new for the one table, v406me's to number. With no writer of the draft yet, they wait whole.
@@ -92,6 +107,7 @@ The four sentences are this session's own, and are in no file but this page.
 - **3, 5 and 7 at the three corners** of the triangle of three right angles, and a partner's three universes as the three lines at right angles.
 - **The right spiral's way round,** by 7 or by 3: a mirror's choice.
 - **The 24 of sentence 22 beside the draft's fold at 24:** one number, and no execution says they are one thing.
+- **1, 9 and 17 at the three vertices of two diamonds,** as the code's 1-now-existing, 9-next-co-discovering and 17-next-existing; and a me as a pair of cones, its is-or-is-not at its widest.
 
 ## A sentence and its drawing
 
@@ -99,4 +115,4 @@ The drawings are in `illustrations/`, with their sections in [the window of v406
 
 - Sentences 1 to 4: the ninth and the tenth drawings. 5 and 6: the fourteenth. 7: the twelfth.
 - 8: the eleventh. 9: the seventeenth. 10: the thirteenth. 11 and 12: the nineteenth. 13: the twentieth.
-- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st.
+- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd.
