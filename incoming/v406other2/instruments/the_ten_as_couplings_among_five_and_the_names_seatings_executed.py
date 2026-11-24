@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """For Exhibit THIRTY-TWO's draft, its 3.3, 3.4, 3.5 and 4.5 beside Exhibit THIRTY's steps: the ten as
-couplings among a self's five, and two seatings of the names, with whole numbers alone.
+couplings among a self's five, one method of a number, and two seatings of the names, with whole numbers alone.
 
 Usage:  python3 -I incoming/v406other2/instruments/the_ten_as_couplings_among_five_and_the_names_seatings_executed.py
 
@@ -37,6 +37,16 @@ say("a coupling keeps the other three still, step 608, and the ten threes are al
 say("three have six orders: ten sixes, 60; two in order, 5 by 4, by three, 60; 60 and 60, 120, the draft's 3.5",
     len(list(permutations(range(3)))) == 6 and 10 * 6 == 60 and 5 * 4 * 3 == 60)
 
+# One method of a number: the couplings among two, three, four, five, sixteen and seventeen.
+among = lambda n: len(list(combinations(range(n), 2)))
+say("couplings among two, three, four, five and sixteen are one, three, six, ten and 120",
+    [among(n) for n in (2, 3, 4, 5, 16)] == [1, 3, 6, 10, 120])
+say("four in a row have six couplings forward, one with a later one, and a fifth has four more: six and four, ten",
+    among(4) == 6 and among(5) == among(4) + 4)
+say("of the ten among five in a row, four are of neighbours and six go forward past a neighbour: over two, over three and over four, three, two and one",
+    [sum(1 for a, b in combinations(range(5), 2) if b - a == d) for d in (1, 2, 3, 4)] == [4, 3, 2, 1])
+say("couplings among seventeen are 136: the 120 among sixteen, and sixteen more with a seventeenth", among(17) == 136 == among(16) + 16)
+
 # The ten's names: the draft's 4.5 beside step 616.
 draft = [{"a first behind it", "a last", "an end"}, {"a store"},
          {"a place", "a magnitude", "a beat", "a value", "a side", "a cut"}]
@@ -58,6 +68,13 @@ say("with the sixteen places the names' three moves are one move of numbers: 9 l
 up = [primes[k + 8] - primes[k] for k in range(9)]
 say("with step 370's seventeen primes, 2 to 59, 8 up is one move of numbers", len(primes) == 17 and len(set(up)) == 1)
 say(f"  with them 8 up is on by {up}, and 18 less adds to {[primes[k] + primes[16 - k] for k in range(9)]}", "sized")
+seventeen = places + [61]
+say("eight up, thirty on, goes on to a seventeenth: the names 1, 9 and 17 are with 1, 31 and 61, one past 0, 30 and 60",
+    all(seventeen[k + 8] == seventeen[k] + 30 for k in range(9)) and [seventeen[k] for k in (0, 8, 16)] == [1, 31, 61])
+say("the names 1 to 9 are with 1 to 31, nine, and the names 10 to 17 with 37 to 61, eight", seventeen[:9][-1] == 31 and seventeen[9:] == [37, 41, 43, 47, 49, 53, 59, 61])
+name = lambda k: seventeen[k - 1]
+say("step 333's one move going round, 1 to 9 to 8 to 16 to 1, is 1 to 31 to 29 to 59 to 1: thirty on, sixty less, thirty on, sixty less",
+    [name(1), name(9), name(8), name(16)] == [1, 31, 29, 59] and 1 + 30 == 31 and 60 - 31 == 29 and 29 + 30 == 59 and 60 - 59 == 1)
 say("37 is the tenth of the sixteen places and the twelfth of the seventeen primes", places.index(37) + 1 == 10 and primes.index(37) + 1 == 12)
 
 # 60 to 68 and 69, steps 349 and 523 to 528, beside the draft's 61.
