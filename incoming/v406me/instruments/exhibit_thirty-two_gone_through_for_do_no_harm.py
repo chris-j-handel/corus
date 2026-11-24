@@ -1,5 +1,5 @@
 """Exhibit THIRTY-TWO Natural Prime Numbering, a first draft, gone through for do no harm beside the live set.
-It goes through the draft, its story and the living files, and writes nothing.
+It goes through the draft, its sentences' file and the living files, and writes nothing.
 
     python3 -I incoming/v406me/instruments/exhibit_thirty-two_gone_through_for_do_no_harm.py LIVE
 
@@ -13,7 +13,7 @@ if len(sys.argv) < 2:
 live = sys.argv[1]
 P = os.path.join(live, "incoming/v407primes")
 draft = open(os.path.join(P, "Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md"), encoding="utf-8").read()
-story = open(os.path.join(P, "The_prime_numbers_story.md"), encoding="utf-8").read()
+story = open(os.path.join(P, "The_prime_numbers_named_and_explained_sentence_by_sentence.md"), encoding="utf-8").read()   # the sentences' file
 L = draft.split("\n")
 living = {os.path.basename(f): open(f, encoding="utf-8").read() for f in glob.glob(os.path.join(live, "*_v*.md"))}
 print(f"The draft: {len(draft.split())} words, {len(L)} lines. The living files: {len(living)}.")
@@ -57,7 +57,7 @@ for q in (r"A composite folds along and a prime opens across", r"Primes 5 throug
 print(f"   the draft: {re.search(r'a staircase goes one up at a prime and across at a crossed number', draft).group(0)!r}")
 print(f"   composite in Natural Numbers {len(re.findall(r'composite', three))}, in the draft {len(re.findall(r'composite', draft))}; crossed number in the draft {len(re.findall(r'crossed number', draft))}, in Natural Numbers {len(re.findall(r'crossed number', three))}")
 
-print("\n6. Its prior naming: the story's sentences in it")
+print("\n6. Its prior naming: the sentences of its sentences' file in it")
 S = re.findall(r"^(\d+)\. \*\*(.+?)\*\*", story, re.M)
 def toks(t):
     return set(re.findall(r"\b\d[\d,]*\d\b|\b\d\d+\b", t)), set(x.lower() for x in re.findall(r"[A-Za-zφ][A-Za-zφ'-]{5,}", t))
@@ -71,7 +71,7 @@ for num, bold in S:
     cn = len(n & dn) / len(n) if n else cw
     if cn * 0.6 + cw * 0.4 < 0.55 and bold.strip() not in draft and bold.strip()[:60] not in draft:
         low.append((int(num), bold[:90]))
-print(f"   the story's numbered sentences: {len(S)}; word for word in the draft: {sum(1 for n, b in S if b.strip() in draft)}; with little of their numbers and words in it: {low}")
+print(f"   the numbered sentences of its sentences' file: {len(S)}; word for word in the draft: {sum(1 for n, b in S if b.strip() in draft)}; with little of their numbers and words in it: {low}")
 for name in ("Prime_Numbers_A_Natural_Explaining_of_Sequential_Prime_Living.md", "The_prime_resolving_form.md"):
     t = open(os.path.join(P, name), encoding="utf-8").read()
     print(f"   {name}: seven methods {len(re.findall(r'seven methods', t, re.I))}, six prime livings {len(re.findall(r'six prime livings', t, re.I))}, five prime livings {len(re.findall(r'five prime livings', t, re.I))}")
