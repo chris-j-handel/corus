@@ -27,7 +27,8 @@ def go(path):
     title_i = next(i for i, l in enumerate(L) if l.startswith("# "))
     title = L[title_i][2:].strip()
     sub = next((l.strip().strip("*") for l in L[title_i + 1:title_i + 12] if re.match(r"^\*\*.+\*\*$", l.strip())), "")
-    body_i = next(i for i, l in enumerate(L) if l.strip() == "---" and any(x.startswith("# ") for x in L[i + 1:i + 4]))
+    # an exhibit whole has a head closed by a rule; a part offered alone has none, and its parts open at its title
+    body_i = next((i for i, l in enumerate(L) if l.strip() == "---" and any(x.startswith("# ") for x in L[i + 1:i + 4])), title_i - 1)
     end = next((i for i, l in enumerate(L) if i > body_i and re.match(r"^## Sources|^\*\*Executed", l)), len(L))
     body = L[body_i + 1:end]
     print(f"\n=== {os.path.basename(path)}: {sum(len(l.split()) for l in body)} words in its parts")
