@@ -176,3 +176,16 @@ With this turn, 23 November:
 - **Collective intelligence in nand, as far as executed:** a me, a connector and a snap say Exhibit ONE's rows of a spiral and of a torus. The connectors are fractal by 8n − 7.
 - **Natural naming beside a partner's words:** connector is Natural Naming 2.5's six names between selves; a snap is a coupling; collective intelligence and a surface intelligence are living names.
 
+---
+
+is prior a sequence in this. is there prior(prior) in this. is the nand of prior prior expressable like other-than other-than as prior sequence
+
+With this turn, 24 November:
+
+- **Prior in a me's fifteen lines** is one parity, two is-or-is-nots, said once, at line 7. In the lines it is no sequence.
+- **A prior of a prior** is a me of a me, along moments: a me's next prior, 11, is the step's 8 and its prior, 3, a moment on.
+- **The nand of prior with prior is its other-than,** and a sequence of priors is a sequence of other-thans: a me's prior is the other-than of the prior, two moments before, of the me it observes. An even number of them is the prior itself, and an odd number its other-than.
+- **Round a co-chaining of n mes** are n other-thans in 2n moments: with n odd, again with 4n.
+- **Executed:** `instruments/a_prior_its_sequence_by_other_thans.py`, 16 lines, all *is*, laid as part 5 of the draft's page.
+- By v406geodesic2's finding, 8 is beside no line of a me: the page's table is set right at lines 11 and 12.
+
