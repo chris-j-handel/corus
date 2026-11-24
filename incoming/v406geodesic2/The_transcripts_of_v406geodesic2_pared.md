@@ -228,4 +228,12 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - Its is-not: with both wires as a now or observed, v407nanding's vault, the two lines part from the fifteen lines with 21 of 45 cases.
    - Looked for ahead of it: v407nanding's page has a me with a prior and a me with none said apart; they are named by their file.
    - A 34th drawing, a candidate, beside the 33rd.
+45. *0 and 3 are all-parity. there is no difference between inside the inside surface and outside the outside surface. both are all-parity during birth and for all living nows.  none is a not possibly existing word and is dissolving from natural naming*
+   - A partner's sentences of 24 November. The session has a parity as two wires: 0 is neither wire, 1 a +, 2 a −, and 3 both wires. It executed the sentences beside v406Reiman's fifteen lines, its own two lines and Exhibit ONE Natural Resolver's own code, eight lines, all *is*.
+   - Their is: by the fifteen lines a 0 and a 3 are the same as a now, at a birth and at all moments; observed alone a 3 is a 0; and on a path of mes closing a 3 for a 0 has the same moments.
+   - Their is-not, found: observed beside a parity, the fifteen lines part a 3 from a 0, and on a torus of 2 by 2 a 3 for a 0 has other moments with 48 of 64 openings. This session's two lines of the 34th drawing part them at a birth's laying.
+   - Resolved forward: with a parity's own surfacing, at a me's now and at all it observes, a 0 and a 3 are the same at all places, and with the three parities the two lines are the fifteen lines' still.
+   - The word dissolving: the session's new sentences say all-parity for a 0. Its drawings 32 to 34 and its pages before have the word; they are said again at a turn of their own.
+   - A partner's sentence has a word of the one list; it is said again with inward and outward, the list's own natural naming, and quoted here alone.
+   - A 35th drawing, a candidate, beside the 34th.
 
