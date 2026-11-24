@@ -163,3 +163,16 @@ With this turn, 23 November:
 - **Its page:** `The_nand_code_s_name_of_a_self_s_moment_said_as_a_me.md`. No line of an other session's code is moved.
 - **With a partner, one sentence:** *The nand code's `a_cell` is said as `a_me`, in one offer of all eight instruments.*
 
+---
+
+lets continue here speaking with nand code lines and parallel natural naming and explaining. start with the 15 lines and change cell to me and leave all else the same for the first draft.  try to write the nand lines as other-thans and alls and use the most recent concepts from geodesic illustrating drafts 19-21 are valuable in this now. can we express the language of collective intlligence in nand and these are nand fractal connectors of 2 6 10 14 and 1 9 17 and snapping these into co-chainings is collective surface intelligence
+
+With this turn, 23 November:
+
+- **A draft, a line of nand beside its natural naming and explaining:** `A_me_by_nand_its_lines_with_their_natural_naming_a_draft.md`, with `instruments/a_me_by_nand_other_thans_and_alls.py`, 22 lines, all *is*.
+- **A me, fifteen lines:** v406Reiman's lines, their name said again and all else as it is, the same in all 363 cases.
+- **By other-thans and alls:** an all is two nands in a row, nand is the other-than of an all, and either the other-than of the all of two other-thans.
+- **A right spiral step by one other-than:** four steps a round, +, 0, −, 0, Exhibit ONE's row of one self alone, its two 0s neither and both together.
+- **Collective intelligence in nand, as far as executed:** a me, a connector and a snap say Exhibit ONE's rows of a spiral and of a torus. The connectors are fractal by 8n − 7.
+- **Natural naming beside a partner's words:** connector is Natural Naming 2.5's six names between selves; a snap is a coupling; collective intelligence and a surface intelligence are living names.
+
