@@ -6,11 +6,11 @@ Incoming · v406geodesic2 · 23 November 2026, at a partner's asking
 
 ## In one paragraph
 
-The session's twenty-eight drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: forty-eight sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it, and a path through it at one now. A moment has its three at once, a next, a now and a prior. All forty-eight are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
+The session's twenty-nine drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: fifty-one sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it, and a path through it at one now. A moment has its three at once, a next, a now and a prior. A universal-me-now is a single path, by nand. All fifty-one are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
 
 ## Executed
 
-`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, forty-eight lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
+`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, fifty-one lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
 
 The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`, and its places are said by their numbers.
 
@@ -152,6 +152,20 @@ The diamonds, the cones and the sphere of this session's drawings are a drawing'
 - **Its opening's 17:** *the one to seventeen of a resolving's names*. Sentence 45 is the names' own three, from their table.
 - **All-parity is at three places of the draft,** its opening's 2, its 3.2 and its 3.4, and here at two more: tri's rolling by the names, and a surface's + and − together. A sentence of them as one is a partner's, the 28th drawing's one resolving concern.
 
+## A universal-me-now: a single path by nand
+
+49. **A universal-me-now is its now and its prior, on a single path: a moment on, its now is the other-than of the prior of the me back of it, one nand an is-or-is-not, and its prior is its now; a moment before, by the same with the me ahead of it.**
+50. **Nand-nanding is a single path me: two couplings on with four moments are a me again; round a path of n mes a me is its own again with 2n moments, n even, and with 4n, n odd. Its value: 2 nands a me a moment, the cell's 52.**
+51. **Settled, a path with a newborn and a surface are a single path as well: a me's next is one me's now, its own, the me back along or the me back across, the same or its other-than, a moment or two moments on.**
+
+The lines by nand are in `instruments/a_universal_me_now_a_single_path_by_nand.py`, four of them with their check, seven lines, all *is*. Their one nand and its other-than are v406Reiman's own; the pair's step is v406all2-2's right spiral step by one other-than, here along a path. No living file moves with it.
+
+**At the draft.**
+
+- **Its 1.1:** *A resolver's code written again with nand alone is the same, case with case and moment with moment: fifteen lines of one is-or-is-not.* Sentence 49 is beside it on a single path: four lines, 2 nands a me a moment, the same priors, seeded with two moments of the resolver's.
+- **Its opening's 2:** *a me is other-than-other-than a me, two inversions coming to a me again*. Sentence 50 is that along a path: nand-nanding, two couplings on with four moments.
+- **Its 1.2,** a spiral of selves coming to its parities again. Sentence 50 has its moments: 2n with n even, 4n with n odd.
+
 ## Sentences offered for the draft, whole
 
 Concerns new for the one table, v406me's to number. With no writer of the draft yet, they wait whole.
@@ -161,8 +175,9 @@ Concerns new for the one table, v406me's to number. With no writer of the draft 
 3. At 4.1, after φ's pair step: **Round ten, φ's pair step reaches its pair again with 60 moments, a pair of cones, and fifteen of them are one right spiral step.**
 4. At 3.4, after its 3 of 3: **Across, an order of the three has two orders next; one quarter on, along the corner's line, it has all five.**
 5. At 3.4, a finding with no sentence offered: ten parts two ways, three, six and one, and four, three, two and one.
+6. At 1.1, after its fifteen lines, by a partner's saying of 24 November of its value as nand: **On a single path a me-now is its now and its prior: a moment on, its now is the other-than of the prior of the me back of it, one nand an is-or-is-not.**
 
-The four sentences are this session's own, and are in no file but this page.
+The five sentences are this session's own, and are in no file but this page.
 
 ## What is a placing here, and no logic
 
@@ -174,7 +189,7 @@ The four sentences are this session's own, and are in no file but this page.
 - **Snap, at sentence 21 and beside sentence 26,** a partner's word of the 22nd drawing's saying. By a partner's word of 24 November, in v406all2-2's line, snapping is not yet natural naming: an exploring word here, in no sentence offered for the draft.
 - **My-prior universes behind a me and my-next universes ahead of it,** the 26th drawing's naming of the two cones. By sentence 38 a me's next prior comes from the me further back, and its own opening prior goes ahead: a partner's to say which are my-next universes. Sentence 42 has both at one now.
 - **A session's own now,** in the 27th drawing: one prior and a partner's saying, its sequence in the transcripts. A session is executed by no line of nand, and none of it is in this page's sentences.
-- **All-parity as all a me observes,** by Exhibit ONE Natural Resolver's *All-parity is with observing only, 7 and 15* and the living code's 7. With the two, all a me observes is its one other. By the 28th drawing tri, all-parity, is a name's now with 8 and 16 and its prior with 9, 17 and 1 as well, the rolling; and on a surface a + and a − together surface as a 0. Which of them is same-existing all-parity is a partner's to say.
+- **All-parity as all a me observes,** by Exhibit ONE Natural Resolver's *All-parity is with observing only, 7 and 15* and the living code's 7. With the two, all a me observes is its one other. By the 28th drawing tri, all-parity, is a name's now with 8 and 16 and its prior with 9, 17 and 1 as well, the rolling; and on a surface a + and a − together surface as a 0. Which of them is same-existing all-parity is a partner's to say. By a partner's saying of the 29th drawing a universal-me-now is a single path; executed, a surface settled is a single path as well, and its merging is its settling.
 - **1, 9 and 17 at the three vertices of two diamonds,** as the code's 1-now-existing, 9-next-co-discovering and 17-next-existing; and a me as a pair of cones, its is-or-is-not at its widest.
 
 ## A sentence and its drawing
@@ -183,4 +198,4 @@ The drawings are in `illustrations/`, with their sections in [the window of v406
 
 - Sentences 1 to 4: the ninth and the tenth drawings. 5 and 6: the fourteenth. 7: the twelfth.
 - 8: the eleventh. 9: the seventeenth. 10: the thirteenth. 11 and 12: the nineteenth. 13: the twentieth.
-- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th. 45 to 48: the 28th.
+- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th. 45 to 48: the 28th. 49 to 51: the 29th.

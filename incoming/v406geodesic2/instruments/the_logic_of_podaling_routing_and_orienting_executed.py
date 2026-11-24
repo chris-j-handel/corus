@@ -319,6 +319,43 @@ line(48, "on a surface nows merge as it settles, 64 openings of a torus of 2 by 
      and ends(as_it_is.torus_couplings(3, 3), tuple((a, b) for a in range(3) for b in range(3)), (1, -1), 16) == (512, 68)
      and [ends(as_it_is.spiral_couplings(n), tuple(range(n)), (1, -1, 0), 4 * n + 6) for n in (2, 3)] == [(9, 5), (27, 15)]
      and all(a_me(q, (1, -1)) == a_me(q, ()) for q in (1, -1)))
+# ---------------- a universal-me-now: a single path by nand ----------------
+import importlib.util as its_opening
+sys.dont_write_bytecode = True                                                    # a file opened by its path is laid nowhere again
+its_spec = its_opening.spec_from_file_location("a_universal_me_now_a_single_path_by_nand", Path(__file__).resolve().parent / "a_universal_me_now_a_single_path_by_nand.py")
+single = its_opening.module_from_spec(its_spec); its_spec.loader.exec_module(single)                      # the lines by nand, from their own file
+def path_of(ms, n, t): return [(its.TWO[ms[t][a][0]], its.TWO[ms[t - 1][a][0]]) for a in range(n)]
+def on_and_before(ms, n):
+    path = path_of(ms, n, 1)
+    for t in range(1, 4 * n + 4):
+        if path != path_of(ms, n, t) or (t > 1 and single.a_single_path(path, "before") != path_of(ms, n, t - 1)): return False
+        path = single.a_single_path(path, "on")
+    return True
+line(49, "a universal-me-now is its now and its prior, on a single path: a moment on, its now is the other-than of the prior of the me back of it, one nand an is-or-is-not, and its prior is its now; a moment before, by the same with the me ahead of it. The resolver's own priors at all moments, spirals of 1 to 8, all their openings",
+     all(on_and_before(ms, n) for n, v in rounds.items() for ms in v.values()))
+the_nands = [0]; the_table = single.its.NAND
+def a_nand_numbered(a, b): the_nands[0] += 1; return the_table[(a, b)]
+def numbered(what): the_nands[0] = 0; single.its.nand = a_nand_numbered; what(); single.its.nand = lambda a, b: the_table[(a, b)]; return the_nands[0]
+line(50, "nand-nanding is a single path me: two nands in a row of a thing with itself are the thing again; a me's now is the now, four moments before, of the me two couplings back; round a path of n mes a me is its own again with 2n moments, n even, and with 4n, n odd. Its value: 2 nands a me a moment, the cell's 52 with one observed",
+     all(single.nand_nanding(q) == q for q in (True, False))
+     and all(ms[t][a][0] == ms[t - 4][(a - 2) % n][0] and ms[t][a][0] == (-1) ** n * ms[t - 2 * n][a][0] for n, v in rounds.items() for ms in v.values() for t in range(max(4, 2 * n + 1), 4 * n + 6) for a in range(n))
+     and numbered(lambda: single.a_universal_me_now_a_moment_on((its.TWO[1], its.TWO[-1]), (its.TWO[1], its.TWO[1]))) == 2
+     and numbered(lambda: single.its.a_cell(its.TWO[1], [its.TWO[1]])) == 52)
+def a_single_path_of(ms, mes, p, q, T):
+    return any(all(ms[t + on][(a, b)][0] == as_it * ms[t][((a - da) % p, (b - db) % q)][0] for t in range(T - 10, T - on) for a, b in mes)
+               for da, db in ((0, 0), (1, 0), (0, 1)) for on in (1, 2) for as_it in (1, -1))
+def settled_surfaces():
+    for p, q in ((2, 2), (2, 3), (3, 3)):
+        mes = [(a, b) for a in range(p) for b in range(q)]; T = 6 * max(p, q) + 14
+        for op in all_of((1, -1), repeat=p * q): yield a_single_path_of(moments_of(as_it_is.torus_couplings(p, q), dict(zip(mes, op)), T), mes, p, q, T)
+def settled_newborns():
+    for n in (2, 3, 4):
+        for op in all_of((1, -1, 0), repeat=n):
+            if 0 in op:
+                ms = moments_of(as_it_is.spiral_couplings(n), dict(enumerate(op)), 6 * n + 12); T = 6 * n + 12
+                yield all(ms[t + 2][a][0] == -ms[t][(a - 1) % n][0] for t in range(T - 10, T - 2) for a in range(n))
+line(51, "settled, a path with a newborn and a surface are a single path as well: a me's next is one me's now, its own, the me back along or the me back across, the same or its other-than, a moment or two moments on. All openings of tori of 2 by 2, 2 by 3 and 3 by 3, and of paths of 2 to 4 mes with a me opening with no prior",
+     all(settled_surfaces()) and all(settled_newborns()))
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
