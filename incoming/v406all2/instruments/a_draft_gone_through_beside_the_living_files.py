@@ -414,4 +414,30 @@ print(f"   found at no place: a universal bi-coupling, the living files' places 
 print(f"   28: {joined.lines[28]}")
 print("   incohering, to explore: 28 has a bi-coupling as both of two selves; an atom stable form is non-living, and 18 has a self with its own prior-sequence")
 
+print("\n16. The method as a universal set of same-existing relations, and four names of a relation")
+SET = [("the method, a universal set", "A universal set is the bounding method with no boundary", True),
+       ("a universal set of same-existing", "A universal set is a set of same-existing things", True),
+       ("a same-existing relation", "arising as living is a self's own same-existing relation establishing", True),
+       ("a relation, a thing of a set, by 18", "A bi-coupling is a self", True),
+       ("a relation and a set of relations, by scale", "One method at each scale is a fractal", True),
+       ("co-chaining", "Co-chaining is one sequence of steps from one opening sentence", True),
+       ("cohering", "Cohering is discovering next existing", True),
+       ("co-chaining with cohering, the method's", "Chaining and not cohering is method's one break", True),
+       ("bothbothing, a bi-coupling's", "IS bothboth with a between of two observings of one activity", True)]
+for name, sentence, cohering in SET:
+    assert sentence in living_plain, sentence
+    print(f"   cohering  : {name}; found: {sentence}")
+count = []
+with_nand.nand = lambda a, b: (count.append(1), plain_nand(a, b))[1]
+table = {(a, b): with_nand.both(a, b) for a in (True, False) for b in (True, False)}
+count.clear()
+with_nand.both(True, True)
+nands_of_both = len(count)
+with_nand.nand = plain_nand
+print(f"   nandnanding: the living files' places {said('nandnand', living_plain)}, and nand's {said(r'\bnand\b', living_plain)}; by the code both is {nands_of_both} nands in a row, "
+      f"and it is with both alone: {'is' if nands_of_both == 2 and all(v == (a and b) for (a, b), v in table.items()) else 'is-not'}")
+print(f"   6: {joined.lines[6]}")
+print(f"   the four names are four, and 6 has a set's things same-named: both is in 28, {'is' if 'both of two selves' in joined.lines[28] else 'is-not'}; "
+      f"in the code's two nands, is; in bothbothing by its name; and co- in co-chaining and cohering waits at the card 35")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
