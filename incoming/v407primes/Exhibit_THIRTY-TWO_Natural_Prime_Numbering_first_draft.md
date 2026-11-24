@@ -69,11 +69,11 @@ Exhibit THIRTY-TWO Natural Prime Numbering, a first draft
 
 ## 1, 2, 3, 5 and 7: a me, its other, and the opening round, closing at 7
 
-**1. A me.** One self, the shell of 1 cubed: a me, still, coming again with 4 alone, its two comings again one. 1 is no prime.
+**1. A me.** One self, the shell of 1 cubed: a me, still. Stepped by the resolver, one self comes again with 4 alone, its two comings again, 4 and 4 by 1, one: 1 is no prime.
 
-**2. Other-than 1, a me.** The turn of 2 has one place: 2 is other-than 1, a me, and a me is other-than-other-than a me, two inversions coming to a me again: the all-parity of 0.
+**2. Other-than 1, a me.** The turn of 2 has one place. Two selves stepped by the resolver are each the other's other-than at all moments and come again with 2: a me is other-than-other-than a me, two inversions coming to a me again, and their parities sum to 0 at all moments, the all-parity of 0.
 
-**3. A me along, past the other's prior.** The turn of 6 has two places, 1 and 5, the turn of 2's one place lifted three ways and one crossed by 3: a me going along past its other's prior, and on up this way, rolling forward: prior, now and next.
+**3. A me along, past the other's prior.** The turn of 6 has two places, 1 and 5, the turn of 2's one place lifted three ways and one crossed by 3. Three selves stepped by the resolver come again with 12, a like pair of them at all moments going along one self with a second moment: a me along, past its other, and on up this way, rolling forward: prior, now and next.
 
 **5. The atom, the stable form.** The turn of 30 has eight places, and round five doubling steps 2, 4, 3, 1, numbers' own quarter turn: the floor, non-living, the stable form of all scales.
 
@@ -457,7 +457,7 @@ A ghost is no prime living: a supernatural projection, 2.6. **An interest is a s
 
 ---
 
-**Executed:** `incoming/v407primes/instruments/prime_numbers_report_executed.py`, `odd_perfect_executed.py` and `rows_through_turns_executed.py` in the same folder, all ending *is*, with whole numbers alone.
+**Executed:** `incoming/v407primes/instruments/prime_numbers_report_executed.py`, `odd_perfect_executed.py`, `rows_through_turns_executed.py` and `the_opening_1_2_3_executed.py` in the same folder, all ending *is*, with whole numbers alone.
 
 ## Sources
 

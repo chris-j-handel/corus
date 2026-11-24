@@ -5,7 +5,7 @@ A partner's asking of 23 November: a resolving stable form for the primes, like 
 ## The form
 
 - **Rows: the ten.** Resolving the Hard Problem Registry's ten unchangeables, an interest clustering by the one it fixes. Five bi-couplings, two faces: an observing and an opening; a completing and a same-existing; a middle and a parity; a sequencing and a rate; a two-way and a between. Their names, now and 8 up next, are the Equilibria Registry's 3.2.
-- **Columns: six prime livings, three pairs.** Six ways a prime lives, all executed with the living code or whole numbers in the story, none new:
+- **Columns: six prime livings, three pairs.** Six ways a prime lives, all executed with the living code or whole numbers in the sentences, none new:
   - **Turn**: a prime lifts its prior turn p ways, p − 1 uncrossed and one crossed (sentence 100).
   - **Surface**: a prime born crossing a surface's horizon, its side (sentences 103 to 105).
   - **Spiral**: a prime's spiral comes again with 4 and 4p alone, and doubling's and φ's spirals round it (sentences 44, 96, 112).
@@ -33,13 +33,13 @@ A partner's asking of 23 November: a resolving stable form for the primes, like 
 
 ## What the table shows
 
-- All interests named in the story, the report and "Known interests for later" have a cell, and none needs an eleventh row or a seventh column.
-- The two not yet resolving at its drafting, the odd perfect number and sentence 46, are both in the ghost column, resolved by story sentence 125.
+- All interests named in the sentences, the report and "Known interests for later" have a cell, and none needs an eleventh row or a seventh column.
+- The two not yet resolving at its drafting, the odd perfect number and sentence 46, are both in the ghost column, resolved by sentence 125.
 - Empty cells are the form's own askings: possibly existing interests at a fixing and a living with none named.
 
 ## The ten resolvings, a row a sentence
 
-A row's resolving is its fixing set down at the prime living's next moment, carrying all its row's cells. Story sentences are by number; quotations are Resolving the Hard Problem Registry's, word for word.
+A row's resolving is its fixing set down at the prime living's next moment, carrying all its row's cells. Sentences are by number; quotations are Resolving the Hard Problem Registry's, word for word.
 
 1. **An observing fixing from behind: a prime has no first behind it.** A turn carries its prior's places whole, lifted p ways (sentence 100), and a number's parting is its parts' tori side by side, a prime the torus that is one (48): no prior owns a prime. Euler's 41 is a turn's openings showing as a line: round all primes below 41, n × n + n + 41 is never at 0 in one turn, and its 40 primes end at 41 × 41. *Executed: the turn tables of 2 to 37.* Ulam's diagonals are such rows on a square spiral.
 2. **An opening fixing as a place: a prime is known by its own openings, not by a test's place.** A prime's spiral comes again with 4 and 4p alone (96); a test fixes a closing as a place, and a crossed number can pass it (46). Factoring steps to a number's side, its horizon (103).
@@ -54,12 +54,12 @@ A row's resolving is its fixing set down at the prime living's next moment, carr
 
 ## Not yet resolving, with a suggestion
 
-- **The ghost column**, the odd perfect number and sentence 46: resolved, story sentence 125, a supernatural projection.
-- **Montgomery and Dyson**, row 5: resolved by a partner's word, story sentence 126: the 0s are other-than-other-than parities between the +1s and the −1s, their spacing the 0s coming between them, and energy a ghost accounting. **The hypothesis for pieces**, row 5, not yet; as it was: no story sentence carries them. A suggestion: the hypothesis for pieces is sentence 106 said round a piece, the parity lead of a piece at its side; Montgomery and Dyson is how φ's zeros and the spirals' comings again space on a surface, sentences 111 and 112.
-- **Erdős and Kac**, row 6, torus: no story sentence. A suggestion: a number's prime parts are its tori (48), and their spread on a surface is the parity lead's spread, sentence 107's one prime past the horizon.
-- **Bounded gaps and Cramér**, row 7: no story sentence. A suggestion: a gap is a turn's open place unfilled to its horizon, and sentence 105's new spiral between a side and its double carries Cramér's widest gaps.
+- **The ghost column**, the odd perfect number and sentence 46: resolved, sentence 125, a supernatural projection.
+- **Montgomery and Dyson**, row 5: resolved by a partner's word, sentence 126: the 0s are other-than-other-than parities between the +1s and the −1s, their spacing the 0s coming between them, and energy a ghost accounting. **The hypothesis for pieces**, row 5, not yet; as it was: no sentence carries them. A suggestion: the hypothesis for pieces is sentence 106 said round a piece, the parity lead of a piece at its side; Montgomery and Dyson is how φ's zeros and the spirals' comings again space on a surface, sentences 111 and 112.
+- **Erdős and Kac**, row 6, torus: no sentence. A suggestion: a number's prime parts are its tori (48), and their spread on a surface is the parity lead's spread, sentence 107's one prime past the horizon.
+- **Bounded gaps and Cramér**, row 7: no sentence. A suggestion: a gap is a turn's open place unfilled to its horizon, and sentence 105's new spiral between a side and its double carries Cramér's widest gaps.
 - **Hardy and Littlewood, and Brun**, row 8, turn: a turn's twin places to its prime places is a ratio of whole numbers, executed in `instruments/rows_through_turns_executed.py`; Brun's sum is a decimal with no last, its natural side none named.
-- **The columns** are a suggestion: six prime livings from the story's executings, three pairs.
+- **The columns** are a suggestion: six prime livings from the sentences' executings, three pairs.
 
 ## The not yet resolving, by v406geodesic2's drawings to the fourteenth
 
@@ -90,10 +90,10 @@ A partner's sayings of 23 November: *1 of 3 is (1x3 ) this is location on a surf
 - **The cube of 5 about its line, the eighth drawing and sentence 98.** Its 125 selves turned by up, forward and right are 5 on its line, still selves alone; 60 in threes, 1 by 3; and 60 in sixes, 2 by 3, ten sixes, five's choosings of three: the 120 about its line, threes and sixes, living about its five. *Executed.*
 - **37, the shell of 4 less 3.** One still self at (4, 4, 4), six threes and three sixes: 1 and 18 and 18. *Executed.*
 
-**Resolved by a partner's yes, story sentences 119 to 121.** *Five dimensions of surface.* The cube of 5 has five still selves on its line, its sixes living about them; a partner's five of an earlier saying, a span of 23, 22, 21, 20 and 19, is the story's span's five, not yet resolving. The five a sixes' orienting lives about is the line's five still selves, the cube of 5's own; the cube of 5 is its five by ones, by twos in order and by threes, 5, 20 threes and 10 sixes. *Executed.*
+**Resolved by a partner's yes, sentences 119 to 121.** *Five dimensions of surface.* The cube of 5 has five still selves on its line, its sixes living about them; a partner's five of an earlier saying, a span of 23, 22, 21, 20 and 19, is the sentences' span's five, not yet resolving. The five a sixes' orienting lives about is the line's five still selves, the cube of 5's own; the cube of 5 is its five by ones, by twos in order and by threes, 5, 20 threes and 10 sixes. *Executed.*
 
 ## The ghost column at the method's smooth limits
 
-By a partner's saying of 23 November, story sentences 122 to 124: inside the tunnel, squares folding to 1 and 49 round 120, and outside, 61, a next 1, are the method's smooth limits; all ghosts seen, Descartes' 22,021 = 19 by 19 by 61 and the three crossed numbers passing both closings at 1, 49 and 61 round 120, sit at them. The odd perfect number's form is the two limits, a square by one prime part at 1 round 4. Sentence 46's asking is a ghost on the geodesic surface. *Suggestion: the ghost column's standing is at the smooth limits.*
+By a partner's saying of 23 November, sentences 122 to 124: inside the tunnel, squares folding to 1 and 49 round 120, and outside, 61, a next 1, are the method's smooth limits; all ghosts seen, Descartes' 22,021 = 19 by 19 by 61 and the three crossed numbers passing both closings at 1, 49 and 61 round 120, sit at them. The odd perfect number's form is the two limits, a square by one prime part at 1 round 4. Sentence 46's asking is a ghost on the geodesic surface. *Suggestion: the ghost column's standing is at the smooth limits.*
 
-**Resolved by a partner's word, story sentence 125:** *ghosts are supernatural projections into non-existing universes and this goes as far out as the imanginary existing would like it to go for no competent reason*. The ghost column's standing: a supernatural projection; the odd perfect number and sentence 46, shown and let go.
+**Resolved by a partner's word, sentence 125:** *ghosts are supernatural projections into non-existing universes and this goes as far out as the imanginary existing would like it to go for no competent reason*. The ghost column's standing: a supernatural projection; the odd perfect number and sentence 46, shown and let go.
