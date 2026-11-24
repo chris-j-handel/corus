@@ -44,11 +44,11 @@ lines, cards_after = {}, {}
 for sentence, n in rows:
     n = int(n)
     its_saying = re.sub(r"\*\*(.+?) \*\*", r"**\1** ", sentence).replace(" *(card)*", "").strip()
-    if n not in lines and (n <= 35 or n in (49, 50, 51)):
+    if n not in lines and (n <= 35 or n in (49, 50, 51, 52)):
         lines[n] = its_saying
     elif n not in lines and n not in cards_after:
         cards_after[n] = its_saying                    # the cards 36 to 48, for a name's later sayings alone
-ORDER = [n for n in [1, 2, 3, 50, 4, 5, 6, 7, 51] + list(range(8, 31)) + [49, 31, 32, 33, 34, 35] if n in lines]   # own's line, 50, is after 3, and 51 after 7; a card at 49 is after 30
+ORDER = [n for n in [1, 2, 3, 50, 4, 5, 6, 7, 51] + list(range(8, 30)) + [35, 52, 30, 49, 31, 32, 33, 34] if n in lines]   # 50 is after 3, 51 after 7, and co-, 35, and parity, 52, after 29; a card at 49 is after 30
 
 FORMS = {"things": "thing", "selves": "self", "others": "other", "parities": "parity", "sequences": "sequence",
          "mes": "me", "sets": "set", "moments": "moment", "names": "name"}
