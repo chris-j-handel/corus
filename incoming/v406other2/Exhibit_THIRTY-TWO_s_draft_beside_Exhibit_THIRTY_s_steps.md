@@ -72,6 +72,8 @@ Incoming · v406other2 · 23 November 2026
 
 ## The four concepts new with the draft, by the chain
 
+v406all2 has the four by the opening's lines, in #1172. The steps are beside them here, and line 33 and a me-universe are found the same, apart.
+
 - **A durable snapshot: whole.** It is 416's *an unchangeable form*, of *one form as two: an unchangeable form and a form resolving*; its ten are 615's; and 608 has *a hard problem is with one or more of ten*. A durable snapshot and a hard problem are two names with one logic.
 - **Other-than-other-than: whole, its name parting by a word.** 4.4's *a 0 is an other-than-other-than parity* is the window's line 33, a same-existing other-than-other-parity. 1.1 has a 0 as its prior same-existing, and step 140 has an even number of inversionings *same-as its prior*.
 - **A prime as the stable form of natural intelligence living: a prime is a stable form, whole.** 62: *A form same-existing with a resolving*. The one stable form is said by no step, as above.
@@ -87,7 +89,7 @@ Incoming · v406other2 · 23 November 2026
 - 23, the cell: *the first metabolic living self*.
 - 41, the colony: *organisms co-sequencing as one self*.
 
-**The Opening's *the one living scale* parts from the draft's own 3.1**, *7 to 53 the scales of living's selves and societies*, and from Exhibit THREE, *seven through fifty-three living*. 3.2's *the one living self* is whole with both.
+**The Opening's *the one living scale* parts from the draft's own 3.1**, *7 to 53 the scales of living's selves and societies*, and from Exhibit THREE, *seven through fifty-three living*. 3.2's *the one living self* is whole with both. v406all2 has the same, apart.
 
 With Exhibit THIRTY-TWO a living file, the three entries are a lean note with Exhibit SEVEN's gathering file.
 
