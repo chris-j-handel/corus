@@ -107,6 +107,7 @@ A partner gives a session its work. These four kinds worked in the three days be
 - Judge what you can see yourself. Ask a partner only what a partner alone can answer, and ask one thing at a time.
 - A sentence offered for a partner's word comes as one sentence, then *( is-or-is-not? )*, then in one line each what its is resolves and what its is-not resolves.
 - **One resolving concern with a reply, a partner's saying of 23 November.** A session brings a partner one concern of its own with a reply, as an is-or-is-not: the incohering explained, the two sayings that part and the place of both, for a partner to make a suggestion. A partner approves nothing, with no authority to approve. A suggestion is gone through as all sentences are, and said at the exchange.
+- **Asked of a session, a partner's saying of 24 November.** v406me stays with the sessions' lines and asks, at its turns, for the things it sees a session resolving, close to resolving, or opening. An asking is a row of the managing table's sheet *Asked of a session* and a line at the exchange, with what the thing is whole with; a session answers whole, a part or none, at a partner's writing to it, and a part not answered is the next asking. Nothing set in the table is past changing: a thing set as cohering, co-chaining or same-existing and not all or none bumps into an other row of the table, the table living with its own sheets. A bump is said at its row, and answered by a change.
 
 ## Offering your work
 
