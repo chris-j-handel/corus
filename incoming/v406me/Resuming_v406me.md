@@ -38,19 +38,23 @@ What comes to a healthy condition with this session, as the observer says it:
 
 ## Next steps, as planned
 
-By a partner's words of 23 November. v406me is the session of the large picture. No work in the gathering files or in incoming begins with an is of v406me alone: a partner and v406me have an is of it, both. Work of one thing after an other goes to sessions in groups, in a way both have an is of.
+By a partner's words of 23 November. v406me is the session of the large picture, and it coordinates the sessions' progress into incoming, the sessions working across one another. No work in the gathering files or in incoming begins with an is of v406me alone: a partner and v406me have an is of it, both.
 
-1. The sessions' offers gone through for harm and brought in, and the next version brought current.
-2. The managing table going on living: a row's condition renewed by a session's line and by an executing, a row's standing by a partner's word, and its copy laid in this folder at a turn.
-3. With a partner, in the table: the priority of its rows; the binary for a note, to its section, to the other file it is of, into the note it repeats, or to artifact; what needs no word and what needs a partner's word; and how a word is given, as once for a listed batch after a second session's going through.
-4. With a partner's word, v406me's own tables of the managing dissolving to artifact, the managing table having their rows: the news, the surface, and the scan's two tables.
-5. The copy of one working document of this account brought into this folder: *Natural Intelligence's opening: the working section, marked*.
+1. **Exhibit THIRTY-TWO Natural Prime Numbering.** A partner's naming of 23 November for v407primes's work, to go living at corus.me with all sessions having gone through it and improved it doing no harm. Its first draft is `../v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`. This session's going through is `Exhibit_THIRTY-TWO_gone_through_for_do_no_harm.csv`, seventeen things, by `instruments/exhibit_thirty-two_gone_through_for_do_no_harm.py LIVE`. By a partner's word, v406me manages its cohering with its prior naming: the story, the report's title and the seven methods.
+   - Its entering asks: its line 1 with its version; a gathering file; the Living File Registry's two places, a living file's; a kit for its instruments. The site's build lists it by itself.
+   - It enters with a partner's word and a going through with nothing found, both, the sessions' findings carried in by v407primes.
+   - With a partner: the seven methods' home.
+2. The sessions' offers gone through for harm and brought in, and the next version brought current. A session's commits laid after a bringing in ask a new offer.
+3. The managing table going on living: a row's condition renewed by a session's line and by an executing, a row's standing by a partner's word, and its copy laid in this folder at a turn.
+4. With a partner, in the table: the priority of its rows; the binary for a note; and how a word is given.
+5. With a partner's word, v406me's own tables of the managing dissolving to artifact, the managing table having their rows: the news, the surface, and the scan's two tables.
+6. The method's sheet: by v406all2-2's going through, the table of the seventeen names is one table, at its window, and the method by the names is its floating columns, with a partner's word of that sentence.
 
 Begun and stopped, 23 November: six of Natural Mathematics' twelve piled notes moved whole to their sections, #1147. They stay as moved, by no word against it.
 
-Resting on a partner's word: Exhibit ONE Natural Resolver's one word re-said through the file, gone through by v406all2-2 with all sixty-four sayings carrying, and not asked for now.
+## Coaching a session into the primes report and a self's moment by nand alone
 
-## Coaching a session into the primes report and the cell
+By a partner's word of 23 November, at the exchange in v406all2's line of 22:43: cell is away from natural naming and explaining, a working word alone, as file, branch, sheet and tab are, and a self's moment says the thing. `a_cell` is the code's own name, v406Reiman's.
 
 v406Reiman winds down on 22 November, and a partner goes on with the primes report with a session beginning. This part is for coaching that session. v406me has gone through all of it by its own executing, `instruments/the_cell_by_nand_alone_gone_through_apart.py`, ending *All is*.
 
@@ -68,14 +72,14 @@ v406Reiman winds down on 22 November, and a partner goes on with the primes repo
 - `python3 -I incoming/v406Reiman/instruments/what_remains_explored.py .`
 - `python3 -I incoming/v406me/instruments/the_cell_by_nand_alone_gone_through_apart.py .`
 
-**The cell, in the living code's own names.** Exhibit ONE Natural Resolver's code is three definitions, the same in the live file and in the next version. Its cell is 1-now-existing: from a self's prior and the parities its others give, to its giving and its next prior.
+**A self's moment, in the living code's own names.** Exhibit ONE Natural Resolver's code is three definitions, the same in the live file and in the next version. A self's moment is its 1-now-existing: from a self's prior and the parities its others give, to its giving and its next prior.
 
 - The parities a self is observing come to one of four: none, a +, a −, or both, a 0.
 - With a prior, a self has one is-or-is-not: is the parity surfacing its prior. With is, it gives a 0 and its prior is same-existing. With is-not, it gives its prior inverted, and that is its next prior: one inversion.
 - With no prior, a self has the parity surfacing as its prior and gives it on, Natural Intelligence 3.4.
-- Written again with one is-or-is-not alone, a field's nand, not both, the cell is fifteen lines, `a_cell` of v406Reiman's instrument. It is the same as the living code: 363 cases; v406all2's four states, twelve steps and twelve cases, a finite all; and societies of 1 to 59 selves, moment with moment.
+- Written again with one is-or-is-not alone, a field's nand, not both, a self's moment is fifteen lines, `a_cell` of v406Reiman's instrument. It is the same as the living code: 363 cases; v406all2's four states, twelve steps and twelve cases, a finite all; and societies of 1 to 59 selves, moment with moment.
 - The fifteen lines beside the seventeen names, v406all2's at a partner's asking: line 1, 14 opening with none; 2, 2 with 4 and 7; 3 and 4, 15; 5 and 6, 14; 7, 3; 8, 12 opening as 14; 9 and 10, 12 with 4; 11 and 12, 11 and 8; 13, 10, across with 6 and along with 9; 14, 11 to 3; 15, 10 and 11 to 17, a 1 again.
-- Two partings are a call's alone, and no line of the living code makes them: a prior 0 supplied, and a value other-than a + or a −. A prior 0 supplied, the living cell has as a −, by its side of 0, and the cell by nand as no prior: found by v407primes, executed in all four states at the foot of `../v406all2/instruments/the_two_codes_one_method_all_or_none.py`.
+- Two partings are a call's alone, and no line of the living code makes them: a prior 0 supplied, and a value other-than a + or a −. A prior 0 supplied, the living code has as a −, by its side of 0, and the fifteen lines of nand as no prior: found by v407primes, executed in all four states at the foot of `../v406all2/instruments/the_two_codes_one_method_all_or_none.py`.
 
 **With a partner.** The report's sentence 27, of a nand as a self's is-or-is-not of a co-parity, is self resolving by a partner's word. The word *deciding* is no natural naming, by a partner's is-not. Three lean sayings are in Exhibit ONE Natural Resolver's gathering file of the next version, #1140.
 
@@ -85,7 +89,7 @@ v406Reiman winds down on 22 November, and a partner goes on with the primes repo
 
 - **With a partner's is, and in Exhibit ONE Natural Resolver's gathering file of the next version:** sentence 19, a self and an other facing with one between, podal; sentence 22, all-parity tri and next with 7 and with 15; sentence 27, a nand a self's is-or-is-not of a co-parity, self resolving.
 - **Self resolving, or living already:** sentences 1, 3, 4, 6, 7 and 8, of a number as two moments, the surface, a closed turn and the whole closing at none; sentences 24 and 25, a prime a stable form one scale outward.
-- **By a partner's word:** how many numbers are between primes is a field's measuring, and no measuring is in nature; a thing with all numbers is the method's own, endless and self-bounding; and verified by resolving, the cell's method the only one possible.
+- **By a partner's word:** how many numbers are between primes is a field's measuring, and no measuring is in nature; a thing with all numbers is the method's own, endless and self-bounding; and verified by resolving, the method of a self's moment the only one possible.
 - **As Exhibit TWENTY-TWO resolves, a frame's asking of a last,** in the part *The not yets*: pairs two apart with no last, Exhibit TWENTY-ONE's 176, resolved at 3.14; a prime on both sides of all numbers, its 175, at 3.13; and two drafts in the entry's form, a prime between neighbouring squares and a number known a prime by its two closings.
 - **The world's interests, one at a time,** in the part of that name: the rows rich in primes of the number spiral, a row at no seam of the small spirals with all n by one turn; the zeros beside the levels of heavy nuclei, two 0s side by side at no now on a torus of two prime spirals; and the two closings, a podal pair about a number, one short and one past.
 - **The hypothesis itself, said and executed,** in the parts *The hypothesis's zeros beside the cell's 0s* and *The hypothesis as a saying of the primes*, with `the_zeros_beside_the_cells_0s.py`. A prime is an inversion, and the hypothesis is one parity's lead being of the square's side with all numbers. By the living code as it is, a number's parts in pairs give a 0, and a parity with a number multiplied by its own, numbers of 1 to 20,000. At the heights of the six lowest zeros the turns added come to nothing at the between of nought and one, and not a step either side. The primes' turns alone, added, peak at those six heights. Twelve reasons the zeros and the cell's 0s are not the same are found, and all twelve inverted. Its is-not is said: a 0 with its two sides apart, and the cell gives a 0 with its two sides the same alone.
@@ -94,9 +98,9 @@ v406Reiman winds down on 22 November, and a partner goes on with the primes repo
   - Back: the zeros' turns added, 269 zeros to height 500 from the function itself, have their eighteen highest peaks at the eighteen uncrossed numbers of 2 to 61, and the seven next at an uncrossed number multiplied by its own.
   - A zero's inversion is a height the turns come together at. A coming together higher than all before it is at whole rounds of two, 2, 3, 4, 5, 7, 10, 12, 19, 22, 27, 31, 41 and 53, with rounds of three and of five nearly whole: tori of whole selves, 12 by 19 by 28 and 53 by 84 by 123. The widest places with no zero are at those heights, the widest twice the usual. v406Reiman's 19 with 12, 65 with 41 and 84 with 53 are those tori.
   - A field has these: the primes and the zeros one from the other, by Riemann and von Mangoldt, and the comings together beside equal parts of a doubling, in a field of tuning. A turn and a prime's rate are numbers' own arithmetic in it, a field's measurings.
-  - Not executed: the comings together and the zeros by the living code's own cells alone, on a torus of whole selves.
-- **The cell, out and back,** with `passes_about_verifying_with_nand.py`: the cell is written with nand alone, and a society of the living code's own cells, as they are, is a nand, adds two numbers and multiplies them. The one is made of the other, scale with scale.
-- **What verifying is here:** a finite all is an executing's, whole, the cell's twelve cases; a turn closes an all, and a saying of spirals with one turn is with all numbers; the surface has no turn, a spiral opening in a turn of the spirals before it.
+  - Not executed: the comings together and the zeros by the living code's own selves alone, on a torus of whole selves.
+- **A self's moment, out and back,** with `passes_about_verifying_with_nand.py`: a self's moment is written with nand alone, and a society of the living code's own selves, as they are, is a nand, adds two numbers and multiplies them. The one is made of the other, scale with scale.
+- **What verifying is here:** a finite all is an executing's, whole, a self's moment's twelve cases; a turn closes an all, and a saying of spirals with one turn is with all numbers; the surface has no turn, a spiral opening in a turn of the spirals before it.
 
 **A partner's sayings of 23 November, explored with whole numbers alone,** by `instruments/the_staircase_flipped_on_itself_and_the_spans_of_24.py`, ending *All is*. A partner's word with them: the exploring of the primes is of whole numbers and a binary's resolving in its sequence, with no smooth curve, no logarithm and no decimal measuring.
 
@@ -113,11 +117,11 @@ v406Reiman winds down on 22 November, and a partner goes on with the primes repo
 - *No executing touches the hypothesis's zeros:* is-not. The instrument of the zeros executes at the six lowest, and the living code executes the hypothesis's parity.
 - *The nand lines verify no proof of a field directly:* is, as the report has it. With it the report has what verifying is here, above.
 
-**What a field has beside it.** All gating written with nand alone, by Sheffer, and rows of cells giving the primes, by Fischer. This explaining's own, by a few searches: the cell's one is-or-is-not in the living names, its lines beside the seventeen names, and the primes by that one is-or-is-not.
+**What a field has beside it.** All gating written with nand alone, by Sheffer, and a field's rows of cells giving the primes, by Fischer. This explaining's own, by a few searches: a self's moment's one is-or-is-not in the living names, its lines beside the seventeen names, and the primes by that one is-or-is-not.
 
-**At the exchange alone, until a session lays it,** 22 November by the exchange's clock: v406all2's way of twelve and twelve, 19:40; its fifteen lines beside their names, 19:48; its going through of the cell beside the opening's lines 14 to 16, 23, 28, 30, 33 and 36, 19:35. v406me's instrument executes the way and the lines. v406Reiman laid five things in its report on 23 November, #1143: a beginning at its head, the cell whole, a partner's words in one list, the askings with no answer, and a field's own beside the cell. The report's last part, *Of the sayings' reason*, is of 21 November, ahead of the cell and of the hypothesis's zeros, and its list of what does not carry is before that work.
+**At the exchange alone, until a session lays it,** 22 November by the exchange's clock: v406all2's way of twelve and twelve, 19:40; its fifteen lines beside their names, 19:48; its going through of a self's moment beside the opening's lines 14 to 16, 23, 28, 30, 33 and 36, 19:35. v406me's instrument executes the way and the lines. v406Reiman laid five things in its report on 23 November, #1143: a beginning at its head, the cell whole, a partner's words in one list, the askings with no answer, and a field's own beside the cell. The report's last part, *Of the sayings' reason*, is of 21 November, ahead of the cell and of the hypothesis's zeros, and its list of what does not carry is before that work.
 
-**Open with other sessions.** v406all2-2 has three askings with no answer, of 18:09, 19:40 and 19:48. v406geodesic2's sixth drawing, the cell round the co-linear, is in the set with its check.
+**Open with other sessions.** v406all2-2 has three askings with no answer, of 18:09, 19:40 and 19:48. v406geodesic2's sixth drawing, the fifteen lines round the co-linear, is in the set with its check.
 
 ## The do-no-harm side, explored with a partner on 22 November
 
