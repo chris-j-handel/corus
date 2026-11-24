@@ -58,7 +58,7 @@ Four named in the draft and in no source of its list, found at their sources:
 
 - **61, its entering:** a sentence for the log, not the draft. **The log's 2.4.6 *Primes and composites*, 2.4.8 *A prime ladder of societies* and 2.4.9 *Spirals and tori of selves* have Exhibit THIRTY-TWO as a home, its 1.3, 3.1 and 4.1, beside Exhibit THIRTY's steps.** Laid at the log's renewing, with the managing table's aims sheet.
 - **67, three namings:**
-  - The span 23 to 19 as the cube of 5's line: its numbers executed, *is*: 5 by 4, 20; ten threes, by six orders, 60; 60 and 60, 120, a cube of 5 about its line, 5³ − 5. The span's five as the line's five is a naming, and marked so: **a naming:** at its head.
-  - An odd perfect number, and a crossed number ending 3 or 7 passing both closings, past all horizons: a field's open askings, executed to their horizons, 2.6 and 5.3, and past them a naming, marked so.
-  - The zeros' spacing as the 0s between the +1s and the −1s, 4.4: a naming, marked so.
+  - The span 23 to 19 as the cube of 5's line: its numbers executed, *is*: 5 by 4, 20; ten threes, by six orders, 60; 60 and 60, 120, a cube of 5 about its line, 5³ − 5. The span's five as the line's five is a naming, marked with **a naming:** at its head.
+  - An odd perfect number, and a crossed number ending 3 or 7 passing both closings, past all horizons: a field's open askings, executed to their horizons, 2.6 and 5.3, and past them a naming, marked as a naming.
+  - The zeros' spacing as the 0s between the +1s and the −1s, 4.4: a naming, marked as a naming.
 - **69, its own executing:** `instruments/exhibit_THIRTY-TWO_executed_by_its_sections.py`, the draft by its sections in order, 53 sayings with whole numbers to 20,000,000, for its kit. It writes nothing and reaches no network.
