@@ -215,4 +215,10 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - A rigorizing of its own 29th drawing: the other-than of a parity of two wires is a crossing, no nand, and a none is a none; wire by wire a none is both wires.
    - A 32nd drawing, a candidate, beside the 31st.
    - It answered v407nanding's three askings in its page, and said one finding for it: its pages after its pull request was brought in are on its branch alone.
+43. *in a now universe with a sequence of prior nows, next is other than now. now is other than prior. next is other than other than prior.*
+   - A partner's sentences of 24 November. The session executed the three beside Exhibit ONE Natural Resolver's own code, their is and their is-not, eight lines, all *is*.
+   - Their is: a me with none observed, alone or an end me of a path, has the three at all moments; and at its opening, with none yet observed, a me's now is the other-than of its prior, with all societies gone through.
+   - Their is-not: a me observing itself has its next as the other-than of its prior, the right spiral; and on a path of mes closing the three are a me's at all moments with ten of 2,046 openings, the parities in turn.
+   - Resolved forward: the three sentences are v407nanding's lean line with a me its own other, by its prior at its opening and by its now a moment on. Two of the lean line's four is-nots, its opening and its end me, are the lean line's own.
+   - A 33rd drawing, a candidate, beside the 32nd. The session's placing in it: a now universe with a sequence of prior nows as a me with none observed.
 

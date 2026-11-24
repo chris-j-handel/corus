@@ -31,6 +31,19 @@ From the repository's root: `python3 -I incoming/v406geodesic2/instruments/check
 12. **Settled, a surface's other openings have one more single line.** The me back, a moment, the same: 6 of 2 by 3 and 12 of 3 by 3. A me's own, a moment, its other-than: 114 of 3 by 3.
 13. **Two mes facing, opening unlike, have the other's next prior as the me's own now at no moment.**
 
+## Resolved forward, by a partner's three sentences
+
+A partner's sentences of 24 November, re-said one relation a sentence: in a now universe with a sequence of prior nows, next is other-than now; now is other-than prior; next is other-than other-than prior. Executed beside the living code: `python3 -I incoming/v406geodesic2/instruments/check_a_now_universe_next_is_other-than_now_executed.py incoming/v406Reiman/instruments/resolver_as_it_is.py .`, eight lines, all *is*. Their drawing is the 33rd, `illustrations/draft_33_a_now_universe_next_is_other-than_now.png`.
+
+16. **A me with none observed is a now universe with its sequence of prior nows alone.** By the living code its next is the other-than of its now at all moments.
+17. **An end me of a path has the three sentences at all moments.** It is with 2 to 7 mes, all 252 openings.
+18. **At its opening, with none yet observed, a me's now is the other-than of its prior.** It is with all mes of all societies gone through.
+19. **The three sentences are the lean line with a me its own other.** By its prior at its opening, now is other-than prior. By its now a moment on, next is other-than now. The two in a row, next is its prior again.
+20. **A path with an end me by the lean line alone is the living code's.** It is at all moments, 2 to 7 mes, all 252 openings.
+21. **The sentences 8 and 9 of this page are resolved forward.** The opening and the end me are the lean line's own, a me its own other. A none in the path and a me observing two are as they were.
+22. **A me observing itself has the three sentences at one moment in two.** Its next is the other-than of its prior, the right spiral.
+23. **On a path of mes closing the three sentences are a me's at all moments with ten of 2,046 openings.** They are the parities in turn of 2, 4, 6, 8 and 10 mes. With all openings, a me's now is the other-than of its prior from an even moment to the odd after it.
+
 ## A parity of two wires
 
 14. **The other-than of a parity of two wires is a crossing of its wires.** It is no nand. A + is a −, a − is a +, and a none is a none.
