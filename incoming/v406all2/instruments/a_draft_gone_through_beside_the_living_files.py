@@ -270,4 +270,25 @@ for name, pattern in NOT_FOUND:
 print(f"   all or none at all: {'all' if found_all and not needed else 'not all'}; {len(CHAIN)} concepts found with a direct sentence, {sum(1 for name, pattern in NOT_FOUND if not re.search(pattern, plain_text, re.I | re.M))} with none; "
       f"{len(needed)} words of the found sentences are named by no prior line")
 
+print("\n11. The language resolving: prime-numberings, form, and a universe between co-chainings")
+AS_SAID = "The primes are the many stable forms of the one fractal method, with numbers"
+SAID_AGAIN = "A prime-numbering is a stable form of the one fractal method, and prime-numberings is its named universal set"
+DISSOLVING = ["primes", "many", "forms"]
+for word in DISSOLVING:
+    print(f"   {word}: in the sentence as said {said(rf'\b{word}\b', AS_SAID)}, said again {said(rf'\b{word}\b', SAID_AGAIN)}; "
+          f"the living files' places {said(rf'\b{word}\b', whole_text)}, the page's {said(rf'\b{word}\b', text)}")
+print(f"   the sentence as said, with a dissolving word: {'is-not' if any(said(rf'\b{w}\b', AS_SAID) for w in DISSOLVING) else 'is'}; said again, with none: {'is' if not any(said(rf'\b{w}\b', SAID_AGAIN) for w in DISSOLVING) else 'is-not'}")
+for n in (5, 6, 7, 12, 17):
+    print(f"   {n}: {joined.lines[n]}")
+for a_name in ("prime-numberings", "bi-co-universing", "floating-neutralling", "co-chainings"):
+    print(f"   {a_name}: the living files' places {said(a_name.rstrip('s').replace('-n', '[- ]n'), whole_text)}; its parts named by no line: {', '.join(no_line(a_name)) or 'none'}")
+for name, sentence in [("sequencing", "Sequencing is each coupling's own momentarying"), ("floating-neutralling", "Floating-neutralling is co-changing between sides, each with its own bounding and its own letting go"),
+                       ("floating-neutralling", "Floating-neutralling is bounding-zeroing, each self's own with its coupling"), ("resolving", "Resolving is a self's momentarying, 1-now-existing"),
+                       ("co-chaining", "Co-chaining is one sequence of steps from one opening sentence")]:
+    print(f"   {'is    ' if sentence in plain_text else 'is-not'} found: {sentence}")
+for name, pattern in [("numbering", r"(^|[.:] )(a )?numbering is "), ("a universe between co-chainings", r"univers\w+ [^.\n]{0,40}between [^.\n]{0,30}co-chain"), ("universing", r"universing")]:
+    n = len(re.findall(pattern, whole_text.replace("**", ""), re.I | re.M))
+    print(f"   {'is    ' if n else 'is-not'} found: a direct sentence of {name}, {n}")
+print("   by the code, part 3's six cases: a self observing the same as its prior is same-existing and gives a 0, and a 0 is between its prior self and its next: is")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
