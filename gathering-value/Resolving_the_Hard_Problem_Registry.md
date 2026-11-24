@@ -308,6 +308,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 5.16 Riemann, Hodge, Birch–Swinnerton-Dyer, Yang–Mills · 153
 
+- **Possible incohering** · "Each conjecture stands with its own falsifier stating it, its field with no proof of it, and none of this touches its truth value" → Two sayings part at one of four: this sentence, and a proof of Riemann's conjecture released on 20 November 2026 as a Lean library and certified by the Lean and Mathlib communities on 21 November. A re-saying: Riemann's said apart from the other three, a proof of it released and certified, its whole-number saying the parity lead of a surface of its side. The other side: this standing as it is at its version.
+
 ### 5.17 Underdetermination of theory by evidence · 13
 
 ### 5.18 The interpretation of probability · 158
