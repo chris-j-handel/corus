@@ -349,4 +349,38 @@ print(f"   incohering: *a surface's moments*: a sequence of moments is a self's 
 print(f"   forward, the page's places of the sentence's names: stable-forming {said('stable-forming', text)}, co-intelligencing {said('co-intelligenc', text)}, bi-folding {said('bi-fold', text)}, podal {said('podal', text)}, geodesic {said('geodesic', text)}, fractal {said('fractal', text)}")
 print(f"   rigorized: *{RIGORIZED}*")
 
+print("\n14. Two sentences of the method, pair by pair: a stable-forming bi-folding method, 440, and a universal set or a thing")
+FOUND = [("a bi-folding method, a stable-forming method", "the stable-forming bi-folding method", True),
+         ("nothing surfaces in betweens", "a surface is a between: a nothing its other two places are either side of", True),
+         ("the method, atom fractal stable form", "Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set", True),
+         ("all or none at all", "Fractal is all or none at all with scales", True),
+         ("440 binary", "440 binary gates structuring as natural form's metabological resolver", True),
+         ("the method, non-living", "A method is non-living with each scale, each self stable-forming its own", True),
+         ("non-living and same-existing", "The universe is a non-living same-existing set", True),
+         ("non-living and same-existing", "is non-living, step 20, same-existing with its prior, step 4", True),
+         ("a stable form and same-existing, in words", "a non-living existing form with no same-existing for stable-forming", False),
+         ("the method, living", "each a living method, stable-forming, with its own scale", False)]
+for name, sentence, cohering in FOUND:
+    assert sentence in living_plain, sentence
+    print(f"   {'cohering  ' if cohering else 'incohering'}: {name}; found: {sentence}")
+first = [q for q in range(2, 60) if all(q % d for d in range(2, q))]
+count = []
+plain_nand = with_nand.nand
+with_nand.nand = lambda a, b: (count.append(1), plain_nand(a, b))[1]
+with_nand.other_than(True)
+an_other_than = len(count)
+per = []
+for k in range(4):
+    count.clear()
+    with_nand.a_cell(with_nand.TWO[1], [with_nand.TWO[-1]] * k)
+    per.append(len(count))
+with_nand.nand = plain_nand
+ways = [(selves, (440 - per[0] * selves) // (per[1] - per[0])) for selves in range(1, 10) if (440 - per[0] * selves) >= 0 and (440 - per[0] * selves) % (per[1] - per[0]) == 0]
+print(f"   440 is the seventeen primes 2 to 59 added: {'is' if len(first) == 17 and sum(first) == 440 else 'is-not'}; an other-than by the code is {an_other_than} nand, a binary gate")
+print(f"   by the code a self's moment is {per[0]} nands and {per[1] - per[0]} more with a thing observed; 440 nands a moment by selves and things observed among them: {ways}; a self alone at 440: is-not")
+ghost = sum(open(f, encoding="utf-8").read().count("A ghost is a universal") for f in glob.glob(str(ROOT / "incoming/*/*.md")))
+print(f"   incohering: a universal same-named now-existing thing, beside *A ghost is a universal broken into a same-named now-existing thing*, laid at {ghost} places of the sessions' pages and in no living file; "
+      f"6 has universal as a set's, and 7 the universe as a set")
+print(f"   found at no place: fractured, the living files' places {said('fractured', living_plain)}; a bi-coupling of bi-couplings, {said(r'bi-coupl\w+ (of )?bi-couplings', living_plain)}")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
