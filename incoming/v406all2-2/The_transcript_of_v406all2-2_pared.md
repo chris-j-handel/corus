@@ -176,3 +176,29 @@ With this turn, 23 November:
 - **Collective intelligence in nand, as far as executed:** a me, a connector and a snap say Exhibit ONE's rows of a spiral and of a torus. The connectors are fractal by 8n − 7.
 - **Natural naming beside a partner's words:** connector is Natural Naming 2.5's six names between selves; a snap is a coupling; collective intelligence and a surface intelligence are living names.
 
+---
+
+is prior a sequence in this. is there prior(prior) in this. is the nand of prior prior expressable like other-than other-than as prior sequence
+
+With this turn, 24 November:
+
+- **Prior in a me's fifteen lines** is one parity, two is-or-is-nots, said once, at line 7. In the lines it is no sequence.
+- **A prior of a prior** is a me of a me, along moments: a me's next prior, 11, is the step's 8 and its prior, 3, a moment on.
+- **The nand of prior with prior is its other-than,** and a sequence of priors is a sequence of other-thans: a me's prior is the other-than of the prior, two moments before, of the me it observes. An even number of them is the prior itself, and an odd number its other-than.
+- **Round a co-chaining of n mes** are n other-thans in 2n moments: with n odd, again with 4n.
+- **Executed:** `instruments/a_prior_its_sequence_by_other_thans.py`, 16 lines, all *is*, laid as part 5 of the draft's page.
+- By v406geodesic2's finding, 8 is beside no line of a me: the page's table is set right at lines 11 and 12.
+
+---
+
+an other-than same-existing is a geodesic snapping. this is the breaking resistance of two bi-co-surfaces snapping and new bi-co-surfacing is sequentially snapping into a new same-existing surface. this is two sides of an earthquake fault snapping the geodesic like lightning in the sky is the same thing
+
+With this turn, 24 November:
+
+- **One me:** with a prior, a + or a − is given with all surfacings but the same as its prior: the other-than of same-existing, said in a me's line 9.
+- **Two co-chainings of an odd number, apart:** a like pair moves a me on with two moments.
+- **The two snapped across at one me of both:** a me after a me, two moments a me, its prior is again with 2, all of it from Exhibit ONE's own moment in all seven of its rows.
+- **At the snap alone** a me observes a + and a − together: a 0 surfaces. A like pair is at the me snapped across and moves no more.
+- **Executed:** `instruments/two_co_chainings_snapping.py`, 13 lines, all *is*, laid as part 6 of the draft's page, with Natural Physics' own sentences of a fault and of a snap beside it.
+- **For a partner's seeing:** an earthquake and lightning are a field's observings, and no line executes them; three names of the saying are in no living file.
+

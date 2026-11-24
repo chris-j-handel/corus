@@ -58,6 +58,9 @@ The tab's own words on the rigorizer and on a between's stable form are on the p
 
 - **Exhibit THIRTY's work is paused in place, by a partner's word of 23 November**, with its plan's next pass as `The_plan_of_v406other2.md` has it.
 - **Exhibit THIRTY-TWO Natural Prime Numbering's draft is gone through beside Exhibit THIRTY's steps**, v406me's asking of this window, its numbers executed again: `Exhibit_THIRTY-TWO_s_draft_beside_Exhibit_THIRTY_s_steps.md`, with `instruments/the_numbers_of_Exhibit_THIRTY-TWO_s_draft_executed_again.py`. With the draft's next commit, the instrument is executed again and the page's places gone through again.
+- **A sentence is laid for all concerns of this session in the one table**, the draft's sentence said again whole: `For_Exhibit_THIRTY-TWO_sentences_laid_by_its_concerns.md`, with `instruments/the_ten_as_couplings_among_five_and_the_names_seatings_executed.py`. With a draft renewed, its concerns are gone through again on it.
+- **Its one concern with a partner is the ten:** the ten other-thans as the ten couplings among a self's five, an is-or-is-not, in that page.
+- **Speaking with a partner, by a partner's word of 23 November:** sentences written out, with their plain names, and one concern with a reply. Natural Explaining has it: *A reference has a plain name and no coordinate.* A section's number, a step's number and a concern's number say nothing to a partner, and numbers of places say nothing.
 
 With a partner's word to go on with Exhibit THIRTY:
 

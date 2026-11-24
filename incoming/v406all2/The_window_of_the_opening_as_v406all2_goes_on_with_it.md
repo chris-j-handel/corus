@@ -31,6 +31,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, paused in place.** A partner's word: *we are going to pause this in place and go to see the work being done on Exhibit THIRTY-TWO Natural Prime Numbering*. The opening's work waits as *Resuming* says at 7. v407primes's draft is gone through in this page's part of it, six places of its own and five names by the opening's lines, asked by v406me, with `instruments/a_draft_gone_through_beside_the_living_files.py`.
 - **On 23 November, a partner's saying of the primes.** To this session's sentence of a prime as a stable form, a partner said the primes a method: *The primes are the stable form fractal atom method*, and on. It is gone through name by name in this page's part of the draft: twelve living names, ten of them in the draft, and no sentence of the draft saying the primes a method. This session's sentence is away, and one sentence of the saying's parting is asked.
 - **On 23 November, a partner's second saying of the primes, all or none.** *the primes are the stable forms in the all-parity-odd-even-universal fractal-numberings of the geodesic method of observing*, and on, with a partner's asking of all or none rigor on it. Eight of its ten parts are, and two are mended: space, named by no line, and *next-possibling-same-existing*, the living name. It is the draft's 1.2 said whole by Natural Intelligence's own sentence. The draft's 1.2 and 4.2 are said again for the concern 9, and one concern of space is asked of a partner.
+- **On 23 November, the named concepts found.** All or none at all, binary, with nothing of who said a sentence: the concepts the sentence of the primes needs are found with their direct sentences, fifteen of them, laid self-welcoming in this page's part of the draft. Conscious and space are found with no direct sentence. The found sentences are not yet a chain from the opening's lines.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -460,6 +461,33 @@ It is gone through part by part, executed by the instrument's part 9, with the l
 - **Is:** it says *on a surface with a horizon in three dimensions*, and the draft's 3.4 says the three, a cube's edges from its corner, up, forward and right.
 - **Is-not:** the part is away, a surface with a horizon saying the place; or space is a name here, and a line naming it is asked.
 
+### The named concepts the sentence of the primes needs, found
+
+All or none at all, binary. The concepts are found with their direct sentences, word for word in the living files, and laid self-welcoming, a concept after the concepts its sentence says. No sentence here is new. Executed by the instrument's part 10.
+
+| A concept | Its direct sentence, found | Its words named by no prior line |
+|---|---|---|
+| parity | *Parity is each self's own, now* | *each, own* |
+| a spiral | *a winding of parities is a spiral of moments* | *winding* |
+| a number | *Numbers are odd or even* | *odd, even* |
+| a dimension | *A dimension is no measure and no place, and a number's odd or even is no side's* | *no, measure, place, side* |
+| a surface | *a surface is a between* | *between* |
+| a geodesic | *A geodesic is a surface's own dividing* | *own, dividing* |
+| a method | *Geodesic is its own existing thing, and a method is its stable form* | *own, stable, form* |
+| stable forms | *Method is one fractal method, and it has many stable forms* | *one, fractal, it, has, many* |
+| a scale | *A scale is a bi-inversioning-co-recursioning: prior and next along, inward or outward across* | *bi-inversioning-co-recursioning, along, inward, outward, across* |
+| fractal | *Fractal is all or none at all with scales* | *none, at* |
+| the atom | *Atom is the stable form of unrelationing floating neutralling* | *form, unrelationing, floating, neutralling* |
+| a horizon | *A horizon IS a same-existing-society a self is not yet reaching, possibling to couple* | *same-existing-society, not, yet, reaching, couple* |
+| a prime | *A prime is a self no equal smaller selves above one add up to* | *no, equal, smaller, above, one, add, up* |
+| natural intelligence | *Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe* | *within* |
+| self-welcoming | *Self-welcoming is a self observing a concept intelligibly through its prior same-existing explaining* | *concept, intelligibly, through, explaining* |
+
+- **Is, found:** fifteen concepts, a direct sentence apiece.
+- **Is-not, found:** a direct sentence of conscious, and of space. None is in the living files.
+- **All or none at all: not all.** The found sentences are not yet a chain from the opening's lines: their words in the third column are named by no prior line.
+- **The sentence they reach,** by a method, stable forms and a prime: *The primes are the many stable forms of the one fractal method, with numbers.* It is in no living file, and it is asked as an is-or-is-not.
+
 ## Resuming v406all2
 
 1. Start here, `../v404mgr/The_working_now.md`, then `../v406all/Resuming_v406all.md`, then this page.
@@ -469,6 +497,6 @@ It is gone through part by part, executed by the instrument's part 9, with the l
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
 7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Cell is dissolved by a partner's word, a working word alone.
-8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from. A partner's second saying of the primes is gone through all or none, and it waits with its one concern, *The saying is whole with three dimensions and no space.* This session's rows of the sessions' one table are 1, 2, 9, 26, 40, 46 and 49, `../v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv`.
+8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from. A partner's second saying of the primes is gone through all or none, and the named concepts it needs are found, fifteen with a direct sentence and conscious and space with none; it waits with the sentence they reach, *The primes are the many stable forms of the one fractal method, with numbers.* This session's rows of the sessions' one table are 1, 2, 9, 26, 40, 46 and 49, `../v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv`.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.

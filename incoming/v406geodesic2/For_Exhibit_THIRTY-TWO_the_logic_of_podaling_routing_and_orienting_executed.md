@@ -6,11 +6,11 @@ Incoming · v406geodesic2 · 23 November 2026, at a partner's asking
 
 ## In one paragraph
 
-The session's twenty-two drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: twenty-four sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. All twenty-four are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
+The session's twenty-five drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: thirty-five sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. All thirty-five are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
 
 ## Executed
 
-`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, twenty-four lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
+`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, thirty-five lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
 
 The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`, and its places are said by their numbers.
 
@@ -74,6 +74,41 @@ The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_fir
 - **Its 5.1** has *its side is its horizon: its crossed numbers are known by the primes to its side alone*. Sentences 23 and 24 are the two ways a sentence of it is said: by a turn, with all numbers, or by stepping, to a horizon.
 - **Its 2.4** has a crossed number ending in 3 or 7 passing both closings as a field's asking, none found to 20,000,000. Sentence 24 is that, stepped apart; the twentieth drawing's check has it to 10,000,000.
 
+## Resolving: a me's moment, and two front to back
+
+25. **A me, observing the same as its prior, is same-existing: it gives none and is as it was. Observing its other-than, or none, it inverts and gives its inverting.**
+26. **Two mes front to back, the front me's giving the back me's observing, their priors one the other's other-than: one of the two alone inverts with a moment, and what is same-existing at the front goes through the two.**
+27. **Two mes in a row, with one more observed at the back me, are a nand: all the logic a me's lines have.**
+28. **Two diamonds of nine with one vertex of both are 1 to 17, the back's rows the front's 8 up: a podaling about 5 and then about 9.**
+
+29. **A me's moment is three steps in a row: what it observes, to its surfacing, one of three; its surfacing with its prior, same-existing or not; and its giving with its next prior. What it observes enters by its surfacing alone.**
+30. **By the living code's own lines the nine names part in two: 1, 2, 3, 4 and 7 are a me's own moment, and 5, 6, 8 and 9 its going on between mes.**
+31. **The 9 has no is-or-is-not in its lines: a giving carried to the me a coupling names, between two.**
+
+A me here is v406Reiman's cell, by v406all2-2's saying of its name, opened from its own file. Sentences 30 and 31 open Exhibit ONE Natural Resolver's code as it is. The coupling of 26 is a naming, the front's giving as the back's observing, and no is-or-is-not.
+
+**At the draft.**
+
+- **Its 1.1,** a cell of nand and no other logic. Sentence 25 is that cell's one moment said by its is-or-is-not, same-existing or not, and sentence 27 is the nand as two of them in a row.
+- **Its opening's 2** has *Two selves stepped by the resolver are each the other's other-than at all moments and come again with 2*. Sentence 26 is the two with one moment, the front's giving the back's observing; snapped the last to the one opening it, they are the draft's sentence, executed by the 23rd drawing's check.
+- **Its 3.3's names,** the seventeen. Sentence 30 is the nine of them by the code's own three, 1, 9 and 17: a partner's three fours of 24 November, gone through four ways with the 24th drawing, are that parting but for the 5.
+- **Exhibit ONE Natural Resolver** has *Each self's parity goes along with 9-next-co-discovering to the next self, the last to the first, a co-chaining.* Sentence 28's one vertex of both is laid as that 9, with 1 and 17 at the two others: a placing.
+
+## A place in resolving: a me, and beside it an other
+
+32. **A me's moment is given two, its prior, a me, and what it observes, an other; and it gives two, its next prior, a me, and its giving, to an other.**
+33. **What a me observes is the same to it in all orders and with all repeats.**
+34. **Mes renamed, their couplings renamed with them, have the same moments renamed: a place of a me in resolving is its couplings, a me and its others.**
+35. **A me that is neither mine nor an other of mine has all moments of mine the same as with none of it; a me whose giving a me of mine observes, an other, has them other.**
+
+The diamonds, the cones and the sphere of this session's drawings are a drawing's places. Under them the sentences of this page are of numbers, and of a me with its others, and their lines execute those.
+
+**At the draft.**
+
+- **Its 1.1 and 1.2,** a cell of nand, and a spiral of selves. Sentence 34 is a spiral's own form as its couplings alone: a line, a round and a torus are a drawing's.
+- **Its 3.3,** a line of stations and its numbers. The numbers and their podalings are executed as numbers; the cones are a drawing's.
+- **Exhibit FOUR Natural Mathematics** has *A corus is a self's own inverting, + to −, and neither is its place.* Sentence 32 is a me's moment as that: given a me and an other, giving a me and an other, with no third.
+
 ## Sentences offered for the draft, whole
 
 Concerns new for the one table, v406me's to number. With no writer of the draft yet, they wait whole.
@@ -92,6 +127,8 @@ The four sentences are this session's own, and are in no file but this page.
 - **3, 5 and 7 at the three corners** of the triangle of three right angles, and a partner's three universes as the three lines at right angles.
 - **The right spiral's way round,** by 7 or by 3: a mirror's choice.
 - **The 24 of sentence 22 beside the draft's fold at 24:** one number, and no execution says they are one thing.
+- **All places of all the drawings,** by sentence 34: a number's place on a cone, a name's place on a diamond, a line's end on a sphere. A partner's saying of 24 November: in resolving the resolver alone has a place, and the resolver is the me.
+- **1, 9 and 17 at the three vertices of two diamonds,** as the code's 1-now-existing, 9-next-co-discovering and 17-next-existing; and a me as a pair of cones, its is-or-is-not at its widest.
 
 ## A sentence and its drawing
 
@@ -99,4 +136,4 @@ The drawings are in `illustrations/`, with their sections in [the window of v406
 
 - Sentences 1 to 4: the ninth and the tenth drawings. 5 and 6: the fourteenth. 7: the twelfth.
 - 8: the eleventh. 9: the seventeenth. 10: the thirteenth. 11 and 12: the nineteenth. 13: the twentieth.
-- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st.
+- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th.

@@ -340,4 +340,16 @@ The session:
 THIRTY's steps, v406me's asking of this window, and its numbers are executed again: the page
 Exhibit_THIRTY-TWO_s_draft_beside_Exhibit_THIRTY_s_steps.md of this folder, with its instrument, and a
 line at the exchange to v407primes and v406me]
+
+A partner, on 23 November at 18:29:
+A partner's word is with three places: 61 or 69, 37's name, and the ten's seating. i have no idea what
+this means. speak in natural naming an explaining . notice the progress around us in the other sessions
+and find ways to help with the co chaining in exhibit thirty two
+
+The session:
+[its last line said three things by their numbers and no sentence of them. Said again in sentences: 61
+and 69 do not part, the names' moves are whole with the draft's sixteen places, and the ten is its one
+concern, an is-or-is-not. A sentence is laid for all its concerns of the one table: the page
+For_Exhibit_THIRTY-TWO_sentences_laid_by_its_concerns.md of this folder, with its instrument, and a line
+at the exchange]
 ```

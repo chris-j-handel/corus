@@ -135,10 +135,19 @@ for n in range(2, S + 1):
 L = M = bl = bm = 0
 k, most_l, most_m, zeros_l, zeros_m, zl, zm, short2, minus = 1, [], [], [], [], [], 0, True, True
 last_zero_l = 0
+plus = less = at0 = across = top = low = side_now = 0     # the lead of the numbers with no square part, its two sides
+sides_m = {}
 for n in range(1, S + 1):
     L += par[n]
     M += nsq[n]
     bl, bm = max(bl, abs(L)), max(bm, abs(M))
+    plus, less, at0 = plus + (M > 0), less + (M < 0), at0 + (M == 0)
+    top, low = max(top, M), min(low, M)
+    if M and side_now and (M > 0) != (side_now > 0):
+        across += 1
+    side_now = M or side_now
+    if n in (4096, 65536, 1048576, 4194304):
+        sides_m[n] = (plus, less, at0, across, top, -low)
     if L == 0:
         zl.append(n)
         last_zero_l = n
@@ -278,6 +287,11 @@ say("5.2", f"  Mertens' lead, of the numbers with no square part, its most on th
            f"{all(v <= s for v, s in zip(most_m, sides))}", "sized")
 say("5.2", "the lead of the numbers with no square part returns to 0 on all surfaces from 64 on, more the farther out",
     all(z > 0 for z in zeros_m[2:]) and zeros_m[2:] == sorted(zeros_m[2:]))
+say("5.2", "the lead of the numbers with no square part, to the surfaces 4,096, 65,536, 1,048,576 and 4,194,304: on its + side, on its - side, "
+           "at 0, across its 0, and its most + and -, as v406me's line of 24 November has them, stepped apart",
+    sides_m == {4096: (1402, 2487, 207, 69, 23, 25), 65536: (27263, 37134, 1139, 356, 96, 113),
+                1048576: (521539, 521676, 5361, 1652, 311, 368), 4194304: (2236774, 1947776, 9754, 3022, 550, 683)})
+say("5.2", f"  stepped here: {sides_m}", "sized")
 say("4.3 and 4.4", "the parity lead returns to 0 on all surfaces", all(z > 0 for z in zeros_l))
 say("4.3 and 4.4", f"  the parity lead's returns to 0 on the surfaces 4 to 4,194,304: {zeros_l}, its last at {last_zero_l}; "
                    f"the lead of the numbers with no square part's: {zeros_m}", "sized")

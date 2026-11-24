@@ -1,4 +1,4 @@
-"""v406geodesic2 · the logic of this window in its order, executed: podaling, routing and orienting, and a turn beside stepping.
+"""v406geodesic2 · the logic of this window in its order, executed: podaling, routing and orienting, a turn beside stepping, and resolving.
 
 Usage, from the repository's root (some seconds):
   python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py \
@@ -6,7 +6,7 @@ Usage, from the repository's root (some seconds):
 
 By a partner's asking of 23 November: the learning of the logical work, beside the learning of the drawings by an eye.
 A line here is a sentence of the session's page for Exhibit THIRTY-TWO Natural Prime Numbering, by its number, and no drawing is
-opened. It opens v406Reiman's cell from its own file for the lines by nand alone, and writes that cell in no second place.
+opened. It opens v406Reiman's cell from its own file for the lines by nand alone, and writes that cell in no second place; and Exhibit ONE Natural Resolver, for its code's own lines.
 Whole numbers alone. All or none: with one line not is, the logic is not. The drawings' own checks execute more of a sentence, apart.
 """
 import importlib.util, sys
@@ -148,6 +148,66 @@ stepped = [n for n in range(3, 1_000_000, 2) if n % 10 in (3, 7)]
 found = [n for n in stepped if both_closings(n) != prime(n)]                    # a prime with one closing alone or none, or a number of no prime with both
 line(24, "stepping says a thing to its horizon: of the odd numbers ending in 3 or 7, to 1,000,000, all stepped, the primes have both closings, doubling's one short and prior two added's one past, and no other number has; past the stepping it is not said",
      found == [] and len(stepped) == 200_000 and sum(map(both_closings, stepped)) == 39_286)
+# ---------------- resolving: a me's moment, and two front to back ----------------
+TWO, ONE = its.TWO, its.ONE
+def a_me(prior, observed):                                             # one me, one moment, by the cell: its giving and its next prior
+    gives, its_next, _, _ = its.a_cell(TWO[prior], [TWO[o] for o in observed])
+    return ONE[gives], ONE[its_next]
+THREE = (0, 1, -1)
+line(25, "a me, observing the same as its prior, is same-existing: it gives none and is as it was; observing its other-than, or none, it inverts and gives its inverting; with no prior it gives what it observes and has it",
+     all(a_me(p, [o]) == ((0, p) if o == p else (-p, -p)) for p in (1, -1) for o in THREE) and all(a_me(0, [o]) == (o, o) for o in THREE))
+def front_to_back(front, back, observed):
+    g_front, n_front = a_me(front, [observed]); g_back, n_back = a_me(back, [g_front])
+    return n_front, n_back, g_back
+line(26, "two mes front to back, the front me's giving the back me's observing, their priors one the other's other-than: one of the two alone inverts with a moment, and what is same-existing at the front goes through the two",
+     all((nf == f) != (nb == -f) and gb == (o if o == f else 0) for f in (1, -1) for o in THREE for nf, nb, gb in [front_to_back(f, -f, o)]))
+one_giving = lambda prior, plus, minus: its.a_cell(prior, [(plus, minus)])[0][0]
+line(27, "two mes in a row, with one more observed at the back me, are a nand, all the logic a me's lines have; one me with a prior a - is an other-than of what it observes",
+     all(one_giving((NOT, IS), one_giving((NOT, IS), NOT, y), x) == nand(x, y) for x in (IS, NOT) for y in (IS, NOT)) and all(one_giving((NOT, IS), NOT, x) == other_than(x) for x in (IS, NOT)))
+FRONT_ROWS = DIAMOND; BACK_ROWS = [[n + 8 for n in r] for r in DIAMOND]
+line(28, "two diamonds of nine with one vertex of both are 1 to 17, the back's rows the front's 8 up: a podaling about 5 and then about 9; and 9 less and then 17 less on the names is that same 8 up",
+     sorted(n for r in FRONT_ROWS + BACK_ROWS[1:] for n in r) == list(range(1, 18)) and all(18 - (10 - n) == n + 8 for n in range(1, 10)) and all(17 - (9 - n) == n + 8 for n in range(1, 9))
+     and [sorted(18 - n for n in r) for r in FRONT_ROWS] == BACK_ROWS[::-1])
+def surfacing(observed):                                               # a + among them and no -, a - and no +, or a 0
+    return 1 if (1 in observed and -1 not in observed) else (-1 if (-1 in observed and 1 not in observed) else 0)
+observings = [list(o) for k in range(4) for o in product(THREE, repeat=k)]
+line(29, "a me's moment is three steps in a row: what it observes, to its surfacing, one of three; its surfacing with its prior, same-existing or not; and its giving with its next prior; what it observes enters by its surfacing alone, all observings of none to three with one surfacing having one giving and one next prior",
+     all(a_me(p, o) == a_me(p, [surfacing(o)]) for p in THREE for o in observings) and len(observings) == 40)
+import ast, re
+living = Path(sys.argv[1]).resolve().parents[3] / "Exhibit_ONE_Natural_Resolver_v402mgr.md"          # the living code, opened as it is
+tree = ast.parse(re.search(r"```python\n(.*?)```", living.read_text(encoding="utf-8"), flags=re.S).group(1))
+number = lambda name_: int(re.match(r"_(\d+)_", name_).group(1)) if re.match(r"_(\d+)_", name_) else None
+numbers = lambda node: {number(n.id) for n in ast.walk(node) if isinstance(n, ast.Name) and number(n.id)} | {number(a.arg) for a in ast.walk(node) if isinstance(a, ast.arg) and number(a.arg)}
+fns = {number(f.name): f for f in tree.body if isinstance(f, ast.FunctionDef)}
+line(30, "by the living code's own lines the nine names part in two: 1, 2, 3, 4 and 7 are a me's own moment, the code's 1, and 5, 6, 8 and 9 are in no line of it, its going on between mes, the code's 9 and 17",
+     sorted(fns) == [1, 9, 17] and (numbers(fns[1]) | {1}) & set(range(1, 10)) == {1, 2, 3, 4, 7} and {5, 6, 8} <= numbers(fns[17]) and 5 in numbers(fns[9]))
+choosing = lambda f: sum(isinstance(n, (ast.If, ast.Compare, ast.IfExp)) for n in ast.walk(f))
+line(31, "the 9 has no is-or-is-not in its lines, no comparing and no choosing: a giving carried to the me a coupling names, between two; a me's own moment has them",
+     choosing(fns[9]) == 0 and choosing(fns[1]) > 0)
+# ---------------- a place in resolving: a me, and an other ----------------
+gives_two = next(st for st in fns[1].body if isinstance(st, ast.Return)).value
+line(32, "a me's moment is given two, its prior, a me, and what it observes, an other, the living code's 3 and 2; and it gives two, its giving, to an other, and its next prior, a me, the code's 10 and 11",
+     [number(a.arg) for a in fns[1].args.args] == [3, 2] and its.a_cell.__code__.co_argcount == 2 and sorted(numbers(gives_two)) == [10, 11])
+line(33, "what a me observes is the same to it in all orders and with all repeats, with all priors",
+     all(a_me(p, list(q)) == a_me(p, o) for p in THREE for o in observings for q in set(permutations(o))) and all(a_me(p, o + o) == a_me(p, o) for p in THREE for o in observings))
+sys.path.insert(0, str(Path(sys.argv[1]).resolve().parent))
+import resolver_as_it_is as as_it_is
+def moments(couplings, priors, how_many):
+    society = {k: ([("one", priors[k])], []) for k in priors}; out = []
+    for _ in range(how_many):
+        out.append({k: (dict(society[k][0]).get("one", 0), sorted(v for _, v in society[k][1])) for k in society}); society = its.step_with_nand(society, couplings)
+    return out
+def renamed_alike(n, new):
+    couplings, priors = as_it_is.spiral_couplings(n), as_it_is.exhibit_spiral_priors(n)
+    return moments({(new[a], by): new[b] for (a, by), b in couplings.items()}, {new[a]: v for a, v in priors.items()}, 4 * n + 2) == [{new[a]: v for a, v in m.items()} for m in moments(couplings, priors, 4 * n + 2)]
+line(34, "mes renamed, their couplings renamed with them, have the same moments renamed, with spirals of 2 to 7 mes: a place of a me in resolving is its couplings, a me and its others",
+     all(renamed_alike(n, new) for n in range(2, 8) for new in ({a: n - 1 - a for a in range(n)}, {a: ("at", a * a) for a in range(n)})))
+def mine_alike(more_couplings, more_priors, n=5):
+    couplings, priors = dict(as_it_is.spiral_couplings(n)), dict(as_it_is.exhibit_spiral_priors(n)); alone = moments(couplings, priors, 4 * n + 2)
+    couplings.update(more_couplings); priors.update(more_priors)
+    return all({a: m[a] for a in range(n)} == mine for m, mine in zip(moments(couplings, priors, 4 * n + 2), alone))
+line(35, "a me that is neither mine nor an other of mine has all moments of mine the same as with none of it, non-existing in my resolving; and a me whose giving a me of mine observes, an other, has them other",
+     mine_alike({("x", 9): "y", ("y", 9): "x"}, {"x": -1, "y": 1}) and mine_alike({(0, 10): "z"}, {"z": 1}) and not mine_alike({("w", 9): 0}, {"w": 1}))
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
