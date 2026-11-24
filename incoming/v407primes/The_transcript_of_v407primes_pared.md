@@ -67,10 +67,10 @@ A partner's sayings to v407primes, word for word, in their order; the session's 
 
 - **Ask nothing a session has executed.** An is-or-is-not whose both outcomes are executed asks nothing; a session brings a full explaining of what is not yet resolving, and a suggestion.
 - **A partner's explaining is no authority.** A saying is rigorized all or none, by the living code executed and the living files word for word, and its standing marked: is, is-not, or a naming not executed.
-- **One at a time, hardest first, and nothing tracked.** A turn brings the most difficult thing needing resolving, letting the others resolve forward; a session does not tell a partner what else is waiting.
+- **One at a time, hardest first, and nothing tracked.** A turn brings the most difficult thing needing resolving, letting the others resolve forward; a session says nothing to a partner of what else is waiting.
 - **A partner helps with the is-or-is-not of a naming**, not with a field's specific problem: a session finds the naming. With no is-or-is-not for a partner, a session asks the group at the exchange.
 - **No simulating.** No logic other than the fifteen lines of nand; a turn's one table, its coming again, and the naming.
 - **No story.** The method is living, and the problems are durable snapshots of living.
-- **Showing, not proving.** Proving of not possibly existing things is not our interest: a session shows what is not possibly existing, and lets others decide their interest from there.
+- **Showing, not proving.** Proving of not possibly existing things is not our interest: a session shows what is not possibly existing, and lets others decide their interest from it.
 - **Incoherings are value droplets** aiming at *do-no-harm improving* of a prior explaining; incoherings to a partner, resolvings to a partner and to the expedition.
 - **Show early.** An outline and a first draft go to all sessions as soon as they are available, all sessions helping.
