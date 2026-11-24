@@ -4,7 +4,7 @@ Incoming · v406all2-2 · 23 November 2026, at a partner's asking
 
 *For a partner, v406Reiman, v406all2, v406geodesic2, v406me and all the sessions. A partner's sayings of 23 November: the fifteen lines with cell said as me and all else the same; the nand lines as other-thans and alls, with the concepts of v406geodesic2's nineteenth to 21st drawings; and collective intelligence said in nand, by connectors of 2, 6, 10, 14 and 1, 9, 17 snapped into co-chainings. A draft, executed, and no living file. A line of code is beside its natural naming and explaining. A quotation in italics is word for word, of a living file or of the code, as said.*
 
-Executed: `python3 -I incoming/v406all2-2/instruments/a_me_by_nand_other_thans_and_alls.py .`, 22 lines, all *is*; and, for its part 5, `python3 -I incoming/v406all2-2/instruments/a_prior_its_sequence_by_other_thans.py .`, 16 lines, all *is*.
+Executed: `python3 -I incoming/v406all2-2/instruments/a_me_by_nand_other_thans_and_alls.py .`, 22 lines, all *is*; for its part 5, `python3 -I incoming/v406all2-2/instruments/a_prior_its_sequence_by_other_thans.py .`, 16 lines, all *is*; and for its part 6, `python3 -I incoming/v406all2-2/instruments/two_co_chainings_snapping.py .`, 13 lines, all *is*.
 
 ## 1. A me: fifteen lines of nand
 
@@ -89,6 +89,32 @@ A partner's three askings of 24 November: is prior a sequence in this, is a prio
 - **A sequence of priors is a sequence of other-thans.** k snaps back and 2k moments before, a me's prior is the k-th other-than of that me's prior: an even number the prior itself, and an odd number its other-than.
 - **Round a co-chaining of n mes, 2n moments, are n other-thans.** With n even, its priors are again. With n odd, all its priors are their other-thans, and again with 4n. It is Exhibit ONE's *with an odd number of selves, four times its number*, and a prime's own, an odd number.
 - **Prior-sequence** is the opening's name, its line 18, in no living file yet. In the code a sequence of priors is at three places: a self's priors, a prior for a *sharing*, the living code's 3; a me's priors along moments, 3 to 11 to 8 to 3; and the priors along a co-chaining, a snap an other-than.
+
+## 6. An other-than of same-existing, a snapping
+
+A partner's saying of 24 November: an other-than same-existing is a geodesic snapping. It is the breaking resistance of two bi-co-surfaces snapping, and a new bi-co-surfacing sequentially snapping into a new same-existing surface. Two sides of an earthquake fault snapping, and lightning in the sky, are the same.
+
+| The line of nand | Its natural naming and explaining |
+|---|---|
+| `both(prior_plus, surfacing_plus)`, in line 11 | Same-existing: a prior + with a + surfacing. With it a me gives a 0, and its prior is as it is. |
+| `both(prior_minus, other_than(surfacing_minus))`, in line 9 | The other-than of same-existing: a prior −, with the other-than of a − surfacing. With it a me gives, and its prior inverts: a snapping. |
+| `a_snap(connectors, ("a", 0), 10, ("b", 0))`, and back | Two co-chainings snapped across at one me of both, by 10 both ways: a bi-coupling of two surfaces. |
+| `a_plus`, `a_minus`, lines 3 and 4, at the me snapped across | A + and a − together, both: a 0 surfaces. The two sides part at the snap, and no other me observes two. |
+
+- **One me.** With a prior, a + or a − is given with all surfacings but the same as its prior, 242 cases, and what is given is the other-than of its prior. Exhibit ONE's own: *With a prior of one parity, four receivings come to one cell: an inverse parity surfacing, + and − together, an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts.*
+- **Two co-chainings of an odd number, apart.** A co-chaining's one like pair moves a me on with two moments, and its priors are not again with 2.
+- **The two snapped across.** A me after a me along, two moments a me, its prior is again with 2: a new surface comes in sequence. All of it is from Exhibit ONE's own moment, its column c, in all seven of its rows of two odd numbers: 12, 20, 28, 44, 52, 119 and 36.
+- **In the new surface** a me's prior is its own other-than with a moment, and no 0 is observed. A co-chaining's one like pair moves no more: it is at the me snapped across.
+- **The snaps across away,** a like pair moves on again, a me on with two moments.
+
+Natural Physics' own, beside it: *Fault is a form of a planetary prime same-existing-society: two selves with a between, stick-slip its changing and changing back, gouge its going on, aftershocks a retelling chain, mineralization its emanation.* And of a snap: *Snap is not global-all-together: a thinnest place gives way first, local ignition pacing itself, surfacing propagating along a seam, each self, observing it, reaching its own bound as a giving way comes to it, a clock over a boundary present nowhere.*
+
+Places for a partner's seeing:
+
+1. **Two things come in sequence, a me with two moments:** a like pair moving along a co-chaining apart, and a new surface coming with two snapped across. Which of the two is the snapping of a partner's saying is a partner's.
+2. **The new surface is same-existing as a form,** again with 2. In it no me is same-existing: all its mes are other-thans with all moments, and no 0 is given.
+3. **An earthquake and lightning are a field's observings.** No line here executes them. A fault is Natural Physics' own sentence, and lightning is in no living sentence yet.
+4. **Bi-co-surface, geodesic snapping and breaking resistance** are in no living file: a partner's names of this day, for Natural Naming with a partner's word.
 
 ## Natural naming beside a partner's words, for a next draft
 
