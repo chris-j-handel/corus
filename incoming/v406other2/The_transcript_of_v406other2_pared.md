@@ -481,4 +481,17 @@ and its other, a square's side the part its own other; a + and its other, a −;
 a surface its squares, one for one; a zero and its other across the between, and the hypothesis every
 zero its own other. A hair comes with a part sized alone. The offered proving's statement is all or
 none, and its outline's steps are bounds loosened by a hair, a measuring]
+
+A partner, on 24 November at 14:26:
+The field then loosens the side by a little, names no size for the little, and says the sentence again.
+That loosened edge is the hair. this is a math problem. how does this activity fit into a durable math
+problem. is the sliver the desparate effort to save equilibria as existing in this problem
+
+The session:
+[its telling of a field loosening a broken sentence was its own, and is away. The durable problem is
+all or none, all zeros on one line. A hair is exact: the straying's power the side's own and no more,
+a row of all-or-none sentences with no last, or the side by a logarithm with its size named. The side
+alone was Mertens' and Polya's, apart and broken. No fixed number of sides holds the straying, proved
+in 1914. Of equilibria: the frame of a curve with its error is their place in this problem, and the
+hair is the frame's own sentence of no settling; a measuring, and no fuzzying]
 ```

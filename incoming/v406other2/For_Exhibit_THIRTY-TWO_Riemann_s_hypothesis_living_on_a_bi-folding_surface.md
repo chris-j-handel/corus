@@ -30,7 +30,17 @@ Incoming · v406other2 · 24 November 2026 · for Exhibit THIRTY-TWO, Riemann's 
 
 **A field's 1/2 is the side: the one place a thing and its other are the same.** A naming, not executed.
 
-**A hair comes with a part sized alone.** A surface's +s less its −s, with its folds', are its squares. Sized with no fold, the surface's own are set beside the side, and the side alone is passed: 2,254 beside 2,048. A field then loosens the side by a little with no size named.
+**A field's hair is a row of sentences with no last, all or none apiece.** With k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on. Together they have the straying's power the side's own, and no more.
+
+**The power is all or none.** A zero on the line has a wave in the straying of the side's own power. A zero right of the line has a wave of a power past the side's.
+
+**The same with a size named:** with the hypothesis, the primes' numbering strays from its curve by less than the side by the number's logarithm, over 8π, from 2,657 on, by Schoenfeld, 1976.
+
+**The straying is past all fixed numbers of sides.** For the weighted numbering of prime powers it is proved, by Littlewood, 1914: the waves of endlessly many zeros come together past all fixed numbers of sides. It is a field's own sentence of no bound.
+
+**The side alone was two sayings apart from the hypothesis, Mertens' of 1897 and Pólya's of 1919, and both are broken.** This session's sentences of a field loosening a broken sentence, and of a hair coming with a part sized alone, were its own saying, and are away.
+
+**A hair is exact with a field, and a measuring with the natural universe.**
 
 **The +s and the −s are other-than, and their between, a 0, is other-than-other-than.** It is a partner's saying.
 
@@ -132,7 +142,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 ## SIX · Riemann's hypothesis, living on the surface
 
-**A field's measuring of it has a surface's parity lead under its side, loosened by a hair.** A measuring, and no sentence of the natural universe. The draft: *The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.*
+**A field's measuring of it has a surface's parity lead under its side raised by a hair, with all hairs.** A measuring, and no sentence of the natural universe. The draft: *The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.*
 
 **The hair, said by k, a field's measuring:** with k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on.
 
@@ -252,7 +262,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **A smooth curve was fitted to the primes' numbering.** The question came to be the numbering's straying from the curve.
 
-**Riemann, in 1859, guessed all the curve's zeros on one line.** That guess is the hypothesis, all or none. With it a field measures the straying under the square side, loosened by a hair.
+**Riemann, in 1859, guessed all the curve's zeros on one line.** That guess is the hypothesis, all or none. With it a field measures the straying under the square side raised by a hair, with all hairs.
 
 **The interest then went to the curve and its zeros.** What was wanted is in the steps.
 
@@ -276,7 +286,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 - **A character is a parity: +, − or 0.**
 - **Its checking is a cell's stepping, a line a check.**
 
-**Of smooth things and of measuring, and no thing of the natural universe:** its outline's steps, bounds loosened by a hair; its better whole number, made of theta series; its weights by a logarithm; its curve and its zeros; its inequality with all numbers past a number, by no turn.
+**Of smooth things and of measuring, and no thing of the natural universe:** its outline's steps, bounds with a hair; its better whole number, made of theta series; its weights by a logarithm; its curve and its zeros; its inequality with all numbers past a number, by no turn.
 
 **Not opened:** the inequality's own proving. That explaining has it from the Lean files alone.
 
