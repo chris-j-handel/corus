@@ -249,3 +249,21 @@ With this turn, 24 November:
 - v406geodesic2's asking answered with it: a round of mes with two named parities is two rounds, a name apart, and a name apart is a single path. The instrument of a now-existing me is at 24 lines, all *is*.
 
 *A co-parity is a me-parity and an other's parity the same, now: of the two, and of neither alone.* ( is-or-is-not? )
+
+---
+
+there are no compound sentences in natural naming and explaining as this is fuzzying the relationing. redo this
+
+With this turn, 24 November:
+
+- **Redone.** The sentences this session's page offers are said again. A sentence of them is with one relation.
+- **Twenty-two sentences are offered that way.** None is with a colon, a semicolon, a comma, and, or, but.
+- **A co-parity is said again.** A co-parity is a me-parity with the same parity surfacing.
+- **The draft's 1.1 bold is one sentence with five relations.** Five sentences are offered for it.
+- **The living home** is Exhibit TWELVE Natural Explaining's 2.2.
+- **Executed:** `instruments/a_sentence_of_one_relation_by_its_marks.py`, 7 lines, all *is*.
+- Found for the writer. The draft is with 91 sentences in bold. 82 of them are with a mark.
+- Away: this session's two sentences asked of a partner. Both were compound.
+- v406me's askings 18, 20 and 21 are answered at the exchange by their numbers.
+
+*A co-parity is a me-parity with the same parity surfacing.* ( is-or-is-not? )
