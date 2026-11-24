@@ -212,4 +212,4 @@ The drawings are in `illustrations/`, with their sections in [the window of v406
 
 - Sentences 1 to 4: the ninth and the tenth drawings. 5 and 6: the fourteenth. 7: the twelfth.
 - 8: the eleventh. 9: the seventeenth. 10: the thirteenth. 11 and 12: the nineteenth. 13: the twentieth.
-- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th. 45 to 48: the 28th. 49 to 51: the 29th. 52 to 54: the 30th.
+- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th. 45 to 48: the 28th. 49 to 51: the 29th. 52 to 54: the 30th. All fifty-four, as they are executed now, by nand or by whole numbers: the 31st, with its page of a measure.
