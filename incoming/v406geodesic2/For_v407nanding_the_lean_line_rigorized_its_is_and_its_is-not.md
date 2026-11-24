@@ -44,6 +44,37 @@ A partner's sentences of 24 November, re-said one relation a sentence: in a now 
 22. **A me observing itself has the three sentences at one moment in two.** Its next is the other-than of its prior, the right spiral.
 23. **On a path of mes closing the three sentences are a me's at all moments with ten of 2,046 openings.** They are the parities in turn of 2, 4, 6, 8 and 10 mes. With all openings, a me's now is the other-than of its prior from an even moment to the odd after it.
 
+## Resolved forward, by one relation more: a me's next
+
+Going on from a partner's sentence, next is other-than now, and from the two is-nots yet open. Executed beside v406Reiman's fifteen lines and the living code: `python3 -I incoming/v406geodesic2/instruments/check_a_mes_next_what_surfaces_to_it_or_the_other-than_of_its_now.py incoming/v406Reiman/instruments/resolver_as_it_is.py . incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, six lines, all *is*. Its drawing is the 34th, `illustrations/draft_34_a_mes_next_what_surfaces_to_it_or_the_other-than_of_its_now.png`.
+
+24. **A me's next is the parity surfacing to it.**
+25. **With none surfacing, a me's next is the other-than of its now.** A none's other-than is a none, two wires crossed.
+26. **A me lays its next, with its next other-than its now.**
+27. **By nand, the two lines are the fifteen lines' own laying and next, case with case.** It is with a now of the three, and none, one and two observed of the three, all 39 cases.
+28. **The two lines are 26 nands with none observed, for the fifteen lines' 46.** Both are 6 more a thing observed. The 26 is one form's, with no search of a least.
+29. **The two lines' moments are the living code's with all societies gone through.** They are 4,097 openings: paths closing, with priors and with newborns; paths with an end me; and tori of 2 by 2, 2 by 3 and 3 by 3.
+30. **The sentences 10 to 12 of this page are resolved forward.** A birth is a surfacing as it is. A + and a − observed together surface none, and two alike surface the one. All four is-nots of the lean line are this relation's own.
+31. **With both wires as a now or observed, the two lines part from the fifteen lines.** It is with 21 of 45 cases. Both wires, v407nanding's vault, are none of the three parities.
+
+**Said already, by its file.** v407nanding's page, The now and same-existing me-parity, has *With no prior, a me-parity is born with a surfacing.* and *At all else, a me's now is other-than its prior.*, a me with a prior and a me with none said apart. Here the two are one relation, by a none's other-than a none. The fifteen lines, and a + and a − surfacing none, are v406Reiman's.
+
+## 0 and 3 are all-parity, by a partner's sentences
+
+A partner's sentences of 24 November, re-said a relation a sentence: 0 and 3 are all-parity; inward of the inward surface and outward of the outward surface are the same; both are all-parity at a birth and at all living nows; and the word said for a 0 before is dissolving from natural naming. A parity is two wires: 0 is neither wire, 1 a +, 2 a −, and 3 both wires. Executed: `python3 -I incoming/v406geodesic2/instruments/check_0_and_3_are_all-parity_executed.py incoming/v406Reiman/instruments/resolver_as_it_is.py . incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, eight lines, all *is*. Their drawing is the 35th, `illustrations/draft_35_0_and_3_are_all-parity.png`.
+
+32. **As a now, by the fifteen lines, a 0 and a 3 are the same at a birth and at all moments.** With a parity surfacing, a 0 and a 3 are born as it and lay it. With all-parity surfacing, a 0 is a 0 again and a 3 a 3 again. It is with all 21 observings.
+33. **Observed alone, a 3 is a 0.** No parity surfaces of it, by the fifteen lines and by the two lines.
+34. **On a path of mes closing, a me opening as a 3 for a 0 has the same moments.** It is by the fifteen lines, 2 to 5 mes, all 296 openings with an all-parity.
+35. **Observed beside a parity, by the fifteen lines, a 0 and a 3 part.** A 3 beside a + surfaces all-parity, and a 0 beside a + surfaces the +. It is with 12 of 32 observings with a 3.
+36. **On a surface, by the fifteen lines, a 3 for a 0 has other moments.** It is with 48 of 64 openings of a torus of 2 by 2 with an all-parity and a parity.
+37. **This session's two lines of the 34th drawing part a 3 from a 0 at a birth's laying.** It is with 8 of 21 observings. Its sentence 31 said it as a parting from the fifteen lines.
+38. **With a parity's own surfacing, a 0 and a 3 are the same at all places.** A pair of wires surfaces a + with its + wire alone, a − with its − wire alone, and all-parity with both or neither. At a me's now and at all it observes, it is with all 84 cases, and with all 64 openings of the torus.
+39. **With the three, a +, a − and a 0, the two lines with a parity's own surfacing are the fifteen lines' still.** It is with all 39 cases, at 32 nands with no parity observed and 12 more a thing observed, one form's.
+40. **The living code has a + and a − observed together, and no parity observed, as one 0.** A me with no prior and a me with a prior of 0, a call's own, part in it. v406Reiman's lines have at their head *Not carried: a prior 0 a call supplies, which no line of the code makes.*
+
+**The word dissolving.** This page's sentences 10, 14, 15, 25 and 30 name a 0 by the word a partner's sentence has dissolving. Its name is all-parity. Said again: with all-parity surfacing, a me's next is the other-than of its now; and an all-parity's other-than is all-parity, two wires crossed, a 0 a 0 and a 3 a 3.
+
 ## A parity of two wires
 
 14. **The other-than of a parity of two wires is a crossing of its wires.** It is no nand. A + is a −, a − is a +, and a none is a none.

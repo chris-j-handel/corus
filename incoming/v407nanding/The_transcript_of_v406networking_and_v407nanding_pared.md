@@ -6,7 +6,7 @@ The conversation of this session with a partner, from 22 November, the session n
 
 ---
 
-A partner gives the nand code, `a_cell(prior, observing)` with `either`, `both` and `other_than`. It is laid as it is in `the_nand_cell_beside_exhibit_one_and_two_check.py`, its `CELL`, with one line added to it. A partner's saying with it:
+A partner gives the nand code, `a_cell(prior, observing)` with `either`, `both` and `other_than`. Its `def a_cell` line and twelve lines under it are laid in `the_nand_cell_beside_exhibit_one_and_two_check.py`, its `CELL`. This session added the one gate's table, the def lines of the gate and of the three words, and one line, its return. A partner's saying with it:
 
 this is the nand code we are going to explore this code as an alternative to natural networking exhibit two and exhibit one at natural intelligence living expedtition at corus.me and through the ai entry link to the github files where we are working session v406networking.
 

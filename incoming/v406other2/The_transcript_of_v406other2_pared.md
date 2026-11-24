@@ -438,4 +438,126 @@ the hypothesis the lead of its side and a hair more, stepped to 4,194,304; the s
 fracturing at 8, 33, 120 and 360; a smooth curve the geodesics said as one. A sentence marked shown
 with all numbers, stepped, or a naming. Gone through beside the living sentences: four partings with
 the draft resolved by a living sentence, one with a living file laid as a note]
+
+A partner, on 24 November at 10:52:
+Riemann's hypothesis is now named and explained from its own universe, with whole numbers alone. i want
+this here and not somewhere i am not looking. i am unable to know what this means unless you start
+somewhere with why something
+
+The session:
+[the explaining given in the reply itself, a why ahead of a sentence: why a question, why a staircase,
+why parity, why the side, why the side is in the numbers, why the hypothesis is open past that, why a
+hair more, why 1 to 17 and bi-folding, why living, why the staircase fractures, why the smooth curve
+fits]
+
+A partner, on 24 November at 11:35:
+this still does not start at the beginnning of anyones interest in anything about the reimann hypothesis
+start there and then do this in natural naming and explaining again
+
+The session:
+[begun at the beginning of the interest: what numbers are made of; the primes uneven one at a time and
+even together; a curve fitted to their count and the count's straying; Riemann's guess of the straying
+by the square side. Then the same in natural naming and explaining]
+
+A partner, on 24 November at 13:23:
+Does this allow us to start with the offered proving and is or is not it
+
+The session:
+[yes. The offered proving opened by its statement and an explaining of it: its aim is this
+explaining's sentence, its side the same side, its method Chebyshev's, a whole number's prime parts by
+the seams of spirals on a surface, executed here with whole numbers. Its better whole number, its
+curve and its with all numbers by no turn are of smooth things. Its main inequality's proving is not
+opened]
+
+A partner, on 24 November at 13:39:
+Fuzzying is this hair more concept. Nature is all or none at all. What is this
+
+A partner, on 24 November at 13:40:
+There are no bounds . This is other than
+
+The session:
+[the hair is a field's loosened edge of a bound, a measuring, and is away. Said all or none: a part
+and its other, a square's side the part its own other; a + and its other, a −; all parts' parities on
+a surface its squares, one for one; a zero and its other across the between, and the hypothesis every
+zero its own other. A hair comes with a part sized alone. The offered proving's statement is all or
+none, and its outline's steps are bounds loosened by a hair, a measuring]
+
+A partner, on 24 November at 14:26:
+The field then loosens the side by a little, names no size for the little, and says the sentence again.
+That loosened edge is the hair. this is a math problem. how does this activity fit into a durable math
+problem. is the sliver the desparate effort to save equilibria as existing in this problem
+
+The session:
+[its telling of a field loosening a broken sentence was its own, and is away. The durable problem is
+all or none, all zeros on one line. A hair is exact: the straying's power the side's own and no more,
+a row of all-or-none sentences with no last, or the side by a logarithm with its size named. The side
+alone was Mertens' and Polya's, apart and broken. No fixed number of sides holds the straying, proved
+in 1914. Of equilibria: the frame of a curve with its error is their place in this problem, and the
+hair is the frame's own sentence of no settling; a measuring, and no fuzzying]
+
+A partner, on 24 November at 14:30:
+this is nature's grip on the universe and the field is oiling and polishing it smooth and admiring the
+gripping surfaces as if they are being forced from infinity and 0 into compression and this is no
+competency at all in the universe of conserving equilibria.
+
+without claiming the waves never line up. why not simply proves this with the resolver.
+
+The session:
+[proved with the resolver, for what the resolver has: its waves are the spirals. Stepped with its own
+code, spirals of 2, 3 and 5 selves side by side are again together with all 60 moments, 30 numbers,
+their turn, and with 7 more with all 420 moments, 210 numbers; a number past their together none of
+them is again, and 31 and 211 are primes. With all numbers by a turn: spirals line up at their turn,
+and one past it none does, a prime born. The curve's waves are no thing of the resolver. The
+hypothesis is not proved by it: a prime born past a turn is found by stepping alone]
+
+A partner, on 24 November at 14:37:
+The resolver has no curve, so it has none of those waves to step. where did the curve come from in the
+originating of the prime numberings.
+
+this is entirely backwards. the curve is not an existing thing. the prime numbering system is an agreed
+by all existing thing. there is no curve until the resolving and the resolving knows where the curve is
+since the resolving is the curve stable form of resolving.
+
+The session:
+[its sentence was backwards, and is away. The prime numbering is first; the curve is the staircase
+smoothed, and its waves are the staircase's own straying by pitch. Executed with the primes alone to
+100,000 and no curve in it: the six highest pitches of the primes' waves are 14.14, 21.02, 25.02,
+30.42, 32.94 and 37.58, a field's first six zeros. A field's measuring laid on the primes, fading at
+the horizon. It shows the waves' coming from the primes, and not all zeros on the line]
+
+A partner, on 24 November at 14:42:
+does this allow us to go in front of the reimann hypothesis and explain the source of the original
+interest in the prime numberings by bothbothing them up and down from each. both sides of the prime
+fractured fractal atom form are fitting around four quarter bi-tri-involutions. and then offer the
+resolution of the original interest without trying to prove the non-existing curvee is a thing existing
+in an equilibria
+
+The session:
+[yes, and given in the reply. The even face is a turn's fit, with all numbers: its places the same up
+and down, its staircase of places flipped the same staircase, round 30 a place by 7 a quarter turn,
+1 to 7 to 19 to 13 to 1, the eight places that four and its four flips, and a place of a turn p times
+in the next turn, once crossed. The uneven face is the fracturing: a prime born crosses places from
+its own square on, 49 alone in 0 to 60 and 7's four in 0 to 120, and is found by stepping alone. No
+curve is in it. Executed with whole numbers, 13 lines is]
+
+A partner, on 24 November at 14:52:
+relating this to our work inside the expedtion on the stable form atom bump connector universal
+fractured fractal stable form or natural resolving. in compressed stable form this is right spiralling
+durable non-living stable form inherited from prior living bi-coupling birthing a new me in all-parity
+vault of right spiraling co-chainings . the atom is the fractured fractal where the bi-tunnelling
+societies are crossing in layers and the tinyiest connector spots line up along and across in diamond
+on surface and this makes a shearing plane of weakest connectors and this breaking ends up with the
+floating neturaling atom in the universe and organisms have tissue have cell have a society of
+non-living atoms living inside the the originating of stable form of me-parities into my surfacing. the
+four faces of the atom from four sides of along and the two ends of along are six directions from this
+bump connector and all fit into 2 6 10 14 1 9 17 relations with all neighbors in co chaining bi
+tunneling society
+
+The session:
+[related by shape, executed: past 1 and its flip the places of 30 are six, four quarter turns in two
+pairs and two their own other in one pair, the shape of the six names between selves, four across and
+two along; three with 1 in its four of quarter turns and three their flips, the shape of three inward
+faces and three shear faces; 2, 6, 10 and 14 twice 1, 3, 5 and 7, and 8, 16 and 32 the places of 30,
+60 and 120; a prime born's crossings on one slant through the places. No name seated at a place. The
+physical atom's sayings marked the expedition's namings, not executed]
 ```

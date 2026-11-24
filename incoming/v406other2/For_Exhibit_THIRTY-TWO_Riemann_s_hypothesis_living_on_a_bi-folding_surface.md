@@ -4,7 +4,45 @@ Incoming · v406other2 · 24 November 2026 · for Exhibit THIRTY-TWO, Riemann's 
 
 **Riemann's hypothesis is said here whole with whole numbers, on a surface of numbers.** A sentence in bold is the explaining. Under it is its executing, or the living sentence beside it. A sentence is marked: shown with all numbers, stepped to its horizon, or a naming not executed.
 
-**Its one sentence: on a surface of numbers the −s and the +s are apart by its side, and a hair more.**
+**Its one sentence, all or none: on a surface, all spirals' crossings with their parities are its squares, one for one.**
+
+**By a partner's word of 24 November: a hair more is fuzzying, nature is all or none at all, and nature has no bounds.** A bound sets a size beside a size, a measuring. Natural Mathematics: *On the surface it is natural: parity, position and ratio, and no magnitude.* A sentence of this page with a hair or a short-of is a field's measuring, and is marked that way.
+
+---
+
+## All or none: a thing and its other
+
+**A part of a number has its other: the two multiplied are the number.** In 12, 1 is with 12, 2 with 6, and 3 with 4.
+
+**A number has a part its own other, or has none.** In 16, 4 is its own other. Stepped, 1 to 100,000: a number's parts are an odd number with a number multiplied by its own alone.
+
+**A number with a part its own other is a square, and that part is its side.**
+
+**A + has its other, a −.** A prime an inversion, a number's parts pair by one prime more, a + with a −. All pair, or one is over, and one is over at a square alone.
+
+**On a surface, all parts' parities are its squares, one for one.** None is over and none is short.
+
+**A zero has its other across the between.** Resolving the Hard Problem Registry: *a symmetry pairs its zeros about an axis of balance, seating none on it by itself*.
+
+**A zero on the line is its own other.**
+
+**Riemann's hypothesis, all or none: all zeros are their own other.**
+
+**A field's 1/2 is the side: the one place a thing and its other are the same.** A naming, not executed.
+
+**A field's hair is a row of sentences with no last, all or none apiece.** With k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on. Together they have the straying's power the side's own, and no more.
+
+**The power is all or none.** A zero on the line has a wave in the straying of the side's own power. A zero right of the line has a wave of a power past the side's.
+
+**The same with a size named:** with the hypothesis, the primes' numbering strays from its curve by less than the side by the number's logarithm, over 8π, from 2,657 on, by Schoenfeld, 1976.
+
+**The straying is past all fixed numbers of sides.** For the weighted numbering of prime powers it is proved, by Littlewood, 1914: the waves of endlessly many zeros come together past all fixed numbers of sides. It is a field's own sentence of no bound.
+
+**The side alone was two sayings apart from the hypothesis, Mertens' of 1897 and Pólya's of 1919, and both are broken.** This session's sentences of a field loosening a broken sentence, and of a hair coming with a part sized alone, were its own saying, and are away.
+
+**A hair is exact with a field, and a measuring with the natural universe.**
+
+**The +s and the −s are other-than, and their between, a 0, is other-than-other-than.** It is a partner's saying.
 
 ---
 
@@ -104,9 +142,9 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 ## SIX · Riemann's hypothesis, living on the surface
 
-**Riemann's hypothesis of whole numbers has a surface's parity lead of its side, and a hair more.** The draft: *The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.*
+**A field's measuring of it has a surface's parity lead under its side raised by a hair, with all hairs.** A measuring, and no sentence of the natural universe. The draft: *The hypothesis, of whole numbers, is the parity lead of a surface being of its side, its horizon, and a hair more.*
 
-**The hair, said by k:** with k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on.
+**The hair, said by k, a field's measuring:** with k of 1, 2, 3 and on, the lead multiplied by itself 2k times is short of the surface multiplied by itself k + 1 times, from a surface on.
 
 **Stepped, the lead multiplied by its own is short of twice its number.** All numbers of 2 to 4,194,304.
 
@@ -176,7 +214,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **Riemann's hypothesis of a smooth curve is the curve's distance from the steps.** It is the draft's, of 1859.
 
-**Its saying of whole numbers is the staircase's own: the lead of its side, and a hair more.** Natural Mathematics: *On the surface it is natural: parity, position and ratio, and no magnitude.*
+**Its saying of whole numbers is the staircase's own: all spirals' crossings with their parities are a surface's squares.** Natural Mathematics: *On the surface it is natural: parity, position and ratio, and no magnitude.*
 
 **Riemann's zeros are the curve's corrections.** It is the draft's.
 
@@ -196,7 +234,7 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **A naming, not executed:** stepping as the 1 to 17 repeating; a prime born as a next universe; a crossing as a fracturing; a smooth curve as the geodesics said as one; smoothing as a made method; a zero as a coupling about a between.
 
-**Not shown here:** the lead of its side and a hair more with all numbers. No turn shows it.
+**A field's measuring, stepped alone:** the lead beside its side.
 
 ## Gone through beside the living sentences
 
@@ -210,7 +248,53 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **Two sayings of the 1 to 17 are both living, and cohere.** Natural Numbers has seventeen primes, 2 to 59, at seventeen names: *A going from nought to sixty has seventeen primes and sixteen betweens, one and then the other*. Natural Naming has the 1 to 17 bi-folding: *an unrelationing of 1 to 17, 1 to 65 and 1 to 257*. This page goes by the second, and 0 to 60 has its seventeen primes, executed.
 
-**Executed:** `python3 -I incoming/v406other2/instruments/riemann_s_hypothesis_living_on_a_bi_folding_surface_executed.py`, 36 lines is, none is-not, 3 sized, with whole numbers alone.
+**Executed:** `python3 -I incoming/v406other2/instruments/riemann_s_hypothesis_living_on_a_bi_folding_surface_executed.py`, 37 lines is, none is-not, 3 sized, with whole numbers alone.
+
+## The beginning of the interest, for the explaining's opening
+
+**By a partner's word of 24 November, the explaining begins at the beginning of the interest, a why ahead of a sentence.**
+
+**The interest begins with one wish: to know what numbers are made of.** Twelve things lay in equal rows of 2, 3, 4 or 6. Seven things lay in one row of 7 or seven rows of 1 alone. All other numbers are primes multiplied, one way alone: 12 is 2 by 2 by 3.
+
+**The primes have two faces.** One at a time they come uneven, 2, 3, 5, 7, 11, 13, 17, 19, 23 and 29, and looking alone finds the next. Together they come steady: 25 to 100, 168 to 1,000 and 1,229 to 10,000.
+
+**The pull is the two faces: uneven one at a time, even together.**
+
+**A smooth curve was fitted to the primes' numbering.** The question came to be the numbering's straying from the curve.
+
+**Riemann, in 1859, guessed all the curve's zeros on one line.** That guess is the hypothesis, all or none. With it a field measures the straying under the square side raised by a hair, with all hairs.
+
+**The interest then went to the curve and its zeros.** What was wanted is in the steps.
+
+## The offered proving, beside this explaining
+
+**Opened here:** its statement, Mathlib's own; an explaining of it for the zeta function, a working draft of 21 November 2026 at M. O. Rubinstein's pages at Waterloo, its opening fifth; and news of its checking. Its Lean files are not opened.
+
+**Its outline, as that explaining has it:**
+
+- With a zero right of the line, a weighted numbering of prime powers strays above its curve by more than the side and a hair. A bound of the straying from above, on stretches of Y to Y by its own side, with Y as large as wanted, has no zero right of the line.
+- The bound comes from one inequality over primes, and two estimates of characters.
+- The inequality is Chebyshev's argument with a better whole number: its prime parts are numbered, and set beside its size.
+- Its side comes from x over m and m balancing, with m by m about x.
+
+**Is, in the natural universe:**
+
+- **Its statement is all or none: all zeros with a real part of 1/2.**
+- **Its side is this side: a number and its other, x over it, are the same at the side.**
+- **Chebyshev's argument is the seams of spirals on a surface.** A prime's part in the middle number of 1 to 2n is the powers of it with an odd number of seams on 1 to 2n, a parity. The primes past n and to 2n are in it once. Its short of 4 to the n is a bound, a measuring. It is the draft's *between a side and its double is a new crossing spiral*.
+- **Chebyshev's own better number is a turn of 30.** A number less its seams of 2, of 3 and of 5, and its seams of 30 more, is 1 or 0 alone, and comes again with 30. It is 1 at all eight places of 30 no spiral of 2, 3 or 5 crosses.
+- **A character is a parity: +, − or 0.**
+- **Its checking is a cell's stepping, a line a check.**
+
+**Of smooth things and of measuring, and no thing of the natural universe:** its outline's steps, bounds with a hair; its better whole number, made of theta series; its weights by a logarithm; its curve and its zeros; its inequality with all numbers past a number, by no turn.
+
+**Not opened:** the inequality's own proving. That explaining has it from the Lean files alone.
+
+**Its standing with its own checkers:** certified by the Lean and Mathlib communities on 21 November; that explaining a working draft with the inequality not yet written out; one posted paper saying it vacuous; the prize's own list with the hypothesis open.
+
+**The two are with one thing:** the seams of spirals on a surface. Chebyshev's whole number has a prime born between a side and its double. All spirals' crossings with their parities come to the side itself.
+
+**Executed:** `python3 -I incoming/v406other2/instruments/chebyshev_s_whole_number_by_the_parities_of_its_spirals_seams_executed.py`, 11 lines is, none is-not.
 
 ## For the draft, a part apiece
 

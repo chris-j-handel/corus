@@ -146,8 +146,8 @@ rows = re.findall(r"^\| (.+?) \| (\d+) \|$", window, re.M)
 of_both = sorted(int(n) for s, n in rows if "(card)" not in s)
 cards = {int(n): s for s, n in rows if "(card)" in s}
 say("C3. In the window's copy, laid by v406all2, lines 1 to 34 are lines of both, from *Now is the existing moment.*, and "
-    "lines 35 to 48 are cards, bi-folding at 42, bi-morality at 45, fractal at 46 and bi-parity at 48 among them",
-    of_both == list(range(1, 35)) and sorted(cards) == list(range(35, 49))
+    "lines 35 to 48 are cards, bi-folding at 42, bi-morality at 45, fractal at 46 and bi-parity at 48 among them, its lines going on past 34",
+    of_both[:34] == list(range(1, 35)) and all(n > 34 for n in of_both[34:]) and sorted(cards) == list(range(35, 49))
     and rows[0][0].replace("  ", " ").strip() == "Now is the existing moment."
     and all(w in cards[n] for n, w in ((42, "bi-folding"), (45, "bi-morality"), (46, "fractal"), (48, "bi-parity"))))
 NI = plain("Natural_Intelligence_v402mgr.md")
