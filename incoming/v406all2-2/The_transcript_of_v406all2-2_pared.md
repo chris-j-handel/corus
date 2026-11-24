@@ -215,3 +215,20 @@ With this turn, 24 November:
 - **A sentence is offered beside seven concerns of the one table,** 1, 2, 6, 10, 14, 15 and 63, and two places are new.
 - Found with it: Natural Numbers 7.2 is the living home of a like pair, and of a spiral's 2n and 4n.
 
+
+---
+
+a me is not a parity or in a co-parity. a now-existing me is a universal set of me-parities. redo this
+
+With this turn, 24 November:
+
+- **Redone.** This session's sentence with a me as one is-or-is-not of a co-parity is away, and with it its answer of 23 November, the code's unit more cohering as `a_me`.
+- **By the living code of name 1** a self's prior is a set of named parities, and the fifteen lines are one of them, once a name, apart: 4,788 cases. A me is name 1's lines, and a me-parity the fifteen.
+- **Said again for the draft's 1.1:** a me-parity is one is-or-is-not of a co-parity, all else as the draft says it; and a partner's sentence of a now-existing me, beside the concern 47.
+- **A co-parity is of two, and of neither alone,** executed.
+- **v406geodesic2's sentence 42,** asked of this window, executed apart: rounds of 9 and of 10 mes, all 1,536 openings, is.
+- **Executed:** `instruments/a_now_existing_me_a_set_of_me_parities_by_the_code.py`, 22 lines, all *is*, laid as part 7 of the draft's page.
+- Found: Exhibit THIRTY-ONE Me's bold says a parity as a me, beside a partner's word; and the code's name of the unit is in 44 lines of eighteen instruments now.
+- Breaking: cell moved to me word for word, with a partner's is of 23 November at v406all2's window not carried in. Restoring: redone by meaning, by the living code.
+
+*A me-parity is one is-or-is-not of a co-parity: with is, a 0, its prior same-existing; with is-not, one inversion, other-than-prior.* ( is-or-is-not? )

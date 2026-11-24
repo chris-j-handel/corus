@@ -64,7 +64,7 @@ if __name__ == "__main__":
         zeros = [sum(1 for o in rows[t][1] for v in o if v == 0) for t in range(2, 2 * n + 2)]
         one_0 = one_0 and sorted(set(zeros)) == [0, 1] and all(zeros[t] + zeros[t + 1] == 1 for t in range(len(zeros) - 1))
     line(moves, "spirals of an odd number, 3 to 59: one like pair, moving a me on with two moments")
-    line(one_0, "and one 0 given with two moments, by the me observing its own parity: same-existing")
+    line(one_0, "and one 0 given with two moments, by the me observing the same as its prior: same-existing")
     even = all(not like(rows_of(n, {i: (-1 if i % 2 == 0 else 1) for i in range(n)}, 1)[0][0]) for n in range(2, 60, 2))
     line(even, "a like pair is an odd spiral's own: spirals of an even number, 2 to 58, their parities inverting me to me, bring none")
 
