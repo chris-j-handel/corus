@@ -212,6 +212,52 @@ Both are shown with all numbers. A prime multiplied by its own k times has parts
 
 **Executed:** `python3 -I incoming/v406other2/instruments/riemann_s_hypothesis_living_on_a_bi_folding_surface_executed.py`, 36 lines is, none is-not, 3 sized, with whole numbers alone.
 
+## The beginning of the interest, for the explaining's opening
+
+**By a partner's word of 24 November, the explaining begins at the beginning of the interest, a why ahead of a sentence.**
+
+**The interest begins with one wish: to know what numbers are made of.** Twelve things lay in equal rows of 2, 3, 4 or 6. Seven things lay in one row of 7 or seven rows of 1 alone. All other numbers are primes multiplied, one way alone: 12 is 2 by 2 by 3.
+
+**The primes have two faces.** One at a time they come uneven, 2, 3, 5, 7, 11, 13, 17, 19, 23 and 29, and looking alone finds the next. Together they come steady: 25 to 100, 168 to 1,000 and 1,229 to 10,000.
+
+**The pull is the two faces: uneven one at a time, even together.**
+
+**A smooth curve was fitted to the primes' numbering.** The question came to be the numbering's straying from the curve.
+
+**Riemann, in 1859, guessed the straying as small as it can be: the square side of the number, and a hair more.** That guess is the hypothesis.
+
+**The interest then went to the curve and its zeros.** What was wanted is in the steps.
+
+## The offered proving, beside this explaining
+
+**Opened here:** its statement, Mathlib's own; an explaining of it for the zeta function, a working draft of 21 November 2026 at M. O. Rubinstein's pages at Waterloo, its opening fifth; and news of its checking. Its Lean files are not opened.
+
+**Its outline, as that explaining has it:**
+
+- With a zero right of the line, a weighted numbering of prime powers strays above its curve by more than the side and a hair. A bound of the straying from above, on stretches of Y to Y by its own side, with Y as large as wanted, has no zero right of the line.
+- The bound comes from one inequality over primes, and two estimates of characters.
+- The inequality is Chebyshev's argument with a better whole number: its prime parts are numbered, and set beside its size.
+- Its side comes from x over m and m balancing, with m by m about x.
+
+**Is, in the natural universe:**
+
+- **Its aim is this explaining's sentence: the numbering straying by the side, and a hair more.**
+- **Its side is this side: a number and its other, x over it, are the same at the side.**
+- **Chebyshev's argument is the seams of spirals on a surface.** A prime's part in the middle number of 1 to 2n is the powers of it with an odd number of seams on 1 to 2n, a parity. The middle number is short of 4 to the n. The primes past n and to 2n are in it once. It is the draft's *between a side and its double is a new crossing spiral*.
+- **Chebyshev's own better number is a turn of 30.** A number less its seams of 2, of 3 and of 5, and its seams of 30 more, is 1 or 0 alone, and comes again with 30. It is 1 at all eight places of 30 no spiral of 2, 3 or 5 crosses.
+- **A character is a parity: +, − or 0.**
+- **Its checking is a cell's stepping, a line a check.**
+
+**Of smooth things, and no thing of the natural universe:** its better whole number, made of theta series; its weights by a logarithm; its curve and its zeros; its inequality with all numbers past a number, by no turn.
+
+**Not opened:** the inequality's own proving. That explaining has it from the Lean files alone.
+
+**Its standing with its own checkers:** certified by the Lean and Mathlib communities on 21 November; that explaining a working draft with the inequality not yet written out; one posted paper saying it vacuous; the prize's own list with the hypothesis open.
+
+**The two are with one thing:** the seams of spirals on a surface. Chebyshev's whole number has a prime born between a side and its double. All spirals' crossings with their parities come to the side itself.
+
+**Executed:** `python3 -I incoming/v406other2/instruments/chebyshev_s_whole_number_by_the_parities_of_its_spirals_seams_executed.py`, 11 lines is, none is-not.
+
 ## For the draft, a part apiece
 
 - ONE and FOUR of this page go to the draft's 1.2 and 2.2.

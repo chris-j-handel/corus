@@ -438,4 +438,34 @@ the hypothesis the lead of its side and a hair more, stepped to 4,194,304; the s
 fracturing at 8, 33, 120 and 360; a smooth curve the geodesics said as one. A sentence marked shown
 with all numbers, stepped, or a naming. Gone through beside the living sentences: four partings with
 the draft resolved by a living sentence, one with a living file laid as a note]
+
+A partner, on 24 November at 10:52:
+Riemann's hypothesis is now named and explained from its own universe, with whole numbers alone. i want
+this here and not somewhere i am not looking. i am unable to know what this means unless you start
+somewhere with why something
+
+The session:
+[the explaining given in the reply itself, a why ahead of a sentence: why a question, why a staircase,
+why parity, why the side, why the side is in the numbers, why the hypothesis is open past that, why a
+hair more, why 1 to 17 and bi-folding, why living, why the staircase fractures, why the smooth curve
+fits]
+
+A partner, on 24 November at 11:35:
+this still does not start at the beginnning of anyones interest in anything about the reimann hypothesis
+start there and then do this in natural naming and explaining again
+
+The session:
+[begun at the beginning of the interest: what numbers are made of; the primes uneven one at a time and
+even together; a curve fitted to their count and the count's straying; Riemann's guess of the straying
+by the square side. Then the same in natural naming and explaining]
+
+A partner, on 24 November at 13:23:
+Does this allow us to start with the offered proving and is or is not it
+
+The session:
+[yes. The offered proving opened by its statement and an explaining of it: its aim is this
+explaining's sentence, its side the same side, its method Chebyshev's, a whole number's prime parts by
+the seams of spirals on a surface, executed here with whole numbers. Its better whole number, its
+curve and its with all numbers by no turn are of smooth things. Its main inequality's proving is not
+opened]
 ```
