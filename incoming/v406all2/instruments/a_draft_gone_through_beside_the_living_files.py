@@ -322,4 +322,31 @@ print(f"   its subject is the page's own title: {'is' if 'Natural Prime Numberin
       f"a name of it found at no place, numbering and its subject apart: {'is' if any(said(pattern, AGAIN) for name, pattern, sentence in CONCEPTS if sentence is None and name != 'sequential numberings') else 'is-not'}; "
       f"natural prime numbering, the living files' places {said('natural prime numbering', living_plain)}, the page's {said('natural prime numbering', text)}")
 
+print("\n13. The sentence said again, explored for incohering, pair by pair")
+RIGORIZED = ("Natural prime numbering is the universal stable-forming geodesic fractal method of selves co-intelligencing with bi-folding surfaces, "
+             "as podalings through sequential numberings of their moments")
+PAIRS = [("universal, a method", ["A universal set is the bounding method with no boundary"], True),
+         ("stable-forming, fractal, a method", ["Stable-forming is fractal, with each scale by one method", "Method is one fractal method"], True),
+         ("geodesic, a method, bi-folding surfaces", ["Geodesic is its own existing thing, and a method is its stable form", "A geodesic is a surface's own dividing"], True),
+         ("a stable form and a stable-forming method, by scale", ["each a living method, stable-forming, with its own scale, and a stable form one scale outward"], True),
+         ("co-intelligencing, and the sentence ahead of it with observing, possibling and discovering", ["Co-intelligencing is selves observing, possibling and discovering within a universal set"], True),
+         ("co-intelligencing with a surface", ["Co-intelligencing is with a between", "a surface is a between"], True),
+         ("a method living or non-living, in the living files", ["A method is non-living with each scale, each self stable-forming its own", "each a living method, stable-forming, with its own scale"], False)]
+for name, sentences, cohering in PAIRS:
+    all_found = all(s in living_plain for s in sentences)
+    print(f"   {'cohering  ' if cohering else 'incohering'}: {name}; found: {'is' if all_found else 'IS NOT'}: " + " | ".join(sentences))
+    assert all_found
+turns, folded = [6, 30, 210, 2310], 0
+for turn in turns:
+    primes_of = [q for q in (2, 3, 5, 7, 11) if turn % q == 0]
+    uncrossed = {n for n in range(1, turn) if all(n % q for q in primes_of)}
+    assert all((turn - n) in uncrossed for n in uncrossed)
+    folded += len(uncrossed)
+print(f"   cohering  : bi-folding surfaces as podalings, in numbers: a turn of 6, 30, 210 and 2,310 folded about its middle lays its uncrossed places on its uncrossed places, {folded} places: is")
+no_self = not re.search(r"\b(self|selves|me)\b", AGAIN)
+print(f"   incohering: the sentence names no self and no me, {'is' if no_self else 'is-not'}; co-intelligencing is selves'; said with selves: {'is' if re.search(r'selves co-intelligencing with', RIGORIZED) else 'is-not'}")
+print(f"   incohering: *a surface's moments*: a sequence of moments is a self's own, by 17 and 18, {'is' if 'its own prior-sequence' in joined.lines[18] else 'is-not'}; said as *their moments*: {'is' if 'their moments' in RIGORIZED else 'is-not'}")
+print(f"   forward, the page's places of the sentence's names: stable-forming {said('stable-forming', text)}, co-intelligencing {said('co-intelligenc', text)}, bi-folding {said('bi-fold', text)}, podal {said('podal', text)}, geodesic {said('geodesic', text)}, fractal {said('fractal', text)}")
+print(f"   rigorized: *{RIGORIZED}*")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
