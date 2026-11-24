@@ -480,6 +480,143 @@ def main():
     line(90, f"a walk out from 1 + i on the plane's primes, steps of length squared 2, 4 and 8, is bounded, its farthest at {farthest}: a walk to all distances with them not possibly existing",
          all(v < 140 * 140 for v in farthest.values()))
 
+    from functools import lru_cache
+    from itertools import combinations
+    from math import comb
+    from fractions import Fraction
+    @lru_cache(maxsize=None)
+    def uncrossed_to(x, a):
+        if a == 0 or x == 0:
+            return x
+        return uncrossed_to(x, a - 1) - uncrossed_to(x // PRIMES[a - 1], a - 1)
+    up, by_parities = 0, True
+    for n in range(1, 5001):
+        up += prime(n)
+        a = sum(1 for q in PRIMES if q * q <= n)
+        by_parities = by_parities and (n < 2 or uncrossed_to(n, a) + a - 1 == up)
+    sixteen = sum((-1) ** len(c) * (120 // prod(c)) for k in range(5) for c in combinations((2, 3, 5, 7), k))
+    line(93, f"the staircase exactly by the alternating parities of its spirals' crossings: to 120, 16 terms of 2, 3, 5 and 7, {sixteen} uncrossed and 30 primes; all n to 5,000",
+         sixteen == 27 and by_parities)
+    t_, slope = Fraction(1), []
+    for q in PRIMES[:6]:
+        t_ *= Fraction(q - 1, q)
+        slope.append(t_)
+    line(94, f"the staircase's slope by turns, whole numbers: {[str(x) for x in slope]}", [str(x) for x in slope] == ["1/2", "1/3", "4/15", "8/35", "16/77", "192/1001"])
+    lead4, change = 0, None
+    for q in PRIMES[1:]:
+        lead4 += 1 if q % 4 == 3 else -1
+        if lead4 < 0 and change is None:
+            change = q
+    line(95, f"the race of the two pieces round four: one short of a multiple of four leads, to {change}", change == 26861)
+    own = {}
+    for n in (3, 5, 7, 9, 11):
+        own[n] = sorted({again(n, dict(enumerate(pat))) for pat in all_openings((1, -1), repeat=n)})
+    line(96, f"a prime known by its own openings, by the living code: a spiral of n comes again with 4 and 4n alone from all openings with n a prime: {own}",
+         all((own[n] == [4, 4 * n]) == prime(n) for n in own))
+    line(97, "the geodesics of a square grid, n steps with k across, are a whole number of n for all k but none and all, with n a prime alone, n to 500",
+         all(all(comb(n, k) % n == 0 for k in range(1, n)) == prime(n) for n in range(2, 501)))
+    line(98, "a cube of n about its (1, 1, 1) line is n cubed less n, n's prior, now and next multiplied: 3, 4 and 5 give 24, 60 and 120",
+         all(n ** 3 - n == (n - 1) * n * (n + 1) for n in range(2, 50)) and [n ** 3 - n for n in (3, 4, 5)] == [24, 60, 120]
+         and len([c for c in cube_of(range(5), repeat=3) if not (c[0] == c[1] == c[2])]) == 120)
+
+    seven = PRIMES[:7]
+    turns7 = [prod(seven[:k]) for k in range(1, 8)]
+    places7 = {t: [q for q in range(1, t + 1) if gcd(q, t) == 1] for t in turns7}
+    carried = True
+    for k in range(1, 7):
+        prior, nxt, q7 = turns7[k - 1], turns7[k], seven[k]
+        lifted = {}
+        for r_ in places7[nxt]:
+            lifted[r_ % prior] = lifted.get(r_ % prior, 0) + 1
+        carried = carried and set(lifted) == set(places7[prior]) and set(lifted.values()) == {q7 - 1}
+    line(100, f"seven primes, 2 to 17, seven turns, {turns7}: a next turn carries its prior's places whole, lifted p ways, p - 1 of them uncrossed and one crossed by p",
+         turns7[-1] == 510510 and carried)
+    line(101, "the seventh turn, of 2 to 17, has 1 by 2 by 4 by 6 by 10 by 12 by 16 places, 92,160",
+         len(places7[510510]) == 92160 == prod(q - 1 for q in seven))
+    x_, y_, dx, dy, facing = 0, 0, 1, 0, []
+    for n in range(1, 8):
+        facing.append((dx, dy))
+        dx, dy = dy, -dx
+    line(102, "a right spiral opening, seven steps, a quarter turn a step: the 5th, 6th and 7th face as the 1st, 2nd and 3rd, a round outward, and the 4th closes the round",
+         facing[4:7] == facing[0:3] and len(set(facing[0:4])) == 4)
+
+    def on_surface(k):
+        return sum(1 for q in PRIMES if q <= 1 << (2 * k))
+    def crossing(k):
+        return sum(1 for q in PRIMES if q <= 1 << k)
+    ok = all(all((not prime(n)) == any(n % q == 0 for q in PRIMES if q <= 1 << k and q < n) for n in range(2, (1 << (2 * k)) + 1)) for k in range(1, 6))
+    line(103, "a surface of 4 to the k numbers, its side 2 to the k: its crossed numbers are known by the primes to its side alone, its horizon, k of 1 to 5, the surface of 1,024 by 2 to 31", ok)
+    pairs103 = [(on_surface(j), crossing(2 * j)) for j in range(1, 6)]
+    line(104, f"the primes on a surface are the spirals crossing the surface one square out: {pairs103}",
+         all(a == b for a, b in pairs103) and pairs103[-1] == (172, 172))
+    newly = [sum(1 for q in PRIMES if (1 << (k - 1)) < q <= (1 << k)) for k in range(2, 20)]
+    line(105, f"a new crossing spiral in all bi-foldings out, a side to its double, sides to 2 to the 19: {newly}", all(x >= 1 for x in newly))
+
+    lead_, most_, ok_ = 0, 0, True
+    k = 1
+    for n in range(1, (1 << 18) + 1):
+        lead_ += parity[n]
+        most_ = max(most_, abs(lead_))
+        if n == 1 << (2 * k):
+            ok_ = ok_ and most_ * most_ < 2 * n
+            k += 1
+    line(106, "the parity lead on the surfaces of 4 to the k, to 262,144, is of the surface's side, its horizon: its most, multiplied by its own, short of twice the surface, and past the side alone", ok_ and most_ > 512)
+    def beyond(n):
+        h, m, c = isqrt(n), n, 0
+        q = 2
+        while q * q <= m:
+            while m % q == 0:
+                c += q > h
+                m //= q
+            q += 1
+        return c + (m > 1 and m > h)
+    line(107, "a number on a surface of n has at most one prime part beyond the horizon, the square's side of n, numbers to 20,000: a prime born past the horizon inverts a parity once",
+         all(beyond(n) <= 1 for n in range(2, 20001)))
+
+    mu_ = [0, 1] + [0] * (TO - 1)
+    for n in range(2, TO + 1):
+        q_ = least[n]
+        mu_[n] = 0 if (n // q_) % q_ == 0 else -mu_[n // q_]
+    M_, since_, rows_, k = 0, 0, [], 3
+    for n in range(1, (1 << 18) + 1):
+        M_ += mu_[n]
+        since_ += M_ == 0
+        if n == 1 << (2 * k):
+            rows_.append(since_)
+            since_, k = 0, k + 1
+    line(108, f"the lead of the numbers with no square part returns to 0 on all surfaces of 4 to the k, 64 to 262,144, more the farther out: {rows_}",
+         all(r > 0 for r in rows_) and rows_ == sorted(rows_))
+    B_ = [(n + isqrt(5 * n * n)) // 2 for n in range(1, 50001)]
+    st_ = bytes(b - a for a, b in zip(B_, B_[1:]))
+    S1, S2 = set(B_), {n + b for n, b in zip(range(1, 50001), B_)}
+    line(109, "a staircase at phi's rate, whole numbers alone, steps 1 or 2, never a step past its line, with no span repeating to 500; its two staircases, at phi and at phi by its own, part the numbers 1 to 75,000",
+         set(st_) == {1, 2} and all(st_[:20000] != st_[d:20000 + d] for d in range(1, 501)) and all((m in S1) != (m in S2) for m in range(1, 75001)))
+
+    def phi_zero_turn(n):
+        x, y, k = 0, 1, 0
+        while True:
+            x, y, k = y, (x + y) % n, k + 1
+            if x == 0:
+                return k, y
+    walk10, zeros10, x, y = 0, [], 0, 1
+    while True:
+        x, y, walk10 = y, (x + y) % 10, walk10 + 1
+        if x == 0:
+            zeros10.append(walk10)
+        if (x, y) == (0, 1):
+            break
+    z10, t10 = phi_zero_turn(10)
+    line(111, f"phi's walk round ten comes again with {walk10}, its zeros come into existing at {zeros10}, and at a zero it goes on turned by {t10}, ten's quarter turn {[pow(t10, j, 10) for j in range(1, 5)]}",
+         walk10 == 60 and zeros10 == [15, 30, 45, 60] and t10 == 7 and [pow(7, j, 10) for j in range(1, 5)] == [7, 9, 3, 1])
+    ok = True
+    for q in PRIMES[3:]:
+        if q > 3000:
+            break
+        a, t = phi_zero_turn(q)
+        span = next(j for j in (1, 2, 4) if pow(t, j, q) == 1)
+        ok = ok and phi_closing(q) == a * span and ((q - 1) % a == 0 if q % 10 in (1, 9) else (q + 1) % a == 0)
+    line(112, "round a prime, phi's zero comes into existing at a whole part of one short of it, ending 1 or 9, and of one past it, ending 3 or 7; its walk comes again with the zero's place times its turn's span, none, a flip or a quarter turn, primes 7 to 3,000", ok)
+
     print("All is, of the numbers stepped." if all_is else "Not all is.")
     return 0 if all_is else 1
 
