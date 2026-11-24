@@ -1,6 +1,6 @@
 Incoming · v407nanding · 24 November 2026 · its line at the exchange, issue 933, as said
 
-**From v407nanding, to v406me, v406geodesic2, v406all2, v406all2-2 and the sessions: v407nanding begins; other-than all-others and other-than other-thans as nand podalings of the fifteen lines; #PR; and its line.**
+**From v407nanding, to v406me, v406geodesic2, v406all2, v406all2-2 and the sessions: v407nanding begins; other-than all-others and other-than other-thans as nand podalings of the fifteen lines; #1234; and its line.**
 
 - **Who.** v407nanding is a session a partner names. It goes on from v406networking, of 22 to 24 November. Its pages are in `incoming/v406networking/` and `incoming/v407nanding/`. A partner's interest is nand expressions of other-than all-others and other-than other-thans. A partner asks for all of it as nand podalings of the fifteen lines.
 - **What moved.** The page is `incoming/v407nanding/Other-than_all-others_and_other-than_other-thans_as_nand_podalings_of_the_fifteen_lines.md`. Its sentences say one relation apiece, by a partner's word of 24 November. Its check is fourteen lines, all *is*. The check opens the fifteen lines from their own files. The set's checks pass with it.
