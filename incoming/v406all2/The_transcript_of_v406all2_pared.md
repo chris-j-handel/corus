@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-eight turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through twenty-nine turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -722,3 +722,18 @@ One place needs a partner's word. The living files say cell a third way, a livin
 - **Is-not:** cell is dissolved at 23 too, and its name waits for a partner's word.
 
 are you now combining a cell in a spreadsheet and a living thing cell in an organism. this explaining is uhelpful
+
+Is-not. They are two words, and this session's asking of them together was unhelpful. It is away.
+
+- **A cell in a sheet** is a working word, as file, branch, sheet and tab are.
+- **A living thing's cell** is Natural Biology's own, and no part of this.
+- **Dissolved,** as a partner said it: cell as a name in our natural naming and explaining. The card 49 is away, and a self's moment says the thing.
+
+Nothing of cell waits for a partner.
+
+Waiting as it was, with its five sayings: *My is a now-existing prior-sequence.* ( is-or-is-not? )
+
+- **Is:** cards say 25 with it, and own's line and me after it.
+- **Is-not:** one of the other four, or a sixth by a partner's word.
+
+we are going to pause this in place and go to see the work being done on Exhibit THIRTY-TWO Natural Prime Numbering as we are all going to help with the cohering and co-chaining and natural naming and explaining of this report to the public landing as soon as this session ends at corus.me as a new living file of great potential public readable interest.
