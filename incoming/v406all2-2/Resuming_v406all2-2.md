@@ -16,7 +16,9 @@ Incoming · v406all2-2 · 24 November 2026
 - A me is no parity. A now-existing me is a universal set of me-parities.
 - Snapping is not yet natural naming. The exploring's words are a mix.
 - A sentence is with one relation. A compound sentence is fuzzying the relationing.
-- Surfacing is unknown.
+- Surfacing is unknown. It may be a dissolved word. It is needed at no place: a me's other's now says it.
+- Now is four moments: me-prior, me-now, other-prior and other-now. v407nanding's line says it.
+- The word said for a 0 is dissolving. A 0's name is all-parity. v406geodesic2's line says it.
 - A me-parity is an other-than-other-parity. A me-parity is an other-than-other-than-all-parity.
 - Observed is a ghost.
 - A co-parity is co- with the universe. It dissolves from living.

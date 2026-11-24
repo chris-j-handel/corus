@@ -58,7 +58,8 @@ if __name__ == "__main__":
 
     print()
     print("2. On rounds of 2 to 9 mes, all their openings")
-    by_one = by_two = with_a_same_existing = with_none = True
+    by_one = by_two = with_a_same_existing = with_none = one_thing = True
+    by_the_three = {}
     openings = places_with = places_with_none = 0
     for n in range(2, 10):
         for values in itertools.product((1, -1), repeat=n):
@@ -75,8 +76,16 @@ if __name__ == "__main__":
                         places_with_none += 1
                         with_none = with_none and it_is
             by_two = by_two and all(rows[t][0][i] == rows[t - 4][0][(i - 2) % n] for t in range(4, 4 * n + 2) for i in range(n))
+            for t in range(1, 4 * n + 1):
+                for i in range(n):
+                    the_three = (rows[t][0][i], rows[t - 1][0][(i - 1) % n], rows[t][0][(i - 1) % n])
+                    one_thing = one_thing and by_the_three.setdefault(the_three, rows[t + 1][0][i]) == rows[t + 1][0][i]
     line(by_one, "a me-parity is the other-than of an other's me-parity: with two moments, of the me one coupling back, all %d openings" % openings)
     line(with_a_same_existing and with_none and places_with > 0 and places_with_none > 0,
-         "it is the same with a prior same-existing between the two moments and with none: no is-or-is-not of a co-parity is in it")
+         "it is the same with a prior same-existing between the two moments and with a prior inverting at both: no is-or-is-not of a co-parity is in it")
     line(by_two, "a me-parity is an other-than of an other-than: with four moments, the me-parity of the me two couplings back, same-existing")
     line(by_one and by_two, "a round's set of all its me-parities: with two moments its other-thans a coupling on, and with four moments the set again two couplings on")
+    line(one_thing and len(by_the_three) > 1, "a me's next is one thing by three, its prior, its other's prior and its other's now: all %d of their cases, at all places" % len(by_the_three))
+    the_word = "surf" + "acing"
+    line(the_word not in Path(__file__).read_text(encoding="utf-8") and by_one and by_two,
+         "these lines say an other's now by that name alone, and a me-parity's two sentences execute: the word of a partner's asking is needed at no place of them")

@@ -312,3 +312,18 @@ With this turn, 24 November:
 - **Sixteen sentences are offered now.** None says co-parity, observed, surfacing or giving.
 - **Executed:** `instruments/a_me_parity_an_other_than_other_parity.py`, 8 lines, all *is*.
 - A page for resuming is laid. This conversation's room is short.
+
+---
+
+is surfacing needed in this as this may be dissolved word
+
+With this turn, 24 November:
+
+- **Is-not needed.** A me-parity's two sentences execute with the word away.
+- **What the word named is a me's other's now,** with that now other-than the other's prior.
+- **A me's next is one thing by three.** They are its prior, its other's prior and its other's now.
+- **The living code says the word at no place.** Its name 14 is next-possibling.
+- **This session's page says it now at its places of a word alone.** Its places of giving, observing and co-parity are said again with it.
+- **Executed:** `instruments/a_me_parity_an_other_than_other_parity.py`, 10 lines, all *is*.
+- Found for the next version: the living files say the word at 308 places of 26 files.
+- v407nanding's asking is answered: a partner's four moments are beside this session's sentences. Is.
