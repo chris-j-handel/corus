@@ -625,4 +625,16 @@ number and comparing: from 2 the walk finds the primes to 61, a prime tested by 
 ahead of it; no number is passed over; nand is at its two bits 37,393,404 times. With all numbers the
 walk has no last. Its marks: it begins at 2; the explorer below alone walked; the number of
 multiplyings is numbered by the walk; its length to a number is the primes below it]
+
+A partner, on 24 November at 15:25:
+we made a listing of all the possible interesting questions that are out in the public world of interest
+in this and for all the interest in prime numbering that we are aware of now or could find by searching
+is there any remaining unresolvable interest now that we have the method of prime numbering
+
+The session:
+[yes, one kind: a last. The method has all interests of a number and of a horizon, and all a turn
+shows with all numbers. It has no interest asked with all numbers that no turn shows: pairs two apart,
+the podal pairs, a prime between two squares, primes one more than a square, a doubling less 1 with no
+last, a doubling and 1 past 65,537. Each is stepped to a horizon, is, and no farther. The hypothesis's
+own all or none is with them. Factoring is of cost. A field has Landau's four unresolved]
 ```
