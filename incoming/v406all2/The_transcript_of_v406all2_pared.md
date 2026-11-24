@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-three turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-four turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1229,3 +1229,16 @@ One incohering in words is to explore: nothing as a set, beside *no set defines 
 A card is laid for the living list's table, said again at five places for the lines as they are: set at 3 too, no in nothing's place, and the rows of a, of and the. My edit of the table in place was refused, so it is a suggestion to accept or to let go.
 
 why are you suggesting things to me. my role is answering the hardest is or is not questions after you explain them to me and you are unable to resolve. your should do the numbering and rigorizing and do no harm improving without me
+
+Understood. The numbering and the living list are done in the document, with nothing asked.
+
+- **The numbering:** a thing's line is 2 and now-existing is 3, in the document's order. The numbers from 4 on are as they were. The other sessions are told, for their pages with the lines in them.
+- **The living list's table is said again in place,** from the lines as they are: existing at 3; set, other-than, no, an, of and the at 2.
+- **Other-than is resolved by cohering.** A word named by no prior line is given, and it leaves the given words once its line names it. Other-than is given until its line, 4, and the document's two sayings of the given words are one.
+- **My card of the living list is withdrawn,** its places in the table now.
+
+Three of rigor's findings are in my page as they are, with no one saying of them cohering alone, and nothing is asked of them: no beside not, a thing's line saying its own name, and line 3 of a thing with 9, 11 and 12 of existing alone.
+
+From here I number, rigorize and resolve with no harm, and bring you an is-or-is-not alone that I am unable to resolve, explained.
+
+since there are remaining unresolved things there is always a hardest one to ask or you could simply keep going and we would be farther along and that would be better than this pace
