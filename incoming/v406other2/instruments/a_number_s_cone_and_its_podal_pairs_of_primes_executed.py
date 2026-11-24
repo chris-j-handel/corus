@@ -85,6 +85,22 @@ say("one less and one more than the turns 6, 30 and 2,310 are primes, 5 and 7, 2
     == [(6, True, True), (30, True, True), (210, False, True), (2310, True, True), (30030, True, False)]
     and 209 == 11 * 19 and 30031 == 59 * 509)
 
+
+# A prime both a +1 and a -1: one more than the number below it and one less than the number above it.
+ps = [m for m in range(5, 2 * N) if sieve[m]]
+say(f"a prime past 3 is one more than a crossed number and one less than a crossed number, both: to {2 * N:,}",
+    all(not sieve[q - 1] and not sieve[q + 1] for q in ps))
+say("of the two, one is a seam of 6 and one is a seam of 4, and the two multiplied are a seam of 24: "
+    "a prime by its own is one more than a seam of 24",
+    all(((q - 1) % 6 == 0) != ((q + 1) % 6 == 0) and ((q - 1) % 4 == 0) != ((q + 1) % 4 == 0)
+        and (q * q - 1) % 24 == 0 for q in ps))
+kinds = {r: sum(1 for q in ps if q % 12 == r) for r in (1, 5, 7, 11)}
+say("round 12 a prime past 3 is at 1, 5, 7 or 11: one more than both seams, one more than 4's and one less than "
+    "6's, one less than 4's and one more than 6's, or one less than both", set(q % 12 for q in ps) == {1, 5, 7, 11})
+say(f"to {2 * N:,} the four kinds are {kinds[1]:,}, {kinds[5]:,}, {kinds[7]:,} and {kinds[11]:,} primes", "sized")
+say("a number one more than a crossed number and one less than a crossed number is no prime at 9, 15, 21 and 25",
+    [m for m in range(5, 30) if not sieve[m] and not sieve[m - 1] and not sieve[m + 1] and m % 2][:4] == [9, 15, 21, 25])
+
 for kind, text in out:
     print(f"{kind:8}{text}")
 kinds = [k for k, t in out]

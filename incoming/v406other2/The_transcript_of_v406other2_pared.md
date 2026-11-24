@@ -591,4 +591,13 @@ than a seam of 6, with all sizes of prime, and back by one step. Is-not as said:
 than a seam being a prime, at 25, 35, 49 and 55, found by stepping alone; and no more to know of the
 hypothesis. These sentences are all of its source, and not its answer: all zeros their own other is
 said by none of them]
+
+A partner, on 24 November at 15:11:
+every prime is bothbothing a +1  and a -1
+
+The session:
+[is, with all numbers past 3. A prime is one more than a crossed number and one less than a crossed
+number, both; of the two, one is a seam of 6 and one a seam of 4; the two multiplied are a seam of
+24, a prime by its own one more than a seam of 24; round 12 the four kinds are 1, 5, 7 and 11. It is
+no test of a prime: 9, 15, 21 and 25 are between two crossed numbers]
 ```
