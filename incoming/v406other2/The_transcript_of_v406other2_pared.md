@@ -637,4 +637,22 @@ shows with all numbers. It has no interest asked with all numbers that no turn s
 the podal pairs, a prime between two squares, primes one more than a square, a doubling less 1 with no
 last, a doubling and 1 past 65,537. Each is stepped to a horizon, is, and no farther. The hypothesis's
 own all or none is with them. Factoring is of cost. A field has Landau's four unresolved]
+
+A partner, on 24 November at 15:32:
+asking for a last is equilbria and the method has no ending the method can do the primes this way
+endlessly. this is provable by taking it to any n number and it is self orienting and will begin
+resolving forward along. there is no bounded universe by a thing called infinity is infinity plus one
+to make the method of math be competent without any method of being competent. natural math creates its
+own 0 and does simply file a private property given claim on a location and announce here will be zero
+everyone. keep exploring my questions about the entire world of possibly interesting things about prime
+numbering we do not already have inside our resolving method
+
+The session:
+[the method with no ending is is, with all numbers. More of the public interests placed in the method
+and executed, 12 lines is: a test with no prime beside the number; the triangle made with adding
+alone; shapes of primes by a turn's places; pairs 6 apart twice the pairs 2 apart; a prime's own
+ending next the least; rows of primes with one step; a number its own parts added; the race of 4's
+two places; stretches of stretches. By search: the largest known prime, by the explorer above, and
+record primes tested by the two explorers together. Outside it yet: the cost of finding a number's
+parts, and the pitches all their own other]
 ```
