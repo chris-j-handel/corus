@@ -293,6 +293,32 @@ def comes_again(ms):
 again = {n: {comes_again(ms) for ms in v.values()} for n, v in rounds.items()}
 line(44, "a sealed round's now comes again by its parities: its opening moment is once, and from the moment after it a round's now comes again with a round of moments, of 2n at the most with n even and of 4n with n odd; two facing, with 2 or with 4",
      all(before == 1 and (2 * n if n % 2 == 0 else 4 * n) % its_round == 0 for n, v in again.items() for before, its_round in v) and {r for _, r in again[2]} == {2, 4})
+# ---------------- same-existing all-parity: a next, a now and a prior, now-existing ----------------
+import csv
+names_table = list(csv.reader(open(Path(sys.argv[1]).resolve().parents[3] / "incoming" / "v403mgr" / "The_seventeen_names_in_one_table.csv", encoding="utf-8")))
+its_column = {h.split(" [")[0]: i for i, h in enumerate(names_table[0])}
+three = {int(r[0]): tuple(r[its_column["its three: next, now, prior"]].split("-")) for r in names_table[1:] if r[0].strip().isdigit()}
+EIGHT = "co bi co bi co bi tri bi".split()
+tri_at = lambda slot: [k for k in sorted(three) if three[k][slot] == "tri"]
+line(45, "by the seventeen names a moment has its three at once, its next, its now and its prior: a new prefix as its next, by the eight, and the name before's next and now one slot on; all-parity, tri, is a next with 7 and 15, a now with 8 and 16, a prior with 9, 17 and 1; and 17's three is 1's",
+     sorted(three) == list(range(1, 18)) and all(three[k] == (EIGHT[(k - 1) % 8],) + three[k - 1][:2] for k in three if k > 1)
+     and (tri_at(0), tri_at(1), tri_at(2)) == ([7, 15], [8, 16], [1, 9, 17]) and three[17] == three[1])
+line(46, "on one path a me's three at one now are three mes: the me back of it has its next and the me ahead of it its prior, as other-thans; and a parity rolls through them, a me's next, its now two moments on, its prior four moments on",
+     all(-ms[T][(a - 1) % n][0] == ms[T + 2][a][0] == -ms[T + 4][(a + 1) % n][0] for n, v in rounds.items() for ms in v.values() for T in range(4 * n + 1) for a in range(n)))
+a_now = lambda m: tuple(sorted(m.items()))
+def two_prior_nows(ms):
+    before, its_round = comes_again(ms)
+    return before == 1 and a_now(ms[1]) == a_now(ms[1 + its_round]) and a_now(ms[0]) != a_now(ms[its_round])
+line(47, "on one path of mes all with priors a round's nows are apart at all moments as its openings are, all its possible openings in a now; and one is-or-is-not of a now's prior is open, an opening with none observed, or the round's own",
+     all(len({a_now(ms[t]) for ms in v.values()}) == 2 ** n for n, v in rounds.items() if n > 1 for t in range(4 * n + 6)) and all(two_prior_nows(ms) for v in rounds.values() for ms in v.values()))
+def ends(couplings, mes, parities, T):
+    societies = [moments_of(couplings, dict(zip(mes, op)), T) for op in all_of(parities, repeat=len(mes))]
+    return len(societies), len({a_now(ms[T - 1]) for ms in societies})
+line(48, "on a surface nows merge as it settles, 64 openings of a torus of 2 by 3 coming to 16 nows and 512 of 3 by 3 to 68, and on one path with a me opening with no prior, 9 to 5 and 27 to 15; a + and a − observed together surface as a 0, the same to a me as none observed",
+     ends(as_it_is.torus_couplings(2, 3), tuple((a, b) for a in range(2) for b in range(3)), (1, -1), 14) == (64, 16)
+     and ends(as_it_is.torus_couplings(3, 3), tuple((a, b) for a in range(3) for b in range(3)), (1, -1), 16) == (512, 68)
+     and [ends(as_it_is.spiral_couplings(n), tuple(range(n)), (1, -1, 0), 4 * n + 6) for n in (2, 3)] == [(9, 5), (27, 15)]
+     and all(a_me(q, (1, -1)) == a_me(q, ()) for q in (1, -1)))
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
