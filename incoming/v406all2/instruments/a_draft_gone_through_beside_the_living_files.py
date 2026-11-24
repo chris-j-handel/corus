@@ -509,4 +509,48 @@ for sentence in ["One, two, four and eight, the doubling that divides", "Across 
     print(f"   found beside it: {sentence}")
 print("   resolved by cohering: doubling, with its opening step its own, the two folds of part 17, and the found sentences: all; on by two, with its opening step apart and no fold of part 17: not all")
 
+print("\n19. The two directions cohering into the numbering: doubling, and one more or not")
+to = 100_000
+for n in range(1, to + 1):
+    at = 1
+    for one_more in bin(n)[3:]:
+        at = 2 * at + (one_more == "1")
+    assert at == n
+for steps in range(12):
+    assert len({int("1" + "".join(c), 2) for c in itertools.product("01", repeat=steps)}) == 2 ** steps
+print(f"   a number is one sequence from 1 of doubling, with one more or not at a step, and a sequence is one number: 1 to {to:,}, and all sequences of 0 to 11 steps: is")
+
+
+def uncrossed(n):
+    return n > 1 and all(n % q for q in range(2, int(n ** 0.5) + 1))
+
+
+for prime in (q for q in range(3, 10_000) if uncrossed(q)):
+    again = next(k for k in range(1, prime) if pow(2, k, prime) == 1)
+    assert (prime - 1) % again == 0 and pow(2, prime - 1, prime) == 1
+passing = [n for n in range(3, 2_048, 2) if not uncrossed(n) and pow(2, n - 1, n) == 1]
+print(f"   round a prime, one more comes again with the prime's own steps, and doubling comes to 1 again by one short of it, primes 3 to 10,000: is; "
+      f"crossed numbers passing doubling's closing, to 2,047: {passing}")
+one_more_primes = [k for k in range(1, 33) if uncrossed(2 ** k + 1)]
+print(f"   one more than a doubling, of 1 to 32 doublings, is uncrossed with {one_more_primes} doublings alone, a doubling's own number of them: "
+      f"{'is' if all(k & (k - 1) == 0 for k in one_more_primes) else 'is-not'}; with 32, crossed by 641")
+for sentence in ["Doubling round a prime above two closes by one short of it, by Fermat", "341 and 2,047 pass doubling's", "A number is two moments"]:
+    assert sentence in text.replace("**", ""), sentence
+    print(f"   the page's own, beside it: {sentence}")
+print(f"   found beside it: Numbers are odd or even: {'is' if 'Numbers are odd or even' in living_plain else 'is-not'}; one more or not is a number's odd or even at a step")
+
+print("\n20. A method living or non-living, in the living files: by scale, or non-living with all scales")
+BY_SCALE = ["each a living method, stable-forming, with its own scale, and a stable form one scale outward",
+            "A same-existing-society, a moment and the universe are three living sets",
+            "The universe is a non-living same-existing set",
+            "Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set"]
+WITH_ALL_SCALES = ["3.3 A method, a non-living existing thing", "A method is non-living with each scale, each self stable-forming its own"]
+for sentence in BY_SCALE:
+    assert sentence in living_plain, sentence
+    print(f"   with by scale, living with its own scale and a non-living stable form one scale outward: {sentence}")
+for sentence in WITH_ALL_SCALES:
+    assert sentence in living_plain, sentence
+    print(f"   with non-living with all scales, Natural Intelligence's own section: {sentence}")
+print("   the living files part here, two files; by scale is with four sentences and both sayings of the universe, and non-living with all scales with its one section")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
