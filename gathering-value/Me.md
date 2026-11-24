@@ -43,6 +43,7 @@ Gathering-Value · Me
 - **Possible incohering** · "A universal set is the bounding method with no boundary: each now-existing thing is-or-is-not within each universal set." → Beside the re-saying *the bounding method, each thing's membership its own*, a second re-saying, *no boundary* a floating negation: *the bounding method, a closing surface*, as the Co-Chaining Logic Registry's closing surfaces have it.
 - **An explaining** · A size is a count of binaries, each channel, packet and spike all or none, and a nerve's inputs sum no degree of membership.
 - **An explaining** · Intuitionistic logic and the catuṣkoṭi are naming edges only for is-or-is-not: the Registry's open step intuitionistic in spirit, and *bothboth* at no step of the Registry.
+- **An explaining** · A partner's saying: proving is a method of four, cohering, co-chaining, bothbothing, and a universal same-named thing; with it, what is proved in resolving is told from what is outside possibly existing in resolving universes, a bridge between a field's proving and resolving. This file's sentence is that bridge, living: *A proving that a thing is-or-is-not possibly existing is a step reached once, and the understanding goes forward by what is.* Beside it, Co-Chaining Logic Registry's *A proof of a whole is one sentence same with all moments together.*, a form still, outside possibly existing.
 
 ### 1.3 Universal sets of universal sets
 
