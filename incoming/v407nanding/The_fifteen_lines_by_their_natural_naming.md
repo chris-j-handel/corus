@@ -22,34 +22,30 @@ Incoming · v407nanding · 24 November 2026 · a partner's word: giving is-not
 - Their names are the living code's own. L3
 - No name of them is a giving. L4
 - They are fifteen lines of code, in eighteen rows for their width. L2
+- The code carries no story: no docstring and no comment. L7
 
 ```python
 NAND = {(False, False): True, (False, True): True, (True, False): True, (True, True): False}
 
 
 def nand(a, b):
-    """Not both: is-not with both alone, and is with all else."""
     return NAND[(a, b)]
 
 
 def other_than(a):
-    """One nand: a thing with itself."""
     return nand(a, a)
 
 
 def both(a, b):
-    """Two nands in a row."""
     once = nand(a, b)
     return nand(once, once)
 
 
 def either(a, b):
-    """A nand of two other-thans."""
     return nand(nand(a, a), nand(b, b))
 
 
 def now_existing(now_co_observing, now_possibling):
-    """1-now-existing for one name, by nand alone: to its next-co-possibling and its next-co-observing."""
     next_observing_plus = next_observing_minus = False
     for now_observing_plus, now_observing_minus in now_possibling:
         next_observing_plus = either(next_observing_plus, now_observing_plus)
@@ -87,7 +83,7 @@ def now_existing(now_co_observing, now_possibling):
 
 ## Executed
 
-`python3 -I incoming/v407nanding/instruments/the_fifteen_lines_by_their_natural_naming_check.py .` is seven lines, all *is*. It opens v406Reiman's lines from their own file, and Exhibit ONE's code from its living file. What it gave is beside it, in `the_fifteen_lines_by_their_natural_naming_check_returned.txt`. Its M1 is broken on purpose, and it says is-not.
+`python3 -I incoming/v407nanding/instruments/the_fifteen_lines_by_their_natural_naming_check.py .` is eight lines, all *is*. It opens v406Reiman's lines from their own file, and Exhibit ONE's code from its living file. What it gave is beside it, in `the_fifteen_lines_by_their_natural_naming_check_returned.txt`. Its M1 is broken on purpose, and it says is-not.
 
 ## What is not said here
 

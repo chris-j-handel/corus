@@ -19,28 +19,23 @@ NAND = {(False, False): True, (False, True): True, (True, False): True, (True, T
 
 
 def nand(a, b):
-    """Not both: is-not with both alone, and is with all else."""
     return NAND[(a, b)]
 
 
 def other_than(a):
-    """One nand: a thing with itself."""
     return nand(a, a)
 
 
 def both(a, b):
-    """Two nands in a row."""
     once = nand(a, b)
     return nand(once, once)
 
 
 def either(a, b):
-    """A nand of two other-thans."""
     return nand(nand(a, a), nand(b, b))
 
 
 def now_existing(now_co_observing, now_possibling):
-    """1-now-existing for one name, by nand alone: to its next-co-possibling and its next-co-observing."""
     next_observing_plus = next_observing_minus = False
     for now_observing_plus, now_observing_minus in now_possibling:
         next_observing_plus = either(next_observing_plus, now_observing_plus)
@@ -115,6 +110,12 @@ say("L5. v406geodesic2's drafts 25 to 27 say giving, and its drafts 28 to 30 say
     all(givings[k] > 0 for k in (25, 26, 27)) and all(givings[k] == 0 for k in (28, 29, 30)))
 say("L6. Draft 25 has the four by the living code's numbers, 3 and 2 given, to 11 and 10",
     "the living code's 3 and 2, to 11 and 10" in re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", (artboards / "Draft25.dc.html").read_text(encoding="utf-8"))))
+
+import io
+import tokenize
+comments = [k for k in tokenize.generate_tokens(io.StringIO(NATURAL_CODE).readline) if k.type == tokenize.COMMENT]
+docstrings = [n for n in ast.walk(tree) if isinstance(n, ast.Expr) and isinstance(n.value, ast.Constant)]
+say("L7. The code carries no story: no docstring and no comment in its lines", not comments and not docstrings)
 
 broken = {}
 exec(NATURAL_CODE.replace("next_observing_plus = either(next_observing_plus, now_observing_plus)",

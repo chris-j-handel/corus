@@ -4,6 +4,7 @@ L3. Its names are the living code's own: now-existing, now-co-observing, now-pos
 L4. No name of the lines is a giving (is)
 L5. v406geodesic2's drafts 25 to 27 say giving, and its drafts 28 to 30 say none (is)
 L6. Draft 25 has the four by the living code's numbers, 3 and 2 given, to 11 and 10 (is)
+L7. The code carries no story: no docstring and no comment in its lines (is)
 M1. With line 3 saying both in the place of either, L1 says is-not (is)
 
 All is.
