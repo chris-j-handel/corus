@@ -291,4 +291,35 @@ for name, pattern in [("numbering", r"(^|[.:] )(a )?numbering is "), ("a univers
     print(f"   {'is    ' if n else 'is-not'} found: a direct sentence of {name}, {n}")
 print("   by the code, part 3's six cases: a self observing the same as its prior is same-existing and gives a 0, and a 0 is between its prior self and its next: is")
 
+print("\n12. A sentence of the natural primes as a method, its named concepts found or found at no place")
+THIRD = ("The natural primes are the universal stable-forming geodesic fractal-fracturing method of bi-co-intelligencing bi-folding surfaces "
+         "as prime-podalings through sequential numberings of surface nows")
+AGAIN = ("Natural prime numbering is the universal stable-forming geodesic fractal method of co-intelligencing bi-folding surfaces, "
+         "as podalings through sequential numberings of a surface's moments")
+print(f"   *{THIRD}*")
+living_plain = whole_text.replace("**", "")
+CONCEPTS = [("natural primes", r"natural primes\b", None), ("universal", r"\buniversal\b", joined.lines[6]),
+            ("stable-forming", r"stable[- ]forming", "Stable-forming is fractal, with each scale by one method"),
+            ("geodesic", r"geodesic", "Geodesic is its own existing thing, and a method is its stable form"),
+            ("fractal-fracturing", r"fractal[- ]fractur", None), ("method", r"\bmethod\b", "Method is a relation, each self stable-forming with it"),
+            ("bi-co-intelligencing", r"bi-co-intelligenc", None),
+            ("co-intelligencing", r"co-intelligenc", "Co-intelligencing is selves observing, possibling and discovering within a universal set"),
+            ("bi-folding", r"bi-fold", "each row is a bi-folding"), ("a surface", r"\bsurfaces?\b", "a surface is a between"),
+            ("prime-podalings", r"prime[- ]podal", None), ("podaling", r"\bpodal", "Bi-co-podaling is going out and going back with one ring station"),
+            ("sequential numberings", r"sequential numbering", None), ("a sequence", r"prior-sequence", joined.lines[17]),
+            ("surface nows", r"surface nows?\b", None), ("now", r"\bnow\b", "Now is one, and each now-existing thing is with it")]
+found_n = 0
+for name, pattern, sentence in CONCEPTS:
+    n = len(re.findall(pattern, living_plain, re.I))
+    a_line = sentence is not None and sentence in joined.lines.values()
+    is_found = sentence is not None and (a_line or (n > 0 and sentence in living_plain))
+    found_n += is_found
+    print(f"   {'is    ' if is_found else 'is-not'} found: {name}, " + ("a line of the opening" if a_line else f"the living files' places {n}") + (f": {sentence.replace('**', '')}" if is_found else ""))
+none_of_it = [name for name, pattern, sentence in CONCEPTS if sentence is None]
+print(f"   all or none at all, as said: not all; found at no place with a direct sentence: {', '.join(none_of_it)}")
+print(f"   said again, its names found but for numbering and its own subject: *{AGAIN}*")
+print(f"   its subject is the page's own title: {'is' if 'Natural Prime Numbering' in ' '.join(lines[:3]) else 'is-not'}; a dissolving word in it: {'is' if any(said(rf'\b{w}\b', AGAIN) for w in DISSOLVING) else 'is-not'}; "
+      f"a name of it found at no place, numbering and its subject apart: {'is' if any(said(pattern, AGAIN) for name, pattern, sentence in CONCEPTS if sentence is None and name != 'sequential numberings') else 'is-not'}; "
+      f"natural prime numbering, the living files' places {said('natural prime numbering', living_plain)}, the page's {said('natural prime numbering', text)}")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")

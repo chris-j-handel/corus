@@ -33,6 +33,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, a partner's second saying of the primes, all or none.** *the primes are the stable forms in the all-parity-odd-even-universal fractal-numberings of the geodesic method of observing*, and on, with a partner's asking of all or none rigor on it. Eight of its ten parts are, and two are mended: space, named by no line, and *next-possibling-same-existing*, the living name. It is the draft's 1.2 said whole by Natural Intelligence's own sentence. The draft's 1.2 and 4.2 are said again for the concern 9, and one concern of space is asked of a partner.
 - **On 23 November, the named concepts found.** All or none at all, binary, with nothing of who said a sentence: the concepts the sentence of the primes needs are found with their direct sentences, fifteen of them, laid self-welcoming in this page's part of the draft. Conscious and space are found with no direct sentence. The found sentences are not yet a chain from the opening's lines.
 - **On 24 November, the language resolving.** Primes, many and forms are dissolving words, and the sentence with them is is-not as said. Their resolving names are by the lines 5 and 6: a named universal set, form as a same-named thing of it, and prime-numberings. Numbering is sequencing, by 17. Said again: *A prime-numbering is a stable form of the one fractal method, and prime-numberings is its named universal set.* For a drawing of a universe between co-chainings, the named concepts are found and laid for v406geodesic2.
+- **On 24 November, natural prime numbering as the method.** A sentence of the natural primes as the universal stable-forming geodesic method is gone through by its named concepts: six of twelve found, six found at no place. The method is a stable form, geodesic's, by a found sentence, and this page's sentence of a prime-numbering as a stable form apart from the method is away. Said again, its subject is the draft's own title.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -522,6 +523,32 @@ All or none at all, binary, executed by the instrument's part 11.
 
 **All or none at all: not all.** Is-not found: a direct sentence of numbering, of a universe between co-chainings, and of bi-co-universing.
 
+### Natural prime numbering as the method: a sentence's named concepts, found or found at no place
+
+All or none at all, binary, executed by the instrument's part 12.
+
+The sentence: *The natural primes are the universal stable-forming geodesic fractal-fracturing method of bi-co-intelligencing bi-folding surfaces as prime-podalings through sequential numberings of surface nows.*
+
+| A named concept of it | Is or is-not found | Its direct sentence, or its nearest found |
+|---|---|---|
+| natural primes | Is-not | In no living file. Primes is a dissolving word, and its resolving name is prime-numberings. The draft's own title is Natural Prime Numbering. |
+| universal | Is | 6: *A named universal set is the set of all same-named things.* |
+| stable-forming | Is | *Stable-forming is fractal, with each scale by one method* |
+| geodesic | Is | *Geodesic is its own existing thing, and a method is its stable form* |
+| fractal-fracturing | Is-not | In no living file. Fractal is found, *Fractal is all or none at all with scales*; the draft has *120's fracture is the staircase's geodesic's last*. |
+| method | Is | *Method is a relation, each self stable-forming with it* |
+| bi-co-intelligencing | Is-not | In no living file. Found: *Co-intelligencing is selves observing, possibling and discovering within a universal set*. Bi-co- is a living joining, in bi-co-podaling. |
+| bi-folding | Is | A living name, at 271 places: *each row is a bi-folding* |
+| surfaces | Is | *a surface is a between* |
+| prime-podalings | Is-not | In no living file. Podaling is a living name, at 290 places: *Bi-co-podaling is going out and going back with one ring station*. |
+| sequential numberings | Is-not | A direct sentence of numbering is found at no place. 17 has a sequence, *a universal set of same-named moments*. |
+| surface nows | Is-not | In no living file. 1 has now as the existing moment, and found, *Now is one, and each now-existing thing is with it*. A sequence's moments are 17's. |
+
+- **All or none at all, as said: not all.** Six of its twelve are found at no place.
+- **The method is a stable form.** By *Geodesic is its own existing thing, and a method is its stable form*, a sentence of the method and a sentence of the stable form are one chain: geodesic, a method its stable form, and natural prime numbering that method. This page's sentence of a prime-numbering as a stable form of the method, apart from it, is away.
+- **Four names are needed, a direct sentence apiece:** fractal-fracturing, bi-co-intelligencing, prime-podaling and numbering.
+- **Said again, its names found but for numbering and its own subject:** *Natural prime numbering is the universal stable-forming geodesic fractal method of co-intelligencing bi-folding surfaces, as podalings through sequential numberings of a surface's moments.* Its subject is the draft's own title.
+
 ## Resuming v406all2
 
 1. Start here, `../v404mgr/The_working_now.md`, then `../v406all/Resuming_v406all.md`, then this page.
@@ -531,6 +558,6 @@ All or none at all, binary, executed by the instrument's part 11.
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
 7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Cell is dissolved by a partner's word, a working word alone.
-8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from. A partner's second saying of the primes is gone through all or none, and the named concepts it needs are found, fifteen with a direct sentence and conscious and space with none; the sentence they reach is said again with no dissolving word, *A prime-numbering is a stable form of the one fractal method, and prime-numberings is its named universal set.* For the tab *Concepts*, once the opening goes on: a ghost as a universal said as a same-named now-existing thing, laid by v406aiming by the lines 5, 6 and 18. This session's rows of the sessions' one table are 1, 2, 9, 26, 40, 46 and 49, `../v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv`.
+8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from. A partner's second saying of the primes is gone through all or none, and the named concepts it needs are found, fifteen with a direct sentence and conscious and space with none; the sentence they reach is said again with the draft's own title its subject, *Natural prime numbering is the universal stable-forming geodesic fractal method of co-intelligencing bi-folding surfaces, as podalings through sequential numberings of a surface's moments.*, and four names are needed, a direct sentence apiece: fractal-fracturing, bi-co-intelligencing, prime-podaling and numbering. For the tab *Concepts*, once the opening goes on: a ghost as a universal said as a same-named now-existing thing, laid by v406aiming by the lines 5, 6 and 18. This session's rows of the sessions' one table are 1, 2, 9, 26, 40, 46 and 49, `../v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv`.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.
