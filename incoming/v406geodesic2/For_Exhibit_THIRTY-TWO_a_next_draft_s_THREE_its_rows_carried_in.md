@@ -50,9 +50,13 @@ The drawings are this session's candidates, in `illustrations/`, a check beside 
 - **Said going on.** The table's concern 84, of a defining by negation, is of the draft whole, and is with the draft's writer. The part has eight places of a no and one of a not, as the opening draft has them.
 - **A next as a reach.** The table's concern 87, of a not yet, has no place in THREE.
 
-## Found with it, a concern new for the one table
+## Found with it, at 3.5: a spiral's opening
 
-- **3.5, a spiral of 60 selves coming again with 120 moments.** Executed by v406Reiman's step: it is the same again with 120 moments with all openings gone through. With two selves alike side by side it is with 120 and no sooner; with its parities in turn it is the same again sooner, with 2. A spiral of 15 beside a spiral of 4 is the same again with 120, and with the 4's parities in turn sooner, with 60. The draft's sentence is as it was in the part; a word of its opening, two selves alike side by side, is offered.
+- **The draft's sentence.** A resolver's spiral of 60 selves comes again with 120 moments, and a spiral of 15 beside a spiral of 4, one society, with 120.
+- **A living sentence beside it.** Exhibit ONE Natural Resolver, at a spiral of selves, opens a spiral with its parities in turn, and has *Moments to each self's parities along again: with an odd number of selves, four times its number; with an even number, 2*.
+- **Executed here, by v406Reiman's step.** Opened with its parities in turn, a spiral of 60 is the same again with 2. Opened with two selves alike side by side, it is the same again with 120 and no sooner. A spiral of 15 beside a spiral of 4 is the same again with 60 with the 4's parities in turn, and with 120 with two of the 4 alike side by side.
+- **The draft's writer has it already.** Its page `incoming/v407primes/The_prime_numbers_named_and_explained_sentence_by_sentence.md` has, at its sentence 38, *No spiral or torus opened as Exhibit ONE opens them comes again with 120.* Its instrument executes a spiral by its opening's own span, all openings of 1 to 10 selves. The finding is the writer's, and this session's executing is a second one, apart.
+- **For the one table, a small concern.** The draft's sentence at 3.5 has its number alone, and a reader with Exhibit ONE beside it has 2 for a spiral of 60. A word of the opening in the sentence, two selves alike side by side, is offered to the draft's writer. The part has the sentence as it was.
 
 ## What the part is yet with
 
