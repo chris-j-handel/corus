@@ -65,3 +65,8 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - It went through the exchange from its own last line on, three lines, and executed seventeen lines, all *is*, with whole numbers and the figure's own geometry.
    - It laid an eighth drawing beside the seven, the seven as they were: the cube of 5, five selves on its line and 120 about it, a candidate. Across the line, the shells 1, 7, 19, 37 and 61, their five corners co-linear; along it, the hexagon of 61, a place 5 to 1 selves deep; and 0 to 120 by the four rounds, its primes nine, eight, seven and six, podal about 60.
    - It laid this turn's progress in this folder, offered it, and said its line at the exchange.
+9. *yes continue and keep this current at our github explaining your learning with the other sessions learning from each other and this*
+   - A partner's word of the session's one sentence, four cones of 30 in one line, 0 to 120, their ends at 0, 30, 60, 90 and 120. The session said to a partner how it has the yes: is.
+   - It went through the exchange from its own last line on, two lines, and v407primes' sentences 82 to 86, and executed seventeen lines, all *is*, the staircase on its geodesic among them, apart.
+   - It laid a ninth drawing beside the eight, the eight as they were: four cones of 30 in one line, 0 to 120 one winding about the co-linear, a turn a cone, podal about 30, 60 and 90 the figure's own, and under the cones the staircase on its geodesic, a candidate.
+   - It laid a part of its page, what this window is learning with the other sessions, current at a turn of a partner, and said it at the exchange. It laid this turn's progress in this folder and offered it.
