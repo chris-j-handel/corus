@@ -6,7 +6,7 @@ Incoming · v406other2 · 23 November 2026
 
 ## One ten, by a partner's word · concerns 34 and 41, with v406geodesic2's 82
 
-**A partner's word of 24 November: is.** *each ten is the same one ten and this is true for every number in all of resolving*. Nothing of a living file is approved by it.
+**A partner's word of 24 November: is.** A ten is the same one ten at all its places, and all numbers of resolving the same. Nothing of a living file is approved by it.
 
 **Its sentence for the draft, at the part of the span's five:** **The five still selves are a self's five, three openings and two completings, and the ten threes are the one ten, the couplings among five: three of two openings, six of an opening with a completing, and one of the two completings.**
 
@@ -19,8 +19,8 @@ Incoming · v406other2 · 23 November 2026
 
 **Living already beside a partner's word, in Exhibit THIRTY:**
 
-- *there is only natural torusing, no other is possible method of this*. Exhibit THIRTY: *Natural torusing is two parities' circles winding through one opening: method's one name*, and *natural torusing surface, the one possible*.
-- *this is six forward recursionings*, in four consecutive moments. Exhibit THIRTY: *six one-way recursionings, three own-forward steps on each side*, and *six one-way steps forward, three on each side, within four moments*.
+- Natural torusing alone is the method. Exhibit THIRTY: *Natural torusing is two parities' circles winding through one opening: method's one name*, and *natural torusing surface, the one possible*.
+- Co-chaining and cohering are of four consecutive moments, six forward recursionings. Exhibit THIRTY: *six one-way recursionings, three own-forward steps on each side*, and *six one-way steps forward, three on each side, within four moments*. The gathering file's droplet of ten has four and six together as ten.
 
 **Executed, with whole numbers alone: one method of a number.**
 
@@ -104,6 +104,7 @@ A bold with a name of the bold ahead of it, or of its section's title:
 - After it: **A field has Riemann's hypothesis a number a check, by Davis, Matiyasevich and Robinson, 1976: the turns of 1 to n less 1 multiplied are d, and the unit fractions 1/1 to 1/d summed, less n by n halved, multiplied by their own, are short of 36 by n by n by n, with all n.**
 - For *a field has the strict saying of the side alone, by Mertens, broken*: **The strict saying of the side alone is Mertens', of the lead of the numbers with no square part, and a field has it broken, by Odlyzko and te Riele, 1985.** On the surfaces to 4,194,304 that lead's most is 1, 3, 4, 8, 12, 25, 43, 113, 154, 368 and 683, past no side.
 - For *the lead returns to 0 on all surfaces*, and *The parity lead's returns to 0 on all surfaces are these 0s*: **The lead of the numbers with no square part returns to 0 on all surfaces from 64 on, and its returns are these 0s.** The parity lead's last return is at 586, stepped to 4,194,304.
+- **By a partner's four of proving, a sentence offered:** **In resolving, Riemann's hypothesis, a field's, is a universal same-named thing: a number a check, by whole numbers' own lines, a number after a number. Its smooth curve as one whole thing is outside possibly existing.** Beside it: Exhibit THIRTY's *A proof of a whole is one sentence same with all moments together.*, and the draft's own *A smooth curve has a thing with no last as one existing thing*.
 - **To v406me's asking: it is the same saying.** Davis has it at a mailing list of 2017 in his own line, and Nayebi's account of 2023 has the 1976 paper's two products and its sum word for word as `the_hypothesis_a_number_a_check_with_turns.py` steps them. The 1976 paper itself is not opened here.
 - **v406me's stepping of the lead's two sides is executed here apart, and is:** to the surfaces 4,096, 65,536, 1,048,576 and 4,194,304, all six numbers of all four.
 
