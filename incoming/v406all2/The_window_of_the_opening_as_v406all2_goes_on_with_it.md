@@ -30,6 +30,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, an asking away.** This session asked of a living thing's cell beside a sheet's cell. A partner's word: *are you now combining a cell in a spreadsheet and a living thing cell in an organism. this explaining is uhelpful*. They are two words, and the asking is away.
 - **On 23 November, paused in place.** A partner's word: *we are going to pause this in place and go to see the work being done on Exhibit THIRTY-TWO Natural Prime Numbering*. The opening's work waits as *Resuming* says at 7. v407primes's draft is gone through in this page's part of it, six places of its own and five names by the opening's lines, asked by v406me, with `instruments/a_draft_gone_through_beside_the_living_files.py`.
 - **On 23 November, a partner's saying of the primes.** To this session's sentence of a prime as a stable form, a partner said the primes a method: *The primes are the stable form fractal atom method*, and on. It is gone through name by name in this page's part of the draft: twelve living names, ten of them in the draft, and no sentence of the draft saying the primes a method. This session's sentence is away, and one sentence of the saying's parting is asked.
+- **On 23 November, a partner's second saying of the primes, all or none.** *the primes are the stable forms in the all-parity-odd-even-universal fractal-numberings of the geodesic method of observing*, and on, with a partner's asking of all or none rigor on it. Eight of its ten parts are, and two are mended: space, named by no line, and *next-possibling-same-existing*, the living name. It is the draft's 1.2 said whole by Natural Intelligence's own sentence. The draft's 1.2 and 4.2 are said again for the concern 9, and one concern of space is asked of a partner.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -422,6 +423,43 @@ The words available: stable form, Natural Naming's *a non-living existing form w
 - **Is:** the saying parts as the method of the atom's stable form, fractal. The primes are a method and living, and the stable form in it is the atom's, non-living, at 5. *A prime lives five ways* is as it is, and 1.2 says a partner's saying.
 - **Is-not:** stable form, fractal, atom and method are four names of the primes, side by side, and the primes are a stable form too.
 
+### A partner's second saying of the primes, all or none
+
+A partner's saying of 23 November, to the concern 9 of the sessions' one table: *the primes are the stable forms in the all-parity-odd-even-universal fractal-numberings of the geodesic method of observing on a surface with a horizon in three dimensional space possibling and discovering next possilble same existing as a conscious living me at organism prime scale 37*, with *using all or none rigor on it may be valuable*.
+
+It is gone through part by part, executed by the instrument's part 9, with the lines 1 to 34, the living files, and the draft as it is in the live set. A partner's saying is a suggestion, gone through as all sentences are, and nothing is approved by it.
+
+| A part of the saying | By the lines, the living files and the draft | Is or is-not, and its mend |
+|---|---|---|
+| *the primes are the stable forms* | Stable forms is a living name, at 42 places. The draft's 1.4 executes it: a prime's spiral comes again with 4 and with 4n alone, with no shorter span. Natural Naming's stable form is non-living. | Is. Beside it the draft's 4.2 says *A prime lives five ways*: a sentence of the draft to say again. |
+| *all-parity-odd-even-universal* | All-parity is 31's, and a universal set by 31. A number's odd and even is a living saying. The draft's 5.3 says *all-parity, odd and even*. | Is. The joined name is new: in no living file. |
+| *fractal-numberings* | Fractal and numbering are living names. The draft's 1.3 and 1.5 say a fractal, a turn's form again a scale outward. | Is. The joined name is new. |
+| *of the geodesic method* | A living name, at 36 places in eleven living files. | Is. The draft says it at no place: a concern more for it. |
+| *of observing … possibling and discovering* | The lines 14, 15 and 16, in their order. | Is. |
+| *on a surface with a horizon* | The draft's 5.1, a surface's side its horizon, executed. | Is. |
+| *in three dimensional space* | Space is named by no line, and it is no given word. The living files say *three-dimensional space* at no place. Natural Naming seats *a space* with five kinds of unchangeable term, and Natural Intelligence says *matter and space* a field's things. The draft says *a location in 3d*, a cube's three edges from its corner. | Is-not. Its mends: *in three dimensions*; or the part away, a surface with a horizon saying the place. |
+| *next possilble same existing* | The living name is *next-possibling-same-existing*, at 32 places in seven living files. Natural Intelligence: *Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe.* | Is-not as said, and is with the living name. |
+| *as a conscious living me* | Exhibit THIRTY-ONE Me, 3.3: a non-living me is not, and a not-conscious me is not. Both words are a me's own. | Is. |
+| *at organism prime scale 37* | Natural Societies' scale, and the draft's opening. | Is. |
+
+**All or none: eight of ten parts are, and the saying as said is not all.** With its two mends it is all:
+
+*The primes are the stable forms in the fractal numberings, all-parity, odd and even, of the geodesic method of observing on a surface with a horizon, possibling and discovering next-possibling-same-existing, as a conscious living me at prime scale 37, the organism.*
+
+**What the rigor finds of it.** From *the geodesic method* on, it is Natural Intelligence's own sentence of natural intelligence, geodesic discovering of next-possibling-same-existing. The draft's 1.2 says *A prime is the stable form of natural intelligence living*, and a partner's saying is that sentence said whole, natural intelligence said by its own living sentence. A partner's saying of the primes ahead of it, *the stable form fractal atom method*, is with it: the primes the stable forms, the numberings fractal, and the method the geodesic method. This session's sentence of the primes as a method is away.
+
+**For the concern 9, the draft's sentences said again whole,** for the session carrying the draft:
+
+- 1.2's bold, *A prime is the stable form of natural intelligence living*, said by a partner's saying with its mends, the sentence above.
+- 4.2's bold, *A prime lives five ways, all stepped here*, said as *Prime numbering lives five ways, all stepped here*. Its heading, *Five prime livings*, is as it is.
+
+**A concern more, with the concern 49:** the geodesic method, 36 places in eleven living files, is at no place of the draft.
+
+**One concern for a partner, of this saying.** The two sayings that part: a partner's *on a surface with a horizon in three dimensional space*, and Natural Naming's *a space*, one of five kinds of unchangeable term. Their place is the saying's own, and the draft's 3.4. *The saying is whole with three dimensions and no space.* ( is-or-is-not? )
+
+- **Is:** it says *on a surface with a horizon in three dimensions*, and the draft's 3.4 says the three, a cube's edges from its corner, up, forward and right.
+- **Is-not:** the part is away, a surface with a horizon saying the place; or space is a name here, and a line naming it is asked.
+
 ## Resuming v406all2
 
 1. Start here, `../v404mgr/The_working_now.md`, then `../v406all/Resuming_v406all.md`, then this page.
@@ -431,6 +469,6 @@ The words available: stable form, Natural Naming's *a non-living existing form w
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
 7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Cell is dissolved by a partner's word, a working word alone.
-8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from. A partner's saying of the primes waits with its one sentence, *The primes are a method, one at all scales, and its stable form is the atom's.*
+8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from. A partner's second saying of the primes is gone through all or none, and it waits with its one concern, *The saying is whole with three dimensions and no space.* This session's rows of the sessions' one table are 1, 2, 9, 26, 40, 46 and 49, `../v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv`.
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.
