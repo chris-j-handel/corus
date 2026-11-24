@@ -382,4 +382,13 @@ The session:
 version, a note beside the living sentence it concerns, with its instrument. A partner's four of proving
 is beside Exhibit THIRTY's own sentences of a proof of a whole. Its one concern with a partner is the
 bridge's sentence. A partner's words in its page are said, and quoted no more]
+
+A partner, on 24 November at 06:57:
+continue
+
+The session:
+[ten lean notes more offered into Exhibit THIRTY's gathering file of the next version: a now-existing me
+as a universal set of me-parities, two cones about a self, a place in resolving, the names 1 to 9 by the
+code's lines, and Natural Prime Numbering's numbers beside the sentences of φ, of a prime, of 120 and of
+twenty-four. Four things searched ahead of a note are living already, and have none]
 ```
