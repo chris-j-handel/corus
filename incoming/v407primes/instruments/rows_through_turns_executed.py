@@ -199,3 +199,13 @@ print("  Descartes: square part round 120", D % 120, "| its odd prime part 22,02
       22021 % 4 == 1, "| ghosts passing both closings round 120:",
       [x % 120 for x in (2757241, 6368689, 9863461)], "| quarter turns at 1, 49 or 61:",
       [r for r in (1, 49, 61) if r * r % 120 == 49])
+
+# A right spiral of prime numbering, 1 to 37: four quarter turns a round, a round's fourth
+# closing it. Its closings against the cube shells n cubed less (n - 1) cubed, 1, 7, 19, 37, 61.
+pr = [p for p in range(2, 60) if is_p(p)]
+rounds = [pr[i:i + 4] for i in range(0, 16, 4)]
+shells = [n ** 3 - (n - 1) ** 3 for n in range(1, 6)]
+print("\nRounds of four primes:", rounds, "| closings:", [r[-1] for r in rounds], "| shells:", shells,
+      "| three rounds close on shells 7, 19, 37:", [r[-1] for r in rounds[:3]] == shells[1:4],
+      "| the fourth closes at", rounds[3][-1], "and 61 is past it:", shells[4] not in rounds[3],
+      "| 37 is prime number", pr.index(37) + 1)
