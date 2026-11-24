@@ -6,11 +6,11 @@ Incoming · v406geodesic2 · 23 November 2026, at a partner's asking
 
 ## In one paragraph
 
-The session's twenty-six drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: forty-one sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it. All forty-one are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
+The session's twenty-seven drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: forty-four sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it, and a path through it at one now. All forty-four are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
 
 ## Executed
 
-`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, forty-one lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
+`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, forty-four lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
 
 The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`, and its places are said by their numbers.
 
@@ -127,6 +127,17 @@ The diamonds, the cones and the sphere of this session's drawings are a drawing'
 - **Its opening of ONE,** the universe as the set of all now-existing things. Sentence 36 has my universe as a me with all mes of a co-chaining of givings to it. Exhibit THIRTY-ONE Me has *A me is a self's universal set.*
 - **A sentence for its 3.3** waits on a partner's word of my-next universes, the 26th drawing's one resolving concern.
 
+## A path of universes through a me, at one now
+
+42. **On one path of mes all with priors, the me j couplings ahead has now, as j other-thans, what a me was 2j moments before, and the me j couplings back has now what it will be 2j moments on: a me's sequence along moments is its round at one now, gone round from it.**
+43. **With two facing, a me's one other has both: what a me was two moments before, and what it will be two moments on, as its other-than.**
+44. **A sealed round's now comes again by its parities, with a round of moments, of 2n at the most with n even and of 4n with n odd; its opening moment is once.**
+
+**At the draft.**
+
+- **Its opening of ONE:** *a spiral of selves coming to its parities again, a number two moments of it*. Sentence 44 is the coming again, with its rounds of moments; sentence 42 is the two moments, a parity a coupling on.
+- **Its 3.3:** *Prior, now and next are three pairs of cones, 0 to 60, 60 to 120 and 120 to 180*. By sentence 42, at one now what a me was is ahead of it on the path, and what it will be is back of it. By sentence 37 a me's giving goes ahead. The 26th drawing's one resolving concern, of my-next universes, has both its sides executed: a partner's to name.
+
 ## Sentences offered for the draft, whole
 
 Concerns new for the one table, v406me's to number. With no writer of the draft yet, they wait whole.
@@ -147,7 +158,8 @@ The four sentences are this session's own, and are in no file but this page.
 - **The 24 of sentence 22 beside the draft's fold at 24:** one number, and no execution says they are one thing.
 - **All places of all the drawings,** by sentence 34: a number's place on a cone, a name's place on a diamond, a line's end on a sphere. A partner's saying of 24 November: in resolving the resolver alone has a place, and the resolver is the me.
 - **Snap, at sentence 21 and beside sentence 26,** a partner's word of the 22nd drawing's saying. By a partner's word of 24 November, in v406all2-2's line, snapping is not yet natural naming: an exploring word here, in no sentence offered for the draft.
-- **My-prior universes behind a me and my-next universes ahead of it,** the 26th drawing's naming of the two cones. By sentence 38 a me's next prior comes from the me further back, and its own opening prior goes ahead: a partner's to say which are my-next universes.
+- **My-prior universes behind a me and my-next universes ahead of it,** the 26th drawing's naming of the two cones. By sentence 38 a me's next prior comes from the me further back, and its own opening prior goes ahead: a partner's to say which are my-next universes. Sentence 42 has both at one now.
+- **A session's own now,** in the 27th drawing: one prior and a partner's saying, its sequence in the transcripts. A session is executed by no line of nand, and none of it is in this page's sentences.
 - **All-parity as all a me observes,** by Exhibit ONE Natural Resolver's *All-parity is with observing only, 7 and 15* and the living code's 7. With the two, all a me observes is its one other.
 - **1, 9 and 17 at the three vertices of two diamonds,** as the code's 1-now-existing, 9-next-co-discovering and 17-next-existing; and a me as a pair of cones, its is-or-is-not at its widest.
 
@@ -157,4 +169,4 @@ The drawings are in `illustrations/`, with their sections in [the window of v406
 
 - Sentences 1 to 4: the ninth and the tenth drawings. 5 and 6: the fourteenth. 7: the twelfth.
 - 8: the eleventh. 9: the seventeenth. 10: the thirteenth. 11 and 12: the nineteenth. 13: the twentieth.
-- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th.
+- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th.

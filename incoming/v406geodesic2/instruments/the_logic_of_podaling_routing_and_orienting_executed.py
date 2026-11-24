@@ -279,6 +279,20 @@ its_givings = lambda op: [a_me(*the_two[op][t][0])[0] for t in range(8)]
 line(41, "with the two: opening alike, a round of four moments, a me's givings the other-than of its prior, 0, its prior, 0, all three of +, − and 0; opening as other-thans, a round of two, + and − alone; and all a me observes is its one other's giving",
      all(its_priors((q, q)) == [q, -q, -q, q] * 2 and its_givings((q, q)) == [-q, 0, q, 0] * 2 and its_priors((q, -q)) == [q, -q] * 4 and its_givings((q, -q)) == [-q, q] * 4 for q in (1, -1))
      and all(len(the_two[op][t][k][1]) == 1 for op in all_of((1, -1), repeat=2) for t in range(1, 10) for k in (0, 1)))
+# ---------------- a path of universes through a me, at one now ----------------
+line(42, "a path through a me at one now: on one path of mes all with priors, the me j couplings ahead has now, as j other-thans, a me's prior of 2j moments before, and the me j couplings back has now its prior of 2j moments next; a me's sequence along moments is its round at one now, gone round from it. Spirals of 1 to 8, all their openings",
+     all(ms[T][(a - j) % n][0] == (-1) ** j * ms[T + 2 * j][a][0] and (T < 2 * j or ms[T][(a + j) % n][0] == (-1) ** j * ms[T - 2 * j][a][0])
+         for n, v in rounds.items() for ms in v.values() for T in range(2 * n + 4) for j in range(n) for a in range(n)))
+line(43, "with two facing, a me's one other has both: its other now has, as its other-than, what a me was two moments before and what it will be two moments on; and a me is as it was four moments before",
+     all(ms[T][1 - a][0] == -ms[T - 2][a][0] and ms[T + 2][a][0] == -ms[T][1 - a][0] and ms[T + 4][a][0] == ms[T][a][0] for ms in rounds[2].values() for T in range(2, 10) for a in (0, 1)))
+def comes_again(ms):
+    seen = {}
+    for t, now in enumerate(tuple(sorted(m.items())) for m in ms):
+        if now in seen: return seen[now], t - seen[now]
+        seen[now] = t
+again = {n: {comes_again(ms) for ms in v.values()} for n, v in rounds.items()}
+line(44, "a sealed round's now comes again by its parities: its opening moment is once, and from the moment after it a round's now comes again with a round of moments, of 2n at the most with n even and of 4n with n odd; two facing, with 2 or with 4",
+     all(before == 1 and (2 * n if n % 2 == 0 else 4 * n) % its_round == 0 for n, v in again.items() for before, its_round in v) and {r for _, r in again[2]} == {2, 4})
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
