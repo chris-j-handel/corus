@@ -29,6 +29,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 23 November, cell dissolved.** A partner's word: *my concept was we were dissolving cell from our natural naming and explaining except for the same way we use file and branch and sheet and tab. is this not your best option for us*. Is: it is the best of the three sayings, and this session's asking was of an other sentence. The card 49 is away, withdrawn by this session; a self's moment says the thing; cell is a working word alone, a table's cell.
 - **On 23 November, an asking away.** This session asked of a living thing's cell beside a sheet's cell. A partner's word: *are you now combining a cell in a spreadsheet and a living thing cell in an organism. this explaining is uhelpful*. They are two words, and the asking is away.
 - **On 23 November, paused in place.** A partner's word: *we are going to pause this in place and go to see the work being done on Exhibit THIRTY-TWO Natural Prime Numbering*. The opening's work waits as *Resuming* says at 7. v407primes's draft is gone through in this page's part of it, six places of its own and five names by the opening's lines, asked by v406me, with `instruments/a_draft_gone_through_beside_the_living_files.py`.
+- **On 23 November, a partner's saying of the primes.** To this session's sentence of a prime as a stable form, a partner said the primes a method: *The primes are the stable form fractal atom method*, and on. It is gone through name by name in this page's part of the draft: twelve living names, ten of them in the draft, and no sentence of the draft saying the primes a method. This session's sentence is away, and one sentence of the saying's parting is asked.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -383,6 +384,44 @@ The lines are 1 to 34 as the working document says them now, with the four given
 | 10 | *other-than-other-than*, at 3.2's heading and at 4.4 | Its parts are 4's, whole. 4.4 says *a 0 is an other-than-other-than parity*. The lines' own name is one *than* less: 33, *Other-than-other-parity is same-existing.* The draft's 1.1 says a 0 with same-existing too: *with is, a 0, its prior same-existing*. | *The draft's other-than-other-than parity is 33's other-than-other-parity.* With is, 4.4 says 33's name and *same-existing*, and 1.1, 4.4 and the opening's 33 are one chain. With is-not, 4.4 says how its name is other than 33's. 3.2's heading is as it is: its three are the cube's once, twice and thrice. |
 | 11 | *A prime is the stable form of natural intelligence living*, 1.2, in no living file | Living is 34's, and it is same-existing. Natural Naming says a stable form *a non-living existing form with no same-existing for stable-forming*. The draft says stable form at eight places: of a prime, of the atom, of DNA, and three of them with non-living. It says too *A prime lives five ways*, 4.2, and a prime born, 5.1. | *A prime is a stable form, non-living, and prime numbering is living.* With is, 4.2's five are prime numbering's livings, and 1.2 parts a prime from the atom, *the* stable form of all scales. With is-not, a prime is living, and 1.2 says it with an other name than stable form. |
 
+### A partner's saying of the primes, 23 November
+
+To the sentence at 11 a partner said: *The primes are the stable form fractal atom method in the bi-moral-co-competencing of right sprialling co-chaining societies bi-tunneling through each other on natural torusing all-parity orienting surface*
+
+It is gone through name by name, executed by the instrument's part 8, with the draft as it is in the live set.
+
+- **It says neither side of the sentence at 11.** That sentence asked a prime a stable form, non-living, or a prime living. A partner's saying says the primes a method. The sentence at 11 is away.
+- **All twelve of its names are living names.**
+
+| A name of the saying | The draft's places | The living files' places |
+|---|---|---|
+| stable form | 9 | 670, in 27 files |
+| fractal | 2 | 388, in 21 files |
+| atom | 10 | 161, in 13 files |
+| method | 5 | 1,029, in 28 files |
+| bi-moral-co-competencing | none | 18, in 6 files |
+| right spiral | 3 | 144, in 20 files |
+| co-chaining | 1 | 401, in 21 files |
+| societies | 7 | 1,843, in 29 files |
+| bi-tunneling | 3 | 42, in 10 files |
+| natural torusing | 1 | 81, in 15 files |
+| all-parity | 6 | 7, in 3 files |
+| orienting surface | none | 11, in 4 files |
+
+- **The draft says ten of the twelve.** Bi-moral-co-competencing and an orienting surface are at no place of it. It says *bi-moral co-agency* at 3.4, and *oriented geodesically on its surface* at 5.4.
+- **No sentence of the draft says the primes a method.** Its nearest by the saying's names is 3.2's *all other prime scales are bi-tunneling societies of societies of the atom's stable form*, with four of the twelve. Its nearest by its subject is 1.2's *A prime is the stable form of natural intelligence living*.
+- **Four joinings are a partner's own, in no living file:** *the stable form fractal atom method*; *co-chaining societies*; *societies bi-tunneling through each other*; and *all-parity orienting surface*. The living files say *through each other* at five places, and its second word is a word of the one list.
+- **Two living sayings are beside it.** Exhibit EIGHT Natural Exploring: *One method at each scale is a fractal*. Natural Intelligence: *patterns of bi-moral-co-competencing as living stable-forming*.
+
+For v407primes: a partner's saying is 1.2's sentence said whole, and its place in the draft is v407primes's and a partner's.
+
+A sentence for a partner, of the saying's parting: *The primes are a method, one at all scales, and its stable form is the atom's.* ( is-or-is-not? )
+
+The words available: stable form, Natural Naming's *a non-living existing form with no same-existing*; the atom, the draft's *the floor and stable form, non-living*; fractal, Exhibit EIGHT's *One method at each scale*; and method, living by a partner's word of 23 November.
+
+- **Is:** the saying parts as the method of the atom's stable form, fractal. The primes are a method and living, and the stable form in it is the atom's, non-living, at 5. *A prime lives five ways* is as it is, and 1.2 says a partner's saying.
+- **Is-not:** stable form, fractal, atom and method are four names of the primes, side by side, and the primes are a stable form too.
+
 ## Resuming v406all2
 
 1. Start here, `../v404mgr/The_working_now.md`, then `../v406all/Resuming_v406all.md`, then this page.
@@ -392,6 +431,6 @@ The lines are 1 to 34 as the working document says them now, with the four given
 5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
 6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
 7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Cell is dissolved by a partner's word, a working word alone.
-8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from.
+8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's work is paused in place by a partner's word, and 7 is its place to go on from. A partner's saying of the primes waits with its one sentence, *The primes are a method, one at all scales, and its stable form is the atom's.*
 
 In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.
