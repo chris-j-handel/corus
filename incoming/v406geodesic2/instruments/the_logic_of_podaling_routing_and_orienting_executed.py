@@ -206,8 +206,93 @@ def mine_alike(more_couplings, more_priors, n=5):
     couplings, priors = dict(as_it_is.spiral_couplings(n)), dict(as_it_is.exhibit_spiral_priors(n)); alone = moments(couplings, priors, 4 * n + 2)
     couplings.update(more_couplings); priors.update(more_priors)
     return all({a: m[a] for a in range(n)} == mine for m, mine in zip(moments(couplings, priors, 4 * n + 2), alone))
-line(35, "a me that is neither mine nor an other of mine has all moments of mine the same as with none of it, non-existing in my resolving; and a me whose giving a me of mine observes, an other, has them other",
-     mine_alike({("x", 9): "y", ("y", 9): "x"}, {"x": -1, "y": 1}) and mine_alike({(0, 10): "z"}, {"z": 1}) and not mine_alike({("w", 9): 0}, {"w": 1}))
+def mine_other_at(more_couplings, more_priors, beside_couplings, beside_priors, n=5):
+    couplings, priors = {**as_it_is.spiral_couplings(n), **beside_couplings}, {**as_it_is.exhibit_spiral_priors(n), **beside_priors}
+    a, b = moments(couplings, priors, 4 * n + 2), moments({**couplings, **more_couplings}, {**priors, **more_priors}, 4 * n + 2)
+    return next((t for t in range(4 * n + 2) if any(a[t][k] != b[t][k] for k in range(n))), None)
+line(35, "my resolving is of a me and its others, co-chained: a me whose giving a me of mine observes, an other, makes moments of mine other, and an other's other two moments on; with mes more beside them, giving to one another or given to by mine, all moments of mine are the same",
+     mine_alike({("x", 9): "y", ("y", 9): "x"}, {"x": -1, "y": 1}) and mine_alike({(0, 10): "z"}, {"z": 1}) and not mine_alike({("w", 9): 0}, {"w": 1})
+     and mine_other_at({("u", 9): "w"}, {"u": 1}, {("w", 9): 0}, {"w": 1}) == 2)
+
+# ---------------- my universe: a me with its co-chainings; two cones; and two facing, sealed ----------------
+from itertools import product as all_of
+def moments_of(couplings, priors, how_many):                                  # as moments, a me with no prior opening with none
+    society = {k: ([("one", priors[k])] if priors[k] else [], []) for k in priors}; out = []
+    for _ in range(how_many):
+        out.append({k: (dict(pr).get("one", 0), tuple(sorted(v for _, v in ob))) for k, (pr, ob) in society.items()}); society = its.step_with_nand(society, couplings)
+    return out
+def has_it(m): return m[0], frozenset(v for v in m[1] if v)
+against, least = 0, {}
+for n, names in ((2, (9, 10)), (3, (9,))):
+    mes = tuple(range(n)); T = 2 * n + 2
+    for cs in all_of(mes + (None,), repeat=n * len(names)):
+        couplings = {(g, nm): cs[g * len(names) + i] for g in mes for i, nm in enumerate(names) if cs[g * len(names) + i] is not None}
+        far = n + 1; back = {(b, a): (0 if a == b else far) for a in mes for b in mes}
+        for (g, _), r in couplings.items():
+            if g != r: back[(g, r)] = 1
+        for k in mes:
+            for i in mes:
+                for j in mes: back[(i, j)] = min(back[(i, j)], back[(i, k)] + back[(k, j)])
+        all_of_it = {op: moments_of(couplings, dict(zip(mes, op)), T) for op in all_of((1, -1, 0), repeat=n)}
+        for op, base in all_of_it.items():
+            for b in mes:
+                for other_parity in (1, -1, 0):
+                    if other_parity <= op[b]: continue
+                    other = all_of_it[op[:b] + (other_parity,) + op[b + 1:]]
+                    for a in mes:
+                        if a == b: continue
+                        whole = next((t for t in range(T) if base[t][a] != other[t][a]), None)
+                        has = next((t for t in range(T) if has_it(base[t][a]) != has_it(other[t][a])), None)
+                        against += whole is not None and (back[(b, a)] == far or whole < back[(b, a)])
+                        if has is not None and back[(b, a)] != far: least[back[(b, a)]] = min(least.get(back[(b, a)], T), has)
+line(36, "a me's moments through k moments on are of its own prior and of the mes to k couplings back along givings: with a me further back made other, or a me beside its co-chainings, they are the same, in all societies of 2 mes with two names and of 3 with one, all their couplings and openings; and at k moments a me k couplings back has its own cases",
+     against == 0 and least == {1: 1, 2: 2})
+P9 = 9; torus = as_it_is.torus_couplings(P9, P9); me_now = (4, 4); with_none = {(a, b): 0 for a in range(P9) for b in range(P9)}; quiet = moments_of(torus, with_none, 6)
+def other_at(ms, who): return next((t for t in range(6) if has_it(ms[t][who]) != has_it(quiet[t][who])), None)
+cone_back = {((me_now[0] - b[0]) % P9, (me_now[1] - b[1]) % P9): other_at(moments_of(torus, {**with_none, b: 1}, 6), me_now) for b in with_none if b != me_now}
+from_me = moments_of(torus, {**with_none, me_now: 1}, 6)
+cone_ahead = {((b[0] - me_now[0]) % P9, (b[1] - me_now[1]) % P9): other_at(from_me, b) for b in with_none if b != me_now}
+a_cone = lambda reach: all((t == i + j) if i + j < 6 else t is None for (i, j), t in reach.items()) and [sum(1 for t in reach.values() if t == k) for k in (1, 2, 3)] == [2, 3, 4]
+line(37, "two cones about a me: on a torus, one me with a prior among mes with none is observed i along and j across from it from i + j moments on; back from a me are 2, 3 and 4 mes at 1, 2 and 3 moments, and ahead of it the same",
+     a_cone(cone_back) and a_cone(cone_ahead))
+rounds = {n: {op: moments_of(as_it_is.spiral_couplings(n), dict(enumerate(op)), 4 * n + 6) for op in all_of((1, -1), repeat=n)} for n in range(1, 9)}
+line(38, "on one path of mes all with priors, a me's prior at moment 2k is k other-thans of the opening prior of the me k couplings back, and its own opening prior is then, as k other-thans, the prior of the me k couplings ahead: one coupling in two moments, spirals of 1 to 8",
+     all(ms[2 * k][a][0] == (-1) ** k * op[(a - k) % n] and ms[2 * k][(a + k) % n][0] == (-1) ** k * op[a] for n, v in rounds.items() for op, ms in v.items() for k in range(2 * n + 2) for a in range(n)))
+def from_one_moment(n, T, L):
+    before, on = {}, {}
+    for ms in rounds[n].values():
+        before.setdefault(ms[T][0], set()).add(tuple(ms[t][0] for t in range(T - L, T))); on.setdefault(ms[T][0], set()).add(tuple(ms[t][0] for t in range(T + 1, T + L + 1)))
+    return {len(v) for v in before.values()}, {len(v) for v in on.values()}
+line(39, "both partial, the same both ways: from one moment of a me's, with a round of 3 to 8 mes gone round, its 2k moments before are in 2 to the k sequences and its 2k moments next in 2 to the k, one is-or-is-not in two moments, to the round's own",
+     all(from_one_moment(n, T, 2 * k) == ({min(2 ** (n - 2), 2 ** k)}, {min(2 ** (n - 2), 2 ** k)}) for n in range(3, 9) for T in (2 * n + 4, 2 * n + 5) for k in range(1, n + 1)))
+facing = {(0, 9): 1, (1, 9): 0}; the_two = {op: moments_of(facing, dict(enumerate(op)), 10) for op in all_of((1, -1, 0), repeat=2)}; sealed_out = 0
+for by_10 in all_of((None, "x", "y"), repeat=2):
+    for by_9 in all_of((None, "x", "y"), repeat=2):
+        cc = dict(facing); cc.update({(g, 10): r for g, r in zip((0, 1), by_10) if r}); cc.update({(g, 9): r for g, r in zip(("x", "y"), by_9) if r})
+        for op in all_of((1, -1, 0), repeat=4):
+            ms = moments_of(cc, dict(zip((0, 1, "x", "y"), op)), 10)
+            sealed_out += any(ms[t][k] != the_two[op[:2]][t][k] for t in range(10) for k in (0, 1))
+line(40, "two facing are sealed: with two mes more beside them, observing the two and giving to one another, all their couplings and all openings, all moments of the two are the same as with the two alone",
+     sealed_out == 0)
+its_priors = lambda op: [the_two[op][t][0][0] for t in range(8)]
+its_givings = lambda op: [a_me(*the_two[op][t][0])[0] for t in range(8)]
+line(41, "with the two: opening alike, a round of four moments, a me's givings the other-than of its prior, 0, its prior, 0, all three of +, − and 0; opening as other-thans, a round of two, + and − alone; and all a me observes is its one other's giving",
+     all(its_priors((q, q)) == [q, -q, -q, q] * 2 and its_givings((q, q)) == [-q, 0, q, 0] * 2 and its_priors((q, -q)) == [q, -q] * 4 and its_givings((q, -q)) == [-q, q] * 4 for q in (1, -1))
+     and all(len(the_two[op][t][k][1]) == 1 for op in all_of((1, -1), repeat=2) for t in range(1, 10) for k in (0, 1)))
+# ---------------- a path of universes through a me, at one now ----------------
+line(42, "a path through a me at one now: on one path of mes all with priors, the me j couplings ahead has now, as j other-thans, a me's prior of 2j moments before, and the me j couplings back has now its prior of 2j moments next; a me's sequence along moments is its round at one now, gone round from it. Spirals of 1 to 8, all their openings",
+     all(ms[T][(a - j) % n][0] == (-1) ** j * ms[T + 2 * j][a][0] and (T < 2 * j or ms[T][(a + j) % n][0] == (-1) ** j * ms[T - 2 * j][a][0])
+         for n, v in rounds.items() for ms in v.values() for T in range(2 * n + 4) for j in range(n) for a in range(n)))
+line(43, "with two facing, a me's one other has both: its other now has, as its other-than, what a me was two moments before and what it will be two moments on; and a me is as it was four moments before",
+     all(ms[T][1 - a][0] == -ms[T - 2][a][0] and ms[T + 2][a][0] == -ms[T][1 - a][0] and ms[T + 4][a][0] == ms[T][a][0] for ms in rounds[2].values() for T in range(2, 10) for a in (0, 1)))
+def comes_again(ms):
+    seen = {}
+    for t, now in enumerate(tuple(sorted(m.items())) for m in ms):
+        if now in seen: return seen[now], t - seen[now]
+        seen[now] = t
+again = {n: {comes_again(ms) for ms in v.values()} for n, v in rounds.items()}
+line(44, "a sealed round's now comes again by its parities: its opening moment is once, and from the moment after it a round's now comes again with a round of moments, of 2n at the most with n even and of 4n with n odd; two facing, with 2 or with 4",
+     all(before == 1 and (2 * n if n % 2 == 0 else 4 * n) % its_round == 0 for n, v in again.items() for before, its_round in v) and {r for _, r in again[2]} == {2, 4})
 for n, name_, ok in results: print(("is       " if ok else "is not   ") + f"{n}. " + name_)
 print(f"\n{sum(ok for _, _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, _, ok in results) else ": the logic is not, all or none"))
 sys.exit(0 if all(ok for _, _, ok in results) else 1)
