@@ -494,4 +494,19 @@ a row of all-or-none sentences with no last, or the side by a logarithm with its
 alone was Mertens' and Polya's, apart and broken. No fixed number of sides holds the straying, proved
 in 1914. Of equilibria: the frame of a curve with its error is their place in this problem, and the
 hair is the frame's own sentence of no settling; a measuring, and no fuzzying]
+
+A partner, on 24 November at 14:30:
+this is nature's grip on the universe and the field is oiling and polishing it smooth and admiring the
+gripping surfaces as if they are being forced from infinity and 0 into compression and this is no
+competency at all in the universe of conserving equilibria.
+
+without claiming the waves never line up. why not simply proves this with the resolver.
+
+The session:
+[proved with the resolver, for what the resolver has: its waves are the spirals. Stepped with its own
+code, spirals of 2, 3 and 5 selves side by side are again together with all 60 moments, 30 numbers,
+their turn, and with 7 more with all 420 moments, 210 numbers; a number past their together none of
+them is again, and 31 and 211 are primes. With all numbers by a turn: spirals line up at their turn,
+and one past it none does, a prime born. The curve's waves are no thing of the resolver. The
+hypothesis is not proved by it: a prime born past a turn is found by stepping alone]
 ```
