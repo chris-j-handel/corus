@@ -52,11 +52,11 @@ Exhibit THIRTY-TWO Natural Prime Numbering, a proposed contents
 
 ## Its sources in this folder
 
-- **The sentences**, `The_prime_numbers_story.md`, 1 to 126, executed by `instruments/the_prime_numbers_story_executed.py`, and by `instruments/odd_perfect_executed.py` and `instruments/rows_through_turns_executed.py`.
+- **The sentences**, `The_prime_numbers_named_and_explained_sentence_by_sentence.md`, 1 to 126, executed by `instruments/the_prime_numbers_sentences_executed.py`, and by `instruments/odd_perfect_executed.py` and `instruments/rows_through_turns_executed.py`.
 - **The resolving form**, `The_prime_resolving_form.md`: rows, the ten; columns, the prime livings; an interest a cell.
 - **The report**, `Prime_Numbers_A_Natural_Explaining_of_Sequential_Prime_Living.md`, its seven methods.
 - **Known interests for later**, `Known_interests_for_later.md`.
 
 ## Its cohering with prior naming
 
-A partner's word of 23 November: v406me manages its cohering with any prior naming of this work, the story, the report's title and the seven methods. Written in this session's folder alone; a living file is v406me's merging.
+A partner's word of 23 November: v406me manages its cohering with any prior naming of this work, the sentences file, the report's title and the seven methods. Written in this session's folder alone; a living file is v406me's merging.

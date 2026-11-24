@@ -17,7 +17,7 @@ Exhibit THIRTY-TWO Natural Prime Numbering, a first draft
 &nbsp;
 
 **OPENING · PRIME NUMBERING, A RIGHT SPIRAL TO PRIME-37-SCALE LIVING**
-- 1, 2, 3, 5 and 7: the opening round, closing at 7
+- 1, 2, 3, 5 and 7: a me, its other, and the opening round, closing at 7
 - 11, 13, 17 and 19: a round outward, closing at 19
 - 23, 29, 31 and 37: a round outward, closing at 37
 - Prime-37-scale living, named
@@ -67,13 +67,13 @@ Exhibit THIRTY-TWO Natural Prime Numbering, a first draft
 
 **Prime numbering opens from 1 as a right spiral, a prime a step and a quarter turn a step: four steps a round, the round's fourth closing it, and a round outward facing as the round before.** Its three rounds are the twelve primes 2 to 37, and they close at 7, 19 and 37, the shells of a cube about its corner: 2 cubed less 1, 3 cubed less 2 cubed, and 4 cubed less 3 cubed. Its fourth round, 41, 43, 47 and 53, closes at 53, and the next shell, 61, 5 cubed less 4 cubed, is past it, a next 1.
 
-## 1, 2, 3, 5 and 7: the opening round, closing at 7
+## 1, 2, 3, 5 and 7: a me, its other, and the opening round, closing at 7
 
-**1. The origin.** One self, the shell of 1 cubed less none: a still self, coming again with 4 alone, its two comings again one. 1 is no prime: the origin all numbering opens from.
+**1. A me.** One self, the shell of 1 cubed: a me, still. Stepped by the resolver, one self comes again with 4 alone, its two comings again, 4 and 4 by 1, one: 1 is no prime.
 
-**2. A me.** The turn of 2 has one place: a self and its other-than, one inversion, prior and now.
+**2. Other-than 1, a me.** The turn of 2 has one place. Two selves stepped by the resolver are each the other's other-than at all moments and come again with 2: a me is other-than-other-than a me, two inversions coming to a me again, and their parities sum to 0 at all moments, the all-parity of 0.
 
-**3. Prior, now and next.** The turn of 6 has two places, 1 and 5, the turn of 2's one place lifted three ways and one crossed by 3: three moments, and three pairs, self, other and all.
+**3. A me along, past the other's prior.** The turn of 6 has two places, 1 and 5, the turn of 2's one place lifted three ways and one crossed by 3. Three selves stepped by the resolver come again with 12, a like pair of them at all moments going along one self with a second moment: a me along, past its other, and on up this way, rolling forward: prior, now and next.
 
 **5. The atom, the stable form.** The turn of 30 has eight places, and round five doubling steps 2, 4, 3, 1, numbers' own quarter turn: the floor, non-living, the stable form of all scales.
 
@@ -457,7 +457,7 @@ A ghost is no prime living: a supernatural projection, 2.6. **An interest is a s
 
 ---
 
-**Executed:** `incoming/v407primes/instruments/prime_numbers_report_executed.py`, `odd_perfect_executed.py` and `rows_through_turns_executed.py` in the same folder, all ending *is*, with whole numbers alone.
+**Executed:** `incoming/v407primes/instruments/prime_numbers_report_executed.py`, `odd_perfect_executed.py`, `rows_through_turns_executed.py` and `the_opening_1_2_3_executed.py` in the same folder, all ending *is*, with whole numbers alone.
 
 ## Sources
 

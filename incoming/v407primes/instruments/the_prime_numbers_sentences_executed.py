@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""The prime numbers story, executed: each sentence of the story that numbers can execute.
+"""The prime numbers, named and explained, sentence by sentence, executed: each sentence numbers can execute.
 
-Usage:  python3 -I incoming/v407primes/instruments/the_prime_numbers_story_executed.py .
+Usage:  python3 -I incoming/v407primes/instruments/the_prime_numbers_sentences_executed.py .
 
 With whole numbers alone, by a partner's word of 23 November: no smooth curve, no logarithm and
 no decimal measuring. The numbers here are crossed by numbers' own dividing. v406Reiman's
