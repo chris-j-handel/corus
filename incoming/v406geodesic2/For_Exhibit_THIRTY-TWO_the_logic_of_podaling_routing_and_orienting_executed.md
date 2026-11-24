@@ -6,11 +6,11 @@ Incoming · v406geodesic2 · 23 November 2026, at a partner's asking
 
 ## In one paragraph
 
-The session's twenty-nine drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: fifty-one sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it, and a path through it at one now. A moment has its three at once, a next, a now and a prior. A universal-me-now is a single path, by nand. All fifty-one are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
+The session's thirty drawings teach by an eye. Under them is one logic, and this page says it in its order with no drawing asked: fifty-four sentences, a sentence going on from the ones before it. Podaling is one step, a number about a station. Routing is podalings in a row, through stations. Orienting is a step of a pair, and of a three. A turn says a thing with all numbers, and stepping says it to its horizon. Resolving is a me's moment, and two mes front to back. A place in resolving is a me, and beside it an other. My universe is a me with its co-chainings, two cones about it, and a path through it at one now. A moment has its three at once, a next, a now and a prior. A universal-me-now is a single path, by nand, and nand-nanding along it is a me again. All fifty-four are executed in one instrument, whole numbers alone, and its lines by nand alone open v406Reiman's cell from its own file.
 
 ## Executed
 
-`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, fifty-one lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
+`python3 -I incoming/v406geodesic2/instruments/the_logic_of_podaling_routing_and_orienting_executed.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, fifty-four lines by these sentences' numbers, all *is*, in some seconds. All or none: with one line not *is*, the logic is not.
 
 The draft is `incoming/v407primes/Exhibit_THIRTY-TWO_Natural_Prime_Numbering_first_draft.md`, and its places are said by their numbers.
 
@@ -166,6 +166,19 @@ The lines by nand are in `instruments/a_universal_me_now_a_single_path_by_nand.p
 - **Its opening's 2:** *a me is other-than-other-than a me, two inversions coming to a me again*. Sentence 50 is that along a path: nand-nanding, two couplings on with four moments.
 - **Its 1.2,** a spiral of selves coming to its parities again. Sentence 50 has its moments: 2n with n even, 4n with n odd.
 
+## Nand-nanding, its is and its is-not explored forward
+
+52. **Two nands in a row of a thing with itself are the thing again: along the path a me two couplings on, with four moments, is a me again. Of two me-nows of a path, in all their forms, they are a 0 at some moment, and none is a single path me.**
+53. **An all of a me's prior and what surfaces is the same now, or neither: one is-or-is-not of two at a moment, a co-parity. An all in a row of a path's links is the path with all, at all moments, and with a newborn from its settling on.**
+54. **A me's own inverting is one nand of its own me-parity: on a path, a me's prior of an odd moment is the other-than of its prior a moment before.**
+
+**A concern gone on with by its two sides,** by a partner's word of 24 November. The 29th drawing's concern had nand-nanding as an other-than of an other-than along the path, or as an all of two me-nows. Explored forward, its is-not is incohering as a single path me, sentence 52, and its is goes on. What an all of two is, and an all of links, is sentence 53: v406all2-2's co-parity and v406all2's both link after link, executed apart.
+
+**At the draft.**
+
+- **Its 1.1:** *A cell is one is-or-is-not of a co-parity: with is, a 0, its prior same-existing; with is-not, one inversion, other-than-prior.* Sentence 53 has it by two nands in a row, an all of a prior and what surfaces; sentence 54 has its one inversion as one nand.
+- **Its opening's 2:** *a me is other-than-other-than a me, two inversions coming to a me again*. Sentence 52 is that along a path.
+
 ## Sentences offered for the draft, whole
 
 Concerns new for the one table, v406me's to number. With no writer of the draft yet, they wait whole.
@@ -199,4 +212,4 @@ The drawings are in `illustrations/`, with their sections in [the window of v406
 
 - Sentences 1 to 4: the ninth and the tenth drawings. 5 and 6: the fourteenth. 7: the twelfth.
 - 8: the eleventh. 9: the seventeenth. 10: the thirteenth. 11 and 12: the nineteenth. 13: the twentieth.
-- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th. 45 to 48: the 28th. 49 to 51: the 29th.
+- 14 to 17: the twentieth. 18 and 19: the 21st. 20 to 22: the 22nd. 23 and 24: the twentieth and the 21st. 25 to 28: the 23rd. 29 to 31: the 24th. 32 to 35: the 25th. 36 to 41: the 26th. 42 to 44: the 27th. 45 to 48: the 28th. 49 to 51: the 29th. 52 to 54: the 30th.
