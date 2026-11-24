@@ -12,7 +12,7 @@ The candidate laid on the drawing:
   the two podalings, one and then the other, 120 on: the me-now's own place of the turn, in its next universe;
   the four a parity of two is-or-is-nots.
 Whole numbers alone, and the figure's own geometry: the ninth drawing's winding going on to 180.
-It opens the living files, v407primes' story and the drawing's own artboard, and writes none.
+It opens the living files, v407primes' sentences and the drawing's own artboard, and writes none.
 All or none: with one line not is, the check is not.
 """
 import json, math, re, sys
@@ -105,9 +105,9 @@ rows = json.loads(re.search(r"/\*rows\*/(.*?)/\*rows end\*/", board.read_text(en
 line("the device's rows in its artboard, one for a me-now of 0 to 60, are these fours with their words",
      len(rows) == 61 and all([int(rows[n][k]) for k in ("n0", "n1", "n2", "n3")] == four(n) and [rows[n][k] for k in ("w0", "w1", "w2", "w3")] == [what(m) for m in four(n)] for n in ME))
 
-# ---------- word for word, living, and a partner's saying in v407primes' story ----------
+# ---------- word for word, living, and a partner's saying in v407primes' sentences ----------
 text = lambda pattern: next(root.glob(pattern)).read_text(encoding="utf-8")
-ME_FILE, NI, PHYSICS, STORY = text("Exhibit_THIRTY-ONE_*.md"), text("Natural_Intelligence_v*.md"), text("Exhibit_EIGHTEEN_*.md"), text("incoming/v407primes/The_prime_numbers_story.md")
+ME_FILE, NI, PHYSICS, SENTENCES = text("Exhibit_THIRTY-ONE_*.md"), text("Natural_Intelligence_v*.md"), text("Exhibit_EIGHTEEN_*.md"), text("incoming/v407primes/The_prime_numbers_named_and_explained_sentence_by_sentence.md")
 quotes = [
     (ME_FILE, "A me is a self's universal set."),
     (ME_FILE, "a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior"),
@@ -117,9 +117,9 @@ quotes = [
     (NI, "17 less exchanges now and next."),
     (NI, "Each number is its podaling"),
     (PHYSICS, "Double-cone is two cones through a vertex"),
-    (STORY, "Four cones of 30 are an all-parity universal now me-parity."),
+    (SENTENCES, "Four cones of 30 are an all-parity universal now me-parity."),
 ]
-line("eight living sentences beside the drawing, and a partner's saying in v407primes' story, are word for word in their files", all(q in t for t, q in quotes))
+line("eight living sentences beside the drawing, and a partner's saying in v407primes' sentences, are word for word in their files", all(q in t for t, q in quotes))
 
 for name, ok in results: print(("is       " if ok else "is not   ") + name)
 print(f"\n{sum(ok for _, ok in results)} of {len(results)} are is" + ("" if all(ok for _, ok in results) else ": the check is not, all or none"))
