@@ -9,19 +9,18 @@ A sentence below ends with its standing, in brackets: with all numbers; stepped,
 ## A number, by +1
 
 - A number is the number below it and 1 more: +1. (with all numbers)
-- Come by +1, a number is of two kinds, and never both. (with all numbers; stepped, 2 to 5,000)
+- Come by +1, a number is of two kinds, and of one alone. (with all numbers; stepped, 2 to 5,000)
 - A crossed number is made by two smaller numbers of 2 or more, multiplied, as well: 4 is 2 by 2, and 6 is 2 by 3. A crossed number is no prime. (a naming)
 - A prime is made by +1 alone: no two smaller numbers multiplied make it. (a naming)
 - By +1 from 1: 2, a prime; 3, a prime; 4, crossed; 5, a prime; 6, crossed; 7, a prime; 8, 9 and 10, crossed; 11, a prime. (stepped)
 - A +1 from a crossed number is a prime or is crossed: 4 and 1 more is 5, a prime; 8 and 1 more is 9, 3 by 3. (stepped)
-- A crossed number is primes multiplied, one way alone. (with all numbers; stepped, 2 to 5,000)
+- A crossed number is primes multiplied, one way alone. (with all numbers, a field's proving; stepped, 2 to 5,000)
 
 ## Along and across
 
 - The +1 is along: a number after a number.
 - Multiplying is across: rows by columns, a row and a column of 2 and on. (a naming)
 - Multiplying makes the crossed numbers, all of them, and no other number. (with all numbers; stepped, 2 to 5,000)
-- A prime is a number multiplying makes with no rows and columns. (with all numbers; stepped, 2 to 5,000)
 - A prime past 3 is a +1 from the crossed number below it and a −1 from the crossed number above it. (with all numbers; stepped, to 400,000)
 - A partner's naming of it: a prime is a same-existing, living in an all-parity vault between the parities along and the parities across. (a naming)
 
@@ -36,16 +35,18 @@ A sentence below ends with its standing, in brackets: with all numbers; stepped,
 
 - At their turn, spirals all line up. One past it, none of them does. (with all numbers; stepped, the turns of 2 to 23)
 - 2, 3 and 5 line up at 30. 31, one past, is a prime.
-- A number has a prime in its cone forward, past it and to its double. (with all numbers; stepped, 2 to 200,000)
+- A number has a prime in its cone forward, past it and to its double. (with all numbers, a field's proving; stepped, 2 to 200,000)
 - The numbering has no ending, and asks for none.
 
 ## Two faces, one form
 
 - One at a time the primes are uneven. Together they are even.
-- The even face is the fit. A turn's places are the same up and down, and the same round its quarter turns. (with all numbers; stepped, the turns of 6 to 30,030)
+- The even face is the fit. A turn's places are the same up and down. (with all numbers; stepped, the turns of 6 to 30,030)
+- Round 30 a place by 7 is a quarter turn, and the eight places are its four and their four flips. (stepped)
 - A place of a turn is p times in the next turn: once crossed, and p less 1 times a place. (with all numbers; stepped, 5 turns)
 - The uneven face is the fracturing. A prime born crosses places from its own square on: 25, 49, 121, 169, 289. (stepped)
-- A prime past 3 is one more than a crossed number and one less than a crossed number. Of the two, one is a seam of 6 and one a seam of 4. (with all numbers; stepped, to 400,000)
+- A prime past 3 is one more than a crossed number and one less than a crossed number. (with all numbers; stepped, to 400,000)
+- One of the two is a seam of 6. One of the two is a seam of 4. (with all numbers; stepped, to 400,000)
 
 ## A test
 
@@ -66,7 +67,7 @@ A sentence below ends with its standing, in brackets: with all numbers; stepped,
 - All or none, it is: all zeros of the curve on one line. (a field's sentence)
 - In natural naming: a zero has its other across the between, and all zeros are their own other. (a naming)
 - Said with a bound, the staircase's straying under its side raised by a hair, it is a measuring. Nature has no bounds. (a measuring)
-- All or none on a surface: all parts' parities are its squares, one for one. (with all numbers; stepped, to 4,194,304)
+- Beside it, shown with all numbers: on a surface, all parts' parities are its squares, one for one. (with all numbers; stepped, to 4,194,304)
 - The method is all of the hypothesis's source. The hypothesis's own all or none is said by no sentence here. (not shown)
 
 ## The largest known prime
