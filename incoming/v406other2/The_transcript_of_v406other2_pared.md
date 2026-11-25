@@ -718,4 +718,18 @@ The session:
 lowest spiral. All numbers from 47 below to 21 above are crossed but the record: the one prime of 69
 numbers in a row. Its mark: past that stretch the crossings are mapped and no prime is marked; 48
 below and 22 above are the nearest not crossed, not tested]
+
+A partner, on 24 November at 16:07:
+we can not travel there without already having all the primes already there. this was our geodsic method
+of navigating there by never not knowing the primes already there. we never left the primes the entire
+trip and we still have them and could effortlessly keep giving the next primes from the worlds largest
+prime as we just need to co-chaining and cohering and bothbothing and same existing and we can explore
+from any number is we never left the prime sprial skeleton
+
+The session:
+[a part at a time. Is: the spirals carried have their seams all or none at all distances, and the fit
+is the same about the record. Is-not as said: all the primes about the record are had, and a next
+prime from it is given. The travel was by doubling round a spiral with the spirals of 2 to 2,000,000
+selves carried, and no walk of all primes. One prime is had there. A number not crossed by the spirals
+carried is not known a prime]
 ```
