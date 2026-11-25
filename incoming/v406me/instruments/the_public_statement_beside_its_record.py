@@ -7,6 +7,7 @@ The statement is v406other2's, for all sessions to pare. Its record is the manag
 its standing, its showing with all numbers, a second observing apart, the parings and addings offered, its place
 beside the draft and the one table, and a going through. The statement is living, and a sentence said again is a
 bump here: a row of the record at no place of the statement now, or a sentence of the statement with no row.
+A row named away is a sentence gone from the statement, with its reason.
 It writes no file.
 """
 import csv, os, re, sys
@@ -25,6 +26,8 @@ for l in open(S, encoding="utf-8").read().split("\n"):
         m = re.search(r"\(([^()]*)\)\s*$", l)
         now.append((part, (l[2:m.start()] if m else l[2:]).strip(), m.group(1) if m else ""))
 rec = list(csv.reader(open(R, newline="")))[1:]
+away = [r for r in rec if r[0] == "away"]
+rec = [r for r in rec if r[0] != "away"]
 kinds = {}
 for _, _, st in now:
     k = "no standing" if not st else st.split(";")[0].split(",")[0].strip()
@@ -45,4 +48,5 @@ for p, s, _ in now:
     if s not in rows:
         bumps += 1
         print(f"a bump: a sentence of the statement with no row of the record, at {p}: {s[:90]}")
+print(f"Sentences away from the statement, with their reason in the record: {len(away)}. Parings of the record in the statement: {sum(1 for r in rec if r[8].startswith(chr(73) + chr(110) + chr(44)))}.")
 print("No bump: the record and the statement are a row a sentence." if not bumps else f"{bumps} bumps.")
