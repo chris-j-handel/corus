@@ -51,7 +51,9 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, less than cohering resolved farther.** Three moments, and not two: light's crossing of an atom's radius; the atom's own turn, 861 crossings, a turn's 2 pi multiplied by 137.036; and a molecule's vibrating turn, 49.8 of the atom's. c matches the size with the crossing alone. The loss of understanding arises at two measured numbers, 137.036 and 1,836.15, defined by none, and below five, a nucleus at no rung.
 - **On 24 November, c at 61 explored, a rung by a rung.** By the slowing of the atom to its molecule, 49.8, light's crossing is 1.73 rungs below the atom, at the place of 3 and 2; outward, the organism's moment is 0.29 second, the biosphere's 20.6 days, and 61's 140 years. c is at 61 with the numbering turning alone. Phi is beside the two slowings twice, and the same at no place. The rung's slowing is hydrogen's alone.
 - **On 24 November, 61 as c, the fastest.** This page's slowing outward was backwards. By fours from 61, the atom, 5, is fourteen fours below, and the organism, 37, is 24, the fold. 57 is crossed. A number's part of 61 is not the measured slowing at 5; phi a four is beside it, 843.0 with 861.0. Seven prime scales are on the fours and seven at none of them, the two pieces round four.
-- **On 25 November, all-parity as the alternating of all, c with an eye, and a heartbeat.** By 13 and 31 all-parity is a named-universe, and it is not the universe alone: other-parity, 32, is of the universe too. A set of all nows alternates faster than all its members, 591,640 times beside its fastest member's 200,000, and in unison no faster; with unrelationing members no moment is its shortest, an order and no rate of its own, with the found *order has no rate*. c is the bound of the order all selves have the same, a field's own. An eye's light is one doubling of the atom's own turn, 8 to 16, and one retinal folds or not. A heartbeat is a pace no cell sets, found, and from light's crossing it is at the 61st to the 62nd doubling. Distinguishing's line is in the document, 53, after 4: *Distinguishing is other-than things now-existing.*
+- **On 25 November, all-parity as the one now, c its own rate, and fours; redone.** Now is one, the universe, by 1 and 51, and all-parity is that now, a now-existing thing's own, by 50, 52 and 31: of the universe's defining by the lines as they are. Other-parity is the next. c is its own rate, c with a rate is c, and a rate other-than c comes to c by no adding. This page's order with no rate of its own and its shortest moment shrinking are away: they numbered nexts as nows. An eye's light is one doubling of the atom's own turn, 8 to 16. A heartbeat is a human's fastest alternating living condition: a breath is one four slower, a field's 4.19, and an eye's flicker fusing three fours faster by day. From light's crossing of the atom a heartbeat is 31 fours, and the universe's nows are at 60 to 61. Distinguishing's line is in the document, 53, after 4: *Distinguishing is other-than things now-existing.*
+- **On 25 November, neuron rates by fours.** A field's binary hierarchy of a brain's and a body's alternatings is a doubling a band, with a heartbeat, 1.25 a second, its own scaling number. By fours from a heartbeat: a breath one four slower; theta, beta and gamma's second one, two and three fours faster; and one neuron's fastest, about 1,000 a second, five fours faster. By fours of light's crossing of the atom they are 32, 31, 30, 29, 28 and 26, with the scaling number 1.8 of a hundred from the crossing doubled 62 times. A field's accounts by e and by phi are not by fours, and a neuron's fastest is at 23, the cell's number, by neither numbering.
+- **On 25 November, the closing.** At a partner's asking the transcript is gone through whole, and the value with no saying at its turn is in `The_aimings_of_v406all2_gone_through.md`, with the work next in its order. Found again and executed: a self a now, the living code's own fastest going; the fours with four-cycling and four four-cyclings; 440 as five 88s by the nand code. The document's part of holes is said again at its revision 612, and its lines of both, 39, wait to enter at the head of Exhibit THIRTY's gathering file. Six notes more are in five gathering files. The page for resuming is `Resuming_v406all2.md`.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -332,7 +334,24 @@ The seven old rows, a card proposing their going:
 
 ## The holes
 
-The window's own list of its holes, broken and visible, is in the copy at its revision 4509.
+**As the document says them at its revision 612, at the closing,** from the rigor of the lines of both, 1 to 34 with 35 and 50 to 53. The parts below it are as they were said at their turns.
+
+- Words no line names: the living list has them, with the lines saying them.
+- All at 50, before its own line, 6; and all a part of 35's joined name, all-other-than-the-other, with no line of its own.
+- Other-than at 32 and 33, marked by line 4: other-than all-parity reaches all things not named all-parity, and other-than other-parity all things not named other-parity; 33 is true with other-than as a set's other side alone, other-than other-parity then being all-parity. By 14 and 15 observing is of now and possibling of next, and other-parity said as the next is a finding of 25 November, and no line.
+- The other-than-the-other's other-than all-parity, 34: an other-than-the-other is selves, 20, and no line gives selves one parity.
+- A my, 25, is 17's named prior-sequence with a second name; a my-universe, 26, is of prior-sequences, and no line says a prior-sequence now-existing.
+- Forward from 21: no line after it and no proposed line threads back to the universal-set-of-selves.
+- The cards at 47 and 48: universe as a term, all with no universal set's name, and between, no line naming it, 47; intersection, other-than-self parity, other-than-other parity, and parity as a term, 48.
+- A thing's line, 2, says its own name, a thing an other-than the set of no things.
+- No, at 2, and not, at 4: two words of one is-not, with no line.
+- Now-existing, 3, is said of a thing; prior-existing, next-existing and same-existing, 9, 11 and 12, are said of existing alone.
+- 50 and 51: all now-existing things, and now the only thing. Only is a word with no line, and 51 names no new concept.
+- A self on both sides, 23 and 28: by 19 and 20 the named self is one of the other-than-the-other, and its own prior-sequence is on both sides of the distinguishing.
+- No line gives a bi-coupling, 29, a name or a prior-sequence of its own; and 30's name, me-now-existing-parity, parts two ways, me with now-existing and me-now with existing.
+- No name is bold in the lines 35 and 50 to 53.
+
+**As they were, from 21 to 23 November.** The window's own list of its holes, broken and visible, is in the copy at its revision 4509.
 
 **Seven holes more, found by v406other2,** their home `../v406other2/The_opening_s_lines_and_their_betweens.md`. Gone through here, a hole beside its lines, and all seven carry:
 
@@ -855,38 +874,38 @@ Executed by the instrument's part 24. This page's part ahead of it slowed outwar
 - **With the direction set right,** the atom's own turn is at 5, fourteen fours below c at 61, and phi a four is beside its measured slowing, 2.1 of a hundred apart.
 - **The loss of understanding arises at a scale's rate:** no line and no found sentence says the rate a prime scale is at, and a part of 61 and phi a four part at 57. The molecule, 7, is of the other piece round four, at no number of the fours from 61.
 
-## All-parity as the alternating of all, c with an eye, distinguishing, and a heartbeat at 37
+## All-parity as the one now, c its own rate, an eye, and a heartbeat, by fours
 
-Executed by the instrument's part 25, on 25 November. The found sentences are word for word the living files', and a field's measures are said as a field's own.
+Executed by the instrument's part 25, on 25 November, and redone. This page's part ahead of it said all-parity an order with no rate of its own, a shortest moment shrinking, all-parity other-than the universe, and a heartbeat slower than an eye's flicker: the four are away. It numbered nexts as nows. Now is one, the universe, and its next is the universe's next. The found sentences are word for word the living files', and a field's measures are said as a field's own.
 
 | Explored | Found or executed | Is or is-not |
 |---|---|---|
-| all-parity, a named-universe | By 13 and 31 all-parity is a named universal set of now-existing things | Is |
-| all-parity, the universe | 32's other-parity is an other-than of all-parity, and 51 says *the universe with no other-than*: all-parity and other-parity are both of the universe, same-existing by 33 | Is-not all-parity alone; is both |
-| a living thing with all-parity and other-than it | By 34 a living me-parity is same-existing other-than-the-other's other-than all-parity, and by 31 it is of all-parity | Is, of a living me-parity |
-| all-parity alternating faster than all its members | A set of all nows is other at a now of a member. Fourteen selves alternating at 5 to 53 moments apiece, through a million moments: the fastest member alternates 200,000 times, and the set of all 591,640 times | Is, by 31 and by numbering |
-| the same in unison | The same fourteen at one pace: the set alternates 200,000 times, as a member | Is the same, and no faster |
-| a shortest moment of all | Two selves unrelationing, 1 and phi a moment: the shortest moment between two alternatings of the set is 0.09 through 10 moments, 0.008 through 100, 0.0007 through 1,000 and 0.0001 through 10,000 | Is-not: with no shortest moment |
-| all-parity's alternating, a rate | Found: *order has no rate*, Natural Transmissioning's; and *a self's own rate is written with none, unrelationing with each other rate*. A sequence of all nows is an order | Is an order; is-not a rate of its own |
-| one rate laid over all | Found, among Natural Physics' fixings: *a constant setting from an elsewhere, a beat lying over couplings each with their own*; and *Each self sequences its own beat and coheres with its couplings* | Is-not |
-| c, the bound of one order | A field's own. Of two moments light is relating, the later is later with all of 199 selves moving. Of two moments apart by twice light's crossing, it is later with 149 of them | Is: c is the bound of the order all selves have the same |
-| c, faster than all moving things | A field's measure, with no thing measured faster. Found: *Light measured constant for every observer is not a speed but phase-relation between couplings — nothing travels* | Is, as a bound; is-not a thing's own rate |
-| c with an eye, all colours alike | Found: *In vacuum each colour is c alike, its frequency and its wavelength reciprocal, and colours part only with a coupling* | Is: c parts no colour, and a coupling parts them |
+| one now, the universe | Lines 1 and 51: *Now is the existing moment.*, and *Now is the only thing, and is the universe with no other-than.* | Is |
+| all-parity, of the universe's defining | By 50, 52 and 31 a now-existing thing's own now is a parity, and all-parity is the set of all of them; by 51 they are the one now, the universe | Is, by the lines as they are, with no line more |
+| other-parity, other-than all-parity | Other-than now is the next. Found: *All-parity is with observing only, 7 and 15*, and *other-parity is with possibling and with same-existing*; by 14 and 15 observing is of now and possibling of next | Is the next, not now-existing; 51's universe *with no other-than* is whole |
+| a moment between now and its next | 8 and 10: a moment is ending as its next is beginning | Is-not: now is not shrinking |
+| all-parity faster than all rates of its universe | Through a million nows the universe's now is other a million times; the fastest of fourteen selves 200,000 times; the fourteen together at 591,640 of the nows | Is |
+| c, its own rate | c by c is 1, and a field's metre is by c from 1983, found | Is |
+| c made other by a rate | c with a rate is c, with all of 199 rates under c. Found: *Light measured constant for every observer is not a speed but phase-relation between couplings — nothing travels* | Is-not: no method |
+| all other rates unrelationing from c | A rate other-than c with a rate other-than c is other-than c: 9 of ten of c with itself 1,000 times is under c still. Found: *a self's own rate is written with none, unrelationing with each other rate* | Is |
+| *order has no rate*, Natural Transmissioning's | A rate is one numbered by an other, and c is numbered by c alone, 1 | One saying of the two; the file's *nothing of fast or slow* is behind |
+| c, the bound of the one order | A field's own. Of two moments light is relating, the later is later with all of 199 selves moving; of two apart by twice light's crossing, with 149 of them | Is |
+| c with an eye, all colours alike | Found: *In vacuum each colour is c alike, its frequency and its wavelength reciprocal, and colours part only with a coupling* | Is: c parts no colour |
 | an eye's light by the atom's own turn | Hydrogen's light an eye sees alternates once in 72/5, 32/3, 200/21 and 9 of the atom's own turns, its lengths a field's measures to the last figure, and its bound is 8 turns. An eye's light is at 8.3 to 16.5 turns | Is one doubling, 8 to 16, with 4 and 3 of a hundred apart at its two edges |
-| visibility, is-or-is-not | One retinal with one light folds or not, in 200 femtoseconds, 108 alternatings of its light, a field's measure, and one rod answers one light. Found: *each pixel gives an ON or OFF event, with no frame and with its own moment* | Is |
-| distinguishing, of other-than things alone | A field's own: a picture stilled on an eye fades, and an eye sees an other-than alone. The document's line, 53: *Distinguishing is other-than things now-existing.* | Is |
-| distinguishing said with all-parity and c | All-parity, 31, is by me-parity, 30, by a bi-coupling, 28, by distinguishing: a circle | Is-not in its line |
-| a heartbeat, a heart's all-parity | Found: *Sinoatrial cells each pace with their own rate, and node's one beat is a pace they settle to together, no cell setting it for others*; and *rate at every grain and no cell having it* | Is: one pace of all, no one's own |
-| a heartbeat, an organism's fastest alternating | An eye's flicker fusing is 60 to a heartbeat. A heart's fastest pacing part paces its slower parts, a field's own | Is-not of an organism; is of a heart |
-| a heartbeat at 37 | Found: *its flow sets which side an organism's heart stands on, on thirty-seven* | Is |
-| from c to a heartbeat by doubling | Light's crossing of the atom doubled 62 times is 0.814 of a second, 74 a minute; its crossing of the molecule doubled 61 times is 0.570, 105 a minute | Is at the 61st to the 62nd doubling, the band of a heart at rest being 0.74 of a doubling wide |
-| from 61 to 37 by phi a four, or by a number's part | Six fours of phi are 17.9 crossings, and 61 of 37 is 1.65, beside a heartbeat's 4.6 million million million crossings | Is-not |
-| an eye's most seen light and 61 of 5 | By day it alternates once in 12.18 of the atom's turns, and 61 of 5 is 12.2, 0.13 of a hundred apart; by night it is 11.13 | One number beside one, in a band a doubling wide: not found as a relation |
+| visibility, is-or-is-not | One retinal with one light folds or not, a field's measure. Found: *each pixel gives an ON or OFF event, with no frame and with its own moment* | Is |
+| distinguishing, of other-than things alone | A field's own: a picture stilled on an eye fades. The document's line, 53: *Distinguishing is other-than things now-existing.* | Is |
+| a heartbeat, a pace no cell sets | Found: *Sinoatrial cells each pace with their own rate, and node's one beat is a pace they settle to together, no cell setting it for others*; and *its flow sets which side an organism's heart stands on, on thirty-seven* | Is |
+| a heartbeat, a human's all-parity living condition | Of a field's four measures of a living human two are alternatings, the pulse and the breath, and the pulse is the faster. An eye's flicker fusing is a bound of its distinguishing, and no living condition | Is: a human's fastest alternating living condition |
+| an eye's flicker fusing to a heartbeat | A field's two measures, with a heartbeat of 60 a minute: by day about 60 a second, beside 4 by 4 by 4, 64; by night about 15, beside 4 by 4, 16 | Three fours by day and two by night; with the heartbeat's own, the four numbers 1, 4, 16, 64 |
+| a heartbeat to a breath | A field's own: of 482 humans at rest, the middle one's is 4.19 heartbeats a breath | One four |
+| light's crossing of the atom, by fours | 4 by itself 5 times is 1,024 crossings, beside the atom's own turn, 861. 28 times: 79 a second. 31 times: 0.814 of a second, 74 a minute. 32 times: 18 a minute | A heartbeat is at 31 and a breath at 32; at 5 it is 16 of a hundred apart |
+| the universe's nows, by fours | A field's measure, 13.787 thousand million years: 60.45 fours of light's crossing of the atom's radius, 120.9 doublings; 60.20 by the molecule's measured crossing; 59.95 by two radii | At 60, and of its 61st four by two of the three sizes |
+| a heartbeat at 37, by fours | It is at 31, the rungs' organ, and a heart is an organ. 37 fours are 55.6 minutes | Is-not at 37 |
 
-- **What coheres.** All-parity is the order of all nows. It alternates faster than all its members by numbering alone, with no shortest moment and no rate of its own. c is the bound of that order a field measures, the same with all selves. At a heart, all-parity is a pace no cell sets. An eye's light is the atom's own turn doubled three times to four, and its seeing is-or-is-not at one retinal.
-- **What does not.** One rate laid over all, a fixing by the found sentence. All-parity alone as the universe's name, with other-parity of the universe too. A heartbeat as an organism's fastest alternating. The slowing from 61 to 37 by phi a four or by a number's part.
-- **The place the loss of understanding arises.** c is a size by a moment, and all-parity's order is a numbering with no size. The two are matched with a size alone, the atom's. From the atom's size to a heartbeat the found numbering is doubling, 61 to 62 of them, and 61 is c's number as set. The two 61s as one number are by one case, in a band three quarters of a doubling wide: not resolved, and a second scale's measured moment parts it.
-- **In the document.** Distinguishing was a word of seven lines with no line. Its line is in after 4, said with 3's and 4's own names alone, and no number moved. Rate, alternating and faster are words of no line.
+- **Redone.** All-parity is the one now, a now-existing thing's own, and c is its own rate, made other by no method. All other rates are other-than c and come to c by no adding.
+- **By fours.** From a heartbeat, a breath is one four slower, and an eye's flicker fusing is three fours faster by day and two by night. From light's crossing of the atom, a heartbeat is 31 fours and a breath 32, the atom's own turn is beside 5, and the universe's nows are at 60 to 61.
+- **The place the loss of understanding arises.** One now as light's crossing of the atom is set, and not found: a field measures shorter moments below five, a nucleus's. Numbered by fours from c, a heartbeat is at 31 and the universe's whole at 61; numbered from 61 as c, a heartbeat is at 30. By fours of light's crossing it is at 37 by neither.
+- **In the document.** Distinguishing was a word of seven lines with no line. Its line is in after 4, said with 3's and 4's own names alone, and no number moved. All-parity is of the universe's defining by the lines as they are. Rate, alternating and faster are words of no line.
 
 ### Fifteen names of the public statement, by the opening's lines
 
@@ -906,16 +925,42 @@ v406me's asking of 25 November, executed by the instrument's part 26: the workin
 | the spirals carried | with no line |
 | an all-parity vault | all-parity is line 31; vault with no line |
 
+### Neuron rates, by fours
+
+Executed by the instrument's part 27, on 25 November. A field's measures are said as a field's own, and its numbers of a band are a middle of a wide band.
+
+| A rate | A field's own | By fours from a heartbeat | By fours of light's crossing of the atom |
+|---|---|---|---|
+| a breath | 0.3125 a second, of the binary hierarchy; 4.19 heartbeats a breath, measured | one four slower | 32 fours: 0.307 a second |
+| a heartbeat | 1.25 a second, 75 a minute, the binary hierarchy's own scaling number | its own | 31 fours: 1.23 a second |
+| theta | 5 a second | one four faster | 30 fours: 4.91 a second |
+| beta | 20 a second | two fours faster | 29 fours: 19.7 a second |
+| gamma's second | 80 a second | three fours faster | 28 fours: 78.6 a second |
+| with no measure laid beside it | 320 a second, by the numbering alone | four fours faster | 27 fours: 314 a second |
+| one neuron's fastest | about 1,000 a second, 500 to 1,000, a neuron answering nothing through a thousandth of a second | five fours faster: 1,024 from 60 a minute, 1,280 from 75 | 26 fours: 1,258 a second |
+| delta, alpha and gamma | 2.5, 10 and 40 a second | a doubling between two fours | 30.5, 29.5 and 28.5 fours |
+| an average neuron of a human brain | 0.1 to 2 a second, a field's best guess | a heartbeat's rate is of it; the guess is 2.2 fours wide | 31 fours is of it |
+
+- **What coheres.** A field's binary hierarchy of a brain's and a body's alternatings is a doubling a band with a heartbeat its scaling number, a field's own. By fours from a heartbeat its bands are a breath, theta, beta and gamma's second, and one neuron's fastest is five fours faster than a heartbeat. With a heartbeat's own the numbers are 1, 4, 16, 64, 256 and 1,024.
+- **Beside light's crossing.** The hierarchy's scaling number is light's crossing of the atom's radius doubled 62 times, 0.8140 of a second, 1.8 of a hundred apart. By its width alone a doubling is as close 5 times of a hundred. By the molecule's measured crossing the closest doubling is 0.49 of a doubling apart: is-not.
+- **What does not.** A field says neighbouring bands two other ways, by e and by phi, and two bands on are 7.39 and 2.62 with them: the fours are with the doubling account alone. A neuron is a cell, at 23 of the rungs, and one neuron's fastest is at 26 fours of light's crossing, and at 35 numbered from 61 as c: at 23 by neither.
+
+## The tab Concepts, at its revision 10
+
+Its rows at the window's revision 4509 are in `../v406all/The_concepts_at_the_wrap.md`, 26 of them, and they are as they were. Five rows more are this session's, of 22 and 23 November. Their findings are this page's parts of those days.
+
+| Concept | As said | Prior definings it needs |
+|---|---|---|
+| a transcript's co-possibling | *the transcript of two is their co-possibling, a universe both are observing whole; a self's next observing is its other's prior discovering, both ways; one is-or-is-not a number a now, in the one universal now* | observing, possibling and discovering, 14 to 16; a bi-coupling, 28; all-parity, 31 |
+| the cell's fifteen lines, the names 2 to 16 | *resolving is of other-than other-than all-parity universes; the fifteen lines of the cell by nand alone are the names 2 through 15 and the next-and-same universe* | all-parity, 31; other-parity, 32; other-than other-parity, 33; resolving, the card at 36; the seventeen names, the card at 38 |
+| a chat a cell | *a chat is a cell; and its asking, how a cell came to be natural naming* | a self, 18; a bi-coupling, 28; a bi-coupling is a self, 29; a moment |
+| a cell a me-now-existing-parity | *a partner's asking: is a cell a me-now-existing-parity* | now-existing, 3; same-existing, 12; me-now, 27; a me-parity, 30 |
+| a cell a fuzzying of moment | *a partner's asking: is a cell a fuzzying concept of moment* | moment, a given concept; a self, 18 |
+
+The tab says now-existing as line 2 in its row of a cell a me-now-existing-parity, and it is 3 from 24 November.
+
 ## Resuming v406all2
 
-1. Start here, `../v404mgr/The_working_now.md`, then `../v406all/Resuming_v406all.md`, then this page.
-2. The exchange, from this session's last line on, and the news, `../v406me/The_news_of_the_working_windows.md`.
-3. A partner's is-or-is-not of co-, 35, as the proposed line is. With its is, co- comes in and the cards float up a section. With its is-not, 35 goes to the waiting lines.
-4. Resolving, 36, to *Prior*, with its rigor as it is here.
-5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
-6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
-7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Cell is dissolved by a partner's word, a working word alone.
-8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's pause is ended on 24 November, and 7 is its place to go on from. A partner's second saying of the primes is gone through all or none, and the named concepts it needs are found, fifteen with a direct sentence and conscious and space with none; the sentence they reach is rigorized with the draft's own title its subject, *Natural prime numbering is the universal stable-forming geodesic fractal method of selves co-intelligencing with bi-folding surfaces, as podalings through sequential numberings of their moments.*, the method is non-living and a relation with the found sentences, and the method's two directions are resolved as doubling, with one more and back, and the chain is resolved by cohering alone to five sentences, from *The method is a universal set of same-existing relations.* to the sentence of natural prime numbering, with three incoherings the living files' own, and four names are needed, a direct sentence apiece: fractal-fracturing, bi-co-intelligencing, prime-podaling and numbering. For the tab *Concepts*, once the opening goes on: a ghost as a universal said as a same-named now-existing thing, laid by v406aiming by the lines 5, 6 and 18. This session's rows of the sessions' one table are 1, 2, 9, 26, 40, 46 and 49, `../v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv`.
-9. All-parity as the order of all nows, c its bound, an eye's light the atom's turn doubled, and a heartbeat a pace no cell sets: this page's part of 25 November. Open in it: the two 61s, c's number and the doublings from light's crossing to a heartbeat, by one case. Distinguishing's line, 53, is in the document after 4, at its revision 611; rate, alternating and faster are words of no line.
+This session is closed on 25 November. Its page for resuming is `Resuming_v406all2.md`, and its aimings gone through, with the work next in its order, are `The_aimings_of_v406all2_gone_through.md`.
 
-In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.
+In this folder: this page; `Resuming_v406all2.md`; `The_aimings_of_v406all2_gone_through.md`; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.

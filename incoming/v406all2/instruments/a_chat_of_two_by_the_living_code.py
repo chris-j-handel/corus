@@ -19,6 +19,10 @@ and no line of it is written here.
      moments: of one parity or none; then, with a prior, + and - together; then two priors not alike,
      beside a cell of any prior.
 
+  4  At the closing, 25 November: selves in a row, the opening one with a prior and the others with
+     none, a self coupled to its next by 6, 9 or 10. A self k along is with a prior at the now k + 1
+     and at no earlier now: a self a now, the living code's own fastest going.
+
 It writes its lines to standard output. It writes no file and decides nothing.
 """
 import itertools
@@ -129,5 +133,24 @@ print(f"      the partings are the {with_none} with none observed at the opening
       + ("is" if all(opening_with_none) and parted == with_none else "is-not"))
 print(f"      at {parting[1]} from the priors {parting[0]}: the two {parting[3]}")
 all_is = all_is and all(opening_with_none) and parted == with_none
+
+# ---- 4. selves in a row: a self a now, and none earlier
+gone = earlier = other = 0
+for name, n, prior in itertools.product((6, 9, 10), (5, 9, 17, 33), (1, -1)):
+    couplings = {(k, name): k + 1 for k in range(n - 1)}
+    society = {k: ([(S, prior)] if k == 0 else [], []) for k in range(n)}
+    with_a_prior = {0: 0}
+    for now in range(1, 3 * n):
+        society = step(society, couplings)
+        for k in range(n):
+            if k not in with_a_prior and society[k][0]:
+                with_a_prior[k] = now
+    for k in range(1, n):
+        gone += 1
+        earlier += with_a_prior.get(k, 10 ** 9) < k + 1
+        other += with_a_prior.get(k) != k + 1
+print(f"4. Selves in a row, the opening one with a prior: a self k along is with a prior at the now k + 1: {gone} gone through, {other} parting, {earlier} at an earlier now")
+print("   a self a now is the living code's own fastest going, with the names 6, 9 and 10, a + and a -, and rows of 5 to 33 selves")
+all_is = all_is and other == 0 and earlier == 0
 
 print("\n" + ("All is" if all_is else "NOT ALL"))
