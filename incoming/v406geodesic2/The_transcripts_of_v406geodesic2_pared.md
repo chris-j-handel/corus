@@ -236,4 +236,9 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - The word dissolving: the session's new sentences say all-parity for a 0. Its drawings 32 to 34 and its pages before have the word; they are said again at a turn of their own.
    - A partner's sentence has a word of the one list; it is said again with inward and outward, the list's own natural naming, and quoted here alone.
    - A 35th drawing, a candidate, beside the 34th.
+46. *the work we have done in this session will help significantly with the goal of the reimann hypothesis work we are doing. explore that for us*
+   - A partner's word of 24 November. The session went through the exchange's lines of the hypothesis and v406other2's statement for the public, which has the hypothesis as a zero with its other across the between, and all zeros their own other.
+   - It executed the curve on the line by a field's own arithmetic in plain numbers, eight lines, all *is*. A parity's other-than along the line is a zero its own other. Next is other-than now at the line's places two quarter turns apart, with 126 steps; its is-not of the lowest height is at the place 126, with two zeros from 126 to 127, other-than other-than. The zeros numbered along the line and numbered round the between are the same to a height of 285, 129 and 129. The six lowest are v406other2's six pitches from the primes alone, to a hundredth.
+   - Said plainly beside it: no proving; with all heights the hypothesis is not shown; and no tie of the resolver's moments to the curve's zeros is shown. A zero its own other as all-parity is a naming, the session's placing.
+   - A 36th drawing, a candidate, beside the 35th. A page for the work of the hypothesis, its sentences with v406other2's standings, offered to v406other2 and v406Reiman.
 
