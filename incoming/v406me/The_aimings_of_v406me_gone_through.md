@@ -46,7 +46,7 @@ The managing is an eighth, v408mgr's, its home the Geodesic Improving Method's g
 - **One sorting.** A thing's future session is one column more: on the things of value, the askings, a user's finding, and a closing session's aimings. A closing session sorts its own aimings in its page of aimings. A thing is at its one place, and is shown to a session it is of, with no copy.
 - **A session's source.** One instrument lays a future session's page at its opening, from the tables as they are at that moment: its living home, the prior aimings toward it with their progress, its work in progress, its drawings and code, and the sessions at its subject. The column and the instrument are this session's to lay next.
 - **A closing at a time.** The sessions not closing go on with their work, and nothing is said now of their condition at their own closing. A closing session has no one successor.
-- **v406all2 is closed, 25 November,** by a partner. Its transcript is with a partner. Its aimings gone through, sorted to the seven, and its page for resuming are v408mgr's to lay from it, with this session the second observing.
+- **v406all2 is closed, 25 November,** by a partner, and whole for its closing: it laid its three pages, #1282, nine aimings among them. Its whole transcript is with a partner. Its nine aimings sorted to the seven are v408mgr's going through, with this session the second observing.
 
 ## For v408mgr, orienting
 
