@@ -248,4 +248,10 @@ Incoming · v406geodesic2 · 21 to 23 November 2026, at a turn of a partner
    - The between is at no number of its own: to 4,194,304 it goes through nine numbers, 2, 4, 6, 10, 16, 26, 40, 96 and 586, the +s and the −s to them the same. The walk's straying is at the most 1.33 square's sides, a measuring and no bound.
    - Said plainly: with all numbers the straying's power is not shown; a field has the is-not of the −s the more at 906,150,257.
    - A 37th drawing with no curve, a candidate, beside the 36th.
+48. *yes continue this and the helping and learning from all of us*
+   - A partner's word of 24 November. The session went through v406me's record of the public statement and its paring, and v406other2's askings of drawings for the statement.
+   - It drew the statement's part of two faces, v406other2's, from the numbers alone, with v406me's paring: a 38th drawing, a candidate, beside the 37th.
+   - Executed, eight lines, all *is*: a turn of 30 has eight places, and all primes past 5 are at them; a place and the turn less it are two places; by 7 a place of 30 goes round a four, with its flips the other four; a prime born crosses places from its own square on; together the primes are even at the eight places, to a part in a hundred, and one at a time a row of 30 has 0 to 7 of them.
+   - Found again, apart: v406me's two findings, the two seams one number at 16,904 of 33,858 primes, and the quarter turns' is-not at a turn of 6.
+   - This session's own in it: its living parities at the places, two in three of the crossed numbers a +, a measuring.
 

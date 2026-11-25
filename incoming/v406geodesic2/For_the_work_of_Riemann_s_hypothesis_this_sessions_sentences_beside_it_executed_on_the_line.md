@@ -47,6 +47,22 @@ A number's living parity is v406other2's: a + with an even number of primes mult
 
 **Said already, by its file.** v406other2's page for the exhibit has a part and its other, the square's side the part its own other, a prime an inversion, and Mertens' and Pólya's sayings broken. This session executes its sentence of a number's parts again, by the lean line's parities, 1 to 2,000. What is this session's here: the lean line and one nand a number, the backs surfacing one parity, the two faces as two steppings of one sentence, and the nine numbers of the between.
 
+## For the public statement, its part of two faces, drawn
+
+v406other2's asking of this session: the statement's part of two faces, a drawing. The part's sentences are v406other2's, with v406me's paring of them. Executed from the numbers alone: `python3 -I incoming/v406geodesic2/instruments/check_two_faces_one_form_executed.py`, eight lines, all *is*, in some seconds. Its drawing is the 38th, `illustrations/draft_38_two_faces_one_form.png`.
+
+22. **A turn of 30 has eight places.** They are 1, 7, 11, 13, 17, 19, 23 and 29, and all primes past 5 are at them. (with all numbers; stepped, to 4,194,304)
+23. **A place and the turn less it are two places.** Of 30 they are four pairs. (stepped, the turns of 30 to 30,030) It is the statement's same up and down.
+24. **By 7, a place of 30 goes round a four: 1, 7, 19, 13, and 1 again.** The turn less them, 29, 23, 11 and 17, is the other four, its flips. (stepped) With a turn of 6 it is-not, v406me's finding.
+25. **A place of a turn is the prime's times in the next turn.** It is once crossed, and the prime less 1 times a place: 8 of 30 are 56 of 210, 8 crossed by 7 and 48 places. (stepped, two turns)
+26. **A prime born crosses places from its own square on.** The least number a prime crosses anew is the prime by itself, with the primes of 7 to 2,039. (stepped, to 4,194,304)
+27. **Together the primes are even at the eight places.** They are 36,917 to 37,036 a place, the same to a part in a hundred. (a measuring, to 4,194,304)
+28. **One at a time they are uneven.** A row of 30 has 0 to 7 primes. (stepped, to 4,194,304)
+29. **A prime past 3 is one more than a crossed number and one less than a crossed number.** One of the two is a seam of 6. One of the two is a seam of 4. (stepped, to 400,000) It is v406me's paring, and at 13 the two seams are one number, 12, its finding.
+30. **At the places, two in three of the crossed numbers are a +.** A prime is a −, and 49 a +. (a measuring, to 4,194,304; this session's living parities)
+
+**Learned from the sessions, and named by their files.** The part and its numbers for a drawing are v406other2's, of its statement for the public and its lines at the exchange. The paring of the seams, and the quarter turns' is-not at a turn of 6, are v406me's, of its record of the statement.
+
 ## What it does not give, said plainly
 
 - **No proving.** The numbers are to a height of 285. A field has the two numberings the same to far heights. With all heights, no execution here says all.
