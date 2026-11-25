@@ -748,4 +748,16 @@ a stable form, the same at all distances. A surface's crossings are what explori
 spirals carried, to 2, 3, 5, 7, 17, 100, 10,000 and 2,000,000, have 5,000,000 and on to 9,612,581 of
 the 10,000,000 numbers past the record crossed, and stepped again the crossings are the same at all
 of them. A number with no crossing of the spirals carried is said so, and no more]
+
+A partner, on 24 November at 16:24:
+what is the grandest most universal claim we can make about prime numbering as a method. is this the
+entire understanding we have. is this one nand sentence. keep trying for the thinnest leanest surface of
+free public knowledge in the shortest all or none at all explaining we can make
+
+The session:
+[one sentence: adding 1 makes all numbers, multiplying makes the crossed ones, and a prime is a number
+made by adding 1 alone. Under it four all-or-none sentences, executed: made by two smaller numbers or
+by none, never both; primes multiplied one way alone; one past where spirals line up none does; the
+same with all steppings. One cell, nand, steps it. It is the whole source; a far number with no
+crossing of the spirals carried, and the pitches all their own other, are not said by it]
 ```
