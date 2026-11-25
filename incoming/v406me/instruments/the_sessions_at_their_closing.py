@@ -5,6 +5,7 @@
 
 A session is whole for its closing with three pages in its folder and nothing of its own outside the set:
 its aimings gone through with their starting place now, or its value at its wrap, its page for resuming, and its transcript pared.
+For a session closed with no page of its aimings, the page gathered by v406me from its pages in the set is its page: it is in v406me's folder.
 v406all2-2's are the three as they are laid first, 25 November. A commit on a session's branch in no offer
 is said too, with the askings of the managing table's sheet that are open at the session.
 It reads the set and the branches fetched. It writes no file.
@@ -33,7 +34,7 @@ whole = 0
 for s in sessions:
     d = os.path.join(root, "incoming", s)
     pages = {
-        "its aimings gone through, or its value at its wrap": glob.glob(os.path.join(d, "The_aimings_of_*gone_through.md")) + glob.glob(os.path.join(d, "The_value_of_*_at_its_wrap.md")),
+        "its aimings gone through, or its value at its wrap": glob.glob(os.path.join(d, "The_aimings_of_*gone_through.md")) + glob.glob(os.path.join(d, "The_value_of_*_at_its_wrap.md")) + glob.glob(os.path.join(root, "incoming", "v406me", f"The_aimings_of_{s}_gone_through_gathered_by_v406me.md")),
         "its page for resuming": glob.glob(os.path.join(d, "Resuming_*.md")),
         "its transcript pared": glob.glob(os.path.join(d, "The_transcript*_of_*pared.md")),
     }
