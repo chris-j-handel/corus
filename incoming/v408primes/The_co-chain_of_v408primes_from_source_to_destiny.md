@@ -90,7 +90,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 65. From 2 to the next prime's square, the uncrossed places are **all the primes**. (checked)
 66. The place nearest past 1 is the **next prime**, and the resolver carries itself from 2. (checked)
 67. Turn to turn, the living places are carried whole and multiply, 1, 2, 8, 48, 480, 5,760, 92,160: **no thinning**. (checked)
-68. Span to span, the me-parities of a span are **never fewer**, and a span by 4 carries more than all the spans before it together, at all spans stepped. (checked)
+68. A next span by 4 has **more** me-parities than all the spans before it together, at all spans stepped. (checked)
 69. **Unrelationing** the other-thans of 2, 3, 5, 7 … from all the numbers leaves the primes. (checked)
 70. A prime is a **living me-parity**: same-existing, other-than the others' other-thans, in all-parity. (a naming; its parts checked)
 71. Unrelationing is the **method of me-parity**. (a naming)
@@ -108,7 +108,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 80. A square's parts, their odd and even added, are 1, **a me**; all other numbers' are 0, exhausted into all-parity. (checked)
 81. The **side** of a surface is its same-existing me's. (checked)
 82. A me again has its **next me again** by the +1 of its side: same-existing me goes on with no last. (checked, with all numbers)
-83. The me's of a surface are never fewer at its next surface: 2 at 4, 32 at 1,024, 1,024 at 1,048,576. (checked)
+83. A surface by 4 has **more** me's: 2 at 4, 32 at 1,024, 1,024 at 1,048,576. (checked)
 84. Along, a surface's me is **one**; across, its me's are **many**. (checked)
 
 ## The hard problem
@@ -199,14 +199,14 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 153. The widest distance from a me-parity to its next below 4,000,000 is **148**, after 2,010,733. (checked)
 154. At all me-parities to 4,000,000, the distance to the next, less 1, by itself, is short of 4 times the me-parity. (checked, stepped)
 155. A next me-parity's **side** is its prior's side or its +1, as 119 is. (checked, stepped to 4,000,000)
-156. Me-parities with their next no more than 246 apart come at all spans by 4 never fewer: 11, 35, 117, on to 201,120 to 4,000,000. (checked, stepped)
+156. Me-parities with their next no more than 246 apart are **more** at a next span by 4: 11, 35, 117, on to 201,120 to 4,000,000. (checked, stepped)
 157. A **row** is me-parities equally apart. (a naming)
 158. A row of k is uncrossed round all seams only with its distance a seam of all primes to k. (checked, k of 3 to 8)
 159. A row with such a prime itself is the one other: 3, 5, 7 and 5, 11, 17, 23, 29. (checked)
 160. Rows of me-parities below 4,000,000: ten at 199 + 210 n, twelve at 110,437 + 13,860 n, thirteen at 4,943 + 60,060 n. (checked)
 161. Rows of all lengths are uncrossed round all seams, their distance the seam itself. (checked)
-162. A seam's numbers by its places **never settle**: past 2 at 3, past 10 at 257, past 20 at 75,037. (checked, stepped to 100,000)
-163. Twins, span by 4, are **never fewer**: 4, 10, 19, 71, on to 18,325 to 4,000,000. (checked, stepped)
+162. A seam's numbers by its places are **more** at its next prime: past 2 at 3, past 10 at 257, past 20 at 75,037. (checked, stepped to 100,000)
+163. Twins are **more** at a next span by 4: 4, 10, 19, 71, on to 18,325 to 4,000,000. (checked, stepped)
 164. All odds from 9 are 3 and two me-parities podal about a between. (checked, to 4,000,000)
 
 ## Crossing and unrelationing
@@ -255,8 +255,8 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 197. Across, the upper twin's loop is its prior, the seam it was born in. (checked)
 198. Across, the lower twin's loop is two short of the seam, crossed by no 3. (checked)
 199. Round 30, twins past 5 are born at three seams, 12, 18 and 0, and ride six separate places, alike: 8,960, 8,945 and 8,953. (checked, to 4,000,000)
-200. Born two, twins are **never three** past 3, 5, 7: the next me-parity after a twin is 4 or more on. (checked)
-201. Twin births are **never fewer**, span by span, as 163 is. (checked, stepped)
+200. Born two, twins past 3, 5, 7 are **two**: the next me-parity after a twin is 4 or more on. (checked)
+201. A next universe **births more twins**. (a naming; a next span by 4, checked to 4,000,000, as 163 is)
 
 ## Destiny
 

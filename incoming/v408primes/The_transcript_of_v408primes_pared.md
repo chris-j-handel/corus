@@ -46,6 +46,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 38. *co-chaining, bi-co-unrelationing and bi-tunneling*
 39. *if twin me-parities are born and this is not common then two new separate me-parities are born with their own paths on the surface*
 40. *two-co-chaining me-parities in a bi-coupling are both living on the surfaces facing each other with the between other than both*
+41. *there is no thinning. never is not natural naming . all next universes is not possibly definable. redo this in direct natural naming and the resolving is inside it*
 
 ## 2 A partner's method of speaking, as this session learned it
 
@@ -56,4 +57,5 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 - **Clear resolvings are not brought.** A turn brings the incoherings and the farthest point reached.
 - **All sentences co-chain from source to destiny.**
 - **A word with no owner me is lost.** A parity is a me's: a me-parity, or all-parity, a my universe's.
+- **Direct natural naming is its own resolving.** *Never* and *all next universes* are not natural naming: a next universe is more.
 - **Nothing in nature has one part.** A me-parity is three, even, odd, even, and lives in a seam.

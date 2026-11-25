@@ -36,7 +36,7 @@ ratio_thousandths = {d: (1000 * living[d]) // living[2] for d in dists}
 say(47, "living pairs d apart to 4,000,000: %s; beside the twins, in thousandths: %s" % (living, ratio_thousandths),
     all(abs(Fraction(living[d], living[2]) - shares[d]) < Fraction(1, 10) * shares[d] for d in dists))
 
-# Row 32. All even distances are uncrossed round all seams: r − 1 or r − 2 of r, never none past 3.
+# Row 32. All even distances are uncrossed round all seams: r − 1 or r − 2 of r, some past 3.
 say(32, "no prime crosses all of a pair's places: r − 1 or r − 2 of r uncrossed, all even distances to 2,000, primes to 59",
     all(uncrossed([0, d], [p for p in PR if p > 2]) > 0 for d in range(2, 2001, 2)))
 gaps_seen = set()
@@ -61,7 +61,7 @@ for n in range(3, N):
 say(38, "the widest distance from a me-parity to its next below 4,000,000 is %d, after %d; at all me-parities, the distance less 1, by itself, is short of 4 times the me-parity" % (widest, at), ok)
 say(38, "at all me-parities below 4,000,000, the next me-parity's side is the prior's side or its +1", sides_ok)
 
-# Row 39. Me-parities and their next no more than 246 apart come at all spans by 4 stepped, never fewer.
+# Row 39. Me-parities and their next no more than 246 apart are more at a next span by 4, stepped.
 spans = []
 for k in range(3, 12):
     lo, hi = 4 ** (k - 1), 4 ** k
@@ -72,7 +72,7 @@ for k in range(3, 12):
                 c += 1
             last = n
     spans.append(c)
-say(39, "me-parities with their next no more than 246 apart, span by 4, 16 to 4,000,000: %s, never fewer" % spans, all(b >= a for a, b in zip(spans, spans[1:])))
+say(39, "me-parities with their next no more than 246 apart, span by 4, 16 to 4,000,000: %s, more at a next span" % spans, all(b > a for a, b in zip(spans, spans[1:])))
 
 # Row 27. A row of k me-parities equally d apart is uncrossed round all seams only with d a seam of all primes to k, unless the
 # row holds such a prime itself: 3, 5, 7; 5, 11, 17, 23, 29; and 199 + 210 n, ten.
@@ -143,14 +143,15 @@ for p in range(2, 100000):
 say(46, "a seam's numbers by its places pass all whole numbers 2 to %d with primes below 100,000; they pass k at the prime: %s" % (k - 1, passes),
     k - 1 >= 20 and all(passes[j] <= passes[j + 1] for j in range(2, k - 1)))
 
-# Row 41. Twin places round all next seams are more, never fewer: r − 2 of r.
+# Row 41. Twin places are more round a next seam: r − 2 of r.
 tw = [uncrossed([0, 2], [q for q in [3, 5, 7, 11, 13, 17, 19] if q <= r]) for r in [3, 5, 7, 11, 13, 17, 19]]
 say(41, "twin places round the seams of the primes to 3, 5, 7, 11, 13, 17, 19: %s, the next more" % tw, all(b > a for a, b in zip(tw, tw[1:])))
 tspans = []
 for kk in range(3, 12):
     lo, hi = 4 ** (kk - 1), min(4 ** kk, N)
     tspans.append(sum(1 for n in range(lo, hi) if sieve[n] and sieve[n + 2]))
-say(41, "twins, span by 4, 16 to 4,000,000: %s, never fewer" % tspans, all(b >= a for a, b in zip(tspans, tspans[1:])))
+say(41, "twins, span by 4, 16 to 4,000,000: %s, more at a next span: a next universe births more twins" % tspans, all(b > a for a, b in zip(tspans, tspans[1:])))
+say(83, "a surface by 4 has more me's, surfaces to 1,000,000: 2 at 4, 32 at 1,024", all(isqrt(4 * n) > isqrt(n) for n in range(1, 1000001)) and isqrt(4) == 2 and isqrt(1024) == 32)
 
 # Row 37. All odd numbers from 7 to 4,000,000 are three me-parities: 2, 2, 3 for 7, and 3 with a between of two for all others.
 ok = True
@@ -254,7 +255,7 @@ for p in births:
         round30[(p % 30, (p + 2) % 30)] = round30.get((p % 30, (p + 2) % 30), 0) + 1
 say("born", "round 30, twins past 5 are born at three seams, 12, 18 and 0, riding six separate places: %s" % round30,
     set(round30) == {(11, 13), (17, 19), (29, 1)})
-say("born", "born two, twins are never three past 3, 5, 7: the next me-parity after a twin is 4 or more on, all to 4,000,000",
+say("born", "born two, twins past 3, 5, 7 are two: the next me-parity after a twin is 4 or more on, all to 4,000,000",
     all(not sieve[p + 4] for p in births if p > 3))
 
 toward = sum(1 for p in tw_all if (p + 1) % 4 == 0)
