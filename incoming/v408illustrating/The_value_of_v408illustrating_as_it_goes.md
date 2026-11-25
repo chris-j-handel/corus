@@ -68,6 +68,10 @@ A partner's saying of 25 November, in this session's words: a set, by a cohering
 
 Made: the whole table as one face, the 42nd; the six and the ten round 30, the 43rd. Ahead, in their order of reach: the form's cells by their standing, from v408primes' table of interests, with a prime living a row asked of it; the five columns after Turn, the 46th; five co-linear and ten across, the cube of 5 on its line, its instrument executed; the lean line's six pairs, three pairs; a row a drawing, ten; the ten on the names' own figure.
 
+## A partner's is-not, and a finding against this session's own drawings
+
+A partner's word of 25 November: a direction is a drawing's word and none of nature's, and a place is a me's, with living numbers alone. The 43rd, the 45th and the 46th say a number's place, and the 45th two directions: the drawings are as they were. It is said again in `A_number_round_a_prime_in_natural_naming.md`, its instrument seven lines, all *is*: a prime is a path of p mes closing, a number is two moments of it, and a number is with one me. From the next drawing on it is said that way.
+
 ## Its placings, no execution says them
 
 - The 40th: the hand of the turn on the page, with the closings at the top; a step's distance from the 1 by its number among the steps, and by no size of its prime.
