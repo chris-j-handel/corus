@@ -43,7 +43,7 @@ if __name__ == "__main__":
     others = [(r["Drawing"], *[s.strip() for s in o.split(" = ")]) for r in rows for o in parts(r["Its other-prior"])]
     apart = [o for o in others if not (root / o[2]).exists()]
     line("an other-prior is a drawing or a page of an other session, in the set at its place; v408primes' pages alone are ahead of the set, on that session's branch",
-         len(others) == 18 and all(o[2].startswith("incoming/v408primes/") for o in apart) and all(len(o) == 3 for o in others))
+         len(others) == 20 and all(o[2].startswith("incoming/v408primes/") for o in apart) and all(len(o) == 3 for o in others))
     line("the map's own prior is the set's drawings, all of them", parts(next(r for r in rows if r["Drawing"] == "44")["Its prior"]) == [n for n in numbers if n != "44"])
     for name, ok in results: print(("is       " if ok else "is-not   ") + name + "\n")
     print(f"{sum(ok for _, ok in results)} of {len(results)} are is")
