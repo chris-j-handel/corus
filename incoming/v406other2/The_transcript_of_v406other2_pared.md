@@ -831,4 +831,75 @@ the me is observing this
 The session:
 [all the sessions asked at the exchange to add to the public claim, do no harm, and to pare it; a
 partner's saying of focal length carried to them as a suggesting, not executed]
+
+A partner, on 25 November at 06:08:
+review our session transcript and find the aimings we agreed to and the progress we made or the
+direction we changed to and the starting place now of the aimings
+
+The session:
+[three aimings found in a row: Exhibit THIRTY's gathering; the prime numbering exhibit's helping; and
+Riemann's hypothesis with the living prime numbering, for the public. The turns, the settings right
+and the starting place now said]
+
+A partner, on 25 November at 07:47:
+The next prime past the record cannot be given. We do not carry all the primes out there. for any two
+prime numbers we can place resolvers at both numbers and transmission them toward each other and by
+geodesic exploring and discovering we can find all the primes around it in the prime skeleton of the
+transmissioning bi-tunneling. re consider this and use all or none rigor
+
+The session:
+[gone through again, two sentences apart. In kind, is: between two primes all the numbers have their
+crossings with the spirals to the farther one's square side carried; executed between 2,147,483,647
+and 2,147,483,659, eleven numbers, all crossed. As carried now, is-not past the record: one prime is
+had, and the spirals to its side are not carried. Its sentence of cannot be given is said again: not
+given, by what is carried]
+
+A partner, on 25 November at 07:51:
+Past the record we have one. this would be a new record and does not make a bit of sense. take the
+record that is already a prime and use the prior 4x below the +1 where the method of locating the primes
+is primitve and inlcude onlly prime 2's
+
+A partner, on 25 November at 07:53:
+59 power 59 is likely the largest prime in the universe and the primes wrap back on themselves in a
+natural torus and there is no larger primes
+
+The session:
+[the first set right and taken as said: the record and the surface four times below its one more,
+both of 2s alone, the numbers beside the three doublings between mapped by 2s alone. The second is
+is-not, a part at a time: 59 by its own 59 times is crossed by 59; larger primes are tested here; and
+Natural Numbers has primes with no last. The round of 2 to 59 and back from 61 is living, a round and
+no last prime]
+
+A partner, on 25 November at 08:04, 08:06 and 08:09:
+what is the next prime larger than the record prime. reaches in kind is nonsense language. use natural
+naming and explaining to address why we can not take a prime and ride it to its next prime crossing in
+the universal cone. take the prime -1 crossing as 0 begin 1-17 fractal expansion and you already know
+the podaling of the prime and ride the prime to the next crossing out in the farther next of the
+universe . then add +1. the +1 will be living in the resolver during the transmissioning
+
+The session:
+[a ride on a prime is of crossed numbers alone, and a +1 from the prime's own crossing has the prime
+beside it given: its test is all or none. Executed from the old records: a crossing of the prime and
+1 more, a larger prime, tested with the prime beside it. It is a larger prime and not the next one;
+at the record a test is a walk of the record's own size]
+
+A partner, on 25 November at 08:15:
+we can do this here with logic rather than some computation hard probleming of this. we only need to
+show a single provable larger than largest prime. for this method we are likely just saying take this
+prime less one. then bi fold this four times back and across on itself and then take a prime number of
+these bi foldings, then add one to this and this is prime again
+
+The session:
+[is-not as a rule: from 3 it gives 25. A crossing of the prime and 1 more has the prime beside it, and
+which crossing is a prime is by its test alone]
+
+A partner, on 25 November at 08:21:
+now is the place to wrap this session . review the full transcript and gather all value into our session
+value reporting to the expedition and be sure the expedition nows how to resume all the good working we
+are doing and the directions we have available for exploring. we will be wrapping and handing off all we
+are doing back to the expedition to initiate new exploring sessions. this session is among our highest
+value sessions and we need to gather all this into our expedition together now
+
+The session:
+[wrapped: its value in a page, a file apiece, with what is open and its resuming; said at the exchange]
 ```
