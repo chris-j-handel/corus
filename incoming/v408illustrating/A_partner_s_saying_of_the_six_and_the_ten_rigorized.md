@@ -48,3 +48,25 @@ The six view is resolving. The ten view is stable forming. The both of the two i
 ## Executed
 
 `python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_the_six_and_the_ten_rigorized.py .` is thirteen lines, all *is*.
+
+## A partner's saying after it, of 5 and 10
+
+**In this session's words.** 5 is co-linear neutralling. 10 is a bi-planar floating surface. The co-linear is along, through the central nothing on the plane. This session has it as the five and the ten of the saying before it.
+
+**Its figure is in the set:** the cube of 5 on its line, v406geodesic2's 8th drawing, with v407primes' ten sixes about it. A cell's plane across the line is its three ways added.
+
+1. Five cells are still by all six orders of the three ways, and the five are one line. (executed)
+2. A between of two of the five is two planes across the line. (executed, at all four betweens)
+3. On a between's plane the line is through at no cell, a central nothing. (executed)
+4. The sixes about the line are ten, one for one with the ten pairs of five. (executed)
+5. A six is a round on one plane across the line. (executed)
+6. Six of the ten are about a central nothing. (executed)
+7. Four of the ten are about a cell of the line. (executed, its is-not)
+8. The four turns of 6 nearest the line are bi-planar, three cells and three. (executed)
+9. Neutralling and floating are namings. (no number executes them)
+
+**What it resolves.** By the line the ten are 6 and 4 again: six floating about a nothing, and four about a cell of the line.
+
+**Hanging.** 5 and 10 as names, 5-now-co-existing and 10-next-co-possibling, are an other observing of the saying. It is not executed here.
+
+`python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_five_co-linear_and_ten_bi-planar_rigorized.py .` is ten lines, all *is*.
