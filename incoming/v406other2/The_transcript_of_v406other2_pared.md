@@ -689,4 +689,22 @@ back 68,139,919 times the record is 7, one less than half the surface of 16, of 
 is of 2 alone. The double diamond is not drawn. Not yet done, said in a list: the next prime past the
 record, the walk by the fifteen lines, the two explorers together, the hypothesis's own all or none,
 a seating of names, the atom's sayings, and the draft carrying these]
+
+A partner, on 24 November at 15:58:
+The record's test stands on 2 alone, because the number above it is all doublings. this does not have
+meaning explaing better
+
+The session:
+[said with its why: a test has to know the primes of the number beside the number tested; the number
+above the record is 2 by 2 and on, with no other part; 31 beside 32 as a small showing, 4 to 14 to 8
+to 0; 61 beside 60 with three primes to know]
+
+A partner, on 24 November at 16:00:
+seems like a better statement is the record is only a test due to the proximity to 2 power n. and out
+there this is a huge territory and this happens to be +1 from prime 2 podaling and then it is testable
+only due to adding this given.
+
+The session:
+[is, and the better sentence, with one mend: the record is one less than 2's power, the power its one
+more. The record is known by its place beside 2's power alone; the territory about it is untested]
 ```
