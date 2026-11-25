@@ -31,9 +31,10 @@ s, over = [], []
 def word(x, y, w, h, t, size=12, weight=400, color=INK, align="left", lh=None):
     return (f'<div style="position: absolute; left: {x:.0f}px; top: {y:.0f}px; width: {w:.0f}px; height: {h:.0f}px; line-height: {lh or h}px; overflow: hidden; '
             f'text-align: {align}; {SANS}; font-weight: {weight}; font-size: {size}px; color: {color}">{t}</div>')
-LX, LW, LH, MX, MW, MH, RX, RW, RH = 60, 300, 32, 470, 520, 96, 1110, 350, 46
-ly = {l: 300 + 47 * i for i, l in enumerate(others)}
-my = dict(zip([r["Drawing"] for r in drawn], (300, 420, 566, 686)))
+LX, LW, LH, MX, MW, MH, RX, RW, RH = 60, 300, 32, 470, 520, 90, 1110, 350, 46
+ly = {l: 300 + 46 * i for i, l in enumerate(others)}
+my = {r["Drawing"]: 296 + 98 * i for i, r in enumerate(drawn)}
+brackets = 0
 ry = {r["Its name"]: 300 + 64 * i for i, r in enumerate(ahead)}
 for l, y in ly.items():
     s.append(f'<rect x="{LX}" y="{y}" width="{LW}" height="{LH}" rx="6" fill="{TINT}" stroke="{RAY}" stroke-width="1"></rect>')
@@ -47,28 +48,30 @@ for r in drawn:
     for x in parts(r["Its prior"]):
         s.append(f'<line x1="{MX + 44}" y1="{my[x] + MH}" x2="{MX + 44}" y2="{y - 9}" stroke="{INK}" stroke-width="2"></line><polygon points="{MX + 38},{y - 10} {MX + 50},{y - 10} {MX + 44},{y}" fill="{INK}"></polygon>')
     for x in parts(r["Beside it now"]):
-        if int(x) > int(n): s.append(f'<path d="M {MX + MW + 6} {y + 14} h 12 V {my[x] + MH - 14} h -12" fill="none" stroke="{ACC}" stroke-width="2.4"></path>')
+        if int(x) > int(n):
+            bx = MX + MW + 6 + 16 * (brackets % 2); brackets += 1
+            s.append(f'<path d="M {bx} {y + 14} h 12 V {my[x] + MH - 14} h -12" fill="none" stroke="{ACC}" stroke-width="2.4"></path>')
 for r in drawn:
     n, y = r["Drawing"], my[r["Drawing"]]
     s.append(f'<rect x="{MX}" y="{y}" width="{MW}" height="{MH}" rx="8" fill="#ffffff" stroke="{INK}" stroke-width="1.6"></rect>')
     over.append(word(MX + 16, y + 8, 60, 40, n, 30, 600, "{{accent}}"))
     over.append(word(MX + 86, y + 10, MW - 100, 36, E.escape(r["Its name"]), 13.5, 600, lh=18))
-    over.append(word(MX + 86, y + 50, MW - 100, 18, "its view · " + E.escape(r["Its view"]), 11.5, 400, GREY))
-    over.append(word(MX + 86, y + 68, MW - 100, 18, "it is for · " + E.escape(r["It is for"]), 11.5, 400, GREY))
+    over.append(word(MX + 86, y + 48, MW - 100, 18, "its view · " + E.escape(r["Its view"]), 11.5, 400, GREY))
+    over.append(word(MX + 86, y + 65, MW - 100, 18, "it is for · " + E.escape(r["It is for"]), 11.5, 400, GREY))
 for r in ahead:
     y = ry[r["Its name"]]
     s.append(f'<rect x="{RX}" y="{y}" width="{RW}" height="{RH}" rx="6" fill="#ffffff" stroke="{FAINT}" stroke-width="1.3" stroke-dasharray="5 4"></rect>')
     over.append(word(RX + 12, y + 5, RW - 20, 18, E.escape(r["Its name"]), 12.5, 600)); over.append(word(RX + 12, y + 24, RW - 20, 16, "its view · " + E.escape(r["Its view"]), 11, 400, GREY))
-oy = 806
+oy = 794
 s.append(f'<rect x="{MX}" y="{oy}" width="{MW}" height="46" rx="8" fill="{TINT}" stroke="{INK}" stroke-width="1.6"></rect>')
 over.append(word(MX + 16, oy + 4, 60, 38, "44", 26, 600, "{{accent}}")); over.append(word(MX + 86, oy + 6, MW - 100, 18, "the set's own map, made from its table", 13, 600))
 over.append(word(MX + 86, oy + 25, MW - 100, 16, "its prior · " + ", ".join(parts(own["Its prior"])), 11.5, 400, GREY))
-ARIA = ("A drawing with no moving part. Three columns of boxes with words: ten tinted boxes at one side, four large numbered boxes between, and six open boxes with a dashed edge at the other side. "
-        "Thin lines go from the tinted boxes to the numbered ones, dashed lines from the numbered boxes to the open ones, two dark arrows go from a numbered box to the one under it, "
-        "and two accent brackets pair the numbered boxes; and lines of words.")
+ARIA = ("A drawing with no moving part. Three columns of boxes with words: tinted boxes at one side, large numbered boxes between, and open boxes with a dashed edge at the other side. "
+        "Thin lines go from the tinted boxes to the numbered ones, dashed lines from the numbered boxes to the open ones, dark arrows go from a numbered box to the one under it, "
+        "and accent brackets pair the numbered boxes; and lines of words.")
 svg = (f'<svg role="img" aria-label="{ARIA}" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
        f'style="position: absolute; left: 0px; top: 0px; width: {W}px; height: {H}px">' + "".join(s) + "</svg>").replace(ACC, "{{accent}}")
-head = [word(60, 29, 1400, 22, "44 · the set's own map · it is for the set's table, a drawing a row · its prior, 40 to 43", 15, 600, GREY)]
+head = [word(60, 29, 1400, 22, "44 · the set's own map · it is for the set's table, a drawing a row · its prior, " + ", ".join(parts(own["Its prior"])) + " · made again with a row more", 15, 600, GREY)]
 for i, t in enumerate(("A drawing is a row of one table.", "Its label is its number, its name, its view and what it is for.", "Its relations are four: its prior, its other-prior, its now and its next.")):
     head.append(word(60, 74 + 34 * i, 900, 30, t, 20, 600))
 head.append(word(LX, 256, LW, 22, "its other-prior", 17, 600)); head.append(word(LX, 276, LW + 60, 18, "an other session's drawing or page it rests on", 12, 400, GREY))

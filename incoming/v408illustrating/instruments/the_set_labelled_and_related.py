@@ -39,11 +39,11 @@ if __name__ == "__main__":
     nexts = {(key(r), x) for r in rows for x in parts(r["Its next"])}; priors = {(x, key(r)) for r in rows if key(r) != "44" for x in parts(r["Its prior"])}
     line("a next and a prior are one relation said both ways: a drawing's next is with that drawing its prior, at all rows but the map's own", nexts == priors)
     beside = {(key(r), x) for r in rows for x in parts(r["Beside it now"])}
-    line("beside is said both ways, a pair a pair: 40 with 41, and 42 with 43", beside == {(b, a) for a, b in beside} and beside == {("40", "41"), ("41", "40"), ("42", "43"), ("43", "42")})
+    line("beside is said both ways, a pair a pair: 40 with 41, 42 with 43, and 43 with 45", beside == {(b, a) for a, b in beside} and {tuple(sorted(x)) for x in beside} == {("40", "41"), ("42", "43"), ("43", "45")})
     others = [(r["Drawing"], *[s.strip() for s in o.split(" = ")]) for r in rows for o in parts(r["Its other-prior"])]
     apart = [o for o in others if not (root / o[2]).exists()]
-    line("an other-prior is a drawing or a page of an other session, in the set at its place; one is ahead of the set, v408primes' page, on that session's branch",
-         len(others) == 11 and [o[2] for o in apart] in ([], ["incoming/v408primes/for_illustrating/the_six_and_the_ten_round_30.csv"]))
+    line("an other-prior is a drawing or a page of an other session, in the set at its place; v408primes' pages alone are ahead of the set, on that session's branch",
+         len(others) == 13 and all(o[2].startswith("incoming/v408primes/") for o in apart) and all(len(o) == 3 for o in others))
     line("the map's own prior is the set's drawings, all of them", parts(next(r for r in rows if r["Drawing"] == "44")["Its prior"]) == [n for n in numbers if n != "44"])
     for name, ok in results: print(("is       " if ok else "is-not   ") + name + "\n")
     print(f"{sum(ok for _, ok in results)} of {len(results)} are is")
