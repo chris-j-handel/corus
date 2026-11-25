@@ -16,6 +16,15 @@ A sentence below ends with its standing, in brackets: with all numbers; stepped,
 - A +1 from a crossed number is a prime or is crossed: 4 and 1 more is 5, a prime; 8 and 1 more is 9, 3 by 3. (stepped)
 - A crossed number is primes multiplied, one way alone. (with all numbers; stepped, 2 to 5,000)
 
+## Along and across
+
+- The +1 goes along: a number after a number.
+- Multiplying goes across: rows by columns, a row and a column of 2 and on. (a naming)
+- Multiplying lands on the crossed numbers, all of them, and on no other number. (with all numbers; stepped, 2 to 5,000)
+- A prime is a number multiplying lands on at no rows and columns. (with all numbers; stepped, 2 to 5,000)
+- A prime past 3 is a +1 from the landing below it and a −1 from the landing above it. (with all numbers; stepped, to 400,000)
+- A partner's naming of it: a prime is a same-existing, living in an all-parity vault between the parities going along and the parities crossing. (a naming)
+
 ## A spiral
 
 - A spiral of n selves is at its seam with all n numbers.

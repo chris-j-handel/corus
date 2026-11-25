@@ -781,4 +781,17 @@ The session:
 [said again with the +1 living: a number comes by +1; come by +1 it is of two kinds, never both; a
 crossed number is made by multiplying as well, and is no prime; a prime is made by +1 alone. The walk
 by +1 from 1 to 11 shown. The statement's opening part said that way]
+
+A partner, on 24 November at 16:43:
+it is a +1 from one direction and a -1 from the other and the crossings are in orthogonal directions and
+this is bi-co-sequencing and the primes are the places the landings never happen so the primes are the
+same-existings and a prime number is living in an all-parity vault between the out traveling parities
+and the crossing traveling parities
+
+The session:
+[a part at a time. Is, with all numbers: the +1 goes along and multiplying goes across, rows by
+columns; multiplying lands on the crossed numbers and on no other; a prime is a number it lands on at
+no rows and columns; a prime past 3 is a +1 from the landing below it and a -1 from the landing above.
+Namings, not executed: bi-co-sequencing, a prime a same-existing, an all-parity vault. Laid in the
+statement as a part, along and across]
 ```
