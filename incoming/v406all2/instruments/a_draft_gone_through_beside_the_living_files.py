@@ -620,4 +620,75 @@ print(f"   phi a step of four moments, at 5, fourteen steps: {phi ** 14:.1f}, be
 print(f"   at 57, a step: 57 of 61 is {57 / 61:.3f}, and one of phi is {1 / phi:.3f}: is-not the same")
 print(f"   the molecule's turn, {inward * a_rung:,.0f} crossings, is phi by {math.log(inward * a_rung) / math.log(phi):.1f} steps, {4 * math.log(inward * a_rung) / math.log(phi):.0f} moments below 61: below 1, at no number of the fours")
 
+print("\n25. All-parity as the alternating of all; c with eyesight; distinguishing; and a heartbeat at 37")
+from fractions import Fraction
+opening = {n: re.sub(r"[*]", "", saying) for n, saying in joined.lines.items()}
+for n in (7, 13, 31, 32, 33, 34, 51, 52):
+    print(f"   line {n}: {opening[n]}")
+print(f"   all-parity is a named-universe, by 13 and 31, a named universal set of now-existing things: {'is' if 'named universal set of' in opening[13] and 'named universal set of' in opening[31] else 'is-not'}; "
+      f"it is the universe, 7: is-not, with 32's other-parity an other-than of it and 51's universe with no other-than; both of them are of the universe, same-existing by 33")
+periods, span = [prime for prime, name in RUNGS if prime < 59], 1_000_000
+of_all = len({m for p in periods for m in range(p, span + 1, p)})
+in_unison = len({m for p in [min(periods)] * len(periods) for m in range(p, span + 1, p)})
+print(f"   a set of all nows is other at a now of a member: fourteen selves alternating at {periods[0]} to {periods[-1]} moments apiece, in {span:,} moments: the fastest member alternates {span // min(periods):,} times, "
+      f"and the set of all {of_all:,} times, {of_all / (span // min(periods)):.2f} of the fastest: faster than all its members: {'is' if of_all > span // min(periods) else 'is-not'}")
+print(f"   the same fourteen in unison, one pace: the set alternates {in_unison:,} times, the same as a member and no faster: {'is' if in_unison == span // min(periods) else 'is-not'}")
+for n in (10, 100, 1_000, 10_000):
+    marks = sorted([float(k) for k in range(1, n + 1)] + [k * phi for k in range(1, int(n / phi) + 1)])
+    print(f"   two selves unrelationing, 1 and phi a moment, through {n:,} moments: the shortest moment between two alternatings of the set is {min(b - a for a, b in zip(marks, marks[1:])):.5f}", end=";\n" if n < 10_000 else ": with no shortest moment\n")
+later = {apart: sum(1 for v in range(-99, 100) if (1 - v / 100 * apart) > 1e-12) for apart in (0.5, 1.0, 2.0)}
+print(f"   two moments, one a moment later, with 199 selves moving at 99 of a hundred of c and under: apart by {' and by '.join(f'{apart} of light\'s crossing of the moment, the later is later with {n}' for apart, n in later.items())}")
+print("   c is the bound of an order all selves have the same: a field's own; two moments light is not relating are in no one order")
+for where, sentence in [(living_plain, "Light measured constant for every observer is not a speed but phase-relation between couplings — nothing travels"),
+                        (living_plain, "In vacuum each colour is c alike, its frequency and its wavelength reciprocal, and colours part only with a coupling"),
+                        (living_plain, "a constant setting from an elsewhere, a beat lying over couplings each with their own"),
+                        (living_plain, "Each self sequences its own beat and coheres with its couplings"),
+                        (living_plain, "a self's own rate is written with none, unrelationing with each other rate"),
+                        (living_plain, "bothboth, each carrying on both its sides, one at a time"),
+                        (six, "order has no rate"),
+                        (living_plain, "each pixel gives an ON or OFF event, with no frame and with its own moment"),
+                        (living_plain, "resolving them to light bi-couplers for sight"),
+                        (living_plain, "Sinoatrial cells each pace with their own rate, and node's one beat is a pace they settle to together, no cell setting it for others"),
+                        (living_plain, "rate at every grain and no cell having it"),
+                        (living_plain, "its flow sets which side an organism's heart stands on, on thirty-seven")]:
+    assert sentence in where, sentence
+    print(f"   found: {sentence}")
+heavier = 1 + 1 / 1836.15267
+measured = {3: 656.46, 4: 486.27, 5: 434.17, 6: 410.29}
+for n in (3, 4, 5, 6):
+    in_turns = Fraction(8 * n * n, n * n - 4)
+    length = float(in_turns) * a_turn * heavier * light * 1e9
+    assert abs(length / measured[n] - 1) < 2e-4, (n, length)
+    print(f"   hydrogen's light an eye sees, its shell 2 with {n}: an alternating is {in_turns} of the atom's own turns, {float(in_turns):.2f}; its length {length:.2f} of a thousand-millionth of a metre, a field's measure {measured[n]}")
+print(f"   its bound, shell 2 with all: 8 turns, {8 * a_turn * heavier * light * 1e9:.1f}; and 16 turns, {16 * a_turn * heavier * light * 1e9:.1f}: an eye's light is at 380 to 750, "
+      f"{380e-9 / light / a_turn:.1f} to {750e-9 / light / a_turn:.1f} turns: one doubling, 8 to 16, {abs(8 * a_turn * light * 1e9 / 380 - 1) * 100:.0f} and {abs(16 * a_turn * light * 1e9 / 750 - 1) * 100:.0f} of a hundred apart at its two edges")
+by_day, by_night = 1 / 540e12, 507e-9 / light
+print(f"   an eye's most seen light by day, 540 million million alternatings a second: {by_day / a_turn:.2f} of the atom's turns, {by_day / a_crossing:,.0f} of light's crossings; by night {by_night / a_turn:.2f}; "
+      f"61 of 5 is {61 / 5}, {abs(61 / 5 / (by_day / a_turn) - 1) * 100:.2f} of a hundred from the day's: one number near, in a band a doubling wide")
+a_fold, a_flicker = 200e-15, 1 / 60
+print(f"   an eye's is-or-is-not: one retinal with one light folds or not, in {a_fold * 1e15:.0f} millionths of a thousand-millionth of a second, a field's measure: {a_fold / by_day:.0f} alternatings of its light, {a_fold / a_turn:,.0f} of the atom's turns")
+for name, moment in [("the atom's own turn", a_turn), ("an eye's light by day", by_day), ("retinal's fold", a_fold), ("an eye's flicker fusing, 60 a second", a_flicker),
+                     ("a heartbeat, 100 a minute", 0.6), ("a heartbeat, 60 a minute", 1.0)]:
+    print(f"   {name}: {math.log2(moment / a_crossing):.1f} doublings of light's crossing of the atom, and {math.log2(moment / crossing):.1f} of its crossing of the molecule")
+print(f"   light's crossing of the atom doubled 62 times is {2 ** 62 * a_crossing:.3f} of a second, {60 / (2 ** 62 * a_crossing):.0f} a minute; of the molecule doubled 61 times, {2 ** 61 * crossing:.3f}, {60 / (2 ** 61 * crossing):.0f} a minute: "
+      f"a heartbeat at rest is at the 61st to the 62nd doubling; the band of a heart at rest is {math.log2(100 / 60):.2f} of a doubling wide, and a doubling is in it {math.log2(100 / 60) * 100:.0f} times of a hundred by its width alone")
+print(f"   phi a four from 61 to 37, six fours: {phi ** 6:.1f} crossings, {phi ** 6 * a_crossing * 1e18:.1f} of a million-million-millionth of a second, beside a heartbeat: is-not; "
+      f"and a number's part, 61 of 37, {61 / 37:.2f}: is-not")
+print(f"   a heartbeat is the fastest alternating of an organism: is-not, an eye's flicker fusing being {1.0 / a_flicker:.0f} to a heartbeat; the heart's own fastest pacing part paces its slower ones, a field's own: is")
+
+print("\n26. Fifteen names of the public statement, asked by v406me: the opening's line saying a name, or no line")
+FIFTEEN = ["a spiral of n selves", "a seam", "a turn", "a cone forward", "a place", "a flip", "a prime born", "a stable form", "a wave and a pitch", "the between", "a side and a hair",
+           "a surface and a part's parity", "a crossing", "the spirals carried", "an all-parity vault"]
+WAITING = {"between": "The between is the other-than-the-other of both the named self and the named other.", "stable form": "An atom is the stable form of the fractal universe."}   # the document's waiting lines, with no number, at its revision 610
+its_line = {"-".join(parts): n for parts, n in joined.names.items()}
+for a_name in FIFTEEN:
+    words = [w for w in re.split(r"\s+", re.sub(r"^(a|an|the) ", "", a_name)) if w not in ("a", "an", "the", "and", "of", "n")]
+    words = [joined.FORMS.get(w[:-2] if w.endswith("'s") else w, w[:-2] if w.endswith("'s") else w) for w in words]
+    if "stable" in words:
+        words = ["stable form"]
+    by = [f"{w}, line {its_line[w]}" if w in its_line else f"{w}, a waiting line with no number" if w in WAITING else f"{w}, no line" for w in words]
+    print(f"   {a_name}: {'; '.join(by)}")
+with_a_line = sorted({w for a_name in FIFTEEN for w in re.findall(r"[a-z-]+", a_name) if joined.FORMS.get(w, w) in its_line})
+print(f"   words of the fifteen with a line of the opening: {', '.join(with_a_line)}; waiting, with no number: {', '.join(WAITING)}")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")

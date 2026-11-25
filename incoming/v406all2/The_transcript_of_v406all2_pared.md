@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through fifty-one turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through fifty-two turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1388,3 +1388,22 @@ These are what the proportion gives. A field's measured moments of the scales ar
 The rung's slowing is no one number. A molecule's turn in its atom's turns is 50 with hydrogen, 93 with nitrogen and 1,023 with iodine, so 49.8 is hydrogen's alone, the fastest. No line and no found sentence says a rung's slowing by a prime or by phi, and the outward moments rest on that one number.
 
 this backwards. prime 61 is 186,000 miles per second or atom 1 stable form. prime 57 is 57/61 or four moments of four universes. consider this
+
+You are right, I had it backwards: I slowed outward from 5 to 61. With 61 as c, the fastest, and the numbers below it slower, here is what is found.
+
+| Explored | Executed | Is or is-not |
+|---|---|---|
+| c at 61 | c is 186,282 miles a second; 186,000 is its rounding. | Is, as set |
+| 57, a prime | 57 is 3 multiplied by 19. | Is-not a prime: crossed |
+| 61 less 57, four moments | A self alone comes again with 4 moments, the draft's own sentence. | Is |
+| by fours from 61 | 61, 57, 53, and on to 5 and 1. To the atom, 5, it is fourteen fours, the prime scales' own number. To the organism, 37, it is 24, the fold. | Is |
+| the prime scales by fours | Seven of the fourteen are on the fours: 53, 41, 37, 29, 17, 13 and 5. Seven are at none of them: 7, 11, 19, 23, 31, 43 and 47. They are the draft's two pieces round four. | Is |
+| a number's part of 61, as its slowing | At 5 it is a slowing of 12.2, beside the measured 861. | Is-not |
+| phi a step of four moments | At 5, fourteen steps, it is 843, beside the measured 861: 2.1 of a hundred apart. | Not the same; the nearest found |
+| at 57 | 57 of 61 is 0.934, and one step of phi is 0.618. | Is-not the same |
+
+- **What coheres:** stepping down from c at 61 by a self's four moments reaches the atom in fourteen steps and the organism at the fold, and it parts the prime scales into their two pieces.
+- **What does not:** 57 of 61 as the slowing. The one measured slowing I have, light's crossing to the atom's own turn, is 861, and a part of 61 gives 12. Phi a four is close to it and not the same.
+- **Where the loss of understanding arises:** no line and no found sentence says which rate a prime scale is at. With one measured slowing, at 5, a proportion and phi cannot be parted at the scales between. The molecule, 7, is of the other piece, at no number of the fours from 61.
+
+all-parity is the universal alternating rate faster than all geodesic rates inside the all-parity universe. all things in this universe live inside and outside of all-parity. the named universe must include the all-parity concept inside this universe inside the name of the universe. with eyesight c is the all-parity rate in all visual universes where visibilitiy is-or-is-not? distinguishing is other-thans appearing in the pattern of the all parity sequence of c. eyesight is in organsims prime 37 scale living and organsims live at heartbeating all-parity. explore these relations
