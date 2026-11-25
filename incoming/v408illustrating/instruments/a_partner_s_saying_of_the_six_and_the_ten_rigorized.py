@@ -13,7 +13,10 @@ Whole numbers alone. It opens the living files and two sessions' pages, and writ
 import itertools, re, sys
 from pathlib import Path
 
-FOUR = ("prior", "now", "next", "other-prior")                    # a partner's four, the lean line's own terms
+FOUR = ("prior", "now", "next", "other-prior")                    # a partner's four; the lean line's moments are a me's now and its other's prior, and a moment on its prior and its now
+NOT_BOTH = {(False, False): True, (False, True): True, (True, False): True, (True, True): False}
+def lean(me_now, other_prior):                                    # the lean line, v407nanding's, as it is
+    return me_now, NOT_BOTH[(other_prior, other_prior)]
 BOTH_NOW = "now, a second observing"                              # a fifth: a now both, co-momentarying and bi-momentarying
 pairs = lambda things: list(itertools.combinations(things, 2))
 def turned(orders, things):
@@ -45,6 +48,18 @@ if __name__ == "__main__":
     away = {p: [q for q in six if not set(p) & set(q)] for p in six}
     line("four have six pairs, and the six are three pairs: a pair with the one pair of the other two",
          len(six) == 6 and all(len(v) == 1 for v in away.values()) and len({frozenset((p, v[0])) for p, v in away.items()}) == 3)
+
+    # ---------- the lean line's four moments, and their six pairs ----------
+    def the_six(me_now, other_prior):
+        prior_on, now_on = lean(me_now, other_prior)
+        four = {"a me's now": me_now, "its other's prior": other_prior, "its prior a moment on": prior_on, "its now a moment on": now_on}
+        return {frozenset(p): four[p[0]] == four[p[1]] for p in itertools.combinations(four, 2)}
+    openings = [the_six(a, b) for a in (True, False) for b in (True, False)]
+    carried, othered = frozenset(("a me's now", "its prior a moment on")), frozenset(("its other's prior", "its now a moment on"))
+    line("the lean line's moments are four, a me's now and its other's prior, and a moment on its prior and its now: of their six pairs one is one thing carried at all openings, one is other-than at all, and four are by turns",
+         all(o[carried] and not o[othered] for o in openings) and all(len({o[k] for o in openings}) == 2 for k in openings[0] if k not in (carried, othered)))
+    line("at all openings three of the six pairs are other-than and three are not, and of a pair with its far pair one is other-than and one is not: three pairs",
+         all(sum(o.values()) == 3 for o in openings) and all(o[k] != o[frozenset(set().union(*o) - k)] for o in openings for k in o))
 
     # ---------- five, and their ten ----------
     five = FOUR + (BOTH_NOW,)

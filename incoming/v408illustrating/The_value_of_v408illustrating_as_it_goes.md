@@ -53,7 +53,7 @@ A learning, its session, and its place in this folder.
 
 An is of both with a partner, 25 November: a column leads. A column is one prime living, executed, and a row is one fixing, marked on it once. Four forms, in their order of reach: the whole table as one face, made from the form's own page; a column a drawing, six; a row a drawing, ten, by Natural Illustrating 7.1's three parts; and the ten on the method's own figure. A seat is a placing, said apart on a drawing.
 
-A partner's saying of the six and the ten is rigorized in `A_partner_s_saying_of_the_six_and_the_ten_rigorized.md`, its instrument eleven lines, all *is*: the ten view is the six view with a now both; its seating is hanging.
+A partner's saying of the six and the ten is rigorized in `A_partner_s_saying_of_the_six_and_the_ten_rigorized.md`, its instrument thirteen lines, all *is*: the ten view is the six view with a now both; by the lean line three of the six pairs are other-than at all openings and three are not; its seating is hanging.
 
 ## Its placings, no execution says them
 
