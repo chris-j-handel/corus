@@ -609,4 +609,15 @@ for name, per_second in [("hydrogen's", 1.32e14), ("nitrogen's", 7.07e13), ("iod
     print(f"   a molecule's turn in its atom's turns, {name}: {1 / per_second / a_turn:,.0f}", end=";")
 print(" the rung's slowing is no one number")
 
+print("\n24. 61 as c, the fastest, and the numbers below it slower: 57 of 61, and four moments")
+by_fours = list(range(61, 0, -4))
+scales = {prime: name for prime, name in RUNGS}
+print(f"   c is {light / 1609.344:,.0f} miles a second, and 186,000 is its rounding; 57 is 3 multiplied by 19, crossed: {'is' if 57 == 3 * 19 else 'is-not'}; 61 less 57 is 4, a self alone's coming again, the page's own: {said('comes again with 4', text.replace('**', ''))} found")
+print(f"   by fours from 61: {by_fours}; to 5 it is {(61 - 5) // 4} fours, the prime scales' own number, and to 37 it is {61 - 37}, the fold")
+print(f"   uncrossed among them: {[n for n in by_fours if uncrossed(n)]}; the prime scales among them: {[f'{n} {scales[n]}' for n in by_fours if n in scales and n < 59]}; the scales at none of them: {[n for n, name in RUNGS if n < 59 and n not in by_fours]}")
+print(f"   a number's part of 61, at 5: a slowing of {61 / 5:.1f}, beside the measured {inward:.1f}: is-not")
+print(f"   phi a step of four moments, at 5, fourteen steps: {phi ** 14:.1f}, beside the measured {inward:.1f}, {abs(phi ** 14 / inward - 1) * 100:.1f} of a hundred apart: not the same, and the nearest found")
+print(f"   at 57, a step: 57 of 61 is {57 / 61:.3f}, and one of phi is {1 / phi:.3f}: is-not the same")
+print(f"   the molecule's turn, {inward * a_rung:,.0f} crossings, is phi by {math.log(inward * a_rung) / math.log(phi):.1f} steps, {4 * math.log(inward * a_rung) / math.log(phi):.0f} moments below 61: below 1, at no number of the fours")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")

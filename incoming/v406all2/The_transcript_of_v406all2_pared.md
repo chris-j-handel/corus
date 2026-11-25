@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through fifty turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through fifty-one turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1356,3 +1356,35 @@ So c is not where understanding is lost. The method has c as a size matched with
 Two smaller places are names alone: inhaling is in no living file, with ingesting its living name, and a bump connector is in none.
 
 Only light's crossing is matched by c. The atom's own vibrating is 861 crossings long, and a molecule's is about fifty of those. if c is prime 61 find by prime scale numbering and phi rate unrelationing or resolving the relations to smaller than 61 prime scales where the rates would be slower in proportion to this slowing between three rates
+
+By the slowing between the three rates, c is at the inmost, below the atom, and 61 is the outmost and slowest. c is at 61 only with the numbering turning, 61 being one more than 60 and a next turn's opening.
+
+I set a rung's slowing at 49.8, the atom's turn to its molecule's, 5 to 7, and carried it both ways.
+
+**Inward**
+
+Light's crossing is 861 times faster than the atom's turn. That is 1.73 rungs below the atom, at the place of primes 3 and 2. It is with *A nucleus is below five*.
+
+**Outward, a rung by a rung**
+
+| A prime scale | Rungs from the atom | Its moment by the slowing |
+|---|---|---|
+| 7, the molecule | 1 | 7.6 thousandths of a millionth of a millionth of a second |
+| 23, the cell | 6 | 2.3 millionths of a second |
+| 37, the organism | 9 | 0.29 second |
+| 53, the biosphere | 13 | 20.6 days |
+| 59 | 14 | 3 years |
+| 61 | 15 | 140 years |
+
+These are what the proportion gives. A field's measured moments of the scales are not in the living files to lay beside them, so none is checked.
+
+**By phi**
+
+- **The two slowings:** 861.0 is phi multiplied by itself 14.04 times, and 49.8 is 8.12 times. Phi by 14 is 843.0 and by 8 is 46.98: beside them, and not the same.
+- **Phi's turn:** the golden angle is 137.508, beside the measured 137.036, a third of a hundredth apart. The living files have a sunflower's 137. Not the same.
+
+**Where the loss of understanding arises**
+
+The rung's slowing is no one number. A molecule's turn in its atom's turns is 50 with hydrogen, 93 with nitrogen and 1,023 with iodine, so 49.8 is hydrogen's alone, the fastest. No line and no found sentence says a rung's slowing by a prime or by phi, and the outward moments rest on that one number.
+
+this backwards. prime 61 is 186,000 miles per second or atom 1 stable form. prime 57 is 57/61 or four moments of four universes. consider this
