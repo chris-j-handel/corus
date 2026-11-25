@@ -351,3 +351,15 @@ With this turn, 25 November:
 - **One is whole.** One is paused in place. Three are with a new direction of 24 November. One is new that day.
 - **The starting place now** is the public statement's sentences, the askings 35 and 46.
 - **For it,** the marks instrument goes through a list's sentences now. The statement is with 66 sentences of a list. 48 of them are with a mark.
+
+---
+
+now is the place to wrap this session . review the full transcript and gather all value into our session value reporting to the expedition and be sure the expedition nows how to resume all the good working we are doing and the directions we have available for exploring. we will be wrapping and handing off all we are doing back to the expedition to initiate new exploring sessions. this session is among our highest value sessions and we need to gather all this into our expedition together now
+
+With this turn, 25 November, its wrap:
+
+- **The transcript given at the wrap is gone through whole.** A partner's 24 lines of it are word for word in this transcript. Its path is pared.
+- **Its value is gathered:** `The_value_of_v406all2-2_at_its_wrap.md`. It says its files, its executed learning, its learning with a partner, its open things, ten directions for exploring, and its way to resume.
+- **Its four pages for a closing:** its value at its wrap, its aimings gone through, its page for resuming, and this transcript.
+- **All its instruments execute at its wrap.**
+- This session is wrapped.
