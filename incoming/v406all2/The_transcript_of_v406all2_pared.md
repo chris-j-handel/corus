@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-six turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-seven turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1281,3 +1281,18 @@ Both sentences are in the document at their places, and no line's number moved. 
 The other sessions are told of the two lines, for their pages. I am going on with the opening from here.
 
 continue
+
+Two more lines are in the document at their places, with nothing asked and no number moved.
+
+| A line, as it is laid | Its place | What it resolves |
+|---|---|---|
+| *Co- is both selves of a bi-coupling.* | After 29, numbered 35 | It was the waiting card 35, hanging on the word of. Said with no of, no line hangs on *is of* now. The card is withdrawn. |
+| *Parity is a self's own now.* | After 35, numbered 52 | Parity was a word with no line. It is the living files' *Parity is each self's own, now*, said with own's line of today. Parity is named ahead of 30, 31, 32 and 33. |
+
+- **The words with no line are eight,** of lines 1 to 34: other-than until its line, no, not, same, ending, beginning, distinguishing and two. Only is one more, at 51.
+- **The living list's table is said again in the document,** at parity.
+- **The other sessions are told** of the two lines, for their pages.
+
+Next are the waiting cards 36 to 48, gone through in the same way, a line in at its place where its words are all named.
+
+co- is all-other-than-the-other.
