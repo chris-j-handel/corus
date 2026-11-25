@@ -18,12 +18,12 @@ A sentence below ends with its standing, in brackets: with all numbers; stepped,
 
 ## Along and across
 
-- The +1 goes along: a number after a number.
-- Multiplying goes across: rows by columns, a row and a column of 2 and on. (a naming)
-- Multiplying lands on the crossed numbers, all of them, and on no other number. (with all numbers; stepped, 2 to 5,000)
-- A prime is a number multiplying lands on at no rows and columns. (with all numbers; stepped, 2 to 5,000)
-- A prime past 3 is a +1 from the landing below it and a −1 from the landing above it. (with all numbers; stepped, to 400,000)
-- A partner's naming of it: a prime is a same-existing, living in an all-parity vault between the parities going along and the parities crossing. (a naming)
+- The +1 is along: a number after a number.
+- Multiplying is across: rows by columns, a row and a column of 2 and on. (a naming)
+- Multiplying makes the crossed numbers, all of them, and no other number. (with all numbers; stepped, 2 to 5,000)
+- A prime is a number multiplying makes with no rows and columns. (with all numbers; stepped, 2 to 5,000)
+- A prime past 3 is a +1 from the crossed number below it and a −1 from the crossed number above it. (with all numbers; stepped, to 400,000)
+- A partner's naming of it: a prime is a same-existing, living in an all-parity vault between the parities along and the parities across. (a naming)
 
 ## A spiral
 
