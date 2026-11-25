@@ -48,6 +48,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, parity and co- in at their places.** *Co- is both selves of a bi-coupling.* is after 29, numbered 35, its card withdrawn and no line hanging on is of. *Parity is a self's own now.* is after it, numbered 52, by the found *Parity is each self's own, now* and own's line. The words with no line are eight.
 - **On 24 November, co- said again.** 35 is *Co- is all-other-than-the-other.*, said with 20 alone, with the found *co me-parity, bi other-parity, tri all-parity* and 34. This session's saying of co- as both selves is with not all: both is bi-'s.
 - **On 24 November, c explored.** c is an atom's size matched with its moment, with the found *c is a ledger's space-to-time conversion, not a rate going across a gap*. Light's crossing of a hydrogen molecule is 247 zeptoseconds, a field's shortest measured moment; a molecule's own vibrating is 30,650 crossings a turn, and is not the shortest. All-parity, a universal set, is all or none at all. Natural Transmissioning is a version's name behind, and a note is laid in its gathering file.
+- **On 24 November, less than cohering resolved farther.** Three moments, and not two: light's crossing of an atom's radius; the atom's own turn, 861 crossings, a turn's 2 pi multiplied by 137.036; and a molecule's vibrating turn, 49.8 of the atom's. c matches the size with the crossing alone. The loss of understanding arises at two measured numbers, 137.036 and 1,836.15, defined by none, and below five, a nucleus at no rung.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -800,6 +801,20 @@ All or none at all, binary, executed by `instruments/a_draft_gone_through_beside
 
 - **Resolved by cohering:** c is the atom's size matched with its moment, a size to a moment and no speed across; and the shortest moment is light's crossing of two atoms, not a molecule's vibrating.
 - **For Natural Transmissioning's next version,** a note is laid in its gathering file.
+
+### Less than cohering, resolved farther, and the places a loss of understanding arises
+
+Executed by the instrument's part 22. Three moments are found, and not two.
+
+| A moment | Its size in light's crossings of an atom's radius | Matched with the atom's size by |
+|---|---|---|
+| light's crossing of the radius, 177 zeptoseconds | 1 | c |
+| the atom's own turn, 152 attoseconds | 861, a turn's 2 pi multiplied by 137.036 | c over 137.036 |
+| a molecule's vibrating turn | 42,919, and 49.8 of the atom's turns | a second number more, a field's weight of a nucleus's part over an electron's, 1,836.15, by its root |
+
+- **Resolved farther:** c matches the atom's size with light's crossing. The atom's own vibrating is matched with its size by c over 137.036, and a molecule's by a second number more. The exploring said the three as one moment.
+- **The loss arises at two numbers, and not at c.** Found: *A dimensionless constant, fine-structure constant first, is measured and defined by none*. 137.036 is measured, and no line, no found sentence and no field's deriving says it. Its whole part, 137, is uncrossed, and the number is not whole. 1,836 is at no place of the living files.
+- **The loss arises below five.** Found: *A nucleus is below five*. The fourteen prime scales open at 5, the atom, and 2 and 3 are at no rung. A nucleus's crossing is shorter than the atom's by its size, the radius 62,997 of a nucleus's: the atom's crossing is the shortest moment of the scales as they are, and not of all now-existing moments with a nucleus now-existing below it.
 
 ## Resuming v406all2
 

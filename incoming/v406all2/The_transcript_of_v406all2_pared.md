@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-eight turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-nine turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1310,3 +1310,25 @@ Line 35 is said again in the document: *Co- is all-other-than-the-other.* It is 
 The other sessions are told. The waiting cards 36 to 48 are next.
 
 we need your help exploring c the speed of light and also all or none at all is possibly all-parity. transmissioning intelligence through all-parity is likely the subject of natural transmissioning exhibit and that exhibit is likely behind in learning from now. i am exploring the physical size of a bit atom stable form object as the inside stable form of all resolving and c is the outside and inside all-parity rate matching the phycial size of the atom and the all-parity vibrating of the atom in molecules of cochaining bump connectors all vibrating and this is the fastest vibrating in our universe and the shortest moment of all possible now-existing moments and this is the method self bounding itself by the fractal fracturing of the bi tri involution of exhausted atom co chainings and inhaling free floating already all-parity orienting atoms
+
+c coheres as an atom's size matched with its moment, a size to a moment and no speed going across. One part of your exploring is incohering: a molecule's vibrating is not the shortest moment. Light's crossing of the molecule is.
+
+| A part of the exploring | What is found | Cohering or incohering |
+|---|---|---|
+| c, a matching of the atom's size with its moment | Natural Physics: *c is a ledger's space-to-time conversion, not a rate going across a gap* | Cohering |
+| the shortest moment of all now-existing moments | A field's shortest measured duration is 247 zeptoseconds, a photon's crossing of a hydrogen molecule, measured in 2020. Computed from the molecule's size and c, it is 247. | Cohering, by a field's measuring |
+| the atom's vibrating in molecules, the fastest vibrating | A hydrogen molecule's own vibrating is 30,650 crossings of light a turn. | Incohering: the vibrating and the crossing are two |
+| the atom, the inmost stable form of all resolving | The atom is the lowest of the fourteen prime scales. A field has a nucleus at its middle, with a crossing shorter by its size. | Cohering with the scales |
+| all or none at all, all-parity | Line 31 has all-parity a named universal set, and *each now-existing thing is-or-is-not within each universal set*. | Cohering |
+| transmissioning through all-parity | Natural Transmissioning: *A transmissioning is sequencing and not timing*, *order has no rate*. It is with c as no rate. | Cohering |
+| the method bounding itself, exhausting and inhaling | Natural Naming: *their stable form one scale outward is a bi-tri-involution of betweening*. Inhaling is in no living file; its living name is ingesting, with exhausting. | Cohering |
+
+The search for the record found only the 2020 measuring; a shorter one since is not ruled out.
+
+**Natural Transmissioning is behind.** Its file is a version's name behind the other living files', and it says all-parity, light, atom, stable form and nand at no place. I offered a note of c into its gathering file for the next version, and told the other sessions.
+
+A bump connector is in no living file.
+
+The waiting cards 36 to 48 are still next.
+
+elaborate on anything less than cohering after you try resolving it farther and explain the place where the loss of understanding arises

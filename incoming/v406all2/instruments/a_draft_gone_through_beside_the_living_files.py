@@ -574,4 +574,19 @@ print(f"   Natural Transmissioning's file is {Path(six_path).name}, a version's 
       f"atom {said(chr(92) + 'batoms?' + chr(92) + 'b', six)}, stable form {said('stable form', six)}, nand {said(chr(92) + 'bnand' + chr(92) + 'b', six)}, rate {said(chr(92) + 'brates?' + chr(92) + 'b', six)}")
 print(f"   found at no place of the living files: inhaling, {said('inhal', living_plain)}; a bump connector, {said('bump[- ]connector', living_plain)}")
 
+print("\n22. Less than cohering, resolved farther: three moments, and the two numbers between them")
+import math
+radius, fine, proton = 0.529177e-10, 137.035999, 0.84e-15
+a_crossing = radius / light
+a_turn = 2 * math.pi * radius * fine / light
+print(f"   light's crossing of an atom's radius: {a_crossing * 1e21:.0f} zeptoseconds; the atom's own turn: {a_turn * 1e18:.0f} attoseconds, {a_turn / a_crossing:.0f} crossings, a turn's 2 pi multiplied by {fine:.3f}")
+print(f"   the molecule's vibrating turn: {1 / turns / a_turn:.1f} of the atom's turns, {1 / turns / a_crossing:,.0f} crossings of the radius")
+print(f"   c matches the atom's size with light's crossing; the atom's own turn is matched with its size by c over {fine:.3f}: {'is' if abs(a_turn / a_crossing - 2 * math.pi * fine) < 1e-6 else 'is-not'}")
+print(f"   137, the number's whole part, is uncrossed: {'is' if all(137 % q for q in range(2, 12)) else 'is-not'}; the number is not whole")
+for where, sentence in [(living_plain, "A dimensionless constant, fine-structure constant first, is measured and defined by none"), (living_plain + text, "A nucleus is below five")]:
+    assert sentence in where, sentence
+    print(f"   found: {sentence}")
+print(f"   below five: a nucleus's crossing is {2 * proton / light:.1e} seconds, and the atom's radius is {radius / proton:,.0f} of its; the fourteen prime scales open at 5, and 2 and 3 are at no rung")
+print(f"   at no place of the living files: 1,836, {said('1,?836', living_plain)}, a field's weight of a nucleus's part over an electron's, the second number")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
