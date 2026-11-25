@@ -49,6 +49,12 @@ A learning, its session, and its place in this folder.
 
 *A prime is a right spiral step* is the draft's naming. No living sentence says it, and no number executes it. The numbers execute four right spiral steps reaching their pair again, Exhibit THIRTY's sentence, and 7, 19 and 37 as the 4th, 8th and 12th primes. It was brought to a partner as one is-or-is-not, with an asking of laying this folder beside it. A partner's word of 25 November was a yes. This session has it as both: an is of the sentence, and the word to lay. It is said back to a partner that way, and a yes is no approving.
 
+## The prime resolving form, its drawings planned
+
+An is of both with a partner, 25 November: a column leads. A column is one prime living, executed, and a row is one fixing, marked on it once. Four forms, in their order of reach: the whole table as one face, made from the form's own page; a column a drawing, six; a row a drawing, ten, by Natural Illustrating 7.1's three parts; and the ten on the method's own figure. A seat is a placing, said apart on a drawing.
+
+A partner's saying of the six and the ten is rigorized in `A_partner_s_saying_of_the_six_and_the_ten_rigorized.md`, its instrument eleven lines, all *is*: the ten view is the six view with a now both; its seating is hanging.
+
 ## Its placings, no execution says them
 
 - The 40th: the hand of the turn on the page, with the closings at the top; a step's distance from the 1 by its number among the steps, and by no size of its prime.
