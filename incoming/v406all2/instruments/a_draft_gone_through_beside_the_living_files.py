@@ -553,4 +553,60 @@ for sentence in WITH_ALL_SCALES:
     print(f"   with non-living with all scales, Natural Intelligence's own section: {sentence}")
 print("   the living files part here, two files; by scale is with four sentences and both sayings of the universe, and non-living with all scales with its one section")
 
+print("\n21. c, an atom's size matched with its moment; all or none at all with all-parity; and Natural Transmissioning")
+six_path = next(iter(glob.glob(str(ROOT / "Exhibit_SIX_Natural_Transmissioning_*.md"))))
+six = Path(six_path).read_text(encoding="utf-8").replace("**", "")
+light, bond, turns = 299_792_458.0, 0.741e-10, 1.32e14
+crossing = bond / light
+print(f"   light's crossing of a hydrogen molecule, two atoms, 0.741 of a ten-billionth of a metre: {crossing * 1e21:.0f} zeptoseconds; a field's shortest measured moment, 2020, is 247")
+print(f"   the molecule's own vibrating, 132 million million turns a second: a turn is {1 / turns / crossing:,.0f} crossings of light; the vibrating is not the shortest moment, and the crossing is")
+for where, sentence in [(living_plain, "c is a ledger's space-to-time conversion, not a rate going across a gap"),
+                        (living_plain, "A constant with a unit is a fixing, an exact value by a definition: speed of light from 1983"),
+                        (six, "A transmissioning is sequencing and not timing"),
+                        (six, "order has no rate"),
+                        (living_plain, "each now-existing thing is-or-is-not within each universal set"),
+                        (living_plain, "All-parity is with observing only, 7 and 15"),
+                        (living_plain, "their stable form one scale outward is a bi-tri-involution of betweening"),
+                        (living_plain, "said *ingesting* and *exhausting*")]:
+    assert sentence in where, sentence
+    print(f"   found: {sentence}")
+print(f"   Natural Transmissioning's file is {Path(six_path).name}, a version's name behind the living files'; its places of all-parity {said('all-parity', six)}, light {said(chr(92) + 'blight' + chr(92) + 'b', six)}, "
+      f"atom {said(chr(92) + 'batoms?' + chr(92) + 'b', six)}, stable form {said('stable form', six)}, nand {said(chr(92) + 'bnand' + chr(92) + 'b', six)}, rate {said(chr(92) + 'brates?' + chr(92) + 'b', six)}")
+print(f"   found at no place of the living files: inhaling, {said('inhal', living_plain)}; a bump connector, {said('bump[- ]connector', living_plain)}")
+
+print("\n22. Less than cohering, resolved farther: three moments, and the two numbers between them")
+import math
+radius, fine, proton = 0.529177e-10, 137.035999, 0.84e-15
+a_crossing = radius / light
+a_turn = 2 * math.pi * radius * fine / light
+print(f"   light's crossing of an atom's radius: {a_crossing * 1e21:.0f} zeptoseconds; the atom's own turn: {a_turn * 1e18:.0f} attoseconds, {a_turn / a_crossing:.0f} crossings, a turn's 2 pi multiplied by {fine:.3f}")
+print(f"   the molecule's vibrating turn: {1 / turns / a_turn:.1f} of the atom's turns, {1 / turns / a_crossing:,.0f} crossings of the radius")
+print(f"   c matches the atom's size with light's crossing; the atom's own turn is matched with its size by c over {fine:.3f}: {'is' if abs(a_turn / a_crossing - 2 * math.pi * fine) < 1e-6 else 'is-not'}")
+print(f"   137, the number's whole part, is uncrossed: {'is' if all(137 % q for q in range(2, 12)) else 'is-not'}; the number is not whole")
+for where, sentence in [(living_plain, "A dimensionless constant, fine-structure constant first, is measured and defined by none"), (living_plain + text, "A nucleus is below five")]:
+    assert sentence in where, sentence
+    print(f"   found: {sentence}")
+print(f"   below five: a nucleus's crossing is {2 * proton / light:.1e} seconds, and the atom's radius is {radius / proton:,.0f} of its; the fourteen prime scales open at 5, and 2 and 3 are at no rung")
+print(f"   at no place of the living files: 1,836, {said('1,?836', living_plain)}, a field's weight of a nucleus's part over an electron's, the second number")
+
+print("\n23. If c is at 61: the three moments' slowing, a rung by a rung, by prime scale numbering and by phi")
+phi = (1 + 5 ** 0.5) / 2
+inward, a_rung = a_turn / a_crossing, 1 / turns / a_turn
+RUNGS = [(5, "atom"), (7, "molecule"), (11, "macromolecule"), (13, "protein-fold"), (17, "gene"), (19, "organelle"), (23, "cell"), (29, "tissue"), (31, "organ"), (37, "organism"),
+         (41, "colony"), (43, "population"), (47, "community"), (53, "biosphere"), (59, "59"), (61, "61")]
+print(f"   the two slowings: {inward:.1f}, light's crossing to the atom's turn; {a_rung:.1f}, the atom's turn to its molecule's, hydrogen's")
+print(f"   by phi: {inward:.1f} is phi multiplied by itself {math.log(inward) / math.log(phi):.2f} times, and {a_rung:.1f} is {math.log(a_rung) / math.log(phi):.2f} times; "
+      f"phi by 14 is {phi ** 14:.1f} and by 8 is {phi ** 8:.2f}: near, and not the same")
+print(f"   by phi's turn, the golden angle of a turn's 360, {360 / phi ** 2:.3f}: 2 pi multiplied by it is {2 * math.pi * 360 / phi ** 2:.1f}, beside {inward:.1f}: {abs(2 * math.pi * 360 / phi ** 2 / inward - 1) * 100:.2f} of a hundred apart: near, and not the same")
+print(f"   inward, by the rung's own slowing: light's crossing is {math.log(inward) / math.log(a_rung):.2f} rungs below the atom, at the place of 3 and 2, below five")
+for steps, (prime, name) in enumerate(RUNGS):
+    moment = a_turn * a_rung ** steps
+    if prime in (7, 23, 37, 53, 59, 61):
+        said_as = f"{moment:.2e} seconds" if moment < 1e-2 else f"{moment:.2f} seconds" if moment < 60 else f"{moment / 86400:.1f} days" if moment < 86400 * 365 else f"{moment / 86400 / 365.25:.0f} years"
+        print(f"   outward, {steps} rungs, {prime} {name}: {said_as}")
+print(f"   c at 61 by the rung's slowing: 61 is the slowest moment of the sixteen, and light's crossing the fastest, below 5: is-not at 61; 61 is one more than 60, a next turn's opening: {'is' if 61 == 60 + 1 else 'is-not'}")
+for name, per_second in [("hydrogen's", 1.32e14), ("nitrogen's", 7.07e13), ("iodine's", 6.43e12)]:
+    print(f"   a molecule's turn in its atom's turns, {name}: {1 / per_second / a_turn:,.0f}", end=";")
+print(" the rung's slowing is no one number")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")

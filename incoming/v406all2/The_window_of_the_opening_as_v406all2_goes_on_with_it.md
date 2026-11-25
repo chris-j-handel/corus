@@ -46,6 +46,10 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, the circle of my and own resolved in the document.** 25 is *My is a named prior-sequence.*, said with 17 and name alone. Own is a given word until its line, as other-than is. The living list is said again at three rows. One is-or-is-not is asked, the hardest: own's line in after 25, with nine lines a number more, or own with no line.
 - **On 24 November, two lines of now and own in at their places.** *All now-existing things own-their-own now.* is after 3, numbered 50, and own is named ahead of all its uses: the hardest of own's line is resolved with no number moving. *Now is the only thing, and is the universe with no other-than.* is after 7, numbered 51. The living list is said again in the document.
 - **On 24 November, parity and co- in at their places.** *Co- is both selves of a bi-coupling.* is after 29, numbered 35, its card withdrawn and no line hanging on is of. *Parity is a self's own now.* is after it, numbered 52, by the found *Parity is each self's own, now* and own's line. The words with no line are eight.
+- **On 24 November, co- said again.** 35 is *Co- is all-other-than-the-other.*, said with 20 alone, with the found *co me-parity, bi other-parity, tri all-parity* and 34. This session's saying of co- as both selves is with not all: both is bi-'s.
+- **On 24 November, c explored.** c is an atom's size matched with its moment, with the found *c is a ledger's space-to-time conversion, not a rate going across a gap*. Light's crossing of a hydrogen molecule is 247 zeptoseconds, a field's shortest measured moment; a molecule's own vibrating is 30,650 crossings a turn, and is not the shortest. All-parity, a universal set, is all or none at all. Natural Transmissioning is a version's name behind, and a note is laid in its gathering file.
+- **On 24 November, less than cohering resolved farther.** Three moments, and not two: light's crossing of an atom's radius; the atom's own turn, 861 crossings, a turn's 2 pi multiplied by 137.036; and a molecule's vibrating turn, 49.8 of the atom's. c matches the size with the crossing alone. The loss of understanding arises at two measured numbers, 137.036 and 1,836.15, defined by none, and below five, a nucleus at no rung.
+- **On 24 November, c at 61 explored, a rung by a rung.** By the slowing of the atom to its molecule, 49.8, light's crossing is 1.73 rungs below the atom, at the place of 3 and 2; outward, the organism's moment is 0.29 second, the biosphere's 20.6 days, and 61's 140 years. c is at 61 with the numbering turning alone. Phi is beside the two slowings twice, and the same at no place. The rung's slowing is hydrogen's alone.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -86,7 +90,7 @@ As the working document says them at its revision 587, on 24 November. The line 
 | **Me-now** is a same-existing me. | 27 |
 | A **bi-coupling** is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences. | 28 |
 | A bi-coupling is a self. | 29 |
-| **Co-** is both selves of a bi-coupling. | 35 |
+| **Co-** is all-other-than-the-other. | 35 |
 | **Parity** is a self's own now. | 52 |
 | A **me-parity** is a bi-coupling's me-now-existing-parity. | 30 |
 | **All-parity** is the named universal set of all now-existing me-parities. | 31 |
@@ -767,10 +771,67 @@ All or none at all, binary, executed by `instruments/a_joined_name_parted_by_the
 | *Co- is both selves of a bi-coupling.* | After 29, numbered 35, its card's own number | It was the card 35, *Co- is of both selves of a bi-coupling.*, hanging on the word of. Said with no of, its words are 18's and 28's with both, a plain joining word: no line hangs on is of now. The card is withdrawn |
 | *Parity is a self's own now.* | After 29 and 35, numbered 52 | Found: *Parity is each self's own, now*. Its words are 18's, 50's and 1's, and own was named at 50 on this day. Parity is named ahead of 30, 31, 32 and 33, and is away from the words with no line |
 
+**Co- said again on 24 November, resolved by cohering.** 35 is *Co- is all-other-than-the-other.* in the document, said with 20 alone.
+
+| A saying of co- | With the lines and the found sentences | All or not all |
+|---|---|---|
+| *Co- is all-other-than-the-other.* | 20, *An other-than-the-other is all selves other-than the named other.* 34 has a living me-parity as other-than-the-other's. Found: *co me-parity, bi other-parity, tri all-parity*; and *Co is with a sharing between two, and its absence with one*, its two the other and all-other-than-the-other | All, with one finding: all is a part of the joined name with no line of its own, and a plain joining word at 6, 7, 20 and 21 |
+| *Co- is both selves of a bi-coupling.*, this session's of 20:07 | The found sentence of co between two: with it. 28 has a bi-coupling as *both of two selves*, and bi- is both's own; co me-parity is of a me's side, not of both | Not all |
+
+- **Both is bi-'s, and co- is a me's side.** The four names as one relation, both, are with the code's both in a row and both of boths, as they were; co- is no part of what they rest on.
+
 - **The words with no line are eight,** of lines 1 to 34: other-than until its line, no, not, same, ending, beginning, distinguishing and two; and only, at 51.
 - **No number moves.** The living list is said again in the document at parity.
 
 **Not done, with no one saying of them cohering alone:** no beside not; a thing's line saying its own name; and one form for 3, 9, 11 and 12. They are rigor's findings, in the table above, and nothing is asked of them.
+
+## c, an atom's size matched with its moment, all or none at all with all-parity, and Natural Transmissioning
+
+All or none at all, binary, executed by `instruments/a_draft_gone_through_beside_the_living_files.py`, its part 21, with the found sentences and a field's measuring beside an exploring of 24 November.
+
+| A part of the exploring | Executed, and found | Cohering or incohering |
+|---|---|---|
+| c, a matching of the atom's size with its moment | Light's crossing of a hydrogen molecule, two atoms, is 247 zeptoseconds. Found: *c is a ledger's space-to-time conversion, not a rate going across a gap*; *A constant with a unit is a fixing, an exact value by a definition: speed of light from 1983* | Cohering: c is a size matched with a moment, and no going across |
+| the shortest moment of all now-existing moments | A field's shortest measured moment, in 2020, is that crossing, 247 zeptoseconds | Cohering, by a field's measuring; a search of 24 November found none shorter measured, and a later one is not ruled out |
+| the atom's vibrating in molecules, the fastest vibrating | A hydrogen molecule's own vibrating is 132 million million turns a second: a turn is 30,650 crossings of light | Incohering: the vibrating is not the shortest moment; the crossing is. They are two |
+| the atom, the inmost stable form of all resolving | The atom is the lowest of the fourteen prime scales, *the floor and stable form*. A field has a nucleus at the atom's middle, with a crossing shorter by its size | Cohering with the scales; a field's nucleus is beside it |
+| all or none at all, all-parity | 31 has all-parity a named universal set. Found: *each now-existing thing is-or-is-not within each universal set*; *All-parity is with observing only, 7 and 15* | Cohering: a universal set is all or none at all, a thing in it or not |
+| transmissioning with no rate | Natural Transmissioning: *A transmissioning is sequencing and not timing*, *order has no rate*; with c not a rate going across, and numbering as sequencing, 17 | Cohering |
+| Natural Transmissioning, behind | Its file is named with the version before the living files', and it says all-parity, light, atom, stable form and nand at no place | Is: behind |
+| the method bounding itself, exhausted co-chainings and inhaling | Found: *their stable form one scale outward is a bi-tri-involution of betweening*; *ingestion* and *emanation* said *ingesting* and *exhausting* | Cohering; inhaling is at no place, and its living name is ingesting. A bump connector is at no place |
+
+- **Resolved by cohering:** c is the atom's size matched with its moment, a size to a moment and no speed across; and the shortest moment is light's crossing of two atoms, not a molecule's vibrating.
+- **For Natural Transmissioning's next version,** a note is laid in its gathering file.
+
+### Less than cohering, resolved farther, and the places a loss of understanding arises
+
+Executed by the instrument's part 22. Three moments are found, and not two.
+
+| A moment | Its size in light's crossings of an atom's radius | Matched with the atom's size by |
+|---|---|---|
+| light's crossing of the radius, 177 zeptoseconds | 1 | c |
+| the atom's own turn, 152 attoseconds | 861, a turn's 2 pi multiplied by 137.036 | c over 137.036 |
+| a molecule's vibrating turn | 42,919, and 49.8 of the atom's turns | a second number more, a field's weight of a nucleus's part over an electron's, 1,836.15, by its root |
+
+- **Resolved farther:** c matches the atom's size with light's crossing. The atom's own vibrating is matched with its size by c over 137.036, and a molecule's by a second number more. The exploring said the three as one moment.
+- **The loss arises at two numbers, and not at c.** Found: *A dimensionless constant, fine-structure constant first, is measured and defined by none*. 137.036 is measured, and no line, no found sentence and no field's deriving says it. Its whole part, 137, is uncrossed, and the number is not whole. 1,836 is at no place of the living files.
+- **The loss arises below five.** Found: *A nucleus is below five*. The fourteen prime scales open at 5, the atom, and 2 and 3 are at no rung. A nucleus's crossing is shorter than the atom's by its size, the radius 62,997 of a nucleus's: the atom's crossing is the shortest moment of the scales as they are, and not of all now-existing moments with a nucleus now-existing below it.
+
+### If c is at 61: the three moments' slowing, a rung by a rung
+
+Executed by the instrument's part 23. The two slowings are 861.0, light's crossing to the atom's own turn, and 49.8, the atom's turn to its molecule's, hydrogen's. A rung's slowing is set at 49.8, the atom to the molecule, 5 to 7.
+
+| Explored | Executed | Is or is-not |
+|---|---|---|
+| the two slowings by phi | 861.0 is phi multiplied by itself 14.04 times, and 49.8 is 8.12 times. Phi by 14 is 843.0, and by 8 is 46.98 | Not the same, by 2 and by 6 of a hundred |
+| the inward slowing by phi's turn | The golden angle of a turn's 360 is 137.508; 2 pi multiplied by it is 864.0, beside 861.0, a third of a hundredth apart. The living files have a sunflower's 137 | Not the same, by a third of a hundredth |
+| light's crossing, inward by the rung's slowing | It is 1.73 rungs below the atom: at the place of 3 and 2, below five | Is: c is at the inmost, with *A nucleus is below five* |
+| the rungs outward by the same slowing | The cell, 23, six rungs: 2.3 millionths of a second. The organism, 37, nine rungs: 0.29 second. The biosphere, 53, thirteen rungs: 20.6 days. 59: 3 years. 61: 140 years | Executed; a field's moments of the scales are not in the living files to lay beside them |
+| c at 61 | By the rung's slowing 61 is the slowest moment of the sixteen, and light's crossing is the fastest, below 5 | Is-not at 61, by a slowing outward. 61 is one more than 60, a next turn's opening: c at 61 is with the numbering turning, the outmost a next inmost |
+| the rung's slowing, one number | A molecule's turn in its atom's turns is 50 with hydrogen, 93 with nitrogen and 1,023 with iodine | Is-not one number: 49.8 is hydrogen's alone, the fastest |
+
+- **Resolved:** by the slowing of the atom to its molecule, light's crossing is below five, at the place of 3 and 2, and 61 is the outmost and slowest. c is at 61 with the numbering turning alone, 61 a next 1.
+- **The loss of understanding arises at the rung's slowing:** it is one molecule's number, and no line or found sentence says a rung's slowing by a prime or by phi. Phi is beside it twice, and the same at no place.
 
 ## Resuming v406all2
 
