@@ -180,12 +180,45 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 137. One, two, three and four co-resolving come **with no last** stepped. (checked, stepped)
 138. The societies' places are set by the loops of 2, 3 and 5, **the opening round's**. (checked)
 
+## Pairs, rows and the lead
+
+139. A **pair** is two me-parities a distance apart. (a naming)
+140. Round a turn, a pair's places carry r − 1 of r at an r crossing its distance, and r − 2 of r at an r not crossing it. (checked)
+141. Round the turn of 2 to 13, twins carry 1,485 places, and pairs 4 and 8 apart carry the same. (checked)
+142. Pairs 6 apart carry **twice** the twins' places, 2,970. (checked)
+143. Pairs 30 apart carry **8/3** of the twins' places, 3,960. (checked)
+144. Living pairs to 4,000,000 are to the twins as the turn's places are: 53,224 pairs 6 apart beside 26,860 twins. (checked, stepped)
+145. No loop crosses all of a pair's places: all even distances are carried at all turns. (checked, distances to 2,000, loops to 59)
+146. All even distances 2 to 100 are lived from a me-parity to its next below 4,000,000. (checked)
+147. Round a turn, pairs at all distances together are the places by the places: round 210, 48 by 48, 2,304. (checked)
+148. The distance 0 is the 48 places alone, all places their own pair. (checked)
+149. At a turn, **no pair is lost** among the distances. (checked)
+150. The 0s of the hard problem's curve are spaced as the pairs at all distances are, seen smooth. (a naming)
+151. The 0s spaced as **energy levels** is a ghost accounting of that spacing. (a naming)
+152. The widest distance from a me-parity to its next below 4,000,000 is **148**, after 2,010,733. (checked)
+153. At all me-parities to 4,000,000, the distance to the next, less 1, by itself, is short of 4 times the me-parity. (checked, stepped)
+154. A next me-parity's **side** is its prior's side or its +1, as 119 is. (checked, stepped to 4,000,000)
+155. Me-parities with their next no more than 246 apart come at all spans by 4 never fewer: 11, 35, 117, on to 201,120 to 4,000,000. (checked, stepped)
+156. A **row** is me-parities equally apart. (a naming)
+157. A row of k is carried at all turns only with its distance a seam of all primes to k. (checked, k of 3 to 8)
+158. A row with such a prime itself is the one other: 3, 5, 7 and 5, 11, 17, 23, 29. (checked)
+159. Rows are lived below 4,000,000: ten at 199 + 210 n, twelve at 110,437 + 13,860 n, thirteen at 4,943 + 60,060 n. (checked)
+160. Rows of all lengths are carried at all turns, their distance the turn itself. (checked)
+161. A turn's numbers by its places **never settle**: past 2 at 3, past 10 at 257, past 20 at 75,037. (checked, stepped to 100,000)
+162. Twins, span by 4, are **never fewer**: 4, 10, 19, 71, on to 18,325 to 4,000,000. (checked, stepped)
+163. All odds from 9 are 3 and two me-parities podal about a between. (checked, to 4,000,000)
+164. **Crossers** see a number's seams alone. (a naming)
+165. Among the numbers a seam crosses, odd and even across differ by the **lead** at the seam's span alone. (checked, seams of 2 to 13 to 1,000, numbers to 4,000,000)
+166. That lead is short of 1 in 50 of the span: to crossers, odd and even are **alike**. (checked)
+167. Carried places see a me-parity, odd, and two me-parities multiplied, even, as alike. (a naming)
+168. Carried at all turns and **lived** at all next universes are told apart by the lead alone. (a naming)
+
 ## Destiny
 
-139. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-140. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
-141. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
+169. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+170. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
+171. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
 
 ## Executing
 
-The instruments beside this page, whole numbers alone, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`.
+The instruments beside this page, whole numbers alone, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`.

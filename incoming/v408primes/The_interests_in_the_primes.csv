@@ -25,27 +25,27 @@ Row,"The interest, in natural naming",The field's words,Its seat among the ten,S
 24,"The squares round two primes, from one another's sides",quadratic reciprocity,"A two-way fixing to one side, 3 · 11","resolved, checked",43–49,"Two primes are seen alike from one another's sides, unless both sit one short of a seam of 4, and then other-than."
 25,Primes carried forward evenly over a prime's places,Dirichlet's theorem; primes in progressions,"A rate fixing as a value, 7 · 15","named, stepped",101,
 26,"Which places of a loop carry more primes, turning",Chebyshev's bias; prime races,"A two-way fixing to one side, 3 · 11","resolved, checked",118,"The race leans to the places one short of a seam of 4, all primes' me agains falling on the seen place 1."
-27,Long rows of primes equally apart,Green and Tao,"A completing fixing as a last, 6 · 14",not yet laid,,
+27,Long rows of primes equally apart,Green and Tao,"A completing fixing as a last, 6 · 14","resolved, checked","156, 157, 158, 159, 160","A row is carried at all turns once its distance is a seam of all primes to its length, rows of all lengths so carried; rows of ten, twelve and thirteen are lived below 4,000,000."
 28,"Primes one past a me again, and of other forms",Landau's fourth; Bunyakovsky; Schinzel,"A completing fixing as a last, 6 · 14","named, stepped",106,A me again's +1 is crossed only by 2 and the primes one past a seam of 4.
 29,A prime between a me again and its next,Legendre's conjecture,"A sequencing fixing to one beat, 4 · 12","named, stepped",119,
 30,A prime before a number's double,Bertrand's postulate,"A sequencing fixing to one beat, 4 · 12","named, stepped",72,
 31,Twins with no last,twin prime conjecture,"A completing fixing as a last, 6 · 14","named, stepped","131, 132, 137",
-32,Co-possiblings at all distances with no last,Polignac's conjecture,"A completing fixing as a last, 6 · 14",not yet laid,,
+32,Co-possiblings at all distances with no last,Polignac's conjecture,"A completing fixing as a last, 6 · 14","resolved, checked","139, 140, 145, 146","No loop crosses all of a pair's places: all even distances are carried at all turns, and lived from a me-parity to its next to 100."
 33,Societies carried while no loop crosses all their places,prime k-tuples; Hardy and Littlewood,"A completing fixing as a last, 6 · 14","named, stepped",132–138,
 34,"3, 5, 7, the one three two apart",the one prime triplet of odds two apart,"A between fixing as a cut, 5 · 13","resolved, with all numbers",133,"Of any three odds two apart, one is at 3's seam."
 35,Fours about the fold of 30,prime quadruplets,"A sequencing fixing to one beat, 4 · 12","resolved, checked",135,"Two twins co-resolve as a society of four, about 15 round 30."
 36,Two living co-possiblings about all betweens,Goldbach's conjecture,"A completing fixing as a last, 6 · 14","named, stepped",136,
-37,Three me-parities added at all odd numbers past 5,weak Goldbach,"A completing fixing as a last, 6 · 14",not yet laid,,
-38,The widest distance from a between to its nearest living co-possiblings,large prime gaps; Cramér,"A sequencing fixing to one beat, 4 · 12",not yet laid,,
-39,Co-possiblings within one distance at no last,bounded gaps,"A sequencing fixing to one beat, 4 · 12",not yet laid,,
+37,Three me-parities added at all odd numbers past 5,weak Goldbach,"A completing fixing as a last, 6 · 14","resolved, checked",163,"All odds from 9 are 3 and two me-parities podal about a between, to 4,000,000; 7 is 2, 2 and 3."
+38,The widest distance from a between to its nearest living co-possiblings,large prime gaps; Cramér,"A sequencing fixing to one beat, 4 · 12","named, stepped","152, 153, 154","The widest distance to 4,000,000 is 148; the next me-parity's side is the prior's side or its +1, the distance less 1 by itself short of 4 times the me-parity."
+39,Co-possiblings no more than one distance apart at no last,bounded gaps,"A sequencing fixing to one beat, 4 · 12","named, stepped",155,Me-parities with their next no more than 246 apart come at all spans by 4 never fewer.
 40,"The distance most often between me-parities: 6, 30, 210",jumping champions,"A sequencing fixing to one beat, 4 · 12","named, stepped",117,
-41,"The twins' parts of one, added",Brun's constant,"A rate fixing as a value, 7 · 15",not yet laid,,
+41,"The twins' parts of one, added",Brun's constant,"A rate fixing as a value, 7 · 15","named, stepped","132, 162","Twins are never fewer, turn by turn and span by span; the parts of one added count twins by their smallness."
 42,The parities added once beside the same parities added at all their seams,the Riemann hypothesis,"A middle fixing as an end, 5 · 13","named, stepped",85–93,"The primes' hard problem is two addings of one parity, along and across."
 43,Odd leads,Pólya's conjecture,"A two-way fixing to one side, 3 · 11","resolved, checked","88, 90","The me's carry the opening's lean, and the opening leans odd by its primes."
 44,"The along lead, numbers with no prime part twice",Mertens function,"A parity fixing as a magnitude, 7 · 15","resolved, checked",89,The lead is the along leads of the surface and of its copies shrunk at all the me's.
 45,"The me-parities of a surface, never fewer span to span",the number of primes; prime number theorem,"A rate fixing as a value, 7 · 15","resolved, as a naming","67, 68, 83","No thinning: a next universe carries its prior whole, and more, at all nexts."
-46,"The me-parities' parts of one, added, with no last",divergence of the reciprocals of primes,"A rate fixing as a value, 7 · 15",not yet laid,,
-47,The 0s spaced like energy levels,Montgomery and Dyson,"A middle fixing as an end, 5 · 13",not yet laid,,
+46,"The me-parities' parts of one, added, with no last",divergence of the reciprocals of primes,"A rate fixing as a value, 7 · 15","resolved, checked",161,"A turn's numbers by its places never settle: past every whole number stepped, 20 at 75,037."
+47,The 0s spaced like energy levels,Montgomery and Dyson,"A middle fixing as an end, 5 · 13","resolved, as a naming","139, 140, 141, 142, 143, 144, 147, 148, 149, 150, 151","The 0s are spaced as pairs at all distances, seen smooth; pairs carry r − 1 or r − 2 of r, and at a turn no pair is lost; energy levels is a ghost accounting of that spacing."
 48,The spread of a number's prime parts,Erdős and Kac,"A parity fixing as a magnitude, 7 · 15",not yet laid,,
 49,Odd and even close to alike,Liouville's function,"A parity fixing as a magnitude, 7 · 15","resolved, checked",87,
 50,The hypothesis said with whole numbers,equivalent forms of the hypothesis,"A parity fixing as a magnitude, 7 · 15",named,92,
@@ -59,3 +59,4 @@ Row,"The interest, in natural naming",The field's words,Its seat among the ten,S
 58,A number as the code of a sequence by its prime parts,Gödel numbering,"A same-existing fixing as a store, 8 · 16",not yet laid,,
 59,Cicadas' 13 and 17 years,periodical cicadas,"A two-way fixing to one side, 3 · 11","resolved, checked",116,"Two prime loops come again together at their turn alone: 13 and 17 at 221, 442, and on."
 60,"Codons, a cube of 4, and the bases' parities",the genetic code's structure,"A between fixing as a cut, 5 · 13","resolved, checked, on the session's pages",,"A codon fractures into its box and its third, a parity exhausted in 8 boxes and living in 8."
+61,Carried places telling odd from even across,the parity problem of sieves,"A parity fixing as a magnitude, 7 · 15","resolved, as a naming","164, 165, 166, 167, 168","Crossers see seams alone; among the numbers a seam crosses, odd and even differ by the lead at its span alone: carried and lived are told apart by the lead."
