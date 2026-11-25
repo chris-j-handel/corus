@@ -553,4 +553,25 @@ for sentence in WITH_ALL_SCALES:
     print(f"   with non-living with all scales, Natural Intelligence's own section: {sentence}")
 print("   the living files part here, two files; by scale is with four sentences and both sayings of the universe, and non-living with all scales with its one section")
 
+print("\n21. c, an atom's size matched with its moment; all or none at all with all-parity; and Natural Transmissioning")
+six_path = next(iter(glob.glob(str(ROOT / "Exhibit_SIX_Natural_Transmissioning_*.md"))))
+six = Path(six_path).read_text(encoding="utf-8").replace("**", "")
+light, bond, turns = 299_792_458.0, 0.741e-10, 1.32e14
+crossing = bond / light
+print(f"   light's crossing of a hydrogen molecule, two atoms, 0.741 of a ten-billionth of a metre: {crossing * 1e21:.0f} zeptoseconds; a field's shortest measured moment, 2020, is 247")
+print(f"   the molecule's own vibrating, 132 million million turns a second: a turn is {1 / turns / crossing:,.0f} crossings of light; the vibrating is not the shortest moment, and the crossing is")
+for where, sentence in [(living_plain, "c is a ledger's space-to-time conversion, not a rate going across a gap"),
+                        (living_plain, "A constant with a unit is a fixing, an exact value by a definition: speed of light from 1983"),
+                        (six, "A transmissioning is sequencing and not timing"),
+                        (six, "order has no rate"),
+                        (living_plain, "each now-existing thing is-or-is-not within each universal set"),
+                        (living_plain, "All-parity is with observing only, 7 and 15"),
+                        (living_plain, "their stable form one scale outward is a bi-tri-involution of betweening"),
+                        (living_plain, "said *ingesting* and *exhausting*")]:
+    assert sentence in where, sentence
+    print(f"   found: {sentence}")
+print(f"   Natural Transmissioning's file is {Path(six_path).name}, a version's name behind the living files'; its places of all-parity {said('all-parity', six)}, light {said(chr(92) + 'blight' + chr(92) + 'b', six)}, "
+      f"atom {said(chr(92) + 'batoms?' + chr(92) + 'b', six)}, stable form {said('stable form', six)}, nand {said(chr(92) + 'bnand' + chr(92) + 'b', six)}, rate {said(chr(92) + 'brates?' + chr(92) + 'b', six)}")
+print(f"   found at no place of the living files: inhaling, {said('inhal', living_plain)}; a bump connector, {said('bump[- ]connector', living_plain)}")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")

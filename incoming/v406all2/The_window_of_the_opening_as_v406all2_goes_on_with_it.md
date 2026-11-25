@@ -47,6 +47,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, two lines of now and own in at their places.** *All now-existing things own-their-own now.* is after 3, numbered 50, and own is named ahead of all its uses: the hardest of own's line is resolved with no number moving. *Now is the only thing, and is the universe with no other-than.* is after 7, numbered 51. The living list is said again in the document.
 - **On 24 November, parity and co- in at their places.** *Co- is both selves of a bi-coupling.* is after 29, numbered 35, its card withdrawn and no line hanging on is of. *Parity is a self's own now.* is after it, numbered 52, by the found *Parity is each self's own, now* and own's line. The words with no line are eight.
 - **On 24 November, co- said again.** 35 is *Co- is all-other-than-the-other.*, said with 20 alone, with the found *co me-parity, bi other-parity, tri all-parity* and 34. This session's saying of co- as both selves is with not all: both is bi-'s.
+- **On 24 November, c explored.** c is an atom's size matched with its moment, with the found *c is a ledger's space-to-time conversion, not a rate going across a gap*. Light's crossing of a hydrogen molecule is 247 zeptoseconds, a field's shortest measured moment; a molecule's own vibrating is 30,650 crossings a turn, and is not the shortest. All-parity, a universal set, is all or none at all. Natural Transmissioning is a version's name behind, and a note is laid in its gathering file.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -781,6 +782,24 @@ All or none at all, binary, executed by `instruments/a_joined_name_parted_by_the
 - **No number moves.** The living list is said again in the document at parity.
 
 **Not done, with no one saying of them cohering alone:** no beside not; a thing's line saying its own name; and one form for 3, 9, 11 and 12. They are rigor's findings, in the table above, and nothing is asked of them.
+
+## c, an atom's size matched with its moment, all or none at all with all-parity, and Natural Transmissioning
+
+All or none at all, binary, executed by `instruments/a_draft_gone_through_beside_the_living_files.py`, its part 21, with the found sentences and a field's measuring beside an exploring of 24 November.
+
+| A part of the exploring | Executed, and found | Cohering or incohering |
+|---|---|---|
+| c, a matching of the atom's size with its moment | Light's crossing of a hydrogen molecule, two atoms, is 247 zeptoseconds. Found: *c is a ledger's space-to-time conversion, not a rate going across a gap*; *A constant with a unit is a fixing, an exact value by a definition: speed of light from 1983* | Cohering: c is a size matched with a moment, and no going across |
+| the shortest moment of all now-existing moments | A field's shortest measured moment, in 2020, is that crossing, 247 zeptoseconds | Cohering, by a field's measuring; a search of 24 November found none shorter measured, and a later one is not ruled out |
+| the atom's vibrating in molecules, the fastest vibrating | A hydrogen molecule's own vibrating is 132 million million turns a second: a turn is 30,650 crossings of light | Incohering: the vibrating is not the shortest moment; the crossing is. They are two |
+| the atom, the inmost stable form of all resolving | The atom is the lowest of the fourteen prime scales, *the floor and stable form*. A field has a nucleus within the atom's own size, with a crossing shorter by its size | Cohering with the scales; a field's nucleus is beside it |
+| all or none at all, all-parity | 31 has all-parity a named universal set. Found: *each now-existing thing is-or-is-not within each universal set*; *All-parity is with observing only, 7 and 15* | Cohering: a universal set is all or none at all, a thing in it or not |
+| transmissioning with no rate | Natural Transmissioning: *A transmissioning is sequencing and not timing*, *order has no rate*; with c not a rate going across, and numbering as sequencing, 17 | Cohering |
+| Natural Transmissioning, behind | Its file is named with the version before the living files', and it says all-parity, light, atom, stable form and nand at no place | Is: behind |
+| the method bounding itself, exhausted co-chainings and inhaling | Found: *their stable form one scale outward is a bi-tri-involution of betweening*; *ingestion* and *emanation* said *ingesting* and *exhausting* | Cohering; inhaling is at no place, and its living name is ingesting. A bump connector is at no place |
+
+- **Resolved by cohering:** c is the atom's size matched with its moment, a size to a moment and no speed across; and the shortest moment is light's crossing of two atoms, not a molecule's vibrating.
+- **For Natural Transmissioning's next version,** a note is laid in its gathering file.
 
 ## Resuming v406all2
 
