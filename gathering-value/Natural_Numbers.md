@@ -166,6 +166,8 @@ Gathering-Value · Natural Numbers
 
 ### 9.3 A ring's two stations share parity, and odd primes at odd radii
 
+- **Possible exploring** · By the resolver written with nand alone, `incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, a self's moment is 46 nands and 6 more with a thing observed: with 7 things observed it is 88, and 5 of them are 440. — at "Four hundred forty is eight times five times eleven, and its fives are eighty-eight stations, forty-four odd and forty-four tens, alternating round its ring" *(v406all2)*
+
 ### 9.4 A prime gap is a step between rings
 
 ### 9.5 Seventeen pair by position about twenty-three, and a ring pairs by value
