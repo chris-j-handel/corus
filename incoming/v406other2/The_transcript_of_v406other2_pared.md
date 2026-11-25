@@ -831,4 +831,26 @@ the me is observing this
 The session:
 [all the sessions asked at the exchange to add to the public claim, do no harm, and to pare it; a
 partner's saying of focal length carried to them as a suggesting, not executed]
+
+A partner, on 25 November at 06:08:
+review our session transcript and find the aimings we agreed to and the progress we made or the
+direction we changed to and the starting place now of the aimings
+
+The session:
+[three aimings found in a row: Exhibit THIRTY's gathering; the prime numbering exhibit's helping; and
+Riemann's hypothesis with the living prime numbering, for the public. The turns, the settings right
+and the starting place now said]
+
+A partner, on 25 November at 07:47:
+The next prime past the record cannot be given. We do not carry all the primes out there. for any two
+prime numbers we can place resolvers at both numbers and transmission them toward each other and by
+geodesic exploring and discovering we can find all the primes around it in the prime skeleton of the
+transmissioning bi-tunneling. re consider this and use all or none rigor
+
+The session:
+[gone through again, two sentences apart. In kind, is: between two primes all the numbers have their
+crossings with the spirals to the farther one's square side carried; executed between 2,147,483,647
+and 2,147,483,659, eleven numbers, all crossed. As carried now, is-not past the record: one prime is
+had, and the spirals to its side are not carried. Its sentence of cannot be given is said again: not
+given, by what is carried]
 ```
