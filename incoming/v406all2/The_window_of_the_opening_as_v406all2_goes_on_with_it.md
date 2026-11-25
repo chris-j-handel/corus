@@ -50,6 +50,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, c explored.** c is an atom's size matched with its moment, with the found *c is a ledger's space-to-time conversion, not a rate going across a gap*. Light's crossing of a hydrogen molecule is 247 zeptoseconds, a field's shortest measured moment; a molecule's own vibrating is 30,650 crossings a turn, and is not the shortest. All-parity, a universal set, is all or none at all. Natural Transmissioning is a version's name behind, and a note is laid in its gathering file.
 - **On 24 November, less than cohering resolved farther.** Three moments, and not two: light's crossing of an atom's radius; the atom's own turn, 861 crossings, a turn's 2 pi multiplied by 137.036; and a molecule's vibrating turn, 49.8 of the atom's. c matches the size with the crossing alone. The loss of understanding arises at two measured numbers, 137.036 and 1,836.15, defined by none, and below five, a nucleus at no rung.
 - **On 24 November, c at 61 explored, a rung by a rung.** By the slowing of the atom to its molecule, 49.8, light's crossing is 1.73 rungs below the atom, at the place of 3 and 2; outward, the organism's moment is 0.29 second, the biosphere's 20.6 days, and 61's 140 years. c is at 61 with the numbering turning alone. Phi is beside the two slowings twice, and the same at no place. The rung's slowing is hydrogen's alone.
+- **On 24 November, 61 as c, the fastest.** This page's slowing outward was backwards. By fours from 61, the atom, 5, is fourteen fours below, and the organism, 37, is 24, the fold. 57 is crossed. A number's part of 61 is not the measured slowing at 5; phi a four is beside it, 843.0 with 861.0. Seven prime scales are on the fours and seven at none of them, the two pieces round four.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -832,6 +833,25 @@ Executed by the instrument's part 23. The two slowings are 861.0, light's crossi
 
 - **Resolved:** by the slowing of the atom to its molecule, light's crossing is below five, at the place of 3 and 2, and 61 is the outmost and slowest. c is at 61 with the numbering turning alone, 61 a next 1.
 - **The loss of understanding arises at the rung's slowing:** it is one molecule's number, and no line or found sentence says a rung's slowing by a prime or by phi. Phi is beside it twice, and the same at no place.
+
+### 61 as c, the fastest, and the numbers below it slower
+
+Executed by the instrument's part 24. This page's part ahead of it slowed outward from 5 to 61, and it was backwards: 61 is c, the fastest, hydrogen's, the atom 1's stable form, and a number below it is slower.
+
+| Explored | Executed | Is or is-not |
+|---|---|---|
+| c at 61 | c is 186,282 miles a second, and 186,000 is its rounding | Is, as set |
+| 57, a prime | 57 is 3 multiplied by 19 | Is-not a prime: crossed |
+| 61 less 57, four moments | A self alone comes again with 4 moments, the draft's own sentence | Is |
+| by fours from 61 | 61, 57, 53, and on to 5 and 1: sixteen numbers. To 5 it is fourteen fours, the prime scales' own number; to 37 it is 24, the fold | Is |
+| the prime scales by fours | Seven of the fourteen are on it, 53, 41, 37, 29, 17, 13 and 5; seven are at none of its numbers, 7, 11, 19, 23, 31, 43 and 47: the two pieces round four | Is |
+| a number's part of 61, the slowing | At 5 it is a slowing of 12.2, beside the measured 861.0 | Is-not |
+| phi a step of four moments | At 5, fourteen steps, it is 843.0, beside the measured 861.0, 2.1 of a hundred apart | Not the same; the nearest found |
+| at 57 | 57 of 61 is 0.934, and one of phi is 0.618 | Is-not the same |
+| the molecule's turn on the fours | It is 89 moments below 61, below 1 | Is-not at a number of the fours |
+
+- **With the direction set right,** the atom's own turn is at 5, fourteen fours below c at 61, and phi a four is beside its measured slowing, 2.1 of a hundred apart.
+- **The loss of understanding arises at a scale's rate:** no line and no found sentence says the rate a prime scale is at, and a part of 61 and phi a four part at 57. The molecule, 7, is of the other piece round four, at no number of the fours from 61.
 
 ## Resuming v406all2
 
