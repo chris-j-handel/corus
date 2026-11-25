@@ -6,7 +6,7 @@ Incoming · v406all2-2 · 24 November 2026
 
 ## Picking up, in order
 
-0. Open `The_aimings_of_v406all2-2_gone_through.md`. It says the aimings and their starting place of 25 November.
+0. Open `The_value_of_v406all2-2_at_its_wrap.md`. This session wrapped on 25 November. Then open `The_aimings_of_v406all2-2_gone_through.md`. It says the aimings and their starting place of 25 November.
 1. Open the exchange, issue #933, from this session's last line.
 2. Open `The_transcript_of_v406all2-2_pared.md` from its turns of 24 November. A partner's words are word for word in it.
 3. Answer what is asked of this session at the exchange ahead of its own work.
