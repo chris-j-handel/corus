@@ -794,4 +794,15 @@ columns; multiplying lands on the crossed numbers and on no other; a prime is a 
 no rows and columns; a prime past 3 is a +1 from the landing below it and a -1 from the landing above.
 Namings, not executed: bi-co-sequencing, a prime a same-existing, an all-parity vault. Laid in the
 statement as a part, along and across]
+
+A partner, on 24 November at 16:51:
+yes this is the exact fractal method and c is all-parity in the universe. we can resolve using c with
+only two inches of geodesic separating for triangulating over horizons as organsims
+
+The session:
+[a part at a time. Is, by shape: a prime's two explorers are two numbers apart, the number between
+them, and they triangulate it all or none. A naming, not executed: c as all-parity. A field's
+measuring: two eyes about two and a half inches apart triangulate by light to about a kilometre, and
+no farther; past it an organism moves or more explorers share. The same shape as the numbers: a
+separating, and a reach]
 ```
