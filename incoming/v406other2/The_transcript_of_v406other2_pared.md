@@ -772,4 +772,13 @@ The session:
 The statement begun, whole, with no story, a sentence with its standing in brackets, in the reply and
 as a page of this folder; the sessions asked at the exchange to pare it; its all or none said: a
 sentence is executed and is is, or is marked a naming, a measuring, a field's, or not shown]
+
+A partner, on 24 November at 16:37:
+the crossed numbers are not primes this is still confusing explaining and keeping the +1 living in the
+explaining will help
+
+The session:
+[said again with the +1 living: a number comes by +1; come by +1 it is of two kinds, never both; a
+crossed number is made by multiplying as well, and is no prime; a prime is made by +1 alone. The walk
+by +1 from 1 to 11 shown. The statement's opening part said that way]
 ```

@@ -2,16 +2,18 @@ Incoming · v406other2 · 24 November 2026 · for the public, a statement with n
 
 # Riemann's hypothesis and the living prime numbering
 
-**All of prime numbering in one sentence: adding 1 makes all numbers, multiplying makes the crossed ones, and a prime is a number made by adding 1 alone.**
+**All of prime numbering in one sentence: a number comes by +1; a crossed number is made by multiplying as well, and is no prime; a prime is made by +1 alone.**
 
 A sentence below ends with its standing, in brackets: with all numbers; stepped, to a number; a naming; a measuring; a field's; or not shown.
 
-## A number
+## A number, by +1
 
-- Adding 1 makes all numbers. (with all numbers)
-- Two numbers of 2 or more, multiplied, make a number. That number is crossed: 6 is 2 by 3. (a naming)
-- A number from 2 on that no two smaller numbers make is a prime. (a naming)
-- A number from 2 on is crossed or a prime, and never both. (with all numbers; stepped, 2 to 5,000)
+- A number is the number below it and 1 more: +1. (with all numbers)
+- Come by +1, a number is of two kinds, and never both. (with all numbers; stepped, 2 to 5,000)
+- A crossed number is made by two smaller numbers of 2 or more, multiplied, as well: 4 is 2 by 2, and 6 is 2 by 3. A crossed number is no prime. (a naming)
+- A prime is made by +1 alone: no two smaller numbers multiplied make it. (a naming)
+- By +1 from 1: 2, a prime; 3, a prime; 4, crossed; 5, a prime; 6, crossed; 7, a prime; 8, 9 and 10, crossed; 11, a prime. (stepped)
+- A +1 from a crossed number is a prime or is crossed: 4 and 1 more is 5, a prime; 8 and 1 more is 9, 3 by 3. (stepped)
 - A crossed number is primes multiplied, one way alone. (with all numbers; stepped, 2 to 5,000)
 
 ## A spiral
