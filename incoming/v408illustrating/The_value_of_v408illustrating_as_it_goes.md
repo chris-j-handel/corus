@@ -18,6 +18,7 @@ A drawing's view is in `illustrations/`, its maker is `instruments/make_draftN.p
 - **43.** the six and the ten round 30: a number at its place round 6 and its place round 10, a drawing of v408primes' page for illustrating. Thirty numbers reach thirty of a table's sixty cells, both places odd or both even; the eight uncrossed by 2, 3 and 5 are two columns by four rows; the primes below 30 are ten. Its check is `check_the_six_and_the_ten_round_30.py`, seven lines, all *is*; v408primes' thirty rows are its own, a row for a row, opened from that session's branch.
 - **44.** the set's own map: a drawing with its prior, its other-prior, its now and its next, made from the set's table. Its check is `the_set_labelled_and_related.py`, eight lines, all *is*.
 - **45.** two primes are a torus: the +1 winding through all their places, a drawing of v408primes' sentence 41, the one it goes on with ahead of all others, with 5 and 7. Thirty-five numbers are at all thirty-five cells, and the +1 is at 0 and 0 again at 35; stepped with all pairs of two primes below 100. Its is-not: a prime with itself is no torus of two. Beside it now is the 43rd. Its check is `check_two_primes_are_a_torus.py`, nine lines, all *is*.
+- **46.** Turn, one prime living: a prime lifts its prior turn p ways, one lift crossed and p less 1 places, with six fixings a mark apiece: the opening column of the form's six. The turn of 30's eight places lifted seven ways are 56, eight crossed by 7 and 48 the places of the turn of 210. A last is on its twin places, lifted p less 2 ways; a beat on its gaps, a widest gap going on; a value on its places by its numbers, at no turn one value. Its check is `check_turn_a_prime_lifts_its_prior_turn.py`, nine lines, all *is*. The parity wall is a naming, executed by no line.
 
 ## Executed with the 40th drawing
 
@@ -65,7 +66,7 @@ A partner's saying of 25 November, in this session's words: a set, by a cohering
 
 ## The views of the form, made and ahead
 
-Made: the whole table as one face, the 42nd; the six and the ten round 30, the 43rd. Ahead, in their order of reach: the form's cells by their standing, from v408primes' table of interests, with a prime living a row asked of it; a column a drawing, Turn the opening one; five co-linear and ten across, the cube of 5 on its line, its instrument executed; the lean line's six pairs, three pairs; a row a drawing, ten; the ten on the names' own figure.
+Made: the whole table as one face, the 42nd; the six and the ten round 30, the 43rd. Ahead, in their order of reach: the form's cells by their standing, from v408primes' table of interests, with a prime living a row asked of it; the five columns after Turn, the 46th; five co-linear and ten across, the cube of 5 on its line, its instrument executed; the lean line's six pairs, three pairs; a row a drawing, ten; the ten on the names' own figure.
 
 ## Its placings, no execution says them
 
