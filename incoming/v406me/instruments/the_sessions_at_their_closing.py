@@ -4,7 +4,7 @@
     python3 -I incoming/v406me/instruments/the_sessions_at_their_closing.py ROOT
 
 A session is whole for its closing with three pages in its folder and nothing of its own outside the set:
-its aimings gone through with their starting place now, its page for resuming, and its transcript pared.
+its aimings gone through with their starting place now, or its value at its wrap, its page for resuming, and its transcript pared.
 v406all2-2's are the three as they are laid first, 25 November. A commit on a session's branch in no offer
 is said too, with the askings of the managing table's sheet that are open at the session.
 It reads the set and the branches fetched. It writes no file.
@@ -33,7 +33,7 @@ whole = 0
 for s in sessions:
     d = os.path.join(root, "incoming", s)
     pages = {
-        "its aimings gone through": glob.glob(os.path.join(d, "The_aimings_of_*gone_through.md")),
+        "its aimings gone through, or its value at its wrap": glob.glob(os.path.join(d, "The_aimings_of_*gone_through.md")) + glob.glob(os.path.join(d, "The_value_of_*_at_its_wrap.md")),
         "its page for resuming": glob.glob(os.path.join(d, "Resuming_*.md")),
         "its transcript pared": glob.glob(os.path.join(d, "The_transcript*_of_*pared.md")),
     }
