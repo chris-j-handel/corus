@@ -869,4 +869,17 @@ both of 2s alone, the numbers beside the three doublings between mapped by 2s al
 is-not, a part at a time: 59 by its own 59 times is crossed by 59; larger primes are tested here; and
 Natural Numbers has primes with no last. The round of 2 to 59 and back from 61 is living, a round and
 no last prime]
+
+A partner, on 25 November at 08:04, 08:06 and 08:09:
+what is the next prime larger than the record prime. reaches in kind is nonsense language. use natural
+naming and explaining to address why we can not take a prime and ride it to its next prime crossing in
+the universal cone. take the prime -1 crossing as 0 begin 1-17 fractal expansion and you already know
+the podaling of the prime and ride the prime to the next crossing out in the farther next of the
+universe . then add +1. the +1 will be living in the resolver during the transmissioning
+
+The session:
+[a ride on a prime is of crossed numbers alone, and a +1 from the prime's own crossing has the prime
+beside it given: its test is all or none. Executed from the old records: a crossing of the prime and
+1 more, a larger prime, tested with the prime beside it. It is a larger prime and not the next one;
+at the record a test is a walk of the record's own size]
 ```
