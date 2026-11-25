@@ -16,6 +16,7 @@ A drawing's view is in `illustrations/`, its maker is `instruments/make_draftN.p
 - **41.** 37, one self: its rounds, 1, 6, 12 and 18, and its other-thans of its inner cube, 1, 9 and 27, two partings of one shell; turned by the six orders of its three ways, one still self, six threes and three sixes. For the draft's 3.2. Its check is `check_37_one_self_its_rounds_and_its_other-thans.py`, thirteen lines, all *is*.
 - **42.** the prime resolving form, one face: six prime livings across, ten fixings down, v407primes' table made from its own page. Of sixty cells 34 are named and 26 are with none named; five interests are not yet resolving, by the page's own part; the columns are three pairs and the rows five bi-couplings. Its check is `check_the_prime_resolving_form_one_face.py`, six lines, all *is*. A seat, an interest's row, is a placing, the page's own.
 - **43.** the six and the ten round 30: a number at its place round 6 and its place round 10, a drawing of v408primes' page for illustrating. Thirty numbers reach thirty of a table's sixty cells, both places odd or both even; the eight uncrossed by 2, 3 and 5 are two columns by four rows; the primes below 30 are ten. Its check is `check_the_six_and_the_ten_round_30.py`, seven lines, all *is*; v408primes' thirty rows are its own, a row for a row, opened from that session's branch.
+- **44.** the set's own map: a drawing with its prior, its other-prior, its now and its next, made from the set's table. Its check is `the_set_labelled_and_related.py`, eight lines, all *is*.
 
 ## Executed with the 40th drawing
 
@@ -56,6 +57,10 @@ A learning, its session, and its place in this folder.
 An is of both with a partner, 25 November: a column leads. A column is one prime living, executed, and a row is one fixing, marked on it once. Four forms, in their order of reach: the whole table as one face, made from the form's own page; a column a drawing, six; a row a drawing, ten, by Natural Illustrating 7.1's three parts; and the ten on the method's own figure. A seat is a placing, said apart on a drawing.
 
 A partner's word of 25 November on *5 and 10 are the five and the ten, things and their pairs* is an is, no approving. A partner's saying of the six and the ten is rigorized in `A_partner_s_saying_of_the_six_and_the_ten_rigorized.md`, its instrument thirteen lines, all *is*: the ten view is the six view with a now both; by the lean line three of the six pairs are other-than at all openings and three are not; its seating is hanging.
+
+## The set, labelled and related
+
+A partner's saying of 25 November, in this session's words: a set, by a cohering method of labelling and relating it. The method is one table, `The_set_of_v408illustrating_s_drawings_a_drawing_a_row.csv`. A drawing's label is its number, its name, its view and what it is for. Its relations are four, the four of the day's rigorizing: its prior, a drawing of the set it goes on from; its other-prior, an other session's drawing or page it rests on; beside it now, a drawing of one concept by an other observing; and its next, a drawing ahead. A next and a prior are one relation said both ways. The set's instrument says a bump: a drawing with no row, a row with no drawing, a relation naming nothing, a relation said one way alone. A drawing laid from the 44th on opens with its label in one line. The drawings 40 to 43 are as they were, and their labels are their rows.
 
 ## The views of the form, made and ahead
 
