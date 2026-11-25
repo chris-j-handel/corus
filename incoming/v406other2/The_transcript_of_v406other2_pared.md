@@ -707,4 +707,15 @@ only due to adding this given.
 The session:
 [is, and the better sentence, with one mend: the record is one less than 2's power, the power its one
 more. The record is known by its place beside 2's power alone; the territory about it is untested]
+
+A partner, on 24 November at 16:02:
+the boldest claim we can make is we can map the prime territory around the world's largest so far known
+prime and show the diamond 1-5 and 1-9 and 1-17 around the worlds largest known prime
+
+The session:
+[is, for the diamond, executed with the record never written out. In the 1 to 5, the 1 to 9 and the
+1 to 17 about the record, the record their middle, all other numbers are crossed, a number with its
+lowest spiral. All numbers from 47 below to 21 above are crossed but the record: the one prime of 69
+numbers in a row. Its mark: past that stretch the crossings are mapped and no prime is marked; 48
+below and 22 above are the nearest not crossed, not tested]
 ```
