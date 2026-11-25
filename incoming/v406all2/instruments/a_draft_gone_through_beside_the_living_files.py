@@ -589,4 +589,24 @@ for where, sentence in [(living_plain, "A dimensionless constant, fine-structure
 print(f"   below five: a nucleus's crossing is {2 * proton / light:.1e} seconds, and the atom's radius is {radius / proton:,.0f} of its; the fourteen prime scales open at 5, and 2 and 3 are at no rung")
 print(f"   at no place of the living files: 1,836, {said('1,?836', living_plain)}, a field's weight of a nucleus's part over an electron's, the second number")
 
+print("\n23. If c is at 61: the three moments' slowing, a rung by a rung, by prime scale numbering and by phi")
+phi = (1 + 5 ** 0.5) / 2
+inward, a_rung = a_turn / a_crossing, 1 / turns / a_turn
+RUNGS = [(5, "atom"), (7, "molecule"), (11, "macromolecule"), (13, "protein-fold"), (17, "gene"), (19, "organelle"), (23, "cell"), (29, "tissue"), (31, "organ"), (37, "organism"),
+         (41, "colony"), (43, "population"), (47, "community"), (53, "biosphere"), (59, "59"), (61, "61")]
+print(f"   the two slowings: {inward:.1f}, light's crossing to the atom's turn; {a_rung:.1f}, the atom's turn to its molecule's, hydrogen's")
+print(f"   by phi: {inward:.1f} is phi multiplied by itself {math.log(inward) / math.log(phi):.2f} times, and {a_rung:.1f} is {math.log(a_rung) / math.log(phi):.2f} times; "
+      f"phi by 14 is {phi ** 14:.1f} and by 8 is {phi ** 8:.2f}: near, and not the same")
+print(f"   by phi's turn, the golden angle of a turn's 360, {360 / phi ** 2:.3f}: 2 pi multiplied by it is {2 * math.pi * 360 / phi ** 2:.1f}, beside {inward:.1f}: {abs(2 * math.pi * 360 / phi ** 2 / inward - 1) * 100:.2f} of a hundred apart: near, and not the same")
+print(f"   inward, by the rung's own slowing: light's crossing is {math.log(inward) / math.log(a_rung):.2f} rungs below the atom, at the place of 3 and 2, below five")
+for steps, (prime, name) in enumerate(RUNGS):
+    moment = a_turn * a_rung ** steps
+    if prime in (7, 23, 37, 53, 59, 61):
+        said_as = f"{moment:.2e} seconds" if moment < 1e-2 else f"{moment:.2f} seconds" if moment < 60 else f"{moment / 86400:.1f} days" if moment < 86400 * 365 else f"{moment / 86400 / 365.25:.0f} years"
+        print(f"   outward, {steps} rungs, {prime} {name}: {said_as}")
+print(f"   c at 61 by the rung's slowing: 61 is the slowest moment of the sixteen, and light's crossing the fastest, below 5: is-not at 61; 61 is one more than 60, a next turn's opening: {'is' if 61 == 60 + 1 else 'is-not'}")
+for name, per_second in [("hydrogen's", 1.32e14), ("nitrogen's", 7.07e13), ("iodine's", 6.43e12)]:
+    print(f"   a molecule's turn in its atom's turns, {name}: {1 / per_second / a_turn:,.0f}", end=";")
+print(" the rung's slowing is no one number")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")

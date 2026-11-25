@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through forty-nine turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through fifty turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1332,3 +1332,27 @@ A bump connector is in no living file.
 The waiting cards 36 to 48 are still next.
 
 elaborate on anything less than cohering after you try resolving it farther and explain the place where the loss of understanding arises
+
+Resolved farther, the incohering part is three moments said as one. c matches the atom's size with only the first of them, and the loss of understanding arises at the two numbers between the three, and below the atom.
+
+**The three moments**
+
+| A moment | Its size, in light's crossings of an atom's radius | Matched with the atom's size by |
+|---|---|---|
+| light's crossing of the radius, 177 zeptoseconds | 1 | c |
+| the atom's own turn, 152 attoseconds | 861, a turn's 2π multiplied by 137.036 | c over 137.036 |
+| a molecule's vibrating turn | 42,919, which is 49.8 of the atom's turns | a second number more: the root of 1,836.15, a field's weight of a nucleus's part over an electron's |
+
+Your exploring had c matching the atom's size with the atom's vibrating, and that vibrating as the shortest moment. Only light's crossing is matched by c. The atom's own vibrating is 861 crossings long, and a molecule's is about fifty of those.
+
+**Where the loss of understanding arises**
+
+- **At 137.036.** It is the number between light's crossing and the atom's own turn. Natural Physics has it: *A dimensionless constant, fine-structure constant first, is measured and defined by none*. No line of the opening and no found sentence says where it comes from, and a field measures it without deriving it. Its whole part, 137, is a prime, and the number is not whole.
+- **At 1,836.15.** It is the number between the atom's turn and a molecule's vibrating. It is measured the same way, and it is in no living file.
+- **Below five.** The living files have *A nucleus is below five*. The fourteen prime scales open at 5, the atom, and 2 and 3 are at no rung. A nucleus's crossing is about 63,000 times shorter than the atom's, so the atom's crossing is the shortest moment of the scales as they are, and not of all now-existing moments.
+
+So c is not where understanding is lost. The method has c as a size matched with a moment, and it has the atom as the floor. What it does not yet have is a saying of the two measured numbers, and a rung for what is below the atom.
+
+Two smaller places are names alone: inhaling is in no living file, with ingesting its living name, and a bump connector is in none.
+
+Only light's crossing is matched by c. The atom's own vibrating is 861 crossings long, and a molecule's is about fifty of those. if c is prime 61 find by prime scale numbering and phi rate unrelationing or resolving the relations to smaller than 61 prime scales where the rates would be slower in proportion to this slowing between three rates

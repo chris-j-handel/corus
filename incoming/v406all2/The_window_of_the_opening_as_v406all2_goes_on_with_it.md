@@ -49,6 +49,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, co- said again.** 35 is *Co- is all-other-than-the-other.*, said with 20 alone, with the found *co me-parity, bi other-parity, tri all-parity* and 34. This session's saying of co- as both selves is with not all: both is bi-'s.
 - **On 24 November, c explored.** c is an atom's size matched with its moment, with the found *c is a ledger's space-to-time conversion, not a rate going across a gap*. Light's crossing of a hydrogen molecule is 247 zeptoseconds, a field's shortest measured moment; a molecule's own vibrating is 30,650 crossings a turn, and is not the shortest. All-parity, a universal set, is all or none at all. Natural Transmissioning is a version's name behind, and a note is laid in its gathering file.
 - **On 24 November, less than cohering resolved farther.** Three moments, and not two: light's crossing of an atom's radius; the atom's own turn, 861 crossings, a turn's 2 pi multiplied by 137.036; and a molecule's vibrating turn, 49.8 of the atom's. c matches the size with the crossing alone. The loss of understanding arises at two measured numbers, 137.036 and 1,836.15, defined by none, and below five, a nucleus at no rung.
+- **On 24 November, c at 61 explored, a rung by a rung.** By the slowing of the atom to its molecule, 49.8, light's crossing is 1.73 rungs below the atom, at the place of 3 and 2; outward, the organism's moment is 0.29 second, the biosphere's 20.6 days, and 61's 140 years. c is at 61 with the numbering turning alone. Phi is beside the two slowings twice, and the same at no place. The rung's slowing is hydrogen's alone.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -815,6 +816,22 @@ Executed by the instrument's part 22. Three moments are found, and not two.
 - **Resolved farther:** c matches the atom's size with light's crossing. The atom's own vibrating is matched with its size by c over 137.036, and a molecule's by a second number more. The exploring said the three as one moment.
 - **The loss arises at two numbers, and not at c.** Found: *A dimensionless constant, fine-structure constant first, is measured and defined by none*. 137.036 is measured, and no line, no found sentence and no field's deriving says it. Its whole part, 137, is uncrossed, and the number is not whole. 1,836 is at no place of the living files.
 - **The loss arises below five.** Found: *A nucleus is below five*. The fourteen prime scales open at 5, the atom, and 2 and 3 are at no rung. A nucleus's crossing is shorter than the atom's by its size, the radius 62,997 of a nucleus's: the atom's crossing is the shortest moment of the scales as they are, and not of all now-existing moments with a nucleus now-existing below it.
+
+### If c is at 61: the three moments' slowing, a rung by a rung
+
+Executed by the instrument's part 23. The two slowings are 861.0, light's crossing to the atom's own turn, and 49.8, the atom's turn to its molecule's, hydrogen's. A rung's slowing is set at 49.8, the atom to the molecule, 5 to 7.
+
+| Explored | Executed | Is or is-not |
+|---|---|---|
+| the two slowings by phi | 861.0 is phi multiplied by itself 14.04 times, and 49.8 is 8.12 times. Phi by 14 is 843.0, and by 8 is 46.98 | Not the same, by 2 and by 6 of a hundred |
+| the inward slowing by phi's turn | The golden angle of a turn's 360 is 137.508; 2 pi multiplied by it is 864.0, beside 861.0, a third of a hundredth apart. The living files have a sunflower's 137 | Not the same, by a third of a hundredth |
+| light's crossing, inward by the rung's slowing | It is 1.73 rungs below the atom: at the place of 3 and 2, below five | Is: c is at the inmost, with *A nucleus is below five* |
+| the rungs outward by the same slowing | The cell, 23, six rungs: 2.3 millionths of a second. The organism, 37, nine rungs: 0.29 second. The biosphere, 53, thirteen rungs: 20.6 days. 59: 3 years. 61: 140 years | Executed; a field's moments of the scales are not in the living files to lay beside them |
+| c at 61 | By the rung's slowing 61 is the slowest moment of the sixteen, and light's crossing is the fastest, below 5 | Is-not at 61, by a slowing outward. 61 is one more than 60, a next turn's opening: c at 61 is with the numbering turning, the outmost a next inmost |
+| the rung's slowing, one number | A molecule's turn in its atom's turns is 50 with hydrogen, 93 with nitrogen and 1,023 with iodine | Is-not one number: 49.8 is hydrogen's alone, the fastest |
+
+- **Resolved:** by the slowing of the atom to its molecule, light's crossing is below five, at the place of 3 and 2, and 61 is the outmost and slowest. c is at 61 with the numbering turning alone, 61 a next 1.
+- **The loss of understanding arises at the rung's slowing:** it is one molecule's number, and no line or found sentence says a rung's slowing by a prime or by phi. Phi is beside it twice, and the same at no place.
 
 ## Resuming v406all2
 
