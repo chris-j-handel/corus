@@ -213,18 +213,29 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 165. A crossing is a **relationing**: a number related to a prime other-than it. (a naming)
 166. Round all loops of 3 to 30, at all their places, odd and even across come **alike**: crossings see **all-parity**. (checked, numbers to 4,000,000, apart by short of 1 in 100)
-167. A me-parity is **odd** across: one part. (checked)
-168. A me-parity is related to no prime other-than it: an **unrelationing** from all-parity. (a naming)
-169. Uncrossed by the primes below 159, numbers from 2,000,000 to 4,000,000 are one me-parity, odd, 134,213, or two multiplied, even, 85,522. (checked)
-170. Short of a number's side, crossings see its all-parity, **odd or even**. (checked)
-171. Uncrossed by the primes to its side, a number is a me-parity, **odd**. (checked, 2,000,000 to 4,000,000)
-172. To a number's side, all relationings released, a me-parity is its own **unrelationing**. (a naming)
+167. A me-parity is related to no prime other-than it: an **unrelationing** from all-parity. (a naming)
+168. Uncrossed by the primes below 159, numbers from 2,000,000 to 4,000,000 are a me-parity, 134,213, or two me-parities multiplied, 85,522. (checked)
+169. Short of a number's side, crossings see its all-parity, **odd or even** across. (checked)
+170. Uncrossed by the primes to its side, a number is a **me-parity**. (checked, 2,000,000 to 4,000,000)
+171. To a number's side, all relationings released, a me-parity is its own **unrelationing**. (a naming)
+
+## A me-parity's three parts
+
+172. A me-parity is **three parts**: its prior, even; itself, odd; its next, even. (checked, all me-parities past 2 to 4,000,000)
+173. **2** is odd, even, odd: 1, 2, 3, the one me-parity shaped as all-parity. (checked)
+174. A me-parity's two evens, by 2, are a **+1 apart**: one odd, one even. (checked)
+175. With all three, the parity **aims**: to its even that is a seam of 4, at one side. (a naming; the one side checked)
+176. Aiming prior, a me-parity is **two me agains added**: 5 is 1 and 4, 13 is 4 and 9. (checked, all 141,502 to 4,000,000)
+177. Aiming next, a me-parity is two me agains added at **none**. (checked, all 141,643 to 4,000,000)
+178. Twins past 3 are about **one** middle even, a seam of 6: even, odd, even, odd, even. (checked, all 26,859 to 4,000,000)
+179. Twins aim **together** at a middle even that is a seam of 12. (checked)
+180. To 4,000,000, twins aim together 13,468 times and apart 13,391 times. (checked)
 
 ## Destiny
 
-173. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-174. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
-175. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
+181. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+182. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
+183. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
 
 ## Executing
 

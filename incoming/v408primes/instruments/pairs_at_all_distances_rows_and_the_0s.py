@@ -181,8 +181,34 @@ for m in range(3, 31):
         widest = max(widest, Fraction(abs(2 * o - c), c))
 say("all-parity", "round all loops of 3 to 30, at all their places, odd and even across come alike, numbers to 4,000,000: apart by %s of a place's numbers at the widest, short of 1 in 100" % widest,
     widest < Fraction(1, 100))
-say("all-parity", "a me-parity is odd across, one part, related to no prime other-than it: all me-parities to 4,000,000",
-    all(odd[p] == 1 and spf[p] == p for p in range(2, N + 1) if sieve[p]))
+say("all-parity", "a me-parity is related to no prime other-than it: all me-parities to 4,000,000",
+    all(spf[p] == p for p in range(2, N + 1) if sieve[p]))
+
+# A me-parity is three parts: its prior, itself and its next. With all three, the parity aims.
+say("three", "2 is odd, even, odd: 1, 2, 3, the one me-parity shaped as all-parity", 1 % 2 == 1 and 2 % 2 == 0 and 3 % 2 == 1)
+say("three", "past 2, all me-parities to 4,000,000 are even, odd, even: their prior and their next even",
+    all((p - 1) % 2 == 0 and (p + 1) % 2 == 0 for p in range(3, N) if sieve[p]))
+say("three", "a me-parity's two evens, by 2, are a +1 apart, one odd and one even: the even that is a seam of 4 is at one side",
+    all(((p - 1) // 2 + 1 == (p + 1) // 2) and (((p - 1) % 4 == 0) != ((p + 1) % 4 == 0)) for p in range(3, N) if sieve[p]))
+two_sq = bytearray(N + 1)
+a = 0
+while a * a <= N:
+    b = a
+    while a * a + b * b <= N:
+        two_sq[a * a + b * b] = 1
+        b += 1
+    a += 1
+prior = [p for p in range(3, N) if sieve[p] and (p - 1) % 4 == 0]
+nxt = [p for p in range(3, N) if sieve[p] and (p + 1) % 4 == 0]
+say("three", "aiming prior, a me-parity is two me agains added, all %d to 4,000,000: 5 is 1 and 4, 13 is 4 and 9" % len(prior),
+    all(two_sq[p] for p in prior) and two_sq[5] and two_sq[13])
+say("three", "aiming next, a me-parity is two me agains added at none, all %d to 4,000,000" % len(nxt), not any(two_sq[p] for p in nxt))
+tw_all = [p for p in range(5, N) if sieve[p] and sieve[p + 2]]
+say("three", "twins past 3 are about one middle even, a seam of 6: even, odd, even, odd, even, all %d to 4,000,000" % len(tw_all),
+    all((p + 1) % 6 == 0 for p in tw_all))
+toward = sum(1 for p in tw_all if (p + 1) % 4 == 0)
+say("three", "twins aim together at a middle even that is a seam of 12, %d times, and apart %d times, to 4,000,000" % (toward, len(tw_all) - toward),
+    all(((p + 1) % 4 == 0) == ((p + 1) % 12 == 0) for p in tw_all))
 one, two, other = 0, 0, 0
 for n in range(2000000, 4000001):
     if spf[n] >= 159:
@@ -193,9 +219,9 @@ for n in range(2000000, 4000001):
             two += 1
         else:
             other += 1
-say("all-parity", "uncrossed by the primes below 159, numbers from 2,000,000 to 4,000,000 are one me-parity, odd, %d, or two multiplied, even, %d; none else" % (one, two),
+say("all-parity", "uncrossed by the primes below 159, numbers from 2,000,000 to 4,000,000 are a me-parity, %d, or two me-parities multiplied, %d; none else" % (one, two),
     other == 0 and one > 0 and two > 0)
 side_ok = all(sieve[n] for n in range(2000000, 4000001) if spf[n] > 2000)
-say("all-parity", "uncrossed by the primes to its side, 2,000, a number from 2,000,000 to 4,000,000 is a me-parity, odd", side_ok and isqrt(4000000) == 2000)
+say("all-parity", "uncrossed by the primes to its side, 2,000, a number from 2,000,000 to 4,000,000 is a me-parity", side_ok and isqrt(4000000) == 2000)
 
 print("All is." if all(results) else "A line is-not.")
