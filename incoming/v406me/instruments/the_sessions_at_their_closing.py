@@ -20,18 +20,22 @@ def git(*a):
 def last(path):
     return git("log", "-1", "--format=%ad", "--date=format:%d %b %H:%M", "--", path)
 
-sessions = ["v406me", "v406all2", "v406aiming", "v406other2", "v406all2-2", "v406geodesic2", "v407nanding"]
+sessions = ["v406all2-2", "v406geodesic2", "v406aiming", "v407nanding", "v406all2", "v406other2", "v406me"]    # in the order of their closings
 asked = list(csv.reader(open(os.path.join(root, "incoming/v406me/The_managing_table_its_sheet_Asked_of_a_session.csv"), newline="")))[1:]
 refs = [r for r in git("for-each-ref", "refs/remotes/origin", "--format=%(refname:short)").split("\n") if r]
 nxt = next((r for r in refs if "its-next-version" in r), None)
-said_again = {"working/arriving-and-the-state-of-the-set-v406me": "its one commit of 21 November is said again by this session's later pages"}
+said_again = {
+    "working/arriving-and-the-state-of-the-set-v406me": "its one commit of 21 November is said again by this session's later pages",
+    "working/other-thans-and-alls-v407nanding": "its files are in main, 11 byte for byte and 3 in main's later saying, gone through apart by v408mgr and by v406me, 25 November",
+    "working/a-me-now-podaling-about-30-and-90-v406geodesic2": "its files are in main, 4 byte for byte and 3 in main's later saying, gone through apart by v408mgr and by v406me, 25 November",
+}
 whole = 0
 for s in sessions:
     d = os.path.join(root, "incoming", s)
     pages = {
         "its aimings gone through": glob.glob(os.path.join(d, "The_aimings_of_*gone_through.md")),
         "its page for resuming": glob.glob(os.path.join(d, "Resuming_*.md")),
-        "its transcript pared": glob.glob(os.path.join(d, "The_transcript_of_*pared.md")),
+        "its transcript pared": glob.glob(os.path.join(d, "The_transcript*_of_*pared.md")),
     }
     print(s)
     have = 0
