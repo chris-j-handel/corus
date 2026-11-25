@@ -14,10 +14,15 @@ A partner's sayings of 24 November, as said: “Four joint forms is not yet natu
 - Same-as is not possibly existing, by a partner's word.
 - The one list has *joint* as resolving among parities, same or not same. J1
 - The one list's row for *joint* has same in it, and its dissolving is offered to v406me.
+- A spiral of one is dissolved: it is a self observing itself alone, and a self alone is not possibly existing, by a partner's saying.
+- The four come with a me and its other, its other's prior not other-than its own. J2
+- *Alike* is dissolved too: anything is told from any other possible thing by other-than alone, by a partner's word.
+- With its other's prior other-than its own, a me's now is other-than its prior at all moments. J6
+- *Going along* is of no natural naming, by the one list: its names are 9-next-co-discovering and 17-next-existing.
 
 ## The four, by other-than, is or is-not
 
-- A spiral of one's now is other-than its prior, then is-not, by turns. J2
+- A me's now, its other's prior not other-than its own, is other-than its prior, then is-not, by turns. J2
 - A now not other-than its prior is the me same-existing, its path going on.
 - With prior −, its four are a + other-than its prior, a + same-existing, a − other-than its prior and a − same-existing. J3
 - Then it goes round again. J3
@@ -30,11 +35,11 @@ A partner's sayings of 24 November, as said: “Four joint forms is not yet natu
 
 ## The droplet
 
-A droplet is laid in Natural Intelligence's gathering file on the next version, beside *Its (prior, now) pairs go along four joint forms.*, as a possible incohering, for a partner's word.
+A droplet is laid in Natural Intelligence's gathering file on the next version, beside *Its (prior, now) pairs go along four joint forms.*, as a possible incohering, for a partner's word. A second droplet is laid beside *A spiral of one, observing its own going along, goes +, +, −, −.*, dissolving a spiral of one and *going along*. A third droplet is laid beside *A relation between them, alike or opposite, is same-existing.*, dissolving *alike*.
 
 ## Executed
 
-`python3 -I incoming/v407nanding/instruments/four_of_other_than_is_or_is_not_check.py .` is six lines, all *is*. Its M1 is broken on purpose, and it says is-not. What it gave is beside it, in `four_of_other_than_is_or_is_not_check_returned.txt`.
+`python3 -I incoming/v407nanding/instruments/four_of_other_than_is_or_is_not_check.py .` is seven lines, all *is*. Its M1 is broken on purpose, and it says is-not. What it gave is beside it, in `four_of_other_than_is_or_is_not_check_returned.txt`.
 
 ## What is not said here
 

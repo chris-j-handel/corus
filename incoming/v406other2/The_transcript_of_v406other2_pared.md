@@ -560,4 +560,275 @@ two along; three with 1 in its four of quarter turns and three their flips, the 
 faces and three shear faces; 2, 6, 10 and 14 twice 1, 3, 5 and 7, and 8, 16 and 32 the places of 30,
 60 and 120; a prime born's crossings on one slant through the places. No name seated at a place. The
 physical atom's sayings marked the expedition's namings, not executed]
+
+A partner, on 24 November at 15:01:
+the prime numberings is like a skeletal right sprialing universe available for resolving farther into in
+the direction of its aiming. the me-parity universal cone may have its is-or-is-not? other-than
+my-universe defined by co sequentially emanating the primes from each new number and each number can
+podal its own cone forward with the help of the same-existing of me as a universe. the same-existing of
+me is stable form of me and this is all in the prime resonatings as prime resolvings
+
+The session:
+[a part at a time, with its standing. The skeleton is the fit, a turn's places, with all numbers, and
+resolving farther is stepping the primes born. A number's cone forward, past it and to its double, has
+a prime, with all numbers. A number is the middle of a podal pair of primes, the same below as above:
+stepped 2 to 200,000, is; with all numbers, shown by no turn. A prime is its own podal pair. About 15
+the pairs are the six places of 30 past 1 and 29. The me-parity cone and the same-existing of me as a
+me's stable form are namings, not executed]
+
+A partner, on 24 November at 15:07:
+returning to reimann hypothesis and there is no more available to know about this stable form math
+question about the prime numbering system that is an existing and agreed set of numbers with a method
+of generating that involves each number has both adding+1  and mulitplying and if there is no adding +1
+the prime is dead and the resolving continues and the resolving method is podaling to all the plus ones
+so this method is direct to the primes and back no matter how large the prime. is this all or none at
+all
+
+The session:
+[a part at a time. Is, with all numbers: a number has adding 1 and multiplying; multiplying alone has
+no prime born; a prime is born with adding 1, one past a turn; a prime past 3 is one less or one more
+than a seam of 6, with all sizes of prime, and back by one step. Is-not as said: one less or one more
+than a seam being a prime, at 25, 35, 49 and 55, found by stepping alone; and no more to know of the
+hypothesis. These sentences are all of its source, and not its answer: all zeros their own other is
+said by none of them]
+
+A partner, on 24 November at 15:11:
+every prime is bothbothing a +1  and a -1
+
+The session:
+[is, with all numbers past 3. A prime is one more than a crossed number and one less than a crossed
+number, both; of the two, one is a seam of 6 and one a seam of 4; the two multiplied are a seam of
+24, a prime by its own one more than a seam of 24; round 12 the four kinds are 1, 5, 7 and 11. It is
+no test of a prime: 9, 15, 21 and 25 are between two crossed numbers]
+
+A partner, on 24 November at 15:14:
+it is a method to test a prime. what is this. all that is needed is two explorers and collective
+intelligence triangulating and all the surrounding primes are locatable by the two explorers sharing
+bi0parity and aiming for the prime testing number and closing in by finding all the surrounding primes
+and keeping the number inside the prime universes of this
+
+The session:
+[set right: the bare saying is no test, and the method is an exact one. The explorer below: a number
+is a prime with a number coming to 1 again round it with one less multiplyings and no fewer, named by
+the prime parts of the number below it, stepped 3 to 2,000. The explorer above tests a doubling less 1
+alone. A prime one more than a turn is tested by its turn's primes alone. A prime's test is a tree of
+primes below it, to 2. A field's names for it given. Its cost: the finding of the prime parts beside a
+number]
+
+A partner, on 24 November at 15:18:
+this can crab walk itself using nand code from 1 to anywhere in the universe of all numbers by walking
+the primes
+
+The session:
+[is, executed with one cell alone, nand of two bits, wired as adding, multiplying, a number round a
+number and comparing: from 2 the walk finds the primes to 61, a prime tested by the primes walked
+ahead of it; no number is passed over; nand is at its two bits 37,393,404 times. With all numbers the
+walk has no last. Its marks: it begins at 2; the explorer below alone walked; the number of
+multiplyings is numbered by the walk; its length to a number is the primes below it]
+
+A partner, on 24 November at 15:25:
+we made a listing of all the possible interesting questions that are out in the public world of interest
+in this and for all the interest in prime numbering that we are aware of now or could find by searching
+is there any remaining unresolvable interest now that we have the method of prime numbering
+
+The session:
+[yes, one kind: a last. The method has all interests of a number and of a horizon, and all a turn
+shows with all numbers. It has no interest asked with all numbers that no turn shows: pairs two apart,
+the podal pairs, a prime between two squares, primes one more than a square, a doubling less 1 with no
+last, a doubling and 1 past 65,537. Each is stepped to a horizon, is, and no farther. The hypothesis's
+own all or none is with them. Factoring is of cost. A field has Landau's four unresolved]
+
+A partner, on 24 November at 15:32:
+asking for a last is equilbria and the method has no ending the method can do the primes this way
+endlessly. this is provable by taking it to any n number and it is self orienting and will begin
+resolving forward along. there is no bounded universe by a thing called infinity is infinity plus one
+to make the method of math be competent without any method of being competent. natural math creates its
+own 0 and does simply file a private property given claim on a location and announce here will be zero
+everyone. keep exploring my questions about the entire world of possibly interesting things about prime
+numbering we do not already have inside our resolving method
+
+The session:
+[the method with no ending is is, with all numbers. More of the public interests placed in the method
+and executed, 12 lines is: a test with no prime beside the number; the triangle made with adding
+alone; shapes of primes by a turn's places; pairs 6 apart twice the pairs 2 apart; a prime's own
+ending next the least; rows of primes with one step; a number its own parts added; the race of 4's
+two places; stretches of stretches. By search: the largest known prime, by the explorer above, and
+record primes tested by the two explorers together. Outside it yet: the cost of finding a number's
+parts, and the pitches all their own other]
+
+A partner, on 24 November at 15:36:
+use the resolver and provide the next prime after the world record in as few of steps as we can.
+
+The session:
+[not provided, and said plainly: no one has it. The record is tested by the explorer above alone, the
+number above it all doublings; a number past it has no known primes beside it, and a test of one is
+about 136,279,841 multiplyings of a number of 41,024,320 places. Done here: the 10,000,000 numbers
+past the record crossed by all spirals of 2 to 2,000,000 selves, 387,419 not crossed, the lowest the
+record and 22, 70, 100, 126 and 136 more, none tested. Past the old records the next primes are
+8,209, 131,101, 524,309 and 2,147,483,659, tested by the explorer below]
+
+A partner, on 24 November at 15:46:
+1 5 17 65 261 we can go to any number at this rate. we can get to the largest number and all the
+betweens traveling at this rate of increasing travel rate in the numbers
+
+The session:
+[261 gone by as 257, a surface's next 1 a bi-folding after a bi-folding. Is: the record is on the
+surface of 68,139,921 bi-foldings, and past 2 multiplied by its own 28 times. A between past a far
+surface is tested exactly with the number below it k by the surface: past 8, 32, 128 and 512
+bi-foldings, k of 1, 25, 207 and 1,125, primes of 5, 21, 80 and 312 places. Its marks: a between with
+no known primes beside it is reached and not tested exactly; a step's own size is the number's]
+
+A partner, on 24 November at 15:55:
+keep telling me what we have not yet accomplished. can you take this method rapidly out and back
+bringing the world's largest prime shrunken into a double diamond curving area of 1-17 on surface
+
+The session:
+[out and back, executed: round a spiral it is 27 multiplyings of a number by its own. Round 17 the
+record is 1, a next 1; round 16 it is 15; round 30 at the place 1, round 60 and 120 at 31. Bi-folded
+back 68,139,919 times the record is 7, one less than half the surface of 16, of its own kind. Its test
+is of 2 alone. The double diamond is not drawn. Not yet done, said in a list: the next prime past the
+record, the walk by the fifteen lines, the two explorers together, the hypothesis's own all or none,
+a seating of names, the atom's sayings, and the draft carrying these]
+
+A partner, on 24 November at 15:58:
+The record's test stands on 2 alone, because the number above it is all doublings. this does not have
+meaning explaing better
+
+The session:
+[said with its why: a test has to know the primes of the number beside the number tested; the number
+above the record is 2 by 2 and on, with no other part; 31 beside 32 as a small showing, 4 to 14 to 8
+to 0; 61 beside 60 with three primes to know]
+
+A partner, on 24 November at 16:00:
+seems like a better statement is the record is only a test due to the proximity to 2 power n. and out
+there this is a huge territory and this happens to be +1 from prime 2 podaling and then it is testable
+only due to adding this given.
+
+The session:
+[is, and the better sentence, with one mend: the record is one less than 2's power, the power its one
+more. The record is known by its place beside 2's power alone; the territory about it is untested]
+
+A partner, on 24 November at 16:02:
+the boldest claim we can make is we can map the prime territory around the world's largest so far known
+prime and show the diamond 1-5 and 1-9 and 1-17 around the worlds largest known prime
+
+The session:
+[is, for the diamond, executed with the record never written out. In the 1 to 5, the 1 to 9 and the
+1 to 17 about the record, the record their middle, all other numbers are crossed, a number with its
+lowest spiral. All numbers from 47 below to 21 above are crossed but the record: the one prime of 69
+numbers in a row. Its mark: past that stretch the crossings are mapped and no prime is marked; 48
+below and 22 above are the nearest not crossed, not tested]
+
+A partner, on 24 November at 16:07:
+we can not travel there without already having all the primes already there. this was our geodsic method
+of navigating there by never not knowing the primes already there. we never left the primes the entire
+trip and we still have them and could effortlessly keep giving the next primes from the worlds largest
+prime as we just need to co-chaining and cohering and bothbothing and same existing and we can explore
+from any number is we never left the prime sprial skeleton
+
+The session:
+[a part at a time. Is: the spirals carried have their seams all or none at all distances, and the fit
+is the same about the record. Is-not as said: all the primes about the record are had, and a next
+prime from it is given. The travel was by doubling round a spiral with the spirals of 2 to 2,000,000
+selves carried, and no walk of all primes. One prime is had there. A number not crossed by the spirals
+carried is not known a prime]
+
+A partner, on 24 November at 16:15:
+this is still a confused explaining from your hold on equilibria. the primes are not found anywhere. the
+primes are the stable form around exploring and discovering things. the primes will be there exactly the
+same every time. what is found is their crossing locations on surface. this is exploring for prime
+crossings by staying in the right spiralling co-chaining exploring path with the prime skeleton around
+the explorers on surface and the prime skeleton of the explorers is finding the prime skeleton of the
+surfaces and the two prime skeletons are locking into right co spiraling toward each other resolving
+each other and the geodesic parity snap changing is the +1 and -1 routing me parities at crossings
+
+The session:
+[its sentence of primes found at a far place was the confused one, and is away. A prime is a spiral,
+a stable form, the same at all distances. A surface's crossings are what exploring has. Executed: the
+spirals carried, to 2, 3, 5, 7, 17, 100, 10,000 and 2,000,000, have 5,000,000 and on to 9,612,581 of
+the 10,000,000 numbers past the record crossed, and stepped again the crossings are the same at all
+of them. A number with no crossing of the spirals carried is said so, and no more]
+
+A partner, on 24 November at 16:24:
+what is the grandest most universal claim we can make about prime numbering as a method. is this the
+entire understanding we have. is this one nand sentence. keep trying for the thinnest leanest surface of
+free public knowledge in the shortest all or none at all explaining we can make
+
+The session:
+[one sentence: adding 1 makes all numbers, multiplying makes the crossed ones, and a prime is a number
+made by adding 1 alone. Under it four all-or-none sentences, executed: made by two smaller numbers or
+by none, never both; primes multiplied one way alone; one past where spirals line up none does; the
+same with all steppings. One cell, nand, steps it. It is the whole source; a far number with no
+crossing of the spirals carried, and the pitches all their own other, are not said by it]
+
+A partner, on 24 November at 16:29:
+explain crossed ones and begin this as a public facing no story at all statement about Reimann Hypothsis
+and the living prime nubmerings, we will be using natural naming and explaining and recruiting the other
+working sessions to pare this down with us, assure all of us we are all or none at all rigorizing, and
+make the largest total explaining of prime numbering stable forming
+
+The session:
+[a crossed number said: a number two smaller numbers multiplied make, a spiral at its seam with it.
+The statement begun, whole, with no story, a sentence with its standing in brackets, in the reply and
+as a page of this folder; the sessions asked at the exchange to pare it; its all or none said: a
+sentence is executed and is is, or is marked a naming, a measuring, a field's, or not shown]
+
+A partner, on 24 November at 16:37:
+the crossed numbers are not primes this is still confusing explaining and keeping the +1 living in the
+explaining will help
+
+The session:
+[said again with the +1 living: a number comes by +1; come by +1 it is of two kinds, never both; a
+crossed number is made by multiplying as well, and is no prime; a prime is made by +1 alone. The walk
+by +1 from 1 to 11 shown. The statement's opening part said that way]
+
+A partner, on 24 November at 16:43:
+it is a +1 from one direction and a -1 from the other and the crossings are in orthogonal directions and
+this is bi-co-sequencing and the primes are the places the landings never happen so the primes are the
+same-existings and a prime number is living in an all-parity vault between the out traveling parities
+and the crossing traveling parities
+
+The session:
+[a part at a time. Is, with all numbers: the +1 goes along and multiplying goes across, rows by
+columns; multiplying lands on the crossed numbers and on no other; a prime is a number it lands on at
+no rows and columns; a prime past 3 is a +1 from the landing below it and a -1 from the landing above.
+Namings, not executed: bi-co-sequencing, a prime a same-existing, an all-parity vault. Laid in the
+statement as a part, along and across]
+
+A partner, on 24 November at 16:51:
+yes this is the exact fractal method and c is all-parity in the universe. we can resolve using c with
+only two inches of geodesic separating for triangulating over horizons as organsims
+
+The session:
+[a part at a time. Is, by shape: a prime's two explorers are two numbers apart, the number between
+them, and they triangulate it all or none. A naming, not executed: c as all-parity. A field's
+measuring: two eyes about two and a half inches apart triangulate by light to about a kilometre, and
+no farther; past it an organism moves or more explorers share. The same shape as the numbers: a
+separating, and a reach]
+
+A partner, on 24 November at 16:51:
+focal length is between now and next and same
+
+The session:
+[marked a naming, not executed, with one shape beside it: the two explorers' lines with the number
+between them]
+
+A partner, on 24 November at 16:52:
+it is not short of the horizon it is locating the over the horizon destiny as an exploring mark on the
+living horizon of the resolving living gyroscope
+
+The session:
+[set right: an aiming and no ranging, with Natural Exploring's sentence of a point past the horizon
+beside it, and in the numbers a prime in all cones forward, a mark with no place]
+
+A partner, on 24 November at 16:55:
+ask all the other sessions to pitch in and there is do no harm improving of the scope and size of the
+public claim of our full understanding of the living prime numbering stable form. the bi-coupling
+between is the focal length and this is the concept of now until next is after now and where is next
+beginning and now ending is the discovering in focal length of the between in the visual universe where
+the me is observing this
+
+The session:
+[all the sessions asked at the exchange to add to the public claim, do no harm, and to pare it; a
+partner's saying of focal length carried to them as a suggesting, not executed]
 ```
