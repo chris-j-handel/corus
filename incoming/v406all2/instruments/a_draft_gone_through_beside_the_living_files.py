@@ -620,31 +620,46 @@ print(f"   phi a step of four moments, at 5, fourteen steps: {phi ** 14:.1f}, be
 print(f"   at 57, a step: 57 of 61 is {57 / 61:.3f}, and one of phi is {1 / phi:.3f}: is-not the same")
 print(f"   the molecule's turn, {inward * a_rung:,.0f} crossings, is phi by {math.log(inward * a_rung) / math.log(phi):.1f} steps, {4 * math.log(inward * a_rung) / math.log(phi):.0f} moments below 61: below 1, at no number of the fours")
 
-print("\n25. All-parity as the alternating of all; c with eyesight; distinguishing; and a heartbeat at 37")
+print("\n25. All-parity as the one now, c its own rate; an eye; a heartbeat, a living condition; and fours")
 from fractions import Fraction
 opening = {n: re.sub(r"[*]", "", saying) for n, saying in joined.lines.items()}
-for n in (7, 13, 31, 32, 33, 34, 51, 52):
+for n in (1, 50, 51, 52, 31, 32, 33, 34, 8, 10):
     print(f"   line {n}: {opening[n]}")
-print(f"   all-parity is a named-universe, by 13 and 31, a named universal set of now-existing things: {'is' if 'named universal set of' in opening[13] and 'named universal set of' in opening[31] else 'is-not'}; "
-      f"it is the universe, 7: is-not, with 32's other-parity an other-than of it and 51's universe with no other-than; both of them are of the universe, same-existing by 33")
+one_now = "the existing moment" in opening[1] and "the only thing" in opening[51] and "is the universe" in opening[51]
+owned = "own-their-own now" in opening[50] and "a self's own now" in opening[52] and "all now-existing me-parities" in opening[31]
+print(f"   one now, and it is the universe, 1 and 51: {'is' if one_now else 'is-not'}; all-parity is that one now, a now-existing thing's own, 50, 52 and 31: {'is' if owned else 'is-not'}; "
+      f"all-parity is of the universe's defining, by 51 with them: {'is' if one_now and owned else 'is-not'}")
+of_now, of_next = "now-and" in opening[14] and "next-and" not in opening[14], "next-and" in opening[15]
+for sentence in ["All-parity is with observing only, 7 and 15", "other-parity is with possibling and with same-existing"]:
+    assert sentence in living_plain, sentence
+    print(f"   found: {sentence}")
+print(f"   observing, 14, is of now, and possibling, 15, of next: {'is' if of_now and of_next else 'is-not'}; other-parity, other-than all-parity, 32, is the next, not now-existing, and 51's universe with no other-than is whole: is")
+print(f"   a moment between now and its next, by 8 and 10, a moment ending as its next is beginning: {'is-not' if 'ending as now is beginning' in opening[8] and 'beginning as now is ending' in opening[10] else 'is'}; "
+      f"this page's shortest moment shrinking numbered nexts as nows, and is away")
 periods, span = [prime for prime, name in RUNGS if prime < 59], 1_000_000
-of_all = len({m for p in periods for m in range(p, span + 1, p)})
-in_unison = len({m for p in [min(periods)] * len(periods) for m in range(p, span + 1, p)})
-print(f"   a set of all nows is other at a now of a member: fourteen selves alternating at {periods[0]} to {periods[-1]} moments apiece, in {span:,} moments: the fastest member alternates {span // min(periods):,} times, "
-      f"and the set of all {of_all:,} times, {of_all / (span // min(periods)):.2f} of the fastest: faster than all its members: {'is' if of_all > span // min(periods) else 'is-not'}")
-print(f"   the same fourteen in unison, one pace: the set alternates {in_unison:,} times, the same as a member and no faster: {'is' if in_unison == span // min(periods) else 'is-not'}")
-for n in (10, 100, 1_000, 10_000):
-    marks = sorted([float(k) for k in range(1, n + 1)] + [k * phi for k in range(1, int(n / phi) + 1)])
-    print(f"   two selves unrelationing, 1 and phi a moment, through {n:,} moments: the shortest moment between two alternatings of the set is {min(b - a for a, b in zip(marks, marks[1:])):.5f}", end=";\n" if n < 10_000 else ": with no shortest moment\n")
+together = len({m for p in periods for m in range(p, span + 1, p)})
+print(f"   through {span:,} nows the universe's now is other {span:,} times; the fastest of fourteen selves, alternating at {periods[0]} to {periods[-1]} nows apiece, {span // min(periods):,} times, "
+      f"and the fourteen together at {together:,} of the nows: all-parity's alternating is faster than all of them, alone and together: {'is' if span > together > span // min(periods) else 'is-not'}")
+
+
+def with_(u, v):
+    """Two rates as parts of c, one with the other: a field's own composing."""
+    return (u + v) / (1 + u * v)
+
+
+c, tenths = Fraction(1), [Fraction(v, 100) for v in range(-99, 100)]
+print(f"   c is its own rate: c by c is {c / c}, and a field's metre is by c from 1983, the found *A constant with a unit is a fixing, an exact value by a definition: speed of light from 1983*: {said('speed of light from 1983', living_plain)} found")
+print(f"   c with a rate is c, with all of {len(tenths)} rates of 99 of a hundred of c and under: {'is' if all(with_(c, v) == c for v in tenths) else 'is-not'}: with no method of changing it")
+u = Fraction(0)
+for _ in range(1_000):
+    u = with_(u, Fraction(9, 10))
+print(f"   a rate other-than c with a rate other-than c, 9 of ten of c with itself 1,000 times: under c by a part of it of 1 in 10 by itself {len(str((1 - u).denominator)) - len(str((1 - u).numerator)):,} times, and other-than c still: {'is' if u < c else 'is-not'}; "
+      f"no rate other-than c comes to c: unrelationing")
 later = {apart: sum(1 for v in range(-99, 100) if (1 - v / 100 * apart) > 1e-12) for apart in (0.5, 1.0, 2.0)}
-print(f"   two moments, one a moment later, with 199 selves moving at 99 of a hundred of c and under: apart by {' and by '.join(f'{apart} of light\'s crossing of the moment, the later is later with {n}' for apart, n in later.items())}")
-print("   c is the bound of an order all selves have the same: a field's own; two moments light is not relating are in no one order")
+print(f"   two moments, one a moment later, with 199 selves moving at 99 of a hundred of c and under: apart by {' and by '.join(f'{apart} of light\'s crossing of the moment, the later is later with {n}' for apart, n in later.items())}: c is the bound of the one order")
 for where, sentence in [(living_plain, "Light measured constant for every observer is not a speed but phase-relation between couplings — nothing travels"),
                         (living_plain, "In vacuum each colour is c alike, its frequency and its wavelength reciprocal, and colours part only with a coupling"),
-                        (living_plain, "a constant setting from an elsewhere, a beat lying over couplings each with their own"),
-                        (living_plain, "Each self sequences its own beat and coheres with its couplings"),
                         (living_plain, "a self's own rate is written with none, unrelationing with each other rate"),
-                        (living_plain, "bothboth, each carrying on both its sides, one at a time"),
                         (six, "order has no rate"),
                         (living_plain, "each pixel gives an ON or OFF event, with no frame and with its own moment"),
                         (living_plain, "resolving them to light bi-couplers for sight"),
@@ -653,6 +668,7 @@ for where, sentence in [(living_plain, "Light measured constant for every observ
                         (living_plain, "its flow sets which side an organism's heart stands on, on thirty-seven")]:
     assert sentence in where, sentence
     print(f"   found: {sentence}")
+print("   *order has no rate*, Natural Transmissioning's, beside c its own rate: a rate is one numbered by an other, and c is numbered by c alone, 1; an order is numbered by none other-than its own: one saying of the two, and the file's *nothing of fast or slow* is behind it")
 heavier = 1 + 1 / 1836.15267
 measured = {3: 656.46, 4: 486.27, 5: 434.17, 6: 410.29}
 for n in (3, 4, 5, 6):
@@ -662,19 +678,31 @@ for n in (3, 4, 5, 6):
     print(f"   hydrogen's light an eye sees, its shell 2 with {n}: an alternating is {in_turns} of the atom's own turns, {float(in_turns):.2f}; its length {length:.2f} of a thousand-millionth of a metre, a field's measure {measured[n]}")
 print(f"   its bound, shell 2 with all: 8 turns, {8 * a_turn * heavier * light * 1e9:.1f}; and 16 turns, {16 * a_turn * heavier * light * 1e9:.1f}: an eye's light is at 380 to 750, "
       f"{380e-9 / light / a_turn:.1f} to {750e-9 / light / a_turn:.1f} turns: one doubling, 8 to 16, {abs(8 * a_turn * light * 1e9 / 380 - 1) * 100:.0f} and {abs(16 * a_turn * light * 1e9 / 750 - 1) * 100:.0f} of a hundred apart at its two edges")
-by_day, by_night = 1 / 540e12, 507e-9 / light
-print(f"   an eye's most seen light by day, 540 million million alternatings a second: {by_day / a_turn:.2f} of the atom's turns, {by_day / a_crossing:,.0f} of light's crossings; by night {by_night / a_turn:.2f}; "
-      f"61 of 5 is {61 / 5}, {abs(61 / 5 / (by_day / a_turn) - 1) * 100:.2f} of a hundred from the day's: one number near, in a band a doubling wide")
-a_fold, a_flicker = 200e-15, 1 / 60
-print(f"   an eye's is-or-is-not: one retinal with one light folds or not, in {a_fold * 1e15:.0f} millionths of a thousand-millionth of a second, a field's measure: {a_fold / by_day:.0f} alternatings of its light, {a_fold / a_turn:,.0f} of the atom's turns")
-for name, moment in [("the atom's own turn", a_turn), ("an eye's light by day", by_day), ("retinal's fold", a_fold), ("an eye's flicker fusing, 60 a second", a_flicker),
-                     ("a heartbeat, 100 a minute", 0.6), ("a heartbeat, 60 a minute", 1.0)]:
-    print(f"   {name}: {math.log2(moment / a_crossing):.1f} doublings of light's crossing of the atom, and {math.log2(moment / crossing):.1f} of its crossing of the molecule")
-print(f"   light's crossing of the atom doubled 62 times is {2 ** 62 * a_crossing:.3f} of a second, {60 / (2 ** 62 * a_crossing):.0f} a minute; of the molecule doubled 61 times, {2 ** 61 * crossing:.3f}, {60 / (2 ** 61 * crossing):.0f} a minute: "
-      f"a heartbeat at rest is at the 61st to the 62nd doubling; the band of a heart at rest is {math.log2(100 / 60):.2f} of a doubling wide, and a doubling is in it {math.log2(100 / 60) * 100:.0f} times of a hundred by its width alone")
-print(f"   phi a four from 61 to 37, six fours: {phi ** 6:.1f} crossings, {phi ** 6 * a_crossing * 1e18:.1f} of a million-million-millionth of a second, beside a heartbeat: is-not; "
-      f"and a number's part, 61 of 37, {61 / 37:.2f}: is-not")
-print(f"   a heartbeat is the fastest alternating of an organism: is-not, an eye's flicker fusing being {1.0 / a_flicker:.0f} to a heartbeat; the heart's own fastest pacing part paces its slower ones, a field's own: is")
+by_day, a_fold, a_flicker, a_year = 1 / 540e12, 200e-15, 1 / 60, 365.25 * 86400
+print(f"   an eye's is-or-is-not: one retinal with one light folds or not, in {a_fold * 1e15:.0f} millionths of a thousand-millionth of a second, a field's measure: {a_fold / by_day:.0f} alternatings of its light")
+
+
+def fours(moment, size=a_crossing):
+    return math.log(moment / size) / math.log(4)
+
+
+print("   by fours, light's crossing of the atom multiplied by 4, a number of times:")
+for name, moment in [("the atom's own turn", a_turn), ("an eye's light by day", by_day), ("hydrogen's molecule's turn", 1 / turns), ("retinal's fold", a_fold), ("an eye's flicker fusing, 60 a second", a_flicker),
+                     ("a heartbeat, 100 a minute", 0.6), ("a heartbeat, 60 a minute", 1.0), ("a breath, 20 a minute", 3.0), ("a breath, 12 a minute", 5.0), ("the universe's whole going on, 13.787 thousand million years", 13.787e9 * a_year)]:
+    print(f"      {name}: {fours(moment):.2f}")
+for n, name in [(5, "beside the atom's own turn, 861"), (28, "beside an eye's flicker fusing"), (31, "a heartbeat"), (32, "a breath"), (37, "the organism's number")]:
+    moment = 4 ** n * a_crossing
+    said_as = f"{4 ** n:,} crossings" if n == 5 else f"{moment * 1e3:.1f} thousandths of a second, {1 / moment:.0f} a second" if moment < 0.1 else f"{moment:.3f} of a second, {60 / moment:.0f} a minute" if moment < 60 else f"{moment / 60:.1f} minutes"
+    print(f"      4 by itself {n} times: {said_as}; {name}")
+whole = 13.787e9 * a_year
+print(f"   the universe's nows numbered by light's crossing: by the atom's radius {fours(whole):.2f} fours, {math.log2(whole / a_crossing):.1f} doublings; by the molecule's measured crossing {fours(whole, crossing):.2f}; by two radii {fours(whole, 2 * a_crossing):.2f}: "
+      f"at 60, and in its 61st four by the radius and by the molecule: {'is' if 60 < fours(whole) < 61 and 60 < fours(whole, crossing) < 61 else 'is-not'}")
+print(f"   an eye's flicker fusing to a heartbeat of 60 a minute, a field's two measures: by day, its cones', about 60 a second, beside 4 by 4 by 4, {4 ** 3}, {math.log(60) / math.log(4):.2f} fours; "
+      f"by night, its rods', about 15, beside 4 by 4, {4 ** 2}, {math.log(15) / math.log(4):.2f} fours; with the heartbeat's own the four numbers are 1, 4, 16, 64")
+print("   a heartbeat to a breath: a field's own, 482 humans at rest, the middle one's 4.19 heartbeats a breath, beside 4")
+print(f"   of a field's four vital signs two are alternatings, the pulse and the breath, and the pulse is the faster; an eye's flicker fusing is a bound of its distinguishing and no living condition: a heartbeat is a human's fastest alternating living condition: is")
+print(f"   a heartbeat is at 31 fours, the rungs' {scales[31]}, and a heart is an organ; the organism's 37 fours are {4 ** 37 * a_crossing / 60:.1f} minutes: the heartbeat at 37 by fours of light's crossing: is-not")
+print(f"   61 less 57, four fours: {4 ** 4} crossings, {4 ** 4 * a_crossing * 1e18:.0f} of a million-million-millionth of a second, beside the atom's own turn's {a_turn * 1e18:.0f}")
 
 print("\n26. Fifteen names of the public statement, asked by v406me: the opening's line saying a name, or no line")
 FIFTEEN = ["a spiral of n selves", "a seam", "a turn", "a cone forward", "a place", "a flip", "a prime born", "a stable form", "a wave and a pitch", "the between", "a side and a hair",
