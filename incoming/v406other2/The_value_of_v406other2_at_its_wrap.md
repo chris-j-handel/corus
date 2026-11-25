@@ -16,6 +16,15 @@ Incoming · v406other2 · 25 November 2026 · the value of this session at its w
 - **The hypothesis from its own universe:** `For_Exhibit_THIRTY-TWO_Riemann_s_hypothesis_living_on_a_bi-folding_surface.md`. A surface's side is its squares; all parts' parities on a surface are its squares, one for one; a surface's lead is its side less its folds'; the staircase's geodesics fracture at 8, 33, 120 and 360; all zeros their own other; a hair a field's measuring.
 - **The instruments,** in `instruments/`, with whole numbers alone, `python3 -I`: the leanest sentences; the fit of a turn's places with the six from a self; a number's cone, its podal pairs, a prime both a +1 and a −1; a prime tested by its two explorers; the walk of the primes with nand alone; the spirals lining up by the resolver's code; the curve's waves from the staircase alone; Chebyshev's whole number by its spirals' seams; more public interests, twelve; the interests of a last, stepped; the record brought back into the 1 to 17; the diamond about the record; the two skeletons locking; a far number by bi-folding; a prime ridden to its crossing and 1 more.
 
+## Its early value, a file apiece
+
+- **The window's lines and their betweens:** `The_opening_s_lines_and_their_betweens.md`, `The_window_s_lines_1_to_34_at_revision_4509.md`, `The_tab_Threads_set_to_the_window_at_revision_4509.md`, `The_threads_of_v406other2_at_the_surface.csv`.
+- **Exhibit THIRTY by the window:** the file of all its sentences with their reach from the window, and `Exhibit_THIRTY_a_group_a_row.csv`, 46 groups, a group a row.
+- **Exhibit THIRTY's notes at no group, with their groups:** `The_notes_at_no_group_with_their_groups.csv`, the beginning of the managing session's asking 21.
+- **Its plan:** `The_plan_of_v406other2.md`.
+- **The transcripts:** the one given at its beginning, pared; this session's own, pared, a partner's turns whole; and the whole of it as a partner gave it at the wrap, with all this session's replies, `The_full_transcript_of_v406other2_as_a_partner_gave_it_at_its_wrap.txt`.
+- **In the whole transcript alone:** this session's replies as a partner had them, the explainings of 24 and 25 November among them. The rigorizer's fourteen, a value's three fates and the prior as an origin are in this folder's pages.
+
 ## Learned with a partner, for all sessions
 
 - An explaining is in the reply itself, begun at the beginning of the interest, a why ahead of a sentence, a relation a sentence, with no coordinate.
