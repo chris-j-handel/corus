@@ -40,8 +40,8 @@ A partner's sayings of 24 November, as said:
 ## By the fifteen lines
 
 - Two mes facing are a self and an other.
-- Opening alike, the self's prior and the other's next prior step by the right spiral. S8
-- Opening unlike, they step by no right spiral. S9
+- With the other's prior not other-than the self's, the self's prior and the other's next prior step by the right spiral. S8
+- With the other's prior other-than the self's, they step by no right spiral. S9
 
 ## Executed
 

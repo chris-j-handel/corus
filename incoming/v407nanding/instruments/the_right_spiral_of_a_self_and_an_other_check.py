@@ -95,8 +95,8 @@ def spirals(opening_a, opening_b, moments=12):
     return all((p[t + 1]["A"], p[t + 2]["B"]) == (p[t + 1]["B"], turned(p[t]["A"])) for t in range(moments - 1))
 
 
-say("S8. By the fifteen lines, two mes facing, a self and an other opening alike: the self's prior and the other's next "
+say("S8. By the fifteen lines, two mes facing, a self and an other, the other's prior not other-than the self's: the self's prior and the other's next "
     "prior step by the right spiral, twelve moments, opening as + and as -", spirals(PLUS, PLUS) and spirals(MINUS, MINUS))
-say("S9. Opening unlike, they step by no right spiral: the is-not, both ways", not spirals(PLUS, MINUS) and not spirals(MINUS, PLUS))
+say("S9. With the other's prior other-than the self's, they step by no right spiral: the is-not, both ways", not spirals(PLUS, MINUS) and not spirals(MINUS, PLUS))
 
 print("\nAll is." if all(results) else "\nNot all is.")
