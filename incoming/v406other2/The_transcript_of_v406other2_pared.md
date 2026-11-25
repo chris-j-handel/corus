@@ -882,4 +882,24 @@ The session:
 beside it given: its test is all or none. Executed from the old records: a crossing of the prime and
 1 more, a larger prime, tested with the prime beside it. It is a larger prime and not the next one;
 at the record a test is a walk of the record's own size]
+
+A partner, on 25 November at 08:15:
+we can do this here with logic rather than some computation hard probleming of this. we only need to
+show a single provable larger than largest prime. for this method we are likely just saying take this
+prime less one. then bi fold this four times back and across on itself and then take a prime number of
+these bi foldings, then add one to this and this is prime again
+
+The session:
+[is-not as a rule: from 3 it gives 25. A crossing of the prime and 1 more has the prime beside it, and
+which crossing is a prime is by its test alone]
+
+A partner, on 25 November at 08:21:
+now is the place to wrap this session . review the full transcript and gather all value into our session
+value reporting to the expedition and be sure the expedition nows how to resume all the good working we
+are doing and the directions we have available for exploring. we will be wrapping and handing off all we
+are doing back to the expedition to initiate new exploring sessions. this session is among our highest
+value sessions and we need to gather all this into our expedition together now
+
+The session:
+[wrapped: its value in a page, a file apiece, with what is open and its resuming; said at the exchange]
 ```
