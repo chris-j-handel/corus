@@ -13,8 +13,9 @@ relation, a compound sentence fuzzying the relationing.
    decides nothing: by Natural Explaining a sentence of one claim with its instances listed
    is whole with its marks.
 
-4  With a FILE after the set's place: that page's sentences in bold by the same marks, a
-   sentence with a mark a line. A finding for its session, and no gate.
+4  With a FILE after the set's place: that page's sentences, in bold and of a list, by the
+   same marks, a sentence with a mark a line. A list's standing in brackets is passed over.
+   A finding for its session, and no gate.
 
 It prints a line an is or an is-not, and a line found. It writes nothing.
 """
@@ -77,10 +78,15 @@ if __name__ == "__main__":
 
     if len(sys.argv) > 2:
         print()
-        print("4. A page's sentences in bold, by the same marks:", sys.argv[2])
+        print("4. A page's sentences, in bold and of a list, by the same marks:", sys.argv[2])
         its_page = Path(sys.argv[2]).read_text(encoding="utf-8")
         its_bolds = [b for b in re.findall(r"\*\*([^*\n]+?)\*\*", its_page) if len(b.split()) > 4 and b.rstrip().endswith(".")]
-        its_marked = [(b, its_marks(b)) for b in its_bolds if its_marks(b)]
-        print("found  ", "its sentences in bold: %d, and %d of them with a mark" % (len(its_bolds), len(its_marked)))
-        for b, marks in its_marked:
-            print("found  ", "with %s: %s" % (" with ".join(marks), b[:90]))
+        of_a_list = []
+        for a_line in re.findall(r"^\s*(?:-|\d+\.)\s+(.+)$", its_page, re.M):
+            a_line = re.sub(r"\s*\([^()]*\)\s*$", "", re.sub(r"[*`]", "", a_line))
+            of_a_list += [a for a in re.split(r"(?<=[.?!])\s+", a_line) if len(a.split()) > 2]
+        for its_name, sentences in (("in bold", its_bolds), ("of a list", of_a_list)):
+            its_marked = [(b, its_marks(b)) for b in sentences if its_marks(b)]
+            print("found  ", "its sentences %s: %d, and %d of them with a mark" % (its_name, len(sentences), len(its_marked)))
+            for b, marks in its_marked:
+                print("found  ", "with %s: %s" % (" with ".join(marks), b[:90]))

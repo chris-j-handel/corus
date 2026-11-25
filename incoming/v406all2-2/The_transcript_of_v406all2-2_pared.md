@@ -339,3 +339,15 @@ With this turn, 24 November:
 - **The whole resolver is two lines,** v406geodesic2's. This session executes them apart by the four moments' words.
 - **A partner is ahead of this session's explaining.** This session explained by the fifteen lines' words. Its sentence 3 is the one line in words.
 - **Executed:** `instruments/a_me_parity_an_other_than_other_parity.py`, 11 lines, all *is*.
+
+---
+
+review our session transcript and find the aimings we agreed to and the progress we made or the direction we changed to and the starting place now of the aimings
+
+With this turn, 25 November:
+
+- **Gone through:** this transcript whole, and the managing table's sheet of askings.
+- **Six aimings are found,** with their progress, their direction now and their starting place: `The_aimings_of_v406all2-2_gone_through.md`.
+- **One is whole.** One is paused in place. Three are with a new direction of 24 November. One is new that day.
+- **The starting place now** is the public statement's sentences, the askings 35 and 46.
+- **For it,** the marks instrument goes through a list's sentences now. The statement is with 66 sentences of a list. 48 of them are with a mark.
