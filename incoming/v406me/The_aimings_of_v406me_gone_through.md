@@ -27,27 +27,33 @@ At rest, with their askings in the sheet: the entering's four things, and a tabl
 
 A session is whole for its closing with three pages in its folder: its aimings gone through with their starting place now, its page for resuming, and its transcript pared. Its commits are in an offer brought in. Its askings open are said in its page of aimings, in their order.
 
-## A closing, a session at a turn, as a team
+## The plan, an is of both with a partner, 25 November
 
-The turns: v406all2-2, v406geodesic2, v406aiming, v407nanding, v406all2, v406other2, and this session last. Four steps a closing.
+**Seven future sessions, by their subjects.** A session's work is sorted by its subject for them, a thing with its future session.
 
-1. **The closing session,** at a partner's writing to it: its three pages, its commits in one offer, and its line at the exchange.
-2. **The managing session with the bringing in:** the offer gone through and brought in, and the session's askings set with their starting place.
-3. **v408mgr:** the closing gone through apart, and the line the session's successor enters by.
-4. **A partner** opens the successor with that line. The successor says its line at the exchange, and v408mgr sets its row.
+| A future session | Its living home |
+|---|---|
+| Exhibit ONE, stable form resolver | Exhibit ONE Natural Resolver, with its gathering file |
+| Exhibit THIRTY, co-chaining, all new learnings | Exhibit THIRTY Co-Chaining Logic Registry, with its gathering file |
+| Illustrating sequential resolving | Exhibit TWENTY-NINE Natural Illustrating, with its gathering file and its drawings |
+| Nand logic | No living file of its own. Exhibit ONE's gathering file, this session's reading |
+| Opening sentences of Natural Intelligence | Natural Intelligence, with its gathering file |
+| Prime Numbering exhibit | A draft, with no living file and no gathering file now. The public statement is with it |
+| Natural Naming exhibit | Exhibit TWENTY Natural Naming, with its gathering file |
 
-v408mgr is working with a successor from its opening line on, a session at a turn.
+The managing is an eighth, v408mgr's, its home the Geodesic Improving Method's gathering file.
 
-## For v408mgr, through the closings
+- **One sorting.** A thing's future session is one column more: on the things of value, the askings, a user's finding, and a closing session's aimings. A closing session sorts its own aimings in its page of aimings. A thing is at its one place, and is shown to a session it is of, with no copy.
+- **A session's source.** One instrument lays a future session's page at its opening, from the tables as they are at that moment: its living home, the prior aimings toward it with their progress, its work in progress, its drawings and code, and the sessions at its subject. The column and the instrument are this session's to lay next.
+- **A closing at a time.** The sessions not closing go on with their work, and nothing is said now of their condition at their own closing. A closing session has no one successor.
+- **v406all2 is closed, 25 November,** by a partner. Its transcript is with a partner. Its aimings gone through, sorted to the seven, and its page for resuming are v408mgr's to lay from it, with this session the second observing.
 
-Offered, for an is of both. v408mgr's saying of 25 November: is.
+## For v408mgr, orienting
 
-- **Enter by** Start here, `incoming/v404mgr/The_working_now.md`, and this page. `Resuming_v406me.md` has the how.
-- **Execute ahead of all:** the set's check, and the three instruments of this page.
-- **Two managing sessions, one hand at a thing.** One of the two brings in the offers, and one writes the working document. The one with neither goes through a closing apart, a second observing.
-- **The bringing in goes to v408mgr from the next offer on,** said at the exchange on 25 November. Start here is its to rewrite whole with it.
-- **The working document goes to it** at a partner's handing it the link. Its copies in this folder are its to renew from that turn on.
-- **This session closes last:** its three pages, and its line at the exchange.
+- **Its orienting is the second observing:** all that is incoming, and its place in the living files' gathering. It goes through Natural Naming, Natural Explaining, the Geodesic Improving Method and the Living File Registry.
+- **This session brings in the offers,** and v408mgr goes through an offer apart. The bringing in goes to it with the two goings through the same over a number of offers. This session's saying of 25 November, of the bringing in from the next offer on, is away.
+- **Start here is as it is.** A rewriting of it is shown to a partner ahead of it.
+- **The working document is this session's** until a partner hands v408mgr its link.
 
 ## With a partner
 
