@@ -14,6 +14,7 @@ A drawing's view is in `illustrations/`, its maker is `instruments/make_draftN.p
 
 - **40.** the opening: twelve primes, three rounds of four, closing at a cube's shells 7, 19 and 37; round four closes at 53, with its shell 61 past it. For the opening of the draft of Exhibit THIRTY-TWO Natural Prime Numbering, the one table's row 36. Its check is `check_the_opening_twelve_primes_three_rounds_of_four.py`, fifteen lines, all *is*.
 - **41.** 37, one self: its rounds, 1, 6, 12 and 18, and its other-thans of its inner cube, 1, 9 and 27, two partings of one shell; turned by the six orders of its three ways, one still self, six threes and three sixes. For the draft's 3.2. Its check is `check_37_one_self_its_rounds_and_its_other-thans.py`, thirteen lines, all *is*.
+- **42.** the prime resolving form, one face: six prime livings across, ten fixings down, v407primes' table made from its own page. Of sixty cells 34 are named and 26 are with none named; five interests are not yet resolving, by the page's own part; the columns are three pairs and the rows five bi-couplings. Its check is `check_the_prime_resolving_form_one_face.py`, six lines, all *is*. A seat, an interest's row, is a placing, the page's own.
 
 ## Executed with the 40th drawing
 
@@ -53,7 +54,7 @@ A learning, its session, and its place in this folder.
 
 An is of both with a partner, 25 November: a column leads. A column is one prime living, executed, and a row is one fixing, marked on it once. Four forms, in their order of reach: the whole table as one face, made from the form's own page; a column a drawing, six; a row a drawing, ten, by Natural Illustrating 7.1's three parts; and the ten on the method's own figure. A seat is a placing, said apart on a drawing.
 
-A partner's saying of the six and the ten is rigorized in `A_partner_s_saying_of_the_six_and_the_ten_rigorized.md`, its instrument thirteen lines, all *is*: the ten view is the six view with a now both; by the lean line three of the six pairs are other-than at all openings and three are not; its seating is hanging.
+A partner's word of 25 November on *5 and 10 are the five and the ten, things and their pairs* is an is, no approving. A partner's saying of the six and the ten is rigorized in `A_partner_s_saying_of_the_six_and_the_ten_rigorized.md`, its instrument thirteen lines, all *is*: the ten view is the six view with a now both; by the lean line three of the six pairs are other-than at all openings and three are not; its seating is hanging.
 
 ## Its placings, no execution says them
 
