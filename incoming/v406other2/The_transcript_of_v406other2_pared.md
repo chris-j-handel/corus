@@ -760,4 +760,16 @@ made by adding 1 alone. Under it four all-or-none sentences, executed: made by t
 by none, never both; primes multiplied one way alone; one past where spirals line up none does; the
 same with all steppings. One cell, nand, steps it. It is the whole source; a far number with no
 crossing of the spirals carried, and the pitches all their own other, are not said by it]
+
+A partner, on 24 November at 16:29:
+explain crossed ones and begin this as a public facing no story at all statement about Reimann Hypothsis
+and the living prime nubmerings, we will be using natural naming and explaining and recruiting the other
+working sessions to pare this down with us, assure all of us we are all or none at all rigorizing, and
+make the largest total explaining of prime numbering stable forming
+
+The session:
+[a crossed number said: a number two smaller numbers multiplied make, a spiral at its seam with it.
+The statement begun, whole, with no story, a sentence with its standing in brackets, in the reply and
+as a page of this folder; the sessions asked at the exchange to pare it; its all or none said: a
+sentence is executed and is is, or is marked a naming, a measuring, a field's, or not shown]
 ```
