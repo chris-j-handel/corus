@@ -1,9 +1,9 @@
-"""v407nanding · a zero and its other across the between: a bi-folding of two podalings, and the six zeros on the between.
+"""v407nanding · the curve's betweens on the between: a bi-folding of two podalings of a place, and six betweens on the between.
 
 Usage, from the repository's root:
-  python3 -I incoming/v407nanding/instruments/a_zero_and_its_other_across_the_between_check.py .
+  python3 -I incoming/v407nanding/instruments/the_curve_s_betweens_on_the_between_check.py .
 
-The public statement's sentence: a zero has its other across the between, and all zeros are their own other. A point is
+A partner's word of 24 November: a 0 is not a thing. A 0 of the curve is a between of its + and its -. A point is
 (x, y), x and y exact fractions. Its other across the between is (1 - x, y); its mirror is (x, -y). The curve's height on the between is
 Riemann-Siegel's Z(t), its sum and its opening remainder, a field's. All or none.
 """
@@ -75,11 +75,11 @@ waves = [14.14, 21.02, 25.02, 30.42, 32.94, 37.58]
 if statement.exists():
     said = re.search(r"the six highest are ([\d., and]+)\.", statement.read_text(encoding="utf-8"))
     waves = [float(w) for w in re.findall(r"\d+\.\d+", said.group(1))] if said else waves
-say("R3. The curve on the between changes its sign six times from 10 to 40, at the statement's six waves, each within "
-    "two hundredths: " + ", ".join(f"{h:.3f}" for h in heights),
+say("R3. The curve on the between is + and then -, or - and then +, six times from 10 to 40: six betweens, at the statement's "
+    "six waves, two hundredths apart at most: " + ", ".join(f"{h:.3f}" for h in heights),
     len(heights) == 6 and all(abs(h - w) < 0.02 for h, w in zip(heights, waves)))
 count = theta(40) / math.pi + 1
-say(f"R4. A field's count of all zeros to 40, its main term, is {count:.2f}, six and a part: a measuring, beside R3's six",
+say(f"R4. A field's numbering of all the curve's betweens to 40, its main term, is {count:.2f}, six and a part: a measuring, beside R3's six",
     6 <= count < 7)
 say("M1. With the mirror away, across the between alone, a point off the between is a round of two and not four",
     all(len({s, across(s)}) == 2 and across(across(s)) == s for s in off))
