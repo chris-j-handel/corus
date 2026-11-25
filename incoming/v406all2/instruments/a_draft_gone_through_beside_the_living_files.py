@@ -739,4 +739,23 @@ print(f"   an average neuron of a human brain, a field's best guess, 0.1 to 2 a 
 print(f"   a field's two other accounts of neighbouring bands: by e, {math.e:.3f}, two bands on being {math.e ** 2:.2f}, and by phi, {phi:.3f}, two bands on being {phi ** 2:.2f}: by fours with the doubling account alone")
 print(f"   a neuron is a cell, the rungs' {scales[23]} at 23: 23 fours of light's crossing are {4 ** 23 * a_crossing * 1e6:.1f} millionths of a second, {1 / (4 ** 23 * a_crossing):,.0f} a second, beside one neuron's fastest: is-not at 23; numbered from 61 as c it is at {61 - 26}: is-not at 23")
 
+print("\n28. At the closing, found again: the fours beside four-cycling, and 440 by fives of 88")
+plain_text = text.replace("**", "")
+for where, sentence in [(plain_text, "A self alone gives +, 0, −, 0 and comes again with 4 moments"),
+                        (plain_text, "A number is two moments"),
+                        (living_plain, "Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing"),
+                        (living_plain, "ONE's names 1 to 16 stand in four four-cyclings, 17 a next 1"),
+                        (living_plain, "Four hundred forty is eight times five times eleven, and its fives are eighty-eight stations")]:
+    assert sentence in where, sentence
+    print(f"   found: {sentence}")
+print(f"   a doubling is a number's two moments, a four a self's coming again, and four four-cyclings are {4 * 4}, a 1 to 17's names less its next 1: {'is' if 4 * 4 == 17 - 1 else 'is-not'}; "
+      f"a scale outward as 4 or as 16 is found by no sentence yet")
+count.clear()
+with_nand.nand = lambda a, b: (count.append(1), plain_nand(a, b))[1]
+with_nand.a_cell(with_nand.TWO[1], [with_nand.TWO[-1]] * 7)
+of_seven = len(count)
+with_nand.nand = plain_nand
+print(f"   by the code a self's moment with 7 things observed is {of_seven} nands, and 5 of them are {5 * of_seven}: beside *its fives are eighty-eight stations*: {'is' if of_seven == 88 and 5 * of_seven == 440 else 'is-not'}; "
+      f"5 and 7 are the atom's and the molecule's numbers, and part 14 said no found sentence beside a way of the three")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
