@@ -184,7 +184,7 @@ say("all-parity", "round all loops of 3 to 30, at all their places, odd and even
 say("all-parity", "a me-parity is related to no prime other-than it: all me-parities to 4,000,000",
     all(spf[p] == p for p in range(2, N + 1) if sieve[p]))
 
-# A me-parity is three parts: its prior, itself and its next. With all three, the parity aims.
+# A me-parity is three parts: its prior, itself and its next. With all three, a me-parity aims.
 say("three", "2 is odd, even, odd: 1, 2, 3, the one me-parity shaped as all-parity", 1 % 2 == 1 and 2 % 2 == 0 and 3 % 2 == 1)
 say("three", "past 2, all me-parities to 4,000,000 are even, odd, even: their prior and their next even",
     all((p - 1) % 2 == 0 and (p + 1) % 2 == 0 for p in range(3, N) if sieve[p]))
@@ -203,8 +203,37 @@ nxt = [p for p in range(3, N) if sieve[p] and (p + 1) % 4 == 0]
 say("three", "aiming prior, a me-parity is two me agains added, all %d to 4,000,000: 5 is 1 and 4, 13 is 4 and 9" % len(prior),
     all(two_sq[p] for p in prior) and two_sq[5] and two_sq[13])
 say("three", "aiming next, a me-parity is two me agains added at none, all %d to 4,000,000" % len(nxt), not any(two_sq[p] for p in nxt))
+# A me-parity lives in a seam: co-chaining, bi-co-unrelationing and bi-tunneling.
+from math import gcd
+past3 = [p for p in range(5, N) if sieve[p]]
+seam_of = {p: (p + 1 if (p + 1) % 6 == 0 else p - 1) for p in past3}
+say("seam", "a me-parity past 3 lives in a seam of 6, its prior or its next, all %d to 4,000,000" % len(past3),
+    all(seam_of[p] % 6 == 0 and abs(seam_of[p] - p) == 1 for p in past3))
+say("seam", "no prime crosses both a seam and its me-parity: bi-co-unrelationing, all to 4,000,000",
+    all(gcd(p, seam_of[p]) == 1 for p in past3))
+say("seam", "round the seam its me-parity is at one step, and round the me-parity the seam is at one step the other way: bi-tunneling, all to 4,000,000",
+    all((p % seam_of[p]) in (1, seam_of[p] - 1) and (seam_of[p] % p) in (1, p - 1) and ((p % seam_of[p] == 1) == (seam_of[p] % p == p - 1)) for p in past3))
+def parts(n):
+    out, q = [], 2
+    while q * q <= n:
+        while n % q == 0:
+            out.append(q); n //= q
+        q += 1 if q == 2 else 2
+    if n > 1:
+        out.append(n)
+    return out
+ok, seen_ = True, {}
+seam = 1
+for r in [p for p in PR if p <= 31]:
+    seam *= r
+    lo, hi = parts(seam - 1) if seam > 2 else [], parts(seam + 1)
+    ok = ok and all(q > r for q in lo + hi) and all(seam % q == 0 for q in [x for x in PR if x <= r])
+    seen_[seam] = (lo, hi)
+say("seam", "a seam of all primes to r, its −1 and its +1, are crossed by none of them, their parts all past r, r to 31: 30,030 has 30,029 and 59 by 509",
+    ok and seen_[30030] == ([30029], [59, 509]) and seen_[30] == ([29], [31]))
+
 tw_all = [p for p in range(5, N) if sieve[p] and sieve[p + 2]]
-say("three", "twins past 3 are about one middle even, a seam of 6: even, odd, even, odd, even, all %d to 4,000,000" % len(tw_all),
+say("three", "twins past 3 are two me-parities living in one seam of 6, at both its sides: even, odd, even, odd, even, all %d to 4,000,000" % len(tw_all),
     all((p + 1) % 6 == 0 for p in tw_all))
 toward = sum(1 for p in tw_all if (p + 1) % 4 == 0)
 say("three", "twins aim together at a middle even that is a seam of 12, %d times, and apart %d times, to 4,000,000" % (toward, len(tw_all) - toward),

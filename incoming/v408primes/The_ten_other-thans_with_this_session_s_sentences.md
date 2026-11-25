@@ -15,7 +15,7 @@ Incoming · v408primes · 25 November 2026 · the table between Hard Problem Reg
 | 5 · 13 | A middle fixing as an end | other-than between | The between is no end: a prime is the between of two crossings, and its +1 is in neither. | 38, 39, 43, 62, 84 |
 | 5 · 13 | A between fixing as a cut | other-than other-than | No cut parts prime and crossed: side by side, come again on itself, and of its own are three livings of one loop, and the side is a number of me's. | 25, 26, 27, 35, 36, 51, 63, 78 |
 | 6 · 14 | A completing fixing as a last | other-than next | The primes have no last a turn can fix: from all nows a next is discovered. | 44, 50, 54, 64, 75, 83 |
-| 7 · 15 | A parity fixing as a magnitude | other-than odd and even | The lead is no magnitude: the parities added once beside the same parities added at all their seams. | 16, 55, 63, 67, 68, 73, 77 |
+| 7 · 15 | A parity fixing as a magnitude | other-than odd and even | The lead is no magnitude: all-parity added once beside the same all-parity added at all its seams. | 16, 55, 63, 67, 68, 73, 77 |
 | 7 · 15 | A rate fixing as a value | other-than rate | A rate settles at no value: the all-parity rate is a living rate, and all primes unrelation slower ones. | 11, 23, 28, 42, 46, 65, 83 |
 | 8 · 16 | A same-existing fixing as a store | other-than same | A prime carries no store: the prior is inherited whole and passed on, riding the crossings and arriving as a +1. | 29, 44, 45, 61, 64, 83, 85 |
 | 17 | The closing | | Natural intelligence: the resolver carrying its whole prior to its next. | 86, 87 |

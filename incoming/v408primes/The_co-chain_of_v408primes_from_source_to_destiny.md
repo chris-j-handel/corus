@@ -14,7 +14,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 4. **Same-existing** is existing both as now is beginning and as next is beginning. (a naming)
 5. A **self** is a now-existing thing with its own prior-sequence. (a naming)
 6. **Parity** is a self's own now. (a naming)
-7. One inversion of a parity is **other-than**. (a naming)
+7. One inversion of a me-parity is **other-than**. (a naming)
 8. A self's parity has **four moments** from prior to next: other-than-is, other-than-is-not, other-than-other-than-is and other-than-other-than-is-not. (checked)
 9. The two other-thans are next other-than prior, and the two other-than-other-thans are next **same as prior**. (checked)
 10. **Possibling** distinguishes the two other-thans from the two other-than-other-thans. (a naming)
@@ -113,13 +113,13 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 ## The hard problem
 
-85. The **lead** is the parities added once, along. (checked)
+85. The **lead** is all-parity added once, along. (checked)
 86. The side is the same parities **added at all their seams**. (checked)
 87. Odd and even come out **close to alike**: to 4,194,304, 2,097,443 odd and 2,096,861 even. (checked)
 88. **Odd leads**: from 587 on, odd is ahead at all numbers to 4,194,304. (checked)
 89. The lead is the along leads of the surface and of its copies **shrunk at all the me's**. (checked)
 90. The me's carry the opening's lean, and the opening **leans odd by its primes**. (checked)
-91. The primes' **hard problem** is the parities added once beside the same parities added at all their seams. (a naming; both addings checked)
+91. The primes' **hard problem** is all-parity added once beside the same all-parity added at all its seams. (a naming; both addings checked)
 92. Said with whole numbers, for a whole k the lead multiplied by itself 2k times stays **short** of the surface multiplied by itself k + 2 times. (a naming)
 93. The method **steps** it surface by surface, k by k: for 10 and 20, short from 2 on; for 50, from 97,078 on; for 100, still reaching at 3,477,933. (checked; all surfaces after are past all horizons, not shown)
 
@@ -224,18 +224,28 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 172. A me-parity is **three parts**: its prior, even; itself, odd; its next, even. (checked, all me-parities past 2 to 4,000,000)
 173. **2** is odd, even, odd: 1, 2, 3, the one me-parity shaped as all-parity. (checked)
 174. A me-parity's two evens, by 2, are a **+1 apart**: one odd, one even. (checked)
-175. With all three, the parity **aims**: to its even that is a seam of 4, at one side. (a naming; the one side checked)
+175. With all three, a me-parity **aims**: to its even that is a seam of 4, at one side. (a naming; the one side checked)
 176. Aiming prior, a me-parity is **two me agains added**: 5 is 1 and 4, 13 is 4 and 9. (checked, all 141,502 to 4,000,000)
 177. Aiming next, a me-parity is two me agains added at **none**. (checked, all 141,643 to 4,000,000)
-178. Twins past 3 are about **one** middle even, a seam of 6: even, odd, even, odd, even. (checked, all 26,859 to 4,000,000)
-179. Twins aim **together** at a middle even that is a seam of 12. (checked)
-180. To 4,000,000, twins aim together 13,468 times and apart 13,391 times. (checked)
+
+## A me-parity living in a seam
+
+178. A me-parity past 3 **lives in a seam** of 6, its prior or its next. (checked, all 283,144 to 4,000,000)
+179. A seam and its me-parity are a +1 apart: **co-chaining**. (a naming)
+180. No prime crosses both a seam and its me-parity: **bi-co-unrelationing**. (checked, all to 4,000,000)
+181. Round the seam, its me-parity is at one step; round the me-parity, the seam is at one step the other way: **bi-tunneling**. (checked, all to 4,000,000)
+182. A seam and its me-parity are **both-both**: co-chaining, bi-co-unrelationing and bi-tunneling. (a naming)
+183. A seam of all primes to r is crossed by them all, and its −1 and its +1 by none: their parts are me-parities **past r**. (checked, r to 31)
+184. Round 30, 29 and 31 are me-parities; round 30,030, 30,029 is a me-parity and 30,031 is 59 by 509. (checked)
+185. Twins past 3 are two me-parities living in **one seam** of 6, at both its sides: even, odd, even, odd, even. (checked, all 26,859 to 4,000,000)
+186. Twins aim **together** at a middle even that is a seam of 12. (checked)
+187. To 4,000,000, twins aim together 13,468 times and apart 13,391 times. (checked)
 
 ## Destiny
 
-181. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-182. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
-183. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
+188. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+189. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
+190. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
 
 ## Executing
 
