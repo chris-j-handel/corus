@@ -853,4 +853,20 @@ crossings with the spirals to the farther one's square side carried; executed be
 and 2,147,483,659, eleven numbers, all crossed. As carried now, is-not past the record: one prime is
 had, and the spirals to its side are not carried. Its sentence of cannot be given is said again: not
 given, by what is carried]
+
+A partner, on 25 November at 07:51:
+Past the record we have one. this would be a new record and does not make a bit of sense. take the
+record that is already a prime and use the prior 4x below the +1 where the method of locating the primes
+is primitve and inlcude onlly prime 2's
+
+A partner, on 25 November at 07:53:
+59 power 59 is likely the largest prime in the universe and the primes wrap back on themselves in a
+natural torus and there is no larger primes
+
+The session:
+[the first set right and taken as said: the record and the surface four times below its one more,
+both of 2s alone, the numbers beside the three doublings between mapped by 2s alone. The second is
+is-not, a part at a time: 59 by its own 59 times is crossed by 59; larger primes are tested here; and
+Natural Numbers has primes with no last. The round of 2 to 59 and back from 61 is living, a round and
+no last prime]
 ```
