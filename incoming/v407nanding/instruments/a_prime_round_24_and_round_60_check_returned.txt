@@ -4,6 +4,7 @@ T3. Round 24, the primes past 3 are at eight places, 1, 5, 7, 11, 13, 17, 19 and
 T4. Round 60, a prime past 5 is back at 1 in four multiplyings, all 78,495 of them to 1,000,000 (stepped) (is)
 T5. Round 60, a prime past 5 is back in two with one more or one less than a number of fives, and in four, a round of four places, with two or three more: 39,210 and 39,285 of them (stepped) (is)
 T6. 7 round 24 is 7 and 1, a round of two; 7 round 60 is 7, 49, 43 and 1, a round of four (is)
+T7. By the twelve lines, a birth from a 0 and a birth from a vault, both wires lit, are the same me-parity, what surfaces; and a 0 stays a 0 with a vault staying a vault, none surfacing: none to three others (is)
 M1. Round 60 in two multiplyings alone, the primes past 5 are not all back at 1, and T4's four is needed (is)
 
 All is.

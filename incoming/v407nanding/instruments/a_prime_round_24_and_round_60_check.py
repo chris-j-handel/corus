@@ -50,6 +50,19 @@ say("T5. Round 60, a prime past 5 is back in two with one more or one less than 
     all(p % 5 in (1, 4) for p in two) and all(p % 5 in (2, 3) and len(round_of(p, 60)) == 4 for p in four))
 say("T6. 7 round 24 is 7 and 1, a round of two; 7 round 60 is 7, 49, 43 and 1, a round of four",
     round_of(7, 24) == [7, 1] and round_of(7, 60) == [7, 49, 43, 1])
+import itertools
+import re
+from pathlib import Path
+code = (Path(sys.argv[1]) / "incoming/v407nanding/instruments/the_now_and_same_existing_me_parity_check.py").read_text(encoding="utf-8")
+ns = {}
+exec(re.search(r"CODE = '''(.*?)'''", code, re.S).group(1), ns)
+cell = ns["now_and_same_existing_me_parity"]
+PLUS, MINUS, NONE, VAULT = (True, False), (False, True), (False, False), (True, True)
+observings = [list(o) for k in range(4) for o in itertools.product((PLUS, MINUS, NONE), repeat=k)]
+say("T7. By the twelve lines, a birth from a 0 and a birth from a vault, both wires lit, are the same me-parity, what surfaces; "
+    "and a 0 stays a 0 with a vault staying a vault, none surfacing: none to three others",
+    all(cell(NONE, o)[1] == cell(VAULT, o)[1] for o in observings if cell(NONE, o)[1] in (PLUS, MINUS))
+    and all((cell(NONE, o)[1] == NONE) == (cell(VAULT, o)[1] == VAULT) for o in observings))
 say("M1. Round 60 in two multiplyings alone, the primes past 5 are not all back at 1, and T4's four is needed",
     not all(p * p % 60 == 1 for p in past5))
 print("\nAll is." if all(results) else "\nNot all is.")

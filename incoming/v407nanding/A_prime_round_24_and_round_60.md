@@ -25,6 +25,19 @@ A partner's saying of 24 November, as said: “natural torusing is three along a
 13. The large direction, 24 to 60, is a prime's round of four. (a naming)
 14. Natural torusing is three along and four around. (not shown)
 
+## A partner's word, and two levels
+
+A partner's word of 24 November on *Round 24 a prime comes back to 1 in two, and round 60 in four.* is do no harm improving, its *is*. A partner's saying with it, as said: “the three is the betweens of 1 and 4. there are four bi foldings in 1-17 and one bi-folding of these four and this is the same four and 1 above and this is valuable learning about two levels where 2 is inside the bi-coupling (bi-parity) and 3 is outside the bi-coupling (all-parity) and 1 and 4 and now-and-same-existing as a now vault for birthing a new me-parity as an other-than-all-parity with its own prior inheritings and unique next-existing”.
+
+- The three are the betweens of 1 and 4. (a naming)
+- 1 to 17 has four bi-foldings, and the four fold into one bi-folding, this session's page of four bi-foldings, its H1 to H3.
+- 2 is inside the bi-coupling, bi-parity. (a naming)
+- 3 is outside the bi-coupling, all-parity. (a naming)
+- 1 and 4 are now-and-same-existing, a now vault for birthing a new me-parity. (a naming)
+- A birth from a 0 and a birth from a vault are the same me-parity, what surfaces. T7
+- With none surfacing, a 0 stays a 0 and a vault stays a vault. T7
+- v406geodesic2's 35th drawing has 0 and 3 as all-parity, a birth of the two by the fifteen lines the same.
+
 ## Executed
 
-`python3 -I incoming/v407nanding/instruments/a_prime_round_24_and_round_60_check.py .` is seven lines, all *is*. Its M1 is broken on purpose: round 60 in two multiplyings alone, the primes past 5 are not all back at 1. What it gave is beside it, in `a_prime_round_24_and_round_60_check_returned.txt`.
+`python3 -I incoming/v407nanding/instruments/a_prime_round_24_and_round_60_check.py .` is eight lines, all *is*. Its M1 is broken on purpose: round 60 in two multiplyings alone, the primes past 5 are not all back at 1. What it gave is beside it, in `a_prime_round_24_and_round_60_check_returned.txt`.
