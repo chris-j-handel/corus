@@ -45,3 +45,25 @@ The torus of two primes is two paths of mes, a number with a me of both. It is n
 ## Executed
 
 `python3 -I incoming/v408illustrating/instruments/a_number_round_a_prime_in_natural_naming.py .` is seven lines, all *is*.
+
+## A partner's saying after the 47th drawing, of zero's two moments
+
+**In this session's words.** The one opens at zero's second moment. The even moment alone is of the bi-coupling. Zero's odd moment is the all-parity vault, in the me. It is of the 47th drawing, whose opening row is one moment of zero alone.
+
+1. A number is two moments, an odd moment and an even moment: the number n is the moments 2n less 1 and 2n. (executed, n of 0 to 10)
+2. Zero's even moment is the opening's. (the 47th drawing's opening row)
+3. Zero's odd moment is the moment before it, and the opening's priors are its nows. (executed: the lean line stepped a moment back, one way alone)
+4. Zero is with one me at both its moments, and the one opens a moment on. (executed)
+5. The nows of the even moments are by the opening's nows alone. (executed, at all openings of 2 to 6 mes)
+6. The nows of the odd moments are by the opening's priors alone. (executed, at all openings of 2 to 6 mes)
+7. The two are two co-chains, a me's now and its prior by turns. (executed)
+8. At an even moment the odd co-chain is the mes' priors: it is in the mes. (executed)
+9. The all-parity vault is a naming. (no line executes it; v407nanding's sentence of a vault is beside it)
+
+**What it resolves.** A path is two co-chains, even and odd. At the opening the even one is the mes' nows, and the odd one is in the mes, their priors. The 47th drawing's opening row is zero's even moment, and zero is two moments as all numbers are.
+
+**Its is-not, executed.** The even co-chain is the nows at an even moment alone. A moment on, the nows are the odd co-chain, and the even one is in the mes.
+
+**Found against the 47th drawing.** Its row of zero is one moment. Zero's odd moment, the moment before the opening, is on no row of it. The drawing is as it was.
+
+`python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_zero_s_two_moments_rigorized.py .` is seven lines, all *is*.

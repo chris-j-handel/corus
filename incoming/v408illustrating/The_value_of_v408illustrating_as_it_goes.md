@@ -76,6 +76,10 @@ Made: the whole table as one face, the 42nd; the six and the ten round 30, the 4
 
 A partner's word of 25 November: a direction is a drawing's word and none of nature's, and a place is a me's, with living numbers alone. The 43rd, the 45th and the 46th say a number's place, and the 45th two directions: the drawings are as they were. It is said again in `A_number_round_a_prime_in_natural_naming.md`, its instrument seven lines, all *is*: a prime is a path of p mes closing, a number is two moments of it, and a number is with one me. From the next drawing on it is said that way.
 
+## A partner's saying of zero's two moments
+
+A partner's word of 25 November, after the 47th drawing, in this session's words: the one opens at zero's second moment, the even moment alone is of the bi-coupling, and zero's odd moment is the all-parity vault, in the me. Rigorized in the page of a number round a prime, its instrument seven lines, all *is*: a path is two co-chains, the nows of the even moments by the opening's nows alone and the nows of the odd moments by the opening's priors alone; at the opening the odd one is in the mes, their priors. The all-parity vault is a naming. Found against the 47th: zero's odd moment is on no row of it; it is as it was, and a drawing ahead lays it.
+
 ## Its placings, no execution says them
 
 - The 40th: the hand of the turn on the page, with the closings at the top; a step's distance from the 1 by its number among the steps, and by no size of its prime.
