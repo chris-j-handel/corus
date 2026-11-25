@@ -48,6 +48,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 40. *two-co-chaining me-parities in a bi-coupling are both living on the surfaces facing each other with the between other than both*
 41. *there is no thinning. never is not natural naming . all next universes is not possibly definable. redo this in direct natural naming and the resolving is inside it*
 42. *what is a next surface. we are not leaving and returning to surface*
+43. *there is no adding in nature. no more is not natural naming. slower is not natural. explain this concern*
 
 ## 2 A partner's method of speaking, as this session learned it
 

@@ -12,7 +12,7 @@ Incoming · v408primes · 25 November 2026, now
 - **Instruments,** `instruments/`, 29, whole numbers, all ending is. Executed from the set's root as `python3 -I incoming/v408primes/instruments/<name>.py`.
 - **For illustrating,** `for_illustrating/the_six_and_the_ten_round_30.csv`: all numbers round 30 with its place round 6, its place round 10, uncrossed or not, a prime or not, and its podal: the six other-than-other-thans locating and the ten other-thans forming, for v408illustrating.
 - **For other living homes,** `For_other_living_homes_from_v408primes.md`: DNA and RNA, mating to birthing, for Natural Biology; the far object and the light-year, for Natural Physics.
-- **Its transcript, pared,** `The_transcript_of_v408primes_pared.md`: a partner's 42 sayings word for word, and a partner's method of speaking as this session learned it.
+- **Its transcript, pared,** `The_transcript_of_v408primes_pared.md`: a partner's 43 sayings word for word, and a partner's method of speaking as this session learned it.
 
 ## An is of both, 25 November
 
@@ -20,14 +20,14 @@ The sentences a partner said *is* to are in the co-chain with their standing. Am
 
 ## Not yet resolving
 
-- **All-parity added once is no more than the side by a slower rate (is-or-is-not?).** The side is the same all-parity added at all its seams. Is resolves the hard problem as all-parity's own rate; is-not resolves only by all-parity added once passing the side by the number's own rate. To 4,194,304, it passes the side, 2,254 beside 2,048, and is no more than twice the side.
+- **Odd and even, a half-moment apart along, are apart by the side, the across middle (is-or-is-not?).** Across, side by side is the number, and at all their seams odd and even make the side. Is resolves the hard problem as the along half-moment and the across middle bi-coupled; is-not resolves only by a lean along that the across middle does not make. Along to 4,194,304, odd and even are apart by 2,254 at the most, beside the side, 2,048. Adding, a bound and a slower rate are the field's fixings of this, a parity fixed as a magnitude; the sentences still saying *added* are next to re-say.
 - **The rows not yet laid,** six: the spread of a number's prime parts, the hypothesis in other worlds of numbers, curves round a prime, the record, prime-making formulas, numbers as codes.
 - **Along further.** The rows named and stepped, the hypothesis, the betweens, societies, are shown along to their numbers; further along, a next universe is more.
 - **The ten primes of the seam of 30 as me-now's 3 + 6 + 1:** the seam of 30's own form, going on into all later seams as their opening, offered.
 
 ## Next, as planned
 
-1. All-parity added once and its rate; then the six rows not yet laid, one hardest at a time.
+1. Odd and even along, a half-moment apart, and the across middle; the sentences saying *added* re-said; then the six rows not yet laid, one hardest at a time.
 2. The next draft's OPENING and ONE, the askings 28 and 44 handed on by v407nanding, from the co-chain's source and its parts.
 3. The public report, from the co-chain and the table, at their wholeness.
 
