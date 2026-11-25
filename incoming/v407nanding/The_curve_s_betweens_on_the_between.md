@@ -6,11 +6,17 @@ Incoming · v407nanding · 24 November 2026 · for the public statement's hypoth
 
 ## A partner's word
 
-A partner's word of 24 November, as said: “a 0 is not a thing”.
+A partner's words of 24 November, as said: “a 0 is not a thing”; “0 is me-all-parity as this is the parity universe me was born into”.
+
+- A 0 is me-all-parity, the parity universe a me is born into.
+- The window's line 31 is “All-parity is the named universal set of all now-existing me-parities.”
+- With no prior, in its me-all-parity, a me is born with a surfacing, this session's check of the now and same-existing me-parity, its B3.
+- A me lays a 0, its me-all-parity, at its same-existing alone, this session's check of other-thans and alls, its C1.
+- The log of the aims, in the next version, has “Nothing is other-than the universe”.
 
 - The window's line 2 is “A thing is an other-than the set of no things.”
-- A 0 has no parity, and no other-than.
-- A 0 of the curve is a between of its + and its −.
+- A 0 has no parity of a me's own, and nothing is other-than it.
+- A 0 of the curve is a between of its + and its −, its all-parity.
 - This session's page before had a 0 as a thing, and it is dissolved.
 - The statement's “a zero has its other across the between, and all zeros are their own other” has a 0 as a thing too.
 
