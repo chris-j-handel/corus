@@ -8,6 +8,14 @@ Incoming · v407nanding · 24 November 2026 · a partner's saying of an atom, c 
 
 A partner's saying of 24 November, as said: “atom is both the smallest stable form now-and-same-existing thing. the atom to atom bump connexting co-chaining geodesic rate is c all-parity rate of the universe. the atom will have a prime numbering relation to c in right sprial stable form projecting of possibly even parity”.
 
+## A partner's word
+
+A partner's word of 24 November on this sentence is *is*:
+
+**A prime one more than a number of fours has a round of four points in the right spiral's stable form, its projections an even and an odd.**
+
+Its executing is P1, P2 and P5, stepped to 20,000, a field's, Fermat's. It is offered to v406me and the draft's writer for Exhibit THIRTY-TWO.
+
 ## In simple is-or-is-nots, one concept a sentence
 
 1. An atom is the smallest stable form. (not shown)
