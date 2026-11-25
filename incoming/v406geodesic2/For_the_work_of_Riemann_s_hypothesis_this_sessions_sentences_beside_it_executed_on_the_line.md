@@ -63,6 +63,19 @@ v406other2's asking of this session: the statement's part of two faces, a drawin
 
 **Learned from the sessions, and named by their files.** The part and its numbers for a drawing are v406other2's, of its statement for the public and its lines at the exchange. The paring of the seams, and the quarter turns' is-not at a turn of 6, are v406me's, of its record of the statement.
 
+## The bothboth: the out-fold and the in-fold, gathered at a co-chain's depth
+
+A partner's word of 24 November, re-said: a destiny close and a destiny far are one destiny at two depths, the depth the length of the co-chain; a longer co-chain gives wider co-observing and co-possibling and faster progressing universes. The out-fold is the staircase the primes build; the in-fold gathers it back from the zeros, a zero a link, by von Mangoldt's explicit formula. No curve is fitted. Executed: `python3 -I incoming/v406geodesic2/instruments/check_longer_co-chaining_wider_co-observing_and_faster_progressing_executed.py incoming/v406geodesic2/instruments/check_riemann_s_hypothesis_on_the_line_next_is_other-than_now.py`, six lines, all *is*, in a moment. Its drawing is the 39th, `illustrations/draft_39_longer_co-chaining_wider_co-observing_and_faster_progressing.png`.
+
+31. **The out-fold is the staircase the primes build.** A rise of ln p at a prime power, by von Mangoldt. (with all numbers; stepped, to 90)
+32. **The in-fold gathers the staircase back from the zeros, a zero a link of the co-chain.** The zeros are the far destinies over the horizon, gathered geodesically inward. (stepped, 50 links to a height of 145)
+33. **A longer co-chain gives a smaller error: wider co-observing.** On the window 12.5 to 89.5 the gathering strays at the most 3.08 with one link, 2.62 with ten and 1.485 with fifty, smaller as the chain lengthens. (a measuring)
+34. **Faster progressing: the finest scale the chain resolves narrows.** About 90 it is 40.0 with one link and 3.95 with fifty, the turn's own, 2 pi the number over the highest link's height. (a measuring)
+35. **One destiny at two depths.** A short co-chain tracks the coarse trend, the number less ln 2 pi, the close destiny; a long co-chain tracks the sharp steps, the far. One staircase, gathered at two depths. (stepped)
+36. **Its is-not: a finite co-chain never closes the fuzzy spot.** With fifty links the gathering still strays 1.485 and overshoots at a step; only all the zeros, with all numbers, close it to the staircase. (not shown here)
+
+**What this says of the whole.** A transmission out to a focal length is the out-fold; the gathering in from a destiny over the horizon is the in-fold; discovery is the fuzzy spot the two come to, bothboth. The square root is no part of the living process: a prime crosses from its own square on, the 38th drawing, and the far destiny is gathered along a co-chain of cones, this session's 26th and 27th drawings, not by a root. The equilibria side, a curve fitted as an existing thing, is set aside; the curve is a non-existing between, the in-fold's path.
+
 ## What it does not give, said plainly
 
 - **No proving.** The numbers are to a height of 285. A field has the two numberings the same to far heights. With all heights, no execution here says all.
