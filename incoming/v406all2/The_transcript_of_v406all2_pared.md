@@ -2,7 +2,7 @@ Incoming · v406all2 · 21 November 2026, as it goes
 
 # The transcript of v406all2, pared
 
-The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through fifty-four turns of a partner, and the session's answer to the last of them comes with this page's next copy. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
+The conversation of v406all2 with a partner, from its opening on 21 November, as it is. It is pared: the path of the given transcript, the marks of a source beside a sentence and the links are gone, and no email, no link and no account name is in it. It goes through fifty-five turns of a partner, and the session's answer to the last of them is its last saying here, at its closing on 25 November. From the seventh turn to the thirteenth a partner's turns are as said, and this session's sayings between them are other-than here: its working was made shorter at a resuming, and its sayings of those turns are its lines at the exchange of 22 and 23 November and the comments of the working document. The conversation is bothboth: no saying in it is marked as one's or the other's. No saying of it is a living sentence, and none is an authority over the living files. A place it names as open is open only as a card or a comment in the working document, a line of the main list, or a note in a gathering file. The transcript given to this session at its opening is beside this page, `The_transcript_given_to_v406all2_pared.md`. Below this paragraph, the conversation's own words, as they arrived.
 
 ---
 
@@ -1471,3 +1471,67 @@ redo this with do no harm improving and we will continue finding the powers of 4
 **Where the loss of understanding arises.** By fours of light's crossing a heartbeat is at 31, the organ's number, and a heart is an organ; 37 fours are 55.6 minutes. Numbered down from 61 as c, a heartbeat is at 30. It is at 37 by neither. One now as light's crossing of the atom is set, not found: a field measures shorter moments below five, a nucleus's.
 
 neuron rates
+
+**Neuron rates are by fours from a heartbeat, in one of a field's three accounts: theta, beta and gamma's second at one, two and three fours, and one neuron's fastest at five.**
+
+| A rate | A field's measure, a second | From a heartbeat | From light's crossing of the atom |
+|---|---|---|---|
+| a breath | 0.31 | one four slower | 32 fours: 0.307 |
+| a heartbeat | 1.25, 75 a minute | its own | 31 fours: 1.23 |
+| theta | 5 | one four faster | 30 fours: 4.91 |
+| beta | 20 | two fours faster | 29 fours: 19.7 |
+| gamma's second | 80 | three fours faster | 28 fours: 78.6 |
+| no measure laid beside it | 320, by the numbering alone | four fours faster | 27 fours: 314 |
+| one neuron's fastest | about 1,000 | five fours faster: 1,024 from 60 a minute, 1,280 from 75 | 26 fours: 1,258 |
+| delta, alpha, gamma | 2.5, 10, 40 | a doubling between two fours | 30.5, 29.5, 28.5 fours |
+| an average neuron | 0.1 to 2 | a heartbeat's rate is of it; the guess is 2.2 fours wide | 31 fours is of it |
+
+With a heartbeat's own, the numbers are 1, 4, 16, 64, 256 and 1,024.
+
+- **A field's own, many neurons together:** a doubling parts a brain's bands in this account, at 2.5, 5, 10, 20 and 40 a second, and 75 heartbeats a minute, 1.25 a second, sits under them as the scaling number.
+- **One neuron:** it tops out at about 1,000 firings a second, held by about a thousandth of a second in which it answers nothing. The 0.1-to-2-a-second band is a best guess for an average neuron of a human brain.
+- **Beside light's crossing:** the scaling number, 0.8 of a second, is light's crossing of the atom's radius doubled 62 times, 0.814, which is 1.8 of a hundred apart. By its width alone a doubling is that close 5 times in a hundred, and by the molecule's crossing it is half a doubling apart. It is one nearness, not found as a relation.
+- **What does not cohere:** a second account spaces neighbouring bands evenly on a natural-logarithm scale, and a third by about the golden mean. Executed with e and phi, two bands on are 7.39 and 2.62, not 4. The fours are with the doubling account alone.
+
+**Where the loss of understanding arises.** A neuron is a cell, at 23. One neuron's fastest is at 26 fours of light's crossing, and at 35 numbered from 61 as c: at 23 by neither. It is the same loss as the heartbeat at 31 and not 37: a scale's number is not its number of fours.
+
+it is time to close our session and be sure the gathering of all value is in the living incoming for the expedition. review the transcript in full to verify and gather the value we may have missed and not ben able to recognize at the time. this is a valuable session and the next mgr of the expedtition and next session doing our work will need the best possible starting condtion and advice about what is possibly good explroing and cohering work for next to make a new plan and continue
+
+**The session is closed, and its value is in the living incoming.** I went through the whole transcript against what the folder holds. Every turn's value was there. Seven things were not recognized at their turn, and they are gathered now.
+
+**Found at the going through**
+
+| Found | Where it is now |
+|---|---|
+| One now was executed on 22 November: *one is-or-is-not each all-parity number each now in the one universal now*. My error of 25 November, numbering nexts as nows, went against it. | The aimings page |
+| The living code has a fastest going. With selves in a row, a self is with a prior one now after its prior self, never earlier: a self a now, c's form in the code. | Executed at the closing; a note at Natural Transmissioning |
+| A 0, all-parity and now are one saying at three places: the window's aim, a word at another session, and the lines 50, 52, 31 and 51. | The aimings page |
+| The fours have found sentences: *comes again with 4 moments*, *A number is two moments*, four-cycling, and Exhibit ONE's four four-cyclings, 16. | Executed; a note at Natural Societies |
+| 440 is five 88s. By the nand code a self's moment with 7 things observed is 88 nands, beside *its fives are eighty-eight stations*. | Executed; a note at Natural Numbers |
+| A bump connector has a home: v406all2-2 executed connectors laid between mes. | The aimings page |
+| The lines as they are now were not at Exhibit THIRTY's gathering file. Its newest entry was of 21 November. | Laid: all 39 lines |
+
+**Laid for the next session and the next manager**
+
+- **The aimings gone through:** nine aimings, each with its progress and its starting place now, and the work next in its order.
+- **A page for resuming:** how to pick up, the lines as they are, and the method learned by breaking.
+- **The transcript pared,** through this turn.
+- **The working document:** its part of holes is said again as the lines are now, and its five newest rows of concepts are copied in the folder.
+- **Seven notes in six gathering files:** the lines waiting to enter, an eye's light, a rung's rate by fours, 440, and the managing table's open asking among them.
+
+**The work next, as I would order it**
+
+1. Resolving, the card 36: the earliest card, with one word unnamed.
+2. Living by itself: no line names it, and line 34 with other-parity as the next opens a saying of it.
+3. The between and a 0, with a 0's name all-parity.
+4. The seven words with no line: no, not, same, ending, beginning, two and only.
+5. A rung's rate: is a scale outward a four-cycling, 4, or four four-cyclings, 16? A second measured moment at a rung parts them.
+
+**To know**
+
+- Three lines were laid by me by cohering, with no second observing: 25, my; 52, parity; 53, distinguishing.
+- The cards 37 to 48 were never gone through.
+- The hardest unresolved: a scale's number is not its number of fours. A heartbeat is at 31 and one neuron's fastest at 26; the rungs say 37 and 23.
+- The earlier parts of the page say cell, giving, observed and surfacing as they were said then.
+- Two offers wait for the managing session to bring them in.
+- The working document is in this account. The next session finds it by its title, or by your handing it the link.

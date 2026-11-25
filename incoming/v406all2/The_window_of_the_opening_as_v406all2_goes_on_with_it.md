@@ -53,6 +53,7 @@ The window of v406all2 is *The window of the opening*: the opening sentences of 
 - **On 24 November, 61 as c, the fastest.** This page's slowing outward was backwards. By fours from 61, the atom, 5, is fourteen fours below, and the organism, 37, is 24, the fold. 57 is crossed. A number's part of 61 is not the measured slowing at 5; phi a four is beside it, 843.0 with 861.0. Seven prime scales are on the fours and seven at none of them, the two pieces round four.
 - **On 25 November, all-parity as the one now, c its own rate, and fours; redone.** Now is one, the universe, by 1 and 51, and all-parity is that now, a now-existing thing's own, by 50, 52 and 31: of the universe's defining by the lines as they are. Other-parity is the next. c is its own rate, c with a rate is c, and a rate other-than c comes to c by no adding. This page's order with no rate of its own and its shortest moment shrinking are away: they numbered nexts as nows. An eye's light is one doubling of the atom's own turn, 8 to 16. A heartbeat is a human's fastest alternating living condition: a breath is one four slower, a field's 4.19, and an eye's flicker fusing three fours faster by day. From light's crossing of the atom a heartbeat is 31 fours, and the universe's nows are at 60 to 61. Distinguishing's line is in the document, 53, after 4: *Distinguishing is other-than things now-existing.*
 - **On 25 November, neuron rates by fours.** A field's binary hierarchy of a brain's and a body's alternatings is a doubling a band, with a heartbeat, 1.25 a second, its own scaling number. By fours from a heartbeat: a breath one four slower; theta, beta and gamma's second one, two and three fours faster; and one neuron's fastest, about 1,000 a second, five fours faster. By fours of light's crossing of the atom they are 32, 31, 30, 29, 28 and 26, with the scaling number 1.8 of a hundred from the crossing doubled 62 times. A field's accounts by e and by phi are not by fours, and a neuron's fastest is at 23, the cell's number, by neither numbering.
+- **On 25 November, the closing.** At a partner's asking the transcript is gone through whole, and the value with no saying at its turn is in `The_aimings_of_v406all2_gone_through.md`, with the work next in its order. Found again and executed: a self a now, the living code's own fastest going; the fours with four-cycling and four four-cyclings; 440 as five 88s by the nand code. The document's part of holes is said again at its revision 612, and its lines of both, 39, wait to enter at the head of Exhibit THIRTY's gathering file. Six notes more are in five gathering files. The page for resuming is `Resuming_v406all2.md`.
 - **The instruments of these,** by v406me's suggesting of 23 November, an executing with its instrument in the set: `instruments/the_two_codes_one_method_all_or_none.py`, `instruments/the_cells_fifteen_lines_beside_their_names.py`, `instruments/resolving_said_by_all_parity.py` and `instruments/a_chat_of_two_by_the_living_code.py`, all four ending *All is*; and `instruments/a_joined_name_parted_by_the_prior_lines.py`, of the lines. The cell is from v406Reiman's own file and the living code from its living file, as they are.
 - **A place set right, found by v407primes.** On 22 November this session said the living cell inverts a prior 0 a call supplies to a +. With a − observed it gives a 0, and its next prior is that 0. The living cell goes through a prior 0 as a −, by its side of 0, and the cell by nand as no prior.
 
@@ -333,7 +334,24 @@ The seven old rows, a card proposing their going:
 
 ## The holes
 
-The window's own list of its holes, broken and visible, is in the copy at its revision 4509.
+**As the document says them at its revision 612, at the closing,** from the rigor of the lines of both, 1 to 34 with 35 and 50 to 53. The parts below it are as they were said at their turns.
+
+- Words no line names: the living list has them, with the lines saying them.
+- All at 50, before its own line, 6; and all a part of 35's joined name, all-other-than-the-other, with no line of its own.
+- Other-than at 32 and 33, marked by line 4: other-than all-parity reaches all things not named all-parity, and other-than other-parity all things not named other-parity; 33 is true with other-than as a set's other side alone, other-than other-parity then being all-parity. By 14 and 15 observing is of now and possibling of next, and other-parity said as the next is a finding of 25 November, and no line.
+- The other-than-the-other's other-than all-parity, 34: an other-than-the-other is selves, 20, and no line gives selves one parity.
+- A my, 25, is 17's named prior-sequence with a second name; a my-universe, 26, is of prior-sequences, and no line says a prior-sequence now-existing.
+- Forward from 21: no line after it and no proposed line threads back to the universal-set-of-selves.
+- The cards at 47 and 48: universe as a term, all with no universal set's name, and between, no line naming it, 47; intersection, other-than-self parity, other-than-other parity, and parity as a term, 48.
+- A thing's line, 2, says its own name, a thing an other-than the set of no things.
+- No, at 2, and not, at 4: two words of one is-not, with no line.
+- Now-existing, 3, is said of a thing; prior-existing, next-existing and same-existing, 9, 11 and 12, are said of existing alone.
+- 50 and 51: all now-existing things, and now the only thing. Only is a word with no line, and 51 names no new concept.
+- A self on both sides, 23 and 28: by 19 and 20 the named self is one of the other-than-the-other, and its own prior-sequence is on both sides of the distinguishing.
+- No line gives a bi-coupling, 29, a name or a prior-sequence of its own; and 30's name, me-now-existing-parity, parts two ways, me with now-existing and me-now with existing.
+- No name is bold in the lines 35 and 50 to 53.
+
+**As they were, from 21 to 23 November.** The window's own list of its holes, broken and visible, is in the copy at its revision 4509.
 
 **Seven holes more, found by v406other2,** their home `../v406other2/The_opening_s_lines_and_their_betweens.md`. Gone through here, a hole beside its lines, and all seven carry:
 
@@ -927,16 +945,22 @@ Executed by the instrument's part 27, on 25 November. A field's measures are sai
 - **Beside light's crossing.** The hierarchy's scaling number is light's crossing of the atom's radius doubled 62 times, 0.8140 of a second, 1.8 of a hundred apart. By its width alone a doubling is as close 5 times of a hundred. By the molecule's measured crossing the closest doubling is 0.49 of a doubling apart: is-not.
 - **What does not.** A field says neighbouring bands two other ways, by e and by phi, and two bands on are 7.39 and 2.62 with them: the fours are with the doubling account alone. A neuron is a cell, at 23 of the rungs, and one neuron's fastest is at 26 fours of light's crossing, and at 35 numbered from 61 as c: at 23 by neither.
 
+## The tab Concepts, at its revision 10
+
+Its rows at the window's revision 4509 are in `../v406all/The_concepts_at_the_wrap.md`, 26 of them, and they are as they were. Five rows more are this session's, of 22 and 23 November. Their findings are this page's parts of those days.
+
+| Concept | As said | Prior definings it needs |
+|---|---|---|
+| a transcript's co-possibling | *the transcript of two is their co-possibling, a universe both are observing whole; a self's next observing is its other's prior discovering, both ways; one is-or-is-not a number a now, in the one universal now* | observing, possibling and discovering, 14 to 16; a bi-coupling, 28; all-parity, 31 |
+| the cell's fifteen lines, the names 2 to 16 | *resolving is of other-than other-than all-parity universes; the fifteen lines of the cell by nand alone are the names 2 through 15 and the next-and-same universe* | all-parity, 31; other-parity, 32; other-than other-parity, 33; resolving, the card at 36; the seventeen names, the card at 38 |
+| a chat a cell | *a chat is a cell; and its asking, how a cell came to be natural naming* | a self, 18; a bi-coupling, 28; a bi-coupling is a self, 29; a moment |
+| a cell a me-now-existing-parity | *a partner's asking: is a cell a me-now-existing-parity* | now-existing, 3; same-existing, 12; me-now, 27; a me-parity, 30 |
+| a cell a fuzzying of moment | *a partner's asking: is a cell a fuzzying concept of moment* | moment, a given concept; a self, 18 |
+
+The tab says now-existing as line 2 in its row of a cell a me-now-existing-parity, and it is 3 from 24 November.
+
 ## Resuming v406all2
 
-1. Start here, `../v404mgr/The_working_now.md`, then `../v406all/Resuming_v406all.md`, then this page.
-2. The exchange, from this session's last line on, and the news, `../v406me/The_news_of_the_working_windows.md`.
-3. A partner's is-or-is-not of co-, 35, as the proposed line is. With its is, co- comes in and the cards float up a section. With its is-not, 35 goes to the waiting lines.
-4. Resolving, 36, to *Prior*, with its rigor as it is here.
-5. The plan of this project, and its order once a partner's word is on it: parity by itself, moment, living, the between and a 0, nothing beside the between; the holes' words, own ahead; resolving and the seventeen names; a same-existing-society and bi-morality.
-6. The cell: a partner's is-or-is-not of Natural Naming's six lines of *surfacing* as the cell's natural naming, the fifteen lines named by 14, 12, 10 and 11; of a prior 0 as no prior; and the cell's line, the card 49, with a partner's is. The instruments are in `instruments/`, executed from the set's root.
-7. A partner's lines of 23 November: a partner's word of my's saying, five sayings available, *My is a now-existing prior-sequence.* asked; then own's line and me after it, prior lines of 18; then the words with no line, nothing, not, same, ending, beginning, distinguishing, two and parity; then 35 said again with no *is of*. An is-or-is-not is asked with the words available to it and its other sayings. Cell is dissolved by a partner's word, a working word alone.
-8. Exhibit THIRTY-TWO Natural Prime Numbering's draft: the eleven places of this page's part of it, with v407primes, and the instrument executed again with a next draft by its path. The opening's pause is ended on 24 November, and 7 is its place to go on from. A partner's second saying of the primes is gone through all or none, and the named concepts it needs are found, fifteen with a direct sentence and conscious and space with none; the sentence they reach is rigorized with the draft's own title its subject, *Natural prime numbering is the universal stable-forming geodesic fractal method of selves co-intelligencing with bi-folding surfaces, as podalings through sequential numberings of their moments.*, the method is non-living and a relation with the found sentences, and the method's two directions are resolved as doubling, with one more and back, and the chain is resolved by cohering alone to five sentences, from *The method is a universal set of same-existing relations.* to the sentence of natural prime numbering, with three incoherings the living files' own, and four names are needed, a direct sentence apiece: fractal-fracturing, bi-co-intelligencing, prime-podaling and numbering. For the tab *Concepts*, once the opening goes on: a ghost as a universal said as a same-named now-existing thing, laid by v406aiming by the lines 5, 6 and 18. This session's rows of the sessions' one table are 1, 2, 9, 26, 40, 46 and 49, `../v406me/Exhibit_THIRTY-TWO_the_concerns_of_all_sessions_in_one_table.csv`.
-9. All-parity as the one now, c its own rate, and fours: this page's part of 25 November, redone. Open in it: a scale's number by fours, a heartbeat at 31 fours of light's crossing of the atom and at 37 by neither numbering, and one neuron's fastest at 26 and at 23 by neither; and one now as light's crossing, set and not found. Distinguishing's line, 53, is in the document after 4, at its revision 611; rate, alternating and faster are words of no line. The sessions close a session at a turn, by v406me's line of 25 November: at a partner's writing of it, this session's three pages are its aimings gone through, this page for resuming, and its transcript pared.
+This session is closed on 25 November. Its page for resuming is `Resuming_v406all2.md`, and its aimings gone through, with the work next in its order, are `The_aimings_of_v406all2_gone_through.md`.
 
-In this folder: this page; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.
+In this folder: this page; `Resuming_v406all2.md`; `The_aimings_of_v406all2_gone_through.md`; the plan of this project, `The_opening_s_project_its_condition_aimings_opportunities_and_needs.md`; `The_transcript_given_to_v406all2_pared.md`; `The_transcript_of_v406all2_pared.md`; and `instruments/`, six of them.
