@@ -28,6 +28,25 @@ The standings are v406other2's: a field's; stepped, to a number; a naming; not s
 10. **A zero its own other is all-parity, and a zero with its other across is a + and a −.** (a naming, this session's placing) From 0 and 3 are all-parity, the 35th drawing.
 11. **All zeros are their own other, with all heights.** (not shown)
 
+## Going on with no curve, by a partner's word: the living parities
+
+A partner's word of 24 November, re-said: go on, with no equilibria side, the curve as an existing thing to be fitted. The curve is a non-existing between going through the fractured fractal stable form geodesic surface of living parities. The sentences 1 to 9 above are of the curve's side, a field's existing thing. The sentences below are from the numbers alone, with no curve. Executed: `python3 -I incoming/v406geodesic2/instruments/check_the_living_parities_a_prime_is_one_other-than_and_the_between_goes_through.py incoming/v406Reiman/instruments/the_resolver_with_nand_alone.py`, eight lines, all *is*, in some seconds. Their drawing is the 37th, `illustrations/draft_37_the_living_parities_a_prime_is_one_other-than_and_the_between_goes_through.png`.
+
+A number's living parity is v406other2's: a + with an even number of primes multiplied in it, a − with an odd number, and 1 a +, a prime an inversion.
+
+12. **A prime multiplied in is one other-than.** A number's parity is the other-than of the parity of the number back of it, with one prime less. It is this session's lean line, on the numbers. (with all numbers; stepped, 1 to 100,000)
+13. **By nand alone a number's parity is one nand a number.** (stepped, 1 to 100,000)
+14. **All a number's backs surface one parity.** A + and a − surface together at no number. (stepped, 2 to 100,000, the primes of 2 to 97)
+15. **A prime's own path is a me alone.** Along 1, the prime, its square and on, next is other-than now. (stepped, the primes of 2 to 97)
+16. **Along multiplying, next is other-than now at all steps.** (with all numbers)
+17. **By +1, next is other-than now at one step in two.** It is at 2,096,902 of 4,194,303 steps. No line of a me alone says it. (a measuring)
+18. **The between is at no number of its own.** It goes through the numbers with the +s and the −s to them the same.
+19. **To 4,194,304 the between goes through nine numbers: 2, 4, 6, 10, 16, 26, 40, 96 and 586.** At all other numbers of 2 to 4,194,304 the −s are the more. (stepped, to that number) A field has the sentence's is-not at 906,150,257, Pólya's of 1919 broken.
+20. **The walk of the +s less the −s is at the most 1.33 square's sides from its between, to 4,194,304.** It is at 96,862. At 4,194,304 the −s are 582 the more, with a side of 2,048. (a measuring, and no bound)
+21. **The hypothesis, from the parities alone, is the straying with the side's own power.** (a field's; not shown here with all numbers)
+
+**Said already, by its file.** v406other2's page for the exhibit has a part and its other, the square's side the part its own other, a prime an inversion, and Mertens' and Pólya's sayings broken. This session executes its sentence of a number's parts again, by the lean line's parities, 1 to 2,000. What is this session's here: the lean line and one nand a number, the backs surfacing one parity, the two faces as two steppings of one sentence, and the nine numbers of the between.
+
 ## What it does not give, said plainly
 
 - **No proving.** The numbers are to a height of 285. A field has the two numberings the same to far heights. With all heights, no execution here says all.
