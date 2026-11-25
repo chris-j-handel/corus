@@ -1,0 +1,9 @@
+P1. A right spiral step is a quarter turn: a point goes round four points and back, all points of a prime's number (is)
+P2. A prime one more than a number of fours has a point, a by a and b by b: all 1,125 of them to 20,000 (a field's, Fermat's, stepped) (is)
+P3. A prime three more than a number of fours has no point: all 1,136 of them to 20,000 (a field's, stepped) (is)
+P4. 2 has a point, (1, 1), its two projections both odd (is)
+P5. An odd prime's point has its two projections an even and an odd, at all points to the horizon: an even projection (is)
+P6. An odd prime's points are eight, two rounds of four, and its mirror (a, -b) takes the one round to the other: a bi-folding (is)
+M1. With the step (b, a) in place of (b, -a), a point is round in two steps and not four, and P1 says is-not (is)
+
+All is.
