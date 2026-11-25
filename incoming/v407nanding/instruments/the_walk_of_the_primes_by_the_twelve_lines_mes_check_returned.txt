@@ -1,0 +1,5 @@
+W1. The walk's one cell is nand of two is-or-is-nots, at one place in its lines (is)
+W2. Two mes of the twelve lines front to back are nand of two is-or-is-nots, all four cases (is)
+W3. With its one cell two mes of the twelve lines, the walk from 2 finds the primes to 61, the same as with the table's nand, its one cell called 37,393,404 times (is)
+
+All is.  (228 s)
