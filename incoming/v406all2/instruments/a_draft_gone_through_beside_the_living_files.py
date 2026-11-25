@@ -719,4 +719,24 @@ for a_name in FIFTEEN:
 with_a_line = sorted({w for a_name in FIFTEEN for w in re.findall(r"[a-z-]+", a_name) if joined.FORMS.get(w, w) in its_line})
 print(f"   words of the fifteen with a line of the opening: {', '.join(with_a_line)}; waiting, with no number: {', '.join(WAITING)}")
 
+print("\n27. Neuron rates by fours, from a heartbeat and from light's crossing of the atom")
+a_scaling = 1.25                 # a field's own: the scaling number of its binary hierarchy of a brain's and a body's alternatings, 75 heartbeats a minute
+HIERARCHY = [(-2, "a breath"), (-1, "with no name of the five"), (0, "a heartbeat, 75 a minute"), (1, "delta"), (2, "theta"), (3, "alpha"), (4, "beta"), (5, "gamma"), (6, "gamma's second")]
+print("   a field's binary hierarchy, many neurons together, a doubling a band, by its own scaling number, 1.25 a second:")
+for doublings, name in HIERARCHY:
+    by_light = 1 / (2 ** (62 - doublings) * a_crossing)
+    print(f"      {a_scaling * 2 ** doublings:g} a second, {name}: {('a heartbeat\'s own' if doublings == 0 else 'one four slower than a heartbeat' if doublings == -2 else f'{doublings // 2} of the fours faster than a heartbeat') if doublings % 2 == 0 else 'a doubling between two fours'}; "
+          f"light's crossing of the atom doubled {62 - doublings} times, {(62 - doublings) / 2:g} fours: {by_light:.3g} a second")
+apart = abs(2 ** 62 * a_crossing * a_scaling - 1)
+print(f"   the hierarchy's scaling number beside light's crossing of the atom's radius doubled 62 times, {2 ** 62 * a_crossing:.4f} of a second: {apart * 100:.1f} of a hundred apart; "
+      f"by its width alone a doubling is as close {2 * math.log2(1 + apart) * 100:.0f} times of a hundred; by the molecule's measured crossing the closest doubling is {abs(math.log2(1 / a_scaling / crossing) - round(math.log2(1 / a_scaling / crossing))):.2f} of a doubling apart: is-not")
+a_bound = 1_000                  # a field's own: one neuron's fastest, with a millisecond in which it answers nothing; 500 to 1,000
+print(f"   one neuron's fastest, a field's own, about {a_bound:,} a second, 500 to 1,000: from a heartbeat of 60 a minute, {math.log(a_bound) / math.log(4):.2f} fours, 4 by itself 5 times being {4 ** 5:,}; "
+      f"from the scaling number, {math.log(a_bound / a_scaling) / math.log(4):.2f}, and 5 fours of it are {a_scaling * 4 ** 5:,.0f}")
+print(f"   by fours of light's crossing of the atom: one neuron's fastest is at {fours(1 / a_bound):.2f}, and 4 by itself 26 times is {4 ** 26 * a_crossing * 1e3:.3f} of a thousandth of a second, {1 / (4 ** 26 * a_crossing):,.0f} a second")
+print(f"   from a heartbeat to one neuron's fastest: 5 fours, 31 to 26; the fours between are theta, beta and gamma's second, and at {a_scaling * 4 ** 4:g} a second this page lays no measure beside it")
+print(f"   an average neuron of a human brain, a field's best guess, 0.1 to 2 a second: a heartbeat's rate is of it, and the guess is {math.log(2 / 0.1) / math.log(4):.1f} fours wide")
+print(f"   a field's two other accounts of neighbouring bands: by e, {math.e:.3f}, two bands on being {math.e ** 2:.2f}, and by phi, {phi:.3f}, two bands on being {phi ** 2:.2f}: by fours with the doubling account alone")
+print(f"   a neuron is a cell, the rungs' {scales[23]} at 23: 23 fours of light's crossing are {4 ** 23 * a_crossing * 1e6:.1f} millionths of a second, {1 / (4 ** 23 * a_crossing):,.0f} a second, beside one neuron's fastest: is-not at 23; numbered from 61 as c it is at {61 - 26}: is-not at 23")
+
 print(f"\n{places} places for a next draft, a suggestion apiece.")
