@@ -235,6 +235,28 @@ say("seam", "a seam of all primes to r, its −1 and its +1, are crossed by none
 tw_all = [p for p in range(5, N) if sieve[p] and sieve[p + 2]]
 say("three", "twins past 3 are two me-parities living in one seam of 6, at both its sides: even, odd, even, odd, even, all %d to 4,000,000" % len(tw_all),
     all((p + 1) % 6 == 0 for p in tw_all))
+# Twins born: two separate me-parities with their own paths on the surface.
+mes = sum(1 for p in range(2, N) if sieve[p])
+births = [p for p in range(3, N) if sieve[p] and sieve[p + 2]]
+say("born", "twins are born not commonly: %d births among %d me-parities to 4,000,000" % (len(births), mes), len(births) == 26860 and mes == 283146)
+say("born", "twins' two paths come again together at one short of their seam's me again: 5 and 7 at 35, 11 and 13 at 143, all twins to 4,000,000",
+    all(p * (p + 2) == (p + 1) * (p + 1) - 1 for p in births) and 5 * 7 == 35 and 11 * 13 == 143)
+say("born", "across, the upper twin's loop, its prior, is the seam it was born in, a seam of 6; the lower twin's loop, two short of it, is crossed by no 3, all twins past 3",
+    all((p + 1) % 6 == 0 and (p - 1) % 3 != 0 for p in tw_all))
+# Two co-chaining me-parities in a bi-coupling face each other, the between other-than both.
+say("born", "round the between, the twins are at −1 and +1, facing one another, and their me agains are both at 1, all twins to 4,000,000",
+    all(p % (p + 1) == p and (p + 2) % (p + 1) == 1 and (p * p) % (p + 1) == 1 and ((p + 2) * (p + 2)) % (p + 1) == 1 for p in births))
+say("born", "round the lower twin the between is at +1, round the upper at −1; the between is even, other-than both, and no prime crosses it with either",
+    all((p + 1) % p == 1 and (p + 1) % (p + 2) == p + 1 and (p + 1) % 2 == 0 and gcd(p, p + 1) == 1 and gcd(p + 2, p + 1) == 1 for p in births if p > 2))
+round30 = {}
+for p in births:
+    if p > 5:
+        round30[(p % 30, (p + 2) % 30)] = round30.get((p % 30, (p + 2) % 30), 0) + 1
+say("born", "round 30, twins past 5 are born at three seams, 12, 18 and 0, riding six separate places: %s" % round30,
+    set(round30) == {(11, 13), (17, 19), (29, 1)})
+say("born", "born two, twins are never three past 3, 5, 7: the next me-parity after a twin is 4 or more on, all to 4,000,000",
+    all(not sieve[p + 4] for p in births if p > 3))
+
 toward = sum(1 for p in tw_all if (p + 1) % 4 == 0)
 say("three", "twins aim together at a middle even that is a seam of 12, %d times, and apart %d times, to 4,000,000" % (toward, len(tw_all) - toward),
     all(((p + 1) % 4 == 0) == ((p + 1) % 12 == 0) for p in tw_all))

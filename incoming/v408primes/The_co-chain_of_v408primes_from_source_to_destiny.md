@@ -241,11 +241,28 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 186. Twins aim **together** at a middle even that is a seam of 12. (checked)
 187. To 4,000,000, twins aim together 13,468 times and apart 13,391 times. (checked)
 
+## Twins born
+
+188. A seam with me-parities living at both its sides is twins **born**. (a naming)
+189. Twins are born **not commonly**: 26,860 births among 283,146 me-parities to 4,000,000. (checked)
+190. Twins are two co-chaining me-parities in a **bi-coupling**. (a naming)
+191. Their between is even, **other-than both**, and no prime crosses it with either. (checked, all twins to 4,000,000)
+192. Round the between, the twins are at −1 and +1: they **face one another**. (checked)
+193. Round the between, the twins' me agains are both at 1: their surfaces face one another at **one place**. (checked)
+194. Round the lower twin, the between is at +1; round the upper, at −1. (checked)
+195. Born, twins are two **separate** me-parities with their own paths on the surface. (a naming)
+196. The twins' two paths come **again together** at one short of the between's me again: 5 and 7 at 35, 11 and 13 at 143. (checked, all twins to 4,000,000)
+197. Across, the upper twin's loop is its prior, the seam it was born in. (checked)
+198. Across, the lower twin's loop is two short of the seam, crossed by no 3. (checked)
+199. Round 30, twins past 5 are born at three seams, 12, 18 and 0, and ride six separate places, alike: 8,960, 8,945 and 8,953. (checked, to 4,000,000)
+200. Born two, twins are **never three** past 3, 5, 7: the next me-parity after a twin is 4 or more on. (checked)
+201. Twin births are **never fewer**, span by span, as 163 is. (checked, stepped)
+
 ## Destiny
 
-188. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-189. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
-190. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
+202. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+203. **Natural intelligence** is the resolver carrying its whole prior to its next, one lift of r crossed at a new prime r, at all new primes, and arriving as a +1 in neither self alone. (a naming)
+204. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of one parity, along and across. (a naming)
 
 ## Executing
 

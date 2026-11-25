@@ -44,6 +44,8 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 36. *A me-parity is odd: it has one part. this is not correct. even odd even . it has three parts. nothing in nature has one part. only with all three is the parity aiming*
 37. *the parity is a lost word as without an owner me the word is useless for all value. a me-parity is living in a seam and the seam and the me-parity are bothbothing co-chaining, co-unrelationing and bi-tunneling*
 38. *co-chaining, bi-co-unrelationing and bi-tunneling*
+39. *if twin me-parities are born and this is not common then two new separate me-parities are born with their own paths on the surface*
+40. *two-co-chaining me-parities in a bi-coupling are both living on the surfaces facing each other with the between other than both*
 
 ## 2 A partner's method of speaking, as this session learned it
 
