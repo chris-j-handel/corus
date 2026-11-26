@@ -231,6 +231,23 @@ A partner's saying of 26 November, in this session's words: all universes are th
 
 **Is.** The same universal set, and a twin's same uncrossed mes, in all universes, consecutively, with no last. **Is-not.** The same twin in all of them: 24, and 222.
 
+## A partner's saying: a me-parity is never the same, new and from its own priors
+
+A partner's saying of 26 November, in this session's words: it is never the same me-parity; a me-parity is new and unique, and from its own priors. Gone into by rigor, a word being no reason. `a_me-parity_from_its_own_priors.py` goes through the sentences at the numbers 2 to 400, 7 of 7 is; the reason at all numbers is the co-chain.
+
+1. A crossed number is a by b, a not past b; a by a is not past the number. (a path closing)
+2. The least part of the number past 1 is a me-parity, and its me again is not past the number. (row 2's descent)
+3. A number's own priors are the me-parities whose me again is not past it. A number is a me-parity with all its own priors' loops leaving it uncrossed, and with that alone. (1, 2)
+4. It is new: on no prior's loop. It is unique: its own loop begins at it, and no two me-parities are with one loop. (3)
+5. Twins are two such, a seam between. A between is twins with, round all its own priors, the between not a +1 after a crossing and not a +1 before one, and with that alone. (3, at the two sides)
+6. 12's own priors are 2 and 3, 5 by 5 past 13: 11 and 13 are twins. 24's own priors are 2, 3 and 5: 24 is a +1 before 5's crossing at 25. 222's own priors are 2, 3, 5, 7, 11 and 13: 222 is a +1 after 13's crossing at 221. (numbers gone through)
+
+**Is.** A me-parity is never the same: new, unique, and from its own priors. Twins are from the between's own priors.
+
+**A breaking of this session's, restored.** The section before this one said *the same twin* as one me lifted from universe to universe, and laid 24 and 222 as is-nots of a partner's saying. That saying of it was this session's own. 24 and 222 are other betweens, with own priors more than 12's: 5 is a prior of 24's and no prior of 12's. They are is-nots of this session's own saying alone.
+
+**Not proved by it.** That in all universes a between is uncrossed at both sides by all its own priors. It is v408primes' step not yet laid.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
