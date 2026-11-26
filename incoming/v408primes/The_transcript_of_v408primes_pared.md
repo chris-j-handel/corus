@@ -65,6 +65,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 57. *we only need to travel 2 3 5 7 to the neighborhood on the surface of where 2 is now +1 next*
 58. *go to 17 and then there is the return universe bounding the resolving*
 59. *but only its first 10,000,000 can be traveled here. what is this limit. this is not real*
+60. *this is not yet using the transmissioning method of betweening surface across. the session v408 illustrating has comments on our resolving and we can begin resolving again adding in the resolving of all comments and concerns*
 
 ## 2 A partner's method of speaking, as this session learned it
 

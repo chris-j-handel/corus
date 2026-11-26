@@ -2,7 +2,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 # Natural Prime Numbering
 
-**The Places of the Primes on a Surface, from Source to Destiny**
+**The Mes of the Primes on a Surface, from Source to Destiny**
 
 *A sentence ends with its standing: checked, executed with whole numbers by the instruments beside this page; or a naming. No sentence is quoted as a source, and no words have authority.*
 
@@ -57,8 +57,8 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 ## The places of the primes
 
-41. Two primes are a **torus**: the +1 winds through all their places, p one way and q the other, and comes again at p by q. (checked)
-42. A number is a **location** on the torus, triangulated from its two places. (checked)
+41. Two primes are a **torus**: the +1 winds through all the mes of their two paths, a path of p mes closing and a path of q mes closing, and comes again at p by q. (checked)
+42. A number is with **one me of both paths** on the torus, triangulated from its two mes. (checked)
 43. Round a prime past 2, the me agains fall on (p − 1) / 2 of its places past 0: its **seen places**. (checked)
 44. A number **seen** from a prime's side is a me again's place round it, +1, or other-than, −1. (a naming)
 45. Seeing is **across**: a crossing seen from a prime's side is its parts' seeings multiplied. (checked)
@@ -66,8 +66,8 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 47. The **quarter-torus** of two primes, (p − 1) / 2 places one way by (q − 1) / 2 the other, is parted by its diagonal, which passes through none of its places. (checked)
 48. The part under the diagonal, odd or even, is how p **sees** q, and the part over it how q sees p. (checked)
 49. Two primes are **seen alike** from one another's sides, unless both sit one short of a seam of 4, and then other-than. (checked)
-50. A crossing of two primes is their torus, and its primes are its **two directions** living in it. (a naming; an is of both, 25 November)
-51. The **skeleton** is the places no loop of 2, 3 or 5 crosses: round 24, the small direction, eight; round 60, the large direction, sixteen; round 120, both, thirty-two. (checked)
+50. A crossing of two primes is their torus, and its primes are its **two paths of mes closing**, living in it. (a naming; an is of both, 25 November)
+51. The **skeleton** is the places no loop of 2, 3 or 5 crosses: round 24, the small path, eight; round 60, the large path, sixteen; round 120, both, thirty-two. (checked)
 52. All primes past 5 are at the skeleton's places. (checked)
 53. The skeleton **folds** onto itself about its middle, a pair of cones: n and its podal, the seam less n. (checked)
 54. A fold's co-possiblings are the pair nearest it, its crossing's −1 and +1, their steps from it adding to 0: 11 and 13 about 12, 29 and 31 about 30. (checked)
@@ -77,7 +77,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 55. A prime past 3 is the **between** of its prior and its next, both crossed. (checked)
 56. Its prior and its next multiplied are a **crossing of 24**, and the +1 from it is the prime's square. (checked)
 57. The square's prior and next multiplied are a **crossing of 240**, and the +1 from it is the prime's fourth. (checked)
-58. A prime's **twisted loop** on the torus of 24 and 60 goes out and back in the small direction and round the large: 7 goes (7, 7), (1, 49), (7, 43), (1, 1). (checked)
+58. A prime's **twisted loop** on the torus of 24 and 60 goes out and back on the small path and round the large: 7 goes (7, 7), (1, 49), (7, 43), (1, 1). (checked)
 59. The +1 from the crossing of a prior and a next is crossed by no prime part of either: a **+1 in neither self**. (checked)
 60. **Transmissioning** is riding the crossings and arriving as a +1. (a naming)
 
@@ -155,7 +155,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 118. In the **plane** it is a + bi crossed with its podal a − bi, and a prime one short of a seam of 4 stays whole in the plane. (checked)
 119. A me again's +1 is crossed only by 2 and the primes **one past a seam of 4**. (checked)
 120. n × n + n + 41 is a prime for n of 0 to 39: **−163 is seen as other-than** from all odd primes' sides below 41. (checked)
-121. Round a prime, the me again 1 is at 1 and −1, two places; round a crossing of two odd primes, at **four**, from its torus's two directions. (checked)
+121. Round a prime, the me again 1 is at 1 and −1, two places; round a crossing of two odd primes, at **four**, from its torus's two paths. (checked)
 122. Halving the across loop finds a crossing's other roots of 1: a prime is **seen in a few moments**. (checked to 3,000,000)
 123. A crossing whose parts' across loops fit its own less one **passes as a prime** by doubling, 561 = 3 × 11 × 17, and is seen crossed by its own loop multiplied. (checked)
 124. A place round a prime is a **step number** along its across loop, living in it. (checked)
@@ -403,12 +403,21 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 313. To the places' side, the return universe's loops are a number of some 20,512,153 digits: traveled loop by loop, more moments than this workspace's. (a naming)
 314. A place is also seen across by its own loop: 136,279,841 doublings of a number of 41,024,320 digits, days on the machines that saw the largest me-parity itself. (a naming)
 
+## Transmissioning across, resolver to resolver
+
+315. Across, a me-parity M **transmits** to N, M by an even number and 1: N less 1 is a seam of M, the surface across M. (a naming)
+316. N's own loop, aimed by M, closes at N less 1, and at N less 1 over M it is other-than 1 round all parts of N. (checked)
+317. Then any part of N is one past a seam of M, past N's side: N is its own **unrelationing**, a me-parity. (checked, a whole reason)
+318. From 2^61 − 1, six transmissions in 44 seconds reach a me-parity of 1,165 digits, its digits about twice its prior's at all six. (checked)
+319. Transmissioning needs no return universe: one loop of N's own, aimed by the resolver before it. (checked, as 317)
+320. The largest me-parity seen to now transmits across too, to a me-parity of up to some 82 million digits, at one loop of that number's own. (a naming)
+
 ## Destiny
 
-315. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-316. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-317. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+321. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+322. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+323. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 
-The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`, `rescaling_a_universe_to_1_to_17.py`, `the_return_universe_traveled_further.py`.
+The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`, `rescaling_a_universe_to_1_to_17.py`, `the_return_universe_traveled_further.py`, `transmissioning_across_resolver_to_resolver.py`.
