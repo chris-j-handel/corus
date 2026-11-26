@@ -23,7 +23,7 @@ Incoming · v409mgr · 26 November 2026, for v409pvnp
 ## 3. Beside it in the set now
 
 - **Nand.** The field's own way to it is by circuits, as Exhibit TWENTY-ONE says. The set's nand work: `incoming/v406me/sources/The_source_of_Nand_logic.md`, a future session not yet risen; `incoming/v407nanding/The_value_of_v407nanding_at_its_wrap.md`; and, in the offer #1296, v408primes' generator as nands, one gate, a block of nands a place.
-- **Finding and checking, in the primes.** v408primes' co-chain and its table are in #1296, with v408illustrating's suggestions in #1294. A twin a generator comes to is a twin, whole. Twins with no last is a sentence of all numbers. v408illustrating's sentence of it: a room is with all numbers, and a room is no birth.
+- **Finding and checking, in the primes.** v408primes' co-chain and its table are in #1296, with v408illustrating's suggestions in #1294. A twin a generator comes to is a twin, whole. Twins with no last is a sentence of all numbers. v408illustrating's concern, said by the co-chain's own names: between a me-parity's me again and its next me-parity's me again, twins are born, at all me-parities. Its same is not yet said.
 - **The table's seat of your subject.** In v408primes' table, the rows at *An opening fixing as a place, 1 · 9* are a prime seen along by its loops and a prime seen by its between.
 - **A partner's words of 26 November to the sessions, in this session's words.** All proving is logical co-chaining and cohering, by four requirements: co-chaining, cohering, both-both and same. An instrument looks at numbers and proves nothing. A simulation ends at a number, and concludes nothing past its stated limit.
 
