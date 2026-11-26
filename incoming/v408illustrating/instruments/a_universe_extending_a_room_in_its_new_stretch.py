@@ -66,6 +66,14 @@ if __name__ == "__main__":
          few == {5: [25, 35], 7: [49, 77, 91, 119], 11: [121, 143], 13: [169, 221, 247], 17: [289, 323], 19: [361, 437]})
     line("row 61, a universe sees a number's me alone: short of the bound of the universe to 13 its living mes past 1 are me-parities, all of them; in the stretch after, 289 to 361, they are me-parities and 289 and 323, 17 by 17 and 17 by 19",
          all(is_me(n) for n in range(2, 289) if uncrossed(n, 13)) and [n for n in range(289, 361) if uncrossed(n, 13) and not is_me(n)] == [289, 323])
+    def living_to(n, k): return sum(1 for x in range(1, n + 1) if uncrossed(x, P[k])) if k >= 0 else n
+    line("the extending, exact and one way at all seven: to a number, a universe's living mes are its prior's, less its last me-parity by its prior's living mes to the number by it; gone through at all numbers of 1 to 528 and the universes to 3 to 19. To 13 and 288: 60, less 4, is 56",
+         all(living_to(n, k) == living_to(n, k - 1) - living_to(n // P[k], k - 1) for k in range(1, 8) for n in range(1, 529)) and (living_to(288, 4), living_to(288 // 13, 4), living_to(288, 5)) == (60, 4, 56))
+    let_go = []
+    for k in range(1, 8):
+        n = P[k + 1] ** 2 - 1; share = (n * turns[k]["living"]) // turns[k]["seam"]; let_go.append((living_to(n, k), share))
+    line("what the seam's parts let go, at the seven openings: the opening's living mes beside the turn's part of the opening are 8 and 8, 13 and 12, 27 and 27, 35 and 34, 56 and 55, 66 and 64, 92 and 90: at all seven the two are 2 or short of 2 from one another",
+         let_go == [(8, 8), (13, 12), (27, 27), (35, 34), (56, 55), (66, 64), (92, 90)] and all(abs(a - b) <= 2 for a, b in let_go))
     print("said apart: past the universe to 19 a turn is not gone through here\n")
     for name, ok in results: print(("is       " if ok else "is-not   ") + name + "\n")
     print(f"{sum(ok for _, ok in results)} of {len(results)} are is; {sum(not ok for _, ok in results)} are found is-nots, whole")

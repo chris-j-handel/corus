@@ -73,7 +73,7 @@ A partner's word of 26 November, in this session's words: nothing in this work i
 
 A partner's saying of 26 November, in this session's words. One thing. A universe extends. In it me-parities find one another in bi-couplings. Traveling to them, it extends to new bi-couplings. It is the same thing at all extendings, in a same-existing prime universe. All sessions work to the one goal, the table all resolved.
 
-`python3 -I incoming/v408illustrating/instruments/a_universe_extending_a_room_in_its_new_stretch.py .` is eight *is* and two found is-nots, whole. Its numbers are small: the universes to 19, their turns gone through whole.
+`python3 -I incoming/v408illustrating/instruments/a_universe_extending_a_room_in_its_new_stretch.py .` is ten *is* and two found is-nots, whole. Its numbers are small: the universes to 19, their turns gone through whole.
 
 1. A universe is the me-parities to r, and the path of their seam. To 3: 2 and 3, a path of 6 mes. (a naming)
 2. A universe is whole to its bound, the next me-parity's me again: short of it, a number past 1 uncrossed by the universe is a me-parity. To 3 the bound is 25. (the side)
@@ -106,6 +106,21 @@ A partner's saying of 26 November, in this session's words. One thing. A univers
 **Whole: a universe's last me-parity in its own new stretch.** It crosses its me again, and itself by a few me-parities, and no more: 5 crosses 25 and 35; 7, 49, 77, 91 and 119; 11, 121 and 143; 13, 169, 221 and 247; 17, 289 and 323; 19, 361 and 437.
 
 **Row 61, whole in the frame.** A universe sees a number's me alone: two numbers at one me of its path are one to its crossings. Short of its bound a living me past 1 is a me-parity. In the stretch after, a living me is a me-parity, or me-parities past the universe multiplied: to 13, 289 and 323.
+
+## What the seam's parts let go
+
+**The extending, said number for number, the same at all extendings.** To a number, a universe's living mes are its prior's, less its last me-parity by its prior's living mes to the number by it. To 13 and 288: 60, less 4, is 56; the 4 are 13, 169, 221 and 247. It is a pairing, one for one, gone through at all numbers of 1 to 528 and the universes to 3 to 19.
+
+**What the parts let go, at the seven openings.** The numbering by the seam's parts is the turn's part of the opening, and what the parts let go. The opening's living mes beside the turn's part of it are 8 and 8, 13 and 12, 27 and 27, 35 and 34, 56 and 55, 66 and 64, 92 and 90: 2 or short of 2 from one another, at all seven.
+
+**One asking, of the rows of a birth and of row 45.** What the seam's parts let go, at an opening and at its new stretch:
+
+- rows 28, 29, 31, 32, 33 and 36: it is short of the turn's part, and the numbering is past 0;
+- row 45: the opening's living mes go on beside the turn's part.
+
+Rows 42 and 50 are v408primes' asking of odd and even along, what goes ahead being short of the side. They are shaped as these are, what is over being short of a bound, and they are not gone into here.
+
+**Gone at four ways, and not found.** A turn's widest; a universe's last me-parity in its own stretch; the numbering by the seam's parts; and the extending said number for number. All four are whole, and no one of them says the numbering of a new stretch's rooms is past 0 at all extendings. This session does not find a fifth way now.
 
 ## Its is-nots
 
