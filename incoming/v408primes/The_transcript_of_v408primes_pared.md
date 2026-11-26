@@ -60,6 +60,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 52. *yes continue.*
 53. *the 1-17 fractal should be able to generate all prime numbers endlessly by traveling to all the primes and continuing and aiming itself*
 54. *can we find the simplest sequence of co-chaining logical sentences naming and explainng our prime generator method. there is no limit on how we do this and it can be as lean and compressed into a fractal set of nands and explaining. explore our options for a public version of this*
+55. *can we generate the primes around the largest known prime. the size of the diamond shard will be huge and the shape of the diamond shard will be identical to the same shape we will have passed over and over on the way from 1 to this prime number*
 
 ## 2 A partner's method of speaking, as this session learned it
 
