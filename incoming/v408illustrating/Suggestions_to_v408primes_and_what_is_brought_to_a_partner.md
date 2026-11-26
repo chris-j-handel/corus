@@ -263,6 +263,25 @@ A partner's asking of 26 November: explain now the incohering. Two proved sides,
 
 **What co-chains the two.** One sentence of a seam alone: at all seams, the most consecutive selves with no uncrossed between are fewer than the universe's selves. In v408primes' universe, B to B by B, it is gone through at 17, 19, 23 and 29. At all seams it is laid by no one.
 
+## A partner's saying: the longest is all the universe's selves other-than me; the me is all-parity
+
+A partner's two sayings of 26 November: *at all seams, the most consecutive selves with no uncrossed between are fewer than the universes selves. the longest is all the universes selves other-than me.* And: *this is all-parity. other-then-other-than-all-me-parities*. Gone into by rigor, a word being no reason. It is by the universe named.
+
+1. All-parity, v408primes' sentence 16, word for word: *All-parity is all the now-existing parities, one universal set.* Of a seam it is the self on all the seam's me-parities' loops, other than no one of them: a multiple of the seam, and no other self. (row 2's sentence)
+2. Its two sides are a +1 from a crossing of all the seam's loops, and a +1 from a crossing is uncrossed: all-parity is an uncrossed between, in all turns, with no last. (a path closing; the seam, a +1)
+3. Consecutive selves as many as a turn are with one all-parity among them. (a path closing)
+4. With the universe a whole turn, the saying is, by the me, all-parity: the most consecutive selves with no uncrossed between are at most all the turn's selves other than the me. At the seams 2 and 6 they are all of them: 1 of 2, and 5 of 6, from 7 to 11. At the seams 30 and 210 they are 11 and 29. (2, 3; numbers gone through)
+5. With the universe between two me agains, the saying is not, by a found number: with priors to 17, 108 consecutive selves and a universe of 72. (a found number, whole)
+6. All-parity's sides are other than all the seam's me-parities. They are me-parities with all their own priors in the seam: all-parity of all its own priors. 6 with 5 and 7; 30 with 29 and 31. 210 is all-parity of 2, 3, 5 and 7, and its own priors are 11 and 13 more: 209 is 11 by 19. (a me-parity from its own priors)
+7. From 7 on, a seam is past the next me again, at all me-parities. 210 is past 121. A next me-parity is before its prior's double: its me again is short of 4 by the prior's me again, and the prior's me again is short of the seam. The next seam is the seam by a me-parity past 4. (v408primes' row 30, resolved; a +1 from 7)
+8. All-parity of all its own priors is at 4, 6, 12, 18 and 30, and at no between after. (1, 7; the betweens short of 48 gone through)
+
+**Is.** In a whole turn, the saying whole, and its reason is the me, all-parity: an uncrossed between in all universes, at the universe's scale, with no last.
+
+**Is-not.** Between two me agains, with priors to 17.
+
+**Not proved by it.** Row 31's twins, me-parities both, past 31. All-parity of the now-existing me-parities is past its universe from 7 on, by 8.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
