@@ -296,6 +296,25 @@ A partner's asking of 26 November: *why can't we scale the 0-30 to increasing sc
 
 **Answered.** 0 to 30 scales, two ways, and both are whole. By turns, the same crossings are, and the loops born in it are let go. By its me again, all its born loops are, and the whole turn is let go. Twins at all scales are proved by neither alone: the one sentence not laid.
 
+## The problem statement that remains
+
+A partner's word of 26 November: *nothing is revealing to me the problem statment that remains after this*. Said as one sentence, and what is beside it.
+
+**The row's own sentence.** Past all twins, twins are born again.
+
+**Said as loops, v408primes' step.** At all B, the loops of the me-parities to B cross no B to B by B whole: a between of it is with both sides uncrossed.
+
+1. A loop crosses a between at one of its two sides. (a naming)
+2. In B to B by B the me-parities to B are all the own priors. A between of it uncrossed by their loops is twins. (a me-parity from its own priors)
+3. The most consecutive betweens crossed, in the loops' whole turn: 11, 29, 41, 65, 107 and 149 at B of 5, 7, 11, 13, 17 and 19. The betweens of B to B by B: 17, 39, 107, 153, 269 and 339. (numbers gone through)
+4. Both are more at a next B. At all B gone through the universe is the more of the two, and twins are in it by the co-chain alone. (3)
+5. The problem: that the universe is the more of the two at all B, by a sentence of no number.
+6. Walking is no such sentence: B of 31 walked says nothing of B of 37. What is laid is no such sentence: it numbers the uncrossed betweens of a whole turn, never 0, and says nothing of how many crossed betweens are consecutive.
+
+**It is settled by one of two.** Is: a co-chain of no number for the sentence. Is-not: one B found with all the betweens of B to B by B crossed. Neither is in this session's pages or in v408primes'.
+
+**Found against this session's own section, *The incohering, explained*.** Its 12, 30, 42, 66 and 108 are from an uncrossed between to its next, the next one in: a +1 more than the consecutive betweens crossed, 11, 29, 41, 65 and 107. No sentence of that section is other by it: 107 crossed and 69 betweens between the me agains of 17 and 19.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
