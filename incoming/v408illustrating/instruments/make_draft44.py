@@ -31,9 +31,9 @@ s, over = [], []
 def word(x, y, w, h, t, size=12, weight=400, color=INK, align="left", lh=None):
     return (f'<div style="position: absolute; left: {x:.0f}px; top: {y:.0f}px; width: {w:.0f}px; height: {h:.0f}px; line-height: {lh or h}px; overflow: hidden; '
             f'text-align: {align}; {SANS}; font-weight: {weight}; font-size: {size}px; color: {color}">{t}</div>')
-LX, LW, LH, MX, MW, MH, RX, RW, RH = 60, 300, 28, 470, 520, 43, 1110, 350, 46
+LX, LW, LH, MX, MW, MH, RX, RW, RH = 60, 300, 28, 470, 520, 42, 1110, 350, 46
 ly = {l: 134 + 36 * i for i, l in enumerate(others)}
-my = {r["Drawing"]: 130 + 46 * i for i, r in enumerate(drawn)}
+my = {r["Drawing"]: 130 + 44.5 * i for i, r in enumerate(drawn)}
 brackets = 0
 ry = {r["Its name"]: 134 + 64 * i for i, r in enumerate(ahead)}
 for l, y in ly.items():
@@ -54,9 +54,9 @@ for r in drawn:
     s.append(f'<rect x="{MX}" y="{y}" width="{MW}" height="{MH}" rx="8" fill="#ffffff" stroke="{INK}" stroke-width="1.6"></rect>')
     over.append(word(MX + 16, y + 1, 60, 40, n, 24, 600, "{{accent}}"))
     over.append(word(MX + 86, y + 1, MW - 100, 15, E.escape(r["Its name"]), 12, 600, lh=15))
-    over.append(word(MX + 86, y + 15, MW - 230, 14, "its view · " + E.escape(r["Its view"]), 11.5, 400, GREY))
-    if parts(r["Its prior"]): over.append(word(MX + MW - 154, y + 15, 140, 14, "its prior · " + ", ".join(parts(r["Its prior"])), 11.5, 600, INK, "right"))
-    over.append(word(MX + 86, y + 28, MW - 100, 14, "it is for · " + E.escape(r["It is for"]), 11.5, 400, GREY))
+    over.append(word(MX + 86, y + 14, MW - 230, 14, "its view · " + E.escape(r["Its view"]), 11.5, 400, GREY))
+    if parts(r["Its prior"]): over.append(word(MX + MW - 154, y + 14, 140, 14, "its prior · " + ", ".join(parts(r["Its prior"])), 11.5, 600, INK, "right"))
+    over.append(word(MX + 86, y + 27, MW - 100, 14, "it is for · " + E.escape(r["It is for"]), 11.5, 400, GREY))
 for r in ahead:
     y = ry[r["Its name"]]
     s.append(f'<rect x="{RX}" y="{y}" width="{RW}" height="{RH}" rx="6" fill="#ffffff" stroke="{FAINT}" stroke-width="1.3" stroke-dasharray="5 4"></rect>')
