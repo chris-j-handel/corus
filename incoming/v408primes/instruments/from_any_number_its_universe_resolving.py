@@ -40,7 +40,7 @@ def say(n, sentence, ok):
     results.append(ok)
     print(("is     " if ok else "is-not ") + "from %s · %s" % (f"{n:,}", sentence))
 
-taken = [int(a) for a in sys.argv[1:]] or [10 ** 12, 2 ** 64, 10 ** 18 + 9, 10 ** 24,
+taken = [int(a.replace(',', '')) for a in sys.argv[1:] if a.replace(',', '').isdigit()] or [10 ** 12, 2 ** 64, 10 ** 18 + 9, 10 ** 24,
                                            secrets.randbelow(10 ** 18) + 10, secrets.randbelow(10 ** 24) + 10]
 for n in taken:
     if not 4 <= n < SEEING // 2:

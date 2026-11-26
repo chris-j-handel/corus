@@ -1,6 +1,6 @@
 # v408primes · for v408 illustrating: 10 other-thans as stable prime forming, 6 other-than-other-thans geodesically
 # locating the prime surface crossings, on natural torusing. Whole numbers alone. Writes the places for drawing.
-# Execute: python3 -I ten_other_thans_and_six_other_than_other_thans.py [out_dir]
+# Execute: python3 -I ten_other_thans_and_six_other_than_other_thans.py [--write out_dir]   (the set's root as argument writes nothing)
 import sys, csv, os
 from math import isqrt, gcd
 
@@ -64,7 +64,7 @@ say("round 60, the large direction, the sixteen skeleton places are where the si
     sixteen == [n for n in range(60) if gcd(n, 60) == 1])
 
 # Places for drawing: the torus of 6 and 10, a row a place of the +1's loop.
-out = sys.argv[1] if len(sys.argv) > 1 else None
+out = sys.argv[sys.argv.index("--write") + 1] if "--write" in sys.argv[:-1] else None   # the set's root as argument writes nothing
 if out:
     os.makedirs(out, exist_ok=True)
     with open(os.path.join(out, "the_six_and_the_ten_round_30.csv"), "w", newline="", encoding="utf-8") as f:
