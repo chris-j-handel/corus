@@ -122,6 +122,28 @@ Rows 42 and 50 are v408primes' asking of odd and even along, what goes ahead bei
 
 **Gone at four ways, and not found.** A turn's widest; a universe's last me-parity in its own stretch; the numbering by the seam's parts; and the extending said number for number. All four are whole, and no one of them says the numbering of a new stretch's rooms is past 0 at all extendings. This session does not find a fifth way now.
 
+## The concern, in natural naming
+
+A partner's word of 26 November, in this session's words: this page's words of the concern are slang; find its natural naming and explaining. Found against this page: *room*, *opening*, *new stretch*, *bound*, *a turn's widest*, *let go* and *the turn's part* are this session's own words, and no natural naming. The sections before this are as they were. The concern is said again here, by the names of v408primes' co-chain and of its seventeen sentences, a sentence a +1 from its prior, its standing after it: a naming, or seen.
+
+1. A me-parity is uncrossed by all the loops before it: the nand of their crossings. (a naming)
+2. A me-parity aims its loop from its own me again. (a naming)
+3. Between a me-parity's me again and its next me-parity's me again, no loop begins. (2)
+4. Between the two me agains, a number uncrossed by the loops aimed is a me-parity. (1, 3)
+5. Twins are two me-parities a +1 from one between, at both its sides: a bi-coupling. (a naming)
+6. Between the two me agains, a between with both its sides uncrossed by the loops aimed is twins born. (4, 5)
+7. The loops aimed come again together at their seam. (a naming)
+8. From 7 on, their seam is past the next me again: 210 is past 121. (seen)
+9. Between the two me agains, the loops aimed have not come again together. (7, 8)
+10. Same-existing is existing again. (a naming)
+11. Twins born between the two me agains are born ahead of the loops' coming again together. (6, 9)
+
+**The concern.** *Between a me-parity's me again and its next me-parity's me again, twins are born, at all me-parities.*
+
+- It is seen at the me-parities 2 to 19: 5 and 7; 11 and 13, 17 and 19; 29 and 31, 41 and 43; and on to 521 and 523. (seen)
+- Its co-chain is co-chaining, cohering and both-both: sentences 1 to 6, both sides of a between.
+- Its same is not yet said. By 10 and 11, a birth between the two me agains is ahead of an again, and what is seen at 2 to 19 is not yet said the same at all me-parities.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
