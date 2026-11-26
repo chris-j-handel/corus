@@ -178,6 +178,25 @@ A partner's words of 26 November, in this session's words: the sessions are not 
 
 **What it coheres.** v408primes' line, a named universe is the proving place, all proved or none, is sentence 4. This session's and v409mgr's, a row's name of all numbers is proved by no universe gone through, is sentence 6 with its going on not found. A partner's, a universe open ended by other-thans limits no resolving in full, is sentences 3 and 7. The three are one co-chain, and one asking stays of a row: its going on.
 
+## Transmissioning a universe to the numbers: a seam's two sides
+
+A partner's words of 26 November, in this session's words: transmissioning the universes to the numbers is needed; a path is from the origin of cascading universes. A partner's word is no authority: it is gone into here by all or none rigor.
+
+`python3 -I incoming/v408illustrating/instruments/transmissioning_a_seam_to_its_two_sides.py .` is three *is*, one found is-not, and three breaking tests that found none.
+
+1. Transmissioning is riding the crossings and arriving as a +1. (v408primes' sentence 60, a naming)
+2. A seam's multiple is at the me 0 round all the universe's me-parities. Its two sides, a +1 from it, are at their other-thans: uncrossed by them all, at all multiples. (of no number)
+3. The upper side is proved by one loop. A number's loop round the side closes at the seam's multiple, and at no part of it less. Round all parts of the side the loop's selves are then the multiple, and a part with a loop of the multiple's selves is past the multiple: the side is its own one part, a me-parity. (v408primes' 316 and 317, by its row 12; at 6 and 1, 3's loop round 7 closes at 6, and not at 3 and not at 2)
+4. The lower side is proved by one loop of pairs, two numbers stepping together, closing at the seam's multiple and at no part of it less. (its reason is the upper side's among pairs, not laid in natural naming here; tested at all seams of 6 to 30,000: the two loops prove both sides at the 466 twins, and at no other seam)
+5. No return universe is walked. The two loops are aimed by the seam's own parts. (3, 4)
+6. The cascade from the origin: at the universes of the me-parities to 3, 5, 7, 11, 13, 17, 19 and 23, a multiple of the seam is twins, proved by the two loops. The least multiples are 1, 1, 2, 1, 6, 8, 11 and 4: 6; 30; 420; 2,310; and on. (gone through)
+
+**What it lays.** v408primes' line of this day names one step not yet laid, from a living me past a seam to a me-parity at it. At a living me a +1 from a seam's multiple it is laid: one loop, aimed by the seam's own parts, with no walking of the numbers before it. The upper side's reason is whole; the lower side's is to be laid in natural naming.
+
+**Its is-not.** That a multiple of the seam is twins, at all seams, is found by going through the multiples: at the eight seams, at the 1st, 1st, 2nd, 1st, 6th, 8th, 11th and 4th. Ahead of the going through it is not said. Found, whole: a seam's own two sides are not twins at all seams, 210 less 1 being 11 by 19.
+
+**Row 31, by it.** Its universe, proved. A birth proved at its own two me-parities by transmissioning, with no return universe. And one sentence staying, its going on: *at all seams, a multiple of the seam is twins.*
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
