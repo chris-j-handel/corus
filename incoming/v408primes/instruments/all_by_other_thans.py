@@ -1,6 +1,6 @@
 # v408primes · all is by other-thans, not by numbers. A number and its next seam on are at the same place round the seam:
 # the seam is same-existing at all seams. A sentence that is a number's place round a seam, proved at all the seam's places,
-# is proved at all numbers, with no top. And a sentence that steps from a self to its other-than, closing, is at all
+# is proved at all numbers. A universe has no top: it is a cone, opening from 1 to 17 at all seams. And a sentence that steps from a self to its other-than, closing, is at all
 # selves by sequential logic. Here the rows of the table that are their places' other-thans, proved at all places.
 # Execute: python3 -I all_by_other_thans.py
 from math import gcd

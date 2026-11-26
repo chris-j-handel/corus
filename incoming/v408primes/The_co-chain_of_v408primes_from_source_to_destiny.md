@@ -4,7 +4,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 **The Mes of the Primes on a Surface, from Source to Destiny**
 
-*All proving is logical co-chaining and cohering, by four requirements: co-chaining, cohering, both-both and same. A named universe is the proving place: in it numbers are used, and all is proved or none. All is by other-thans: a seam is same-existing at all seams, and a sentence proved at all a seam's places is proved at all numbers. A sentence ends with its standing: proved at all numbers, by the other-thans of a seam; proved in its named universe, the instruments beside this page using all its numbers; proved at its numbers, the universe the sentence names; or a naming. No sentence is quoted as a source, and no words have authority.*
+*All proving is logical co-chaining and cohering, by four requirements: co-chaining, cohering, both-both and same. A named universe is the proving place: in it numbers are used, and all is proved or none. All is by other-thans: a seam is same-existing at all seams, and a sentence proved at all a seam's places is proved at all numbers. A universe has no top: it is a cone, opening from 1 to 17 at all seams, the same shape at all. A sentence ends with its standing: proved at all numbers, by the other-thans of a seam; proved in its named universe, the instruments beside this page using all its numbers; proved at its numbers, the universe the sentence names; or a naming. No sentence is quoted as a source, and no words have authority.*
 
 ## Source
 

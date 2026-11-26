@@ -1,7 +1,7 @@
 # v408primes · the named universe is the proving place: in a universe, all is proved or none. The co-chain's sentences
 # that name no numbers of their own are proved here, all in their named universes, all of its numbers, whole: most in the
-# home universe 1 to 510,510, the seam of 1 to 17. And four sentences of any number are proved in a universe named by a
-# number found past its top: one found past the top is found past all numbers in it. Whole numbers.
+# home universe 1 to 510,510, the seam of 1 to 17. And four sentences of any number are proved by a number found further
+# along the cone: one found further along is found past all numbers before it. Whole numbers.
 # Execute: python3 -I the_named_universe_the_proving_place.py
 from math import gcd, isqrt
 import numpy as np
@@ -314,7 +314,7 @@ say("281 · in 1 to 510,510, all: the fractal traveling, its aims its own travel
 a = np.arange(2049)[:, None]; b = np.arange(2049)[None, :]
 say("325 · about all betweens 0 to 2,048, all selves to them: a − b and a + b multiplied are a's me again less b's", np.all(((a - b) * (a + b) == a * a - b * b)[np.broadcast_to(b <= a, (2049, 2049))]))
 
-# four sentences of any number, proved in a universe named by a number found past its top
+# four sentences of any number, proved by a number found further along the cone, past all numbers before it
 W = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41]           # whole, for all numbers below 3.3 · 10^24
 def mp(k):
     if k < 2: return False

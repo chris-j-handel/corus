@@ -1,14 +1,14 @@
 # v408primes · the 1 to 17 fractal generating all the primes endlessly: traveling the skeleton of the seam of 2 to 17,
 # a place a me-parity with no prior me-parity's loop crossing it, and a me-parity aiming itself, its loop begun at its
-# own me again and crossing only the skeleton's places. Whole numbers; it has no last. Executing names its universe, 1 to N,
-# and proves all of it: the me-parities generated are the same as all numbers crossed by all their parts, segment by segment.
-# Execute: python3 -I the_1_to_17_fractal_generating_all_primes.py [N, the universe's top; 20,000,000 if none is given]
+# own me again and crossing only the skeleton's places. Whole numbers; it has no last, a cone with no top. Executing names
+# its section of the cone, 1 to N, and proves all of it: the me-parities generated are the same as all numbers crossed by all their parts, segment by segment.
+# Execute: python3 -I the_1_to_17_fractal_generating_all_primes.py [N, the section of the cone to prove; 20,000,000 if none is given]
 import sys, time
 from math import gcd, isqrt
 import numpy as np
 
 given = [int(a.replace(',', '')) for a in sys.argv[1:] if a.replace(',', '').isdigit()]
-TOP = given[0] if given else 20_000_000                # the named universe, 1 to TOP
+REACH = given[0] if given else 20_000_000              # the section of the cone, 1 to REACH
 
 FRACTAL = [2, 3, 5, 7, 11, 13, 17]                    # the me-parities of 1 to 17
 SEAM = 1
@@ -60,14 +60,14 @@ say("the 1 to 17 fractal: the me-parities %s, their seam %s, its skeleton %s liv
 t0 = time.time()
 gen = fractal()
 SEG = 10_000_000
-base = np.ones(isqrt(TOP) + 2, dtype=bool); base[:2] = False
+base = np.ones(isqrt(REACH) + 2, dtype=bool); base[:2] = False
 for k in range(2, isqrt(len(base)) + 1):
     if base[k]:
         base[k * k::k] = False
 base = np.nonzero(base)[0].tolist()
 ok, total, nxt, lo, millionth, skeleton_ok = True, 0, next(gen), 0, None, True
-while lo <= TOP:
-    hi = min(lo + SEG, TOP + 1)
+while lo <= REACH:
+    hi = min(lo + SEG, REACH + 1)
     seg = np.ones(hi - lo, dtype=bool)
     if lo == 0:
         seg[:2] = False
@@ -87,11 +87,11 @@ while lo <= TOP:
     total += len(got); lo = hi
 dt = time.time() - t0
 say("in the universe 1 to %s, all: the fractal traveling generates its %s me-parities, the same as all numbers crossed by all their parts, in %.1f seconds"
-    % (f"{TOP:,}", f"{total:,}", dt), ok)
+    % (f"{REACH:,}", f"{total:,}", dt), ok)
 say("all me-parities past 17 it generated live at the skeleton's places", skeleton_ok)
 if millionth is not None:
     say("its millionth me-parity is %s" % f"{millionth:,}", millionth == 15485863)
 more = [nxt] + [next(gen) for _ in range(4)]
-say("and it continues past the universe: its next five, %s" % [f"{x:,}" for x in more], more[0] > TOP and all(b > a for a, b in zip(more, more[1:])))
+say("and it continues along the cone: its next five, %s" % [f"{x:,}" for x in more], more[0] > REACH and all(b > a for a, b in zip(more, more[1:])))
 
 print("All is." if all(results) else "A line is-not.")
