@@ -5,9 +5,9 @@ Usage, from the repository's root (some seconds):
 
 A partner's saying of 26 November, in this session's words: the illustrating pauses but for teaching; this session offers
 help with the prime resolving going on toward all, by suggestions to v408primes, and brings to a partner what seems not resolvable.
-A suggestion is a path closing gone through whole, or a moving, one rule at all sides, for a row now by a test. The rows
+A suggestion is a path closing gone through whole, or a moving, same-existing at all sides, for a row now by a test. The rows
 are v408primes' table's, at its branch's 2c7e375. Its lines are of the 55th's kinds:
-  is       a path closing, gone through whole; or a moving, one rule at all sides, its rule's own reasons gone through.
+  is       a path closing, gone through whole; or a moving, same-existing at all sides, its own reasons gone through.
   tested   a breaking test, to its stated limit: none found. It is laid among no is.
 A me again is a number by itself; a part of a number is a number crossing it. Whole numbers alone. It writes none.
 """
@@ -38,7 +38,7 @@ def threes(p):
             out += [(x, y, m // y) for y in range(1, m + 1) if m % y == 0] if m < 400 else [t for y in range(1, isqrt(m) + 1) if m % y == 0 for t in {(x, y, m // y), (x, m // y, y)}]
     return out
 def the_windmill(t):
-    """One rule, in three cases by x beside y less z and beside twice y. It is its own way back."""
+    """One moving, in three cases by x beside y less z and beside twice y. It is its own way back."""
     x, y, z = t
     if x < y - z: return (x + 2 * z, z, y - x - z)
     if x < 2 * y: return (2 * y - x, y, x - y + z)
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     def line(name, ok): results.append((name, bool(ok)))
     def test(name, ok): tests.append((name, bool(ok)))
     grid = [(x, y, z) for x in range(1, 8) for y in range(1, 8) for z in range(1, 8)]
-    line("row 23, the windmill, its rule's own reasons: at all three cases x by x and 4 by y by z added is as it was, gone through at 343 threes; x beside y less z and beside twice y are one number at no me-parity, the one a me again, y and z added by itself, and the other 4 by y by y and z added",
+    line("row 23, the windmill, its own reasons: at all three cases x by x and 4 by y by z added is as it was, gone through at 343 threes; x beside y less z and beside twice y are one number at no me-parity, the one a me again, y and z added by itself, and the other 4 by y by y and z added",
          all(kept(the_windmill(t)) == kept(t) for t in grid) and all((y - z) ** 2 + 4 * y * z == (y + z) ** 2 and (2 * y) ** 2 + 4 * y * z == 4 * y * (y + z) for _, y, z in grid))
     line("row 23, its one over: the windmill lets a three be as it was in its middle case alone, x being y, and p is then x by x and 4 by z added, crossed by x: x is 1, the three 1, 1 and a number, and p one past a seam of 4",
          all((x == y) == (the_windmill((x, y, z)) == (x, y, z)) for x, y, z in grid if y - z < x < 2 * y) and all(the_windmill(t) != t for t in grid if not (t[1] - t[2] < t[0] < 2 * t[1])) and all(kept((x, x, z)) == x * (x + 4 * z) for x, _, z in grid))
@@ -80,7 +80,7 @@ if __name__ == "__main__":
     def at_one(p, s):
         n = the_row_of(s, p)
         return all(q % p == 1 and gcd(q, s) == 1 for q in parts(n)) and n % p == 1
-    line("row 53, a moving, its rule's reasons at a path of p mes: with s a seam of p, the row 1, s, s by s and on, p of them, added, is at the me 1 round p and round all parts of s; gone through at 3, 5 and 7",
+    line("row 53, a moving, its own reasons at a path of p mes: with s a seam of p, the row 1, s, s by s and on, p of them, added, is at the me 1 round p and round all parts of s; gone through at 3, 5 and 7",
          all(the_row_of(s, p) % p == 1 and all(the_row_of(s, p) % q == 1 for q in set(parts(s))) for p in (3, 5, 7) for s in (p, 2 * p, 6 * p)))
     seams = [(p, s) for p in (3, 5, 7, 11) for s in (p, 2 * p, 3 * p, 6 * p, 10 * p, 30 * p) if the_row_of(s, p) < 10 ** 12]
     test(f"row 53, the row's me-parity parts, at p of 3, 5, 7 and 11 and {len(seams)} seams with the row short of a million millions: all are at the me 1 round p, and cross no part of the seam. No breaking found", all(at_one(p, s) for p, s in seams))
