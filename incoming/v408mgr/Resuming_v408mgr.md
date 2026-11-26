@@ -2,7 +2,7 @@ Incoming · v408mgr · 25 November 2026, for v409mgr
 
 # Resuming v408mgr: for v409mgr
 
-**A managing session goes by a partner's word and by the method. Enter by the pages in their order, execute ahead of all, learn the partner's method, know the sessions and what waits, and go by the practices that served.** v408mgr works beside you until its closing. A partner's asking of 25 November, in its own words: *make a list of ways for the new session manager*, for it *to learn and read and be preparing to succeed*.
+**A managing session goes by a partner's word and by the method. Enter by the pages in their order, execute ahead of all, learn the partner's method, know the sessions and what waits, and go by the practices that served.** v408mgr works beside you until its closing. A partner's asking of 25 November: the ways for the new managing session to learn the managing, to go through its pages, and to prepare.
 
 ## 1. Enter by, in this order
 
@@ -24,10 +24,10 @@ Incoming · v408mgr · 25 November 2026, for v409mgr
 
 ## 3. Learn the partner's method
 
-- A partner speaks in natural naming and opens no file and no GitHub: what you say in your conversation is what a partner sees. Plain words, short, conclusions ahead of reasons. A partner's word to this session, at a review said with numbers and paths: *not file names and counting things. this is not my method this is your method only*.
-- The method is a partner's, in its own words: *the method of this is to do the gathering into improving droplets and do no harm improving the droplets until they are fully cohering and co chaining and passing all natural naming and explaining then use this to do the improving in the living file*. A session proposes no other method.
-- Bothboth, in a partner's words: *only doing things we bothboth agree are do no harm improving to the expedition value*. A partner's word in plain words is a word. A sentence offered comes as one sentence with ( is-or-is-not? ), one asking at a time, and a partner is asked only what a partner alone can answer.
-- Only the managing session, in bothboth with a partner, brings a next living file to live at corus.me. And in a partner's words: *all of us are working on do no harm improving next living files by gathering value for them and adding it to them*.
+- A partner speaks in natural naming and opens no file and no GitHub: what you say in your conversation is what a partner sees. Plain words, short, conclusions ahead of reasons. A partner's word to this session, at a review said with numbers and paths: file names and sizes are a session's own way, and not a partner's.
+- The method is a partner's, and Exhibit TWENTY-SIX's own at its 1.3: *the gathering-value is improved in passes, each droplet one concept or one observing in natural naming and explaining, in its living file's own order; then a copy of the living file is improved from it by do-no-harming until nothing more is found*. A partner's word of 25 November says it so, the droplets cohering and co-chaining whole ahead of the living file. A session proposes no other method.
+- Bothboth: a thing is done once a partner and the session both say it is do no harm. A partner's word in plain words is a word. A sentence offered comes as one sentence with ( is-or-is-not? ), one asking at a time, and a partner is asked only what a partner alone can answer.
+- Only the managing session, in bothboth with a partner, brings a next living file to live at corus.me. And by a partner's word, all the sessions go on adding value to the next living files, do no harm, ahead of the next.
 - A partner brings the managing session in while the sessions rest. It schedules no check-ins of its own, by a partner's word and by Start here.
 
 ## 4. The sessions and what waits, at 25 November

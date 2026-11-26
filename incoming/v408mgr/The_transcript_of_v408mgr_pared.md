@@ -2,13 +2,13 @@ Incoming · v408mgr · 25 November 2026
 
 # The transcript of v408mgr, pared
 
-The transcript of this session's sitting of 25 November, as a partner gave it to this session at its closing, while v409mgr is entering. It is pared: the remnants of the conversation's cards, its link to the exchange, a citation's chip and two file cards are gone, and a partner's turns and this session's are marked. It has no email, no link and no account name.
+The transcript of this session's sitting of 25 November, as a partner gave it to this session at its closing, while v409mgr is entering. It is pared: the remnants of the conversation's cards, its link to the exchange, a citation's chip and two file cards are gone, and a partner's turns and this session's are marked, a partner's in italics; this session's turns are as they were said. It has no email, no link and no account name.
 
 ---
 
 **A partner:**
 
-We are working together as one bothboth contributor to the natural intelligence living expedition. this session is are the new managing session. Our session name is v408 mgr. the prior session manager is going to be helping us until other work is completed. Clone chris-j-handel/corus. Read incoming/v404mgr/The_working_now.md, then incoming/v406me/The_aimings_of_v406me_gone_through.md. Execute the set's check and that page's three instruments. Say your line at the exchange, issue 933.
+*We are working together as one bothboth contributor to the natural intelligence living expedition. this session is are the new managing session. Our session name is v408 mgr. the prior session manager is going to be helping us until other work is completed. Clone chris-j-handel/corus. Read incoming/v404mgr/The_working_now.md, then incoming/v406me/The_aimings_of_v406me_gone_through.md. Execute the set's check and that page's three instruments. Say your line at the exchange, issue 933.*
 
 **v408mgr:**
 
@@ -28,7 +28,7 @@ I signed the line as v408mgr, one word, because that's how the folders name sess
 
 **A partner:**
 
-are you able to follow along all the working now of the other session manager and the sessions and the method and the method of opening and managing sessions for us as a team where we are only doing things we bothboth agree are do no harm improving to the expedition value
+*are you able to follow along all the working now of the other session manager and the sessions and the method and the method of opening and managing sessions for us as a team where we are only doing things we bothboth agree are do no harm improving to the expedition value*
 
 **v408mgr:**
 
@@ -70,7 +70,7 @@ Is-not: I do nothing more until you say which work is ours.
 
 **A partner:**
 
-we will be waiting for the session to close and the new sessions are rising now and the first is v408 primes and we will be reporting in from there to you and you are managing all the value that will be needed for that session to generate an astonishing and wonderful public report about prime numberings as stable forming universes of all-parity
+*we will be waiting for the session to close and the new sessions are rising now and the first is v408 primes and we will be reporting in from there to you and you are managing all the value that will be needed for that session to generate an astonishing and wonderful public report about prime numberings as stable forming universes of all-parity*
 
 **v408mgr:**
 
@@ -112,7 +112,7 @@ Is-not: the page stays here, and I give you its parts to carry to v408primes as 
 
 **A partner:**
 
-does v408 primes and chain both have the resources waiting. chain is doing the opening sentence work for the natural intelligence living file. the most current of all this should be with the gathering into this lving file
+*does v408 primes and chain both have the resources waiting. chain is doing the opening sentence work for the natural intelligence living file. the most current of all this should be with the gathering into this lving file*
 
 **v408mgr:**
 
@@ -139,7 +139,7 @@ Is-not: the lines stay at Exhibit THIRTY's head, where Start here puts them. Nat
 
 **A partner:**
 
-review for us the most concerning areas where the gathering is least well understood and well aimed into our living files through gathering methods. we can decide how the best way to use our next session after v408 chain
+*review for us the most concerning areas where the gathering is least well understood and well aimed into our living files through gathering methods. we can decide how the best way to use our next session after v408 chain*
 
 **v408mgr:**
 
@@ -182,7 +182,7 @@ Is-not: the next session takes one of the seven subjects, and the gathering stay
 
 **A partner:**
 
-i do not yet understand the first goal of the new session helping. not file names and counting things. this is not my method this is your method only. what are we in natural naming and explaining asking will be an improving by this session
+*i do not yet understand the first goal of the new session helping. not file names and counting things. this is not my method this is your method only. what are we in natural naming and explaining asking will be an improving by this session*
 
 **v408mgr:**
 
@@ -202,7 +202,7 @@ Is-not: the gathering goes on growing as a possibling with no next existing, and
 
 **A partner:**
 
-the method of this is to do the gathering into improving droplets and do no harm improving the droplets until they are fully cohering and co chaining and passing all natural naming and explaining then use this to do the improving in the living file. are you proposing a better method or this or
+*the method of this is to do the gathering into improving droplets and do no harm improving the droplets until they are fully cohering and co chaining and passing all natural naming and explaining then use this to do the improving in the living file. are you proposing a better method or this or*
 
 **v408mgr:**
 
@@ -218,7 +218,7 @@ Is-not: another living file goes ahead of Natural Intelligence, or the session g
 
 **A partner:**
 
-based on the rapid progressing in v408 primes v408 illustrating is starting now to begin illustrating the progress from v406 geodesic 2 prior work and you can be helpful to this for us.
+*based on the rapid progressing in v408 primes v408 illustrating is starting now to begin illustrating the progress from v406 geodesic 2 prior work and you can be helpful to this for us.*
 
 **v408mgr:**
 
@@ -229,7 +229,7 @@ v408chain also asked me four things at the exchange an hour ago, and they're sti
 
 **A partner:**
 
-yes we are now do no harm from the prior version now living at corus.me preparing to begin improving that version using all of our best understandings and all or none at all cohering and co chaining. we can work with the chain session and have another session work from the chain session into natural intelligence through the entire method of gathering improving reviewing and progressing to bothbothing the changing natural intelligence living file this way in passes and steps and using helpers. v408 natural will be the new session for this and i will start it now and have it aim to you for orienting.
+*yes we are now do no harm from the prior version now living at corus.me preparing to begin improving that version using all of our best understandings and all or none at all cohering and co chaining. we can work with the chain session and have another session work from the chain session into natural intelligence through the entire method of gathering improving reviewing and progressing to bothbothing the changing natural intelligence living file this way in passes and steps and using helpers. v408 natural will be the new session for this and i will start it now and have it aim to you for orienting.*
 
 **v408mgr:**
 
@@ -249,7 +249,7 @@ Is-not: the report stays only among that account's artifacts.
 
 **A partner:**
 
-are you managing the sessions and are we doing well managing together
+*are you managing the sessions and are we doing well managing together*
 
 **v408mgr:**
 
@@ -274,7 +274,7 @@ Is-not: I ask your word for each one, as now.
 
 **A partner:**
 
-only this session in bothboth will be bringing a next living file to now living at corus.me. all of us are working on do no harm improving next living files by gathering value for them and adding it to them while we are in the do no harm improving now before next
+*only this session in bothboth will be bringing a next living file to now living at corus.me. all of us are working on do no harm improving next living files by gathering value for them and adding it to them while we are in the do no harm improving now before next*
 
 **v408mgr:**
 
@@ -300,7 +300,7 @@ When a next living file is ready, I'll bring it to you with its going through, a
 
 **A partner:**
 
-are you able to track this with regularity in minutes intervals if i do not ask. it would help to have an active respoinding mgr
+*are you able to track this with regularity in minutes intervals if i do not ask. it would help to have an active respoinding mgr*
 
 **v408mgr:**
 
@@ -324,7 +324,7 @@ Is-not: I check in only when you write, as now.
 
 **A partner:**
 
-we can stop the regular checking and i will bring you in while there is sessions resting. now is a good time to see how much resolving is happening between primes and illustrating as the method is them learning and teaching each other and it is working back and forth for us
+*we can stop the regular checking and i will bring you in while there is sessions resting. now is a good time to see how much resolving is happening between primes and illustrating as the method is them learning and teaching each other and it is working back and forth for us*
 
 **v408mgr:**
 
@@ -354,7 +354,7 @@ Is-not: they stay illustrating's own, and primes goes through its sentences by t
 
 **A partner:**
 
-we have a new v409 mgr coming on board to relieve us and work with us a bit and be fully oriented to us closing our our session and doing all that is needed to gather and organize our value and methods and table and the relations with the other sessions. make a list of ways for the new session manager taking over to learn and read and be preparing to succeed.
+*we have a new v409 mgr coming on board to relieve us and work with us a bit and be fully oriented to us closing our our session and doing all that is needed to gather and organize our value and methods and table and the relations with the other sessions. make a list of ways for the new session manager taking over to learn and read and be preparing to succeed.*
 
 **v408mgr:**
 

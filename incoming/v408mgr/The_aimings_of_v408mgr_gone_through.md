@@ -19,9 +19,9 @@ Incoming · v408mgr · 25 November 2026, at its closing, for v409mgr
 **For Start here's rewriting, shown to a partner ahead of it:**
 
 - A partner's word: only the managing session, in bothboth with a partner, brings a next living file to live at corus.me.
-- A partner's word, its own: *all of us are working on do no harm improving next living files by gathering value for them and adding it to them while we are in the do no harm improving now before next*.
+- A partner's word: all the sessions go on adding value to the next living files, do no harm, ahead of the next.
 - A partner's word: a partner brings the managing session in while the sessions rest, and it sets no check-ins of its own, as Start here has it.
-- A partner's word to a session speaking with numbers and paths: *not file names and counting things. this is not my method this is your method only*. Start here's part of speaking with a partner says it too.
+- A partner's word to a session speaking with numbers and paths: file names and sizes are a session's own way, and not a partner's. Start here's part of speaking with a partner says it too.
 - Two places for the opening's lines: at a sitting's end, the head of Exhibit THIRTY's gathering file; and for a line of both, the head of its gathering file. The plan sorts the opening's sentences to Natural Intelligence's. Asked of a partner, with no word yet.
 
 **For the managing method, its home the gathering file of *the Geodesic Improving Method* by the plan:**
@@ -31,7 +31,7 @@ Incoming · v408mgr · 25 November 2026, at its closing, for v409mgr
 - A source page names its gathering file with no branch. The current gathering files are the next version's, and main's are older.
 - An instrument executed with the set's root as its one argument can lay a file at the root, as v408primes' of the ten other-thans does.
 
-**For the gathering, its method:** a partner's word, its own, *the method of this is to do the gathering into improving droplets and do no harm improving the droplets until they are fully cohering and co chaining and passing all natural naming and explaining then use this to do the improving in the living file*. Exhibit TWENTY-SIX's 1.3 says it in its three steps, and the two cohere. The gathering waits at its second step: many droplets are with their two sides and no binary settling them. v408natural is at it.
+**For the gathering, its method:** a partner's word of 25 November says the method of Exhibit TWENTY-SIX's 1.3, *the gathering-value is improved in passes, each droplet one concept or one observing in natural naming and explaining, in its living file's own order; then a copy of the living file is improved from it by do-no-harming until nothing more is found*, the droplets cohering and co-chaining whole ahead of the living file; the two cohere. The gathering waits at its second step: many droplets are with their two sides and no binary settling them. v408natural is at it.
 
 **For the one list:** *direction*, its natural naming a path of mes closing, and a number's *place*, the me a number is with: offered by v408illustrating from a partner's is-not, asked of a partner.
 
