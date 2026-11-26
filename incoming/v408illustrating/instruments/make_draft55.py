@@ -53,7 +53,7 @@ px, py = card(0, "a path of 2 mes: even, odd, even", "a path closing, gone throu
 row(px, py + 86, 2, {0: "tint", 1: "dark"})
 # 2 · a path of 3 mes
 px, py = card(1, "a path of 3 mes: twins are two", "a path closing, gone through whole · the 53rd's",
-              ["three numbers 2 apart, from the me 0: 0, 2, 1 · from 1: 1, 0, 2 · from 2: 2, 1, 0", "one of the three is at the me 0, crossed by 3: past 3, 5 and 7, no three"], True)
+              ["three numbers, 2 selves one from the next", "from the me 0: 0, 2, 1 · from 1: 1, 0, 2 · from 2: 2, 1, 0", "one of the three is at the me 0, crossed by 3: past 3, 5 and 7, no three"], True)
 assert [[(a + e) % 3 for e in (0, 2, 4)] for a in range(3)] == [[0, 2, 1], [1, 0, 2], [2, 1, 0]]
 row(px, py + 86, 3, {0: "tint"}, edges=(0,))
 # 3 · a path of 4 mes
@@ -70,7 +70,7 @@ assert c.living(6) == [1, 5]
 row(px, py + 90, 6, {0: "tint", 1: "dark", 5: "dark", 2: "faint", 3: "faint", 4: "faint"}, marks=(0,))
 # 5 · a path of 12 mes
 px, py = card(4, "a path of 12 mes: an aim and a seam", "a path closing, gone through whole · the 52nd's, found by drawing it",
-              ["at the mes 1 and 11, aim and seam are one even · at 5 and 7, its two evens", "twins aim together about the me 0, and apart about the me 6"], True)
+              ["at the mes 1 and 11, aim and seam are one even · at 5 and 7, its two evens", "twins about the me 6 aim away from one another", "twins about the me 0 aim together"], True)
 assert c.living(12) == [1, 5, 7, 11] and [a for a in c.living(12) if c.aim(a, 12) == c.seam(a, 12)] == [1, 11]
 row(px, py + 90, 12, {**{a: "tint" for a in range(0, 12, 2)}, **{a: "dark" for a in c.living(12)}, 3: "faint", 9: "faint"}, edges=(0, 4, 8), marks=(0, 6), cw=35)
 # 6 · a path of 30 mes
@@ -80,7 +80,7 @@ seams30 = [sm for sm in range(0, 30, 6) if (sm - 1) % 30 in c.living(30) and (sm
 row(px, py + 90, 30, {**{a: "faint" for a in range(30)}, **{a: "tint" for a in range(0, 30, 6)}, **{a: "dark" for a in c.living(30)}}, edges=seams30, marks=tuple(range(0, 30, 6)), cw=14.1, size=8.5)
 # 7 · a moving: a twin's rooms, drawn at 7
 px, py = card(6, "a path of r mes: a twin's rooms", "a moving, one rule at all r past 2 · drawn at 7 · the 54th's",
-              ["a twin's between is uncrossed by r at all mes but one on and one back", "the two are 2 steps apart, one me at a path of 2 alone: r − 2 rooms of r"], True)
+              ["a twin's between is uncrossed by r at all mes but one on and one back", "one on is 2 steps on from one back: one me at a path of 2 alone", "of r mes past 2, a twin's rooms are r − 2"], True)
 rooms7 = [m for m in range(7) if (m - 1) % 7 and (m + 1) % 7]; assert rooms7 == [0, 2, 3, 4, 5]
 row(px, py + 86, 7, {**{a: "tint" for a in rooms7}, 1: "faint", 6: "faint"}, edges=(1, 6))
 # 8 · a moving: a me again, its cell over, drawn at 6

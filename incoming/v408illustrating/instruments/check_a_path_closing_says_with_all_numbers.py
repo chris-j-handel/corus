@@ -66,25 +66,25 @@ if __name__ == "__main__":
     def test(name, ok): tests.append((name, bool(ok)))
     # paths closing, gone through whole
     line("a path of 2 mes, whole: an odd me's prior and its next are both the me 0: even, odd, even, the 52nd's", [(a - 1) % 2 for a in (1,)] == [0] and [(a + 1) % 2 for a in (1,)] == [0])
-    line("a path of 3 mes, whole: three numbers 2 apart are at all three mes, from all three mes: one of them is at the me 0, crossed by 3; past 3, 5 and 7, twins are two, the 53rd's",
+    line("a path of 3 mes, whole: three numbers, 2 selves one from the next, are at all three mes, from all three mes: one of them is at the me 0, crossed by 3; past 3, 5 and 7, twins are two, the 53rd's",
          all(sorted((a + e) % 3 for e in (0, 2, 4)) == [0, 1, 2] for a in range(3)))
     again4 = sorted({(a * a) % 4 for a in range(4)}); two4 = sorted({(x + y) % 4 for x in again4 for y in again4})
     line("a path of 4 mes, whole: a me again is at the me 0 or the me 1, two me agains added are at 0, 1 or 2, and at the me 3 none: aiming next, a me-parity is two me agains added at none, the 52nd's, laid stepped in it",
          again4 == [0, 1] and two4 == [0, 1, 2] and all(((a - 1) % 4 == 0) != ((a + 1) % 4 == 0) for a in (1, 3)) and (3 + 1) % 4 == 0 and (1 - 1) % 4 == 0)
     line("a path of 6 mes, whole: uncrossed by 2 and by 3 are the me one on and the me one back alone, a +1 from the me 0: past 3, a me-parity lives in a seam of 6, the 52nd's", living(6) == [1, 5])
-    line("a path of 12 mes, whole: uncrossed by 2 and by 3 are the mes 1, 5, 7 and 11; at 1 and 11 aim and seam are one even, the me 0, and at 5 and 7 its two evens; twins about the me 0 aim together, and about the me 6 apart, the 52nd's",
+    line("a path of 12 mes, whole: uncrossed by 2 and by 3 are the mes 1, 5, 7 and 11; at 1 and 11 aim and seam are one even, the me 0, and at 5 and 7 its two evens; twins about the me 0 aim together, and about the me 6 away from one another, the 52nd's",
          living(12) == [1, 5, 7, 11] and [a for a in living(12) if aim(a, 12) == seam(a, 12)] == [1, 11] and aim(11, 12) == aim(1, 12) == 0 and (aim(5, 12), aim(7, 12)) == (4, 8))
     line("a path of 30 mes, whole: of its five seams of 6, the mes 0, 12 and 18 are with both their sides uncrossed by 5, and 6 and 24 are with a side at a seam of 5: twins past 5 are born at three seams of the five, the 53rd's",
          [s for s in range(0, 30, 6) if (s - 1) % 30 in living(30) and (s + 1) % 30 in living(30)] == [0, 12, 18] and living(30) == [1, 7, 11, 13, 17, 19, 23, 29])
     # movings: one rule at all sides, bound by odd and even
-    line("a moving, a twin's rooms: the me one on and the me one back are 2 steps apart, and 2 steps come again at a path of 2 mes alone, 2 being short of all paths of more mes: of r mes past 2, a twin's between is uncrossed at r - 2, the 54th's",
+    line("a moving, a twin's rooms: the me one on is 2 steps on from the me one back, and 2 steps come again at a path of 2 mes alone, 2 being short of all paths of more mes: of r mes past 2, a twin's between is uncrossed at r - 2, the 54th's",
          (1 - (-1)) == 2 and 1 % 2 == (-1) % 2)
     line("a moving, a me again: a row of n cells is n - 1 cells and 1 cell; the row, less a cell, laid as a column more, is its side less 1 by its side and 1, and one cell over: the rule is one at all sides, the 53rd's; drawn at 6",
          the_moving(6)[0] == {(r, k) for r in range(5) for k in range(7)} and the_moving(6)[1] == (5, 5))
     p35, o35 = the_pairing(35); p36, o36 = the_pairing(36)
     line("a moving, the pairing: a prime's times in a number's parts are 0 to k, paired two by two from 0, none over with k odd and one over with k even: odd and even bound it; 35's parts are two pairs, none over, and 36's four pairs and 36 over",
          sorted(p35) == [(1, 5), (7, 35)] and o35 == [] and sorted(p36) == [(1, 2), (3, 6), (4, 12), (9, 18)] and o36 == [36] and all(across(a) != across(b) for a, b in p35 + p36))
-    line("a moving, one short of a me again: a me again and its next are apart by twice the side and 1, past the side 1 more than 1 apart: one short of a me again is past its prior me again and short of it, no me again",
+    line("a moving, one short of a me again: a me again's next is twice the side and 1 on, past the side 1 more than 1 on: one short of a me again is past its prior me again and short of it, no me again",
          all((n + 1) * (n + 1) - n * n == 2 * n + 1 for n in (1, 2, 3)) and 2 * 1 + 1 > 1)
     # breaking tests, to their stated limits: none found; they are no is
     test("a twin's rooms, at the primes r of 3 to 31: r - 2 of r, no breaking found", all(sum(1 for m in range(r) if (m - 1) % r and (m + 1) % r) == r - 2 for r in (3, 5, 7, 11, 13, 17, 19, 23, 29, 31)))
@@ -95,6 +95,7 @@ if __name__ == "__main__":
     test("the pairing, numbers 1 to 20,000: all a number's parts in pairs, an odd with an even across, none over at no me again and the number itself over at a me again, v408primes' 80: no breaking found", all(whole(n) for n in range(1, 20001)))
     test("one short of a me again, sides 2 to 20,000: no me again, and its parts' pairing is with none over at sides 2 to 300: no breaking found",
          all(isqrt(n * n - 1) ** 2 != n * n - 1 for n in range(2, 20001)) and all(the_pairing(n * n - 1)[1] == [] for n in range(2, 301)))
+    print("said apart: v408primes' sentences 73 and 80 are opened from its branch at a593e56, its pages not in the set at this main\n")
     print("said apart: not said by a path or a moving of this session's, and tested alone in the 52nd's and the 54th's checks: aiming prior, a me-parity is two me agains added; twins are more at a next span by 4; twins are born past all numbers\n")
     for name, ok in results: print(("is       " if ok else "is-not   ") + name + "\n")
     for name, ok in tests: print(("tested   " if ok else "broken   ") + name + "\n")

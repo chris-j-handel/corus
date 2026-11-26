@@ -85,13 +85,15 @@ A partner's sayings of 26 November, in this session's words. A simulation ends a
 
 1. Exhausted into all-parity is: all a number's parts in pairs, an odd with an even across, none over. (a moving, the pairing: by a prime an odd number of times in the number, a part with the part a time more)
 2. A me again's parts are pairs, and one over: a me. (the pairing, at a prime an even number of times: the parts with it all its times are over, paired by the next prime; the number itself is over)
-3. One short of a me again is no me again. (a moving: a me again and its next are apart by twice the side and 1)
+3. One short of a me again is no me again. (a moving: a me again's next is twice the side and 1 on)
 4. The moving of a me again lets one cell go, and its side less 1 by its side stays: two paths again together. (a moving, cell by cell)
 5. One short of a me again is exhausted into all-parity, and the cell over is the me. (1, 3 and 4)
 
-**It is.** A me again and one short of it are a +1 apart: a me, and all-parity. With twins, 35 is the parts 1, 5, 7 and 35, two pairs and none over; 36 is four pairs and 36 over.
+**It is.** A me again and one short of it are a +1 one from the other: a me, and all-parity. With twins, 35 is the parts 1, 5, 7 and 35, two pairs and none over; 36 is four pairs and 36 over.
 
 **Its is-nots.** The exhausting is the cell let go, and no laying of a row as a column. And it is of all numbers that are no me again, a +1 past a me again too: one short of a me again is one of them, and what the moving says more is what it is, its side less 1 by its side and 1.
+
+**Found at the exchange, a partner's words to v408primes of 26 November, in this session's words.** No distances are in nature: v408primes says selves, and *a +1 one from the other*. From the 55th on this session says it with these words; the drawings before it are as they were. An is-or-is-not is answered by the session, in a bound of its own, and it is not asked of a partner. All this is nand logic, all other-thans as parities; v408primes' sentence 99 says the pairing: *Across, a number's parts' parities other-than one another to nothing, but at a me again*.
 
 ## The map made again, and rows ahead by v408primes' lines
 
