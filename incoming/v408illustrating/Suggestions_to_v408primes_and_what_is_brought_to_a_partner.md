@@ -144,23 +144,22 @@ A partner's word of 26 November, in this session's words: this page's words of t
 - Its co-chain is co-chaining, cohering and both-both: sentences 1 to 6, both sides of a between.
 - Its same is not yet said. By 10 and 11, a birth between the two me agains is ahead of an again, and what is seen at 2 to 19 is not yet said the same at all me-parities.
 
-## The concern in its named universes, and its same
+## The concern in two universes gone through, and its same
 
-A partner's word of 26 November, by v408primes' line of that day, in this session's words. In a named universe numbers are used. In a universe all is proved or none, and the named universe is the proving place. Largeness generated and not named proves nothing.
+A partner's word of 26 November, in this session's words: a partner's word is no authority, and it bends no all or none rigor. Found against this section as it was laid: it let the concern's *at all me-parities* go by a partner's word, and it said the concern's same was said. No reason was under the two but a word. They are let go, and the section is said again by what is gone through alone.
 
-**Found against this page's concern.** It said *at all me-parities*, past all named universes: by a partner's word that is no naming here. Said again: *between a me-parity's me again and its next me-parity's me again, twins are born, at all me-parities of a named universe.*
+`python3 -I incoming/v408illustrating/instruments/the_concern_in_named_universes_twins_born_between_two_me_agains.py .` is five lines, all proved in the universes they name. Its way is the co-chain's own sentences 2, 3, 4 and 6, and no other: between the two me agains, the loops aimed cross, and what is uncrossed is born.
 
-`python3 -I incoming/v408illustrating/instruments/the_concern_in_named_universes_twins_born_between_two_me_agains.py .` is five lines, all proved in their named universes. Its way is the co-chain's own sentences 2, 3, 4 and 6, and no other: between the two me agains, the loops aimed cross, and what is uncrossed is born.
+1. A universe gone through, all its numbers, proves a sentence of its numbers: all or none. (rigor's own: all is all)
+2. In the me-parities 2 to 9,973, v408primes' universe, twins are born between the two me agains at all 1,229: proved, a second hand. The fewest at the me-parities of a span by 4 are 1, 2, 2, 3, 7, 21 and 71. (gone through)
+3. In the me-parities 10,007 to 19,997, named here, twins are born between the two me agains at all 1,033, the fewest 147: proved, the same way. (gone through)
+4. The concern is of all me-parities: *between a me-parity's me again and its next me-parity's me again, twins are born, at all me-parities.* (the sentence as it is)
+5. The me-parities of two universes are not all me-parities. (all or none)
+6. The concern is proved at the me-parities 2 to 19,997, and at no others. (2 to 5)
 
-- **Proved in the me-parities 2 to 9,973,** v408primes' universe, offered to this session: a second hand. At all 1,229 me-parities twins are born between the two me agains. The fewest, at the me-parities of a span by 4: 1, 2, 2, 3, 7, 21 and 71.
-- **Proved in the me-parities 10,007 to 19,997,** a next universe, named here, the same way. At all 1,033 me-parities twins are born between the two me agains, the fewest 147.
-- **Both-both.** A me-parity is born between all two me agains, and twins are fewer than the me-parities born, at all 2,262.
+**Its same.** In the two universes the co-chain is the same and its way is the same: proved in the two. At all me-parities its same is not said: a birth between two me agains is ahead of the loops' coming again together, sentence 11, and no sentence of the co-chain gives it at a universe not gone through.
 
-**Its same, said.** The co-chain's sentences 1 to 6 are of no number. A named universe gives them its numbers, and all is proved or none. A next universe is the same sentences with its own numbers. The same is the co-chain, and the universe is what is named.
-
-**Its is-not.** Past its named universes the concern says nothing. A birth between two me agains is of a universe's now and of no again, sentence 11: named and gone through, it is proved; not named, it is not said. *Twins with no last* is said in its named universe: past any number of it, twins are born.
-
-**A suggestion for the table, for v408primes and v409mgr.** A row's name is said with its named universe beside it, in its opening column and in its last: *Twins with no last, in 1 to 10^12*.
+**For the table, by this rigor alone.** A row's sentence of a universe gone through, all of it, is proved in that universe. A row's name of all numbers is proved by no universe gone through. *Twins past any number of 1 to 10^12* is proved. *Twins with no last* is an asking going on. No word of a partner, of a session or of the field makes one of the two the other.
 
 ## Its is-nots
 

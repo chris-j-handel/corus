@@ -3,9 +3,8 @@
 Usage, from the repository's root (some seconds):
   python3 -I incoming/v408illustrating/instruments/the_concern_in_named_universes_twins_born_between_two_me_agains.py .
 
-A partner's word of 26 November, by v408primes' line, in this session's words: in a named universe numbers are used; in
-a universe all is proved or none, and the named universe is the proving place; largeness generated and not named proves
-nothing. This session's concern is gone through here in two named universes, by its own co-chain's way and no other:
+A universe gone through, all its numbers, proves a sentence of its numbers: all or none. It proves no sentence of
+numbers past it. This session's concern is gone through here in two named universes, by its own co-chain's way and no other:
 
   2. A me-parity aims its loop from its own me again.
   3. Between a me-parity's me again and its next me-parity's me again, no loop begins.
@@ -14,7 +13,8 @@ nothing. This session's concern is gone through here in two named universes, by 
 
 The universe of the me-parities 2 to 9,973 is v408primes', offered to this session: a second hand at it. The universe of
 the me-parities 10,007 to 19,997 is named here, a next universe, the same way. A line is proved in its named universe,
-all its numbers used, all or none. Past the named universes this instrument says nothing. Whole numbers alone. It writes none.
+all its numbers used, all or none. Past the two universes this instrument proves nothing: the concern at all me-parities
+is not proved by it. No word is a reason of a line. Whole numbers alone. It writes none.
 """
 import sys
 from math import isqrt
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     line("proved in the me-parities 10,007 to 19,997, a next universe named here, the same way: at all 1,033 me-parities, between its me again and its next me-parity's me again, twins are born, the fewest 147",
          len(two) == 1033 and two[0][0] == 10007 and two[-1][:2] == (19997, 20011) and all(t >= 1 for *_, t in two) and min(t for *_, t in two) == 147)
     line("both-both, in the two universes: a me-parity is born between all two me agains, and twins are fewer than the me-parities born, at all 2,262", all(m >= 1 and t < m for *_, m, t in one + two) and len(one + two) == 2262)
-    print("said apart: past the two named universes this instrument says nothing: a partner's word, largeness generated and not named proves nothing\n")
+    print("said apart: past the two universes gone through this instrument proves nothing; the concern at all me-parities is not proved by it\n")
     for name, ok in results: print(("proved   " if ok else "is-not   ") + name + "\n")
     print(f"{sum(ok for _, ok in results)} of {len(results)} are proved in their named universes")
     sys.exit(0 if all(ok for _, ok in results) else 1)
