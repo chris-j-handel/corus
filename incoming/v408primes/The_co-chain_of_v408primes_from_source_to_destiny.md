@@ -335,12 +335,30 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 260. From any number of doublings, the resolving reaches a next **doubling less 1** that is a me-parity: from 1,280, at 2,203; from 2,204, at 2,281. (checked, to 4,000 doublings)
 261. From any number of doublings of doublings, 5 to 14, the doubling's doubling +1 is **crossed**. (checked)
 
+## The six, answered in 1 to 17
+
+262. In 1 to 17, no odd number's parts make its double; 6, 2 by 3, a doubling by a doubling less 1, makes its double, 12. (checked)
+263. An odd number's parts make an odd number at a me again, and at no other. (checked, odd numbers to 100,000)
+264. An odd number whose parts make its double is, in shape, a **me again but for one me-parity aiming prior**, to a power one past a seam of 4. (checked: all odd numbers to 100,000 whose parts make twice an odd number)
+265. From any odd number, its parts are **not its double**: all to 1,000,000, and the numbers given and drawn. (checked)
+266. In 1 to 17, round a me-parity's me again, doubling's loop is the **prime's loop by the prime**. (checked)
+267. Doubling closes round a prime's own me again at its prior at **1,093 and 3,511**, to 10,000,000, and at no other. (checked)
+268. From any number, its next me-parity's me again has doubling's loop by the prime. (checked, numbers given and drawn)
+269. In 1 to 17, rows of three at equal selves are 3, 5, 7; 3, 7, 11; and 5, 11, 17. (checked)
+270. By the seam's selves, a **row of 14** me-parities lives at 31,385,539 + 420,420 n, its last 36,850,999. (checked)
+271. In 1 to 17, the twins 3 and 5, 5 and 7, and 11 and 13 put their parts of one together to 15,676/15,015. (checked)
+272. Put together along, the twins' parts of one are **more at a next span, by a smaller part**: 1.044 to 16, 1.743 to 16,777,216. (checked)
+273. The curve's 0s from 10 to 35 are **found on the curve** at 14.137, 21.024, 25.018, 30.428 and 32.933. (checked, by the curve's own formula)
+274. The me-parities and their powers in 1 to 17 **see the curve's opening 0s**: their wave peaks at 14.23, 21.08 and 25.3. (checked)
+275. In 1 to 17, odd across are 9 and even across 8, with 1: **alike**. (checked)
+276. About any number, round all loops of 3 to 30, odd and even across are alike, to 6 in 100 at the widest, in 100,000 numbers on. (checked, numbers given and drawn)
+
 ## Destiny
 
-262. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-263. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-264. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+277. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+278. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+279. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 
-The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`.
+The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`.

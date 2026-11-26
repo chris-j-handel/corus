@@ -57,6 +57,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 49. *Adding, thinning and the smooth curve are excluded, nothing is excluded*
 50. *apart is not natural naming. this looks like alternating sequencing along and across and how the podaling spans get wider and longer with adding pairs of selves to the co-chainings*
 51. *there are no distances in nature. this is all nand logic. all other-thans as parities. the is or is nots each time are entirely answerable inside 1-17 and you are only asking me idle questions you already can answer*
+52. *yes continue.*
 
 ## 2 A partner's method of speaking, as this session learned it
 
