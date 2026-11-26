@@ -248,6 +248,21 @@ A partner's saying of 26 November, in this session's words: it is never the same
 
 **Not proved by it.** That in all universes a between is uncrossed at both sides by all its own priors. It is v408primes' step not yet laid.
 
+## The incohering, explained
+
+A partner's asking of 26 November: explain now the incohering. Two proved sides, not yet co-chained one to the other. Small numbers, gone through whole.
+
+1. The seam's side. Round a seam, the betweens uncrossed at both sides by the seam's loops are numbered whole, and are the same in all turns: 1 in a turn of 6; 3 in a turn of 30, at 12, 18 and 30; 15 in a turn of 210. It is never 0. (the path, whole)
+2. The number's side. A between uncrossed at both sides by its own priors is twins. With own priors 2, 3 and 5 it is the universe from 25 to 49. (from its own priors)
+3. The seam's side says of a whole turn. The number's side needs one in the universe. With own priors to 3 the turn is 6 selves and the universe, 9 to 25, is 16 selves: a whole turn is in it, and twins by the co-chain alone. With own priors to 5 the turn is 30 selves and the universe, 25 to 49, is 24: the universe is a part of a turn. With own priors to 7 it is 72 of 210, and a lesser part at all universes after.
+4. What is gone through: the most consecutive selves of a turn with no uncrossed between. 12 with priors to 5, 30 to 7, 42 to 11, 66 to 13, and the universes are 24, 72, 48 and 120 selves: twins in them by the co-chain alone.
+5. With priors to 17 it is 108, and the universe, 289 to 361, is 72 selves. The co-chain alone says no twins in it. Walked, twins are in it: 311 with 313, and 347 with 349. A universe walked says nothing of its next.
+6. Its root. The loops are other-thans of one another: all co-possiblings of their crossings are in a turn, one time. By this the number is whole. By this also a turn is with many consecutive selves crossed: the co-possibling with the loops' crossings side by side is among them.
+
+**The incohering, in one sentence.** The seam says how many in a whole turn; twins need one in the universe; the universe is a part of the turn; and how many says nothing of which part.
+
+**What co-chains the two.** One sentence of a seam alone: at all seams, the most consecutive selves with no uncrossed between are fewer than the universe's selves. In v408primes' universe, B to B by B, it is gone through at 17, 19, 23 and 29. At all seams it is laid by no one.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
