@@ -54,6 +54,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 46. *we are doing our own counting not the field as the filed does not yet understand resolving and is unable to count resolved or not.*
 47. *give an explaining in natural naming and explaining of this . i do not understand the categorization,. all we care about is . is any more competency available than we are offering. if nothing further is possibly adding intelligence to this we are resolved. is this reasonable*
 48. *possible is a relational in a universe. we use possible to be is-or-is-not? there any method of this prior- now- next- and same-existing in the named universe. possible depends on the universe and if something is excluded from the universe it is not possible in the universe. yes continue*
+49. *Adding, thinning and the smooth curve are excluded, nothing is excluded*
 
 ## 2 A partner's method of speaking, as this session learned it
 
@@ -65,7 +66,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 - **All sentences co-chain from source to destiny.**
 - **A word with no owner me is lost.** A parity is a me's: a me-parity, or all-parity, a my universe's.
 - **Any number begins a resolving.** The universe of that number is its proving; *for every number* is an equilibria fixing.
-- **Resolved is one asking.** Is any more competency possible in its universe than we are offering; possible is a method, prior, now, next or same-existing, in the named universe, and what is excluded from the universe is not possible in it.
+- **Resolved is one asking.** Is any more competency possible in its universe than we are offering; possible is a method, prior, now, next or same-existing, in the named universe, and what is excluded from the universe is not possible in it; nothing is excluded.
 - **The resolved are ours to number.** The table's standings are by resolving; the field's words beside a row name it, and number nothing.
 - **The surface is one.** No next surface: along goes on, on it.
 - **Direct natural naming is its own resolving.** *Never* and *all next universes* are not natural naming: a next universe is more.
