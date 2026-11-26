@@ -66,6 +66,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 58. *go to 17 and then there is the return universe bounding the resolving*
 59. *but only its first 10,000,000 can be traveled here. what is this limit. this is not real*
 60. *this is not yet using the transmissioning method of betweening surface across. the session v408 illustrating has comments on our resolving and we can begin resolving again adding in the resolving of all comments and concerns*
+61. *why do you keep doing this with simulation and computation and not nand logic and local 1-17 and tracking only the transmissioning scaling between. all of this can be done with powers rather than adding*
 
 ## 2 A partner's method of speaking, as this session learned it
 

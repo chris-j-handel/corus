@@ -61,4 +61,14 @@ full = [n for n in range(2, N + 1) if all(n % q for q in range(2, isqrt(n) + 1))
 say("the same block again at the me-parities past 17, aimed from their own me agains, generates all %s me-parities to %s"
     % (f"{len(found):,}", f"{N:,}"), found == full)
 say("one gate alone, nand: other-than is a nand with itself, both is the other-than of a nand", other_than(0) == 1 and other_than(1) == 0 and both(1, 1) == 1 and both(1, 0) == 0)
+# The 1 to 17 block's 1 is the same for a me-parity and for a number crossed past 17: the nand to the side is the difference.
+sv = [True] * (SEAM + 1); sv[0] = sv[1] = False
+for k in range(2, isqrt(SEAM) + 1):
+    if sv[k]:
+        sv[k * k::k] = [False] * len(sv[k * k::k])
+mes = [r for r in skeleton if r > 1 and sv[r]]
+crossed_past_17 = [r for r in skeleton if r > 1 and not sv[r]]
+say("the 1 to 17 block gives 1 at %s places a seam: at 1, at %s me-parities, and at %s numbers crossed by loops past 17, the least %d, 19 by 19"
+    % (f"{len(skeleton):,}", f"{len(mes):,}", f"{len(crossed_past_17):,}", crossed_past_17[0]),
+    1 + len(mes) + len(crossed_past_17) == len(skeleton) and crossed_past_17[0] == 361)
 print("All is." if all(results) else "A line is-not.")

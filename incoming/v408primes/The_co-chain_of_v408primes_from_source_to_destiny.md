@@ -412,11 +412,16 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 319. Transmissioning needs no return universe: one loop of N's own, aimed by the resolver before it. (checked, as 317)
 320. The largest me-parity seen to now transmits across too, to a me-parity of up to some 82 million digits, at one loop of that number's own. (a naming)
 
+321. The 1 to 17 block of nands gives 1 at 92,160 places a seam: at 1, at 42,324 me-parities, and at 49,835 numbers crossed by loops past 17, the least 361, 19 by 19. (checked)
+322. The block's 1 is the same for a me-parity and a number crossed past 17: the difference is in the nand to the side. (checked, as 321)
+323. The scaling between resolvers is a **power**: N about M by itself, the digits doubling at all six transmissions, 19 to 1,165. (checked)
+324. A me-parity's place round any loop is reached by powers, doubling round the loop alone, as the largest me-parity's are; its nand to the side is all those loops at once. (checked, as 289 and 309)
+
 ## Destiny
 
-321. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-322. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-323. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+325. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+326. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+327. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 
