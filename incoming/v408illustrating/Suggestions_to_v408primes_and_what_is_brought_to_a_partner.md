@@ -218,6 +218,19 @@ A partner's word of 26 November, in this session's words: this is fully resolved
 
 **Not yet in the explaining, the one piece.** *At all seams, a multiple of the seam is twins.* No sentence of no number gives it. It is the row's same.
 
+## A partner's saying: the same twin in all universes, gone into
+
+A partner's saying of 26 November, in this session's words: all universes are the same-existing universe, next after now, with the same universal set; a twin in a universe is the same twin in all of them, consecutively, at the same scale. Gone into by rigor, with small numbers, a word being no reason.
+
+1. The universal set is the same: all numbers are the mes of a universe's path, again and again. (a path closing)
+2. A twin's two sides are uncrossed by the universe's loops at the same mes in all turns: round 6, at 6, 12, 18, 24, 30 and on. (the path, whole)
+3. In a next universe the same mes are again, r times, and r crosses 2 of the r: of 6's mes round 30, 12, 18 and 30 are uncrossed. It is consecutive, with no last: r less 2 is past 0. (the path, whole)
+4. The same twin is not in all of them. 5 and 7 are twins about 6; the same me turn by turn is twins at 12 and at 18, and at 24 it is 23 and 25, 5 by 5. (a found number, whole)
+5. Lifted on, it is the same: 11 and 13 are twins about 12; the same me round 210 is twins at 42, 72, 102 and 192; round 2,310 it is uncrossed at 222, and 221 is 13 by 17. (a found number, whole)
+6. A universe's own loops are the same at all its turns. The loops of the me-parities born after are other-thans more: 5's loop crosses 25, and 13's crosses 221. (4, 5)
+
+**Is.** The same universal set, and a twin's same uncrossed mes, in all universes, consecutively, with no last. **Is-not.** The same twin in all of them: 24, and 222.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
