@@ -31,11 +31,11 @@ s, over = [], []
 def word(x, y, w, h, t, size=12, weight=400, color=INK, align="left", lh=None):
     return (f'<div style="position: absolute; left: {x:.0f}px; top: {y:.0f}px; width: {w:.0f}px; height: {h:.0f}px; line-height: {lh or h}px; overflow: hidden; '
             f'text-align: {align}; {SANS}; font-weight: {weight}; font-size: {size}px; color: {color}">{t}</div>')
-LX, LW, LH, MX, MW, MH, RX, RW, RH = 60, 300, 28, 470, 520, 40, 1110, 350, 46
-ly = {l: 254 + 36 * i for i, l in enumerate(others)}
-my = {r["Drawing"]: 250 + 43 * i for i, r in enumerate(drawn)}
+LX, LW, LH, MX, MW, MH, RX, RW, RH = 60, 300, 28, 470, 520, 43, 1110, 350, 46
+ly = {l: 134 + 36 * i for i, l in enumerate(others)}
+my = {r["Drawing"]: 130 + 46 * i for i, r in enumerate(drawn)}
 brackets = 0
-ry = {r["Its name"]: 254 + 64 * i for i, r in enumerate(ahead)}
+ry = {r["Its name"]: 134 + 64 * i for i, r in enumerate(ahead)}
 for l, y in ly.items():
     s.append(f'<rect x="{LX}" y="{y}" width="{LW}" height="{LH}" rx="6" fill="{TINT}" stroke="{RAY}" stroke-width="1"></rect>')
     over.append(word(LX + 12, y, LW - 20, LH, E.escape(l), 12.5, 600))
@@ -52,11 +52,11 @@ for r in drawn:
 for r in drawn:
     n, y = r["Drawing"], my[r["Drawing"]]
     s.append(f'<rect x="{MX}" y="{y}" width="{MW}" height="{MH}" rx="8" fill="#ffffff" stroke="{INK}" stroke-width="1.6"></rect>')
-    over.append(word(MX + 16, y, 60, 40, n, 24, 600, "{{accent}}"))
-    over.append(word(MX + 86, y, MW - 100, 15, E.escape(r["Its name"]), 12, 600, lh=15))
-    over.append(word(MX + 86, y + 13, MW - 230, 14, "its view · " + E.escape(r["Its view"]), 11.5, 400, GREY))
-    if parts(r["Its prior"]): over.append(word(MX + MW - 134, y + 13, 120, 14, "its prior · " + ", ".join(parts(r["Its prior"])), 11.5, 600, INK, "right"))
-    over.append(word(MX + 86, y + 26, MW - 100, 14, "it is for · " + E.escape(r["It is for"]), 11.5, 400, GREY))
+    over.append(word(MX + 16, y + 1, 60, 40, n, 24, 600, "{{accent}}"))
+    over.append(word(MX + 86, y + 1, MW - 100, 15, E.escape(r["Its name"]), 12, 600, lh=15))
+    over.append(word(MX + 86, y + 15, MW - 230, 14, "its view · " + E.escape(r["Its view"]), 11.5, 400, GREY))
+    if parts(r["Its prior"]): over.append(word(MX + MW - 154, y + 15, 140, 14, "its prior · " + ", ".join(parts(r["Its prior"])), 11.5, 600, INK, "right"))
+    over.append(word(MX + 86, y + 28, MW - 100, 14, "it is for · " + E.escape(r["It is for"]), 11.5, 400, GREY))
 for r in ahead:
     y = ry[r["Its name"]]
     s.append(f'<rect x="{RX}" y="{y}" width="{RW}" height="{RH}" rx="6" fill="#ffffff" stroke="{FAINT}" stroke-width="1.3" stroke-dasharray="5 4"></rect>')
@@ -73,11 +73,9 @@ ARIA = ("A drawing with no moving part. Three columns of boxes with words: tinte
 svg = (f'<svg role="img" aria-label="{ARIA}" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
        f'style="position: absolute; left: 0px; top: 0px; width: {W}px; height: {H}px">' + "".join(s) + "</svg>").replace(ACC, "{{accent}}")
 head = [word(60, 29, 1400, 22, "44 · the set's own map · it is for the set's table, a drawing a row · its prior, " + ", ".join(parts(own["Its prior"])) + " · made again with a row more", 15, 600, GREY)]
-for i, t in enumerate(("A drawing is a row of one table.", "Its label is its number, its name, its view and what it is for.", "Its relations are four: its prior, its other-prior, its now and its next.")):
-    head.append(word(60, 74 + 34 * i, 900, 30, t, 20, 600))
-head.append(word(LX, 210, LW, 22, "its other-prior", 17, 600)); head.append(word(LX, 230, LW + 60, 18, "an other session's drawing or page it rests on", 12, 400, GREY))
-head.append(word(MX, 210, MW, 22, "the set, now", 17, 600)); head.append(word(MX, 230, MW, 18, "its prior, in a card's own words · an accent bracket, beside it now", 12, 400, GREY))
-head.append(word(RX, 210, RW, 22, "its next, ahead", 17, 600)); head.append(word(RX, 230, RW, 18, "a dashed line to a drawing planned", 12, 400, GREY))
+head.append(word(LX, 90, LW, 22, "its other-prior", 17, 600)); head.append(word(LX, 110, LW + 60, 18, "an other session's drawing or page it rests on", 12, 400, GREY))
+head.append(word(MX, 90, MW, 22, "the set, now", 17, 600)); head.append(word(MX, 110, MW, 18, "its prior, in a card's own words · an accent bracket, beside it now", 12, 400, GREY))
+head.append(word(RX, 90, RW, 22, "its next, ahead", 17, 600)); head.append(word(RX, 110, RW, 18, "a dashed line to a drawing planned", 12, 400, GREY))
 foot = [word(60, 902, 1400, 20, "● a next and a prior are one relation, said both ways · beside is said both ways · a drawing with no row, or a relation naming nothing, is a bump of the set's instrument", 13.5, 600)]
 title = (f'<div style="position: absolute; left: 60px; top: 938px; width: {W - 120}px; text-align: center; '
          f'{SANS}; font-weight: 600; font-size: 30px; line-height: 38px; color: {INK}">The set: a drawing with its prior, its other-prior, its now and its next</div>')
