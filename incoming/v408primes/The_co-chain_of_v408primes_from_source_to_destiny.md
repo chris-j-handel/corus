@@ -417,12 +417,22 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 323. The scaling between resolvers is a **power**: N about M by itself, the digits doubling at all six transmissions, 19 to 1,165. (checked)
 324. A me-parity's place round any loop is reached by powers, doubling round the loop alone, as the largest me-parity's are; its nand to the side is all those loops at once. (checked, as 289 and 309)
 
+## Bi-foldings across the quarter turns
+
+325. About a between a, two co-possiblings a − b and a + b multiplied are a's me again less b's me again: a **bi-folding**. (checked)
+326. 360 is 18 by 20, the co-possiblings of 19 multiplied, and 361 across is 19's me again. (checked)
+327. 359 and 361 are **across from one another** about 360: 361 folds about its between 19, and 359 only at its far end, 180 and 179. (checked)
+328. An odd number is a me-parity at its one folding at its far end, and crossed at a folding about a nearer between. (checked, odd numbers to 20,000)
+329. About the quarter turns 90, 180, 270, 360 and 450, across from one another: 89 and 91, 7 by 13; 179 and 181, twins; 269 and 271, twins; 359 and 361, 19 by 19; 449 and 451, 11 by 41. (checked)
+330. 440 is 20 by 22, the co-possiblings of 21 multiplied, and 439 across is a me-parity. (checked)
+331. Seeing a me-parity by folding folds all betweens from its side to its far end: 359 by 163 foldings, by crossing by 7 loops. (checked)
+
 ## Destiny
 
-325. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-326. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-327. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+332. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+333. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+334. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 
-The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`, `rescaling_a_universe_to_1_to_17.py`, `the_return_universe_traveled_further.py`, `transmissioning_across_resolver_to_resolver.py`.
+The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`, `rescaling_a_universe_to_1_to_17.py`, `the_return_universe_traveled_further.py`, `transmissioning_across_resolver_to_resolver.py`, `folding_across_the_quarter_turns.py`.
