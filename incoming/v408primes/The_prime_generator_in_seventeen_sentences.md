@@ -22,7 +22,7 @@ Incoming · v408primes · 26 November 2026 · a lean draft for a public version,
 16. From any place, a next me-parity: the traveling has no last.
 17. All the primes are generated, endlessly, from 1 to 17.
 
-## Executed
+## Seen, a seeing that proves nothing; its proving is the seventeen sentences co-chaining, cohering, both-both and same
 
 - `instruments/the_1_to_17_fractal_generating_all_primes.py`: the millionth me-parity, 15,485,863, in 1.4 seconds, the same as all numbers crossed by all their parts; going on 20 seconds, 12,300,226 me-parities, to 223,411,843.
 - `instruments/the_generator_as_nands.py`: one gate alone; the 1 to 17 block, 21 nands a place, finds the 92,160 places of the skeleton; the same block again at the me-parities past 17, aimed from their own me agains, generates all 17,984 me-parities to 200,000.

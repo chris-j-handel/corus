@@ -4,6 +4,8 @@ Incoming · v408primes · 25 November 2026, now
 
 **v408primes is the Prime Numbering session, opened by a partner on 25 November to name and explain the method of resolving the places of all the prime numbers on a surface, for a report to the public.** A partner's bounding of the work: no other work and no other discovering, the existing understanding of the Riemann hard problem the one beside it; one sentence one concept; only is coheres; nothing quoted as a source; all sentences co-chaining from source to destiny.
 
+**All proving is logical co-chaining and cohering, by four requirements: co-chaining, cohering, both-both and same.** No other method discovers or proves. The instruments look at numbers and prove nothing; a sentence's standing *seen* says its numbers were looked at.
+
 ## Its value, a thing at its place
 
 - **The co-chain, from source to destiny,** `The_co-chain_of_v408primes_from_source_to_destiny.md`: 352 sentences, a sentence one concept with its standing, checked or a naming, from *Now is the existing moment.* to natural intelligence and hard-problem resolving. Its parts: source; numbering; primes; the places of the primes, the torus of two primes and two primes seen from one another's sides; crossings; resolver to resolver; across and along, the me's; the hard problem; natural networking; seeings, roots and doublings; learning a prime, the between moved; societies of me-parities; destiny.
@@ -12,7 +14,7 @@ Incoming · v408primes · 25 November 2026, now
 - **Instruments,** `instruments/`, 42, whole numbers, all ending is. Executed from the set's root as `python3 -I incoming/v408primes/instruments/<name>.py`.
 - **For illustrating,** `for_illustrating/the_six_and_the_ten_round_30.csv`: all numbers round 30 with its place round 6, its place round 10, uncrossed or not, a prime or not, and its podal: the six other-than-other-thans locating and the ten other-thans forming, for v408illustrating. Laid again by `python3 -I incoming/v408primes/instruments/ten_other_thans_and_six_other_than_other_thans.py --write incoming/v408primes/for_illustrating`; given the set's root alone, it writes nothing.
 - **For other living homes,** `For_other_living_homes_from_v408primes.md`: DNA and RNA, mating to birthing, for Natural Biology; the far object and the light-year, for Natural Physics.
-- **Its transcript, pared,** `The_transcript_of_v408primes_pared.md`: a partner's 64 sayings word for word, and a partner's method of speaking as this session learned it.
+- **Its transcript, pared,** `The_transcript_of_v408primes_pared.md`: a partner's 67 sayings word for word, and a partner's method of speaking as this session learned it.
 
 ## An is of both, 25 November
 
