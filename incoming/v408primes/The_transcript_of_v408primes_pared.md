@@ -56,6 +56,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 48. *possible is a relational in a universe. we use possible to be is-or-is-not? there any method of this prior- now- next- and same-existing in the named universe. possible depends on the universe and if something is excluded from the universe it is not possible in the universe. yes continue*
 49. *Adding, thinning and the smooth curve are excluded, nothing is excluded*
 50. *apart is not natural naming. this looks like alternating sequencing along and across and how the podaling spans get wider and longer with adding pairs of selves to the co-chainings*
+51. *there are no distances in nature. this is all nand logic. all other-thans as parities. the is or is nots each time are entirely answerable inside 1-17 and you are only asking me idle questions you already can answer*
 
 ## 2 A partner's method of speaking, as this session learned it
 
@@ -67,6 +68,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 - **All sentences co-chain from source to destiny.**
 - **A word with no owner me is lost.** A parity is a me's: a me-parity, or all-parity, a my universe's.
 - **Any number begins a resolving.** The universe of that number is its proving; *for every number* is an equilibria fixing.
+- **No distances: selves.** All is nand logic, all other-thans as parities. An is-or-is-not is answered in 1 to 17 by the session, not asked of a partner.
 - **Resolved is one asking.** Is any more competency possible in its universe than we are offering; possible is a method, prior, now, next or same-existing, in the named universe, and what is excluded from the universe is not possible in it; nothing is excluded.
 - **The resolved are ours to number.** The table's standings are by resolving; the field's words beside a row name it, and number nothing.
 - **The surface is one.** No next surface: along goes on, on it.

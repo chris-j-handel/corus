@@ -23,6 +23,28 @@ def say(sentence, ok):
     results.append(ok)
     print(("is     " if ok else "is-not ") + sentence)
 
+# In 1 to 17: odd and even along, the podaling spans, and the side; across, a number's parts' parities other-than one
+# another by nand at all numbers but the me agains.
+def odd_across(n):
+    k, q = 0, 2
+    while q * q <= n:
+        while n % q == 0:
+            n //= q; k += 1
+        q += 1
+    return (k + (1 if n > 1 else 0)) % 2
+along17, a = [], 0
+for n in range(1, 18):
+    a += 1 if (n > 1 and odd_across(n)) else -1
+    along17.append(a)
+alike17 = [n for n in range(2, 18) if along17[n - 1] == 0]
+spans17 = [(x, y, y - x, max(abs(v) for v in along17[x:y - 1]) if y - x > 1 else 0) for x, y in zip(alike17, alike17[1:])]
+say("in 1 to 17, odd and even along are alike at %s: spans (from, to, selves, widest) %s, none past the side, at the side at %s"
+    % (alike17, spans17, [n for n in range(1, 18) if abs(along17[n - 1]) == isqrt(n)]),
+    alike17 == [2, 4, 6, 10, 16] and all(abs(along17[n - 1]) <= isqrt(n) for n in range(1, 18)))
+nand_ok = all(sum((-1 if odd_across(d) else 1) for d in range(1, n + 1) if n % d == 0) == (1 if isqrt(n) ** 2 == n else 0) for n in range(1, 10001))
+side_ok = all(sum((-1 if odd_across(d) else 1) * (N // d) for d in range(1, N + 1)) == isqrt(N) for N in range(1, 18))
+say("across, a number's parts' parities other-than one another to nothing at all numbers to 10,000 but the me agains; at all seams odd and even make the side, in 1 to 17", nand_ok and side_ok)
+
 S = 1 << 23
 carry = 0                       # odd less even along, before the segment: the lead's other-than, -L
 even_ahead_at = None            # the first number past 2 where even is ahead
