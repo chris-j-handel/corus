@@ -80,6 +80,10 @@ A partner's word of 25 November: a direction is a drawing's word and none of nat
 
 A partner's word of 25 November, after the 47th drawing, in this session's words: the one opens at zero's second moment, the even moment alone is of the bi-coupling, and zero's odd moment is the all-parity vault, in the me. Rigorized in the page of a number round a prime, its instrument seven lines, all *is*: a path is two co-chains, the nows of the even moments by the opening's nows alone and the nows of the odd moments by the opening's priors alone; at the opening the odd one is in the mes, their priors. The all-parity vault is a naming. Found against the 47th: zero's odd moment is on no row of it; it is as it was, and a drawing ahead lays it.
 
+## A partner's saying of the vault
+
+A partner's word of 25 November, in this session's words: the vault is an all-parity universe, the all-parity outside the bi-coupling's me, and in it are inherited prior co-chaining sequencings, a stable form, and ingestings of them. Rigorized in the page of a number round a prime, its instrument six lines, all *is*: the lean line's two sentences are inheriting and ingesting; a me's prior, moment by moment, is the opening's parities of the mes back of it, the me k back with k other-thans; in 2p moments it is with all the path's parities; and it is again with 4p. Its is-not: no parity is of the vault's own making, and a birth from a vault is not executed by the lean line.
+
 ## Its placings, no execution says them
 
 - The 40th: the hand of the turn on the page, with the closings at the top; a step's distance from the 1 by its number among the steps, and by no size of its prime.
