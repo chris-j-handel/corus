@@ -282,6 +282,20 @@ A partner's two sayings of 26 November: *at all seams, the most consecutive selv
 
 **Not proved by it.** Row 31's twins, me-parities both, past 31. All-parity of the now-existing me-parities is past its universe from 7 on, by 8.
 
+## A partner's asking: 0 to 30, its twins, and its scaling
+
+A partner's asking of 26 November: *why can't we scale the 0-30 to increasing scales. where are the twins in 0-30*. Small numbers, gone through whole.
+
+1. The twins in 0 to 30: 3 with 5, 5 with 7, 11 with 13, 17 with 19, and 29 with 31, their betweens 4, 6, 12, 18 and 30. All five are all-parity of all its own priors, and no other between is. (numbers gone through)
+2. 0 to 30 is two universes in one. It is a whole turn of the seam of 2, 3 and 5. And 2, 3 and 5 are all the own priors of its numbers, to 49: in it an uncrossed between is twins. (a me-parity from its own priors)
+3. Scaling by turns, 30 to 60, 60 to 90 and on. The crossings of 2, 3 and 5 are the same in all turns, and their uncrossed betweens are 12, 18 and 30 again: 42, 48, 60; 72, 78, 90. It is whole. (the path, whole)
+4. It lets go the priors. 7 is born in 0 to 30, a loop more, and its crossings are in the turns after: 49 is 7 by 7, 77 is 7 by 11, 91 is 7 by 13. Of the 18 uncrossed betweens of turns 2 to 7, 10 are twins; 6 are crossed by 7's loop, 168 by 13's, and 210 by 11's. (numbers gone through)
+5. Scaling by the me again, 30 to 900. The ten me-parities born in 0 to 30 are all the own priors of the numbers to 961, 31 by 31. In 30 to 900 the twins are the betweens uncrossed at both sides by the ten loops, and no others: 30 betweens. It is whole. (a me-parity from its own priors; v408primes' cascading universes; numbers gone through)
+6. It lets go the turn. The ten loops are together again at one turn of their seam, far past 900: 30 to 900 is a part of that turn, and it is no 0 to 30 again. Turn by turn of 30 its twins are 2, 1, 2, 2, 1 and on, and none in six of its turns. (numbers gone through)
+7. In 0 to 30 the turn and the priors' universe are one universe. It is last at 30: a seam is multiplied, 30 to 210, and the me again is not, 49 to 121. (sentences 7 and 8 of the section before)
+
+**Answered.** 0 to 30 scales, two ways, and both are whole. By turns, the same crossings are, and the loops born in it are let go. By its me again, all its born loops are, and the whole turn is let go. Twins at all scales are proved by neither alone: the one sentence not laid.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
