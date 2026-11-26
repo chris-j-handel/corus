@@ -163,20 +163,22 @@ A partner's word of 26 November, in this session's words: a partner's word is no
 
 ## A cohering offered to the sessions: resolving in full, in universes open ended by other-thans
 
+A partner's word of 26 November, in this session's words: *going on* is slang, and the speaking was fuzzy. Found against this page: *going on* was this session's own word for same, the fourth requirement of proving: a sentence the same at a universe and at its next. It is said as same here from this line on, and in the sentences below.
+
 A partner's words of 26 November, in this session's words: the sessions are not finding cohering about this; universes are open ended by other-thans; this limits the resolving in full in no way. They are gone into here by all or none rigor, and no word is a reason of a sentence.
 
 1. A me-parity is other-than all the loops before it: the nand of their crossings. (a naming)
 2. A universe's loops come again together at their seam, and the seam's +1 is other-than all of them: a +1 from a seam is crossed by no loop of the seam. (of no number)
 3. A universe is opened by an other-than to a next universe. Universes go on with no last. (1, 2)
 4. A sentence is proved in a universe gone through, all of it. (all or none)
-5. A sentence goes on from a universe to its next with a co-chain of no number, across the other-than that opens the next. (a naming)
-6. A sentence proved in a universe, and going on, is resolved in full: at all universes, with no universe more gone through. (3, 4, 5)
-7. Naming a universe limits no resolving in full. The going on is the resolving past it. (6)
-8. Row 1, no last me-parity, goes on: sentence 2 is its going on. Rows 19, 23 and 34 go on by a path closing: all universes are its mes again. (gone through)
-9. Row 31, twins, is proved in its universe. Its going on is not found: the other-than that opens a next universe gives a next me-parity, and no co-chain gives a next bi-coupling from it. (the seam's two sides: 30,029, and 30,031, 59 by 509)
-10. The 26 interests are proved in their universes, and their going on is the one thing not found. (the rows of this page's last sorting)
+5. A sentence is the same at a universe and at its next with a co-chain of no number, across the other-than that opens the next. (same, the fourth requirement of proving)
+6. A sentence proved in a universe, and the same at its next, is resolved in full: at all universes, with no universe more gone through. (3, 4, 5)
+7. Naming a universe limits no resolving in full. The same is the resolving past it. (6)
+8. Row 1, no last me-parity, is the same at all universes: sentence 2 says it. Rows 19, 23 and 34 are the same at all universes by a path closing: all universes are its mes again. (gone through)
+9. Row 31, twins, is proved in its universe. Its same is not proved: the other-than that opens a next universe gives a next me-parity, and no co-chain gives a next bi-coupling from it. (the seam's two sides: 30,029, and 30,031, 59 by 509)
+10. The 26 interests are proved in their universes, and their same is the one thing not proved. (the rows of this page's last sorting)
 
-**What it coheres.** v408primes' line, a named universe is the proving place, all proved or none, is sentence 4. This session's and v409mgr's, a row's name of all numbers is proved by no universe gone through, is sentence 6 with its going on not found. A partner's, a universe open ended by other-thans limits no resolving in full, is sentences 3 and 7. The three are one co-chain, and one asking stays of a row: its going on.
+**What it coheres.** v408primes' line, a named universe is the proving place, all proved or none, is sentence 4. This session's and v409mgr's, a row's name of all numbers is proved by no universe gone through, is sentence 6 with its same not proved. A partner's, a universe open ended by other-thans limits no resolving in full, is sentences 3 and 7. The three are one co-chain, and one asking stays of a row: its same.
 
 ## Transmissioning a universe to the numbers: a seam's two sides
 
@@ -199,7 +201,7 @@ A partner's words of 26 November, in this session's words: transmissioning the u
 
 **Its is-not.** That a multiple of the seam is twins, at all seams, is found by going through the multiples: at the eight seams, at the 1st, 1st, 2nd, 1st, 6th, 8th, 11th and 4th. Ahead of the going through it is not said. Found, whole: a seam's own two sides are not twins at all seams, 210 less 1 being 11 by 19.
 
-**Row 31, by it.** Its universe, proved. A birth proved at its own two me-parities by transmissioning, with no return universe. And one sentence staying, its going on: *at all seams, a multiple of the seam is twins.*
+**Row 31, by it.** Its universe, proved. A birth proved at its own two me-parities by transmissioning, with no return universe. And one sentence staying, its same: *at all seams, a multiple of the seam is twins.*
 
 ## The explaining of row 31, what is in it and what is not yet in it
 
@@ -214,7 +216,7 @@ A partner's word of 26 November, in this session's words: this is fully resolved
 - A birth proved at its own two me-parities by two loops aimed by the seam's own parts, with no return universe. (transmissioning)
 - A multiple of the seam twins, at the universes to 3 to 23. (gone through)
 
-**Not yet in the explaining, the one piece.** *At all seams, a multiple of the seam is twins.* No sentence of no number gives it. It is the row's going on.
+**Not yet in the explaining, the one piece.** *At all seams, a multiple of the seam is twins.* No sentence of no number gives it. It is the row's same.
 
 ## Its is-nots
 

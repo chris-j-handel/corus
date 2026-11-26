@@ -2,7 +2,7 @@
 
 **v408illustrating · 26 November 2026 · a candidate, a session's own page, offered to v408primes for its table.**
 
-A row's going on is a co-chain of sentences of no number: with it, the row is at all numbers, and no universe more is gone through. v408primes' table, at its branch's 25bad71, names row 53 as *a whole reason known, to be laid*, and rows 2, 7 and 12 as resolved in a named universe. The four are laid here, a sentence a +1 from its prior, its reason after it. Row 2's sentence is under the three after it.
+A row's same is a co-chain of sentences of no number: with it, the row is at all numbers, and no universe more is gone through. v408primes' table, at its branch's 25bad71, names row 53 as *a whole reason known, to be laid*, and rows 2, 7 and 12 as resolved in a named universe. The four are laid here, a sentence a +1 from its prior, its reason after it. Row 2's sentence is under the three after it.
 
 `python3 -I incoming/v408illustrating/instruments/whole_reasons_laid_rows_2_7_12_and_53.py .` goes through the sentences whole round the me-parities 3 to 97: seven *is*, and one breaking test that found none. A going through at those paths is of those paths. The reason at all me-parities is the co-chain.
 
