@@ -61,7 +61,7 @@ for n in range(3, N):
 say(38, "the widest distance from a me-parity to its next below 4,000,000 is %d, after %d; at all me-parities, the distance less 1, by itself, is short of 4 times the me-parity" % (widest, at), ok)
 say(38, "at all me-parities below 4,000,000, the next me-parity's side is the prior's side or its +1", sides_ok)
 
-# Row 39. Me-parities and their next no more than 246 apart are more at a next span by 4, stepped.
+# Row 39. Neighbouring me-parities 2 to 246 apart are more at a next span by 4, stepped.
 spans = []
 for k in range(3, 12):
     lo, hi = 4 ** (k - 1), 4 ** k
@@ -72,7 +72,7 @@ for k in range(3, 12):
                 c += 1
             last = n
     spans.append(c)
-say(39, "me-parities with their next no more than 246 apart, span by 4, 16 to 4,000,000: %s, more at a next span" % spans, all(b > a for a, b in zip(spans, spans[1:])))
+say(39, "neighbouring me-parities 2 to 246 apart, span by 4, 16 to 4,000,000: %s, more at a next span" % spans, all(b > a for a, b in zip(spans, spans[1:])))
 
 # Row 27. A row of k me-parities equally d apart is uncrossed round all seams only with d a seam of all primes to k, unless the
 # row holds such a prime itself: 3, 5, 7; 5, 11, 17, 23, 29; and 199 + 210 n, ten.

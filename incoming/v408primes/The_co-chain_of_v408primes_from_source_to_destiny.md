@@ -199,7 +199,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 153. The widest distance from a me-parity to its next below 4,000,000 is **148**, after 2,010,733. (checked)
 154. At all me-parities to 4,000,000, the distance to the next, less 1, by itself, is short of 4 times the me-parity. (checked, stepped)
 155. A next me-parity's **side** is its prior's side or its +1, as 119 is. (checked, stepped to 4,000,000)
-156. Me-parities with their next no more than 246 apart are **more** at a next span by 4: 11, 35, 117, on to 201,120 to 4,000,000. (checked, stepped)
+156. Neighbouring me-parities 2 to 246 apart are **more** at a next span by 4: 11, 35, 117, on to 201,120 to 4,000,000. (checked, stepped)
 157. A **row** is me-parities equally apart. (a naming)
 158. A row of k is uncrossed round all seams only with its distance a seam of all primes to k. (checked, k of 3 to 8)
 159. A row with such a prime itself is the one other: 3, 5, 7 and 5, 11, 17, 23, 29. (checked)
@@ -258,12 +258,50 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 200. Born two, twins past 3, 5, 7 are **two**: the next me-parity after a twin is 4 or more on. (checked)
 201. A next universe **births more twins**. (a naming; a next span by 4, checked to 4,000,000, as 163 is)
 
+## More at a next span
+
+202. Round all loops of 3 to 30, the me-parities at all their living places are **more** at a next span by 4. (checked, 256 to 4,194,304)
+203. Me-parities round which doubling passes all places are more at a next span: 3, 6, 14, 44, on to 22,062 to 1,048,576. (checked, stepped)
+204. Me agains' +1 that are me-parities are more at a next span of their sides: 2, 4, 8, 28, on to 11,252 to 262,144. (checked, stepped)
+205. Between a me again and its next, the fewest me-parities are 2 at the sides to 8, then more at a next span: 3, 5, 9, on to 133 at 2,048. (checked)
+206. Between a number and its double, the fewest me-parities are 1 to 16, then more at a next span: 4, 13, 42, on to 20,387 to 1,048,576. (checked)
+207. Societies of three and of four are more at a next span: 0, 2, 6 at 7, 20, 40, 108, 332 and 942. (checked, 256 to 1,048,576)
+208. About a between, the fewest pairs of facing me-parities are 2 from 16 to 256, then more at a next span: 6, 16, 45, on to 1,279 to 1,048,576. (checked)
+209. The widest distance from a me-parity to its next is more at a next span: 4, 6, 14, 20, 34, 44, 72, 86, 114 and 148. (checked, to 4,194,304)
+210. Neighbouring distances of 30 are more beside those of 6 at a next span: the most-met distance goes on toward the next seam. (checked, 1,024 to 4,194,304)
+211. A next universe births **more** of all these, as it births more twins. (a naming)
+212. The twins' parts of one, put together, are twins fixed as a value; released, twins are born more at a next span. (a naming)
+
+## A number's parts
+
+213. A number's me-parity parts, across, come about a **middle number** of parts. (checked)
+214. The middle number of parts is more at a next span: 1.42, 1.71, 2.00, on to 2.99 to 4,194,304. (checked)
+215. In the span to 4,194,304, the numbers by how many parts they have rise to 3 and fall after: a **bell** about the middle. (checked)
+
+## Other worlds of numbers
+
+216. A **curve** round a prime is the places with y's me again at x's cube, a x and b. (a naming)
+217. Round a prime, a curve's places are p + 1 less its **lean**. (checked)
+218. The lean is two **facing roots**, by one another p. (checked)
+219. The facing roots are other-than along: they live at the **side**, the across middle. (checked: the lean by itself short of 4 p, all 19,968 curves round the primes 5 to 61, and three curves to 3,000)
+220. In the curves' world, the hard problem's concern resolves: the roots live at the across middle. (checked, as 219)
+
+## Rules, codes and the record
+
+221. A **rule** of numbers growing along is crossed by its own value at 1, one past that value. (checked, 1,199 rules)
+222. 41's rule, n² + n + 41, is 41 by 41 at 40, and 43, its value at 1, crosses it at 44: 2,021 is 43 by 47. (checked)
+223. A rule growing along is me-parities all through at **none**. (checked, as 221)
+224. A **row** of numbers is one number across, its me-parities' powers. (a naming)
+225. The number opens back to its row one way, as 39 is. (checked, all 1,554 rows of 1 to 4 numbers, 0 to 5)
+226. The largest me-parity seen to now is a **doubling less 1**: 2 by itself 136,279,841 times, less 1. (a naming)
+227. Its number of doublings, 136,279,841, is a me-parity, and it has 41,024,320 digits. (checked)
+
 ## Destiny
 
-202. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-203. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-204. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+228. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+229. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+230. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 
-The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`.
+The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`.

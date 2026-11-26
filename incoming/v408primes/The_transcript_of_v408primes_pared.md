@@ -49,6 +49,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 41. *there is no thinning. never is not natural naming . all next universes is not possibly definable. redo this in direct natural naming and the resolving is inside it*
 42. *what is a next surface. we are not leaving and returning to surface*
 43. *there is no adding in nature. no more is not natural naming. slower is not natural. explain this concern*
+44. *can we make more resolved rows by working on the incoherings or other concerns about resolving the prime numberings*
 
 ## 2 A partner's method of speaking, as this session learned it
 
