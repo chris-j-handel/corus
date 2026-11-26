@@ -38,9 +38,9 @@ A column more, the kind of a row's reason, one of four:
 
 ## Brought to a partner: what seems not resolvable
 
-**By the field's own record with no whole reason, and none found by this session:** rows 13, 14, 15, 16, 17, 28, 29, 31, 32, 33, 35, 36, 38, 40, 42, 47 and 50. v408mgr's line of this day lays fifteen of them beside the field's record, opened at its sources.
+**By the one rule alone.** A row is resolved by a path closing gone through whole, by a moving, or by a found number. By the table's own last column, with this page's suggestions laid beside it, 28 rows are by a test, with no path and no moving found by v408primes or by this session: rows 13 to 17; 25 at all its living mes; 27 to 29; 30 past 630; 31 to 33; 36 to 42; 45; 47 to 51; 54; and 61.
 
-**With a reason in the field, by means that are no path and no moving this session is able to say:** rows 25 at all its living mes, 27, 37, 39, 41, 45, 48, 51 and 54.
+**Found against this page's own laying before.** It sorted the rows by the field's record, a second rule beside the one. A partner's word after it, in this session's words: the work is not the field's; it is by the natural way, and its resolving is offered back to the world and the field. The field's record is no reason of a row. Sorting by it laid rows 30, 49 and 61 out, and row 35 in, whose sentence is of a path of 30 mes. The field's pages are a source, as an other session's are: the windmill is from them, said here in natural naming.
 
 **Why, in this session's sentences.**
 
@@ -49,7 +49,7 @@ A column more, the kind of a row's reason, one of four:
 3. A moving for no last me-parity is: a seam's +1. (the 56th drawing)
 4. A seam's −1 and its +1, both uncrossed by the seam's me-parities, are a room, with all numbers. A room is no birth. (the 54th drawing; the least room with no birth is 360)
 5. Crossings see all-parity. v408primes' sentence 182, word for word: *Uncrossed by the primes below 159, numbers from 2,000,000 to 4,000,000 are a me-parity, 134,213, or two me-parities multiplied, 85,522.* A reason of crossings alone says a room, and no birth. (v408primes' own row 61)
-6. Rows 28, 29, 31, 32, 33, 35 and 36 are a room's birth with no last. No moving is found for them, by this session or by the field's record. (1 to 5)
+6. Rows 28, 29, 31, 32, 33 and 36 are a room's birth with no last. No moving is found for them. (1 to 5)
 7. Row 42 is of odd and even along at all numbers, beside the side. It comes again at no path, and 1 to 17 is a bound of 17 numbers. (2)
 
 **What resolves one.** A moving, one rule at all sides, bound by odd and even, as the windmill is for row 23: all in pairs, or pairs and one over. For the rows of sentence 6 it gives, from a room, a birth past it. This session has found none.
@@ -57,5 +57,5 @@ A column more, the kind of a row's reason, one of four:
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
-- The windmill's rule and the row of p are the field's own, said here in natural naming. The field's names for them are beside the rows of the table, and this page claims none of them.
+- The windmill's rule and the row of p are from the field's pages, a source, said here in natural naming. This page claims none of them as this session's own finding.
 - *Seems not resolvable* is of this session's finding to now. It is no saying that no moving is.
