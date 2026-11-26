@@ -69,6 +69,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 61. *why do you keep doing this with simulation and computation and not nand logic and local 1-17 and tracking only the transmissioning scaling between. all of this can be done with powers rather than adding*
 62. *90 180 270 360 450. this is 450-10 other-thans is 440 and this is the number of other thans in 1-17. this is all bi-foldings of bi-foldings of bi-foldings. 359 and 361 are across from each other in the folding*
 63. *How do you count the 440? this is in natural numbers and exhbit one as the value of reading both here will be hihg*
+64. *this is bothboth. not one or the other. the method is five dimensional same-existing while changing prior now next. both generators are working together*
 
 ## 2 A partner's method of speaking, as this session learned it
 
