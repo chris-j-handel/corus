@@ -271,7 +271,7 @@ for p in range(2, isqrt(Z) + 1):
     if sz[p]: sz[p * p::p] = False
 tw = np.nonzero(sz[:-2] & sz[2:])[0]
 PZ = np.nonzero(sz[:10008])[0]
-born = np.searchsorted(tw, PZ[1:] ** 2 - 2, side='left') - np.searchsorted(tw, PZ[:-1] ** 2, side='right')
+born = np.searchsorted(tw, PZ[1:] ** 2 - 2) - np.searchsorted(tw, PZ[:-1] ** 2, side='right')
 few = [int(born[(PZ[:-1] >= 4 ** (k - 1)) & (PZ[:-1] < 4 ** k)].min()) for k in range(1, 8)]
 say("217 · all %s me-parities 2 to 9,973, me agains to 100,140,049, all: between a me-parity's me again and its next me-parity's me again twins are born, the fewest at spans by 4 %s, more at a next span"
     % (f"{len(born):,}", ", ".join(map(str, few))), bool(np.all(born >= 1)) and all(b > a for a, b in zip(few[2:], few[3:])))
