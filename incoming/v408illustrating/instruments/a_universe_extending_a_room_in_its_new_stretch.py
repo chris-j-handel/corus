@@ -28,6 +28,12 @@ def a_turn(k):
     widest = lambda xs: max(b - a for a, b in zip(xs, xs[1:] + [xs[0] + seam]))
     return dict(r=P[k], q=P[k + 1], seam=seam, living=len(mes), rooms=len(rooms), run=widest(mes), gap=widest(rooms))
 def uncrossed(n, r): return all(n % p for p in P if p <= r)
+def by_the_seam_s_parts(k, n):
+    """The living mes of 1 to n in the universe to P[k], numbered with no number gone through: all n, less a me-parity's
+    crossings, with two me-parities' crossings added again, and on, at all the seam's parts. It gives the number, and how many parts."""
+    parts = [(1, 1)]
+    for p in P[:k + 1]: parts += [(d * p, -s) for d, s in parts]
+    return sum(s * (n // d) for d, s in parts), len(parts)
 def rooms_in_the_new_stretch(k):
     r, q = P[k], P[k + 1]
     return [m for m in range(r * r + 1, q * q - 1) if uncrossed(m - 1, r) and uncrossed(m + 1, r)]
@@ -52,6 +58,14 @@ if __name__ == "__main__":
          all(any(is_me(n - d) and is_me(n + d) for d in range(0, n - 1)) for n in range(2, 265)) and 2 * 264 < 23 * 23)
     results.append(("found, a whole is-not of row 28 at all new stretches: at the universe to 11 the me agains of 11 and of 12, and 1, are 122 and 145, 2 by 61 and 5 by 29: no me-parity one past a me again is in that stretch",
                     not (11 * 11 + 1 == 122 == 2 * 61 and 12 * 12 + 1 == 145 == 5 * 29 and [n for n in range(11, 13) if is_me(n * n + 1)] == [])))
+    openings = [(by_the_seam_s_parts(k, P[k + 1] ** 2 - 1), sum(1 for n in range(1, P[k + 1] ** 2) if uncrossed(n, P[k]))) for k in range(1, 8)]
+    line("a turn's opening numbered by the seam's parts, with no number gone through: at the universes to 3, 5, 7, 11, 13, 17 and 19 the opening's living mes are 8, 13, 27, 35, 56, 66 and 92, 1 and its me-parities, as going through it numbers them; the parts are 4, 8, 16 and on to 256",
+         [a[0] for a, _ in openings] == [8, 13, 27, 35, 56, 66, 92] and all(a[0] == b for a, b in openings) and [a[1] for a, _ in openings] == [4, 8, 16, 32, 64, 128, 256])
+    few = {P[k + 1]: [n for n in range(P[k + 1] ** 2, P[k + 2] ** 2) if n % P[k + 1] == 0 and uncrossed(n, P[k])] for k in range(1, 7)}
+    line("in its own new stretch a universe's last me-parity crosses its me again and itself by a few me-parities, and no more: 5 crosses 25 and 35; 7, 49 to 119, four; 11, 121 and 143; 13, 169, 221 and 247; 17, 289 and 323; 19, 361 and 437",
+         few == {5: [25, 35], 7: [49, 77, 91, 119], 11: [121, 143], 13: [169, 221, 247], 17: [289, 323], 19: [361, 437]})
+    line("row 61, a universe sees a number's me alone: short of the bound of the universe to 13 its living mes past 1 are me-parities, all of them; in the stretch after, 289 to 361, they are me-parities and 289 and 323, 17 by 17 and 17 by 19",
+         all(is_me(n) for n in range(2, 289) if uncrossed(n, 13)) and [n for n in range(289, 361) if uncrossed(n, 13) and not is_me(n)] == [289, 323])
     print("said apart: past the universe to 19 a turn is not gone through here\n")
     for name, ok in results: print(("is       " if ok else "is-not   ") + name + "\n")
     print(f"{sum(ok for _, ok in results)} of {len(results)} are is; {sum(not ok for _, ok in results)} are found is-nots, whole")

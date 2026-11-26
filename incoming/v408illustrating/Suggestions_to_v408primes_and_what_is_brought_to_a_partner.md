@@ -73,7 +73,7 @@ A partner's word of 26 November, in this session's words: nothing in this work i
 
 A partner's saying of 26 November, in this session's words. One thing. A universe extends. In it me-parities find one another in bi-couplings. Traveling to them, it extends to new bi-couplings. It is the same thing at all extendings, in a same-existing prime universe. All sessions work to the one goal, the table all resolved.
 
-`python3 -I incoming/v408illustrating/instruments/a_universe_extending_a_room_in_its_new_stretch.py .` is five *is* and two found is-nots, whole. Its numbers are small: the universes to 19, their turns gone through whole.
+`python3 -I incoming/v408illustrating/instruments/a_universe_extending_a_room_in_its_new_stretch.py .` is eight *is* and two found is-nots, whole. Its numbers are small: the universes to 19, their turns gone through whole.
 
 1. A universe is the me-parities to r, and the path of their seam. To 3: 2 and 3, a path of 6 mes. (a naming)
 2. A universe is whole to its bound, the next me-parity's me again: short of it, a number past 1 uncrossed by the universe is a me-parity. To 3 the bound is 25. (the side)
@@ -96,6 +96,16 @@ A partner's saying of 26 November, in this session's words. One thing. A univers
 **Rows 32 and 33** are shaped as row 31 is, a room's sides other-than: a pair some selves on, or a society. They are not gone through here.
 
 **Brought to a partner, the one sentence of these six rows.** *A room of a turn is in the turn's opening, short of the bound.* A turn's rooms are same-existing, and how many they are. The opening of a turn is the universe's own new stretch, and what is same-existing of a turn's opening is not yet found.
+
+## A turn's opening, gone into
+
+**Whole, and same-existing at all extendings: the opening numbered by the seam's parts.** The living mes of an opening are all its numbers, less a me-parity's crossings, with two me-parities' crossings added again, and on, at all the seam's parts. No number of the opening is gone through. At the universes to 3, 5, 7, 11, 13, 17 and 19 it numbers 8, 13, 27, 35, 56, 66 and 92: 1 and the opening's me-parities, as going through it numbers them. The rooms of an opening are numbered one way, a me-parity past 2 crossing two mes of a room.
+
+**The one sentence, said again by it.** *The numbering of a new stretch's rooms by the seam's parts is past 0, at all extendings.* The numbering is same-existing. That it is past 0 is not yet: the seam's parts are 4, 8, 16 and on, twice as many at an extending, and the opening's numbers are 24, 48, 120, 168, 288, 360, 528; a part's crossings are whole, and what a part lets go short of a crossing more is not same-existing.
+
+**Whole: a universe's last me-parity in its own new stretch.** It crosses its me again, and itself by a few me-parities, and no more: 5 crosses 25 and 35; 7, 49, 77, 91 and 119; 11, 121 and 143; 13, 169, 221 and 247; 17, 289 and 323; 19, 361 and 437.
+
+**Row 61, whole in the frame.** A universe sees a number's me alone: two numbers at one me of its path are one to its crossings. Short of its bound a living me past 1 is a me-parity. In the stretch after, a living me is a me-parity, or me-parities past the universe multiplied: to 13, 289 and 323.
 
 ## Its is-nots
 
