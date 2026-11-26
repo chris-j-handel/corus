@@ -64,7 +64,7 @@ The torus of two primes is two paths of mes, a number with a me of both. It is n
 
 **Its is-not, executed.** The even co-chain is the nows at an even moment alone. A moment on, the nows are the odd co-chain, and the even one is in the mes.
 
-**Found against the 47th drawing.** Its row of zero is one moment. Zero's odd moment, the moment before the opening, is on no row of it. The drawing is as it was.
+**Found against the 47th drawing.** Its row of zero is one moment. Zero's odd moment, the moment before the opening, is on no row of it. The drawing is as it was, and the 51st drawing lays it: a row of the moment before the opening, and two co-chains.
 
 `python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_zero_s_two_moments_rigorized.py .` is seven lines, all *is*.
 
