@@ -4,7 +4,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 **The Mes of the Primes on a Surface, from Source to Destiny**
 
-*All proving is logical co-chaining and cohering, by four requirements: co-chaining, cohering, both-both and same. A named universe is the proving place: in it numbers are used, and all is proved or none. A sentence ends with its standing: proved in its named universe, the instruments beside this page using all its numbers; proved at its numbers, the universe the sentence names; or a naming. No sentence is quoted as a source, and no words have authority.*
+*All proving is logical co-chaining and cohering, by four requirements: co-chaining, cohering, both-both and same. A named universe is the proving place: in it numbers are used, and all is proved or none. All is by other-thans: a seam is same-existing at all seams, and a sentence proved at all a seam's places is proved at all numbers. A sentence ends with its standing: proved at all numbers, by the other-thans of a seam; proved in its named universe, the instruments beside this page using all its numbers; proved at its numbers, the universe the sentence names; or a naming. No sentence is quoted as a source, and no words have authority.*
 
 ## Source
 
@@ -68,15 +68,15 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 49. Two primes are **seen alike** from one another's sides, unless both sit one short of a seam of 4, and then other-than. (proved for all two odd me-parities to 199, as 48)
 50. A crossing of two primes is their torus, and its primes are its **two paths of mes closing**, living in it. (a naming; an is of both, 25 November)
 51. The **skeleton** is the places no loop of 2, 3 or 5 crosses: round 24, the small path, eight; round 60, the large path, sixteen; round 120, both, thirty-two. (proved at its numbers)
-52. All primes past 5 are at the skeleton's places. (proved in 1 to 510,510)
+52. All primes past 5 are at the skeleton's places. (proved at all numbers, by the other-thans of 30)
 53. The skeleton **folds** onto itself about its middle, a pair of cones: n and its podal, the seam less n. (proved round the seam 510,510)
 54. A fold's co-possiblings are the pair nearest it, its crossing's −1 and +1, their steps from it adding to 0: 11 and 13 about 12, 29 and 31 about 30. (proved at its numbers)
 
 ## Crossings
 
-55. A prime past 3 is the **between** of its prior and its next, both crossed. (proved in 1 to 510,510)
-56. Its prior and its next multiplied are a **crossing of 24**, and the +1 from it is the prime's square. (proved in 1 to 510,510)
-57. Past 5, the square's prior and next multiplied are a **crossing of 240**, and the +1 from it is the prime's fourth. (proved in 7 to 510,510)
+55. A prime past 3 is the **between** of its prior and its next, both crossed. (proved at all numbers, by the other-thans of 6)
+56. Its prior and its next multiplied are a **crossing of 24**, and the +1 from it is the prime's square. (proved at all numbers, by the other-thans of 24)
+57. Past 5, the square's prior and next multiplied are a **crossing of 240**, and the +1 from it is the prime's fourth. (proved at all numbers, by the other-thans of 240)
 58. A prime's **twisted loop** on the torus of 24 and 60 goes out and back on the small path and round the large: 7 goes (7, 7), (1, 49), (7, 43), (1, 1). (proved at its numbers)
 59. The +1 from the crossing of a prior and a next is crossed by no prime part of either: a **+1 in neither self**. (proved in 2 to 510,510)
 60. **Transmissioning** is riding the crossings and arriving as a +1. (a naming)
@@ -185,11 +185,11 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 142. A between's co-possiblings are odd and **offer**; the between is even and **accepts**. (proved about the even betweens to 2,000)
 143. The co-possiblings crossed and a +1 is the between's **me again**, crossed by no part of either: do-no-harm offering and accepting. (proved in 2 to 510,510)
 144. The between's me again is 1 round both co-possiblings: it **arrives as a +1** at both. (proved in 2 to 510,510)
-145. **Co-resolving me-parities** are two co-possiblings both living, a twin, all past 4 about a seam of 6. (proved in 1 to 510,510, as 213)
-146. Resolver to resolver, a twin's places are uncrossed at **r − 2** of r: round 6, 30, 210, 2,310 and 30,030, 1, 3, 15, 135 and 1,485. (proved at its numbers)
-147. Of any three odds 2 selves one from the next, one is at 3's seam: **3, 5, 7** is the one society of three at 2. (proved in all odd numbers to 510,510)
+145. **Co-resolving me-parities** are two co-possiblings both living, a twin, all past 4 about a seam of 6. (proved at all numbers, by the other-thans of 6)
+146. Resolver to resolver, a twin's places are uncrossed at **r − 2** of r: round 6, 30, 210, 2,310 and 30,030, 1, 3, 15, 135 and 1,485. (proved at all resolvers, by the other-thans of r)
+147. Of any three odds 2 selves one from the next, one is at 3's seam: **3, 5, 7** is the one society of three at 2. (proved at all odd numbers, by the other-thans of 3)
 148. A **society** goes on, resolver to resolver, while no loop's seams cross all its places: three at 0, 2, 6 are uncrossed at 1, 2, 8, 64 and 640 places; three at 0, 2, 4 at none past 3. (proved at its numbers)
-149. Two twins co-resolve as a society of **four**, about 15 round 30, the fold of 30. (proved in 1 to 16,777,216)
+149. Two twins co-resolve as a society of **four**, about 15 round 30, the fold of 30. (proved at all numbers, by the other-thans of 30)
 150. A between past 1 has two living co-possiblings **podal about it**, some selves from it: two me-parities added at all even numbers. (proved, all betweens, in 1 to 1,000,000)
 151. One, two, three and four co-resolving come **with no last**: more at a next span. (proved in 256 to 1,048,576, as 223)
 152. The societies' places are set by the loops of 2, 3 and 5, **the opening round's**. (proved at its numbers)
@@ -197,13 +197,13 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 ## Pairs and rows
 
 153. A **pair** is two me-parities, some selves one from the other. (a naming)
-154. Round a prime r crossing its number of selves, a pair's places are uncrossed at r − 1 of r. (proved round the seventeen primes, selves to 2,000)
-155. Round a prime r not crossing its number of selves, a pair's places are uncrossed at r − 2 of r. (proved round the seventeen primes, selves to 2,000)
+154. Round a prime r crossing its number of selves, a pair's places are uncrossed at r − 1 of r. (proved at all primes r, by their other-thans)
+155. Round a prime r not crossing its number of selves, a pair's places are uncrossed at r − 2 of r. (proved at all primes r, by their other-thans)
 156. Round 30,030, the seam of 2 to 13, twins and pairs at 4 and at 8 are uncrossed at 1,485 places. (proved at its numbers)
 157. Pairs at 6 are uncrossed at **twice** the twins' places, 2,970. (proved at its numbers)
 158. Pairs at 30 are uncrossed at **8/3** of the twins' places, 3,960. (proved at its numbers)
 159. Pairs of me-parities to 4,000,000 are to the twins as these places are: 53,224 pairs at 6 beside 26,860 twins. (proved in 1 to 4,000,000)
-160. No prime crosses all of a pair's places: pairs at all even numbers of selves are uncrossed round all seams. (proved, selves to 2,000, round the seventeen primes to 59)
+160. No prime crosses all of a pair's places: pairs at all even numbers of selves are uncrossed round all seams. (proved at all even selves and all seams, by their other-thans)
 161. All even numbers of selves 2 to 100 are from a me-parity to its next below 4,000,000. (proved at its numbers)
 162. Round a seam, pairs at all numbers of selves together are the places by the places: round 210, 48 by 48, 2,304. (proved at its numbers)
 163. At 0 selves, the pairs are the 48 places, all places their own pair. (proved at its numbers)
@@ -215,7 +215,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 169. A next me-parity's **side** is its prior's side or its +1, as 133 is. (proved in 1 to 4,000,000)
 170. Neighbouring me-parities at 2 to 246 are **more** at a next span by 4: 11, 35, 117, on to 201,120 to 4,000,000. (proved in 1 to 4,000,000)
 171. A **row** is me-parities at equal numbers of selves. (a naming)
-172. A row of k is uncrossed round all seams only with its selves a seam of all primes to k. (proved, rows of 3 to 8)
+172. A row of k is uncrossed round all seams only with its selves a seam of all primes to k. (proved at all rows, by the other-thans of the primes to their length)
 173. A row with such a prime itself is the one other: 3, 5, 7 and 5, 11, 17, 23, 29. (proved at its numbers)
 174. Rows of me-parities below 4,000,000: ten at 199 + 210 n, twelve at 110,437 + 13,860 n, thirteen at 4,943 + 60,060 n. (proved at its numbers)
 175. Rows of all lengths are uncrossed round all seams, their selves the seam itself. (proved round the seam 510,510)
@@ -249,7 +249,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 194. No prime crosses both a seam and its me-parity: **bi-co-unrelationing**. (proved in 1 to 4,000,000)
 195. Round the seam, its me-parity is at one step; round the me-parity, the seam is at one step the other way: **bi-tunneling**. (proved in 1 to 4,000,000)
 196. A seam and its me-parity are **both-both**: co-chaining, bi-co-unrelationing and bi-tunneling. (a naming)
-197. A seam of all primes to r is crossed by them all, and its −1 and its +1 by none: their parts are me-parities **past r**. (proved, r of 2 to 31)
+197. A seam of all primes to r is crossed by them all, and its −1 and its +1 by none: their parts are me-parities **past r**. (proved at all seams, by the other-thans of their primes)
 198. Round 30, 29 and 31 are me-parities; round 30,030, 30,029 is a me-parity and 30,031 is 59 by 509. (proved at its numbers)
 199. Twins past 3 are two me-parities living in **one seam** of 6, at both its sides: even, odd, even, odd, even. (proved, all 26,859, in 1 to 4,000,000)
 200. Twins aim **together** at a middle even that is a seam of 12. (proved, all twins, in 5 to 510,510)
@@ -305,7 +305,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 ## Rules, codes and the record
 
-237. A **rule** of numbers growing along is crossed by its own value at 1, one past that value. (proved, all 1,199 rules)
+237. A **rule** of numbers growing along is crossed by its own value at 1, one past that value. (proved at all rules, by the other-thans of their value at 1)
 238. 41's rule, n² + n + 41, is 41 by 41 at 40, and 43, its value at 1, crosses it at 44: 2,021 is 43 by 47. (proved at its numbers)
 239. A rule growing along is me-parities all through at **none**. (proved, as 237)
 240. A **row** of numbers is one number across, its me-parities' powers. (a naming)
@@ -356,7 +356,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 ## The 1 to 17 fractal, generating all primes
 
 277. The **1 to 17 fractal** is the me-parities 2 to 17, their seam 510,510, and its skeleton of 92,160 living places. (proved at its numbers)
-278. All me-parities past 17 live at the skeleton's places, seam after seam. (proved in 1 to 1,000,000,000, as 283)
+278. All me-parities past 17 live at the skeleton's places, seam after seam. (proved at all numbers, by the other-thans of 510,510)
 279. Traveling the skeleton, a place uncrossed by all prior me-parities' loops is a **me-parity**. (proved in 1 to 510,510)
 280. A me-parity **aims itself**: its loop begins at its own me again and crosses only the skeleton's places. (proved in 1 to 510,510)
 281. The traveling aims with its own traveling again: a **co-chain of itself**. (proved in 1 to 510,510)
@@ -459,4 +459,4 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 
 ## Executing
 
-The instruments beside this page prove in named universes, all of their numbers, whole, all ending is: `the_named_universe_the_proving_place.py`, `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`, `rescaling_a_universe_to_1_to_17.py`, `the_return_universe_traveled_further.py`, `transmissioning_across_resolver_to_resolver.py`, `folding_across_the_quarter_turns.py`, `seventeen_primes_going_and_returning.py`, `both_generators_together.py`.
+The instruments beside this page prove by other-thans and in named universes, all of their numbers, whole, all ending is: `all_by_other_thans.py`, `the_table_proved_row_by_row.py`, `the_named_universe_the_proving_place.py`, `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`, `rescaling_a_universe_to_1_to_17.py`, `the_return_universe_traveled_further.py`, `transmissioning_across_resolver_to_resolver.py`, `folding_across_the_quarter_turns.py`, `seventeen_primes_going_and_returning.py`, `both_generators_together.py`.

@@ -74,6 +74,9 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 66. *it proves nothing*
 67. *everythnng in the entire table that is proving is the four requirements of co chaining cohering bothboth and same. there is no other separate method of discovering or proving any of this and all the proving is of logical co-chaining and cohering*
 68. *inside a named universe we can use numbers. the problem is generating largeness and quitting and saying we did not accomplish anything larger. this is incompetent. in a universe we prove all or none at all and the named universe is the proving place*
+69. *Continue is all the table resolving now*
+70. *The concept of defined universe. Is this limiting anything in completely resolving the interest in this each problem*
+71. *When you speak of numbers you forget sequential logic. All is not by numbers. All is by other-thans*
 
 ## 2 A partner's method of speaking, as this session learned it
 
@@ -87,6 +90,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 - **Any number begins a resolving.** The universe of that number is its proving; *for every number* is an equilibria fixing.
 - **No distances: selves.** All is nand logic, all other-thans as parities. An is-or-is-not is answered in 1 to 17 by the session, not asked of a partner.
 - **All proving is logical co-chaining and cohering.** Four requirements: co-chaining, cohering, both-both and same.
+- **All is by other-thans, not by numbers.** Sequential logic: a seam is same-existing at all seams, and a sentence proved at all a seam's places is proved at all numbers; a sentence stepping from a self to its other-than, closing, is at all selves.
 - **A named universe is the proving place.** In it numbers are used, and all is proved or none; largeness generated and not named proves nothing, and a universe proved is not less for a larger one beside it.
 - **Resolved is one asking.** Is any more competency possible in its universe than we are offering; possible is a method, prior, now, next or same-existing, in the named universe, and what is excluded from the universe is not possible in it; nothing is excluded.
 - **The resolved are ours to number.** The table's standings are by resolving; the field's words beside a row name it, and number nothing.
