@@ -273,7 +273,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 214. Across, the lower twin's loop is two short of the seam, crossed by no 3. (proved, all twins, in 5 to 510,510)
 215. Round 30, twins past 5 are born at three seams, 12, 18 and 0, and ride six separate places, alike: 8,960, 8,945 and 8,953. (proved in 1 to 4,000,000)
 216. Born two, twins past 3, 5, 7 are **two**: the next me-parity after a twin is 4 or more on. (proved, all twins, in 5 to 510,510)
-217. A next universe, from a me-parity's me again to its next me-parity's me again, **births twins**, the fewest more at a next span. (proved in the me-parities 2 to 9,973, as 65 and 177)
+217. A next universe, from a me-parity's me again to its next me-parity's me again, **births twins**, the fewest more at a next span. (proved in all 27,292 universes traveled, the me-parities 2 to 316,219, as 65 and 177)
 
 ## More at a next span
 

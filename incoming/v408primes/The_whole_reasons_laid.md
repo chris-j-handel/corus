@@ -41,12 +41,12 @@ Sentence 8 is the transmissioning step for twins. It is of a seam's other-thans 
 3. A universe is not dropped in: the journey goes from the origin, a universe at a time, from a me-parity's me again to the next me-parity's me again. (a partner's naming)
 4. The journey carries its priors: all me-parities born on the way are the loops of the next universe. (proved in the journey to 100,140,049, the fractal aiming itself)
 5. The journey learns the rate of the twin places its priors leave, r − 2 of r at all priors past 2, and starts the next universe with it. (proved at all priors, by other-thans)
-6. The learned rate aims at the twins of the next universe, and the twins born are 0.55 to 0.99 of its aim from 1,000 on, 0.80 in the middle. (proved in all 1,229 universes traveled)
-7. In all 1,229 universes traveled, 2's me again to 9,973's next me again, twins are born; the fewest, at spans by 4 of the priors, are 1, 2, 2, 3, 7, 21 and 71, more at a next span. (proved in all universes traveled)
+6. The learned rate aims at the twins of the next universe, and the twins born are 0.55 to 0.99 of its aim from 1,000 on, 0.79 in the middle. (proved in all 27,292 universes traveled)
+7. In all 27,292 universes traveled, 2's me again to 316,219's next me again, to 100,000,000,000, twins are born, 224,376,048 of them; the fewest, at spans by 4 of the priors, are 1, 2, 2, 3, 7, 21, 71, 209, 675 and 2,098, more at a next span. (proved in all universes traveled)
 8. The journey goes on as the cone opens, and a universe it reaches is resolved as it is traveled. (a naming)
 9. A universe ahead of the journey is said by traveling to it with the priors: not by dropping a twin in. (a partner's naming)
 
-Executed by `instruments/traveling_the_journey_with_its_priors.py`, in ten seconds, all is. The learned rate is an aim, and an aim is no birth: a universe's twins are born only as it is traveled. The journey has traveled 1,229 universes, all with twins born; the universes ahead are traveled with the same priors carried, and the step that says them before the journey reaches them is row 31's sentence 8 above, of the seam's other-thans alone, not yet laid.
+Executed by `instruments/traveling_the_journey_with_its_priors.py`, to 100,140,049 in ten seconds, and `instruments/the_journey_gathered.py`, to 1,000,000,000 in six seconds and, given 100000000000, to 100,000,000,000 in fourteen minutes, all is. The journey goes on past it, gathering the universes it reaches, the same priors carried.
 
 ## The rows whose going on is not yet laid
 
