@@ -22,7 +22,7 @@ Incoming · v408primes · 25 November 2026 · value found beside the primes, for
 14. A crossing over inverts a copy's origin once at a crossing, and over all crossing patterns the copy ends at the same origin and at the other alike in number, no place between. (checked)
 15. Two partings make the inversioning double, four gametes from one cell. (checked)
 16. Double bi-inversioning passes all combinations in its loop, evenly, and a birth is one place of that loop. (an is of both)
-17. Either parent can be odd: odd offers bi-coupling and even accepts, a half-moment apart, and from the odd all nexts are set by their prior and now. (a partner's naming, an is of both)
+17. Either parent can be odd: odd offers bi-coupling and even accepts, a half-moment of difference, and from the odd all nexts are set by their prior and now. (a partner's naming, an is of both)
 18. A determined stepping can pass a whole loop evenly: a loop of 23 selves, its next at all moments the xor of two priors, passes all 8,388,607 places of 23 binaries but the all-0, its 1s and 0s alike in number but one. (checked)
 19. The paired copies of the nucleus are a mixture of two me-parities, and the mitochondria's copy is one me-parity's line, inherited unmixed. (an is of both)
 

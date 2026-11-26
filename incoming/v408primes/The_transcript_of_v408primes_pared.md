@@ -55,6 +55,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 47. *give an explaining in natural naming and explaining of this . i do not understand the categorization,. all we care about is . is any more competency available than we are offering. if nothing further is possibly adding intelligence to this we are resolved. is this reasonable*
 48. *possible is a relational in a universe. we use possible to be is-or-is-not? there any method of this prior- now- next- and same-existing in the named universe. possible depends on the universe and if something is excluded from the universe it is not possible in the universe. yes continue*
 49. *Adding, thinning and the smooth curve are excluded, nothing is excluded*
+50. *apart is not natural naming. this looks like alternating sequencing along and across and how the podaling spans get wider and longer with adding pairs of selves to the co-chainings*
 
 ## 2 A partner's method of speaking, as this session learned it
 

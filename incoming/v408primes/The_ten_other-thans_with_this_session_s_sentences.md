@@ -51,7 +51,7 @@ A cell with no sentence is the form's own asking.
 - By number, all tens are the one ten, reached by +1 one way. (checked)
 - By form, a loop of ten is the torus of 2 and 5: five places at two faces. (checked)
 - 11's across loop of ten: five podal pairs, n and 11 − n, all pairs one place at both faces, a place a face, its squares 1, 3, 4, 5, 9 and the rest 2, 6, 7, 8, 10. (checked)
-- The ten pairs among five dimensions: the pentagon's five and the pentagram's five, two faces, all pentagon pairs bi-coupling with the one pentagram pair apart from it. (checked)
+- The ten pairs among five dimensions: the pentagon's five and the pentagram's five, two faces, all pentagon pairs bi-coupling with the one pentagram pair other-than it. (checked)
 - The five split by three and two, all ways: 3 pairs in the three, a location; 6 across, the geodesic parities; 1 in the two, a still self. (checked)
 - In all splits, the five bi-couplings are a still self with a location, two locations with a geodesic parity, and two geodesic parities together. (checked)
 - Found by the inversioning: the sort laid before, location at the opening, the middle and the between, bumps, the still self bi-coupling with the completing. (checked)

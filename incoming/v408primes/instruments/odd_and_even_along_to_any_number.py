@@ -29,6 +29,8 @@ even_ahead_at = None            # the first number past 2 where even is ahead
 alike_after_587 = []            # numbers from 587 where odd and even are alike
 widest, widest_at = 0, 0
 race = 0                        # me-parities aiming next less those aiming prior, along: round 4, 3 less 1
+spans = []                      # podaling spans: from alike to alike along, (from, to, its widest)
+span_from, span_wide = None, 0
 prior_ahead_at, changes, last_prior_ahead = None, 0, None
 lo = 1
 while lo <= N:
@@ -59,6 +61,18 @@ while lo <= N:
     z = z[(z + n0) >= 587]
     if len(z) and len(alike_after_587) < 5:
         alike_after_587 += [int(x + n0) for x in z[:5 - len(alike_after_587)]]
+    absv = np.abs(along)
+    zs = np.nonzero(along == 0)[0]
+    zs = zs[(zs + n0) >= 2]
+    prev = 0
+    for zi in zs.tolist():
+        if span_from is not None:
+            if zi > prev:
+                span_wide = max(span_wide, int(absv[prev:zi].max()))
+            spans.append((span_from, zi + n0, span_wide))
+        span_from, span_wide, prev = zi + n0, 0, zi + 1
+    if span_from is not None and prev < len(absv):
+        span_wide = max(span_wide, int(absv[prev:].max()))
     m = int(np.argmax(np.abs(along)))
     if abs(int(along[m])) > abs(widest):
         widest, widest_at = int(along[m]), m + n0
@@ -92,7 +106,14 @@ if N >= 906150257:
     say("even goes ahead past 2 at %s: odd is ahead or alike from 3 to the number before" % (f"{even_ahead_at:,}" if even_ahead_at else "none"),
         even_ahead_at == 906150257)
 say("from 587, odd and even alike along at: %s" % (alike_after_587 or "none"), True)
-say("along to it, odd and even are apart by %s at the most, at %s, whose side is %s" % (f"{abs(widest):,}", f"{widest_at:,}", f"{isqrt(widest_at):,}"), True)
+say("along to it, the widest odd and even reach from alike is %s, at %s, whose side is %s" % (f"{abs(widest):,}", f"{widest_at:,}", f"{isqrt(widest_at):,}"), True)
+say("podaling spans, from alike to alike along, as (from, to, long, widest): %s" % [(a, b, b - a, w) for a, b, w in spans],
+    all(b > a for a, b, w in spans))
+long_wide = [(b - a, w) for a, b, w in spans]
+say("alike only at an even number of selves: all alike numbers are even, the spans made of pairs of selves",
+    all(a % 2 == 0 and b % 2 == 0 for a, b, w in spans))
+say("the long spans, at 490 selves and more, are as wide as the side of their length: %s" % [(L, w, isqrt(L)) for L, w in long_wide if L >= 490],
+    all(isqrt(L) // 2 <= w <= 2 * isqrt(L) for L, w in long_wide if L >= 490))
 say("round 4, the me-parities aiming prior go ahead of those aiming next at %s, and one aim and then the other goes ahead %d times along to %s; the last number with those aiming prior ahead, %s; at the end, those aiming next ahead by %s"
     % (f"{prior_ahead_at:,}" if prior_ahead_at else "none", changes, f"{N:,}", f"{last_prior_ahead:,}" if last_prior_ahead else "none", f"{race:,}"),
     N < 26861 or prior_ahead_at == 26861)
