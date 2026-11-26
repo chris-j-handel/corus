@@ -391,11 +391,17 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 303. At 2^61 − 1, the places 2, 3, 5 and 7 leave are crossed by 11, 13, 37, 727 and 31, and +16 and +22 are its next me-parities. (checked)
 304. Traveling 2, 3, 5 and 7 carries the places; the nand of the loops past 7, to the places' side, is the me-parity among them. (checked, as 299)
 
+305. Going to 17, the loops 2 to 17 leave 19 places on from the largest me-parity to +100: +6, +12, +22, +28, +30, and on. (checked)
+306. Past 17 is the **return universe**: the loops of 19 on, to the places' side. (a naming)
+307. The return universe **bounds the resolving**: a place is a me-parity at the nand of its loops. (checked, as 299)
+308. To 10,000,000, the return universe crosses all those places but +22, +70 and +100 on, and −48, −72 and −90 back. (checked)
+309. The return universe reaches to the places' side, 2 by itself 68,139,920 times and more: its loops are a number of some 20,512,153 digits. (a naming, at the numbers' own rate)
+
 ## Destiny
 
-305. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-306. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-307. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+310. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+311. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+312. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 

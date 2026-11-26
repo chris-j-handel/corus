@@ -69,4 +69,27 @@ for e in (13, 61, 521, 136279841):
         % (f"{e:,}", ", +".join(map(str, places)), ", ".join("+%d %s" % (t, "a me-parity" if q == "itself" else ("by " + f"{q:,}") if q else "by none to 10,000,000") for t, q in shown.items())),
         len(places) > 0)
 
+# Going to 17, then the return universe: the loops 2 to 17 leave the skeleton's places about the largest me-parity; the
+# return universe, the loops of 19 on to the places' side, bounds the resolving among them.
+from math import log10
+E = 136279841
+places_on = [t for t in range(1, 101) if all((pow(2, E, q) - 1 + t) % q for q in (2, 3, 5, 7, 11, 13, 17))]
+places_back = [t for t in range(-100, 0) if all((pow(2, E, q) - 1 + t) % q for q in (2, 3, 5, 7, 11, 13, 17))]
+ret = [q for q in loops if q > 17]
+def return_crosser(t):
+    for q in ret:
+        if (pow(2, E, q) - 1 + t) % q == 0:
+            return q
+    return None
+on = {t: return_crosser(t) for t in places_on}
+back = {t: return_crosser(t) for t in places_back}
+say("going to 17, the places on from the largest me-parity to +100: +%s" % ", +".join(map(str, places_on)), len(places_on) > 0)
+say("the return universe to 10,000,000 crosses them all but %s on from it, and all the places back to −100 but %s"
+    % ([f"+{t}" for t, q in on.items() if q is None], [t for t, q in back.items() if q is None]),
+    [t for t, q in on.items() if q is None][:1] == [22])
+side_doublings = (E - 1) // 2
+digits = int(side_doublings * log10(2) - log10(side_doublings * 0.693147)) + 1
+say("the return universe reaches to the places' side, 2 by itself %s times and more: its loops a number of some %s digits"
+    % (f"{side_doublings:,}", f"{digits:,}"), digits > 20_000_000)
+
 print("All is." if all(results) else "A line is-not.")
