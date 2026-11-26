@@ -69,6 +69,34 @@ A partner's word of 26 November, in this session's words: nothing in this work i
 
 **A suggestion from it, for v408primes.** A row's name and its standing say a sentence together, the two as a pair. *Twins past a number given* is resolved. *Twins with no last* is an asking going on, with a path closing ahead of it.
 
+## The one thing: a universe extending, and a room in its new stretch
+
+A partner's saying of 26 November, in this session's words. One thing. A universe extends. In it me-parities find one another in bi-couplings. Traveling to them, it extends to new bi-couplings. It is the same thing at all extendings, in a same-existing prime universe. All sessions work to the one goal, the table all resolved.
+
+`python3 -I incoming/v408illustrating/instruments/a_universe_extending_a_room_in_its_new_stretch.py .` is five *is* and two found is-nots, whole. Its numbers are small: the universes to 19, their turns gone through whole.
+
+1. A universe is the me-parities to r, and the path of their seam. To 3: 2 and 3, a path of 6 mes. (a naming)
+2. A universe is whole to its bound, the next me-parity's me again: short of it, a number past 1 uncrossed by the universe is a me-parity. To 3 the bound is 25. (the side)
+3. A room is a between with both its sides uncrossed by the universe. (a naming)
+4. Short of the bound, a room is a bi-coupling: two me-parities about a between. (2, 3; executed, the eight universes to 19)
+5. A universe extends by its next me-parity. Extending is the same at all extendings: a room is lifted r times, and r crosses 2 of the r. (a path, whole: 1, 3, 15, 135 rooms a turn)
+6. Rooms go on with no last: of r, r less 2 are rooms, at all r past 2. (5)
+7. An extending is with a new stretch, from its prior bound to its own. To 5: 25 to 49. (a naming)
+8. A room in the new stretch is a new bi-coupling. (4, 7)
+9. New bi-couplings with no last is: a room is in the new stretch, at all extendings. (8)
+
+**Row 31, twins with no last.** By the path alone, the widest from a room to its next is short of the new stretch at the universes to 2, 3, 5, 7, 11, 13 and 19: a new bi-coupling is in the new stretch, with no going through of it. Found, a whole is-not of the path alone: at the universe to 17 the widest from a room to its next is 108, and its new stretch, 289 to 361, is 72. The rooms 312 and 348 are in it, gone through. Sentence 9 is not said by a turn's widest alone: it is of a turn's opening.
+
+**Row 29, a me-parity between a me again and its next.** By the path alone, at all eight universes to 19: the widest from a living me to its next, 2, 4, 6, 10, 14, 22, 26 and 34, is short of the stretch from a me again to its next. A me-parity is between a me again and its next at all me agains of 1 to 22: resolved to 22, by a path. Past the universe to 19 a turn is not gone through here.
+
+**Row 36, two living co-possiblings about all betweens.** The bound of the universe to 19 gone through: about all betweens of 2 to 264, two me-parities face one another. Its sentence past it is shaped as sentence 9 is: about a between, a room is short of the between's own selves.
+
+**Row 28, me-parities one past a me again.** Found, a whole is-not of its sentence at all new stretches: at the universe to 11, 122 is 2 by 61 and 145 is 5 by 29. Its sentence is of new stretches with one, with no last, and of no stretch more.
+
+**Rows 32 and 33** are shaped as row 31 is, a room's sides other-than: a pair some selves on, or a society. They are not gone through here.
+
+**Brought to a partner, the one sentence of these six rows.** *A room of a turn is in the turn's opening, short of the bound.* A turn's rooms are same-existing, and how many they are. The opening of a turn is the universe's own new stretch, and what is same-existing of a turn's opening is not yet found.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
