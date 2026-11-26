@@ -41,18 +41,18 @@ A cell with no sentence is the form's own asking.
 
 - Three pairs of moments: a self's prior and now, an other's prior and now, all prior and now.
 - Other-than at one pair: 3 ways, a location. Other-than at two in sequence: 6 ways, the geodesic parities. Other-than at all three at once: 1, a still self. None: all-parity, same-existing.
-- 3 + 6 + 1 is 10: me-now, other-than, other-than-other-than and all-other-than, of all-parity. (checked)
-- 1, 3 and 6 are the layers of a tetrahedron of ten. (checked)
-- Ten other-thans, by three me-nows, by four moments, are 120, the skeleton's seam of both directions. (checked)
+- 3 + 6 + 1 is 10: me-now, other-than, other-than-other-than and all-other-than, of all-parity. (proved, all, in the universe it names)
+- 1, 3 and 6 are the layers of a tetrahedron of ten. (proved, all, in the universe it names)
+- Ten other-thans, by three me-nows, by four moments, are 120, the skeleton's seam of both directions. (proved, all, in the universe it names)
 - The ten of the table are me-now's ten. (an is of both, 25 November)
 
 ## All tens are the same ten, by local inversioning
 
-- By number, all tens are the one ten, reached by +1 one way. (checked)
-- By form, a loop of ten is the torus of 2 and 5: five places at two faces. (checked)
-- 11's across loop of ten: five podal pairs, n and 11 − n, all pairs one place at both faces, a place a face, its squares 1, 3, 4, 5, 9 and the rest 2, 6, 7, 8, 10. (checked)
-- The ten pairs among five dimensions: the pentagon's five and the pentagram's five, two faces, all pentagon pairs bi-coupling with the one pentagram pair other-than it. (checked)
-- The five split by three and two, all ways: 3 pairs in the three, a location; 6 across, the geodesic parities; 1 in the two, a still self. (checked)
-- In all splits, the five bi-couplings are a still self with a location, two locations with a geodesic parity, and two geodesic parities together. (checked)
-- Found by the inversioning: the sort laid before, location at the opening, the middle and the between, bumps, the still self bi-coupling with the completing. (checked)
-- Resolved: location at the opening, the completing and the between, names 1, 6 and 5; the six geodesic parities at the observing, the two-way, the sequencing, the middle, the parity and the rate, names 2, 3, 4, 5, 7 and 7; the still self at the same-existing, name 8. The table's five bi-couplings are then the pairs among five's. (checked; offered)
+- By number, all tens are the one ten, reached by +1 one way. (proved, all, in the universe it names)
+- By form, a loop of ten is the torus of 2 and 5: five places at two faces. (proved, all, in the universe it names)
+- 11's across loop of ten: five podal pairs, n and 11 − n, all pairs one place at both faces, a place a face, its squares 1, 3, 4, 5, 9 and the rest 2, 6, 7, 8, 10. (proved, all, in the universe it names)
+- The ten pairs among five dimensions: the pentagon's five and the pentagram's five, two faces, all pentagon pairs bi-coupling with the one pentagram pair other-than it. (proved, all, in the universe it names)
+- The five split by three and two, all ways: 3 pairs in the three, a location; 6 across, the geodesic parities; 1 in the two, a still self. (proved, all, in the universe it names)
+- In all splits, the five bi-couplings are a still self with a location, two locations with a geodesic parity, and two geodesic parities together. (proved, all, in the universe it names)
+- Found by the inversioning: the sort laid before, location at the opening, the middle and the between, bumps, the still self bi-coupling with the completing. (proved, all, in the universe it names)
+- Resolved: location at the opening, the completing and the between, names 1, 6 and 5; the six geodesic parities at the observing, the two-way, the sequencing, the middle, the parity and the rate, names 2, 3, 4, 5, 7 and 7; the still self at the same-existing, name 8. The table's five bi-couplings are then the pairs among five's. (proved, all, in the universe it names; offered)

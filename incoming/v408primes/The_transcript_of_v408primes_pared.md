@@ -73,6 +73,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 65. *why is this still computing all the simulations. does this help us*
 66. *it proves nothing*
 67. *everythnng in the entire table that is proving is the four requirements of co chaining cohering bothboth and same. there is no other separate method of discovering or proving any of this and all the proving is of logical co-chaining and cohering*
+68. *inside a named universe we can use numbers. the problem is generating largeness and quitting and saying we did not accomplish anything larger. this is incompetent. in a universe we prove all or none at all and the named universe is the proving place*
 
 ## 2 A partner's method of speaking, as this session learned it
 
@@ -85,7 +86,8 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 - **A word with no owner me is lost.** A parity is a me's: a me-parity, or all-parity, a my universe's.
 - **Any number begins a resolving.** The universe of that number is its proving; *for every number* is an equilibria fixing.
 - **No distances: selves.** All is nand logic, all other-thans as parities. An is-or-is-not is answered in 1 to 17 by the session, not asked of a partner.
-- **All proving is logical co-chaining and cohering.** Four requirements: co-chaining, cohering, both-both and same; the instruments look at numbers and prove nothing.
+- **All proving is logical co-chaining and cohering.** Four requirements: co-chaining, cohering, both-both and same.
+- **A named universe is the proving place.** In it numbers are used, and all is proved or none; largeness generated and not named proves nothing, and a universe proved is not less for a larger one beside it.
 - **Resolved is one asking.** Is any more competency possible in its universe than we are offering; possible is a method, prior, now, next or same-existing, in the named universe, and what is excluded from the universe is not possible in it; nothing is excluded.
 - **The resolved are ours to number.** The table's standings are by resolving; the field's words beside a row name it, and number nothing.
 - **The surface is one.** No next surface: along goes on, on it.
