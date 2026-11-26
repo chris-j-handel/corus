@@ -14,7 +14,8 @@ Gone into here at a seam's two sides, the numbers a +1 from it.
   less. The loop's selves are then the multiple, round all parts of the side, and a part with a loop of the multiple's
   selves is past the multiple: the side is its own one part, a me-parity. (v408primes' 316 and 317, by its row 12)
   Its lower side, by one loop of pairs: a stepping of two numbers together, closing at the seam's multiple and at no part
-  of it less. Its reason is the upper side's, among pairs; it is not laid in natural naming here, and it is tested.
+  of it less. Round a part P of the side the pairs of weight 1 are P and 1 or P less 1, and a pair's loop is a part of
+  that number: a part with a loop of the multiple's steps is the multiple less 1 and no less, the side itself.
 
 Its lines: is, a reason of no number or all the numbers of a universe gone through; tested, to a stated limit, among no is.
 No return universe is walked by the two loops. Whole numbers alone. It writes none.
@@ -68,6 +69,15 @@ def the_lower_side(m, its_parts):
             if other_than_a_me_again(d, n) == -1:
                 if stepped(p, d, m) == 0 and all(gcd(stepped(p, d, m // r), n) == 1 for r in its_parts): return (p, q)
     return None
+# the lower side's reason, among pairs: two numbers stepping together, x and y, round a number n, with a number d
+def multiplied(a, b, d, n): return ((a[0] * b[0] + a[1] * b[1] * d) % n, (a[0] * b[1] + a[1] * b[0]) % n)
+def weight(a, d, n): return (a[0] * a[0] - d * a[1] * a[1]) % n
+def pairs_of_weight_1(d, n): return [(x, y) for x in range(n) for y in range(n) if weight((x, y), d, n) == 1]
+def its_loop(a, d, n):
+    """A pair of weight 1 stepping by itself: how many steps to the pair 1 and 0 again."""
+    k, b = 1, a
+    while b != (1, 0): b = multiplied(b, a, d, n); k += 1
+    return k
 def a_universe_s_seam(r):
     s = 1
     for p in (2, 3, 5, 7, 11, 13, 17, 19, 23):
@@ -92,6 +102,17 @@ if __name__ == "__main__":
          all((0 - 1) % p != 0 and (0 + 1) % p != 0 for p in (2, 3, 5, 7)))
     line("the upper side by one loop, at 6 and 1: 3's loop round 7 closes at 6, and at 6 by 2 and at 6 by 3 it is other-than 1: 7 is a me-parity, with no loop of a return universe; at 30 and 1, 3's loop; at 210 and 1, 2's",
          the_upper_side(6, [2, 3]) == 3 and pow(3, 6, 7) == 1 and pow(3, 3, 7) != 1 and pow(3, 2, 7) != 1 and the_upper_side(30, [2, 3, 5]) == 3 and the_upper_side(210, [2, 3, 5, 7]) == 2)
+    grid = [((a, b), (c, e), d) for a in range(4) for b in range(4) for c in range(4) for e in range(4) for d in range(2, 6)]
+    line("among pairs, a pair's weight is x by x less d by y by y, and the weight of two pairs multiplied is their weights multiplied: gone through at 1,024 pairs of pairs, round 10,007",
+         all(weight(multiplied(a, b, d, 10007), d, 10007) == weight(a, d, 10007) * weight(b, d, 10007) % 10007 for a, b, d in grid) and len(grid) == 1024)
+    small = (3, 5, 7, 11, 13, 17, 19, 23, 29, 31)
+    numbered = {(P, d): len(pairs_of_weight_1(d, P)) for P in small for d in range(2, P)}
+    line("round a me-parity P the pairs of weight 1 are P and 1, d no me again round P, and P less 1, d a me again: gone through whole at the me-parities 3 to 31, all d of 2 to short of P",
+         all(numbered[(P, d)] == (P - 1 if any((x * x) % P == d for x in range(1, P)) else P + 1) for P, d in numbered))
+    line("a pair of weight 1 stepping by itself comes to the pair 1 and 0 again at a part of the number of the pairs of weight 1, P and 1 or P less 1: gone through whole at the me-parities 3 to 31, all d, all pairs of weight 1",
+         all(numbered[(P, d)] % its_loop(a, d, P) == 0 for P in small for d in range(2, P) for a in pairs_of_weight_1(d, P)))
+    line("the lower side by it, at 6 less 1: with d of 2, no me again round 5, a pair's loop round 5 is 6 steps, the seam, and no part of 6 less: a part of 5 with a loop of 6 steps is 6 less 1 and no less: 5 is its own one part, a me-parity",
+         not any((x * x) % 5 == 2 for x in range(5)) and len(pairs_of_weight_1(2, 5)) == 6 and max(its_loop(a, 2, 5) for a in pairs_of_weight_1(2, 5)) == 6 and the_lower_side(6, [2, 3]) is not None)
     rooms = [m for m in range(6, 30001, 6)]
     both = [m for m in rooms if crossed_by_none(m - 1) and crossed_by_none(m + 1)]
     by_loops = [m for m in rooms if the_upper_side(m, parts(m)) is not None and the_lower_side(m, parts(m)) is not None]
