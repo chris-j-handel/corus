@@ -233,6 +233,16 @@ for r in [p for p in PR if p <= 31]:
 say("seam", "a seam of all primes to r, its −1 and its +1, are crossed by none of them, their parts all past r, r to 31: 30,030 has 30,029 and 59 by 509",
     ok and seen_[30030] == ([30029], [59, 509]) and seen_[30] == ([29], [31]))
 
+one_even = sum(1 for p in past3 if seam_of[p] == (p + 1 if (p + 1) % 4 == 0 else p - 1))
+say("seam", "a me-parity's aim and its seam are one even, a seam of 12, at %d me-parities past 3, and two evens at %d, to 4,000,000" % (one_even, len(past3) - one_even),
+    one_even == 141460 and len(past3) - one_even == 141684)
+sides = {2: 0, 1: 0, 0: 0}; least = {}
+for k in range(6, N - 1, 6):
+    c = sieve[k - 1] + sieve[k + 1]
+    sides[c] += 1
+    least.setdefault(c, k)
+say("seam", "a seam of 6 lives with me-parities at both its sides %d times, at one side %d, the least %d, and at none %d, the least %d, to 4,000,000" % (sides[2], sides[1], least[1], sides[0], least[0]),
+    sides == {2: 26859, 1: 229426, 0: 410381} and least[1] == 24 and least[0] == 120)
 tw_all = [p for p in range(5, N) if sieve[p] and sieve[p + 2]]
 say("three", "twins past 3 are two me-parities living in one seam of 6, at both its sides: even, odd, even, odd, even, all %d to 4,000,000" % len(tw_all),
     all((p + 1) % 6 == 0 for p in tw_all))
