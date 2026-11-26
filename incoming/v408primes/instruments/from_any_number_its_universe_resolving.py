@@ -108,4 +108,67 @@ for n in taken:
             x = next_me_parity(x)
         say(n, "the next me-parity past it round which doubling passes all places: %s" % f"{x:,}", x > n)
 
+# More competency from any number: pairs at any even distance, three me-parities at any odd, the side's step, the
+# most-met distance about it, a curve's lean round its next prime, and counts of doublings.
+def facing_about(b):
+    d = 0 if me_parity(b) else 1
+    while not (me_parity(b - d) and me_parity(b + d)):
+        d += 1
+    return b - d, b + d
+distances = [4, 6, 8, 10, 12, 30, 210, 2 * (secrets.randbelow(500) + 1)]
+for n in taken:
+    if not 9 <= n < SEEING // 2:
+        continue
+    found = {}
+    for dd in distances:
+        x = n + 1
+        while not (me_parity(x) and me_parity(x + dd)):
+            x += 1
+        found[dd] = x
+    say(n, "past it, a pair of me-parities at all distances %s: %s" % (distances, {k: f"{v - n:,} on" for k, v in found.items()}),
+        all(v > n for v in found.values()))
+    o = n if n % 2 else n + 1
+    a, b = facing_about((o - 3) // 2)
+    say(n, "the odd %s is 3 and two me-parities facing one another about a between: %s and %s" % (f"{o:,}", f"{a:,}", f"{b:,}"), 3 + a + b == o)
+    q = n
+    while not me_parity(q):
+        q -= 1
+    r = next_me_parity(n)
+    say(n, "about it, its prior me-parity %s and next %s: the next's side is the prior's side or its +1" % (f"{q:,}", f"{r:,}"), isqrt(r) <= isqrt(q) + 1)
+    if n <= 10 ** 18:
+        gaps, last, x = {}, None, n
+        while x < n + 300000:
+            if me_parity(x):
+                if last is not None:
+                    gaps[x - last] = gaps.get(x - last, 0) + 1
+                last = x
+            x += 1
+        top = max(gaps, key=gaps.get)
+        say(n, "about it, the next 300,000 numbers: the most-met distance between neighbouring me-parities is %d, met %d times; 30 met %d times" % (top, gaps[top], gaps.get(30, 0)), top == 6)
+    if n <= 10 ** 6:
+        p5 = max(5, next_me_parity(n))
+        ok = True
+        for (ca, cb) in ((1, 1), (-1, 0), (0, 1)):
+            if (4 * ca ** 3 + 27 * cb * cb) % p5 == 0:
+                continue
+            lean = -sum((1 if pow((x ** 3 + ca * x + cb) % p5, (p5 - 1) // 2, p5) == 1 else (0 if (x ** 3 + ca * x + cb) % p5 == 0 else -1)) for x in range(p5))
+            ok = ok and lean * lean < 4 * p5
+        say(n, "round its next prime %s, the curves x³ + x + 1, x³ − x and x³ + 1 have their leans' facing roots at the side" % f"{p5:,}", ok)
+
+def doubling_less_1_me_parity(e):
+    if e == 2:
+        return True
+    m, x = (1 << e) - 1, 4
+    for _ in range(e - 2):
+        x = (x * x - 2) % m
+    return x == 0
+for c in [1280, 2204, secrets.randbelow(4000) + 2]:
+    e = c
+    while not (all(e % q for q in range(2, isqrt(e) + 1)) and e > 1 and doubling_less_1_me_parity(e)):
+        e += 1
+    say(c, "from this number of doublings, the next doubling less 1 that is a me-parity is at %s doublings" % f"{e:,}", e >= c)
+for k in [5, 9, 14, secrets.randbelow(10) + 5]:
+    f = (1 << (1 << k)) + 1
+    say(k, "the doubling's doubling +1 at %d doublings of doublings is crossed: 3 by itself to its between is not its −1" % k, pow(3, (f - 1) // 2, f) != f - 1)
+
 print("All is." if all(results) else "A line is-not.")

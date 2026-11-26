@@ -310,11 +310,19 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 237. From any number's side, a me again's +1 is a me-parity: from 10^24, 1,000,000,000,016 by itself, and 1. (checked)
 238. Past any number, a me-parity lives round which doubling passes all places: past 10^12, 1,000,000,000,091. (checked, numbers given and drawn to 10^12)
 
+239. Past any number, a pair of me-parities at **all even distances** lives: past 10^12, 30 apart at 61 on, and 210 apart at 61 on. (checked, distances 4 to 210 and one drawn)
+240. Any odd number from 9 is 3 and two me-parities facing one another about a between: 10^24 and 1, at 499,999,999,999,999,999,998,247 and 500,000,000,000,000,000,001,751. (checked)
+241. About any number, the next me-parity's side is its prior's side or its +1. (checked)
+242. About any number, the most-met distance between neighbouring me-parities is **6**: about 10^12, 913 times, beside 30 at 535. (checked, numbers to 10^18)
+243. Round any number's next prime, a curve's lean has its **facing roots at the side**. (checked, numbers to 10^6)
+244. From any number of doublings, the resolving reaches a next **doubling less 1** that is a me-parity: from 1,280, at 2,203; from 2,204, at 2,281. (checked, to 4,000 doublings)
+245. From any number of doublings of doublings, 5 to 14, the doubling's doubling +1 is **crossed**. (checked)
+
 ## Destiny
 
-239. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-240. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-241. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+246. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+247. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+248. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 
