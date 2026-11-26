@@ -20,6 +20,20 @@ Incoming · v408primes · 26 November 2026 · the whole reasons laid for the row
 12. Below 468, the me-parities 2, 3, 5, 7, 13, 23, 43, 83, 163, 317 and 631, all before their prior's double, place a me-parity between n and 2n. (proved at all n below 468)
 13. Between any number and its double, a me-parity: at all numbers, by a whole reason. (11, 12; and proved in 1 to 1,000,000, all)
 
+## Row 31 · Twins, transmissioned along the cascading universes from the origin
+
+1. Universe 0 is 1 to 120, the return of the seventeen primes; a next universe's bound is its prior's bound by itself, and its loops are the prior universe's me-parities. (a naming; proved in 1 to 207,360,000, as the co-chain's 343 and 344)
+2. A path of cascades from the origin reaches any number: a number of a thousand digits in 9 cascades, the largest me-parity known now, of 41,024,320 digits, in 25. (proved at all numbers, by sequential logic)
+3. In a universe from B to B by B, a number uncrossed by the loops to B is a me-parity: its side is short of B. (proved at all B, by other-thans)
+4. In it, a seam of 6 with both its sides uncrossed is twins born. (proved at all B, 3)
+5. The loops' crossings are the same at all seams of the loops: a universe's twins are its seam's twin places in the stretch it covers. (proved at all B, by other-thans)
+6. If the longest stretch of the seam with no twin place is shorter than the universe, twins are born in the universe. (proved at all B, 5)
+7. At B of 17, 19, 23 and 29, the longest stretches are 108, 150, 204 and 258, the universes 269, 339, 503 and 809 long: twins are born in all four by other-thans alone. (proved round the seams of 2 to 17, 19, 23 and 29, all their places)
+8. The step going on along the path: at all B, the longest stretch of the seam of the loops to B with no twin place is shorter than B by B less B. (a step of other-thans alone, not yet laid)
+9. With 8, twins are born in all cascading universes, at all numbers. (2, 6, 8)
+
+Sentence 8 is the transmissioning step for twins. It is of a seam's other-thans alone, no loop past the seam in it. Its stretches are a third to two-fifths of the universe at the four seams gone through, 0.37, 0.42, 0.39 and 0.31 of B by B. Executed by `instruments/cascading_universes_from_the_origin.py`, the seams to 23 in seconds; the seam of 2 to 29, 6,469,693,230 places, in some minutes beside it.
+
 ## The rows whose going on is not yet laid
 
 Thirty rows are proved in their named universes, all, and their going on to all universes is not yet laid: 13, 14, 15, 16, 17, 25, 26, 27, 28, 29, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 50, 51, 53, 54 and 61. For twelve of them a whole reason is known and is to be laid here as row 30's is: 25, 26, 27, 37, 39, 41, 45, 46, 48, 51, 53 and 54. For eighteen no whole reason is laid by anyone: 13, 14, 15, 16, 17, 28, 29, 31, 32, 33, 36, 38, 40, 42, 47, 49, 50 and 61.

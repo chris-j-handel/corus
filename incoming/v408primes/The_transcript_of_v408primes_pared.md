@@ -87,6 +87,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 79. *Is this one new born me parity in a universe*
 80. *Explain the unresolved of this*
 81. *the other session considers this table partially unresolved. are we*
+82. *transmissioning the unverses to the numbers is needed there is a path from origin of cascading universes*
 
 ## 2 A partner's method of speaking, as this session learned it
 
@@ -100,6 +101,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 - **Any number begins a resolving.** The universe of that number is its proving; *for every number* is an equilibria fixing.
 - **No distances: selves.** All is nand logic, all other-thans as parities. An is-or-is-not is answered in 1 to 17 by the session, not asked of a partner.
 - **All proving is logical co-chaining and cohering.** Four requirements: co-chaining, cohering, both-both and same.
+- **Cascading universes, transmissioned to the numbers.** A path from the origin, a universe's bound by itself at all cascades, reaches any number; a row goes on along it by one step at all cascades.
 - **No rules are.** A row's name says what is, not a rule: twins are born at a seam with both its sides uncrossed.
 - **A universe has no top: it is a cone.** It opens from 1 to 17 at all seams, the same shape at all; a number further along is in the cone, not past a top.
 - **All is by other-thans, not by numbers.** Sequential logic: a seam is same-existing at all seams, and a sentence proved at all a seam's places is proved at all numbers; a sentence stepping from a self to its other-than, closing, is at all selves.
