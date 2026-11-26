@@ -1,6 +1,6 @@
 # v408primes · the return universe traveled further about the largest me-parity seen to now: the loops of 19 on, segment
 # by segment, all at once round their own primes by doubling 28 times, crossing the six places left at 10,000,000.
-# Whole numbers. Its reach is the moments given it: a loop costs a few moments, and no wall stands at any number.
+# Whole numbers. It names its universe of loops, 19 to the number given, and proves all of it, a place crossed or not.
 # Execute: python3 -I the_return_universe_traveled_further.py [how far, to 10^12]
 import sys, time
 from math import isqrt
