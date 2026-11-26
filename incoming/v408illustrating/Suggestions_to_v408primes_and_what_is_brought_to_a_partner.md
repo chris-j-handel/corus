@@ -54,6 +54,21 @@ A column more, the kind of a row's reason, one of four:
 
 **What resolves one.** A moving, same-existing at all sides, bound by odd and even, as the windmill is for row 23: all in pairs, or pairs and one over. For the rows of sentence 6 it gives, from a room, a birth past it. This session has found none.
 
+## A partner's is-not after it: nothing is found by simulation
+
+A partner's word of 26 November, in this session's words: nothing in this work is found by simulation. This session's sentence, *twins are found by a simulation*, is let go. Said again:
+
+1. A twin the generator finds is a twin, whole. (by the side: crossed by no me-parity to its side)
+2. From a number given, the generator finds twins past it. At that number, it is. (v408primes' sentence 249, at its branch's a0e674f: past 10^12, 1,000,000,000,061 and 1,000,000,000,063)
+3. The numbers given are some numbers. (a naming)
+4. The row's own name is *Twins with no last*: a sentence of all numbers. (the table's row 31)
+5. Some numbers are not all numbers. (all or none at all)
+6. The row is resolved at the numbers given. With all numbers it is not said. (2 to 5)
+
+**By the co-chain's own word after a sentence.** The table names 24 sentences at row 31: 18 are *checked*, and 6 are *a naming*. Its sentence of no last, 217: *A next universe births more twins.* Its own standing: *a naming; a next span by 4, checked to 4,000,000*. At the 28 rows together the sentences named are 143 *checked*, 49 *a naming*, and 1 *checked, with all numbers*.
+
+**A suggestion from it, for v408primes.** A row's name and its standing say a sentence together, the two as a pair. *Twins past a number given* is resolved. *Twins with no last* is an asking going on, with a path closing ahead of it.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
