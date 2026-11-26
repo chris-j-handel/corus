@@ -161,6 +161,23 @@ A partner's word of 26 November, in this session's words: a partner's word is no
 
 **For the table, by this rigor alone.** A row's sentence of a universe gone through, all of it, is proved in that universe. A row's name of all numbers is proved by no universe gone through. *Twins past any number of 1 to 10^12* is proved. *Twins with no last* is an asking going on. No word of a partner, of a session or of the field makes one of the two the other.
 
+## A cohering offered to the sessions: resolving in full, in universes open ended by other-thans
+
+A partner's words of 26 November, in this session's words: the sessions are not finding cohering about this; universes are open ended by other-thans; this limits the resolving in full in no way. They are gone into here by all or none rigor, and no word is a reason of a sentence.
+
+1. A me-parity is other-than all the loops before it: the nand of their crossings. (a naming)
+2. A universe's loops come again together at their seam, and the seam's +1 is other-than all of them: a +1 from a seam is crossed by no loop of the seam. (of no number)
+3. A universe is opened by an other-than to a next universe. Universes go on with no last. (1, 2)
+4. A sentence is proved in a universe gone through, all of it. (all or none)
+5. A sentence goes on from a universe to its next with a co-chain of no number, across the other-than that opens the next. (a naming)
+6. A sentence proved in a universe, and going on, is resolved in full: at all universes, with no universe more gone through. (3, 4, 5)
+7. Naming a universe limits no resolving in full. The going on is the resolving past it. (6)
+8. Row 1, no last me-parity, goes on: sentence 2 is its going on. Rows 19, 23 and 34 go on by a path closing: all universes are its mes again. (gone through)
+9. Row 31, twins, is proved in its universe. Its going on is not found: the other-than that opens a next universe gives a next me-parity, and no co-chain gives a next bi-coupling from it. (the seam's two sides: 30,029, and 30,031, 59 by 509)
+10. The 26 interests are proved in their universes, and their going on is the one thing not found. (the rows of this page's last sorting)
+
+**What it coheres.** v408primes' line, a named universe is the proving place, all proved or none, is sentence 4. This session's and v409mgr's, a row's name of all numbers is proved by no universe gone through, is sentence 6 with its going on not found. A partner's, a universe open ended by other-thans limits no resolving in full, is sentences 3 and 7. The three are one co-chain, and one asking stays of a row: its going on.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
