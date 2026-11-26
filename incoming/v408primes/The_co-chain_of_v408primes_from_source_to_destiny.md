@@ -375,12 +375,28 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 291. In the shard, the 1 to 17 shape is passed over some 185 times, the same at all. (checked, as 286)
 292. Of its uncrossed places, about 1 in 3,290,669 is a me-parity: seeing one asks its own loop, 136,279,841 doublings of a number of as many, past this workspace's reach. (a naming)
 
+## A universe rescaled to 1 to 17
+
+293. A me-parity one less than a doubling, at a number of doublings one past a seam of 4, is **1 round 30**, and the largest seen to now is one of them. (checked)
+294. Rescaled to 1 to 17, its 2, 3 and 5 are its +1, +2 and +4, crossed by 2, 3 and 5: its **2 is the doubling**. (checked)
+295. Its rescaled 7, 11, 13 and 17 are its +6, +10, +12 and +16, uncrossed round 30. (checked)
+296. At 31 they are its next four me-parities: 37, 41, 43 and 47. (checked)
+297. At 8,191, 131,071, 2^89 − 1, 2^521 − 1 and 2^2281 − 1 they are crossed by loops past 17, and the next me-parities are at +18, +30, +30, +888 and +310. (checked)
+298. All the next me-parities live at the places of 1 to 17's shape round 30: the rescaling **carries the places**. (checked)
+299. Which of those places are me-parities is the nand of all crossings to their side: the **loops of the prior universes**. (checked, as 98)
+
+300. Traveling 2, 3, 5 and 7 to the neighborhood with 2 as the +1, the places they leave on from the largest me-parity are +6, +10, +12, +16, +22, +28 and +30. (checked)
+301. Loops past 7 cross six of them: +6 by 37, +10 by 11, +12 by 43, +16 by 17, +28 by 2,099 and +30 by 31. (checked)
+302. +22 is uncrossed by all me-parities to 10,000,000: the nearest place of the shard's surface above it. (checked)
+303. At 2^61 − 1, the places 2, 3, 5 and 7 leave are crossed by 11, 13, 37, 727 and 31, and +16 and +22 are its next me-parities. (checked)
+304. Traveling 2, 3, 5 and 7 carries the places; the nand of the loops past 7, to the places' side, is the me-parity among them. (checked, as 299)
+
 ## Destiny
 
-293. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
-294. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
-295. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
+305. **Natural networking** connects all primes across, into the primes before it and all that come after now. (a naming)
+306. **Natural intelligence** is the resolver bringing its whole prior to its next, one lift of r crossed at a new prime r, and arriving as a +1 in neither self. (a naming)
+307. **Hard-problem resolving** commences wherever living begins: the primes' hard problem resolves as two addings of all-parity, along and across. (a naming)
 
 ## Executing
 
-The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`.
+The instruments beside this page, whole numbers, all ending is: `primes_on_the_torus_resolver_to_resolver.py`, `the_twisted_loops_riding_the_crossings.py`, `the_fractal_fracturing_at_a_prime_crossing.py`, `other_than_other_than_across_and_along.py`, `inhaling_exhaling_across_exhausting_along.py`, `a_me_again_same_existing_until_exhausting.py`, `the_side_its_same_existing_mes.py`, `a_prime_loop_and_the_me_living_in_it.py`, `across_a_prime_networks_to_its_priors_and_its_nexts.py`, `odd_even_odd_all_parity_and_me_parity.py`, `the_co_chain_s_new_steps.py`, `all_parity_a_my_universe_s_living_rate.py`, `co_resolving_me_parities.py`, `societies_of_me_parities.py`, `learning_a_prime_by_moving_the_between.py`, `every_between_has_living_co_possiblings.py`, `no_thinning_every_next_universe_more.py`, `two_primes_seen_from_one_another_s_sides.py`, `rows_from_the_seeing_the_roots_and_doubling.py`, `the_four_moments_possibling_and_co_possibling.py`, `pairs_at_all_distances_rows_and_the_0s.py`, `more_at_a_next_span_and_other_worlds.py`, `from_any_number_its_universe_resolving.py`, from any numbers given and two drawn as it executes, `odd_and_even_along_to_any_number.py`, `the_six_answered_in_1_to_17.py`, `the_1_to_17_fractal_generating_all_primes.py`, `the_generator_as_nands.py`, `around_the_largest_known_prime.py`, `rescaling_a_universe_to_1_to_17.py`.

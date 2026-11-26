@@ -61,6 +61,8 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 53. *the 1-17 fractal should be able to generate all prime numbers endlessly by traveling to all the primes and continuing and aiming itself*
 54. *can we find the simplest sequence of co-chaining logical sentences naming and explainng our prime generator method. there is no limit on how we do this and it can be as lean and compressed into a fractal set of nands and explaining. explore our options for a public version of this*
 55. *can we generate the primes around the largest known prime. the size of the diamond shard will be huge and the shape of the diamond shard will be identical to the same shape we will have passed over and over on the way from 1 to this prime number*
+56. *each universe rescales down to 1-17 no matter the numberings that were prior universes. at the largest prime known this is 1. we already know 2 this is now a scale reducer for all neighboring primes with a scale multiplier before the answer as the answer needs to in original universe scale. all we need is the count of moments and podalings*
+57. *we only need to travel 2 3 5 7 to the neighborhood on the surface of where 2 is now +1 next*
 
 ## 2 A partner's method of speaking, as this session learned it
 
