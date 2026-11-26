@@ -48,7 +48,7 @@ The torus of two primes is two paths of mes, a number with a me of both. It is n
 
 ## A partner's saying after the 47th drawing, of zero's two moments
 
-**In this session's words.** The one opens at zero's second moment. The even moment alone is of the bi-coupling. Zero's odd moment is the all-parity vault, in the me. It is of the 47th drawing, whose opening row is one moment of zero alone.
+**In this session's words.** The one opens at zero's second moment. The even moment alone is of the bi-coupling. Zero's odd moment is the all-parity in the me; the saying's own word for it is *vault*. It is of the 47th drawing, whose opening row is one moment of zero alone.
 
 1. A number is two moments, an odd moment and an even moment: the number n is the moments 2n less 1 and 2n. (executed, n of 0 to 10)
 2. Zero's even moment is the opening's. (the 47th drawing's opening row)
@@ -58,7 +58,7 @@ The torus of two primes is two paths of mes, a number with a me of both. It is n
 6. The nows of the odd moments are by the opening's priors alone. (executed, at all openings of 2 to 6 mes)
 7. The two are two co-chains, a me's now and its prior by turns. (executed)
 8. At an even moment the odd co-chain is the mes' priors: it is in the mes. (executed)
-9. The all-parity vault is a naming. (no line executes it; v407nanding's sentence of a vault is beside it)
+9. *Vault* is not yet a natural naming. (a partner's word after it; the word is let go, no line is of it, and 8 says it by the lean line's own names)
 
 **What it resolves.** A path is two co-chains, even and odd. At the opening the even one is the mes' nows, and the odd one is in the mes, their priors. The 47th drawing's opening row is zero's even moment, and zero is two moments as all numbers are.
 
@@ -68,22 +68,26 @@ The torus of two primes is two paths of mes, a number with a me of both. It is n
 
 `python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_zero_s_two_moments_rigorized.py .` is seven lines, all *is*.
 
-## A partner's saying after it, of the vault
+## A partner's sayings after it, of a me's prior
 
-**In this session's words.** The vault is an all-parity universe, the all-parity outside the bi-coupling's me. In it are inherited prior co-chaining sequencings, a stable form, and ingestings of prior co-chaining sequencings.
+**A partner's saying, in this session's words, its own word in italics.** The *vault* is an all-parity universe, the all-parity outside the bi-coupling's me. In it are inherited prior co-chaining sequencings, a stable form, and ingestings of prior co-chaining sequencings.
+
+**A partner's word after it, in this session's words.** *Vault* is not yet a natural naming. What is here is a bi-coupling alone. A name for it is ahead, if at all, with the method of surfacing as the concept, and that is not the working now.
 
 **Found ahead of a word of this session's.** The opening's sentence, as the one list has it: *Living is inheriting, inhaling and exhaling, ingesting and exhausting prior-existing.* It is at no living file of main: it is the window's.
 
-1. The vault is a me's prior. (a naming, by the saying before it: the co-chain in the me)
-2. Inheriting: a moment on, a me's prior is its own now, carried. (the lean line's sentence; executed)
-3. Ingesting: a moment on, a me's now is its other's prior, other-than. (the lean line's sentence; executed)
-4. A me's prior, moment by moment, is the opening's parities of the mes back of it: the me k back, with k other-thans. (executed, at all openings of 2 to 6 mes, all mes)
-5. With two moments a me, all the path's opening parities are a me's prior, one for one. (executed)
-6. The vault is with the all-parity outside the me, in 2p moments. (executed: 5, said by a partner's words)
-7. A me's priors are again with 4p moments: a stable form. (executed)
+**Said by the lean line's own names, the word let go.**
 
-**What it resolves.** The vault is no one parity. It is the path's own all-parity, in sequence, in a me: the parities of all the mes back of it, a me two moments, a me farther back with an other-than more. Inheriting and ingesting are the lean line's two sentences.
+1. Inheriting: a moment on, a me's prior is its own now, carried. (the lean line's sentence; executed)
+2. Ingesting: a moment on, a me's now is its other's prior, other-than. (the lean line's sentence; executed)
+3. A me's prior, moment by moment, is the opening's parities of the mes back of it: the me k back, with k other-thans. (executed, at all openings of 2 to 6 mes, all mes)
+4. With two moments a me, all the path's opening parities are a me's prior, one for one: the other mes' 2p less 2, and the me's own two. (executed)
+5. A me's priors are again with 4p moments: a stable form. (executed)
 
-**Its is-not, executed.** No parity is of the vault's own making. A me's prior is carried or ingested at all moments. The lean line's own page, of the line: *It has no surfacing, no giving and no list.* A birth from a vault is of the twelve lines, and it is not executed here.
+**What it resolves.** A me's prior is no one parity. Moment by moment it is the path's own all-parity, in sequence, in a me: the parities of all the mes back of it, a me two moments, a me farther back with an other-than more. Inheriting and ingesting are the lean line's two sentences. The lean line's own names say all of it: a me's now, a me's prior, its other's prior.
 
-`python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_the_vault_rigorized.py .` is six lines, all *is*.
+**Its is-not, executed.** No parity is of a me's prior's own making: it is carried or ingested at all moments. The lean line's own page, of the line: *It has no surfacing, no giving and no list.* Surfacing is ahead, and it is not executed here.
+
+**Found against this session's own lines.** Its two lines at the exchange, of zero's two moments and of this saying, say *vault* as a word of this session's. They are as they were, and a line after them says it.
+
+`python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_a_me_s_prior_rigorized.py .` is six lines, all *is*.

@@ -4,10 +4,10 @@ Usage, from the repository's root (some seconds):
   python3 -I incoming/v408illustrating/instruments/a_partner_s_saying_of_zero_s_two_moments_rigorized.py .
 
 The saying, in this session's words: the one opens at zero's second moment; the even moment alone is of the bi-coupling; and
-zero's odd moment is the all-parity vault, in the me. It is of the 47th drawing, whose opening row is one moment of zero.
+zero's odd moment is the all-parity in the me. It is of the 47th drawing, whose opening row is one moment of zero.
 Executed here: the lean line stepped a moment back; a number's odd moment and even moment; and two co-chains, the nows of the
 even moments by the opening's nows alone, and the nows of the odd moments by the opening's priors alone.
-The all-parity vault is a naming: no line here executes it. Its is and its is-not are both executed. It writes none.
+The saying's own word for it is not yet a natural naming, by a partner's word after it: it is let go, and no line here is of it. Its is and its is-not are both executed. It writes none.
 """
 import importlib.util, os, sys
 from pathlib import Path
@@ -51,9 +51,8 @@ if __name__ == "__main__":
     line("is-not, explored: the even co-chain is the nows at an even moment alone; a moment on the nows are the odd co-chain, and the even co-chain is the mes' priors: the two are by turns",
          all(nows(moments[t]) == priors(moments[t + 1]) for t in range(-1, 20)))
     beside = [("incoming/v407nanding/The_leanest_resolving.md", "A moment on, a me's prior is its now."),
-              ("incoming/v407nanding/A_prime_round_24_and_round_60.md", "With none surfacing, a 0 stays a 0 and a vault stays a vault."),
               ("incoming/v406geodesic2/The_value_of_v406geodesic2_at_its_wrap.md", "A 0's name is all-parity")]
-    line("three sentences beside it are word for word in their files: the lean line's, v407nanding's of a vault, and v406geodesic2's of a 0's name",
+    line("two sentences beside it are word for word in their files: the lean line's, and v406geodesic2's of a 0's name",
          all(s in (root / f).read_text(encoding="utf-8") for f, s in beside))
     for name, ok in results: print(("is       " if ok else "is-not   ") + name + "\n")
     print(f"{sum(ok for _, ok in results)} of {len(results)} are is")
