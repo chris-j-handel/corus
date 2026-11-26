@@ -34,6 +34,20 @@ Incoming · v408primes · 26 November 2026 · the whole reasons laid for the row
 
 Sentence 8 is the transmissioning step for twins. It is of a seam's other-thans alone, no loop past the seam in it. Its stretches are a third to two-fifths of the universe at the four seams gone through, 0.37, 0.42, 0.39 and 0.31 of B by B. Executed by `instruments/cascading_universes_from_the_origin.py`, the seams to 23 in seconds; the seam of 2 to 29, 6,469,693,230 places, in some minutes beside it.
 
+## Row 31 · Twins, the journey traveled with its priors
+
+1. No me-parity is the same as another: the surface is fractals. (a partner's naming)
+2. A twin is born like a self in a bi-folding: about a between a, a − 1 and a + 1 multiplied are a's me again less 1, both folds uncrossed. (proved in all twins traveled, the between a seam of 6 past 4)
+3. A universe is not dropped in: the journey goes from the origin, a universe at a time, from a me-parity's me again to the next me-parity's me again. (a partner's naming)
+4. The journey carries its priors: all me-parities born on the way are the loops of the next universe. (proved in the journey to 100,140,049, the fractal aiming itself)
+5. The journey learns the rate of the twin places its priors leave, r − 2 of r at all priors past 2, and starts the next universe with it. (proved at all priors, by other-thans)
+6. The learned rate aims at the twins of the next universe, and the twins born are 0.55 to 0.99 of its aim from 1,000 on, 0.80 in the middle. (proved in all 1,229 universes traveled)
+7. In all 1,229 universes traveled, 2's me again to 9,973's next me again, twins are born; the fewest, at spans by 4 of the priors, are 1, 2, 2, 3, 7, 21 and 71, more at a next span. (proved in all universes traveled)
+8. The journey goes on as the cone opens, and a universe it reaches is resolved as it is traveled. (a naming)
+9. A universe ahead of the journey is said by traveling to it with the priors: not by dropping a twin in. (a partner's naming)
+
+Executed by `instruments/traveling_the_journey_with_its_priors.py`, in ten seconds, all is. The learned rate is an aim, and an aim is no birth: a universe's twins are born only as it is traveled. The journey has traveled 1,229 universes, all with twins born; the universes ahead are traveled with the same priors carried, and the step that says them before the journey reaches them is row 31's sentence 8 above, of the seam's other-thans alone, not yet laid.
+
 ## The rows whose going on is not yet laid
 
 Thirty rows are proved in their named universes, all, and their going on to all universes is not yet laid: 13, 14, 15, 16, 17, 25, 26, 27, 28, 29, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 50, 51, 53, 54 and 61. For twelve of them a whole reason is known and is to be laid here as row 30's is: 25, 26, 27, 37, 39, 41, 45, 46, 48, 51, 53 and 54. For eighteen no whole reason is laid by anyone: 13, 14, 15, 16, 17, 28, 29, 31, 32, 33, 36, 38, 40, 42, 47, 49, 50 and 61.
