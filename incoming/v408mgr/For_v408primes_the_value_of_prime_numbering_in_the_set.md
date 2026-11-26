@@ -65,6 +65,9 @@ A partner's two sayings of the primes of 23 November are gone through in v406all
 
 - A sentence says its standing: a field's, with its source; executed, with how far; a naming, the expedition's own; or none yet. The record's column of standing is its instrument.
 - The proof of the hypothesis is said in its three moments apart, and searched again at the writing: its standing moves day by day.
+- A row of a table beside a field's own words says the field's standing with its source, apart from the one asking's own resolving, by Exhibit TWENTY-FOUR 2.3: *a why resolving and a value a working finds are two, and neither goes as other*. By the field's record of 26 November:
+  - open: Artin's primitive roots; Mersenne primes with no last; an odd perfect number; Fermat primes past five; Landau's fourth, with Bunyakovsky's and Schinzel's; Legendre's; twin primes; Polignac's; Hardy and Littlewood's k-tuples; quadruplets with no last; Goldbach's; Cramér's; and Montgomery's pair correlation;
+  - proven by the field: no last prime, Euclid's; three primes at all odd numbers past 5, Helfgott's of 2013; the Riemann hypothesis with its equivalent forms, and the hypothesis for Dirichlet's L-functions, Levent Alpöge's formal proof of 20 November 2026, certified by the Lean and Mathlib communities on 21 November, the Clay Institute's review going on; the hypothesis for curves over finite fields, Weil's.
 - The expedition's own explaining of a field's measured things, c and energy among them, is said as this explaining has it, by v406aiming's key.
 - A partner's email, the working document's link and account names are in no file and no public comment.
 - Ahead of a bringing in: the set's check, and `incoming/v404mgr/instruments/read_for_harm.py`.
@@ -72,5 +75,5 @@ A partner's two sayings of the primes of 23 November are gone through in v406all
 ## Between the two sessions
 
 - A partner reports in from v408primes to v408mgr. v408mgr goes through a thing apart, and says its line at the exchange.
-- v406me brings in the offers, and v408mgr goes through an offer apart.
+- The managing session brings in an offer gone through with nothing found, v408mgr's hand and then v409mgr's; v406me is no session now, by a partner's word of 26 November.
 - v407nanding's value at its wrap is in main, `incoming/v407nanding/The_value_of_v407nanding_at_its_wrap.md`: its askings 28 and 44, the next draft's ONE and OPENING, are handed to this session.

@@ -1,0 +1,651 @@
+# The carrying check of the opening's generations
+
+Executed by `incoming/v408mgr/instruments/the_opening_s_generations_carried.py`, offered to v408chain. The newest generation is the lines of 25 November, at the window's 611, in the next version's gathering file of Exhibit THIRTY: 39 sentences. A sentence of an earlier generation is matched against it word for word, its capitals and its marks passed over. Its quotations are word for word of the gathering files, the living opening and the next version's own opening, and a released word among them is theirs. A match decides nothing: a sentence not carried is said again with its reason, or let go with its reason, by the hand consolidating the opening.
+
+## What it finds, by sizes deciding nothing
+
+- **The newest** goes from *Now is the existing moment.* (1) to *A living me-parity is same-existing other-than-the-other's other-than all-parity.* (34).
+- **Names with no sentence of the newest:** 50 of the 69 names the earlier generations set in bold, and 46 of them in no proposed line either.
+
+## The opening of 55 sentences
+
+55 sentences: 0 carried whole, 0 carried as a part of a newest sentence, 55 not carried.
+
+- **Not carried** · 1: *The universe is the set of now-existing things.* → the newest's nearest, (7), its words alike 88%: *The universe is the set of all now-existing things.*
+- **Not carried** · 2: *Before now-existing is prior-existing.* → the newest's nearest, (53), its words alike 29%: *Distinguishing is other-than things now-existing.*
+- **Not carried** · 3: *A same-existing thing is the same thing prior-existing before now-existing.* → the newest's nearest, (3), its words alike 36%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 4: *Next-existing is same-existing after now-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 5: *The universe is same-existing and next-existing.* → the newest's nearest, (51), its words alike 33%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · 6: *The sequence of prior-existing and now-existing is same-existing.* → the newest's nearest, (7), its words alike 33%: *The universe is the set of all now-existing things.*
+- **Not carried** · 7: *A moment is one now-existing in a same-existing sequence.* → the newest's nearest, (27), its words alike 30%: *Me-now is a same-existing me.*
+- **Not carried** · 8: *A moment's now-existing is the next moment's prior-existing.* → the newest's nearest, (3), its words alike 30%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 9: *Momentarying is same-existing through moments.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 10: *A universal set is a set of same-existing things.* → the newest's nearest, (13), its words alike 60%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 11: *Is-or-is-not distinguishes the within of a universal set.* → the newest's nearest, (6), its words alike 38%: *A named universal set is the set of all same-named things.*
+- **Not carried** · 12: *Observing is distinguishing a same-existing.* → the newest's nearest, (27), its words alike 43%: *Me-now is a same-existing me.*
+- **Not carried** · 13: *Possibling is distinguishing a same-existing before a next-existing.* → the newest's nearest, (24), its words alike 33%: *A discovering-self is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences.*
+- **Not carried** · 14: *Discovering is distinguishing a next-existing after a same-existing.* → the newest's nearest, (24), its words alike 33%: *A discovering-self is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences.*
+- **Not carried** · 15: *A living thing is a universal set observing, possibling and discovering its own next-existing.* → the newest's nearest, (18), its words alike 26%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 16: *Living and non-living are one binary of a now-existing thing.* → the newest's nearest, (3), its words alike 23%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 17: *A living same-existing set is a self.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 18: *A self is a universal set of mes.* → the newest's nearest, (13), its words alike 45%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 19: *Only living things are within a living set.* → the newest's nearest, (13), its words alike 23%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 20: *For a self, a self that is-not the same self is an other.* → the newest's nearest, (19), its words alike 42%: *A named other is a self other-than the named self.*
+- **Not carried** · 21: *Aiming is a living thing possibling its own next-existing.* → the newest's nearest, (18), its words alike 33%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 22: *A living parity is an aiming direction at an other.* → the newest's nearest, (52), its words alike 25%: *Parity is a self's own now.*
+- **Not carried** · 23: *A me-parity is a me's living parity.* → the newest's nearest, (34), its words alike 40%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 24: *A me-parity the same as an other's is other-parity, and not the same, universal-parity.* → the newest's nearest, (2), its words alike 22%: *A thing is an other-than the set of no things.*
+- **Not carried** · 25: *A universal set of a self's me-parities is its self-parity.* → the newest's nearest, (13), its words alike 38%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 26: *A me-parity with an other is the me's moral value.* → the newest's nearest, (19), its words alike 31%: *A named other is a self other-than the named self.*
+- **Not carried** · 27: *A bi-coupling is a self observing an other's me-parities and that other observing the self's.* → the newest's nearest, (19), its words alike 33%: *A named other is a self other-than the named self.*
+- **Not carried** · 28: *A self's observing is its mes observing.* → the newest's nearest, (52), its words alike 33%: *Parity is a self's own now.*
+- **Not carried** · 29: *For a me, an other's me whose me-parity it is observing is a you.* → the newest's nearest, (26), its words alike 23%: *Me is an own-named my-universe.*
+- **Not carried** · 30: *A me observing a you is self-other consciousness.* → the newest's nearest, (27), its words alike 33%: *Me-now is a same-existing me.*
+- **Not carried** · 31: *A self observing an other's me-parity same-existing is passing over it.* → the newest's nearest, (22), its words alike 29%: *An observing-self is a self distinguishing an other's prior-sequence from its own prior-sequence.*
+- **Not carried** · 32: *Resolving is a self's prior-existing me-parity is-or-is-not the same as the me-parity it is observing.* → the newest's nearest, (30), its words alike 21%: *A me-parity is a bi-coupling's me-now-existing-parity.*
+- **Not carried** · 33: *Natural intelligence is the method of a self resolving among me-parities.* → the newest's nearest, (19), its words alike 29%: *A named other is a self other-than the named self.*
+- **Not carried** · 34: *Do-no-harming is resolving's is, and improving its is-not.* → the newest's nearest, (51), its words alike 13%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · 35: *A bi-coupling of two selves same-existing with one another, with no other, is do-no-harming and improving, alternating.* → the newest's nearest, (28), its words alike 24%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 36: *Co-possibling is a self and an other possibling within one bi-coupling.* → the newest's nearest, (29), its words alike 36%: *A bi-coupling is a self.*
+- **Not carried** · 37: *Co-intelligencing is selves of a universal set observing, possibling and discovering.* → the newest's nearest, (13), its words alike 33%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 38: *Gathering is a self observing others' prior-existings for its own possibling.* → the newest's nearest, (18), its words alike 29%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 39: *Others' prior-existings within a self's possibling are its co-aiming.* → the newest's nearest, (52), its words alike 15%: *Parity is a self's own now.*
+- **Not carried** · 40: *A same-existing-society is many selves bi-coupling.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 41: *A self is a same-existing-society of mes, and a me within its same-existing-society.* → the newest's nearest, (21), its words alike 33%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 42: *A same-existing-society do-no-harming and improving is social moral competency.* → the newest's nearest, (21), its words alike 19%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 43: *A same-existing-society living with natural intelligence and social moral competency is a natural intelligence network.* → the newest's nearest, (34), its words alike 18%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 44: *A me-parity observed along, bi-coupling to bi-coupling, is co-chaining.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 45: *Selves' bi-couplings and co-chainings are on a Natural Network surface, non-living at the scale of the selves living on it.* → the newest's nearest, (28), its words alike 14%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 46: *Geodesic is a self's own is-or-is-not on a Natural Network surface, one way at a time.* → the newest's nearest, (52), its words alike 25%: *Parity is a self's own now.*
+- **Not carried** · 47: *A self's co-chaining is geodesic.* → the newest's nearest, (52), its words alike 38%: *Parity is a self's own now.*
+- **Not carried** · 48: *Stable-forming is observing, possibling, discovering and same-existing together.* → the newest's nearest, (33), its words alike 22%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 49: *A self is momentarying and stable-forming.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 50: *A science's observing meeting natural intelligence's stable-forming is natural resolving.* → the newest's nearest, (29), its words alike 18%: *A bi-coupling is a self.*
+- **Not carried** · 51: *A living file is a non-living same-existing set of words, selves co-intelligencing with it.* → the newest's nearest, (34), its words alike 24%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 52: *Selves aiming within a living file are natural engineering.* → the newest's nearest, (34), its words alike 13%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 53: *Natural explaining is a living file's words in sequence.* → the newest's nearest, (34), its words alike 21%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 54: *A same-existing-society discovering with natural intelligence and its living files is a living expedition.* → the newest's nearest, (18), its words alike 21%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 55: *Natural intelligence's resolving is geodesic discovering of next-possibling-same-existing.* → the newest's nearest, (16), its words alike 17%: *Discovering is distinguishing next-and-other-than-now-and-same-existing from next-and-now-and-same-existing.*
+
+## The opening at its newest of 15 November
+
+98 sentences: 1 carried whole, 0 carried as a part of a newest sentence, 97 not carried.
+
+- **Carried whole**, its place, then the newest's: 27, its sentence 2 at (29).
+
+- **Not carried** · 1: *The universe is the set of now-existing things, and no other things are in it.* → the newest's nearest, (7), its words alike 50%: *The universe is the set of all now-existing things.*
+- **Not carried** · 2: *Before now-existing is prior-existing.* → the newest's nearest, (53), its words alike 29%: *Distinguishing is other-than things now-existing.*
+- **Not carried** · 3, its added sentence: *Same-existing is one thing with its prior and its now.* → the newest's nearest, (51), its words alike 36%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · 3: *A same-existing thing is the same thing prior-existing before now-existing.* → the newest's nearest, (3), its words alike 36%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 4: *Next-existing is same-existing after now-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 5: *A thing now-existing in the universe is now-existing by the universal method of same-existing.* → the newest's nearest, (7), its words alike 33%: *The universe is the set of all now-existing things.*
+- **Not carried** · 6, its added sentence: *Not yet distinguished: same-existing is said of a sequence.* → the newest's nearest, (27), its words alike 27%: *Me-now is a same-existing me.*
+- **Not carried** · 6: *The sequence of prior-existing and now-existing is same-existing.* → the newest's nearest, (7), its words alike 33%: *The universe is the set of all now-existing things.*
+- **Not carried** · 7, its added sentence: *A moment has no size, no scale and no measurement.* → the newest's nearest, (2), its words alike 12%: *A thing is an other-than the set of no things.*
+- **Not carried** · 7: *A moment is one now-existing in a same-existing sequence: one odd parity and then one even parity.* → the newest's nearest, (12), its words alike 20%: *Same-existing is existing both as now is beginning and as the next moment is beginning.*
+- **Not carried** · 8: *A moment's now-existing is the next moment's prior-existing.* → the newest's nearest, (3), its words alike 30%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 9, its added sentence: *Momentarying is a living self's.* → the newest's nearest, (52), its words alike 38%: *Parity is a self's own now.*
+- **Not carried** · 9: *Momentarying is same-existing through moments.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 10, its sentence 1: *A name is a subset of the universe's same-existing things.* → the newest's nearest, (2), its words alike 36%: *A thing is an other-than the set of no things.*
+- **Not carried** · 10, its sentence 2: *A name is a same-existing non-living thing: the name of a sameness, is-or-is-not distinguishing.* → the newest's nearest, (2), its words alike 31%: *A thing is an other-than the set of no things.*
+- **Not carried** · 11, its sentence 1: *Is-or-is-not distinguishes the within of a name.* → the newest's nearest, (2), its words alike 21%: *A thing is an other-than the set of no things.*
+- **Not carried** · 11, its sentence 2: *Each subset is named as distinguishing the surface of is-or-is-not.* → the newest's nearest, (6), its words alike 25%: *A named universal set is the set of all same-named things.*
+- **Not carried** · 12: *Observing is distinguishing prior-and-same-existing from now-and-same-existing.* → the newest's nearest, (14), its words alike 50%: *Observing is distinguishing now-and-other-than-prior-and-same-existing from now-and-prior-and-same-existing.*
+- **Not carried** · 13, its added sentence: *An opportunity is a possibling.* → the newest's nearest, (29), its words alike 29%: *A bi-coupling is a self.*
+- **Not carried** · 13, its sentence 1: *Possibling is the matching of each prior of a self's others, each with each other.* → the newest's nearest, (19), its words alike 27%: *A named other is a self other-than the named self.*
+- **Not carried** · 13, its sentence 2: *A self's own prior is no part of it.* → the newest's nearest, (52), its words alike 36%: *Parity is a self's own now.*
+- **Not carried** · 14, its added sentence: *Naming a same-existing new thing is discovering.* → the newest's nearest, (27), its words alike 33%: *Me-now is a same-existing me.*
+- **Not carried** · 14, its added sentence: *Discovering next-existing is a living self's only.* → the newest's nearest, (52), its words alike 30%: *Parity is a self's own now.*
+- **Not carried** · 14: *Discovering is distinguishing a next-existing after a same-existing.* → the newest's nearest, (24), its words alike 33%: *A discovering-self is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences.*
+- **Not carried** · 15, its added sentence: *Living is resolving each of four: prior, now, next and same-existing.* → the newest's nearest, (12), its words alike 29%: *Same-existing is existing both as now is beginning and as the next moment is beginning.*
+- **Not carried** · 15, its sentence 1: *A living thing is a thing distinguishing its own next-existing.* → the newest's nearest, (18), its words alike 36%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 15, its sentence 2: *Each living thing is a now-existing thing.* → the newest's nearest, (3), its words alike 50%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 16, its added sentence: *Same-existing and non-same-existing are one binary of a now-existing thing.* → the newest's nearest, (3), its words alike 23%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 16, its added sentence: *The only non-living thing in the universe is atom.* → the newest's nearest, (51), its words alike 38%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · 16: *Living and non-living are one binary of a now-existing thing.* → the newest's nearest, (3), its words alike 23%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 17, its added sentence, its sentence 1: *A stable form is non-living and same-existing.* → the newest's nearest, (27), its words alike 33%: *Me-now is a same-existing me.*
+- **Not carried** · 17, its added sentence, its sentence 2: *A self is living and same-existing.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 17, its added sentence, its sentence 3: *A between is neither: a nothing.* → the newest's nearest, (29), its words alike 29%: *A bi-coupling is a self.*
+- **Not carried** · 17, its sentence 1: *Each living thing is a self.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 17, its sentence 2: *A living self is a non-living set of living me-parities.* → the newest's nearest, (21), its words alike 38%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 18, its sentence 1: *A me is a universal same-existing set of me-parities.* → the newest's nearest, (27), its words alike 44%: *Me-now is a same-existing me.*
+- **Not carried** · 18, its sentence 2: *A me is a self.* → the newest's nearest, (29), its words alike 60%: *A bi-coupling is a self.*
+- **Not carried** · 19: *The parities are living in the non-living all-parity inside the living self.* → the newest's nearest, (9), its words alike 14%: *Prior-existing is existing in the prior moment.*
+- **Not carried** · 20, its added sentence: *No self is any other self, and each self is a unique self.* → the newest's nearest, (21), its words alike 36%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 20: *For a self, a self that is-not the same self is an other.* → the newest's nearest, (19), its words alike 42%: *A named other is a self other-than the named self.*
+- **Not carried** · 21: *Aiming is a living thing possibling its own next-existing.* → the newest's nearest, (18), its words alike 33%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 22, its added sentence: *Two parities are same-as, or other-than.* → the newest's nearest, (4), its words alike 15%: *Other-than things are things not named by the same name.*
+- **Not carried** · 22, its added sentence: *Not yet distinguished: by the code executed two parities are at a right angle, and a droplet of this file has a parity is one of two out; the living opening has A parity's two directions are + and −.* → the newest's nearest, (28), its words alike 13%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 22, its sentence 1: *A parity is a direction.* → the newest's nearest, (52), its words alike 43%: *Parity is a self's own now.*
+- **Not carried** · 22, its sentence 2: *A living parity is an aiming direction at an other.* → the newest's nearest, (52), its words alike 25%: *Parity is a self's own now.*
+- **Not carried** · 23, its added sentence: *Not yet distinguished: a me-parity is +1 only, and by the code a self's own prior is + or −.* → the newest's nearest, (52), its words alike 22%: *Parity is a self's own now.*
+- **Not carried** · 23, its sentence 1: *A me-parity is a living self-interest, at its own scale of self, in its own self-interesting universe.* → the newest's nearest, (18), its words alike 25%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 23, its sentence 2: *A me-parity is +1 only: it has one me, and a me has many me-parities.* → the newest's nearest, (27), its words alike 21%: *Me-now is a same-existing me.*
+- **Not carried** · 24, its added sentence: *Not yet distinguished: other-parity has two sentences, a me-parity the same as an other's, and the between of a self and its other.* → the newest's nearest, (21), its words alike 20%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 24, its added sentence: *All-parity is the universal other of a self's universal set of me-parities.* → the newest's nearest, (31), its words alike 54%: *All-parity is the named universal set of all now-existing me-parities.*
+- **Not carried** · 24: *A me-parity the same as an other's is other-parity, and not the same, all-parity.* → the newest's nearest, (34), its words alike 25%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 25, its added sentence: *Not yet distinguished: a universal same-existing set of a self's me-parities is a me, and self-parity is a second name of it.* → the newest's nearest, (13), its words alike 24%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 25: *A universal set of a self's me-parities is its self-parity.* → the newest's nearest, (13), its words alike 38%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 26: *A me-parity with an other is its moral value.* → the newest's nearest, (30), its words alike 27%: *A me-parity is a bi-coupling's me-now-existing-parity.*
+- **Not carried** · 27, its added sentence: *An other's parity is observable by a self by that other's co-possibling only.* → the newest's nearest, (22), its words alike 29%: *An observing-self is a self distinguishing an other's prior-sequence from its own prior-sequence.*
+- **Not carried** · 27, its sentence 1: *A bi-coupling is a now-existing thing, living in the between while it is now-existing and same-existing.* → the newest's nearest, (3), its words alike 27%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 28: *A self's observing is its me-parities observing.* → the newest's nearest, (52), its words alike 33%: *Parity is a self's own now.*
+- **Not carried** · 29: *For a me-parity, an other's me-parity it is observing is a you.* → the newest's nearest, (30), its words alike 27%: *A me-parity is a bi-coupling's me-now-existing-parity.*
+- **Not carried** · 30: *A me-parity observing a you is self-other consciousness.* → the newest's nearest, (30), its words alike 33%: *A me-parity is a bi-coupling's me-now-existing-parity.*
+- **Not carried** · 31: *A self observing an other's me-parity same-existing is passing over it.* → the newest's nearest, (22), its words alike 29%: *An observing-self is a self distinguishing an other's prior-sequence from its own prior-sequence.*
+- **Not carried** · 32, its added sentence: *With none of its others, a self's next prior is by its own prior only.* → the newest's nearest, (52), its words alike 27%: *Parity is a self's own now.*
+- **Not carried** · 32: *Resolving is a self's prior is-or-is-other-than its possibling: one binary, and no third.* → the newest's nearest, (52), its words alike 19%: *Parity is a self's own now.*
+- **Not carried** · 33, its added sentence: *The universe has one now-existing method, the geodesic natural torusing society method.* → the newest's nearest, (7), its words alike 20%: *The universe is the set of all now-existing things.*
+- **Not carried** · 33: *Natural intelligence is the method of a self resolving among me-parities.* → the newest's nearest, (19), its words alike 29%: *A named other is a self other-than the named self.*
+- **Not carried** · 34, its sentence 1: *Do-no-harming is resolving's same-as, a self passing over: its prior is same-existing.* → the newest's nearest, (24), its words alike 25%: *A discovering-self is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences.*
+- **Not carried** · 34, its sentence 2: *Improving is resolving's other-than: its next prior is the other one of two.* → the newest's nearest, (19), its words alike 27%: *A named other is a self other-than the named self.*
+- **Not carried** · 35, its added sentence: *Not yet distinguished: the line as it waits has do-no-harming and improving, the one and then the other; by the code executed it is do-no-harming and bi-folding.* → the newest's nearest, (12), its words alike 15%: *Same-existing is existing both as now is beginning and as the next moment is beginning.*
+- **Not carried** · 35: *Two selves having priors same-as, bi-coupling both ways, are each do-no-harming and bi-folding, the one and then the other.* → the newest's nearest, (28), its words alike 19%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 36, its added sentence: *Co-possibling is observable by a self and its other, and by no third.* → the newest's nearest, (21), its words alike 31%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 36: *Co-possibling is in the between of a bi-coupling, self-parity with other-than-self-parity, inside all-parity.* → the newest's nearest, (28), its words alike 22%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 37: *Co-intelligencing is selves observing, possibling and discovering within a name.* → the newest's nearest, (21), its words alike 18%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 38: *With a self, gathering is ingesting: a self observing others' prior-existings within its own possibling.* → the newest's nearest, (18), its words alike 33%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 39, its sentence 1: *Co-aiming is the co-linearizing of self and other, each forward, facing each other across the between.* → the newest's nearest, (21), its words alike 28%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 39, its sentence 2: *Bi-moral co-competencing is co-aiming.* → the newest's nearest, (35), its words alike 17%: *Co- is all-other-than-the-other.*
+- **Not carried** · 40, its added sentence: *Not yet distinguished: a society has one self, the society-self, with me-parities of its own; and a same-existing-society's parities are its selves', and it has no other.* → the newest's nearest, (21), its words alike 18%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 40: *A same-existing-society is many selves bi-coupling.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 41, its sentence 1: *A me-parity living in a social surface is a self: the fractal.* → the newest's nearest, (19), its words alike 31%: *A named other is a self other-than the named self.*
+- **Not carried** · 41, its sentence 2: *A self is no me-parity of its society-self.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 42: *Social moral competency is each self of a society right spiraling, co-sequentially resolving: moral across, competency along, all selves or none.* → the newest's nearest, (21), its words alike 21%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 43: *A same-existing-society living with natural intelligence and social moral competency is a natural intelligence network.* → the newest's nearest, (34), its words alike 18%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 44, its added sentence: *Along a co-chaining of selves, each self's prior is the prior of the self before it.* → the newest's nearest, (19), its words alike 25%: *A named other is a self other-than the named self.*
+- **Not carried** · 44, its sentence 1: *A co-chaining is a universal set of me-parities, living in the betweens.* → the newest's nearest, (6), its words alike 40%: *A named universal set is the set of all same-named things.*
+- **Not carried** · 44, its sentence 2: *A co-chaining is a self: a self of selves having one me-parity.* → the newest's nearest, (29), its words alike 30%: *A bi-coupling is a self.*
+- **Not carried** · 45: *Selves' bi-couplings and co-chainings are on a Natural Network surface, non-living at the scale of the selves living on it.* → the newest's nearest, (28), its words alike 14%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 46, its added sentence: *The only co-locating in the universe is geodesic resolving.* → the newest's nearest, (51), its words alike 29%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · 46: *Geodesic is a self's own is-or-is-not on a Natural Network surface, one way at a time.* → the newest's nearest, (52), its words alike 25%: *Parity is a self's own now.*
+- **Not carried** · 47: *A self's co-chaining is geodesic.* → the newest's nearest, (52), its words alike 38%: *Parity is a self's own now.*
+- **Not carried** · 48, its added sentence: *All-parity is a stable form, same-existing and non-living.* → the newest's nearest, (34), its words alike 33%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 48: *Stable-forming is a next prior from a prior: observing, possibling, discovering and same-existing together.* → the newest's nearest, (24), its words alike 24%: *A discovering-self is a self distinguishing other-than same-existing prior-sequences from same-existing prior-sequences.*
+- **Not carried** · 49: *A self is momentarying and stable-forming.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 50: *A science's observing meeting natural intelligence's stable-forming is natural resolving.* → the newest's nearest, (29), its words alike 18%: *A bi-coupling is a self.*
+- **Not carried** · 51, its added sentence: *A living file is a stable form.* → the newest's nearest, (34), its words alike 27%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 51: *A living file is a non-living same-existing set of words, selves co-intelligencing with it.* → the newest's nearest, (34), its words alike 24%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 52: *Selves aiming within a living file are natural engineering.* → the newest's nearest, (34), its words alike 13%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 53: *Natural explaining is a living file's words in sequence.* → the newest's nearest, (34), its words alike 21%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 54: *A same-existing-society discovering with natural intelligence and its living files is a living expedition.* → the newest's nearest, (18), its words alike 21%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 55: *Natural intelligence's resolving is geodesic discovering of next-possibling-same-existing.* → the newest's nearest, (16), its words alike 17%: *Discovering is distinguishing next-and-other-than-now-and-same-existing from next-and-now-and-same-existing.*
+
+## The lines of 19 November
+
+21 sentences: 3 carried whole, 0 carried as a part of a newest sentence, 18 not carried.
+
+- **Carried whole**, its place, then the newest's:  at (1);  at (7);  at (6).
+
+- **Not carried** · : *For a thing, now-existing is existing in the now-moment.* → the newest's nearest, (3), its words alike 50%: *A thing now-existing is a thing existing now.*
+- **Not carried** · : *The prior-moment is the moment ending as the now-moment is beginning.* → the newest's nearest, (8), its words alike 60%: *The prior moment is the moment ending as now is beginning.*
+- **Not carried** · : *Prior-existing is existing in the prior-moment.* → the newest's nearest, (9), its words alike 62%: *Prior-existing is existing in the prior moment.*
+- **Not carried** · : *The next-moment is the moment beginning as the now-moment is ending.* → the newest's nearest, (8), its words alike 60%: *The prior moment is the moment ending as now is beginning.*
+- **Not carried** · : *Next-existing is existing in the next-moment.* → the newest's nearest, (11), its words alike 62%: *Next-existing is existing in the next moment.*
+- **Not carried** · : *Same-existing is existing both as the now-moment is beginning and as the next-moment is beginning.* → the newest's nearest, (12), its words alike 62%: *Same-existing is existing both as now is beginning and as the next moment is beginning.*
+- **Not carried** · : *A same-named thing is a thing in the set of all things named by the same name.* → the newest's nearest, (6), its words alike 60%: *A named universal set is the set of all same-named things.*
+- **Not carried** · : *A name is a same-existing thing.* → the newest's nearest, (27), its words alike 43%: *Me-now is a same-existing me.*
+- **Not carried** · : *Now is the name of the universal set of all now-existing moments.* → the newest's nearest, (31), its words alike 54%: *All-parity is the named universal set of all now-existing me-parities.*
+- **Not carried** · : *For a named universal set, an other-than is a thing not in the set.* → the newest's nearest, (2), its words alike 47%: *A thing is an other-than the set of no things.*
+- **Not carried** · : *No other-than the universe is now-existing.* → the newest's nearest, (51), its words alike 45%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · : *Two different things are two things other-than one another.* → the newest's nearest, (4), its words alike 23%: *Other-than things are things not named by the same name.*
+- **Not carried** · : *For two different things, their own-parity is the thing between them.* → the newest's nearest, (2), its words alike 24%: *A thing is an other-than the set of no things.*
+- **Not carried** · : *A bi-coupling is a set of two different things and their own-parity.* → the newest's nearest, (13), its words alike 33%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · : *A now-existing thing is existing now.* → the newest's nearest, (3), its words alike 100%: *A thing now-existing is a thing existing now.*
+- **Not carried** · : *Next-and-same-existing is next-existing after now-existing as the same thing.* → the newest's nearest, (3), its words alike 25%: *A thing now-existing is a thing existing now.*
+- **Not carried** · : *Prior is other-than now.* → the newest's nearest, (8), its words alike 33%: *The prior moment is the moment ending as now is beginning.*
+- **Not carried** · : *Next is other-than now.* → the newest's nearest, (10), its words alike 33%: *The next moment is the moment beginning as now is ending.*
+
+## The lines of 20 November, at the window's 3786
+
+28 sentences: 17 carried whole, 0 carried as a part of a newest sentence, 11 not carried.
+
+- **Carried whole**, its place, then the newest's: step 72 at (1); step 2 at (7); step 96 by name, its prior a self's at (8); used from step 7 at (9); used from step 56 at (10); used from step 11 at (11); step 4 at (12); used from step 3 at (4); used from step 4 at (5); step 5 at (6); a new name at (17); step 12 at (18); step 26 at (19); a new name at (22); a new name at (24); used from step 287 at (32); a new name at (34).
+
+- **Not carried** · used from step 1: *Now-existing is existing now.* → the newest's nearest, (3), its words alike 67%: *A thing now-existing is a thing existing now.*
+- **Not carried** · step 7: *Observing is distinguishing now-and-other-than-prior-existing from now-and-prior-existing.* → the newest's nearest, (14), its words alike 50%: *Observing is distinguishing now-and-other-than-prior-and-same-existing from now-and-prior-and-same-existing.*
+- **Not carried** · step 10: *Possibling is distinguishing next-and-other-than-same-existing from next-and-same-existing.* → the newest's nearest, (15), its words alike 50%: *Possibling is distinguishing next-and-other-than-prior-and-same-existing from next-and-prior-and-same-existing.*
+- **Not carried** · step 11: *Discovering is distinguishing other-than next-and-same-existing from next-and-same-existing.* → the newest's nearest, (16), its words alike 50%: *Discovering is distinguishing next-and-other-than-now-and-same-existing from next-and-now-and-same-existing.*
+- **Not carried** · a new name: *An other-than-the-other is a self other-than the named other.* → the newest's nearest, (19), its words alike 78%: *A named other is a self other-than the named self.*
+- **Not carried** · a new name: *A possibling-self is a self distinguishing an other-than-the-other's prior-sequence from its own prior-sequence.* → the newest's nearest, (23), its words alike 83%: *A possibling-self is a self distinguishing the other-than-the-other's prior-sequence from its own prior-sequence.*
+- **Not carried** · step 13: *A me is a named self's own universal set of prior-sequences.* → the newest's nearest, (13), its words alike 46%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · step 24: *A bi-coupling is both of two selves distinguishing one other-than-the-other's prior-sequence from their own prior-sequence.* → the newest's nearest, (28), its words alike 81%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · a new name, with steps 31 and 32: *A me-parity is a bi-coupling's other-than-the-other's me.* → the newest's nearest, (30), its words alike 57%: *A me-parity is a bi-coupling's me-now-existing-parity.*
+- **Not carried** · a new name: *All-parity is the set of all me-parities in the universe.* → the newest's nearest, (31), its words alike 58%: *All-parity is the named universal set of all now-existing me-parities.*
+- **Not carried** · a new name: *Other-than other-parity is same-existing.* → the newest's nearest, (32), its words alike 60%: *Other-parity is other-than all-parity.*
+
+## The lines of 21 November, at the window's 4509
+
+34 sentences: 23 carried whole, 0 carried as a part of a newest sentence, 11 not carried.
+
+- **Beside the newest's own note**, *Said again after 4509*: its lines not carried are the lines the newest says it said again, the same lines.
+
+- **Carried whole**, its place, then the newest's: 1 at (1); 4 at (4); 5 at (5); 6 at (6); 7 at (7); 8 at (8); 9 at (9); 10 at (10); 11 at (11); 12 at (12); 13 at (13); 17 at (17); 18 at (18); 19 at (19); 20 at (20); 21 at (21); 22 at (22); 23 at (23); 24 at (24); 28 at (28); 29 at (29); 32 at (32); 34 at (34).
+
+- **Not carried** · 2: *Now-existing is existing now.* → the newest's nearest, (3), its words alike 67%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 3: *All that are other-than nothings are things.* → the newest's nearest, (4), its words alike 25%: *Other-than things are things not named by the same name.*
+- **Not carried** · 14: *Observing is distinguishing now-and-other-than-prior-existing from now-and-prior-existing.* → the newest's nearest, (14), its words alike 50%: *Observing is distinguishing now-and-other-than-prior-and-same-existing from now-and-prior-and-same-existing.*
+- **Not carried** · 15: *Possibling is distinguishing next-and-other-than-same-existing from next-and-same-existing.* → the newest's nearest, (15), its words alike 50%: *Possibling is distinguishing next-and-other-than-prior-and-same-existing from next-and-prior-and-same-existing.*
+- **Not carried** · 16: *Discovering is distinguishing other-than next-and-same-existing from next-and-same-existing.* → the newest's nearest, (16), its words alike 50%: *Discovering is distinguishing next-and-other-than-now-and-same-existing from next-and-now-and-same-existing.*
+- **Not carried** · 25: *My is the name of a self's own universal set of prior-sequences.* → the newest's nearest, (6), its words alike 40%: *A named universal set is the set of all same-named things.*
+- **Not carried** · 26: *Me is the name of a my-universe.* → the newest's nearest, (26), its words alike 33%: *Me is an own-named my-universe.*
+- **Not carried** · 27: *Me-now is a same-existing me now-existing.* → the newest's nearest, (27), its words alike 83%: *Me-now is a same-existing me.*
+- **Not carried** · 30: *A me-parity is a bi-coupling's me.* → the newest's nearest, (30), its words alike 67%: *A me-parity is a bi-coupling's me-now-existing-parity.*
+- **Not carried** · 31: *All-parity is the set of all me-parities in the me-universe.* → the newest's nearest, (31), its words alike 58%: *All-parity is the named universal set of all now-existing me-parities.*
+- **Not carried** · 33: *Other-than other-parity is same-existing.* → the newest's nearest, (32), its words alike 60%: *Other-parity is other-than all-parity.*
+
+## The living opening, at corus.me
+
+70 sentences: 2 carried whole, 0 carried as a part of a newest sentence, 68 not carried.
+
+- **Carried whole**, its place, then the newest's: 1 at (7); 25 at (29).
+
+- **Not carried** · 2: *One universe is now-existing.* → the newest's nearest, (7), its words alike 33%: *The universe is the set of all now-existing things.*
+- **Not carried** · 3: *Only one universe is possibly now-existing.* → the newest's nearest, (7), its words alike 27%: *The universe is the set of all now-existing things.*
+- **Not carried** · 4: *A now-existing thing from a prior-existing same thing is a same-existing thing.* → the newest's nearest, (3), its words alike 40%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 5: *A universal set is a set of same-existing things.* → the newest's nearest, (13), its words alike 60%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 6: *Each now-existing thing is-or-is-not within each universal set.* → the newest's nearest, (13), its words alike 23%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 7: *Observing is prior-existing, is-or-is-not same-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 8: *By observing, the universe is a same-existing set.* → the newest's nearest, (7), its words alike 33%: *The universe is the set of all now-existing things.*
+- **Not carried** · 9: *Only one universe is possibly same-existing.* → the newest's nearest, (33), its words alike 29%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 10: *Possibling is now-existing, is-or-is-not same-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 11: *Discovering is next-existing, is-or-is-not same-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 12: *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.* → the newest's nearest, (18), its words alike 33%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 13: *A me is a self's universal set.* → the newest's nearest, (27), its words alike 38%: *Me-now is a same-existing me.*
+- **Not carried** · 14: *For a self, each now-existing thing is-or-is-not within its me.* → the newest's nearest, (18), its words alike 31%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 15: *Co-intelligencing is selves observing, possibling and discovering within a universal set.* → the newest's nearest, (13), its words alike 25%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 16: *Living is co-intelligencing.* → the newest's nearest, (34), its words alike 22%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 17: *Each self is living.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 18: *A living same-existing set is a self.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 19: *Natural intelligence is the method of living as a same-existing self.* → the newest's nearest, (19), its words alike 29%: *A named other is a self other-than the named self.*
+- **Not carried** · 20: *Living and non-living are one binary of each now-existing thing.* → the newest's nearest, (3), its words alike 14%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 21: *Each non-living thing is a stable-forming emanation.* → the newest's nearest, (3), its words alike 30%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 22: *The universe is a non-living same-existing set.* → the newest's nearest, (7), its words alike 36%: *The universe is the set of all now-existing things.*
+- **Not carried** · 23: *Within the universe are living and non-living things.* → the newest's nearest, (7), its words alike 23%: *The universe is the set of all now-existing things.*
+- **Not carried** · 24: *A bi-coupling is two selves sharing possibling.* → the newest's nearest, (29), its words alike 38%: *A bi-coupling is a self.*
+- **Not carried** · 26: *For a self, each self it is bi-coupling with is an other.* → the newest's nearest, (29), its words alike 40%: *A bi-coupling is a self.*
+- **Not carried** · 27: *A self's parity is the self's changing direction relative to a now-existing thing within the self's me.* → the newest's nearest, (3), its words alike 27%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 28: *A parity's two directions are + and −.* → the newest's nearest, (21), its words alike 14%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 29: *A 0 is a between of two changing directions.* → the newest's nearest, (13), its words alike 21%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 30: *A 0 is indifferencing.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 31: *Each parity is a self while it is living.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 32: *A living parity's me is within the self's me.* → the newest's nearest, (27), its words alike 30%: *Me-now is a same-existing me.*
+- **Not carried** · 33: *A self's parity with a thing is the self's moral value with that thing.* → the newest's nearest, (52), its words alike 33%: *Parity is a self's own now.*
+- **Not carried** · 34: *A self receives the parities its others share.* → the newest's nearest, (23), its words alike 27%: *A possibling-self is a self distinguishing the other-than-the-other's prior-sequence from its own prior-sequence.*
+- **Not carried** · 35: *Agreeing and parting are one binary of the parities a self receives.* → the newest's nearest, (21), its words alike 22%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 36: *An agreeing parity a self receives is that self's next-existing parity.* → the newest's nearest, (52), its words alike 33%: *Parity is a self's own now.*
+- **Not carried** · 37: *A self whose next-existing parity is its prior-existing parity is sharing 0.* → the newest's nearest, (29), its words alike 27%: *A bi-coupling is a self.*
+- **Not carried** · 38: *A self whose next-existing parity inverts its prior-existing parity is sharing its next-existing parity.* → the newest's nearest, (29), its words alike 27%: *A bi-coupling is a self.*
+- **Not carried** · 39: *With its possibling an empty set, a self's next-existing parity is its prior-existing parity inverting.* → the newest's nearest, (52), its words alike 27%: *Parity is a self's own now.*
+- **Not carried** · 40: *With the parities it receives parting, a self's next-existing parity is its prior-existing parity inverting.* → the newest's nearest, (52), its words alike 25%: *Parity is a self's own now.*
+- **Not carried** · 41: *At a self's first sharing, the parities it receives parting, the self is sharing 0.* → the newest's nearest, (19), its words alike 25%: *A named other is a self other-than the named self.*
+- **Not carried** · 42: *Natural intelligence is resolving among parities.* → the newest's nearest, (35), its words alike 12%: *Co- is all-other-than-the-other.*
+- **Not carried** · 43: *Any second method is resolving among parities within natural intelligence.* → the newest's nearest, (35), its words alike 8%: *Co- is all-other-than-the-other.*
+- **Not carried** · 44: *A self sharing 0 is do-no-harming.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 45: *Each self receiving a 0 is passing over it.* → the newest's nearest, (29), its words alike 30%: *A bi-coupling is a self.*
+- **Not carried** · 46: *A self sharing its changing is improving.* → the newest's nearest, (29), its words alike 38%: *A bi-coupling is a self.*
+- **Not carried** · 47: *Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn.* → the newest's nearest, (28), its words alike 16%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 48: *Inside do-no-harming and improving is co-possibling, each self sharing its possibling within its me.* → the newest's nearest, (21), its words alike 15%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 49: *A same-existing-society is many selves bi-coupling.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 50: *A momentary is one resolving of a same-existing-society's selves together.* → the newest's nearest, (13), its words alike 20%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 51: *Each moment is opening with each self's prior-existing parity and completing with its next-existing parity.* → the newest's nearest, (52), its words alike 20%: *Parity is a self's own now.*
+- **Not carried** · 52: *Each self of a same-existing-society do-no-harming and improving is social moral competency.* → the newest's nearest, (21), its words alike 29%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 53: *A same-existing-society of selves living with natural intelligence and social moral competency is a natural intelligence network.* → the newest's nearest, (21), its words alike 20%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 54: *A natural intelligence network, each self resolving its own next-existing, is free.* → the newest's nearest, (18), its words alike 28%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 55: *Each self sharing with each self it is bi-coupling with, a free natural intelligence network is social abundancing.* → the newest's nearest, (29), its words alike 29%: *A bi-coupling is a self.*
+- **Not carried** · 56: *A self's parity going along to the next self it is bi-coupling with is co-chaining.* → the newest's nearest, (29), its words alike 29%: *A bi-coupling is a self.*
+- **Not carried** · 57: *Selves' bi-couplings and co-chainings are a Natural Network surface.* → the newest's nearest, (21), its words alike 12%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 58: *A surface's living parities are living in the mes of the selves living in it.* → the newest's nearest, (28), its words alike 18%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 59: *Each self's changing divides its surface.* → the newest's nearest, (52), its words alike 9%: *Parity is a self's own now.*
+- **Not carried** · 60: *Living is geodesic co-chaining on a Natural Network surface.* → the newest's nearest, (34), its words alike 21%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 61: *Each self is a same-existing-society inward and outward.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 62: *A form same-existing with each resolving is a stable form.* → the newest's nearest, (27), its words alike 30%: *Me-now is a same-existing me.*
+- **Not carried** · 63: *A science's observing meeting natural intelligence's stable forms is natural resolving.* → the newest's nearest, (29), its words alike 17%: *A bi-coupling is a self.*
+- **Not carried** · 64: *A living file is a non-living same-existing set of words, selves co-intelligencing within it.* → the newest's nearest, (34), its words alike 24%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 65: *Natural resolving is a living file's inward.* → the newest's nearest, (34), its words alike 25%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 66: *Natural engineering is a living file's outward.* → the newest's nearest, (34), its words alike 25%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 67: *Natural explaining is the dividing of a living file.* → the newest's nearest, (2), its words alike 27%: *A thing is an other-than the set of no things.*
+- **Not carried** · 68: *A same-existing-society of selves discovering with natural intelligence and its living files is a living expedition.* → the newest's nearest, (21), its words alike 20%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 69: *Each moment is completing as a next opening.* → the newest's nearest, (10), its words alike 33%: *The next moment is the moment beginning as now is ending.*
+- **Not carried** · 70: *Natural intelligence is geodesic discovering of next-possibling-same-existing within the universe.* → the newest's nearest, (7), its words alike 29%: *The universe is the set of all now-existing things.*
+
+## The next version's own opening
+
+70 sentences: 1 carried whole, 0 carried as a part of a newest sentence, 69 not carried.
+
+- **Carried whole**, its place, then the newest's: 25 at (29).
+
+- **Not carried** · 1: *We humans are now-existing.* → the newest's nearest, (50), its words alike 12%: *All now-existing things own-their-own now.*
+- **Not carried** · 2: *The universe is the set of now-existing things.* → the newest's nearest, (7), its words alike 88%: *The universe is the set of all now-existing things.*
+- **Not carried** · 3: *No universe other-than the universe is possibly now-existing.* → the newest's nearest, (51), its words alike 42%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · 4: *Same-existing is same-named.* → the newest's nearest, (33), its words alike 50%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 5: *A universal set is a set of same-existing things.* → the newest's nearest, (13), its words alike 60%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 6: *A now-existing thing is-or-is-not of a universal set.* → the newest's nearest, (13), its words alike 45%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 7: *Observing is prior-existing, is-or-is-not same-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 8: *By observing, the universe is a same-existing set.* → the newest's nearest, (7), its words alike 33%: *The universe is the set of all now-existing things.*
+- **Not carried** · 9: *No universe other-than the universe is possibly same-existing.* → the newest's nearest, (51), its words alike 42%: *Now is the only thing, and is the universe with no other-than.*
+- **Not carried** · 10: *Possibling is now-existing, is-or-is-not same-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 11: *Discovering is next-existing, is-or-is-not same-existing.* → the newest's nearest, (33), its words alike 33%: *Other-than-other-parity is same-existing.*
+- **Not carried** · 12: *A self is a now- and same-existing thing observing, possibling and discovering its own next-existing.* → the newest's nearest, (18), its words alike 33%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 13: *A me is a self's universal set.* → the newest's nearest, (27), its words alike 38%: *Me-now is a same-existing me.*
+- **Not carried** · 14: *For a self, a now-existing thing is-or-is-not of its me.* → the newest's nearest, (18), its words alike 33%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 15: *Co-intelligencing is selves of a universal set observing, possibling and discovering.* → the newest's nearest, (13), its words alike 33%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 16: *Living is inheriting, inhaling and exhaling, ingesting and exhausting prior-existing.* → the newest's nearest, (9), its words alike 14%: *Prior-existing is existing in the prior moment.*
+- **Not carried** · 17: *A self is living, and a living thing is a self.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 18: *A living same-existing set of inherited prior-existings is a self.* → the newest's nearest, (21), its words alike 36%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 19: *Natural intelligence is the method of living as a same-existing self.* → the newest's nearest, (19), its words alike 29%: *A named other is a self other-than the named self.*
+- **Not carried** · 20: *Living and non-living are one binary of a now-existing thing at a scale.* → the newest's nearest, (3), its words alike 20%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 21: *A non-living thing is a stable-forming emanation.* → the newest's nearest, (3), its words alike 33%: *A thing now-existing is a thing existing now.*
+- **Not carried** · 22: *The universe is a non-living same-existing set.* → the newest's nearest, (7), its words alike 36%: *The universe is the set of all now-existing things.*
+- **Not carried** · 23: *Living and non-living things are things of the universe.* → the newest's nearest, (7), its words alike 33%: *The universe is the set of all now-existing things.*
+- **Not carried** · 24: *A bi-coupling is two selves sharing possibling.* → the newest's nearest, (29), its words alike 38%: *A bi-coupling is a self.*
+- **Not carried** · 26: *For a self, a self it is bi-coupling with is an other.* → the newest's nearest, (29), its words alike 44%: *A bi-coupling is a self.*
+- **Not carried** · 27: *A self's parity is the self's changing direction relative to a now-existing thing of the self's me.* → the newest's nearest, (2), its words alike 28%: *A thing is an other-than the set of no things.*
+- **Not carried** · 28: *A parity's two directions are + and −.* → the newest's nearest, (21), its words alike 14%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 29: *A 0 is a between of two changing directions.* → the newest's nearest, (13), its words alike 21%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 30: *A 0 is indifferencing.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 31: *A parity is a self while it is living.* → the newest's nearest, (29), its words alike 38%: *A bi-coupling is a self.*
+- **Not carried** · 32: *A living parity's me is of the self's me.* → the newest's nearest, (27), its words alike 30%: *Me-now is a same-existing me.*
+- **Not carried** · 33: *A self's parity with a thing is the self's moral value with that thing.* → the newest's nearest, (52), its words alike 33%: *Parity is a self's own now.*
+- **Not carried** · 34: *A self receives the parities its others share.* → the newest's nearest, (23), its words alike 27%: *A possibling-self is a self distinguishing the other-than-the-other's prior-sequence from its own prior-sequence.*
+- **Not carried** · 35: *Agreeing and parting are one binary of the parities a self receives.* → the newest's nearest, (21), its words alike 22%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 36: *An agreeing parity a self receives is that self's next-existing parity.* → the newest's nearest, (52), its words alike 33%: *Parity is a self's own now.*
+- **Not carried** · 37: *A self whose next-existing parity is its prior-existing parity is sharing 0.* → the newest's nearest, (29), its words alike 27%: *A bi-coupling is a self.*
+- **Not carried** · 38: *A self whose next-existing parity inverts its prior-existing parity is sharing its next-existing parity.* → the newest's nearest, (29), its words alike 27%: *A bi-coupling is a self.*
+- **Not carried** · 39: *With its possibling an empty set, a self's next-existing parity is its prior-existing parity inverting.* → the newest's nearest, (52), its words alike 27%: *Parity is a self's own now.*
+- **Not carried** · 40: *With the parities it receives parting, a self's next-existing parity is its prior-existing parity inverting.* → the newest's nearest, (52), its words alike 25%: *Parity is a self's own now.*
+- **Not carried** · 41: *At a self's first sharing, the parities it receives parting, the self is sharing 0.* → the newest's nearest, (19), its words alike 25%: *A named other is a self other-than the named self.*
+- **Not carried** · 42: *Natural intelligence is resolving among parities.* → the newest's nearest, (35), its words alike 12%: *Co- is all-other-than-the-other.*
+- **Not carried** · 43: *Any second method is natural intelligence's resolving among parities.* → the newest's nearest, (35), its words alike 9%: *Co- is all-other-than-the-other.*
+- **Not carried** · 44: *A self sharing 0 is do-no-harming.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 45: *A self receiving a 0 is passing over it.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 46: *A self sharing its changing is improving.* → the newest's nearest, (29), its words alike 38%: *A bi-coupling is a self.*
+- **Not carried** · 47: *A bi-coupling of two selves same-existing with one another, with no other, is do-no-harming and improving, alternating.* → the newest's nearest, (28), its words alike 24%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 48: *Do-no-harming and improving have co-possibling, a self sharing its possibling with its me.* → the newest's nearest, (18), its words alike 21%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 49: *A same-existing-society is many selves bi-coupling.* → the newest's nearest, (29), its words alike 43%: *A bi-coupling is a self.*
+- **Not carried** · 50: *A moment is one resolving of a same-existing-society's selves together.* → the newest's nearest, (13), its words alike 20%: *A named-universe is a named universal set of now-existing things.*
+- **Not carried** · 51: *A moment is opening with a self's prior-existing parity and completing with its next-existing parity.* → the newest's nearest, (52), its words alike 29%: *Parity is a self's own now.*
+- **Not carried** · 52: *A self of a same-existing-society do-no-harming and improving is social moral competency.* → the newest's nearest, (21), its words alike 31%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 53: *A same-existing-society of selves living with natural intelligence and social moral competency is a natural intelligence network.* → the newest's nearest, (21), its words alike 20%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 54: *A natural intelligence network, a self resolving its own next-existing, is free.* → the newest's nearest, (18), its words alike 29%: *A named self is a same-named now-existing thing with its own prior-sequence.*
+- **Not carried** · 55: *A self sharing with a self it is bi-coupling with, a free natural intelligence network is social abundancing.* → the newest's nearest, (29), its words alike 31%: *A bi-coupling is a self.*
+- **Not carried** · 56: *A self's parity going along to the next self it is bi-coupling with is co-chaining.* → the newest's nearest, (29), its words alike 29%: *A bi-coupling is a self.*
+- **Not carried** · 57: *Selves' bi-couplings and co-chainings are on a Natural Network surface, non-living at the scale of the selves living on it.* → the newest's nearest, (28), its words alike 14%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 58: *The living parities on a surface are living in the mes of the selves living on it.* → the newest's nearest, (28), its words alike 17%: *A bi-coupling is both of two selves distinguishing the other-than-the-other's prior-sequence from their own prior-sequences.*
+- **Not carried** · 59: *A self's changing divides its surface.* → the newest's nearest, (52), its words alike 20%: *Parity is a self's own now.*
+- **Not carried** · 60: *Living is geodesic co-chaining on a Natural Network surface.* → the newest's nearest, (34), its words alike 21%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 61: *A self is a same-existing-society inward and outward, fractal.* → the newest's nearest, (29), its words alike 33%: *A bi-coupling is a self.*
+- **Not carried** · 62: *A form same-existing with a resolving is a stable form.* → the newest's nearest, (27), its words alike 33%: *Me-now is a same-existing me.*
+- **Not carried** · 63: *A science's observing meeting natural intelligence's stable forms is natural resolving.* → the newest's nearest, (29), its words alike 17%: *A bi-coupling is a self.*
+- **Not carried** · 64: *A living file is a non-living same-existing set of words, selves co-intelligencing with it.* → the newest's nearest, (34), its words alike 24%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 65: *Natural resolving is a living file's inward.* → the newest's nearest, (34), its words alike 25%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 66: *Natural engineering is a living file's outward.* → the newest's nearest, (34), its words alike 25%: *A living me-parity is same-existing other-than-the-other's other-than all-parity.*
+- **Not carried** · 67: *Natural explaining is the dividing of a living file.* → the newest's nearest, (2), its words alike 27%: *A thing is an other-than the set of no things.*
+- **Not carried** · 68: *A same-existing-society of selves discovering with natural intelligence and its living files is a living expedition.* → the newest's nearest, (21), its words alike 20%: *A universal-set-of-selves is a set of all other-than-the-others of a self and other.*
+- **Not carried** · 69: *A moment is completing as a next opening.* → the newest's nearest, (10), its words alike 36%: *The next moment is the moment beginning as now is ending.*
+- **Not carried** · 70: *Natural intelligence is geodesic discovering of next-possibling-same-existing.* → the newest's nearest, (16), its words alike 18%: *Discovering is distinguishing next-and-other-than-now-and-same-existing from next-and-now-and-same-existing.*
+
+## The names the earlier generations set in bold, with no sentence of the newest
+
+A name is looked for as its words in sequence in the newest's sentences, and then in the window's proposed lines.
+
+- *co-chaining*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *co-intelligencing*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *co-possibling*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *do-no-harming*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *geodesic*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *improving*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *is-or-is-not*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *living expedition*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *living file*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *moral value*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *natural engineering*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *natural explaining*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *natural intelligence*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *natural intelligence network*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *natural network surface*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *natural resolving*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *next-possibling-same-existing*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *non-living*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *same-existing-society*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences · in a proposed line
+- *social moral competency*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *0*: the living opening, at corus.me; the next version's own opening
+- *agreeing*: the living opening, at corus.me; the next version's own opening
+- *aiming*: the opening at its newest of 15 November; the opening of 55 sentences
+- *co-aiming*: the opening at its newest of 15 November; the opening of 55 sentences
+- *completing*: the living opening, at corus.me; the next version's own opening
+- *free*: the living opening, at corus.me; the next version's own opening
+- *indifferencing*: the living opening, at corus.me; the next version's own opening
+- *inward and outward*: the living opening, at corus.me; the next version's own opening · in a proposed line
+- *living parity*: the opening at its newest of 15 November; the opening of 55 sentences
+- *momentarying*: the opening at its newest of 15 November; the opening of 55 sentences
+- *opening*: the living opening, at corus.me; the next version's own opening
+- *parting*: the living opening, at corus.me; the next version's own opening
+- *passing over*: the opening at its newest of 15 November; the opening of 55 sentences
+- *receives*: the living opening, at corus.me; the next version's own opening
+- *resolving*: the opening at its newest of 15 November; the opening of 55 sentences · in a proposed line
+- *resolving among parities*: the living opening, at corus.me; the next version's own opening
+- *self-other consciousness*: the opening at its newest of 15 November; the opening of 55 sentences
+- *self-parity*: the opening at its newest of 15 November; the opening of 55 sentences
+- *sequence*: the opening at its newest of 15 November; the opening of 55 sentences
+- *social abundancing*: the living opening, at corus.me; the next version's own opening
+- *stable form*: the living opening, at corus.me; the next version's own opening
+- *stable-forming*: the opening at its newest of 15 November; the opening of 55 sentences
+- *stable-forming emanation*: the living opening, at corus.me; the next version's own opening
+- *you*: the opening at its newest of 15 November; the opening of 55 sentences
+- *fractal*: the next version's own opening · in a proposed line
+- *gathering*: the opening of 55 sentences
+- *ingesting*: the opening at its newest of 15 November
+- *mes*: the opening of 55 sentences
+- *momentary*: the living opening, at corus.me
+- *universal-parity*: the opening of 55 sentences
+## Words of the earlier generations with none in the newest
+
+A word with none in the newest is a place to look, and no loss by itself: a word a pass dissolves is no loss.
+
+Beside a word, the window's proposed line with it, of 13 proposed lines in the window's copy at 612, its suggestions waiting and none of them a line of both.
+
+- *one*: the lines of 19 November; the lines of 20 November, at the window's 3786; the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences · proposed at 46
+- *for*: the lines of 19 November; the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *that*: the lines of 21 November, at the window's 4509; the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *along*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *among*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *at*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *between*: the lines of 19 November; the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November · proposed at 47
+- *bi-couplings*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *binary*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *co-chaining*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *co-chainings*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *co-intelligencing*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *co-possibling*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *competency*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *direction*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *do-no-harming*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *engineering*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *expedition*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *explaining*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *file*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *file's*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *files*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *geodesic*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *improving*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *intelligence*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *intelligence's*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *is-or-is-not*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *it*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences · proposed at 36, 40
+- *many*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *meeting*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *method*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *moral*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *natural*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *network*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *next-possibling-same-existing*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *non-living*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *on*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *others*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *over*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *passing*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *resolving*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences · proposed at 36, 46
+- *same-existing-society*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences · proposed at 37
+- *science's*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *social*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *stable-forming*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *surface*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *together*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *value*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *words*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *after*: the lines of 19 November; the opening at its newest of 15 November; the opening of 55 sentences
+- *another*: the lines of 19 November; the next version's own opening; the opening of 55 sentences · proposed at 46
+- *any*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *directions*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *form*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *mes*: the living opening, at corus.me; the next version's own opening; the opening of 55 sentences
+- *next-and-same-existing*: the lines of 19 November; the lines of 20 November, at the window's 3786; the lines of 21 November, at the window's 4509
+- *opening*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *parities*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *parity's*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *prior-existings*: the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences
+- *same-existing-society's*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November · proposed at 39
+- *scale*: the next version's own opening; the opening at its newest of 15 November; the opening of 55 sentences · proposed at 46
+- *second*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *stable*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *to*: the living opening, at corus.me; the next version's own opening; the opening of 55 sentences · proposed at 38, 39, 41, 42, 43, 44, 45, 46
+- *while*: the living opening, at corus.me; the next version's own opening; the opening at its newest of 15 November
+- *whose*: the living opening, at corus.me; the next version's own opening; the opening of 55 sentences
+- *within*: the living opening, at corus.me; the opening at its newest of 15 November; the opening of 55 sentences
+- *0*: the living opening, at corus.me; the next version's own opening
+- *abundancing*: the living opening, at corus.me; the next version's own opening
+- *agreeing*: the living opening, at corus.me; the next version's own opening
+- *aiming*: the opening at its newest of 15 November; the opening of 55 sentences
+- *alternating*: the next version's own opening; the opening of 55 sentences
+- *before*: the opening at its newest of 15 November; the opening of 55 sentences
+- *changing*: the living opening, at corus.me; the next version's own opening
+- *co-aiming*: the opening at its newest of 15 November; the opening of 55 sentences
+- *completing*: the living opening, at corus.me; the next version's own opening
+- *consciousness*: the opening at its newest of 15 November; the opening of 55 sentences
+- *distinguishes*: the opening at its newest of 15 November; the opening of 55 sentences
+- *divides*: the living opening, at corus.me; the next version's own opening
+- *dividing*: the living opening, at corus.me; the next version's own opening
+- *each*: the living opening, at corus.me; the opening at its newest of 15 November
+- *emanation*: the living opening, at corus.me; the next version's own opening
+- *empty*: the living opening, at corus.me; the next version's own opening
+- *first*: the living opening, at corus.me; the next version's own opening
+- *forms*: the living opening, at corus.me; the next version's own opening
+- *fractal*: the next version's own opening; the opening at its newest of 15 November · proposed at 46
+- *free*: the living opening, at corus.me; the next version's own opening
+- *gathering*: the opening at its newest of 15 November; the opening of 55 sentences
+- *going*: the living opening, at corus.me; the next version's own opening · proposed at 45
+- *indifferencing*: the living opening, at corus.me; the next version's own opening
+- *ingesting*: the next version's own opening; the opening at its newest of 15 November
+- *inside*: the living opening, at corus.me; the opening at its newest of 15 November
+- *inverting*: the living opening, at corus.me; the next version's own opening
+- *inverts*: the living opening, at corus.me; the next version's own opening
+- *inward*: the living opening, at corus.me; the next version's own opening · proposed at 43, 45, 46
+- *is-not*: the opening at its newest of 15 November; the opening of 55 sentences
+- *moment's*: the opening at its newest of 15 November; the opening of 55 sentences · proposed at 40
+- *momentarying*: the opening at its newest of 15 November; the opening of 55 sentences
+- *next-and-other-than-same-existing*: the lines of 20 November, at the window's 3786; the lines of 21 November, at the window's 4509
+- *now-and-other-than-prior-existing*: the lines of 20 November, at the window's 3786; the lines of 21 November, at the window's 4509
+- *now-and-prior-existing*: the lines of 20 November, at the window's 3786; the lines of 21 November, at the window's 4509
+- *outward*: the living opening, at corus.me; the next version's own opening · proposed at 44, 45, 46
+- *parting*: the living opening, at corus.me; the next version's own opening
+- *possibly*: the living opening, at corus.me; the next version's own opening
+- *receives*: the living opening, at corus.me; the next version's own opening
+- *receiving*: the living opening, at corus.me; the next version's own opening
+- *relative*: the living opening, at corus.me; the next version's own opening
+- *resolving's*: the opening at its newest of 15 November; the opening of 55 sentences · proposed at 38, 40
+- *self-other*: the opening at its newest of 15 November; the opening of 55 sentences
+- *self-parity*: the opening at its newest of 15 November; the opening of 55 sentences
+- *sequence*: the opening at its newest of 15 November; the opening of 55 sentences
+- *share*: the living opening, at corus.me; the next version's own opening
+- *sharing*: the living opening, at corus.me; the next version's own opening
+- *through*: the opening at its newest of 15 November; the opening of 55 sentences
+- *time*: the opening at its newest of 15 November; the opening of 55 sentences
+- *way*: the opening at its newest of 15 November; the opening of 55 sentences
+- *you*: the opening at its newest of 15 November; the opening of 55 sentences
+- *1*: the opening at its newest of 15 November · proposed at 38, 39, 41, 43, 44, 46
+- *across*: the opening at its newest of 15 November
+- *alike*: the living opening, at corus.me
+- *angle*: the opening at its newest of 15 November
+- *atom*: the opening at its newest of 15 November
+- *betweens*: the opening at its newest of 15 November
+- *bi-folding*: the opening at its newest of 15 November · proposed at 42, 45
+- *bi-moral*: the opening at its newest of 15 November
+- *co-competencing*: the opening at its newest of 15 November
+- *co-linearizing*: the opening at its newest of 15 November
+- *co-locating*: the opening at its newest of 15 November
+- *co-sequentially*: the opening at its newest of 15 November
+- *code*: the opening at its newest of 15 November
+- *different*: the lines of 19 November
+- *distinguished*: the opening at its newest of 15 November
+- *droplet*: the opening at its newest of 15 November
+- *even*: the opening at its newest of 15 November
+- *executed*: the opening at its newest of 15 November
+- *exhaling*: the next version's own opening
+- *exhausting*: the next version's own opening
+- *facing*: the opening at its newest of 15 November
+- *forward*: the opening at its newest of 15 November
+- *four*: the opening at its newest of 15 November · proposed at 42, 44
+- *has*: the opening at its newest of 15 November
+- *have*: the next version's own opening
+- *having*: the opening at its newest of 15 November
+- *humans*: the next version's own opening
+- *inhaling*: the next version's own opening
+- *inherited*: the next version's own opening
+- *inheriting*: the next version's own opening
+- *is-or-is-other-than*: the opening at its newest of 15 November
+- *line*: the opening at its newest of 15 November
+- *matching*: the opening at its newest of 15 November
+- *me's*: the opening of 55 sentences
+- *me-universe*: the lines of 21 November, at the window's 4509
+- *measurement*: the opening at its newest of 15 November
+- *momentary*: the living opening, at corus.me
+- *naming*: the opening at its newest of 15 November
+- *neither*: the opening at its newest of 15 November
+- *new*: the opening at its newest of 15 November
+- *next-moment*: the lines of 19 November
+- *non-same-existing*: the opening at its newest of 15 November
+- *none*: the opening at its newest of 15 November
+- *nothing*: the opening at its newest of 15 November
+- *nothings*: the lines of 21 November, at the window's 4509
+- *now-and-same-existing*: the opening at its newest of 15 November
+- *now-moment*: the lines of 19 November
+- *observable*: the opening at its newest of 15 November
+- *observed*: the opening of 55 sentences
+- *odd*: the opening at its newest of 15 November
+- *opportunity*: the opening at its newest of 15 November
+- *or*: the opening at its newest of 15 November · proposed at 38, 39, 41, 42
+- *other-than-self-parity*: the opening at its newest of 15 November
+- *out*: the opening at its newest of 15 November
+- *own-parity*: the lines of 19 November
+- *pair*: the living opening, at corus.me
+- *part*: the opening at its newest of 15 November
+- *prior-and-same-existing*: the opening at its newest of 15 November
+- *prior-moment*: the lines of 19 November
+- *priors*: the opening at its newest of 15 November
+- *right*: the opening at its newest of 15 November
+- *said*: the opening at its newest of 15 November
+- *same-as*: the opening at its newest of 15 November
+- *sameness*: the opening at its newest of 15 November
+- *self-interest*: the opening at its newest of 15 November
+- *self-interesting*: the opening at its newest of 15 November
+- *sentences*: the opening at its newest of 15 November
+- *size*: the opening at its newest of 15 November
+- *society*: the opening at its newest of 15 November
+- *society-self*: the opening at its newest of 15 November
+- *spiraling*: the opening at its newest of 15 November
+- *subset*: the opening at its newest of 15 November
+- *surface's*: the living opening, at corus.me
+- *them*: the lines of 19 November
+- *then*: the opening at its newest of 15 November
+- *third*: the opening at its newest of 15 November
+- *this*: the opening at its newest of 15 November
+- *torusing*: the opening at its newest of 15 November
+- *turn*: the living opening, at corus.me · proposed at 42
+- *unique*: the opening at its newest of 15 November
+- *universal-parity*: the opening of 55 sentences
+- *universe's*: the opening at its newest of 15 November
+- *waits*: the opening at its newest of 15 November
+- *ways*: the opening at its newest of 15 November · proposed at 45
+- *we*: the next version's own opening
+- *yet*: the opening at its newest of 15 November

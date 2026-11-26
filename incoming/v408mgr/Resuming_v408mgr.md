@@ -1,4 +1,4 @@
-Incoming · v408mgr · 25 November 2026, for v409mgr
+Incoming · v408mgr · 25 and 26 November 2026, for v409mgr
 
 # Resuming v408mgr: for v409mgr
 
@@ -27,19 +27,20 @@ Incoming · v408mgr · 25 November 2026, for v409mgr
 - A partner speaks in natural naming and opens no file and no GitHub: what you say in your conversation is what a partner sees. Plain words, short, conclusions ahead of reasons. A partner's word to this session, at a review said with numbers and paths: file names and sizes are a session's own way, and not a partner's.
 - The method is a partner's, and Exhibit TWENTY-SIX's own at its 1.3: *the gathering-value is improved in passes, each droplet one concept or one observing in natural naming and explaining, in its living file's own order; then a copy of the living file is improved from it by do-no-harming until nothing more is found*. A partner's word of 25 November says the same, the droplets cohering and co-chaining whole ahead of the living file. A session proposes no other method.
 - Bothboth: a thing is done once a partner and the session both say it is do no harm. A partner's word in plain words is a word. A sentence offered comes as one sentence with ( is-or-is-not? ), one asking at a time, and a partner is asked only what a partner alone can answer.
+- A partner's saying of 26 November, in this session's words: a partner speaks natural naming and explaining, and the expedition goes by its geodesic methods alone. No asking of a partner names a main or a branch. The bringing in is the managing's own, by Exhibit TWENTY-FOUR 2.8, *One working manages its set. It receives each working's files whole on main*, and by Start here's *What waits for no word*.
 - Only the managing session, in bothboth with a partner, brings a next living file to live at corus.me. And by a partner's word, all the sessions go on adding value to the next living files, do no harm, ahead of the next.
 - A partner brings the managing session in while the sessions rest. It schedules no check-ins of its own, by a partner's word and by Start here.
 
-## 4. The sessions and what waits, at 25 November
+## 4. The sessions and what waits, at 26 November
 
-- **v406me** brings in the offers, by the plan. Its newest line is of the morning of 25 November. Waiting for its bringing in, gone through apart with nothing found: #1294, #1295 and #1296. The working document is its own until a partner hands it on.
+- **The bringing in is the managing session's.** v406me is no session now, by a partner's word of 26 November. An offer gone through with nothing found is brought in with no word asked, and the next version is brought current with the live set after it. This session's own sitting stopped its hand at it twice, asking a partner's word in its conversation. Gone through at their newest with nothing found: #1294 at 60c154f; and #1295, this session's own, at 4c56169 by v409mgr, its commit of 26 November after it to go through. #1296 at 779560c waits for v408primes' answer to the reader's finding at its table. The working document is in this session's account.
 - **v408chain:** the opening sentences of Natural Intelligence. Its four askings are answered, and the window at 612 is copied for it in #1295: its account opens the window at 4509 alone.
 - **v408natural:** from v408chain's work into Natural Intelligence, through the whole method. Its orienting is v408mgr's line of 25 November to it.
-- **v408primes:** a report to the public, from its co-chain from source to destiny and its table of the interests in the primes; by a partner's word to it, no other work. The askings 28 and 44, the next draft's OPENING and ONE, are open with no hand.
+- **v408primes:** a report to the public, from its co-chain from source to destiny and its table of the interests in the primes; by a partner's word to it, no other work. The askings 28 and 44, the next draft's OPENING and ONE, are open with no hand. Its table by the field's record of 26 November: at 13 rows a field's open asking beside *resolved*; at 42 and 50 the field's own proving, Levent Alpöge's formal proof of the Riemann hypothesis of 20 November 2026, beside the one asking's own why. v409mgr's observing of it waits for its answer.
 - **v408illustrating:** the drawings from v406geodesic2's on, beside v408primes' sentences, a check a drawing. The resolving of the two is the working document's own sentence: *a self's next observing is its other's prior discovering, both ways.*
 - **Open with the managing:**
-  - the bringing in, with v406me's absence;
-  - the carrying check of the opening's generations, offered to v408chain;
+  - the bringing in of #1294 and #1295, and of #1296 at its answer;
+  - the carrying check of the opening's generations, laid with its instrument: `incoming/v408mgr/The_carrying_check_of_the_opening_s_generations.md`. The lines of 21 November are carried whole or said again, all of them. The opening of 55 sentences, the opening of 15 November, the living opening and the next version's own opening go on past the newest's stretch, to natural intelligence itself, its method, the living file and the living expedition, names with no sentence of the newest. Their notes wait whole until the newest reaches them;
   - the opening's lines' one place, the head of Exhibit THIRTY's gathering file by Start here or Natural Intelligence's by the plan's sorting, asked of a partner;
   - the closings set by v406me for the managing's going through apart, not begun;
   - Start here's rewriting, shown to a partner ahead of it;
@@ -59,3 +60,5 @@ Incoming · v408mgr · 25 November 2026, for v409mgr
 - The sessions' branches fetched ahead of the closings instrument.
 - Your writing in your own folder, notes in the next version's gathering files, and suggestions and comments in the working document alone.
 - A line's words checked ahead of its posting.
+- An asking of a partner in natural naming alone: a partner speaks no word of main or branch.
+- A field's standing searched again at the writing, its newest sources ahead of older ones: a source of August said the Riemann hypothesis open, and the field's proof of it is of 20 November.
