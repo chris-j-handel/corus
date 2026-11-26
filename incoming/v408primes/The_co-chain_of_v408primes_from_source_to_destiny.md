@@ -107,7 +107,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 79. A number's odd or even is its no-square part's: the **me again adds no inversion**. (proved in 1 to 510,510)
 80. A square's parts, their odd and even added, are 1, **a me**; all other numbers' are 0, exhausted into all-parity. (proved in 1 to 510,510, as 86)
 81. The **side** of a number is its same-existing me's, the me agains along to it. (proved in 1 to 510,510)
-82. A me again has its **next me again** by the +1 of its side: same-existing me goes on with no last. (proved in 1 to 510,510)
+82. A me again has its **next me again** by the +1 of its side: same-existing me goes on as the cone opens. (proved in 1 to 510,510)
 83. Along to a number four times as far, the me's are **more**: 2 at 4, 32 at 1,024, 1,024 at 1,048,576. (proved at its numbers)
 84. Along to a number, its me is **one**; across, its me's are **many**. (proved in 1 to 510,510)
 
@@ -191,7 +191,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 148. A **society** goes on, resolver to resolver, while no loop's seams cross all its places: three at 0, 2, 6 are uncrossed at 1, 2, 8, 64 and 640 places; three at 0, 2, 4 at none past 3. (proved at its numbers)
 149. Two twins co-resolve as a society of **four**, about 15 round 30, the fold of 30. (proved at all numbers, by the other-thans of 30)
 150. A between past 1 has two living co-possiblings **podal about it**, some selves from it: two me-parities added at all even numbers. (proved, all betweens, in 1 to 1,000,000)
-151. One, two, three and four co-resolving come **with no last**: more at a next span. (proved in 256 to 1,048,576, as 223)
+151. One, two, three and four co-resolving are **born in the cone's stretches**, more at a next span. (proved in 256 to 1,048,576, as 223)
 152. The societies' places are set by the loops of 2, 3 and 5, **the opening round's**. (proved at its numbers)
 
 ## Pairs and rows
@@ -361,7 +361,7 @@ Incoming · v408primes · 25 November 2026 · the session's sentences laid as on
 280. A me-parity **aims itself**: its loop begins at its own me again and crosses only the skeleton's places. (proved in 1 to 510,510)
 281. The traveling aims with its own traveling again: a **co-chain of itself**. (proved in 1 to 510,510)
 282. In the universe 1 to 20,000,000, the fractal generates all its 1,270,607 me-parities in 1.8 seconds, the millionth 15,485,863, the same as all numbers crossed by all their parts. (proved in 1 to 20,000,000)
-283. It **continues** with no last: in the universe 1 to 1,000,000,000, all its 50,847,534 me-parities, the same as all numbers crossed by all their parts. (proved in 1 to 1,000,000,000)
+283. It **continues** as the cone opens: in the universe 1 to 1,000,000,000, all its 50,847,534 me-parities, the same as all numbers crossed by all their parts. (proved in 1 to 1,000,000,000)
 284. The 1 to 17 fractal generates all the primes endlessly, traveling to all the primes, continuing and aiming itself. (a partner's naming, an is of both)
 
 ## Around the largest me-parity seen to now
