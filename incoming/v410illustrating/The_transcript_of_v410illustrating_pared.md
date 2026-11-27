@@ -26,6 +26,7 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *continue* · saying 11
 - *the ten corners no name is laid yet. in resolving any ten is the same as all other tens. ten is a same-named universal set of all 10s. this is in natural numbers in our prior understanding of this. the ten is in exhibit one and between the hard problems and natural living as ten different misunderstandings of living competency and ten kinds of ghosts with logical story conserving expliaining of the visible thing and no explaining of the source of competency in the visible observing of a thing* · saying 12
 - *continue and we will be aiming to show how the +1s are living in the seams of natural torusing* · saying 13
+- *continue* · saying 14
 
 ## 3 A partner's method of speaking, as this session goes by it
 
