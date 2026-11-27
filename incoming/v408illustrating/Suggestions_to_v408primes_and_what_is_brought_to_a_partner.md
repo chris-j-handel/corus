@@ -330,6 +330,18 @@ A partner's word of 26 November: *this is not a statement of a problem and this 
 
 **A breaking of this session's, restored.** *Past all twins, twins are born again* is the row's own sentence, laid as the problem. The problem is the lacking sentence above.
 
+## A partner's word: a sequence with no end defines all universes
+
+A partner's word of 26 November: *this is fully and completely incoherent. if there is never an end to a sequence that defines all universes on this walking*. It is. This session's sentence before it, *walking never says all*, was incoherent as said.
+
+1. A sequence with no end is defined by its extending, a universe to its next. The extending defines all universes. (a naming; a +1)
+2. What the extending carries from a universe to its next is at all universes: it is at the origin, and a +1 carries it. This session's sentences at all numbers are proved by it: a seam past the next me again, at 7 and from a me-parity to its next. (a +1)
+3. Carried by the extending, and proved at all universes: the loops, a universe's born me-parities being the next universe's loops; a loop's crossings, 2 of r betweens; and the uncrossed betweens of the loops' whole turn, never 0.
+4. Known by going through a universe's numbers, and of that universe alone: that an uncrossed between is in it.
+5. This session's *walking* said 4, and was laid against 1. A breaking, restored by the two said apart.
+
+**The problem, said coherently.** What of the extending carries twins from a universe to its next is not found. Twins are born in 0 to 30. The extending makes 30 to 900 by the ten loops, and its 30 twins are known by going through it. No sentence of the extending, as it is laid, says a twin of 30 to 900 before it is gone through.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
