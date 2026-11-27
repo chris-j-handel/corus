@@ -427,6 +427,25 @@ A partner's word of 26 November: *this is a fractal and if you will either accep
 
 **Not yet laid.** At all places, a gap is fewer than the universe now at its place. It is gone through at the six, and in v408primes' journey at all its universes. A co-chain of no number for it is this session's working now, by the fractal: a gap and the gaps in it, at a prior's birth.
 
+## The fractal followed along the path: a gap of 2 at a prior's birth
+
+A partner's word of 26 November: *continue*. This session's working by the fractal, `a_gap_of_2_at_a_prior_s_birth.py`, 9 of 9 is; the reasons at all numbers are the co-chain's.
+
+1. A prior's birth crosses the numbers it multiplies, and makes no number uncrossed. A gap, an uncrossed number to its next, goes on at a birth, or is joined with the gap beside it, the number between the two crossed. (a naming; a path closing)
+2. A birth makes no gap of 2. Past 3's birth no two gaps of 2 are beside one another: of three numbers 2 from one to its next, 3 multiplies one. Two gaps joined are 2 and 4 or more: 6 or more. (v408primes' sentence 147; 1)
+3. All gaps of 2 past 3 with 5, at all priors, are one gap of 2: the gap of 2 about 6, 5 with 7, laid again about a multiple of 6 and going on at all births after it. (1, 2)
+4. At r's birth, of r multiples of 6 one after the other, r ends the gap of 2 at 2 of them: the two a +1 before and a +1 after a number r multiplies. r less 2 of r go on: 1, 3, 15 and 135 in a whole seam. (other-thans; the path, whole)
+5. Along the path, r ends no gap of 2 short of r by r. In its own universe, r by r to the next me-parity's me again, a between ended by r and by no prior before r is beside r by a me-parity from r on: 7 ends about 78, 90 and 120, beside 7 by 11, 7 by 13 and 7 by 17. (a me-parity from its own priors)
+6. With no between looked at: of L multiples of 6 one after the other, a prior q ends no more than 2 by L over q, the next whole number. With the priors' endings added fewer than L, a gap of 2 goes on. (4)
+7. 9 to 25: 2 multiples of 6 and no prior past 3: both go on. 25 to 49: 3 multiples of 6, and 5 ends 2 at most: a gap of 2 goes on. 49 to 121: 11 multiples of 6, 5 ends 6 at most and 7 ends 4: 10, and a gap of 2 goes on. No between of the three universes is looked at. (6)
+8. 121 to 169: 7 multiples of 6, and 5, 7 and 11 end 4, 2 and 2 at most: 8, not fewer than 7. The adding says no gap of 2 and no none. Looked at, 2 go on, about 138 and 150, and 144 is ended by 5 and by 11: two endings at one between. (6; numbers gone through)
+
+**Is, at all priors.** A gap of 2 is made by no birth. All gaps of 2 are the one about 6, laid again and going on. A birth ends 2 of r.
+
+**Is, with no between looked at.** A gap of 2 in 9 to 25, in 25 to 49 and in 49 to 121.
+
+**Not yet.** From 121 on. Two priors' endings at one between are numbered by the adding as two, and how many betweens of a universe two priors end together is known by looking alone.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
