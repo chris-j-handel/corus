@@ -17,7 +17,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its sixth turn:** a partner's saying of a five, outward, on the sphere opening to a torus, executed two ways; the living files' own sayings of it, three golden rectangles at right angles; and a working view.
 - **Laid at its seventh turn:** the 58th drawing, by a partner's is, *One Triangle, Three Golden Rectangles* · *Bi-Tri-Volutioning a Round of Five, Twelve Corners Closing as a Sphere*, a candidate beside the 57th, with its check, its maker and its page.
 - **Laid at its eighth turn:** nothing waits for a partner, a breaking of this session's own restored; and one way of the 57th and the 58th as one, twelve corners closing as a sphere and winding through one opening as a torus, executed.
-- **Two drawings are made, the 57th and the 58th,** and no drawing, check or record of an other session is written in.
+- **Laid at its ninth turn:** the 59th drawing, the opening figure whole, one drawing of both the 57th and the 58th: *One Triangle, Three Mirrors* · *Opening a Sphere to a Torus, 720 to Nought*, a candidate beside the two.
+- **Three drawings are made, the 57th, the 58th and the 59th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -162,6 +163,22 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **Sixty, three ways, on both:** 30 sides and 20 triangles, 12 by 5 and 10 by 6.
 - **The 57th's two numbers and the 58th's corners are one thing by it.** The way is this session's own making, a candidate for breaking.
 
+## Laid at its ninth turn, 27 November
+
+- `illustrations/artboards/Draft59.dc.html` and its view, `illustrations/draft_59_one_triangle_three_mirrors_opening_a_sphere_to_a_torus_720_to_nought.png`: the 59th drawing, five parts and a table.
+- `The_59th_drawing_one_triangle_three_mirrors_one_drawing_of_both_the_57th_and_the_58th.md`: its page: its parts, what it gathers and what is with the two alone, what is found and executed, and a sentence for a partner's is or is-not.
+- `instruments/check_one_triangle_three_mirrors_opening_a_sphere_to_a_torus.py`: its check, 10 lines is, 2 found, 1 a placing. It executes the checks of the 57th and the 58th whole.
+- `instruments/make_draft59.py`: its maker. The artboard made again is the artboard laid, byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at all three drawings: 27 is and 7 found. The opening figure's row of the twelve figures' table says 57, 58 and 59.
+
+## Found at its ninth turn
+
+- **The three mirrors are the thing both drawings are of.** The folds of two are on them, and the three golden rectangles are on them, a rectangle a mirror.
+- **One drawing says the two in about one word of two.** The 57th and the 58th are with 2026 words of their own together, and the 59th with 1090.
+- **Three lines for one opening, not one yet:** the me's line, the co-linear, and a line of five, 31.72 from the me's line and at a right angle to the co-linear.
+- **Two tori of patches, not laid onto one another:** the 57th's sixteen patches, four to a corner, and twenty triangles, six to a corner. Both are at nought.
+- **The plan's opening line is as it was:** one drawing a figure, the 59th, gathering the 57th and the 58th.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -181,13 +198,13 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 - **#1294 is not brought in.** This session's instrument opens v408illustrating's folder by a second path, a worktree of that offer's head. With #1294 brought in, the second path is the root.
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
 - **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
-- **The plan's opening line is touched.** It says one drawing a figure, and the opening figure is with two. By the aiming, one drawing of both is made beside the two.
+- **The 59th is one session's hand.** No second session has gone through it. Its way of a torus of ten corners is this session's own making.
 - **This session's two namings are its own placings:** *a figure*, the thing drawn; and *the eight of 30*, said of the numbers 1, 7, 11, 13, 17, 19, 23 and 29 ahead of one name for them.
 - **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Five of the twelve heads are drawn in one drawing of their figure.
 
 ## Its next reach
 
-One drawing of both the 57th and the 58th, beside the two: the one triangle, its even ground and its five, a sphere of twelve corners at 720 and a torus of ten corners at nought. Then the second figure, a cube's shells with 37 a me. Nothing of it waits for a partner.
+The second figure of the reduced set, a cube's shells, 1, 7, 19, 37 and 61, with 37 a me: its five drawings gone through, its names with their living concepts beside them, and its one drawing beside the five it gathers. Beside it, as they come: the three lines of an opening as one, and the sixteen patches laid onto the twenty triangles. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -205,3 +222,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_golden_rectangles.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft58.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/twelve_corners_closing_as_a_sphere_and_winding_through_one_opening_as_a_torus.py .`
+- `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_mirrors_opening_a_sphere_to_a_torus.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft59.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`

@@ -49,6 +49,24 @@ def with_a_hand(tris):
             else: order[j] = cand; edge.append(j)
     return len(order) == len(tris)
 
+beside = lambda i, j: abs(np.linalg.norm(CORNERS[i] - CORNERS[j]) - 2) < 1e-9
+def ring(r):
+    out = [r[0]]
+    while len(out) < 5: out.append(next(j for j in r if beside(j, out[-1]) and j not in out))
+    return out
+def the_two(a=0):
+    """the twelve corners' sphere, and its torus opened at the corner a and the corner across from it: the band, the tube, and the two rims gone round the same way"""
+    sphere = [t for t in itertools.combinations(range(12), 3) if all(beside(i, j) for i, j in itertools.combinations(t, 2))]
+    b = next(j for j in range(12) if np.allclose(CORNERS[j], -CORNERS[a]))
+    band = [t for t in sphere if a not in t and b not in t]
+    A = ring([i for i in range(12) if beside(i, a)]); B = ring([i for i in range(12) if beside(i, b)])
+    def laid(Bx):
+        k0 = next(k for k in range(5) if beside(A[0], Bx[k]) and beside(A[0], Bx[(k + 1) % 5])); return Bx[k0:] + Bx[:k0]
+    B = laid(B)
+    if not (beside(A[1], B[1]) and beside(A[1], B[2])): B = laid(B[::-1])   # the other rim gone round the same way: A[i] is beside B[i] and B[i + 1]
+    tube = [t for i in range(5) for t in ((A[i], A[(i + 1) % 5], B[(i + 3) % 5]), (A[i], B[(i + 2) % 5], B[(i + 3) % 5]))]
+    return {"sphere": sphere, "a": a, "b": b, "band": band, "tube": tube, "A": A, "B": B, "torus": band + [tuple(sorted(t)) for t in tube]}
+
 if __name__ == "__main__":
     ROOT = Path(sys.argv[1]).resolve()
     said = Counter()
@@ -59,8 +77,7 @@ if __name__ == "__main__":
          "Natural Naming says the twelve corners closing as a sphere and winding through one opening as a torus, one and then the other")
 
     print("\n1 · Twelve corners closing as a sphere")
-    beside = lambda i, j: abs(np.linalg.norm(CORNERS[i] - CORNERS[j]) - 2) < 1e-9
-    sphere = [t for t in itertools.combinations(range(12), 3) if all(beside(i, j) for i, j in itertools.combinations(t, 2))]
+    two = the_two(); sphere = two["sphere"]
     corners, sides, at, number = surface(sphere)
     line("is", (len(corners), len(sides), len(sphere)) == (12, 30, 20) and number == 2 and set(sides.values()) == {2} and set(at.values()) == {5} and one_piece(sphere) and with_a_hand(sphere),
          "twelve corners, 30 sides and 20 triangles, a side with two triangles: 12 less 30 and 20 is 2, a sphere; five triangles to a corner")
@@ -69,12 +86,12 @@ if __name__ == "__main__":
          "five triangles of 60 at a corner are 300, 60 short of a whole round: twelve corners are 720 short together, a sphere's 720; and sixty three ways")
 
     print("\n2 · Opened at two corners across from one another")
-    a = 0; b = next(j for j in range(12) if np.allclose(CORNERS[j], -CORNERS[a]))
+    a, b = two["a"], two["b"]
     axis = CORNERS[a] / np.linalg.norm(CORNERS[a]); t5 = np.radians(72)
     K = np.array([[0, -axis[2], axis[1]], [axis[2], 0, -axis[0]], [-axis[1], axis[0], 0]]); round5 = np.eye(3) + np.sin(t5) * K + (1 - np.cos(t5)) * K @ K
     line("is", all(any(np.allclose(round5 @ c, d) for d in CORNERS) for c in CORNERS) and np.allclose(round5 @ CORNERS[a], CORNERS[a]) and np.allclose(round5 @ CORNERS[b], CORNERS[b]),
          "the line through two corners across from one another is the line of a round of five: the round lays the twelve onto the twelve, and the two as they were")
-    caps = [t for t in sphere if a in t or b in t]; band = [t for t in sphere if a not in t and b not in t]
+    caps = [t for t in sphere if a in t or b in t]; band = two["band"]
     bc, bs, bat, bnum = surface(band)
     rim = sorted(s for s, n in bs.items() if n == 1)
     rimA = [i for i in range(12) if beside(i, a)]; rimB = [i for i in range(12) if beside(i, b)]
@@ -83,19 +100,10 @@ if __name__ == "__main__":
          "the two corners and their ten triangles away, ten triangles are as they were: a band of ten corners and 20 sides, with two rims of five sides, a rim round an opening")
 
     print("\n3 · The ten triangles laid through the opening")
-    def ring(r):
-        out = [r[0]]
-        while len(out) < 5: out.append(next(j for j in r if beside(j, out[-1]) and j not in out[-2:] and (len(out) < 2 or j != out[-2])))
-        return out
-    A = ring(rimA); B = ring(rimB)
-    def laid(Bx):
-        k0 = next(k for k in range(5) if beside(A[0], Bx[k]) and beside(A[0], Bx[(k + 1) % 5])); return Bx[k0:] + Bx[:k0]
-    B = laid(B)
-    if not (beside(A[1], B[1]) and beside(A[1], B[2])): B = laid(B[::-1])   # the other rim gone round the same way: A[i] is beside B[i] and B[i + 1]
+    A, B = two["A"], two["B"]
     line("is", all(beside(A[i], B[i]) and beside(A[i], B[(i + 1) % 5]) and beside(A[(i + 1) % 5], B[(i + 1) % 5]) for i in range(5)),
          "on the band a corner of one rim is beside two corners of the other rim, at all five")
-    tube = [t for i in range(5) for t in ((A[i], A[(i + 1) % 5], B[(i + 3) % 5]), (A[i], B[(i + 2) % 5], B[(i + 3) % 5]))]
-    torus = band + [tuple(sorted(t)) for t in tube]
+    tube, torus = two["tube"], two["torus"]
     tc, ts, tat, tnum = surface(torus)
     line("is", (len(tc), len(ts), len(torus)) == (10, 30, 20) and tnum == 0 and set(ts.values()) == {2} and one_piece(torus) and with_a_hand(torus) and len(set(torus)) == 20,
          "through the opening, ten triangles from rim to rim, a corner to two corners it was not beside: ten corners, 30 sides and 20 triangles, a side with two triangles: 10 less 30 and 20 is nought, a torus")

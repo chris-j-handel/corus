@@ -22,13 +22,17 @@ MINE = "incoming/v410illustrating/"
 G1, G2 = "incoming/v406geodesic/", "incoming/v406geodesic2/"
 # a drawing of the reduced set: its number, its figure of the twelve, the drawings it gathers, its maker and its check
 REDUCED = {57: (1, [1, 2, 3, 4, 5, 6], "make_draft57.py", "check_one_triangle_three_right_angles_bi-folding_1_to_17.py"),
-           58: (1, [], "make_draft58.py", "check_one_triangle_three_golden_rectangles.py")}
+           58: (1, [], "make_draft58.py", "check_one_triangle_three_golden_rectangles.py"),
+           59: (1, [57, 58], "make_draft59.py", "check_one_triangle_three_mirrors_opening_a_sphere_to_a_torus.py")}
 # a drawing's head line: how it opens, and what it says on its own face
 HEAD = {57: ("57 · figure 1 of twelve", ("it gathers the 1st to the 6th drawings", "its prior figure", "its next figures")),
-        58: ("58 · beside the 57th", ("it gathers no drawing of the 56", "its prior: the 57th", "its next figures"))}
+        58: ("58 · beside the 57th", ("it gathers no drawing of the 56", "its prior: the 57th", "its next figures")),
+        59: ("59 · figure 1 of twelve", ("it gathers the 57th and the 58th", "its prior figure", "its next figures"))}
+# a drawing of a figure whole, its title and its subtitle said again for the whole: this session's composing
+WHOLE = {59: ("One Triangle, Three Mirrors", "Opening a Sphere to a Torus, 720 to Nought")}
 # a drawing beside a figure's own drawing, of no row of the twelve: its title and its subtitle, this session's composing
 BESIDE = {58: ("One Triangle, Three Golden Rectangles", "Bi-Tri-Volutioning a Round of Five, Twelve Corners Closing as a Sphere")}
-STANDING = {57: "laid, a candidate", 58: "laid beside it, a candidate, by a partner's is"}
+STANDING = {57: "laid, a candidate", 58: "laid beside it, a candidate, by a partner's is", 59: "laid, a candidate, one drawing of both"}
 ASKED = r"(?<![\w-])(?:twins?|loops?|rooms?|vaults?|rules?|distances?|apart|directions?|turn(?:s|ed|ing|ings)?|places?|sel(?:f|ves))(?![\w-])"
 FILES = ("Exhibit ONE", "Exhibit THIRTY", "Natural Naming", "Natural Illustrating")
 
@@ -60,14 +64,15 @@ if __name__ == "__main__":
     for n, (fig, gathers, maker, check) in REDUCED.items():
         print(f"The {nth(n)} drawing, figure {fig} of twelve" if n not in BESIDE else f"The {nth(n)} drawing, beside the {nth(n - 1)}, on figure {fig}'s own sphere")
         t = text_of(ROOT, n); low = t.lower(); f = figures[fig - 1]
-        title, subtitle = BESIDE.get(n, (f["A candidate title, a whole bounding context"], f["A candidate subtitle, an -ing head with a term it holds"]))
+        title, subtitle = BESIDE.get(n, WHOLE.get(n, (f["A candidate title, a whole bounding context"], f["A candidate subtitle, an -ing head with a term it holds"])))
         line("is", len(t.split()) > 100, f"its artboard is in this session's folder, with {len(t.split())} words of its own")
         head = next((l for l in t.splitlines() if l.startswith(HEAD[n][0])), "")
         line("is", all(x in head for x in HEAD[n][1]),
              "its head line says its figure, the drawings it gathers, its prior figure and its next figures" if n not in BESIDE else
              "its head line says the drawing it is beside, that it gathers none of the 56, its prior and its next figures")
         line("is", title in t and subtitle in t and not re.match(r"the ", title, re.I) and re.match(r"[A-Za-z-]+ing\b", subtitle),
-             (f"its title and its subtitle are the figure's candidates" if n not in BESIDE else "its title and its subtitle are this session's composing, of no row of the twelve")
+             ("its title and its subtitle are this session's composing, of no row of the twelve" if n in BESIDE else
+              "its title and its subtitle are the figure's candidate said again for the whole, this session's composing" if n in WHOLE else "its title and its subtitle are the figure's candidates")
              + f": no leading the, and an -ing head, {subtitle.split()[0].lower()}")
         line("is", all(whole(x, t) for x in seventeen), "all seventeen names of Exhibit ONE are said whole in it, a number and its naming one hyphenation")
         line("is", all(x in t for x in FILES), "it names Exhibit ONE, Exhibit THIRTY, Natural Naming and Natural Illustrating")

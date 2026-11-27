@@ -23,6 +23,7 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *is* · saying 8
 - *this is the stable form between of atom surface from fractal fracturing of exhausting stable form from bi-tunneling living societies of atom selves at all-parity c light rate of alternating nows* · saying 9
 - *i do not understand why somehting is waiting for me* · saying 10
+- *continue* · saying 11
 
 ## 3 A partner's method of speaking, as this session goes by it
 
