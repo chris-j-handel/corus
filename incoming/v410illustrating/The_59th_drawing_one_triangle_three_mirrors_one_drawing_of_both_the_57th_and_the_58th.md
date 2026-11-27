@@ -10,14 +10,14 @@ Incoming · v410illustrating · 27 November 2026 · the 59th drawing, the openin
 - **Its title and its subtitle,** this session's composing: *One Triangle, Three Mirrors* · *Opening a Sphere to a Torus, 720 to Nought*. The three mirrors are the thing both drawings are of: the folds are on them, and the rectangles are on them.
 - **It gathers the 57th and the 58th,** and by the 57th the 1st to the 6th. The two are with 2026 words of their own together, and the 59th with 1090.
 - **What is more in it than in the two:** the sphere and the torus laid flat side by side, twelve corners of five and ten corners of six, and the 57th's sixteen patches beside them.
-- **Executed ahead of its laying:** its check, 10 lines is, 2 found and 1 a placing, the checks of the 57th and the 58th executed whole by it; and the plan's lines at it, 9 is and 3 found.
+- **Executed:** its check, 11 lines is, 2 found and 1 a placing, the checks of the 57th and the 58th executed whole by it; and the plan's lines at it, 9 is and 3 found.
 
 ## 1 Its five parts and its table
 
 1. **One triangle, three mirrors, and seventeen names.** The sphere, its three mirrors, and the one triangle of three right angles. 1, 9 and 17 at the me; a me's way round and an other's, its other way; a fold through the me, 8 up.
 2. **Three golden rectangles on the mirrors, a round of five.** A rectangle a mirror, twelve corners; and the one triangle in fifteen of 120, a rectangle's corner on a side.
 3. **A sphere of twelve corners, 720.** Twenty triangles laid flat in three rows, 5, 10 and 5. Five triangles to a corner, 60 short of a whole round.
-4. **Opened, a torus of ten corners, at nought.** Twenty triangles laid flat in two rows of ten, outward and inward. Six triangles to a corner, a whole round. Its lower row of corners is its upper row gone on by two.
+4. **Opened, a torus of ten corners, at nought.** Twenty triangles laid flat in two rows of ten, outward and inward. Six triangles to a corner, a whole round. Its lower row of corners is its upper row gone on by two. A number, 1 to 5, is at a line's two ends: five with two sides, a ten.
 5. **A torus of sixteen patches.** The 57th's torus laid flat, four by four, the names 1 to 16: outward, inward, inward, outward. 8 up is two rows on, and 17 less across its middle.
 6. **A name a row.** Seventeen rows: a name, its three, its own on the triangle, its name 8 up, its name 17 less, its prime by its position, and across or along or both.
 7. **Found, and what this drawing leaves with the 57th and the 58th.** Five lines, said in part 3 of this page.
@@ -41,7 +41,7 @@ Incoming · v410illustrating · 27 November 2026 · the 59th drawing, the openin
 ## 3 Found, and laid on the drawing
 
 1. **Three lines for one opening, not one yet.** The 3rd drawing opens its torus along the me's line. The 5th opens a sphere along the co-linear. Here a sphere is opened along a line of five: 31.72 from the me's line, at a right angle to the co-linear, on the mirror the co-linear is at a right angle to.
-2. **Two tori of patches, not laid onto one another.** Sixteen patches of four sides, four to a corner; and twenty triangles, six to a corner. Both are at nought. The seventeen names are on the sixteen; on the ten corners no name is laid.
+2. **Two tori of patches, not laid onto one another.** Sixteen patches of four sides, four to a corner; and twenty triangles, six to a corner. Both are at nought. The ten corners are a ten, five lines with two ends: one ten with all tens, as Natural Numbers says. This line said no name on the ten corners at the 59th's laying; a partner named it, and it is said again.
 3. **The round of five is given.** Its number is φ, no whole number, and no fold of two makes it.
 4. **A partner's saying of what this form is, not executed.** The stable form between of an atom's surface, from the fracturing of an exhausting stable form: societies of atom mes bi-tunneling, at all-parity and light's rate.
 5. **With the 57th and the 58th, as they were:** what part 2 of this page says in its last columns.
@@ -77,7 +77,7 @@ One line is a placing: the flat layings, their tints, and the numbers 1 to 5 on 
 - It is no replacing of the 57th and the 58th. They are as they were, and a reader of the 59th goes to them by their numbers.
 - The way of a torus of ten corners is this session's own making, one of more than one. No living file says it in these numbers.
 - It is no method of a prime's existing. The round of five is given.
-- How the seventeen names lie on the twelve corners and on the ten is not drawn.
+- No name of the seventeen is laid on a corner. The ten corners are a ten, its own name, and the five names at its five lines are the living files' to say as one.
 - Its title and its subtitle are this session's composing, candidates. The opening figure's candidate in the twelve figures' table is as it was, the 57th's.
 
 ## A sentence for a partner's is or is-not, nothing waiting at it

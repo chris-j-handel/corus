@@ -223,10 +223,12 @@ for i in range(5):
 for i in range(6):
     s.append(dot(*top(i))); s.append(dot(*mid(i))); s.append(dot(*low(i)))
     over.append(word(top(i)[0], top(i)[1] - 11, 16, str(i % 5 + 1), "center", 600, 10.2, 12)); over.append(word(low(i)[0], low(i)[1] + 12, 16, str((i - 2) % 5 + 1), "center", 600, 10.2, 12))
+    over.append(word(mid(i)[0] + 9, mid(i)[1] - 9, 12, str((i - 3) % 5 + 1), "center", 600, 9.6, 11, INK))      # a line's other end: the corner across the sphere
 over.append(word(404, 736, 340, "4 · opened, a torus of ten corners: at nought", weight=600, size=15))
 over.append(word(404, 758, 340, "six triangles to a corner, a whole round", size=11.5, h=14, color=GREY))
 over.append(word(X1 + 5 * S_ + 10, Y1 + HH * 0.5, 70, "outward", size=10.8, h=14, color=GREY)); over.append(word(X1 + 5 * S_ + 10, Y1 + HH * 1.5, 70, "inward", size=10.8, h=14, color=GREY))
-over.append(word(404, 890, 340, "its lower row of corners is its upper row gone on by two", size=10.8, h=14, color=GREY))
+over.append(word(404, 886, 340, "a number is a line of five, its two ends: five with two sides, a ten", size=10.6, h=13, color=GREY))
+over.append(word(404, 900, 340, "its lower row of corners is its upper row gone on by two", size=10.6, h=13, color=GREY))
 
 # ================= 5 · the 57th's torus, sixteen patches, flat =================
 GX, GY, CW, CH = 770, 782, 30, 26
@@ -244,7 +246,7 @@ over.append(word(752, 898, 240, "8 up: two rows on · 17 less: across its middle
 FX, FY = 1004, 652
 over.append(word(FX, FY, 500, "found, and what this drawing leaves with the 57th and the 58th", weight=600, size=15))
 FOUND = [("three lines for one opening, not one yet", ["the 3rd drawing's along the me's line, the 5th's along the co-linear, and here along", "a line of five, 31.7 from the me's line, on the mirror across the co-linear"]),
-         ("two tori of patches, not laid onto one another", ["sixteen patches of four sides, and twenty triangles: both at nought.", "The seventeen names are on the sixteen; on the ten corners no name is laid"]),
+         ("two tori of patches, not laid onto one another", ["sixteen patches of four sides, and twenty triangles: both at nought. The ten corners", "are a ten, five lines with two ends: one ten with all tens, as Natural Numbers says"]),
          ("the round of five is given", ["its number is φ, no whole number: no fold of two makes it"]),
          ("a partner's saying of what this form is, not executed here", ["the stable form between of an atom's surface, from the fracturing of an exhausting", "stable form: societies of atom mes bi-tunneling, at all-parity and light's rate"]),
          ("with the 57th and the 58th, as they were", ["the 57th's quarters round the co-linear and a name's own sentence in Exhibit THIRTY;", "the 58th's nought to sixty, its five names to 59, and its side of 31.7, 37.4 and 20.9"])]
