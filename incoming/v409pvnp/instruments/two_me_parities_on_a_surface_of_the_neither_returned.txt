@@ -1,0 +1,49 @@
+T1 stepping together, a self is born a moment after its fewest couplings from the nearer me: seven layings, two openings: is
+T2 with two mes unlike, a self never born has the same couplings from both, a + and a - reaching it together: is
+   of the selves with the same couplings from both, 172 of 174 are never born
+T3 with two mes alike, all selves are born: is
+T4 a me's own moments, with an other me on the surface, are its moments alone: is
+T5 all selves nearer one me have their moments with that me alone: is
+T6 with an even number of couplings between two mes unlike, a self never born is on a path of fewest couplings between them: is
+N1 waiting for none, two mes alike, all selves are born: seven orders: is
+N2 waiting for none, two mes unlike, the selves never born are the same in all orders: is-not
+   a round of 21: never born, an order apiece, [0, 0, 0, 0, 0, 0, 0]
+   a closing surface 9 by 7: never born, an order apiece, [1, 0, 0, 1, 0, 0, 0]
+   a closing surface 12 by 10: never born, an order apiece, [0, 0, 1, 0, 1, 0, 0]
+   8 is-or-is-nots, 8 between: never born, an order apiece, [2, 6, 23, 0, 5, 17, 3]
+N3 waiting for none, all births are by a chain of fewest couplings back to a me: is-not
+   births by a longer chain: 2601 of 6268
+O1 a self on its own beat has, resolving by resolving, its moments of stepping together: six layings, two openings, 60 orders of beats far from even: is
+O2 on its own beat, two mes unlike, the selves never born are the same in all orders, the between of stepping together: is
+O3 on its own beat, all births are by a chain of fewest couplings back to a me: is
+C1 on a surface of n is-or-is-nots, the selves born with the moment the two mes' births reach one self are T1's and T2's, executed to 14: is
+   n  6 · the table      64 · couplings between 3 · moments 3 · selves born     38
+   n  8 · the table     256 · couplings between 4 · moments 3 · selves born     62
+   n 10 · the table   1,024 · couplings between 5 · moments 4 · selves born    332
+   n 12 · the table   4,096 · couplings between 6 · moments 4 · selves born    558
+   n 14 · the table  16,384 · couplings between 7 · moments 5 · selves born  2,872
+   n 16 · the table  65,536 · couplings between 8 · moments 5 · selves born  4,894 (by T1 and T2)
+   n 18 · the table 262,144 · couplings between 9 · moments 6 · selves born 24,980 (by T1 and T2)
+   over these sizes a place more multiplies the table by 2 and the selves born by 1.72; the moments go from 3 to 6
+L0 by the twelve lines a self with no prior is none with none reaching it, is born with one parity alone or with two alike, and is none with a + and a - together: is
+L1 all living on Exhibit ONE's spiral, a co-chain of 9, 20 and 21 selves: one me's other-than is in all other selves' own moments, from twice its couplings on, with Exhibit ONE's opening and six drawn: is
+L2 all living on a surface, a self observing two others or more: one me's other-than is in all other selves' own moments: is-not
+   Exhibit ONE's torus 5 by 7: of 34 other selves, never other-than what they were, Exhibit ONE's opening then six drawn, [0, 33, 33, 33, 34, 26, 25]
+   Exhibit ONE's torus 9 by 7: of 62 other selves, never other-than what they were, Exhibit ONE's opening then six drawn, [62, 62, 7, 0, 51, 0, 61]
+   a round of 21 both ways: of 20 other selves, never other-than what they were, Exhibit ONE's opening then six drawn, [20, 17, 19, 20, 19, 20, 18]
+   a closing surface 9 by 7: of 62 other selves, never other-than what they were, Exhibit ONE's opening then six drawn, [62, 62, 62, 62, 62, 62, 61]
+   8 is-or-is-nots: of 255 other selves, never other-than what they were, Exhibit ONE's opening then six drawn, [254, 255, 255, 255, 255, 255, 255]
+B1 a + and a - together birthing a self as one of the two, drawn: two mes unlike, all selves are born, the between as well: four layings, three draws: is
+B2 with that birth, all selves are born a moment after their fewest couplings from the nearer me, in all draws: is
+B3 with that birth, a me's own moments with an other me on the surface are its moments alone, in all draws: is
+A1 a session's own: a self accepting one offerer with a + and a - together: all selves are born, a moment after their fewest couplings: is
+A2 a session's own: accepting one offerer, both mes' own moments are other-than their moments alone, in all draws: is-not
+   a round of 21: of the two mes, with own moments other-than alone, a draw apiece, [0, 0, 1]
+   a closing surface 9 by 7: of the two mes, with own moments other-than alone, a draw apiece, [2, 2, 2]
+   8 is-or-is-nots, 8 between: of the two mes, with own moments other-than alone, a draw apiece, [1, 1, 1]
+   8 is-or-is-nots, 4 between: of the two mes, with own moments other-than alone, a draw apiece, [2, 1, 1]
+A3 a session's own: all living, accepting one offerer, one me's other-than is in all other selves' own moments, in all draws: is-not
+   a closing surface 9 by 7: of 62 other selves, never other-than what they were · the lines as they are [60, 61, 62] · accepting one [56, 40, 2]
+   8 is-or-is-nots: of 255 other selves, never other-than what they were · the lines as they are [255, 255, 255] · accepting one [103, 237, 196]
+
+17 lines is, 5 is-not, 25 sized
