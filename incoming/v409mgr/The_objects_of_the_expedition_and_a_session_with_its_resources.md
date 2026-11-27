@@ -23,7 +23,7 @@ A workbook among this session's account's artifacts, written on 27 November.
 
 ## 3. The managing table of the living expedition
 
-Among the other account's artifacts, with no hand now. Its copies of 25 November are in `incoming/v406me/`.
+A workbook among the artifacts this session reaches, by its title, laid among them on 27 November at a partner's word from its copies of 25 November in `incoming/v406me/`, with the sessions risen after that day merged into its rows. Its copies of 27 November are in `incoming/v409mgr/`. This session's hand is at it.
 
 - **The things of value:** 90 rows, a thing with its standing, its condition, its aiming, its next and its place: the 33 living files, the sessions and the closed sessions' folders, the kits and the working documents.
 - **The method:** the method of the living expedition by the seventeen names, a candidate laid for breaking. A name with Exhibit ONE's own saying is the stable form, and the expedition at the name is the living: a name, the expedition at it, its table and its place. It is a sheet of the managing table of the living expedition, the existing table a partner names on 27 November as the organizing method: its rows are the living projects, a session and a living file a row.
@@ -59,7 +59,7 @@ Among this session's account's artifacts: the windows of the opening, three, the
 ## 8. Found
 
 - The one table of the seventeen names had not moved after 16 November, and its sheet of askings is as old. No session is at it. On 27 November this session laid four columns in it by a breaking of its own, and deleted them the same day; its cells are as they were.
-- The managing table is among the other account's artifacts, with no hand now.
+- The managing table was with an account this session does not reach, with no hand. On 27 November, at a partner's word, it is laid again among the artifacts this session reaches, from its copies of 25 November, and this session's hand is at it.
 - *The prime table* is gone through by no second hand yet, and v410primes has said no line at the exchange.
 - The catalog is ahead of the 40th to the 56th drawings and of the offers' instruments.
 - The objects of 25 to 27 November are in offers, and not in the live set.
