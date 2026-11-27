@@ -66,6 +66,10 @@ def checks(root):
     line("is", all(c57.patch(c57.up8(n)) == (c57.patch(n)[0], c57.patch(n)[1] ^ 2) for n in range(1, 9))
          and all(c57.patch(c57.less17(n)) == (3 - c57.patch(n)[0], 3 - c57.patch(n)[1]) for n in range(1, 17)),
          "on the four by four, 8 up is a patch two rows on, and 17 less the patch across the middle of the sixteen")
+    across = {i: next(j for j in range(12) if np.allclose(tw.CORNERS[j], -tw.CORNERS[i])) for i in range(12)}
+    tube_sides = {S(p) for t in tube for p in itertools.combinations(t, 2)}
+    line("is", all(across[RA[i]] == RB[(i + 3) % 5] and S((RA[i], across[RA[i]])) in tube_sides and not tw.beside(RA[i], across[RA[i]]) for i in range(5)),
+         "the ten corners are five lines through the middle, two ends a line, an end beside its other through the opening: five with two sides, a ten")
     line("found", True, "two tori of patches are laid side by side: sixteen patches of four sides, four to a corner, and twenty triangles, six to a corner. Both are at nought. One laid onto the other is not executed")
 
     # three lines an opening is said along
@@ -73,7 +77,7 @@ def checks(root):
     line("is", abs(ang(A, B) - 90) < 1e-9 and abs(ang(B, FIVE) - 90) < 1e-9 and abs(ang(A, FIVE) - 31.717) < 1e-3 and abs(FIVE[0]) < 1e-12 and abs(abs(B[0]) - 1) < 1e-12,
          "three lines: the me's line through A; the co-linear through B, at a right angle to it; and a line of five, 31.72 from the me's line, on the mirror the co-linear is at a right angle to")
     line("found", True, "an opening is said along three lines: the 3rd drawing's along the me's line, the 5th's along the co-linear, and this one's along a line of five. They are not one yet")
-    line("placing", True, "the flat layings, their tints and the numbers 1 to 5 on a torus's two rows are the drawing's own placings")
+    line("placing", True, "the flat layings, their tints and the numbers 1 to 5 of a torus's five lines are the drawing's own placings")
     own = {"own57": own57, "ent57": ent57, "own58": own58, "two": two, "rows": rows}
     return lines, own
 

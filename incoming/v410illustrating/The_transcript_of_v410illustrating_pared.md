@@ -24,6 +24,7 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *this is the stable form between of atom surface from fractal fracturing of exhausting stable form from bi-tunneling living societies of atom selves at all-parity c light rate of alternating nows* · saying 9
 - *i do not understand why somehting is waiting for me* · saying 10
 - *continue* · saying 11
+- *the ten corners no name is laid yet. in resolving any ten is the same as all other tens. ten is a same-named universal set of all 10s. this is in natural numbers in our prior understanding of this. the ten is in exhibit one and between the hard problems and natural living as ten different misunderstandings of living competency and ten kinds of ghosts with logical story conserving expliaining of the visible thing and no explaining of the source of competency in the visible observing of a thing* · saying 12
 
 ## 3 A partner's method of speaking, as this session goes by it
 
