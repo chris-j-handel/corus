@@ -13,6 +13,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its third turn:** the works of the seventeen names gone through, with six suggestings for other sessions; the Living File Registry beside the illustrating; and the plan of the reducing, laid with an is of both.
 - **Concept for concept.** By a partner's word no wording is an authority, and a living concept is said in natural naming, by no word-for-word saying.
 - **Laid at its fourth turn:** the 57th drawing, the opening figure of twelve, *One Triangle, Three Right Angles* · *Bi-Folding 1 to 17, a Sphere Opening to a Torus*, a candidate beside the 1st to the 6th drawings it gathers, with its check, its maker and its page.
+- **Laid at its fifth turn:** a partner's asking of the opening figure answered by executing: it is known mathematics, all even, and no prime's own round is in it.
 - **One drawing is made, the 57th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -23,6 +24,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - A title and its subtitle a bi-coupling at an illustrating: the whole bounded context and the value of interest.
 - An illustrating between Exhibit ONE and Exhibit THIRTY, with Natural Naming; the seventeen names' works its resources; and its relation to the Living File Registry, the floating neutralling contents of the living files.
 - No wording an authority: a saying is other-than the words before it, doing no harm.
+- The primes drawn as living, and not as existing things on a known ground: a me of 37 among the seventeen living universes of the primes 2 to 59. This line is this session's saying of a partner's concept, and a partner says it whole.
 
 ## The transcript pared
 
@@ -102,6 +104,18 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **A parting with Natural Illustrating.** The drawing says 10 to 16 an other's way round, as the 4th does. The living file says 9 to 17 a same-existing-society's. Both are laid.
 - **Natural Naming's own namings are on it:** a right spiral step, and both inverting at one step, for the two folds.
 
+## Laid at its fifth turn, 27 November
+
+- `The_opening_figure_is_known_mathematics_all_even_and_no_prime_s_own_round_is_in_it.md`: a partner's asking, a field's names for the figure a thing a line, what is executed, and candidates for the reducing.
+- `instruments/the_opening_figure_by_its_own_moves_all_even_and_no_prime_s_own_round.py`: 22 lines is, 2 found.
+
+## Found at its fifth turn
+
+- **The opening figure is known mathematics.** Its triangle, its folds, its torus and its sixteen by four binary digits are a field's own, by this session's judging.
+- **It is all even.** The drawing's own moves are as they were at one doing or at two. Among all moves of its eight triangles, 48, and of its sixteen patches, 384, the one odd round is three.
+- **The primes are on it as existing things.** Its moves lay a prime's name onto a name of no prime. Of the seventeen primes 2 to 59, two are rounds of its moves, 2 and 3; 37 is not.
+- **The odd is in Exhibit ONE at a number of mes.** An even number is at its parities again at 2 moments, with no 0; an odd number at four times its number, with a 0. That between is drawn in no drawing of the 56 as Exhibit ONE lays it.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -122,7 +136,7 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 ## Its next reach
 
-The second figure of the reduced set, a cube's shells, 1, 7, 19, 37 and 61: its names with their living concepts beside them, and its one drawing beside the five it gathers. Ahead of it, a partner's word on the opening figure's title and subtitle, and the one saying of 9 to 17.
+The second drawing of the reduced set: the between from even to odd, a number of mes, with a cube's shells and 37 a me among the seventeen primes 2 to 59; its names with their living concepts beside them. Ahead of it, a partner's word: on that between as the second drawing, and on the opening figure's title and subtitle.
 
 ## To execute
 
@@ -134,3 +148,4 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_right_angles_bi-folding_1_to_17.py .`
 - `python3 -I incoming/v410illustrating/instruments/a_reduced_drawing_by_the_plan_s_lines.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft57.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/the_opening_figure_by_its_own_moves_all_even_and_no_prime_s_own_round.py .`
