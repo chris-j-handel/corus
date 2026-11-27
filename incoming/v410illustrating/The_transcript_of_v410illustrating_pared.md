@@ -20,6 +20,8 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *continue* · saying 5
 - *a Sphere Opening to a Torus. is this concept already known in math. likely this is the known math and the between of this is all even parity and no odd parity and the primes are visible as existing things in this there is no method of existing primes in this. the primes and crossings and fractalings are not as prime 37 living things in prime 2-59 living universes* · saying 6
 - *there is a stable-forming surface of other-than-other-than-all-parity five outward direction on the Sphere Opening to a Torus* · saying 7
+- *is* · saying 8
+- *this is the stable form between of atom surface from fractal fracturing of exhausting stable form from bi-tunneling living societies of atom selves at all-parity c light rate of alternating nows* · saying 9
 
 ## 3 A partner's method of speaking, as this session goes by it
 

@@ -15,7 +15,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its fourth turn:** the 57th drawing, the opening figure of twelve, *One Triangle, Three Right Angles* · *Bi-Folding 1 to 17, a Sphere Opening to a Torus*, a candidate beside the 1st to the 6th drawings it gathers, with its check, its maker and its page.
 - **Laid at its fifth turn:** a partner's asking of the opening figure answered by executing: it is known mathematics, all even, and no prime's own round is in it.
 - **Laid at its sixth turn:** a partner's saying of a five, outward, on the sphere opening to a torus, executed two ways; the living files' own sayings of it, three golden rectangles at right angles; and a working view.
-- **One drawing is made, the 57th,** and no drawing, check or record of an other session is written in.
+- **Laid at its seventh turn:** the 58th drawing, by a partner's is, *One Triangle, Three Golden Rectangles* · *Bi-Tri-Volutioning a Round of Five, Twelve Corners Closing as a Sphere*, a candidate beside the 57th, with its check, its maker and its page.
+- **Two drawings are made, the 57th and the 58th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -25,6 +26,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - A title and its subtitle a bi-coupling at an illustrating: the whole bounded context and the value of interest.
 - An illustrating between Exhibit ONE and Exhibit THIRTY, with Natural Naming; the seventeen names' works its resources; and its relation to the Living File Registry, the floating neutralling contents of the living files.
 - No wording an authority: a saying is other-than the words before it, doing no harm.
+- The three golden rectangles' five as a stable form between, an atom's surface, from the fracturing of an exhausting stable form of living societies of atom mes: a partner's saying of the 58th's form, not executed.
 - The primes drawn as living, and not as existing things on a known ground: a me of 37 among the seventeen living universes of the primes 2 to 59. This line is this session's saying of a partner's concept, and a partner says it whole.
 
 ## The transcript pared
@@ -131,6 +133,22 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **No round of five is on a torus's grid about a patch.** Its rounds are 1, 2, 3, 4 and 6. On a torus a five is by winding: five patches all beside all.
 - **No drawing of the 56 draws the three rectangles,** a pentagon or the twelve corners' form. Natural Illustrating's part 3.3 asks them.
 
+## Laid at its seventh turn, 27 November
+
+- `illustrations/artboards/Draft58.dc.html` and its view, `illustrations/draft_58_one_triangle_three_golden_rectangles_bi-tri-volutioning_a_round_of_five_twelve_corners_closing_as_a_sphere.png`: the 58th drawing, four parts and a table.
+- `The_58th_drawing_one_triangle_three_golden_rectangles_laid_beside_the_57th.md`: its page: its parts, its names with their living concepts beside them, what is executed and found, a partner's saying of what the form is, and its asking.
+- `instruments/check_one_triangle_three_golden_rectangles.py`: its check, 18 lines is, 3 found, 1 a placing.
+- `instruments/make_draft58.py`: its maker. The artboard made again is the artboard laid, byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at both drawings now: 18 is and 4 found. The opening figure's row of the twelve figures' table says both drawings in its three floating columns.
+
+## Found at its seventh turn
+
+- **The living co-chain of the five is in Exhibit THIRTY,** at its part of stable-forming at numbers: 24 an apex of nought to sixty; five names before 10 with primes adding to 59, a surface; three golden rectangles; twelve corners, sixty three ways; sixty as 24 and 36; 12 across and along both; and sphere and torus, one and then the other. Ten of its numbered sentences are opened beside the drawing's parts.
+- **A name's prime by its position is on a drawing now,** 2 to 59, with 37 at the 12th name, the surface's name.
+- **Two of the living file's own unsures are met by executing.** A corner of the twelve is across the middle from a corner, and in a form of four corners from a face's middle. Five names before 10 add to 59, and fives going up, 25, 35, 45 and 55, add to 160.
+- **The round of five is given.** Its number is φ, and no move of the 57th makes it.
+- **A partner's saying of what the form is:** a stable form between, an atom's surface. Natural Physics says an atom a stable form, an emanation from living. Not executed.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -147,13 +165,14 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 - **#1294 is not brought in.** This session's instrument opens v408illustrating's folder by a second path, a worktree of that offer's head. With #1294 brought in, the second path is the root.
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
-- **The 57th is one session's hand.** No second session has gone through it, and its view is made by v408illustrating's view tool, at #1294.
+- **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
+- **The plan's opening line is touched.** It says one drawing a figure, and the opening figure is with two. Two or one of both is a partner's.
 - **This session's two namings are its own placings:** *a figure*, the thing drawn; and *the eight of 30*, said of the numbers 1, 7, 11, 13, 17, 19, 23 and 29 ahead of one name for them.
 - **The twelve titles and subtitles are this session's composing.** A partner's word is for a sentence of them, and a second session's going through is ahead of a drawing with one. Five of the twelve heads are drawn in one drawing of their figure.
 
 ## Its next reach
 
-With a partner's is: the 58th drawing beside the 57th, the three golden rectangles on the opening figure's three mirrors, the one triangle in fifteen, and the seventeen names on it as Natural Naming lays them, gone through ahead of the drawing. The opening figure's title and subtitle, and the between from even to odd at a number of mes, wait behind it.
+With a partner's word on two drawings or one: the opening figure whole, and then the second figure, a cube's shells with 37 a me. Beside it, the 57th's torus of sixteen patches and the 58th's sphere of twelve corners, one and then the other, as one drawing: not made yet. The titles and subtitles of the 57th and the 58th wait for a partner's word.
 
 ## To execute
 
@@ -168,3 +187,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/the_opening_figure_by_its_own_moves_all_even_and_no_prime_s_own_round.py .`
 - `python3 -I incoming/v410illustrating/instruments/a_five_on_the_sphere_opening_to_a_torus_two_ways_executed.py . THE_ROOT_WITH_V408ILLUSTRATING`
 - `python3 -I incoming/v410illustrating/instruments/make_a_working_view_of_the_one_triangle_fifteen_of_a_sphere_s_120.py A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_golden_rectangles.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft58.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
