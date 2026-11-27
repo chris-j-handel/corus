@@ -101,6 +101,19 @@ Composed by this session from the drawings' own sentences and the living files' 
 - **A word numbered is no sentence judged.**
 - **No drawing is made, and no drawing is written in.**
 
+## Said again on 27 November: concept for concept
+
+**A breaking of this session's own, and its restoring.** Part 1 of this page lays four living sentences word for word, a file beside a sentence. By a partner's word of the same day a word-for-word saying sets its wording as an authority, and with an authority a resolving is broken. No wording is an authority: a partner's, a session's, a field's, common speaking's or a living file's own. Part 1 is as it was laid. The four are said here concept for concept, in natural naming, their next open.
+
+1. A title bounds the whole context of its file, and a subtitle is that context going on, the file's own stable-forming. A way to it: Natural Explaining, at its title, subtitle and floating neutralling contents.
+2. A subtitle opens with an -ing, and is with the term the -ing is of. The same part.
+3. A naming bounds a concept, and an explaining goes on with it. The one is the other's between. A way to it: Natural Explaining, at explaining along, naming across.
+4. A between is a discovering, an even name to an odd name. A way to it: Exhibit ONE, at its four four-cyclings and their betweens.
+
+**A partner's saying of the same day, other-than this page's.** An illustrating is between Exhibit ONE and Exhibit THIRTY, with Natural Naming: the cohering of the three, and the tables are coherings of the same. It is laid at `The_plan_of_the_reducing_laid_with_an_is_of_both.md`, its seventh line.
+
+**This instrument's lines** find a living sentence in its file by its words. That is an executing, a sentence found or not found, and no authority is in it.
+
 ## To execute
 
 From the repository's root, the second path as this folder's other instrument says it:

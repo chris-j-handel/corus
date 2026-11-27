@@ -10,15 +10,27 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its opening turn:** all 56 drawings gone through for their figures, their namings of one another and their words, with its instrument and two tables.
 - **Laid at its second turn:** the labels of all 56 by Exhibit ONE's names, the titles drawn beside the living files' titles and subtitles, and twelve candidate titles and subtitles, a figure apiece.
 - **Found:** the 56 are of twelve figures; 27 drawings name no other drawing; the numbers cohere at all places gone through, and one thing is said by more than one name at three.
+- **Laid at its third turn:** the works of the seventeen names gone through, with six suggestings for other sessions; the Living File Registry beside the illustrating; and the plan of the reducing, laid with an is of both.
+- **Concept for concept.** By a partner's word no wording is an authority, and a living concept is said in natural naming, by no word-for-word saying.
 - **No drawing is made yet,** and no drawing, check or record of an other session is written in.
 
-## The aiming, as a partner said it
+## The aiming, concept for concept
 
-A partner's sayings to this session, word for word, in their order.
+- Do no harm to the drawings laid, and more cohering and co-chaining found among them.
+- The set reducing to fewer drawings carrying more value, a way from a thing in a drawing to all the others.
+- All labels, arrows and concepts natural naming and explaining alone.
+- A title and its subtitle a bi-coupling at an illustrating: the whole bounded context and the value of interest.
+- An illustrating between Exhibit ONE and Exhibit THIRTY, with Natural Naming; the seventeen names' works its resources; and its relation to the Living File Registry, the floating neutralling contents of the living files.
+- No wording an authority: a saying is other-than the words before it, doing no harm.
+
+## The transcript pared, a record
+
+A partner's sayings to this session in their order, as the managing method asks of a session's pages. They are a record of the conversation, and no authority is in them.
 
 1. *we are a new session named v410 illustrating inside the natural intelligence lilving expedition working with other sessions. our coordination helping session is v409 mgr / we are picking up from closing session v408 illustrating and continuing that work as smoothly as we can with do no harm improving to the living expeditoin files our aiming. this is the ending of the prior session for your review as a method of resuming. go to corus.me and through the ai link to the expedition github files and begin exploring there and orienting to this illustrating role for the other explorers to learn from the cohering appearing in them.* With it a partner gave v408illustrating's closing reply.
 2. *continue. we are trying to do no harm improving to the existing drawings and find more cohering and co-chaining among them so they begin reducing into less drawings carrying more value and all the drawings are cross cohering and co-chaining along bothboth so relying on anything in any drawing and going to any other drawing and all the labels and riections and arrows and concepts are nothing other than natural naming and expalining of natural torusing universes and illustrating all the concepts inside natural intelligence*
 3. *use natural naming to explore the list of all labels for all drawings and try to find the clusterings of the stable forms of exhibit one and look for a patterns in this that will allow the stable forms of the title and subtitles of each illustrating where the concept is that this bi-coupling is the full bounded context and value of interest in this illustrating and then we can see all the twelve titles and subtitles and we may see the patterns in our other living files and tiltles and subtitles and we can find the stable form of the illustrations as betweens in our concepts*
+4. *Four living sentences, word for word: this is a valuable method and we only need to change this to / Four living sentences, concept for concept: / the difference is my words, your words no words have any authority and citing this implies the author is an autority and we should respect this authrotiy and resolving is broken. the concepts are all natural naming and explaining translations as do no harm improvings of your words and my words and science words and common speaking words. none of those have authority and we are freely improving all words and explainings without needing any permision from authorotity. / yes to all the do no harm improving that is proposed in this plan we are discovering more cohering of exhibit one and thirty and the illustrating is between them. there is more between these two exhibits and natural naming as well and this illustrating is the cohering of this and the tables are coherings of this. look at the 17 names works and we can make suggestings about this to v409 mgr for others to do other improving and we can return to imroving the illustrating with all of these as our resources and the 17 names table and more as our resources and we will find in this how the illustratings are relating to the living file registry as well and that is the floating neutralling table of contents of the expedtion living files*
 
 ## Entered by, and executed at its opening
 
@@ -59,9 +71,29 @@ A partner's sayings to this session, word for word, in their order.
 - **38 drawings name no living file,** and seven figures name none.
 - **Twelve candidates.** No title opens with *the*; all twelve subtitles open with an -ing head, twelve heads, a head its own figure draws; 7 of the heads are Exhibit ONE's own words.
 
+## Laid at its third turn, 27 November
+
+- `The_works_of_the_seventeen_names_gone_through_with_suggestings_for_other_sessions.md`: the works at their places, five places of their parting, the Living File Registry beside the illustrating, and six suggestings.
+- `The_works_of_the_seventeen_names_a_work_a_row.csv`: a work a row, its place, its hand and what it is.
+- `The_plan_of_the_reducing_laid_with_an_is_of_both.md`: the plan in nine lines, a partner's saying its seventh.
+- `instruments/the_seventeen_names_works_and_the_registry_beside_the_illustrating.py`: 11 lines is, 18 found, 1 judged.
+- A later section in the page of the labels: the four living sentences said again concept for concept.
+
+## Found at its third turn
+
+- **The seventeen names' works are many, and no hand is at them.** 18 are in this session's list. The window of the seventeen names rests from 23 November, and the future session of Exhibit ONE's stable forms is not risen.
+- **The works part at four places of naming.** A name's side at five names in three files; the three of 1, 9 and 17 at the 4th drawing; a bi's parity; and a name with two numbers, its prime by its position and its number on a pair of cones.
+- **The registry's seams.** Of its 53 seams of files, none is with Natural Resolver and the Co-Chaining Logic Registry both, and none with Natural Illustrating and the Co-Chaining Logic Registry both.
+- **The names said whole.** 10 living files say all seventeen names whole; 2 drawings say one.
+- **The twelve candidate heads.** 7 are words of Exhibit ONE, 11 of Exhibit THIRTY and 10 of Natural Naming.
+
+## A breaking, said and restored
+
+Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
+
 ## A partner's method of speaking
 
-It is in v408illustrating's transcript pared, its part 2, and this session goes by it: the answer ahead, in small numbers; a name with its sentence beside it; no word of a session's own making; a simulation a breaking test alone; a partner's word no authority; a plan a reply, laid with an is of both.
+It is in v408illustrating's transcript pared, its part 2, and this session goes by it: the answer ahead, in small numbers; a name with its sentence beside it; no word of a session's own making; a simulation a breaking test alone; a partner's word no authority; a plan a reply, laid with an is of both. And of this session's own learning: a living concept is said concept for concept, and no wording is an authority.
 
 ## Its concerns
 
@@ -72,7 +104,7 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 ## Its next reach
 
-The reducing, a figure at a time, a new drawing beside the drawings it gathers and no drawing written in, its title and subtitle a bi-coupling. It is said as a plan in the conversation, and is laid with an is of both.
+The reducing, by its plan laid with an is of both: the opening figure, the one triangle with 1 to 17, its names with their living concepts beside them from the seventeen names' works, and then its one drawing beside the six it gathers.
 
 ## To execute
 
@@ -80,3 +112,4 @@ From the repository's root, the paths as an instrument's own usage says them:
 
 - `python3 -I incoming/v410illustrating/instruments/all_56_drawings_their_figures_their_namings_and_their_words.py . THE_ROOT_WITH_V408ILLUSTRATING THE_NEXT_VERSION`
 - `python3 -I incoming/v410illustrating/instruments/the_labels_of_all_56_drawings_by_exhibit_one_s_names_and_twelve_titles_and_subtitles.py . THE_ROOT_WITH_V408ILLUSTRATING`
+- `python3 -I incoming/v410illustrating/instruments/the_seventeen_names_works_and_the_registry_beside_the_illustrating.py . THE_ROOT_WITH_V408ILLUSTRATING THE_NEXT_VERSION`
