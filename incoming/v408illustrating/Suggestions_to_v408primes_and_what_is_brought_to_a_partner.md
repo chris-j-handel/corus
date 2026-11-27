@@ -342,6 +342,20 @@ A partner's word of 26 November: *this is fully and completely incoherent. if th
 
 **The problem, said coherently.** What of the extending carries twins from a universe to its next is not found. Twins are born in 0 to 30. The extending makes 30 to 900 by the ten loops, and its 30 twins are known by going through it. No sentence of the extending, as it is laid, says a twin of 30 to 900 before it is gone through.
 
+## A partner's saying: the universes are fractals
+
+A partner's saying of 26 November: *the universes are fractals. this is all*. Gone into by rigor, a word being no reason.
+
+1. The fractal, whole: a next turn is r turns of its prior, the new loop crossing 2 of r of its uncrossed betweens. The turn of 30 is 3 uncrossed betweens; 7 turns of it are 21, 7's loop crosses 6, and the turn of 210 is 15. The same at all scales, with no end. (the path, whole; numbers gone through)
+2. It is all of the making: the loops, the turns, and the uncrossed betweens of a turn, never 0. (1)
+3. A universe is no turn. From 11 on, B to B by B is in the one turn at the origin, whole: 11 to 121 is in 0 to 210. (a seam past the next me again, from 7 on)
+4. Of the r turns the fractal makes, r less 1 are past the universe. Its new uncrossed betweens are in them. (1, 3)
+5. In the turn at the origin the fractal lays the new loop's crossings alone, and a loop crosses no uncrossed self short of its me again, the universe's end. (a me-parity from its own priors)
+
+**Is.** The universes' turns are fractal, and it is all of the making. **Not proved by it.** Twins in the universe: the fractal says of whole turns, and the universe is a part of the one turn at the origin, from the origin to B by B.
+
+**The problem in these words.** A sentence of that part of a turn alone, from its origin to B by B.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
