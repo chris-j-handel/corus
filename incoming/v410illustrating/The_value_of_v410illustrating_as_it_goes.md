@@ -19,7 +19,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its eighth turn:** nothing waits for a partner, a breaking of this session's own restored; and one way of the 57th and the 58th as one, twelve corners closing as a sphere and winding through one opening as a torus, executed.
 - **Laid at its ninth turn:** the 59th drawing, the opening figure whole, one drawing of both the 57th and the 58th: *One Triangle, Three Mirrors* · *Opening a Sphere to a Torus, 720 to Nought*, a candidate beside the two.
 - **Laid at its tenth turn:** a partner's saying of the ten: the ten corners are a ten, five with two sides, one ten with all tens; and the offers #1297 and #1299 gone through apart at v409mgr's asking.
-- **Three drawings are made, the 57th, the 58th and the 59th,** and no drawing, check or record of an other session is written in.
+- **Laid at its eleventh turn:** the 60th drawing, the second figure of twelve, by a partner's aiming of the +1s: *Shells of a Cube, 1, 7, 19, 37 and 61* · *Living a +1 in a Seam of Six, a Round Opening beside Its Closing*, a candidate beside the five drawings it gathers.
+- **Four drawings are made, the 57th to the 60th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -29,6 +30,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - A title and its subtitle a bi-coupling at an illustrating: the whole bounded context and the value of interest.
 - An illustrating between Exhibit ONE and Exhibit THIRTY, with Natural Naming; the seventeen names' works its resources; and its relation to the Living File Registry, the floating neutralling contents of the living files.
 - No wording an authority: a saying is other-than the words before it, doing no harm.
+- The +1s shown living in the seams of natural torusing.
 - A ten the same as all other tens, a same-named universal set of all tens: in Natural Numbers, in Exhibit ONE, and between the hard problems and natural living as ten misunderstandings of living competency and ten kinds of ghosts.
 - The three golden rectangles' five as a stable form between, an atom's surface, from the fracturing of an exhausting stable form of living societies of atom mes: a partner's saying of the 58th's form, not executed.
 - The primes drawn as living, and not as existing things on a known ground: a me of 37 among the seventeen living universes of the primes 2 to 59. This line is this session's saying of a partner's concept, and a partner says it whole.
@@ -196,6 +198,23 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **The five names part with the files:** 2 to 6 at the Equilibria Registry, and 3, 4, 5, 7 and 8 at Exhibit THIRTY's 330.
 - **One ten, or a ten its own:** Natural Numbers and a partner say one ten; the Living Ghost Registry says its two tens not merged.
 
+## Laid at its eleventh turn, 27 November
+
+- `illustrations/artboards/Draft60.dc.html` and its view, `illustrations/draft_60_shells_of_a_cube_1_7_19_37_and_61_living_a_plus_1_in_a_seam_of_six.png`: the 60th drawing, five parts and a table.
+- `The_60th_drawing_shells_of_a_cube_a_plus_one_in_a_seam_laid_beside_the_five_it_gathers.md`: its page: its parts, its names with their living concepts beside them, what is executed and found, what it gathers, and a sentence for a partner's is or is-not.
+- `instruments/check_shells_of_a_cube_a_plus_one_in_a_seam.py`: its check, 18 lines is, 2 found, 1 a placing.
+- `instruments/make_draft60.py`: its maker. The artboard made again is the artboard laid, byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at all four drawings: 36 is and 10 found. The second figure's row of the twelve figures' table says the 60th.
+
+## Found at its eleventh turn
+
+- **A seam and its +1 on the rounds of six.** A round closes on the me's line, at 6, 18, 36 and 60, and its next round opens one on, at 1, 7, 19, 37 and 61: a cube's shells.
+- **A shell's one more is its cell on the cube's line.** Five shells are a cube of 5: five on its line, and 120 about it.
+- **A seam's +1 is at the cell of ones on its torus,** crossed by none of its seam's primes. It is a prime at five seams of seven; 30,031 is 59 by 509.
+- **Three rounds of four primes close at the names of same-existing,** the 4th, the 8th and the 12th. The 16th is with 53, 8 short of 61.
+- **Natural Numbers says the +1 already, two ways:** a torus is a sphere with one handle, its handle +1; and a +1 between a centre's square and its prior by its next.
+- **A +1 is said five ways on the drawings,** and one saying of the five is not laid.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -223,7 +242,7 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 ## Its next reach
 
-The second figure of the reduced set, a cube's shells, 1, 7, 19, 37 and 61, with 37 a me: its five drawings gone through, its names with their living concepts beside them, and its one drawing beside the five it gathers. Beside it, as they come: the three lines of an opening as one, and the sixteen patches laid onto the twenty triangles. Nothing of it waits for a partner.
+The third figure of the reduced set, cones of 30 on the co-linear, with the rows of 30 beside it: 30 is 2, 3 and 5 multiplied, a seam, and its eight cells crossed by none are the eight mes of a row. Beside it, as they come: one saying of a +1 from its five; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -244,3 +263,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_mirrors_opening_a_sphere_to_a_torus.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft59.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/the_ten_corners_are_a_ten_five_with_two_sides.py .`
+- `python3 -I incoming/v410illustrating/instruments/check_shells_of_a_cube_a_plus_one_in_a_seam.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft60.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
