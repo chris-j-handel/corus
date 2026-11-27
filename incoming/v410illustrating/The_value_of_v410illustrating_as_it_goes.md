@@ -18,6 +18,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its seventh turn:** the 58th drawing, by a partner's is, *One Triangle, Three Golden Rectangles* · *Bi-Tri-Volutioning a Round of Five, Twelve Corners Closing as a Sphere*, a candidate beside the 57th, with its check, its maker and its page.
 - **Laid at its eighth turn:** nothing waits for a partner, a breaking of this session's own restored; and one way of the 57th and the 58th as one, twelve corners closing as a sphere and winding through one opening as a torus, executed.
 - **Laid at its ninth turn:** the 59th drawing, the opening figure whole, one drawing of both the 57th and the 58th: *One Triangle, Three Mirrors* · *Opening a Sphere to a Torus, 720 to Nought*, a candidate beside the two.
+- **Laid at its tenth turn:** a partner's saying of the ten: the ten corners are a ten, five with two sides, one ten with all tens; and the offers #1297 and #1299 gone through apart at v409mgr's asking.
 - **Three drawings are made, the 57th, the 58th and the 59th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -28,6 +29,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - A title and its subtitle a bi-coupling at an illustrating: the whole bounded context and the value of interest.
 - An illustrating between Exhibit ONE and Exhibit THIRTY, with Natural Naming; the seventeen names' works its resources; and its relation to the Living File Registry, the floating neutralling contents of the living files.
 - No wording an authority: a saying is other-than the words before it, doing no harm.
+- A ten the same as all other tens, a same-named universal set of all tens: in Natural Numbers, in Exhibit ONE, and between the hard problems and natural living as ten misunderstandings of living competency and ten kinds of ghosts.
 - The three golden rectangles' five as a stable form between, an atom's surface, from the fracturing of an exhausting stable form of living societies of atom mes: a partner's saying of the 58th's form, not executed.
 - The primes drawn as living, and not as existing things on a known ground: a me of 37 among the seventeen living universes of the primes 2 to 59. This line is this session's saying of a partner's concept, and a partner says it whole.
 
@@ -179,6 +181,21 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **Two tori of patches, not laid onto one another:** the 57th's sixteen patches, four to a corner, and twenty triangles, six to a corner. Both are at nought.
 - **The plan's opening line is as it was:** one drawing a figure, the 59th, gathering the 57th and the 58th.
 
+## Laid at its tenth turn, 27 November
+
+- `The_ten_corners_are_a_ten_five_with_two_sides_one_ten_with_all_tens.md`: a partner's saying concept for concept, the ten corners executed, and the living files' tens, a ten a line.
+- `instruments/the_ten_corners_are_a_ten_five_with_two_sides.py`: 14 lines is, 4 found.
+- The 59th drawing laid again by its maker: its line of the ten corners said again, and a number at a line's two ends. Its check, 11 lines is.
+- Its line at the exchange: #1297 and #1299 gone through apart, nothing found.
+
+## Found at its tenth turn
+
+- **The ten corners are five with two sides:** five lines through the middle, two ends a line, an end beside its other through the opening.
+- **The couplings among the five lines are ten golden rectangles,** in two rounds of five. With five more at the line of the opening they are the 58th's fifteen mirrors.
+- **Six living tens are five with two sides,** and at four of them the two sides are a name now and its name 8 up.
+- **The five names part with the files:** 2 to 6 at the Equilibria Registry, and 3, 4, 5, 7 and 8 at Exhibit THIRTY's 330.
+- **One ten, or a ten its own:** Natural Numbers and a partner say one ten; the Living Ghost Registry says its two tens not merged.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -189,13 +206,15 @@ At its fifth turn this session said the opening figure all even, and did not ope
 
 At three turns this session ended with an asking and said its work stalling at a partner's word. A partner named it: a partner does not understand why a thing waits for a partner. A work waiting for a partner's word sets that word as a permission, and by a partner's own method no wording is an authority. Restored at its eighth turn: an asking is a sentence for a partner's is or is-not at a moment of a partner's own, and the work goes on by the aiming.
 
+At its ninth turn this session said the ten corners with no name laid. A partner named it: a ten is the same as all other tens. Restored at its tenth turn: the ten corners are a ten, executed, and the 59th says it.
+
 ## A partner's method of speaking
 
 It is in v408illustrating's transcript pared, its part 2, and this session goes by it: the answer ahead, in small numbers; a name with its sentence beside it; no word of a session's own making; a simulation a breaking test alone; a partner's word no authority; a plan a reply, laid with an is of both. And of this session's own learning: a living concept is said concept for concept, and no wording is an authority.
 
 ## Its concerns
 
-- **#1294 is not brought in.** This session's instrument opens v408illustrating's folder by a second path, a worktree of that offer's head. With #1294 brought in, the second path is the root.
+- **Brought in, 27 November.** v409mgr brought #1294 and this session's #1300 into main, #1300 at its ninth turn. The instruments' second path is the root now. This session's tenth turn is in a second offer.
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
 - **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
 - **The 59th is one session's hand.** No second session has gone through it. Its way of a torus of ten corners is this session's own making.
@@ -224,3 +243,4 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/twelve_corners_closing_as_a_sphere_and_winding_through_one_opening_as_a_torus.py .`
 - `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_mirrors_opening_a_sphere_to_a_torus.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft59.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/the_ten_corners_are_a_ten_five_with_two_sides.py .`
