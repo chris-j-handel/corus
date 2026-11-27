@@ -175,12 +175,12 @@ if __name__ == "__main__":
 
     print("\n5 · The living files a drawing's own text names")
     def files_named(t):
-        out = set()
+        out = []        # in the living files' own order: a table laid twice is one table, at its cells of equal numbers too
         for fname, title, _ in LF:
             m = re.match(r"Exhibit_([A-Z-]+)_", fname)
             pats = [r"Exhibit " + m.group(1) + r"(?![A-Z-])"] if m else []
             if title != "Me": pats.append(re.escape(title) + (r"(?! Corus)" if title == "Natural Intelligence" else ""))
-            if any(re.search(p, t) for p in pats): out.add(title)
+            if any(re.search(p, t) for p in pats) and title not in out: out.append(title)
         return out
     lf_in = {n: files_named(T[n]) for n in T}
     with_one = [n for n in T if lf_in[n]]; c = Counter(x for n in T for x in lf_in[n])
@@ -212,16 +212,22 @@ if __name__ == "__main__":
 
     if LAY:
         out = ROOT / MINE
-        with open(out / "Twelve_figures_a_figure_a_row_its_candidate_title_and_subtitle.csv", "w", newline="", encoding="utf-8") as f:
+        table = out / "Twelve_figures_a_figure_a_row_its_candidate_title_and_subtitle.csv"
+        OWN = ["A figure, judged on 27 November", "Its drawings", "A candidate title, a whole bounding context", "A candidate subtitle, an -ing head with a term it holds",
+               "Its head, in its figure's drawings", "Its head in Exhibit ONE, places", "Its figure's most drawn -ing names", "The living files its drawings name",
+               "The titles drawn now"]
+        # one table, and not two: a column more that an other instrument of this folder laid in it floats on, as it was
+        was = list(csv.DictReader(open(table, encoding="utf-8"))) if table.exists() else []
+        more = [c for c in (was[0].keys() if was else []) if c not in OWN]
+        with open(table, "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
-            w.writerow(["A figure, judged on 27 November", "Its drawings", "A candidate title, a whole bounding context", "A candidate subtitle, an -ing head with a term it holds",
-                        "Its head, in its figure's drawings", "Its head in Exhibit ONE, places", "Its figure's most drawn -ing names", "The living files its drawings name",
-                        "The titles drawn now"])
-            for (name, ds, t, s), (top, d), h in zip(FIGURES, fig_ing, heads):
+            w.writerow(OWN + more)
+            for i, ((name, ds, t, s), (top, d), h) in enumerate(zip(FIGURES, fig_ing, heads)):
                 named = Counter(x for n in ds for x in lf_in[n])
                 w.writerow([name, "; ".join(map(str, ds)), t, s, f"{sum(1 for n in ds if ing_in[n][h])} of {len(ds)}",
                             len(re.findall(r"(?<![\w-])" + re.escape(h) + r"(?![\w-])", one_low)), "; ".join(f"{x} {d[x]}" for x in top),
-                            "; ".join(f"{k} {v}" for k, v in named.most_common()) or "none", " | ".join(f"{n}: {titles[n]}" for n in ds)])
+                            "; ".join(f"{k} {v}" for k, v in named.most_common()) or "none", " | ".join(f"{n}: {titles[n]}" for n in ds)]
+                           + [was[i][c] if i < len(was) else "" for c in more])
         with open(out / "The_living_files_a_file_a_row_its_title_and_its_subtitle.csv", "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
             w.writerow(["A living file", "Its title", "Its subtitle", "Its subtitle opens with an -ing", "The -ing names of its subtitle", "The drawings naming it"])

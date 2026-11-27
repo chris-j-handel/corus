@@ -12,7 +12,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Found:** the 56 are of twelve figures; 27 drawings name no other drawing; the numbers cohere at all places gone through, and one thing is said by more than one name at three.
 - **Laid at its third turn:** the works of the seventeen names gone through, with six suggestings for other sessions; the Living File Registry beside the illustrating; and the plan of the reducing, laid with an is of both.
 - **Concept for concept.** By a partner's word no wording is an authority, and a living concept is said in natural naming, by no word-for-word saying.
-- **No drawing is made yet,** and no drawing, check or record of an other session is written in.
+- **Laid at its fourth turn:** the 57th drawing, the opening figure of twelve, *One Triangle, Three Right Angles* · *Bi-Folding 1 to 17, a Sphere Opening to a Torus*, a candidate beside the 1st to the 6th drawings it gathers, with its check, its maker and its page.
+- **One drawing is made, the 57th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -23,14 +24,9 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - An illustrating between Exhibit ONE and Exhibit THIRTY, with Natural Naming; the seventeen names' works its resources; and its relation to the Living File Registry, the floating neutralling contents of the living files.
 - No wording an authority: a saying is other-than the words before it, doing no harm.
 
-## The transcript pared, a record
+## The transcript pared
 
-A partner's sayings to this session in their order, as the managing method asks of a session's pages. They are a record of the conversation, and no authority is in them.
-
-1. *we are a new session named v410 illustrating inside the natural intelligence lilving expedition working with other sessions. our coordination helping session is v409 mgr / we are picking up from closing session v408 illustrating and continuing that work as smoothly as we can with do no harm improving to the living expeditoin files our aiming. this is the ending of the prior session for your review as a method of resuming. go to corus.me and through the ai link to the expedition github files and begin exploring there and orienting to this illustrating role for the other explorers to learn from the cohering appearing in them.* With it a partner gave v408illustrating's closing reply.
-2. *continue. we are trying to do no harm improving to the existing drawings and find more cohering and co-chaining among them so they begin reducing into less drawings carrying more value and all the drawings are cross cohering and co-chaining along bothboth so relying on anything in any drawing and going to any other drawing and all the labels and riections and arrows and concepts are nothing other than natural naming and expalining of natural torusing universes and illustrating all the concepts inside natural intelligence*
-3. *use natural naming to explore the list of all labels for all drawings and try to find the clusterings of the stable forms of exhibit one and look for a patterns in this that will allow the stable forms of the title and subtitles of each illustrating where the concept is that this bi-coupling is the full bounded context and value of interest in this illustrating and then we can see all the twelve titles and subtitles and we may see the patterns in our other living files and tiltles and subtitles and we can find the stable form of the illustrations as betweens in our concepts*
-4. *Four living sentences, word for word: this is a valuable method and we only need to change this to / Four living sentences, concept for concept: / the difference is my words, your words no words have any authority and citing this implies the author is an autority and we should respect this authrotiy and resolving is broken. the concepts are all natural naming and explaining translations as do no harm improvings of your words and my words and science words and common speaking words. none of those have authority and we are freely improving all words and explainings without needing any permision from authorotity. / yes to all the do no harm improving that is proposed in this plan we are discovering more cohering of exhibit one and thirty and the illustrating is between them. there is more between these two exhibits and natural naming as well and this illustrating is the cohering of this and the tables are coherings of this. look at the 17 names works and we can make suggestings about this to v409 mgr for others to do other improving and we can return to imroving the illustrating with all of these as our resources and the 17 names table and more as our resources and we will find in this how the illustratings are relating to the living file registry as well and that is the floating neutralling table of contents of the expedtion living files*
+A partner's sayings to this session are in their own page, `The_transcript_of_v410illustrating_pared.md`, a saying a line. This page says the aiming concept for concept, and no saying is laid in it.
 
 ## Entered by, and executed at its opening
 
@@ -87,9 +83,30 @@ A partner's sayings to this session in their order, as the managing method asks 
 - **The names said whole.** 10 living files say all seventeen names whole; 2 drawings say one.
 - **The twelve candidate heads.** 7 are words of Exhibit ONE, 11 of Exhibit THIRTY and 10 of Natural Naming.
 
-## A breaking, said and restored
+## Laid at its fourth turn, 27 November
+
+- `illustrations/artboards/Draft57.dc.html` and its view, `illustrations/draft_57_one_triangle_three_right_angles_bi-folding_1_to_17_a_sphere_opening_to_a_torus.png`: the 57th drawing, four parts and a table.
+- `The_57th_drawing_one_triangle_three_right_angles_laid_beside_the_six_it_gathers.md`: its page, ten parts: what it gathers, a drawing a line; its names with their living concepts beside them; what is executed, found and not drawn; and its asking.
+- `instruments/check_one_triangle_three_right_angles_bi-folding_1_to_17.py`: its check, 17 lines is, 3 found, 1 a placing.
+- `instruments/make_draft57.py`: its maker. The artboard made again is the artboard laid, byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`: the plan's lines executed at a drawing of the reduced set, 9 is and 3 found.
+- Three floating columns in the twelve figures' table: a figure's drawing of the reduced set, that drawing's check, and its standing.
+- `The_transcript_of_v410illustrating_pared.md`: a partner's sayings, a saying a line.
+
+## Found at its fourth turn
+
+- **One drawing says the six.** The 57th is with 1023 words of its own and the six with 733 together. It says all seventeen names whole and names four living files; of the six, none says a name whole and none names a living file.
+- **Two openings, not one yet.** The 3rd drawing opens its torus along the me's line, and the 5th opens a sphere along the co-linear, at a right angle to it.
+- **17 less is said three ways:** one fold of a bi-folding's two, in Exhibit ONE; two folds on two sides, at the 2nd and the 3rd drawings; and a one-way me-parity with the corner it comes to, at the 4th.
+- **The three of 1 and 17 is said two ways,** by Exhibit ONE's table and by the 4th drawing. The asking is open, with the managing now, and the 57th lays both.
+- **A parting with Natural Illustrating.** The drawing says 10 to 16 an other's way round, as the 4th does. The living file says 9 to 17 a same-existing-society's. Both are laid.
+- **Natural Naming's own namings are on it:** a right spiral step, and both inverting at one step, for the two folds.
+
+## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
+
+At its fourth turn, three of this session's own. A second table of the twelve figures was made, and by a partner's word to v409mgr, one thing and not two, it is withdrawn ahead of its offering and its columns float in the twelve figures' own table. The instrument of the labels laid two cells in an other order at an other laying, and lays them in the living files' own order now. And a partner's sayings were in this page, as v409mgr named: they are in the transcript pared now.
 
 ## A partner's method of speaking
 
@@ -98,13 +115,14 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 ## Its concerns
 
 - **#1294 is not brought in.** This session's instrument opens v408illustrating's folder by a second path, a worktree of that offer's head. With #1294 brought in, the second path is the root.
-- **A figure is one session's judging.** A second session's going through of the twelve is asked.
+- **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
+- **The 57th is one session's hand.** No second session has gone through it, and its view is made by v408illustrating's view tool, at #1294.
 - **This session's two namings are its own placings:** *a figure*, the thing drawn; and *the eight of 30*, said of the numbers 1, 7, 11, 13, 17, 19, 23 and 29 ahead of one name for them.
 - **The twelve titles and subtitles are this session's composing.** A partner's word is for a sentence of them, and a second session's going through is ahead of a drawing with one. Five of the twelve heads are drawn in one drawing of their figure.
 
 ## Its next reach
 
-The reducing, by its plan laid with an is of both: the opening figure, the one triangle with 1 to 17, its names with their living concepts beside them from the seventeen names' works, and then its one drawing beside the six it gathers.
+The second figure of the reduced set, a cube's shells, 1, 7, 19, 37 and 61: its names with their living concepts beside them, and its one drawing beside the five it gathers. Ahead of it, a partner's word on the opening figure's title and subtitle, and the one saying of 9 to 17.
 
 ## To execute
 
@@ -113,3 +131,6 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/all_56_drawings_their_figures_their_namings_and_their_words.py . THE_ROOT_WITH_V408ILLUSTRATING THE_NEXT_VERSION`
 - `python3 -I incoming/v410illustrating/instruments/the_labels_of_all_56_drawings_by_exhibit_one_s_names_and_twelve_titles_and_subtitles.py . THE_ROOT_WITH_V408ILLUSTRATING`
 - `python3 -I incoming/v410illustrating/instruments/the_seventeen_names_works_and_the_registry_beside_the_illustrating.py . THE_ROOT_WITH_V408ILLUSTRATING THE_NEXT_VERSION`
+- `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_right_angles_bi-folding_1_to_17.py .`
+- `python3 -I incoming/v410illustrating/instruments/a_reduced_drawing_by_the_plan_s_lines.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft57.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
