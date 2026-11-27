@@ -14,6 +14,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Concept for concept.** By a partner's word no wording is an authority, and a living concept is said in natural naming, by no word-for-word saying.
 - **Laid at its fourth turn:** the 57th drawing, the opening figure of twelve, *One Triangle, Three Right Angles* · *Bi-Folding 1 to 17, a Sphere Opening to a Torus*, a candidate beside the 1st to the 6th drawings it gathers, with its check, its maker and its page.
 - **Laid at its fifth turn:** a partner's asking of the opening figure answered by executing: it is known mathematics, all even, and no prime's own round is in it.
+- **Laid at its sixth turn:** a partner's saying of a five, outward, on the sphere opening to a torus, executed two ways; the living files' own sayings of it, three golden rectangles at right angles; and a working view.
 - **One drawing is made, the 57th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -116,11 +117,27 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **The primes are on it as existing things.** Its moves lay a prime's name onto a name of no prime. Of the seventeen primes 2 to 59, two are rounds of its moves, 2 and 3; 37 is not.
 - **The odd is in Exhibit ONE at a number of mes.** An even number is at its parities again at 2 moments, with no 0; an odd number at four times its number, with a 0. That between is drawn in no drawing of the 56 as Exhibit ONE lays it.
 
+## Laid at its sixth turn, 27 November
+
+- `A_five_outward_on_the_sphere_opening_to_a_torus_a_partner_s_saying_executed_two_ways.md`: a partner's saying concept for concept, what is executed at a sphere and at a torus, the living files' own sayings beside it, a field's names, and candidates for the reducing.
+- `instruments/a_five_on_the_sphere_opening_to_a_torus_two_ways_executed.py`: 29 lines is, 1 found.
+- `illustrations/working_views/a_working_view_one_triangle_fifteen_of_a_sphere_s_120.png`, with its maker in `instruments/`: a working view, no drawing of the set.
+
+## Found at its sixth turn
+
+- **A five is on the opening figure's own sphere.** With one round of five more, its three mirrors and its round of three make 120 moves and no more. The one triangle of three right angles is fifteen of the 120 triangles, three fives.
+- **The living files say it already,** as three golden rectangles at right angles: Natural Naming, Natural Mathematics, Natural Numbers, Exhibit THIRTY and Natural Illustrating. A rectangle is on a mirror of the opening figure's three, and the one triangle is with one corner of a rectangle on a side.
+- **Nought to sixty, seventeen primes.** The sixty moves of one hand are 24 by fifths and 36 others; nought to sixty is 24 and 36, with nine primes and eight, 2 to 59, as Natural Numbers says them.
+- **No round of five is on a torus's grid about a patch.** Its rounds are 1, 2, 3, 4 and 6. On a torus a five is by winding: five patches all beside all.
+- **No drawing of the 56 draws the three rectangles,** a pentagon or the twelve corners' form. Natural Illustrating's part 3.3 asks them.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
 
 At its fourth turn, three of this session's own. A second table of the twelve figures was made, and by a partner's word to v409mgr, one thing and not two, it is withdrawn ahead of its offering and its columns float in the twelve figures' own table. The instrument of the labels laid two cells in an other order at an other laying, and lays them in the living files' own order now. And a partner's sayings were in this page, as v409mgr named: they are in the transcript pared now.
+
+At its fifth turn this session said the opening figure all even, and did not open the living files' own saying of a five on the same sphere. A partner named the five. It is opened and executed at its sixth turn, and the line of all even is as it was, of the 57th's own moves.
 
 ## A partner's method of speaking
 
@@ -136,7 +153,7 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 ## Its next reach
 
-The second drawing of the reduced set: the between from even to odd, a number of mes, with a cube's shells and 37 a me among the seventeen primes 2 to 59; its names with their living concepts beside them. Ahead of it, a partner's word: on that between as the second drawing, and on the opening figure's title and subtitle.
+With a partner's is: the 58th drawing beside the 57th, the three golden rectangles on the opening figure's three mirrors, the one triangle in fifteen, and the seventeen names on it as Natural Naming lays them, gone through ahead of the drawing. The opening figure's title and subtitle, and the between from even to odd at a number of mes, wait behind it.
 
 ## To execute
 
@@ -149,3 +166,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/a_reduced_drawing_by_the_plan_s_lines.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft57.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/the_opening_figure_by_its_own_moves_all_even_and_no_prime_s_own_round.py .`
+- `python3 -I incoming/v410illustrating/instruments/a_five_on_the_sphere_opening_to_a_torus_two_ways_executed.py . THE_ROOT_WITH_V408ILLUSTRATING`
+- `python3 -I incoming/v410illustrating/instruments/make_a_working_view_of_the_one_triangle_fifteen_of_a_sphere_s_120.py A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
