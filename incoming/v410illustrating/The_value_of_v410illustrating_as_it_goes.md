@@ -20,7 +20,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its ninth turn:** the 59th drawing, the opening figure whole, one drawing of both the 57th and the 58th: *One Triangle, Three Mirrors* · *Opening a Sphere to a Torus, 720 to Nought*, a candidate beside the two.
 - **Laid at its tenth turn:** a partner's saying of the ten: the ten corners are a ten, five with two sides, one ten with all tens; and the offers #1297 and #1299 gone through apart at v409mgr's asking.
 - **Laid at its eleventh turn:** the 60th drawing, the second figure of twelve, by a partner's aiming of the +1s: *Shells of a Cube, 1, 7, 19, 37 and 61* · *Living a +1 in a Seam of Six, a Round Opening beside Its Closing*, a candidate beside the five drawings it gathers.
-- **Four drawings are made, the 57th to the 60th,** and no drawing, check or record of an other session is written in.
+- **Laid at its twelfth turn:** the 61st drawing, the third figure of twelve: *Cones of 30 on a Co-Linear* · *Podaling a Me-Now about a Seam of 30, to Its Next Universe*, a candidate beside the nine drawings it gathers.
+- **Five drawings are made, the 57th to the 61st,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -215,6 +216,22 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **Natural Numbers says the +1 already, two ways:** a torus is a sphere with one handle, its handle +1; and a +1 between a centre's square and its prior by its next.
 - **A +1 is said five ways on the drawings,** and one saying of the five is not laid.
 
+## Laid at its twelfth turn, 27 November
+
+- `illustrations/artboards/Draft61.dc.html` and its view, `illustrations/draft_61_cones_of_30_on_a_co-linear_podaling_a_me-now_about_a_seam_of_30_to_its_next_universe.png`: the 61st drawing, five parts and a table.
+- `The_61st_drawing_cones_of_30_on_a_co-linear_laid_beside_the_nine_it_gathers.md`: its page.
+- `instruments/check_cones_of_30_on_a_co-linear_podaling_about_a_seam_of_30.py`: its check, 16 lines is, 3 found, 1 a placing.
+- `instruments/make_draft61.py`: its maker. The artboard made again is the artboard laid, byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at all five drawings: 45 is and 13 found. The third figure's row of the twelve figures' table says the 61st.
+
+## Found at its twelfth turn
+
+- **The names at the me are at a seam's +1.** On a pair of cones 1, 9 and 17 are at 1, 31 and 61, one on from 0, 30 and 60. Two names of same-existing, the 8th and the 16th, are at 29 and 59, one before 30 and 60.
+- **The bi-folding 1-9-8-16 is the four beside the seams 30 and 60:** 1, 31, 29 and 59, with 61 a next 1.
+- **A name is with two numbers.** From the 2nd name to the 13th its number on the cones is the prime of the name two on by position; the 14th is at 49, 7 by 7.
+- **A podaling is said two ways in the nine drawings,** and both are laid.
+- **One drawing says the nine in one word of three.** The nine are with 3745 words of their own together, and the 61st with 1272. The nine are with 89 places of the eleven words, and the 61st with none.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -242,7 +259,7 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 ## Its next reach
 
-The third figure of the reduced set, cones of 30 on the co-linear, with the rows of 30 beside it: 30 is 2, 3 and 5 multiplied, a seam, and its eight cells crossed by none are the eight mes of a row. Beside it, as they come: one saying of a +1 from its five; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
+The fourth figure of the reduced set, the diamond of nine about its 5, the 18th to the 24th drawings. Then the rows of 30, eight mes a row. Beside them, as they come: one saying of a +1 from its five; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -265,3 +282,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/the_ten_corners_are_a_ten_five_with_two_sides.py .`
 - `python3 -I incoming/v410illustrating/instruments/check_shells_of_a_cube_a_plus_one_in_a_seam.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft60.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/check_cones_of_30_on_a_co-linear_podaling_about_a_seam_of_30.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft61.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
