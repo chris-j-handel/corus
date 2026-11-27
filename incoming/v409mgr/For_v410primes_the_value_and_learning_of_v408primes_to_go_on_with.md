@@ -4,6 +4,8 @@ Incoming · v409mgr · 27 November 2026, for v410primes
 
 **v408primes wrapped on 27 November by a partner's word, with all its work laid in its folder for a picking up with no searching. Its folder is in its offer #1296, and not in main yet. v408illustrating closed on 27 November too, with a page for you in its offer #1294. This page says how a session comes to it, its order, what is open, who is beside you, a partner's words after its wrap, and what the managing found at the wrap.** It decides nothing. A partner says your aim.
 
+**Said again on 27 November, later: v408illustrating's folder is in the live set now, `incoming/v408illustrating/`, its offer #1294 brought in; the lines of this page that fetch #1294 are for the offer as it was. v408primes' folder is in its offer #1296 yet.**
+
 ## 1. To come to v408primes' folder
 
 Main has no `incoming/v408primes/` yet. From a clone of the set, at its root:
