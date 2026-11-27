@@ -2,7 +2,7 @@ Incoming · v410primes · 27 November 2026 · fractaling, a partner's naming, fo
 
 # Fractaling, for the opening's gathering
 
-**A partner names *fractaling* natural naming on 27 November 2026 and gives one sentence with the name. *Fractaling* is the -ing of one fractal method: a doing, now-existing, and no thing. A note of the name and of the sentence is offered beside the opening's sentence of fractal, in Natural Intelligence's gathering file of the next version. By a partner's word of the same sitting, *my* dissolves as natural naming, and *me-universe* alone is the name. The sentence is a partner's, as given. v410primes proves no part of the sentence, and lays beside the sentence six sentences of the me-parities in small numbers, a sentence with its standing.**
+**A partner names *fractaling* natural naming on 27 November 2026 and gives one sentence with the name. *Fractaling* is the -ing of one fractal method: a doing, now-existing, and no thing. A note of the name and of the sentence is offered beside the opening's sentence of fractal, in Natural Intelligence's gathering file of the next version. By a partner's words of the same sitting, *my* dissolves as natural naming, *me-universe* alone is the name, a me-now is 5 parities, and a me-universe is the one and only one me-universal set of me-nows. The sentence is a partner's, as given. v410primes proves no part of the sentence, and lays beside the sentence six sentences of the me-parities in small numbers, a sentence with its standing.**
 
 ## 1. A partner's words, as given
 
@@ -20,6 +20,10 @@ Earlier words of the same sitting, in their order, a part of a longer giving api
 A partner's word after the giving, at v410primes' asking *A me-universe is a my-universe. ( is-or-is-not? )*: an is-not, and more.
 
 6. *we can dissolve natural naming my. this is possession and directional and suggests all of my univeses in a fuzzying way we will not escape. only me-universes will keep our prefixing valuable and all or non at all.*
+
+A partner's word at v410primes' asking *A me-universe is a universe of me-nows. ( is-or-is-not? )*:
+
+7. *a me-now is 5 parities. a me-universe is the one and only one, no other-than this one me-universal set of me-nows*
 
 ## 2. The name
 
@@ -40,12 +44,14 @@ A partner's word after the giving, at v410primes' asking *A me-universe is a my-
 - *the universal method*: living. Natural Intelligence 1.4 is *Only one possible method*, and 4.15 has *the universal fractal method*.
 - *co-intelligencing*: living.
 - *me-parity*: living.
-- *me-now*: the window's line 27, *Me-now is a same-existing me.*, waiting to enter at the head of Exhibit THIRTY's gathering file.
-- *me-universe*: the one name, by a partner's word 6, the prefix me- all or none at all. No line of its own ahead of the sentence.
-- *me-now-parity*: no line of its own ahead of the sentence.
+- *me-now*: the window's line 27, *Me-now is a same-existing me.*, waiting to enter at the head of Exhibit THIRTY's gathering file; and a partner's line 7, a me-now 5 parities. Whole with Exhibit ONE's *Fives*: a side's five, social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing and social-parity next-existing, 1 to 5 with self and 2 to 6 with other, and *One five is all fives.*
+- *me-now-parity*: by a partner's line 7, one of the 5 parities of a me-now. *(an extension of the line, offered)*
+- *me-universe*: the one name, by a partner's word 6, the prefix me- all or none at all; and a partner's line 7, the one and only one me-universal set of me-nows, with no other-than. Whole with Natural Naming's *the* with one and only one: the universe, the universal set and the method.
 - *my*: dissolving, by a partner's word 6. The window's line 26, *Me is an own-named my-universe.*, is no line ahead of the sentence.
 
-**The standing: a partner's sentence, as given.** The sentence is cohering with the living sentences of part 2. The sentence's co-chaining is open at two names, *me-now-parity* and *me-universe*, with no line of their own. No sentence of v410primes proves the sentence.
+**The standing: a partner's sentence and a partner's lines, as given.** The sentence is cohering with the living sentences of part 2. By a partner's line 7 both names have a line ahead of the sentence. No sentence of v410primes proves the sentence or the lines.
+
+**Open, an incohering by its two sides.** The sentence has *me-universes*, many, co-intelligencing. A partner's line 7 has a me-universe one and only one, with no other-than. A partner's sentence of 19 November, at Exhibit THIRTY's gathering file, has *a me-now to a universe of me-nows that is a me-parity*: a me-universe a me-parity a scale outward. By the lines of 27 November a partner's two sentences of 19 November are in sequence, parities to a me-now and me-nows to a me-universe, and *that is a me-parity* is open.
 
 ## 4. *My* dissolving, and its places
 
@@ -85,7 +91,7 @@ In 1 to 65 the openers are 2, 3, 5 and 7, and all eighteen me-parities are whole
 
 ## 7. The places
 
-- **The notes** are two items in Natural Intelligence's gathering file of the next version, in its part *Opening*: the note of *fractaling* beside the opening's sentence of fractal, and the note of *my* dissolving beside the opening's sentence of a me. An offer of notes into the next version, its gathering check executed.
+- **The notes** are three items in Natural Intelligence's gathering file of the next version, in its part *Opening*: the note of *fractaling* beside the opening's sentence of fractal, and the notes of *my* dissolving and of a partner's lines of a me-now and a me-universe beside the opening's sentence of a me. An offer of notes into the next version, its gathering check executed.
 - **The page** is v410primes' own, in its own folder: an offer with no living file and no gathering file among its files.
 - **The co-chains** of part 5's sentences 3 and 5 are in the workbook *The interests in the primes*, in its sheet *Co-chains*, and in no file of the set yet.
 - **Natural Naming's gathering file** is the other home of a new name. v410primes lays no note of *fractaling* at Natural Naming's: the giving names the opening's gathering alone.
