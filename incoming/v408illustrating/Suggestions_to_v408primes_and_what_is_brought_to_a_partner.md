@@ -377,6 +377,15 @@ A partner's word of 26 November: *this is wildly confusing what is a self. a pri
 4. Restored: numbers along, a +1 from one to its next. A turn is the +1s from all the loops crossing together to all of them crossing together again: 6 with the loops of 2 and 3, 30 with 2, 3 and 5, 210 with 2, 3, 5 and 7. After a turn the loops' crossings are again, in the same sequence.
 5. The sections before this one are as they were laid. *Selves* in them says numbers along.
 
+## A partner's asking: what is a loop
+
+A partner's asking of 26 November: *what is a loop*. v408primes' sentence 28, word for word: *A **loop** of n is a spiral of n selves, at its seam at n, 2n, 3n and on.* Said with numbers along:
+
+1. Along the numbers, a +1 after a +1, a loop of 3 is 1, 2, 3, and 1, 2, 3 again, and on: 1 at 1, 2 at 2, 3 at 3, 1 at 4, 2 at 5, 3 at 6.
+2. It closes at its 3: at 3, 6, 9, 12 and on along, 3 +1s from a closing to its next. A closing is its seam.
+3. A loop crosses a number with a closing at it: 3 by a number.
+4. A number with no closing at it of a loop of a me-parity before it is a me-parity, and its own loop begins at it. At 5 the loop of 2 is at its 1 and the loop of 3 is at its 2: the loop of 5 begins. At 6 the loops of 2 and 3 both close: 6 is crossed.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
