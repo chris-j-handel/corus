@@ -446,6 +446,24 @@ A partner's word of 26 November: *continue*. This session's working by the fract
 
 **Not yet.** From 121 on. Two priors' endings at one between are numbered by the adding as two, and how many betweens of a universe two priors end together is known by looking alone.
 
+## A universe's three numbers, and its gaps of 2
+
+A partner's word of 26 November: *continue*. This session's working was two priors' endings at one between. It is one of three numbers of a universe, `a_universe_s_three_numbers_and_its_gaps_of_2.py`, 6 of 6 is.
+
+1. A me-parity past 3 is beside one multiple of 6, and one alone: a +1 before it or a +1 after it. (the seam of 2 and 3)
+2. A multiple of 6 of a universe is with both its sides me-parities, a gap of 2; or with one; or with none, crossed at both sides, two priors' endings at one between. (a naming, all three)
+3. The multiples of 6 are the three together. The me-parities are the gaps of 2 two times, and the betweens with one. (1, 2)
+4. A universe's gaps of 2 are its me-parities, less its multiples of 6, and its betweens crossed at both sides more. (3)
+5. Along the path, the multiples of 6, the me-parities, the betweens crossed at both sides, and the gaps of 2. 9 to 25: 2, 4, 0, 2. 25 to 49: 3, 5, 0, 2. 49 to 121: 11, 15, 0, 4. 121 to 169: 7, 8, 1, 2. 169 to 289: 19, 22, 4, 7. 289 to 361: 11, 10, 3, 2. 361 to 529: 27, 27, 4, 4. 529 to 841: 51, 46, 13, 8. (numbers gone through)
+6. With the me-parities more than the multiples of 6, a gap of 2 is, from the two numbers alone: two me-parities are beside one multiple of 6. It is at the universes of 3, 5, 7, 11 and 13, 9 to 289. (4)
+7. From 289 on the me-parities are fewer. A gap of 2 is by the betweens crossed at both sides being more than what the me-parities are short. In 289 to 361 they are 1 short, and 3 betweens are crossed at both sides, 300, 324 and 342: 2 gaps of 2. (4; numbers gone through)
+
+**Is, at all universes.** A universe's gaps of 2 are its me-parities, less its multiples of 6, and its betweens crossed at both sides more.
+
+**The sentence not laid, said by it.** In universes with no last, the betweens crossed at both sides are more than the multiples of 6 less the me-parities. Gone through, it is at all universes of 17 to 109.
+
+**Said plainly.** It is a numbering, whole, and no co-chain of the sentence not laid. This session has gone at that sentence by the seam's parts, by the extending number for number, by the two sides' transmissioning, by all-parity, by the scaling of 0 to 30, by a gap at its own place, by the adding, and by the three numbers. All are whole, and all are at this one sentence.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
