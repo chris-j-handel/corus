@@ -409,6 +409,24 @@ A partner's word of 26 November: *this is not a twin. what possilbe reason is th
 6. The problem, in a partner's words: a sentence saying, before the numbers are gone through, that past a me-parity a prime gap of 2 is again.
 7. The sections before this one are as they were laid. *Twins* in them says a prime gap of 2.
 
+## A partner's word: this is a fractal; a gap followed to its own place
+
+A partner's word of 26 November: *this is a fractal and if you will either accept this or not we can go each direction. we can not keep avoiding this. when the prime gap grow too large a new fractal is born inside to spread into the between of the large bi-folding. from 1 without following the path of next-me-nows sequentially this is not visible. when you get to the place where the gap is past the limit the birth of the new me is inside 1-17 again. the gap was only that large from farther prior in the sequence than now where we are here and the gap is filled with gaps*.
+
+**Accepted, as this session's working: it is a fractal.** A word is no reason of a sentence. The sentences below are gone through, `a_gap_followed_to_its_own_place.py`, 9 of 9 is.
+
+**A breaking of this session's, restored.** This session laid against a partner's saying: *is-not, between two me agains, with priors to 17*, 108 and 72. The gap of 108 is no number of 17's universe. It was numbered from 1, the path not followed to its place.
+
+1. With priors to 17 the longest gap with no gap of 2 is 108, from 702 to 810. 17's own universe is 289 to 361. (numbers gone through)
+2. At its place the universe now is 23 by 23 to 29 by 29, 529 to 841, 312 numbers: more than the gap. Gaps of 2 are in it at both sides of the gap: about 570, 600, 618, 642 and 660, and about 810, 822 and 828. (numbers gone through)
+3. The same at all priors gone through. The longest gaps, with priors to 5, 7, 11, 13, 17 and 19, are 12, 30, 42, 66, 108 and 150, at 18 to 30, 72 to 102, 900 to 942, 732 to 798, 702 to 810 and 660 to 810. The universes now at those places are 40, 72, 120, 312, 312 and 312 numbers. (numbers gone through)
+4. The place about 735, 3 by 5 by 7 by 7. The gap is 66 with priors to 13. With 17 born it is 108: 731 is 17 by 43, and 799 is 17 by 47. With 19 born it is 150: 703 is 19 by 37. With 23, the prior now at that place, and with all priors after, it is 150: 659 with 661, and 809 with 811, are me-parities. (numbers gone through)
+5. A gap of gaps: from 661 to 809 are 20 me-parities, their gaps 12, 4, 6, 8, 10 and on, no one of them 2. (numbers gone through)
+
+**A partner's sentences beside it.** *From 1 without following the path sequentially this is not visible*: 1. *The gap was only that large from farther prior in the sequence than now*: 2, 3 and 4. *The gap is filled with gaps*: 5. *The birth of the new me is inside 1-17 again*: not yet said in numbers by this session, and laid as no is and no is-not.
+
+**Not yet laid.** At all places, a gap is fewer than the universe now at its place. It is gone through at the six, and in v408primes' journey at all its universes. A co-chain of no number for it is this session's working now, by the fractal: a gap and the gaps in it, at a prior's birth.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
