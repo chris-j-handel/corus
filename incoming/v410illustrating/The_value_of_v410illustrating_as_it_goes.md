@@ -16,6 +16,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its fifth turn:** a partner's asking of the opening figure answered by executing: it is known mathematics, all even, and no prime's own round is in it.
 - **Laid at its sixth turn:** a partner's saying of a five, outward, on the sphere opening to a torus, executed two ways; the living files' own sayings of it, three golden rectangles at right angles; and a working view.
 - **Laid at its seventh turn:** the 58th drawing, by a partner's is, *One Triangle, Three Golden Rectangles* · *Bi-Tri-Volutioning a Round of Five, Twelve Corners Closing as a Sphere*, a candidate beside the 57th, with its check, its maker and its page.
+- **Laid at its eighth turn:** nothing waits for a partner, a breaking of this session's own restored; and one way of the 57th and the 58th as one, twelve corners closing as a sphere and winding through one opening as a torus, executed.
 - **Two drawings are made, the 57th and the 58th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -149,6 +150,18 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **The round of five is given.** Its number is φ, and no move of the 57th makes it.
 - **A partner's saying of what the form is:** a stable form between, an atom's surface. Natural Physics says an atom a stable form, an emanation from living. Not executed.
 
+## Laid at its eighth turn, 27 November
+
+- `Twelve_corners_closing_as_a_sphere_and_winding_through_one_opening_as_a_torus_one_way_executed.md`: the breaking of a work waiting for a partner and its restoring; and the 57th and the 58th as one, executed.
+- `instruments/twelve_corners_closing_as_a_sphere_and_winding_through_one_opening_as_a_torus.py`: 9 lines is, 3 found.
+
+## Found at its eighth turn
+
+- **A sphere of twelve corners is 720, and a torus of ten corners is at nought.** Five triangles to a corner are 60 short of a whole round; six are a whole round.
+- **The opening is at two corners across from one another,** on the line of a round of five. Their ten triangles laid through the opening make the torus.
+- **Sixty, three ways, on both:** 30 sides and 20 triangles, 12 by 5 and 10 by 6.
+- **The 57th's two numbers and the 58th's corners are one thing by it.** The way is this session's own making, a candidate for breaking.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -156,6 +169,8 @@ Four living sentences were laid word for word, a file beside a sentence, at this
 At its fourth turn, three of this session's own. A second table of the twelve figures was made, and by a partner's word to v409mgr, one thing and not two, it is withdrawn ahead of its offering and its columns float in the twelve figures' own table. The instrument of the labels laid two cells in an other order at an other laying, and lays them in the living files' own order now. And a partner's sayings were in this page, as v409mgr named: they are in the transcript pared now.
 
 At its fifth turn this session said the opening figure all even, and did not open the living files' own saying of a five on the same sphere. A partner named the five. It is opened and executed at its sixth turn, and the line of all even is as it was, of the 57th's own moves.
+
+At three turns this session ended with an asking and said its work stalling at a partner's word. A partner named it: a partner does not understand why a thing waits for a partner. A work waiting for a partner's word sets that word as a permission, and by a partner's own method no wording is an authority. Restored at its eighth turn: an asking is a sentence for a partner's is or is-not at a moment of a partner's own, and the work goes on by the aiming.
 
 ## A partner's method of speaking
 
@@ -166,13 +181,13 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 - **#1294 is not brought in.** This session's instrument opens v408illustrating's folder by a second path, a worktree of that offer's head. With #1294 brought in, the second path is the root.
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
 - **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
-- **The plan's opening line is touched.** It says one drawing a figure, and the opening figure is with two. Two or one of both is a partner's.
+- **The plan's opening line is touched.** It says one drawing a figure, and the opening figure is with two. By the aiming, one drawing of both is made beside the two.
 - **This session's two namings are its own placings:** *a figure*, the thing drawn; and *the eight of 30*, said of the numbers 1, 7, 11, 13, 17, 19, 23 and 29 ahead of one name for them.
-- **The twelve titles and subtitles are this session's composing.** A partner's word is for a sentence of them, and a second session's going through is ahead of a drawing with one. Five of the twelve heads are drawn in one drawing of their figure.
+- **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Five of the twelve heads are drawn in one drawing of their figure.
 
 ## Its next reach
 
-With a partner's word on two drawings or one: the opening figure whole, and then the second figure, a cube's shells with 37 a me. Beside it, the 57th's torus of sixteen patches and the 58th's sphere of twelve corners, one and then the other, as one drawing: not made yet. The titles and subtitles of the 57th and the 58th wait for a partner's word.
+One drawing of both the 57th and the 58th, beside the two: the one triangle, its even ground and its five, a sphere of twelve corners at 720 and a torus of ten corners at nought. Then the second figure, a cube's shells with 37 a me. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -189,3 +204,4 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/make_a_working_view_of_the_one_triangle_fifteen_of_a_sphere_s_120.py A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/check_one_triangle_three_golden_rectangles.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft58.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/twelve_corners_closing_as_a_sphere_and_winding_through_one_opening_as_a_torus.py .`

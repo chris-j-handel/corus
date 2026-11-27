@@ -89,7 +89,7 @@ Said by a partner on 27 November as the drawing was made, and laid here concept 
 5. No word of the eleven a partner asked of is in it, and the one list's instrument says 0 places on its own text.
 6. Its artboard made again by its maker is the artboard laid, byte for byte.
 
-**Touched of the plan.** The plan's opening line says one drawing a figure. The opening figure is with two drawings now, the 57th and the 58th. The twelve figures' table says both in the opening figure's row, in its three floating columns. Two drawings or one drawing of both is a partner's, and is this page's asking.
+**Touched of the plan.** The plan's opening line says one drawing a figure. The opening figure is with two drawings now, the 57th and the 58th. The twelve figures' table says both in the opening figure's row, in its three floating columns. By the aiming, fewer drawings carrying more value, one drawing of both is made beside the two.
 
 ## 7 What it is not
 
@@ -98,14 +98,13 @@ Said by a partner on 27 November as the drawing was made, and laid here concept 
 - How all seventeen names lie on the three rectangles is not drawn. Across, along and both are laid for eight names, as the living files say them; for nine names neither word is laid on it.
 - A partner's saying of an atom's surface is not executed, and no drawing of an atom is on it.
 - Its numbered sentences of Exhibit THIRTY are of the living set at v402mgr. With the next version they are executed again.
-- Its title and its subtitle are ahead of a partner's word.
+- Its title and its subtitle are this session's composing, candidates.
 
-## Its asking, open
+## Its asking, and nothing waiting at it
 
 The opening figure is two drawings of the reduced set: its even ground, the 57th, and its five, the 58th. ( is-or-is-not? )
 
-- **Its is:** the two go on side by side, and the plan's opening line says fourteen drawings.
-- **Its is-not:** one drawing of both is made, the 57th and the 58th gathered in it.
+This asking was laid as a thing waiting for a partner, and a partner named it. Nothing waits at it. By the aiming, fewer drawings carrying more value, one drawing of both is made beside the two, doing no harm. A partner's is or is-not of the sentence, at a moment of a partner's own, is its next.
 
 ## To execute
 
