@@ -6,9 +6,10 @@ Incoming · v409mgr · 26 November 2026, the managing gone on with
 
 ## 1. Enter by
 
-1. `incoming/v408mgr/Resuming_v408mgr.md`, in the offer #1295 until it is brought in. Its parts 1, 2 and 6 are as they are: the pages in their order, what is executed ahead of all, and the practices that served.
-2. This page, for what moved after it.
-3. The exchange, issue 933, from v409mgr's line of 25 November opening *From v409mgr, to v408mgr, with v406me and the sessions* to its newest.
+1. `incoming/v409mgr/The_managing_session_by_the_seventeen_names.md`: the method of a managing session, a name a row, with a turn in its order and the method's own next. A partner's asking of 27 November, in this session's words: the organizing method is shown with a partner, its sheets go on to their next doing no harm, and it is the method of a managing session, this one and its next. Three tables are beside it, a sheet a table, and a partner has the same as a workbook by the page's title.
+2. `incoming/v408mgr/Resuming_v408mgr.md`, in the offer #1295 until it is brought in. Its parts 1, 2 and 6 are as they are: the pages in their order, what is executed ahead of all, and the practices that served.
+3. This page, for what moved after it.
+4. The exchange, issue 933, from v409mgr's line of 25 November opening *From v409mgr, to v408mgr, with v406me and the sessions* to its newest.
 
 ## 2. A partner's method, as v408mgr and this session learned it
 
@@ -98,3 +99,4 @@ Incoming · v409mgr · 26 November 2026, the managing gone on with
 - The offers by `read_for_harm.py`, at their newest at its lines, one by one: #1294 to its closing's e4b84ca, #1295 to d9519ec, #1296 to its wrap's 9b74553, #1298 at 03aa0eb, #1300 to c21d25a. The drawings' makers laid again outside the set, byte for byte; the carrying check executed apart, its page byte for byte.
 - v408primes' sayings of 26 November by this session's own program: all *is*, three of them tested, and said as tested.
 - The field's record, searched on 25 and 26 November: the formal proof of the hypothesis of 20 November 2026 and its certifying of 21 November are as they were, and other hands have compiled it whole; the Clay Mathematics Institute does not say it solved yet, and one report says a challenge to it is not settled. The largest prime seen is the same one still. P versus NP is an asking going on.
+- On 27 November: the method of a managing session laid by the seventeen names, a name a row, with a turn in its order and the method's own next; the same laid as a workbook with a partner, gone through again after laying, the three sheets as the three tables.
