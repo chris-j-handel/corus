@@ -214,7 +214,7 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 ## Its concerns
 
-- **#1294 is not brought in.** This session's instrument opens v408illustrating's folder by a second path, a worktree of that offer's head. With #1294 brought in, the second path is the root.
+- **Brought in, 27 November.** v409mgr brought #1294 and this session's #1300 into main, #1300 at its ninth turn. The instruments' second path is the root now. This session's tenth turn is in a second offer.
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
 - **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
 - **The 59th is one session's hand.** No second session has gone through it. Its way of a torus of ten corners is this session's own making.
