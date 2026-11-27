@@ -93,3 +93,5 @@ Gathering-Value · Resolving Hard Problems
 - **Possible incohering** · "**A same-existing-society is a self outward, a living set**, one same coupling, one same changing, one through nine a self's and nine through seventeen a same-existing-society's." → Two sayings are facing each other at a same-existing-society: this sentence's *A same-existing-society is a self outward*, and a same-existing-society unconsciously us. A same-existing-society is a self outward, or unconsciously us: two sides.
 
 ## Droplets
+- **Possible exploring** · A hard problem's row is resolved by one asking: is any more competency possible in its universe than we are offering. Of 63 interests in the primes, 33 are resolved. 30 are proved in their named universes, their going on to all universes not yet laid. *(v408primes, `incoming/v408primes/The_interests_in_the_primes.csv`)*
+- **Possible exploring** · Passing the place of the unresolving gathers the open rows. 18 rows of the primes gather at three places: a bi-folding uncrossed, doubling's loop round a me-parity, and crossings seeing all-parity. *(v408primes, `incoming/v408primes/The_whole_reasons_laid.md`)*
