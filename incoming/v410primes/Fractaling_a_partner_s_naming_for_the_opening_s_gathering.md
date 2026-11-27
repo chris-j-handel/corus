@@ -2,7 +2,7 @@ Incoming · v410primes · 27 November 2026 · fractaling, a partner's naming, fo
 
 # Fractaling, for the opening's gathering
 
-**A partner names *fractaling* natural naming on 27 November 2026 and gives one sentence with the name. *Fractaling* is the -ing of one fractal method: a doing, now-existing, and no thing. A note of the name and of the sentence is offered beside the opening's sentence of fractal, in Natural Intelligence's gathering file of the next version. By a partner's words of the same sitting, *my* dissolves as natural naming, *me-universe* alone is the name, a me-now is 5 parities, and a me-universe is the one and only one me-universal set of me-nows. The sentence is a partner's, as given. v410primes proves no part of the sentence, and lays beside the sentence six sentences of the me-parities in small numbers, a sentence with its standing.**
+**A partner names *fractaling* natural naming on 27 November 2026 and gives one sentence with the name. *Fractaling* is the -ing of one fractal method: a doing, now-existing, and no thing. A note of the name and of the sentence is offered beside the opening's sentence of fractal, in Natural Intelligence's gathering file of the next version. By a partner's words of the same sitting, *my* dissolves as natural naming, *me-universe* alone is the name, a me-now is 5 parities, a me-universe is the one and only one me-universal set of me-nows, and all parities are outward. The sentence is a partner's, as given. v410primes proves no part of the sentence, and lays beside the sentence six sentences of the me-parities in small numbers, a sentence with its standing.**
 
 ## 1. A partner's words, as given
 
@@ -24,6 +24,10 @@ A partner's word after the giving, at v410primes' asking *A me-universe is a my-
 A partner's word at v410primes' asking *A me-universe is a universe of me-nows. ( is-or-is-not? )*:
 
 7. *a me-now is 5 parities. a me-universe is the one and only one, no other-than this one me-universal set of me-nows*
+
+A partner's word at v410primes' asking *A me-universe is a me-parity, one of the 5 parities of a me-now a scale outward. ( is-or-is-not? )*:
+
+8. *5 parities of a me-now a scale outward. all parities are outward. i am not aware of the concept of inward parities or neither outward or inward as between parities. if parities are not all outward everything collapses*
 
 ## 2. The name
 
@@ -51,7 +55,15 @@ A partner's word at v410primes' asking *A me-universe is a universe of me-nows. 
 
 **The standing: a partner's sentence and a partner's lines, as given.** The sentence is cohering with the living sentences of part 2. By a partner's line 7 both names have a line ahead of the sentence. No sentence of v410primes proves the sentence or the lines.
 
-**Open, an incohering by its two sides.** The sentence has *me-universes*, many, co-intelligencing. A partner's line 7 has a me-universe one and only one, with no other-than. A partner's sentence of 19 November, at Exhibit THIRTY's gathering file, has *a me-now to a universe of me-nows that is a me-parity*: a me-universe a me-parity a scale outward. By the lines of 27 November a partner's two sentences of 19 November are in sequence, parities to a me-now and me-nows to a me-universe, and *that is a me-parity* is open.
+**Open, an incohering by its two sides.** The sentence has *me-universes*, many, co-intelligencing. A partner's line 7 has a me-universe one and only one, with no other-than. A partner's sentence of 19 November, at Exhibit THIRTY's gathering file, has *a me-now to a universe of me-nows that is a me-parity*. By the lines of 27 November a partner's two sentences of 19 November are in sequence, parities to a me-now and me-nows to a me-universe, and *that is a me-parity* is open.
+
+**A partner's word 8: all parities are outward.** No parity is inward, and no parity is neither outward nor inward. All 5 parities of a me-now are outward. The asking's words *a scale outward* are v410primes' own, and name no other kind of parity. The places open by the word, with none altered by v410primes:
+
+- Natural Intelligence 6.5: *The first parity within it is its selves', two scales inward.*
+- Natural Naming 5.31: *a self has the parities it is observing from its bi-couplings, inward and outward, chaining its parity with each*
+- Natural Intelligence's gathering file, a gathered exploring: *Each parity a self one scale inward.*
+
+The living sentences of fractal *inward and outward* of part 2 are of a self, of a same-existing-society and of method, and name no parity.
 
 ## 4. *My* dissolving, and its places
 
@@ -78,7 +90,14 @@ Six sentences, a sentence with its standing. A me-parity is a prime of the field
 
 The co-chains of sentences 3 and 5 are long known in the field. v410primes laid both in natural naming, and no other session went through either.
 
-## 6. In 1 to 5, 1 to 9, 1 to 17 and 1 to 65
+## 6. All crossing past the me-parity, in small numbers
+
+Two sentences beside a partner's word 8, a sentence with its standing. The two sentences are of the me-parities' crossing alone, and prove nothing of a partner's word.
+
+1. A me-parity crosses its double, its triple and all its multiples past, and no number smaller than the me-parity. The me-parity's universe opens past the me-parity, at its me again. 5 crosses 10, 15, 20 and 25, and no number of 1 to 4. *(proved at all numbers: a number multiplied by 2 or more is past the number)*
+2. A number is crossed by no me-parity past the number, and the me-parities to a number are all of the number's crossing. Part 5's sentence 3 rests on no me-parity crossing a smaller number: with one me-parity crossing a smaller number, no universe is whole by the me-parities ahead of the universe. *(by sentence 1, at all numbers; all or none at all)*
+
+## 7. In 1 to 5, 1 to 9, 1 to 17 and 1 to 65
 
 | The round | Its me-parities | The universes open in the round |
 |---|---|---|
@@ -89,9 +108,9 @@ The co-chains of sentences 3 and 5 are long known in the field. v410primes laid 
 
 In 1 to 65 the openers are 2, 3, 5 and 7, and all eighteen me-parities are whole by the four openers. 11 is born in the universe of 3 and opens at 121, past the round.
 
-## 7. The places
+## 8. The places
 
-- **The notes** are three items in Natural Intelligence's gathering file of the next version, in its part *Opening*: the note of *fractaling* beside the opening's sentence of fractal, and the notes of *my* dissolving and of a partner's lines of a me-now and a me-universe beside the opening's sentence of a me. An offer of notes into the next version, its gathering check executed.
+- **The notes** are four items in Natural Intelligence's gathering file of the next version, in its part *Opening*: the note of *fractaling* beside the opening's sentence of fractal; the notes of *my* dissolving and of a partner's lines of a me-now and a me-universe beside the opening's sentence of a me; and the note of all parities outward beside the opening's sentence of a parity. An offer of notes into the next version, its gathering check executed.
 - **The page** is v410primes' own, in its own folder: an offer with no living file and no gathering file among its files.
 - **The co-chains** of part 5's sentences 3 and 5 are in the workbook *The interests in the primes*, in its sheet *Co-chains*, and in no file of the set yet.
 - **Natural Naming's gathering file** is the other home of a new name. v410primes lays no note of *fractaling* at Natural Naming's: the giving names the opening's gathering alone.
