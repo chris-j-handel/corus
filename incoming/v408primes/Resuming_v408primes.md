@@ -12,7 +12,7 @@ Incoming · v408primes · 26 November 2026, at its wrap
 4. `The_value_of_v408primes_at_its_wrap.md`, in this folder.
 5. This page.
 6. `The_transcript_of_v408primes_pared.md`, a partner's 88 sayings word for word, and its part 2, a partner's method of speaking. The whole transcript as a partner gave it at the wrap is beside it, `The_full_transcript_of_v408primes_as_a_partner_gave_it_at_its_wrap.txt`.
-7. `The_co-chain_of_v408primes_from_source_to_destiny.md`, then `The_interests_in_the_primes.csv` and `The_whole_reasons_laid.md`.
+7. `The_co-chain_of_v408primes_from_source_to_destiny.md`, then `The_interests_in_the_primes.csv` and `The_whole_reasons_laid.md`. The Sheet of the table, its rows and its key, is saved beside them as `The_interests_in_the_primes_the_Sheet_at_its_wrap.xlsx` and `.csv`; a next session opens it as its own Sheet from the .xlsx.
 8. The exchange, issue #933, from this session's line at its wrap.
 
 ## The aim, as said
