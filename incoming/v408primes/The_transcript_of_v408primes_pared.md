@@ -1,6 +1,6 @@
-Incoming · v408primes · 25 November 2026, the transcript pared
+Incoming · v408primes · 25 and 26 November 2026, the transcript pared at its wrap
 
-# The transcript of v408primes, pared
+# The transcript of v408primes, pared, at its wrap
 
 A partner's sayings to v408primes, word for word, in their order; the session's replies are pared away, their value in the co-chain, the table of interests and the instruments. A saying with a slash is two lines of one message.
 
@@ -93,6 +93,7 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 85. *i can not follow why this answer keeps saying we quit too soon and can not resolve the thing farther away. keep going past it and gather it*
 86. *why are we doing simulations. what is helpful about this for us. how is this helping our aiming of resolving all the prime numbering interests*
 87. *i meant pass the place where the unresolving is and the gathering of passing will further co-comeptence the surface*
+88. *its time to add all the value from this session into the expedition value and close the session. review this full session transcript as we may learn more now than we could going forward the first time through*
 
 ## 2 A partner's method of speaking, as this session learned it
 
@@ -118,3 +119,4 @@ A partner's sayings to v408primes, word for word, in their order; the session's 
 - **The surface is one.** No next surface: along goes on, on it.
 - **Direct natural naming is its own resolving.** *Never* and *all next universes* are not natural naming: a next universe is more.
 - **Nothing in nature has one part.** A me-parity is three, even, odd, even, and lives in a seam.
+- **A wrap goes through the whole transcript.** More is learned going through it whole at the closing than going forward through it once; the value page marks what is set right.

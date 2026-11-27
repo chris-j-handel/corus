@@ -2226,3 +2226,5 @@ Gathering-Value · Natural Intelligence
 - **Is-not** · Co as same-as, bi as other-than and tri as the is-or-is-not of the two.
 - **Is-not** · Prior-existing by *before*: *Before now-existing is prior-existing.* In natural defining *before* is unhelpful.
 - **Is-not** · All-parity as the even parity of bi: bi is only inside a bi-coupling of a self and an other.
+- **Possible exploring** · All proving is co-chaining and cohering, by four requirements: co-chaining, cohering, both-both and same. A named universe is the proving place, all or none. All is by other-thans: a seam is same-existing at all seams. *(v408primes, `incoming/v408primes/The_transcript_of_v408primes_pared.md`, part 2)*
+- **Possible exploring** · A universe has no *top*: it is a cone, opening from 1 to 17 at all seams, the same shape at all. A universe is not dropped in: the journey goes from the origin carrying its priors. *(v408primes, `incoming/v408primes/instruments/the_journey_gathered.py`)*

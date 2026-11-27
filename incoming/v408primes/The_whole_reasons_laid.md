@@ -66,4 +66,4 @@ Executed by `instruments/traveling_the_journey_with_its_priors.py`, to 100,140,0
 
 ## The rows whose going on is not yet laid
 
-Thirty rows are proved in their named universes, all, and their going on to all universes is not yet laid: 13, 14, 15, 16, 17, 25, 26, 27, 28, 29, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 50, 51, 53, 54 and 61. For twelve of them a whole reason is known and is to be laid here as row 30's is: 25, 26, 27, 37, 39, 41, 45, 46, 48, 51, 53 and 54. For eighteen no whole reason is laid by anyone: 13, 14, 15, 16, 17, 28, 29, 31, 32, 33, 36, 38, 40, 42, 47, 49, 50 and 61.
+Thirty rows are proved in their named universes, all, and their going on to all universes is not yet laid: 13, 14, 15, 16, 17, 25, 26, 27, 28, 29, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 50, 51, 53, 54 and 61. For twelve of them a whole reason is known and is to be laid here as row 30's is: 25, 26, 27, 37, 39, 41, 45, 46, 48, 51, 53 and 54. For eighteen no whole reason is laid in this session's sentences: 13, 14, 15, 16, 17, 28, 29, 31, 32, 33, 36, 38, 40, 42, 47, 49, 50 and 61.

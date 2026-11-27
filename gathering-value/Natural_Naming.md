@@ -794,3 +794,5 @@ Gathering-Value · Natural Naming
 - **Is-not** · A word by its source: no word is better by who said it.
 - **Is-not** · *Before*, in a name's defining: unhelpful in natural defining.
 - **Is-not** · A *slot* of a name's three: an object for a relation, and no natural naming. A name's three is its next, its now and its prior.
+- **Possible exploring** · A parity has an owner: a me-parity, or a my universe's all-parity. With no owner me the word is lost. A me-parity is three parts, even, odd, even. *(v408primes, sayings 36 and 37, `incoming/v408primes/The_transcript_of_v408primes_pared.md`)*
+- **Is-not** · *Thinning*, *adding*, *never*, *apart*, *a next surface* and distances, in the primes: a next universe is more, and the surface is one. *(v408primes, sayings 27, 41 to 43 and 49 to 51)*
