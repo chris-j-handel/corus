@@ -315,6 +315,21 @@ A partner's word of 26 November: *nothing is revealing to me the problem statmen
 
 **Found against this session's own section, *The incohering, explained*.** Its 12, 30, 42, 66 and 108 are from an uncrossed between to its next, the next one in: a +1 more than the consecutive betweens crossed, 11, 29, 41, 65 and 107. No sentence of that section is other by it: 107 crossed and 69 betweens between the me agains of 17 and 19.
 
+## A partner's word: a sentence to be proved is no statement of a problem
+
+A partner's word of 26 November: *this is not a statement of a problem and this makes no sense to claim somehow this sentence is the problem*. It is: the section before this one laid the row's own sentence as the problem. A sentence is what is to be proved. A problem is what is lacking for it.
+
+**The problem.** That twins are born in a universe is known by walking that universe, and by no other way. Of a universe not walked nothing is known, and after a universe walked a next universe is, with no last.
+
+**What is lacking, one sentence.** The most consecutive betweens the loops of the me-parities to B cross, said from B.
+
+1. The betweens of B to B by B are said from B: B by B, less B, less 3. They are 17 at 5 and 39 at 7. (a sentence of no number)
+2. The most consecutive betweens crossed are known by walking the loops' whole turn, and by no other way: 11 at 5, 29 at 7, and 41, 65, 107 and 149 after. No sentence says them from B. (numbers gone through)
+3. Of the two numbers beside one another, one is from a sentence and one is from walking alone. It is the problem.
+4. This session's one numbering of uncrossed betweens that walks no number is by the seam's parts. It lets go as much as 1 a part; the parts are twice as many or more at a next loop, and the universe's betweens are not. It does not say past 0. (the section *What the seam's parts let go*)
+
+**A breaking of this session's, restored.** *Past all twins, twins are born again* is the row's own sentence, laid as the problem. The problem is the lacking sentence above.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
