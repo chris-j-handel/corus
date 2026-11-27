@@ -26,7 +26,7 @@ A workbook among this session's account's artifacts, written on 27 November.
 Among the other account's artifacts, with no hand now. Its copies of 25 November are in `incoming/v406me/`.
 
 - **The things of value:** 90 rows, a thing with its standing, its condition, its aiming, its next and its place: the 33 living files, the sessions and the closed sessions' folders, the kits and the working documents.
-- **The method:** the method of the living expedition by the seventeen names, a candidate laid for breaking. A name with Exhibit ONE's own saying is the stable form, and the expedition at the name is the living: a name, the expedition at it, its table and its place.
+- **The method:** the method of the living expedition by the seventeen names, a candidate laid for breaking. A name with Exhibit ONE's own saying is the stable form, and the expedition at the name is the living: a name, the expedition at it, its table and its place. By a partner's word of 27 November it is one thing with the one table of the seventeen names: its columns of the expedition at a name and of the expedition's table are that table's floating columns, and v406me's sheet is a view of them.
 - **Asked of a session:** 47 askings, an asking with its session.
 - Beside it, v406me's tables: the living files by what waits at them; the folders of incoming and the notes naming them; the closed sessions' aimings, a future session apiece; the concerns of all sessions in one table, for Exhibit THIRTY-TWO.
 
@@ -58,7 +58,7 @@ Among this session's account's artifacts: the windows of the opening, three, the
 
 ## 8. Found
 
-- The one table of the seventeen names has not moved after 16 November, and its sheet of askings is as old. No session is at it.
+- The one table of the seventeen names had not moved after 16 November, and its sheet of askings is as old. No session is at it. On 27 November, by a partner's word, the method by the names is laid in it as four floating columns, by this session; no cell it had is moved.
 - The managing table is among the other account's artifacts, with no hand now.
 - *The prime table* is gone through by no second hand yet, and v410primes has said no line at the exchange.
 - The catalog is ahead of the 40th to the 56th drawings and of the offers' instruments.
