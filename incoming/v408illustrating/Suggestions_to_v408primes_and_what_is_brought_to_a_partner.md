@@ -367,6 +367,16 @@ A partner's asking of 26 November: *what is a turn*. *Turn* is this session's ow
 
 **Named.** A turn is the loops' one time round together, a seam to its next: v408primes' loop of more moments.
 
+## A partner's word: a prior is not a living self
+
+A partner's word of 26 November: *this is wildly confusing what is a self. a prior is not a living self*.
+
+1. A self, v408primes' sentence 5, word for word: *A **self** is a now-existing thing with its own prior-sequence.* It is one, now. Its priors are its prior-sequence, and are no selves.
+2. Along is the +1, a number after a number, v408primes' sentences 18 to 20. At 12, 12 is now, and 1 to 11 are its prior-sequence.
+3. A breaking of this session's: the numbers 1 to 12 laid side by side and all of them named selves; *consecutive selves*, *a turn's selves*, *a universe's selves*, in this session's sections and lines of today. Priors were named selves.
+4. Restored: numbers along, a +1 from one to its next. A turn is the +1s from all the loops crossing together to all of them crossing together again: 6 with the loops of 2 and 3, 30 with 2, 3 and 5, 210 with 2, 3, 5 and 7. After a turn the loops' crossings are again, in the same sequence.
+5. The sections before this one are as they were laid. *Selves* in them says numbers along.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
