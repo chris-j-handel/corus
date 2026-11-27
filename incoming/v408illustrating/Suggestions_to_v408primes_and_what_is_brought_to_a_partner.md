@@ -397,6 +397,18 @@ A partner's word of 26 November: *this is made up story. there is no loops*.
 5. A crossed number to B by B is a me-parity not past B, by a number. (a crossed number is a by b, a not past b)
 6. The problem, with no loop, no turn and no self: a sentence saying, before the numbers of B to B by B are gone through, that a number of it is with the number before it and the number after it both made by no multiplying.
 
+## A partner's word: no twin is; a prime gap of 2 in resolving
+
+A partner's word of 26 November: *this is not a twin. what possilbe reason is the name of 2 new living things attached to this. this is simply a prime gap of 2 in resolving. there is no second living thing*.
+
+1. *Twin* is the field's word, in the column of the field's words of v408primes' table, and it names two living. This session said it in its sections and lines, and v408primes' *twins born* with it. A breaking: the field's word laid as a natural naming.
+2. One me-parity is now, and its next is resolved from its priors. With the next resolved, the next is now and the one before it is its prior. No second living is. (v408primes' sentences 1, 3 and 5)
+3. A prime gap is the +1s from a me-parity to its next me-parity. From 2 on they are 1, 2, 2, 4, 2, 4, 2, 4, 6 and 2. (numbers gone through)
+4. A prime gap of 2 in resolving: a me-parity's next me-parity is 2 +1s on. From 3 it is 5; from 11 it is 13; from 29 it is 31.
+5. The row, in a partner's words: a prime gap of 2 is again in resolving, with no last.
+6. The problem, in a partner's words: a sentence saying, before the numbers are gone through, that past a me-parity a prime gap of 2 is again.
+7. The sections before this one are as they were laid. *Twins* in them says a prime gap of 2.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
