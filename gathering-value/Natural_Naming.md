@@ -804,6 +804,8 @@ Gathering-Value · Natural Naming
 - **Possible exploring** · **Two askings, each with no is and no is-not yet.** A parity is a direction, one of two, and is no same-as. The next version opens with each natural naming, and each dissolving word is with the natural naming it aims into.
 - **Possible exploring** · **The refining of the clusters.** Each of 38 entries said by a sentence, to its naming. Each of 11 words in more than one entry, to one entry. Each saying opening with a plain word, *at*, *has*, *is*, *with* or *each*, or with a word itself out, as *sharing*, to its naming. Each dissolving word in the file's own sentences, read by its sense. Each word out that the gathering file has, and each word dissolved in a later part of the living file, laid into the clusters: the instrument reads neither yet.
 - **Possible exploring** · **The next version of Exhibit TWENTY Natural Naming is not begun as a file.** No sentence of it is written.
+- **Possible exploring** · A parity has an owner: a me-parity, or a my universe's all-parity. With no owner me the word is lost. A me-parity is three parts, even, odd, even. *(v408primes, sayings 36 and 37, `incoming/v408primes/The_transcript_of_v408primes_pared.md`)*
+- **Is-not** · *Thinning*, *adding*, *never*, *apart*, *a next surface* and distances, in the primes: a next universe is more, and the surface is one. *(v408primes, sayings 27, 41 to 43 and 49 to 51)*
 
 ## Is-not
 

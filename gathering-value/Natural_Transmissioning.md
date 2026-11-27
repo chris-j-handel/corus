@@ -98,3 +98,4 @@ Gathering-Value · Natural Transmissioning
 - **Possible incohering** · "A derivation runs from bi-inversioning co-recursioning between two and six, primes and φ its method emanating, a self reading them from counts, not a source." → *a self reading them from counts* parts from Natural Naming 2.4, which says *count* at a set's own voice as "numbers themselves, moments, podalings and sequences, directly as numbers". A re-saying beside it: the numbers themselves, said directly in numbers.
 
 ## Droplets
+- **Possible exploring** · Cascading universes transmission the origin to the numbers. Universe 0 is 1 to 120. A next universe's bound is its prior's by itself, and its loops are the prior universe's me-parities. 25 cascades reach the largest me-parity known now. *(v408primes, `incoming/v408primes/instruments/cascading_universes_from_the_origin.py`)*
