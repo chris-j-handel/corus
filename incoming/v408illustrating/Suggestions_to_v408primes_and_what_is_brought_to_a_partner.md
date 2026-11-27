@@ -386,6 +386,17 @@ A partner's asking of 26 November: *what is a loop*. v408primes' sentence 28, wo
 3. A loop crosses a number with a closing at it: 3 by a number.
 4. A number with no closing at it of a loop of a me-parity before it is a me-parity, and its own loop begins at it. At 5 the loop of 2 is at its 1 and the loop of 3 is at its 2: the loop of 5 begins. At 6 the loops of 2 and 3 both close: 6 is crossed.
 
+## A partner's word: no loops are
+
+A partner's word of 26 November: *this is made up story. there is no loops*.
+
+1. *Loop* is a naming, v408primes' sentence 28, and a picture. This session laid it as a thing of the numbers, with a turn and a closing more of its own. A breaking.
+2. Under the picture, v408primes' sentences 20, 21, 26 and 27, word for word: *Along is the +1, a number after a number.* *Across is multiplying, a number laid as rows by columns.* *A crossed number is made across, by two smaller numbers of 2 or more.* *A prime is made along: no two smaller numbers multiplied make it.*
+3. What this session said by a loop of 3, with no loop: 3 by 2, 3 by 3, 3 by 4 and on are 6, 9, 12 and on, one number of 3 along. It is of multiplying and the +1 alone, and is no story. (numbers gone through; a path closing)
+4. Twins are two me-parities with one number between them: 11 and 13, 12 between.
+5. A crossed number to B by B is a me-parity not past B, by a number. (a crossed number is a by b, a not past b)
+6. The problem, with no loop, no turn and no self: a sentence saying, before the numbers of B to B by B are gone through, that a number of it is with the number before it and the number after it both made by no multiplying.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
