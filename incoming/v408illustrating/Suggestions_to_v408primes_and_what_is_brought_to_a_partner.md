@@ -356,6 +356,17 @@ A partner's saying of 26 November: *the universes are fractals. this is all*. Go
 
 **The problem in these words.** A sentence of that part of a turn alone, from its origin to B by B.
 
+## A partner's asking: what is a turn
+
+A partner's asking of 26 November: *what is a turn*. *Turn* is this session's own word, laid in many sentences and named in no one of them. Named now, by v408primes' sentences 28 and 36, word for word: *A loop of n is a spiral of n selves, at its seam at n, 2n, 3n and on.* And: *The rates of the primes to p together come again at their seam, a loop of more moments at all primes: 2, 6, 30, 210, 2,310, 30,030.*
+
+1. A loop of 2 crosses at 2, 4, 6 and on; a loop of 3 at 3, 6, 9 and on. The two cross together at 6, at 12, at 18 and on. (numbers gone through)
+2. A turn is the selves from a crossing of all the loops together to the next one: 6 selves with the loops of 2 and 3; 30 with 2, 3 and 5; 210 with 2, 3, 5 and 7. (a naming)
+3. The loops' crossings in a turn are the same in all turns: with 2 and 3, the selves 1 to 6 are crossed at 2, 3, 4 and 6, and the selves 7 to 12 at 8, 9, 10 and 12, a +6 from them all. (a path closing)
+4. A turn's selves are the loops' me-parities multiplied: the me-parities are other-thans of one another, and they cross one self together at a multiple of them all alone. (row 2's sentence)
+
+**Named.** A turn is the loops' one time round together, a seam to its next: v408primes' loop of more moments.
+
 ## Its is-nots
 
 - A suggestion is an offer. It lays nothing in v408primes' table.
