@@ -48,6 +48,22 @@ Sentence 8 is the transmissioning step for twins. It is of a seam's other-thans 
 
 Executed by `instruments/traveling_the_journey_with_its_priors.py`, to 100,140,049 in ten seconds, and `instruments/the_journey_gathered.py`, to 1,000,000,000 in six seconds and, given 100000000000, to 100,000,000,000 in fourteen minutes, all is. The journey goes on past it, gathering the universes it reaches, the same priors carried.
 
+## Row 31 · Passing the place of the unresolving, and gathering
+
+1. A twin is a between a, a seam of 6, whose bi-folding, a by a less 1, the loops leave uncrossed. (proved round the seams of 2 to 17 and 2 to 19, all places)
+2. A loop r past 3 crosses a between's bi-folding at two places round r: a at r's +1 and at its −1. (proved at all r, by other-thans)
+3. A seam's stretch with no twin place is a stretch of betweens all crossed, two places a loop: 17 betweens round the seam of 2 to 17, 24 round 2 to 19, 33 round 2 to 23 and 42 round 2 to 29, beside universes of 44, 56, 83 and 134 betweens. (proved round those seams, all places)
+4. The rate the journey learns is the bi-folding uncrossed: 1 of 2, 1 of 3, and r − 2 of r at all loops past 3. (proved at all loops, by other-thans)
+5. In stretches far longer than B by B, the rate leaves bi-foldings uncrossed by the loops to B. (a naming, gathered)
+6. Past B by B, an uncrossed number may be two me-parities past B crossed: its bi-folding uncrossed by the loops to B and no twin, for crossings see only all-parity. (a naming, gathered, as row 61)
+7. The place of the unresolving lies between B by B, at which an uncrossed bi-folding is a twin, and the stretches the rate reaches, at which an uncrossed bi-folding may be two crossed numbers. (a naming, gathered)
+8. Goldbach's pair about a between a at selves b is the bi-folding a by a less b by b, both its folds uncrossed: the same place. (a naming, gathered, row 36)
+9. Pairs and societies are bi-foldings about one between at once, a me-parity between me agains is one fold uncrossed in a stretch of 2k + 1 from k by k, and a me again's +1 is k by k less −1, a bi-folding of k with the podal of 1: the same place. (a naming, gathered, rows 28, 29, 32, 33)
+10. The most selves and the most-met selves between neighbouring me-parities are made of the same bi-foldings at all selves: the same place. (a naming, gathered, rows 38, 40)
+11. The doubling rows are doubling's loop round a me-parity, another place: whether doubling's loop passes all places, or closes at its prior or its me again. (a naming, gathered, rows 13 to 17)
+12. The hard problem, the spacing of the 0s and the crossings' all-parity are the concern of crossings seeing all-parity, a third place, and the bi-folding place's own reason. (a naming, gathered, rows 42, 47, 49, 50, 61)
+13. The eighteen rows gather at three places: a bi-folding uncrossed in a universe shorter than the rate's reach; doubling's loop round a me-parity; and crossings seeing all-parity, the bi-folding place and the all-parity place one concern. (a naming, gathered)
+
 ## The rows whose going on is not yet laid
 
 Thirty rows are proved in their named universes, all, and their going on to all universes is not yet laid: 13, 14, 15, 16, 17, 25, 26, 27, 28, 29, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 50, 51, 53, 54 and 61. For twelve of them a whole reason is known and is to be laid here as row 30's is: 25, 26, 27, 37, 39, 41, 45, 46, 48, 51, 53 and 54. For eighteen no whole reason is laid by anyone: 13, 14, 15, 16, 17, 28, 29, 31, 32, 33, 36, 38, 40, 42, 47, 49, 50 and 61.

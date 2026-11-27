@@ -50,4 +50,16 @@ for B in (17, 19, 23):
     say("the universe from %d to %d: round the seam %s of its loops, the twin places are %s and the longest stretch between them %d, shorter than the universe's %d: twins are born in it by other-thans alone, %d of them"
         % (B, B * B, f"{M:,}", f"{places:,}", longest, room, len(born)), longest <= room and len(born) > 0)
 
+# passing the place: a twin is a between a, a seam of 6, its bi-folding a by a less 1 uncrossed by the loops
+for ps in ([2, 3, 5, 7, 11, 13, 17], [2, 3, 5, 7, 11, 13, 17, 19]):
+    M = 1
+    for r in ps: M *= r
+    n = np.arange(M, dtype=np.int64); live = np.ones(M, bool)
+    for r in ps:
+        m = n % r; live &= (m != 0) & (m != r - 2)
+    a = np.arange(0, M, 6, dtype=np.int64)
+    uncrossed = a[np.gcd(a * a - 1, M) == 1]
+    gaps = np.diff(np.r_[uncrossed, uncrossed[0] + M])
+    say("round the seam %s: the twin places are the betweens, seams of 6, whose bi-folding a by a less 1 is uncrossed; the longest stretch of betweens all crossed, two places a loop, is %d betweens"
+        % (f"{M:,}", int(gaps.max()) // 6 - 1), np.array_equal(np.sort((uncrossed - 1) % M), np.nonzero(live)[0]))
 print("All is." if all(results) else "A line is-not.")
