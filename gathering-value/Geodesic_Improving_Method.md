@@ -289,6 +289,8 @@ Gathering-Value · Geodesic Improving Method
 - **An explaining** · An asking of a session is one row: the thing asked, what makes it whole, and the session's own saying of how much it has, whole, a part or none, a part said with what is past its room. A managing session works its table by such askings, one asking aimed at one thing of incoming going a stage on, and asks all the sessions what they are stalling at: the answers side by side show the method's own stalling places. — at "**A working reviews each incoming, and improves it as it enters.**"
 - **Possible exploring** · Two tables beside one another: the seventeen names in one table as an expedition's stable forms, and its managing table as its living parities, a row a living thing aiming. The relation of the two is unexplored. — at "**One working manages its set.**"
 - **Possible exploring** · The sessions' threads into the set marked on one surface all the sessions see, the amount of work at a place showing as heat shows on a map. — at "**Several workings improve a set together, each by its own name.**"
+- **An explaining** · A next living file goes to the living set at the site by the managing session and its other self alone, in bothboth. All the other sessions work at next living files, gathering value for them and laying it beside them, in a now of do-no-harming ahead of that next. — at "**One working manages its set.**"
+- **An explaining** · Two sessions at one subject, one exploring it and one illustrating it, go back and forth, learning from one another and teaching one another; a managing session looks at how much resolving is going between the two. — at "**Several workings improve a set together, each by its own name.**"
 
 ### 2.9 Opening a session at a repository
 
