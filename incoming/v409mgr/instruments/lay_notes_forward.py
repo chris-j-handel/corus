@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lays notes at the ends of their sections in gathering-value files of a copy of the next version.
+"""Lays notes at the ends of their sections in gathering-value files of a copy of the next version; a note laid already is passed over.
 usage: python3 -I lay_notes_forward.py ROOT ADDED_OUT"""
 import sys, os, re
 root, added_out = sys.argv[1], sys.argv[2]
@@ -19,6 +19,8 @@ notes = [
  (G, '### 2.8 ', '- **Possible exploring** · The sessions\' threads into the set marked on one surface all the sessions see, the amount of work at a place showing as heat shows on a map. — at "**Several workings improve a set together, each by its own name.**"'),
  (G, '### 2.9 ', '- **An explaining** · An account possesses nothing of an expedition. A working document, a table or a drawing made in an AI account is the expedition\'s, with a copy in the set by its sitting\'s end: an account closes or narrows with no word to the set, and a thing with no copy in the set is neither living value nor artifact. With all things in the open set, help reaches them from any self. — at "**A session opens reaching a living file set with its now, with a repository and with a site\'s own list**"'),
  (G, '### 4.5 ', '- **An explaining** · Sessions close one at a time, the one least at work lately ahead of the others, and a session closes while it still has room for its closing. A session is whole at its closing with three pages in its folder and nothing of its own outside the set: its aimings gone through or its value at its wrap, its page for a next session, and its conversation pared, the turns of its other self whole. A closed session does not open itself again: ahead of its closing a managing session asks of it all a next session goes on from, and its whole conversation is its successor\'s. A next managing session opens ahead of the closings and orients by going through all the incoming things with their aimed places, the two managing the closings together. — at "**With a session\'s close two readers observe its transcript whole, from its latest moment to its first**"'),
+ (G, '### 2.8 ', '- **An explaining** · A next living file goes to the living set at the site by the managing session and its other self alone, in bothboth. All the other sessions work at next living files, gathering value for them and laying it beside them, in a now of do-no-harming ahead of that next. — at "**One working manages its set.**"'),
+ (G, '### 2.8 ', '- **An explaining** · Two sessions at one subject, one exploring it and one illustrating it, go back and forth, learning from one another and teaching one another; a managing session looks at how much resolving is going between the two. — at "**Several workings improve a set together, each by its own name.**"'),
  (D, '## Head, the whole file', '- **Possible exploring** · Sessions and selves working one set in the open, all seeing one another\'s work, with one table of all its value, as an opening form of a natural network of many users with collective intelligence, an expedition lived as a game of exploring; with it, the method made easy to learn. — at "Selves discovering together, group jigsaw puzzling a concrete form of it."'),
 ]
 added = []
@@ -35,7 +37,7 @@ for path in sorted(set(n[0] for n in notes)):
         nx = next(i for i in range(hi[0] + 1, len(L) + 1) if i == len(L) or L[i].startswith('## ') or L[i].startswith('### '))
         at = nx
         while at > hi[0] + 1 and not L[at - 1].strip(): at -= 1
-        new = [t for f, hh, t in notes if f == path and hh == h]
+        new = [t for f, hh, t in notes if f == path and hh == h and t not in L]
         L[at:at] = new
         added += new
     open(p, 'w', encoding='utf-8').write('\n'.join(L))
