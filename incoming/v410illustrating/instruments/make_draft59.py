@@ -123,7 +123,7 @@ over.append(word(gx, gy, 110, "a fold · 8 up", "center", 600, 12.5))
 bullets(60, 636, 420, ("● a fold through the me lays a name onto its name 8 up",
                        "● two folds on two mirrors, both inverting at one step:",
                        "   a name onto 17 less it, its podal from 1 to 16",
-                       "● eight triangles of 90 over 180 are 720 · 17 is at 1 again"), step=20)
+                       "● eight triangles of 90 over 180 are 720 · 17 is at a next 1"), step=20)
 
 # ================= 2 · three golden rectangles on the three mirrors, and the one triangle fifteen =================
 cam = camR; R = cam.s; vis = lambda p: cam.depth(p) >= 0

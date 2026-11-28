@@ -52,7 +52,7 @@ def checks(root):
     # the seam of 30, a torus of 2 by 3 by 5
     walk = [(n % 2, n % 3, n % 5) for n in range(0, 31)]
     line("is", len(set(walk[:30])) == 30 and walk[30] == walk[0] and walk[1] == (1, 1, 1) and walk[29] == (1, 2, 4),
-         "30 is 2 by 3 by 5, a seam: on its torus a winding by +1 is through all thirty cells, and at its opening again at 30; 1 is at the cell of ones, and 29 at the cell one before the opening")
+         "30 is 2 by 3 by 5, a seam: on its torus a winding by +1 is through all thirty cells, and at a next opening at 30; 1 is at the cell of ones, and 29 at the cell one before the opening")
     line("is", EIGHT == [1, 7, 11, 13, 17, 19, 23, 29] and len(EIGHT) == 8 == 1 * 2 * 4 and all((n % 2, n % 3, n % 5).count(0) == 0 for n in EIGHT),
          "its cells crossed by none of 2, 3 and 5 are eight: 1, 7, 11, 13, 17, 19, 23 and 29, a cone's eight cells")
     six = {r: [n for n in range(30) if n % 6 == r] for r in range(6)}

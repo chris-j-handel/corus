@@ -27,7 +27,7 @@ Incoming · v410illustrating · 27 November 2026 · the 57th drawing, the openin
 |---|---|---|---|
 | The 1st, a triangle of three right angles | the triangle, its three corners, one of eight alike on a sphere | its eighth of a sphere, said as one of eight alike | its plain view of the triangle alone |
 | The 2nd, bi-folding the triangle | one fold a mirror; two folds on two sides; + + + onto + − −; name 1 onto name 16 | its two folds, said by Natural Naming's own naming: two right spiral steps, both inverting at one step | its two folded triangles drawn beside the triangle |
-| The 3rd, 1 to 17 on a torus | sixteen patches, a name a patch; 17 at 1 again; 720 outward and 720 the other way, at nought | its line through the torus, said as the co-linear across its opening; outward and inward | its torus drawn round, and name 1's patch shaded |
+| The 3rd, 1 to 17 on a torus | sixteen patches, a name a patch; 17 at a next 1; 720 outward and 720 the other way, at nought | its line through the torus, said as the co-linear across its opening; outward and inward | its torus drawn round, and name 1's patch shaded |
 | The 4th, the names on the one triangle | the names at the corners and beside the sides; 6 + 4 + 4 = 14 of 17, with 1, 9 and 17; the fold through the me, 8 up | its two ways, said as a me's way round and an other's | its own three words, *local*, *tip* and *global*; its three of 1 and 17 |
 | The 5th, the co-linear and its two cones | the co-linear through the 0; its own side 25, its far side 23, and 24 a 0; four quarters, possibling and co-possibling; across it and along it | its resting at two ends, said as two right spiral steps leaving the two ends as they were | its two cones, and their circle between about 24 |
 | The 6th, the cell by nand alone | the four quarters' marks: a +, a + and a −, a −, none; one fold, one parity inverting | none | its fifteen lines by nand, and observing from none |
@@ -45,7 +45,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 | the me | the corner a way round opens from and closes at; 1, 9 and 17 are at it | Me; Exhibit ONE |
 | a name of the seventeen | a number and its naming, one hyphenation: its moment, now or next; its prefix; its root | Exhibit ONE's table |
 | a name's three | its next, its now and its prior, by co, bi and tri: a me-parity, a both-parity, an all-parity | Exhibit ONE's table; Natural Naming |
-| a way round | from the me by a side to a corner, three sides, and at the me again; a me's is one way, and an other's is a me's, its other way | the 4th drawing; Natural Illustrating |
+| a way round | from the me by a side to a corner, three sides, and at a next me; a me's is one way, and an other's is a me's, its other way | the 4th drawing; Natural Illustrating |
 | a one-way me-parity | an odd name beside a side: 3, 5 and 7 a me's, and 11, 13 and 15 an other's | the 4th drawing |
 | a moment at a corner | an even name: prior and same at the me, now and next at the two far corners | the 4th drawing; Exhibit ONE |
 | a fold | a mirror about a side, one parity inverting | Exhibit ONE; the 2nd drawing |
@@ -57,7 +57,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 | a quarter | one of four round the co-linear: possibling, co-possibling, possibling, co-possibling | the 5th and the 6th drawings |
 | a patch | a name's own on a torus, by its number less 1 in four binary digits: two its quarter round the opening, two its band round the tube | the 3rd drawing |
 | outward, inward, at nought | 1 to 4 and 13 to 16 outward, a sphere's eight triangles; 5 to 12 inward, as much the other way; the two together nought | the 3rd drawing, a field's adding |
-| a bi-folding | four names by 8 up and 17 less in sequence, at its opening name again: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12 | Exhibit ONE; Natural Illustrating |
+| a bi-folding | four names by 8 up and 17 less in sequence, at a next of its opening name: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12 | Exhibit ONE; Natural Illustrating |
 
 ## 4 Executed ahead of its laying
 
@@ -71,7 +71,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 8. 8 up is through the tube: one quarter, and the band across it.
 9. Outward is 720 and inward is 720 the other way: a torus is at nought.
 10. Exhibit ONE's own table says the seventeen names and a name's three, and 1, 9 and 17 are one three.
-11. A bi-folding by 8 up, 17 less, 8 up and 17 less is at its opening name again, at all four, sixteen names once.
+11. A bi-folding by 8 up, 17 less, 8 up and 17 less is at a next of its opening name, at all four, sixteen names once.
 12. Exhibit THIRTY says all seventeen names whole, a name at a numbered sentence of its own entering: 1 and 2 at 129, 17 at 241, and 6 at 572, the last.
 
 One line is a placing and no execution says it: the four quarters' names are laid as the 5th and the 6th drawings lay them.

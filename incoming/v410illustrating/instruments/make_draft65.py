@@ -105,7 +105,7 @@ for i, (label, vals) in enumerate(R3):
     over.append(word(60, y, 300, label, weight=600, size=11.8, h=15, color=GREY if i == 0 else INK))
     for j, v in enumerate(vals): over.append(word(380 + 98 * j + 86, y, 86, str(v), "right", 600 if i < 2 else 400, 11.8, 15, extra=NUM))
 s.append(f'<path d="M60,648 L980,648" fill="none" stroke="{INK}" stroke-opacity="0.5" stroke-width="1"></path>')
-over.append(word(60, 702, 920, f"their centre is crossed by neither, and their two crossings are together again at the centre's square less 1, the 64th's torus: at all {own['npairs']} to 10,000", size=11.6, h=14))
+over.append(word(60, 702, 920, f"their centre is crossed by neither, and their two crossings are together next at the centre's square less 1, the 64th's torus: at all {own['npairs']} to 10,000", size=11.6, h=14))
 over.append(word(60, 719, 920, f"a seam's cells with a me at both sides are {J(own['counts'])}, at the seams {J(c.SEAMS)}: a seam lifted by a me-parity is that many by the me-parity less 2", size=11.6, h=14, color=GREY))
 
 # ================= 4 · a +1 at a seam, six figures =================
@@ -117,7 +117,7 @@ over.append(word(60, 792, 920, "the 65th: a me-parity its own, a seam of six's +
 over.append(word(60, 826, 920, "5 · with the 55th, and from the marker", weight=600, size=15))
 over.append(word(60, 847, 920, "a path closing, all its mes gone through, says with all numbers; a simulation is a breaking test alone: the 55th drawing's saying", size=11.8, h=15))
 over.append(word(60, 864, 920, "two about one centre with no last is a field's open asking, and no line here says it · it goes on from the marker, the 64th drawing", size=11.8, h=15))
-over.append(word(60, 881, 920, "the marker: a between is one thing from two sides, a partner's is. At an is-not, the incohering is sought, and the work goes back to it.", size=11.8, h=15))
+over.append(word(60, 881, 920, "the marker: a between is one thing from two sides, a partner's is. At an is-not, the incohering is sought, and the work is laid on from it, a next laying.", size=11.8, h=15))
 
 # ================= the table: a name a row, its prime as three cells =================
 TX, TY0, RH = 1004, 232, 19
@@ -149,7 +149,7 @@ FX, FY = 1004, 640
 over.append(word(FX, FY, 500, "found, and what this drawing leaves with the five", weight=600, size=15))
 FOUND = [("a me-parity is a seam of six's +1 or its −1", ["even, odd, even: past 3 its seam is its prior or its next"]),
          ("the eight between: four odd and four even, a partner's", ["15 less lays odd onto even; lifted by 2 they are a row's eight mes,", "four at a seam of six's +1 and four at its −1"]),
-         ("two about one centre: a seam, and both its +1 and its −1", ["their crossings are together again at the centre's square less 1"]),
+         ("two about one centre: a seam, and both its +1 and its −1", ["their crossings are together next at the centre's square less 1"]),
          ("it is no method, and no saying of two with no last", ["known mathematics; two about one centre with no last is a field's open asking"]),
          ("with the five drawings, as they were", ["the 49th's marks and measurings; the 52nd's aims; the 53rd's two paths;", "the 54th's nine spans; the 55th's closing paths, and a simulation a breaking test"])]
 y = FY + 26
@@ -166,7 +166,7 @@ subtitle = (f'<div style="position: absolute; left: 0px; top: 962px; width: {W}p
             f'font-size: 21px; color: {ACC}">Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities</div>')
 caption = (f'<div style="position: absolute; left: 0px; top: 1002px; width: {W}px; height: 108px; line-height: 27px; text-align: center; {SANS}; font-size: 17px; color: {GREY}">'
            "A me-parity is three cells, even, odd, even. Past 3 one of its evens is a seam of six, and the me-parity is the seam's +1 or its −1.<br>"
-           "A seam of six with a me-parity at both its sides is two about one centre: their crossings are together again at the centre's square less 1.<br>"
+           "A seam of six with a me-parity at both its sides is two about one centre: their crossings are together next at the centre's square less 1.<br>"
            "The eight between of a torus of 3 by 5 are four odd and four even. 15 less lays odd onto even, and lifted by 2 they are a row's eight mes.<br>"
            "A candidate, the eleventh figure of twelve, beside the five drawings it gathers and writing in none.</div>")
 ARIA = ("Five parts and a table. A row of cells numbered 0 to 37, a dark cell a prime and a tinted cell a multiple of six. Two rows of cells, 0 to 15 over 0 to 30, with arcs and arrows between them. "

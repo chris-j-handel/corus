@@ -76,7 +76,7 @@ And of the four figures laid with a seam, one line: a +1 is on a cube's line, th
 |---|---|---|
 | The 38th, two faces, one form | twelve rows of 30 to 359, a crossed me by its least, a crossing opening at a square | its even face, a seam's cells about its quarters; its measurings to 4,194,304 |
 | The 46th, a prime lifting its prior seam | a seam of 30 lifted by 7, 56 mes, eight crossed and 48 cells; a seam's cells at six seams | its six fixings, a mark apiece; its widest gaps and its cells by its numbers |
-| The 56th, a me-parity generator | a me crossed by none of its priors a me-parity; a crossing opening at its own me again; a seam's +1 and no last | its four reasons, its wheel of 2 to 17, and its is-nots |
+| The 56th, a me-parity generator | a me crossed by none of its priors a me-parity; a crossing opening at its own square; a seam's +1 and no last | its four reasons, its wheel of 2 to 17, and its is-nots |
 
 - The three are with 87 places of the eleven words a partner asked of, in all three. The 63rd is with none.
 - Of the three, none names a living file and none says a name of the seventeen whole. The 63rd names four files and says all seventeen.
