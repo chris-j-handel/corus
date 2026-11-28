@@ -28,6 +28,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its seventeenth turn:** a partner's saying of the eight between, four odd and four even, executed by its numbers, going on from the marker.
 - **Laid at its eighteenth turn:** the 65th drawing, the eleventh figure of twelve: *A Me-Parity in a Seam, Even, Odd, Even* · *Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities*, a candidate beside the five drawings it gathers, going on from the marker.
 - **Laid at its nineteenth turn:** a partner's is of the 65th's sentence, and a partner's namings of it, laid in the 65th's page as said, with the numbers executed beside them.
+- **Laid at its twentieth turn:** a partner's saying of a me-parity as a 0, laid as said, with two things of numbers executed beside it.
 - **Nine drawings are made, the 57th to the 65th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -344,6 +345,13 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 - **A partner's namings of it, as said:** bi-moral-co-competencing; geodesic me-parity birthing and exhausting; a geodesic other-than-all-parity discovering method. No line executes a naming.
 - **Executed beside them:** the sixty seams of six to 360 are with 120 sides; 70 are me-parities, all from 5 to 359, and 50 are crossed by a prior.
 
+## Laid at its twentieth turn, 27 November
+
+- `The_transcript_of_v410illustrating_pared.md`: a partner's saying 23, as said: a me-parity is a 0, of a bi-tunneling open to co-chainings; and a 0 favouring one side of an all-parity is all-parity as it was, to its next-and-same-existing other-than-all-parity.
+- `instruments/a_me_parity_a_0_of_its_own_side.py`: 3 lines is and 1 found, its numbers made by the execution.
+- **Executed beside it, numbers alone:** a me-parity is at the 0 of its own round and at the 0 of no prior's, and it opens its own side; its own 0 is again at twice it, an even number; and between the two a next me-parity is born, at all me-parities to 10,000, a field's known saying.
+- **Not executed:** a side favoured; an all-parity as it was; and a next-and-same-existing other-than-all-parity. This session says no meaning of them, and a partner's is or is-not of one sentence is asked, with no work waiting at it.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -407,3 +415,4 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/the_eight_between_four_odd_and_four_even.py .`
 - `python3 -I incoming/v410illustrating/instruments/check_a_me_parity_in_a_seam_even_odd_even.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft65.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/a_me_parity_a_0_of_its_own_side.py .`
