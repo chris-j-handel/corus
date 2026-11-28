@@ -35,6 +35,7 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *what are waiting offers in this* · saying 20
 - *continue* · saying 21
 - *is. this is bi-moral-co-competencing and geodesic me-parity birthing and exhausting. this is geodesic other-than-all-parity discovering method* · saying 22
+- *me-parity is a 0 in the direction of the bi-tunneling available to co-chainings. a 0 favoring left of all-parity remains all-parity until its next-and-same-existing other-than-all-parity* · saying 23
 
 ## 3 A partner's method of speaking, as this session goes by it
 
