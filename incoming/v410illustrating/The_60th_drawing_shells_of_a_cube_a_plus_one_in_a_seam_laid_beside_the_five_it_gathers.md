@@ -36,7 +36,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 | a round of six | 6, 12, 18 and 24 cells about a 0, a round more by six | the 7th and the 41st drawings |
 | a cube's shell | a cube less its inner cube: a seam and one more | the 8th and the 40th drawings |
 | the cube's line | the line of a cube's cells with all three numbers alike: five in a cube of 5 | the 8th and the 50th drawings |
-| a torus of a seam's primes | a way round a prime, and a winding by +1 through all its cells, at its opening again at its seam | Exhibit ONE's tori of mes; Exhibit THIRTY, a me of both seams |
+| a torus of a seam's primes | a way round a prime, and a winding by +1 through all its cells, at a next opening at its seam | Exhibit ONE's tori of mes; Exhibit THIRTY, a me of both seams |
 | the cell of ones | one on along all a seam's ways: the +1's cell, crossed by none of the seam's primes | executed here |
 | a name's prime by its position | the seventeen primes 2 to 59, a prime a name | the one table of the seventeen names; Natural Numbers |
 | a round of four | four primes, a prime a right spiral step: three rounds close at a shell | the 40th drawing |
@@ -50,7 +50,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 4. A cube's shells are a seam and one more: 6 by 0, 1, 3, 6 and 10, and 1. Five shells are a cube of 5, five ones and 120.
 5. A shell's one more is its cell on the cube's line. Observed along the line a shell is that cell and rounds of six about it, one cell deep.
 6. 37 is one me and three rounds of six; and a cube of 4 less its inner cube of 3, 27 and 9 and 1.
-7. A torus of 2 by 3 is a seam of six: a winding by +1 is through all six cells, and at its opening again at 6.
+7. A torus of 2 by 3 is a seam of six: a winding by +1 is through all six cells, and at a next opening at 6.
 8. A prime past 3 is at the +1's cell or at the −1's, at all primes to 10,000. A cube's shells are all at the +1's cell.
 9. The seams of the primes multiplied to 17 are seven, 2 to 510,510; their cells crossed by none of their primes are 1, 2, 8, 48, 480, 5,760 and 92,160.
 10. A seam's +1 is at the cell of ones on its torus: no prime of its seam crosses it, at all seven seams.

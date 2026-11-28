@@ -38,7 +38,7 @@ def checks(root):
          f"15 less a between is a between, and odd for even: {'; '.join(f'{a} with {b}' for a, b in pairs)}. The four even are the four odd, 15 less")
     twice = [30 - n for n in odd]; on = [n + 15 for n in even]
     line("is", sorted(twice) == sorted(on) and all(n % 2 for n in twice),
-         f"15 less and then 15 on is 30 less: the four odd onto {join(sorted(twice))}, odd again. One step of 15 lays odd onto even and even onto odd, and two are as it was")
+         f"15 less and then 15 on is 30 less: the four odd onto {join(sorted(twice))}, odd as the four were. One step of 15 lays odd onto even and even onto odd, and two are as it was")
 
     # lifted by 2: a row's eight mes
     mes = [n for n in range(30) if gcd(n, 30) == 1]

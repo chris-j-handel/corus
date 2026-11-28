@@ -7,7 +7,7 @@ Incoming · v410illustrating · 27 November 2026 · the 64th drawing, the tenth 
 ## In one minute
 
 - **One drawing for the tenth figure.** Its title and its subtitle: *Two Primes, One Torus* · *Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings*. Its title is the figure's candidate; its subtitle is said again with a partner's saying of the betweens, this session's composing.
-- **A number is a cell.** On a torus of 5 by 7 a winding by +1 numbers all thirty-five cells, and is at 0 and 0 again at 35.
+- **A number is a cell.** On a torus of 5 by 7 a winding by +1 numbers all thirty-five cells, and is at a next 0 and 0 at 35.
 - **A between is one thing from two sides.** The numbers between two crossings on the co-linear are the numbers of the torus's cells on no line: 24.
 - **A +1 is at the opening.** Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines, 0 and 0, a square.
 - **A surface is made finer by a seam lifted:** a cell is seven finer cells, six between and one on a crossing.
@@ -41,9 +41,9 @@ Concept for concept: a line is this session's saying of a living concept, and no
 
 ## 3 Executed ahead of its laying
 
-1. On a torus of 5 by 7 a winding by +1 numbers all thirty-five cells, one cell on at both sides, and is at 0 and 0 again at 35.
+1. On a torus of 5 by 7 a winding by +1 numbers all thirty-five cells, one cell on at both sides, and is at a next 0 and 0 at 35.
 2. The crossing of 5 is a line of seven cells and the crossing of 7 a line of five, with one cell of both: eleven cells. The cells between them are 24, 4 by 6: 5 by 5 less 1.
-3. 36, 6 by 6, is at the cell of ones: a centre's square is one cell on from 0 and 0 again.
+3. 36, 6 by 6, is at the cell of ones: a centre's square is one cell on from a next 0 and 0.
 4. On the co-linear, 0 to 35, the numbers between two crossings next to one another are 4, 1, 2, 3, 4, 3, 2, 1 and 4: 24, the numbers of the torus's cells between its two lines. 35 less a between is a between.
 5. On a seam's torus, with all of 2, 3 and 5 crossing, the eight between are a row's mes, and under 49 a me past 1 is a me-parity.
 6. A torus of 3 by 5 is fifteen cells: seven on a crossing, and eight between.

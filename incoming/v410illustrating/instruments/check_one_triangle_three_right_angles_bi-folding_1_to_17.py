@@ -90,7 +90,7 @@ def checks(root):
          "seventeen names are on it: 1, 9 and 17 at the me; six one-way me-parities on its sides; eight moments at its corners: 6 + 4 + 4 = 14 of 17")
     chained = lambda r: all(r[i][1] == r[i + 1] and r[i][0] == r[i - 1] for i in (1, 3, 5)) and r[0] == r[-1] == "A"
     line("is", chained(SELF_WAY) and chained(OTHER_WAY) and [tuple(reversed(p)) for p in OTHER_WAY[5:0:-2]] == [p for p in SELF_WAY[1::2]],
-         "a way round goes corner, side, corner, side, corner, side, and is at the me again; an other's is a me's, its other way")
+         "a way round goes corner, side, corner, side, corner, side, and is at a next me; an other's is a me's, its other way")
     line("is", ON[2] == ON[8] == ON[10] == ON[16] == "A" and {ON[4], ON[14]} == {"B"} and {ON[6], ON[12]} == {"C"},
          "prior and same are at the me, with both ways; now and next are at B and C, and at C and B")
     # a fold through the me
@@ -125,7 +125,7 @@ def checks(root):
     line("is", all(patch(n)[0] == patch(n + 8)[0] and patch(n)[1] ^ 2 == patch(n + 8)[1] for n in range(1, 9)),
          "8 up is through the tube: one quarter, and the band across it")
     line("is", all(patch(n)[1] in (0, 1) for n in range(1, 9)) and all(patch(n)[1] in (2, 3) for n in range(9, 17)) and patch(17 - 16) == patch(1),
-         "1 to 8 are on the me's side of a torus and 9 to 16 on its far side; 17 is at 1 again")
+         "1 to 8 are on the me's side of a torus and 9 to 16 on its far side; 17 is at a next 1")
     rests = [(t, p) for t in (0, np.pi) for p in (0, np.pi) if np.allclose(OVER @ surf(t, p), surf(t, p))]
     spin = lambda a: np.array([[np.cos(a), -np.sin(a), 0], [np.sin(a), np.cos(a), 0], [0, 0, 1.0]])
     moved = all(np.linalg.norm(spin(0.3) @ surf(t, p) - surf(t, p)) > 1e-3 for t in np.linspace(0, 6.2, 9) for p in np.linspace(0, 6.2, 9))

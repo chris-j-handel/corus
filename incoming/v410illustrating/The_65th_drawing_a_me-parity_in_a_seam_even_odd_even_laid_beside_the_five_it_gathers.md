@@ -41,7 +41,7 @@ Incoming · v410illustrating · 27 November 2026 · the 65th drawing, the eleven
 
 1. **A me-parity is a seam of six's +1 or its −1.** Even, odd, even: past 3 its seam is its prior or its next.
 2. **The eight between: four odd and four even, a partner's.** 15 less lays odd onto even; lifted by 2 they are a row's eight mes.
-3. **Two about one centre: a seam, and both its +1 and its −1.** Their crossings are together again at the centre's square less 1, the 64th's torus.
+3. **Two about one centre: a seam, and both its +1 and its −1.** Their crossings are together next at the centre's square less 1, the 64th's torus.
 4. **It is no method, and no saying of two with no last.** It is known mathematics. Two me-parities about one centre with no last is a field's open asking, and no line here says it.
 5. **With the five drawings, as they were:** what part 4 of this page says in its last column.
 
@@ -51,7 +51,7 @@ Incoming · v410illustrating · 27 November 2026 · the 65th drawing, the eleven
 |---|---|---|
 | The 49th, a seam's marks again | none | its marks, a last, a beat, a value and a parity, and its measurings to 4,194,304 |
 | The 52nd, a me-parity living in a seam | three cells, even, odd, even; its seam of six; its seam of 4 | its aims, a row a me-parity to 31 |
-| The 53rd, a seam between two me-parities | a seam with a me-parity at both sides; together again at the centre's square less 1 | its two paths, and its ten to 109 |
+| The 53rd, a seam between two me-parities | a seam with a me-parity at both sides; together next at the centre's square less 1 | its two paths, and its ten to 109 |
 | The 54th, a next span by 4 beside its prior | a seam's cells with a me at both sides: 1, 3, 15, 135 and 1485 | its nine spans, and its measuring of more at a next span |
 | The 55th, a path closing | none | a path closing says with all numbers; a simulation is a breaking test alone |
 

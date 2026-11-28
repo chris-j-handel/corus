@@ -51,7 +51,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 3. Multiplying by 3 round ten is a right spiral step of the three by three about its 5: 1 onto 3, 3 onto 9, 9 onto 7, 7 onto 1; 2 onto 6, 6 onto 8, 8 onto 4, 4 onto 2; and 5 onto 5.
 4. By 9 is two steps, the podaling; by 7 is three, a step the other way; by 1 all are as they were. The four moves are 1, 3, 9 and 7: the four corners' own numbers.
 5. A step carries eight round its 5, in two rounds of four, and 5 is as it was.
-6. Ten is 2 by 5: on its torus a winding by +1 is through all ten cells, and at its opening again at 10. Its four cells crossed by none are 1, 3, 7 and 9, the diamond's corners. 1 is at the cell of ones, and 9 one before the opening.
+6. Ten is 2 by 5: on its torus a winding by +1 is through all ten cells, and at a next opening at 10. Its four cells crossed by none are 1, 3, 7 and 9, the diamond's corners. 1 is at the cell of ones, and 9 one before the opening.
 7. A prime past 5 ends at 1, 3, 7 or 9, at all primes to 10,000. 21, 27, 33 and 39 end at them too, and are no primes.
 8. Nine is eight and one more: three by three is 2 by 4 and 1. Eight is the opening seam of 8, 24, 48, 80 and 120.
 9. The diamond's middle row is 3, 5 and 7, three centres. A centre's prior by its next is 2 by 4, 4 by 6 and 6 by 8: 8, 24 and 48. A centre's square is 9, 25 and 49, one on. The rows 2, 4 and 6, 8 are the priors and the nexts.

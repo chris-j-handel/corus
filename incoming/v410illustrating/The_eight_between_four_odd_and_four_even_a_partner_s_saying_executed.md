@@ -16,7 +16,7 @@ Incoming · v410illustrating · 27 November 2026 · a partner's saying of the ei
 
 1. The eight between the crossings of a torus of 3 by 5 are four odd, 1, 7, 11 and 13, and four even, 2, 4, 8 and 14.
 2. 15 less a between is a between, and odd for even: 1 with 14; 7 with 8; 11 with 4; 13 with 2.
-3. 15 less and then 15 on is 30 less: the four odd onto 17, 19, 23 and 29, odd again.
+3. 15 less and then 15 on is 30 less: the four odd onto 17, 19, 23 and 29, odd as the four were.
 4. Lifted by 2, the eight are a row's eight mes of 30, one for one: 1, 7, 11 and 13 as they are, and 2, 4, 8 and 14 as 17, 19, 23 and 29.
 5. Of the row's eight, 7, 11, 13, 17, 19, 23 and 29 are me-parities.
 6. In four binary digits the eight are one digit on, 1, 2, 4 and 8, or one digit not on, 7, 11, 13 and 14. The six more on a crossing, 3, 5, 6, 9, 10 and 12, are two on. 0 and 15 are one cell, the opening.

@@ -35,7 +35,7 @@ def checks(root):
     # a number a cell: a winding by +1 numbers all cells of a torus, once
     seam, cells, on, between = torus((3, 5))
     line("is", seam == 15 and len(set(cells)) == 15 and cell(15, (3, 5)) == (0, 0),
-         "on a torus of 3 by 5 a winding by +1 numbers all fifteen cells, a number a cell, and is at 0 and 0 again at 15")
+         "on a torus of 3 by 5 a winding by +1 numbers all fifteen cells, a number a cell, and is at a next 0 and 0 at 15")
     line("is", on == [0, 3, 5, 6, 9, 10, 12] and between == [1, 2, 4, 7, 8, 11, 13, 14],
          "its two crossings are the cells at a 0: 0, 3, 6, 9 and 12, and 0, 5 and 10, seven cells. The eight between them are numbered 1, 2, 4, 7, 8, 11, 13 and 14")
 
@@ -63,7 +63,7 @@ def checks(root):
     # a bi-coupling of two me-parities 2 apart: a seam, and its +1
     twos = [(3, 5), (5, 7), (11, 13), (17, 19), (29, 31), (41, 43), (59, 61)]
     line("is", all(p * q == (p + 1) ** 2 - 1 for p, q in twos) and [p * q for p, q in twos[:4]] == [15, 35, 143, 323],
-         "a torus of two me-parities 2 apart is a centre's square less 1 in cells: 3 by 5 is 15, 4 by 4 less 1; 5 by 7 is 35; 11 by 13 is 143; and 59 by 61 is 60 by 60 less 1. Its +1 is one cell on from 0 and 0 again")
+         "a torus of two me-parities 2 apart is a centre's square less 1 in cells: 3 by 5 is 15, 4 by 4 less 1; 5 by 7 is 35; 11 by 13 is 143; and 59 by 61 is 60 by 60 less 1. Its +1 is one cell on from a next 0 and 0")
     line("is", all((p - 1) * (q - 1) == p * p - 1 for p, q in twos) and [(p - 1) * (q - 1) for p, q in twos[:4]] == [8, 24, 120, 288] and all(len(torus(t)[3]) == t[0] ** 2 - 1 for t in twos[:4]),
          "the cells between its two crossings are the lesser's prior by its next, a seam: 8, 24, 120 and 288. With the one cell at 0 and 0, both crossings' own, they are the lesser's square: 9, 25, 121 and 289")
     line("found", True, "of a +1 in a seam of natural torusing, one more saying: on a torus of two me-parities 2 apart the betweens are a seam, and its +1 is the opening, the one cell of both crossings")

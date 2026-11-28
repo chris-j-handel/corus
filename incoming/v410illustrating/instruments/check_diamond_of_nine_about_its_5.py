@@ -64,7 +64,7 @@ def checks(root):
     # the seam of ten, a torus of 2 by 5
     walk = [(n % 2, n % 5) for n in range(11)]
     line("is", len(set(walk[:10])) == 10 and walk[10] == walk[0] and walk[1] == (1, 1) and walk[9] == (1, 4),
-         "ten is 2 by 5, a seam: on its torus a winding by +1 is through all ten cells, and at its opening again at 10; 1 is at the cell of ones, and 9 at the cell one before the opening")
+         "ten is 2 by 5, a seam: on its torus a winding by +1 is through all ten cells, and at a next opening at 10; 1 is at the cell of ones, and 9 at the cell one before the opening")
     ends = Counter(p % 10 for p in range(7, 10000) if is_prime(p))
     line("is", sorted(ends) == [1, 3, 7, 9] and not is_prime(21) and not is_prime(27) and not is_prime(33) and not is_prime(39),
          "a prime past 5 ends at 1, 3, 7 or 9, the four cells crossed by none, at all primes to 10,000; 21, 27, 33 and 39 end at them too, and are no primes")
