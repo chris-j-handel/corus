@@ -34,6 +34,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### Any perplexity, at any size
 
+- **Possible exploring** · All the registry's problems are matched to one form, and none is not matched: a form all cases match shows no is-not. Another explaining: beside a matching, the registry can name what shows the problem not matching, and a resolving then rests on an is-not it could have met and did not, as Exhibit THIRTY's steps 214, 223 and 693 name a method's own test, a naming's one failing moment and a falsifying with a third observing. — at "A hard problem is a changing fixing unchangeable, a coupling a frame takes as two of its three, and that taking is with each grain — a paper, a field, a sentence, a single word with a line through it."
+
 ### The deployment shape, and the binary
 
 - **Possible incohering** · "And four observings stand as settlings beside their resolvings, a proof a self observes two ways, its route ending with a fixing side and its knowing with its moment on a momentarying side, with thirteen through sixteen of a co-sequencing closing this exhibit." → Two sayings part: four observings stand as settlings beside their resolvings, with thirteen through sixteen of the co-sequencing this exhibit closes on, three located, with 3.22, 12.1 and 7.12, and the fourth located with no entry; and no step of Co-Chaining Logic Registry has four settlings with thirteen through sixteen. A fourth settling located at an entry and a step, or the settlings re-said as three.
@@ -305,6 +307,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 5.15 The origin of language · 150
 
 ### 5.16 Riemann, Hodge, Birch–Swinnerton-Dyer, Yang–Mills · 153
+
+- **Possible incohering** · "Each conjecture stands with its own falsifier stating it, its field with no proof of it, and none of this touches its truth value" → Two sayings part at one of four: this sentence, and a proof of Riemann's conjecture released on 20 November 2026 as a Lean library and certified by the Lean and Mathlib communities on 21 November. A re-saying: Riemann's said apart from the other three, a proof of it released and certified, its whole-number saying the parity lead of a surface of its side. The other side: this standing as it is at its version.
 
 ### 5.17 Underdetermination of theory by evidence · 13
 
