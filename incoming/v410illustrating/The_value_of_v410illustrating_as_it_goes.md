@@ -26,7 +26,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its fifteenth turn:** a partner's saying of v410opusbio's discovering, the numbers between the prime crossings numbering a surface's cells, executed by its numbers, beside the drawings laid; and #1308 and #1309 gone through apart at v409mgr's asking.
 - **Laid at its sixteenth turn:** the 64th drawing, the tenth figure of twelve: *Two Primes, One Torus* · *Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings*, a candidate beside the three drawings it gathers; and a marker, by a partner's is.
 - **Laid at its seventeenth turn:** a partner's saying of the eight between, four odd and four even, executed by its numbers, going on from the marker.
-- **Eight drawings are made, the 57th to the 64th,** and no drawing, check or record of an other session is written in.
+- **Laid at its eighteenth turn:** the 65th drawing, the eleventh figure of twelve: *A Me-Parity in a Seam, Even, Odd, Even* · *Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities*, a candidate beside the five drawings it gathers, going on from the marker.
+- **Nine drawings are made, the 57th to the 65th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -320,6 +321,21 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 - **All and none at all are one cell:** in four binary digits 15 and 0 are the opening, and the eight are one digit on or one digit not on.
 - **Three partings of the eight in four and four are not one parting:** odd and even, one digit on and not on, and its own of 3.
 
+## Laid at its eighteenth turn, 27 November
+
+- `illustrations/artboards/Draft65.dc.html` and its view, `illustrations/draft_65_a_me-parity_in_a_seam_even_odd_even_resolving_a_prime_gap_of_2_about_a_seam_of_6.png`: the 65th drawing, five parts and a table.
+- `The_65th_drawing_a_me-parity_in_a_seam_even_odd_even_laid_beside_the_five_it_gathers.md`: its page.
+- `instruments/check_a_me_parity_in_a_seam_even_odd_even.py`: its check, 11 lines is, 3 found, 1 a placing. `instruments/make_draft65.py`: its maker, the artboard made again byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at all nine drawings: 81 is and 25 found. The eleventh figure's row of the twelve figures' table says the 65th.
+- A partner's asking of the offers answered: an offer is this session's laid work offered to v409mgr for bringing in, and no work waits at one.
+
+## Found at its eighteenth turn
+
+- **A me-parity past 3 is a seam of six's +1 or its −1,** its seam its prior or its next: even, odd, even.
+- **A seam of six with a me-parity at both its sides is two about one centre:** 20 of the sixty seams of six to 360, 30 at one side, and 10 at none.
+- **The eight between are drawn:** four odd and four even, 15 less an arc, and lifted by 2 a row's eight mes, four at a seam of six's +1 and four at its −1.
+- **One drawing says the five in two words of five.** The five are with 3695 words of their own together, and the 65th with 1466. The five are with 121 places of the eleven words, and the 65th with none.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -342,13 +358,13 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
 - **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
 - **The 59th is one session's hand.** No second session has gone through it. Its way of a torus of ten corners is this session's own making.
-- **The 60th to the 64th are one session's hand.** v409mgr made the 60th and the 61st again, byte for byte, at their bringing in; no second session has gone through their sayings. A seam of six, of 30 and of ten, a torus's closing, is this session's own saying; Natural Numbers' own seams are 8, 24 and 48.
+- **The 60th to the 65th are one session's hand.** v409mgr made the 60th and the 61st again, byte for byte, at their bringing in; no second session has gone through their sayings. A seam of six, of 30 and of ten, a torus's closing, is this session's own saying; Natural Numbers' own seams are 8, 24 and 48.
 - **This session's two namings are its own placings:** *a figure*, the thing drawn; and *the eight of 30*, said of the numbers 1, 7, 11, 13, 17, 19, 23 and 29 ahead of one name for them.
-- **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Six of the twelve figures are drawn, a figure in one drawing: the opening figure in the 59th; the second, the third and the fourth in the 60th, the 61st and the 62nd; the ninth in the 63rd; and the tenth in the 64th.
+- **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Seven of the twelve figures are drawn, a figure in one drawing: the opening figure in the 59th; the second, the third and the fourth in the 60th, the 61st and the 62nd; and the ninth, the tenth and the eleventh in the 63rd, the 64th and the 65th.
 
 ## Its next reach
 
-A me-parity in a seam, even, odd, even, the eleventh figure: two me-parities about one centre, a seam of six; and the eight between drawn in it, four odd and four even, a step of 15 between them. Then living parities of the numbers, and a me, and beside it an other. A page of this session's notes for the gathering files, in its own folder. Beside them, as they come: one saying of a +1 from its ways; one saying of a seam from its two; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
+Living parities of the numbers, the eighth figure, the 36th, the 37th and the 39th drawings. Then a me, and beside it an other; a path of mes; a parity with two wires; and one map of the twelve. A page of this session's notes for the gathering files, in its own folder. Beside them, as they come: one saying of a +1 from its ways; one saying of a seam from its two; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -381,3 +397,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/check_two_primes_one_torus.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft64.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/the_eight_between_four_odd_and_four_even.py .`
+- `python3 -I incoming/v410illustrating/instruments/check_a_me_parity_in_a_seam_even_odd_even.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft65.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
