@@ -31,7 +31,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its twentieth turn:** a partner's saying of a me-parity as a 0, laid as said, with two things of numbers executed beside it.
 - **Laid at its 21st turn:** a breaking named by a partner, nothing is at a next in nature, restored in this session's drawings: fifteen places in five drawings said as a next, and the five made with their views.
 - **Laid at its 22nd turn:** a partner's asking of the thirty interests in the prime numberings not resolving, gone to: the table's own words of the thirty, and a window under a square, executed; and the sweep of this session's pages for a coming again.
-- **Nine drawings are made, the 57th to the 65th,** and no drawing, check or record of an other session is written in.
+- **Laid at its 24th turn:** the 66th drawing, the eighth figure of twelve: *Living Parities of the Numbers* · *Multiplying In a Prime as One Other-Than, a Seam Lifted a − and a + in Sequence*, a candidate beside the three drawings it gathers.
+- **Ten drawings are made, the 57th to the 66th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -375,6 +376,13 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 - **A partner's is, saying 26:** a whole reason for one of the thirty interests is a sentence of a seam and its next, whole under the window, and no traveling on.
 - **The places of a coming again yet in this session's pages and instruments, gone through one at a time:** seventeen said as a next, in the 57th's page and check, the 63rd's page, and the opening figure's page and instrument. The places yet are this page's own record of the breaking, a partner's words in the transcript, and a work's own words of a making.
 
+## Laid at its 24th turn, 27 November
+
+- `illustrations/artboards/Draft66.dc.html` and its view, `illustrations/draft_66_living_parities_of_the_numbers_multiplying_in_a_prime_as_one_other-than.png`; `The_66th_drawing_living_parities_of_the_numbers_laid_beside_the_three_it_gathers.md`; `instruments/check_living_parities_of_the_numbers.py`, 11 lines is, 3 found, 1 a placing; and `instruments/make_draft66.py`.
+- The plan's lines at all ten drawings: 90 is and 28 found. The eighth figure's row of the twelve figures' table says the 66th.
+- **Found:** a prime multiplied in is one other-than; a me-parity is a −, and its square a +; a seam lifted is a − and a + in sequence; past the window a living parity is not said; and odd and even is an other parting than a living parity.
+- **Eight of the twelve figures are drawn.** Ahead: a me, and beside it an other; a path of mes; a parity with two wires; and one map of the twelve.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -443,3 +451,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/a_me_parity_a_0_of_its_own_side.py .`
 - `python3 -I incoming/v410illustrating/instruments/the_places_of_a_coming_again_in_this_session_s_drawings.py .`
 - `python3 -I incoming/v410illustrating/instruments/the_thirty_interests_and_a_window_under_a_square.py .`
+- `python3 -I incoming/v410illustrating/instruments/check_living_parities_of_the_numbers.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft66.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
