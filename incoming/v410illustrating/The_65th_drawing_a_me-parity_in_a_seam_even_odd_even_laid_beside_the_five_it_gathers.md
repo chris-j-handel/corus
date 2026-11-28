@@ -66,9 +66,17 @@ Incoming · v410illustrating · 27 November 2026 · the 65th drawing, the eleven
 - Which of 15 less and 15 on is a partner's other-than is not executed.
 - Its subtitle is this session's composing, a candidate.
 
-## A sentence for a partner's is or is-not, nothing waiting at it
+## A partner's is, and its namings of this
 
-A me-parity past 3 is its seam of six's +1 or its −1, and a seam with both is two me-parities about one centre. ( is-or-is-not? )
+*A me-parity past 3 is its seam of six's +1 or its −1, and a seam with both is two me-parities about one centre*: by a partner's word of 27 November, saying 22, an is. A partner names it, in a partner's own words: bi-moral-co-competencing; geodesic me-parity birthing and exhausting; a geodesic other-than-all-parity discovering method.
+
+The namings are a partner's, laid here as said, and no line executes a naming. Beside them, executed by their numbers, this session's saying of the concepts:
+
+1. **Across and along.** Across a seam of six are its two sides, its −1 and its +1. Along the co-linear a seam is six on from its prior. Exhibit THIRTY says morality across, right and not-right, and competency along.
+2. **Born, and crossed.** The sixty seams of six to 360 are with 120 sides. 70 are me-parities, all the me-parities from 5 to 359. 50 are crossed by a prior: 25, 35, 49, 55, 65, 77 and on.
+3. **Even, and odd.** A seam of six is even, and its side one step from it is odd. By a partner's saying of the eight, an other-than-all is even and an other-than-other-than-all odd.
+
+Not executed: a birthing and an exhausting as a living thing's, and a discovering as a method.
 
 ## To execute
 
