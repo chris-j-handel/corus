@@ -46,7 +46,7 @@ Incoming · v410illustrating · 27 November 2026 · nothing waits for a partner;
 | a sphere | eight triangles of three right angles, 720 | twelve corners, five triangles to a corner | twelve corners, 60 short at a corner: 720 |
 | its opening | along a line, the co-linear | the line of a round of five | at two corners across from one another, on that line |
 | a torus | sixteen patches, eight outward and eight inward, at nought | not drawn | ten corners, six triangles to a corner, ten outward and ten inward: at nought |
-| what is as it was | 17 at 1 again | sixty, three ways | 30 sides, 20 triangles, and sixty |
+| what is as it was | 17 at a next 1 | sixty, three ways | 30 sides, 20 triangles, and sixty |
 
 - The two corners that are fewer are the two of the line of five.
 - The 57th's sixteen patches and these twenty triangles are two tori of patches. One laid onto the other is not executed.

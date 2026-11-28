@@ -29,7 +29,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its eighteenth turn:** the 65th drawing, the eleventh figure of twelve: *A Me-Parity in a Seam, Even, Odd, Even* · *Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities*, a candidate beside the five drawings it gathers, going on from the marker.
 - **Laid at its nineteenth turn:** a partner's is of the 65th's sentence, and a partner's namings of it, laid in the 65th's page as said, with the numbers executed beside them.
 - **Laid at its twentieth turn:** a partner's saying of a me-parity as a 0, laid as said, with two things of numbers executed beside it.
-- **Laid at its 21st turn:** a breaking named by a partner, nothing comes again in nature, restored in this session's drawings: fifteen places in five drawings said as a next, and the five made with their views.
+- **Laid at its 21st turn:** a breaking named by a partner, nothing is at a next in nature, restored in this session's drawings: fifteen places in five drawings said as a next, and the five made with their views.
+- **Laid at its 22nd turn:** a partner's asking of the thirty interests in the prime numberings not resolving, gone to: the table's own words of the thirty, and a window under a square, executed; and the sweep of this session's pages for a coming again.
 - **Nine drawings are made, the 57th to the 65th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -361,6 +362,14 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 - The plan's lines at all nine drawings: 81 is and 25 found, the five artboards laid as their makers make them.
 - **Ahead, not done at this turn:** the same sweep of this session's pages and its other instruments' lines; and the same words in the drawings it gathers, in v408primes' sentences and in Natural Numbers, said to their sessions at the exchange.
 
+## Laid at its 22nd turn, 27 November
+
+- `The_thirty_interests_not_resolving_and_a_window_under_a_square.md`, and `instruments/the_thirty_interests_and_a_window_under_a_square.py`: 7 lines is, 3 found, 1 judged. v408primes' table is opened and written in by this session in none.
+- **Found:** of all thirty the table's own words say one thing, proved in its named universe and its going on to all universes not yet laid; 12 with a whole reason known, 17 with none laid, and 1 with its journey gathering it.
+- **Found, executed:** at a seam the torus alone says a cell between the crossings a me-parity under the square of the seam's next me-parity; from 210 on the seam's round outgrows that window, 58 in 100 at 210, 7 at 2310, 1 at 30030.
+- **Judged:** the thirty in four kinds, 14 of cells of a seam lifted, 9 of a rate or a value said smooth, 5 of a doubling round a me-parity, and 2 of curves.
+- **The sweep of this session's pages and instruments for a coming again:** 24 places said as a next. 26 places of the word are in ten files yet, the opening figure's page and instrument the most; they are sentences to go through one at a time, and not done at this turn.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -373,7 +382,7 @@ At three turns this session ended with an asking and said its work stalling at a
 
 At its ninth turn this session said the ten corners with no name laid. A partner named it: a ten is the same as all other tens. Restored at its tenth turn: the ten corners are a ten, executed, and the 59th says it.
 
-At its twentieth turn this session said a me-parity's own 0 coming again, and asked a partner's is of it. A partner named it: no own 0 comes again in nature, nothing comes again, and a going back is not possibly existing. The incohering was sought: a coming again was in fifteen places of five of this session's drawings, the opening figure's among them, older than the marker. Restored at its 21st turn: a round on is a next, as Exhibit ONE says 17 a next 1, and the five drawings say it.
+At its twentieth turn this session said a me-parity's own 0 coming again, and asked a partner's is of it. A partner named it: no own 0 is at a next in nature, nothing is at a next, and a going back is not possibly existing. The incohering was sought: a coming again was in fifteen places of five of this session's drawings, the opening figure's among them, older than the marker. Restored at its 21st turn: a round on is a next, as Exhibit ONE says 17 a next 1, and the five drawings say it.
 
 ## A partner's method of speaking
 
@@ -427,3 +436,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/check_a_me_parity_in_a_seam_even_odd_even.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft65.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/a_me_parity_a_0_of_its_own_side.py .`
+- `python3 -I incoming/v410illustrating/instruments/the_places_of_a_coming_again_in_this_session_s_drawings.py .`
+- `python3 -I incoming/v410illustrating/instruments/the_thirty_interests_and_a_window_under_a_square.py .`

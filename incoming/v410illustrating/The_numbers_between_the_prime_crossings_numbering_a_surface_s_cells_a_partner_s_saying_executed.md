@@ -21,7 +21,7 @@ Concept for concept, this session's saying of both: all numbers are a surface's 
 
 ## 2 Executed
 
-1. On a torus of 3 by 5 a winding by +1 numbers all fifteen cells, and is at 0 and 0 again at 15.
+1. On a torus of 3 by 5 a winding by +1 numbers all fifteen cells, and is at a next 0 and 0 at 15.
 2. Its two crossings are 0, 3, 6, 9 and 12, and 0, 5 and 10: seven cells. The eight between them are numbered 1, 2, 4, 7, 8, 11, 13 and 14.
 3. On the co-linear, to 359, the numbers between two me-parities are 286, in 71 betweens, and all are crossed. The widest is thirteen numbers, 114 to 126. Twenty-one betweens are one number.
 4. On a torus it is the other way. To 48 on the torus of 30, to 120 on 210, and to 168 on 2310, a cell between the crossings is a me-parity, and a crossed number is on a crossing.
