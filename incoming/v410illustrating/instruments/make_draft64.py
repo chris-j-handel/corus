@@ -76,12 +76,12 @@ for n in range(1, 5):                                                      # a w
     x1, y1, x2, y2 = GX + (n - 1) * CW + CW * 0.76, GY + (n - 1) * CH + CH * 0.8, GX + n * CW + CW * 0.24, GY + n * CH + CH * 0.2
     s.append(f'<path d="M{x1:.1f},{y1:.1f} L{x2:.1f},{y2:.1f}" fill="none" stroke="{INK}" stroke-opacity="0.6" stroke-width="1.2" stroke-dasharray="2 3"></path>')
 over.append(word(GX + 5 * CW + 10, GY + CH * 1.5, 80, "the cell of", size=10.6, h=13, color=GREY)); over.append(word(GX + 5 * CW + 10, GY + CH * 1.5 + 13, 80, "ones: 1, and", size=10.6, h=13, color=GREY))
-over.append(word(GX + 5 * CW + 10, GY + CH * 1.5 + 26, 80, "36 again", size=10.6, h=13, color=GREY))
+over.append(word(GX + 5 * CW + 10, GY + CH * 1.5 + 26, 80, "a next, 36", size=10.6, h=13, color=GREY))
 yb1 = GY + 7 * CH
 bt = len(c.between((5, 7))); on = len(c.on_a_crossing((5, 7)))
 over.append(word(60, yb1 + 14, 440, f"{on} cells are on a crossing, and {bt} between: 4 by 6, 5 by 5 less 1", size=11.5, h=14))
 over.append(word(60, yb1 + 30, 440, "with the one cell at 0 and 0, the opening, they are 25: 5 by 5, a seam and its +1", size=11.5, h=14))
-over.append(word(60, yb1 + 46, 440, "a winding by +1 is at 0 and 0 again at 35; 36, 6 by 6, is at the cell of ones", size=11.5, h=14, color=GREY))
+over.append(word(60, yb1 + 46, 440, "a winding by +1 is at a next 0 and 0 at 35; 36, 6 by 6, is at the cell of ones", size=11.5, h=14, color=GREY))
 
 # ================= 2 · a between, one thing from two sides =================
 over.append(word(530, 196, 450, "2 · a between, one thing from two sides", weight=600, size=15))
@@ -102,7 +102,7 @@ over.append(word(530, 330, 450, f"they are {bt}: the numbers of the torus's cell
 over.append(word(530, 346, 450, "with all of 2, 3 and 5 crossing, the eight between are a row's mes: the 63rd", size=11.5, h=14, color=GREY))
 
 # ================= 3 · a surface made finer =================
-over.append(word(530, 374, 450, "3 · a surface made finer: a seam lifted", weight=600, size=15))
+over.append(word(530, 374, 450, "3 · a surface made finer: a me-parity multiplied in", weight=600, size=15))
 over.append(word(530, 393, 450, "a torus of 3 by 5 · its cell 1 is seven cells of 3 by 5 by 7, a cell of 7 apiece", size=11.5, h=14, color=GREY))
 G3X, G3Y, C3W, C3H = 548, 410, 32, 24
 grid(G3X, G3Y, C3W, C3H, 5, 3, 11)
@@ -120,7 +120,7 @@ for i, (label, vals) in enumerate(R3):
     y = 506 + 18 * i
     over.append(word(530, y, 150, label, weight=600, size=11.6, h=15, color=GREY))
     for j, v in enumerate(vals): over.append(word(700 + 64 * j + 50, y, 50, str(v), "right", 600 if i == 1 else 400, 11.6, 15, extra=NUM))
-over.append(word(530, 566, 450, f"lifted by 7, fifteen cells are 105, and eight between are {len(c.between((3, 5, 7)))}: finer, and not none", size=11.5, h=14))
+over.append(word(530, 566, 450, f"with 7 multiplied in, 15 cells are 105, and 8 between are {len(c.between((3, 5, 7)))}: finer, and not none", size=11.5, h=14))
 
 # ================= 4 · two me-parities about one centre =================
 over.append(word(60, 600, 920, "4 · two me-parities about one centre, 2 on: their betweens a seam, and its +1 the opening", weight=600, size=15))
@@ -139,7 +139,7 @@ over.append(word(60, 787, 920, f"past 3 and 5 a centre is a seam of six: {join(r
 over.append(word(60, 822, 920, "5 · is-not a torus of two; and a marker", weight=600, size=15))
 over.append(word(60, 844, 920, f"6 and 10 are with 2 in both: a winding by +1 numbers {len(c.numbered((6, 10)))} of their sixty cells, the 43rd · a me-parity with its own, 5 and 5, numbers {len(c.numbered((5, 5)))} of twenty-five, the 45th", size=12, h=15))
 over.append(word(60, 862, 920, "a marker, by a partner's word of 27 November: a between is one thing from two sides, an is.", size=12, h=15, weight=600))
-over.append(word(60, 880, 920, "At an is-not, the incohering is sought, and the work goes back to this drawing.", size=12, h=15))
+over.append(word(60, 880, 920, "At an is-not, the incohering is sought, and the work is laid on from this drawing, a next laying.", size=12, h=15))
 
 # ================= the table: a name a row, its prime with its next name's =================
 TX, TY0, RH = 1004, 232, 19
@@ -158,7 +158,7 @@ for n in range(1, 18):
         over.append(word(TX + x + (w_ if al == "right" else 0), y, w_, v, al, 600 if bold else 400, 11.2 if t != "2 on" else 10.4, 16, ACC if t == "2 on" else INK, extra=NUM))
 yb = TY0 + RH * 17 + 8
 s.append(f'<path d="M{TX},{yb - 8:.1f} L{TX + 504},{yb - 8:.1f}" fill="none" stroke="{INK}" stroke-opacity="0.5" stroke-width="1"></path>')
-for i, t in enumerate(("its next's: the next name's prime, and the 17th's 61, a next 1's, Natural Numbers' returning",
+for i, t in enumerate(("its next's: the next name's prime, and the 17th's 61, a next 1's",
                        "cells: the two multiplied · crossing: the cells on its two lines, the two added less 1",
                        "between: the cells on no line, the two less 1 apiece and multiplied",
                        "2 on: its next's prime is 2 on, about one centre: its between is its own square less 1, a seam")):
@@ -169,7 +169,7 @@ FX, FY = 1004, 640
 over.append(word(FX, FY, 500, "found, and what this drawing leaves with the three", weight=600, size=15))
 FOUND = [("a between, one thing from two sides: a partner's is, a marker", ["on the co-linear, the numbers between two crossings; on the torus, the cells on no line"]),
          ("a +1 at the opening", ["of two me-parities about one centre the betweens are a seam, and with the one cell", "of both lines, 0 and 0, the lesser's square"]),
-         ("a surface made finer", ["a seam lifted: a cell is seven finer cells, six between and one on a crossing"]),
+         ("a surface made finer", ["a me-parity multiplied in: a cell is seven finer cells, six between and one on a crossing"]),
          ("it is no method of a far me-parity alone", ["known mathematics: a winding through all cells of two numbers with no part of both"]),
          ("with the three drawings, as they were", ["the 43rd's six and ten round 30; the 45th's all pairs under 100;", "the 48th's quarter of two primes and its diagonal, gathered by its number alone"])]
 y = FY + 26
@@ -185,9 +185,9 @@ title = (f'<div style="position: absolute; left: 0px; top: 916px; width: {W}px; 
 subtitle = (f'<div style="position: absolute; left: 0px; top: 962px; width: {W}px; height: 30px; line-height: 30px; text-align: center; {SANS}; font-weight: 600; '
             f'font-size: 21px; color: {ACC}">Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings</div>')
 caption = (f'<div style="position: absolute; left: 0px; top: 1002px; width: {W}px; height: 108px; line-height: 27px; text-align: center; {SANS}; font-size: 17px; color: {GREY}">'
-           "Two me-parities are one torus, and a winding by +1 numbers all their cells, a number a cell, at 0 and 0 again at the two multiplied.<br>"
+           "Two me-parities are one torus, and a winding by +1 numbers all their cells, a number a cell, at a next 0 and 0 at the two multiplied.<br>"
            "A me-parity's crossing is a line of the torus. The numbers between the crossings on the co-linear number the cells on no line: a between, one thing from two sides.<br>"
-           "Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines a square. A seam lifted is the same round with finer cells.<br>"
+           "Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines a square. A seam with a me-parity multiplied in is the same round with finer cells.<br>"
            "A candidate, the tenth figure of twelve, beside the three drawings it gathers and writing in none.</div>")
 ARIA = ("Five parts and a table. A table of seven rows by five columns with the numbers 0 to 34, a column and a row tinted. A line from 0 to 35 with marks over and under it. "
         "A table of three rows by five columns, and one cell drawn as seven. A table of seven pairs of primes about one centre. Three lines. A table of seventeen names, a name a row.")

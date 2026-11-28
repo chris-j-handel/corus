@@ -38,13 +38,13 @@ def checks(root):
          f"15 less a between is a between, and odd for even: {'; '.join(f'{a} with {b}' for a, b in pairs)}. The four even are the four odd, 15 less")
     twice = [30 - n for n in odd]; on = [n + 15 for n in even]
     line("is", sorted(twice) == sorted(on) and all(n % 2 for n in twice),
-         f"15 less and then 15 on is 30 less: the four odd onto {join(sorted(twice))}, odd again. One step of 15 lays odd onto even and even onto odd, and two are as it was")
+         f"15 less and then 15 on is 30 less: the four odd onto {join(sorted(twice))}, odd as the four were. One step of 15 lays odd onto even and even onto odd, and two are as it was")
 
-    # lifted by 2: a row's eight mes
+    # with 2 multiplied in: a row's eight mes
     mes = [n for n in range(30) if gcd(n, 30) == 1]
     lifted = sorted(n if n % 2 else n + 15 for n in eight)
     line("is", lifted == mes and odd == mes[:4] and sorted(on) == mes[4:],
-         f"lifted by 2, the eight are a row's eight mes of 30, one for one: the four odd as they are, {join(odd)}, and the four even 15 on, {join(sorted(on))}")
+         f"with 2 multiplied in, the eight are a row's eight mes of 30, one for one: the four odd as they are, {join(odd)}, and the four even 15 on, {join(sorted(on))}")
     line("is", [n for n in mes if not is_prime(n)] == [1],
          f"of the row's eight, {join([n for n in mes if is_prime(n)])} are me-parities, and 1 is said alone")
 

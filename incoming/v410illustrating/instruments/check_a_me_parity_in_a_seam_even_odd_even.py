@@ -54,13 +54,13 @@ def checks(root):
          f"two me-parities about one centre, past 3 and 5: their centre is a seam of six, crossed by neither, and the two multiplied are the centre's square less 1, at all {len(pairs)} to 10,000")
     counts = [both_sides(sm) for sm in SEAMS]; lifts = [7, 11, 13]
     line("is", counts[0] == 1 and counts[1] == 3 and all(counts[i + 2] == counts[i + 1] * (lifts[i] - 2) for i in range(3)),
-         f"a seam's cells with a me at both sides are {join(counts)}, at the seams {join(SEAMS)}: a seam lifted by a me-parity is that many by the me-parity less 2")
+         f"a seam's cells with a me at both sides are {join(counts)}, at the seams {join(SEAMS)}: a seam with a me-parity multiplied in is that many by the me-parity less 2")
 
     # the eight between: four odd and four even, a partner's saying
     eight = [n for n in range(15) if n % 3 and n % 5]; odd = [n for n in eight if n % 2]; even = [n for n in eight if n % 2 == 0]
     mes = [n for n in range(30) if gcd(n, 30) == 1]; on15 = sorted(n + 15 for n in even)
     line("is", sorted(15 - n for n in odd) == even and sorted(odd + on15) == mes,
-         f"the eight between of a torus of 3 by 5 are four odd, {join(odd)}, and four even, {join(even)}. 15 less lays odd onto even; lifted by 2 they are a row's eight mes, the four even 15 on: {join(on15)}")
+         f"the eight between of a torus of 3 by 5 are four odd, {join(odd)}, and four even, {join(even)}. 15 less lays odd onto even; with 2 multiplied in they are a row's eight mes, the four even 15 on: {join(on15)}")
     mes_plus = [n for n in mes if n % 6 == 1]; mes_minus = [n for n in mes if n % 6 == 5]
     line("is", len(mes_plus) == 4 == len(mes_minus) and sorted(30 - n for n in mes_plus) == mes_minus,
          f"the row's eight mes are four at a seam of six's +1, {join(mes_plus)}, and four at its −1, {join(mes_minus)}. 30 less lays a +1 onto a −1")
@@ -76,7 +76,7 @@ def checks(root):
     line("found", True, "two me-parities about one centre with no last is a field's open asking. No line here says it, and the 54th's more at a next span is a measuring")
     line("found", True, "the 55th drawing's saying is with the 55th: a path closing, all its mes gone through, says with all numbers; and a simulation is a breaking test alone")
     line("found", True, "it goes on from the marker, the 64th drawing: a between is one thing from two sides, a partner's is. It is known mathematics, and no method of a far me-parity alone")
-    line("placing", True, "the co-linear as a row of cells, a seam of six a tinted cell, a me-parity a dark cell; two rows of cells one over the other, an arc 15 less and an arrow a lifting, are the drawing's own placings")
+    line("placing", True, "the co-linear as a row of cells, a seam of six a tinted cell, a me-parity a dark cell; two rows of cells one over the other, an arc 15 less and an arrow a multiplying in, are the drawing's own placings")
     own = {"names": names, "primes": primes, "rows": rows, "centre": centre, "minus": minus, "plus": plus, "both": both, "one": one, "c360": c360, "pairs": pairs, "counts": counts,
            "odd": odd, "even": even, "mes": mes, "mes_plus": mes_plus, "mes_minus": mes_minus, "same": same, "npairs": len(pairs)}
     return lines, own

@@ -124,7 +124,7 @@ if __name__ == "__main__":
         while True:
             a, b, n = (a + 1) % p, (b + 1) % q, n + 1
             if (a, b) == (0, 0): return n
-    line("is", winding(4, 4) == 4, "on a torus of 4 by 4 a winding by +1 is at its opening patch again at 4 of 16 patches")
+    line("is", winding(4, 4) == 4, "on a torus of 4 by 4 a winding by +1 is at a next opening patch at 4 of 16 patches")
     table = list(csv.reader(open(ROOT / "incoming/v403mgr/The_seventeen_names_in_one_table.csv", encoding="utf-8")))
     col = next(j for j, h in enumerate(table[0]) if h.startswith("its prime, by its position"))
     seventeen = [int(r[col]) for r in table[1:18]]
@@ -143,17 +143,17 @@ if __name__ == "__main__":
     rows = [(int(n), a.split(", "), int(b.replace(",", ""))) for n, a, b in re.findall(r"^- \*\*Number of selves: (\d+)\*\* · \*a\*: ([^·]+?) · \*b\*: ([\d,]+)", one, flags=re.M)]
     even = [r for r in rows if r[0] % 2 == 0]; odd = [r for r in rows if r[0] % 2]
     line("is", len(rows) >= 13 and len(even) >= 5 and all(b == 2 and "0" not in a for _, a, b in even),
-         f"at an even number of mes, {', '.join(str(n) for n, _, _ in even)}: the parities are again at 2 moments, and no 0 is among them")
+         f"at an even number of mes, {', '.join(str(n) for n, _, _ in even)}: the parities are at a next of their own at 2 moments, and no 0 is among them")
     line("is", len(odd) >= 8 and all(b == 4 * n and "0" in a for n, a, b in odd),
-         f"at an odd number of mes, {', '.join(str(n) for n, _, _ in odd)}: the parities are again at four times the number, and a 0 is among them")
+         f"at an odd number of mes, {', '.join(str(n) for n, _, _ in odd)}: the parities are at a next of their own at four times the number, and a 0 is among them")
 
     tori = [(int(p), int(q), int(x.replace(",", ""))) for p, q, x in re.findall(r"\*\*Torus of selves, p along · q across: (\d+) · (\d+)\*\*\s+- \*a\*: ([\d,]+)", one)]
     t_even = [r for r in tori if r[0] % 2 == 0 or r[1] % 2 == 0]; t_odd = [r for r in tori if r[0] % 2 and r[1] % 2]
     line("is", len(tori) >= 11 and len(t_even) >= 1 and all(x == 2 for _, _, x in t_even) and "Either number even: 2." in one,
-         "at a torus of mes with an even number along or across, " + ", ".join(f"{p} by {q}" for p, q, _ in t_even) + ": the parities are again at 2 moments")
+         "at a torus of mes with an even number along or across, " + ", ".join(f"{p} by {q}" for p, q, _ in t_even) + ": the parities are at a next of their own at 2 moments")
     line("is", len(t_odd) >= 10 and all(x == (q if q > 2 * p else 4 * p) for p, q, x in t_odd),
          "at a torus of mes with two odd numbers, " + ", ".join(f"{p} by {q}" for p, q, _ in t_odd) + ": at the number across, or at four times the number along")
-    line("found", True, "a torus of 4 by 4 is with an even number along and across; Exhibit ONE lays no table of mes at it, and by its own sentence of an even number it is again at 2 moments")
+    line("found", True, "a torus of 4 by 4 is with an even number along and across; Exhibit ONE lays no table of mes at it, and by its own sentence of an even number it is at a next of its own at 2 moments")
 
     print("\n6 · The 57th drawing's own text")
     t = text_of(ROOT / MINE / "illustrations/artboards/Draft57.dc.html")

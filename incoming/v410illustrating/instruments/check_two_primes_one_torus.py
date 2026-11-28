@@ -41,11 +41,11 @@ def checks(root):
     # a torus of 5 by 7
     t57 = (5, 7); on57, bt57 = on_a_crossing(t57), between(t57)
     line("is", len(numbered(t57)) == 35 and cell(35, t57) == (0, 0) and all(cell(n + 1, t57) == ((cell(n, t57)[0] + 1) % 5, (cell(n, t57)[1] + 1) % 7) for n in range(35)),
-         "on a torus of 5 by 7 a winding by +1 numbers all thirty-five cells, a number a cell, one cell on at both sides, and is at 0 and 0 again at 35")
+         "on a torus of 5 by 7 a winding by +1 numbers all thirty-five cells, a number a cell, one cell on at both sides, and is at a next 0 and 0 at 35")
     line("is", [n for n in range(35) if n % 5 == 0] == [0, 5, 10, 15, 20, 25, 30] and [n for n in range(35) if n % 7 == 0] == [0, 7, 14, 21, 28] and len(on57) == 11 and len(bt57) == 24 == 4 * 6 == 5 * 5 - 1,
          "the crossing of 5 is a line of seven cells and the crossing of 7 a line of five, with one cell of both, 0 and 0: eleven cells. The cells between them are 24, 4 by 6: 5 by 5 less 1")
     line("is", cell(36, t57) == (1, 1) and 36 == 6 * 6 == 35 + 1,
-         "36, 6 by 6, is at the cell of ones: a centre's square is one cell on from 0 and 0 again")
+         "36, 6 by 6, is at the cell of ones: a centre's square is one cell on from a next 0 and 0")
 
     # a between, one thing from two sides
     r57 = runs(t57)
@@ -60,10 +60,10 @@ def checks(root):
     line("is", len(numbered(t35)) == 15 and len(on_a_crossing(t35)) == 7 and between(t35) == [1, 2, 4, 7, 8, 11, 13, 14],
          "a torus of 3 by 5 is fifteen cells: seven on a crossing, and eight between, numbered 1, 2, 4, 7, 8, 11, 13 and 14")
     line("is", finer == [1, 16, 31, 46, 61, 76, 91] and [n for n in finer if n % 7 == 0] == [91] and len(between((3, 5, 7))) == 48 and len(numbered((3, 5, 7))) == 105,
-         "lifted by 7, its cell 1 is seven finer cells, 1, 16, 31, 46, 61, 76 and 91: six between, and 91 on the crossing of 7. Fifteen cells are 105, and eight between are 48")
+         "with 7 multiplied in, its cell 1 is seven finer cells, 1, 16, 31, 46, 61, 76 and 91: six between, and 91 on the crossing of 7. Fifteen cells are 105, and eight between are 48")
     counts = [(prod(s_), len(between(s_))) for s_ in SEAMS]
     line("is", counts == [(6, 2), (30, 8), (210, 48), (2310, 480)] and [round(100 * b / a) for a, b in counts] == [33, 27, 23, 21],
-         "a seam lifted is the same round with finer cells: 6, 30, 210 and 2310, with 2, 8, 48 and 480 between the crossings: 33, 27, 23 and 21 in 100")
+         "a seam with a me-parity multiplied in is the same round with finer cells: 6, 30, 210 and 2310, with 2, 8, 48 and 480 between the crossings: 33, 27, 23 and 21 in 100")
 
     # two me-parities about one centre
     rows = [(p, q, p + 1, p * q, (p + 1) ** 2, p + q - 1, (p - 1) * (q - 1), p * p) for p, q in TWO_APART]
@@ -83,7 +83,7 @@ def checks(root):
     apart2 = [n for n in range(1, 18) if nxt[n] - primes[n] == 2]
     line("is", is_prime(61) and apart2 == [2, 3, 5, 7, 10, 13, 17] and [(primes[n], nxt[n]) for n in apart2] == TWO_APART,
          "a name's prime with its next name's is a torus of two: seven are about one centre, 2 on, at the names 2, 3, 5, 7, 10, 13 and 17, the 17th with 61, a next 1's")
-    line("found", True, "a between is one thing from two sides, a partner's is of 27 November, and this drawing's marker: at an is-not the incohering is sought, and the work goes back to it")
+    line("found", True, "a between is one thing from two sides, a partner's is of 27 November, and this drawing's marker: at an is-not the incohering is sought, and the work is laid on from it")
     line("found", True, "the 48th drawing's quarter of two primes, parted by its diagonal, is gathered by its number alone: how one me-parity observes an other is with the 48th")
     line("found", True, "it is known mathematics: a winding through all cells of two numbers with no part of both, and the numbers crossed by neither. It is no method of a far me-parity alone")
     line("placing", True, "a torus laid flat as a table, a column a cell of 5 and a row a cell of 7; the co-linear under it; a cell drawn as seven finer cells; and the tints are the drawing's own placings")

@@ -42,7 +42,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 
 ## 3 Executed ahead of its laying
 
-1. 30 is 2 by 3 by 5: on its torus a winding by +1 is through all thirty cells, and at its opening again at 30.
+1. 30 is 2 by 3 by 5: on its torus a winding by +1 is through all thirty cells, and at a next opening at 30.
 2. Its cells crossed by none of 2, 3 and 5 are eight: 1, 7, 11, 13, 17, 19, 23 and 29. On the seam of six's own cells they are at its +1 and at its −1, four and four.
 3. 0 to 120 is four cones of 30, eight cells a cone, the same eight on all four. Their primes are 10, 7, 7 and 6.
 4. Of the 32 cells, 27 are primes. 1 is no prime, and 49, 77, 91 and 119 are crossed by the spiral of 7.

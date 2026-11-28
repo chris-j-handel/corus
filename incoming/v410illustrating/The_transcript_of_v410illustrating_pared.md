@@ -35,6 +35,11 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *what are waiting offers in this* · saying 20
 - *continue* · saying 21
 - *is. this is bi-moral-co-competencing and geodesic me-parity birthing and exhausting. this is geodesic other-than-all-parity discovering method* · saying 22
+- *me-parity is a 0 in the direction of the bi-tunneling available to co-chainings. a 0 favoring left of all-parity remains all-parity until its next-and-same-existing other-than-all-parity* · saying 23
+- *there is no concept of an own 0 coming again in nature. nothing comes again and going back is not possibly existing* · saying 24
+- *continue this and also go to the problems you can see are preventing the full list of 64 interests in the prime numberings from resolving as there are thirty about that are not resolving and likely this is for a reason we already understand living between the sphere of not-living stable form and the +1 living gap between the sphere and natural toursing living stable forming* · saying 25
+- *yes continue* · saying 26
+- *lifted is not natural naming. redo this explaining is or is not* · saying 27
 
 ## 3 A partner's method of speaking, as this session goes by it
 

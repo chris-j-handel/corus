@@ -233,7 +233,7 @@ for i, t in enumerate(("● a name a patch, by its n less 1 in four binary digit
                        "● inward, 5 to 12: 720 the other way · a torus is at nought",
                        "● 8 up is through the tube: one quarter, and the band across it",
                        "● two folds about the co-linear: a name onto 17 less it",
-                       "● 1 to 8 on the me's side, 9 to 16 on its far side, 17 at 1 again")):
+                       "● 1 to 8 on the me's side, 9 to 16 on its far side, 17 at a next 1")):
     over.append(word(584, 696 + 21 * i, 420, t, size=12.2))
 over.append(chip(592, 850, "", False, w=16, h=12, edge=ACC)); over.append(word(606, 850, 200, "outward, the accent", size=11.5, color=GREY))
 over.append(chip(742, 850, "", False, w=16, h=12, edge=SLATE)); over.append(word(756, 850, 200, "inward, the slate", size=11.5, color=GREY))
@@ -261,7 +261,7 @@ over.append(word(TX, yb + 19, 490, "THIRTY: the numbered sentence of Exhibit THI
 over.append(word(TX, yb + 40, 490, "four bi-foldings, sixteen names once:", weight=600, size=11.8))
 for i, b in enumerate(("1-9-8-16", "2-15-7-10", "3-11-6-14", "4-13-5-12")):
     over.append(chip(TX + 268 + 58 * i, yb + 40, b, False, w=54, h=18, size=10.2))
-over.append(word(TX, yb + 58, 490, "8 up or down, and 17 less, its podal from 1 to 16: its opening name again with four", size=10.6, h=14, color=GREY))
+over.append(word(TX, yb + 58, 490, "8 up or down, and 17 less, its podal from 1 to 16: a next of its opening name with four", size=10.6, h=14, color=GREY))
 
 # ================= found, and its is-nots =================
 FX, FY = 1016, 672

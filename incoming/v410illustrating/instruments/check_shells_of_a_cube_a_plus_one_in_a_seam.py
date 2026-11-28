@@ -89,7 +89,7 @@ def checks(root):
     # a seam of six as a torus of 2 by 3
     walk = [(n % 2, n % 3) for n in range(0, 7)]
     line("is", len(set(walk[:6])) == 6 and walk[6] == walk[0] == (0, 0) and walk[1] == (1, 1) and walk[5] == (1, 2),
-         "a torus of 2 by 3 is a seam of six: a winding by +1 is through all six cells, and at its opening again at 6; 1 is at the cell of ones, and 5 at the cell one before the opening")
+         "a torus of 2 by 3 is a seam of six: a winding by +1 is through all six cells, and at a next opening at 6; 1 is at the cell of ones, and 5 at the cell one before the opening")
     line("is", all((p % 2, p % 3) in ((1, 1), (1, 2)) for p in range(5, 10000) if is_prime(p)) and all((s % 2, s % 3) == (1, 1) for s in shells),
          "a prime past 3 is at the +1's cell or at the −1's, the two cells neither the spiral of 2 nor of 3 crosses, at all primes to 10,000; a cube's shells are all at the +1's cell")
 
