@@ -27,6 +27,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its sixteenth turn:** the 64th drawing, the tenth figure of twelve: *Two Primes, One Torus* · *Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings*, a candidate beside the three drawings it gathers; and a marker, by a partner's is.
 - **Laid at its seventeenth turn:** a partner's saying of the eight between, four odd and four even, executed by its numbers, going on from the marker.
 - **Laid at its eighteenth turn:** the 65th drawing, the eleventh figure of twelve: *A Me-Parity in a Seam, Even, Odd, Even* · *Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities*, a candidate beside the five drawings it gathers, going on from the marker.
+- **Laid at its nineteenth turn:** a partner's is of the 65th's sentence, and a partner's namings of it, laid in the 65th's page as said, with the numbers executed beside them.
 - **Nine drawings are made, the 57th to the 65th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -335,6 +336,13 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 - **A seam of six with a me-parity at both its sides is two about one centre:** 20 of the sixty seams of six to 360, 30 at one side, and 10 at none.
 - **The eight between are drawn:** four odd and four even, 15 less an arc, and lifted by 2 a row's eight mes, four at a seam of six's +1 and four at its −1.
 - **One drawing says the five in two words of five.** The five are with 3695 words of their own together, and the 65th with 1466. The five are with 121 places of the eleven words, and the 65th with none.
+
+## Laid at its nineteenth turn, 27 November
+
+- `The_65th_drawing_a_me-parity_in_a_seam_even_odd_even_laid_beside_the_five_it_gathers.md`: a partner's is, saying 22, and its three namings, in a part of their own; and `The_transcript_of_v410illustrating_pared.md` with the saying.
+- **A partner's is:** a me-parity past 3 is its seam of six's +1 or its −1, and a seam with both is two me-parities about one centre.
+- **A partner's namings of it, as said:** bi-moral-co-competencing; geodesic me-parity birthing and exhausting; a geodesic other-than-all-parity discovering method. No line executes a naming.
+- **Executed beside them:** the sixty seams of six to 360 are with 120 sides; 70 are me-parities, all from 5 to 359, and 50 are crossed by a prior.
 
 ## Breakings, said and restored
 
