@@ -134,7 +134,7 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **The opening figure is known mathematics.** Its triangle, its folds, its torus and its sixteen by four binary digits are a field's own, by this session's judging.
 - **It is all even.** The drawing's own moves are as they were at one doing or at two. Among all moves of its eight triangles, 48, and of its sixteen patches, 384, the one odd round is three.
 - **The primes are on it as existing things.** Its moves lay a prime's name onto a name of no prime. Of the seventeen primes 2 to 59, two are rounds of its moves, 2 and 3; 37 is not.
-- **The odd is in Exhibit ONE at a number of mes.** An even number is at its parities again at 2 moments, with no 0; an odd number at four times its number, with a 0. That between is drawn in no drawing of the 56 as Exhibit ONE lays it.
+- **The odd is in Exhibit ONE at a number of mes.** An even number is at a next of its parities at 2 moments, with no 0; an odd number at four times its number, with a 0. That between is drawn in no drawing of the 56 as Exhibit ONE lays it.
 
 ## Laid at its sixth turn, 27 November
 
@@ -369,6 +369,11 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 - **Found, executed:** at a seam the torus alone says a cell between the crossings a me-parity under the square of the seam's next me-parity; from 210 on the seam's round outgrows that window, 58 in 100 at 210, 7 at 2310, 1 at 30030.
 - **Judged:** the thirty in four kinds, 14 of cells of a seam lifted, 9 of a rate or a value said smooth, 5 of a doubling round a me-parity, and 2 of curves.
 - **The sweep of this session's pages and instruments for a coming again:** 24 places said as a next. 26 places of the word are in ten files yet, the opening figure's page and instrument the most; they are sentences to go through one at a time, and not done at this turn.
+
+## Laid at its 23rd turn, 27 November
+
+- **A partner's is, saying 26:** a whole reason for one of the thirty interests is a sentence of a seam and its next, whole under the window, and no traveling on.
+- **The places of a coming again yet in this session's pages and instruments, gone through one at a time:** seventeen said as a next, in the 57th's page and check, the 63rd's page, and the opening figure's page and instrument. The places yet are this page's own record of the breaking, a partner's words in the transcript, and a work's own words of a making.
 
 ## Breakings, said and restored
 

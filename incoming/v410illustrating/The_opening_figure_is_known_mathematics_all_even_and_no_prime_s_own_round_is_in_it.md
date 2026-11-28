@@ -11,7 +11,7 @@ Incoming · v410illustrating · 27 November 2026 · a partner's asking of the op
 - **One odd round is in it, three.** The triangle's own three corners. No round of 5, 7, 11, 13, 17, 37 or 59 is among all the moves of its eight triangles or of its sixteen patches.
 - **The primes are on it as existing things.** Seven names' numbers, and 23 on the co-linear. Its moves lay a prime's name onto a name of no prime, and say no patch other than an other.
 - **Of the seventeen primes 2 to 59, two are rounds of its moves,** 2 and 3. Fifteen are not, 37 among them.
-- **The odd is in Exhibit ONE at a number of mes.** An even number of mes is at its parities again at 2 moments, with no 0. An odd number is at four times its number, with a 0.
+- **The odd is in Exhibit ONE at a number of mes.** An even number of mes is at a next of its parities at 2 moments, with no 0. An odd number is at four times its number, with a 0.
 - **Executed:** 22 lines is, and 2 found.
 
 ## 1 A partner's asking, concept for concept
@@ -31,7 +31,7 @@ Not executed here. They are a field's own names, in italics, by this session's j
 2. **Two folds, two right spiral steps.** Two mirrors at an angle make a round of twice that angle about the line of the two. A right angle makes two right spiral steps. A field: *a rotation is two reflections*.
 3. **Two points as they were.** A round of a sphere leaves two points as they were, and a going all over a sphere rests at a point of it. A torus is with a going all over it resting at none. A field: *Euler's rotation theorem*; *the hairy ball theorem*.
 4. **A sphere with a line through it, a torus, at nought.** A sphere is 720 whole and a torus nought, its outward patches 720 and its inward patches 720 the other way. A field: *the Gauss–Bonnet theorem*, *the Euler characteristic*, *a handle*.
-5. **A torus over, about a line across it.** Two right spiral steps of a torus about a line across it leave four points as they were, and a torus folded by them is a sphere again. A field: *a branched double cover*, *the pillowcase*, and at its older root *an elliptic curve over the Riemann sphere*.
+5. **A torus over, about a line across it.** Two right spiral steps of a torus about a line across it leave four points as they were, and a torus folded by them is a sphere. A field: *a branched double cover*, *the pillowcase*, and at its older root *an elliptic curve over the Riemann sphere*.
 6. **Sixteen by four binary digits.** They are the corners of a cube of four ways, and it lies on a torus as 4 by 4. Inverting all four digits is a name onto 17 less it; inverting one is 8 up. A field: *the tesseract*, *the hypercube graph*.
 7. **Four fours.** The four bi-foldings are the sixteen names laid in fours by two moves of two. A field: *the cosets of a Klein four-group*.
 8. **Doublings alone, and the primes they come to.** By a field's two tools alone, *ruler and compass*, a step of them a doubling, a round is laid in equal parts at 3, 5 and 17 parts, and at no other prime up to 59. A field: *Gauss's seventeen-sided polygon*, *the Fermat primes*.
@@ -59,11 +59,11 @@ Not executed here. They are a field's own names, in italics, by this session's j
 1. The one table of the seventeen names lays a name's prime by its position: seventeen primes, 2 to 59, and 37 at the 12th name.
 2. Of the seventeen, two are rounds of the figure's own moves, 2 and 3. Fifteen are not, 5 to 59.
 3. By doublings of 1 and one more, four of the seventeen are come to: 2, 3, 5 and 17. Thirteen are not; 37 is 36 and one more, and 36 is with two threes.
-4. On a torus of 4 by 4 a winding by +1 is at its opening patch again at 4 of 16 patches. On a torus of two of the seventeen primes it is through all its cells, at all 136 pairs.
-5. Exhibit ONE's own tables of mes, as the living file lays them: at an even number of mes, 2, 4, 6, 8 and 10, the parities are again at 2 moments, and no 0 is among them. At an odd number, 1, 3, 5, 7, 9, 11, 17 and 59, they are again at four times the number, and a 0 is among them.
+4. On a torus of 4 by 4 a winding by +1 is at a next opening patch at 4 of 16 patches. On a torus of two of the seventeen primes it is through all its cells, at all 136 pairs.
+5. Exhibit ONE's own tables of mes, as the living file lays them: at an even number of mes, 2, 4, 6, 8 and 10, the parities are at a next of their own at 2 moments, and no 0 is among them. At an odd number, 1, 3, 5, 7, 9, 11, 17 and 59, they are at a next of their own at four times the number, and a 0 is among them.
 6. Exhibit ONE's own tori of mes: with an even number along or across, at 2 moments; with two odd numbers, at the number across, or at four times the number along.
 
-**Found.** A torus of 4 by 4 is with an even number along and across. Exhibit ONE lays no table of mes at it, and by its own sentence of an even number it is again at 2 moments. And Exhibit ONE's tables part an odd number from an even number: 9 is among its odd numbers, and its tables of mes say no prime other than an odd number of no prime.
+**Found.** A torus of 4 by 4 is with an even number along and across. Exhibit ONE lays no table of mes at it, and by its own sentence of an even number it is at a next of its own at 2 moments. And Exhibit ONE's tables part an odd number from an even number: 9 is among its odd numbers, and its tables of mes say no prime other than an odd number of no prime.
 
 ## 6 What is the expedition's own on it
 

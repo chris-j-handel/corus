@@ -90,7 +90,7 @@ def checks(root):
          "seventeen names are on it: 1, 9 and 17 at the me; six one-way me-parities on its sides; eight moments at its corners: 6 + 4 + 4 = 14 of 17")
     chained = lambda r: all(r[i][1] == r[i + 1] and r[i][0] == r[i - 1] for i in (1, 3, 5)) and r[0] == r[-1] == "A"
     line("is", chained(SELF_WAY) and chained(OTHER_WAY) and [tuple(reversed(p)) for p in OTHER_WAY[5:0:-2]] == [p for p in SELF_WAY[1::2]],
-         "a way round goes corner, side, corner, side, corner, side, and is at the me again; an other's is a me's, its other way")
+         "a way round goes corner, side, corner, side, corner, side, and is at a next me; an other's is a me's, its other way")
     line("is", ON[2] == ON[8] == ON[10] == ON[16] == "A" and {ON[4], ON[14]} == {"B"} and {ON[6], ON[12]} == {"C"},
          "prior and same are at the me, with both ways; now and next are at B and C, and at C and B")
     # a fold through the me

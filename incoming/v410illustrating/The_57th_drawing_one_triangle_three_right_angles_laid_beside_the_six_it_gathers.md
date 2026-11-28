@@ -45,7 +45,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 | the me | the corner a way round opens from and closes at; 1, 9 and 17 are at it | Me; Exhibit ONE |
 | a name of the seventeen | a number and its naming, one hyphenation: its moment, now or next; its prefix; its root | Exhibit ONE's table |
 | a name's three | its next, its now and its prior, by co, bi and tri: a me-parity, a both-parity, an all-parity | Exhibit ONE's table; Natural Naming |
-| a way round | from the me by a side to a corner, three sides, and at the me again; a me's is one way, and an other's is a me's, its other way | the 4th drawing; Natural Illustrating |
+| a way round | from the me by a side to a corner, three sides, and at a next me; a me's is one way, and an other's is a me's, its other way | the 4th drawing; Natural Illustrating |
 | a one-way me-parity | an odd name beside a side: 3, 5 and 7 a me's, and 11, 13 and 15 an other's | the 4th drawing |
 | a moment at a corner | an even name: prior and same at the me, now and next at the two far corners | the 4th drawing; Exhibit ONE |
 | a fold | a mirror about a side, one parity inverting | Exhibit ONE; the 2nd drawing |
@@ -57,7 +57,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 | a quarter | one of four round the co-linear: possibling, co-possibling, possibling, co-possibling | the 5th and the 6th drawings |
 | a patch | a name's own on a torus, by its number less 1 in four binary digits: two its quarter round the opening, two its band round the tube | the 3rd drawing |
 | outward, inward, at nought | 1 to 4 and 13 to 16 outward, a sphere's eight triangles; 5 to 12 inward, as much the other way; the two together nought | the 3rd drawing, a field's adding |
-| a bi-folding | four names by 8 up and 17 less in sequence, at its opening name again: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12 | Exhibit ONE; Natural Illustrating |
+| a bi-folding | four names by 8 up and 17 less in sequence, at a next of its opening name: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12 | Exhibit ONE; Natural Illustrating |
 
 ## 4 Executed ahead of its laying
 
@@ -71,7 +71,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 8. 8 up is through the tube: one quarter, and the band across it.
 9. Outward is 720 and inward is 720 the other way: a torus is at nought.
 10. Exhibit ONE's own table says the seventeen names and a name's three, and 1, 9 and 17 are one three.
-11. A bi-folding by 8 up, 17 less, 8 up and 17 less is at its opening name again, at all four, sixteen names once.
+11. A bi-folding by 8 up, 17 less, 8 up and 17 less is at a next of its opening name, at all four, sixteen names once.
 12. Exhibit THIRTY says all seventeen names whole, a name at a numbered sentence of its own entering: 1 and 2 at 129, 17 at 241, and 6 at 572, the last.
 
 One line is a placing and no execution says it: the four quarters' names are laid as the 5th and the 6th drawings lay them.
