@@ -387,7 +387,7 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 ## Laid at its 25th turn, 28 November
 
 - **A partner's saying 27:** the word this session said of a seam and its next is no natural naming; and the sentence asked is to be explained a next time.
-- **Restored:** a seam with its next me-parity multiplied in is its next seam. Multiplying in a prime is the 37th drawing's naming and the eighth figure's own candidate. The 63rd, the 64th, the 65th and the 66th drawings are made with their views. 69 places in all are said so: 19 in the four makers' and the plan's own lines, and 50 more in the checks, the makers' notes and this session's pages. No drawing of this session says the word now.
+- **Restored:** a seam with its next me-parity multiplied in is its next seam. Multiplying in a prime is the 37th drawing's naming and the eighth figure's own candidate. The 63rd, the 64th, the 65th and the 66th drawings are made with their views. 69 places in all are said as multiplied in: 19 in the four makers' and the plan's own lines, and 50 more in the checks, the makers' notes and this session's pages. No drawing of this session says the word now.
 - **The 66th's subtitle, said a next time:** *Multiplying In a Prime as One Other-Than, a Seam and Its Next a − and a +*.
 - **The sentence, in natural naming:** a seam with its next me-parity multiplied in is its next seam, and its other-than: a − for a +, or a + for a −.
 - The plan's lines at all ten drawings: 90 is and 28 found.
