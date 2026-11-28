@@ -25,6 +25,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its fourteenth turn:** the 63rd drawing, the ninth figure of twelve: *Rows of 30, Eight Mes a Row* · *Living a Next Me-Parity from Its Own Priors, a Seam's +1 at Its Square*, a candidate beside the three drawings it gathers; and #1306 gone through apart at v409mgr's asking.
 - **Laid at its fifteenth turn:** a partner's saying of v410opusbio's discovering, the numbers between the prime crossings numbering a surface's cells, executed by its numbers, beside the drawings laid; and #1308 and #1309 gone through apart at v409mgr's asking.
 - **Laid at its sixteenth turn:** the 64th drawing, the tenth figure of twelve: *Two Primes, One Torus* · *Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings*, a candidate beside the three drawings it gathers; and a marker, by a partner's is.
+- **Laid at its seventeenth turn:** a partner's saying of the eight between, four odd and four even, executed by its numbers, going on from the marker.
 - **Eight drawings are made, the 57th to the 64th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -307,6 +308,18 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 - **A word of the eleven was in the 64th at its making,** named by the plan's lines ahead of its laying, and said again as about one centre, 2 on.
 - **The 64th is not fewer words than its three:** 1318 beside 1368. It says more than the three, and one drawing for three.
 
+## Laid at its seventeenth turn, 27 November
+
+- `The_eight_between_four_odd_and_four_even_a_partner_s_saying_executed.md`, and `instruments/the_eight_between_four_odd_and_four_even.py`: 10 lines is and 3 found. Its numbers are made by the execution, and none is typed. It goes on from the marker.
+- `The_transcript_of_v410illustrating_pared.md`: a partner's saying 19.
+
+## Found at its seventeenth turn
+
+- **One step of 15 lays odd onto even:** the four even, 2, 4, 8 and 14, are the four odd, 1, 7, 11 and 13, 15 less.
+- **The eight between of a torus of 3 by 5 are a row's eight mes,** lifted by 2: the four even are 17, 19, 23 and 29, 15 on.
+- **All and none at all are one cell:** in four binary digits 15 and 0 are the opening, and the eight are one digit on or one digit not on.
+- **Three partings of the eight in four and four are not one parting:** odd and even, one digit on and not on, and its own of 3.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -335,7 +348,7 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 
 ## Its next reach
 
-A me-parity in a seam, even, odd, even, the eleventh figure: two me-parities about one centre, a seam of six. Then living parities of the numbers, and a me, and beside it an other. A page of this session's notes for the gathering files, in its own folder. Beside them, as they come: one saying of a +1 from its ways; one saying of a seam from its two; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
+A me-parity in a seam, even, odd, even, the eleventh figure: two me-parities about one centre, a seam of six; and the eight between drawn in it, four odd and four even, a step of 15 between them. Then living parities of the numbers, and a me, and beside it an other. A page of this session's notes for the gathering files, in its own folder. Beside them, as they come: one saying of a +1 from its ways; one saying of a seam from its two; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -367,3 +380,4 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/the_numbers_between_the_prime_crossings_numbering_a_torus_s_cells.py .`
 - `python3 -I incoming/v410illustrating/instruments/check_two_primes_one_torus.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft64.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/the_eight_between_four_odd_and_four_even.py .`

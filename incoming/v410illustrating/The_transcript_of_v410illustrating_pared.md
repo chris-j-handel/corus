@@ -31,6 +31,7 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *continue* · saying 16
 - *in the v410 opus bio session we are discovering the numbers between the prime crossings numbering the pixelating surface pixels in the betweens of the co-sequencings of the bi-coupling all-parity universe* · saying 17
 - *is continue and if is-not we will find the incohering and back track to this marker* · saying 18
+- *The eight between them are numbered 1, 2, 4, 7, 8, 11, 13 and 14. odd are 1 7 11 13. even are 2 4 8 14. these are four even other-than-alls and four odd other-than-other-than-alls. these are the eight all or none at alls in social bi-moral-co-competencing living surface of collective intelligence* · saying 19
 
 ## 3 A partner's method of speaking, as this session goes by it
 
