@@ -21,7 +21,8 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its tenth turn:** a partner's saying of the ten: the ten corners are a ten, five with two sides, one ten with all tens; and the offers #1297 and #1299 gone through apart at v409mgr's asking.
 - **Laid at its eleventh turn:** the 60th drawing, the second figure of twelve, by a partner's aiming of the +1s: *Shells of a Cube, 1, 7, 19, 37 and 61* · *Living a +1 in a Seam of Six, a Round Opening beside Its Closing*, a candidate beside the five drawings it gathers.
 - **Laid at its twelfth turn:** the 61st drawing, the third figure of twelve: *Cones of 30 on a Co-Linear* · *Podaling a Me-Now about a Seam of 30, to Its Next Universe*, a candidate beside the nine drawings it gathers.
-- **Five drawings are made, the 57th to the 61st,** and no drawing, check or record of an other session is written in.
+- **Laid at its thirteenth turn:** the 62nd drawing, the fourth figure of twelve: *Diamond of Nine about Its 5* · *Podaling about 5 by Two Right Spiral Steps, a Centre's Square a Seam's +1*, a candidate beside the seven drawings it gathers.
+- **Six drawings are made, the 57th to the 62nd,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -232,6 +233,25 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **A podaling is said two ways in the nine drawings,** and both are laid.
 - **One drawing says the nine in one word of three.** The nine are with 3745 words of their own together, and the 61st with 1272. The nine are with 89 places of the eleven words, and the 61st with none.
 
+## Laid at its thirteenth turn, 27 November
+
+- `illustrations/artboards/Draft62.dc.html` and its view, `illustrations/draft_62_diamond_of_nine_about_its_5_podaling_by_two_right_spiral_steps_a_centre_s_square_a_seam_s_plus_1.png`: the 62nd drawing, five parts and a table.
+- `The_62nd_drawing_diamond_of_nine_about_its_5_laid_beside_the_seven_it_gathers.md`: its page.
+- `instruments/check_diamond_of_nine_about_its_5.py`: its check, 20 lines is, 3 found, 1 a placing.
+- `instruments/make_draft62.py`: its maker. The artboard made again is the artboard laid, byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at all six drawings: 54 is and 16 found. The fourth figure's row of the twelve figures' table says the 62nd.
+
+## Found at its thirteenth turn
+
+- **A centre's square is a seam's +1.** The diamond's middle row is 3, 5 and 7. A centre's prior by its next is 8, 24 and 48, Natural Numbers' own seams, and a centre's square is 9, 25 and 49, one on.
+- **A centre's square is a diamond's vertex.** Six diamonds on the co-linear are 1 to 49, a vertex 8 on a diamond: 9 is one diamond on, 25 three on, and 49 six on.
+- **A right spiral step about 5 is multiplying by 3 round ten.** Two steps are a podaling, 10 less: ten's +1, at 1, onto its −1, at 9. The four moves are the four corners' own numbers, 1, 3, 9 and 7.
+- **Nine is between two seams,** one on from eight and one before ten: even, odd, even.
+- **Exhibit ONE's names are by their cells of a diamond.** On the co-linear, existing and discovering; at a widest, the four of observing; on a side, possibling and same-existing.
+- **A middle and a seam are said more ways than one,** and all are laid: a middle with nothing at it, with 1, and with 5; a seam as a centre's prior by its next, and as a torus's closing.
+- **Of the three figures laid with a seam, a +1 is at a seam's middle:** on a cube's line, six round it; at a me, 30 on a round; and a centre's square, eight round a middle.
+- **One drawing says the seven in two words of five.** The seven are with 3561 words of their own together, and the 62nd with 1410. The seven are with 62 places of the eleven words, and the 62nd with none.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -254,12 +274,13 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
 - **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
 - **The 59th is one session's hand.** No second session has gone through it. Its way of a torus of ten corners is this session's own making.
+- **The 60th, the 61st and the 62nd are one session's hand.** v409mgr made the 60th and the 61st again, byte for byte, at their bringing in; no second session has gone through their sayings. A seam of six, of 30 and of ten, a torus's closing, is this session's own saying; Natural Numbers' own seams are 8, 24 and 48.
 - **This session's two namings are its own placings:** *a figure*, the thing drawn; and *the eight of 30*, said of the numbers 1, 7, 11, 13, 17, 19, 23 and 29 ahead of one name for them.
-- **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Five of the twelve heads are drawn in one drawing of their figure.
+- **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Four of the twelve figures are drawn, a figure in one drawing: the opening figure in the 59th, and the second, the third and the fourth in the 60th, the 61st and the 62nd.
 
 ## Its next reach
 
-The fourth figure of the reduced set, the diamond of nine about its 5, the 18th to the 24th drawings. Then the rows of 30, eight mes a row. Beside them, as they come: one saying of a +1 from its five; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
+The rows of 30, eight mes a row, the 38th, the 46th and the 56th drawings. Then a me, and beside it an other. Beside them, as they come: one saying of a +1 from its ways; one saying of a seam from its two; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -284,3 +305,5 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/make_draft60.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/check_cones_of_30_on_a_co-linear_podaling_about_a_seam_of_30.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft61.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/check_diamond_of_nine_about_its_5.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft62.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
