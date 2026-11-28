@@ -26,26 +26,34 @@ REDUCED = {57: (1, [1, 2, 3, 4, 5, 6], "make_draft57.py", "check_one_triangle_th
            59: (1, [57, 58], "make_draft59.py", "check_one_triangle_three_mirrors_opening_a_sphere_to_a_torus.py"),
            60: (2, [7, 8, 40, 41, 50], "make_draft60.py", "check_shells_of_a_cube_a_plus_one_in_a_seam.py"),
            61: (3, [9, 10, 11, 12, 13, 14, 15, 16, 17], "make_draft61.py", "check_cones_of_30_on_a_co-linear_podaling_about_a_seam_of_30.py"),
-           62: (4, [18, 19, 20, 21, 22, 23, 24], "make_draft62.py", "check_diamond_of_nine_about_its_5.py")}
+           62: (4, [18, 19, 20, 21, 22, 23, 24], "make_draft62.py", "check_diamond_of_nine_about_its_5.py"),
+           63: (9, [38, 46, 56], "make_draft63.py", "check_rows_of_30_eight_mes_a_row.py"),
+           64: (10, [43, 45, 48], "make_draft64.py", "check_two_primes_one_torus.py")}
 # a drawing's head line: how it opens, and what it says on its own face
 HEAD = {57: ("57 · figure 1 of twelve", ("it gathers the 1st to the 6th drawings", "its prior figure", "its next figures")),
         58: ("58 · beside the 57th", ("it gathers no drawing of the 56", "its prior: the 57th", "its next figures")),
         59: ("59 · figure 1 of twelve", ("it gathers the 57th and the 58th", "its prior figure", "its next figures")),
         60: ("60 · figure 2 of twelve", ("it gathers the 7th, the 8th, the 40th, the 41st and the 50th drawings", "its prior figure", "its next figures")),
         61: ("61 · figure 3 of twelve", ("it gathers the 9th to the 17th drawings", "its prior figure", "its next figures")),
-        62: ("62 · figure 4 of twelve", ("it gathers the 18th to the 24th drawings", "its prior figure", "its next figures"))}
+        62: ("62 · figure 4 of twelve", ("it gathers the 18th to the 24th drawings", "its prior figure", "its next figures")),
+        63: ("63 · figure 9 of twelve", ("it gathers the 38th, the 46th and the 56th drawings", "its prior figure", "its next figures")),
+        64: ("64 · figure 10 of twelve", ("it gathers the 43rd, the 45th and the 48th drawings", "its prior figure", "its next figures"))}
 # a drawing of a figure whole, its title and its subtitle said again for the whole: this session's composing
 WHOLE = {59: ("One Triangle, Three Mirrors", "Opening a Sphere to a Torus, 720 to Nought"),
          60: ("Shells of a Cube, 1, 7, 19, 37 and 61", "Living a +1 in a Seam of Six, a Round Opening beside Its Closing"),
          61: ("Cones of 30 on a Co-Linear", "Podaling a Me-Now about a Seam of 30, to Its Next Universe"),
-         62: ("Diamond of Nine about Its 5", "Podaling about 5 by Two Right Spiral Steps, a Centre's Square a Seam's +1")}
+         62: ("Diamond of Nine about Its 5", "Podaling about 5 by Two Right Spiral Steps, a Centre's Square a Seam's +1"),
+         63: ("Rows of 30, Eight Mes a Row", "Living a Next Me-Parity from Its Own Priors, a Seam's +1 at Its Square"),
+         64: ("Two Primes, One Torus", "Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings")}
 # a drawing beside a figure's own drawing, of no row of the twelve: its title and its subtitle, this session's composing
 BESIDE = {58: ("One Triangle, Three Golden Rectangles", "Bi-Tri-Volutioning a Round of Five, Twelve Corners Closing as a Sphere")}
 SAID_AGAIN = {59: "its title and its subtitle are the figure's candidate said again for the whole, this session's composing",
               60: "its title is the figure's candidate, and its subtitle is said again by a partner's aiming of the +1s, this session's composing",
               61: "its title is the figure's candidate, and its subtitle is said again with the seam of 30, this session's composing",
-              62: "its title is the figure's candidate, and its subtitle is said again with a seam's +1, this session's composing"}
-STANDING = {57: "laid, a candidate", 58: "laid beside it, a candidate, by a partner's is", 59: "laid, a candidate, one drawing of both", 60: "laid, a candidate", 61: "laid, a candidate", 62: "laid, a candidate"}
+              62: "its title is the figure's candidate, and its subtitle is said again with a seam's +1, this session's composing",
+              63: "its title is the figure's candidate, and its subtitle is the candidate's with a seam's +1 at a square beside it, this session's composing",
+              64: "its title is the figure's candidate, and its subtitle is said again with a partner's saying of the betweens, this session's composing"}
+STANDING = {57: "laid, a candidate", 58: "laid beside it, a candidate, by a partner's is", 59: "laid, a candidate, one drawing of both", 60: "laid, a candidate", 61: "laid, a candidate", 62: "laid, a candidate", 63: "laid, a candidate", 64: "laid, a candidate"}
 ASKED = r"(?<![\w-])(?:twins?|loops?|rooms?|vaults?|rules?|distances?|apart|directions?|turn(?:s|ed|ing|ings)?|places?|sel(?:f|ves))(?![\w-])"
 FILES = ("Exhibit ONE", "Exhibit THIRTY", "Natural Naming", "Natural Illustrating")
 

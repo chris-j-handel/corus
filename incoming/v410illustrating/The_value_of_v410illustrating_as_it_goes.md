@@ -22,7 +22,11 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its eleventh turn:** the 60th drawing, the second figure of twelve, by a partner's aiming of the +1s: *Shells of a Cube, 1, 7, 19, 37 and 61* · *Living a +1 in a Seam of Six, a Round Opening beside Its Closing*, a candidate beside the five drawings it gathers.
 - **Laid at its twelfth turn:** the 61st drawing, the third figure of twelve: *Cones of 30 on a Co-Linear* · *Podaling a Me-Now about a Seam of 30, to Its Next Universe*, a candidate beside the nine drawings it gathers.
 - **Laid at its thirteenth turn:** the 62nd drawing, the fourth figure of twelve: *Diamond of Nine about Its 5* · *Podaling about 5 by Two Right Spiral Steps, a Centre's Square a Seam's +1*, a candidate beside the seven drawings it gathers.
-- **Six drawings are made, the 57th to the 62nd,** and no drawing, check or record of an other session is written in.
+- **Laid at its fourteenth turn:** the 63rd drawing, the ninth figure of twelve: *Rows of 30, Eight Mes a Row* · *Living a Next Me-Parity from Its Own Priors, a Seam's +1 at Its Square*, a candidate beside the three drawings it gathers; and #1306 gone through apart at v409mgr's asking.
+- **Laid at its fifteenth turn:** a partner's saying of v410opusbio's discovering, the numbers between the prime crossings numbering a surface's cells, executed by its numbers, beside the drawings laid; and #1308 and #1309 gone through apart at v409mgr's asking.
+- **Laid at its sixteenth turn:** the 64th drawing, the tenth figure of twelve: *Two Primes, One Torus* · *Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings*, a candidate beside the three drawings it gathers; and a marker, by a partner's is.
+- **Laid at its seventeenth turn:** a partner's saying of the eight between, four odd and four even, executed by its numbers, going on from the marker.
+- **Eight drawings are made, the 57th to the 64th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
 
@@ -252,6 +256,70 @@ A partner's sayings to this session are in their own page, `The_transcript_of_v4
 - **Of the three figures laid with a seam, a +1 is at a seam's middle:** on a cube's line, six round it; at a me, 30 on a round; and a centre's square, eight round a middle.
 - **One drawing says the seven in two words of five.** The seven are with 3561 words of their own together, and the 62nd with 1410. The seven are with 62 places of the eleven words, and the 62nd with none.
 
+## Laid at its fourteenth turn, 27 November
+
+- `illustrations/artboards/Draft63.dc.html` and its view, `illustrations/draft_63_rows_of_30_eight_mes_a_row_living_a_next_me-parity_from_its_own_priors_a_seam_s_plus_1_at_its_square.png`: the 63rd drawing, five parts and a table.
+- `The_63rd_drawing_rows_of_30_eight_mes_a_row_laid_beside_the_three_it_gathers.md`: its page.
+- `instruments/check_rows_of_30_eight_mes_a_row.py`: its check, 16 lines is, 3 found, 1 a placing.
+- `instruments/make_draft63.py`: its maker. The artboard made again is the artboard laid, byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at all seven drawings: 63 is and 19 found. The ninth figure's row of the twelve figures' table says the 63rd.
+- At the exchange: v409mgr's offer #1306 gone through apart at its asking, at c41c523, with nothing found.
+
+## Found at its fourteenth turn
+
+- **A me-parity's own crossing opens at its square.** Under its square, a number it crosses is crossed by a prior: 7 by 7, 11 by 11, 13 by 13 and 17 by 17 are 49, 121, 169 and 289.
+- **Its square is a seam's +1.** Its prior by its next and 1: past 3 the seam is twenty-fours. In the rows a square is at the me 1 or the me 19.
+- **A seam's +1 says no last.** 3, 7, 31, 211 and 2311 are me-parities, and 30031 is 59 by 509, both past the seam's own.
+- **The names' primes are in the rows.** The seam of 30 is the primes of the names 1, 2 and 3 multiplied; the names 4 to 17 are with the fourteen me-parities of its two opening rows.
+- **A me-parity is said two ways, not one yet:** of a name's slot, co, in Exhibit ONE; and of a prime, in the three drawings.
+- **An is-not of this session's own, restored ahead of its laying:** the check said a crossed me's least crossings from no execution, and its numbers are executed now: 7 at 13, 11 at 7, 13 at 4, and 17 at 2.
+- **One drawing says the three in seven words of ten.** The three are with 2084 words of their own together, and the 63rd with 1478. The three are with 87 places of the eleven words, and the 63rd with none.
+
+## Laid at its fifteenth turn, 27 November
+
+- `The_numbers_between_the_prime_crossings_numbering_a_surface_s_cells_a_partner_s_saying_executed.md`: a partner's saying executed, with a partner's saying of 23 November beside it, and a table of it beside the drawings laid.
+- `instruments/the_numbers_between_the_prime_crossings_numbering_a_torus_s_cells.py`: its instrument, 9 lines is and 3 found.
+- `The_transcript_of_v410illustrating_pared.md`: a partner's saying 17.
+- At the exchange: v409mgr's offers #1308 and #1309 gone through apart at its asking, with nothing found; and its asking of notes at the gathering files answered: none is laid at a gathering file.
+
+## Found at its fifteenth turn
+
+- **A between is said two ways, one thing from two sides.** On the co-linear a crossed number is between two me-parities; on a seam's torus a me-parity is between the crossings.
+- **A surface is made finer by a seam lifted:** 6, 30, 210 and 2310 cells in the same round, with 2, 8, 48 and 480 between the crossings.
+- **On a torus of two me-parities 2 apart the betweens are a seam,** 8, 24, 120 and 288, and with the one cell at 0 and 0 they are a square: a +1 at the opening.
+- **An is-not of this session's own, a second at two turns:** a number said from no execution, twenty for twenty-one, named by the instrument and executed ahead of the laying. A number is executed ahead of its saying.
+
+## Laid at its sixteenth turn, 27 November
+
+- `illustrations/artboards/Draft64.dc.html` and its view, `illustrations/draft_64_two_primes_one_torus_winding_by_plus_1_through_all_their_cells_numbering_the_betweens_of_their_crossings.png`: the 64th drawing, five parts and a table.
+- `The_64th_drawing_two_primes_one_torus_laid_beside_the_three_it_gathers.md`: its page.
+- `instruments/check_two_primes_one_torus.py`: its check, 13 lines is, 3 found, 1 a placing. `instruments/make_draft64.py`: its maker, the artboard made again byte for byte.
+- `instruments/a_reduced_drawing_by_the_plan_s_lines.py`, executed at all eight drawings: 72 is and 22 found. The tenth figure's row of the twelve figures' table says the 64th.
+
+## A marker, to go back to
+
+By a partner's word of 27 November, saying 18: a between is one thing from two sides, an is; and at an is-not, the incohering is sought and the work goes back to this marker. The marker is the commit that lays the 64th drawing, with the eight drawings, the 57th to the 64th, and the executed page of the numbers between the prime crossings. What is laid after it says the marker it goes on from.
+
+## Found at its sixteenth turn
+
+- **A between is one thing from two sides, on one drawing.** On a torus of 5 by 7 the numbers between two crossings on the co-linear are the numbers of the cells on no line: 24.
+- **A +1 is at the opening.** Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines a square. Their torus's cells are the centre's square less 1.
+- **A name's prime with its next name's is a torus of two,** and seven are about one centre: at the names 2, 3, 5, 7, 10, 13 and 17.
+- **A word of the eleven was in the 64th at its making,** named by the plan's lines ahead of its laying, and said again as about one centre, 2 on.
+- **The 64th is not fewer words than its three:** 1318 beside 1368. It says more than the three, and one drawing for three.
+
+## Laid at its seventeenth turn, 27 November
+
+- `The_eight_between_four_odd_and_four_even_a_partner_s_saying_executed.md`, and `instruments/the_eight_between_four_odd_and_four_even.py`: 10 lines is and 3 found. Its numbers are made by the execution, and none is typed. It goes on from the marker.
+- `The_transcript_of_v410illustrating_pared.md`: a partner's saying 19.
+
+## Found at its seventeenth turn
+
+- **One step of 15 lays odd onto even:** the four even, 2, 4, 8 and 14, are the four odd, 1, 7, 11 and 13, 15 less.
+- **The eight between of a torus of 3 by 5 are a row's eight mes,** lifted by 2: the four even are 17, 19, 23 and 29, 15 on.
+- **All and none at all are one cell:** in four binary digits 15 and 0 are the opening, and the eight are one digit on or one digit not on.
+- **Three partings of the eight in four and four are not one parting:** odd and even, one digit on and not on, and its own of 3.
+
 ## Breakings, said and restored
 
 Four living sentences were laid word for word, a file beside a sentence, at this session's second turn. A partner named it: a word-for-word saying sets a wording as an authority. They are said again concept for concept in a later section of that page, the part before it as it was.
@@ -274,13 +342,13 @@ It is in v408illustrating's transcript pared, its part 2, and this session goes 
 - **A figure is one session's judging.** A second session's going through of the twelve is asked, and v409mgr says it is its own next work.
 - **The 57th and the 58th are one session's hand.** v409mgr has gone through the 57th apart; no second session has gone through the 58th. Their views are made by v408illustrating's view tool, at #1294.
 - **The 59th is one session's hand.** No second session has gone through it. Its way of a torus of ten corners is this session's own making.
-- **The 60th, the 61st and the 62nd are one session's hand.** v409mgr made the 60th and the 61st again, byte for byte, at their bringing in; no second session has gone through their sayings. A seam of six, of 30 and of ten, a torus's closing, is this session's own saying; Natural Numbers' own seams are 8, 24 and 48.
+- **The 60th to the 64th are one session's hand.** v409mgr made the 60th and the 61st again, byte for byte, at their bringing in; no second session has gone through their sayings. A seam of six, of 30 and of ten, a torus's closing, is this session's own saying; Natural Numbers' own seams are 8, 24 and 48.
 - **This session's two namings are its own placings:** *a figure*, the thing drawn; and *the eight of 30*, said of the numbers 1, 7, 11, 13, 17, 19, 23 and 29 ahead of one name for them.
-- **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Four of the twelve figures are drawn, a figure in one drawing: the opening figure in the 59th, and the second, the third and the fourth in the 60th, the 61st and the 62nd.
+- **The twelve titles and subtitles are this session's composing.** They go on as candidates, and a second session's going through is asked. Six of the twelve figures are drawn, a figure in one drawing: the opening figure in the 59th; the second, the third and the fourth in the 60th, the 61st and the 62nd; the ninth in the 63rd; and the tenth in the 64th.
 
 ## Its next reach
 
-The rows of 30, eight mes a row, the 38th, the 46th and the 56th drawings. Then a me, and beside it an other. Beside them, as they come: one saying of a +1 from its ways; one saying of a seam from its two; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
+A me-parity in a seam, even, odd, even, the eleventh figure: two me-parities about one centre, a seam of six; and the eight between drawn in it, four odd and four even, a step of 15 between them. Then living parities of the numbers, and a me, and beside it an other. A page of this session's notes for the gathering files, in its own folder. Beside them, as they come: one saying of a +1 from its ways; one saying of a seam from its two; one saying of a name's number from its two; the ten sixes of the 50th beside the ten of the opening figure. Nothing of it waits for a partner.
 
 ## To execute
 
@@ -307,3 +375,9 @@ From the repository's root, the paths as an instrument's own usage says them:
 - `python3 -I incoming/v410illustrating/instruments/make_draft61.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
 - `python3 -I incoming/v410illustrating/instruments/check_diamond_of_nine_about_its_5.py .`
 - `python3 -I incoming/v410illustrating/instruments/make_draft62.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/check_rows_of_30_eight_mes_a_row.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft63.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/the_numbers_between_the_prime_crossings_numbering_a_torus_s_cells.py .`
+- `python3 -I incoming/v410illustrating/instruments/check_two_primes_one_torus.py .`
+- `python3 -I incoming/v410illustrating/instruments/make_draft64.py A_FOLDER_FOR_THE_ARTBOARD A_FOLDER_FOR_ITS_WORKING_PREVIEW .`
+- `python3 -I incoming/v410illustrating/instruments/the_eight_between_four_odd_and_four_even.py .`
