@@ -125,7 +125,7 @@ def checks(root):
     line("is", all(patch(n)[0] == patch(n + 8)[0] and patch(n)[1] ^ 2 == patch(n + 8)[1] for n in range(1, 9)),
          "8 up is through the tube: one quarter, and the band across it")
     line("is", all(patch(n)[1] in (0, 1) for n in range(1, 9)) and all(patch(n)[1] in (2, 3) for n in range(9, 17)) and patch(17 - 16) == patch(1),
-         "1 to 8 are on the me's side of a torus and 9 to 16 on its far side; 17 is at 1 again")
+         "1 to 8 are on the me's side of a torus and 9 to 16 on its far side; 17 is at a next 1")
     rests = [(t, p) for t in (0, np.pi) for p in (0, np.pi) if np.allclose(OVER @ surf(t, p), surf(t, p))]
     spin = lambda a: np.array([[np.cos(a), -np.sin(a), 0], [np.sin(a), np.cos(a), 0], [0, 0, 1.0]])
     moved = all(np.linalg.norm(spin(0.3) @ surf(t, p) - surf(t, p)) > 1e-3 for t in np.linspace(0, 6.2, 9) for p in np.linspace(0, 6.2, 9))

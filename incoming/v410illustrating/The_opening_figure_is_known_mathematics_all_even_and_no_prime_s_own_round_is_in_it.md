@@ -67,7 +67,7 @@ Not executed here. They are a field's own names, in italics, by this session's j
 
 ## 6 What is the expedition's own on it
 
-The geometry is a field's. Laid on it by the expedition, and a field's in no part this session knows: the seventeen names at its corners and beside its sides; a name's three, by co, bi and tri; the me at a corner, with its prior, its now and its next; and 17 at 1 again. By a partner's saying these are namings on a known ground, and the living of a prime is not in them yet.
+The geometry is a field's. Laid on it by the expedition, and a field's in no part this session knows: the seventeen names at its corners and beside its sides; a name's three, by co, bi and tri; the me at a corner, with its prior, its now and its next; and 17 at a next 1. By a partner's saying these are namings on a known ground, and the living of a prime is not in them yet.
 
 ## 7 For the reducing, candidates
 

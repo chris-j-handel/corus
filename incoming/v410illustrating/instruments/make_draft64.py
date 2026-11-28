@@ -76,12 +76,12 @@ for n in range(1, 5):                                                      # a w
     x1, y1, x2, y2 = GX + (n - 1) * CW + CW * 0.76, GY + (n - 1) * CH + CH * 0.8, GX + n * CW + CW * 0.24, GY + n * CH + CH * 0.2
     s.append(f'<path d="M{x1:.1f},{y1:.1f} L{x2:.1f},{y2:.1f}" fill="none" stroke="{INK}" stroke-opacity="0.6" stroke-width="1.2" stroke-dasharray="2 3"></path>')
 over.append(word(GX + 5 * CW + 10, GY + CH * 1.5, 80, "the cell of", size=10.6, h=13, color=GREY)); over.append(word(GX + 5 * CW + 10, GY + CH * 1.5 + 13, 80, "ones: 1, and", size=10.6, h=13, color=GREY))
-over.append(word(GX + 5 * CW + 10, GY + CH * 1.5 + 26, 80, "36 again", size=10.6, h=13, color=GREY))
+over.append(word(GX + 5 * CW + 10, GY + CH * 1.5 + 26, 80, "a next, 36", size=10.6, h=13, color=GREY))
 yb1 = GY + 7 * CH
 bt = len(c.between((5, 7))); on = len(c.on_a_crossing((5, 7)))
 over.append(word(60, yb1 + 14, 440, f"{on} cells are on a crossing, and {bt} between: 4 by 6, 5 by 5 less 1", size=11.5, h=14))
 over.append(word(60, yb1 + 30, 440, "with the one cell at 0 and 0, the opening, they are 25: 5 by 5, a seam and its +1", size=11.5, h=14))
-over.append(word(60, yb1 + 46, 440, "a winding by +1 is at 0 and 0 again at 35; 36, 6 by 6, is at the cell of ones", size=11.5, h=14, color=GREY))
+over.append(word(60, yb1 + 46, 440, "a winding by +1 is at a next 0 and 0 at 35; 36, 6 by 6, is at the cell of ones", size=11.5, h=14, color=GREY))
 
 # ================= 2 · a between, one thing from two sides =================
 over.append(word(530, 196, 450, "2 · a between, one thing from two sides", weight=600, size=15))
@@ -139,7 +139,7 @@ over.append(word(60, 787, 920, f"past 3 and 5 a centre is a seam of six: {join(r
 over.append(word(60, 822, 920, "5 · is-not a torus of two; and a marker", weight=600, size=15))
 over.append(word(60, 844, 920, f"6 and 10 are with 2 in both: a winding by +1 numbers {len(c.numbered((6, 10)))} of their sixty cells, the 43rd · a me-parity with its own, 5 and 5, numbers {len(c.numbered((5, 5)))} of twenty-five, the 45th", size=12, h=15))
 over.append(word(60, 862, 920, "a marker, by a partner's word of 27 November: a between is one thing from two sides, an is.", size=12, h=15, weight=600))
-over.append(word(60, 880, 920, "At an is-not, the incohering is sought, and the work goes back to this drawing.", size=12, h=15))
+over.append(word(60, 880, 920, "At an is-not, the incohering is sought, and the work is laid on from this drawing, a next laying.", size=12, h=15))
 
 # ================= the table: a name a row, its prime with its next name's =================
 TX, TY0, RH = 1004, 232, 19
@@ -158,7 +158,7 @@ for n in range(1, 18):
         over.append(word(TX + x + (w_ if al == "right" else 0), y, w_, v, al, 600 if bold else 400, 11.2 if t != "2 on" else 10.4, 16, ACC if t == "2 on" else INK, extra=NUM))
 yb = TY0 + RH * 17 + 8
 s.append(f'<path d="M{TX},{yb - 8:.1f} L{TX + 504},{yb - 8:.1f}" fill="none" stroke="{INK}" stroke-opacity="0.5" stroke-width="1"></path>')
-for i, t in enumerate(("its next's: the next name's prime, and the 17th's 61, a next 1's, Natural Numbers' returning",
+for i, t in enumerate(("its next's: the next name's prime, and the 17th's 61, a next 1's",
                        "cells: the two multiplied · crossing: the cells on its two lines, the two added less 1",
                        "between: the cells on no line, the two less 1 apiece and multiplied",
                        "2 on: its next's prime is 2 on, about one centre: its between is its own square less 1, a seam")):
@@ -185,7 +185,7 @@ title = (f'<div style="position: absolute; left: 0px; top: 916px; width: {W}px; 
 subtitle = (f'<div style="position: absolute; left: 0px; top: 962px; width: {W}px; height: 30px; line-height: 30px; text-align: center; {SANS}; font-weight: 600; '
             f'font-size: 21px; color: {ACC}">Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings</div>')
 caption = (f'<div style="position: absolute; left: 0px; top: 1002px; width: {W}px; height: 108px; line-height: 27px; text-align: center; {SANS}; font-size: 17px; color: {GREY}">'
-           "Two me-parities are one torus, and a winding by +1 numbers all their cells, a number a cell, at 0 and 0 again at the two multiplied.<br>"
+           "Two me-parities are one torus, and a winding by +1 numbers all their cells, a number a cell, at a next 0 and 0 at the two multiplied.<br>"
            "A me-parity's crossing is a line of the torus. The numbers between the crossings on the co-linear number the cells on no line: a between, one thing from two sides.<br>"
            "Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines a square. A seam lifted is the same round with finer cells.<br>"
            "A candidate, the tenth figure of twelve, beside the three drawings it gathers and writing in none.</div>")
