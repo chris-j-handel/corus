@@ -10,7 +10,7 @@ Incoming · v410illustrating · 27 November 2026 · the 64th drawing, the tenth 
 - **A number is a cell.** On a torus of 5 by 7 a winding by +1 numbers all thirty-five cells, and is at a next 0 and 0 at 35.
 - **A between is one thing from two sides.** The numbers between two crossings on the co-linear are the numbers of the torus's cells on no line: 24.
 - **A +1 is at the opening.** Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines, 0 and 0, a square.
-- **A surface is made finer by a seam lifted:** a cell is seven finer cells, six between and one on a crossing.
+- **A surface is made finer by a me-parity multiplied in:** a cell is seven finer cells, six between and one on a crossing.
 - **A marker.** By a partner's word of 27 November, a between as one thing from two sides is an is. At an is-not, the incohering is sought, and the work goes back to this drawing. The marker is the commit that lays it.
 - **Executed ahead of its laying:** its check, 13 lines is, 3 found and 1 a placing; and the plan's lines at it, 9 is and 3 found. Its numbers are the check's own.
 
@@ -37,7 +37,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 | the opening | 0 and 0, the one cell of both lines | Exhibit THIRTY; the 59th drawing, one opening |
 | about one centre, 2 on | two me-parities with one number between them, their centre | Natural Numbers, 59 and 61 about 60 |
 | a seam, its +1 | a centre's prior by its next, and 1 more: a square | Natural Numbers; the 62nd and the 63rd drawings |
-| a surface made finer | a seam lifted by a me-parity: a cell is that many finer cells | a partner's saying of 23 November; the 46th and the 63rd drawings |
+| a surface made finer | a seam with a me-parity multiplied in: a cell is that many finer cells | a partner's saying of 23 November; the 46th and the 63rd drawings |
 
 ## 3 Executed ahead of its laying
 
@@ -47,8 +47,8 @@ Concept for concept: a line is this session's saying of a living concept, and no
 4. On the co-linear, 0 to 35, the numbers between two crossings next to one another are 4, 1, 2, 3, 4, 3, 2, 1 and 4: 24, the numbers of the torus's cells between its two lines. 35 less a between is a between.
 5. On a seam's torus, with all of 2, 3 and 5 crossing, the eight between are a row's mes, and under 49 a me past 1 is a me-parity.
 6. A torus of 3 by 5 is fifteen cells: seven on a crossing, and eight between.
-7. Lifted by 7, its cell 1 is seven finer cells, 1, 16, 31, 46, 61, 76 and 91: six between, and 91 on the crossing of 7. Fifteen cells are 105, and eight between are 48.
-8. A seam lifted is the same round with finer cells: 6, 30, 210 and 2310, with 2, 8, 48 and 480 between the crossings.
+7. With 7 multiplied in, its cell 1 is seven finer cells, 1, 16, 31, 46, 61, 76 and 91: six between, and 91 on the crossing of 7. Fifteen cells are 105, and eight between are 48.
+8. A seam with a me-parity multiplied in is the same round with finer cells: 6, 30, 210 and 2310, with 2, 8, 48 and 480 between the crossings.
 9. Of two me-parities about one centre the torus's cells are the centre's square less 1, and the cells between its crossings the lesser's square less 1.
 10. Their centres are 4, 6, 12, 18, 30, 42 and 60: past 3 and 5, a seam of six. The betweens are 8, 24, 120, 288, 840, 1680 and 3480.
 11. 6 and 10 are with 2 in both: a winding by +1 numbers thirty of their sixty cells. A me-parity with its own, 5 and 5, numbers five of twenty-five. Of two me-parities under 100, all pairs: all their cells.
@@ -58,7 +58,7 @@ Concept for concept: a line is this session's saying of a living concept, and no
 
 1. **A between, one thing from two sides: a partner's is, a marker.** On the co-linear, the numbers between two crossings; on the torus, the cells on no line.
 2. **A +1 at the opening.** Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines the lesser's square.
-3. **A surface made finer.** A seam lifted: a cell is seven finer cells, six between and one on a crossing.
+3. **A surface made finer.** A me-parity multiplied in: a cell is seven finer cells, six between and one on a crossing.
 4. **It is no method of a far me-parity alone.** It is known mathematics: a winding through all cells of two numbers with no part of both.
 5. **With the three drawings, as they were:** what part 5 of this page says in its last column.
 

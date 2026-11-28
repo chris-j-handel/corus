@@ -102,7 +102,7 @@ over.append(word(530, 330, 450, f"they are {bt}: the numbers of the torus's cell
 over.append(word(530, 346, 450, "with all of 2, 3 and 5 crossing, the eight between are a row's mes: the 63rd", size=11.5, h=14, color=GREY))
 
 # ================= 3 · a surface made finer =================
-over.append(word(530, 374, 450, "3 · a surface made finer: a seam lifted", weight=600, size=15))
+over.append(word(530, 374, 450, "3 · a surface made finer: a me-parity multiplied in", weight=600, size=15))
 over.append(word(530, 393, 450, "a torus of 3 by 5 · its cell 1 is seven cells of 3 by 5 by 7, a cell of 7 apiece", size=11.5, h=14, color=GREY))
 G3X, G3Y, C3W, C3H = 548, 410, 32, 24
 grid(G3X, G3Y, C3W, C3H, 5, 3, 11)
@@ -120,7 +120,7 @@ for i, (label, vals) in enumerate(R3):
     y = 506 + 18 * i
     over.append(word(530, y, 150, label, weight=600, size=11.6, h=15, color=GREY))
     for j, v in enumerate(vals): over.append(word(700 + 64 * j + 50, y, 50, str(v), "right", 600 if i == 1 else 400, 11.6, 15, extra=NUM))
-over.append(word(530, 566, 450, f"lifted by 7, fifteen cells are 105, and eight between are {len(c.between((3, 5, 7)))}: finer, and not none", size=11.5, h=14))
+over.append(word(530, 566, 450, f"with 7 multiplied in, 15 cells are 105, and 8 between are {len(c.between((3, 5, 7)))}: finer, and not none", size=11.5, h=14))
 
 # ================= 4 · two me-parities about one centre =================
 over.append(word(60, 600, 920, "4 · two me-parities about one centre, 2 on: their betweens a seam, and its +1 the opening", weight=600, size=15))
@@ -169,7 +169,7 @@ FX, FY = 1004, 640
 over.append(word(FX, FY, 500, "found, and what this drawing leaves with the three", weight=600, size=15))
 FOUND = [("a between, one thing from two sides: a partner's is, a marker", ["on the co-linear, the numbers between two crossings; on the torus, the cells on no line"]),
          ("a +1 at the opening", ["of two me-parities about one centre the betweens are a seam, and with the one cell", "of both lines, 0 and 0, the lesser's square"]),
-         ("a surface made finer", ["a seam lifted: a cell is seven finer cells, six between and one on a crossing"]),
+         ("a surface made finer", ["a me-parity multiplied in: a cell is seven finer cells, six between and one on a crossing"]),
          ("it is no method of a far me-parity alone", ["known mathematics: a winding through all cells of two numbers with no part of both"]),
          ("with the three drawings, as they were", ["the 43rd's six and ten round 30; the 45th's all pairs under 100;", "the 48th's quarter of two primes and its diagonal, gathered by its number alone"])]
 y = FY + 26
@@ -187,7 +187,7 @@ subtitle = (f'<div style="position: absolute; left: 0px; top: 962px; width: {W}p
 caption = (f'<div style="position: absolute; left: 0px; top: 1002px; width: {W}px; height: 108px; line-height: 27px; text-align: center; {SANS}; font-size: 17px; color: {GREY}">'
            "Two me-parities are one torus, and a winding by +1 numbers all their cells, a number a cell, at a next 0 and 0 at the two multiplied.<br>"
            "A me-parity's crossing is a line of the torus. The numbers between the crossings on the co-linear number the cells on no line: a between, one thing from two sides.<br>"
-           "Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines a square. A seam lifted is the same round with finer cells.<br>"
+           "Of two me-parities about one centre the betweens are a seam, and with the one cell of both lines a square. A seam with a me-parity multiplied in is the same round with finer cells.<br>"
            "A candidate, the tenth figure of twelve, beside the three drawings it gathers and writing in none.</div>")
 ARIA = ("Five parts and a table. A table of seven rows by five columns with the numbers 0 to 34, a column and a row tinted. A line from 0 to 35 with marks over and under it. "
         "A table of three rows by five columns, and one cell drawn as seven. A table of seven pairs of primes about one centre. Three lines. A table of seventeen names, a name a row.")

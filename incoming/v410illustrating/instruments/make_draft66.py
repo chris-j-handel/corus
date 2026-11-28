@@ -45,7 +45,7 @@ def cellbox(x, y, w, h, n, sign, edge=False, size=11.2, pale=False):       # a n
 over.append(word(60, 34, 1420, "66 · figure 8 of twelve, living parities of the numbers · it gathers the 36th, the 37th and the 39th drawings · its prior figure: a me-parity in a seam, the 65th · "
                  "its next figures: a me beside an other, and a path of mes", size=12.5, weight=600, color=GREY))
 over.append(word(60, 78, 840, "A number's living parity is a + or a −: a prime multiplied in is one other-than.", size=20, h=28))
-over.append(word(60, 108, 840, "A me-parity is a −, and its square a +; a seam lifted by a me-parity is one other-than.", size=20, h=28))
+over.append(word(60, 108, 840, "A me-parity is a −, its square a +; a seam with one multiplied in is one other-than.", size=20, h=28))
 over.append(word(60, 138, 840, "Past the window a seam's torus says a cell between, and not its living parity.", size=20, h=28))
 over.append(word(920, 70, 580, "between Exhibit ONE and Exhibit THIRTY, with Natural Naming · concept for concept", weight=600, size=12.5))
 for i, t in enumerate(("Exhibit ONE · seventeen names, a name's own number and its prime: a + or a −",
@@ -74,8 +74,8 @@ for b in range(4):
         n = own["lat"][b][a]; cellbox(98 + 58 * a, 436 + 26 * b, 56, 24, n, L(n), size=11.6)
 over.append(word(60, 540, 360, "a + and a − are next to one another at all steps", size=11.5, h=14, color=GREY))
 
-# ================= 3 · a seam lifted is one other-than =================
-over.append(word(430, 388, 550, "3 · a seam lifted is one other-than; a me-parity's square a +", weight=600, size=15))
+# ================= 3 · a seam with a me-parity multiplied in is one other-than =================
+over.append(word(430, 388, 550, "3 · a me-parity multiplied in a seam is one other-than; its square a +", weight=600, size=15))
 R3 = [("a seam", [str(x) for x in c.SEAMS], None), ("its living parity", own["sp"], None),
       ("its −1", [str(x - 1) for x in c.SEAMS], [L(x - 1) for x in c.SEAMS]), ("its +1", [str(x + 1) for x in c.SEAMS], [L(x + 1) for x in c.SEAMS])]
 for i, (label, vals, signs) in enumerate(R3):
@@ -112,7 +112,7 @@ over.append(word(60, 724, 920, f"odd and even is no living parity: of the four o
 over.append(word(60, 762, 920, "6 · with the 36th and the 39th, and from the marker", weight=600, size=15))
 over.append(word(60, 784, 920, "the 36th: a field's zeros on a line · the 39th: a longer co-chain gathering the staircase of the me-parities · a field's arithmetic: no line here executes a zero", size=11.6, h=14))
 over.append(word(60, 801, 920, "the table of interests' rows 49 and 61 are of this living parity: odd and even close to alike, and crossings not saying a me-parity. This drawing resolves neither", size=11.6, h=14, color=GREY))
-over.append(word(60, 818, 920, "by a partner's is, a whole reason is a sentence of a seam and its next, under the window: a seam lifted is one other-than is of that form, and it is no reason for a row", size=11.6, h=14, color=GREY))
+over.append(word(60, 818, 920, "by a partner's is, a whole reason is a sentence of a seam and its next, under the window: a me-parity multiplied in, one other-than, is of that form; it is no reason for a row", size=11.6, h=14, color=GREY))
 over.append(word(60, 846, 920, "it goes on from the marker, the 64th drawing: a between is one thing from two sides, a partner's is.", size=11.8, h=15, weight=600))
 over.append(word(60, 864, 920, "At an is-not, the incohering is sought, and the work is laid on from it, a next laying.", size=11.8, h=15))
 
@@ -141,7 +141,7 @@ for i, t in enumerate(("its number's primes: the primes multiplied in a name's o
 # ================= found, and what this drawing leaves with the three =================
 FX, FY = 1004, 630
 over.append(word(FX, FY, 500, "found, and what this drawing leaves with the three", weight=600, size=15))
-FOUND = [("a prime multiplied in is one other-than", ["a me-parity a −, its square a +, and a seam lifted a − and a + in sequence"]),
+FOUND = [("a prime multiplied in is one other-than", ["a me-parity a −, its square a +, and a seam and its next a − and a +"]),
          ("a living parity, and odd and even: two partings, not one", ["a + and a − by the primes multiplied in, the 37th's naming; an other-than-all", f"of an even, a partner's: of the four odd of the eight, {J(odd_p)} is a +"]),
          ("past the window, a living parity is not said", [f"at {o1[0]}, {o1[3]} a − and {o1[4]} a +: the table of interests' rows 49 and 61"]),
          ("it is no method, and it resolves no interest", ["known mathematics: a field's function of the primes multiplied in a number"]),
@@ -157,10 +157,10 @@ for head, body in FOUND:
 title = (f'<div style="position: absolute; left: 0px; top: 916px; width: {W}px; height: 46px; line-height: 46px; text-align: center; {SANS}; font-weight: 600; '
          f'font-size: 32px; color: {INK}">Living Parities of the Numbers</div>')
 subtitle = (f'<div style="position: absolute; left: 0px; top: 962px; width: {W}px; height: 30px; line-height: 30px; text-align: center; {SANS}; font-weight: 600; '
-            f'font-size: 21px; color: {ACC}">Multiplying In a Prime as One Other-Than, a Seam Lifted a − and a + in Sequence</div>')
+            f'font-size: 21px; color: {ACC}">Multiplying In a Prime as One Other-Than, a Seam and Its Next a − and a +</div>')
 caption = (f'<div style="position: absolute; left: 0px; top: 1002px; width: {W}px; height: 108px; line-height: 27px; text-align: center; {SANS}; font-size: 17px; color: {GREY}">'
            "A number's living parity is a + with an even number of primes multiplied in it, and a − with an odd number. A prime multiplied in is one other-than.<br>"
-           "A me-parity is a −, and its square a +. A seam lifted by a me-parity is one other-than: the seams 2, 6, 30, 210, 2310 and 30030 are − + − + − +.<br>"
+           "A me-parity is a −, and its square a +. A seam with a me-parity multiplied in is one other-than: the seams 2, 6, 30, 210, 2310 and 30030 are − + − + − +.<br>"
            "Past the window a seam's torus says a cell between the crossings, and not its living parity. Odd and even is an other parting.<br>"
            "A candidate, the eighth figure of twelve, beside the three drawings it gathers and writing in none.</div>")
 ARIA = ("Six parts and a table. A table of four rows by thirty columns with the numbers 1 to 120, a dark cell a plus and an open cell a minus. A board of four rows by five columns. "

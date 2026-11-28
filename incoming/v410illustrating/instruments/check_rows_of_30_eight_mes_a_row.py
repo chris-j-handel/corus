@@ -7,7 +7,7 @@ The 63rd is the ninth figure of the reduced set, the rows of 30, one drawing bes
 the 46th and the 56th. By a partner's aiming of 27 November it goes on showing how the +1s are living in the seams of
 natural torusing. This check executes what the 63rd says, ahead of its laying: a row's eight mes; a next me-parity
 from its own priors; a me-parity's own crossing opening at its square, its prior by its next and 1; a square's me of a
-row; a seam lifted by its next me-parity; a seam's +1 and no last; and the names' primes in the rows.
+row; a seam with its next me-parity multiplied in; a seam's +1 and no last; and the names' primes in the rows.
 
 Do no harm: it opens Natural Numbers, Exhibit ONE and v403mgr's one table, and writes in no file.
 A line is an is, executed here; found, a thing found and laid whole; or a placing, the drawing's own.
@@ -74,11 +74,11 @@ def checks(root):
     line("is", set(sq_me.values()) == {1, 19} and [p for p in sq_me if sq_me[p] == 1] == [11, 19, 29, 31, 41, 59] and 120 % 24 == 0 == 120 % 30 and 360 % 24 == 0 == 360 % 30,
          "in the rows a me-parity's square is at the me 1 or the me 19: 121 and 361 at the me 1, one on from 120 and 360, a seam of 30 and of 24 both; 49, 169 and 289 at the me 19")
 
-    # a seam lifted by its next me-parity
+    # a seam with its next me-parity multiplied in
     lifted = [30 * k + m for k in range(7) for m in MES]
     by7 = sorted(n for n in lifted if n % 7 == 0)
     line("is", len(lifted) == 56 and by7 == [7 * m for m in MES] and len({n % 30 for n in by7}) == 8 and len(lifted) - len(by7) == 48 == cells(210),
-         "a seam of 30 lifted by 7 is seven rows, 56 mes: eight are crossed by 7, 7 by a me, one a column; and 48 are the cells of a seam of 210")
+         "a seam of 30 with 7 multiplied in is seven rows, 56 mes: eight are crossed by 7, 7 by a me, one a column; and 48 are the cells of a seam of 210")
     line("is", [cells(sm) for sm in SEAMS] == [1, 2, 8, 48, 480, 5760] and all(cells(SEAMS[i + 1]) == cells(SEAMS[i]) * (SEAMS[i + 1] // SEAMS[i] - 1) for i in range(5)),
          "a seam's cells are its prior's by its me-parity less 1: 1, 2, 8, 48, 480 and 5760, at the seams 2, 6, 30, 210, 2310 and 30030")
 

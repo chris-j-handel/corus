@@ -36,7 +36,7 @@ This session's saying of the concept, by its drawings, and no saying of a partne
 1. **A closing, and a going on.** The opening figure is a sphere opening to a torus, 720 to nought, and a torus is a sphere with one handle, its handle +1, Natural Numbers' own saying. A sphere is closed: all even, and no me-parity's own round is in it. A torus goes on by its +1: a seam, and a next seam.
 2. **The thirty ask a closing of a thing going on.** Their seats say it: a last, a value, an end, a store. Their going on to all universes is a closed all asked of a thing that is a next at all its seams. Nothing comes again, and no last is.
 3. **The resolved are said in the gap.** A seam's +1 is crossed by none of the seam's own, and a next me-parity is past them: the saying is of a seam and its next, and it is whole at all seams with no closed all in it.
-4. **A whole reason for one of the thirty is of that form, and not laid here:** a sentence whole under the window at a seam, and whole at its lifting to the next. This session lays no such sentence for any of the thirty.
+4. **A whole reason for one of the thirty is of that form, and not laid here:** a sentence whole under the window at a seam, and whole at its multiplying in to the next. This session lays no such sentence for any of the thirty.
 
 ## 4 The thirty in four kinds, this session's judging
 

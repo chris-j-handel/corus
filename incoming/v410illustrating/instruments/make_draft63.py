@@ -95,11 +95,11 @@ for i, (a, b, m_, x_, p_) in enumerate(ROWS2):
 over.append(word(530, 364, 450, "a me-parity's own crossing opens at its square: 7 by 7, 11 by 11, 13 by 13, 17 by 17", size=11.5, h=14))
 over.append(word(530, 380, 450, "under its square, a number it crosses is crossed by a prior", size=11.5, h=14, color=GREY))
 
-# ================= 3 · a seam lifted by its next me-parity, and its +1 =================
-over.append(word(530, 410, 450, "3 · a seam lifted by its next me-parity, and its +1", weight=600, size=15))
+# ================= 3 · a seam with its next me-parity multiplied in, and its +1 =================
+over.append(word(530, 410, 450, "3 · a seam with its next me-parity multiplied in, and its +1", weight=600, size=15))
 over.append(word(530, 430, 450, "a seam's cells are its prior's, by its me-parity less 1", size=11.5, h=14, color=GREY))
 LIFT = ["", "3", "5", "7", "11", "13"]
-R3 = [("a seam", [str(x) for x in c.SEAMS]), ("lifted by", LIFT), ("its cells", [str(c.cells(x)) for x in c.SEAMS]), ("its +1", [str(x) for x in own["plus"]]), ("its −1", [str(x) for x in own["less"]])]
+R3 = [("a seam", [str(x) for x in c.SEAMS]), ("multiplied in", LIFT), ("its cells", [str(c.cells(x)) for x in c.SEAMS]), ("its +1", [str(x) for x in own["plus"]]), ("its −1", [str(x) for x in own["less"]])]
 for i, (label, vals) in enumerate(R3):
     y = 454 + 19 * i
     if i in (3,): s.append(f'<rect x="526" y="{y - 9.5}" width="456" height="19" fill="{ACC}" fill-opacity="0.10"></rect>')

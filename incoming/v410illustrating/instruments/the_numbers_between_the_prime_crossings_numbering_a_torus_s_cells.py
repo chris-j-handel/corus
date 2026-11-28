@@ -7,7 +7,7 @@ Usage, from the repository's root:
 A partner said it of v410opusbio's discovering. No page of v410opusbio is in the set at this execution, and this
 instrument goes by a partner's saying alone, concept for concept, with a partner's saying of 23 November to v407primes
 beside it: larger numbers as finer localities on the surface, more cells in the same span between prime crossings.
-It executes a between two ways, on the co-linear and on a torus, and a surface made finer by a seam lifted.
+It executes a between two ways, on the co-linear and on a torus, and a surface made finer by a seam with a me-parity multiplied in.
 
 Do no harm: it opens Natural Numbers and v407primes' transcript pared, and writes in no file.
 A line is an is, executed here; or found, a thing found and laid whole.
@@ -51,11 +51,11 @@ def checks(root):
          "on a torus it is the other way: a me-parity is between the crossings, and a crossed number on a crossing. To 48 on the torus of 30, to 120 on 210, and to 168 on 2310, a cell between the crossings is a me-parity")
     line("found", True, "a between is said two ways, and they are one thing from two sides: on the co-linear a crossed number is between two me-parities; on a seam's torus a me-parity is between the crossings")
 
-    # a surface made finer: a seam lifted
+    # a surface made finer: a seam with a me-parity multiplied in
     seams = [(2, 3), (2, 3, 5), (2, 3, 5, 7), (2, 3, 5, 7, 11)]
     counts = [(prod(s_), sum(1 for n in range(prod(s_)) if gcd(n, prod(s_)) == 1)) for s_ in seams]
     line("is", counts == [(6, 2), (30, 8), (210, 48), (2310, 480)] and [round(100 * b / a) for a, b in counts] == [33, 27, 23, 21],
-         "a seam lifted is the same round with finer cells: 6, 30, 210 and 2310 cells, and 2, 8, 48 and 480 between the crossings: 33, 27, 23 and 21 in 100, finer and not none")
+         "a seam with a me-parity multiplied in is the same round with finer cells: 6, 30, 210 and 2310 cells, and 2, 8, 48 and 480 between the crossings: 33, 27, 23 and 21 in 100, finer and not none")
     lifted = {m: [30 * k + m for k in range(7)] for m in (1, 7, 11, 13, 17, 19, 23, 29)}
     line("is", all(sum(1 for n in v if n % 7 == 0) == 1 for v in lifted.values()),
          "a cell between the crossings of 30 is seven cells of 210, a cell a round of 30: six between the crossings, and one on the crossing of 7")

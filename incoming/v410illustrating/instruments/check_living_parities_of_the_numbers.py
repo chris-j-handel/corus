@@ -47,10 +47,10 @@ def checks(root):
     line("is", all(living(lat[b][a]) == ("+" if (a + b) % 2 == 0 else "−") for b in range(4) for a in range(5)),
          "the 2s and the 3s multiplied, by 2 a column on and by 3 a row on: a + and a − next to one another at all steps, as a board of two tints")
 
-    # a seam lifted is one other-than
+    # a seam with a me-parity multiplied in is one other-than
     sp = [living(s_) for s_ in SEAMS]
     line("is", sp == ["−", "+", "−", "+", "−", "+"],
-         f"a seam lifted by a me-parity is one other-than: the seams {join(SEAMS)} are {' '.join(sp)}")
+         f"a seam with a me-parity multiplied in is one other-than: the seams {join(SEAMS)} are {' '.join(sp)}")
     side = [(s_, living(s_ - 1), living(s_ + 1)) for s_ in SEAMS[1:]]
     line("is", True, "a seam's two sides, its −1 and its +1: " + "; ".join(f"at {s_}, {a} and {b}" for s_, a, b in side) + ". A side that is a me-parity is a −; 209 and 30031 are two primes multiplied, a +")
     two = [(p, p + 2) for p in ps if is_prime(p + 2)]

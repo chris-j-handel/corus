@@ -50,7 +50,7 @@ WHOLE = {59: ("One Triangle, Three Mirrors", "Opening a Sphere to a Torus, 720 t
          63: ("Rows of 30, Eight Mes a Row", "Living a Next Me-Parity from Its Own Priors, a Seam's +1 at Its Square"),
          64: ("Two Primes, One Torus", "Winding by +1 through All Their Cells, Numbering the Betweens of Their Crossings"),
          65: ("A Me-Parity in a Seam, Even, Odd, Even", "Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities"),
-         66: ("Living Parities of the Numbers", "Multiplying In a Prime as One Other-Than, a Seam Lifted a − and a + in Sequence")}
+         66: ("Living Parities of the Numbers", "Multiplying In a Prime as One Other-Than, a Seam and Its Next a − and a +")}
 # a drawing beside a figure's own drawing, of no row of the twelve: its title and its subtitle, this session's composing
 BESIDE = {58: ("One Triangle, Three Golden Rectangles", "Bi-Tri-Volutioning a Round of Five, Twelve Corners Closing as a Sphere")}
 SAID_AGAIN = {59: "its title and its subtitle are the figure's candidate said again for the whole, this session's composing",
@@ -60,7 +60,7 @@ SAID_AGAIN = {59: "its title and its subtitle are the figure's candidate said ag
               63: "its title is the figure's candidate, and its subtitle is the candidate's with a seam's +1 at a square beside it, this session's composing",
               64: "its title is the figure's candidate, and its subtitle is said again with a partner's saying of the betweens, this session's composing",
               65: "its title is the figure's candidate, and its subtitle is the candidate's with a seam's −1 and its +1 beside it, this session's composing",
-              66: "its title is the figure's candidate, and its subtitle is the candidate's with a seam lifted beside it, this session's composing"}
+              66: "its title is the figure's candidate, and its subtitle is the candidate's with a seam and its next beside it, this session's composing"}
 STANDING = {57: "laid, a candidate", 58: "laid beside it, a candidate, by a partner's is", 59: "laid, a candidate, one drawing of both", 60: "laid, a candidate", 61: "laid, a candidate", 62: "laid, a candidate", 63: "laid, a candidate", 64: "laid, a candidate", 65: "laid, a candidate", 66: "laid, a candidate"}
 ASKED = r"(?<![\w-])(?:twins?|loops?|rooms?|vaults?|rules?|distances?|apart|directions?|turn(?:s|ed|ing|ings)?|places?|sel(?:f|ves))(?![\w-])"
 FILES = ("Exhibit ONE", "Exhibit THIRTY", "Natural Naming", "Natural Illustrating")

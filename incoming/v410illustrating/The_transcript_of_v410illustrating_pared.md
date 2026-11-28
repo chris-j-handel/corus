@@ -39,6 +39,7 @@ Incoming · v410illustrating · 27 November 2026 · the transcript pared, as it 
 - *there is no concept of an own 0 coming again in nature. nothing comes again and going back is not possibly existing* · saying 24
 - *continue this and also go to the problems you can see are preventing the full list of 64 interests in the prime numberings from resolving as there are thirty about that are not resolving and likely this is for a reason we already understand living between the sphere of not-living stable form and the +1 living gap between the sphere and natural toursing living stable forming* · saying 25
 - *yes continue* · saying 26
+- *lifted is not natural naming. redo this explaining is or is not* · saying 27
 
 ## 3 A partner's method of speaking, as this session goes by it
 

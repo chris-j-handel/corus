@@ -9,14 +9,14 @@ Incoming · v410illustrating · 27 November 2026 · the 65th drawing, the eleven
 - **Its title and its subtitle:** *A Me-Parity in a Seam, Even, Odd, Even* · *Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities*. Its title is the figure's candidate; its subtitle is the candidate's, with a seam's −1 and its +1 beside it, this session's composing.
 - **A me-parity is three cells: even, odd, even.** Past 3 one of its evens is a seam of six, and the me-parity is the seam's +1 or its −1.
 - **A seam of six with a me-parity at both its sides is two about one centre.** Of the six seams of six to 36, four are: 6, 12, 18 and 30.
-- **The eight between are drawn: four odd and four even, a partner's saying.** 15 less lays odd onto even. Lifted by 2 they are a row's eight mes, four at a seam of six's +1 and four at its −1.
+- **The eight between are drawn: four odd and four even, a partner's saying.** 15 less lays odd onto even. With 2 multiplied in they are a row's eight mes, four at a seam of six's +1 and four at its −1.
 - **The five are with 3695 words of their own together, and the 65th with 1466.**
 - **Executed ahead of its laying:** its check, 11 lines is, 3 found and 1 a placing; and the plan's lines at it, 9 is and 3 found. Its numbers are the check's own.
 
 ## 1 Its five parts and its table
 
 1. **A me-parity in a seam of six, 0 to 37.** The co-linear as a row of cells: a dark cell a me-parity, a tinted cell a seam of six. Over a seam are its two sides.
-2. **The eight between, four odd and four even.** Two rows of cells, 0 to 15 over 0 to 30. A dashed arc is 15 less; a dark arrow an odd as it is, lifted by 2; an accent line an even, 15 on.
+2. **The eight between, four odd and four even.** Two rows of cells, 0 to 15 over 0 to 30. A dashed arc is 15 less; a dark arrow an odd as it is, with 2 multiplied in; an accent line an even, 15 on.
 3. **Two me-parities about one centre.** Six pairs, 5 and 7 to 59 and 61: their centre, and the two multiplied.
 4. **A +1 at a seam, six figures.** Two lines.
 5. **With the 55th, and from the marker.** Three lines.
@@ -32,7 +32,7 @@ Incoming · v410illustrating · 27 November 2026 · the 65th drawing, the eleven
 5. Of the sixty seams of six to 360, 20 are with a me-parity at both sides, 30 at one, and 10 at none.
 6. Two me-parities about one centre, past 3 and 5: their centre is a seam of six, crossed by neither, and the two multiplied are the centre's square less 1, at all 204 to 10,000.
 7. A seam's cells with a me at both sides are 1, 3, 15, 135 and 1485, at the seams 6, 30, 210, 2310 and 30030.
-8. The eight between of a torus of 3 by 5 are four odd, 1, 7, 11 and 13, and four even, 2, 4, 8 and 14. 15 less lays odd onto even; lifted by 2, the four even are 17, 19, 23 and 29.
+8. The eight between of a torus of 3 by 5 are four odd, 1, 7, 11 and 13, and four even, 2, 4, 8 and 14. 15 less lays odd onto even; with 2 multiplied in, the four even are 17, 19, 23 and 29.
 9. The row's eight mes are four at a seam of six's +1, 1, 7, 13 and 19, and four at its −1, 11, 17, 23 and 29. 30 less lays a +1 onto a −1.
 10. Of the eight, 1 with 2, 7 with 8 and 13 with 14 are an odd and its next even. 11 is with a crossing at both sides, and 4 is the centre of the torus's own two, 3 and 5.
 11. Of the seventeen names' primes, a seam of six is beside neither 2 nor 3; the fifteen more are 9 at a −1 and 6 at a +1.
@@ -40,7 +40,7 @@ Incoming · v410illustrating · 27 November 2026 · the 65th drawing, the eleven
 ## 3 Found, and laid on the drawing
 
 1. **A me-parity is a seam of six's +1 or its −1.** Even, odd, even: past 3 its seam is its prior or its next.
-2. **The eight between: four odd and four even, a partner's.** 15 less lays odd onto even; lifted by 2 they are a row's eight mes.
+2. **The eight between: four odd and four even, a partner's.** 15 less lays odd onto even; with 2 multiplied in they are a row's eight mes.
 3. **Two about one centre: a seam, and both its +1 and its −1.** Their crossings are together next at the centre's square less 1, the 64th's torus.
 4. **It is no method, and no saying of two with no last.** It is known mathematics. Two me-parities about one centre with no last is a field's open asking, and no line here says it.
 5. **With the five drawings, as they were:** what part 4 of this page says in its last column.

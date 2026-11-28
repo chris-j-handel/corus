@@ -6,9 +6,9 @@ Incoming · v410illustrating · 27 November 2026 · the 66th drawing, the eighth
 
 ## In one minute
 
-- **Its title and its subtitle:** *Living Parities of the Numbers* · *Multiplying In a Prime as One Other-Than, a Seam Lifted a − and a + in Sequence*. Its title is the figure's candidate; its subtitle is the candidate's, with a seam lifted beside it, this session's composing.
+- **Its title and its subtitle:** *Living Parities of the Numbers* · *Multiplying In a Prime as One Other-Than, a Seam and Its Next a − and a +*. Its title is the figure's candidate; its subtitle is the candidate's, with a seam with a me-parity multiplied in beside it, this session's composing.
 - **A number's living parity is the 37th drawing's naming:** a + with an even number of primes multiplied in it, a − with an odd number, and 1 a +.
-- **A prime multiplied in is one other-than.** A me-parity is a −, and its square a +. A seam lifted by a me-parity is one other-than: the seams 2, 6, 30, 210, 2310 and 30030 are − + − + − +.
+- **A prime multiplied in is one other-than.** A me-parity is a −, and its square a +. A seam with a me-parity multiplied in is one other-than: the seams 2, 6, 30, 210, 2310 and 30030 are − + − + − +.
 - **Past the window a living parity is not said.** At 210, past 121, of 21 cells between the crossings 16 are a − and 5 a +; the seam's torus says a cell between, and none of which.
 - **Odd and even is an other parting.** Of the eight between, the four odd are 1 a + and 3 a −, and the four even 2 a + and 2 a −.
 - **Executed ahead of its laying:** its check, 11 lines is, 3 found and 1 a placing, its numbers made by the execution; and the plan's lines at it, 9 is and 3 found.
@@ -17,7 +17,7 @@ Incoming · v410illustrating · 27 November 2026 · the 66th drawing, the eighth
 
 1. **A number's living parity, 1 to 120.** Four rows of 30: a dark cell a +, an open cell a −, an accent edge a me-parity. The +s a row are 13, 16, 14 and 12.
 2. **Multiplying in a prime.** The 2s and the 3s as a board of two tints: by 2 a column on, by 3 a row on.
-3. **A seam lifted is one other-than.** Six seams, their living parity, and their two sides.
+3. **A seam with a me-parity multiplied in is one other-than.** Six seams, their living parity, and their two sides.
 4. **Past the window.** Two lines, at 210 and at 2310.
 5. **The eight between of a torus of 3 by 5, their living parities.** A row of fifteen cells. A doubling, 1, 2, 4 and 8, is + − + −.
 6. **With the 36th and the 39th, and from the marker.** Five lines.
@@ -25,7 +25,7 @@ Incoming · v410illustrating · 27 November 2026 · the 66th drawing, the eighth
 
 ## 2 Found, and laid on the drawing
 
-1. **A prime multiplied in is one other-than:** a me-parity a −, its square a +, and a seam lifted a − and a + in sequence.
+1. **A prime multiplied in is one other-than:** a me-parity a −, its square a +, and a seam and its next a − and a +.
 2. **A living parity, and odd and even: two partings, not one.** A + and a − by the primes multiplied in is the 37th's naming, v406other2's. An other-than-all of an even and an other-than-other-than-all of an odd is a partner's. Both are laid.
 3. **Past the window, a living parity is not said.** It is the table of interests' rows 49 and 61, and the drawing resolves neither.
 4. **It is no method, and it resolves no interest.** It is known mathematics: a field's function of the primes multiplied in a number.
@@ -51,7 +51,7 @@ Incoming · v410illustrating · 27 November 2026 · the 66th drawing, the eighth
 
 ## A sentence for a partner's is or is-not, nothing waiting at it
 
-A seam lifted by a me-parity is one other-than: its living parity is a − and a + in sequence, at all seams. ( is-or-is-not? )
+A seam with a me-parity multiplied in is one other-than: its living parity is a − and a + in sequence, at all seams. ( is-or-is-not? )
 
 ## To execute
 

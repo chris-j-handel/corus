@@ -60,10 +60,10 @@ def checks(root):
     line("is", len(numbered(t35)) == 15 and len(on_a_crossing(t35)) == 7 and between(t35) == [1, 2, 4, 7, 8, 11, 13, 14],
          "a torus of 3 by 5 is fifteen cells: seven on a crossing, and eight between, numbered 1, 2, 4, 7, 8, 11, 13 and 14")
     line("is", finer == [1, 16, 31, 46, 61, 76, 91] and [n for n in finer if n % 7 == 0] == [91] and len(between((3, 5, 7))) == 48 and len(numbered((3, 5, 7))) == 105,
-         "lifted by 7, its cell 1 is seven finer cells, 1, 16, 31, 46, 61, 76 and 91: six between, and 91 on the crossing of 7. Fifteen cells are 105, and eight between are 48")
+         "with 7 multiplied in, its cell 1 is seven finer cells, 1, 16, 31, 46, 61, 76 and 91: six between, and 91 on the crossing of 7. Fifteen cells are 105, and eight between are 48")
     counts = [(prod(s_), len(between(s_))) for s_ in SEAMS]
     line("is", counts == [(6, 2), (30, 8), (210, 48), (2310, 480)] and [round(100 * b / a) for a, b in counts] == [33, 27, 23, 21],
-         "a seam lifted is the same round with finer cells: 6, 30, 210 and 2310, with 2, 8, 48 and 480 between the crossings: 33, 27, 23 and 21 in 100")
+         "a seam with a me-parity multiplied in is the same round with finer cells: 6, 30, 210 and 2310, with 2, 8, 48 and 480 between the crossings: 33, 27, 23 and 21 in 100")
 
     # two me-parities about one centre
     rows = [(p, q, p + 1, p * q, (p + 1) ** 2, p + q - 1, (p - 1) * (q - 1), p * p) for p, q in TWO_APART]
