@@ -84,9 +84,9 @@ Six sentences, a sentence with its standing. A me-parity is a prime of the field
 1. A me-parity opens a universe at its me again: 2 at 4, 3 at 9, 5 at 25 and 7 at 49. *(a naming, v408primes')*
 2. The universe a me-parity opens is from its me again to the number ahead of the next me-parity's me again: 4 to 8, 9 to 24, 25 to 48 and 49 to 120. *(a naming, v408primes')*
 3. A number of a me-parity's universe is a me-parity with no me-parity to the opener crossing the number, and a crossing with one. In 4 to 8, 2 crosses 4, 6 and 8, and 5 and 7 are me-parities. In 9 to 24, 2 and 3 cross all but 11, 13, 17, 19 and 23. *(proved at all numbers by a co-chain, More competency possible, in the stable form, its sentence 5)*
-4. A me-parity born in a universe opens a universe of its own at its own me again: 5 at 25 and 7 at 49, both born in the universe of 2; 11 at 121, 13 at 169, 17 at 289, 19 at 361 and 23 at 529, all five born in the universe of 3. *(by sentence 1, at all numbers)*
+4. A me-parity of a universe opens a universe of its own at its own me again: 5 at 25 and 7 at 49, both me-parities of the universe of 2; 11 at 121, 13 at 169, 17 at 289, 19 at 361 and 23 at 529, all five me-parities of the universe of 3. *(by sentence 1, at all numbers)*
 5. Past all me-parities named is a me-parity, and no universe is the last universe. *(proved at all numbers by a co-chain, the prime table's row 1)*
-6. Sentences 1 to 5 name no number of their own, and are the same at all universes: a universe's me-parities are whole by the me-parities ahead of the universe, and a me-parity born is an opener. *Fractaling* is the name of the same of sentences 1 to 5. *(a naming, offered)*
+6. Sentences 1 to 5 name no number of their own, and are the same at all universes: a universe's me-parities are whole by the me-parities ahead of the universe, and a me-parity of a universe is an opener. *Fractaling* is the name of the same of sentences 1 to 5. *(a naming, offered)*
 
 The co-chains of sentences 3 and 5 are long known in the field. v410primes laid both in natural naming, and no other session went through either.
 
@@ -106,7 +106,7 @@ Two sentences beside a partner's word 8, a sentence with its standing. The two s
 | 1 to 17 | 2, 3, 5, 7, 11, 13 and 17 | the universe of 2, whole; the universe of 3, to 17 |
 | 1 to 65 | the seven of 1 to 17, and 19, 23, 29, 31, 37, 41, 43, 47, 53, 59 and 61: eighteen | the universes of 2, 3 and 5, whole; the universe of 7, opening at 49, to 65 |
 
-In 1 to 65 the openers are 2, 3, 5 and 7, and all eighteen me-parities are whole by the four openers. 11 is born in the universe of 3 and opens at 121, past the round.
+In 1 to 65 the openers are 2, 3, 5 and 7, and all eighteen me-parities are whole by the four openers. 11 is a me-parity of the universe of 3 and opens at 121, past the round.
 
 ## 8. The places
 
