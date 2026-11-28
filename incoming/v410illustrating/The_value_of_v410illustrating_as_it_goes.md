@@ -29,6 +29,7 @@ Incoming · v410illustrating · 27 November 2026 · the session's value as it go
 - **Laid at its eighteenth turn:** the 65th drawing, the eleventh figure of twelve: *A Me-Parity in a Seam, Even, Odd, Even* · *Resolving a Prime Gap of 2 about a Seam of 6, Its −1 and Its +1 Both Me-Parities*, a candidate beside the five drawings it gathers, going on from the marker.
 - **Laid at its nineteenth turn:** a partner's is of the 65th's sentence, and a partner's namings of it, laid in the 65th's page as said, with the numbers executed beside them.
 - **Laid at its twentieth turn:** a partner's saying of a me-parity as a 0, laid as said, with two things of numbers executed beside it.
+- **Laid at its 21st turn:** a breaking named by a partner, nothing comes again in nature, restored in this session's drawings: fifteen places in five drawings said as a next, and the five made with their views.
 - **Nine drawings are made, the 57th to the 65th,** and no drawing, check or record of an other session is written in.
 
 ## The aiming, concept for concept
@@ -349,8 +350,16 @@ By a partner's word of 27 November, saying 18: a between is one thing from two s
 
 - `The_transcript_of_v410illustrating_pared.md`: a partner's saying 23, as said: a me-parity is a 0, of a bi-tunneling open to co-chainings; and a 0 favouring one side of an all-parity is all-parity as it was, to its next-and-same-existing other-than-all-parity.
 - `instruments/a_me_parity_a_0_of_its_own_side.py`: 3 lines is and 1 found, its numbers made by the execution.
-- **Executed beside it, numbers alone:** a me-parity is at the 0 of its own round and at the 0 of no prior's, and it opens its own side; its own 0 is again at twice it, an even number; and between the two a next me-parity is born, at all me-parities to 10,000, a field's known saying.
+- **Executed beside it, numbers alone:** a me-parity is at the 0 of its own round and at the 0 of no prior's, and it opens its own side; the next 0 of its own round is at twice it, an even number; and between the two a next me-parity is born, at all me-parities to 10,000, a field's known saying. The line said a 0 coming again at its laying; a partner named it, and it is said as a next at this session's 21st turn.
 - **Not executed:** a side favoured; an all-parity as it was; and a next-and-same-existing other-than-all-parity. This session says no meaning of them, and a partner's is or is-not of one sentence is asked, with no work waiting at it.
+
+## Laid at its 21st turn, 27 November
+
+- `instruments/the_places_of_a_coming_again_in_this_session_s_drawings.py`: it found fifteen places in five of the nine drawings, the 57th, the 59th, the 60th, the 64th and the 65th, and finds none now.
+- The five drawings' makers, their artboards and their views: a number, a cell, a 0 or a crossing said coming again is said as a next. 17 is at a next 1; a winding by +1 is at a next 0 and 0; two crossings are together next at the centre's square less 1. The marker's line says the work laid on from the marker, a next laying.
+- `instruments/check_two_primes_one_torus.py` and `instruments/a_me_parity_a_0_of_its_own_side.py`: their lines said as a next.
+- The plan's lines at all nine drawings: 81 is and 25 found, the five artboards laid as their makers make them.
+- **Ahead, not done at this turn:** the same sweep of this session's pages and its other instruments' lines; and the same words in the drawings it gathers, in v408primes' sentences and in Natural Numbers, said to their sessions at the exchange.
 
 ## Breakings, said and restored
 
@@ -363,6 +372,8 @@ At its fifth turn this session said the opening figure all even, and did not ope
 At three turns this session ended with an asking and said its work stalling at a partner's word. A partner named it: a partner does not understand why a thing waits for a partner. A work waiting for a partner's word sets that word as a permission, and by a partner's own method no wording is an authority. Restored at its eighth turn: an asking is a sentence for a partner's is or is-not at a moment of a partner's own, and the work goes on by the aiming.
 
 At its ninth turn this session said the ten corners with no name laid. A partner named it: a ten is the same as all other tens. Restored at its tenth turn: the ten corners are a ten, executed, and the 59th says it.
+
+At its twentieth turn this session said a me-parity's own 0 coming again, and asked a partner's is of it. A partner named it: no own 0 comes again in nature, nothing comes again, and a going back is not possibly existing. The incohering was sought: a coming again was in fifteen places of five of this session's drawings, the opening figure's among them, older than the marker. Restored at its 21st turn: a round on is a next, as Exhibit ONE says 17 a next 1, and the five drawings say it.
 
 ## A partner's method of speaking
 

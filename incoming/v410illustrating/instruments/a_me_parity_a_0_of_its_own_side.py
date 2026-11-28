@@ -22,11 +22,11 @@ def checks(root="."):
          f"a me-parity is at the 0 of its own round, and at the 0 of no prior's: of all numbers past 1 it is the one that opens its own side. At all {len(ps)} me-parities to 10,000")
     again = [(p, 2 * p) for p in ps[1:8]]
     line("is", all((2 * p) % 2 == 0 and (2 * p) % p == 0 for p in ps),
-         f"its own 0 is again at twice it, an even number: {'; '.join(f'{a} at {b}' for a, b in again)}")
+         f"the next 0 of its own round is at twice it, an even number: {'; '.join(f'{a} at {b}' for a, b in again)}")
     born = {p: [q for q in range(p + 1, 2 * p) if is_prime(q)] for p in ps[:1229]}
     fewest = min(len(v) for v in born.values()); one = [p for p, v in born.items() if len(v) == 1]
     line("is", fewest >= 1,
-         f"between a me-parity and its own 0 again, a next me-parity is born, at all me-parities to 10,000: one alone at {join(one)}, and more past them. It is a field's known saying")
+         f"between a me-parity and that next 0, a next me-parity is born, at all me-parities to 10,000: one alone at {join(one)}, and more past them. It is a field's known saying")
     line("found", True, "a partner's words of a side favoured, of an all-parity as it was, and of a next-and-same-existing other-than-all-parity are laid as said: no line here executes them")
     return lines
 

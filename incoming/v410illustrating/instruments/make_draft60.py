@@ -99,7 +99,7 @@ bullets(500, 456, 480, ("● a shell is a seam and one more: 6 by 0, 1, 3, 6 and
 # ================= 3 · a seam of six, a torus of 2 by 3 =================
 GX, GY, CW, CH = 520, 566, 92, 46
 over.append(word(500, 522, 480, "3 · a seam of six, a torus of 2 by 3", weight=600, size=15))
-over.append(word(500, 543, 480, "a winding by +1 is through all six cells, at its opening again at 6", size=11.5, h=14, color=GREY))
+over.append(word(500, 543, 480, "a winding by +1 is through all six cells, at a next opening at 6", size=11.5, h=14, color=GREY))
 def numbers_of(a, b):
     out = []
     for n in range(0, 42):
@@ -121,7 +121,7 @@ over.append(word(GX + 3 * CW + 10, GY + CH / 2, 180, "the spiral of 2 crosses", 
 over.append(word(GX + 3 * CW + 10, GY + CH + CH / 2 - 8, 180, "a +1 and a −1: crossed", size=11, h=14, color=GREY))
 over.append(word(GX + 3 * CW + 10, GY + CH + CH / 2 + 7, 180, "by none", size=11, h=14, color=GREY))
 over.append(word(GX, GY + 2 * CH + 12, 470, "the spiral of 3 crosses the cells of 0 and of 3 · a prime past 3 is at the +1 or at the −1", size=11, h=14, color=GREY))
-over.append(word(GX, GY + 2 * CH + 28, 470, "0 is the cell of both seams, a seam at it again at all its rounds · in the accent, a shell", size=11, h=14, color=GREY))
+over.append(word(GX, GY + 2 * CH + 28, 470, "0 is the cell of both seams, a next seam at it at all its rounds · in the accent, a shell", size=11, h=14, color=GREY))
 
 # ================= the table: a name a row, its prime beside a six =================
 TX, TY0, RH = 1004, 232, 19
@@ -164,7 +164,7 @@ for i, (seam, p, living, plus, ps) in enumerate(own["rows"]):
 
 # ================= 5 · the +1s of the opening figure =================
 over.append(word(552, 736, 430, "5 · the +1s of the opening figure, the 59th", weight=600, size=15))
-bullets(552, 762, 440, ("● 16 and 1: 17 is at 1 again, on a torus of sixteen patches",
+bullets(552, 762, 440, ("● 16 and 1: 17 is at a next 1, on a torus of sixteen patches",
                         "● a torus is a sphere with one handle, and its handle is +1",
                         "● 59 and 1: sixty moves of one hand, one moving nothing",
                         "● 35 and 1 is 36, and 36 and 1 is 37: 5 by 7, 6 by 6, a prime",
